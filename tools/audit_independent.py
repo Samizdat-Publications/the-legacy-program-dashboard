@@ -35,6 +35,157 @@ def ck(name, got, want, note=""):
                     + (f"  [{note}]" if note else ""))
 
 
+def topic_rules(vocab, nodes):
+    """The topic records (redesign phase 5). The rules verify.py holds, restated by
+    another route: claim ownership and tier from the SHIPPED app/public/data/
+    claims.json rather than the board, edge ends and tiers from edges.json, edge
+    sentences from the node files' own connection rows, and the unplaced claims'
+    ids re-hashed here. The role list is restated, not imported, and compared with
+    the vocabulary."""
+    import hashlib, re, unicodedata
+    ROLES = ["subject", "official", "investigator", "witness", "claimant", "critic",
+             "researcher", "journalist", "contractor", "legislator", "document", "law",
+             "programme", "institution", "place", "event"]
+    ck("schema/vocab.json names the sixteen topic roles",
+       [r["id"] for r in vocab.get("topicRoles") or []], ROLES)
+    app = os.path.join(ROOT, "app", "public", "data")
+    rows = json.load(open(os.path.join(app, "claims.json"), encoding="utf-8"))
+    claim_at = {r["id"]: r for r in rows}
+    edge_at = {r["id"]: r for r in json.load(open(os.path.join(app, "edges.json"), encoding="utf-8"))}
+    removed = json.load(open(os.path.join(ROOT, "research", "_removed.json"), encoding="utf-8"))
+    alias = removed.get("alias") or {}
+    on_board = {n["id"] for n in nodes}
+    tdir = os.path.join(ROOT, "research", "topics")
+    topics = {}
+    for f in sorted(os.listdir(tdir)):
+        if f.endswith(".json") and not f.startswith("_"):
+            t = json.load(open(os.path.join(tdir, f), encoding="utf-8"))
+            topics[t["id"]] = t
+    norm = lambda s: re.sub(r"\s+", " ", unicodedata.normalize("NFC", str(s or ""))).strip()
+
+    def unplaced_id(node, text):
+        return "c-" + hashlib.sha1(f"{node}|{norm(text)}".encode("utf-8")).hexdigest()[:10]
+
+    notes = {}
+
+    def edge_note(eid):
+        # the sentence and label of an edge, read off its first end's node file
+        if eid not in notes:
+            e = edge_at[eid]
+            rec = json.load(open(os.path.join(app, "nodes", e["a"] + ".json"), encoding="utf-8"))
+            notes[eid] = ""
+            for c in rec.get("connections") or []:
+                if c.get("edgeId") == eid:
+                    notes[eid] = norm(c.get("note")) + " | " + norm(c.get("edgeLabel"))
+                    break
+        return notes[eid]
+
+    url_rx = re.compile(r"(?i)https?://|www\.[a-z0-9-]+\.")
+    quote_rx = re.compile('"([^"\n]{4,}?)"|“([^”\n]{4,}?)”')
+    breaks = {k: [] for k in ("status", "member", "role", "cite", "owner", "uncited", "quote",
+                              "url", "record", "size", "related")}
+    for tid, t in topics.items():
+        if t.get("status") not in ("draft", "drafted", "verified"):
+            breaks["status"].append(tid)
+        if t.get("status") not in ("drafted", "verified"):
+            continue
+        members = list(t.get("members") or [])
+        mine = {alias.get(m.get("id"), m.get("id")) for m in members if isinstance(m, dict)}
+        mine |= set(t.get("absorbs") or [])
+        for m in members:
+            if not isinstance(m, dict) or alias.get(m.get("id"), m.get("id")) not in on_board:
+                breaks["member"].append(f"{tid}:{m}")
+            elif m.get("role") not in ROLES:
+                breaks["role"].append(f"{tid}:{m.get('id')}")
+        up = {unplaced_id(c.get("collapsedInto"), c.get("claim")): c
+              for c in t.get("unplacedClaims") or []}
+        entries = ([("lead", t["lead"])] if t.get("lead") is not None else []) + \
+            [(k, it) for k in ("summary", "record", "claimed", "contested") for it in t.get(k) or []]
+        for k, it in entries:
+            cites = (it.get("cite") or []) if isinstance(it, dict) else []
+            text = str(it.get("text") or "") if isinstance(it, dict) else ""
+            if not cites or not text.strip():
+                breaks["uncited"].append(f"{tid}:{k}")
+            said, tiers = [], []
+            for c in cites:
+                if c in up:
+                    said.append(norm(up[c].get("claim")))
+                    tiers.append(up[c].get("tier"))
+                elif c in claim_at:
+                    if claim_at[c]["node"] not in mine:
+                        breaks["owner"].append(f"{tid}:{c}")
+                    said.append(norm(claim_at[c]["text"]))
+                    tiers.append(claim_at[c]["tier"])
+                elif c in edge_at:
+                    e = edge_at[c]
+                    if e["a"] not in mine or e["b"] not in mine:
+                        breaks["owner"].append(f"{tid}:{c}")
+                    said.append(edge_note(c))
+                    tiers.append(e.get("tier"))
+                else:
+                    breaks["cite"].append(f"{tid}:{c}")
+            for m in quote_rx.finditer(text):
+                q = norm(m.group(1) or m.group(2))
+                if not any(q in s for s in said):
+                    breaks["quote"].append(f"{tid}:{q[:40]}")
+            if url_rx.search(text):
+                breaks["url"].append(f"{tid}:{k}")
+            if k == "record" and 1 not in tiers:
+                breaks["record"].append(f"{tid}:{text[:40]}")
+        if any(url_rx.search(str(q)) for q in (t.get("questions") or []) + [t.get("title")]):
+            breaks["url"].append(f"{tid}:title or question")
+        if len(members) < 6 and not str(t.get("researchGap") or "").strip():
+            breaks["size"].append(tid)
+        breaks["related"] += [f"{tid}:{r}" for r in t.get("related") or []
+                              if r not in topics or r == tid]
+    for k, v in breaks.items():
+        ck(f"topic rule holds: {k}", v[:5], [])
+
+    # coverage against the committed floor, counted here over the app's own index
+    idx = json.load(open(os.path.join(app, "index.json"), encoding="utf-8"))["nodes"]
+    inm = {alias.get(m.get("id"), m.get("id")) for t in topics.values()
+           for m in t.get("members") or [] if isinstance(m, dict)}
+    floor = json.load(open(os.path.join(ROOT, "tools", "TOPIC-COVERAGE-FLOOR.json"), encoding="utf-8"))
+    for k, pick in (("nodes", lambda n: n["cls"] != "domain"),
+                    ("people", lambda n: n["cls"] == "person")):
+        xs = [n["id"] for n in idx if pick(n)]
+        share = round(sum(1 for i in xs if i in inm) / len(xs), 4) if xs else 0.0
+        ck(f"topic coverage of {k} is at or above the floor", share >= floor[k], True,
+           f"{share} against {floor[k]}")
+
+    # what ships: one topic file per record, each cite resolving to the text and
+    # tier claims.json and edges.json carry, and absorbedBy on each absorbed node
+    shipped = json.load(open(os.path.join(app, "topics.json"), encoding="utf-8"))
+    ck("topics.json lists every topic record", sorted(r["id"] for r in shipped["topics"]),
+       sorted(topics))
+    wrong = []
+    for tid, t in topics.items():
+        p = os.path.join(app, "topics", tid + ".json")
+        if not os.path.exists(p):
+            wrong.append(f"{tid}: no file")
+            continue
+        rec = json.load(open(p, encoding="utf-8"))
+        for cid, r in (rec.get("cites") or {}).items():
+            if r.get("kind") == "claim" and not r.get("unplaced"):
+                row = claim_at.get(cid)
+                if not row or (row["text"], row["tier"], row["node"]) != \
+                        (r.get("text"), r.get("tier"), r.get("node")):
+                    wrong.append(f"{tid}: {cid}")
+            elif r.get("kind") == "edge":
+                row = edge_at.get(cid)
+                if not row or row.get("tier") != r.get("tier") or \
+                        [row["a"], row["b"]] != [x["id"] for x in r.get("endpoints") or []]:
+                    wrong.append(f"{tid}: {cid}")
+            elif not r.get("unplaced"):
+                wrong.append(f"{tid}: {cid} unresolved")
+        for i in t.get("absorbs") or []:
+            node = json.load(open(os.path.join(app, "nodes", i + ".json"), encoding="utf-8"))
+            if node.get("absorbedBy") != tid:
+                wrong.append(f"{i}: absorbedBy {node.get('absorbedBy')!r}, not {tid}")
+    ck("every shipped topic file resolves its cites as claims.json and edges.json do",
+       wrong[:5], [])
+
+
 def main():
     b = json.load(open(BOARD, encoding="utf-8"))
     people, ents, edges = b["people"], b["entities"], b["edges"]
@@ -300,6 +451,8 @@ def main():
        sorted(k for k, v in verbs.items() if v.get("type") not in TYPES), [])
     ck("no timeline event ships the old mixed `tier` field",
        sum(1 for t in b.get("timeline", []) if "tier" in t), 0)
+
+    topic_rules(vocab, nodes)
 
     # ---- report ---------------------------------------------------------------
     print("=" * 66)

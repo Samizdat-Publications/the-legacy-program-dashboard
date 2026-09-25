@@ -31,7 +31,504 @@
  ],
  "absorbs": [],
  "essays": [],
- "status": "draft",
+ "status": "verified",
  "notes": "Appendix T's nuclear-sites split by era: the nuclear register (47 witnesses) made the missile-field group the fourth largest community, and its incidents fall in two decades. Big Sur is here as a missile-test incident, with Kingston George's identification as the case against.",
- "appendixT": "nuclear-sites"
+ "appendixT": "nuclear-sites",
+ "lead": {
+  "text": "In the missile fields and test ranges of the mid-1960s the Air Force's own paper records one event beyond dispute, the loss of strategic alert across every launch facility of Malmstrom's Echo Flight on 16 March 1967, and a dense Blue Book file on Minot in October 1968; around them sit a second Malmstrom shutdown claimed at Oscar Flight, which no released record mentions, and a 1964 missile-test film at Big Sur two of whose participants disagree about what it showed.",
+  "cite": [
+   "c-d5553a98f7",
+   "c-f0a907c1e1",
+   "c-96b65ce17c",
+   "e-1b634c1982"
+  ]
+ },
+ "summary": [
+  {
+   "text": "Echo Flight: the 341st Strategic Missile Wing history records the shutdown, the engineering investigation that followed, and a single sentence saying rumours of UFOs around the flight were disproven.",
+   "cite": [
+    "c-acf551b595",
+    "e-0dca556dd7",
+    "e-8e39d08315"
+   ]
+  },
+  {
+   "text": "Oscar Flight: Robert Salas's account of a second shutdown was separated from Echo Flight and dated to 24 March 1967 by Robert Hastings on the recollection of Robert Jamison; the released wing history does not mention it.",
+   "cite": [
+    "e-a4726f1177",
+    "e-ea24d246c2",
+    "e-86c7cd289c"
+   ]
+  },
+  {
+   "text": "Warren and Minot: reports over Warren in 1965 and over Minot in 1966 and 1968 are known through a Blue Book log printed by Hynek, Air Force documents published in Hastings's archive, and the Minot case archive's index to the Blue Book file; with Malmstrom in 1967 the sequence spans three bases.",
+   "cite": [
+    "e-a1e8f8dd93",
+    "e-026e662e22",
+    "e-a389e61911",
+    "c-8de9500e37",
+    "e-abc6efc425",
+    "c-2124f29127"
+   ]
+  },
+  {
+   "text": "Big Sur: Robert Jacobs and the project engineer Kingston George, both on the 1964 deployment and both published under their own names, agree on who was there and disagree about what the film showed.",
+   "cite": [
+    "e-d08040f885",
+    "e-1b634c1982",
+    "e-409e908da2"
+   ]
+  },
+  {
+   "text": "How the accounts reached us divides the cluster: several Malmstrom witnesses reach the public only through one interviewer, while the Minot co-pilot, the Warren telephone log and Jacobs came forward by other routes.",
+   "cite": [
+    "e-7be1e0e83f",
+    "e-77daca48cd",
+    "e-a46b86d7b9",
+    "c-1ecac3e0ba"
+   ]
+  }
+ ],
+ "record": [
+  {
+   "text": "The 341st Strategic Missile Wing history for January to March 1967 records that on 16 March 1967 at 0845 all sites in Echo Flight shut down with a No-Go indication on Channels 9 and 12, that all its launch facilities lost strategic alert nearly simultaneously, and that no other configuration in the wing lost alert at that time.",
+   "cite": [
+    "c-acf551b595",
+    "c-d5553a98f7",
+    "e-cc4f938f14"
+   ]
+  },
+  {
+   "text": "SAC Headquarters called in OOAMA support for a complete engineering analysis within hours, and the history cites a SAC message of 17 March 1967 titled Loss of Strategic Alert Echo Flight. An Air Force teletype of 17 March 1967 on the loss of alert is published in facsimile in Hastings's archive.",
+   "cite": [
+    "c-23d2bfc4b1",
+    "c-c592534e7a",
+    "c-1d81a6a858",
+    "e-d2b70dec63"
+   ]
+  },
+  {
+   "text": "The investigation teams at Malmstrom were unable to determine a logical cause. They ruled out weather, radar or atmospheric interference, alerting-system activity, commercial power switching after a test with the Montana Power Company on 28 March 1967, and Boeing modification teams that arrived after the incident.",
+   "cite": [
+    "c-087d3a066d",
+    "c-b804219006",
+    "c-eb6ec9b42c"
+   ]
+  },
+  {
+   "text": "Boeing's first theory was tested and proved wrong, but its bench tests reproduced the Echo Flight fault signature in 60 percent of applications of a 30 microsecond pulse; the history concludes, because the power tests were essentially negative, that the cause appears to have been of an EMP or electrostatic nature. Boeing then submitted engineering change proposals for EMP modification, and SAMSO ran EMP tests on Delta Flight at F. E. Warren and at the 564th Strategic Missile Squadron.",
+   "cite": [
+    "c-d9ed668ecb",
+    "c-7831af67d1",
+    "c-2e15945feb",
+    "c-ae2d000aac"
+   ]
+  },
+  {
+   "text": "The history also records a comparable multi-facility shutdown at Alpha Flight on 19 December 1966, with the same capsule crew, adverse weather and a commercial power failure.",
+   "cite": [
+    "c-780bf5415d"
+   ]
+  },
+  {
+   "text": "The histories reached the public through a FOIA request by John Greenewald Jr of 9 May 2001; Headquarters 341st Space Wing replied on 14 June 2001 releasing copies of excerpts and supporting documents of five quarterly histories, now hosted by The Black Vault. The Echo Flight section is footnoted to a classified engineering report of 23 March 1967 that is not in the release.",
+   "cite": [
+    "c-12cd743674",
+    "c-8373240f4b",
+    "c-5cb139e904",
+    "e-7680c03d87",
+    "e-f2e965e318"
+   ]
+  },
+  {
+   "text": "No launch control officer is named anywhere in the release; the only officer named in the Echo Flight section is a captain in the command post, and Figel, Salas and Carlson do not appear. The strings Oscar, O Flight, 24 Mar and 25 Mar occur nowhere in its 88 pages.",
+   "cite": [
+    "c-a04de020b0",
+    "c-f9a1877569",
+    "c-96b65ce17c"
+   ]
+  },
+  {
+   "text": "The Blue Book file on Minot, 24 October 1968, is a coordinated set: a final case report of 13 November 1968, Lt Col Arthur J. Werlich's Basic Reporting Data of 28 October, the missile wing security controller's summary, a dispatcher's log, seven AF Form 117 questionnaires, thirteen B-52 radarscope photographs and a transcription of the co-pilot's radio exchanges. It names the questionnaire respondents and the B-52H crew, including co-pilot Capt. Bradford Runyon.",
+   "cite": [
+    "c-f0a907c1e1",
+    "c-2124f29127",
+    "c-a26724a896",
+    "c-d1c98cde76",
+    "e-a389e61911"
+   ]
+  },
+  {
+   "text": "NICAP's RADCAT directory, cataloguing that file and associated traffic, records that Minot ground radar tracked an unidentified object and radioed it to the B-52H JAG 31; base weather radar also tracked it; the bomber's radio transmitter failed for four minutes; and Minuteman sites of N, O, J and M Flights reported sightings, security alarms at the silo rings, an outer door opened and an inner door's combination lock moved.",
+   "cite": [
+    "c-21683a70d3",
+    "c-63019abb86",
+    "e-86ddc6c30d"
+   ]
+  },
+  {
+   "text": "The RADCAT directory records that Project Blue Book did not send field investigators to Minot despite interest from SAC generals including 15th Air Force's Maj. Gen. Nichols; researchers have since located 108 and 141 documents on the case.",
+   "cite": [
+    "c-80553bc19f",
+    "e-3ad3b3a25b"
+   ]
+  },
+  {
+   "text": "Three Air Force documents dated 25 August 1966 on Minot and four dated 1 August 1965 on F. E. Warren are published in facsimile in Hastings's archive, with Minot Daily News coverage of 6 December 1966.",
+   "cite": [
+    "c-bc33b802ad",
+    "c-c4637db476",
+    "e-abc6efc425"
+   ]
+  },
+  {
+   "text": "Kingston George's article in the Skeptical Inquirer, Winter 1993, opens by saying he was the project engineer. It describes an Air Force light-sensitive telescope deployment above Big Sur from August to November 1964 that covered nine of eleven Vandenberg launches, names the instrument and the Atlas launch nicknamed Buzzing Bee on 22 September 1964, and cites his own staff study of 13 October 1964.",
+   "cite": [
+    "c-803a81d272",
+    "c-22d6059e3c",
+    "c-aa932f335f",
+    "c-e2869fd828",
+    "c-fe4f5cf793",
+    "c-03e28f2f7c"
+   ]
+  },
+  {
+   "text": "Jacobs published his own account in the MUFON UFO Journal in January 1989, giving his post as officer in charge of photo-optical instrumentation in the 1369th Photographic Squadron at Vandenberg from May 1963 to May 1966 and dating the event most probably to 2, 3 or 15 September 1964. George confirms in print that Jacobs was named on-site commander by the 1369th and managed the logistics at Big Sur, and captions him in the team photographs.",
+   "cite": [
+    "c-affa575b2e",
+    "c-f6ea6544e4",
+    "c-2617e7d3c7",
+    "c-019a2d9b48",
+    "e-b41ad4bb4b"
+   ]
+  },
+  {
+   "text": "George's photograph caption also places Major Florenz Mansmann at the site.",
+   "cite": [
+    "c-77b09411b2",
+    "e-942134b4c4"
+   ]
+  }
+ ],
+ "claimed": [
+  {
+   "text": "Robert Salas states that in March 1967, in a Minuteman launch control capsule at Malmstrom, he took a report from topside security police of a glowing red object over the front gate, and that his flight's missiles then went off alert. He first went on the record with the Great Falls Tribune in 1996, approaching the paper himself. The board notes he has never claimed to see anything: his account is of a telephone call taken underground.",
+   "cite": [
+    "c-6b82b1dcc5",
+    "e-ae27181db3",
+    "e-d563b7af04",
+    "c-4301592ac9",
+    "c-d792c545c8"
+   ]
+  },
+  {
+   "text": "By Salas's own later account, he learned only in 1996, when he reached his former commander Fred Meiwald, that their incident was at Oscar Flight rather than Echo Flight, and he had spoken of Echo Flight as his own because it was so similar. Hastings now dates Oscar Flight to 24 March 1967 on Jamison's information, and says Salas agrees the two incidents probably fell on separate days.",
+   "cite": [
+    "c-f81789f8a6",
+    "c-520d9b24e4",
+    "c-cebc9e1286",
+    "c-406805c7d0"
+   ]
+  },
+  {
+   "text": "Salas has also said that Boeing's testers could not explain how an external signal reached each missile, that a check with the Department of Energy found no nuclear tests on 16 or 24 March, and that he holds a telex in which SAC headquarters demanded a complete investigation and called the matter of grave concern; he names no document number for the Energy check.",
+   "cite": [
+    "c-693c2d91a4",
+    "c-60db0a6a81",
+    "c-0181233d08"
+   ]
+  },
+  {
+   "text": "Hastings states that Walter Figel, Echo Flight's deputy crew commander, described on tape receiving a report of a large round object hovering above a silo as the missiles went off alert. The account exists only as Hastings's recordings of three telephone calls in 2008, 2009 and 2010, and Figel declined to sign an affidavit for the 2010 National Press Club event.",
+   "cite": [
+    "c-70aea950c9",
+    "e-3284ad4f28",
+    "e-7be1e0e83f"
+   ]
+  },
+  {
+   "text": "Meiwald was found by Salas in summer 1996 and wrote to him on 1 October 1996; Hastings says he recorded calls with Meiwald in August 1996 and on 6 May 2011. Nothing Meiwald said about the event reached the public before the claimant contacted him.",
+   "cite": [
+    "c-6ed65ba810",
+    "c-6c30ee87b2",
+    "e-fd44161381",
+    "e-96b3e80718"
+   ]
+  },
+  {
+   "text": "Robert Kaminski, a Boeing engineer on the investigation team, wrote to the researcher Jim Klotz in 1997, thirty years on, that the team found nothing to explain how the missiles were knocked off alert and that the Air Force ordered the inquiry ended with no report filed. Jamison, a targeting team commander at Malmstrom, first appears in the public record with an affidavit for the 2010 press conference; no earlier statement by him has been found.",
+   "cite": [
+    "c-8e5918f395",
+    "e-86165af218",
+    "c-00c8b403f0",
+    "c-dadb934d39",
+    "c-e7ba424793"
+   ]
+  },
+  {
+   "text": "The board's provenance finding on Malmstrom: of the corroborating voices, Figel, Meiwald, Jamison and Kaminski reached the public solely through Hastings or Salas, and three exist only as private correspondence or recordings held by the interviewer. Four witnesses sharing one interviewer are one method applied four times, not four confirmations, and Hastings's method of finding witnesses is not stated anywhere the board has opened.",
+   "cite": [
+    "c-cc16c644a8",
+    "c-4c7cea0bef"
+   ]
+  },
+  {
+   "text": "The Warren reports reached the public through Project Blue Book's own consultant: a Project Blue Book telephone log kept by Lt. Anspaugh records calls on 1 August 1965 from the base commander and others about objects over the Warren missile complex, and Blue Book's consultant J. Allen Hynek printed the summarising memorandum in 1972.",
+   "cite": [
+    "c-9a77d2bbb0",
+    "c-8de9500e37",
+    "c-1ecac3e0ba"
+   ]
+  },
+  {
+   "text": "The Minot 1968 case reopened because Runyon himself contacted the Center for UFO Studies in 2000 and completed its questionnaire; no researcher recruited him, which the board treats as the control case for the cluster. The researcher Jan Aldrich judges that the Air Force obfuscated the case, and badly.",
+   "cite": [
+    "c-cb48071832",
+    "c-31013cb2ac",
+    "e-a46b86d7b9",
+    "c-90e30e6442"
+   ]
+  },
+  {
+   "text": "Jacobs says the film showed an object that manoeuvred around the warhead package and emitted four bright flashes, shaped like a classic flying saucer, after which the warhead tumbled out of suborbit short of its target. He published his account under his own name in 1982 and 1989, the version quoted here being the 1989 article, years before any interviewer sought him out; the Disclosure Project's April 2001 Briefing Document prints his testimony dated November 2000.",
+   "cite": [
+    "c-9436ca690c",
+    "c-53b963bb56",
+    "c-9e01a79d2d",
+    "c-e6f5b07de7",
+    "c-affa575b2e"
+   ]
+  },
+  {
+   "text": "Mansmann is reported to have confirmed Jacobs's account in a May 1987 letter to a UFO researcher. The board records that it previously attributed his letters to a Col. Robert Mansmann and to the Echo Flight investigation, and has removed that attribution.",
+   "cite": [
+    "c-c3377fce82",
+    "e-942134b4c4",
+    "c-6ea5027675",
+    "c-163502f15e"
+   ]
+  },
+  {
+   "text": "Fawcett and Greenwood wrote in 1984 that during the week of 20 March 1967 a flight of ten Malmstrom missiles developed problems while a UFO was in the area and on radar, and that jet fighters were sent after it.",
+   "cite": [
+    "c-8be78b1e39"
+   ]
+  }
+ ],
+ "contested": [
+  {
+   "text": "The Air Force's own history states that rumours of UFOs around Echo Flight during the fault were disproven. Its evidence is a Mobile Strike Team that had checked November Flight's launch facilities that morning and saw nothing unusual; this is the only occurrence of the words Unidentified Flying Object in the 88 released pages.",
+   "cite": [
+    "c-e1482a181c",
+    "c-3e533a234c",
+    "e-8e39d08315"
+   ]
+  },
+  {
+   "text": "The engineering case points to an electronic cause: the history's EMP or electrostatic conclusion, reached by eliminating the alternatives, and a 1969 Air Force official history, quoted second-hand and not opened, reported to record an electronic noise pulse similar to a nuclear EMP.",
+   "cite": [
+    "c-d9ed668ecb",
+    "c-3192516bba"
+   ]
+  },
+  {
+   "text": "No Air Force document records a second March 1967 shutdown, and James Carlson disputes that any Oscar Flight incident happened, citing SAC's UFO officer Col. Lewis D. Chase. The silence is bounded: the release is excerpts, not complete histories.",
+   "cite": [
+    "e-86c7cd289c",
+    "c-c98b1efae0",
+    "e-550fd0f314",
+    "c-c891056e61",
+    "c-9310e0390e"
+   ]
+  },
+  {
+   "text": "Figel's account is disputed from both sides. James Carlson says Figel told him he saw no UFO and treated the radio report as a joke; Tim Hebert, a former Malmstrom crew member, says Figel's two Hastings interviews contradict each other; and no statement by Figel before an interested party contacted him has been found.",
+   "cite": [
+    "c-6016b08032",
+    "c-ecdbf7a98a",
+    "c-cbc458e240"
+   ]
+  },
+  {
+   "text": "Echo Flight's crew commander, Eric Carlson, says no UFO-related call reached him that day, though he sat about two feet from Figel; his account reaches the public through his son. On the number of missiles, the history supports Salas's ten against the three or four attributed to Carlson.",
+   "cite": [
+    "c-295db42acf",
+    "c-889cf9e741",
+    "e-205c0ea0fe",
+    "c-fad7c7fff5",
+    "c-33f5e2d6d0",
+    "c-63d6a1c82c"
+   ]
+  },
+  {
+   "text": "Meiwald's 1996 letter is characterised in two incompatible ways, as supporting Salas and as recording a different recollection, and the board has not read it. Kevin Randle records Salas giving ten missiles, Meiwald four or five, and Salas once saying eight.",
+   "cite": [
+    "c-043a461873",
+    "c-e7dbb378ad",
+    "c-a9a0ccd5f7"
+   ]
+  },
+  {
+   "text": "Kaminski's claim that the inquiry was stopped with no report is contradicted by the history, which records the investigation continuing with bench tests, simulation tests at Malmstrom in May 1967 and engineering change proposals; his claim that no cause was found is corroborated by it.",
+   "cite": [
+    "c-bc6a492ad6",
+    "c-94251f9a10"
+   ]
+  },
+  {
+   "text": "George's explanation of the Big Sur film is decoys fired off on schedule with trailing packing material that gave away their false status; he says the Atlas was sub-orbital and did not miss its target, that Jacobs was not authorised to view the pictures and probably never gained the clearance, and that the film was destroyed. He concedes Jacobs's point that no lasers were involved. The two men also disagree on the date.",
+   "cite": [
+    "c-5c5ac141be",
+    "c-a464909043",
+    "c-b922a06c3a",
+    "c-d2ea96d506",
+    "c-4b6c484f1f",
+    "e-39a9a7ae21",
+    "c-f6ea6544e4",
+    "c-e2869fd828"
+   ]
+  }
+ ],
+ "members": [
+  {
+   "id": "malmstrom-echo-flight-1967",
+   "role": "subject"
+  },
+  {
+   "id": "malmstrom-oscar-flight-1967",
+   "role": "subject"
+  },
+  {
+   "id": "minot-1966",
+   "role": "subject"
+  },
+  {
+   "id": "minot-1968",
+   "role": "subject"
+  },
+  {
+   "id": "warren-1965",
+   "role": "subject"
+  },
+  {
+   "id": "big-sur-1964",
+   "role": "subject"
+  },
+  {
+   "id": "doc-341-smw-history-1967",
+   "role": "document"
+  },
+  {
+   "id": "doc-minot-1968-blue-book",
+   "role": "document"
+  },
+  {
+   "id": "doc-si-big-sur-1993",
+   "role": "document"
+  },
+  {
+   "id": "l-malmstrom",
+   "role": "place"
+  },
+  {
+   "id": "l-minot",
+   "role": "place"
+  },
+  {
+   "id": "l-warren",
+   "role": "place"
+  },
+  {
+   "id": "l-vandenberg",
+   "role": "place"
+  },
+  {
+   "id": "robert-salas",
+   "role": "claimant"
+  },
+  {
+   "id": "frederick-meiwald",
+   "role": "witness"
+  },
+  {
+   "id": "walter-figel",
+   "role": "witness"
+  },
+  {
+   "id": "eric-carlson",
+   "role": "witness"
+  },
+  {
+   "id": "robert-jamison",
+   "role": "claimant"
+  },
+  {
+   "id": "robert-kaminski",
+   "role": "contractor"
+  },
+  {
+   "id": "james-carlson",
+   "role": "critic"
+  },
+  {
+   "id": "bradford-runyon",
+   "role": "witness"
+  },
+  {
+   "id": "robert-jacobs",
+   "role": "witness"
+  },
+  {
+   "id": "kingston-george",
+   "role": "critic"
+  },
+  {
+   "id": "florenz-mansmann",
+   "role": "witness"
+  },
+  {
+   "id": "robert-hastings",
+   "role": "investigator"
+  },
+  {
+   "id": "john-greenewald",
+   "role": "journalist"
+  },
+  {
+   "id": "the-black-vault",
+   "role": "institution"
+  },
+  {
+   "id": "strategic-air-command",
+   "role": "institution"
+  },
+  {
+   "id": "usaf",
+   "role": "institution"
+  },
+  {
+   "id": "project-blue-book",
+   "role": "programme"
+  }
+ ],
+ "questions": [
+  "What does the classified Report of Engineering Investigation of Echo Flight Incident of 23 March 1967 say, and the SAC message of 17 March 1967 it sits beside?",
+  "Do the March 1967 crew rosters show whether Salas was on duty at Echo Flight on 16 March or at Oscar Flight on 24 March?",
+  "What does Meiwald's letter of 1 October 1996 actually say, and what is on Hastings's recordings of Figel?",
+  "What did SAC's UFO officer, Col. Lewis D. Chase, find, as James Carlson cites him?",
+  "Is the later attribution of the Echo Flight power loss to a nearby electromagnetic pulse simulator test supported by any opened record?",
+  "What does George's staff study of 13 October 1964 say about the Big Sur film, and on which date was the filming?",
+  "Does any Air Force record name Jacobs or Mansmann independently of their own publications and George's article?",
+  "How did Robert Hastings find the Malmstrom witnesses he interviewed?"
+ ],
+ "related": [
+  "sac-overflights-1975",
+  "nuclear-witnesses",
+  "testimony-provenance",
+  "blue-book",
+  "disclosure-project-2001",
+  "sceptics",
+  "foia-litigation",
+  "named-contractors"
+ ]
 }

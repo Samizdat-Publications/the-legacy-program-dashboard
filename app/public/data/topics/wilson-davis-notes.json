@@ -1,0 +1,1319 @@
+{
+ "absorbs": [],
+ "anchors": [
+  "wilson-davis-memo",
+  "thomas-wilson",
+  "eric-davis",
+  "richard-damato"
+ ],
+ "appendixT": "wilson-davis-notes",
+ "cites": {
+  "c-040ce1a32e": {
+   "id": "c-040ce1a32e",
+   "kind": "claim",
+   "node": "eric-davis",
+   "nodeLabel": "Eric W. Davis",
+   "source": {
+    "domain": "www.youtube.com",
+    "text": "American Alchemy with Jesse Michels, 'Eric Weinstein Demands UFO Secrets From Pentagon Scientist', published 8 March 2026, https://www.youtube.com/watch?v=xnxasfyHtfo, at 0:52:03 to 0:52:59 (machine transcript, checked against the audio timestamps)",
+    "url": "https://www.youtube.com/watch?v=xnxasfyHtfo,"
+   },
+   "text": "In the same conversation, asked how Admiral Thomas Wilson reacted when they met, Davis said: 'I can't confirm or deny that we met, for the security reasons.' He said the document 'was released from Mitchell's estate', that Edgar Mitchell had received a copy 'as a courtesy from who generated it', and that it 'was supposed to be destroyed' a year afterwards. Authorship confirmed; the meeting neither confirmed nor denied by its author.",
+   "tier": 2
+  },
+  "c-048b3afad1": {
+   "id": "c-048b3afad1",
+   "kind": "claim",
+   "node": "richard-damato",
+   "nodeLabel": "Richard D'Amato",
+   "source": {
+    "domain": null,
+    "text": "George Knapp via Liberation Times, 28 February 2023",
+    "url": null
+   },
+   "text": "D'Amato privately regarded it as 'entirely feasible, that this UFO cover-up exists within a private company' such as Lockheed Martin, EG&G or Northrop Grumman. Reasoning: attributed by Knapp, consistent with D'Amato's SAP portfolio, but not stated by D'Amato himself on the record.",
+   "tier": 3
+  },
+  "c-14000c4c9a": {
+   "id": "c-14000c4c9a",
+   "kind": "claim",
+   "node": "wilson-davis-memo",
+   "nodeLabel": "The Wilson-Davis Notes (16 October 2002)",
+   "source": {
+    "domain": "documents2.theblackvault.com",
+    "text": "The Wilson-Davis notes as published, fifteen pages, read image by image, https://documents2.theblackvault.com/casefiles/wilsonleak.pdf",
+    "url": "https://documents2.theblackvault.com/casefiles/wilsonleak.pdf"
+   },
+   "text": "The published document is typed, not handwritten, and two of its fifteen pages are somebody else's letter. The copy in public circulation is fifteen typed pages headed 'EWD NOTES', then '10/16/02', then 'Eric Davis Meeting with Adm. Wilson', numbered 1 to 15 at the foot. Pages 3 and 4 are a two page letter on United States Navy letterhead dated April 25, 2002, from Belleair Bluffs, Florida, to 'Dr. Eric W. Davis, CEO, Warp Drive Metrics', signed 'Will Miller'; the notes flag it at the foot of page 2 as '[paper-clipped letter here]'.",
+   "tier": 1
+  },
+  "c-161940a99e": {
+   "id": "c-161940a99e",
+   "kind": "claim",
+   "node": "aaro-historical-record-vol1",
+   "nodeLabel": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
+   "source": {
+    "domain": "media.defense.gov",
+    "text": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/AARO_Historical_Record_Report_Vol_1_2024.pdf — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
+    "url": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/AARO_Historical_Record_Report_Vol_1_2024.pdf"
+   },
+   "text": "The disposal is by attribution to circular reporting: 'AARO assesses that the inaccurate claim that the USG is reverse-engineering extraterrestrial technology and is hiding it from Congress is, in large part, the result of circular reporting from a group of individuals who believe this to be the case, despite the lack of any evidence.'",
+   "tier": 2
+  },
+  "c-16bf33609a": {
+   "id": "c-16bf33609a",
+   "kind": "claim",
+   "node": "dird-antigravity-for-aerospace-applications",
+   "nodeLabel": "Antigravity for Aerospace Applications",
+   "source": {
+    "domain": "documents2.theblackvault.com",
+    "text": "Defense Intelligence Reference Document DIA-08-1003-018, 'Antigravity for Aerospace Applications', 30 March 2010, ICOD 1 December 2009, 45 pages as released, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_19-DIRD_Antigravity_for_Aerospace_Applications.pdf , opened 2026-09-19",
+    "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_19-DIRD_Antigravity_for_Aerospace_Applications.pdf"
+   },
+   "text": "Its conclusion, 'The Way Forward', verbatim in part: 'This report has reviewed and analyzed a number of antigravity concepts that are found within Newtonian gravity theory, General Relativity Theory, semi-classical quantum gravity theory, quantum field theory, and nonretarded quantum interatomic dispersion force theory. One found that plausible mechanisms exist within Newtonian and general relativistic theories whereby one could embody a realistic device that produces a significant antigravity force. However, one discovered that there are daunting technical challenges that arise in each of the proposed embodiments.'",
+   "tier": 1
+  },
+  "c-192e83e023": {
+   "id": "c-192e83e023",
+   "kind": "claim",
+   "node": "wilson-davis-memo",
+   "nodeLabel": "The Wilson-Davis Notes (16 October 2002)",
+   "source": {
+    "domain": null,
+    "text": "House Permanent Select Committee on Intelligence subcommittee hearing, 17 May 2022; contemporaneous reporting",
+    "url": null
+   },
+   "text": "At the 17 May 2022 House Intelligence subcommittee UAP hearing, DoD witnesses were questioned about the Wilson-Davis memo and stated they were unaware of it.",
+   "tier": 1
+  },
+  "c-22cd3f97d8": {
+   "id": "c-22cd3f97d8",
+   "kind": "claim",
+   "node": "will-miller",
+   "nodeLabel": "Will Miller",
+   "source": {
+    "domain": "documents2.theblackvault.com",
+    "text": "The Wilson-Davis notes as published, all fifteen pages, https://documents2.theblackvault.com/casefiles/wilsonleak.pdf",
+    "url": "https://documents2.theblackvault.com/casefiles/wilsonleak.pdf"
+   },
+   "text": "The notes attach no rank, service or first name beyond 'Will' to Miller, and his letter carries no rank block, so the 'Cdr. Willard Miller, USN' form used across the podcast corpus is not supported by the document it is drawn from.",
+   "tier": 3
+  },
+  "c-2451f39f83": {
+   "id": "c-2451f39f83",
+   "kind": "claim",
+   "node": "eric-davis",
+   "nodeLabel": "Eric W. Davis",
+   "source": {
+    "domain": null,
+    "text": "Ralph Blumenthal, The New York Times, 23 July 2020, quoting Davis on the record",
+    "url": null
+   },
+   "text": "Davis gave classified briefings on retrievals of unexplained objects to Senate Armed Services Committee staff on 21 October 2019 and to Senate Intelligence Committee members on 23 October 2019, and to a Defense Department agency in March 2020 about retrievals from 'off-world vehicles not made on this earth'.",
+   "tier": 2
+  },
+  "c-2ae7c4a744": {
+   "id": "c-2ae7c4a744",
+   "kind": "claim",
+   "node": "wilson-davis-memo",
+   "nodeLabel": "The Wilson-Davis Notes (16 October 2002)",
+   "source": {
+    "domain": "documents2.theblackvault.com",
+    "text": "The Wilson-Davis notes as published, all fifteen pages, https://documents2.theblackvault.com/casefiles/wilsonleak.pdf",
+    "url": "https://documents2.theblackvault.com/casefiles/wilsonleak.pdf"
+   },
+   "text": "Brig. Gen. Steven Lovekin is not in the published notes. All fifteen pages were read image by image: Wilson, Davis, Steven Greer, Will Miller and Edgar Mitchell are in them and Lovekin is not.",
+   "tier": 1
+  },
+  "c-337b9b8425": {
+   "id": "c-337b9b8425",
+   "kind": "claim",
+   "node": "eric-davis",
+   "nodeLabel": "Eric W. Davis",
+   "source": {
+    "domain": null,
+    "text": "Eric W. Davis quoted in The New York Times, 23 July 2020",
+    "url": null
+   },
+   "text": "Of the analysed materials Davis said: 'We couldn't make it ourselves.'",
+   "tier": 2
+  },
+  "c-39807b341a": {
+   "id": "c-39807b341a",
+   "kind": "claim",
+   "node": "thomas-wilson",
+   "nodeLabel": "Thomas R. Wilson",
+   "source": {
+    "domain": null,
+    "text": "Thomas R. Wilson, statements to journalists, 2019 onward",
+    "url": null
+   },
+   "text": "Wilson has denied that the meeting recorded in the notes took place and has denied the substance attributed to him.",
+   "tier": 2
+  },
+  "c-3f0f4c06eb": {
+   "id": "c-3f0f4c06eb",
+   "kind": "claim",
+   "node": "eric-davis",
+   "nodeLabel": "Eric W. Davis",
+   "source": {
+    "domain": null,
+    "text": "House Permanent Select Committee on Intelligence, Counterterrorism, Counterintelligence and Counterproliferation Subcommittee hearing, 17 May 2022; contemporaneous reporting",
+    "url": null
+   },
+   "text": "At the 17 May 2022 House Intelligence subcommittee UAP hearing, DoD witnesses Ronald Moultrie and Scott Bray were asked about the Wilson-Davis memo and stated they were unaware of it.",
+   "tier": 1
+  },
+  "c-57e9190bad": {
+   "id": "c-57e9190bad",
+   "kind": "claim",
+   "node": "wilson-davis-memo",
+   "nodeLabel": "The Wilson-Davis Notes (16 October 2002)",
+   "source": {
+    "domain": null,
+    "text": "The Wilson-Davis notes, 16 Oct 2002, in public circulation since 2019",
+    "url": null
+   },
+   "text": "The notes record Wilson describing a 1997 attempt to gain access to a special access programme holding recovered non-human material in contractor custody, and being refused on need-to-know grounds by a programme security officer, a contractor programme manager and a lawyer.",
+   "tier": 2
+  },
+  "c-627f05aa82": {
+   "id": "c-627f05aa82",
+   "kind": "claim",
+   "node": "will-miller",
+   "nodeLabel": "Will Miller",
+   "source": {
+    "domain": "documents2.theblackvault.com",
+    "text": "The Wilson-Davis notes as published, pp 5-6, https://documents2.theblackvault.com/casefiles/wilsonleak.pdf",
+    "url": "https://documents2.theblackvault.com/casefiles/wilsonleak.pdf"
+   },
+   "text": "The notes record Wilson as 'Very furious - very angry about Miller' for having 'Violated personal and professional trust - especially among intelligence colleagues/Navy officers', and carry Davis's own parenthesis that 'Miller told Ed Mitchell who only told me in 1999'.",
+   "tier": 2
+  },
+  "c-7cddcadc7e": {
+   "id": "c-7cddcadc7e",
+   "kind": "claim",
+   "node": "wilson-davis-memo",
+   "nodeLabel": "The Wilson-Davis Notes (16 October 2002)",
+   "source": {
+    "domain": null,
+    "text": "Thomas R. Wilson, statements to journalists, 2019 onward",
+    "url": null
+   },
+   "text": "Thomas R. Wilson denies that the meeting took place and denies the substance attributed to him.",
+   "tier": 2
+  },
+  "c-7fb0b6e2a9": {
+   "id": "c-7fb0b6e2a9",
+   "kind": "claim",
+   "node": "eric-davis",
+   "nodeLabel": "Eric W. Davis",
+   "source": {
+    "domain": null,
+    "text": "DIA letter to Senate Armed Services Committee, 9 January 2018, items 8, 11, 14, 31, 34",
+    "url": null
+   },
+   "text": "Davis authored five of the 38 AAWSAP Defense Intelligence Reference Documents, more than any other individual.",
+   "tier": 1
+  },
+  "c-83f85ad5a9": {
+   "id": "c-83f85ad5a9",
+   "kind": "claim",
+   "node": "eric-davis",
+   "nodeLabel": "Eric W. Davis",
+   "source": {
+    "domain": null,
+    "text": "Widely reported 'Wilson-Davis memo'; Davis has not publicly repudiated authorship. Primary provenance is the Mitchell estate, not a government release.",
+    "url": null
+   },
+   "text": "Notes attributed to Davis of a 16 October 2002 meeting with Vice Adm. Thomas R. Wilson, former Director of the DIA, describe a special access programme within a defence contractor that refused Wilson access; the notes surfaced in 2019 among the estate papers of Apollo astronaut Edgar Mitchell.",
+   "tier": 2
+  },
+  "c-8d611cd0e6": {
+   "id": "c-8d611cd0e6",
+   "kind": "claim",
+   "node": "wilson-davis-memo",
+   "nodeLabel": "The Wilson-Davis Notes (16 October 2002)",
+   "source": {
+    "domain": "documents2.theblackvault.com",
+    "text": "The Wilson-Davis notes as published, pp. 3 to 4, https://documents2.theblackvault.com/casefiles/wilsonleak.pdf",
+    "url": "https://documents2.theblackvault.com/casefiles/wilsonleak.pdf"
+   },
+   "text": "The notes give the correspondent no rank, no service and no first name beyond 'Will', and his letter carries no rank block, so the 'Cdr. Willard Miller, USN' form used across the podcast corpus is not supported by the document it is drawn from. In the letter he writes: 'Although I have held a Top Secret (TS) clearance with access to Special Compartmented Information (SCI), and other \"special\" clearances for \"other\" programs, I currently do not work in the classified realm, nor do I hold those clearances.'",
+   "tier": 1
+  },
+  "c-8d6448fa78": {
+   "id": "c-8d6448fa78",
+   "kind": "claim",
+   "node": "eric-davis",
+   "nodeLabel": "Eric W. Davis",
+   "source": {
+    "domain": "www.youtube.com",
+    "text": "American Alchemy with Jesse Michels, 'Eric Weinstein Demands UFO Secrets From Pentagon Scientist', published 8 March 2026, https://www.youtube.com/watch?v=xnxasfyHtfo, at 0:53:04 to 0:53:25 (machine transcript of the podcast audio, checked against the audio timestamps)",
+    "url": "https://www.youtube.com/watch?v=xnxasfyHtfo,"
+   },
+   "text": "On 8 March 2026, asked by Jesse Michels on the record whether he had confirmed writing the Wilson-Davis notes, Davis said: 'I can confirm. Seeking legal counsel. They're real. They're legit. They're 100% accurate.' He added that the circulated document is 'the typewritten version' and that 'there's a handwritten version, but that's all I can say about it.'",
+   "tier": 2
+  },
+  "c-946d714ea1": {
+   "id": "c-946d714ea1",
+   "kind": "claim",
+   "node": "thomas-wilson",
+   "nodeLabel": "Thomas R. Wilson",
+   "source": {
+    "domain": null,
+    "text": "Wilson-Davis notes, 16 Oct 2002",
+    "url": null
+   },
+   "text": "The Davis notes record Wilson stating he was refused access to a special access programme holding recovered non-human material, on the grounds that he lacked need-to-know, despite his position as Joint Staff J-2.",
+   "tier": 2
+  },
+  "c-96004f74f0": {
+   "id": "c-96004f74f0",
+   "kind": "claim",
+   "node": "aaro-historical-record-vol1",
+   "nodeLabel": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
+   "source": {
+    "domain": "media.defense.gov",
+    "text": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/AARO_Historical_Record_Report_Vol_1_2024.pdf",
+    "url": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/AARO_Historical_Record_Report_Vol_1_2024.pdf"
+   },
+   "text": "The report contains ZERO occurrences of the name 'Wilson' and zero of 'Davis' across all 63 pages including endnotes 1-200. It names no private individuals, referring instead to 'Person 1' and 'the named former CIA official'. It disposes of the reverse-engineering allegations without ever engaging the Wilson-Davis memorandum, a document that sits in a congressional hearing file.",
+   "tier": 1
+  },
+  "c-96a8cb7a41": {
+   "id": "c-96a8cb7a41",
+   "kind": "claim",
+   "node": "wilson-davis-memo",
+   "nodeLabel": "The Wilson-Davis Notes (16 October 2002)",
+   "source": {
+    "domain": null,
+    "text": "Eric W. Davis, statements to journalists following the 2019 emergence of the notes",
+    "url": null
+   },
+   "text": "Eric W. Davis has confirmed to journalists that the handwritten notes are his own.",
+   "tier": 2
+  },
+  "c-9cfeec03ff": {
+   "id": "c-9cfeec03ff",
+   "kind": "claim",
+   "node": "will-miller",
+   "nodeLabel": "Will Miller",
+   "source": {
+    "domain": "documents2.theblackvault.com",
+    "text": "The Wilson-Davis notes as published, pp 3-4, https://documents2.theblackvault.com/casefiles/wilsonleak.pdf",
+    "url": "https://documents2.theblackvault.com/casefiles/wilsonleak.pdf"
+   },
+   "text": "The published Wilson-Davis notes reproduce, as their pages 3 and 4, a letter on United States Navy letterhead dated April 25, 2002, from Belleair Bluffs, Florida, to 'Dr. Eric W. Davis, CEO, Warp Drive Metrics', signed 'Will Miller', offering assistance 'with your ongoing research into UFO crash retrievals and the entities within the government (or outside of it) that are involved in that business'.",
+   "tier": 1
+  },
+  "c-9ee51f8d27": {
+   "id": "c-9ee51f8d27",
+   "kind": "claim",
+   "node": "jason-sands",
+   "nodeLabel": "Jason Sands",
+   "source": {
+    "domain": "briandunning.substack.com",
+    "text": "https://briandunning.substack.com/p/new-ufo-whistleblower-jason-sands , 2024-05-13",
+    "url": "https://briandunning.substack.com/p/new-ufo-whistleblower-jason-sands"
+   },
+   "text": "The disputing material, from the same named critic on the same date. Brian Dunning itemises Sands's claims as including that the Wilson-Davis memo is genuine, which Dunning calls an 'obviously hoaxed' document; that alien spacecraft use electromagnetic propulsion; that aliens cooperated in reverse-engineering programmes; that a 'blue alien species' exists with whom humans can communicate telepathically; that non-physical aliens assist intelligence programmes; and that underground bases house aliens and that time travel and remote viewing are real. Dunning further states that Sands initially claimed involvement with the Navy's UAP Task Force and later contradicted himself, and that Sands has not run into any trouble violating DoD confidentiality protocols.",
+   "tier": 2
+  },
+  "c-b123bc0555": {
+   "id": "c-b123bc0555",
+   "kind": "claim",
+   "node": "eric-davis",
+   "nodeLabel": "Eric W. Davis",
+   "source": {
+    "domain": null,
+    "text": "Notes attributed to Eric W. Davis of a 16 October 2002 meeting; circulated publicly from 2019",
+    "url": null
+   },
+   "text": "The Wilson-Davis memorandum records Adm. Thomas Wilson being denied access to a special access program holding a recovered craft, on the basis that the program sat with a private aerospace contractor and he had no need to know.",
+   "tier": 2
+  },
+  "c-c88a888ea6": {
+   "id": "c-c88a888ea6",
+   "kind": "claim",
+   "node": "thomas-wilson",
+   "nodeLabel": "Thomas R. Wilson",
+   "source": {
+    "domain": null,
+    "text": "Inference from the correspondence between the 2002 notes and Grusch's 26 July 2023 sworn House Oversight testimony.",
+    "url": null
+   },
+   "text": "The refusal mechanism described in the notes - programme security officers and contractor gatekeepers denying a cleared senior official on need-to-know grounds - is the same mechanism described under oath by David Grusch in 2023, indicating a persistent access-control architecture rather than an isolated anecdote.",
+   "tier": 3
+  },
+  "c-d1bb0cdd75": {
+   "id": "c-d1bb0cdd75",
+   "kind": "claim",
+   "node": "eric-davis",
+   "nodeLabel": "Eric W. Davis",
+   "source": {
+    "domain": null,
+    "text": "Cover and administrative note of DIA-08-1004-004 (released copy)",
+    "url": null
+   },
+   "text": "DIA reference document DIA-08-1004-004, 'Traversable Wormholes, Stargates, and Negative Energy', dated 6 April 2010, names Eric W. Davis, Ph.D., of EarthTech International Inc. as author and states it was produced in FY2009 under the DIA Defense Warning Office's Advanced Aerospace Weapon System Applications programme, with James T. Lacatski, D.Eng. as programme manager.",
+   "tier": 1
+  },
+  "c-daf25928e2": {
+   "id": "c-daf25928e2",
+   "kind": "claim",
+   "node": "will-miller",
+   "nodeLabel": "Will Miller",
+   "source": {
+    "domain": "documents2.theblackvault.com",
+    "text": "The Wilson-Davis notes as published, p 1, https://documents2.theblackvault.com/casefiles/wilsonleak.pdf",
+    "url": "https://documents2.theblackvault.com/casefiles/wilsonleak.pdf"
+   },
+   "text": "The notes record Wilson confirming that 'Greer/Miller/Mitchell gave talk in Pentagon Conference room' in April 1997 with Adm. Mike Crawford and Gen. Pat Hughes present, and that afterwards 'Miller/Wilson talked (privately) 2 hours on UFOs, MJ-12, Roswell, crashed UFOs/alien bodies'.",
+   "tier": 2
+  },
+  "c-ed860dfc07": {
+   "id": "c-ed860dfc07",
+   "kind": "claim",
+   "node": "richard-damato",
+   "nodeLabel": "Richard D'Amato",
+   "source": {
+    "domain": null,
+    "text": "Richard D'Amato public statement, quoted in Liberation Times, 28 February 2023",
+    "url": null
+   },
+   "text": "'A senior Senate Committee chairman asked me to conduct a preliminary inquiry into allegations that came to his attention regarding unidentified aerial crashes in the 1940s in New Mexico... I reported my conclusion to the Senator that the basis for such allegations did not appear to merit any further Senate investigation.'",
+   "tier": 2
+  },
+  "c-fcb743b56e": {
+   "id": "c-fcb743b56e",
+   "kind": "claim",
+   "node": "will-miller",
+   "nodeLabel": "Will Miller",
+   "source": {
+    "domain": "documents2.theblackvault.com",
+    "text": "The Wilson-Davis notes as published, p 4, https://documents2.theblackvault.com/casefiles/wilsonleak.pdf",
+    "url": "https://documents2.theblackvault.com/casefiles/wilsonleak.pdf"
+   },
+   "text": "In the same letter Miller writes: 'Although I have held a Top Secret (TS) clearance with access to Special Compartmented Information (SCI), and other \"special\" clearances for \"other\" programs, I currently do not work in the classified realm, nor do I hold those clearances.'",
+   "tier": 1
+  },
+  "e-1ddb9c9da4": {
+   "endpoints": [
+    {
+     "id": "wilson-davis-memo",
+     "label": "The Wilson-Davis Notes (16 October 2002)"
+    },
+    {
+     "id": "aaro-historical-record-vol1",
+     "label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+    }
+   ],
+   "id": "e-1ddb9c9da4",
+   "kind": "edge",
+   "label": "AARO's report independently catalogues the same structural allegation the memo describes",
+   "sources": [
+    {
+     "date": "2024-03-08",
+     "name": "AARO, 'Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP), Volume I'",
+     "url": "https://documents2.theblackvault.com/documents/dod/AARO_Historical_Record_Report_Volume_1_2024.pdf"
+    }
+   ],
+   "text": "AARO records a senior military officer describing a craft floating in a building with roughly 150 people working on it, in a program kept 'outside of government so the technology could remain proprietary' - the memo's central claim, restated in a DoD publication.",
+   "tier": 1,
+   "type": "temporal"
+  },
+  "e-1ec3a56650": {
+   "endpoints": [
+    {
+     "id": "wilson-davis-memo",
+     "label": "The Wilson-Davis Notes (16 October 2002)"
+    },
+    {
+     "id": "eg-and-g",
+     "label": "EG&G (Edgerton, Germeshausen and Grier)"
+    }
+   ],
+   "id": "e-1ec3a56650",
+   "kind": "edge",
+   "label": "The meeting is reported to have taken place at an EG&G facility in Las Vegas",
+   "sources": [
+    {
+     "date": "2022-08-01",
+     "name": "The Debrief, 'Summer of the Saucers' (notes Wilson-Davis Memo raised at the 17 May 2022 House Intelligence UAP hearing)",
+     "url": "https://thedebrief.org/summer-of-the-saucers/"
+    }
+   ],
+   "text": "EG&G held the Groom Lake support and personnel-transport contracts; the reported venue matters because it places the conversation inside the contractor perimeter it describes.",
+   "tier": 3,
+   "type": "custody"
+  },
+  "e-39f56dc200": {
+   "endpoints": [
+    {
+     "id": "wilson-davis-memo",
+     "label": "The Wilson-Davis Notes (16 October 2002)"
+    },
+    {
+     "id": "aaro-historical-record-vol1",
+     "label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+    }
+   ],
+   "id": "e-39f56dc200",
+   "kind": "edge",
+   "label": "AARO's 2024 review does not mention the Wilson-Davis notes or Admiral Wilson",
+   "sources": [
+    {
+     "date": "2024-03-08",
+     "name": "AARO, 'Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP), Volume I' (DOPSR-2024-0263)",
+     "url": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF"
+    },
+    {
+     "date": "2022-08-01",
+     "name": "The Debrief, 'Summer of the Saucers' (notes Wilson-Davis Memo raised at the 17 May 2022 House Intelligence UAP hearing)",
+     "url": "https://thedebrief.org/summer-of-the-saucers/"
+    }
+   ],
+   "text": "The most specific custody allegation in the modern record, whose author and subject are both alive and identifiable, is absent from the government's historical review.",
+   "tier": 1,
+   "type": "denial"
+  },
+  "e-4969cf7445": {
+   "endpoints": [
+    {
+     "id": "eric-davis",
+     "label": "Eric W. Davis"
+    },
+    {
+     "id": "harold-puthoff",
+     "label": "Harold E. Puthoff"
+    }
+   ],
+   "id": "e-4969cf7445",
+   "kind": "edge",
+   "label": "Davis worked under Puthoff at EarthTech before and during the AAWSAP period",
+   "sources": [
+    {
+     "date": "2026-08-12",
+     "name": "Wikipedia: Advanced Aerospace Threat Identification Program",
+     "url": "https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program"
+    },
+    {
+     "date": "2010-04-06",
+     "name": "DIRD DIA-08-1004-004, 'Traversable Wormholes, Stargates, and Negative Energy' (Eric W. Davis, EarthTech International)",
+     "url": "https://documents.theblackvault.com/documents/traversablewormholes-drdavis.pdf"
+    }
+   ],
+   "text": "Davis is repeatedly identified in the record as a former employee of Puthoff's EarthTech International; both authored DIRDs in the same series.",
+   "tier": 2,
+   "type": "institutional"
+  },
+  "e-4a31104e65": {
+   "endpoints": [
+    {
+     "id": "eric-davis",
+     "label": "Eric W. Davis"
+    },
+    {
+     "id": "dird-traversable-wormholes",
+     "label": "DIA-08-1004-004: 'Traversable Wormholes, Stargates, and Negative Energy'"
+    }
+   ],
+   "id": "e-4a31104e65",
+   "kind": "edge",
+   "label": "Named author of DIA-08-1004-004",
+   "sources": [
+    {
+     "date": "2010-04-06",
+     "name": "DIRD DIA-08-1004-004, 'Traversable Wormholes, Stargates, and Negative Energy' (Eric W. Davis, EarthTech International)",
+     "url": "https://documents.theblackvault.com/documents/traversablewormholes-drdavis.pdf"
+    }
+   ],
+   "text": "The cover of the released document names Eric W. Davis, Ph.D., of EarthTech International Inc. as author, with a DIA control number, a Defense Warning Office preparing office and an FY2009 production year.",
+   "tier": 1,
+   "type": "programmatic"
+  },
+  "e-4c36c9eddc": {
+   "endpoints": [
+    {
+     "id": "eric-davis",
+     "label": "Eric W. Davis"
+    },
+    {
+     "id": "earthtech-international",
+     "label": "EarthTech International / Institute for Advanced Studies at Austin"
+    }
+   ],
+   "id": "e-4c36c9eddc",
+   "kind": "edge",
+   "label": "staff scientist",
+   "sources": [
+    {
+     "date": "2018-01-09",
+     "name": "DIA letter to SASC",
+     "url": "https://documents.theblackvault.com/documents/dia/dia-aatip-reports.pdf"
+    }
+   ],
+   "text": "Davis wrote all five of his DIRDs under the EarthTech banner.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-520be31762": {
+   "endpoints": [
+    {
+     "id": "sol-foundation",
+     "label": "The Sol Foundation"
+    },
+    {
+     "id": "eric-davis",
+     "label": "Eric W. Davis"
+    }
+   ],
+   "id": "e-520be31762",
+   "kind": "edge",
+   "label": "Eric Davis sits on Sol's Natural Sciences Advisory Board",
+   "sources": [
+    {
+     "date": "2026-08-12",
+     "name": "The Sol Foundation - People",
+     "url": "https://thesolfoundation.org/people/"
+    }
+   ],
+   "text": "Named on the Sol Foundation People page - placing a figure central to the AAWSAP and Wilson-Davis memo record inside the movement's institutional apex.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-7247b6d94d": {
+   "endpoints": [
+    {
+     "id": "will-miller",
+     "label": "Will Miller"
+    },
+    {
+     "id": "wilson-davis-memo",
+     "label": "The Wilson-Davis Notes (16 October 2002)"
+    }
+   ],
+   "id": "e-7247b6d94d",
+   "kind": "edge",
+   "label": "Named on six of the fifteen pages; his own signed letter is two of them",
+   "sources": [
+    {
+     "date": "2002-10-16",
+     "name": "The Wilson-Davis notes as published (EWD NOTES, 10/16/02, Eric Davis Meeting with Adm. Wilson), fifteen pages, The Black Vault case files",
+     "url": "https://documents2.theblackvault.com/casefiles/wilsonleak.pdf"
+    }
+   ],
+   "text": "Miller is named on six of the notes' fifteen pages and his own signed letter is bound in as two of them.",
+   "tier": 1,
+   "type": "witness-chain"
+  },
+  "e-79745e7910": {
+   "endpoints": [
+    {
+     "id": "jesse-michels",
+     "label": "Jesse Michels"
+    },
+    {
+     "id": "wilson-davis-memo",
+     "label": "The Wilson-Davis Notes (16 October 2002)"
+    }
+   ],
+   "id": "e-79745e7910",
+   "kind": "edge",
+   "label": "Dedicated chapter on the Wilson-Davis memo with Davis present",
+   "sources": [
+    {
+     "date": "2026-03-08",
+     "name": "American Alchemy - Weinstein/Davis episode",
+     "url": "https://www.youtube.com/watch?v=xnxasfyHtfo"
+    }
+   ],
+   "text": "Chapter at 37:56 of the 8 March 2026 episode, with the memo's named author-participant in the room - the closest to a primary-source interrogation of that document yet conducted in public.",
+   "tier": 2,
+   "type": "investigative"
+  },
+  "e-81f714787a": {
+   "endpoints": [
+    {
+     "id": "eric-davis",
+     "label": "Eric W. Davis"
+    },
+    {
+     "id": "dird-antigravity-for-aerospace-applications",
+     "label": "Antigravity for Aerospace Applications"
+    }
+   ],
+   "id": "e-81f714787a",
+   "kind": "edge",
+   "label": "authored",
+   "sources": [
+    {
+     "date": "2026-08-22",
+     "name": "Released DIRD, 'Antigravity for Aerospace Applications' — FOIA copy, cover page read 22 August 2026",
+     "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_19-DIRD_Antigravity_for_Aerospace_Applications.pdf"
+    },
+    {
+     "date": "2026-08-22",
+     "name": "DIA FOIA Electronic Reading Room entry for this reference document",
+     "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237651/"
+    },
+    {
+     "date": "2026-08-23",
+     "name": "DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations",
+     "url": "https://fas.org/publication/aatip-list/"
+    },
+    {
+     "date": null,
+     "name": "https://irp.fas.org/dia/aatip-list.pdf",
+     "url": "https://irp.fas.org/dia/aatip-list.pdf"
+    },
+    {
+     "date": null,
+     "name": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html",
+     "url": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html"
+    }
+   ],
+   "text": "DIA list item 11 names \"Dr Eric Davis, EarthTech International\". Independently confirmed by EarthTech International's own publication list, which cites the document as Davis, E. W. (2010) with document number DIA-08-1003-018 and originating office Acquisition Support Division (DWO-3), Defense Warning Office.",
+   "tier": 1,
+   "type": "research"
+  },
+  "e-9478dc5bcb": {
+   "endpoints": [
+    {
+     "id": "eric-davis",
+     "label": "Eric W. Davis"
+    },
+    {
+     "id": "nids",
+     "label": "National Institute for Discovery Science (NIDS)"
+    }
+   ],
+   "id": "e-9478dc5bcb",
+   "kind": "edge",
+   "label": "NIDS scientist before the federal contract",
+   "sources": [
+    {
+     "date": "2024-01-01",
+     "name": "Wikipedia — NIDS",
+     "url": "https://en.wikipedia.org/wiki/National_Institute_for_Discovery_Science"
+    },
+    {
+     "date": "2021-05-10",
+     "name": "Gideon Lewis-Kraus, 'How the Pentagon Started Taking U.F.O.s Seriously', The New Yorker",
+     "url": "https://www.newyorker.com/magazine/2021/05/10/how-the-pentagon-started-taking-ufos-seriously"
+    },
+    {
+     "date": "2023-05-02",
+     "name": "Barry Greenwood, review of 'Skinwalkers at the Pentagon', Journal of Scientific Exploration 37(1) 127-131",
+     "url": "https://journalofscientificexploration.org/index.php/jse/article/view/2857"
+    }
+   ],
+   "text": "Davis carried the NIDS methodology forward into BAASS work under the DIA-funded AAWSAP contract after 2008.",
+   "tier": 2,
+   "type": "institutional"
+  },
+  "e-96769d6a97": {
+   "endpoints": [
+    {
+     "id": "eric-davis",
+     "label": "Eric W. Davis"
+    },
+    {
+     "id": "dird-series",
+     "label": "The 38 Defense Intelligence Reference Documents (DIRDs)"
+    }
+   ],
+   "id": "e-96769d6a97",
+   "kind": "edge",
+   "label": "authored five of the 38 DIRDs",
+   "sources": [
+    {
+     "date": "2018-01-09",
+     "name": "DIA letter to SASC",
+     "url": "https://documents.theblackvault.com/documents/dia/dia-aatip-reports.pdf"
+    }
+   ],
+   "text": "Items 8, 11, 14, 31 and 34 — wormholes, antigravity, quantum vacuum energy, laser lightcraft and negative energy tomography.",
+   "tier": 1,
+   "type": "programmatic"
+  },
+  "e-9c9d5b18c9": {
+   "endpoints": [
+    {
+     "id": "eric-davis",
+     "label": "Eric W. Davis"
+    },
+    {
+     "id": "aerospace-corporation",
+     "label": "The Aerospace Corporation"
+    }
+   ],
+   "id": "e-9c9d5b18c9",
+   "kind": "edge",
+   "label": "Employed by the FFRDC operator at the time of the 2019-2020 briefings",
+   "sources": [
+    {
+     "date": "2020-07-23",
+     "name": "Ralph Blumenthal, 'No Longer in the Shadows, Pentagon's U.F.O. Unit Will Make Some Findings Public', The New York Times",
+     "url": "https://www.nytimes.com/2020/07/23/us/politics/pentagon-ufo-harry-reid-navy.html"
+    }
+   ],
+   "text": "The New York Times identified Davis as working for Aerospace Corp. when reporting his classified briefings on retrievals. The corporation has never publicly addressed whether it had any institutional role.",
+   "tier": 2,
+   "type": "institutional"
+  },
+  "e-a5e9907bdd": {
+   "endpoints": [
+    {
+     "id": "eric-davis",
+     "label": "Eric W. Davis"
+    },
+    {
+     "id": "wilson-davis-memo",
+     "label": "The Wilson-Davis Notes (16 October 2002)"
+    }
+   ],
+   "id": "e-a5e9907bdd",
+   "kind": "edge",
+   "label": "Author of record of the notes of the alleged 16 October 2002 Wilson meeting",
+   "sources": [
+    {
+     "date": "2020-07-23",
+     "name": "Ralph Blumenthal, 'No Longer in the Shadows, Pentagon's U.F.O. Unit Will Make Some Findings Public', The New York Times",
+     "url": "https://www.nytimes.com/2020/07/23/us/politics/pentagon-ufo-harry-reid-navy.html"
+    }
+   ],
+   "text": "Notes attributed to Davis describing a meeting with former DIA director Vice Adm. Thomas R. Wilson surfaced in 2019 among the estate papers of Edgar Mitchell. Provenance is a private estate, not a government release; Davis has not publicly repudiated authorship.",
+   "tier": 2,
+   "type": "custody"
+  },
+  "e-aae119eaed": {
+   "endpoints": [
+    {
+     "id": "will-miller",
+     "label": "Will Miller"
+    },
+    {
+     "id": "eric-davis",
+     "label": "Eric W. Davis"
+    }
+   ],
+   "id": "e-aae119eaed",
+   "kind": "edge",
+   "label": "His letter of 25 April 2002 is addressed to Davis at Warp Drive Metrics",
+   "sources": [
+    {
+     "date": "2002-10-16",
+     "name": "The Wilson-Davis notes as published (EWD NOTES, 10/16/02, Eric Davis Meeting with Adm. Wilson), fifteen pages, The Black Vault case files",
+     "url": "https://documents2.theblackvault.com/casefiles/wilsonleak.pdf"
+    }
+   ],
+   "text": "Miller's letter of 25 April 2002 is addressed to Davis at Warp Drive Metrics and offers him paid research assistance.",
+   "tier": 1,
+   "type": "witness-chain"
+  },
+  "e-ba53a7bcd5": {
+   "endpoints": [
+    {
+     "id": "aaro-historical-record-vol1",
+     "label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+    },
+    {
+     "id": "lockheed-martin",
+     "label": "Lockheed Martin Corporation"
+    }
+   ],
+   "id": "e-ba53a7bcd5",
+   "kind": "edge",
+   "label": "Executives and CTOs of the unnamed 'named companies' denied recovery or possession to AARO's Director on the record",
+   "sources": [
+    {
+     "date": "2024-03-08",
+     "name": "AARO, 'Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP), Volume I'",
+     "url": "https://documents2.theblackvault.com/documents/dod/AARO_Historical_Record_Report_Volume_1_2024.pdf"
+    }
+   ],
+   "text": "AARO states it met high-ranking officials of the companies named by interviewees and that all denied the existence of the programs and attested to the truthfulness of their statements. AARO does not name a single company, and describes no inspection of any facility or holding.",
+   "tier": 1,
+   "type": "denial"
+  },
+  "e-be700049d5": {
+   "endpoints": [
+    {
+     "id": "richard-damato",
+     "label": "Richard D'Amato"
+    },
+    {
+     "id": "eg-and-g",
+     "label": "EG&G (Edgerton, Germeshausen and Grier)"
+    }
+   ],
+   "id": "e-be700049d5",
+   "kind": "edge",
+   "label": "D'Amato's Senate inquiry reached EG&G and stopped there",
+   "sources": [
+    {
+     "date": "2023-02-28",
+     "name": "Christopher Sharp, 'Former Chief For Defense Contractor That Ran Area 51 Claimed Knowledge Of Recovered Flying Saucer And Live Being,' Liberation Times",
+     "url": "https://www.liberationtimes.com/home/former-chief-for-defense-contractor-that-ran-area-51-claimed-knowledge-of-recovered-flying-saucer-and-live-being-as-congress-looks-to-uncover-details-of-alleged-illegal-ufo-programs"
+    }
+   ],
+   "text": "Knapp arranged, with EG&G co-founder Herbert Grier's blessing, a meeting between D'Amato and Al O'Donnell; O'Donnell said nothing. D'Amato reported to the Senator that the allegations did not merit further investigation.",
+   "tier": 2,
+   "type": "investigative"
+  },
+  "e-c3107a22c6": {
+   "endpoints": [
+    {
+     "id": "will-miller",
+     "label": "Will Miller"
+    },
+    {
+     "id": "thomas-wilson",
+     "label": "Thomas R. Wilson"
+    }
+   ],
+   "id": "e-c3107a22c6",
+   "kind": "edge",
+   "label": "The private two hour conversation of April 1997, as the notes record it",
+   "sources": [
+    {
+     "date": "2002-10-16",
+     "name": "The Wilson-Davis notes as published (EWD NOTES, 10/16/02, Eric Davis Meeting with Adm. Wilson), fifteen pages, The Black Vault case files",
+     "url": "https://documents2.theblackvault.com/casefiles/wilsonleak.pdf"
+    }
+   ],
+   "text": "The notes record a private two hour conversation between Miller and Wilson in April 1997 and Wilson's later anger that Miller repeated it.",
+   "tier": 2,
+   "type": "witness-chain"
+  },
+  "e-cc5305178c": {
+   "endpoints": [
+    {
+     "id": "thomas-wilson",
+     "label": "Thomas R. Wilson"
+    },
+    {
+     "id": "wilson-davis-memo",
+     "label": "The Wilson-Davis Notes (16 October 2002)"
+    }
+   ],
+   "id": "e-cc5305178c",
+   "kind": "edge",
+   "label": "Wilson denies the meeting and the substance attributed to him",
+   "sources": [
+    {
+     "date": "2022-08-01",
+     "name": "The Debrief, 'Summer of the Saucers' (notes Wilson-Davis Memo raised at the 17 May 2022 House Intelligence UAP hearing)",
+     "url": "https://thedebrief.org/summer-of-the-saucers/"
+    }
+   ],
+   "text": "Wilson's denial is recorded as a primary artefact. It is irreconcilable with Davis's confirmation of authorship, and no agency has attempted to resolve it.",
+   "tier": 2,
+   "type": "denial"
+  },
+  "e-d1429d73f2": {
+   "endpoints": [
+    {
+     "id": "richard-damato",
+     "label": "Richard D'Amato"
+    },
+    {
+     "id": "lockheed-martin",
+     "label": "Lockheed Martin Corporation"
+    }
+   ],
+   "id": "e-d1429d73f2",
+   "kind": "edge",
+   "label": "D'Amato is reported to have judged a private-company cover-up 'entirely feasible'",
+   "sources": [
+    {
+     "date": "2023-02-28",
+     "name": "Christopher Sharp, 'Former Chief For Defense Contractor That Ran Area 51 Claimed Knowledge Of Recovered Flying Saucer And Live Being,' Liberation Times",
+     "url": "https://www.liberationtimes.com/home/former-chief-for-defense-contractor-that-ran-area-51-claimed-knowledge-of-recovered-flying-saucer-and-live-being-as-congress-looks-to-uncover-details-of-alleged-illegal-ufo-programs"
+    },
+    {
+     "date": "2023-03-11",
+     "name": "Christopher Sharp, 'Lockheed Martin Challenged On UFO Legacy Programs, As Politicians Talk Hearings,' Liberation Times",
+     "url": "https://www.liberationtimes.com/home/lockheed-martin-challenged-on-ufo-legacy-programs-as-politicians-talk-hearings"
+    }
+   ],
+   "text": "Knapp attributes to D'Amato the conclusion that the cover-up could feasibly exist within a private company such as Lockheed Martin, EG&G or Northrop Grumman. D'Amato's own public statement records no opinion and treats the inquiry as closed.",
+   "tier": 3,
+   "type": "investigative"
+  },
+  "e-d62441efb9": {
+   "endpoints": [
+    {
+     "id": "kit-green",
+     "label": "Christopher C. 'Kit' Green"
+    },
+    {
+     "id": "wilson-davis-memo",
+     "label": "The Wilson-Davis Notes (16 October 2002)"
+    }
+   ],
+   "id": "e-d62441efb9",
+   "kind": "edge",
+   "label": "The memo pages entered public circulation from Green's document holdings",
+   "sources": [
+    {
+     "date": "2024-03-08",
+     "name": "AARO, 'Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP), Volume I'",
+     "url": "https://documents2.theblackvault.com/documents/dod/AARO_Historical_Record_Report_Volume_1_2024.pdf"
+    },
+    {
+     "date": "2026-01-13",
+     "name": "Christopher Sharp, 'UFO Allegedly Stored At East Coast Navy Facility As Material Transfer Claims Resurface,' Liberation Times",
+     "url": "https://www.liberationtimes.com/home/ufo-allegedly-stored-at-east-coast-navy-facility-as-material-transfer-claims-resurface"
+    }
+   ],
+   "text": "Green has acknowledged that documents left his possession without vouching for their contents; the provenance chain between 2002 and 2019 has never been established.",
+   "tier": 2,
+   "type": "custody"
+  }
+ },
+ "claimed": [
+  {
+   "cite": [
+    "c-daf25928e2",
+    "e-c3107a22c6"
+   ],
+   "text": "The notes record Wilson confirming that Greer, Miller and Mitchell gave a talk in a Pentagon conference room in April 1997, and that afterwards Miller and Wilson talked privately for two hours about UFOs, MJ-12, Roswell and crashed craft."
+  },
+  {
+   "cite": [
+    "c-627f05aa82"
+   ],
+   "text": "The chain by which the notes say the account travelled runs through three people: Wilson was angry that Miller had repeated their conversation, and Davis's own note says Miller told Edgar Mitchell, who told Davis only in 1999."
+  },
+  {
+   "cite": [
+    "c-96a8cb7a41",
+    "c-8d6448fa78",
+    "c-040ce1a32e",
+    "e-79745e7910"
+   ],
+   "text": "Davis has confirmed to journalists that the notes are his. On a podcast in March 2026 he said they are real and 100 percent accurate, that the circulating copy is a typewritten version of a handwritten one, and that it came from Mitchell's estate, while saying he could not confirm or deny that he and Wilson met."
+  },
+  {
+   "cite": [
+    "e-1ec3a56650"
+   ],
+   "text": "A later report places the meeting at an EG&G facility in Las Vegas; the board holds that at Tier 3."
+  },
+  {
+   "cite": [
+    "c-2451f39f83",
+    "c-337b9b8425",
+    "e-9c9d5b18c9"
+   ],
+   "text": "Davis told the New York Times in 2020 that he had briefed Senate Armed Services staff and Senate Intelligence members in October 2019 on retrievals of unexplained objects, and a Defense Department agency in March 2020 about retrievals from off-world vehicles not made on this earth, and said of the materials that we couldn't make it ourselves; the paper identified him as working for the Aerospace Corporation at the time."
+  },
+  {
+   "cite": [
+    "c-c88a888ea6"
+   ],
+   "text": "On the board's reading, the refusal the notes describe, with security officers and contractor gatekeepers denying a cleared senior official, matches the mechanism David Grusch described under oath in 2023; that is an inference, not corroboration."
+  }
+ ],
+ "contested": [
+  {
+   "cite": [
+    "c-7cddcadc7e",
+    "c-39807b341a",
+    "e-cc5305178c"
+   ],
+   "text": "Thomas Wilson denies that the meeting took place and denies the substance attributed to him. His denial and Davis's confirmation cannot both be true, and no agency has tried to resolve them."
+  },
+  {
+   "cite": [
+    "c-040ce1a32e",
+    "c-8d6448fa78",
+    "c-3f0f4c06eb"
+   ],
+   "text": "An author endorsing his own notes is not authentication: Davis vouches for the text while declining to confirm the meeting, and the DoD witnesses asked about the memo in 2022 said they were unaware of it."
+  },
+  {
+   "cite": [
+    "c-96a8cb7a41",
+    "c-14000c4c9a",
+    "c-83f85ad5a9",
+    "e-d62441efb9"
+   ],
+   "text": "The record disagrees on the document's form and route. It is widely described as handwritten, while the published copy is typed; one account says it surfaced from Edgar Mitchell's estate, another that its pages left Kit Green's holdings, with Green not vouching for their contents."
+  },
+  {
+   "cite": [
+    "c-8d611cd0e6",
+    "c-22cd3f97d8",
+    "c-2ae7c4a744"
+   ],
+   "text": "Details common in retellings are not in the document: the form Cdr. Willard Miller, USN is unsupported by the notes, and Lovekin is not named in them."
+  },
+  {
+   "cite": [
+    "c-161940a99e",
+    "e-ba53a7bcd5"
+   ],
+   "text": "AARO does not engage the notes, but attributes the claim that the government reverse-engineers extraterrestrial technology largely to circular reporting among believers, and says executives of the companies interviewees named denied such programmes on the record."
+  },
+  {
+   "cite": [
+    "c-ed860dfc07",
+    "c-048b3afad1",
+    "e-d1429d73f2",
+    "e-be700049d5"
+   ],
+   "text": "An earlier Senate inquiry reached EG&G and stopped: Richard D'Amato's public statement is that 1940s crash allegations did not merit further investigation, while George Knapp attributes to him a private view that a cover-up inside a company such as Lockheed Martin or EG&G was entirely feasible."
+  },
+  {
+   "cite": [
+    "c-9ee51f8d27"
+   ],
+   "text": "The skeptic Brian Dunning calls the Wilson-Davis memo an obviously hoaxed document, in itemising the claims of Jason Sands, who treats it as genuine."
+  }
+ ],
+ "essays": [],
+ "focusEra": "2",
+ "id": "wilson-davis-notes",
+ "kind": "document",
+ "lead": {
+  "cite": [
+   "c-14000c4c9a",
+   "c-57e9190bad",
+   "c-7fb0b6e2a9",
+   "c-8d6448fa78",
+   "c-7cddcadc7e",
+   "e-cc5305178c",
+   "c-3f0f4c06eb"
+  ],
+  "text": "The Wilson-Davis notes are fifteen typed pages, dated 16 October 2002, in which Eric Davis, an AAWSAP contract author, records Vice Admiral Thomas Wilson describing how he was refused access to a special access programme holding recovered material in a contractor's custody. Davis says the notes are his and accurate; Wilson denies the meeting took place, and DoD witnesses asked about the memo in 2022 said they were unaware of it."
+ },
+ "members": [
+  {
+   "cls": "document",
+   "id": "wilson-davis-memo",
+   "label": "The Wilson-Davis Notes (16 October 2002)",
+   "role": "subject"
+  },
+  {
+   "cls": "person",
+   "id": "eric-davis",
+   "label": "Eric W. Davis",
+   "role": "claimant"
+  },
+  {
+   "cls": "person",
+   "id": "thomas-wilson",
+   "label": "Thomas R. Wilson",
+   "role": "official"
+  },
+  {
+   "cls": "person",
+   "id": "will-miller",
+   "label": "Will Miller",
+   "role": "claimant"
+  },
+  {
+   "cls": "person",
+   "id": "kit-green",
+   "label": "Christopher C. 'Kit' Green",
+   "role": "researcher"
+  },
+  {
+   "cls": "person",
+   "id": "richard-damato",
+   "label": "Richard D'Amato",
+   "role": "investigator"
+  },
+  {
+   "cls": "institution",
+   "id": "eg-and-g",
+   "label": "EG&G (Edgerton, Germeshausen and Grier)",
+   "role": "contractor"
+  },
+  {
+   "cls": "institution",
+   "id": "lockheed-martin",
+   "label": "Lockheed Martin Corporation",
+   "role": "contractor"
+  },
+  {
+   "cls": "institution",
+   "id": "aerospace-corporation",
+   "label": "The Aerospace Corporation",
+   "role": "contractor"
+  },
+  {
+   "cls": "institution",
+   "id": "earthtech-international",
+   "label": "EarthTech International / Institute for Advanced Studies at Austin",
+   "role": "contractor"
+  },
+  {
+   "cls": "person",
+   "id": "harold-puthoff",
+   "label": "Harold E. Puthoff",
+   "role": "researcher"
+  },
+  {
+   "cls": "program",
+   "id": "nids",
+   "label": "National Institute for Discovery Science (NIDS)",
+   "role": "programme"
+  },
+  {
+   "cls": "document",
+   "id": "dird-series",
+   "label": "The 38 Defense Intelligence Reference Documents (DIRDs)",
+   "role": "document"
+  },
+  {
+   "cls": "document",
+   "id": "dird-antigravity-for-aerospace-applications",
+   "label": "Antigravity for Aerospace Applications",
+   "role": "document"
+  },
+  {
+   "cls": "document",
+   "id": "dird-traversable-wormholes",
+   "label": "DIA-08-1004-004: 'Traversable Wormholes, Stargates, and Negative Energy'",
+   "role": "document"
+  },
+  {
+   "cls": "document",
+   "id": "aaro-historical-record-vol1",
+   "label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
+   "role": "document"
+  },
+  {
+   "cls": "institution",
+   "id": "sol-foundation",
+   "label": "The Sol Foundation",
+   "role": "institution"
+  },
+  {
+   "cls": "person",
+   "id": "jesse-michels",
+   "label": "Jesse Michels",
+   "role": "journalist"
+  },
+  {
+   "cls": "person",
+   "id": "jason-sands",
+   "label": "Jason Sands",
+   "role": "claimant"
+  }
+ ],
+ "notes": "Thread wilson-davis; start-here flag 11.",
+ "questions": [
+  "Where did the notes go between 2002 and 2019, and did they reach the public from Mitchell's estate, from Kit Green's holdings, or both?",
+  "Does the handwritten version Davis mentions exist, and does it match the typed copy?",
+  "Did the meeting take place, and where? The EG&G venue rests on a single later report.",
+  "Who is Will Miller, what was his service, and what did he tell Mitchell about his 1997 conversation with Wilson?",
+  "Why did AARO's historical review not address the notes, and will its promised second volume?",
+  "Do Senate committee files hold any record of Davis's October 2019 briefings?"
+ ],
+ "record": [
+  {
+   "cite": [
+    "c-14000c4c9a",
+    "c-9cfeec03ff",
+    "e-7247b6d94d",
+    "e-aae119eaed"
+   ],
+   "text": "The copy in public circulation is fifteen typed pages headed EWD NOTES and dated 16 October 2002, numbered 1 to 15. Pages 3 and 4 are a two-page letter on Navy letterhead dated 25 April 2002, signed Will Miller and addressed to Davis as chief executive of Warp Drive Metrics, which the notes flag as a paper-clipped letter."
+  },
+  {
+   "cite": [
+    "c-9cfeec03ff",
+    "c-fcb743b56e",
+    "c-8d611cd0e6"
+   ],
+   "text": "Miller's letter offers help with Davis's research into UFO crash retrievals and says that Miller once held top secret and compartmented clearances but no longer works in the classified realm. The notes give him no rank, service or first name beyond Will."
+  },
+  {
+   "cite": [
+    "c-2ae7c4a744"
+   ],
+   "text": "Read page by page, the published notes name Wilson, Davis, Steven Greer, Will Miller and Edgar Mitchell; Brig. Gen. Steven Lovekin, often linked to them, does not appear."
+  },
+  {
+   "cite": [
+    "c-3f0f4c06eb",
+    "c-192e83e023"
+   ],
+   "text": "At the House Intelligence subcommittee hearing of 17 May 2022, the DoD witnesses Ronald Moultrie and Scott Bray were asked about the Wilson-Davis memo and said they were unaware of it."
+  },
+  {
+   "cite": [
+    "c-96004f74f0",
+    "e-39f56dc200",
+    "e-1ddb9c9da4"
+   ],
+   "text": "AARO's Historical Record Report Volume I contains no occurrence of the names Wilson or Davis in its 63 pages, although it records a senior military officer's account of a craft in a building kept outside government so the technology could stay proprietary."
+  },
+  {
+   "cite": [
+    "c-7fb0b6e2a9",
+    "e-96769d6a97",
+    "c-d1bb0cdd75",
+    "e-4a31104e65",
+    "e-4c36c9eddc",
+    "c-16bf33609a",
+    "e-81f714787a"
+   ],
+   "text": "Davis's official output is on record: DIA listed him to the Senate Armed Services Committee as author of five of the 38 AAWSAP reference documents, and the released cover of one names him, of EarthTech International, as its author under DIA's programme. His antigravity survey concludes that each proposed device faces daunting technical challenges."
+  }
+ ],
+ "related": [
+  "aawsap-baass",
+  "dirds",
+  "named-contractors",
+  "area-51-ranges",
+  "sap-governance",
+  "testimony-provenance",
+  "aaro-historical-record"
+ ],
+ "section": "custody-allegations",
+ "span": {
+  "from": "2002",
+  "to": "2026"
+ },
+ "status": "verified",
+ "summary": [
+  {
+   "cite": [
+    "c-57e9190bad",
+    "c-946d714ea1",
+    "c-b123bc0555"
+   ],
+   "text": "The claim, as the notes record it: Wilson says that in 1997, as a senior intelligence officer, he tried to gain access to a programme holding recovered non-human material and was turned away on need-to-know grounds by a programme security officer, a contractor programme manager and a lawyer."
+  },
+  {
+   "cite": [
+    "c-14000c4c9a",
+    "e-7247b6d94d",
+    "c-83f85ad5a9",
+    "e-a5e9907bdd"
+   ],
+   "text": "The document: typed notes headed as Eric Davis's meeting with Admiral Wilson, with a letter from a correspondent named Will Miller bound in as two of the pages; they surfaced in 2019 from private papers, not from any government release."
+  },
+  {
+   "cite": [
+    "e-9478dc5bcb",
+    "e-4969cf7445",
+    "e-520be31762",
+    "c-7fb0b6e2a9",
+    "c-2451f39f83",
+    "c-83f85ad5a9",
+    "c-3f0f4c06eb",
+    "e-39f56dc200"
+   ],
+   "text": "The people: Davis, earlier a NIDS scientist who worked under Harold Puthoff at EarthTech and now sits on the Sol Foundation's advisory board, was an AAWSAP contract author and says he later briefed Senate Armed Services staff and Senate Intelligence members on retrievals; Wilson was a former DIA director. The notes' account was raised with Pentagon witnesses at a 2022 hearing and is absent from AARO's 2024 history."
+  }
+ ],
+ "title": "The Wilson-Davis notes (2002)"
+}

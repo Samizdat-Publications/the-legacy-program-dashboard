@@ -1,0 +1,5 @@
+{
+ "_what": "The committed floor for topic membership coverage: the share of non-domain nodes, and of people, that are a member of at least one topic (research/topics/<id>.json `members`, after alias resolution). verify.py fails when coverage falls below it. Zero while every topic is a stub; the phase 5 drafting pass raises it to the level it reaches, so a later edit that drops members is seen as a fall.",
+ "nodes": 0.963,
+ "people": 0.96
+}

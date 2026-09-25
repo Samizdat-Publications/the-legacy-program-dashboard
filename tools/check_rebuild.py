@@ -131,7 +131,17 @@ def changed_files():
     r = _git("diff", "HEAD", "--name-only")
     if r.returncode != 0:
         raise SystemExit("check_rebuild: git diff failed: " + r.stderr.decode()[:300])
-    return [p for p in r.stdout.decode().splitlines() if p.strip()]
+    paths = [p for p in r.stdout.decode().splitlines() if p.strip()]
+    # And a build output nobody committed. `git diff HEAD` lists only tracked paths,
+    # so a file the build newly writes (app/public/data/topics/<id>.json when a topic
+    # is added, 25 September 2026) was invisible here: CI would build it, compare
+    # nothing, and pass, while the deploy shipped a file master does not hold.
+    # Untracked paths under the build's outputs are real drift ("not in HEAD").
+    u = _git("ls-files", "--others", "--exclude-standard")
+    if u.returncode != 0:
+        raise SystemExit("check_rebuild: git ls-files failed: " + u.stderr.decode()[:300])
+    paths += [p for p in u.stdout.decode().splitlines() if p.strip() and is_built(p)]
+    return paths
 
 
 def compare(paths):
@@ -252,6 +262,9 @@ def self_test():
     print("\nself-test - --built-only keeps build outputs and drops hand edits\n")
     for path, want in (("app/public/data/index.json", True), ("data/the-program.json", True),
                        ("research/_remediation.json", True),
+                       ("app/public/data/topics.json", True),
+                       ("app/public/data/topics/aaro.json", True),
+                       ("research/topics/aaro.json", False),
                        ("CLAUDE.md", False), ("notes/STATE.md", False),
                        ("tools/verify.py", False), ("research/w1-legacy.json", False)):
         got = is_built(path)
@@ -259,6 +272,28 @@ def self_test():
         ok &= good
         print("  %s  %s%s" % ("ok  " if good else "FAIL",
                               "" if want else "REJECTS: ", path))
+
+    # A build output nobody committed must be listed, on the real filesystem: an
+    # untracked file under a build prefix, and one outside every prefix.
+    print("\nself-test - an untracked build output is compared, a stray file is not\n")
+    probe_in = os.path.join(ROOT, "app", "public", "data", "topics", "zz-selftest-untracked.json")
+    probe_out = os.path.join(ROOT, "notes", "zz-selftest-untracked.md")
+    made = []
+    try:
+        for p in (probe_in, probe_out):
+            os.makedirs(os.path.dirname(p), exist_ok=True)
+            with open(p, "w") as fh:
+                fh.write("{}\n")
+            made.append(p)
+        listed = changed_files()
+        got_in = "app/public/data/topics/zz-selftest-untracked.json" in listed
+        got_out = "notes/zz-selftest-untracked.md" in listed
+        ok &= got_in and not got_out
+        print("  %s  an untracked file under app/public/data/ is listed" % ("ok  " if got_in else "FAIL"))
+        print("  %s  REJECTS: an untracked hand file is not listed" % ("ok  " if not got_out else "FAIL"))
+    finally:
+        for p in made:
+            os.remove(p)
 
     print("\nself-test — the no-build guard, against real mtimes\n")
     idx = os.path.join(ROOT, ".git", "index")

@@ -1,0 +1,2033 @@
+{
+ "absorbs": [],
+ "anchors": [
+  "michael-herrera",
+  "jason-sands",
+  "jake-barber",
+  "karl-nell",
+  "dylan-borland",
+  "jeffrey-nuccetelli",
+  "james-ryder",
+  "glenn-gaffney"
+ ],
+ "appendixT": "congressional-witnesses",
+ "cites": {
+  "c-04a427edb1": {
+   "id": "c-04a427edb1",
+   "kind": "claim",
+   "node": "dylan-borland",
+   "nodeLabel": "Dylan Borland",
+   "source": {
+    "domain": "oversight.house.gov",
+    "text": "https://oversight.house.gov/wp-content/uploads/2025/09/Borland-Written-Testimony.pdf",
+    "url": "https://oversight.house.gov/wp-content/uploads/2025/09/Borland-Written-Testimony.pdf"
+   },
+   "text": "Written testimony filed with the House Oversight Task Force, 9 September 2025.",
+   "tier": 1
+  },
+  "c-05d019fba4": {
+   "id": "c-05d019fba4",
+   "kind": "claim",
+   "node": "david-grusch",
+   "nodeLabel": "David Charles Grusch",
+   "source": {
+    "domain": null,
+    "text": "DoD FOIA case 23-F-0946 release, OSD/JS Executive Services Directorate reading room; analysis by The Black Vault",
+    "url": null
+   },
+   "text": "His public statements were cleared for open publication by DoD Prepublication and Security Review on 4 April and 6 April 2023; internal DOPSR emails show reviewers Michelle Whigham and Don Kluzik discussing his reference to sensitive areas and concluding vague references were not a problem.",
+   "tier": 1
+  },
+  "c-07950a178f": {
+   "id": "c-07950a178f",
+   "kind": "claim",
+   "node": "jeffrey-nuccetelli",
+   "nodeLabel": "Jeffrey Nuccetelli",
+   "source": {
+    "domain": null,
+    "text": "Nuccetelli written testimony, 9 September 2025",
+    "url": null
+   },
+   "text": "One witness 'was threatened and told to kept quiet about the incident.'",
+   "tier": 2
+  },
+  "c-0903921692": {
+   "id": "c-0903921692",
+   "kind": "claim",
+   "node": "karl-nell",
+   "nodeLabel": "Karl E. Nell",
+   "source": {
+    "domain": null,
+    "text": "Karl Nell, on the record, The Debrief, 5 June 2023",
+    "url": null
+   },
+   "text": "Grusch's assertion of an eighty-year sub rosa arms race focused on reverse engineering technologies of unknown origin is 'fundamentally correct,' and at least some of those technologies derive from non-human intelligence.",
+   "tier": 2
+  },
+  "c-0bea1751ec": {
+   "id": "c-0bea1751ec",
+   "kind": "claim",
+   "node": "hearing-2025-09-09",
+   "nodeLabel": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'",
+   "source": {
+    "domain": null,
+    "text": "Serial No. 119-44, 9 September 2025",
+    "url": null
+   },
+   "text": "Dylan Borland testified that before Grusch and the disclosure process, suppression of witnesses was 'probably extremely widespread,' and warned that if the process returns behind closed doors 'this is going to get really ugly.'",
+   "tier": 1
+  },
+  "c-0bf7a2bfaf": {
+   "id": "c-0bf7a2bfaf",
+   "kind": "claim",
+   "node": "hearing-2025-09-09",
+   "nodeLabel": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'",
+   "source": {
+    "domain": null,
+    "text": "CHRG-119hhrg61718, cover page",
+    "url": null
+   },
+   "text": "Printed hearing record CHRG-119hhrg61718, Serial No. 119-44, cover: 'RESTORING PUBLIC TRUST THROUGH UAP TRANSPARENCY AND WHISTLEBLOWER PROTECTION - HEARING BEFORE THE TASK FORCE ON THE DECLASSIFICATION OF FEDERAL SECRETS OF THE COMMITTEE ON OVERSIGHT AND GOVERNMENT REFORM, U.S. HOUSE OF REPRESENTATIVES, ONE HUNDRED NINETEENTH CONGRESS, FIRST SESSION, SEPTEMBER 9, 2025'. GPO print number 61-718. The govinfo package URL resolves and the PDF is retrievable.",
+   "tier": 1
+  },
+  "c-10f54f333d": {
+   "id": "c-10f54f333d",
+   "kind": "claim",
+   "node": "jeffrey-nuccetelli",
+   "nodeLabel": "Jeffrey Nuccetelli",
+   "source": {
+    "domain": "oversight.house.gov",
+    "text": "https://oversight.house.gov/wp-content/uploads/2025/09/Nuccetelli-Written-Testimony.pdf",
+    "url": "https://oversight.house.gov/wp-content/uploads/2025/09/Nuccetelli-Written-Testimony.pdf"
+   },
+   "text": "Written testimony filed with the House Oversight Task Force on the Declassification of Federal Secrets, 9 September 2025.",
+   "tier": 1
+  },
+  "c-128ede6611": {
+   "id": "c-128ede6611",
+   "kind": "claim",
+   "node": "hearing-2025-09-09",
+   "nodeLabel": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'",
+   "source": {
+    "domain": null,
+    "text": "CHRG-119hhrg61718, INDEX OF DOCUMENTS",
+    "url": null
+   },
+   "text": "INDEX OF DOCUMENTS lists 'Letter to SECDEF Regarding Major David Charles Grusch Reprisal; submitted by Rep. Crane' - a document about reprisal against the 2023 whistleblower entered into the record of the 2025 hearing.",
+   "tier": 1
+  },
+  "c-219874836b": {
+   "id": "c-219874836b",
+   "kind": "claim",
+   "node": "michael-herrera",
+   "nodeLabel": "Michael Herrera",
+   "source": {
+    "domain": "documents2.theblackvault.com",
+    "text": "AARO Historical Record Report Volume I, p. 29, https://documents2.theblackvault.com/documents/dod/AARO_Historical_Record_Report_Volume_1_2024.pdf , 2024-02",
+    "url": "https://documents2.theblackvault.com/documents/dod/AARO_Historical_Record_Report_Volume_1_2024.pdf"
+   },
+   "text": "AARO's 'Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP), Volume I', February 2024, carries at page 29, in Section V 'Assessment of Interviewee Claims of USG Involvement in Hidden UAP Programs', this sentence: 'An interviewee who is a former U.S. service member said that in 2009, while participating in a humanitarian and security mission in a foreign country, he encountered U.S. Special Forces loading containers onto a large extraterrestrial spacecraft.' The sentence is AARO's summary of an interview, not a quotation of the interviewee, and it names nobody.",
+   "tier": 1
+  },
+  "c-22416ff2ca": {
+   "id": "c-22416ff2ca",
+   "kind": "claim",
+   "node": "dylan-borland",
+   "nodeLabel": "Dylan Borland",
+   "source": {
+    "domain": "mgln.ai",
+    "text": "American Alchemy with Jesse Michels, 'I Saw a Triangle Shaped UFO At a NASA Hangar!' -Dylan Borland Tells All, 5 August 2026, 1:58:28 https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL3402784095.mp3",
+    "url": "https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL3402784095.mp3"
+   },
+   "text": "On American Alchemy with Jesse Michels, 5 August 2026, Dylan Borland said that AARO sent him a Memorandum for Record of his interview that he told them was wrong, that AARO acknowledged the error in an email and asked him to write corrections, that he made and signed the corrections and kept his email confirming their receipt, and that when he went to ODNI on 10 September 2025 the version AARO had transmitted was not the corrected one: 'Arrow had sent over a false MFR, said that was the true one.' He says he retained the corrected document (1:58:28 to 1:59:26).",
+   "tier": 2
+  },
+  "c-238e863171": {
+   "id": "c-238e863171",
+   "kind": "claim",
+   "node": "jason-sands",
+   "nodeLabel": "Jason Sands",
+   "source": {
+    "domain": "briandunning.substack.com",
+    "text": "https://briandunning.substack.com/p/new-ufo-whistleblower-jason-sands , 2024-05-13",
+    "url": "https://briandunning.substack.com/p/new-ufo-whistleblower-jason-sands"
+   },
+   "text": "Brian Dunning, writing on 13 May 2024, gives an independent account of the same service: Air Force from 1985 to 2007, working in aircraft structural maintenance and then as an Electronic System Security Assessment specialist, retiring as a Master Sergeant, in a role involving 'collecting, analyzing, and processing Department of Defense telecommunications' and identifying 'critical information potentially compromised'. A named writer's dated account, not a personnel record.",
+   "tier": 2
+  },
+  "c-2404414528": {
+   "id": "c-2404414528",
+   "kind": "claim",
+   "node": "george-knapp",
+   "nodeLabel": "George Knapp",
+   "source": {
+    "domain": null,
+    "text": "CHRG-119hhrg61718, 9 September 2025",
+    "url": null
+   },
+   "text": "Asked by Rep. Begich to name gatekeepers: 'one of them was named Dr. James Ryder at Lockheed'; and, separately, 'Glenn Gaffney, CIA.'",
+   "tier": 2
+  },
+  "c-2ca2b4bf41": {
+   "id": "c-2ca2b4bf41",
+   "kind": "claim",
+   "node": "glenn-grothman",
+   "nodeLabel": "Glenn S. Grothman",
+   "source": {
+    "domain": null,
+    "text": "Rep. Grothman, opening statement, 13 November 2024, GPO CHRG-118hhrg57440",
+    "url": null
+   },
+   "text": "'None of them have been able to substantiate the claims made at this hearing last year by David Grusch, despite our Committee Members endlessly questioning these agencies inside and outside of the SCIF.'",
+   "tier": 1
+  },
+  "c-2fb19b9899": {
+   "id": "c-2fb19b9899",
+   "kind": "claim",
+   "node": "glenn-gaffney",
+   "nodeLabel": "Glenn Gaffney",
+   "source": {
+    "domain": "mgln.ai",
+    "text": "American Alchemy with Jesse Michels, 'Congressman: President Trump Was Briefed On Alien Hybrids!', 2 July 2026, 1:48:44 https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL2654068830.mp3",
+    "url": "https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL2654068830.mp3"
+   },
+   "text": "On American Alchemy with Jesse Michels, 2 July 2026, Rep. Eric Burlison was asked whom in government he would most want to subpoena or question at length in a SCIF about UAP and named Gaffney first: 'I would say probably Glenn Gaffney who is you know former CIA a lot of people I talked to you say that this is somebody that we need to talk to.' He then named Steve Cantrell, described only as former Air Force senior intelligence, and General McCasland (1:48:44).",
+   "tier": 2
+  },
+  "c-34e28a9688": {
+   "id": "c-34e28a9688",
+   "kind": "claim",
+   "node": "michael-herrera",
+   "nodeLabel": "Michael Herrera",
+   "source": {
+    "domain": "docs.house.gov",
+    "text": "https://docs.house.gov/Committee/Calendar/ByEvent.aspx?EventID=116282 , https://docs.house.gov/Committee/Calendar/ByEvent.aspx?EventId=117722 , https://oversight.house.gov/hearing/restoring-public-trust-through-uap-transparency-and-whistleblower-protection/ , all opened 2026-09-18",
+    "url": "https://docs.house.gov/Committee/Calendar/ByEvent.aspx?EventID=116282"
+   },
+   "text": "He is on no congressional witness list. The committee-published witness lists for 26 July 2023 (event 116282), 13 November 2024 (event 117722) and 9 September 2025 name him nowhere, and the printed records of all three hearings contain his name exactly once in total, in the Burlison colloquy.",
+   "tier": 1
+  },
+  "c-3b643d967c": {
+   "id": "c-3b643d967c",
+   "kind": "claim",
+   "node": "david-grusch",
+   "nodeLabel": "David Charles Grusch",
+   "source": {
+    "domain": null,
+    "text": "DoD statement attributed to Susan Gough, 6 June 2023",
+    "url": null
+   },
+   "text": "The Department's June 2023 response was that AARO 'has not discovered any verifiable information' substantiating a possession or reverse-engineering programme - a statement about AARO's discoveries, not about the Department's knowledge.",
+   "tier": 1
+  },
+  "c-3ddb0bb503": {
+   "id": "c-3ddb0bb503",
+   "kind": "claim",
+   "node": "jake-barber",
+   "nodeLabel": "Jake Barber",
+   "source": {
+    "domain": null,
+    "text": "American Alchemy with Jesse Michels, 'UFO Crash Retrieval: Jake Barber's FIRSTHAND Account', published 30 January 2025, at 0:32:53",
+    "url": null
+   },
+   "text": "On American Alchemy with Jesse Michels, 30 January 2025, at 0:32:53, Jake Barber said that after 2001 he worked as a contractor for the intelligence community and that 'we had a cover contract through the BIA, which is the Bureau of Indian Affairs at a sovereign nation close to White Sands Missile Range in New Mexico'. He gives no contract number and names no company.",
+   "tier": 2
+  },
+  "c-4828537919": {
+   "id": "c-4828537919",
+   "kind": "claim",
+   "node": "dylan-borland",
+   "nodeLabel": "Dylan Borland",
+   "source": {
+    "domain": "mgln.ai",
+    "text": "American Alchemy with Jesse Michels, 'I Saw a Triangle Shaped UFO At a NASA Hangar!' -Dylan Borland Tells All, 5 August 2026, 2:23:27 https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL3402784095.mp3",
+    "url": "https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL3402784095.mp3"
+   },
+   "text": "In the same episode Borland argued that because AARO holds no original classification authority it had to refer his account out to the intelligence community and to private companies for a classification determination, and that his triangle account coming back unclassified while other drawings were classified is therefore itself evidence about what was seen: 'they would have to be classified' (2:23:27). Nothing opened for this board establishes AARO's classification authority either way; this is recorded as his argument.",
+   "tier": 2
+  },
+  "c-487eb621f8": {
+   "id": "c-487eb621f8",
+   "kind": "claim",
+   "node": "dylan-borland",
+   "nodeLabel": "Dylan Borland",
+   "source": {
+    "domain": null,
+    "text": "Dylan Borland, sworn testimony, House Oversight Task Force, 9 September 2025",
+    "url": null
+   },
+   "text": "'My professional career was deliberately obstructed, and I have endured sustained reprisals from government agencies for more than a decade.'",
+   "tier": 2
+  },
+  "c-5116693ded": {
+   "id": "c-5116693ded",
+   "kind": "claim",
+   "node": "sol-foundation",
+   "nodeLabel": "The Sol Foundation",
+   "source": {
+    "domain": null,
+    "text": "The Sol Foundation, 2025 Symposium page",
+    "url": null
+   },
+   "text": "The 2025 Sol Foundation Symposium was held 24-27 October 2025 on the shores of Lake Maggiore, northern Italy; speakers included Karl Nell, Jacques Vallee, Garry Nolan, Jake Barber, Dylan Borland, Jeff Nuccetelli, Tim Gallaudet, Diana Pasulka, Beatriz Villarroel and Gen. Pierre Bescond.",
+   "tier": 1
+  },
+  "c-55e352d752": {
+   "id": "c-55e352d752",
+   "kind": "claim",
+   "node": "david-grusch",
+   "nodeLabel": "David Charles Grusch",
+   "source": {
+    "domain": null,
+    "text": "AARO Memorandum for Record, 8 January 2024, released as FOIA 24-F-0266",
+    "url": null
+   },
+   "text": "AARO documented at least eight distinct approaches to Grusch between June 2023 and January 2024 and concluded he had no intention of providing information.",
+   "tier": 1
+  },
+  "c-5b18a9c6bd": {
+   "id": "c-5b18a9c6bd",
+   "kind": "claim",
+   "node": "karl-nell",
+   "nodeLabel": "Karl E. Nell",
+   "source": {
+    "domain": null,
+    "text": "Karl Nell, SALT iConnections conference, May 2024",
+    "url": null
+   },
+   "text": "'Non-human intelligence exists, non-human intelligence has been interacting with humanity. This interaction is not new, and it's been ongoing, and unelected people in the government are aware of that. There's zero doubt.'",
+   "tier": 2
+  },
+  "c-5b50718005": {
+   "id": "c-5b50718005",
+   "kind": "claim",
+   "node": "george-knapp",
+   "nodeLabel": "George Knapp",
+   "source": {
+    "domain": null,
+    "text": "George Knapp, sworn testimony, House Oversight Task Force on the Declassification of Federal Secrets, 9 September 2025",
+    "url": null
+   },
+   "text": "'I have confirmed on the record that Robert Bigelow and a trusted colleague from AAWSAP met with and negotiated with senior executives at Lockheed Martin and hammered out a deal wherein Bigelow's company, BAASS, would receive a quantity of unusual material that had been stashed away and protected at a facility in California. That material was not made here.'",
+   "tier": 2
+  },
+  "c-62c7f116b4": {
+   "id": "c-62c7f116b4",
+   "kind": "claim",
+   "node": "michael-herrera",
+   "nodeLabel": "Michael Herrera",
+   "source": {
+    "domain": "www.govinfo.gov",
+    "text": "Serial CHRG-119hhrg61718, https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm , 2025-09-09",
+    "url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm"
+   },
+   "text": "The printed record of the House Oversight Task Force on the Declassification of Federal Secrets hearing of 9 September 2025 carries this colloquy. Rep. Eric Burlison: 'Madam Chair, I also have further witnesses of courageous individuals. It was given to me by Dr. Steven Greer, including Michael Herrera and his testimony. We have Roderick Castle and his testimony; Randy Anderson, his testimony; Steven Digna, and others, three others, all saying similar things to what the witnesses today have said, and I would like to enter that into the record as well.' Chairwoman Luna: 'No objection.' What this documents is that a member moved a document about him into a hearing record and sourced it to Steven Greer. It does not document that he testified, was sworn, or appeared.",
+   "tier": 1
+  },
+  "c-660ea60885": {
+   "id": "c-660ea60885",
+   "kind": "claim",
+   "node": "jake-barber",
+   "nodeLabel": "Jake Barber",
+   "source": {
+    "domain": null,
+    "text": "American Alchemy with Jesse Michels, 'UFO Crash Retrieval: Jake Barber's FIRSTHAND Account', published 30 January 2025, at 2:04:48 to 2:06:33",
+    "url": null
+   },
+   "text": "In the same episode, between 2:04:48 and 2:06:33, Barber said that he and colleagues wrote a 120,000 word historical-fiction manuscript with a hired ghost writer and submitted it to the DOPSR review process in pieces, beginning with the first twenty pages, in order to 'red team the DOPSR process to expose who subject matter experts are' and to map who controls which information. He describes seeding the manuscript with four deliberately chosen categories of information as the probe.",
+   "tier": 2
+  },
+  "c-66d33c8d87": {
+   "id": "c-66d33c8d87",
+   "kind": "claim",
+   "node": "david-grusch",
+   "nodeLabel": "David Charles Grusch",
+   "source": {
+    "domain": null,
+    "text": "CHRG-118hhrg53022, testimony of David Grusch",
+    "url": null
+   },
+   "text": "Sworn testimony, 26 July 2023: 'I was informed in the course of my official duties of a multi-decade UAP crash retrieval and reverse engineering program to which I was denied access to those additional read-ons when I requested it. I made the decision based on the data I collected to report this information to my superiors and multiple inspectors general and, in effect, becoming a whistleblower. As you know, I have suffered retaliation for my decision'.",
+   "tier": 2
+  },
+  "c-67ffb4cf08": {
+   "id": "c-67ffb4cf08",
+   "kind": "claim",
+   "node": "george-knapp",
+   "nodeLabel": "George Knapp",
+   "source": {
+    "domain": null,
+    "text": "CHRG-119hhrg61718 CONTENTS",
+    "url": null
+   },
+   "text": "Witness of record at the 9 September 2025 hearing: 'Mr. George Knapp, UAP Journalist'.",
+   "tier": 1
+  },
+  "c-68029c0e89": {
+   "id": "c-68029c0e89",
+   "kind": "claim",
+   "node": "hearing-2025-09-09",
+   "nodeLabel": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'",
+   "source": {
+    "domain": null,
+    "text": "House Oversight hearing page; GPO CHRG-119hhrg61718",
+    "url": null
+   },
+   "text": "Held 9 September 2025 in HVC-210; witnesses Nuccetelli, Wiggins, Knapp, Borland and Spielberger; printed as Serial No. 119-44.",
+   "tier": 1
+  },
+  "c-69b007ddee": {
+   "id": "c-69b007ddee",
+   "kind": "claim",
+   "node": "hr-5060-uap-whistleblower-protection-act",
+   "nodeLabel": "H.R. 5060 - UAP Whistleblower Protection Act (119th Congress)",
+   "source": {
+    "domain": null,
+    "text": "Congress.gov, H.R. 5060 and H.R. 10111",
+    "url": null
+   },
+   "text": "H.R. 5060, the UAP Whistleblower Protection Act, was introduced by Rep. Tim Burchett in the 119th Congress; its predecessor was H.R. 10111 in the 118th.",
+   "tier": 1
+  },
+  "c-6a6c839abd": {
+   "id": "c-6a6c839abd",
+   "kind": "claim",
+   "node": "michael-herrera",
+   "nodeLabel": "Michael Herrera",
+   "source": {
+    "domain": null,
+    "text": "stated inference from the AARO Volume I page 29 summary and his Shawn Ryan Show account",
+    "url": null
+   },
+   "text": "The identification of AARO's page 29 interviewee as Michael Herrera is an INFERENCE and this node carries it as one. It matches his public account on year, on mission type and on the described scene. No opened record makes the link, AARO names nobody, and Herrera is not named anywhere in the report.",
+   "tier": 3
+  },
+  "c-6af94511e8": {
+   "id": "c-6af94511e8",
+   "kind": "claim",
+   "node": "glenn-gaffney",
+   "nodeLabel": "Glenn Gaffney",
+   "source": {
+    "domain": null,
+    "text": "American Alchemy with Jesse Michels, 'CIA Scientist: George Bush Was Briefed on UFOs (ft. Eric Davis)', 13 December 2024, 0:19:28 to 0:20:19",
+    "url": null
+   },
+   "text": "At 0:19:28 and 0:20:19 in the same episode Davis said he had no direct interaction with Gaffney but that the aerospace defence firm involved, and that firm's senior and executive vice presidents, did; and that Gaffney was 'very antagonistic' about that company releasing to them, under DIA classification, a collection of crash retrieval materials held by Bigelow Aerospace Advanced Space Studies and EarthTech since the 1989 shutdown. This is a second blocked transfer, distinct from the Lockheed to Bigelow transfer the node already carries.",
+   "tier": 2
+  },
+  "c-6b452defaa": {
+   "id": "c-6b452defaa",
+   "kind": "claim",
+   "node": "jason-sands",
+   "nodeLabel": "Jason Sands",
+   "source": {
+    "domain": null,
+    "text": "stated inference; the committee witness lists were opened 2026-09-18 and do not name him",
+    "url": null
+   },
+   "text": "The two attributes most often used to make Sands significant, that he appears in James Fox's documentary 'The Program' and that he gave testimony to Congress, the ICIG or AARO, are NOT established by any opened record. The film was not viewed and the one trade report on it was behind a paywall gateway. No congressional witness list names him. This claim exists to stop those attributes entering the board by repetition.",
+   "tier": 3
+  },
+  "c-6d2a16c423": {
+   "id": "c-6d2a16c423",
+   "kind": "claim",
+   "node": "eric-burlison",
+   "nodeLabel": "Eric Burlison",
+   "source": {
+    "domain": null,
+    "text": "Rep. Eric Burlison, official press release, 27 March 2025",
+    "url": null
+   },
+   "text": "Named David Grusch Special Advisor to his congressional office on 27 March 2025, citing Grusch's NRO/NGA service and the credible-and-urgent whistleblower finding.",
+   "tier": 1
+  },
+  "c-6ff0911b65": {
+   "id": "c-6ff0911b65",
+   "kind": "claim",
+   "node": "glenn-gaffney",
+   "nodeLabel": "Glenn Gaffney",
+   "source": {
+    "domain": null,
+    "text": "AARO, Historical Record Report Volume I, March 2024",
+    "url": null
+   },
+   "text": "AARO separately records an interviewee claim that 'a former named senior CIA official quashed the proposal to remove the material from the corporation' in the 2009-2010 period. AARO does not name the official.",
+   "tier": 1
+  },
+  "c-70f64fef92": {
+   "id": "c-70f64fef92",
+   "kind": "claim",
+   "node": "jeffrey-nuccetelli",
+   "nodeLabel": "Jeffrey Nuccetelli",
+   "source": {
+    "domain": null,
+    "text": "Jeffrey Nuccetelli, written testimony, House Oversight Task Force, 9 September 2025",
+    "url": null
+   },
+   "text": "On 14 October 2003 Boeing contractors at Vandenberg AFB reported 'a massive, glowing red square silently hovering over two missile defense sites.'",
+   "tier": 2
+  },
+  "c-72c2113480": {
+   "id": "c-72c2113480",
+   "kind": "claim",
+   "node": "hearing-2025-09-09",
+   "nodeLabel": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'",
+   "source": {
+    "domain": null,
+    "text": "House Oversight, Hearing Wrap Up, 9 September 2025",
+    "url": null
+   },
+   "text": "The committee wrap-up found agencies withheld information, that witnesses face retaliation, that UAP spending flows to private entities outside FOIA reach, and that personnel lack standardised reporting protocols.",
+   "tier": 1
+  },
+  "c-7a6543a6cf": {
+   "id": "c-7a6543a6cf",
+   "kind": "claim",
+   "node": "david-grusch",
+   "nodeLabel": "David Charles Grusch",
+   "source": {
+    "domain": null,
+    "text": "CHRG-119hhrg61718 INDEX OF DOCUMENTS",
+    "url": null
+   },
+   "text": "A 'Letter to SECDEF Regarding Major David Charles Grusch Reprisal; submitted by Rep. Crane' is listed in the INDEX OF DOCUMENTS of the 9 September 2025 hearing record, CHRG-119hhrg61718.",
+   "tier": 1
+  },
+  "c-871cb898a7": {
+   "id": "c-871cb898a7",
+   "kind": "claim",
+   "node": "dylan-borland",
+   "nodeLabel": "Dylan Borland",
+   "source": {
+    "domain": null,
+    "text": "The Sol Foundation, 2025 Symposium speaker list",
+    "url": null
+   },
+   "text": "Borland was a named speaker at the 2025 Sol Foundation Symposium.",
+   "tier": 1
+  },
+  "c-8ca1eeb6a8": {
+   "id": "c-8ca1eeb6a8",
+   "kind": "claim",
+   "node": "hr-5060-uap-whistleblower-protection-act",
+   "nodeLabel": "H.R. 5060 - UAP Whistleblower Protection Act (119th Congress)",
+   "source": {
+    "domain": null,
+    "text": "Congress.gov H.R. 5060 (119th); GPO BILLS-119hr5060ih",
+    "url": null
+   },
+   "text": "Introduced 29 August 2025 by Rep. Tim Burchett; cosponsors Anna Paulina Luna and Elijah Crane; referred to Oversight and Government Reform and additionally to Armed Services and Intelligence (Permanent Select).",
+   "tier": 1
+  },
+  "c-8f97703118": {
+   "id": "c-8f97703118",
+   "kind": "claim",
+   "node": "dylan-borland",
+   "nodeLabel": "Dylan Borland",
+   "source": {
+    "domain": null,
+    "text": "The Hill, 9 September 2025; Borland written testimony",
+    "url": null
+   },
+   "text": "Described a '100ft equilateral triangle' made of 'fluid' material taking off from the base where he was working in 2012.",
+   "tier": 2
+  },
+  "c-9227fd28a3": {
+   "id": "c-9227fd28a3",
+   "kind": "claim",
+   "node": "jeffrey-nuccetelli",
+   "nodeLabel": "Jeffrey Nuccetelli",
+   "source": {
+    "domain": "defensescoop.com",
+    "text": "https://defensescoop.com/2025/09/09/military-whistleblowers-share-new-evidence-alleged-uap-ufo-hearing/",
+    "url": "https://defensescoop.com/2025/09/09/military-whistleblowers-share-new-evidence-alleged-uap-ufo-hearing/"
+   },
+   "text": "Described multiple alleged UAP incursions at Vandenberg AFB in 2003-2005 during National Reconnaissance Office launches, objects 'like flying buildings' that 'pulsed and moved in strange ways.'",
+   "tier": 2
+  },
+  "c-968a99a47e": {
+   "id": "c-968a99a47e",
+   "kind": "claim",
+   "node": "jake-barber",
+   "nodeLabel": "Jake Barber",
+   "source": {
+    "domain": null,
+    "text": "Jesse Michels, American Alchemy episode description, 30 January 2025",
+    "url": null
+   },
+   "text": "Barber, described as a former intelligence officer and whistleblower, gave an account of retrieving a craft using a helicopter.",
+   "tier": 2
+  },
+  "c-986e9668cc": {
+   "id": "c-986e9668cc",
+   "kind": "claim",
+   "node": "jeffrey-nuccetelli",
+   "nodeLabel": "Jeffrey Nuccetelli",
+   "source": {
+    "domain": null,
+    "text": "Jeffrey Nuccetelli, sworn testimony, House Oversight Task Force, 9 September 2025",
+    "url": null
+   },
+   "text": "'Each incident was witnessed by multiple personnel, documented, investigated and reported up the chain of command.'",
+   "tier": 2
+  },
+  "c-9e6433d88f": {
+   "id": "c-9e6433d88f",
+   "kind": "claim",
+   "node": "jason-sands",
+   "nodeLabel": "Jason Sands",
+   "source": {
+    "domain": null,
+    "text": "stated inference from the Joe Rogan Experience transcript and the Dunning piece",
+    "url": null
+   },
+   "text": "The two accounts above agree on rank, on end date and on length of service, and 1985 to 2007 is 22 years. That is weak convergence on the service claim only, from two sources with no shared method, and it is not a service record. Nothing else about him converges at all.",
+   "tier": 3
+  },
+  "c-9e907dd7f1": {
+   "id": "c-9e907dd7f1",
+   "kind": "claim",
+   "node": "eric-burlison",
+   "nodeLabel": "Eric Burlison",
+   "source": {
+    "domain": "burlison.house.gov",
+    "text": "https://burlison.house.gov/media/press-releases/rep-eric-burlison-releases-statement-president-trumps-uap-nda-directive",
+    "url": "https://burlison.house.gov/media/press-releases/rep-eric-burlison-releases-statement-president-trumps-uap-nda-directive"
+   },
+   "text": "'I strongly recommend that, in addition to an attorney, you request that either I or another member of Congress be present with you.'",
+   "tier": 2
+  },
+  "c-9ee51f8d27": {
+   "id": "c-9ee51f8d27",
+   "kind": "claim",
+   "node": "jason-sands",
+   "nodeLabel": "Jason Sands",
+   "source": {
+    "domain": "briandunning.substack.com",
+    "text": "https://briandunning.substack.com/p/new-ufo-whistleblower-jason-sands , 2024-05-13",
+    "url": "https://briandunning.substack.com/p/new-ufo-whistleblower-jason-sands"
+   },
+   "text": "The disputing material, from the same named critic on the same date. Brian Dunning itemises Sands's claims as including that the Wilson-Davis memo is genuine, which Dunning calls an 'obviously hoaxed' document; that alien spacecraft use electromagnetic propulsion; that aliens cooperated in reverse-engineering programmes; that a 'blue alien species' exists with whom humans can communicate telepathically; that non-physical aliens assist intelligence programmes; and that underground bases house aliens and that time travel and remote viewing are real. Dunning further states that Sands initially claimed involvement with the Navy's UAP Task Force and later contradicted himself, and that Sands has not run into any trouble violating DoD confidentiality protocols.",
+   "tier": 2
+  },
+  "c-a81511c283": {
+   "id": "c-a81511c283",
+   "kind": "claim",
+   "node": "hearing-2025-09-09",
+   "nodeLabel": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'",
+   "source": {
+    "domain": null,
+    "text": "Dylan Borland, written testimony, 9 September 2025",
+    "url": null
+   },
+   "text": "Borland filed complaints with AARO in March 2023 and with the Intelligence Community Inspector General in August 2023, and alleges more than a decade of retaliation including blacklisting and manipulation of security clearance records.",
+   "tier": 2
+  },
+  "c-ae7352ec1d": {
+   "id": "c-ae7352ec1d",
+   "kind": "claim",
+   "node": "lockheed-martin",
+   "nodeLabel": "Lockheed Martin Corporation",
+   "source": {
+    "domain": null,
+    "text": "AARO, Historical Record Report Volume I, March 2024",
+    "url": null
+   },
+   "text": "AARO's report describes Lockheed Martin's Advanced Development Programs organisation by name in its treatment of classified aeronautics mistaken for UAP, and separately states that executives and CTOs of the named companies denied the allegations to AARO's Director on the record.",
+   "tier": 1
+  },
+  "c-b036ccae82": {
+   "id": "c-b036ccae82",
+   "kind": "claim",
+   "node": "david-grusch",
+   "nodeLabel": "David Charles Grusch",
+   "source": {
+    "domain": null,
+    "text": "CHRG-118hhrg53022 CONTENTS; docs.house.gov EventID 116282",
+    "url": null
+   },
+   "text": "Listed in the printed hearing record of 26 July 2023 as 'Mr. David Grusch, Former National Reconnaissance Office Representative, Unidentified Aerial Phenomena Task Force, Department of Defense'; his written statement, Truth in Testimony form and bio are in the House Committee Repository under event 116282.",
+   "tier": 1
+  },
+  "c-b236dfa335": {
+   "id": "c-b236dfa335",
+   "kind": "claim",
+   "node": "michael-herrera",
+   "nodeLabel": "Michael Herrera",
+   "source": {
+    "domain": "documents2.theblackvault.com",
+    "text": "AARO Historical Record Report Volume I, p. 28, https://documents2.theblackvault.com/documents/dod/AARO_Historical_Record_Report_Volume_1_2024.pdf , 2024-02",
+    "url": "https://documents2.theblackvault.com/documents/dod/AARO_Historical_Record_Report_Volume_1_2024.pdf"
+   },
+   "text": "The same report states the anonymisation rule that is why the page 29 sentence names nobody: 'AARO generated random numbers and assigned one to each interviewee. AARO maintains the key, which is stored and handled in a secure manner to protect each interviewee's privacy.' It also gives the scale and the tiering: 'As of September 17, 2023, AARO interviewed approximately 30 individuals', with Tier 1 interviewees being 'those who have spoken with congressional staff or Members of Congress and have been subsequently referred to AARO'.",
+   "tier": 1
+  },
+  "c-b3e4e88a17": {
+   "id": "c-b3e4e88a17",
+   "kind": "claim",
+   "node": "michael-herrera",
+   "nodeLabel": "Michael Herrera",
+   "source": {
+    "domain": null,
+    "text": "Shawn Ryan Show #66 part 1, YouTube video id 3zm4nh3S66I, 2023-07-17, opened 2026-09-18",
+    "url": null
+   },
+   "text": "His own account is on the public record in a dated artefact: 'Michael Herrera - US Marine Encounters UFO Black Ops Human Trafficking Operation | SRS #66 (Part 1)', Shawn Ryan Show, premiered 17 July 2023, runtime 1:26:50. The channel's own description reads: 'Former Marine Michael Herrera tells all in part one of this three part series. Herrera and his team were tasked with responding to a major earthquake and tsunami in Indonesia providing overwatch and logistical support. Little did they know--they would come face to face with a UAP / UFO and be ambushed by an unmarked shadow unit of operators.' This is a man saying a thing on a dated recording, and nothing more.",
+   "tier": 2
+  },
+  "c-b686095509": {
+   "id": "c-b686095509",
+   "kind": "claim",
+   "node": "hearing-2025-09-09",
+   "nodeLabel": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'",
+   "source": {
+    "domain": "oversight.house.gov",
+    "text": "https://oversight.house.gov/release/hearing-wrap-up-government-must-be-more-transparent-about-uaps/",
+    "url": "https://oversight.house.gov/release/hearing-wrap-up-government-must-be-more-transparent-about-uaps/"
+   },
+   "text": "Knapp testified that 'Documents paint a much different picture than what the public, the press, and Congress have been told,' and alleged UAP materials have been moved to private contractors, complicating oversight and FOIA access.",
+   "tier": 2
+  },
+  "c-b7aa699203": {
+   "id": "c-b7aa699203",
+   "kind": "claim",
+   "node": "eric-burlison",
+   "nodeLabel": "Eric Burlison",
+   "source": {
+    "domain": "burlison.house.gov",
+    "text": "https://burlison.house.gov/media/press-releases/rep-eric-burlison-releases-statement-president-trumps-uap-nda-directive",
+    "url": "https://burlison.house.gov/media/press-releases/rep-eric-burlison-releases-statement-president-trumps-uap-nda-directive"
+   },
+   "text": "'if you are a current or former government employee or contractor interested in taking advantage of this directive, I am offering my office's assistance in contacting and getting your information to any agency.'",
+   "tier": 2
+  },
+  "c-bc6110fd55": {
+   "id": "c-bc6110fd55",
+   "kind": "claim",
+   "node": "alexandro-wiggins",
+   "nodeLabel": "Alexandro Wiggins",
+   "source": {
+    "domain": null,
+    "text": "CHRG-119hhrg61718 CONTENTS",
+    "url": null
+   },
+   "text": "Witness of record at the 9 September 2025 hearing: 'Chief Alexandro Wiggins, U.S. Navy'.",
+   "tier": 1
+  },
+  "c-c5655c2681": {
+   "id": "c-c5655c2681",
+   "kind": "claim",
+   "node": "dylan-borland",
+   "nodeLabel": "Dylan Borland",
+   "source": {
+    "domain": null,
+    "text": "GPO CHRG-119hhrg61718, 9 September 2025",
+    "url": null
+   },
+   "text": "Rep. Burlison asked him on the record whether 'BAASS Systems' was involved in any way with reverse engineering exploitation of non-human intelligence craft.",
+   "tier": 1
+  },
+  "c-c5e399264e": {
+   "id": "c-c5e399264e",
+   "kind": "claim",
+   "node": "dylan-borland",
+   "nodeLabel": "Dylan Borland",
+   "source": {
+    "domain": null,
+    "text": "CHRG-119hhrg61718 CONTENTS",
+    "url": null
+   },
+   "text": "Witness of record at the 9 September 2025 hearing: 'Mr. Dylan Borland, UAP Witness, U.S. Air Force Veteran'.",
+   "tier": 1
+  },
+  "c-d28a058e92": {
+   "id": "c-d28a058e92",
+   "kind": "claim",
+   "node": "david-grusch",
+   "nodeLabel": "David Charles Grusch",
+   "source": {
+    "domain": null,
+    "text": "House Oversight hearing transcript, 26 July 2023",
+    "url": null
+   },
+   "text": "Sworn, to Ranking Member Robert Garcia, on whether the government possesses UAP: 'Absolutely, based on interviewing over 40 witnesses over 4 years.' Added he knows the exact locations and provided them to the Inspector General and in part to the intelligence committees, and that he had the firsthand-knowledge people make their own protected disclosures.",
+   "tier": 1
+  },
+  "c-d4167ab663": {
+   "id": "c-d4167ab663",
+   "kind": "claim",
+   "node": "dylan-borland",
+   "nodeLabel": "Dylan Borland",
+   "source": {
+    "domain": null,
+    "text": "Sworn testimony, House Oversight Task Force on the Declassification of Federal Secrets, 9 September 2025; DefenseScoop",
+    "url": null
+   },
+   "text": "Borland testified that after reporting a 2012 UAP observation at Langley AFB his career was deliberately obstructed and he faced sustained workplace harassment.",
+   "tier": 2
+  },
+  "c-da031b7d10": {
+   "id": "c-da031b7d10",
+   "kind": "claim",
+   "node": "george-knapp",
+   "nodeLabel": "George Knapp",
+   "source": {
+    "domain": null,
+    "text": "CHRG-119hhrg61718, 9 September 2025",
+    "url": null
+   },
+   "text": "Asked by Rep. Burchett to name the corporations holding the material: 'Well, one of them is Lockheed... They have lied about this because that is what they are supposed to do. But Lockheed would be one. There is a list I can give you, Congressman.'",
+   "tier": 2
+  },
+  "c-e04c85dc04": {
+   "id": "c-e04c85dc04",
+   "kind": "claim",
+   "node": "karl-nell",
+   "nodeLabel": "Karl E. Nell",
+   "source": {
+    "domain": null,
+    "text": "Karl Nell to Leslie Kean and Ralph Blumenthal, The Debrief, 5 June 2023",
+    "url": null
+   },
+   "text": "'Beyond reproach' - Nell's on-record characterization of Grusch.",
+   "tier": 2
+  },
+  "c-e4b2370224": {
+   "id": "c-e4b2370224",
+   "kind": "claim",
+   "node": "jake-barber",
+   "nodeLabel": "Jake Barber",
+   "source": {
+    "domain": null,
+    "text": "American Alchemy with Jesse Michels, 'UFO Crash Retrieval: Jake Barber's FIRSTHAND Account', published 30 January 2025, at 0:54:51 to 0:55:41",
+    "url": null
+   },
+   "text": "In the same episode, between 0:54:51 and 0:55:41, Barber said that everything he was describing had been given to AARO and that it 'has been shared with Congress in a SCIF, in a top secret SCI environment, where I've given testimony'. He does not name the committee in this passage.",
+   "tier": 2
+  },
+  "c-e8ad81d814": {
+   "id": "c-e8ad81d814",
+   "kind": "claim",
+   "node": "jeffrey-nuccetelli",
+   "nodeLabel": "Jeffrey Nuccetelli",
+   "source": {
+    "domain": null,
+    "text": "CHRG-119hhrg61718 CONTENTS",
+    "url": null
+   },
+   "text": "Witness of record at the 9 September 2025 hearing: 'Mr. Jeffrey Nuccetelli, U.S. Air Force Veteran'.",
+   "tier": 1
+  },
+  "c-e9eeaa6e1d": {
+   "id": "c-e9eeaa6e1d",
+   "kind": "claim",
+   "node": "david-grusch",
+   "nodeLabel": "David Charles Grusch",
+   "source": {
+    "domain": null,
+    "text": "House Oversight hearing transcript HHRG-118-GO06-Transcript-20230726, opening statement",
+    "url": null
+   },
+   "text": "Sworn: 'I was informed in the course of my official duties of a multi-decade UAP crash retrieval and reverse engineering program to which I was denied access to those additional read-ons when I requested it.'",
+   "tier": 1
+  },
+  "c-ea62b8981e": {
+   "id": "c-ea62b8981e",
+   "kind": "claim",
+   "node": "hr-5060-uap-whistleblower-protection-act",
+   "nodeLabel": "H.R. 5060 - UAP Whistleblower Protection Act (119th Congress)",
+   "source": {
+    "domain": null,
+    "text": "CHRG-119hhrg61718, 9 September 2025",
+    "url": null
+   },
+   "text": "Burlison, on the record: the bill 'is language that will protect whistleblowers from any kind of reprisal, and yet it is again and again blocked by this body in some way. Many times, it is being blocked not by elected officials but by staff behind the scenes.'",
+   "tier": 1
+  },
+  "c-f1a5446073": {
+   "id": "c-f1a5446073",
+   "kind": "claim",
+   "node": "george-knapp",
+   "nodeLabel": "George Knapp",
+   "source": {
+    "domain": null,
+    "text": "George Knapp sworn statement, Task Force on the Declassification of Federal Secrets, 9 September 2025",
+    "url": null
+   },
+   "text": "'So many of the things that happen to witnesses like these are extra-legal. They are carried out by persons unknown, as Mr. Dave Grusch, sitting up at the top of the room, knows all too well, including events in recent days to - that have happened to him.'",
+   "tier": 1
+  },
+  "c-f473aae82f": {
+   "id": "c-f473aae82f",
+   "kind": "claim",
+   "node": "jeffrey-nuccetelli",
+   "nodeLabel": "Jeffrey Nuccetelli",
+   "source": {
+    "domain": null,
+    "text": "Nuccetelli written testimony, 9 September 2025",
+    "url": null
+   },
+   "text": "'Official Air Force records documenting it are now held by AARO and the FBI.'",
+   "tier": 2
+  },
+  "c-f937acab2d": {
+   "id": "c-f937acab2d",
+   "kind": "claim",
+   "node": "hearing-2025-09-09",
+   "nodeLabel": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'",
+   "source": {
+    "domain": null,
+    "text": "House Oversight, Hearing Wrap Up: Government Must Be More Transparent About UAPs, 9 September 2025",
+    "url": null
+   },
+   "text": "The committee's wrap-up found that witnesses face career damage and retaliation, that agencies withheld information, that UAP spending flows to private entities outside FOIA reach, and that personnel lack standardised reporting protocols.",
+   "tier": 1
+  },
+  "c-f95d9b580d": {
+   "id": "c-f95d9b580d",
+   "kind": "claim",
+   "node": "jason-sands",
+   "nodeLabel": "Jason Sands",
+   "source": {
+    "domain": "podcasts.happyscribe.com",
+    "text": "Transcript host page, https://podcasts.happyscribe.com/the-joe-rogan-experience/2264-lenval-logan-jason-sands , opened 2026-09-18",
+    "url": "https://podcasts.happyscribe.com/the-joe-rogan-experience/2264-lenval-logan-jason-sands"
+   },
+   "text": "On The Joe Rogan Experience #2264, appearing with Lenval Logan, Sands stated his service in his own words: 'I'm a retired master sergeant from the air Force. Worked 22 years, retired 2007. Started off as an airframe guy, ended up in intel.' A named man on a recording, self-reporting. The episode's publication date was not established from any page opened.",
+   "tier": 2
+  },
+  "c-fb1af2ba9a": {
+   "id": "c-fb1af2ba9a",
+   "kind": "claim",
+   "node": "hearing-2025-09-09",
+   "nodeLabel": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'",
+   "source": {
+    "domain": null,
+    "text": "CHRG-119hhrg61718, CONTENTS/WITNESSES page",
+    "url": null
+   },
+   "text": "Witness list of record: 'Mr. Jeffrey Nuccetelli, U.S. Air Force Veteran'; 'Chief Alexandro Wiggins, U.S. Navy'; 'Mr. George Knapp, UAP Journalist'; 'Mr. Dylan Borland, UAP Witness, U.S. Air Force Veteran'; 'Mr. Joe Spielberger (Minority Witness), Senior Policy Counsel, Project on Government Oversight'.",
+   "tier": 1
+  },
+  "c-fe7bf59747": {
+   "id": "c-fe7bf59747",
+   "kind": "claim",
+   "node": "michael-herrera",
+   "nodeLabel": "Michael Herrera",
+   "source": {
+    "domain": null,
+    "text": "stated inference from the committee witness lists and the Shawn Ryan Show description",
+    "url": null
+   },
+   "text": "The Shawn Ryan Show description's phrase 'how he is testifying to Congress' is not supported by any opened record. He has never been a hearing witness. Whether he was interviewed in a closed congressional setting is a separate question that has not been reached, and the promotional phrasing should not be read as establishing either.",
+   "tier": 3
+  },
+  "e-0e02943c78": {
+   "endpoints": [
+    {
+     "id": "george-knapp",
+     "label": "George Knapp"
+    },
+    {
+     "id": "david-grusch",
+     "label": "David Charles Grusch"
+    }
+   ],
+   "id": "e-0e02943c78",
+   "kind": "edge",
+   "label": "Sworn statement that extra-legal reprisal against Grusch was ongoing in September 2025",
+   "sources": [
+    {
+     "date": "2025-09-09",
+     "name": "Task Force hearing record, Serial No. 119-44",
+     "url": "https://www.congress.gov/119/chrg/CHRG-119hhrg61718/CHRG-119hhrg61718.pdf"
+    }
+   ],
+   "text": "From the witness table Knapp told the Task Force that such acts are carried out by persons unknown, 'as Mr. Dave Grusch, sitting up at the top of the room, knows all too well, including events in recent days to - that have happened to him.' No member asked what he meant and the record contains no follow-up.",
+   "tier": 1,
+   "type": "witness-chain"
+  },
+  "e-1ee4f3ee0c": {
+   "endpoints": [
+    {
+     "id": "george-knapp",
+     "label": "George Knapp"
+    },
+    {
+     "id": "glenn-gaffney",
+     "label": "Glenn Gaffney"
+    }
+   ],
+   "id": "e-1ee4f3ee0c",
+   "kind": "edge",
+   "label": "Knapp named a former senior CIA official as a gatekeeper of the alleged program",
+   "sources": [
+    {
+     "date": "2025-09-09",
+     "name": "House Oversight Task Force on the Declassification of Federal Secrets hearing transcript, 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection' (CHRG-119hhrg61718, Serial No. 119-44)",
+     "url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm"
+    }
+   ],
+   "text": "Immediately after naming Ryder, Knapp told Rep. Begich 'I have a name for you... Glenn Gaffney, CIA.' No documentary corroboration has been published.",
+   "tier": 2,
+   "type": "witness-chain"
+  },
+  "e-30c7b9de6c": {
+   "endpoints": [
+    {
+     "id": "david-grusch",
+     "label": "David Charles Grusch"
+    },
+    {
+     "id": "eric-burlison",
+     "label": "Eric Burlison"
+    }
+   ],
+   "id": "e-30c7b9de6c",
+   "kind": "edge",
+   "label": "Hired as senior adviser on UAP issues for a four-month term from March 2025",
+   "sources": [
+    {
+     "date": "2025-03-26",
+     "name": "The Hill: Congress continues to seek answers on UFOs (Grusch hired as Burlison senior adviser)",
+     "url": "https://thehill.com/homenews/house/5214211-david-grusch-eric-burlison-ufo-transparency/"
+    },
+    {
+     "date": "2025-03-27",
+     "name": "Rep. Burlison press release",
+     "url": "https://burlison.house.gov/media/press-releases/rep-burlison-welcomes-former-us-air-force-officer-david-grusch-special-advisor"
+    },
+    {
+     "date": "2026-08-12",
+     "name": "Rep. Eric Burlison press releases",
+     "url": "https://burlison.house.gov/media/press-releases"
+    }
+   ],
+   "text": "The first time the central whistleblower in this record has been formally embedded in the legislative branch, with an explicit brief on UAP transparency and service on the Task Force on the Declassification of Federal Secrets.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-35b29a1f09": {
+   "endpoints": [
+    {
+     "id": "michael-herrera",
+     "label": "Michael Herrera"
+    },
+    {
+     "id": "hearing-2025-09-09",
+     "label": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'"
+    }
+   ],
+   "id": "e-35b29a1f09",
+   "kind": "edge",
+   "label": "Written testimony moved into the record by a member; NOT a witness appearance",
+   "sources": [
+    {
+     "date": "2025-09-09",
+     "name": "Serial CHRG-119hhrg61718, printed record of 9 September 2025",
+     "url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm"
+    }
+   ],
+   "text": "HE IS NOT A WITNESS AT THIS HEARING AND THIS EDGE MUST NOT BE READ AS AN APPEARANCE. Rep. Eric Burlison moved a document about him into the record and the chair admitted it without objection. He is on no committee witness list for this or any other hearing.",
+   "tier": 1,
+   "type": "witness-chain"
+  },
+  "e-40af12a2c9": {
+   "endpoints": [
+    {
+     "id": "karl-nell",
+     "label": "Karl E. Nell"
+    },
+    {
+     "id": "uap-task-force",
+     "label": "Unidentified Aerial Phenomena Task Force (UAPTF)"
+    }
+   ],
+   "id": "e-40af12a2c9",
+   "kind": "edge",
+   "label": "Army liaison to the UAP Task Force, 2021-2022",
+   "sources": [
+    {
+     "date": "2023-06-05",
+     "name": "The Debrief",
+     "url": "https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/"
+    }
+   ],
+   "text": "Nell's Task Force role is what converts his corroboration from opinion into positional testimony: he sat inside the same organization Grusch reported to.",
+   "tier": 2,
+   "type": "institutional"
+  },
+  "e-4f414f3c23": {
+   "endpoints": [
+    {
+     "id": "jesse-michels",
+     "label": "Jesse Michels"
+    },
+    {
+     "id": "dylan-borland",
+     "label": "Dylan Borland"
+    }
+   ],
+   "id": "e-4f414f3c23",
+   "kind": "edge",
+   "label": "Michels ran a three-episode Borland sequence, August 2026",
+   "sources": [
+    {
+     "date": "2026-08-05",
+     "name": "American Alchemy - 'A Top Government Official Told Me Aliens Run Everything!' - Dylan Borland",
+     "url": "https://www.youtube.com/watch?v=K4gYHs84BIc"
+    }
+   ],
+   "text": "Published 5, 6 and 7 August 2026. Borland is a former USAF 1N1 geospatial intelligence specialist who describes witnessing a 100-to-150-foot black metallic triangle near the NASA hangar at Langley AFB in 2012; the episode chapters include 'ODNI and the leaked program name'.",
+   "tier": 2,
+   "type": "witness-chain"
+  },
+  "e-6216782e12": {
+   "endpoints": [
+    {
+     "id": "george-knapp",
+     "label": "George Knapp"
+    },
+    {
+     "id": "hearing-2025-09-09",
+     "label": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'"
+    }
+   ],
+   "id": "e-6216782e12",
+   "kind": "edge",
+   "label": "sworn witness",
+   "sources": [
+    {
+     "date": "2025-09-09",
+     "name": "CHRG-119hhrg61718, printed hearing transcript, 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection', Serial No. 119-44",
+     "url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/pdf/CHRG-119hhrg61718.pdf"
+    },
+    {
+     "date": "2025-09-09",
+     "name": "House Oversight - hearing page, 9 Sept 2025",
+     "url": "https://oversight.house.gov/hearing/restoring-public-trust-through-uap-transparency-and-whistleblower-protection/"
+    },
+    {
+     "date": "2025-09-09",
+     "name": "U.S. GPO, Hearing transcript, Serial No. 119-44 (CHRG-119hhrg61718)",
+     "url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm"
+    },
+    {
+     "date": "2025-09-09",
+     "name": "George Knapp, written testimony, House Oversight Task Force",
+     "url": "https://oversight.house.gov/wp-content/uploads/2025/09/George-Knapp-Written-Testimony.pdf"
+    },
+    {
+     "date": "2025-09-09",
+     "name": "Task Force hearing record, Serial No. 119-44",
+     "url": "https://www.congress.gov/119/chrg/CHRG-119hhrg61718/CHRG-119hhrg61718.pdf"
+    },
+    {
+     "date": "2025-09-09",
+     "name": "House Oversight - Hearing Wrap Up",
+     "url": "https://oversight.house.gov/release/hearing-wrap-up-government-must-be-more-transparent-about-uaps/"
+    }
+   ],
+   "text": "Knapp told the task force that documents paint a much different picture than the public, press and Congress have been told, and alleged UAP materials had been moved to private contractors.",
+   "tier": 1,
+   "type": "witness-chain"
+  },
+  "e-70724d5b89": {
+   "endpoints": [
+    {
+     "id": "george-knapp",
+     "label": "George Knapp"
+    },
+    {
+     "id": "hearing-2025-09-09",
+     "label": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'"
+    }
+   ],
+   "id": "e-70724d5b89",
+   "kind": "edge",
+   "label": "Knapp's testimony named the company, the executive and the intelligence official",
+   "sources": [
+    {
+     "date": "2025-09-09",
+     "name": "House Oversight Task Force on the Declassification of Federal Secrets hearing transcript, 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection' (CHRG-119hhrg61718, Serial No. 119-44)",
+     "url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm"
+    }
+   ],
+   "text": "The naming is sworn and specific; the underlying sourcing has not been published, which is why the claims are graded tier 2 rather than tier 1.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-76796003e4": {
+   "endpoints": [
+    {
+     "id": "george-knapp",
+     "label": "George Knapp"
+    },
+    {
+     "id": "lockheed-martin",
+     "label": "Lockheed Martin Corporation"
+    }
+   ],
+   "id": "e-76796003e4",
+   "kind": "edge",
+   "label": "Knapp named Lockheed Martin under oath as a corporate holder of recovered material",
+   "sources": [
+    {
+     "date": "2025-09-09",
+     "name": "House Oversight Task Force on the Declassification of Federal Secrets hearing transcript, 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection' (CHRG-119hhrg61718, Serial No. 119-44)",
+     "url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm"
+    }
+   ],
+   "text": "Asked by Rep. Burchett which corporations hold the material, Knapp answered 'Well, one of them is Lockheed... There is a list I can give you, Congressman.' He declined to characterise the company as culpable, attributing the tasking to the intelligence agencies.",
+   "tier": 2,
+   "type": "witness-chain"
+  },
+  "e-7c891cdbc8": {
+   "endpoints": [
+    {
+     "id": "eric-burlison",
+     "label": "Eric Burlison"
+    },
+    {
+     "id": "dylan-borland",
+     "label": "Dylan Borland"
+    }
+   ],
+   "id": "e-7c891cdbc8",
+   "kind": "edge",
+   "label": "Asked him on the record whether BAASS was involved in reverse-engineering exploitation of NHI craft",
+   "sources": [
+    {
+     "date": "2025-09-09",
+     "name": "U.S. GPO, Hearing transcript, Serial No. 119-44 (CHRG-119hhrg61718)",
+     "url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm"
+    }
+   ],
+   "text": "Ties the 2025 witness layer back to the AAWSAP/BAASS contracting layer.",
+   "tier": 1,
+   "type": "investigative"
+  },
+  "e-86199651c0": {
+   "endpoints": [
+    {
+     "id": "michael-herrera",
+     "label": "Michael Herrera"
+    },
+    {
+     "id": "steven-greer",
+     "label": "Steven M. Greer"
+    }
+   ],
+   "id": "e-86199651c0",
+   "kind": "edge",
+   "label": "Named on the record as the custodian who supplied the written testimony",
+   "sources": [
+    {
+     "date": "2025-09-09",
+     "name": "Serial CHRG-119hhrg61718, printed record of 9 September 2025",
+     "url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm"
+    }
+   ],
+   "text": "Custody of the DOCUMENT, not of material. Burlison said on the record that the testimony 'was given to me by Dr. Steven Greer'.",
+   "tier": 1,
+   "type": "custody"
+  },
+  "e-889bb3d97c": {
+   "endpoints": [
+    {
+     "id": "david-grusch",
+     "label": "David Charles Grusch"
+    },
+    {
+     "id": "hearing-2025-09-09",
+     "label": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'"
+    }
+   ],
+   "id": "e-889bb3d97c",
+   "kind": "edge",
+   "label": "Present in the room as reprisal against him is entered into the record",
+   "sources": [
+    {
+     "date": "2025-09-09",
+     "name": "Task Force hearing record, Serial No. 119-44",
+     "url": "https://www.congress.gov/119/chrg/CHRG-119hhrg61718/CHRG-119hhrg61718.pdf"
+    }
+   ],
+   "text": "Grusch did not testify but attended; Knapp referenced him directly from the witness table, Crane entered the reprisal letter, and Mace described the medical-records leak. The hearing is the reprisal file's official home.",
+   "tier": 1,
+   "type": "temporal"
+  },
+  "e-9e3a287af3": {
+   "endpoints": [
+    {
+     "id": "sol-foundation",
+     "label": "The Sol Foundation"
+    },
+    {
+     "id": "jake-barber",
+     "label": "Jake Barber"
+    }
+   ],
+   "id": "e-9e3a287af3",
+   "kind": "edge",
+   "label": "Barber spoke at the 2025 Sol Foundation Symposium",
+   "sources": [
+    {
+     "date": "2025-10-24",
+     "name": "The Sol Foundation - 2025 Symposium",
+     "url": "https://thesolfoundation.org/events/the-2025-sol-foundation-symposium/"
+    }
+   ],
+   "text": "A whistleblower first platformed by an independent YouTube channel in January 2025 appears on a symposium programme alongside Karl Nell, Jacques Vallee and a retired French general nine months later. The pipeline from independent media to institutional legitimation is short and documented.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-a7c48378e4": {
+   "endpoints": [
+    {
+     "id": "michael-herrera",
+     "label": "Michael Herrera"
+    },
+    {
+     "id": "eric-burlison",
+     "label": "Eric Burlison"
+    }
+   ],
+   "id": "e-a7c48378e4",
+   "kind": "edge",
+   "label": "The member who moved his written testimony into the hearing record",
+   "sources": [
+    {
+     "date": "2025-09-09",
+     "name": "Serial CHRG-119hhrg61718, printed record of 9 September 2025",
+     "url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm"
+    }
+   ],
+   "text": "Burlison is the member who made the motion on 9 September 2025, naming Herrera among several individuals whose testimony he entered.",
+   "tier": 1,
+   "type": "witness-chain"
+  },
+  "e-ad78872750": {
+   "endpoints": [
+    {
+     "id": "jesse-michels",
+     "label": "Jesse Michels"
+    },
+    {
+     "id": "jake-barber",
+     "label": "Jake Barber"
+    }
+   ],
+   "id": "e-ad78872750",
+   "kind": "edge",
+   "label": "Michels published Barber's crash-retrieval account",
+   "sources": [
+    {
+     "date": "2025-01-30",
+     "name": "American Alchemy - Jake Barber interview",
+     "url": "https://www.youtube.com/watch?v=dnnpyNuPdXs"
+    },
+    {
+     "date": "2025-10-24",
+     "name": "The Sol Foundation - 2025 Symposium",
+     "url": "https://thesolfoundation.org/events/the-2025-sol-foundation-symposium/"
+    }
+   ],
+   "text": "Published 30 January 2025 to 1,010,989 views; Barber, a former intelligence officer, described helicopter-borne retrieval. Barber subsequently spoke at the 2025 Sol Foundation Symposium, moving from independent media into the institutional wing.",
+   "tier": 2,
+   "type": "witness-chain"
+  },
+  "e-aeedb1f378": {
+   "endpoints": [
+    {
+     "id": "dylan-borland",
+     "label": "Dylan Borland"
+    },
+    {
+     "id": "hearing-2025-09-09",
+     "label": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'"
+    }
+   ],
+   "id": "e-aeedb1f378",
+   "kind": "edge",
+   "label": "sworn witness",
+   "sources": [
+    {
+     "date": "2025-09-09",
+     "name": "CHRG-119hhrg61718, printed hearing transcript, 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection', Serial No. 119-44",
+     "url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/pdf/CHRG-119hhrg61718.pdf"
+    },
+    {
+     "date": "2025-09-09",
+     "name": "House Oversight - hearing page, 9 Sept 2025",
+     "url": "https://oversight.house.gov/hearing/restoring-public-trust-through-uap-transparency-and-whistleblower-protection/"
+    },
+    {
+     "date": "2025-09-09",
+     "name": "U.S. GPO, Hearing transcript, Serial No. 119-44 (CHRG-119hhrg61718)",
+     "url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm"
+    },
+    {
+     "date": "2025-09-09",
+     "name": "Dylan Borland, written testimony, House Oversight Task Force",
+     "url": "https://oversight.house.gov/wp-content/uploads/2025/09/Borland-Written-Testimony.pdf"
+    },
+    {
+     "date": "2025-09-09",
+     "name": "The Hill: Moskowitz accuses the US government of lying about UAP",
+     "url": "https://thehill.com/homenews/house/5494075-moskowitz-demands-uap-transparency/"
+    },
+    {
+     "date": "2025-09-09",
+     "name": "DefenseScoop - Military whistleblowers share new evidence of alleged UAP",
+     "url": "https://defensescoop.com/2025/09/09/military-whistleblowers-share-new-evidence-alleged-uap-ufo-hearing/"
+    }
+   ],
+   "text": "Borland alleges blacklisting and clearance-record manipulation and states he filed complaints with AARO in March 2023 and the ICIG in August 2023.",
+   "tier": 1,
+   "type": "witness-chain"
+  },
+  "e-bc1244598a": {
+   "endpoints": [
+    {
+     "id": "sol-foundation",
+     "label": "The Sol Foundation"
+    },
+    {
+     "id": "dylan-borland",
+     "label": "Dylan Borland"
+    }
+   ],
+   "id": "e-bc1244598a",
+   "kind": "edge",
+   "label": "Borland spoke at the 2025 Sol Foundation Symposium",
+   "sources": [
+    {
+     "date": "2025-10-24",
+     "name": "The Sol Foundation - 2025 Symposium",
+     "url": "https://thesolfoundation.org/events/the-2025-sol-foundation-symposium/"
+    },
+    {
+     "date": "2026-08-05",
+     "name": "American Alchemy - Dylan Borland",
+     "url": "https://www.youtube.com/watch?v=K4gYHs84BIc"
+    }
+   ],
+   "text": "Same pipeline: Borland, a former USAF 1N1 geospatial intelligence specialist, appears on the 2025 symposium programme and is subsequently given a three-episode run on American Alchemy in August 2026.",
+   "tier": 2,
+   "type": "institutional"
+  },
+  "e-c0c55b6865": {
+   "endpoints": [
+    {
+     "id": "george-knapp",
+     "label": "George Knapp"
+    },
+    {
+     "id": "james-ryder",
+     "label": "Dr. James Ryder"
+    }
+   ],
+   "id": "e-c0c55b6865",
+   "kind": "edge",
+   "label": "Knapp named Ryder to Congress as a program gatekeeper at Lockheed",
+   "sources": [
+    {
+     "date": "2025-09-09",
+     "name": "House Oversight Task Force on the Declassification of Federal Secrets hearing transcript, 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection' (CHRG-119hhrg61718, Serial No. 119-44)",
+     "url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm"
+    }
+   ],
+   "text": "Asked by Rep. Nick Begich to name specific gatekeepers, Knapp answered 'Well, one of them was named Dr. James Ryder at Lockheed.' This is the only naming of a private individual inside a prime contractor in any congressional UAP record.",
+   "tier": 2,
+   "type": "witness-chain"
+  },
+  "e-c49d93a157": {
+   "endpoints": [
+    {
+     "id": "david-grusch",
+     "label": "David Charles Grusch"
+    },
+    {
+     "id": "uap-task-force",
+     "label": "Unidentified Aerial Phenomena Task Force (UAPTF)"
+    }
+   ],
+   "id": "e-c49d93a157",
+   "kind": "edge",
+   "label": "NRO representative to the UAP Task Force, 2019-2021",
+   "sources": [
+    {
+     "date": "2023-07-26",
+     "name": "House Oversight hearing transcript, Serial No. 118-53",
+     "url": "https://www.congress.gov/118/meeting/house/116282/documents/HHRG-118-GO06-Transcript-20230726.pdf"
+    }
+   ],
+   "text": "Grusch swore he was a member of the UAP Task Force from 2019 to 2021 in his Air Force NRO reservist capacity; his published biography and The Debrief both record the same billet. This is the seat from which he was tasked to inventory SAPs and CAPs.",
+   "tier": 1,
+   "type": "programmatic"
+  },
+  "e-e387aa66ec": {
+   "endpoints": [
+    {
+     "id": "james-ryder",
+     "label": "Dr. James Ryder"
+    },
+    {
+     "id": "lockheed-martin",
+     "label": "Lockheed Martin Corporation"
+    }
+   ],
+   "id": "e-e387aa66ec",
+   "kind": "edge",
+   "label": "Ryder is identified in sworn testimony as a Lockheed Martin figure",
+   "sources": [
+    {
+     "date": "2025-09-09",
+     "name": "House Oversight Task Force on the Declassification of Federal Secrets hearing transcript, 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection' (CHRG-119hhrg61718, Serial No. 119-44)",
+     "url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm"
+    }
+   ],
+   "text": "The only public source for the association is Knapp's sworn testimony; no corporate record confirming Ryder's role, dates or portfolio has been located, and neither Ryder nor Lockheed Martin has publicly responded.",
+   "tier": 2,
+   "type": "institutional"
+  },
+  "e-e399ff9ed0": {
+   "endpoints": [
+    {
+     "id": "jeffrey-nuccetelli",
+     "label": "Jeffrey Nuccetelli"
+    },
+    {
+     "id": "hearing-2025-09-09",
+     "label": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'"
+    }
+   ],
+   "id": "e-e399ff9ed0",
+   "kind": "edge",
+   "label": "sworn witness",
+   "sources": [
+    {
+     "date": "2025-09-09",
+     "name": "CHRG-119hhrg61718, printed hearing transcript, 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection', Serial No. 119-44",
+     "url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/pdf/CHRG-119hhrg61718.pdf"
+    },
+    {
+     "date": "2025-09-09",
+     "name": "House Oversight - hearing page, 9 Sept 2025",
+     "url": "https://oversight.house.gov/hearing/restoring-public-trust-through-uap-transparency-and-whistleblower-protection/"
+    },
+    {
+     "date": "2025-09-09",
+     "name": "House Oversight - Nuccetelli written testimony (PDF)",
+     "url": "https://oversight.house.gov/wp-content/uploads/2025/09/Nuccetelli-Written-Testimony.pdf"
+    },
+    {
+     "date": "2025-09-09",
+     "name": "U.S. GPO, Hearing transcript, Serial No. 119-44 (CHRG-119hhrg61718)",
+     "url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm"
+    },
+    {
+     "date": "2025-09-09",
+     "name": "DefenseScoop - Military whistleblowers share new evidence of alleged UAP",
+     "url": "https://defensescoop.com/2025/09/09/military-whistleblowers-share-new-evidence-alleged-uap-ufo-hearing/"
+    }
+   ],
+   "text": "Nuccetelli described 2003-2005 incursions at Vandenberg AFB during NRO launches and asserted each was documented and reported up the chain.",
+   "tier": 1,
+   "type": "witness-chain"
+  },
+  "e-f85b013e3f": {
+   "endpoints": [
+    {
+     "id": "karl-nell",
+     "label": "Karl E. Nell"
+    },
+    {
+     "id": "david-grusch",
+     "label": "David Charles Grusch"
+    }
+   ],
+   "id": "e-f85b013e3f",
+   "kind": "edge",
+   "label": "On-record corroboration: 'beyond reproach' and the arms race is 'fundamentally correct'",
+   "sources": [
+    {
+     "date": "2023-06-05",
+     "name": "The Debrief",
+     "url": "https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/"
+    },
+    {
+     "date": "2024-05-27",
+     "name": "A Very Exciting Time - Karl Nell at SALT",
+     "url": "https://veryexcitingtime.com/episodes/2024/45-nell-salt/"
+    }
+   ],
+   "text": "A named retired Army colonel who served as the Army's UAP Task Force liaison affirmed both Grusch's character and the substance of the eighty-year reverse-engineering allegation, in print, on the record, on 5 June 2023. AARO has never addressed this statement by name.",
+   "tier": 2,
+   "type": "witness-chain"
+  },
+  "e-fbe842e2a5": {
+   "endpoints": [
+    {
+     "id": "sol-foundation",
+     "label": "The Sol Foundation"
+    },
+    {
+     "id": "karl-nell",
+     "label": "Karl E. Nell"
+    }
+   ],
+   "id": "e-fbe842e2a5",
+   "kind": "edge",
+   "label": "Nell published 'The UFO Enigma: A Call for US Government Disclosure' through Sol in May 2025",
+   "sources": [
+    {
+     "date": "2026-08-12",
+     "name": "The Sol Foundation - White Papers and Policy Briefings index",
+     "url": "https://thesolfoundation.org/white-papers/"
+    }
+   ],
+   "text": "The foundation's white-paper series is the venue through which former programme-adjacent officials put structured disclosure arguments into the public record under their own names.",
+   "tier": 1,
+   "type": "institutional"
+  }
+ },
+ "claimed": [
+  {
+   "cite": [
+    "c-8f97703118",
+    "c-487eb621f8",
+    "c-d4167ab663",
+    "c-a81511c283"
+   ],
+   "text": "Borland testified that in 2012, at the base where he worked, he saw a 100-foot equilateral triangle of what he called fluid material take off, and that after reporting it his career was deliberately obstructed and he endured more than a decade of reprisals. He says he complained to AARO in March 2023 and to the Intelligence Community Inspector General in August 2023."
+  },
+  {
+   "cite": [
+    "c-22416ff2ca",
+    "c-4828537919",
+    "e-4f414f3c23"
+   ],
+   "text": "After the hearing, Borland told Jesse Michels that AARO had sent ODNI an uncorrected record of his interview although it had accepted his corrections, and argued that his account coming back unclassified is itself evidence about what he saw; the board records the second point as his argument only. Michels ran a three-episode sequence with him in August 2026."
+  },
+  {
+   "cite": [
+    "c-9227fd28a3",
+    "c-70f64fef92",
+    "c-986e9668cc",
+    "c-07950a178f",
+    "c-f473aae82f"
+   ],
+   "text": "Nuccetelli testified that between 2003 and 2005, during NRO launches at Vandenberg, objects like flying buildings pulsed and moved strangely; that on 14 October 2003 Boeing contractors reported a glowing red square hovering over two missile defence sites; that each incident was documented and reported up the chain; that one witness was threatened into silence; and that Air Force records of it are held by AARO and the FBI."
+  },
+  {
+   "cite": [
+    "c-b686095509",
+    "c-da031b7d10",
+    "c-2404414528",
+    "c-5b50718005",
+    "e-76796003e4",
+    "e-c0c55b6865",
+    "e-1ee4f3ee0c"
+   ],
+   "text": "Knapp testified that documents tell a different story from what the public and Congress have been told and that the material had been moved to private contractors. Asked which corporations hold it, he named Lockheed and offered a list; asked for gatekeepers, he named Dr. James Ryder at Lockheed and Glenn Gaffney of the CIA. He also said he had confirmed that Robert Bigelow negotiated with Lockheed executives to receive unusual material held in California."
+  },
+  {
+   "cite": [
+    "c-e9eeaa6e1d",
+    "c-d28a058e92"
+   ],
+   "text": "Grusch testified under oath in 2023 that he was informed in the course of his duties of a multi-decade crash retrieval and reverse engineering programme and denied read-on, that he based his claims on interviewing over 40 witnesses over four years, and that he had people with first-hand knowledge make their own protected disclosures to the Inspector General."
+  },
+  {
+   "cite": [
+    "e-ad78872750",
+    "e-9e3a287af3",
+    "c-968a99a47e",
+    "c-e4b2370224",
+    "c-3ddb0bb503",
+    "c-660ea60885"
+   ],
+   "text": "How Barber reached the record: Michels published his helicopter-retrieval account in January 2025, and he then spoke at the Sol Foundation symposium. He says his account was given to AARO and shared with Congress in a closed setting without naming the committee, that he worked under a cover contract through the Bureau of Indian Affairs, and that he and colleagues submitted a ghost-written historical novel to prepublication review in pieces to probe who controls which information."
+  },
+  {
+   "cite": [
+    "e-f85b013e3f",
+    "c-e04c85dc04",
+    "c-0903921692",
+    "c-5b18a9c6bd",
+    "e-40af12a2c9"
+   ],
+   "text": "Karl Nell, the Army's liaison to the UAP Task Force, said on the record in June 2023 that Grusch is beyond reproach and that his account of an eighty-year reverse-engineering arms race is fundamentally correct, and has said that non-human intelligence exists and has been interacting with humanity."
+  },
+  {
+   "cite": [
+    "c-f95d9b580d",
+    "c-238e863171",
+    "c-9e6433d88f"
+   ],
+   "text": "Jason Sands describes himself on a podcast as a retired Air Force master sergeant with 22 years' service; the sceptic Brian Dunning gives the same rank and length of service independently, which the board treats as weak convergence on the service claim only."
+  },
+  {
+   "cite": [
+    "c-b3e4e88a17",
+    "c-219874836b",
+    "c-6a6c839abd"
+   ],
+   "text": "Herrera's own account is on a dated podcast recording of July 2023; the board infers, without any record making the link, that he is the anonymous interviewee AARO summarises on page 29 of its historical report."
+  },
+  {
+   "cite": [
+    "c-b7aa699203",
+    "c-9e907dd7f1",
+    "c-2fb19b9899",
+    "c-6af94511e8"
+   ],
+   "text": "Burlison has offered his office's help to current and former employees and contractors who want to come forward, and recommends that they ask for a member of Congress to be present as well as an attorney; he names Gaffney as the first person he would want to question in a closed setting. Eric Davis, who says he had no direct interaction with Gaffney, has described him as very antagonistic to an aerospace firm's proposed release of crash-retrieval materials."
+  },
+  {
+   "cite": [
+    "c-72c2113480",
+    "c-f937acab2d"
+   ],
+   "text": "The committee's published hearing wrap-up, summarising the testimony, asserts that agencies withheld information, that witnesses face retaliation, that UAP spending flows to private entities outside the reach of FOIA, and that personnel lack standardised reporting protocols."
+  }
+ ],
+ "contested": [
+  {
+   "cite": [
+    "e-35b29a1f09",
+    "c-fe7bf59747"
+   ],
+   "text": "The Herrera edge is not a witness appearance, and promotional claims that he is testifying to Congress are unsupported; he has never been a hearing witness."
+  },
+  {
+   "cite": [
+    "c-6b452defaa",
+    "c-9ee51f8d27"
+   ],
+   "text": "Sands's two most repeated credentials, an appearance in the documentary The Program and testimony to Congress, the ICIG or AARO, are established by no opened record, and no witness list names him. Dunning itemises claims by Sands that he rejects, including that the Wilson-Davis memo is genuine, and says Sands first claimed and then contradicted involvement with the Navy's UAP Task Force."
+  },
+  {
+   "cite": [
+    "e-70724d5b89",
+    "e-e387aa66ec",
+    "c-ae7352ec1d"
+   ],
+   "text": "Knapp's naming is sworn and specific but its sourcing has not been published; no corporate record confirms Ryder's role at Lockheed, and neither Ryder nor Lockheed has responded. AARO's report says executives and chief technology officers of the named companies denied the allegations to its Director."
+  },
+  {
+   "cite": [
+    "c-6ff0911b65"
+   ],
+   "text": "AARO records an unnamed interviewee's claim that a former senior CIA official quashed the proposal to move the material from the corporation; AARO does not name the official, and whether that official is Gaffney is not established."
+  },
+  {
+   "cite": [
+    "c-3b643d967c",
+    "c-55e352d752",
+    "c-2ca2b4bf41"
+   ],
+   "text": "The official response to Grusch runs the other way: the Department said in June 2023 that AARO had not discovered any verifiable information substantiating a possession or reverse-engineering programme; AARO records at least eight approaches to Grusch and concluded he had no intention of providing information; and Rep. Grothman later said that no agency had been able to substantiate Grusch's claims."
+  },
+  {
+   "cite": [
+    "e-9e3a287af3",
+    "e-bc1244598a"
+   ],
+   "text": "On the board's reading, the path from independent media to a private foundation's platform is short and documented: Barber went from a YouTube channel in January 2025 to the Sol symposium nine months later, and Borland from the symposium to a three-episode podcast run."
+  }
+ ],
+ "essays": [],
+ "focusEra": "3",
+ "id": "congressional-witnesses",
+ "kind": "saga",
+ "lead": {
+  "cite": [
+   "c-b036ccae82",
+   "c-e9eeaa6e1d",
+   "c-fb1af2ba9a",
+   "e-aeedb1f378",
+   "e-e399ff9ed0",
+   "e-6216782e12",
+   "e-35b29a1f09",
+   "c-62c7f116b4"
+  ],
+  "text": "Since David Grusch's sworn testimony in July 2023, witnesses have taken UAP accounts to Congress by different routes: some sworn at open hearings, like Dylan Borland, Jeffrey Nuccetelli and George Knapp on 9 September 2025, and some only on paper, like Michael Herrera, whose written testimony, supplied by Steven Greer, a member entered into the record without his appearing."
+ },
+ "members": [
+  {
+   "cls": "event",
+   "id": "hearing-2025-09-09",
+   "label": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'",
+   "role": "event"
+  },
+  {
+   "cls": "person",
+   "id": "dylan-borland",
+   "label": "Dylan Borland",
+   "role": "witness"
+  },
+  {
+   "cls": "person",
+   "id": "jeffrey-nuccetelli",
+   "label": "Jeffrey Nuccetelli",
+   "role": "witness"
+  },
+  {
+   "cls": "person",
+   "id": "alexandro-wiggins",
+   "label": "Alexandro Wiggins",
+   "role": "witness"
+  },
+  {
+   "cls": "person",
+   "id": "george-knapp",
+   "label": "George Knapp",
+   "role": "journalist"
+  },
+  {
+   "cls": "person",
+   "id": "michael-herrera",
+   "label": "Michael Herrera",
+   "role": "witness"
+  },
+  {
+   "cls": "person",
+   "id": "jake-barber",
+   "label": "Jake Barber",
+   "role": "witness"
+  },
+  {
+   "cls": "person",
+   "id": "jason-sands",
+   "label": "Jason Sands",
+   "role": "claimant"
+  },
+  {
+   "cls": "person",
+   "id": "karl-nell",
+   "label": "Karl E. Nell",
+   "role": "claimant"
+  },
+  {
+   "cls": "person",
+   "id": "david-grusch",
+   "label": "David Charles Grusch",
+   "role": "claimant"
+  },
+  {
+   "cls": "person",
+   "id": "glenn-gaffney",
+   "label": "Glenn Gaffney",
+   "role": "official"
+  },
+  {
+   "cls": "person",
+   "id": "james-ryder",
+   "label": "Dr. James Ryder",
+   "role": "contractor"
+  },
+  {
+   "cls": "institution",
+   "id": "lockheed-martin",
+   "label": "Lockheed Martin Corporation",
+   "role": "contractor"
+  },
+  {
+   "cls": "person",
+   "id": "eric-burlison",
+   "label": "Eric Burlison",
+   "role": "legislator"
+  },
+  {
+   "cls": "person",
+   "id": "glenn-grothman",
+   "label": "Glenn S. Grothman",
+   "role": "legislator"
+  },
+  {
+   "cls": "legislation",
+   "id": "hr-5060-uap-whistleblower-protection-act",
+   "label": "H.R. 5060 - UAP Whistleblower Protection Act (119th Congress)",
+   "role": "law"
+  },
+  {
+   "cls": "person",
+   "id": "steven-greer",
+   "label": "Steven M. Greer",
+   "role": "investigator"
+  },
+  {
+   "cls": "person",
+   "id": "jesse-michels",
+   "label": "Jesse Michels",
+   "role": "journalist"
+  },
+  {
+   "cls": "institution",
+   "id": "sol-foundation",
+   "label": "The Sol Foundation",
+   "role": "institution"
+  },
+  {
+   "cls": "program",
+   "id": "uap-task-force",
+   "label": "Unidentified Aerial Phenomena Task Force (UAPTF)",
+   "role": "programme"
+  }
+ ],
+ "notes": "Stewart's 18 September scope ruling. jason-sands has no edge and must stop being an island. Each witness's route to Congress is recorded, and michael-herrera's edge to the 2025 hearing is not a witness appearance.",
+ "questions": [
+  "Does AARO hold the Vandenberg security forces records Nuccetelli says it holds, and was his account ever logged in its case holdings?",
+  "Which committee, if any, heard Jake Barber in a closed setting, and when?",
+  "What is Dr. James Ryder's role at Lockheed Martin, and what list did Knapp offer to give Congress?",
+  "What were the events in recent days against Grusch that Knapp referred to from the witness table?",
+  "Did Borland's complaints to AARO and the ICIG produce any finding, and what are his unit and dates of service?",
+  "Has Jason Sands given testimony to Congress, the ICIG or AARO, and does he appear in the documentary he is said to appear in?",
+  "Were Herrera or any of the others whose testimonies were entered by Burlison ever interviewed in a closed congressional setting?",
+  "Have any of the roughly 40 witnesses Grusch says he interviewed been heard by any committee?",
+  "George Knapp worked as a consultant to BAASS, the contractor at the centre of the Lockheed transfer he describes: how far does his reporting of that episode rest on what he learned in that role?"
+ ],
+ "record": [
+  {
+   "cite": [
+    "c-0bf7a2bfaf",
+    "c-fb1af2ba9a",
+    "c-68029c0e89",
+    "c-bc6110fd55"
+   ],
+   "text": "The printed record of the 9 September 2025 hearing, Serial No. 119-44, lists as witnesses Jeffrey Nuccetelli, U.S. Air Force veteran; Chief Alexandro Wiggins, U.S. Navy; George Knapp, UAP journalist; Dylan Borland, UAP witness and Air Force veteran; and Joe Spielberger of the Project on Government Oversight as the minority witness."
+  },
+  {
+   "cite": [
+    "c-c5e399264e",
+    "c-04a427edb1",
+    "e-aeedb1f378",
+    "c-e8ad81d814",
+    "c-10f54f333d",
+    "e-e399ff9ed0",
+    "c-67ffb4cf08",
+    "e-6216782e12"
+   ],
+   "text": "Borland, Nuccetelli and Knapp appear as sworn witnesses, and Borland and Nuccetelli filed written testimony with the Task Force."
+  },
+  {
+   "cite": [
+    "c-62c7f116b4",
+    "c-34e28a9688",
+    "e-35b29a1f09",
+    "e-a7c48378e4",
+    "e-86199651c0"
+   ],
+   "text": "Herrera is not a witness at that hearing. The record shows Rep. Eric Burlison entering testimonies he said Greer had given him, Herrera's among them, admitted without objection; Herrera is on no committee witness list, and his name appears once across the three hearing records."
+  },
+  {
+   "cite": [
+    "c-c5655c2681",
+    "e-7c891cdbc8",
+    "c-0bea1751ec"
+   ],
+   "text": "Burlison asked Borland on the record whether BAASS Systems was involved in reverse engineering exploitation of non-human intelligence craft; Borland testified that before Grusch and the disclosure process, suppression of witnesses was probably extremely widespread."
+  },
+  {
+   "cite": [
+    "c-128ede6611",
+    "c-7a6543a6cf",
+    "e-889bb3d97c",
+    "c-f1a5446073",
+    "e-0e02943c78"
+   ],
+   "text": "The same record's index lists a letter to the Secretary of Defense regarding reprisal against Grusch, submitted by Rep. Crane. Grusch attended but did not testify, and Knapp said from the witness table that extra-legal acts against witnesses are carried out by persons unknown, as Grusch knew, including events in recent days; no member asked what he meant."
+  },
+  {
+   "cite": [
+    "c-8ca1eeb6a8",
+    "c-69b007ddee",
+    "c-ea62b8981e"
+   ],
+   "text": "H.R. 5060, the UAP Whistleblower Protection Act, was introduced on 29 August 2025 by Rep. Tim Burchett with Reps. Luna and Crane, and referred to Oversight, Armed Services and Intelligence; Burlison said on the record that such language is blocked again and again, often by staff rather than elected officials."
+  },
+  {
+   "cite": [
+    "c-b036ccae82",
+    "c-05d019fba4",
+    "e-c49d93a157",
+    "c-6d2a16c423",
+    "e-30c7b9de6c"
+   ],
+   "text": "The July 2023 hearing record lists Grusch as a former NRO representative to the UAP Task Force; his public statements had been cleared for open publication by DoD prepublication review in April 2023; and Burlison named him Special Advisor to his office on 27 March 2025."
+  },
+  {
+   "cite": [
+    "c-b236dfa335"
+   ],
+   "text": "AARO's historical report says it had interviewed about 30 people by 17 September 2023, and that its Tier 1 interviewees are those who spoke with congressional staff or Members and were then referred to AARO."
+  },
+  {
+   "cite": [
+    "c-5116693ded",
+    "e-9e3a287af3",
+    "c-871cb898a7",
+    "e-fbe842e2a5"
+   ],
+   "text": "The Sol Foundation's 2025 symposium, held 24 to 27 October 2025, listed Karl Nell, Jake Barber, Dylan Borland and Jeff Nuccetelli among its speakers, and the foundation published Nell's paper calling for government disclosure in May 2025."
+  }
+ ],
+ "related": [
+  "hearing-2023",
+  "hearing-2024",
+  "task-force-2025",
+  "grusch-allegations",
+  "whistleblower-channels",
+  "testimony-provenance",
+  "named-contractors",
+  "military-encounters-2019",
+  "disclosure-project-2001",
+  "aaro-historical-record"
+ ],
+ "section": "encounters-witnesses",
+ "span": {
+  "from": "2023",
+  "to": "2026"
+ },
+ "status": "verified",
+ "summary": [
+  {
+   "cite": [
+    "c-0bf7a2bfaf",
+    "c-fb1af2ba9a",
+    "e-70724d5b89",
+    "c-62c7f116b4"
+   ],
+   "text": "The 9 September 2025 hearing of the House Oversight Task Force on the Declassification of Federal Secrets is the centre of the topic: its sworn witnesses described encounters and reprisals, one named a contractor and two people as gatekeepers, and a member entered further testimonies supplied by Steven Greer."
+  },
+  {
+   "cite": [
+    "c-c5e399264e",
+    "c-04a427edb1",
+    "e-70724d5b89"
+   ],
+   "text": "What the record corroborates differs witness by witness: a hearing record fixes that a person testified and when; for what they described, the board mostly has their own word, with the documents they cite unreleased."
+  },
+  {
+   "cite": [
+    "c-66d33c8d87",
+    "c-d28a058e92",
+    "c-b236dfa335",
+    "e-9e3a287af3",
+    "e-bc1244598a"
+   ],
+   "text": "The routes to Congress are part of the story: Grusch went through inspectors general before testifying, AARO counts as its top tier those interviewees who spoke to Congress first and were referred on, and several witnesses moved between independent media and a private foundation's platform."
+  },
+  {
+   "cite": [
+    "c-6b452defaa",
+    "c-e4b2370224"
+   ],
+   "text": "Some names in this topic are claimed witnesses whose appearance before Congress no record establishes, such as Jason Sands, and Jake Barber, who says he gave testimony in a closed setting to a committee he does not name."
+  }
+ ],
+ "title": "Witnesses who have gone to Congress, and what the record corroborates"
+}

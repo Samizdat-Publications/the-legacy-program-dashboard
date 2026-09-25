@@ -1,0 +1,461 @@
+{
+ "absorbs": [],
+ "anchors": [
+  "missing-scientists-probe-2026"
+ ],
+ "appendixT": "missing-scientists",
+ "cites": {
+  "c-47b9bd6576": {
+   "id": "c-47b9bd6576",
+   "kind": "claim",
+   "node": "william-mccasland",
+   "nodeLabel": "William Neil McCasland",
+   "source": {
+    "domain": "www.af.mil",
+    "text": "USAF official biography, Maj. Gen. William N. McCasland https://www.af.mil/About-Us/Biographies/Display/article/104776/major-general-william-n-mccasland/",
+    "url": "https://www.af.mil/About-Us/Biographies/Display/article/104776/major-general-william-n-mccasland/"
+   },
+   "text": "The Air Force's own biography gives McCasland's assignment for June 2009 to May 2011 as 'Director, Special Programs, Office of the Under Secretary of Defense for Acquisition, Technology and Logistics, the Pentagon, Washington, D.C.', and for June 2007 to June 2009 as 'Director, Space Acquisition, Office of the Under Secretary of the Air Force'.",
+   "tier": 1
+  },
+  "c-4c086e0698": {
+   "id": "c-4c086e0698",
+   "kind": "claim",
+   "node": "missing-scientists-probe-2026",
+   "nodeLabel": "House Oversight probe into deaths and disappearances of scientists, April 2026",
+   "source": {
+    "domain": null,
+    "text": "Fox News, 21 April 2026",
+    "url": null
+   },
+   "text": "Burlison: 'How many people walk out their front door without their phone, their wallet, their keys, or anything? I don't go anywhere without my phone.'",
+   "tier": 2
+  },
+  "c-6b3e373340": {
+   "id": "c-6b3e373340",
+   "kind": "claim",
+   "node": "missing-scientists-probe-2026",
+   "nodeLabel": "House Oversight probe into deaths and disappearances of scientists, April 2026",
+   "source": {
+    "domain": "oversight.house.gov",
+    "text": "Comer and Burlison to Administrator Jared Isaacman, NASA, 20 April 2026, https://oversight.house.gov/wp-content/uploads/2026/04/NASA-Missing-Scientists-Letter_4.20.26.pdf",
+    "url": "https://oversight.house.gov/wp-content/uploads/2026/04/NASA-Missing-Scientists-Letter_4.20.26.pdf"
+   },
+   "text": "The Committee does not adopt the reporting it relays. Its letters frame their own subject as 'recent unconfirmed public reporting' and footnote every factual assertion to the Daily Mail of 11 April 2026 and to New York Post pieces of 9 April, 18 March and 21 March 2026. They ask four agencies whether those reports are true. What the letters establish is that the Committee asked, and the deadline it set.",
+   "tier": 1
+  },
+  "c-6d0c3aebc6": {
+   "id": "c-6d0c3aebc6",
+   "kind": "claim",
+   "node": "william-mccasland",
+   "nodeLabel": "William Neil McCasland",
+   "source": {
+    "domain": "mgln.ai",
+    "text": "American Alchemy with Jesse Michels, 'Congressman: \"President Trump Was Briefed On Alien Hybrids!\"', 2 July 2026, 1:28:33 https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL2654068830.mp3",
+    "url": "https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL2654068830.mp3"
+   },
+   "text": "The claim that McCasland sat on a Special Access Program Oversight Committee and ran the Air Force Research Laboratory at Wright-Patterson is made in this corpus by Michels, not by any guest: hedged as 'I believe he was on the special access program oversight committee' to Rep. Burlison on 2 July 2026 (1:28:33), and stated flatly to Michael Shermer on 9 July 2026 (1:15:12). Neither guest adopts it.",
+   "tier": 2
+  },
+  "c-6e49fa0849": {
+   "id": "c-6e49fa0849",
+   "kind": "claim",
+   "node": "missing-scientists-probe-2026",
+   "nodeLabel": "House Oversight probe into deaths and disappearances of scientists, April 2026",
+   "source": {
+    "domain": "oversight.house.gov",
+    "text": "Comer and Burlison to Administrator Jared Isaacman, NASA, 20 April 2026, https://oversight.house.gov/wp-content/uploads/2026/04/NASA-Missing-Scientists-Letter_4.20.26.pdf",
+    "url": "https://oversight.house.gov/wp-content/uploads/2026/04/NASA-Missing-Scientists-Letter_4.20.26.pdf"
+   },
+   "text": "The letters name one of the individuals and describe the reported McCasland link in the Committee's own words: 'Another JPL alum, Monica Reza, who served as the director of the NASA Lab's Materials Processing Group, disappeared while hiking in California in June 2025 and remains missing.' They add that accounts 'have even alleged a direct link between Ms. Reza and General McCasland, characterizing them as having a \"close professional connection\" through an Air Force-funded research program in the early 2000s.' The Committee attributes both to unconfirmed public reporting.",
+   "tier": 1
+  },
+  "c-794e899eea": {
+   "id": "c-794e899eea",
+   "kind": "claim",
+   "node": "william-mccasland",
+   "nodeLabel": "William Neil McCasland",
+   "source": {
+    "domain": "mgln.ai",
+    "text": "American Alchemy with Jesse Michels, 'Why America's Top Scientists Are Going Missing [They Knew Too Much...]', 21 April 2026, 0:05:16 https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL3303927368.mp3?updated=1776795850",
+    "url": "https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL3303927368.mp3?updated=1776795850"
+   },
+   "text": "On American Alchemy with Jesse Michels, 21 April 2026, Michels dated the disappearance to Friday 27 February 2026 at Quail Run Court, Albuquerque: a repairman saw McCasland at the house around 10am, his wife left at about 11:10am and returned at 12:04pm to find him gone, and she reported him missing at 3:07pm. He said the prescription glasses, a switched-off phone and a smartwatch were left behind, and that a red backpack, the wallet and a .38-calibre revolver with its holster were missing (0:05:16 to 0:06:12).",
+   "tier": 2
+  },
+  "c-810ccbf0f9": {
+   "id": "c-810ccbf0f9",
+   "kind": "claim",
+   "node": "william-mccasland",
+   "nodeLabel": "William Neil McCasland",
+   "source": {
+    "domain": null,
+    "text": "Fox News, 21 April 2026",
+    "url": null
+   },
+   "text": "Rep. Burlison's staff had been attempting to contact McCasland regarding a separate congressional investigation before his disappearance.",
+   "tier": 2
+  },
+  "c-8300964eaa": {
+   "id": "c-8300964eaa",
+   "kind": "claim",
+   "node": "william-mccasland",
+   "nodeLabel": "William Neil McCasland",
+   "source": {
+    "domain": "www.af.mil",
+    "text": "USAF biography https://www.af.mil/About-Us/Biographies/Display/article/104776/major-general-william-n-mccasland/ compared against DIA INFO MEMO U-09-2660, https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237611/",
+    "url": "https://www.af.mil/About-Us/Biographies/Display/article/104776/major-general-william-n-mccasland/"
+   },
+   "text": "That Special Programs directorate is OUSD(AT&L), NOT OUSD(I). DIA's INFO MEMO U-09-2660 of 13 November 2009 declining the AAWSAP special access program request was addressed to 'DIRECTOR, SPECIAL PROGRAMS, OFFICE OF THE UNDER SECRETARY OF DEFENSE FOR INTELLIGENCE'. The two offices are distinct and McCasland held the AT&L one; nothing here places him in the AAWSAP decision.",
+   "tier": 1
+  },
+  "c-837cf383c4": {
+   "id": "c-837cf383c4",
+   "kind": "claim",
+   "node": "william-mccasland",
+   "nodeLabel": "William Neil McCasland",
+   "source": {
+    "domain": null,
+    "text": "Fox News, 21 April 2026",
+    "url": null
+   },
+   "text": "Retired Air Force Gen. William Neil McCasland vanished in February 2026 from his Albuquerque, New Mexico home, leaving behind his phone, prescription glasses, hiking boots, wallet, and a .38-caliber revolver.",
+   "tier": 2
+  },
+  "c-97243dc63d": {
+   "id": "c-97243dc63d",
+   "kind": "claim",
+   "node": "william-mccasland",
+   "nodeLabel": "William Neil McCasland",
+   "source": {
+    "domain": null,
+    "text": "Fox News, 21 April 2026",
+    "url": null
+   },
+   "text": "McCasland is one of eleven individuals in nuclear or rocket technology who have died or vanished under mysterious circumstances since 2022, per the House Oversight probe.",
+   "tier": 2
+  },
+  "c-995607e5d4": {
+   "id": "c-995607e5d4",
+   "kind": "claim",
+   "node": "missing-scientists-probe-2026",
+   "nodeLabel": "House Oversight probe into deaths and disappearances of scientists, April 2026",
+   "source": {
+    "domain": "oversight.house.gov",
+    "text": "Comer and Burlison to Administrator Jared Isaacman, NASA, 20 April 2026, https://oversight.house.gov/wp-content/uploads/2026/04/NASA-Missing-Scientists-Letter_4.20.26.pdf ; the identical letter to Director Kash Patel, FBI, https://oversight.house.gov/wp-content/uploads/2026/04/FBI-Missing-Scientists-Letter_4.20.26.pdf",
+    "url": "https://oversight.house.gov/wp-content/uploads/2026/04/NASA-Missing-Scientists-Letter_4.20.26.pdf"
+   },
+   "text": "The Committee's own letters of 20 April 2026 say 'at least ten individuals', not eleven, and date the pattern to a year later than the board did: the letters carry the string 'began in 2023 with the death of Michael David Hicks'. Effectively identical letters went to NASA, the FBI, the Department of War and the Department of Energy over the signatures of Chairman James Comer and Subcommittee Chairman Eric Burlison, copied to Ranking Members Garcia and Frost, and set a response deadline of 27 April 2026.",
+   "tier": 1
+  },
+  "c-b660b636f9": {
+   "id": "c-b660b636f9",
+   "kind": "claim",
+   "node": "william-mccasland",
+   "nodeLabel": "William Neil McCasland",
+   "source": {
+    "domain": "www.af.mil",
+    "text": "USAF official biography https://www.af.mil/About-Us/Biographies/Display/article/104776/major-general-william-n-mccasland/",
+    "url": "https://www.af.mil/About-Us/Biographies/Display/article/104776/major-general-william-n-mccasland/"
+   },
+   "text": "The biography opens: 'Maj. Gen. William N. McCasland is the Commander, Air Force Research Laboratory, Wright-Patterson Air Force Base, Ohio. He is responsible for managing the Air Force's $2.2 billion science and technology program as well as additional customer funded research and development of $2.2 billion.' It also records his command of the Phillips Research Site at Kirtland AFB, 2001-2004.",
+   "tier": 1
+  },
+  "c-bbacf6320c": {
+   "id": "c-bbacf6320c",
+   "kind": "claim",
+   "node": "william-mccasland",
+   "nodeLabel": "William Neil McCasland",
+   "source": {
+    "domain": "mgln.ai",
+    "text": "American Alchemy with Jesse Michels: '\"I Saw a Mantis Alien At THIS American Military Base!\" -Army Sergeant Lyn Buchanan', 28 May 2026, 2:14:52 https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL6048917608.mp3 ; '\"If You Knew What I Knew!\" -Jeremy Corbell UNLEASHES On Jesse Michels | EARLY RELEASE', 7 June 2026, 1:56:41 https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL1864048266.mp3 ; 'I Debated UFOs With America's Top Skeptic (It Got Ugly...)', 9 July 2026, 1:14:21 https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL4216664886.mp3",
+    "url": "https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL6048917608.mp3"
+   },
+   "text": "Three speakers in the same corpus decline to corroborate. Asked directly by Michels on 28 May 2026 whether he had come across 'General William Neil McCaslin', former Army remote viewer Lyn Buchanan answered 'No', and to the follow-up naming Wright-Patterson, 'No, I didn't know that' (2:14:52). On 7 June 2026 Jeremy Corbell characterised the reported McCasland-to-Tom DeLonge contact as an operation, saying 'I said it's part of an op', while acknowledging that McCasland is missing (1:56:41 to 1:59:32). On 9 July 2026 Michael Shermer argued the disappearance against base rates, asking 'How many people go missing? It's thousands' and 'why aren't all the heads of all the nuclear sites or the generals... all going missing', while conceding it 'should be investigated. Obviously' by the family, local police or the FBI (1:14:21 to 1:20:51).",
+   "tier": 2
+  },
+  "c-c2e397eb16": {
+   "id": "c-c2e397eb16",
+   "kind": "claim",
+   "node": "missing-scientists-probe-2026",
+   "nodeLabel": "House Oversight probe into deaths and disappearances of scientists, April 2026",
+   "source": {
+    "domain": "www.foxnews.com",
+    "text": "Fox News, 21 April 2026, https://www.foxnews.com/politics/missing-scientists-probe-sparked-after-ufo-general-disappeared-republican-lawmaker-reveals ; checked against the Committee letters of 20 April 2026, https://oversight.house.gov/wp-content/uploads/2026/04/NASA-Missing-Scientists-Letter_4.20.26.pdf",
+    "url": "https://www.foxnews.com/politics/missing-scientists-probe-sparked-after-ufo-general-disappeared-republican-lawmaker-reveals"
+   },
+   "text": "Fox News reported on 21 April 2026 that Chairman Comer and Rep. Burlison had launched a congressional probe into eleven individuals in nuclear or rocket technology who had died or vanished since 2022, requesting briefings from the FBI, the Department of War, NASA and the Department of Energy by 27 April 2026. The Committee's own letters, opened on 2 September 2026, say 'at least ten individuals' and date the pattern to 2023; the eleven and the 2022 are what Fox reported.",
+   "tier": 2
+  },
+  "c-cce744bbec": {
+   "id": "c-cce744bbec",
+   "kind": "claim",
+   "node": "william-mccasland",
+   "nodeLabel": "William Neil McCasland",
+   "source": {
+    "domain": "mgln.ai",
+    "text": "American Alchemy with Jesse Michels, 'Congressman: \"President Trump Was Briefed On Alien Hybrids!\"', 2 July 2026, 1:28:33 https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL2654068830.mp3",
+    "url": "https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL2654068830.mp3"
+   },
+   "text": "On American Alchemy with Jesse Michels, 2 July 2026, Rep. Eric Burlison said of McCasland that 'I know he was on my list of people to talk to', that David Grusch had sent someone to interview him without getting much out of him, and that in Burlison's view McCasland knew inquiries were being made. Asked about a missing firearm Burlison corrected the host: 'they don't know that he took a gun... Maybe missing. It's not confirmed.' He said the latest information was that McCasland had bought a medical kit at REI (1:28:33 to 1:31:18).",
+   "tier": 2
+  },
+  "c-ee2e4cd5c0": {
+   "id": "c-ee2e4cd5c0",
+   "kind": "claim",
+   "node": "missing-scientists-probe-2026",
+   "nodeLabel": "House Oversight probe into deaths and disappearances of scientists, April 2026",
+   "source": {
+    "domain": null,
+    "text": "Fox News, 21 April 2026",
+    "url": null
+   },
+   "text": "Burlison's staff had been attempting to contact Gen. McCasland regarding a separate congressional investigation before his disappearance.",
+   "tier": 2
+  },
+  "c-f4a5ee7eff": {
+   "id": "c-f4a5ee7eff",
+   "kind": "claim",
+   "node": "william-mccasland",
+   "nodeLabel": "William Neil McCasland",
+   "source": {
+    "domain": "mgln.ai",
+    "text": "American Alchemy with Jesse Michels, 'Why America's Top Scientists Are Going Missing [They Knew Too Much...]', 21 April 2026, 0:09:04 https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL3303927368.mp3?updated=1776795850",
+    "url": "https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL3303927368.mp3?updated=1776795850"
+   },
+   "text": "In the same episode Michels said that within a week the search had grown from the Bernalillo County Sheriff's Office to the FBI's Albuquerque Field Office, the Air Force Office of Special Investigations, New Mexico State Search and Rescue and Albuquerque Mountain Rescue, and that no camera footage of McCasland ever surfaced (0:09:04).",
+   "tier": 2
+  },
+  "c-f9d79c4b2f": {
+   "id": "c-f9d79c4b2f",
+   "kind": "claim",
+   "node": "james-comer",
+   "nodeLabel": "James Comer Jr.",
+   "source": {
+    "domain": null,
+    "text": "Fox News, 21 April 2026",
+    "url": null
+   },
+   "text": "With Rep. Burlison, launched the House Oversight probe into missing and dead scientists on 20-21 April 2026 after the disappearance of Gen. William Neil McCasland, requesting briefings from the FBI, the Department of War, NASA and the Department of Energy by 27 April 2026.",
+   "tier": 2
+  },
+  "e-7b78ecf07c": {
+   "endpoints": [
+    {
+     "id": "william-mccasland",
+     "label": "William Neil McCasland"
+    },
+    {
+     "id": "missing-scientists-probe-2026",
+     "label": "House Oversight probe into deaths and disappearances of scientists, April 2026"
+    }
+   ],
+   "id": "e-7b78ecf07c",
+   "kind": "edge",
+   "label": "His February 2026 disappearance is the trigger for the probe",
+   "sources": [
+    {
+     "date": "2026-04-21",
+     "name": "Fox News: Missing scientists probe was sparked after 'UFO General' disappeared, Republican lawmaker reveals",
+     "url": "https://www.foxnews.com/politics/missing-scientists-probe-sparked-after-ufo-general-disappeared-republican-lawmaker-reveals"
+    }
+   ],
+   "text": "One of eleven people in nuclear or rocket technology who have died or vanished since 2022, per the committee.",
+   "tier": 2,
+   "type": "temporal"
+  }
+ },
+ "claimed": [
+  {
+   "cite": [
+    "c-837cf383c4",
+    "c-810ccbf0f9",
+    "c-ee2e4cd5c0"
+   ],
+   "text": "Fox News reported that McCasland vanished in February 2026 from his Albuquerque home, leaving behind his phone, prescription glasses, hiking boots, wallet and a .38-calibre revolver, and that Burlison's staff had been trying to contact him about a separate congressional investigation."
+  },
+  {
+   "cite": [
+    "c-4c086e0698"
+   ],
+   "text": "Burlison, quoted by Fox News, asked how many people walk out their front door without their phone, wallet or keys."
+  },
+  {
+   "cite": [
+    "c-794e899eea",
+    "c-f4a5ee7eff"
+   ],
+   "text": "On American Alchemy, Jesse Michels dated the disappearance to 27 February 2026 and gave a timeline of that morning; he said the glasses, a switched-off phone and a smartwatch were left behind while a backpack, the wallet and the revolver were missing, and that the search widened to the FBI and the Air Force Office of Special Investigations with no camera footage of McCasland surfacing."
+  },
+  {
+   "cite": [
+    "c-cce744bbec"
+   ],
+   "text": "Burlison said on the same programme in July 2026 that McCasland had been on his list of people to talk to, that Grusch had sent someone to interview him without learning much, and that in his view McCasland knew inquiries were being made; he said the latest information was that McCasland had bought a medical kit."
+  }
+ ],
+ "contested": [
+  {
+   "cite": [
+    "c-c2e397eb16",
+    "c-97243dc63d",
+    "c-995607e5d4"
+   ],
+   "text": "Fox News reported the probe as covering eleven people in nuclear or rocket technology who died or vanished since 2022; the Committee's own letters say at least ten and date the reported pattern to 2023."
+  },
+  {
+   "cite": [
+    "c-837cf383c4",
+    "c-794e899eea",
+    "c-cce744bbec"
+   ],
+   "text": "The accounts disagree about the revolver: Fox News reported it left behind, Michels said it was missing, and Burlison corrected Michels that it was not confirmed that McCasland took a gun."
+  },
+  {
+   "cite": [
+    "c-6d0c3aebc6"
+   ],
+   "text": "The claim that McCasland sat on a special access programme oversight committee is made by Michels, not by any of his guests, and neither guest adopted it."
+  },
+  {
+   "cite": [
+    "c-bbacf6320c"
+   ],
+   "text": "Three speakers on the same programme declined to corroborate: Lyn Buchanan said he had not come across McCasland, Jeremy Corbell called a reported McCasland contact with Tom DeLonge part of an op, and Michael Shermer argued the disappearance against the base rate of missing persons while agreeing it should be investigated."
+  }
+ ],
+ "essays": [],
+ "focusEra": "3",
+ "id": "missing-scientists",
+ "kind": "saga",
+ "lead": {
+  "cite": [
+   "c-995607e5d4",
+   "c-6b3e373340"
+  ],
+  "text": "On 20 April 2026 House Oversight Chairman James Comer and Rep. Eric Burlison sent NASA, the FBI, the Department of War and the Department of Energy effectively identical letters about reported deaths and disappearances of at least ten individuals. The letters present their subject as unconfirmed public reporting and ask the agencies whether it is true."
+ },
+ "members": [
+  {
+   "cls": "event",
+   "id": "missing-scientists-probe-2026",
+   "label": "House Oversight probe into deaths and disappearances of scientists, April 2026",
+   "role": "subject"
+  },
+  {
+   "cls": "institution",
+   "id": "house-oversight-committee",
+   "label": "U.S. House Committee on Oversight and Government Reform",
+   "role": "institution"
+  },
+  {
+   "cls": "person",
+   "id": "james-comer",
+   "label": "James Comer Jr.",
+   "role": "legislator"
+  },
+  {
+   "cls": "person",
+   "id": "eric-burlison",
+   "label": "Eric Burlison",
+   "role": "legislator"
+  },
+  {
+   "cls": "person",
+   "id": "robert-garcia",
+   "label": "Robert Garcia",
+   "role": "legislator"
+  },
+  {
+   "cls": "person",
+   "id": "maxwell-frost",
+   "label": "Maxwell Alejandro Frost",
+   "role": "legislator"
+  },
+  {
+   "cls": "person",
+   "id": "william-mccasland",
+   "label": "William Neil McCasland",
+   "role": "subject"
+  }
+ ],
+ "notes": "The scientists thread. Moved from Appendix T's media section to Congress: the node is a House Oversight probe. It overlaps The Vanishing at Amy Eskridge only.",
+ "questions": [
+  "Did NASA, the FBI, the Department of War or the Department of Energy answer the letters by the 27 April 2026 deadline, and what did they say?",
+  "What was the separate congressional investigation for which Burlison's staff had been trying to reach McCasland?",
+  "Who are the other individuals the letters count among the at least ten, and what reporting does each rest on?",
+  "Was McCasland's revolver left at the house or taken with him?",
+  "Is there any record of the Air Force-funded research programme said to connect Monica Reza and McCasland?",
+  "Does the probe treat McCasland's command of the Air Force Research Laboratory as material to his disappearance?"
+ ],
+ "record": [
+  {
+   "cite": [
+    "c-995607e5d4"
+   ],
+   "text": "The letters of 20 April 2026 went over the signatures of Chairman Comer and Subcommittee Chairman Burlison, were copied to Ranking Members Garcia and Frost, and set a deadline of 27 April 2026. They say at least ten individuals, and that the reported pattern began in 2023 with the death of Michael David Hicks."
+  },
+  {
+   "cite": [
+    "c-6b3e373340"
+   ],
+   "text": "The letters frame their subject as recent unconfirmed public reporting and footnote each factual assertion to the Daily Mail of 11 April 2026 and to New York Post pieces of March and April 2026."
+  },
+  {
+   "cite": [
+    "c-6e49fa0849"
+   ],
+   "text": "The letters say that Monica Reza, a JPL alumna who had directed the NASA laboratory's Materials Processing Group, disappeared while hiking in California in June 2025 and remains missing, and relay accounts alleging a professional connection between her and McCasland through an Air Force-funded research programme in the early 2000s. They attribute both to unconfirmed public reporting."
+  },
+  {
+   "cite": [
+    "c-b660b636f9",
+    "c-47b9bd6576"
+   ],
+   "text": "McCasland's Air Force biography records him as Commander of the Air Force Research Laboratory at Wright-Patterson, commander of the Phillips Research Site at Kirtland from 2001 to 2004, and Director, Special Programs, in the Office of the Under Secretary of Defense for Acquisition, Technology and Logistics from 2009 to 2011."
+  },
+  {
+   "cite": [
+    "c-8300964eaa"
+   ],
+   "text": "That Special Programs post was in the acquisition office, not the intelligence under-secretariat to which DIA addressed its November 2009 memo declining the AAWSAP special access programme request; nothing in the record places McCasland in that decision."
+  }
+ ],
+ "related": [
+  "house-push-2026",
+  "wright-patterson-ftd",
+  "aawsap-baass",
+  "media-substrate",
+  "task-force-2025"
+ ],
+ "section": "congress-disclosure",
+ "span": {
+  "from": "2026",
+  "to": "2026"
+ },
+ "status": "verified",
+ "summary": [
+  {
+   "cite": [
+    "c-995607e5d4",
+    "c-6e49fa0849"
+   ],
+   "text": "The letters set a response deadline of 27 April 2026, say the reported cases began in 2023 with the death of Michael David Hicks, and name one other person, Monica Reza."
+  },
+  {
+   "cite": [
+    "c-f9d79c4b2f",
+    "e-7b78ecf07c",
+    "c-ee2e4cd5c0"
+   ],
+   "text": "Press reporting ties the probe to the February 2026 disappearance of retired Air Force Maj. Gen. William Neil McCasland from his Albuquerque home, and to Burlison's statement that his staff had been trying to reach McCasland about a separate investigation."
+  },
+  {
+   "cite": [
+    "c-6b3e373340"
+   ],
+   "text": "What the record establishes is that the Committee asked and when it set its deadline; the letters themselves footnote every factual assertion to newspaper reports and do not adopt them."
+  }
+ ],
+ "title": "Deaths and disappearances: the scientists probe"
+}

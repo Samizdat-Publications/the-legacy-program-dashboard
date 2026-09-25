@@ -1,0 +1,1455 @@
+{
+ "absorbs": [],
+ "anchors": [
+  "nyt-2017-12-16",
+  "leslie-kean",
+  "ralph-blumenthal",
+  "christopher-mellon",
+  "thomas-crosson"
+ ],
+ "appendixT": "nyt-2017",
+ "cites": {
+  "c-073d29b678": {
+   "id": "c-073d29b678",
+   "kind": "claim",
+   "node": "luis-elizondo",
+   "nodeLabel": "Luis D. Elizondo",
+   "source": {
+    "domain": null,
+    "text": "DD Form 1910 released via FOIA, published by Blue Blurry Lines, 17 August 2019",
+    "url": null
+   },
+   "text": "He personally submitted the DD Form 1910 on 9 August 2017 requesting clearance of the GoFast, Gimbal and FLIR video files; it was approved 24 August 2017. The stated purpose was 'Not for publication. Research and analysis ONLY and info sharing with other USG and industry partners for the purposes of developing a database to help identify, analyze, and ultimately defeat UAS threats.'",
+   "tier": 1
+  },
+  "c-0903921692": {
+   "id": "c-0903921692",
+   "kind": "claim",
+   "node": "karl-nell",
+   "nodeLabel": "Karl E. Nell",
+   "source": {
+    "domain": null,
+    "text": "Karl Nell, on the record, The Debrief, 5 June 2023",
+    "url": null
+   },
+   "text": "Grusch's assertion of an eighty-year sub rosa arms race focused on reverse engineering technologies of unknown origin is 'fundamentally correct,' and at least some of those technologies derive from non-human intelligence.",
+   "tier": 2
+  },
+  "c-0e87b01a63": {
+   "id": "c-0e87b01a63",
+   "kind": "claim",
+   "node": "aawsap",
+   "nodeLabel": "Advanced Aerospace Weapon System Applications Program (AAWSAP)",
+   "source": {
+    "domain": "www.dia.mil",
+    "text": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237626/",
+    "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237626/"
+   },
+   "text": "DIA Info Memo U-10-2552 to USD(AT&L): 'The Advanced Aerospace Threat Identification Program was first sponsored in the Fiscal Year (FY) 2008 Defense Supplemental Appropriation Act by Senators Reid and Inouye with a $10 million add. The purpose of this congressional add was to investigate foreign advanced aerospace weapon threats from the present out to the next 40 years and to build an infrastructure to house a center of expertise on advanced aerospace technologies.'",
+   "tier": 1
+  },
+  "c-0fcad99b04": {
+   "id": "c-0fcad99b04",
+   "kind": "claim",
+   "node": "luis-elizondo",
+   "nodeLabel": "Luis D. Elizondo",
+   "source": {
+    "domain": null,
+    "text": "Elizondo resignation letter dated 3 October 2017, released in OSD/JS FOIA case 18-F-0324 (final response 17 August 2022)",
+    "url": null
+   },
+   "text": "His title at resignation was 'Director, National Programs Special Management Staff' within OUSD(I), and his resignation was effective 4 October 2017.",
+   "tier": 1
+  },
+  "c-20c625ae80": {
+   "id": "c-20c625ae80",
+   "kind": "claim",
+   "node": "navy-flir-gimbal-gofast-videos",
+   "nodeLabel": "FLIR1, Gimbal and GoFast Navy gun-camera videos",
+   "source": {
+    "domain": null,
+    "text": "U.S. Navy statement, 10 September 2019",
+    "url": null
+   },
+   "text": "Navy spokesman Joseph Gradisher stated on 10 September 2019: 'The Navy designates the objects contained in these videos as unidentified aerial phenomena.'",
+   "tier": 1
+  },
+  "c-3238c01deb": {
+   "id": "c-3238c01deb",
+   "kind": "claim",
+   "node": "luis-elizondo",
+   "nodeLabel": "Luis D. Elizondo",
+   "source": {
+    "domain": null,
+    "text": "OSD FOIA release 21-F-0938, DoD FOIA Reading Room, Public Affairs",
+    "url": null
+   },
+   "text": "He wrote to Pentagon spokesperson Susan Gough on 3 June 2020: 'The truth, as everyone involved in the program knows, is that I ran the program.'",
+   "tier": 1
+  },
+  "c-3391c8d93a": {
+   "id": "c-3391c8d93a",
+   "kind": "claim",
+   "node": "navy-flir-gimbal-gofast-videos",
+   "nodeLabel": "FLIR1, Gimbal and GoFast Navy gun-camera videos",
+   "source": {
+    "domain": null,
+    "text": "Department of Defense statement, 27 April 2020",
+    "url": null
+   },
+   "text": "On 27 April 2020 DoD authorised the release of three unclassified Navy videos, one taken in November 2004 and two in January 2015, stating 'the aerial phenomena observed in the videos remain characterized as unidentified.'",
+   "tier": 1
+  },
+  "c-362c06e9f1": {
+   "id": "c-362c06e9f1",
+   "kind": "claim",
+   "node": "harry-reid",
+   "nodeLabel": "Harry M. Reid",
+   "source": {
+    "domain": null,
+    "text": "Reid to DEPSECDEF William J. Lynn III, 24 June 2009, DIA FOIA release",
+    "url": null
+   },
+   "text": "Reid requested a 'Restricted Special-Access-Program (SAP) with a Bigoted Access List for specific portions of the AATIP', naming as protectable the methodologies for identifying and engineering advanced technologies and the involvement of private contractors and industry partners.",
+   "tier": 1
+  },
+  "c-3c2c1b2601": {
+   "id": "c-3c2c1b2601",
+   "kind": "claim",
+   "node": "aatip",
+   "nodeLabel": "Advanced Aerospace Threat Identification Program (AATIP / AAITP)",
+   "source": {
+    "domain": "www.dia.mil",
+    "text": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237660/",
+    "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237660/"
+   },
+   "text": "The DIA release consistently spells it 'AAITP' (Advanced Aerospace Threat and Identification Program) in 2009 documents, not the later-familiar 'AATIP'. The USD(I) memorandum subject line reads: 'Senator Harry Reid's Request to Put the Advanced Aerospace Threat and Identification Program (AAITP) under Special Access Protection'.",
+   "tier": 1
+  },
+  "c-4cd6dbfbf4": {
+   "id": "c-4cd6dbfbf4",
+   "kind": "claim",
+   "node": "aatip",
+   "nodeLabel": "Advanced Aerospace Threat Identification Program (AATIP / AAITP)",
+   "source": {
+    "domain": null,
+    "text": "DIA letter to SASC, 9 January 2018, signed Brian L. Jenkins",
+    "url": null
+   },
+   "text": "DIA told the Senate Armed Services Committee that 'the purpose of AATIP was to investigate foreign advanced aerospace weapon threats from the present out to the next 40 years' and enclosed a list of 38 products.",
+   "tier": 1
+  },
+  "c-51ac5bb1d9": {
+   "id": "c-51ac5bb1d9",
+   "kind": "claim",
+   "node": "navy-flir-gimbal-gofast-videos",
+   "nodeLabel": "FLIR1, Gimbal and GoFast Navy gun-camera videos",
+   "source": {
+    "domain": null,
+    "text": "Christopher Mellon in The Phenomenon (2020), reported by Vice, 20 October 2020",
+    "url": null
+   },
+   "text": "Christopher Mellon stated he received the videos from a Defense Department official in the Pentagon parking lot and provided them to the New York Times.",
+   "tier": 2
+  },
+  "c-53194e6884": {
+   "id": "c-53194e6884",
+   "kind": "claim",
+   "node": "aawsap",
+   "nodeLabel": "Advanced Aerospace Weapon System Applications Program (AAWSAP)",
+   "source": {
+    "domain": "www.dia.mil",
+    "text": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237626/",
+    "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237626/"
+   },
+   "text": "Same memo: 'The FY 2010 Defense Appropriations Act included a $12 million add for the project. Twelve additional reports were produced and delivered.' Total across FY08 supplemental ($10M) and FY10 ($12M) = $22M.",
+   "tier": 1
+  },
+  "c-54ac781716": {
+   "id": "c-54ac781716",
+   "kind": "claim",
+   "node": "christopher-mellon",
+   "nodeLabel": "Christopher K. Mellon",
+   "source": {
+    "domain": null,
+    "text": "SEC EDGAR, TTSA Form 1-K Part II, filed April 2018",
+    "url": null
+   },
+   "text": "Listed in TTSA's Form 1-K as an advisory board member, described as having served 20 years in federal government including as Deputy Assistant Secretary of Defense for Intelligence and as a former Senate staff director.",
+   "tier": 1
+  },
+  "c-5987c053b3": {
+   "id": "c-5987c053b3",
+   "kind": "claim",
+   "node": "nyt-2017-12-16",
+   "nodeLabel": "New York Times, 'Glowing Auras and Black Money: The Pentagon's Mysterious U.F.O. Program'",
+   "source": {
+    "domain": null,
+    "text": "New York Times, 16 December 2017",
+    "url": null
+   },
+   "text": "Quoted Robert Bigelow saying he had modified Las Vegas buildings for storing recovered metal alloys, and 'Internationally, we are the most backward country on this.'",
+   "tier": 2
+  },
+  "c-5d35465562": {
+   "id": "c-5d35465562",
+   "kind": "claim",
+   "node": "nyt-2017-12-16",
+   "nodeLabel": "New York Times, 'Glowing Auras and Black Money: The Pentagon's Mysterious U.F.O. Program'",
+   "source": {
+    "domain": null,
+    "text": "New York Times, 16 December 2017 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+    "url": null
+   },
+   "text": "Reported that Elizondo ran AATIP from the Pentagon's fifth floor, resigned on 4 October in a letter to Defense Secretary Jim Mattis, and had joined To The Stars Academy with Puthoff and Mellon.",
+   "tier": 2
+  },
+  "c-5f4ef78c47": {
+   "id": "c-5f4ef78c47",
+   "kind": "claim",
+   "node": "luis-elizondo",
+   "nodeLabel": "Luis D. Elizondo",
+   "source": {
+    "domain": null,
+    "text": "Sean Kirkpatrick, Scientific American, 19 January 2024",
+    "url": null
+   },
+   "text": "Kirkpatrick publicly attributed the modern crash-retrieval narrative to AATIP and Robert Bigelow's circle, an argument that targets Elizondo's account without engaging it as testimony.",
+   "tier": 2
+  },
+  "c-611eb79ba5": {
+   "id": "c-611eb79ba5",
+   "kind": "claim",
+   "node": "luis-elizondo",
+   "nodeLabel": "Luis D. Elizondo",
+   "source": {
+    "domain": null,
+    "text": "Elizondo statements to the New York Times, 16 December 2017, and subsequently",
+    "url": null
+   },
+   "text": "Elizondo states he ran AATIP out of OUSD(I) from approximately 2010 until his resignation in October 2017.",
+   "tier": 2
+  },
+  "c-65761a45c6": {
+   "id": "c-65761a45c6",
+   "kind": "claim",
+   "node": "harry-reid",
+   "nodeLabel": "Harry M. Reid",
+   "source": {
+    "domain": null,
+    "text": "Harry Reid interview, Vice/KLAS Mystery Wire, 2019-2021",
+    "url": null
+   },
+   "text": "Reid said $22 million was not enough and that if the US government is not studying the subject it is malpractice.",
+   "tier": 2
+  },
+  "c-6ebd6ee9ad": {
+   "id": "c-6ebd6ee9ad",
+   "kind": "claim",
+   "node": "harry-reid",
+   "nodeLabel": "Harry M. Reid",
+   "source": {
+    "domain": null,
+    "text": "AARO Historical Record Report Volume 1, 8 March 2024, p.22",
+    "url": null
+   },
+   "text": "'At the direction of Senate Majority Leader Harry Reid (D-NV), the Defense Appropriations Acts of Fiscal Years 2008 and 2010 appropriated $22 million for the DIA to assess long-term and over-the-horizon foreign advanced aerospace threats.'",
+   "tier": 1
+  },
+  "c-70422b7dda": {
+   "id": "c-70422b7dda",
+   "kind": "claim",
+   "node": "thomas-crosson",
+   "nodeLabel": "Thomas Crosson",
+   "source": {
+    "domain": null,
+    "text": "Helene Cooper, Ralph Blumenthal and Leslie Kean, New York Times, 16 December 2017",
+    "url": null
+   },
+   "text": "Told the New York Times that AATIP was shut down because 'it was determined that there were other, higher priority issues that merit' the funding.",
+   "tier": 2
+  },
+  "c-7674ac4f98": {
+   "id": "c-7674ac4f98",
+   "kind": "claim",
+   "node": "debrief-2023-06-05",
+   "nodeLabel": "The Debrief: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin",
+   "source": {
+    "domain": null,
+    "text": "The Debrief, 5 June 2023",
+    "url": null
+   },
+   "text": "Published 5 June 2023 by Leslie Kean and Ralph Blumenthal with named on-record corroboration from Karl Nell and Christopher Mellon and pseudonymous corroboration from a serving NASIC officer.",
+   "tier": 1
+  },
+  "c-8caa990ac8": {
+   "id": "c-8caa990ac8",
+   "kind": "claim",
+   "node": "leslie-kean",
+   "nodeLabel": "Leslie Kean",
+   "source": {
+    "domain": null,
+    "text": "Contemporaneous reporting on the article's provenance, June 2023",
+    "url": null
+   },
+   "text": "The story was offered to and declined by major national outlets before The Debrief published it.",
+   "tier": 2
+  },
+  "c-8e9f31d0a2": {
+   "id": "c-8e9f31d0a2",
+   "kind": "claim",
+   "node": "aatip",
+   "nodeLabel": "Advanced Aerospace Threat Identification Program (AATIP / AAITP)",
+   "source": {
+    "domain": "www.aaro.mil",
+    "text": "https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf",
+    "url": "https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf"
+   },
+   "text": "AARO's formulation is the load-bearing denial artifact: it concedes an actual DoD community of interest researching military UAP sightings, then denies it program status on a naming technicality. DIA's own 2009 correspondence uses 'AAITP' and 'AAWSAP' interchangeably for the same contract, so the 'never an official DoD program' line depends entirely on which of the two names is treated as canonical.",
+   "tier": 3
+  },
+  "c-961ee028e3": {
+   "id": "c-961ee028e3",
+   "kind": "claim",
+   "node": "harry-reid",
+   "nodeLabel": "Harry M. Reid",
+   "source": {
+    "domain": "www.dia.mil",
+    "text": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237659/",
+    "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237659/"
+   },
+   "text": "Signed the 24 June 2009 letter to Deputy Secretary of Defense William J. Lynn III, on Senate Majority Leader letterhead, requesting DoD place the AAITP under 'Restricted Special Access Protection'.",
+   "tier": 1
+  },
+  "c-af485448ba": {
+   "id": "c-af485448ba",
+   "kind": "claim",
+   "node": "aatip",
+   "nodeLabel": "Advanced Aerospace Threat Identification Program (AATIP / AAITP)",
+   "source": {
+    "domain": null,
+    "text": "AARO Historical Record Report Volume 1, DOPSR-2024-0263, 8 March 2024",
+    "url": null
+   },
+   "text": "AARO's March 2024 Historical Record Report Volume 1 identifies 2009 as the standup year for AAWSAP and AATIP and states that 'none of the programs mentioned by interviewees are UAP reverse-engineering programs.'",
+   "tier": 1
+  },
+  "c-b23ee1cc0d": {
+   "id": "c-b23ee1cc0d",
+   "kind": "claim",
+   "node": "aatip",
+   "nodeLabel": "Advanced Aerospace Threat Identification Program (AATIP / AAITP)",
+   "source": {
+    "domain": null,
+    "text": "Packet presented to DEPSECDEF, 17 November 2009",
+    "url": null
+   },
+   "text": "A single DoD packet records three names for the same effort: official title AAWSAP, Senator Reid's usage AAITP (Advanced Aerospace Threat and Identification Program), and unclassified nickname AATIP.",
+   "tier": 1
+  },
+  "c-b556629330": {
+   "id": "c-b556629330",
+   "kind": "claim",
+   "node": "nyt-2017-12-16",
+   "nodeLabel": "New York Times, 'Glowing Auras and Black Money: The Pentagon's Mysterious U.F.O. Program'",
+   "source": {
+    "domain": null,
+    "text": "Michael Shellenberger, written testimony to House Oversight, 13 November 2024, reporting his whistleblower source",
+    "url": null
+   },
+   "text": "The alleged Immaculate Constellation programme was created by the Department of Defense in 2017 in response to the New York Times publication on AATIP.",
+   "tier": 2
+  },
+  "c-c1730160ec": {
+   "id": "c-c1730160ec",
+   "kind": "claim",
+   "node": "christopher-mellon",
+   "nodeLabel": "Christopher K. Mellon",
+   "source": {
+    "domain": null,
+    "text": "Christopher Mellon in The Phenomenon (2020), reported by MJ Banias, Vice, 20 October 2020",
+    "url": null
+   },
+   "text": "Stated: 'I received the videos, the now famous videos in the Pentagon parking lot from a Defense Department official,' and that he retains the original packaging.",
+   "tier": 2
+  },
+  "c-c49875f40e": {
+   "id": "c-c49875f40e",
+   "kind": "claim",
+   "node": "harry-reid",
+   "nodeLabel": "Harry M. Reid",
+   "source": {
+    "domain": null,
+    "text": "DIA talking paper DR_Reid_Mtg_Nov09, 19 Nov 2009",
+    "url": null
+   },
+   "text": "DIA scheduled a 19 Nov 2009 4:45pm briefing of Reid in SVC-217 to tell him the deliverables 'do not meet the criteria as specified in DoD 5200.1-R to justify the additional protection provided by a SAP.'",
+   "tier": 1
+  },
+  "c-c4b78fa8b1": {
+   "id": "c-c4b78fa8b1",
+   "kind": "claim",
+   "node": "aatip",
+   "nodeLabel": "Advanced Aerospace Threat Identification Program (AATIP / AAITP)",
+   "source": {
+    "domain": null,
+    "text": "New York Times, 16 December 2017, quoting Pentagon spokesman Thomas Crosson",
+    "url": null
+   },
+   "text": "Existed and was terminated in 2012 on the Department's own account, with roughly $22 million appropriated from late 2008 through 2011 and most of it going to Bigelow Aerospace.",
+   "tier": 1
+  },
+  "c-c7c86ef93e": {
+   "id": "c-c7c86ef93e",
+   "kind": "claim",
+   "node": "luis-elizondo",
+   "nodeLabel": "Luis D. Elizondo",
+   "source": {
+    "domain": null,
+    "text": "Christopher Sherwood, Pentagon spokesperson, 1 June 2019",
+    "url": null
+   },
+   "text": "DoD's public position is that 'Mr. Elizondo had no responsibilities with regard to the AATIP program while he worked in OUSDI, up until the time he resigned effective 10/4/2017.'",
+   "tier": 1
+  },
+  "c-d11b56fd97": {
+   "id": "c-d11b56fd97",
+   "kind": "claim",
+   "node": "aatip",
+   "nodeLabel": "Advanced Aerospace Threat Identification Program (AATIP / AAITP)",
+   "source": {
+    "domain": null,
+    "text": "Reid memorandum, authenticated by Susan Gough on 13 June 2019; New York Times, 16 December 2017",
+    "url": null
+   },
+   "text": "Senator Harry Reid sought Special Access Program status for it in a 24 July 2009 memorandum to Deputy Secretary of Defense William Lynn III; the request was denied.",
+   "tier": 1
+  },
+  "c-d915fd61bf": {
+   "id": "c-d915fd61bf",
+   "kind": "claim",
+   "node": "nyt-2017-12-16",
+   "nodeLabel": "New York Times, 'Glowing Auras and Black Money: The Pentagon's Mysterious U.F.O. Program'",
+   "source": {
+    "domain": null,
+    "text": "Inference from the post-2017 chronology",
+    "url": null
+   },
+   "text": "The story changed the subject's institutional status without adding physical evidence; the Navy designation, DoD release, UAP Task Force, ODNI assessment, AARO and the three House hearings all follow it in sequence. Reasoning: chronological review of official actions after 16 December 2017.",
+   "tier": 3
+  },
+  "c-da1fa78261": {
+   "id": "c-da1fa78261",
+   "kind": "claim",
+   "node": "nyt-2017-12-16",
+   "nodeLabel": "New York Times, 'Glowing Auras and Black Money: The Pentagon's Mysterious U.F.O. Program'",
+   "source": {
+    "domain": null,
+    "text": "Bryan Bender, Politico, 16 December 2017 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+    "url": null
+   },
+   "text": "Pentagon spokeswoman Dana White confirmed to Politico that Luis Elizondo directed AATIP.",
+   "tier": 2
+  },
+  "c-dd0cf33dd6": {
+   "id": "c-dd0cf33dd6",
+   "kind": "claim",
+   "node": "ttsa",
+   "nodeLabel": "To The Stars Academy of Arts & Science Inc. (later To The Stars Inc.)",
+   "source": {
+    "domain": null,
+    "text": "SEC EDGAR, TTSA Form 1-K Part II, CIK 1710274, filed April 2018",
+    "url": null
+   },
+   "text": "Delaware public benefit corporation, Commission File Number 024-10728, IRS EIN 82-0601064, with DeLonge, Semivan and Puthoff as directors and Elizondo and Justice as significant employees.",
+   "tier": 1
+  },
+  "c-e712955c7c": {
+   "id": "c-e712955c7c",
+   "kind": "claim",
+   "node": "harry-reid",
+   "nodeLabel": "Harry M. Reid",
+   "source": {
+    "domain": "www.dia.mil",
+    "text": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237626/",
+    "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237626/"
+   },
+   "text": "DIA records him as co-sponsor with Senator Daniel Inouye (D-HI) of the language in the July 2008 Supplemental Appropriation bill directing DIA to investigate foreign advanced aerospace weapon threats 'from the present out to 40 years in the future' — a $10 million add.",
+   "tier": 1
+  },
+  "c-e892d42c88": {
+   "id": "c-e892d42c88",
+   "kind": "claim",
+   "node": "aatip",
+   "nodeLabel": "Advanced Aerospace Threat Identification Program (AATIP / AAITP)",
+   "source": {
+    "domain": "www.aaro.mil",
+    "text": "https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf",
+    "url": "https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf"
+   },
+   "text": "AARO Historical Record Report Vol. I states: 'Unlike AAWSAP, AATIP was never an official DoD program. However, after AAWSAP was cancelled, the AATIP moniker was used by some individuals associated with an informal, unofficial UAP community of interest within DoD that researched UAP sightings from military observers as part of their ancillary job duties.'",
+   "tier": 1
+  },
+  "c-f38a8a8dcb": {
+   "id": "c-f38a8a8dcb",
+   "kind": "claim",
+   "node": "luis-elizondo",
+   "nodeLabel": "Luis D. Elizondo",
+   "source": {
+    "domain": null,
+    "text": "Susan Gough, DoD spokesperson, to The Black Vault, 13 June 2019",
+    "url": null
+   },
+   "text": "'It makes no change to previous statements. Mr. Elizondo had no assigned responsibilities for AATIP while he was in OUSD(I). DIA administered AATIP, and Elizondo was never assigned to DIA. Elizondo did interact with the DIA office managing the program while the program was still ongoing, but he did not lead it.'",
+   "tier": 1
+  },
+  "c-f49783d6f8": {
+   "id": "c-f49783d6f8",
+   "kind": "claim",
+   "node": "christopher-mellon",
+   "nodeLabel": "Christopher K. Mellon",
+   "source": {
+    "domain": null,
+    "text": "Christopher Mellon, on the record, The Debrief, 5 June 2023",
+    "url": null
+   },
+   "text": "'A number of well-placed current and former officials have shared detailed information with me regarding this alleged program.'",
+   "tier": 2
+  },
+  "e-13549cbed5": {
+   "endpoints": [
+    {
+     "id": "luis-elizondo",
+     "label": "Luis D. Elizondo"
+    },
+    {
+     "id": "aatip",
+     "label": "Advanced Aerospace Threat Identification Program (AATIP / AAITP)"
+    }
+   ],
+   "id": "e-13549cbed5",
+   "kind": "edge",
+   "label": "Ran the program from c.2010 to 2017 (asserted); role denied by DoD",
+   "sources": [
+    {
+     "date": "2021-01-01",
+     "name": "OSD FOIA 21-F-0938 Elizondo emails",
+     "url": "https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/Public_Affairs/21-F-0938-PA-Elizondo-Emails.pdf"
+    },
+    {
+     "date": "2019-06-01",
+     "name": "The Intercept",
+     "url": "https://theintercept.com/2019/06/01/ufo-unidentified-history-channel-luis-elizondo-pentagon/"
+    }
+   ],
+   "text": "Elizondo states he ran AATIP; TTSA said he took it over as Director in 2010. The Department has denied he had assigned responsibilities since June 2019 without ever addressing why he processed the program's imagery in 2017.",
+   "tier": 2,
+   "type": "programmatic"
+  },
+  "e-1d15253ef1": {
+   "endpoints": [
+    {
+     "id": "luis-elizondo",
+     "label": "Luis D. Elizondo"
+    },
+    {
+     "id": "ttsa",
+     "label": "To The Stars Academy of Arts & Science Inc. (later To The Stars Inc.)"
+    }
+   ],
+   "id": "e-1d15253ef1",
+   "kind": "edge",
+   "label": "Director of Global Security & Special Programs / Government Programs (2017-2020)",
+   "sources": [
+    {
+     "date": "2018-04-30",
+     "name": "SEC EDGAR — TTSA Form 1-K",
+     "url": "https://www.sec.gov/Archives/edgar/data/1710274/000114420418023727/tv492460_partii.htm"
+    },
+    {
+     "date": "2026-04-29",
+     "name": "SEC EDGAR filing index for To The Stars Inc. (CIK 0001710274)",
+     "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001710274&type=1-K&dateb=&owner=include&count=40"
+    },
+    {
+     "date": "2024-11-13",
+     "name": "House Oversight hearing transcript, 'Unidentified Anomalous Phenomena: Exposing the Truth' (CHRG-118hhrg57440)",
+     "url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm"
+    }
+   ],
+   "text": "The move placed the former AATIP director inside the private company then acquiring claimed exotic material and negotiating a federal research agreement over it.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-21a4a99511": {
+   "endpoints": [
+    {
+     "id": "christopher-mellon",
+     "label": "Christopher K. Mellon"
+    },
+    {
+     "id": "navy-flir-gimbal-gofast-videos",
+     "label": "FLIR1, Gimbal and GoFast Navy gun-camera videos"
+    }
+   ],
+   "id": "e-21a4a99511",
+   "kind": "edge",
+   "label": "Received the three files in the Pentagon parking lot and passed them to the NYT",
+   "sources": [
+    {
+     "date": "2020-10-20",
+     "name": "Vice — Ex Intel Official Says He Was the Source of the Pentagon's UFO Videos",
+     "url": "https://www.vice.com/en/article/this-guy-says-he-was-the-source-of-the-pentagons-ufo-videos/"
+    }
+   ],
+   "text": "Mellon's own on-record account in The Phenomenon: 'I received the videos, the now famous videos in the Pentagon parking lot from a Defense Department official.' The handing official has never been identified.",
+   "tier": 2,
+   "type": "custody"
+  },
+  "e-3d6d5781a1": {
+   "endpoints": [
+    {
+     "id": "luis-elizondo",
+     "label": "Luis D. Elizondo"
+    },
+    {
+     "id": "nyt-2017-12-16",
+     "label": "New York Times, 'Glowing Auras and Black Money: The Pentagon's Mysterious U.F.O. Program'"
+    }
+   ],
+   "id": "e-3d6d5781a1",
+   "kind": "edge",
+   "label": "Elizondo's resignation and the videos anchored the story",
+   "sources": [
+    {
+     "date": "2017-12-16",
+     "name": "The New York Times - Glowing Auras and Black Money",
+     "url": "https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html"
+    }
+   ],
+   "text": "Pentagon spokeswoman Dana White confirmed to Politico that Elizondo had directed AATIP.",
+   "tier": 1,
+   "type": "witness-chain"
+  },
+  "e-3e330b3250": {
+   "endpoints": [
+    {
+     "id": "christopher-mellon",
+     "label": "Christopher K. Mellon"
+    },
+    {
+     "id": "nyt-2017-12-16",
+     "label": "New York Times, 'Glowing Auras and Black Money: The Pentagon's Mysterious U.F.O. Program'"
+    }
+   ],
+   "id": "e-3e330b3250",
+   "kind": "edge",
+   "label": "Supplied the videos published with the story",
+   "sources": [
+    {
+     "date": "2020-10-20",
+     "name": "Vice",
+     "url": "https://www.vice.com/en/article/this-guy-says-he-was-the-source-of-the-pentagons-ufo-videos/"
+    }
+   ],
+   "text": "Mellon says he provided the files to the Times; the Times separately stated the Department of Defense was its on-the-record source for them.",
+   "tier": 2,
+   "type": "custody"
+  },
+  "e-4826b5f3aa": {
+   "endpoints": [
+    {
+     "id": "leslie-kean",
+     "label": "Leslie Kean"
+    },
+    {
+     "id": "debrief-2023-06-05",
+     "label": "The Debrief: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin"
+    }
+   ],
+   "id": "e-4826b5f3aa",
+   "kind": "edge",
+   "label": "Co-author; vetted Grusch through Nell and the NASIC officer",
+   "sources": [
+    {
+     "date": "2023-06-05",
+     "name": "The Debrief",
+     "url": "https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/"
+    }
+   ],
+   "text": "Kean built the story on named and verified corroborators rather than on Grusch alone, interviewing Karl Nell to establish standing and securing the pseudonymous NASIC officer on the record.",
+   "tier": 1,
+   "type": "investigative"
+  },
+  "e-4b4f99d4a9": {
+   "endpoints": [
+    {
+     "id": "aawsap",
+     "label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)"
+    },
+    {
+     "id": "aatip",
+     "label": "Advanced Aerospace Threat Identification Program (AATIP / AAITP)"
+    }
+   ],
+   "id": "e-4b4f99d4a9",
+   "kind": "edge",
+   "label": "AAWSAP is the official name; AATIP/AAITP is Reid's name for it",
+   "sources": [
+    {
+     "date": null,
+     "name": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237611/",
+     "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237611/"
+    }
+   ],
+   "text": "",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-52d1ba0184": {
+   "endpoints": [
+    {
+     "id": "harry-reid",
+     "label": "Harry M. Reid"
+    },
+    {
+     "id": "aawsap",
+     "label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)"
+    }
+   ],
+   "id": "e-52d1ba0184",
+   "kind": "edge",
+   "label": "co-sponsored FY2008 supplemental $10M add with Sen. Inouye",
+   "sources": [
+    {
+     "date": null,
+     "name": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237626/",
+     "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237626/"
+    }
+   ],
+   "text": "",
+   "tier": 1,
+   "type": "funding"
+  },
+  "e-5d81f21ac2": {
+   "endpoints": [
+    {
+     "id": "nyt-2017-12-16",
+     "label": "New York Times, 'Glowing Auras and Black Money: The Pentagon's Mysterious U.F.O. Program'"
+    },
+    {
+     "id": "ralph-blumenthal",
+     "label": "Ralph Blumenthal"
+    }
+   ],
+   "id": "e-5d81f21ac2",
+   "kind": "edge",
+   "label": "Co-byline, 16 December 2017",
+   "sources": [
+    {
+     "date": "2017-12-16",
+     "name": "New York Times (NICAP copy)",
+     "url": "https://www.nicap.org/reports2/2004_20171216_NYTArt_1.pdf"
+    }
+   ],
+   "text": "Blumenthal shares the byline that broke AATIP and published two of the three videos.",
+   "tier": 1,
+   "type": "investigative"
+  },
+  "e-72969b3f34": {
+   "endpoints": [
+    {
+     "id": "leslie-kean",
+     "label": "Leslie Kean"
+    },
+    {
+     "id": "ralph-blumenthal",
+     "label": "Ralph Blumenthal"
+    }
+   ],
+   "id": "e-72969b3f34",
+   "kind": "edge",
+   "label": "Co-authors of both defining stories, 2017 and 2023",
+   "sources": [
+    {
+     "date": "2026-08-12",
+     "name": "Wikipedia - Leslie Kean",
+     "url": "https://en.wikipedia.org/wiki/Leslie_Kean"
+    }
+   ],
+   "text": "The 16 December 2017 New York Times AATIP story and the 5 June 2023 David Grusch story were both written by Kean and Blumenthal; Helene Cooper was a third author on the 2017 piece.",
+   "tier": 2,
+   "type": "investigative"
+  },
+  "e-7de7d7ba16": {
+   "endpoints": [
+    {
+     "id": "aawsap",
+     "label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)"
+    },
+    {
+     "id": "nyt-2017-12-16",
+     "label": "New York Times, 'Glowing Auras and Black Money: The Pentagon's Mysterious U.F.O. Program'"
+    }
+   ],
+   "id": "e-7de7d7ba16",
+   "kind": "edge",
+   "label": "the program the New York Times revealed",
+   "sources": [
+    {
+     "date": "2018-01-09",
+     "name": "DIA letter to SASC",
+     "url": "https://documents.theblackvault.com/documents/dia/dia-aatip-reports.pdf"
+    }
+   ],
+   "text": "The 16 December 2017 story named the program, the $22M, Reid and Bigelow, and forced DIA to write the Senate Armed Services Committee three weeks later.",
+   "tier": 1,
+   "type": "investigative"
+  },
+  "e-7e52055715": {
+   "endpoints": [
+    {
+     "id": "nyt-2017-12-16",
+     "label": "New York Times, 'Glowing Auras and Black Money: The Pentagon's Mysterious U.F.O. Program'"
+    },
+    {
+     "id": "aatip",
+     "label": "Advanced Aerospace Threat Identification Program (AATIP / AAITP)"
+    }
+   ],
+   "id": "e-7e52055715",
+   "kind": "edge",
+   "label": "Broke the program's existence, funding and Reid origin",
+   "sources": [
+    {
+     "date": "2017-12-16",
+     "name": "New York Times (NICAP copy)",
+     "url": "https://www.nicap.org/reports2/2004_20171216_NYTArt_1.pdf"
+    },
+    {
+     "date": "2017-12-16",
+     "name": "The New York Times - Glowing Auras and Black Money",
+     "url": "https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html"
+    }
+   ],
+   "text": "Cooper, Blumenthal and Kean disclosed the programme, the appropriation arranged by Sen. Harry Reid at Robert Bigelow's urging, and Elizondo's resignation.",
+   "tier": 1,
+   "type": "investigative"
+  },
+  "e-9de889acc5": {
+   "endpoints": [
+    {
+     "id": "leslie-kean",
+     "label": "Leslie Kean"
+    },
+    {
+     "id": "the-debrief",
+     "label": "The Debrief"
+    }
+   ],
+   "id": "e-9de889acc5",
+   "kind": "edge",
+   "label": "The Debrief published the Grusch story the NYT did not run",
+   "sources": [
+    {
+     "date": "2026-08-12",
+     "name": "The Debrief - About",
+     "url": "https://thedebrief.org/about/"
+    }
+   ],
+   "text": "The same authors whose AATIP scoop the New York Times published in 2017 took the 2023 Grusch story to The Debrief. The placement, not the verification, is the notable fact.",
+   "tier": 1,
+   "type": "investigative"
+  },
+  "e-c655111201": {
+   "endpoints": [
+    {
+     "id": "thomas-crosson",
+     "label": "Thomas Crosson"
+    },
+    {
+     "id": "aatip",
+     "label": "Advanced Aerospace Threat Identification Program (AATIP / AAITP)"
+    }
+   ],
+   "id": "e-c655111201",
+   "kind": "edge",
+   "label": "Confirmed the program existed and was shut down in 2012",
+   "sources": [
+    {
+     "date": "2017-12-16",
+     "name": "New York Times (NICAP copy)",
+     "url": "https://www.nicap.org/reports2/2004_20171216_NYTArt_1.pdf"
+    }
+   ],
+   "text": "The Department's original December 2017 position was acknowledgement with a budgetary rationale — 'other, higher priority issues that merit' the funding — not denial.",
+   "tier": 2,
+   "type": "institutional"
+  },
+  "e-d0038ba9e4": {
+   "endpoints": [
+    {
+     "id": "ttsa",
+     "label": "To The Stars Academy of Arts & Science Inc. (later To The Stars Inc.)"
+    },
+    {
+     "id": "navy-flir-gimbal-gofast-videos",
+     "label": "FLIR1, Gimbal and GoFast Navy gun-camera videos"
+    }
+   ],
+   "id": "e-d0038ba9e4",
+   "kind": "edge",
+   "label": "Hosted and distributed the three videos from 2017-2018",
+   "sources": [
+    {
+     "date": "2019-09-10",
+     "name": "The Black Vault — Navy confirms videos depict UAP",
+     "url": "https://www.theblackvault.com/documentarchive/u-s-navy-confirms-videos-depict-unidentified-aerial-phenomena-not-cleared-for-public-release/"
+    }
+   ],
+   "text": "TTSA published the footage on its own platform, framing it as officially cleared — a framing the Navy contested in September 2019.",
+   "tier": 2,
+   "type": "custody"
+  },
+  "e-d1da23f925": {
+   "endpoints": [
+    {
+     "id": "nyt-2017-12-16",
+     "label": "New York Times, 'Glowing Auras and Black Money: The Pentagon's Mysterious U.F.O. Program'"
+    },
+    {
+     "id": "luis-elizondo",
+     "label": "Luis D. Elizondo"
+    }
+   ],
+   "id": "e-d1da23f925",
+   "kind": "edge",
+   "label": "Named him as the official who ran AATIP",
+   "sources": [
+    {
+     "date": "2017-12-16",
+     "name": "New York Times (NICAP copy)",
+     "url": "https://www.nicap.org/reports2/2004_20171216_NYTArt_1.pdf"
+    }
+   ],
+   "text": "The article identified him, quoted his resignation letter and reported his move to TTSA — the act that made him the Department's problem.",
+   "tier": 1,
+   "type": "investigative"
+  },
+  "e-d5de2eedab": {
+   "endpoints": [
+    {
+     "id": "christopher-mellon",
+     "label": "Christopher K. Mellon"
+    },
+    {
+     "id": "ttsa",
+     "label": "To The Stars Academy of Arts & Science Inc. (later To The Stars Inc.)"
+    }
+   ],
+   "id": "e-d5de2eedab",
+   "kind": "edge",
+   "label": "National Security Affairs Advisor / advisory board (2017-2020)",
+   "sources": [
+    {
+     "date": "2018-04-30",
+     "name": "SEC EDGAR — TTSA Form 1-K",
+     "url": "https://www.sec.gov/Archives/edgar/data/1710274/000114420418023727/tv492460_partii.htm"
+    },
+    {
+     "date": "2017-10-11",
+     "name": "PR Newswire — TTSA launch",
+     "url": "https://www.prnewswire.com/news-releases/to-the-stars-academy-of-arts--science-launches-today-300534912.html"
+    }
+   ],
+   "text": "A former Deputy Assistant Secretary of Defense for Intelligence and SSCI minority staff director lending his name to the vehicle.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-d7b4ab3748": {
+   "endpoints": [
+    {
+     "id": "nyt-2017-12-16",
+     "label": "New York Times, 'Glowing Auras and Black Money: The Pentagon's Mysterious U.F.O. Program'"
+    },
+    {
+     "id": "leslie-kean",
+     "label": "Leslie Kean"
+    }
+   ],
+   "id": "e-d7b4ab3748",
+   "kind": "edge",
+   "label": "Co-byline with Helene Cooper and Ralph Blumenthal",
+   "sources": [
+    {
+     "date": "2017-12-16",
+     "name": "New York Times (NICAP copy)",
+     "url": "https://www.nicap.org/reports2/2004_20171216_NYTArt_1.pdf"
+    }
+   ],
+   "text": "Kean and Blumenthal had cultivated the sources; Cooper supplied the Pentagon beat. The trio's byline is what moved the story from fringe to record.",
+   "tier": 1,
+   "type": "investigative"
+  },
+  "e-ecbb6b27fc": {
+   "endpoints": [
+    {
+     "id": "nyt-2017-12-16",
+     "label": "New York Times, 'Glowing Auras and Black Money: The Pentagon's Mysterious U.F.O. Program'"
+    },
+    {
+     "id": "harry-reid",
+     "label": "Harry M. Reid"
+    }
+   ],
+   "id": "e-ecbb6b27fc",
+   "kind": "edge",
+   "label": "Identified Reid as the senator who initiated and funded AATIP",
+   "sources": [
+    {
+     "date": "2017-12-16",
+     "name": "New York Times (NICAP copy)",
+     "url": "https://www.nicap.org/reports2/2004_20171216_NYTArt_1.pdf"
+    }
+   ],
+   "text": "Reid told the Times 'I'm not embarrassed or ashamed or sorry I got this thing going' and called the appropriation 'black money'.",
+   "tier": 1,
+   "type": "funding"
+  },
+  "e-f0b5e7c8ba": {
+   "endpoints": [
+    {
+     "id": "nyt-2017-12-16",
+     "label": "New York Times, 'Glowing Auras and Black Money: The Pentagon's Mysterious U.F.O. Program'"
+    },
+    {
+     "id": "immaculate-constellation",
+     "label": "Immaculate Constellation disclosure, October-November 2024"
+    }
+   ],
+   "id": "e-f0b5e7c8ba",
+   "kind": "edge",
+   "label": "The alleged programme is said to have been created in response to this story",
+   "sources": [
+    {
+     "date": "2024-11-13",
+     "name": "Michael Shellenberger written testimony (PDF)",
+     "url": "https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf"
+    }
+   ],
+   "text": "Shellenberger's whistleblower alleges DoD created Immaculate Constellation in 2017 after the New York Times published on AATIP. The claim is attributed, not documented.",
+   "tier": 2,
+   "type": "programmatic"
+  },
+  "e-f3489369e1": {
+   "endpoints": [
+    {
+     "id": "harry-reid",
+     "label": "Harry M. Reid"
+    },
+    {
+     "id": "aatip",
+     "label": "Advanced Aerospace Threat Identification Program (AATIP / AAITP)"
+    }
+   ],
+   "id": "e-f3489369e1",
+   "kind": "edge",
+   "label": "24 July 2009 memorandum to DepSecDef Lynn seeking SAP status; denied",
+   "sources": [
+    {
+     "date": "2019-06-13",
+     "name": "The Black Vault — Reid memo",
+     "url": "https://www.theblackvault.com/documentarchive/pentagon-reinforces-mr-luis-elizondo-had-no-responsibilities-on-aatip-senator-harry-reids-2009-memo-changes-nothing/"
+    }
+   ],
+   "text": "Susan Gough authenticated the memorandum on 13 June 2019. Elizondo's and Puthoff's names were originally redacted from it and later released.",
+   "tier": 1,
+   "type": "legislative"
+  },
+  "e-fc30e775f0": {
+   "endpoints": [
+    {
+     "id": "aaro-historical-record-vol1",
+     "label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+    },
+    {
+     "id": "aatip",
+     "label": "Advanced Aerospace Threat Identification Program (AATIP / AAITP)"
+    }
+   ],
+   "id": "e-fc30e775f0",
+   "kind": "edge",
+   "label": "AARO: 'AATIP was never an official DoD program'",
+   "sources": [
+    {
+     "date": null,
+     "name": "https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf",
+     "url": "https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf"
+    },
+    {
+     "date": "2024-03-08",
+     "name": "AARO Historical Record Report Volume 1",
+     "url": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF"
+    }
+   ],
+   "text": "AARO's report treats 2009 as the standup year for AAWSAP and AATIP and rejects the reverse-engineering account. It is itself a DOPSR-reviewed document, DOPSR-2024-0263.",
+   "tier": 1,
+   "type": "denial"
+  }
+ },
+ "claimed": [
+  {
+   "cite": [
+    "c-5d35465562",
+    "c-5987c053b3"
+   ],
+   "text": "The Times reported that Elizondo ran the programme from the Pentagon's fifth floor, resigned on 4 October in a letter to Defense Secretary Jim Mattis, and had joined To The Stars Academy with Puthoff and Mellon; it quoted Bigelow saying he had modified Las Vegas buildings to store recovered metal alloys."
+  },
+  {
+   "cite": [
+    "c-da1fa78261",
+    "e-3d6d5781a1"
+   ],
+   "text": "Politico reported that Pentagon spokeswoman Dana White confirmed Elizondo directed the programme."
+  },
+  {
+   "cite": [
+    "c-611eb79ba5",
+    "c-3238c01deb",
+    "e-13549cbed5"
+   ],
+   "text": "Elizondo says he ran AATIP out of OUSD(I) from about 2010 until he resigned, and wrote to Pentagon spokesperson Susan Gough in June 2020 that everyone involved knows he ran the program."
+  },
+  {
+   "cite": [
+    "c-c1730160ec",
+    "c-51ac5bb1d9",
+    "e-3e330b3250",
+    "e-21a4a99511"
+   ],
+   "text": "Mellon says he received the videos in the Pentagon parking lot from a Defense Department official and gave them to the Times; the Times separately said the Department of Defense was its on-the-record source for them. The official who handed them over has never been identified."
+  },
+  {
+   "cite": [
+    "c-b556629330",
+    "e-f0b5e7c8ba"
+   ],
+   "text": "Michael Shellenberger's whistleblower source alleges that the Defense Department created the Immaculate Constellation programme in 2017 in response to the Times story; the claim is attributed, not documented."
+  },
+  {
+   "cite": [
+    "c-65761a45c6"
+   ],
+   "text": "Reid later said $22 million was not enough and that failing to study the subject would be malpractice."
+  },
+  {
+   "cite": [
+    "c-7674ac4f98",
+    "c-8caa990ac8",
+    "c-f49783d6f8",
+    "c-0903921692",
+    "e-4826b5f3aa"
+   ],
+   "text": "When the same two reporters brought Grusch's crash-retrieval claims to The Debrief in June 2023, after, by contemporaneous reporting, national outlets had declined the story, they carried on-record corroboration from Karl Nell and from Mellon, who said well-placed current and former officials had shared detailed information with him."
+  }
+ ],
+ "contested": [
+  {
+   "cite": [
+    "c-f38a8a8dcb",
+    "c-c7c86ef93e"
+   ],
+   "text": "Since June 2019 the Department has said Elizondo had no assigned responsibilities for AATIP, that DIA administered it and that he interacted with it but did not lead it."
+  },
+  {
+   "cite": [
+    "c-e892d42c88",
+    "c-af485448ba",
+    "e-fc30e775f0",
+    "c-8e9f31d0a2"
+   ],
+   "text": "AARO's Historical Record Report Volume I says AATIP was never an official DoD program and that the name was later used by an informal community of interest, and that none of the programmes interviewees mentioned are reverse-engineering programmes. On the board's reading, the never-official line depends on which of the names DIA used interchangeably is treated as canonical."
+  },
+  {
+   "cite": [
+    "c-b23ee1cc0d",
+    "c-3c2c1b2601"
+   ],
+   "text": "The records do not agree on the programme's name: one 2009 DoD packet carries AAWSAP as the official title, AAITP as Reid's usage and AATIP as the unclassified nickname."
+  },
+  {
+   "cite": [
+    "c-961ee028e3",
+    "c-d11b56fd97"
+   ],
+   "text": "The records date Reid's letter to Lynn differently, one to 24 June 2009 and another to 24 July 2009."
+  },
+  {
+   "cite": [
+    "c-5d35465562",
+    "c-0fcad99b04"
+   ],
+   "text": "The Times reported the resignation as a 4 October letter to Mattis, while the letter released under FOIA is dated 3 October 2017 with the resignation effective 4 October."
+  },
+  {
+   "cite": [
+    "c-073d29b678",
+    "e-d0038ba9e4"
+   ],
+   "text": "The videos were cleared for research and sharing, not for publication, and To The Stars Academy's framing of them as officially cleared was contested by the Navy in September 2019."
+  },
+  {
+   "cite": [
+    "c-5f4ef78c47"
+   ],
+   "text": "Former AARO director Sean Kirkpatrick has attributed the modern crash-retrieval narrative to AATIP and Robert Bigelow's circle."
+  }
+ ],
+ "essays": [],
+ "focusEra": "3",
+ "id": "nyt-2017",
+ "kind": "movement",
+ "lead": {
+  "cite": [
+   "e-7e52055715",
+   "e-d7b4ab3748",
+   "e-5d81f21ac2"
+  ],
+  "text": "On 16 December 2017 The New York Times, under the byline of Helene Cooper, Ralph Blumenthal and Leslie Kean, disclosed a Pentagon programme the paper called AATIP, the appropriation Senator Harry Reid arranged for it at Robert Bigelow's urging, and Luis Elizondo's resignation, and published two Navy infrared videos."
+ },
+ "members": [
+  {
+   "cls": "event",
+   "id": "nyt-2017-12-16",
+   "label": "New York Times, 'Glowing Auras and Black Money: The Pentagon's Mysterious U.F.O. Program'",
+   "role": "subject"
+  },
+  {
+   "cls": "person",
+   "id": "leslie-kean",
+   "label": "Leslie Kean",
+   "role": "journalist"
+  },
+  {
+   "cls": "person",
+   "id": "ralph-blumenthal",
+   "label": "Ralph Blumenthal",
+   "role": "journalist"
+  },
+  {
+   "cls": "person",
+   "id": "christopher-mellon",
+   "label": "Christopher K. Mellon",
+   "role": "claimant"
+  },
+  {
+   "cls": "person",
+   "id": "thomas-crosson",
+   "label": "Thomas Crosson",
+   "role": "official"
+  },
+  {
+   "cls": "person",
+   "id": "luis-elizondo",
+   "label": "Luis D. Elizondo",
+   "role": "claimant"
+  },
+  {
+   "cls": "person",
+   "id": "harry-reid",
+   "label": "Harry M. Reid",
+   "role": "legislator"
+  },
+  {
+   "cls": "program",
+   "id": "aatip",
+   "label": "Advanced Aerospace Threat Identification Program (AATIP / AAITP)",
+   "role": "programme"
+  },
+  {
+   "cls": "program",
+   "id": "aawsap",
+   "label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)",
+   "role": "programme"
+  },
+  {
+   "cls": "document",
+   "id": "navy-flir-gimbal-gofast-videos",
+   "label": "FLIR1, Gimbal and GoFast Navy gun-camera videos",
+   "role": "document"
+  },
+  {
+   "cls": "institution",
+   "id": "ttsa",
+   "label": "To The Stars Academy of Arts & Science Inc. (later To The Stars Inc.)",
+   "role": "institution"
+  },
+  {
+   "cls": "event",
+   "id": "immaculate-constellation",
+   "label": "Immaculate Constellation disclosure, October-November 2024",
+   "role": "event"
+  },
+  {
+   "cls": "document",
+   "id": "aaro-historical-record-vol1",
+   "label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
+   "role": "document"
+  },
+  {
+   "cls": "document",
+   "id": "debrief-2023-06-05",
+   "label": "The Debrief: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin",
+   "role": "document"
+  },
+  {
+   "cls": "institution",
+   "id": "the-debrief",
+   "label": "The Debrief",
+   "role": "journalist"
+  },
+  {
+   "cls": "person",
+   "id": "david-grusch",
+   "label": "David Charles Grusch",
+   "role": "claimant"
+  },
+  {
+   "cls": "person",
+   "id": "karl-nell",
+   "label": "Karl E. Nell",
+   "role": "claimant"
+  }
+ ],
+ "notes": "The 16 December 2017 story, its reporters and sources, and the videos it released: the hinge of the modern record.",
+ "questions": [
+  "Who was the Defense Department official who handed Mellon the videos, and how does that fit the Times naming the Department as its on-the-record source?",
+  "Is there any primary record of Dana White confirming in December 2017 that Elizondo directed the programme?",
+  "Was Elizondo's resignation addressed to Mattis on 4 October, as the Times reported, or does the released correspondence tell a different story?",
+  "What happened between the August 2017 clearance of the videos for research only and their publication with the story?",
+  "Will the Department ever produce an AATIP charter or organisation chart that settles whether Elizondo led it?",
+  "Is there any document fixing when, or whether, a programme called Immaculate Constellation was created?"
+ ],
+ "record": [
+  {
+   "cite": [
+    "e-ecbb6b27fc"
+   ],
+   "text": "The Times identified Reid as the senator who initiated and funded the programme, and quoted him saying he was not embarrassed or ashamed or sorry he got it going, and calling the appropriation black money."
+  },
+  {
+   "cite": [
+    "c-c4b78fa8b1",
+    "e-c655111201"
+   ],
+   "text": "On the Department's own account, given by spokesman Thomas Crosson, the programme existed, about $22 million was appropriated from late 2008 through 2011, most of it went to Bigelow Aerospace, and it was terminated in 2012."
+  },
+  {
+   "cite": [
+    "c-e712955c7c",
+    "c-0e87b01a63",
+    "c-53194e6884",
+    "e-52d1ba0184"
+   ],
+   "text": "DIA records Reid and Senator Daniel Inouye as sponsors of a $10 million add in the FY2008 supplemental appropriation to investigate foreign advanced aerospace weapon threats out to 40 years, followed by a $12 million add in FY2010."
+  },
+  {
+   "cite": [
+    "c-961ee028e3",
+    "c-362c06e9f1",
+    "c-c49875f40e",
+    "e-f3489369e1"
+   ],
+   "text": "In 2009 Reid wrote to Deputy Secretary of Defense William Lynn asking that the programme, which he called the AAITP, be placed under restricted special access protection with a bigoted access list; DIA scheduled a November 2009 briefing to tell him the deliverables did not meet the criteria for a special access programme."
+  },
+  {
+   "cite": [
+    "c-4cd6dbfbf4",
+    "e-7de7d7ba16"
+   ],
+   "text": "Three weeks after the story, on 9 January 2018, DIA told the Senate Armed Services Committee that the purpose of AATIP was to investigate foreign advanced aerospace weapon threats out to the next 40 years, and enclosed a list of 38 products."
+  },
+  {
+   "cite": [
+    "c-073d29b678",
+    "c-0fcad99b04"
+   ],
+   "text": "Elizondo submitted a DD Form 1910 on 9 August 2017 to clear the GoFast, Gimbal and FLIR video files, approved on 24 August 2017, with the stated purpose of research, analysis and information sharing, not publication. His resignation as Director, National Programs Special Management Staff, in OUSD(I) took effect on 4 October 2017."
+  },
+  {
+   "cite": [
+    "c-20c625ae80",
+    "c-3391c8d93a"
+   ],
+   "text": "On 10 September 2019 the Navy designated the objects in the videos as unidentified aerial phenomena, and on 27 April 2020 the Department authorised release of the three videos, saying the phenomena in them remain characterized as unidentified."
+  },
+  {
+   "cite": [
+    "c-dd0cf33dd6",
+    "c-54ac781716",
+    "e-1d15253ef1",
+    "e-d5de2eedab"
+   ],
+   "text": "To The Stars Academy's SEC filings list Tom DeLonge, Jim Semivan and Harold Puthoff as directors, Elizondo and Steve Justice as significant employees, and Mellon on the advisory board as a former Deputy Assistant Secretary of Defense for Intelligence."
+  }
+ ],
+ "related": [
+  "aatip-elizondo",
+  "aawsap-baass",
+  "ttsa",
+  "nimitz-2004",
+  "roosevelt-2014-15",
+  "media-substrate",
+  "grusch-allegations",
+  "immaculate-constellation",
+  "uaptf-odni-2021",
+  "aaro-historical-record",
+  "denial-ledger"
+ ],
+ "section": "congress-disclosure",
+ "span": {
+  "from": "2017",
+  "to": "2017"
+ },
+ "status": "verified",
+ "summary": [
+  {
+   "cite": [
+    "e-d1da23f925",
+    "c-c4b78fa8b1",
+    "c-70422b7dda"
+   ],
+   "text": "The story named Elizondo as the official who ran the programme, quoted his resignation letter and reported his move to To The Stars Academy; the Pentagon's spokesman confirmed that the programme existed and had been shut down in 2012."
+  },
+  {
+   "cite": [
+    "e-7de7d7ba16",
+    "c-4cd6dbfbf4",
+    "c-0e87b01a63",
+    "c-53194e6884",
+    "c-6ebd6ee9ad",
+    "e-4b4f99d4a9"
+   ],
+   "text": "The programme behind the name is DIA's AAWSAP contract, funded by $22 million in appropriations that Reid sponsored; three weeks after the story DIA wrote to the Senate Armed Services Committee about it."
+  },
+  {
+   "cite": [
+    "c-073d29b678",
+    "e-21a4a99511",
+    "c-c1730160ec",
+    "c-20c625ae80",
+    "c-3391c8d93a"
+   ],
+   "text": "Elizondo had requested internal clearance of the videos in August 2017 on a form stating they were not for publication, and it was approved; Christopher Mellon says he received them from a Defense Department official and passed them to the paper; the Navy later designated them unidentified and the Department released them outright in April 2020."
+  },
+  {
+   "cite": [
+    "c-d915fd61bf",
+    "e-72969b3f34",
+    "e-9de889acc5"
+   ],
+   "text": "On the board's reading the story added no new physical evidence but changed the subject's institutional standing, and later official acts follow it in sequence. Kean and Blumenthal went on to report David Grusch's claims in 2023, at The Debrief rather than the Times."
+  }
+ ],
+ "title": "The December 2017 New York Times story"
+}

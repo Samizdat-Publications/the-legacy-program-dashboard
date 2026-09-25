@@ -21,7 +21,379 @@
   "d-coverup"
  ],
  "essays": [],
- "status": "draft",
+ "status": "verified",
  "notes": "The denials thread; the board's denial edges are read here as a ledger of who denied what, when.",
- "appendixT": "denial-ledger"
+ "appendixT": "denial-ledger",
+ "lead": {
+  "text": "The board treats each official denial as a dated, attributable document: who said what, when, and in what words. Read as a ledger, the Pentagon's statements on AATIP moved from acknowledgement to flat denial to partial concession, while its denial that Luis Elizondo ran the programme never moved.",
+  "cite": [
+   "c-4522a28213",
+   "c-af41014f9e",
+   "c-a3ee21ee62",
+   "e-dbad302a21",
+   "e-84374889be"
+  ]
+ },
+ "summary": [
+  {
+   "text": "The core of the ledger is the Department of Defense's public affairs statements from 2019 to 2023 on AATIP, on Elizondo and on David Grusch's claims, most issued by Christopher Sherwood and Susan Gough, and the AARO report released in 2024 with a Pentagon statement by Maj. Gen. Pat Ryder.",
+   "cite": [
+    "e-da15f2a0eb",
+    "e-c626fa7977",
+    "c-0abcdb22ce",
+    "e-5982cb4adb"
+   ]
+  },
+  {
+   "text": "Around it the board keeps older denials and disclaimers that show the form: a 1955 Air Force report insisting its disc-shaped aircraft had nothing to do with flying saucers, a CIA review board that attaches a disclaimer of authentication to every cleared manuscript, and a court brief that confirms a compromise of NSA operations while naming none.",
+   "cite": [
+    "e-bc630b2273",
+    "e-aa87a4b2f1",
+    "e-46e3f4a011"
+   ]
+  },
+  {
+   "text": "It also keeps documented precedents where official answers were knowingly false or concealed: false public explanations to protect U-2 and OXCART flights, the classified existence of the National Reconnaissance Office for thirty-one years, and a Joint Chiefs pretext plan held secret for thirty-five years.",
+   "cite": [
+    "c-fd2bc6b6d5",
+    "c-272d242095",
+    "e-1274b87df2",
+    "e-00b8f13277"
+   ]
+  }
+ ],
+ "record": [
+  {
+   "text": "On 22 May 2019 DoD spokesperson Christopher Sherwood stated that AATIP did pursue research and investigation into unidentified aerial phenomena; on 1 June 2019 he stated that Elizondo had no responsibilities with regard to the programme while at OUSD(I).",
+   "cite": [
+    "c-4522a28213",
+    "c-0a6dd9aeca",
+    "e-60bca54202"
+   ]
+  },
+  {
+   "text": "On 6 December 2019 Susan Gough stated that neither AATIP nor AAWSAP was UAP related and that AATIP did not pursue research into unidentified aerial phenomena, and repudiated Sherwood's acknowledgement as not entirely fact-based; on 21 May 2021 she stated that the contract allowed research drawn from many sources, including UAP reports, but that examining UAP was not its purpose.",
+   "cite": [
+    "c-af41014f9e",
+    "e-a46c5f7e6b",
+    "c-a3ee21ee62",
+    "e-dbad302a21"
+   ]
+  },
+  {
+   "text": "In June 2019 Gough confirmed that a Harry Reid memo was authentic but said it made no change: Elizondo had no assigned responsibilities for AATIP, DIA administered the programme, Elizondo was never assigned to DIA, and although he interacted with the DIA office running it, he did not lead it.",
+   "cite": [
+    "c-128d118902",
+    "c-2653cd6ac6",
+    "e-84374889be"
+   ]
+  },
+  {
+   "text": "Elizondo wrote to Gough on 3 June 2020 that the truth, as everyone involved knows, is that he ran the programme; the correspondence, like his 2017 resignation letters addressed to her, was released by the Department under FOIA 21-F-0938.",
+   "cite": [
+    "c-3238c01deb",
+    "c-cf14db0855",
+    "e-9e5a9fc5f4",
+    "c-d1dfc5a6d3"
+   ]
+  },
+  {
+   "text": "On 7 June 2023 Gough said on the Department's behalf that AARO had not discovered any verifiable information to substantiate claims of programmes possessing or reverse-engineering extraterrestrial materials; after the 26 July 2023 hearing she added that the Department had no information that anyone had been harmed or killed for providing information to AARO.",
+   "cite": [
+    "c-0abcdb22ce",
+    "c-45971da324",
+    "c-8265d45876"
+   ]
+  },
+  {
+   "text": "AARO's Volume I report concludes there is no empirical evidence of US government or corporate reverse-engineering of extraterrestrial technology, and states that AATIP was never an official DoD programme, while conceding that after AAWSAP was cancelled the AATIP name was used by some individuals in an informal, unofficial UAP community of interest within DoD. It records that executives of the named companies all denied such programmes on the record, and Pat Ryder presented it as approaching the claims with the widest possible aperture.",
+   "cite": [
+    "c-24337b75a9",
+    "e-fc30e775f0",
+    "c-684e8783c2",
+    "c-42e779946d",
+    "e-5982cb4adb",
+    "c-e892d42c88"
+   ]
+  },
+  {
+   "text": "The Navy's spokesman Joseph Gradisher stated on 10 September 2019 that the Navy designates the objects in the three videos as unidentified aerial phenomena, and that neither the Navy nor DOPSR had any record of a 2017 request for their unrestricted release.",
+   "cite": [
+    "c-20c625ae80",
+    "c-4f6a2b87f2",
+    "c-58a745a2ef",
+    "e-315bcc4b6b"
+   ]
+  },
+  {
+   "text": "The 1955 ATIC-WADC report on Project Silver Bug, the Avro disc aircraft the Air Force was itself developing, states that the project should in no way be associated with science fiction or flying saucer stories because of its appearance.",
+   "cite": [
+    "c-3a4657a89b",
+    "c-e27b5a9c44",
+    "e-bc630b2273",
+    "e-3f06a85a6e",
+    "e-58b0d26eae"
+   ]
+  },
+  {
+   "text": "The CIA's prepublication review board allows at least 30 working days, routes appeals to the Associate Deputy Director, and requires authors of manuscripts found to contain classified information to return every version for destruction; every cleared work must carry a disclaimer that nothing in it implies government authentication.",
+   "cite": [
+    "c-feff133201",
+    "c-edbc054c61",
+    "c-5bc206eaf4",
+    "e-aa87a4b2f1",
+    "e-90480aa81b"
+   ]
+  },
+  {
+   "text": "In the Pelton espionage case the government's brief says only that he gave the Soviets information about several classified NSA operations, naming none; in an earlier FOIA suit NSA withheld its UFO holdings in full on an in camera affidavit, and the courts upheld it.",
+   "cite": [
+    "c-d9dedced37",
+    "e-46e3f4a011",
+    "c-bedcf53744"
+   ]
+  },
+  {
+   "text": "The Rockefeller Commission disclosed the 1953 death of Frank Olson without naming him, as an Army employee given LSD without his knowledge, with a footnote on his possible instability; Congress later compensated his family by private law.",
+   "cite": [
+    "c-2a32edef24",
+    "e-933a57c3d3",
+    "c-9994754efa"
+   ]
+  },
+  {
+   "text": "Documents on the concealment side of the ledger include the Robertson Panel's 1953 recommendation to strip UFOs of special status through debunking and to watch civilian groups, a GAO finding that Roswell base messages for 1946-1949 were destroyed without authority, and the Northwoods memorandum proposing a cover and deception plan.",
+   "cite": [
+    "c-6a4f4a60ba",
+    "c-2864aade41",
+    "c-11e6eb914f",
+    "c-e267ce0f69"
+   ]
+  },
+  {
+   "text": "Senator Reid asked in 2009 for Special Access Program status for AATIP, and the request was denied.",
+   "cite": [
+    "c-d11b56fd97"
+   ]
+  }
+ ],
+ "claimed": [
+  {
+   "text": "Elizondo says he ran AATIP from about 2010 to 2017, and TTSA said he took it over as director in 2010; no document naming him in an AATIP role has been released.",
+   "cite": [
+    "e-13549cbed5",
+    "c-3238c01deb"
+   ]
+  },
+  {
+   "text": "Jesse Michels alleged on his programme that Gough was a primary source for a Wall Street Journal article on Pentagon disinformation and that her profile shows a lead role in a psychological operations consulting practice.",
+   "cite": [
+    "c-d424a46df7"
+   ]
+  },
+  {
+   "text": "Gough is named in the unclassified version of Grusch's reprisal complaint among the officials who handled his identity and complaint, and the Department told the press it had no record of a programme called Immaculate Constellation.",
+   "cite": [
+    "c-d11e8a2953",
+    "c-1b8513352d"
+   ]
+  },
+  {
+   "text": "Former CIA officer Andrew Bustamante said on a podcast that his manuscript was declared classified and then approved about three weeks after he threatened suit; no CIA record of that review was opened.",
+   "cite": [
+    "c-ce937f8ebf"
+   ]
+  },
+  {
+   "text": "Guests on podcasts have attached UFO stories to denial cases the records do not support: one named Ivy Bells and a reconnaissance office the Pelton filing never mentions, and one called the Phoenix lights explanation Operation Snowbird, words absent from the Air National Guard statement.",
+   "cite": [
+    "c-9723974b85",
+    "c-b72712a9da"
+   ]
+  },
+  {
+   "text": "A claim that Menzel, the Harvard astronomer who wrote against the extraterrestrial hypothesis, had a thirty-year NSA association and a CIA clearance was read on a podcast; the Harvard papers were not reached.",
+   "cite": [
+    "c-4812325519",
+    "e-38a9bb8999"
+   ]
+  }
+ ],
+ "contested": [
+  {
+   "text": "The Department's own statements disagree: Gough's December 2019 denial reversed Sherwood's May acknowledgement, and her May 2021 statement partly reversed her own. On the board's reading, the one position that never moved was the denial of Elizondo's role.",
+   "cite": [
+    "e-a46c5f7e6b",
+    "c-41b23ce7a4",
+    "e-dbad302a21"
+   ]
+  },
+  {
+   "text": "On the board's reading, the June 2019 statement concedes the programme, its DIA administration and Elizondo's contact with it, and contests only whether he led it; the denial turns on the word assigned.",
+   "cite": [
+    "c-8a31c176d2",
+    "c-fd8f432074"
+   ]
+  },
+  {
+   "text": "On the board's reading the Department's own released records cut against its denial of Elizondo's role: in September 2017 emails show Elizondo drafting a memorandum for Neill Tipton to assume the new responsibilities for AATIP, and Elizondo submitted the August 2017 DD-1910 for the AATIP-associated videos.",
+   "cite": [
+    "c-3988dbeb8d"
+   ]
+  },
+  {
+   "text": "The negative findings are worded as AARO not having discovered verifiable information, not as a finding that no programme exists; on the board's reading, an office without subpoena power reporting inside the department concerned is bounded by its own access.",
+   "cite": [
+    "c-45971da324",
+    "c-c187ac2fa7"
+   ]
+  },
+  {
+   "text": "Gough's own figures put about 1,000 of more than 2,000 reports in AARO's archive without enough data for analysis, which on the board's reading means the negative finding rests only on the analysed half.",
+   "cite": [
+    "c-138447a3b5",
+    "e-fe98664395",
+    "c-3eb5999126"
+   ]
+  },
+  {
+   "text": "AARO's corporate denials rest on voluntary on-the-record statements by executives; the report describes no inspection of any contractor facility or holding, and the Department has not published the interview list behind its widest possible aperture.",
+   "cite": [
+    "c-24d8b218db",
+    "c-684e8783c2",
+    "e-5982cb4adb"
+   ]
+  },
+  {
+   "text": "Denials have been the required answer before: the NRO's existence was officially denied for thirty-one years, and the CIA's own historian records Air Force investigators knowingly giving false explanations to protect overflights.",
+   "cite": [
+    "c-272d242095",
+    "c-95d1314e10",
+    "c-fd2bc6b6d5"
+   ]
+  },
+  {
+   "text": "The Phoenix lights explanation, flares dropped by Maryland Air National Guard A-10s, came four months after the event, in a statement by a named unit spokesman.",
+   "cite": [
+    "c-2a0e96af60",
+    "c-d3ff0e69e6",
+    "e-f1be4015f6"
+   ]
+  },
+  {
+   "text": "The four opened records on Olson's death do not agree on the date or the storey, and the family's 2012 suit was dismissed without reaching the merits.",
+   "cite": [
+    "c-9c4271a309",
+    "c-67bae85cc3"
+   ]
+  },
+  {
+   "text": "On the board's reading, DIA's refusal of SAP status for AATIP is what later let officials call it low-significance, since a programme denied that protection leaves no SAP paper trail.",
+   "cite": [
+    "c-f14ed45735",
+    "c-d11b56fd97"
+   ]
+  }
+ ],
+ "members": [
+  {
+   "id": "susan-gough",
+   "role": "official"
+  },
+  {
+   "id": "christopher-sherwood",
+   "role": "official"
+  },
+  {
+   "id": "pat-ryder",
+   "role": "official"
+  },
+  {
+   "id": "joseph-gradisher",
+   "role": "official"
+  },
+  {
+   "id": "cia-prepublication-classification-review-board",
+   "role": "institution"
+  },
+  {
+   "id": "us-v-pelton-1986",
+   "role": "document"
+  },
+  {
+   "id": "tr-ac-47-silver-bug",
+   "role": "document"
+  },
+  {
+   "id": "luis-elizondo",
+   "role": "claimant"
+  },
+  {
+   "id": "aatip",
+   "role": "programme"
+  },
+  {
+   "id": "aaro",
+   "role": "institution"
+  },
+  {
+   "id": "aaro-historical-record-vol1",
+   "role": "document"
+  },
+  {
+   "id": "navy-flir-gimbal-gofast-videos",
+   "role": "document"
+  },
+  {
+   "id": "mdang-flare-statement-1997",
+   "role": "document"
+  },
+  {
+   "id": "frank-olson-death-1953",
+   "role": "event"
+  },
+  {
+   "id": "operation-northwoods",
+   "role": "document"
+  },
+  {
+   "id": "donald-h-menzel",
+   "role": "critic"
+  },
+  {
+   "id": "atic",
+   "role": "institution"
+  },
+  {
+   "id": "usaf",
+   "role": "institution"
+  },
+  {
+   "id": "cia",
+   "role": "institution"
+  },
+  {
+   "id": "nsa",
+   "role": "institution"
+  }
+ ],
+ "questions": [
+  "Why has the Department never produced the AATIP charter or an organisation chart that would settle whether Elizondo led it?",
+  "What internal coordination produced the June 2023 statement, and did AARO clear its wording?",
+  "When will Volume II of AARO's historical record appear, and will it address the fake Air Force programme it was promised to cover?",
+  "Did the Department ever answer the list of people Elizondo gave Gough who could confirm his role?",
+  "Did Dana White confirm in December 2017 that Elizondo led AATIP, as is widely repeated? No primary transcript has been found.",
+  "What did Menzel's Harvard papers actually show about his government ties?",
+  "How many reports in AARO's archive will ever be analysed, and would the negative finding survive them?"
+ ],
+ "related": [
+  "official-explanations",
+  "perception-management",
+  "aatip-elizondo",
+  "aaro",
+  "aaro-historical-record",
+  "cia-secrecy-precedents",
+  "robertson-cia-1953",
+  "grusch-allegations"
+ ]
 }

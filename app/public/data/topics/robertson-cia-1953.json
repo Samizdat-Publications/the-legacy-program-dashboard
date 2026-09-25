@@ -1,0 +1,1563 @@
+{
+ "absorbs": [],
+ "anchors": [
+  "robertson-panel",
+  "howard-p-robertson",
+  "h-marshall-chadwell",
+  "frederick-durant",
+  "walter-bedell-smith",
+  "navy-pic-1953-film-analysis",
+  "haines-cia-history"
+ ],
+ "appendixT": "robertson-cia-1953",
+ "cites": {
+  "c-045c3b844c": {
+   "id": "c-045c3b844c",
+   "kind": "claim",
+   "node": "afr-200-2",
+   "nodeLabel": "Air Force Regulation 200-2",
+   "source": {
+    "domain": null,
+    "text": "AFR 200-2, 26 August 1953, paragraph 8, Release of Information",
+    "url": null
+   },
+   "text": "The release restriction is on the face of the 1953 edition, not only the 1954 one. Paragraph 8 provides that raw information may be furnished to a public information officer 'except names of principals, Air Force comments, details of intercept procedures involved, and classified radar data', and that what is releasable ends at 'The fact that the object has been conclusively identified by ATIC as a conventional aerial device or other familiar object and no further evaluation is contemplated.' Identified cases could be discussed publicly; unidentified ones could not.",
+   "tier": 1
+  },
+  "c-052ced78a2": {
+   "id": "c-052ced78a2",
+   "kind": "claim",
+   "node": "allen-w-dulles",
+   "nodeLabel": "Allen W. Dulles",
+   "source": {
+    "domain": "archive.org",
+    "text": "Executive Registry notes filed with CIA-RDP80B01676R001000160044-8 and -045-7, https://archive.org/details/cia-readingroom-document-cia-rdp80b01676r001000160045-7",
+    "url": "https://archive.org/details/cia-readingroom-document-cia-rdp80b01676r001000160045-7"
+   },
+   "text": "Each of the three letters is a rewrite of an earlier version that was withdrawn. A note to the Executive Registry filed with two of them reads: 'Please note that the attached letter ... was not sent out, but was rewritten as of 13 March 1953 (copy attached).' The letters themselves carry the stamp 'REWRITTEN 13 March 1953'.",
+   "tier": 1
+  },
+  "c-07c75f83a2": {
+   "id": "c-07c75f83a2",
+   "kind": "claim",
+   "node": "robertson-panel",
+   "nodeLabel": "Robertson Panel",
+   "source": {
+    "domain": null,
+    "text": "Durant memorandum, 16 Feb 1953",
+    "url": null
+   },
+   "text": "The panel reviewed a curated selection of cases over four days and roughly twelve hours of formal session, then issued conclusions covering seventeen years of accumulated reporting.",
+   "tier": 2
+  },
+  "c-0e414fdc95": {
+   "id": "c-0e414fdc95",
+   "kind": "claim",
+   "node": "frederick-durant",
+   "nodeLabel": "Frederick C. Durant III",
+   "source": {
+    "domain": null,
+    "text": "Durant memorandum, 16 Feb 1953, CIA Office of Scientific Intelligence",
+    "url": null
+   },
+   "text": "Durant's 16 February 1953 memorandum to the Assistant Director for Scientific Intelligence is the primary record of the Robertson Panel's proceedings.",
+   "tier": 1
+  },
+  "c-10d8c49dd2": {
+   "id": "c-10d8c49dd2",
+   "kind": "claim",
+   "node": "h-marshall-chadwell",
+   "nodeLabel": "H. Marshall Chadwell",
+   "source": {
+    "domain": null,
+    "text": "Gerald K. Haines, 'A Die-hard Issue: CIA's Role in the Study of UFOs, 1947-1990', Studies in Intelligence, 1997",
+    "url": null
+   },
+   "text": "'In January 1953, Chadwell and H. P. Robertson... put together a distinguished panel of nonmilitary scientists to study the UFO issue.'",
+   "tier": 1
+  },
+  "c-20612fa9e1": {
+   "id": "c-20612fa9e1",
+   "kind": "claim",
+   "node": "haines-cia-history",
+   "nodeLabel": "A Die-hard Issue: CIA's Role in the Study of UFOs, 1947-1990",
+   "source": {
+    "domain": null,
+    "text": "Haines, Studies in Intelligence, 1997",
+    "url": null
+   },
+   "text": "'This led the Air Force to make misleading and deceptive statements to the public in order to allay public fears and to protect an extraordinarily sensitive national security project.'",
+   "tier": 1
+  },
+  "c-20c3529e46": {
+   "id": "c-20c3529e46",
+   "kind": "claim",
+   "node": "haines-cia-history",
+   "nodeLabel": "A Die-hard Issue: CIA's Role in the Study of UFOs, 1947-1990",
+   "source": {
+    "domain": null,
+    "text": "Inference from the stated date range 'late 1950s through the 1960s' against the 1947-1969 Blue Book corpus",
+    "url": null
+   },
+   "text": "The U-2/OXCART claim accounts for at most half of the reports by CIA's own framing, and cannot apply to the 1947-1954 period at all, so it does not address the unexplained residue it is customarily used to dismiss.",
+   "tier": 3
+  },
+  "c-2142c97d03": {
+   "id": "c-2142c97d03",
+   "kind": "claim",
+   "node": "cia",
+   "nodeLabel": "Central Intelligence Agency",
+   "source": {
+    "domain": null,
+    "text": "CIA Center for the Study of Intelligence, Studies in Intelligence 1997",
+    "url": null
+   },
+   "text": "CIA's in-house historian Gerald K. Haines published 'CIA's Role in the Study of UFOs, 1947-1990' in Studies in Intelligence in 1997, an eighteen-page account acknowledging the Agency's Office of Scientific Intelligence effort and the Robertson Panel.",
+   "tier": 1
+  },
+  "c-2e534128e5": {
+   "id": "c-2e534128e5",
+   "kind": "claim",
+   "node": "pursue-release-05",
+   "nodeLabel": "PURSUE Release 05",
+   "source": {
+    "domain": null,
+    "text": "Inference from the released 1953 Navy PIC document against the January 1953 Robertson Panel disposition of the Great Falls and Tremonton films",
+    "url": null
+   },
+   "text": "The 1953 Navy PIC assessment is the strongest affirmative government technical finding in the PURSUE corpus, and its 2026 release by the Department of War establishes that a positive analytic conclusion existed inside the Navy at the exact moment the Robertson Panel was concluding the opposite about the same films.",
+   "tier": 3
+  },
+  "c-3ff0406dab": {
+   "id": "c-3ff0406dab",
+   "kind": "claim",
+   "node": "walter-bedell-smith",
+   "nodeLabel": "Walter Bedell Smith",
+   "source": {
+    "domain": "archive.org",
+    "text": "H. Marshall Chadwell, Memorandum for Director of Central Intelligence, subject: Unidentified Flying Objects, 2 December 1952, CIA document C00015340, para. 1, https://archive.org/details/cia-readingroom-document-0005515935",
+    "url": "https://archive.org/details/cia-readingroom-document-0005515935"
+   },
+   "text": "Smith personally started the intelligence-community effort. Chadwell's 2 December 1952 memorandum to the DCI opens: 'On 20 August, the DCI, after a briefing by OSI on the above subject, directed the preparation of an NSCID for submission to the Council stating the need for investigation and directing agencies concerned to cooperate in such investigations.'",
+   "tier": 1
+  },
+  "c-44158d9b9a": {
+   "id": "c-44158d9b9a",
+   "kind": "claim",
+   "node": "robertson-panel",
+   "nodeLabel": "Robertson Panel",
+   "source": {
+    "domain": null,
+    "text": "Robertson Panel report, Recommendations",
+    "url": null
+   },
+   "text": "The panel recommended a public education programme with 'training' and 'debunking' aims, to be accomplished 'by mass media such as television, motion pictures, and popular articles'.",
+   "tier": 1
+  },
+  "c-47c5c94dcc": {
+   "id": "c-47c5c94dcc",
+   "kind": "claim",
+   "node": "walter-bedell-smith",
+   "nodeLabel": "Walter Bedell Smith",
+   "source": {
+    "domain": "archive.org",
+    "text": "Draft Memorandum to the Executive Secretary, National Security Council, subject: Unidentified Flying Objects (Flying Saucers), attached to CIA document C00015340, 2 December 1952, para. 2, https://archive.org/details/cia-readingroom-document-0005515935",
+    "url": "https://archive.org/details/cia-readingroom-document-0005515935"
+   },
+   "text": "A memorandum to the National Security Council was drafted over his name proposing research, not exploitation: 'It is my view that this situation has possible implications for our national security which transcend the interests of a single service. A broader, coordinated effort should be initiated to develop a firm scientific understanding of the several phenomena which apparently are involved in these reports, and to assure ourselves that the incidents will not hamper our present efforts in the Cold War or confuse our early warning system in case of an attack.' The typed signature block reads 'Walter B. Smith / Director'.",
+   "tier": 1
+  },
+  "c-5884851555": {
+   "id": "c-5884851555",
+   "kind": "claim",
+   "node": "afr-200-2",
+   "nodeLabel": "Air Force Regulation 200-2",
+   "source": {
+    "domain": null,
+    "text": "Inference from the January 1953 panel recommendations against the August 1953 and August 1954 regulation editions",
+    "url": null
+   },
+   "text": "AFR 200-2 is the Robertson Panel's debunking recommendation converted into binding internal law seven months after the panel reported.",
+   "tier": 3
+  },
+  "c-5d9a16ee49": {
+   "id": "c-5d9a16ee49",
+   "kind": "claim",
+   "node": "howard-p-robertson",
+   "nodeLabel": "Howard P. Robertson",
+   "source": {
+    "domain": null,
+    "text": "Robertson Panel report, membership list",
+    "url": null
+   },
+   "text": "Panel membership was Robertson (chair, Caltech), Luis W. Alvarez, Lloyd V. Berkner, Samuel A. Goudsmit and Thornton Page, with Frederick C. Durant as secretary.",
+   "tier": 1
+  },
+  "c-64b1775fba": {
+   "id": "c-64b1775fba",
+   "kind": "claim",
+   "node": "pursue-release-05",
+   "nodeLabel": "PURSUE Release 05",
+   "source": {
+    "domain": null,
+    "text": "EarthSky, 10 August 2026, quoting the released 1953 document",
+    "url": null
+   },
+   "text": "A 1953 Navy Photographic Interpretation Center analysis of the 1950 Montana and 1952 Utah films assessed the objects as 'self-luminous, intelligently controlled' and inconsistent with 'natural phenomena or commonly known aerospace technologies' after over 1,000 hours of analysis.",
+   "tier": 2
+  },
+  "c-66c16c22d5": {
+   "id": "c-66c16c22d5",
+   "kind": "claim",
+   "node": "haines-cia-history",
+   "nodeLabel": "A Die-hard Issue: CIA's Role in the Study of UFOs, 1947-1990",
+   "source": {
+    "domain": null,
+    "text": "Haines, 'CIA's Role in the Study of UFOs, 1947-90'",
+    "url": null
+   },
+   "text": "CIA's Deputy Assistant Director of OSI, Philip Strong, refused to declassify the Robertson Panel report and 'the Agency prepared a sanitized version of the report which deleted any reference to CIA and avoided mention of any psychological warfare potential in the UFO controversy.'",
+   "tier": 1
+  },
+  "c-6b1486cc90": {
+   "id": "c-6b1486cc90",
+   "kind": "claim",
+   "node": "navy-pic-1953-film-analysis",
+   "nodeLabel": "1953 Navy Photographic Interpretation Center analysis of the Great Falls and Tremonton films",
+   "source": {
+    "domain": null,
+    "text": "Inference from the released 1953 Navy PIC assessment against the documented Robertson Panel recommendations on the Great Falls and Tremonton films",
+    "url": null
+   },
+   "text": "The Navy PIC finding and the Robertson Panel's January 1953 disposition of the same films are irreconcilable, and the panel's recommendation prevailed as policy for seventy-three years while the Navy's affirmative finding stayed unpublished.",
+   "tier": 3
+  },
+  "c-77087802ba": {
+   "id": "c-77087802ba",
+   "kind": "claim",
+   "node": "haines-cia-history",
+   "nodeLabel": "A Die-hard Issue: CIA's Role in the Study of UFOs, 1947-1990",
+   "source": {
+    "domain": null,
+    "text": "Gerald K. Haines, 'A Die-hard Issue: CIA's Role in the Study of UFOs, 1947-1990', Studies in Intelligence, 1997",
+    "url": null
+   },
+   "text": "'CIA officials wanted knowledge of any Agency interest in the subject of flying saucers carefully restricted, noting not only that the Robertson panel report was classified but also that any mention of CIA sponsorship of the panel was forbidden.'",
+   "tier": 1
+  },
+  "c-78c62731fa": {
+   "id": "c-78c62731fa",
+   "kind": "claim",
+   "node": "howard-p-robertson",
+   "nodeLabel": "Howard P. Robertson",
+   "source": {
+    "domain": null,
+    "text": "Robertson Panel report; corroborated in Haines, CIA Studies in Intelligence, 1997",
+    "url": null
+   },
+   "text": "The panel canvassed the Walt Disney organisation and the US Navy Special Devices Center as vehicles for producing the debunking material.",
+   "tier": 1
+  },
+  "c-7abf75a351": {
+   "id": "c-7abf75a351",
+   "kind": "claim",
+   "node": "howard-p-robertson",
+   "nodeLabel": "Howard P. Robertson",
+   "source": {
+    "domain": null,
+    "text": "Robertson Panel report, Recommendations",
+    "url": null
+   },
+   "text": "The panel recommended a public education programme with 'training' and 'debunking' aims, stating 'this education could be accomplished by mass media such as television, motion pictures, and popular articles.'",
+   "tier": 1
+  },
+  "c-7f61a286bd": {
+   "id": "c-7f61a286bd",
+   "kind": "claim",
+   "node": "allen-w-dulles",
+   "nodeLabel": "Allen W. Dulles",
+   "source": {
+    "domain": "archive.org",
+    "text": "Allen W. Dulles to the Secretary of Defense, 13 March 1953, SECRET / Security Information, CIA-RDP80B01676R001000160043-9, https://archive.org/details/cia-readingroom-document-cia-rdp80b01676r001000160043-9",
+    "url": "https://archive.org/details/cia-readingroom-document-cia-rdp80b01676r001000160043-9"
+   },
+   "text": "The same letters distance the Agency from the subject in the same breath: 'Although this Agency does not consider problems arising from sightings of \"flying saucers\" primarily its concern, we shall be pleased to assist in any appropriate action that you deem advisable.'",
+   "tier": 1
+  },
+  "c-80237994c7": {
+   "id": "c-80237994c7",
+   "kind": "claim",
+   "node": "cia",
+   "nodeLabel": "Central Intelligence Agency",
+   "source": {
+    "domain": null,
+    "text": "Robertson Panel report, declassified text, 17 January 1953",
+    "url": null
+   },
+   "text": "The Robertson Panel, convened by CIA in January 1953 under H. P. Robertson, recommended a programme of public education and debunking to strip UFOs of their 'aura of mystery', and the monitoring of civilian UFO groups because of their 'potentially great influence on mass thinking'.",
+   "tier": 1
+  },
+  "c-812509e640": {
+   "id": "c-812509e640",
+   "kind": "claim",
+   "node": "allen-w-dulles",
+   "nodeLabel": "Allen W. Dulles",
+   "source": {
+    "domain": "archive.org",
+    "text": "Allen W. Dulles to Jack Gorrie, National Security Resources Board, 13 March 1953, CIA-RDP80B01676R001000160044-8, https://archive.org/details/cia-readingroom-document-cia-rdp80b01676r001000160044-8",
+    "url": "https://archive.org/details/cia-readingroom-document-cia-rdp80b01676r001000160044-8"
+   },
+   "text": "The letters attribute the Robertson Panel to his predecessor by name: 'This panel was convened at the direction of General Smith, following the recommendation of the Intelligence Advisory Committee.'",
+   "tier": 1
+  },
+  "c-8f395c3411": {
+   "id": "c-8f395c3411",
+   "kind": "claim",
+   "node": "haines-cia-history",
+   "nodeLabel": "A Die-hard Issue: CIA's Role in the Study of UFOs, 1947-1990",
+   "source": {
+    "domain": null,
+    "text": "Haines, 'CIA's Role in the Study of UFOs, 1947-90'",
+    "url": null
+   },
+   "text": "'Air Force BLUE BOOK investigators aware of the secret U-2 flights tried to explain away such sightings by linking them to natural phenomena such as ice crystals and temperature inversions... They were careful, however, not to reveal the true cause of the sighting to the public.'",
+   "tier": 1
+  },
+  "c-9076a734d9": {
+   "id": "c-9076a734d9",
+   "kind": "claim",
+   "node": "h-marshall-chadwell",
+   "nodeLabel": "H. Marshall Chadwell",
+   "source": {
+    "domain": null,
+    "text": "Chadwell memorandum to Director of Central Intelligence, subject: Flying Saucers, 11 Sep 1952 (declassified CIA document sampler)",
+    "url": null
+   },
+   "text": "Chadwell wrote to the DCI on 11 September 1952 that 'the flying saucer situation contains two elements of danger which... have national security implications.'",
+   "tier": 1
+  },
+  "c-9433a9eae1": {
+   "id": "c-9433a9eae1",
+   "kind": "claim",
+   "node": "allen-w-dulles",
+   "nodeLabel": "Allen W. Dulles",
+   "source": {
+    "domain": "archive.org",
+    "text": "Allen W. Dulles, three letters of 13 March 1953, CIA-RDP80B01676R001000160043-9, -044-8 and -045-7, https://archive.org/details/cia-readingroom-document-cia-rdp80b01676r001000160043-9",
+    "url": "https://archive.org/details/cia-readingroom-document-cia-rdp80b01676r001000160043-9"
+   },
+   "text": "On 13 March 1953 Dulles forwarded the Robertson Panel report to three agencies over his own signature, describing it as pointing out 'certain potential dangers to national security which are related to the subject and suggest ways of their elimination.' The three addressees are the Secretary of Defense, the Acting Administrator of the Federal Civil Defense Administration and the Vice Chairman of the National Security Resources Board, which are exactly the three IAC-D-67 had proposed on 18 February 1953.",
+   "tier": 1
+  },
+  "c-9b0aa41588": {
+   "id": "c-9b0aa41588",
+   "kind": "claim",
+   "node": "pursue-r05-identifiers",
+   "nodeLabel": "PURSUE Release 05 file identifiers (7 August 2026)",
+   "source": {
+    "domain": "earthsky.org",
+    "text": "https://earthsky.org/human-world/pentagon-uap-files-batch-5-ufos-orbs-triangles/",
+    "url": "https://earthsky.org/human-world/pentagon-uap-files-batch-5-ufos-orbs-triangles/"
+   },
+   "text": "Release 05 comprises 41 files: 16 videos, 22 documents, 3 images, no audio.",
+   "tier": 1
+  },
+  "c-a4f9e7dfdd": {
+   "id": "c-a4f9e7dfdd",
+   "kind": "claim",
+   "node": "h-marshall-chadwell",
+   "nodeLabel": "H. Marshall Chadwell",
+   "source": {
+    "domain": null,
+    "text": "CIA Office of Scientific Intelligence memoranda, September-December 1952",
+    "url": null
+   },
+   "text": "Chadwell proposed a study group to analyse and systematise the factors, determine fields requiring investigation and make research recommendations, suggesting MIT's Project Lincoln or Caltech.",
+   "tier": 1
+  },
+  "c-b76406bf81": {
+   "id": "c-b76406bf81",
+   "kind": "claim",
+   "node": "cia",
+   "nodeLabel": "Central Intelligence Agency",
+   "source": {
+    "domain": null,
+    "text": "Inference from Haines, 'CIA's Role in the Study of UFOs, 1947-1990'",
+    "url": null
+   },
+   "text": "CIA's stated U-2/OXCART explanation is an admission of deliberate false attribution: the Agency states that it knew a substantial fraction of reports were its own aircraft and permitted the Air Force to issue natural-phenomena explanations instead. Reasoning: the explanation only works if the Agency withheld the true cause from the public explanation channel it was coordinating with.",
+   "tier": 3
+  },
+  "c-c5a08a40b0": {
+   "id": "c-c5a08a40b0",
+   "kind": "claim",
+   "node": "pursue-r05-identifiers",
+   "nodeLabel": "PURSUE Release 05 file identifiers (7 August 2026)",
+   "source": {
+    "domain": "earthsky.org",
+    "text": "https://earthsky.org/human-world/pentagon-uap-files-batch-5-ufos-orbs-triangles/",
+    "url": "https://earthsky.org/human-world/pentagon-uap-files-batch-5-ufos-orbs-triangles/"
+   },
+   "text": "Identified files include DOW-UAP-PR122 (Gulf of Oman, 8 Sept 2021), DOW-UAP-D101 (Gulf of Oman intelligence report), DOW-UAP-PR134 (Middle East orb, 1 Jan 2025), DOW-UAP-D098 (1953 analysis of the Montana/Utah cases), FBI-UAP-D031 (Colorado Springs triangle, Oct 2023), FBI-UAP-D025 (Bagram triangle, June 2002), DOS-UAP-D002 (Brazil diplomatic cable, Nov 1963) and EOP-UAP-D001 (Brazil incident report, Nov 1963).",
+   "tier": 1
+  },
+  "c-c88d9b880b": {
+   "id": "c-c88d9b880b",
+   "kind": "claim",
+   "node": "walter-bedell-smith",
+   "nodeLabel": "Walter Bedell Smith",
+   "source": {
+    "domain": "archive.org",
+    "text": "Allen W. Dulles to the Secretary of Defense, 13 March 1953, SECRET, CIA-RDP80B01676R001000160043-9, https://archive.org/details/cia-readingroom-document-cia-rdp80b01676r001000160043-9",
+    "url": "https://archive.org/details/cia-readingroom-document-cia-rdp80b01676r001000160043-9"
+   },
+   "text": "The CIA attributed the Robertson Panel to him in writing. Allen W. Dulles, transmitting the panel report on 13 March 1953: 'This panel was convened at the direction of General Smith, following the recommendation of the Intelligence Advisory Committee.'",
+   "tier": 1
+  },
+  "c-c9eabdbf9d": {
+   "id": "c-c9eabdbf9d",
+   "kind": "claim",
+   "node": "robertson-panel",
+   "nodeLabel": "Robertson Panel",
+   "source": {
+    "domain": null,
+    "text": "Robertson Panel report; Haines, CIA Studies in Intelligence 1997",
+    "url": null
+   },
+   "text": "The panel canvassed the Disney organisation and the US Navy Special Devices Center for production of debunking material and recommended monitoring civilian UFO organisations.",
+   "tier": 1
+  },
+  "c-ccaabd95db": {
+   "id": "c-ccaabd95db",
+   "kind": "claim",
+   "node": "howard-p-robertson",
+   "nodeLabel": "Howard P. Robertson",
+   "source": {
+    "domain": null,
+    "text": "Durant memorandum, 16 Feb 1953, recording the schedule of proceedings",
+    "url": null
+   },
+   "text": "The panel reviewed only a curated case selection over roughly twelve hours of formal session across four days.",
+   "tier": 2
+  },
+  "c-d2181b6e8b": {
+   "id": "c-d2181b6e8b",
+   "kind": "claim",
+   "node": "pursue-release-05",
+   "nodeLabel": "PURSUE Release 05",
+   "source": {
+    "domain": null,
+    "text": "war.gov/UFO, accessed 12 August 2026",
+    "url": null
+   },
+   "text": "The war.gov portal lists Release 05 dated 7 August 2026 with a 130MB document bundle and a 513MB video bundle, spanning 1953 to 2026.",
+   "tier": 1
+  },
+  "c-d38fd72d69": {
+   "id": "c-d38fd72d69",
+   "kind": "claim",
+   "node": "walter-bedell-smith",
+   "nodeLabel": "Walter Bedell Smith",
+   "source": {
+    "domain": "archive.org",
+    "text": "H. Marshall Chadwell, Memorandum to Director of Central Intelligence, subject: Flying Saucers, 2 October 1952, CIA document C00015339, para. 4 and routing page, https://archive.org/details/cia-readingroom-document-0005515933",
+    "url": "https://archive.org/details/cia-readingroom-document-0005515933"
+   },
+   "text": "He is named as the approving authority on the recommendation that the DCI take the subject to the Psychological Strategy Board, and on the released copy the approval was never recorded. The 2 October 1952 routing page reads 'ACTION BY APPROVING AUTHORITY: Date: ____ Approved (disapproved): ____ WALTER B. SMITH, Director'; both lines are blank. The recommendation itself is action (b): 'That the DCI discuss this subject with the Psychological Strategy Board. A memorandum to the Director, Psychological Strategy Board, is attached for signature as TAB C.'",
+   "tier": 1
+  },
+  "c-d82372d643": {
+   "id": "c-d82372d643",
+   "kind": "claim",
+   "node": "robertson-panel",
+   "nodeLabel": "Robertson Panel",
+   "source": {
+    "domain": null,
+    "text": "Gerald K. Haines, 'A Die-hard Issue: CIA's Role in the Study of UFOs, 1947-1990', Studies in Intelligence, 1997",
+    "url": null
+   },
+   "text": "'CIA officials wanted knowledge of any Agency interest in the subject of flying saucers carefully restricted, noting not only that the Robertson panel report was classified but also that any mention of CIA sponsorship of the panel was forbidden.'",
+   "tier": 1
+  },
+  "c-de9afdb635": {
+   "id": "c-de9afdb635",
+   "kind": "claim",
+   "node": "haines-cia-history",
+   "nodeLabel": "A Die-hard Issue: CIA's Role in the Study of UFOs, 1947-1990",
+   "source": {
+    "domain": null,
+    "text": "Haines, Studies in Intelligence, 1997",
+    "url": null
+   },
+   "text": "'According to later estimates from CIA officials who worked on the U-2 project and the OXCART (SR-71, or Blackbird) project, over half of all UFO reports from the late 1950s through the 1960s were accounted for by manned reconnaissance flights.'",
+   "tier": 1
+  },
+  "c-deb08bc110": {
+   "id": "c-deb08bc110",
+   "kind": "claim",
+   "node": "navy-pic-1953-film-analysis",
+   "nodeLabel": "1953 Navy Photographic Interpretation Center analysis of the Great Falls and Tremonton films",
+   "source": {
+    "domain": null,
+    "text": "EarthSky, 10 August 2026, quoting the document released in PURSUE Release 05",
+    "url": null
+   },
+   "text": "A 1953 Navy Photographic Interpretation Center analysis of the 1950 Montana and 1952 Utah films assessed the Utah objects, after over 1,000 hours of analysis, as 'bright, silvery reflective disks' that were 'self-luminous, intelligently controlled' and inconsistent with 'natural phenomena or commonly known aerospace technologies.'",
+   "tier": 2
+  },
+  "c-decd947291": {
+   "id": "c-decd947291",
+   "kind": "claim",
+   "node": "haines-cia-history",
+   "nodeLabel": "A Die-hard Issue: CIA's Role in the Study of UFOs, 1947-1990",
+   "source": {
+    "domain": "www.nicap.org",
+    "text": "Gerald K. Haines, 'CIA's Role in the Study of UFOs, 1947-90', Studies in Intelligence, mirrored full text, https://www.nicap.org/ciarole.htm",
+    "url": "https://www.nicap.org/ciarole.htm"
+   },
+   "text": "The article gives the Air Force's own unexplained residue as a falling figure: 'The percentage of what the Air Force considered unexplained UFO sightings fell to 5.9 percent in 1955 and to 4 percent in 1956.' On Area 52 (batch 07, file 04, 0:49:22) John Ramirez attributed to this article a figure of one in ten. The article does not carry that figure.",
+   "tier": 1
+  },
+  "c-e2e5a4d707": {
+   "id": "c-e2e5a4d707",
+   "kind": "claim",
+   "node": "haines-cia-history",
+   "nodeLabel": "A Die-hard Issue: CIA's Role in the Study of UFOs, 1947-1990",
+   "source": {
+    "domain": "www.nicap.org",
+    "text": "Gerald K. Haines, 'CIA's Role in the Study of UFOs, 1947-90', Studies in Intelligence, mirrored full text, https://www.nicap.org/ciarole.htm",
+    "url": "https://www.nicap.org/ciarole.htm"
+   },
+   "text": "The article states its own trigger: 'In late 1993, after being pressured by UFOlogists for the release of additional CIA information on UFOs, DCI R. James Woolsey ordered another review of all Agency files on UFOs.'",
+   "tier": 1
+  },
+  "c-e34c163c52": {
+   "id": "c-e34c163c52",
+   "kind": "claim",
+   "node": "howard-p-robertson",
+   "nodeLabel": "Howard P. Robertson",
+   "source": {
+    "domain": null,
+    "text": "Robertson Panel report, declassified text",
+    "url": null
+   },
+   "text": "The panel report is titled 'Report of Scientific Advisory Panel on Unidentified Flying Objects Convened by Office of Scientific Intelligence, CIA' and covers meetings of 14-18 January 1953.",
+   "tier": 1
+  },
+  "c-e82239d09d": {
+   "id": "c-e82239d09d",
+   "kind": "claim",
+   "node": "frederick-durant",
+   "nodeLabel": "Frederick C. Durant III",
+   "source": {
+    "domain": null,
+    "text": "Durant memorandum / Robertson Panel report text",
+    "url": null
+   },
+   "text": "The Durant record documents panel concern about 'the cultivation of a morbid national psychology in which skilful hostile propaganda could induce hysterical behavior' and recommends monitoring civilian UFO groups.",
+   "tier": 1
+  },
+  "c-f32fd55072": {
+   "id": "c-f32fd55072",
+   "kind": "claim",
+   "node": "robertson-panel",
+   "nodeLabel": "Robertson Panel",
+   "source": {
+    "domain": null,
+    "text": "Robertson Panel report, declassified text",
+    "url": null
+   },
+   "text": "The panel was convened by the CIA Office of Scientific Intelligence and met 14-18 January 1953; its report is titled 'Report of Scientific Advisory Panel on Unidentified Flying Objects Convened by Office of Scientific Intelligence, CIA'.",
+   "tier": 1
+  },
+  "c-f37b06ad1e": {
+   "id": "c-f37b06ad1e",
+   "kind": "claim",
+   "node": "frederick-durant",
+   "nodeLabel": "Frederick C. Durant III",
+   "source": {
+    "domain": null,
+    "text": "Haines, CIA Studies in Intelligence 1997, on the classification history of the panel record",
+    "url": null
+   },
+   "text": "The Durant Report circulated for years in redacted form before fuller text was released, obscuring the panel's media recommendations.",
+   "tier": 2
+  },
+  "c-f80620526d": {
+   "id": "c-f80620526d",
+   "kind": "claim",
+   "node": "h-marshall-chadwell",
+   "nodeLabel": "H. Marshall Chadwell",
+   "source": {
+    "domain": null,
+    "text": "Same CIA 1952 memoranda series",
+    "url": null
+   },
+   "text": "CIA recorded that during July 1952 alone official reports of unidentified aerial phenomena totalled 250.",
+   "tier": 1
+  },
+  "e-053e6d6bd3": {
+   "endpoints": [
+    {
+     "id": "pursue-r05-identifiers",
+     "label": "PURSUE Release 05 file identifiers (7 August 2026)"
+    },
+    {
+     "id": "navy-pic-1953-film-analysis",
+     "label": "1953 Navy Photographic Interpretation Center analysis of the Great Falls and Tremonton films"
+    }
+   ],
+   "id": "e-053e6d6bd3",
+   "kind": "edge",
+   "label": "published as DOW-UAP-D098",
+   "sources": [
+    {
+     "date": "2026-08-07",
+     "name": "EarthSky, PURSUE batch 5",
+     "url": "https://earthsky.org/human-world/pentagon-uap-files-batch-5-ufos-orbs-triangles/"
+    }
+   ],
+   "text": "The 1953 analysis of the Montana and Utah film cases carries the identifier DOW-UAP-D098 in the fifth tranche.",
+   "tier": 1,
+   "type": "custody"
+  },
+  "e-05f5b852b7": {
+   "endpoints": [
+    {
+     "id": "cia",
+     "label": "Central Intelligence Agency"
+    },
+    {
+     "id": "robertson-panel",
+     "label": "Robertson Panel"
+    }
+   ],
+   "id": "e-05f5b852b7",
+   "kind": "edge",
+   "label": "CIA convened and sponsored the panel, and concealed that sponsorship",
+   "sources": [
+    {
+     "date": "1997-01-01",
+     "name": "Haines, CIA's Role in the Study of UFOs, 1947-1990",
+     "url": "https://www.cia.gov/resources/csi/studies-in-intelligence/studies-in-intelligence-1997/cias-role-in-the-study-of-ufos-1947-1990/"
+    },
+    {
+     "date": "1953-01-17",
+     "name": "Robertson Panel report, Tab A of the Durant record (The Black Vault scan, CIA-RDP81R00560R000100030027-0)",
+     "url": "https://documents.theblackvault.com/documents/ufos/robertsonpanelreport.pdf"
+    }
+   ],
+   "text": "The panel was convened by the Office of Scientific Intelligence. The CIA's own history states that any mention of Agency sponsorship of the panel was forbidden.",
+   "tier": 1,
+   "type": "funding"
+  },
+  "e-0cc4acb08e": {
+   "endpoints": [
+    {
+     "id": "robertson-panel",
+     "label": "Robertson Panel"
+    },
+    {
+     "id": "afr-200-2",
+     "label": "Air Force Regulation 200-2"
+    }
+   ],
+   "id": "e-0cc4acb08e",
+   "kind": "edge",
+   "label": "Panel recommendations became binding Air Force regulation",
+   "sources": [
+    {
+     "date": "1954-08-12",
+     "name": "Archived: AFR 200-2, 12 August 1954 (Wayback 2026-05-21)",
+     "url": "https://web.archive.org/web/20260521101009/http://www.cufon.org/cufon/afr200-2.htm"
+    },
+    {
+     "date": "1953-01-17",
+     "name": "Robertson Panel report, Tab A of the Durant record (The Black Vault scan, CIA-RDP81R00560R000100030027-0)",
+     "url": "https://documents.theblackvault.com/documents/ufos/robertsonpanelreport.pdf"
+    }
+   ],
+   "text": "AFR 200-2 was issued 26 August 1953 and revised 12 August 1954, restricting public release on unexplained cases to the bare fact of ATIC analysis — the debunking recommendation converted into internal law within months of the panel reporting.",
+   "tier": 3,
+   "type": "programmatic"
+  },
+  "e-182fef211a": {
+   "endpoints": [
+    {
+     "id": "cia",
+     "label": "Central Intelligence Agency"
+    },
+    {
+     "id": "haines-cia-history",
+     "label": "A Die-hard Issue: CIA's Role in the Study of UFOs, 1947-1990"
+    }
+   ],
+   "id": "e-182fef211a",
+   "kind": "edge",
+   "label": "CIA published its own institutional history of its UFO role in 1997",
+   "sources": [
+    {
+     "date": "1997-01-01",
+     "name": "Haines, 'CIA's Role in the Study of UFOs, 1947-1990', Studies in Intelligence",
+     "url": "https://www.cia.gov/resources/csi/studies-in-intelligence/studies-in-intelligence-1997/cias-role-in-the-study-of-ufos-1947-1990/"
+    }
+   ],
+   "text": "Gerald K. Haines, the Agency's historian, published an eighteen-page account in Studies in Intelligence acknowledging the OSI effort, the Robertson Panel and the later U-2/OXCART attribution.",
+   "tier": 1,
+   "type": "research"
+  },
+  "e-1fcd561803": {
+   "endpoints": [
+    {
+     "id": "howard-p-robertson",
+     "label": "Howard P. Robertson"
+    },
+    {
+     "id": "robertson-panel",
+     "label": "Robertson Panel"
+    }
+   ],
+   "id": "e-1fcd561803",
+   "kind": "edge",
+   "label": "Robertson chaired the panel",
+   "sources": [
+    {
+     "date": "1953-01-17",
+     "name": "Robertson Panel report, Tab A of the Durant record (The Black Vault scan, CIA-RDP81R00560R000100030027-0)",
+     "url": "https://documents.theblackvault.com/documents/ufos/robertsonpanelreport.pdf"
+    }
+   ],
+   "text": "Robertson, a Caltech physicist and CIA consultant who had directed the DoD Weapons Systems Evaluation Group, chaired the 14-18 January 1953 sessions and signed the report.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-337a4c9e5d": {
+   "endpoints": [
+    {
+     "id": "haines-cia-history",
+     "label": "A Die-hard Issue: CIA's Role in the Study of UFOs, 1947-1990"
+    },
+    {
+     "id": "robertson-panel",
+     "label": "Robertson Panel"
+    }
+   ],
+   "id": "e-337a4c9e5d",
+   "kind": "edge",
+   "label": "CIA refused declassification and issued a sanitised version of the Robertson Panel report",
+   "sources": [
+    {
+     "date": "1997-01-01",
+     "name": "Gerald K. Haines, 'CIA's Role in the Study of UFOs, 1947-90', Studies in Intelligence (CIA), archived copy",
+     "url": "https://www.theblackvault.com/documentarchive/cias-role-in-the-study-of-ufos-1947-90/"
+    }
+   ],
+   "text": "CIA 'prepared a sanitized version of the report which deleted any reference to CIA and avoided mention of any psychological warfare potential in the UFO controversy.'",
+   "tier": 1,
+   "type": "denial"
+  },
+  "e-3710978124": {
+   "endpoints": [
+    {
+     "id": "cia",
+     "label": "Central Intelligence Agency"
+    },
+    {
+     "id": "robertson-panel",
+     "label": "Robertson Panel"
+    }
+   ],
+   "id": "e-3710978124",
+   "kind": "edge",
+   "label": "CIA convened and staffed the January 1953 scientific advisory panel",
+   "sources": [
+    {
+     "date": "1953-01-17",
+     "name": "Robertson Panel report and Durant record (The Black Vault scan, CIA-RDP81R00560R000100030027-0)",
+     "url": "https://documents.theblackvault.com/documents/ufos/robertsonpanelreport.pdf"
+    },
+    {
+     "date": "1997-01-01",
+     "name": "Haines, 'CIA's Role in the Study of UFOs, 1947-1990', Studies in Intelligence",
+     "url": "https://www.cia.gov/resources/csi/studies-in-intelligence/studies-in-intelligence-1997/cias-role-in-the-study-of-ufos-1947-1990/"
+    }
+   ],
+   "text": "Convened by the Office of Scientific Intelligence under H. P. Robertson; the panel recommended debunking and the monitoring of civilian UFO groups.",
+   "tier": 1,
+   "type": "programmatic"
+  },
+  "e-452dd70252": {
+   "endpoints": [
+    {
+     "id": "pursue-release-05",
+     "label": "PURSUE Release 05"
+    },
+    {
+     "id": "navy-pic-1953-film-analysis",
+     "label": "1953 Navy Photographic Interpretation Center analysis of the Great Falls and Tremonton films"
+    }
+   ],
+   "id": "e-452dd70252",
+   "kind": "edge",
+   "label": "Released the 1953 Navy photo-interpretation finding",
+   "sources": [
+    {
+     "date": "2026-08-10",
+     "name": "EarthSky - 5th batch of Pentagon UAP files: orbs and triangles",
+     "url": "https://earthsky.org/human-world/pentagon-uap-files-batch-5-ufos-orbs-triangles/"
+    },
+    {
+     "date": "2026-08-07",
+     "name": "Department of War - PURSUE portal (war.gov/UFO)",
+     "url": "https://www.war.gov/UFO/"
+    }
+   ],
+   "text": "The Navy Photographic Interpretation Center's assessment that the Tremonton objects were self-luminous and intelligently controlled surfaced publicly for the first time in this tranche.",
+   "tier": 2,
+   "type": "custody"
+  },
+  "e-532901d7a2": {
+   "endpoints": [
+    {
+     "id": "edward-ruppelt",
+     "label": "Edward J. Ruppelt"
+    },
+    {
+     "id": "robertson-panel",
+     "label": "Robertson Panel"
+    }
+   ],
+   "id": "e-532901d7a2",
+   "kind": "edge",
+   "label": "Ruppelt attended the panel as Blue Book director and later described it",
+   "sources": [
+    {
+     "date": "1956-01-01",
+     "name": "Ruppelt, The Report on Unidentified Flying Objects",
+     "url": "https://www.gutenberg.org/ebooks/17346"
+    },
+    {
+     "date": "1953-01-17",
+     "name": "Robertson Panel report, Tab A of the Durant record (The Black Vault scan, CIA-RDP81R00560R000100030027-0)",
+     "url": "https://documents.theblackvault.com/documents/ufos/robertsonpanelreport.pdf"
+    }
+   ],
+   "text": "Ruppelt was present at the January 1953 sessions in his official capacity and published his account of the panel's function three years later.",
+   "tier": 2,
+   "type": "witness-chain"
+  },
+  "e-5622f47f71": {
+   "endpoints": [
+    {
+     "id": "haines-cia-history",
+     "label": "A Die-hard Issue: CIA's Role in the Study of UFOs, 1947-1990"
+    },
+    {
+     "id": "project-blue-book",
+     "label": "Project Blue Book"
+    }
+   ],
+   "id": "e-5622f47f71",
+   "kind": "edge",
+   "label": "Blue Book investigators knowingly issued false explanations for U-2 sightings",
+   "sources": [
+    {
+     "date": "1997-01-01",
+     "name": "Gerald K. Haines, 'CIA's Role in the Study of UFOs, 1947-90', Studies in Intelligence (CIA), archived copy",
+     "url": "https://www.theblackvault.com/documentarchive/cias-role-in-the-study-of-ufos-1947-90/"
+    }
+   ],
+   "text": "CIA records that Blue Book investigators aware of the secret U-2 flights attributed sightings to ice crystals and temperature inversions and 'were careful, however, not to reveal the true cause of the sighting to the public.'",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-69e7342db5": {
+   "endpoints": [
+    {
+     "id": "allen-w-dulles",
+     "label": "Allen W. Dulles"
+    },
+    {
+     "id": "robertson-panel",
+     "label": "Robertson Panel"
+    }
+   ],
+   "id": "e-69e7342db5",
+   "kind": "edge",
+   "label": "Forwarded the panel report while saying the subject was not primarily CIA's concern",
+   "sources": [
+    {
+     "date": "1953-03-13",
+     "name": "Allen W. Dulles to the Secretary of Defense, 13 March 1953",
+     "url": "https://archive.org/details/cia-readingroom-document-cia-rdp80b01676r001000160043-9"
+    }
+   ],
+   "text": "The same signed letter that calls the panel's conclusions a matter of potential danger to national security states that the Agency does not consider flying saucer sightings primarily its concern, ten weeks after CIA convened the panel.",
+   "tier": 1,
+   "type": "denial"
+  },
+  "e-6ecac0ea84": {
+   "endpoints": [
+    {
+     "id": "j-allen-hynek",
+     "label": "J. Allen Hynek"
+    },
+    {
+     "id": "robertson-panel",
+     "label": "Robertson Panel"
+    }
+   ],
+   "id": "e-6ecac0ea84",
+   "kind": "edge",
+   "label": "Hynek presented to the panel but was not a member",
+   "sources": [
+    {
+     "date": "1953-01-17",
+     "name": "Robertson Panel report, Tab A of the Durant record (The Black Vault scan, CIA-RDP81R00560R000100030027-0)",
+     "url": "https://documents.theblackvault.com/documents/ufos/robertsonpanelreport.pdf"
+    }
+   ],
+   "text": "The Air Force's scientific consultant briefed the CIA-convened panel; the formal membership was Robertson, Alvarez, Berkner, Goudsmit and Page.",
+   "tier": 2,
+   "type": "witness-chain"
+  },
+  "e-748a157dea": {
+   "endpoints": [
+    {
+     "id": "pentacle-memorandum",
+     "label": "The Pentacle Memorandum"
+    },
+    {
+     "id": "robertson-panel",
+     "label": "Robertson Panel"
+    }
+   ],
+   "id": "e-748a157dea",
+   "kind": "edge",
+   "label": "Written five days before the panel met; per Vallee the panel was never briefed on its proposals",
+   "sources": [
+    {
+     "date": "2026-08-12",
+     "name": "NICAP - The 'Pentacle' Memorandum (CUFON page)",
+     "url": "https://www.nicap.org/papers/Pentacle/pentacle.htm"
+    },
+    {
+     "date": "2012-02-18",
+     "name": "Bad UFOs analysis",
+     "url": "https://badufos.blogspot.com/2012/02/jacques-vallee-j-allen-hynek-and.html"
+    }
+   ],
+   "text": "Vallee's conclusion is that a separate group had already decided what the panel could and could not discuss - contractor-side predetermination of an official scientific review.",
+   "tier": 2,
+   "type": "denial"
+  },
+  "e-771646ed71": {
+   "endpoints": [
+    {
+     "id": "washington-flap-1952",
+     "label": "1952 Washington DC Sightings"
+    },
+    {
+     "id": "h-marshall-chadwell",
+     "label": "H. Marshall Chadwell"
+    }
+   ],
+   "id": "e-771646ed71",
+   "kind": "edge",
+   "label": "The flap put the CIA's science directorate onto the problem",
+   "sources": [
+    {
+     "date": "1952-09-11",
+     "name": "Archived: CUFON 1952 CIA document sampler (Wayback 2025-01-17)",
+     "url": "https://web.archive.org/web/20250117180016/https://www.cufon.org/cufon/cia-52-1.htm"
+    }
+   ],
+   "text": "Within weeks of the July 1952 sightings Chadwell was writing to the DCI that reports totalled 250 in July alone and that the situation carried national security implications.",
+   "tier": 1,
+   "type": "investigative"
+  },
+  "e-7b8076bb00": {
+   "endpoints": [
+    {
+     "id": "pursue-r05-identifiers",
+     "label": "PURSUE Release 05 file identifiers (7 August 2026)"
+    },
+    {
+     "id": "pursue-release-05",
+     "label": "PURSUE Release 05"
+    }
+   ],
+   "id": "e-7b8076bb00",
+   "kind": "edge",
+   "label": "file-level inventory",
+   "sources": [
+    {
+     "date": "2026-08-07",
+     "name": "EarthSky, PURSUE batch 5",
+     "url": "https://earthsky.org/human-world/pentagon-uap-files-batch-5-ufos-orbs-triangles/"
+    }
+   ],
+   "text": "41 files - 16 videos, 22 documents, 3 images - with identifiers spanning DOW, FBI, DOS and EOP originators.",
+   "tier": 1,
+   "type": "custody"
+  },
+  "e-7f2d88f3b4": {
+   "endpoints": [
+    {
+     "id": "haines-cia-history",
+     "label": "A Die-hard Issue: CIA's Role in the Study of UFOs, 1947-1990"
+    },
+    {
+     "id": "cia",
+     "label": "Central Intelligence Agency"
+    }
+   ],
+   "id": "e-7f2d88f3b4",
+   "kind": "edge",
+   "label": "CIA's own published history concedes the Air Force made deceptive public statements",
+   "sources": [
+    {
+     "date": "1997-01-01",
+     "name": "Gerald K. Haines, 'CIA's Role in the Study of UFOs, 1947-90', Studies in Intelligence (CIA), archived copy",
+     "url": "https://www.theblackvault.com/documentarchive/cias-role-in-the-study-of-ufos-1947-90/"
+    }
+   ],
+   "text": "'This led the Air Force to make misleading and deceptive statements to the public in order to allay public fears and to protect an extraordinarily sensitive national security project.'",
+   "tier": 1,
+   "type": "denial"
+  },
+  "e-814761da21": {
+   "endpoints": [
+    {
+     "id": "navy-pic-1953-film-analysis",
+     "label": "1953 Navy Photographic Interpretation Center analysis of the Great Falls and Tremonton films"
+    },
+    {
+     "id": "robertson-panel",
+     "label": "Robertson Panel"
+    }
+   ],
+   "id": "e-814761da21",
+   "kind": "edge",
+   "label": "Contradicts the panel's 1953 disposition of the same films",
+   "sources": [
+    {
+     "date": "2026-08-10",
+     "name": "EarthSky - 5th batch of Pentagon UAP files: orbs and triangles",
+     "url": "https://earthsky.org/human-world/pentagon-uap-files-batch-5-ufos-orbs-triangles/"
+    },
+    {
+     "date": "2026-08-12",
+     "name": "CIA FOIA Reading Room - UFOs: Fact or Fiction? collection",
+     "url": "https://www.cia.gov/readingroom/collection/ufos-fact-or-fiction"
+    }
+   ],
+   "text": "The Navy's own analysts assessed the Great Falls and Tremonton objects as intelligently controlled and not known technology in the same year the Robertson Panel recommended stripping the subject of special status.",
+   "tier": 3,
+   "type": "investigative"
+  },
+  "e-895ded2e05": {
+   "endpoints": [
+    {
+     "id": "walter-bedell-smith",
+     "label": "Walter Bedell Smith"
+    },
+    {
+     "id": "robertson-panel",
+     "label": "Robertson Panel"
+    }
+   ],
+   "id": "e-895ded2e05",
+   "kind": "edge",
+   "label": "Convened at his direction",
+   "sources": [
+    {
+     "date": "1953-03-13",
+     "name": "Allen W. Dulles to the Secretary of Defense, 13 March 1953",
+     "url": "https://archive.org/details/cia-readingroom-document-cia-rdp80b01676r001000160043-9"
+    }
+   ],
+   "text": "All three of Dulles's 13 March 1953 transmittal letters state that the panel 'was convened at the direction of General Smith, following the recommendation of the Intelligence Advisory Committee'.",
+   "tier": 1,
+   "type": "programmatic"
+  },
+  "e-9d8f49cf11": {
+   "endpoints": [
+    {
+     "id": "frederick-durant",
+     "label": "Frederick C. Durant III"
+    },
+    {
+     "id": "robertson-panel",
+     "label": "Robertson Panel"
+    }
+   ],
+   "id": "e-9d8f49cf11",
+   "kind": "edge",
+   "label": "Durant was panel secretary and wrote the proceedings record",
+   "sources": [
+    {
+     "date": "1953-02-16",
+     "name": "Robertson Panel report and Durant record (The Black Vault scan, CIA-RDP81R00560R000100030027-0)",
+     "url": "https://documents.theblackvault.com/documents/ufos/robertsonpanelreport.pdf"
+    }
+   ],
+   "text": "Durant's memorandum of 16 February 1953 to the Assistant Director for Scientific Intelligence is the only substantive record of what the panel actually discussed.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-a04a01d84a": {
+   "endpoints": [
+    {
+     "id": "h-marshall-chadwell",
+     "label": "H. Marshall Chadwell"
+    },
+    {
+     "id": "robertson-panel",
+     "label": "Robertson Panel"
+    }
+   ],
+   "id": "e-a04a01d84a",
+   "kind": "edge",
+   "label": "Chadwell assembled the panel with Robertson",
+   "sources": [
+    {
+     "date": "1997-01-01",
+     "name": "Haines, CIA's Role in the Study of UFOs, 1947-1990",
+     "url": "https://www.cia.gov/resources/csi/studies-in-intelligence/studies-in-intelligence-1997/cias-role-in-the-study-of-ufos-1947-1990/"
+    }
+   ],
+   "text": "The CIA's own official history states that in January 1953 Chadwell and H. P. Robertson put together the panel of nonmilitary scientists to study the UFO issue.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-cc7cf2ed28": {
+   "endpoints": [
+    {
+     "id": "walter-bedell-smith",
+     "label": "Walter Bedell Smith"
+    },
+    {
+     "id": "washington-flap-1952",
+     "label": "1952 Washington DC Sightings"
+    }
+   ],
+   "id": "e-cc7cf2ed28",
+   "kind": "edge",
+   "label": "His 20 August 1952 instruction follows the summer 1952 reporting wave",
+   "sources": [
+    {
+     "date": "1952-12-02",
+     "name": "CIA document C00015340, para. 1",
+     "url": "https://archive.org/details/cia-readingroom-document-0005515935"
+    }
+   ],
+   "text": "The DCI's direction to prepare an NSC intelligence directive is dated 20 August 1952 in Chadwell's own account, weeks after the Washington sightings, and Chadwell's October study rests on the reporting volume of that summer.",
+   "tier": 1,
+   "type": "temporal"
+  },
+  "e-fff68adc9a": {
+   "endpoints": [
+    {
+     "id": "h-marshall-chadwell",
+     "label": "H. Marshall Chadwell"
+    },
+    {
+     "id": "walter-bedell-smith",
+     "label": "Walter Bedell Smith"
+    }
+   ],
+   "id": "e-fff68adc9a",
+   "kind": "edge",
+   "label": "Chadwell's UFO memoranda were addressed to him and named him as approving authority",
+   "sources": [
+    {
+     "date": "1952-10-02",
+     "name": "CIA document C00015339, Chadwell to the DCI, 2 October 1952",
+     "url": "https://archive.org/details/cia-readingroom-document-0005515933"
+    },
+    {
+     "date": "1952-12-02",
+     "name": "Chadwell memorandum for the DCI, subject: Unidentified Flying Objects, 2 December 1952, with draft NSC memorandum and draft NSC directive (CIA C00015340)",
+     "url": "https://archive.org/details/cia-readingroom-document-0005515935"
+    }
+   ],
+   "text": "Both the 2 October and 2 December 1952 memoranda are addressed to the Director of Central Intelligence through the Deputy Director for Intelligence, and the October routing page names Walter B. Smith as the approving authority on the Psychological Strategy Board recommendation.",
+   "tier": 1,
+   "type": "institutional"
+  }
+ },
+ "claimed": [
+  {
+   "cite": [
+    "e-532901d7a2",
+    "e-6ecac0ea84"
+   ],
+   "text": "Ruppelt attended the sessions as Blue Book's director and published his account of the panel's function three years later; Hynek briefed the panel but was not a member."
+  },
+  {
+   "cite": [
+    "c-deb08bc110",
+    "c-64b1775fba",
+    "e-452dd70252"
+   ],
+   "text": "As quoted by EarthSky, the Navy Photographic Interpretation Center's 1953 analysis assessed the Utah objects, after over 1,000 hours of work, as \"bright, silvery reflective disks\" that were \"self-luminous, intelligently controlled\" and not consistent with natural phenomena or commonly known aerospace technologies."
+  },
+  {
+   "cite": [
+    "e-748a157dea"
+   ],
+   "text": "Jacques Vallee holds that the panel was never briefed on the proposals of the Pentacle memorandum, written five days before it met, and that another group had already decided what the panel could discuss."
+  },
+  {
+   "cite": [
+    "c-f37b06ad1e"
+   ],
+   "text": "Haines also records that the Durant report circulated for years in redacted form, which obscured the panel's media recommendations."
+  },
+  {
+   "cite": [
+    "c-6b1486cc90",
+    "e-814761da21",
+    "c-2e534128e5"
+   ],
+   "text": "On the board's reading, the Navy finding and the panel's disposition of the same films cannot both stand, and the panel's view prevailed as policy while the Navy's stayed unpublished until 2026. This is inference from the two documents."
+  },
+  {
+   "cite": [
+    "c-5884851555",
+    "e-0cc4acb08e",
+    "c-045c3b844c"
+   ],
+   "text": "The board also infers that AFR 200-2, issued on 26 August 1953 with its bar on releasing anything about unidentified cases beyond the fact of ATIC analysis, turned the panel's debunking recommendation into binding regulation."
+  },
+  {
+   "cite": [
+    "c-b76406bf81"
+   ],
+   "text": "The board reads the CIA's later U-2 explanation as an admission that the Agency knew many reports were its own aircraft and let the Air Force issue natural-phenomena explanations instead. That is the board's inference."
+  }
+ ],
+ "contested": [
+  {
+   "cite": [
+    "c-07c75f83a2",
+    "c-ccaabd95db"
+   ],
+   "text": "The panel's scope was narrow by its own secretary's record: a curated selection of cases over four days and roughly twelve hours of formal session."
+  },
+  {
+   "cite": [
+    "c-7f61a286bd",
+    "e-69e7342db5"
+   ],
+   "text": "Dulles's covering letters call the report a guide to potential dangers to national security and, in the same letter, say the Agency does not consider flying saucer sightings primarily its concern, ten weeks after the CIA convened the panel."
+  },
+  {
+   "cite": [
+    "c-d38fd72d69",
+    "c-47c5c94dcc"
+   ],
+   "text": "The record does not put a psychological-warfare proposal in Smith's own words: the Psychological Strategy Board recommendation is Chadwell's of 2 October 1952, left unapproved on the released copy, while the draft over Smith's name proposes a scientific research effort."
+  },
+  {
+   "cite": [
+    "c-de9afdb635",
+    "c-20c3529e46"
+   ],
+   "text": "The CIA's explanation for much of the later reporting is its own aircraft: later estimates by officials on the U-2 and OXCART projects attributed over half of all UFO reports from the late 1950s through the 1960s to manned reconnaissance flights. The board infers that, by the explanation's own dates, it cannot apply to the 1947 to 1954 period at all."
+  },
+  {
+   "cite": [
+    "c-decd947291"
+   ],
+   "text": "Haines gives the Air Force's unexplained share as falling to 5.9 per cent in 1955 and 4 per cent in 1956. John Ramirez attributed a figure of one in ten to the article on Area 52; the article does not carry it."
+  }
+ ],
+ "essays": [],
+ "focusEra": "0",
+ "id": "robertson-cia-1953",
+ "kind": "programme",
+ "lead": {
+  "cite": [
+   "c-f32fd55072",
+   "c-80237994c7",
+   "c-d82372d643"
+  ],
+  "text": "In January 1953 the CIA's Office of Scientific Intelligence convened a panel of scientists under H. P. Robertson, which recommended a programme of public education and debunking to strip UFOs of their aura of mystery, and the monitoring of civilian UFO groups. The CIA then forbade any mention that it had sponsored the panel."
+ },
+ "members": [
+  {
+   "cls": "program",
+   "id": "robertson-panel",
+   "label": "Robertson Panel",
+   "role": "subject"
+  },
+  {
+   "cls": "institution",
+   "id": "cia",
+   "label": "Central Intelligence Agency",
+   "role": "institution"
+  },
+  {
+   "cls": "person",
+   "id": "h-marshall-chadwell",
+   "label": "H. Marshall Chadwell",
+   "role": "official"
+  },
+  {
+   "cls": "person",
+   "id": "walter-bedell-smith",
+   "label": "Walter Bedell Smith",
+   "role": "official"
+  },
+  {
+   "cls": "person",
+   "id": "allen-w-dulles",
+   "label": "Allen W. Dulles",
+   "role": "official"
+  },
+  {
+   "cls": "person",
+   "id": "howard-p-robertson",
+   "label": "Howard P. Robertson",
+   "role": "researcher"
+  },
+  {
+   "cls": "person",
+   "id": "frederick-durant",
+   "label": "Frederick C. Durant III",
+   "role": "official"
+  },
+  {
+   "cls": "person",
+   "id": "edward-ruppelt",
+   "label": "Edward J. Ruppelt",
+   "role": "official"
+  },
+  {
+   "cls": "person",
+   "id": "j-allen-hynek",
+   "label": "J. Allen Hynek",
+   "role": "researcher"
+  },
+  {
+   "cls": "event",
+   "id": "washington-flap-1952",
+   "label": "1952 Washington DC Sightings",
+   "role": "event"
+  },
+  {
+   "cls": "document",
+   "id": "haines-cia-history",
+   "label": "A Die-hard Issue: CIA's Role in the Study of UFOs, 1947-1990",
+   "role": "document"
+  },
+  {
+   "cls": "document",
+   "id": "navy-pic-1953-film-analysis",
+   "label": "1953 Navy Photographic Interpretation Center analysis of the Great Falls and Tremonton films",
+   "role": "document"
+  },
+  {
+   "cls": "event",
+   "id": "pursue-release-05",
+   "label": "PURSUE Release 05",
+   "role": "event"
+  },
+  {
+   "cls": "document",
+   "id": "pursue-r05-identifiers",
+   "label": "PURSUE Release 05 file identifiers (7 August 2026)",
+   "role": "document"
+  },
+  {
+   "cls": "document",
+   "id": "pentacle-memorandum",
+   "label": "The Pentacle Memorandum",
+   "role": "document"
+  },
+  {
+   "cls": "document",
+   "id": "afr-200-2",
+   "label": "Air Force Regulation 200-2",
+   "role": "law"
+  },
+  {
+   "cls": "program",
+   "id": "project-blue-book",
+   "label": "Project Blue Book",
+   "role": "programme"
+  }
+ ],
+ "notes": "The CIA itself (degree 43) is not an anchor: a hub anchor would pull every CIA neighbour into this topic. The 1997 Haines history is the CIA's own account of the period.",
+ "questions": [
+  "Was any Disney production, or any Navy Special Devices Center film, ever commissioned on the panel's recommendation?",
+  "Did Walter Bedell Smith ever write the 1953 letter proposing to use the phenomenon for psychological warfare against the USSR that is sometimes attributed to him, or is that text Chadwell's?",
+  "Did the panel see the Navy Photographic Interpretation Center's analysis of the Great Falls and Tremonton films, and why did that analysis stay unpublished until 2026?",
+  "Was the panel ever briefed on the Pentacle proposals?",
+  "What did the first, withdrawn versions of Dulles's three letters of 13 March 1953 say?",
+  "What exactly did the panel itself conclude about the reports, in its own words, and does its report say they showed no direct threat to national security?",
+  "What did the unredacted Durant report contain that the long-circulating redacted version left out?"
+ ],
+ "record": [
+  {
+   "cite": [
+    "c-9076a734d9",
+    "c-f80620526d",
+    "c-a4f9e7dfdd",
+    "e-771646ed71"
+   ],
+   "text": "Chadwell's memorandum of 11 September 1952 to the DCI says the flying saucer situation contains two elements of danger with national security implications, and the same series records 250 official reports in July 1952. He proposed a study group to systematise the problem and recommend research, suggesting MIT's Project Lincoln or Caltech."
+  },
+  {
+   "cite": [
+    "c-3ff0406dab",
+    "c-47c5c94dcc"
+   ],
+   "text": "Chadwell's memorandum of 2 December 1952 records that on 20 August the DCI directed the preparation of an NSC intelligence directive. The draft memorandum to the NSC attached to it, over the typed signature of Walter B. Smith, proposes that \"A broader, coordinated effort should be initiated to develop a firm scientific understanding of the several phenomena\"."
+  },
+  {
+   "cite": [
+    "c-d38fd72d69",
+    "e-fff68adc9a"
+   ],
+   "text": "Chadwell's memorandum of 2 October 1952 recommends that the DCI discuss the subject with the Psychological Strategy Board. Its routing page names Smith as the approving authority, and on the released copy both the approval date and the approved or disapproved line are blank."
+  },
+  {
+   "cite": [
+    "c-10d8c49dd2",
+    "e-a04a01d84a",
+    "e-1fcd561803"
+   ],
+   "text": "The CIA's history states that in January 1953 Chadwell and Robertson put together the panel of nonmilitary scientists. Robertson, a Caltech physicist and CIA consultant who had directed the Defense Department's Weapons Systems Evaluation Group, chaired the sessions and signed the report."
+  },
+  {
+   "cite": [
+    "c-f32fd55072",
+    "c-7abf75a351"
+   ],
+   "text": "The report is titled Report of Scientific Advisory Panel on Unidentified Flying Objects Convened by Office of Scientific Intelligence, CIA. It recommends a public education programme with training and debunking aims, and says this education could be accomplished \"by mass media such as television, motion pictures, and popular articles.\""
+  },
+  {
+   "cite": [
+    "c-80237994c7",
+    "c-78c62731fa",
+    "e-3710978124"
+   ],
+   "text": "The report recommends monitoring civilian UFO groups because of their \"potentially great influence on mass thinking\", and the panel canvassed the Walt Disney organisation and the Navy Special Devices Center to produce the debunking material."
+  },
+  {
+   "cite": [
+    "c-0e414fdc95",
+    "c-e82239d09d",
+    "e-9d8f49cf11"
+   ],
+   "text": "Durant's memorandum of 16 February 1953 to the Assistant Director for Scientific Intelligence is the primary record of the proceedings. It documents the panel's concern about \"the cultivation of a morbid national psychology in which skilful hostile propaganda could induce hysterical behavior\"."
+  },
+  {
+   "cite": [
+    "c-9433a9eae1",
+    "c-812509e640",
+    "c-c88d9b880b",
+    "e-895ded2e05",
+    "c-052ced78a2"
+   ],
+   "text": "On 13 March 1953 Dulles sent the report to the Secretary of Defense, the Federal Civil Defense Administration and the National Security Resources Board, saying it pointed out certain potential dangers to national security. Each letter states that the panel was convened at the direction of General Smith, and each is a rewrite of an earlier version that was not sent."
+  },
+  {
+   "cite": [
+    "c-77087802ba",
+    "c-66c16c22d5",
+    "e-337a4c9e5d",
+    "e-05f5b852b7"
+   ],
+   "text": "The CIA's history records that officials wanted knowledge of any Agency interest carefully restricted, that any mention of CIA sponsorship of the panel was forbidden, and that when Philip Strong of OSI refused to declassify the report the Agency prepared a sanitised version that deleted any reference to the CIA and avoided mention of any psychological warfare potential."
+  },
+  {
+   "cite": [
+    "c-2142c97d03",
+    "c-e2e5a4d707",
+    "e-182fef211a"
+   ],
+   "text": "Haines's history, an eighteen-page account in Studies in Intelligence, was itself prompted by a review of all Agency UFO files that DCI R. James Woolsey ordered in late 1993 under pressure from ufologists."
+  },
+  {
+   "cite": [
+    "c-20612fa9e1",
+    "c-8f395c3411",
+    "e-7f2d88f3b4",
+    "e-5622f47f71"
+   ],
+   "text": "The same history states that the Air Force made misleading and deceptive statements to the public to protect an extraordinarily sensitive national security project, and that Blue Book investigators aware of the U-2 flights tried to explain such sightings away as natural phenomena without revealing the true cause."
+  },
+  {
+   "cite": [
+    "c-c5a08a40b0",
+    "e-053e6d6bd3",
+    "c-9b0aa41588",
+    "e-7b8076bb00",
+    "c-d2181b6e8b"
+   ],
+   "text": "A 1953 analysis of the Montana and Utah film cases was released on 7 August 2026 in PURSUE Release 05, a tranche of 41 files, under the identifier DOW-UAP-D098."
+  }
+ ],
+ "related": [
+  "blue-book",
+  "cia-secrecy-precedents",
+  "perception-management",
+  "civilian-groups",
+  "classification-orders",
+  "pursue-2026",
+  "official-explanations",
+  "denial-ledger",
+  "sign-estimate",
+  "aviation-cases"
+ ],
+ "section": "early-record",
+ "span": {
+  "from": "1952",
+  "to": "1953"
+ },
+ "status": "verified",
+ "summary": [
+  {
+   "cite": [
+    "c-f80620526d",
+    "c-3ff0406dab",
+    "c-9076a734d9",
+    "e-cc7cf2ed28"
+   ],
+   "text": "The panel grew out of the summer of 1952: the CIA counted 250 official reports in July alone, the Director of Central Intelligence, Walter Bedell Smith, ordered work towards a National Security Council directive on 20 August, and H. Marshall Chadwell of the Office of Scientific Intelligence told him in September that the situation had national security implications."
+  },
+  {
+   "cite": [
+    "c-e34c163c52",
+    "c-5d9a16ee49",
+    "e-532901d7a2",
+    "e-6ecac0ea84"
+   ],
+   "text": "It met from 14 to 18 January 1953 with Robertson in the chair and Luis W. Alvarez, Lloyd V. Berkner, Samuel A. Goudsmit and Thornton Page as members, and Frederick C. Durant as secretary. Blue Book's Edward Ruppelt and its consultant J. Allen Hynek attended."
+  },
+  {
+   "cite": [
+    "c-44158d9b9a",
+    "c-78c62731fa",
+    "c-c9eabdbf9d"
+   ],
+   "text": "Its recommendations were a public education programme with training and debunking aims, carried by mass media, with the Walt Disney organisation and the Navy Special Devices Center canvassed as producers, and the monitoring of civilian UFO groups."
+  },
+  {
+   "cite": [
+    "c-9433a9eae1",
+    "c-2142c97d03",
+    "c-c5a08a40b0",
+    "c-deb08bc110",
+    "c-6b1486cc90",
+    "c-d2181b6e8b"
+   ],
+   "text": "Allen W. Dulles, Smith's successor, forwarded the report to three agencies in March 1953. The CIA's own account of the period is Gerald K. Haines's 1997 history in Studies in Intelligence, and a 1953 analysis of the Montana and Utah film cases, which EarthSky reports as the Navy Photographic Interpretation Center's and which the board reads against the panel's handling of the same films, was released only on 7 August 2026."
+  }
+ ],
+ "title": "The CIA and the Robertson Panel, 1952-53"
+}

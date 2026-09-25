@@ -104,5 +104,23 @@
   {"id": "nation", "blurb": "a country's record"},
   {"id": "movement", "blurb": "media and civilian research"},
   {"id": "explainer", "blurb": "a concept or a method the reader needs, not a story (added in phase 4 for the domain nodes that become topics)"}
+ ],
+ "topicRoles": [
+  {"id": "subject", "blurb": "the thing the topic is about"},
+  {"id": "official", "blurb": "a person acting in an official post"},
+  {"id": "investigator", "blurb": "a person who investigated the subject, officially or not"},
+  {"id": "witness", "blurb": "a person who says they saw or handled something first hand"},
+  {"id": "claimant", "blurb": "a person who asserts something they did not witness"},
+  {"id": "critic", "blurb": "a person or body that disputes the claims"},
+  {"id": "researcher", "blurb": "a scientist or scholar working on the subject"},
+  {"id": "journalist", "blurb": "a reporter, broadcaster or publisher"},
+  {"id": "contractor", "blurb": "a company or its people working under government contract"},
+  {"id": "legislator", "blurb": "a member of a legislature or a committee acting as one"},
+  {"id": "document", "blurb": "a record: a report, a memo, a filing, a transcript"},
+  {"id": "law", "blurb": "a statute, an order or a regulation"},
+  {"id": "programme", "blurb": "an official or funded effort"},
+  {"id": "institution", "blurb": "an organisation or an office"},
+  {"id": "place", "blurb": "a location"},
+  {"id": "event", "blurb": "a dated happening: an incident, a hearing, a release"}
  ]
 }

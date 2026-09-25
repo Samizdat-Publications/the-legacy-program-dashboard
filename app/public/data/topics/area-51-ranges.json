@@ -1,0 +1,1892 @@
+{
+ "absorbs": [],
+ "anchors": [
+  "l-groom-lake",
+  "l-area51",
+  "l-nevada-test-site",
+  "l-tonopah",
+  "l-nellis",
+  "bechtel-nevada",
+  "groom-lake-presidential-determination",
+  "eg-and-g",
+  "northrop-tacit-blue",
+  "peter-merlin",
+  "richard-m-bissell-jr",
+  "cia-overhead-reconnaissance-history-1992"
+ ],
+ "appendixT": "area-51-ranges",
+ "cites": {
+  "c-048b3afad1": {
+   "id": "c-048b3afad1",
+   "kind": "claim",
+   "node": "richard-damato",
+   "nodeLabel": "Richard D'Amato",
+   "source": {
+    "domain": null,
+    "text": "George Knapp via Liberation Times, 28 February 2023",
+    "url": null
+   },
+   "text": "D'Amato privately regarded it as 'entirely feasible, that this UFO cover-up exists within a private company' such as Lockheed Martin, EG&G or Northrop Grumman. Reasoning: attributed by Knapp, consistent with D'Amato's SAP portfolio, but not stated by D'Amato himself on the record.",
+   "tier": 3
+  },
+  "c-0ae84a7acb": {
+   "id": "c-0ae84a7acb",
+   "kind": "claim",
+   "node": "eg-and-g",
+   "nodeLabel": "EG&G (Edgerton, Germeshausen and Grier)",
+   "source": {
+    "domain": null,
+    "text": "American Alchemy with Jesse Michels, 'UFO Crash Retrieval: Jake Barber's FIRSTHAND Account', published 30 January 2025, at 1:30:12",
+    "url": null
+   },
+   "text": "On American Alchemy with Jesse Michels, 30 January 2025, at 1:30:12, Jake Barber said that 'the senior EG&G engineer described to my great uncle that it was egg shaped about the size of an SUV', that the team 'tried to penetrate the hull, tried to open it, they couldn't', and that from very small samples of the material they concluded the isotope ratio or mixture of elements was not of terrestrial manufacture. The account reaches Barber through his great uncle and the engineer is not named.",
+   "tier": 2
+  },
+  "c-1120c2c050": {
+   "id": "c-1120c2c050",
+   "kind": "claim",
+   "node": "richard-m-bissell-jr",
+   "nodeLabel": "Richard M. Bissell Jr.",
+   "source": {
+    "domain": "archive.org",
+    "text": "Pedlow and Welzenbach, The Central Intelligence Agency and Overhead Reconnaissance: The U-2 and OXCART Programs, 1954-1974, CIA History Staff, 2013 release, https://archive.org/download/cia-readingroom-document-0000190094/0000190094_djvu.txt",
+    "url": "https://archive.org/download/cia-readingroom-document-0000190094/0000190094_djvu.txt"
+   },
+   "text": "Dulles gave him the U-2 project by hand: 'On 26 November 1954, the day after Thanksgiving, Allen Dulles called his special assistant, Richard Bissell, into his office to tell him that President Eisenhower had just approved a very secret program and that Dulles wanted Bissell to take charge of it.'",
+   "tier": 1
+  },
+  "c-1d84667900": {
+   "id": "c-1d84667900",
+   "kind": "claim",
+   "node": "eg-and-g",
+   "nodeLabel": "EG&G (Edgerton, Germeshausen and Grier)",
+   "source": {
+    "domain": "mgln.ai",
+    "text": "American Alchemy with Jesse Michels, 'NASA Doctor: I Saw A UFO Hovering In THIS Secret Hangar (Ft. Greg Rogers)', 31 August 2025, 0:46:20, https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL2173204669.mp3?updated=1757589247",
+    "url": "https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL2173204669.mp3?updated=1757589247"
+   },
+   "text": "On American Alchemy with Jesse Michels, 31 August 2025, at 0:46:20, Greg Rogers ruled EG&G out as the owner of the craft he describes at Cape Canaveral in 1992, naming instead 'something like Lockheed or Northrop, Boeing' or Raytheon, possibly in a consortium, and noting that Lockheed and Martin Marietta had not yet merged at that date. This is the same episode whose narration places EG&G at the centre of the story, and the two are recorded as they stand.",
+   "tier": 2
+  },
+  "c-211b359432": {
+   "id": "c-211b359432",
+   "kind": "claim",
+   "node": "cia-overhead-reconnaissance-history-1992",
+   "nodeLabel": "The Central Intelligence Agency and Overhead Reconnaissance: The U-2 and OXCART Programs, 1954-1974",
+   "source": {
+    "domain": null,
+    "text": "Danny Jones Podcast, ep. 415, 20 July 2026, 0:07:39 to 0:08:29, mapped at research/leads/dannyjones-corpus-09.md",
+    "url": null
+   },
+   "text": "On the Danny Jones Podcast, episode 415, 20 July 2026, at 0:07:39 to 0:08:29, TD Barnes said the CIA's Area 51 records went to Norton Air Force Base after the 1979 handover, were lost there, and that the Agency had to rebuild its own history from a crowdsourced website he helped create. The Agency's published history of those programmes contains no Norton Air Force Base, was completed in 1992, and states that it was built from CIA record sets and classified interviews.",
+   "tier": 2
+  },
+  "c-21a5c3bcb5": {
+   "id": "c-21a5c3bcb5",
+   "kind": "claim",
+   "node": "l-groom-lake",
+   "nodeLabel": "Groom Lake, Nevada",
+   "source": {
+    "domain": "archive.org",
+    "text": "The Lazar Tape, Tri-Dot Productions, 1991, captions at 2:07 and 27:16 via YouTube video kc10m6HFbDE, https://archive.org/details/antigravity , opened 2026-09-18",
+    "url": "https://archive.org/details/antigravity"
+   },
+   "text": "Bob Lazar's 1991 narration sites his claimed S-4 facility by reference to this place, 'approximately 15 miles south of the infamous Area 51 installation at Groom Lake', and says he was bussed from there to the claimed site. The claim is anchored geographically to a documented facility; that anchoring does not transfer the facility's documentation to the claim.",
+   "tier": 2
+  },
+  "c-242988dc58": {
+   "id": "c-242988dc58",
+   "kind": "claim",
+   "node": "fouche-military-documents",
+   "nodeLabel": "Edgar Fouche's Military, and DOD contractors reference Documents",
+   "source": {
+    "domain": "www.checktheevidence.com",
+    "text": "Edgar Fouche's Military, and DOD contractors reference Documents, page 1 image, https://www.checktheevidence.com/pdf/Edgar%20Fouches%20Military%20Documents.pdf , opened 2026-09-18",
+    "url": "https://www.checktheevidence.com/pdf/Edgar%20Fouches%20Military%20Documents.pdf"
+   },
+   "text": "THE 'SAC/DARPA CLASSIFIED DOCUMENT' CARRIES NO CLASSIFICATION MARKING. The page 1 image, rendered at 190 dpi and read, reads: 'DEPARTMENT OF THE AIR FORCE / HEADQUARTERS STRATEGIC AIR COMMAND / OFFUTT AIR FORCE BASE, NEBRASKA 68113 / 10 JUL 1984 / REPLY TO ATTN OF: DARPA / SUBJECT: Request for Assignment [redacted] MSgt Edgar A. Fouche, FR[redacted] (Your Ltr, 21 Jun 84) / TO: LGMQ / HQ AFMPC has approved an AAR 51[redacted] on MSgt (32674) Fouche as requested. MSgt Fouche's date of availability is Aug 87. / DALE E. HAGERMAN, TSgt, USAF / NCOIC, Amn Acft Maint Asgns Sec / Dir of Asgns, DCS/Pers', with a handwritten marginal note reading '(Controlled) 51 still accessable until' and the Strategic Air Command motto at the foot. There is no banner marking, no portion marking, no control number and no copy-of count anywhere on the page. It is signed by a technical sergeant in an assignments section of a personnel directorate.",
+   "tier": 1
+  },
+  "c-2632cbe98b": {
+   "id": "c-2632cbe98b",
+   "kind": "claim",
+   "node": "richard-m-bissell-jr",
+   "nodeLabel": "Richard M. Bissell Jr.",
+   "source": {
+    "domain": "archive.org",
+    "text": "Pedlow and Welzenbach, The Central Intelligence Agency and Overhead Reconnaissance: The U-2 and OXCART Programs, 1954-1974, CIA History Staff, 2013 release, https://archive.org/download/cia-readingroom-document-0000190094/0000190094_djvu.txt , chapter 2",
+    "url": "https://archive.org/download/cia-readingroom-document-0000190094/0000190094_djvu.txt"
+   },
+   "text": "Area 51 exists because he asked for it: 'Bissell and Miller asked the Atomic Energy Commission to add the Groom Lake area to its real estate holdings in Nevada. AEC Chairman Adm. Lewis Strauss readily agreed, and President Eisenhower also approved the addition of this strip of wasteland, known by its map designation as Area 51, to the Nevada Test Site.'",
+   "tier": 1
+  },
+  "c-266a6dbb9a": {
+   "id": "c-266a6dbb9a",
+   "kind": "claim",
+   "node": "alfred-odonnell",
+   "nodeLabel": "Alfred 'Al' O'Donnell",
+   "source": {
+    "domain": null,
+    "text": "George Knapp, reported by Christopher Sharp, Liberation Times, 28 February 2023",
+    "url": null
+   },
+   "text": "O'Donnell told Knapp that 'they did have a flying saucer that had been recovered from New Mexico' and that a 'live being' was recovered with it.",
+   "tier": 2
+  },
+  "c-36015ba3b6": {
+   "id": "c-36015ba3b6",
+   "kind": "claim",
+   "node": "northrop-tacit-blue",
+   "nodeLabel": "Northrop TACIT BLUE",
+   "source": {
+    "domain": "nsarchive2.gwu.edu",
+    "text": "U.S. Air Force Fact Sheet 'NORTHROP TACIT BLUE', https://nsarchive2.gwu.edu/NSAEBB/NSAEBB443/docs/area51_58.PDF , opened 2026-09-18",
+    "url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB443/docs/area51_58.PDF"
+   },
+   "text": "The same fact sheet: 'The aircraft made its first flight in February 1982, and by the conclusion of the program in 1985, had flown 135 times. It had a digital fly-by-wire flight control system to help stabilize the aircraft. Tacit Blue had a single flush inlet on the top of the fuselage to provide air to its two engines. The aircraft was placed on display at the museum in May 1996.'",
+   "tier": 1
+  },
+  "c-454fd802cc": {
+   "id": "c-454fd802cc",
+   "kind": "claim",
+   "node": "eg-and-g",
+   "nodeLabel": "EG&G (Edgerton, Germeshausen and Grier)",
+   "source": {
+    "domain": null,
+    "text": "Presidential Determinations published in the Federal Register, 1995-2000 and annually thereafter",
+    "url": null
+   },
+   "text": "Every President from 1995 signed an annual determination exempting 'the Air Force's Operating Location Near Groom Lake, Nevada' from disclosure requirements of federal environmental law on national security grounds.",
+   "tier": 1
+  },
+  "c-474202a7ff": {
+   "id": "c-474202a7ff",
+   "kind": "claim",
+   "node": "l-area51",
+   "nodeLabel": "Area 51 (Homey Airport / Groom Lake operating location)",
+   "source": {
+    "domain": null,
+    "text": "Inference from the acknowledgement chronology",
+    "url": null
+   },
+   "text": "Area 51's forty-three years of official non-existence is the strongest available demonstration that the United States can operate a large contractor-staffed installation entirely outside the acknowledged record. Reasoning: establishment 1955, USAF acknowledgement of existence 1998, specific-activity acknowledgement 2013, all documented.",
+   "tier": 3
+  },
+  "c-5462df1b17": {
+   "id": "c-5462df1b17",
+   "kind": "claim",
+   "node": "peter-merlin",
+   "nodeLabel": "Peter W. Merlin",
+   "source": {
+    "domain": "noriohayakawa.wordpress.com",
+    "text": "Peter Merlin, quoted in Norio Hayakawa, 19 March 2016, https://noriohayakawa.wordpress.com/2016/03/19/edgar-fouches-tr-3b-is-most-likely-a-hoax/ , opened 2026-09-18",
+    "url": "https://noriohayakawa.wordpress.com/2016/03/19/edgar-fouches-tr-3b-is-most-likely-a-hoax/"
+   },
+   "text": "On the aircraft photograph Fouche captioned 'Early static prototype of a very Top Secret F-117 at the very classified Groom AB. We called it Have Blue back then': 'This is not HAVE BLUE. It is the first YF-117A SENIOR TREND prototype.' Merlin adds that a former Lockheed employee he spoke with identified the man Fouche names as 'CMSgt. Billy Snodgrass' as 'Roy Wilson, structures mechanic'.",
+   "tier": 2
+  },
+  "c-57e9190bad": {
+   "id": "c-57e9190bad",
+   "kind": "claim",
+   "node": "wilson-davis-memo",
+   "nodeLabel": "The Wilson-Davis Notes (16 October 2002)",
+   "source": {
+    "domain": null,
+    "text": "The Wilson-Davis notes, 16 Oct 2002, in public circulation since 2019",
+    "url": null
+   },
+   "text": "The notes record Wilson describing a 1997 attempt to gain access to a special access programme holding recovered non-human material in contractor custody, and being refused on need-to-know grounds by a programme security officer, a contractor programme manager and a lawyer.",
+   "tier": 2
+  },
+  "c-632f3e1ff5": {
+   "id": "c-632f3e1ff5",
+   "kind": "claim",
+   "node": "alfred-odonnell",
+   "nodeLabel": "Alfred 'Al' O'Donnell",
+   "source": {
+    "domain": null,
+    "text": "CHRG-119hhrg61718, 9 September 2025",
+    "url": null
+   },
+   "text": "Knapp named O'Donnell to Congress as the 'first general manager of EG&G in Nevada, which managed the Nevada test site,' among the witnesses whose testimony underlies his reverse-engineering reporting.",
+   "tier": 2
+  },
+  "c-6af33d36cb": {
+   "id": "c-6af33d36cb",
+   "kind": "claim",
+   "node": "eg-and-g",
+   "nodeLabel": "EG&G (Edgerton, Germeshausen and Grier)",
+   "source": {
+    "domain": null,
+    "text": "Ninth Circuit opinion, 8 January 1998",
+    "url": null
+   },
+   "text": "Kasza v. Browner, 133 F.3d 1159 (9th Cir. 1998): claims arising from the Groom Lake facility were dismissed on state secrets and statutory exemption grounds; certiorari denied at 525 U.S. 967.",
+   "tier": 1
+  },
+  "c-727721fef0": {
+   "id": "c-727721fef0",
+   "kind": "claim",
+   "node": "s-4-papoose-lake",
+   "nodeLabel": "S-4 / Papoose Lake, Nevada",
+   "source": {
+    "domain": "archive.org",
+    "text": "The Lazar Tape and Excerpts from the Government Bible, Tri-Dot Productions, 1991, captions at 1:54, 24:24, 27:16 and 28:01 via YouTube video kc10m6HFbDE, https://archive.org/details/antigravity , opened 2026-09-18",
+    "url": "https://archive.org/details/antigravity"
+   },
+   "text": "THE CLAIM, in the claimant's own narration on the 1991 videotape: 'between December of 88 and April of 89' he worked at 'a facility at an area known as S4 on the Nellis Air Force range in central Nevada', 'approximately 15 miles south of the infamous Area 51 installation at Groom Lake'; 'The S4 installation is built into the mountain and the nine Hangar doors are angled at about 60 degrees'; he was bussed there from near 'the gro[o]m mountains in the groom[ ]dry lake bed from Area 51... to an even more highly secure' site; and he had 'at least partial views of nine different discs out at area S4'. Auto-generated captions, so wording is approximate.",
+   "tier": 2
+  },
+  "c-76384cbab4": {
+   "id": "c-76384cbab4",
+   "kind": "claim",
+   "node": "northrop-grumman",
+   "nodeLabel": "Northrop Grumman Corporation",
+   "source": {
+    "domain": null,
+    "text": "George Knapp via Liberation Times, 28 February 2023",
+    "url": null
+   },
+   "text": "Senate Appropriations investigator Richard D'Amato is reported to have considered it 'entirely feasible' that the cover-up sat inside a private company such as Lockheed Martin, EG&G or Northrop Grumman. Reasoning: reported at second hand by George Knapp; D'Amato's own public statement says the inquiry found nothing meriting further investigation.",
+   "tier": 3
+  },
+  "c-7bd8ff5d71": {
+   "id": "c-7bd8ff5d71",
+   "kind": "claim",
+   "node": "groom-lake-presidential-determination",
+   "nodeLabel": "Presidential Determinations on the Air Force's Operating Location Near Groom Lake",
+   "source": {
+    "domain": null,
+    "text": "Ninth Circuit opinion, 8 January 1998",
+    "url": null
+   },
+   "text": "Kasza v. Browner, 133 F.3d 1159 (9th Cir. 1998): claims concerning the Groom Lake facility dismissed; certiorari denied, 525 U.S. 967 (1998).",
+   "tier": 1
+  },
+  "c-7cca6a7b2d": {
+   "id": "c-7cca6a7b2d",
+   "kind": "claim",
+   "node": "fouche-military-documents",
+   "nodeLabel": "Edgar Fouche's Military, and DOD contractors reference Documents",
+   "source": {
+    "domain": "www.checktheevidence.com",
+    "text": "Edgar Fouche's Military, and DOD contractors reference Documents, 15 pages read in full, https://www.checktheevidence.com/pdf/Edgar%20Fouches%20Military%20Documents.pdf , opened 2026-09-18",
+    "url": "https://www.checktheevidence.com/pdf/Edgar%20Fouches%20Military%20Documents.pdf"
+   },
+   "text": "The compilation contains no discharge certificate, no DD Form 214, no security clearance record, no SF 86, no contract, no programme document and no drawing. Every item is a decoration, a training certificate, a performance report, a degree, or one personnel assignment letter.",
+   "tier": 1
+  },
+  "c-7cddcadc7e": {
+   "id": "c-7cddcadc7e",
+   "kind": "claim",
+   "node": "wilson-davis-memo",
+   "nodeLabel": "The Wilson-Davis Notes (16 October 2002)",
+   "source": {
+    "domain": null,
+    "text": "Thomas R. Wilson, statements to journalists, 2019 onward",
+    "url": null
+   },
+   "text": "Thomas R. Wilson denies that the meeting took place and denies the substance attributed to him.",
+   "tier": 2
+  },
+  "c-7fbcbbf34a": {
+   "id": "c-7fbcbbf34a",
+   "kind": "claim",
+   "node": "peter-merlin",
+   "nodeLabel": "Peter W. Merlin",
+   "source": {
+    "domain": "noriohayakawa.wordpress.com",
+    "text": "Peter Merlin, quoted between (QUOTE) and (UNQUOTE) markers in Norio Hayakawa, 'Edgar Fouche's TR-3B is most likely a hoax', 19 March 2016, https://noriohayakawa.wordpress.com/2016/03/19/edgar-fouches-tr-3b-is-most-likely-a-hoax/ , opened 2026-09-18",
+    "url": "https://noriohayakawa.wordpress.com/2016/03/19/edgar-fouches-tr-3b-is-most-likely-a-hoax/"
+   },
+   "text": "His general position, quoted verbatim: 'I have always been extremely skeptical of Fouche. Many of his claims were questionable or misleading.'",
+   "tier": 2
+  },
+  "c-8614bbbb95": {
+   "id": "c-8614bbbb95",
+   "kind": "claim",
+   "node": "fouche-military-documents",
+   "nodeLabel": "Edgar Fouche's Military, and DOD contractors reference Documents",
+   "source": {
+    "domain": "www.checktheevidence.com",
+    "text": "Edgar Fouche's Military, and DOD contractors reference Documents, page 1 caption text layer, https://www.checktheevidence.com/pdf/Edgar%20Fouches%20Military%20Documents.pdf , opened 2026-09-18",
+    "url": "https://www.checktheevidence.com/pdf/Edgar%20Fouches%20Military%20Documents.pdf"
+   },
+   "text": "THE REDACTIONS WERE APPLIED BY THE SUBJECT OF THE RECORD, ON HIS OWN CAPTION'S ADMISSION: 'The first blackened out part is a classified assignment SCI/:SAP code. The second blackened out part is my SSN. AAR is After Action Request, refers to a classified program. This was blackened out by me as the specific AAR is classified TS.' The document as published therefore cannot be checked at precisely the points where its publisher says the meaning lies.",
+   "tier": 1
+  },
+  "c-862d2ce9d0": {
+   "id": "c-862d2ce9d0",
+   "kind": "claim",
+   "node": "l-tonopah",
+   "nodeLabel": "Tonopah Test Range, Nevada",
+   "source": {
+    "domain": "otherhand.org",
+    "text": "Tom Mahood, 2018 retrospective, https://otherhand.org/home-page/area-51-and-other-strange-places/looking-at-the-bob-lazar-story-from-the-perspective-of-2018/ , opened 2026-09-18; and T.D. Barnes in research/leads/dannyjones-corpus-09.md, episode 415 at 1:01:21 to 1:02:58, recorded 2026-07-20",
+    "url": "https://otherhand.org/home-page/area-51-and-other-strange-places/looking-at-the-bob-lazar-story-from-the-perspective-of-2018/"
+   },
+   "text": "THE COUNTER-DESIGNATOR, AND THIS IS A DISPUTE RATHER THAN A LINK. Tom Mahood's 2018 retrospective states that there is nothing at Papoose Lake and that the designator 'S-4' actually refers to a radar facility at the Tonopah Test Range. T.D. Barnes, a former CIA and NASA engineer at Groom Lake, reaches the same conclusion by an unrelated route, describing the real Site 4 as a remote radar site holding captured Soviet equipment. Neither is claiming that Lazar's described facility is at Tonopah; both are claiming that the designator he used belongs somewhere else entirely.",
+   "tier": 2
+  },
+  "c-8927fee77e": {
+   "id": "c-8927fee77e",
+   "kind": "claim",
+   "node": "peter-merlin",
+   "nodeLabel": "Peter W. Merlin",
+   "source": {
+    "domain": "www.dreamlandresort.com",
+    "text": "Peter W. Merlin biography, Dreamland Resort, https://www.dreamlandresort.com/team/peter.html , opened 2026-09-18",
+    "url": "https://www.dreamlandresort.com/team/peter.html"
+   },
+   "text": "His biography records a Bachelor of Science degree in Aeronautical Studies from Embry-Riddle Aeronautical University in Daytona Beach, Florida; that he 'has been researching the history of Area 51 since 1984'; that he co-founded the X-Hunters Aerospace Archeology Team; and authorship or co-authorship of Mach 3+: NASA/USAF YF-12 Flight Research 1969-1979 (NASA, 2001), The Smell of Kerosene: A Test Pilot's Odyssey (NASA, 2003), From Archangel to Senior Crown: Design and Development of the Blackbird (AIAA, 2008), X-Plane Crashes (Specialty Press, 2008), Unlimited Horizons: Design and Development of the U-2 (NASA, 2015), Images of America: Nevada Test Site (Arcadia, 2016), Images of America: Tonopah Test Range (Arcadia, 2021) and DREAMLAND: The Secret History of Area 51 (Schiffer, 2023).",
+   "tier": 1
+  },
+  "c-8a987a7ad6": {
+   "id": "c-8a987a7ad6",
+   "kind": "claim",
+   "node": "groom-lake-presidential-determination",
+   "nodeLabel": "Presidential Determinations on the Air Force's Operating Location Near Groom Lake",
+   "source": {
+    "domain": null,
+    "text": "Federal Register, Presidential Determinations, 1995-2000 and annually thereafter",
+    "url": null
+   },
+   "text": "Presidential determinations exempting the Air Force's operating location near Groom Lake, Nevada from federal environmental disclosure requirements have been published in the Federal Register annually since 1995.",
+   "tier": 1
+  },
+  "c-8ccf2a5d5f": {
+   "id": "c-8ccf2a5d5f",
+   "kind": "claim",
+   "node": "cia-overhead-reconnaissance-history-1992",
+   "nodeLabel": "The Central Intelligence Agency and Overhead Reconnaissance: The U-2 and OXCART Programs, 1954-1974",
+   "source": {
+    "domain": "nsarchive2.gwu.edu",
+    "text": "Preface. https://nsarchive2.gwu.edu/NSAEBB/NSAEBB434/docs/U2%20-%20Cover-Contents-Foreword-Preface.pdf",
+    "url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB434/docs/U2%20-%20Cover-Contents-Foreword-Preface.pdf"
+   },
+   "text": "The Preface names the record sets the authors used: 'the records of the Director of Central Intelligence, the Office of Special Activities in the Directorate of Science and Technology, and the Intelligence Community Staff, along with documents from the Eisenhower Presidential Library in Abilene, Kansas, and additional interviews.'",
+   "tier": 1
+  },
+  "c-9035eba139": {
+   "id": "c-9035eba139",
+   "kind": "claim",
+   "node": "peter-merlin",
+   "nodeLabel": "Peter W. Merlin",
+   "source": {
+    "domain": "noriohayakawa.wordpress.com",
+    "text": "Peter Merlin, quoted in Norio Hayakawa, 19 March 2016, https://noriohayakawa.wordpress.com/2016/03/19/edgar-fouches-tr-3b-is-most-likely-a-hoax/ , opened 2026-09-18",
+    "url": "https://noriohayakawa.wordpress.com/2016/03/19/edgar-fouches-tr-3b-is-most-likely-a-hoax/"
+   },
+   "text": "On Fouche's claim, posted to the Open Minds forum on 17 October 2010, that 'Steve Stenson (ex-AFFTC Edwards AFB Base Commander - Retired Colonel) was the Site Manager': 'No such person as Steve Stenson was ever commander of AFFTC.'",
+   "tier": 2
+  },
+  "c-9943137fe1": {
+   "id": "c-9943137fe1",
+   "kind": "claim",
+   "node": "l-nevada-test-site",
+   "nodeLabel": "Nevada Test Site / Nevada National Security Site",
+   "source": {
+    "domain": "otherhand.org",
+    "text": "Las Vegas Review-Journal, 21 August 1990, p 2C, https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/lv-review-journal-8-21-1990/ , opened 2026-09-18",
+    "url": "https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/lv-review-journal-8-21-1990/"
+   },
+   "text": "THE EARLIER GEOGRAPHY OF THE LAZAR CLAIM, ON THE CONTEMPORANEOUS RECORD. The Las Vegas Review-Journal of 21 August 1990, reporting his sentencing, describes his claim as of that date as being that 'the U.S. government was testing alien spacecraft at the Nevada Test Site, 65 miles northwest of Las Vegas'. That is a Department of Energy site, and it is a different named place from Papoose Lake on the Air Force range, where the claim later settled.",
+   "tier": 1
+  },
+  "c-a2da5f62ee": {
+   "id": "c-a2da5f62ee",
+   "kind": "claim",
+   "node": "fouche-afftc-det3-1979",
+   "nodeLabel": "AF Form 77a, Letter of Evaluation, 24 August 1979",
+   "source": {
+    "domain": "www.checktheevidence.com",
+    "text": "AF Form 77a, 24 August 1979, page 3 of the same compilation, https://www.checktheevidence.com/pdf/Edgar%20Fouches%20Military%20Documents.pdf , 1979-08-24",
+    "url": "https://www.checktheevidence.com/pdf/Edgar%20Fouches%20Military%20Documents.pdf"
+   },
+   "text": "THE LIMITING SENTENCE IS PART OF THE DOCUMENT. The form does not state what Fouche did while on that temporary duty. It refers the question out: 'His duties and responsibilities for this period have been verified via a separate report.' No such separate report is in the collection and none was opened.",
+   "tier": 1
+  },
+  "c-a3c1e487f5": {
+   "id": "c-a3c1e487f5",
+   "kind": "claim",
+   "node": "northrop-grumman",
+   "nodeLabel": "Northrop Grumman Corporation",
+   "source": {
+    "domain": null,
+    "text": "DOE/OSTI records listing Bechtel Nevada and National Security Technologies, LLC as successive Nevada Test Site research organisations",
+    "url": null
+   },
+   "text": "National Security Technologies LLC, a Northrop Grumman-led consortium, succeeded Bechtel Nevada as management and operating contractor for the Nevada Test Site from 2006.",
+   "tier": 1
+  },
+  "c-a533456e7c": {
+   "id": "c-a533456e7c",
+   "kind": "claim",
+   "node": "bechtel-nevada",
+   "nodeLabel": "Bechtel Nevada Corporation",
+   "source": {
+    "domain": null,
+    "text": "OSTI.GOV record, Nevada Test Site Environmental Report 2005",
+    "url": null
+   },
+   "text": "Bechtel Nevada is the research organisation of record on DOE Nevada Test Site technical and environmental reports through 2006, succeeded by National Security Technologies, LLC.",
+   "tier": 1
+  },
+  "c-a64ba4a596": {
+   "id": "c-a64ba4a596",
+   "kind": "claim",
+   "node": "s-4-papoose-lake",
+   "nodeLabel": "S-4 / Papoose Lake, Nevada",
+   "source": {
+    "domain": "otherhand.org",
+    "text": "Tom Mahood, 2018 retrospective, https://otherhand.org/home-page/area-51-and-other-strange-places/looking-at-the-bob-lazar-story-from-the-perspective-of-2018/ , opened 2026-09-18; and T.D. Barnes in research/leads/dannyjones-corpus-09.md, episode 415 at 0:57:13 and 1:01:21 to 1:02:58, recorded 2026-07-20",
+    "url": "https://otherhand.org/home-page/area-51-and-other-strange-places/looking-at-the-bob-lazar-story-from-the-perspective-of-2018/"
+   },
+   "text": "THE SECOND-BEST FINDING IN THIS CLUSTER: TWO PEOPLE REACH THE SAME COUNTER-EXPLANATION BY UNRELATED ROUTES. Tom Mahood, a physics graduate who spent years on the documentary record, concludes in his 2018 retrospective that there is 'nothing at Papoose Lake' and that S-4 actually refers to a radar facility at the Tonopah Test Range. Separately, T.D. Barnes, a former CIA and NASA engineer who worked at Groom Lake, says the real Site 4 is a remote radar site north of the main facility that held captured Soviet equipment, that this and not an underground base is what Lazar referred to, and that a named retired Area 51 security chief confirmed to him that Lazar appears on no manifest. Neither route depends on the other: one is documentary and civilian, the other is recollection by a former range engineer. Shared conclusions from a shared method are not corroboration; these two do not share a method.",
+   "tier": 2
+  },
+  "c-aab5675b33": {
+   "id": "c-aab5675b33",
+   "kind": "claim",
+   "node": "richard-m-bissell-jr",
+   "nodeLabel": "Richard M. Bissell Jr.",
+   "source": {
+    "domain": "archive.org",
+    "text": "Pedlow and Welzenbach, The Central Intelligence Agency and Overhead Reconnaissance: The U-2 and OXCART Programs, 1954-1974, CIA History Staff, 2013 release, https://archive.org/download/cia-readingroom-document-0000190094/0000190094_djvu.txt , chapter 2, section 'U-2s, UFOs, and Operation BLUE BOOK'",
+    "url": "https://archive.org/download/cia-readingroom-document-0000190094/0000190094_djvu.txt"
+   },
+   "text": "His project staff serviced Blue Book and withheld the answer: 'BLUE BOOK investigators regularly called on the Agency's Project Staff in Washington to check reported UFO sightings against U-2 flight logs. This enabled the investigators to eliminate the majority of the UFO reports, although they could not reveal to the letter writers the true cause of the UFO sightings.'",
+   "tier": 1
+  },
+  "c-abf888e608": {
+   "id": "c-abf888e608",
+   "kind": "claim",
+   "node": "cia-overhead-reconnaissance-history-1992",
+   "nodeLabel": "The Central Intelligence Agency and Overhead Reconnaissance: The U-2 and OXCART Programs, 1954-1974",
+   "source": {
+    "domain": "nsarchive2.gwu.edu",
+    "text": "Pedlow and Welzenbach, The Central Intelligence Agency and Overhead Reconnaissance, CIA History Staff, 1992, Preface. https://nsarchive2.gwu.edu/NSAEBB/NSAEBB434/docs/U2%20-%20Cover-Contents-Foreword-Preface.pdf",
+    "url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB434/docs/U2%20-%20Cover-Contents-Foreword-Preface.pdf"
+   },
+   "text": "The study states its own span: 'The Agency's manned overhead reconnaissance program lasted 20 years. It began with President Eisenhower's authorization of the U-2 project in late 1954 and ended with the transfer of the remaining Agency U-2s to the Air Force in 1974.'",
+   "tier": 1
+  },
+  "c-b661ff151a": {
+   "id": "c-b661ff151a",
+   "kind": "claim",
+   "node": "fouche-afftc-det3-1979",
+   "nodeLabel": "AF Form 77a, Letter of Evaluation, 24 August 1979",
+   "source": {
+    "domain": "www.checktheevidence.com",
+    "text": "AF Form 77a, 24 August 1979, page 3 of Edgar Fouche's Military, and DOD contractors reference Documents, rendered at 190 dpi and read as an image, https://www.checktheevidence.com/pdf/Edgar%20Fouches%20Military%20Documents.pdf , 1979-08-24",
+    "url": "https://www.checktheevidence.com/pdf/Edgar%20Fouches%20Military%20Documents.pdf"
+   },
+   "text": "THE LOAD-BEARING SENTENCE, quoted in full: 'OTHER COMMENTS: This out of cycle report is generated because TSgt Fouche was assigned TDY to the AFFTC-DET 3, Nellis AF Range from 1 June 79 to 14 August 79. His duties and responsibilities for this period have been verified via a separate report. RECOMMENDATION: Promote at the earliest opportunity.'",
+   "tier": 1
+  },
+  "c-b775ee8fd9": {
+   "id": "c-b775ee8fd9",
+   "kind": "claim",
+   "node": "eg-and-g",
+   "nodeLabel": "EG&G (Edgerton, Germeshausen and Grier)",
+   "source": {
+    "domain": null,
+    "text": "American Alchemy with Jesse Michels, 'The Most Knowledgeable UFO Researcher In The World', published 21 February 2025, at 0:08:54 to 0:09:47",
+    "url": null
+   },
+   "text": "On American Alchemy with Jesse Michels, 21 February 2025, between 0:08:54 and 0:09:47, the guest Sammy, known as UAP Gerb, said of the retrieval teams described in the Jonathan Wigant account of Peru in 1997 and the Michael Herrera account of Indonesia in 2009 that 'I think this is likely a DOE NEST team, nuclear emergency search teams', which 'received help from contractors like EG&G'. Reasoning: he frames this explicitly as his own inference from the DOE-lettered rain jackets and hazmat suits the witnesses describe, not as a record.",
+   "tier": 3
+  },
+  "c-b8879ff68e": {
+   "id": "c-b8879ff68e",
+   "kind": "claim",
+   "node": "cia-overhead-reconnaissance-history-1992",
+   "nodeLabel": "The Central Intelligence Agency and Overhead Reconnaissance: The U-2 and OXCART Programs, 1954-1974",
+   "source": {
+    "domain": "nsarchive2.gwu.edu",
+    "text": "Foreword by J. Kenneth McDonald, CIA History Staff, 1992. https://nsarchive2.gwu.edu/NSAEBB/NSAEBB434/docs/U2%20-%20Cover-Contents-Foreword-Preface.pdf",
+    "url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB434/docs/U2%20-%20Cover-Contents-Foreword-Preface.pdf"
+   },
+   "text": "Its Foreword records a records-recovery claim of the Agency's own: the study 'is the only history of this program based upon both full access to CIA records and extensive classified interviews of its participants', and 'The authors have found records that were nearly irretrievably lost'.",
+   "tier": 1
+  },
+  "c-ca8c2bfcc2": {
+   "id": "c-ca8c2bfcc2",
+   "kind": "claim",
+   "node": "northrop-tacit-blue",
+   "nodeLabel": "Northrop TACIT BLUE",
+   "source": {
+    "domain": null,
+    "text": "Reasoning over the USAF fact sheet and slides 69 to 70 of the 1998 presentation; research/leads/verified-tr3b-2026-09-18.md section 7.3",
+    "url": null
+   },
+   "text": "Stated inference, and it is recorded against the brief that asked for the opposite. No source was opened arguing that the TR-3B narrative derives from or is confused with TACIT BLUE, and the primary record argues against it: the fact sheet's defining feature is curved surfaces, the aircraft is 48 feet across against a claimed 200 to 600, and it was retired in 1985 against a craft claimed to have first flown in the early 1990s. There is no shape, size or date correspondence. The conflation the record does support is with the F-117, which is Peter Merlin's identification of the airframe in Fouche's own misattributed photograph.",
+   "tier": 3
+  },
+  "c-d62d572d3e": {
+   "id": "c-d62d572d3e",
+   "kind": "claim",
+   "node": "cia-overhead-reconnaissance-history-1992",
+   "nodeLabel": "The Central Intelligence Agency and Overhead Reconnaissance: The U-2 and OXCART Programs, 1954-1974",
+   "source": {
+    "domain": "nsarchive2.gwu.edu",
+    "text": "Index p. 20, Appendices and Bibliography pp. 7 and 29, Chapter 6 p. 2, Chapter 2 p. 32. https://nsarchive2.gwu.edu/NSAEBB/NSAEBB434/docs/U2%20-%20Index.pdf",
+    "url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB434/docs/U2%20-%20Index.pdf"
+   },
+   "text": "The study's index carries the entry 'Norton, Garrison | 14-15, 31, 70, 260, 331' and no entry for Norton Air Force Base. Every occurrence of the string Norton across the front matter, chapters 2, 6 and 7, the index and the appendices is Garrison Norton, the Navy Assistant Secretary for Research and Development, whom the bibliography records being interviewed by Welzenbach on 23 May 1983.",
+   "tier": 1
+  },
+  "c-dca83a6635": {
+   "id": "c-dca83a6635",
+   "kind": "claim",
+   "node": "s-4-papoose-lake",
+   "nodeLabel": "S-4 / Papoose Lake, Nevada",
+   "source": {
+    "domain": "www.twz.com",
+    "text": "Tyler Rogoway, The War Zone, updated 13 April 2020, https://www.twz.com/32951/pilots-rare-trip-around-area-51-includes-pics-of-range-targets-drone-bases-ufo-legends , opened 2026-09-18 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+    "url": "https://www.twz.com/32951/pilots-rare-trip-around-area-51-includes-pics-of-range-targets-drone-bases-ufo-legends"
+   },
+   "text": "THE LAKEBED HAS BEEN PHOTOGRAPHED FROM THE AIR, LEGALLY, AND THERE IS NOTHING ON IT. Tyler Rogoway of The War Zone published aerial images taken on a pilot's authorised flight directly over Papoose Lake: 'nothing appears to be there, just as satellite images show. There isn't even an access road and, as you can see, the lakebed is flooded, which is a fairly common occurrence.' Rogoway states his own position in the same piece: 'No, I don't believe Bob's story, but I do think that it is one of the most entertaining tales ever told.'",
+   "tier": 2
+  },
+  "c-e28e344266": {
+   "id": "c-e28e344266",
+   "kind": "claim",
+   "node": "richard-m-bissell-jr",
+   "nodeLabel": "Richard M. Bissell Jr.",
+   "source": {
+    "domain": "archive.org",
+    "text": "Pedlow and Welzenbach, The Central Intelligence Agency and Overhead Reconnaissance: The U-2 and OXCART Programs, 1954-1974, CIA History Staff, 2013 release, https://archive.org/download/cia-readingroom-document-0000190094/0000190094_djvu.txt , chapter 2",
+    "url": "https://archive.org/download/cia-readingroom-document-0000190094/0000190094_djvu.txt"
+   },
+   "text": "He found the site personally and on a dated flight: 'On 12 April 1955 Richard Bissell and Col. Osmund Ritland (the senior Air Force officer on the project staff) flew over Nevada with Kelly Johnson in a small Beechcraft plane piloted by Lockheed's chief test pilot, Tony LeVier. They spotted what appeared to be an airstrip by a salt flat known as Groom Lake, near the northeast corner of the Atomic Energy Commission's (AEC) Nevada Proving Ground.'",
+   "tier": 1
+  },
+  "c-e4199b12f0": {
+   "id": "c-e4199b12f0",
+   "kind": "claim",
+   "node": "eg-and-g",
+   "nodeLabel": "EG&G (Edgerton, Germeshausen and Grier)",
+   "source": {
+    "domain": null,
+    "text": "George Knapp via Liberation Times, 28 February 2023; named to Congress under oath 9 September 2025",
+    "url": null
+   },
+   "text": "Alfred O'Donnell, described by Knapp as the first general manager of EG&G in Nevada, said 'they did have a flying saucer that had been recovered from New Mexico' and a 'live being.'",
+   "tier": 2
+  },
+  "c-e81acd2402": {
+   "id": "c-e81acd2402",
+   "kind": "claim",
+   "node": "alfred-odonnell",
+   "nodeLabel": "Alfred 'Al' O'Donnell",
+   "source": {
+    "domain": null,
+    "text": "George Knapp via Liberation Times, 28 February 2023",
+    "url": null
+   },
+   "text": "O'Donnell recorded a deathbed confession that was to be released after his death. Reasoning: Knapp states O'Donnell confirmed making it and that O'Donnell's son relayed the same; no recording has appeared in more than a decade, which is consistent either with suppression or with the recording not existing.",
+   "tier": 3
+  },
+  "c-ed860dfc07": {
+   "id": "c-ed860dfc07",
+   "kind": "claim",
+   "node": "richard-damato",
+   "nodeLabel": "Richard D'Amato",
+   "source": {
+    "domain": null,
+    "text": "Richard D'Amato public statement, quoted in Liberation Times, 28 February 2023",
+    "url": null
+   },
+   "text": "'A senior Senate Committee chairman asked me to conduct a preliminary inquiry into allegations that came to his attention regarding unidentified aerial crashes in the 1940s in New Mexico... I reported my conclusion to the Senator that the basis for such allegations did not appear to merit any further Senate investigation.'",
+   "tier": 2
+  },
+  "c-f06c4bb366": {
+   "id": "c-f06c4bb366",
+   "kind": "claim",
+   "node": "northrop-tacit-blue",
+   "nodeLabel": "Northrop TACIT BLUE",
+   "source": {
+    "domain": "nsarchive2.gwu.edu",
+    "text": "U.S. Air Force Fact Sheet 'NORTHROP TACIT BLUE', scanned in the National Security Archive Area 51 briefing book NSAEBB443, https://nsarchive2.gwu.edu/NSAEBB/NSAEBB443/docs/area51_58.PDF , opened 2026-09-18",
+    "url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB443/docs/area51_58.PDF"
+   },
+   "text": "The U.S. Air Force fact sheet states: 'The Tacit Blue (Whale) aircraft was built to test the advances in stealth technology. The USAF, the Defense Advanced Research Projects Agency, and the Northrop Corp. worked together from 1978 to 1985 to demonstrate that curved surfaces on an aircraft result in a low radar return signal from ground radar.'",
+   "tier": 1
+  },
+  "e-134779a410": {
+   "endpoints": [
+    {
+     "id": "northrop-tacit-blue",
+     "label": "Northrop TACIT BLUE"
+    },
+    {
+     "id": "tr-3b",
+     "label": "TR-3B 'Astra', claimed black triangular aircraft"
+    }
+   ],
+   "id": "e-134779a410",
+   "kind": "edge",
+   "label": "The real black-programme aircraft of the period is 48 feet across and curved, not a 200 to 600 foot triangle",
+   "sources": [
+    {
+     "date": "2026-09-18",
+     "name": "U.S. Air Force Fact Sheet 'NORTHROP TACIT BLUE'",
+     "url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB443/docs/area51_58.PDF"
+    }
+   ],
+   "text": "THIS EDGE EXISTS SPECIFICALLY TO STOP A LATER SESSION DRAWING THE SUPPORTIVE VERSION OF IT. The brief that produced this build asked for the reported analysis that the TR-3B derives from or is confused with TACIT BLUE. That analysis was searched for and NOT FOUND, and the USAF's own fact sheet argues against it: curved surfaces rather than a triangle, 48 ft 2 in span, programme concluded 1985, on public display since 1996.",
+   "tier": 1,
+   "type": "denial"
+  },
+  "e-181a47c70a": {
+   "endpoints": [
+    {
+     "id": "northrop-tacit-blue",
+     "label": "Northrop TACIT BLUE"
+    },
+    {
+     "id": "darpa",
+     "label": "Defense Advanced Research Projects Agency"
+    }
+   ],
+   "id": "e-181a47c70a",
+   "kind": "edge",
+   "label": "DARPA a named partner in the programme, 1978 to 1985",
+   "sources": [
+    {
+     "date": "2026-09-18",
+     "name": "U.S. Air Force Fact Sheet 'NORTHROP TACIT BLUE'",
+     "url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB443/docs/area51_58.PDF"
+    }
+   ],
+   "text": "'The USAF, the Defense Advanced Research Projects Agency, and the Northrop Corp. worked together from 1978 to 1985.' This is what a documented DARPA black-programme involvement actually looks like in a primary record, and it is worth having on the board next to the Fouche file's use of the same four letters.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-19864b3591": {
+   "endpoints": [
+    {
+     "id": "cia-overhead-reconnaissance-history-1992",
+     "label": "The Central Intelligence Agency and Overhead Reconnaissance: The U-2 and OXCART Programs, 1954-1974"
+    },
+    {
+     "id": "cia",
+     "label": "Central Intelligence Agency"
+    }
+   ],
+   "id": "e-19864b3591",
+   "kind": "edge",
+   "label": "Written by the CIA History Staff in 1992 and released by the Agency in 2013",
+   "sources": [
+    {
+     "date": null,
+     "name": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB434/",
+     "url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB434/"
+    }
+   ],
+   "text": "Written by the CIA History Staff in 1992 and released by the Agency on 25 June 2013.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-1ec3a56650": {
+   "endpoints": [
+    {
+     "id": "wilson-davis-memo",
+     "label": "The Wilson-Davis Notes (16 October 2002)"
+    },
+    {
+     "id": "eg-and-g",
+     "label": "EG&G (Edgerton, Germeshausen and Grier)"
+    }
+   ],
+   "id": "e-1ec3a56650",
+   "kind": "edge",
+   "label": "The meeting is reported to have taken place at an EG&G facility in Las Vegas",
+   "sources": [
+    {
+     "date": "2022-08-01",
+     "name": "The Debrief, 'Summer of the Saucers' (notes Wilson-Davis Memo raised at the 17 May 2022 House Intelligence UAP hearing)",
+     "url": "https://thedebrief.org/summer-of-the-saucers/"
+    }
+   ],
+   "text": "EG&G held the Groom Lake support and personnel-transport contracts; the reported venue matters because it places the conversation inside the contractor perimeter it describes.",
+   "tier": 3,
+   "type": "custody"
+  },
+  "e-2852919e5b": {
+   "endpoints": [
+    {
+     "id": "groom-lake-presidential-determination",
+     "label": "Presidential Determinations on the Air Force's Operating Location Near Groom Lake"
+    },
+    {
+     "id": "l-groom-lake",
+     "label": "Groom Lake, Nevada"
+    }
+   ],
+   "id": "e-2852919e5b",
+   "kind": "edge",
+   "label": "Annual presidential determinations exempt the Groom Lake operating location from environmental disclosure",
+   "sources": [
+    {
+     "date": "1995-10-10",
+     "name": "Presidential Determination on Classified Information Concerning the Air Force's Operating Location Near Groom Lake, Nevada, 60 FR 52823",
+     "url": "https://www.federalregister.gov/documents/1995/10/10/95-25244/presidential-determination-on-classified-information-concerning-the-air-forces-operating-location"
+    },
+    {
+     "date": "2000-10-05",
+     "name": "Classified Information Concerning the Air Force's Operating Location Near Groom Lake, Nevada (Presidential Determination)",
+     "url": "https://www.federalregister.gov/documents/2000/10/05/00-25742/classified-information-concerning-the-air-forces-operating-location-near-groom-lake-nevada"
+    }
+   ],
+   "text": "Published in the Federal Register every year since 1995, the determinations never name the facility or describe its contents - the cleanest documentary proof of a contractor-operated site legally exempted from statutory disclosure.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-303c689167": {
+   "endpoints": [
+    {
+     "id": "peter-merlin",
+     "label": "Peter W. Merlin"
+    },
+    {
+     "id": "tr-3b",
+     "label": "TR-3B 'Astra', claimed black triangular aircraft"
+    }
+   ],
+   "id": "e-303c689167",
+   "kind": "edge",
+   "label": "Named aerospace historian; four falsifiable specifics against the claimant's evidence",
+   "sources": [
+    {
+     "date": "2016-03-19",
+     "name": "Peter Merlin, quoted verbatim in Norio Hayakawa, 'Edgar Fouche's TR-3B is most likely a hoax'",
+     "url": "https://noriohayakawa.wordpress.com/2016/03/19/edgar-fouches-tr-3b-is-most-likely-a-hoax/"
+    }
+   ],
+   "text": "'I have always been extremely skeptical of Fouche. Many of his claims were questionable or misleading.' The four specifics are on the peter-merlin node in full: the letter is unclassified; the 'Have Blue' photo is the first YF-117A SENIOR TREND prototype; 'No such person as Steve Stenson was ever commander of AFFTC'; the KGB props are surplus-store fakes. Each is falsifiable and outside the claimant's own testimony, and none has been checked and found wrong in any opened record.",
+   "tier": 2,
+   "type": "denial"
+  },
+  "e-3ac5085e75": {
+   "endpoints": [
+    {
+     "id": "tr-3b",
+     "label": "TR-3B 'Astra', claimed black triangular aircraft"
+    },
+    {
+     "id": "darpa",
+     "label": "Defense Advanced Research Projects Agency"
+    }
+   ],
+   "id": "e-3ac5085e75",
+   "kind": "edge",
+   "label": "The Fouche file's DARPA invocation rests on a letter from a personnel office",
+   "sources": [
+    {
+     "date": "1984-07-10",
+     "name": "The page 1 image of the compilation, rendered at 190 dpi and read: no classification marking, signed by a TSgt in the Directorate of Assignments, DCS/Personnel",
+     "url": "https://www.checktheevidence.com/pdf/Edgar%20Fouches%20Military%20Documents.pdf"
+    },
+    {
+     "date": "2016-03-19",
+     "name": "Peter Merlin's reading of the same letter, quoted verbatim",
+     "url": "https://noriohayakawa.wordpress.com/2016/03/19/edgar-fouches-tr-3b-is-most-likely-a-hoax/"
+    }
+   ],
+   "text": "DARPA is the single most reused word in the Fouche corpus and the board's existing darpa node should carry this explicitly. The document that carries the invocation bears no classification marking, is signed by a technical sergeant in an assignments section of a personnel directorate, and is captioned by Fouche himself with the agency's name wrong, as 'Defense Advanced Research Agency'.",
+   "tier": 1,
+   "type": "denial"
+  },
+  "e-40e7f6129f": {
+   "endpoints": [
+    {
+     "id": "atomic-energy-commission",
+     "label": "Atomic Energy Commission"
+    },
+    {
+     "id": "l-groom-lake",
+     "label": "Groom Lake, Nevada"
+    }
+   ],
+   "id": "e-40e7f6129f",
+   "kind": "edge",
+   "label": "Absorbed Groom Lake into its Nevada real estate at CIA request, 1955",
+   "sources": [
+    {
+     "date": "2013-06-25",
+     "name": "Pedlow and Welzenbach, The Central Intelligence Agency and Overhead Reconnaissance, 2013 release, chapter 2",
+     "url": "https://archive.org/download/cia-readingroom-document-0000190094/0000190094_djvu.txt"
+    }
+   ],
+   "text": "The CIA's own overhead reconnaissance history records that after the April 1955 overflight Bissell found Groom Lake was not part of the AEC proving ground, and that he and Miller asked the Commission to add it, which Chairman Lewis Strauss agreed to do.",
+   "tier": 1,
+   "type": "geographic"
+  },
+  "e-45dedeb372": {
+   "endpoints": [
+    {
+     "id": "s-4-papoose-lake",
+     "label": "S-4 / Papoose Lake, Nevada"
+    },
+    {
+     "id": "l-groom-lake",
+     "label": "Groom Lake, Nevada"
+    }
+   ],
+   "id": "e-45dedeb372",
+   "kind": "edge",
+   "label": "Claimed site sited by reference to Groom Lake, about fifteen miles north of it",
+   "sources": [
+    {
+     "date": "1991",
+     "name": "The Lazar Tape, Tri-Dot Productions, 1991, captions at 2:07 and 27:16",
+     "url": "https://archive.org/details/antigravity"
+    }
+   ],
+   "text": "The claim anchors itself to a documented facility. That anchoring does not transfer the facility's documentation to the claim.",
+   "tier": 2,
+   "type": "geographic"
+  },
+  "e-4947aa2993": {
+   "endpoints": [
+    {
+     "id": "s-4-papoose-lake",
+     "label": "S-4 / Papoose Lake, Nevada"
+    },
+    {
+     "id": "l-area51",
+     "label": "Area 51 (Homey Airport / Groom Lake operating location)"
+    }
+   ],
+   "id": "e-4947aa2993",
+   "kind": "edge",
+   "label": "Claimed site sited about fifteen miles south of Area 51",
+   "sources": [
+    {
+     "date": "1991",
+     "name": "The Lazar Tape, Tri-Dot Productions, 1991, captions at 2:07",
+     "url": "https://archive.org/details/antigravity"
+    }
+   ],
+   "text": "Uses the board's existing l-area51 id. No node called area-51 was created.",
+   "tier": 2,
+   "type": "geographic"
+  },
+  "e-4ae2da407f": {
+   "endpoints": [
+    {
+     "id": "alfred-odonnell",
+     "label": "Alfred 'Al' O'Donnell"
+    },
+    {
+     "id": "eg-and-g",
+     "label": "EG&G (Edgerton, Germeshausen and Grier)"
+    }
+   ],
+   "id": "e-4ae2da407f",
+   "kind": "edge",
+   "label": "O'Donnell was a senior EG&G manager and, per Knapp, first general manager of EG&G Nevada",
+   "sources": [
+    {
+     "date": "2023-02-28",
+     "name": "Christopher Sharp, 'Former Chief For Defense Contractor That Ran Area 51 Claimed Knowledge Of Recovered Flying Saucer And Live Being,' Liberation Times",
+     "url": "https://www.liberationtimes.com/home/former-chief-for-defense-contractor-that-ran-area-51-claimed-knowledge-of-recovered-flying-saucer-and-live-being-as-congress-looks-to-uncover-details-of-alleged-illegal-ufo-programs"
+    },
+    {
+     "date": "2025-09-09",
+     "name": "House Oversight Task Force on the Declassification of Federal Secrets hearing transcript, 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection' (CHRG-119hhrg61718, Serial No. 119-44)",
+     "url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm"
+    }
+   ],
+   "text": "His documented career runs from nuclear test firing engineering through the company's Nevada operations, giving him access to the classified site infrastructure at the centre of the allegation.",
+   "tier": 2,
+   "type": "institutional"
+  },
+  "e-4b0d85477e": {
+   "endpoints": [
+    {
+     "id": "northrop-tacit-blue",
+     "label": "Northrop TACIT BLUE"
+    },
+    {
+     "id": "northrop-grumman",
+     "label": "Northrop Grumman Corporation"
+    }
+   ],
+   "id": "e-4b0d85477e",
+   "kind": "edge",
+   "label": "Northrop Corp. the airframe contractor",
+   "sources": [
+    {
+     "date": "2026-09-18",
+     "name": "U.S. Air Force Fact Sheet 'NORTHROP TACIT BLUE'",
+     "url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB443/docs/area51_58.PDF"
+    }
+   ],
+   "text": "The fact sheet names 'the Northrop Corp.'; the board's existing node is northrop-grumman, the successor entity after the 1994 merger, and the edge is wired to it on that basis.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-4ceb65dd27": {
+   "endpoints": [
+    {
+     "id": "doe",
+     "label": "United States Department of Energy"
+    },
+    {
+     "id": "l-nevada-test-site",
+     "label": "Nevada Test Site / Nevada National Security Site"
+    }
+   ],
+   "id": "e-4ceb65dd27",
+   "kind": "edge",
+   "label": "DOE operating authority over the Nevada National Security Site",
+   "sources": [
+    {
+     "date": "2026-08-12",
+     "name": "NNSA - About NNSA",
+     "url": "https://www.energy.gov/nnsa/about-nnsa"
+    }
+   ],
+   "text": "The Nevada test complex is DOE/NNSA property operated by contract, with its own protective force and clearance regime, and is named repeatedly in retrieval testimony.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-8271ddbd37": {
+   "endpoints": [
+    {
+     "id": "fouche-afftc-det3-1979",
+     "label": "AF Form 77a, Letter of Evaluation, 24 August 1979"
+    },
+    {
+     "id": "fouche-military-documents",
+     "label": "Edgar Fouche's Military, and DOD contractors reference Documents"
+    }
+   ],
+   "id": "e-8271ddbd37",
+   "kind": "edge",
+   "label": "The AF Form 77a is page 3 of the compilation",
+   "sources": [
+    {
+     "date": "2014-06-15",
+     "name": "Edgar Fouche's Military, and DOD contractors reference Documents, page 3",
+     "url": "https://www.checktheevidence.com/pdf/Edgar%20Fouches%20Military%20Documents.pdf"
+    }
+   ],
+   "text": "INTENT: CONTAINMENT. The board has no contains edge type, so this is built as custody, document to document, which is genuine containment custody and does not inflate any person.",
+   "tier": 1,
+   "type": "custody"
+  },
+  "e-8364469706": {
+   "endpoints": [
+    {
+     "id": "s-4-papoose-lake",
+     "label": "S-4 / Papoose Lake, Nevada"
+    },
+    {
+     "id": "l-nellis",
+     "label": "Nellis Air Force Base and the Nevada Test and Training Range"
+    }
+   ],
+   "id": "e-8364469706",
+   "kind": "edge",
+   "label": "Claimed site placed on the Nellis range by the claimant",
+   "sources": [
+    {
+     "date": "1991",
+     "name": "The Lazar Tape, Tri-Dot Productions, 1991, captions at 2:02",
+     "url": "https://archive.org/details/antigravity"
+    }
+   ],
+   "text": "Uses the board's existing l-nellis id, whose label already carries the Nevada Test and Training Range. No node called nttr was created.",
+   "tier": 2,
+   "type": "geographic"
+  },
+  "e-8e8108c2cf": {
+   "endpoints": [
+    {
+     "id": "s-4-papoose-lake",
+     "label": "S-4 / Papoose Lake, Nevada"
+    },
+    {
+     "id": "l-nevada-test-site",
+     "label": "Nevada Test Site / Nevada National Security Site"
+    }
+   ],
+   "id": "e-8e8108c2cf",
+   "kind": "edge",
+   "label": "The claim's earlier geography, as reported contemporaneously in August 1990",
+   "sources": [
+    {
+     "date": "1990-08-21",
+     "name": "Las Vegas Review-Journal, 21 August 1990, p 2C, by Warren Bates, reprinted by Tom Mahood",
+     "url": "https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/lv-review-journal-8-21-1990/"
+    }
+   ],
+   "text": "Tier 1 for what the newspaper shows. In August 1990 Lazar's claim was reported as being about 'the Nevada Test Site, 65 miles northwest of Las Vegas', a Department of Energy site, not the Air Force range. The claim's geography moved and the edge records that.",
+   "tier": 1,
+   "type": "geographic"
+  },
+  "e-921a06bda3": {
+   "endpoints": [
+    {
+     "id": "peter-merlin",
+     "label": "Peter W. Merlin"
+    },
+    {
+     "id": "fouche-military-documents",
+     "label": "Edgar Fouche's Military, and DOD contractors reference Documents"
+    }
+   ],
+   "id": "e-921a06bda3",
+   "kind": "edge",
+   "label": "Reads the 'SAC/DARPA Classified Document' as an unclassified personnel letter from a personnel office",
+   "sources": [
+    {
+     "date": "2016-03-19",
+     "name": "Peter Merlin, quoted verbatim in Norio Hayakawa, 19 March 2016",
+     "url": "https://noriohayakawa.wordpress.com/2016/03/19/edgar-fouches-tr-3b-is-most-likely-a-hoax/"
+    },
+    {
+     "date": "1984-07-10",
+     "name": "The page 1 image of the compilation, rendered at 190 dpi and read, which corroborates the absence of classification markings and the signature block",
+     "url": "https://www.checktheevidence.com/pdf/Edgar%20Fouches%20Military%20Documents.pdf"
+    }
+   ],
+   "text": "Two parts of Merlin's reading were checked independently against the page image and hold: there is no classification marking of any kind on the letter, and the signature block does place the originating office inside the Directorate of Assignments, Deputy Chief of Staff for Personnel, which is what his five-letter-office-code reading of 'REPLY TO: DARPA' predicts. His gloss of AAR as After Action Review was not verified against any Air Force instruction.",
+   "tier": 2,
+   "type": "denial"
+  },
+  "e-939a1c4be9": {
+   "endpoints": [
+    {
+     "id": "bechtel-nevada",
+     "label": "Bechtel Nevada Corporation"
+    },
+    {
+     "id": "l-nevada-test-site",
+     "label": "Nevada Test Site / Nevada National Security Site"
+    }
+   ],
+   "id": "e-939a1c4be9",
+   "kind": "edge",
+   "label": "Bechtel Nevada held the DOE management and operating contract for the Nevada Test Site 1996-2006",
+   "sources": [
+    {
+     "date": "2006-10-01",
+     "name": "OSTI.GOV: Nevada Test Site Environmental Report 2005, research organization Bechtel Nevada",
+     "url": "https://www.osti.gov/biblio/892135"
+    }
+   ],
+   "text": "DOE technical reports list Bechtel Nevada as research organisation of record through 2006, succeeded by National Security Technologies, LLC.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-9d918d668e": {
+   "endpoints": [
+    {
+     "id": "atomic-energy-commission",
+     "label": "Atomic Energy Commission"
+    },
+    {
+     "id": "l-nevada-test-site",
+     "label": "Nevada Test Site / Nevada National Security Site"
+    }
+   ],
+   "id": "e-9d918d668e",
+   "kind": "edge",
+   "label": "Area 51 was added to the Nevada Test Site by the Commission",
+   "sources": [
+    {
+     "date": "2013-06-25",
+     "name": "Pedlow and Welzenbach, The Central Intelligence Agency and Overhead Reconnaissance, 2013 release, chapter 2",
+     "url": "https://archive.org/download/cia-readingroom-document-0000190094/0000190094_djvu.txt"
+    }
+   ],
+   "text": "The same CIA history states that Eisenhower approved the addition of the strip known by its map designation as Area 51 to the Nevada Test Site, and DNA 6040F separately locates Groom Lake at the northeast corner of the AEC's Nevada Proving Ground.",
+   "tier": 1,
+   "type": "geographic"
+  },
+  "e-a2a3fad2e6": {
+   "endpoints": [
+    {
+     "id": "northrop-tacit-blue",
+     "label": "Northrop TACIT BLUE"
+    },
+    {
+     "id": "usaf",
+     "label": "United States Air Force"
+    }
+   ],
+   "id": "e-a2a3fad2e6",
+   "kind": "edge",
+   "label": "USAF a named partner and the publisher of the fact sheet",
+   "sources": [
+    {
+     "date": "2026-09-18",
+     "name": "U.S. Air Force Fact Sheet 'NORTHROP TACIT BLUE'",
+     "url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB443/docs/area51_58.PDF"
+    }
+   ],
+   "text": "The Air Force is both a programme partner and the author of the primary record, and the fact sheet is a claim about its own programme, which is exactly the case CLAUDE.md section 2 says is a primary record rather than an interested-party inference.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-a8cc8584f8": {
+   "endpoints": [
+    {
+     "id": "edgar-fouche",
+     "label": "Edgar Fouche"
+    },
+    {
+     "id": "l-groom-lake",
+     "label": "Groom Lake, Nevada"
+    }
+   ],
+   "id": "e-a8cc8584f8",
+   "kind": "edge",
+   "label": "Documented ten weeks temporary duty in 1979, plus extensive first-person narration in the 1998 presentation",
+   "sources": [
+    {
+     "date": "1979-08-24",
+     "name": "AF Form 77a, 24 August 1979, page 3 of the compilation",
+     "url": "https://www.checktheevidence.com/pdf/Edgar%20Fouches%20Military%20Documents.pdf"
+    },
+    {
+     "date": "1998-08",
+     "name": "Presentation to IUFOR by Edgar Rothshild Fouche, slide 42 onward",
+     "url": "https://www.checktheevidence.com/pdf/Edgar%20Fouche%20-%201998%20Presentation%20to%20IUFOC.pdf"
+    }
+   ],
+   "text": "The strongest documented connection between any TR-3B claimant and a real classified airfield, and it must be read with its own limit attached: the form does not say what he did there, referring that out to 'a separate report' that is not in the file, and everything else on the form describes F-15 avionics intermediate shop work. The extensive Groom Lake narration in the 1998 presentation, including helicopter flights and a mess hall conversation about an NSA system, is Tier 2 on his word alone.",
+   "tier": 2,
+   "type": "geographic"
+  },
+  "e-a9e2b1ee93": {
+   "endpoints": [
+    {
+     "id": "northrop-grumman",
+     "label": "Northrop Grumman Corporation"
+    },
+    {
+     "id": "l-nevada-test-site",
+     "label": "Nevada Test Site / Nevada National Security Site"
+    }
+   ],
+   "id": "e-a9e2b1ee93",
+   "kind": "edge",
+   "label": "A Northrop Grumman-led consortium took over Nevada Test Site management in 2006",
+   "sources": [
+    {
+     "date": "2006-10-01",
+     "name": "OSTI.GOV: Nevada Test Site Environmental Report 2005, research organization Bechtel Nevada",
+     "url": "https://www.osti.gov/biblio/892135"
+    },
+    {
+     "date": "2026-08-12",
+     "name": "USAspending.gov federal award search (prime contract obligations by recipient)",
+     "url": "https://www.usaspending.gov/search"
+    }
+   ],
+   "text": "National Security Technologies LLC succeeded Bechtel Nevada, inheriting the Remote Sensing Laboratory, the Special Technologies Laboratory and the classified support infrastructure adjacent to Groom Lake.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-b55848e817": {
+   "endpoints": [
+    {
+     "id": "s-4-papoose-lake",
+     "label": "S-4 / Papoose Lake, Nevada"
+    },
+    {
+     "id": "l-tonopah",
+     "label": "Tonopah Test Range, Nevada"
+    }
+   ],
+   "id": "e-b55848e817",
+   "kind": "edge",
+   "label": "DISPUTE over the designator: two sources say S-4 belongs to a Tonopah radar facility",
+   "sources": [
+    {
+     "date": "2018",
+     "name": "Tom Mahood, 'Looking at the Bob Lazar story from the perspective of 2018'",
+     "url": "https://otherhand.org/home-page/area-51-and-other-strange-places/looking-at-the-bob-lazar-story-from-the-perspective-of-2018/"
+    }
+   ],
+   "text": "THIS EDGE IS A DISAGREEMENT AND MUST NOT RENDER AS A LINK BETWEEN THE CLAIMED SITE AND TONOPAH. Mahood and T.D. Barnes, by unrelated routes, both say the designator S-4 attaches to a radar facility on the Tonopah side of the range rather than to anything at Papoose Lake.",
+   "tier": 2,
+   "type": "geographic"
+  },
+  "e-be700049d5": {
+   "endpoints": [
+    {
+     "id": "richard-damato",
+     "label": "Richard D'Amato"
+    },
+    {
+     "id": "eg-and-g",
+     "label": "EG&G (Edgerton, Germeshausen and Grier)"
+    }
+   ],
+   "id": "e-be700049d5",
+   "kind": "edge",
+   "label": "D'Amato's Senate inquiry reached EG&G and stopped there",
+   "sources": [
+    {
+     "date": "2023-02-28",
+     "name": "Christopher Sharp, 'Former Chief For Defense Contractor That Ran Area 51 Claimed Knowledge Of Recovered Flying Saucer And Live Being,' Liberation Times",
+     "url": "https://www.liberationtimes.com/home/former-chief-for-defense-contractor-that-ran-area-51-claimed-knowledge-of-recovered-flying-saucer-and-live-being-as-congress-looks-to-uncover-details-of-alleged-illegal-ufo-programs"
+    }
+   ],
+   "text": "Knapp arranged, with EG&G co-founder Herbert Grier's blessing, a meeting between D'Amato and Al O'Donnell; O'Donnell said nothing. D'Amato reported to the Senator that the allegations did not merit further investigation.",
+   "tier": 2,
+   "type": "investigative"
+  },
+  "e-c06775988b": {
+   "endpoints": [
+    {
+     "id": "edgar-fouche",
+     "label": "Edgar Fouche"
+    },
+    {
+     "id": "tr-3b",
+     "label": "TR-3B 'Astra', claimed black triangular aircraft"
+    }
+   ],
+   "id": "e-c06775988b",
+   "kind": "edge",
+   "label": "Originating claimant of the TR-3B, August 1998",
+   "sources": [
+    {
+     "date": "1998-08",
+     "name": "Presentation to IUFOR by Edgar Rothshild Fouche, slides 69 to 72",
+     "url": "https://www.checktheevidence.com/pdf/Edgar%20Fouche%20-%201998%20Presentation%20to%20IUFOC.pdf"
+    }
+   ],
+   "text": "The claim exists in his copyrighted document and nowhere earlier that was opened. Tier 2 and not 1 because the edge asserts that he is the origin of the claim, which rests on the absence of an earlier source rather than on a positive record. Note that within the artefact itself the sighting is second hand: slide 69 opens 'A friend said, he would never forget the sight of the alien looking TR-3B based at Papoose.' He does not claim to have seen it.",
+   "tier": 2,
+   "type": "witness-chain"
+  },
+  "e-c4aec60c94": {
+   "endpoints": [
+    {
+     "id": "richard-m-bissell-jr",
+     "label": "Richard M. Bissell Jr."
+    },
+    {
+     "id": "l-area51",
+     "label": "Area 51 (Homey Airport / Groom Lake operating location)"
+    }
+   ],
+   "id": "e-c4aec60c94",
+   "kind": "edge",
+   "label": "Asked the AEC to absorb the land that became Area 51",
+   "sources": [
+    {
+     "date": "2013-06-25",
+     "name": "Pedlow and Welzenbach, The Central Intelligence Agency and Overhead Reconnaissance, 2013 release, chapter 2",
+     "url": "https://archive.org/download/cia-readingroom-document-0000190094/0000190094_djvu.txt"
+    }
+   ],
+   "text": "On finding the site lay outside the proving ground he and Miller asked the Commission to add it to its Nevada holdings; Strauss agreed and Eisenhower approved the addition of the strip known by its map designation as Area 51.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-cae517d5f7": {
+   "endpoints": [
+    {
+     "id": "richard-m-bissell-jr",
+     "label": "Richard M. Bissell Jr."
+    },
+    {
+     "id": "lockheed-skunk-works",
+     "label": "Lockheed Martin Advanced Development Programs (Skunk Works)"
+    }
+   ],
+   "id": "e-cae517d5f7",
+   "kind": "edge",
+   "label": "Ran the project Kelly Johnson built the aircraft for",
+   "sources": [
+    {
+     "date": "2013-06-25",
+     "name": "Pedlow and Welzenbach, The Central Intelligence Agency and Overhead Reconnaissance, 2013 release, chapter 2",
+     "url": "https://archive.org/download/cia-readingroom-document-0000190094/0000190094_djvu.txt"
+    }
+   ],
+   "text": "Kelly Johnson was on the 12 April 1955 site flight with Lockheed's chief test pilot, and named the resulting base the Paradise Ranch to make it sound better to his workers.",
+   "tier": 1,
+   "type": "programmatic"
+  },
+  "e-d307be49cb": {
+   "endpoints": [
+    {
+     "id": "eg-and-g",
+     "label": "EG&G (Edgerton, Germeshausen and Grier)"
+    },
+    {
+     "id": "l-nevada-test-site",
+     "label": "Nevada Test Site / Nevada National Security Site"
+    }
+   ],
+   "id": "e-d307be49cb",
+   "kind": "edge",
+   "label": "EG&G was the classified services contractor for the Nevada complex in the testing era",
+   "sources": [
+    {
+     "date": "2006-10-01",
+     "name": "OSTI.GOV: Nevada Test Site Environmental Report 2005, research organization Bechtel Nevada",
+     "url": "https://www.osti.gov/biblio/892135"
+    },
+    {
+     "date": "1998-01-08",
+     "name": "Kasza v. Browner, 133 F.3d 1159 (9th Cir. 1998) (CourtListener)",
+     "url": "https://www.courtlistener.com/opinion/7058198/kasza-v-browner/"
+    }
+   ],
+   "text": "Its instrumentation and site services role is documented through DOE technical history and through the Groom Lake litigation rather than through any acknowledgment of the adjacent operating location.",
+   "tier": 2,
+   "type": "institutional"
+  },
+  "e-d3a62f4e9f": {
+   "endpoints": [
+    {
+     "id": "richard-m-bissell-jr",
+     "label": "Richard M. Bissell Jr."
+    },
+    {
+     "id": "l-groom-lake",
+     "label": "Groom Lake, Nevada"
+    }
+   ],
+   "id": "e-d3a62f4e9f",
+   "kind": "edge",
+   "label": "Selected the site on 12 April 1955",
+   "sources": [
+    {
+     "date": "2013-06-25",
+     "name": "Pedlow and Welzenbach, The Central Intelligence Agency and Overhead Reconnaissance, 2013 release, chapter 2",
+     "url": "https://archive.org/download/cia-readingroom-document-0000190094/0000190094_djvu.txt"
+    }
+   ],
+   "text": "He and Ritland flew over Nevada with Kelly Johnson and Tony LeVier, landed on the lakebed and walked the strip, and the monograph notes that a landing on the airstrip itself would probably have killed the key figures in the project.",
+   "tier": 1,
+   "type": "geographic"
+  },
+  "e-dea6bbd861": {
+   "endpoints": [
+    {
+     "id": "cia-overhead-reconnaissance-history-1992",
+     "label": "The Central Intelligence Agency and Overhead Reconnaissance: The U-2 and OXCART Programs, 1954-1974"
+    },
+    {
+     "id": "l-area51",
+     "label": "Area 51 (Homey Airport / Groom Lake operating location)"
+    }
+   ],
+   "id": "e-dea6bbd861",
+   "kind": "edge",
+   "label": "The Agency's own account of the establishment and use of the Groom Lake site",
+   "sources": [
+    {
+     "date": null,
+     "name": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB434/",
+     "url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB434/"
+    }
+   ],
+   "text": "It is the Agency's own account of the establishment and use of the Groom Lake site, and the 2013 release is the version in which the Area 51 references were left intact.",
+   "tier": 1,
+   "type": "custody"
+  },
+  "e-e87b058131": {
+   "endpoints": [
+    {
+     "id": "groom-lake-presidential-determination",
+     "label": "Presidential Determinations on the Air Force's Operating Location Near Groom Lake"
+    },
+    {
+     "id": "eg-and-g",
+     "label": "EG&G (Edgerton, Germeshausen and Grier)"
+    }
+   ],
+   "id": "e-e87b058131",
+   "kind": "edge",
+   "label": "The state secrets defence shielded the contractor-operated facility from the workers' suit",
+   "sources": [
+    {
+     "date": "1998-01-08",
+     "name": "Kasza v. Browner, 133 F.3d 1159 (9th Cir. 1998) (CourtListener)",
+     "url": "https://www.courtlistener.com/opinion/7058198/kasza-v-browner/"
+    },
+    {
+     "date": "1995-10-10",
+     "name": "Presidential Determination on Classified Information Concerning the Air Force's Operating Location Near Groom Lake, Nevada, 60 FR 52823",
+     "url": "https://www.federalregister.gov/documents/1995/10/10/95-25244/presidential-determination-on-classified-information-concerning-the-air-forces-operating-location"
+    }
+   ],
+   "text": "Rather than litigate the alleged open-air burning of classified waste, the government invoked state secrets and the President exempted the site; Kasza v. Browner, 133 F.3d 1159, sustained dismissal and certiorari was denied.",
+   "tier": 1,
+   "type": "denial"
+  }
+ },
+ "claimed": [
+  {
+   "cite": [
+    "c-266a6dbb9a",
+    "c-e4199b12f0",
+    "c-632f3e1ff5",
+    "e-4ae2da407f"
+   ],
+   "text": "George Knapp reports that Alfred O'Donnell, whom he describes as the first general manager of EG&G in Nevada, told him that they had a flying saucer recovered from New Mexico and a live being with it. Knapp named O'Donnell to Congress in September 2025; the account reaches the public through Knapp."
+  },
+  {
+   "cite": [
+    "c-e81acd2402"
+   ],
+   "text": "Knapp also states that O'Donnell recorded a deathbed confession to be released after his death; no recording has appeared, which the board notes fits either suppression or a recording that does not exist."
+  },
+  {
+   "cite": [
+    "c-0ae84a7acb"
+   ],
+   "text": "Jake Barber said on a 2025 podcast that an unnamed senior EG&G engineer told his great uncle about an egg-shaped craft the size of an SUV whose hull the team could not penetrate. The account is third-hand: engineer to great uncle to Barber."
+  },
+  {
+   "cite": [
+    "c-727721fef0",
+    "c-21a5c3bcb5",
+    "e-4947aa2993",
+    "e-8364469706"
+   ],
+   "text": "Bob Lazar sites his claimed S-4 facility on the Nellis range about fifteen miles south of Area 51 at Groom Lake and says he was bussed there from Groom. The claim anchors itself to a documented facility; that does not transfer the facility's documentation to the claim."
+  },
+  {
+   "cite": [
+    "e-a8cc8584f8",
+    "e-c06775988b"
+   ],
+   "text": "Edgar Fouche's 1998 presentation narrates Groom Lake work at length, which the board holds at Tier 2 on his word alone, and passes on a friend's sighting of a TR-3B based at Papoose; he does not claim to have seen it himself."
+  },
+  {
+   "cite": [
+    "c-57e9190bad",
+    "e-1ec3a56650"
+   ],
+   "text": "The Wilson-Davis notes record Wilson describing a 1997 attempt to gain access to a special access programme holding recovered material in contractor custody. A later report places the meeting at an EG&G facility in Las Vegas, which the board holds at Tier 3."
+  },
+  {
+   "cite": [
+    "c-048b3afad1",
+    "c-76384cbab4"
+   ],
+   "text": "Knapp attributes to the Senate investigator Richard D'Amato a private view that a cover-up inside a private company such as Lockheed Martin, EG&G or Northrop Grumman was entirely feasible; D'Amato did not say this on the record, and the board carries it at Tier 3."
+  },
+  {
+   "cite": [
+    "c-b775ee8fd9"
+   ],
+   "text": "A researcher known as UAP Gerb said on a 2025 podcast that retrieval teams in two witness accounts were likely DOE nuclear emergency search teams helped by contractors like EG&G; he framed this as his own inference from the witnesses' descriptions."
+  }
+ ],
+ "contested": [
+  {
+   "cite": [
+    "c-ed860dfc07",
+    "e-be700049d5"
+   ],
+   "text": "D'Amato's own public statement is that his preliminary Senate inquiry into 1940s crash allegations did not appear to merit further investigation. The inquiry reached EG&G and stopped: at a meeting Knapp arranged, O'Donnell said nothing."
+  },
+  {
+   "cite": [
+    "c-dca83a6635",
+    "c-a64ba4a596",
+    "c-862d2ce9d0",
+    "e-b55848e817"
+   ],
+   "text": "Aerial photographs of Papoose Lake show nothing on the lakebed and no access road, and Tom Mahood and T.D. Barnes, by unrelated routes, both say the designator S-4 belongs to a radar facility on the Tonopah side of the range rather than to anything at Papoose Lake."
+  },
+  {
+   "cite": [
+    "c-8927fee77e",
+    "c-7fbcbbf34a",
+    "c-5462df1b17",
+    "c-9035eba139",
+    "e-303c689167"
+   ],
+   "text": "Peter Merlin, a historian of Area 51 since 1984, says he has always been extremely skeptical of Fouche: the photograph Fouche captioned as HAVE BLUE is the first YF-117A prototype, no Steve Stenson ever commanded AFFTC, and the KGB props are fakes available in surplus stores."
+  },
+  {
+   "cite": [
+    "c-242988dc58",
+    "c-8614bbbb95",
+    "c-7cca6a7b2d",
+    "e-921a06bda3",
+    "e-3ac5085e75",
+    "e-a8cc8584f8"
+   ],
+   "text": "The letter Fouche calls a SAC-DARPA classified document carries no classification marking and is signed by a technical sergeant in a personnel assignments section; its redactions were applied by Fouche himself, the compilation holds only decorations, certificates, reports, a degree and one personnel letter, and the 1979 form describes F-15 avionics shop work."
+  },
+  {
+   "cite": [
+    "e-134779a410",
+    "c-ca8c2bfcc2"
+   ],
+   "text": "The real black-programme aircraft of the period does not match the TR-3B: TACIT BLUE is curved, 48 feet across and was retired in 1985, against a claimed triangle of 200 to 600 feet first flown in the early 1990s. No source was found arguing the two were confused."
+  },
+  {
+   "cite": [
+    "c-211b359432",
+    "c-d62d572d3e",
+    "c-b8879ff68e"
+   ],
+   "text": "T.D. Barnes said in 2026 that the CIA's Area 51 records went to Norton Air Force Base and were lost there. The Agency's published history contains no Norton Air Force Base, every Norton in it being a Navy official, and it states it was built from CIA record sets and classified interviews."
+  },
+  {
+   "cite": [
+    "c-1d84667900"
+   ],
+   "text": "The accounts disagree among themselves: in the same 2025 episode whose narration centres EG&G, Greg Rogers ruled EG&G out as owner of the craft he describes and named firms such as Lockheed, Northrop, Boeing or Raytheon instead."
+  },
+  {
+   "cite": [
+    "c-7cddcadc7e"
+   ],
+   "text": "Thomas Wilson denies that the meeting the notes record took place and denies what they attribute to him."
+  }
+ ],
+ "essays": [],
+ "focusEra": "0",
+ "id": "area-51-ranges",
+ "kind": "institution",
+ "lead": {
+  "cite": [
+   "c-2632cbe98b",
+   "e-dea6bbd861",
+   "c-8a987a7ad6",
+   "c-727721fef0",
+   "c-266a6dbb9a"
+  ],
+  "text": "Area 51 at Groom Lake is a real CIA and Air Force test site whose founding the CIA's own history documents, and which presidents have exempted from environmental disclosure every year since 1995. Around that documented core sit allegations about recovered craft, such as Bob Lazar's account of a site south of Groom Lake and a former EG&G manager's reported statement that they had a saucer recovered from New Mexico."
+ },
+ "members": [
+  {
+   "cls": "location",
+   "id": "l-groom-lake",
+   "label": "Groom Lake, Nevada",
+   "role": "subject"
+  },
+  {
+   "cls": "location",
+   "id": "l-area51",
+   "label": "Area 51 (Homey Airport / Groom Lake operating location)",
+   "role": "subject"
+  },
+  {
+   "cls": "location",
+   "id": "l-nevada-test-site",
+   "label": "Nevada Test Site / Nevada National Security Site",
+   "role": "place"
+  },
+  {
+   "cls": "location",
+   "id": "l-nellis",
+   "label": "Nellis Air Force Base and the Nevada Test and Training Range",
+   "role": "place"
+  },
+  {
+   "cls": "location",
+   "id": "l-tonopah",
+   "label": "Tonopah Test Range, Nevada",
+   "role": "place"
+  },
+  {
+   "cls": "location",
+   "id": "l-edwards-afb",
+   "label": "Edwards Air Force Base, California",
+   "role": "place"
+  },
+  {
+   "cls": "location",
+   "id": "s-4-papoose-lake",
+   "label": "S-4 / Papoose Lake, Nevada",
+   "role": "place"
+  },
+  {
+   "cls": "person",
+   "id": "richard-m-bissell-jr",
+   "label": "Richard M. Bissell Jr.",
+   "role": "official"
+  },
+  {
+   "cls": "document",
+   "id": "cia-overhead-reconnaissance-history-1992",
+   "label": "The Central Intelligence Agency and Overhead Reconnaissance: The U-2 and OXCART Programs, 1954-1974",
+   "role": "document"
+  },
+  {
+   "cls": "document",
+   "id": "groom-lake-presidential-determination",
+   "label": "Presidential Determinations on the Air Force's Operating Location Near Groom Lake",
+   "role": "law"
+  },
+  {
+   "cls": "program",
+   "id": "northrop-tacit-blue",
+   "label": "Northrop TACIT BLUE",
+   "role": "programme"
+  },
+  {
+   "cls": "institution",
+   "id": "eg-and-g",
+   "label": "EG&G (Edgerton, Germeshausen and Grier)",
+   "role": "contractor"
+  },
+  {
+   "cls": "institution",
+   "id": "bechtel-nevada",
+   "label": "Bechtel Nevada Corporation",
+   "role": "contractor"
+  },
+  {
+   "cls": "institution",
+   "id": "northrop-grumman",
+   "label": "Northrop Grumman Corporation",
+   "role": "contractor"
+  },
+  {
+   "cls": "institution",
+   "id": "lockheed-skunk-works",
+   "label": "Lockheed Martin Advanced Development Programs (Skunk Works)",
+   "role": "contractor"
+  },
+  {
+   "cls": "institution",
+   "id": "cia",
+   "label": "Central Intelligence Agency",
+   "role": "institution"
+  },
+  {
+   "cls": "institution",
+   "id": "usaf",
+   "label": "United States Air Force",
+   "role": "institution"
+  },
+  {
+   "cls": "institution",
+   "id": "darpa",
+   "label": "Defense Advanced Research Projects Agency",
+   "role": "institution"
+  },
+  {
+   "cls": "institution",
+   "id": "doe",
+   "label": "United States Department of Energy",
+   "role": "institution"
+  },
+  {
+   "cls": "institution",
+   "id": "atomic-energy-commission",
+   "label": "Atomic Energy Commission",
+   "role": "institution"
+  },
+  {
+   "cls": "person",
+   "id": "peter-merlin",
+   "label": "Peter W. Merlin",
+   "role": "researcher"
+  },
+  {
+   "cls": "person",
+   "id": "alfred-odonnell",
+   "label": "Alfred 'Al' O'Donnell",
+   "role": "claimant"
+  },
+  {
+   "cls": "person",
+   "id": "richard-damato",
+   "label": "Richard D'Amato",
+   "role": "investigator"
+  },
+  {
+   "cls": "person",
+   "id": "edgar-fouche",
+   "label": "Edgar Fouche",
+   "role": "claimant"
+  },
+  {
+   "cls": "document",
+   "id": "fouche-afftc-det3-1979",
+   "label": "AF Form 77a, Letter of Evaluation, 24 August 1979",
+   "role": "document"
+  },
+  {
+   "cls": "document",
+   "id": "fouche-military-documents",
+   "label": "Edgar Fouche's Military, and DOD contractors reference Documents",
+   "role": "document"
+  },
+  {
+   "cls": "program",
+   "id": "tr-3b",
+   "label": "TR-3B 'Astra', claimed black triangular aircraft",
+   "role": "programme"
+  },
+  {
+   "cls": "document",
+   "id": "wilson-davis-memo",
+   "label": "The Wilson-Davis Notes (16 October 2002)",
+   "role": "document"
+  }
+ ],
+ "notes": "The documented history of the site (U-2, OXCART, Tacit Blue) beside the claims made about it.",
+ "questions": [
+  "Where did TACIT BLUE actually fly from? The fact sheet the board holds names no airfield.",
+  "Is there a primary Air Force record, rather than a historian's reference work, identifying AFFTC Detachment 3 with Groom Lake, and where is the separate report on Fouche's duties there?",
+  "What were O'Donnell's exact title and dates at EG&G Nevada, and does the deathbed recording Knapp describes exist anywhere?",
+  "Does any written product of D'Amato's Senate inquiry survive, and which committee chairman asked for it?",
+  "Does any government document use the designator S-4, and did anything ever stand at Papoose Lake at any date?",
+  "What records underlie EG&G's classified site services role at Groom Lake, beyond the worker litigation and the presidential determinations?",
+  "Why do the claimed accounts disagree on which contractor held the material, EG&G or an airframe prime?"
+ ],
+ "record": [
+  {
+   "cite": [
+    "c-1120c2c050",
+    "c-e28e344266",
+    "e-d3a62f4e9f",
+    "e-cae517d5f7"
+   ],
+   "text": "The CIA history records that Allen Dulles gave Bissell charge of the U-2 project on 26 November 1954, and that on 12 April 1955 Bissell, Col. Osmund Ritland, Kelly Johnson and Lockheed's chief test pilot Tony LeVier flew over Nevada and spotted an airstrip by the salt flat known as Groom Lake, near the northeast corner of the AEC's Nevada Proving Ground."
+  },
+  {
+   "cite": [
+    "c-2632cbe98b",
+    "e-c4aec60c94",
+    "e-40e7f6129f",
+    "e-9d918d668e"
+   ],
+   "text": "The same history records that Bissell and Miller asked the Atomic Energy Commission to add the Groom Lake area to its Nevada holdings, that AEC Chairman Lewis Strauss agreed, and that President Eisenhower approved adding the strip known by its map designation as Area 51 to the Nevada Test Site."
+  },
+  {
+   "cite": [
+    "e-19864b3591",
+    "e-dea6bbd861",
+    "c-abf888e608",
+    "c-8ccf2a5d5f"
+   ],
+   "text": "The history was written by the CIA History Staff in 1992 and released on 25 June 2013 with its Area 51 references intact. It states that the Agency's manned overhead reconnaissance programme ran twenty years, from late 1954 to 1974, and names the record sets it was built from."
+  },
+  {
+   "cite": [
+    "c-aab5675b33"
+   ],
+   "text": "It also records that Blue Book investigators regularly checked UFO reports against U-2 flight logs with the Agency's project staff, which let them eliminate the majority of reports, although they could not reveal the true cause to the people who wrote in."
+  },
+  {
+   "cite": [
+    "c-8a987a7ad6",
+    "c-454fd802cc",
+    "e-2852919e5b"
+   ],
+   "text": "Presidential determinations exempting the Air Force's operating location near Groom Lake from federal environmental disclosure requirements have been published in the Federal Register every year since 1995; they never name the facility or describe its contents."
+  },
+  {
+   "cite": [
+    "c-6af33d36cb",
+    "c-7bd8ff5d71",
+    "e-e87b058131"
+   ],
+   "text": "In Kasza v. Browner the Ninth Circuit in 1998 upheld the dismissal of claims arising from the Groom Lake facility on state secrets and statutory exemption grounds, and certiorari was denied."
+  },
+  {
+   "cite": [
+    "c-f06c4bb366",
+    "c-36015ba3b6",
+    "e-181a47c70a",
+    "e-4b0d85477e",
+    "e-a2a3fad2e6"
+   ],
+   "text": "An Air Force fact sheet records that the USAF, DARPA and Northrop worked together from 1978 to 1985 on TACIT BLUE to show that curved surfaces give a low radar return; it first flew in February 1982, flew 135 times, and went on museum display in May 1996."
+  },
+  {
+   "cite": [
+    "c-a533456e7c",
+    "e-939a1c4be9",
+    "c-a3c1e487f5",
+    "e-a9e2b1ee93",
+    "e-4ceb65dd27"
+   ],
+   "text": "DOE technical reports name Bechtel Nevada as the Nevada Test Site's research organisation of record through 2006, succeeded by National Security Technologies, a Northrop Grumman-led consortium. The site is DOE and NNSA property operated by contract."
+  },
+  {
+   "cite": [
+    "c-b661ff151a",
+    "c-a2da5f62ee",
+    "e-8271ddbd37"
+   ],
+   "text": "An AF Form 77a of 24 August 1979, from Fouche's own published compilation, records that he was on temporary duty to AFFTC Detachment 3, Nellis AF Range, from 1 June to 14 August 1979. It does not say what he did there: it refers that to a separate report which is not in the collection."
+  },
+  {
+   "cite": [
+    "c-9943137fe1",
+    "e-8e8108c2cf"
+   ],
+   "text": "The Las Vegas Review-Journal of 21 August 1990 described Lazar's claim, as of that date, as being that the government was testing alien spacecraft at the Nevada Test Site, a Department of Energy site, rather than on the Air Force range where the account later settled."
+  }
+ ],
+ "related": [
+  "lazar-s4",
+  "tr-3b-fouche",
+  "named-contractors",
+  "skunk-works",
+  "wilson-davis-notes",
+  "blue-book",
+  "cia-secrecy-precedents",
+  "crash-claims"
+ ],
+ "section": "custody-allegations",
+ "span": {
+  "from": "1955",
+  "to": "2026"
+ },
+ "status": "verified",
+ "summary": [
+  {
+   "cite": [
+    "c-e28e344266",
+    "c-2632cbe98b",
+    "e-40e7f6129f",
+    "e-dea6bbd861"
+   ],
+   "text": "The documented history: the CIA's Richard Bissell chose the Groom Lake site in April 1955 for the U-2, and the Atomic Energy Commission added the strip known as Area 51 to the Nevada Test Site at his request; the Agency's history of its U-2 and OXCART programmes records the site's establishment and use."
+  },
+  {
+   "cite": [
+    "c-454fd802cc",
+    "c-6af33d36cb",
+    "e-e87b058131"
+   ],
+   "text": "The legal shell: annual presidential determinations since 1995 exempt the Air Force's operating location near Groom Lake from environmental disclosure, and a workers' suit over the site was dismissed on state secrets and statutory exemption grounds."
+  },
+  {
+   "cite": [
+    "e-d307be49cb",
+    "c-a533456e7c",
+    "c-a3c1e487f5"
+   ],
+   "text": "The contractors: EG&G is described as the classified site services contractor for the Nevada complex in the testing era, and DOE records name Bechtel Nevada and then a Northrop Grumman-led consortium as management and operating contractors of the Nevada Test Site."
+  },
+  {
+   "cite": [
+    "e-45dedeb372",
+    "e-a8cc8584f8",
+    "e-c06775988b",
+    "c-e4199b12f0",
+    "c-474202a7ff"
+   ],
+   "text": "The allegations: Lazar's S-4 account is sited by reference to Groom Lake, Edgar Fouche narrated Groom Lake work and relays a friend's sighting of a TR-3B based at Papoose, and George Knapp relays an EG&G manager's statement about a recovered saucer. On the board's reading, the site's long official silence shows how a contractor-staffed installation can be kept off the acknowledged record, which is an inference, not a document."
+  }
+ ],
+ "title": "Area 51 and the Nevada ranges"
+}

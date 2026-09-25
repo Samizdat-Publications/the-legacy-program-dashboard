@@ -1,0 +1,1840 @@
+{
+ "absorbs": [],
+ "anchors": [
+  "l-wright-patterson",
+  "atic",
+  "foreign-technology-division",
+  "nasic",
+  "project-moon-dust",
+  "operation-blue-fly",
+  "usaf-1127th-field-activities-group",
+  "arthur-e-exon",
+  "howard-mccoy",
+  "project-bear"
+ ],
+ "appendixT": null,
+ "cites": {
+  "c-011bc31f13": {
+   "id": "c-011bc31f13",
+   "kind": "claim",
+   "node": "usaf-1127th-field-activities-group",
+   "nodeLabel": "1127th USAF Field Activities Group",
+   "source": {
+    "domain": null,
+    "text": "History, 1127 USAF Field Activities Group (AFNIA), 1 January - 30 June 1967, doc. AFNIABA 014-67, contents page and title page",
+    "url": null
+   },
+   "text": "The unit's own semiannual history, 'HISTORY / 1127 USAF FIELD ACTIVITIES GROUP (AFNIA) / 1 January - 30 June 1967', document number AFNIABA 014-67, lists under FOREIGN MATERIEL PROGRAM: 'Project BLUE FLY' (p.29), 'MIG-17 Exploitation' (p.29) and 'Project MOON DUST' (p.30). It was classified SECRET and bears the struck-through markings 'RODCA MATERIAL / SPECIAL ACCESS REQUIRED / NO FOREIGN DISSEMINATION'.",
+   "tier": 1
+  },
+  "c-06ff8536c6": {
+   "id": "c-06ff8536c6",
+   "kind": "claim",
+   "node": "foreign-technology-division",
+   "nodeLabel": "Foreign Technology Division, Wright-Patterson AFB",
+   "source": {
+    "domain": "nicap.org",
+    "text": "Air Force Regulation 80-17, 19 September 1966, https://nicap.org/afr80-17.htm",
+    "url": "https://nicap.org/afr80-17.htm"
+   },
+   "text": "FTD, not a base, was the terminal analytical office: 'FTD will: (1) Analyze and evaluate all information and evidence reported to bases on those UFOs which are not identified at the base level', and 'FTD, Wright-Patterson AFB, Ohio, will prepare a final case report on each sighting reported to it.'",
+   "tier": 1
+  },
+  "c-110894251b": {
+   "id": "c-110894251b",
+   "kind": "claim",
+   "node": "podesta-delonge-mccasland-email-2016",
+   "nodeLabel": "DeLonge to Podesta, 'General McCasland', 25 January 2016 (WikiLeaks Podesta Emails 3099)",
+   "source": {
+    "domain": "wikileaks.org",
+    "text": "WikiLeaks, The Podesta Emails, email id 3099, https://wikileaks.org/podesta-emails/emailid/3099",
+    "url": "https://wikileaks.org/podesta-emails/emailid/3099"
+   },
+   "text": "In the same email DeLonge told Podesta the general was not the sceptic he had been described as: 'I've been working with him for four months. I just got done giving him a four hour presentation on the entire project a few weeks ago', and that 'He not only knows what I'm trying to achieve, he helped assemble my advisory team.'",
+   "tier": 1
+  },
+  "c-11090d2b01": {
+   "id": "c-11090d2b01",
+   "kind": "claim",
+   "node": "project-moon-dust",
+   "nodeLabel": "Project MOON DUST",
+   "source": {
+    "domain": null,
+    "text": "The Black Vault, Project Moon Dust document archive, 4 Mar 2015",
+    "url": null
+   },
+   "text": "Department of State records on Project MOON DUST have been released under FOIA, including a 22-page file and a two-page file declassified by the Central Intelligence Agency.",
+   "tier": 1
+  },
+  "c-1d14b45f7e": {
+   "id": "c-1d14b45f7e",
+   "kind": "claim",
+   "node": "atic",
+   "nodeLabel": "Air Technical Intelligence Center",
+   "source": {
+    "domain": null,
+    "text": "AFR 200-2, 12 Aug 1954",
+    "url": null
+   },
+   "text": "Under AFR 200-2 (12 August 1954), ATIC was the terminal analytical authority for unidentified reports after the Air Defense Command and the 4602d Air Intelligence Service Squadron had exhausted identification.",
+   "tier": 1
+  },
+  "c-2389a8a180": {
+   "id": "c-2389a8a180",
+   "kind": "claim",
+   "node": "arthur-e-exon",
+   "nodeLabel": "Arthur E. Exon",
+   "source": {
+    "domain": "www.govinfo.gov",
+    "text": "Wright-Patterson Air Force Base: The First Century, History Office, Air Force Life Cycle Management Center, Air Force Materiel Command, 2015, Appendix B, p. 44. https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-gpo111353/pdf/GOVPUB-D301-PURL-gpo111353.pdf",
+    "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-gpo111353/pdf/GOVPUB-D301-PURL-gpo111353.pdf"
+   },
+   "text": "The Air Force's own base history lists the installation commanders in sequence: 'Colonel Glen McClernon August 1962 / Colonel Arthur E. Exon August 1964 / Colonel Jowell C. Wise December 1965'. Exon held the post as a colonel, from August 1964, and was succeeded in December 1965.",
+   "tier": 1
+  },
+  "c-26ae691768": {
+   "id": "c-26ae691768",
+   "kind": "claim",
+   "node": "tr-ac-47-silver-bug",
+   "nodeLabel": "TR-AC-47, Joint ATIC-WADC Report on Project Silver Bug, 15 February 1955",
+   "source": {
+    "domain": "documents.theblackvault.com",
+    "text": "TR-AC-47, page 1, Section I B 1, General Description, https://documents.theblackvault.com/documents/SilverBug/AFD-070114-006.pdf",
+    "url": "https://documents.theblackvault.com/documents/SilverBug/AFD-070114-006.pdf"
+   },
+   "text": "Section I distinguishes the two company designations: 'Two versions of small research VTO aircraft have been designed by the contractor, which, by company designation, are Project Y (Secret), a \"tail-sitter\", and Project Y2 (Secret), a \"flat-riser\". Early in the investigation, Project Y (Secret) was rejected by the contractor in favor of the flat-riser.'",
+   "tier": 1
+  },
+  "c-2bde929920": {
+   "id": "c-2bde929920",
+   "kind": "claim",
+   "node": "usaf-1127th-field-activities-group",
+   "nodeLabel": "1127th USAF Field Activities Group",
+   "source": {
+    "domain": null,
+    "text": "History of the Assistant Chief of Staff, Intelligence, July - December 1967, p.62",
+    "url": null
+   },
+   "text": "The companion 'History of the Assistant Chief of Staff, Intelligence, July - December 1967' states at page 62 that the Operations Plans Branch 'received from the 1st Aerospace Control Squadron (SPADATS) at Ent, AFB, Colorado, notifications of the deorbit of 49 Soviet space objects (rocket bodies, payloads, and space platforms), and of 17 US space objects considered to be of special importance.' These are notifications of deorbit received, NOT objects recovered.",
+   "tier": 1
+  },
+  "c-30ac5bc3f0": {
+   "id": "c-30ac5bc3f0",
+   "kind": "claim",
+   "node": "foreign-technology-division",
+   "nodeLabel": "Foreign Technology Division, Wright-Patterson AFB",
+   "source": {
+    "domain": "nicap.org",
+    "text": "Air Force Regulation 80-17, 'Research and Development - UNIDENTIFIED FLYING OBJECTS (UFO)', Department of the Air Force, 19 September 1966, https://nicap.org/afr80-17.htm",
+    "url": "https://nicap.org/afr80-17.htm"
+   },
+   "text": "The Blue Book effort was assigned to FTD by regulation: 'The Air Force Systems Command will support the program with current resources within the Foreign Technology Division (FTD) at Wright-Patterson Air Force Base, Ohio, to continue Blue Book effort.'",
+   "tier": 1
+  },
+  "c-334c4598fd": {
+   "id": "c-334c4598fd",
+   "kind": "claim",
+   "node": "eric-wang",
+   "nodeLabel": "Eric H. Wang",
+   "source": {
+    "domain": null,
+    "text": "American Alchemy with Jesse Michels, 'Henry Kissinger & UFO Secrecy: The Dark Connection', published 17 April 2025, at 0:03:33 and 0:04:25",
+    "url": null
+   },
+   "text": "On American Alchemy with Jesse Michels, 17 April 2025, Michels said at 0:03:33 that Eric Wang was 'the head of the Special Studies Department at Wright-Patterson', that attempts to verify his background lead to 'no biographical details, no employment records, no published research', and at 0:04:25 that the researcher William Steinman found an obituary giving Dr. Eric H. Wang as born in 1906, originally from Vienna and a graduate of the Vienna Technical Institute, a contemporary of Viktor Schauberger, and that in 1956 Wang's department was relocated to the Sandia complex at Kirtland Air Force Base. No document supporting any of this was opened, and the board's own reading of DTIC ADA073468, ADA073475 and AD0460283 located no Austrian birth.",
+   "tier": 2
+  },
+  "c-39a636610d": {
+   "id": "c-39a636610d",
+   "kind": "claim",
+   "node": "operation-blue-fly",
+   "nodeLabel": "Operation BLUE FLY",
+   "source": {
+    "domain": null,
+    "text": "History, 1127 USAF Field Activities Group, 1 January - 30 June 1967, contents page",
+    "url": null
+   },
+   "text": "BLUE FLY and MOON DUST are listed together under FOREIGN MATERIEL PROGRAM on the contents page of the same unit history, alongside 'MIG-17 Exploitation' -- establishing the relationship as an organisational fact stated by the unit that ran both.",
+   "tier": 1
+  },
+  "c-3a4657a89b": {
+   "id": "c-3a4657a89b",
+   "kind": "claim",
+   "node": "tr-ac-47-silver-bug",
+   "nodeLabel": "TR-AC-47, Joint ATIC-WADC Report on Project Silver Bug, 15 February 1955",
+   "source": {
+    "domain": "documents.theblackvault.com",
+    "text": "TR-AC-47, page iii, Summary, Discussion, https://documents.theblackvault.com/documents/SilverBug/AFD-070114-006.pdf",
+    "url": "https://documents.theblackvault.com/documents/SilverBug/AFD-070114-006.pdf"
+   },
+   "text": "The Summary's Discussion section states: 'This project should in no way be associated with any science fiction or \"Flying Saucer\" stories because of its external appearance. The configuration was a result of an engineering investigation into the solution of a particular problem.' It names the contractor as 'AVRO Aircraft, Limited, a member of the Hawker-Siddley Group'.",
+   "tier": 1
+  },
+  "c-3ec1ec7c73": {
+   "id": "c-3ec1ec7c73",
+   "kind": "claim",
+   "node": "atic",
+   "nodeLabel": "Air Technical Intelligence Center",
+   "source": {
+    "domain": null,
+    "text": "Inference from the organisational placement documented in the Condon Report and the USAF fact sheet",
+    "url": null
+   },
+   "text": "Assigning the phenomenon to the foreign-materiel exploitation centre rather than to a research or air-defence organisation indicates the problem was framed institutionally as hardware exploitation from the outset.",
+   "tier": 3
+  },
+  "c-3fea956d6f": {
+   "id": "c-3fea956d6f",
+   "kind": "claim",
+   "node": "project-moon-dust",
+   "nodeLabel": "Project MOON DUST",
+   "source": {
+    "domain": null,
+    "text": "Department of State releases, Project Moon Dust files",
+    "url": null
+   },
+   "text": "MOON DUST is officially described as an operation to recover objects and debris from space vehicles that survived re-entry.",
+   "tier": 1
+  },
+  "c-47b9bd6576": {
+   "id": "c-47b9bd6576",
+   "kind": "claim",
+   "node": "william-mccasland",
+   "nodeLabel": "William Neil McCasland",
+   "source": {
+    "domain": "www.af.mil",
+    "text": "USAF official biography, Maj. Gen. William N. McCasland https://www.af.mil/About-Us/Biographies/Display/article/104776/major-general-william-n-mccasland/",
+    "url": "https://www.af.mil/About-Us/Biographies/Display/article/104776/major-general-william-n-mccasland/"
+   },
+   "text": "The Air Force's own biography gives McCasland's assignment for June 2009 to May 2011 as 'Director, Special Programs, Office of the Under Secretary of Defense for Acquisition, Technology and Logistics, the Pentagon, Washington, D.C.', and for June 2007 to June 2009 as 'Director, Space Acquisition, Office of the Under Secretary of the Air Force'.",
+   "tier": 1
+  },
+  "c-4ef0ce2509": {
+   "id": "c-4ef0ce2509",
+   "kind": "claim",
+   "node": "project-stork",
+   "nodeLabel": "Project Stork (Project White Stork)",
+   "source": {
+    "domain": null,
+    "text": "Project Stork status reports, First (25 April 1952) and Fifth (10 September 1952), transcribed from NARA holdings",
+    "url": null
+   },
+   "text": "The contract is identified: from the Fifth Status Report onward the heading reads 'on CONTRACT AF-19741, PPS-100'. The First Status Report of 25 April 1952 'describes progress on Project Stork PPS-100, from its inception on March 31, 1952 through April 25, 1952'.",
+   "tier": 1
+  },
+  "c-510904c879": {
+   "id": "c-510904c879",
+   "kind": "claim",
+   "node": "arthur-e-exon",
+   "nodeLabel": "Arthur E. Exon",
+   "source": {
+    "domain": "www.govinfo.gov",
+    "text": "Wright-Patterson Air Force Base: The First Century, 2015, searched in full. https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-gpo111353/pdf/GOVPUB-D301-PURL-gpo111353.pdf",
+    "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-gpo111353/pdf/GOVPUB-D301-PURL-gpo111353.pdf"
+   },
+   "text": "The same 76-page installation history names Exon in no other place and records nothing about him beyond the appendix entry.",
+   "tier": 1
+  },
+  "c-6507e8606c": {
+   "id": "c-6507e8606c",
+   "kind": "claim",
+   "node": "howard-mccoy",
+   "nodeLabel": "Howard M. McCoy",
+   "source": {
+    "domain": null,
+    "text": "Condon Report Sec. V Ch. 2 and Ruppelt, 'The Report on Unidentified Flying Objects' (1956), on the AMC/ATIC chain",
+    "url": null
+   },
+   "text": "McCoy was Chief of Intelligence at Air Materiel Command, the organisation that would have received any recovered material, and was the operational supervisor of Project SIGN.",
+   "tier": 2
+  },
+  "c-66f4e18b03": {
+   "id": "c-66f4e18b03",
+   "kind": "claim",
+   "node": "eric-wang",
+   "nodeLabel": "Eric H. Wang",
+   "source": {
+    "domain": null,
+    "text": "Operation Upshot-Knothole, Project 3.1, DTIC ADA073468, introduction",
+    "url": null
+   },
+   "text": "The same report records that 'Most of the introduction section of this report was taken from the preface of the Preliminary Report, Operation UPSHOT-KNOTHOLE, Project 3.1 authored by Eric H. Wang and Bernard J. O'Brien', and that responsibility for the six projects transferred 'from the Special Studies Office, Installations Division, Air Materiel Command to Blast Effects Research, Mechanics Branch, Aeronautical Research Laboratory, Wright Air Development Center, on 15 November 1954'.",
+   "tier": 1
+  },
+  "c-6cae43c392": {
+   "id": "c-6cae43c392",
+   "kind": "claim",
+   "node": "podesta-delonge-mccasland-email-2016",
+   "nodeLabel": "DeLonge to Podesta, 'General McCasland', 25 January 2016 (WikiLeaks Podesta Emails 3099)",
+   "source": {
+    "domain": "wikileaks.org",
+    "text": "WikiLeaks, The Podesta Emails, email id 3099, released 10 October 2016, https://wikileaks.org/podesta-emails/emailid/3099",
+    "url": "https://wikileaks.org/podesta-emails/emailid/3099"
+   },
+   "text": "DeLonge wrote to Podesta on 25 January 2016 under the subject 'General McCasland': 'When Roswell crashed, they shipped it to the laboratory at Wright Patterson Air Force Base. General McCasland was in charge of that exact laboratory up to a couple years ago.' The raw source gives the date as Mon, 25 Jan 2016 10:04:29 -0800 and the message id as E8428167-CF1B-4CC3-95D2-977A277CC5CB@me.com.",
+   "tier": 1
+  },
+  "c-6cd1f92fbb": {
+   "id": "c-6cd1f92fbb",
+   "kind": "claim",
+   "node": "project-bear",
+   "nodeLabel": "Project BEAR (Battelle contract to Project GRUDGE)",
+   "source": {
+    "domain": null,
+    "text": "AARO, Historical Record Report Volume I, March 2024",
+    "url": null
+   },
+   "text": "'Project BEAR was an informal name given by Capt Ruppelt... to a contract he created with the Battelle Memorial Institute (BMI) to provide scientific support to the new Project GRUDGE.' Battelle 'released a report under the cover of ATIC to maintain its anonymity. Completed in late 1954, the report was titled Special Report No. 14.'",
+   "tier": 1
+  },
+  "c-72a327a886": {
+   "id": "c-72a327a886",
+   "kind": "claim",
+   "node": "usaf-1127th-field-activities-group",
+   "nodeLabel": "1127th USAF Field Activities Group",
+   "source": {
+    "domain": null,
+    "text": "History, 1127 USAF Field Activities Group, 1 Jan - 30 Jun 1967, p.29",
+    "url": null
+   },
+   "text": "The same page records that in February 1967 'the Joint Chiefs of Staff approved a one-year extension of the authority granted the USAF to apply Force/Activity Designator I (F/AD-I) priority to short-notice BLUE FLY airlift contingencies.'",
+   "tier": 1
+  },
+  "c-7b3d4509bc": {
+   "id": "c-7b3d4509bc",
+   "kind": "claim",
+   "node": "eric-wang",
+   "nodeLabel": "Eric H. Wang",
+   "source": {
+    "domain": "mgln.ai",
+    "text": "American Alchemy with Jesse Michels, 'Matthew Pines: Anti-Gravity Tech & Inter-Dimensional Aliens', 15 November 2024, 2:47:06, https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/TOE4097453442.mp3?updated=1751923843",
+    "url": "https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/TOE4097453442.mp3?updated=1751923843"
+   },
+   "text": "At 2:47:06 in the same episode Pines said Steinman's text refers to Wang's boss only as 'H-A-K', and that he himself concluded 'oh, Henry A. Kissinger'. Pines states the identification as his own inference from the initials, not as something Steinman wrote. Any Wang-to-Kissinger link would rest on that inference and on nothing else.",
+   "tier": 2
+  },
+  "c-8300964eaa": {
+   "id": "c-8300964eaa",
+   "kind": "claim",
+   "node": "william-mccasland",
+   "nodeLabel": "William Neil McCasland",
+   "source": {
+    "domain": "www.af.mil",
+    "text": "USAF biography https://www.af.mil/About-Us/Biographies/Display/article/104776/major-general-william-n-mccasland/ compared against DIA INFO MEMO U-09-2660, https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237611/",
+    "url": "https://www.af.mil/About-Us/Biographies/Display/article/104776/major-general-william-n-mccasland/"
+   },
+   "text": "That Special Programs directorate is OUSD(AT&L), NOT OUSD(I). DIA's INFO MEMO U-09-2660 of 13 November 2009 declining the AAWSAP special access program request was addressed to 'DIRECTOR, SPECIAL PROGRAMS, OFFICE OF THE UNDER SECRETARY OF DEFENSE FOR INTELLIGENCE'. The two offices are distinct and McCasland held the AT&L one; nothing here places him in the AAWSAP decision.",
+   "tier": 1
+  },
+  "c-88aca962dc": {
+   "id": "c-88aca962dc",
+   "kind": "claim",
+   "node": "usaf-1127th-field-activities-group",
+   "nodeLabel": "1127th USAF Field Activities Group",
+   "source": {
+    "domain": null,
+    "text": "History, 1127 USAF Field Activities Group, 1 Jan - 30 Jun 1967, p.29, Project BLUE FLY",
+    "url": null
+   },
+   "text": "Page 29 records that after the 7 April 1967 air battle, three MIG-21s that crashed in Jordan were exploited by 'personnel of Detachment 3, FTD', and that the Staff Operations Branch 'coordinated requirements necessary to deploy the FTD exploitation personnel and to airlift personnel and parts from site of acquisition to Wright-Patterson AFB. The take consisted of approximately three tons of aircraft parts and armament.'",
+   "tier": 1
+  },
+  "c-953af1ec7d": {
+   "id": "c-953af1ec7d",
+   "kind": "claim",
+   "node": "foreign-technology-division",
+   "nodeLabel": "Foreign Technology Division, Wright-Patterson AFB",
+   "source": {
+    "domain": "files.ncas.org",
+    "text": "Special Report of the USAF Scientific Advisory Board Ad Hoc Committee to Review Project 'Blue Book', March 1966, printed as Appendix A of the Condon Report, https://files.ncas.org/condon/text/appndx-a.htm",
+    "url": "https://files.ncas.org/condon/text/appndx-a.htm"
+   },
+   "text": "The USAF Scientific Advisory Board's ad hoc committee of March 1966 identified FTD as 'the AFSC Foreign Technology Division, which is the cognizant Air Force agency that collates information on UFO sightings and monitors investigations of individual cases', and recommended that it 'should continue to exercise its presently assigned responsibilities concerning UFOs.'",
+   "tier": 1
+  },
+  "c-96180ce2ed": {
+   "id": "c-96180ce2ed",
+   "kind": "claim",
+   "node": "project-moon-dust",
+   "nodeLabel": "Project MOON DUST",
+   "source": {
+    "domain": null,
+    "text": "History, 1127 USAF Field Activities Group, 1 Jan - 30 Jun 1967, p.30; and History of the Assistant Chief of Staff, Intelligence, July - December 1967, p.62",
+    "url": null
+   },
+   "text": "The figures commonly quoted as MOON DUST recoveries are notifications of deorbit received, not objects recovered. The 1127th's own history records that SPADATS 'notified AFNIAA of the deorbit of 37 Soviet space objects' in the first half of 1967, and the companion history of the Assistant Chief of Staff, Intelligence records 'notifications of the deorbit of 49 Soviet space objects (rocket bodies, payloads, and space platforms), and of 17 US space objects considered to be of special importance' in the second half. Deorbit notification is the tasking trigger; recovery is a separate act neither document counts.",
+   "tier": 1
+  },
+  "c-98e664d9c0": {
+   "id": "c-98e664d9c0",
+   "kind": "claim",
+   "node": "atic",
+   "nodeLabel": "Air Technical Intelligence Center",
+   "source": {
+    "domain": null,
+    "text": "AFR 200-2, 26 August 1953, paragraph 4a, read off the release scan",
+    "url": null
+   },
+   "text": "ATIC's designation as the terminal analytical authority is on the face of the 1953 edition as well as the 1954 one. AFR 200-2 of 26 August 1953, paragraph 4a: 'The Air Technical Intelligence Center (ATIC), Wright-Patterson Air Force Base, Ohio, has been designated the Air Force activity responsible for conducting analysis of information and evidence.'",
+   "tier": 1
+  },
+  "c-9d4e3dcd65": {
+   "id": "c-9d4e3dcd65",
+   "kind": "claim",
+   "node": "eric-wang",
+   "nodeLabel": "Eric H. Wang",
+   "source": {
+    "domain": null,
+    "text": "Blast Effects on Existing Upshot-Knothole and Teapot Structures, DTIC AD0460283, 6 May 1960, acknowledgments",
+    "url": null
+   },
+   "text": "A 1960 report names 'Eric H. Wang, Chief, Structures Division' at Headquarters Research Directorate, Air Force Special Weapons Center, Kirtland Air Force Base, New Mexico -- establishing his move from Air Materiel Command to Kirtland and his continued leadership of a structures organisation there.",
+   "tier": 1
+  },
+  "c-9fed41fdc6": {
+   "id": "c-9fed41fdc6",
+   "kind": "claim",
+   "node": "atic",
+   "nodeLabel": "Air Technical Intelligence Center",
+   "source": {
+    "domain": null,
+    "text": "AFR 200-2, 26 August 1953 and 12 August 1954, full text of both editions",
+    "url": null
+   },
+   "text": "The claim that AFR 200-2 'routed reports to ATIC rather than to Blue Book' is a category error: Project Blue Book was a project inside ATIC at Wright-Patterson, and the 1953 regulation does not mention Blue Book at all in either edition, because naming ATIC is naming Blue Book's own host.",
+   "tier": 1
+  },
+  "c-a0ebc8bcc0": {
+   "id": "c-a0ebc8bcc0",
+   "kind": "claim",
+   "node": "usaf",
+   "nodeLabel": "United States Air Force",
+   "source": {
+    "domain": null,
+    "text": "Inference from the scope of the Condon Report and the survival of FTD/AFOSI reporting channels",
+    "url": null
+   },
+   "text": "The termination of BLUE BOOK in December 1969 did not end Air Force UFO collection; it ended the public-facing collection channel while leaving the Foreign Technology Division and AFOSI channels intact. Reasoning: the Condon Report addressed only the scientific merit of public sighting investigation, and no document terminating classified collection has ever been produced.",
+   "tier": 3
+  },
+  "c-a6c4689344": {
+   "id": "c-a6c4689344",
+   "kind": "claim",
+   "node": "atic",
+   "nodeLabel": "Air Technical Intelligence Center",
+   "source": {
+    "domain": null,
+    "text": "USAF Fact Sheet on Project Blue Book; Condon Report Sec. V Ch. 2",
+    "url": null
+   },
+   "text": "Projects SIGN, GRUDGE and Blue Book were all hosted at Wright-Patterson AFB under Air Materiel Command intelligence and its successor ATIC.",
+   "tier": 1
+  },
+  "c-a8277598fd": {
+   "id": "c-a8277598fd",
+   "kind": "claim",
+   "node": "operation-blue-fly",
+   "nodeLabel": "Operation BLUE FLY",
+   "source": {
+    "domain": null,
+    "text": "US Air Force Fact Sheet, Public Affairs Division, Wright-Patterson AFB, January 1985, reproduced by the National Archives",
+    "url": null
+   },
+   "text": "The USAF public fact sheet distributed by Wright-Patterson AFB in January 1985 states: 'Periodically, it is erroneously stated that the remains of extraterrestrial visitors are or have been stored at Wright-Patterson AFB. There are not now nor ever have been, any extraterrestrial visitors or equipment on Wright-Patterson Air Force Base.'",
+   "tier": 1
+  },
+  "c-acc38c39b0": {
+   "id": "c-acc38c39b0",
+   "kind": "claim",
+   "node": "nasic",
+   "nodeLabel": "National Air and Space Intelligence Center",
+   "source": {
+    "domain": null,
+    "text": "The Debrief, 5 June 2023",
+    "url": null
+   },
+   "text": "A serving NASIC intelligence officer with Top Secret clearance corroborated Grusch on the record under the pseudonym Jonathan Grey.",
+   "tier": 2
+  },
+  "c-af1656a661": {
+   "id": "c-af1656a661",
+   "kind": "claim",
+   "node": "tr-ac-47-silver-bug",
+   "nodeLabel": "TR-AC-47, Joint ATIC-WADC Report on Project Silver Bug, 15 February 1955",
+   "source": {
+    "domain": "documents.theblackvault.com",
+    "text": "TR-AC-47, page 23, Section II B, Present Development Status, https://documents.theblackvault.com/documents/SilverBug/AFD-070114-006.pdf",
+    "url": "https://documents.theblackvault.com/documents/SilverBug/AFD-070114-006.pdf"
+   },
+   "text": "Section II dates the USAF development track: Technical Requirement No. 3 dated 13 August 1954, a development plan dated 15 September 1954 written by 'WADC, Directorate of Weapons Systems Operations, Bombardment Aircraft Division, New Development Office', an order to proceed issued 29 December 1954, and a proposed statement of work dated 8 November 1954 to be incorporated in a study contract.",
+   "tier": 1
+  },
+  "c-b660b636f9": {
+   "id": "c-b660b636f9",
+   "kind": "claim",
+   "node": "william-mccasland",
+   "nodeLabel": "William Neil McCasland",
+   "source": {
+    "domain": "www.af.mil",
+    "text": "USAF official biography https://www.af.mil/About-Us/Biographies/Display/article/104776/major-general-william-n-mccasland/",
+    "url": "https://www.af.mil/About-Us/Biographies/Display/article/104776/major-general-william-n-mccasland/"
+   },
+   "text": "The biography opens: 'Maj. Gen. William N. McCasland is the Commander, Air Force Research Laboratory, Wright-Patterson Air Force Base, Ohio. He is responsible for managing the Air Force's $2.2 billion science and technology program as well as additional customer funded research and development of $2.2 billion.' It also records his command of the Phillips Research Site at Kirtland AFB, 2001-2004.",
+   "tier": 1
+  },
+  "c-b820bee21f": {
+   "id": "c-b820bee21f",
+   "kind": "claim",
+   "node": "eric-wang",
+   "nodeLabel": "Eric H. Wang",
+   "source": {
+    "domain": null,
+    "text": "American Alchemy with Jesse Michels, 'Henry Kissinger & UFO Secrecy: The Dark Connection', published 17 April 2025, at 0:05:17",
+    "url": null
+   },
+   "text": "In the same episode, at 0:05:17, Michels said that Steinman tracked down Wang's widow, Maria Wang, and that she said her husband had reported directly to Henry Kissinger and that Kissinger had visited their home. The account is given by Michels as Steinman's. The board holds no record of Maria Wang, of any Kissinger connection, or of Steinman's correspondence.",
+   "tier": 2
+  },
+  "c-bae151092d": {
+   "id": "c-bae151092d",
+   "kind": "claim",
+   "node": "atic",
+   "nodeLabel": "Air Technical Intelligence Center",
+   "source": {
+    "domain": "www.usafunithistory.com",
+    "text": "AEROSPACE TECHNICAL INTELLIGENCE CENTER, Department of the Air Force Organizational Histories compilation, created 10 December 2025, sourced to the Air Force Historical Research Agency, https://www.usafunithistory.com/PDF/A-E/AEROSPACE%20TECHNICAL%20INTELLIGENCE%20CENTER.pdf",
+    "url": "https://www.usafunithistory.com/PDF/A-E/AEROSPACE%20TECHNICAL%20INTELLIGENCE%20CENTER.pdf"
+   },
+   "text": "The lineage is a discontinuation and a new constitution, not a renaming: 'Air Technical Intelligence Center established 21 May 1951; redesignated Aerospace Technical Intelligence Center, 21 September 1959; discontinued 1 July 1961. Foreign Technology Division constituted, activated, and organized 1 July 1961', and 'On 1 July 1961, the organization was inactivated and the mission and resources absorbed by the Foreign Technology Division (FTD)'. Tier 2 because the compilation carrying this text is a private site citing the Air Force Historical Research Agency, and AFHRA's own pages return HTTP 403 from this environment.",
+   "tier": 2
+  },
+  "c-c0d68ad569": {
+   "id": "c-c0d68ad569",
+   "kind": "claim",
+   "node": "eric-wang",
+   "nodeLabel": "Eric H. Wang",
+   "source": {
+    "domain": null,
+    "text": "Full-text reading of DTIC ADA073468, ADA073475 and AD0460283; negative finding",
+    "url": null
+   },
+   "text": "Nothing in the UPSHOT-KNOTHOLE reports or the 1960 AFSWC report touches unidentified aerial phenomena, recovered materiel, reverse engineering, Henry Kissinger or Viktor Schauberger. Wang's documented role throughout is blast effects on structures. No document supporting an Austrian birth was located.",
+   "tier": 1
+  },
+  "c-c41ea8c2de": {
+   "id": "c-c41ea8c2de",
+   "kind": "claim",
+   "node": "tr-ac-47-silver-bug",
+   "nodeLabel": "TR-AC-47, Joint ATIC-WADC Report on Project Silver Bug, 15 February 1955",
+   "source": {
+    "domain": "documents.theblackvault.com",
+    "text": "TR-AC-47 title page, rendered from the scan at https://documents.theblackvault.com/documents/SilverBug/AFD-070114-006.pdf",
+    "url": "https://documents.theblackvault.com/documents/SilverBug/AFD-070114-006.pdf"
+   },
+   "text": "The title page reads 'TR-AC-47 / (Unclassified) / JOINT ATIC-WADC REPORT ON / PROJECT SILVER BUG / PROJECT NO. 9961 / 15 FEBRUARY 1955', issued by the 'AIR TECHNICAL INTELLIGENCE CENTER, WRIGHT-PATTERSON AIR FORCE BASE, OHIO', and carries a handwritten declassification stamp reading 'Declassified 29 MAR 95', 'Auth: DoD 5200.1.R', 'SAF/AAZD'.",
+   "tier": 1
+  },
+  "c-c538b12826": {
+   "id": "c-c538b12826",
+   "kind": "claim",
+   "node": "eric-wang",
+   "nodeLabel": "Eric H. Wang",
+   "source": {
+    "domain": null,
+    "text": "Operation Upshot-Knothole, Project 3.1, Tests on the Loading of Building and Equipment Shapes, DTIC ADA073468, acknowledgments",
+    "url": null
+   },
+   "text": "The Operation UPSHOT-KNOTHOLE Project 3.1 final report names 'Eric H. Wang, Chief, Special Studies Office, who was the technical and scientific monitor for the Air Force Program', alongside Arthur Stansel and Mrs. Maisie G. Ridgeway, secretary to Mr. Wang.",
+   "tier": 1
+  },
+  "c-c6cad31a70": {
+   "id": "c-c6cad31a70",
+   "kind": "claim",
+   "node": "l-wright-patterson",
+   "nodeLabel": "Wright-Patterson Air Force Base, Ohio",
+   "source": {
+    "domain": null,
+    "text": "Inference from the ATIC/FTD/NASIC lineage and the absence of any identified T-2 declassification project",
+    "url": null
+   },
+   "text": "If any legacy recovery and exploitation effort existed, this installation is its institutional address: the United States assigned unidentified flying objects to the organisation whose mission is taking recovered foreign hardware apart, and that organisation's 1947-1951 files have never had a comprehensive declassification review. Reasoning: SIGN, GRUDGE and Blue Book were all hosted under AMC/ATIC here, and no FOIA release or NARA accession covering T-2's 1947-1951 intelligence series has been identified.",
+   "tier": 3
+  },
+  "c-ca6478151d": {
+   "id": "c-ca6478151d",
+   "kind": "claim",
+   "node": "jonathan-grey",
+   "nodeLabel": "\"Jonathan Grey\" (pseudonym)",
+   "source": {
+    "domain": null,
+    "text": "'Jonathan Grey,' NASIC, quoted in The Debrief, 5 June 2023",
+    "url": null
+   },
+   "text": "'The non-human intelligence phenomenon is real. We are not alone.' Also: retrievals of this kind are not limited to the United States.",
+   "tier": 2
+  },
+  "c-d1f1a40c24": {
+   "id": "c-d1f1a40c24",
+   "kind": "claim",
+   "node": "eric-wang",
+   "nodeLabel": "Eric H. Wang",
+   "source": {
+    "domain": "mgln.ai",
+    "text": "American Alchemy with Jesse Michels, 'Matthew Pines: Anti-Gravity Tech & Inter-Dimensional Aliens', 15 November 2024, 2:46:17, https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/TOE4097453442.mp3?updated=1751923843",
+    "url": "https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/TOE4097453442.mp3?updated=1751923843"
+   },
+   "text": "On American Alchemy with Jesse Michels, 15 November 2024, at 2:46:17, Matthew Pines named the source of the Wright-Patterson story about Wang: a book by the UFO researcher William Steinman on the 1948 Aztec crash, which Pines says describes 'Eric Henry Wang' as head of special projects at Wright-Patterson who came over with Operation Paperclip. This identifies the single secondhand source behind the story the board's existing caution declines.",
+   "tier": 2
+  },
+  "c-d64aa6e945": {
+   "id": "c-d64aa6e945",
+   "kind": "claim",
+   "node": "eric-wang",
+   "nodeLabel": "Eric H. Wang",
+   "source": {
+    "domain": null,
+    "text": "Operation UPSHOT-KNOTHOLE Project 3.5, DTIC ADA073475, acknowledgments; and Project 3.1, DTIC ADA073468",
+    "url": null
+   },
+   "text": "The printed name of the organisation is the Special Studies Office (also Special Studies Section), inside the Installations Division of Air Materiel Command -- not the 'Office of Special Studies'. The colleague's name is Arthur Stansel, whom the Project 3.5 report tracks onward to 'Landing Gear Development Section, Equipment Laboratory, Wright Air Development Center'.",
+   "tier": 1
+  },
+  "c-d6ae9dea74": {
+   "id": "c-d6ae9dea74",
+   "kind": "claim",
+   "node": "foreign-technology-division",
+   "nodeLabel": "Foreign Technology Division, Wright-Patterson AFB",
+   "source": {
+    "domain": "files.ncas.org",
+    "text": "Special Report of the USAF Scientific Advisory Board Ad Hoc Committee to Review Project 'Blue Book', March 1966, Condon Report Appendix A, https://files.ncas.org/condon/text/appndx-a.htm",
+    "url": "https://files.ncas.org/condon/text/appndx-a.htm"
+   },
+   "text": "The same 1966 committee recorded the resources behind the whole Air Force UFO programme as 'only one officer, a sergeant, and secretary'.",
+   "tier": 1
+  },
+  "c-d9a36546ca": {
+   "id": "c-d9a36546ca",
+   "kind": "claim",
+   "node": "usaf-1127th-field-activities-group",
+   "nodeLabel": "1127th USAF Field Activities Group",
+   "source": {
+    "domain": null,
+    "text": "History of the Assistant Chief of Staff, Intelligence, July - December 1967, p.47",
+    "url": null
+   },
+   "text": "'Colonel Rudolph C. Koller, Jr., was Commander of the 1127 USAF Fld Acty Gp during the entire period of this report', with an authorised strength rising from 220 to 249 over the half-year.",
+   "tier": 1
+  },
+  "c-da8224942e": {
+   "id": "c-da8224942e",
+   "kind": "claim",
+   "node": "afrl",
+   "nodeLabel": "Air Force Research Laboratory",
+   "source": {
+    "domain": null,
+    "text": "Inference from the ATIC-FTD-NASIC/AFRL institutional lineage at Wright-Patterson",
+    "url": null
+   },
+   "text": "AFRL is the continuity organisation for foreign materiel exploitation at Wright-Patterson, which makes it the most probable modern institutional home of any exploitation activity that began there in the 1940s. Reasoning: the mission, the physical plant and the clearance architecture were never relocated, only renamed.",
+   "tier": 3
+  },
+  "c-dfda26942d": {
+   "id": "c-dfda26942d",
+   "kind": "claim",
+   "node": "operation-blue-fly",
+   "nodeLabel": "Operation BLUE FLY",
+   "source": {
+    "domain": null,
+    "text": "History, 1127 USAF Field Activities Group (AFNIA), 1 January - 30 June 1967, doc. AFNIABA 014-67, p.29",
+    "url": null
+   },
+   "text": "The Wright-Patterson custody terminus is documented by the operating unit, not inferred. The 1127th USAF Field Activities Group's own semiannual history for 1 January to 30 June 1967 records under Project BLUE FLY that its Staff Operations Branch 'coordinated requirements necessary to deploy the FTD exploitation personnel and to airlift personnel and parts from site of acquisition to Wright-Patterson AFB', and that the Joint Chiefs approved F/AD-I priority for short-notice BLUE FLY airlift contingencies.",
+   "tier": 1
+  },
+  "c-e27b5a9c44": {
+   "id": "c-e27b5a9c44",
+   "kind": "claim",
+   "node": "tr-ac-47-silver-bug",
+   "nodeLabel": "TR-AC-47, Joint ATIC-WADC Report on Project Silver Bug, 15 February 1955",
+   "source": {
+    "domain": "documents.theblackvault.com",
+    "text": "TR-AC-47, page iii, Summary, Purpose, https://documents.theblackvault.com/documents/SilverBug/AFD-070114-006.pdf",
+    "url": "https://documents.theblackvault.com/documents/SilverBug/AFD-070114-006.pdf"
+   },
+   "text": "The report's Summary states its purpose: 'This report presents factual technical data on A. V. Roe, Canada, Limited, proposed development, Project Y2 (Secret)... The ultimate purpose of presenting this is two-fold; to correct the distorted picture presented in previous releases, both classified and unclassified, and to acquaint the intelligence community with the current state-of-the-art facts thereby alerting them to any air intelligence information which may become available indicating Soviet interest in this specialized field.'",
+   "tier": 1
+  },
+  "c-e3d0122b2a": {
+   "id": "c-e3d0122b2a",
+   "kind": "claim",
+   "node": "arthur-e-exon",
+   "nodeLabel": "Arthur E. Exon",
+   "source": {
+    "domain": null,
+    "text": "Danny Jones Podcast, ep. 259, 9 September 2024, 0:37:23 to 0:47:13 and 1:12:05, mapped at research/leads/dannyjones-corpus-13.md",
+    "url": null
+   },
+   "text": "On the Danny Jones Podcast, episode 259, 9 September 2024, at 0:37:23 to 0:47:13 and 1:12:05, Whitley Strieber referred to Exon as a general and as the commander of Wright-Patterson, and attributed to him and to Strieber's uncle an account of 1947 material at the installation. The opened Air Force record gives his rank in the post as colonel and carries none of the account.",
+   "tier": 2
+  },
+  "c-ebb95d67d6": {
+   "id": "c-ebb95d67d6",
+   "kind": "claim",
+   "node": "usaf-1127th-field-activities-group",
+   "nodeLabel": "1127th USAF Field Activities Group",
+   "source": {
+    "domain": null,
+    "text": "History, 1127 USAF Field Activities Group, 1 Jan - 30 Jun 1967, p.30, Project MOON DUST",
+    "url": null
+   },
+   "text": "Page 30 records that 'The 1st Aerospace Control Squadron (SPADATS), Ent AFB, Colorado, notified AFNIAA of the deorbit of 37 Soviet space objects consisting of rocket bodies, payloads, and space platforms.' A redaction follows; the accompanying US figure is illegible in the scan at 340 dpi and is not reported.",
+   "tier": 1
+  },
+  "c-f35d9da38e": {
+   "id": "c-f35d9da38e",
+   "kind": "claim",
+   "node": "howard-mccoy",
+   "nodeLabel": "Howard M. McCoy",
+   "source": {
+    "domain": null,
+    "text": "NICAP document archive, file 471124_McCoy_to_Chief_of_Staff.pdf, indexed in the public NICAP /docs/ directory",
+    "url": null
+   },
+   "text": "A 24 November 1947 letter from AMC intelligence to the Air Force Chief of Staff on the flying disc problem exists and is preserved in scanned form.",
+   "tier": 1
+  },
+  "c-f9f90389bf": {
+   "id": "c-f9f90389bf",
+   "kind": "claim",
+   "node": "project-moon-dust",
+   "nodeLabel": "Project MOON DUST",
+   "source": {
+    "domain": null,
+    "text": "Inference from the programme's charter scope, the existence of post-1969 State Department MOON DUST cable traffic, and the absence of any published termination order.",
+    "url": null
+   },
+   "text": "MOON DUST's retrieval tasking survived the 1969 closure of Project Blue Book, meaning the United States retained a recovery capability after publicly terminating its investigative one.",
+   "tier": 3
+  },
+  "c-fa327a2e32": {
+   "id": "c-fa327a2e32",
+   "kind": "claim",
+   "node": "atic",
+   "nodeLabel": "Air Technical Intelligence Center",
+   "source": {
+    "domain": null,
+    "text": "Project Blue Book Special Report No. 14, ATIC, 5 May 1955, title page",
+    "url": null
+   },
+   "text": "ATIC issued Project Blue Book Special Report No. 14 on 5 May 1955 under Project 10073, Study No. 102-EL-55/2-79.",
+   "tier": 1
+  },
+  "c-fa55031d8f": {
+   "id": "c-fa55031d8f",
+   "kind": "claim",
+   "node": "operation-blue-fly",
+   "nodeLabel": "Operation BLUE FLY",
+   "source": {
+    "domain": null,
+    "text": "Inference from the two programmes' joint appearance in Air Force intelligence correspondence and from FTD's role as the technical exploitation centre.",
+    "url": null
+   },
+   "text": "BLUE FLY provided the airlift leg for MOON DUST recoveries into Air Force technical intelligence at Wright-Patterson, making Wright-Patterson the designated custody terminus for unidentified recovered material throughout the period.",
+   "tier": 3
+  },
+  "e-011f24b07d": {
+   "endpoints": [
+    {
+     "id": "arthur-e-exon",
+     "label": "Arthur E. Exon"
+    },
+    {
+     "id": "l-wright-patterson",
+     "label": "Wright-Patterson Air Force Base, Ohio"
+    }
+   ],
+   "id": "e-011f24b07d",
+   "kind": "edge",
+   "label": "Installation commander, August 1964 to December 1965",
+   "sources": [
+    {
+     "date": null,
+     "name": "https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-gpo111353/pdf/GOVPUB-D301-PURL-gpo111353.pdf",
+     "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-gpo111353/pdf/GOVPUB-D301-PURL-gpo111353.pdf"
+    }
+   ],
+   "text": "Exon was the installation commander of Wright-Patterson Air Force Base from August 1964 to December 1965 per the base's own published history.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-0a3b74b36b": {
+   "endpoints": [
+    {
+     "id": "afr-200-2",
+     "label": "Air Force Regulation 200-2"
+    },
+    {
+     "id": "atic",
+     "label": "Air Technical Intelligence Center"
+    }
+   ],
+   "id": "e-0a3b74b36b",
+   "kind": "edge",
+   "label": "ATIC was the terminal analytical authority under the regulation",
+   "sources": [
+    {
+     "date": "1954-08-12",
+     "name": "Archived: AFR 200-2, 12 August 1954 (Wayback 2026-05-21)",
+     "url": "https://web.archive.org/web/20260521101009/http://www.cufon.org/cufon/afr200-2.htm"
+    }
+   ],
+   "text": "The regulation routes reports from base level through Air Defense Command and the 4602d Air Intelligence Service Squadron to ATIC at Wright-Patterson for final analysis.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-15c6faaab0": {
+   "endpoints": [
+    {
+     "id": "project-bear",
+     "label": "Project BEAR (Battelle contract to Project GRUDGE)"
+    },
+    {
+     "id": "battelle",
+     "label": "Battelle Memorial Institute"
+    }
+   ],
+   "id": "e-15c6faaab0",
+   "kind": "edge",
+   "label": "Battelle's authorship of Special Report No. 14 was deliberately concealed behind an ATIC cover",
+   "sources": [
+    {
+     "date": "2024-03-08",
+     "name": "AARO, 'Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP), Volume I'",
+     "url": "https://documents2.theblackvault.com/documents/dod/AARO_Historical_Record_Report_Volume_1_2024.pdf"
+    }
+   ],
+   "text": "AARO states that Battelle 'released a report under the cover of ATIC to maintain its anonymity.' The first public analytical product of the government's UFO investigation was ghost-written by a private contractor at the contractor's request.",
+   "tier": 1,
+   "type": "denial"
+  },
+  "e-1cfdd982d9": {
+   "endpoints": [
+    {
+     "id": "eric-wang",
+     "label": "Eric H. Wang"
+    },
+    {
+     "id": "l-wright-patterson",
+     "label": "Wright-Patterson Air Force Base, Ohio"
+    }
+   ],
+   "id": "e-1cfdd982d9",
+   "kind": "edge",
+   "label": "Chief, Special Studies Office, Installations Division, Air Materiel Command",
+   "sources": [
+    {
+     "date": "1955-07-01",
+     "name": "Operation Upshot-Knothole, Project 3.1, DTIC ADA073468",
+     "url": "https://archive.org/details/DTIC_ADA073468"
+    }
+   ],
+   "text": "The Project 3.1 report records the transfer of Air Force responsibility 'from the Special Studies Office, Installations Division, Air Materiel Command to Blast Effects Research, Mechanics Branch, Aeronautical Research Laboratory, Wright Air Development Center, on 15 November 1954'.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-2ac7244aad": {
+   "endpoints": [
+    {
+     "id": "howard-mccoy",
+     "label": "Howard M. McCoy"
+    },
+    {
+     "id": "atic",
+     "label": "Air Technical Intelligence Center"
+    }
+   ],
+   "id": "e-2ac7244aad",
+   "kind": "edge",
+   "label": "McCoy ran AMC/T-2 intelligence, the exploitation node",
+   "sources": [
+    {
+     "date": "1947-11-24",
+     "name": "AMC letter to Chief of Staff, 24 November 1947 (scan)",
+     "url": "https://www.nicap.org/docs/471124_McCoy_to_Chief_of_Staff.pdf"
+    },
+    {
+     "date": "1968-11-01",
+     "name": "Condon Report Sec. V Ch. 2",
+     "url": "https://files.ncas.org/condon/text/s5chap02.htm"
+    }
+   ],
+   "text": "As Chief of Intelligence at Air Materiel Command, McCoy headed the organisation that received and exploited recovered foreign materiel and that hosted Project SIGN. Any 1947 recovery would have been processed here.",
+   "tier": 2,
+   "type": "custody"
+  },
+  "e-2ed1625018": {
+   "endpoints": [
+    {
+     "id": "podesta-delonge-mccasland-email-2016",
+     "label": "DeLonge to Podesta, 'General McCasland', 25 January 2016 (WikiLeaks Podesta Emails 3099)"
+    },
+    {
+     "id": "l-wright-patterson",
+     "label": "Wright-Patterson Air Force Base, Ohio"
+    }
+   ],
+   "id": "e-2ed1625018",
+   "kind": "edge",
+   "label": "DeLonge's written assertion that the Roswell material went to the Wright-Patterson laboratory",
+   "sources": [
+    {
+     "date": "2016-01-25",
+     "name": "WikiLeaks, The Podesta Emails, email id 3099",
+     "url": "https://wikileaks.org/podesta-emails/emailid/3099"
+    }
+   ],
+   "text": "The email asserts to Podesta that 'When Roswell crashed, they shipped it to the laboratory at Wright Patterson Air Force Base' and that the general ran that laboratory until a couple of years earlier. The record establishes that DeLonge asserted this in writing in January 2016, not that it happened.",
+   "tier": 2,
+   "type": "custody"
+  },
+  "e-36df826e59": {
+   "endpoints": [
+    {
+     "id": "usaf-1127th-field-activities-group",
+     "label": "1127th USAF Field Activities Group"
+    },
+    {
+     "id": "operation-blue-fly",
+     "label": "Operation BLUE FLY"
+    }
+   ],
+   "id": "e-36df826e59",
+   "kind": "edge",
+   "label": "ran BLUE FLY under the same Foreign Materiel Program",
+   "sources": [
+    {
+     "date": "1967-06-30",
+     "name": "History, 1127 USAF Field Activities Group, 1 Jan - 30 Jun 1967, doc. AFNIABA 014-67",
+     "url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB520-the-Pentagons-Spies/EBB-PS03a.pdf"
+    }
+   ],
+   "text": "Listed at p.29 of the unit's own semiannual history, alongside MIG-17 Exploitation and Project MOON DUST. In February 1967 the Joint Chiefs extended F/AD-I priority for short-notice BLUE FLY airlift contingencies.",
+   "tier": 1,
+   "type": "programmatic"
+  },
+  "e-3c5256284c": {
+   "endpoints": [
+    {
+     "id": "podesta-delonge-mccasland-email-2016",
+     "label": "DeLonge to Podesta, 'General McCasland', 25 January 2016 (WikiLeaks Podesta Emails 3099)"
+    },
+    {
+     "id": "william-mccasland",
+     "label": "William Neil McCasland"
+    }
+   ],
+   "id": "e-3c5256284c",
+   "kind": "edge",
+   "label": "Subject of the email and party to the meeting thread, as 'General McCasland' and 'Neil McCasland'",
+   "sources": [
+    {
+     "date": "2016-01-25",
+     "name": "WikiLeaks, The Podesta Emails, email ids 3099, 51979 and 9501",
+     "url": "https://wikileaks.org/podesta-emails/emailid/3099"
+    }
+   ],
+   "text": "The email names General McCasland and the meeting thread runs through neilmcc79@gmail.com, signing 'Neil McC'. The email gives no rank, service or middle name, so the identification with the board's William Neil McCasland rests on the name and on the node's own Air Force biography, not on the email.",
+   "tier": 2,
+   "type": "witness-chain"
+  },
+  "e-3d08bc3ab3": {
+   "endpoints": [
+    {
+     "id": "usaf-1127th-field-activities-group",
+     "label": "1127th USAF Field Activities Group"
+    },
+    {
+     "id": "usaf",
+     "label": "United States Air Force"
+    }
+   ],
+   "id": "e-3d08bc3ab3",
+   "kind": "edge",
+   "label": "an Air Force unit reporting to the Assistant Chief of Staff, Intelligence",
+   "sources": [
+    {
+     "date": "1967-12-31",
+     "name": "History of the Assistant Chief of Staff, Intelligence, July - December 1967",
+     "url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB520-the-Pentagons-Spies/EBB-PS03b.pdf"
+    }
+   ],
+   "text": "The ACS/I's own semiannual history for July-December 1967 covers the 1127th as a subordinate and records Colonel Rudolph C. Koller, Jr. as its commander throughout, with authorised strength rising from 220 to 249.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-3f06a85a6e": {
+   "endpoints": [
+    {
+     "id": "tr-ac-47-silver-bug",
+     "label": "TR-AC-47, Joint ATIC-WADC Report on Project Silver Bug, 15 February 1955"
+    },
+    {
+     "id": "usaf",
+     "label": "United States Air Force"
+    }
+   ],
+   "id": "e-3f06a85a6e",
+   "kind": "edge",
+   "label": "Records the Air Force research and development status of the disc-aircraft proposal",
+   "sources": [
+    {
+     "date": "1955-02-15",
+     "name": "TR-AC-47, Joint ATIC-WADC Report on Project Silver Bug, 15 February 1955",
+     "url": "https://documents.theblackvault.com/documents/SilverBug/AFD-070114-006.pdf"
+    }
+   ],
+   "text": "Section II names Technical Requirement No. 3 of 13 August 1954 and the order to proceed of 29 December 1954, so the Air Force interest is dated by the document rather than inferred.",
+   "tier": 1,
+   "type": "programmatic"
+  },
+  "e-4cc73b994d": {
+   "endpoints": [
+    {
+     "id": "atic",
+     "label": "Air Technical Intelligence Center"
+    },
+    {
+     "id": "foreign-technology-division",
+     "label": "Foreign Technology Division, Wright-Patterson AFB"
+    }
+   ],
+   "id": "e-4cc73b994d",
+   "kind": "edge",
+   "label": "ATIC discontinued 1 July 1961; FTD constituted the same day and absorbed its mission",
+   "sources": [
+    {
+     "date": "2025-12-10",
+     "name": "Aerospace Technical Intelligence Center, DAF Organizational Histories compilation sourced to AFHRA",
+     "url": "https://www.usafunithistory.com/PDF/A-E/AEROSPACE%20TECHNICAL%20INTELLIGENCE%20CENTER.pdf"
+    }
+   ],
+   "text": "The lineage record says ATIC was redesignated Aerospace Technical Intelligence Center in 1959 and discontinued on 1 July 1961, with the mission and resources absorbed by the newly constituted Foreign Technology Division, so this is a succession rather than the renaming the board's prose describes.",
+   "tier": 2,
+   "type": "institutional"
+  },
+  "e-52dfa0c314": {
+   "endpoints": [
+    {
+     "id": "kean-v-nasa",
+     "label": "Kean v. NASA, No. 1:03-cv-02509 (D.D.C.)"
+    },
+    {
+     "id": "project-moon-dust",
+     "label": "Project MOON DUST"
+    }
+   ],
+   "id": "e-52dfa0c314",
+   "kind": "edge",
+   "label": "Project Moon Dust records were an express object of the FOIA request",
+   "sources": [
+    {
+     "date": "2007-03-27",
+     "name": "Memorandum Opinion, Kean v. NASA, 27 March 2007",
+     "url": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.106063/gov.uscourts.dcd.106063.45.0.pdf"
+    }
+   ],
+   "text": "Moon Dust - the programme for recovery of foreign space and aerospace debris - is named in the request as reproduced in the court's Background section.",
+   "tier": 1,
+   "type": "custody"
+  },
+  "e-58b0d26eae": {
+   "endpoints": [
+    {
+     "id": "tr-ac-47-silver-bug",
+     "label": "TR-AC-47, Joint ATIC-WADC Report on Project Silver Bug, 15 February 1955"
+    },
+    {
+     "id": "atic",
+     "label": "Air Technical Intelligence Center"
+    }
+   ],
+   "id": "e-58b0d26eae",
+   "kind": "edge",
+   "label": "One of the two issuing organisations, and the one on the title page imprint",
+   "sources": [
+    {
+     "date": "1955-02-15",
+     "name": "TR-AC-47, Joint ATIC-WADC Report on Project Silver Bug, 15 February 1955",
+     "url": "https://documents.theblackvault.com/documents/SilverBug/AFD-070114-006.pdf"
+    }
+   ],
+   "text": "The title page carries the Air Technical Intelligence Center imprint and the report's own conclusion asks for 'direct liaison between WADC and ATIC personnel'.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-5c6dff3fc3": {
+   "endpoints": [
+    {
+     "id": "blue-book-special-report-14",
+     "label": "Project Blue Book Special Report No. 14"
+    },
+    {
+     "id": "atic",
+     "label": "Air Technical Intelligence Center"
+    }
+   ],
+   "id": "e-5c6dff3fc3",
+   "kind": "edge",
+   "label": "ATIC issued Special Report No. 14",
+   "sources": [
+    {
+     "date": "1955-05-05",
+     "name": "Project Blue Book Special Report No. 14",
+     "url": "http://www.nicap.org/docs/pbbsr/BBA-PBSR14.pdf"
+    }
+   ],
+   "text": "Issued 5 May 1955 under Project 10073, Study No. 102-EL-55/2-79 — the largest statistical study of UFO reports the US government ever produced.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-75be159ffe": {
+   "endpoints": [
+    {
+     "id": "usaf-1127th-field-activities-group",
+     "label": "1127th USAF Field Activities Group"
+    },
+    {
+     "id": "l-wright-patterson",
+     "label": "Wright-Patterson Air Force Base, Ohio"
+    }
+   ],
+   "id": "e-75be159ffe",
+   "kind": "edge",
+   "label": "airlifted recovered foreign materiel to Wright-Patterson",
+   "sources": [
+    {
+     "date": "1967-06-30",
+     "name": "History, 1127 USAF Field Activities Group, 1 Jan - 30 Jun 1967, doc. AFNIABA 014-67",
+     "url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB520-the-Pentagons-Spies/EBB-PS03a.pdf"
+    }
+   ],
+   "text": "'coordinated requirements necessary to deploy the FTD exploitation personnel and to airlift personnel and parts from site of acquisition to Wright-Patterson AFB. The take consisted of approximately three tons of aircraft parts and armament.'",
+   "tier": 1,
+   "type": "custody"
+  },
+  "e-964d016ed7": {
+   "endpoints": [
+    {
+     "id": "jonathan-grey",
+     "label": "\"Jonathan Grey\" (pseudonym)"
+    },
+    {
+     "id": "nasic",
+     "label": "National Air and Space Intelligence Center"
+    }
+   ],
+   "id": "e-964d016ed7",
+   "kind": "edge",
+   "label": "Serving intelligence officer at NASIC, Wright-Patterson AFB",
+   "sources": [
+    {
+     "date": "2023-06-05",
+     "name": "The Debrief",
+     "url": "https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/"
+    }
+   ],
+   "text": "Kean identifies Grey as a currently serving NASIC officer with Top Secret clearance; the installation is the historical center of gravity for every legacy custody allegation.",
+   "tier": 2,
+   "type": "institutional"
+  },
+  "e-99113b8b3c": {
+   "endpoints": [
+    {
+     "id": "foreign-technology-division",
+     "label": "Foreign Technology Division, Wright-Patterson AFB"
+    },
+    {
+     "id": "usaf",
+     "label": "United States Air Force"
+    }
+   ],
+   "id": "e-99113b8b3c",
+   "kind": "edge",
+   "label": "Air Force Systems Command organisation under the DCS/Research and Development for the UFO programme",
+   "sources": [
+    {
+     "date": "1966-09-19",
+     "name": "AFR 80-17, 19 September 1966",
+     "url": "https://nicap.org/afr80-17.htm"
+    }
+   ],
+   "text": "AFR 80-17 makes the Deputy Chief of Staff, Research and Development responsible for the overall programme and Air Force Systems Command responsible for supporting it through FTD.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-c39e3965b6": {
+   "endpoints": [
+    {
+     "id": "foreign-technology-division",
+     "label": "Foreign Technology Division, Wright-Patterson AFB"
+    },
+    {
+     "id": "l-wright-patterson",
+     "label": "Wright-Patterson Air Force Base, Ohio"
+    }
+   ],
+   "id": "e-c39e3965b6",
+   "kind": "edge",
+   "label": "Stationed at Wright-Patterson AFB, Ohio",
+   "sources": [
+    {
+     "date": "1966-09-19",
+     "name": "AFR 80-17, 19 September 1966",
+     "url": "https://nicap.org/afr80-17.htm"
+    }
+   ],
+   "text": "AFR 80-17 names the station in the assignment itself: 'the Foreign Technology Division (FTD) at Wright-Patterson Air Force Base, Ohio'.",
+   "tier": 1,
+   "type": "geographic"
+  },
+  "e-c7960e1eab": {
+   "endpoints": [
+    {
+     "id": "operation-blue-fly",
+     "label": "Operation BLUE FLY"
+    },
+    {
+     "id": "l-wright-patterson",
+     "label": "Wright-Patterson Air Force Base, Ohio"
+    }
+   ],
+   "id": "e-c7960e1eab",
+   "kind": "edge",
+   "label": "Recovered material routed to Air Force technical intelligence at Wright-Patterson",
+   "sources": [
+    {
+     "date": "2016-08-15",
+     "name": "National Archives, 'Project BLUE BOOK - Unidentified Flying Objects' reference report (incl. MJ-12 / Cutler-Twining findings)",
+     "url": "https://www.archives.gov/research/military/air-force/ufos"
+    },
+    {
+     "date": "2015-03-04",
+     "name": "Project Moon Dust document archive (Department of State releases; one file declassified by CIA)",
+     "url": "https://www.theblackvault.com/documentarchive/project-moon-dust/"
+    }
+   ],
+   "text": "Foreign Technology Division at Wright-Patterson was the designated technical exploitation centre; the Air Force felt it necessary in its January 1985 public fact sheet to deny that extraterrestrial equipment had ever been there.",
+   "tier": 3,
+   "type": "custody"
+  },
+  "e-d1e2d616b4": {
+   "endpoints": [
+    {
+     "id": "afrl",
+     "label": "Air Force Research Laboratory"
+    },
+    {
+     "id": "nasic",
+     "label": "National Air and Space Intelligence Center"
+    }
+   ],
+   "id": "e-d1e2d616b4",
+   "kind": "edge",
+   "label": "Co-located at Wright-Patterson with the successor to the Foreign Technology Division",
+   "sources": [
+    {
+     "date": "2026-08-12",
+     "name": "National Archives - Unidentified Flying Objects / Project BLUE BOOK",
+     "url": "https://www.archives.gov/research/military/air-force/ufos"
+    }
+   ],
+   "text": "NASIC is the lineal successor to ATIC and FTD, the organisations that ran SIGN, GRUDGE and BLUE BOOK and exploited foreign aerospace materiel. AFRL and NASIC share the installation.",
+   "tier": 2,
+   "type": "geographic"
+  },
+  "e-d3dfb0aa44": {
+   "endpoints": [
+    {
+     "id": "foreign-technology-division",
+     "label": "Foreign Technology Division, Wright-Patterson AFB"
+    },
+    {
+     "id": "nasic",
+     "label": "National Air and Space Intelligence Center"
+    }
+   ],
+   "id": "e-d3dfb0aa44",
+   "kind": "edge",
+   "label": "Same Wright-Patterson lineage; NASIC is the later name",
+   "sources": [
+    {
+     "date": "2025-12-10",
+     "name": "Aerospace Technical Intelligence Center, DAF Organizational Histories compilation sourced to AFHRA",
+     "url": "https://www.usafunithistory.com/PDF/A-E/AEROSPACE%20TECHNICAL%20INTELLIGENCE%20CENTER.pdf"
+    }
+   ],
+   "text": "The organizational-history compilation carries the FTD to NASIC lineage at the same station; no official Air Force page could be opened from here to raise this above Tier 2.",
+   "tier": 2,
+   "type": "institutional"
+  },
+  "e-db1b89092b": {
+   "endpoints": [
+    {
+     "id": "usaf-1127th-field-activities-group",
+     "label": "1127th USAF Field Activities Group"
+    },
+    {
+     "id": "project-moon-dust",
+     "label": "Project MOON DUST"
+    }
+   ],
+   "id": "e-db1b89092b",
+   "kind": "edge",
+   "label": "ran MOON DUST under its Foreign Materiel Program",
+   "sources": [
+    {
+     "date": "1967-06-30",
+     "name": "History, 1127 USAF Field Activities Group, 1 Jan - 30 Jun 1967, doc. AFNIABA 014-67",
+     "url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB520-the-Pentagons-Spies/EBB-PS03a.pdf"
+    }
+   ],
+   "text": "The unit's own contents page lists Project MOON DUST at p.30 under FOREIGN MATERIEL PROGRAM. The page records SPADATS notifying the unit of the deorbit of 37 Soviet space objects -- notifications, not recoveries.",
+   "tier": 1,
+   "type": "programmatic"
+  },
+  "e-ea29bbf6b0": {
+   "endpoints": [
+    {
+     "id": "atic",
+     "label": "Air Technical Intelligence Center"
+    },
+    {
+     "id": "l-wright-patterson",
+     "label": "Wright-Patterson Air Force Base, Ohio"
+    }
+   ],
+   "id": "e-ea29bbf6b0",
+   "kind": "edge",
+   "label": "ATIC and every legacy UFO project were located at Wright-Patterson",
+   "sources": [
+    {
+     "date": "2026-08-12",
+     "name": "USAF Fact Sheet: Project Blue Book",
+     "url": "https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/"
+    },
+    {
+     "date": "2026-08-12",
+     "name": "NARA — Project Blue Book records",
+     "url": "https://www.archives.gov/research/military/air-force/ufos"
+    }
+   ],
+   "text": "SIGN, GRUDGE and Blue Book were all headquartered at Wright-Patterson AFB, the site of the Air Force's foreign materiel exploitation organisation and its successors.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-f03315e434": {
+   "endpoints": [
+    {
+     "id": "battelle",
+     "label": "Battelle Memorial Institute"
+    },
+    {
+     "id": "project-bear",
+     "label": "Project BEAR (Battelle contract to Project GRUDGE)"
+    }
+   ],
+   "id": "e-f03315e434",
+   "kind": "edge",
+   "label": "Battelle held the Project BEAR contract supplying the science behind Project GRUDGE and BLUE BOOK",
+   "sources": [
+    {
+     "date": "2024-03-08",
+     "name": "AARO, 'Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP), Volume I'",
+     "url": "https://documents2.theblackvault.com/documents/dod/AARO_Historical_Record_Report_Volume_1_2024.pdf"
+    }
+   ],
+   "text": "AARO's own history records the contract, the questionnaire and punch-card work, and the resulting Special Report No. 14.",
+   "tier": 1,
+   "type": "programmatic"
+  },
+  "e-f254bc0f90": {
+   "endpoints": [
+    {
+     "id": "foreign-technology-division",
+     "label": "Foreign Technology Division, Wright-Patterson AFB"
+    },
+    {
+     "id": "project-blue-book",
+     "label": "Project Blue Book"
+    }
+   ],
+   "id": "e-f254bc0f90",
+   "kind": "edge",
+   "label": "Held the Blue Book effort by regulation from 19 September 1966",
+   "sources": [
+    {
+     "date": "1966-09-19",
+     "name": "AFR 80-17, 19 September 1966",
+     "url": "https://nicap.org/afr80-17.htm"
+    }
+   ],
+   "text": "AFR 80-17 assigns the Blue Book effort to FTD at Wright-Patterson, requires FTD to analyse every report not identified at base level, and requires FTD to write the final case report on each sighting.",
+   "tier": 1,
+   "type": "programmatic"
+  }
+ },
+ "claimed": [
+  {
+   "cite": [
+    "c-6cae43c392",
+    "c-110894251b",
+    "e-2ed1625018"
+   ],
+   "text": "Tom DeLonge wrote to John Podesta on 25 January 2016 that when Roswell crashed \"they shipped it to the laboratory at Wright Patterson Air Force Base\", and that General McCasland had been in charge of that laboratory until a couple of years before and had helped assemble DeLonge's advisory team. The record shows that DeLonge wrote this, not that it happened."
+  },
+  {
+   "cite": [
+    "c-e3d0122b2a",
+    "c-2389a8a180"
+   ],
+   "text": "Whitley Strieber said on the Danny Jones Podcast in September 2024 that Exon, whom he called a general and the commander of Wright-Patterson, and Strieber's uncle had told him of 1947 material at the installation. The Air Force's record gives Exon's rank in the post as colonel and carries none of the account."
+  },
+  {
+   "cite": [
+    "c-d1f1a40c24",
+    "c-7b3d4509bc",
+    "c-334c4598fd",
+    "c-b820bee21f"
+   ],
+   "text": "The stories of Eric Wang running special projects at Wright-Patterson reached the public by one route: Matthew Pines traced them to William Steinman's book on the 1948 Aztec crash, and Pines's link to Henry Kissinger is his own reading of the initials H-A-K. Michels later retold Steinman's account of an obituary and of Wang's widow, none of which the board has opened."
+  },
+  {
+   "cite": [
+    "c-ca6478151d",
+    "c-acc38c39b0",
+    "e-964d016ed7"
+   ],
+   "text": "The Debrief reported on 5 June 2023 that a serving NASIC intelligence officer with Top Secret clearance, quoted under the pseudonym Jonathan Grey, backed Grusch: \"The non-human intelligence phenomenon is real. We are not alone.\""
+  },
+  {
+   "cite": [
+    "c-6507e8606c",
+    "e-2ac7244aad"
+   ],
+   "text": "McCoy, as Chief of Intelligence at Air Materiel Command, is described in Ruppelt's book and the Condon Report as heading the organisation that would have received any recovered material and as SIGN's operational supervisor."
+  },
+  {
+   "cite": [
+    "c-c6cad31a70",
+    "c-3ec1ec7c73",
+    "c-fa55031d8f",
+    "e-c7960e1eab",
+    "c-f9f90389bf"
+   ],
+   "text": "On the board's reading, Wright-Patterson is the institutional address of any legacy recovery effort, because the Air Force gave UFOs to the organisation whose mission was taking foreign hardware apart, and its 1947 to 1951 files have had no comprehensive declassification review. The board also infers that BLUE FLY made the base the custody terminus for recovered material, and that MOON DUST's tasking outlived Blue Book."
+  },
+  {
+   "cite": [
+    "c-a0ebc8bcc0",
+    "c-da8224942e",
+    "e-d1e2d616b4"
+   ],
+   "text": "The board further infers that ending Blue Book left the Foreign Technology Division's collection channels intact, and that the Air Force Research Laboratory, co-located with NASIC, is the most probable modern home of any exploitation work begun there. Both are stated inferences."
+  }
+ ],
+ "contested": [
+  {
+   "cite": [
+    "c-a8277598fd"
+   ],
+   "text": "The Air Force's January 1985 fact sheet from Wright-Patterson states that there are not now, nor ever have been, any extraterrestrial visitors or equipment on the base."
+  },
+  {
+   "cite": [
+    "c-96180ce2ed"
+   ],
+   "text": "The MOON DUST figures often quoted as recoveries are notifications of deorbit received, not objects recovered; neither unit history counts a recovery."
+  },
+  {
+   "cite": [
+    "c-6cd1f92fbb",
+    "c-4ef0ce2509",
+    "c-fa327a2e32"
+   ],
+   "text": "The records disagree on the Battelle contract: AARO calls it Project BEAR and says the report was completed in late 1954, while the Project Stork status reports identify the contract as AF-19741, PPS-100, from 31 March 1952, and Special Report No. 14 is dated 5 May 1955."
+  },
+  {
+   "cite": [
+    "c-c0d68ad569",
+    "c-d64aa6e945"
+   ],
+   "text": "Wang's documented work is blast effects on structures: nothing in the test reports or the 1960 Kirtland report touches unidentified aerial phenomena, recovered materiel, Kissinger or Viktor Schauberger, and no document supporting an Austrian birth was found. The office's printed name is the Special Studies Office, not an Office of Special Studies."
+  },
+  {
+   "cite": [
+    "c-8300964eaa",
+    "c-47b9bd6576",
+    "e-3c5256284c"
+   ],
+   "text": "McCasland's Special Programs post of 2009 to 2011 was in the acquisition under secretary's office, not the intelligence office to which DIA addressed its 2009 memo declining the AAWSAP special access program request, so nothing places him in that decision; the email's General McCasland is matched to him by name only."
+  },
+  {
+   "cite": [
+    "c-9fed41fdc6"
+   ],
+   "text": "A common claim that AFR 200-2 routed reports to ATIC rather than to Blue Book is a category error, since Blue Book was a project inside ATIC."
+  }
+ ],
+ "essays": [],
+ "focusEra": "0",
+ "id": "wright-patterson-ftd",
+ "kind": "institution",
+ "lead": {
+  "cite": [
+   "e-ea29bbf6b0",
+   "c-a6c4689344",
+   "c-30ac5bc3f0",
+   "c-dfda26942d"
+  ],
+  "text": "Wright-Patterson Air Force Base in Ohio housed the Air Force's foreign materiel exploitation organisation and its UFO projects SIGN, GRUDGE and Blue Book, under Air Materiel Command intelligence and then ATIC. From 1966 the Foreign Technology Division held the Blue Book effort there by regulation, and recovered foreign materiel was airlifted there under Project BLUE FLY."
+ },
+ "members": [
+  {
+   "cls": "location",
+   "id": "l-wright-patterson",
+   "label": "Wright-Patterson Air Force Base, Ohio",
+   "role": "place"
+  },
+  {
+   "cls": "institution",
+   "id": "atic",
+   "label": "Air Technical Intelligence Center",
+   "role": "subject"
+  },
+  {
+   "cls": "institution",
+   "id": "foreign-technology-division",
+   "label": "Foreign Technology Division, Wright-Patterson AFB",
+   "role": "subject"
+  },
+  {
+   "cls": "institution",
+   "id": "nasic",
+   "label": "National Air and Space Intelligence Center",
+   "role": "institution"
+  },
+  {
+   "cls": "institution",
+   "id": "usaf",
+   "label": "United States Air Force",
+   "role": "institution"
+  },
+  {
+   "cls": "document",
+   "id": "afr-200-2",
+   "label": "Air Force Regulation 200-2",
+   "role": "law"
+  },
+  {
+   "cls": "program",
+   "id": "project-sign",
+   "label": "Project SIGN",
+   "role": "programme"
+  },
+  {
+   "cls": "program",
+   "id": "project-grudge",
+   "label": "Project GRUDGE",
+   "role": "programme"
+  },
+  {
+   "cls": "program",
+   "id": "project-blue-book",
+   "label": "Project Blue Book",
+   "role": "programme"
+  },
+  {
+   "cls": "document",
+   "id": "blue-book-special-report-14",
+   "label": "Project Blue Book Special Report No. 14",
+   "role": "document"
+  },
+  {
+   "cls": "program",
+   "id": "project-bear",
+   "label": "Project BEAR (Battelle contract to Project GRUDGE)",
+   "role": "programme"
+  },
+  {
+   "cls": "program",
+   "id": "project-stork",
+   "label": "Project Stork (Project White Stork)",
+   "role": "programme"
+  },
+  {
+   "cls": "institution",
+   "id": "battelle",
+   "label": "Battelle Memorial Institute",
+   "role": "contractor"
+  },
+  {
+   "cls": "document",
+   "id": "tr-ac-47-silver-bug",
+   "label": "TR-AC-47, Joint ATIC-WADC Report on Project Silver Bug, 15 February 1955",
+   "role": "document"
+  },
+  {
+   "cls": "institution",
+   "id": "usaf-1127th-field-activities-group",
+   "label": "1127th USAF Field Activities Group",
+   "role": "institution"
+  },
+  {
+   "cls": "program",
+   "id": "operation-blue-fly",
+   "label": "Operation BLUE FLY",
+   "role": "programme"
+  },
+  {
+   "cls": "program",
+   "id": "project-moon-dust",
+   "label": "Project MOON DUST",
+   "role": "programme"
+  },
+  {
+   "cls": "event",
+   "id": "kean-v-nasa",
+   "label": "Kean v. NASA, No. 1:03-cv-02509 (D.D.C.)",
+   "role": "event"
+  },
+  {
+   "cls": "person",
+   "id": "howard-mccoy",
+   "label": "Howard M. McCoy",
+   "role": "official"
+  },
+  {
+   "cls": "person",
+   "id": "nathan-twining",
+   "label": "Nathan F. Twining",
+   "role": "official"
+  },
+  {
+   "cls": "person",
+   "id": "arthur-e-exon",
+   "label": "Arthur E. Exon",
+   "role": "official"
+  },
+  {
+   "cls": "person",
+   "id": "eric-wang",
+   "label": "Eric H. Wang",
+   "role": "official"
+  },
+  {
+   "cls": "institution",
+   "id": "afrl",
+   "label": "Air Force Research Laboratory",
+   "role": "institution"
+  },
+  {
+   "cls": "person",
+   "id": "william-mccasland",
+   "label": "William Neil McCasland",
+   "role": "official"
+  },
+  {
+   "cls": "document",
+   "id": "podesta-delonge-mccasland-email-2016",
+   "label": "DeLonge to Podesta, 'General McCasland', 25 January 2016 (WikiLeaks Podesta Emails 3099)",
+   "role": "document"
+  },
+  {
+   "cls": "person",
+   "id": "jonathan-grey",
+   "label": "\"Jonathan Grey\" (pseudonym)",
+   "role": "claimant"
+  }
+ ],
+ "notes": "Added: not in Appendix T. The Air Force technical-intelligence line at Wright-Patterson (ATIC; the Foreign Technology Division, constituted 1 July 1961; NASIC) and the Moon Dust and Blue Fly recovery projects form a clear group in the 1947-69 community. Canon cluster 10 (Goldwater, LeMay and the Blue Room) is a research gap inside this topic. ATIC became the Aerospace Technical Intelligence Center in 1959 and was discontinued on 1 July 1961 (do not write 'ATIC became FTD').",
+ "questions": [
+  "When was the 1127th USAF Field Activities Group activated and inactivated, and where was it stationed? No lineage record has been found.",
+  "Did MOON DUST ever recover anything that the released histories count, what was the United States figure that is illegible on page 30 of the 1967 history, and was the tasking ever formally ended?",
+  "Have Air Materiel Command's T-2 intelligence files for 1947 to 1951 ever been reviewed for declassification, and where are they held?",
+  "What does the untranscribed 24 November 1947 letter from AMC intelligence to the Chief of Staff say?",
+  "The board carries nothing yet on the Blue Room story told of Barry Goldwater and Curtis LeMay: what is its earliest dated artefact, and who first told it?",
+  "Who is Jonathan Grey, and did NASIC take any action after his statement?"
+ ],
+ "record": [
+  {
+   "cite": [
+    "c-98e664d9c0",
+    "c-1d14b45f7e",
+    "e-0a3b74b36b",
+    "c-9fed41fdc6"
+   ],
+   "text": "AFR 200-2 of 26 August 1953 designates ATIC at Wright-Patterson as the Air Force activity responsible for analysing information and evidence, and the 1954 edition makes it the terminal authority once Air Defense Command and the 4602d Air Intelligence Service Squadron have exhausted identification. Neither edition mentions Blue Book, which was a project inside ATIC."
+  },
+  {
+   "cite": [
+    "c-fa327a2e32",
+    "e-5c6dff3fc3"
+   ],
+   "text": "ATIC issued Project Blue Book Special Report No. 14 on 5 May 1955 under Project 10073."
+  },
+  {
+   "cite": [
+    "c-6cd1f92fbb",
+    "e-f03315e434",
+    "e-15c6faaab0"
+   ],
+   "text": "AARO's 2024 history records that Ruppelt created a contract with Battelle, informally called Project BEAR, to give scientific support to Project GRUDGE, and that Battelle released its report under the cover of ATIC to keep its anonymity."
+  },
+  {
+   "cite": [
+    "c-c41ea8c2de",
+    "c-e27b5a9c44",
+    "c-3a4657a89b",
+    "c-26ae691768",
+    "c-af1656a661",
+    "e-58b0d26eae",
+    "e-3f06a85a6e"
+   ],
+   "text": "ATIC and the Wright Air Development Center issued TR-AC-47, the Project Silver Bug report, on 15 February 1955, declassified on 29 March 1995. It presents technical data on A. V. Roe Canada's Project Y2, a flat-riser, in order to correct the distorted picture in earlier releases, says the design should in no way be linked with flying saucer stories because of its appearance, and dates the Air Force development track from a technical requirement of 13 August 1954."
+  },
+  {
+   "cite": [
+    "c-30ac5bc3f0",
+    "c-06ff8536c6",
+    "e-f254bc0f90",
+    "e-c39e3965b6",
+    "e-99113b8b3c"
+   ],
+   "text": "AFR 80-17 of 19 September 1966 assigns the Blue Book effort to FTD at Wright-Patterson, requires FTD to analyse every report not identified at base level and to write the final case report on each, and makes the Deputy Chief of Staff for Research and Development responsible for the programme overall."
+  },
+  {
+   "cite": [
+    "c-953af1ec7d",
+    "c-d6ae9dea74"
+   ],
+   "text": "The Air Force Scientific Advisory Board committee of March 1966 called FTD the cognizant Air Force agency that collates information on UFO sightings and monitors investigations, recommended that it keep those responsibilities, and put the programme's resources at only one officer, a sergeant and a secretary."
+  },
+  {
+   "cite": [
+    "c-011bc31f13",
+    "c-88aca962dc",
+    "c-72a327a886",
+    "e-75be159ffe",
+    "e-36df826e59"
+   ],
+   "text": "The 1127th's history for January to June 1967, classified SECRET with struck-through special access markings, lists Project BLUE FLY, MIG-17 Exploitation and Project MOON DUST under its Foreign Materiel Program. Under BLUE FLY it records FTD Detachment 3 exploiting three MIG-21s that crashed in Jordan and the airlift of about three tons of parts and armament to Wright-Patterson, and a Joint Chiefs extension of F/AD-I priority for short-notice BLUE FLY airlift contingencies."
+  },
+  {
+   "cite": [
+    "c-d9a36546ca",
+    "e-3d08bc3ab3"
+   ],
+   "text": "The companion history of the Assistant Chief of Staff, Intelligence, for July to December 1967 covers the 1127th as a subordinate unit under Col. Rudolph C. Koller Jr., with authorised strength rising from 220 to 249."
+  },
+  {
+   "cite": [
+    "c-3fea956d6f",
+    "c-11090d2b01",
+    "c-ebb95d67d6",
+    "c-2bde929920",
+    "e-db1b89092b"
+   ],
+   "text": "MOON DUST is officially described as the recovery of objects and debris from space vehicles that survived re-entry, and State Department files on it have been released under FOIA. The unit histories record notifications of deorbit: 37 Soviet space objects in the first half of 1967, and 49 Soviet and 17 US objects in the second."
+  },
+  {
+   "cite": [
+    "e-52dfa0c314"
+   ],
+   "text": "Leslie Kean's FOIA request that led to Kean v. NASA named Project Moon Dust among the records sought."
+  },
+  {
+   "cite": [
+    "c-2389a8a180",
+    "c-510904c879",
+    "e-011f24b07d"
+   ],
+   "text": "The base's own published history lists Col. Arthur E. Exon as installation commander from August 1964, succeeded in December 1965, and names him nowhere else."
+  },
+  {
+   "cite": [
+    "c-c538b12826",
+    "c-66f4e18b03",
+    "c-9d4e3dcd65",
+    "e-1cfdd982d9"
+   ],
+   "text": "The Operation UPSHOT-KNOTHOLE Project 3.1 report names Eric H. Wang as Chief of the Special Studies Office, Installations Division, Air Materiel Command, and technical and scientific monitor for the Air Force programme, whose responsibility moved to Blast Effects Research at the Wright Air Development Center on 15 November 1954; a 1960 report has him as Chief, Structures Division, at the Air Force Special Weapons Center, Kirtland."
+  },
+  {
+   "cite": [
+    "c-f35d9da38e"
+   ],
+   "text": "A letter of 24 November 1947 from Air Materiel Command intelligence to the Chief of Staff on the flying disc problem survives as a scan."
+  },
+  {
+   "cite": [
+    "c-b660b636f9"
+   ],
+   "text": "Maj. Gen. William N. McCasland's Air Force biography describes him as Commander, Air Force Research Laboratory, at Wright-Patterson."
+  }
+ ],
+ "related": [
+  "blue-book",
+  "sign-estimate",
+  "roswell-1947",
+  "crash-claims",
+  "battelle-nitinol",
+  "specimens",
+  "legacy-programme",
+  "grusch-allegations",
+  "ttsa",
+  "missing-scientists",
+  "foia-litigation",
+  "aaro-historical-record"
+ ],
+ "section": "early-record",
+ "span": {
+  "from": "1947",
+  "to": "1995"
+ },
+ "status": "verified",
+ "summary": [
+  {
+   "cite": [
+    "c-bae151092d",
+    "e-4cc73b994d",
+    "e-d3dfb0aa44"
+   ],
+   "text": "The lineage is a succession, not a string of renamings: the Air Technical Intelligence Center was established on 21 May 1951, redesignated the Aerospace Technical Intelligence Center in 1959 and discontinued on 1 July 1961, when a newly constituted Foreign Technology Division absorbed its mission. The board carries this lineage, and the later step to the National Air and Space Intelligence Center, at Tier 2 from a compilation citing the Air Force Historical Research Agency."
+  },
+  {
+   "cite": [
+    "c-98e664d9c0",
+    "c-fa327a2e32",
+    "c-06ff8536c6"
+   ],
+   "text": "On UFOs the office at Wright-Patterson was the terminal analyst: ATIC under AFR 200-2 from 1953, which also issued Special Report No. 14 in 1955, and FTD under AFR 80-17 from 1966."
+  },
+  {
+   "cite": [
+    "c-011bc31f13",
+    "c-39a636610d",
+    "c-88aca962dc"
+   ],
+   "text": "On recovery, the 1127th USAF Field Activities Group ran Project BLUE FLY and Project MOON DUST together under its Foreign Materiel Program, with FTD exploitation teams and airlift to Wright-Patterson."
+  },
+  {
+   "cite": [
+    "c-6cae43c392",
+    "c-e3d0122b2a",
+    "c-a8277598fd"
+   ],
+   "text": "The base is also where later custody allegations point, from Tom DeLonge's 2016 email about Roswell material to accounts attached to a former base commander, Arthur Exon, and the Air Force has denied in writing that any extraterrestrial visitors or equipment were ever there."
+  }
+ ],
+ "title": "Wright-Patterson: ATIC, the Foreign Technology Division and Moon Dust"
+}

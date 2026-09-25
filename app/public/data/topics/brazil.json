@@ -1,0 +1,2028 @@
+{
+ "absorbs": [],
+ "anchors": [
+  "operacao-prato",
+  "ev-noite-ovnis-1986",
+  "doc-fab-1986-report",
+  "ev-varginha-1996",
+  "hospital-regional-varginha",
+  "fab",
+  "arquivo-nacional-ufo",
+  "senado-brasil",
+  "uyrange-hollanda",
+  "otavio-moreira-lima",
+  "pessoa-cavalcanti",
+  "l-brasilia",
+  "l-brazil",
+  "ev-varginha-capitol-2026",
+  "burlison-varginha-letters-2026",
+  "l-varginha"
+ ],
+ "appendixT": "brazil",
+ "cites": {
+  "c-0061fda96a": {
+   "id": "c-0061fda96a",
+   "kind": "claim",
+   "node": "pessoa-cavalcanti",
+   "nodeLabel": "Brigadeiro do Ar José Pessoa Cavalcanti de Albuquerque",
+   "source": {
+    "domain": null,
+    "text": "Relatório de Ocorrências, 2 June 1986",
+    "url": null
+   },
+   "text": "The report records that the interceptor pilot in the Anápolis area closed to two miles of a radar contact whose track was 'ora mantinha-se em zique-zaque, ora em curva acentuada pela direita' and which 'afastava-se repentinamente, mesmo estando o interceptador em velocidade supersônica'.",
+   "tier": 1
+  },
+  "c-00759b4e0b": {
+   "id": "c-00759b4e0b",
+   "kind": "claim",
+   "node": "ev-noite-ovnis-1986",
+   "nodeLabel": "Noite Oficial dos OVNIs - the Brazilian 'Night of the UFOs', 19 May 1986",
+   "source": {
+    "domain": null,
+    "text": "Relatório de Ocorrências, 2 June 1986, Considerações Iniciais",
+    "url": null
+   },
+   "text": "The report records the technical limitation that Brazilian coverage rested on radars 'cuja finalidade primária é destinado ao controle de tráfego aéreo, não sendo portanto, específico para emprego em Defesa Aérea', making surveillance deficient.",
+   "tier": 1
+  },
+  "c-03d4ea90a8": {
+   "id": "c-03d4ea90a8",
+   "kind": "claim",
+   "node": "pessoa-cavalcanti",
+   "nodeLabel": "Brigadeiro do Ar José Pessoa Cavalcanti de Albuquerque",
+   "source": {
+    "domain": null,
+    "text": "Relatório de Ocorrências, 2 June 1986, Considerações Finais, para 2",
+    "url": null
+   },
+   "text": "Characteristics listed in Considerações Finais: 'a - Produzem ecos radar não só do Sistema de Defesa Aérea, como também das aeronaves interceptadoras simultaneamente, com comparação visual pelos pilotos. b - Variam suas velocidades da gama subsônica até supersônica, bem como mantêm-se em vôo pairado. c - Variam suas altitudes abaixo do FL-050 até altitudes superiores FL-400.'",
+   "tier": 1
+  },
+  "c-05a0b842b7": {
+   "id": "c-05a0b842b7",
+   "kind": "claim",
+   "node": "ev-varginha-1996",
+   "nodeLabel": "Varginha incident, Minas Gerais, January 1996",
+   "source": {
+    "domain": null,
+    "text": "Brazilian Army inquiry, 2010, quoted findings — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+    "url": null
+   },
+   "text": "The inquiry concluded that the presence of firefighters in Jardim Andere, the parking of Army trucks near a dealership for periodic maintenance and the departure of Escola de Sargentos das Armas vehicles were real events incorrectly interpreted as participation in a capture and transport.",
+   "tier": 2
+  },
+  "c-09b625e643": {
+   "id": "c-09b625e643",
+   "kind": "claim",
+   "node": "operacao-prato",
+   "nodeLabel": "Operação Prato (Operation Saucer)",
+   "source": {
+    "domain": null,
+    "text": "Wikipedia 'Operação Prato' infobox, sourced to ISTOÉ, Folha de S. Paulo, Veja and O Estado de S. Paulo",
+    "url": null
+   },
+   "text": "Operation dates: first phase 20 October - 11 November 1977; second phase 25 November - 5 December 1977; executed by the Brazilian Air Force and the National Information Service; 'Operation found no unusual phenomena'.",
+   "tier": 2
+  },
+  "c-0ed33c1e0d": {
+   "id": "c-0ed33c1e0d",
+   "kind": "claim",
+   "node": "ev-noite-ovnis-1986",
+   "nodeLabel": "Noite Oficial dos OVNIs - the Brazilian 'Night of the UFOs', 19 May 1986",
+   "source": {
+    "domain": null,
+    "text": "Comando Aéreo de Defesa Aérea, Relatório de Ocorrências, 2 June 1986, Arquivo Nacional BR_DFANBSB_ARX_0_0_0249",
+    "url": null
+   },
+   "text": "The Air Defence Command's report records the interceptor sequence with Zulu timings, the 13 plots astern of the second Santa Cruz F-5, and the abandonment of pursuits at bingo fuel and on loss of contact.",
+   "tier": 1
+  },
+  "c-0edd47ab22": {
+   "id": "c-0edd47ab22",
+   "kind": "claim",
+   "node": "l-varginha",
+   "nodeLabel": "Varginha, Minas Gerais, Brazil",
+   "source": {
+    "domain": null,
+    "text": "NewsNation, 15 July 2026",
+    "url": null
+   },
+   "text": "A US lawmaker requested FBI and CIA records on the Varginha incident in July 2026.",
+   "tier": 2
+  },
+  "c-0f32dc3ebd": {
+   "id": "c-0f32dc3ebd",
+   "kind": "claim",
+   "node": "ev-noite-ovnis-1986",
+   "nodeLabel": "Noite Oficial dos OVNIs - the Brazilian 'Night of the UFOs', 19 May 1986",
+   "source": {
+    "domain": null,
+    "text": "BBC Brasil, 14 January 2022, quoting the 1993 Globo Repórter interview",
+    "url": null
+   },
+   "text": "Captain Viriato, TV Globo 'Globo Repórter' interview, 1993, on the object that accelerated away from his Mirage at Mach 1.3: 'Se existe avião que possa desenvolver essa velocidade, eu desconheço.'",
+   "tier": 2
+  },
+  "c-133844d241": {
+   "id": "c-133844d241",
+   "kind": "claim",
+   "node": "ev-varginha-1996",
+   "nodeLabel": "Varginha incident, Minas Gerais, January 1996",
+   "source": {
+    "domain": null,
+    "text": "Brazilian military inquiry findings, 2010, as quoted in Wikipedia 'Varginha UFO incident' — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+    "url": null
+   },
+   "text": "The 2010 Brazilian military inquiry concluded that 'this citizen, probably being dirty, due to the heavy rains and seen crouching by a wall, was mistaken by the three terrified girls as a space creature', and that the movements of Fire Brigade, Army and EsSA vehicles 'were real facts ... incorrectly interpreted'.",
+   "tier": 2
+  },
+  "c-14664ff8a5": {
+   "id": "c-14664ff8a5",
+   "kind": "claim",
+   "node": "ev-varginha-1996",
+   "nodeLabel": "Varginha incident, Minas Gerais, January 1996",
+   "source": {
+    "domain": null,
+    "text": "The Debrief, 30 January 2026",
+    "url": null
+   },
+   "text": "An anonymous videotaped witness said he was in the army in 1996 and helped transport the being from the Varginha hospital to Três Corações and thence to Campinas, and that on returning 'there was talk the Americans had the creature, having transported it to an undisclosed location'.",
+   "tier": 2
+  },
+  "c-15f48498e8": {
+   "id": "c-15f48498e8",
+   "kind": "claim",
+   "node": "arquivo-nacional-ufo",
+   "nodeLabel": "Arquivo Nacional (Brazil) - UFO/UAP collection",
+   "source": {
+    "domain": null,
+    "text": "Arquivo Nacional (Brasil), 'Conheça o fundo sobre OVNIs do Arquivo Nacional'",
+    "url": null
+   },
+   "text": "The Arquivo Nacional identifies the holding by name and reference: 'o Arquivo Nacional possui o Fundo Objeto Voador Não Identificado – OVNI (BR DFANBSB ARX)? O acervo sobre OVNIs é produzido pelo Comando da Aeronáutica do Brasil e está sob a guarda do Arquivo Nacional. Ele é composto de 743 registros que incluem relatos, questionários sobre ocorrências, correspondências, fotografias, desenhos, vídeos, áudios e recortes de jornais e revistas a respeito de objetos que foram vistos nos céus brasileiros ao longo dos anos.'",
+   "tier": 1
+  },
+  "c-1807acfd58": {
+   "id": "c-1807acfd58",
+   "kind": "claim",
+   "node": "fab",
+   "nodeLabel": "Força Aérea Brasileira / Ministério da Aeronáutica",
+   "source": {
+    "domain": "www.cnnbrasil.com.br",
+    "text": "Nota da Força Aérea Brasileira, quoted verbatim in CNN Brasil, 12 August 2026 (https://www.cnnbrasil.com.br/ciencia/pilotos-e-controladores-relataram-18-casos-de-ovnis-no-brasil-em-2025/)",
+    "url": "https://www.cnnbrasil.com.br/ciencia/pilotos-e-controladores-relataram-18-casos-de-ovnis-no-brasil-em-2025/"
+   },
+   "text": "FAB's current stated coverage runs to 2025, contradicting the Arquivo Nacional's 2018 description. Official Air Force note: 'A Força Aérea Brasileira (FAB) informa que todos os documentos, vídeos, fotografias, relatos, entre outros, disponíveis, no âmbito do Comando da Aeronáutica, sobre fenômenos aéreos não identificados, no período de 1952 a 2025, já foram transferidos para o Arquivo Nacional, onde são de domínio público.' The same note cites Portaria 551/GC3 and names COMAE (not COMDABRA) as the receiving command, reflecting the post-2017 reorganisation.",
+   "tier": 2
+  },
+  "c-1a0d2fd54d": {
+   "id": "c-1a0d2fd54d",
+   "kind": "claim",
+   "node": "arquivo-nacional-ufo",
+   "nodeLabel": "Arquivo Nacional (Brazil) - UFO/UAP collection",
+   "source": {
+    "domain": null,
+    "text": "Senado Federal, RQS 193/2022",
+    "url": null
+   },
+   "text": "The Brazilian Senate's Requerimento 193/2022 dates the transfer route to 2007 and states that the Aeronáutica alone transferred, not the Army or the Navy: 'A partir de 2007, a Aeronáutica, mas não o Exército e nem a Marinha, passou a enviar seus papeis resultantes de suas pesquisas para o Arquivo Nacional, em Brasília. E ano após ano, até o momento, novos documentos ufológicos tiveram o mesmo destino, somando-se hoje mais de 20 mil páginas de arquivos liberados.' It also records that in August 2010 Brigadeiro Junichi Saito, then FAB commander, directed by decree published in the Diário Oficial da União that all FAB UFO cases be concentrated at COMDABRA for shipment to the Arquivo Nacional.",
+   "tier": 1
+  },
+  "c-1dd86110a8": {
+   "id": "c-1dd86110a8",
+   "kind": "claim",
+   "node": "ev-varginha-1996",
+   "nodeLabel": "Varginha incident, Minas Gerais, January 1996",
+   "source": {
+    "domain": null,
+    "text": "Leslie Kean and Ralph Blumenthal, The Debrief, 30 January 2026",
+    "url": null
+   },
+   "text": "Dr Ítalo Venturelli, 73, a neurosurgeon at Varginha Regional Hospital, told members of Congress on 15 January 2026 that he examined a patient for three or four minutes after a colleague, Dr Marcos Vinico Neves (died 2018), sutured a cranial wound: 'I've been a doctor for forty-six years and have performed thousands of surgeries. To me, it was obvious that this was not a human being.' He described lilac eyes, a teardrop-shaped cranium, three fingers and a thumb, white skin, no nipples, and 'I wouldn't say it communicated telepathically; it communicated empathetically, through its eyes.'",
+   "tier": 2
+  },
+  "c-1ec66d6ba5": {
+   "id": "c-1ec66d6ba5",
+   "kind": "claim",
+   "node": "hospital-regional-varginha",
+   "nodeLabel": "Hospital Regional de Varginha",
+   "source": {
+    "domain": null,
+    "text": "Ministério da Saúde CNES open data, establishment 2761041",
+    "url": null
+   },
+   "text": "CNES record 2761041 registers the HOSPITAL REGIONAL DO SUL DE MINAS at Rua Rui Barbosa 158, Centro, Varginha, MG, CEP 37002-140, under municipal administrative sphere, with continuous 24-hour attendance and SUS outpatient service.",
+   "tier": 1
+  },
+  "c-1f56a21dae": {
+   "id": "c-1f56a21dae",
+   "kind": "claim",
+   "node": "operacao-prato",
+   "nodeLabel": "Operação Prato (Operation Saucer)",
+   "source": {
+    "domain": "www.migalhas.com.br",
+    "text": "Justiça Federal, Seção Judiciária de Santa Catarina, Recurso Cível n. 5002417-48.2022.4.04.7200/SC, Relator Juiz Federal João Batista Lazzari, RELVOTO, signed 27/2/2023, quoting Comando de Operações Aéreas/COMAER contestation, evento 13, ANEXO2 (https://www.migalhas.com.br/arquivos/2026/1/7F5E4CC12D7AE7_terceiraacao.pdf)",
+    "url": "https://www.migalhas.com.br/arquivos/2026/1/7F5E4CC12D7AE7_terceiraacao.pdf"
+   },
+   "text": "Arquivo Nacional's own response to a litigant, quoted verbatim in the federal court record: 'Em pesquisa no SIAN, usando o termo \"operação prato\", retornam 6 (seis) documentos. Em nenhum deles há documentos de caráter audiovisual.' The catalogue therefore yields six items under that search term and no audiovisual material. NO ITEM-LEVEL SIAN REFERENCE CODES FOR THESE SIX WERE OBTAINABLE - see 'unresolved'.",
+   "tier": 1
+  },
+  "c-208c1966cc": {
+   "id": "c-208c1966cc",
+   "kind": "claim",
+   "node": "arquivo-nacional-ufo",
+   "nodeLabel": "Arquivo Nacional (Brazil) - UFO/UAP collection",
+   "source": {
+    "domain": "www.gov.br",
+    "text": "Arquivo Nacional, 'Conheça o fundo sobre OVNIs do Arquivo Nacional', published 13/09/2018 (https://www.gov.br/arquivonacional/pt-br/canais_atendimento/imprensa/noticias/conheca-o-fundo-sobre-ovnis-do-arquivo-nacional)",
+    "url": "https://www.gov.br/arquivonacional/pt-br/canais_atendimento/imprensa/noticias/conheca-o-fundo-sobre-ovnis-do-arquivo-nacional"
+   },
+   "text": "CONTRADICTION RESOLVED - the 2016 date is a stale description, not a fund closing date. The Arquivo Nacional's own statement - 'Ele é composto de 743 registros' and 'A primeira ocorrência do Fundo Objeto Voador Não Identificado data de 1952 e a mais recente de 2016' - appears on an institutional news item carrying the byline 'Publicado em 13/09/2018 18h25 Atualizado em 13/09/2018 18h27'. It is a snapshot as of September 2018 that has never been revised, not a description of an accession that ended.",
+   "tier": 1
+  },
+  "c-249b1f4c7e": {
+   "id": "c-249b1f4c7e",
+   "kind": "claim",
+   "node": "uyrange-hollanda",
+   "nodeLabel": "Capitão Uyrangê Bolívar Soares Nogueira de Hollanda Lima",
+   "source": {
+    "domain": null,
+    "text": "Wikipedia 'Operação Prato', citing ISTOÉ (22 July 2013) and Folha de S. Paulo (11 January 2009)",
+    "url": null
+   },
+   "text": "'The operation was commanded by Captain Uyrangê Bolivar Soares Nogueira de Hollanda Lima ... After approximately four months, the operation was closed after finding no unusual phenomena. The official documents can be obtained from the Brazilian National Archives (Arquivo Nacional).'",
+   "tier": 2
+  },
+  "c-2bf23a0357": {
+   "id": "c-2bf23a0357",
+   "kind": "claim",
+   "node": "operacao-prato",
+   "nodeLabel": "Operação Prato (Operation Saucer)",
+   "source": {
+    "domain": null,
+    "text": "Câmara dos Deputados, RIC 679/2011, item 1.2, 22 June 2011",
+    "url": null
+   },
+   "text": "RIC 679/2011 records that material was withheld from the National Archives transfer: 'Estão faltando centenas de fotografias de um total de mais de 500 - só foram fornecidas aproximadamente 230 -, várias horas de filmes de OVNIs em películas super 8 e super 16 mm', and that the original I COMAR reports - 'bem mais detalhados do que o \"resumo de todos os casos de OVNIs de que o SINDACTA I participou\"' - were not sent to the Arquivo Nacional's Coordenação Regional no Distrito Federal (COREG).",
+   "tier": 1
+  },
+  "c-2e2f1a9deb": {
+   "id": "c-2e2f1a9deb",
+   "kind": "claim",
+   "node": "senado-brasil",
+   "nodeLabel": "Senado Federal do Brasil",
+   "source": {
+    "domain": "legis.senado.leg.br",
+    "text": "Senado Federal, Dados Abertos, RQS 193/2022, retrieved 23 August 2026, https://legis.senado.leg.br/dadosabertos/materia/pesquisa/lista?sigla=RQS&numero=193&ano=2022",
+    "url": "https://legis.senado.leg.br/dadosabertos/materia/pesquisa/lista?sigla=RQS&numero=193&ano=2022"
+   },
+   "text": "The same record names all eight signatories: Senador Eduardo Girão (PODEMOS/CE), Paulo Rocha (PT/PA), Izalci Lucas (PSDB/DF), Reguffe (PODEMOS/DF), Jorge Kajuru (PODEMOS/GO), Marcos do Val (PODEMOS/ES), Alessandro Vieira (CIDADANIA/SE) and Eliziane Gama (CIDADANIA/MA). The board previously recorded the co-signatories as an open question.",
+   "tier": 1
+  },
+  "c-39782d203e": {
+   "id": "c-39782d203e",
+   "kind": "claim",
+   "node": "otavio-moreira-lima",
+   "nodeLabel": "Brigadeiro Octávio Júlio Moreira Lima",
+   "source": {
+    "domain": null,
+    "text": "André Bernardo, BBC Brasil, 14 January 2022",
+    "url": null
+   },
+   "text": "The press conference was held at 16:30 on 23 May 1986, attended by the five FAB pilots and the air traffic controllers on duty that night; the minister said the episode would be investigated and a full dossier released within 30 days.",
+   "tier": 2
+  },
+  "c-3bd5a85d03": {
+   "id": "c-3bd5a85d03",
+   "kind": "claim",
+   "node": "eduardo-girao",
+   "nodeLabel": "Senador Eduardo Girão",
+   "source": {
+    "domain": null,
+    "text": "The Debrief, 30 January 2026",
+    "url": null
+   },
+   "text": "Burlison asked Girão: 'Are there videos that you think you might be able to get access to, any other material evidence?' Girão replied: 'I'm going to try.'",
+   "tier": 2
+  },
+  "c-441832e00a": {
+   "id": "c-441832e00a",
+   "kind": "claim",
+   "node": "hospital-regional-varginha",
+   "nodeLabel": "Hospital Regional de Varginha",
+   "source": {
+    "domain": null,
+    "text": "Inference from the CNES register",
+    "url": null
+   },
+   "text": "The identification of the 'Hospital Regional de Varginha' of the 1996 case narrative with the registered Hospital Regional do Sul de Minas is a reasoned match on name, city and the fact that it is the only regional hospital in the municipal register. Reasoning: no contemporaneous 1996 hospital document was obtained to confirm the identification.",
+   "tier": 3
+  },
+  "c-4e0ed2ecda": {
+   "id": "c-4e0ed2ecda",
+   "kind": "claim",
+   "node": "eduardo-girao",
+   "nodeLabel": "Senador Eduardo Girão",
+   "source": {
+    "domain": null,
+    "text": "Leslie Kean and Ralph Blumenthal, The Debrief, 30 January 2026",
+    "url": null
+   },
+   "text": "'Brazilian Senator Eduardo Girão, who represents the coastal state of Ceará and led a Brazilian Senate hearing on UAP in 2022, came to Washington to meet with members of Congress and attend the press event. Acting as a private citizen and not representing the Brazilian Senate, Girão spoke from the podium.'",
+   "tier": 2
+  },
+  "c-51c573b13c": {
+   "id": "c-51c573b13c",
+   "kind": "claim",
+   "node": "operacao-prato",
+   "nodeLabel": "Operação Prato (Operation Saucer)",
+   "source": {
+    "domain": null,
+    "text": "Justiça Federal SC, Recurso Cível n. 5002417-48.2022.4.04.7200/SC, RELVOTO, 27/2/2023",
+    "url": null
+   },
+   "text": "A federal suit to compel declassification of Operação Prato films (Rafael Zatarian Pederneiras v. União) was dismissed and the dismissal upheld on 27 February 2023. The court held that the claim of surviving FAB UFO films 'tem lastro especialmente em matérias jornalísticas e relatos de testemunhas, de modo que não constituem indícios suficientes quanto à existência de tais arquivos', and applied the presumption of veracity to the Administration's statement that the surviving records are no longer classified and are held by the Arquivo Nacional.",
+   "tier": 1
+  },
+  "c-546e5e5286": {
+   "id": "c-546e5e5286",
+   "kind": "claim",
+   "node": "pessoa-cavalcanti",
+   "nodeLabel": "Brigadeiro do Ar José Pessoa Cavalcanti de Albuquerque",
+   "source": {
+    "domain": null,
+    "text": "Relatório de Ocorrências, 2 June 1986, Introdução",
+    "url": null
+   },
+   "text": "The report's introduction states that because of limits of time and of specialised knowledge the Command chose to confine itself 'à narração simples dos fatos, de forma a não dar margem a especulações que envolvam o Ministério da Aeronáutica' - to a simple narration of the facts so as not to give scope for speculation involving the Ministry.",
+   "tier": 1
+  },
+  "c-57e064955f": {
+   "id": "c-57e064955f",
+   "kind": "claim",
+   "node": "ev-noite-ovnis-1986",
+   "nodeLabel": "Noite Oficial dos OVNIs - the Brazilian 'Night of the UFOs', 19 May 1986",
+   "source": {
+    "domain": null,
+    "text": "André Bernardo, BBC Brasil, 14 January 2022 / 17 May 2026",
+    "url": null
+   },
+   "text": "Civil-aviation corroboration on the night: at 21h04 the São José dos Campos controller Sargento Sérgio Mota da Silva contacted the twin-engine Xingu, prefix PT-MBZ, returning from Brasília, carrying Coronel Ozires Silva (who took office as president of Petrobras the following day) and copilot Alcir Pereira da Silva. Sightings were also reported by a TAM Bandeirante on the Londrina-São Paulo route and a Transbrasil aircraft over Araxá (MG).",
+   "tier": 2
+  },
+  "c-62714d0eae": {
+   "id": "c-62714d0eae",
+   "kind": "claim",
+   "node": "arquivo-nacional-ufo",
+   "nodeLabel": "Arquivo Nacional (Brazil) - UFO/UAP collection",
+   "source": {
+    "domain": null,
+    "text": "Portaria nº 551/GC3, de 9 de agosto de 2010, Art. 3º, transcribed in Justiça Federal SC, Recurso Cível n. 5002417-48.2022.4.04.7200/SC, RELVOTO 27/2/2023",
+    "url": null
+   },
+   "text": "The mechanism that makes the fund open-ended is written into the governing order: Portaria 551/GC3 Art. 3 requires CENDOC to 'copiar, encadernar, arquivar cópias dos registros encaminhados pelo COMDABRA e enviar, periodicamente, os originais ao Arquivo Nacional.' The fund therefore grows by periodic recolhimentos; a fixed terminal year is structurally impossible while the Portaria is in force.",
+   "tier": 1
+  },
+  "c-6315f9358f": {
+   "id": "c-6315f9358f",
+   "kind": "claim",
+   "node": "ev-varginha-capitol-2026",
+   "nodeLabel": "Varginha witnesses on Capitol Hill and at the National Press Club, 15 and 20 January 2026",
+   "source": {
+    "domain": null,
+    "text": "The Debrief, 30 January 2026",
+    "url": null
+   },
+   "text": "Claussen: a US cargo mission of this kind 'would require paperwork from Air Mobility Command at Scott AFB in Illinois and the Air Mobility Wing at Charleston AFB in South Carolina', plus refuelling records and an international flight plan; Brazilian air traffic controller Marco Feres reported that on or about 20 January 1996 a USAF cargo aircraft, most likely a C-17, landed at Viracopos airport in Campinas to collect an unusual cargo.",
+   "tier": 2
+  },
+  "c-6854ebcd40": {
+   "id": "c-6854ebcd40",
+   "kind": "claim",
+   "node": "ev-varginha-capitol-2026",
+   "nodeLabel": "Varginha witnesses on Capitol Hill and at the National Press Club, 15 and 20 January 2026",
+   "source": {
+    "domain": null,
+    "text": "NewsNation, 'UFO files: Lawmaker asks FBI, CIA for info on Brazil's Roswell moment', 15 July 2026",
+    "url": null
+   },
+   "text": "On 15 July 2026 NewsNation reported that a lawmaker had asked the FBI and CIA for information on the Varginha case; contemporaneous coverage names Representative Eric Burlison as the requester.",
+   "tier": 2
+  },
+  "c-7686718f3b": {
+   "id": "c-7686718f3b",
+   "kind": "claim",
+   "node": "ev-varginha-1996",
+   "nodeLabel": "Varginha incident, Minas Gerais, January 1996",
+   "source": {
+    "domain": null,
+    "text": "Contemporary Brazilian media reports and the witnesses' accounts",
+    "url": null
+   },
+   "text": "Three women aged 14 to 22 reported seeing an unknown large-headed biped with vein-like skin markings, three bumps on the head and red eyes near Rua Dr. Benevenuto Braz Vieira at about 3:30 p.m. on 20 January 1996.",
+   "tier": 2
+  },
+  "c-7a54f09597": {
+   "id": "c-7a54f09597",
+   "kind": "claim",
+   "node": "operacao-prato",
+   "nodeLabel": "Operação Prato (Operation Saucer)",
+   "source": {
+    "domain": null,
+    "text": "Jacques Vallée, Confrontations: A Scientist's Search for Alien Contact (Ballantine, 1990), p.134",
+    "url": null
+   },
+   "text": "Jacques Vallée reported that individuals were said to have been killed by the lights and that injuries were consistent with radiation effects from microwaves.",
+   "tier": 2
+  },
+  "c-7e737aa34e": {
+   "id": "c-7e737aa34e",
+   "kind": "claim",
+   "node": "doc-fab-1986-report",
+   "nodeLabel": "Relatório de Ocorrências, Comando Aéreo de Defesa Aérea, 2 June 1986 (Arquivo Nacional BR_DFANBSB_ARX_0_0_0249)",
+   "source": {
+    "domain": null,
+    "text": "Arquivo Nacional BR_DFANBSB_ARX_0_0_0249, page images",
+    "url": null
+   },
+   "text": "Document header: 'MINISTÉRIO DA AERONÁUTICA, COMANDO AÉREO DE DEFESA AÉREA ... Brasília-DF, 02 de Junho de 1986. Do Comandante. Ao Exmo Sr Comandante do Comando Geral do Ar. Assunto: Relatório de Ocorrência.' Classification marking [CONFIDENCIAL] on each page.",
+   "tier": 1
+  },
+  "c-7e8b0cfd57": {
+   "id": "c-7e8b0cfd57",
+   "kind": "claim",
+   "node": "senado-brasil",
+   "nodeLabel": "Senado Federal do Brasil",
+   "source": {
+    "domain": "legis.senado.leg.br",
+    "text": "Senado Federal, Dados Abertos, RQS 193/2022, retrieved 23 August 2026, https://legis.senado.leg.br/dadosabertos/materia/pesquisa/lista?sigla=RQS&numero=193&ano=2022",
+    "url": "https://legis.senado.leg.br/dadosabertos/materia/pesquisa/lista?sigla=RQS&numero=193&ano=2022"
+   },
+   "text": "The Senate's own open-data record for RQS 193/2022 (Código 152222, processo 8224484) gives the ementa verbatim as 'Sessão especial destinada a comemorar os 75 anos do Dia Mundial da Ufologia' and the date as 16 March 2022. The instrument is a request for a commemorative special session, not a records-seeking one, confirmed from the Senate's own data service rather than from secondary description.",
+   "tier": 1
+  },
+  "c-8c2d7a17ec": {
+   "id": "c-8c2d7a17ec",
+   "kind": "claim",
+   "node": "pessoa-cavalcanti",
+   "nodeLabel": "Brigadeiro do Ar José Pessoa Cavalcanti de Albuquerque",
+   "source": {
+    "domain": null,
+    "text": "Comando Aéreo de Defesa Aérea, Relatório de Ocorrências, Brasília-DF, 2 June 1986, signed Brig do Ar José Pessoa Cavalcanti de Albuquerque, Arquivo Nacional BR_DFANBSB_ARX_0_0_0249",
+    "url": null
+   },
+   "text": "'Como conclusão dos fatos constantes observados, em quase todas as apresentações, este Comando é de parecer, que os fenômenos são sólidos e refletem de certa forma inteligência, pela capacidade de acompanhar e manter distância dos observadores como também voar em formação, não forçosamente tripulados.'",
+   "tier": 1
+  },
+  "c-8ed11f562f": {
+   "id": "c-8ed11f562f",
+   "kind": "claim",
+   "node": "ev-varginha-capitol-2026",
+   "nodeLabel": "Varginha witnesses on Capitol Hill and at the National Press Club, 15 and 20 January 2026",
+   "source": {
+    "domain": null,
+    "text": "AARO 2024 report, quoted in The Debrief, 30 January 2026",
+    "url": null
+   },
+   "text": "AARO's 2024 report states that 'none of these investigations (including USG, foreign, and U.S. academic efforts) reached the conclusion that any of the UAP reports indicated extraterrestrial origin.'",
+   "tier": 1
+  },
+  "c-932d4ba9e5": {
+   "id": "c-932d4ba9e5",
+   "kind": "claim",
+   "node": "burlison-varginha-letters-2026",
+   "nodeLabel": "Burlison letters to CIA and FBI on the 1996 Varginha/Campinas incident (8 July 2026)",
+   "source": {
+    "domain": "burlison.house.gov",
+    "text": "https://burlison.house.gov/media/press-releases/burlison-presses-cia-and-fbi-records-related-1996-brazil-uap-incident",
+    "url": "https://burlison.house.gov/media/press-releases/burlison-presses-cia-and-fbi-records-related-1996-brazil-uap-incident"
+   },
+   "text": "On 8 July 2026 Burlison sent letters to the CIA and FBI requesting records about the January 1996 Varginha/Campinas, Brazil UAP incident.",
+   "tier": 1
+  },
+  "c-953874b965": {
+   "id": "c-953874b965",
+   "kind": "claim",
+   "node": "ev-noite-ovnis-1986",
+   "nodeLabel": "Noite Oficial dos OVNIs - the Brazilian 'Night of the UFOs', 19 May 1986",
+   "source": {
+    "domain": "www.opovo.com.br",
+    "text": "André Bernardo, BBC Brasil, 'A noite em que 21 óvnis invadiram o espaço aéreo brasileiro e foram perseguidos por caças da FAB', published 14 January 2022, republished 17 May 2026 (https://www.opovo.com.br/agencia/bbc/2026/05/17/amp/a-noite-em-que-21-ovnis-invadiram-o-espaco-aereo-brasileiro-e-foram-perseguidos-por-cacas-da-fab.html)",
+    "url": "https://www.opovo.com.br/agencia/bbc/2026/05/17/amp/a-noite-em-que-21-ovnis-invadiram-o-espaco-aereo-brasileiro-e-foram-perseguidos-por-cacas-da-fab.html"
+   },
+   "text": "Ministerial press conference record: on 23 May 1986 at 16h30 the Minister of Aeronautics, Brigadeiro Octávio Júlio Moreira Lima (1926-2011), convened the press to state that five FAB fighters had pursued 21 UFOs. His words as reported: 'Não se trata de acreditar ou não [em seres extraterrestres ou em discos voadores]. Só podemos dar informações técnicas. As suposições são várias. Tecnicamente, diria aos senhores que não temos explicação.' The five FAB pilots and the on-duty flight controllers attended.",
+   "tier": 2
+  },
+  "c-981bd03a48": {
+   "id": "c-981bd03a48",
+   "kind": "claim",
+   "node": "ev-noite-ovnis-1986",
+   "nodeLabel": "Noite Oficial dos OVNIs - the Brazilian 'Night of the UFOs', 19 May 1986",
+   "source": {
+    "domain": null,
+    "text": "André Bernardo, BBC Brasil, 14 January 2022 / 17 May 2026",
+    "url": null
+   },
+   "text": "The 23-year delay: at the close of the 23 May 1986 press conference the Minister undertook to publish a complete dossier 'dentro de 30 dias'. The report - signed by the interim Comando da Aeronáutica (COMDA) commander José Pessoa Cavalcanti de Albuquerque and dated 2 June 1986 - was released only on 25 September 2009, 23 years later.",
+   "tier": 2
+  },
+  "c-ae62b8be1a": {
+   "id": "c-ae62b8be1a",
+   "kind": "claim",
+   "node": "operacao-prato",
+   "nodeLabel": "Operação Prato (Operation Saucer)",
+   "source": {
+    "domain": "legis.senado.leg.br",
+    "text": "Senado Federal, Requerimento nº 193, de 2022 (RQS 193/2022), Sen. Eduardo Girão et al., justificação; Diário do Senado Federal nº 32 de 2022; approved in plenary 24/06/2022 (https://legis.senado.leg.br/sdleg-getter/documento?dm=9089831&ts=1647523438292&disposition=inline)",
+    "url": "https://legis.senado.leg.br/sdleg-getter/documento?dm=9089831&ts=1647523438292&disposition=inline"
+   },
+   "text": "The Senado Federal, in a requerimento approved by the Plenary on 24 June 2022, lists Operação Prato among official Brazilian government UFO research programmes: 'Desde 1954, o Governo Brasileiro, por meio de sua Aeronáutica, já criou vários programas oficiais de pesquisas dos OVNIs, como em 1977, quando ocorreu a chamada Operação Prato'. This is a primary legislative characterisation, not an independent finding of fact.",
+   "tier": 1
+  },
+  "c-baee476d5a": {
+   "id": "c-baee476d5a",
+   "kind": "claim",
+   "node": "fab",
+   "nodeLabel": "Força Aérea Brasileira / Ministério da Aeronáutica",
+   "source": {
+    "domain": null,
+    "text": "BBC Brasil, 14 January 2022",
+    "url": null
+   },
+   "text": "Air Force note to BBC Brasil: all available UFO material has been sent to the Arquivo Nacional and the force 'não dispõe de profissionais especializados para realizar investigações científicas ou emitir parecer a respeito deste tipo de fenômeno aéreo'.",
+   "tier": 2
+  },
+  "c-bb782130f6": {
+   "id": "c-bb782130f6",
+   "kind": "claim",
+   "node": "hospital-regional-varginha",
+   "nodeLabel": "Hospital Regional de Varginha",
+   "source": {
+    "domain": null,
+    "text": "Research status",
+    "url": null
+   },
+   "text": "No hospital admission, transfer or incident record from January 1996 was located in this pass; the custody sequence at this facility remains testimony-based and is a wave-4 target for Brazilian archival and municipal records requests.",
+   "tier": 3
+  },
+  "c-d3ca72a153": {
+   "id": "c-d3ca72a153",
+   "kind": "claim",
+   "node": "ev-varginha-1996",
+   "nodeLabel": "Varginha incident, Minas Gerais, January 1996",
+   "source": {
+    "domain": null,
+    "text": "Brazilian Army inquiry, 2010 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+    "url": null
+   },
+   "text": "A 2010 Brazilian military inquiry concluded the women had encountered Luiz Antonio de Paula, known as 'Mudinho', with the commander of the 24th Military Police Battalion supplying photographs and stating his physical characteristics matched the description.",
+   "tier": 2
+  },
+  "c-d54af89f5d": {
+   "id": "c-d54af89f5d",
+   "kind": "claim",
+   "node": "ev-varginha-1996",
+   "nodeLabel": "Varginha incident, Minas Gerais, January 1996",
+   "source": {
+    "domain": null,
+    "text": "Leslie Kean and Ralph Blumenthal, The Debrief, 30 January 2026",
+    "url": null
+   },
+   "text": "Carlos de Sousa told the same meeting that a soldier aimed a gun at his head and said 'Leave now, or I'll split your skull'.",
+   "tier": 2
+  },
+  "c-dadf9b557e": {
+   "id": "c-dadf9b557e",
+   "kind": "claim",
+   "node": "operacao-prato",
+   "nodeLabel": "Operação Prato (Operation Saucer)",
+   "source": {
+    "domain": null,
+    "text": "Câmara dos Deputados, RIC 679/2011, item 1.2, 22 June 2011",
+    "url": null
+   },
+   "text": "Brigadeiro Protázio Lopes de Oliveira is identified in the same parliamentary document as 'Chefe do I COMAR à época da Operação', placing the operation under the 1º Comando Aéreo Regional in Belém/PA, 1977-1978.",
+   "tier": 1
+  },
+  "c-ef693c80e3": {
+   "id": "c-ef693c80e3",
+   "kind": "claim",
+   "node": "ev-noite-ovnis-1986",
+   "nodeLabel": "Noite Oficial dos OVNIs - the Brazilian 'Night of the UFOs', 19 May 1986",
+   "source": {
+    "domain": null,
+    "text": "Senado Federal, RQS 193/2022, justificação; Diário do Senado Federal nº 32 de 2022; approved 24/06/2022",
+    "url": null
+   },
+   "text": "The 1986 event is named and characterised in a Senate document approved by the Plenary on 24 June 2022: 'em 1986, quando ocorreu a hoje conhecida como \"Noite Oficial dos UFOs no Brasil\", quando 21 OVNIs esféricos de 100 metros de diâmetro cada foram perseguidos durante horas por nossos caças a jato.' This attests the legislative record of the event, not the physical claims within it.",
+   "tier": 1
+  },
+  "c-f1d6c49d69": {
+   "id": "c-f1d6c49d69",
+   "kind": "claim",
+   "node": "ev-noite-ovnis-1986",
+   "nodeLabel": "Noite Oficial dos OVNIs - the Brazilian 'Night of the UFOs', 19 May 1986",
+   "source": {
+    "domain": null,
+    "text": "BBC Brasil, 14 January 2022, interview with Adenir Britto",
+    "url": null
+   },
+   "text": "A month after the event two officers of the Aerospace Technical Centre (CTA), accompanied by the American researcher James J. Hurtak, collected the photographic negatives taken by press photographer Adenir Britto from the newspaper Vale Paraibano, saying they would be analysed by NASA; they were never returned.",
+   "tier": 2
+  },
+  "c-ffccefc378": {
+   "id": "c-ffccefc378",
+   "kind": "claim",
+   "node": "operacao-prato",
+   "nodeLabel": "Operação Prato (Operation Saucer)",
+   "source": {
+    "domain": "www.camara.leg.br",
+    "text": "Câmara dos Deputados, Requerimento de Informações (RIC) 679/2011, Dep. Chico Alencar (PSOL/RJ), 22 June 2011, item 1.2 (https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=891762&filename=RIC+679%2F2011)",
+    "url": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=891762&filename=RIC+679%2F2011"
+   },
+   "text": "The operation's commander is named in a Chamber of Deputies information requirement as 'coronel Uyrangê Bolivar Soares Nogueira de Hollanda Lima', described as having narrated the missing film and photographic material to ufologists 'antes de sua morte em 1997'. This fixes both the full name and the 1997 death in a primary parliamentary document.",
+   "tier": 1
+  },
+  "e-0d6a5d9d9a": {
+   "endpoints": [
+    {
+     "id": "pessoa-cavalcanti",
+     "label": "Brigadeiro do Ar José Pessoa Cavalcanti de Albuquerque"
+    },
+    {
+     "id": "ev-noite-ovnis-1986",
+     "label": "Noite Oficial dos OVNIs - the Brazilian 'Night of the UFOs', 19 May 1986"
+    }
+   ],
+   "id": "e-0d6a5d9d9a",
+   "kind": "edge",
+   "label": "Commanded the air defence organisation whose engagement he then wrote up",
+   "sources": [
+    {
+     "date": null,
+     "name": "Arquivo Nacional, Fundo Objeto Voador Não Identificado – OVNI, reference BR DFANBSB ARX; the 1986 Air Defence Command report carries the item reference BR_DFANBSB_ARX_0_0_0249 (board node doc-fab-1986-report)",
+     "url": ""
+    },
+    {
+     "date": null,
+     "name": "Correio Braziliense, 'A noite em que 21 óvnis invadiram o espaço aéreo brasileiro e foram perseguidos por caças da FAB' — https://www.correiobraziliense.com.br/mundo/2026/05/7421517-a-noite-em-que-21-ovnis-invadiram-o-espaco-aereo-brasileiro-e-foram-perseguidos-por-cacas-da-fab.html",
+     "url": ""
+    },
+    {
+     "date": "1986-06-02",
+     "name": "Relatório de Ocorrências (Arquivo Nacional PDF)",
+     "url": "http://imagem.sian.an.gov.br/acervo/derivadas/BR_DFANBSB_ARX/0/0/0249/BR_DFANBSB_ARX_0_0_0249_d0001de0001.pdf"
+    }
+   ],
+   "text": "The 19 May 1986 intercepts were run through the Air Defence Command; Pessoa Cavalcanti, as its acting commander, signed the command's own occurrence report on them fourteen days later. He is the officer who converted the night into a document.",
+   "tier": 1,
+   "type": "investigative"
+  },
+  "e-16b621f8a6": {
+   "endpoints": [
+    {
+     "id": "peru-uap-office",
+     "label": "Peruvian Air Force anomalous aerial phenomena office (OIFAA / DIFAA)"
+    },
+    {
+     "id": "fab",
+     "label": "Força Aérea Brasileira / Ministério da Aeronáutica"
+    }
+   ],
+   "id": "e-16b621f8a6",
+   "kind": "edge",
+   "label": "COMPARISON: Peru's own state news agency measured DIFAA's reopening against Brazil",
+   "sources": [
+    {
+     "date": null,
+     "name": "Agencia Peruana de Noticias Andina (Editora Perú), 'Fenómenos aéreos anómalos en Perú podrán reportarse a la FAP', 18 October 2013 — https://andina.pe/agencia/noticia-fenomenos-aereos-anomalos-peru-podran-reportarse-a-fap-478982.aspx",
+     "url": ""
+    },
+    {
+     "date": "1986-06-02",
+     "name": "Relatório de Ocorrências (Arquivo Nacional)",
+     "url": "http://imagem.sian.an.gov.br/acervo/derivadas/BR_DFANBSB_ARX/0/0/0249/BR_DFANBSB_ARX_0_0_0249_d0001de0001.pdf"
+    }
+   ],
+   "text": "COMPARISON EDGE — no institutional contact between the FAP and the FAB is claimed. Peru's state news agency Andina, reporting the reopening on 18 October 2013, closes: 'Con la reapertura de la DIFAA, el Perú se coloca a la paridad de países de la región como Chile, Argentina, Uruguay, Brasil y Ecuador.' Brazil is named by a Peruvian government outlet as the regional benchmark. The same report establishes the office's identity that the peru-uap-office node lacked: the Departamento de Investigación de Fenómenos Aéreos Anómalos (DIFAA), sitting under the Dirección de Intereses Aéreos Espaciales (DINAE), whose head Coronel FAP Julio Vucetich Abanto announced the public reporting channel, the office having been closed for five years 'a causa de problemas administrativos'. The reopening was announced at an FAP-hosted 'Encuentro sobre Fenómenos Aéreos Anómalos' addressing the Nazca Lines question.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-1f615df9cf": {
+   "endpoints": [
+    {
+     "id": "fab",
+     "label": "Força Aérea Brasileira / Ministério da Aeronáutica"
+    },
+    {
+     "id": "arquivo-nacional-ufo",
+     "label": "Arquivo Nacional (Brazil) - UFO/UAP collection"
+    }
+   ],
+   "id": "e-1f615df9cf",
+   "kind": "edge",
+   "label": "Portaria 551/GC3 (9 Aug 2010): COMDABRA/COMAE catalogues, CENDOC forwards originals periodically",
+   "sources": [
+    {
+     "date": null,
+     "name": "https://www.migalhas.com.br/arquivos/2026/1/7F5E4CC12D7AE7_terceiraacao.pdf",
+     "url": "https://www.migalhas.com.br/arquivos/2026/1/7F5E4CC12D7AE7_terceiraacao.pdf"
+    },
+    {
+     "date": null,
+     "name": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=891762&filename=RIC+679%2F2011",
+     "url": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=891762&filename=RIC+679%2F2011"
+    },
+    {
+     "date": null,
+     "name": "https://www.cnnbrasil.com.br/ciencia/pilotos-e-controladores-relataram-18-casos-de-ovnis-no-brasil-em-2025/",
+     "url": "https://www.cnnbrasil.com.br/ciencia/pilotos-e-controladores-relataram-18-casos-de-ovnis-no-brasil-em-2025/"
+    }
+   ],
+   "text": "Art. 3 mandates periodic transfer of originals, which is why the fund has no terminal year. Published DOU 10 Aug 2010, Seção 1, p. 101. Revoked Nota C-002/MIN/ADM (13 Apr 1978) and Aviso S-001/MIN (28 Feb 1989). Successive accessions are documented at least to a 'terceiro recolhimento' covering 1981, with CENDOC's bulk remittance to COREG scheduled to close 31 Aug 2010; FAB states coverage now runs 1952-2025.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-35edaff45d": {
+   "endpoints": [
+    {
+     "id": "senado-brasil",
+     "label": "Senado Federal do Brasil"
+    },
+    {
+     "id": "hospital-regional-varginha",
+     "label": "Hospital Regional de Varginha"
+    }
+   ],
+   "id": "e-35edaff45d",
+   "kind": "edge",
+   "label": "Girao backed Varginha hospital witnesses in Washington",
+   "sources": [
+    {
+     "date": "2026-08-12",
+     "name": "Senado Federal - Dados Abertos, list of senators in exercise (official open-data service, 81 members)",
+     "url": "https://legis.senado.leg.br/dadosabertos/senador/lista/atual"
+    },
+    {
+     "date": "2026-08-12",
+     "name": "CNES - Cadastro Nacional de Estabelecimentos de Saúde, establishment record 2761041 (Ministério da Saúde open data API)",
+     "url": "https://apidadosabertos.saude.gov.br/cnes/estabelecimentos/2761041"
+    },
+    {
+     "date": null,
+     "name": "https://thedebrief.org/caso-historico-de-ovni-no-brasil-chega-ao-capitolio-enquanto-o-incidente-de-varginha-completa-30-anos/",
+     "url": "https://thedebrief.org/caso-historico-de-ovni-no-brasil-chega-ao-capitolio-enquanto-o-incidente-de-varginha-completa-30-anos/"
+    },
+    {
+     "date": null,
+     "name": "https://thedebrief.org/landmark-brazilian-ufo-case-reaches-capitol-hill-as-varginha-incident-turns-30/",
+     "url": "https://thedebrief.org/landmark-brazilian-ufo-case-reaches-capitol-hill-as-varginha-incident-turns-30/"
+    }
+   ],
+   "text": "Sen. Eduardo Girao, who presided over the 2022 Brazilian Senate UAP session, travelled to Washington for the 20 January 2026 National Press Club event and praised the Varginha witnesses, and discussed a joint Brazil-US evidence effort with Rep. Eric Burlison. The Debrief is explicit that Girao acted as a private citizen and was not officially representing the Brazilian Senate, so this is a personal rather than institutional linkage.",
+   "tier": 2,
+   "type": "investigative"
+  },
+  "e-3a69cf08ed": {
+   "endpoints": [
+    {
+     "id": "l-brazil",
+     "label": "Brazil"
+    },
+    {
+     "id": "ev-noite-ovnis-1986",
+     "label": "Noite Oficial dos OVNIs - the Brazilian 'Night of the UFOs', 19 May 1986"
+    }
+   ],
+   "id": "e-3a69cf08ed",
+   "kind": "edge",
+   "label": "The 1986 engagement ranged across four Brazilian states",
+   "sources": [
+    {
+     "date": null,
+     "name": "Correio Braziliense, 'A noite em que 21 óvnis invadiram o espaço aéreo brasileiro e foram perseguidos por caças da FAB' — https://www.correiobraziliense.com.br/mundo/2026/05/7421517-a-noite-em-que-21-ovnis-invadiram-o-espaco-aereo-brasileiro-e-foram-perseguidos-por-cacas-da-fab.html",
+     "url": ""
+    },
+    {
+     "date": null,
+     "name": "Senado Federal (Brasil), Requerimento nº 193, de 2022 (RQS 193/2022), autoria do Senador Eduardo Girão (PODEMOS/CE) com Eliziane Gama, Alessandro Vieira, Izalci Lucas, Jorge Kajuru, Marcos do Val, Paulo Rocha e Reguffe — sessão especial para os 75 anos do Dia Mundial da Ufologia — https://legis.senado.leg.br/sdleg-getter/documento?dm=9089831&ts=1647523438292&disposition=inline",
+     "url": ""
+    },
+    {
+     "date": "2026-08-23",
+     "name": "Senado Federal, Dados Abertos — official record of RQS 193/2022 (Código 152222): ementa 'Sessão especial destinada a comemorar os 75 anos do Dia Mundial da Ufologia', 16 March 2022, Sen. Eduardo Girão and seven co-signers",
+     "url": "https://legis.senado.leg.br/dadosabertos/materia/pesquisa/lista?sigla=RQS&numero=193&ano=2022"
+    },
+    {
+     "date": "1986-06-02",
+     "name": "Relatório de Ocorrências (Arquivo Nacional PDF)",
+     "url": "http://imagem.sian.an.gov.br/acervo/derivadas/BR_DFANBSB_ARX/0/0/0249/BR_DFANBSB_ARX_0_0_0249_d0001de0001.pdf"
+    }
+   ],
+   "text": "São Paulo, Rio de Janeiro, Minas Gerais and Goiás. A national-scale event, which is why it reads as a state posture rather than a local incident. [CORRECTED 14 Aug 2026: RQS 193/2022 is a request for a COMMEMORATIVE SPECIAL SESSION under Art. 199 RISF, approved 16 Mar 2022, held 24 Jun 2022 - not a records-seeking or compelling instrument. Its durable value is the content of its justificacao, which names Operacao Prato, the 1986 night, SIOANI and the archive reference BR DFANBSB ARX. These edges assert what the document NAMES, which is verifiable in its text and unaffected by its procedural nature, so the tier is unchanged. Any claim that the instrument COMPELLED disclosure would be false.]",
+   "tier": 1,
+   "type": "geographic"
+  },
+  "e-3e48075fa9": {
+   "endpoints": [
+    {
+     "id": "eric-burlison",
+     "label": "Eric Burlison"
+    },
+    {
+     "id": "burlison-varginha-letters-2026",
+     "label": "Burlison letters to CIA and FBI on the 1996 Varginha/Campinas incident (8 July 2026)"
+    }
+   ],
+   "id": "e-3e48075fa9",
+   "kind": "edge",
+   "label": "author",
+   "sources": [
+    {
+     "date": "2026-07-08",
+     "name": "Burlison presses CIA and FBI on Varginha",
+     "url": "https://burlison.house.gov/media/press-releases/burlison-presses-cia-and-fbi-records-related-1996-brazil-uap-incident"
+    }
+   ],
+   "text": "Letters to CIA and FBI requesting records on the January 1996 Varginha/Campinas incident in Brazil.",
+   "tier": 1,
+   "type": "investigative"
+  },
+  "e-40009534c9": {
+   "endpoints": [
+    {
+     "id": "ev-varginha-capitol-2026",
+     "label": "Varginha witnesses on Capitol Hill and at the National Press Club, 15 and 20 January 2026"
+    },
+    {
+     "id": "aaro",
+     "label": "All-domain Anomaly Resolution Office (AARO)"
+    }
+   ],
+   "id": "e-40009534c9",
+   "kind": "edge",
+   "label": "AARO's 2024 negative finding is the standing counter-position",
+   "sources": [
+    {
+     "date": "2026-01-30",
+     "name": "The Debrief",
+     "url": "https://thedebrief.org/landmark-brazilian-ufo-case-reaches-capitol-hill-as-varginha-incident-turns-30/"
+    }
+   ],
+   "text": "AARO's 2024 report states that no investigation, including foreign efforts, concluded that any UAP report indicated extraterrestrial origin; the Varginha witnesses were briefing Congress against that finding.",
+   "tier": 1,
+   "type": "denial"
+  },
+  "e-560d363cb9": {
+   "endpoints": [
+    {
+     "id": "fab",
+     "label": "Força Aérea Brasileira / Ministério da Aeronáutica"
+    },
+    {
+     "id": "operacao-prato",
+     "label": "Operação Prato (Operation Saucer)"
+    }
+   ],
+   "id": "e-560d363cb9",
+   "kind": "edge",
+   "label": "The Brazilian Air Force mounted Operação Prato as its own field operation",
+   "sources": [
+    {
+     "date": null,
+     "name": "Senado Federal (Brasil), Requerimento nº 193, de 2022 (RQS 193/2022), autoria do Senador Eduardo Girão (PODEMOS/CE) com Eliziane Gama, Alessandro Vieira, Izalci Lucas, Jorge Kajuru, Marcos do Val, Paulo Rocha e Reguffe — sessão especial para os 75 anos do Dia Mundial da Ufologia — https://legis.senado.leg.br/sdleg-getter/documento?dm=9089831&ts=1647523438292&disposition=inline",
+     "url": ""
+    },
+    {
+     "date": null,
+     "name": "Bob Pratt, 'Operação Prato', MUFON/Pratt document set hosted by The Black Vault — https://documents.theblackvault.com/documents/MUFON/Pratt/prato.pdf",
+     "url": ""
+    },
+    {
+     "date": "2026-08-23",
+     "name": "Senado Federal, Dados Abertos — official record of RQS 193/2022 (Código 152222): ementa 'Sessão especial destinada a comemorar os 75 anos do Dia Mundial da Ufologia', 16 March 2022, Sen. Eduardo Girão and seven co-signers",
+     "url": "https://legis.senado.leg.br/dadosabertos/materia/pesquisa/lista?sigla=RQS&numero=193&ano=2022"
+    },
+    {
+     "date": "1986-06-02",
+     "name": "Relatório de Ocorrências (Arquivo Nacional PDF)",
+     "url": "http://imagem.sian.an.gov.br/acervo/derivadas/BR_DFANBSB_ARX/0/0/0249/BR_DFANBSB_ARX_0_0_0249_d0001de0001.pdf"
+    }
+   ],
+   "text": "Operação Prato was run by the Força Aérea Brasileira out of the Belém air base in Pará, with the SNI, after mayors in the Colares area formally asked for help. The Brazilian Senate's own Requerimento 193/2022 lists it among the official Aeronáutica UAP programmes: 'Desde 1954, o Governo Brasileiro, por meio de sua Aeronáutica, já criou vários programas oficiais de pesquisas dos OVNIs, como em 1977, quando ocorreu a chamada Operação Prato'. Bob Pratt's file records that the operation was staffed by 'Captain Uyrangê Hollanda and six sergeants' and was shut down after four months by Brigadier Protázio Lopes de Oliveira, the base commander in Belém. This is the base institutional fact the whole Brazilian cluster hangs from and it was previously unwired. [CORRECTED 14 Aug 2026: RQS 193/2022 is a request for a COMMEMORATIVE SPECIAL SESSION under Art. 199 RISF, approved 16 Mar 2022, held 24 Jun 2022 - not a records-seeking or compelling instrument. Its durable value is the content of its justificacao, which names Operacao Prato, the 1986 night, SIOANI and the archive reference BR DFANBSB ARX. These edges assert what the document NAMES, which is verifiable in its text and unaffected by its procedural nature, so the tier is unchanged. Any claim that the instrument COMPELLED disclosure would be false.]",
+   "tier": 1,
+   "type": "programmatic"
+  },
+  "e-56585e150b": {
+   "endpoints": [
+    {
+     "id": "operacao-prato",
+     "label": "Operação Prato (Operation Saucer)"
+    },
+    {
+     "id": "jacques-vallee",
+     "label": "Jacques F. Vallee"
+    }
+   ],
+   "id": "e-56585e150b",
+   "kind": "edge",
+   "label": "Vallee was shown the Prato military file at First Air Force headquarters in 1988",
+   "sources": [
+    {
+     "date": null,
+     "name": "Jacques Vallee, 'Forbidden Science Volume Three' (diary of the July 1988 Brazil trip), quoted in Basterfield, 'Investigative adventures in Brazil'",
+     "url": ""
+    },
+    {
+     "date": null,
+     "name": "Keith Basterfield, 'Investigative adventures in Brazil', Unidentified Anomalous Phenomena – scientific research, 22 July 2024, with update of 16 February 2025 — https://ufos-scientificresearch.blogspot.com/2024/07/investigative-adventures-in-brazil.html",
+     "url": ""
+    },
+    {
+     "date": "2026-01-01",
+     "name": "Operação Prato - Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Prato"
+    }
+   ],
+   "text": "From Vallee's Forbidden Science Volume Three, as quoted by Basterfield: travelling to Belém in July 1988, 'They met with Colonel Hollanda Lima, in the headquarters of the First Air Force region. He led the team sent to the Colares region during Operation Prato. Vallee was shown a military file which: \"...held the military photographs, detailed aerial maps, trajectory analyses by the staff of Project Prato.\"' Tier 2 — diary testimony quoted at one remove, with no FAB document confirming the meeting.",
+   "tier": 2,
+   "type": "investigative"
+  },
+  "e-62bc0e3764": {
+   "endpoints": [
+    {
+     "id": "arquivo-nacional-ufo",
+     "label": "Arquivo Nacional (Brazil) - UFO/UAP collection"
+    },
+    {
+     "id": "sky-canada-project",
+     "label": "Sky Canada Project - Office of the Chief Science Advisor of Canada"
+    }
+   ],
+   "id": "e-62bc0e3764",
+   "kind": "edge",
+   "label": "COMPARISON: Canada surveyed the world's UAP-reporting models and did not mention Brazil once",
+   "sources": [
+    {
+     "date": null,
+     "name": "Office of the Chief Science Advisor of Canada, 'Management of Public Reporting of Unidentified Aerial Phenomena in Canada' (Sky Canada Project, 2025) — https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada",
+     "url": ""
+    },
+    {
+     "date": "2026-08-12",
+     "name": "Arquivo Nacional - portal",
+     "url": "https://www.gov.br/arquivonacional/pt-br"
+    }
+   ],
+   "text": "COMPARISON EDGE, and a second sourced negative. The Sky Canada Project report examined 'the management of UAP reporting in several countries' and concluded that 'the processes in place in a few countries, notably the United States, France and Chile, provide interesting examples of coordinated, transparent, and scientifically driven approaches'. Its recommendation 13 tells the future Canadian lead organisation to 'establish partnerships with international entities dedicated to UAPs, such as AARO and NASA (U.S.A.), GEIPAN (France), and SEFAA (Chile).' The word 'Brazil' does not occur in the report. The state that actually put its military UAP files in a public archive is absent from the survey of states that handle UAP reporting well — which is a finding about the survey as much as about Brazil.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-63d5904132": {
+   "endpoints": [
+    {
+     "id": "fab",
+     "label": "Força Aérea Brasileira / Ministério da Aeronáutica"
+    },
+    {
+     "id": "pessoa-cavalcanti",
+     "label": "Brigadeiro do Ar José Pessoa Cavalcanti de Albuquerque"
+    }
+   ],
+   "id": "e-63d5904132",
+   "kind": "edge",
+   "label": "Pessoa Cavalcanti signed for the FAB's own Air Defence Command",
+   "sources": [
+    {
+     "date": null,
+     "name": "Arquivo Nacional, Fundo Objeto Voador Não Identificado – OVNI, reference BR DFANBSB ARX; the 1986 Air Defence Command report carries the item reference BR_DFANBSB_ARX_0_0_0249 (board node doc-fab-1986-report)",
+     "url": ""
+    },
+    {
+     "date": null,
+     "name": "Correio Braziliense, 'A noite em que 21 óvnis invadiram o espaço aéreo brasileiro e foram perseguidos por caças da FAB' — https://www.correiobraziliense.com.br/mundo/2026/05/7421517-a-noite-em-que-21-ovnis-invadiram-o-espaco-aereo-brasileiro-e-foram-perseguidos-por-cacas-da-fab.html",
+     "url": ""
+    },
+    {
+     "date": "1986-06-02",
+     "name": "Relatório de Ocorrências (Arquivo Nacional PDF)",
+     "url": "http://imagem.sian.an.gov.br/acervo/derivadas/BR_DFANBSB_ARX/0/0/0249/BR_DFANBSB_ARX_0_0_0249_d0001de0001.pdf"
+    }
+   ],
+   "text": "José Pessoa Cavalcanti de Albuquerque signed the Relatório de Ocorrências of 2 June 1986 as acting commander of COMDA/NuCOMDABRA, a command of the Brazilian Air Force. The finding that the objects were solid and behaved intelligently is therefore a FAB internal finding rendered up its own chain of command under classification, not an outside assessment.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-67615cc44e": {
+   "endpoints": [
+    {
+     "id": "operacao-prato",
+     "label": "Operação Prato (Operation Saucer)"
+    },
+    {
+     "id": "the-black-vault",
+     "label": "The Black Vault"
+    }
+   ],
+   "id": "e-67615cc44e",
+   "kind": "edge",
+   "label": "The American reporter's Prato dossier sits in Greenewald's archive",
+   "sources": [
+    {
+     "date": null,
+     "name": "Bob Pratt, 'Operação Prato', MUFON/Pratt document set hosted by The Black Vault — https://documents.theblackvault.com/documents/MUFON/Pratt/prato.pdf",
+     "url": ""
+    },
+    {
+     "date": "2026-01-01",
+     "name": "Operação Prato - Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Prato"
+    }
+   ],
+   "text": "A file titled 'Operação Prato', written by the US journalist Bob Pratt, is served publicly in the MUFON/Pratt document set at documents.theblackvault.com. It opens: 'Operação Prato, a Brazilian Air Force investigation of a prolonged UFO flap in 1977-78'. It names Captain Uyrangê Hollanda and his six sergeants, names Brigadier Protázio Lopes de Oliveira as the Belém base commander who shut the operation down after four months, and describes the interviews of hundreds of witnesses in Colares and about thirty other villages. This is the concrete answer to whether Prato material reached US hands: it did, through a working reporter, and it is now in the same FOIA archive that carries the Elizondo and Grusch-era US paper.",
+   "tier": 2,
+   "type": "custody"
+  },
+  "e-6f55dbfaed": {
+   "endpoints": [
+    {
+     "id": "senado-brasil",
+     "label": "Senado Federal do Brasil"
+    },
+    {
+     "id": "ev-noite-ovnis-1986",
+     "label": "Noite Oficial dos OVNIs - the Brazilian 'Night of the UFOs', 19 May 1986"
+    }
+   ],
+   "id": "e-6f55dbfaed",
+   "kind": "edge",
+   "label": "The 1986 night is named in the Senate instrument that produced the 2022 special session",
+   "sources": [
+    {
+     "date": null,
+     "name": "Senado Federal (Brasil), Requerimento nº 193, de 2022 (RQS 193/2022), autoria do Senador Eduardo Girão (PODEMOS/CE) com Eliziane Gama, Alessandro Vieira, Izalci Lucas, Jorge Kajuru, Marcos do Val, Paulo Rocha e Reguffe — sessão especial para os 75 anos do Dia Mundial da Ufologia — https://legis.senado.leg.br/sdleg-getter/documento?dm=9089831&ts=1647523438292&disposition=inline",
+     "url": ""
+    },
+    {
+     "date": null,
+     "name": "Senado Federal, Notas Taquigráficas da sessão especial de 24/06/2022 — https://legis.senado.leg.br/escriba-servicosweb/sessao/pdf/25017",
+     "url": ""
+    },
+    {
+     "date": "2026-08-23",
+     "name": "Senado Federal, Dados Abertos — official record of RQS 193/2022 (Código 152222): ementa 'Sessão especial destinada a comemorar os 75 anos do Dia Mundial da Ufologia', 16 March 2022, Sen. Eduardo Girão and seven co-signers",
+     "url": "https://legis.senado.leg.br/dadosabertos/materia/pesquisa/lista?sigla=RQS&numero=193&ano=2022"
+    },
+    {
+     "date": "1986-06-02",
+     "name": "Relatório de Ocorrências (Arquivo Nacional PDF)",
+     "url": "http://imagem.sian.an.gov.br/acervo/derivadas/BR_DFANBSB_ARX/0/0/0249/BR_DFANBSB_ARX_0_0_0249_d0001de0001.pdf"
+    },
+    {
+     "date": "2026-08-12",
+     "name": "Senado Federal - Dados Abertos, list of senators in exercise (official open-data service, 81 members)",
+     "url": "https://legis.senado.leg.br/dadosabertos/senador/lista/atual"
+    }
+   ],
+   "text": "RQS 193/2022 names the event: 'em 1986, quando ocorreu a hoje conhecida como \"Noite Oficial dos UFOs no Brasil\", quando 21 OVNIs esféricos de 100 metros de diâmetro cada foram perseguidos durante horas por nossos caças a jato.' The special session was held on 24 June 2022. [CORRECTED 14 Aug 2026: RQS 193/2022 is a request for a COMMEMORATIVE SPECIAL SESSION under Art. 199 RISF, approved 16 Mar 2022, held 24 Jun 2022 - not a records-seeking or compelling instrument. Its durable value is the content of its justificacao, which names Operacao Prato, the 1986 night, SIOANI and the archive reference BR DFANBSB ARX. These edges assert what the document NAMES, which is verifiable in its text and unaffected by its procedural nature, so the tier is unchanged. Any claim that the instrument COMPELLED disclosure would be false.]",
+   "tier": 1,
+   "type": "legislative"
+  },
+  "e-8268e44c49": {
+   "endpoints": [
+    {
+     "id": "otavio-moreira-lima",
+     "label": "Brigadeiro Octávio Júlio Moreira Lima"
+    },
+    {
+     "id": "doc-fab-1986-report",
+     "label": "Relatório de Ocorrências, Comando Aéreo de Defesa Aérea, 2 June 1986 (Arquivo Nacional BR_DFANBSB_ARX_0_0_0249)"
+    }
+   ],
+   "id": "e-8268e44c49",
+   "kind": "edge",
+   "label": "The classified report was produced inside the ministry ten days after his public 'no explanation'",
+   "sources": [
+    {
+     "date": null,
+     "name": "Correio Braziliense, 'A noite em que 21 óvnis invadiram o espaço aéreo brasileiro e foram perseguidos por caças da FAB' — https://www.correiobraziliense.com.br/mundo/2026/05/7421517-a-noite-em-que-21-ovnis-invadiram-o-espaco-aereo-brasileiro-e-foram-perseguidos-por-cacas-da-fab.html",
+     "url": ""
+    },
+    {
+     "date": null,
+     "name": "Arquivo Nacional, Fundo Objeto Voador Não Identificado – OVNI, reference BR DFANBSB ARX; the 1986 Air Defence Command report carries the item reference BR_DFANBSB_ARX_0_0_0249 (board node doc-fab-1986-report)",
+     "url": ""
+    },
+    {
+     "date": "1986-06-02",
+     "name": "Relatório de Ocorrências (Arquivo Nacional PDF)",
+     "url": "http://imagem.sian.an.gov.br/acervo/derivadas/BR_DFANBSB_ARX/0/0/0249/BR_DFANBSB_ARX_0_0_0249_d0001de0001.pdf"
+    },
+    {
+     "date": "2022-01-14",
+     "name": "BBC Brasil - 'A noite em que 21 óvnis invadiram o espaço aéreo brasileiro'",
+     "url": "https://www.bbc.com/portuguese/brasil-59953278"
+    }
+   ],
+   "text": "Moreira Lima told the press on 23 May 1986 that the armed forces had no technical explanation; the Air Defence Command's CONFIDENCIAL Relatório de Ocorrências, dated 10 days later on 2 June 1986, recorded internally that the phenomena were solid and reflected a form of intelligence, and was not released until 25 September 2009. Tier 2 because the two facts are separately sourced and the report is addressed to the Comandante-Geral do Ar rather than to the minister personally; no document obtained in this pass shows the report reaching his desk. What the pairing establishes is the gap between the public formulation and the contemporaneous classified one, inside the same ministry.",
+   "tier": 2,
+   "type": "institutional"
+  },
+  "e-82ce487530": {
+   "endpoints": [
+    {
+     "id": "fab",
+     "label": "Força Aérea Brasileira / Ministério da Aeronáutica"
+    },
+    {
+     "id": "aaro-fy2025-annual-report",
+     "label": "AARO FY2025 Consolidated Annual Report on UAP"
+    }
+   ],
+   "id": "e-82ce487530",
+   "kind": "edge",
+   "label": "COMPARISON: AARO's Foreign Partner Engagement section names no Latin American partner at all",
+   "sources": [
+    {
+     "date": null,
+     "name": "All-domain Anomaly Resolution Office, 'Fiscal Year 2025 Consolidated Annual Report on Unidentified Anomalous Phenomena', document 26-P-0880, section V.A 'Foreign Partner Engagement' — https://www.aaro.mil/Portals/136/PDFs/FY25%20UAP%20Annual%20Report/AARO_FY2025_Consolidated_Annual_Report_on_UAP.pdf",
+     "url": ""
+    },
+    {
+     "date": "1986-06-02",
+     "name": "Relatório de Ocorrências (Arquivo Nacional)",
+     "url": "http://imagem.sian.an.gov.br/acervo/derivadas/BR_DFANBSB_ARX/0/0/0249/BR_DFANBSB_ARX_0_0_0249_d0001de0001.pdf"
+    }
+   ],
+   "text": "COMPARISON EDGE, and a sourced negative. Section V.A of AARO's FY2025 Consolidated Annual Report is two sentences in full: 'During the reporting period, AARO continued to engage with international partners to exchange information and best practices for UAP reporting, analysis, and response. AARO's deputy director presented a mission briefing to the Defense Geospatial Intelligence conference in London, United Kingdom.' No foreign office, no foreign air force and no foreign archive is named anywhere in the document except that one London conference. Brazil, the FAB and the Arquivo Nacional — the largest declassified military UAP holding in the Americas — do not appear. The task asked what the section actually names: it names one conference in London and nothing else.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-8362517ec9": {
+   "endpoints": [
+    {
+     "id": "uyrange-hollanda",
+     "label": "Capitão Uyrangê Bolívar Soares Nogueira de Hollanda Lima"
+    },
+    {
+     "id": "jacques-vallee",
+     "label": "Jacques F. Vallee"
+    }
+   ],
+   "id": "e-8362517ec9",
+   "kind": "edge",
+   "label": "Hollanda showed the operation's photographs and trajectory analyses to Vallee",
+   "sources": [
+    {
+     "date": null,
+     "name": "Jacques Vallee, 'Forbidden Science Volume Three' (diary of the July 1988 Brazil trip), quoted in Basterfield, 'Investigative adventures in Brazil'",
+     "url": ""
+    },
+    {
+     "date": null,
+     "name": "Keith Basterfield, 'Investigative adventures in Brazil', Unidentified Anomalous Phenomena – scientific research, 22 July 2024, with update of 16 February 2025 — https://ufos-scientificresearch.blogspot.com/2024/07/investigative-adventures-in-brazil.html",
+     "url": ""
+    },
+    {
+     "date": "2026-01-01",
+     "name": "Operação Prato - Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Prato"
+    }
+   ],
+   "text": "The 1988 Belém meeting places Hollanda, nine years before his 1997 public account and his death, giving a serving officer's access to the Prato file to the researcher who would later design the CAPELLA data warehouse for a DIA-funded programme. Tier 2 on the same diary sourcing. Flag for the audit: this pass found no support for any claim that the 2009 BAASS teams met Hollanda, and his 1997 death makes it impossible — Basterfield's account names only Ademar Gevaerd and Helio Loyola as the BAASS teams' Brazilian contacts.",
+   "tier": 2,
+   "type": "witness-chain"
+  },
+  "e-87e660f2d4": {
+   "endpoints": [
+    {
+     "id": "l-brasilia",
+     "label": "Brasilia, Federal District, Brazil"
+    },
+    {
+     "id": "arquivo-nacional-ufo",
+     "label": "Arquivo Nacional (Brazil) - UFO/UAP collection"
+    }
+   ],
+   "id": "e-87e660f2d4",
+   "kind": "edge",
+   "label": "The UFO fund is held in Brasília and its reference code says so",
+   "sources": [
+    {
+     "date": null,
+     "name": "Arquivo Nacional (Brasil), 'Conheça o fundo sobre OVNIs do Arquivo Nacional' — https://www.gov.br/arquivonacional/pt-br/canais_atendimento/imprensa/noticias/conheca-o-fundo-sobre-ovnis-do-arquivo-nacional",
+     "url": ""
+    },
+    {
+     "date": null,
+     "name": "Senado Federal (Brasil), Requerimento nº 193, de 2022 (RQS 193/2022), autoria do Senador Eduardo Girão (PODEMOS/CE) com Eliziane Gama, Alessandro Vieira, Izalci Lucas, Jorge Kajuru, Marcos do Val, Paulo Rocha e Reguffe — sessão especial para os 75 anos do Dia Mundial da Ufologia — https://legis.senado.leg.br/sdleg-getter/documento?dm=9089831&ts=1647523438292&disposition=inline",
+     "url": ""
+    },
+    {
+     "date": "2026-08-23",
+     "name": "Senado Federal, Dados Abertos — official record of RQS 193/2022 (Código 152222): ementa 'Sessão especial destinada a comemorar os 75 anos do Dia Mundial da Ufologia', 16 March 2022, Sen. Eduardo Girão and seven co-signers",
+     "url": "https://legis.senado.leg.br/dadosabertos/materia/pesquisa/lista?sigla=RQS&numero=193&ano=2022"
+    },
+    {
+     "date": "1986-06-02",
+     "name": "Relatório de Ocorrências (Arquivo Nacional PDF)",
+     "url": "http://imagem.sian.an.gov.br/acervo/derivadas/BR_DFANBSB_ARX/0/0/0249/BR_DFANBSB_ARX_0_0_0249_d0001de0001.pdf"
+    },
+    {
+     "date": "2026-08-12",
+     "name": "Wikipedia - Brasilia",
+     "url": "https://en.wikipedia.org/wiki/Bras%C3%ADlia"
+    }
+   ],
+   "text": "The Arquivo Nacional's own notice identifies the holding as 'o Fundo Objeto Voador Não Identificado – OVNI (BR DFANBSB ARX)', produced by the Comando da Aeronáutica and held by the Arquivo Nacional, comprising 743 registros. DFANBSB is the archival code for the Arquivo Nacional's Brasília unit. RQS 193/2022 states the transfer route directly: 'A partir de 2007, a Aeronáutica, mas não o Exército e nem a Marinha, passou a enviar seus papeis resultantes de suas pesquisas para o Arquivo Nacional, em Brasília.' [CORRECTED 14 Aug 2026: RQS 193/2022 is a request for a COMMEMORATIVE SPECIAL SESSION under Art. 199 RISF, approved 16 Mar 2022, held 24 Jun 2022 - not a records-seeking or compelling instrument. Its durable value is the content of its justificacao, which names Operacao Prato, the 1986 night, SIOANI and the archive reference BR DFANBSB ARX. These edges assert what the document NAMES, which is verifiable in its text and unaffected by its procedural nature, so the tier is unchanged. Any claim that the instrument COMPELLED disclosure would be false.]",
+   "tier": 1,
+   "type": "custody"
+  },
+  "e-8e3b848bf7": {
+   "endpoints": [
+    {
+     "id": "pessoa-cavalcanti",
+     "label": "Brigadeiro do Ar José Pessoa Cavalcanti de Albuquerque"
+    },
+    {
+     "id": "doc-fab-1986-report",
+     "label": "Relatório de Ocorrências, Comando Aéreo de Defesa Aérea, 2 June 1986 (Arquivo Nacional BR_DFANBSB_ARX_0_0_0249)"
+    }
+   ],
+   "id": "e-8e3b848bf7",
+   "kind": "edge",
+   "label": "signed the CONFIDENCIAL Air Defence Command report",
+   "sources": [
+    {
+     "date": "1986-06-02",
+     "name": "Arquivo Nacional PDF",
+     "url": "http://imagem.sian.an.gov.br/acervo/derivadas/BR_DFANBSB_ARX/0/0/0249/BR_DFANBSB_ARX_0_0_0249_d0001de0001.pdf"
+    }
+   ],
+   "text": "Signed at Brasília on 2 June 1986 as acting commander COMDA/NuCOMDABRA; the document is served by the Arquivo Nacional as BR_DFANBSB_ARX_0_0_0249.",
+   "tier": 1,
+   "type": "custody"
+  },
+  "e-97b79b87ed": {
+   "endpoints": [
+    {
+     "id": "fab",
+     "label": "Força Aérea Brasileira / Ministério da Aeronáutica"
+    },
+    {
+     "id": "ev-noite-ovnis-1986",
+     "label": "Noite Oficial dos OVNIs - the Brazilian 'Night of the UFOs', 19 May 1986"
+    }
+   ],
+   "id": "e-97b79b87ed",
+   "kind": "edge",
+   "label": "The Air Force scrambled the interceptors on the Night of the UFOs",
+   "sources": [
+    {
+     "date": null,
+     "name": "Senado Federal (Brasil), Requerimento nº 193, de 2022 (RQS 193/2022), autoria do Senador Eduardo Girão (PODEMOS/CE) com Eliziane Gama, Alessandro Vieira, Izalci Lucas, Jorge Kajuru, Marcos do Val, Paulo Rocha e Reguffe — sessão especial para os 75 anos do Dia Mundial da Ufologia — https://legis.senado.leg.br/sdleg-getter/documento?dm=9089831&ts=1647523438292&disposition=inline",
+     "url": ""
+    },
+    {
+     "date": null,
+     "name": "Correio Braziliense, 'A noite em que 21 óvnis invadiram o espaço aéreo brasileiro e foram perseguidos por caças da FAB' — https://www.correiobraziliense.com.br/mundo/2026/05/7421517-a-noite-em-que-21-ovnis-invadiram-o-espaco-aereo-brasileiro-e-foram-perseguidos-por-cacas-da-fab.html",
+     "url": ""
+    },
+    {
+     "date": "2026-08-23",
+     "name": "Senado Federal, Dados Abertos — official record of RQS 193/2022 (Código 152222): ementa 'Sessão especial destinada a comemorar os 75 anos do Dia Mundial da Ufologia', 16 March 2022, Sen. Eduardo Girão and seven co-signers",
+     "url": "https://legis.senado.leg.br/dadosabertos/materia/pesquisa/lista?sigla=RQS&numero=193&ano=2022"
+    },
+    {
+     "date": "1986-06-02",
+     "name": "Relatório de Ocorrências (Arquivo Nacional PDF)",
+     "url": "http://imagem.sian.an.gov.br/acervo/derivadas/BR_DFANBSB_ARX/0/0/0249/BR_DFANBSB_ARX_0_0_0249_d0001de0001.pdf"
+    }
+   ],
+   "text": "The 19 May 1986 engagement was executed by the FAB: fighters launched from Santa Cruz and Anápolis against radar plots held by the CINDACTA network. RQS 193/2022 describes it in the Senate's own words as the night 'quando 21 OVNIs esféricos de 100 metros de diâmetro cada foram perseguidos durante horas por nossos caças a jato'. The event node previously connected only to the minister and to the report, not to the service that flew the sorties. [CORRECTED 14 Aug 2026: RQS 193/2022 is a request for a COMMEMORATIVE SPECIAL SESSION under Art. 199 RISF, approved 16 Mar 2022, held 24 Jun 2022 - not a records-seeking or compelling instrument. Its durable value is the content of its justificacao, which names Operacao Prato, the 1986 night, SIOANI and the archive reference BR DFANBSB ARX. These edges assert what the document NAMES, which is verifiable in its text and unaffected by its procedural nature, so the tier is unchanged. Any claim that the instrument COMPELLED disclosure would be false.]",
+   "tier": 1,
+   "type": "programmatic"
+  },
+  "e-a61a3386ee": {
+   "endpoints": [
+    {
+     "id": "l-brazil",
+     "label": "Brazil"
+    },
+    {
+     "id": "fab",
+     "label": "Força Aérea Brasileira / Ministério da Aeronáutica"
+    }
+   ],
+   "id": "e-a61a3386ee",
+   "kind": "edge",
+   "label": "The Força Aérea Brasileira is the air arm of the Brazilian state",
+   "sources": [
+    {
+     "date": null,
+     "name": "Senado Federal (Brasil), Requerimento nº 193, de 2022 (RQS 193/2022), autoria do Senador Eduardo Girão (PODEMOS/CE) com Eliziane Gama, Alessandro Vieira, Izalci Lucas, Jorge Kajuru, Marcos do Val, Paulo Rocha e Reguffe — sessão especial para os 75 anos do Dia Mundial da Ufologia — https://legis.senado.leg.br/sdleg-getter/documento?dm=9089831&ts=1647523438292&disposition=inline",
+     "url": ""
+    },
+    {
+     "date": "2026-08-23",
+     "name": "Senado Federal, Dados Abertos — official record of RQS 193/2022 (Código 152222): ementa 'Sessão especial destinada a comemorar os 75 anos do Dia Mundial da Ufologia', 16 March 2022, Sen. Eduardo Girão and seven co-signers",
+     "url": "https://legis.senado.leg.br/dadosabertos/materia/pesquisa/lista?sigla=RQS&numero=193&ano=2022"
+    },
+    {
+     "date": "1986-06-02",
+     "name": "Relatório de Ocorrências (Arquivo Nacional PDF)",
+     "url": "http://imagem.sian.an.gov.br/acervo/derivadas/BR_DFANBSB_ARX/0/0/0249/BR_DFANBSB_ARX_0_0_0249_d0001de0001.pdf"
+    }
+   ],
+   "text": "Basic containment edge; the FAB is the institution that makes Brazil the board's counter-example. [CORRECTED 14 Aug 2026: RQS 193/2022 is a request for a COMMEMORATIVE SPECIAL SESSION under Art. 199 RISF, approved 16 Mar 2022, held 24 Jun 2022 - not a records-seeking or compelling instrument. Its durable value is the content of its justificacao, which names Operacao Prato, the 1986 night, SIOANI and the archive reference BR DFANBSB ARX. These edges assert what the document NAMES, which is verifiable in its text and unaffected by its procedural nature, so the tier is unchanged. Any claim that the instrument COMPELLED disclosure would be false.]",
+   "tier": 1,
+   "type": "geographic"
+  },
+  "e-b9d6006587": {
+   "endpoints": [
+    {
+     "id": "doc-fab-1986-report",
+     "label": "Relatório de Ocorrências, Comando Aéreo de Defesa Aérea, 2 June 1986 (Arquivo Nacional BR_DFANBSB_ARX_0_0_0249)"
+    },
+    {
+     "id": "ev-noite-ovnis-1986",
+     "label": "Noite Oficial dos OVNIs - the Brazilian 'Night of the UFOs', 19 May 1986"
+    }
+   ],
+   "id": "e-b9d6006587",
+   "kind": "edge",
+   "label": "the official record of the night",
+   "sources": [
+    {
+     "date": "1986-06-02",
+     "name": "Arquivo Nacional PDF",
+     "url": "http://imagem.sian.an.gov.br/acervo/derivadas/BR_DFANBSB_ARX/0/0/0249/BR_DFANBSB_ARX_0_0_0249_d0001de0001.pdf"
+    }
+   ],
+   "text": "Its Considerações Finais record solid radar-and-visual objects that outran supersonic interceptors and 'reflect in a certain manner intelligence'.",
+   "tier": 1,
+   "type": "programmatic"
+  },
+  "e-bc4bf662a9": {
+   "endpoints": [
+    {
+     "id": "operacao-prato",
+     "label": "Operação Prato (Operation Saucer)"
+    },
+    {
+     "id": "aawsap",
+     "label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)"
+    }
+   ],
+   "id": "e-bc4bf662a9",
+   "kind": "edge",
+   "label": "A DIA-funded US programme built a database of the Brazilian Air Force's own case wave",
+   "sources": [
+    {
+     "date": null,
+     "name": "James T. Lacatski, Colm A. Kelleher and George Knapp, 'Inside the U.S. Government Covert UFO Program: Initial Revelations' (RTMA LLC, Henderson, Nevada, 2023), chapter fifteen",
+     "url": ""
+    },
+    {
+     "date": null,
+     "name": "James T. Lacatski, Colm A. Kelleher and George Knapp, 'Skinwalkers at the Pentagon' (RTMA LLC, Henderson, Nevada, 2021), list of AAWSAP products",
+     "url": ""
+    },
+    {
+     "date": null,
+     "name": "Keith Basterfield, 'Investigative adventures in Brazil', Unidentified Anomalous Phenomena – scientific research, 22 July 2024, with update of 16 February 2025 — https://ufos-scientificresearch.blogspot.com/2024/07/investigative-adventures-in-brazil.html",
+     "url": ""
+    },
+    {
+     "date": "2026-01-01",
+     "name": "Operação Prato - Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Prato"
+    }
+   ],
+   "text": "Chapter fifteen of Lacatski, Kelleher and Knapp's 'Inside the U.S. Government Covert UFO Program: Initial Revelations' describes the Project Colares database as a 'Data base containing all UAP sighting events related to the 1977-1978, Colares, Brazil, UAP flap. Total records 346. Event timeline 1977-1978.' The CAPELLA data warehouse, conceived by Jacques Vallee, held eleven data sets of which one was titled 'Brazil'. Tier 2: book-sourced, quoted by a named researcher; no contract document or DIA record obtained in this pass. This is the strongest outward link the Brazilian cluster has — the American programme did not ignore the Brazilian record, it ingested it.",
+   "tier": 2,
+   "type": "research"
+  },
+  "e-e71299ed35": {
+   "endpoints": [
+    {
+     "id": "ev-varginha-1996",
+     "label": "Varginha incident, Minas Gerais, January 1996"
+    },
+    {
+     "id": "ev-varginha-capitol-2026",
+     "label": "Varginha witnesses on Capitol Hill and at the National Press Club, 15 and 20 January 2026"
+    }
+   ],
+   "id": "e-e71299ed35",
+   "kind": "edge",
+   "label": "1996 witnesses testify to US legislators thirty years later",
+   "sources": [
+    {
+     "date": "2026-01-30",
+     "name": "The Debrief",
+     "url": "https://thedebrief.org/landmark-brazilian-ufo-case-reaches-capitol-hill-as-varginha-incident-turns-30/"
+    }
+   ],
+   "text": "Venturelli, Fortunato and de Sousa were brought to Washington by James Fox and briefed Burchett, Luna and Burlison on 15 January 2026.",
+   "tier": 2,
+   "type": "witness-chain"
+  },
+  "e-f281dd672f": {
+   "endpoints": [
+    {
+     "id": "uyrange-hollanda",
+     "label": "Capitão Uyrangê Bolívar Soares Nogueira de Hollanda Lima"
+    },
+    {
+     "id": "the-black-vault",
+     "label": "The Black Vault"
+    }
+   ],
+   "id": "e-f281dd672f",
+   "kind": "edge",
+   "label": "Hollanda's account to an American reporter is preserved in the Pratt file",
+   "sources": [
+    {
+     "date": null,
+     "name": "Keith Basterfield, 'Investigative adventures in Brazil', Unidentified Anomalous Phenomena – scientific research, 22 July 2024, with update of 16 February 2025 — https://ufos-scientificresearch.blogspot.com/2024/07/investigative-adventures-in-brazil.html",
+     "url": ""
+    },
+    {
+     "date": null,
+     "name": "Bob Pratt, 'Operação Prato', MUFON/Pratt document set hosted by The Black Vault — https://documents.theblackvault.com/documents/MUFON/Pratt/prato.pdf",
+     "url": ""
+    },
+    {
+     "date": "2026-01-01",
+     "name": "Operação Prato - Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Prato"
+    }
+   ],
+   "text": "Basterfield records that Pratt 'visited Colares for the first time in February 1979, then twice after that. He interviewed Captain Uyrange Hollanda, who had led the official investigation in the Colares region. Pratt was later able to secure brief summaries of 281 incidents in Colares and surrounding areas, plus maps, and twenty photographs.' Hollanda told him his team 'took about three hundred photos and we photographed eight different types of UFOs.' Tier 2: the interview and the 281 summaries are reported by a named researcher quoting Pratt's 1996 book, and the Pratt file at The Black Vault is the surviving public artefact of that chain.",
+   "tier": 2,
+   "type": "witness-chain"
+  },
+  "e-f709769690": {
+   "endpoints": [
+    {
+     "id": "operacao-prato",
+     "label": "Operação Prato (Operation Saucer)"
+    },
+    {
+     "id": "baass",
+     "label": "Bigelow Aerospace Advanced Space Studies (BAASS), LLC"
+    }
+   ],
+   "id": "e-f709769690",
+   "kind": "edge",
+   "label": "BAASS sent teams to Brazil in 2009 and reported on Colares to its DIA sponsor",
+   "sources": [
+    {
+     "date": null,
+     "name": "James T. Lacatski, Colm A. Kelleher and George Knapp, 'Skinwalkers at the Pentagon' (RTMA LLC, Henderson, Nevada, 2021), list of AAWSAP products",
+     "url": ""
+    },
+    {
+     "date": null,
+     "name": "Keith Basterfield and Marc Cecotti, 'BAASS team visited Brazil', 7 April 2020 — https://ufos-scientificresearch.blogspot.com/2020/04/baass-team-visited-brazil.html",
+     "url": ""
+    },
+    {
+     "date": null,
+     "name": "Keith Basterfield and Marc Cecotti, 'Further insights into BAASS in Brazil', 17 April 2020 — https://ufos-scientificresearch.blogspot.com/2020/04/further-insights-into-baass-in-brazil.html",
+     "url": ""
+    },
+    {
+     "date": null,
+     "name": "Keith Basterfield, 'Investigative adventures in Brazil', Unidentified Anomalous Phenomena – scientific research, 22 July 2024, with update of 16 February 2025 — https://ufos-scientificresearch.blogspot.com/2024/07/investigative-adventures-in-brazil.html",
+     "url": ""
+    },
+    {
+     "date": "2026-01-01",
+     "name": "Operação Prato - Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Prato"
+    }
+   ],
+   "text": "Basterfield and Cecotti's reporting has BAASS sending team members to Brazil in May 2009 and again in October 2009. The AAWSAP product list in 'Skinwalkers at the Pentagon' includes the BAASS March 2009 monthly report 'The UFO Assault on Brazil with its Epicenter at Colares (1977-2003) by John Schuessler', the August 2009 monthly report 'Relations with South American organizations', and a July 2009 report 'Project Colares/Brazil, Outreach to South America'. Brazilian researcher A.J. Gevaerd, who met the team in Curitiba, said 'They wanted artifacts from UFOs, such as metamaterials'; Fortaleza researcher Helio Loyola said 'Here in Brazil they didn't do any research. They took and photographed what the ufologists saw and documented.' Tier 2: book and named-researcher sourcing, no BAASS document obtained. Note the collection direction — the US contractor collected from Brazilian civilians, not from the FAB or the Arquivo Nacional.",
+   "tier": 2,
+   "type": "research"
+  },
+  "e-fab97a3485": {
+   "endpoints": [
+    {
+     "id": "hospital-regional-varginha",
+     "label": "Hospital Regional de Varginha"
+    },
+    {
+     "id": "ev-varginha-1996",
+     "label": "Varginha incident, Minas Gerais, January 1996"
+    }
+   ],
+   "id": "e-fab97a3485",
+   "kind": "edge",
+   "label": "The hospital is a named custody point in the Varginha sequence",
+   "sources": [
+    {
+     "date": null,
+     "name": "Keith Basterfield, 'Investigative adventures in Brazil', Unidentified Anomalous Phenomena – scientific research, 22 July 2024, with update of 16 February 2025 — https://ufos-scientificresearch.blogspot.com/2024/07/investigative-adventures-in-brazil.html",
+     "url": ""
+    },
+    {
+     "date": "2026-08-12",
+     "name": "CNES - Cadastro Nacional de Estabelecimentos de Saúde, establishment record 2761041 (Ministério da Saúde open data API)",
+     "url": "https://apidadosabertos.saude.gov.br/cnes/estabelecimentos/2761041"
+    },
+    {
+     "date": "2026-01-30",
+     "name": "The Debrief - Landmark Brazilian UFO Case Reaches Capitol Hill",
+     "url": "https://thedebrief.org/landmark-brazilian-ufo-case-reaches-capitol-hill-as-varginha-incident-turns-30/"
+    }
+   ],
+   "text": "The facility registered in CNES as the Hospital Regional do Sul de Minas is the hospital named in the Varginha literature as a place to which an injured being was reportedly taken. Tier 2: the facility and its registry entry are verified fact, the custody sequence rests on witness testimony and journalism and on no hospital record obtained in this pass. The hospital node carried edges to the US congressional side of the story but, oddly, not to the 1996 event itself.",
+   "tier": 2,
+   "type": "witness-chain"
+  },
+  "e-fd5d180b3a": {
+   "endpoints": [
+    {
+     "id": "senado-brasil",
+     "label": "Senado Federal do Brasil"
+    },
+    {
+     "id": "odni",
+     "label": "Office of the Director of National Intelligence"
+    }
+   ],
+   "id": "e-fd5d180b3a",
+   "kind": "edge",
+   "label": "2022 Senate special session justified by the 2021 US UAP report",
+   "sources": [
+    {
+     "date": "2026-08-23",
+     "name": "Senado Federal, Dados Abertos — official record of RQS 193/2022 (Código 152222): ementa 'Sessão especial destinada a comemorar os 75 anos do Dia Mundial da Ufologia', 16 March 2022, Sen. Eduardo Girão and seven co-signers",
+     "url": "https://legis.senado.leg.br/dadosabertos/materia/pesquisa/lista?sigla=RQS&numero=193&ano=2022"
+    },
+    {
+     "date": "2026-08-12",
+     "name": "Senado Federal - Dados Abertos, list of senators in exercise (official open-data service, 81 members)",
+     "url": "https://legis.senado.leg.br/dadosabertos/senador/lista/atual"
+    },
+    {
+     "date": null,
+     "name": "https://legis.senado.leg.br/sdleg-getter/documento?dm=9089831&ts=1647523438292&disposition=inline",
+     "url": "https://legis.senado.leg.br/sdleg-getter/documento?dm=9089831&ts=1647523438292&disposition=inline"
+    },
+    {
+     "date": null,
+     "name": "https://www12.senado.leg.br/noticias/materias/2022/06/24/em-homenagem-no-plenario-ufologos-cobram-liberacao-de-documentos-sobre-ovnis",
+     "url": "https://www12.senado.leg.br/noticias/materias/2022/06/24/em-homenagem-no-plenario-ufologos-cobram-liberacao-de-documentos-sobre-ovnis"
+    }
+   ],
+   "text": "Requerimento RQS 193/2022 (Sen. Eduardo Girao and seven co-signers) requested the Brazilian Senate special session on ufology, and its justification expressly cites the 2021 'Pentagon' UAP report covering 144 sightings of which only one was explained, plus FY2022 NDAA UAP research funding. The report described is the June 2021 Preliminary Assessment authored by the UAP Task Force and released by ODNI. The session was held in the Senate plenary on 24 June 2022 and ended with ufologists handing Girao the 'Carta de Brasilia' urging a permanent joint civil-military commission.",
+   "tier": 1,
+   "type": "legislative"
+  }
+ },
+ "claimed": [
+  {
+   "cite": [
+    "c-953874b965",
+    "c-39782d203e",
+    "c-981bd03a48"
+   ],
+   "text": "BBC Brasil reports that at a press conference on 23 May 1986 the Minister of Aeronautics, Octavio Moreira Lima, with the five pilots and the controllers present, said five fighters had pursued 21 UFOs, that technically there was no explanation, and that a full dossier would follow within 30 days. The report was released only on 25 September 2009."
+  },
+  {
+   "cite": [
+    "c-0f32dc3ebd",
+    "c-57e064955f"
+   ],
+   "text": "Pilot Armindo Viriato de Freitas said in a 1993 TV Globo interview that he knew of no aircraft able to match the speed of the object that pulled away from his Mirage. Civil crews also reported the lights that night, including the Xingu carrying Colonel Ozires Silva."
+  },
+  {
+   "cite": [
+    "c-f1d6c49d69"
+   ],
+   "text": "According to the same press account, a month after the night two officers of the Aerospace Technical Centre, with the American researcher James J. Hurtak, collected a press photographer's negatives for analysis by NASA, and they were never returned."
+  },
+  {
+   "cite": [
+    "e-56585e150b",
+    "e-8362517ec9",
+    "c-7a54f09597"
+   ],
+   "text": "Jacques Vallee's diary, as quoted by another researcher, says that in 1988 Hollanda showed him the Prato military file, with photographs, aerial maps and trajectory analyses, at the regional air command in Belem, nine years before Hollanda's own public account in 1997. Vallee also reported claims that people were killed by the lights and injured in ways consistent with microwave radiation."
+  },
+  {
+   "cite": [
+    "e-f281dd672f",
+    "e-67615cc44e"
+   ],
+   "text": "The American journalist Bob Pratt visited Colares from February 1979 and interviewed Hollanda, who told him his team took about three hundred photographs of eight different types of UFO; Pratt's file on the operation, which names Hollanda, his sergeants and the base commander who shut it down after four months, is served publicly by The Black Vault."
+  },
+  {
+   "cite": [
+    "e-bc4bf662a9",
+    "e-f709769690"
+   ],
+   "text": "Book sources say the US AAWSAP programme built a Project Colares database of 346 records and that its contractor BAASS sent teams to Brazil in 2009; the Brazilian researchers they met say the teams collected from civilian ufologists and wanted artifacts. None of this rests on a DIA or BAASS document the board has obtained."
+  },
+  {
+   "cite": [
+    "c-1dd86110a8",
+    "e-e71299ed35",
+    "c-d54af89f5d",
+    "c-14664ff8a5"
+   ],
+   "text": "Neurosurgeon Italo Venturelli told members of Congress on 15 January 2026 that he examined a patient at the Varginha hospital and that it was obviously not a human being. Venturelli, Fortunato and de Sousa were brought to Washington by James Fox; de Sousa said a soldier threatened him, and an anonymous former soldier says he helped move the being to Campinas and heard that the Americans had it."
+  },
+  {
+   "cite": [
+    "c-6315f9358f",
+    "c-4e0ed2ecda",
+    "c-3bd5a85d03",
+    "e-35edaff45d"
+   ],
+   "text": "A Brazilian air traffic controller reported that a USAF cargo aircraft landed at Viracopos on or about 20 January 1996, and Claussen argued that such a flight would require US Air Mobility Command paperwork. Senator Girao attended the Washington events as a private citizen, not for the Senate, and promised Burlison to try to get evidence."
+  },
+  {
+   "cite": [
+    "c-6854ebcd40",
+    "c-0edd47ab22"
+   ],
+   "text": "Press coverage in July 2026 reported that a US lawmaker, named as Burlison, had asked the FBI and CIA for records on the Varginha case."
+  }
+ ],
+ "contested": [
+  {
+   "cite": [
+    "c-249b1f4c7e",
+    "c-09b625e643",
+    "c-7a54f09597"
+   ],
+   "text": "One account of Operacao Prato says it was closed after about four months having found no unusual phenomena, which sits against the injuries and deaths Vallee reported."
+  },
+  {
+   "cite": [
+    "c-133844d241",
+    "c-d3ca72a153",
+    "c-05a0b842b7"
+   ],
+   "text": "A 2010 Brazilian military inquiry concluded that the three women saw a local man known as Mudinho, crouched and dirty after heavy rain, and that the fire brigade, Army and sergeants' school vehicle movements were real events wrongly read as a capture and transport."
+  },
+  {
+   "cite": [
+    "c-2bf23a0357",
+    "c-51c573b13c",
+    "c-1f56a21dae"
+   ],
+   "text": "The records disagree about the Prato film. The 2011 parliamentary requirement says hundreds of photographs and hours of film were never transferred, but a federal court in 2023 upheld the dismissal of a suit to release them, holding that the claim rested mainly on press reports and witness accounts, and the archive told the litigant that a search on the operation's name returns six documents, none audiovisual."
+  },
+  {
+   "cite": [
+    "e-8268e44c49"
+   ],
+   "text": "The minister's public no-explanation stood ten days before a classified report inside his ministry called the objects solid and intelligent; but the report is addressed to the air command, and no document the board has obtained shows it reaching the minister himself."
+  },
+  {
+   "cite": [
+    "c-1807acfd58",
+    "c-baee476d5a",
+    "c-208c1966cc"
+   ],
+   "text": "The Air Force now says all its UFO material from 1952 to 2025 is in the Arquivo Nacional and that it has no specialists to investigate or give an opinion on the phenomena; the archive's own 2018 description ends in 2016, which the board treats as a stale description rather than a closing date."
+  },
+  {
+   "cite": [
+    "c-8ed11f562f",
+    "e-40009534c9"
+   ],
+   "text": "AARO's 2024 report states that no investigation, including foreign efforts, concluded that any UAP report indicated an extraterrestrial origin, and the Varginha witnesses were briefing Congress against that finding."
+  },
+  {
+   "cite": [
+    "c-441832e00a",
+    "c-bb782130f6",
+    "e-fab97a3485"
+   ],
+   "text": "On the board's reading, the hospital of the Varginha narrative is the registered Hospital Regional do Sul de Minas only by a reasoned match on name and city; no hospital record from January 1996 has been located, so the custody sequence there rests on testimony."
+  },
+  {
+   "cite": [
+    "e-8362517ec9",
+    "e-6f55dbfaed"
+   ],
+   "text": "The board found no support for any claim that the 2009 BAASS teams met Hollanda, whose 1997 death rules it out. The Senate instrument that named the 1986 night was a request for a commemorative session, and the board records that any claim it compelled disclosure would be false."
+  }
+ ],
+ "essays": [],
+ "focusEra": "1",
+ "id": "brazil",
+ "kind": "nation",
+ "lead": {
+  "cite": [
+   "e-a61a3386ee",
+   "e-3a69cf08ed",
+   "c-8c2d7a17ec",
+   "c-15f48498e8"
+  ],
+  "text": "Brazil is the board's counter-example: its Air Force chased unidentified radar plots across four states on the night of 19 May 1986, its own Air Defence Command reported the phenomena as solid and showing a form of intelligence, and its UFO records now sit in the national archive."
+ },
+ "members": [
+  {
+   "cls": "program",
+   "id": "operacao-prato",
+   "label": "Operação Prato (Operation Saucer)",
+   "role": "programme"
+  },
+  {
+   "cls": "event",
+   "id": "ev-noite-ovnis-1986",
+   "label": "Noite Oficial dos OVNIs - the Brazilian 'Night of the UFOs', 19 May 1986",
+   "role": "event"
+  },
+  {
+   "cls": "document",
+   "id": "doc-fab-1986-report",
+   "label": "Relatório de Ocorrências, Comando Aéreo de Defesa Aérea, 2 June 1986 (Arquivo Nacional BR_DFANBSB_ARX_0_0_0249)",
+   "role": "document"
+  },
+  {
+   "cls": "event",
+   "id": "ev-varginha-1996",
+   "label": "Varginha incident, Minas Gerais, January 1996",
+   "role": "event"
+  },
+  {
+   "cls": "institution",
+   "id": "hospital-regional-varginha",
+   "label": "Hospital Regional de Varginha",
+   "role": "place"
+  },
+  {
+   "cls": "institution",
+   "id": "fab",
+   "label": "Força Aérea Brasileira / Ministério da Aeronáutica",
+   "role": "institution"
+  },
+  {
+   "cls": "institution",
+   "id": "arquivo-nacional-ufo",
+   "label": "Arquivo Nacional (Brazil) - UFO/UAP collection",
+   "role": "institution"
+  },
+  {
+   "cls": "institution",
+   "id": "senado-brasil",
+   "label": "Senado Federal do Brasil",
+   "role": "institution"
+  },
+  {
+   "cls": "person",
+   "id": "uyrange-hollanda",
+   "label": "Capitão Uyrangê Bolívar Soares Nogueira de Hollanda Lima",
+   "role": "investigator"
+  },
+  {
+   "cls": "person",
+   "id": "otavio-moreira-lima",
+   "label": "Brigadeiro Octávio Júlio Moreira Lima",
+   "role": "official"
+  },
+  {
+   "cls": "person",
+   "id": "pessoa-cavalcanti",
+   "label": "Brigadeiro do Ar José Pessoa Cavalcanti de Albuquerque",
+   "role": "official"
+  },
+  {
+   "cls": "location",
+   "id": "l-brasilia",
+   "label": "Brasilia, Federal District, Brazil",
+   "role": "place"
+  },
+  {
+   "cls": "location",
+   "id": "l-brazil",
+   "label": "Brazil",
+   "role": "place"
+  },
+  {
+   "cls": "event",
+   "id": "ev-varginha-capitol-2026",
+   "label": "Varginha witnesses on Capitol Hill and at the National Press Club, 15 and 20 January 2026",
+   "role": "event"
+  },
+  {
+   "cls": "document",
+   "id": "burlison-varginha-letters-2026",
+   "label": "Burlison letters to CIA and FBI on the 1996 Varginha/Campinas incident (8 July 2026)",
+   "role": "document"
+  },
+  {
+   "cls": "location",
+   "id": "l-varginha",
+   "label": "Varginha, Minas Gerais, Brazil",
+   "role": "place"
+  },
+  {
+   "cls": "institution",
+   "id": "the-black-vault",
+   "label": "The Black Vault",
+   "role": "institution"
+  },
+  {
+   "cls": "person",
+   "id": "jacques-vallee",
+   "label": "Jacques F. Vallee",
+   "role": "investigator"
+  },
+  {
+   "cls": "program",
+   "id": "aawsap",
+   "label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)",
+   "role": "programme"
+  },
+  {
+   "cls": "institution",
+   "id": "baass",
+   "label": "Bigelow Aerospace Advanced Space Studies (BAASS), LLC",
+   "role": "contractor"
+  },
+  {
+   "cls": "institution",
+   "id": "aaro",
+   "label": "All-domain Anomaly Resolution Office (AARO)",
+   "role": "critic"
+  },
+  {
+   "cls": "document",
+   "id": "aaro-fy2025-annual-report",
+   "label": "AARO FY2025 Consolidated Annual Report on UAP",
+   "role": "document"
+  },
+  {
+   "cls": "program",
+   "id": "sky-canada-project",
+   "label": "Sky Canada Project - Office of the Chief Science Advisor of Canada",
+   "role": "programme"
+  },
+  {
+   "cls": "institution",
+   "id": "peru-uap-office",
+   "label": "Peruvian Air Force anomalous aerial phenomena office (OIFAA / DIFAA)",
+   "role": "institution"
+  },
+  {
+   "cls": "institution",
+   "id": "odni",
+   "label": "Office of the Director of National Intelligence",
+   "role": "institution"
+  },
+  {
+   "cls": "person",
+   "id": "eduardo-girao",
+   "label": "Senador Eduardo Girão",
+   "role": "legislator"
+  },
+  {
+   "cls": "person",
+   "id": "eric-burlison",
+   "label": "Eric Burlison",
+   "role": "legislator"
+  }
+ ],
+ "notes": "Start-here flag 14.",
+ "questions": [
+  "Was the 30-day dossier the minister promised ever written and withheld, or never written at all?",
+  "What do the six Operacao Prato items in the archive actually contain, and where are the photographs and films the 2011 parliamentary requirement says were never transferred?",
+  "The Air Force's finding for Prato was that nothing unusual was found, while Hollanda's 1997 interview and the Colares residents describe injuries and burns: what does the released file itself say?",
+  "When exactly did Hollanda die, and was any official inquest held?",
+  "Did the report of 2 June 1986 reach the minister, and did the Army and Navy ever hold UFO records of their own?",
+  "Is there any January 1996 hospital, transfer or flight record that bears on the Varginha custody sequence, and will the CIA or FBI answer Burlison's letters?",
+  "What did the 2022 Senate special session actually record and find?"
+ ],
+ "record": [
+  {
+   "cite": [
+    "c-7e737aa34e",
+    "e-8e3b848bf7",
+    "e-63d5904132"
+   ],
+   "text": "The Air Defence Command's Relatorio de Ocorrencias is dated at Brasilia on 2 June 1986, addressed from the commander to the Comando Geral do Ar, and marked CONFIDENCIAL on every page; it was signed by Jose Pessoa Cavalcanti de Albuquerque as acting commander and is served by the Arquivo Nacional as BR_DFANBSB_ARX_0_0_0249."
+  },
+  {
+   "cite": [
+    "c-8c2d7a17ec",
+    "c-03d4ea90a8",
+    "e-b9d6006587"
+   ],
+   "text": "The report's conclusion is that the phenomena were solid and reflected a form of intelligence, able to follow and keep their distance from observers and to fly in formation, and not necessarily crewed. It lists radar echoes on both the air defence system and the interceptors' own radars with visual comparison by the pilots, speeds from subsonic to supersonic as well as hovering, and altitudes from below FL-050 to above FL-400."
+  },
+  {
+   "cite": [
+    "c-0ed33c1e0d",
+    "c-0061fda96a"
+   ],
+   "text": "The report records the interceptor sequence with Zulu timings, 13 plots astern of the second Santa Cruz F-5, and pursuits abandoned at bingo fuel or on loss of contact; in the Anapolis area a pilot closed to two miles of a contact that zig-zagged, turned sharply and pulled away even while he was supersonic."
+  },
+  {
+   "cite": [
+    "c-00759b4e0b",
+    "c-546e5e5286"
+   ],
+   "text": "The report states its own limits: Brazilian coverage rested on radars built primarily for air traffic control rather than air defence, and the Command chose to confine itself to a simple narration of the facts so as not to give scope for speculation involving the Ministry."
+  },
+  {
+   "cite": [
+    "c-7e8b0cfd57",
+    "c-2e2f1a9deb",
+    "c-ef693c80e3",
+    "c-ae62b8be1a",
+    "e-fd5d180b3a"
+   ],
+   "text": "The Senate's own open-data record gives RQS 193/2022, dated 16 March 2022 and signed by Senator Eduardo Girao and seven others, as a request for a commemorative special session. Its justification names the 1986 night, lists Operacao Prato among the Aeronautica's official UFO research programmes, and cites the 2021 US report released by ODNI."
+  },
+  {
+   "cite": [
+    "c-15f48498e8",
+    "c-62714d0eae",
+    "e-87e660f2d4"
+   ],
+   "text": "The Arquivo Nacional describes the Fundo Objeto Voador Nao Identificado (BR DFANBSB ARX), held in Brasilia, as produced by the Comando da Aeronautica and composed of 743 registros; Portaria 551/GC3 of 9 August 2010 requires the Air Force's documentation centre to send originals to the archive periodically."
+  },
+  {
+   "cite": [
+    "c-2bf23a0357",
+    "c-ffccefc378"
+   ],
+   "text": "A 2011 Chamber of Deputies information requirement asserts that material was withheld from the transfer: hundreds of photographs out of more than 500, with only about 230 supplied, several hours of super 8 and super 16 mm film, and the original, more detailed regional command reports. A Chamber document names the operation's commander as Colonel Uyrange Hollanda and records his death in 1997."
+  },
+  {
+   "cite": [
+    "c-1ec66d6ba5",
+    "c-932d4ba9e5",
+    "e-3e48075fa9"
+   ],
+   "text": "The national health register records the Hospital Regional do Sul de Minas in Varginha. On 8 July 2026 Burlison sent letters to the CIA and FBI asking for records on the January 1996 Varginha/Campinas incident."
+  },
+  {
+   "cite": [
+    "e-82ce487530",
+    "e-62bc0e3764",
+    "e-16b621f8a6"
+   ],
+   "text": "Two foreign surveys leave Brazil out: the foreign-partner section of AARO's FY2025 annual report names only one London conference, and the Sky Canada Project report on national UAP reporting models does not use the word Brazil. Peru's state news agency, by contrast, measured the reopening of Peru's own office against Brazil and its neighbours."
+  }
+ ],
+ "related": [
+  "latin-america",
+  "office-models",
+  "records-collection",
+  "aawsap-baass",
+  "house-push-2026",
+  "crash-claims",
+  "denial-ledger"
+ ],
+ "section": "other-nations",
+ "span": {
+  "from": "1977",
+  "to": "2026"
+ },
+ "status": "verified",
+ "summary": [
+  {
+   "cite": [
+    "e-560d363cb9",
+    "c-dadf9b557e"
+   ],
+   "text": "Operacao Prato was a Brazilian Air Force field operation run out of the Belem air base in Para, with the SNI, after mayors in the Colares area asked for help; a parliamentary document places it under the 1st Regional Air Command in Belem in 1977-1978."
+  },
+  {
+   "cite": [
+    "e-97b79b87ed",
+    "e-3a69cf08ed",
+    "e-0d6a5d9d9a"
+   ],
+   "text": "On the night of 19 May 1986 the Air Force launched fighters from Santa Cruz and Anapolis against radar plots held by the CINDACTA network, over Sao Paulo, Rio de Janeiro, Minas Gerais and Goias; the Air Defence Command wrote the night up in a confidential report fourteen days later."
+  },
+  {
+   "cite": [
+    "c-7686718f3b",
+    "e-e71299ed35",
+    "c-932d4ba9e5"
+   ],
+   "text": "In Varginha, Minas Gerais, three young women reported seeing an unknown large-headed biped on 20 January 1996; thirty years later witnesses to the case briefed three members of the US Congress, and Rep. Eric Burlison wrote to the CIA and FBI for records."
+  },
+  {
+   "cite": [
+    "c-1a0d2fd54d",
+    "e-1f615df9cf"
+   ],
+   "text": "From 2007 the Aeronautica, but not the Army or the Navy, began sending its UFO papers to the Arquivo Nacional in Brasilia, and a 2010 Air Force order requires originals to be sent on periodically, which is why the fund has no closing year."
+  }
+ ],
+ "title": "Brazil: Operacao Prato, the 1986 night and Varginha"
+}

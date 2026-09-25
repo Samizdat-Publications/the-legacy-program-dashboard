@@ -27,7 +27,302 @@
   "d-astro"
  ],
  "essays": [],
- "status": "draft",
+ "status": "verified",
  "notes": "Split from Appendix T's academic-science: the astronomers' instrument searches are a distinct group from the Sol and Nolan circle, and each reaches six members on its own.",
- "appendixT": "academic-science"
+ "appendixT": "academic-science",
+ "lead": {
+  "text": "Astronomers have taken two routes to evidence that no agency holds: the Harvard-based Galileo Project, which builds its own observatories and searched the Pacific seabed for fragments of a bolide argued to be interstellar, and Beatriz Villarroel's VASCO search of sky-survey plates exposed before the first satellite. Both publish in mainstream journals, and the bolide claims were contested there.",
+  "cite": [
+   "c-c92cda2c16",
+   "c-8c5c34b04d",
+   "c-d416ac046f",
+   "e-fae7ad3ff1",
+   "c-d208ddebf7",
+   "c-5eda019de8"
+  ]
+ },
+ "summary": [
+  {
+   "text": "The Galileo Project is an instrumentation programme based at the Harvard-Smithsonian Center for Astrophysics, founded by Avi Loeb to build independent multi-modal observatories.",
+   "cite": [
+    "e-4ad9a85fbe",
+    "e-c115077a81",
+    "c-c92cda2c16"
+   ]
+  },
+  {
+   "text": "VASCO compares Palomar Observatory Sky Survey plates exposed in 1949-1957 against modern surveys; because the plates predate Sputnik, a star-like transient on them cannot be a satellite glint.",
+   "cite": [
+    "e-fae7ad3ff1",
+    "c-16667f4d3c"
+   ]
+  },
+  {
+   "text": "Its most recent result is Bruehl and Villarroel's 2025 paper in Scientific Reports reporting that POSS-I transients may be associated with nuclear testing and with reports of unidentified anomalous phenomena.",
+   "cite": [
+    "c-6d86820d0f",
+    "e-b73290e58d"
+   ]
+  },
+  {
+   "text": "In June 2026 Loeb was named chair of a UAP Science Advisory Council, with the Galileo Project's software lead among its members.",
+   "cite": [
+    "c-4e8d82d087",
+    "e-9240195937"
+   ]
+  }
+ ],
+ "record": [
+  {
+   "text": "Loeb and Laukien published an overview of the Galileo Project in the Journal of Astronomical Instrumentation on 13 February 2023; in the same journal Cloete and colleagues published the project's integrated computing platform for detecting and tracking UAP, and Watters, Cloete, Little, Loeb and Lux wrote the special issue's preface on instrumentation and software.",
+   "cite": [
+    "c-c92cda2c16",
+    "c-66ee4ea921",
+    "c-a7b5740dba",
+    "e-f158da06a7",
+    "c-298ccf96c0",
+    "e-11784bfcd2"
+   ]
+  },
+  {
+   "text": "The project's peer-reviewed papers place it at the Harvard-Smithsonian Center for Astrophysics, sharing the 60 Garden Street address with the Center, and give Loeb's affiliation as head of the Galileo Project in Harvard's astronomy department.",
+   "cite": [
+    "e-c115077a81",
+    "e-78a95e3299",
+    "e-fbe50159d6"
+   ]
+  },
+  {
+   "text": "Vervelidou, Little and colleagues published the deployment of a geomagnetic variometer station as auxiliary UAP instrumentation in Geoscientific Instrumentation, Methods and Data Systems in November 2025.",
+   "cite": [
+    "c-56f64bf9f4",
+    "c-001ebc4771",
+    "e-0f90f618dc"
+   ]
+  },
+  {
+   "text": "Siraj and Loeb published 'A Meteor of Apparent Interstellar Origin in the CNEOS Fireball Catalog' in The Astrophysical Journal in November 2022 and a seismometer-based localisation of the bolide in Signals in September 2023.",
+   "cite": [
+    "c-d416ac046f",
+    "c-58cbe26e24"
+   ]
+  },
+  {
+   "text": "From the Pacific expedition, Loeb and colleagues published the recovery and classification of spherules in Research Notes of the AAS on 31 January 2024 and a chemical classification in Chemical Geology in December 2024, followed by a March 2025 paper on the morphology and chemistry of D-type spherules.",
+   "cite": [
+    "c-8c5c34b04d",
+    "c-197e4a06f1",
+    "c-85ef0c861e",
+    "c-bc233a0cd8"
+   ]
+  },
+  {
+   "text": "VASCO's methodology appeared in The Astronomical Journal in December 2019; Villarroel and colleagues reported nine simultaneously occurring transients on a plate of 12 April 1950 in Scientific Reports in June 2021, and argued in Acta Astronautica in May 2022 that photographic plate archives are a search space for non-terrestrial artefacts.",
+   "cite": [
+    "c-16667f4d3c",
+    "c-6bca1e0126",
+    "c-aeb976bfe8",
+    "c-59b6d27eed",
+    "c-21a0dc99bc"
+   ]
+  },
+  {
+   "text": "Stephen Bruehl, a Vanderbilt professor, and Villarroel, whose VASCO project is based in Stockholm, published the POSS-I transients paper in Scientific Reports on 20 October 2025 after a preprint of 25 July 2025. Bruehl also published, through SCU, a cluster analysis of features in 216 selected reports.",
+   "cite": [
+    "c-d208ddebf7",
+    "c-ca3aa8994d",
+    "c-d458986254",
+    "e-c4c31c91c2",
+    "c-49fb5f331d",
+    "e-c3de75045f"
+   ]
+  },
+  {
+   "text": "The Sol Foundation's Briefing No. 1 of January 2026 translated the VASCO plate results into a policy paper aimed at Congress.",
+   "cite": [
+    "e-f020b9a3cd"
+   ]
+  },
+  {
+   "text": "The ODNI's June 2021 preliminary assessment recorded disparagement associated with observing or reporting UAP as a stigma problem.",
+   "cite": [
+    "c-829b68b98c"
+   ]
+  },
+  {
+   "text": "DefenseScoop reported a 12-member UAP Science Advisory Council chaired by Loeb, announced on 17 June 2026 to advise an interagency UAP Governance Board; the Sol Foundation reported ODNI's 22 June announcement, and all data shared with the council is to be unclassified.",
+   "cite": [
+    "c-4e8d82d087",
+    "c-26d16e3ba7",
+    "c-392b52cd9e",
+    "c-2d06e0df40",
+    "c-75434e22cc"
+   ]
+  }
+ ],
+ "claimed": [
+  {
+   "text": "The expedition's search site came from Siraj's chain of inference: his argument for an interstellar velocity and his seismic localisation determined where the magnetic sled was dragged, recovering several hundred sub-millimetre spherules.",
+   "cite": [
+    "e-7ac83562eb",
+    "e-dd98c2aaa8"
+   ]
+  },
+  {
+   "text": "The project records say it was founded on 26 July 2021 and raised about $1.8 million in its first year from donors including Frank Laukien and William A. Linton, and that the expedition was announced as fully funded with a budget of about $1.6 million.",
+   "cite": [
+    "c-7da32ae413",
+    "c-7bc07a23ce"
+   ]
+  },
+  {
+   "text": "Villarroel said on American Alchemy in October 2025 that uncorrelated targets seen on radar or optical sensors since the early 1960s are subtracted from space-object counts and that the lists are held by the Space Force and classified. Asked how she knew, she said she thought she had heard it from someone on the inside; the sourcing limit is her own.",
+   "cite": [
+    "c-3f71b5a057",
+    "c-78d71cff81"
+   ]
+  },
+  {
+   "text": "On the board's inference, the POSS-I plates are the only surviving instrumental record of the sky over the United States in the window the programme is alleged to have begun, held in civil custody outside any classification authority.",
+   "cite": [
+    "c-66ae15b8ac",
+    "c-0469f57aa7"
+   ]
+  },
+  {
+   "text": "Loeb wrote that he was tasked by the White House, AARO, ODNI, the FBI and Intelligence Community members to create a research team, and DefenseScoop quotes the council's purpose: \"The goal of the council is to advise the U.S. government on how to resolve the nature of UAP.\"",
+   "cite": [
+    "c-fa78c1b67b",
+    "c-b4d6c752f0",
+    "c-4b7cd5a20e"
+   ]
+  },
+  {
+   "text": "When the interstellar object 3I/ATLAS drew questions in November 2025, during a government shutdown, the board infers that Loeb was the principal public voice and that the episode showed the absence of any standing scientific body able to speak to such objects, the gap the council was later formed across.",
+   "cite": [
+    "c-be08971abd",
+    "c-73e987809e",
+    "e-3a0c540cef"
+   ]
+  }
+ ],
+ "contested": [
+  {
+   "text": "The IM1 claims were contested in the peer-reviewed literature: Fernando et al. attributed the seismic signal used to localise the search to nearby truck traffic, Gallardo argued for coal-ash contamination, and Rudraswami, Singh and Pandey re-evaluated the spherules' proposed origin in Chemical Geology in March 2025.",
+   "cite": [
+    "c-2ff1a20481",
+    "c-60887b5651",
+    "c-5eda019de8",
+    "c-4be2b23799"
+   ]
+  },
+  {
+   "text": "The council cannot reach classified material: the Associated Press reported that it has no budget and no access to classified material. The board infers that such a body is a containment structure rather than an investigative one.",
+   "cite": [
+    "c-2ff37710bb",
+    "c-a670522dca",
+    "c-22cbcc68d2"
+   ]
+  },
+  {
+   "text": "Accounts of the council differ on its character and membership: DefenseScoop reports Loeb formed and leads it while the Sol Foundation says ODNI announced it, and DefenseScoop and the Skeptics Society give different member lists.",
+   "cite": [
+    "e-128c545f8c",
+    "c-91fdec5b20",
+    "c-9586130c7a"
+   ]
+  },
+  {
+   "text": "Even the dates of Loeb's own account are uncertain: his first post on the council carries a publication time of 13 June 2026, and a widely circulated 29 June date is a republish timestamp, while another record dates his account to 1 July after a 14 June announcement.",
+   "cite": [
+    "c-b3f139de1c",
+    "c-95cc311446"
+   ]
+  }
+ ],
+ "members": [
+  {
+   "id": "galileo-project",
+   "role": "programme"
+  },
+  {
+   "id": "avi-loeb",
+   "role": "researcher"
+  },
+  {
+   "id": "harvard-cfa",
+   "role": "institution"
+  },
+  {
+   "id": "l-cambridge",
+   "role": "place"
+  },
+  {
+   "id": "richard-cloete",
+   "role": "researcher"
+  },
+  {
+   "id": "wesley-watters",
+   "role": "researcher"
+  },
+  {
+   "id": "sarah-little",
+   "role": "researcher"
+  },
+  {
+   "id": "amir-siraj",
+   "role": "researcher"
+  },
+  {
+   "id": "im1-pacific-expedition-2023",
+   "role": "event"
+  },
+  {
+   "id": "vasco-project",
+   "role": "programme"
+  },
+  {
+   "id": "beatriz-villarroel",
+   "role": "researcher"
+  },
+  {
+   "id": "stephen-bruehl",
+   "role": "researcher"
+  },
+  {
+   "id": "paper-villarroel-bruehl-2025",
+   "role": "document"
+  },
+  {
+   "id": "l-stockholm",
+   "role": "place"
+  },
+  {
+   "id": "sol-foundation",
+   "role": "institution"
+  },
+  {
+   "id": "threei-atlas-2025",
+   "role": "event"
+  },
+  {
+   "id": "uap-science-advisory-council",
+   "role": "institution"
+  }
+ ],
+ "questions": [
+  "What is the full uncertainty on the CNEOS 2014-01-08 velocity? The interstellar determination rests on catalogue data whose error bars the US government has not released.",
+  "Do the 2021 and 2025 VASCO papers close the plate-defect and contamination explanations for the POSS-I transients, or only address them?",
+  "Has any US agency independently examined the POSS-I plates for the same transients?",
+  "Do the uncorrelated-target lists Villarroel describes exist, and could one be released so her Earth-shadow test can be run?",
+  "Will the UAP Science Advisory Council receive any sensor data at all, and under what charter does it sit?"
+ ],
+ "related": [
+  "academic-science",
+  "specimens",
+  "civilian-groups",
+  "nasa-uap-study",
+  "uaptf-odni-2021",
+  "pursue-2026"
+ ]
 }

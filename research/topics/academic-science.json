@@ -31,7 +31,487 @@
   "d-research"
  ],
  "essays": [],
- "status": "draft",
+ "status": "verified",
  "notes": "The most stable science community: Sol, Nolan's lab, Santa Clara, Albany and UAPx, with the scientific research domain node.",
- "appendixT": "academic-science"
+ "appendixT": "academic-science",
+ "lead": {
+  "text": "Since 2019 a small group of working scientists has put UAP questions into peer-reviewed journals, with a Stanford materials study and an Albany-led kinematics paper and field expedition, while SCU has deposited FOIA-based sensor reconstructions with DOIs. The Sol Foundation, co-founded by Garry Nolan, says it has advised legislatures, and in June 2026 several of its people were named to an advisory council that is to see only unclassified data.",
+  "cite": [
+   "c-397d63b6a9",
+   "c-1f4159f165",
+   "c-f8090d9099",
+   "e-39c5dc1d26",
+   "e-3dcb60b4ee",
+   "c-058188fba1",
+   "c-e730186495",
+   "c-75434e22cc"
+  ]
+ },
+ "summary": [
+  {
+   "text": "The topic is the civil and academic research community on the board: the Sol Foundation and Garry Nolan's Stanford laboratory, the University at Albany physicists behind UAPx, the Scientific Coalition for UAP Studies, and the journal Limina.",
+   "cite": [
+    "e-3dcb60b4ee",
+    "e-e8a651a623",
+    "e-d908a007f9",
+    "e-3dea45016e",
+    "e-39c5dc1d26",
+    "c-c45f2ed745"
+   ]
+  },
+  {
+   "text": "Official reviews name the same problem: the NASA UAP Independent Study Team found analysis hampered by poor sensor calibration and missing metadata and recommended action on reporting stigma, and the ODNI's 2021 preliminary assessment named limited and inconsistent data as the principal obstacle.",
+   "cite": [
+    "c-3c9c879242",
+    "c-d6a09d3cb5"
+   ]
+  },
+  {
+   "text": "The work is instrumentation-first: a published materials method, a published field protocol and published detection software.",
+   "cite": [
+    "c-397d63b6a9",
+    "e-aa57215d9a",
+    "c-fbf0b53baf"
+   ]
+  },
+  {
+   "text": "In 2026 Sol's leadership and several of these scientists were named to the UAP Science Advisory Council.",
+   "cite": [
+    "e-15f84f692e",
+    "e-1f65569ae2",
+    "e-9240195937"
+   ]
+  }
+ ],
+ "record": [
+  {
+   "text": "The Sol Foundation's own pages give its founding as 2022, with a board of Garry Nolan, Peter Skafish and Aneil Mallavarapu, and an advisory board that includes Eric Davis, Tim Gallaudet, Avi Loeb, Jacob Haqq Misra and Jacques Vallee (Emeritus).",
+   "cite": [
+    "c-3fea2c9c8c",
+    "c-ccbe4a0317",
+    "c-7d7bcfabee",
+    "e-72e0cba2e6",
+    "e-520be31762",
+    "e-44522fc0cf"
+   ]
+  },
+  {
+   "text": "The foundation's policy page states that since 2023 it has advised members and committees of the US Senate and House, including the Senate Select Committee on Intelligence and House Oversight, and the parliaments of the UK, Canada and Japan. Its Senior Legislative Affairs Officer is Kirk McConnell, who retired after 37 years with the Senate Armed Services Committee.",
+   "cite": [
+    "c-058188fba1",
+    "c-7e697143d2",
+    "c-ac844d9bf4",
+    "c-521d09585b",
+    "e-a8c100cbf3"
+   ]
+  },
+  {
+   "text": "David Grusch's House Oversight biography, published on the day of his July 2023 testimony, lists him as Chief Operating Officer of The Sol Foundation from May 2023.",
+   "cite": [
+    "c-15d2e950a8",
+    "e-a1cf984e60",
+    "e-6ffc267146"
+   ]
+  },
+  {
+   "text": "Sol's inaugural conference was held at Stanford on 17-18 November 2023, sponsored by the Nolan Laboratory and the Stanford School of Medicine, with speakers including Davis, Gallaudet, Loeb, Leslie Kean, Karl Nell and Vallee. Its 2025 symposium on Lake Maggiore featured Nell, Vallee, Nolan, Jake Barber and Dylan Borland among others.",
+   "cite": [
+    "c-455d790714",
+    "e-db95472184",
+    "c-5116693ded",
+    "e-9e3a287af3"
+   ]
+  },
+  {
+   "text": "The foundation publishes a numbered white paper and briefing series, including Skafish on executive-branch secrecy and the harm to Congress (November 2024), Karl Nell's call for disclosure (May 2025), McConnell's Briefing No. 2 on a whistleblower restitution fund, and Marik von Rennenkampff's Briefing No. 3 on the Council Bluffs materials analysis (April 2026).",
+   "cite": [
+    "c-9b03ac4571",
+    "c-4f833163b1",
+    "e-fbe842e2a5",
+    "c-1e66806902",
+    "e-94c6878bb2",
+    "e-6ec18da82f"
+   ]
+  },
+  {
+   "text": "Briefing No. 3 states that the analyses found no anomalous isotopic values but incomplete mixing of the metals, \"indicating an industrial process of unknown, and potentially perplexing, origin\", and gives the physical reasons for rejecting the meteorite and thermite explanations and the absence of any regional foundry or aviation incident that day.",
+   "cite": [
+    "c-d208600d24",
+    "c-da78f036bc",
+    "c-f0fd2afa48",
+    "e-f6ef22f7ec"
+   ]
+  },
+  {
+   "text": "The study it describes is Nolan, Vallee, Jiang and Lemke in Progress in Aerospace Sciences 128 (2022), which applied SIMS and MIBI, the latter developed by Angelo, Bendall and Nolan for tissue biology, to the 1977 Council Bluffs molten mass; Vallee supplied the sample and its case record and Lemke the engineering arguments for the exclusions.",
+   "cite": [
+    "c-397d63b6a9",
+    "e-5a9c099223",
+    "e-e8a651a623",
+    "e-308635d59d",
+    "e-2a1bc41b34",
+    "e-856421a8cf",
+    "e-a3efb2b48b"
+   ]
+  },
+  {
+   "text": "Knuth, Powell and Reali published 'Estimating Flight Characteristics of Anomalous Unidentified Aerial Vehicles' in Entropy on 25 September 2019, estimating accelerations, velocities and required power from documented cases including the 2004 Nimitz encounter, with a companion Nimitz paper in a December 2019 workshop proceedings. Powell's FOIA-derived sensor reconstructions supplied the case inputs.",
+   "cite": [
+    "c-1f4159f165",
+    "c-c1bd19fdc7",
+    "e-d709bb9915",
+    "c-f8886fc57e",
+    "e-a23e414d4f"
+   ]
+  },
+  {
+   "text": "Szydagis, Knuth, Kugielsky and Levy published the initial results of UAPx's first field expedition in Progress in Aerospace Sciences 156 in June 2025. The University at Albany's news office names Szydagis, Knuth and Levy as UAlbany authors who collected observable-light and infrared images on a 2021 expedition to Laguna Beach, California.",
+   "cite": [
+    "c-f8090d9099",
+    "c-a5be1805ef",
+    "c-d40d90acae",
+    "c-e7f60f25d6",
+    "c-52d506d565",
+    "e-2e75fc55f4"
+   ]
+  },
+  {
+   "text": "Szydagis's research interests as published by his department include Unidentified Anomalous Phenomena alongside rare-event detector development; Levy co-developed the Snowball Chamber detector with him, and the university describes the UAP field software as similar to their dark-matter method.",
+   "cite": [
+    "c-343171de01",
+    "e-4fd4acceea",
+    "c-dfe46c2ed6",
+    "e-4789a8b0a6"
+   ]
+  },
+  {
+   "text": "In the same special edition Knuth was lead author, with Szydagis and more than thirty other researchers, of a UAP review; SCU records thirty-four authors.",
+   "cite": [
+    "c-57379a933e",
+    "c-0a378a3843",
+    "e-c216fb66c6",
+    "e-7b03c034f4"
+   ]
+  },
+  {
+   "text": "The Scientific Coalition for UAP Studies is a registered 501(c)(3) whose method, established by Robert Powell, is to obtain the federal sensor record by FOIA, reconstruct it quantitatively and deposit the study with a DOI. Its studies include the April 2013 Aguadilla, Puerto Rico thermal imagery from a Department of Homeland Security aircraft, a 2023 study of reported shape, size, kinematics and sound, and a series on UAP activity against the US atomic warfare complex 1945-1975.",
+   "cite": [
+    "c-07ab10c974",
+    "e-39c5dc1d26",
+    "c-a745f08c45",
+    "c-76c7b08659",
+    "c-4c7c52efec",
+    "c-fe5d9d017e",
+    "c-46b1456f9e",
+    "c-b3c5a8446b"
+   ]
+  },
+  {
+   "text": "Limina publishes peer-reviewed UAP studies under its own DOI prefix, including Szydagis in March 2025 and the SCU atomic-warfare-complex analysis the same month. SCU gave Knuth its inaugural Distinguished Scholar Award in June 2025, a recognition rather than an office.",
+   "cite": [
+    "c-c45f2ed745",
+    "e-a4a3cb084a",
+    "e-c52d85dd3c"
+   ]
+  },
+  {
+   "text": "Richard Cloete and colleagues published a detection and tracking computing platform for UAP in the Journal of Astronomical Instrumentation in 2023.",
+   "cite": [
+    "c-fbf0b53baf",
+    "c-a7b5740dba"
+   ]
+  },
+  {
+   "text": "The Sol Foundation reported that on 22 June 2026 ODNI, with FBI support, announced a UAP Science Advisory Council led by Avi Loeb and reporting to an interagency UAP Governance Board. Nolan, Skafish, Gallaudet, Haqq-Misra and Ross Howard of Sol were named to it, and all data shared with it is to be unclassified. DefenseScoop reported a 12-member council announced on 17 June.",
+   "cite": [
+    "c-392b52cd9e",
+    "c-2d06e0df40",
+    "c-a07d7ac1e1",
+    "c-75434e22cc",
+    "c-e730186495",
+    "e-a804d0395f",
+    "c-26d16e3ba7",
+    "e-128ed396de"
+   ]
+  }
+ ],
+ "claimed": [
+  {
+   "text": "Nolan says he was approached by people representing the government and an aerospace corporation to help understand medical harm to individuals from supposed interactions with an anomalous craft, because of the blood analysis his laboratory can do. He has named neither.",
+   "cite": [
+    "c-87216993fd",
+    "c-4e65ec016b"
+   ]
+  },
+  {
+   "text": "The board's own inference, not supported by any document naming it, is that the unnamed aerospace corporation is a prime contractor with a legacy materials role and that a Stanford laboratory was used to avoid creating a federal record.",
+   "cite": [
+    "c-bbd1fdef49"
+   ]
+  },
+  {
+   "text": "Nolan stated in May 2023 that some governments have retrieved artefacts from extraterrestrial craft and gave \"100 percent\" probability to long-term visitation, and has said study of small samples of exotic material could yield \"hundreds of technology revolutions\".",
+   "cite": [
+    "c-f6da2bc26a",
+    "c-1d267ac2fe"
+   ]
+  },
+  {
+   "text": "How the technical layer reached the whistleblower strand: Leslie Kean told Ezra Klein in June 2023 that Nolan \"knows David Grusch very well and vouches for him\", before Grusch's hearing.",
+   "cite": [
+    "e-608d01611f"
+   ]
+  },
+  {
+   "text": "Loeb wrote that he was tasked by the White House, AARO, ODNI, the FBI and Intelligence Community members to create a research team; the Skeptics Society announced the council as formed at the White House's request. Sol called the appointment of its people \"a fulfillment of its founding mission\".",
+   "cite": [
+    "c-b08a4ebbfa",
+    "c-e69b37291a",
+    "e-15f84f692e"
+   ]
+  },
+  {
+   "text": "On the board's inference, the Sol Foundation is the mechanism by which the private technical layer captured the government's outside advisory function, recruiting the people it then supplied to the council; this rests on personnel overlap, not a record of intent.",
+   "cite": [
+    "c-8805142133"
+   ]
+  },
+  {
+   "text": "Reporting indexed by Disclosure Archives says AARO held a private workshop on UAP data standardisation with civilian researchers on 1 August 2025; it was hosted by Associated Universities, about 40 people attended, and no attendee list was published. The board infers it was the council's operational precursor.",
+   "cite": [
+    "c-6af89f358d",
+    "c-6f2957a7d0",
+    "c-04928ec788",
+    "e-8b13112369"
+   ]
+  },
+  {
+   "text": "Gallaudet, a Sol adviser named to the council, said of the 2026 PURSUE release that the absence of metadata made it impossible to conclude that any released object was truly anomalous.",
+   "cite": [
+    "c-60a3c7c85d",
+    "e-59de4c450c"
+   ]
+  }
+ ],
+ "contested": [
+  {
+   "text": "The council's terms limit what it can find: the Associated Press reported it has no budget and no access to classified material, and the board records the unclassified-only condition as a denial. The board infers such a council cannot audit the legacy programme, and that the Robertson Panel, the Condon Committee and the NASA study team each gave a scientific dismissal on the sponsor's terms.",
+   "cite": [
+    "c-a670522dca",
+    "c-2ff37710bb",
+    "e-f247c853c8",
+    "c-f9479803b0",
+    "c-800b859232"
+   ]
+  },
+  {
+   "text": "The accounts of the council disagree: DefenseScoop reports that Loeb formed and leads it while Sol says ODNI announced it with FBI support, and the membership is given as twelve by DefenseScoop, fourteen by Sol and eleven named by the Skeptics Society. The board finds no charter, roster or product on AARO's or the Department's pages, and no public charter for the Governance Board it reports to.",
+   "cite": [
+    "e-128c545f8c",
+    "c-26d16e3ba7",
+    "c-779d8a07bb",
+    "c-9586130c7a",
+    "c-4a67912049",
+    "c-4db3a91118"
+   ]
+  },
+  {
+   "text": "Sol's founding date is disputed between its own About page, which gives 2022, and contemporaneous reporting that Nolan and Skafish co-founded it on 15 August 2023.",
+   "cite": [
+    "c-3fea2c9c8c",
+    "c-738ed37641",
+    "c-dab28fe12f"
+   ]
+  },
+  {
+   "text": "Knuth has been Editor-in-Chief of Entropy since 2012, the journal that published his 2019 kinematics paper.",
+   "cite": [
+    "e-ae1a4b4f3b",
+    "c-a708493063"
+   ]
+  },
+  {
+   "text": "The UAPx expedition's own result was largely prosaic: the university reports the team \"succeeded in plausibly explaining all but one of the potential anomalies detected\". The California field work was funded by Caroline Cory of OMnium Media to produce the documentary A Tear in the Sky, not by the university.",
+   "cite": [
+    "e-2e75fc55f4",
+    "c-47512d410c",
+    "e-3dea45016e"
+   ]
+  }
+ ],
+ "members": [
+  {
+   "id": "sol-foundation",
+   "role": "institution"
+  },
+  {
+   "id": "sol-briefing-3-2026",
+   "role": "document"
+  },
+  {
+   "id": "garry-nolan",
+   "role": "researcher"
+  },
+  {
+   "id": "peter-skafish",
+   "role": "researcher"
+  },
+  {
+   "id": "stanford-nolan-lab",
+   "role": "institution"
+  },
+  {
+   "id": "paper-nolan-vallee-2022",
+   "role": "document"
+  },
+  {
+   "id": "council-bluffs-1977",
+   "role": "event"
+  },
+  {
+   "id": "jacques-vallee",
+   "role": "researcher"
+  },
+  {
+   "id": "sizun-jiang",
+   "role": "researcher"
+  },
+  {
+   "id": "larry-lemke",
+   "role": "researcher"
+  },
+  {
+   "id": "marik-von-rennenkampff",
+   "role": "journalist"
+  },
+  {
+   "id": "kirk-mcconnell",
+   "role": "official"
+  },
+  {
+   "id": "david-grusch",
+   "role": "claimant"
+  },
+  {
+   "id": "leslie-kean",
+   "role": "journalist"
+  },
+  {
+   "id": "karl-nell",
+   "role": "claimant"
+  },
+  {
+   "id": "jake-barber",
+   "role": "witness"
+  },
+  {
+   "id": "eric-davis",
+   "role": "researcher"
+  },
+  {
+   "id": "tim-gallaudet",
+   "role": "official"
+  },
+  {
+   "id": "jacob-haqq-misra",
+   "role": "researcher"
+  },
+  {
+   "id": "kevin-knuth",
+   "role": "researcher"
+  },
+  {
+   "id": "matthew-szydagis",
+   "role": "researcher"
+  },
+  {
+   "id": "cecilia-levy",
+   "role": "researcher"
+  },
+  {
+   "id": "university-at-albany",
+   "role": "institution"
+  },
+  {
+   "id": "uapx",
+   "role": "institution"
+  },
+  {
+   "id": "paper-uapx-2025",
+   "role": "document"
+  },
+  {
+   "id": "paper-knuth-2025-new-science",
+   "role": "document"
+  },
+  {
+   "id": "paper-knuth-powell-reali-2019",
+   "role": "document"
+  },
+  {
+   "id": "robert-powell",
+   "role": "researcher"
+  },
+  {
+   "id": "sarah-little",
+   "role": "researcher"
+  },
+  {
+   "id": "scu-uap-studies",
+   "role": "institution"
+  },
+  {
+   "id": "limina-journal",
+   "role": "institution"
+  },
+  {
+   "id": "richard-cloete",
+   "role": "researcher"
+  },
+  {
+   "id": "uap-science-advisory-council",
+   "role": "institution"
+  },
+  {
+   "id": "uap-governance-board",
+   "role": "institution"
+  },
+  {
+   "id": "avi-loeb",
+   "role": "researcher"
+  },
+  {
+   "id": "odni",
+   "role": "institution"
+  },
+  {
+   "id": "aaro-aui-workshop-2025",
+   "role": "event"
+  },
+  {
+   "id": "pursue-releases",
+   "role": "programme"
+  }
+ ],
+ "questions": [
+  "Who funds the Sol Foundation? Its public site does not name its donors.",
+  "Which government element and which aerospace corporation approached Nolan about medical harm, and what material did they bring?",
+  "Nolan has described brain-imaging findings in interviews for several years; will they appear in a peer-reviewed publication?",
+  "Has UAPx or SCU ever been given government sensor data or other non-public data?",
+  "Does the UAP Science Advisory Council have a charter, a sponsoring agency of record or appointed membership, and which White House office requested it?",
+  "Is the council independent of the advocacy it is asked to assess, given that several of its members come from one foundation?",
+  "Did Knuth's editorship of Entropy play any part in the review of the 2019 kinematics paper?"
+ ],
+ "related": [
+  "specimens",
+  "astronomers-searches",
+  "biology-medical",
+  "civilian-groups",
+  "nasa-uap-study",
+  "pursue-2026",
+  "grusch-allegations",
+  "nimitz-2004",
+  "aaro",
+  "uaptf-odni-2021"
+ ]
 }

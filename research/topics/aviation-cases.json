@@ -20,7 +20,366 @@
   "d-aviators"
  ],
  "essays": [],
- "status": "draft",
+ "status": "verified",
  "notes": "Canon 14 (Calvine, Socorro, Ubatuba, Phoenix) extends it.",
- "appendixT": "aviation-cases"
+ "appendixT": "aviation-cases",
+ "lead": {
+  "text": "The aviation cases here are the ones where a crew's report produced a government file: Japan Air Lines flight 1628 over Alaska, investigated by the FAA and surviving as more than 1,500 pages at the National Archives, and the Imperial Iranian Air Force F-4 intercepts over Tehran in September 1976, reported to DIA by the US defence attache.",
+  "cite": [
+   "c-e017d1a12b",
+   "e-ea77c3a2c4",
+   "c-1b5efbcae0",
+   "c-fa40088d17"
+  ]
+ },
+ "summary": [
+  {
+   "text": "JAL 1628: the FAA investigated the incident of 17 November 1986, concluded in March 1987 that the second radar target was not another aircraft, and years later told a FOIA requester its records would be destroyed; the file was found at the National Archives. The case's best-known witness, John Callahan, reached the public through the Disclosure Project.",
+   "cite": [
+    "e-ea77c3a2c4",
+    "c-2c722286fb",
+    "c-08814453b7",
+    "c-675dbe8e3c",
+    "e-b6d879af4b",
+    "c-499c8b5e32"
+   ]
+  },
+  {
+   "text": "Tehran and Belgium: the board compares the two. The Tehran intercept is known through a DIA file, and the Belgian F-16 scramble of March 1990 through UK Ministry of Defence files, which also hold the Belgian Air Force's own statement of November 1993.",
+   "cite": [
+    "e-bb7cc24acd",
+    "e-f7ee2d265b",
+    "c-43b4957821",
+    "c-25485f069d"
+   ]
+  },
+  {
+   "text": "Military aviators' part of the record: the Department of Defense released FLIR1, GIMBAL and GOFAST in 2020 as still unidentified; Fravor and Graves submitted written statements and testified under oath in 2023; and Knuth, Powell and Reali published an estimate of the Nimitz object's flight characteristics.",
+   "cite": [
+    "c-fc0a6eae8f",
+    "c-278f8d21dd",
+    "c-d26eacdcef"
+   ]
+  },
+  {
+   "text": "The reporting channel is itself part of the topic: Ryan Graves founded Americans for Safe Aerospace for aircrew, NASA's study team recommended using the Aviation Safety Reporting System, and H.R. 6967 would route civilian pilot reports through the FAA to AARO.",
+   "cite": [
+    "e-9a1df969f1",
+    "e-eac6f1a89c",
+    "c-16c5e426ae"
+   ]
+  }
+ ],
+ "record": [
+  {
+   "text": "The JAL 1628 file runs to over 1,500 pages at the National Archives in Record Group 237, Records of the Federal Aviation Administration, archival identifier 733667, located by The Black Vault after the FAA had estimated about 107 pages. The FAA wrote on 27 June 2001 that all documents on the sighting would be destroyed in 30 days, and in 2009 said they had been destroyed.",
+   "cite": [
+    "c-e017d1a12b",
+    "c-9c5fa4b924",
+    "c-401c8183a5",
+    "e-fc29e7ebf3",
+    "e-1a96f85ad5"
+   ]
+  },
+  {
+   "text": "The archive itemises 1,569 pages in thirty-five or more documents: FAA incident and inspection forms, notes of interviews with three crew members, Capt. Terauchi's written statement in Japanese and in translation, transcripts of interviews with the captain, first officer and flight engineer dated 2, 5 and 15 January 1987, radar data and plots, and a folder of inquiries from Klass and Haines.",
+   "cite": [
+    "c-26a4ae8121",
+    "c-7a48858a2d",
+    "c-0a151c41b9",
+    "e-8aec7286c7"
+   ]
+  },
+  {
+   "text": "The Disclosure Project Briefing Document of April 2001 prints Callahan's testimony at section 3.8.2 under the heading FAA Division Chief John Callahan, dated October 2000; the board takes this as a record that he gave that testimony on that date and of nothing else.",
+   "cite": [
+    "c-f3cb3f0dee",
+    "e-b6d879af4b"
+   ]
+  },
+  {
+   "text": "The Tehran report, IR 6 846 0139 76, went from the US Defense Attache Office in Tehran to DIA on 23 September 1976 under the subject Reported UFO Sighting, for 19 and 20 September. It was prepared by the defence attache, Col. Frank B. McKenzie, and distributed to the Joint Chiefs, the Secretary of Defense, State, CIA, NSA and the White House among others.",
+   "cite": [
+    "c-1b5efbcae0",
+    "e-92c9d0cb87"
+   ]
+  },
+  {
+   "text": "The report records that the first F-4 scrambled from Shahrokhi lost all instrumentation and communications at 25 nautical miles and broke off, and that the second, launched at 0140, got a radar lock at 27 nautical miles before its weapons control panel went off as the pilot tried to fire an AIM-9. It says the aircraft and the area where the object was believed to have landed were being checked for radiation.",
+   "cite": [
+    "c-fa40088d17",
+    "c-9510292f4c"
+   ]
+  },
+  {
+   "text": "DIA's covering letter of 22 August 1996 to John Greenewald says a search of its records located one responsive document, released with only administrative markings withheld; no result of the radiation check is in the release.",
+   "cite": [
+    "c-16877ceb84",
+    "e-af45421874",
+    "e-f7ee2d265b",
+    "c-9510292f4c"
+   ]
+  },
+  {
+   "text": "The UK National Archives' guide to the Ministry of Defence UFO files records that in March 1990 the Belgian Air Force scrambled F-16s against objects reported by police officers and others. It places in the files an account by General Wilfried de Brouwer, Chief of Operations of the Belgian Air Staff, that the F-16 pilots got radar lock-ons but could not explain the phenomena, and an official Belgian statement sent to the MoD in November 1993.",
+   "cite": [
+    "c-43b4957821",
+    "c-1ec235b0a2",
+    "c-25485f069d"
+   ]
+  },
+  {
+   "text": "The UK Defence Intelligence Staff's Project Condign study carries a video frame from Belgium dated 31 March 1990 in its figure list.",
+   "cite": [
+    "c-b8b67475ac"
+   ]
+  },
+  {
+   "text": "The Department of Defense released the FLIR1, GIMBAL and GOFAST videos on 27 April 2020 as still unidentified; David Fravor and Ryan Graves submitted written statements for the House Oversight hearing of 26 July 2023 and testified under oath; and Knuth, Powell and Reali published an estimate of the Nimitz object's flight characteristics in 2019.",
+   "cite": [
+    "c-fc0a6eae8f",
+    "c-278f8d21dd",
+    "c-d26eacdcef"
+   ]
+  },
+  {
+   "text": "H.R. 6967, the Safe Airspace for Americans Act, was introduced on 11 January 2024 by Rep. Robert Garcia with Rep. Glenn Grothman as co-lead, to create an FAA-to-AARO reporting channel for civilian pilots with legal safeguards. The NASA UAP study team's report recommends enhancing the Aviation Safety Reporting System for commercial pilot reports.",
+   "cite": [
+    "c-cad42aabc7",
+    "c-3898ee5201",
+    "e-d83ca4e935",
+    "e-6c1e565363",
+    "c-f4dad98fe7",
+    "e-eac6f1a89c"
+   ]
+  },
+  {
+   "text": "The FAA is the first of eight agencies listed in the National Archives' UAP Records Collection, Record Group 615: its series holds 575 PDF files covering 1 October 2023 to 26 October 2024 and is restricted in part under a postponement code. The Archivist must preserve, index and publish, but identification, transmission and postponement rest with the agencies, and DIA and NSA transferred nothing in the first statutory transfer.",
+   "cite": [
+    "c-63622b7928",
+    "c-4830c6b335",
+    "c-79178e95cd",
+    "e-e195651a65",
+    "e-b4645c5bd0",
+    "e-c964d38d63",
+    "e-5b22bb965d"
+   ]
+  }
+ ],
+ "claimed": [
+  {
+   "text": "Callahan says he was Division Chief of the Accidents and Investigations Branch of the FAA in Washington for about six years, and that he and colleagues gave a four- or five-minute briefing on the case to the Administrator, whom he names as Admiral Engen, on the tenth floor. The Briefing Document's own editorial header adds that a 747 was followed by a UFO for 31 minutes, which is the editor's description, not a record.",
+   "cite": [
+    "c-f3cb3f0dee",
+    "c-e72c67f50c",
+    "c-ec404bd1a4"
+   ]
+  },
+  {
+   "text": "How Callahan's account reached us: he was interviewed by Steven Greer, whose editorial comments are printed inside the witness text, and he described the incident at the Disclosure Project press conference of 9 May 2001, one of only five people an opened source places at that podium. The case's own federal record owes nothing to the Disclosure Project.",
+   "cite": [
+    "c-afeee5cd4d",
+    "c-d726ea4ed0",
+    "e-582c0fbf97",
+    "c-08814453b7"
+   ]
+  },
+  {
+   "text": "Graves says he founded Americans for Safe Aerospace to support aircrew affected by UAP encounters, and that by July 2023 it had nearly 5,000 members and was working with more than 30 witnesses who had approached it. The board reads Tim Gallaudet's recalled-email account and Graves's unacknowledged squadron report as the same failed safety machinery seen from opposite ends.",
+   "cite": [
+    "c-e4d9f3948e",
+    "c-cea4df5e9d",
+    "e-9a1df969f1",
+    "e-7ae543f5a2"
+   ]
+  },
+  {
+   "text": "On the board's reading, Garcia's questioning of Graves at the 2023 hearing about the missing civilian reporting channel is the origin of H.R. 6967, introduced six months later.",
+   "cite": [
+    "e-9e4e6b2505"
+   ]
+  },
+  {
+   "text": "Alex Dietrich and David Fravor described the 2004 Nimitz encounter on the record to 60 Minutes on 16 May 2021.",
+   "cite": [
+    "c-a119ca1435"
+   ]
+  },
+  {
+   "text": "A podcast host, attributing the account to the Puerto Rican researcher Jorge Martin, said the FAA confirmed F-14s deployed near Cabo Rojo during a December 1988 mass sighting and that the Americans later denied it; no record opened by the board bears on the claim.",
+   "cite": [
+    "c-0260a79e45"
+   ]
+  }
+ ],
+ "contested": [
+  {
+   "text": "The FAA's own conclusion is negative. Its Alaskan Region press release of 5 March 1987 says agency experts found the second radar target near JAL 1628 was not another aircraft but an uncorrelated primary and beacon return, a phenomenon not unusual, and that the FAA had completed its investigation. The Black Vault likewise records that a review of Anchorage radar failed to confirm any targets close to the flight.",
+   "cite": [
+    "c-2c722286fb",
+    "c-a79d75ad02",
+    "c-a403d0e80e",
+    "e-ea77c3a2c4"
+   ]
+  },
+  {
+   "text": "The air traffic control transcript, as Philip Klass prints it, has a United Airlines crew vectored toward JAL 1628 reporting nobody around it, and a USAF C-130 within about fifteen miles seeing no other traffic.",
+   "cite": [
+    "c-cef312081f"
+   ]
+  },
+  {
+   "text": "From the FAA's interview of 2 January 1987, as Klass reports it, Capt. Terauchi said this was the third time he had reported a UFO; on 11 January 1987 he reported a fourth over Alaska, which after landing he told the FAA he believed was light from a petroleum pumping station reflecting off ice-crystal clouds.",
+   "cite": [
+    "c-bba6b740bb"
+   ]
+  },
+  {
+   "text": "Callahan's claimed title is not corroborated by any agency record opened. A researcher who set out to confirm it found him listed as a Quality Control Branch Manager; the only document for the title is an OMB Form 171 Callahan supplied himself in 2015, which puts him in an investigations post from October 1986. The board grades the case Tier 1 on agency records and his office Tier 2.",
+   "cite": [
+    "c-cbe5620f21",
+    "c-675dbe8e3c",
+    "e-799c409440",
+    "e-71c30c8403",
+    "c-e82a2b5f90"
+   ]
+  },
+  {
+   "text": "The Black Vault, which holds the file, says Callahan's dramatic account is unconfirmed by other sources, while recording that he preserved copies of the data and later shared them with researchers.",
+   "cite": [
+    "c-27d45aefe2",
+    "c-499c8b5e32"
+   ]
+  },
+  {
+   "text": "The board has not read any page of the National Archives file: the one document downloaded is a scan without a text layer, so the file's contents are known only through Klass's quotations and The Black Vault's description.",
+   "cite": [
+    "c-ca6b9bee55"
+   ]
+  },
+  {
+   "text": "The Tehran report is second-hand: it names no Iranian aircrew and says its information came from a source in conversation with a sub-source and the pilot of one of the F-4s.",
+   "cite": [
+    "c-415c3849a9"
+   ]
+  },
+  {
+   "text": "The UK Ministry of Defence was not told of the Belgian incident at the time and concluded there was no threat to the UK. A podcast's account of de Brouwer's office as given and of his public statements is not supported by the record that names him.",
+   "cite": [
+    "c-2319675fc5",
+    "c-1df492425a"
+   ]
+  },
+  {
+   "text": "AARO later assessed the GO FAST video, one of the three released in 2020, as showing an object at about 13,000 feet moving around 45 mph with 60-knot winds, with no anomalous speeds or flight characteristics.",
+   "cite": [
+    "c-4ce6331d37"
+   ]
+  }
+ ],
+ "members": [
+  {
+   "id": "jal-1628-1986",
+   "role": "subject"
+  },
+  {
+   "id": "tehran-f4-intercept-1976",
+   "role": "subject"
+  },
+  {
+   "id": "belgian-af-f16-intercept-1990",
+   "role": "subject"
+  },
+  {
+   "id": "john-callahan",
+   "role": "witness"
+  },
+  {
+   "id": "faa",
+   "role": "institution"
+  },
+  {
+   "id": "the-black-vault",
+   "role": "institution"
+  },
+  {
+   "id": "john-greenewald",
+   "role": "journalist"
+  },
+  {
+   "id": "dia",
+   "role": "institution"
+  },
+  {
+   "id": "nsa",
+   "role": "institution"
+  },
+  {
+   "id": "national-archives",
+   "role": "institution"
+  },
+  {
+   "id": "nara-uap-collection",
+   "role": "document"
+  },
+  {
+   "id": "disclosure-project-briefing-2001",
+   "role": "document"
+  },
+  {
+   "id": "national-press-club-2001",
+   "role": "event"
+  },
+  {
+   "id": "ryan-graves",
+   "role": "witness"
+  },
+  {
+   "id": "tim-gallaudet",
+   "role": "witness"
+  },
+  {
+   "id": "americans-for-safe-aerospace",
+   "role": "institution"
+  },
+  {
+   "id": "hr-6967-safe-airspace-for-americans-act",
+   "role": "law"
+  },
+  {
+   "id": "robert-garcia",
+   "role": "legislator"
+  },
+  {
+   "id": "glenn-grothman",
+   "role": "legislator"
+  },
+  {
+   "id": "nasa-uap-ist",
+   "role": "programme"
+  },
+  {
+   "id": "gofast-video",
+   "role": "document"
+  }
+ ],
+ "questions": [
+  "Were the FAA's JAL 1628 records ever destroyed, or were the 2001 and 2009 answers simply wrong about where they were?",
+  "What do the pages of the National Archives file actually say, beyond the itemisation and Klass's quotations?",
+  "Did John Callahan hold the title of Division Chief of the Accidents and Investigations Branch, and does any record confirm the briefing he describes, or the videotape and audio tape he says he kept?",
+  "Did the Tehran radiation check produce a result, and was the further information the report promised ever forwarded?",
+  "Who were the Iranian aircrew, and does any Iranian record of the intercepts survive?",
+  "What do the 575 FAA files in the National Archives' UAP collection contain, and what has been postponed?"
+ ],
+ "related": [
+  "nimitz-2004",
+  "roosevelt-2014-15",
+  "disclosure-project-2001",
+  "foia-litigation",
+  "records-collection",
+  "uk",
+  "hearing-2023",
+  "nasa-uap-study",
+  "whistleblower-channels"
+ ]
 }

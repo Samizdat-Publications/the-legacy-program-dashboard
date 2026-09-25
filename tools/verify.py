@@ -37,7 +37,7 @@ Usage:
     python3 tools/verify.py --update-golden  # deliberately accept new counts
 """
 
-import json, os, re, sys, subprocess, hashlib, copy
+import json, os, re, sys, subprocess, hashlib, copy, unicodedata
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.insert(0, os.path.join(ROOT, "tools"))
@@ -2570,6 +2570,306 @@ def _topic_proposals(b):
             f"python tools/topics/propose_members.py"]
 
 
+# ---------------------------------------------------------------------------
+# redesign phase 5, task 1: the drafted topic record (notes/plans/P5-drafting-topics.md).
+# A topic whose status is "drafted" or "verified" carries prose, and every sentence of
+# it must be traceable to the board: each item cites claim ids (c-...) or edge ids
+# (e-...), a quotation is verbatim in what it cites, the record cites something
+# documented, and nothing links out. A stub ("draft") carries none of this, so the
+# content rules skip it; the structural checks above still hold it.
+#
+# A topic's OWN nodes are its members (after alias resolution) and the domain nodes
+# it absorbs: the phase 6 topic page renders an absorbed domain node's claims, so
+# citing them is citing the topic's own material. A claim that phase 3 could not
+# place (tools/UNPLACED-CLAIMS.json, listed on the stub as unplacedClaims) is cited by
+# the id it would carry on the node it collapsed into: claim_id(collapsedInto, text).
+# The self-test builds a small drafted fixture from the real board and poisons each
+# rule on it (verify.py --self-test), because today every stub is a draft and the
+# real repo cannot show any of these checks failing.
+# ---------------------------------------------------------------------------
+
+TOPIC_STATUSES = ("draft", "drafted", "verified")
+TOPIC_TEXT_KEYS = ("lead", "summary", "record", "claimed", "contested")
+TOPIC_MIN_MEMBERS = 6
+TOPIC_FLOOR = os.path.join(ROOT, "tools", "TOPIC-COVERAGE-FLOOR.json")
+_TOPIC_FLOOR_OVERRIDE = None
+# a double-quoted run of four characters or more, straight or curly
+_TOPIC_QUOTE = (re.compile(r'"([^"\n]{4,}?)"'), re.compile("“([^”\n]{4,}?)”"))
+_TOPIC_URL = re.compile(r"(?i)\bhttps?://|\bwww\.[a-z0-9-]+\.")
+
+
+def _topic_roles():
+    with open(os.path.join(ROOT, "schema", "vocab.json"), encoding="utf-8") as fh:
+        return {k["id"] for k in json.load(fh).get("topicRoles") or []}
+
+
+def _drafted_topics():
+    """[(file, topic)] for every topic whose content rules apply."""
+    return [(f, t) for f, t in sorted(_topic_docs()["topics"].items())
+            if t.get("status") in ("drafted", "verified")]
+
+
+def _topic_items(t):
+    """[(where, item)] for every citable item: the lead and each list entry."""
+    out = []
+    if t.get("lead") is not None:
+        out.append(("lead", t["lead"]))
+    for k in TOPIC_TEXT_KEYS[1:]:
+        for i, it in enumerate(t.get(k) or []):
+            out.append((f"{k}[{i}]", it))
+    return out
+
+
+def _topic_board(b):
+    """Indexes the content checks share: claim id -> (node, tier, text), edge id ->
+    edge, the alias map, and the board's node ids."""
+    claims = {}
+    for n in b.get("people", []) + b.get("entities", []):
+        for c in n.get("claims") or []:
+            if c.get("id"):
+                claims[c["id"]] = (n["id"], c.get("tier"), c.get("text") or "")
+    edges = {e["id"]: e for e in b.get("edges", []) if e.get("id")}
+    alias = _removed_doc().get("alias") or {}
+    nodes = {n["id"] for n in b.get("people", []) + b.get("entities", [])}
+    return claims, edges, alias, nodes
+
+
+def _topic_own(t, alias):
+    """The topic's own node ids: members after alias resolution, and what it absorbs."""
+    own = {alias.get(m.get("id"), m.get("id")) for m in t.get("members") or []
+           if isinstance(m, dict)}
+    return own | set(t.get("absorbs") or [])
+
+
+def _topic_unplaced(t):
+    """{claim id: (node, tier, text)} for the stub's unplaced claims."""
+    return {_claim_id(c.get("collapsedInto"), c.get("claim") or ""):
+            (c.get("collapsedInto"), c.get("tier"), c.get("claim") or "")
+            for c in t.get("unplacedClaims") or []}
+
+
+@check("every topic's status is draft, drafted or verified")
+def _topic_status(b):
+    """The content rules below apply by status. A misspelt status ("Drafted",
+    "done") would exempt a written topic from every one of them in silence."""
+    return [f"{f}: status {t.get('status')!r} is not one of {TOPIC_STATUSES}"
+            for f, t in sorted(_topic_docs()["topics"].items())
+            if t.get("status") not in TOPIC_STATUSES][:40]
+
+
+@check("every member of a drafted topic is on the board and has a role in the vocabulary")
+def _topic_members(b):
+    """Rule 1. A member resolves through research/_removed.json to a node on the
+    board (the side-car check separately refuses the collapsed id itself), and its
+    role is one of schema/vocab.json topicRoles."""
+    _c, _e, alias, nodes = _topic_board(b)
+    roles = _topic_roles()
+    bad = []
+    for f, t in _drafted_topics():
+        for m in t.get("members") or []:
+            if not isinstance(m, dict):
+                bad.append(f"{f}: member {m!r} is not an {{id, role}} record")
+                continue
+            i = alias.get(m.get("id"), m.get("id"))
+            if i not in nodes:
+                bad.append(f"{f}: member {m.get('id')!r} is not on the board")
+            if m.get("role") not in roles:
+                bad.append(f"{f}: member {m.get('id')!r} has role {m.get('role')!r}, "
+                           f"which is not in schema/vocab.json topicRoles")
+    return bad[:40]
+
+
+@check("every id a drafted topic cites exists and belongs to the topic's own nodes")
+def _topic_cites(b):
+    """Rule 2. A claim id is a claim on the board (or one of the stub's unplaced
+    claims) and sits on one of the topic's own nodes; an edge id is an edge on the
+    board whose two ends are both the topic's own nodes. A citation to a node the
+    topic does not include is a sentence the topic page cannot show the evidence
+    for."""
+    claims, edges, alias, _n = _topic_board(b)
+    bad = []
+    for f, t in _drafted_topics():
+        own = _topic_own(t, alias)
+        unplaced = _topic_unplaced(t)
+        for where, it in _topic_items(t):
+            for cid in (it.get("cite") or []) if isinstance(it, dict) else []:
+                if cid in unplaced:
+                    continue
+                if cid in claims:
+                    if claims[cid][0] not in own:
+                        bad.append(f"{f} {where}: cites claim {cid}, which is on "
+                                   f"{claims[cid][0]!r}, not a member")
+                elif cid in edges:
+                    e = edges[cid]
+                    if e["a"] not in own or e["b"] not in own:
+                        bad.append(f"{f} {where}: cites edge {cid} ({e['a']} -> {e['b']}), "
+                                   f"which does not join two members")
+                else:
+                    bad.append(f"{f} {where}: cites {cid!r}, which is no claim or edge id")
+    return bad[:40]
+
+
+@check("every item of a drafted topic's lead, summary, record, claimed and contested cites an id")
+def _topic_uncited(b):
+    """Rule 3. An uncited sentence is the one the reader cannot check."""
+    bad = []
+    for f, t in _drafted_topics():
+        for where, it in _topic_items(t):
+            if not isinstance(it, dict) or not str(it.get("text") or "").strip():
+                bad.append(f"{f} {where}: is not a {{text, cite}} item with text")
+            elif not [c for c in it.get("cite") or [] if isinstance(c, str) and c]:
+                bad.append(f"{f} {where}: cites nothing ({str(it.get('text'))[:50]!r})")
+    return bad[:40]
+
+
+def _norm_ws(s):
+    return re.sub(r"\s+", " ", unicodedata.normalize("NFC", str(s or ""))).strip()
+
+
+@check("every quotation in a drafted topic is verbatim in a claim or edge it cites")
+def _topic_quotes(b):
+    """Rule 4. A double-quoted run of four characters or more must appear, letter
+    for letter (whitespace runs aside), in the text of a claim the same item cites,
+    or in the sentence (note) or label of an edge it cites. A quotation from memory
+    is an invented quote."""
+    claims, edges, _a, _n = _topic_board(b)
+    bad = []
+    for f, t in _drafted_topics():
+        unplaced = _topic_unplaced(t)
+        for where, it in _topic_items(t):
+            if not isinstance(it, dict):
+                continue
+            hay = []
+            for cid in it.get("cite") or []:
+                if cid in unplaced:
+                    hay.append(unplaced[cid][2])
+                elif cid in claims:
+                    hay.append(claims[cid][2])
+                elif cid in edges:
+                    hay += [edges[cid].get("note") or "", edges[cid].get("label") or ""]
+            hay = [_norm_ws(h) for h in hay]
+            text = str(it.get("text") or "")
+            for rx in _TOPIC_QUOTE:
+                for q in rx.findall(text):
+                    qn = _norm_ws(q)
+                    if not any(qn in h for h in hay):
+                        bad.append(f"{f} {where}: the quotation {q[:60]!r} is in none of "
+                                   f"the claims or edges it cites")
+    return bad[:40]
+
+
+@check("no drafted topic carries a URL in its text")
+def _topic_urls(b):
+    """Rule 5. Sources live on claims and edges, where the gate grades them; a URL
+    in topic prose is a source nothing has graded."""
+    bad = []
+    for f, t in _drafted_topics():
+        texts = [("title", t.get("title"))]
+        texts += [(w, it.get("text")) for w, it in _topic_items(t) if isinstance(it, dict)]
+        texts += [(f"questions[{i}]", q) for i, q in enumerate(t.get("questions") or [])]
+        for where, s in texts:
+            m = _TOPIC_URL.search(str(s or ""))
+            if m:
+                tail = str(s)[m.start():m.start() + 60].split()[0]
+                bad.append(f"{f} {where}: carries a URL ({tail})")
+    return bad[:40]
+
+
+@check("every record item of a drafted topic cites a Tier 1 claim or a Tier 1 edge")
+def _topic_record_tier(b):
+    """Rule 6. The record is what the documents show; testimony (Tier 2) and stated
+    inference (Tier 3) belong in `claimed`. An item resting only on those is
+    testimony printed under the record's heading."""
+    claims, edges, _a, _n = _topic_board(b)
+    bad = []
+    for f, t in _drafted_topics():
+        unplaced = _topic_unplaced(t)
+        for i, it in enumerate(t.get("record") or []):
+            if not isinstance(it, dict):
+                continue
+            tiers = []
+            for cid in it.get("cite") or []:
+                if cid in unplaced:
+                    tiers.append(unplaced[cid][1])
+                elif cid in claims:
+                    tiers.append(claims[cid][1])
+                elif cid in edges:
+                    tiers.append(edges[cid].get("claimTier"))
+            if 1 not in tiers:
+                bad.append(f"{f} record[{i}]: cites no Tier 1 claim or edge (tiers "
+                           f"{sorted(set(str(x) for x in tiers))})")
+    return bad[:40]
+
+
+@check("a drafted topic has at least six members unless it is a research gap")
+def _topic_size(b):
+    """Rule 7. Fewer than six members is a node page with a heading, not a topic,
+    unless the stub says what the board lacks (`researchGap`)."""
+    bad = []
+    for f, t in _drafted_topics():
+        n = len(t.get("members") or [])
+        if n < TOPIC_MIN_MEMBERS and not str(t.get("researchGap") or "").strip():
+            bad.append(f"{f}: {n} members, fewer than {TOPIC_MIN_MEMBERS}, and no researchGap")
+    return bad[:40]
+
+
+@check("every related id of a drafted topic is a topic")
+def _topic_related(b):
+    """Rule 8. `related` links topic to topic on the page; an id that is not a
+    topic is a dead link, and a node id there is a category error."""
+    ids = {t.get("id") for t in _topic_docs()["topics"].values()}
+    bad = []
+    for f, t in _drafted_topics():
+        for r in t.get("related") or []:
+            if r not in ids:
+                bad.append(f"{f}: related {r!r} is not a topic")
+            elif r == t.get("id"):
+                bad.append(f"{f}: related names the topic itself")
+    return bad[:40]
+
+
+def topic_coverage(b, docs=None):
+    """{"nodes": {covered, total, share}, "people": {...}}: the share of non-domain
+    nodes, and of people, that are a member of at least one topic (after alias
+    resolution). Domain nodes are absorbed, not members, and are counted by the
+    check that each is absorbed exactly once."""
+    docs = docs or _topic_docs()
+    alias = _removed_doc().get("alias") or {}
+    inm = {alias.get(m.get("id"), m.get("id")) for t in docs["topics"].values()
+           for m in t.get("members") or [] if isinstance(m, dict)}
+    nodes = [n for n in b.get("people", []) + b.get("entities", []) if n.get("cls") != "domain"]
+    people = [n for n in nodes if n.get("cls") == "person"]
+
+    def one(xs):
+        c = sum(1 for n in xs if n["id"] in inm)
+        return {"covered": c, "total": len(xs), "share": round(c / len(xs), 4) if xs else 0.0}
+    return {"nodes": one(nodes), "people": one(people)}
+
+
+@check("topic membership coverage is at or above tools/TOPIC-COVERAGE-FLOOR.json")
+def _topic_coverage(b):
+    """Rule 9. The floor is committed at the level the drafting pass reached, so a
+    later edit that drops members from topics is seen as a fall, not as a new
+    normal."""
+    if _TOPIC_FLOOR_OVERRIDE is not None:
+        floor = _TOPIC_FLOOR_OVERRIDE
+    elif os.path.exists(TOPIC_FLOOR):
+        with open(TOPIC_FLOOR, encoding="utf-8") as fh:
+            floor = json.load(fh)
+    else:
+        return ["tools/TOPIC-COVERAGE-FLOOR.json is missing"]
+    cov = topic_coverage(b)
+    bad = []
+    for k in ("nodes", "people"):
+        want = floor.get(k)
+        if not isinstance(want, (int, float)):
+            bad.append(f"tools/TOPIC-COVERAGE-FLOOR.json: {k} is not a number")
+        elif cov[k]["share"] < want:
+            bad.append(f"{k} in a topic's members: {cov[k]['covered']}/{cov[k]['total']} = "
+                       f"{cov[k]['share']:.4f}, below the floor {want}")
+    return bad
+
+
 @check("counts match the golden manifest")
 def _golden(b):
     now = measure(b)
@@ -2928,6 +3228,176 @@ def self_test():
         "the topic proposals are what propose_members.py produces":
             [_topics_poison(f) for f in (proposals_stale, proposals_missing)],
     }
+
+    # ---- the drafted topic record (phase 5, task 1). Every stub is a draft today,
+    # so the real repo cannot show a content rule failing. The fixture is one topic,
+    # status "drafted", built from the REAL board so every id it cites is real: a
+    # Tier 1 edge between two nodes, one of which carries a Tier 1 claim it quotes,
+    # four more members from their neighbourhood, one of them carrying a Tier 2 or 3
+    # claim. The fixture must pass every rule; each poison breaks one rule and must
+    # be rejected WITH a message naming what was broken (a check that cannot name
+    # the thing it expected cannot tell a right rejection from a wrong one).
+    def _topic_fixture(rb):
+        alias = _removed_doc().get("alias") or {}
+        nodes = {n["id"]: n for n in rb["people"] + rb["entities"]}
+        plain = lambda s: s and '"' not in s and "“" not in s and not _TOPIC_URL.search(s)
+        t1 = lambda n: [c for c in n.get("claims") or [] if c.get("tier") == 1
+                        and plain(c.get("text")) and len(c["text"].split()) >= 8]
+        for e in sorted(rb["edges"], key=lambda e: e.get("id") or ""):
+            if e.get("claimTier") != 1 or not e.get("id") or e["a"] == e["b"]:
+                continue
+            a, bb = nodes.get(e["a"]), nodes.get(e["b"])
+            if not a or not bb or "domain" in (a.get("cls"), bb.get("cls")):
+                continue
+            if e["a"] in alias or e["b"] in alias or not t1(a):
+                continue
+            nb = sorted({x for x2 in rb["edges"] for x in (x2["a"], x2["b"])
+                         if e["a"] in (x2["a"], x2["b"]) or e["b"] in (x2["a"], x2["b"])}
+                        - {e["a"], e["b"]})
+            nb = [i for i in nb if i in nodes and nodes[i].get("cls") != "domain"]
+            weak = [i for i in nb if any(c.get("tier") in (2, 3) for c in nodes[i].get("claims") or [])]
+            if len(nb) < 5 or not weak:
+                continue
+            rest = [weak[0]] + [i for i in nb if i != weak[0]][:3]
+            outsider = next(i for i in sorted(nodes) if i not in rest + [e["a"], e["b"]]
+                            and nodes[i].get("claims") and nodes[i].get("cls") != "domain")
+            break
+        else:
+            raise SystemExit("self-test: no Tier 1 edge on the board can seed the topic fixture")
+        ca = t1(a)[0]
+        cw = next(c for c in nodes[weak[0]]["claims"] if c.get("tier") in (2, 3))
+        members = [e["a"], e["b"]] + rest
+        # an edge with exactly one end among the members, for the edge poison
+        half = next(x for x in sorted(rb["edges"], key=lambda x: x.get("id") or "")
+                    if x.get("id") and (x["a"] in members) != (x["b"] in members))
+        quote = " ".join(ca["text"].split()[:6])
+        real_topic = sorted(t.get("id") for t in _topic_docs()["topics"].values())[0]
+        fx = {
+            "id": "t-fixture", "title": "Fixture topic", "kind": "programme",
+            "section": "official-study", "span": {"from": "1990", "to": "2000"},
+            "focusEra": "2", "anchors": [], "absorbs": [], "essays": [],
+            "status": "drafted", "notes": "self-test fixture, never written to disk",
+            "lead": {"text": "A fixture lead sentence.", "cite": [ca["id"]]},
+            "summary": [{"text": f'The fixture quotes "{quote}" from its claim.',
+                         "cite": [ca["id"]]}],
+            "record": [{"text": "What the record shows.", "cite": [ca["id"], e["id"]]}],
+            "claimed": [{"text": "What is claimed.", "cite": [cw["id"]]}],
+            "contested": [{"text": "The case against.", "cite": [e["id"]]}],
+            "members": [{"id": m, "role": "subject"} for m in members],
+            "questions": ["What is still open?"],
+            "related": [real_topic],
+        }
+        return fx, {"weak": cw["id"], "outsiderClaim": nodes[outsider]["claims"][0]["id"],
+                    "halfEdge": half["id"]}
+
+    def _fx_docs(fn_=None):
+        docs = copy.deepcopy(_topic_docs())
+        fx, ids = _topic_fixture(_real_board)
+        if fn_ is not None:
+            fn_(fx, ids)
+        docs["topics"]["t-fixture.json"] = fx
+        return docs, ids
+
+    def _p_member_missing(fx, ids):
+        fx["members"].append({"id": "zz-ghost-member", "role": "subject"})
+
+    def _p_role_bad(fx, ids):
+        fx["members"][0]["role"] = "hero"
+
+    def _p_cite_nothing(fx, ids):
+        fx["record"][0]["cite"].append("c-0000000000")
+
+    def _p_cite_outsider(fx, ids):
+        fx["contested"][0]["cite"].append(ids["outsiderClaim"])
+
+    def _p_edge_half(fx, ids):
+        fx["claimed"][0]["cite"].append(ids["halfEdge"])
+
+    def _p_uncited(fx, ids):
+        fx["summary"].append({"text": "An uncited sentence.", "cite": []})
+
+    def _p_quote_invented(fx, ids):
+        fx["summary"][0]["text"] = 'It said "something nobody wrote down" once.'
+
+    def _p_url(fx, ids):
+        fx["contested"][0]["text"] += " See https://example.invalid/poison for more."
+
+    def _p_record_testimony(fx, ids):
+        fx["record"].append({"text": "Testimony under the record heading.",
+                             "cite": [ids["weak"]]})
+
+    def _p_five_members(fx, ids):
+        fx["members"] = fx["members"][:5]
+
+    def _p_related_ghost(fx, ids):
+        fx["related"].append("zz-no-such-topic")
+
+    def _p_status_typo(fx, ids):
+        fx["status"] = "Drafted"
+
+    def _p_floor(fx, ids):
+        # A floor above any reachable share. The poison was first written as 0.5
+        # while every topic was a stub (coverage 0); once phase 5 drafted the topics
+        # the real coverage passed 0.96 and 0.5 no longer tripped the check. A floor
+        # over 1.0 is refused whatever coverage the repo reaches.
+        global _TOPIC_FLOOR_OVERRIDE
+        _TOPIC_FLOOR_OVERRIDE = {"nodes": 1.0001, "people": 1.0001}
+
+    # check name -> [(poison, a string its rejection must contain)]; "{key}" is
+    # filled from the fixture's ids when the poison runs
+    poison_topics = {
+        "every topic's status is draft, drafted or verified":
+            [(_p_status_typo, "'Drafted'")],
+        "every member of a drafted topic is on the board and has a role in the vocabulary":
+            [(_p_member_missing, "zz-ghost-member"), (_p_role_bad, "'hero'")],
+        "every id a drafted topic cites exists and belongs to the topic's own nodes":
+            [(_p_cite_nothing, "c-0000000000"), (_p_cite_outsider, "{outsiderClaim}"),
+             (_p_edge_half, "{halfEdge}")],
+        "every item of a drafted topic's lead, summary, record, claimed and contested cites an id":
+            [(_p_uncited, "summary[1]")],
+        "every quotation in a drafted topic is verbatim in a claim or edge it cites":
+            [(_p_quote_invented, "something nobody wrote down")],
+        "no drafted topic carries a URL in its text":
+            [(_p_url, "https://example.invalid/poison")],
+        "every record item of a drafted topic cites a Tier 1 claim or a Tier 1 edge":
+            [(_p_record_testimony, "record[1]")],
+        "a drafted topic has at least six members unless it is a research gap":
+            [(_p_five_members, "5 members")],
+        "every related id of a drafted topic is a topic":
+            [(_p_related_ghost, "zz-no-such-topic")],
+        "topic membership coverage is at or above tools/TOPIC-COVERAGE-FLOOR.json":
+            [(_p_floor, "below the floor")],
+    }
+
+    # what each rule must ACCEPT besides the plain fixture: its own exception, and
+    # a stub carrying the same faults (content rules do not apply to a draft)
+    def _a_research_gap(fx, ids):
+        fx["members"] = fx["members"][:5]
+        fx["researchGap"] = "The fixture's missing nodes."
+
+    def _a_quote_curly(fx, ids):
+        q = fx["summary"][0]["text"].split('"')[1]
+        fx["summary"][0]["text"] = f"The fixture quotes “{q}”, curly."
+
+    def _a_stub(fx, ids):
+        fx["status"] = "draft"
+        fx["summary"].append({"text": "Uncited, but a stub.", "cite": []})
+        fx["record"].append({"text": "Testimony, but a stub.", "cite": [ids["weak"]]})
+        fx["members"].append({"id": "zz-ghost-member", "role": "hero"})
+        fx["contested"][0]["text"] += ' "not in any claim" https://example.invalid/stub'
+        fx["related"].append("zz-no-such-topic")
+    accept_topics = {
+        "a drafted topic has at least six members unless it is a research gap":
+            [_a_research_gap, _a_stub],
+        "every quotation in a drafted topic is verbatim in a claim or edge it cites":
+            [_a_quote_curly, _a_stub],
+    }
+    for _k in poison_topics:
+        accept_topics.setdefault(_k, [])
+        if _k not in ("every topic's status is draft, drafted or verified",
+                      "topic membership coverage is at or above tools/TOPIC-COVERAGE-FLOOR.json") \
+                and _a_stub not in accept_topics[_k]:
+            accept_topics[_k].append(_a_stub)
 
     poison_realboard_ids = {
         **poison_realboard_topics,
@@ -3309,6 +3779,45 @@ def self_test():
                 clean = fn(base)
             finally:
                 _L0_OVERRIDE = None
+        elif name in poison_topics:
+            # the fixture must pass, each poison must be rejected naming its fault,
+            # each accepted variant must pass, and the real repo must pass
+            global _TOPICS_OVERRIDE, _TOPIC_FLOOR_OVERRIDE
+            if _real_board is None:
+                print(f"  FAIL  {name}: data/the-program.json missing, no fixture")
+                ok = False
+                continue
+            caught, clean = [], []
+            runs = [(None, None, False)] + [(p, want, True) for p, want in poison_topics[name]] \
+                + [(a, None, False) for a in accept_topics.get(name, [])]
+            for fn_, want, must_fail in runs:
+                try:
+                    docs, ids = _fx_docs(fn_)
+                    _TOPICS_OVERRIDE = docs
+                    got = fn(_real_board)
+                finally:
+                    _TOPICS_OVERRIDE = None
+                    _TOPIC_FLOOR_OVERRIDE = None
+                label = fn_.__name__ if fn_ else "the clean fixture"
+                if must_fail:
+                    want = want.format(**ids)
+                    if not got:
+                        print(f"  FAIL  {name} accepted its poison {label}")
+                        caught = []
+                        break
+                    if not any(want in g for g in got):
+                        print(f"  FAIL  {name} rejected {label} for another reason "
+                              f"({got[0][:70]}); expected {want!r}")
+                        caught = []
+                        break
+                    caught = caught + got
+                elif got:
+                    # reported below as a false positive, not as a dead check
+                    clean = [f"{label}: {got[0]}"]
+                    caught = caught or ["(not reached)"]
+                    break
+            if not clean:
+                clean = fn(_real_board)
         elif name in poison_realboard:
             # every poison must be rejected, and the real board must pass
             if _real_board is None:
@@ -3319,7 +3828,6 @@ def self_test():
             for mutate in poison_realboard[name]:
                 pb = copy.deepcopy(_real_board)
                 global _UNPLACED_OVERRIDE, _APP_IDS_OVERRIDE, _REMOVED_OVERRIDE, _SIDECARS_OVERRIDE
-                global _TOPICS_OVERRIDE
                 try:
                     mutate(pb)
                     got = fn(pb)

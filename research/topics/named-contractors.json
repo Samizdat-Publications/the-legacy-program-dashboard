@@ -30,7 +30,453 @@
   "d-contractor"
  ],
  "essays": [],
- "status": "draft",
+ "status": "verified",
  "notes": "The board's exclusions stay: no BDM-to-Northrop edge, and sperry-rand deliberately unattached. Canon cluster 11 (Hughes, Wackenhut, REECo, Dugway) extends it.",
- "appendixT": "named-contractors"
+ "appendixT": "named-contractors",
+ "lead": {
+  "text": "The custody allegations name many contractors besides Lockheed and EG&G. David Grusch testified that material and programmes were placed with defence contractors outside congressional oversight, and others name Northrop Grumman, General Dynamics and SAIC; the filings the board holds document these firms' mergers, contracts and directors, not any holding, and AARO says executives of the companies named to it denied such programmes on the record.",
+  "cite": [
+   "c-4841f84716",
+   "c-65a7c76c8f",
+   "e-9b535997a6",
+   "e-e21cd21c0e",
+   "c-ae7352ec1d"
+  ]
+ },
+ "summary": [
+  {
+   "text": "Why contractors: the allegation is that custody sits in private firms, where Grusch places it, and Elizondo agreed at a 2024 hearing that material is allocated to contractors by expertise, General Dynamics for undersea propulsion. GAO found in 2004 that DoD could not assure the protection of classified information at contractor facilities.",
+   "cite": [
+    "c-4841f84716",
+    "c-65a7c76c8f",
+    "e-207fe30640",
+    "c-65dd46bffa"
+   ]
+  },
+  {
+   "text": "How, on the allegation: through contractors' internal research and development money and the waiver that lets special access programmes be reported to only a few members. Congress then legislated in the FY2024 NDAA to bar UAP-related research money from being charged to the government unless disclosed, after a Senate provision to make contractors surrender such material was stripped.",
+   "cite": [
+    "e-91f862baf1",
+    "e-7d04979860",
+    "c-4c4f79c707",
+    "e-997e5de6af"
+   ]
+  },
+  {
+   "text": "The corporate lineages are on record: TRW bought BDM in 1997 and became a Northrop Grumman subsidiary in 2002, Raytheon bought E-Systems in 1995, Boeing absorbed McDonnell Douglas in 1997, and Leidos was spun out of SAIC in 2013.",
+   "cite": [
+    "e-d684acecdc",
+    "e-e21cd21c0e",
+    "e-1dc83a77fa",
+    "e-fc70cccfdd",
+    "e-f023d40279"
+   ]
+  },
+  {
+   "text": "The topic keeps each firm's allegation beside what the filings show. A company appearing in a custody claim is not thereby shown to hold anything.",
+   "cite": [
+    "c-ae7352ec1d",
+    "e-bec9bfa851"
+   ]
+  }
+ ],
+ "record": [
+  {
+   "text": "GAO-04-332 found that DoD could not provide adequate assurance that its oversight protects classified information at contractor facilities.",
+   "cite": [
+    "c-65dd46bffa"
+   ]
+  },
+  {
+   "text": "DoD Instruction 3204.01 lets contractors recover independent research and development as an indirect cost, with project reporting required only of those allocating over $11 million. Section 1687(b) of the FY2024 NDAA cites it by number and makes UAP-related research of that kind unallowable unless the material is made available to the congressional committees and leadership.",
+   "cite": [
+    "c-a2379cd6ec",
+    "c-4c4f79c707",
+    "e-9dad12c718",
+    "e-0e54c58a32",
+    "e-46bc16c648"
+   ]
+  },
+  {
+   "text": "The Senate Intelligence Committee's S. 2103, section 1104, reported in June 2023, would have withheld funds for propulsion derived from reverse engineering recovered craft and required contractors to list any non-earth origin material they held, with immunity; only the funding limit and the research-money restriction survived into law.",
+   "cite": [
+    "c-d136fdf0ea",
+    "e-ec4b2ecec8",
+    "e-01047e524d",
+    "e-997e5de6af"
+   ]
+  },
+  {
+   "text": "The FY2024 NDAA's UAP records collection reaches all government, government-provided or government-funded records on UAP, technologies of unknown origin and non-human intelligence, a wording that covers records held by contractors under government funding.",
+   "cite": [
+    "c-50052622ae",
+    "c-2c69bb8229",
+    "e-b5692c7540"
+   ]
+  },
+  {
+   "text": "SEC filings fix the chain: BDM, founded in 1959, agreed on 20 November 1997 to a TRW tender offer at $29.50 a share; on 11 December 2002 TRW became a wholly owned Northrop Grumman subsidiary, its defence businesses renamed Northrop Grumman Mission Systems and Space Technology, under an antitrust consent entered the same day.",
+   "cite": [
+    "c-6eb313ff59",
+    "c-22c486967e",
+    "c-9546611c6e",
+    "c-cc79445865",
+    "c-099b4cdf24",
+    "e-d684acecdc",
+    "e-e21cd21c0e"
+   ]
+  },
+  {
+   "text": "E-Systems, formerly LTV Electrosystems, drew about 75 percent of its 1994 sales from reconnaissance, surveillance and command systems; Raytheon completed its $2.3 billion acquisition on 1 May 1995. Its ten directors in 1995 are listed by name in the takeover filing.",
+   "cite": [
+    "c-29e30434b5",
+    "c-c67f58fa52",
+    "c-58d5ad5275",
+    "c-93299842a7",
+    "e-1dc83a77fa"
+   ]
+  },
+  {
+   "text": "Adm. Bobby Ray Inman, NSA director from July 1977 and nominated Deputy Director of Central Intelligence in 1981, was an SAIC director from 1982 and a paid part-time adviser from 1990, according to SAIC's 2003 proxy, which names J. R. Beyster as chairman and chief executive.",
+   "cite": [
+    "c-fbd33f161a",
+    "c-edea5d8b5d",
+    "c-162c17c6b0",
+    "c-be6d4ed42c",
+    "c-7e061bd18e",
+    "e-19c8d53c8b",
+    "e-eb620b89e7"
+   ]
+  },
+  {
+   "text": "The firms' federal scale is on USAspending since FY2008: Lockheed Martin in the hundreds of billions, Leidos about $135 billion, Raytheon over $100 billion, Booz Allen about $97 billion, SAIC about $52 billion, General Atomics about $41 billion and Aerojet Rocketdyne about $8.7 billion.",
+   "cite": [
+    "c-7589d37704",
+    "c-7458d0c721",
+    "c-f2069a8318",
+    "c-729ee7fab2",
+    "c-837053a72d",
+    "c-2e0b7e0322",
+    "c-2b6443b687"
+   ]
+  },
+  {
+   "text": "Northrop Grumman's documented government work includes leading the consortium that took over Nevada Test Site management in 2006 and, as Northrop, building the TACIT BLUE stealth demonstrator with the Air Force and DARPA.",
+   "cite": [
+    "c-a3c1e487f5",
+    "e-a9e2b1ee93",
+    "e-4b0d85477e",
+    "c-f06c4bb366",
+    "e-a2a3fad2e6"
+   ]
+  },
+  {
+   "text": "A 1955 New York Herald Tribune series named Bell Aircraft of Buffalo among firms interested in gravity research and quoted Lawrence Bell saying aviation's third step would be to operate outside the gravity of the earth; it photographed him with three Air Force test pilots.",
+   "cite": [
+    "c-c7b6314f22",
+    "c-cfa17cfbec",
+    "c-38bf696c57",
+    "e-01c453d3c5"
+   ]
+  },
+  {
+   "text": "Rep. Burlison's production requests to MITRE cover its work involving Lockheed Martin, Northrop Grumman, Raytheon, Boeing, General Dynamics, SAIC and Leidos.",
+   "cite": [
+    "e-172dfa0777"
+   ]
+  }
+ ],
+ "claimed": [
+  {
+   "text": "Grusch testified that material and programmes had been placed with defence contractors outside congressional oversight, funded through the contractors' internal research money, and that the waiver in 10 U.S.C. 119 is the route by which programmes escape committee reporting. He named no company; in the same hearing Ryan Graves described Boeing contractors as the observers of a 2003 incident at Vandenberg.",
+   "cite": [
+    "c-4841f84716",
+    "e-91f862baf1",
+    "e-7d04979860",
+    "c-3cd5d9469e",
+    "e-06746fc4a7",
+    "c-4653de7b6b"
+   ]
+  },
+  {
+   "text": "At the November 2024 hearing Elizondo agreed with Rep. Mace that material is routed to contractors by technical expertise, undersea propulsion to a firm like General Dynamics and aerospace to Lockheed; asked about reporting that the CIA blocked a divestment of material from a contractor, he said that it was blocked.",
+   "cite": [
+    "c-65a7c76c8f",
+    "e-207fe30640",
+    "e-543d0f5e70"
+   ]
+  },
+  {
+   "text": "UAP Gerb alleged in March 2026 that Northrop Grumman may have used its research money after 9/11 to self-fund its own retrieval and exploitation, becoming unaccountable to its government handler, and that its security is run by a former AFOSI officer; the video builds on Grusch's remarks about ODNI officials and a former TRW engineer.",
+   "cite": [
+    "c-6e7381fd4e",
+    "c-0494bb0b16",
+    "c-ebe714bfa2",
+    "e-9b535997a6",
+    "e-9b167c0230"
+   ]
+  },
+  {
+   "text": "A Green Beret witness identified only as RA says he was taken underground near Crane, Indiana, between 2013 and 2015 to an Off-World Technologies Division holding recovered devices, and UAP Gerb links that division to SAIC and Sandia.",
+   "cite": [
+    "c-485f919990",
+    "c-6c334965aa",
+    "e-eaf0c80fd8"
+   ]
+  },
+  {
+   "text": "Mark McCandlish named General Dynamics, Lockheed, Northrop, McDonnell Douglas and Boeing among his clients in his 2000 testimony; the board records what he said about himself and nothing more.",
+   "cite": [
+    "c-f0d051d621",
+    "e-1e3c845364",
+    "e-4d2812e764",
+    "e-a2b6a32a54",
+    "e-e5eb570997"
+   ]
+  },
+  {
+   "text": "Robert Wood says he ran a company-funded study of unidentified craft at McDonnell Douglas Astronautics in Huntington Beach in the late 1960s; on the board's reading that is the earliest described case of a prime studying the subject on its own money, though no company record of it has been released.",
+   "cite": [
+    "c-6f952410e5",
+    "c-4ff20e480e",
+    "e-26b335c0ff",
+    "e-9e18b58924"
+   ]
+  },
+  {
+   "text": "Private papers said to come from Jack Houck's files include a 1985 booking for a BDM secure facility in McLean and transparencies annotated with phrases such as abduction data base; the board holds them at Tier 3, since no institution holds them.",
+   "cite": [
+    "c-053f80cbba"
+   ]
+  },
+  {
+   "text": "The board draws inferences it cannot document: that SAIC's inheritance of the government's remote viewing research from SRI shows how a deniable research line can pass into corporate custody; that Raytheon, as sensor maker, would hold calibration data behind military UAP imagery; that security-support firms such as Booz Allen administer the access rosters that denied Grusch; and that a private firm such as General Atomics has no disclosure duty that would surface such holdings.",
+   "cite": [
+    "c-e9255a74b8",
+    "e-1ad6aab388",
+    "c-56daa907d4",
+    "e-88aa441c78",
+    "c-70ca866c4b"
+   ]
+  },
+  {
+   "text": "The board ties Raytheon to the 2004 Nimitz video only by inference: it builds the Navy's ATFLIR targeting pod, but no document states which sensor produced that video.",
+   "cite": [
+    "e-bc73ec646e"
+   ]
+  },
+  {
+   "text": "The one contractor tied to the Lazar record is Kirk-Mayer: as Stanton Friedman describes it, the Los Alamos directory page carrying Lazar's name states that it covers DOE employees and that outside contractor.",
+   "cite": [
+    "e-d23792cec9",
+    "c-dcf87b6931",
+    "e-2f66568372",
+    "e-6b80bf3a68"
+   ]
+  }
+ ],
+ "contested": [
+  {
+   "text": "AARO's report states that executives and technology chiefs of the companies named by interviewees denied the allegations to its Director on the record.",
+   "cite": [
+    "c-ae7352ec1d"
+   ]
+  },
+  {
+   "text": "Claims about Inman fail against filings: UAP Gerb called him a Wackenhut board member, but Wackenhut's proxies from 1997 to 2002 do not name him, and a podcast claim that he headed SAIC is contradicted by SAIC's proxy naming Beyster. No record of a National Underwater Reconnaissance Office has been found.",
+   "cite": [
+    "c-0fc61c6f33",
+    "c-6361877a4f",
+    "c-be6d4ed42c",
+    "c-34a7cabf51"
+   ]
+  },
+  {
+   "text": "A 2026 podcast speaker called E-Systems a CIA show company on whose predecessor's board Pete Aldridge sat; the filings name LTV Electrosystems as the predecessor, list ten directors of whom none is Aldridge, and describe a listed contractor.",
+   "cite": [
+    "c-f77dc3c4cc",
+    "c-93299842a7"
+   ]
+  },
+  {
+   "text": "The Northrop and TRW video's case turns on the 2002 acquisition, which the filings document; its funding proposition is an extrapolation found in no filing.",
+   "cite": [
+    "e-bec9bfa851"
+   ]
+  },
+  {
+   "text": "Jason Reza Jorjani dated Bell's public gravity claims to 1953 and called them electrogravitics; the opened articles are from November 1955 and Bell's quoted words do not use that term.",
+   "cite": [
+    "c-22ae65b2b2"
+   ]
+  },
+  {
+   "text": "Lazar's link to Los Alamos is a telephone directory listing, not a documented employment, and both the laboratory and Kirk-Mayer later said they held no employment records for him.",
+   "cite": [
+    "e-99ff421d34",
+    "c-3fd09f3aab"
+   ]
+  }
+ ],
+ "members": [
+  {
+   "id": "northrop-grumman",
+   "role": "contractor"
+  },
+  {
+   "id": "trw-inc",
+   "role": "contractor"
+  },
+  {
+   "id": "bdm-international",
+   "role": "contractor"
+  },
+  {
+   "id": "saic",
+   "role": "contractor"
+  },
+  {
+   "id": "leidos",
+   "role": "contractor"
+  },
+  {
+   "id": "raytheon",
+   "role": "contractor"
+  },
+  {
+   "id": "e-systems-inc",
+   "role": "contractor"
+  },
+  {
+   "id": "general-dynamics",
+   "role": "contractor"
+  },
+  {
+   "id": "boeing",
+   "role": "contractor"
+  },
+  {
+   "id": "mcdonnell-douglas",
+   "role": "contractor"
+  },
+  {
+   "id": "bell-aircraft-corporation",
+   "role": "contractor"
+  },
+  {
+   "id": "booz-allen",
+   "role": "contractor"
+  },
+  {
+   "id": "general-atomics",
+   "role": "contractor"
+  },
+  {
+   "id": "aerojet-rocketdyne",
+   "role": "contractor"
+  },
+  {
+   "id": "kirk-mayer",
+   "role": "contractor"
+  },
+  {
+   "id": "lockheed-martin",
+   "role": "contractor"
+  },
+  {
+   "id": "mitre-corporation",
+   "role": "contractor"
+  },
+  {
+   "id": "bobby-ray-inman",
+   "role": "official"
+  },
+  {
+   "id": "david-grusch",
+   "role": "claimant"
+  },
+  {
+   "id": "mark-mccandlish",
+   "role": "claimant"
+  },
+  {
+   "id": "robert-m-wood",
+   "role": "researcher"
+  },
+  {
+   "id": "bob-lazar",
+   "role": "witness"
+  },
+  {
+   "id": "gerb-northrop-trw-investigation",
+   "role": "document"
+  },
+  {
+   "id": "off-world-technologies-division",
+   "role": "programme"
+  },
+  {
+   "id": "northrop-tacit-blue",
+   "role": "programme"
+  },
+  {
+   "id": "nimitz-2004",
+   "role": "event"
+  },
+  {
+   "id": "dodi-3204-01",
+   "role": "law"
+  },
+  {
+   "id": "usc-10-119",
+   "role": "law"
+  },
+  {
+   "id": "ndaa-fy2024",
+   "role": "law"
+  },
+  {
+   "id": "ndaa-fy2024-1687",
+   "role": "law"
+  },
+  {
+   "id": "iaa-fy2024-sec1104",
+   "role": "law"
+  },
+  {
+   "id": "cia",
+   "role": "institution"
+  },
+  {
+   "id": "usaf",
+   "role": "institution"
+  },
+  {
+   "id": "lanl",
+   "role": "institution"
+  },
+  {
+   "id": "l-nevada-test-site",
+   "role": "place"
+  }
+ ],
+ "questions": [
+  "Which contractors did Grusch name to the inspectors general and in closed session?",
+  "Has any prime contractor made a disclosure under section 1687(b) of the FY2024 NDAA, and would anyone outside the committees know if it had?",
+  "Do McDonnell Douglas or Boeing files hold any record of the study Robert Wood describes?",
+  "Did the BDM, TRW and Northrop Grumman lineage carry any programme records with it, as later accounts assume?",
+  "What did MITRE produce, if anything, in answer to Burlison's requests about its work with the named primes?",
+  "Is there any record of an Off-World Technologies Division at Crane, or of SAIC's or Sandia's part in one?",
+  "How does AARO's statement that its interviewees had no first-hand knowledge square with the contractor programmes Grusch says first-hand witnesses reported to the inspectors general?"
+ ],
+ "related": [
+  "area-51-ranges",
+  "skunk-works",
+  "ffrdc-probes",
+  "funding-channels",
+  "grusch-allegations",
+  "sap-reporting",
+  "legacy-programme",
+  "lazar-s4"
+ ]
 }

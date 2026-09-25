@@ -52,7 +52,530 @@
  ],
  "absorbs": [],
  "essays": [],
- "status": "draft",
+ "status": "verified",
  "notes": "A provincial hub: nearly all of dird-series' neighbours are its own documents. Every DIRD is an anchor.",
- "appendixT": "dirds"
+ "appendixT": "dirds",
+ "lead": {
+  "text": "The Defense Intelligence Reference Documents are the 38 technical reports produced for DIA under the AAWSAP contract, on subjects running from fusion propulsion and invisibility cloaking to warp drive, wormholes and field effects on biological tissue. DIA gave Congress the list of titles and authors in January 2018, and 37 of the 38 papers are listed as released.",
+  "cite": [
+   "c-c3a33baa73",
+   "c-a1b107a1b3",
+   "c-13d09b773c",
+   "e-00dc3b6ebb"
+  ]
+ },
+ "summary": [
+  {
+   "text": "The DIRDs are the AAWSAP contract's deliverables: 26 reports in FY2009 and 12 in FY2010, commissioned by the prime contractor BAASS from EarthTech, Lockheed Martin and about a dozen universities.",
+   "cite": [
+    "e-00dc3b6ebb",
+    "e-300caf5638"
+   ]
+  },
+  {
+   "text": "They carry two DIA series banners, Acquisition Threat Support for the FY2009 tranche and Defense Futures for FY2010, and document numbers in a DIA-08 pattern. Their inside covers say each is one of a series of advanced technology reports produced under DIA's Advanced Aerospace Weapon System Applications programme.",
+   "cite": [
+    "c-9e7517fef2",
+    "c-bad34a500d",
+    "c-4573ad1d36"
+   ]
+  },
+  {
+   "text": "DIA released a list of the 38 titles to Steven Aftergood of the Federation of American Scientists on 16 January 2019, having given it to Congress a year earlier; it is the only official enumeration of the series and the only place the authors are named together.",
+   "cite": [
+    "c-ab45f9d795",
+    "c-a1b107a1b3",
+    "e-e541b7be8d",
+    "c-c3a33baa73"
+   ]
+  },
+  {
+   "text": "EarthTech International, the Austin firm Harold Puthoff has run since 1985, was the largest single producer, with six of the 38; Eric Davis of EarthTech wrote five, more than anyone else.",
+   "cite": [
+    "c-d9b8616040",
+    "e-fdcf00a5b7",
+    "c-912593e22f",
+    "c-7fb0b6e2a9"
+   ]
+  }
+ ],
+ "record": [
+  {
+   "text": "In DIA's released copies every author is withheld under exemption (b)(6) and the preparing office under 10 USC 424. Two surnames, Hathaway and Tsoi, survive unredacted inside the review excerpts of DIA memo U-429-09.",
+   "cite": [
+    "c-55f65f2f1c",
+    "c-95bde387aa"
+   ]
+  },
+  {
+   "text": "One released copy of DIA-08-1004-004, the wormholes paper, names Eric Davis of EarthTech International as author and James Lacatski as AAWSA Program Manager, and states that it was prepared by the Acquisition Support Division of DIA's Defense Warning Office.",
+   "cite": [
+    "c-d1bb0cdd75",
+    "c-467dab9db1",
+    "c-3a07610902",
+    "c-d7ea3c1985",
+    "c-3abfde0cf8"
+   ]
+  },
+  {
+   "text": "DIA's reading room lists 37 DIRD files. Five of them (Biomaterials, Materials for Advanced Aerospace Platforms, Metallic Glasses, Metallic Spintronics and Metamaterials) had no resolvable file when the board checked, and the released numbering is sparse. The one paper with a classified version, on high-energy laser weapons, was released only in its unclassified form.",
+   "cite": [
+    "c-8e181b6b60",
+    "c-e229dc3867",
+    "c-bad34a500d",
+    "c-13d09b773c",
+    "c-1d201e28c7"
+   ]
+  },
+  {
+   "text": "DIA's memo U-429-09 lists the 26 FY2009 reports by working title, several of which were never released under those names, and records that all of the reviews were positive, some exceptionally so. DIA later sent Puthoff's paper on spacetime metric engineering to the acquisition Under Secretary as its example of the reports.",
+   "cite": [
+    "c-c103151f78",
+    "c-773256a62e",
+    "c-33a736cdb7",
+    "e-367ae68550"
+   ]
+  },
+  {
+   "text": "Davis's survey Antigravity for Aerospace Applications reviews published physics and concludes that mechanical antigravity devices would need kilometre-sized apparatus, astronomical masses or extreme velocities, and that negative energy has been made in the laboratory only in very small quantities. It does not mention Thomas Townsend Brown, and cites Alcubierre once.",
+   "cite": [
+    "c-1d75146758",
+    "c-8d469b4fee",
+    "c-5158e94e65",
+    "c-c757ecee42",
+    "e-81f714787a"
+   ]
+  },
+  {
+   "text": "Hathaway's Maverick Inventor paper never names the Hutchison effect, although Hathaway wrote a book on the Hutchison files.",
+   "cite": [
+    "c-b5e1eba190",
+    "c-4256c866d9"
+   ]
+  },
+  {
+   "text": "The warp drive paper prints the negative energy its model would need at speeds from 0.01c to twice light speed, and its own summary presents control of higher dimensions as a possibility worthy of investigation, not a result.",
+   "cite": [
+    "c-3e2436b459",
+    "c-190742f607"
+   ]
+  },
+  {
+   "text": "Kit Green's medical DIRD, under the Institute for Advanced Studies at Austin imprint, states as its first hypothesis that enough evidence exists from human injuries to reverse engineer aspects of the energy and propulsion systems, and its executive summary says the data support a hypothesis that some advanced systems are already deployed and opaque to US intelligence. It draws on 42 published and about 300 unpublished cases and proposes a follow-on study of 300 to 500 events with its sponsors.",
+   "cite": [
+    "c-c9afb9f987",
+    "c-6f5c39bdbe",
+    "c-9c615bcdeb",
+    "c-2a2129e56b",
+    "e-02c70e3391"
+   ]
+  },
+  {
+   "text": "The preface of Green's DIRD quotes a November 2007 proposal addressed to Puthoff and Hathaway about probable ET-generated near-field electromagnetic emissions.",
+   "cite": [
+    "c-855d0f2c47",
+    "e-e17e4dea1a"
+   ]
+  },
+  {
+   "text": "Claudio Maccone's Statistical Drake Equation paper is attributed to him on the DIA list, and its appendix reproduces his conference paper with his byline, corroborating the attribution from inside the redacted document.",
+   "cite": [
+    "c-ef05a48dc7",
+    "c-2576eec5d8",
+    "e-a1a3034528"
+   ]
+  },
+  {
+   "text": "The DIA list names established defence and academic scientists among the authors, including George Miley of the University of Illinois on electrostatic confinement fusion, Ulf Leonhardt of St Andrews on invisibility cloaking, S. Macheret of Lockheed Martin on MHD propulsion, and R. Genik of Wayne State on the cognitive limits of controlling many unmanned spacecraft.",
+   "cite": [
+    "c-c3a33baa73",
+    "e-5bc069a345",
+    "e-56fc4e85e9",
+    "e-3072445046",
+    "c-d77fb33a68",
+    "e-4397e53108"
+   ]
+  }
+ ],
+ "claimed": [
+  {
+   "text": "AAWSAP's participants say the programme produced more than 100 detailed reports, of which the 38 DIRDs are only the literature-survey part.",
+   "cite": [
+    "c-ae965d3099"
+   ]
+  },
+  {
+   "text": "Green describes his paper as a forensic assessment of injuries that could have come from claimed UAP encounters, says he keeps a clinical case series of such patients drawn largely from military and intelligence personnel, and says that at CIA he was the officer to whom UFO reporting was routed.",
+   "cite": [
+    "c-d40d074f53",
+    "c-965466c524",
+    "c-34d4b67c9f"
+   ]
+  },
+  {
+   "text": "Davis, the most prolific DIRD author, is reported to have given classified briefings to Senate committee staff in 2019 (the board's items date them to March and to October) and to a Defense Department agency in March 2020 on retrievals of off-world vehicles not made on this earth, saying of the materials that we couldn't make it ourselves.",
+   "cite": [
+    "c-2451f39f83",
+    "c-993d987c29",
+    "c-337b9b8425"
+   ]
+  },
+  {
+   "text": "How the papers reached the public matters: the warp drive DIRD first appeared on a website run by Corey Goode in December 2017, and Davis confirmed to researcher Isaac Koi that the circulating copy was genuine.",
+   "cite": [
+    "c-15b334c53a"
+   ]
+  }
+ ],
+ "contested": [
+  {
+   "text": "In 2008 the JASON advisory group rejected Robert Baker's high-frequency gravitational wave work, finding the proposed applications fundamentally wrong and no foreign threat credible; DIA published Baker's DIRD on the same subject in April 2010 regardless.",
+   "cite": [
+    "c-cd0e60dbe0",
+    "c-8cef4aab39",
+    "c-fb09fc8b38",
+    "e-dbdb187cc4"
+   ]
+  },
+  {
+   "text": "Mainstream defence reporting characterised EarthTech's DIRD output as relying on borderline fringe science.",
+   "cite": [
+    "c-38f6009f34"
+   ]
+  },
+  {
+   "text": "The board reads the mix of subjects, six papers on vacuum energy, antigravity, warp drive, wormholes and negative mass plus biological and cognitive studies, as the commissioning profile of someone characterising observed properties rather than surveying foreign capability, and Green's injury paper as a sign that the sponsors already held injury cases. These are inferences from the set; no document states them.",
+   "cite": [
+    "c-c5406ea5fd",
+    "c-ef8c21cd45",
+    "c-a81af414a3",
+    "c-a3da462649"
+   ]
+  },
+  {
+   "text": "Against that reading, the antigravity survey's zero counts show a review of published gravitational and vacuum physics, and the board records them as evidence of what the survey covers, not of what the programme knew.",
+   "cite": [
+    "c-a06f4a6182",
+    "c-5158e94e65"
+   ]
+  },
+  {
+   "text": "Authorship rests on the DIA list, not the covers: the board notes that the DIA release alone does not establish Davis, Puthoff or Green as authors, while the list sent to the Senate names each of them.",
+   "cite": [
+    "c-a843555a42",
+    "c-ec66ff30c4",
+    "c-300af3cd3d",
+    "c-7fb0b6e2a9",
+    "c-5c7fed8ae7",
+    "c-ee7a972d4e"
+   ]
+  },
+  {
+   "text": "The records disagree on details. The DIA list names Richard Obousy as author of the warp drive paper, which EarthTech cites as by Obousy and Davis and the press attributes to Davis alone; and the board records the list as titling the laser paper Evaluation of High Energy Laser Weapons where the released document says Evolution. Two aneutronic fusion papers are attributed to Culbreth and Teofilo only by elimination and self-citation.",
+   "cite": [
+    "c-5972eead09",
+    "c-4989ae3f82",
+    "c-a22e3d0c3d",
+    "e-86b3aad84e",
+    "e-63a04c2582"
+   ]
+  },
+  {
+   "text": "The board infers that NASA's 1996 to 2002 breakthrough propulsion project was run in public and closed on published results, while DIA commissioned overlapping work, released it only under FOIA and withheld every author; and that the two surviving surnames show redaction by template rather than review.",
+   "cite": [
+    "c-90487e0579",
+    "c-88c674b699"
+   ]
+  }
+ ],
+ "members": [
+  {
+   "id": "dird-series",
+   "role": "subject"
+  },
+  {
+   "id": "aawsap-dird-series",
+   "role": "document"
+  },
+  {
+   "id": "dia-aatip-list-2019",
+   "role": "document"
+  },
+  {
+   "id": "aawsap",
+   "role": "programme"
+  },
+  {
+   "id": "baass",
+   "role": "contractor"
+  },
+  {
+   "id": "earthtech-international",
+   "role": "contractor"
+  },
+  {
+   "id": "lockheed-martin",
+   "role": "contractor"
+  },
+  {
+   "id": "james-lacatski",
+   "role": "official"
+  },
+  {
+   "id": "dia",
+   "role": "institution"
+  },
+  {
+   "id": "wayne-state-university",
+   "role": "institution"
+  },
+  {
+   "id": "eric-davis",
+   "role": "researcher"
+  },
+  {
+   "id": "harold-puthoff",
+   "role": "researcher"
+  },
+  {
+   "id": "kit-green",
+   "role": "researcher"
+  },
+  {
+   "id": "richard-genik",
+   "role": "researcher"
+  },
+  {
+   "id": "friedwardt-winterberg",
+   "role": "researcher"
+  },
+  {
+   "id": "george-hathaway",
+   "role": "researcher"
+  },
+  {
+   "id": "william-culbreth",
+   "role": "researcher"
+  },
+  {
+   "id": "bruce-towe",
+   "role": "researcher"
+  },
+  {
+   "id": "claudio-maccone",
+   "role": "researcher"
+  },
+  {
+   "id": "george-miley",
+   "role": "researcher"
+  },
+  {
+   "id": "gerald-smith",
+   "role": "researcher"
+  },
+  {
+   "id": "j-golightly",
+   "role": "researcher"
+  },
+  {
+   "id": "james-wells",
+   "role": "researcher"
+  },
+  {
+   "id": "john-albertine",
+   "role": "researcher"
+  },
+  {
+   "id": "john-cramer",
+   "role": "researcher"
+  },
+  {
+   "id": "marc-millis",
+   "role": "researcher"
+  },
+  {
+   "id": "paul-czysz",
+   "role": "researcher"
+  },
+  {
+   "id": "sergey-macheret",
+   "role": "researcher"
+  },
+  {
+   "id": "ulf-leonhardt",
+   "role": "researcher"
+  },
+  {
+   "id": "vincent-teofilo",
+   "role": "researcher"
+  },
+  {
+   "id": "wil-mccarthy",
+   "role": "researcher"
+  },
+  {
+   "id": "richard-obousy",
+   "role": "researcher"
+  },
+  {
+   "id": "robert-baker",
+   "role": "researcher"
+  },
+  {
+   "id": "dird-advanced-nuclear-propulsion-for-manned-deep",
+   "role": "document"
+  },
+  {
+   "id": "dird-advanced-space-propulsion-based-on-vacuum",
+   "role": "document"
+  },
+  {
+   "id": "dird-aerospace-applications-of-programmable-matter",
+   "role": "document"
+  },
+  {
+   "id": "dird-an-introduction-to-the-statistical-drake",
+   "role": "document"
+  },
+  {
+   "id": "dird-aneutronic-fusion-propulsion",
+   "role": "document"
+  },
+  {
+   "id": "dird-aneutronic-fusion-propulsion-2",
+   "role": "document"
+  },
+  {
+   "id": "dird-anomalous-acute-and-subacute-field-effects",
+   "role": "document"
+  },
+  {
+   "id": "dird-antigravity-for-aerospace-applications",
+   "role": "document"
+  },
+  {
+   "id": "dird-biosensors-and-biomems-a-survey-of",
+   "role": "document"
+  },
+  {
+   "id": "dird-cockpits-in-the-era-of-breakthrough",
+   "role": "document"
+  },
+  {
+   "id": "dird-cognitive-limits-on-simultaneous-control-of",
+   "role": "document"
+  },
+  {
+   "id": "dird-concepts-for-extracting-energy-from-the",
+   "role": "document"
+  },
+  {
+   "id": "dird-detection-and-high-resolution-tracking-of",
+   "role": "document"
+  },
+  {
+   "id": "dird-green-clinical-medical",
+   "role": "document"
+  },
+  {
+   "id": "dird-high-frequency-gravitational-wave-communications",
+   "role": "document"
+  },
+  {
+   "id": "dird-inertial-electrostatic-confinement-fusion",
+   "role": "document"
+  },
+  {
+   "id": "dird-invisibility-cloaking-theory-and-experiments",
+   "role": "document"
+  },
+  {
+   "id": "dird-laser-lightcraft-nanosatellites",
+   "role": "document"
+  },
+  {
+   "id": "dird-maverick-inventor-versus-corporate-inventor-where",
+   "role": "document"
+  },
+  {
+   "id": "dird-mhd-air-breathing-propulsion-and-power",
+   "role": "document"
+  },
+  {
+   "id": "dird-negative-mass-propulsion",
+   "role": "document"
+  },
+  {
+   "id": "dird-positron-aerospace-propulsion",
+   "role": "document"
+  },
+  {
+   "id": "dird-pulsed-high-power-microwave-source-technology",
+   "role": "document"
+  },
+  {
+   "id": "dird-quantum-computing-and-utilizing-organic-molecules",
+   "role": "document"
+  },
+  {
+   "id": "dird-quantum-tomography-of-negative-energy-states",
+   "role": "document"
+  },
+  {
+   "id": "dird-space-access-where-we-ve-been",
+   "role": "document"
+  },
+  {
+   "id": "dird-state-of-the-art-and-evolution",
+   "role": "document"
+  },
+  {
+   "id": "dird-technological-approaches-to-controlling-external-devices",
+   "role": "document"
+  },
+  {
+   "id": "dird-the-role-of-superconductors-in-gravity",
+   "role": "document"
+  },
+  {
+   "id": "dird-the-space-communication-implications-of-quantum",
+   "role": "document"
+  },
+  {
+   "id": "dird-traversable-wormholes",
+   "role": "document"
+  },
+  {
+   "id": "dird-traversable-wormholes-stargates-and-negative-energy",
+   "role": "document"
+  },
+  {
+   "id": "dird-ultracapacitors-as-energy-and-power-storage",
+   "role": "document"
+  },
+  {
+   "id": "dird-warp-drive-dark-energy-and-the",
+   "role": "document"
+  }
+ ],
+ "questions": [
+  "Where are the five DIRDs whose filenames DIA lists but whose files cannot be retrieved, and the working-title reports that were never released under those names?",
+  "What became of the four to six FY2010 reports DIA said would be expanded with classified data?",
+  "Did AAWSAP pay for any Davis work beyond his five named papers?",
+  "Who are the Sponsor and Affiliates named in Green's executive summary, and was his follow-on study of 300 to 500 events ever funded?",
+  "Do the roughly 300 unpublished injury cases, and the Green-Morris case files, exist in any government-held database?",
+  "Why did DIA accept a gravitational-wave paper on a subject JASON had already rejected?"
+ ],
+ "related": [
+  "aawsap-baass",
+  "aatip-elizondo",
+  "propulsion-claims",
+  "biology-medical",
+  "wilson-davis-notes",
+  "gravity-research-1950s",
+  "ttsa",
+  "academic-science",
+  "foia-litigation",
+  "named-contractors"
+ ]
 }

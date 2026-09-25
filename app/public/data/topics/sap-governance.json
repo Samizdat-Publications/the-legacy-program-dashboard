@@ -1,0 +1,2580 @@
+{
+ "absorbs": [
+  "d-structure",
+  "d-secrecy-architecture"
+ ],
+ "anchors": [
+  "dod-sapco",
+  "sapoc",
+  "ic-sapco",
+  "srg-dod",
+  "dod-sap-reform-1994",
+  "ousdi",
+  "saf-aaz",
+  "dodi-5205-11",
+  "gao-nsiad-88-152",
+  "sswg"
+ ],
+ "appendixT": "sap-governance",
+ "cites": {
+  "c-0038dadf12": {
+   "id": "c-0038dadf12",
+   "kind": "claim",
+   "node": "dod-sapco",
+   "nodeLabel": "DoD Special Access Program Central Office (DoD SAPCO)",
+   "source": {
+    "domain": "web.archive.org",
+    "text": "https://web.archive.org/web/20220322050205/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf",
+    "url": "https://web.archive.org/web/20220322050205/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf"
+   },
+   "text": "DoDD 5205.07 (2010) Enclosure 3, Note 2: 'The Director, DoD SAPCO, has AAA [access approval authority] for all SAPs unless expressly withheld by the Secretary or Deputy Secretary of Defense.' Note 4: the Director 'shall coordinate on PARs for the White House, National Security Council, and political appointees of the Executive Branch.' Note 3: the Director coordinates PARs 'for judicial and other Federal agency personnel for waived programs.'",
+   "tier": 1
+  },
+  "c-018ed45bf9": {
+   "id": "c-018ed45bf9",
+   "kind": "claim",
+   "node": "dodi-5205-11",
+   "nodeLabel": "DoDI 5205.11 - Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)",
+   "source": {
+    "domain": "www.esd.whs.mil",
+    "text": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf",
+    "url": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf"
+   },
+   "text": "Glossary definitions verbatim: 'acknowledged SAP: A SAP whose existence is acknowledged, affirmed, or made known to others, but its specific details are classified.' 'unacknowledged SAP: A SAP having enhanced security measures, ensuring the existence of the program is not acknowledged.' 'waived SAP: A SAP for which the Secretary of Defense has waived applicable reporting following a determination of adverse effect to national security.'",
+   "tier": 1
+  },
+  "c-04e1b13cce": {
+   "id": "c-04e1b13cce",
+   "kind": "claim",
+   "node": "dod-sap-reform-1994",
+   "nodeLabel": "DoD special access programme governance change, 5 January 1994",
+   "source": {
+    "domain": "sgp.fas.org",
+    "text": "Deputy Secretary of Defense, SAPOC Information Bulletin, November 1994, https://sgp.fas.org/othergov/sapoc.html",
+    "url": "https://sgp.fas.org/othergov/sapoc.html"
+   },
+   "text": "The committee's membership in November 1994: 'The SAPOC is chaired by the Honorable John Deutch, DEPSECDEF, with permanent members the Honorable Paul Kaminski USD(A&T), the Honorable Walter Slocombe USD(P), ADM William A. Owens, VCJCS, and the Honorable Emmett Paige Jr., ASD(C3I). BGEN Mike Kostelnik, OUSD(A&T), serves as both member and executive secretary to the SAPOC in his capacity as director of the SAPCO (SAP Coordinating Office). SAPOC membership is not further delegable.'",
+   "tier": 2
+  },
+  "c-0c96e4918d": {
+   "id": "c-0c96e4918d",
+   "kind": "claim",
+   "node": "ousdi",
+   "nodeLabel": "Office of the Under Secretary of Defense for Intelligence",
+   "source": {
+    "domain": null,
+    "text": "Elizondo resignation letter, OSD/JS FOIA 18-F-0324",
+    "url": null
+   },
+   "text": "Elizondo's title within OUSD(I) at resignation was Director, National Programs Special Management Staff, effective date of resignation 4 October 2017.",
+   "tier": 1
+  },
+  "c-0ee5ad44a4": {
+   "id": "c-0ee5ad44a4",
+   "kind": "claim",
+   "node": "manned-orbiting-laboratory",
+   "nodeLabel": "Manned Orbiting Laboratory and the DORIAN / KH-10 reconnaissance payload",
+   "source": {
+    "domain": "www.govinfo.gov",
+    "text": "Spies in Space, NRO CSNR, May 2019, chapter 4, https://www.govinfo.gov/content/pkg/GOVPUB-D-PURL-gpo123652/pdf/GOVPUB-D-PURL-gpo123652.pdf",
+    "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D-PURL-gpo123652/pdf/GOVPUB-D-PURL-gpo123652.pdf"
+   },
+   "text": "The scale of the clearance at termination: 'On 10 June 1969, 13,187 contractor personnel were cleared on MOL and faced reassignment.'",
+   "tier": 1
+  },
+  "c-1150f33928": {
+   "id": "c-1150f33928",
+   "kind": "claim",
+   "node": "d-secrecy-architecture",
+   "nodeLabel": "Secrecy Architecture",
+   "source": {
+    "domain": null,
+    "text": "Inference from DoDD 5205.07 compartmentation policy and Manhattan Project security practice",
+    "url": null
+   },
+   "text": "Compartmentation predicts the exact evidentiary pattern the disclosure fight exhibits - many partial witnesses, no complete one - which means the absence of a single comprehensive whistleblower is a consequence of the architecture rather than evidence against the programme. Reasoning: this is the documented Manhattan Project effect applied to a smaller population.",
+   "tier": 3
+  },
+  "c-17c434d555": {
+   "id": "c-17c434d555",
+   "kind": "claim",
+   "node": "sswg",
+   "nodeLabel": "SAP Senior Working Group (SSWG)",
+   "source": {
+    "domain": "www.esd.whs.mil",
+    "text": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf",
+    "url": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf"
+   },
+   "text": "DoDD 5205.07 (2024) designates the Director, DoD SAPCO as Chair of the SSWG (while also serving as Executive Secretary of the SAPOC and SRG).",
+   "tier": 1
+  },
+  "c-190acd0a2a": {
+   "id": "c-190acd0a2a",
+   "kind": "claim",
+   "node": "gang-of-eight",
+   "nodeLabel": "The Gang of Eight and the limited-notification convention",
+   "source": {
+    "domain": "www.govinfo.gov",
+    "text": "https://www.govinfo.gov/content/pkg/USCODE-2023-title50/html/USCODE-2023-title50-chap44-subchapIII-sec3093.htm ; quoted words are 10 U.S.C. 119(e)(2) — https://www.govinfo.gov/content/pkg/USCODE-2023-title10/html/USCODE-2023-title10-subtitleA-partI-chap2-sec119.htm",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title50/html/USCODE-2023-title50-chap44-subchapIII-sec3093.htm"
+   },
+   "text": "The Gang of Eight is a creature of 50 U.S.C. 3093(c)(2) governing COVERT ACTION findings, not special access programs. The parallel narrowing for DoD SAPs is a different provision with a different membership: 10 U.S.C. 119(e)(2) sends waived-SAP information to 'the chairman and ranking minority member of each of the defense committees' -- the six units defined in 119(g), not the intelligence committees and not congressional leadership.",
+   "tier": 1
+  },
+  "c-1ac30f5fe1": {
+   "id": "c-1ac30f5fe1",
+   "kind": "claim",
+   "node": "us-house",
+   "nodeLabel": "United States House of Representatives",
+   "source": {
+    "domain": null,
+    "text": "CHRG-119hhrg61718, 9 September 2025",
+    "url": null
+   },
+   "text": "Chairwoman Anna Paulina Luna stated on 9 September 2025: 'For a non-committee member to be allowed to view these documents and videos, individual members must be approved by the Chairman and Ranking Member of both HASC and HAC-D.'",
+   "tier": 1
+  },
+  "c-1bef795008": {
+   "id": "c-1bef795008",
+   "kind": "claim",
+   "node": "dod-sapco",
+   "nodeLabel": "DoD Special Access Program Central Office (DoD SAPCO)",
+   "source": {
+    "domain": "web.archive.org",
+    "text": "https://web.archive.org/web/20220322050205/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf",
+    "url": "https://web.archive.org/web/20220322050205/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf"
+   },
+   "text": "One office holds: single-point congressional liaison, custody of the record of what was told to Congress, access-approval authority for all SAPs, and the coordination point for White House, NSC, judicial and political-appointee access to waived programs. Every external route into a waived DoD SAP -- legislative, executive and judicial -- transits the same desk, which reports to the Deputy Secretary of Defense and to no one outside the Department. Reasoning stated from DoDD 5205.07 (2010) paras 4.c, 4.e and Enclosure 3 Notes 2-4.",
+   "tier": 3
+  },
+  "c-220bbc2a45": {
+   "id": "c-220bbc2a45",
+   "kind": "claim",
+   "node": "dod-sapco",
+   "nodeLabel": "DoD Special Access Program Central Office (DoD SAPCO)",
+   "source": {
+    "domain": null,
+    "text": "DoDI 5205.11 Enclosure 2; DoDD 5205.07 (2010) paras 4.c and 4.e",
+    "url": null
+   },
+   "text": "DoD SAPCO is simultaneously the office that (a) writes the criteria for reviewing waived programs, (b) confirms which contractor facilities are carved out of DCSA oversight, (c) is the single point of congressional liaison, and (d) must approve any contractor's provision of SAP material to a member of Congress. Those four functions in one office, reporting to the official who signs the waivers, is the structural definition of a closed loop. Reasoning: enumeration of the four responsibilities from DoDI 5205.11 and DoDD 5205.07.",
+   "tier": 3
+  },
+  "c-22ceb980de": {
+   "id": "c-22ceb980de",
+   "kind": "claim",
+   "node": "sapoc",
+   "nodeLabel": "Special Access Program Oversight Committee (SAPOC)",
+   "source": {
+    "domain": null,
+    "text": "DoDI 5205.11, Enclosure 3, para 2.a",
+    "url": null
+   },
+   "text": "DoDI 5205.11 Enclosure 3: SAPOC membership is Chair - the Deputy Secretary of Defense; Vice-Chair - USD(AT&L); Executive Secretary - Director, DoD SAPCO; with general membership USD(P), USD(C)/CFO, USD(I), USD(P&R), the Vice Chairman of the Joint Chiefs of Staff, DoD CIO, GC DoD, DCAPE, the Under Secretaries of the Army, Navy and Air Force, the Vice Chiefs of Staff of the Army and Air Force, the Vice Chief of Naval Operations and the Assistant Commandant of the Marine Corps.",
+   "tier": 1
+  },
+  "c-23dda2baed": {
+   "id": "c-23dda2baed",
+   "kind": "claim",
+   "node": "dod-sapco",
+   "nodeLabel": "DoD Special Access Program Central Office (DoD SAPCO)",
+   "source": {
+    "domain": null,
+    "text": "DoD Directive 5205.07, 12 September 2024",
+    "url": null
+   },
+   "text": "DoDD 5205.07 requires personnel to notify the Director, DoD SAPCO and the OA SAPCO directors when briefing Congress or congressional staff with SAP material, and bars contractors from providing such material without specific approval.",
+   "tier": 1
+  },
+  "c-26d2cda30e": {
+   "id": "c-26d2cda30e",
+   "kind": "claim",
+   "node": "dod-sapco",
+   "nodeLabel": "DoD Special Access Program Central Office (DoD SAPCO)",
+   "source": {
+    "domain": null,
+    "text": "DoD Directive 5205.07, 12 September 2024",
+    "url": null
+   },
+   "text": "The 12 September 2024 issuance of DoDD 5205.07 reissues and cancels the 1 July 2010 directive and incorporates the Deputy Secretary of Defense memorandum on SAP Enterprise Reform of 11 July 2023.",
+   "tier": 1
+  },
+  "c-283986b2a2": {
+   "id": "c-283986b2a2",
+   "kind": "claim",
+   "node": "dodi-5205-11",
+   "nodeLabel": "DoDI 5205.11 - Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)",
+   "source": {
+    "domain": "www.esd.whs.mil",
+    "text": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf",
+    "url": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf"
+   },
+   "text": "PERIODIC REVIEW OF WAIVED STATUS EXISTS. Para 3.5.a.(3)(d) makes the SAPOC annual review cover 'All waived DoD SAPs to determine the need for continued waived status,' as part of the 3.5.a.(3) mandate to 'Conduct an annual review of DoD SAPs to assess the continuing need for protection of CPI within SAP security controls, in accordance with E.O. 13526 and DoDD 5205.07.'",
+   "tier": 1
+  },
+  "c-291c220139": {
+   "id": "c-291c220139",
+   "kind": "claim",
+   "node": "srg-dod",
+   "nodeLabel": "Senior Review Group (DoD SAP governance)",
+   "source": {
+    "domain": null,
+    "text": "DoDI 5205.11, Enclosure 3, para 3.b(1)",
+    "url": null
+   },
+   "text": "DoDI 5205.11 Enclosure 3 para 3.b(1) lists SRG review of proposals to establish or disestablish SAPs, designation of oversight and cognizant authorities, removal of programs from special access controls, IJSTO apportionment, alteration of a SAP's scope, category or type, and review of foreign access and participation.",
+   "tier": 1
+  },
+  "c-2c4cc10bb0": {
+   "id": "c-2c4cc10bb0",
+   "kind": "claim",
+   "node": "dodi-5205-11",
+   "nodeLabel": "DoDI 5205.11 - Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)",
+   "source": {
+    "domain": "www.esd.whs.mil",
+    "text": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf",
+    "url": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf"
+   },
+   "text": "WHO GETS TOLD. Para 7.2.a.(3): 'Only the chair, the ranking member, the staff directors, and one designated security manager of the defense and intelligence committees will be authorized access to waived DoD SAPs.' Para 7.2.b.: 'Members of Congress assigned to the defense and intelligence committees are authorized access to all DoD SAPs within the respective committee's SAP oversight jurisdiction, except for waived programs.'",
+   "tier": 1
+  },
+  "c-2ca09d2f5c": {
+   "id": "c-2ca09d2f5c",
+   "kind": "claim",
+   "node": "sapoc",
+   "nodeLabel": "Special Access Program Oversight Committee (SAPOC)",
+   "source": {
+    "domain": "www.esd.whs.mil",
+    "text": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf",
+    "url": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf"
+   },
+   "text": "DoDI 5205.11 para 3.5.a.(3): the SAPOC shall 'Conduct an annual review of DoD SAPs to assess the continuing need for protection of CPI within SAP security controls, in accordance with E.O. 13526 and DoDD 5205.07', and para 3.5.a.(3)(d) extends that review to 'All waived DoD SAPs to determine the need for continued waived status.'",
+   "tier": 1
+  },
+  "c-2cc7ffd8de": {
+   "id": "c-2cc7ffd8de",
+   "kind": "claim",
+   "node": "sapoc",
+   "nodeLabel": "Special Access Program Oversight Committee (SAPOC)",
+   "source": {
+    "domain": null,
+    "text": "DoDD 5205.07 (2024), section 3.2.a",
+    "url": null
+   },
+   "text": "DoDD 5205.07 (12 September 2024) retains the SAPOC as 'the senior governing body of the DoD SAP Enterprise for governance, management, and oversight of DoD SAPs', chaired by the Deputy Secretary of Defense.",
+   "tier": 1
+  },
+  "c-351e4fb62e": {
+   "id": "c-351e4fb62e",
+   "kind": "claim",
+   "node": "sapoc",
+   "nodeLabel": "Special Access Program Oversight Committee (SAPOC)",
+   "source": {
+    "domain": "www.esd.whs.mil",
+    "text": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf",
+    "url": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf"
+   },
+   "text": "DoDD 5205.07 (2024) retains the SAPOC as the 'senior governing body' ensuring SAPs 'meet warfighter needs while protecting CPI', chaired by the Deputy Secretary of Defense with the Director, DoD SAPCO as Executive Secretary.",
+   "tier": 1
+  },
+  "c-3e8f621578": {
+   "id": "c-3e8f621578",
+   "kind": "claim",
+   "node": "dod-sapco",
+   "nodeLabel": "DoD Special Access Program Central Office (DoD SAPCO)",
+   "source": {
+    "domain": "www.esd.whs.mil",
+    "text": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf",
+    "url": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf"
+   },
+   "text": "DoDD 5205.07 (2024) restates it: the Director, DoD SAPCO, 'under the authority, direction, and control of the Deputy Secretary of Defense, will be a general officer, flag officer, or Senior Executive Service member or equivalent appointed to oversee day-to-day management of the SAP Enterprise,' serves as proponent for SAP policy, as Executive Secretary of the SAPOC and SRG, as Chair of the SSWG, and as 'primary point of contact for congressional matters', and 'Maintains records of DoD SAP information provided to Congress.'",
+   "tier": 1
+  },
+  "c-3fa79e31ef": {
+   "id": "c-3fa79e31ef",
+   "kind": "claim",
+   "node": "d-secrecy-architecture",
+   "nodeLabel": "Secrecy Architecture",
+   "source": {
+    "domain": null,
+    "text": "DoD Directive 5205.07",
+    "url": null
+   },
+   "text": "DoD Directive 5205.07 defines unacknowledged SAPs, in which the existence of the programme itself is protected, and waived SAPs, for which congressional reporting is limited to eight named members.",
+   "tier": 1
+  },
+  "c-4286818359": {
+   "id": "c-4286818359",
+   "kind": "claim",
+   "node": "neill-tipton",
+   "nodeLabel": "Neill Tipton",
+   "source": {
+    "domain": null,
+    "text": "DoD emails released under FOIA, published by The Black Vault",
+    "url": null
+   },
+   "text": "Wrote on 7 May 2019: 'Elizondo had no assigned responsibilities for this program... At the time he was assigned to me, he brought with him no responsibilities for AATIP.'",
+   "tier": 1
+  },
+  "c-4778246204": {
+   "id": "c-4778246204",
+   "kind": "claim",
+   "node": "gang-of-eight",
+   "nodeLabel": "The Gang of Eight and the limited-notification convention",
+   "source": {
+    "domain": null,
+    "text": "50 U.S.C. 3093(c)(5)(B)",
+    "url": null
+   },
+   "text": "50 U.S.C. 3093(c)(5)(B) requires that not later than 180 days after a statement of reasons for limited access, the President ensure either that all members of the intelligence committees are provided access to the finding or notification, or that a further statement of reasons is submitted to the Gang of Eight.",
+   "tier": 1
+  },
+  "c-4ae369480c": {
+   "id": "c-4ae369480c",
+   "kind": "claim",
+   "node": "sapoc",
+   "nodeLabel": "Special Access Program Oversight Committee (SAPOC)",
+   "source": {
+    "domain": "sgp.fas.org",
+    "text": "Deputy Secretary of Defense, Special Access Program Oversight Committee, Information Bulletin, November 1994, as transcribed at https://sgp.fas.org/othergov/sapoc.html",
+    "url": "https://sgp.fas.org/othergov/sapoc.html"
+   },
+   "text": "The committee was established on 5 January 1994, sixteen years before the directive this node cites. A Deputy Secretary of Defense information bulletin of November 1994 states: 'On January 5th, 1994, the Deputy Secretary of Defense (DEPSECDEF) significantly enhanced changes in the DoD Special Access Program (SAP) management and control structures. ... The plan standardized and formalized the SAP approval, termination, revalidation and restructuring process through the Special Access Program Oversight Committee (SAPOC). A Senior Review Group (SRG) was established to support the SAPOC principals.' Tier 2 because the text opened is a transcription published by the Federation of American Scientists and no scan of the original bulletin was found from this environment.",
+   "tier": 2
+  },
+  "c-4bad42ffc3": {
+   "id": "c-4bad42ffc3",
+   "kind": "claim",
+   "node": "srg-dod",
+   "nodeLabel": "Senior Review Group (DoD SAP governance)",
+   "source": {
+    "domain": null,
+    "text": "DoDI 5205.11, Enclosure 3, para 3",
+    "url": null
+   },
+   "text": "DoDI 5205.11 Enclosure 3 para 3: 'The SRG is the principal working-level body executing the governance process and performing oversight and management of DoD SAPs. Unanimous recommendations of the SRG may be forwarded directly to the DepSecDef for decision.'",
+   "tier": 1
+  },
+  "c-4ceadb9ef8": {
+   "id": "c-4ceadb9ef8",
+   "kind": "claim",
+   "node": "manhattan-project-2",
+   "nodeLabel": "'Manhattan Project 2.0' (alleged secrecy architecture)",
+   "source": {
+    "domain": null,
+    "text": "UAP Gerb, 'Special Access Required' Vol.2, 19 June 2026",
+    "url": null
+   },
+   "text": "The portfolio exploits loopholes in White House SAPs and NSC Covert Action Programs to operate 'Non-Covert Action Programs' with managed need-to-know access, full SAP security protocols and completely waived reporting and budgetary requirements.",
+   "tier": 2
+  },
+  "c-4d1bd0cdc3": {
+   "id": "c-4d1bd0cdc3",
+   "kind": "claim",
+   "node": "sapoc",
+   "nodeLabel": "Special Access Program Oversight Committee (SAPOC)",
+   "source": {
+    "domain": "web.archive.org",
+    "text": "https://web.archive.org/web/20220322050205/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf",
+    "url": "https://web.archive.org/web/20220322050205/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf"
+   },
+   "text": "DoDD 5205.07 (2010) para 4.b: 'The Special Access Program Oversight Committee (SAPOC), hereby established, shall advise and assist the Secretary of Defense (SecDef) and the Deputy Secretary of Defense with governance, management, and oversight of DoD SAPs, as provided in Enclosure 2.'",
+   "tier": 1
+  },
+  "c-549434bcb0": {
+   "id": "c-549434bcb0",
+   "kind": "claim",
+   "node": "neill-tipton",
+   "nodeLabel": "Neill Tipton",
+   "source": {
+    "domain": null,
+    "text": "DoD emails released under FOIA, published by The Black Vault",
+    "url": null
+   },
+   "text": "The same email chain contains an official warning that 'the Department may be putting itself in an awkward position of both contradicting previous statements' and a directive that 'we will have to keep our messages in synch.'",
+   "tier": 1
+  },
+  "c-5624905102": {
+   "id": "c-5624905102",
+   "kind": "claim",
+   "node": "dodi-5205-11",
+   "nodeLabel": "DoDI 5205.11 - Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)",
+   "source": {
+    "domain": "www.esd.whs.mil",
+    "text": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf",
+    "url": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf"
+   },
+   "text": "Para 4.1.a.(2): 'Within 45 calendar days of creation of the SAP project, the CA will submit' the required documentation — establishing an internal 45-day paper deadline for new SAP projects, distinct from the statutory 30-day congressional pre-initiation notice under 10 U.S.C. 119(f).",
+   "tier": 1
+  },
+  "c-57c422baf7": {
+   "id": "c-57c422baf7",
+   "kind": "claim",
+   "node": "manned-orbiting-laboratory",
+   "nodeLabel": "Manned Orbiting Laboratory and the DORIAN / KH-10 reconnaissance payload",
+   "source": {
+    "domain": "www.govinfo.gov",
+    "text": "Spies in Space, NRO CSNR, May 2019, foreword, https://www.govinfo.gov/content/pkg/GOVPUB-D-PURL-gpo123652/pdf/GOVPUB-D-PURL-gpo123652.pdf",
+    "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D-PURL-gpo123652/pdf/GOVPUB-D-PURL-gpo123652.pdf"
+   },
+   "text": "The declassification is dated and quantified in the NRO's own words: on 22 October 2015 the CSNR held a panel at the National Museum of the United States Air Force 'on the occasion of the NRO declassifying almost its entire collection of records on the Dorian program. There were over 850 documents with some 22,000 pages and 280 photographs.'",
+   "tier": 1
+  },
+  "c-6ea53c64b3": {
+   "id": "c-6ea53c64b3",
+   "kind": "claim",
+   "node": "ousdi",
+   "nodeLabel": "Office of the Under Secretary of Defense for Intelligence",
+   "source": {
+    "domain": null,
+    "text": "Packet presented to DEPSECDEF, 17 November 2009",
+    "url": null
+   },
+   "text": "USD(I) James Clapper recommended against establishing a Special Access Program for the program in November 2009.",
+   "tier": 1
+  },
+  "c-73526a3692": {
+   "id": "c-73526a3692",
+   "kind": "claim",
+   "node": "gao-nsiad-88-152",
+   "nodeLabel": "GAO/NSIAD-88-152 - Special Access Programs: DOD Criteria and Procedures for Creating Them Need Improvement",
+   "source": {
+    "domain": "www.gao.gov",
+    "text": "GAO/NSIAD-88-152, transmittal letter, https://www.gao.gov/assets/nsiad-88-152.pdf",
+    "url": "https://www.gao.gov/assets/nsiad-88-152.pdf"
+   },
+   "text": "GAO's central finding: 'We found that the Department of Defense does not adequately follow criteria to be used in determining the need to establish programs as special accessrequired. The definition of special accessprograms is not clear within the Department of Defense and, until recently, the oversight role of the Office of the Secretary of Defense in the programs' creation has been limited.'",
+   "tier": 1
+  },
+  "c-77cca805a5": {
+   "id": "c-77cca805a5",
+   "kind": "claim",
+   "node": "saf-aaz",
+   "nodeLabel": "SAF/AAZ - Air Force Declassification & Special Programs",
+   "source": {
+    "domain": null,
+    "text": "AFI 16-701, paras. 2.1.2.6-2.1.2.7",
+    "url": null
+   },
+   "text": "SAF/AAZ serves as Designated Accreditation Authority for all SAP information systems and as access approval authority for all SAPs, approving waivers for SAP access; both authorities may be delegated only in writing and must be revalidated annually.",
+   "tier": 1
+  },
+  "c-791e1d600a": {
+   "id": "c-791e1d600a",
+   "kind": "claim",
+   "node": "dodi-5205-11",
+   "nodeLabel": "DoDI 5205.11 - Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)",
+   "source": {
+    "domain": "www.esd.whs.mil",
+    "text": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf",
+    "url": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf"
+   },
+   "text": "Para 5.1.e.(1): 'The use of a polygraph examination as a mandatory access determination requirement must be approved by the Secretary of Defense.' Mandatory-polygraph SAP access is a Secretary-level decision, which makes the presence of a polygraph requirement a marker of a program that reached the top of the department.",
+   "tier": 1
+  },
+  "c-79deadfcaa": {
+   "id": "c-79deadfcaa",
+   "kind": "claim",
+   "node": "dodi-5205-11",
+   "nodeLabel": "DoDI 5205.11 - Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)",
+   "source": {
+    "domain": "www.esd.whs.mil",
+    "text": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf",
+    "url": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf"
+   },
+   "text": "Para 7.1.: 'All DoD employees accessed to DoD SAPs will coordinate with and notify the DoD and OA SAPCOs through the CA SAPCO when intending to brief or provide DoD SAP material to any appropriately accessed members of Congress or professional staff member.' A cleared DoD employee cannot lawfully brief even an accessed member of Congress without first routing notice through the SAP's own control office.",
+   "tier": 1
+  },
+  "c-7df53f436b": {
+   "id": "c-7df53f436b",
+   "kind": "claim",
+   "node": "dodi-5205-11",
+   "nodeLabel": "DoDI 5205.11 - Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)",
+   "source": {
+    "domain": null,
+    "text": "DoDI 5205.11, Appendix 2 to Enclosure 6, Figure 3",
+    "url": null
+   },
+   "text": "DoDI 5205.11 SAP Approval Package Checklist item 2: 'Type, Category, and Classification of SAP. If unacknowledged and reporting requirements are to be waived, attach justification to waive the requirements of Volumes 2A and 2B of DoD 7000.14-R.'",
+   "tier": 1
+  },
+  "c-7ff5893738": {
+   "id": "c-7ff5893738",
+   "kind": "claim",
+   "node": "us-house",
+   "nodeLabel": "United States House of Representatives",
+   "source": {
+    "domain": null,
+    "text": "CHRG-119hhrg61718, 9 September 2025",
+    "url": null
+   },
+   "text": "Chairwoman Luna stated: 'A major barrier to this Committee's inquiry into UAPs has been the lack of cooperation and transparency from the Department of Defense and the intelligence community.'",
+   "tier": 1
+  },
+  "c-801ce6aaeb": {
+   "id": "c-801ce6aaeb",
+   "kind": "claim",
+   "node": "dod-sap-reform-1994",
+   "nodeLabel": "DoD special access programme governance change, 5 January 1994",
+   "source": {
+    "domain": "sgp.fas.org",
+    "text": "Deputy Secretary of Defense, Special Access Program Oversight Committee, Information Bulletin, November 1994, as transcribed at https://sgp.fas.org/othergov/sapoc.html",
+    "url": "https://sgp.fas.org/othergov/sapoc.html"
+   },
+   "text": "The change and its date: 'On January 5th, 1994, the Deputy Secretary of Defense (DEPSECDEF) significantly enhanced changes in the DoD Special Access Program (SAP) management and control structures. ... The plan standardized and formalized the SAP approval, termination, revalidation and restructuring process through the Special Access Program Oversight Committee (SAPOC). A Senior Review Group (SRG) was established to support the SAPOC principals.' Tier 2 because the text opened is a transcription published by the Federation of American Scientists and no scan of the original bulletin was found from this environment.",
+   "tier": 2
+  },
+  "c-81b2d1541b": {
+   "id": "c-81b2d1541b",
+   "kind": "claim",
+   "node": "dodi-5205-11",
+   "nodeLabel": "DoDI 5205.11 - Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)",
+   "source": {
+    "domain": "www.esd.whs.mil",
+    "text": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf",
+    "url": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf"
+   },
+   "text": "The structural/content distinction is load-bearing for any search of SAP nomenclature: a structural SAP is a container with a codeword and no content of its own, so a program name appearing in budget or security documentation may correspond to no discrete body of protected information at all. Conversely, discrete CPI can be moved between compartments under an unchanged tier-1 umbrella name without any tier-1 action reaching the Secretary. Reasoning stated from the 1.2 tier description.",
+   "tier": 3
+  },
+  "c-82082c8689": {
+   "id": "c-82082c8689",
+   "kind": "claim",
+   "node": "steve-feinberg",
+   "nodeLabel": "Stephen A. Feinberg",
+   "source": {
+    "domain": null,
+    "text": "war.gov About page, retrieved 12 August 2026",
+    "url": null
+   },
+   "text": "The Department lists Steve Feinberg as Deputy Secretary of Defense under Secretary Pete Hegseth.",
+   "tier": 1
+  },
+  "c-835365fdc4": {
+   "id": "c-835365fdc4",
+   "kind": "claim",
+   "node": "gao-nsiad-88-152",
+   "nodeLabel": "GAO/NSIAD-88-152 - Special Access Programs: DOD Criteria and Procedures for Creating Them Need Improvement",
+   "source": {
+    "domain": "www.gao.gov",
+    "text": "GAO/NSIAD-88-152, Results in Brief, https://www.gao.gov/assets/nsiad-88-152.pdf",
+    "url": "https://www.gao.gov/assets/nsiad-88-152.pdf"
+   },
+   "text": "Nobody held a list: 'The Deputy Under Secretary of Defense for Policy is required to maintain a listing of all special access programs, but does not do so because of security concerns.' GAO adds that 'the Secretary's Office has no centralized office with cognizance of all special access programs'.",
+   "tier": 1
+  },
+  "c-89e3241afd": {
+   "id": "c-89e3241afd",
+   "kind": "claim",
+   "node": "ic-sapco",
+   "nodeLabel": "Intelligence Community special access program control office enterprise",
+   "source": {
+    "domain": null,
+    "text": "Inference from the scope of 10 U.S.C. 119 read against AARO's three-enterprise description",
+    "url": null
+   },
+   "text": "A program carried in the IC control-office enterprise would not appear in the 10 U.S.C. 119 report to the defense committees, which means a member relying on the DoD SAP list cannot rule out its existence. Reasoning: 10 U.S.C. 119 by its terms governs Department of Defense special access programs and reports to the defense committees.",
+   "tier": 3
+  },
+  "c-8e70eb29fa": {
+   "id": "c-8e70eb29fa",
+   "kind": "claim",
+   "node": "ousdi",
+   "nodeLabel": "Office of the Under Secretary of Defense for Intelligence",
+   "source": {
+    "domain": null,
+    "text": "Susan Gough, 13 June 2019",
+    "url": null
+   },
+   "text": "DoD states 'Mr. Elizondo had no assigned responsibilities for AATIP while he was in OUSD(I). DIA administered AATIP, and Elizondo was never assigned to DIA.'",
+   "tier": 1
+  },
+  "c-8ef7bbf6ef": {
+   "id": "c-8ef7bbf6ef",
+   "kind": "claim",
+   "node": "dod-sapco",
+   "nodeLabel": "DoD Special Access Program Central Office (DoD SAPCO)",
+   "source": {
+    "domain": null,
+    "text": "AARO Historical Record Report Volume I, p. 34",
+    "url": null
+   },
+   "text": "AARO states it 'established a partnership with the Special Access Program Control Offices for the DoD, IC, and DHS to review programs identified in interviews by name or description' and that 'AARO investigators have been granted full access to all pertinent sensitive USG programs'.",
+   "tier": 1
+  },
+  "c-906dc47db3": {
+   "id": "c-906dc47db3",
+   "kind": "claim",
+   "node": "srg-dod",
+   "nodeLabel": "Senior Review Group (DoD SAP governance)",
+   "source": {
+    "domain": null,
+    "text": "DoDI 5205.11, Enclosure 3",
+    "url": null
+   },
+   "text": "DoDI 5205.11 Enclosure 3 para 3.b(4)-(5): the SRG 'Reviews all waived DoD SAPs annually' and 'Ensures the accuracy of the SAP list submitted to Congress prior to submission of the SAP annual report.'",
+   "tier": 1
+  },
+  "c-9143331ff1": {
+   "id": "c-9143331ff1",
+   "kind": "claim",
+   "node": "saf-aaz",
+   "nodeLabel": "SAF/AAZ - Air Force Declassification & Special Programs",
+   "source": {
+    "domain": null,
+    "text": "AFI 16-701, para. 1 scope/applicability",
+    "url": null
+   },
+   "text": "AFI 16-701 (18 February 2014, 48 pages) identifies SAF/AAZ as 'the Secretary of the Air Force, Security, Counterintelligence, and Special Program Oversight' and requires all supplements to the instruction to be routed to SAF/AAZ for coordination before certification and approval.",
+   "tier": 1
+  },
+  "c-9144d83ac2": {
+   "id": "c-9144d83ac2",
+   "kind": "claim",
+   "node": "dodi-5205-11",
+   "nodeLabel": "DoDI 5205.11 - Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)",
+   "source": {
+    "domain": null,
+    "text": "DoDI 5205.11, Appendix 1 to Enclosure 6, Figure 2",
+    "url": null
+   },
+   "text": "DoDI 5205.11 Enclosure 6 PSAP timeline: 'NLT P+180 - DepSecDef decision. Congressional notification or PSAP termination as appropriate. NLT P+210 - End of 30-day period without Congressional decision.'",
+   "tier": 1
+  },
+  "c-925b4c639c": {
+   "id": "c-925b4c639c",
+   "kind": "claim",
+   "node": "gao-nsiad-88-152",
+   "nodeLabel": "GAO/NSIAD-88-152 - Special Access Programs: DOD Criteria and Procedures for Creating Them Need Improvement",
+   "source": {
+    "domain": "www.gao.gov",
+    "text": "GAO/NSIAD-88-152, Recommendations section, https://www.gao.gov/assets/nsiad-88-152.pdf",
+    "url": "https://www.gao.gov/assets/nsiad-88-152.pdf"
+   },
+   "text": "The Army reform is dated to 1983-84, not 1994: 'A DOD review of Army special access programs in 1983 revealed systemic weaknesses in various management areas, which resulted in establishment of a central oversight office in September 1984.'",
+   "tier": 1
+  },
+  "c-9da82f8115": {
+   "id": "c-9da82f8115",
+   "kind": "claim",
+   "node": "d-secrecy-architecture",
+   "nodeLabel": "Secrecy Architecture",
+   "source": {
+    "domain": null,
+    "text": "House Oversight Committee hearing, 26 July 2023",
+    "url": null
+   },
+   "text": "David Grusch testified before the House Oversight Committee on 26 July 2023 that he was denied access to programmes he had been directed to investigate, and that access denial itself was used as a concealment mechanism.",
+   "tier": 2
+  },
+  "c-a0f843e2b2": {
+   "id": "c-a0f843e2b2",
+   "kind": "claim",
+   "node": "dod-sapco",
+   "nodeLabel": "DoD Special Access Program Central Office (DoD SAPCO)",
+   "source": {
+    "domain": null,
+    "text": "DoD Directive 5205.07, 12 September 2024",
+    "url": null
+   },
+   "text": "DoDD 5205.07 (12 September 2024) establishes DoD SAPCO 'under the authority, direction, and control of the Deputy Secretary of Defense', with a Director who must be a general officer, flag officer or SES member reporting directly to DEPSECDEF.",
+   "tier": 1
+  },
+  "c-a574d44ca1": {
+   "id": "c-a574d44ca1",
+   "kind": "claim",
+   "node": "dodi-5205-11",
+   "nodeLabel": "DoDI 5205.11 - Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)",
+   "source": {
+    "domain": "www.esd.whs.mil",
+    "text": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf",
+    "url": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf"
+   },
+   "text": "Header: DoD Instruction 5205.11, 'Management, Administration, and Oversight of DoD Special Access Programs'; effective September 12, 2024; reissues and cancels DoDI 5205.11, February 6, 2013, as amended; also incorporates and cancels the Deputy Secretary of Defense Memorandum, 'Integrated Joint Special Technical Operations (IJSTO) Policy', April 5, 2021; approved by Kathleen H. Hicks, Deputy Secretary of Defense.",
+   "tier": 1
+  },
+  "c-a5920c18f1": {
+   "id": "c-a5920c18f1",
+   "kind": "claim",
+   "node": "steve-feinberg",
+   "nodeLabel": "Stephen A. Feinberg",
+   "source": {
+    "domain": null,
+    "text": "Inference from DoDD 5205.07",
+    "url": null
+   },
+   "text": "The Deputy Secretary of Defense is the lowest-ranking official who can answer, from position alone, whether any waived unacknowledged SAP relates to UAP. Reasoning: DoDD 5205.07 gives the office unmediated visibility of the full SAP portfolio.",
+   "tier": 3
+  },
+  "c-a85641b1b5": {
+   "id": "c-a85641b1b5",
+   "kind": "claim",
+   "node": "dod-sapco",
+   "nodeLabel": "DoD Special Access Program Central Office (DoD SAPCO)",
+   "source": {
+    "domain": null,
+    "text": "DoDD 5205.07 (2024), Director DoD SAPCO responsibilities",
+    "url": null
+   },
+   "text": "DoDD 5205.07 (2024) makes the Director, DoD SAPCO Executive Secretary of the SAPOC and the SRG and Chair of the SSWG, reporting directly to the Deputy Secretary of Defense.",
+   "tier": 1
+  },
+  "c-a946b87240": {
+   "id": "c-a946b87240",
+   "kind": "claim",
+   "node": "sapoc",
+   "nodeLabel": "Special Access Program Oversight Committee (SAPOC)",
+   "source": {
+    "domain": null,
+    "text": "DoDI 5205.11 Enclosure 3 read against 10 U.S.C. 119",
+    "url": null
+   },
+   "text": "Because the SAPOC both validates the congressional SAP report and sits under the official who approves carve-outs and waivers, the Department's account of its own special access programs is produced entirely inside the compartment it describes, with no external validator at any point. Reasoning: DoDI 5205.11 Enclosure 3 gives the annual validation to the SAPOC and no issuance assigns any external body a concurrent validation role.",
+   "tier": 3
+  },
+  "c-b083617cef": {
+   "id": "c-b083617cef",
+   "kind": "claim",
+   "node": "sswg",
+   "nodeLabel": "SAP Senior Working Group (SSWG)",
+   "source": {
+    "domain": null,
+    "text": "DoDI 5205.11, Appendix 1 to Enclosure 6",
+    "url": null
+   },
+   "text": "DoDI 5205.11 PSAP timeline: 'NLT P+14 - SSWG reviews PSAP - Programmatic deconfliction - Validation - Written recommendation.'",
+   "tier": 1
+  },
+  "c-b1348f6480": {
+   "id": "c-b1348f6480",
+   "kind": "claim",
+   "node": "sswg",
+   "nodeLabel": "SAP Senior Working Group (SSWG)",
+   "source": {
+    "domain": null,
+    "text": "DoDI 5205.11, Enclosure 3, para 4",
+    "url": null
+   },
+   "text": "DoDI 5205.11 Enclosure 3 para 4: 'The SSWG serves as the senior program protection forum to coordinate, deconflict, and integrate special programs; address SAP policy, oversight, and management; and provide recommendations to the SRG.'",
+   "tier": 1
+  },
+  "c-b2e834c6bd": {
+   "id": "c-b2e834c6bd",
+   "kind": "claim",
+   "node": "us-house",
+   "nodeLabel": "United States House of Representatives",
+   "source": {
+    "domain": null,
+    "text": "CHRG-119hhrg61718, 9 September 2025",
+    "url": null
+   },
+   "text": "Representative Nancy Mace stated at the same hearing: 'only certain people know the name of the program, and if you do not know it, you cannot get the information.'",
+   "tier": 1
+  },
+  "c-b370486746": {
+   "id": "c-b370486746",
+   "kind": "claim",
+   "node": "ic-sapco",
+   "nodeLabel": "Intelligence Community special access program control office enterprise",
+   "source": {
+    "domain": null,
+    "text": "AARO Historical Record Report Volume I, p. 34",
+    "url": null
+   },
+   "text": "AARO states it 'established a partnership with the Special Access Program Control Offices for the DoD, IC, and DHS', identifying three distinct SAP control office enterprises.",
+   "tier": 1
+  },
+  "c-b5c725961e": {
+   "id": "c-b5c725961e",
+   "kind": "claim",
+   "node": "sswg",
+   "nodeLabel": "SAP Senior Working Group (SSWG)",
+   "source": {
+    "domain": null,
+    "text": "DoDI 5205.11, Enclosure 3, para 4.a",
+    "url": null
+   },
+   "text": "DoDI 5205.11 Enclosure 3 para 4.a: SSWG membership is the Director, DoD SAPCO as Chair, plus the SAPCO Directors of USD(I), USD(P), USD(AT&L), Army, Air Force, Navy, Marine Corps, the Joint Staff, the Defense Advanced Research Projects Agency and the Missile Defense Agency, and representatives of DCAPE, DoD CIO, USD(C)/CFO and GC DoD.",
+   "tier": 1
+  },
+  "c-bc8ee81018": {
+   "id": "c-bc8ee81018",
+   "kind": "claim",
+   "node": "sapoc",
+   "nodeLabel": "Special Access Program Oversight Committee (SAPOC)",
+   "source": {
+    "domain": null,
+    "text": "DoDI 5205.11, Enclosure 3, para 2.b(3)",
+    "url": null
+   },
+   "text": "DoDI 5205.11 Enclosure 3 para 2.b(3): the SAPOC convenes at the direction of the Deputy Secretary of Defense to 'Conduct an annual review and validation of SAP reports sent to the Congressional defense and intelligence committees.'",
+   "tier": 1
+  },
+  "c-c233aa6ccb": {
+   "id": "c-c233aa6ccb",
+   "kind": "claim",
+   "node": "dodi-5205-11",
+   "nodeLabel": "DoDI 5205.11 - Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)",
+   "source": {
+    "domain": null,
+    "text": "DoDI 5205.11, para 5.d",
+    "url": null
+   },
+   "text": "DoDI 5205.11 para 5.d requires every DoD SAP to be assigned an unclassified nickname generated under CJCSM 3150.29D, and provides that 'Unclassified nicknames will be used in the annual SAP report to Congress.'",
+   "tier": 1
+  },
+  "c-c4ed3e7461": {
+   "id": "c-c4ed3e7461",
+   "kind": "claim",
+   "node": "saf-aaz",
+   "nodeLabel": "SAF/AAZ - Air Force Declassification & Special Programs",
+   "source": {
+    "domain": null,
+    "text": "AFI 16-701, para. 2.1-2.1.2",
+    "url": null
+   },
+   "text": "Para. 2.1 assigns the Director, Security and Special Program Oversight (SAF/AAZ) to serve as principal advisor to SAF/AA for SAPs and as Director, AF SAPCO, developing SAP policy and directing, administering and overseeing the SAP security programme.",
+   "tier": 1
+  },
+  "c-c4f6e35b0b": {
+   "id": "c-c4f6e35b0b",
+   "kind": "claim",
+   "node": "dodi-5205-11",
+   "nodeLabel": "DoDI 5205.11 - Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)",
+   "source": {
+    "domain": "www.esd.whs.mil",
+    "text": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf",
+    "url": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf"
+   },
+   "text": "WHAT MAKES A PROGRAM WAIVED, in DoD's own words. Para 1.2.f.: 'The Secretary of Defense may designate select unacknowledged SAPs as \"waived\" when it is determined that using standard procedures for reporting to Congress would adversely affect national security.' The waiver therefore attaches only to programs that are ALREADY unacknowledged; waived is a subset of unacknowledged, not a parallel category.",
+   "tier": 1
+  },
+  "c-c8c3b85b12": {
+   "id": "c-c8c3b85b12",
+   "kind": "claim",
+   "node": "dodi-5205-11",
+   "nodeLabel": "DoDI 5205.11 - Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)",
+   "source": {
+    "domain": "www.esd.whs.mil",
+    "text": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf",
+    "url": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf"
+   },
+   "text": "TIER ARCHITECTURE. DoDI 5205.11 establishes a tiered SAP structure: umbrellas at tier 1, compartments at tier 2, sub-compartments at tier 3 and below; only the Secretary or Deputy Secretary of Defense may alter tier 1 structures. It distinguishes 'structural SAP: A SAP that provides organization to the architecture and does not protect discrete CPI' from 'content SAP: A SAP that protects discrete CPI.'",
+   "tier": 1
+  },
+  "c-cb297fc745": {
+   "id": "c-cb297fc745",
+   "kind": "claim",
+   "node": "gao-nsiad-88-152",
+   "nodeLabel": "GAO/NSIAD-88-152 - Special Access Programs: DOD Criteria and Procedures for Creating Them Need Improvement",
+   "source": {
+    "domain": "www.gao.gov",
+    "text": "GAO/NSIAD-88-152, Results in Brief, https://www.gao.gov/assets/nsiad-88-152.pdf",
+    "url": "https://www.gao.gov/assets/nsiad-88-152.pdf"
+   },
+   "text": "Creation authority is held by four people: 'Only the three service secretaries and Deputy Under Secretary of Defense for Policy are authorized to establish special access programs.'",
+   "tier": 1
+  },
+  "c-cee85d9b58": {
+   "id": "c-cee85d9b58",
+   "kind": "claim",
+   "node": "gao-nsiad-88-152",
+   "nodeLabel": "GAO/NSIAD-88-152 - Special Access Programs: DOD Criteria and Procedures for Creating Them Need Improvement",
+   "source": {
+    "domain": "www.gao.gov",
+    "text": "GAO/NSIAD-88-152, B-230522, 24 May 1988, transmittal letter, https://www.gao.gov/assets/nsiad-88-152.pdf",
+    "url": "https://www.gao.gov/assets/nsiad-88-152.pdf"
+   },
+   "text": "The report is a summary of a classified one and answers a statute: 'This report is an unclassified summary of a classified report that we sent to you on April 1, 1988.' The review 'is in response to section 1133 of Public Law 100-180, which requires that the Comptroller General report to the defense committees on this subject.'",
+   "tier": 1
+  },
+  "c-cf23cd1c79": {
+   "id": "c-cf23cd1c79",
+   "kind": "claim",
+   "node": "srg-dod",
+   "nodeLabel": "Senior Review Group (DoD SAP governance)",
+   "source": {
+    "domain": null,
+    "text": "DoDI 5205.11, Enclosure 3, para 3.a",
+    "url": null
+   },
+   "text": "DoDI 5205.11 Enclosure 3 para 3.a: SRG Chair is the Principal Deputy Under Secretary of Defense for AT&L; Vice Chair the Director, DoD SAPCO; Executive Secretary the Deputy Director, DoD SAPCO.",
+   "tier": 1
+  },
+  "c-d4ef50f3c6": {
+   "id": "c-d4ef50f3c6",
+   "kind": "claim",
+   "node": "dodi-5205-11",
+   "nodeLabel": "DoDI 5205.11 - Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)",
+   "source": {
+    "domain": "www.esd.whs.mil",
+    "text": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf",
+    "url": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf"
+   },
+   "text": "Para 7.2.f. verbatim: 'The personal staff of a member of Congress will not be granted access to DoD SAPs.' Non-committee members and staff may be granted access only to NON-waived SAPs, and only 'by the Director, DoD SAPCO following consultation with the respective chamber' (7.2.d.). Senate and House leadership may each nominate one professional staff member for access to all DoD SAPs (7.2.e.).",
+   "tier": 1
+  },
+  "c-d6102a1386": {
+   "id": "c-d6102a1386",
+   "kind": "claim",
+   "node": "dod-sapco",
+   "nodeLabel": "DoD Special Access Program Central Office (DoD SAPCO)",
+   "source": {
+    "domain": null,
+    "text": "Inference from AARO Historical Record Report Volume I, p. 34 read against DoDD 5205.07 responsibilities",
+    "url": null
+   },
+   "text": "AARO's assurance of 'full access to all pertinent sensitive USG programs' is unfalsifiable as written, because the determination of which programs are 'pertinent' was made by the same SAPCO enterprise that would be the custodian of any concealed program. Reasoning: the reviewer's scope was set by the reviewed.",
+   "tier": 3
+  },
+  "c-d937d3bfad": {
+   "id": "c-d937d3bfad",
+   "kind": "claim",
+   "node": "gang-of-eight",
+   "nodeLabel": "The Gang of Eight and the limited-notification convention",
+   "source": {
+    "domain": null,
+    "text": "50 U.S.C. 3093(c)(5)(B) compared with 10 U.S.C. 119(e)",
+    "url": null
+   },
+   "text": "The covert action regime contains a mandatory 180-day review of continued limited access; the DoD waived-SAP regime contains no equivalent, so a waived DoD program can remain restricted to a handful of members indefinitely with no statutory event ever forcing reconsideration. Reasoning: 50 U.S.C. 3093(c)(5)(B) has no counterpart in 10 U.S.C. 119(e).",
+   "tier": 3
+  },
+  "c-db2a0dfd40": {
+   "id": "c-db2a0dfd40",
+   "kind": "claim",
+   "node": "dod-sapco",
+   "nodeLabel": "DoD Special Access Program Central Office (DoD SAPCO)",
+   "source": {
+    "domain": "web.archive.org",
+    "text": "https://web.archive.org/web/20220322050205/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf",
+    "url": "https://web.archive.org/web/20220322050205/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf"
+   },
+   "text": "DoDD 5205.07 (2010) para 4.c: 'The DoD SAP Central Office (SAPCO), under the authority, direction, and control of the Deputy Secretary of Defense, is established and is the primary DoD liaison with agencies of the Executive Branch and the Congress on all issues relating to DoD SAPs ... The Director, DoD SAPCO, shall be a flag officer or Senior Executive Service equivalent appointed by the Deputy Secretary of Defense.'",
+   "tier": 1
+  },
+  "c-dbdbc7a823": {
+   "id": "c-dbdbc7a823",
+   "kind": "claim",
+   "node": "dodi-5205-11",
+   "nodeLabel": "DoDI 5205.11 - Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)",
+   "source": {
+    "domain": "www.esd.whs.mil",
+    "text": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf",
+    "url": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf"
+   },
+   "text": "GAO ACCESS IS GATED. Para 7.2.g.: authorized access approval authorities may grant SAP access to GAO staff for specific projects only after the Director, DoD SAPCO consults with the chairman and ranking defense committee members. Congress's own audit arm cannot reach a DoD SAP without the audited department's SAPCO first clearing it with four members.",
+   "tier": 1
+  },
+  "c-dcd357a60c": {
+   "id": "c-dcd357a60c",
+   "kind": "claim",
+   "node": "dodi-5205-11",
+   "nodeLabel": "DoDI 5205.11 - Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)",
+   "source": {
+    "domain": null,
+    "text": "DoDI 5205.11 para 5.d read against 10 U.S.C. 119(a)(2)(B)(i)",
+    "url": null
+   },
+   "text": "Because the annual SAP report to Congress uses only unclassified nicknames, a member reading the list sees a word, not a mission. Reasoning: DoDI 5205.11 para 5.d expressly directs nickname use in the annual report and leaves the codeword optional and classified.",
+   "tier": 3
+  },
+  "c-de2a76adb0": {
+   "id": "c-de2a76adb0",
+   "kind": "claim",
+   "node": "dod-sap-reform-1994",
+   "nodeLabel": "DoD special access programme governance change, 5 January 1994",
+   "source": {
+    "domain": "sgp.fas.org",
+    "text": "Joint Security Commission, 'Redefining Security: A Report to the Secretary of Defense and the Director of Central Intelligence', 28 February 1994, chapter 2, https://sgp.fas.org/library/jsc/chap2.html",
+    "url": "https://sgp.fas.org/library/jsc/chap2.html"
+   },
+   "text": "A commission chartered by the Secretary of Defense and the Director of Central Intelligence corroborated the formation within two months: 'Until recently there has been no procedure for centralized assessment of special program proposals submitted directly to the Deputy Secretary of Defense by the military departments. The recent formation of the DoD Special Access Program Oversight Committee, which the Commission fully supports, will ensure that every program is reviewed by a panel of senior officials prior to its establishment, and annually thereafter, to determine whether compartmentation for each program is still required.'",
+   "tier": 1
+  },
+  "c-ded8b88a4c": {
+   "id": "c-ded8b88a4c",
+   "kind": "claim",
+   "node": "ousdi",
+   "nodeLabel": "Office of the Under Secretary of Defense for Intelligence",
+   "source": {
+    "domain": null,
+    "text": "Inference from the absence of any such document across a decade of FOIA litigation and requests",
+    "url": null
+   },
+   "text": "No AATIP charter, tasking document or organisational chart covering the post-2010 period has ever been released by OUSD(I), which means DoD's denial of Elizondo's role rests entirely on press guidance rather than on any producible record.",
+   "tier": 3
+  },
+  "c-dfe70c4bd0": {
+   "id": "c-dfe70c4bd0",
+   "kind": "claim",
+   "node": "steve-feinberg",
+   "nodeLabel": "Stephen A. Feinberg",
+   "source": {
+    "domain": null,
+    "text": "DoD Directive 5205.07, 12 September 2024",
+    "url": null
+   },
+   "text": "DoDD 5205.07 places DoD SAPCO under the authority, direction and control of the Deputy Secretary of Defense, with the SAPCO Director reporting directly to that office.",
+   "tier": 1
+  },
+  "c-e70e3a86a7": {
+   "id": "c-e70e3a86a7",
+   "kind": "claim",
+   "node": "manned-orbiting-laboratory",
+   "nodeLabel": "Manned Orbiting Laboratory and the DORIAN / KH-10 reconnaissance payload",
+   "source": {
+    "domain": "www.govinfo.gov",
+    "text": "Spies in Space: Reflections on National Reconnaissance and the Manned Orbiting Laboratory, NRO Center for the Study of National Reconnaissance, May 2019, foreword and chapter 3, https://www.govinfo.gov/content/pkg/GOVPUB-D-PURL-gpo123652/pdf/GOVPUB-D-PURL-gpo123652.pdf",
+    "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D-PURL-gpo123652/pdf/GOVPUB-D-PURL-gpo123652.pdf"
+   },
+   "text": "The cover and the mission are described by the agency itself. The NRO's volume says MOL was 'open \"white\" world, but maintained a highly-classified \"black\" mission', with the reconnaissance mission 'codenamed Dorian in the BYEMAN security system', and its foreword calls Dorian 'a deeply classified program managed by the then darkly hidden agency of the Intelligence Community, the National Reconnaissance Office'.",
+   "tier": 1
+  },
+  "c-efb3d4f85f": {
+   "id": "c-efb3d4f85f",
+   "kind": "claim",
+   "node": "neill-tipton",
+   "nodeLabel": "Neill Tipton",
+   "source": {
+    "domain": null,
+    "text": "The Black Vault, 'New Emails Reveal Pentagon Effort to Align Messaging on AATIP and Luis Elizondo'",
+    "url": null
+   },
+   "text": "September 2017 emails show Elizondo drafting a memorandum to help Tipton 'assume the new responsibilities for AATIP' — five years after the Department says AATIP ended.",
+   "tier": 2
+  },
+  "c-f7425cf07c": {
+   "id": "c-f7425cf07c",
+   "kind": "claim",
+   "node": "sapoc",
+   "nodeLabel": "Special Access Program Oversight Committee (SAPOC)",
+   "source": {
+    "domain": "sgp.fas.org",
+    "text": "Deputy Secretary of Defense, SAPOC Information Bulletin, November 1994, https://sgp.fas.org/othergov/sapoc.html",
+    "url": "https://sgp.fas.org/othergov/sapoc.html"
+   },
+   "text": "The 1994 membership was five principals and an executive secretary, not the roughly eighteen of the later instruction: 'The SAPOC is chaired by the Honorable John Deutch, DEPSECDEF, with permanent members the Honorable Paul Kaminski USD(A&T), the Honorable Walter Slocombe USD(P), ADM William A. Owens, VCJCS, and the Honorable Emmett Paige Jr., ASD(C3I). BGEN Mike Kostelnik, OUSD(A&T), serves as both member and executive secretary to the SAPOC in his capacity as director of the SAPCO (SAP Coordinating Office). SAPOC membership is not further delegable.' The node's argument about a large in-house validating body describes the later era, not this one.",
+   "tier": 2
+  },
+  "c-f8c74e7a41": {
+   "id": "c-f8c74e7a41",
+   "kind": "claim",
+   "node": "sapoc",
+   "nodeLabel": "Special Access Program Oversight Committee (SAPOC)",
+   "source": {
+    "domain": "sgp.fas.org",
+    "text": "Joint Security Commission, Redefining Security: A Report to the Secretary of Defense and the Director of Central Intelligence, 28 February 1994, chapter 2, https://sgp.fas.org/library/jsc/chap2.html",
+    "url": "https://sgp.fas.org/library/jsc/chap2.html"
+   },
+   "text": "A commission chartered by the Secretary of Defense and the Director of Central Intelligence corroborated the formation within two months: 'Until recently there has been no procedure for centralized assessment of special program proposals submitted directly to the Deputy Secretary of Defense by the military departments. The recent formation of the DoD Special Access Program Oversight Committee, which the Commission fully supports, will ensure that every program is reviewed by a panel of senior officials prior to its establishment, and annually thereafter, to determine whether compartmentation for each program is still required.'",
+   "tier": 1
+  },
+  "c-fa44e79b33": {
+   "id": "c-fa44e79b33",
+   "kind": "claim",
+   "node": "dod-sap-reform-1994",
+   "nodeLabel": "DoD special access programme governance change, 5 January 1994",
+   "source": {
+    "domain": "sgp.fas.org",
+    "text": "Joint Security Commission, 'Redefining Security', 28 February 1994, chapter 2, https://sgp.fas.org/library/jsc/chap2.html",
+    "url": "https://sgp.fas.org/library/jsc/chap2.html"
+   },
+   "text": "The same chapter records the scale and the carve-outs the board's oversight view argues from: 'Some of the most sensitive DoD programs are \"waived\" or \"carved out\" from certain oversight and administrative requirements. There are over one hundred DoD SAPs, with many having numerous compartments and subcompartments', and each SAP manager 'is free to establish the security rules that will apply to his or her particular program.' On congressional reporting the Commission concluded it saw 'no need to modify existing reporting procedures'.",
+   "tier": 1
+  },
+  "c-fdd0dd736b": {
+   "id": "c-fdd0dd736b",
+   "kind": "claim",
+   "node": "william-b-adkins",
+   "nodeLabel": "William B. Adkins",
+   "source": {
+    "domain": null,
+    "text": "NRO About page, retrieved 12 August 2026",
+    "url": null
+   },
+   "text": "NRO lists William B. Adkins as Acting Director and describes its workforce as 31% NRO cadre, 34% detailed government personnel and 35% military.",
+   "tier": 1
+  },
+  "e-02efd63e7a": {
+   "endpoints": [
+    {
+     "id": "isoo",
+     "label": "Information Security Oversight Office"
+    },
+    {
+     "id": "waived-usap",
+     "label": "Waived unacknowledged special access program (waived USAP)"
+    }
+   ],
+   "id": "e-02efd63e7a",
+   "kind": "edge",
+   "label": "The only external body with a claim of access, and the claim is conditional",
+   "sources": [
+    {
+     "date": "2009-12-29",
+     "name": "Executive Order 13526, Classified National Security Information",
+     "url": "https://www.archives.gov/isoo/policy-documents/cnsi-eo.html"
+    }
+   ],
+   "text": "E.O. 13526 sec. 4.3(b) affords the ISOO Director access to SAPs 'consistent with the policies and procedures directed by the President'.",
+   "tier": 1,
+   "type": "investigative"
+  },
+  "e-041904e17a": {
+   "endpoints": [
+    {
+     "id": "neill-tipton",
+     "label": "Neill Tipton"
+    },
+    {
+     "id": "luis-elizondo",
+     "label": "Luis D. Elizondo"
+    }
+   ],
+   "id": "e-041904e17a",
+   "kind": "edge",
+   "label": "7 May 2019 internal email: 'no assigned responsibilities for this program'",
+   "sources": [
+    {
+     "date": "2023-01-01",
+     "name": "The Black Vault — New Emails Reveal Pentagon Effort to Align Messaging",
+     "url": "https://www.theblackvault.com/documentarchive/new-emails-reveal-pentagon-effort-to-align-messaging-on-aatip-and-luis-elizondo/"
+    }
+   ],
+   "text": "Tipton, Elizondo's superior from about 2010 to 2012, originated the formula two weeks before it went public. Colleagues in the same chain warned the Department risked 'contradicting previous statements'.",
+   "tier": 1,
+   "type": "denial"
+  },
+  "e-0ac0889b58": {
+   "endpoints": [
+    {
+     "id": "dod-sapco",
+     "label": "DoD Special Access Program Central Office (DoD SAPCO)"
+    },
+    {
+     "id": "us-house",
+     "label": "United States House of Representatives"
+    }
+   ],
+   "id": "e-0ac0889b58",
+   "kind": "edge",
+   "label": "Single point of congressional liaison for every DoD special access program",
+   "sources": [
+    {
+     "date": "2018-02-12",
+     "name": "DoD Manual 5205.07 Volume 1, 18 June 2015, Change 1 12 February 2018",
+     "url": "https://web.archive.org/web/20191018064106/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol1.pdf"
+    },
+    {
+     "date": "2024-09-12",
+     "name": "DoD Directive 5205.07, 12 September 2024",
+     "url": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf"
+    }
+   ],
+   "text": "DoDD 5205.07 requires personnel to notify the Director, DoD SAPCO and OA SAPCO directors when briefing Congress or congressional staff with SAP material, and bars contractors from providing such material without specific approval. The office being overseen is notified before the overseer is briefed.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-1670773b6f": {
+   "endpoints": [
+    {
+     "id": "aaro",
+     "label": "All-domain Anomaly Resolution Office (AARO)"
+    },
+    {
+     "id": "dod-sapco",
+     "label": "DoD Special Access Program Central Office (DoD SAPCO)"
+    }
+   ],
+   "id": "e-1670773b6f",
+   "kind": "edge",
+   "label": "AARO's SAP review ran through the DoD SAP control office",
+   "sources": [
+    {
+     "date": "2024-03-08",
+     "name": "AARO Historical Record Report Volume I (DOPSR-2024-0263)",
+     "url": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF"
+    }
+   ],
+   "text": "AARO states it 'established a partnership with the Special Access Program Control Offices for the DoD, IC, and DHS to review programs identified in interviews by name or description' and that 'AARO investigators have been granted full access to all pertinent sensitive USG programs'.",
+   "tier": 1,
+   "type": "investigative"
+  },
+  "e-1cafa00599": {
+   "endpoints": [
+    {
+     "id": "gao-nsiad-88-152",
+     "label": "GAO/NSIAD-88-152 - Special Access Programs: DOD Criteria and Procedures for Creating Them Need Improvement"
+    },
+    {
+     "id": "gao",
+     "label": "Government Accountability Office"
+    }
+   ],
+   "id": "e-1cafa00599",
+   "kind": "edge",
+   "label": "GAO's own report, signed out of the National Security and International Affairs Division under B-230522",
+   "sources": [
+    {
+     "date": "1988-05-24",
+     "name": "GAO/NSIAD-88-152, Special Access Programs: DOD Criteria and Procedures for Creating Them Need Improvement",
+     "url": "https://www.gao.gov/assets/nsiad-88-152.pdf"
+    }
+   ],
+   "text": "The report is GAO's own, signed out of the National Security and International Affairs Division under B-230522.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-2f60ed6ae3": {
+   "endpoints": [
+    {
+     "id": "dod-sap-reform-1994",
+     "label": "DoD special access programme governance change, 5 January 1994"
+    },
+    {
+     "id": "waived-usap",
+     "label": "Waived unacknowledged special access program (waived USAP)"
+    }
+   ],
+   "id": "e-2f60ed6ae3",
+   "kind": "edge",
+   "label": "Waived and carved-out programmes named in a chartered commission's report",
+   "sources": [
+    {
+     "date": "1994-02-28",
+     "name": "Joint Security Commission, Redefining Security, chapter 2",
+     "url": "https://sgp.fas.org/library/jsc/chap2.html"
+    }
+   ],
+   "text": "The Joint Security Commission's chapter 2 states that some of the most sensitive DoD programmes are waived or carved out from certain oversight and administrative requirements, and that there are over one hundred DoD SAPs with numerous compartments.",
+   "tier": 1,
+   "type": "programmatic"
+  },
+  "e-3aca902dec": {
+   "endpoints": [
+    {
+     "id": "ousdi",
+     "label": "Office of the Under Secretary of Defense for Intelligence"
+    },
+    {
+     "id": "odni",
+     "label": "Office of the Director of National Intelligence"
+    }
+   ],
+   "id": "e-3aca902dec",
+   "kind": "edge",
+   "label": "Named contributor to the 2021 ODNI Preliminary Assessment",
+   "sources": [
+    {
+     "date": "2021-06-25",
+     "name": "ODNI, Preliminary Assessment: Unidentified Aerial Phenomena",
+     "url": "https://archive.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf"
+    }
+   ],
+   "text": "ODNI's assessment names USD(I&S) first among contributing elements, confirming the office's cognisance of the UAP reporting stream.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-40a47828ba": {
+   "endpoints": [
+    {
+     "id": "saf-aaz",
+     "label": "SAF/AAZ - Air Force Declassification & Special Programs"
+    },
+    {
+     "id": "us-house",
+     "label": "United States House of Representatives"
+    }
+   ],
+   "id": "e-40a47828ba",
+   "kind": "edge",
+   "label": "Air Force SAP directive bars congressional briefings without SAPCO approval",
+   "sources": [
+    {
+     "date": "2014-02-18",
+     "name": "Air Force Instruction 16-701, Management, Administration and Oversight of Special Access Programs, 18 Feb 2014 (OPR SAF/AAZE; certified by SAF/AAZ) - AF e-Publishing PDF via Internet Archive",
+     "url": "https://web.archive.org/web/20250206005028/https://static.e-publishing.af.mil/production/1/saf_aa/publication/afi16-701/afi16-701.pdf"
+    },
+    {
+     "date": null,
+     "name": "Air Force Policy Directive 16-7, 'Special Access Programs,' December 29, 2010 -- https://irp.fas.org/doddir/usaf/afpd16-7.pdf",
+     "url": ""
+    },
+    {
+     "date": null,
+     "name": "Steven Aftergood, 'Air Force SAP Policy Limits Congressional Contacts,' Federation of American Scientists, January 4, 2011 -- https://fas.org/publication/usaf_sap/",
+     "url": ""
+    }
+   ],
+   "text": "Air Force Policy Directive 16-7, 'Special Access Programs,' 29 December 2010, states: 'It is strictly forbidden for any employee of the Air Force or any appropriately accessed organization or company to brief or provide SAP material to any Congressional Member or staff without DoD SAPCO approval. Additionally, the Director, SAF/AAZ will be kept informed of any interaction with Congress.' This is the documented mechanism behind the recurring complaint that SAP-compartmented material cannot reach non-HASC/HAC-D members.",
+   "tier": 1,
+   "type": "behavioral"
+  },
+  "e-414f10a49e": {
+   "endpoints": [
+    {
+     "id": "dodd-5205-07-2010",
+     "label": "DoDD 5205.07, Special Access Program (SAP) Policy (1 Jul 2010, Chg 2 of 4 Feb 2020)"
+    },
+    {
+     "id": "dod-sapco",
+     "label": "DoD Special Access Program Central Office (DoD SAPCO)"
+    }
+   ],
+   "id": "e-414f10a49e",
+   "kind": "edge",
+   "label": "Established DoD SAPCO under the Deputy Secretary of Defense",
+   "sources": [
+    {
+     "date": "2018-08-31",
+     "name": "DoD Directive 5205.07, 1 July 2010, Change 1 31 August 2018",
+     "url": "https://web.archive.org/web/20190922210932/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf"
+    }
+   ],
+   "text": "DoDD 5205.07 (2010) para 4.c establishes DoD SAPCO 'under the authority, direction, and control of the Deputy Secretary of Defense' with a flag officer or SES Director.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-4621acfb67": {
+   "endpoints": [
+    {
+     "id": "dodi-5205-11",
+     "label": "DoDI 5205.11 - Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)"
+    },
+    {
+     "id": "srg-dod",
+     "label": "Senior Review Group (DoD SAP governance)"
+    }
+   ],
+   "id": "e-4621acfb67",
+   "kind": "edge",
+   "label": "Makes the SRG the working-level body that reviews every waived program annually",
+   "sources": [
+    {
+     "date": "2018-08-31",
+     "name": "DoD Instruction 5205.11, 6 February 2013, Change 1 31 August 2018",
+     "url": "https://web.archive.org/web/20190916023050/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf"
+    }
+   ],
+   "text": "DoDI 5205.11 Enclosure 3 para 3.b(4)-(5): the SRG 'Reviews all waived DoD SAPs annually' and 'Ensures the accuracy of the SAP list submitted to Congress'.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-5a40d1833c": {
+   "endpoints": [
+    {
+     "id": "manhattan-project-2",
+     "label": "'Manhattan Project 2.0' (alleged secrecy architecture)"
+    },
+    {
+     "id": "d-structure",
+     "label": "Program structure and organisational mapping"
+    }
+   ],
+   "id": "e-5a40d1833c",
+   "kind": "edge",
+   "label": "the named model this domain is arguing about, and the reason to keep it graded Tier 3",
+   "sources": [
+    {
+     "date": "2026-05-01",
+     "name": "UAP Gerb, 'The Manhattan Project 2.0' Vol. 1 (YouTube)",
+     "url": "https://www.youtube.com/watch?v=jR-h5p2bd-A"
+    },
+    {
+     "date": "2026-06-19",
+     "name": "UAP Gerb, 'Special Access Required' Vol. 2 (YouTube)",
+     "url": "https://www.youtube.com/watch?v=6MsmPrpQqa8"
+    }
+   ],
+   "text": "UAP Gerb's onion model of an indefinitely layered secrecy architecture, set out across two investigations published 1 May and 19 June 2026, is the most fully articulated structural hypothesis in circulation and is what the independent-media substrate has organised itself around. It is sourced only to those two videos and has no independent documentary corroboration, which is exactly why it belongs in this domain at Tier 3 rather than being excluded from it.",
+   "tier": 3,
+   "type": "research"
+  },
+  "e-5a5b3fe5e3": {
+   "endpoints": [
+    {
+     "id": "waived-usap",
+     "label": "Waived unacknowledged special access program (waived USAP)"
+    },
+    {
+     "id": "srg-dod",
+     "label": "Senior Review Group (DoD SAP governance)"
+    }
+   ],
+   "id": "e-5a5b3fe5e3",
+   "kind": "edge",
+   "label": "Every waived program is reviewed once a year by a named standing body",
+   "sources": [
+    {
+     "date": "2018-08-31",
+     "name": "DoD Instruction 5205.11, 6 February 2013, Change 1 31 August 2018",
+     "url": "https://web.archive.org/web/20190916023050/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf"
+    }
+   ],
+   "text": "DoDI 5205.11 Enclosure 3 para 3.b(4) assigns the SRG the annual review of all waived DoD SAPs and recommendations on continued waived status.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-5ceeee48f0": {
+   "endpoints": [
+    {
+     "id": "aaro",
+     "label": "All-domain Anomaly Resolution Office (AARO)"
+    },
+    {
+     "id": "ousdi",
+     "label": "Office of the Under Secretary of Defense for Intelligence"
+    }
+   ],
+   "id": "e-5ceeee48f0",
+   "kind": "edge",
+   "label": "originally placed under USD(I&S)",
+   "sources": [
+    {
+     "date": "2022-07-15",
+     "name": "AARO establishment memorandum",
+     "url": "https://media.defense.gov/2022/Jul/20/2003039074/-1/-1/1/ESTABLISHMENT-OF-THE-ALL-DOMAIN-ANOMALY-RESOLUTION-OFFICE.PDF"
+    }
+   ],
+   "text": "The establishment memorandum directed USD(I&S) to establish the office and placed AARO in that chain until summer 2023.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-67865993dd": {
+   "endpoints": [
+    {
+     "id": "dodd-5205-07-2024",
+     "label": "DoDD 5205.07, DoD Special Access Program (SAP) Policy (12 Sep 2024)"
+    },
+    {
+     "id": "dodd-5205-07-2010",
+     "label": "DoDD 5205.07, Special Access Program (SAP) Policy (1 Jul 2010, Chg 2 of 4 Feb 2020)"
+    }
+   ],
+   "id": "e-67865993dd",
+   "kind": "edge",
+   "label": "Cancelled and replaced the 2010 directive on 12 September 2024",
+   "sources": [
+    {
+     "date": "2024-09-12",
+     "name": "DoD Directive 5205.07, 12 September 2024",
+     "url": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf"
+    }
+   ],
+   "text": "The 2024 reissue cancels DoDD 5205.07 of 1 July 2010 as amended and incorporates the 11 July 2023 Deputy Secretary memorandum on SAP Enterprise Reform.",
+   "tier": 1,
+   "type": "temporal"
+  },
+  "e-6891d31193": {
+   "endpoints": [
+    {
+     "id": "dodi-5205-11",
+     "label": "DoDI 5205.11 - Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)"
+    },
+    {
+     "id": "waived-usap",
+     "label": "Waived unacknowledged special access program (waived USAP)"
+    }
+   ],
+   "id": "e-6891d31193",
+   "kind": "edge",
+   "label": "the DoD-side implementation",
+   "sources": [
+    {
+     "date": "2024-09-12",
+     "name": "DoDI 5205.11, Management, Administration, and Oversight of DoD Special Access Programs, 12 September 2024",
+     "url": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf"
+    }
+   ],
+   "text": "The statute permits the waiver; this Instruction is where the Department operates it. Para 1.2.f. is DoD's own designation authority - the Secretary 'may designate select unacknowledged SAPs as \"waived\"' - and Enclosure 3 tasks the Senior Review Group with reviewing 'all waived DoD SAPs' annually and advising the SAPOC. Para 7.2.a.(3) then sets who is told, and it is wider than the statute's twelve: the chair, the ranking member, the staff directors and one designated security manager of the defense AND intelligence committees. Quotations are the verbatim ones already recorded on this node from the Instruction itself.",
+   "tier": 1,
+   "type": "programmatic"
+  },
+  "e-6e9f689760": {
+   "endpoints": [
+    {
+     "id": "neill-tipton",
+     "label": "Neill Tipton"
+    },
+    {
+     "id": "ousdi",
+     "label": "Office of the Under Secretary of Defense for Intelligence"
+    }
+   ],
+   "id": "e-6e9f689760",
+   "kind": "edge",
+   "label": "Director for Defense Intelligence (Collection & Special Programs); Elizondo's superior c.2010-2012",
+   "sources": [
+    {
+     "date": "2023-01-01",
+     "name": "The Black Vault",
+     "url": "https://www.theblackvault.com/documentarchive/new-emails-reveal-pentagon-effort-to-align-messaging-on-aatip-and-luis-elizondo/"
+    }
+   ],
+   "text": "His own account places Elizondo under him during precisely the years Elizondo claims to have run AATIP.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-812ec48af1": {
+   "endpoints": [
+    {
+     "id": "aaro",
+     "label": "All-domain Anomaly Resolution Office (AARO)"
+    },
+    {
+     "id": "ic-sapco",
+     "label": "Intelligence Community special access program control office enterprise"
+    }
+   ],
+   "id": "e-812ec48af1",
+   "kind": "edge",
+   "label": "AARO's SAP review extended to the IC control office enterprise",
+   "sources": [
+    {
+     "date": "2024-03-08",
+     "name": "AARO Historical Record Report Volume I (DOPSR-2024-0263)",
+     "url": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF"
+    }
+   ],
+   "text": "Same AARO sentence, p. 34 of the Historical Record Report Volume I. The scope of what counted as 'pertinent' was set by the offices being reviewed.",
+   "tier": 1,
+   "type": "investigative"
+  },
+  "e-85b46125e0": {
+   "endpoints": [
+    {
+     "id": "dod-sapco",
+     "label": "DoD Special Access Program Central Office (DoD SAPCO)"
+    },
+    {
+     "id": "oversight-congress",
+     "label": "Congressional oversight of special access programs"
+    }
+   ],
+   "id": "e-85b46125e0",
+   "kind": "edge",
+   "label": "Contractor disclosure to Congress requires the approval of the office being disclosed about",
+   "sources": [
+    {
+     "date": "2018-08-31",
+     "name": "DoD Directive 5205.07, 1 July 2010, Change 1 31 August 2018",
+     "url": "https://web.archive.org/web/20190922210932/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf"
+    }
+   ],
+   "text": "DoDD 5205.07 (2010) para 4.e bars any contractor entity, employee, representative or consultant from providing SAP material to members of Congress or staff 'without Director, DoD SAPCO, approval'.",
+   "tier": 1,
+   "type": "denial"
+  },
+  "e-924a3f0aaa": {
+   "endpoints": [
+    {
+     "id": "dodi-5205-11",
+     "label": "DoDI 5205.11 - Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)"
+    },
+    {
+     "id": "sswg",
+     "label": "SAP Senior Working Group (SSWG)"
+    }
+   ],
+   "id": "e-924a3f0aaa",
+   "kind": "edge",
+   "label": "Chairs the deconfliction forum at the DoD SAPCO director level",
+   "sources": [
+    {
+     "date": "2018-08-31",
+     "name": "DoD Instruction 5205.11, 6 February 2013, Change 1 31 August 2018",
+     "url": "https://web.archive.org/web/20190916023050/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf"
+    }
+   ],
+   "text": "DoDI 5205.11 Enclosure 3 para 4.a makes the Director, DoD SAPCO the SSWG Chair, with SAPCO directors from USD(I), USD(P), USD(AT&L), the services, the Joint Staff, DARPA and MDA.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-97bccd3bf3": {
+   "endpoints": [
+    {
+     "id": "gao-nsiad-88-152",
+     "label": "GAO/NSIAD-88-152 - Special Access Programs: DOD Criteria and Procedures for Creating Them Need Improvement"
+    },
+    {
+     "id": "dod-sap-reform-1994",
+     "label": "DoD special access programme governance change, 5 January 1994"
+    }
+   ],
+   "id": "e-97bccd3bf3",
+   "kind": "edge",
+   "label": "Dates an Army central SAP oversight office to September 1984, ten years earlier",
+   "sources": [
+    {
+     "date": "1988-05-24",
+     "name": "GAO/NSIAD-88-152, Special Access Programs: DOD Criteria and Procedures for Creating Them Need Improvement",
+     "url": "https://www.gao.gov/assets/nsiad-88-152.pdf"
+    }
+   ],
+   "text": "GAO dates a central Army special-access oversight office to September 1984, following a 1983 DoD review, which places a documented predecessor ten years before the January 1994 change this node carries.",
+   "tier": 1,
+   "type": "temporal"
+  },
+  "e-9cf77b75e0": {
+   "endpoints": [
+    {
+     "id": "srg-dod",
+     "label": "Senior Review Group (DoD SAP governance)"
+    },
+    {
+     "id": "sapoc",
+     "label": "Special Access Program Oversight Committee (SAPOC)"
+    }
+   ],
+   "id": "e-9cf77b75e0",
+   "kind": "edge",
+   "label": "Unanimous SRG recommendations bypass the SAPOC entirely",
+   "sources": [
+    {
+     "date": "2018-08-31",
+     "name": "DoD Instruction 5205.11, 6 February 2013, Change 1 31 August 2018",
+     "url": "https://web.archive.org/web/20190916023050/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf"
+    }
+   ],
+   "text": "DoDI 5205.11 Enclosure 3 para 3: 'Unanimous recommendations of the SRG may be forwarded directly to the DepSecDef for decision.'",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-a7c0d8745e": {
+   "endpoints": [
+    {
+     "id": "gang-of-eight",
+     "label": "The Gang of Eight and the limited-notification convention"
+    },
+    {
+     "id": "usc-10-119e",
+     "label": "10 U.S.C. 119(e) - Waiver of SAP Reporting (the 'waived SAP' authority)"
+    }
+   ],
+   "id": "e-a7c0d8745e",
+   "kind": "edge",
+   "label": "The waived-SAP notification convention mirrors, but is weaker than, the covert action rule",
+   "sources": [
+    {
+     "date": "2026-08-12",
+     "name": "10 U.S.C. 119",
+     "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim"
+    },
+    {
+     "date": "2026-08-12",
+     "name": "50 U.S.C. 3093",
+     "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3093&num=0&edition=prelim"
+    }
+   ],
+   "text": "119(e)(2) reaches chairs and ranking members of the defense committees with no 180-day widening requirement; 50 U.S.C. 3093(c)(5)(B) requires reconsideration of limited access within 180 days.",
+   "tier": 1,
+   "type": "legislative"
+  },
+  "e-a86e9ebd7b": {
+   "endpoints": [
+    {
+     "id": "us-house",
+     "label": "United States House of Representatives"
+    },
+    {
+     "id": "dod",
+     "label": "United States Department of Defense (secondary designation: Department of War)"
+    }
+   ],
+   "id": "e-a86e9ebd7b",
+   "kind": "edge",
+   "label": "Committee finding of non-cooperation by DoD and the IC",
+   "sources": [
+    {
+     "date": "2025-09-09",
+     "name": "CHRG-119hhrg61718, 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'",
+     "url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm"
+    }
+   ],
+   "text": "Chairwoman Luna: 'A major barrier to this Committee's inquiry into UAPs has been the lack of cooperation and transparency from the Department of Defense and the intelligence community.'",
+   "tier": 1,
+   "type": "denial"
+  },
+  "e-aeaf681082": {
+   "endpoints": [
+    {
+     "id": "dod-sapco",
+     "label": "DoD Special Access Program Central Office (DoD SAPCO)"
+    },
+    {
+     "id": "waived-sap-notification-group",
+     "label": "Waived SAP Notification Group"
+    }
+   ],
+   "id": "e-aeaf681082",
+   "kind": "edge",
+   "label": "DoDI 5205.11 para. 7.2.a(3) - waived-SAP access limited to chair, ranking member, staff directors and one security manager",
+   "sources": [
+    {
+     "date": null,
+     "name": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf",
+     "url": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf"
+    },
+    {
+     "date": "2026-08-22",
+     "name": "10 U.S.C. 119, Special Access Programs: congressional oversight — subsections (e)(2) and (g) (OLRC prelim text, read 22 August 2026)",
+     "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim"
+    },
+    {
+     "date": "2026-05-18",
+     "name": "Archived: DoD Directive 5205.07, Special Access Program (SAP) Policy (Wayback 2026-05-18)",
+     "url": "https://web.archive.org/web/20260518065512/https://www.esd.whs.mil/portals/54/documents/dd/issuances/dodd/520507p.pdf"
+    },
+    {
+     "date": null,
+     "name": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf",
+     "url": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf"
+    }
+   ],
+   "text": "DoD Instruction 5205.11, 'Management, Administration, and Oversight of DoD Special Access Programs,' effective 12 September 2024, para. 7.2.a(3): 'Only the chair, the ranking member, the staff directors, and one designated security manager of the defense and intelligence committees will be authorized access to waived DoD SAPs within their committee's respective oversight jurisdiction. Requests to access additional members of Congress or professional staff must be approved by the Secretary of Defense or Deputy Secretary of Defense.' This is materially wider than 10 U.S.C. 119(e)(2) on two axes: it admits committee staff directors and a security manager, and it extends to the intelligence committees, which have no entitlement under section 119. Any board text asserting that the twelve have no staff who can read the material should be corrected against this paragraph. Para. 7.2.b confirms that ordinary members of the defense and intelligence committees are authorised access to all DoD SAPs in their jurisdiction 'except for waived programs.'",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-b22909a990": {
+   "endpoints": [
+    {
+     "id": "dod-sapco",
+     "label": "DoD Special Access Program Central Office (DoD SAPCO)"
+    },
+    {
+     "id": "waived-usap",
+     "label": "Waived unacknowledged special access program (waived USAP)"
+    }
+   ],
+   "id": "e-b22909a990",
+   "kind": "edge",
+   "label": "DoDI 5205.11 retains the acknowledged / unacknowledged / waived taxonomy the 2024 directive omitted",
+   "sources": [
+    {
+     "date": null,
+     "name": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf",
+     "url": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf"
+    },
+    {
+     "date": "2024-09-12",
+     "name": "DoD Directive 5205.07, Special Access Program (SAP) Policy",
+     "url": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf"
+    }
+   ],
+   "text": "DoDI 5205.11 para. 1.2.f, effective the same day as the reissued DoDD 5205.07: 'The Secretary of Defense may designate select unacknowledged SAPs as \"waived\" when it is determined that using standard procedures for reporting to Congress would adversely affect national security, pursuant to Section 119 of Title 10, United States Code. Waived SAPs remain subject to congressional oversight.' The glossary retains definitions of acknowledged SAP, unacknowledged SAP, SAP type and waived SAP, the last defined as 'A SAP for which the Secretary of Defense has waived applicable ... An unacknowledged SAP that has more restrictive reporting and access controls than other unacknowledged SAPs.' The taxonomy was therefore not retired in September 2024; it was moved down one level from the directive into the instruction. Para. 3 further requires the SAP Oversight Committee's annual review to assess 'All waived DoD SAPs to determine the need for continued waived status' - an internal executive-branch review with no congressional trigger and no analogue in section 119.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-b46b67f432": {
+   "endpoints": [
+    {
+     "id": "luis-elizondo",
+     "label": "Luis D. Elizondo"
+    },
+    {
+     "id": "ousdi",
+     "label": "Office of the Under Secretary of Defense for Intelligence"
+    }
+   ],
+   "id": "e-b46b67f432",
+   "kind": "edge",
+   "label": "served in OUSD(I) through October 2017",
+   "sources": [
+    {
+     "date": "2019-06-13",
+     "name": "The Black Vault",
+     "url": "https://www.theblackvault.com/documentarchive/pentagon-reinforces-mr-luis-elizondo-had-no-responsibilities-on-aatip-senator-harry-reids-2009-memo-changes-nothing/"
+    },
+    {
+     "date": "2022-08-17",
+     "name": "OSD/JS FOIA 18-F-0324",
+     "url": "https://documents2.theblackvault.com/documents/osd/18-F-0324.pdf"
+    }
+   ],
+   "text": "His own resignation letter, released in FOIA 18-F-0324, states the title and the 4 October 2017 effective date. The Department has never disputed either.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-baff3ef5cb": {
+   "endpoints": [
+    {
+     "id": "dodi-5205-11",
+     "label": "DoDI 5205.11 - Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)"
+    },
+    {
+     "id": "d-structure",
+     "label": "Program structure and organisational mapping"
+    }
+   ],
+   "id": "e-baff3ef5cb",
+   "kind": "edge",
+   "label": "the issuance that documents the approval and oversight chain this domain is trying to map",
+   "sources": [
+    {
+     "date": "2025-08-09",
+     "name": "Archived: DoD Instruction 5205.11, 'Management, Administration, and Oversight of DoD Special Access Programs' (12 Sep 2024) (Wayback 2025-08-09)",
+     "url": "https://web.archive.org/web/20250809023849/https://www.esd.whs.mil/portals/54/documents/dd/issuances/dodi/520511p.pdf"
+    }
+   ],
+   "text": "DoDI 5205.11 (effective 12 September 2024) sets out the prospective SAP approval sequence in days from establishment, the review bodies (SSWG, Senior Review Group, SAPOC) and the oversight roles. It is the only public document that walks the whole chain end to end, which makes it the domain's primary methodological source rather than merely one of its members.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-bd900046fa": {
+   "endpoints": [
+    {
+     "id": "dodi-5205-11",
+     "label": "DoDI 5205.11 - Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)"
+    },
+    {
+     "id": "sapoc",
+     "label": "Special Access Program Oversight Committee (SAPOC)"
+    }
+   ],
+   "id": "e-bd900046fa",
+   "kind": "edge",
+   "label": "Sets SAPOC membership and its annual validation of the congressional report",
+   "sources": [
+    {
+     "date": "2018-08-31",
+     "name": "DoD Instruction 5205.11, 6 February 2013, Change 1 31 August 2018",
+     "url": "https://web.archive.org/web/20190916023050/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf"
+    }
+   ],
+   "text": "DoDI 5205.11 Enclosure 3 para 2 lists the eighteen SAPOC positions and assigns it 'an annual review and validation of SAP reports sent to the Congressional defense and intelligence committees'.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-c2aa522a6a": {
+   "endpoints": [
+    {
+     "id": "saf-aaz",
+     "label": "SAF/AAZ - Air Force Declassification & Special Programs"
+    },
+    {
+     "id": "dod",
+     "label": "United States Department of Defense (secondary designation: Department of War)"
+    }
+   ],
+   "id": "e-c2aa522a6a",
+   "kind": "edge",
+   "label": "Air Force SAP Central Office subordinate to DoD SAPCO approval authority",
+   "sources": [
+    {
+     "date": "2014-02-18",
+     "name": "Air Force Instruction 16-701, Management, Administration and Oversight of Special Access Programs, 18 Feb 2014 (OPR SAF/AAZE; certified by SAF/AAZ) - AF e-Publishing PDF via Internet Archive",
+     "url": "https://web.archive.org/web/20250206005028/https://static.e-publishing.af.mil/production/1/saf_aa/publication/afi16-701/afi16-701.pdf"
+    },
+    {
+     "date": null,
+     "name": "Air Force Policy Directive 16-7, 'Special Access Programs,' December 29, 2010 -- https://irp.fas.org/doddir/usaf/afpd16-7.pdf",
+     "url": ""
+    },
+    {
+     "date": null,
+     "name": "https://fas.org/publication/usaf_sap/",
+     "url": "https://fas.org/publication/usaf_sap/"
+    }
+   ],
+   "text": "SAF/AAZ is the Air Force Special Access Program Central Office. Under AFPD 16-7 it administers Air Force SAPs on behalf of the Secretary of the Air Force while release of SAP material outside the department requires DoD SAPCO approval, placing SAF/AAZ inside the OSD-level special access architecture.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-c7d081dc1a": {
+   "endpoints": [
+    {
+     "id": "gang-of-eight",
+     "label": "The Gang of Eight and the limited-notification convention"
+    },
+    {
+     "id": "dodd-5205-07-2010",
+     "label": "DoDD 5205.07, Special Access Program (SAP) Policy (1 Jul 2010, Chg 2 of 4 Feb 2020)"
+    }
+   ],
+   "id": "e-c7d081dc1a",
+   "kind": "edge",
+   "label": "DoD policy narrows waived-SAP access to chairs, ranking members and staff directors",
+   "sources": [
+    {
+     "date": "2018-08-31",
+     "name": "DoD Directive 5205.07, 1 July 2010, Change 1 31 August 2018",
+     "url": "https://web.archive.org/web/20190922210932/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf"
+    }
+   ],
+   "text": "DoDD 5205.07 (2010) para 4.f limits access to waived SAPs, absent SecDef or DepSecDef approval, to the chair, ranking minority member and staff directors of the defense and intelligence committees.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-d006b2e958": {
+   "endpoints": [
+    {
+     "id": "dodd-5205-07-2010",
+     "label": "DoDD 5205.07, Special Access Program (SAP) Policy (1 Jul 2010, Chg 2 of 4 Feb 2020)"
+    },
+    {
+     "id": "sapoc",
+     "label": "Special Access Program Oversight Committee (SAPOC)"
+    }
+   ],
+   "id": "e-d006b2e958",
+   "kind": "edge",
+   "label": "Established the SAPOC on 1 July 2010",
+   "sources": [
+    {
+     "date": "2018-08-31",
+     "name": "DoD Directive 5205.07, 1 July 2010, Change 1 31 August 2018",
+     "url": "https://web.archive.org/web/20190922210932/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf"
+    }
+   ],
+   "text": "DoDD 5205.07 (2010) para 4.b: 'The Special Access Program Oversight Committee (SAPOC), hereby established, shall advise and assist the Secretary of Defense and the Deputy Secretary of Defense'.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-eacf29aa11": {
+   "endpoints": [
+    {
+     "id": "william-b-adkins",
+     "label": "William B. Adkins"
+    },
+    {
+     "id": "us-house",
+     "label": "United States House of Representatives"
+    }
+   ],
+   "id": "e-eacf29aa11",
+   "kind": "edge",
+   "label": "House Appropriations Defense subcommittee staff overseeing NRO/NSA/NGA",
+   "sources": [
+    {
+     "date": "2026-08-11",
+     "name": "Archived: ODNI, Preliminary Assessment: Unidentified Aerial Phenomena (Wayback 2026-08-11)",
+     "url": "https://web.archive.org/web/20260811010946/https://archive.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf"
+    },
+    {
+     "date": "2026-08-12",
+     "name": "National Reconnaissance Office - About NRO",
+     "url": "https://www.nro.gov/About-NRO/"
+    },
+    {
+     "date": null,
+     "name": "https://www.nro.gov/About-NRO/Leadership/leadership-adkins/",
+     "url": "https://www.nro.gov/About-NRO/Leadership/leadership-adkins/"
+    }
+   ],
+   "text": "Before becoming PDDNRO he 'served on the professional staff of the House Appropriations Committee, Subcommittee on Defense, where he led the subcommittee's oversight and legislative responsibility for the NRO, U.S. Space Force, U.S. Space Command, National Geospatial-Intelligence Agency, National Security Agency, and U.S. Cyber Command' - the panel that writes the classified defense appropriations annex.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-ede027794e": {
+   "endpoints": [
+    {
+     "id": "manhattan-project-2",
+     "label": "'Manhattan Project 2.0' (alleged secrecy architecture)"
+    },
+    {
+     "id": "ousdi",
+     "label": "Office of the Under Secretary of Defense for Intelligence"
+    }
+   ],
+   "id": "e-ede027794e",
+   "kind": "edge",
+   "label": "Non-Covert Action Programs alleged to carry waived reporting requirements",
+   "sources": [
+    {
+     "date": "2026-06-19",
+     "name": "UAP Gerb - 'Special Access Required' Vol.2",
+     "url": "https://www.youtube.com/watch?v=6MsmPrpQqa8"
+    }
+   ],
+   "text": "The operative concealment mechanism on Gerb's account: full SAP security protocols combined with completely waived reporting and budgetary requirements, which would make congressional ignorance lawful rather than the product of active deception.",
+   "tier": 2,
+   "type": "denial"
+  },
+  "e-f754cfafd2": {
+   "endpoints": [
+    {
+     "id": "steve-feinberg",
+     "label": "Stephen A. Feinberg"
+    },
+    {
+     "id": "dod",
+     "label": "United States Department of Defense (secondary designation: Department of War)"
+    }
+   ],
+   "id": "e-f754cfafd2",
+   "kind": "edge",
+   "label": "Deputy Secretary of Defense",
+   "sources": [
+    {
+     "date": "2026-08-10",
+     "name": "Archived: Department of War (Department of Defense) - About (Wayback 2026-08-10)",
+     "url": "https://web.archive.org/web/20260810202005/https://www.war.gov/About/"
+    },
+    {
+     "date": "2026-05-18",
+     "name": "Archived: DoD Directive 5205.07, Special Access Program (SAP) Policy (Wayback 2026-05-18)",
+     "url": "https://web.archive.org/web/20260518065512/https://www.esd.whs.mil/portals/54/documents/dd/issuances/dodd/520507p.pdf"
+    },
+    {
+     "date": null,
+     "name": "https://defensescoop.com/2025/03/14/stephen-feinberg-deputy-secretary-defense-senate-confirmed-trump/",
+     "url": "https://defensescoop.com/2025/03/14/stephen-feinberg-deputy-secretary-defense-senate-confirmed-trump/"
+    },
+    {
+     "date": null,
+     "name": "https://www.armed-services.senate.gov/hearings/to-consider-the-nomination-of-mr-stephen-a-feinberg-to-be-deputy-secretary-of-defense",
+     "url": "https://www.armed-services.senate.gov/hearings/to-consider-the-nomination-of-mr-stephen-a-feinberg-to-be-deputy-secretary-of-defense"
+    }
+   ],
+   "text": "The Senate voted 59-40 on 14 March 2025 to confirm Stephen A. Feinberg as Deputy Secretary of Defense, the department's number-two official and the office that has historically signed the memoranda standing up DoD UAP bodies. No sourced UAP, AARO or PURSUE role for Feinberg personally was found.",
+   "tier": 1,
+   "type": "institutional"
+  }
+ },
+ "claimed": [
+  {
+   "cite": [
+    "c-b2e834c6bd",
+    "c-7ff5893738",
+    "e-a86e9ebd7b"
+   ],
+   "text": "Members of Congress say the machinery shuts them out. Representative Nancy Mace said in September 2025 that only certain people know the name of the programme and that without it you cannot get the information, and Chairwoman Luna said the lack of cooperation from DoD and the intelligence community was a major barrier to the committee's inquiry."
+  },
+  {
+   "cite": [
+    "c-9da82f8115"
+   ],
+   "text": "David Grusch testified in July 2023 that he was denied access to programmes he had been directed to investigate, and that access denial itself was used to conceal them."
+  },
+  {
+   "cite": [
+    "c-efb3d4f85f"
+   ],
+   "text": "Emails from September 2017, graded Tier 2 on the board, show Elizondo drafting a memo to help Tipton assume the new responsibilities for AATIP."
+  },
+  {
+   "cite": [
+    "c-4ceadb9ef8",
+    "e-ede027794e"
+   ],
+   "text": "UAP Gerb alleges that the portfolio exploits loopholes in White House and NSC programmes to run non-covert action programmes with full SAP security and waived reporting and budget requirements, which would make congressional ignorance lawful rather than the result of deception."
+  },
+  {
+   "cite": [
+    "c-220bbc2a45",
+    "c-1bef795008",
+    "c-a946b87240"
+   ],
+   "text": "The board reads SAPCO as a closed loop: one office writes the review criteria, confirms carved-out facilities, is the single congressional liaison, approves contractor disclosures to Congress and controls external access to waived programmes, reporting to the official who signs the waivers. It also infers that because the Oversight Committee validates the congressional report, the Department's account of its programmes is produced entirely inside them."
+  },
+  {
+   "cite": [
+    "c-d6102a1386",
+    "c-89e3241afd",
+    "c-a5920c18f1"
+   ],
+   "text": "On the board's reading, AARO's assurance of full access is unfalsifiable because the SAP offices that would hold a concealed programme decided what was pertinent; a programme in the intelligence community's enterprise would not appear in the DoD report at all; and the Deputy Secretary is the lowest official who could answer from position alone whether any waived programme relates to UAP."
+  },
+  {
+   "cite": [
+    "c-81b2d1541b",
+    "c-dcd357a60c",
+    "c-1150f33928",
+    "c-d937d3bfad"
+   ],
+   "text": "The board also infers that a structural programme can be a codeword with no content of its own, that an annual list of nicknames shows members a word rather than a mission, that compartmentation predicts many partial witnesses and no complete one, and that the waived-programme regime has no forcing event for reconsideration."
+  },
+  {
+   "cite": [
+    "c-ded8b88a4c"
+   ],
+   "text": "The board reads DoD's denial of Elizondo's role as resting on press guidance rather than any producible charter or organisational chart for the period after 2010."
+  }
+ ],
+ "contested": [
+  {
+   "cite": [
+    "c-4d1bd0cdc3",
+    "c-4ae369480c",
+    "c-f8c74e7a41",
+    "c-f7425cf07c",
+    "c-22ceb980de"
+   ],
+   "text": "The records disagree on when the Oversight Committee began. The 2010 directive says it is hereby established, while the 1994 bulletin and the February 1994 commission report both describe it operating in 1994. The bulletin, known only as a transcription, gives a committee of five principals and an executive secretary, against the much larger membership of the later instruction."
+  },
+  {
+   "cite": [
+    "c-3fa79e31ef",
+    "c-190acd0a2a",
+    "c-2c4cc10bb0"
+   ],
+   "text": "The records disagree on how many members of Congress see a waived programme: one board summary of the directive says reporting is limited to eight named members, while the statute sends it to the chairman and ranking member of each defense committee and DoD policy adds staff directors and a security manager."
+  },
+  {
+   "cite": [
+    "c-8ef7bbf6ef"
+   ],
+   "text": "The official position is that the machinery was searched: AARO states its investigators were granted full access to all pertinent sensitive government programmes through the SAP control offices."
+  },
+  {
+   "cite": [
+    "e-b22909a990",
+    "c-283986b2a2",
+    "c-fa44e79b33"
+   ],
+   "text": "The Department's instruments also say oversight continues: waived programmes remain subject to congressional oversight and are reviewed every year, and the 1994 commission saw no need to modify existing reporting procedures."
+  },
+  {
+   "cite": [
+    "c-8e70eb29fa",
+    "c-4286818359",
+    "c-efb3d4f85f"
+   ],
+   "text": "The records disagree on Elizondo's role: the Department states he had no assigned responsibilities for AATIP and Tipton's 2019 email says the same, while the 2017 emails graded Tier 2 show him preparing a handover of AATIP responsibilities."
+  },
+  {
+   "cite": [
+    "e-5a40d1833c"
+   ],
+   "text": "Gerb's layered model has no independent documentary corroboration; it rests on two of his own videos."
+  }
+ ],
+ "essays": [],
+ "focusEra": "1",
+ "id": "sap-governance",
+ "kind": "mechanism",
+ "lead": {
+  "cite": [
+   "c-a0f843e2b2",
+   "c-351e4fb62e",
+   "c-4bad42ffc3",
+   "c-b1348f6480",
+   "c-de2a76adb0",
+   "c-835365fdc4"
+  ],
+  "text": "Inside the Department of Defense, special access programmes are governed by internal bodies under the Deputy Secretary of Defense: the Special Access Program Central Office, the SAP Oversight Committee, the Senior Review Group and the SAP Senior Working Group. The Oversight Committee was formed by early 1994, six years after GAO found that no office of the Secretary held a list of all the programmes."
+ },
+ "members": [
+  {
+   "cls": "institution",
+   "id": "dod-sapco",
+   "label": "DoD Special Access Program Central Office (DoD SAPCO)",
+   "role": "institution"
+  },
+  {
+   "cls": "institution",
+   "id": "sapoc",
+   "label": "Special Access Program Oversight Committee (SAPOC)",
+   "role": "institution"
+  },
+  {
+   "cls": "institution",
+   "id": "srg-dod",
+   "label": "Senior Review Group (DoD SAP governance)",
+   "role": "institution"
+  },
+  {
+   "cls": "institution",
+   "id": "sswg",
+   "label": "SAP Senior Working Group (SSWG)",
+   "role": "institution"
+  },
+  {
+   "cls": "event",
+   "id": "dod-sap-reform-1994",
+   "label": "DoD special access programme governance change, 5 January 1994",
+   "role": "event"
+  },
+  {
+   "cls": "document",
+   "id": "dodi-5205-11",
+   "label": "DoDI 5205.11 - Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)",
+   "role": "document"
+  },
+  {
+   "cls": "document",
+   "id": "dodd-5205-07-2010",
+   "label": "DoDD 5205.07, Special Access Program (SAP) Policy (1 Jul 2010, Chg 2 of 4 Feb 2020)",
+   "role": "document"
+  },
+  {
+   "cls": "document",
+   "id": "dodd-5205-07-2024",
+   "label": "DoDD 5205.07, DoD Special Access Program (SAP) Policy (12 Sep 2024)",
+   "role": "document"
+  },
+  {
+   "cls": "document",
+   "id": "gao-nsiad-88-152",
+   "label": "GAO/NSIAD-88-152 - Special Access Programs: DOD Criteria and Procedures for Creating Them Need Improvement",
+   "role": "document"
+  },
+  {
+   "cls": "institution",
+   "id": "gao",
+   "label": "Government Accountability Office",
+   "role": "institution"
+  },
+  {
+   "cls": "institution",
+   "id": "ousdi",
+   "label": "Office of the Under Secretary of Defense for Intelligence",
+   "role": "institution"
+  },
+  {
+   "cls": "institution",
+   "id": "ic-sapco",
+   "label": "Intelligence Community special access program control office enterprise",
+   "role": "institution"
+  },
+  {
+   "cls": "institution",
+   "id": "saf-aaz",
+   "label": "SAF/AAZ - Air Force Declassification & Special Programs",
+   "role": "institution"
+  },
+  {
+   "cls": "institution",
+   "id": "aaro",
+   "label": "All-domain Anomaly Resolution Office (AARO)",
+   "role": "institution"
+  },
+  {
+   "cls": "institution",
+   "id": "odni",
+   "label": "Office of the Director of National Intelligence",
+   "role": "institution"
+  },
+  {
+   "cls": "institution",
+   "id": "isoo",
+   "label": "Information Security Oversight Office",
+   "role": "institution"
+  },
+  {
+   "cls": "institution",
+   "id": "dod",
+   "label": "United States Department of Defense (secondary designation: Department of War)",
+   "role": "institution"
+  },
+  {
+   "cls": "institution",
+   "id": "us-house",
+   "label": "United States House of Representatives",
+   "role": "legislator"
+  },
+  {
+   "cls": "program",
+   "id": "waived-usap",
+   "label": "Waived unacknowledged special access program (waived USAP)",
+   "role": "programme"
+  },
+  {
+   "cls": "institution",
+   "id": "gang-of-eight",
+   "label": "The Gang of Eight and the limited-notification convention",
+   "role": "legislator"
+  },
+  {
+   "cls": "institution",
+   "id": "oversight-congress",
+   "label": "Congressional oversight of special access programs",
+   "role": "institution"
+  },
+  {
+   "cls": "institution",
+   "id": "waived-sap-notification-group",
+   "label": "Waived SAP Notification Group",
+   "role": "institution"
+  },
+  {
+   "cls": "legislation",
+   "id": "usc-10-119e",
+   "label": "10 U.S.C. 119(e) - Waiver of SAP Reporting (the 'waived SAP' authority)",
+   "role": "law"
+  },
+  {
+   "cls": "person",
+   "id": "steve-feinberg",
+   "label": "Stephen A. Feinberg",
+   "role": "official"
+  },
+  {
+   "cls": "person",
+   "id": "william-b-adkins",
+   "label": "William B. Adkins",
+   "role": "official"
+  },
+  {
+   "cls": "person",
+   "id": "luis-elizondo",
+   "label": "Luis D. Elizondo",
+   "role": "official"
+  },
+  {
+   "cls": "person",
+   "id": "neill-tipton",
+   "label": "Neill Tipton",
+   "role": "official"
+  },
+  {
+   "cls": "program",
+   "id": "manned-orbiting-laboratory",
+   "label": "Manned Orbiting Laboratory and the DORIAN / KH-10 reconnaissance payload",
+   "role": "programme"
+  },
+  {
+   "cls": "program",
+   "id": "manhattan-project-2",
+   "label": "'Manhattan Project 2.0' (alleged secrecy architecture)",
+   "role": "subject"
+  }
+ ],
+ "notes": "SAPOC was established on 5 January 1994 with Deutch as chair (do not undo).",
+ "questions": [
+  "What does the classified GAO report of 1 April 1988 say about how many special access programmes existed and who held them?",
+  "How many DoD special access programmes exist now, against the more than one hundred reported in 1994?",
+  "Has the Senior Review Group's check on the list sent to Congress ever found a waived programme missing from it?",
+  "Which programmes sit in the intelligence community's and DHS's control-office enterprises, and who oversees them?",
+  "What exactly did the November 2009 request for a special access programme for AAWSAP's successor propose, and why did Clapper oppose it?",
+  "What did the Deputy Secretary's SAP Enterprise Reform memorandum of July 2023 change?",
+  "Does the original 1994 Deputy Secretary bulletin on the Oversight Committee survive in any archive?"
+ ],
+ "record": [
+  {
+   "cite": [
+    "c-cee85d9b58",
+    "c-925b4c639c",
+    "e-1cafa00599",
+    "e-97bccd3bf3"
+   ],
+   "text": "GAO's 1988 report is the unclassified summary of a classified report sent to the defence committees on 1 April 1988, produced under section 1133 of Public Law 100-180. It also records that a 1983 review of Army special access programmes led to a central Army oversight office in September 1984."
+  },
+  {
+   "cite": [
+    "c-fa44e79b33",
+    "e-2f60ed6ae3"
+   ],
+   "text": "The 1994 commission reported that there were over one hundred DoD special access programmes, many with numerous compartments and subcompartments, that some of the most sensitive were waived or carved out from certain oversight and administrative requirements, and that each programme manager was free to set the programme's own security rules."
+  },
+  {
+   "cite": [
+    "c-db2a0dfd40",
+    "c-4d1bd0cdc3",
+    "c-0038dadf12",
+    "e-414f10a49e",
+    "e-d006b2e958"
+   ],
+   "text": "The 2010 directive established DoD SAPCO under the Deputy Secretary as the primary DoD liaison with the executive branch and Congress on all special access programmes, and said the SAP Oversight Committee was hereby established. It gave SAPCO's Director access approval authority for all programmes unless the Secretary or Deputy Secretary withheld it, and made the Director the coordination point for access by the White House, the NSC, political appointees and, for waived programmes, judicial personnel."
+  },
+  {
+   "cite": [
+    "c-26d2cda30e",
+    "c-3e8f621578",
+    "c-23dda2baed",
+    "e-67865993dd",
+    "e-0ac0889b58",
+    "e-85b46125e0"
+   ],
+   "text": "The 12 September 2024 directive reissued and cancelled the 2010 one and incorporated the Deputy Secretary's SAP Enterprise Reform memorandum of 11 July 2023. SAPCO maintains the records of SAP information given to Congress, personnel must notify SAPCO before briefing members or staff, and no contractor may provide SAP material to Congress without the Director's approval."
+  },
+  {
+   "cite": [
+    "c-a574d44ca1",
+    "c-c4f6e35b0b",
+    "c-018ed45bf9",
+    "e-6891d31193"
+   ],
+   "text": "DoD Instruction 5205.11, effective 12 September 2024 and approved by Deputy Secretary Kathleen Hicks, lets the Secretary designate select unacknowledged programmes as waived where standard reporting to Congress would adversely affect national security, and defines acknowledged, unacknowledged and waived programmes."
+  },
+  {
+   "cite": [
+    "c-22ceb980de",
+    "c-bc8ee81018",
+    "c-2ca09d2f5c",
+    "e-bd900046fa"
+   ],
+   "text": "Under the instruction the Oversight Committee is chaired by the Deputy Secretary with the acquisition Under Secretary as vice-chair and SAPCO's Director as executive secretary, and includes the other Under Secretaries, the Vice Chairman of the Joint Chiefs, the General Counsel and the service under secretaries and vice chiefs. It conducts an annual review and validation of the SAP reports sent to the defense and intelligence committees and reviews every waived programme each year to decide whether it stays waived."
+  },
+  {
+   "cite": [
+    "c-4bad42ffc3",
+    "c-cf23cd1c79",
+    "c-291c220139",
+    "c-906dc47db3",
+    "e-9cf77b75e0",
+    "e-4621acfb67",
+    "e-5a5b3fe5e3"
+   ],
+   "text": "The Senior Review Group is the principal working-level body, chaired by the Principal Deputy Under Secretary for acquisition with SAPCO's Director as vice-chair. It reviews proposals to establish or disestablish programmes, change their scope or remove them from special access controls, reviews all waived programmes annually, and ensures the accuracy of the list submitted to Congress; its unanimous recommendations may go directly to the Deputy Secretary."
+  },
+  {
+   "cite": [
+    "c-b1348f6480",
+    "c-b5c725961e",
+    "c-b083617cef",
+    "e-924a3f0aaa",
+    "c-17c434d555"
+   ],
+   "text": "The SAP Senior Working Group, chaired by SAPCO's Director with the SAPCO directors of the Under Secretaries, the services, the Joint Staff, DARPA and the Missile Defense Agency, is the forum that coordinates and deconflicts special programmes and reviews a prospective programme within 14 days."
+  },
+  {
+   "cite": [
+    "c-5624905102",
+    "c-7df53f436b",
+    "c-9144d83ac2",
+    "c-c233aa6ccb"
+   ],
+   "text": "A new programme's paperwork is due within 45 days of its creation, a package that asks for waiver of reporting must attach a justification, the Deputy Secretary decides by day 180, and the timeline ends at day 210 with the close of the 30-day period without Congressional decision. Every programme carries an unclassified nickname, which is what the annual report to Congress uses."
+  },
+  {
+   "cite": [
+    "c-c8c3b85b12",
+    "c-791e1d600a"
+   ],
+   "text": "Programmes are tiered into umbrellas, compartments and sub-compartments, and only the Secretary or Deputy Secretary may alter an umbrella. A mandatory polygraph for access must be approved by the Secretary of Defense."
+  },
+  {
+   "cite": [
+    "c-79deadfcaa",
+    "c-d4ef50f3c6",
+    "c-2c4cc10bb0",
+    "c-dbdbc7a823",
+    "e-aeaf681082"
+   ],
+   "text": "The instruction's rules for Congress: DoD employees must notify the SAP control offices before briefing any accessed member or staff; members' personal staff get no access; members and staff outside the defense and intelligence committees can be given only non-waived programmes, through SAPCO; waived programmes are open only to the chair, ranking member, staff directors and one security manager; and GAO staff are admitted only after SAPCO consults the chairs and ranking members."
+  },
+  {
+   "cite": [
+    "c-9143331ff1",
+    "c-c4ed3e7461",
+    "c-77cca805a5",
+    "e-40a47828ba",
+    "e-c2aa522a6a"
+   ],
+   "text": "Each service runs its own office below SAPCO. For the Air Force it is SAF/AAZ, whose Director serves as Air Force SAPCO, accreditation authority for all SAP information systems and access approval authority for all Air Force programmes. The Air Force directive forbids any employee or company to brief SAP material to a member of Congress or staff without DoD SAPCO approval."
+  },
+  {
+   "cite": [
+    "c-b370486746",
+    "e-812ec48af1",
+    "e-1670773b6f",
+    "e-5ceeee48f0"
+   ],
+   "text": "There is more than one enterprise. AARO says it worked with the special access programme control offices for DoD, the intelligence community and DHS, and it was itself placed under the Under Secretary of Defense for Intelligence and Security until summer 2023."
+  },
+  {
+   "cite": [
+    "c-6ea53c64b3",
+    "e-3aca902dec"
+   ],
+   "text": "The intelligence Under Secretary's office had its own UAP decisions: in November 2009 USD(I) James Clapper recommended against establishing a special access programme for the AAWSAP successor, and in 2021 that office was the first contributor named in ODNI's UAP assessment."
+  },
+  {
+   "cite": [
+    "c-0c96e4918d",
+    "c-4286818359",
+    "c-549434bcb0",
+    "e-b46b67f432",
+    "e-6e9f689760",
+    "e-041904e17a"
+   ],
+   "text": "The same office handled the Elizondo dispute. His resignation letter gives his title as Director, National Programs Special Management Staff, effective 4 October 2017. In May 2019 his former superior Neill Tipton wrote that Elizondo had no assigned responsibilities for the programme, and the same email chain warned that the Department might be contradicting previous statements and must keep its messages in sync."
+  },
+  {
+   "cite": [
+    "c-82082c8689",
+    "c-dfe70c4bd0",
+    "e-f754cfafd2",
+    "c-fdd0dd736b",
+    "e-eacf29aa11"
+   ],
+   "text": "The Deputy Secretary who sits over all of this is Steve Feinberg, confirmed 59 to 40 on 14 March 2025. The NRO's acting director, William Adkins, previously led oversight of the NRO and other agencies on the House Appropriations defense subcommittee staff."
+  },
+  {
+   "cite": [
+    "c-1ac30f5fe1"
+   ],
+   "text": "At the September 2025 House hearing, Chairwoman Luna stated that non-committee members may view the relevant documents and videos only with the approval of the chair and ranking member of both the Armed Services Committee and its appropriations defense subcommittee."
+  },
+  {
+   "cite": [
+    "c-190acd0a2a",
+    "c-4778246204",
+    "e-a7c0d8745e",
+    "e-c7d081dc1a"
+   ],
+   "text": "The waived-programme channel is not the Gang of Eight. The Gang of Eight governs covert action findings under 50 U.S.C. 3093, which forces reconsideration of limited access within 180 days; the waived-SAP rule under 10 U.S.C. 119(e) has no such review, and DoD policy limits waived access to the chairs, ranking members and staff directors of the defense and intelligence committees."
+  },
+  {
+   "cite": [
+    "e-02efd63e7a"
+   ],
+   "text": "ISOO's access to special access programmes is conditional: EO 13526 affords it consistent with the policies and procedures directed by the President."
+  },
+  {
+   "cite": [
+    "c-e70e3a86a7",
+    "c-0ee5ad44a4",
+    "c-57c422baf7"
+   ],
+   "text": "A declassified programme shows the compartmentation at work. The NRO's own history says the Manned Orbiting Laboratory was an open white programme with a highly classified black reconnaissance mission codenamed Dorian in the BYEMAN system; 13,187 contractor personnel were cleared on it when it ended in June 1969, and the NRO declassified almost all its Dorian records in October 2015."
+  }
+ ],
+ "related": [
+  "carve-outs",
+  "sap-reporting",
+  "sap-states",
+  "classification-orders",
+  "aatip-elizondo",
+  "aaro",
+  "black-budget",
+  "funding-channels",
+  "oversight-before-2017",
+  "house-push-2026",
+  "grusch-allegations",
+  "whistleblower-channels"
+ ],
+ "section": "secrecy-machinery",
+ "span": {
+  "from": "1988",
+  "to": "2024"
+ },
+ "status": "verified",
+ "summary": [
+  {
+   "cite": [
+    "c-73526a3692",
+    "c-835365fdc4",
+    "c-cb297fc745"
+   ],
+   "text": "In 1988 GAO reported that DoD did not adequately follow its own criteria for making a programme special access, that the definition was not clear inside the Department, that the official required to keep a list of all such programmes did not do so because of security concerns, and that only the three service secretaries and the Deputy Under Secretary for Policy could establish one."
+  },
+  {
+   "cite": [
+    "c-801ce6aaeb",
+    "c-04e1b13cce",
+    "c-de2a76adb0"
+   ],
+   "text": "On 5 January 1994, according to a Deputy Secretary's bulletin known only from a transcription, the Department formalised SAP approval, termination and revalidation through a SAP Oversight Committee chaired by Deputy Secretary John Deutch, supported by a Senior Review Group. A commission reporting to the Secretary of Defense and the Director of Central Intelligence in February 1994 called the committee a recent formation and supported it."
+  },
+  {
+   "cite": [
+    "c-3e8f621578",
+    "c-a85641b1b5",
+    "c-2cc7ffd8de"
+   ],
+   "text": "Under the 2024 directive, DoD SAPCO works under the Deputy Secretary; its Director is Executive Secretary of the Oversight Committee and the Senior Review Group, chairs the Senior Working Group and is the primary point of contact for Congress. The Oversight Committee remains the senior governing body of the SAP enterprise."
+  },
+  {
+   "cite": [
+    "e-baff3ef5cb",
+    "c-9144d83ac2",
+    "c-906dc47db3"
+   ],
+   "text": "DoD Instruction 5205.11 sets out the whole chain, with a timeline for new programmes, an annual review of every waived programme and a check on the accuracy of the list sent to Congress."
+  }
+ ],
+ "title": "The SAP oversight machinery: SAPCO, SAPOC and the Senior Review Group"
+}

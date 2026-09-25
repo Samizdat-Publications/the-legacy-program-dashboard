@@ -1,0 +1,1391 @@
+{
+ "absorbs": [
+  "d-remote-viewing",
+  "d-consciousness"
+ ],
+ "anchors": [
+  "stargate-program",
+  "grill-flame",
+  "sun-streak",
+  "center-lane",
+  "inscom",
+  "902d-mi-group",
+  "sri-international",
+  "russell-targ",
+  "harold-puthoff",
+  "monroe-institute",
+  "l-sri"
+ ],
+ "appendixT": "stargate",
+ "cites": {
+  "c-0b5fbd5f9a": {
+   "id": "c-0b5fbd5f9a",
+   "kind": "claim",
+   "node": "d-remote-viewing",
+   "nodeLabel": "Remote Viewing & Anomalous Cognition",
+   "source": {
+    "domain": null,
+    "text": "FAS Intelligence Resource Program, Star Gate documentation; CIA FOIA Reading Room",
+    "url": null
+   },
+   "text": "The Star Gate programme documentation, including protocols and operational records, is held in the CIA electronic reading room and catalogued by FAS.",
+   "tier": 1
+  },
+  "c-19bbd719b9": {
+   "id": "c-19bbd719b9",
+   "kind": "claim",
+   "node": "stargate-program",
+   "nodeLabel": "STAR GATE and predecessor remote viewing programs, 1970-1995",
+   "source": {
+    "domain": "www.governmentattic.org",
+    "text": "Annual Historical Review, US Army Intelligence and Security Command, FY 1981, pp. 89 to 90, released 11 September 2018, https://www.governmentattic.org/30docs/USAINSCOMhistoryFY_1981.pdf",
+    "url": "https://www.governmentattic.org/30docs/USAINSCOMhistoryFY_1981.pdf"
+   },
+   "text": "GRILL FLAME's transfer to INSCOM has a date and an office. The INSCOM Annual Historical Review for FY 1981 records: 'On 11 February 1981, ACSI formally transferred the GRILL FLAME program management responsibili[ty] to INSCOM where it was assigned to Detachment G, US Army Operational Group.' The same review's unit appendix for 30 September 1981 lists the US Army Operational Group and does not list any Intelligence Support Activity.",
+   "tier": 1
+  },
+  "c-1da1db42cc": {
+   "id": "c-1da1db42cc",
+   "kind": "claim",
+   "node": "stargate-program",
+   "nodeLabel": "STAR GATE and predecessor remote viewing programs, 1970-1995",
+   "source": {
+    "domain": null,
+    "text": "Inference from the documented STAR GATE structure",
+    "url": null
+   },
+   "text": "STAR GATE is the closest documented structural analogue to the concealment architecture this board alleges for materiel exploitation: contractor science, compartmented military operations, intelligence funding, public disparagement, and terminal declassification decades later. Reasoning: structural comparison of documented programme features.",
+   "tier": 3
+  },
+  "c-2317186f23": {
+   "id": "c-2317186f23",
+   "kind": "claim",
+   "node": "d-consciousness",
+   "nodeLabel": "Consciousness & Observer Effects",
+   "source": {
+    "domain": null,
+    "text": "Inference from the SRI, Star Gate and AAWSAP contract records",
+    "url": null
+   },
+   "text": "The consciousness framing entered the modern UAP research programmes through personnel continuity rather than through evidence, carried by principal investigators who worked both the 1970s anomalous cognition contracts and the 2000s aerospace contracts. Reasoning: Puthoff, Green and Vallee each appear in both eras on the documentary record.",
+   "tier": 3
+  },
+  "c-263f08beaa": {
+   "id": "c-263f08beaa",
+   "kind": "claim",
+   "node": "inscom",
+   "nodeLabel": "US Army Intelligence and Security Command (INSCOM)",
+   "source": {
+    "domain": "archive.org",
+    "text": "Letter, 'Deactivation of INSCOM CENTER LANE Project (ICLP) as a Special Access Program (SAP) (U)', 2 March 1985, CIA-RDP96-00789R002100120002-4, https://archive.org/download/cia-readingroom-document-cia-rdp96-00789r002100120002-4/cia-rdp96-00789r002100120002-4_djvu.txt",
+    "url": "https://archive.org/download/cia-readingroom-document-cia-rdp96-00789r002100120002-4/cia-rdp96-00789r002100120002-4_djvu.txt"
+   },
+   "text": "The special access designation was the Secretary of the Army's, not INSCOM's. The deactivation letter asks HQDA to take 'the necessary actions ... to officially discontinue CENTER LANE as a Secretary of the Army designated Special Access Program', and every page of the project's paperwork carries the warning notice 'CENTER LANE SPECIAL ACCESS PROGRAM RESTRICT DISSEMINATION TO THOSE WITH VERIFIED ACCESS TO CATEGORY THREE (3)'.",
+   "tier": 1
+  },
+  "c-34d4b67c9f": {
+   "id": "c-34d4b67c9f",
+   "kind": "claim",
+   "node": "kit-green",
+   "nodeLabel": "Christopher C. 'Kit' Green",
+   "source": {
+    "domain": null,
+    "text": "Christopher Green, repeated on-record interviews and public statements",
+    "url": null
+   },
+   "text": "Green has stated that during his CIA service he was the officer to whom UFO and anomalous-phenomena reporting was routed within the Office of Scientific Intelligence.",
+   "tier": 2
+  },
+  "c-3f5531879f": {
+   "id": "c-3f5531879f",
+   "kind": "claim",
+   "node": "center-lane",
+   "nodeLabel": "CENTER LANE",
+   "source": {
+    "domain": "archive.org",
+    "text": "CENTER LANE security classification guide item, eight pages exempt, CIA-RDP96-00788R001500120046-4, https://archive.org/download/cia-readingroom-document-cia-rdp96-00788r001500120046-4/cia-rdp96-00788r001500120046-4_djvu.txt",
+    "url": "https://archive.org/download/cia-readingroom-document-cia-rdp96-00788r001500120046-4/cia-rdp96-00788r001500120046-4_djvu.txt"
+   },
+   "text": "The security classification guide this node argues from is indexed and withheld. The reading-room item releases a human-use requirements annex and states 'Next 8 Page(s) In Document Exempt'; the guide's own text has not been released.",
+   "tier": 1
+  },
+  "c-4431d8670d": {
+   "id": "c-4431d8670d",
+   "kind": "claim",
+   "node": "inscom",
+   "nodeLabel": "US Army Intelligence and Security Command (INSCOM)",
+   "source": {
+    "domain": "archive.org",
+    "text": "Memorandum, 'INSCOM CENTER LANE Project (U)', 17 July 1984, CIA-RDP96-00788R001500100011-4, and letter of 2 March 1985, CIA-RDP96-00789R002100120002-4, https://archive.org/download/cia-readingroom-document-cia-rdp96-00789r002100120002-4/cia-rdp96-00789r002100120002-4_djvu.txt",
+    "url": "https://archive.org/download/cia-readingroom-document-cia-rdp96-00789r002100120002-4/cia-rdp96-00789r002100120002-4_djvu.txt"
+   },
+   "text": "INSCOM ended the work on its own recommendation and handed it to DIA. The commanding general wrote in July 1984 that 'INSCOM ... should discontinue our involvement with psychoenergetic research and operations', intending 'to cease INSCOM CENTER LANE Project operations on 30 Sept 1984', and asked for authority to permit 'timely and undisrupted transfer of (1) ICLP operations to a national agency such as DIA or NSA'. The 2 March 1985 letter notified HQDA of 'the deactivation of the INSCOM CENTER LANE Project, the attachment OPCON of CENTER LANE assets and resources to the Defense Intelligence Agency, and the retirement of CENTER LANE as an active project nickname'.",
+   "tier": 1
+  },
+  "c-480df271ed": {
+   "id": "c-480df271ed",
+   "kind": "claim",
+   "node": "center-lane",
+   "nodeLabel": "CENTER LANE",
+   "source": {
+    "domain": null,
+    "text": "Inference from the documented four-name, three-agency, seventeen-year continuity of a single effort.",
+    "url": null
+   },
+   "text": "The GRILL FLAME - CENTER LANE - SUN STREAK - STARGATE renaming sequence demonstrates that codeword churn on compromise is standard practice, which is why programme-name-based searches of the UAP record systematically under-count.",
+   "tier": 3
+  },
+  "c-53989f3044": {
+   "id": "c-53989f3044",
+   "kind": "claim",
+   "node": "902d-mi-group",
+   "nodeLabel": "902d Military Intelligence Group, USAINSCOM",
+   "source": {
+    "domain": "archive.org",
+    "text": "Programme development requirement package summary page, CIA-RDP96-00788R001700200002-1, https://archive.org/download/cia-readingroom-document-cia-rdp96-00788r001700200002-1/cia-rdp96-00788r001700200002-1_djvu.txt",
+    "url": "https://archive.org/download/cia-readingroom-document-cia-rdp96-00788r001700200002-1/cia-rdp96-00788r001700200002-1_djvu.txt"
+   },
+   "text": "The same package records the customer list for the work: 'From 1978 through 1983 intelligence collection [taskings were] completed for the U.S. Army, DIA, JCS, CIA, NSA, FBI, and the Secret Service', and states that 'INSCOM's efforts in the intelligence application of PE have been on an ad hoc basis since 1977.'",
+   "tier": 1
+  },
+  "c-5cbeb54c42": {
+   "id": "c-5cbeb54c42",
+   "kind": "claim",
+   "node": "grill-flame",
+   "nodeLabel": "GRILL FLAME",
+   "source": {
+    "domain": "www.governmentattic.org",
+    "text": "Annual Historical Review, US Army Intelligence and Security Command, FY 1981, pp. 89 to 90, released 11 September 2018, https://www.governmentattic.org/30docs/USAINSCOMhistoryFY_1981.pdf",
+    "url": "https://www.governmentattic.org/30docs/USAINSCOMhistoryFY_1981.pdf"
+   },
+   "text": "The programme's origin and its transfer are both dated in INSCOM's own history. The FY 1981 Annual Historical Review records that 'Project GRILL FLAME originated as a specially controlled and compartmented activity under the direct supervision of the ACSI, DA, and in coordination with other DOD agencies concerned with related activity. ACSI orally tasked HQ INSCOM to evaluate Project GRILL FLAME in October 1978', and that 'On 11 February 1981, ACSI formally transferred the GRILL FLAME program management responsibili[ty] to INSCOM where it was assigned to Detachment G, US Army Operational Group.' The section is partly withheld under 5 U.S.C. 552(b)(1) and (b)(3) and its source note names 'IA(HQ) Form 32, Formalization of Project GRILL FLAME (10 Sep 81) (S/NOFORN)'.",
+   "tier": 1
+  },
+  "c-67877671f3": {
+   "id": "c-67877671f3",
+   "kind": "claim",
+   "node": "stargate-program",
+   "nodeLabel": "STAR GATE and predecessor remote viewing programs, 1970-1995",
+   "source": {
+    "domain": "archive.org",
+    "text": "ORD-0289-95, 20 June 1995, CIA-RDP96-00791R000100160003-8, https://archive.org/details/cia-readingroom-document-cia-rdp96-00791r000100160003-8",
+    "url": "https://archive.org/details/cia-readingroom-document-cia-rdp96-00791r000100160003-8"
+   },
+   "text": "The programme was six people at the end: 'The DIA program consists of three operational remote viewers and three management and support personnel. DIA also funded a related R&D effort with SAIC for several years, ending in 1994.'",
+   "tier": 1
+  },
+  "c-6c4effe620": {
+   "id": "c-6c4effe620",
+   "kind": "claim",
+   "node": "center-lane",
+   "nodeLabel": "CENTER LANE",
+   "source": {
+    "domain": "archive.org",
+    "text": "Memorandum, INSCOM CENTER LANE Project (U), 17 July 1984, CIA-RDP96-00788R001500100011-4, https://archive.org/download/cia-readingroom-document-cia-rdp96-00788r001500100011-4/cia-rdp96-00788r001500100011-4_djvu.txt ; letter of 2 March 1985, CIA-RDP96-00789R002100120002-4, https://archive.org/download/cia-readingroom-document-cia-rdp96-00789r002100120002-4/cia-rdp96-00789r002100120002-4_djvu.txt",
+    "url": "https://archive.org/download/cia-readingroom-document-cia-rdp96-00788r001500100011-4/cia-rdp96-00788r001500100011-4_djvu.txt"
+   },
+   "text": "The transfer to DIA was INSCOM's own recommendation, not a DIA rescue after a congressional petition. In July 1984 INSCOM's commanding general wrote that 'INSCOM ... should discontinue our involvement with psychoenergetic research and operations', intended 'to cease INSCOM CENTER LANE Project operations on 30 Sept 1984', and asked for authority to permit 'timely and undisrupted transfer of (1) ICLP operations to a national agency such as DIA or NSA'. The letter of 2 March 1985 then notified HQDA of 'the deactivation of the INSCOM CENTER LANE Project, the attachment OPCON of CENTER LANE assets and resources to the Defense Intelligence Agency, and the retirement of CENTER LANE as an active project nickname'. Nothing opened mentions Vorona or a petition to Congress.",
+   "tier": 1
+  },
+  "c-70cd480907": {
+   "id": "c-70cd480907",
+   "kind": "claim",
+   "node": "stargate-program",
+   "nodeLabel": "STAR GATE and predecessor remote viewing programs, 1970-1995",
+   "source": {
+    "domain": "archive.org",
+    "text": "Memorandum, CENTER LANE FY 86 - 90 GDIP Submission (U), 4 April 1984, CIA-RDP96-00788R001600450002-5, https://archive.org/download/cia-readingroom-document-cia-rdp96-00788r001600450002-5/cia-rdp96-00788r001600450002-5_djvu.txt",
+    "url": "https://archive.org/download/cia-readingroom-document-cia-rdp96-00788r001600450002-5/cia-rdp96-00788r001600450002-5_djvu.txt"
+   },
+   "text": "The CENTER LANE project office was the Security Support Detachment, not the Systems Exploitation Detachment. The memorandum submitting the CENTER LANE FY86 to FY90 General Defense Intelligence Program initiative is headed 'DEPARTMENT OF THE ARMY / SECURITY SUPPORT DETACHMENT / USAINSCOM, 902D MILITARY INTELLIGENCE GROUP / FORT GEORGE G. MEADE, MARYLAND 20755', office symbol IAGPA-F-SD, and is signed by a lieutenant colonel of Military Intelligence as CENTER LANE Project Manager. The same office symbol heads the July 1984 information paper on the project's cancellation.",
+   "tier": 1
+  },
+  "c-720c022de0": {
+   "id": "c-720c022de0",
+   "kind": "claim",
+   "node": "stargate-program",
+   "nodeLabel": "STAR GATE and predecessor remote viewing programs, 1970-1995",
+   "source": {
+    "domain": "archive.org",
+    "text": "CIA memorandum, 12 June 1995, CIA Remote Viewing Declassification, CIA-RDP96-00791R000100030062-7, https://archive.org/details/cia-readingroom-document-cia-rdp96-00791r000100030062-7 ; ORD-0289-95, 20 June 1995, Star Gate - Program Status, Proposed Options, CIA-RDP96-00791R000100160003-8, https://archive.org/details/cia-readingroom-document-cia-rdp96-00791r000100160003-8",
+    "url": "https://archive.org/details/cia-readingroom-document-cia-rdp96-00791r000100030062-7"
+   },
+   "text": "The 1995 declassification review was the CIA's own, not the veterans'. An Office of Research and Development memorandum to CIA Public Affairs of 12 June 1995 answers 'Who is conducting the review?' with: 'The CIA's Office of Research and Development with the aid of a blue ribbon panel of experts in the behavioral sciences at the American Institutes for Research.' A second ORD paper of 20 June 1995 records the choice as deliberate: 'Our strategy was to ask the US Army and the National Research Council to form a blue ribbon panel similar to the group that completed a study for the Army in the late 1980's. We also proposed to declassify past CIA sponsorship and to further declassify other program material.'",
+   "tier": 1
+  },
+  "c-727c44ae0e": {
+   "id": "c-727c44ae0e",
+   "kind": "claim",
+   "node": "sun-streak",
+   "nodeLabel": "SUN STREAK",
+   "source": {
+    "domain": null,
+    "text": "Inference from the continuity of DIA sponsorship across SUN STREAK/STARGATE (1986-1995) and AAWSAP (2008-2012).",
+    "url": null
+   },
+   "text": "DIA's twenty-year prior experience running an unacknowledged programme in a ridiculed domain through contractor channels is the institutional precedent for its 2008 AAWSAP contract with BAASS.",
+   "tier": 3
+  },
+  "c-74a958e0f3": {
+   "id": "c-74a958e0f3",
+   "kind": "claim",
+   "node": "monroe-institute",
+   "nodeLabel": "The Monroe Institute",
+   "source": {
+    "domain": "archive.org",
+    "text": "Analysis and Assessment of Gateway Process, US Army Operational Group, INSCOM, 9 June 1983, CIA-RDP96-00788R001700210016-5, CIA reading-room mirror, https://archive.org/details/cia-readingroom-document-cia-rdp96-00788r001700210016-5",
+    "url": "https://archive.org/details/cia-readingroom-document-cia-rdp96-00788r001700210016-5"
+   },
+   "text": "A US Army intelligence command assessed the Institute's method in writing: a memorandum of 9 June 1983 from the US Army Operational Group, US Army Intelligence and Security Command, Fort George G. Meade, subject 'Analysis and Assessment of Gateway Process', addressed to the Commander, US Army Operational Group, and opening 'You tasked me to provide an assessment of the Gateway Experience in terms of its mechanics and ultimate practicality.'",
+   "tier": 1
+  },
+  "c-77e62c85ed": {
+   "id": "c-77e62c85ed",
+   "kind": "claim",
+   "node": "grill-flame",
+   "nodeLabel": "GRILL FLAME",
+   "source": {
+    "domain": null,
+    "text": "Inference from the documented funding chain (CIA OTS to INSCOM to DIA), the SRI hosting arrangement, and the 1995 forced declassification.",
+    "url": null
+   },
+   "text": "GRILL FLAME establishes the behavioural precedent for the legacy programme thesis: sustained compartmented funding of an officially ridiculed subject, routed through a private research institute, denied until documents forced acknowledgement.",
+   "tier": 3
+  },
+  "c-8132c28e28": {
+   "id": "c-8132c28e28",
+   "kind": "claim",
+   "node": "inscom",
+   "nodeLabel": "US Army Intelligence and Security Command (INSCOM)",
+   "source": {
+    "domain": "archive.org",
+    "text": "Talking paper, 'INSCOM Involvement in Remote Viewing (DoD Project GRILL FLAME)', with milestone attachment dated 24 Nov 78, CIA-RDP96-00788R001200410023-0, https://archive.org/download/cia-readingroom-document-cia-rdp96-00788r001200410023-0/cia-rdp96-00788r001200410023-0_djvu.txt",
+    "url": "https://archive.org/download/cia-readingroom-document-cia-rdp96-00788r001200410023-0/cia-rdp96-00788r001200410023-0_djvu.txt"
+   },
+   "text": "The Army staff started it and paid for the contract: a 1978 talking paper records that 'ACSI & MG Rolya agreed that INSCOM would \"check out\" parapsychology phenomen[a], and that Army Intelligence would obligate $75 K to support an SRI Subject selection and training program for INSCOM personnel over the next year', the money to train a project manager and three INSCOM subjects, the contract let via AMSAA.",
+   "tier": 1
+  },
+  "c-976bcb7a16": {
+   "id": "c-976bcb7a16",
+   "kind": "claim",
+   "node": "d-remote-viewing",
+   "nodeLabel": "Remote Viewing & Anomalous Cognition",
+   "source": {
+    "domain": null,
+    "text": "Declassified SRI protocol, via The Black Vault",
+    "url": null
+   },
+   "text": "The 'Standard Remote Viewing Protocol (Local Targets)' by Harold E. Puthoff and Russell Targ, dated November 1978, was subsequently declassified.",
+   "tier": 1
+  },
+  "c-a932fee29a": {
+   "id": "c-a932fee29a",
+   "kind": "claim",
+   "node": "stargate-program",
+   "nodeLabel": "STAR GATE and predecessor remote viewing programs, 1970-1995",
+   "source": {
+    "domain": "archive.org",
+    "text": "American Institutes for Research, 'An Evaluation of Remote Viewing: Research and Applications', 29 September 1995, CIA-RDP96-00791R000200180006-4, title page and table of contents https://archive.org/download/cia-readingroom-document-cia-rdp96-00791r000200180006-4/cia-rdp96-00791r000200180006-4_djvu.txt",
+    "url": "https://archive.org/download/cia-readingroom-document-cia-rdp96-00791r000200180006-4/cia-rdp96-00791r000200180006-4_djvu.txt"
+   },
+   "text": "The 1995 evaluation that closed the programme is titled 'AN EVALUATION OF REMOTE VIEWING: RESEARCH AND APPLICATIONS', was prepared by the American Institutes for Research and is dated September 29, 1995; it is released as CIA-RDP96-00791R000200180006-4. Its authors are Michael D. Mumford, Andrew M. Rose and David A. Goslin. Jessica Utts and Ray Hyman are the two expert reviewers rather than authors: Chapter Three carries 'Review 1 (Dr. Jessica Utts)', 'Review 2 (Ray Hyman)' and 'The Reply (Dr. Jessica Utts)'.",
+   "tier": 1
+  },
+  "c-b6b9fa8a50": {
+   "id": "c-b6b9fa8a50",
+   "kind": "claim",
+   "node": "harold-puthoff",
+   "nodeLabel": "Harold E. Puthoff",
+   "source": {
+    "domain": null,
+    "text": "Inference from the SRI, NIDS and AAWSAP funding records",
+    "url": null
+   },
+   "text": "Puthoff's continuous federal funding from SRI in 1972 through AAWSAP in 2010 indicates a durable government requirement for exactly the class of physics the official position says has no basis — the reasoning being that agencies do not fund the same investigator for four decades across three programs by accident.",
+   "tier": 3
+  },
+  "c-b7b39def87": {
+   "id": "c-b7b39def87",
+   "kind": "claim",
+   "node": "stargate-program",
+   "nodeLabel": "STAR GATE and predecessor remote viewing programs, 1970-1995",
+   "source": {
+    "domain": null,
+    "text": "CIA FOIA Reading Room / CREST",
+    "url": null
+   },
+   "text": "In January 2017 the CIA published the STAR GATE records online as part of the CREST archive.",
+   "tier": 1
+  },
+  "c-b89c97c61e": {
+   "id": "c-b89c97c61e",
+   "kind": "claim",
+   "node": "monroe-institute",
+   "nodeLabel": "The Monroe Institute",
+   "source": {
+    "domain": "archive.org",
+    "text": "Analysis and Assessment of Gateway Process, 9 June 1983, CIA-RDP96-00788R001700210016-5, https://archive.org/details/cia-readingroom-document-cia-rdp96-00788r001700210016-5",
+    "url": "https://archive.org/details/cia-readingroom-document-cia-rdp96-00788r001700210016-5"
+   },
+   "text": "The memorandum states its readership as personnel under a training requirement: it was written to be 'a useful guide for other USAINSCOM personnel who are required to take the Gateway training or work with Gateway materials.'",
+   "tier": 1
+  },
+  "c-c471c9f8f0": {
+   "id": "c-c471c9f8f0",
+   "kind": "claim",
+   "node": "902d-mi-group",
+   "nodeLabel": "902d Military Intelligence Group, USAINSCOM",
+   "source": {
+    "domain": "archive.org",
+    "text": "Programme development requirement package summary page, '902d MI Gp S&IA OPSEC Sppt CENTER LANC Init', CIA-RDP96-00788R001700200002-1, https://archive.org/download/cia-readingroom-document-cia-rdp96-00788r001700200002-1/cia-rdp96-00788r001700200002-1_djvu.txt",
+    "url": "https://archive.org/download/cia-readingroom-document-cia-rdp96-00788r001700200002-1/cia-rdp96-00788r001700200002-1_djvu.txt"
+   },
+   "text": "A programme development requirement package short titled '902d MI Gp S&IA OPSEC Sppt CENTER LANC Init' proposed to 'Establish a new intelligence program utilizing psychoenergetics (parapsychology) to enhance existing intelligence collection and OPSEC programs, and an organizational infrastructure to manage administrative, training and operational functions for the program.'",
+   "tier": 1
+  },
+  "c-c4bc2f94fe": {
+   "id": "c-c4bc2f94fe",
+   "kind": "claim",
+   "node": "d-remote-viewing",
+   "nodeLabel": "Remote Viewing & Anomalous Cognition",
+   "source": {
+    "domain": null,
+    "text": "Nature, 18 October 1974",
+    "url": null
+   },
+   "text": "Targ and Puthoff published 'Information transmission under conditions of sensory shielding' in Nature 251:602-607 on 18 October 1974.",
+   "tier": 1
+  },
+  "c-c76e938a0d": {
+   "id": "c-c76e938a0d",
+   "kind": "claim",
+   "node": "stargate-program",
+   "nodeLabel": "STAR GATE and predecessor remote viewing programs, 1970-1995",
+   "source": {
+    "domain": null,
+    "text": "American Institutes for Research evaluation, 1995",
+    "url": null
+   },
+   "text": "The 1995 AIR evaluation concluded that 'the information provided by remote viewing is vague and ambiguous, making it difficult, if not impossible, for the technique to yield information of sufficient quality and accuracy for actionable intelligence'; CIA terminated the roughly $20 million programme in 1995.",
+   "tier": 1
+  },
+  "c-ce6c38ca78": {
+   "id": "c-ce6c38ca78",
+   "kind": "claim",
+   "node": "monroe-institute",
+   "nodeLabel": "The Monroe Institute",
+   "source": {
+    "domain": "archive.org",
+    "text": "Analysis and Assessment of Gateway Process, 9 June 1983, CIA-RDP96-00788R001700210016-5, https://archive.org/details/cia-readingroom-document-cia-rdp96-00788r001700210016-5",
+    "url": "https://archive.org/details/cia-readingroom-document-cia-rdp96-00788r001700210016-5"
+   },
+   "text": "Remote viewing appears inside the Gateway technique itself: 'In addition, the energy bar tool is used as a portal for initiating a follow-on technique called \"remote viewing.\"'",
+   "tier": 1
+  },
+  "c-d71ba63641": {
+   "id": "c-d71ba63641",
+   "kind": "claim",
+   "node": "inscom",
+   "nodeLabel": "US Army Intelligence and Security Command (INSCOM)",
+   "source": {
+    "domain": "archive.org",
+    "text": "Memorandum, 'CENTER LANE FY 86 - 90 GDIP Submission (U)', 4 April 1984, CIA-RDP96-00788R001600450002-5, https://archive.org/download/cia-readingroom-document-cia-rdp96-00788r001600450002-5/cia-rdp96-00788r001600450002-5_djvu.txt",
+    "url": "https://archive.org/download/cia-readingroom-document-cia-rdp96-00788r001600450002-5/cia-rdp96-00788r001600450002-5_djvu.txt"
+   },
+   "text": "INSCOM dates its own psychoenergetics work from 1977: 'Since the beginning of USAINSCOM's exploitation of psychoenergetics (PE) technology with Project GRILL FLAME in 1977 through the present effort under CENTER LANE, the project has been conducted on an ad hoc basis, using resources taken \"out of hide.\"'",
+   "tier": 1
+  },
+  "c-d7a9480a2f": {
+   "id": "c-d7a9480a2f",
+   "kind": "claim",
+   "node": "902d-mi-group",
+   "nodeLabel": "902d Military Intelligence Group, USAINSCOM",
+   "source": {
+    "domain": "archive.org",
+    "text": "Memorandum, 'CENTER LANE FY 86 - 90 GDIP Submission (U)', 4 April 1984, CIA-RDP96-00788R001600450002-5, https://archive.org/download/cia-readingroom-document-cia-rdp96-00788r001600450002-5/cia-rdp96-00788r001600450002-5_djvu.txt",
+    "url": "https://archive.org/download/cia-readingroom-document-cia-rdp96-00788r001600450002-5/cia-rdp96-00788r001600450002-5_djvu.txt"
+   },
+   "text": "The CENTER LANE project office sat inside the group: the 4 April 1984 memorandum is headed 'DEPARTMENT OF THE ARMY / SECURITY SUPPORT DETACHMENT / USAINSCOM, 902D MILITARY INTELLIGENCE GROUP / FORT GEORGE G. MEADE, MARYLAND 20755', office symbol IAGPA-F-SD, and is signed by a lieutenant colonel of Military Intelligence as CENTER LANE Project Manager.",
+   "tier": 1
+  },
+  "c-d9a37c50ec": {
+   "id": "c-d9a37c50ec",
+   "kind": "claim",
+   "node": "monroe-institute",
+   "nodeLabel": "The Monroe Institute",
+   "source": {
+    "domain": "archive.org",
+    "text": "Analysis and Assessment of Gateway Process, 9 June 1983, CIA-RDP96-00788R001700210016-5, https://archive.org/details/cia-readingroom-document-cia-rdp96-00788r001700210016-5",
+    "url": "https://archive.org/details/cia-readingroom-document-cia-rdp96-00788r001700210016-5"
+   },
+   "text": "The Army's finding was favourable: 'There is a sound, rational basis in terms of physical science parameters for considering Gateway to be plausible in terms of its essential objectives', followed by a six-step phased programme for reaching conscious control of the out-of-body state. The same memorandum records the Institute's own trainers reporting that in cross-country out-of-body number-reading tests 'none have ever succeeded in getting all ten correct.'",
+   "tier": 1
+  },
+  "c-e95749f8eb": {
+   "id": "c-e95749f8eb",
+   "kind": "claim",
+   "node": "stargate-program",
+   "nodeLabel": "STAR GATE and predecessor remote viewing programs, 1970-1995",
+   "source": {
+    "domain": null,
+    "text": "Wikipedia, Stargate Project (U.S. Army unit), citing declassified programme records — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+    "url": null
+   },
+   "text": "The programme ran under successive cryptonyms: SCANATE (c.1970, CIA), GONDOLA WISH (1977, Army ACSI SED), GRILL FLAME (mid-1978, INSCOM, Fort Meade Buildings 2560-2561), CENTER LANE (1983), SUN STREAK (late 1985, DIA S&TI), STAR GATE (1991).",
+   "tier": 2
+  },
+  "c-ea02501d4d": {
+   "id": "c-ea02501d4d",
+   "kind": "claim",
+   "node": "stargate-program",
+   "nodeLabel": "STAR GATE and predecessor remote viewing programs, 1970-1995",
+   "source": {
+    "domain": "archive.org",
+    "text": "Operational Readiness of the SUN STREAK Prototype Operational Group, 8 April 1985, CIA-RDP96-00789R002100130001-4, https://archive.org/details/cia-readingroom-document-cia-rdp96-00789r002100130001-4",
+    "url": "https://archive.org/details/cia-readingroom-document-cia-rdp96-00789r002100130001-4"
+   },
+   "text": "A seventh cryptonym belongs in the sequence. The DIA SUN STREAK Project's FY 86 congressional budget justification book line is given as 'identified as DRAGOON ABSORB' in the memorandum of 8 April 1985 recommending a twelve-person prototype operational group.",
+   "tier": 1
+  },
+  "c-ef17562c23": {
+   "id": "c-ef17562c23",
+   "kind": "claim",
+   "node": "center-lane",
+   "nodeLabel": "CENTER LANE",
+   "source": {
+    "domain": "archive.org",
+    "text": "Letter, Deactivation of INSCOM CENTER LANE Project (ICLP) as a Special Access Program (SAP) (U), 2 March 1985, CIA-RDP96-00789R002100120002-4, https://archive.org/download/cia-readingroom-document-cia-rdp96-00789r002100120002-4/cia-rdp96-00789r002100120002-4_djvu.txt",
+    "url": "https://archive.org/download/cia-readingroom-document-cia-rdp96-00789r002100120002-4/cia-rdp96-00789r002100120002-4_djvu.txt"
+   },
+   "text": "The special access designation was the Secretary of the Army's, above INSCOM. The deactivation letter asks HQDA to take 'the necessary actions ... to officially discontinue CENTER LANE as a Secretary of the Army designated Special Access Program', and every page of the project's paperwork carries the warning notice 'CENTER LANE SPECIAL ACCESS PROGRAM RESTRICT DISSEMINATION TO THOSE WITH VERIFIED ACCESS TO CATEGORY THREE (3)'.",
+   "tier": 1
+  },
+  "c-ef777bce21": {
+   "id": "c-ef777bce21",
+   "kind": "claim",
+   "node": "stargate-program",
+   "nodeLabel": "STAR GATE and predecessor remote viewing programs, 1970-1995",
+   "source": {
+    "domain": "archive.org",
+    "text": "American Institutes for Research, 'An Evaluation of Remote Viewing: Research and Applications', 29 September 1995, CIA-RDP96-00791R000200180006-4, Executive Summary pages E-4 to E-5 https://archive.org/download/cia-readingroom-document-cia-rdp96-00791r000200180006-4/cia-rdp96-00791r000200180006-4_djvu.txt",
+    "url": "https://archive.org/download/cia-readingroom-document-cia-rdp96-00791r000200180006-4/cia-rdp96-00791r000200180006-4_djvu.txt"
+   },
+   "text": "The report's Executive Summary states: 'Most importantly, the information provided by remote viewing is vague and ambiguous, making it difficult, if not impossible, for the technique to yield information of sufficient quality and accuracy for actionable intelligence.' It adds that in no case had the information provided ever been used to guide intelligence operations, and concludes that 'continued use of remote viewing in intelligence gathering operations is not warranted.'",
+   "tier": 1
+  },
+  "c-f1058e5214": {
+   "id": "c-f1058e5214",
+   "kind": "claim",
+   "node": "d-consciousness",
+   "nodeLabel": "Consciousness & Observer Effects",
+   "source": {
+    "domain": null,
+    "text": "FAS, Star Gate documentation; CIA reading room",
+    "url": null
+   },
+   "text": "The Star Gate anomalous cognition programme ran under federal contract from 1972 until its termination in 1995.",
+   "tier": 1
+  },
+  "c-f22ebfdcb3": {
+   "id": "c-f22ebfdcb3",
+   "kind": "claim",
+   "node": "stargate-program",
+   "nodeLabel": "STAR GATE and predecessor remote viewing programs, 1970-1995",
+   "source": {
+    "domain": "archive.org",
+    "text": "Remote Viewing Session Data, session of 15 December 1987, CIA-RDP96-00789R001600120001-1, https://archive.org/details/cia-readingroom-document-cia-rdp96-00789r001600120001-1",
+    "url": "https://archive.org/details/cia-readingroom-document-cia-rdp96-00789r001600120001-1"
+   },
+   "text": "The release withholds the unit's people, so no claim that a named member appears in it can be checked from the collection itself. Session forms print labelled fields for Remote Viewer, Interviewer and Observer and leave all three blank, and narrative memoranda substitute CIA release codes (SG1A, SG1B, SG1I, SG1J, SGFOIA3) for personal names.",
+   "tier": 1
+  },
+  "c-f6be221bb7": {
+   "id": "c-f6be221bb7",
+   "kind": "claim",
+   "node": "stargate-program",
+   "nodeLabel": "STAR GATE and predecessor remote viewing programs, 1970-1995",
+   "source": {
+    "domain": null,
+    "text": "American Alchemy with Jesse Michels, 'CIA Psychic Spy: Mars Used To Have Alien Life', published 2 March 2025, at 1:13:18 to 1:49:19",
+    "url": null
+   },
+   "text": "On American Alchemy with Jesse Michels, 2 March 2025, between 1:13:18 and 1:49:19, Joseph McMoneagle described his own route into the programme as a chain of individual postings rather than a fixed bureaucratic assignment: a chance contact on an Army base, intelligence school, Vietnam service, a red-team task at an Allied intelligence facility in Germany, an order to headquarters by a three-star general, a diversion into Mandarin training at the Defense Language Institute, and an abrupt reassignment by a different general to look at Grill Flame at SRI before being absorbed at Fort Meade. He presents this as evidence that the programme moved by the personal patronage of particular general officers.",
+   "tier": 2
+  },
+  "e-0fa64ffe4b": {
+   "endpoints": [
+    {
+     "id": "harold-puthoff",
+     "label": "Harold E. Puthoff"
+    },
+    {
+     "id": "ttsa",
+     "label": "To The Stars Academy of Arts & Science Inc. (later To The Stars Inc.)"
+    }
+   ],
+   "id": "e-0fa64ffe4b",
+   "kind": "edge",
+   "label": "Co-founder, VP Science and Technology, director",
+   "sources": [
+    {
+     "date": "2018-04-30",
+     "name": "SEC EDGAR — TTSA Form 1-K",
+     "url": "https://www.sec.gov/Archives/edgar/data/1710274/000114420418023727/tv492460_partii.htm"
+    },
+    {
+     "date": "2026-08-12",
+     "name": "Wikipedia: To The Stars Inc.",
+     "url": "https://en.wikipedia.org/wiki/To_the_Stars_(company)."
+    }
+   ],
+   "text": "Puthoff co-founded TTSA with Tom DeLonge and Jim Semivan in 2017; the company's materials work was routed to laboratories he founded.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-12505ae981": {
+   "endpoints": [
+    {
+     "id": "harold-puthoff",
+     "label": "Harold E. Puthoff"
+    },
+    {
+     "id": "sri-international",
+     "label": "SRI International (Stanford Research Institute)"
+    }
+   ],
+   "id": "e-12505ae981",
+   "kind": "edge",
+   "label": "Puthoff founded and led the SRI psychoenergetics programme",
+   "sources": [
+    {
+     "date": "2020-12-16",
+     "name": "The Stargate Collection - CIA Program on Remote Viewing",
+     "url": "https://www.theblackvault.com/documentarchive/the-stargate-collection/"
+    },
+    {
+     "date": "1974-10-18",
+     "name": "R. Targ & H. Puthoff, 'Information transmission under conditions of sensory shielding', Nature 251, 602-607",
+     "url": "https://www.nature.com/articles/251602a0"
+    }
+   ],
+   "text": "CIA's Office of Technical Service funded the work from 1972; it was later sponsored by Army INSCOM and DIA under successive codenames.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-1bc0ff3291": {
+   "endpoints": [
+    {
+     "id": "monroe-institute",
+     "label": "The Monroe Institute"
+    },
+    {
+     "id": "stargate-program",
+     "label": "STAR GATE and predecessor remote viewing programs, 1970-1995"
+    }
+   ],
+   "id": "e-1bc0ff3291",
+   "kind": "edge",
+   "label": "A private method brought inside the Army's remote-viewing effort as required training",
+   "sources": [
+    {
+     "date": "1983-06-09",
+     "name": "Analysis and Assessment of Gateway Process, 9 June 1983, CIA-RDP96-00788R001700210016-5",
+     "url": "https://archive.org/details/cia-readingroom-document-cia-rdp96-00788r001700210016-5"
+    }
+   ],
+   "text": "The memorandum names remote viewing as a follow-on technique inside the Gateway Experience and was written for USAINSCOM personnel required to take that training, which places the Institute's method inside the programme chain the STAR GATE node covers.",
+   "tier": 1,
+   "type": "research"
+  },
+  "e-291eb35747": {
+   "endpoints": [
+    {
+     "id": "inscom",
+     "label": "US Army Intelligence and Security Command (INSCOM)"
+    },
+    {
+     "id": "grill-flame",
+     "label": "GRILL FLAME"
+    }
+   ],
+   "id": "e-291eb35747",
+   "kind": "edge",
+   "label": "GRILL FLAME was INSCOM's entry into the field in 1977",
+   "sources": [
+    {
+     "date": "1984-04-04",
+     "name": "CENTER LANE FY 86 - 90 GDIP Submission (U), 4 April 1984",
+     "url": "https://archive.org/download/cia-readingroom-document-cia-rdp96-00788r001600450002-5/cia-rdp96-00788r001600450002-5_djvu.txt"
+    }
+   ],
+   "text": "The 4 April 1984 GDIP memorandum dates USAINSCOM's exploitation of psychoenergetics to Project GRILL FLAME in 1977, and a 1978 talking paper is titled INSCOM Involvement in Remote Viewing (DoD Project GRILL FLAME).",
+   "tier": 1,
+   "type": "programmatic"
+  },
+  "e-36c03e7cc0": {
+   "endpoints": [
+    {
+     "id": "inscom",
+     "label": "US Army Intelligence and Security Command (INSCOM)"
+    },
+    {
+     "id": "waived-usap",
+     "label": "Waived unacknowledged special access program (waived USAP)"
+    }
+   ],
+   "id": "e-36c03e7cc0",
+   "kind": "edge",
+   "label": "A ridiculed subject held inside service-secretary-level access controls",
+   "sources": [
+    {
+     "date": "1985-03-02",
+     "name": "Deactivation letter of 2 March 1985 read against the waived-usap node",
+     "url": "https://archive.org/download/cia-readingroom-document-cia-rdp96-00789r002100120002-4/cia-rdp96-00789r002100120002-4_djvu.txt"
+    }
+   ],
+   "text": "Reasoning: the opened records show a psychoenergetics project carried as a Secretary of the Army designated special access programme with a category-three access caveat, which is the board's structural claim about SAP-level control of a ridiculed domain. No opened record connects CENTER LANE to waived status or to any unacknowledged programme.",
+   "tier": 3,
+   "type": "programmatic"
+  },
+  "e-4f85109602": {
+   "endpoints": [
+    {
+     "id": "902d-mi-group",
+     "label": "902d Military Intelligence Group, USAINSCOM"
+    },
+    {
+     "id": "center-lane",
+     "label": "CENTER LANE"
+    }
+   ],
+   "id": "e-4f85109602",
+   "kind": "edge",
+   "label": "Its Security Support Detachment was the CENTER LANE project office",
+   "sources": [
+    {
+     "date": "1984-07-13",
+     "name": "CENTER LANE FY 86 - 90 GDIP Submission, 4 April 1984, and Cancellation of the INSCOM CENTER LANE Project, 13 Jul 84",
+     "url": "https://archive.org/download/cia-readingroom-document-cia-rdp96-00788r001500100016-9/cia-rdp96-00788r001500100016-9_djvu.txt"
+    }
+   ],
+   "text": "The detachment's office symbol IAGPA-F-SD heads both the April 1984 GDIP submission signed by the CENTER LANE Project Manager and the July 1984 information paper on the project's cancellation.",
+   "tier": 1,
+   "type": "programmatic"
+  },
+  "e-826de2e94e": {
+   "endpoints": [
+    {
+     "id": "james-clapper",
+     "label": "James R. Clapper Jr."
+    },
+    {
+     "id": "stargate-program",
+     "label": "STAR GATE and predecessor remote viewing programs, 1970-1995"
+    }
+   ],
+   "id": "e-826de2e94e",
+   "kind": "edge",
+   "label": "Clapper led the programme in the 1990s before becoming DNI",
+   "sources": [
+    {
+     "date": "2026-08-12",
+     "name": "Wikipedia - Stargate Project (U.S. Army unit)",
+     "url": "https://en.wikipedia.org/wiki/Stargate_Project_(U.S._Army_unit)"
+    }
+   ],
+   "text": "Clapper is recorded as a project leader in the 1990s; he later served as Director of National Intelligence.",
+   "tier": 2,
+   "type": "institutional"
+  },
+  "e-832f8bc50a": {
+   "endpoints": [
+    {
+     "id": "sun-streak",
+     "label": "SUN STREAK"
+    },
+    {
+     "id": "dia",
+     "label": "Defense Intelligence Agency"
+    }
+   ],
+   "id": "e-832f8bc50a",
+   "kind": "edge",
+   "label": "DIA sponsored the remote-viewing effort 1986-1995",
+   "sources": [
+    {
+     "date": "2020-12-16",
+     "name": "The Stargate Collection - CIA Program on Remote Viewing",
+     "url": "https://www.theblackvault.com/documentarchive/the-stargate-collection/"
+    },
+    {
+     "date": "2021-05-10",
+     "name": "Gideon Lewis-Kraus, 'How the Pentagon Started Taking U.F.O.s Seriously', The New Yorker",
+     "url": "https://www.newyorker.com/magazine/2021/05/10/how-the-pentagon-started-taking-ufos-seriously"
+    }
+   ],
+   "text": "DIA's prior experience running an unacknowledged programme in a ridiculed domain is the institutional precedent for its 2008 AAWSAP contract.",
+   "tier": 1,
+   "type": "funding"
+  },
+  "e-9d2c3d8098": {
+   "endpoints": [
+    {
+     "id": "kit-green",
+     "label": "Christopher C. 'Kit' Green"
+    },
+    {
+     "id": "sri-international",
+     "label": "SRI International (Stanford Research Institute)"
+    }
+   ],
+   "id": "e-9d2c3d8098",
+   "kind": "edge",
+   "label": "Green was CIA's monitor for the SRI psychoenergetics work",
+   "sources": [
+    {
+     "date": "2020-12-16",
+     "name": "The Stargate Collection - CIA Program on Remote Viewing",
+     "url": "https://www.theblackvault.com/documentarchive/the-stargate-collection/"
+    },
+    {
+     "date": "1974-10-18",
+     "name": "R. Targ & H. Puthoff, 'Information transmission under conditions of sensory shielding', Nature 251, 602-607",
+     "url": "https://www.nature.com/articles/251602a0"
+    }
+   ],
+   "text": "Green served in CIA's Office of Scientific Intelligence, Life Sciences Division, and has stated he was the officer to whom anomalous-phenomena reporting was routed.",
+   "tier": 2,
+   "type": "institutional"
+  },
+  "e-a0cfe27be5": {
+   "endpoints": [
+    {
+     "id": "inscom",
+     "label": "US Army Intelligence and Security Command (INSCOM)"
+    },
+    {
+     "id": "center-lane",
+     "label": "CENTER LANE"
+    }
+   ],
+   "id": "e-a0cfe27be5",
+   "kind": "edge",
+   "label": "INSCOM ran CENTER LANE and ended it",
+   "sources": [
+    {
+     "date": "1984-07-17",
+     "name": "INSCOM CENTER LANE Project (U), 17 July 1984",
+     "url": "https://archive.org/download/cia-readingroom-document-cia-rdp96-00788r001500100011-4/cia-rdp96-00788r001500100011-4_djvu.txt"
+    }
+   ],
+   "text": "The project's own paperwork is INSCOM paperwork: the July 1984 memorandum recommending discontinuance, the July 1984 cancellation information paper, and the 2 March 1985 deactivation letter are all signed inside INSCOM.",
+   "tier": 1,
+   "type": "programmatic"
+  },
+  "e-a529a230ea": {
+   "endpoints": [
+    {
+     "id": "harold-puthoff",
+     "label": "Harold E. Puthoff"
+    },
+    {
+     "id": "nids",
+     "label": "National Institute for Discovery Science (NIDS)"
+    }
+   ],
+   "id": "e-a529a230ea",
+   "kind": "edge",
+   "label": "Puthoff was among the consultants Bigelow hired at NIDS in 1995",
+   "sources": [
+    {
+     "date": "2021-05-10",
+     "name": "Gideon Lewis-Kraus, 'How the Pentagon Started Taking U.F.O.s Seriously', The New Yorker",
+     "url": "https://www.newyorker.com/magazine/2021/05/10/how-the-pentagon-started-taking-ufos-seriously"
+    },
+    {
+     "date": "1998-08-10",
+     "name": "Zack Van Eyck, 'Private UFO study takes a public turn', Deseret News",
+     "url": "https://www.deseret.com/1998/8/10/19395824/private-ufo-study-takes-a-public-turn"
+    }
+   ],
+   "text": "The New Yorker records that among the consultants Bigelow hired was Hal Puthoff, 'whose work in paranormal studies dated back decades, to Project Stargate.'",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-b4d6399d50": {
+   "endpoints": [
+    {
+     "id": "harold-puthoff",
+     "label": "Harold E. Puthoff"
+    },
+    {
+     "id": "dird-series",
+     "label": "The 38 Defense Intelligence Reference Documents (DIRDs)"
+    }
+   ],
+   "id": "e-b4d6399d50",
+   "kind": "edge",
+   "label": "authored DIRD on vacuum/spacetime metric engineering",
+   "sources": [
+    {
+     "date": "2018-01-09",
+     "name": "DIA letter to SASC",
+     "url": "https://documents.theblackvault.com/documents/dia/dia-aatip-reports.pdf"
+    }
+   ],
+   "text": "Item 5 on DIA's transmittal list; the closest thing in the released set to a theory of how the reported craft operate.",
+   "tier": 1,
+   "type": "programmatic"
+  },
+  "e-bb8dce4fed": {
+   "endpoints": [
+    {
+     "id": "grill-flame",
+     "label": "GRILL FLAME"
+    },
+    {
+     "id": "center-lane",
+     "label": "CENTER LANE"
+    }
+   ],
+   "id": "e-bb8dce4fed",
+   "kind": "edge",
+   "label": "CENTER LANE succeeded GRILL FLAME after the codename was compromised",
+   "sources": [
+    {
+     "date": "2020-12-16",
+     "name": "The Stargate Collection - CIA Program on Remote Viewing",
+     "url": "https://www.theblackvault.com/documentarchive/the-stargate-collection/"
+    }
+   ],
+   "text": "Codeword churn on compromise is standard practice; the effort was continuous across the renaming.",
+   "tier": 1,
+   "type": "programmatic"
+  },
+  "e-c9b3d8f9c6": {
+   "endpoints": [
+    {
+     "id": "jacques-vallee",
+     "label": "Jacques F. Vallee"
+    },
+    {
+     "id": "harold-puthoff",
+     "label": "Harold E. Puthoff"
+    }
+   ],
+   "id": "e-c9b3d8f9c6",
+   "kind": "edge",
+   "label": "Both at SRI International in the early 1970s",
+   "sources": [
+    {
+     "date": "2022-01-01",
+     "name": "Nolan, Vallee, Jiang & Lemke, 'Improved instrumental techniques, including isotopic analysis, applicable to the characterization of unusual materials with potential relevance to aerospace forensics', Progress in Aerospace Sciences 128:100788",
+     "url": "https://doi.org/10.1016/j.paerosci.2021.100788"
+    }
+   ],
+   "text": "Vallee joined Engelbart's Augmentation Research Center at SRI in 1971, in the same institution and period as Puthoff's psychoenergetics programme; Vallee was also consulted on classified remote-viewing research.",
+   "tier": 2,
+   "type": "institutional"
+  },
+  "e-cf46504728": {
+   "endpoints": [
+    {
+     "id": "harold-puthoff",
+     "label": "Harold E. Puthoff"
+    },
+    {
+     "id": "russell-targ",
+     "label": "Russell Targ"
+    }
+   ],
+   "id": "e-cf46504728",
+   "kind": "edge",
+   "label": "Co-authors of the Nature paper and the SRI remote-viewing protocol",
+   "sources": [
+    {
+     "date": "1974-10-18",
+     "name": "R. Targ & H. Puthoff, 'Information transmission under conditions of sensory shielding', Nature 251, 602-607",
+     "url": "https://www.nature.com/articles/251602a0"
+    },
+    {
+     "date": "1978-11-01",
+     "name": "'Standard Remote Viewing Protocol (Local Targets)' by Harold E. Puthoff and Russell Targ, November 1978 (declassified)",
+     "url": "https://www.theblackvault.com/documentarchive/standard-remote-viewing-protocol-local-targets-by-dr-harold-e-puthoff-and-russell-targ-november-1978/"
+    }
+   ],
+   "text": "Nature 251, 602-607 (18 October 1974); 'Standard Remote Viewing Protocol (Local Targets),' SRI, November 1978.",
+   "tier": 1,
+   "type": "programmatic"
+  },
+  "e-d0c3d3a987": {
+   "endpoints": [
+    {
+     "id": "harold-puthoff",
+     "label": "Harold E. Puthoff"
+    },
+    {
+     "id": "stargate-program",
+     "label": "STAR GATE and predecessor remote viewing programs, 1970-1995"
+    }
+   ],
+   "id": "e-d0c3d3a987",
+   "kind": "edge",
+   "label": "Ran the SRI International half of the government's psychoenergetics effort",
+   "sources": [
+    {
+     "date": "2026-08-12",
+     "name": "Wikipedia: Advanced Aerospace Threat Identification Program",
+     "url": "https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program"
+    },
+    {
+     "date": "2026-08-12",
+     "name": "Wikipedia - Stargate Project (U.S. Army unit)",
+     "url": "https://en.wikipedia.org/wiki/Stargate_Project_(U.S._Army_unit)"
+    },
+    {
+     "date": "2019-10-18",
+     "name": "The Black Vault - Army/TTSA CRADA and FOIA records",
+     "url": "https://www.theblackvault.com/documentarchive/u-s-army-releases-crada-with-to-the-stars-academy-of-arts-science/"
+    },
+    {
+     "date": "2026-08-25",
+     "name": "CRADA between CCDC Ground Vehicle Systems Center and To The Stars Academy, CRADA No. 19-15 (released PDF)",
+     "url": "https://documents2.theblackvault.com/documents/army/TTSA-ARMY-CRADA.pdf"
+    }
+   ],
+   "text": "The same principal investigator ran the SRI remote viewing science, produced Defense Intelligence Reference Documents under AAWSAP, and co-founded To The Stars Academy, which signed the CRADA with the Army in 2019. Reasoning: continuity of a single documented career, not of a single programme.",
+   "tier": 1,
+   "type": "programmatic"
+  },
+  "e-d429fabffa": {
+   "endpoints": [
+    {
+     "id": "inscom",
+     "label": "US Army Intelligence and Security Command (INSCOM)"
+    },
+    {
+     "id": "dia",
+     "label": "Defense Intelligence Agency"
+    }
+   ],
+   "id": "e-d429fabffa",
+   "kind": "edge",
+   "label": "CENTER LANE assets and resources attached OPCON to DIA, 2 March 1985",
+   "sources": [
+    {
+     "date": "1985-03-02",
+     "name": "Deactivation of INSCOM CENTER LANE Project (ICLP) as a Special Access Program (SAP) (U), 2 March 1985",
+     "url": "https://archive.org/download/cia-readingroom-document-cia-rdp96-00789r002100120002-4/cia-rdp96-00789r002100120002-4_djvu.txt"
+    }
+   ],
+   "text": "INSCOM's letter of 2 March 1985 notifies HQDA of the deactivation, of the attachment OPCON of CENTER LANE assets and resources to the Defense Intelligence Agency, and of the retirement of the project nickname.",
+   "tier": 1,
+   "type": "custody"
+  },
+  "e-d616860509": {
+   "endpoints": [
+    {
+     "id": "sun-streak",
+     "label": "SUN STREAK"
+    },
+    {
+     "id": "stargate-program",
+     "label": "STAR GATE and predecessor remote viewing programs, 1970-1995"
+    }
+   ],
+   "id": "e-d616860509",
+   "kind": "edge",
+   "label": "SUN STREAK became STARGATE, terminated 1995",
+   "sources": [
+    {
+     "date": "2020-12-16",
+     "name": "The Stargate Collection - CIA Program on Remote Viewing",
+     "url": "https://www.theblackvault.com/documentarchive/the-stargate-collection/"
+    }
+   ],
+   "text": "CIA compiled and released roughly 12,000 pages of the programme record in 1995 after the American Institutes for Research evaluation.",
+   "tier": 1,
+   "type": "programmatic"
+  },
+  "e-de643cfc77": {
+   "endpoints": [
+    {
+     "id": "inscom",
+     "label": "US Army Intelligence and Security Command (INSCOM)"
+    },
+    {
+     "id": "sri-international",
+     "label": "SRI International (Stanford Research Institute)"
+    }
+   ],
+   "id": "e-de643cfc77",
+   "kind": "edge",
+   "label": "Army Intelligence obligated $75K for SRI selection and training of INSCOM personnel",
+   "sources": [
+    {
+     "date": "1978-11-24",
+     "name": "INSCOM Involvement in Remote Viewing (DoD Project GRILL FLAME), Nov 1978",
+     "url": "https://archive.org/download/cia-readingroom-document-cia-rdp96-00788r001200410023-0/cia-rdp96-00788r001200410023-0_djvu.txt"
+    }
+   ],
+   "text": "The 1978 talking paper records the ACSI and the commanding general agreeing that Army Intelligence would obligate seventy-five thousand dollars to support an SRI subject selection and training programme for INSCOM personnel, with initial orientation at SRI International on 15 to 17 November 1978.",
+   "tier": 1,
+   "type": "funding"
+  }
+ },
+ "claimed": [
+  {
+   "cite": [
+    "c-f6be221bb7"
+   ],
+   "text": "Joseph McMoneagle has described his own route into the programme as a chain of individual postings and reassignments by generals, ending with an abrupt order to look at GRILL FLAME at SRI."
+  },
+  {
+   "cite": [
+    "c-34d4b67c9f",
+    "e-9d2c3d8098"
+   ],
+   "text": "Kit Green says that at CIA he was the officer to whom anomalous-phenomena reporting was routed, and he is described as CIA's monitor for the SRI work."
+  },
+  {
+   "cite": [
+    "e-826de2e94e"
+   ],
+   "text": "James Clapper, later Director of National Intelligence, is recorded as a project leader of the programme in the 1990s."
+  },
+  {
+   "cite": [
+    "e-c9b3d8f9c6"
+   ],
+   "text": "Jacques Vallee, at SRI in the early 1970s in the same period as Puthoff's programme, is said to have been consulted on the classified remote-viewing research."
+  }
+ ],
+ "contested": [
+  {
+   "cite": [
+    "c-70cd480907",
+    "c-6c4effe620",
+    "c-720c022de0"
+   ],
+   "text": "Several common accounts do not survive the documents: the CENTER LANE office was the Security Support Detachment, not the Systems Exploitation Detachment; the move to DIA was INSCOM's own recommendation, not a DIA rescue after a congressional petition; and the 1995 review was the CIA's, not the veterans'."
+  },
+  {
+   "cite": [
+    "c-1da1db42cc",
+    "c-77e62c85ed",
+    "c-727c44ae0e",
+    "e-832f8bc50a"
+   ],
+   "text": "The board reads STAR GATE as the closest documented analogue to the concealment structure it alleges for materiel exploitation, contractor science inside compartmented military operations, and DIA's decades running it as the precedent for its 2008 AAWSAP contract. These are structural inferences."
+  },
+  {
+   "cite": [
+    "e-36c03e7cc0"
+   ],
+   "text": "The board holds that a ridiculed subject was carried at service-secretary level of access control, but notes that no opened record connects CENTER LANE to waived or unacknowledged status."
+  },
+  {
+   "cite": [
+    "c-2317186f23",
+    "c-b6b9fa8a50"
+   ],
+   "text": "The board infers that the consciousness framing entered the modern UAP programmes through personnel continuity rather than evidence, carried by Puthoff, Green and Vallee across both eras, and that four decades of funding for one investigator show a durable requirement."
+  },
+  {
+   "cite": [
+    "c-480df271ed"
+   ],
+   "text": "The board infers that the repeated renaming shows codeword churn on compromise is standard practice, which is why searches of the UAP record by programme name under-count."
+  }
+ ],
+ "essays": [],
+ "focusEra": "1",
+ "id": "stargate",
+ "kind": "programme",
+ "lead": {
+  "cite": [
+   "e-12505ae981",
+   "c-f1058e5214",
+   "c-720c022de0",
+   "c-ef777bce21",
+   "c-c76e938a0d"
+  ],
+  "text": "STAR GATE is the last name of the US government's remote-viewing effort. CIA's Office of Technical Service funded research by Harold Puthoff and Russell Targ at SRI from 1972, and the work ran under federal contract through Army and DIA programmes until 1995, when a CIA-commissioned evaluation found the information too vague and ambiguous for actionable intelligence and the programme was ended."
+ },
+ "members": [
+  {
+   "cls": "event",
+   "id": "stargate-program",
+   "label": "STAR GATE and predecessor remote viewing programs, 1970-1995",
+   "role": "subject"
+  },
+  {
+   "cls": "program",
+   "id": "grill-flame",
+   "label": "GRILL FLAME",
+   "role": "programme"
+  },
+  {
+   "cls": "program",
+   "id": "center-lane",
+   "label": "CENTER LANE",
+   "role": "programme"
+  },
+  {
+   "cls": "program",
+   "id": "sun-streak",
+   "label": "SUN STREAK",
+   "role": "programme"
+  },
+  {
+   "cls": "institution",
+   "id": "inscom",
+   "label": "US Army Intelligence and Security Command (INSCOM)",
+   "role": "institution"
+  },
+  {
+   "cls": "institution",
+   "id": "902d-mi-group",
+   "label": "902d Military Intelligence Group, USAINSCOM",
+   "role": "institution"
+  },
+  {
+   "cls": "institution",
+   "id": "dia",
+   "label": "Defense Intelligence Agency",
+   "role": "institution"
+  },
+  {
+   "cls": "institution",
+   "id": "sri-international",
+   "label": "SRI International (Stanford Research Institute)",
+   "role": "contractor"
+  },
+  {
+   "cls": "location",
+   "id": "l-sri",
+   "label": "SRI International, Menlo Park, California",
+   "role": "place"
+  },
+  {
+   "cls": "institution",
+   "id": "monroe-institute",
+   "label": "The Monroe Institute",
+   "role": "institution"
+  },
+  {
+   "cls": "person",
+   "id": "harold-puthoff",
+   "label": "Harold E. Puthoff",
+   "role": "researcher"
+  },
+  {
+   "cls": "person",
+   "id": "russell-targ",
+   "label": "Russell Targ",
+   "role": "researcher"
+  },
+  {
+   "cls": "person",
+   "id": "jacques-vallee",
+   "label": "Jacques F. Vallee",
+   "role": "researcher"
+  },
+  {
+   "cls": "person",
+   "id": "kit-green",
+   "label": "Christopher C. 'Kit' Green",
+   "role": "official"
+  },
+  {
+   "cls": "person",
+   "id": "james-clapper",
+   "label": "James R. Clapper Jr.",
+   "role": "official"
+  },
+  {
+   "cls": "program",
+   "id": "nids",
+   "label": "National Institute for Discovery Science (NIDS)",
+   "role": "institution"
+  },
+  {
+   "cls": "document",
+   "id": "dird-series",
+   "label": "The 38 Defense Intelligence Reference Documents (DIRDs)",
+   "role": "document"
+  },
+  {
+   "cls": "institution",
+   "id": "ttsa",
+   "label": "To The Stars Academy of Arts & Science Inc. (later To The Stars Inc.)",
+   "role": "institution"
+  },
+  {
+   "cls": "program",
+   "id": "waived-usap",
+   "label": "Waived unacknowledged special access program (waived USAP)",
+   "role": "programme"
+  }
+ ],
+ "notes": "The remote-viewing programmes from SRI to STAR GATE: a stable sub-group of the AAWSAP community that predates it by three decades.",
+ "questions": [
+  "What does CENTER LANE's withheld security classification guide say about what the programme protected?",
+  "Who were the remote viewers, interviewers and observers whose names the released records withhold?",
+  "What exactly did Kit Green do as CIA's monitor of the SRI work, and is there a document that records it?",
+  "Is there a record of James Clapper's role in the programme in the 1990s beyond the board's secondary account?",
+  "Did Puthoff do any classified companion work alongside his later unclassified reference document?",
+  "Was Andrija Puharich's Army-noticed work an agency-funded predecessor of the SRI research, as some accounts claim?"
+ ],
+ "record": [
+  {
+   "cite": [
+    "c-d71ba63641",
+    "e-291eb35747"
+   ],
+   "text": "INSCOM dates its own psychoenergetics work from Project GRILL FLAME in 1977 and says the project was run on an ad hoc basis, with resources taken out of hide."
+  },
+  {
+   "cite": [
+    "c-8132c28e28",
+    "e-de643cfc77"
+   ],
+   "text": "A 1978 talking paper records the Army's intelligence chief and INSCOM's commander agreeing that INSCOM would check out parapsychology and that Army Intelligence would obligate $75,000 for an SRI subject selection and training programme, with orientation at SRI in November 1978."
+  },
+  {
+   "cite": [
+    "c-5cbeb54c42",
+    "c-19bbd719b9"
+   ],
+   "text": "INSCOM's FY1981 history records that GRILL FLAME began as a specially controlled and compartmented activity under the Army's intelligence chief, that INSCOM was orally tasked to evaluate it in October 1978, and that programme management passed to INSCOM's Detachment G on 11 February 1981."
+  },
+  {
+   "cite": [
+    "c-70cd480907",
+    "c-d7a9480a2f",
+    "c-c471c9f8f0",
+    "c-53989f3044",
+    "e-4f85109602"
+   ],
+   "text": "The CENTER LANE project office was the Security Support Detachment of the 902d Military Intelligence Group at Fort Meade. Its programme package proposed a new intelligence programme using psychoenergetics and records taskings from 1978 to 1983 for the Army, DIA, the Joint Chiefs, CIA, NSA, the FBI and the Secret Service."
+  },
+  {
+   "cite": [
+    "c-263f08beaa",
+    "c-ef17562c23",
+    "c-3f5531879f"
+   ],
+   "text": "Every page of CENTER LANE's paperwork carries a special access warning restricting it to those with category three access, and its deactivation letter asks the Army to discontinue it as a Secretary of the Army designated special access programme. Its security classification guide is indexed but withheld."
+  },
+  {
+   "cite": [
+    "c-4431d8670d",
+    "e-d429fabffa",
+    "e-a0cfe27be5"
+   ],
+   "text": "INSCOM's commanding general wrote in July 1984 that the command should end its involvement in psychoenergetic research and operations and transfer them to a national agency such as DIA or NSA; the letter of 2 March 1985 records the deactivation and the attachment of CENTER LANE assets to DIA."
+  },
+  {
+   "cite": [
+    "c-ea02501d4d"
+   ],
+   "text": "A 1985 memorandum recommending a twelve-person prototype operational group gives the SUN STREAK budget line as DRAGOON ABSORB."
+  },
+  {
+   "cite": [
+    "c-74a958e0f3",
+    "c-b89c97c61e",
+    "c-ce6c38ca78",
+    "c-d9a37c50ec",
+    "e-1bc0ff3291"
+   ],
+   "text": "An INSCOM memorandum of 9 June 1983 assesses the Monroe Institute's Gateway Experience for personnel required to take the training, names remote viewing as a follow-on technique within it, and finds a sound basis for considering it plausible, while recording that the Institute's own trainers said no one had ever read all ten numbers correctly in out-of-body tests."
+  },
+  {
+   "cite": [
+    "c-a932fee29a",
+    "c-ef777bce21"
+   ],
+   "text": "The 1995 evaluation, An Evaluation of Remote Viewing: Research and Applications, was written for the American Institutes for Research by Michael Mumford, Andrew Rose and David Goslin, with Jessica Utts and Ray Hyman as reviewers. It found the information vague and ambiguous, never used to guide intelligence operations, and concluded that continued operational use was not warranted."
+  },
+  {
+   "cite": [
+    "c-720c022de0"
+   ],
+   "text": "The review was the CIA's own, run by its Office of Research and Development with the AIR panel, and a CIA paper of June 1995 records the choice of an outside panel as deliberate strategy."
+  },
+  {
+   "cite": [
+    "c-f22ebfdcb3",
+    "c-0b5fbd5f9a"
+   ],
+   "text": "The released records withhold the unit's people: session forms leave the remote viewer, interviewer and observer fields blank, and memoranda substitute CIA release codes for names."
+  }
+ ],
+ "related": [
+  "skinwalker-nids",
+  "aawsap-baass",
+  "dirds",
+  "ttsa",
+  "cia-secrecy-precedents",
+  "sap-governance",
+  "carve-outs",
+  "academic-science",
+  "biology-medical"
+ ],
+ "section": "official-study",
+ "span": {
+  "from": "1970",
+  "to": "1995"
+ },
+ "status": "verified",
+ "summary": [
+  {
+   "cite": [
+    "c-e95749f8eb",
+    "c-ea02501d4d",
+    "e-d616860509",
+    "e-bb8dce4fed"
+   ],
+   "text": "Secondary accounts give the effort a succession of cryptonyms: SCANATE at CIA around 1970, GONDOLA WISH in 1977, GRILL FLAME from 1978, CENTER LANE from 1983, SUN STREAK at DIA from late 1985 and STAR GATE from 1991. The opened records confirm GRILL FLAME, CENTER LANE and SUN STREAK becoming STAR GATE, and add a budget-line name, DRAGOON ABSORB."
+  },
+  {
+   "cite": [
+    "c-c4bc2f94fe",
+    "c-976bcb7a16",
+    "e-12505ae981",
+    "e-cf46504728"
+   ],
+   "text": "SRI held the science half. Puthoff and Targ published remote-viewing results in Nature in October 1974 and wrote the Standard Remote Viewing Protocol of November 1978, later declassified; CIA's Office of Technical Service funded the work from 1972 before Army INSCOM and DIA took over sponsorship."
+  },
+  {
+   "cite": [
+    "c-8132c28e28",
+    "c-19bbd719b9",
+    "c-ef17562c23",
+    "c-6c4effe620",
+    "e-d429fabffa"
+   ],
+   "text": "The Army staff started the operational side: Army Intelligence paid for SRI to select and train INSCOM personnel in 1978, GRILL FLAME passed to INSCOM in 1981, and its successor CENTER LANE was a Secretary of the Army designated special access programme until INSCOM recommended ending it in 1984 and handed its assets to DIA in 1985."
+  },
+  {
+   "cite": [
+    "c-67877671f3",
+    "c-a932fee29a",
+    "c-c76e938a0d",
+    "c-b7b39def87"
+   ],
+   "text": "At the end the DIA programme was three remote viewers and three support staff. The American Institutes for Research evaluation of September 1995 closed it, and the CIA put the records online in its CREST archive in January 2017."
+  },
+  {
+   "cite": [
+    "e-d0c3d3a987",
+    "e-a529a230ea",
+    "e-b4d6399d50",
+    "e-0fa64ffe4b"
+   ],
+   "text": "The same principal investigator links this programme to the later UAP work: Puthoff ran the SRI science, was hired as a consultant by Bigelow's NIDS, wrote a reference document under AAWSAP and co-founded To The Stars Academy."
+  }
+ ],
+ "title": "STAR GATE and remote viewing"
+}

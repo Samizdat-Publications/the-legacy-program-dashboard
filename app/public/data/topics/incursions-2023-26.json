@@ -1,0 +1,1331 @@
+{
+ "absorbs": [],
+ "anchors": [
+  "langley-2023-incursions",
+  "nj-drone-incursions-2024",
+  "barksdale-2026-incursions",
+  "norad-northcom",
+  "gregory-guillot",
+  "jiatf-401",
+  "shootdowns-feb-2023",
+  "l-langley-afb",
+  "l-barksdale"
+ ],
+ "appendixT": "incursions-2023-26",
+ "cites": {
+  "c-0cbe20e600": {
+   "id": "c-0cbe20e600",
+   "kind": "claim",
+   "node": "langley-2023-incursions",
+   "nodeLabel": "Langley AFB Drone Incursions (December 2023)",
+   "source": {
+    "domain": null,
+    "text": "Langley AFB / US Air Force statement to The War Zone, 15 March 2024",
+    "url": null
+   },
+   "text": "'The installation first observed UAS activities the evening of December 6 [2023] and experienced multiple incursions throughout the month of December.'",
+   "tier": 1
+  },
+  "c-125bc71b66": {
+   "id": "c-125bc71b66",
+   "kind": "claim",
+   "node": "barksdale-2026-incursions",
+   "nodeLabel": "Barksdale AFB and Strategic Base Incursions (Feb-Mar 2026)",
+   "source": {
+    "domain": null,
+    "text": "The War Zone, 25 March 2026",
+    "url": null
+   },
+   "text": "Multiple waves of 12-15 drones were observed over sensitive areas including the flight line during the week of 9 March 2026; drones showed non-commercial signal characteristics and resistance to jamming.",
+   "tier": 2
+  },
+  "c-12f27e6951": {
+   "id": "c-12f27e6951",
+   "kind": "claim",
+   "node": "jiatf-401",
+   "nodeLabel": "Joint Interagency Task Force 401 (JIATF-401)",
+   "source": {
+    "domain": null,
+    "text": "The Debrief, 30 January 2026",
+    "url": null
+   },
+   "text": "JIATF-401 was established in August 2025 and is directed by Brig. Gen. Matt Ross.",
+   "tier": 1
+  },
+  "c-13ade2a986": {
+   "id": "c-13ade2a986",
+   "kind": "claim",
+   "node": "jiatf-401",
+   "nodeLabel": "Joint Interagency Task Force 401 (JIATF-401)",
+   "source": {
+    "domain": null,
+    "text": "DoD Inspector General, DODIG-2026-045, reported 30 January 2026",
+    "url": null
+   },
+   "text": "DODIG-2026-045 (21 January 2026) evaluated ten installations with drone incursions and interviewed officials from 31 DoD components and 4 federal agencies.",
+   "tier": 1
+  },
+  "c-20e7e3d924": {
+   "id": "c-20e7e3d924",
+   "kind": "claim",
+   "node": "norad-northcom",
+   "nodeLabel": "NORAD and US Northern Command",
+   "source": {
+    "domain": null,
+    "text": "NORAD Newsroom press releases, 2026",
+    "url": null
+   },
+   "text": "NORAD continued issuing intercept press releases through 2026, including multiple temporary flight restriction violation intercepts in the Northeast and over New Jersey.",
+   "tier": 1
+  },
+  "c-35741be0cc": {
+   "id": "c-35741be0cc",
+   "kind": "claim",
+   "node": "shootdowns-feb-2023",
+   "nodeLabel": "February 2023 Alaska, Yukon and Lake Huron Shootdowns",
+   "source": {
+    "domain": null,
+    "text": "Sean Kirkpatrick, quoted by The War Zone, 22 May 2026",
+    "url": null
+   },
+   "text": "'We scrambled jets and shot down a bunch of things. Do you know what we shot down? Balloons.'",
+   "tier": 2
+  },
+  "c-37c763c871": {
+   "id": "c-37c763c871",
+   "kind": "claim",
+   "node": "gregory-guillot",
+   "nodeLabel": "Gregory M. Guillot",
+   "source": {
+    "domain": null,
+    "text": "Gen. Gregory Guillot, reported by The War Zone, 25 March 2026",
+    "url": null
+   },
+   "text": "'We've seen an increase from last year in the number of detections over military installations'; roughly one quarter of detected drones are now defeated, versus almost none previously.",
+   "tier": 2
+  },
+  "c-38a4e69cb3": {
+   "id": "c-38a4e69cb3",
+   "kind": "claim",
+   "node": "gregory-guillot",
+   "nodeLabel": "Gregory M. Guillot",
+   "source": {
+    "domain": null,
+    "text": "Gen. Gregory Guillot to The War Zone, 30 October 2024",
+    "url": null
+   },
+   "text": "'The only thing I can tell you about the Langley drones is roughly the number and roughly the altitude.'",
+   "tier": 2
+  },
+  "c-39116673f4": {
+   "id": "c-39116673f4",
+   "kind": "claim",
+   "node": "nj-drone-incursions-2024",
+   "nodeLabel": "New Jersey and East Coast Drone Wave (Nov-Dec 2024)",
+   "source": {
+    "domain": null,
+    "text": "The Debrief, 17 December 2024",
+    "url": null
+   },
+   "text": "The assessment acknowledged limited recent sightings over military facilities in restricted airspace, contradicting earlier White House statements denying such incidents.",
+   "tier": 1
+  },
+  "c-3bee01484c": {
+   "id": "c-3bee01484c",
+   "kind": "claim",
+   "node": "l-barksdale",
+   "nodeLabel": "Barksdale Air Force Base, Louisiana",
+   "source": {
+    "domain": null,
+    "text": "Capt. Hunter Rininger, Barksdale AFB Public Affairs, 9 March 2026",
+    "url": null
+   },
+   "text": "'Earlier this morning, Barksdale Air Force Base received a report of an unmanned aerial system operating over the installation.'",
+   "tier": 1
+  },
+  "c-3d4d8f3c54": {
+   "id": "c-3d4d8f3c54",
+   "kind": "claim",
+   "node": "langley-2023-incursions",
+   "nodeLabel": "Langley AFB Drone Incursions (December 2023)",
+   "source": {
+    "domain": null,
+    "text": "The War Zone, 15 March 2024",
+    "url": null
+   },
+   "text": "Response included F-16 combat air patrols with aerial refueling, NASA WB-57F surveillance orbits, FBI coordination through NORTHCOM and FAA notification.",
+   "tier": 1
+  },
+  "c-3e9cc27430": {
+   "id": "c-3e9cc27430",
+   "kind": "claim",
+   "node": "ndaa26-uap-provisions",
+   "nodeLabel": "NDAA FY2026 UAP provisions (Secs. 1671-1673)",
+   "source": {
+    "domain": "www.govinfo.gov",
+    "text": "https://www.govinfo.gov/content/pkg/PLAW-119publ60/html/PLAW-119publ60.htm",
+    "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ60/html/PLAW-119publ60.htm"
+   },
+   "text": "Section 1671 requires briefings on intercepts of UAP by North American Aerospace Defense Command and United States Northern Command.",
+   "tier": 1
+  },
+  "c-56fb79086f": {
+   "id": "c-56fb79086f",
+   "kind": "claim",
+   "node": "jiatf-401",
+   "nodeLabel": "Joint Interagency Task Force 401 (JIATF-401)",
+   "source": {
+    "domain": null,
+    "text": "The Debrief, 30 January 2026",
+    "url": null
+   },
+   "text": "Guidance announced 30 January 2026 removed the 'fence-line' limitation, defined 'unauthorized surveillance' as an explicit threat, and granted commanders 'totality of circumstances' discretion.",
+   "tier": 1
+  },
+  "c-5ba6f0e141": {
+   "id": "c-5ba6f0e141",
+   "kind": "claim",
+   "node": "shootdowns-feb-2023",
+   "nodeLabel": "February 2023 Alaska, Yukon and Lake Huron Shootdowns",
+   "source": {
+    "domain": null,
+    "text": "Privy Council Office memo, 14 February 2023, obtained and reported by The War Zone, 7 September 2023",
+    "url": null
+   },
+   "text": "Secret memo of 14 February 2023 from Clerk of the Privy Council Janice Charette to PM Trudeau: 'The full exploitation of UAP #20, which was engaged by the U.S. on February 10, 2023, has not yet been completed.'",
+   "tier": 1
+  },
+  "c-6366929b43": {
+   "id": "c-6366929b43",
+   "kind": "claim",
+   "node": "nj-drone-incursions-2024",
+   "nodeLabel": "New Jersey and East Coast Drone Wave (Nov-Dec 2024)",
+   "source": {
+    "domain": null,
+    "text": "The Debrief, 17 December 2024",
+    "url": null
+   },
+   "text": "Wright-Patterson Air Force Base closed its airspace for nearly four hours on 14-15 December 2024 due to unauthorized drone activity.",
+   "tier": 1
+  },
+  "c-68c6586b51": {
+   "id": "c-68c6586b51",
+   "kind": "claim",
+   "node": "doc-cincnorad-1975-11-11",
+   "nodeLabel": "CINCNORAD four-part message, 11 November 1975",
+   "source": {
+    "domain": "www.nicap.org",
+    "text": "NICAP, 'UFOs Intrude Into SAC Base Weapons Areas', quoting the CINCNORAD message of 11 November 1975, http://www.nicap.org/intsac.htm , opened 2026-09-19",
+    "url": "http://www.nicap.org/intsac.htm"
+   },
+   "text": "The message's opening, as excerpted: 'Since 28 Oct 75 numerous reports of suspicious objects have been received at the NORAD CU; reliable military personnel at Loring AFB, Maine, Wurtsmith AFB, Michigan, Malmstrom AFB, Mt, Minot AFB, ND, and Canadian Forces Station, Falconbridge, Ontario, Canada have visually sighted suspicious objects.'",
+   "tier": 1
+  },
+  "c-6b223c28c8": {
+   "id": "c-6b223c28c8",
+   "kind": "claim",
+   "node": "matt-ross",
+   "nodeLabel": "Matt Ross",
+   "source": {
+    "domain": null,
+    "text": "DoD Office of Inspector General report DODIG-2026-045, reported 30 January 2026",
+    "url": null
+   },
+   "text": "DODIG-2026-045, dated 21 January 2026, evaluated ten installations with drone incursions and interviewed officials from 31 DoD components and 4 federal agencies, finding inconsistent policies and approval processes that delayed counter-drone deployment.",
+   "tier": 1
+  },
+  "c-714b17fcc8": {
+   "id": "c-714b17fcc8",
+   "kind": "claim",
+   "node": "barksdale-2026-incursions",
+   "nodeLabel": "Barksdale AFB and Strategic Base Incursions (Feb-Mar 2026)",
+   "source": {
+    "domain": null,
+    "text": "The War Zone, 25 March 2026",
+    "url": null
+   },
+   "text": "A NORTHCOM spokesman on 25 March 2026 declined to specify affected base locations for operational security and confirmed jamming protocols were deployed.",
+   "tier": 2
+  },
+  "c-80b8f4ec61": {
+   "id": "c-80b8f4ec61",
+   "kind": "claim",
+   "node": "l-langley-afb",
+   "nodeLabel": "Langley Air Force Base / Joint Base Langley-Eustis, Virginia",
+   "source": {
+    "domain": null,
+    "text": "The War Zone, 9 October 2024",
+    "url": null
+   },
+   "text": "Protective netting to shield F-22s was under consideration by October 2024.",
+   "tier": 2
+  },
+  "c-8295afa3b6": {
+   "id": "c-8295afa3b6",
+   "kind": "claim",
+   "node": "gregory-guillot",
+   "nodeLabel": "Gregory M. Guillot",
+   "source": {
+    "domain": null,
+    "text": "Gen. Gregory Guillot to The War Zone, 30 October 2024",
+    "url": null
+   },
+   "text": "'I have not seen [and] I do not know of any organized or unorganized foreign nexus.'",
+   "tier": 2
+  },
+  "c-878017e4ba": {
+   "id": "c-878017e4ba",
+   "kind": "claim",
+   "node": "barksdale-2026-incursions",
+   "nodeLabel": "Barksdale AFB and Strategic Base Incursions (Feb-Mar 2026)",
+   "source": {
+    "domain": null,
+    "text": "The War Zone, 25 March 2026",
+    "url": null
+   },
+   "text": "The incursions followed the launch of Operation Epic Fury, the US bombing campaign against Iran involving B-52, B-1 and B-2 aircraft.",
+   "tier": 2
+  },
+  "c-8eef6362b8": {
+   "id": "c-8eef6362b8",
+   "kind": "claim",
+   "node": "barksdale-2026-incursions",
+   "nodeLabel": "Barksdale AFB and Strategic Base Incursions (Feb-Mar 2026)",
+   "source": {
+    "domain": null,
+    "text": "Capt. Hunter Rininger, Chief of Public Affairs, Barksdale AFB, 9 March 2026",
+    "url": null
+   },
+   "text": "'Earlier this morning, Barksdale Air Force Base received a report of an unmanned aerial system operating over the installation.'",
+   "tier": 1
+  },
+  "c-9072cecd8e": {
+   "id": "c-9072cecd8e",
+   "kind": "claim",
+   "node": "shootdowns-feb-2023",
+   "nodeLabel": "February 2023 Alaska, Yukon and Lake Huron Shootdowns",
+   "source": {
+    "domain": null,
+    "text": "Charette memo, 14 February 2023",
+    "url": null
+   },
+   "text": "The Yukon object, UAP #23, 'remains unverified' as to 'function, method of propulsion, or affiliation to any nation-state.'",
+   "tier": 1
+  },
+  "c-9754e30561": {
+   "id": "c-9754e30561",
+   "kind": "claim",
+   "node": "langley-2023-incursions",
+   "nodeLabel": "Langley AFB Drone Incursions (December 2023)",
+   "source": {
+    "domain": null,
+    "text": "Gen. Mark Kelly, via the Wall Street Journal, reported by The War Zone, 30 October 2024",
+    "url": null
+   },
+   "text": "At least one drone was roughly 20 feet long, flying at more than 100 mph at roughly 3,000 to 4,000 feet.",
+   "tier": 2
+  },
+  "c-9e4e2aea2f": {
+   "id": "c-9e4e2aea2f",
+   "kind": "claim",
+   "node": "matt-ross",
+   "nodeLabel": "Matt Ross",
+   "source": {
+    "domain": null,
+    "text": "The Debrief, 30 January 2026",
+    "url": null
+   },
+   "text": "Updated guidance announced 30 January 2026 removed the 'fence-line' limitation, defined 'unauthorized surveillance' as an explicit threat, and gave commanders 'totality of circumstances' discretion.",
+   "tier": 1
+  },
+  "c-a0ef35b47f": {
+   "id": "c-a0ef35b47f",
+   "kind": "claim",
+   "node": "gregory-guillot",
+   "nodeLabel": "Gregory M. Guillot",
+   "source": {
+    "domain": null,
+    "text": "NORAD, via The War Zone, 30 October 2024",
+    "url": null
+   },
+   "text": "NORAD counted more than 600 drone reports above US military installations since 2022.",
+   "tier": 2
+  },
+  "c-ae62fbcdd5": {
+   "id": "c-ae62fbcdd5",
+   "kind": "claim",
+   "node": "ndaa26-uap-provisions",
+   "nodeLabel": "NDAA FY2026 UAP provisions (Secs. 1671-1673)",
+   "source": {
+    "domain": null,
+    "text": "PLAW-119publ60 sec. 1671(b)",
+    "url": null
+   },
+   "text": "Sec. 1671(b) requires the first post-enactment briefing to cover NORAD/USNORTHCOM UAP intercepts 'not previously provided that occurred during the period beginning on January 1, 2004'.",
+   "tier": 1
+  },
+  "c-b906cb945c": {
+   "id": "c-b906cb945c",
+   "kind": "claim",
+   "node": "barksdale-2026-incursions",
+   "nodeLabel": "Barksdale AFB and Strategic Base Incursions (Feb-Mar 2026)",
+   "source": {
+    "domain": null,
+    "text": "The Debrief, 9 March 2026",
+    "url": null
+   },
+   "text": "Barksdale raised force protection to FPCON Charlie and issued a shelter-in-place order via text alert on 9 March 2026.",
+   "tier": 1
+  },
+  "c-bb1dbc6a36": {
+   "id": "c-bb1dbc6a36",
+   "kind": "claim",
+   "node": "ndaa26-uap-provisions",
+   "nodeLabel": "NDAA FY2026 UAP provisions (Secs. 1671-1673)",
+   "source": {
+    "domain": null,
+    "text": "PLAW-119publ60 table of contents and secs. 1671-1673",
+    "url": null
+   },
+   "text": "Public Law 119-60 (FY2026 NDAA, approved 18 December 2025), Div. A, Title XVI, secs. 1671-1673, 139 Stat. 1201-1203: sec. 1671 'Briefings on intercepts of unidentified anomalous phenomena by North American Aerospace Defense Command and United States Northern Command'; sec. 1672 'Elimination of duplicative reporting requirements relating to unidentified anomalous phenomena'; sec. 1673 'Accounting of security classification guides relating to unidentified anomalous phenomena'.",
+   "tier": 1
+  },
+  "c-bd6fe98f1c": {
+   "id": "c-bd6fe98f1c",
+   "kind": "claim",
+   "node": "shootdowns-feb-2023",
+   "nodeLabel": "February 2023 Alaska, Yukon and Lake Huron Shootdowns",
+   "source": {
+    "domain": null,
+    "text": "F-16 pilot audio, reported by The War Zone",
+    "url": null
+   },
+   "text": "Pilot audio: 'In the targeting pod, I can't tell if it's metallic or what, but I can see like lines coming down below it.'",
+   "tier": 2
+  },
+  "c-c390ed4d24": {
+   "id": "c-c390ed4d24",
+   "kind": "claim",
+   "node": "jiatf-401",
+   "nodeLabel": "Joint Interagency Task Force 401 (JIATF-401)",
+   "source": {
+    "domain": null,
+    "text": "Cited in The Debrief, 30 January 2026",
+    "url": null
+   },
+   "text": "Restricted-airspace drone sightings rose 26 percent in 2025.",
+   "tier": 2
+  },
+  "c-c735d9016b": {
+   "id": "c-c735d9016b",
+   "kind": "claim",
+   "node": "nj-drone-incursions-2024",
+   "nodeLabel": "New Jersey and East Coast Drone Wave (Nov-Dec 2024)",
+   "source": {
+    "domain": null,
+    "text": "Joint federal statement, 17 December 2024",
+    "url": null
+   },
+   "text": "The FBI received over 5,000 drone reports; officials analysed roughly 100 specific leads and attributed them to commercial, hobbyist and law enforcement drones, manned aircraft, helicopters and stars.",
+   "tier": 1
+  },
+  "c-d68cf20906": {
+   "id": "c-d68cf20906",
+   "kind": "claim",
+   "node": "langley-2023-incursions",
+   "nodeLabel": "Langley AFB Drone Incursions (December 2023)",
+   "source": {
+    "domain": null,
+    "text": "Langley AFB spokesperson to The War Zone, March 2024",
+    "url": null
+   },
+   "text": "'None of the incursions appeared to exhibit hostile intent but anything flying in our restricted airspace can pose a threat to flight safety.'",
+   "tier": 2
+  },
+  "c-e6e3ce2d21": {
+   "id": "c-e6e3ce2d21",
+   "kind": "claim",
+   "node": "shootdowns-feb-2023",
+   "nodeLabel": "February 2023 Alaska, Yukon and Lake Huron Shootdowns",
+   "source": {
+    "domain": null,
+    "text": "The War Zone, 22 May 2026",
+    "url": null
+   },
+   "text": "The Lake Huron object was engaged on 12 February 2023 by two F-16CMs of the Minnesota Air National Guard's 148th Fighter Wing using an AIM-9X at roughly 20,000 feet.",
+   "tier": 1
+  },
+  "c-f1f518b95b": {
+   "id": "c-f1f518b95b",
+   "kind": "claim",
+   "node": "nj-drone-incursions-2024",
+   "nodeLabel": "New Jersey and East Coast Drone Wave (Nov-Dec 2024)",
+   "source": {
+    "domain": null,
+    "text": "Joint federal statement, 17 December 2024, reported by The Debrief",
+    "url": null
+   },
+   "text": "Joint statement of 17 December 2024 by DoD, DHS, FBI and FAA: 'We have not identified anything anomalous, and do not assess the activity to date to present a national security or public safety risk over the civilian airspace in New Jersey or other states.'",
+   "tier": 1
+  },
+  "c-f6ef66a513": {
+   "id": "c-f6ef66a513",
+   "kind": "claim",
+   "node": "shootdowns-feb-2023",
+   "nodeLabel": "February 2023 Alaska, Yukon and Lake Huron Shootdowns",
+   "source": {
+    "domain": null,
+    "text": "The War Zone, 22 May 2026",
+    "url": null
+   },
+   "text": "Infrared video of the Lake Huron shootdown was released on 22 May 2026 through PURSUE; the source entry noted a lack of 'substantiated chain-of-custody.'",
+   "tier": 1
+  },
+  "c-f8c2919cd7": {
+   "id": "c-f8c2919cd7",
+   "kind": "claim",
+   "node": "norad-northcom",
+   "nodeLabel": "NORAD and US Northern Command",
+   "source": {
+    "domain": null,
+    "text": "The War Zone, 30 October 2024",
+    "url": null
+   },
+   "text": "Guillot established Falcon Peak, a counter-drone demonstration with multiple vendors, and advocates a layered approach including directed energy.",
+   "tier": 2
+  },
+  "e-05942785bc": {
+   "endpoints": [
+    {
+     "id": "shootdowns-feb-2023",
+     "label": "February 2023 Alaska, Yukon and Lake Huron Shootdowns"
+    },
+    {
+     "id": "charette-memo-2023",
+     "label": "Charette Privy Council Memorandum (Secret, 14 Feb 2023)"
+    }
+   ],
+   "id": "e-05942785bc",
+   "kind": "edge",
+   "label": "Allied government's contemporaneous Secret record of the engagements",
+   "sources": [
+    {
+     "date": "2023-09-07",
+     "name": "The War Zone - secret memo raises more questions about the shootdowns",
+     "url": "https://www.twz.com/secret-memo-raises-more-questions-about-ufo-shootdowns-over-alaska-canada"
+    }
+   ],
+   "text": "The 14 February 2023 Privy Council memo to Prime Minister Trudeau documents that exploitation of the Alaska object was incomplete and the Yukon object unverified as to function and propulsion.",
+   "tier": 1,
+   "type": "investigative"
+  },
+  "e-5096558a18": {
+   "endpoints": [
+    {
+     "id": "shootdowns-feb-2023",
+     "label": "February 2023 Alaska, Yukon and Lake Huron Shootdowns"
+    },
+    {
+     "id": "norad-northcom",
+     "label": "NORAD and US Northern Command"
+    }
+   ],
+   "id": "e-5096558a18",
+   "kind": "edge",
+   "label": "NORAD-controlled fighters destroyed three unidentified objects in four days",
+   "sources": [
+    {
+     "date": "2026-05-22",
+     "name": "The War Zone - we finally see the object shot down over Lake Huron",
+     "url": "https://www.twz.com/air/we-finally-see-the-mysterious-object-shot-down-by-f-16s-over-lake-huron"
+    }
+   ],
+   "text": "Two F-16CMs of the Minnesota Air National Guard's 148th Fighter Wing destroyed the Lake Huron object with an AIM-9X at roughly 20,000 feet on 12 February 2023.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-510cee0e6a": {
+   "endpoints": [
+    {
+     "id": "gregory-guillot",
+     "label": "Gregory M. Guillot"
+    },
+    {
+     "id": "langley-2023-incursions",
+     "label": "Langley AFB Drone Incursions (December 2023)"
+    }
+   ],
+   "id": "e-510cee0e6a",
+   "kind": "edge",
+   "label": "Public non-attribution finding by the homeland air defence commander",
+   "sources": [
+    {
+     "date": "2024-10-30",
+     "name": "The War Zone - NORAD commander on the Langley incursions",
+     "url": "https://www.twz.com/air/heres-what-norads-commander-just-told-us-about-the-langley-afb-drone-incursions"
+    }
+   ],
+   "text": "'I have not seen [and] I do not know of any organized or unorganized foreign nexus' - a four-star conceding that seventeen nights of intrusions over an F-22 base cannot be attributed.",
+   "tier": 2,
+   "type": "investigative"
+  },
+  "e-6828c41d6e": {
+   "endpoints": [
+    {
+     "id": "langley-2023-incursions",
+     "label": "Langley AFB Drone Incursions (December 2023)"
+    },
+    {
+     "id": "nj-drone-incursions-2024",
+     "label": "New Jersey and East Coast Drone Wave (Nov-Dec 2024)"
+    }
+   ],
+   "id": "e-6828c41d6e",
+   "kind": "edge",
+   "label": "Twelve months apart; the second wave was publicly resolved, the first never was",
+   "sources": [
+    {
+     "date": "2024-03-15",
+     "name": "The War Zone - mysterious drones swarmed Langley AFB for weeks",
+     "url": "https://www.twz.com/air/mysterious-drones-swarmed-langley-afb-for-weeks"
+    },
+    {
+     "date": "2024-12-17",
+     "name": "The Debrief - Pentagon says mystery drones are common UAS and misidentifications",
+     "url": "https://thedebrief.org/pentagon-says-mystery-drones-are-common-unmanned-aerial-systems-and-misidentifications-pose-no-security-threat/"
+    }
+   ],
+   "text": "Langley produced no attribution and no public explanation; New Jersey produced a four-agency statement attributing 5,000 reports to hobbyists and misidentifications on the basis of about 100 leads.",
+   "tier": 1,
+   "type": "temporal"
+  },
+  "e-6a8f301936": {
+   "endpoints": [
+    {
+     "id": "jiatf-401",
+     "label": "Joint Interagency Task Force 401 (JIATF-401)"
+    },
+    {
+     "id": "nj-drone-incursions-2024",
+     "label": "New Jersey and East Coast Drone Wave (Nov-Dec 2024)"
+    }
+   ],
+   "id": "e-6a8f301936",
+   "kind": "edge",
+   "label": "Task force stood up in August 2025 after two years of unattributed incursions",
+   "sources": [
+    {
+     "date": "2026-01-30",
+     "name": "The Debrief - Pentagon expands base commanders' counter-drone authority",
+     "url": "https://thedebrief.org/pentagon-expands-base-commanders-authority-to-counter-rising-drone-threats-following-inspector-general-warning/"
+    },
+    {
+     "date": "2024-12-17",
+     "name": "The Debrief - Pentagon says mystery drones are common UAS and misidentifications",
+     "url": "https://thedebrief.org/pentagon-says-mystery-drones-are-common-unmanned-aerial-systems-and-misidentifications-pose-no-security-threat/"
+    }
+   ],
+   "text": "A standing joint interagency task force under a general officer is the institutional refutation of the hobbyist explanation issued eight months earlier.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-6f55bf24d3": {
+   "endpoints": [
+    {
+     "id": "ndaa26-uap-provisions",
+     "label": "NDAA FY2026 UAP provisions (Secs. 1671-1673)"
+    },
+    {
+     "id": "norad-northcom",
+     "label": "NORAD and US Northern Command"
+    }
+   ],
+   "id": "e-6f55bf24d3",
+   "kind": "edge",
+   "label": "demands an intercept history since 2004",
+   "sources": [
+    {
+     "date": "2025-12-10",
+     "name": "DefenseScoop, FY2026 NDAA UAP provisions",
+     "url": "https://defensescoop.com/2025/12/10/uap-ufo-military-intercepts-north-america-fy-2026-ndaa/"
+    }
+   ],
+   "text": "AARO must brief Congress on the number, location and nature of UAP intercepts by NORAD and US Northern Command since 2004 and the data collected during them.",
+   "tier": 2,
+   "type": "legislative"
+  },
+  "e-732728df72": {
+   "endpoints": [
+    {
+     "id": "nj-drone-incursions-2024",
+     "label": "New Jersey and East Coast Drone Wave (Nov-Dec 2024)"
+    },
+    {
+     "id": "l-wright-patterson",
+     "label": "Wright-Patterson Air Force Base, Ohio"
+    }
+   ],
+   "id": "e-732728df72",
+   "kind": "edge",
+   "label": "Wright-Patterson closed its airspace for nearly four hours during the wave",
+   "sources": [
+    {
+     "date": "2024-12-17",
+     "name": "The Debrief - Pentagon says mystery drones are common UAS and misidentifications",
+     "url": "https://thedebrief.org/pentagon-says-mystery-drones-are-common-unmanned-aerial-systems-and-misidentifications-pose-no-security-threat/"
+    }
+   ],
+   "text": "The 14-15 December 2024 airspace closure over unauthorized drone activity occurred days before the federal statement that nothing anomalous had been identified.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-909093c02a": {
+   "endpoints": [
+    {
+     "id": "norad-northcom",
+     "label": "NORAD and US Northern Command"
+    },
+    {
+     "id": "doc-cincnorad-1975-11-11",
+     "label": "CINCNORAD four-part message, 11 November 1975"
+    }
+   ],
+   "id": "e-909093c02a",
+   "kind": "edge",
+   "label": "Originated by the Commander-in-Chief, NORAD",
+   "sources": [
+    {
+     "date": "1975-11-11",
+     "name": "NICAP, 'UFOs Intrude Into SAC Base Weapons Areas, Northern U.S., October-November 1975', quoting the CINCNORAD four-part message of 11 November 1975 and the Loring teletype to the NMCC. Opened 19 September 2026",
+     "url": "http://www.nicap.org/intsac.htm"
+    }
+   ],
+   "text": "Type research: originator of the message, not custodian of anything.",
+   "tier": 1,
+   "type": "research"
+  },
+  "e-97e5d34f28": {
+   "endpoints": [
+    {
+     "id": "doc-cincnorad-1975-11-11",
+     "label": "CINCNORAD four-part message, 11 November 1975"
+    },
+    {
+     "id": "sac-overflights-1975",
+     "label": "1975 SAC Nuclear-Base Overflights (Loring, Wurtsmith, Malmstrom, Minot)"
+    }
+   ],
+   "id": "e-97e5d34f28",
+   "kind": "edge",
+   "label": "The command's own summary of the sequence, naming five installations",
+   "sources": [
+    {
+     "date": "1975-11-11",
+     "name": "NICAP, 'UFOs Intrude Into SAC Base Weapons Areas, Northern U.S., October-November 1975', quoting the CINCNORAD four-part message of 11 November 1975 and the Loring teletype to the NMCC. Opened 19 September 2026",
+     "url": "http://www.nicap.org/intsac.htm"
+    }
+   ],
+   "text": "Only excerpts have been opened; the four parts have not been seen in full.",
+   "tier": 1,
+   "type": "investigative"
+  },
+  "e-a805a28266": {
+   "endpoints": [
+    {
+     "id": "matt-ross",
+     "label": "Matt Ross"
+    },
+    {
+     "id": "jiatf-401",
+     "label": "Joint Interagency Task Force 401 (JIATF-401)"
+    }
+   ],
+   "id": "e-a805a28266",
+   "kind": "edge",
+   "label": "Director of JIATF-401 from its establishment",
+   "sources": [
+    {
+     "date": "2026-01-30",
+     "name": "The Debrief - Pentagon expands base commanders' counter-drone authority",
+     "url": "https://thedebrief.org/pentagon-expands-base-commanders-authority-to-counter-rising-drone-threats-following-inspector-general-warning/"
+    }
+   ],
+   "text": "Brig. Gen. Matt Ross directs the counter-drone joint interagency task force established in August 2025.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-ac66f4821c": {
+   "endpoints": [
+    {
+     "id": "langley-2023-incursions",
+     "label": "Langley AFB Drone Incursions (December 2023)"
+    },
+    {
+     "id": "norad-northcom",
+     "label": "NORAD and US Northern Command"
+    }
+   ],
+   "id": "e-ac66f4821c",
+   "kind": "edge",
+   "label": "Centrepiece of Guillot's 90-day counter-UAS assessment",
+   "sources": [
+    {
+     "date": "2024-03-15",
+     "name": "The War Zone - mysterious drones swarmed Langley AFB for weeks",
+     "url": "https://www.twz.com/air/mysterious-drones-swarmed-langley-afb-for-weeks"
+    },
+    {
+     "date": "2024-10-30",
+     "name": "The War Zone - NORAD commander on the Langley incursions",
+     "url": "https://www.twz.com/air/heres-what-norads-commander-just-told-us-about-the-langley-afb-drone-incursions"
+    }
+   ],
+   "text": "Guillot testified the Langley incidents dominated his assessment on taking command in February 2024 and were 'the centerpiece' of his review.",
+   "tier": 2,
+   "type": "institutional"
+  },
+  "e-ae3dacd247": {
+   "endpoints": [
+    {
+     "id": "shootdowns-feb-2023",
+     "label": "February 2023 Alaska, Yukon and Lake Huron Shootdowns"
+    },
+    {
+     "id": "pursue-releases",
+     "label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters"
+    }
+   ],
+   "id": "e-ae3dacd247",
+   "kind": "edge",
+   "label": "Lake Huron engagement video withheld until the May 2026 PURSUE release",
+   "sources": [
+    {
+     "date": "2026-05-22",
+     "name": "The War Zone - we finally see the object shot down over Lake Huron",
+     "url": "https://www.twz.com/air/we-finally-see-the-mysterious-object-shot-down-by-f-16s-over-lake-huron"
+    },
+    {
+     "date": "2026-08-12",
+     "name": "Department of War - PURSUE release site",
+     "url": "https://www.war.gov/UFO/"
+    }
+   ],
+   "text": "Infrared footage of the 12 February 2023 shootdown was released on 22 May 2026 via PURSUE, with the entry noting an unusual lack of substantiated chain of custody.",
+   "tier": 1,
+   "type": "custody"
+  },
+  "e-baa1666c7f": {
+   "endpoints": [
+    {
+     "id": "jiatf-401",
+     "label": "Joint Interagency Task Force 401 (JIATF-401)"
+    },
+    {
+     "id": "barksdale-2026-incursions",
+     "label": "Barksdale AFB and Strategic Base Incursions (Feb-Mar 2026)"
+    }
+   ],
+   "id": "e-baa1666c7f",
+   "kind": "edge",
+   "label": "The 2026 bomber-base incursions are the task force's live problem",
+   "sources": [
+    {
+     "date": "2026-03-25",
+     "name": "The War Zone - US battled drone incursions over key bases after Epic Fury",
+     "url": "https://www.twz.com/news-features/u-s-battled-drone-incursions-over-key-bases-at-home-after-launch-of-epic-fury"
+    },
+    {
+     "date": "2026-01-30",
+     "name": "The Debrief - Pentagon expands base commanders' counter-drone authority",
+     "url": "https://thedebrief.org/pentagon-expands-base-commanders-authority-to-counter-rising-drone-threats-following-inspector-general-warning/"
+    }
+   ],
+   "text": "Waves of 12-15 jam-resistant drones over a B-52 base during an active bombing campaign, with a single counter-drone fly-away kit fielded, define the capability gap DODIG-2026-045 described.",
+   "tier": 2,
+   "type": "institutional"
+  },
+  "e-d194f6627e": {
+   "endpoints": [
+    {
+     "id": "gregory-guillot",
+     "label": "Gregory M. Guillot"
+    },
+    {
+     "id": "barksdale-2026-incursions",
+     "label": "Barksdale AFB and Strategic Base Incursions (Feb-Mar 2026)"
+    }
+   ],
+   "id": "e-d194f6627e",
+   "kind": "edge",
+   "label": "Confirmed year-on-year increase in detections over installations",
+   "sources": [
+    {
+     "date": "2026-03-25",
+     "name": "The War Zone - US battled drone incursions over key bases after Epic Fury",
+     "url": "https://www.twz.com/news-features/u-s-battled-drone-incursions-over-key-bases-at-home-after-launch-of-epic-fury"
+    }
+   ],
+   "text": "'We've seen an increase from last year in the number of detections over military installations,' with roughly a quarter now defeated versus almost none previously.",
+   "tier": 2,
+   "type": "investigative"
+  },
+  "e-de3628391b": {
+   "endpoints": [
+    {
+     "id": "jon-kosloski",
+     "label": "Jon T. Kosloski"
+    },
+    {
+     "id": "langley-2023-incursions",
+     "label": "Langley AFB Drone Incursions (December 2023)"
+    }
+   ],
+   "id": "e-de3628391b",
+   "kind": "edge",
+   "label": "AARO's case work does not address the domestic incursion wave",
+   "sources": [
+    {
+     "date": "2024-11-19",
+     "name": "AARO - SASC open hearing case slides (PDF)",
+     "url": "https://www.aaro.mil/Portals/136/PDFs/SASC_AARO_Open_Hearing_Case_Slides_19Nov2024.pdf"
+    },
+    {
+     "date": "2026-07-20",
+     "name": "AARO FY2025 Consolidated Annual Report on UAP (PDF)",
+     "url": "https://www.aaro.mil/Portals/136/PDFs/FY25%20UAP%20Annual%20Report/AARO_FY2025_Consolidated_Annual_Report_on_UAP.pdf"
+    },
+    {
+     "date": "2026-01-30",
+     "name": "The Debrief - Pentagon expands base commanders' counter-drone authority",
+     "url": "https://thedebrief.org/pentagon-expands-base-commanders-authority-to-counter-rising-drone-threats-following-inspector-general-warning/"
+    }
+   ],
+   "text": "Neither the published case slides nor the FY2025 report present an assessment of the Langley, New Jersey or Barksdale incursions, which are handled as a counter-UAS force-protection matter by NORTHCOM and JIATF-401 instead. Reasoning: absence across all published AARO products, not a stated jurisdictional ruling.",
+   "tier": 3,
+   "type": "behavioral"
+  },
+  "e-ea81b5b055": {
+   "endpoints": [
+    {
+     "id": "langley-2023-incursions",
+     "label": "Langley AFB Drone Incursions (December 2023)"
+    },
+    {
+     "id": "l-langley-afb",
+     "label": "Langley Air Force Base / Joint Base Langley-Eustis, Virginia"
+    }
+   ],
+   "id": "e-ea81b5b055",
+   "kind": "edge",
+   "label": "Site of the December 2023 incursions",
+   "sources": [
+    {
+     "date": "2024-03-15",
+     "name": "The War Zone - mysterious drones swarmed Langley AFB for weeks",
+     "url": "https://www.twz.com/air/mysterious-drones-swarmed-langley-afb-for-weeks"
+    }
+   ],
+   "text": "The Air Force confirmed activity beginning the evening of 6 December 2023 and continuing through the month, prompting F-16 CAPs, NASA WB-57F orbits and FBI coordination.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-f269ae85ea": {
+   "endpoints": [
+    {
+     "id": "barksdale-2026-incursions",
+     "label": "Barksdale AFB and Strategic Base Incursions (Feb-Mar 2026)"
+    },
+    {
+     "id": "l-barksdale",
+     "label": "Barksdale Air Force Base, Louisiana"
+    }
+   ],
+   "id": "e-f269ae85ea",
+   "kind": "edge",
+   "label": "Site of the March 2026 incursion waves and FPCON Charlie alert",
+   "sources": [
+    {
+     "date": "2026-03-09",
+     "name": "The Debrief - Barksdale AFB mystery drone incident",
+     "url": "https://thedebrief.org/u-s-officials-investigating-mystery-drone-incident-over-barksdale-air-force-base-that-prompted-security-alert/"
+    },
+    {
+     "date": "2026-03-25",
+     "name": "The War Zone - US battled drone incursions over key bases after Epic Fury",
+     "url": "https://www.twz.com/news-features/u-s-battled-drone-incursions-over-key-bases-at-home-after-launch-of-epic-fury"
+    }
+   ],
+   "text": "Barksdale raised force protection and issued a shelter-in-place order on 9 March 2026; base public affairs confirmed the UAS report and FAA involvement.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-fa108b6c9c": {
+   "endpoints": [
+    {
+     "id": "nj-drone-incursions-2024",
+     "label": "New Jersey and East Coast Drone Wave (Nov-Dec 2024)"
+    },
+    {
+     "id": "dod",
+     "label": "United States Department of Defense (secondary designation: Department of War)"
+    }
+   ],
+   "id": "e-fa108b6c9c",
+   "kind": "edge",
+   "label": "Four-agency joint statement of 17 December 2024",
+   "sources": [
+    {
+     "date": "2024-12-17",
+     "name": "The Debrief - Pentagon says mystery drones are common UAS and misidentifications",
+     "url": "https://thedebrief.org/pentagon-says-mystery-drones-are-common-unmanned-aerial-systems-and-misidentifications-pose-no-security-threat/"
+    }
+   ],
+   "text": "DoD, DHS, FBI and FAA: 'We have not identified anything anomalous, and do not assess the activity to date to present a national security or public safety risk.' The same statement conceded limited sightings over restricted military airspace, contradicting earlier White House denials.",
+   "tier": 1,
+   "type": "denial"
+  }
+ },
+ "claimed": [
+  {
+   "cite": [
+    "c-9754e30561",
+    "c-d68cf20906"
+   ],
+   "text": "Gen. Mark Kelly told the Wall Street Journal that at least one Langley drone was about 20 feet long, flying at more than 100 mph at 3,000 to 4,000 feet. A Langley spokesperson said none of the incursions appeared hostile but that anything in restricted airspace threatens flight safety."
+  },
+  {
+   "cite": [
+    "c-38a4e69cb3",
+    "c-8295afa3b6",
+    "e-510cee0e6a",
+    "e-ac66f4821c",
+    "c-a0ef35b47f"
+   ],
+   "text": "NORAD commander Gen. Gregory Guillot said in October 2024 that he could say only roughly the number and altitude of the Langley drones and knew of no organised or unorganised foreign nexus. He made Langley the centrepiece of his counter-drone assessment on taking command, and NORAD counted more than 600 drone reports over US installations since 2022."
+  },
+  {
+   "cite": [
+    "c-37c763c871",
+    "e-d194f6627e",
+    "c-c390ed4d24"
+   ],
+   "text": "Guillot said in March 2026 that detections over military installations had increased from the year before and that about a quarter of detected drones were now defeated, against almost none previously. Restricted-airspace sightings were reported to have risen 26 percent in 2025."
+  },
+  {
+   "cite": [
+    "c-125bc71b66",
+    "c-878017e4ba",
+    "e-baa1666c7f",
+    "c-714b17fcc8"
+   ],
+   "text": "Reporting describes waves of 12 to 15 drones over Barksdale's flight line with non-commercial signal characteristics and resistance to jamming, following the launch of the bombing campaign against Iran, with a single counter-drone kit fielded; a NORTHCOM spokesman declined to name the affected bases."
+  },
+  {
+   "cite": [
+    "c-bd6fe98f1c"
+   ],
+   "text": "A pilot over Lake Huron is heard saying he could not tell from the targeting pod whether the object was metallic but could see lines coming down below it."
+  },
+  {
+   "cite": [
+    "c-80b8f4ec61",
+    "c-f8c2919cd7"
+   ],
+   "text": "Protective netting to shield Langley's F-22s was reported to be under consideration by October 2024, and Guillot set up the Falcon Peak counter-drone demonstrations."
+  }
+ ],
+ "contested": [
+  {
+   "cite": [
+    "e-6828c41d6e",
+    "e-6a8f301936"
+   ],
+   "text": "The four agencies attributed New Jersey to hobbyists and misidentification on about 100 leads, while Langley was never publicly explained; the board reads the creation of a standing task force under a general officer as refuting the hobbyist explanation."
+  },
+  {
+   "cite": [
+    "c-35741be0cc",
+    "c-9072cecd8e"
+   ],
+   "text": "Sean Kirkpatrick said of the February 2023 shootdowns that the objects were balloons, while the Canadian government's own Secret memo recorded the Yukon object as unverified as to function and propulsion."
+  },
+  {
+   "cite": [
+    "e-de3628391b"
+   ],
+   "text": "On the board's reading, AARO's published case work and its FY2025 report do not assess the Langley, New Jersey or Barksdale incursions, which are handled as force protection by NORTHCOM and JIATF-401; this rests on absence, not on any stated ruling."
+  }
+ ],
+ "essays": [],
+ "focusEra": "3",
+ "id": "incursions-2023-26",
+ "kind": "incident",
+ "lead": {
+  "cite": [
+   "c-0cbe20e600",
+   "e-510cee0e6a",
+   "c-8eef6362b8",
+   "c-8295afa3b6",
+   "e-6828c41d6e",
+   "c-12f27e6951",
+   "c-56fb79086f"
+  ],
+  "text": "Since December 2023 unidentified drones have repeatedly flown over US military bases, from weeks of incursions over the F-22 base at Langley to a reported drone over Barksdale Air Force Base in March 2026, and the NORAD commander said in October 2024 that he knew of no foreign nexus for Langley. Langley produced no attribution and no public explanation; what followed was a counter-drone task force and wider authority for base commanders."
+ },
+ "members": [
+  {
+   "cls": "event",
+   "id": "langley-2023-incursions",
+   "label": "Langley AFB Drone Incursions (December 2023)",
+   "role": "subject"
+  },
+  {
+   "cls": "event",
+   "id": "nj-drone-incursions-2024",
+   "label": "New Jersey and East Coast Drone Wave (Nov-Dec 2024)",
+   "role": "subject"
+  },
+  {
+   "cls": "event",
+   "id": "barksdale-2026-incursions",
+   "label": "Barksdale AFB and Strategic Base Incursions (Feb-Mar 2026)",
+   "role": "subject"
+  },
+  {
+   "cls": "event",
+   "id": "shootdowns-feb-2023",
+   "label": "February 2023 Alaska, Yukon and Lake Huron Shootdowns",
+   "role": "event"
+  },
+  {
+   "cls": "institution",
+   "id": "norad-northcom",
+   "label": "NORAD and US Northern Command",
+   "role": "institution"
+  },
+  {
+   "cls": "institution",
+   "id": "jiatf-401",
+   "label": "Joint Interagency Task Force 401 (JIATF-401)",
+   "role": "institution"
+  },
+  {
+   "cls": "institution",
+   "id": "dod",
+   "label": "United States Department of Defense (secondary designation: Department of War)",
+   "role": "institution"
+  },
+  {
+   "cls": "person",
+   "id": "gregory-guillot",
+   "label": "Gregory M. Guillot",
+   "role": "official"
+  },
+  {
+   "cls": "person",
+   "id": "matt-ross",
+   "label": "Matt Ross",
+   "role": "official"
+  },
+  {
+   "cls": "person",
+   "id": "jon-kosloski",
+   "label": "Jon T. Kosloski",
+   "role": "official"
+  },
+  {
+   "cls": "location",
+   "id": "l-langley-afb",
+   "label": "Langley Air Force Base / Joint Base Langley-Eustis, Virginia",
+   "role": "place"
+  },
+  {
+   "cls": "location",
+   "id": "l-barksdale",
+   "label": "Barksdale Air Force Base, Louisiana",
+   "role": "place"
+  },
+  {
+   "cls": "location",
+   "id": "l-wright-patterson",
+   "label": "Wright-Patterson Air Force Base, Ohio",
+   "role": "place"
+  },
+  {
+   "cls": "document",
+   "id": "charette-memo-2023",
+   "label": "Charette Privy Council Memorandum (Secret, 14 Feb 2023)",
+   "role": "document"
+  },
+  {
+   "cls": "document",
+   "id": "doc-cincnorad-1975-11-11",
+   "label": "CINCNORAD four-part message, 11 November 1975",
+   "role": "document"
+  },
+  {
+   "cls": "event",
+   "id": "sac-overflights-1975",
+   "label": "1975 SAC Nuclear-Base Overflights (Loring, Wurtsmith, Malmstrom, Minot)",
+   "role": "event"
+  },
+  {
+   "cls": "legislation",
+   "id": "ndaa26-uap-provisions",
+   "label": "NDAA FY2026 UAP provisions (Secs. 1671-1673)",
+   "role": "law"
+  },
+  {
+   "cls": "program",
+   "id": "pursue-releases",
+   "label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters",
+   "role": "programme"
+  }
+ ],
+ "notes": "A stable small community in the 24 September run (stability 0.89): the base incursions and the February 2023 shootdowns.",
+ "questions": [
+  "Who operated the drones over Langley and Barksdale, and has any government body attributed them?",
+  "What do the classified annexes of Guillot's counter-drone assessment say, and how many incursions did NORAD count at each installation in 2025 and 2026?",
+  "Which ten installations did the Inspector General evaluate, and what does the redacted part of DODIG-2026-045 contain?",
+  "Under what directive, funding line and reporting chain does JIATF-401 operate?",
+  "Was the exploitation of the object shot down over Alaska on 10 February 2023 ever completed, and what did it find?",
+  "What has the section 1671 briefing on NORAD intercepts since 2004 told Congress?"
+ ],
+ "record": [
+  {
+   "cite": [
+    "c-c735d9016b",
+    "c-39116673f4",
+    "e-fa108b6c9c"
+   ],
+   "text": "The New Jersey statement says officials followed up about 100 specific leads and found commercial, hobbyist and law enforcement drones, manned aircraft, helicopters and stars mistaken for drones. The same assessment acknowledged limited recent sightings over military facilities in restricted airspace, contradicting earlier White House denials."
+  },
+  {
+   "cite": [
+    "c-6366929b43",
+    "e-732728df72"
+   ],
+   "text": "Wright-Patterson Air Force Base closed its airspace for nearly four hours on 14 and 15 December 2024 because of unauthorised drone activity, days before the federal statement that nothing anomalous had been found."
+  },
+  {
+   "cite": [
+    "c-3bee01484c",
+    "c-8eef6362b8"
+   ],
+   "text": "Barksdale's chief of public affairs confirmed on 9 March 2026 that the base had received a report of an unmanned aerial system operating over the installation."
+  },
+  {
+   "cite": [
+    "c-6b223c28c8",
+    "c-13ade2a986"
+   ],
+   "text": "The Inspector General's report DODIG-2026-045 of 21 January 2026 evaluated ten installations that had experienced incursions, interviewed officials from 31 DoD components and four federal agencies, and found inconsistent policies and approval processes that delayed counter-drone deployment."
+  },
+  {
+   "cite": [
+    "c-56fb79086f",
+    "c-9e4e2aea2f"
+   ],
+   "text": "Guidance announced on 30 January 2026 removed the fence-line limitation, defined unauthorised surveillance as an explicit threat and gave commanders discretion based on the totality of circumstances."
+  },
+  {
+   "cite": [
+    "c-5ba6f0e141",
+    "c-9072cecd8e",
+    "e-05942785bc"
+   ],
+   "text": "A Secret Privy Council memo of 14 February 2023 to Prime Minister Trudeau records that exploitation of the object the US engaged on 10 February had not been completed, and that the Yukon object remained unverified as to function, propulsion or affiliation to any nation-state."
+  },
+  {
+   "cite": [
+    "c-e6e3ce2d21",
+    "c-f6ef66a513",
+    "e-ae3dacd247"
+   ],
+   "text": "The Lake Huron object was destroyed on 12 February 2023 by two F-16s of the Minnesota Air National Guard with an AIM-9X at about 20,000 feet. Infrared video of the engagement was released through PURSUE on 22 May 2026, with the entry noting a lack of substantiated chain of custody."
+  },
+  {
+   "cite": [
+    "c-20e7e3d924"
+   ],
+   "text": "NORAD kept issuing intercept press releases through 2026, including several for temporary flight restriction violations in the Northeast and over New Jersey."
+  },
+  {
+   "cite": [
+    "c-bb1dbc6a36",
+    "c-ae62fbcdd5",
+    "c-3e9cc27430"
+   ],
+   "text": "Section 1671 of the FY2026 NDAA, enacted 18 December 2025, requires briefings on UAP intercepts by NORAD and Northern Command, the first covering intercepts not previously reported since 1 January 2004."
+  },
+  {
+   "cite": [
+    "c-68c6586b51",
+    "e-97e5d34f28",
+    "e-909093c02a"
+   ],
+   "text": "The pattern has a documented precedent: NORAD's commander-in-chief reported on 11 November 1975 that reliable military personnel at Loring, Wurtsmith, Malmstrom, Minot and Falconbridge had visually sighted suspicious objects."
+  }
+ ],
+ "related": [
+  "sac-overflights-1975",
+  "military-encounters-2019",
+  "pursue-2026",
+  "canada",
+  "aaro",
+  "official-explanations",
+  "nuclear-missiles-1960s",
+  "uap-statutes",
+  "task-force-2025"
+ ],
+ "section": "official-study",
+ "span": {
+  "from": "2023",
+  "to": "2026"
+ },
+ "status": "verified",
+ "summary": [
+  {
+   "cite": [
+    "c-0cbe20e600",
+    "c-3d4d8f3c54",
+    "e-ea81b5b055"
+   ],
+   "text": "The Air Force confirmed that Langley first observed drone activity on the evening of 6 December 2023 and had multiple incursions through the month; the response included F-16 patrols with aerial refuelling, NASA WB-57F surveillance orbits, FBI coordination through NORTHCOM and FAA notification."
+  },
+  {
+   "cite": [
+    "c-c735d9016b",
+    "c-f1f518b95b",
+    "e-fa108b6c9c"
+   ],
+   "text": "A year later a wave of sightings over New Jersey and neighbouring states produced more than 5,000 reports to the FBI, and on 17 December 2024 DoD, DHS, the FBI and the FAA said jointly that they had identified nothing anomalous."
+  },
+  {
+   "cite": [
+    "c-8eef6362b8",
+    "c-b906cb945c",
+    "e-f269ae85ea"
+   ],
+   "text": "On 9 March 2026 Barksdale Air Force Base reported a drone over the installation, raised force protection to FPCON Charlie and ordered personnel to shelter in place."
+  },
+  {
+   "cite": [
+    "c-12f27e6951",
+    "e-a805a28266",
+    "c-13ade2a986",
+    "c-56fb79086f"
+   ],
+   "text": "The institutional answer was Joint Interagency Task Force 401, set up in August 2025 under Brig. Gen. Matt Ross, a DoD Inspector General evaluation of ten affected installations, and January 2026 guidance widening commanders' authority to act."
+  },
+  {
+   "cite": [
+    "e-5096558a18",
+    "c-ae62fbcdd5",
+    "e-6f55bf24d3"
+   ],
+   "text": "The topic also takes in the February 2023 shootdowns, when NORAD-controlled fighters destroyed three unidentified objects in four days, and the FY2026 NDAA's demand for a history of NORAD and Northern Command UAP intercepts back to 2004."
+  }
+ ],
+ "title": "Drone incursions over bases, 2023-2026"
+}

@@ -1,0 +1,37 @@
+{
+ "absorbs": [],
+ "anchors": [],
+ "appendixT": null,
+ "cites": {},
+ "claimed": [],
+ "contested": [],
+ "essays": [],
+ "focusEra": "0",
+ "id": "pre-roswell-claims",
+ "kind": "allegation",
+ "lead": null,
+ "members": [],
+ "notes": "Canon cluster 9: claims an informed reader expects that the board does not yet carry; no node exists for any of them.",
+ "questions": [
+  "The board has no node, claim or edge yet for the 1942 Los Angeles air raid, the claimed 1945 San Antonio (Trinity) recovery, or the claimed 1933 Magenta recovery and Gabinetto RS/33: which of the three can be anchored to a dated artefact of the claim, so that it can become a node at all?",
+  "What did the Army's own 1942 statements say about the Los Angeles air raid, and where are they held?",
+  "What exactly does the 2021 Vallee and Harris book claim about a 1945 recovery at San Antonio (Trinity), who are its sources, and what dated artefact fixes when each of them first told the story?",
+  "What do Pinotti's publications claim about a 1933 recovery at Magenta and a Gabinetto RS/33, when were those claims first published, and what, if anything, do they rest on besides his own account?",
+  "For each of the three, how did the claim reach the public: who found the witnesses or documents, what had they said before any contact with an interested party, and do the accounts depend on one another?"
+ ],
+ "record": [],
+ "related": [
+  "roswell-1947",
+  "crash-claims",
+  "testimony-provenance"
+ ],
+ "researchGap": "No node yet for the 1942 Los Angeles air raid, the claimed 1945 San Antonio (Trinity) recovery, or the claimed 1933 Magenta recovery and Gabinetto RS/33. Each needs its dated artefact (the Army's 1942 statements, the 2021 Vallee and Harris book, Pinotti's publications) before it can be a node.",
+ "section": "early-record",
+ "span": {
+  "from": "1933",
+  "to": "1947"
+ },
+ "status": "verified",
+ "summary": [],
+ "title": "Before Roswell: the 1942 Los Angeles raid and the claimed Trinity and Magenta recoveries"
+}

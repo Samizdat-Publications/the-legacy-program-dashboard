@@ -1,0 +1,1377 @@
+{
+ "absorbs": [],
+ "anchors": [
+  "project-magnet",
+  "sky-canada-project",
+  "ocsa-canada",
+  "wilbert-smith",
+  "mona-nemer",
+  "lac-ufo-collection",
+  "canada-dot",
+  "project-second-storey",
+  "shag-harbour-1967",
+  "l-ottawa",
+  "robert-sarbacher",
+  "charette-memo-2023"
+ ],
+ "appendixT": "canada",
+ "cites": {
+  "c-01c53c3647": {
+   "id": "c-01c53c3647",
+   "kind": "claim",
+   "node": "ocsa-canada",
+   "nodeLabel": "Office of the Chief Science Advisor of Canada",
+   "source": {
+    "domain": null,
+    "text": "Sky Canada Project report, recommendations",
+    "url": null
+   },
+   "text": "The report recommends identifying the department responsible for managing public UAP data, establishing a dedicated service to collect testimonies, investigate cases and post its analyses publicly, and having Transport Canada, with NAV CANADA, encourage pilots, cabin crew and air traffic controllers to report UAP sightings without fear of stigmatisation.",
+   "tier": 1
+  },
+  "c-10cf1bb2ee": {
+   "id": "c-10cf1bb2ee",
+   "kind": "claim",
+   "node": "robert-sarbacher",
+   "nodeLabel": "Robert I. Sarbacher",
+   "source": {
+    "domain": null,
+    "text": "Sarbacher to Steinman, 29 November 1983, facsimile",
+    "url": null
+   },
+   "text": "The letter states that materials 'reported to have come from flying saucer crashes were extremely light and very tough', and that he 'got the impression these aliens were constructed like certain insects we have observed on earth.' Both are given as impressions relayed to him, not as first-hand observation.",
+   "tier": 1
+  },
+  "c-17f3e8306d": {
+   "id": "c-17f3e8306d",
+   "kind": "claim",
+   "node": "robert-sarbacher",
+   "nodeLabel": "Robert I. Sarbacher",
+   "source": {
+    "domain": "mgln.ai",
+    "text": "American Alchemy with Jesse Michels, 'Did Oppenheimer Work on UFOs?', 19 October 2024, 0:33:16, https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/TOE7249545573.mp3?updated=1751915004",
+    "url": "https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/TOE7249545573.mp3?updated=1751915004"
+   },
+   "text": "On American Alchemy with Jesse Michels, 19 October 2024, at 0:33:16, Michels said that David Grusch identifies the people who set up the secrecy protocols for UFOs as Robert J. Oppenheimer and Sarbacher, and that the two are 'responsible for the 1954 Atomic Energy Commission which overlaid nuclear secrecy on top of UFO secrecy'. The claim is Michels relaying Grusch, it concerns 1954 rather than the period the 1983 letter covers, and no document is cited for it on air.",
+   "tier": 2
+  },
+  "c-1aad498bd3": {
+   "id": "c-1aad498bd3",
+   "kind": "claim",
+   "node": "robert-sarbacher",
+   "nodeLabel": "Robert I. Sarbacher",
+   "source": {
+    "domain": null,
+    "text": "Sarbacher to Steinman, 29 November 1983, facsimile, read against the NARA finding aid for Record Group 330",
+    "url": null
+   },
+   "text": "The letter contains an internal date error in its most-quoted paragraph: Sarbacher writes of 'My association with the Research and Development Board under Doctor Compton during the Eisenhower administration.' The RDB was established by the National Security Act of 1947 and abolished 30 June 1953; Karl T. Compton chaired it in the late 1940s, under Truman.",
+   "tier": 1
+  },
+  "c-21047434dc": {
+   "id": "c-21047434dc",
+   "kind": "claim",
+   "node": "wilbert-smith",
+   "nodeLabel": "Wilbert Brockhouse Smith",
+   "source": {
+    "domain": null,
+    "text": "Library and Archives Canada exhibition, quoting Smith, Project Magnet report, 1952, p.6",
+    "url": null
+   },
+   "text": "Project Magnet report, 1952, p.6: 'Taking these factors into account, it is difficult to reconcile this performance with the capabilities of our technology, and unless the technology of some terrestrial nation is much more advanced than is generally known, we are forced to the conclusion that the vehicles are probably extra-terrestrial, in spite of our prejudices to the contrary.'",
+   "tier": 1
+  },
+  "c-22d37846e2": {
+   "id": "c-22d37846e2",
+   "kind": "claim",
+   "node": "l-ottawa",
+   "nodeLabel": "Ottawa, Ontario, Canada",
+   "source": {
+    "domain": null,
+    "text": "Canadian Department of Transport memorandum, Library and Archives Canada Project Magnet holdings",
+    "url": null
+   },
+   "text": "Wilbert B. Smith's November 1950 memorandum to the Canadian Controller of Telecommunications states that the flying saucer subject was classified higher in the United States than the hydrogen bomb, and that a small group was studying it.",
+   "tier": 1
+  },
+  "c-23da8fd40a": {
+   "id": "c-23da8fd40a",
+   "kind": "claim",
+   "node": "canada-dot",
+   "nodeLabel": "Canada Department of Transport",
+   "source": {
+    "domain": null,
+    "text": "OCSA, Sky Canada Project report, June 2025",
+    "url": null
+   },
+   "text": "Transport Canada maintains the Civil Aviation Daily Occurrence Reporting System (CADORS) for incidents affecting aviation safety, including UAP sightings; the National Research Council of Canada separately collected and studied UAP reports from 1967 until the 1990s.",
+   "tier": 1
+  },
+  "c-23fb21346a": {
+   "id": "c-23fb21346a",
+   "kind": "claim",
+   "node": "sky-canada-project",
+   "nodeLabel": "Sky Canada Project - Office of the Chief Science Advisor of Canada",
+   "source": {
+    "domain": null,
+    "text": "Sky Canada Project report, June 2025",
+    "url": null
+   },
+   "text": "'Some public sources estimate that Canadians report somewhere between 600 and 1,000 UAP sightings annually.'",
+   "tier": 1
+  },
+  "c-2ae405a6ee": {
+   "id": "c-2ae405a6ee",
+   "kind": "claim",
+   "node": "canada-dot",
+   "nodeLabel": "Canada Department of Transport",
+   "source": {
+    "domain": null,
+    "text": "Inference",
+    "url": null
+   },
+   "text": "Project Magnet's placement inside a civil transport ministry rather than a defence ministry is the significant structural fact: it produced a paper trail that survived into open archives precisely because it was never inside a compartmented defence programme. Reasoning: comparison with the US case, where equivalent-era work is only known through later declassification.",
+   "tier": 3
+  },
+  "c-30bba30e65": {
+   "id": "c-30bba30e65",
+   "kind": "claim",
+   "node": "robert-sarbacher",
+   "nodeLabel": "Robert I. Sarbacher",
+   "source": {
+    "domain": null,
+    "text": "Stated inference: no primary record located for the consultancy; see the letter and Smith's notes, neither of which is an RDB record",
+    "url": null
+   },
+   "text": "The claim that Sarbacher was a consultant to the Research and Development Board has no primary record. It traces, in every secondary account found, to Wilbert Smith's handwritten notes of a 15 September 1950 meeting and to Sarbacher's own 1983 letter. A full-text archive search for Sarbacher together with 'Research and Development Board' returns one unusable item, and the Georgia Tech clippings file does not mention the RDB.",
+   "tier": 3
+  },
+  "c-347138e688": {
+   "id": "c-347138e688",
+   "kind": "claim",
+   "node": "sky-canada-project",
+   "nodeLabel": "Sky Canada Project - Office of the Chief Science Advisor of Canada",
+   "source": {
+    "domain": null,
+    "text": "Sky Canada Project report, June 2025, Key findings",
+    "url": null
+   },
+   "text": "'Currently, UAP reports are scattered across multiple government and non government organizations' and 'Most departments do not compile the reports they receive, making it difficult to provide information on the number of reports.'",
+   "tier": 1
+  },
+  "c-370d37bdf6": {
+   "id": "c-370d37bdf6",
+   "kind": "claim",
+   "node": "canada-dot",
+   "nodeLabel": "Canada Department of Transport",
+   "source": {
+    "domain": null,
+    "text": "OCSA, Sky Canada Project report, June 2025",
+    "url": null
+   },
+   "text": "In 1950 the Department of Transport granted its engineer Wilbert Smith permission to do part-time research into whether some UFOs could use the power of the Earth's magnetic field as a source of propulsion; this became Project Magnet, whose scope Smith expanded to investigating the validity of UFO observations, including launching a balloon over Ottawa to monitor public and media reaction and establishing a UFO observatory outside the capital.",
+   "tier": 1
+  },
+  "c-3c08e4a22c": {
+   "id": "c-3c08e4a22c",
+   "kind": "claim",
+   "node": "charette-memo-2023",
+   "nodeLabel": "Charette Privy Council Memorandum (Secret, 14 Feb 2023)",
+   "source": {
+    "domain": null,
+    "text": "Janice Charette, Clerk of the Privy Council, Secret memo to PM Trudeau, 14 February 2023",
+    "url": null
+   },
+   "text": "'The full exploitation of UAP #20, which was engaged by the U.S. on February 10, 2023, has not yet been completed.'",
+   "tier": 1
+  },
+  "c-40964eae2b": {
+   "id": "c-40964eae2b",
+   "kind": "claim",
+   "node": "wilbert-smith",
+   "nodeLabel": "Wilbert Brockhouse Smith",
+   "source": {
+    "domain": null,
+    "text": "Library and Archives Canada, online exhibition 'Canada's UFOs: The Search for the Unknown', Shirley's Bay / Project Magnet page, 2005",
+    "url": null
+   },
+   "text": "Library and Archives Canada quotes the memorandum: '...the existence of a different technology is borne out by the investigations which are being carried on at the present time in relation to flying saucers.... I feel that the correlation between our basic theory and the available information on saucers checks too closely to be mere coincidence' (Smith, Geo-Magnetics, Department of Transport, November 21, 1950).",
+   "tier": 1
+  },
+  "c-43d6dc666c": {
+   "id": "c-43d6dc666c",
+   "kind": "claim",
+   "node": "robert-sarbacher",
+   "nodeLabel": "Robert I. Sarbacher",
+   "source": {
+    "domain": null,
+    "text": "Provenance assessment of the hosting item; no institutional custody located",
+    "url": null
+   },
+   "text": "The only reachable copy of the 1983 letter is hosted by an advocacy publisher, and the same PDF's last page is a product order form. The scan appears to be a genuine photocopy of a typed letter, but no institutional archive holds a copy that could be opened, so its status is a facsimile widely reproduced from Steinman's own file rather than an archived document.",
+   "tier": 2
+  },
+  "c-456e67d7ae": {
+   "id": "c-456e67d7ae",
+   "kind": "claim",
+   "node": "charette-memo-2023",
+   "nodeLabel": "Charette Privy Council Memorandum (Secret, 14 Feb 2023)",
+   "source": {
+    "domain": null,
+    "text": "Charette memo, 14 February 2023",
+    "url": null
+   },
+   "text": "UAP #23 (the Yukon object) 'remains unverified' as to 'function, method of propulsion, or affiliation to any nation-state.'",
+   "tier": 1
+  },
+  "c-4f0eeff679": {
+   "id": "c-4f0eeff679",
+   "kind": "claim",
+   "node": "wilbert-smith",
+   "nodeLabel": "Wilbert Brockhouse Smith",
+   "source": {
+    "domain": null,
+    "text": "Office of the Chief Science Advisor of Canada, Management of Public Reporting of Unidentified Aerial Phenomena in Canada, June 2025",
+    "url": null
+   },
+   "text": "Sky Canada Project report: 'In 1950, the Department of Transport granted one of their engineers, Wilbert Smith, permission to do part-time research to investigate whether some UFOs could use the power of Earth's magnetic field as a source of propulsion. This was called Project Magnet ... Unable to convince his colleagues of the merits of his research, Smith had to continue his work privately after the Department of Transport terminated Project Magnet in 1954.'",
+   "tier": 1
+  },
+  "c-57b0d4e735": {
+   "id": "c-57b0d4e735",
+   "kind": "claim",
+   "node": "lac-ufo-collection",
+   "nodeLabel": "Library and Archives Canada - UFO records collection",
+   "source": {
+    "domain": null,
+    "text": "Library and Archives Canada, 'Canada's UFOs' timeline, 1961 entry",
+    "url": null
+   },
+   "text": "LAC records a 1961 DND memo to the Deputy Minister's office listing the typical questions put to the department, opening with 'Question 1: Are unsolved UFO reports in Canada kept from the Press and general public?'",
+   "tier": 1
+  },
+  "c-5a9d408a65": {
+   "id": "c-5a9d408a65",
+   "kind": "claim",
+   "node": "robert-sarbacher",
+   "nodeLabel": "Robert I. Sarbacher",
+   "source": {
+    "domain": null,
+    "text": "Sarbacher to Steinman, 29 November 1983, facsimile",
+    "url": null
+   },
+   "text": "In the same letter Sarbacher states that he was invited to but did not attend any recovery meeting: 'I could not personally attend the meetings.' The distinction is his own and is the single most important thing the letter establishes.",
+   "tier": 1
+  },
+  "c-658774a0c9": {
+   "id": "c-658774a0c9",
+   "kind": "claim",
+   "node": "sky-canada-project",
+   "nodeLabel": "Sky Canada Project - Office of the Chief Science Advisor of Canada",
+   "source": {
+    "domain": null,
+    "text": "Sky Canada Project report, June 2025",
+    "url": null
+   },
+   "text": "On GEIPAN's operating model: 'GEIPAN has a team of three full-time employees to manage the reporting process ... Reports are investigated through the efforts of over 20 trained volunteers throughout France ... GEIPAN's steering committee is chaired by an established aerospace expert and includes representatives of the country's civil and military authorities.'",
+   "tier": 1
+  },
+  "c-6c6d113ac4": {
+   "id": "c-6c6d113ac4",
+   "kind": "claim",
+   "node": "robert-sarbacher",
+   "nodeLabel": "Robert I. Sarbacher",
+   "source": {
+    "domain": null,
+    "text": "Sarbacher to Steinman, 29 November 1983, two-page signed facsimile",
+    "url": null
+   },
+   "text": "In a signed letter of 29 November 1983 to William Steinman, on Washington Institute of Technology letterhead, Sarbacher writes that John von Neumann and Vannevar Bush 'definitely' were involved and 'I think Dr. Robert Oppenheimer also'.",
+   "tier": 1
+  },
+  "c-6e053ec256": {
+   "id": "c-6e053ec256",
+   "kind": "claim",
+   "node": "shag-harbour-1967",
+   "nodeLabel": "Shag Harbour incident, 4 October 1967",
+   "source": {
+    "domain": null,
+    "text": "The Chronicle-Herald, Halifax, 7 and 9 October 1967 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+    "url": null
+   },
+   "text": "The Chronicle-Herald of 7 October 1967 published Ray MacLeod's front-page story quoting Squadron Leader Bain of the RCAF Air Desk saying the Shag Harbour incident 'is one of the few where we may get something concrete on it'; the 9 October follow-up reported the Navy found 'not a trace... not a clue... not a bit of anything.'",
+   "tier": 2
+  },
+  "c-71b784730c": {
+   "id": "c-71b784730c",
+   "kind": "claim",
+   "node": "project-magnet",
+   "nodeLabel": "Project Magnet (Canada)",
+   "source": {
+    "domain": null,
+    "text": "Library and Archives Canada exhibition, quoting Smith, Project Magnet report, 1952",
+    "url": null
+   },
+   "text": "Smith, Project Magnet report 1952: the next steps should be 'a substantial effort towards the acquisition of as much as possible of this technology, which would without doubt be of great value to us'.",
+   "tier": 1
+  },
+  "c-71cd41ccff": {
+   "id": "c-71cd41ccff",
+   "kind": "claim",
+   "node": "ocsa-canada",
+   "nodeLabel": "Office of the Chief Science Advisor of Canada",
+   "source": {
+    "domain": null,
+    "text": "science.gc.ca, Sky Canada Project",
+    "url": null
+   },
+   "text": "OCSA records a published disclaimer that the project is not intended to collect first-hand data, not to make OCSA the main point of contact for reporting, and not to prove or disprove the existence of extraterrestrial life or visitors.",
+   "tier": 1
+  },
+  "c-7a0cf3dbb9": {
+   "id": "c-7a0cf3dbb9",
+   "kind": "claim",
+   "node": "wilbert-smith",
+   "nodeLabel": "Wilbert Brockhouse Smith",
+   "source": {
+    "domain": null,
+    "text": "Wikipedia, 'Wilbert Brockhouse Smith', citing the Smith-Sarbacher interview record",
+    "url": null
+   },
+   "text": "'At the 1950 NARBA conference, Smith learned from US scientist Dr. Robert Sarbacher that Americans believed flying saucers were real and their investigations of them, led by Dr. Vannevar Bush, were more highly classified than information about the hydrogen bomb. After his return to Canada, Smith wrote a memo dated November 21, 1950 which became classified Top Secret until being downgraded to Confidential in 1969.'",
+   "tier": 2
+  },
+  "c-7bc508ee22": {
+   "id": "c-7bc508ee22",
+   "kind": "claim",
+   "node": "geipan",
+   "nodeLabel": "GEIPAN - Groupe d'Études et d'Informations sur les Phénomènes Aérospatiaux Non identifiés",
+   "source": {
+    "domain": "ised-isde.canada.ca",
+    "text": "Office of the Chief Science Advisor of Canada, 'Management of Public Reporting of Unidentified Aerial Phenomena in Canada', 2025 - https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada",
+    "url": "https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada"
+   },
+   "text": "Canada's Office of the Chief Science Advisor: 'France's GEIPAN ... operates under the French space agency CNES ... since 1977. Its mission is to collect, investigate and archive UAP reports, and make its findings available to the public.' It records 'of the 3,188 cases collected by 2025, only 3.2% of cases remained unidentified after investigation. Furthermore, 31.4% of cases could not be explained due to insufficient data.'",
+   "tier": 1
+  },
+  "c-90c3c0453a": {
+   "id": "c-90c3c0453a",
+   "kind": "claim",
+   "node": "mona-nemer",
+   "nodeLabel": "Dr Mona Nemer",
+   "source": {
+    "domain": null,
+    "text": "Sky Canada Project report, June 2025",
+    "url": null
+   },
+   "text": "Report recommendation on international collaboration: 'The lead organization should establish partnerships with international entities dedicated to UAPs, such as AARO and NASA (U.S.A.), GEIPAN (France), and SEFAA (Chile).'",
+   "tier": 1
+  },
+  "c-938ec34ef8": {
+   "id": "c-938ec34ef8",
+   "kind": "claim",
+   "node": "charette-memo-2023",
+   "nodeLabel": "Charette Privy Council Memorandum (Secret, 14 Feb 2023)",
+   "source": {
+    "domain": null,
+    "text": "Charette memo, 14 February 2023",
+    "url": null
+   },
+   "text": "'It is unknown whether it poses an armed threat or has intelligence collection capabilities.'",
+   "tier": 1
+  },
+  "c-9f55169560": {
+   "id": "c-9f55169560",
+   "kind": "claim",
+   "node": "lac-ufo-collection",
+   "nodeLabel": "Library and Archives Canada - UFO records collection",
+   "source": {
+    "domain": null,
+    "text": "Library and Archives Canada, 'Canada's UFOs' timeline, 1959-1960 entry",
+    "url": null
+   },
+   "text": "LAC records the 1959-1960 Canada-US joint reporting arrangement: 'An agreement was finalized between the United States and Canada to institute a joint reporting system of UFOs. The Cirvis/Merint reporting system was created to extend the early warning coverage for the defence of North America ... and to extend the reporting of vital intelligence during peacetime.'",
+   "tier": 1
+  },
+  "c-a3e7e0dda4": {
+   "id": "c-a3e7e0dda4",
+   "kind": "claim",
+   "node": "project-magnet",
+   "nodeLabel": "Project Magnet (Canada)",
+   "source": {
+    "domain": null,
+    "text": "Library and Archives Canada, 'Canada's UFOs' exhibition, Project Magnet report document page",
+    "url": null
+   },
+   "text": "Project Magnet material at Library and Archives Canada is cited in LAC's own exhibition as 'Shirley's Bay, Ontario, Project Magnet, 1952. RG 24, acc. 83-84/167, box 7523, file DRBS 3800-10-1, pt. 1'.",
+   "tier": 1
+  },
+  "c-a965d35f8e": {
+   "id": "c-a965d35f8e",
+   "kind": "claim",
+   "node": "cefaa",
+   "nodeLabel": "CEFAA / SEFAA - Chilean anomalous aerial phenomena office, Dirección General de Aeronáutica Civil",
+   "source": {
+    "domain": "ised-isde.canada.ca",
+    "text": "https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada",
+    "url": "https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada"
+   },
+   "text": "Canada's Office of the Chief Science Advisor: 'In Chile, the SEFAA ... serves as the official body responsible for collecting, analyzing and scientifically studying UAPs. It operates within the General Directorate of Civil Aeronautics.' It adds that 'SEFAA publishes monthly reports detailing the cases it has received, investigated, and closed'.",
+   "tier": 1
+  },
+  "c-abdc585f26": {
+   "id": "c-abdc585f26",
+   "kind": "claim",
+   "node": "canada-dot",
+   "nodeLabel": "Canada Department of Transport",
+   "source": {
+    "domain": null,
+    "text": "OCSA, Sky Canada Project report, June 2025",
+    "url": null
+   },
+   "text": "The Sky Canada report recommends that Transport Canada, in collaboration with NAV CANADA, encourage pilots, cabin crew and air traffic controllers to report UAP sightings without fear of stigmatisation and analyse those reports to track trends.",
+   "tier": 1
+  },
+  "c-adeac6ea5b": {
+   "id": "c-adeac6ea5b",
+   "kind": "claim",
+   "node": "project-second-storey",
+   "nodeLabel": "Project Second Storey (Canada)",
+   "source": {
+    "domain": null,
+    "text": "Sky Canada Project report, June 2025",
+    "url": null
+   },
+   "text": "'The Committee was chaired by the National Research Council of Canada (NRC) astronomer Dr. Peter Millman; it included members from various arms of the Canadian military intelligence and other government agencies. The committee did not investigate UFO sightings, but it developed a standardized form.'",
+   "tier": 1
+  },
+  "c-afb3f918f0": {
+   "id": "c-afb3f918f0",
+   "kind": "claim",
+   "node": "ocsa-canada",
+   "nodeLabel": "Office of the Chief Science Advisor of Canada",
+   "source": {
+    "domain": null,
+    "text": "Sky Canada Project report, section A",
+    "url": null
+   },
+   "text": "OCSA states the project was spurred by increased public interest and by developments in other countries, particularly the United States, where formal procedures for addressing UAP sightings are in development.",
+   "tier": 1
+  },
+  "c-b3999062f1": {
+   "id": "c-b3999062f1",
+   "kind": "claim",
+   "node": "project-magnet",
+   "nodeLabel": "Project Magnet (Canada)",
+   "source": {
+    "domain": null,
+    "text": "Office of the Chief Science Advisor of Canada, June 2025",
+    "url": null
+   },
+   "text": "Sky Canada Project, June 2025: 'the Department of Transport terminated Project Magnet in 1954.'",
+   "tier": 1
+  },
+  "c-b7f4575c4e": {
+   "id": "c-b7f4575c4e",
+   "kind": "claim",
+   "node": "lac-ufo-collection",
+   "nodeLabel": "Library and Archives Canada - UFO records collection",
+   "source": {
+    "domain": null,
+    "text": "Office of the Chief Science Advisor of Canada, Sky Canada Project report, June 2025",
+    "url": null
+   },
+   "text": "'The LAC's collection of government records on UAPs includes files from 1947 to 1995 primarily received from four federal organizations: the Department of National Defence; the Department of Transport; the National Research Council of Canada; and the Royal Canadian Mounted Police ... The entire LAC collection (over 15,000 pages) is publicly accessible ... A subset of the digitized records (around 9,500 pages) are directly available online.'",
+   "tier": 1
+  },
+  "c-ba4e7a162b": {
+   "id": "c-ba4e7a162b",
+   "kind": "claim",
+   "node": "mona-nemer",
+   "nodeLabel": "Dr Mona Nemer",
+   "source": {
+    "domain": null,
+    "text": "Office of the Chief Science Advisor of Canada, Sky Canada Project page, updated 3 December 2025",
+    "url": null
+   },
+   "text": "Report disclaimer: the project 'is not intended to access and collect first-hand data (like photos, testimonies, etc.) ... nor is it meant to prove or disprove the existence of extraterrestrial life or extraterrestrial visitors.'",
+   "tier": 1
+  },
+  "c-beb425dee7": {
+   "id": "c-beb425dee7",
+   "kind": "claim",
+   "node": "mona-nemer",
+   "nodeLabel": "Dr Mona Nemer",
+   "source": {
+    "domain": null,
+    "text": "Sky Canada Project report, June 2025, citing an Earnscliffe Strategies survey commissioned in 2024",
+    "url": null
+   },
+   "text": "Survey finding: 'one in four respondents say they have personally witnessed a UAP in their lifetime. However, only 10% reported their sightings and 40% of respondents would not know whom to contact for reporting.'",
+   "tier": 1
+  },
+  "c-bf1f238d21": {
+   "id": "c-bf1f238d21",
+   "kind": "claim",
+   "node": "wilbert-smith",
+   "nodeLabel": "Wilbert Brockhouse Smith",
+   "source": {
+    "domain": null,
+    "text": "Library and Archives Canada exhibition, quoting Smith, Project Magnet report, 1952",
+    "url": null
+   },
+   "text": "Smith recommended that the next step be a 'substantial effort towards the acquisition of as much as possible of this technology, which would without doubt be of great value to us'.",
+   "tier": 1
+  },
+  "c-c32d4b48a9": {
+   "id": "c-c32d4b48a9",
+   "kind": "claim",
+   "node": "robert-sarbacher",
+   "nodeLabel": "Robert I. Sarbacher",
+   "source": {
+    "domain": null,
+    "text": "Sarbacher to Steinman, 29 November 1983; facsimile pages 1-2 compared with transcript pages 3-4 of the same PDF",
+    "url": null
+   },
+   "text": "The letter's postscript -- 'It occurs to me that Dr. Bush's name is inccorrect as you have it. Please check the spelling' -- is omitted from the typed transcript bound into the same PDF, so a citation to the transcript rather than the scan is a citation to an abridged document.",
+   "tier": 1
+  },
+  "c-cac28df7a6": {
+   "id": "c-cac28df7a6",
+   "kind": "claim",
+   "node": "ocsa-canada",
+   "nodeLabel": "Office of the Chief Science Advisor of Canada",
+   "source": {
+    "domain": null,
+    "text": "science.gc.ca, Sky Canada Project",
+    "url": null
+   },
+   "text": "OCSA led the Sky Canada Project to review current practices surrounding public reporting of unidentified aerial phenomena in Canada, and published its report, 'Management of Public Reporting of Unidentified Aerial Phenomena in Canada', in June 2025 (59 pages, also issued as PDF).",
+   "tier": 1
+  },
+  "c-cc34524b6d": {
+   "id": "c-cc34524b6d",
+   "kind": "claim",
+   "node": "project-magnet",
+   "nodeLabel": "Project Magnet (Canada)",
+   "source": {
+    "domain": null,
+    "text": "Library and Archives Canada exhibition, quoting Smith, Project Magnet report, 1952, p.6",
+    "url": null
+   },
+   "text": "Smith, Project Magnet report 1952, p.6: 'They are a hundred feet or more in diameter; they can travel at speeds of several thousand miles per hour; they can reach altitudes well above those which should support conventional air craft or balloons; and ample power and force seem to be available for all required maneuvers.'",
+   "tier": 1
+  },
+  "c-d879595bda": {
+   "id": "c-d879595bda",
+   "kind": "claim",
+   "node": "sky-canada-project",
+   "nodeLabel": "Sky Canada Project - Office of the Chief Science Advisor of Canada",
+   "source": {
+    "domain": null,
+    "text": "Sky Canada Project report, June 2025",
+    "url": null
+   },
+   "text": "On the RCMP: 'Currently, the RCMP does not have a formal policy for the collection or dissemination of UAP reports ... Such reports are typically categorized as non-offence (non-criminal) incidents under the Aeronautics Act - Other Activities ... It was therefore impossible for the RCMP to provide statistics about UAP reports.'",
+   "tier": 1
+  },
+  "c-d9728c70f2": {
+   "id": "c-d9728c70f2",
+   "kind": "claim",
+   "node": "shag-harbour-1967",
+   "nodeLabel": "Shag Harbour incident, 4 October 1967",
+   "source": {
+    "domain": null,
+    "text": "Canadian Forces Fleet Diving Unit Atlantic search report, October 1967 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+    "url": null
+   },
+   "text": "Divers from Fleet Diving Unit Atlantic searched the seafloor of the Gulf of Maine for three days beginning two days after the incident; the final report states no trace of an object was found.",
+   "tier": 2
+  },
+  "c-dc05697ca7": {
+   "id": "c-dc05697ca7",
+   "kind": "claim",
+   "node": "project-second-storey",
+   "nodeLabel": "Project Second Storey (Canada)",
+   "source": {
+    "domain": null,
+    "text": "Library and Archives Canada, 'Canada's UFOs' exhibition, 1952 Project Second Story document page",
+    "url": null
+   },
+   "text": "LAC archival citation for Project Second Story minutes: 'RG 24, acc. 83-84/167, box 7523, file DRBS 3800-10-1, pt. 1'.",
+   "tier": 1
+  },
+  "c-e478d1ae39": {
+   "id": "c-e478d1ae39",
+   "kind": "claim",
+   "node": "shag-harbour-1967",
+   "nodeLabel": "Shag Harbour incident, 4 October 1967",
+   "source": {
+    "domain": null,
+    "text": "Department of National Defence file summary held at Library and Archives Canada — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+    "url": null
+   },
+   "text": "RCC Halifax sent a priority telex to the RCAF Air Desk in Ottawa the following morning stating that all conventional explanations had been dismissed, and the report was labelled a 'UFO Report'; the Air Desk telexed RCN headquarters recommending an underwater search and Fleet Diving Unit Atlantic was tasked.",
+   "tier": 2
+  },
+  "c-e8e501c109": {
+   "id": "c-e8e501c109",
+   "kind": "claim",
+   "node": "robert-sarbacher",
+   "nodeLabel": "Robert I. Sarbacher",
+   "source": {
+    "domain": null,
+    "text": "American Alchemy with Jesse Michels, 'Presidential Advisor: I Directly Handled UFO Material (Ft. Harald Malmgren)', published 23 April 2025, at 0:23:09 and 0:24:00",
+    "url": null
+   },
+   "text": "On American Alchemy with Jesse Michels, 23 April 2025, at 0:23:09, Michels said that Sarbacher told Stanton Friedman that MIT president Karl Compton 'was briefed on UFO technology at Wright Airfield in 1950', and at 0:24:00 that when John Greenewald used the Freedom of Information Act to retrieve Compton's records he received a reply in April 2014 stating that 'records which may have been responsive to your request were destroyed August 30th, 2006'. The FOIA response letter itself was not opened from this environment.",
+   "tier": 2
+  },
+  "c-ea97b984c9": {
+   "id": "c-ea97b984c9",
+   "kind": "claim",
+   "node": "shag-harbour-1967",
+   "nodeLabel": "Shag Harbour incident, 4 October 1967",
+   "source": {
+    "domain": null,
+    "text": "Randle interviewed by Robert Sheaffer, Skeptical Inquirer",
+    "url": null
+   },
+   "text": "Kevin Randle, who has grown notably more sceptical about Roswell, has stated that Shag Harbour is one of the two cases he still regards as possibly involving a genuine crash.",
+   "tier": 2
+  },
+  "c-ed7fa7e79b": {
+   "id": "c-ed7fa7e79b",
+   "kind": "claim",
+   "node": "mona-nemer",
+   "nodeLabel": "Dr Mona Nemer",
+   "source": {
+    "domain": null,
+    "text": "Office of the Chief Science Advisor of Canada, Sky Canada Project report, June 2025, Recommendations",
+    "url": null
+   },
+   "text": "Report recommendation: 'Identify a lead: A federal department or agency responsible for managing public UAP data should be identified. Establish a dedicated service: This service would collect testimonies, investigate cases and post its analyses publicly.'",
+   "tier": 1
+  },
+  "c-fe06d11ebb": {
+   "id": "c-fe06d11ebb",
+   "kind": "claim",
+   "node": "project-second-storey",
+   "nodeLabel": "Project Second Storey (Canada)",
+   "source": {
+    "domain": null,
+    "text": "Office of the Chief Science Advisor of Canada, Sky Canada Project report, June 2025",
+    "url": null
+   },
+   "text": "'The committee held six meetings from 1952 to 1954 and concluded that UFOs neither posed a security threat, nor were of scientific interest. It recommended ending all investigations by the Canadian military.'",
+   "tier": 1
+  },
+  "e-1283a7aeb3": {
+   "endpoints": [
+    {
+     "id": "mona-nemer",
+     "label": "Dr Mona Nemer"
+    },
+    {
+     "id": "sky-canada-project",
+     "label": "Sky Canada Project - Office of the Chief Science Advisor of Canada"
+    }
+   ],
+   "id": "e-1283a7aeb3",
+   "kind": "edge",
+   "label": "Chief Science Advisor whose office produced the report",
+   "sources": [
+    {
+     "date": "2025-06-01",
+     "name": "Sky Canada Project report",
+     "url": "https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada"
+    }
+   ],
+   "text": "The Office of the Chief Science Advisor led the project and published both the January 2025 preliminary and the June 2025 full report.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-163ebdc95d": {
+   "endpoints": [
+    {
+     "id": "ocsa-canada",
+     "label": "Office of the Chief Science Advisor of Canada"
+    },
+    {
+     "id": "nasa",
+     "label": "National Aeronautics and Space Administration"
+    }
+   ],
+   "id": "e-163ebdc95d",
+   "kind": "edge",
+   "label": "NASA's UAP study cited as precedent and named as a proposed partner",
+   "sources": [
+    {
+     "date": "2025-06-01",
+     "name": "Report of the Sky Canada Project, Office of the Chief Science Advisor of Canada, June 2025",
+     "url": "https://science.gc.ca/site/science/sites/default/files/documents/sky-canada-report.pdf"
+    },
+    {
+     "date": null,
+     "name": "Office of the Chief Science Advisor of Canada, Sky Canada Project report, 2025, Recommendation 13 and references -- https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada",
+     "url": ""
+    }
+   ],
+   "text": "The report records that 'NASA released an independent study in September 2023 focused on how best to collect future UAP data to advance scientific study' and that 'following the release of this report, NASA announced the creation of a new position: Director of Unidentified Anomalous Phenomena Research'. NASA is one of the four international bodies its recommendation 13 names as partnership targets for the recommended Canadian lead organization.",
+   "tier": 1,
+   "type": "research"
+  },
+  "e-3690351afc": {
+   "endpoints": [
+    {
+     "id": "sky-canada-project",
+     "label": "Sky Canada Project - Office of the Chief Science Advisor of Canada"
+    },
+    {
+     "id": "lac-ufo-collection",
+     "label": "Library and Archives Canada - UFO records collection"
+    }
+   ],
+   "id": "e-3690351afc",
+   "kind": "edge",
+   "label": "2025 report is the first federal review to work the LAC holding",
+   "sources": [
+    {
+     "date": "2025-06-01",
+     "name": "Sky Canada Project report",
+     "url": "https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada"
+    }
+   ],
+   "text": "The Sky Canada report documents the collection's size, provenance and digitisation and traces the history from Project Magnet through the NRC transfer of 1995.",
+   "tier": 1,
+   "type": "research"
+  },
+  "e-539965ff3e": {
+   "endpoints": [
+    {
+     "id": "wilbert-smith",
+     "label": "Wilbert Brockhouse Smith"
+    },
+    {
+     "id": "project-second-storey",
+     "label": "Project Second Storey (Canada)"
+    }
+   ],
+   "id": "e-539965ff3e",
+   "kind": "edge",
+   "label": "appointed to the Defence Research Board committee in 1952",
+   "sources": [
+    {
+     "date": "2025-06-01",
+     "name": "Sky Canada Project report",
+     "url": "https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada"
+    }
+   ],
+   "text": "Smith reported Project Magnet's findings to Second Storey, chaired by NRC astronomer Peter Millman.",
+   "tier": 2,
+   "type": "institutional"
+  },
+  "e-59e4315663": {
+   "endpoints": [
+    {
+     "id": "sky-canada-project",
+     "label": "Sky Canada Project - Office of the Chief Science Advisor of Canada"
+    },
+    {
+     "id": "geipan",
+     "label": "GEIPAN - Groupe d'Études et d'Informations sur les Phénomènes Aérospatiaux Non identifiés"
+    }
+   ],
+   "id": "e-59e4315663",
+   "kind": "edge",
+   "label": "identifies GEIPAN as a model and recommends partnership",
+   "sources": [
+    {
+     "date": "2025-06-01",
+     "name": "Sky Canada Project report",
+     "url": "https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada"
+    },
+    {
+     "date": null,
+     "name": "https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada",
+     "url": "https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada"
+    }
+   ],
+   "text": "Canada's Office of the Chief Science Advisor examined GEIPAN in detail, told Canada that 'the example of GEIPAN in France is worth considering' when establishing a dedicated service, and recommended in recommendation 13 that Canada's lead organisation partner with 'AARO and NASA (U.S.A.), GEIPAN (France), and SEFAA (Chile)'.",
+   "tier": 1,
+   "type": "research"
+  },
+  "e-63e8053c9f": {
+   "endpoints": [
+    {
+     "id": "project-magnet",
+     "label": "Project Magnet (Canada)"
+    },
+    {
+     "id": "lac-ufo-collection",
+     "label": "Library and Archives Canada - UFO records collection"
+    }
+   ],
+   "id": "e-63e8053c9f",
+   "kind": "edge",
+   "label": "Project Magnet records held at LAC",
+   "sources": [
+    {
+     "date": "2005-08-11",
+     "name": "Library and Archives Canada - Project Magnet report page",
+     "url": "https://web.archive.org/web/2006/http://www.collectionscanada.ca/ufo/002029-1401-e.html"
+    }
+   ],
+   "text": "LAC cites the Project Magnet and Second Story files as RG 24, acc. 83-84/167, box 7523, file DRBS 3800-10-1, pt. 1.",
+   "tier": 1,
+   "type": "custody"
+  },
+  "e-a37188a394": {
+   "endpoints": [
+    {
+     "id": "ocsa-canada",
+     "label": "Office of the Chief Science Advisor of Canada"
+    },
+    {
+     "id": "aaro",
+     "label": "All-domain Anomaly Resolution Office (AARO)"
+    }
+   ],
+   "id": "e-a37188a394",
+   "kind": "edge",
+   "label": "AARO reviewed as a foreign model and named as a proposed partner",
+   "sources": [
+    {
+     "date": "2025-06-01",
+     "name": "Report of the Sky Canada Project, Office of the Chief Science Advisor of Canada, June 2025",
+     "url": "https://science.gc.ca/site/science/sites/default/files/documents/sky-canada-report.pdf"
+    },
+    {
+     "date": null,
+     "name": "Office of the Chief Science Advisor of Canada, Sky Canada Project report, 2025 -- https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada",
+     "url": ""
+    }
+   ],
+   "text": "The Sky Canada report records that 'On June 1, 2024, AARO released its second report on 757 UAP reports from May 1, 2023, to June 1, 2024', of which '174 cases were resolved and found to be objects such as balloons, birds, unmanned aerial systems, satellites and aircraft', and cites AARO's Historical Record Report Volume I in its references. Its recommendation 13 directs the future Canadian lead organization to 'establish partnerships with international entities dedicated to UAPs, such as AARO and NASA (U.S.A.), GEIPAN (France), and SEFAA (Chile).'",
+   "tier": 1,
+   "type": "research"
+  },
+  "e-af568a786a": {
+   "endpoints": [
+    {
+     "id": "wilbert-smith",
+     "label": "Wilbert Brockhouse Smith"
+    },
+    {
+     "id": "project-magnet",
+     "label": "Project Magnet (Canada)"
+    }
+   ],
+   "id": "e-af568a786a",
+   "kind": "edge",
+   "label": "author of the request that created Project Magnet",
+   "sources": [
+    {
+     "date": "2005-08-11",
+     "name": "Library and Archives Canada - Project Magnet page",
+     "url": "https://web.archive.org/web/2006/http://www.collectionscanada.ca/ufo/002029-1400.01-e.html"
+    }
+   ],
+   "text": "LAC's exhibition quotes the 21 November 1950 'Geo-Magnetics' memorandum as the origin of the project.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-c221d0394a": {
+   "endpoints": [
+    {
+     "id": "ocsa-canada",
+     "label": "Office of the Chief Science Advisor of Canada"
+    },
+    {
+     "id": "canada-dot",
+     "label": "Canada Department of Transport"
+    }
+   ],
+   "id": "e-c221d0394a",
+   "kind": "edge",
+   "label": "Sky Canada Project audited and issued recommendations to Transport Canada",
+   "sources": [
+    {
+     "date": "2025-06-01",
+     "name": "Report of the Sky Canada Project, 'Management of Public Reporting of Unidentified Aerial Phenomena in Canada', June 2025",
+     "url": "https://science.gc.ca/site/science/sites/default/files/documents/sky-canada-report.pdf"
+    },
+    {
+     "date": null,
+     "name": "Office of the Chief Science Advisor of Canada, 'Management of Public Reporting of Unidentified Aerial Phenomena in Canada' (Sky Canada Project), 2025 -- https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada",
+     "url": ""
+    }
+   ],
+   "text": "The report maps Transport Canada's Civil Aviation Daily Occurrence Reporting System as the federal channel where pilot and public sightings land: 'Transport Canada maintains the Civil Aviation Daily Occurrence Reporting System (CADORS) for incidents affecting aviation safety, including UAP sightings', collecting reports 'from pilots, air traffic controllers and the public' on incidents 'involving Canadian-registered aircraft at Canadian airports, in Canadian sovereign airspace, and international airspace for which Canada has accepted responsibility'.",
+   "tier": 1,
+   "type": "investigative"
+  },
+  "e-c74ea5c24a": {
+   "endpoints": [
+    {
+     "id": "sky-canada-project",
+     "label": "Sky Canada Project - Office of the Chief Science Advisor of Canada"
+    },
+    {
+     "id": "cefaa",
+     "label": "CEFAA / SEFAA - Chilean anomalous aerial phenomena office, Dirección General de Aeronáutica Civil"
+    }
+   ],
+   "id": "e-c74ea5c24a",
+   "kind": "edge",
+   "label": "identifies SEFAA as a model and recommends partnership",
+   "sources": [
+    {
+     "date": "2025-06-01",
+     "name": "Sky Canada Project report",
+     "url": "https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada"
+    },
+    {
+     "date": null,
+     "name": "https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada",
+     "url": "https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada"
+    }
+   ],
+   "text": "Canada's Office of the Chief Science Advisor identified the United States, France and Chile as the three national UAP reporting models worth examining, described SEFAA's operations and its commitment to transparency, and recommended Canada partner with SEFAA alongside AARO, NASA and GEIPAN.",
+   "tier": 1,
+   "type": "research"
+  },
+  "e-d10a801bc9": {
+   "endpoints": [
+    {
+     "id": "robert-sarbacher",
+     "label": "Robert I. Sarbacher"
+    },
+    {
+     "id": "wilbert-smith",
+     "label": "Wilbert Brockhouse Smith"
+    }
+   ],
+   "id": "e-d10a801bc9",
+   "kind": "edge",
+   "label": "Smith's 1950 notes name Sarbacher as their source; Sarbacher's own 1983 letter says he did not attend",
+   "sources": [
+    {
+     "date": "1983-11-29",
+     "name": "Sarbacher to Steinman, 29 November 1983, signed facsimile",
+     "url": "https://ia802909.us.archive.org/9/items/majiall337/sarbacher-steinman-29nov83.pdf"
+    }
+   ],
+   "text": "The 1983 letter is the only document in this chain that was opened. Smith's 21 November 1950 memorandum was not obtained -- Library and Archives Canada refuses this environment. Sarbacher's own words are 'I could not personally attend the meetings.'",
+   "tier": 2,
+   "type": "witness-chain"
+  },
+  "e-db6ba893b9": {
+   "endpoints": [
+    {
+     "id": "l-ottawa",
+     "label": "Ottawa, Ontario, Canada"
+    },
+    {
+     "id": "sky-canada-project",
+     "label": "Sky Canada Project - Office of the Chief Science Advisor of Canada"
+    }
+   ],
+   "id": "e-db6ba893b9",
+   "kind": "edge",
+   "label": "Office of the Chief Science Advisor, Ottawa",
+   "sources": [
+    {
+     "date": "2025-06-01",
+     "name": "Report of the Sky Canada Project, Office of the Chief Science Advisor of Canada, June 2025 (Cat. No. Iu37-59/2025E-PDF)",
+     "url": "https://science.gc.ca/site/science/sites/default/files/documents/sky-canada-report.pdf"
+    },
+    {
+     "date": null,
+     "name": "https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project",
+     "url": "https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project"
+    },
+    {
+     "date": null,
+     "name": "https://ised-isde.canada.ca/site/science/sites/default/files/documents/Sky-Canada-Preview-January-2025.pdf",
+     "url": "https://ised-isde.canada.ca/site/science/sites/default/files/documents/Sky-Canada-Preview-January-2025.pdf"
+    }
+   ],
+   "text": "The Sky Canada Project is led by the Office of the Chief Science Advisor of Canada, which gives its address in the report as 235 Queen Street, Ottawa, Ontario K1A 0H5. The report, published June 2025 over the signature of Chief Science Advisor Mona Nemer, offers fourteen recommendations for improving UAP reporting and data collection in Canada.",
+   "tier": 1,
+   "type": "geographic"
+  },
+  "e-f9d2786974": {
+   "endpoints": [
+    {
+     "id": "cefaa",
+     "label": "CEFAA / SEFAA - Chilean anomalous aerial phenomena office, Dirección General de Aeronáutica Civil"
+    },
+    {
+     "id": "dgac-chile",
+     "label": "DGAC Chile - Dirección General de Aeronáutica Civil"
+    }
+   ],
+   "id": "e-f9d2786974",
+   "kind": "edge",
+   "label": "created and housed by the DGAC",
+   "sources": [
+    {
+     "date": "2026-08-25",
+     "name": "DGAC Chile / SEFAA, Historia",
+     "url": "https://sefaa.dgac.gob.cl/historia/"
+    },
+    {
+     "date": null,
+     "name": "https://sefaa.dgac.gob.cl/quienes-somos/",
+     "url": "https://sefaa.dgac.gob.cl/quienes-somos/"
+    },
+    {
+     "date": null,
+     "name": "https://www.dgac.gob.cl/cefaa-un-modelo-investigativo-de-fenomenos-aereos-anomalos/",
+     "url": "https://www.dgac.gob.cl/cefaa-un-modelo-investigativo-de-fenomenos-aereos-anomalos/"
+    }
+   ],
+   "text": "Chile's Direccion General de Aeronautica Civil dates CEFAA's establishment to 3 October 1997 and hosts it: after the 2021 reorganisation the successor body SEFAA 'operates within the General Directorate of Civil Aeronautics', as Canada's Sky Canada report independently describes it. General Ricardo Bermudez Sanhueza, who took over the Escuela Tecnica Aeronautica in 1997, also took the direction of the committee and served until 2016.",
+   "tier": 1,
+   "type": "institutional"
+  }
+ },
+ "claimed": [
+  {
+   "cite": [
+    "c-7a0cf3dbb9",
+    "c-22d37846e2"
+   ],
+   "text": "A secondary account says Smith learned at the 1950 NARBA conference from the US scientist Robert Sarbacher that Americans believed flying saucers were real and that their investigation, led by Vannevar Bush, was classified above the hydrogen bomb; Smith's memo of 21 November 1950 was then classified Top Secret until 1969. The Ottawa node carries the memorandum's H-bomb statement at Tier 1."
+  },
+  {
+   "cite": [
+    "c-6c6d113ac4",
+    "c-10cf1bb2ee",
+    "c-5a9d408a65"
+   ],
+   "text": "In a signed 1983 letter to William Steinman, Sarbacher wrote that von Neumann and Bush were definitely involved and that he thought Oppenheimer was too, that recovered materials were reported to be extremely light and very tough, and that he had the impression the aliens were built like certain insects. He also wrote that he could not personally attend the meetings, so these are impressions relayed to him."
+  },
+  {
+   "cite": [
+    "c-17f3e8306d",
+    "c-e8e501c109"
+   ],
+   "text": "Later accounts relay further roles at second hand: Jesse Michels, relaying David Grusch, named Sarbacher and Oppenheimer as setters of UFO secrecy protocols, with no document cited on air; Michels also said Sarbacher told Stanton Friedman that Karl Compton was briefed on UFO technology in 1950."
+  },
+  {
+   "cite": [
+    "c-e478d1ae39",
+    "c-6e053ec256"
+   ],
+   "text": "On Shag Harbour, 4 October 1967, secondary accounts say the Halifax rescue centre telexed the RCAF Air Desk that all conventional explanations had been dismissed and labelled it a UFO report, and that the Air Desk recommended an underwater search; a newspaper quoted an Air Desk officer calling it one of the few cases where they might get something concrete."
+  },
+  {
+   "cite": [
+    "c-ea97b984c9"
+   ],
+   "text": "Kevin Randle, more sceptical about Roswell than he was, says Shag Harbour is one of two cases he still regards as possibly a genuine crash."
+  }
+ ],
+ "contested": [
+  {
+   "cite": [
+    "c-fe06d11ebb",
+    "c-adeac6ea5b",
+    "e-539965ff3e"
+   ],
+   "text": "Second Storey, the defence committee Smith reported to, concluded that UFOs posed no security threat and were of no scientific interest, and recommended ending all military investigation; it did not investigate sightings itself."
+  },
+  {
+   "cite": [
+    "e-a37188a394",
+    "c-7bc508ee22"
+   ],
+   "text": "The foreign models Sky Canada held up explain most of what they receive: it records that 174 cases in AARO's second report were resolved as balloons, birds, drones, satellites and aircraft, and that only 3.2% of GEIPAN's 3,188 cases remained unidentified after investigation."
+  },
+  {
+   "cite": [
+    "c-d9728c70f2",
+    "c-6e053ec256"
+   ],
+   "text": "Navy divers searched the seafloor off Shag Harbour for three days and the final report says no trace of an object was found; a follow-up press report said the Navy found not a clue."
+  },
+  {
+   "cite": [
+    "e-d10a801bc9"
+   ],
+   "text": "The Smith-Sarbacher chain rests on one opened document: Smith's 1950 memorandum was not obtained from Library and Archives Canada, and Sarbacher's own 1983 letter says he did not attend."
+  },
+  {
+   "cite": [
+    "c-1aad498bd3",
+    "c-c32d4b48a9",
+    "c-43d6dc666c"
+   ],
+   "text": "The 1983 letter has problems of its own: it places the Research and Development Board under Compton during the Eisenhower administration, though the board was abolished in 1953 and Compton chaired it under Truman; its postscript is missing from the typed transcript bound with it; and the only reachable copy is a facsimile hosted by an advocacy publisher, not an archive."
+  },
+  {
+   "cite": [
+    "c-30bba30e65"
+   ],
+   "text": "On the board's reading, the claim that Sarbacher consulted for the Research and Development Board has no primary record and traces only to Smith's notes and Sarbacher's own letter."
+  }
+ ],
+ "essays": [],
+ "focusEra": "0",
+ "id": "canada",
+ "kind": "nation",
+ "lead": {
+  "cite": [
+   "c-4f0eeff679",
+   "c-347138e688",
+   "c-ed7fa7e79b"
+  ],
+  "text": "Canada's government record on UFOs runs from Project Magnet, a Department of Transport engineer's 1950 study of whether UFOs could draw propulsion from the Earth's magnetic field, to the 2025 Sky Canada Project, a federal science review that found reports scattered across departments and recommended a dedicated public service."
+ },
+ "members": [
+  {
+   "cls": "program",
+   "id": "project-magnet",
+   "label": "Project Magnet (Canada)",
+   "role": "programme"
+  },
+  {
+   "cls": "program",
+   "id": "sky-canada-project",
+   "label": "Sky Canada Project - Office of the Chief Science Advisor of Canada",
+   "role": "programme"
+  },
+  {
+   "cls": "person",
+   "id": "wilbert-smith",
+   "label": "Wilbert Brockhouse Smith",
+   "role": "official"
+  },
+  {
+   "cls": "institution",
+   "id": "lac-ufo-collection",
+   "label": "Library and Archives Canada - UFO records collection",
+   "role": "institution"
+  },
+  {
+   "cls": "person",
+   "id": "mona-nemer",
+   "label": "Dr Mona Nemer",
+   "role": "official"
+  },
+  {
+   "cls": "program",
+   "id": "project-second-storey",
+   "label": "Project Second Storey (Canada)",
+   "role": "programme"
+  },
+  {
+   "cls": "institution",
+   "id": "canada-dot",
+   "label": "Canada Department of Transport",
+   "role": "institution"
+  },
+  {
+   "cls": "institution",
+   "id": "ocsa-canada",
+   "label": "Office of the Chief Science Advisor of Canada",
+   "role": "institution"
+  },
+  {
+   "cls": "location",
+   "id": "l-ottawa",
+   "label": "Ottawa, Ontario, Canada",
+   "role": "place"
+  },
+  {
+   "cls": "person",
+   "id": "robert-sarbacher",
+   "label": "Robert I. Sarbacher",
+   "role": "claimant"
+  },
+  {
+   "cls": "document",
+   "id": "charette-memo-2023",
+   "label": "Charette Privy Council Memorandum (Secret, 14 Feb 2023)",
+   "role": "document"
+  },
+  {
+   "cls": "event",
+   "id": "shag-harbour-1967",
+   "label": "Shag Harbour incident, 4 October 1967",
+   "role": "event"
+  },
+  {
+   "cls": "institution",
+   "id": "aaro",
+   "label": "All-domain Anomaly Resolution Office (AARO)",
+   "role": "institution"
+  },
+  {
+   "cls": "institution",
+   "id": "geipan",
+   "label": "GEIPAN - Groupe d'Études et d'Informations sur les Phénomènes Aérospatiaux Non identifiés",
+   "role": "institution"
+  },
+  {
+   "cls": "institution",
+   "id": "cefaa",
+   "label": "CEFAA / SEFAA - Chilean anomalous aerial phenomena office, Dirección General de Aeronáutica Civil",
+   "role": "institution"
+  },
+  {
+   "cls": "institution",
+   "id": "dgac-chile",
+   "label": "DGAC Chile - Dirección General de Aeronáutica Civil",
+   "role": "institution"
+  },
+  {
+   "cls": "institution",
+   "id": "nasa",
+   "label": "National Aeronautics and Space Administration",
+   "role": "institution"
+  }
+ ],
+ "notes": "Wilbert Smith, Project Magnet and the 2023-26 Sky Canada work.",
+ "questions": [
+  "Where exactly is Smith's 21 November 1950 memorandum filed at Library and Archives Canada, and does the widely reproduced four-point passage match it?",
+  "Did Sarbacher ever confirm in writing what Smith recorded him as saying in 1950?",
+  "Has the Government of Canada acted on any Sky Canada recommendation, or named a lead department?",
+  "What did the full exploitation of the object shot down on 10 February 2023 find, and was the Yukon object ever identified?",
+  "Does any Canadian military record of the Shag Harbour search survive beyond the press accounts and the final report?"
+ ],
+ "record": [
+  {
+   "cite": [
+    "c-cc34524b6d",
+    "c-21047434dc",
+    "c-71b784730c",
+    "c-bf1f238d21"
+   ],
+   "text": "Smith's 1952 Project Magnet report describes objects a hundred feet or more across, travelling at several thousand miles per hour, and concludes that unless some terrestrial nation's technology is far more advanced than known, the vehicles are probably extra-terrestrial. It recommends a substantial effort to acquire as much of the technology as possible."
+  },
+  {
+   "cite": [
+    "c-40964eae2b",
+    "e-af568a786a"
+   ],
+   "text": "Library and Archives Canada quotes Smith's 1950 Geo-Magnetics memorandum, which it presents as the origin of the project: the existence of a different technology is borne out by investigations then being carried on into flying saucers, and the correlation with his theory checks too closely to be coincidence."
+  },
+  {
+   "cite": [
+    "c-a3e7e0dda4",
+    "c-dc05697ca7",
+    "c-9f55169560",
+    "c-57b0d4e735"
+   ],
+   "text": "LAC cites the Project Magnet and Second Storey files at RG 24, acc. 83-84/167, box 7523, file DRBS 3800-10-1, pt. 1. Its records also show a 1959-1960 Canada-US agreement creating the joint Cirvis/Merint reporting system for UFOs, and a 1961 National Defence memo whose first typical question was whether unsolved reports were kept from the press and public."
+  },
+  {
+   "cite": [
+    "c-347138e688",
+    "c-d879595bda",
+    "c-23da8fd40a",
+    "e-c221d0394a"
+   ],
+   "text": "The Sky Canada report finds UAP reports scattered across government and non-government bodies, with most departments not compiling them; the RCMP has no formal policy and files such reports as non-criminal incidents, so it could give no statistics. Transport Canada's CADORS system is where pilot and public sightings land."
+  },
+  {
+   "cite": [
+    "c-23fb21346a",
+    "c-beb425dee7"
+   ],
+   "text": "The report cites public estimates of 600 to 1,000 sightings a year in Canada, and a survey in which one in four respondents said they had seen a UAP, only 10% had reported it, and 40% would not know whom to contact."
+  },
+  {
+   "cite": [
+    "c-ed7fa7e79b",
+    "c-abdc585f26",
+    "c-01c53c3647",
+    "c-90c3c0453a",
+    "e-a37188a394",
+    "e-163ebdc95d"
+   ],
+   "text": "Its recommendations are to name a lead department, to set up a dedicated service that collects testimony, investigates and posts its analyses publicly, to have Transport Canada and NAV CANADA encourage pilots, cabin crew and controllers to report without fear of stigma, and to partner with AARO and NASA, GEIPAN in France and SEFAA in Chile."
+  },
+  {
+   "cite": [
+    "c-658774a0c9",
+    "c-a965d35f8e",
+    "e-f9d2786974",
+    "e-59e4315663",
+    "e-c74ea5c24a",
+    "e-3690351afc",
+    "c-7bc508ee22"
+   ],
+   "text": "The report examines the foreign models in detail: GEIPAN's three staff and more than 20 trained volunteers under CNES, SEFAA's place inside Chile's civil aviation directorate and its monthly case reports, and AARO's second report. It also works the Library and Archives holding, from Project Magnet to the NRC transfer of 1995."
+  },
+  {
+   "cite": [
+    "c-ba4e7a162b",
+    "c-71cd41ccff"
+   ],
+   "text": "The report states that it was not meant to collect first-hand data such as photos or testimony, nor to prove or disprove extraterrestrial life or visitors."
+  },
+  {
+   "cite": [
+    "c-3c08e4a22c",
+    "c-456e67d7ae",
+    "c-938ec34ef8"
+   ],
+   "text": "A secret Privy Council memorandum of 14 February 2023 records that full exploitation of UAP #20, engaged by the United States on 10 February, was not complete, that the Yukon object, UAP #23, remained unverified as to function, propulsion or national affiliation, and that it was unknown whether it posed an armed threat or could collect intelligence."
+  }
+ ],
+ "related": [
+  "office-models",
+  "uk",
+  "france",
+  "latin-america",
+  "incursions-2023-26",
+  "records-collection",
+  "gravity-research-1950s"
+ ],
+ "section": "other-nations",
+ "span": {
+  "from": "1950",
+  "to": "2026"
+ },
+ "status": "verified",
+ "summary": [
+  {
+   "cite": [
+    "c-370d37bdf6",
+    "c-4f0eeff679",
+    "c-b3999062f1"
+   ],
+   "text": "In 1950 the Department of Transport let its engineer Wilbert Smith do part-time research on magnetic propulsion; Smith widened Project Magnet to test the validity of UFO observations, including a balloon launched over Ottawa and an observatory outside the capital, and carried on privately after the department ended the project in 1954."
+  },
+  {
+   "cite": [
+    "c-adeac6ea5b",
+    "c-fe06d11ebb",
+    "e-539965ff3e"
+   ],
+   "text": "Alongside it the Defence Research Board ran Project Second Storey, a committee chaired by the astronomer Peter Millman that met six times between 1952 and 1954; Smith reported Magnet's findings to it."
+  },
+  {
+   "cite": [
+    "c-b7f4575c4e",
+    "e-63e8053c9f"
+   ],
+   "text": "The surviving files, over 15,000 pages from 1947 to 1995 received mainly from National Defence, Transport, the National Research Council and the RCMP, are held by Library and Archives Canada."
+  },
+  {
+   "cite": [
+    "c-cac28df7a6",
+    "c-afb3f918f0",
+    "e-db6ba893b9",
+    "e-1283a7aeb3",
+    "c-2ae405a6ee"
+   ],
+   "text": "In June 2025 the Office of the Chief Science Advisor, under Mona Nemer, published the Sky Canada report with fourteen recommendations, spurred by public interest and by developments abroad, particularly in the United States. On the board's reading, Magnet's place in a civil transport ministry is why its paper trail reached an open archive."
+  }
+ ],
+ "title": "Canada: Project Magnet and Sky Canada"
+}

@@ -1,0 +1,1138 @@
+{
+ "absorbs": [],
+ "anchors": [
+  "rendlesham-1980",
+  "halt-memo",
+  "charles-halt",
+  "larry-warren",
+  "john-burroughs",
+  "jim-penniston",
+  "l-raf-woodbridge",
+  "ev-rendlesham-files",
+  "peter-robbins"
+ ],
+ "appendixT": "uk",
+ "cites": {
+  "c-04c85b2f9d": {
+   "id": "c-04c85b2f9d",
+   "kind": "claim",
+   "node": "larry-warren",
+   "nodeLabel": "Larry Warren",
+   "source": {
+    "domain": "archive.org",
+    "text": "Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt , opened 2026-09-19",
+    "url": "https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt"
+   },
+   "text": "STATED INFERENCE ABOUT THE SOURCE. The Briefing Document's editorial header claims that 'Warren's testimony is corroborated by multiple other military witnesses' and specifically by 'Nick Pope, and five-star Admiral, Sea Lord, former Ministry of Defense head Lord Hill-Norton, and Sergeant Clifford Stone'. Two of those three are witnesses inside the same document, and one of them is Clifford Stone. The corroboration offered is internal to the source.",
+   "tier": 3
+  },
+  "c-0dd14c1676": {
+   "id": "c-0dd14c1676",
+   "kind": "claim",
+   "node": "charles-halt",
+   "nodeLabel": "Charles I. Halt",
+   "source": {
+    "domain": null,
+    "text": "Halt memorandum, 'Unexplained Lights,' 13 Jan 81, released under DoD FOIA case 97-F-1677",
+    "url": null
+   },
+   "text": "Halt's memo states the object was 'metalic in appearance and triangular in shape, approximately two to three meters across the base and approximately two meters high,' and that it 'illuminated the entire forest with a white light.'",
+   "tier": 1
+  },
+  "c-131ae0a6b2": {
+   "id": "c-131ae0a6b2",
+   "kind": "claim",
+   "node": "larry-warren",
+   "nodeLabel": "Larry Warren",
+   "source": {
+    "domain": "sacha-christie-infomaniachousewife.blogspot.com",
+    "text": "Peter Robbins, statement regarding Larry Warren, posted 13 June 2017 and updated 20 June 2017, hosted on Sacha Christie's blog, http://sacha-christie-infomaniachousewife.blogspot.com/2017/06/peter-robbins-statement-regarding-larry.html , opened 2026-09-19",
+    "url": "http://sacha-christie-infomaniachousewife.blogspot.com/2017/06/peter-robbins-statement-regarding-larry.html"
+   },
+   "text": "REPORTED ONLY. Col. Charles I. Halt, the senior officer on the record at Bentwaters and already a node on this board, is reported as stating that Warren 'was not there' and as denying that Warren was present during Halt's own night in Rendlesham Forest on 28 to 29 December 1980. This reaches the board through search-result summaries and a video title, NOT through any document written or signed by Halt, and is graded Tier 3 for exactly that reason.",
+   "tier": 3
+  },
+  "c-243fc2ca5f": {
+   "id": "c-243fc2ca5f",
+   "kind": "claim",
+   "node": "rendlesham-1980",
+   "nodeLabel": "Rendlesham Forest Incident, RAF Woodbridge/Bentwaters",
+   "source": {
+    "domain": null,
+    "text": "Halt memorandum, 'Unexplained Lights,' 13 Jan 81",
+    "url": null
+   },
+   "text": "Halt's memorandum records that on the day after the first sighting 'three depressions 1 1/2\" deep and 7\" in diameter were found where the object had been sighted on the ground' and that 'Beta/Gamma readings of 0.1 milliroentgens were recorded with peak reading in the three depressions and near the center of the triangle formed by the depressions.'",
+   "tier": 1
+  },
+  "c-273e0bd001": {
+   "id": "c-273e0bd001",
+   "kind": "claim",
+   "node": "larry-warren",
+   "nodeLabel": "Larry Warren",
+   "source": {
+    "domain": "cdn.centerforinquiry.org",
+    "text": "Philip J. Klass, Skeptics UFO Newsletter (SUN) #68, Summer 2001, 'Dr. Greer's Disclosure Conference Reveals His New Strategy'; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2022/09/26195512/SUN-68-Summer-2001.pdf , opened 2026-09-19",
+    "url": "https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2022/09/26195512/SUN-68-Summer-2001.pdf"
+   },
+   "text": "STATED INFERENCE. Nothing opened by this board places Warren at the podium of the 9 May 2001 press conference.",
+   "tier": 3
+  },
+  "c-2a308907d7": {
+   "id": "c-2a308907d7",
+   "kind": "claim",
+   "node": "rendlesham-1980",
+   "nodeLabel": "Rendlesham Forest Incident, RAF Woodbridge/Bentwaters",
+   "source": {
+    "domain": "cdn.centerforinquiry.org",
+    "text": "Philip J. Klass, Skeptics UFO Newsletter (SUN) #68, Summer 2001, 'Dr. Greer's Disclosure Conference Reveals His New Strategy'; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2022/09/26195512/SUN-68-Summer-2001.pdf , opened 2026-09-19",
+    "url": "https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2022/09/26195512/SUN-68-Summer-2001.pdf"
+   },
+   "text": "A SECOND AND SEPARATE CLAIM ON THIS EVENT COMES FROM CLIFFORD STONE, AND IT FAILS ON AN ACT OF HIS OWN. Stone told the Disclosure Project that an Army team took him to Bentwaters in late December 1980. Klass records that on 23 December 1983 Stone filed a FOIA request with the USAF for information on the same incident, 'used his home address and did not show that he was an Army sergeant'. Klass also notes the incident 'was not reported to higher officials until roughly two weeks after Stone says his team arrived'.",
+   "tier": 2
+  },
+  "c-2b878782e5": {
+   "id": "c-2b878782e5",
+   "kind": "claim",
+   "node": "ev-rendlesham-files",
+   "nodeLabel": "Release of the Rendlesham Forest files, August 2009 (DEFE 24/1948)",
+   "source": {
+    "domain": null,
+    "text": "The National Archives, UFO files page, August 2009",
+    "url": null
+   },
+   "text": "August 2009 tranche file list: DEFE 24/1948/1, 1959/1-1965/1, 1970/1, 1972/1, 1974/1-1976/1, 2086/1.",
+   "tier": 1
+  },
+  "c-2c22744119": {
+   "id": "c-2c22744119",
+   "kind": "claim",
+   "node": "john-burroughs",
+   "nodeLabel": "John Burroughs",
+   "source": {
+    "domain": null,
+    "text": "John Burroughs, public statements and interviews, 2013-2015",
+    "url": null
+   },
+   "text": "Burroughs states that his USAF medical records covering the December 1980-January 1981 period were not produced when he requested them for a VA claim.",
+   "tier": 2
+  },
+  "c-33f4f4b762": {
+   "id": "c-33f4f4b762",
+   "kind": "claim",
+   "node": "larry-warren",
+   "nodeLabel": "Larry Warren",
+   "source": {
+    "domain": "archive.org",
+    "text": "Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt , opened 2026-09-19 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+    "url": "https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt"
+   },
+   "text": "In his own printed words: 'In December of 1980, I was assigned to the 81st Tactical Fighter Wing in Suffolk, East Anglia, at the NATO Air Base Bentwaters, which is next to Woodbridge. I was a security specialist and worked with securing the nuclear arsenal we secretly housed there at that time. On December 11th, 1980, my security clearance notice, PRP, came through and I was approved. My clearance was a secret clearance at that time.'",
+   "tier": 2
+  },
+  "c-35dcb7286a": {
+   "id": "c-35dcb7286a",
+   "kind": "claim",
+   "node": "rendlesham-1980",
+   "nodeLabel": "Rendlesham Forest Incident, RAF Woodbridge/Bentwaters",
+   "source": {
+    "domain": null,
+    "text": "The Black Vault provenance statement on the Halt memo release",
+    "url": null
+   },
+   "text": "The memo was released by the Office of the Assistant Secretary of Defense, Freedom of Information and Security Review Office, under FOIA case 97-F-1677 in September 1997, having been released to other researchers earlier.",
+   "tier": 1
+  },
+  "c-36a772fac0": {
+   "id": "c-36a772fac0",
+   "kind": "claim",
+   "node": "rendlesham-1980",
+   "nodeLabel": "Rendlesham Forest Incident, RAF Woodbridge/Bentwaters",
+   "source": {
+    "domain": null,
+    "text": "BBC News, 'Rendlesham Forest UFO: Are we any closer to the truth 40 years on?', 26 Dec 2020; David Clarke, 40th-anniversary account with the MoD desk officer, 26 Dec 2020",
+    "url": null
+   },
+   "text": "Forty years on, the incident's American witnesses have maintained their accounts publicly while the UK Ministry of Defence's original assessment of 'no defence significance' has been shown to have been reached without interviewing them.",
+   "tier": 2
+  },
+  "c-42f8b94df7": {
+   "id": "c-42f8b94df7",
+   "kind": "claim",
+   "node": "charles-halt",
+   "nodeLabel": "Charles I. Halt",
+   "source": {
+    "domain": "sacha-christie-infomaniachousewife.blogspot.com",
+    "text": "Peter Robbins, statement regarding Larry Warren, posted 13 June 2017 and updated 20 June 2017, hosted on Sacha Christie's blog, http://sacha-christie-infomaniachousewife.blogspot.com/2017/06/peter-robbins-statement-regarding-larry.html , opened 2026-09-19",
+    "url": "http://sacha-christie-infomaniachousewife.blogspot.com/2017/06/peter-robbins-statement-regarding-larry.html"
+   },
+   "text": "REPORTED ONLY, AND GRADED TIER 3 FOR THAT REASON. He is reported as stating that Larry Warren 'was not there', and as denying that Warren was present during Halt's own extended time in Rendlesham Forest on the night of 28 to 29 December 1980. This reaches the board through search-result summaries and a video title and NOT through any document written or signed by Halt. A primary would move it to Tier 2.",
+   "tier": 3
+  },
+  "c-4aaf9034a6": {
+   "id": "c-4aaf9034a6",
+   "kind": "claim",
+   "node": "larry-warren",
+   "nodeLabel": "Larry Warren",
+   "source": {
+    "domain": "archive.org",
+    "text": "Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt , opened 2026-09-19 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+    "url": "https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt"
+   },
+   "text": "The Disclosure Project Briefing Document of April 2001 prints his testimony at section 3.8.4 under the heading 'Testimony of Security Officer Larry Warren, United States Air Force / September 2000'. TIER 1 FOR THE FACT OF THE TESTIMONY AND ITS DATE ONLY.",
+   "tier": 2
+  },
+  "c-5cb4bdfa7b": {
+   "id": "c-5cb4bdfa7b",
+   "kind": "claim",
+   "node": "jim-penniston",
+   "nodeLabel": "James W. Penniston",
+   "source": {
+    "domain": null,
+    "text": "Penniston notebook, reproduced by researchers; discussed in BBC 40th-anniversary coverage, 26 Dec 2020",
+    "url": null
+   },
+   "text": "Penniston's contemporaneous notebook records the phrase 'craft of unknown origin.'",
+   "tier": 2
+  },
+  "c-676bd72aee": {
+   "id": "c-676bd72aee",
+   "kind": "claim",
+   "node": "peter-robbins",
+   "nodeLabel": "Peter Robbins",
+   "source": {
+    "domain": "kevinrandle.blogspot.com",
+    "text": "Kevin D. Randle, 'Peter Robbins Explains His Take on Left at East Gate (Part One)', A Different Perspective, http://kevinrandle.blogspot.com/2017/08/peter-robbins-explains-his-take-on-left_10.html , opened 2026-09-19",
+    "url": "http://kevinrandle.blogspot.com/2017/08/peter-robbins-explains-his-take-on-left_10.html"
+   },
+   "text": "A limitation on him as a source, in his own words: 'I have come to a point in my life where I no longer have any interest in researching, investigating or otherwise actively studying that thing alternatively known as the Woodbridge Lights.'",
+   "tier": 2
+  },
+  "c-73cc187f20": {
+   "id": "c-73cc187f20",
+   "kind": "claim",
+   "node": "larry-warren",
+   "nodeLabel": "Larry Warren",
+   "source": {
+    "domain": "cosimoblog.blogspot.com",
+    "text": "Cosimo, Inc., publisher's announcement, 'Announcement: Left at East Gate', http://cosimoblog.blogspot.com/2017/10/announcement-left-at-east-gate.html , opened 2026-09-19 — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+    "url": "http://cosimoblog.blogspot.com/2017/10/announcement-left-at-east-gate.html"
+   },
+   "text": "HIS PUBLISHER WITHDREW THE BOOK. Cosimo, Inc., 17 October 2017, verbatim: 'Cosimo is announcing that it is suspending the distribution of the book, Left at East Gate, by Larry Warren and Peter Robbins.' The stated reason is that 'some of the experiences described in this book may be inaccurate or embellished' and that the publisher cannot presently confirm the book meets its standards.",
+   "tier": 2
+  },
+  "c-7ef14aaff6": {
+   "id": "c-7ef14aaff6",
+   "kind": "claim",
+   "node": "charles-halt",
+   "nodeLabel": "Charles I. Halt",
+   "source": {
+    "domain": null,
+    "text": "Charles I. Halt, notarized affidavit, 2010; restated in BBC and researcher interviews on the 40th anniversary, 26 Dec 2020",
+    "url": null
+   },
+   "text": "Halt has stated in a notarized affidavit that the objects were under intelligent control, were not of terrestrial origin, and that the US and UK governments acted to suppress the incident.",
+   "tier": 2
+  },
+  "c-8032806a9c": {
+   "id": "c-8032806a9c",
+   "kind": "claim",
+   "node": "halt-memo",
+   "nodeLabel": "Halt Memorandum, 'Unexplained Lights', 13 January 1981",
+   "source": {
+    "domain": null,
+    "text": "Halt memorandum, 13 Jan 81, released under DoD FOIA case 97-F-1677",
+    "url": null
+   },
+   "text": "The memo's closing sentence reads: 'Numerous individuals, including the undersigned, witnessed the activities in paragraphs 2 and 3.' It is signed CHARLES I. HALT, Lt Col, USAF, Deputy Base Commander.",
+   "tier": 1
+  },
+  "c-875d4e6420": {
+   "id": "c-875d4e6420",
+   "kind": "claim",
+   "node": "peter-robbins",
+   "nodeLabel": "Peter Robbins",
+   "source": {
+    "domain": "kevinrandle.blogspot.com",
+    "text": "Kevin D. Randle, 'Peter Robbins Explains His Take on Left at East Gate (Part One)', A Different Perspective, http://kevinrandle.blogspot.com/2017/08/peter-robbins-explains-his-take-on-left_10.html , opened 2026-09-19",
+    "url": "http://kevinrandle.blogspot.com/2017/08/peter-robbins-explains-his-take-on-left_10.html"
+   },
+   "text": "What he examined and what he concedes: military paperwork supplied by Warren, 'mostly Xerox copies with some originals', and the handwritten letter Warren wrote to his mother in January 1981, which Robbins accepts as authentic while arguing it 'does not mean that everything else Warren has said or written follows in kind'.",
+   "tier": 2
+  },
+  "c-9b68b6da7b": {
+   "id": "c-9b68b6da7b",
+   "kind": "claim",
+   "node": "larry-warren",
+   "nodeLabel": "Larry Warren",
+   "source": {
+    "domain": "sacha-christie-infomaniachousewife.blogspot.com",
+    "text": "Peter Robbins, statement regarding Larry Warren, posted 13 June 2017 and updated 20 June 2017, hosted on Sacha Christie's blog, http://sacha-christie-infomaniachousewife.blogspot.com/2017/06/peter-robbins-statement-regarding-larry.html , opened 2026-09-19 — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+    "url": "http://sacha-christie-infomaniachousewife.blogspot.com/2017/06/peter-robbins-statement-regarding-larry.html"
+   },
+   "text": "HIS CO-AUTHOR OF TWENTY-NINE YEARS REPUDIATED THE BOOK. Peter Robbins published a statement on 13 June 2017, updated 20 June 2017. His specific allegations: a fabricated photograph purporting to show Warren with John Lennon; an altered USAF Form 490 medical appointment card on which the notation 'OPTI/RET BURN/EXP' is attributed to a 'Dr. Echols' whom Robbins says was an orthopaedic surgeon and not an ophthalmologist; signature inconsistencies on an in-processing sheet where 'Lea' is signed twice in different pens against a typed 'Lee'; and testimonial letters attributed to fellow airmen Steve LaPlume and Steve Longero that Robbins says were never sent.",
+   "tier": 2
+  },
+  "c-9cdec16550": {
+   "id": "c-9cdec16550",
+   "kind": "claim",
+   "node": "charles-halt",
+   "nodeLabel": "Charles I. Halt",
+   "source": {
+    "domain": null,
+    "text": "Halt memorandum, 13 Jan 81, paragraph 2",
+    "url": null
+   },
+   "text": "Halt's memo records physical trace evidence: three depressions 1.5 inches deep and 7 inches in diameter, and beta/gamma readings of 0.1 milliroentgens peaking in the depressions and at the centre of the triangle they formed.",
+   "tier": 1
+  },
+  "c-a3b77d59e9": {
+   "id": "c-a3b77d59e9",
+   "kind": "claim",
+   "node": "rendlesham-1980",
+   "nodeLabel": "Rendlesham Forest Incident, RAF Woodbridge/Bentwaters",
+   "source": {
+    "domain": "archive.org",
+    "text": "Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt , opened 2026-09-19",
+    "url": "https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt"
+   },
+   "text": "Larry Warren's claimed connection to it is printed at section 3.8.4 of the Disclosure Project Briefing Document under 'Testimony of Security Officer Larry Warren, United States Air Force / September 2000', in which he states he was assigned to the 81st Tactical Fighter Wing at Bentwaters and that his PRP clearance was approved on 11 December 1980.",
+   "tier": 1
+  },
+  "c-aaa53a7b22": {
+   "id": "c-aaa53a7b22",
+   "kind": "claim",
+   "node": "larry-warren",
+   "nodeLabel": "Larry Warren",
+   "source": {
+    "domain": "kevinrandle.blogspot.com",
+    "text": "Kevin D. Randle, 'Peter Robbins Explains His Take on Left at East Gate (Part One)', A Different Perspective, http://kevinrandle.blogspot.com/2017/08/peter-robbins-explains-his-take-on-left_10.html , opened 2026-09-19",
+    "url": "http://kevinrandle.blogspot.com/2017/08/peter-robbins-explains-his-take-on-left_10.html"
+   },
+   "text": "WHAT THE REPUDIATION CONCEDES, AND IT MUST BE CARRIED. Robbins accepts as authentic the handwritten letter Warren wrote to his mother in January 1981 and states that its authenticity 'does not mean that everything else Warren has said or written follows in kind'. Robbins also records that the military paperwork he examined was supplied by Warren and was 'mostly Xerox copies with some originals'. So the honest position is not that Warren was never at Bentwaters; it is that his presence at the events, and the documents he produced for it, are what is disputed.",
+   "tier": 2
+  },
+  "c-aae83832cd": {
+   "id": "c-aae83832cd",
+   "kind": "claim",
+   "node": "john-burroughs",
+   "nodeLabel": "John Burroughs",
+   "source": {
+    "domain": null,
+    "text": "John Burroughs and counsel, public statements 2015; reiterated in 40th-anniversary coverage",
+    "url": null
+   },
+   "text": "Burroughs was granted service-connected VA disability benefits in 2015 following congressional inquiries on his behalf.",
+   "tier": 2
+  },
+  "c-acd2a49f9c": {
+   "id": "c-acd2a49f9c",
+   "kind": "claim",
+   "node": "halt-memo",
+   "nodeLabel": "Halt Memorandum, 'Unexplained Lights', 13 January 1981",
+   "source": {
+    "domain": null,
+    "text": "Halt memorandum, 13 Jan 81, paragraph 1",
+    "url": null
+   },
+   "text": "The memo describes the object as 'metalic in appearance and triangular in shape, approximately two to three meters across the base and approximately two meters high' and states 'It illuminated the entire forest with a white light.'",
+   "tier": 1
+  },
+  "c-b17a99b1c9": {
+   "id": "c-b17a99b1c9",
+   "kind": "claim",
+   "node": "ev-rendlesham-files",
+   "nodeLabel": "Release of the Rendlesham Forest files, August 2009 (DEFE 24/1948)",
+   "source": {
+    "domain": null,
+    "text": "The National Archives, UFO files page, August 2009",
+    "url": null
+   },
+   "text": "The National Archives' description of the August 2009 tranche: 'The files contain a wide range of UFO-related documents covering the years 1981-1996. Find out more about close encounters, stray satellites, bright lights and Britain's very own Roswell - Rendlesham Forest in Suffolk.'",
+   "tier": 1
+  },
+  "c-c6d95391bb": {
+   "id": "c-c6d95391bb",
+   "kind": "claim",
+   "node": "rendlesham-1980",
+   "nodeLabel": "Rendlesham Forest Incident, RAF Woodbridge/Bentwaters",
+   "source": {
+    "domain": "cosimoblog.blogspot.com",
+    "text": "Cosimo, Inc., publisher's announcement, 'Announcement: Left at East Gate', http://cosimoblog.blogspot.com/2017/10/announcement-left-at-east-gate.html , opened 2026-09-19 — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+    "url": "http://cosimoblog.blogspot.com/2017/10/announcement-left-at-east-gate.html"
+   },
+   "text": "THAT CLAIM IS DISPUTED IN THE PUBLISHED LITERATURE BY HIS OWN CO-AUTHOR AND HIS OWN PUBLISHER. Peter Robbins published a repudiation on 13 June 2017 alleging fabricated and altered documents, and Cosimo, Inc. announced on 17 October 2017 that it was 'suspending the distribution of the book, Left at East Gate, by Larry Warren and Peter Robbins' because 'some of the experiences described in this book may be inaccurate or embellished'.",
+   "tier": 2
+  },
+  "c-d6c2526db3": {
+   "id": "c-d6c2526db3",
+   "kind": "claim",
+   "node": "john-burroughs",
+   "nodeLabel": "John Burroughs",
+   "source": {
+    "domain": null,
+    "text": "John Burroughs, quoted in Rendlesham witness-statement analysis",
+    "url": null
+   },
+   "text": "Burroughs said of the 26 December sighting that they 'followed it for about 2 miles before we could see it was coming from a lighthouse' - a statement that cuts against the landed-craft account and demonstrates he has not tailored his testimony.",
+   "tier": 2
+  },
+  "c-d760d034ef": {
+   "id": "c-d760d034ef",
+   "kind": "claim",
+   "node": "l-raf-woodbridge",
+   "nodeLabel": "RAF Woodbridge / RAF Bentwaters, Suffolk, England",
+   "source": {
+    "domain": null,
+    "text": "David Clarke, 40th-anniversary account, 26 Dec 2020",
+    "url": null
+   },
+   "text": "Forty years later the UK Ministry of Defence desk officer who handled the file spoke publicly for the first time about how the report was processed.",
+   "tier": 2
+  },
+  "c-da713bf9da": {
+   "id": "c-da713bf9da",
+   "kind": "claim",
+   "node": "aaro-historical-record-vol1",
+   "nodeLabel": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
+   "source": {
+    "domain": null,
+    "text": "AARO Historical Record Report Volume I, DOPSR-2024-0263, 8 Mar 2024 - full-text review",
+    "url": null
+   },
+   "text": "AARO Volume I contains no mention of Kirtland AFB, AFOSI, Paul Bennewitz, Richard Doty, MJ-12, Project AQUARIUS, Project MOON DUST, Operation BLUE FLY, Rendlesham, Admiral Thomas Wilson or the Wilson-Davis notes.",
+   "tier": 1
+  },
+  "c-eefb703460": {
+   "id": "c-eefb703460",
+   "kind": "claim",
+   "node": "l-raf-woodbridge",
+   "nodeLabel": "RAF Woodbridge / RAF Bentwaters, Suffolk, England",
+   "source": {
+    "domain": null,
+    "text": "Halt memorandum, 13 Jan 81; The Black Vault provenance statement",
+    "url": null
+   },
+   "text": "The December 1980 events occurred just outside RAF Woodbridge, then used by the United States Air Force, and were reported up the chain by the deputy base commander, Lt Col Charles I. Halt.",
+   "tier": 1
+  },
+  "c-f136bea9e3": {
+   "id": "c-f136bea9e3",
+   "kind": "claim",
+   "node": "jim-penniston",
+   "nodeLabel": "James W. Penniston",
+   "source": {
+    "domain": null,
+    "text": "James Penniston, repeated public statements and interviews from the 1990s onward",
+    "url": null
+   },
+   "text": "Penniston states he physically touched the object and that it was warm, smooth and bore raised symbols on its surface.",
+   "tier": 2
+  },
+  "c-f7872eb603": {
+   "id": "c-f7872eb603",
+   "kind": "claim",
+   "node": "rendlesham-1980",
+   "nodeLabel": "Rendlesham Forest Incident, RAF Woodbridge/Bentwaters",
+   "source": {
+    "domain": "archive.org",
+    "text": "Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt , opened 2026-09-19",
+    "url": "https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt"
+   },
+   "text": "STATED INFERENCE ABOUT A SOURCE. The Briefing Document's editorial header asserts that Warren's testimony is corroborated by Nick Pope, Lord Hill-Norton and Clifford Stone. Two of those three are witnesses inside the same document and one of them is Stone. The corroboration offered for this event by that source is internal to it.",
+   "tier": 3
+  },
+  "e-0bb36c2a9b": {
+   "endpoints": [
+    {
+     "id": "peter-robbins",
+     "label": "Peter Robbins"
+    },
+    {
+     "id": "larry-warren",
+     "label": "Larry Warren"
+    }
+   ],
+   "id": "e-0bb36c2a9b",
+   "kind": "edge",
+   "label": "Co-author of twenty-nine years publishes a detailed repudiation, 13 June 2017",
+   "sources": [
+    {
+     "date": "2017-06-13",
+     "name": "Peter Robbins, statement regarding Larry Warren, posted 13 June 2017 and updated 20 June 2017, hosted on Sacha Christie's blog",
+     "url": "http://sacha-christie-infomaniachousewife.blogspot.com/2017/06/peter-robbins-statement-regarding-larry.html"
+    },
+    {
+     "date": "2017-10-17",
+     "name": "Cosimo, Inc., publisher's announcement, 'Announcement: Left at East Gate'",
+     "url": "http://cosimoblog.blogspot.com/2017/10/announcement-left-at-east-gate.html"
+    }
+   ],
+   "text": "TIER 1 FOR THE FACT OF THE REPUDIATION BY THE NAMED CO-AUTHOR AND FOR THE PUBLISHER'S RESPONSE TO IT. The specific allegations, an altered USAF Form 490 with an ophthalmic notation attributed to an orthopaedic surgeon, a fabricated Lennon photograph, mismatched signatures and unsent testimonial letters, are Robbins's findings and the underlying documents were not opened here. He concedes the authenticity of Warren's January 1981 letter home.",
+   "tier": 2,
+   "type": "denial"
+  },
+  "e-17bb4393bb": {
+   "endpoints": [
+    {
+     "id": "john-burroughs",
+     "label": "John Burroughs"
+    },
+    {
+     "id": "rendlesham-1980",
+     "label": "Rendlesham Forest Incident, RAF Woodbridge/Bentwaters"
+    }
+   ],
+   "id": "e-17bb4393bb",
+   "kind": "edge",
+   "label": "First responder, 26 December 1980",
+   "sources": [
+    {
+     "date": "2020-12-26",
+     "name": "BBC News, 'Rendlesham Forest UFO: Are we any closer to the truth 40 years on?'",
+     "url": "https://www.bbc.co.uk/news/uk-england-suffolk-54649675"
+    },
+    {
+     "date": "2020-12-26",
+     "name": "David Clarke, 'Rendlesham UFOs 40th anniversary: the man from the ministry speaks for the first time'",
+     "url": "https://drdavidclarke.co.uk/2020/12/26/rendlesham-ufos-40th-anniversary-the-man-from-the-ministry-speaks-for-the-first-time/"
+    }
+   ],
+   "text": "Burroughs was with Penniston at the east gate; his account differs in detail from Penniston's, which the board treats as a marker of independence rather than contradiction.",
+   "tier": 2,
+   "type": "witness-chain"
+  },
+  "e-2febb4fdd5": {
+   "endpoints": [
+    {
+     "id": "jim-penniston",
+     "label": "James W. Penniston"
+    },
+    {
+     "id": "rendlesham-1980",
+     "label": "Rendlesham Forest Incident, RAF Woodbridge/Bentwaters"
+    }
+   ],
+   "id": "e-2febb4fdd5",
+   "kind": "edge",
+   "label": "First responder, 26 December 1980",
+   "sources": [
+    {
+     "date": "2020-12-26",
+     "name": "BBC News, 'Rendlesham Forest UFO: Are we any closer to the truth 40 years on?'",
+     "url": "https://www.bbc.co.uk/news/uk-england-suffolk-54649675"
+    },
+    {
+     "date": "2020-12-26",
+     "name": "David Clarke, 'Rendlesham UFOs 40th anniversary: the man from the ministry speaks for the first time'",
+     "url": "https://drdavidclarke.co.uk/2020/12/26/rendlesham-ufos-40th-anniversary-the-man-from-the-ministry-speaks-for-the-first-time/"
+    }
+   ],
+   "text": "Penniston was the senior security police NCO who entered the forest; his notebook records 'craft of unknown origin' and he signed a USAF witness statement.",
+   "tier": 2,
+   "type": "witness-chain"
+  },
+  "e-3c29956f3c": {
+   "endpoints": [
+    {
+     "id": "larry-warren",
+     "label": "Larry Warren"
+    },
+    {
+     "id": "rendlesham-1980",
+     "label": "Rendlesham Forest Incident, RAF Woodbridge/Bentwaters"
+    }
+   ],
+   "id": "e-3c29956f3c",
+   "kind": "edge",
+   "label": "Claims presence at the December 1980 events; contested",
+   "sources": [
+    {
+     "date": "2001-04",
+     "name": "Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session",
+     "url": "https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt"
+    },
+    {
+     "date": "2017-06-13",
+     "name": "Peter Robbins, statement regarding Larry Warren, posted 13 June 2017 and updated 20 June 2017, hosted on Sacha Christie's blog",
+     "url": "http://sacha-christie-infomaniachousewife.blogspot.com/2017/06/peter-robbins-statement-regarding-larry.html"
+    },
+    {
+     "date": "2017-10-17",
+     "name": "Cosimo, Inc., publisher's announcement, 'Announcement: Left at East Gate'",
+     "url": "http://cosimoblog.blogspot.com/2017/10/announcement-left-at-east-gate.html"
+    }
+   ],
+   "text": "TIER 2 AND CONTESTED. His assignment to the 81st Tactical Fighter Wing is not what is disputed; his presence at the events and the documents he produced for it are. His co-author repudiated the account on 13 June 2017 and the publisher suspended distribution of the book on 17 October 2017.",
+   "tier": 2,
+   "type": "witness-chain"
+  },
+  "e-53d8efbf33": {
+   "endpoints": [
+    {
+     "id": "sheffield-hallam",
+     "label": "Sheffield Hallam University"
+    },
+    {
+     "id": "rendlesham-1980",
+     "label": "Rendlesham Forest Incident, RAF Woodbridge/Bentwaters"
+    }
+   ],
+   "id": "e-53d8efbf33",
+   "kind": "edge",
+   "label": "Sheffield Hallam academic curated the MoD file release containing Rendlesham",
+   "sources": [
+    {
+     "date": "2018-03-08",
+     "name": "Sheffield Hallam University, C3RI Impact blog, 'Dr David Clarke presents UFO files at The National Archives', 8 March 2018",
+     "url": "https://blogs.shu.ac.uk/c3riimpact/david-clarke-ufo-files-national-archives/"
+    },
+    {
+     "date": "2013-01-01",
+     "name": "The National Archives, 'Unidentified Flying Objects (UFOs)' research guide",
+     "url": "https://cdn.nationalarchives.gov.uk/documents/ufo-research-guide-2013.pdf"
+    },
+    {
+     "date": null,
+     "name": "Dr David Clarke, 'National Archives UFO Files' -- https://drdavidclarke.co.uk/national-archives-ufo-files-7/",
+     "url": ""
+    },
+    {
+     "date": null,
+     "name": "Sheffield Hallam University Research Archive (SHURA), 'National Archives Podcasts and Media - MoD UFO archives project 2008-2013' -- https://shura.shu.ac.uk/35070/",
+     "url": ""
+    },
+    {
+     "date": null,
+     "name": "The National Archives UFO records podcast transcript, August 2009 -- https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf",
+     "url": ""
+    }
+   ],
+   "text": "Sheffield Hallam describes Clarke as its Journalism Reader and as 'media consultant and spokesperson for the transfer of 210 formerly classified files on UFOs from The Ministry of Defence archive' between 2008 and 2013. His own earlier role in prising the Rendlesham file loose is recorded at The National Archives by file reference: the guide notes that the Rendlesham papers were among the first released under the Code of Practice for Access to Government Information in 2001, and that the papers relating to that release sit at DEFE 24/2030/1 and DEFE 24/2031/1, catalogued as 'UFOs: Persistent Correspondence, Dr David Clarke, 2000-2001'. The custody relationship is documented in the archive's own catalogue entry, under his name.",
+   "tier": 1,
+   "type": "custody"
+  },
+  "e-5dbd78ac8d": {
+   "endpoints": [
+    {
+     "id": "john-burroughs",
+     "label": "John Burroughs"
+    },
+    {
+     "id": "l-raf-woodbridge",
+     "label": "RAF Woodbridge / RAF Bentwaters, Suffolk, England"
+    }
+   ],
+   "id": "e-5dbd78ac8d",
+   "kind": "edge",
+   "label": "Service medical records for the incident window could not be produced",
+   "sources": [
+    {
+     "date": "2020-12-26",
+     "name": "BBC News, 'Rendlesham Forest UFO: Are we any closer to the truth 40 years on?'",
+     "url": "https://www.bbc.co.uk/news/uk-england-suffolk-54649675"
+    },
+    {
+     "date": "2020-12-26",
+     "name": "David Clarke, 'Rendlesham UFOs 40th anniversary: the man from the ministry speaks for the first time'",
+     "url": "https://drdavidclarke.co.uk/2020/12/26/rendlesham-ufos-40th-anniversary-the-man-from-the-ministry-speaks-for-the-first-time/"
+    }
+   ],
+   "text": "Burroughs reported that his USAF medical records for December 1980-January 1981 were unavailable when he sought them for a VA disability claim; the claim was granted in 2015 after congressional intervention.",
+   "tier": 2,
+   "type": "custody"
+  },
+  "e-632e51494a": {
+   "endpoints": [
+    {
+     "id": "charles-halt",
+     "label": "Charles I. Halt"
+    },
+    {
+     "id": "halt-memo",
+     "label": "Halt Memorandum, 'Unexplained Lights', 13 January 1981"
+    }
+   ],
+   "id": "e-632e51494a",
+   "kind": "edge",
+   "label": "Halt authored and signed the 'Unexplained Lights' memorandum",
+   "sources": [
+    {
+     "date": "2021-11-11",
+     "name": "The Halt Memo - Rendlesham Forest Incident (DoD FOIA case 97-F-1677, released Sept 1997)",
+     "url": "https://www.theblackvault.com/documentarchive/the-halt-memo-the-rendlesham-forest-incident/"
+    }
+   ],
+   "text": "Halt was Deputy Base Commander of the 81st Combat Support Group and signed the memo on 13 Jan 81. The document is his; his authorship has never been disputed by the Air Force.",
+   "tier": 1,
+   "type": "witness-chain"
+  },
+  "e-a17e777efa": {
+   "endpoints": [
+    {
+     "id": "charles-halt",
+     "label": "Charles I. Halt"
+    },
+    {
+     "id": "rendlesham-1980",
+     "label": "Rendlesham Forest Incident, RAF Woodbridge/Bentwaters"
+    }
+   ],
+   "id": "e-a17e777efa",
+   "kind": "edge",
+   "label": "Halt personally led the 28 December 1980 forest patrol",
+   "sources": [
+    {
+     "date": "2021-11-11",
+     "name": "The Halt Memo - Rendlesham Forest Incident (DoD FOIA case 97-F-1677, released Sept 1997)",
+     "url": "https://www.theblackvault.com/documentarchive/the-halt-memo-the-rendlesham-forest-incident/"
+    }
+   ],
+   "text": "Halt's own memo states 'Numerous individuals, including the undersigned, witnessed the activities in paragraphs 2 and 3.'",
+   "tier": 1,
+   "type": "witness-chain"
+  },
+  "e-a59a07bb03": {
+   "endpoints": [
+    {
+     "id": "halt-memo",
+     "label": "Halt Memorandum, 'Unexplained Lights', 13 January 1981"
+    },
+    {
+     "id": "rendlesham-1980",
+     "label": "Rendlesham Forest Incident, RAF Woodbridge/Bentwaters"
+    }
+   ],
+   "id": "e-a59a07bb03",
+   "kind": "edge",
+   "label": "The memo is the primary official record of the incident",
+   "sources": [
+    {
+     "date": "2021-11-11",
+     "name": "The Halt Memo - Rendlesham Forest Incident (DoD FOIA case 97-F-1677, released Sept 1997)",
+     "url": "https://www.theblackvault.com/documentarchive/the-halt-memo-the-rendlesham-forest-incident/"
+    },
+    {
+     "date": "2020-12-26",
+     "name": "BBC News, 'Rendlesham Forest UFO: Are we any closer to the truth 40 years on?'",
+     "url": "https://www.bbc.co.uk/news/uk-england-suffolk-54649675"
+    }
+   ],
+   "text": "The memo is the only contemporaneous US government document describing the events; everything else in the case is witness statement or later recollection.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-b3eb8c7b08": {
+   "endpoints": [
+    {
+     "id": "rendlesham-1980",
+     "label": "Rendlesham Forest Incident, RAF Woodbridge/Bentwaters"
+    },
+    {
+     "id": "l-raf-woodbridge",
+     "label": "RAF Woodbridge / RAF Bentwaters, Suffolk, England"
+    }
+   ],
+   "id": "e-b3eb8c7b08",
+   "kind": "edge",
+   "label": "Incident occurred at and around a USAF-operated nuclear-capable NATO base",
+   "sources": [
+    {
+     "date": "2021-11-11",
+     "name": "The Halt Memo - Rendlesham Forest Incident (DoD FOIA case 97-F-1677, released Sept 1997)",
+     "url": "https://www.theblackvault.com/documentarchive/the-halt-memo-the-rendlesham-forest-incident/"
+    },
+    {
+     "date": "2020-12-26",
+     "name": "David Clarke, 'Rendlesham UFOs 40th anniversary: the man from the ministry speaks for the first time'",
+     "url": "https://drdavidclarke.co.uk/2020/12/26/rendlesham-ufos-40th-anniversary-the-man-from-the-ministry-speaks-for-the-first-time/"
+    }
+   ],
+   "text": "RAF Woodbridge and RAF Bentwaters were operated by the USAF's 81st Tactical Fighter Wing under NATO arrangements.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-c5b666ce91": {
+   "endpoints": [
+    {
+     "id": "rendlesham-1980",
+     "label": "Rendlesham Forest Incident, RAF Woodbridge/Bentwaters"
+    },
+    {
+     "id": "aaro-historical-record-vol1",
+     "label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+    }
+   ],
+   "id": "e-c5b666ce91",
+   "kind": "edge",
+   "label": "AARO's 2024 historical review does not mention Rendlesham",
+   "sources": [
+    {
+     "date": "2024-03-08",
+     "name": "AARO, 'Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP), Volume I' (DOPSR-2024-0263)",
+     "url": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF"
+    },
+    {
+     "date": "2021-11-11",
+     "name": "The Halt Memo - Rendlesham Forest Incident (DoD FOIA case 97-F-1677, released Sept 1997)",
+     "url": "https://www.theblackvault.com/documentarchive/the-halt-memo-the-rendlesham-forest-incident/"
+    }
+   ],
+   "text": "A congressionally directed review of the historical record omits the best-documented physical-trace incident at a NATO nuclear-capable base, for which the Pentagon's own FOIA office has released the commander's memorandum.",
+   "tier": 1,
+   "type": "denial"
+  },
+  "e-ccfa2376a6": {
+   "endpoints": [
+    {
+     "id": "charles-halt",
+     "label": "Charles I. Halt"
+    },
+    {
+     "id": "larry-warren",
+     "label": "Larry Warren"
+    }
+   ],
+   "id": "e-ccfa2376a6",
+   "kind": "edge",
+   "label": "Reported as stating that Warren 'was not there'",
+   "sources": [
+    {
+     "date": "2017-06-13",
+     "name": "Peter Robbins, statement regarding Larry Warren, posted 13 June 2017 and updated 20 June 2017, hosted on Sacha Christie's blog",
+     "url": "http://sacha-christie-infomaniachousewife.blogspot.com/2017/06/peter-robbins-statement-regarding-larry.html"
+    }
+   ],
+   "text": "TIER 3. This reaches the board through search-result summaries and a video title and NOT through any document written or signed by Halt. ianridpath.com, which carries the most-cited sceptical treatment, returned an SSL handshake failure on both http and https. A primary would move this to Tier 2.",
+   "tier": 3,
+   "type": "denial"
+  },
+  "e-d14806602a": {
+   "endpoints": [
+    {
+     "id": "tna-ufo-release",
+     "label": "The National Archives / MoD UFO File Release Programme (2008-2013)"
+    },
+    {
+     "id": "ev-rendlesham-files",
+     "label": "Release of the Rendlesham Forest files, August 2009 (DEFE 24/1948)"
+    }
+   ],
+   "id": "e-d14806602a",
+   "kind": "edge",
+   "label": "the August 2009 tranche carried the Rendlesham material",
+   "sources": [
+    {
+     "date": "2009-08-01",
+     "name": "TNA UFO files, August 2009",
+     "url": "https://web.archive.org/web/2009/http://www.nationalarchives.gov.uk/ufos/"
+    }
+   ],
+   "text": "The National Archives itself billed the tranche as containing 'Britain's very own Roswell - Rendlesham Forest in Suffolk'.",
+   "tier": 1,
+   "type": "custody"
+  }
+ },
+ "claimed": [
+  {
+   "cite": [
+    "c-f136bea9e3",
+    "c-5cb4bdfa7b"
+   ],
+   "text": "Penniston says he touched the object and that it was warm and smooth with raised symbols on its surface; his contemporaneous notebook records the phrase craft of unknown origin."
+  },
+  {
+   "cite": [
+    "c-7ef14aaff6"
+   ],
+   "text": "Halt has stated in a notarised affidavit that the objects were under intelligent control and not of terrestrial origin, and that the US and UK governments acted to suppress the incident."
+  },
+  {
+   "cite": [
+    "c-2c22744119",
+    "c-aae83832cd",
+    "e-5dbd78ac8d"
+   ],
+   "text": "Burroughs says his service medical records for December 1980 to January 1981 could not be produced when he sought them for a VA claim; he was granted service-connected disability benefits in 2015 after congressional inquiries."
+  },
+  {
+   "cite": [
+    "c-33f4f4b762",
+    "e-3c29956f3c"
+   ],
+   "text": "Warren, in his printed testimony, says he was a security specialist securing the nuclear weapons kept at Bentwaters and held a secret clearance."
+  },
+  {
+   "cite": [
+    "c-2a308907d7"
+   ],
+   "text": "Clifford Stone told the Disclosure Project that an Army team took him to Bentwaters in late December 1980."
+  },
+  {
+   "cite": [
+    "c-36a772fac0",
+    "c-d760d034ef"
+   ],
+   "text": "One account holds that forty years on the American witnesses have kept to their stories, while the MoD's assessment of no defence significance was reached without interviewing them; the MoD desk officer who handled the file later spoke publicly for the first time about how it was processed."
+  }
+ ],
+ "contested": [
+  {
+   "cite": [
+    "c-36a772fac0"
+   ],
+   "text": "The UK Ministry of Defence's contemporaneous assessment was that the events were of no defence significance; one account says that assessment was reached without interviewing the American witnesses."
+  },
+  {
+   "cite": [
+    "c-d6c2526db3",
+    "e-17bb4393bb"
+   ],
+   "text": "Burroughs himself says that on 26 December they followed the light for about 2 miles before they could see it was coming from a lighthouse, which cuts against a landed-craft reading of that night."
+  },
+  {
+   "cite": [
+    "c-9b68b6da7b",
+    "c-73cc187f20",
+    "c-c6d95391bb",
+    "e-0bb36c2a9b"
+   ],
+   "text": "Warren's co-author of twenty-nine years, Peter Robbins, published a repudiation in June 2017 alleging a fabricated photograph with John Lennon, an altered medical card whose eye-injury notation he attributes to an orthopaedic surgeon, mismatched signatures, and testimonial letters that were never sent; the publisher suspended the book in October 2017, saying some experiences in it may be inaccurate or embellished."
+  },
+  {
+   "cite": [
+    "c-aaa53a7b22",
+    "c-875d4e6420",
+    "e-3c29956f3c"
+   ],
+   "text": "Robbins concedes that Warren's January 1981 letter to his mother is authentic, and the paperwork he examined came from Warren himself, so what is disputed is Warren's presence at the events and the documents he produced for it, not his assignment to the base."
+  },
+  {
+   "cite": [
+    "c-131ae0a6b2",
+    "c-42f8b94df7",
+    "e-ccfa2376a6"
+   ],
+   "text": "Halt is reported as saying Warren was not there, but this reaches the board only through search summaries and a video title, not a document by Halt, and is carried at Tier 3."
+  },
+  {
+   "cite": [
+    "c-2a308907d7"
+   ],
+   "text": "Stone's claim fails on his own act: according to Klass, in 1983 Stone filed a FOIA request to the USAF about the same incident from his home address without saying he was an Army sergeant, and the incident was not reported to higher officials until about two weeks after Stone says his team arrived."
+  },
+  {
+   "cite": [
+    "c-04c85b2f9d",
+    "c-f7872eb603",
+    "c-273e0bd001"
+   ],
+   "text": "The corroboration the Disclosure Project offers for Warren is internal to its own document: on the board's reading, two of the three named corroborators are witnesses in the same briefing, one of them Stone, and nothing opened places Warren at its 2001 press conference."
+  },
+  {
+   "cite": [
+    "c-676bd72aee"
+   ],
+   "text": "Robbins describes himself as no longer interested in researching the case, and the documents he describes were not opened by the board."
+  }
+ ],
+ "essays": [],
+ "focusEra": "1",
+ "id": "rendlesham-1980",
+ "kind": "incident",
+ "lead": {
+  "cite": [
+   "c-eefb703460",
+   "c-acd2a49f9c",
+   "c-243fc2ca5f",
+   "e-a59a07bb03",
+   "e-2febb4fdd5",
+   "e-a17e777efa"
+  ],
+  "text": "On nights between 26 and 28 December 1980, US Air Force personnel at RAF Woodbridge in Suffolk reported lights and an object in Rendlesham Forest; the deputy base commander, Lt Col Charles Halt, wrote it up in a memorandum describing a triangular metallic object and physical traces, and that memo remains the only contemporaneous US government document on the case."
+ },
+ "members": [
+  {
+   "cls": "event",
+   "id": "rendlesham-1980",
+   "label": "Rendlesham Forest Incident, RAF Woodbridge/Bentwaters",
+   "role": "subject"
+  },
+  {
+   "cls": "document",
+   "id": "halt-memo",
+   "label": "Halt Memorandum, 'Unexplained Lights', 13 January 1981",
+   "role": "document"
+  },
+  {
+   "cls": "person",
+   "id": "charles-halt",
+   "label": "Charles I. Halt",
+   "role": "witness"
+  },
+  {
+   "cls": "person",
+   "id": "jim-penniston",
+   "label": "James W. Penniston",
+   "role": "witness"
+  },
+  {
+   "cls": "person",
+   "id": "john-burroughs",
+   "label": "John Burroughs",
+   "role": "witness"
+  },
+  {
+   "cls": "person",
+   "id": "larry-warren",
+   "label": "Larry Warren",
+   "role": "claimant"
+  },
+  {
+   "cls": "person",
+   "id": "peter-robbins",
+   "label": "Peter Robbins",
+   "role": "critic"
+  },
+  {
+   "cls": "location",
+   "id": "l-raf-woodbridge",
+   "label": "RAF Woodbridge / RAF Bentwaters, Suffolk, England",
+   "role": "place"
+  },
+  {
+   "cls": "event",
+   "id": "ev-rendlesham-files",
+   "label": "Release of the Rendlesham Forest files, August 2009 (DEFE 24/1948)",
+   "role": "event"
+  },
+  {
+   "cls": "program",
+   "id": "tna-ufo-release",
+   "label": "The National Archives / MoD UFO File Release Programme (2008-2013)",
+   "role": "programme"
+  },
+  {
+   "cls": "institution",
+   "id": "sheffield-hallam",
+   "label": "Sheffield Hallam University",
+   "role": "institution"
+  },
+  {
+   "cls": "document",
+   "id": "aaro-historical-record-vol1",
+   "label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
+   "role": "document"
+  }
+ ],
+ "notes": "Split from Appendix T's uk: the incident has its own witnesses and documents, and a reader looks for it by name.",
+ "questions": [
+  "The MoD judged the events of no defence significance, and astronomers have attributed parts of the 26 December sighting to a fireball and the Orfordness lighthouse; Halt rejects both. Was any American witness ever interviewed by the MoD?",
+  "Is there any released document that supports Halt's later assertion that witnesses were drugged and hypnotically debriefed?",
+  "Does any record support Penniston's binary-code account, which surfaced about two decades after the incident?",
+  "Is there a document written or signed by Halt on whether Warren was present, and what do Warren's own service record and duty roster show?",
+  "What do the medical card, in-processing sheet and letters Robbins describes actually show, and what did the sceptic Ian Ridpath find?",
+  "On what basis did the VA grant Burroughs's claim, and where are his missing medical records?",
+  "Why does AARO's historical review leave out a case whose commander's memo the Pentagon itself released?"
+ ],
+ "record": [
+  {
+   "cite": [
+    "c-acd2a49f9c",
+    "c-0dd14c1676",
+    "c-8032806a9c",
+    "e-632e51494a",
+    "e-a17e777efa"
+   ],
+   "text": "Halt's memorandum of 13 January 1981, signed as Deputy Base Commander, describes an object metallic in appearance and triangular, about two to three metres across the base and two metres high, that lit the whole forest with a white light, and states that numerous individuals, including Halt himself, witnessed the activities it describes."
+  },
+  {
+   "cite": [
+    "c-243fc2ca5f",
+    "c-9cdec16550"
+   ],
+   "text": "The memo records that on the day after the first sighting three depressions 1.5 inches deep and 7 inches across were found where the object had been seen on the ground, with beta/gamma readings of 0.1 milliroentgens peaking in the depressions and at the centre of the triangle they formed."
+  },
+  {
+   "cite": [
+    "c-35dcb7286a"
+   ],
+   "text": "The Pentagon's FOIA office released the memo under case 97-F-1677 in September 1997, after earlier releases to other researchers."
+  },
+  {
+   "cite": [
+    "c-b17a99b1c9",
+    "c-2b878782e5",
+    "e-d14806602a"
+   ],
+   "text": "The National Archives billed its August 2009 tranche, covering 1981 to 1996, as containing Britain's very own Roswell, Rendlesham Forest; the tranche's files include DEFE 24/1948."
+  },
+  {
+   "cite": [
+    "e-53d8efbf33"
+   ],
+   "text": "The archive's catalogue records the papers of the earlier 2001 release under the heading of persistent correspondence from Dr David Clarke, the Sheffield Hallam academic who later served as spokesperson for the transfer of the MoD UFO files."
+  },
+  {
+   "cite": [
+    "c-da713bf9da",
+    "e-c5b666ce91"
+   ],
+   "text": "AARO's 2024 historical record report, Volume I, does not mention Rendlesham."
+  },
+  {
+   "cite": [
+    "c-a3b77d59e9",
+    "c-4aaf9034a6"
+   ],
+   "text": "Warren's testimony is printed in the Disclosure Project's 2001 briefing document, dated September 2000, where he says he was assigned to the 81st Tactical Fighter Wing at Bentwaters and that his PRP clearance was approved on 11 December 1980; the board carries this as the dated fact of the testimony only."
+  }
+ ],
+ "related": [
+  "uk",
+  "nuclear-witnesses",
+  "disclosure-project-2001",
+  "testimony-provenance",
+  "aaro-historical-record",
+  "sceptics"
+ ],
+ "section": "other-nations",
+ "span": {
+  "from": "1980",
+  "to": "2023"
+ },
+ "status": "verified",
+ "summary": [
+  {
+   "cite": [
+    "c-eefb703460",
+    "e-b3eb8c7b08"
+   ],
+   "text": "The events happened just outside RAF Woodbridge, which with Bentwaters was operated by the USAF's 81st Tactical Fighter Wing under NATO arrangements, and were reported up the chain by Halt."
+  },
+  {
+   "cite": [
+    "e-2febb4fdd5",
+    "e-17bb4393bb",
+    "e-a17e777efa"
+   ],
+   "text": "The security police first responders on 26 December were James Penniston and John Burroughs; Halt led a forest patrol himself on 28 December. Their accounts differ in detail, which the board reads as a mark of independence."
+  },
+  {
+   "cite": [
+    "e-3c29956f3c",
+    "e-0bb36c2a9b"
+   ],
+   "text": "Later claimants added to the case, notably Larry Warren, whose book with Peter Robbins was repudiated by Robbins and withdrawn by its publisher in 2017."
+  },
+  {
+   "cite": [
+    "e-d14806602a",
+    "c-b17a99b1c9",
+    "e-53d8efbf33"
+   ],
+   "text": "The British side of the record reached the public through the National Archives' release of MoD UFO files, the August 2009 tranche carrying the Rendlesham material, after an earlier release in 2001 pressed by the academic David Clarke."
+  }
+ ],
+ "title": "Rendlesham Forest, December 1980"
+}

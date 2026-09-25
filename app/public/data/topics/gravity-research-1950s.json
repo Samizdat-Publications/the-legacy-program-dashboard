@@ -1,0 +1,1616 @@
+{
+ "absorbs": [],
+ "anchors": [
+  "talbert-gravity-series-1955",
+  "institute-of-field-physics",
+  "thomas-townsend-brown",
+  "louis-witten",
+  "joseph-weber",
+  "peter-bergmann",
+  "rias-inc",
+  "george-trimble"
+ ],
+ "appendixT": "gravity-research-1950s",
+ "cites": {
+  "c-013d4e4b86": {
+   "id": "c-013d4e4b86",
+   "kind": "claim",
+   "node": "institute-of-field-physics",
+   "nodeLabel": "Institute of Field Physics (UNC Chapel Hill)",
+   "source": {
+    "domain": "physics.unc.edu",
+    "text": "History of the Institute of Field Physics (1955-1959), Section II, https://physics.unc.edu/department-history/section-ii/",
+    "url": "https://physics.unc.edu/department-history/section-ii/"
+   },
+   "text": "Air Force money and Air Force logistics reached it through a named laboratory: Joshua Goldberg, 'in charge of aspects of the Air Force's funding of general relativity, in the \"modern physics research branch\" (based at the Aeronautical Research Laboratory at Wright Patterson Air Force Base)', gave a $5,000 grant and secured Military Air Transport Service flights for conference participants from eleven nations.",
+   "tier": 1
+  },
+  "c-024dd7f9f8": {
+   "id": "c-024dd7f9f8",
+   "kind": "claim",
+   "node": "talbert-gravity-series-1955",
+   "nodeLabel": "Ansel E. Talbert, three-part gravity series, New York Herald Tribune, 20-22 November 1955",
+   "source": {
+    "domain": "archive.org",
+    "text": "Ansel E. Talbert, 'New Air Dream, Planes Flying Outside Gravity', New York Herald Tribune, 22 November 1955, p. 1. Page image at https://archive.org/download/talbert3ny/talbert3ny_djvu.txt",
+    "url": "https://archive.org/download/talbert3ny/talbert3ny_djvu.txt"
+   },
+   "text": "Lawrence D. Bell, founder and president of Bell Aircraft Corp. of Buffalo, is quoted directly: 'Aviation as we know it is on the threshold of amazing new concepts', and 'Our next step will be to prove that we can operate outside the earth's atmosphere and the third will be to operate outside the gravity of the earth.'",
+   "tier": 1
+  },
+  "c-0f25d56469": {
+   "id": "c-0f25d56469",
+   "kind": "claim",
+   "node": "george-trimble",
+   "nodeLabel": "George S. Trimble",
+   "source": {
+    "domain": null,
+    "text": "Dean Rickles, 'The Chapel Hill Conference in Context'",
+    "url": null
+   },
+   "text": "Trimble described the body he proposed as an 'industrial version of the Institute for Advanced Study'. The Glenn L. Martin Company's institute was 'industry-sponsored, and not ensconced in a university', while the Institute of Field Physics was deliberately placed inside the University of North Carolina 'so as to avoid the conflict that physicists felt working in an industrial setting.'",
+   "tier": 2
+  },
+  "c-19d4c497db": {
+   "id": "c-19d4c497db",
+   "kind": "claim",
+   "node": "thomas-townsend-brown",
+   "nodeLabel": "Thomas Townsend Brown",
+   "source": {
+    "domain": "documents2.theblackvault.com",
+    "text": "Defense Intelligence Reference Document DIA-08-1003-018, 'Antigravity for Aerospace Applications', 30 March 2010, ICOD 1 December 2009, 'Acquisition Threat Support', 45 pages as released, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_19-DIRD_Antigravity_for_Aerospace_Applications.pdf , opened 2026-09-19",
+    "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_19-DIRD_Antigravity_for_Aerospace_Applications.pdf"
+   },
+   "text": "THE ABSENCE IN THE GOVERNMENT'S OWN ANTIGRAVITY SURVEY. DIA-08-1003-018, 'Antigravity for Aerospace Applications', 30 March 2010, 45 pages as released, attributed on the DIA list of 9 January 2018 to Dr Eric Davis of EarthTech International, does not mention Thomas Townsend Brown. Word counts over the whole released PDF: Biefeld 0, electrogravitics 0, Podkletnov 0. 'Brown' occurs three times and all three are reference-list surnames of other authors: L. S. Brown and Maclay in Physical Review 184 (1969), H. R. Brown as co-editor of 'The Philosophy of Vacuum', and J. H. Brownell on Casimir photons. THIS IS A FACT ABOUT THE DOCUMENT. IT IS NOT EVIDENCE THAT DIA CONSIDERED AND REJECTED BROWN, because the document shows no sign of having considered him at all.",
+   "tier": 1
+  },
+  "c-1a687f4dcd": {
+   "id": "c-1a687f4dcd",
+   "kind": "claim",
+   "node": "thomas-townsend-brown",
+   "nodeLabel": "Thomas Townsend Brown",
+   "source": {
+    "domain": "patentimages.storage.googleapis.com",
+    "text": "US Patent 2,949,550, 'Electrokinetic Apparatus', complete 6-page text, https://patentimages.storage.googleapis.com/20/38/0f/252396dd3aadcb/US2949550.pdf , opened 2026-09-19",
+    "url": "https://patentimages.storage.googleapis.com/20/38/0f/252396dd3aadcb/US2949550.pdf"
+   },
+   "text": "US 2,949,550 bibliographic facts as printed on the patent: '2,949,550 / Patented Aug. 16, 1960 / ELECTROKINETIC APPARATUS / Thomas Townsend Brown, Umatilla, Fla., assignor to Whitehall-Rand, Inc., Washington, D.C., a corporation of Delaware / Filed July 3, 1957, Ser. No. 669,830 / 12 Claims. (Cl. 310-5)'. A PATENT IS TIER 1 FOR WHAT IT CLAIMS AND NEVER FOR WHETHER THE THING WORKS: what it claims is 'Thrust producing apparatus' operating by impressing high voltage between an electroconductive body and an insulated electrode 'whereby to cause relative movement of an ionizable dielectric medium surrounding said electrodes'.",
+   "tier": 1
+  },
+  "c-217aaba3b6": {
+   "id": "c-217aaba3b6",
+   "kind": "claim",
+   "node": "thomas-townsend-brown",
+   "nodeLabel": "Thomas Townsend Brown",
+   "source": {
+    "domain": null,
+    "text": "FBI file on Thomas Townsend Brown, FOI/PA# 1496195-000, LEADS section",
+    "url": null
+   },
+   "text": "The same FBI referral instructs a review 'at the Patent Office' of 'patents No. 1,974,483 (U. S. Electrostatic motor) and No. 2,207,576' to determine what Brown had patented that was pertinent to the inquiry.",
+   "tier": 1
+  },
+  "c-2376ac8099": {
+   "id": "c-2376ac8099",
+   "kind": "claim",
+   "node": "peter-bergmann",
+   "nodeLabel": "Peter G. Bergmann",
+   "source": {
+    "domain": "edition-open-sources.org",
+    "text": "Foreword by Cecile M. DeWitt, Chapel Hill, 15 March 1957, printed with the report's title page. https://edition-open-sources.org/sources/5/5/index.html",
+    "url": "https://edition-open-sources.org/sources/5/5/index.html"
+   },
+   "text": "Bergmann sat on the conference steering committee with F. J. Belinfante, Bryce S. DeWitt, Cecile M. DeWitt, Freeman J. Dyson and John A. Wheeler, and the Foreword's abstract records that 'A conference summary statement is presented by Professor P. G. Bergmann.'",
+   "tier": 1
+  },
+  "c-2e74cc123c": {
+   "id": "c-2e74cc123c",
+   "kind": "claim",
+   "node": "thomas-townsend-brown",
+   "nodeLabel": "Thomas Townsend Brown",
+   "source": {
+    "domain": "ntrs.nasa.gov",
+    "text": "NASA/TM-2004-213082, Marc G. Millis, 'Prospects for Breakthrough Propulsion from Physics', NASA Glenn Research Center, 19 pages, https://ntrs.nasa.gov/api/citations/20040070788/downloads/20040070788.pdf , opened 2026-09-19",
+    "url": "https://ntrs.nasa.gov/api/citations/20040070788/downloads/20040070788.pdf"
+   },
+   "text": "THE MODERN COUNTER-EXPLANATION IS NASA'S OWN AND IT NAMES THE EFFECT. NASA/TM-2004-213082, section 3.2.7, by the manager of NASA's Breakthrough Propulsion Physics Project: 'To date, all rigorous experimental tests indicate that the observed thrust is attributable to ion wind... These \"Biefeld-Brown,\" \"Lifter\" and \"Asymmetrical Capacitor Thrusters\" are not viable candidates for breakthrough physics propulsion.' THIS IS A FINDING ABOUT THE EFFECT AND THE DEVICES AND NOT ABOUT WHAT BROWN'S PATENTS CLAIM, since the patents never claimed anti-gravity in the first place.",
+   "tier": 1
+  },
+  "c-2f8dab4fee": {
+   "id": "c-2f8dab4fee",
+   "kind": "claim",
+   "node": "rias-inc",
+   "nodeLabel": "RIAS, Inc. (Research Institute for Advanced Studies)",
+   "source": {
+    "domain": null,
+    "text": "Dean Rickles, 'The Chapel Hill Conference in Context'",
+    "url": null
+   },
+   "text": "Louis Witten 'was the first researcher hired by RIAS, of the Glenn Martin Company.' The institute was 'industry-sponsored, and not ensconced in a university', in deliberate contrast with the Institute of Field Physics placed inside the University of North Carolina.",
+   "tier": 2
+  },
+  "c-363ecab128": {
+   "id": "c-363ecab128",
+   "kind": "claim",
+   "node": "canning-nasa-cr-2004-213312",
+   "nodeLabel": "NASA/CR-2004-213312, 'Asymmetrical Capacitors for Propulsion' (2004)",
+   "source": {
+    "domain": "ntrs.nasa.gov",
+    "text": "NASA/CR-2004-213312, Francis X. Canning, Cory Melcher and Edwin Winet, 'Asymmetrical Capacitors for Propulsion', Institute for Scientific Research Inc, Fairmont, West Virginia, October 2004, 23 pages, https://ntrs.nasa.gov/api/citations/20040171929/downloads/20040171929.pdf , opened 2026-09-19",
+    "url": "https://ntrs.nasa.gov/api/citations/20040171929/downloads/20040171929.pdf"
+   },
+   "text": "THE VACUUM RESULT, which is what answers the question US 3,187,206 raises in its own text about behaviour in a vacuum. The report quotes Robert Talley's Air Force-contract measurement directly: 'Talley wrote, \"Direct experimental results show that under high vacuum conditions... no detectable propulsive force was electrostatically induced by applying a static potential difference... between test device electrodes...\" Talley concluded (page 91 of his report), \"If such a force still exists and lies below the threshold of measurements in this program, then the force may be too small to be attractive for many, if not most, space propulsion applications.\"' The report adds of Talley's work: 'His report is the only written report we have found from the last half-century that describes a measurement of a force while in a vacuum chamber.' THE TALLEY REPORT ITSELF WAS NOT OPENED BY THIS SESSION.",
+   "tier": 1
+  },
+  "c-36517f6c5d": {
+   "id": "c-36517f6c5d",
+   "kind": "claim",
+   "node": "george-trimble",
+   "nodeLabel": "George S. Trimble",
+   "source": {
+    "domain": "archive.org",
+    "text": "Ansel E. Talbert, New York Herald Tribune, 20 November 1955 caption and continuation p. 36 and 22 November 1955 continuation p. 10, page images at https://archive.org/download/talbert1ny/talbert1ny_djvu.txt and https://archive.org/download/talbert3ny/talbert3ny_djvu.txt",
+    "url": "https://archive.org/download/talbert1ny/talbert1ny_djvu.txt"
+   },
+   "text": "In November 1955 he was a vice-president of Martin, not its chief executive, and the atom-bomb comparison he made was about time and not about money. Ansel Talbert's Herald Tribune series identifies him as 'vice-president in charge of advanced design planning of Martin Aircraft Corp.' and as 'organizing a new Research Institute for Advanced Study', and quotes him: 'I think we could do the job in about the time that it actually required to build the first atom bomb if enough trained scientific brain-power simultaneously began thinking about and working towards a solution.'",
+   "tier": 1
+  },
+  "c-37a6c7469d": {
+   "id": "c-37a6c7469d",
+   "kind": "claim",
+   "node": "louis-witten",
+   "nodeLabel": "Louis Witten",
+   "source": {
+    "domain": null,
+    "text": "The Role of Gravitation in Physics: Report from the 1957 Chapel Hill Conference, eds. Rickles and DeWitt, participants list",
+    "url": null
+   },
+   "text": "The participants list of the January 1957 Chapel Hill conference on the role of gravitation in physics prints 'Witten, L. | RIAS, Inc., Baltimore', directly above 'Bass, R.W. | RIAS , Inc., Baltimore'. Witten's contribution, with R. W. Bass, is 'Some Remarks on Cosmological Models'.",
+   "tier": 1
+  },
+  "c-3be18f726d": {
+   "id": "c-3be18f726d",
+   "kind": "claim",
+   "node": "thomas-townsend-brown",
+   "nodeLabel": "Thomas Townsend Brown",
+   "source": {
+    "domain": "mgln.ai",
+    "text": "American Alchemy with Jesse Michels, 'The CIA Scientist Who Cracked Antigravity (Townsend Brown Documentary)', 5 October 2024, 0:22:15 https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/TOE4979487868.mp3?updated=1751926015",
+    "url": "https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/TOE4979487868.mp3?updated=1751926015"
+   },
+   "text": "On American Alchemy with Jesse Michels, 5 October 2024, the narration of the Townsend Brown documentary said that when Tom Valone of the Integrity Research Institute tried to locate a copy of a 1952 Naval Research Laboratory appraisal of Brown's experiments titled 'The TT Brown Electrogravity Device', the laboratory no longer had it (0:22:15).",
+   "tier": 2
+  },
+  "c-45517674e4": {
+   "id": "c-45517674e4",
+   "kind": "claim",
+   "node": "thomas-townsend-brown",
+   "nodeLabel": "Thomas Townsend Brown",
+   "source": {
+    "domain": null,
+    "text": "American Alchemy with Jesse Michels, 'Navy Fighter Pilots Witness UFO Mid Flight (Ft. Ryan Graves)', 6 December 2024, 0:29:08, and 'CIA Contractor: Obama Received An Alien Prophecy (ft. Bob McGwire)', 14 December 2024, 0:52:55",
+    "url": null
+   },
+   "text": "Two speakers on separate episodes tell the same Rickover anecdote. On 6 December 2024 at 0:29:08 Michels, citing the writer Paul LaViolette, said Brown went to Hyman Rickover and Rickover told him to stop wasting his time. On 14 December 2024 at 0:52:55 Bob McGwire gave the same story with Rickover answering 'don't waste your time. We're already on it.' Neither speaker cites a document.",
+   "tier": 2
+  },
+  "c-456ea9f160": {
+   "id": "c-456ea9f160",
+   "kind": "claim",
+   "node": "thomas-townsend-brown",
+   "nodeLabel": "Thomas Townsend Brown",
+   "source": {
+    "domain": "patentimages.storage.googleapis.com",
+    "text": "US Patent 3,187,206, 'Electrokinetic Apparatus', complete 6-page text, https://patentimages.storage.googleapis.com/fd/fa/17/a3da8c41817315/US3187206.pdf , opened 2026-09-19",
+    "url": "https://patentimages.storage.googleapis.com/fd/fa/17/a3da8c41817315/US3187206.pdf"
+   },
+   "text": "THE ZERO-COUNT, TAKEN OVER BOTH COMPLETE PATENT TEXTS, because a count is checkable and an adjective is not. Across all six pages of US 2,949,550 and all six pages of US 3,187,206: gravity 0, anti-gravity 0, antigravity 0, levitation 0, scalar 0, electrogravitics 0, zero point 0. THE WORD 'GRAVITY' DOES NOT APPEAR IN EITHER PATENT, in either direction, not once. The board has recorded since 30 August 2026 that neither patent claims anti-gravity; this is that record verified against the printed documents rather than against a prior reading of them.",
+   "tier": 1
+  },
+  "c-46e5f91b71": {
+   "id": "c-46e5f91b71",
+   "kind": "claim",
+   "node": "thomas-townsend-brown",
+   "nodeLabel": "Thomas Townsend Brown",
+   "source": {
+    "domain": null,
+    "text": "Project Winterhaven, full-text search of the 66-page proposal",
+    "url": null
+   },
+   "text": "The words 'saucer', 'interceptor', 'Mach' and 'Air Force' do not appear anywhere in the 66-page Project Winterhaven proposal. The description of Winterhaven as proposing a saucer designated a USAF interceptor originates in the 1956 Aviation Studies (International) report, not in the proposal.",
+   "tier": 1
+  },
+  "c-4c1a4ef804": {
+   "id": "c-4c1a4ef804",
+   "kind": "claim",
+   "node": "thomas-townsend-brown",
+   "nodeLabel": "Thomas Townsend Brown",
+   "source": {
+    "domain": null,
+    "text": "Project Winterhaven, biographical sketch -- a self-description",
+    "url": null
+   },
+   "text": "Brown's own biographical sketch bound into Project Winterhaven gives his birth as Zanesville, Ohio, 18 March 1905, and lists Naval Research Laboratory 1930-33, the International Gravity Expedition to the West Indies 1932, Bureau of Ships acoustic and magnetic minesweeping 1940-41, Materials and Processes Engineer at Glenn L. Martin, and radar consultant at Lockheed. Only the Lockheed item is corroborated by a second document, the assignment line of US 2,417,347.",
+   "tier": 2
+  },
+  "c-4f6923e17c": {
+   "id": "c-4f6923e17c",
+   "kind": "claim",
+   "node": "institute-of-field-physics",
+   "nodeLabel": "Institute of Field Physics (UNC Chapel Hill)",
+   "source": {
+    "domain": "physics.unc.edu",
+    "text": "History of the Institute of Field Physics (1955-1959), Section II, https://physics.unc.edu/department-history/section-ii/",
+    "url": "https://physics.unc.edu/department-history/section-ii/"
+   },
+   "text": "Every piece of the Institute's publicity was to carry a disclaimer, written into its design by John Wheeler. The 'Protection Clause' reads in part: 'The work in field physics and gravitation theory carried on at the University of North Carolina at Chapel Hill, and financed by the Institute of Field Physics, as fundraising agency, has no connection with so-called \"anti-gravity research\" of whatever kind and for whatever purposes.'",
+   "tier": 1
+  },
+  "c-4f7e30bf65": {
+   "id": "c-4f7e30bf65",
+   "kind": "claim",
+   "node": "george-trimble",
+   "nodeLabel": "George S. Trimble",
+   "source": {
+    "domain": "physics.unc.edu",
+    "text": "History of the Institute of Field Physics (1955-1959), UNC Physics and Astronomy department history https://physics.unc.edu/home/department-history/section-ii/",
+    "url": "https://physics.unc.edu/home/department-history/section-ii/"
+   },
+   "text": "The UNC Physics and Astronomy department history names the Air Force route into the Institute of Field Physics as the Aeronautical Research Laboratory at Wright-Patterson Air Force Base, not the Wright Air Development Center: 'Joshua Goldberg was, at the time of the establishment of the IOFP and the conference, in charge of aspects of the Air Force's funding of general relativity, in the \"modern physics research branch\" (based at the Aeronautical Research Laboratory at Wright Patterson Air Force Base).' The page uses neither 'Wright Air Development Center' nor 'WADC'.",
+   "tier": 1
+  },
+  "c-52f57f85fb": {
+   "id": "c-52f57f85fb",
+   "kind": "claim",
+   "node": "canning-nasa-cr-2004-213312",
+   "nodeLabel": "NASA/CR-2004-213312, 'Asymmetrical Capacitors for Propulsion' (2004)",
+   "source": {
+    "domain": "arxiv.org",
+    "text": "Thomas B. Bahder and Chris Fazi, 'Force on an Asymmetric Capacitor', arXiv preprint of the Army Research Laboratory report, submitted 31 October 2002, revised 12 March 2003, https://arxiv.org/abs/physics/0211001 , opened 2026-09-19; report number and NTIS order number as printed in reference 8 of NASA/CR-2004-213312",
+    "url": "https://arxiv.org/abs/physics/0211001"
+   },
+   "text": "THE DISSENT, RECORDED SO THE BOARD DOES NOT OVERSTATE THE RECORD. The Army Research Laboratory's own study of the same effect, by Thomas B. Bahder and Chris Fazi, concluded from its calculations that 'ionic wind is at least three orders of magnitude too small to explain the magnitude of the observed force on the capacitor'. That rejects BALLISTIC ionic wind and prefers ionic drift, which is the mechanism NASA then modelled, so the two findings are not in flat contradiction and NEITHER INVOKES NEW PHYSICS. Tier 2 because the published report, ARL-TR-3005 / NTIS ADA416740, was NOT opened: apps.dtic.mil returned HTTP 403 and what was read was the authors' arXiv preprint.",
+   "tier": 2
+  },
+  "c-5740a4e4f7": {
+   "id": "c-5740a4e4f7",
+   "kind": "claim",
+   "node": "joseph-weber",
+   "nodeLabel": "Joseph Weber",
+   "source": {
+    "domain": null,
+    "text": "Danny Jones Podcast, ep. 318, 28 July 2025, 1:02:34, mapped at research/leads/dannyjones-corpus-19.md",
+    "url": null
+   },
+   "text": "On the Danny Jones Podcast, episode 318, 28 July 2025, at 1:02:34, Jeremy Rys named Weber among the attendees of the 1957 Chapel Hill conference and credited his Weber bars as foundational to LIGO. The conference report confirms his presence at Chapel Hill in January 1957 and his affiliation as University of Maryland, and carries nothing else the transcript attributes to him.",
+   "tier": 2
+  },
+  "c-57b84ca027": {
+   "id": "c-57b84ca027",
+   "kind": "claim",
+   "node": "institute-of-field-physics",
+   "nodeLabel": "Institute of Field Physics (UNC Chapel Hill)",
+   "source": {
+    "domain": "edition-open-sources.org",
+    "text": "The Role of Gravitation in Physics: Report from the 1957 Chapel Hill Conference, WADC Technical Report 57-216, title page, https://edition-open-sources.org/sources/5/5/index.html",
+    "url": "https://edition-open-sources.org/sources/5/5/index.html"
+   },
+   "text": "Two different acts are recorded for the Institute and a node should not collapse them. The conference report's title page states: 'This conference was an activity of the North Carolina Project of the Institute of Field Physics, established in 1956 in the Department of Physics of the University of North Carolina, Chapel Hill.' The certificate of incorporation this node carries is dated 7 September 1955; the establishment inside the department is dated 1956 by the conference's own paper.",
+   "tier": 1
+  },
+  "c-63c754e9b7": {
+   "id": "c-63c754e9b7",
+   "kind": "claim",
+   "node": "thomas-townsend-brown",
+   "nodeLabel": "Thomas Townsend Brown",
+   "source": {
+    "domain": null,
+    "text": "US Patent 1,974,483, front page, read off the USPTO image server",
+    "url": null
+   },
+   "text": "US Patent 1,974,483, 'ELECTROSTATIC MOTOR', names Thomas Townsend Brown of Zanesville, Ohio, filed 7 February 1930 (Ser. No. 426,738) and issued 25 September 1934.",
+   "tier": 1
+  },
+  "c-6565f681f1": {
+   "id": "c-6565f681f1",
+   "kind": "claim",
+   "node": "rias-inc",
+   "nodeLabel": "RIAS, Inc. (Research Institute for Advanced Studies)",
+   "source": {
+    "domain": null,
+    "text": "Trimble to Bryce DeWitt, 10 June 1955, quoted by Dean Rickles in the Edition Open Sources edition of the 1957 conference report",
+    "url": null
+   },
+   "text": "RIAS was proposed by George S. Trimble of the Glenn L. Martin Company as an 'industrial version of the Institute for Advanced Study', explicitly to study gravity, in a letter to Bryce DeWitt dated 10 June 1955.",
+   "tier": 2
+  },
+  "c-676595aa3a": {
+   "id": "c-676595aa3a",
+   "kind": "claim",
+   "node": "thomas-townsend-brown",
+   "nodeLabel": "Thomas Townsend Brown",
+   "source": {
+    "domain": null,
+    "text": "American Alchemy with Jesse Michels, 'Senate Staffer Thinks Tesla and Nazi Technology is Being Hidden (ft. Kirk McConnell)', published 2 April 2025, at 0:19:36",
+    "url": null
+   },
+   "text": "On American Alchemy with Jesse Michels, 2 April 2025, at 0:19:36, the retired Senate Armed Services Committee staffer Kirk McConnell said of his own field: 'my science friends in the UAP field, like Dr. Harold Puthoff and Eric Davis, I'm sure if they're watching this, they're very upset with me because I don't think they believe that Tesla, nor Thomas Townsend Brown or others like them' achieved what is claimed of them. This is a report of scepticism from inside the advocate circle rather than from an interested official source, and neither Puthoff nor Davis is quoted directly.",
+   "tier": 2
+  },
+  "c-6770406ef5": {
+   "id": "c-6770406ef5",
+   "kind": "claim",
+   "node": "talbert-gravity-series-1955",
+   "nodeLabel": "Ansel E. Talbert, three-part gravity series, New York Herald Tribune, 20-22 November 1955",
+   "source": {
+    "domain": null,
+    "text": "Danny Jones Podcast, ep. 248, 8 July 2024, 2:34:20 to 2:35:18, mapped at research/leads/dannyjones-corpus-12.md",
+    "url": null
+   },
+   "text": "On the Danny Jones Podcast, episode 248, 8 July 2024, at 2:34:20 to 2:35:18, Jason Reza Jorjani dated the Herald Tribune reporting to 1953, attributed it to Martin's chief executive, and said the executive claimed Manhattan-Project-scale funding could put such engines into production in a few years. The articles are dated November 1955, the speaker in them is a vice-president in charge of advanced design planning, and the comparison he draws is to the time the first atom bomb took rather than to its funding.",
+   "tier": 2
+  },
+  "c-6b934dcf5c": {
+   "id": "c-6b934dcf5c",
+   "kind": "claim",
+   "node": "george-trimble",
+   "nodeLabel": "George S. Trimble",
+   "source": {
+    "domain": null,
+    "text": "Trimble to Bryce DeWitt, 10 June 1955, quoted by Dean Rickles in the Edition Open Sources edition of the 1957 Chapel Hill conference report",
+    "url": null
+   },
+   "text": "In a letter to Bryce DeWitt dated 10 June 1955, Trimble wrote: 'It occurred to us some time ago that our industry was vitally concerned with gravity. As time goes on we become more and more concerned because we feel certain that sooner or later man will invade space and we see it as our job to do everything possible to speed this event. At least one category of the things one must study, when he desires to bring space flight to reality, is the laws of nature surrounding the force of gravity.'",
+   "tier": 2
+  },
+  "c-6dc5a38fcc": {
+   "id": "c-6dc5a38fcc",
+   "kind": "claim",
+   "node": "rias-inc",
+   "nodeLabel": "RIAS, Inc. (Research Institute for Advanced Studies)",
+   "source": {
+    "domain": null,
+    "text": "The Role of Gravitation in Physics: Report from the 1957 Chapel Hill Conference, participants list",
+    "url": null
+   },
+   "text": "The participants list of the January 1957 Chapel Hill conference prints 'Witten, L. | RIAS, Inc., Baltimore' and 'Bass, R.W. | RIAS , Inc., Baltimore', establishing RIAS as a corporate entity in Baltimore with staff at the conference.",
+   "tier": 1
+  },
+  "c-7586b21c6b": {
+   "id": "c-7586b21c6b",
+   "kind": "claim",
+   "node": "talbert-gravity-series-1955",
+   "nodeLabel": "Ansel E. Talbert, three-part gravity series, New York Herald Tribune, 20-22 November 1955",
+   "source": {
+    "domain": "archive.org",
+    "text": "All three articles read in full: https://archive.org/download/talbert1ny/talbert1ny_djvu.txt, https://archive.org/download/talbert2ny/talbert2ny_djvu.txt, https://archive.org/download/talbert3ny/talbert3ny_djvu.txt",
+    "url": "https://archive.org/download/talbert1ny/talbert1ny_djvu.txt,"
+   },
+   "text": "Thomas Townsend Brown is named in none of the three articles, and neither Winterhaven nor any Navy or Air Force electrogravitics contract appears in them.",
+   "tier": 1
+  },
+  "c-761c6386d7": {
+   "id": "c-761c6386d7",
+   "kind": "claim",
+   "node": "institute-of-field-physics",
+   "nodeLabel": "Institute of Field Physics (UNC Chapel Hill)",
+   "source": {
+    "domain": "edition-open-sources.org",
+    "text": "The Role of Gravitation in Physics: Report from the 1957 Chapel Hill Conference, eds. Dean Rickles and Cecile M. DeWitt, Edition Open Sources, Sources 5, 2011, https://edition-open-sources.org/sources/5/index.html",
+    "url": "https://edition-open-sources.org/sources/5/index.html"
+   },
+   "text": "The 1957 Chapel Hill conference was the Institute's inaugural event: 'In January 1957, a group of physicists from several countries met at the University of North Carolina to discuss the role of gravitation in physics ... The Chapel Hill conference also marked the establishment of the Institute of Field Physics, directed by Bryce and Cecile DeWitt. The conference was the inaugural conference of this institute.'",
+   "tier": 1
+  },
+  "c-7e0e84d3e1": {
+   "id": "c-7e0e84d3e1",
+   "kind": "claim",
+   "node": "louis-witten",
+   "nodeLabel": "Louis Witten",
+   "source": {
+    "domain": null,
+    "text": "Dean Rickles, 'The Chapel Hill Conference in Context', in the Edition Open Sources edition of the 1957 conference report",
+    "url": null
+   },
+   "text": "A named historian on the record states that 'Louis Witten (the father of Ed Witten, and participant in the Chapel Hill conference) was the first researcher hired by RIAS, of the Glenn Martin Company.'",
+   "tier": 2
+  },
+  "c-80e9762616": {
+   "id": "c-80e9762616",
+   "kind": "claim",
+   "node": "thomas-townsend-brown",
+   "nodeLabel": "Thomas Townsend Brown",
+   "source": {
+    "domain": "patentimages.storage.googleapis.com",
+    "text": "US Patent 2,949,550, 'Electrokinetic Apparatus', complete 6-page text, https://patentimages.storage.googleapis.com/20/38/0f/252396dd3aadcb/US2949550.pdf , opened 2026-09-19",
+    "url": "https://patentimages.storage.googleapis.com/20/38/0f/252396dd3aadcb/US2949550.pdf"
+   },
+   "text": "US 2,949,550 dates the disclosure five years earlier than the board previously recorded: 'This invention was disclosed and described in my application Serial No. 293,465, filed June 13, 1952, which application has become abandoned. However, reference may be made to this application for the purpose of completing the disclosure set forth below.'",
+   "tier": 1
+  },
+  "c-8557ab17bb": {
+   "id": "c-8557ab17bb",
+   "kind": "claim",
+   "node": "thomas-townsend-brown",
+   "nodeLabel": "Thomas Townsend Brown",
+   "source": {
+    "domain": null,
+    "text": "FBI file on Thomas Townsend Brown, FOI/PA# 1496195-000, Hoover memorandum of 6 December 1950",
+    "url": null
+   },
+   "text": "A memorandum of 6 December 1950 from J. Edgar Hoover to the Chief, Investigations Division, U.S. Civil Service Commission records Brown as an appointee to the Industrial Relations Department, Pearl Harbor Naval Shipyard, notes a 1943 Navy resignation 'accepted for the good of the service', and reports 'no information of disloyal nature.'",
+   "tier": 1
+  },
+  "c-859758a351": {
+   "id": "c-859758a351",
+   "kind": "claim",
+   "node": "louis-witten",
+   "nodeLabel": "Louis Witten",
+   "source": {
+    "domain": null,
+    "text": "The Role of Gravitation in Physics: Report from the 1957 Chapel Hill Conference, title page and editorial matter",
+    "url": null
+   },
+   "text": "The conference report's official designation is WADC Technical Report 57-216, and it exists because of a conference funding agreement with the Wright Air Development Center -- an Air Force body.",
+   "tier": 1
+  },
+  "c-8a65db74fd": {
+   "id": "c-8a65db74fd",
+   "kind": "claim",
+   "node": "thomas-townsend-brown",
+   "nodeLabel": "Thomas Townsend Brown",
+   "source": {
+    "domain": null,
+    "text": "FBI file on Thomas Townsend Brown, FOI/PA# 1496195-000, LEADS section, referring to the report of 25 March 1953, Cincinnati",
+    "url": null
+   },
+   "text": "Brown's FBI file directs the Washington Field Office that Brown 'is apparently in Washington attempting to obtain a research and development contract for his so-called Project Winterhaven', anticipates 'a contract of approximately a million dollars', and instructs the office to 'determine any possible violation of the [F]AG Statute in this matter' -- the Fraud Against the Government statute.",
+   "tier": 1
+  },
+  "c-8bda8ea947": {
+   "id": "c-8bda8ea947",
+   "kind": "claim",
+   "node": "millis-tm-2004-213082",
+   "nodeLabel": "NASA/TM-2004-213082, 'Prospects for Breakthrough Propulsion from Physics' (2004)",
+   "source": {
+    "domain": "ntrs.nasa.gov",
+    "text": "NASA/TM-2004-213082, Marc G. Millis, 'Prospects for Breakthrough Propulsion from Physics', NASA Glenn Research Center, 19 pages, https://ntrs.nasa.gov/api/citations/20040070788/downloads/20040070788.pdf , opened 2026-09-19",
+    "url": "https://ntrs.nasa.gov/api/citations/20040070788/downloads/20040070788.pdf"
+   },
+   "text": "THE BIEFELD-BROWN ADJUDICATION, section 3.2.7, verbatim and in full: 'In 1928 a device was patented for creating thrust using high-voltage capacitors. Since then, a wide variety of variants of this \"Biefeld-Brown\" effect, such as \"Lifters\" and \"Asymmetrical Capacitors\" have claimed that such devices operate on an \"electrostatic antigravity\" or \"electrogravitic\" effect. One of the most recent variants was patented by NASA-MSFC. To date, all rigorous experimental tests indicate that the observed thrust is attributable to ion wind. Vacuum tests currently underway, sponsored through an additional Congressional earmark to the West Virginia Institute for Scientific Research, also indicate that this effect is not indicative of new propulsion physics. These tests are now assessing the more conventional performance of such devices. These \"Biefeld-Brown,\" \"Lifter\" and \"Asymmetrical Capacitor Thrusters\" are not viable candidates for breakthrough physics propulsion.'",
+   "tier": 1
+  },
+  "c-8fdbdf4650": {
+   "id": "c-8fdbdf4650",
+   "kind": "claim",
+   "node": "institute-of-field-physics",
+   "nodeLabel": "Institute of Field Physics (UNC Chapel Hill)",
+   "source": {
+    "domain": "physics.unc.edu",
+    "text": "AREA52 - DEBRIEFED with Chris Ramsay, ep. 32, 4 April 2025; checked against History of the Institute of Field Physics (1955-1959), https://physics.unc.edu/department-history/section-ii/",
+    "url": "https://physics.unc.edu/department-history/section-ii/"
+   },
+   "text": "On AREA52 - DEBRIEFED with Chris Ramsay, episode 32, 4 April 2025, Jesse Michels placed a 1957 Thomas Townsend Brown demonstration at a laboratory the captions render as 'Bonsen Labs' and at 'the Institute of Field Physics'. The UNC department history of the Institute, read in full, contains no occurrence of Townsend Brown, of Bahnson Laboratories, or of Gordon Gray.",
+   "tier": 3
+  },
+  "c-94213abcc9": {
+   "id": "c-94213abcc9",
+   "kind": "claim",
+   "node": "institute-of-field-physics",
+   "nodeLabel": "Institute of Field Physics (UNC Chapel Hill)",
+   "source": {
+    "domain": "archive.org",
+    "text": "Ansel E. Talbert, New York Herald Tribune, 20 November 1955, continuation p. 36, https://archive.org/download/talbert1ny/talbert1ny_djvu.txt",
+    "url": "https://archive.org/download/talbert1ny/talbert1ny_djvu.txt"
+   },
+   "text": "The press knew the Institute under a different name at its founding. Talbert's Herald Tribune series of 20 November 1955 reports: 'A proposal to establish at the University of North Carolina at Chapel Hill, N. C., an Institute of Pure Physics primarily to carry on theoretical research on gravity was approved earlier this month by the university's board of trustees. This had the approval of Dr. Gordon Gray, who has since retired as president of the university.' It names Agnew H. Bahnson jr. as the fundraiser and says the directorship had been offered to Bryce S. DeWitt.",
+   "tier": 1
+  },
+  "c-9bf4a89ef7": {
+   "id": "c-9bf4a89ef7",
+   "kind": "claim",
+   "node": "thomas-townsend-brown",
+   "nodeLabel": "Thomas Townsend Brown",
+   "source": {
+    "domain": null,
+    "text": "US Patent 2,417,347, header page",
+    "url": null
+   },
+   "text": "US Patent 2,417,347, 'VIBRATION DAMPER', issued 11 March 1947, prints its inventor line as 'Thomas T. Brown, Laguna Beach, Calif., assignor by mesne assignments to Lockheed Aircraft Corporation'.",
+   "tier": 1
+  },
+  "c-a04a3ec2cc": {
+   "id": "c-a04a3ec2cc",
+   "kind": "claim",
+   "node": "peter-bergmann",
+   "nodeLabel": "Peter G. Bergmann",
+   "source": {
+    "domain": null,
+    "text": "Danny Jones Podcast, ep. 287, 24 February 2025, 2:38:20, mapped at research/leads/dannyjones-corpus-16.md",
+    "url": null
+   },
+   "text": "On the Danny Jones Podcast, episode 287, 24 February 2025, at 2:38:20, Jesse Michels named Bergmann among the attendees of the 1957 Chapel Hill conference, alongside John Wheeler and Freeman Dyson, and described the conference as convened by Agnew Bahnson through the Institute of Field Physics. The conference report confirms his attendance and his steering-committee role and carries nothing else the transcript attributes to him.",
+   "tier": 2
+  },
+  "c-a1c5213d38": {
+   "id": "c-a1c5213d38",
+   "kind": "claim",
+   "node": "canning-nasa-cr-2004-213312",
+   "nodeLabel": "NASA/CR-2004-213312, 'Asymmetrical Capacitors for Propulsion' (2004)",
+   "source": {
+    "domain": "ntrs.nasa.gov",
+    "text": "NASA/CR-2004-213312, Francis X. Canning, Cory Melcher and Edwin Winet, 'Asymmetrical Capacitors for Propulsion', Institute for Scientific Research Inc, Fairmont, West Virginia, October 2004, 23 pages, https://ntrs.nasa.gov/api/citations/20040171929/downloads/20040171929.pdf , opened 2026-09-19",
+    "url": "https://ntrs.nasa.gov/api/citations/20040171929/downloads/20040171929.pdf"
+   },
+   "text": "THE CONCLUSION, verbatim in the passage that matters: 'A simple model was developed of ions drifting from one electrode to the other under electrostatic forces, and imparting momentum to air as they underwent multiple collisions. This model was found to be consistent with all of our observations. It predicted the magnitude of the force (thrust) that was measured. It also predicted how the direction of the thrust changed when the location of the ground wire changed. Furthermore, it also predicted that the direction of the thrust was independent of the polarity of the applied voltage... In spite of decades of speculation about possible new physical principles being responsible for the thrust produced by ACTs and lifters, we find no evidence to support such a conclusion. On the contrary, we find that their operation is fully explained by a very simple theory that uses only electrostatic forces and the transfer of momentum by multiple collisions.'",
+   "tier": 1
+  },
+  "c-a45422e6db": {
+   "id": "c-a45422e6db",
+   "kind": "claim",
+   "node": "institute-of-field-physics",
+   "nodeLabel": "Institute of Field Physics (UNC Chapel Hill)",
+   "source": {
+    "domain": "physics.unc.edu",
+    "text": "History of the Institute of Field Physics (1955-1959), Section II, https://physics.unc.edu/department-history/section-ii/",
+    "url": "https://physics.unc.edu/department-history/section-ii/"
+   },
+   "text": "Martin money reached the Institute directly: Trimble and the Glenn Martin Company 'purchase[d] a \"Founder's Membership\" for the Institute of Field Physics, for the considerable sum of $5000, they also offered their support to solicit further funding'. The same source records that Louis Witten 'was the first researcher hired by RIAS, of the Glenn Martin Company', and identifies the Glenn L. Martin Company as 'now Lockheed-Martin'.",
+   "tier": 1
+  },
+  "c-a4f9d001f8": {
+   "id": "c-a4f9d001f8",
+   "kind": "claim",
+   "node": "thomas-townsend-brown",
+   "nodeLabel": "Thomas Townsend Brown",
+   "source": {
+    "domain": null,
+    "text": "Thomas Valone anthology reprinting the report; WorldCat title search returning no results",
+    "url": null
+   },
+   "text": "The 1956 report 'Electrogravitics Systems', attributed to the Gravity Research Group, Special Weapons Study Unit, Aviation Studies (International) Ltd., report GRG-013/56, survives only as a reprint. A WorldCat title search for 'electrogravitics' returns no results, and the compiler's own account is that the original was retrieved from the Wright-Patterson AFB technical library as an item not listed on its catalogue.",
+   "tier": 3
+  },
+  "c-a931f2dc0f": {
+   "id": "c-a931f2dc0f",
+   "kind": "claim",
+   "node": "peter-bergmann",
+   "nodeLabel": "Peter G. Bergmann",
+   "source": {
+    "domain": "edition-open-sources.org",
+    "text": "Participants in the Conference, The Role of Gravitation in Physics: Report from the 1957 Chapel Hill Conference, the Edition Open Sources reissue of WADC Technical Report 57-216, Max Planck Institute for the History of Science, 2011. https://edition-open-sources.org/sources/5/6/index.html",
+    "url": "https://edition-open-sources.org/sources/5/6/index.html"
+   },
+   "text": "The conference report's participants list prints 'Bergmann, P. G. | Syracuse University'.",
+   "tier": 1
+  },
+  "c-b9dae10855": {
+   "id": "c-b9dae10855",
+   "kind": "claim",
+   "node": "talbert-gravity-series-1955",
+   "nodeLabel": "Ansel E. Talbert, three-part gravity series, New York Herald Tribune, 20-22 November 1955",
+   "source": {
+    "domain": "archive.org",
+    "text": "Talbert, New York Herald Tribune, 20 November 1955, continuation p. 36. https://archive.org/download/talbert1ny/talbert1ny_djvu.txt",
+    "url": "https://archive.org/download/talbert1ny/talbert1ny_djvu.txt"
+   },
+   "text": "The series reports the Chapel Hill institute at its founding, under an earlier name: 'A proposal to establish at the University of North Carolina at Chapel Hill, N. C., an Institute of Pure Physics primarily to carry on theoretical research on gravity was approved earlier this month by the university's board of trustees. This had the approval of Dr. Gordon Gray, who has since retired as president of the university.' It names Agnew H. Bahnson jr. as the fundraiser and says the directorship had been offered to Bryce S. DeWitt.",
+   "tier": 1
+  },
+  "c-c10f8025c0": {
+   "id": "c-c10f8025c0",
+   "kind": "claim",
+   "node": "louis-witten",
+   "nodeLabel": "Louis Witten",
+   "source": {
+    "domain": "edition-open-sources.org",
+    "text": "The Role of Gravitation in Physics: Report from the 1957 Chapel Hill Conference, WADC Technical Report 57-216, title page and Foreword by Cecile M. DeWitt, 15 March 1957, https://edition-open-sources.org/sources/5/5/index.html",
+    "url": "https://edition-open-sources.org/sources/5/5/index.html"
+   },
+   "text": "The January 1957 Chapel Hill conference had one sponsor and four funders, and the Air Force was not the sponsor. The report's title page reads: 'UNDER THE SPONSORSHIP OF THE International Union of Pure and Applied Physics, with financial support from UNESCO / National Science Foundation / Wright Air Development Center, U.S. Air Force / Office of Ordnance Research, U.S. Army'. The Foreword gives the reason the report exists at all: 'The present report was undertaken as a necessary requirement to obtain conference funds.' WADC's imprint is on the cover because the report was the condition of the money, not because the Air Force convened the meeting.",
+   "tier": 1
+  },
+  "c-c5d1c6c08d": {
+   "id": "c-c5d1c6c08d",
+   "kind": "claim",
+   "node": "rias-inc",
+   "nodeLabel": "RIAS, Inc. (Research Institute for Advanced Studies)",
+   "source": {
+    "domain": null,
+    "text": "Dean Rickles, 'The Chapel Hill Conference in Context'; AIP catalog abstract for the Louis Witten oral history",
+    "url": null
+   },
+   "text": "Nothing read shows RIAS producing gravity-control results. The Chapel Hill participants recorded a concern about 'the absolute necessity to avoid identification with so-called anti-gravity research', and Witten's documented output is classical general relativity.",
+   "tier": 2
+  },
+  "c-c757ecee42": {
+   "id": "c-c757ecee42",
+   "kind": "claim",
+   "node": "dird-antigravity-for-aerospace-applications",
+   "nodeLabel": "Antigravity for Aerospace Applications",
+   "source": {
+    "domain": "documents2.theblackvault.com",
+    "text": "Defense Intelligence Reference Document DIA-08-1003-018, 'Antigravity for Aerospace Applications', 30 March 2010, ICOD 1 December 2009, 45 pages as released, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_19-DIRD_Antigravity_for_Aerospace_Applications.pdf , opened 2026-09-19",
+    "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_19-DIRD_Antigravity_for_Aerospace_Applications.pdf"
+   },
+   "text": "THE ZERO-COUNTS, taken over the whole released 45-page PDF on 19 September 2026: Biefeld 0, electrogravitics 0, ion wind 0, Podkletnov 0, and THOMAS TOWNSEND BROWN ABSENT. The three occurrences of 'Brown' are other authors' surnames in the reference list. Alcubierre occurs once, as reference [43], the 1994 Classical and Quantum Gravity citation, and that is its only appearance in this document. A count is checkable and an adjective is not, which is why the node carries numbers.",
+   "tier": 1
+  },
+  "c-c7ff61258f": {
+   "id": "c-c7ff61258f",
+   "kind": "claim",
+   "node": "louis-witten",
+   "nodeLabel": "Louis Witten",
+   "source": {
+    "domain": null,
+    "text": "Dean Rickles, 'The Chapel Hill Conference in Context'; and the American Institute of Physics catalog abstract for the Louis Witten oral history",
+    "url": null
+   },
+   "text": "The conference participants recorded a concern about 'the absolute necessity to avoid identification with so-called anti-gravity research'. Witten's documented output is classical general relativity, including exact electrovacuum solutions to the Einstein field equation; nothing read shows RIAS producing gravity-control results.",
+   "tier": 2
+  },
+  "c-c80a1b8025": {
+   "id": "c-c80a1b8025",
+   "kind": "claim",
+   "node": "thomas-townsend-brown",
+   "nodeLabel": "Thomas Townsend Brown",
+   "source": {
+    "domain": "archive.org",
+    "text": "FBI file on Thomas Townsend Brown, FOI/PA# 1496195-000, full-text search https://archive.org/download/tt-brown/E65ffaeec360d48a08a97fb70305b58f18aac8f13_Q104175_R432679_D2722930_20231226_132723_djvu.txt",
+    "url": "https://archive.org/download/tt-brown/E65ffaeec360d48a08a97fb70305b58f18aac8f13_Q104175_R432679_D2722930_20231226_132723_djvu.txt"
+   },
+   "text": "The released FBI file on Brown, FOI/PA# 1496195-000, contains no statement that Brown knew more about radar detection than any individual in the US Navy. Its only two references to radar are a Los Angeles Times article of 4 July 1948 reporting that 'During World War II he headed the U. S. Navy's Atlantic Fleet Radar School', and an informant's account that 'BROWN claims to have been a lieutenant commander in the Navy during the war, one of his principal jobs being the administration of the Atlantic Fleet Radar School.' Three American Alchemy episodes attribute the radar superlative to a 1942 or 1943 FBI file; it is not in the file this board cites.",
+   "tier": 1
+  },
+  "c-cf8879449c": {
+   "id": "c-cf8879449c",
+   "kind": "claim",
+   "node": "thomas-townsend-brown",
+   "nodeLabel": "Thomas Townsend Brown",
+   "source": {
+    "domain": "mgln.ai",
+    "text": "American Alchemy with Jesse Michels, 'Did Oppenheimer Work on UFOs?', 19 October 2024, 0:27:32, https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/TOE7249545573.mp3?updated=1751915004",
+    "url": "https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/TOE7249545573.mp3?updated=1751915004"
+   },
+   "text": "On American Alchemy with Jesse Michels, 19 October 2024, Michels said at 0:27:32 that the British aerospace journalist Bill Gunston, writing in Air International magazine in 2000, stated he was very sure Brown's work made it into the B-2 stealth bomber, and that Gunston added he had no wish to reside in the Tower of London. This is the named, dated source for the B-2 attribution the board otherwise carries without an author.",
+   "tier": 2
+  },
+  "c-d4960768c6": {
+   "id": "c-d4960768c6",
+   "kind": "claim",
+   "node": "thomas-townsend-brown",
+   "nodeLabel": "Thomas Townsend Brown",
+   "source": {
+    "domain": "patentimages.storage.googleapis.com",
+    "text": "US Patent 3,187,206, 'Electrokinetic Apparatus', complete 6-page text, https://patentimages.storage.googleapis.com/fd/fa/17/a3da8c41817315/US3187206.pdf , opened 2026-09-19",
+    "url": "https://patentimages.storage.googleapis.com/fd/fa/17/a3da8c41817315/US3187206.pdf"
+   },
+   "text": "NEITHER PATENT WAS FILED BY OR FOR A GOVERNMENT. US 2,949,550 was assigned to Whitehall-Rand, Inc. of Washington D.C., a Delaware corporation; US 3,187,206 to Electrokinetics, Inc., a Pennsylvania corporation, by mesne assignments. Both are private corporations, and neither patent carries a government interest statement. On the sponsorship test the board applies to the Pais filings, Brown sits with the private inventors and not with the Navy; he is board material for other reasons, including his FBI file, and not because a government filed his patents.",
+   "tier": 1
+  },
+  "c-d765134dd5": {
+   "id": "c-d765134dd5",
+   "kind": "claim",
+   "node": "thomas-townsend-brown",
+   "nodeLabel": "Thomas Townsend Brown",
+   "source": {
+    "domain": null,
+    "text": "US Patent 1,974,483, specification",
+    "url": null
+   },
+   "text": "The 1934 patent claims 'a method of producing force or motion by applying and maintaining high potential electro-static charges in a system of chargeable masses and associated electrodes', and describes the motor as useful in observatory recording instruments. It does not claim gravity control.",
+   "tier": 1
+  },
+  "c-daf1756b42": {
+   "id": "c-daf1756b42",
+   "kind": "claim",
+   "node": "institute-of-field-physics",
+   "nodeLabel": "Institute of Field Physics (UNC Chapel Hill)",
+   "source": {
+    "domain": "edition-open-sources.org",
+    "text": "The Role of Gravitation in Physics: Report from the 1957 Chapel Hill Conference, WADC Technical Report 57-216, title page and Foreword by Cecile M. DeWitt, 15 March 1957, https://edition-open-sources.org/sources/5/5/index.html",
+    "url": "https://edition-open-sources.org/sources/5/5/index.html"
+   },
+   "text": "The January 1957 Chapel Hill conference had one sponsor and four funders, and the Air Force was not the sponsor. The report's title page reads: 'UNDER THE SPONSORSHIP OF THE International Union of Pure and Applied Physics, with financial support from UNESCO / National Science Foundation / Wright Air Development Center, U.S. Air Force / Office of Ordnance Research, U.S. Army'. The Foreword gives the reason the report exists at all: 'The present report was undertaken as a necessary requirement to obtain conference funds.' WADC's imprint is on the cover because the report was the condition of the money, not because the Air Force convened the meeting.",
+   "tier": 1
+  },
+  "c-e14bef6097": {
+   "id": "c-e14bef6097",
+   "kind": "claim",
+   "node": "thomas-townsend-brown",
+   "nodeLabel": "Thomas Townsend Brown",
+   "source": {
+    "domain": null,
+    "text": "US Patent 3,187,206, specification",
+    "url": null
+   },
+   "text": "US Patent 3,187,206, 'ELECTROKINETIC APPARATUS', filed 9 May 1958 and issued 1 June 1965, opens 'This invention relates to an electrical device for producing thrust by the direct operation of electrical fields' and states that in a dielectric fluid medium 'the forces of reaction appear to be present in that medium', and in vacuum 'on the solid environmental bodies, such as the walls of the vacuum chamber'.",
+   "tier": 1
+  },
+  "c-e5d9777a75": {
+   "id": "c-e5d9777a75",
+   "kind": "claim",
+   "node": "talbert-gravity-series-1955",
+   "nodeLabel": "Ansel E. Talbert, three-part gravity series, New York Herald Tribune, 20-22 November 1955",
+   "source": {
+    "domain": "archive.org",
+    "text": "Ansel E. Talbert, 'Conquest of Gravity Aim Of Top Scientists in U. S.', New York Herald Tribune, 20 November 1955, p. 1 and continuation p. 36. Page image at https://archive.org/download/talbert1ny/talbert1ny_djvu.txt",
+    "url": "https://archive.org/download/talbert1ny/talbert1ny_djvu.txt"
+   },
+   "text": "The series lists the firms: 'Aircraft industry firms now participating or actively interested in gravity include the Glenn L. Martin Co. of Baltimore ... Convair of San Diego ... Bell Aircraft of Buffalo ... and Sikorsky Division of United Aircraft', and adds 'Lear, Inc., of Santa Monica ... Clarke Electronics, of Palm Springs, Calif., and the Sperry Gyroscope Division of Sperry-Rand Corp., of Great Neck, L. I.'",
+   "tier": 1
+  },
+  "c-e635597430": {
+   "id": "c-e635597430",
+   "kind": "claim",
+   "node": "talbert-gravity-series-1955",
+   "nodeLabel": "Ansel E. Talbert, three-part gravity series, New York Herald Tribune, 20-22 November 1955",
+   "source": {
+    "domain": "archive.org",
+    "text": "Talbert, New York Herald Tribune, 20 November 1955 (caption and continuation p. 36) and 22 November 1955 (continuation p. 10). https://archive.org/download/talbert1ny/talbert1ny_djvu.txt and https://archive.org/download/talbert3ny/talbert3ny_djvu.txt",
+    "url": "https://archive.org/download/talbert1ny/talbert1ny_djvu.txt"
+   },
+   "text": "George S. Trimble jr. is identified as 'vice-president in charge of advanced design planning of Martin Aircraft Corp.' and as 'organizing a new Research Institute for Advanced Study', and is quoted: 'I think we could do the job in about the time that it actually required to build the first atom bomb if enough trained scientific brain-power simultaneously began thinking about and working towards a solution.'",
+   "tier": 1
+  },
+  "c-e88dc8ecf0": {
+   "id": "c-e88dc8ecf0",
+   "kind": "claim",
+   "node": "thomas-townsend-brown",
+   "nodeLabel": "Thomas Townsend Brown",
+   "source": {
+    "domain": "patentimages.storage.googleapis.com",
+    "text": "US Patent 3,187,206, 'Electrokinetic Apparatus', complete 6-page text, https://patentimages.storage.googleapis.com/fd/fa/17/a3da8c41817315/US3187206.pdf , opened 2026-09-19",
+    "url": "https://patentimages.storage.googleapis.com/fd/fa/17/a3da8c41817315/US3187206.pdf"
+   },
+   "text": "US 3,187,206 bibliographic facts as printed on the patent: '3,187,206 / Patented June 1, 1965 / ELECTROKINETIC APPARATUS / Thomas Townsend Brown, Walkertown, N.C., assignor, by mesne assignments, to Electrokinetics, Inc., a corporation of Pennsylvania / Filed May 9, 1958, Ser. No. 734,342 / 23 Claims. (Cl. 310-5)'. What it claims, in its opening sentence: 'This invention relates to an electrical device for producing thrust by the direct operation of electrical fields.'",
+   "tier": 1
+  },
+  "c-eb94409edc": {
+   "id": "c-eb94409edc",
+   "kind": "claim",
+   "node": "canning-nasa-cr-2004-213312",
+   "nodeLabel": "NASA/CR-2004-213312, 'Asymmetrical Capacitors for Propulsion' (2004)",
+   "source": {
+    "domain": "ntrs.nasa.gov",
+    "text": "NASA/CR-2004-213312, Francis X. Canning, Cory Melcher and Edwin Winet, 'Asymmetrical Capacitors for Propulsion', Institute for Scientific Research Inc, Fairmont, West Virginia, October 2004, 23 pages, https://ntrs.nasa.gov/api/citations/20040171929/downloads/20040171929.pdf , opened 2026-09-19",
+    "url": "https://ntrs.nasa.gov/api/citations/20040171929/downloads/20040171929.pdf"
+   },
+   "text": "The report's own reference list opens with the three Brown documents by number: '1 Brown, T.T., US Patent 2,949,550, \"Electrokinetic Apparatus,\" 1960. 2 Brown, T.T., US Patent 3,187,206, \"Electrokinetic Apparatus,\" 1965. 3 Brown, T.T., GB Patent 300,311, \"A Method of and an Apparatus or Machine for Producing Force or Motion,\" 1928.' NASA cites exactly the three Brown documents this board carries and concludes that what they describe is ions pushing on air.",
+   "tier": 1
+  },
+  "c-ed996a48a1": {
+   "id": "c-ed996a48a1",
+   "kind": "claim",
+   "node": "thomas-townsend-brown",
+   "nodeLabel": "Thomas Townsend Brown",
+   "source": {
+    "domain": null,
+    "text": "FBI file on Thomas Townsend Brown, FOI/PA# 1496195-000, informant statement",
+    "url": null
+   },
+   "text": "A named former president of Lake States Securities Corporation told the FBI that Brown's 'flying saucers' apparatus 'was identical to the old stock market predicting machine except that it operated in the atmosphere rather than in an oil bath and it was much larger', and that he was 'confident this flying saucer thing is a phony'.",
+   "tier": 1
+  },
+  "c-f277e64747": {
+   "id": "c-f277e64747",
+   "kind": "claim",
+   "node": "institute-of-field-physics",
+   "nodeLabel": "Institute of Field Physics (UNC Chapel Hill)",
+   "source": {
+    "domain": "physics.unc.edu",
+    "text": "History of the Institute of Field Physics (1955-1959), Dean Rickles, UNC Chapel Hill Department of Physics and Astronomy department history, Section II, https://physics.unc.edu/department-history/section-ii/",
+    "url": "https://physics.unc.edu/department-history/section-ii/"
+   },
+   "text": "The Institute was incorporated and sited deliberately inside a university: 'The IOFP received its certificate of incorporation on September 7, 1955.' 'The plan of the IOFP was to house an institute within an academic institution, so as to avoid the conflict that physicists felt working in an industrial setting. The chosen location was the physics department at the University of North Carolina, Chapel Hill.'",
+   "tier": 1
+  },
+  "c-f2d8158954": {
+   "id": "c-f2d8158954",
+   "kind": "claim",
+   "node": "louis-witten",
+   "nodeLabel": "Louis Witten",
+   "source": {
+    "domain": "mgln.ai",
+    "text": "American Alchemy with Jesse Michels, 'NASA Doctor: I Saw A UFO Hovering In THIS Secret Hangar (Ft. Greg Rogers)', 31 August 2025, 2:07:12, https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL2173204669.mp3?updated=1757589247",
+    "url": "https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL2173204669.mp3?updated=1757589247"
+   },
+   "text": "On American Alchemy with Jesse Michels, 31 August 2025, at 2:07:12 and 2:08:06, Michels said that at the time of the Avro car project Wright Field also had 'a dedicated theoretical physics group' headed by a man the caption renders as 'Josh Goldberg', and that Agnew Bahnson, who ran the University of North Carolina's Institute of Field Physics with Bryce DeWitt, recorded in diaries found years later that he had been told to get in touch with Townsend Brown because he wanted to build a spaceship. Neither Goldberg nor Bahnson appears anywhere in the board's research files, the caption spells Bahnson 'Bonson', and no diary, archive or document is named on air.",
+   "tier": 2
+  },
+  "c-f49cade67f": {
+   "id": "c-f49cade67f",
+   "kind": "claim",
+   "node": "george-trimble",
+   "nodeLabel": "George S. Trimble",
+   "source": {
+    "domain": null,
+    "text": "Trimble to Bryce DeWitt, 10 June 1955, quoted by Dean Rickles",
+    "url": null
+   },
+   "text": "The same letter opens by recording a conversation with George Rideout, president of Roger Babson's Gravity Research Foundation, 'commiserating on the unfortunate state of the affairs that knowledgable folks do not wish to get mixed up in the field of gravity research.' Rickles adds that Trimble bemoans that most of those working on gravitation are 'madmen and quacks'.",
+   "tier": 2
+  },
+  "c-f4e5e7cab3": {
+   "id": "c-f4e5e7cab3",
+   "kind": "claim",
+   "node": "joseph-weber",
+   "nodeLabel": "Joseph Weber",
+   "source": {
+    "domain": "edition-open-sources.org",
+    "text": "Participants in the Conference, The Role of Gravitation in Physics: Report from the 1957 Chapel Hill Conference, the Edition Open Sources reissue of WADC Technical Report 57-216, 2011. https://edition-open-sources.org/sources/5/6/index.html",
+    "url": "https://edition-open-sources.org/sources/5/6/index.html"
+   },
+   "text": "The conference report's participants list prints 'Weber, J. | University of Maryland'.",
+   "tier": 1
+  },
+  "c-f8edd1703a": {
+   "id": "c-f8edd1703a",
+   "kind": "claim",
+   "node": "thomas-townsend-brown",
+   "nodeLabel": "Thomas Townsend Brown",
+   "source": {
+    "domain": "archive.org",
+    "text": "FBI file on Thomas Townsend Brown, FOI/PA# 1496195-000, investigative summary https://archive.org/download/tt-brown/E65ffaeec360d48a08a97fb70305b58f18aac8f13_Q104175_R432679_D2722930_20231226_132723_djvu.txt",
+    "url": "https://archive.org/download/tt-brown/E65ffaeec360d48a08a97fb70305b58f18aac8f13_Q104175_R432679_D2722930_20231226_132723_djvu.txt"
+   },
+   "text": "The same file summarises the 1942 Navy separation as follows: 'The current investigation has developed much information on BROWN, including that he was dismissed from the U. S. Navy Reserve in 1942 \"for the good of the Service and to escape general court martial\".'",
+   "tier": 1
+  },
+  "e-16faf59c72": {
+   "endpoints": [
+    {
+     "id": "talbert-gravity-series-1955",
+     "label": "Ansel E. Talbert, three-part gravity series, New York Herald Tribune, 20-22 November 1955"
+    },
+    {
+     "id": "sperry-rand",
+     "label": "Sperry Rand Corporation"
+    }
+   ],
+   "id": "e-16faf59c72",
+   "kind": "edge",
+   "label": "Names the Sperry Gyroscope Division of Sperry-Rand among the firms on the gravity problem",
+   "sources": [
+    {
+     "date": null,
+     "name": "https://archive.org/download/talbert1ny/talbert1ny_djvu.txt",
+     "url": "https://archive.org/download/talbert1ny/talbert1ny_djvu.txt"
+    }
+   ],
+   "text": "The series names the Sperry Gyroscope Division of Sperry-Rand Corp. among the firms with scientists investigating the gravity problem, which is a documented attachment for a node the 30 August pass left deliberately unattached.",
+   "tier": 1,
+   "type": "research"
+  },
+  "e-397aa273bc": {
+   "endpoints": [
+    {
+     "id": "joseph-weber",
+     "label": "Joseph Weber"
+    },
+    {
+     "id": "institute-of-field-physics",
+     "label": "Institute of Field Physics (UNC Chapel Hill)"
+    }
+   ],
+   "id": "e-397aa273bc",
+   "kind": "edge",
+   "label": "Participant at the Institute's inaugural conference, January 1957",
+   "sources": [
+    {
+     "date": null,
+     "name": "https://edition-open-sources.org/sources/5/6/index.html",
+     "url": "https://edition-open-sources.org/sources/5/6/index.html"
+    }
+   ],
+   "text": "He attended the Institute of Field Physics' inaugural conference at Chapel Hill in January 1957.",
+   "tier": 1,
+   "type": "research"
+  },
+  "e-5c454ec158": {
+   "endpoints": [
+    {
+     "id": "peter-bergmann",
+     "label": "Peter G. Bergmann"
+    },
+    {
+     "id": "institute-of-field-physics",
+     "label": "Institute of Field Physics (UNC Chapel Hill)"
+    }
+   ],
+   "id": "e-5c454ec158",
+   "kind": "edge",
+   "label": "Steering committee of the Institute's inaugural conference, January 1957",
+   "sources": [
+    {
+     "date": null,
+     "name": "https://edition-open-sources.org/sources/5/5/index.html",
+     "url": "https://edition-open-sources.org/sources/5/5/index.html"
+    }
+   ],
+   "text": "The conference was, in the report's own words, an activity of the North Carolina Project of the Institute of Field Physics, and Bergmann sat on its steering committee.",
+   "tier": 1,
+   "type": "research"
+  },
+  "e-5e2f5ae8fc": {
+   "endpoints": [
+    {
+     "id": "institute-of-field-physics",
+     "label": "Institute of Field Physics (UNC Chapel Hill)"
+    },
+    {
+     "id": "rias-inc",
+     "label": "RIAS, Inc. (Research Institute for Advanced Studies)"
+    }
+   ],
+   "id": "e-5e2f5ae8fc",
+   "kind": "edge",
+   "label": "The academic counterpart to the Martin company's own institute, deliberately kept separate",
+   "sources": [
+    {
+     "date": "2026-09-02",
+     "name": "History of the Institute of Field Physics (1955-1959), Section II",
+     "url": "https://physics.unc.edu/department-history/section-ii/"
+    }
+   ],
+   "text": "The same source describes the Martin company standing up what 'would become RIAS' at the same moment, and says the Institute of Field Physics was placed inside a university 'so as to avoid the conflict that physicists felt working in an industrial setting'.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-6a9fe39af6": {
+   "endpoints": [
+    {
+     "id": "talbert-gravity-series-1955",
+     "label": "Ansel E. Talbert, three-part gravity series, New York Herald Tribune, 20-22 November 1955"
+    },
+    {
+     "id": "george-trimble",
+     "label": "George S. Trimble"
+    }
+   ],
+   "id": "e-6a9fe39af6",
+   "kind": "edge",
+   "label": "Quoted by name as Martin's vice-president in charge of advanced design planning",
+   "sources": [
+    {
+     "date": null,
+     "name": "https://archive.org/download/talbert1ny/talbert1ny_djvu.txt",
+     "url": "https://archive.org/download/talbert1ny/talbert1ny_djvu.txt"
+    }
+   ],
+   "text": "The series quotes Trimble by name as Martin's vice-president for advanced design planning and reports him organizing the Research Institute for Advanced Study.",
+   "tier": 1,
+   "type": "research"
+  },
+  "e-790a739625": {
+   "endpoints": [
+    {
+     "id": "talbert-gravity-series-1955",
+     "label": "Ansel E. Talbert, three-part gravity series, New York Herald Tribune, 20-22 November 1955"
+    },
+    {
+     "id": "general-dynamics",
+     "label": "General Dynamics Corporation"
+    }
+   ],
+   "id": "e-790a739625",
+   "kind": "edge",
+   "label": "Names Convair of San Diego, then a division of this node, among the firms interested in gravity",
+   "sources": [
+    {
+     "date": null,
+     "name": "https://archive.org/download/talbert1ny/talbert1ny_djvu.txt",
+     "url": "https://archive.org/download/talbert1ny/talbert1ny_djvu.txt"
+    }
+   ],
+   "text": "The series names Convair of San Diego among the aircraft industry firms participating or actively interested in gravity, and photographs a Convair division senior research engineer conducting a gravity-control experiment. Tier 2 because the articles name Convair and not General Dynamics, and the identification of the two in November 1955 is not something the document states.",
+   "tier": 2,
+   "type": "research"
+  },
+  "e-85c028b1f6": {
+   "endpoints": [
+    {
+     "id": "talbert-gravity-series-1955",
+     "label": "Ansel E. Talbert, three-part gravity series, New York Herald Tribune, 20-22 November 1955"
+    },
+    {
+     "id": "rias-inc",
+     "label": "RIAS, Inc. (Research Institute for Advanced Studies)"
+    }
+   ],
+   "id": "e-85c028b1f6",
+   "kind": "edge",
+   "label": "Reports Martin building a new laboratory for the Research Institute for Advanced Study",
+   "sources": [
+    {
+     "date": null,
+     "name": "https://archive.org/download/talbert1ny/talbert1ny_djvu.txt",
+     "url": "https://archive.org/download/talbert1ny/talbert1ny_djvu.txt"
+    }
+   ],
+   "text": "The series reports Martin building a new laboratory for the Research Institute for Advanced Study between Washington and Baltimore in November 1955.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-918a4ea656": {
+   "endpoints": [
+    {
+     "id": "canning-nasa-cr-2004-213312",
+     "label": "NASA/CR-2004-213312, 'Asymmetrical Capacitors for Propulsion' (2004)"
+    },
+    {
+     "id": "thomas-townsend-brown",
+     "label": "Thomas Townsend Brown"
+    }
+   ],
+   "id": "e-918a4ea656",
+   "kind": "edge",
+   "label": "Cites both Brown patents and GB 300,311 by number, and models the thrust as ion drift",
+   "sources": [
+    {
+     "date": "2004-10",
+     "name": "NASA/CR-2004-213312, Canning, Melcher and Winet, 'Asymmetrical Capacitors for Propulsion', 23 pages",
+     "url": "https://ntrs.nasa.gov/api/citations/20040171929/downloads/20040171929.pdf"
+    }
+   ],
+   "text": "THE JOIN IS DOCUMENTARY AND NOT TOPICAL. The report's reference list opens with 'Brown, T.T., US Patent 2,949,550', 'Brown, T.T., US Patent 3,187,206' and 'Brown, T.T., GB Patent 300,311', which are exactly the three Brown documents this board already carries. Its conclusion is that the operation of such devices 'is fully explained by a very simple theory that uses only electrostatic forces and the transfer of momentum by multiple collisions'.",
+   "tier": 1,
+   "type": "research"
+  },
+  "e-9c01aefec0": {
+   "endpoints": [
+    {
+     "id": "talbert-gravity-series-1955",
+     "label": "Ansel E. Talbert, three-part gravity series, New York Herald Tribune, 20-22 November 1955"
+    },
+    {
+     "id": "gordon-gray",
+     "label": "Gordon Gray"
+    }
+   ],
+   "id": "e-9c01aefec0",
+   "kind": "edge",
+   "label": "Records the UNC gravity institute approved with Gray's approval, he having by then retired as president",
+   "sources": [
+    {
+     "date": null,
+     "name": "https://archive.org/download/talbert1ny/talbert1ny_djvu.txt",
+     "url": "https://archive.org/download/talbert1ny/talbert1ny_djvu.txt"
+    }
+   ],
+   "text": "The series records that the UNC gravity institute was approved with Gray's approval and that he had by then retired as president of the university.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-a3349f8440": {
+   "endpoints": [
+    {
+     "id": "thomas-townsend-brown",
+     "label": "Thomas Townsend Brown"
+    },
+    {
+     "id": "lockheed-martin",
+     "label": "Lockheed Martin Corporation"
+    }
+   ],
+   "id": "e-a3349f8440",
+   "kind": "edge",
+   "label": "US 2,417,347 assigned by mesne assignments to Lockheed Aircraft Corporation",
+   "sources": [
+    {
+     "date": "1947-03-11",
+     "name": "US Patent 2,417,347, Vibration Damper, assignment line",
+     "url": "https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/2417347"
+    }
+   ],
+   "text": "The patent's own inventor line reads 'Thomas T. Brown, Laguna Beach, Calif., assignor by mesne assignments to Lockheed Aircraft Corporation'. This is the one item in Brown's self-authored biography that a second document corroborates.",
+   "tier": 1,
+   "type": "research"
+  },
+  "e-a37eca98c8": {
+   "endpoints": [
+    {
+     "id": "rias-inc",
+     "label": "RIAS, Inc. (Research Institute for Advanced Studies)"
+    },
+    {
+     "id": "george-trimble",
+     "label": "George S. Trimble"
+    }
+   ],
+   "id": "e-a37eca98c8",
+   "kind": "edge",
+   "label": "Trimble proposed RIAS as an industrial institute for advanced study",
+   "sources": [
+    {
+     "date": "2011-01-01",
+     "name": "Dean Rickles, 'The Chapel Hill Conference in Context'",
+     "url": "https://edition-open-sources.org/sources/5/3/index.html"
+    }
+   ],
+   "text": "Trimble to Bryce DeWitt, 10 June 1955, quoted by a named historian in a peer-published edition. The letter itself was not opened; the quotation is the historian's.",
+   "tier": 2,
+   "type": "institutional"
+  },
+  "e-b06204b20b": {
+   "endpoints": [
+    {
+     "id": "institute-of-field-physics",
+     "label": "Institute of Field Physics (UNC Chapel Hill)"
+    },
+    {
+     "id": "george-trimble",
+     "label": "George S. Trimble"
+    }
+   ],
+   "id": "e-b06204b20b",
+   "kind": "edge",
+   "label": "Trimble and the Glenn L. Martin Company bought a Founder's Membership for $5,000",
+   "sources": [
+    {
+     "date": "2026-09-02",
+     "name": "History of the Institute of Field Physics (1955-1959), Section II",
+     "url": "https://physics.unc.edu/department-history/section-ii/"
+    }
+   ],
+   "text": "The department history records that Trimble and the Glenn Martin Company purchased a Founder's Membership for the Institute for $5,000 and offered their support to solicit further funding.",
+   "tier": 1,
+   "type": "funding"
+  },
+  "e-be1ea94e26": {
+   "endpoints": [
+    {
+     "id": "mark-mccandlish",
+     "label": "Mark McCandlish"
+    },
+    {
+     "id": "thomas-townsend-brown",
+     "label": "Thomas Townsend Brown"
+    }
+   ],
+   "id": "e-be1ea94e26",
+   "kind": "edge",
+   "label": "Attributes the claimed lift effect to a Brown patent of the late 1950s or early 1960s",
+   "sources": [
+    {
+     "date": "2001-04",
+     "name": "Disclosure Project Briefing Document, section 3.8.5",
+     "url": "https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt"
+    }
+   ],
+   "text": "THE EDGE MUST NOT BE READ AS ANTI-GRAVITY. The board's own record is that NEITHER Brown patent claims anti-gravity: US 3,187,206, filed 9 May 1958, and US 2,949,550, filed 3 July 1957, both claim thrust by electrical fields in a dielectric medium. It is the ACCOUNT that reinterprets electrokinetic thrust as levitation. His testimony describes a plate capacitor floated at about a million volts 'in accordance with principles that had been described in a patent that was filed back in the late 1950s/early 1960s by a gentleman called Thomas Townsend Brown'.",
+   "tier": 2,
+   "type": "research"
+  },
+  "e-c5ab5baeae": {
+   "endpoints": [
+    {
+     "id": "talbert-gravity-series-1955",
+     "label": "Ansel E. Talbert, three-part gravity series, New York Herald Tribune, 20-22 November 1955"
+    },
+    {
+     "id": "institute-of-field-physics",
+     "label": "Institute of Field Physics (UNC Chapel Hill)"
+    }
+   ],
+   "id": "e-c5ab5baeae",
+   "kind": "edge",
+   "label": "Reports the UNC trustees approving the institute in November 1955 under the name Institute of Pure Physics",
+   "sources": [
+    {
+     "date": null,
+     "name": "https://archive.org/download/talbert1ny/talbert1ny_djvu.txt",
+     "url": "https://archive.org/download/talbert1ny/talbert1ny_djvu.txt"
+    }
+   ],
+   "text": "The series reports the UNC trustees approving the institute in November 1955 under the name Institute of Pure Physics, names Bahnson as fundraiser and records the directorship offered to Bryce S. DeWitt.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-ef94fc0337": {
+   "endpoints": [
+    {
+     "id": "rias-inc",
+     "label": "RIAS, Inc. (Research Institute for Advanced Studies)"
+    },
+    {
+     "id": "louis-witten",
+     "label": "Louis Witten"
+    }
+   ],
+   "id": "e-ef94fc0337",
+   "kind": "edge",
+   "label": "Witten represented RIAS at the 1957 Chapel Hill gravitation conference",
+   "sources": [
+    {
+     "date": "1957-01-18",
+     "name": "The Role of Gravitation in Physics: Report from the 1957 Chapel Hill Conference, participants list",
+     "url": "https://edition-open-sources.org/sources/5/6/index.html"
+    }
+   ],
+   "text": "The participants list prints 'Witten, L. | RIAS, Inc., Baltimore'. His contribution, with R. W. Bass, was 'Some Remarks on Cosmological Models'.",
+   "tier": 1,
+   "type": "institutional"
+  }
+ },
+ "claimed": [
+  {
+   "cite": [
+    "c-6b934dcf5c",
+    "c-f49cade67f",
+    "e-a37eca98c8"
+   ],
+   "text": "Trimble's letter to Bryce DeWitt of 10 June 1955, which the board has not opened and which is quoted by the historian Dean Rickles, says his industry was vitally concerned with gravity as part of bringing space flight to reality, and records him commiserating with the Gravity Research Foundation's president that knowledgeable people did not want to be mixed up in gravity research."
+  },
+  {
+   "cite": [
+    "c-0f25d56469",
+    "c-6565f681f1",
+    "c-7e0e84d3e1",
+    "c-2f8dab4fee"
+   ],
+   "text": "On Rickles's account, Trimble proposed RIAS as an industrial version of the Institute for Advanced Study, and Louis Witten was the first researcher RIAS hired."
+  },
+  {
+   "cite": [
+    "c-4c1a4ef804"
+   ],
+   "text": "Brown's own biographical sketch in the Winterhaven proposal lists posts at the Naval Research Laboratory, a 1932 gravity expedition, Navy minesweeping work, Glenn L. Martin and Lockheed; it is a self-description, and only the Lockheed item is corroborated by a second document."
+  },
+  {
+   "cite": [
+    "c-cf8879449c",
+    "c-45517674e4",
+    "c-3be18f726d"
+   ],
+   "text": "Podcast retellings have carried Brown's story further than the documents: Jesse Michels cited the journalist Bill Gunston as sure Brown's work reached the B-2, two speakers told an uncited Rickover anecdote with endings of opposite meaning, and a documentary narration said the Naval Research Laboratory no longer had a 1952 appraisal of Brown's device."
+  },
+  {
+   "cite": [
+    "c-f2d8158954",
+    "c-8fdbdf4650"
+   ],
+   "text": "Michels said on air that Agnew Bahnson's diaries recorded being told to contact Brown to build a spaceship, and placed a 1957 Brown demonstration at the Institute of Field Physics. No diary or archive was named, and the UNC history of the Institute does not mention Brown."
+  },
+  {
+   "cite": [
+    "c-5740a4e4f7",
+    "c-a04a3ec2cc"
+   ],
+   "text": "How some of these scientists reached the board: podcast guests named Weber and Bergmann as Chapel Hill attendees, and the conference report confirms their presence and roles and nothing else attributed to them."
+  },
+  {
+   "cite": [
+    "e-be1ea94e26"
+   ],
+   "text": "Mark McCandlish's account of a claimed craft attributes its lift effect to a Brown patent of the late 1950s or early 1960s; the board's record is that neither candidate patent claims anti-gravity."
+  },
+  {
+   "cite": [
+    "c-a4f9d001f8"
+   ],
+   "text": "The 1956 report Electrogravitics Systems, attributed to Aviation Studies (International), survives only as a reprint; the board infers from a catalogue search and the compiler's account that no original is catalogued."
+  }
+ ],
+ "contested": [
+  {
+   "cite": [
+    "c-4f6923e17c",
+    "c-c7ff61258f",
+    "c-c5d1c6c08d"
+   ],
+   "text": "The Institute defined itself against anti-gravity: a Protection Clause written into its design by John Wheeler was to accompany its publicity, stating its work had no connection with anti-gravity research of any kind, and the conference participants recorded the necessity of avoiding identification with it. Nothing read shows RIAS producing gravity-control results, and Witten's documented output is classical general relativity."
+  },
+  {
+   "cite": [
+    "c-a1c5213d38",
+    "c-eb94409edc",
+    "e-918a4ea656",
+    "c-8bda8ea947",
+    "c-2e74cc123c",
+    "c-52f57f85fb"
+   ],
+   "text": "NASA's contractor report on asymmetrical capacitor thrusters, which cites Brown's patents by number, found their operation fully explained by electrostatic forces and momentum transfer to air, and NASA's breakthrough propulsion survey concluded that Biefeld-Brown devices are not viable candidates for breakthrough propulsion. An Army Research Laboratory study disagreed on the size of the ion-wind contribution but also invoked no new physics."
+  },
+  {
+   "cite": [
+    "c-363ecab128"
+   ],
+   "text": "The NASA report quotes an Air Force-contract measurement by Robert Talley that found no detectable propulsive force from such devices under high vacuum."
+  },
+  {
+   "cite": [
+    "c-ed996a48a1",
+    "c-c80a1b8025"
+   ],
+   "text": "An informant told the FBI that Brown's flying-saucer apparatus was identical to an old stock-market predicting machine and that he was confident it was a phony. Three American Alchemy episodes attribute to Brown's FBI file a statement about his radar expertise that is not in the file."
+  },
+  {
+   "cite": [
+    "c-7586b21c6b",
+    "c-6770406ef5"
+   ],
+   "text": "Later tellings misstate the press record: the Talbert series names neither Brown nor any Navy or Air Force electrogravitics contract, and a podcast guest dated it to 1953, attributed it to Martin's chief executive and turned a comparison about time into one about funding."
+  },
+  {
+   "cite": [
+    "c-676595aa3a",
+    "c-19d4c497db",
+    "c-c757ecee42"
+   ],
+   "text": "Doubt about Brown comes from inside the advocate circle too: Kirk McConnell said he did not think Harold Puthoff and Eric Davis believe Brown achieved what is claimed of him; neither man is quoted. DIA's own 2010 antigravity reference document, attributed to Davis, does not mention Brown at all."
+  },
+  {
+   "cite": [
+    "c-f8edd1703a",
+    "c-8557ab17bb"
+   ],
+   "text": "Brown's FBI file disagrees with itself on how he left the Navy: its 1953 summary says he was dismissed from the Navy Reserve in 1942 \"to escape general court martial\", while Hoover's 1950 memorandum records a 1943 resignation \"accepted for the good of the service\" and no information of a disloyal nature."
+  }
+ ],
+ "essays": [],
+ "focusEra": "0",
+ "id": "gravity-research-1950s",
+ "kind": "programme",
+ "lead": {
+  "cite": [
+   "c-e5d9777a75",
+   "c-e635597430",
+   "c-b9dae10855",
+   "c-761c6386d7",
+   "c-c10f8025c0",
+   "c-4f6923e17c",
+   "c-456ea9f160"
+  ],
+  "text": "In November 1955 a New York Herald Tribune series reported American aerospace firms taking an interest in gravity and reported two institutes being organised: the Glenn L. Martin Company's Research Institute for Advanced Study and a gravity institute at Chapel Hill, whose January 1957 conference an Air Force body helped fund. The documents show mainstream general relativity kept deliberately apart from anti-gravity, and Thomas Townsend Brown's patents claim electrostatic thrust, not gravity control."
+ },
+ "members": [
+  {
+   "cls": "document",
+   "id": "talbert-gravity-series-1955",
+   "label": "Ansel E. Talbert, three-part gravity series, New York Herald Tribune, 20-22 November 1955",
+   "role": "document"
+  },
+  {
+   "cls": "institution",
+   "id": "institute-of-field-physics",
+   "label": "Institute of Field Physics (UNC Chapel Hill)",
+   "role": "institution"
+  },
+  {
+   "cls": "institution",
+   "id": "rias-inc",
+   "label": "RIAS, Inc. (Research Institute for Advanced Studies)",
+   "role": "institution"
+  },
+  {
+   "cls": "person",
+   "id": "george-trimble",
+   "label": "George S. Trimble",
+   "role": "contractor"
+  },
+  {
+   "cls": "person",
+   "id": "louis-witten",
+   "label": "Louis Witten",
+   "role": "researcher"
+  },
+  {
+   "cls": "person",
+   "id": "joseph-weber",
+   "label": "Joseph Weber",
+   "role": "researcher"
+  },
+  {
+   "cls": "person",
+   "id": "peter-bergmann",
+   "label": "Peter G. Bergmann",
+   "role": "researcher"
+  },
+  {
+   "cls": "person",
+   "id": "gordon-gray",
+   "label": "Gordon Gray",
+   "role": "official"
+  },
+  {
+   "cls": "institution",
+   "id": "sperry-rand",
+   "label": "Sperry Rand Corporation",
+   "role": "contractor"
+  },
+  {
+   "cls": "institution",
+   "id": "general-dynamics",
+   "label": "General Dynamics Corporation",
+   "role": "contractor"
+  },
+  {
+   "cls": "institution",
+   "id": "lockheed-martin",
+   "label": "Lockheed Martin Corporation",
+   "role": "contractor"
+  },
+  {
+   "cls": "person",
+   "id": "thomas-townsend-brown",
+   "label": "Thomas Townsend Brown",
+   "role": "researcher"
+  },
+  {
+   "cls": "person",
+   "id": "mark-mccandlish",
+   "label": "Mark McCandlish",
+   "role": "claimant"
+  },
+  {
+   "cls": "document",
+   "id": "canning-nasa-cr-2004-213312",
+   "label": "NASA/CR-2004-213312, 'Asymmetrical Capacitors for Propulsion' (2004)",
+   "role": "document"
+  },
+  {
+   "cls": "document",
+   "id": "millis-tm-2004-213082",
+   "label": "NASA/TM-2004-213082, 'Prospects for Breakthrough Propulsion from Physics' (2004)",
+   "role": "document"
+  },
+  {
+   "cls": "document",
+   "id": "dird-antigravity-for-aerospace-applications",
+   "label": "Antigravity for Aerospace Applications",
+   "role": "document"
+  }
+ ],
+ "notes": "No Trimble-recruited-Witten edge (an exclusion, not a gap). Canon 15 (Ning Li, Podkletnov, Cook, Bushman) extends it.",
+ "questions": [
+  "When was RIAS founded, and by whom? No primary record establishes either, and the Glenn L. Martin Company's succession to Lockheed Martin was not read off any document.",
+  "Who hired Louis Witten at RIAS? The one openable source says Witten approached DeWitt, and the oral history that might settle it was not read.",
+  "Was Gordon Gray still connected with the University of North Carolina when the Institute was founded? The Talbert series says he had already retired as president.",
+  "Is the Project Winterhaven scan an authentic 1952-53 document? It is a private upload with no institutional custody.",
+  "What does Brown's British Patent 300,311 actually claim, and what did the Talley vacuum report say in full? Neither was opened.",
+  "What was the gravity-control experiment the Talbert series photographed at Convair?"
+ ],
+ "record": [
+  {
+   "cite": [
+    "c-e5d9777a75",
+    "e-16faf59c72",
+    "c-024dd7f9f8",
+    "e-790a739625"
+   ],
+   "text": "The Talbert series lists the firms participating in or interested in gravity: the Glenn L. Martin Co., Convair, Bell Aircraft and Sikorsky, with Lear, Clarke Electronics and the Sperry Gyroscope Division of Sperry-Rand. It quotes Lawrence D. Bell that the third step would be to operate outside the gravity of the earth."
+  },
+  {
+   "cite": [
+    "c-e635597430",
+    "c-36517f6c5d",
+    "e-6a9fe39af6",
+    "e-85c028b1f6"
+   ],
+   "text": "The series identifies George S. Trimble jr. as Martin's vice-president in charge of advanced design planning, organizing a new Research Institute for Advanced Study, and quotes him that the job could be done in about the time it took to build the first atom bomb. It reports Martin building a new laboratory for the institute between Washington and Baltimore."
+  },
+  {
+   "cite": [
+    "c-b9dae10855",
+    "c-94213abcc9",
+    "e-c5ab5baeae",
+    "e-9c01aefec0"
+   ],
+   "text": "The same series reports that UNC's trustees had approved an Institute of Pure Physics to carry on theoretical research on gravity, with the approval of Dr. Gordon Gray, who had since retired as president of the university; it names Agnew H. Bahnson jr. as fundraiser and records the directorship offered to Bryce S. DeWitt."
+  },
+  {
+   "cite": [
+    "c-f277e64747",
+    "c-57b84ca027"
+   ],
+   "text": "The Institute of Field Physics received its certificate of incorporation on 7 September 1955; the 1957 conference report dates its establishment in the UNC physics department to 1956."
+  },
+  {
+   "cite": [
+    "c-a45422e6db",
+    "e-b06204b20b",
+    "c-013d4e4b86",
+    "c-4f7e30bf65"
+   ],
+   "text": "Industry and Air Force money both reached the Institute: Trimble and the Glenn Martin Company bought a Founder's Membership for $5,000 and offered to help solicit more, and Joshua Goldberg of the modern physics research branch at the Aeronautical Research Laboratory, Wright-Patterson, gave a $5,000 grant and secured military air transport for participants from eleven nations. The UNC history names this Air Force route as the Aeronautical Research Laboratory, not the Wright Air Development Center that appears on the conference report."
+  },
+  {
+   "cite": [
+    "c-761c6386d7",
+    "c-c10f8025c0",
+    "c-daf1756b42",
+    "c-859758a351"
+   ],
+   "text": "The January 1957 Chapel Hill conference on the role of gravitation in physics was the Institute's inaugural event. It was sponsored by the International Union of Pure and Applied Physics with financial support from UNESCO, the National Science Foundation, the Wright Air Development Center and the Army's Office of Ordnance Research, and its report, WADC Technical Report 57-216, was written as a condition of the conference funds."
+  },
+  {
+   "cite": [
+    "c-37a6c7469d",
+    "c-6dc5a38fcc",
+    "e-ef94fc0337",
+    "c-f4e5e7cab3",
+    "e-397aa273bc",
+    "c-2376ac8099",
+    "c-a931f2dc0f",
+    "e-5c454ec158"
+   ],
+   "text": "The participants list prints Louis Witten and R. W. Bass of RIAS, Inc., Baltimore, whose contribution was on cosmological models, and Joseph Weber of the University of Maryland. Peter G. Bergmann of Syracuse sat on the steering committee with the DeWitts, Freeman Dyson and John Wheeler and gave the conference summary."
+  },
+  {
+   "cite": [
+    "c-63c754e9b7",
+    "c-d765134dd5",
+    "c-1a687f4dcd",
+    "c-e88dc8ecf0",
+    "c-e14bef6097",
+    "c-456ea9f160"
+   ],
+   "text": "Brown's patents are real and claim thrust, not gravity control. US 1,974,483, Electrostatic Motor (1934), claims producing force or motion with high-potential electrostatic charges; US 2,949,550 (1960) and US 3,187,206 (1965), both titled Electrokinetic Apparatus, claim thrust by electrical fields, and the word gravity appears in neither of the two later patents."
+  },
+  {
+   "cite": [
+    "c-80e9762616",
+    "c-d4960768c6",
+    "c-9bf4a89ef7",
+    "e-a3349f8440"
+   ],
+   "text": "US 2,949,550 records that the invention was first disclosed in an application filed on 13 June 1952 and later abandoned. Brown's later patents were assigned to private corporations, Whitehall-Rand and Electrokinetics, with no government interest statement, and his 1947 vibration-damper patent was assigned to Lockheed Aircraft Corporation."
+  },
+  {
+   "cite": [
+    "c-8a65db74fd",
+    "c-217aaba3b6"
+   ],
+   "text": "Brown's FBI file, referring to a report of 25 March 1953, directs the Washington office to determine any violation of the Fraud Against the Government statute while Brown sought a research contract of about a million dollars for Project Winterhaven, and asks for a review of his patents at the Patent Office."
+  },
+  {
+   "cite": [
+    "c-46e5f91b71"
+   ],
+   "text": "The 66-page Winterhaven proposal never uses the words saucer, interceptor, Mach or Air Force; the description of it as proposing a saucer designated a USAF interceptor originates in a 1956 Aviation Studies report."
+  }
+ ],
+ "related": [
+  "propulsion-claims",
+  "navy-patents",
+  "arv-fluxliner",
+  "civilian-groups",
+  "named-contractors",
+  "wright-patterson-ftd",
+  "dirds"
+ ],
+ "section": "science-technology",
+ "span": {
+  "from": "1952",
+  "to": "1960"
+ },
+ "status": "verified",
+ "summary": [
+  {
+   "cite": [
+    "c-e5d9777a75",
+    "c-024dd7f9f8",
+    "c-e635597430"
+   ],
+   "text": "Ansel Talbert's three articles of 20-22 November 1955 are the contemporaneous press record behind later claims that aerospace executives spoke of controlling gravity; they name the firms and quote executives directly."
+  },
+  {
+   "cite": [
+    "e-5e2f5ae8fc",
+    "c-f277e64747"
+   ],
+   "text": "Two institutions grew from the same moment and were kept apart on purpose: the Martin company's own research institute, which would become RIAS, and the Institute of Field Physics, placed inside the University of North Carolina to avoid the conflict physicists felt in an industrial setting."
+  },
+  {
+   "cite": [
+    "c-7586b21c6b",
+    "c-d765134dd5",
+    "c-e14bef6097",
+    "e-be1ea94e26"
+   ],
+   "text": "Thomas Townsend Brown runs alongside this thread rather than through it: the Talbert series does not name him, and his patents describe electrostatic and electrokinetic thrust. Later accounts attach gravity claims to his work that the documents do not carry."
+  }
+ ],
+ "title": "Gravity research in the 1950s: Townsend Brown, the Institute of Field Physics and the Talbert series"
+}

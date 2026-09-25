@@ -1,0 +1,2902 @@
+{
+ "absorbs": [
+  "d-ffrdc",
+  "ffrdc-mechanism"
+ ],
+ "anchors": [
+  "mitre-corporation",
+  "burlison-mitre-letter-2026",
+  "burlison-mit-lincoln-letter-2026",
+  "gerb-mitre-investigation",
+  "uap-gerb",
+  "rand-corporation",
+  "aerospace-corporation",
+  "mit-lincoln-laboratory",
+  "jhuapl",
+  "ida",
+  "far-35-017",
+  "manhattan-project-2",
+  "gerb-northrop-trw-investigation",
+  "gerb-nro-investigation",
+  "gerb-sandia-investigation"
+ ],
+ "appendixT": "ffrdc-probes",
+ "cites": {
+  "c-00bb6e79bf": {
+   "id": "c-00bb6e79bf",
+   "kind": "claim",
+   "node": "aerospace-corporation",
+   "nodeLabel": "The Aerospace Corporation",
+   "source": {
+    "domain": "mgln.ai",
+    "text": "American Alchemy with Jesse Michels, 'Congressman: President Trump Was Briefed On Alien Hybrids!', 2 July 2026, 0:19:48 https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL2654068830.mp3",
+    "url": "https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL2654068830.mp3"
+   },
+   "text": "The corporation has now been questioned by Congress on the subject, on one member's account. On American Alchemy with Jesse Michels, 2 July 2026, Rep. Eric Burlison said his office wrote to The Aerospace Corporation from the House Oversight Committee, that the corporation sent two members of its executive team, that the interview took place in a SCIF during the Biden administration, and that they had no knowledge of UAP or reverse engineering: 'they knew nothing' (0:19:48). No document of that meeting has been opened for this board.",
+   "tier": 2
+  },
+  "c-05cc67d78c": {
+   "id": "c-05cc67d78c",
+   "kind": "claim",
+   "node": "rand-corporation",
+   "nodeLabel": "RAND Corporation",
+   "source": {
+    "domain": "catalog.archives.gov",
+    "text": "https://catalog.archives.gov/medialz/electronic-records/rg-615/656595571/00124399_Curtis_LeMay_Collection.pdf",
+    "url": "https://catalog.archives.gov/medialz/electronic-records/rg-615/656595571/00124399_Curtis_LeMay_Collection.pdf"
+   },
+   "text": "The same 5 August 1947 report gives estimated man-days of work performed on Project RAND during June 1947 as: military personnel 30, civilian 10, contractor's personnel RAND proper 2,200 and RAND subcontractors 1,400, total 3,600 -- so contractor effort was roughly ninety times government effort at the point RAND was still inside Douglas Aircraft.",
+   "tier": 1
+  },
+  "c-0869732034": {
+   "id": "c-0869732034",
+   "kind": "claim",
+   "node": "gerb-nro-investigation",
+   "nodeLabel": "UAP Gerb - National Reconnaissance Office investigation",
+   "source": {
+    "domain": null,
+    "text": "UAP Gerb, NRO investigation description, 13 December 2025",
+    "url": null
+   },
+   "text": "The NRO spearheaded a 21st-century crash retrieval team stationed out of the Nevada Test and Training Range.",
+   "tier": 2
+  },
+  "c-137a1cf3c8": {
+   "id": "c-137a1cf3c8",
+   "kind": "claim",
+   "node": "d-ffrdc",
+   "nodeLabel": "The FFRDC Seam",
+   "source": {
+    "domain": null,
+    "text": "Inference from FOIA's agency-records definition and FAR 35.017",
+    "url": null
+   },
+   "text": "Because FFRDC records are contractor records rather than agency records, work performed under this mechanism is outside FOIA while remaining under the sponsor's classification authority. Reasoning: FOIA reaches agency records only; the FFRDC operator is a private entity.",
+   "tier": 3,
+   "unplaced": true
+  },
+  "c-18b58db71b": {
+   "id": "c-18b58db71b",
+   "kind": "claim",
+   "node": "mit-lincoln-laboratory",
+   "nodeLabel": "MIT Lincoln Laboratory",
+   "source": {
+    "domain": null,
+    "text": "Burlison press release, 8 May 2026",
+    "url": null
+   },
+   "text": "On 8 May 2026 Rep. Burlison wrote to MIT Lincoln Laboratory requesting preservation and review of a reel-to-reel recording identified as 'AF-ATIC-FILM, 03/52' and labelled 'flying saucer talk', featuring Edward J. Ruppelt as briefer, and asked the laboratory to work with the National Archives on preservation and archival review.",
+   "tier": 1
+  },
+  "c-1fd8a02e99": {
+   "id": "c-1fd8a02e99",
+   "kind": "claim",
+   "node": "gerb-mitre-investigation",
+   "nodeLabel": "UAP Gerb - The MITRE Corporation investigation",
+   "source": {
+    "domain": null,
+    "text": "UAP Gerb, MITRE investigation description, 7 August 2026",
+    "url": null
+   },
+   "text": "MITRE processes all-source data for the tracking and monitoring of an enormous USO ('tic tac factory') with permanent or semi-permanent station in the Atlantic.",
+   "tier": 2
+  },
+  "c-2227b214ca": {
+   "id": "c-2227b214ca",
+   "kind": "claim",
+   "node": "aerospace-corporation",
+   "nodeLabel": "The Aerospace Corporation",
+   "source": {
+    "domain": null,
+    "text": "Inference from the absence of any statement or release",
+    "url": null
+   },
+   "text": "No public document establishes whether The Aerospace Corporation had any institutional role in, or knowledge of, the retrievals Davis described, and the corporation has not addressed it publicly.",
+   "tier": 3
+  },
+  "c-240b9b83f1": {
+   "id": "c-240b9b83f1",
+   "kind": "claim",
+   "node": "rand-corporation",
+   "nodeLabel": "RAND Corporation",
+   "source": {
+    "domain": "catalog.archives.gov",
+    "text": "https://catalog.archives.gov/id/656595571",
+    "url": "https://catalog.archives.gov/id/656595571"
+   },
+   "text": "The Department of the Air Force's first transfer into NARA Record Group 615 (series 656595571, 30 items, accessioned 28 August 2026) contains two RAND items sixteen years apart: item 342UAP00003, the Curtis LeMay Collection 1945-1947, which carries a 5 August 1947 report naming Project RAND; and item 342UAP00025, RAND Memorandum RM-3178-PR of March 1963.",
+   "tier": 1
+  },
+  "c-2ef7b1b8d5": {
+   "id": "c-2ef7b1b8d5",
+   "kind": "claim",
+   "node": "mit-lincoln-laboratory",
+   "nodeLabel": "MIT Lincoln Laboratory",
+   "source": {
+    "domain": null,
+    "text": "The Hill/NewsNation, 29 June 2026",
+    "url": null
+   },
+   "text": "By 25 June 2026 Lincoln Laboratory had agreed to make the material available; the Disclosure Foundation describes it as a reel-to-reel audio recording relating to the July 1952 Washington sightings and says Lincoln Lab's lawyers confirm it exists.",
+   "tier": 2
+  },
+  "c-30a2ceae8d": {
+   "id": "c-30a2ceae8d",
+   "kind": "claim",
+   "node": "d-ffrdc",
+   "nodeLabel": "The FFRDC Seam",
+   "source": {
+    "domain": null,
+    "text": "Federal Acquisition Regulation Part 35.017",
+    "url": null
+   },
+   "text": "FAR 35.017 states that an FFRDC has access to government and supplier data, including sensitive and proprietary information, and to employees and facilities beyond that common in a normal contractual relationship.",
+   "tier": 1,
+   "unplaced": true
+  },
+  "c-31c16cac58": {
+   "id": "c-31c16cac58",
+   "kind": "claim",
+   "node": "burlison-mitre-letter-2026",
+   "nodeLabel": "Rep. Burlison records demand to MITRE, 22 May 2026",
+   "source": {
+    "domain": null,
+    "text": "MeriTalk, 29 May 2026, quoting the letter",
+    "url": null
+   },
+   "text": "Burlison directed MITRE to identify and preserve records related to UAP including 'unexplained aerospace or undersea events, technologies of unknown origin, and alleged crash-retrieval or reverse-engineering programs'.",
+   "tier": 1
+  },
+  "c-325ff33b39": {
+   "id": "c-325ff33b39",
+   "kind": "claim",
+   "node": "d-ffrdc",
+   "nodeLabel": "The FFRDC Seam",
+   "source": {
+    "domain": null,
+    "text": "Rep. Eric Burlison letter to MITRE, 22 May 2026, as quoted by MeriTalk, 29 May 2026",
+    "url": null
+   },
+   "text": "Burlison's 22 May 2026 letter to MITRE rests explicitly on this structure: 'FFRDCs often receive special access to government facilities, data, sponsor requirements, and sensitive technical information that ordinary private contractors may not receive.'",
+   "tier": 1
+  },
+  "c-33d27c220f": {
+   "id": "c-33d27c220f",
+   "kind": "claim",
+   "node": "jhuapl",
+   "nodeLabel": "Johns Hopkins University Applied Physics Laboratory",
+   "source": {
+    "domain": null,
+    "text": "NSF NCSES Master Government List of FFRDCs (absence); DoD UARC designation records",
+    "url": null
+   },
+   "text": "JHU APL is a University Affiliated Research Center rather than an FFRDC, and does not appear on the NSF Master Government List of Federally Funded R&D Centers.",
+   "tier": 1
+  },
+  "c-3666550fd8": {
+   "id": "c-3666550fd8",
+   "kind": "claim",
+   "node": "manhattan-project-2",
+   "nodeLabel": "'Manhattan Project 2.0' (alleged secrecy architecture)",
+   "source": {
+    "domain": null,
+    "text": "UAP Gerb, 'Special Access Required' Vol.2, 19 June 2026",
+    "url": null
+   },
+   "text": "In 1994 the SAP enterprise was restructured to gatekeep USG access and vest permanent control of the portfolio in a quasi-industry and government control group.",
+   "tier": 2
+  },
+  "c-38b091b140": {
+   "id": "c-38b091b140",
+   "kind": "claim",
+   "node": "gerb-nro-investigation",
+   "nodeLabel": "UAP Gerb - National Reconnaissance Office investigation",
+   "source": {
+    "domain": null,
+    "text": "UAP Gerb, NRO investigation description, 13 December 2025",
+    "url": null
+   },
+   "text": "The NRO's Sentient AI program provided IMINT and SIGINT from tasked and untasked overhead collection platforms to a USAP called Immaculate Constellation established in 2017.",
+   "tier": 2
+  },
+  "c-44eb0ea603": {
+   "id": "c-44eb0ea603",
+   "kind": "claim",
+   "node": "mitre-corporation",
+   "nodeLabel": "The MITRE Corporation",
+   "source": {
+    "domain": null,
+    "text": "Burlison press release 26 May 2026; DefenseScoop 27 May 2026; MeriTalk 29 May 2026",
+    "url": null
+   },
+   "text": "On 22 May 2026 Rep. Eric Burlison sent MITRE a 10-page letter with more than 40 production requests covering UAP records back to 1930, including legacy crash-retrieval and reverse-engineering programmes, Special and Controlled Access Programs, sensor data, materials analysis and classification guides.",
+   "tier": 1
+  },
+  "c-461ada2a80": {
+   "id": "c-461ada2a80",
+   "kind": "claim",
+   "node": "aerospace-corporation",
+   "nodeLabel": "The Aerospace Corporation",
+   "source": {
+    "domain": null,
+    "text": "OTA, 'A History of the Department of Defense Federally Funded Research and Development Centers', 1995",
+    "url": null
+   },
+   "text": "The Office of Technology Assessment's 1995 history records that the Air Force specifically insisted on restrictions in the Aerospace Corporation charter that it had not imposed on earlier FFRDCs.",
+   "tier": 1
+  },
+  "c-48fc20e323": {
+   "id": "c-48fc20e323",
+   "kind": "claim",
+   "node": "mitre-corporation",
+   "nodeLabel": "The MITRE Corporation",
+   "source": {
+    "domain": null,
+    "text": "DefenseScoop, 27 May 2026",
+    "url": null
+   },
+   "text": "A MITRE spokesperson said that insiders were reviewing its archives and that 'if any relevant material is found, we will coordinate with the federal agencies responsible for the work.'",
+   "tier": 1
+  },
+  "c-49a837196c": {
+   "id": "c-49a837196c",
+   "kind": "claim",
+   "node": "ida",
+   "nodeLabel": "Institute for Defense Analyses",
+   "source": {
+    "domain": null,
+    "text": "USAspending.gov federal award records",
+    "url": null
+   },
+   "text": "IDA FFRDC work is awarded sole-source; USAspending records include an award described as 'award of a contract on a sole source basis to the Institute for Defense Analyses (IDA), a federally funded research and development center'.",
+   "tier": 1
+  },
+  "c-4ceadb9ef8": {
+   "id": "c-4ceadb9ef8",
+   "kind": "claim",
+   "node": "manhattan-project-2",
+   "nodeLabel": "'Manhattan Project 2.0' (alleged secrecy architecture)",
+   "source": {
+    "domain": null,
+    "text": "UAP Gerb, 'Special Access Required' Vol.2, 19 June 2026",
+    "url": null
+   },
+   "text": "The portfolio exploits loopholes in White House SAPs and NSC Covert Action Programs to operate 'Non-Covert Action Programs' with managed need-to-know access, full SAP security protocols and completely waived reporting and budgetary requirements.",
+   "tier": 2
+  },
+  "c-58e50d56d6": {
+   "id": "c-58e50d56d6",
+   "kind": "claim",
+   "node": "d-ffrdc",
+   "nodeLabel": "The FFRDC Seam",
+   "source": {
+    "domain": null,
+    "text": "FAR 35.017",
+    "url": null
+   },
+   "text": "FAR 35.017 requires the FFRDC to operate in the public interest with objectivity and independence, to be free from organisational conflicts of interest, and to disclose its affairs fully to the sponsoring agency.",
+   "tier": 1,
+   "unplaced": true
+  },
+  "c-5a6c021232": {
+   "id": "c-5a6c021232",
+   "kind": "claim",
+   "node": "d-ffrdc",
+   "nodeLabel": "The FFRDC Seam",
+   "source": {
+    "domain": null,
+    "text": "Structural inference from FAR 35.017 and the FOIA definition of agency records",
+    "url": null
+   },
+   "text": "The combination of contractor-held records outside FOIA, disclosure obligations running only to the sponsoring agency, and permanent sole-source relationships makes the FFRDC layer the single most defensible place in the US system to host an unacknowledged programme. Reasoning: each of the three properties independently removes an oversight mechanism, and no other institutional form removes all three simultaneously.",
+   "tier": 3
+  },
+  "c-6043a34447": {
+   "id": "c-6043a34447",
+   "kind": "claim",
+   "node": "mitre-corporation",
+   "nodeLabel": "The MITRE Corporation",
+   "source": {
+    "domain": null,
+    "text": "MITRE R&D Centers page; NSF NCSES Master Government List of FFRDCs, FY2026",
+    "url": null
+   },
+   "text": "MITRE operates six FFRDCs: NSEC (DoD/USD(R&E)), CAASD (DOT/FAA), Center for Enterprise Modernization (Treasury/IRS with VA, SSA, Commerce), HSSEDI (DHS S&T, created 5 March 2009), the Health FFRDC (HHS), and the National Cybersecurity Center of Excellence (Commerce/NIST, created 19 September 2014).",
+   "tier": 1
+  },
+  "c-608197f302": {
+   "id": "c-608197f302",
+   "kind": "claim",
+   "node": "manhattan-project-2",
+   "nodeLabel": "'Manhattan Project 2.0' (alleged secrecy architecture)",
+   "source": {
+    "domain": null,
+    "text": "UAP Gerb, 'The Manhattan Project 2.0' Vol.1, 1 May 2026",
+    "url": null
+   },
+   "text": "A centralized UFO recovery and exploitation effort was founded in 1947 with a security apparatus taken directly from the Manhattan Project and the Atomic Energy Commission.",
+   "tier": 2
+  },
+  "c-623dc83a8f": {
+   "id": "c-623dc83a8f",
+   "kind": "claim",
+   "node": "gerb-mitre-investigation",
+   "nodeLabel": "UAP Gerb - The MITRE Corporation investigation",
+   "source": {
+    "domain": null,
+    "text": "UAP Gerb, MITRE investigation description, 7 August 2026",
+    "url": null
+   },
+   "text": "FFRDCs are the missing link: they allow the USG to technically vest programs outside the government while retaining strict control over materials, breakthroughs, data and programs, and they arbitrate what and how much information about UFO programs is shared with defense contractors.",
+   "tier": 2
+  },
+  "c-62711bb2c9": {
+   "id": "c-62711bb2c9",
+   "kind": "claim",
+   "node": "mit-lincoln-laboratory",
+   "nodeLabel": "MIT Lincoln Laboratory",
+   "source": {
+    "domain": null,
+    "text": "Rep. Burlison on X, 15 May 2026, quoted by The Hill/NewsNation, 16 May 2026",
+    "url": null
+   },
+   "text": "Lincoln Laboratory's attorneys agreed to comply within 30 days with Rep. Burlison's May 2026 demand for a classified 1952 briefing recording referenced as a 'flying saucer talk.'",
+   "tier": 2
+  },
+  "c-6a1956c602": {
+   "id": "c-6a1956c602",
+   "kind": "claim",
+   "node": "dana-keoki-jackson",
+   "nodeLabel": "Dana (Keoki) Jackson",
+   "source": {
+    "domain": null,
+    "text": "Inference from MITRE's published FFRDC sponsor list and NSEC fact sheet",
+    "url": null
+   },
+   "text": "Records responsive to Burlison's request categories - Special and Controlled Access Programs, materials analysis, classification guides - would be held by NSEC under Jackson rather than by MITRE's FAA, IRS, HHS or NIST FFRDCs. Reasoning: NSEC is MITRE's only DoD/IC-sponsored FFRDC and the only one operating at the relevant classification levels.",
+   "tier": 3
+  },
+  "c-6bbbeeef89": {
+   "id": "c-6bbbeeef89",
+   "kind": "claim",
+   "node": "d-ffrdc",
+   "nodeLabel": "The FFRDC Seam",
+   "source": {
+    "domain": null,
+    "text": "CRS Report R44629, 'Federally Funded Research and Development Centers (FFRDCs): Background and Issues for Congress'",
+    "url": null
+   },
+   "text": "FAR 35.017 grants FFRDCs access to government and supplier data, including sensitive and proprietary information, and to employees and facilities beyond that common in a normal contractual relationship.",
+   "tier": 1
+  },
+  "c-6c9e87a52d": {
+   "id": "c-6c9e87a52d",
+   "kind": "claim",
+   "node": "d-ffrdc",
+   "nodeLabel": "The FFRDC Seam",
+   "source": {
+    "domain": null,
+    "text": "CRS Report R44629, updated 15 May 2026",
+    "url": null
+   },
+   "text": "As of February 2026, 41 FFRDCs were sponsored or co-sponsored by 12 federal agencies.",
+   "tier": 1
+  },
+  "c-6d8d2ec5bb": {
+   "id": "c-6d8d2ec5bb",
+   "kind": "claim",
+   "node": "gerb-sandia-investigation",
+   "nodeLabel": "UAP Gerb - Sandia National Laboratories investigation",
+   "source": {
+    "domain": null,
+    "text": "UAP Gerb, Sandia investigation description, 1 November 2025",
+    "url": null
+   },
+   "text": "USAF MSgt Edgar Fouche claimed Sandia and Lawrence Livermore reverse-engineered the propulsion device for the TR-3B alien reproduction vehicle.",
+   "tier": 2
+  },
+  "c-6e7381fd4e": {
+   "id": "c-6e7381fd4e",
+   "kind": "claim",
+   "node": "gerb-northrop-trw-investigation",
+   "nodeLabel": "UAP Gerb - Northrop Grumman & TRW investigation (Vol.2)",
+   "source": {
+    "domain": null,
+    "text": "UAP Gerb, Northrop Grumman & TRW Vol.2 description, 20 March 2026, extrapolating from David Grusch's statements on Megyn Kelly",
+    "url": null
+   },
+   "text": "Northrop Grumman may have used IRAD funds at the onset of the War on Terror to self-fund its own retrieval and exploitation programs, becoming unaccountable to its original government handler.",
+   "tier": 2
+  },
+  "c-70954ac851": {
+   "id": "c-70954ac851",
+   "kind": "claim",
+   "node": "far-35-017",
+   "nodeLabel": "FAR 35.017 - Federally Funded Research and Development Centers",
+   "source": {
+    "domain": null,
+    "text": "CRS Report R44629 summarising FAR 35.017",
+    "url": null
+   },
+   "text": "FAR 35.017 permits initial FFRDC contracts of up to five years, renewable in similar increments, expressly to provide stability and continuity and to allow the FFRDC to attract high-quality personnel.",
+   "tier": 1
+  },
+  "c-7f3560f860": {
+   "id": "c-7f3560f860",
+   "kind": "claim",
+   "node": "burlison-mitre-letter-2026",
+   "nodeLabel": "Rep. Burlison records demand to MITRE, 22 May 2026",
+   "source": {
+    "domain": null,
+    "text": "DefenseScoop, 27 May 2026",
+    "url": null
+   },
+   "text": "Ten-page letter dated 22 May 2026 with over 40 production requests, asking MITRE to identify whether it 'has created, received, maintained, analyzed, transferred, destroyed, withheld, or otherwise controlled records' on UAP, anomalous materials and reverse engineering, dating back to 1930.",
+   "tier": 1
+  },
+  "c-81a9ceb736": {
+   "id": "c-81a9ceb736",
+   "kind": "claim",
+   "node": "burlison-mitre-letter-2026",
+   "nodeLabel": "Rep. Burlison records demand to MITRE, 22 May 2026",
+   "source": {
+    "domain": null,
+    "text": "DefenseScoop, 27 May 2026",
+    "url": null
+   },
+   "text": "All unclassified responsive records demanded within 45 days in native electronic format with complete metadata.",
+   "tier": 1
+  },
+  "c-8bdc41be6b": {
+   "id": "c-8bdc41be6b",
+   "kind": "claim",
+   "node": "mitre-corporation",
+   "nodeLabel": "The MITRE Corporation",
+   "source": {
+    "domain": null,
+    "text": "CRS Report R44629 FFRDC funding table",
+    "url": null
+   },
+   "text": "MITRE's National Security Engineering Center received approximately $1,431.7 million in FY2024 funding.",
+   "tier": 1
+  },
+  "c-8cf2251854": {
+   "id": "c-8cf2251854",
+   "kind": "claim",
+   "node": "uap-gerb",
+   "nodeLabel": "'UAP Gerb' (Sam)",
+   "source": {
+    "domain": "ntrs.nasa.gov",
+    "text": "NASA SP-5110, 55-Nitinol: The Alloy With a Memory, Battelle Memorial Institute for NASA, 1972, chapter 1 p. 1 and references 12 and 74, https://ntrs.nasa.gov/api/citations/19720022818/downloads/19720022818.pdf ; NASA CR-1433, Nitinol Characterization Study, September 1969, foreword p. iii and p. 2, https://ntrs.nasa.gov/api/citations/19690026989/downloads/19690026989.pdf ; US Patent 3,174,851, https://patents.google.com/patent/US3174851A/en",
+    "url": "https://ntrs.nasa.gov/api/citations/19720022818/downloads/19720022818.pdf"
+   },
+   "text": "The federal literature on nitinol, one report of it written by Battelle itself, does not support a Battelle 1948-49 lineage for the alloy. NASA SP-5110, prepared for NASA by Battelle Memorial Institute in 1972, opens: 'Some 10 years ago, Buehler and Wiley of the U.S. Naval Ordnance Laboratory developed a series of engineering alloys that possess a unique mechanical (shape) memory. The generic name of the series of alloys is 55-Nitinol, where Nitinol stands for Nickel Titanium Naval Ordnance Laboratory.' The earliest Naval Ordnance Laboratory nitinol report cited anywhere in its reference list is NOLTR 61-75 of 3 August 1961; US Patent 3,174,851 was filed on 1 December 1961; and NASA CR-1433 of September 1969 records Battelle's own role as a subcontractor to Goodyear Aerospace which 'processed the basic Nitinol rod'. The allegation that Wright-Patterson-sponsored Battelle reports on nickel-titanium alloy from 1948-49 are missing from Air Force and Battelle archives is kept on this board as the allegation it is, and is unsupported by the federal literature opened here.",
+   "tier": 1
+  },
+  "c-91e550252c": {
+   "id": "c-91e550252c",
+   "kind": "claim",
+   "node": "mit-lincoln-laboratory",
+   "nodeLabel": "MIT Lincoln Laboratory",
+   "source": {
+    "domain": null,
+    "text": "The Hill/NewsNation, 16 May 2026",
+    "url": null
+   },
+   "text": "Founded in 1951 to build the SAGE air defense network; one of the oldest FFRDCs, a class of contractor with access to classified and proprietary information that for-profit contractors are legally barred from seeing.",
+   "tier": 1
+  },
+  "c-92ffa7ba35": {
+   "id": "c-92ffa7ba35",
+   "kind": "claim",
+   "node": "burlison-mit-lincoln-letter-2026",
+   "nodeLabel": "Rep. Burlison letter to MIT Lincoln Laboratory, May 2026",
+   "source": {
+    "domain": null,
+    "text": "Rep. Eric Burlison on X, 15 May 2026, quoted by The Hill/NewsNation, 16 May 2026",
+    "url": null
+   },
+   "text": "'I sent a letter to MIT Lincoln Labs asking for a classified 1952 briefing video referenced as a flying saucer talk. Their attorneys wrote back fast. They'll comply within 30 days. Congressional letters carry weight. We're going to keep sending them.'",
+   "tier": 2
+  },
+  "c-95dba0730b": {
+   "id": "c-95dba0730b",
+   "kind": "claim",
+   "node": "rand-corporation",
+   "nodeLabel": "RAND Corporation",
+   "source": {
+    "domain": null,
+    "text": "RAND report RRA2475-1",
+    "url": null
+   },
+   "text": "RAND published 'Mapping Public Reports of Unidentified Aerial Phenomena Across America' (RRA2475-1) on 25 July 2023, citing Kocher's DRU-1571.",
+   "tier": 1
+  },
+  "c-9d3c590324": {
+   "id": "c-9d3c590324",
+   "kind": "claim",
+   "node": "immaculate-constellation",
+   "nodeLabel": "Immaculate Constellation disclosure, October-November 2024",
+   "source": {
+    "domain": null,
+    "text": "DoD statements as reported in secondary coverage; wave 1 board record",
+    "url": null
+   },
+   "text": "The Department of Defense states it has no record of such a programme; spokesperson Sue Gough has said the Department has 'no record', and former AARO director Sean Kirkpatrick has denied its existence.",
+   "tier": 2
+  },
+  "c-a4f8acbf30": {
+   "id": "c-a4f8acbf30",
+   "kind": "claim",
+   "node": "rand-corporation",
+   "nodeLabel": "RAND Corporation",
+   "source": {
+    "domain": null,
+    "text": "RAND publication page and PDF, DRU-1571",
+    "url": null
+   },
+   "text": "RAND published George Kocher's 'UFOs: What To Do?' as draft DRU-1571 in November 1968.",
+   "tier": 1
+  },
+  "c-a5ff1c6c9c": {
+   "id": "c-a5ff1c6c9c",
+   "kind": "claim",
+   "node": "manhattan-project-2",
+   "nodeLabel": "'Manhattan Project 2.0' (alleged secrecy architecture)",
+   "source": {
+    "domain": null,
+    "text": "UAP Gerb, 'The Manhattan Project 2.0' Vol.1, 1 May 2026",
+    "url": null
+   },
+   "text": "Truman and Eisenhower vested custody of NHI disks within AEC national laboratories, established the control group under the NSC and its 5412 Committee, and safeguarded the programs under the Atomic Energy Act of 1954.",
+   "tier": 2
+  },
+  "c-a71c8b454b": {
+   "id": "c-a71c8b454b",
+   "kind": "claim",
+   "node": "gerb-mitre-investigation",
+   "nodeLabel": "UAP Gerb - The MITRE Corporation investigation",
+   "source": {
+    "domain": null,
+    "text": "UAP Gerb, MITRE investigation description, 7 August 2026",
+    "url": null
+   },
+   "text": "A legacy program briefing restriction was initiated in 2011 to cease historical briefings on program incumbents.",
+   "tier": 2
+  },
+  "c-ad0409fbae": {
+   "id": "c-ad0409fbae",
+   "kind": "claim",
+   "node": "ida",
+   "nodeLabel": "Institute for Defense Analyses",
+   "source": {
+    "domain": null,
+    "text": "NSF NCSES Master Government List of FFRDCs, FY2026",
+    "url": null
+   },
+   "text": "IDA operates three FFRDCs: the Systems and Analyses Center (DoD, USD A&S; renamed 11 June 2013), the Center for Communications and Computing (DoD, NSA/CSS), and the Science and Technology Policy Institute (NSF).",
+   "tier": 1
+  },
+  "c-b3951ac80d": {
+   "id": "c-b3951ac80d",
+   "kind": "claim",
+   "node": "dana-keoki-jackson",
+   "nodeLabel": "Dana (Keoki) Jackson",
+   "source": {
+    "domain": null,
+    "text": "MITRE - Our Leadership page, accessed 12 August 2026",
+    "url": null
+   },
+   "text": "Jackson is Senior Vice President and General Manager of MITRE National Security, the unit encompassing MITRE's defense and intelligence work.",
+   "tier": 1
+  },
+  "c-be1147e92b": {
+   "id": "c-be1147e92b",
+   "kind": "claim",
+   "node": "aerospace-corporation",
+   "nodeLabel": "The Aerospace Corporation",
+   "source": {
+    "domain": null,
+    "text": "Burlison quoted by NewsNation, 15 May 2026, and Cybernews, 25 June 2026",
+    "url": null
+   },
+   "text": "Rep. Eric Burlison has stated his investigation is following the trail into RAND, MITRE, Aerospace Corp, MIT Lincoln Labs and the prime contractors.",
+   "tier": 2
+  },
+  "c-c20eb7c8b7": {
+   "id": "c-c20eb7c8b7",
+   "kind": "claim",
+   "node": "aerospace-corporation",
+   "nodeLabel": "The Aerospace Corporation",
+   "source": {
+    "domain": null,
+    "text": "Ralph Blumenthal, The New York Times, 23 July 2020",
+    "url": null
+   },
+   "text": "Eric W. Davis was working for The Aerospace Corporation at the time of the July 2020 New York Times report describing his classified briefings on retrievals.",
+   "tier": 2
+  },
+  "c-ca3e7abc39": {
+   "id": "c-ca3e7abc39",
+   "kind": "claim",
+   "node": "ida",
+   "nodeLabel": "Institute for Defense Analyses",
+   "source": {
+    "domain": null,
+    "text": "IDA leadership page",
+    "url": null
+   },
+   "text": "IDA's president is Adm. Charles A. Richard, USN (Ret.), who commanded US Strategic Command from 2019 to 2022; its leadership includes former NSA Technical Director Christopher Green and Maj. Gen. James R. Marrs, USAF (Ret.), former National Intelligence Manager for Aviation.",
+   "tier": 1
+  },
+  "c-ce95192bff": {
+   "id": "c-ce95192bff",
+   "kind": "claim",
+   "node": "ffrdc-mechanism",
+   "nodeLabel": "The FFRDC / UARC / GOCO mechanism",
+   "source": {
+    "domain": null,
+    "text": "Inference from the documented FFRDC charter model; no primary record establishes such use.",
+    "url": null
+   },
+   "text": "The FFRDC model's prohibition on competing with industry, combined with single-sponsor loyalty and permanent institutional memory, would make it the optimal container for a programme intended to outlive every administration that oversees it.",
+   "tier": 3
+  },
+  "c-d12d404431": {
+   "id": "c-d12d404431",
+   "kind": "claim",
+   "node": "rand-corporation",
+   "nodeLabel": "RAND Corporation",
+   "source": {
+    "domain": null,
+    "text": "American Alchemy with Jesse Michels, 'Presidential Advisor: I Directly Handled UFO Material (Ft. Harald Malmgren)', published 23 April 2025, at 0:57:51",
+    "url": null
+   },
+   "text": "On American Alchemy with Jesse Michels, 23 April 2025, at 0:57:51, Michels said that 'in 1961, the RAND Corporation wrote a report called Some New Considerations Concerning the Nuclear Test Ban, which highlighted the susceptibility of the US ICBM re-entry vehicles to high-energy X-rays', and that this insight fed the Operation Dominic tests. The report was not opened: rand.org answers 403 to this environment and a search on the exact title returned nothing. If it exists it would place RAND in this material seven years before the 1968 Kocher draft with which the node's UFO record currently opens.",
+   "tier": 2
+  },
+  "c-d456a6795c": {
+   "id": "c-d456a6795c",
+   "kind": "claim",
+   "node": "mitre-corporation",
+   "nodeLabel": "The MITRE Corporation",
+   "source": {
+    "domain": null,
+    "text": "MITRE's own SAGE history site (sage.mitre.org)",
+    "url": null
+   },
+   "text": "MITRE was incorporated as a nonprofit organization on 21 July 1958, with Robert Everett as first technical director and 485 other Lincoln Laboratory employees transferring in; it continued as lead systems engineer for SAGE.",
+   "tier": 1
+  },
+  "c-d573e85216": {
+   "id": "c-d573e85216",
+   "kind": "claim",
+   "node": "aerospace-corporation",
+   "nodeLabel": "The Aerospace Corporation",
+   "source": {
+    "domain": null,
+    "text": "CRS Report R44629 funding table; USAspending.gov award records",
+    "url": null
+   },
+   "text": "The Aerospace FFRDC was funded at approximately $1,309.8 million in FY2024; its principal Space Force contract FA880219C0001 is recorded on USAspending at approximately $8.67 billion for 2018-2028.",
+   "tier": 1
+  },
+  "c-d8bd8ca515": {
+   "id": "c-d8bd8ca515",
+   "kind": "claim",
+   "node": "mit-lincoln-laboratory",
+   "nodeLabel": "MIT Lincoln Laboratory",
+   "source": {
+    "domain": null,
+    "text": "NSF NCSES Master Government List of FFRDCs; CRS Report R44629 funding table",
+    "url": null
+   },
+   "text": "Lincoln Laboratory is an MIT-administered FFRDC sponsored by DoD USD(R&E), with the sponsor change recorded on 25 April 2011, funded at approximately $1,360.6 million in FY2024.",
+   "tier": 1
+  },
+  "c-d9a0dfdbab": {
+   "id": "c-d9a0dfdbab",
+   "kind": "claim",
+   "node": "aerospace-corporation",
+   "nodeLabel": "The Aerospace Corporation",
+   "source": {
+    "domain": null,
+    "text": "Aerospace Corporation, 'Dedicated to the Space Enterprise' and 'Value of Aerospace FFRDC'",
+    "url": null
+   },
+   "text": "The Aerospace Corporation was founded in 1960 and operates the only FFRDC committed exclusively to the space enterprise, now for the United States Space Force.",
+   "tier": 1
+  },
+  "c-dadf466596": {
+   "id": "c-dadf466596",
+   "kind": "claim",
+   "node": "rand-corporation",
+   "nodeLabel": "RAND Corporation",
+   "source": {
+    "domain": "catalog.archives.gov",
+    "text": "https://catalog.archives.gov/medialz/electronic-records/rg-615/656595571/00124399_Curtis_LeMay_Collection.pdf",
+    "url": "https://catalog.archives.gov/medialz/electronic-records/rg-615/656595571/00124399_Curtis_LeMay_Collection.pdf"
+   },
+   "text": "A report headed 'Report on Evaluation of Military Worth Activities (Reports Control Symbol WDCSO-(OT)-50)', Operations Analysis AC/AS-3, dated 5 August 1947 and directed to the Deputy Chief of Air Staff for Research and Development, states that 'The principal AAF activity in this particular field is Project RAND (AAF Project MX-791).'",
+   "tier": 1
+  },
+  "c-db77bf1e4b": {
+   "id": "c-db77bf1e4b",
+   "kind": "claim",
+   "node": "rand-corporation",
+   "nodeLabel": "RAND Corporation",
+   "source": {
+    "domain": null,
+    "text": "NSF NCSES Master Government List of FFRDCs, FY2026",
+    "url": null
+   },
+   "text": "RAND operates four FFRDCs - Project AIR FORCE (Air Force), Arroyo Center (Army), National Defense Research Institute (USD A&S), and the Homeland Security Operational Analysis Center (DHS S&T).",
+   "tier": 1
+  },
+  "c-df816cb2bc": {
+   "id": "c-df816cb2bc",
+   "kind": "claim",
+   "node": "burlison-mit-lincoln-letter-2026",
+   "nodeLabel": "Rep. Burlison letter to MIT Lincoln Laboratory, May 2026",
+   "source": {
+    "domain": null,
+    "text": "The Hill/NewsNation, 29 June 2026",
+    "url": null
+   },
+   "text": "At the 25 June 2026 Disclosure Forum, Burlison announced that MIT Lincoln Laboratory had agreed to make the 1952 material available; Jordan Flowers described it as a reel-to-reel audio tape about the Washington, D.C. sightings and said Lincoln Lab's lawyers confirm it exists.",
+   "tier": 2
+  },
+  "c-e3c3593fbb": {
+   "id": "c-e3c3593fbb",
+   "kind": "claim",
+   "node": "gerb-battelle-investigation",
+   "nodeLabel": "UAP Gerb - Battelle Memorial Institute investigation",
+   "source": {
+    "domain": null,
+    "text": "UAP Gerb, Battelle investigation description, 18 February 2024",
+    "url": null
+   },
+   "text": "Battelle studied UAP material, likely a shape-memory metallic alloy found at the 1947 Roswell crash site and now referred to as nitinol, as documented by Jacques Vallee with a supporting paper trail.",
+   "tier": 2
+  },
+  "c-ef3c50efe0": {
+   "id": "c-ef3c50efe0",
+   "kind": "claim",
+   "node": "gerb-mitre-investigation",
+   "nodeLabel": "UAP Gerb - The MITRE Corporation investigation",
+   "source": {
+    "domain": null,
+    "text": "UAP Gerb, MITRE investigation description, 7 August 2026",
+    "url": null
+   },
+   "text": "MITRE has been central to a program reverse-engineering and maturing non-human technologies from late-1940s recoveries since its 1958 inception.",
+   "tier": 2
+  },
+  "c-f3f806fd76": {
+   "id": "c-f3f806fd76",
+   "kind": "claim",
+   "node": "d-ffrdc",
+   "nodeLabel": "The FFRDC Seam",
+   "source": {
+    "domain": null,
+    "text": "CRS Report R44629, summarising FAR 35.017",
+    "url": null
+   },
+   "text": "FFRDCs must operate in the public interest with objectivity and independence, be free from organisational conflicts of interest, fully disclose their activities to their sponsoring agency, and may not use their special access to compete with the private sector for federal R&D contracts.",
+   "tier": 1
+  },
+  "c-f5e536f4d3": {
+   "id": "c-f5e536f4d3",
+   "kind": "claim",
+   "node": "mitre-corporation",
+   "nodeLabel": "The MITRE Corporation",
+   "source": {
+    "domain": null,
+    "text": "Christopher Sharp, Liberation Times, 13 January 2026",
+    "url": null
+   },
+   "text": "Contractors associated with NAVAIR programs at Patuxent River have included Lockheed Martin and the MITRE Corporation, in the context of reporting that an exotic vehicle has been stored at the base for decades.",
+   "tier": 2
+  },
+  "c-f7e7223863": {
+   "id": "c-f7e7223863",
+   "kind": "claim",
+   "node": "gerb-sandia-investigation",
+   "nodeLabel": "UAP Gerb - Sandia National Laboratories investigation",
+   "source": {
+    "domain": null,
+    "text": "UAP Gerb, Sandia investigation description, 1 November 2025",
+    "url": null
+   },
+   "text": "Former New Mexico State Representative J. Andrew Kissner interviewed individuals within legacy programmes and learned that UFO materials were kept in the hands of AEC laboratories such as Sandia.",
+   "tier": 2
+  },
+  "e-02d95526ad": {
+   "endpoints": [
+    {
+     "id": "atomic-energy-act-1946",
+     "label": "Atomic Energy Act of 1946 (McMahon Act)"
+    },
+    {
+     "id": "atomic-energy-commission",
+     "label": "Atomic Energy Commission"
+    }
+   ],
+   "id": "e-02d95526ad",
+   "kind": "edge",
+   "label": "The instrument that created the Commission",
+   "sources": [
+    {
+     "date": "1946-08-01",
+     "name": "Atomic Energy Act of 1946, secs. 2(a) and 10",
+     "url": "https://www.govinfo.gov/content/pkg/STATUTE-60/pdf/STATUTE-60-Pg755.pdf"
+    }
+   ],
+   "text": "Section 2(a) of this Act establishes the Atomic Energy Commission and section 10 gives it the born-secret regime the Commission then ran for twenty-eight years.",
+   "tier": 1,
+   "type": "legislative"
+  },
+  "e-04ec404a1a": {
+   "endpoints": [
+    {
+     "id": "mit-lincoln-laboratory",
+     "label": "MIT Lincoln Laboratory"
+    },
+    {
+     "id": "af-atic-film-0352",
+     "label": "AF-ATIC-FILM, 03/52 ('flying saucer talk')"
+    }
+   ],
+   "id": "e-04ec404a1a",
+   "kind": "edge",
+   "label": "Holds the March 1952 Ruppelt 'flying saucer talk' recording",
+   "sources": [
+    {
+     "date": "2026-06-25",
+     "name": "Cybernews",
+     "url": "https://cybernews.com/news/burlison-ufo-uap-project-blue/"
+    }
+   ],
+   "text": "By 25 June 2026 Burlison announced the laboratory had agreed to disclose it - the first FFRDC-held UAP record obtained by Congress by naming the file.",
+   "tier": 2,
+   "type": "custody"
+  },
+  "e-113ead19a6": {
+   "endpoints": [
+    {
+     "id": "samantha-ravich",
+     "label": "Samantha F. Ravich"
+    },
+    {
+     "id": "mitre-corporation",
+     "label": "The MITRE Corporation"
+    }
+   ],
+   "id": "e-113ead19a6",
+   "kind": "edge",
+   "label": "Elected to MITRE's Board of Trustees, 19 May 2026",
+   "sources": [
+    {
+     "date": "2026-05-19",
+     "name": "MITRE news release",
+     "url": "https://www.mitre.org/news-insights/news-release/mitre-names-samantha-ravich-phd-board-trustees"
+    }
+   ],
+   "text": "Elected three days before the Burlison production request was sent; former vice chair of the President's Intelligence Advisory Board.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-168f8298c2": {
+   "endpoints": [
+    {
+     "id": "robert-everett",
+     "label": "Robert R. Everett"
+    },
+    {
+     "id": "mitre-corporation",
+     "label": "The MITRE Corporation"
+    }
+   ],
+   "id": "e-168f8298c2",
+   "kind": "edge",
+   "label": "First technical director; carried SAGE engineering authority across from MIT",
+   "sources": [
+    {
+     "date": "2026-08-12",
+     "name": "MITRE SAGE timeline",
+     "url": "https://sage.mitre.org/timeline/"
+    }
+   ],
+   "text": "Everett joined MITRE at incorporation as first technical director and later became its president.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-1bec0312ef": {
+   "endpoints": [
+    {
+     "id": "mitre-corporation",
+     "label": "The MITRE Corporation"
+    },
+    {
+     "id": "mitre-nsec",
+     "label": "National Security Engineering Center (NSEC)"
+    }
+   ],
+   "id": "e-1bec0312ef",
+   "kind": "edge",
+   "label": "MITRE operates NSEC for the Under Secretary of Defense for Research and Engineering",
+   "sources": [
+    {
+     "date": "2022-03-03",
+     "name": "MITRE NSEC fact sheet",
+     "url": "https://www.mitre.org/news-insights/fact-sheet/national-security-engineering-center"
+    },
+    {
+     "date": "2026-08-12",
+     "name": "USAspending.gov award records",
+     "url": "https://www.usaspending.gov/award/CONT_AWD_W56KGU24F0010_9700_W56KGU18D0004_9700"
+    }
+   ],
+   "text": "NSEC is MITRE's only DoD/IC-sponsored FFRDC, funded at roughly $1.43 billion in FY2024 and executed through Army task orders under IDIQ W56KGU18D0004.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-214af5f137": {
+   "endpoints": [
+    {
+     "id": "gerb-battelle-investigation",
+     "label": "UAP Gerb - Battelle Memorial Institute investigation"
+    },
+    {
+     "id": "battelle",
+     "label": "Battelle Memorial Institute"
+    }
+   ],
+   "id": "e-214af5f137",
+   "kind": "edge",
+   "label": "Alleges Battelle studied Roswell-derived shape-memory alloy",
+   "sources": [
+    {
+     "date": "2024-02-18",
+     "name": "UAP Gerb - Battelle Memorial Institute investigation",
+     "url": "https://www.youtube.com/watch?v=tISTJRPOqFo"
+    }
+   ],
+   "text": "Gerb argues, following Jacques Vallee's paper trail, that Battelle studied a shape-memory metallic alloy recovered at Roswell now referred to as nitinol, while also building the USAF's machine index of UFO reports and helping quell public interest.",
+   "tier": 2,
+   "type": "institutional"
+  },
+  "e-25c09fade4": {
+   "endpoints": [
+    {
+     "id": "af-atic-film-0352",
+     "label": "AF-ATIC-FILM, 03/52 ('flying saucer talk')"
+    },
+    {
+     "id": "beacon-hill-study",
+     "label": "Project Beacon Hill"
+    }
+   ],
+   "id": "e-25c09fade4",
+   "kind": "edge",
+   "label": "The briefing was given into the 1952 Beacon Hill reconnaissance study circle",
+   "sources": [
+    {
+     "date": "2026-05-26",
+     "name": "Burlison press release",
+     "url": "https://burlison.house.gov/media/press-releases/burlison-presses-mitre-answers-uap-records-ffrdc-accountability-and-compliance"
+    }
+   ],
+   "text": "Burlison's press release names both items together; the inference is that Blue Book briefed the group designing US strategic aerial reconnaissance. No minutes produced.",
+   "tier": 3,
+   "type": "programmatic"
+  },
+  "e-318766f210": {
+   "endpoints": [
+    {
+     "id": "gerb-mitre-investigation",
+     "label": "UAP Gerb - The MITRE Corporation investigation"
+    },
+    {
+     "id": "mitre-corporation",
+     "label": "The MITRE Corporation"
+    }
+   ],
+   "id": "e-318766f210",
+   "kind": "edge",
+   "label": "Alleges MITRE has held a Navy legacy reverse-engineering role since 1958",
+   "sources": [
+    {
+     "date": "2026-08-07",
+     "name": "UAP Gerb, YouTube",
+     "url": "https://www.youtube.com/watch?v=107BtDYhTkA"
+    }
+   ],
+   "text": "Allegations include exploitation of non-human technologies from late-1940s recoveries and all-source processing of data on a very large Atlantic USO; no primary document has been produced.",
+   "tier": 2,
+   "type": "investigative"
+  },
+  "e-366f9ac88b": {
+   "endpoints": [
+    {
+     "id": "eric-burlison",
+     "label": "Eric Burlison"
+    },
+    {
+     "id": "burlison-mitre-letter-2026",
+     "label": "Rep. Burlison records demand to MITRE, 22 May 2026"
+    }
+   ],
+   "id": "e-366f9ac88b",
+   "kind": "edge",
+   "label": "Author of the 22 May 2026 records demand",
+   "sources": [
+    {
+     "date": "2026-05-27",
+     "name": "DefenseScoop: MITRE moves to comply with lawmaker's request for UAP records and assets dating back to 1930",
+     "url": "https://defensescoop.com/2026/05/27/rep-eric-burlison-request-for-uap-records-mitre/"
+    }
+   ],
+   "text": "Ten pages, more than forty requests, records back to 1930, 45-day deadline, native electronic format with complete metadata.",
+   "tier": 1,
+   "type": "investigative"
+  },
+  "e-48f682bb07": {
+   "endpoints": [
+    {
+     "id": "donald-kerr",
+     "label": "Donald M. Kerr"
+    },
+    {
+     "id": "mitre-corporation",
+     "label": "The MITRE Corporation"
+    }
+   ],
+   "id": "e-48f682bb07",
+   "kind": "edge",
+   "label": "Chairman of MITRE's Board of Trustees from November 2018",
+   "sources": [
+    {
+     "date": "2018-11-06",
+     "name": "WashingtonExec",
+     "url": "https://washingtonexec.com/2018/11/mitre-board-of-trustees-members-elect-former-rep-mike-rogers-vice-chairman/"
+    }
+   ],
+   "text": "Former director of Los Alamos National Laboratory, former director of the National Reconnaissance Office, former PDDNI - elected chairman at the same meeting that made Mike Rogers vice chairman.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-50fd21e56f": {
+   "endpoints": [
+    {
+     "id": "charles-a-richard",
+     "label": "Charles A. Richard"
+    },
+    {
+     "id": "ida",
+     "label": "Institute for Defense Analyses"
+    }
+   ],
+   "id": "e-50fd21e56f",
+   "kind": "edge",
+   "label": "President of IDA after commanding US Strategic Command",
+   "sources": [
+    {
+     "date": "2026-08-12",
+     "name": "IDA leadership page",
+     "url": "https://www.ida.org/about-ida/leadership"
+    }
+   ],
+   "text": "His STRATCOM tenure, 2019-2022, coincides exactly with the UAP Task Force period and the establishment of AARO.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-5602b65df4": {
+   "endpoints": [
+    {
+     "id": "jason-advisory-group",
+     "label": "JASON"
+    },
+    {
+     "id": "doe",
+     "label": "United States Department of Energy"
+    }
+   ],
+   "id": "e-5602b65df4",
+   "kind": "edge",
+   "label": "NNSA rescued and now sponsors JASON after DoD declined renewal",
+   "sources": [
+    {
+     "date": "2019-04-11",
+     "name": "Defense News, 11 April 2019",
+     "url": "https://www.defensenews.com/pentagon/2019/04/11/pentagon-confirms-it-is-ending-the-jason-advisory-contract-but-groups-work-may-continue/"
+    },
+    {
+     "date": "2019-04-24",
+     "name": "Science (AAAS)",
+     "url": "https://www.science.org/content/article/jason-advisory-group-prepares-shut-down-us-contract-extension-seems-unlikely"
+    }
+   ],
+   "text": "On 25-26 April 2019 NNSA issued a notice of intent to award a short-term sole source contract to MITRE for JASON management and logistics support, two weeks after OUSD(R&E) confirmed it was ending the contract.",
+   "tier": 1,
+   "type": "funding"
+  },
+  "e-56c072c9ea": {
+   "endpoints": [
+    {
+     "id": "eric-burlison",
+     "label": "Eric Burlison"
+    },
+    {
+     "id": "mit-lincoln-laboratory",
+     "label": "MIT Lincoln Laboratory"
+    }
+   ],
+   "id": "e-56c072c9ea",
+   "kind": "edge",
+   "label": "8 May 2026 letter demanding the 1952 Ruppelt recording by file designation",
+   "sources": [
+    {
+     "date": "2026-05-08",
+     "name": "Burlison press release",
+     "url": "https://burlison.house.gov/media/press-releases/burlison-requests-review-identified-1952-uap-recording"
+    }
+   ],
+   "text": "Burlison asked Lincoln Laboratory to determine the status of 'AF-ATIC-FILM, 03/52' and coordinate with NARA on preservation and archival review.",
+   "tier": 1,
+   "type": "investigative"
+  },
+  "e-58a94cc465": {
+   "endpoints": [
+    {
+     "id": "burlison-mitre-letter-2026",
+     "label": "Rep. Burlison records demand to MITRE, 22 May 2026"
+    },
+    {
+     "id": "pursue-releases",
+     "label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters"
+    }
+   ],
+   "id": "e-58a94cc465",
+   "kind": "edge",
+   "label": "Framed as enforcement of the records identified for public release under the 2026 disclosure push",
+   "sources": [
+    {
+     "date": "2026-05-26",
+     "name": "Burlison press release",
+     "url": "https://burlison.house.gov/media/press-releases/burlison-presses-mitre-answers-uap-records-ffrdc-accountability-and-compliance"
+    }
+   ],
+   "text": "Burlison ties the demand to records 'Congress has directed to be identified, preserved, reviewed, and transferred for public release', naming NARA and Record Group 615.",
+   "tier": 1,
+   "type": "legislative"
+  },
+  "e-5e66467b04": {
+   "endpoints": [
+    {
+     "id": "ross-coulthart",
+     "label": "Ross Coulthart"
+    },
+    {
+     "id": "uap-gerb",
+     "label": "'UAP Gerb' (Sam)"
+    }
+   ],
+   "id": "e-5e66467b04",
+   "kind": "edge",
+   "label": "Coulthart platformed Gerb on Reality Check and endorsed his claims on air",
+   "sources": [
+    {
+     "date": "2026-08-04",
+     "name": "NewsNation Reality Check - 'Inside Kona Blue'",
+     "url": "https://www.youtube.com/watch?v=F2NfXgv8x1E"
+    },
+    {
+     "date": "2026-02-01",
+     "name": "NewsNation - 'I think he's on the money'",
+     "url": "https://www.youtube.com/watch?v=z4tCLZc37cg"
+    }
+   ],
+   "text": "NewsNation published 'Ross Coulthart on UAP Gerb's claims: I think he's on the money' in early 2026 and ran a multi-part Reality Check series with Gerb culminating in the 4 August 2026 Kona Blue episode, 176,430 views.",
+   "tier": 2,
+   "type": "investigative"
+  },
+  "e-771cf1b726": {
+   "endpoints": [
+    {
+     "id": "atomic-energy-commission",
+     "label": "Atomic Energy Commission"
+    },
+    {
+     "id": "doe",
+     "label": "United States Department of Energy"
+    }
+   ],
+   "id": "e-771cf1b726",
+   "kind": "edge",
+   "label": "Abolished 1974; functions passed through ERDA to the Department of Energy",
+   "sources": [
+    {
+     "date": "1974-10-11",
+     "name": "Energy Reorganization Act of 1974, sec. 104(a)",
+     "url": "https://www.govinfo.gov/content/pkg/STATUTE-88/pdf/STATUTE-88-Pg1233.pdf"
+    },
+    {
+     "date": "2026-09-02",
+     "name": "Records of the Atomic Energy Commission, Record Group 326, Guide to Federal Records in the National Archives",
+     "url": "https://www.archives.gov/research/guide-fed-records/groups/326.html"
+    }
+   ],
+   "text": "The Energy Reorganization Act of 1974 abolished the Commission and vested its functions in the ERDA Administrator, and the NARA record group description names the Department of Energy as the eventual holder of the research, development and production functions.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-7956425c5c": {
+   "endpoints": [
+    {
+     "id": "rand-corporation",
+     "label": "RAND Corporation"
+    },
+    {
+     "id": "george-kocher",
+     "label": "George Kocher"
+    }
+   ],
+   "id": "e-7956425c5c",
+   "kind": "edge",
+   "label": "Published Kocher's 'UFOs: What To Do?' as DRU-1571, November 1968",
+   "sources": [
+    {
+     "date": "1968-11-01",
+     "name": "RAND DRU-1571",
+     "url": "https://www.rand.org/pubs/drafts/DRU1571.html"
+    }
+   ],
+   "text": "Issued two months before the Condon Committee report told the public the subject was closed; RAND has never withdrawn it.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-79750c2513": {
+   "endpoints": [
+    {
+     "id": "mark-peters",
+     "label": "Mark Todd Peters"
+    },
+    {
+     "id": "battelle",
+     "label": "Battelle Memorial Institute"
+    }
+   ],
+   "id": "e-79750c2513",
+   "kind": "edge",
+   "label": "Came to MITRE directly from Battelle's executive suite",
+   "sources": [
+    {
+     "date": "2026-08-12",
+     "name": "MITRE - Mark Peters biography",
+     "url": "https://www.mitre.org/who-we-are/our-people/mark-peters"
+    },
+    {
+     "date": "2024-06-27",
+     "name": "Virginia Business",
+     "url": "https://virginiabusiness.com/mclean-based-mitre-names-new-president-and-ceo/"
+    }
+   ],
+   "text": "Peters was executive vice president for laboratory management and operations at Battelle Memorial Institute and previously president of Battelle Energy Alliance LLC and director of Idaho National Laboratory.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-84051883d6": {
+   "endpoints": [
+    {
+     "id": "gerb-nro-investigation",
+     "label": "UAP Gerb - National Reconnaissance Office investigation"
+    },
+    {
+     "id": "nro",
+     "label": "National Reconnaissance Office"
+    }
+   ],
+   "id": "e-84051883d6",
+   "kind": "edge",
+   "label": "Alleges NRO mission support to crash retrieval teams and a NTTR-based team",
+   "sources": [
+    {
+     "date": "2025-12-13",
+     "name": "UAP Gerb - NRO investigation",
+     "url": "https://www.youtube.com/watch?v=GM1Qx9vuo2c"
+    }
+   ],
+   "text": "Gerb alleges direct NRO mission support to legacy crash-retrieval teams and that in the 21st century the NRO spearheaded a retrieval team stationed out of the Nevada Test and Training Range.",
+   "tier": 2,
+   "type": "institutional"
+  },
+  "e-84f69e61f4": {
+   "endpoints": [
+    {
+     "id": "gerb-mitre-investigation",
+     "label": "UAP Gerb - The MITRE Corporation investigation"
+    },
+    {
+     "id": "mitre-corporation",
+     "label": "The MITRE Corporation"
+    }
+   ],
+   "id": "e-84f69e61f4",
+   "kind": "edge",
+   "label": "Names MITRE as the central FFRDC node of the legacy portfolio",
+   "sources": [
+    {
+     "date": "2026-08-07",
+     "name": "UAP Gerb - The MITRE Corporation investigation",
+     "url": "https://www.youtube.com/watch?v=107BtDYhTkA"
+    }
+   ],
+   "text": "The investigation alleges MITRE's founding in 1958 carried a hidden second impetus beyond SAGE systems engineering: constructing a trusted long-term partner answerable only to its DoD customer to spearhead reverse engineering of recovered craft.",
+   "tier": 2,
+   "type": "institutional"
+  },
+  "e-86c2ba4a4c": {
+   "endpoints": [
+    {
+     "id": "burlison-mitre-letter-2026",
+     "label": "Rep. Burlison records demand to MITRE, 22 May 2026"
+    },
+    {
+     "id": "mitre-corporation",
+     "label": "The MITRE Corporation"
+    }
+   ],
+   "id": "e-86c2ba4a4c",
+   "kind": "edge",
+   "label": "Demands production of all MITRE UAP and reverse-engineering records back to 1930",
+   "sources": [
+    {
+     "date": "2026-05-27",
+     "name": "DefenseScoop: MITRE moves to comply with lawmaker's request for UAP records and assets dating back to 1930",
+     "url": "https://defensescoop.com/2026/05/27/rep-eric-burlison-request-for-uap-records-mitre/"
+    },
+    {
+     "date": "2026-05-29",
+     "name": "MeriTalk",
+     "url": "https://www.meritalk.com/articles/rep-burlison-presses-mitre-to-produce-uap-records/"
+    }
+   ],
+   "text": "MITRE confirmed it was reviewing its archives and said it would 'coordinate with the federal agencies responsible for the work to determine how to best provide any assets.'",
+   "tier": 1,
+   "type": "investigative"
+  },
+  "e-8b16fbadbc": {
+   "endpoints": [
+    {
+     "id": "sue-gordon",
+     "label": "Susan M. Gordon"
+    },
+    {
+     "id": "mitre-corporation",
+     "label": "The MITRE Corporation"
+    }
+   ],
+   "id": "e-8b16fbadbc",
+   "kind": "edge",
+   "label": "Vice chair of MITRE's Board of Trustees from 31 October 2023",
+   "sources": [
+    {
+     "date": "2023-10-31",
+     "name": "Potomac Officers Club",
+     "url": "https://www.potomacofficersclub.com/mitre-trustees-board-elects-former-national-intelligence-deputy-director-as-vice-chair/"
+    }
+   ],
+   "text": "Former Principal Deputy Director of National Intelligence, elected vice chair three months after the July 2023 House Oversight UAP hearing.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-8cd6da1fe2": {
+   "endpoints": [
+    {
+     "id": "jesse-michels",
+     "label": "Jesse Michels"
+    },
+    {
+     "id": "uap-gerb",
+     "label": "'UAP Gerb' (Sam)"
+    }
+   ],
+   "id": "e-8cd6da1fe2",
+   "kind": "edge",
+   "label": "Michels platformed UAP Gerb twice for multi-hour structural interviews",
+   "sources": [
+    {
+     "date": "2026-01-11",
+     "name": "American Alchemy - 'The Pentagon's UFO Program Is Real [Here's How It Works!]'",
+     "url": "https://www.youtube.com/watch?v=u7g5Sn1DJF4"
+    },
+    {
+     "date": "2025-02-21",
+     "name": "American Alchemy - 'UAPGerb: The New Area51 Is HERE in Utah!'",
+     "url": "https://www.youtube.com/watch?v=nTiFs8LudUo"
+    }
+   ],
+   "text": "Michels published 'UAPGerb: The New Area51 Is HERE in Utah!' on 21 February 2025 (450,091 views) and the three-hour structural episode 'The Pentagon's UFO Program Is Real [Here's How It Works!]' on 11 January 2026 (514,729 views). These two episodes are the primary public exposition of Gerb's structural model.",
+   "tier": 2,
+   "type": "investigative"
+  },
+  "e-93bc8e9953": {
+   "endpoints": [
+    {
+     "id": "ida",
+     "label": "Institute for Defense Analyses"
+    },
+    {
+     "id": "d-ffrdc",
+     "label": "The FFRDC Seam"
+    }
+   ],
+   "id": "e-93bc8e9953",
+   "kind": "edge",
+   "label": "Operates the only FFRDC sponsored by the National Security Agency",
+   "sources": [
+    {
+     "date": "2026-08-12",
+     "name": "NSF NCSES FFRDC master list",
+     "url": "https://ncses.nsf.gov/resource/master-gov-lists-ffrdc"
+    }
+   ],
+   "text": "IDA's Center for Communications and Computing is sponsored by NSA/CSS - the least publicly visible FFRDC in the country and the hardest for a committee to reach.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-93cf33cac5": {
+   "endpoints": [
+    {
+     "id": "manhattan-project-2",
+     "label": "'Manhattan Project 2.0' (alleged secrecy architecture)"
+    },
+    {
+     "id": "doe",
+     "label": "United States Department of Energy"
+    }
+   ],
+   "id": "e-93cf33cac5",
+   "kind": "edge",
+   "label": "Alleges custody of recovered disks vested in AEC national laboratories",
+   "sources": [
+    {
+     "date": "2026-05-01",
+     "name": "UAP Gerb - 'The Manhattan Project 2.0' Vol.1",
+     "url": "https://www.youtube.com/watch?v=jR-h5p2bd-A"
+    },
+    {
+     "date": "2026-06-19",
+     "name": "UAP Gerb - 'Special Access Required' Vol.2",
+     "url": "https://www.youtube.com/watch?v=6MsmPrpQqa8"
+    }
+   ],
+   "text": "Gerb argues Truman and Eisenhower placed recovered material inside Atomic Energy Commission laboratories - the institutional ancestors of today's DOE national labs - to obtain the Atomic Energy Act's statutory protections.",
+   "tier": 2,
+   "type": "custody"
+  },
+  "e-9a05286170": {
+   "endpoints": [
+    {
+     "id": "jhuapl",
+     "label": "Johns Hopkins University Applied Physics Laboratory"
+    },
+    {
+     "id": "d-ffrdc",
+     "label": "The FFRDC Seam"
+    }
+   ],
+   "id": "e-9a05286170",
+   "kind": "edge",
+   "label": "A UARC, not an FFRDC - the unexamined branch of the same mechanism",
+   "sources": [
+    {
+     "date": "2026-08-12",
+     "name": "NSF NCSES FFRDC master list",
+     "url": "https://ncses.nsf.gov/resource/master-gov-lists-ffrdc"
+    }
+   ],
+   "text": "University Affiliated Research Centers carry FFRDC-like access without the FAR 35.017 sponsoring-agreement regime or NSF master-list registration; no congressional UAP letter has gone to one.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-9b535997a6": {
+   "endpoints": [
+    {
+     "id": "gerb-northrop-trw-investigation",
+     "label": "UAP Gerb - Northrop Grumman & TRW investigation (Vol.2)"
+    },
+    {
+     "id": "northrop-grumman",
+     "label": "Northrop Grumman Corporation"
+    }
+   ],
+   "id": "e-9b535997a6",
+   "kind": "edge",
+   "label": "Alleges IRAD self-funding of a breakaway programme after 9/11",
+   "sources": [
+    {
+     "date": "2026-03-20",
+     "name": "UAP Gerb - Northrop Grumman & TRW Vol.2",
+     "url": "https://www.youtube.com/watch?v=0kLSp0lH-JQ"
+    }
+   ],
+   "text": "The specific financial allegation: that Northrop used Independent Research and Development funds at the onset of the War on Terror to self-fund retrieval and exploitation, becoming unaccountable to its original government handler. IRAD is contractor-directed and only indirectly reimbursed, which makes it the mechanism that would allow exactly this.",
+   "tier": 2,
+   "type": "funding"
+  },
+  "e-9c9d5b18c9": {
+   "endpoints": [
+    {
+     "id": "eric-davis",
+     "label": "Eric W. Davis"
+    },
+    {
+     "id": "aerospace-corporation",
+     "label": "The Aerospace Corporation"
+    }
+   ],
+   "id": "e-9c9d5b18c9",
+   "kind": "edge",
+   "label": "Employed by the FFRDC operator at the time of the 2019-2020 briefings",
+   "sources": [
+    {
+     "date": "2020-07-23",
+     "name": "Ralph Blumenthal, 'No Longer in the Shadows, Pentagon's U.F.O. Unit Will Make Some Findings Public', The New York Times",
+     "url": "https://www.nytimes.com/2020/07/23/us/politics/pentagon-ufo-harry-reid-navy.html"
+    }
+   ],
+   "text": "The New York Times identified Davis as working for Aerospace Corp. when reporting his classified briefings on retrievals. The corporation has never publicly addressed whether it had any institutional role.",
+   "tier": 2,
+   "type": "institutional"
+  },
+  "e-9f02974d7c": {
+   "endpoints": [
+    {
+     "id": "gerb-mitre-investigation",
+     "label": "UAP Gerb - The MITRE Corporation investigation"
+    },
+    {
+     "id": "mitre-corporation",
+     "label": "The MITRE Corporation"
+    }
+   ],
+   "id": "e-9f02974d7c",
+   "kind": "edge",
+   "label": "Alleged 2011 restriction on historical briefings about program incumbents",
+   "sources": [
+    {
+     "date": "2026-08-07",
+     "name": "UAP Gerb - The MITRE Corporation investigation",
+     "url": "https://www.youtube.com/watch?v=107BtDYhTkA"
+    }
+   ],
+   "text": "A policy act alleged to prevent even cleared personnel from being briefed on the programme's own history - concealment directed inward at the programme's own workforce rather than outward at the public.",
+   "tier": 2,
+   "type": "denial"
+  },
+  "e-a0be98d14f": {
+   "endpoints": [
+    {
+     "id": "atomic-energy-act-1946",
+     "label": "Atomic Energy Act of 1946 (McMahon Act)"
+    },
+    {
+     "id": "manhattan-project-2",
+     "label": "'Manhattan Project 2.0' (alleged secrecy architecture)"
+    }
+   ],
+   "id": "e-a0be98d14f",
+   "kind": "edge",
+   "label": "Statutory transfer of the Manhattan Engineer District's holdings and its cleared people",
+   "sources": [
+    {
+     "date": "1946-08-01",
+     "name": "Atomic Energy Act of 1946, secs. 9(a) and 10(b)(5)(B)(iii)",
+     "url": "https://www.govinfo.gov/content/pkg/STATUTE-60/pdf/STATUTE-60-Pg755.pdf"
+    }
+   ],
+   "text": "Section 9(a) directs the transfer of all fissionable material, all atomic weapons and parts and all processes and technical information, and section 10(b)(5)(B)(iii) lets anyone the Manhattan Engineer District had already cleared keep access pending the new investigation.",
+   "tier": 1,
+   "type": "custody"
+  },
+  "e-a4de721608": {
+   "endpoints": [
+    {
+     "id": "mark-peters",
+     "label": "Mark Todd Peters"
+    },
+    {
+     "id": "mitre-corporation",
+     "label": "The MITRE Corporation"
+    }
+   ],
+   "id": "e-a4de721608",
+   "kind": "edge",
+   "label": "President and CEO from 3 September 2024",
+   "sources": [
+    {
+     "date": "2024-06-27",
+     "name": "MITRE news release",
+     "url": "https://www.mitre.org/news-insights/news-release/mark-peters-named-new-mitre-president-and-ceo"
+    }
+   ],
+   "text": "Announced 27 June 2024 as MITRE's 10th president and CEO; the executive to whom Burlison's May 2026 request was ultimately addressed.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-afd271ba21": {
+   "endpoints": [
+    {
+     "id": "uap-gerb",
+     "label": "'UAP Gerb' (Sam)"
+    },
+    {
+     "id": "manhattan-project-2",
+     "label": "'Manhattan Project 2.0' (alleged secrecy architecture)"
+    }
+   ],
+   "id": "e-afd271ba21",
+   "kind": "edge",
+   "label": "Gerb constructed and named the Manhattan Project 2.0 model",
+   "sources": [
+    {
+     "date": "2026-05-01",
+     "name": "UAP Gerb - 'The Manhattan Project 2.0' Vol.1",
+     "url": "https://www.youtube.com/watch?v=jR-h5p2bd-A"
+    },
+    {
+     "date": "2026-06-19",
+     "name": "UAP Gerb - 'Special Access Required' Vol.2",
+     "url": "https://www.youtube.com/watch?v=6MsmPrpQqa8"
+    }
+   ],
+   "text": "Set out across two investigations, 1 May and 19 June 2026, covering the 1947 founding, AEC custody, the NSC 5412 Committee, the Atomic Energy Act of 1954, the 1980s fracture, the 1994 SAP restructuring and modern Non-Covert Action Programs.",
+   "tier": 2,
+   "type": "investigative"
+  },
+  "e-b363c2a62a": {
+   "endpoints": [
+    {
+     "id": "dana-keoki-jackson",
+     "label": "Dana (Keoki) Jackson"
+    },
+    {
+     "id": "mitre-nsec",
+     "label": "National Security Engineering Center (NSEC)"
+    }
+   ],
+   "id": "e-b363c2a62a",
+   "kind": "edge",
+   "label": "Runs MITRE National Security, the organisation containing NSEC",
+   "sources": [
+    {
+     "date": "2026-08-12",
+     "name": "MITRE - Our Leadership",
+     "url": "https://www.mitre.org/who-we-are/our-people/our-leadership"
+    }
+   ],
+   "text": "Any MITRE holdings on Special and Controlled Access Programs, materials analysis or classification guides would sit inside his organisation.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-b59a123e87": {
+   "endpoints": [
+    {
+     "id": "mitre-corporation",
+     "label": "The MITRE Corporation"
+    },
+    {
+     "id": "d-ffrdc",
+     "label": "The FFRDC Seam"
+    }
+   ],
+   "id": "e-b59a123e87",
+   "kind": "edge",
+   "label": "MITRE is the largest single operator of the FFRDC form",
+   "sources": [
+    {
+     "date": "2026-08-12",
+     "name": "NSF NCSES Master Government List of FFRDCs",
+     "url": "https://ncses.nsf.gov/resource/master-gov-lists-ffrdc"
+    }
+   ],
+   "text": "MITRE operates six of the 41 FFRDCs recorded by NSF, spanning defence/intelligence, aviation, tax, health, homeland security and cybersecurity sponsors - the widest sponsor spread of any operator.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-b6a656addb": {
+   "endpoints": [
+    {
+     "id": "mitre-corporation",
+     "label": "The MITRE Corporation"
+    },
+    {
+     "id": "burlison-mitre-letter-2026",
+     "label": "Rep. Burlison records demand to MITRE, 22 May 2026"
+    }
+   ],
+   "id": "e-b6a656addb",
+   "kind": "edge",
+   "label": "MITRE routes the answer back through its sponsoring agencies",
+   "sources": [
+    {
+     "date": "2026-05-27",
+     "name": "DefenseScoop",
+     "url": "https://defensescoop.com/2026/05/27/rep-eric-burlison-request-for-uap-records-mitre/"
+    }
+   ],
+   "text": "A MITRE spokesperson said that if any relevant material is found, 'we will coordinate with the federal agencies responsible for the work' - restating the FAR structure under which disclosure runs to the sponsor, not to Congress.",
+   "tier": 1,
+   "type": "denial"
+  },
+  "e-b70aa5a041": {
+   "endpoints": [
+    {
+     "id": "david-grusch",
+     "label": "David Charles Grusch"
+    },
+    {
+     "id": "burlison-mitre-letter-2026",
+     "label": "Rep. Burlison records demand to MITRE, 22 May 2026"
+    }
+   ],
+   "id": "e-b70aa5a041",
+   "kind": "edge",
+   "label": "The letter reflects concerns raised by whistleblowers alleging contractor-held programmes",
+   "sources": [
+    {
+     "date": "2026-05-27",
+     "name": "DefenseScoop",
+     "url": "https://defensescoop.com/2026/05/27/rep-eric-burlison-request-for-uap-records-mitre/"
+    }
+   ],
+   "text": "DefenseScoop reports the correspondence reflects whistleblower concerns; Grusch's central allegation is that programmes were compartmented inside private entities beyond congressional oversight.",
+   "tier": 1,
+   "type": "witness-chain"
+  },
+  "e-b710c1fa88": {
+   "endpoints": [
+    {
+     "id": "manhattan-project-2",
+     "label": "'Manhattan Project 2.0' (alleged secrecy architecture)"
+    },
+    {
+     "id": "sandia",
+     "label": "Sandia National Laboratories"
+    }
+   ],
+   "id": "e-b710c1fa88",
+   "kind": "edge",
+   "label": "Sandia named as an AEC-lineage custodial laboratory",
+   "sources": [
+    {
+     "date": "2025-11-01",
+     "name": "UAP Gerb - Sandia investigation",
+     "url": "https://www.youtube.com/watch?v=mHkPHd_eOXI"
+    }
+   ],
+   "text": "Gerb's Sandia investigation of 1 November 2025 supplies the named-institution case for the AEC-custody thesis, citing Edgar Fouche and former New Mexico State Representative J. Andrew Kissner.",
+   "tier": 2,
+   "type": "custody"
+  },
+  "e-b7588a393c": {
+   "endpoints": [
+    {
+     "id": "mitre-corporation",
+     "label": "The MITRE Corporation"
+    },
+    {
+     "id": "jason-advisory-group",
+     "label": "JASON"
+    }
+   ],
+   "id": "e-b7588a393c",
+   "kind": "edge",
+   "label": "MITRE has administered JASON since 2002",
+   "sources": [
+    {
+     "date": "2019-04-25",
+     "name": "Defense News, 25 April 2019",
+     "url": "https://www.defensenews.com/smr/nuclear-arsenal/2019/04/25/nuclear-weapons-agency-moves-to-save-jason-advisory-group/"
+    },
+    {
+     "date": "2020-12-01",
+     "name": "Bloomberg Government",
+     "url": "https://about.bgov.com/insights/news/pentagons-advisory-group-jason-survives-another-competition/"
+    }
+   ],
+   "text": "MITRE provides management and logistics for the government's most sensitive standing scientific advisory panel; the contract was saved by an NNSA sole-source award in April 2019 after DoD declined renewal.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-b82f635ae3": {
+   "endpoints": [
+    {
+     "id": "gerb-mitre-investigation",
+     "label": "UAP Gerb - The MITRE Corporation investigation"
+    },
+    {
+     "id": "oni",
+     "label": "Office of Naval Intelligence"
+    }
+   ],
+   "id": "e-b82f635ae3",
+   "kind": "edge",
+   "label": "Alleges MITRE support to two Navy-spearheaded legacy programs",
+   "sources": [
+    {
+     "date": "2026-08-07",
+     "name": "UAP Gerb - The MITRE Corporation investigation",
+     "url": "https://www.youtube.com/watch?v=107BtDYhTkA"
+    }
+   ],
+   "text": "The two alleged programs: reverse engineering and maturation of technologies from late-1940s recoveries, and tracking of a large USO with semi-permanent Atlantic station, with all-source data processed by MITRE. Gerb notes the oddity that MITRE was founded by and modelled on USAF structures yet is intimately involved in Navy secret programs.",
+   "tier": 2,
+   "type": "programmatic"
+  },
+  "e-c333c1f34b": {
+   "endpoints": [
+    {
+     "id": "jason-providakes",
+     "label": "Jason Providakes"
+    },
+    {
+     "id": "mitre-corporation",
+     "label": "The MITRE Corporation"
+    }
+   ],
+   "id": "e-c333c1f34b",
+   "kind": "edge",
+   "label": "President and CEO through the entire modern disclosure sequence, 2017-2024",
+   "sources": [
+    {
+     "date": "2024-06-27",
+     "name": "MITRE news release",
+     "url": "https://www.mitre.org/news-insights/news-release/mark-peters-named-new-mitre-president-and-ceo"
+    }
+   ],
+   "text": "His tenure spans the December 2017 AATIP revelation, the UAP Task Force, the 2021 ODNI assessment, AARO's creation, and the Grusch testimony - the period Burlison's request covers.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-c3fc1d3808": {
+   "endpoints": [
+    {
+     "id": "mitre-corporation",
+     "label": "The MITRE Corporation"
+    },
+    {
+     "id": "l-pax-river",
+     "label": "Naval Air Station Patuxent River, Maryland"
+    }
+   ],
+   "id": "e-c3fc1d3808",
+   "kind": "edge",
+   "label": "MITRE is named among the FFRDC and contractor ecosystem supporting NAVAIR programs at Pax River",
+   "sources": [
+    {
+     "date": "2026-01-13",
+     "name": "Christopher Sharp, 'UFO Allegedly Stored At East Coast Navy Facility As Material Transfer Claims Resurface,' Liberation Times",
+     "url": "https://www.liberationtimes.com/home/ufo-allegedly-stored-at-east-coast-navy-facility-as-material-transfer-claims-resurface"
+    }
+   ],
+   "text": "The FFRDC form grants privileged long-term access to classified holdings while barring manufacturing and competition; no allegation of custody attaches to MITRE.",
+   "tier": 2,
+   "type": "institutional"
+  },
+  "e-c59ac15387": {
+   "endpoints": [
+    {
+     "id": "eric-burlison",
+     "label": "Eric Burlison"
+    },
+    {
+     "id": "uapda-fy2027-house-adopted",
+     "label": "Unidentified Anomalous Phenomena Disclosure Act - Burlison amendment to the FY2027 NDAA"
+    }
+   ],
+   "id": "e-c59ac15387",
+   "kind": "edge",
+   "label": "author",
+   "sources": [
+    {
+     "date": "2026-07-22",
+     "name": "Burlison, House Adopts UAP Disclosure Framework",
+     "url": "https://burlison.house.gov/media/press-releases/house-adopts-burlison-amendment-establishing-uap-disclosure-framework"
+    },
+    {
+     "date": "2026-07-23",
+     "name": "NewsTalk KZRG - House approves Burlison amendment creating framework for UAP records disclosure",
+     "url": "https://www.newstalkkzrg.com/2026/07/23/house-approves-burlison-amendment-creating-framework-for-uap-records-disclosure/"
+    }
+   ],
+   "text": "The House adopted his Unidentified Anomalous Phenomena Disclosure Act amendment on 23 July 2026, creating a subpoena-empowered review board and contractor disclosure obligations.",
+   "tier": 1,
+   "type": "legislative"
+  },
+  "e-cbd7221922": {
+   "endpoints": [
+    {
+     "id": "eric-burlison",
+     "label": "Eric Burlison"
+    },
+    {
+     "id": "ndaa-fy2027-uap-amendment",
+     "label": "Burlison UAP Records Disclosure Amendment, FY2027 NDAA"
+    }
+   ],
+   "id": "e-cbd7221922",
+   "kind": "edge",
+   "label": "Author of the House-adopted UAP records disclosure amendment",
+   "sources": [
+    {
+     "date": "2026-07-23",
+     "name": "Newstalk KZRG",
+     "url": "https://www.newstalkkzrg.com/2026/07/23/house-approves-burlison-amendment-creating-framework-for-uap-records-disclosure/"
+    }
+   ],
+   "text": "Revised text designated Version 2 on 15 July 2026 and adopted as part of the FY2027 NDAA later that month.",
+   "tier": 1,
+   "type": "legislative"
+  },
+  "e-cd0fae33a2": {
+   "endpoints": [
+    {
+     "id": "harald-b-malmgren",
+     "label": "Harald B. Malmgren"
+    },
+    {
+     "id": "ida",
+     "label": "Institute for Defense Analyses"
+    }
+   ],
+   "id": "e-cd0fae33a2",
+   "kind": "edge",
+   "label": "Assigned to IDA during the Cuban Missile Crisis, on a family account",
+   "sources": [
+    {
+     "date": "2025-02-24",
+     "name": "Pippa Malmgren, biography of Harald Malmgren, Second Line of Defense",
+     "url": "https://sldinfo.com/2025/02/dr-harald-malmgren-passed/"
+    }
+   ],
+   "text": "The only source is the biography his daughter published after his death; no IDA or Defense Department personnel record was opened, so this edge must not render as documented.",
+   "tier": 2,
+   "type": "institutional"
+  },
+  "e-d20cdb2f9e": {
+   "endpoints": [
+    {
+     "id": "aerospace-corporation",
+     "label": "The Aerospace Corporation"
+    },
+    {
+     "id": "d-ffrdc",
+     "label": "The FFRDC Seam"
+    }
+   ],
+   "id": "e-d20cdb2f9e",
+   "kind": "edge",
+   "label": "Operates the only FFRDC dedicated exclusively to the space enterprise",
+   "sources": [
+    {
+     "date": "2026-08-12",
+     "name": "Aerospace Corporation",
+     "url": "https://aerospace.org/dedicated-space-enterprise"
+    },
+    {
+     "date": "2026-05-15",
+     "name": "CRS Report R44629",
+     "url": "https://www.everycrsreport.com/reports/R44629.html"
+    }
+   ],
+   "text": "Founded 1960 at Air Force insistence after the Ramo-Wooldridge conflict-of-interest problem; FY2024 funding approximately $1,309.8 million.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-d8bf46ae93": {
+   "endpoints": [
+    {
+     "id": "gerb-mitre-investigation",
+     "label": "UAP Gerb - The MITRE Corporation investigation"
+    },
+    {
+     "id": "burlison-mitre-letter-2026",
+     "label": "Rep. Burlison records demand to MITRE, 22 May 2026"
+    }
+   ],
+   "id": "e-d8bf46ae93",
+   "kind": "edge",
+   "label": "Published as declared support for the congressional inquiry opened 11 weeks earlier",
+   "sources": [
+    {
+     "date": "2026-08-07",
+     "name": "UAP Gerb, YouTube",
+     "url": "https://www.youtube.com/watch?v=107BtDYhTkA"
+    }
+   ],
+   "text": "Burlison's letter is dated 22 May 2026; the investigation was published 7 August 2026 and states it seeks to directly aid that inquiry.",
+   "tier": 2,
+   "type": "temporal"
+  },
+  "e-dab49b0f8e": {
+   "endpoints": [
+    {
+     "id": "mitre-corporation",
+     "label": "The MITRE Corporation"
+    },
+    {
+     "id": "mit-lincoln-laboratory",
+     "label": "MIT Lincoln Laboratory"
+    }
+   ],
+   "id": "e-dab49b0f8e",
+   "kind": "edge",
+   "label": "MITRE was spun out of Lincoln Laboratory Division 6 in 1958",
+   "sources": [
+    {
+     "date": "2026-08-12",
+     "name": "MITRE SAGE timeline",
+     "url": "https://sage.mitre.org/timeline/"
+    },
+    {
+     "date": "2026-08-12",
+     "name": "MIT Lincoln Laboratory SAGE history",
+     "url": "https://www.ll.mit.edu/about/history/sage-semi-automatic-ground-environment-air-defense-system"
+    }
+   ],
+   "text": "485 Lincoln Laboratory employees moved to the new corporation on incorporation, 21 July 1958, to continue SAGE systems engineering under Air Force sponsorship.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-dd08efa658": {
+   "endpoints": [
+    {
+     "id": "ndaa-fy2027-uap-amendment",
+     "label": "Burlison UAP Records Disclosure Amendment, FY2027 NDAA"
+    },
+    {
+     "id": "d-ffrdc",
+     "label": "The FFRDC Seam"
+    }
+   ],
+   "id": "e-dd08efa658",
+   "kind": "edge",
+   "label": "Would extend statutory disclosure to contractors holding covered records",
+   "sources": [
+    {
+     "date": "2026-07-23",
+     "name": "Newstalk KZRG",
+     "url": "https://www.newstalkkzrg.com/2026/07/23/house-approves-burlison-amendment-creating-framework-for-uap-records-disclosure/"
+    }
+   ],
+   "text": "The only proposed mechanism that would convert FFRDC holdings into records reachable by an independent review board with subpoena power, without sponsoring-agency consent.",
+   "tier": 1,
+   "type": "legislative"
+  },
+  "e-e74accccde": {
+   "endpoints": [
+    {
+     "id": "rob-jones",
+     "label": "Rob Jones"
+    },
+    {
+     "id": "uap-gerb",
+     "label": "'UAP Gerb' (Sam)"
+    }
+   ],
+   "id": "e-e74accccde",
+   "kind": "edge",
+   "label": "NewsNation research producer supplied gatekeeper leads to Gerb",
+   "sources": [
+    {
+     "date": "2026-05-12",
+     "name": "UAP Gerb Live - 12 May 2026",
+     "url": "https://www.youtube.com/watch?v=iAWD4irLMZM"
+    }
+   ],
+   "text": "Gerb's 12 May 2026 livestream describes 'details on a new alleged gatekeeper presented by NewsNation's Rob Jones', establishing a working research pipeline between the network desk and the independent investigator.",
+   "tier": 2,
+   "type": "investigative"
+  },
+  "e-f08517acb3": {
+   "endpoints": [
+    {
+     "id": "burlison-mitre-letter-2026",
+     "label": "Rep. Burlison records demand to MITRE, 22 May 2026"
+    },
+    {
+     "id": "far-35-017",
+     "label": "FAR 35.017 - Federally Funded Research and Development Centers"
+    }
+   ],
+   "id": "e-f08517acb3",
+   "kind": "edge",
+   "label": "The letter's legal theory rests on the FFRDC access provisions",
+   "sources": [
+    {
+     "date": "2026-05-29",
+     "name": "MeriTalk",
+     "url": "https://www.meritalk.com/articles/rep-burlison-presses-mitre-to-produce-uap-records/"
+    }
+   ],
+   "text": "Burlison argues FFRDCs 'often receive special access to government facilities, data, sponsor requirements, and sensitive technical information that ordinary private contractors may not receive' and therefore cannot be private vaults for federal records.",
+   "tier": 1,
+   "type": "legislative"
+  },
+  "e-fa12bdfb8c": {
+   "endpoints": [
+    {
+     "id": "newsnation-reality-check",
+     "label": "Reality Check with Ross Coulthart (NewsNation)"
+    },
+    {
+     "id": "ffrdc-mechanism",
+     "label": "The FFRDC / UARC / GOCO mechanism"
+    }
+   ],
+   "id": "e-fa12bdfb8c",
+   "kind": "edge",
+   "label": "Dedicated segment 'FFRDCs, U-Arcs, and GOCOs' at 17:00",
+   "sources": [
+    {
+     "date": "2026-08-04",
+     "name": "NewsNation Reality Check - 'Inside Kona Blue'",
+     "url": "https://www.youtube.com/watch?v=F2NfXgv8x1E"
+    }
+   ],
+   "text": "The 4 August 2026 episode gave the FFRDC/UARC/GOCO mechanism its own broadcast segment - the first time the corporate-containment thesis was treated as a discrete topic on US cable news.",
+   "tier": 2,
+   "type": "investigative"
+  },
+  "e-fb07405e7c": {
+   "endpoints": [
+    {
+     "id": "d-ffrdc",
+     "label": "The FFRDC Seam"
+    },
+    {
+     "id": "far-35-017",
+     "label": "FAR 35.017 - Federally Funded Research and Development Centers"
+    }
+   ],
+   "id": "e-fb07405e7c",
+   "kind": "edge",
+   "label": "FAR 35.017 is the regulation that creates the seam",
+   "sources": [
+    {
+     "date": "2026-05-15",
+     "name": "CRS Report R44629",
+     "url": "https://www.everycrsreport.com/reports/R44629.html"
+    }
+   ],
+   "text": "The subpart grants FFRDCs access to government and supplier data beyond a normal contractual relationship while requiring disclosure only to the sponsoring agency.",
+   "tier": 1,
+   "type": "institutional"
+  }
+ },
+ "claimed": [
+  {
+   "cite": [
+    "c-ef3c50efe0",
+    "c-1fd8a02e99",
+    "c-a71c8b454b",
+    "e-318766f210",
+    "e-9f02974d7c",
+    "e-d8bf46ae93"
+   ],
+   "text": "UAP Gerb's MITRE investigation of 7 August 2026 alleges that MITRE has been central since 1958 to a programme reverse-engineering and maturing non-human technologies from late-1940s recoveries, that it processes data tracking a huge submerged object stationed in the Atlantic, and that a 2011 restriction ended historical briefings on programme incumbents. It says it was published to aid Burlison's inquiry."
+  },
+  {
+   "cite": [
+    "c-a5ff1c6c9c",
+    "c-3666550fd8",
+    "c-4ceadb9ef8",
+    "e-93cf33cac5"
+   ],
+   "text": "In his Manhattan Project 2.0 series Gerb alleges that Truman and Eisenhower vested custody of recovered disks in AEC laboratories, protected under the Atomic Energy Act, and that in 1994 the special access enterprise was restructured to vest permanent control in a quasi-industry control group."
+  },
+  {
+   "cite": [
+    "c-6d8d2ec5bb",
+    "c-f7e7223863",
+    "e-b710c1fa88",
+    "c-0869732034",
+    "c-38b091b140",
+    "e-84051883d6"
+   ],
+   "text": "His Sandia investigation repeats Edgar Fouche's claim that Sandia and Livermore reverse-engineered the TR-3B's propulsion and a former New Mexico legislator's account that UFO materials were kept in AEC laboratories such as Sandia; his NRO investigation alleges an NRO-led retrieval team in Nevada and NRO collection feeding Immaculate Constellation."
+  },
+  {
+   "cite": [
+    "c-6e7381fd4e",
+    "e-9b535997a6"
+   ],
+   "text": "His Northrop and TRW investigation alleges, extrapolating from David Grusch's remarks on Megyn Kelly, that Northrop Grumman may have self-funded its own retrieval programmes with research money after 9/11."
+  },
+  {
+   "cite": [
+    "c-f5e536f4d3",
+    "e-c3fc1d3808"
+   ],
+   "text": "A 2026 Liberation Times report places MITRE among contractors supporting NAVAIR programmes at Patuxent River, in the context of reporting that an exotic vehicle has been stored there for decades. The board notes that no allegation of custody attaches to MITRE."
+  },
+  {
+   "cite": [
+    "c-92ffa7ba35",
+    "c-62711bb2c9",
+    "c-2ef7b1b8d5",
+    "c-df816cb2bc",
+    "e-04ec404a1a"
+   ],
+   "text": "Burlison said Lincoln Laboratory's lawyers agreed to comply within 30 days, and by late June 2026 the laboratory had agreed to make the recording available; the Disclosure Foundation describes it as audio about the July 1952 Washington sightings."
+  },
+  {
+   "cite": [
+    "c-c20eb7c8b7",
+    "e-9c9d5b18c9",
+    "c-2227b214ca"
+   ],
+   "text": "Eric Davis was working for the Aerospace Corporation when the New York Times reported in 2020 his classified briefings on retrievals; the corporation has not addressed publicly whether it had any role."
+  },
+  {
+   "cite": [
+    "c-5a6c021232",
+    "c-137a1cf3c8",
+    "c-ce95192bff"
+   ],
+   "text": "The board infers that contractor-held records outside FOIA, disclosure owed only to the sponsor and permanent sole-source relationships make the FFRDC layer the most defensible place to host an unacknowledged programme; that is structural reasoning, not evidence of one."
+  },
+  {
+   "cite": [
+    "c-6a1956c602"
+   ],
+   "text": "The board infers that records in Burlison's request categories, such as special and controlled access programmes, materials analysis and classification guides, would sit with the National Security Engineering Center under Jackson rather than with MITRE's civil FFRDCs, because it is MITRE's only FFRDC sponsored by defence and intelligence."
+  }
+ ],
+ "contested": [
+  {
+   "cite": [
+    "c-8cf2251854",
+    "c-e3c3593fbb",
+    "e-214af5f137"
+   ],
+   "text": "Gerb's record includes a claim the board has checked and found unsupported: his Battelle investigation's nitinol lineage, which the federal literature, including a review Battelle itself wrote, attributes to the Naval Ordnance Laboratory."
+  },
+  {
+   "cite": [
+    "e-e74accccde",
+    "e-5e66467b04"
+   ],
+   "text": "NewsNation's coverage is not independent of Gerb: its research producer supplied him leads on an alleged gatekeeper, and the network published its host saying he thinks Gerb is on the money."
+  },
+  {
+   "cite": [
+    "c-00bb6e79bf"
+   ],
+   "text": "Burlison says the Aerospace Corporation sent two executives to a SCIF interview who said they knew nothing about UAP or reverse engineering; no document of that meeting has been opened."
+  },
+  {
+   "cite": [
+    "e-b6a656addb",
+    "c-58e50d56d6"
+   ],
+   "text": "MITRE's answer routes any disclosure back through its sponsoring agencies, which is the FAR structure under which an FFRDC owes disclosure to its sponsor, not to Congress."
+  },
+  {
+   "cite": [
+    "e-cd0fae33a2",
+    "e-25c09fade4"
+   ],
+   "text": "Some links in the wider web are thin: Harald Malmgren's IDA assignment rests on a family biography, and the tie between the 1952 recording and the Beacon Hill study is an inference with no minutes produced."
+  },
+  {
+   "cite": [
+    "c-d12d404431"
+   ],
+   "text": "Jesse Michels described a 1961 RAND report on ICBM vulnerability to X-rays that the board could not open or find by its exact title."
+  },
+  {
+   "cite": [
+    "c-18b58db71b",
+    "c-2ef7b1b8d5"
+   ],
+   "text": "The cited items disagree about the Lincoln Laboratory recording: Burlison's letter gives its designation as AF-ATIC-FILM, 03/52, while the Disclosure Foundation says it concerns the July 1952 Washington sightings."
+  },
+  {
+   "cite": [
+    "c-9d3c590324"
+   ],
+   "text": "The Department of Defense says it has no record of a programme called Immaculate Constellation, and former AARO director Sean Kirkpatrick has denied it exists."
+  }
+ ],
+ "essays": [],
+ "focusEra": "3",
+ "id": "ffrdc-probes",
+ "kind": "allegation",
+ "lead": {
+  "cite": [
+   "c-30a2ceae8d",
+   "c-18b58db71b",
+   "c-44eb0ea603",
+   "c-be1147e92b",
+   "c-ef3c50efe0",
+   "e-d8bf46ae93"
+  ],
+  "text": "Under the federal acquisition rules, federally funded research and development centres have access to government and supplier data beyond that of a normal contractor. In May 2026 Rep. Eric Burlison sent records demands to MIT Lincoln Laboratory and MITRE, and named RAND and the Aerospace Corporation as on his trail; in August a pseudonymous researcher, UAP Gerb, published an investigation alleging that MITRE has helped reverse-engineer recovered technology since 1958. The regulation and the letters are on record; the custody allegation is a researcher's claim."
+ },
+ "members": [
+  {
+   "cls": "institution",
+   "id": "mitre-corporation",
+   "label": "The MITRE Corporation",
+   "role": "contractor"
+  },
+  {
+   "cls": "document",
+   "id": "burlison-mitre-letter-2026",
+   "label": "Rep. Burlison records demand to MITRE, 22 May 2026",
+   "role": "document"
+  },
+  {
+   "cls": "document",
+   "id": "burlison-mit-lincoln-letter-2026",
+   "label": "Rep. Burlison letter to MIT Lincoln Laboratory, May 2026",
+   "role": "document"
+  },
+  {
+   "cls": "legislation",
+   "id": "far-35-017",
+   "label": "FAR 35.017 - Federally Funded Research and Development Centers",
+   "role": "law"
+  },
+  {
+   "cls": "document",
+   "id": "gerb-mitre-investigation",
+   "label": "UAP Gerb - The MITRE Corporation investigation",
+   "role": "document"
+  },
+  {
+   "cls": "person",
+   "id": "uap-gerb",
+   "label": "'UAP Gerb' (Sam)",
+   "role": "investigator"
+  },
+  {
+   "cls": "program",
+   "id": "manhattan-project-2",
+   "label": "'Manhattan Project 2.0' (alleged secrecy architecture)",
+   "role": "programme"
+  },
+  {
+   "cls": "document",
+   "id": "gerb-sandia-investigation",
+   "label": "UAP Gerb - Sandia National Laboratories investigation",
+   "role": "document"
+  },
+  {
+   "cls": "document",
+   "id": "gerb-nro-investigation",
+   "label": "UAP Gerb - National Reconnaissance Office investigation",
+   "role": "document"
+  },
+  {
+   "cls": "document",
+   "id": "gerb-northrop-trw-investigation",
+   "label": "UAP Gerb - Northrop Grumman & TRW investigation (Vol.2)",
+   "role": "document"
+  },
+  {
+   "cls": "document",
+   "id": "michels-gerb-structural-episode",
+   "label": "'The Pentagon's UFO Program Is Real [Here's How It Works!]'",
+   "role": "document"
+  },
+  {
+   "cls": "institution",
+   "id": "rand-corporation",
+   "label": "RAND Corporation",
+   "role": "contractor"
+  },
+  {
+   "cls": "institution",
+   "id": "aerospace-corporation",
+   "label": "The Aerospace Corporation",
+   "role": "contractor"
+  },
+  {
+   "cls": "institution",
+   "id": "mit-lincoln-laboratory",
+   "label": "MIT Lincoln Laboratory",
+   "role": "institution"
+  },
+  {
+   "cls": "institution",
+   "id": "ida",
+   "label": "Institute for Defense Analyses",
+   "role": "institution"
+  },
+  {
+   "cls": "institution",
+   "id": "jhuapl",
+   "label": "Johns Hopkins University Applied Physics Laboratory",
+   "role": "institution"
+  },
+  {
+   "cls": "program",
+   "id": "mitre-nsec",
+   "label": "National Security Engineering Center (NSEC)",
+   "role": "institution"
+  },
+  {
+   "cls": "program",
+   "id": "mitre-caasd",
+   "label": "Center for Advanced Aviation System Development (CAASD)",
+   "role": "institution"
+  },
+  {
+   "cls": "program",
+   "id": "mitre-hssedi",
+   "label": "Homeland Security Systems Engineering and Development Institute (HSSEDI)",
+   "role": "institution"
+  },
+  {
+   "cls": "institution",
+   "id": "jason-advisory-group",
+   "label": "JASON",
+   "role": "institution"
+  },
+  {
+   "cls": "institution",
+   "id": "sandia",
+   "label": "Sandia National Laboratories",
+   "role": "institution"
+  },
+  {
+   "cls": "institution",
+   "id": "doe",
+   "label": "United States Department of Energy",
+   "role": "institution"
+  },
+  {
+   "cls": "institution",
+   "id": "atomic-energy-commission",
+   "label": "Atomic Energy Commission",
+   "role": "institution"
+  },
+  {
+   "cls": "legislation",
+   "id": "atomic-energy-act-1946",
+   "label": "Atomic Energy Act of 1946 (McMahon Act)",
+   "role": "law"
+  },
+  {
+   "cls": "institution",
+   "id": "oni",
+   "label": "Office of Naval Intelligence",
+   "role": "institution"
+  },
+  {
+   "cls": "institution",
+   "id": "nro",
+   "label": "National Reconnaissance Office",
+   "role": "institution"
+  },
+  {
+   "cls": "person",
+   "id": "eric-burlison",
+   "label": "Eric Burlison",
+   "role": "legislator"
+  },
+  {
+   "cls": "legislation",
+   "id": "ndaa-fy2027-uap-amendment",
+   "label": "Burlison UAP Records Disclosure Amendment, FY2027 NDAA",
+   "role": "law"
+  },
+  {
+   "cls": "legislation",
+   "id": "uapda-fy2027-house-adopted",
+   "label": "Unidentified Anomalous Phenomena Disclosure Act - Burlison amendment to the FY2027 NDAA",
+   "role": "law"
+  },
+  {
+   "cls": "program",
+   "id": "pursue-releases",
+   "label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters",
+   "role": "programme"
+  },
+  {
+   "cls": "event",
+   "id": "hearing-2025-09-09",
+   "label": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'",
+   "role": "event"
+  },
+  {
+   "cls": "document",
+   "id": "af-atic-film-0352",
+   "label": "AF-ATIC-FILM, 03/52 ('flying saucer talk')",
+   "role": "document"
+  },
+  {
+   "cls": "program",
+   "id": "beacon-hill-study",
+   "label": "Project Beacon Hill",
+   "role": "programme"
+  },
+  {
+   "cls": "person",
+   "id": "george-kocher",
+   "label": "George Kocher",
+   "role": "researcher"
+  },
+  {
+   "cls": "person",
+   "id": "robert-everett",
+   "label": "Robert R. Everett",
+   "role": "contractor"
+  },
+  {
+   "cls": "person",
+   "id": "jason-providakes",
+   "label": "Jason Providakes",
+   "role": "contractor"
+  },
+  {
+   "cls": "person",
+   "id": "donald-kerr",
+   "label": "Donald M. Kerr",
+   "role": "contractor"
+  },
+  {
+   "cls": "person",
+   "id": "sue-gordon",
+   "label": "Susan M. Gordon",
+   "role": "contractor"
+  },
+  {
+   "cls": "person",
+   "id": "samantha-ravich",
+   "label": "Samantha F. Ravich",
+   "role": "contractor"
+  },
+  {
+   "cls": "person",
+   "id": "mark-peters",
+   "label": "Mark Todd Peters",
+   "role": "contractor"
+  },
+  {
+   "cls": "person",
+   "id": "charles-a-richard",
+   "label": "Charles A. Richard",
+   "role": "contractor"
+  },
+  {
+   "cls": "institution",
+   "id": "battelle",
+   "label": "Battelle Memorial Institute",
+   "role": "contractor"
+  },
+  {
+   "cls": "institution",
+   "id": "northrop-grumman",
+   "label": "Northrop Grumman Corporation",
+   "role": "contractor"
+  },
+  {
+   "cls": "institution",
+   "id": "trw-inc",
+   "label": "TRW Inc.",
+   "role": "contractor"
+  },
+  {
+   "cls": "person",
+   "id": "david-grusch",
+   "label": "David Charles Grusch",
+   "role": "claimant"
+  },
+  {
+   "cls": "person",
+   "id": "eric-davis",
+   "label": "Eric W. Davis",
+   "role": "claimant"
+  },
+  {
+   "cls": "person",
+   "id": "harald-b-malmgren",
+   "label": "Harald B. Malmgren",
+   "role": "claimant"
+  },
+  {
+   "cls": "person",
+   "id": "jesse-michels",
+   "label": "Jesse Michels",
+   "role": "journalist"
+  },
+  {
+   "cls": "person",
+   "id": "ross-coulthart",
+   "label": "Ross Coulthart",
+   "role": "journalist"
+  },
+  {
+   "cls": "person",
+   "id": "rob-jones",
+   "label": "Rob Jones",
+   "role": "journalist"
+  },
+  {
+   "cls": "program",
+   "id": "newsnation-reality-check",
+   "label": "Reality Check with Ross Coulthart (NewsNation)",
+   "role": "journalist"
+  },
+  {
+   "cls": "event",
+   "id": "immaculate-constellation",
+   "label": "Immaculate Constellation disclosure, October-November 2024",
+   "role": "event"
+  },
+  {
+   "cls": "location",
+   "id": "l-pax-river",
+   "label": "Naval Air Station Patuxent River, Maryland",
+   "role": "place"
+  },
+  {
+   "cls": "document",
+   "id": "gerb-battelle-investigation",
+   "label": "UAP Gerb - Battelle Memorial Institute investigation",
+   "role": "document"
+  },
+  {
+   "cls": "person",
+   "id": "dana-keoki-jackson",
+   "label": "Dana (Keoki) Jackson",
+   "role": "contractor"
+  }
+ ],
+ "notes": "Start-here flag 6. UAP Gerb's investigations are a researcher's claims and are framed as such. The three FAR 35.017 claims authored under a collapsed FFRDC domain node belong here.",
+ "questions": [
+  "Did MITRE produce anything in answer to Burlison's 45-day demand, and did it go to Congress or to its sponsors?",
+  "What does the 1952 Lincoln Laboratory recording contain, and was it briefed into the Beacon Hill study?",
+  "Who is UAP Gerb, and what primary documents, if any, underlie the MITRE, Sandia and NRO allegations?",
+  "Are FFRDC records held under government contracts reachable by FOIA, the National Archives or the proposed contractor-disclosure amendment?",
+  "Why has no congressional letter gone to a university-affiliated research centre such as Johns Hopkins APL?",
+  "Did the Aerospace Corporation have any role in the retrievals Eric Davis described while he worked there?"
+ ],
+ "record": [
+  {
+   "cite": [
+    "c-58e50d56d6",
+    "c-f3f806fd76",
+    "c-70954ac851",
+    "c-6bbbeeef89"
+   ],
+   "text": "FAR 35.017 requires an FFRDC to operate in the public interest with objectivity and independence, free of organisational conflicts, disclosing its affairs fully to the sponsoring agency, and not to use its special access to compete with the private sector; its contracts may run five years and be renewed."
+  },
+  {
+   "cite": [
+    "c-d456a6795c",
+    "e-dab49b0f8e",
+    "e-168f8298c2",
+    "c-6043a34447",
+    "e-b59a123e87",
+    "c-8bdc41be6b",
+    "e-1bec0312ef"
+   ],
+   "text": "MITRE was incorporated on 21 July 1958 as a non-profit, with Robert Everett as first technical director and 485 Lincoln Laboratory staff moving across to continue SAGE engineering for the Air Force. It now runs six FFRDCs, the widest spread of any operator, including the National Security Engineering Center for DoD, at about $1.43 billion in FY2024."
+  },
+  {
+   "cite": [
+    "c-7f3560f860",
+    "c-31c16cac58",
+    "c-81a9ceb736",
+    "c-325ff33b39",
+    "e-f08517acb3",
+    "e-86c2ba4a4c"
+   ],
+   "text": "Burlison's ten-page letter of 22 May 2026 asks MITRE whether it has created, held, analysed, transferred, destroyed or withheld records on UAP, technologies of unknown origin and alleged crash-retrieval or reverse-engineering programmes since 1930, and demands unclassified records within 45 days. It rests on the point that FFRDCs receive special access that ordinary contractors do not."
+  },
+  {
+   "cite": [
+    "e-b70aa5a041",
+    "e-58a94cc465"
+   ],
+   "text": "DefenseScoop reported that the letter reflects whistleblower concerns, and Burlison tied it to records Congress has directed to be transferred for public release, naming the National Archives' Record Group 615."
+  },
+  {
+   "cite": [
+    "c-48fc20e323",
+    "e-b6a656addb"
+   ],
+   "text": "A MITRE spokesperson said insiders were reviewing its archives and that if relevant material was found it would coordinate with the federal agencies responsible for the work."
+  },
+  {
+   "cite": [
+    "e-48f682bb07",
+    "e-8b16fbadbc",
+    "e-a4de721608",
+    "e-79750c2513",
+    "e-113ead19a6",
+    "e-c333c1f34b"
+   ],
+   "text": "MITRE's leadership has come from the intelligence and laboratory world: Donald Kerr, a former director of Los Alamos and the NRO, was elected chairman in November 2018; Sue Gordon, a former Principal Deputy DNI, became vice chair in October 2023; Mark Peters came from Battelle to be chief executive from September 2024; and Samantha Ravich joined its board on 19 May 2026, three days before the letter."
+  },
+  {
+   "cite": [
+    "e-b7588a393c",
+    "e-5602b65df4"
+   ],
+   "text": "MITRE has administered the JASON advisory group since 2002, and the contract survived in 2019 through an NNSA sole-source award after DoD declined to renew it."
+  },
+  {
+   "cite": [
+    "c-18b58db71b",
+    "e-56c072c9ea",
+    "c-d8bd8ca515",
+    "c-91e550252c"
+   ],
+   "text": "Burlison's letter of 8 May 2026 asked Lincoln Laboratory, an FFRDC founded in 1951 and now sponsored by DoD's research under secretary, to find and preserve a reel-to-reel recording catalogued as AF-ATIC-FILM, 03/52, labelled flying saucer talk, with Edward Ruppelt as briefer."
+  },
+  {
+   "cite": [
+    "c-db77bf1e4b",
+    "c-a4f8acbf30",
+    "e-7956425c5c",
+    "c-95dba0730b",
+    "c-dadf466596",
+    "c-05cc67d78c",
+    "c-240b9b83f1"
+   ],
+   "text": "RAND runs four FFRDCs; it published George Kocher's draft UFOs: What To Do? in November 1968 and a 2023 study mapping public UAP reports. A 5 August 1947 Air Force report in the National Archives' new UAP record group names Project RAND, then inside Douglas Aircraft, with contractor effort about ninety times the government's."
+  },
+  {
+   "cite": [
+    "c-d9a0dfdbab",
+    "c-d573e85216",
+    "c-461ada2a80",
+    "e-d20cdb2f9e"
+   ],
+   "text": "The Aerospace Corporation, founded in 1960, runs the only FFRDC devoted to space, for the Space Force, at about $1.31 billion in FY2024; OTA's 1995 history records that the Air Force insisted on charter restrictions it had not imposed on earlier FFRDCs."
+  },
+  {
+   "cite": [
+    "c-ad0409fbae",
+    "c-ca3e7abc39",
+    "c-49a837196c",
+    "e-93bc8e9953",
+    "e-50fd21e56f",
+    "c-33d27c220f",
+    "e-9a05286170"
+   ],
+   "text": "IDA runs three FFRDCs, one sponsored by NSA, under a president who commanded US Strategic Command from 2019 to 2022, and is awarded its FFRDC work sole-source. Johns Hopkins APL is a university-affiliated centre, not an FFRDC, and so sits outside the FAR regime."
+  },
+  {
+   "cite": [
+    "e-cbd7221922",
+    "e-dd08efa658",
+    "e-c59ac15387"
+   ],
+   "text": "Burlison's UAP records disclosure amendment was adopted as part of the House FY2027 NDAA and would extend disclosure requirements to government contractors holding covered records."
+  },
+  {
+   "cite": [
+    "e-a0be98d14f",
+    "e-02d95526ad",
+    "e-771cf1b726"
+   ],
+   "text": "The Atomic Energy Act of 1946, which created the Atomic Energy Commission, directed the transfer to it of all fissionable material, atomic weapons, processes and technical information from the Manhattan Engineer District; the Commission's functions later passed to the Department of Energy."
+  },
+  {
+   "cite": [
+    "c-b3951ac80d",
+    "e-b363c2a62a"
+   ],
+   "text": "MITRE's leadership page lists Dana (Keoki) Jackson as Senior Vice President and General Manager of MITRE National Security, the unit that contains its National Security Engineering Center."
+  }
+ ],
+ "related": [
+  "named-contractors",
+  "pursue-2026",
+  "house-push-2026",
+  "records-collection",
+  "battelle-nitinol",
+  "skunk-works",
+  "legacy-programme",
+  "funding-channels"
+ ],
+ "section": "custody-allegations",
+ "span": {
+  "from": "1947",
+  "to": "2026"
+ },
+ "status": "verified",
+ "summary": [
+  {
+   "cite": [
+    "c-30a2ceae8d",
+    "c-58e50d56d6",
+    "c-6c9e87a52d",
+    "e-fb07405e7c"
+   ],
+   "text": "The structure: FAR 35.017 gives an FFRDC access to government and supplier data, employees and facilities beyond a normal contract, and requires it to disclose its affairs fully to its sponsoring agency. In February 2026 twelve agencies sponsored 41 of them."
+  },
+  {
+   "cite": [
+    "c-623dc83a8f",
+    "c-ef3c50efe0",
+    "e-84f69e61f4",
+    "c-608197f302",
+    "e-afd271ba21",
+    "e-b82f635ae3"
+   ],
+   "text": "The allegation: UAP Gerb argues that FFRDCs are the missing link that lets the government vest programmes outside itself while controlling the material, and names MITRE as central to Navy-spearheaded legacy programmes; his wider model, which he calls Manhattan Project 2.0, places custody in the atomic laboratories from 1947."
+  },
+  {
+   "cite": [
+    "c-18b58db71b",
+    "c-7f3560f860",
+    "e-366f9ac88b",
+    "c-be1147e92b"
+   ],
+   "text": "The probes: Rep. Eric Burlison wrote to MIT Lincoln Laboratory on 8 May 2026 for a 1952 recording labelled flying saucer talk, and to MITRE on 22 May 2026 with more than 40 production requests reaching back to 1930; he says the trail also leads to RAND and the Aerospace Corporation."
+  },
+  {
+   "cite": [
+    "e-8cd6da1fe2",
+    "e-5e66467b04",
+    "e-e74accccde",
+    "e-fa12bdfb8c"
+   ],
+   "text": "How the allegation travels: Gerb's investigations reached a wide audience through Jesse Michels's podcast and NewsNation's Reality Check, whose host endorsed his claims on air and whose research producer supplied him leads."
+  }
+ ],
+ "title": "FFRDCs and the 2026 contractor probes",
+ "unplacedClaims": [
+  {
+   "claim": "FAR 35.017 states that an FFRDC has access to government and supplier data, including sensitive and proprietary information, and to employees and facilities beyond that common in a normal contractual relationship.",
+   "collapsedInto": "d-ffrdc",
+   "id": "c-30a2ceae8d",
+   "source": "Federal Acquisition Regulation Part 35.017",
+   "tier": 1
+  },
+  {
+   "claim": "FAR 35.017 requires the FFRDC to operate in the public interest with objectivity and independence, to be free from organisational conflicts of interest, and to disclose its affairs fully to the sponsoring agency.",
+   "collapsedInto": "d-ffrdc",
+   "id": "c-58e50d56d6",
+   "source": "FAR 35.017",
+   "tier": 1
+  },
+  {
+   "claim": "Because FFRDC records are contractor records rather than agency records, work performed under this mechanism is outside FOIA while remaining under the sponsor's classification authority. Reasoning: FOIA reaches agency records only; the FFRDC operator is a private entity.",
+   "collapsedInto": "d-ffrdc",
+   "id": "c-137a1cf3c8",
+   "source": "Inference from FOIA's agency-records definition and FAR 35.017",
+   "tier": 3
+  }
+ ]
+}

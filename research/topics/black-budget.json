@@ -26,7 +26,495 @@
  "essays": [
   "the-classified-programs-arithmetic"
  ],
- "status": "draft",
+ "status": "verified",
  "notes": "The money community's budget half: how classified programmes appear, and do not appear, in enacted budgets. The arithmetic essay on the classified-programme rows attaches here.",
- "appendixT": "black-budget"
+ "appendixT": "black-budget",
+ "lead": {
+  "text": "Congress funds classified work in two ways the public can see only from the outside: as rows in the printed defense tables titled CLASSIFIED PROGRAMS with a number and nothing else, and through a classified annex and a classified schedule that the statutes give the force of law but never publish. For intelligence, the public is told two aggregate numbers a year and no breakdown of any kind.",
+  "cite": [
+   "c-ab940c5c51",
+   "c-89f93fe8f3",
+   "c-7815bef3fb",
+   "c-7d90dc9f81"
+  ]
+ },
+ "summary": [
+  {
+   "text": "The intelligence budget is split in two. The National Intelligence Program is controlled by the Director of National Intelligence and the Military Intelligence Program by the Secretary of Defense, and each is published only as an annual aggregate.",
+   "cite": [
+    "e-f4f28417a3",
+    "c-7d90dc9f81",
+    "c-ee20849a83"
+   ]
+  },
+  {
+   "text": "On the intelligence side the authorising statute states no amount at all. Section 6101 of the Intelligence Authorization Act for FY2026 authorises funds for intelligence activities, section 6102(a) says the amounts are those in the classified Schedule of Authorizations, and the President may not publicly disclose any portion of the Schedule except the aggregate under 50 U.S.C. 3306(a).",
+   "cite": [
+    "c-0326ff4923",
+    "c-7815bef3fb",
+    "c-d34f10dfe9",
+    "e-2478d39226"
+   ]
+  },
+  {
+   "text": "On the defense side, the tables in the classified annex to the Appropriations Act are required by law to be carried out as if they were in the text of the Act, and the authorisation Act applies its funding-table rules to any classified annex. What the public tables show is a row titled CLASSIFIED PROGRAMS and a dollar figure.",
+   "cite": [
+    "c-89f93fe8f3",
+    "c-3baa1c7e77",
+    "e-b4a016d1a2"
+   ]
+  },
+  {
+   "text": "What the public does know was forced out: the first total intelligence figure in fifty years came in 1997 after a FOIA suit by the Federation of American Scientists, disclosure then stopped after FY1998, and it resumed for FY2007 only under statute.",
+   "cite": [
+    "c-a0bfd8c01b",
+    "c-94acf6ad3c",
+    "e-2517b6f864"
+   ]
+  }
+ ],
+ "record": [
+  {
+   "text": "50 U.S.C. 3306 is the whole statutory transparency regime for the intelligence budget: the aggregate National Intelligence Program request when the budget is submitted, the aggregate appropriated within 30 days of the end of each fiscal year, and a presidential power to waive or postpone either on an unclassified damage statement with reasons that may be classified.",
+   "cite": [
+    "c-c5f0e7f758",
+    "c-afe65bf40d",
+    "c-6543af6d04"
+   ]
+  },
+  {
+   "text": "The published toplines: the National Intelligence Program appropriation ran from $43.5bn in FY2007 to $73.3bn in FY2025, with an FY2026 request of $81.9bn; the Military Intelligence Program from $20.0bn in FY2007 to $27.8bn in FY2025, with an FY2026 request of $33.6bn. No breakdown by agency, programme, discipline or account is published.",
+   "cite": [
+    "c-bd8fd87ec2",
+    "c-9f57a49adb",
+    "c-34afe03eee",
+    "c-7d90dc9f81"
+   ]
+  },
+  {
+   "text": "Steven Aftergood was the plaintiff in the 1997 FOIA suit against the CIA, brought by FAS with the help of Kate Martin of the Center for National Security Studies, that produced the $26.6bn figure for FY1997. The Director of Central Intelligence disclosed $26.7bn for FY1998 and then stopped; Military Intelligence Program figures were first published for FY2010. In 2006 Aftergood won a further FOIA suit that released unclassified NRO budget records.",
+   "cite": [
+    "c-3d3d806670",
+    "c-d4d131d9f2",
+    "c-94acf6ad3c",
+    "c-34bfa1daa8",
+    "c-fcff5ea5fc",
+    "e-104d58da85",
+    "e-425505c7ad"
+   ]
+  },
+  {
+   "text": "The interior of the intelligence budget has been visible once. FAS hosts excerpts of the National Intelligence Program Summary for FY2013, marked TS/SI/TK/NOFORN and released via the Washington Post, against an official figure for that year of $52.7bn requested and $49.0bn after sequestration. FAS also indexes redacted budget justifications obtained by FOIA for ODNI, the NRO, NGA and the Military Intelligence Program.",
+   "cite": [
+    "c-1823f93ae9",
+    "c-0af698a069",
+    "c-eb3d06a9f3",
+    "e-19b9f88d5b",
+    "e-1914d2363b"
+   ]
+  },
+  {
+   "text": "The FY2026 intelligence Act shows the technique at line level: section 6103 authorises $678,853,000 for the Intelligence Community Management Account in public text plus such additional amounts as the classified Schedule specifies, and the Schedule goes only to the two Appropriations Committees and to the President, who distributes it within the executive branch.",
+   "cite": [
+    "c-c6773dcf68",
+    "c-29970f5393"
+   ]
+  },
+  {
+   "text": "The FY2026 defense authorisation tables carry 25 rows titled CLASSIFIED PROGRAMS, totalling $95.786bn requested and $95.907bn authorised, up from 22 rows and $86.574bn requested in FY2024. The largest, line 077A in Other Procurement, Air Force, carries $26,920,092 thousand, and classified research and development sits under the all-nines Program Element 9999999999. Every one of the rows sits in a Department of Defense account.",
+   "cite": [
+    "c-ab940c5c51",
+    "c-18c1d71b36",
+    "c-8d35f0649c",
+    "c-397ba5f508",
+    "e-a3f5cbdc15"
+   ]
+  },
+  {
+   "text": "Section 8006(a) of the FY2026 Defense Appropriations Act makes the classified annex tables binding to the same extent as if they were in the text of the Act, section 4001(d) of the authorisation Act applies its funding-table section to any classified annex, and section 8059 directs a classified quarterly report on matters set out in the annex.",
+   "cite": [
+    "c-89f93fe8f3",
+    "c-3baa1c7e77",
+    "c-d4cd688150"
+   ]
+  },
+  {
+   "text": "Money can move after enactment. Section 8005 lets the Secretary of Defense, with OMB approval, transfer up to $6bn between appropriations, with prompt notice to Congress of transfers made; section 1001 of the authorisation Act gives a further $6bn on the Secretary's own national-interest determination. Section 8006(b) says annex table amounts are not subdivisions of appropriations for section 8005, and section 4001(c) says funding-table movements do not count against the section 1001 ceiling unless they cross appropriation accounts.",
+   "cite": [
+    "c-10b27323c4",
+    "c-21326c3401",
+    "c-be1cebacbc",
+    "c-94398ba636",
+    "c-20e915f42c",
+    "c-48952e92f6",
+    "e-b5c0392d90",
+    "e-c0ad6e3ef2"
+   ]
+  },
+  {
+   "text": "Below the statutory transfer authorities, the Department's Financial Management Regulation implements reprogramming actions, including below-threshold reprogramming that needs no approval or notification.",
+   "cite": [
+    "e-05230040b6",
+    "c-ca55043d94"
+   ]
+  },
+  {
+   "text": "Section 8084(b) of the FY2026 Appropriations Act measures National Intelligence Program reprogramming against the levels specified in the classified annex, requires 30 days advance notice to the intelligence committees, and allows that period to be reduced for urgent national security requirements.",
+   "cite": [
+    "c-54c1bb5d80",
+    "c-515ead0f22",
+    "e-f0d4ac776f"
+   ]
+  },
+  {
+   "text": "Section 8009 of the same Act bars its funds from being used to initiate, or materially modify the scope of, a special access programme without 30 calendar days advance notice to the congressional defense committees.",
+   "cite": [
+    "c-c19ad93b66",
+    "e-494c7e9c5b"
+   ]
+  },
+  {
+   "text": "The oldest instrument dates from 20 June 1949: section 8 of the Central Intelligence Agency Act, now 50 U.S.C. 3510, lets Agency funds be spent without regard to the laws governing government expenditure and, for confidential, extraordinary or emergency objects, accounted for solely on the Director's certificate. The CIA is funded within the National Intelligence Program.",
+   "cite": [
+    "c-eb94c3d87e",
+    "c-756dce4048",
+    "e-4cbed8e7aa"
+   ]
+  },
+  {
+   "text": "Accounting caught up in 2018. FASAB's SFFAS 56, Classified Activities, issued 4 October 2018, permits an entity to present amounts from one line item in another without explanatory narrative and to omit disclosures that would reveal classified information, while barring it from saying whether it applied the Statement. The Department of Defense identified the need for the standard in August 2016.",
+   "cite": [
+    "c-17da8ec825",
+    "c-db40f5aab8",
+    "c-045c16c70c",
+    "c-08697ebeac",
+    "c-e519791a79",
+    "e-3313b072bf",
+    "e-0e13dd4af3"
+   ]
+  },
+  {
+   "text": "A classified programme once surfaced through the Pentagon's own unclassified paperwork. The Washington Post of 8 February 1985 reported that the unclassified P1 procurement document sought money for an Air Force plane called Aurora, and that an Air Force spokesman, reminded it was now public, would say only that it was a classified program.",
+   "cite": [
+    "c-e50076785e",
+    "c-30614101a6",
+    "c-8971a8b9c5"
+   ]
+  },
+  {
+   "text": "Congress has written the subject into the money once. Section 7343(b) of the FY2024 Intelligence Authorization Act bars that division's funds from any UAP activity under special or restricted access unless the Director of National Intelligence has given the details to six named committees and congressional leadership.",
+   "cite": [
+    "c-944328b669",
+    "c-8e2a310026",
+    "e-e5dbc3b8dd"
+   ]
+  },
+  {
+   "text": "For waived special access programmes, 10 U.S.C. 119(e)(2) sends the information and the justification jointly to the chairman and ranking minority member of each defense committee, and DoD Instruction 5205.11 provides that justification materials for waived programmes go only to the committee staff directors.",
+   "cite": [
+    "c-15c4066300",
+    "c-ac3f8c09d6",
+    "e-919ea9c6a2",
+    "e-aeaf681082"
+   ]
+  },
+  {
+   "text": "The Church Committee found in 1976 that Congress's failure to monitor intelligence expenditures had been a major element of ineffective oversight. It recommended publication of the aggregate figure, and at the agencies' request it deleted its own chapter on Budgetary Oversight from the published report.",
+   "cite": [
+    "c-e67b8a3bb3",
+    "c-d39d2420e8",
+    "e-ff867cbf01"
+   ]
+  },
+  {
+   "text": "The Department's own financial statements have not been auditable: the FY2025 audit found 26 material weaknesses, one of them titled Unsupported Accounting Adjustments, under which adjustments in the last two quarters of FY2025 totalled more than $859bn.",
+   "cite": [
+    "c-0f2ae724e8",
+    "c-dd07057120"
+   ]
+  },
+  {
+   "text": "The OSD Historical Office records Michael Powers as Acting Under Secretary of War (Comptroller) and Chief Financial Officer from 20 May 2026.",
+   "cite": [
+    "c-36d9e64d81",
+    "c-af7a70645d"
+   ]
+  },
+  {
+   "text": "FAS also publishes the only public series on invention secrecy orders, sourced to the Patent and Trademark Office: 6,543 were in effect at the end of FY2025.",
+   "cite": [
+    "c-45719302b6",
+    "e-dc49dcfec5"
+   ]
+  }
+ ],
+ "claimed": [
+  {
+   "text": "On the board's reading, the $26.9bn Other Procurement, Air Force classified line is a pass-through: carried on the Air Force's books and counted against its topline but not the Air Force's money to spend, in an account that has historically carried national reconnaissance funding. The board says no document confirms the recipient.",
+   "cite": [
+    "c-bab11365fa",
+    "e-ef0b75bbbf"
+   ]
+  },
+  {
+   "text": "The board infers that the classified annex is the one mechanism by which an activity can be funded by law and absent from every public document, and that the split between the two intelligence programmes lets one activity be described truthfully to two sets of committees without either receiving a complete account.",
+   "cite": [
+    "c-99c39116d0",
+    "c-db67d7eeb5"
+   ]
+  },
+  {
+   "text": "The board also infers that the published intelligence aggregates cannot be reconciled to the defense budget by any outside party, because the only defense-side classified figures are the CLASSIFIED PROGRAMS rows, which are not identified as belonging to either intelligence programme or to neither.",
+   "cite": [
+    "c-3540fe0a56",
+    "e-adda1694f7"
+   ]
+  },
+  {
+   "text": "On the board's reading of the texts, movements among annex lines inside one appropriation account trigger neither the section 8005 ceiling nor its notice, section 8009 does not reach work funded by contractor research reimbursement, unvouchered CIA funds or prior-year balances, and SFFAS 56 removes the last accounting obstacle to a statement that misplaces money without any external tripwire. Each is stated as reasoning, not as something known to have happened.",
+   "cite": [
+    "c-afd0386a92",
+    "c-a2973c63d3",
+    "e-76f1f79b21",
+    "c-48563592e1"
+   ]
+  },
+  {
+   "text": "The NRO's own published history, as the board carries it, says the agency's existence was classified from 1961 until September 1992, and the board infers that this defeats the objection that someone would have talked about a concealed programme.",
+   "cite": [
+    "c-52bcf8861c",
+    "c-6ccb7dbbe8"
+   ]
+  },
+  {
+   "text": "UAP Gerb alleges, in a December 2025 video investigation, that the NRO showed egregious misappropriation of funds through carry-over appropriations in the mid-1990s that may relate to obfuscated UFO programmes.",
+   "cite": [
+    "c-ba8f050fa6"
+   ]
+  },
+  {
+   "text": "In the 1985 Aurora report, other Pentagon sources said Aurora might be connected with the Stealth plane but that the big money for Stealth was held in a different secret account. The figures, zero rising to $2.27bn in fiscal 1987, are the reporter's account of the P-1 document.",
+   "cite": [
+    "c-e57990334d",
+    "c-b2e59d13b6"
+   ]
+  },
+  {
+   "text": "The board reads the double enactment of the UAP funding bar, once against the Secretary of Defense and once against the Director of National Intelligence, as consistent with congressional uncertainty over which intelligence programme the activity sits in.",
+   "cite": [
+    "c-dc4c1558b8",
+    "c-8008b1761c"
+   ]
+  },
+  {
+   "text": "Michael Shellenberger and Mick West, who agree on little else, each name the Church Committee as the model for congressional penetration of a compartmented programme.",
+   "cite": [
+    "c-583719cb99"
+   ]
+  }
+ ],
+ "contested": [
+  {
+   "text": "The mappings the board draws are inferences its own edges disown as documents: no document confirms who receives the Air Force pass-through, none states how the classified rows map onto the intelligence programmes, none links SFFAS 56 to the annex, and none names the Comptroller in connection with the annex.",
+   "cite": [
+    "e-ef0b75bbbf",
+    "e-adda1694f7",
+    "e-cc04e375ba",
+    "e-4b0133aa9e"
+   ]
+  },
+  {
+   "text": "The published records disagree on FY2013. ODNI's appropriated figure is $49.0bn after sequestration, while the FAS combined series gives $71.9bn for that year, which, on the board's arithmetic, equals the $52.7bn request plus the $19.2bn Military Intelligence Program rather than the appropriation.",
+   "cite": [
+    "c-bd8fd87ec2",
+    "c-0af698a069",
+    "c-fd19b92aab",
+    "c-34afe03eee"
+   ]
+  },
+  {
+   "text": "The Aurora record is a newspaper report of a document, not the document. The P-1 itself was not located or read, and the article attaches no anomalous craft claim to Aurora.",
+   "cite": [
+    "c-b2e59d13b6",
+    "c-e57990334d"
+   ]
+  },
+  {
+   "text": "The rules for who may see a waived programme disagree between records. The statute names only the chairman and ranking member of each defense committee, while DoD Instruction 5205.11 adds staff directors and a security manager and extends access to the intelligence committees. The Moynihan Commission recorded in 1997 that notification of waived programmes was oral, which would leave no artefact to produce later.",
+   "cite": [
+    "c-b9b20705ad",
+    "c-d8ff4aff83"
+   ]
+  },
+  {
+   "text": "The records disagree on the UAP funding bar itself. The enacted text is cited as division G of Public Law 118-31, while a carried claim places section 7343 in division F; its subsection (c) refers to contracts covered by such instruction without naming any instruction, a citation the Senate original had and the enacted text lost. The board's own reading is that neither UAP funding section reaches money appropriated in other Acts or in prior years.",
+   "cite": [
+    "c-944328b669",
+    "c-53ab0d634e",
+    "c-e6d5c6eef1",
+    "c-246bfdc636",
+    "c-8008b1761c"
+   ]
+  },
+  {
+   "text": "The Church Committee is a weaker model than its admirers suggest: its own report says it never examined an agency's files on its own and that the CIA and other agencies limited its access to the record.",
+   "cite": [
+    "c-3c08b97863",
+    "c-583719cb99"
+   ]
+  },
+  {
+   "text": "Two Department pages disagree on who holds the Comptroller's office: the comptroller site names Jules W. Hurst III, while the war.gov biography names Michael Powers as acting. The Historical Office list dates the handover to 20 May 2026.",
+   "cite": [
+    "c-9770dcb809"
+   ]
+  },
+  {
+   "text": "The claim that the 2013 excerpts are the only public view of the interior of the intelligence budget is the board's inference from the absence of any comparable release since.",
+   "cite": [
+    "c-ea2cc29036"
+   ]
+  }
+ ],
+ "members": [
+  {
+   "id": "nip",
+   "role": "programme"
+  },
+  {
+   "id": "mip",
+   "role": "programme"
+  },
+  {
+   "id": "nip-fy2013-summary-disclosure",
+   "role": "document"
+  },
+  {
+   "id": "classified-schedule-authorizations",
+   "role": "document"
+  },
+  {
+   "id": "usc-50-3306",
+   "role": "law"
+  },
+  {
+   "id": "classified-programs-line",
+   "role": "document"
+  },
+  {
+   "id": "classified-annex",
+   "role": "document"
+  },
+  {
+   "id": "intel-budget-disclosure-record",
+   "role": "document"
+  },
+  {
+   "id": "fas",
+   "role": "institution"
+  },
+  {
+   "id": "steven-aftergood",
+   "role": "investigator"
+  },
+  {
+   "id": "usc-50-3510",
+   "role": "law"
+  },
+  {
+   "id": "aurora-budget-line",
+   "role": "programme"
+  },
+  {
+   "id": "iaa-fy2024-7343",
+   "role": "law"
+  },
+  {
+   "id": "nro",
+   "role": "institution"
+  },
+  {
+   "id": "michael-powers-comptroller",
+   "role": "official"
+  },
+  {
+   "id": "sec-1001-gta",
+   "role": "law"
+  },
+  {
+   "id": "sec-8005-transfer",
+   "role": "law"
+  },
+  {
+   "id": "sec-8084-nip-reprogramming",
+   "role": "law"
+  },
+  {
+   "id": "sec-8009-sap-notice",
+   "role": "law"
+  },
+  {
+   "id": "sffas-56",
+   "role": "document"
+  },
+  {
+   "id": "fasab",
+   "role": "institution"
+  },
+  {
+   "id": "reprogramming-dd1415",
+   "role": "document"
+  },
+  {
+   "id": "invention-secrecy-act",
+   "role": "law"
+  },
+  {
+   "id": "waived-sap-notification-group",
+   "role": "institution"
+  },
+  {
+   "id": "church-committee",
+   "role": "legislator"
+  },
+  {
+   "id": "dod",
+   "role": "institution"
+  },
+  {
+   "id": "dod-sapco",
+   "role": "institution"
+  },
+  {
+   "id": "dod-agencywide-audit",
+   "role": "programme"
+  },
+  {
+   "id": "gerb-nro-investigation",
+   "role": "document"
+  }
+ ],
+ "questions": [
+  "What does the $26.9bn Air Force classified procurement line actually fund, and has any committee said so on the record?",
+  "Has any President used the waiver in 50 U.S.C. 3306(c) to withhold or postpone the intelligence aggregate?",
+  "What would a systematic reading of the redacted budget justifications that FAS indexes show about programme-level structure?",
+  "How much money moves each year among annex lines inside a single appropriation account, where no transfer ceiling or notice applies?",
+  "Has any federal entity applied SFFAS 56, given that the standard forbids it to say so?",
+  "Does the 1985 P-1 procurement document that named Aurora survive, and what exactly did it show?",
+  "Were the NRO's carry-over appropriations of the mid-1990s ever examined, and does any record connect them to anything beyond ordinary budget practice?",
+  "Which division of Public Law 118-31 carries section 7343, and which instruction did its subsection (c) mean to name?"
+ ],
+ "related": [
+  "funding-channels",
+  "unauditable-ledger",
+  "sap-reporting",
+  "sap-governance",
+  "carve-outs",
+  "cia-secrecy-precedents",
+  "uap-statutes",
+  "oversight-before-2017",
+  "foia-litigation",
+  "classification-orders",
+  "grusch-allegations"
+ ]
 }

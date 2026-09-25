@@ -31,7 +31,476 @@
   "d-legislation"
  ],
  "essays": [],
- "status": "draft",
+ "status": "verified",
  "notes": "An act and its UAP section stay separate nodes (phase 4 decision); this topic groups them.",
- "appendixT": "uap-statutes"
+ "appendixT": "uap-statutes",
+ "lead": {
+  "text": "The defense and intelligence authorization acts enacted from December 2021 to December 2025 carried UAP provisions: the office that became AARO, a protected reporting channel, a records collection at the National Archives, and funding limits on undisclosed programmes. The binding text is small, and the Senate's review board, eminent domain and contractor turn-in provisions never became law.",
+  "cite": [
+   "c-ff7871db92",
+   "c-d82b15e961",
+   "c-19750580f1",
+   "c-e288e8bd43",
+   "c-3f83aac1aa",
+   "c-bb1dbc6a36",
+   "c-dad388b18b"
+  ]
+ },
+ "summary": [
+  {
+   "text": "The FY2022 NDAA created the statutory office at 50 U.S.C. 3373; the FY2023 acts rewrote it as AARO and added the reporting and whistleblower protections at 50 U.S.C. 3373b.",
+   "cite": [
+    "c-daf7dbc61f",
+    "c-695c395348",
+    "c-19750580f1"
+   ]
+  },
+  {
+   "text": "In July 2023 the Senate passed two routes to privately held material, the UAP Disclosure Act's eminent domain clause and Mark Warner's contractor turn-in; both were removed in conference, and the FY2024 law kept a records collection and funding limitations.",
+   "cite": [
+    "e-05d6076932",
+    "e-354f6b405e",
+    "e-0457d16ad9",
+    "e-5e8104b5f4"
+   ]
+  },
+  {
+   "text": "The FY2025 and FY2026 acts added a GAO review of AARO, intercept briefings and a classification-guide accounting, and let the FY2024 funding bar lapse; the Senate's FY2027 bill as reported carries no UAP provisions, while the House adopted Eric Burlison's disclosure amendment.",
+   "cite": [
+    "c-3f83aac1aa",
+    "c-bb1dbc6a36",
+    "e-665099f158",
+    "c-281b74be13",
+    "c-d0b3b0a09b"
+   ]
+  }
+ ],
+ "record": [
+  {
+   "text": "Section 1683 of the FY2022 NDAA, Public Law 117-81, approved 27 December 2021 and authored by Kirsten Gillibrand, required an office within 180 days to carry on the UAP Task Force's duties, line organisations able to conduct field investigations, and a science plan for phenomena that exceed the known state of the art and a foundation for investments to replicate them.",
+   "cite": [
+    "c-d82b15e961",
+    "c-de7ea874d7",
+    "c-4df969851f",
+    "c-73702e6a81",
+    "e-96d8f18afc",
+    "e-5ee871d791"
+   ]
+  },
+  {
+   "text": "Section 6802 of the FY2023 Intelligence Authorization Act rewrote section 1683 to establish the All-domain Anomaly Resolution Office, reporting to the Deputy Secretary of Defense and the Principal Deputy DNI, and required a Historical Record Report from 1 January 1945 within 540 days, itemising any restricted-access programme not clearly reported to Congress and any efforts to obfuscate or manipulate public opinion.",
+   "cite": [
+    "c-695c395348",
+    "c-5aed83685c",
+    "c-d090bbb7e7",
+    "c-6e91ec4209",
+    "c-d8231079e7",
+    "e-95ed1f2cc0"
+   ]
+  },
+  {
+   "text": "Section 1673 of the FY2023 NDAA created a secure reporting mechanism covering any government or contractor activity relating to UAP, including material retrieval, material analysis and reverse engineering. An authorized disclosure is not subject to a nondisclosure agreement, is deemed to comply with Executive Order 13526 and the Atomic Energy Act, and may not be met with reprisal.",
+   "cite": [
+    "c-d2ad33040b",
+    "c-4b842ae40d",
+    "c-6551d703a5",
+    "c-bf2f94bede",
+    "e-b2acad0685"
+   ]
+  },
+  {
+   "text": "The same section requires the Secretary to report to Congress within 72 hours any disclosure relating to a special access or compartmented programme not clearly reported to the committees, and requires agencies and federal contractors to identify their existing UAP nondisclosure agreements.",
+   "cite": [
+    "c-5c98365b41",
+    "c-0862f773dd",
+    "c-ae1150f420"
+   ]
+  },
+  {
+   "text": "The FY2024 NDAA, Public Law 118-31, approved 22 December 2023, enacted sections 1841 to 1843: a UAP records collection at the National Archives whose scope includes technologies of unknown origin and non-human intelligence, an agency duty to review and transmit, and grounds for postponement.",
+   "cite": [
+    "c-3c40cb48c7",
+    "c-50052622ae",
+    "c-ff7871db92",
+    "e-1d0af34824"
+   ]
+  },
+  {
+   "text": "Section 1687 of the same Act barred FY2024 funds for UAP activity under special or restricted access unless the Secretary of Defense disclosed it to the committees and congressional leadership, and made UAP-related independent research and development unallowable as an indirect expense unless disclosed; section 7343 of the Intelligence Authorization Act applied the same bar through the DNI, to six committees and four leaders.",
+   "cite": [
+    "c-e288e8bd43",
+    "c-5f9ad31c2f",
+    "c-fbf52f7f43",
+    "c-8e2a310026",
+    "e-4839a73518",
+    "e-0e54c58a32"
+   ]
+  },
+  {
+   "text": "Section 1687 conditions the money on disclosure to both intelligence committees and all four congressional leaders, where 10 U.S.C. 119(e) permits reporting a waived programme only to the chair and ranking member of each defense committee.",
+   "cite": [
+    "e-d09af927d0"
+   ]
+  },
+  {
+   "text": "Conference reduced the fifteen-section UAP Disclosure Act, sponsored by Chuck Schumer with Gillibrand as a cosponsor, to three sections; the Review Board and the section 9010 eminent domain clause have no enacted counterpart, and no enacted statute contains the eminent domain language. Jack Reed introduced the vehicle and signed the conference product that removed his chamber's division.",
+   "cite": [
+    "e-e15db81f8e",
+    "c-c12ce76b68",
+    "c-c53ba6881c",
+    "e-f1224ef375",
+    "e-0e5fcce586",
+    "e-4c860e9adc",
+    "e-df8cd95edb"
+   ]
+  },
+  {
+   "text": "Warner's section 1102, passed by the Senate, would have required anyone under government contract holding UAP material under special access to notify the DNI within 60 days and produce it, with a list of all non-earth origin or exotic material, within 180; the earlier SSCI text shielded complying holders from suit. The enacted section 7343 keeps only definitions, the funding limit and the IR&D limit.",
+   "cite": [
+    "c-2da5c112fe",
+    "c-19241ace87",
+    "c-9275bbe5cf",
+    "c-6bb53b1d8e",
+    "e-5e8104b5f4",
+    "e-ecf3737b13"
+   ]
+  },
+  {
+   "text": "The Senate Armed Services Committee never reported the Disclosure Act; it existed only as a floor amendment.",
+   "cite": [
+    "e-5da44eaee1"
+   ]
+  },
+  {
+   "text": "The FY2025 act, Public Law 118-159, approved 23 December 2024, ordered a GAO review of AARO with its report due on a mutually agreed timeframe, and ended GAO's audit briefings on the Historical Record Report 90 and 180 days after its final volume.",
+   "cite": [
+    "c-3f83aac1aa",
+    "c-00142e856f",
+    "c-c2de1f4e86",
+    "e-173c772875"
+   ]
+  },
+  {
+   "text": "The FY2026 act, Public Law 119-60, approved 18 December 2025, requires AARO briefings to cover NORAD and NORTHCOM UAP intercepts, back to 1 January 2004, and any failure by those commands to provide timely information; repeals 50 U.S.C. 3373a and adds a sources-and-methods qualifier to the data-sharing mandate; and orders an accounting of UAP security classification guides.",
+   "cite": [
+    "c-13974e402c",
+    "c-e2622a1184",
+    "c-f4dffbc000",
+    "c-11c2717bfe",
+    "c-29916d4653",
+    "e-2a92f59f3b"
+   ]
+  },
+  {
+   "text": "The FY2024 funding bar applied only to that Act's funds and was not renewed in the FY2025 or FY2026 acts, while the IR&D bar in section 1687(b) has no fiscal-year limit. The FY2026 act contains no instance of eminent domain, non-human, legacy program or reverse engineer.",
+   "cite": [
+    "e-665099f158",
+    "e-552f570493",
+    "e-9af2694ee4"
+   ]
+  },
+  {
+   "text": "The FY2027 NDAA as reported by the Senate Armed Services Committee under Roger Wicker, S. 4784, contains no UAP provision; the House adopted Burlison's records disclosure amendment in July 2026, which would add a Senate-confirmed review board with subpoena authority and reach contractors holding covered records.",
+   "cite": [
+    "c-281b74be13",
+    "e-6f13dadfb7",
+    "c-506f51e08c",
+    "c-d0b3b0a09b",
+    "c-c346a7676f"
+   ]
+  }
+ ],
+ "claimed": [
+  {
+   "text": "Schumer called it an outrage that the House did not work with the Senate on adopting the review board.",
+   "cite": [
+    "e-7f00597322"
+   ]
+  },
+  {
+   "text": "The Debrief reports that Grusch helped draft the UAP whistleblower language in the FY2023 NDAA. Grusch testified that the section 119 waiver is the route by which programmes escape committee reporting, and named contractor IR&D as the funding channel; the waiver provision he described exists in the statute.",
+   "cite": [
+    "e-3e4c215ab8",
+    "e-7d04979860",
+    "e-91f862baf1",
+    "c-4ecde8091a"
+   ]
+  },
+  {
+   "text": "On the board's reading the Disclosure Act's definitions of legacy program and controlling authority were drafted in response to Grusch's published allegations, filed 38 days later, and Warner's turn-in aimed at the private holders Grusch described.",
+   "cite": [
+    "e-9d18364bef",
+    "c-d1451a8ac8",
+    "e-27ae127cee"
+   ]
+  },
+  {
+   "text": "Gillibrand's announcement of her FY2026 UAP provisions lists only an update to congressional briefing requirements, and Mike Rounds said in June 2026 that he was once again cosponsoring the Disclosure Act as an NDAA amendment.",
+   "cite": [
+    "e-2a2cd0a682",
+    "c-2fbc95ef1f"
+   ]
+  },
+  {
+   "text": "The Disclosure Foundation's Jordan Flowers called the FY2026 provisions a meaningful if incremental step and said two of them mirrored recommendations championed by Christopher Mellon.",
+   "cite": [
+    "c-7a8d86cc1d"
+   ]
+  },
+  {
+   "text": "The board observes that none of the prime contractors it carries has publicly reported a disclosure under section 1687(b), which in any case runs to the committees rather than the public.",
+   "cite": [
+    "e-46bc16c648",
+    "c-5f9ad31c2f"
+   ]
+  }
+ ],
+ "contested": [
+  {
+   "text": "The records disagree on whether section 1102's operative text has ever been read: one entry quotes subsection (d) from the Senate-engrossed bill, while another says six primary vehicles fail to extract it and that the 60-day and non-earth-origin language rests on a secondary source describing SSCI's section 1104.",
+   "cite": [
+    "c-2da5c112fe",
+    "c-c6d658b920"
+   ]
+  },
+  {
+   "text": "The records name the Senate vehicle differently: Division G of S. 2226 in the engrossed text, and Division I of H.R. 2670 in other entries.",
+   "cite": [
+    "c-2ee1df1042",
+    "c-dad388b18b",
+    "e-691c07e14a"
+   ]
+  },
+  {
+   "text": "They also disagree on which division of Public Law 118-31 carries section 7343: the enacted text as cited gives Division G, while another entry refers to Division F.",
+   "cite": [
+    "c-944328b669",
+    "e-e5dbc3b8dd"
+   ]
+  },
+  {
+   "text": "The enacted collection statute borrows its UAP definition from section 1683 but miscites it, and enacted section 7343(c) refers to contracts covered by such instruction with no antecedent, the DoDI 3204.01 citation having been deleted with section 1102.",
+   "cite": [
+    "e-b422b73fa9",
+    "e-4353d869cf"
+   ]
+  },
+  {
+   "text": "AARO's Historical Record Report says the companies named by its interviewees denied the programmes to its director, without naming any company, and asserts that none of its interviewees had firsthand knowledge.",
+   "cite": [
+    "e-ba53a7bcd5",
+    "e-9c868f4cb4"
+   ]
+  },
+  {
+   "text": "The board infers that setting the GAO report deadline by mutual agreement leaves the timing of the only new FY2025 oversight product to the parties being overseen and their committees.",
+   "cite": [
+    "c-5e8d21c69b"
+   ]
+  }
+ ],
+ "members": [
+  {
+   "id": "ndaa-fy2022",
+   "role": "law"
+  },
+  {
+   "id": "ndaa-fy2022-sec-1683",
+   "role": "law"
+  },
+  {
+   "id": "ndaa-fy2023",
+   "role": "law"
+  },
+  {
+   "id": "ndaa-fy2023-sec-6802",
+   "role": "law"
+  },
+  {
+   "id": "ndaa-fy2023-sec-1673",
+   "role": "law"
+  },
+  {
+   "id": "iaa-2022",
+   "role": "law"
+  },
+  {
+   "id": "iaa-2023",
+   "role": "law"
+  },
+  {
+   "id": "ndaa-fy2024",
+   "role": "law"
+  },
+  {
+   "id": "ndaa-fy2024-subtitle-c",
+   "role": "law"
+  },
+  {
+   "id": "ndaa-fy2024-1687",
+   "role": "law"
+  },
+  {
+   "id": "iaa-2024",
+   "role": "law"
+  },
+  {
+   "id": "iaa-fy2024-7343",
+   "role": "law"
+  },
+  {
+   "id": "iaa-fy2024-sec-1102",
+   "role": "law"
+  },
+  {
+   "id": "iaa-fy2024-sec1104",
+   "role": "law"
+  },
+  {
+   "id": "uapda-2023",
+   "role": "law"
+  },
+  {
+   "id": "uapda-sec-9010-eminent-domain",
+   "role": "law"
+  },
+  {
+   "id": "uap-records-review-board",
+   "role": "institution"
+  },
+  {
+   "id": "ndaa-fy2025",
+   "role": "law"
+  },
+  {
+   "id": "iaa-fy2025-title-lxviii",
+   "role": "law"
+  },
+  {
+   "id": "ndaa-fy2026",
+   "role": "law"
+  },
+  {
+   "id": "ndaa26-uap-provisions",
+   "role": "law"
+  },
+  {
+   "id": "ndaa-fy2027-s4784",
+   "role": "law"
+  },
+  {
+   "id": "ndaa-fy2027-uap-amendment",
+   "role": "law"
+  },
+  {
+   "id": "uapda-fy2027-house-adopted",
+   "role": "law"
+  },
+  {
+   "id": "usc-10-119",
+   "role": "law"
+  },
+  {
+   "id": "dodi-3204-01",
+   "role": "law"
+  },
+  {
+   "id": "irad-mechanism",
+   "role": "subject"
+  },
+  {
+   "id": "waived-usap",
+   "role": "programme"
+  },
+  {
+   "id": "nip",
+   "role": "programme"
+  },
+  {
+   "id": "kirsten-gillibrand",
+   "role": "legislator"
+  },
+  {
+   "id": "chuck-schumer",
+   "role": "legislator"
+  },
+  {
+   "id": "mark-warner",
+   "role": "legislator"
+  },
+  {
+   "id": "jack-reed",
+   "role": "legislator"
+  },
+  {
+   "id": "roger-wicker",
+   "role": "legislator"
+  },
+  {
+   "id": "mike-rounds",
+   "role": "legislator"
+  },
+  {
+   "id": "eric-burlison",
+   "role": "legislator"
+  },
+  {
+   "id": "senate-armed-services",
+   "role": "institution"
+  },
+  {
+   "id": "senate-intelligence",
+   "role": "institution"
+  },
+  {
+   "id": "house-armed-services",
+   "role": "institution"
+  },
+  {
+   "id": "aaro",
+   "role": "institution"
+  },
+  {
+   "id": "odni",
+   "role": "institution"
+  },
+  {
+   "id": "nara-uap-collection",
+   "role": "institution"
+  },
+  {
+   "id": "aaro-historical-record-vol1",
+   "role": "document"
+  },
+  {
+   "id": "lockheed-martin",
+   "role": "contractor"
+  },
+  {
+   "id": "david-grusch",
+   "role": "claimant"
+  }
+ ],
+ "questions": [
+  "What does section 1102 of the Senate-passed bill actually say, read verbatim from its Congressional Record printing?",
+  "Who in conference removed the review board, the eminent domain clause and the contractor turn-in, and on what stated reasoning?",
+  "Has the Secretary of Defense ever made a 72-hour report to Congress under section 1673 of a disclosure touching an unreported programme?",
+  "Has any contractor disclosed UAP-related IR&D under section 1687(b), which remains in force?",
+  "Has AARO delivered the NORAD and NORTHCOM intercept briefing back to 2004 and the accounting of classification guides the FY2026 act requires?",
+  "When will GAO's review of AARO report, and to whom?",
+  "Why did the funding bar on undisclosed special access UAP activity lapse after FY2024?"
+ ],
+ "related": [
+  "uapda",
+  "records-collection",
+  "aaro",
+  "sap-reporting",
+  "whistleblower-channels",
+  "house-push-2026",
+  "grusch-allegations",
+  "named-contractors",
+  "funding-channels",
+  "carve-outs",
+  "sap-governance"
+ ]
 }

@@ -1,0 +1,1203 @@
+{
+ "absorbs": [
+  "d-mj12"
+ ],
+ "anchors": [
+  "mj-12-documents",
+  "majestic-documents-archive",
+  "majic-eyes-only",
+  "jaime-shandera",
+  "william-l-moore",
+  "ryan-wood",
+  "robert-m-wood",
+  "best-available-evidence"
+ ],
+ "appendixT": "mj12-documents",
+ "cites": {
+  "c-0488143cc4": {
+   "id": "c-0488143cc4",
+   "kind": "claim",
+   "node": "mj-12-documents",
+   "nodeLabel": "MJ-12 / Operation Majestic-12 Documents",
+   "source": {
+    "domain": null,
+    "text": "National Archives, Majestic 12 (MJ-12) Reference Report",
+    "url": null
+   },
+   "text": "NARA's conservation specialist determined the Cutler-Twining document was a ribbon copy prepared on 'diction onionskin.'",
+   "tier": 1
+  },
+  "c-0b511dc817": {
+   "id": "c-0b511dc817",
+   "kind": "claim",
+   "node": "stanton-friedman",
+   "nodeLabel": "Stanton T. Friedman",
+   "source": {
+    "domain": null,
+    "text": "Wikipedia biography of Friedman; Klass-Friedman correspondence",
+    "url": null
+   },
+   "text": "Philip J. Klass offered Friedman $100 per legitimate example of the Pica typeface used in the Cutler-Twining memo; Friedman produced fourteen and was paid $1,000.",
+   "tier": 2
+  },
+  "c-210e27c2a7": {
+   "id": "c-210e27c2a7",
+   "kind": "claim",
+   "node": "jaime-shandera",
+   "nodeLabel": "Jaime H. Shandera",
+   "source": {
+    "domain": null,
+    "text": "National Archives, 'Majestic 12 (MJ-12) Reference Report'",
+    "url": null
+   },
+   "text": "A memorandum for General Twining from Robert Cutler, Special Assistant to the President, subject 'NSC/MJ-12 Special Studies Project,' dated 14 July 1954, was located at the National Archives in Record Group 341, entry 267, folder T4-1846 - the only document in NARA's custody bearing the term MJ-12.",
+   "tier": 1
+  },
+  "c-238409647c": {
+   "id": "c-238409647c",
+   "kind": "claim",
+   "node": "jaime-shandera",
+   "nodeLabel": "Jaime H. Shandera",
+   "source": {
+    "domain": null,
+    "text": "Jaime Shandera and William Moore, consistent public accounts from 1987 onward",
+    "url": null
+   },
+   "text": "The MJ-12 film arrived anonymously at Shandera's residence on 11 December 1984 bearing an Albuquerque postmark.",
+   "tier": 2
+  },
+  "c-395eb87a30": {
+   "id": "c-395eb87a30",
+   "kind": "claim",
+   "node": "majic-eyes-only",
+   "nodeLabel": "Majic Eyes Only: Earth's Encounters with Extraterrestrial Technology (2005)",
+   "source": {
+    "domain": null,
+    "text": "Inference from the book's stated method and citation base",
+    "url": null
+   },
+   "text": "The catalogue's credibility weightings should not be treated as a metric because the weighting function is not reproducible by a third party, and its source trail substantially recirculates Stringfield's anonymous informants and the Majestic Documents corpus. Reasoning: an index inherits the provenance of what it indexes.",
+   "tier": 3
+  },
+  "c-3b5de598e8": {
+   "id": "c-3b5de598e8",
+   "kind": "claim",
+   "node": "d-mj12",
+   "nodeLabel": "Majestic-12 Corpus",
+   "source": {
+    "domain": null,
+    "text": "The Majestic Documents (Wood & Wood)",
+    "url": null
+   },
+   "text": "Robert and Ryan Wood maintain the Majestic Documents archive, which catalogues and argues for the authenticity of substantial portions of the corpus.",
+   "tier": 2
+  },
+  "c-41b4d3461b": {
+   "id": "c-41b4d3461b",
+   "kind": "claim",
+   "node": "james-v-forrestal",
+   "nodeLabel": "James V. Forrestal",
+   "source": {
+    "domain": null,
+    "text": "AREA52 - DEBRIEFED with Chris Ramsay, ep. 32, 4 April 2025, 1:26:37",
+    "url": null
+   },
+   "text": "On AREA52 - DEBRIEFED with Chris Ramsay, episode 32, 4 April 2025, at 1:26:37, Jesse Michels said, prefacing it with 'I don't know if this is right', that Forrestal was hearing 'a description of like mutilated, like human and alien bodies together' from 'the head of the Air Force' and 'was checked into this, you know, Navy hospital in Bethesda, Maryland ... very soon after'. He names no document and no date, and nothing supporting it was opened.",
+   "tier": 3
+  },
+  "c-424998f180": {
+   "id": "c-424998f180",
+   "kind": "claim",
+   "node": "robert-m-wood",
+   "nodeLabel": "Dr. Robert M. Wood",
+   "source": {
+    "domain": null,
+    "text": "Board inference from Wood's account and DoDI 3204.01 IR&D structure",
+    "url": null
+   },
+   "text": "McDonnell Douglas's interest was corporate self-protection - a prime contractor conducting proprietary research into an aerospace capability it did not possess. Reasoning: this matches the incentive structure later codified in DoD IR&D policy and named by Grusch, but no McDonnell Douglas internal record of the study has been released.",
+   "tier": 3
+  },
+  "c-45f992c5de": {
+   "id": "c-45f992c5de",
+   "kind": "claim",
+   "node": "james-v-forrestal",
+   "nodeLabel": "James V. Forrestal",
+   "source": {
+    "domain": "history.state.gov",
+    "text": "Persons, FRUS, Emergence of the Intelligence Establishment, 1945-1950, https://history.state.gov/historicaldocuments/frus1945-50Intel/persons",
+    "url": "https://history.state.gov/historicaldocuments/frus1945-50Intel/persons"
+   },
+   "text": "His tenure is dated to the day in the Department of State's own editorial apparatus: 'Forrestal, James V., Secretary of the Navy until September 1947; Secretary of Defense, September 17, 1947-March 28, 1949.'",
+   "tier": 1
+  },
+  "c-4792e91435": {
+   "id": "c-4792e91435",
+   "kind": "claim",
+   "node": "robert-m-wood",
+   "nodeLabel": "Dr. Robert M. Wood",
+   "source": {
+    "domain": null,
+    "text": "majesticdocuments.com site structure and copyright notice, retrieved 12 August 2026",
+    "url": null
+   },
+   "text": "majesticdocuments.com is operated by Dr. Robert M. Wood and Ryan S. Wood, carries a 1999-2026 copyright, and organises its holdings by date band with a published 'Authenticity Ratings' scheme, alongside sections for FOIA, NARA, Truman Library and British Public Record Office material.",
+   "tier": 1
+  },
+  "c-4dba859b2a": {
+   "id": "c-4dba859b2a",
+   "kind": "claim",
+   "node": "william-l-moore",
+   "nodeLabel": "William L. Moore",
+   "source": {
+    "domain": "archive.org",
+    "text": "Headquarters USAF, 'The Roswell Report: Fact versus Fiction in the New Mexico Desert' (1995) https://archive.org/details/DTIC_ADA326148",
+    "url": "https://archive.org/details/DTIC_ADA326148"
+   },
+   "text": "The US Air Force's 1995 Roswell report names 'The Roswell Incident (1980) by William Moore and Charles Berlitz' and 'Crashed Saucers: Evidence in Search of Proof (1985) by Moore' among the major works it reviewed to set the parameters of its records search, and describes Moore and Berlitz as having 'engaged in research which led them to publish' the 1980 book.",
+   "tier": 1
+  },
+  "c-4f4c1e3b78": {
+   "id": "c-4f4c1e3b78",
+   "kind": "claim",
+   "node": "william-l-moore",
+   "nodeLabel": "William L. Moore",
+   "source": {
+    "domain": null,
+    "text": "Chronological overlay of Moore's admitted 1980-1989 cooperation window on the December 1984 MJ-12 delivery",
+    "url": null
+   },
+   "text": "The 1984 arrival of the MJ-12 film at Moore's address falls inside the window he later admitted was a period of cooperation with AFOSI, which is sufficient on its own to bar the MJ-12 corpus from tier 1 or tier 2 status regardless of any forensic analysis. Reasoning: the recipient of an anonymous delivery has admitted to being an operational channel for the agency most likely to have sent it.",
+   "tier": 3
+  },
+  "c-5fd1c56d80": {
+   "id": "c-5fd1c56d80",
+   "kind": "claim",
+   "node": "william-l-moore",
+   "nodeLabel": "William L. Moore",
+   "source": {
+    "domain": null,
+    "text": "Gerald K. Haines, 'CIA's Role in the Study of UFOs, 1947-90', endnote 93",
+    "url": null
+   },
+   "text": "Moore and Shandera published 'The MJ-12 Documents: An Analytical Report' as Fair-Witness Project Publication Number 1500 in 1990, and Moore and Friedman published 'Philip Klass and MJ-12: What are the Facts' as Publication Number 1290 in 1988 - both cited in CIA's own 1997 history of the Agency's UFO role.",
+   "tier": 1
+  },
+  "c-6f952410e5": {
+   "id": "c-6f952410e5",
+   "kind": "claim",
+   "node": "mcdonnell-douglas",
+   "nodeLabel": "McDonnell Douglas Corporation",
+   "source": {
+    "domain": null,
+    "text": "Robert M. Wood's own repeated public account",
+    "url": null
+   },
+   "text": "Robert M. Wood conducted a company-funded study of unidentified craft at McDonnell Douglas Astronautics, Huntington Beach, in the late 1960s.",
+   "tier": 2
+  },
+  "c-7597ef00df": {
+   "id": "c-7597ef00df",
+   "kind": "claim",
+   "node": "mj-12-documents",
+   "nodeLabel": "MJ-12 / Operation Majestic-12 Documents",
+   "source": {
+    "domain": null,
+    "text": "National Archives, Majestic 12 (MJ-12) Reference Report",
+    "url": null
+   },
+   "text": "NARA found that the Cutler-Twining memorandum bears no Top Secret register number, is filed in a folder containing no other MJ-12 material, lacks official letterhead or watermark, and carries a 'Top Secret Restricted Information' marking that the NSC FOIA office says did not come into use until the Nixon administration.",
+   "tier": 1
+  },
+  "c-77ef492a47": {
+   "id": "c-77ef492a47",
+   "kind": "claim",
+   "node": "majestic-documents-archive",
+   "nodeLabel": "The Majestic Documents archive (Wood and Wood)",
+   "source": {
+    "domain": null,
+    "text": "majesticdocuments.com, site structure and copyright notice, retrieved 12 August 2026",
+    "url": null
+   },
+   "text": "majesticdocuments.com is operated by Dr. Robert M. Wood and Ryan S. Wood, carries a 1999-2026 copyright, publishes an 'Authenticity Ratings' scheme, and organises holdings by date band alongside sections for FOIA, NARA, Truman Library, British Public Record Office and NICAP material and for the Air Force/GAO investigations.",
+   "tier": 1
+  },
+  "c-8365a975f1": {
+   "id": "c-8365a975f1",
+   "kind": "claim",
+   "node": "mj-12-documents",
+   "nodeLabel": "MJ-12 / Operation Majestic-12 Documents",
+   "source": {
+    "domain": null,
+    "text": "Inference from the Albuquerque postmark, Moore's admitted AFOSI cooperation, Doty's role as conduit in the parallel Howe and Bennewitz channels, and the concentration of all three in a single locality and timeframe.",
+    "url": null
+   },
+   "text": "The MJ-12 documents are an artefact of the same 1980-1985 Albuquerque/Kirtland disinformation activity that produced the Bennewitz material and the AQUARIUS paper, rather than an independent leak.",
+   "tier": 3
+  },
+  "c-88c21893dc": {
+   "id": "c-88c21893dc",
+   "kind": "claim",
+   "node": "leonard-stringfield",
+   "nodeLabel": "Leonard H. Stringfield",
+   "source": {
+    "domain": null,
+    "text": "Stringfield, Status Report IV, 'Prologue: The Burden of Proof' (scan)",
+    "url": null
+   },
+   "text": "Stringfield stated in Status Report IV that public UFO research does not possess proof, and that affidavits, leaked government documents and photographs do not constitute proof - an unusually explicit self-assessment by the field's founding retrieval researcher.",
+   "tier": 2
+  },
+  "c-a53b721fb9": {
+   "id": "c-a53b721fb9",
+   "kind": "claim",
+   "node": "stanton-friedman",
+   "nodeLabel": "Stanton T. Friedman",
+   "source": {
+    "domain": "archive.org",
+    "text": "Headquarters USAF, 'The Roswell Report: Fact versus Fiction in the New Mexico Desert' (1995) https://archive.org/details/DTIC_ADA326148",
+    "url": "https://archive.org/details/DTIC_ADA326148"
+   },
+   "text": "The US Air Force's own 1995 Roswell report states: 'In 1978, a UFO researcher, Stanton Friedman, met with Marcel and began investigating the claims that the material Marcel handled was from a crashed UFO.' The board's account of Friedman as the first civilian investigator to reach Marcel is therefore attested by the Air Force, not only by Friedman.",
+   "tier": 1
+  },
+  "c-b3735068f1": {
+   "id": "c-b3735068f1",
+   "kind": "claim",
+   "node": "robert-m-wood",
+   "nodeLabel": "Dr. Robert M. Wood",
+   "source": {
+    "domain": null,
+    "text": "Wood's own account, given in lectures and in the Majestic Documents materials",
+    "url": null
+   },
+   "text": "Wood managed advanced research at McDonnell Douglas for 43 years and directed a company study of field-propulsion effects related to UFO reports.",
+   "tier": 2
+  },
+  "c-b43f8d39ea": {
+   "id": "c-b43f8d39ea",
+   "kind": "claim",
+   "node": "ryan-wood",
+   "nodeLabel": "Ryan S. Wood",
+   "source": {
+    "domain": null,
+    "text": "Inference from the book's stated method",
+    "url": null
+   },
+   "text": "The credibility weightings in 'Majic Eyes Only' are not independently reproducible because the weighting function is not published in auditable form, so the catalogue's value is as an index of claims and first-claimants rather than as a ranking. Reasoning: a scoring scheme that cannot be re-run by a third party on the same inputs is a summary, not a metric.",
+   "tier": 3
+  },
+  "c-b4c8092bde": {
+   "id": "c-b4c8092bde",
+   "kind": "claim",
+   "node": "majic-eyes-only",
+   "nodeLabel": "Majic Eyes Only: Earth's Encounters with Extraterrestrial Technology (2005)",
+   "source": {
+    "domain": null,
+    "text": "Ryan S. Wood, 'Majic Eyes Only' (2005)",
+    "url": null
+   },
+   "text": "'Majic Eyes Only' catalogues claimed crash-retrieval events from the 1940s onward with dates, locations, source trails and numerical credibility weightings.",
+   "tier": 2
+  },
+  "c-be94466742": {
+   "id": "c-be94466742",
+   "kind": "claim",
+   "node": "kevin-randle",
+   "nodeLabel": "Kevin D. Randle",
+   "source": {
+    "domain": null,
+    "text": "Randle, 'Conclusions on Operation Majestic Twelve' (1994) and 'Case MJ-12' (2002)",
+    "url": null
+   },
+   "text": "Randle concluded the Majestic 12 documents were not authentic, in direct opposition to Stanton Friedman.",
+   "tier": 2
+  },
+  "c-c26feaec5b": {
+   "id": "c-c26feaec5b",
+   "kind": "claim",
+   "node": "james-v-forrestal",
+   "nodeLabel": "James V. Forrestal",
+   "source": {
+    "domain": null,
+    "text": "AREA52 - DEBRIEFED with Chris Ramsay, ep. 20, 3 January 2025, 0:12:27; National Security Act of 1947, 61 Stat. 495, sec. 202(a)",
+    "url": null
+   },
+   "text": "On AREA52 - DEBRIEFED with Chris Ramsay, episode 20, 3 January 2025, at 0:12:27, Ramsay read aloud from John Lear's 1987 statement that 'several committed suicide, the most prominent of which was General James V. Forestall who jumped to his death from a 16th story hospital window. General Forestall's medical records are sealed to this day.' The document's rank is wrong: the statute creating the office he held requires a civilian appointee and bars any commissioned officer on active duty within the previous ten years.",
+   "tier": 2
+  },
+  "c-da5d95458e": {
+   "id": "c-da5d95458e",
+   "kind": "claim",
+   "node": "majestic-documents-archive",
+   "nodeLabel": "The Majestic Documents archive (Wood and Wood)",
+   "source": {
+    "domain": null,
+    "text": "Chain-of-custody inference",
+    "url": null
+   },
+   "text": "The archive's forensic framework is the right instrument applied to a corpus whose chain of custody disqualifies it, which is why this board treats the MJ-12 material as evidence about the disinformation apparatus rather than about recovery operations. Reasoning: the December 1984 delivery falls inside the window Moore admitted to working with AFOSI.",
+   "tier": 3
+  },
+  "c-e3218ad4c5": {
+   "id": "c-e3218ad4c5",
+   "kind": "claim",
+   "node": "ryan-wood",
+   "nodeLabel": "Ryan S. Wood",
+   "source": {
+    "domain": null,
+    "text": "Ryan S. Wood, 'Majic Eyes Only' (2005); copy indexed at the Internet Archive",
+    "url": null
+   },
+   "text": "'Majic Eyes Only' catalogues claimed crash-retrieval events from the 1940s onward with dates, locations, source trails and numerical credibility weightings.",
+   "tier": 2
+  },
+  "c-e3bce81098": {
+   "id": "c-e3bce81098",
+   "kind": "claim",
+   "node": "mufon",
+   "nodeLabel": "Mutual UFO Network (MUFON)",
+   "source": {
+    "domain": null,
+    "text": "Moore's 1989 MUFON symposium statement, subsequently published in full",
+    "url": null
+   },
+   "text": "William L. Moore made his public statement about cooperating with AFOSI and passing disinformation to Paul Bennewitz at the 1989 MUFON symposium in Las Vegas.",
+   "tier": 2
+  },
+  "c-e912a1091d": {
+   "id": "c-e912a1091d",
+   "kind": "claim",
+   "node": "robert-m-wood",
+   "nodeLabel": "Dr. Robert M. Wood",
+   "source": {
+    "domain": null,
+    "text": "Comparison of published treatments of the MJ-12 corpus",
+    "url": null
+   },
+   "text": "The Wood forensic protocol is the correct methodological answer to the MJ-12 problem even where its conclusions are wrong, because it makes the documents falsifiable. Reasoning: every other treatment of the corpus - Friedman's defence, Klass's attack, the FBI's one-word 'BOGUS' annotation - asserts a verdict without publishing a repeatable test.",
+   "tier": 3
+  },
+  "c-ef98e69bfa": {
+   "id": "c-ef98e69bfa",
+   "kind": "claim",
+   "node": "project-aquarius",
+   "nodeLabel": "Project AQUARIUS (alleged)",
+   "source": {
+    "domain": null,
+    "text": "National Archives, Project BLUE BOOK / MJ-12 reference report",
+    "url": null
+   },
+   "text": "The National Archives searched NSC Policy Paper and Meeting Minute indexes under the subjects 'MJ-12, majestic, unidentified flying objects, UFO, flying saucers, extraterrestrial biological entities, and Aquarius' and reported all searches negative except for the July 1954 Cutler-Twining memorandum.",
+   "tier": 1
+  },
+  "c-f553ff4141": {
+   "id": "c-f553ff4141",
+   "kind": "claim",
+   "node": "d-mj12",
+   "nodeLabel": "Majestic-12 Corpus",
+   "source": {
+    "domain": null,
+    "text": "Klass, Skeptical Inquirer",
+    "url": null
+   },
+   "text": "Philip J. Klass published a forensic critique identifying document anomalies in Skeptical Inquirer in 1988.",
+   "tier": 2
+  },
+  "c-f63540a234": {
+   "id": "c-f63540a234",
+   "kind": "claim",
+   "node": "d-mj12",
+   "nodeLabel": "Majestic-12 Corpus",
+   "source": {
+    "domain": null,
+    "text": "FBI Records: The Vault - 'Majestic 12'",
+    "url": null
+   },
+   "text": "The FBI maintains a public file on the Majestic 12 documents in its Vault reading room.",
+   "tier": 1
+  },
+  "c-f9f2738638": {
+   "id": "c-f9f2738638",
+   "kind": "claim",
+   "node": "mj-12-documents",
+   "nodeLabel": "MJ-12 / Operation Majestic-12 Documents",
+   "source": {
+    "domain": null,
+    "text": "FBI Records: The Vault, 'Majestic 12'",
+    "url": null
+   },
+   "text": "The FBI states: 'In 1988, two FBI offices received similar versions of a memo titled \"Operation Majestic-12...\" claiming to be highly classified government document... An Air Force investigation determined the document to be a fake.'",
+   "tier": 1
+  },
+  "c-fa027c84d8": {
+   "id": "c-fa027c84d8",
+   "kind": "claim",
+   "node": "stanton-friedman",
+   "nodeLabel": "Stanton T. Friedman",
+   "source": {
+    "domain": null,
+    "text": "Friedman, 'Top Secret/Majic' (1996); summarised in Wikipedia biography",
+    "url": null
+   },
+   "text": "Friedman demonstrated that a purported 17 February 1948 Hillenkoetter memo to Truman was an emulation of a Marshall-to-Roosevelt letter published in 'The American MAGIC' - i.e. he proved part of the MJ-12 corpus fraudulent while defending the rest.",
+   "tier": 2
+  },
+  "e-1d0d6f81d0": {
+   "endpoints": [
+    {
+     "id": "william-l-moore",
+     "label": "William L. Moore"
+    },
+    {
+     "id": "mufon",
+     "label": "Mutual UFO Network (MUFON)"
+    }
+   ],
+   "id": "e-1d0d6f81d0",
+   "kind": "edge",
+   "label": "Made the AFOSI disinformation admission from the MUFON platform",
+   "sources": [
+    {
+     "date": "1989-07-01",
+     "name": "Moore's 1989 MUFON symposium statement, published in full in the MUFON and Fair-Witness literature",
+     "url": "https://en.wikipedia.org/wiki/Stanton_T._Friedman"
+    }
+   ],
+   "text": "Moore chose the 1989 MUFON symposium in Las Vegas to state that he had cooperated with Air Force Office of Special Investigations personnel and passed disinformation to Paul Bennewitz.",
+   "tier": 2,
+   "type": "institutional"
+  },
+  "e-26b335c0ff": {
+   "endpoints": [
+    {
+     "id": "robert-m-wood",
+     "label": "Dr. Robert M. Wood"
+    },
+    {
+     "id": "mcdonnell-douglas",
+     "label": "McDonnell Douglas Corporation"
+    }
+   ],
+   "id": "e-26b335c0ff",
+   "kind": "edge",
+   "label": "Wood ran a company-funded study of unidentified craft at McDonnell Douglas Astronautics",
+   "sources": [
+    {
+     "date": "2020-07-09",
+     "name": "DoD Instruction 3204.01, 'DoD Policy for Oversight of Independent Research and Development (IR&D)' (Change 2)",
+     "url": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/320401p.pdf"
+    }
+   ],
+   "text": "Wood spent his career at the Huntington Beach astronautics organisation and has repeatedly described initiating an internal study on the reasoning that a prime could not afford to be last to know if the propulsion were real.",
+   "tier": 2,
+   "type": "institutional"
+  },
+  "e-2e31afa36a": {
+   "endpoints": [
+    {
+     "id": "project-aquarius",
+     "label": "Project AQUARIUS (alleged)"
+    },
+    {
+     "id": "mj-12-documents",
+     "label": "MJ-12 / Operation Majestic-12 Documents"
+    }
+   ],
+   "id": "e-2e31afa36a",
+   "kind": "edge",
+   "label": "AQUARIUS and MJ-12 emerged from the same Albuquerque channel within 20 months",
+   "sources": [
+    {
+     "date": "2016-08-15",
+     "name": "National Archives, 'Project BLUE BOOK - Unidentified Flying Objects' reference report (incl. MJ-12 / Cutler-Twining findings)",
+     "url": "https://www.archives.gov/research/military/air-force/ufos"
+    },
+    {
+     "date": "2011-04-01",
+     "name": "FBI Records: The Vault - 'Majestic 12'",
+     "url": "https://vault.fbi.gov/Majestic%2012"
+    }
+   ],
+   "text": "The AQUARIUS paper was shown at Kirtland in April 1983; the MJ-12 film arrived postmarked Albuquerque in December 1984. Both channels ran through people in contact with AFOSI.",
+   "tier": 3,
+   "type": "programmatic"
+  },
+  "e-2ee2bc759c": {
+   "endpoints": [
+    {
+     "id": "stanton-friedman",
+     "label": "Stanton T. Friedman"
+    },
+    {
+     "id": "kevin-randle",
+     "label": "Kevin D. Randle"
+    }
+   ],
+   "id": "e-2ee2bc759c",
+   "kind": "edge",
+   "label": "Unresolved dispute over MJ-12 authenticity",
+   "sources": [
+    {
+     "date": "2026-08-12",
+     "name": "Stanton T. Friedman - Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Stanton_T._Friedman"
+    }
+   ],
+   "text": "Friedman held there were no substantive grounds for dismissing the core documents while himself proving parts of the corpus faked; Randle concluded the whole was not authentic. Neither position has been settled by any released record.",
+   "tier": 2,
+   "type": "denial"
+  },
+  "e-3efb6ca3ff": {
+   "endpoints": [
+    {
+     "id": "william-l-moore",
+     "label": "William L. Moore"
+    },
+    {
+     "id": "kevin-randle",
+     "label": "Kevin D. Randle"
+    }
+   ],
+   "id": "e-3efb6ca3ff",
+   "kind": "edge",
+   "label": "Moore's 1989 AFOSI admission is Randle's strongest argument against MJ-12",
+   "sources": [
+    {
+     "date": "2026-08-12",
+     "name": "Stanton T. Friedman - Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Stanton_T._Friedman"
+    }
+   ],
+   "text": "Moore stated publicly at the 1989 MUFON symposium that he had cooperated with AFOSI and passed disinformation to Paul Bennewitz; Randle's 'Conclusions on Operation Majestic Twelve' (1994) and 'Case MJ-12' (2002) treat the corpus as fabricated.",
+   "tier": 2,
+   "type": "denial"
+  },
+  "e-55ecd6c9c8": {
+   "endpoints": [
+    {
+     "id": "james-v-forrestal",
+     "label": "James V. Forrestal"
+    },
+    {
+     "id": "d-mj12",
+     "label": "Majestic-12 Corpus"
+    }
+   ],
+   "id": "e-55ecd6c9c8",
+   "kind": "edge",
+   "label": "The 1987 Lear document gives him a military rank his own office forbade",
+   "sources": [
+    {
+     "date": "1947-07-26",
+     "name": "National Security Act of 1947, 61 Stat. 495, sec. 202(a)",
+     "url": "https://www.govinfo.gov/content/pkg/STATUTE-61/pdf/STATUTE-61-Pg495.pdf"
+    }
+   ],
+   "text": "Read aloud on AREA52 - DEBRIEFED episode 20, 3 January 2025, the document twice calls him 'General James V. Forestall'. Section 202(a) of the National Security Act of 1947 requires the Secretary of Defense to be appointed from civilian life and disqualifies anyone who has been on active duty as a commissioned officer within ten years. The edge records the error, not the attribution.",
+   "tier": 2,
+   "type": "denial"
+  },
+  "e-574a5fe3bd": {
+   "endpoints": [
+    {
+     "id": "leonard-stringfield",
+     "label": "Leonard H. Stringfield"
+    },
+    {
+     "id": "stringfield-status-reports",
+     "label": "UFO Crash/Retrieval Status Reports I-VII (Stringfield, 1978-1994)"
+    }
+   ],
+   "id": "e-574a5fe3bd",
+   "kind": "edge",
+   "label": "Authored the seven-part Status Report series",
+   "sources": [
+    {
+     "date": "2026-08-12",
+     "name": "Stringfield Status Reports 1-7 (scans)",
+     "url": "https://archive.org/details/stringfield_Retrievals_Report_6_inner_sanctum_LQ"
+    }
+   ],
+   "text": "Stringfield wrote and self-published or placed all seven Status Reports between July 1978 and February 1994. Title and copyright pages of the original printings attest authorship, dates and, for Report VI, the Cincinnati imprint.",
+   "tier": 1,
+   "type": "research"
+  },
+  "e-6a1cbaf42c": {
+   "endpoints": [
+    {
+     "id": "majic-eyes-only",
+     "label": "Majic Eyes Only: Earth's Encounters with Extraterrestrial Technology (2005)"
+    },
+    {
+     "id": "stringfield-status-reports",
+     "label": "UFO Crash/Retrieval Status Reports I-VII (Stringfield, 1978-1994)"
+    }
+   ],
+   "id": "e-6a1cbaf42c",
+   "kind": "edge",
+   "label": "The catalogue inherits Stringfield's case base",
+   "sources": [
+    {
+     "date": "2026-08-12",
+     "name": "Stringfield Status Reports 1-7 (scans)",
+     "url": "https://archive.org/details/stringfield_Retrievals_Report_6_inner_sanctum_LQ"
+    }
+   ],
+   "text": "A substantial share of 'Majic Eyes Only' entries trace back through Stringfield's anonymised Status Report cases, so the catalogue inherits their provenance limits. Reasoning: an index cannot be graded above its sources.",
+   "tier": 3,
+   "type": "research"
+  },
+  "e-6e1d327b8f": {
+   "endpoints": [
+    {
+     "id": "william-l-moore",
+     "label": "William L. Moore"
+    },
+    {
+     "id": "the-roswell-incident-1980",
+     "label": "The Roswell Incident (Berlitz and Moore, 1980)"
+    }
+   ],
+   "id": "e-6e1d327b8f",
+   "kind": "edge",
+   "label": "Co-authored the founding Roswell book",
+   "sources": [
+    {
+     "date": "1980-01-01",
+     "name": "Berlitz and Moore, 'The Roswell Incident' (1980)",
+     "url": "https://archive.org/details/charles-berlitz-william-l.-moore-the-roswell-incident-1980_202012"
+    }
+   ],
+   "text": "Charles Berlitz and William L. Moore, Grosset & Dunlap, 1980, ISBN 978-0448211992.",
+   "tier": 1,
+   "type": "research"
+  },
+  "e-7637a7be80": {
+   "endpoints": [
+    {
+     "id": "ryan-wood",
+     "label": "Ryan S. Wood"
+    },
+    {
+     "id": "majestic-documents-archive",
+     "label": "The Majestic Documents archive (Wood and Wood)"
+    }
+   ],
+   "id": "e-7637a7be80",
+   "kind": "edge",
+   "label": "Co-principal of the document archive",
+   "sources": [
+    {
+     "date": "2026-08-12",
+     "name": "The Majestic Documents (Wood & Wood)",
+     "url": "https://majesticdocuments.com/"
+    }
+   ],
+   "text": "Same copyright notice and About page attribution.",
+   "tier": 1,
+   "type": "research"
+  },
+  "e-7a2d61cfb7": {
+   "endpoints": [
+    {
+     "id": "jaime-shandera",
+     "label": "Jaime H. Shandera"
+    },
+    {
+     "id": "mj-12-documents",
+     "label": "MJ-12 / Operation Majestic-12 Documents"
+    }
+   ],
+   "id": "e-7a2d61cfb7",
+   "kind": "edge",
+   "label": "Received the anonymous 35mm film on 11 December 1984",
+   "sources": [
+    {
+     "date": "2011-04-01",
+     "name": "FBI Records: The Vault - 'Majestic 12'",
+     "url": "https://vault.fbi.gov/Majestic%2012"
+    },
+    {
+     "date": "1988-01-01",
+     "name": "Philip J. Klass, 'The MJ-12 Crashed-Saucer Documents', Skeptical Inquirer",
+     "url": "https://skepticalinquirer.org/1988/01/the-mj-12-crashed-saucer-documents/"
+    }
+   ],
+   "text": "The film arrived at Shandera's Los Angeles home postmarked Albuquerque, New Mexico - the same city as the AFOSI operation running against Bennewitz.",
+   "tier": 2,
+   "type": "custody"
+  },
+  "e-909515bf6f": {
+   "endpoints": [
+    {
+     "id": "ryan-wood",
+     "label": "Ryan S. Wood"
+    },
+    {
+     "id": "majic-eyes-only",
+     "label": "Majic Eyes Only: Earth's Encounters with Extraterrestrial Technology (2005)"
+    }
+   ],
+   "id": "e-909515bf6f",
+   "kind": "edge",
+   "label": "Compiled the crash-retrieval catalogue",
+   "sources": [
+    {
+     "date": "2026-08-12",
+     "name": "Majic Eyes Only - Internet Archive copy",
+     "url": "https://archive.org/details/majic-eyes-only-earths-encounters-with-extraterrestrial-ryan-s-wood-1st-edition-"
+    }
+   ],
+   "text": "Ryan S. Wood authored 'Majic Eyes Only' (2005), converting the narrative retrieval literature into an indexed catalogue with credibility weightings.",
+   "tier": 2,
+   "type": "research"
+  },
+  "e-9d050e82b0": {
+   "endpoints": [
+    {
+     "id": "william-l-moore",
+     "label": "William L. Moore"
+    },
+    {
+     "id": "stanton-friedman",
+     "label": "Stanton T. Friedman"
+    }
+   ],
+   "id": "e-9d050e82b0",
+   "kind": "edge",
+   "label": "Moore and Shandera's 1984 film delivery became Friedman's decade-long project",
+   "sources": [
+    {
+     "date": "2026-08-12",
+     "name": "Stanton T. Friedman - Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Stanton_T._Friedman"
+    }
+   ],
+   "text": "Friedman became aware of the MJ-12 documents through Moore and Jaime Shandera in 1984 and defended their core authenticity through 'Top Secret/Majic' (1996).",
+   "tier": 2,
+   "type": "research"
+  },
+  "e-a5debf93b7": {
+   "endpoints": [
+    {
+     "id": "william-l-moore",
+     "label": "William L. Moore"
+    },
+    {
+     "id": "majestic-documents-archive",
+     "label": "The Majestic Documents archive (Wood and Wood)"
+    }
+   ],
+   "id": "e-a5debf93b7",
+   "kind": "edge",
+   "label": "The archive's core corpus entered the record through Moore's mailbox",
+   "sources": [
+    {
+     "date": "2026-08-12",
+     "name": "The Majestic Documents (Wood & Wood)",
+     "url": "https://majesticdocuments.com/"
+    }
+   ],
+   "text": "The Eisenhower Briefing Document and Truman-Forrestal memorandum arrived as undeveloped 35mm film addressed to Moore and Shandera in December 1984; everything downstream in the corpus dates from that delivery.",
+   "tier": 1,
+   "type": "custody"
+  },
+  "e-c8f09a7e02": {
+   "endpoints": [
+    {
+     "id": "robert-m-wood",
+     "label": "Dr. Robert M. Wood"
+    },
+    {
+     "id": "majestic-documents-archive",
+     "label": "The Majestic Documents archive (Wood and Wood)"
+    }
+   ],
+   "id": "e-c8f09a7e02",
+   "kind": "edge",
+   "label": "Co-principal of the document archive and its rating scheme",
+   "sources": [
+    {
+     "date": "2026-08-12",
+     "name": "The Majestic Documents (Wood & Wood)",
+     "url": "https://majesticdocuments.com/"
+    }
+   ],
+   "text": "The site carries a 1999-2026 copyright in the name 'Majestic Documents Wood & Wood' and identifies Dr. Robert M. Wood and Ryan S. Wood as its principals.",
+   "tier": 1,
+   "type": "research"
+  },
+  "e-d0563484da": {
+   "endpoints": [
+    {
+     "id": "william-l-moore",
+     "label": "William L. Moore"
+    },
+    {
+     "id": "mj-12-documents",
+     "label": "MJ-12 / Operation Majestic-12 Documents"
+    }
+   ],
+   "id": "e-d0563484da",
+   "kind": "edge",
+   "label": "Moore controlled the MJ-12 material's release with Shandera and Friedman",
+   "sources": [
+    {
+     "date": "1997-01-01",
+     "name": "Gerald K. Haines, 'CIA's Role in the Study of UFOs, 1947-90', Studies in Intelligence (CIA), archived copy",
+     "url": "https://www.theblackvault.com/documentarchive/cias-role-in-the-study-of-ufos-1947-90/"
+    },
+    {
+     "date": "2011-04-01",
+     "name": "FBI Records: The Vault - 'Majestic 12'",
+     "url": "https://vault.fbi.gov/Majestic%2012"
+    }
+   ],
+   "text": "Moore and Shandera published 'The MJ-12 Documents: An Analytical Report' as Fair-Witness Project Publication 1500 in 1990, cited in CIA's own 1997 UFO history.",
+   "tier": 1,
+   "type": "custody"
+  },
+  "e-f390ae24fb": {
+   "endpoints": [
+    {
+     "id": "leonard-stringfield",
+     "label": "Leonard H. Stringfield"
+    },
+    {
+     "id": "mufon",
+     "label": "Mutual UFO Network (MUFON)"
+    }
+   ],
+   "id": "e-f390ae24fb",
+   "kind": "edge",
+   "label": "MUFON symposium platform and publisher for Reports I and II",
+   "sources": [
+    {
+     "date": "2026-08-12",
+     "name": "Stringfield Status Reports 1-7 (scans)",
+     "url": "https://archive.org/details/stringfield_Retrievals_Report_6_inner_sanctum_LQ"
+    }
+   ],
+   "text": "Report I was delivered at the ninth annual MUFON Symposium in Dayton on 29 July 1978; Report II was published by MUFON in January 1980. Stringfield served as MUFON's director of public relations.",
+   "tier": 1,
+   "type": "institutional"
+  }
+ },
+ "claimed": [
+  {
+   "cite": [
+    "e-2ee2bc759c",
+    "c-fa027c84d8",
+    "c-0b511dc817"
+   ],
+   "text": "Friedman held that there were no substantive grounds for dismissing the core documents, while himself showing that a purported 17 February 1948 Hillenkoetter memo was an emulation of a published Marshall-to-Roosevelt letter; he won $1,000 from Klass by producing fourteen examples of the typeface used in the Cutler-Twining memo."
+  },
+  {
+   "cite": [
+    "c-3b5de598e8",
+    "c-b3735068f1",
+    "c-6f952410e5",
+    "e-26b335c0ff"
+   ],
+   "text": "The Woods' archive argues for the authenticity of substantial portions of the corpus; Robert Wood, who spent his career at McDonnell Douglas, says he ran a company-funded study of unidentified craft there in the late 1960s."
+  },
+  {
+   "cite": [
+    "c-e3218ad4c5",
+    "c-b4c8092bde"
+   ],
+   "text": "Majic Eyes Only catalogues claimed crash-retrieval events from the 1940s with dates, places, source trails and numerical credibility weightings."
+  },
+  {
+   "cite": [
+    "c-c26feaec5b",
+    "c-41b4d3461b"
+   ],
+   "text": "John Lear's 1987 statement, read aloud on a podcast, says Forrestal was one of several who committed suicide and calls him General Forestall; Jesse Michels, saying he did not know if it was right, suggested Forrestal had heard of recovered bodies shortly before his hospitalisation."
+  },
+  {
+   "cite": [
+    "c-88c21893dc"
+   ],
+   "text": "Stringfield himself wrote in his fourth report that public UFO research has no proof and that affidavits, leaked documents and photographs are not proof."
+  }
+ ],
+ "contested": [
+  {
+   "cite": [
+    "c-be94466742",
+    "e-3efb6ca3ff",
+    "c-f553ff4141",
+    "e-2ee2bc759c"
+   ],
+   "text": "Randle concluded the documents were not authentic, and Moore's 1989 admission is his strongest argument; Klass published a forensic critique of the documents' anomalies in 1988. Friedman and Randle's dispute has not been settled by any released record."
+  },
+  {
+   "cite": [
+    "c-8365a975f1",
+    "e-2e31afa36a"
+   ],
+   "text": "On the board's reading, the MJ-12 documents and the Aquarius paper shown at Kirtland in 1983 came from the same Albuquerque channel within twenty months, both through people in contact with AFOSI; this is an inference from timing and contacts."
+  },
+  {
+   "cite": [
+    "e-55ecd6c9c8",
+    "c-45f992c5de"
+   ],
+   "text": "The Lear document gives Forrestal a military rank that the 1947 Act creating his office forbade, since the Secretary of Defense had to come from civilian life."
+  },
+  {
+   "cite": [
+    "c-b43f8d39ea",
+    "c-395eb87a30",
+    "e-6a1cbaf42c"
+   ],
+   "text": "On the board's reading, the catalogue's weightings cannot be re-run by a third party and its sources recirculate Stringfield's anonymous informants and the Majestic corpus, so it is an index of claims rather than a ranking."
+  },
+  {
+   "cite": [
+    "c-e912a1091d",
+    "c-da5d95458e"
+   ],
+   "text": "The board credits the Woods' forensic protocol with making the documents falsifiable, even where its conclusions are wrong, but holds that the corpus's chain of custody disqualifies it."
+  },
+  {
+   "cite": [
+    "c-424998f180"
+   ],
+   "text": "On the board's reading, McDonnell Douglas's interest in Wood's study would have been corporate self-protection, but no internal record of the study has been released."
+  }
+ ],
+ "essays": [],
+ "focusEra": "1",
+ "id": "mj12-documents",
+ "kind": "document",
+ "lead": {
+  "cite": [
+   "c-238409647c",
+   "e-7a2d61cfb7",
+   "c-f9f2738638",
+   "c-da5d95458e"
+  ],
+  "text": "The Majestic-12 documents are papers purporting to show a secret 1950s control group for recovered craft; they surfaced, by the account of their recipients Jaime Shandera and William Moore, as an anonymous roll of film mailed to Shandera in December 1984 and postmarked Albuquerque. The FBI records that an Air Force investigation found the memo it received to be a fake, and the board treats the corpus as evidence about the disinformation of the period rather than about recoveries."
+ },
+ "members": [
+  {
+   "cls": "document",
+   "id": "mj-12-documents",
+   "label": "MJ-12 / Operation Majestic-12 Documents",
+   "role": "subject"
+  },
+  {
+   "cls": "program",
+   "id": "majestic-documents-archive",
+   "label": "The Majestic Documents archive (Wood and Wood)",
+   "role": "institution"
+  },
+  {
+   "cls": "document",
+   "id": "majic-eyes-only",
+   "label": "Majic Eyes Only: Earth's Encounters with Extraterrestrial Technology (2005)",
+   "role": "document"
+  },
+  {
+   "cls": "person",
+   "id": "jaime-shandera",
+   "label": "Jaime H. Shandera",
+   "role": "claimant"
+  },
+  {
+   "cls": "person",
+   "id": "william-l-moore",
+   "label": "William L. Moore",
+   "role": "claimant"
+  },
+  {
+   "cls": "person",
+   "id": "ryan-wood",
+   "label": "Ryan S. Wood",
+   "role": "claimant"
+  },
+  {
+   "cls": "person",
+   "id": "robert-m-wood",
+   "label": "Dr. Robert M. Wood",
+   "role": "claimant"
+  },
+  {
+   "cls": "person",
+   "id": "stanton-friedman",
+   "label": "Stanton T. Friedman",
+   "role": "researcher"
+  },
+  {
+   "cls": "person",
+   "id": "kevin-randle",
+   "label": "Kevin D. Randle",
+   "role": "critic"
+  },
+  {
+   "cls": "institution",
+   "id": "mufon",
+   "label": "Mutual UFO Network (MUFON)",
+   "role": "institution"
+  },
+  {
+   "cls": "document",
+   "id": "the-roswell-incident-1980",
+   "label": "The Roswell Incident (Berlitz and Moore, 1980)",
+   "role": "document"
+  },
+  {
+   "cls": "program",
+   "id": "project-aquarius",
+   "label": "Project AQUARIUS (alleged)",
+   "role": "programme"
+  },
+  {
+   "cls": "document",
+   "id": "stringfield-status-reports",
+   "label": "UFO Crash/Retrieval Status Reports I-VII (Stringfield, 1978-1994)",
+   "role": "document"
+  },
+  {
+   "cls": "person",
+   "id": "leonard-stringfield",
+   "label": "Leonard H. Stringfield",
+   "role": "researcher"
+  },
+  {
+   "cls": "institution",
+   "id": "mcdonnell-douglas",
+   "label": "McDonnell Douglas Corporation",
+   "role": "contractor"
+  },
+  {
+   "cls": "person",
+   "id": "james-v-forrestal",
+   "label": "James V. Forrestal",
+   "role": "official"
+  }
+ ],
+ "notes": "Moved from Appendix T's early-record section: the documents surfaced in 1984 through Shandera and Moore, and the data places them with the Kirtland affair, not with 1947. Canon 6 (the named list) extends it.",
+ "questions": [
+  "Who mailed the film to Shandera in December 1984?",
+  "Who were the AFOSI personnel Moore says he worked with, and was he ever given genuine classified material, as he implied?",
+  "How did the Cutler-Twining memo come to be in Record Group 341, and who placed it there?",
+  "What does Friedman's collection at the Provincial Archives of New Brunswick show about his MJ-12 work?",
+  "Does the Navy's 1949 Willcutts board report on Forrestal's death exist in any open archive, and are his medical records sealed?",
+  "Which of Stringfield's anonymous informants, if any, were ever named?"
+ ],
+ "record": [
+  {
+   "cite": [
+    "c-f9f2738638",
+    "c-f63540a234"
+   ],
+   "text": "The FBI states that in 1988 two of its offices received versions of a memo titled Operation Majestic-12 claiming to be highly classified, and that an Air Force investigation determined it to be a fake; the Bureau keeps a public file on the documents."
+  },
+  {
+   "cite": [
+    "c-210e27c2a7",
+    "c-ef98e69bfa"
+   ],
+   "text": "The only document in the National Archives bearing the term MJ-12 is a 14 July 1954 memorandum from Robert Cutler to General Twining, found in Record Group 341; searches of NSC policy papers and minutes for MJ-12, Majestic, UFO, extraterrestrial biological entities and Aquarius found nothing else."
+  },
+  {
+   "cite": [
+    "c-7597ef00df",
+    "c-0488143cc4"
+   ],
+   "text": "NARA found that the Cutler-Twining memo has no Top Secret register number, sits in a folder with no other MJ-12 material, lacks letterhead or watermark, and carries a marking the NSC FOIA office says was not used until the Nixon administration; its conservation specialist found it a ribbon copy on onionskin."
+  },
+  {
+   "cite": [
+    "c-5fd1c56d80",
+    "e-d0563484da"
+   ],
+   "text": "Moore and Shandera's report The MJ-12 Documents: An Analytical Report (1990) and Moore and Friedman's paper on Klass and MJ-12 (1988) are both cited in the CIA's own 1997 history of its UFO role."
+  },
+  {
+   "cite": [
+    "c-4dba859b2a",
+    "c-a53b721fb9"
+   ],
+   "text": "The Air Force's 1995 Roswell report lists Moore's books among the major works it reviewed and records that Friedman began investigating Jesse Marcel's claims in 1978."
+  },
+  {
+   "cite": [
+    "c-77ef492a47",
+    "c-4792e91435",
+    "e-c8f09a7e02",
+    "e-7637a7be80"
+   ],
+   "text": "The Majestic Documents site is run by Robert M. Wood and Ryan S. Wood, carries a 1999-2026 copyright and publishes an authenticity-ratings scheme alongside FOIA, NARA, Truman Library and British archive sections."
+  },
+  {
+   "cite": [
+    "e-574a5fe3bd",
+    "e-f390ae24fb"
+   ],
+   "text": "Stringfield wrote seven Status Reports on crash-retrievals between 1978 and 1994, the first delivered at a MUFON symposium."
+  },
+  {
+   "cite": [
+    "c-45f992c5de"
+   ],
+   "text": "The State Department's record dates Forrestal as Secretary of Defense from 17 September 1947 to 28 March 1949, a civilian post."
+  }
+ ],
+ "related": [
+  "kirtland-1980",
+  "dulce",
+  "roswell-1947",
+  "crash-claims",
+  "perception-management",
+  "testimony-provenance",
+  "sceptics"
+ ],
+ "section": "case-against",
+ "span": {
+  "from": "1984",
+  "to": "2026"
+ },
+ "status": "verified",
+ "summary": [
+  {
+   "cite": [
+    "e-a5debf93b7",
+    "e-d0563484da",
+    "c-5fd1c56d80"
+   ],
+   "text": "According to the Woods' archive, the core corpus, the Eisenhower briefing document and a Truman-Forrestal memorandum, arrived as undeveloped 35mm film addressed to William Moore and Shandera, and everything downstream dates from that delivery; Moore and Shandera controlled the release and published their own analytical report in 1990."
+  },
+  {
+   "cite": [
+    "e-6e1d327b8f",
+    "c-e3bce81098",
+    "e-1d0d6f81d0",
+    "c-4f4c1e3b78"
+   ],
+   "text": "Moore, co-author of the 1980 book The Roswell Incident, later admitted at the 1989 MUFON symposium that he had cooperated with Air Force counterintelligence and passed disinformation to Paul Bennewitz; on the board's reading the film's arrival falls inside the period he admitted."
+  },
+  {
+   "cite": [
+    "e-9d050e82b0",
+    "e-2ee2bc759c",
+    "c-77ef492a47",
+    "c-3b5de598e8"
+   ],
+   "text": "Stanton Friedman defended the core documents for a decade in Top Secret/MAJIC; Kevin Randle concluded the whole was fabricated. Robert and Ryan Wood's online archive rates the documents' authenticity and argues for much of the corpus."
+  },
+  {
+   "cite": [
+    "e-909515bf6f",
+    "c-e3218ad4c5",
+    "e-6a1cbaf42c"
+   ],
+   "text": "The corpus spread into the wider retrieval literature: Ryan Wood's 2005 catalogue Majic Eyes Only indexes claimed crash-retrievals with credibility weightings, on the board's reading much of it inherited from Leonard Stringfield's anonymous sources."
+  }
+ ],
+ "title": "The Majestic-12 documents"
+}

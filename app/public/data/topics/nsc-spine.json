@@ -1,0 +1,2227 @@
+{
+ "absorbs": [
+  "d-ic",
+  "d-intel"
+ ],
+ "anchors": [
+  "national-security-act-1947",
+  "national-security-council",
+  "nsc-5412",
+  "nsdd-159",
+  "nsam-303",
+  "cia-office-of-policy-coordination",
+  "gordon-gray",
+  "james-v-forrestal",
+  "sidney-souers",
+  "harry-s-truman"
+ ],
+ "appendixT": "nsc-spine",
+ "cites": {
+  "c-01e7396e2b": {
+   "id": "c-01e7396e2b",
+   "kind": "claim",
+   "node": "usaf",
+   "nodeLabel": "United States Air Force",
+   "source": {
+    "domain": null,
+    "text": "National Archives, Unidentified Flying Objects / Project BLUE BOOK",
+    "url": null
+   },
+   "text": "From 1947 to 1969 a total of 12,618 sightings were reported to Project BLUE BOOK, of which 701 remain 'Unidentified'.",
+   "tier": 1
+  },
+  "c-029df03dbc": {
+   "id": "c-029df03dbc",
+   "kind": "claim",
+   "node": "nsam-303",
+   "nodeLabel": "NSAM 303, Change in Name of Special Group 5412 (2 June 1964)",
+   "source": {
+    "domain": "history.state.gov",
+    "text": "NSAM 303 full text, FRUS 1964-68 vol. XXXIII Doc. 204, https://history.state.gov/historicaldocuments/frus1964-68v33/d204",
+    "url": "https://history.state.gov/historicaldocuments/frus1964-68v33/d204"
+   },
+   "text": "IT CONTAINS NO SECRECY POLICY OF ANY KIND. There are no classification rules, no declassification rules and no subject-matter directives in the document. Where NSAM 303 is cited as governing or establishing secrecy policy, the citation is wrong on the face of the primary text, and the authority being described belongs to NSC 5412/2 of 28 December 1955.",
+   "tier": 1
+  },
+  "c-044c9f5722": {
+   "id": "c-044c9f5722",
+   "kind": "claim",
+   "node": "roscoe-hillenkoetter",
+   "nodeLabel": "Roscoe H. Hillenkoetter",
+   "source": {
+    "domain": null,
+    "text": "CIA-RDP68-00046R000200090028-9, Enquirer, 4 March 1960",
+    "url": null
+   },
+   "text": "The same editorial records its own disagreement with him: 'WE CANNOT wholly agree with the respected Vice Adm. R. H. Hillenkoetter (ret.) that the Air Force is deceiving the public' -- which preserves his position as well as the paper's.",
+   "tier": 1
+  },
+  "c-0be21e2ad8": {
+   "id": "c-0be21e2ad8",
+   "kind": "claim",
+   "node": "national-security-act-1947",
+   "nodeLabel": "National Security Act of 1947 (Pub. L. 80-253, 61 Stat. 495)",
+   "source": {
+    "domain": "www.govinfo.gov",
+    "text": "61 Stat. 495, absence of a signature line, https://www.govinfo.gov/content/pkg/STATUTE-61/pdf/STATUTE-61-Pg495.pdf",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-61/pdf/STATUTE-61-Pg495.pdf"
+   },
+   "text": "NOT VERIFIED, AND RECORDED AS UNVERIFIED RATHER THAN ASSUMED: the Statutes at Large prints only 'Approved July 26, 1947' and names no President. Truman's signature is universally reported and no primary signing document was opened for it in this pass.",
+   "tier": 3
+  },
+  "c-0d4a926e57": {
+   "id": "c-0d4a926e57",
+   "kind": "claim",
+   "node": "harry-s-truman",
+   "nodeLabel": "Harry S. Truman",
+   "source": {
+    "domain": "history.state.gov",
+    "text": "Presidential Directive on Coordination of Foreign Intelligence Activities, 22 January 1946, FRUS 1945-1950, Emergence of the Intelligence Establishment, Document 71, https://history.state.gov/historicaldocuments/frus1945-50Intel/d71",
+    "url": "https://history.state.gov/historicaldocuments/frus1945-50Intel/d71"
+   },
+   "text": "The same directive draws the domestic line the board's later argument keeps testing: 'No police, law enforcement or internal security functions shall be exercised under this directive', and it makes the Authority and the Director 'responsible for fully protecting intelligence sources and methods'.",
+   "tier": 1
+  },
+  "c-12be3da016": {
+   "id": "c-12be3da016",
+   "kind": "claim",
+   "node": "nsc-5412",
+   "nodeLabel": "NSC 5412, National Security Council Directive on Covert Operations (15 March 1954)",
+   "source": {
+    "domain": "history.state.gov",
+    "text": "NSC 5412, FRUS 1950-55 Intelligence, Doc. 171, https://history.state.gov/historicaldocuments/frus1950-55Intel/d171",
+    "url": "https://history.state.gov/historicaldocuments/frus1950-55Intel/d171"
+   },
+   "text": "The transmittal is signed by James S. Lay, Jr. and states 'The President has this date approved the enclosed National Security Council directive.' Washington, 15 March 1954. Top Secret. The source note places the copy in the Eisenhower Library, Special Assistant to the President for National Security Affairs Records.",
+   "tier": 1
+  },
+  "c-14a013a2d2": {
+   "id": "c-14a013a2d2",
+   "kind": "claim",
+   "node": "gordon-gray",
+   "nodeLabel": "Gordon Gray",
+   "source": {
+    "domain": "history.state.gov",
+    "text": "Directive by the President to the Secretary of State, the Secretary of Defense (Marshall), and the Director of Central Intelligence (Smith), 4 April 1951, file 100.4-PSB/4-451, FRUS 1951 vol. I doc. 16, https://history.state.gov/historicaldocuments/frus1951v01/d16",
+    "url": "https://history.state.gov/historicaldocuments/frus1951v01/d16"
+   },
+   "text": "Truman established the Board by directive of 4 April 1951: 'It is the purpose of this directive to authorize and provide for the more effective planning, coordination and conduct, within the framework of approved national policies, of psychological operations.' The Board reports to the National Security Council and is composed of the Under Secretary of State, the Deputy Secretary of Defense and the Director of Central Intelligence.",
+   "tier": 1
+  },
+  "c-14b71b2e9b": {
+   "id": "c-14b71b2e9b",
+   "kind": "claim",
+   "node": "sidney-souers",
+   "nodeLabel": "Rear Adm. Sidney W. Souers",
+   "source": {
+    "domain": "www.govinfo.gov",
+    "text": "National Security Act of 1947, Public Law 80-253, ch. 343, 61 Stat. 495, sec. 101(c), approved 26 July 1947, https://www.govinfo.gov/content/pkg/STATUTE-61/pdf/STATUTE-61-Pg495.pdf",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-61/pdf/STATUTE-61-Pg495.pdf"
+   },
+   "text": "The second office is statutory. Section 101(c) of the National Security Act of 1947: 'The Council shall have a staff to be headed by a civilian executive secretary who shall be appointed by the President, and who shall receive compensation at the rate of $10,000 a year.'",
+   "tier": 1
+  },
+  "c-1ea658f34c": {
+   "id": "c-1ea658f34c",
+   "kind": "claim",
+   "node": "nsdd-159",
+   "nodeLabel": "NSDD 159, Covert Action Policy Approval and Coordination Procedures (18 January 1985)",
+   "source": {
+    "domain": "www.reaganlibrary.gov",
+    "text": "NSDD 159, https://www.reaganlibrary.gov/public/archives/reference/scanned-nsdds/nsdd159.pdf",
+    "url": "https://www.reaganlibrary.gov/public/archives/reference/scanned-nsdds/nsdd159.pdf"
+   },
+   "text": "It requires written Presidential Findings for all covert action and Memoranda of Notification for modifications, makes the NSPG the committee that recommends on every covert action, and creates a senior Planning and Coordination Group which 'replaces all ad hoc interagency groups'.",
+   "tier": 1
+  },
+  "c-2202d9868f": {
+   "id": "c-2202d9868f",
+   "kind": "claim",
+   "node": "charles-p-cabell",
+   "nodeLabel": "Gen. Charles P. Cabell",
+   "source": {
+    "domain": "history.state.gov",
+    "text": "FRUS, 1950-1955, The Intelligence Community, List of Persons, https://history.state.gov/historicaldocuments/frus1950-55Intel/persons",
+    "url": "https://history.state.gov/historicaldocuments/frus1950-55Intel/persons"
+   },
+   "text": "The Department of State's list of persons for the intelligence volume gives both offices: 'Cabell, General Charles P., USAF, Director of Intelligence, Office of the Deputy Chief of Staff from 1951 to 1953; Intelligence Advisory Committee, Deputy Director of Central Intelligence from 1953 to 1962.'",
+   "tier": 1
+  },
+  "c-251ec6e090": {
+   "id": "c-251ec6e090",
+   "kind": "claim",
+   "node": "nsdd-159",
+   "nodeLabel": "NSDD 159, Covert Action Policy Approval and Coordination Procedures (18 January 1985)",
+   "source": {
+    "domain": "www.reaganlibrary.gov",
+    "text": "NSDD 159, Security Procedures para. 1, https://www.reaganlibrary.gov/public/archives/reference/scanned-nsdds/nsdd159.pdf",
+    "url": "https://www.reaganlibrary.gov/public/archives/reference/scanned-nsdds/nsdd159.pdf"
+   },
+   "text": "THE COMPARTMENT IS ORDERED IN TERMS. The Security Procedures section directs the Assistant to the President for National Security Affairs to 'establish a separate, specially compartmented control and access system at the Top Secret classification level for all policy matters concerning covert action.' The compartment is over the POLICY, not only over the operations.",
+   "tier": 1
+  },
+  "c-268e6a4f77": {
+   "id": "c-268e6a4f77",
+   "kind": "claim",
+   "node": "nsdd-159",
+   "nodeLabel": "NSDD 159, Covert Action Policy Approval and Coordination Procedures (18 January 1985)",
+   "source": {
+    "domain": "www.reaganlibrary.gov",
+    "text": "NSDD 159, Security Procedures para. 2, https://www.reaganlibrary.gov/public/archives/reference/scanned-nsdds/nsdd159.pdf",
+    "url": "https://www.reaganlibrary.gov/public/archives/reference/scanned-nsdds/nsdd159.pdf"
+   },
+   "text": "Access is narrowed to one person per agency: 'Each NSPG member shall designate one senior member of his component as the sole focal point for all matters related to covert action.'",
+   "tier": 1
+  },
+  "c-28a9756da6": {
+   "id": "c-28a9756da6",
+   "kind": "claim",
+   "node": "sidney-souers",
+   "nodeLabel": "Rear Adm. Sidney W. Souers",
+   "source": {
+    "domain": "history.state.gov",
+    "text": "Minutes of the First Meeting of the National Security Council, 26 September 1947, NARA RG 273, NSC Minutes, 1st Meeting, Secret; FRUS, 1945-1950, Emergence of the Intelligence Establishment, Document 225, https://history.state.gov/historicaldocuments/frus1945-50Intel/d225",
+    "url": "https://history.state.gov/historicaldocuments/frus1945-50Intel/d225"
+   },
+   "text": "At the National Security Council's first meeting on 26 September 1947 he is listed among those present as 'Sidney W. Souers, Executive Secretary, National Security Council', alongside the Director of Central Intelligence. The Council's own first decisions route attendance and scheduling through the Executive Secretary, authorise him 'to control, supervise, and administer funds which have been or hereafter may be made available to the National Security Council, with full powers with respect thereto', and record that 'The affairs of the Council will be conducted with the utmost secrecy.'",
+   "tier": 1
+  },
+  "c-2bd9d4bb81": {
+   "id": "c-2bd9d4bb81",
+   "kind": "claim",
+   "node": "gordon-gray",
+   "nodeLabel": "Gordon Gray",
+   "source": {
+    "domain": "history.state.gov",
+    "text": "Minutes of a Meeting of the Psychological Strategy Board, PSB M-2, 13 August 1951, FRUS 1950-1955 The Intelligence Community doc. 82, https://history.state.gov/historicaldocuments/frus1950-55Intel/d82",
+    "url": "https://history.state.gov/historicaldocuments/frus1950-55Intel/d82"
+   },
+   "text": "He is recorded chairing the Board's business in its own minutes: PSB M-2 of 13 August 1951 lists 'Mr. Gordon Gray, Director, Psychological Strategy Board' present with the Director of Central Intelligence as acting chairman, the Under Secretary of State and the Deputy Secretary of Defense.",
+   "tier": 1
+  },
+  "c-327919feb5": {
+   "id": "c-327919feb5",
+   "kind": "claim",
+   "node": "harry-s-truman",
+   "nodeLabel": "Harry S. Truman",
+   "source": {
+    "domain": "history.state.gov",
+    "text": "Presidential Directive on Coordination of Foreign Intelligence Activities, 22 January 1946, FRUS 1945-1950, Emergence of the Intelligence Establishment, Document 71, https://history.state.gov/historicaldocuments/frus1945-50Intel/d71",
+    "url": "https://history.state.gov/historicaldocuments/frus1945-50Intel/d71"
+   },
+   "text": "The 22 January 1946 directive is signed by him and creates the office by fiat: 'It is my desire, and I hereby direct, that all Federal foreign intelligence activities be planned, developed and coordinated so as to assure the most effective accomplishment of the intelligence mission related to the national security.' The Director of Central Intelligence 'shall be designated by me'.",
+   "tier": 1
+  },
+  "c-3618e1040b": {
+   "id": "c-3618e1040b",
+   "kind": "claim",
+   "node": "national-security-council",
+   "nodeLabel": "National Security Council",
+   "source": {
+    "domain": "uscode.house.gov",
+    "text": "50 U.S.C. 3021(e)(3), https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3021&num=0&edition=prelim",
+    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3021&num=0&edition=prelim"
+   },
+   "text": "Subsection (e)(3) caps the Council's professional staff at 200.",
+   "tier": 1
+  },
+  "c-369397190e": {
+   "id": "c-369397190e",
+   "kind": "claim",
+   "node": "national-security-act-1947",
+   "nodeLabel": "National Security Act of 1947 (Pub. L. 80-253, 61 Stat. 495)",
+   "source": {
+    "domain": "www.govinfo.gov",
+    "text": "National Security Act of 1947, 61 Stat. 495, https://www.govinfo.gov/content/pkg/STATUTE-61/pdf/STATUTE-61-Pg495.pdf",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-61/pdf/STATUTE-61-Pg495.pdf"
+   },
+   "text": "The Act also creates the National Security Resources Board (sec. 103), the Departments of the Army, Navy and Air Force and the United States Air Force (secs. 205 to 208), the Joint Chiefs of Staff (sec. 211) and the Munitions Board (sec. 213).",
+   "tier": 1
+  },
+  "c-37ff48506d": {
+   "id": "c-37ff48506d",
+   "kind": "claim",
+   "node": "nsc-5412",
+   "nodeLabel": "NSC 5412, National Security Council Directive on Covert Operations (15 March 1954)",
+   "source": {
+    "domain": "history.state.gov",
+    "text": "NSC 5412 para. 6, FRUS 1950-55 Intelligence, Doc. 171, https://history.state.gov/historicaldocuments/frus1950-55Intel/d171",
+    "url": "https://history.state.gov/historicaldocuments/frus1950-55Intel/d171"
+   },
+   "text": "Paragraph 6 carries the deniability test in substantially the words NSC 10/2 used six years earlier: covert operations are to be so planned and executed that 'any U.S. Government responsibility for them is not evident to unauthorized persons and that if uncovered the U.S. Government can plausibly disclaim any responsibility.'",
+   "tier": 1
+  },
+  "c-3b363924c7": {
+   "id": "c-3b363924c7",
+   "kind": "claim",
+   "node": "roscoe-hillenkoetter",
+   "nodeLabel": "Roscoe H. Hillenkoetter",
+   "source": {
+    "domain": null,
+    "text": "CIA-RDP68-00046R000200090025-2, Worcester Gazette, 1 June 1960",
+    "url": null
+   },
+   "text": "The same document records that Hillenkoetter 'headed the Central Intelligence Agency from May 1947 to October 1950' and that he 'wants a Congressional investigation of the UFOs'. On the wartime and immediate post-war years he is quoted: 'I know that neither Russia nor this country had anything even approaching such high speeds and maneuvers.'",
+   "tier": 1
+  },
+  "c-3cf3b0d96c": {
+   "id": "c-3cf3b0d96c",
+   "kind": "claim",
+   "node": "cia-office-of-policy-coordination",
+   "nodeLabel": "CIA Office of Policy Coordination",
+   "source": {
+    "domain": "history.state.gov",
+    "text": "NSC 10/2, 18 June 1948, paragraph 3.c, FRUS 1945-1950, Emergence of the Intelligence Establishment, Document 292, https://history.state.gov/historicaldocuments/frus1945-50Intel/d292",
+    "url": "https://history.state.gov/historicaldocuments/frus1945-50Intel/d292"
+   },
+   "text": "The office was built to sit apart inside its own agency: 'The Chief of the Office of Special Projects shall report directly to the Director of Central Intelligence. For purposes of security and of flexibility of operations, and to the maximum degree consistent with efficiency, the Office of Special Projects shall operate independently of other components of Central Intelligence Agency.'",
+   "tier": 1
+  },
+  "c-403be7a42e": {
+   "id": "c-403be7a42e",
+   "kind": "claim",
+   "node": "national-security-council",
+   "nodeLabel": "National Security Council",
+   "source": {
+    "domain": "uscode.house.gov",
+    "text": "50 U.S.C. 3021(a) and (c)(2), https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3021&num=0&edition=prelim",
+    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3021&num=0&edition=prelim"
+   },
+   "text": "THE DIRECTOR OF CENTRAL INTELLIGENCE WAS NEVER A STATUTORY MEMBER, AND THE INTELLIGENCE CHIEF STILL IS NOT. The 1947 membership was the President, the Secretaries of State and Defense, the Secretaries of the Army, Navy and Air Force, and the Chairman of the National Security Resources Board. Today subsection (c)(2) makes the Director of National Intelligence and the Chairman of the Joint Chiefs of Staff attendees the President MAY designate, not members. A body that approves covert action has never been required by statute to seat the person running intelligence.",
+   "tier": 1
+  },
+  "c-4173ba2112": {
+   "id": "c-4173ba2112",
+   "kind": "claim",
+   "node": "d-ic",
+   "nodeLabel": "Intelligence Community",
+   "source": {
+    "domain": null,
+    "text": "Haines, Studies in Intelligence (1997)",
+    "url": null
+   },
+   "text": "CIA's own historian conceded in Studies in Intelligence that the agency's role in the study of UFOs included shaping public explanations for classified overflights.",
+   "tier": 1
+  },
+  "c-41b4d3461b": {
+   "id": "c-41b4d3461b",
+   "kind": "claim",
+   "node": "james-v-forrestal",
+   "nodeLabel": "James V. Forrestal",
+   "source": {
+    "domain": null,
+    "text": "AREA52 - DEBRIEFED with Chris Ramsay, ep. 32, 4 April 2025, 1:26:37",
+    "url": null
+   },
+   "text": "On AREA52 - DEBRIEFED with Chris Ramsay, episode 32, 4 April 2025, at 1:26:37, Jesse Michels said, prefacing it with 'I don't know if this is right', that Forrestal was hearing 'a description of like mutilated, like human and alien bodies together' from 'the head of the Air Force' and 'was checked into this, you know, Navy hospital in Bethesda, Maryland ... very soon after'. He names no document and no date, and nothing supporting it was opened.",
+   "tier": 3
+  },
+  "c-42f0773450": {
+   "id": "c-42f0773450",
+   "kind": "claim",
+   "node": "darpa",
+   "nodeLabel": "Defense Advanced Research Projects Agency",
+   "source": {
+    "domain": "archive.org",
+    "text": "CIA Historical Staff Chronology 1946-65, Volume II 1956-65, June 1970, CIA-RDP85B00803R000200050003-5, https://archive.org/details/cia-readingroom-document-cia-rdp85b00803r000200050003-5",
+    "url": "https://archive.org/details/cia-readingroom-document-cia-rdp85b00803r000200050003-5"
+   },
+   "text": "The first Director was Roy W. Johnson, not Herbert York. A second agency's record dates the founding and names the officer independently: the CIA Historical Staff Chronology under Jan-Apr 58 reads '7 FEB. Advanced Research Projects Agency (ARPA) established in DOD, Roy W. Johnson of General Electric named director, responsible for US space program, including missiles and anti-missiles.' Herbert York was ARPA's first Chief Scientist and was later elevated to first Director of Defense Research and Engineering.",
+   "tier": 1
+  },
+  "c-45f992c5de": {
+   "id": "c-45f992c5de",
+   "kind": "claim",
+   "node": "james-v-forrestal",
+   "nodeLabel": "James V. Forrestal",
+   "source": {
+    "domain": "history.state.gov",
+    "text": "Persons, FRUS, Emergence of the Intelligence Establishment, 1945-1950, https://history.state.gov/historicaldocuments/frus1945-50Intel/persons",
+    "url": "https://history.state.gov/historicaldocuments/frus1945-50Intel/persons"
+   },
+   "text": "His tenure is dated to the day in the Department of State's own editorial apparatus: 'Forrestal, James V., Secretary of the Navy until September 1947; Secretary of Defense, September 17, 1947-March 28, 1949.'",
+   "tier": 1
+  },
+  "c-4e2cf80743": {
+   "id": "c-4e2cf80743",
+   "kind": "claim",
+   "node": "gordon-gray",
+   "nodeLabel": "Gordon Gray",
+   "source": {
+    "domain": "history.state.gov",
+    "text": "Persons, FRUS 1950-1955, The Intelligence Community, https://history.state.gov/historicaldocuments/frus1950-55Intel/persons",
+    "url": "https://history.state.gov/historicaldocuments/frus1950-55Intel/persons"
+   },
+   "text": "Gray's offices and their dates, from the Office of the Historian's own persons list: 'Secretary of the Army from June 20, 1949 to April 12, 1950; Director of the Psychological Strategy Board from 1951 to 1952; ... Assistant Secretary of Defense for International Security Affairs from July 1955 to February 1957; Director of Defense Mobilization from March 1957 to July 1958; Special Assistant to the President for National Security Affairs from July 1958 to January 1961'.",
+   "tier": 1
+  },
+  "c-50f0b4d93c": {
+   "id": "c-50f0b4d93c",
+   "kind": "claim",
+   "node": "cia-office-of-policy-coordination",
+   "nodeLabel": "CIA Office of Policy Coordination",
+   "source": {
+    "domain": "history.state.gov",
+    "text": "NSC 10/2, 18 June 1948, FRUS 1945-1950, Emergence of the Intelligence Establishment, Document 292, https://history.state.gov/historicaldocuments/frus1945-50Intel/d292",
+    "url": "https://history.state.gov/historicaldocuments/frus1945-50Intel/d292"
+   },
+   "text": "It is written under the residual clause of the 1947 Act: the Council directs the creation 'under the authority of Section 102(d)(5) of the National Security Act of 1947'.",
+   "tier": 1
+  },
+  "c-53f4046830": {
+   "id": "c-53f4046830",
+   "kind": "claim",
+   "node": "nsdd-159",
+   "nodeLabel": "NSDD 159, Covert Action Policy Approval and Coordination Procedures (18 January 1985)",
+   "source": {
+    "domain": "www.reaganlibrary.gov",
+    "text": "NSDD 159 pp. 2 and Security Procedures para. 3, https://www.reaganlibrary.gov/public/archives/reference/scanned-nsdds/nsdd159.pdf",
+    "url": "https://www.reaganlibrary.gov/public/archives/reference/scanned-nsdds/nsdd159.pdf"
+   },
+   "text": "The stated design goal on page 2 is that knowledge of policy, knowledge of operations and knowledge of supporting activity 'will be strictly compartmented from each other', and paragraph 3 orders that the minimum possible number of documents be created.",
+   "tier": 1
+  },
+  "c-548fd95cff": {
+   "id": "c-548fd95cff",
+   "kind": "claim",
+   "node": "nsc-5412",
+   "nodeLabel": "NSC 5412, National Security Council Directive on Covert Operations (15 March 1954)",
+   "source": {
+    "domain": "history.state.gov",
+    "text": "NSC 5412 full text, and FRUS 1964-1968 vol. XII editorial note on covert action, https://history.state.gov/historicaldocuments/frus1964-68v12/actionsstatement",
+    "url": "https://history.state.gov/historicaldocuments/frus1964-68v12/actionsstatement"
+   },
+   "text": "NSC 5412 DOES NOT CREATE THE 5412 COMMITTEE, and the widely repeated claim that it does is not supported by the document. No Special Group and no committee of that name appears anywhere in the text. The State Department's own editorial note attributes the Special Group to NSC 5412/2 of 28 December 1955, and says the body became known as the 'NSC 5412/2 Special Group'.",
+   "tier": 1
+  },
+  "c-5976133b9d": {
+   "id": "c-5976133b9d",
+   "kind": "claim",
+   "node": "cia-office-of-policy-coordination",
+   "nodeLabel": "CIA Office of Policy Coordination",
+   "source": {
+    "domain": "history.state.gov",
+    "text": "NSC 10/2, 18 June 1948, paragraph 5, FRUS 1945-1950, Emergence of the Intelligence Establishment, Document 292, https://history.state.gov/historicaldocuments/frus1945-50Intel/d292",
+    "url": "https://history.state.gov/historicaldocuments/frus1945-50Intel/d292"
+   },
+   "text": "The definition is a definition of deniability. Covert operations are those 'so planned and executed that any US Government responsibility for them is not evident to unauthorized persons and that if uncovered the US Government can plausibly disclaim any responsibility for them', and the named categories are 'propaganda, economic warfare; preventive direct action, including sabotage, anti-sabotage, demolition and evacuation measures; subversion against hostile states'. Espionage, counter-espionage and 'cover and deception for military operations' are expressly excluded.",
+   "tier": 1
+  },
+  "c-6532c404d1": {
+   "id": "c-6532c404d1",
+   "kind": "claim",
+   "node": "gordon-gray",
+   "nodeLabel": "Gordon Gray",
+   "source": {
+    "domain": "history.state.gov",
+    "text": "FRUS 1951 vol. I doc. 16, footnote 3, https://history.state.gov/historicaldocuments/frus1951v01/d16",
+    "url": "https://history.state.gov/historicaldocuments/frus1951v01/d16"
+   },
+   "text": "Gray was the first Director. The directive's own editorial footnote reads: 'Gordon Gray, President of the University of North Carolina and former Secretary of the Army, was appointed Director of the new board.'",
+   "tier": 1
+  },
+  "c-6699966445": {
+   "id": "c-6699966445",
+   "kind": "claim",
+   "node": "eo-11652",
+   "nodeLabel": "Executive Order 11652 - Classification and Declassification of National Security Information and Material (8 March 1972)",
+   "source": {
+    "domain": "irp.fas.org",
+    "text": "EO 11652 sec. 7(A), https://irp.fas.org/offdocs/eo/eo-11652.htm",
+    "url": "https://irp.fas.org/offdocs/eo/eo-11652.htm"
+   },
+   "text": "Section 7(A) lodges monitoring in the National Security Council and establishes an Interagency Classification Review Committee of representatives of State, Defense, Justice, the Atomic Energy Commission, CIA and the NSC Staff, chaired by a presidential designee. Under 7(A)(2) it receives and acts on complaints 'from persons within or without the government.'",
+   "tier": 1
+  },
+  "c-674a0d6a71": {
+   "id": "c-674a0d6a71",
+   "kind": "claim",
+   "node": "d-intel",
+   "nodeLabel": "Intelligence Tradecraft & Analysis",
+   "source": {
+    "domain": null,
+    "text": "ODNI Preliminary Assessment: Unidentified Aerial Phenomena",
+    "url": null
+   },
+   "text": "ODNI's Preliminary Assessment (25 June 2021) attributes the inability to characterise most incidents to limited and inconsistent reporting rather than to the phenomena.",
+   "tier": 1
+  },
+  "c-6770406ef5": {
+   "id": "c-6770406ef5",
+   "kind": "claim",
+   "node": "talbert-gravity-series-1955",
+   "nodeLabel": "Ansel E. Talbert, three-part gravity series, New York Herald Tribune, 20-22 November 1955",
+   "source": {
+    "domain": null,
+    "text": "Danny Jones Podcast, ep. 248, 8 July 2024, 2:34:20 to 2:35:18, mapped at research/leads/dannyjones-corpus-12.md",
+    "url": null
+   },
+   "text": "On the Danny Jones Podcast, episode 248, 8 July 2024, at 2:34:20 to 2:35:18, Jason Reza Jorjani dated the Herald Tribune reporting to 1953, attributed it to Martin's chief executive, and said the executive claimed Manhattan-Project-scale funding could put such engines into production in a few years. The articles are dated November 1955, the speaker in them is a vice-president in charge of advanced design planning, and the comparison he draws is to the time the first atom bomb took rather than to its funding.",
+   "tier": 2
+  },
+  "c-6abfd8fb81": {
+   "id": "c-6abfd8fb81",
+   "kind": "claim",
+   "node": "eo-12036",
+   "nodeLabel": "Executive Order 12036 - United States Intelligence Activities (24 January 1978)",
+   "source": {
+    "domain": "irp.fas.org",
+    "text": "EO 12036 sec. 3-401, https://irp.fas.org/offdocs/eo/eo-12036.htm",
+    "url": "https://irp.fas.org/offdocs/eo/eo-12036.htm"
+   },
+   "text": "Section 3-401 requires the congressional intelligence committees to be kept 'fully and currently informed', and expressly states that this is 'not... a condition precedent'. Being told is not a prerequisite to acting.",
+   "tier": 1
+  },
+  "c-72654f73ba": {
+   "id": "c-72654f73ba",
+   "kind": "claim",
+   "node": "roscoe-hillenkoetter",
+   "nodeLabel": "Roscoe H. Hillenkoetter",
+   "source": {
+    "domain": null,
+    "text": "CIA-RDP68-00046R000200090025-2, Worcester Gazette, 1 June 1960, 'Congressional Action: Ex-C.I.A. Chief Wants UFO Probe' by Bulkley Griffin; declassified in part 2014-06-12",
+    "url": null
+   },
+   "text": "A Worcester (Mass.) Gazette clipping of 1 June 1960, held in CIA records, reports Hillenkoetter declaring of the so-called flying saucers: 'The unknown objects are operating under intelligent control. It is imperative that we learn where the UFO's (unidentified flying objects) come from and what their purpose is.'",
+   "tier": 1
+  },
+  "c-72ba2615d3": {
+   "id": "c-72ba2615d3",
+   "kind": "claim",
+   "node": "gordon-gray",
+   "nodeLabel": "Gordon Gray",
+   "source": {
+    "domain": null,
+    "text": "AREA52 - DEBRIEFED with Chris Ramsay, ep. 22, 17 January 2025, 0:16:02",
+    "url": null
+   },
+   "text": "On AREA52 - DEBRIEFED with Chris Ramsay, episode 22, 17 January 2025, at 0:16:02, Ramsay read a prepared list describing Gray as having 'experience in managing information and propaganda during the cold war aligning with MJ12's need for controlling UFO related narratives' and as 'allegedly involved in developing policies to manage public perception of UFO phenomena'. No document opened for this node connects the Psychological Strategy Board to UFO matters.",
+   "tier": 2
+  },
+  "c-745fe1147f": {
+   "id": "c-745fe1147f",
+   "kind": "claim",
+   "node": "nsdd-159",
+   "nodeLabel": "NSDD 159, Covert Action Policy Approval and Coordination Procedures (18 January 1985)",
+   "source": {
+    "domain": "www.reaganlibrary.gov",
+    "text": "NSDD 159, both releases compared, https://www.reaganlibrary.gov/public/archives/reference/scanned-nsdds/nsdd159.pdf and https://irp.fas.org/offdocs/nsdd/nsdd-159.htm",
+    "url": "https://www.reaganlibrary.gov/public/archives/reference/scanned-nsdds/nsdd159.pdf"
+   },
+   "text": "TWO DIFFERENT RELEASES CIRCULATE AND THEY ARE NOT THE SAME DOCUMENT. The Federation of American Scientists copy is stamped 'EXTRACT FROM NSDD 159' and was partially declassified on 5 June 1987 under EO 12356. The Reagan Library copy is the fuller release, stamped 'Authority Leary to Weinstein ltr 4/20/05 / BY RW NARA DATE 1/30/12'. Anyone citing NSDD 159 should say which one they read.",
+   "tier": 1
+  },
+  "c-7722bc7d68": {
+   "id": "c-7722bc7d68",
+   "kind": "claim",
+   "node": "charles-p-cabell",
+   "nodeLabel": "Gen. Charles P. Cabell",
+   "source": {
+    "domain": "archive.org",
+    "text": "CIA Historical Staff Chronology 1946-65, Volume II 1956-65, June 1970, CIA-RDP85B00803R000200050003-5, declassified in part 8 July 2013, https://archive.org/details/cia-readingroom-document-cia-rdp85b00803r000200050003-5",
+    "url": "https://archive.org/details/cia-readingroom-document-cia-rdp85b00803r000200050003-5"
+   },
+   "text": "The CIA's own declassified chronology closes the CIA post: '27 DEC. Lt. Gen. C.P. Cabell resigns as DDCI (effective 31 Jan 62)', and '9 MAR. Maj. Gen. Marshall S. Carter appointed DDCI, succeeding Cabell'. The same volume records that in December 1961 'DDCI Cabell named CIA member' when USIB membership was expanded that month.",
+   "tier": 1
+  },
+  "c-77577c8088": {
+   "id": "c-77577c8088",
+   "kind": "claim",
+   "node": "eo-12036",
+   "nodeLabel": "Executive Order 12036 - United States Intelligence Activities (24 January 1978)",
+   "source": {
+    "domain": "irp.fas.org",
+    "text": "EO 12036 full text, term searches returning zero, https://irp.fas.org/offdocs/eo/eo-12036.htm",
+    "url": "https://irp.fas.org/offdocs/eo/eo-12036.htm"
+   },
+   "text": "DO NOT CITE THIS ORDER FOR COMPARTMENTATION. The words 'compartment', 'special access' and 'need-to-know' appear zero times in the text. The nearest provision is section 4-106, which only says implementing documents will sometimes be classified.",
+   "tier": 1
+  },
+  "c-796caa2ead": {
+   "id": "c-796caa2ead",
+   "kind": "claim",
+   "node": "charles-p-cabell",
+   "nodeLabel": "Gen. Charles P. Cabell",
+   "source": {
+    "domain": "history.state.gov",
+    "text": "Danny Jones Podcast #406, 'They Want to Replace God', 19 June 2026, at 1:24:32 to 1:25:21; contradicted against FRUS, 1950-1955, The Intelligence Community, List of Persons, https://history.state.gov/historicaldocuments/frus1950-55Intel/persons",
+    "url": "https://history.state.gov/historicaldocuments/frus1950-55Intel/persons"
+   },
+   "text": "On the Danny Jones Podcast #406, 19 June 2026, at 1:24:32, Matthew Ehret said Project Blue Book was launched under 'CIA Deputy Director Charles Cabell' at the urging of Sir Henry Tizard's UK flying saucer working party, and that Cabell was fired by John F. Kennedy in 1961. The opened records contradict the office: at Blue Book's launch in March 1952 he was the Air Force's Director of Intelligence, and he joined CIA as Deputy Director only in 1953. The CIA's own chronology records a resignation, not a dismissal, on 27 December 1961 effective 31 January 1962.",
+   "tier": 2
+  },
+  "c-8b001b1ade": {
+   "id": "c-8b001b1ade",
+   "kind": "claim",
+   "node": "national-security-council",
+   "nodeLabel": "National Security Council",
+   "source": {
+    "domain": "uscode.house.gov",
+    "text": "50 U.S.C. 3021 source credit, https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3021&num=0&edition=prelim",
+    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3021&num=0&edition=prelim"
+   },
+   "text": "The source credit on the codified section traces the Council to 'July 26, 1947, ch. 343, title I, Sec. 101, 61 Stat. 496', with the first amendment at 'Aug. 10, 1949, ch. 412, Sec. 3, 63 Stat. 579'.",
+   "tier": 1
+  },
+  "c-8dd63537ea": {
+   "id": "c-8dd63537ea",
+   "kind": "claim",
+   "node": "roscoe-hillenkoetter",
+   "nodeLabel": "Roscoe H. Hillenkoetter",
+   "source": {
+    "domain": null,
+    "text": "CIA-RDP68-00046R000200090028-9, Enquirer, 4 March 1960, editorial 'Flying Saucers Again'; declassified in part 2014-06-12",
+    "url": null
+   },
+   "text": "An Enquirer editorial of 4 March 1960, also held in CIA records, states that 'Admiral Hillenkoetter, former director of the Central Intelligence Agency, is a board member of the privately financed NICAP ... As such he has referred his conclusions to the Senate Space Committee, requesting an investigation.'",
+   "tier": 1
+  },
+  "c-91ce4e14b1": {
+   "id": "c-91ce4e14b1",
+   "kind": "claim",
+   "node": "national-security-act-1947",
+   "nodeLabel": "National Security Act of 1947 (Pub. L. 80-253, 61 Stat. 495)",
+   "source": {
+    "domain": "www.govinfo.gov",
+    "text": "National Security Act of 1947 sec. 102(d)(5), 61 Stat. 498, https://www.govinfo.gov/content/pkg/STATUTE-61/pdf/STATUTE-61-Pg495.pdf",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-61/pdf/STATUTE-61-Pg495.pdf"
+   },
+   "text": "SECTION 102(d)(5) IS THE CLAUSE THAT MATTERS. It permits the Agency to perform such other functions and duties related to intelligence as the National Security Council may from time to time direct, and it is the authority expressly invoked by NSC 10/2 of 18 June 1948 and again by NSC 5412 of 15 March 1954. The United States covert-action programme rests on a residual clause in a reorganisation statute, not on a grant of authority written for it.",
+   "tier": 1
+  },
+  "c-962303bc69": {
+   "id": "c-962303bc69",
+   "kind": "claim",
+   "node": "harry-s-truman",
+   "nodeLabel": "Harry S. Truman",
+   "source": {
+    "domain": "www.govinfo.gov",
+    "text": "National Security Act of 1947, Public Law 80-253, 61 Stat. 495, sec. 102(d)(5), https://www.govinfo.gov/content/pkg/STATUTE-61/pdf/STATUTE-61-Pg495.pdf",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-61/pdf/STATUTE-61-Pg495.pdf"
+   },
+   "text": "Section 102(d)(5) of the same Act is the residual authority every later covert-action directive is written under: the Agency is 'to perform such other functions and duties related to intelligence affecting the national security as the National Security Council may from time to time direct.'",
+   "tier": 1
+  },
+  "c-9ee12d89ea": {
+   "id": "c-9ee12d89ea",
+   "kind": "claim",
+   "node": "sidney-souers",
+   "nodeLabel": "Rear Adm. Sidney W. Souers",
+   "source": {
+    "domain": "history.state.gov",
+    "text": "FRUS, 1945-1950, Emergence of the Intelligence Establishment, Document 137, 2 February 1946, https://history.state.gov/historicaldocuments/frus1945-50Intel/d137",
+    "url": "https://history.state.gov/historicaldocuments/frus1945-50Intel/d137"
+   },
+   "text": "He held the post and signed in it within two weeks: the memorandum of 2 February 1946 proposing the tentative organisation of the Central Intelligence Group is captioned 'Memorandum From the Director of Central Intelligence (Souers) to the National Intelligence Authority' and carries the typed signature 'Sidney W. Souers'. Its source note is NARA RG 59, Bureau of Intelligence and Research, Lot 58 D 776.",
+   "tier": 1
+  },
+  "c-9f09fe39a8": {
+   "id": "c-9f09fe39a8",
+   "kind": "claim",
+   "node": "eo-12036",
+   "nodeLabel": "Executive Order 12036 - United States Intelligence Activities (24 January 1978)",
+   "source": {
+    "domain": "irp.fas.org",
+    "text": "EO 12036 sec. 3, https://irp.fas.org/offdocs/eo/eo-12036.htm",
+    "url": "https://irp.fas.org/offdocs/eo/eo-12036.htm"
+   },
+   "text": "Section 3 builds a four-part oversight structure: an Intelligence Oversight Board of three members from outside government but inside the White House (3-1), agency Inspectors General and General Counsel (3-2), the Attorney General (3-3), and the congressional committees (3-4).",
+   "tier": 1
+  },
+  "c-9fd7e805b6": {
+   "id": "c-9fd7e805b6",
+   "kind": "claim",
+   "node": "usaf",
+   "nodeLabel": "United States Air Force",
+   "source": {
+    "domain": null,
+    "text": "National Archives, Unidentified Flying Objects / Project BLUE BOOK",
+    "url": null
+   },
+   "text": "On 17 December 1969 the Secretary of the Air Force announced the termination of Project BLUE BOOK, relying on the University of Colorado report 'Scientific Study of Unidentified Flying Objects' and a National Academy of Sciences review of it.",
+   "tier": 1
+  },
+  "c-a1073ea62b": {
+   "id": "c-a1073ea62b",
+   "kind": "claim",
+   "node": "gordon-gray",
+   "nodeLabel": "Gordon Gray",
+   "source": {
+    "domain": "history.state.gov",
+    "text": "FRUS 1951 vol. I doc. 16, https://history.state.gov/historicaldocuments/frus1951v01/d16",
+    "url": "https://history.state.gov/historicaldocuments/frus1951v01/d16"
+   },
+   "text": "The Director's charter includes a standing claim on other departments: 'The participating departments and agencies shall afford to the Director and the staff such assistance and access to information as may be specifically requested by the Director in carrying out his assigned duties.' The same directive states: 'This directive does not authorize the Board nor the Director to perform any \"psychological operations\".'",
+   "tier": 1
+  },
+  "c-a5537d2bb9": {
+   "id": "c-a5537d2bb9",
+   "kind": "claim",
+   "node": "cia-office-of-policy-coordination",
+   "nodeLabel": "CIA Office of Policy Coordination",
+   "source": {
+    "domain": "history.state.gov",
+    "text": "FRUS 1945-1950, Emergence of the Intelligence Establishment, List of Persons, https://history.state.gov/historicaldocuments/frus1945-50Intel/persons",
+    "url": "https://history.state.gov/historicaldocuments/frus1945-50Intel/persons"
+   },
+   "text": "The operating name and the first officer come from the same volume's list of persons: 'Wisner, Frank G., Deputy Assistant Secretary of State for the Occupied Areas, 1947-1948; Assistant Director for Policy Coordination, Central Intelligence Agency, from September 1, 1948.' George F. Kennan and John Magruder are recorded as senior consultants to the Office of Policy Coordination representing the Secretary of State and the Secretary of Defense respectively, both from September 1948.",
+   "tier": 1
+  },
+  "c-ab7c304103": {
+   "id": "c-ab7c304103",
+   "kind": "claim",
+   "node": "nsam-303",
+   "nodeLabel": "NSAM 303, Change in Name of Special Group 5412 (2 June 1964)",
+   "source": {
+    "domain": "history.state.gov",
+    "text": "NSAM 303, FRUS 1964-68 vol. XXXIII Doc. 204, https://history.state.gov/historicaldocuments/frus1964-68v33/d204",
+    "url": "https://history.state.gov/historicaldocuments/frus1964-68v33/d204"
+   },
+   "text": "The entire operative content is two sentences: 'Henceforth, the Special Group 5412 will be known as the 303 Committee.' and 'This change in no way alters the composition, function or responsibility of the Special Group 5412 as authorized by NSC 5412/2'.",
+   "tier": 1
+  },
+  "c-ac4dc11f47": {
+   "id": "c-ac4dc11f47",
+   "kind": "claim",
+   "node": "cia-office-of-policy-coordination",
+   "nodeLabel": "CIA Office of Policy Coordination",
+   "source": {
+    "domain": "history.state.gov",
+    "text": "NSC 10/2, National Security Council Directive on Office of Special Projects, 18 June 1948, FRUS 1945-1950, Emergence of the Intelligence Establishment, Document 292, https://history.state.gov/historicaldocuments/frus1945-50Intel/d292",
+    "url": "https://history.state.gov/historicaldocuments/frus1945-50Intel/d292"
+   },
+   "text": "The charter creates the office by that name: 'A new Office of Special Projects shall be created within the Central Intelligence Agency to plan and conduct covert operations; and in coordination with the Joint Chiefs of Staff to plan and prepare for the conduct of such operations in wartime.'",
+   "tier": 1
+  },
+  "c-aea674a897": {
+   "id": "c-aea674a897",
+   "kind": "claim",
+   "node": "darpa",
+   "nodeLabel": "Defense Advanced Research Projects Agency",
+   "source": {
+    "domain": "archive.org",
+    "text": "The Advanced Research Projects Agency, 1958-1974, Richard J. Barber Associates, Inc., prepared for ARPA, Figure II-2, DTIC AD-A154 363, https://archive.org/download/DTIC_ADA154363/DTIC_ADA154363_djvu.txt",
+    "url": "https://archive.org/download/DTIC_ADA154363/DTIC_ADA154363_djvu.txt"
+   },
+   "text": "The agency has a founding instrument and a first Director, and this node has carried neither. DoD Directive 5105.15 of 7 February 1958, reproduced in full in the agency's own commissioned history, reads: 'In accordance with the provisions of the National Security Act of 1947, as amended, and Reorganization Plan No. 6 of 1953, there is established in the Office of the Secretary of Defense the Department of Defense Advanced Research Projects Agency.' Its mandate is open-ended by design: the Agency is responsible for 'the direction or performance of such advanced projects in the field of research and development as the Secretary of Defense shall, from time to time, designate by individual project or by category', and 'The Director of Advanced Research Projects shall report to the Secretary of Defense.'",
+   "tier": 1
+  },
+  "c-af07845098": {
+   "id": "c-af07845098",
+   "kind": "claim",
+   "node": "eo-12036",
+   "nodeLabel": "Executive Order 12036 - United States Intelligence Activities (24 January 1978)",
+   "source": {
+    "domain": "irp.fas.org",
+    "text": "EO 12036 secs. 1-302 and 4-212, https://irp.fas.org/offdocs/eo/eo-12036.htm",
+    "url": "https://irp.fas.org/offdocs/eo/eo-12036.htm"
+   },
+   "text": "Section 1-302: 'The SCC shall consider and submit to the President a policy recommendation, including all dissents, on each special activity.' Section 4-212 defines a special activity as an activity conducted abroad in support of foreign policy objectives where the role of the United States Government 'is not apparent or acknowledged publicly.'",
+   "tier": 1
+  },
+  "c-b63fbe121f": {
+   "id": "c-b63fbe121f",
+   "kind": "claim",
+   "node": "nsdd-159",
+   "nodeLabel": "NSDD 159, Covert Action Policy Approval and Coordination Procedures (18 January 1985)",
+   "source": {
+    "domain": "www.reaganlibrary.gov",
+    "text": "NSDD 159 pp. 1 and 7, https://www.reaganlibrary.gov/public/archives/reference/scanned-nsdds/nsdd159.pdf",
+    "url": "https://www.reaganlibrary.gov/public/archives/reference/scanned-nsdds/nsdd159.pdf"
+   },
+   "text": "The document is marked SENSITIVE, SYSTEM II: 90030, NSC/ICS-400030, Copy 1 of 8, and is signed in ink by Ronald Reagan on page 7. Its original declassification instruction is 'Declassify on: Presidential Approval Only', and its struck-through control line reads TOP SECRET/VEIL.",
+   "tier": 1
+  },
+  "c-b76406bf81": {
+   "id": "c-b76406bf81",
+   "kind": "claim",
+   "node": "cia",
+   "nodeLabel": "Central Intelligence Agency",
+   "source": {
+    "domain": null,
+    "text": "Inference from Haines, 'CIA's Role in the Study of UFOs, 1947-1990'",
+    "url": null
+   },
+   "text": "CIA's stated U-2/OXCART explanation is an admission of deliberate false attribution: the Agency states that it knew a substantial fraction of reports were its own aircraft and permitted the Air Force to issue natural-phenomena explanations instead. Reasoning: the explanation only works if the Agency withheld the true cause from the public explanation channel it was coordinating with.",
+   "tier": 3
+  },
+  "c-b9dae10855": {
+   "id": "c-b9dae10855",
+   "kind": "claim",
+   "node": "talbert-gravity-series-1955",
+   "nodeLabel": "Ansel E. Talbert, three-part gravity series, New York Herald Tribune, 20-22 November 1955",
+   "source": {
+    "domain": "archive.org",
+    "text": "Talbert, New York Herald Tribune, 20 November 1955, continuation p. 36. https://archive.org/download/talbert1ny/talbert1ny_djvu.txt",
+    "url": "https://archive.org/download/talbert1ny/talbert1ny_djvu.txt"
+   },
+   "text": "The series reports the Chapel Hill institute at its founding, under an earlier name: 'A proposal to establish at the University of North Carolina at Chapel Hill, N. C., an Institute of Pure Physics primarily to carry on theoretical research on gravity was approved earlier this month by the university's board of trustees. This had the approval of Dr. Gordon Gray, who has since retired as president of the university.' It names Agnew H. Bahnson jr. as the fundraiser and says the directorship had been offered to Bryce S. DeWitt.",
+   "tier": 1
+  },
+  "c-bb725f8168": {
+   "id": "c-bb725f8168",
+   "kind": "claim",
+   "node": "national-security-council",
+   "nodeLabel": "National Security Council",
+   "source": {
+    "domain": "uscode.house.gov",
+    "text": "50 U.S.C. 3021(b)(1), https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3021&num=0&edition=prelim",
+    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3021&num=0&edition=prelim"
+   },
+   "text": "The statutory purpose has not changed since 1947. 50 U.S.C. 3021(b)(1) still states the Council's function as being 'to advise the President with respect to the integration of domestic, foreign, and military policies relating to the national security'.",
+   "tier": 1
+  },
+  "c-bb974d22b7": {
+   "id": "c-bb974d22b7",
+   "kind": "claim",
+   "node": "james-v-forrestal",
+   "nodeLabel": "James V. Forrestal",
+   "source": {
+    "domain": "www.govinfo.gov",
+    "text": "National Security Act of 1947, 61 Stat. 495, sec. 202(a), https://www.govinfo.gov/content/pkg/STATUTE-61/pdf/STATUTE-61-Pg495.pdf",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-61/pdf/STATUTE-61-Pg495.pdf"
+   },
+   "text": "The same section makes the office the President's principal national-security assistant, with duties to 'Establish general policies and programs for the National Military Establishment and for all of the departments and agencies therein' and to 'Exercise general direction, authority, and control over such departments and agencies'.",
+   "tier": 1
+  },
+  "c-c26feaec5b": {
+   "id": "c-c26feaec5b",
+   "kind": "claim",
+   "node": "james-v-forrestal",
+   "nodeLabel": "James V. Forrestal",
+   "source": {
+    "domain": null,
+    "text": "AREA52 - DEBRIEFED with Chris Ramsay, ep. 20, 3 January 2025, 0:12:27; National Security Act of 1947, 61 Stat. 495, sec. 202(a)",
+    "url": null
+   },
+   "text": "On AREA52 - DEBRIEFED with Chris Ramsay, episode 20, 3 January 2025, at 0:12:27, Ramsay read aloud from John Lear's 1987 statement that 'several committed suicide, the most prominent of which was General James V. Forestall who jumped to his death from a 16th story hospital window. General Forestall's medical records are sealed to this day.' The document's rank is wrong: the statute creating the office he held requires a civilian appointee and bars any commissioned officer on active duty within the previous ten years.",
+   "tier": 2
+  },
+  "c-c7b437b634": {
+   "id": "c-c7b437b634",
+   "kind": "claim",
+   "node": "nsam-303",
+   "nodeLabel": "NSAM 303, Change in Name of Special Group 5412 (2 June 1964)",
+   "source": {
+    "domain": "history.state.gov",
+    "text": "NSAM 303, FRUS 1964-68 vol. XXXIII Doc. 204, https://history.state.gov/historicaldocuments/frus1964-68v33/d204",
+    "url": "https://history.state.gov/historicaldocuments/frus1964-68v33/d204"
+   },
+   "text": "It is dated Washington, 2 June 1964, is signed by McGeorge Bundy and NOT by the President, and is addressed to the Secretary of State, the Secretary of Defense and the Director of Central Intelligence. Top Secret. Source note: National Archives, RG 59, S/S-NSC Files: Lot 70 D 265.",
+   "tier": 1
+  },
+  "c-c8c2c7821b": {
+   "id": "c-c8c2c7821b",
+   "kind": "claim",
+   "node": "national-security-act-1947",
+   "nodeLabel": "National Security Act of 1947 (Pub. L. 80-253, 61 Stat. 495)",
+   "source": {
+    "domain": "www.govinfo.gov",
+    "text": "61 Stat. 495, https://www.govinfo.gov/content/pkg/STATUTE-61/pdf/STATUTE-61-Pg495.pdf",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-61/pdf/STATUTE-61-Pg495.pdf"
+   },
+   "text": "The enrolled text carries the sidenote 'July 26,1947 [S. 758] [Public Law 253]' and closes 'Approved July 26, 1947.' Its short title clause reads 'That this Act may be cited as the National Security Act of 1947.'",
+   "tier": 1
+  },
+  "c-cacf42a183": {
+   "id": "c-cacf42a183",
+   "kind": "claim",
+   "node": "nsc-5412",
+   "nodeLabel": "NSC 5412, National Security Council Directive on Covert Operations (15 March 1954)",
+   "source": {
+    "domain": "history.state.gov",
+    "text": "NSC 5412 para. 4, FRUS 1950-55 Intelligence, Doc. 171, https://history.state.gov/historicaldocuments/frus1950-55Intel/d171",
+    "url": "https://history.state.gov/historicaldocuments/frus1950-55Intel/d171"
+   },
+   "text": "Paragraph 4 invokes section 102(d)(5) of the National Security Act of 1947 and makes the Director of Central Intelligence responsible for keeping covert operations consistent with United States foreign and military policy, through designated representatives of the Secretaries of State and Defense.",
+   "tier": 1
+  },
+  "c-d042156617": {
+   "id": "c-d042156617",
+   "kind": "claim",
+   "node": "harry-s-truman",
+   "nodeLabel": "Harry S. Truman",
+   "source": {
+    "domain": "www.govinfo.gov",
+    "text": "National Security Act of 1947, Public Law 80-253, ch. 343, 61 Stat. 495, secs. 101(a), 102(a), 201(a), approved 26 July 1947, https://www.govinfo.gov/content/pkg/STATUTE-61/pdf/STATUTE-61-Pg495.pdf",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-61/pdf/STATUTE-61-Pg495.pdf"
+   },
+   "text": "The statute approved on 26 July 1947 creates, in one instrument, the Council, the Agency and the military establishment: 'There is hereby established a council to be known as the National Security Council'; 'There is hereby established under the National Security Council a Central Intelligence Agency with a Director of Central Intelligence, who shall be the head thereof'; 'There is hereby established the National Military Establishment, and the Secretary of Defense shall be the head thereof.'",
+   "tier": 1
+  },
+  "c-d0b49eaa86": {
+   "id": "c-d0b49eaa86",
+   "kind": "claim",
+   "node": "d-ic",
+   "nodeLabel": "Intelligence Community",
+   "source": {
+    "domain": null,
+    "text": "Robertson Panel report",
+    "url": null
+   },
+   "text": "CIA's Office of Scientific Intelligence convened the Robertson Panel in January 1953.",
+   "tier": 1
+  },
+  "c-d3532156e9": {
+   "id": "c-d3532156e9",
+   "kind": "claim",
+   "node": "sidney-souers",
+   "nodeLabel": "Rear Adm. Sidney W. Souers",
+   "source": {
+    "domain": "history.state.gov",
+    "text": "FRUS, 1945-1950, Emergence of the Intelligence Establishment, List of Persons, https://history.state.gov/historicaldocuments/frus1945-50Intel/persons",
+    "url": "https://history.state.gov/historicaldocuments/frus1945-50Intel/persons"
+   },
+   "text": "The Department of State's own list of persons gives both offices with dates: 'Director of Central Intelligence, Central Intelligence Group, January 22, 1946-June 10, 1946; Executive Secretary, National Security Council, August 1947-January 1950; Special Consultant to the President from January 1950.'",
+   "tier": 1
+  },
+  "c-d59d54959b": {
+   "id": "c-d59d54959b",
+   "kind": "claim",
+   "node": "roscoe-hillenkoetter",
+   "nodeLabel": "Roscoe H. Hillenkoetter",
+   "source": {
+    "domain": null,
+    "text": "FBI files on Roscoe H. Hillenkoetter, National Security Archive mirror; full-text search of the sections available",
+    "url": null
+   },
+   "text": "The National Security Archive's mirror of the FBI files on Hillenkoetter -- eighteen serials plus a main file -- contains, across the sections text-searched, zero occurrences of NICAP, 'flying saucer', 'unidentified flying', Keyhoe, or the year 1960. OCR quality on these scans is uneven, so this is a strong indication rather than a proof.",
+   "tier": 2
+  },
+  "c-d6d2adc229": {
+   "id": "c-d6d2adc229",
+   "kind": "claim",
+   "node": "d-ic",
+   "nodeLabel": "Intelligence Community",
+   "source": {
+    "domain": null,
+    "text": "ODNI Preliminary Assessment",
+    "url": null
+   },
+   "text": "ODNI published the Preliminary Assessment: Unidentified Aerial Phenomena on 25 June 2021.",
+   "tier": 1
+  },
+  "c-dd8c9bc261": {
+   "id": "c-dd8c9bc261",
+   "kind": "claim",
+   "node": "james-v-forrestal",
+   "nodeLabel": "James V. Forrestal",
+   "source": {
+    "domain": "www.govinfo.gov",
+    "text": "National Security Act of 1947, Chapter 343, approved 26 July 1947, 61 Stat. 495, sec. 202(a), https://www.govinfo.gov/content/pkg/STATUTE-61/pdf/STATUTE-61-Pg495.pdf",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-61/pdf/STATUTE-61-Pg495.pdf"
+   },
+   "text": "The office he held first was created by statute, and its holder must be a civilian: 'There shall be a Secretary of Defense, who shall be appointed from civilian life by the President, by and with the advice and consent of the Senate: Provided, That a person who has within ten years been on active duty as a commissioned officer in a Regular component of the armed services shall not be eligible for appointment as Secretary of Defense.'",
+   "tier": 1
+  },
+  "c-ef37d88ed8": {
+   "id": "c-ef37d88ed8",
+   "kind": "claim",
+   "node": "nsc-5412",
+   "nodeLabel": "NSC 5412, National Security Council Directive on Covert Operations (15 March 1954)",
+   "source": {
+    "domain": "history.state.gov",
+    "text": "NSC 5412 para. 7, FRUS 1950-55 Intelligence, Doc. 171, https://history.state.gov/historicaldocuments/frus1950-55Intel/d171",
+    "url": "https://history.state.gov/historicaldocuments/frus1950-55Intel/d171"
+   },
+   "text": "Paragraph 7 supersedes and rescinds NSC 10/2 and NSC 10/5, and paragraph 7(c) makes the Operations Coordinating Board the normal channel for coordinating support among State, Defense and CIA.",
+   "tier": 1
+  },
+  "c-f002e7ddc8": {
+   "id": "c-f002e7ddc8",
+   "kind": "claim",
+   "node": "sidney-souers",
+   "nodeLabel": "Rear Adm. Sidney W. Souers",
+   "source": {
+    "domain": "history.state.gov",
+    "text": "Presidential Directive on Coordination of Foreign Intelligence Activities, 22 January 1946, Foreign Relations of the United States, 1945-1950, Emergence of the Intelligence Establishment, Document 71, https://history.state.gov/historicaldocuments/frus1945-50Intel/d71",
+    "url": "https://history.state.gov/historicaldocuments/frus1945-50Intel/d71"
+   },
+   "text": "The office he first held was created on 22 January 1946: personnel assigned from State, War and the Navy 'shall collectively form a Central Intelligence Group and shall, under the direction of a Director of Central Intelligence, assist the National Intelligence Authority. The Director of Central Intelligence shall be designated by me, shall be responsible to the National Intelligence Authority, and shall sit as a non-voting member thereof.'",
+   "tier": 1
+  },
+  "c-f635c52182": {
+   "id": "c-f635c52182",
+   "kind": "claim",
+   "node": "nsdd-159",
+   "nodeLabel": "NSDD 159, Covert Action Policy Approval and Coordination Procedures (18 January 1985)",
+   "source": {
+    "domain": "www.reaganlibrary.gov",
+    "text": "NSDD 159, absence of the implementing procedures, https://www.reaganlibrary.gov/public/archives/reference/scanned-nsdds/nsdd159.pdf",
+    "url": "https://www.reaganlibrary.gov/public/archives/reference/scanned-nsdds/nsdd159.pdf"
+   },
+   "text": "THE COMPARTMENT'S OWN RULES ARE NOT IN THIS RELEASE. The directive states that the special access procedures are to be promulgated under separate cover, and that separate document was not located. VEIL appears only as a struck-through marking and never in the body, so it cannot be said from this text that VEIL is the name of the compartment NSDD 159 creates rather than a pre-existing handling caveat on the paper.",
+   "tier": 3
+  },
+  "c-f7450a1c61": {
+   "id": "c-f7450a1c61",
+   "kind": "claim",
+   "node": "nsdd-159",
+   "nodeLabel": "NSDD 159, Covert Action Policy Approval and Coordination Procedures (18 January 1985)",
+   "source": {
+    "domain": "www.reaganlibrary.gov",
+    "text": "NSDD 159, https://www.reaganlibrary.gov/public/archives/reference/scanned-nsdds/nsdd159.pdf",
+    "url": "https://www.reaganlibrary.gov/public/archives/reference/scanned-nsdds/nsdd159.pdf"
+   },
+   "text": "THE PAPER TRAIL IS DELIBERATELY SINGULAR. The NSC Senior Director for Intelligence Programs holds the only record copies of approved Findings and Memoranda of Notification: 'No other copies of approved Findings or MONs are authorized.' The same officer is tasked to administer the special access security compartment protecting covert action policies.",
+   "tier": 1
+  },
+  "c-f9af42baac": {
+   "id": "c-f9af42baac",
+   "kind": "claim",
+   "node": "cia-office-of-policy-coordination",
+   "nodeLabel": "CIA Office of Policy Coordination",
+   "source": {
+    "domain": "history.state.gov",
+    "text": "Danny Jones Podcast #406, 'They Want to Replace God', 19 June 2026, at 1:25:21 to 1:31:56; tested against NSC 10/2, https://history.state.gov/historicaldocuments/frus1945-50Intel/d292",
+    "url": "https://history.state.gov/historicaldocuments/frus1945-50Intel/d292"
+   },
+   "text": "On the Danny Jones Podcast #406, 19 June 2026, at 1:29:15 to 1:31:56, Matthew Ehret said the office staffed NICAP's leadership and that the founder of the National Enquirer worked in it for fourteen months before founding the paper, and at 1:25:21 that Richard Bissell headed it. No record opened here bears on any of the three. The only officer named in the opened records is Frank G. Wisner, from 1 September 1948.",
+   "tier": 2
+  },
+  "c-fa39ba5965": {
+   "id": "c-fa39ba5965",
+   "kind": "claim",
+   "node": "national-security-act-1947",
+   "nodeLabel": "National Security Act of 1947 (Pub. L. 80-253, 61 Stat. 495)",
+   "source": {
+    "domain": "www.govinfo.gov",
+    "text": "National Security Act of 1947 sec. 201(a), 61 Stat. 499, https://www.govinfo.gov/content/pkg/STATUTE-61/pdf/STATUTE-61-Pg495.pdf",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-61/pdf/STATUTE-61-Pg495.pdf"
+   },
+   "text": "THE ACT DID NOT CREATE THE DEPARTMENT OF DEFENSE, and the common claim that it did is wrong on the text. Section 201(a) reads 'There is hereby established the National Military Establishment, and the Secretary of Defense shall be the head thereof'. The renaming to Department of Defense came with the amendments of 10 August 1949, ch. 412, 63 Stat. 579.",
+   "tier": 1
+  },
+  "c-fa4d45efa7": {
+   "id": "c-fa4d45efa7",
+   "kind": "claim",
+   "node": "nsam-303",
+   "nodeLabel": "NSAM 303, Change in Name of Special Group 5412 (2 June 1964)",
+   "source": {
+    "domain": "history.state.gov",
+    "text": "NSAM 303 full text, FRUS 1964-68 vol. XXXIII Doc. 204, https://history.state.gov/historicaldocuments/frus1964-68v33/d204",
+    "url": "https://history.state.gov/historicaldocuments/frus1964-68v33/d204"
+   },
+   "text": "No connection of any kind between NSAM 303 and unidentified aerial phenomena appears in the document, and a search of the text found none.",
+   "tier": 1
+  },
+  "c-fea5c38fa2": {
+   "id": "c-fea5c38fa2",
+   "kind": "claim",
+   "node": "national-security-act-1947",
+   "nodeLabel": "National Security Act of 1947 (Pub. L. 80-253, 61 Stat. 495)",
+   "source": {
+    "domain": "www.govinfo.gov",
+    "text": "National Security Act of 1947 sec. 102(a), 61 Stat. 497, https://www.govinfo.gov/content/pkg/STATUTE-61/pdf/STATUTE-61-Pg495.pdf",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-61/pdf/STATUTE-61-Pg495.pdf"
+   },
+   "text": "Section 102(a): 'There is hereby established under the National Security Council a Central Intelligence Agency with a Director of Central Intelligence'. The Agency is created UNDER the Council, not beside it.",
+   "tier": 1
+  },
+  "e-0090ce15ca": {
+   "endpoints": [
+    {
+     "id": "roscoe-hillenkoetter",
+     "label": "Roscoe H. Hillenkoetter"
+    },
+    {
+     "id": "cia",
+     "label": "Central Intelligence Agency"
+    }
+   ],
+   "id": "e-0090ce15ca",
+   "kind": "edge",
+   "label": "first Director of Central Intelligence, May 1947 to October 1950",
+   "sources": [
+    {
+     "date": "1960-06-01",
+     "name": "CIA-RDP68-00046R000200090025-2, Worcester Gazette, 1 June 1960",
+     "url": "https://archive.org/details/cia-readingroom-document-cia-rdp68-00046r000200090025-2"
+    }
+   ],
+   "text": "The dates are given in a CIA-held newspaper clipping of 1 June 1960, released in 2014: he 'headed the Central Intelligence Agency from May 1947 to October 1950'.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-2234ce41b1": {
+   "endpoints": [
+    {
+     "id": "nsdd-159",
+     "label": "NSDD 159, Covert Action Policy Approval and Coordination Procedures (18 January 1985)"
+    },
+    {
+     "id": "national-security-council",
+     "label": "National Security Council"
+    }
+   ],
+   "id": "e-2234ce41b1",
+   "kind": "edge",
+   "label": "Puts the only record copies in one NSC officer's hands",
+   "sources": [
+    {
+     "date": "2026-09-19",
+     "name": "NSDD 159, Reagan Library scan, 7 pages, declassified NARA 30 January 2012",
+     "url": "https://www.reaganlibrary.gov/public/archives/reference/scanned-nsdds/nsdd159.pdf"
+    }
+   ],
+   "text": "The NSC Senior Director for Intelligence Programs holds the sole record copies of approved Findings and Memoranda of Notification, and administers the special access compartment protecting covert action policy. 'No other copies of approved Findings or MONs are authorized.'",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-2fe5f372f1": {
+   "endpoints": [
+    {
+     "id": "nsam-303",
+     "label": "NSAM 303, Change in Name of Special Group 5412 (2 June 1964)"
+    },
+    {
+     "id": "nsc-5412",
+     "label": "NSC 5412, National Security Council Directive on Covert Operations (15 March 1954)"
+    }
+   ],
+   "id": "e-2fe5f372f1",
+   "kind": "edge",
+   "label": "Renames the body, and points at NSC 5412/2 for its authority",
+   "sources": [
+    {
+     "date": "2026-09-19",
+     "name": "NSAM 303, FRUS 1964-1968 vol. XXXIII, Doc. 204",
+     "url": "https://history.state.gov/historicaldocuments/frus1964-68v33/d204"
+    }
+   ],
+   "text": "NSAM 303's second sentence states the change 'in no way alters the composition, function or responsibility of the Special Group 5412 as authorized by NSC 5412/2'. The memo's own text is what establishes that the authority lies in the 1955 revision and not in NSC 5412 itself.",
+   "tier": 1,
+   "type": "temporal"
+  },
+  "e-429fa7f008": {
+   "endpoints": [
+    {
+     "id": "nsdd-159",
+     "label": "NSDD 159, Covert Action Policy Approval and Coordination Procedures (18 January 1985)"
+    },
+    {
+     "id": "cia",
+     "label": "Central Intelligence Agency"
+    }
+   ],
+   "id": "e-429fa7f008",
+   "kind": "edge",
+   "label": "One focal point per component, the Agency included",
+   "sources": [
+    {
+     "date": "2026-09-19",
+     "name": "NSDD 159, Security Procedures para. 2 and p. 2, Reagan Library scan",
+     "url": "https://www.reaganlibrary.gov/public/archives/reference/scanned-nsdds/nsdd159.pdf"
+    }
+   ],
+   "text": "'Each NSPG member shall designate one senior member of his component as the sole focal point for all matters related to covert action.' The design goal stated on page 2 is that knowledge of policy, of operations and of supporting activity be strictly compartmented from each other.",
+   "tier": 1,
+   "type": "programmatic"
+  },
+  "e-4a1c824bec": {
+   "endpoints": [
+    {
+     "id": "national-security-act-1947",
+     "label": "National Security Act of 1947 (Pub. L. 80-253, 61 Stat. 495)"
+    },
+    {
+     "id": "national-security-council",
+     "label": "National Security Council"
+    }
+   ],
+   "id": "e-4a1c824bec",
+   "kind": "edge",
+   "label": "Section 101 creates the Council",
+   "sources": [
+    {
+     "date": "2026-09-19",
+     "name": "National Security Act of 1947 sec. 101, 61 Stat. 496",
+     "url": "https://www.govinfo.gov/content/pkg/STATUTE-61/pdf/STATUTE-61-Pg495.pdf"
+    }
+   ],
+   "text": "The Council is a creature of statute, not of executive practice. 50 U.S.C. 3021's source credit traces it to title I, section 101 of the Act at 61 Stat. 496.",
+   "tier": 1,
+   "type": "legislative"
+  },
+  "e-604aaaa21a": {
+   "endpoints": [
+    {
+     "id": "sidney-souers",
+     "label": "Rear Adm. Sidney W. Souers"
+    },
+    {
+     "id": "cia",
+     "label": "Central Intelligence Agency"
+    }
+   ],
+   "id": "e-604aaaa21a",
+   "kind": "edge",
+   "label": "First Director of Central Intelligence, 22 January to 10 June 1946",
+   "sources": [
+    {
+     "date": "1946-02-02",
+     "name": "FRUS 1945-50 Intel, Docs. 71 and 137, and List of Persons",
+     "url": "https://history.state.gov/historicaldocuments/frus1945-50Intel/d137"
+    }
+   ],
+   "text": "He held the Director of Central Intelligence post created by the Presidential directive of 22 January 1946 at the head of the Central Intelligence Group, the office the National Security Act of 1947 later placed at the head of the Central Intelligence Agency.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-61f3e41ce0": {
+   "endpoints": [
+    {
+     "id": "harry-s-truman",
+     "label": "Harry S. Truman"
+    },
+    {
+     "id": "usaf",
+     "label": "United States Air Force"
+    }
+   ],
+   "id": "e-61f3e41ce0",
+   "kind": "edge",
+   "label": "Signed the statute that created the Department of the Air Force",
+   "sources": [
+    {
+     "date": "1946-01-22",
+     "name": "Presidential Directive on Coordination of Foreign Intelligence Activities, 22 January 1946 (FRUS 1945-50 Intel, Doc. 71)",
+     "url": "https://history.state.gov/historicaldocuments/frus1945-50Intel/d71"
+    }
+   ],
+   "text": "Section 2's declaration of policy provides three military departments including the Air Force, and section 101(a) names a Secretary of the Air Force appointed under section 207.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-6a9d4d46ea": {
+   "endpoints": [
+    {
+     "id": "charles-p-cabell",
+     "label": "Gen. Charles P. Cabell"
+    },
+    {
+     "id": "usaf",
+     "label": "United States Air Force"
+    }
+   ],
+   "id": "e-6a9d4d46ea",
+   "kind": "edge",
+   "label": "Director of Intelligence, Office of the Deputy Chief of Staff, USAF",
+   "sources": [
+    {
+     "date": "2026-09-03",
+     "name": "FRUS 1950-1955, The Intelligence Community, List of Persons",
+     "url": "https://history.state.gov/historicaldocuments/frus1950-55Intel/persons"
+    }
+   ],
+   "text": "Both FRUS persons lists give the office; the later volume dates it to 1953 within its own coverage. This is the office he held while Project Blue Book was created.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-72b3fb2538": {
+   "endpoints": [
+    {
+     "id": "cia-office-of-policy-coordination",
+     "label": "CIA Office of Policy Coordination"
+    },
+    {
+     "id": "harry-s-truman",
+     "label": "Harry S. Truman"
+    }
+   ],
+   "id": "e-72b3fb2538",
+   "kind": "edge",
+   "label": "Chartered under section 102(d)(5) of the Act he signed",
+   "sources": [
+    {
+     "date": "1948-06-18",
+     "name": "NSC 10/2, National Security Council Directive on Office of Special Projects (FRUS 1945-50 Intel, Doc. 292)",
+     "url": "https://history.state.gov/historicaldocuments/frus1945-50Intel/d292"
+    }
+   ],
+   "text": "The directive names its own authority as the residual clause of the National Security Act of 1947, approved 26 July 1947.",
+   "tier": 1,
+   "type": "legislative"
+  },
+  "e-7561d35468": {
+   "endpoints": [
+    {
+     "id": "d-ic",
+     "label": "Intelligence Community"
+    },
+    {
+     "id": "d-intel",
+     "label": "Intelligence Tradecraft & Analysis"
+    }
+   ],
+   "id": "e-7561d35468",
+   "kind": "edge",
+   "label": "Elements and tradecraft",
+   "sources": [
+    {
+     "date": "2024-02-01",
+     "name": "AARO, Historical Record Report Volume I",
+     "url": "https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf"
+    }
+   ],
+   "text": "The federated IC structure determines which element collects and analyses, and the seams between elements are where an activity can be nobody's to report.",
+   "tier": 3,
+   "type": "institutional"
+  },
+  "e-7dab5634b4": {
+   "endpoints": [
+    {
+     "id": "charles-p-cabell",
+     "label": "Gen. Charles P. Cabell"
+    },
+    {
+     "id": "cia",
+     "label": "Central Intelligence Agency"
+    }
+   ],
+   "id": "e-7dab5634b4",
+   "kind": "edge",
+   "label": "Deputy Director of Central Intelligence",
+   "sources": [
+    {
+     "date": "2026-09-03",
+     "name": "FRUS 1950-1955, The Intelligence Community, List of Persons",
+     "url": "https://history.state.gov/historicaldocuments/frus1950-55Intel/persons"
+    }
+   ],
+   "text": "FRUS gives 1953 to 1962; the CIA's own chronology gives the resignation as 27 December 1961, effective 31 January 1962.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-7eb727a4b1": {
+   "endpoints": [
+    {
+     "id": "cia-office-of-policy-coordination",
+     "label": "CIA Office of Policy Coordination"
+    },
+    {
+     "id": "cia",
+     "label": "Central Intelligence Agency"
+    }
+   ],
+   "id": "e-7eb727a4b1",
+   "kind": "edge",
+   "label": "Created inside the Agency by NSC 10/2",
+   "sources": [
+    {
+     "date": "1948-06-18",
+     "name": "NSC 10/2, National Security Council Directive on Office of Special Projects (FRUS 1945-50 Intel, Doc. 292)",
+     "url": "https://history.state.gov/historicaldocuments/frus1945-50Intel/d292"
+    }
+   ],
+   "text": "The directive places the office within CIA but requires it to operate independently of the Agency's other components and to report through its Chief directly to the Director of Central Intelligence.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-7f55007a7e": {
+   "endpoints": [
+    {
+     "id": "sidney-souers",
+     "label": "Rear Adm. Sidney W. Souers"
+    },
+    {
+     "id": "roscoe-hillenkoetter",
+     "label": "Roscoe H. Hillenkoetter"
+    }
+   ],
+   "id": "e-7f55007a7e",
+   "kind": "edge",
+   "label": "Successive holders of the DCI post; in the same room at the NSC's first meeting",
+   "sources": [
+    {
+     "date": "1947-09-26",
+     "name": "FRUS 1945-50 Intel, Doc. 225 and List of Persons",
+     "url": "https://history.state.gov/historicaldocuments/frus1945-50Intel/d225"
+    }
+   ],
+   "text": "Souers held the Director of Central Intelligence post in 1946 and Hillenkoetter from 1 May 1947; the minutes of the National Security Council's first meeting on 26 September 1947 list Souers as Executive Secretary and Hillenkoetter as Director of Central Intelligence among those present.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-8b36f8d849": {
+   "endpoints": [
+    {
+     "id": "gordon-gray",
+     "label": "Gordon Gray"
+    },
+    {
+     "id": "cia",
+     "label": "Central Intelligence Agency"
+    }
+   ],
+   "id": "e-8b36f8d849",
+   "kind": "edge",
+   "label": "Sat with the Director of Central Intelligence on the Psychological Strategy Board",
+   "sources": [
+    {
+     "date": "1951-08-13",
+     "name": "Minutes of a Meeting of the Psychological Strategy Board, PSB M-2, 13 August 1951",
+     "url": "https://history.state.gov/historicaldocuments/frus1950-55Intel/d82"
+    }
+   ],
+   "text": "The Board was composed of the Under Secretary of State, the Deputy Secretary of Defense and the Director of Central Intelligence, and the minutes of PSB M-2 of 13 August 1951 record Gray present as Director with Lt. General W. Bedell Smith, Director of Central Intelligence, as acting chairman.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-9141865605": {
+   "endpoints": [
+    {
+     "id": "nsc-5412",
+     "label": "NSC 5412, National Security Council Directive on Covert Operations (15 March 1954)"
+    },
+    {
+     "id": "cia-office-of-policy-coordination",
+     "label": "CIA Office of Policy Coordination"
+    }
+   ],
+   "id": "e-9141865605",
+   "kind": "edge",
+   "label": "Supersedes and rescinds the charter that created the office",
+   "sources": [
+    {
+     "date": "2026-09-19",
+     "name": "NSC 5412 para. 7, FRUS 1950-1955, The Intelligence Community, Doc. 171",
+     "url": "https://history.state.gov/historicaldocuments/frus1950-55Intel/d171"
+    }
+   ],
+   "text": "Paragraph 7 supersedes and rescinds NSC 10/2 and NSC 10/5. The 1948 charter the board already carries was live for not quite six years.",
+   "tier": 1,
+   "type": "legislative"
+  },
+  "e-9c01aefec0": {
+   "endpoints": [
+    {
+     "id": "talbert-gravity-series-1955",
+     "label": "Ansel E. Talbert, three-part gravity series, New York Herald Tribune, 20-22 November 1955"
+    },
+    {
+     "id": "gordon-gray",
+     "label": "Gordon Gray"
+    }
+   ],
+   "id": "e-9c01aefec0",
+   "kind": "edge",
+   "label": "Records the UNC gravity institute approved with Gray's approval, he having by then retired as president",
+   "sources": [
+    {
+     "date": null,
+     "name": "https://archive.org/download/talbert1ny/talbert1ny_djvu.txt",
+     "url": "https://archive.org/download/talbert1ny/talbert1ny_djvu.txt"
+    }
+   ],
+   "text": "The series records that the UNC gravity institute was approved with Gray's approval and that he had by then retired as president of the university.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-b13a738e83": {
+   "endpoints": [
+    {
+     "id": "darpa",
+     "label": "Defense Advanced Research Projects Agency"
+    },
+    {
+     "id": "harry-s-truman",
+     "label": "Harry S. Truman"
+    }
+   ],
+   "id": "e-b13a738e83",
+   "kind": "edge",
+   "label": "Founded under the authority of the 1947 Act",
+   "sources": [
+    {
+     "date": "1975-12-01",
+     "name": "The Advanced Research Projects Agency, 1958-1974, Richard J. Barber Associates, Inc., DTIC AD-A154 363",
+     "url": "https://archive.org/download/DTIC_ADA154363/DTIC_ADA154363_djvu.txt"
+    }
+   ],
+   "text": "The directive's establishment clause cites the National Security Act of 1947 as amended, together with Reorganization Plan No. 6 of 1953.",
+   "tier": 1,
+   "type": "legislative"
+  },
+  "e-b16a0fe6c7": {
+   "endpoints": [
+    {
+     "id": "james-v-forrestal",
+     "label": "James V. Forrestal"
+    },
+    {
+     "id": "dod",
+     "label": "United States Department of Defense (secondary designation: Department of War)"
+    }
+   ],
+   "id": "e-b16a0fe6c7",
+   "kind": "edge",
+   "label": "First Secretary of Defense, 17 September 1947 to 28 March 1949",
+   "sources": [
+    {
+     "date": "1947-07-26",
+     "name": "National Security Act of 1947, 61 Stat. 495, sec. 202(a); Persons, FRUS Emergence of the Intelligence Establishment",
+     "url": "https://www.govinfo.gov/content/pkg/STATUTE-61/pdf/STATUTE-61-Pg495.pdf"
+    }
+   ],
+   "text": "The National Security Act of 1947 created the office at section 202(a) and required its holder to be appointed from civilian life; the Office of the Historian's persons list dates his tenure to the day.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-b3dd3dbc45": {
+   "endpoints": [
+    {
+     "id": "eo-12036",
+     "label": "Executive Order 12036 - United States Intelligence Activities (24 January 1978)"
+    },
+    {
+     "id": "national-security-council",
+     "label": "National Security Council"
+    }
+   ],
+   "id": "e-b3dd3dbc45",
+   "kind": "edge",
+   "label": "Routes every special activity to the President through an NSC committee",
+   "sources": [
+    {
+     "date": "2026-09-19",
+     "name": "EO 12036 secs. 1-302 and 4-212",
+     "url": "https://irp.fas.org/offdocs/eo/eo-12036.htm"
+    }
+   ],
+   "text": "Section 1-302: 'The SCC shall consider and submit to the President a policy recommendation, including all dissents, on each special activity.' Section 4-212 defines a special activity by the concealment of the United States role, not by its content.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-b8f0074ef5": {
+   "endpoints": [
+    {
+     "id": "gordon-gray",
+     "label": "Gordon Gray"
+    },
+    {
+     "id": "dod",
+     "label": "United States Department of Defense (secondary designation: Department of War)"
+    }
+   ],
+   "id": "e-b8f0074ef5",
+   "kind": "edge",
+   "label": "Secretary of the Army 1949-50; Assistant Secretary of Defense for International Security Affairs 1955-57",
+   "sources": [
+    {
+     "date": "2026-09-02",
+     "name": "Persons, FRUS 1950-1955, The Intelligence Community",
+     "url": "https://history.state.gov/historicaldocuments/frus1950-55Intel/persons"
+    }
+   ],
+   "text": "The Office of the Historian's persons list gives both appointments with dates, and the Deputy Secretary of Defense was a statutory member of the Board Gray later directed.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-bb7647d699": {
+   "endpoints": [
+    {
+     "id": "nsc-5412",
+     "label": "NSC 5412, National Security Council Directive on Covert Operations (15 March 1954)"
+    },
+    {
+     "id": "national-security-act-1947",
+     "label": "National Security Act of 1947 (Pub. L. 80-253, 61 Stat. 495)"
+    }
+   ],
+   "id": "e-bb7647d699",
+   "kind": "edge",
+   "label": "Written under the same residual clause, six years on",
+   "sources": [
+    {
+     "date": "2026-09-19",
+     "name": "NSC 5412 para. 4, FRUS 1950-1955, The Intelligence Community, Doc. 171",
+     "url": "https://history.state.gov/historicaldocuments/frus1950-55Intel/d171"
+    }
+   ],
+   "text": "Paragraph 4 invokes section 102(d)(5) exactly as NSC 10/2 had. Two successive covert-action charters rest on the same catch-all sentence in a 1947 reorganisation statute.",
+   "tier": 1,
+   "type": "legislative"
+  },
+  "e-bef526f571": {
+   "endpoints": [
+    {
+     "id": "james-v-forrestal",
+     "label": "James V. Forrestal"
+    },
+    {
+     "id": "us-navy",
+     "label": "United States Navy"
+    }
+   ],
+   "id": "e-bef526f571",
+   "kind": "edge",
+   "label": "Secretary of the Navy until September 1947",
+   "sources": [
+    {
+     "date": "2026-09-02",
+     "name": "Persons, FRUS, Emergence of the Intelligence Establishment, 1945-1950",
+     "url": "https://history.state.gov/historicaldocuments/frus1945-50Intel/persons"
+    }
+   ],
+   "text": "The Office of the Historian's persons list gives 'Secretary of the Navy until September 1947' immediately before the Defense appointment.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-c96466a27e": {
+   "endpoints": [
+    {
+     "id": "harry-s-truman",
+     "label": "Harry S. Truman"
+    },
+    {
+     "id": "dod",
+     "label": "United States Department of Defense (secondary designation: Department of War)"
+    }
+   ],
+   "id": "e-c96466a27e",
+   "kind": "edge",
+   "label": "Signed the statute that created the National Military Establishment",
+   "sources": [
+    {
+     "date": "1946-01-22",
+     "name": "Presidential Directive on Coordination of Foreign Intelligence Activities, 22 January 1946 (FRUS 1945-50 Intel, Doc. 71)",
+     "url": "https://history.state.gov/historicaldocuments/frus1945-50Intel/d71"
+    }
+   ],
+   "text": "Section 201(a) establishes the National Military Establishment under a Secretary of Defense who, by section 202(a), must be appointed from civilian life.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-ce38f7546c": {
+   "endpoints": [
+    {
+     "id": "harry-s-truman",
+     "label": "Harry S. Truman"
+    },
+    {
+     "id": "sidney-souers",
+     "label": "Rear Adm. Sidney W. Souers"
+    }
+   ],
+   "id": "e-ce38f7546c",
+   "kind": "edge",
+   "label": "Designated the first Director of Central Intelligence",
+   "sources": [
+    {
+     "date": "1946-01-22",
+     "name": "Presidential Directive on Coordination of Foreign Intelligence Activities, 22 January 1946 (FRUS 1945-50 Intel, Doc. 71)",
+     "url": "https://history.state.gov/historicaldocuments/frus1945-50Intel/d71"
+    }
+   ],
+   "text": "The directive reserves the designation to the President: 'The Director of Central Intelligence shall be designated by me'. The board's Souers node already carries the office and its dates.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-cee2233a45": {
+   "endpoints": [
+    {
+     "id": "cia-office-of-policy-coordination",
+     "label": "CIA Office of Policy Coordination"
+    },
+    {
+     "id": "national-security-act-1947",
+     "label": "National Security Act of 1947 (Pub. L. 80-253, 61 Stat. 495)"
+    }
+   ],
+   "id": "e-cee2233a45",
+   "kind": "edge",
+   "label": "Chartered under the residual clause, section 102(d)(5)",
+   "sources": [
+    {
+     "date": "2026-09-19",
+     "name": "National Security Act of 1947 sec. 102(d)(5), 61 Stat. 498",
+     "url": "https://www.govinfo.gov/content/pkg/STATUTE-61/pdf/STATUTE-61-Pg495.pdf"
+    },
+    {
+     "date": "2026-09-19",
+     "name": "NSC 10/2, FRUS 1945-1950, Emergence of the Intelligence Establishment, Doc. 292",
+     "url": "https://history.state.gov/historicaldocuments/frus1945-50Intel/d292"
+    }
+   ],
+   "text": "NSC 10/2 creates the Office of Special Projects 'under the authority of Section 102(d)(5) of the National Security Act of 1947', the clause permitting such other functions related to intelligence as the Council may direct. The board already carried the charter; this is the statute it was written under.",
+   "tier": 1,
+   "type": "legislative"
+  },
+  "e-d4fa337aaf": {
+   "endpoints": [
+    {
+     "id": "eo-11652",
+     "label": "Executive Order 11652 - Classification and Declassification of National Security Information and Material (8 March 1972)"
+    },
+    {
+     "id": "national-security-council",
+     "label": "National Security Council"
+    }
+   ],
+   "id": "e-d4fa337aaf",
+   "kind": "edge",
+   "label": "Lodges classification oversight in the Council",
+   "sources": [
+    {
+     "date": "2026-09-19",
+     "name": "EO 11652 sec. 7(A)",
+     "url": "https://irp.fas.org/offdocs/eo/eo-11652.htm"
+    }
+   ],
+   "text": "Section 7(A) puts monitoring of the classification system in the National Security Council and creates an Interagency Classification Review Committee of State, Defense, Justice, the AEC, CIA and the NSC Staff, which under 7(A)(2) takes complaints 'from persons within or without the government'.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-e578f975a1": {
+   "endpoints": [
+    {
+     "id": "nsdd-159",
+     "label": "NSDD 159, Covert Action Policy Approval and Coordination Procedures (18 January 1985)"
+    },
+    {
+     "id": "eo-12356",
+     "label": "Executive Order 12356 - National Security Information (2 April 1982)"
+    }
+   ],
+   "id": "e-e578f975a1",
+   "kind": "edge",
+   "label": "Its first partial release was made under this order",
+   "sources": [
+    {
+     "date": "2026-09-19",
+     "name": "NSDD 159 FAS extract, declassification stamp",
+     "url": "https://irp.fas.org/offdocs/nsdd/nsdd-159.htm"
+    }
+   ],
+   "text": "The Federation of American Scientists copy is stamped 'EXTRACT FROM NSDD 159' and partially declassified on 5 June 1987 under the provisions of EO 12356. The order that removed the public-interest test is the order under which the directive was first, partially, let out.",
+   "tier": 1,
+   "type": "temporal"
+  },
+  "e-e667505860": {
+   "endpoints": [
+    {
+     "id": "nsc-5412",
+     "label": "NSC 5412, National Security Council Directive on Covert Operations (15 March 1954)"
+    },
+    {
+     "id": "national-security-council",
+     "label": "National Security Council"
+    }
+   ],
+   "id": "e-e667505860",
+   "kind": "edge",
+   "label": "Issued by the Council and approved by the President the same day",
+   "sources": [
+    {
+     "date": "2026-09-19",
+     "name": "NSC 5412, FRUS 1950-1955, The Intelligence Community, Doc. 171",
+     "url": "https://history.state.gov/historicaldocuments/frus1950-55Intel/d171"
+    }
+   ],
+   "text": "Transmitted by the Council's Executive Secretary, James S. Lay, Jr., whose note states that the President had approved the enclosed directive that date.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-f0f41b78f3": {
+   "endpoints": [
+    {
+     "id": "nsam-303",
+     "label": "NSAM 303, Change in Name of Special Group 5412 (2 June 1964)"
+    },
+    {
+     "id": "national-security-council",
+     "label": "National Security Council"
+    }
+   ],
+   "id": "e-f0f41b78f3",
+   "kind": "edge",
+   "label": "Signed by the President's national security adviser, not by the President",
+   "sources": [
+    {
+     "date": "2026-09-19",
+     "name": "NSAM 303, FRUS 1964-1968 vol. XXXIII, Doc. 204",
+     "url": "https://history.state.gov/historicaldocuments/frus1964-68v33/d204"
+    }
+   ],
+   "text": "McGeorge Bundy signs, addressed to the Secretaries of State and Defense and the DCI. Worth recording because the memo is often cited as a presidential instrument.",
+   "tier": 1,
+   "type": "institutional"
+  }
+ },
+ "claimed": [
+  {
+   "cite": [
+    "c-72654f73ba",
+    "c-8dd63537ea"
+   ],
+   "text": "Hillenkoetter, after leaving the Agency, said publicly in 1960 that the unknown objects were operating under intelligent control, asked for a congressional investigation, and as a NICAP board member referred his conclusions to the Senate Space Committee."
+  },
+  {
+   "cite": [
+    "c-f9af42baac",
+    "c-796caa2ead"
+   ],
+   "text": "On the Danny Jones Podcast in June 2026, Matthew Ehret said the Office of Policy Coordination staffed NICAP's leadership, that the National Enquirer's founder worked in it before founding the paper and that Richard Bissell headed it, and that Blue Book was launched under CIA Deputy Director Cabell, whom Kennedy fired."
+  },
+  {
+   "cite": [
+    "c-72ba2615d3",
+    "c-c26feaec5b",
+    "c-41b4d3461b"
+   ],
+   "text": "On AREA52 Debriefed in January 2025, Chris Ramsay read a list describing Gray as managing Cold War information in a way that aligned with MJ-12's supposed need to control UFO narratives, and read John Lear's 1987 statement that General James V. Forestall jumped to his death and that his medical records are sealed. In April 2025 Jesse Michels said on the same show, prefacing it with doubt, that Forrestal heard a description of mutilated human and alien bodies shortly before his hospitalisation."
+  },
+  {
+   "cite": [
+    "c-6770406ef5"
+   ],
+   "text": "Jason Reza Jorjani said on the Danny Jones Podcast in 2024 that the Herald Tribune's gravity reporting dated from 1953 and quoted Martin's chief executive promising production within a few years on Manhattan Project funding."
+  },
+  {
+   "cite": [
+    "e-7561d35468",
+    "c-b76406bf81"
+   ],
+   "text": "The board infers that the federated intelligence community is itself a concealment resource, because an activity placed in the seam between two elements can be nobody's to report, and that the CIA's later overflight explanation amounts to admitting it let false explanations stand."
+  }
+ ],
+ "contested": [
+  {
+   "cite": [
+    "c-548fd95cff",
+    "e-2fe5f372f1"
+   ],
+   "text": "NSC 5412 does not create the 5412 Committee, contrary to a widely repeated claim: no Special Group appears in its text, and the State Department's editorial note attributes the Special Group to NSC 5412/2 of 28 December 1955, which NSAM 303 itself cites as the authority."
+  },
+  {
+   "cite": [
+    "c-029df03dbc",
+    "c-c7b437b634"
+   ],
+   "text": "NSAM 303 is routinely cited for things it does not say: it is a renaming memo signed by the national security adviser, with no classification, declassification or subject-matter rules in it."
+  },
+  {
+   "cite": [
+    "c-fa39ba5965",
+    "c-0be21e2ad8"
+   ],
+   "text": "Two common statements about the 1947 Act rest on less than they seem. It created the National Military Establishment, not the Department of Defense, and the Statutes at Large print only its approval date, so Truman's signature, universally reported, was not verified from a primary signing document."
+  },
+  {
+   "cite": [
+    "c-a5537d2bb9",
+    "c-f9af42baac",
+    "c-796caa2ead",
+    "c-72ba2615d3",
+    "c-c26feaec5b",
+    "c-6770406ef5"
+   ],
+   "text": "The opened records contradict the podcast versions: the only officer of the covert-action office they name is Wisner, from September 1948, and nothing opened bears on NICAP or the Enquirer; Cabell was still the Air Force's intelligence chief when Blue Book began and resigned rather than being dismissed; no document connects the Psychological Strategy Board to UFOs; Forrestal could not have been a general, since the office required a civilian; and the Herald Tribune series dates from November 1955 and quotes a vice-president, comparing the time rather than the funding of the first atom bomb."
+  },
+  {
+   "cite": [
+    "c-41b4d3461b"
+   ],
+   "text": "Michels named no document and no date for the Forrestal account, and nothing supporting it was opened."
+  },
+  {
+   "cite": [
+    "c-f635c52182",
+    "c-745fe1147f"
+   ],
+   "text": "NSDD 159's own compartment rules are not in either release: the special access procedures were to be issued under separate cover and were not located, and VEIL appears only as a struck-through marking, so it cannot be said to be the name of the compartment the directive creates."
+  },
+  {
+   "cite": [
+    "c-044c9f5722",
+    "c-d59d54959b"
+   ],
+   "text": "Hillenkoetter's claims had a contemporary critic in the 1960 Enquirer editorial, and a text search of his FBI files found no mention of NICAP, flying saucers or 1960, though the scans are uneven."
+  }
+ ],
+ "essays": [],
+ "focusEra": "0",
+ "id": "nsc-spine",
+ "kind": "mechanism",
+ "lead": {
+  "cite": [
+   "c-d042156617",
+   "c-fea5c38fa2",
+   "c-91ce4e14b1",
+   "c-251ec6e090"
+  ],
+  "text": "The National Security Act of 1947 created the National Security Council and placed the Central Intelligence Agency under it, and a residual clause in that Act, section 102(d)(5), is the authority the first covert-action charters were written under. This topic follows the Council's directive series from NSC 10/2 in 1948 to NSDD 159 in 1985, and the people who held its first offices."
+ },
+ "members": [
+  {
+   "cls": "legislation",
+   "id": "national-security-act-1947",
+   "label": "National Security Act of 1947 (Pub. L. 80-253, 61 Stat. 495)",
+   "role": "law"
+  },
+  {
+   "cls": "institution",
+   "id": "national-security-council",
+   "label": "National Security Council",
+   "role": "institution"
+  },
+  {
+   "cls": "person",
+   "id": "harry-s-truman",
+   "label": "Harry S. Truman",
+   "role": "official"
+  },
+  {
+   "cls": "person",
+   "id": "sidney-souers",
+   "label": "Rear Adm. Sidney W. Souers",
+   "role": "official"
+  },
+  {
+   "cls": "person",
+   "id": "james-v-forrestal",
+   "label": "James V. Forrestal",
+   "role": "official"
+  },
+  {
+   "cls": "person",
+   "id": "gordon-gray",
+   "label": "Gordon Gray",
+   "role": "official"
+  },
+  {
+   "cls": "person",
+   "id": "roscoe-hillenkoetter",
+   "label": "Roscoe H. Hillenkoetter",
+   "role": "official"
+  },
+  {
+   "cls": "person",
+   "id": "charles-p-cabell",
+   "label": "Gen. Charles P. Cabell",
+   "role": "official"
+  },
+  {
+   "cls": "institution",
+   "id": "cia",
+   "label": "Central Intelligence Agency",
+   "role": "institution"
+  },
+  {
+   "cls": "institution",
+   "id": "cia-office-of-policy-coordination",
+   "label": "CIA Office of Policy Coordination",
+   "role": "institution"
+  },
+  {
+   "cls": "document",
+   "id": "nsc-5412",
+   "label": "NSC 5412, National Security Council Directive on Covert Operations (15 March 1954)",
+   "role": "document"
+  },
+  {
+   "cls": "document",
+   "id": "nsam-303",
+   "label": "NSAM 303, Change in Name of Special Group 5412 (2 June 1964)",
+   "role": "document"
+  },
+  {
+   "cls": "document",
+   "id": "nsdd-159",
+   "label": "NSDD 159, Covert Action Policy Approval and Coordination Procedures (18 January 1985)",
+   "role": "document"
+  },
+  {
+   "cls": "legislation",
+   "id": "eo-11652",
+   "label": "Executive Order 11652 - Classification and Declassification of National Security Information and Material (8 March 1972)",
+   "role": "law"
+  },
+  {
+   "cls": "legislation",
+   "id": "eo-12036",
+   "label": "Executive Order 12036 - United States Intelligence Activities (24 January 1978)",
+   "role": "law"
+  },
+  {
+   "cls": "legislation",
+   "id": "eo-12356",
+   "label": "Executive Order 12356 - National Security Information (2 April 1982)",
+   "role": "law"
+  },
+  {
+   "cls": "institution",
+   "id": "dod",
+   "label": "United States Department of Defense (secondary designation: Department of War)",
+   "role": "institution"
+  },
+  {
+   "cls": "institution",
+   "id": "usaf",
+   "label": "United States Air Force",
+   "role": "institution"
+  },
+  {
+   "cls": "institution",
+   "id": "us-navy",
+   "label": "United States Navy",
+   "role": "institution"
+  },
+  {
+   "cls": "institution",
+   "id": "darpa",
+   "label": "Defense Advanced Research Projects Agency",
+   "role": "institution"
+  },
+  {
+   "cls": "document",
+   "id": "talbert-gravity-series-1955",
+   "label": "Ansel E. Talbert, three-part gravity series, New York Herald Tribune, 20-22 November 1955",
+   "role": "document"
+  }
+ ],
+ "notes": "nsam-303 belongs as the correction: a two-sentence renaming memo, not a charter.",
+ "questions": [
+  "What did NSC 5412/2 of 28 December 1955 say, and who sat on the Special Group it created?",
+  "Where are the special access procedures NSDD 159 says were issued under separate cover, and was VEIL the name of its compartment or an existing handling caveat?",
+  "Does any primary record show who signed the National Security Act of 1947?",
+  "Does the Navy's 1949 board of investigation into Forrestal's death survive, and does it bear on the claim that his medical records are sealed?",
+  "Is there any record at all behind the MJ-12 attributions made to Souers and Gray?",
+  "What records of Findings and Memoranda of Notification survive from the single NSC custodian NSDD 159 created?"
+ ],
+ "record": [
+  {
+   "cite": [
+    "c-f002e7ddc8",
+    "c-0d4a926e57",
+    "e-ce38f7546c"
+   ],
+   "text": "The 1946 directive formed a Central Intelligence Group under a Director of Central Intelligence who sat as a non-voting member of the National Intelligence Authority, barred any police, law enforcement or internal security functions, and made the Director responsible for fully protecting intelligence sources and methods."
+  },
+  {
+   "cite": [
+    "c-9ee12d89ea",
+    "c-d3532156e9",
+    "c-14b71b2e9b",
+    "e-604aaaa21a"
+   ],
+   "text": "Souers signed as Director of Central Intelligence within two weeks, held the post from 22 January to 10 June 1946, and was Executive Secretary of the National Security Council from August 1947 to January 1950, the civilian staff head the 1947 Act provides for at section 101(c)."
+  },
+  {
+   "cite": [
+    "c-28a9756da6",
+    "e-7f55007a7e"
+   ],
+   "text": "At the Council's first meeting on 26 September 1947, with Souers as Executive Secretary and the Director of Central Intelligence among those present, the Council gave the Executive Secretary full powers over its funds and recorded that its affairs would be conducted with the utmost secrecy."
+  },
+  {
+   "cite": [
+    "c-369397190e",
+    "c-fa39ba5965",
+    "e-c96466a27e",
+    "e-61f3e41ce0"
+   ],
+   "text": "The Act also created the National Security Resources Board, the Departments of the Army, Navy and Air Force, the Joint Chiefs of Staff and the Munitions Board. It did not create the Department of Defense: it established the National Military Establishment, renamed by the amendments of 10 August 1949."
+  },
+  {
+   "cite": [
+    "c-bb725f8168",
+    "c-403be7a42e",
+    "c-3618e1040b",
+    "c-8b001b1ade",
+    "e-4a1c824bec"
+   ],
+   "text": "The Council's statutory purpose is still to advise the President on integrating domestic, foreign and military policies relating to national security. Its 1947 members were the President, the Secretaries of State, Defense, Army, Navy and Air Force and the Chairman of the National Security Resources Board; the Director of Central Intelligence was never a statutory member, and today the Director of National Intelligence attends only if the President so designates. Its professional staff is capped at 200."
+  },
+  {
+   "cite": [
+    "c-45f992c5de",
+    "c-dd8c9bc261",
+    "c-bb974d22b7",
+    "e-b16a0fe6c7",
+    "e-bef526f571"
+   ],
+   "text": "James Forrestal was Secretary of the Navy until September 1947 and the first Secretary of Defense from 17 September 1947 to 28 March 1949. The Act requires the Secretary of Defense to be appointed from civilian life and bars anyone on active duty as a regular commissioned officer within the previous ten years."
+  },
+  {
+   "cite": [
+    "c-3b363924c7",
+    "e-0090ce15ca"
+   ],
+   "text": "Roscoe Hillenkoetter headed the Central Intelligence Agency from May 1947 to October 1950, on a CIA-held clipping."
+  },
+  {
+   "cite": [
+    "c-ac4dc11f47",
+    "c-3cf3b0d96c",
+    "c-a5537d2bb9",
+    "e-7eb727a4b1",
+    "e-cee2233a45",
+    "e-72b3fb2538"
+   ],
+   "text": "NSC 10/2 created the Office of Special Projects inside the CIA to plan and conduct covert operations. Its Chief reported directly to the Director of Central Intelligence, and the office was to operate independently of the Agency's other components. The name Office of Policy Coordination appears with Frank G. Wisner as Assistant Director for Policy Coordination from 1 September 1948."
+  },
+  {
+   "cite": [
+    "c-12be3da016",
+    "c-cacf42a183",
+    "c-ef37d88ed8",
+    "e-e667505860",
+    "e-9141865605"
+   ],
+   "text": "NSC 5412 was transmitted by the Council's Executive Secretary, James S. Lay Jr., with a note that the President had approved it that day. It made the Director of Central Intelligence responsible for keeping covert operations consistent with foreign and military policy, superseded and rescinded NSC 10/2 and NSC 10/5, and made the Operations Coordinating Board the normal channel for coordinating support."
+  },
+  {
+   "cite": [
+    "c-ab7c304103",
+    "c-c7b437b634",
+    "c-029df03dbc",
+    "c-fa4d45efa7",
+    "e-f0f41b78f3",
+    "e-2fe5f372f1"
+   ],
+   "text": "NSAM 303 of 2 June 1964, signed by McGeorge Bundy rather than the President, has two operative sentences: the Special Group 5412 would henceforth be known as the 303 Committee, and the change did not alter its composition, function or responsibility as authorised by NSC 5412/2. It contains no secrecy policy of any kind and no mention of unidentified aerial phenomena."
+  },
+  {
+   "cite": [
+    "c-14a013a2d2",
+    "c-6532c404d1",
+    "c-a1073ea62b",
+    "c-2bd9d4bb81",
+    "e-8b36f8d849"
+   ],
+   "text": "Truman created the Psychological Strategy Board by directive of 4 April 1951, reporting to the Council, with a Board of the Under Secretary of State, the Deputy Secretary of Defense and the Director of Central Intelligence. Gordon Gray was its first Director; the directive gave him a claim on other departments for assistance and information but did not authorise the Board or the Director to perform any psychological operations."
+  },
+  {
+   "cite": [
+    "c-4e2cf80743",
+    "e-b8f0074ef5",
+    "c-b9dae10855",
+    "e-9c01aefec0"
+   ],
+   "text": "Gray's other offices, from the Office of the Historian's list, were Secretary of the Army from 1949 to 1950, Assistant Secretary of Defense for International Security Affairs from 1955 to 1957, and Special Assistant to the President for National Security Affairs from 1958 to 1961. A 1955 newspaper series records that the University of North Carolina gravity institute had his approval before he retired as the university's president."
+  },
+  {
+   "cite": [
+    "c-6699966445",
+    "e-d4fa337aaf"
+   ],
+   "text": "Nixon's EO 11652 of 1972 lodged monitoring of the classification system in the National Security Council, with an Interagency Classification Review Committee that took complaints from within or without the government."
+  },
+  {
+   "cite": [
+    "c-af07845098",
+    "c-6abfd8fb81",
+    "c-9f09fe39a8",
+    "c-77577c8088",
+    "e-b3dd3dbc45"
+   ],
+   "text": "Carter's EO 12036 of 1978 required the Special Coordination Committee to submit a recommendation, with all dissents, to the President on each special activity, defined as an activity abroad where the US role is not apparent or acknowledged publicly. It required the intelligence committees to be kept fully and currently informed while saying that was not a condition precedent, and built a four-part oversight structure. It contains no compartmentation provision."
+  },
+  {
+   "cite": [
+    "c-251ec6e090",
+    "c-268e6a4f77",
+    "c-53f4046830",
+    "c-f7450a1c61",
+    "c-1ea658f34c",
+    "e-2234ce41b1",
+    "e-429fa7f008"
+   ],
+   "text": "NSDD 159, signed by Reagan in January 1985, ordered the national security adviser to establish a separate, specially compartmented control and access system at Top Secret for all covert action policy, with one designated focal point per agency, knowledge of policy, operations and support strictly compartmented from each other, and the minimum possible number of documents. The only record copies of approved Findings and Memoranda of Notification were to be held by one NSC officer."
+  },
+  {
+   "cite": [
+    "c-b63fbe121f",
+    "c-745fe1147f",
+    "e-e578f975a1"
+   ],
+   "text": "The NSDD 159 original carried the instruction Declassify on Presidential Approval Only and a struck-through control line reading TOP SECRET/VEIL. Its first partial release, in 1987, was made under EO 12356, and the fuller Reagan Library release differs from it."
+  },
+  {
+   "cite": [
+    "c-aea674a897",
+    "c-42f0773450",
+    "e-b13a738e83"
+   ],
+   "text": "Later agencies were founded under the same Act: DoD Directive 5105.15 of 7 February 1958 established ARPA in the Office of the Secretary of Defense in accordance with the National Security Act of 1947 as amended, with Roy W. Johnson as first Director."
+  },
+  {
+   "cite": [
+    "c-2202d9868f",
+    "c-7722bc7d68",
+    "e-6a9d4d46ea",
+    "e-7dab5634b4",
+    "c-01e7396e2b",
+    "c-9fd7e805b6"
+   ],
+   "text": "Charles Cabell was the Air Force's Director of Intelligence to 1953, the office he held while Project Blue Book was created, and Deputy Director of Central Intelligence from 1953; the CIA's chronology records his resignation on 27 December 1961. The Act had also created the Air Force, whose Project Blue Book logged 12,618 sightings from 1947 to 1969, 701 of them unidentified, before the Secretary of the Air Force ended it on 17 December 1969."
+  },
+  {
+   "cite": [
+    "c-d0b49eaa86",
+    "c-4173ba2112",
+    "c-674a0d6a71",
+    "c-d6d2adc229"
+   ],
+   "text": "The agencies under the Council later touched the subject directly: the CIA's Office of Scientific Intelligence convened the Robertson Panel in January 1953, the CIA's own historian conceded the Agency's role included shaping public explanations for classified overflights, and ODNI's 2021 assessment put its inability to characterise most incidents down to limited and inconsistent reporting."
+  }
+ ],
+ "related": [
+  "cia-secrecy-precedents",
+  "classification-orders",
+  "mj12-documents",
+  "robertson-cia-1953",
+  "blue-book",
+  "perception-management",
+  "sap-governance",
+  "gravity-research-1950s",
+  "oversight-before-2017",
+  "civilian-groups"
+ ],
+ "section": "secrecy-machinery",
+ "span": {
+  "from": "1947",
+  "to": "1985"
+ },
+ "status": "verified",
+ "summary": [
+  {
+   "cite": [
+    "c-327919feb5",
+    "c-d3532156e9",
+    "c-d042156617",
+    "c-c8c2c7821b"
+   ],
+   "text": "Truman's directive of 22 January 1946 created the post of Director of Central Intelligence, to be designated by the President, and Sidney Souers held it first. The Act of 26 July 1947 then created the National Security Council, the Central Intelligence Agency under the Council, and the National Military Establishment."
+  },
+  {
+   "cite": [
+    "c-962303bc69",
+    "c-91ce4e14b1",
+    "c-50f0b4d93c",
+    "e-bb7647d699"
+   ],
+   "text": "Section 102(d)(5) lets the Agency perform such other functions related to intelligence as the Council may direct. NSC 10/2 of 18 June 1948 and NSC 5412 of 15 March 1954 both invoke it, so the covert-action programme rests on a residual clause in a reorganisation statute."
+  },
+  {
+   "cite": [
+    "c-5976133b9d",
+    "c-ac4dc11f47",
+    "c-37ff48506d",
+    "c-ef37d88ed8"
+   ],
+   "text": "The charters define covert operations by deniability: operations planned so that any US Government responsibility is not evident to unauthorised persons and, if uncovered, can be plausibly disclaimed. NSC 10/2 created an Office of Special Projects inside the CIA to conduct them, and NSC 5412 superseded it six years later with the same test."
+  },
+  {
+   "cite": [
+    "c-ab7c304103",
+    "c-af07845098",
+    "c-251ec6e090"
+   ],
+   "text": "The series ran on through a renaming memo in 1964, Carter's intelligence order of 1978, which routed every special activity to the President through an NSC committee, and Reagan's NSDD 159 of 1985, which put all covert action policy inside a separate specially compartmented access system."
+  }
+ ],
+ "title": "The National Security Act and the NSC, 1947-1985"
+}
