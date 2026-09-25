@@ -4,18 +4,28 @@
 session: where does the repo stand, and what do I do now? History lives in the dated handoffs and in
 `notes/HISTORY-TO-2026-09-24.md`.
 
-**Updated:** 25 September 2026, by the overnight session (Opus 5.5, high), after phase 3.
+**Updated:** 25 September 2026, by the overnight session (Opus 5.5, high), after phase 4.
 
 | | |
 |---|---|
-| **Next phase** | **Phase 4: stable ids, entity resolution, the taxonomy.** Detailed plan: `notes/plans/P4-topics-foundations.md`; the reviewed merge list: `notes/plans/P4-dedupe-decisions.md`. The plan marks it MAX; see the plan's note on effort |
-| After that | phase 5 (drafting the topics), then 6 (the Atlas, merged only after Stewart's look) |
-| Master | phases 1, 2 and 3 merged |
+| **Next phase** | **Phase 5: drafting the topics.** WAITING ON STEWART for two things: his read of the draft topic table (`notes/plans/P4-topic-table.md`: 93 topics in 10 sections, drafted at high effort, not max; edit any line) and his OK for the drafting fan-out (about 10 Opus drafters and 3 verifiers), because the weekly limit stood at 61% with six days left when phase 4 finished. Phase 5's task 1 (the topic checks) needs no fan-out and can start without either |
+| After that | phase 6 (the Atlas and topic pages; merged only after Stewart's look on the review site), then 7 to 12 |
+| Master | phases 1 to 4 merged |
 | Production | https://the-program-zxz.pages.dev serves master (CI deploys after a green gate) |
 | The gate | `python tools/gate.py` (full), `--quick` (no poison sweep), `--no-build`, `--no-app`, `--idempotent`. CI: a gate job without a browser, an app job, and the poison sweep in three parallel shards |
 | Branches worth knowing | `trial/nuclear-on-defaults`: local only, a measurement, never merge. `nuclear-2026-09-19`, `redesign/p1-*`, `redesign/p2-*`: merged, history |
 | Working copy | `C:\Users\stewa\ClaudeProjects\Missing individuals connected to defense contractors\the-program`. The OneDrive copy is dead cloud placeholders |
 | Waiting on Stewart | nothing blocking. Optional: Appendix T (the topic table) before phase 4; the Worker redeploy from 12 September (not urgent); the public-release questions in section 10 of the redesign |
+
+## What phase 4 did
+
+| | |
+|---|---|
+| Stable ids | every claim (`c-` + 10 hex) and edge (`e-` + 10 hex) carries a content id, shipped in the app's data; no collisions |
+| Entity resolution | 25 reviewed merges, 32 aliases (`notes/plans/P4-dedupe-decisions.md`): nodes 1,170 to 1,138; 123 claims moved to their survivors; six disagreements recorded as `conflicts`, nothing deleted; the duplicate finder is `tools/topics/find_duplicates.py` |
+| The taxonomy, DRAFT | 93 topic stubs in `research/topics/`, 10 sections, 3 research gaps; proposals (`tools/topics/propose_members.py`, part of the build) cover 98.2% of nodes and 97.7% of people; all 58 domain nodes absorbed exactly once |
+| Found on the way | the analyst's health check had no timeout, so a stalled Worker left the dock saying "checking" forever (now 8 seconds, then the unreachable line); the map ranks nodes with a dossier first within its budget |
+| Local poison sweeps | on this Windows machine, late at night, runs died in bursts with "fetch failed" against a live preview: not reproducible in 400 direct fetches. Every one of the 30 poisons was seen when rerun alone; CI's sharded Linux sweep is the authoritative one. The harness now retries its first fetch and names the underlying error |
 
 ## What phase 3 did
 

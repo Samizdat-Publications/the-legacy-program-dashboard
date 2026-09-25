@@ -844,10 +844,22 @@ async function main() {
   }
 
   /* the board's own data, read straight off the server the browser is reading */
+  /* Three tries, a second apart. On a Windows machine that has run hundreds of
+     these in a night, a first connection to the preview is sometimes refused
+     outright; a server that is really down still fails all three. */
   const jget = async (p) => {
-    const r = await fetch(APP + p);
-    if (!r.ok) throw new Error(p + ' -> HTTP ' + r.status);
-    return r.json();
+    let last;
+    for (let i = 0; i < 3; i++) {
+      try {
+        const r = await fetch(APP + p);
+        if (!r.ok) throw new Error(p + ' -> HTTP ' + r.status);
+        return await r.json();
+      } catch (e) {
+        last = e;
+        await new Promise((res) => setTimeout(res, 1000));
+      }
+    }
+    throw last;
   };
   let index, mapData, edges, threadsFile, highlights, tlEvents, focusRec, patentsFile, analystFile,
       claimRows, foiaFile, personRec, entityRec, entityQRec, denialRec;
@@ -863,7 +875,8 @@ async function main() {
         jget('data/nodes/' + DENIAL_FOCUS + '.json'),
       ]);
   } catch (e) {
-    console.error('HARNESS: the app is not being served at ' + APP + ' (' + e.message + ').');
+    console.error('HARNESS: the app is not being served at ' + APP + ' (' + e.message +
+      (e.cause ? ': ' + (e.cause.code || e.cause.message || e.cause) : '') + ').');
     console.error('Run `npm run build` then `npm run preview` in app/, or set APP_URL.');
     process.exit(2);
   }
@@ -1066,7 +1079,7 @@ async function main() {
       await p.waitForFunction(() => {
         const s = document.querySelector('#analyst .an-status');
         return !s || !/^checking/.test(s.textContent || '');
-      }, null, { timeout: 10000 }).catch(() => {});
+      }, null, { timeout: 20000 }).catch(() => {});   /* the page gives up after 8s per candidate */
       await poisonAt(p, 'chips');
       const read = await p.evaluate(`(function ${IN_PAGE.chips})()`);
       CH.push({ key, hash, strip, ...read });

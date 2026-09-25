@@ -135,13 +135,17 @@ async function probeOnce(): Promise<string | null> {
   let worker = '';
   try { worker = (await loadAnalyst()).worker; } catch { worker = ''; }
   for (const o of ['', worker].filter((x, i) => i === 0 || x)) {
+    /* A health check that never answers must not leave the dock saying
+       "checking" forever: after 8 seconds this candidate counts as unreachable. */
+    const ac = new AbortController();
+    const timer = setTimeout(() => ac.abort(), 8000);
     try {
-      const r = await fetch(o + '/api/analyst/health');
+      const r = await fetch(o + '/api/analyst/health', { signal: ac.signal });
       if (!r.ok) continue;
       if (!(r.headers.get('content-type') || '').includes('json')) continue;
       const j = await r.json();
       if (j && j.live) { health = j; endpoint = o + '/api/analyst'; return endpoint; }
-    } catch { /* the next candidate, or none */ }
+    } catch { /* the next candidate, or none */ } finally { clearTimeout(timer); }
   }
   return null;
 }
