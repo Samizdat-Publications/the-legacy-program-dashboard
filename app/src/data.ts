@@ -93,6 +93,7 @@ export interface NodeRecord {
   claims?: Claim[];
   sources?: Source[];
   chronology?: { date: string; event: string; precision?: string }[];
+  sequenceChain?: { date: string; event: string; isAnomalous?: boolean; source?: string | null }[];
   affiliations?: string[];
   conflicts?: string[] | string;
   unverified?: string[] | string;

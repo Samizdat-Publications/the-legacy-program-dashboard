@@ -433,21 +433,26 @@ h1.node-h1 { font-size: var(--fs-h1); font-weight: 600; letter-spacing: -0.01em;
 }
 .foia .rq { color: var(--amber); white-space: nowrap; }
 
-.conns { border: 1px solid var(--line); }
-.conns .conn {
-  display: grid;
-  grid-template-columns: 10px minmax(0, 1fr) auto;
-  gap: 8px;
-  align-items: baseline;
-  padding: 4px 10px;
-  border-bottom: 1px solid var(--bg2);
-  color: var(--text);
-}
-.conns .conn:hover { background: var(--panel2); text-decoration: none; }
-.conns .conn .cmeta { color: var(--dim); white-space: nowrap; }
-.conns .conn .cmeta .ctype { color: var(--faint); }
-.conns .conn.denial { border-left: 2px solid var(--red); padding-left: 8px; }
-.conns .conn.denial .cmeta .ctype { color: var(--red); }
+/* Grouped connections (redesign phase 1). One row per counterpart per
+   relationship; the sentence is the row's text, not its tooltip. */
+.conn-layer { margin: 14px 0 6px; }
+.conn-group { border: 1px solid var(--line); margin-bottom: 10px; }
+.conn-ghead { padding: 6px 10px; background: var(--panel2); }
+.conn-ghead .faint { margin-top: 2px; }
+.conn-group .conn { display: block; padding: 6px 10px; border-top: 1px solid var(--line); color: var(--text); }
+.conn-group .conn.denial { border-left: 2px solid var(--red); padding-left: 8px; }
+.conn-group .conn-head { display: grid; grid-template-columns: 10px minmax(0, 1fr); gap: 8px; align-items: center; }
+.conn-group .conn-line { display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 10px; margin: 3px 0 0 18px; }
+.conn-group .conn-line .cmeta { color: var(--dim); white-space: nowrap; }
+.conn-group .conn-src { margin: 3px 0 0 18px; }
+.conn-group .conn-src summary { color: var(--faint); cursor: pointer; }
+.conn-group .conn-src a, .conn-group .conn-src span { display: block; margin-left: 12px; overflow-wrap: anywhere; }
+
+/* The rest of what a researcher wrote on the record. */
+.affs .aff { padding: 2px 0; }
+.nsrcs { margin-top: 14px; }
+.nsrcs summary { cursor: pointer; }
+.nsrcs .nsrc { display: block; margin: 2px 0 0 12px; overflow-wrap: anywhere; }
 
 .notice { border: 1px solid var(--line2); background: var(--panel); padding: 14px 16px; max-width: 78ch; }
 .notice h2 { font-size: var(--fs-body); margin-bottom: 8px; }
@@ -485,7 +490,7 @@ h1.node-h1 { font-size: var(--fs-h1); font-weight: 600; letter-spacing: -0.01em;
 .report .rtier.n2 { color: #8a6413; }
 .report .rtier.n3 { color: var(--paper-dim); }
 .report .rdenial { border-left: 2px solid #a8392f; padding-left: 10px; margin-bottom: 8px; }
-.report .rconns { columns: 3; column-gap: 26px; }
+.report .rconns { columns: 2; column-gap: 26px; }
 .report .rconns div { break-inside: avoid; margin-bottom: 4px; }
 .report .rconns .cm { color: var(--paper-dim); }
 .report sup { font-size: 9px; vertical-align: super; color: #1c4f66; }
@@ -523,4 +528,15 @@ h1.node-h1 { font-size: var(--fs-h1); font-weight: 600; letter-spacing: -0.01em;
   .node { grid-template-columns: minmax(0, 1fr) 520px 460px; }
   .node-third { display: block; }
   .node-third-hide { display: none; }
+}
+
+/* Phones (redesign phase 1): one column; the bar scrolls inside itself. */
+@media (max-width: 760px) {
+  .bar { overflow-x: auto; gap: 8px; }
+  .bar-right { display: none; }
+  .node { grid-template-columns: minmax(0, 1fr); }
+  .node .twocol { grid-template-columns: minmax(0, 1fr); }
+  .conn-group .conn-line { grid-template-columns: minmax(0, 1fr); }
+  .conn-group .conn-line .cmeta { white-space: normal; }
+  .report .rconns { columns: 1; }
 }

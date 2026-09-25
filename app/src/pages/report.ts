@@ -11,6 +11,8 @@ import {
   type NodeRecord, type Source,
 } from '../data';
 import { notFound } from './notfound';
+import { groupConnections } from './connections';
+import { edgeTypeName, NO_SENTENCE } from '../vocab';
 
 export async function renderNodeReport(view: HTMLElement, id: string): Promise<void> {
   clear(view);
@@ -79,17 +81,22 @@ export async function renderNodeReport(view: HTMLElement, id: string): Promise<v
 
   if (rec.connections.length) {
     paper.append(h('h2', null, 'Sourced connections (' + rec.connections.length + ')'));
-    const cols = h('div', { class: 'rconns' });
-    const ordered = [...rec.connections.filter((c) => c.l0), ...rec.connections.filter((c) => !c.l0)];
-    for (const c of ordered) {
-      cols.append(h('div', null,
-        /* the id is a route, so the brief is navigable and C1 has something to
-           check on this page; it still prints as its own label on paper */
-        h('a', { href: '#/n/' + c.id }, c.label), ' ',
-        h('span', { class: 'cm' }, '· ' + (c.l0 ? c.type : 'member') + ' · T' + (c.claimTier ?? '?')),
-      ));
+    for (const g of groupConnections(rec.connections)) {
+      paper.append(h('h3', null, edgeTypeName(g.type).label + ' (' + g.rows.length + ')'));
+      const cols = h('div', { class: 'rconns' });
+      for (const r of g.rows) {
+        for (const l of r.links) {
+          cols.append(h('div', { class: 'rconn', 'data-id': r.id, 'data-type': g.type },
+            /* the id is a route, so the brief is navigable and C1 has something to
+               check on this page; it still prints as its own label on paper */
+            h('a', { href: '#/n/' + r.id }, r.label), ': ',
+            h('span', { class: 'rsent' }, l.edgeLabel || l.note || NO_SENTENCE),
+            h('span', { class: 'cm' }, ' · T' + (l.claimTier ?? '?')),
+          ));
+        }
+      }
+      paper.append(cols);
     }
-    paper.append(cols);
   }
 
   const cl = h('div', { class: 'rcites' });

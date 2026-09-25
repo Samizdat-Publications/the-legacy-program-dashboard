@@ -1,9 +1,11 @@
-/* Node page — Design response section 1.3.
+/* Node page: Design response section 1.3, and redesign phase 1.
  *
- * Header, the three axes as 3-cell bars, the roles, the three actions, the
- * narrative, the claims grouped by tier each with its source as a link, the
- * denials, the timeline slice, the FOIA block, and the right column of sourced
- * connections with on-map neighbours first.
+ * Header, the three axes as 3-cell bars, the roles, the three actions, what it
+ * is and why it matters, the case against (conflicts, unverified notes, denial
+ * posture), the claims grouped by tier each with its source as a link, the
+ * denials, the timeline slice, every open question, the chronology, the
+ * affiliations, the node's own sources, and the right column of sourced
+ * connections grouped by relationship, each with its own sentence.
  *
  * Nothing on this page is written here. Every string comes from the node record.
  */
@@ -11,9 +13,10 @@ import { h, clear, mark } from '../dom';
 import { setTitle } from '../router';
 import {
   loadIndex, loadNode, clsColour, dateRange, claimSource, asList,
-  type NodeRecord, type IndexNode, type Connection,
+  type NodeRecord, type IndexNode,
 } from '../data';
 import { notFound } from './notfound';
+import { groupConnections, renderConnGroups } from './connections';
 
 const AXES: [keyof Pick<NodeRecord, 'C' | 'A' | 'D'>, string][] = [
   ['C', 'custody proximity'],
@@ -47,10 +50,6 @@ export async function renderNode(view: HTMLElement, id: string): Promise<void> {
   /* ---- header ----------------------------------------------------------- */
   const crumbL = h('div', { class: 'crumb-l' },
     h('span', { style: 'color:' + clsColour(rec.cls), 'class': 'eyebrow' }, rec.cls),
-    h('span', { class: 'sep' }, '·'),
-    h('span', { class: 'eyebrow dim' }, 'Tier ' + (rec.tier || '?')),
-    h('span', { class: 'sep' }, '·'),
-    h('span', { class: 'dim' }, 'cluster ' + (rec.cluster || 'none')),
     h('span', { class: 'sep' }, '·'),
     h('span', { class: 'dim' }, dateRange(rec.dateStart, rec.dateEnd)),
   );
@@ -90,20 +89,28 @@ export async function renderNode(view: HTMLElement, id: string): Promise<void> {
       (rec.members ? ' · ' + rec.members.length + ' members' : '')),
   ));
 
-  /* ---- why it is on the map --------------------------------------------- */
+  /* ---- about: what it is, why it matters, and the case against ----------- */
+  /* tierRationale is machine-generated and explains the tier letter this page no
+     longer prints; it stays in the data for the analyst. */
+  const what = rec.dossier && rec.dossier.whatItIs;
   const why = (rec.dossier && (rec.dossier.whyImplicated || rec.dossier.narrative)) || rec.desc || rec.narrative || '';
-  if (why) {
-    main.append(h('div', { class: 'sec eyebrow' }, 'Why it is on the map'));
-    main.append(h('div', { class: 'narrative' }, h('p', null, why)));
-  }
-  const rationale = rec.tierRationale;
-  if (rationale) {
-    main.append(h('div', { class: 'narrative dim', style: 'margin-top:8px' },
-      h('p', null, 'Tier rationale: ' + rationale)));
+  if (what || why) {
+    main.append(h('div', { class: 'sec eyebrow' }, 'About'));
+    if (what) main.append(h('div', { class: 'narrative' }, h('p', null, what)));
+    if (why) main.append(h('div', { class: 'narrative' }, h('p', null, why)));
   }
   for (const c of asList(rec.conflicts)) {
     main.append(h('div', { class: 'narrative', style: 'margin-top:8px' },
       h('p', null, h('span', { class: 'red eyebrow' }, 'Conflict on the record '), c)));
+  }
+  for (const u of asList(rec.unverified)) {
+    main.append(h('div', { class: 'narrative unv', style: 'margin-top:8px' },
+      h('p', null, h('span', { class: 'amber eyebrow' }, 'Not verified '), u)));
+  }
+  const posture = rec.dossier && rec.dossier.denialPosture;
+  if (posture) {
+    main.append(h('div', { class: 'narrative dim', style: 'margin-top:8px' },
+      h('p', null, h('span', { class: 'eyebrow' }, 'Denial posture '), posture)));
   }
 
   /* ---- claims, grouped by tier ------------------------------------------ */
@@ -197,59 +204,79 @@ export async function renderNode(view: HTMLElement, id: string): Promise<void> {
   extra.append(slice);
 
   const foia = h('div', null);
+  const openQ = (rec.dossier && rec.dossier.openQuestions) || [];
+  const reqs = rec.foia.requests || [];
   foia.append(h('div', { class: 'sec' },
     h('span', { class: 'eyebrow' }, 'Open questions'), ' ',
-    h('span', { class: 'sep dim' }, '· FOIA')));
-  /* foia.questions are indices into the dossier's own open questions */
-  const openQ = (rec.dossier && rec.dossier.openQuestions) || [];
-  const qs = rec.foia.questions || [];
-  const reqs = rec.foia.requests || [];
-  if (qs.length || reqs.length) {
+    h('span', { class: 'sep dim' }, '· ' + openQ.length +
+      (reqs.length ? ' · ' + reqs.length + ' FOIA request' + (reqs.length === 1 ? '' : 's') + ' drafted' : ''))));
+  if (openQ.length) {
+    /* a request's `questions` are indices into the dossier's own open questions */
     const fl = h('div', { class: 'foia' });
-    qs.forEach((qi) => {
+    openQ.forEach((text, qi) => {
       const closing = reqs.find((r) => (r.questions || []).includes(qi));
-      fl.append(h('div', { class: 'q' },
-        h('span', null, openQ[qi] || 'question ' + qi + ', text not on the record'),
-        h('span', { class: 'rq' }, closing ? closing.request : 'no request drafted'),
+      fl.append(h('div', { class: 'q oq' },
+        h('span', null, text),
+        h('span', { class: 'rq' }, closing ? closing.request + (closing.status ? ' · ' + closing.status : '') : 'no request drafted'),
       ));
     });
-    for (const r of reqs) {
-      fl.append(h('div', { class: 'q' },
-        h('span', { class: 'dim' }, (r.agency ? r.agency + ' — ' : '') + (r.title || '')),
-        h('span', { class: 'rq' }, r.request + (r.status ? ' · ' + r.status : '')),
-      ));
-    }
     foia.append(fl);
   } else {
     foia.append(h('div', { class: 'faint' }, 'no open question is recorded against this node'));
+  }
+  for (const r of reqs) {
+    foia.append(h('div', { class: 'q' },
+      h('span', { class: 'dim' }, (r.agency ? r.agency + ' - ' : '') + (r.title || '')),
+      h('span', { class: 'rq' }, r.request + (r.status ? ' · ' + r.status : '')),
+    ));
   }
   extra.append(foia);
 
   (window.innerWidth >= 2200 ? third : main).append(extra);
 
-  /* ---- right column: sourced connections -------------------------------- */
-  const onMap = rec.connections.filter((c) => c.l0);
-  const below = rec.connections.filter((c) => !c.l0);
+  /* ---- chronology, affiliations and the node's own sources --------------- */
+  const seen = new Set<string>();
+  const chron = [...(rec.chronology || []), ...(rec.sequenceChain || [])]
+    .filter((e) => {
+      const k = String(e.date) + '|' + String(e.event || '').trim().toLowerCase();
+      if (seen.has(k)) return false;
+      seen.add(k); return true;
+    })
+    .sort((a, b) => String(a.date).localeCompare(String(b.date)));
+  if (chron.length) {
+    main.append(h('div', { class: 'sec' }, h('span', { class: 'eyebrow' }, 'Chronology'), ' ',
+      h('span', { class: 'sep dim' }, '· ' + chron.length)));
+    const cl = h('div', { class: 'slice chron' });
+    for (const e of chron) {
+      cl.append(h('div', { class: 'ev' }, mark(clsColour(rec.cls)),
+        h('span', { class: 'yr' }, String(e.date).slice(0, 4)), h('span', { class: 'label' }, e.event)));
+    }
+    main.append(cl);
+  }
+  const affs = rec.affiliations || [];
+  if (affs.length) {
+    main.append(h('div', { class: 'sec' }, h('span', { class: 'eyebrow' }, 'Affiliations'), ' ',
+      h('span', { class: 'sep dim' }, '· ' + affs.length)));
+    const al = h('div', { class: 'affs' });
+    for (const a of affs) al.append(h('div', { class: 'aff' }, a));
+    main.append(al);
+  }
+  const nsrc = rec.sources || [];
+  if (nsrc.length) {
+    const d = h('details', { class: 'nsrcs' }, h('summary', { class: 'eyebrow' }, 'Sources on file · ' + nsrc.length));
+    for (const s of nsrc) {
+      const text = (s.name || s.url || '') + (s.date ? ' (' + s.date + ')' : '');
+      d.append(s.url ? h('a', { class: 'nsrc', href: s.url, target: '_blank', rel: 'noreferrer noopener' }, text)
+        : h('span', { class: 'nsrc' }, text));
+    }
+    main.append(d);
+  }
+
+  /* ---- right column: sourced connections, grouped by relationship -------- */
+  const groups = groupConnections(rec.connections);
+  const counterparts = new Set(rec.connections.map((c) => c.id)).size;
   side.append(h('div', { class: 'crumb', style: 'margin-bottom:6px' },
     h('span', { class: 'eyebrow' }, 'Sourced connections'),
-    h('span', { class: 'dim' },
-      rec.connections.length + ' · on the map ' + onMap.length + ' · below the floor ' + below.length),
-  ));
-  const conns = h('div', { class: 'conns' });
-  for (const c of [...onMap, ...below]) conns.append(connRow(c));
-  side.append(conns);
-}
-
-function connRow(c: Connection): HTMLElement {
-  const kind = c.l0 ? c.type : 'member';
-  return h('a', {
-    class: 'conn' + (c.type === 'denial' ? ' denial' : ''),
-    href: '#/n/' + c.id,
-    title: c.edgeLabel || c.note || '',
-  },
-    mark(clsColour(c.cls)),
-    h('span', { class: 'row-label' }, c.label),
-    h('span', { class: 'cmeta' },
-      h('span', { class: 'ctype' }, kind), ' · T' + (c.claimTier ?? '?')),
-  );
+    h('span', { class: 'dim' }, rec.connections.length + ' links · ' + counterparts + ' counterparts · ' + groups.length + ' kinds')));
+  side.append(renderConnGroups(groups));
 }
