@@ -2086,6 +2086,59 @@ def _dossier_caps(b):
     return bad[:40]
 
 
+UNPLACED = os.path.join(ROOT, "tools", "UNPLACED-CLAIMS.json")
+REMOVED_CLAIMS = os.path.join(ROOT, "tools", "REMOVED-CLAIMS.json")
+_UNPLACED_OVERRIDE = None
+
+
+@check("every authored claim reaches the board or is listed")
+def _claims_placed(b):
+    """Every claim written on any node id in research/, collapsed ids included,
+    is on the board under its id or its collapse survivor (by the one claim key),
+    or is named in a report that says why not: tools/UNPLACED-CLAIMS.json (an
+    approved deletion, or a collapse into a d-* domain node) or
+    tools/REMOVED-CLAIMS.json (a _corrections removeClaims rule). Until phase 3
+    a collapse deleted the loser's claims in silence: 37 of them."""
+    if _UNPLACED_OVERRIDE is not None:
+        unplaced = _UNPLACED_OVERRIDE
+    elif os.path.exists(UNPLACED):
+        with open(UNPLACED, encoding="utf-8") as fh:
+            unplaced = json.load(fh).get("claims") or []
+    else:
+        return ["tools/UNPLACED-CLAIMS.json is missing: run tools/build.py"]
+    removed = []
+    if os.path.exists(REMOVED_CLAIMS):
+        with open(REMOVED_CLAIMS, encoding="utf-8") as fh:
+            removed = json.load(fh)
+    listed = {(u["id"], _claim_key(u.get("claim"))) for u in unplaced}
+    rmp = os.path.join(RESEARCH_DIR, "_removed.json")
+    alias = (json.load(open(rmp, encoding="utf-8")).get("alias") or {}) if os.path.exists(rmp) else {}
+    have = {n["id"]: {_claim_key(c.get("text")) for c in n.get("claims") or []}
+            for n in b["people"] + b["entities"]}
+    bad = []
+    for slug, doc in _research_docs():
+        for n in (doc.get("people") or []) + (doc.get("entities") or []):
+            if not n.get("id"):
+                continue
+            i = canonical_id(n["id"])
+            to, hops = i, 0
+            while to not in have and to in alias and hops < 8:
+                to, hops = alias[to], hops + 1
+            for c in n.get("claims") or []:
+                t = (c.get("text") or c.get("claim")) if isinstance(c, dict) else None
+                if not t:
+                    continue          # a claim with no text is a merge reject
+                k = _claim_key(t)
+                if k in have.get(to, ()) or (i, k) in listed:
+                    continue
+                if any(r.get("id") == to and t.startswith(r.get("claim") or "\0")
+                       for r in removed):
+                    continue
+                bad.append(f"{slug}: {i}" + (f" (-> {to})" if to != i else "") +
+                           f": {t[:70]!r} is neither on the board nor listed")
+    return bad[:40]
+
+
 @check("no research record is silently dropped")
 def _no_rejects(b):
     """merge.py writes every record it could not place to tools/REJECTS.json with a
@@ -2310,7 +2363,20 @@ def self_test():
             if e["type"] == "denial" and {e["a"], e["b"]} == k:
                 e["denialKind"] = "directed"
 
+    def _drop_carried_claim(rb):
+        # the pre-fix state on one node: setka-program without setka's claims
+        for e in rb["entities"]:
+            if e["id"] == "setka-program":
+                e["claims"] = e["claims"][:7]
+
+    def _unlist_the_domain_collapse(rb):
+        # the report forgets the claims it could not place
+        global _UNPLACED_OVERRIDE
+        _UNPLACED_OVERRIDE = []
+
     poison_realboard = {
+        "every authored claim reaches the board or is listed":
+            [_drop_carried_claim, _unlist_the_domain_collapse],
         "every authored conflict, unverified note and open question on an entity reaches the board":
             [_drop_unverified, _drop_open_questions],
         "every denial edge without a verdict is in the unadjudicated report":
@@ -2685,8 +2751,12 @@ def self_test():
             caught = []
             for mutate in poison_realboard[name]:
                 pb = copy.deepcopy(_real_board)
-                mutate(pb)
-                got = fn(pb)
+                global _UNPLACED_OVERRIDE
+                try:
+                    mutate(pb)
+                    got = fn(pb)
+                finally:
+                    _UNPLACED_OVERRIDE = None     # a poison may set a report override
                 if not got:
                     caught = []
                     print(f"  FAIL  {name} accepted its poison {mutate.__name__}")

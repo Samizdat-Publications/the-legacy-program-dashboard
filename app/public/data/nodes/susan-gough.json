@@ -68,8 +68,18 @@
 "precision": "day"
 },
 {
+"date": "2024-11-13",
+"event": "Department says it has no record of Immaculate Constellation",
+"precision": "month"
+},
+{
 "date": "2025-06-06",
 "event": "Confirms to the Wall Street Journal that Yankee Blue findings will appear in Volume II of the Historical Record Report",
+"precision": "day"
+},
+{
+"date": "2026-02-25",
+"event": "Discloses that ~1,000 of AARO's 2,000+ cases lack sufficient data and sit in the Active Archive",
 "precision": "day"
 }
 ],
@@ -817,6 +827,7 @@
 "aawsap-aatip",
 "elizondo-ttsa",
 "grusch",
+"releases-2023-2026",
 "uaptf-aaro"
 ],
 "sources": [
@@ -899,7 +910,7 @@
 "status": "former",
 "sub": "DoD spokesperson for UAP matters, Office of the Assistant to the Secretary of Defense for Public Affairs",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 27 of 1170, score 96). 15 connections, 0 of them custody/funding/programmatic, 9 official denials recorded against it. Axes C0/A1/D1.",
+"tierRationale": "Re-graded A on a global pass (rank 28 of 1170, score 96). 15 connections, 0 of them custody/funding/programmatic, 9 official denials recorded against it. Axes C0/A1/D1.",
 "timeline": [
 {
 "claimTier": null,

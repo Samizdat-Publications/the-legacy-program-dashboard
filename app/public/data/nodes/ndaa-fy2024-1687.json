@@ -502,9 +502,12 @@
 "openQuestions": [],
 "short": "FY2024 NDAA sec. 1687",
 "sourceFiles": [
+"_rs-archive-mirror",
 "_rs-legislation",
 "_rs-sap-docs",
+"primes-custody",
 "w12-duplicate-collapse",
+"w2-black-budget",
 "w2-sap-architecture"
 ],
 "sources": [
@@ -526,7 +529,7 @@
 ],
 "sub": "statute",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 40 of 1170, score 88). 12 connections, 4 of them custody/funding/programmatic. Axes C1/A3/D3.",
+"tierRationale": "Re-graded A on a global pass (rank 41 of 1170, score 88). 12 connections, 4 of them custody/funding/programmatic. Axes C1/A3/D3.",
 "timeline": [
 {
 "claimTier": null,

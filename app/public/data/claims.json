@@ -20872,6 +20872,21 @@
 "node": "dird-advanced-space-propulsion-based-on-vacuum",
 "open": false,
 "source": {
+"domain": null,
+"text": "DIA FOIA Electronic Reading Room AATIP index; DIA letter to FAS, 16 January 2019",
+"url": null
+},
+"text": "'Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering', authored by Harold E. Puthoff, is among the 38 AAWSAP reference products listed by DIA and is hosted in the DIA FOIA Electronic Reading Room.",
+"tier": 1
+},
+{
+"cls": "document",
+"cluster": "other",
+"denied": false,
+"label": "Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering",
+"node": "dird-advanced-space-propulsion-based-on-vacuum",
+"open": false,
+"source": {
 "domain": "www.dia.mil",
 "text": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237647/",
 "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237647/"
@@ -23677,6 +23692,21 @@
 "node": "dird-series",
 "open": true,
 "source": {
+"domain": null,
+"text": "DIA memo U-429-09-DWO-IM, 30 October 2009",
+"url": null
+},
+"text": "DIA's internal review found 'all of the reviews were positive, some exceptionally so' across the 26 FY09 reports, with five outside reviews including three by Sandia National Laboratories staff.",
+"tier": 1
+},
+{
+"cls": "document",
+"cluster": "other",
+"denied": false,
+"label": "The 38 Defense Intelligence Reference Documents (DIRDs)",
+"node": "dird-series",
+"open": true,
+"source": {
 "domain": "www.dia.mil",
 "text": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237617/",
 "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237617/"
@@ -23752,11 +23782,41 @@
 "node": "dird-series",
 "open": true,
 "source": {
+"domain": null,
+"text": "DIA letter to Senators John McCain and Jack Reed, Senate Armed Services Committee, 9 January 2018, signed Brian L. Jenkins, Chief, Records Management and Information Services",
+"url": null
+},
+"text": "The full DIA-transmitted list of 38 products with authors: 1. Inertial Electrostatic Confinement Fusion (Dr. George Miley, University of Illinois); 2. Advanced Nuclear Propulsion for Manned Deep Space Missions (Dr. F. Winterberg, University of Nevada-Reno); 3. Pulsed High-Power Microwave Technology (Dr. James Wells, JW Enterprises); 4. Space Access (Dr. P. Czysz, HyperTech); 5. Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering (Dr. Hal Puthoff, EarthTech International); 6. BioSensors and BioMEMS (Dr. Bruce Towe, University of Arizona); 7. Invisibility Cloaking (Dr. Ulf Leonhardt, University of St Andrews); 8. Traversable Wormholes, Stargates, and Negative Energy (Dr. Eric Davis, EarthTech International); 9. High-Frequency Gravitational Wave Communications (Dr. Robert Baker, GravWave); 10. Role of Superconductors in Gravity Research (Dr. George Hathaway, Hathaway Consulting); 11. Antigravity for Aerospace Applications (Dr. Eric Davis, EarthTech International); 12. Field Effects on Biological Tissues (Dr. Kit Green, Wayne State University); 13. Positron Aerospace Propulsion (Dr. Gerald Smith, Positronics Research); 14. Concepts for Extracting Energy from the Quantum Vacuum (Dr. Eric Davis, EarthTech International); 15. An Introduction to the Statistical Drake Equation (Dr. Claudio Maccone, International Academy of Astronautics); 16. Maverick Inventor Versus Corporate Inventor (Dr. George Hathaway, Hathaway Consulting); 17. Biomaterials (Dr. Bruce Towe, University of Arizona); 18. Metamaterials for Aerospace Applications (Dr. G. Shvets, University of Texas-Austin); 19. Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions (Dr. R. Obousy, Obousy Consultants); 20. Technological Approaches to Controlling External Devices in the Absence of Limb-Operated Interfaces (Dr. R. Genik, Wayne State University); 21. Materials for Advanced Aerospace Platforms (Dr. J. Williams, Ohio State University); 22. Metallic Glasses (Dr. T. Hufnagel, Johns Hopkins University); 23. Aerospace Applications of Programmable Matter (Dr. W. McCarthy, Programmable Matter Corporation); 24. Metallic Spintronics (Dr. M. Tsoi, University of Texas-Austin); 25. Space-Communication Implications of Quantum Entanglement and Nonlocality (Dr. J. Cramer, University of Washington); 26. Aneutronic Fusion Propulsion I (Dr. V. Teofilo, Lockheed Martin); 27. Cockpits in the Era of Breakthrough Flight (Dr. G. Millis, Tau Zero); 28. Cognitive Limits on Simultaneous Control of Multiple Unmanned Spacecraft (Dr. R. Genik, Wayne State University); 29. Detection and High Resolution Tracking of Vehicles at Hypersonic Velocities (Dr. W. Culbreth, University of Nevada-Las Vegas); 30. Aneutronic Fusion Propulsion II (Dr. W. Culbreth, University of Nevada-Las Vegas); 31. Laser Lightcraft Nanosatellites (Dr. E. Davis, EarthTech); 32. Magnetohydrodynamics (MHD) Air Breathing Propulsion and Power for Aerospace Applications (Dr. S. Macheret, Lockheed Martin); 33. Quantum Computing and Utilizing Organic Molecules in Automation Technology (Dr. R. Genik, Wayne State University); 34. Quantum Tomography of Negative Energy States in the Vacuum (Dr. Eric Davis, EarthTech); 35. Ultracapacitors as Energy and Power Storage Devices (Dr. J. Golightly, Lockheed Martin); 36. Negative Mass Propulsion (Dr. F. Winterberg, University of Nevada-Reno); 37. State of the Art and Evolution of High Energy Laser Weapons (J. Albertine, Directed Technologies) — SECRET/NOFORN; 38. State of the Art and Evolution of High Energy Laser Weapons (J. Albertine, Directed Technologies) — UNCLASSIFIED//FOUO.",
+"tier": 1
+},
+{
+"cls": "document",
+"cluster": "other",
+"denied": false,
+"label": "The 38 Defense Intelligence Reference Documents (DIRDs)",
+"node": "dird-series",
+"open": true,
+"source": {
 "domain": "documents2.theblackvault.com",
 "text": "Defense Intelligence Reference Document DIA-08-1003-018, 'Antigravity for Aerospace Applications', 30 March 2010, ICOD 1 December 2009, 45 pages as released, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_19-DIRD_Antigravity_for_Aerospace_Applications.pdf , opened 2026-09-19",
 "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_19-DIRD_Antigravity_for_Aerospace_Applications.pdf"
 },
 "text": "The same survey's own conclusion on what antigravity would require, verbatim: 'Mechanical embodiments that produce antigravity forces require kilometer-sized apparatus, astronomical-sized masses and densities, or extreme mass velocities and accelerations.' And: 'Negative energy has been produced in the lab in very small quantities. The technologies used for producing negative energy are nascent, and so it will be some time before it can be ascertained whether they are capable of producing the astronomical amounts of negative energy required to generate significant antigravity forces.'",
+"tier": 1
+},
+{
+"cls": "document",
+"cluster": "other",
+"denied": false,
+"label": "The 38 Defense Intelligence Reference Documents (DIRDs)",
+"node": "dird-series",
+"open": true,
+"source": {
+"domain": null,
+"text": "The Black Vault AAWSAP DIRD archive, 2018-2022",
+"url": null
+},
+"text": "Thirty-seven of the 38 DIRDs have been released in full and are publicly downloadable; the SECRET/NOFORN version of the high-energy laser weapons paper has not been released.",
 "tier": 1
 },
 {
@@ -23773,6 +23833,21 @@
 },
 "text": "WHAT THE ZERO-COUNTS ARE AND ARE NOT EVIDENCE FOR, stated so no later session overstates them. THEY ARE EVIDENCE that the United States government's own commissioned survey of antigravity for aerospace applications, written under the same programme this board maps, is a review of gravitomagnetic forces, Forward's dipole generator, Felber's effect, negative energy, dark energy, the cosmological constant and quantum vacuum zero-point fluctuation force, and that it never reaches for the figure the electrogravitics literature treats as its origin. THEY ARE NOT EVIDENCE that DIA considered Brown and rejected him: the document shows no sign of having considered him at all, and an absence is not an adjudication. THEY ARE NOT EVIDENCE that Brown's work was suppressed, hidden or classified; nothing opened supports that and nothing here asserts it.",
 "tier": 1
+},
+{
+"cls": "document",
+"cluster": "other",
+"denied": false,
+"label": "The 38 Defense Intelligence Reference Documents (DIRDs)",
+"node": "dird-series",
+"open": true,
+"source": {
+"domain": null,
+"text": "The War Zone analysis of the DIRD list, 18 January 2019, citing the JASON HFGW report",
+"url": null
+},
+"text": "The JASON advisory group's 2008 assessment of Robert Baker's high-frequency gravitational wave concept concluded 'the proposed applications of the science of HFGW are fundamentally wrong', a critique published before DIA accepted the DIRD on the same subject.",
+"tier": 2
 },
 {
 "cls": "document",
@@ -23802,6 +23877,21 @@
 "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237617/"
 },
 "text": "That two surnames survive the redaction pass in U-429-09 while every cover page is scrubbed indicates redaction was applied by template rather than by review, and that DIA's own reviewers wrote about these authors by name in internal correspondence. Author identities are therefore recoverable from the released corpus itself, not only from leaks.",
+"tier": 3
+},
+{
+"cls": "document",
+"cluster": "other",
+"denied": false,
+"label": "The 38 Defense Intelligence Reference Documents (DIRDs)",
+"node": "dird-series",
+"open": true,
+"source": {
+"domain": null,
+"text": "Inference from the composition of the deliverable list against the stated foreign-threat purpose",
+"url": null
+},
+"text": "The subject distribution — six papers on vacuum energy, antigravity, warp drive, wormholes and negative mass, plus three on human biological and cognitive effects — indicates the requirement was written by someone already working a specific set of observed characteristics rather than surveying foreign capability broadly.",
 "tier": 3
 },
 {
@@ -26407,11 +26497,131 @@
 "node": "dod-sapco",
 "open": true,
 "source": {
+"domain": "web.archive.org",
+"text": "https://web.archive.org/web/20220322050205/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf",
+"url": "https://web.archive.org/web/20220322050205/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf"
+},
+"text": "DoDD 5205.07 (2010) Enclosure 3, Note 2: 'The Director, DoD SAPCO, has AAA [access approval authority] for all SAPs unless expressly withheld by the Secretary or Deputy Secretary of Defense.' Note 4: the Director 'shall coordinate on PARs for the White House, National Security Council, and political appointees of the Executive Branch.' Note 3: the Director coordinates PARs 'for judicial and other Federal agency personnel for waived programs.'",
+"tier": 1
+},
+{
+"cls": "institution",
+"cluster": "legacy",
+"denied": false,
+"label": "DoD Special Access Program Central Office (DoD SAPCO)",
+"node": "dod-sapco",
+"open": true,
+"source": {
+"domain": "web.archive.org",
+"text": "https://web.archive.org/web/20220322050205/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf",
+"url": "https://web.archive.org/web/20220322050205/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf"
+},
+"text": "DoDD 5205.07 (2010) para 4.c: 'The DoD SAP Central Office (SAPCO), under the authority, direction, and control of the Deputy Secretary of Defense, is established and is the primary DoD liaison with agencies of the Executive Branch and the Congress on all issues relating to DoD SAPs ... The Director, DoD SAPCO, shall be a flag officer or Senior Executive Service equivalent appointed by the Deputy Secretary of Defense.'",
+"tier": 1
+},
+{
+"cls": "institution",
+"cluster": "legacy",
+"denied": false,
+"label": "DoD Special Access Program Central Office (DoD SAPCO)",
+"node": "dod-sapco",
+"open": true,
+"source": {
+"domain": null,
+"text": "DoDD 5205.07 (2010), para 4.c",
+"url": null
+},
+"text": "DoDD 5205.07 (2010) para 4.c: DoD SAPCO 'under the authority, direction, and control of the Deputy Secretary of Defense, is established and is the primary DoD liaison with agencies of the Executive Branch and the Congress on all issues relating to DoD SAPs ... The Director, DoD SAPCO, shall be a flag officer or Senior Executive Service equivalent appointed by the Deputy Secretary of Defense.'",
+"tier": 1
+},
+{
+"cls": "institution",
+"cluster": "legacy",
+"denied": false,
+"label": "DoD Special Access Program Central Office (DoD SAPCO)",
+"node": "dod-sapco",
+"open": true,
+"source": {
+"domain": null,
+"text": "DoDD 5205.07 (2024), Director DoD SAPCO responsibilities",
+"url": null
+},
+"text": "DoDD 5205.07 (2024) makes the Director, DoD SAPCO Executive Secretary of the SAPOC and the SRG and Chair of the SSWG, reporting directly to the Deputy Secretary of Defense.",
+"tier": 1
+},
+{
+"cls": "institution",
+"cluster": "legacy",
+"denied": false,
+"label": "DoD Special Access Program Central Office (DoD SAPCO)",
+"node": "dod-sapco",
+"open": true,
+"source": {
+"domain": "www.esd.whs.mil",
+"text": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf",
+"url": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf"
+},
+"text": "DoDD 5205.07 (2024) restates it: the Director, DoD SAPCO, 'under the authority, direction, and control of the Deputy Secretary of Defense, will be a general officer, flag officer, or Senior Executive Service member or equivalent appointed to oversee day-to-day management of the SAP Enterprise,' serves as proponent for SAP policy, as Executive Secretary of the SAPOC and SRG, as Chair of the SSWG, and as 'primary point of contact for congressional matters', and 'Maintains records of DoD SAP information provided to Congress.'",
+"tier": 1
+},
+{
+"cls": "institution",
+"cluster": "legacy",
+"denied": false,
+"label": "DoD Special Access Program Central Office (DoD SAPCO)",
+"node": "dod-sapco",
+"open": true,
+"source": {
 "domain": null,
 "text": "DoD Directive 5205.07, 12 September 2024",
 "url": null
 },
 "text": "DoDD 5205.07 requires personnel to notify the Director, DoD SAPCO and the OA SAPCO directors when briefing Congress or congressional staff with SAP material, and bars contractors from providing such material without specific approval.",
+"tier": 1
+},
+{
+"cls": "institution",
+"cluster": "legacy",
+"denied": false,
+"label": "DoD Special Access Program Central Office (DoD SAPCO)",
+"node": "dod-sapco",
+"open": true,
+"source": {
+"domain": null,
+"text": "DoDI 5205.11, Enclosure 2, para 2.k",
+"url": null
+},
+"text": "DoDI 5205.11 Enclosure 2 para 2.k: DoD SAPCO 'Establishes policies and applicable procedures to satisfy reporting requirements for DSS carve-outs, CFIUS, and treaty matters. Provides DSS confirmation of SAP facilities where the DSS has been carved out of security oversight functions.'",
+"tier": 1
+},
+{
+"cls": "institution",
+"cluster": "legacy",
+"denied": false,
+"label": "DoD Special Access Program Central Office (DoD SAPCO)",
+"node": "dod-sapco",
+"open": true,
+"source": {
+"domain": "web.archive.org",
+"text": "https://web.archive.org/web/20191018064106/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol1.pdf",
+"url": "https://web.archive.org/web/20191018064106/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol1.pdf"
+},
+"text": "DoDM 5205.07 Vol 1, Enclosure 2, para 3.b: the Director, DoD SAPCO 'Functions as the DoD single point of Congressional liaison concerning SAPs.'",
+"tier": 1
+},
+{
+"cls": "institution",
+"cluster": "legacy",
+"denied": false,
+"label": "DoD Special Access Program Central Office (DoD SAPCO)",
+"node": "dod-sapco",
+"open": true,
+"source": {
+"domain": null,
+"text": "DoDM 5205.07 Volume 1, Enclosure 2, para 3.b",
+"url": null
+},
+"text": "DoDM 5205.07-V1 Enclosure 2 para 3.b: the Director, DoD SAPCO 'Functions as the DoD single point of Congressional liaison concerning SAPs.'",
 "tier": 1
 },
 {
@@ -26442,6 +26652,36 @@
 "url": null
 },
 "text": "AARO's assurance of 'full access to all pertinent sensitive USG programs' is unfalsifiable as written, because the determination of which programs are 'pertinent' was made by the same SAPCO enterprise that would be the custodian of any concealed program. Reasoning: the reviewer's scope was set by the reviewed.",
+"tier": 3
+},
+{
+"cls": "institution",
+"cluster": "legacy",
+"denied": false,
+"label": "DoD Special Access Program Central Office (DoD SAPCO)",
+"node": "dod-sapco",
+"open": true,
+"source": {
+"domain": null,
+"text": "DoDI 5205.11 Enclosure 2; DoDD 5205.07 (2010) paras 4.c and 4.e",
+"url": null
+},
+"text": "DoD SAPCO is simultaneously the office that (a) writes the criteria for reviewing waived programs, (b) confirms which contractor facilities are carved out of DCSA oversight, (c) is the single point of congressional liaison, and (d) must approve any contractor's provision of SAP material to a member of Congress. Those four functions in one office, reporting to the official who signs the waivers, is the structural definition of a closed loop. Reasoning: enumeration of the four responsibilities from DoDI 5205.11 and DoDD 5205.07.",
+"tier": 3
+},
+{
+"cls": "institution",
+"cluster": "legacy",
+"denied": false,
+"label": "DoD Special Access Program Central Office (DoD SAPCO)",
+"node": "dod-sapco",
+"open": true,
+"source": {
+"domain": "web.archive.org",
+"text": "https://web.archive.org/web/20220322050205/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf",
+"url": "https://web.archive.org/web/20220322050205/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf"
+},
+"text": "One office holds: single-point congressional liaison, custody of the record of what was told to Congress, access-approval authority for all SAPs, and the coordination point for White House, NSC, judicial and political-appointee access to waived programs. Every external route into a waived DoD SAP -- legislative, executive and judicial -- transits the same desk, which reports to the Deputy Secretary of Defense and to no one outside the Department. Reasoning stated from DoDD 5205.07 (2010) paras 4.c, 4.e and Enclosure 3 Notes 2-4.",
 "tier": 3
 },
 {
@@ -32603,6 +32843,21 @@
 "open": false,
 "source": {
 "domain": null,
+"text": "Brazilian Army inquiry, 2010 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"url": null
+},
+"text": "A 2010 Brazilian military inquiry concluded the women had encountered Luiz Antonio de Paula, known as 'Mudinho', with the commander of the 24th Military Police Battalion supplying photographs and stating his physical characteristics matched the description.",
+"tier": 2
+},
+{
+"cls": "event",
+"cluster": "legacy",
+"denied": false,
+"label": "Varginha incident, Minas Gerais, January 1996",
+"node": "ev-varginha-1996",
+"open": false,
+"source": {
+"domain": null,
 "text": "The Debrief, 30 January 2026",
 "url": null
 },
@@ -32652,6 +32907,36 @@
 "url": null
 },
 "text": "The 2010 Brazilian military inquiry concluded that 'this citizen, probably being dirty, due to the heavy rains and seen crouching by a wall, was mistaken by the three terrified girls as a space creature', and that the movements of Fire Brigade, Army and EsSA vehicles 'were real facts ... incorrectly interpreted'.",
+"tier": 2
+},
+{
+"cls": "event",
+"cluster": "legacy",
+"denied": false,
+"label": "Varginha incident, Minas Gerais, January 1996",
+"node": "ev-varginha-1996",
+"open": false,
+"source": {
+"domain": null,
+"text": "Brazilian Army inquiry, 2010, quoted findings — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"url": null
+},
+"text": "The inquiry concluded that the presence of firefighters in Jardim Andere, the parking of Army trucks near a dealership for periodic maintenance and the departure of Escola de Sargentos das Armas vehicles were real events incorrectly interpreted as participation in a capture and transport.",
+"tier": 2
+},
+{
+"cls": "event",
+"cluster": "legacy",
+"denied": false,
+"label": "Varginha incident, Minas Gerais, January 1996",
+"node": "ev-varginha-1996",
+"open": false,
+"source": {
+"domain": null,
+"text": "Contemporary Brazilian media reports and the witnesses' accounts",
+"url": null
+},
+"text": "Three women aged 14 to 22 reported seeing an unknown large-headed biped with vein-like skin markings, three bumps on the head and red eyes near Rua Dr. Benevenuto Braz Vieira at about 3:30 p.m. on 20 January 1996.",
 "tier": 2
 },
 {
@@ -77767,6 +78052,21 @@
 "node": "setka-program",
 "open": false,
 "source": {
+"domain": "www.debunker.com",
+"text": "Platov and Sokolov (2000) - http://www.debunker.com/historical/HistoryRussianUFOlogy.html — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"url": "http://www.debunker.com/historical/HistoryRussianUFOlogy.html"
+},
+"text": "'During the work on the program (for 13 years) about three thousand of messages reporting about extraordinary phenomena have been obtained ... on the whole, more than 400 events were registered and identified as extraordinary or paranormal.' Over 90% were resolved as rocket-launch effects or high-altitude balloons, the balloon class accounting for 10-12% of messages. The Petrozavodsk phenomenon itself was attributed to 'the launch of an artificial Earth satellite \"Kosmos 955\" from the space range in Plesetsk'. Reports 'did not practically come' from units at or near test ranges, where such effects were familiar.",
+"tier": 2
+},
+{
+"cls": "program",
+"cluster": "ic",
+"denied": false,
+"label": "SETKA-AN / SETKA-MO (later Galaktika, then Gorizont) - Soviet state anomalous phenomena programme",
+"node": "setka-program",
+"open": false,
+"source": {
 "domain": null,
 "text": "Stonehill and Mantle",
 "url": null
@@ -77812,6 +78112,81 @@
 "node": "setka-program",
 "open": false,
 "source": {
+"domain": "www.debunker.com",
+"text": "Platov and Sokolov (2000) - http://www.debunker.com/historical/HistoryRussianUFOlogy.html — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"url": "http://www.debunker.com/historical/HistoryRussianUFOlogy.html"
+},
+"text": "'The budget financing of the research program included the salary of the experts occupied in these activities and the costs of business trips. All the money was coming from the budget of organisations - executors and there was no special financing of the research.' The programme was 'the most inexpensive one, if not the cheapest, among the scientific works on defensive subjects'.",
+"tier": 2
+},
+{
+"cls": "program",
+"cluster": "ic",
+"denied": false,
+"label": "SETKA-AN / SETKA-MO (later Galaktika, then Gorizont) - Soviet state anomalous phenomena programme",
+"node": "setka-program",
+"open": false,
+"source": {
+"domain": "www.debunker.com",
+"text": "Platov and Sokolov (2000) - http://www.debunker.com/historical/HistoryRussianUFOlogy.html — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"url": "http://www.debunker.com/historical/HistoryRussianUFOlogy.html"
+},
+"text": "'Thus, in 1978 in the USSR the state program of studying the \"UFO\" phenomenon started, and proceeded without interruption for 13 years down to 1990.' Five-year defence research plans including the anomalous-phenomena work were approved again in 1981 and 1986.",
+"tier": 2
+},
+{
+"cls": "program",
+"cluster": "ic",
+"denied": false,
+"label": "SETKA-AN / SETKA-MO (later Galaktika, then Gorizont) - Soviet state anomalous phenomena programme",
+"node": "setka-program",
+"open": false,
+"source": {
+"domain": "www.debunker.com",
+"text": "Platov and Sokolov (2000) - http://www.debunker.com/historical/HistoryRussianUFOlogy.html — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"url": "http://www.debunker.com/historical/HistoryRussianUFOlogy.html"
+},
+"text": "A document authorised by the Chief of the General Staff in January 1980 reached the troops as a General Staff Directive; it designated the central research institute as the collection, processing and analysis centre, named responsible institutes in all five arms, set the order for obtaining launch data needed for identification, and fixed rules for documenting and reporting detections by urgency.",
+"tier": 2
+},
+{
+"cls": "program",
+"cluster": "ic",
+"denied": false,
+"label": "SETKA-AN / SETKA-MO (later Galaktika, then Gorizont) - Soviet state anomalous phenomena programme",
+"node": "setka-program",
+"open": false,
+"source": {
+"domain": "www.debunker.com",
+"text": "Platov and Sokolov (2000) - http://www.debunker.com/historical/HistoryRussianUFOlogy.html — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"url": "http://www.debunker.com/historical/HistoryRussianUFOlogy.html"
+},
+"text": "Academy of Sciences President Anatoly Aleksandrov wrote to L. Smirnov, Vice-President of the government and Chairman of the Military-Industrial Commission, requesting urgent consideration of a complex research programme on anomalous phenomena involving Ministry of Defence and war-industry organisations.",
+"tier": 2
+},
+{
+"cls": "program",
+"cluster": "ic",
+"denied": false,
+"label": "SETKA-AN / SETKA-MO (later Galaktika, then Gorizont) - Soviet state anomalous phenomena programme",
+"node": "setka-program",
+"open": false,
+"source": {
+"domain": "www.debunker.com",
+"text": "Platov and Sokolov (2000) - http://www.debunker.com/historical/HistoryRussianUFOlogy.html — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"url": "http://www.debunker.com/historical/HistoryRussianUFOlogy.html"
+},
+"text": "Across the whole programme there was no message about a UFO landing, no message about contact with UFO occupants, and no message about abductions. The authors state the conclusion as a fork: 'either the territory of the USSR was, due to any reasons, closed for alien visitations during, at least, 13 years or that the hypothesis of an extraterrestrial origin of \"UFO\" is inconsistent.'",
+"tier": 2
+},
+{
+"cls": "program",
+"cluster": "ic",
+"denied": false,
+"label": "SETKA-AN / SETKA-MO (later Galaktika, then Gorizont) - Soviet state anomalous phenomena programme",
+"node": "setka-program",
+"open": false,
+"source": {
 "domain": null,
 "text": "Stonehill and Mantle, 'Setka: A Secret Soviet UFO Research Program'",
 "url": null
@@ -77842,12 +78217,132 @@
 "node": "setka-program",
 "open": false,
 "source": {
+"domain": "www.debunker.com",
+"text": "Platov and Sokolov (2000) - http://www.debunker.com/historical/HistoryRussianUFOlogy.html — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"url": "http://www.debunker.com/historical/HistoryRussianUFOlogy.html"
+},
+"text": "The MIC Scientific and Technical Council met 'in October, 1977 in Kremlin under the presidency of general - lieutenant B.A.Kijasov'; members noted that reports of extraordinary phenomena also reached Ministry of Defence organisations from servicemen and that 'during such events sometimes were marked the cases of violation in the operation of the means of maintenance of the army forces'.",
+"tier": 2
+},
+{
+"cls": "program",
+"cluster": "ic",
+"denied": false,
+"label": "SETKA-AN / SETKA-MO (later Galaktika, then Gorizont) - Soviet state anomalous phenomena programme",
+"node": "setka-program",
+"open": false,
+"source": {
+"domain": "www.debunker.com",
+"text": "Yu. V. Platov and B. A. Sokolov, translated from Vestnik Rossiiskoi Akademii Nauk, Vol. 70, No. 6, 2000, pp. 507-515 - http://www.debunker.com/historical/HistoryRussianUFOlogy.html — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"url": "http://www.debunker.com/historical/HistoryRussianUFOlogy.html"
+},
+"text": "The Petrozavodsk phenomenon of 20 September 1977 was reported in Izvestia on 23 September 1977 under the title 'The Unidentified natural phenomenon', describing a 'huge \"star\" with impulsive beams of light coming to the ground' that hung over the town 'as a huge \"jellyfish\"'.",
+"tier": 2
+},
+{
+"cls": "program",
+"cluster": "ic",
+"denied": false,
+"label": "SETKA-AN / SETKA-MO (later Galaktika, then Gorizont) - Soviet state anomalous phenomena programme",
+"node": "setka-program",
+"open": false,
+"source": {
+"domain": "www.debunker.com",
+"text": "Platov and Sokolov (2000) - http://www.debunker.com/historical/HistoryRussianUFOlogy.html — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"url": "http://www.debunker.com/historical/HistoryRussianUFOlogy.html"
+},
+"text": "The military branch was led from 'one of the central military research institutes in the Moscow region', with its chief V. Balashov as scientific head and a working group of four to five people; roughly fifteen further Ministry of Defence and war-industry organisations participated voluntarily. The academic branch was headed by Academician V. Migulin, director of IZMIRAN, which was 'determined as the head institute in this field of activity', with a working group of four to five headed by Yu. Platov.",
+"tier": 2
+},
+{
+"cls": "program",
+"cluster": "ic",
+"denied": false,
+"label": "SETKA-AN / SETKA-MO (later Galaktika, then Gorizont) - Soviet state anomalous phenomena programme",
+"node": "setka-program",
+"open": false,
+"source": {
+"domain": "www.debunker.com",
+"text": "Platov and Sokolov (2000) - http://www.debunker.com/historical/HistoryRussianUFOlogy.html — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"url": "http://www.debunker.com/historical/HistoryRussianUFOlogy.html"
+},
+"text": "The research was classified for three stated reasons: it formally entered the classified defence plan; a military-technical origin for the effects was thought likely at the outset; and there was 'a capability of a military use of some probable properties of the UFO ... absence of a radar contrast, high manoeuvrability, etc.' In official documents 'the use of an abbreviation \"UFO\" was not accepted, instead of it the term \"paranormal phenomenon\" was used.'",
+"tier": 2
+},
+{
+"cls": "program",
+"cluster": "ic",
+"denied": false,
+"label": "SETKA-AN / SETKA-MO (later Galaktika, then Gorizont) - Soviet state anomalous phenomena programme",
+"node": "setka-program",
+"open": false,
+"source": {
+"domain": "www.debunker.com",
+"text": "Platov and Sokolov (2000) - http://www.debunker.com/historical/HistoryRussianUFOlogy.html — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"url": "http://www.debunker.com/historical/HistoryRussianUFOlogy.html"
+},
+"text": "The series of flight emergencies in 1984-87 at the Borisoglebsk air unit in Voronezh region, characterised by unknown objects on radar and visually observed by pilots in emergency zones, is left explicitly unresolved: 'So far there is no consensus of opinion as to the role played in these emergencies by the mysterious objects observed in the zone of flight, and we shall interpret these events as unidentified.'",
+"tier": 2
+},
+{
+"cls": "program",
+"cluster": "ic",
+"denied": false,
+"label": "SETKA-AN / SETKA-MO (later Galaktika, then Gorizont) - Soviet state anomalous phenomena programme",
+"node": "setka-program",
+"open": false,
+"source": {
+"domain": "www.debunker.com",
+"text": "Platov and Sokolov (2000) - http://www.debunker.com/historical/HistoryRussianUFOlogy.html — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"url": "http://www.debunker.com/historical/HistoryRussianUFOlogy.html"
+},
+"text": "Two topics were entered in the 1978 defence research plan, verbatim: '\"Setka MO\" (Ministry of Defence) - \"Research of paranormal atmospheric and space phenomena and their influence on the operation of military technical equipment and personnel\"; \"Setka AS\" (Academy of Sciences) - \"Research of a physical nature and mechanisms of paranormal atmospheric and space phenomena\".'",
+"tier": 2
+},
+{
+"cls": "program",
+"cluster": "ic",
+"denied": false,
+"label": "SETKA-AN / SETKA-MO (later Galaktika, then Gorizont) - Soviet state anomalous phenomena programme",
+"node": "setka-program",
+"open": false,
+"source": {
 "domain": null,
 "text": "Project Condign, Volume 3, Chapter 4, para 1, UK MoD, 2000 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "url": null
 },
 "text": "UK Defence Intelligence Staff assessment: 'It is clear that the Former Soviet Union has taken the study of UAPs seriously and that this may well be related to a programme of understanding and exploiting certain UAP-related natural phenomena, such as plasmas.'",
 "tier": 2
+},
+{
+"cls": "program",
+"cluster": "ic",
+"denied": false,
+"label": "SETKA-AN / SETKA-MO (later Galaktika, then Gorizont) - Soviet state anomalous phenomena programme",
+"node": "setka-program",
+"open": false,
+"source": {
+"domain": "www.debunker.com",
+"text": "Platov and Sokolov (2000) - http://www.debunker.com/historical/HistoryRussianUFOlogy.html — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"url": "http://www.debunker.com/historical/HistoryRussianUFOlogy.html"
+},
+"text": "Verbatim: 'One can say that the noted directive for 13 years put the army into the on-duty regime of observation of the paranormal phenomena in the places of the army dislocation, i.e. practically on the whole territory of the USSR, and this means, anyway, approximately 1/6 of the Earth territory.' Each serviceman 'became (without knowing it) a potential participant of the program'.",
+"tier": 2
+},
+{
+"cls": "program",
+"cluster": "ic",
+"denied": false,
+"label": "SETKA-AN / SETKA-MO (later Galaktika, then Gorizont) - Soviet state anomalous phenomena programme",
+"node": "setka-program",
+"open": false,
+"source": {
+"domain": "www.ufoinfo.com",
+"text": "Paul Stonehill and Philip Mantle, 'Setka: A Secret Soviet UFO Research Program - Dawn of the Secret Program' - https://www.ufoinfo.com/news/setka.shtml",
+"url": "https://www.ufoinfo.com/news/setka.shtml"
+},
+"text": "Secondary accounts state that the SETKA designations were changed to 'Galaktika' (MO and AN) in 1981 and to 'Gorizont' (MO and AN) in 1986.",
+"tier": 3
 },
 {
 "cls": "document",

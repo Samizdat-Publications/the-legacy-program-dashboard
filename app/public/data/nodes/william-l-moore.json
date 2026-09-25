@@ -4,7 +4,9 @@
 "D": 2,
 "affiliations": [
 "Fair-Witness Project",
-"Co-author with Charles Berlitz, 'The Roswell Incident' (1980)"
+"Co-author with Charles Berlitz, 'The Roswell Incident' (1980)",
+"Aerial Phenomena Research Organization",
+"Fair-Witness Project, Burbank, California"
 ],
 "age": null,
 "band": null,
@@ -15,9 +17,19 @@
 "precision": "year"
 },
 {
+"date": "1980-01-01",
+"event": "Publishes 'The Roswell Incident' with Charles Berlitz, reviving the 1947 case.",
+"precision": "year"
+},
+{
 "date": "1984-12",
 "event": "With Jaime Shandera, receives an anonymous roll of 35mm film containing the MJ-12 Eisenhower Briefing Document",
 "precision": "month"
+},
+{
+"date": "1984-12-11",
+"event": "Jaime Shandera receives the anonymous film containing the MJ-12 'Eisenhower Briefing Document.'",
+"precision": "day"
 },
 {
 "date": "1987",
@@ -25,9 +37,29 @@
 "precision": "year"
 },
 {
+"date": "1987-05-29",
+"event": "MJ-12 documents released publicly by Moore, Shandera and Stanton Friedman.",
+"precision": "day"
+},
+{
+"date": "1988-01-01",
+"event": "Philip Klass publishes the first detailed forensic challenge to the MJ-12 documents in Skeptical Inquirer.",
+"precision": "month"
+},
+{
 "date": "1989-07",
 "event": "At the MUFON symposium in Las Vegas, states publicly that he had cooperated with AFOSI personnel and passed disinformation to Paul Bennewitz",
 "precision": "month"
+},
+{
+"date": "1989-07-01",
+"event": "Tells the MUFON symposium that he cooperated with AFOSI and passed disinformation to Bennewitz.",
+"precision": "month"
+},
+{
+"date": "1990-01-01",
+"event": "With Shandera publishes 'The MJ-12 Documents: An Analytical Report' (Fair-Witness Project, Publication 1500).",
+"precision": "year"
 }
 ],
 "claims": [
@@ -263,9 +295,9 @@
 "type": "research"
 }
 ],
-"date": "1989-07-01",
+"date": "1990-01-01",
 "dateEnd": null,
-"dateStart": "1989-07-01",
+"dateStart": "1990-01-01",
 "deg": 8,
 "denials": [
 {
@@ -319,6 +351,7 @@
 "short": "William L. Moore",
 "sourceFiles": [
 "dulce-2026-09-19",
+"history-1970s-2000s",
 "w16-thin-people",
 "w2-retrieval-literature"
 ],

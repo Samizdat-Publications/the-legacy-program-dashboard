@@ -43,6 +43,11 @@
 "source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_15-DIRD_Advanced_Space_Propulsion_Based_on_Vacuum_Spacetime_Metric_Engineer.pdf",
 "text": "The paper concludes that a metric-engineered craft would exhibit apparent superluminal motion, blueshifted emission, reduced effective mass permitting abrupt trajectory changes without internal stress, materials \"hardened\" so a craft \"could, for example, impact water at high velocities without apparent deleterious effects\", and sudden \"cloaking\" or \"blinking out\". These are the reported observables of UAP encounters restated as consequences of general relativity.",
 "tier": 1
+},
+{
+"source": "DIA FOIA Electronic Reading Room AATIP index; DIA letter to FAS, 16 January 2019",
+"text": "'Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering', authored by Harold E. Puthoff, is among the 38 AAWSAP reference products listed by DIA and is hosted in the DIA FOIA Electronic Reading Room.",
+"tier": 1
 }
 ],
 "cls": "document",
@@ -272,6 +277,7 @@
 "sourceFiles": [
 "_rs-aawsap-dirds",
 "_rs-archive-mirror",
+"scientists-technical",
 "w7-dirds-1"
 ],
 "sources": [
@@ -304,11 +310,26 @@
 "date": null,
 "name": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_15-DIRD_Advanced_Space_Propulsion_Based_on_Vacuum_Spacetime_Metric_Engineer.pdf",
 "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_15-DIRD_Advanced_Space_Propulsion_Based_on_Vacuum_Spacetime_Metric_Engineer.pdf"
+},
+{
+"date": "2026-08-12",
+"name": "DIA FOIA Electronic Reading Room - Advanced Aerospace Threat Identification Program",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FOIA-Reading-Room-Advanced-Aerospace-Threat-Identification-Program/"
+},
+{
+"date": "2019-01-17",
+"name": "Federation of American Scientists, 'AATIP List' (Secrecy News)",
+"url": "https://fas.org/publication/aatip-list/"
+},
+{
+"date": "2026-08-12",
+"name": "Wikipedia: Advanced Aerospace Threat Identification Program",
+"url": "https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program"
 }
 ],
 "sub": "defense-intelligence-reference-document",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 233 of 1170, score 43). 7 connections, 4 of them custody/funding/programmatic. Axes C0/A0/D0.",
+"tierRationale": "Re-graded B on a global pass (rank 192 of 1170, score 46). 7 connections, 4 of them custody/funding/programmatic. Axes C0/A0/D0.",
 "timeline": [],
 "unverified": []
 }

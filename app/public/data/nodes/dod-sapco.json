@@ -28,6 +28,56 @@
 "source": "Inference from AARO Historical Record Report Volume I, p. 34 read against DoDD 5205.07 responsibilities",
 "text": "AARO's assurance of 'full access to all pertinent sensitive USG programs' is unfalsifiable as written, because the determination of which programs are 'pertinent' was made by the same SAPCO enterprise that would be the custodian of any concealed program. Reasoning: the reviewer's scope was set by the reviewed.",
 "tier": 3
+},
+{
+"source": "https://web.archive.org/web/20220322050205/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf",
+"text": "DoDD 5205.07 (2010) para 4.c: 'The DoD SAP Central Office (SAPCO), under the authority, direction, and control of the Deputy Secretary of Defense, is established and is the primary DoD liaison with agencies of the Executive Branch and the Congress on all issues relating to DoD SAPs ... The Director, DoD SAPCO, shall be a flag officer or Senior Executive Service equivalent appointed by the Deputy Secretary of Defense.'",
+"tier": 1
+},
+{
+"source": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf",
+"text": "DoDD 5205.07 (2024) restates it: the Director, DoD SAPCO, 'under the authority, direction, and control of the Deputy Secretary of Defense, will be a general officer, flag officer, or Senior Executive Service member or equivalent appointed to oversee day-to-day management of the SAP Enterprise,' serves as proponent for SAP policy, as Executive Secretary of the SAPOC and SRG, as Chair of the SSWG, and as 'primary point of contact for congressional matters', and 'Maintains records of DoD SAP information provided to Congress.'",
+"tier": 1
+},
+{
+"source": "https://web.archive.org/web/20191018064106/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol1.pdf",
+"text": "DoDM 5205.07 Vol 1, Enclosure 2, para 3.b: the Director, DoD SAPCO 'Functions as the DoD single point of Congressional liaison concerning SAPs.'",
+"tier": 1
+},
+{
+"source": "https://web.archive.org/web/20220322050205/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf",
+"text": "DoDD 5205.07 (2010) Enclosure 3, Note 2: 'The Director, DoD SAPCO, has AAA [access approval authority] for all SAPs unless expressly withheld by the Secretary or Deputy Secretary of Defense.' Note 4: the Director 'shall coordinate on PARs for the White House, National Security Council, and political appointees of the Executive Branch.' Note 3: the Director coordinates PARs 'for judicial and other Federal agency personnel for waived programs.'",
+"tier": 1
+},
+{
+"source": "https://web.archive.org/web/20220322050205/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf",
+"text": "One office holds: single-point congressional liaison, custody of the record of what was told to Congress, access-approval authority for all SAPs, and the coordination point for White House, NSC, judicial and political-appointee access to waived programs. Every external route into a waived DoD SAP -- legislative, executive and judicial -- transits the same desk, which reports to the Deputy Secretary of Defense and to no one outside the Department. Reasoning stated from DoDD 5205.07 (2010) paras 4.c, 4.e and Enclosure 3 Notes 2-4.",
+"tier": 3
+},
+{
+"source": "DoDD 5205.07 (2010), para 4.c",
+"text": "DoDD 5205.07 (2010) para 4.c: DoD SAPCO 'under the authority, direction, and control of the Deputy Secretary of Defense, is established and is the primary DoD liaison with agencies of the Executive Branch and the Congress on all issues relating to DoD SAPs ... The Director, DoD SAPCO, shall be a flag officer or Senior Executive Service equivalent appointed by the Deputy Secretary of Defense.'",
+"tier": 1
+},
+{
+"source": "DoDM 5205.07 Volume 1, Enclosure 2, para 3.b",
+"text": "DoDM 5205.07-V1 Enclosure 2 para 3.b: the Director, DoD SAPCO 'Functions as the DoD single point of Congressional liaison concerning SAPs.'",
+"tier": 1
+},
+{
+"source": "DoDI 5205.11, Enclosure 2, para 2.k",
+"text": "DoDI 5205.11 Enclosure 2 para 2.k: DoD SAPCO 'Establishes policies and applicable procedures to satisfy reporting requirements for DSS carve-outs, CFIUS, and treaty matters. Provides DSS confirmation of SAP facilities where the DSS has been carved out of security oversight functions.'",
+"tier": 1
+},
+{
+"source": "DoDD 5205.07 (2024), Director DoD SAPCO responsibilities",
+"text": "DoDD 5205.07 (2024) makes the Director, DoD SAPCO Executive Secretary of the SAPOC and the SRG and Chair of the SSWG, reporting directly to the Deputy Secretary of Defense.",
+"tier": 1
+},
+{
+"source": "DoDI 5205.11 Enclosure 2; DoDD 5205.07 (2010) paras 4.c and 4.e",
+"text": "DoD SAPCO is simultaneously the office that (a) writes the criteria for reviewing waived programs, (b) confirms which contractor facilities are carved out of DCSA oversight, (c) is the single point of congressional liaison, and (d) must approve any contractor's provision of SAP material to a member of Congress. Those four functions in one office, reporting to the official who signs the waivers, is the structural definition of a closed loop. Reasoning: enumeration of the four responsibilities from DoDI 5205.11 and DoDD 5205.07.",
+"tier": 3
 }
 ],
 "cls": "institution",
@@ -776,7 +826,9 @@
 "short": "DoD SAPCO",
 "sourceFiles": [
 "_rs-archive-mirror",
-"w2-agencies"
+"_rs-sap-docs",
+"w2-agencies",
+"w2-sap-architecture"
 ],
 "sources": [
 {
@@ -803,11 +855,41 @@
 "date": "2026-08-12",
 "name": "10 U.S.C. 119, Special access programs: congressional oversight",
 "url": "https://www.law.cornell.edu/uscode/text/10/119"
+},
+{
+"date": "2025-08-09",
+"name": "Archived: DoDI 5205.11 (12 Sep 2024) (Wayback 2025-08-09)",
+"url": "https://web.archive.org/web/20250809023849/https://www.esd.whs.mil/portals/54/documents/dd/issuances/dodi/520511p.pdf"
+},
+{
+"date": "2020-02-04",
+"name": "DoDD 5205.07 (1 Jul 2010, Chg 2 4 Feb 2020) — Internet Archive capture",
+"url": "https://web.archive.org/web/20220322050205/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf"
+},
+{
+"date": "2018-02-12",
+"name": "DoDM 5205.07 Vol 1 (18 Jun 2015, Chg 1 12 Feb 2018) — Internet Archive capture",
+"url": "https://web.archive.org/web/20191018064106/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol1.pdf"
+},
+{
+"date": "2024-09-12",
+"name": "DoDI 5205.11 (12 Sep 2024)",
+"url": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf"
+},
+{
+"date": "2018-08-31",
+"name": "DoD Directive 5205.07, Special Access Program (SAP) Policy, 1 July 2010, incorporating Change 1, 31 August 2018",
+"url": "https://web.archive.org/web/20190922210932/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf"
+},
+{
+"date": "2018-08-31",
+"name": "DoD Instruction 5205.11, Management, Administration, and Oversight of DoD Special Access Programs (SAPs), 6 February 2013, incorporating Change 1, 31 August 2018",
+"url": "https://web.archive.org/web/20190916023050/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf"
 }
 ],
 "sub": "Central management office for all DoD special access programs; reports to the Deputy Secretary of Defense",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 51 of 1170, score 78). 20 connections, 4 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C3/A3/D2.",
+"tierRationale": "Re-graded A on a global pass (rank 21 of 1170, score 104). 20 connections, 4 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C3/A3/D2.",
 "timeline": [
 {
 "claimTier": null,

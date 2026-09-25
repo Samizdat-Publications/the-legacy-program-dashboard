@@ -87,6 +87,8 @@ rejects = []
 schema_warnings = []      # unknown fields: warnings in phase 3, not rejects
 display_normalised = []   # labels whose spaced em dash became " - " (decision 7)
 unadjudicated_denials = []
+unplaced_claims = []      # claims authored on an id that has no survivor to carry them
+unplaced_sources = []
 entity_info_keys = {"aliased": [], "dropped": [], "unplaced": []}
 
 
@@ -444,6 +446,34 @@ def merge_entity(a, b):
 ENTITY_LIST_FIELDS = ("conflicts", "unverified", "openQuestions", "domains")
 # The fields that follow a collapsed node to its survivor.
 CASE_AGAINST_FIELDS = ("conflicts", "unverified", "openQuestions")
+
+
+def carry_collapsed(tgt, loser):
+    """Everything the survivor would show, from the collapsed record: its claims
+    (deduped by the one claim key), its sources (deduped as sources always are),
+    the case against, a person's affiliations, chronology and sequence chain, and
+    its provenance. Prose only where the survivor has none: the survivor's own
+    `desc` or `narrative` is never replaced by the collapsed copy's. Tier, axes,
+    dates, label and status stay the survivor's: those are settled on the
+    survivor (and by the regrade overlay), not re-opened by a collapse."""
+    tgt["claims"] = dedupe_claims(list(tgt.get("claims") or []) + list(loser.get("claims") or []))
+    tgt["sources"] = norm_sources((tgt.get("sources") or []) + (loser.get("sources") or []))
+    for f in ("desc", "narrative"):
+        if f in loser and loser.get(f) and not tgt.get(f):
+            tgt[f] = loser[f]
+    lists = [f for f in CASE_AGAINST_FIELDS + ("affiliations", "sequenceChain")
+             if loser.get(f)]
+    _union_lists(tgt, loser, lists)
+    if loser.get("chronology"):
+        seen = {(c["date"], c["event"][:60]) for c in tgt.get("chronology") or []}
+        for c in loser["chronology"]:
+            if (c["date"], c["event"][:60]) not in seen:
+                seen.add((c["date"], c["event"][:60]))
+                tgt.setdefault("chronology", []).append(c)
+        tgt["chronology"] = sorted(tgt["chronology"], key=lambda x: x["date"])
+    for d in loser.get("_domains") or []:
+        if d not in tgt.setdefault("_domains", []):
+            tgt["_domains"].append(d)
 
 
 def _as_list(v):
@@ -853,17 +883,37 @@ def load():
     if os.path.exists(rmpath):
         rm = set(json.load(open(rmpath, encoding="utf-8")).get("remove") or [])
         gone = [i for i in rm if i in people or i in entities]
-        # The case against a collapsed node goes to its survivor, like its edges.
-        # `setka` collapsed into `setka-program` and took five open questions with
-        # it the moment phase 3 started carrying them. Only the three case-against
-        # fields move; a collapsed node's claims and sources are not merged here
-        # (that was never done, and is not this phase's decision).
+        # What was authored on a collapsed node goes to its survivor, like its
+        # edges. Until phase 3 only the edges and timeline followed a collapse, so
+        # 37 claims (all of `setka`'s Soviet programme record, five DoDD 5205.07
+        # quotations on `dod-sapco-arch`, the DIRD list on `dird-collection`) and
+        # their sources were deleted with the id they were written under.
+        # carry_collapsed() says exactly what moves. A deletion with no alias, and
+        # a collapse into a `d-*` domain node (a topic, not the thing the claim is
+        # about), move nothing: those claims are listed in
+        # tools/UNPLACED-CLAIMS.json rather than placed by guess.
         _alias = json.load(open(rmpath, encoding="utf-8")).get("alias") or {}
         for i in sorted(gone):
             loser = people.get(i) or entities.get(i)
-            tgt = people.get(_alias.get(i)) or entities.get(_alias.get(i))
-            if loser and tgt:
-                _union_lists(tgt, loser, [f for f in CASE_AGAINST_FIELDS if loser.get(f)])
+            to = _alias.get(i)
+            while to in _alias and to not in people and to not in entities:
+                to = _alias[to]
+            tgt = people.get(to) or entities.get(to)
+            if not loser:
+                continue
+            if tgt is None or str(to).startswith("d-"):
+                why = ("removed by research/_removed.json with no alias" if not to
+                       else f"collapsed into {to}, which is not on the board" if tgt is None
+                       else f"collapsed into the domain node {to}: a topic, not the thing "
+                            f"the claim is about, so nothing is placed by guess")
+                for c in loser.get("claims") or []:
+                    unplaced_claims.append({"id": i, "to": to, "why": why, "tier": c["tier"],
+                                            "claim": c["text"], "source": c.get("source")})
+                for sc in loser.get("sources") or []:
+                    unplaced_sources.append({"id": i, "to": to, "why": why,
+                                             "url": sc.get("url"), "name": sc.get("name")})
+                continue
+            carry_collapsed(tgt, loser)
         for i in gone:
             people.pop(i, None)
             entities.pop(i, None)
@@ -1564,6 +1614,8 @@ def emit(people, entities, edges, timeline, entity_info, gaps, problems):
                     ("REMOVED-CLAIMS.json", removed_claims),
                     ("DATE-CONFLICTS.json", date_conflicts),
                     ("UNADJUDICATED-DENIALS.json", unadjudicated_denials),
+                    ("UNPLACED-CLAIMS.json", {"claims": unplaced_claims,
+                                              "sources": unplaced_sources}),
                     ("DISPLAY-NORMALISED.json", display_normalised),
                     ("SCHEMA-WARNINGS.json", schema_warnings),
                     ("ENTITYINFO-KEYS.json", entity_info_keys)):

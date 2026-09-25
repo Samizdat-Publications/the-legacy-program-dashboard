@@ -20,16 +20,16 @@
    "C": 586
   },
   "claim_tiers": {
-   "1": 3786,
-   "2": 1683,
-   "3": 618
+   "1": 3798,
+   "2": 1700,
+   "3": 622
   },
   "edge_tiers": {
    "1": 1830,
    "2": 738,
    "3": 235
   },
-  "unique_source_urls": 1693,
+  "unique_source_urls": 1698,
   "l0_nodes": 135,
   "l0_edges_direct": 264,
   "l0_edges_summarised": 136,

@@ -292,7 +292,7 @@
   "year",
   "ranged"
  ],
- "source": "b983fd81e96d",
+ "source": "67fab325f977",
  "strandAliases": {
   "_what": "Authored timeline strands the timeline does not draw a lane for. Until phase 3 these became `program` in silence; the mapping is now declared, and the event keeps what was written as `authoredStrand`. An authored strand in neither list is a REJECT.",
   "disclosure": "program",

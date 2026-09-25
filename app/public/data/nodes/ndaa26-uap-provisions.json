@@ -260,7 +260,10 @@
 "short": "NDAA FY2026 UAP provisions (Secs. 1671-1673)",
 "sourceFiles": [
 "_rs-legislation",
+"congress-house",
+"uaptf-aaro",
 "w12-duplicate-collapse",
+"w2-2025-2026",
 "w2-black-budget"
 ],
 "sources": [
@@ -282,7 +285,7 @@
 ],
 "sub": "December 2025: reporting requirements repealed, classification guides to be inventoried",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 76 of 1170, score 70). 6 connections, 1 of them custody/funding/programmatic. Axes C1/A2/D3.",
+"tierRationale": "Re-graded A on a global pass (rank 77 of 1170, score 70). 6 connections, 1 of them custody/funding/programmatic. Axes C1/A2/D3.",
 "timeline": [
 {
 "claimTier": null,

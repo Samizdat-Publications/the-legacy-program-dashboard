@@ -111,9 +111,9 @@
  ],
  "counts": {
   "claims": {
-   "1": 3786,
-   "2": 1683,
-   "3": 618
+   "1": 3798,
+   "2": 1700,
+   "3": 622
   },
   "edges": 2803,
   "entities": 817,
@@ -6559,7 +6559,7 @@
    "D": 0,
    "band": null,
    "claims": [
-    8,
+    9,
     0,
     0
    ],
@@ -7135,9 +7135,9 @@
    "D": 0,
    "band": "reverse-engineering",
    "claims": [
-    11,
-    0,
-    2
+    14,
+    1,
+    3
    ],
    "cls": "document",
    "cluster": "other",
@@ -7831,9 +7831,9 @@
    "D": 2,
    "band": "custody",
    "claims": [
-    4,
+    12,
     0,
-    1
+    3
    ],
    "cls": "institution",
    "cluster": "legacy",
@@ -9320,7 +9320,7 @@
    "band": null,
    "claims": [
     0,
-    4,
+    7,
     0
    ],
    "cls": "event",
@@ -19319,7 +19319,7 @@
    "label": "FY2023 NDAA, Public Law 117-263 - Sec. 1673 (50 U.S.C. 3373b) UAP reporting/whistleblower protection; Div. F secs. 6802-6803 establishing AARO",
    "short": "FY2023 NDAA, Public Law 117-263 - Sec. 1673 (50 U.S.C. 3373b) UAP reporting/whistleblower protection; Div. F secs. 6802-6803 establishing AARO",
    "status": null,
-   "tier": "A"
+   "tier": "B"
   },
   {
    "A": 3,
@@ -24272,8 +24272,8 @@
    "band": "research",
    "claims": [
     0,
-    7,
-    0
+    20,
+    1
    ],
    "cls": "program",
    "cluster": "ic",
@@ -24287,7 +24287,7 @@
    "label": "SETKA-AN / SETKA-MO (later Galaktika, then Gorizont) - Soviet state anomalous phenomena programme",
    "short": "SETKA-AN / SETKA-MO",
    "status": null,
-   "tier": "B"
+   "tier": "A"
   },
   {
    "A": 2,
@@ -28022,7 +28022,7 @@
    "cls": "person",
    "cluster": "research",
    "dateEnd": null,
-   "dateStart": "1989-07-01",
+   "dateStart": "1990-01-01",
    "deg": 8,
    "era": "1",
    "hl": null,
@@ -28250,5 +28250,5 @@
    "tier": "C"
   }
  ],
- "source": "b983fd81e96d"
+ "source": "67fab325f977"
 }
