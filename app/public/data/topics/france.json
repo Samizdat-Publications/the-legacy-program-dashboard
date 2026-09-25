@@ -18,25 +18,1590 @@
   "l-paris"
  ],
  "appendixT": "france",
- "cites": {},
- "claimed": [],
- "contested": [],
+ "cites": {
+  "c-01b64993f7": {
+   "id": "c-01b64993f7",
+   "kind": "claim",
+   "node": "geipan",
+   "nodeLabel": "GEIPAN - Groupe d'Études et d'Informations sur les Phénomènes Aérospatiaux Non identifiés",
+   "source": {
+    "domain": "cnes.fr",
+    "text": "https://cnes.fr/en/projects/geipan",
+    "url": "https://cnes.fr/en/projects/geipan"
+   },
+   "text": "Key milestones per CNES: '2008: GEIPAN website created and UAP archives transferred to it; 2005: GEIPAN replaces SEPRA; 1988: GEPAN replaced by SEPRA, the permanent unit at CNES responsible for routine monitoring of orbital debris and risk objects; 1977: Inception of GEPAN'.",
+   "tier": 1
+  },
+  "c-0709a0e7b6": {
+   "id": "c-0709a0e7b6",
+   "kind": "claim",
+   "node": "geipan",
+   "nodeLabel": "GEIPAN - Groupe d'Études et d'Informations sur les Phénomènes Aérospatiaux Non identifiés",
+   "source": {
+    "domain": null,
+    "text": "GEIPAN, 'Classification', geipan.fr, statistics as at 31 March 2026",
+    "url": null
+   },
+   "text": "'Depuis 49 ans, le GEIPAN a enregistré plus de 9 897 témoignages représentant environ 5 170 cas d'observations qui dans 10% des cas ont fait objet d'enquêtes terrain. Au 31/03/2026 cela représente 3336 cas publiés. 66,5 % des cas sont classés A ou B ... 30.3 % ... (CAS C). 3,2 % des observations restent inexpliquées (CAS D).'",
+   "tier": 1
+  },
+  "c-0a4f4785e1": {
+   "id": "c-0a4f4785e1",
+   "kind": "claim",
+   "node": "doc-cometa-report",
+   "nodeLabel": "Les OVNI et la Défense: à quoi doit-on se préparer? (COMETA report, July 1999)",
+   "source": {
+    "domain": null,
+    "text": "COMETA report, Conclusions and Recommendations, recommendation 5, 1999 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+    "url": null
+   },
+   "text": "Recommendation 5: 'Initiate diplomatic demarches to the United States, with the support of other States and even the European Union, to urge the superpower to collaborate and, if necessary, exert useful pressure to clarify this crucial issue that can only come within the framework of political and strategic alliances.'",
+   "tier": 2
+  },
+  "c-147fd05505": {
+   "id": "c-147fd05505",
+   "kind": "claim",
+   "node": "gepan",
+   "nodeLabel": "GEPAN - Groupe d'Étude des Phénomènes Aérospatiaux Non-identifiés",
+   "source": {
+    "domain": null,
+    "text": "'French Government UFO Study', NSA declassified UFO document collection",
+    "url": null
+   },
+   "text": "NSA-held assessment: 'the original report was limited to 120 or 140 copies and was secret. It is not available for general dissemination.'",
+   "tier": 1
+  },
+  "c-15e1a52cb3": {
+   "id": "c-15e1a52cb3",
+   "kind": "claim",
+   "node": "geipan",
+   "nodeLabel": "GEIPAN - Groupe d'Études et d'Informations sur les Phénomènes Aérospatiaux Non identifiés",
+   "source": {
+    "domain": "cnes.fr",
+    "text": "https://cnes.fr/en/projects/geipan",
+    "url": "https://cnes.fr/en/projects/geipan"
+   },
+   "text": "CNES lists GEIPAN's inception as 1977, its location as CNES Toulouse, its lifetime as 'Indefinite' and its status as 'In operation', with partners Gendarmerie, Police, Air and Space Force, CNRS and Meteo France; 'Currently headed by Frédéric Courtade since January 2024, GEIPAN is overseen by COPEIPAN, a steering committee'.",
+   "tier": 1
+  },
+  "c-19d8ee4735": {
+   "id": "c-19d8ee4735",
+   "kind": "claim",
+   "node": "geipan",
+   "nodeLabel": "GEIPAN - Groupe d'Études et d'Informations sur les Phénomènes Aérospatiaux Non identifiés",
+   "source": {
+    "domain": "cnes-geipan.fr",
+    "text": "https://cnes-geipan.fr/en/histoire-du-geipan",
+    "url": "https://cnes-geipan.fr/en/histoire-du-geipan"
+   },
+   "text": "GEIPAN is steered by a comité de pilotage 'composé de représentants des autorités civiles et militaires du pays (Gendarmerie nationale, Aviation civile, Météo, Armée de l'air, Recherche scientifique) et du CNES', supported by a collège d'experts of 'une trentaine de bénévoles' and volunteer field investigators across France.",
+   "tier": 1
+  },
+  "c-1ae315f755": {
+   "id": "c-1ae315f755",
+   "kind": "claim",
+   "node": "geipan",
+   "nodeLabel": "GEIPAN - Groupe d'Études et d'Informations sur les Phénomènes Aérospatiaux Non identifiés",
+   "source": {
+    "domain": "cnes-geipan.fr",
+    "text": "https://cnes-geipan.fr/en/stats",
+    "url": "https://cnes-geipan.fr/en/stats"
+   },
+   "text": "Published statistics dated 11/08/2026 cover 3,381 classified cases: 950 class A (28.1%), 1,310 class B (38.7%), 1,015 class C (30.0%), 106 class D (3.1%).",
+   "tier": 1
+  },
+  "c-1c1585b19e": {
+   "id": "c-1c1585b19e",
+   "kind": "claim",
+   "node": "andre-lebeau",
+   "nodeLabel": "Professeur André Lebeau",
+   "source": {
+    "domain": null,
+    "text": "COMETA report, Letty foreword, 1999",
+    "url": null
+   },
+   "text": "Letty: COMETA would not have been born without General Bernard Norlain and 'Mr. Andre Lebeau, former chairman of the Centre National d'Etudes Spatiales'.",
+   "tier": 1
+  },
+  "c-2e388c5f9c": {
+   "id": "c-2e388c5f9c",
+   "kind": "claim",
+   "node": "denis-letty",
+   "nodeLabel": "Général Denis Letty",
+   "source": {
+    "domain": null,
+    "text": "COMETA, UFOs and Defense: What Should We Prepare For?, foreword by Denis Letty, 1999 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+    "url": null
+   },
+   "text": "Letty, foreword: 'The accumulation of well-documented sightings made by credible witnesses forces us to consider from now on all of the hypotheses regarding the origin of unidentified flying objects, or UFOs, and the extraterrestrial hypothesis, in particular.'",
+   "tier": 2
+  },
+  "c-3259c3ccac": {
+   "id": "c-3259c3ccac",
+   "kind": "claim",
+   "node": "cometa",
+   "nodeLabel": "COMETA - Comité d'Études Approfondies",
+   "source": {
+    "domain": "ia800403.us.archive.org",
+    "text": "COMETA report, foreword by Denis Letty, Air Force General, 2nd Section - https://ia800403.us.archive.org/17/items/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D.pdf — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+    "url": "https://ia800403.us.archive.org/17/items/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D.pdf"
+   },
+   "text": "Letty's foreword, verbatim: 'The accumulation of well-documented sightings made by credible witnesses forces us to consider from now on all of the hypotheses regarding the origin of unidentified flying objects, or UFOs, and the extraterrestrial hypothesis, in particular.'",
+   "tier": 2
+  },
+  "c-3a14aa0454": {
+   "id": "c-3a14aa0454",
+   "kind": "claim",
+   "node": "geipan",
+   "nodeLabel": "GEIPAN - Groupe d'Études et d'Informations sur les Phénomènes Aérospatiaux Non identifiés",
+   "source": {
+    "domain": null,
+    "text": "GEIPAN, 'Classification', geipan.fr, 2026",
+    "url": null
+   },
+   "text": "'Au total le GEIPAN reçoit plus de 1000 contacts par an ... Environ 150 à 200 donnent lieu à une enquête qui se termine par une publication sur le site du GEIPAN ... tout en préservant l'anonymat des témoins.'",
+   "tier": 1
+  },
+  "c-3e76177407": {
+   "id": "c-3e76177407",
+   "kind": "claim",
+   "node": "doc-cometa-report",
+   "nodeLabel": "Les OVNI et la Défense: à quoi doit-on se préparer? (COMETA report, July 1999)",
+   "source": {
+    "domain": null,
+    "text": "COMETA report, Conclusions and Recommendations, 1999 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+    "url": null
+   },
+   "text": "Conclusion: 'Secret craft definitely of earthly origin (drones, stealth aircraft, etc.) can only explain a minority of cases.'",
+   "tier": 2
+  },
+  "c-3f4e118742": {
+   "id": "c-3f4e118742",
+   "kind": "claim",
+   "node": "doc-cometa-report",
+   "nodeLabel": "Les OVNI et la Défense: à quoi doit-on se préparer? (COMETA report, July 1999)",
+   "source": {
+    "domain": null,
+    "text": "COMETA report, recommendation 4, 1999 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+    "url": null
+   },
+   "text": "Recommendation 4: 'Create a unit at the highest State level to collaborate with SEPRA' tasked with formulating prospective hypotheses, funded with 'an annual budget of a few million francs', and 'participating in the establishment of sectorial cooperation agreements with other countries'.",
+   "tier": 2
+  },
+  "c-3f546b2497": {
+   "id": "c-3f546b2497",
+   "kind": "claim",
+   "node": "cefaa",
+   "nodeLabel": "CEFAA / SEFAA - Chilean anomalous aerial phenomena office, Dirección General de Aeronáutica Civil",
+   "source": {
+    "domain": "www.huffpost.com",
+    "text": "Huffington Post, 'Groundbreaking UFO Video Just Released By Chilean Navy', 4 January 2017 - https://www.huffpost.com/entry/groundbreaking-ufo-video-just-released-from-chilean_b_586d37bce4b014e7c72ee56b ; Metabunk, 'Explained: Chilean Navy \"UFO\" video - Aerodynamic Contrails, Flight IB6830' - https://www.metabunk.org/threads/explained-chilean-navy-ufo-video-aerodynamic-contrails-flight-ib6830.8306/",
+    "url": "https://www.huffpost.com/entry/groundbreaking-ufo-video-just-released-from-chilean_b_586d37bce4b014e7c72ee56b"
+   },
+   "text": "Photo and video analysts in France, including François Louange, were brought into the Chilean Navy investigation through GEIPAN; GEIPAN's analysts proposed a medium-haul aircraft venting cabin wastewater as the explanation, which CEFAA rejected. Independent analysts subsequently matched the footage to scheduled flights LA330 and IB6830.",
+   "tier": 2
+  },
+  "c-4038428864": {
+   "id": "c-4038428864",
+   "kind": "claim",
+   "node": "jj-velasco",
+   "nodeLabel": "Jean-Jacques Velasco",
+   "source": {
+    "domain": null,
+    "text": "Wikipedia, 'COMETA report' (flagged there as needing citation)",
+    "url": null
+   },
+   "text": "COMETA member Jean-Jacques Velasco personally handed the 90-page report to Prime Minister Lionel Jospin.",
+   "tier": 2
+  },
+  "c-410185394c": {
+   "id": "c-410185394c",
+   "kind": "claim",
+   "node": "doc-cometa-report",
+   "nodeLabel": "Les OVNI et la Défense: à quoi doit-on se préparer? (COMETA report, July 1999)",
+   "source": {
+    "domain": null,
+    "text": "COMETA report, recommendation 6, 1999 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+    "url": null
+   },
+   "text": "Recommendation 6: public authorities should reflect on 'the measures to take in the event of a spectacular and indisputable manifestation of a UFO: overt attempt to make contact, landing before numerous witnesses, other substantial actions'.",
+   "tier": 2
+  },
+  "c-429c3568ac": {
+   "id": "c-429c3568ac",
+   "kind": "claim",
+   "node": "cometa",
+   "nodeLabel": "COMETA - Comité d'Études Approfondies",
+   "source": {
+    "domain": "ia800403.us.archive.org",
+    "text": "COMETA report, ch. 7.5 - https://ia800403.us.archive.org/17/items/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D.pdf — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+    "url": "https://ia800403.us.archive.org/17/items/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D.pdf"
+   },
+   "text": "Chapter 7.5: twelve French aeronautical cases were known to GEPAN/SEPRA, 'only three or four of these can be considered to fall into category D'; the first UAP D dates to 1951 involving Vampire military aircraft near Orange; and not until 28 January 1994 did an Air France crew produce 'the first case of a visual sighting correlated with a radar detection over 50 seconds long'. A worldwide list compiled by Dominique Weinstein describes '489 well-documented cases of aeronautical UAP D sightings the sources of which were duly verified'.",
+   "tier": 2
+  },
+  "c-4576d6999f": {
+   "id": "c-4576d6999f",
+   "kind": "claim",
+   "node": "cometa",
+   "nodeLabel": "COMETA - Comité d'Études Approfondies",
+   "source": {
+    "domain": "ia800403.us.archive.org",
+    "text": "COMETA report, foreword by Denis Letty - https://ia800403.us.archive.org/17/items/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D.pdf — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+    "url": "https://ia800403.us.archive.org/17/items/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D.pdf"
+   },
+   "text": "Named members, with IHEDN promotion numbers as printed: Michel Algrin (AA 35), Pierre Bescond, Weapons Engineer General 2nd Section (AA 48), Denis Blancher, Chief of Police, Police Nationale, Ministry of the Interior, Jean Dunglas (AR 48), Bruno Le Moine, Air Force General 2nd Section (AA 41), Françoise Lepine, Fondation pour les Études de Défense (AA 33), Christian Marchal, research director at ONERA, Marc Merlo, Admiral 2nd Section (AA 35), Alain Orszag, Weapons Engineer General 2nd Section.",
+   "tier": 2
+  },
+  "c-45eb2e59ca": {
+   "id": "c-45eb2e59ca",
+   "kind": "claim",
+   "node": "cometa",
+   "nodeLabel": "COMETA - Comité d'Études Approfondies",
+   "source": {
+    "domain": "ia800403.us.archive.org",
+    "text": "COMETA report, ch. 8.3 - https://ia800403.us.archive.org/17/items/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D.pdf — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+    "url": "https://ia800403.us.archive.org/17/items/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D.pdf"
+   },
+   "text": "Chapter 8.3, verbatim: 'if there had only been ten or so UAP D [sightings], this ambiguous file could just have been classified as \"no action,\" but we are no longer at that point and are far beyond that. Thus we are forced to seek plausible explanations.'",
+   "tier": 2
+  },
+  "c-46f1a9ee0d": {
+   "id": "c-46f1a9ee0d",
+   "kind": "claim",
+   "node": "cometa",
+   "nodeLabel": "COMETA - Comité d'Études Approfondies",
+   "source": {
+    "domain": null,
+    "text": "COMETA, UFOs and Defense: What Should We Prepare For?, Letty foreword, 1999 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+    "url": null
+   },
+   "text": "Full member list printed in the report: Algrin, Bescond, Blancher, Dunglas, Le Moine, Lépine, Marchal, Merlo, Orszag - with ranks including Weapons Engineer General, Admiral, Air Force General and Chief of Police of the Police Nationale.",
+   "tier": 2
+  },
+  "c-49e6046353": {
+   "id": "c-49e6046353",
+   "kind": "claim",
+   "node": "gepan",
+   "nodeLabel": "GEPAN - Groupe d'Étude des Phénomènes Aérospatiaux Non-identifiés",
+   "source": {
+    "domain": null,
+    "text": "'French Government UFO Study', NSA declassified UFO document collection",
+    "url": null
+   },
+   "text": "NSA-held assessment: GEPAN 'is alerted to actual cases by teletype by the Gendarmerie, the French national police force.'",
+   "tier": 1
+  },
+  "c-50451eb2e9": {
+   "id": "c-50451eb2e9",
+   "kind": "claim",
+   "node": "andre-lebeau",
+   "nodeLabel": "Professeur André Lebeau",
+   "source": {
+    "domain": null,
+    "text": "COMETA report (English edition), forward by Professor André Lebeau, 1999",
+    "url": null
+   },
+   "text": "Lebeau's forward is titled 'Stripping the UFO phenomenon of its irrational layer' and is signed 'Former chairman of the Centre National d'Etudes Spatiales (CNES)'.",
+   "tier": 1
+  },
+  "c-5940700193": {
+   "id": "c-5940700193",
+   "kind": "claim",
+   "node": "geipan",
+   "nodeLabel": "GEIPAN - Groupe d'Études et d'Informations sur les Phénomènes Aérospatiaux Non identifiés",
+   "source": {
+    "domain": "cnes-geipan.fr",
+    "text": "https://cnes-geipan.fr/en/histoire-du-geipan",
+    "url": "https://cnes-geipan.fr/en/histoire-du-geipan"
+   },
+   "text": "'L'équipe du GEIPAN est constituée de deux agents CNES à temps plein: le responsable et son assistante', with external support for case study, statistics, anonymisation and archiving; its budget comes from the general public-service subsidy received by CNES rather than a dedicated allocation.",
+   "tier": 1
+  },
+  "c-5ceea9f638": {
+   "id": "c-5ceea9f638",
+   "kind": "claim",
+   "node": "geipan",
+   "nodeLabel": "GEIPAN - Groupe d'Études et d'Informations sur les Phénomènes Aérospatiaux Non identifiés",
+   "source": {
+    "domain": null,
+    "text": "GEIPAN, 'Classification', geipan.fr, 2026",
+    "url": null
+   },
+   "text": "GEIPAN's classification was rebuilt in 2008 on two measured parameters, consistency (C) and residual strangeness (E), and class D is 'généralement attribuée suite à une enquête terrain avec rencontre du ou des témoins'.",
+   "tier": 1
+  },
+  "c-63d0e42150": {
+   "id": "c-63d0e42150",
+   "kind": "claim",
+   "node": "doc-cometa-report",
+   "nodeLabel": "Les OVNI et la Défense: à quoi doit-on se préparer? (COMETA report, July 1999)",
+   "source": {
+    "domain": null,
+    "text": "COMETA report, recommendation 1, 1999 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+    "url": null
+   },
+   "text": "Recommendation 1 includes alerting 'special civilian and military departments, as well as the Direction de la Communication de la Defense (DICOD, former central SIRPA), calling their attention to disinformation processes.'",
+   "tier": 2
+  },
+  "c-684d64d54e": {
+   "id": "c-684d64d54e",
+   "kind": "claim",
+   "node": "doc-cometa-report",
+   "nodeLabel": "Les OVNI et la Défense: à quoi doit-on se préparer? (COMETA report, July 1999)",
+   "source": {
+    "domain": null,
+    "text": "Wikipedia, 'COMETA report', citing Robert Roussel, Ovnis 1947-2017: Le choix du déni (2018), p.214",
+    "url": null
+   },
+   "text": "Olivier Schrameck, chief of staff to Prime Minister Lionel Jospin, said Jospin read and annotated the COMETA report 'to mark his interest'; the French government made no official response beyond that.",
+   "tier": 2
+  },
+  "c-74210ec0b7": {
+   "id": "c-74210ec0b7",
+   "kind": "claim",
+   "node": "geipan",
+   "nodeLabel": "GEIPAN - Groupe d'Études et d'Informations sur les Phénomènes Aérospatiaux Non identifiés",
+   "source": {
+    "domain": "ised-isde.canada.ca",
+    "text": "https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada",
+    "url": "https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada"
+   },
+   "text": "The same report records that GEIPAN has 'a team of three full-time employees', that reports are investigated by 'over 20 trained volunteers throughout France', and that its guiding principles include 'low operational costs, public service, respect for witnesses and a commitment to transparency, neutrality and objective investigation'.",
+   "tier": 1
+  },
+  "c-74da07df40": {
+   "id": "c-74da07df40",
+   "kind": "claim",
+   "node": "ihedn",
+   "nodeLabel": "Institut des Hautes Études de Défense Nationale (IHEDN)",
+   "source": {
+    "domain": null,
+    "text": "COMETA report, Norlain preface, 1999",
+    "url": null
+   },
+   "text": "Norlain: 'Knowing that some twenty years earlier the AA had produced and published a preliminary report on the subject in its bulletin, it was but time to update it' - and 'The first report of the AA favored the creation within CNES of the only civilian government agency known in the world dedicated to the study of UFOs.'",
+   "tier": 1
+  },
+  "c-7754a4dd83": {
+   "id": "c-7754a4dd83",
+   "kind": "claim",
+   "node": "ihedn",
+   "nodeLabel": "Institut des Hautes Études de Défense Nationale (IHEDN)",
+   "source": {
+    "domain": null,
+    "text": "COMETA report, Introduction, 1999",
+    "url": null
+   },
+   "text": "'In 1976, a committee of the Institut des Hautes Etudes de Defense Nationale (IHEDN) chaired by General Blanchard of the Gendarmerie Nationale opened the unidentified flying objects file.'",
+   "tier": 1
+  },
+  "c-7b72553d05": {
+   "id": "c-7b72553d05",
+   "kind": "claim",
+   "node": "bernard-norlain",
+   "nodeLabel": "Général Bernard Norlain",
+   "source": {
+    "domain": null,
+    "text": "COMETA report, Norlain preface, 1999",
+    "url": null
+   },
+   "text": "Norlain records that the IHEDN Auditors Association's first report 'favored the creation within CNES of the only civilian government agency known in the world dedicated to the study of UFOs'.",
+   "tier": 1
+  },
+  "c-7bc508ee22": {
+   "id": "c-7bc508ee22",
+   "kind": "claim",
+   "node": "geipan",
+   "nodeLabel": "GEIPAN - Groupe d'Études et d'Informations sur les Phénomènes Aérospatiaux Non identifiés",
+   "source": {
+    "domain": "ised-isde.canada.ca",
+    "text": "Office of the Chief Science Advisor of Canada, 'Management of Public Reporting of Unidentified Aerial Phenomena in Canada', 2025 - https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada",
+    "url": "https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada"
+   },
+   "text": "Canada's Office of the Chief Science Advisor: 'France's GEIPAN ... operates under the French space agency CNES ... since 1977. Its mission is to collect, investigate and archive UAP reports, and make its findings available to the public.' It records 'of the 3,188 cases collected by 2025, only 3.2% of cases remained unidentified after investigation. Furthermore, 31.4% of cases could not be explained due to insufficient data.'",
+   "tier": 1
+  },
+  "c-7e630bff46": {
+   "id": "c-7e630bff46",
+   "kind": "claim",
+   "node": "bernard-norlain",
+   "nodeLabel": "Général Bernard Norlain",
+   "source": {
+    "domain": null,
+    "text": "COMETA report, preface by General Bernard Norlain, 1999",
+    "url": null
+   },
+   "text": "Norlain, preface: 'I express the wish that the recommendations of COMETA, which are inspired by good sense, will be examined and implemented by the authorities of our country.'",
+   "tier": 1
+  },
+  "c-819c9d9652": {
+   "id": "c-819c9d9652",
+   "kind": "claim",
+   "node": "geipan",
+   "nodeLabel": "GEIPAN - Groupe d'Études et d'Informations sur les Phénomènes Aérospatiaux Non identifiés",
+   "source": {
+    "domain": "cnes-geipan.fr",
+    "text": "https://cnes-geipan.fr/en/histoire-du-geipan",
+    "url": "https://cnes-geipan.fr/en/histoire-du-geipan"
+   },
+   "text": "'Fin 2001, la Direction générale du CNES commande un audit pour statuer sur l'avenir de l'activité. En 2005, à la suite d'un audit, le Président du CNES décide la restructuration de l'activité et le GEIPAN ... se substitue au SEPRA, avec une recommandation importante d'informer le public en toute transparence.' The 'I' in GEIPAN stands for Information, and the recommendation was implemented through publication of the archives 'entamée en 2007'.",
+   "tier": 1
+  },
+  "c-84f29d6db7": {
+   "id": "c-84f29d6db7",
+   "kind": "claim",
+   "node": "geipan",
+   "nodeLabel": "GEIPAN - Groupe d'Études et d'Informations sur les Phénomènes Aérospatiaux Non identifiés",
+   "source": {
+    "domain": "www.nsa.gov",
+    "text": "https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/french_gov_ufo_study.pdf",
+    "url": "https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/french_gov_ufo_study.pdf"
+   },
+   "text": "The same summary states that in GEPAN's investigations 'the care with which distances, angles, and psychological factors were evaluated makes the bulk of the Condon Report seem very poor by comparison', and that each case was worked by a four-person team including a psychologist.",
+   "tier": 2
+  },
+  "c-8bb11ca095": {
+   "id": "c-8bb11ca095",
+   "kind": "claim",
+   "node": "l-toulouse",
+   "nodeLabel": "Toulouse, France",
+   "source": {
+    "domain": null,
+    "text": "GEIPAN official site — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+    "url": null
+   },
+   "text": "GEIPAN operates within CNES at Toulouse and publishes its classification scheme and case statistics publicly.",
+   "tier": 2
+  },
+  "c-93b473a521": {
+   "id": "c-93b473a521",
+   "kind": "claim",
+   "node": "geipan",
+   "nodeLabel": "GEIPAN - Groupe d'Études et d'Informations sur les Phénomènes Aérospatiaux Non identifiés",
+   "source": {
+    "domain": null,
+    "text": "GEIPAN, 'Statistiques', geipan.fr, 11 August 2026",
+    "url": null
+   },
+   "text": "GEIPAN dynamic statistics as at 11 August 2026: 3,381 cases total - A 28.1% (950), B 38.7% (1,310), C 30.0% (1,015), D 3.1% (106).",
+   "tier": 1
+  },
+  "c-a3bbde74ac": {
+   "id": "c-a3bbde74ac",
+   "kind": "claim",
+   "node": "cometa",
+   "nodeLabel": "COMETA - Comité d'Études Approfondies",
+   "source": {
+    "domain": "ia800403.us.archive.org",
+    "text": "COMETA report, ch. 7.4 - https://ia800403.us.archive.org/17/items/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D.pdf — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+    "url": "https://ia800403.us.archive.org/17/items/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D.pdf"
+   },
+   "text": "Chapter 7.4: 'Around one hundred investigations have been conducted by GEPAN/SEPRA'; several 'demonstrated, in the end, the physical presence of a phenomenon the nature and origin of which remain unknown', naming Trans-en-Provence (8 January 1981) and 'Amaranth' (21 October 1982), 'detailed in GEPAN technical memoranda no. 16 and no. 17'.",
+   "tier": 2
+  },
+  "c-b296104ef9": {
+   "id": "c-b296104ef9",
+   "kind": "claim",
+   "node": "cometa",
+   "nodeLabel": "COMETA - Comité d'Études Approfondies",
+   "source": {
+    "domain": null,
+    "text": "COMETA report, Letty foreword, 1999 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+    "url": null
+   },
+   "text": "Christian Marchal is listed as 'Chief Mining Engineer, Research Director at ONERA [National Aerospace Study and Research Office]' - placing a serving research director of the French national aerospace research establishment inside COMETA.",
+   "tier": 2
+  },
+  "c-b69693cb4d": {
+   "id": "c-b69693cb4d",
+   "kind": "claim",
+   "node": "cometa",
+   "nodeLabel": "COMETA - Comité d'Études Approfondies",
+   "source": {
+    "domain": "ia800403.us.archive.org",
+    "text": "COMETA, 'UFOs and Defense: What Should We Prepare For?', English translation - https://ia800403.us.archive.org/17/items/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D.pdf — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+    "url": "https://ia800403.us.archive.org/17/items/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D.pdf"
+   },
+   "text": "Title page: 'UFOs and Defense: What Should We Prepare For? -An independent report on UFOs written by the French association COMETA. This report details the results of a study by the Institute of Higher Studies for National Defence.- This paper originally appeared in a special issue of the magazine VSD published In France in July 1999.'",
+   "tier": 2
+  },
+  "c-b94dfb6f81": {
+   "id": "c-b94dfb6f81",
+   "kind": "claim",
+   "node": "doc-cometa-report",
+   "nodeLabel": "Les OVNI et la Défense: à quoi doit-on se préparer? (COMETA report, July 1999)",
+   "source": {
+    "domain": null,
+    "text": "COMETA report, Conclusions and Recommendations, 1999 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+    "url": null
+   },
+   "text": "Conclusion: the studies 'demonstrate the almost certain physical reality of completely unknown flying objects with remarkable flight performances and noiselessness, apparently operated by intelligent [beings].'",
+   "tier": 2
+  },
+  "c-b997ea5fde": {
+   "id": "c-b997ea5fde",
+   "kind": "claim",
+   "node": "gepan",
+   "nodeLabel": "GEPAN - Groupe d'Étude des Phénomènes Aérospatiaux Non-identifiés",
+   "source": {
+    "domain": null,
+    "text": "'French Government UFO Study', NSA declassified UFO document collection",
+    "url": null
+   },
+   "text": "NSA-held assessment: 'The care with which distances, angles, and psychological factors were evaluated makes the bulk of the Condon Report seem very poor by comparison. In many cases, the investigations were textbook models of how such investigations should be carried out.'",
+   "tier": 1
+  },
+  "c-c158562a4c": {
+   "id": "c-c158562a4c",
+   "kind": "claim",
+   "node": "cometa",
+   "nodeLabel": "COMETA - Comité d'Études Approfondies",
+   "source": {
+    "domain": "ia800403.us.archive.org",
+    "text": "COMETA report, ch. 7.2 - https://ia800403.us.archive.org/17/items/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D.pdf — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+    "url": "https://ia800403.us.archive.org/17/items/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D.pdf"
+   },
+   "text": "Chapter 7.2, verbatim: 'Category D UAPs represent 4 to 5% of the cases and are called UAP Ds', where category D is 'phenomenon that cannot be identified despite the abundance and quality of the data'.",
+   "tier": 2
+  },
+  "c-c2b2acda8b": {
+   "id": "c-c2b2acda8b",
+   "kind": "claim",
+   "node": "cometa",
+   "nodeLabel": "COMETA - Comité d'Études Approfondies",
+   "source": {
+    "domain": "en.wikipedia.org",
+    "text": "https://en.wikipedia.org/wiki/COMETA_report, citing Kragel & Couprie, 'OVNIS, Enquête sur un secret d'état' (Cherche Midi, 2010) and Rossoni, 'Les OVNI du CNES' (2005)",
+    "url": "https://en.wikipedia.org/wiki/COMETA_report,"
+   },
+   "text": "COMETA 'operated informally since 1996' and 'was officially registered as a non-profit association under the French law of 1901 on February 24, 1999'; it became dormant around 2006, and the report 'was not widely circulated due to copyright restrictions'. It was reissued in book form by Éditions du Rocher in 2003 (ISBN 2-268-04592-7), and an archive was made public in 2007 by GEIPAN.",
+   "tier": 2
+  },
+  "c-c3ce2a7341": {
+   "id": "c-c3ce2a7341",
+   "kind": "claim",
+   "node": "doc-cometa-report",
+   "nodeLabel": "Les OVNI et la Défense: à quoi doit-on se préparer? (COMETA report, July 1999)",
+   "source": {
+    "domain": null,
+    "text": "COMETA report, recommendation 2, 1999 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+    "url": null
+   },
+   "text": "Recommendation 2: 'Boost SEPRA's human and material resources' to develop investigation and analysis, collect information on all UFO manifestations in Europe and worldwide, maintain databases, and 'boost its representation and foreign relations status'.",
+   "tier": 2
+  },
+  "c-cbb036df64": {
+   "id": "c-cbb036df64",
+   "kind": "claim",
+   "node": "gepan",
+   "nodeLabel": "GEPAN - Groupe d'Étude des Phénomènes Aérospatiaux Non-identifiés",
+   "source": {
+    "domain": null,
+    "text": "'French Government UFO Study', US National Security Agency declassified UFO document collection",
+    "url": null
+   },
+   "text": "NSA-held assessment: 'In 10 of the 11 cases, the conclusion was that the witnesses had witnessed a material phenomenon that could not be explained as a natural phenomenon or a human device. One of the conclusions of the total report is that behind the overall phenomenon there is a flying machine ... whose modes of sustenance and propulsion are beyond our knowledge.'",
+   "tier": 1
+  },
+  "c-ce12a5c8a7": {
+   "id": "c-ce12a5c8a7",
+   "kind": "claim",
+   "node": "geipan",
+   "nodeLabel": "GEIPAN - Groupe d'Études et d'Informations sur les Phénomènes Aérospatiaux Non identifiés",
+   "source": {
+    "domain": "www.cnes-geipan.fr",
+    "text": "https://www.cnes-geipan.fr/sites/default/files/note_tech_16.pdf",
+    "url": "https://www.cnes-geipan.fr/sites/default/files/note_tech_16.pdf"
+   },
+   "text": "GEPAN's investigation of the Trans-en-Provence physical-trace case of 8 January 1981 was published as Note Technique n° 16, 'Analyse d'une trace', CNES Toulouse, and remains hosted on the GEIPAN site.",
+   "tier": 1
+  },
+  "c-d019127157": {
+   "id": "c-d019127157",
+   "kind": "claim",
+   "node": "geipan",
+   "nodeLabel": "GEIPAN - Groupe d'Études et d'Informations sur les Phénomènes Aérospatiaux Non identifiés",
+   "source": {
+    "domain": "www.nsa.gov",
+    "text": "'French Government UFO Study', contemporaneous English-language summary submitted by Ron Westrum, held in the NSA public document collection - https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/french_gov_ufo_study.pdf",
+    "url": "https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/french_gov_ufo_study.pdf"
+   },
+   "text": "GEPAN's June 1978 five-volume report to its scientific council studied eleven high-credibility, high-strangeness cases; 'only one proved to have a conventional explanation'. 'In 10 of the 11 cases, the conclusion was that the witnesses had witnessed a material phenomenon that could not be explained as a natural phenomenon or a human device', and the report concluded that behind the phenomenon there is a 'flying machine. . . whose modes of sustenance and propulsion are beyond our knowledge'.",
+   "tier": 2
+  },
+  "c-d449509d26": {
+   "id": "c-d449509d26",
+   "kind": "claim",
+   "node": "geipan",
+   "nodeLabel": "GEIPAN - Groupe d'Études et d'Informations sur les Phénomènes Aérospatiaux Non identifiés",
+   "source": {
+    "domain": "cnes-geipan.fr",
+    "text": "https://cnes-geipan.fr/en/histoire-du-geipan",
+    "url": "https://cnes-geipan.fr/en/histoire-du-geipan"
+   },
+   "text": "Classification is by consistency (C) and residual strangeness (E), producing categories A (perfectly identified), B (probably identified), C (unidentified due to lack of data) and D (unidentified after investigation); C and D cases may be revisited if new information is supplied.",
+   "tier": 1
+  },
+  "c-e46bb89c7f": {
+   "id": "c-e46bb89c7f",
+   "kind": "claim",
+   "node": "doc-cometa-report",
+   "nodeLabel": "Les OVNI et la Défense: à quoi doit-on se préparer? (COMETA report, July 1999)",
+   "source": {
+    "domain": null,
+    "text": "COMETA report, Conclusions and Recommendations, 1999 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+    "url": null
+   },
+   "text": "Conclusion: 'A single hypothesis sufficiently takes into account the facts and, for the most part, only calls for present-day science. It is the hypothesis of extraterrestrial visitors. Advanced as of 1947 by certain U.S. military personnel, today it is discredited by a certain elite, but it is popular worldwide.'",
+   "tier": 2
+  },
+  "c-ec2871c5e8": {
+   "id": "c-ec2871c5e8",
+   "kind": "claim",
+   "node": "ev-argentina-bariloche-1995",
+   "nodeLabel": "Aerolíneas Argentinas flight AR 674, San Carlos de Bariloche, 31 July 1995",
+   "source": {
+    "domain": null,
+    "text": "James Grainger, Buenos Aires Times, 11 May 2026",
+    "url": null
+   },
+   "text": "'The case appears in a section of the released files examining investigations conducted outside the United States and references a report produced by COMETA, a French study group linked to defence and aeronautics specialists.'",
+   "tier": 2
+  },
+  "c-f98910254d": {
+   "id": "c-f98910254d",
+   "kind": "claim",
+   "node": "claude-poher",
+   "nodeLabel": "Dr Claude Poher",
+   "source": {
+    "domain": null,
+    "text": "'French Government UFO Study', document in the US National Security Agency declassified UFO document collection (submitted by Ron Westrum)",
+    "url": null
+   },
+   "text": "'GEPAN was created in 1977, under the direction of Dr. Claude Poher. Poher has now resigned, feeling that he has done everything he could do with the methods at hand. Nonetheless, the organization has not been disbanded but continues its work.'",
+   "tier": 1
+  },
+  "c-fb06cb19fc": {
+   "id": "c-fb06cb19fc",
+   "kind": "claim",
+   "node": "geipan",
+   "nodeLabel": "GEIPAN - Groupe d'Études et d'Informations sur les Phénomènes Aérospatiaux Non identifiés",
+   "source": {
+    "domain": "cnes-geipan.fr",
+    "text": "https://cnes-geipan.fr/en/histoire-du-geipan",
+    "url": "https://cnes-geipan.fr/en/histoire-du-geipan"
+   },
+   "text": "GEIPAN's FAQ states it is 'a technical department of CNES', that it 'does not involve in a security topic nor a sky and space awareness or alert service', and that 'contrary to popular belief, GEIPAN is not a research group on UFOs and extraterrestrial life, or other paranormal phenomena', using 'only recognized scientific knowledge, without speculation or unverified hypotheses'.",
+   "tier": 1
+  },
+  "c-fc9aa7d62a": {
+   "id": "c-fc9aa7d62a",
+   "kind": "claim",
+   "node": "geipan",
+   "nodeLabel": "GEIPAN - Groupe d'Études et d'Informations sur les Phénomènes Aérospatiaux Non identifiés",
+   "source": {
+    "domain": "cnes-geipan.fr",
+    "text": "https://cnes-geipan.fr/en/histoire-du-geipan",
+    "url": "https://cnes-geipan.fr/en/histoire-du-geipan"
+   },
+   "text": "'Le CNES étudie les PAN depuis 1977, date de la création du GEPAN (Groupe d'Étude des Phénomènes Aérospatiaux Non identifiés). En 1988, le GEPAN est remplacé par le SEPRA (Service d'Études des Phénomènes de Rentrées Atmosphériques).'",
+   "tier": 1
+  },
+  "e-09473aa434": {
+   "endpoints": [
+    {
+     "id": "cometa",
+     "label": "COMETA - Comité d'Études Approfondies"
+    },
+    {
+     "id": "doc-cometa-report",
+     "label": "Les OVNI et la Défense: à quoi doit-on se préparer? (COMETA report, July 1999)"
+    }
+   ],
+   "id": "e-09473aa434",
+   "kind": "edge",
+   "label": "produced the 1999 report",
+   "sources": [
+    {
+     "date": "1999-07-01",
+     "name": "COMETA report",
+     "url": "https://ia800403.us.archive.org/17/items/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D.pdf"
+    }
+   ],
+   "text": "Published as a special issue of VSD in July 1999 and delivered to Prime Minister Lionel Jospin.",
+   "tier": 1,
+   "type": "programmatic"
+  },
+  "e-1655a305b0": {
+   "endpoints": [
+    {
+     "id": "cnes",
+     "label": "Centre National d'Études Spatiales (CNES)"
+    },
+    {
+     "id": "geipan",
+     "label": "GEIPAN - Groupe d'Études et d'Informations sur les Phénomènes Aérospatiaux Non identifiés"
+    }
+   ],
+   "id": "e-1655a305b0",
+   "kind": "edge",
+   "label": "GEIPAN is a unit of CNES at Toulouse",
+   "sources": [
+    {
+     "date": "2026-03-31",
+     "name": "GEIPAN - Classification",
+     "url": "https://www.geipan.fr/fr/node/58787"
+    },
+    {
+     "date": "1999-07-01",
+     "name": "COMETA report",
+     "url": "https://ia800403.us.archive.org/17/items/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D.pdf"
+    }
+   ],
+   "text": "The French office has been hosted inside the national space agency continuously since 1977, an arrangement Norlain called unique in the world.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-2373a72f32": {
+   "endpoints": [
+    {
+     "id": "geipan",
+     "label": "GEIPAN - Groupe d'Études et d'Informations sur les Phénomènes Aérospatiaux Non identifiés"
+    },
+    {
+     "id": "cefaa",
+     "label": "CEFAA / SEFAA - Chilean anomalous aerial phenomena office, Dirección General de Aeronáutica Civil"
+    }
+   ],
+   "id": "e-2373a72f32",
+   "kind": "edge",
+   "label": "French analysts worked the Chilean Navy FLIR case",
+   "sources": [
+    {
+     "date": null,
+     "name": "https://www.huffpost.com/entry/groundbreaking-ufo-video-just-released-from-chilean_b_586d37bce4b014e7c72ee56b",
+     "url": "https://www.huffpost.com/entry/groundbreaking-ufo-video-just-released-from-chilean_b_586d37bce4b014e7c72ee56b"
+    },
+    {
+     "date": null,
+     "name": "https://www.newsweek.com/chilean-navy-id-mysterious-aircraft-caught-video-539786",
+     "url": "https://www.newsweek.com/chilean-navy-id-mysterious-aircraft-caught-video-539786"
+    }
+   ],
+   "text": "Photo and video analysts in France, including François Louange, were brought into CEFAA's investigation of the 11 November 2014 Chilean Navy infrared footage through GEIPAN. The two offices reached different conclusions - GEIPAN's analysts proposed a medium-haul aircraft venting, CEFAA rejected it - and both published. It is the clearest documented case of state UAP offices on two continents working the same tape.",
+   "tier": 2,
+   "type": "investigative"
+  },
+  "e-33d5dfd309": {
+   "endpoints": [
+    {
+     "id": "ev-argentina-bariloche-1995",
+     "label": "Aerolíneas Argentinas flight AR 674, San Carlos de Bariloche, 31 July 1995"
+    },
+    {
+     "id": "doc-cometa-report",
+     "label": "Les OVNI et la Défense: à quoi doit-on se préparer? (COMETA report, July 1999)"
+    }
+   ],
+   "id": "e-33d5dfd309",
+   "kind": "edge",
+   "label": "the US 2026 release cites COMETA as a source on the Argentine case",
+   "sources": [
+    {
+     "date": "2026-05-11",
+     "name": "Buenos Aires Times",
+     "url": "https://www.batimes.com.ar/news/argentina/bariloche-sighting-cited-in-newly-released-pentagon-files-on-ufos.phtml"
+    }
+   ],
+   "text": "The Buenos Aires Times reports that the released file sits in a section on investigations conducted outside the United States and 'references a report produced by COMETA'.",
+   "tier": 2,
+   "type": "research"
+  },
+  "e-4d2a295012": {
+   "endpoints": [
+    {
+     "id": "bernard-norlain",
+     "label": "Général Bernard Norlain"
+    },
+    {
+     "id": "cometa",
+     "label": "COMETA - Comité d'Études Approfondies"
+    }
+   ],
+   "id": "e-4d2a295012",
+   "kind": "edge",
+   "label": "IHEDN director who sponsored the project",
+   "sources": [
+    {
+     "date": "1999-07-01",
+     "name": "COMETA report",
+     "url": "https://ia800403.us.archive.org/17/items/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D.pdf"
+    }
+   ],
+   "text": "Norlain's own preface records that Letty came to his IHEDN office in March 1995 and that he referred the project to the Auditors Association, which backed it.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-59e4315663": {
+   "endpoints": [
+    {
+     "id": "sky-canada-project",
+     "label": "Sky Canada Project - Office of the Chief Science Advisor of Canada"
+    },
+    {
+     "id": "geipan",
+     "label": "GEIPAN - Groupe d'Études et d'Informations sur les Phénomènes Aérospatiaux Non identifiés"
+    }
+   ],
+   "id": "e-59e4315663",
+   "kind": "edge",
+   "label": "identifies GEIPAN as a model and recommends partnership",
+   "sources": [
+    {
+     "date": "2025-06-01",
+     "name": "Sky Canada Project report",
+     "url": "https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada"
+    },
+    {
+     "date": null,
+     "name": "https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada",
+     "url": "https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada"
+    }
+   ],
+   "text": "Canada's Office of the Chief Science Advisor examined GEIPAN in detail, told Canada that 'the example of GEIPAN in France is worth considering' when establishing a dedicated service, and recommended in recommendation 13 that Canada's lead organisation partner with 'AARO and NASA (U.S.A.), GEIPAN (France), and SEFAA (Chile)'.",
+   "tier": 1,
+   "type": "research"
+  },
+  "e-5dcf23d494": {
+   "endpoints": [
+    {
+     "id": "claude-poher",
+     "label": "Dr Claude Poher"
+    },
+    {
+     "id": "gepan",
+     "label": "GEPAN - Groupe d'Étude des Phénomènes Aérospatiaux Non-identifiés"
+    }
+   ],
+   "id": "e-5dcf23d494",
+   "kind": "edge",
+   "label": "founding director 1977-1978",
+   "sources": [
+    {
+     "date": "2024-02-24",
+     "name": "NSA declassified UFO collection - French Government UFO Study",
+     "url": "https://web.archive.org/web/20240224094347/https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/french_gov_ufo_study.pdf"
+    }
+   ],
+   "text": "The NSA-held contemporaneous assessment records GEPAN's creation in 1977 under Poher and his resignation.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-607501aa64": {
+   "endpoints": [
+    {
+     "id": "cometa",
+     "label": "COMETA - Comité d'Études Approfondies"
+    },
+    {
+     "id": "l-france",
+     "label": "France"
+    }
+   ],
+   "id": "e-607501aa64",
+   "kind": "edge",
+   "label": "French private defence committee",
+   "sources": [
+    {
+     "date": "1999-07-01",
+     "name": "COMETA, 'UFOs and Defense: What Should We Prepare For?', 1999, title page and foreword",
+     "url": "https://ia800403.us.archive.org/17/items/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D.pdf"
+    },
+    {
+     "date": null,
+     "name": "https://en.wikipedia.org/wiki/COMETA_report",
+     "url": "https://en.wikipedia.org/wiki/COMETA_report"
+    }
+   ],
+   "text": "The report states its own legal status on its title page: 'COMETA, an association governed by the Law of July 1, 1901', the French statute for non-profit associations. Its foreword, by former CNES chairman Andre Lebeau, and the account by the former director of the Institut des Hautes Etudes de Defense Nationale place its formation in the IHEDN Auditors Association after General Denis Letty approached IHEDN in March 1995.",
+   "tier": 2,
+   "type": "geographic"
+  },
+  "e-74a2638135": {
+   "endpoints": [
+    {
+     "id": "jj-velasco",
+     "label": "Jean-Jacques Velasco"
+    },
+    {
+     "id": "cometa",
+     "label": "COMETA - Comité d'Études Approfondies"
+    }
+   ],
+   "id": "e-74a2638135",
+   "kind": "edge",
+   "label": "serving head of SEPRA contributed to the report",
+   "sources": [
+    {
+     "date": "1999-07-01",
+     "name": "COMETA report",
+     "url": "https://ia800403.us.archive.org/17/items/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D.pdf"
+    }
+   ],
+   "text": "Letty names 'Jean-Jacques Velasco, Head of SEPRA at CNES' among those who gave testimony or contributed.",
+   "tier": 1,
+   "type": "witness-chain"
+  },
+  "e-834c8e64c5": {
+   "endpoints": [
+    {
+     "id": "denis-letty",
+     "label": "Général Denis Letty"
+    },
+    {
+     "id": "cometa",
+     "label": "COMETA - Comité d'Études Approfondies"
+    }
+   ],
+   "id": "e-834c8e64c5",
+   "kind": "edge",
+   "label": "founded and chaired COMETA",
+   "sources": [
+    {
+     "date": "1999-07-01",
+     "name": "COMETA report",
+     "url": "https://ia800403.us.archive.org/17/items/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D.pdf"
+    }
+   ],
+   "text": "Letty signs the report's foreword as chairman of the association and names the members and contributors himself.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-83b2914e70": {
+   "endpoints": [
+    {
+     "id": "cometa",
+     "label": "COMETA - Comité d'Études Approfondies"
+    },
+    {
+     "id": "project-blue-book",
+     "label": "Project Blue Book"
+    }
+   ],
+   "id": "e-83b2914e70",
+   "kind": "edge",
+   "label": "adopts Hynek's Blue Book-era classification",
+   "sources": [
+    {
+     "date": "1999-07-01",
+     "name": "COMETA, 'UFOs and Defense: What Should We Prepare For?', 1999, chapter 7.2",
+     "url": "https://ia800403.us.archive.org/17/items/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D.pdf"
+    }
+   ],
+   "text": "COMETA states that the strangest category D cases 'are generally labeled CE3s (close encounters of the third kind) according to the classification proposed by Professor A. Hynek, an astronomer and consultant to the USAF, within the context of the Blue Book Project'. A committee of retired French flag officers adopting Blue Book's own consultant's taxonomy is the inheritance this edge records.",
+   "tier": 1,
+   "type": "research"
+  },
+  "e-bdea8f554a": {
+   "endpoints": [
+    {
+     "id": "uk-mod-ufo-desk",
+     "label": "Ministry of Defence UFO Desk (Secretariat (Air Staff) / Directorate of Air Staff)"
+    },
+    {
+     "id": "geipan",
+     "label": "GEIPAN - Groupe d'Études et d'Informations sur les Phénomènes Aérospatiaux Non identifiés"
+    }
+   ],
+   "id": "e-bdea8f554a",
+   "kind": "edge",
+   "label": "the two opposite answers to the same problem",
+   "sources": [
+    {
+     "date": "2026-03-31",
+     "name": "GEIPAN - Classification",
+     "url": "https://www.geipan.fr/fr/node/58787"
+    },
+    {
+     "date": "2013-06-01",
+     "name": "TNA UFO files",
+     "url": "https://web.archive.org/web/20130701000000/http://www.nationalarchives.gov.uk/ufos/"
+    }
+   ],
+   "text": "France put the file in a civil science agency with a public archive and it is still running; Britain kept it in a defence secretariat with no project name and closed it. Reasoning: contrasting institutional siting and survival of the two arrangements over the same period.",
+   "tier": 3,
+   "type": "research"
+  },
+  "e-bef625fd7d": {
+   "endpoints": [
+    {
+     "id": "ihedn",
+     "label": "Institut des Hautes Études de Défense Nationale (IHEDN)"
+    },
+    {
+     "id": "gepan",
+     "label": "GEPAN - Groupe d'Étude des Phénomènes Aérospatiaux Non-identifiés"
+    }
+   ],
+   "id": "e-bef625fd7d",
+   "kind": "edge",
+   "label": "1976 IHEDN committee produced GEPAN",
+   "sources": [
+    {
+     "date": "1999-07-01",
+     "name": "COMETA report",
+     "url": "https://ia800403.us.archive.org/17/items/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D.pdf"
+    }
+   ],
+   "text": "COMETA's own introduction: a 1976 IHEDN committee chaired by General Blanchard of the Gendarmerie Nationale opened the file and its recommendations produced GEPAN.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-c907ba4361": {
+   "endpoints": [
+    {
+     "id": "cometa",
+     "label": "COMETA - Comité d'Études Approfondies"
+    },
+    {
+     "id": "roswell-1947",
+     "label": "Roswell Incident"
+    }
+   ],
+   "id": "e-c907ba4361",
+   "kind": "edge",
+   "label": "dedicated appendix on Roswell and disinformation",
+   "sources": [
+    {
+     "date": "1999-07-01",
+     "name": "COMETA, 'UFOs and Defense: What Should We Prepare For?', 1999, Appendix 5",
+     "url": "https://ia800403.us.archive.org/17/items/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D.pdf"
+    }
+   ],
+   "text": "COMETA's Appendix 5 is titled 'The Roswell Affair - Disinformation'. A committee of retired French flag officers treating Roswell as a subject requiring an appendix in a defence study is itself part of what this edge records; the report's own framing places it under disinformation rather than under evidence.",
+   "tier": 1,
+   "type": "research"
+  },
+  "e-dd7bf56fd3": {
+   "endpoints": [
+    {
+     "id": "sepra",
+     "label": "SEPRA - Service d'Expertise des Phénomènes de Rentrée Atmosphérique / Phénomènes Rares Aérospatiaux"
+    },
+    {
+     "id": "geipan",
+     "label": "GEIPAN - Groupe d'Études et d'Informations sur les Phénomènes Aérospatiaux Non identifiés"
+    }
+   ],
+   "id": "e-dd7bf56fd3",
+   "kind": "edge",
+   "label": "renamed GEIPAN in 2005",
+   "sources": [
+    {
+     "date": "2026-01-01",
+     "name": "GEIPAN - Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/GEIPAN"
+    }
+   ],
+   "text": "Jacques Patenet succeeded Velasco under the GEIPAN name.",
+   "tier": 2,
+   "type": "temporal"
+  },
+  "e-de9cd7c8cd": {
+   "endpoints": [
+    {
+     "id": "gepan",
+     "label": "GEPAN - Groupe d'Étude des Phénomènes Aérospatiaux Non-identifiés"
+    },
+    {
+     "id": "sepra",
+     "label": "SEPRA - Service d'Expertise des Phénomènes de Rentrée Atmosphérique / Phénomènes Rares Aérospatiaux"
+    }
+   ],
+   "id": "e-de9cd7c8cd",
+   "kind": "edge",
+   "label": "renamed SEPRA in 1988",
+   "sources": [
+    {
+     "date": "2026-01-01",
+     "name": "GEIPAN - Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/GEIPAN"
+    }
+   ],
+   "text": "GEPAN became SEPRA in 1988 and the acronym was redefined in 2000 before the 2005 renaming to GEIPAN.",
+   "tier": 2,
+   "type": "temporal"
+  },
+  "e-e655f31171": {
+   "endpoints": [
+    {
+     "id": "doc-cometa-report",
+     "label": "Les OVNI et la Défense: à quoi doit-on se préparer? (COMETA report, July 1999)"
+    },
+    {
+     "id": "sepra",
+     "label": "SEPRA - Service d'Expertise des Phénomènes de Rentrée Atmosphérique / Phénomènes Rares Aérospatiaux"
+    }
+   ],
+   "id": "e-e655f31171",
+   "kind": "edge",
+   "label": "recommended boosting SEPRA's resources and foreign relations status",
+   "sources": [
+    {
+     "date": "1999-07-01",
+     "name": "COMETA report",
+     "url": "https://ia800403.us.archive.org/17/items/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D.pdf"
+    }
+   ],
+   "text": "Recommendation 2 asks the French state to expand the very office whose serving head had contributed to the report.",
+   "tier": 1,
+   "type": "legislative"
+  },
+  "e-e810053047": {
+   "endpoints": [
+    {
+     "id": "cometa",
+     "label": "COMETA - Comité d'Études Approfondies"
+    },
+    {
+     "id": "l-paris",
+     "label": "Paris, France"
+    }
+   ],
+   "id": "e-e810053047",
+   "kind": "edge",
+   "label": "IHEDN origin; delivered to the Prime Minister",
+   "sources": [
+    {
+     "date": "1999-07-01",
+     "name": "COMETA, 'UFOs and Defense: What Should We Prepare For?', 1999, foreword by General Bernard Norlain",
+     "url": "https://ia800403.us.archive.org/17/items/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D.pdf"
+    },
+    {
+     "date": null,
+     "name": "https://en.wikipedia.org/wiki/COMETA_report citing Robert Roussel, 'Ovnis 1947-2017. Le choix du déni', L'Harmattan, 2018, p. 214",
+     "url": "https://en.wikipedia.org/wiki/COMETA_report citing Robert Roussel, 'Ovnis 1947-2017. Le choix du déni', L'Harmattan, 2018, p. 214"
+    }
+   ],
+   "text": "TIER 3. What the report establishes: General Norlain, then director of the IHEDN, writes that 'when General Letty visited me in March 1995 at my office at IHEDN to explain to me his project for creating a new fact-finding committee on UFOs, I assured him of my interest and referred him to the management of the IHEDN Auditors Association'. What it does not establish is the city. Paris appears nowhere in the report in connection with COMETA; the IHEDN sits at the Ecole militaire in Paris, but that is knowledge brought to the document rather than read from it. Nor does the report record delivery to the head of government - it says only that its authors believed 'sufficient questions of national interest are raised for the Chief of State and the Prime Minister to be provided with this information.'",
+   "tier": 3,
+   "type": "institutional"
+  },
+  "e-fd1c239a20": {
+   "endpoints": [
+    {
+     "id": "geipan",
+     "label": "GEIPAN - Groupe d'Études et d'Informations sur les Phénomènes Aérospatiaux Non identifiés"
+    },
+    {
+     "id": "l-france",
+     "label": "France"
+    }
+   ],
+   "id": "e-fd1c239a20",
+   "kind": "edge",
+   "label": "French national UAP office, CNES Toulouse",
+   "sources": [
+    {
+     "date": "2026-08-25",
+     "name": "CNES, GEIPAN project page",
+     "url": "https://www.cnes.fr/en/projects/geipan"
+    },
+    {
+     "date": null,
+     "name": "https://cnes.fr/en/projects/geipan",
+     "url": "https://cnes.fr/en/projects/geipan"
+    },
+    {
+     "date": null,
+     "name": "https://cnes-geipan.fr/en/histoire-du-geipan",
+     "url": "https://cnes-geipan.fr/en/histoire-du-geipan"
+    }
+   ],
+   "text": "CNES describes GEIPAN as 'the French UAP research and information group created by CNES in 1977', based in Toulouse, overseen by COPEIPAN - a steering committee of gendarmerie, police, air and space force and academic representatives - with status 'In operation' and an indefinite lifetime.",
+   "tier": 1,
+   "type": "geographic"
+  }
+ },
+ "claimed": [
+  {
+   "cite": [
+    "c-b94dfb6f81",
+    "c-3e76177407",
+    "c-e46bb89c7f"
+   ],
+   "text": "COMETA's report concludes that the studies show the almost certain physical reality of completely unknown flying objects apparently operated by intelligent beings, that secret craft of earthly origin can explain only a minority of cases, and that the single hypothesis that accounts for the facts is that of extraterrestrial visitors."
+  },
+  {
+   "cite": [
+    "c-3259c3ccac",
+    "c-2e388c5f9c",
+    "c-c158562a4c",
+    "c-45eb2e59ca"
+   ],
+   "text": "Letty's foreword argues that well-documented sightings by credible witnesses force consideration of every hypothesis, the extraterrestrial one in particular. The report puts its category D cases at 4 to 5% and says that with so many such cases the file can no longer be classed as needing no action."
+  },
+  {
+   "cite": [
+    "c-a3bbde74ac",
+    "c-429c3568ac"
+   ],
+   "text": "COMETA says about a hundred GEPAN/SEPRA investigations included several that showed the physical presence of an unknown phenomenon, naming Trans-en-Provence and Amaranth, and that of twelve French aeronautical cases only three or four fall into category D."
+  },
+  {
+   "cite": [
+    "c-c3ce2a7341",
+    "e-e655f31171",
+    "c-3f4e118742",
+    "c-410185394c",
+    "c-63d0e42150",
+    "c-0a4f4785e1"
+   ],
+   "text": "Its recommendations are to boost SEPRA's resources and foreign standing, create a unit at the highest level of the state to work with it, prepare for a spectacular manifestation, warn defence communication services about disinformation, and make diplomatic approaches urging the United States to collaborate."
+  },
+  {
+   "cite": [
+    "c-46f1a9ee0d",
+    "c-4576d6999f",
+    "c-b296104ef9"
+   ],
+   "text": "COMETA's members, as printed in the report, include retired generals, an admiral, a weapons engineer general, a Police Nationale chief and a research director at the national aerospace research office ONERA."
+  },
+  {
+   "cite": [
+    "c-cbb036df64",
+    "c-d019127157",
+    "c-b997ea5fde",
+    "c-84f29d6db7"
+   ],
+   "text": "The same Westrum summary, held in the NSA's collection, says GEPAN's 1978 report found in 10 of 11 cases that witnesses had seen a material phenomenon that could not be explained as natural or as a human device, and that behind the phenomenon there was a flying machine whose means of lift and propulsion were beyond present knowledge; it praises the care of the investigations against the Condon Report."
+  },
+  {
+   "cite": [
+    "c-684d64d54e",
+    "c-4038428864"
+   ],
+   "text": "Prime Minister Lionel Jospin's chief of staff, Olivier Schrameck, said Jospin read and annotated the report to mark his interest; the government made no official response. One account says Velasco handed the report to Jospin in person."
+  },
+  {
+   "cite": [
+    "c-ec2871c5e8",
+    "e-33d5dfd309"
+   ],
+   "text": "The US Department of War's 2026 release is reported to cite the COMETA report in its section on investigations outside the United States, in connection with the 1995 Bariloche airliner case."
+  }
+ ],
+ "contested": [
+  {
+   "cite": [
+    "c-1ae315f755",
+    "c-0709a0e7b6",
+    "c-c158562a4c",
+    "c-fb06cb19fc"
+   ],
+   "text": "The state office and the private report read the numbers differently: COMETA put its category D at 4 to 5% in 1999, while GEIPAN's 2026 figure is 3.1 to 3.2%, and GEIPAN itself disclaims being a UFO or extraterrestrial research group at all."
+  },
+  {
+   "cite": [
+    "c-5940700193",
+    "c-74210ec0b7"
+   ],
+   "text": "The records differ on GEIPAN's size: its own description gives two full-time CNES staff, while the Sky Canada report gives three full-time employees and over 20 trained volunteers."
+  },
+  {
+   "cite": [
+    "e-e810053047"
+   ],
+   "text": "The COMETA report does not itself record delivery to the head of government; it says only that its authors thought the President and Prime Minister should be informed, and it never names Paris in connection with the association."
+  },
+  {
+   "cite": [
+    "c-c2b2acda8b",
+    "e-607501aa64",
+    "c-b69693cb4d"
+   ],
+   "text": "COMETA was a private association under the 1901 law, operating informally from 1996, registered in 1999 and dormant from about 2006, not a government body; its report first appeared as a special issue of the magazine VSD."
+  },
+  {
+   "cite": [
+    "c-3f546b2497",
+    "e-2373a72f32"
+   ],
+   "text": "When French analysts, through GEIPAN, worked the 2014 Chilean Navy infrared footage, they proposed an airliner venting wastewater, which the Chilean office rejected; independent analysts later matched the footage to scheduled flights."
+  }
+ ],
  "essays": [],
  "focusEra": "1",
  "id": "france",
  "kind": "nation",
- "lead": null,
- "members": [],
+ "lead": {
+  "cite": [
+   "c-fc9aa7d62a",
+   "c-01b64993f7",
+   "c-819c9d9652",
+   "c-e46bb89c7f",
+   "c-c2b2acda8b"
+  ],
+  "text": "France has studied unidentified aerospace phenomena inside its national space agency, CNES, since 1977: first as GEPAN, then SEPRA from 1988, and since 2005 as GEIPAN, which publishes its case files. Separately, in 1999 a private group of retired generals and defence auditors, COMETA, published a report arguing for the extraterrestrial hypothesis."
+ },
+ "members": [
+  {
+   "cls": "institution",
+   "id": "geipan",
+   "label": "GEIPAN - Groupe d'Études et d'Informations sur les Phénomènes Aérospatiaux Non identifiés",
+   "role": "institution"
+  },
+  {
+   "cls": "program",
+   "id": "gepan",
+   "label": "GEPAN - Groupe d'Étude des Phénomènes Aérospatiaux Non-identifiés",
+   "role": "programme"
+  },
+  {
+   "cls": "program",
+   "id": "sepra",
+   "label": "SEPRA - Service d'Expertise des Phénomènes de Rentrée Atmosphérique / Phénomènes Rares Aérospatiaux",
+   "role": "programme"
+  },
+  {
+   "cls": "institution",
+   "id": "cometa",
+   "label": "COMETA - Comité d'Études Approfondies",
+   "role": "institution"
+  },
+  {
+   "cls": "document",
+   "id": "doc-cometa-report",
+   "label": "Les OVNI et la Défense: à quoi doit-on se préparer? (COMETA report, July 1999)",
+   "role": "document"
+  },
+  {
+   "cls": "institution",
+   "id": "cnes",
+   "label": "Centre National d'Études Spatiales (CNES)",
+   "role": "institution"
+  },
+  {
+   "cls": "person",
+   "id": "claude-poher",
+   "label": "Dr Claude Poher",
+   "role": "investigator"
+  },
+  {
+   "cls": "person",
+   "id": "jj-velasco",
+   "label": "Jean-Jacques Velasco",
+   "role": "investigator"
+  },
+  {
+   "cls": "person",
+   "id": "bernard-norlain",
+   "label": "Général Bernard Norlain",
+   "role": "official"
+  },
+  {
+   "cls": "person",
+   "id": "denis-letty",
+   "label": "Général Denis Letty",
+   "role": "claimant"
+  },
+  {
+   "cls": "person",
+   "id": "andre-lebeau",
+   "label": "Professeur André Lebeau",
+   "role": "researcher"
+  },
+  {
+   "cls": "institution",
+   "id": "ihedn",
+   "label": "Institut des Hautes Études de Défense Nationale (IHEDN)",
+   "role": "institution"
+  },
+  {
+   "cls": "location",
+   "id": "l-toulouse",
+   "label": "Toulouse, France",
+   "role": "place"
+  },
+  {
+   "cls": "location",
+   "id": "l-france",
+   "label": "France",
+   "role": "place"
+  },
+  {
+   "cls": "location",
+   "id": "l-paris",
+   "label": "Paris, France",
+   "role": "place"
+  },
+  {
+   "cls": "program",
+   "id": "sky-canada-project",
+   "label": "Sky Canada Project - Office of the Chief Science Advisor of Canada",
+   "role": "programme"
+  },
+  {
+   "cls": "institution",
+   "id": "cefaa",
+   "label": "CEFAA / SEFAA - Chilean anomalous aerial phenomena office, Dirección General de Aeronáutica Civil",
+   "role": "institution"
+  },
+  {
+   "cls": "event",
+   "id": "ev-argentina-bariloche-1995",
+   "label": "Aerolíneas Argentinas flight AR 674, San Carlos de Bariloche, 31 July 1995",
+   "role": "event"
+  },
+  {
+   "cls": "program",
+   "id": "project-blue-book",
+   "label": "Project Blue Book",
+   "role": "programme"
+  },
+  {
+   "cls": "event",
+   "id": "roswell-1947",
+   "label": "Roswell Incident",
+   "role": "event"
+  },
+  {
+   "cls": "institution",
+   "id": "uk-mod-ufo-desk",
+   "label": "Ministry of Defence UFO Desk (Secretariat (Air Staff) / Directorate of Air Staff)",
+   "role": "institution"
+  }
+ ],
  "notes": "Start-here flag 13.",
- "questions": [],
- "record": [],
- "related": [],
+ "questions": [
+  "Did Velasco hand the COMETA report to Jospin in person, as one account says, and what did Jospin's annotations say?",
+  "What became of the 120 or 140 secret copies of GEPAN's 1978 report, and is the full five-volume text available?",
+  "Why do GEIPAN's own figures for its staff differ from those the Sky Canada report gives?",
+  "What were Velasco's views and activity after he left SEPRA in 2004?",
+  "What are Norlain's exact dates as director of IHEDN, and is Letty still living?"
+ ],
+ "record": [
+  {
+   "cite": [
+    "c-15e1a52cb3",
+    "c-8bb11ca095",
+    "c-19d8ee4735",
+    "e-1655a305b0",
+    "e-fd1c239a20"
+   ],
+   "text": "GEIPAN is a CNES unit at Toulouse, listed by CNES as in operation for an indefinite lifetime, steered by a committee of representatives of the Gendarmerie, civil aviation, meteorology, the Air Force, scientific research and CNES, and supported by about thirty volunteer experts and field investigators."
+  },
+  {
+   "cite": [
+    "c-d449509d26",
+    "c-5ceea9f638",
+    "c-1ae315f755",
+    "c-93b473a521"
+   ],
+   "text": "GEIPAN classifies each case by the consistency of the testimony and its residual strangeness, into A (perfectly identified), B (probably identified), C (unidentified for lack of data) and D (unidentified after investigation); its statistics dated 11 August 2026 cover 3,381 cases, of which 106, 3.1%, are class D."
+  },
+  {
+   "cite": [
+    "c-3a14aa0454",
+    "c-5940700193"
+   ],
+   "text": "GEIPAN says it receives more than 1,000 contacts a year, of which about 150 to 200 lead to an investigation published on its site with the witnesses kept anonymous; its team is two full-time CNES staff, funded from CNES's general subsidy rather than a dedicated budget."
+  },
+  {
+   "cite": [
+    "c-fb06cb19fc"
+   ],
+   "text": "GEIPAN's own FAQ states that it is a technical department of CNES, not a security or alert service, and not a research group on UFOs or extraterrestrial life, working only from recognised scientific knowledge."
+  },
+  {
+   "cite": [
+    "c-147fd05505",
+    "c-49e6046353"
+   ],
+   "text": "A contemporaneous English-language summary by Ron Westrum of GEPAN's 1978 report, held in the NSA's declassified UFO collection, notes that the original report was limited to 120 or 140 copies and was secret, and that GEPAN was alerted to cases by Gendarmerie teletype."
+  },
+  {
+   "cite": [
+    "c-ce12a5c8a7"
+   ],
+   "text": "GEPAN's investigation of the Trans-en-Provence physical-trace case of 8 January 1981 was published as Note Technique no. 16 and is still hosted on the GEIPAN site."
+  },
+  {
+   "cite": [
+    "c-7b72553d05",
+    "c-74da07df40",
+    "c-7e630bff46",
+    "c-50451eb2e9",
+    "c-1c1585b19e"
+   ],
+   "text": "In his COMETA preface Norlain records that the IHEDN auditors' first report had favoured creating within CNES the only civilian government agency in the world dedicated to UFOs, and asks that COMETA's recommendations be examined and implemented; Lebeau's foreword is titled as stripping the phenomenon of its irrational layer."
+  },
+  {
+   "cite": [
+    "e-83b2914e70",
+    "e-c907ba4361"
+   ],
+   "text": "COMETA's report adopts Hynek's Blue Book-era classification for its strangest cases and carries an appendix titled The Roswell Affair - Disinformation."
+  },
+  {
+   "cite": [
+    "c-7bc508ee22",
+    "e-59e4315663"
+   ],
+   "text": "The Sky Canada Project held GEIPAN up as a model, recording that only 3.2% of its 3,188 cases by 2025 remained unidentified after investigation, and recommended that Canada partner with it."
+  }
+ ],
+ "related": [
+  "office-models",
+  "uk",
+  "canada",
+  "latin-america",
+  "ussr",
+  "blue-book",
+  "roswell-1947"
+ ],
  "section": "other-nations",
  "span": {
   "from": "1977",
   "to": "2026"
  },
- "status": "draft",
- "summary": [],
+ "status": "verified",
+ "summary": [
+  {
+   "cite": [
+    "c-7754a4dd83",
+    "e-bef625fd7d",
+    "c-f98910254d",
+    "e-5dcf23d494"
+   ],
+   "text": "A 1976 committee of the defence studies institute IHEDN, chaired by General Blanchard of the Gendarmerie, opened the file, and its recommendations were followed in creating GEPAN inside CNES in 1977 under Claude Poher."
+  },
+  {
+   "cite": [
+    "c-01b64993f7",
+    "c-819c9d9652",
+    "e-de9cd7c8cd",
+    "e-dd7bf56fd3"
+   ],
+   "text": "GEPAN became SEPRA in 1988, the permanent CNES unit that also monitored orbital debris and risk objects; after an audit ordered in 2001, CNES replaced SEPRA with GEIPAN in 2005, with a recommendation to inform the public with full transparency, and began publishing the archives in 2007."
+  },
+  {
+   "cite": [
+    "e-834c8e64c5",
+    "e-4d2a295012",
+    "e-09473aa434",
+    "c-50451eb2e9",
+    "e-74a2638135"
+   ],
+   "text": "COMETA, led by General Denis Letty and sponsored through the IHEDN auditors' association after Letty went to General Bernard Norlain in 1995, produced its report in July 1999 with a foreword by the former CNES chairman Andre Lebeau and contributions from SEPRA's head, Jean-Jacques Velasco."
+  },
+  {
+   "cite": [
+    "e-bdea8f554a"
+   ],
+   "text": "On the board's reading, France and Britain gave opposite answers to the same problem: France placed the file in a civil science agency with a public archive, which still runs, while Britain kept it in a defence secretariat and closed it."
+  }
+ ],
  "title": "France: GEPAN, SEPRA, GEIPAN and COMETA"
 }

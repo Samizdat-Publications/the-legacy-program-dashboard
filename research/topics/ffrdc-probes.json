@@ -30,7 +30,7 @@
   "ffrdc-mechanism"
  ],
  "essays": [],
- "status": "drafted",
+ "status": "verified",
  "notes": "Start-here flag 6. UAP Gerb's investigations are a researcher's claims and are framed as such. The three FAR 35.017 claims authored under a collapsed FFRDC domain node belong here.",
  "appendixT": "ffrdc-probes",
  "unplacedClaims": [
@@ -54,7 +54,7 @@
   }
  ],
  "lead": {
-  "text": "Federally funded research and development centres are private non-profits with privileged access to government data. In May 2026 Rep. Eric Burlison sent records demands to MIT Lincoln Laboratory and MITRE, and named RAND and the Aerospace Corporation as on his trail; in August a pseudonymous researcher, UAP Gerb, published an investigation alleging that MITRE has helped reverse-engineer recovered technology since 1958. The regulation and the letters are on record; the custody allegation is a researcher's claim.",
+  "text": "Under the federal acquisition rules, federally funded research and development centres have access to government and supplier data beyond that of a normal contractor. In May 2026 Rep. Eric Burlison sent records demands to MIT Lincoln Laboratory and MITRE, and named RAND and the Aerospace Corporation as on his trail; in August a pseudonymous researcher, UAP Gerb, published an investigation alleging that MITRE has helped reverse-engineer recovered technology since 1958. The regulation and the letters are on record; the custody allegation is a researcher's claim.",
   "cite": [
    "c-30a2ceae8d",
    "c-18b58db71b",
@@ -226,6 +226,13 @@
     "e-02d95526ad",
     "e-771cf1b726"
    ]
+  },
+  {
+   "text": "MITRE's leadership page lists Dana (Keoki) Jackson as Senior Vice President and General Manager of MITRE National Security, the unit that contains its National Security Engineering Center.",
+   "cite": [
+    "c-b3951ac80d",
+    "e-b363c2a62a"
+   ]
   }
  ],
  "claimed": [
@@ -298,6 +305,12 @@
     "c-5a6c021232",
     "c-137a1cf3c8",
     "c-ce95192bff"
+   ]
+  },
+  {
+   "text": "The board infers that records in Burlison's request categories, such as special and controlled access programmes, materials analysis and classification guides, would sit with the National Security Engineering Center under Jackson rather than with MITRE's civil FFRDCs, because it is MITRE's only FFRDC sponsored by defence and intelligence.",
+   "cite": [
+    "c-6a1956c602"
    ]
   }
  ],
@@ -573,6 +586,10 @@
   {
    "id": "gerb-battelle-investigation",
    "role": "document"
+  },
+  {
+   "id": "dana-keoki-jackson",
+   "role": "contractor"
   }
  ],
  "questions": [

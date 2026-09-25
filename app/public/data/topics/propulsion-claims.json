@@ -14,25 +14,2456 @@
   "yamato-1"
  ],
  "appendixT": "propulsion-claims",
- "cites": {},
- "claimed": [],
- "contested": [],
+ "cites": {
+  "c-04f88b0ddd": {
+   "id": "c-04f88b0ddd",
+   "kind": "claim",
+   "node": "conventional-prompt-global-strike",
+   "nodeLabel": "Conventional Prompt Global Strike",
+   "source": {
+    "domain": null,
+    "text": "Danny Jones Podcast, ep. 224, 19 February 2024, 3:03:15 to 3:04:55, mapped at research/leads/dannyjones-corpus-33.md",
+    "url": null
+   },
+   "text": "On the Danny Jones Podcast, episode 224, 19 February 2024, between 3:03:15 and 3:04:55, Daniel Sheehan named Prompt Global Strike as an effort to use reverse-engineered craft propulsion for a two-minute missile strike into Russia or China, tied to the congressional districts containing Wright-Patterson Air Force Base and Redstone Arsenal. The CRS report contradicts both halves: it traces every booster to an existing American ballistic missile and states the goal as striking targets in under an hour.",
+   "tier": 2
+  },
+  "c-06ec5a3c13": {
+   "id": "c-06ec5a3c13",
+   "kind": "claim",
+   "node": "millis-tm-2004-213082",
+   "nodeLabel": "NASA/TM-2004-213082, 'Prospects for Breakthrough Propulsion from Physics' (2004)",
+   "source": {
+    "domain": "ntrs.nasa.gov",
+    "text": "NASA/TM-2004-213082, Marc G. Millis, 'Prospects for Breakthrough Propulsion from Physics', NASA Glenn Research Center, 19 pages, https://ntrs.nasa.gov/api/citations/20040070788/downloads/20040070788.pdf , opened 2026-09-19",
+    "url": "https://ntrs.nasa.gov/api/citations/20040070788/downloads/20040070788.pdf"
+   },
+   "text": "Useful to the board as a dating of a term of art the UAP literature treats as technical: NASA recorded in 2004 that 'metric engineering' had emerged at aerospace conferences and that its origin was unknown.",
+   "tier": 1
+  },
+  "c-159e4b2f06": {
+   "id": "c-159e4b2f06",
+   "kind": "claim",
+   "node": "dird-mhd-air-breathing-propulsion-and-power",
+   "nodeLabel": "MHD Air Breathing Propulsion and Power for Aerospace Applications",
+   "source": {
+    "domain": "documents2.theblackvault.com",
+    "text": "Defense Intelligence Reference Document DIA-08-1011-006, 'MHD Air Breathing Propulsion and Power for Aerospace Applications', 21 November 2010, ICOD 20 July 2010, 33 pages as released, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_33-DIRD_MHD_Air_Breathing_Propulsion_and_Power_for_Aerospace_Applications.pdf , opened 2026-09-19",
+    "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_33-DIRD_MHD_Air_Breathing_Propulsion_and_Power_for_Aerospace_Applications.pdf"
+   },
+   "text": "Its finding on the concept the popular literature most often reaches for, verbatim: 'A well-publicized Ajax concept of MHD energy bypass has been shown to be meaningless below at least Mach 12. In contrast, a new \"reverse energy bypass\" with Virtual Cowl is potentially practical for air-breathing hypersonic vehicles.'",
+   "tier": 1
+  },
+  "c-15b334c53a": {
+   "id": "c-15b334c53a",
+   "kind": "claim",
+   "node": "dird-warp-drive-dark-energy-and-the",
+   "nodeLabel": "Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions",
+   "source": {
+    "domain": "ufos-scientificresearch.blogspot.com",
+    "text": "https://ufos-scientificresearch.blogspot.com/2018/06/those-defense-intelligence-reference.html",
+    "url": "https://ufos-scientificresearch.blogspot.com/2018/06/those-defense-intelligence-reference.html"
+   },
+   "text": "One of the first two DIRDs to reach the public internet, appearing on a website operated by Corey Goode in an item dated 18 December 2017. Davis confirmed by email to the researcher Isaac Koi that the circulating copy was genuine.",
+   "tier": 2
+  },
+  "c-16bf33609a": {
+   "id": "c-16bf33609a",
+   "kind": "claim",
+   "node": "dird-antigravity-for-aerospace-applications",
+   "nodeLabel": "Antigravity for Aerospace Applications",
+   "source": {
+    "domain": "documents2.theblackvault.com",
+    "text": "Defense Intelligence Reference Document DIA-08-1003-018, 'Antigravity for Aerospace Applications', 30 March 2010, ICOD 1 December 2009, 45 pages as released, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_19-DIRD_Antigravity_for_Aerospace_Applications.pdf , opened 2026-09-19",
+    "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_19-DIRD_Antigravity_for_Aerospace_Applications.pdf"
+   },
+   "text": "Its conclusion, 'The Way Forward', verbatim in part: 'This report has reviewed and analyzed a number of antigravity concepts that are found within Newtonian gravity theory, General Relativity Theory, semi-classical quantum gravity theory, quantum field theory, and nonretarded quantum interatomic dispersion force theory. One found that plausible mechanisms exist within Newtonian and general relativistic theories whereby one could embody a realistic device that produces a significant antigravity force. However, one discovered that there are daunting technical challenges that arise in each of the proposed embodiments.'",
+   "tier": 1
+  },
+  "c-190742f607": {
+   "id": "c-190742f607",
+   "kind": "claim",
+   "node": "dird-warp-drive-dark-energy-and-the",
+   "nodeLabel": "Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions",
+   "source": {
+    "domain": "documents2.theblackvault.com",
+    "text": "Defense Intelligence Reference Document DIA-08-1004-001, 'Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions', 34 pages as released, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_13-DIRD_Warp_Drive_Dark_energy_and_the_Manipulation_of_Extra_Dimensions.pdf , opened 2026-09-19",
+    "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_13-DIRD_Warp_Drive_Dark_energy_and_the_Manipulation_of_Extra_Dimensions.pdf"
+   },
+   "text": "ITS OWN SUMMARY, VERBATIM, and what it claims is a possibility and not a result: 'The idea that a sufficiently advanced technology may interact with, and acquire direct control over, the higher dimensions is a tantalizing possibility, and one that is most certainly worthy of deeper investigation. Control of this higher dimensional space may be a source of technological control over the dark energy density and could ultimately play a role in the development of exotic propulsion technologies; specifically, a warp drive. Of course, this may not be actualized until many years in the future...' Its closing sentence: '...if we may make predictions based on the innovative history of scientific pioneers of the past, then it seems entirely possible that the creative minds of the future may indeed find ways to accomplish what, to us, may seem like magic.'",
+   "tier": 1
+  },
+  "c-199d2f194c": {
+   "id": "c-199d2f194c",
+   "kind": "claim",
+   "node": "george-hathaway",
+   "nodeLabel": "George D. Hathaway",
+   "source": {
+    "domain": "documents2.theblackvault.com",
+    "text": "Defense Intelligence Reference Document DIA-08-1003-017, 'Maverick Inventor Versus Corporate Inventor: Where Will the Next Major Innovations Arise?', 30 March 2010, ICOD 1 December 2009, 'Acquisition Threat Support', 20 pages as released, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_17-DIRD_Maverick_Inventor_Versus_Corporate_Inventor-Where_Will_the_Next_major_Innovations_Arise.pdf , opened 2026-09-19",
+    "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_17-DIRD_Maverick_Inventor_Versus_Corporate_Inventor-Where_Will_the_Next_major_Innovations_Arise.pdf"
+   },
+   "text": "HIS OWN DIA-FUNDED REFERENCE DOCUMENT DOES NOT MENTION THE HUTCHISON EFFECT. DIA-08-1003-017, 'Maverick Inventor Versus Corporate Inventor: Where Will the Next Major Innovations Arise?', cover-dated 30 March 2010, ICOD 1 December 2009, 20 pages as released, attributed on the DIA list of 9 January 2018 to Dr George Hathaway of Hathaway Consulting. Word counts over the whole released document: HUTCHISON 0, Pharos 0, levitation 0. Gravity occurs 12 times and antigravity 3. THE MAN WHO WROTE THE BOOK ON THE HUTCHISON EFFECT WROTE A DIA REFERENCE DOCUMENT ABOUT MAVERICK INVENTORS AND DID NOT MENTION IT. This is a fact about the document and is not a statement by him about the claim.",
+   "tier": 1
+  },
+  "c-1bf6d51825": {
+   "id": "c-1bf6d51825",
+   "kind": "claim",
+   "node": "george-hathaway",
+   "nodeLabel": "George D. Hathaway",
+   "source": {
+    "domain": "www.theblackvault.com",
+    "text": "https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/",
+    "url": "https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/"
+   },
+   "text": "Named on the same DIA list as author of item 10, 'Role of Superconductors in Gravity Research', affiliation Hathaway Consulting, making him a two-deliverable AAWSAP contributor.",
+   "tier": 1
+  },
+  "c-1fefbd7557": {
+   "id": "c-1fefbd7557",
+   "kind": "claim",
+   "node": "james-lacatski",
+   "nodeLabel": "James T. Lacatski",
+   "source": {
+    "domain": null,
+    "text": "Lacatski to Jeremy Corbell, published 8 April 2026",
+    "url": null
+   },
+   "text": "AAWSAP produced more than 100 thick, highly detailed reports of UFO case data — a body of work far larger than the 38 DIRDs released to Congress.",
+   "tier": 2
+  },
+  "c-203975076f": {
+   "id": "c-203975076f",
+   "kind": "claim",
+   "node": "nasa-bpp",
+   "nodeLabel": "NASA Breakthrough Propulsion Physics Project (1996-2002)",
+   "source": {
+    "domain": "ntrs.nasa.gov",
+    "text": "NASA/TM-2004-213082, Marc G. Millis, 'Prospects for Breakthrough Propulsion from Physics', NASA Glenn Research Center, 19 pages, https://ntrs.nasa.gov/api/citations/20040070788/downloads/20040070788.pdf , opened 2026-09-19",
+    "url": "https://ntrs.nasa.gov/api/citations/20040070788/downloads/20040070788.pdf"
+   },
+   "text": "Its own account of why NASA established it: 'New theories and phenomena have emerged in recent scientific literature that have reawakened consideration that propulsion breakthroughs may become achievable... This includes literature about warp drives, wormholes, quantum tunneling, vacuum fluctuation energy, and the coupling of gravity and electromagnetism. This emerging science, combined with the realization that rockets are fundamentally inadequate for interstellar exploration, led NASA to establish the \"Breakthrough Propulsion Physics (BPP)\" Project in 1996.'",
+   "tier": 1
+  },
+  "c-227b7ce895": {
+   "id": "c-227b7ce895",
+   "kind": "claim",
+   "node": "yamato-1",
+   "nodeLabel": "Yamato-1, the world's first superconducting MHD-propelled ship (1992)",
+   "source": {
+    "domain": "www.osti.gov",
+    "text": "Reasoning over the OSTI abstract for the YAMATO-1 paper against the opened text of US 3,322,374, https://www.osti.gov/biblio/135352 , opened 2026-09-19",
+    "url": "https://www.osti.gov/biblio/135352"
+   },
+   "text": "Stated inference, and it is short. The propulsion mechanism US 3,322,374 claims is magnetohydrodynamic, and magnetohydrodynamic propulsion was demonstrated at sea by a civil foundation in June 1992, in public, under a named chairman, with the results reported at an international conference. THE INFERENCE IS THAT THE MECHANISM DOES NOT REQUIRE A SECRET TO EXIST and nothing more. It is not an argument about what was or was not recovered, and no edge from this node asserts one.",
+   "tier": 3
+  },
+  "c-363ecab128": {
+   "id": "c-363ecab128",
+   "kind": "claim",
+   "node": "canning-nasa-cr-2004-213312",
+   "nodeLabel": "NASA/CR-2004-213312, 'Asymmetrical Capacitors for Propulsion' (2004)",
+   "source": {
+    "domain": "ntrs.nasa.gov",
+    "text": "NASA/CR-2004-213312, Francis X. Canning, Cory Melcher and Edwin Winet, 'Asymmetrical Capacitors for Propulsion', Institute for Scientific Research Inc, Fairmont, West Virginia, October 2004, 23 pages, https://ntrs.nasa.gov/api/citations/20040171929/downloads/20040171929.pdf , opened 2026-09-19",
+    "url": "https://ntrs.nasa.gov/api/citations/20040171929/downloads/20040171929.pdf"
+   },
+   "text": "THE VACUUM RESULT, which is what answers the question US 3,187,206 raises in its own text about behaviour in a vacuum. The report quotes Robert Talley's Air Force-contract measurement directly: 'Talley wrote, \"Direct experimental results show that under high vacuum conditions... no detectable propulsive force was electrostatically induced by applying a static potential difference... between test device electrodes...\" Talley concluded (page 91 of his report), \"If such a force still exists and lies below the threshold of measurements in this program, then the force may be too small to be attractive for many, if not most, space propulsion applications.\"' The report adds of Talley's work: 'His report is the only written report we have found from the last half-century that describes a measurement of a force while in a vacuum chamber.' THE TALLEY REPORT ITSELF WAS NOT OPENED BY THIS SESSION.",
+   "tier": 1
+  },
+  "c-39340618f9": {
+   "id": "c-39340618f9",
+   "kind": "claim",
+   "node": "yamato-1",
+   "nodeLabel": "Yamato-1, the world's first superconducting MHD-propelled ship (1992)",
+   "source": {
+    "domain": "www.osti.gov",
+    "text": "OSTI bibliographic record and abstract for Sasakawa, Takezawa, Sugawara and Kyotani, 'The superconducting MHD-propelled ship YAMATO-1', Proceedings of the 4th International Conference and Exhibition: World Congress on Superconductivity, volume 1, Orlando FL, 27 June to 1 July 1994, https://www.osti.gov/biblio/135352 , opened 2026-09-19",
+    "url": "https://www.osti.gov/biblio/135352"
+   },
+   "text": "THE CONTROL CASE, in the principals' own words: 'In 1985 the Ship & Ocean Foundation (SOF) created a committee under the chairmanship of Mr. Yohei Sasakawa, Former President of the Ship & Ocean Foundation, and began researches into superconducting magnetohydrodynamic (MHD) ship propulsion. In 1989 SOF set to construction of a experimental ship on the basis of theoretical and experimental researches pursued until then. The experimental ship named YAMATO-1 became the world's first superconducting MHD-propelled ship on her trial runs in June 1992. This paper describes the outline of the YAMATO-1 and sea trial test results.'",
+   "tier": 1
+  },
+  "c-3e2436b459": {
+   "id": "c-3e2436b459",
+   "kind": "claim",
+   "node": "dird-warp-drive-dark-energy-and-the",
+   "nodeLabel": "Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions",
+   "source": {
+    "domain": "documents2.theblackvault.com",
+    "text": "Defense Intelligence Reference Document DIA-08-1004-001, 'Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions', 34 pages as released, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_13-DIRD_Warp_Drive_Dark_energy_and_the_Manipulation_of_Extra_Dimensions.pdf , opened 2026-09-19",
+    "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_13-DIRD_Warp_Drive_Dark_energy_and_the_Manipulation_of_Extra_Dimensions.pdf"
+   },
+   "text": "IT PRINTS THE REQUIREMENT AS A NUMBER, IN TWO TABLES. Table 2, 'Negative Energy Required for Warp Bubble (Larger Negative Energy)', and Table 3 after the reduction the paper argues for. At 0.01c: -3.03 x 10^46 J and -1.00 x 10^38 J. At 0.5c: -7.59 x 10^49 J and -2.50 x 10^41 J. AT LIGHT SPEED: -3.03 x 10^50 J and -1.00 x 10^42 J. At twice light speed: -1.21 x 10^51 J and -4.00 x 10^42 J. The document states that on its model 'energy requirements are reduced immensely when compared to the calculations of Lobo and Visser' and that 'All calculations are order-of-magnitude'.",
+   "tier": 1
+  },
+  "c-4382857e9f": {
+   "id": "c-4382857e9f",
+   "kind": "claim",
+   "node": "marc-millis",
+   "nodeLabel": "Marc G. Millis",
+   "source": {
+    "domain": "ntrs.nasa.gov",
+    "text": "NASA/TM-2004-213082, Marc G. Millis, 'Prospects for Breakthrough Propulsion from Physics', NASA Glenn Research Center, 19 pages, https://ntrs.nasa.gov/api/citations/20040070788/downloads/20040070788.pdf , opened 2026-09-19",
+    "url": "https://ntrs.nasa.gov/api/citations/20040070788/downloads/20040070788.pdf"
+   },
+   "text": "He is the author of the single document that adjudicates three of the propulsion mechanisms this board tracks: Biefeld-Brown and its variants, Alcubierre-style metric engineering, and high frequency gravitational waves. His conclusion on the first, in his own text: these devices 'are not viable candidates for breakthrough physics propulsion'. On the second: they are 'extremely unlikely to be engineered'.",
+   "tier": 1
+  },
+  "c-450d104e31": {
+   "id": "c-450d104e31",
+   "kind": "claim",
+   "node": "nasa-bpp",
+   "nodeLabel": "NASA Breakthrough Propulsion Physics Project (1996-2002)",
+   "source": {
+    "domain": "ntrs.nasa.gov",
+    "text": "NASA/TM-2004-213082, Marc G. Millis, 'Prospects for Breakthrough Propulsion from Physics', NASA Glenn Research Center, 19 pages, https://ntrs.nasa.gov/api/citations/20040070788/downloads/20040070788.pdf , opened 2026-09-19",
+    "url": "https://ntrs.nasa.gov/api/citations/20040070788/downloads/20040070788.pdf"
+   },
+   "text": "Its own statement of its method and its result: 'Because these challenges are presumably far from fruition, and perhaps even impossible, a special emphasis is placed on selecting incremental and affordable research that addresses the critical issues behind these challenges. Of 16 incremental research tasks completed by the project and from other sponsors, about a third were found not to be viable, a quarter have clear opportunities for sequels, and the rest remain unresolved.'",
+   "tier": 1
+  },
+  "c-4989ae3f82": {
+   "id": "c-4989ae3f82",
+   "kind": "claim",
+   "node": "dird-warp-drive-dark-energy-and-the",
+   "nodeLabel": "Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions",
+   "source": {
+    "domain": "earthtech.org",
+    "text": "http://earthtech.org/pubs/davis/",
+    "url": "http://earthtech.org/pubs/davis/"
+   },
+   "text": "EarthTech International's citation list gives the paper as \"Obousy, R. K. and Davis, E. W. (2010), 'Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions,' Defense Intelligence Reference Document, Acquisition Threat Support, DIA-08-1004-001, Acquisition Support Division (DWO-3), Defense Warning Office, Directorate for Analysis, Defense Intelligence Agency, Washington, DC.\" It is co-authored, with Obousy first named, which reconciles the DIA list with the popular attribution.",
+   "tier": 1
+  },
+  "c-4ec6656af8": {
+   "id": "c-4ec6656af8",
+   "kind": "claim",
+   "node": "yamato-1",
+   "nodeLabel": "Yamato-1, the world's first superconducting MHD-propelled ship (1992)",
+   "source": {
+    "domain": "www.osti.gov",
+    "text": "OSTI bibliographic record and abstract for Sasakawa, Takezawa, Sugawara and Kyotani, 'The superconducting MHD-propelled ship YAMATO-1', Proceedings of the 4th International Conference and Exhibition: World Congress on Superconductivity, volume 1, Orlando FL, 27 June to 1 July 1994, https://www.osti.gov/biblio/135352 , opened 2026-09-19",
+    "url": "https://www.osti.gov/biblio/135352"
+   },
+   "text": "The record is a conference paper by the project's own principals: Sasakawa, Takezawa, Sugawara and Kyotani, in the Proceedings of the 4th International Conference and Exhibition: World Congress on Superconductivity, volume 1, from the conference held in Orlando, Florida from 27 June to 1 July 1994, with the OSTI record dated April 1995.",
+   "tier": 1
+  },
+  "c-52f57f85fb": {
+   "id": "c-52f57f85fb",
+   "kind": "claim",
+   "node": "canning-nasa-cr-2004-213312",
+   "nodeLabel": "NASA/CR-2004-213312, 'Asymmetrical Capacitors for Propulsion' (2004)",
+   "source": {
+    "domain": "arxiv.org",
+    "text": "Thomas B. Bahder and Chris Fazi, 'Force on an Asymmetric Capacitor', arXiv preprint of the Army Research Laboratory report, submitted 31 October 2002, revised 12 March 2003, https://arxiv.org/abs/physics/0211001 , opened 2026-09-19; report number and NTIS order number as printed in reference 8 of NASA/CR-2004-213312",
+    "url": "https://arxiv.org/abs/physics/0211001"
+   },
+   "text": "THE DISSENT, RECORDED SO THE BOARD DOES NOT OVERSTATE THE RECORD. The Army Research Laboratory's own study of the same effect, by Thomas B. Bahder and Chris Fazi, concluded from its calculations that 'ionic wind is at least three orders of magnitude too small to explain the magnitude of the observed force on the capacitor'. That rejects BALLISTIC ionic wind and prefers ionic drift, which is the mechanism NASA then modelled, so the two findings are not in flat contradiction and NEITHER INVOKES NEW PHYSICS. Tier 2 because the published report, ARL-TR-3005 / NTIS ADA416740, was NOT opened: apps.dtic.mil returned HTTP 403 and what was read was the authors' arXiv preprint.",
+   "tier": 2
+  },
+  "c-5bfcd43634": {
+   "id": "c-5bfcd43634",
+   "kind": "claim",
+   "node": "d-exotic",
+   "nodeLabel": "Exotic Technology & Physics",
+   "source": {
+    "domain": null,
+    "text": "research/leads/verified-propulsion-2026-09-19.md, strand table, built over documents opened 2026-09-19",
+    "url": null
+   },
+   "text": "THE DOMAIN'S ORGANISING FINDING AFTER THE PROPULSION STRAND OF 19 SEPTEMBER 2026, and it is a stated inference over documents rather than a claim about physics. For each propulsion mechanism the literature invokes, a document is named; when the document is opened it says less than is claimed for it, and usually something else entirely. Brown's two patents contain the word 'gravity' zero times. Alcubierre's 1994 paper contains the word 'device' zero times and states in its own abstract that exotic matter will be needed. King's 1967 patent contains 'scalar' zero times and has no assignee and no government interest. DIA's own antigravity survey does not mention Brown. THE STRAND RECORDS THE GAP BETWEEN CITATIONS AND DOCUMENTS AND TAKES NO POSITION ON WHETHER EXOTIC PROPULSION IS POSSIBLE.",
+   "tier": 3
+  },
+  "c-6771c06391": {
+   "id": "c-6771c06391",
+   "kind": "claim",
+   "node": "alcubierre-1994",
+   "nodeLabel": "Alcubierre, 'The warp drive: hyper-fast travel within general relativity' (1994)",
+   "source": {
+    "domain": "arxiv.org",
+    "text": "Miguel Alcubierre, 'The warp drive: hyper-fast travel within general relativity', Classical and Quantum Gravity 11-5, L73-L77 (1994), DOI 10.1088/0264-9381/11/5/001, read in full from the author's arXiv posting of 5 September 2000, https://arxiv.org/abs/gr-qc/0009013 , opened 2026-09-19",
+    "url": "https://arxiv.org/abs/gr-qc/0009013"
+   },
+   "text": "His own conclusion, verbatim: 'We see then that, just as it happens with wormholes, one needs exotic matter to travel faster than the speed of light. However, even if one believes that exotic matter is forbidden classically, it is well known that quantum field theory permits the existence of regions with negative energy densities in some special circumstances (as, for example, in the Casimir effect). The need of exotic matter therefore doesn't necessarily eliminate the possibility of using a spacetime distortion like the one described above for hyper-fast interstellar travel.'",
+   "tier": 1
+  },
+  "c-693e96acae": {
+   "id": "c-693e96acae",
+   "kind": "claim",
+   "node": "conventional-prompt-global-strike",
+   "nodeLabel": "Conventional Prompt Global Strike",
+   "source": {
+    "domain": "www.everycrsreport.com",
+    "text": "CRS R41464, 16 July 2021, https://www.everycrsreport.com/reports/R41464.html",
+    "url": "https://www.everycrsreport.com/reports/R41464.html"
+   },
+   "text": "The Air Force glide vehicle flew on decommissioned ICBM stages: the third HTV-2 vehicle was launched on a 'Minotaur IV rocket, in its \"lite\" configuration, with only the three Peacekeeper stages.'",
+   "tier": 1
+  },
+  "c-6a17635865": {
+   "id": "c-6a17635865",
+   "kind": "claim",
+   "node": "dird-mhd-air-breathing-propulsion-and-power",
+   "nodeLabel": "MHD Air Breathing Propulsion and Power for Aerospace Applications",
+   "source": {
+    "domain": "documents2.theblackvault.com",
+    "text": "Defense Intelligence Reference Document DIA-08-1011-006, 'MHD Air Breathing Propulsion and Power for Aerospace Applications', 21 November 2010, ICOD 20 July 2010, 33 pages as released, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_33-DIRD_MHD_Air_Breathing_Propulsion_and_Power_for_Aerospace_Applications.pdf , opened 2026-09-19",
+    "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_33-DIRD_MHD_Air_Breathing_Propulsion_and_Power_for_Aerospace_Applications.pdf"
+   },
+   "text": "ITS OWN SUMMARY, VERBATIM, and it is a document about hypersonic aerodynamics and nothing else: 'The paper reviews novel propulsion concepts utilizing plasmas (ionized gases) and magnetohydrodynamics (MHD). These concepts are shown to be attractive due to their potential to achieve propulsion and aerodynamic performance far beyond current conventional technologies. However, significant difficulties impede the development and application of these technologies; these include weight, complexity, higher power, and the need for complex and energy-consuming artificial ionization in \"cold\" air (at Mach <12).'",
+   "tier": 1
+  },
+  "c-6bbac82e3f": {
+   "id": "c-6bbac82e3f",
+   "kind": "claim",
+   "node": "dird-concepts-for-extracting-energy-from-the",
+   "nodeLabel": "Concepts for Extracting Energy From the Quantum Vacuum",
+   "source": {
+    "domain": "earthtech.org",
+    "text": "https://earthtech.org/pubs/davis/",
+    "url": "https://earthtech.org/pubs/davis/"
+   },
+   "text": "Davis and Harold Puthoff had published the same argument in the open literature the previous year as 'Chapter 18: On Extracting Energy from the Quantum Vacuum' in 'Frontiers of Propulsion Science' (AIAA, 2009), the volume Davis co-edited with Marc G. Millis.",
+   "tier": 1
+  },
+  "c-79456524f0": {
+   "id": "c-79456524f0",
+   "kind": "claim",
+   "node": "millis-tm-2004-213082",
+   "nodeLabel": "NASA/TM-2004-213082, 'Prospects for Breakthrough Propulsion from Physics' (2004)",
+   "source": {
+    "domain": "ntrs.nasa.gov",
+    "text": "NASA/TM-2004-213082, Marc G. Millis, 'Prospects for Breakthrough Propulsion from Physics', NASA Glenn Research Center, 19 pages, https://ntrs.nasa.gov/api/citations/20040070788/downloads/20040070788.pdf , opened 2026-09-19",
+    "url": "https://ntrs.nasa.gov/api/citations/20040070788/downloads/20040070788.pdf"
+   },
+   "text": "THE HUTCHISON ZERO-COUNT, and it is one of the two checkable facts behind this board's treatment of that claim. Word counts over the complete 19-page text: Biefeld 4, Brown 6, lifter 2, asymmetric 5, Podkletnov 12, Alcubierre 1, ion wind 1, and HUTCHISON 0. NASA's project existed to triage claims of exactly this kind and found about a third of sixteen tasks not viable; the Hutchison effect did not reach the list of things worth finding not viable. THIS IS EVIDENCE ABOUT WHAT NASA EXAMINED AND IS NOT A FINDING THAT THE CLAIM IS FALSE.",
+   "tier": 1
+  },
+  "c-81c9b24315": {
+   "id": "c-81c9b24315",
+   "kind": "claim",
+   "node": "james-lacatski",
+   "nodeLabel": "James T. Lacatski",
+   "source": {
+    "domain": null,
+    "text": "DIA FOIA-00023-2022 and APP-00031-2022, released via The Black Vault, 2023",
+    "url": null
+   },
+   "text": "DIA could locate no records responsive to a request for the 19 June 2007 Lacatski-to-Bigelow letter described in 'Skinwalkers at the Pentagon'; the appeal (APP-00031-2022) also returned no records.",
+   "tier": 1
+  },
+  "c-82250be3de": {
+   "id": "c-82250be3de",
+   "kind": "claim",
+   "node": "dird-mhd-air-breathing-propulsion-and-power",
+   "nodeLabel": "MHD Air Breathing Propulsion and Power for Aerospace Applications",
+   "source": {
+    "domain": "irp.fas.org",
+    "text": "https://irp.fas.org/dia/aatip-list.pdf",
+    "url": "https://irp.fas.org/dia/aatip-list.pdf"
+   },
+   "text": "Attributed on the DIA list of AATIP/AAWSAP products supplied to the Senate Armed Services Committee to 'Dr S Macheret, Lockheed Martin', where the title is given in full as 'Magnetohydrodynamics (MHD) Air Breathing Propulsion and Power for Aerospace Applications'.",
+   "tier": 1
+  },
+  "c-8570083ba0": {
+   "id": "c-8570083ba0",
+   "kind": "claim",
+   "node": "nasa-bpp",
+   "nodeLabel": "NASA Breakthrough Propulsion Physics Project (1996-2002)",
+   "source": {
+    "domain": "ntrs.nasa.gov",
+    "text": "Reasoning over NASA/TM-2004-213082 against the board's own dird-series claims, https://ntrs.nasa.gov/api/citations/20040070788/downloads/20040070788.pdf , opened 2026-09-19",
+    "url": "https://ntrs.nasa.gov/api/citations/20040070788/downloads/20040070788.pdf"
+   },
+   "text": "Stated inference, and it is the comparison the strand exists to make. A civil agency ran a six-year public assessment of exotic propulsion, named the claims, published which ones failed, and closed. Seven years later a defence agency commissioned thirty-eight reference documents covering overlapping subjects, released them only under FOIA, and redacted every author. THE INFERENCE IS ABOUT TRANSPARENCY AND NOT ABOUT CONTENT: nothing opened joins the two programmes to each other, and no institutional edge between them is proposed.",
+   "tier": 3
+  },
+  "c-859ce408c8": {
+   "id": "c-859ce408c8",
+   "kind": "claim",
+   "node": "nasa-bpp",
+   "nodeLabel": "NASA Breakthrough Propulsion Physics Project (1996-2002)",
+   "source": {
+    "domain": "ntrs.nasa.gov",
+    "text": "NASA/TM-2004-213082, Marc G. Millis, 'Prospects for Breakthrough Propulsion from Physics', NASA Glenn Research Center, 19 pages, https://ntrs.nasa.gov/api/citations/20040070788/downloads/20040070788.pdf , opened 2026-09-19",
+    "url": "https://ntrs.nasa.gov/api/citations/20040070788/downloads/20040070788.pdf"
+   },
+   "text": "THE PROJECT ADJUDICATED THREE OF THIS STRAND'S SIX MECHANISMS BY NAME, which is what makes it board material: Biefeld-Brown and its lifter and asymmetrical-capacitor variants in section 3.2.7 of its summary document, Alcubierre-style metric engineering in section 3.3.1, and high frequency gravitational waves in section 3.3.2. Its findings on each are carried on millis-tm-2004-213082.",
+   "tier": 1
+  },
+  "c-8bda8ea947": {
+   "id": "c-8bda8ea947",
+   "kind": "claim",
+   "node": "millis-tm-2004-213082",
+   "nodeLabel": "NASA/TM-2004-213082, 'Prospects for Breakthrough Propulsion from Physics' (2004)",
+   "source": {
+    "domain": "ntrs.nasa.gov",
+    "text": "NASA/TM-2004-213082, Marc G. Millis, 'Prospects for Breakthrough Propulsion from Physics', NASA Glenn Research Center, 19 pages, https://ntrs.nasa.gov/api/citations/20040070788/downloads/20040070788.pdf , opened 2026-09-19",
+    "url": "https://ntrs.nasa.gov/api/citations/20040070788/downloads/20040070788.pdf"
+   },
+   "text": "THE BIEFELD-BROWN ADJUDICATION, section 3.2.7, verbatim and in full: 'In 1928 a device was patented for creating thrust using high-voltage capacitors. Since then, a wide variety of variants of this \"Biefeld-Brown\" effect, such as \"Lifters\" and \"Asymmetrical Capacitors\" have claimed that such devices operate on an \"electrostatic antigravity\" or \"electrogravitic\" effect. One of the most recent variants was patented by NASA-MSFC. To date, all rigorous experimental tests indicate that the observed thrust is attributable to ion wind. Vacuum tests currently underway, sponsored through an additional Congressional earmark to the West Virginia Institute for Scientific Research, also indicate that this effect is not indicative of new propulsion physics. These tests are now assessing the more conventional performance of such devices. These \"Biefeld-Brown,\" \"Lifter\" and \"Asymmetrical Capacitor Thrusters\" are not viable candidates for breakthrough physics propulsion.'",
+   "tier": 1
+  },
+  "c-93c62dc61b": {
+   "id": "c-93c62dc61b",
+   "kind": "claim",
+   "node": "king-patent-mhd",
+   "nodeLabel": "US Patent 3,322,374, 'Magnetohydrodynamic Propulsion Apparatus' (King, 1967)",
+   "source": {
+    "domain": "patentimages.storage.googleapis.com",
+    "text": "US Patent 3,322,374, 'Magnetohydrodynamic Propulsion Apparatus', opened as a 7-page PDF at https://patentimages.storage.googleapis.com/6f/35/54/257dd6cdb01efc/US3322374.pdf , opened 2026-09-18 and recorded in notes/PROPULSION-CLAIMS-2026-09-18.md",
+    "url": "https://patentimages.storage.googleapis.com/6f/35/54/257dd6cdb01efc/US3322374.pdf"
+   },
+   "text": "NO ASSIGNEE, NO GOVERNMENT INTEREST AND NO SECRECY ORDER APPEAR IN THE DOCUMENT. The words 'assignor', 'assigned', 'government', 'Navy', 'Army', 'NASA' and 'secrecy' appear zero times across all seven pages. The inventor is a private individual at a home address.",
+   "tier": 1
+  },
+  "c-94a8e11b16": {
+   "id": "c-94a8e11b16",
+   "kind": "claim",
+   "node": "conventional-prompt-global-strike",
+   "nodeLabel": "Conventional Prompt Global Strike",
+   "source": {
+    "domain": "www.everycrsreport.com",
+    "text": "CRS R41464, 16 July 2021, https://www.everycrsreport.com/reports/R41464.html",
+    "url": "https://www.everycrsreport.com/reports/R41464.html"
+   },
+   "text": "The Army glide vehicle flew on a recycled submarine-missile stack: the Advanced Hypersonic Weapon 'used the strategic targets system (STARS) booster stack, which is derived from the Navy's Polaris ballistic missile.'",
+   "tier": 1
+  },
+  "c-9bf4a89ef7": {
+   "id": "c-9bf4a89ef7",
+   "kind": "claim",
+   "node": "thomas-townsend-brown",
+   "nodeLabel": "Thomas Townsend Brown",
+   "source": {
+    "domain": null,
+    "text": "US Patent 2,417,347, header page",
+    "url": null
+   },
+   "text": "US Patent 2,417,347, 'VIBRATION DAMPER', issued 11 March 1947, prints its inventor line as 'Thomas T. Brown, Laguna Beach, Calif., assignor by mesne assignments to Lockheed Aircraft Corporation'.",
+   "tier": 1
+  },
+  "c-a08b49faf3": {
+   "id": "c-a08b49faf3",
+   "kind": "claim",
+   "node": "marc-millis",
+   "nodeLabel": "Marc G. Millis",
+   "source": {
+    "domain": "irp.fas.org",
+    "text": "https://irp.fas.org/dia/aatip-list.pdf",
+    "url": "https://irp.fas.org/dia/aatip-list.pdf"
+   },
+   "text": "The DIA letter of 9 January 2018 lists 'Cockpits in the Era of breakthrough Flight, Dr G Millis, Tau Zero.'",
+   "tier": 1
+  },
+  "c-a1c5213d38": {
+   "id": "c-a1c5213d38",
+   "kind": "claim",
+   "node": "canning-nasa-cr-2004-213312",
+   "nodeLabel": "NASA/CR-2004-213312, 'Asymmetrical Capacitors for Propulsion' (2004)",
+   "source": {
+    "domain": "ntrs.nasa.gov",
+    "text": "NASA/CR-2004-213312, Francis X. Canning, Cory Melcher and Edwin Winet, 'Asymmetrical Capacitors for Propulsion', Institute for Scientific Research Inc, Fairmont, West Virginia, October 2004, 23 pages, https://ntrs.nasa.gov/api/citations/20040171929/downloads/20040171929.pdf , opened 2026-09-19",
+    "url": "https://ntrs.nasa.gov/api/citations/20040171929/downloads/20040171929.pdf"
+   },
+   "text": "THE CONCLUSION, verbatim in the passage that matters: 'A simple model was developed of ions drifting from one electrode to the other under electrostatic forces, and imparting momentum to air as they underwent multiple collisions. This model was found to be consistent with all of our observations. It predicted the magnitude of the force (thrust) that was measured. It also predicted how the direction of the thrust changed when the location of the ground wire changed. Furthermore, it also predicted that the direction of the thrust was independent of the polarity of the applied voltage... In spite of decades of speculation about possible new physical principles being responsible for the thrust produced by ACTs and lifters, we find no evidence to support such a conclusion. On the contrary, we find that their operation is fully explained by a very simple theory that uses only electrostatic forces and the transfer of momentum by multiple collisions.'",
+   "tier": 1
+  },
+  "c-a3434ea538": {
+   "id": "c-a3434ea538",
+   "kind": "claim",
+   "node": "millis-tm-2004-213082",
+   "nodeLabel": "NASA/TM-2004-213082, 'Prospects for Breakthrough Propulsion from Physics' (2004)",
+   "source": {
+    "domain": "ntrs.nasa.gov",
+    "text": "NASA/TM-2004-213082, Marc G. Millis, 'Prospects for Breakthrough Propulsion from Physics', NASA Glenn Research Center, 19 pages, https://ntrs.nasa.gov/api/citations/20040070788/downloads/20040070788.pdf , opened 2026-09-19",
+    "url": "https://ntrs.nasa.gov/api/citations/20040070788/downloads/20040070788.pdf"
+   },
+   "text": "Section 3.3.2 treats high frequency gravitational waves as a DETECTION problem, opening 'Fundamentally, gravitational waves are perturbations in spacetime caused by violent accelerations of large masses, such as collisions of black holes' and proceeding to interferometry and LIGO. Fifteen years later the US Navy was granted US 10,322,827 for a high frequency gravitational wave GENERATOR. Both statements are Tier 1 for what their own documents say.",
+   "tier": 1
+  },
+  "c-a37187f95b": {
+   "id": "c-a37187f95b",
+   "kind": "claim",
+   "node": "king-patent-mhd",
+   "nodeLabel": "US Patent 3,322,374, 'Magnetohydrodynamic Propulsion Apparatus' (King, 1967)",
+   "source": {
+    "domain": "patentimages.storage.googleapis.com",
+    "text": "US Patent 3,322,374, 'Magnetohydrodynamic Propulsion Apparatus', opened as a 7-page PDF at https://patentimages.storage.googleapis.com/6f/35/54/257dd6cdb01efc/US3322374.pdf , opened 2026-09-18 and recorded in notes/PROPULSION-CLAIMS-2026-09-18.md",
+    "url": "https://patentimages.storage.googleapis.com/6f/35/54/257dd6cdb01efc/US3322374.pdf"
+   },
+   "text": "A PATENT IS TIER 1 FOR WHAT IT CLAIMS AND IS NEVER EVIDENCE THAT THE THING WORKS. What US 3,322,374 claims is magnetohydrodynamic propulsion: coils along the craft's axis driven by polyphase alternating current produce a travelling point of maximum magnetic flux density running from the leading to the trailing end, which induces eddy currents in the surrounding ionised fluid and drives that fluid backwards. The patent is a linear induction motor using the atmosphere as its armature.",
+   "tier": 1
+  },
+  "c-a3ecaebbee": {
+   "id": "c-a3ecaebbee",
+   "kind": "claim",
+   "node": "george-hathaway",
+   "nodeLabel": "George D. Hathaway",
+   "source": {
+    "domain": "www.hathawayresearch.com",
+    "text": "Hathaway Research International, principal staff page, https://www.hathawayresearch.com/principal-staff/ , opened 2026-09-19",
+    "url": "https://www.hathawayresearch.com/principal-staff/"
+   },
+   "text": "HE IS THE BOARD'S ONLY DOCUMENTED LINK TO THE HUTCHISON CLAIM, AND THE LINK RUNS THROUGH A PERSON RATHER THAN THROUGH ANY RECORD OF THE EFFECT. His firm's own staff page states that he 'graduated from the Dep't of Electrical Engineering at the University of Toronto in 1974 and is a Registered Professional Engineer', that he consults on 'novel and exotic materials, energy production and propulsion concepts', and that he is 'author of the book \"Mindbending: The Hutchison Files\"'. HIS HUTCHISON PUBLICATION IS A BOOK AND NOT A PAPER, and this board carries no peer-reviewed publication and no primary record of a controlled Hutchison demonstration, because none was found.",
+   "tier": 2
+  },
+  "c-a69b4a089b": {
+   "id": "c-a69b4a089b",
+   "kind": "claim",
+   "node": "millis-tm-2004-213082",
+   "nodeLabel": "NASA/TM-2004-213082, 'Prospects for Breakthrough Propulsion from Physics' (2004)",
+   "source": {
+    "domain": "ntrs.nasa.gov",
+    "text": "NASA/TM-2004-213082, Marc G. Millis, 'Prospects for Breakthrough Propulsion from Physics', NASA Glenn Research Center, 19 pages, https://ntrs.nasa.gov/api/citations/20040070788/downloads/20040070788.pdf , opened 2026-09-19",
+    "url": "https://ntrs.nasa.gov/api/citations/20040070788/downloads/20040070788.pdf"
+   },
+   "text": "THE METRIC-ENGINEERING ADJUDICATION, section 3.3.1, verbatim: 'Enormous technical hurdles face these concepts. In particular, they require enormous quantities of \"negative energy\" (equivalent mass of planets or suns), and evoke time-travel paradoxes (\"closed-time-like curves\").' And: 'Recently, the term \"metric engineering\" has emerged at aerospace conferences to represent such space-warping propulsion concepts. The origin of this term is unknown. Given the magnitude of energy requirements to create perceptible effects, it is unlikely that experimental work will be forthcoming in the near future. Even though these theoretical concepts are extremely unlikely to be engineered, they are at least useful as teaching tools to more thoroughly explore the intricacies of Einstein's General Relativity.'",
+   "tier": 1
+  },
+  "c-abc82c84f7": {
+   "id": "c-abc82c84f7",
+   "kind": "claim",
+   "node": "george-hathaway",
+   "nodeLabel": "George D. Hathaway",
+   "source": {
+    "domain": "irp.fas.org",
+    "text": "https://irp.fas.org/dia/aatip-list.pdf",
+    "url": "https://irp.fas.org/dia/aatip-list.pdf"
+   },
+   "text": "Named on the DIA list of AATIP/AAWSAP products supplied to the Senate Armed Services Committee as author of item 16, 'Maverick Inventor Versus Corporate Inventor', affiliation Hathaway Consulting.",
+   "tier": 1
+  },
+  "c-b5d6d0ff37": {
+   "id": "c-b5d6d0ff37",
+   "kind": "claim",
+   "node": "marc-millis",
+   "nodeLabel": "Marc G. Millis",
+   "source": {
+    "domain": "ntrs.nasa.gov",
+    "text": "NASA/TM-2004-213082, title page and abstract, https://ntrs.nasa.gov/api/citations/20040070788/downloads/20040070788.pdf , opened 2026-09-19",
+    "url": "https://ntrs.nasa.gov/api/citations/20040070788/downloads/20040070788.pdf"
+   },
+   "text": "HE RAN NASA'S OWN ASSESSMENT OF EXOTIC PROPULSION, WHICH IS AN EARLIER AND STRONGER INSTITUTIONAL FACT THAN THE AAWSAP DIRD AUTHORSHIP THE BOARD ALREADY CARRIES FOR HIM. NASA/TM-2004-213082 carries his name and his NASA Glenn Research Center affiliation on its title page and summarises the Breakthrough Propulsion Physics Project, which 'NASA supported... from 1996 through 2002'. He therefore comes to the DIA's 2010 'Cockpits in the Era of Breakthrough Flight' with six years of having managed the federal government's only public, funded assessment of the same class of claims.",
+   "tier": 1
+  },
+  "c-bba2e08984": {
+   "id": "c-bba2e08984",
+   "kind": "claim",
+   "node": "dird-warp-drive-dark-energy-and-the",
+   "nodeLabel": "Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions",
+   "source": {
+    "domain": "www.dia.mil",
+    "text": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237627/",
+    "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237627/"
+   },
+   "text": "Defense Intelligence Reference Document titled \"Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions\", series \"Acquisition Threat Support\", published 2010-04-02 with an Intelligence Cut-Off Date (ICOD) of 2009-12-01, DIA document number DIA-08-1004-001. Released by DIA under FOIA and posted in the DIA FOIA Electronic Reading Room.",
+   "tier": 1
+  },
+  "c-c757ecee42": {
+   "id": "c-c757ecee42",
+   "kind": "claim",
+   "node": "dird-antigravity-for-aerospace-applications",
+   "nodeLabel": "Antigravity for Aerospace Applications",
+   "source": {
+    "domain": "documents2.theblackvault.com",
+    "text": "Defense Intelligence Reference Document DIA-08-1003-018, 'Antigravity for Aerospace Applications', 30 March 2010, ICOD 1 December 2009, 45 pages as released, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_19-DIRD_Antigravity_for_Aerospace_Applications.pdf , opened 2026-09-19",
+    "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_19-DIRD_Antigravity_for_Aerospace_Applications.pdf"
+   },
+   "text": "THE ZERO-COUNTS, taken over the whole released 45-page PDF on 19 September 2026: Biefeld 0, electrogravitics 0, ion wind 0, Podkletnov 0, and THOMAS TOWNSEND BROWN ABSENT. The three occurrences of 'Brown' are other authors' surnames in the reference list. Alcubierre occurs once, as reference [43], the 1994 Classical and Quantum Gravity citation, and that is its only appearance in this document. A count is checkable and an adjective is not, which is why the node carries numbers.",
+   "tier": 1
+  },
+  "c-ca79a374f0": {
+   "id": "c-ca79a374f0",
+   "kind": "claim",
+   "node": "dird-the-role-of-superconductors-in-gravity",
+   "nodeLabel": "The Role of Superconductors in Gravity Research",
+   "source": {
+    "domain": "www.altpropulsion.com",
+    "text": "https://www.altpropulsion.com/gravity-control-experiments/",
+    "url": "https://www.altpropulsion.com/gravity-control-experiments/"
+   },
+   "text": "The paper reviews the rotating-superconductor gravity-modification claims associated with Evgeny Podkletnov and the work of Ning Li. Hathaway had personally run a Podkletnov replication between 1996 and 2003 and obtained null results, so DIA commissioned the review from a researcher with a documented record of failing to reproduce the effect.",
+   "tier": 2
+  },
+  "c-d1765ef8ec": {
+   "id": "c-d1765ef8ec",
+   "kind": "claim",
+   "node": "king-patent-mhd",
+   "nodeLabel": "US Patent 3,322,374, 'Magnetohydrodynamic Propulsion Apparatus' (King, 1967)",
+   "source": {
+    "domain": "patentimages.storage.googleapis.com",
+    "text": "US Patent 3,322,374, 'Magnetohydrodynamic Propulsion Apparatus', opened as a 7-page PDF at https://patentimages.storage.googleapis.com/6f/35/54/257dd6cdb01efc/US3322374.pdf , opened 2026-09-18 and recorded in notes/PROPULSION-CLAIMS-2026-09-18.md",
+    "url": "https://patentimages.storage.googleapis.com/6f/35/54/257dd6cdb01efc/US3322374.pdf"
+   },
+   "text": "Bibliographic facts as printed: title 'Magnetohydrodynamic Propulsion Apparatus'; inventor James F. King, Jr., 925 Goodwood Road, Winston-Salem, North Carolina 27106; filed 30 September 1964, Serial No. 400,456; granted 30 May 1967; 9 claims, Class 244-62.",
+   "tier": 1
+  },
+  "c-d5135cc003": {
+   "id": "c-d5135cc003",
+   "kind": "claim",
+   "node": "d-exotic",
+   "nodeLabel": "Exotic Technology & Physics",
+   "source": {
+    "domain": null,
+    "text": "DIA FOIA Electronic Reading Room, AAWSAP/AATIP collection",
+    "url": null
+   },
+   "text": "DIA commissioned thirty-eight Defense Intelligence Reference Documents under AAWSAP, subsequently released under FOIA.",
+   "tier": 1
+  },
+  "c-d7ade2ebfb": {
+   "id": "c-d7ade2ebfb",
+   "kind": "claim",
+   "node": "alcubierre-1994",
+   "nodeLabel": "Alcubierre, 'The warp drive: hyper-fast travel within general relativity' (1994)",
+   "source": {
+    "domain": "arxiv.org",
+    "text": "Miguel Alcubierre, 'The warp drive: hyper-fast travel within general relativity', Classical and Quantum Gravity 11-5, L73-L77 (1994), DOI 10.1088/0264-9381/11/5/001, read in full from the author's arXiv posting of 5 September 2000, https://arxiv.org/abs/gr-qc/0009013 , opened 2026-09-19",
+    "url": "https://arxiv.org/abs/gr-qc/0009013"
+   },
+   "text": "THE ABSTRACT, VERBATIM AND IN FULL: 'It is shown how, within the framework of general relativity and without the introduction of wormholes, it is possible to modify a spacetime in a way that allows a spaceship to travel with an arbitrarily large speed. By a purely local expansion of spacetime behind the spaceship and an opposite contraction in front of it, motion faster than the speed of light as seen by observers outside the disturbed region is possible. The resulting distortion is reminiscent of the \"warp drive\" of science fiction. However, just as it happens with wormholes, exotic matter will be needed in order to generate a distortion of spacetime like the one discussed here.'",
+   "tier": 1
+  },
+  "c-d9ac9f7dd5": {
+   "id": "c-d9ac9f7dd5",
+   "kind": "claim",
+   "node": "james-lacatski",
+   "nodeLabel": "James T. Lacatski",
+   "source": {
+    "domain": null,
+    "text": "Lacatski, Kelleher and Knapp, 'Skinwalkers at the Pentagon' (2021); repeated in Knapp/Mystery Wire interviews",
+    "url": null
+   },
+   "text": "Lacatski states he personally entered a craft of unknown origin while working the program.",
+   "tier": 2
+  },
+  "c-d9d0bfeb7d": {
+   "id": "c-d9d0bfeb7d",
+   "kind": "claim",
+   "node": "george-hathaway",
+   "nodeLabel": "George D. Hathaway",
+   "source": {
+    "domain": "www.altpropulsion.com",
+    "text": "https://www.altpropulsion.com/gravity-control-experiments/",
+    "url": "https://www.altpropulsion.com/gravity-control-experiments/"
+   },
+   "text": "Between 1996 and 2003 Hathaway conducted the Podkletnov spinning-superconductor gravity experiment for a prospective investor and reported null results.",
+   "tier": 2
+  },
+  "c-dd1155eb89": {
+   "id": "c-dd1155eb89",
+   "kind": "claim",
+   "node": "dird-antigravity-for-aerospace-applications",
+   "nodeLabel": "Antigravity for Aerospace Applications",
+   "source": {
+    "domain": "www.dia.mil",
+    "text": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237651/",
+    "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237651/"
+   },
+   "text": "Defense Intelligence Reference Document titled \"Antigravity for Aerospace Applications\", series \"Acquisition Threat Support\", published 2010-03-30 with an Intelligence Cut-Off Date (ICOD) of 2009-12-01, DIA document number DIA-08-1003-018. Released by DIA under FOIA and posted in the DIA FOIA Electronic Reading Room.",
+   "tier": 1
+  },
+  "c-dd46d70b51": {
+   "id": "c-dd46d70b51",
+   "kind": "claim",
+   "node": "d-prop",
+   "nodeLabel": "Propulsion & Field Physics",
+   "source": {
+    "domain": null,
+    "text": "DIA AAWSAP DIRD releases",
+    "url": null
+   },
+   "text": "DIA commissioned DIRD 15 on advanced space propulsion based on vacuum (spacetime metric) engineering and DIRD 19 on antigravity for aerospace applications.",
+   "tier": 1
+  },
+  "c-dd9907a1a6": {
+   "id": "c-dd9907a1a6",
+   "kind": "claim",
+   "node": "d-prop",
+   "nodeLabel": "Propulsion & Field Physics",
+   "source": {
+    "domain": null,
+    "text": "US Patent 10,144,532 B2 (Google Patents record)",
+    "url": null
+   },
+   "text": "US Patent 10,144,532 B2, 'Craft using an inertial mass reduction device', names Salvatore Cezar Pais as inventor and the US Department of the Navy as assignee; filed 28 April 2016, granted 4 December 2018.",
+   "tier": 1
+  },
+  "c-e085ac1261": {
+   "id": "c-e085ac1261",
+   "kind": "claim",
+   "node": "james-lacatski",
+   "nodeLabel": "James T. Lacatski",
+   "source": {
+    "domain": null,
+    "text": "DIA solicitation HHM402-08-R-0211, posted 18 Aug 2008, released via The Black Vault",
+    "url": null
+   },
+   "text": "Lacatski is identified by name as 'Government Project Leader' on the DIA AAWSAP solicitation, the only unredacted appearance of the PM in the procurement record.",
+   "tier": 1
+  },
+  "c-e2b8df3ec4": {
+   "id": "c-e2b8df3ec4",
+   "kind": "claim",
+   "node": "king-patent-mhd",
+   "nodeLabel": "US Patent 3,322,374, 'Magnetohydrodynamic Propulsion Apparatus' (King, 1967)",
+   "source": {
+    "domain": "patentimages.storage.googleapis.com",
+    "text": "US Patent 3,322,374, 'Magnetohydrodynamic Propulsion Apparatus', opened as a 7-page PDF at https://patentimages.storage.googleapis.com/6f/35/54/257dd6cdb01efc/US3322374.pdf , opened 2026-09-18 and recorded in notes/PROPULSION-CLAIMS-2026-09-18.md",
+    "url": "https://patentimages.storage.googleapis.com/6f/35/54/257dd6cdb01efc/US3322374.pdf"
+   },
+   "text": "THE ZERO-COUNTS, WHICH ARE THE POINT, because a count is checkable and an adjective is not. Across all seven pages of US 3,322,374: scalar 0, spin 0, gravity 0, anti-gravity 0, zero point 0. The one apparent hit for 'air force' is the phrase 'the ionized air force vector'.",
+   "tier": 1
+  },
+  "c-e588d31a86": {
+   "id": "c-e588d31a86",
+   "kind": "claim",
+   "node": "james-lacatski",
+   "nodeLabel": "James T. Lacatski",
+   "source": {
+    "domain": "www.dia.mil",
+    "text": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237617/",
+    "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237617/"
+   },
+   "text": "Identification of the redacted AAWSA Program Manager as Dr. James T. Lacatski is not established by any primary document reached in this pass. It rests on his own published accounts and on secondary reporting. Treat the name as unconfirmed against the FOIA record until a document with the name unredacted (or a DIA org chart / personnel record) is located.",
+   "tier": 3
+  },
+  "c-eb94409edc": {
+   "id": "c-eb94409edc",
+   "kind": "claim",
+   "node": "canning-nasa-cr-2004-213312",
+   "nodeLabel": "NASA/CR-2004-213312, 'Asymmetrical Capacitors for Propulsion' (2004)",
+   "source": {
+    "domain": "ntrs.nasa.gov",
+    "text": "NASA/CR-2004-213312, Francis X. Canning, Cory Melcher and Edwin Winet, 'Asymmetrical Capacitors for Propulsion', Institute for Scientific Research Inc, Fairmont, West Virginia, October 2004, 23 pages, https://ntrs.nasa.gov/api/citations/20040171929/downloads/20040171929.pdf , opened 2026-09-19",
+    "url": "https://ntrs.nasa.gov/api/citations/20040171929/downloads/20040171929.pdf"
+   },
+   "text": "The report's own reference list opens with the three Brown documents by number: '1 Brown, T.T., US Patent 2,949,550, \"Electrokinetic Apparatus,\" 1960. 2 Brown, T.T., US Patent 3,187,206, \"Electrokinetic Apparatus,\" 1965. 3 Brown, T.T., GB Patent 300,311, \"A Method of and an Apparatus or Machine for Producing Force or Motion,\" 1928.' NASA cites exactly the three Brown documents this board carries and concludes that what they describe is ions pushing on air.",
+   "tier": 1
+  },
+  "c-f077805cf8": {
+   "id": "c-f077805cf8",
+   "kind": "claim",
+   "node": "alcubierre-1994",
+   "nodeLabel": "Alcubierre, 'The warp drive: hyper-fast travel within general relativity' (1994)",
+   "source": {
+    "domain": "arxiv.org",
+    "text": "Miguel Alcubierre, 'The warp drive: hyper-fast travel within general relativity', Classical and Quantum Gravity 11-5, L73-L77 (1994), DOI 10.1088/0264-9381/11/5/001, read in full from the author's arXiv posting of 5 September 2000, https://arxiv.org/abs/gr-qc/0009013 , opened 2026-09-19",
+    "url": "https://arxiv.org/abs/gr-qc/0009013"
+   },
+   "text": "THE ZERO-COUNT, WHICH IS WHAT THIS NODE EXISTS TO CARRY. Word counts over the complete 10-page text: 'device' 0, 'how to' 0, 'propulsion' 1. The single occurrence of 'propulsion' is the sentence 'A propulsion mechanism based on such a local distortion of spacetime just begs to be given the familiar name of the \"warp drive\" of science fiction.' The paper contains no apparatus, no engine and no method of construction. THIS IS EVIDENCE ABOUT WHAT THE PAPER SAYS AND IS NOT EVIDENCE THAT THE EFFECT IS IMPOSSIBLE.",
+   "tier": 1
+  },
+  "c-f3c125654c": {
+   "id": "c-f3c125654c",
+   "kind": "claim",
+   "node": "nasa-bpp",
+   "nodeLabel": "NASA Breakthrough Propulsion Physics Project (1996-2002)",
+   "source": {
+    "domain": "ntrs.nasa.gov",
+    "text": "NASA/TM-2004-213082, Marc G. Millis, 'Prospects for Breakthrough Propulsion from Physics', NASA Glenn Research Center, 19 pages, https://ntrs.nasa.gov/api/citations/20040070788/downloads/20040070788.pdf , opened 2026-09-19",
+    "url": "https://ntrs.nasa.gov/api/citations/20040070788/downloads/20040070788.pdf"
+   },
+   "text": "The project's own statement of what it was: 'To assess the implications of these emerging prospects for future spaceflight, NASA supported the Breakthrough Propulsion Physics Project from 1996 through 2002. This project has three grand challenges: (1) Discover propulsion that eliminates the need for propellant; (2) Discover methods to achieve hyper-fast travel; and (3) Discover breakthrough methods to power spacecraft.'",
+   "tier": 1
+  },
+  "c-f6fee14ebf": {
+   "id": "c-f6fee14ebf",
+   "kind": "claim",
+   "node": "marc-millis",
+   "nodeLabel": "Marc G. Millis",
+   "source": {
+    "domain": "earthtech.org",
+    "text": "https://earthtech.org/pubs/davis/",
+    "url": "https://earthtech.org/pubs/davis/"
+   },
+   "text": "Millis is co-editor with Eric W. Davis of 'Frontiers of Propulsion Science', AIAA Progress in Astronautics & Aeronautics Vol. 227 (2009), a documented pre-DIRD collaboration with the AAWSAP subcontractor.",
+   "tier": 1
+  },
+  "c-fb09fc8b38": {
+   "id": "c-fb09fc8b38",
+   "kind": "claim",
+   "node": "dird-series",
+   "nodeLabel": "The 38 Defense Intelligence Reference Documents (DIRDs)",
+   "source": {
+    "domain": null,
+    "text": "The War Zone analysis of the DIRD list, 18 January 2019, citing the JASON HFGW report",
+    "url": null
+   },
+   "text": "The JASON advisory group's 2008 assessment of Robert Baker's high-frequency gravitational wave concept concluded 'the proposed applications of the science of HFGW are fundamentally wrong', a critique published before DIA accepted the DIRD on the same subject.",
+   "tier": 2
+  },
+  "c-fd15e2461e": {
+   "id": "c-fd15e2461e",
+   "kind": "claim",
+   "node": "alcubierre-1994",
+   "nodeLabel": "Alcubierre, 'The warp drive: hyper-fast travel within general relativity' (1994)",
+   "source": {
+    "domain": "arxiv.org",
+    "text": "Miguel Alcubierre, 'The warp drive: hyper-fast travel within general relativity', Classical and Quantum Gravity 11-5, L73-L77 (1994), DOI 10.1088/0264-9381/11/5/001, read in full from the author's arXiv posting of 5 September 2000, https://arxiv.org/abs/gr-qc/0009013 , opened 2026-09-19",
+    "url": "https://arxiv.org/abs/gr-qc/0009013"
+   },
+   "text": "THE REQUIREMENT, IN ALCUBIERRE'S OWN WORDS: 'The metric I have just described has one important drawback, however: it violates all three energy conditions (weak, dominant and strong). Both the weak and the dominant energy conditions require the energy density to be positive for all observers.' Having given the expression for the energy density the Eulerian observers see, he writes: 'The fact that this expression is everywhere negative implies that the weak and dominant energy conditions are violated. In a similar way one can show that the strong energy condition is also violated.'",
+   "tier": 1
+  },
+  "c-fe53bb50b0": {
+   "id": "c-fe53bb50b0",
+   "kind": "claim",
+   "node": "king-patent-mhd",
+   "nodeLabel": "US Patent 3,322,374, 'Magnetohydrodynamic Propulsion Apparatus' (King, 1967)",
+   "source": {
+    "domain": "patentimages.storage.googleapis.com",
+    "text": "Reasoning over the opened text of US 3,322,374 against the claim recorded in notes/PROPULSION-CLAIMS-2026-09-18.md section 2, https://patentimages.storage.googleapis.com/6f/35/54/257dd6cdb01efc/US3322374.pdf , opened 2026-09-18",
+    "url": "https://patentimages.storage.googleapis.com/6f/35/54/257dd6cdb01efc/US3322374.pdf"
+   },
+   "text": "Stated inference, and it is the strand's whole product. The patent was put forward as 'ample evidence' that the 'Scalar Physics' callout in section D of the McCandlish ARV drawing refers to spin-zero scalar particles. The document contains the word scalar zero times and the word spin zero times. The gap between the citation and the document is not a matter of interpretation and requires no expertise to check.",
+   "tier": 3
+  },
+  "e-00dc3b6ebb": {
+   "endpoints": [
+    {
+     "id": "aawsap",
+     "label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)"
+    },
+    {
+     "id": "dird-series",
+     "label": "The 38 Defense Intelligence Reference Documents (DIRDs)"
+    }
+   ],
+   "id": "e-00dc3b6ebb",
+   "kind": "edge",
+   "label": "26 FY2009 + 12 FY2010 technical reports",
+   "sources": [
+    {
+     "date": null,
+     "name": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237626/",
+     "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237626/"
+    },
+    {
+     "date": "2008-08-18",
+     "name": "FedBizOpps notice: ADVANCED AEROSPACE WEAPON SYSTEM APPLICATIONS PROGRAM, Solicitation HHM40208R0211 (DIA FOIA release)",
+     "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237630/"
+    }
+   ],
+   "text": "The DIRDs are the contract's deliverables. DIA Talking Paper U-973-09 records that the RFP broke the work into twelve technical areas - lift, propulsion, control, armament, signature reduction and the rest - and the Defense Intelligence Reference Documents are the products those areas were delivered as. Every one of the 32 series-member edges was verified against the released PDF's cover page on 22 August 2026.",
+   "tier": 1,
+   "type": "programmatic"
+  },
+  "e-06a2247f75": {
+   "endpoints": [
+    {
+     "id": "dird-series",
+     "label": "The 38 Defense Intelligence Reference Documents (DIRDs)"
+    },
+    {
+     "id": "dird-mhd-air-breathing-propulsion-and-power",
+     "label": "MHD Air Breathing Propulsion and Power for Aerospace Applications"
+    }
+   ],
+   "id": "e-06a2247f75",
+   "kind": "edge",
+   "label": "series member",
+   "sources": [
+    {
+     "date": "2026-08-22",
+     "name": "Released DIRD, 'MHD Air Breathing Propulsion and Power for Aerospace Applications' (FOIA copy, cover page read 22 August 2026)",
+     "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_33-DIRD_MHD_Air_Breathing_Propulsion_and_Power_for_Aerospace_Applications.pdf"
+    },
+    {
+     "date": "2026-08-22",
+     "name": "DIA FOIA Electronic Reading Room, AAWSAP/AATIP reference-document entry",
+     "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237629/"
+    }
+   ],
+   "text": "Membership of the DIRD series is established by the released document itself: its cover page carries the Defense Intelligence Reference Document mark and the DIA Defense Futures banner. Publication date 21 November 2010 on the cover. 33 pages in the released copy. The cover of the scanned release is degraded, so a document number or date is asserted here only where it reads unambiguously.",
+   "tier": 1,
+   "type": "programmatic"
+  },
+  "e-08b7e5fa8d": {
+   "endpoints": [
+    {
+     "id": "yamato-1",
+     "label": "Yamato-1, the world's first superconducting MHD-propelled ship (1992)"
+    },
+    {
+     "id": "king-patent-mhd",
+     "label": "US Patent 3,322,374, 'Magnetohydrodynamic Propulsion Apparatus' (King, 1967)"
+    }
+   ],
+   "id": "e-08b7e5fa8d",
+   "kind": "edge",
+   "label": "The same mechanism, independently built and taken to sea in June 1992",
+   "sources": [
+    {
+     "date": "1995-04",
+     "name": "OSTI record and abstract, Sasakawa, Takezawa, Sugawara and Kyotani, 'The superconducting MHD-propelled ship YAMATO-1'",
+     "url": "https://www.osti.gov/biblio/135352"
+    },
+    {
+     "date": "1967-05-30",
+     "name": "US Patent 3,322,374, 'Magnetohydrodynamic Propulsion Apparatus', James F. King Jr., 7 pages",
+     "url": "https://patentimages.storage.googleapis.com/6f/35/54/257dd6cdb01efc/US3322374.pdf"
+    }
+   ],
+   "text": "STATED INFERENCE. NO DOCUMENT JOINS THESE TWO and neither cites the other. The edge records that the propulsion mechanism US 3,322,374 claims was demonstrated at sea by a civil maritime foundation in public in 1992, which is the strand's control case: the mechanism does not require a secret to exist.",
+   "tier": 3,
+   "type": "research"
+  },
+  "e-0acb0a1280": {
+   "endpoints": [
+    {
+     "id": "dird-antigravity-for-aerospace-applications",
+     "label": "Antigravity for Aerospace Applications"
+    },
+    {
+     "id": "thomas-townsend-brown",
+     "label": "Thomas Townsend Brown"
+    }
+   ],
+   "id": "e-0acb0a1280",
+   "kind": "edge",
+   "label": "The government's own 45-page antigravity survey does not mention Brown at all",
+   "sources": [
+    {
+     "date": "2010-03-30",
+     "name": "Defense Intelligence Reference Document DIA-08-1003-018, 'Antigravity for Aerospace Applications', 45 pages as released",
+     "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_19-DIRD_Antigravity_for_Aerospace_Applications.pdf"
+    }
+   ],
+   "text": "THE ABSENCE EDGE, AND THIS NOTE IS WHAT KEEPS IT HONEST. Word counts over the whole released PDF, taken 19 September 2026: Biefeld 0, electrogravitics 0, ion wind 0, Podkletnov 0; 'Brown' occurs three times and all three are other authors' surnames in the reference list (L. S. Brown and Maclay 1969, H. R. Brown as co-editor of 'The Philosophy of Vacuum', J. H. Brownell 2008). WHAT THIS IS: a Tier 1 fact about a named, dated, openable document, checkable in 45 pages. WHAT THIS IS NOT: a finding that DIA considered Brown and rejected him, because the document shows no sign of having considered him. NOBODY DENIED ANYTHING, which is why the verdict is association and not directed, and the edge must never be rendered or summarised as 'DIA rejected Brown'.",
+   "tier": 1,
+   "type": "denial"
+  },
+  "e-0b4aa2604c": {
+   "endpoints": [
+    {
+     "id": "thomas-townsend-brown",
+     "label": "Thomas Townsend Brown"
+    },
+    {
+     "id": "arv-fluxliner",
+     "label": "Alien Reproduction Vehicle (ARV) / Flux Liner"
+    }
+   ],
+   "id": "e-0b4aa2604c",
+   "kind": "edge",
+   "label": "The account's claimed lift lineage, which the patents themselves do not support",
+   "sources": [
+    {
+     "date": "2001-04",
+     "name": "Disclosure Project Briefing Document, section 3.8.5",
+     "url": "https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt"
+    }
+   ],
+   "text": "THE EDGE MUST NOT BE READ AS ANTI-GRAVITY. The board's own record is that NEITHER Brown patent claims anti-gravity: US 3,187,206, filed 9 May 1958, and US 2,949,550, filed 3 July 1957, both claim thrust by electrical fields in a dielectric medium. It is the ACCOUNT that reinterprets electrokinetic thrust as levitation. McCandlish attributes the claimed effect to 'a patent that was filed back in the late 1950s/early 1960s by a gentleman called Thomas Townsend Brown', which on the board's own record is one of those two.",
+   "tier": 2,
+   "type": "research"
+  },
+  "e-1382ddfcca": {
+   "endpoints": [
+    {
+     "id": "nasa-bpp",
+     "label": "NASA Breakthrough Propulsion Physics Project (1996-2002)"
+    },
+    {
+     "id": "nasa",
+     "label": "National Aeronautics and Space Administration"
+    }
+   ],
+   "id": "e-1382ddfcca",
+   "kind": "edge",
+   "label": "A NASA project, supported 1996 to 2002 and run out of Glenn Research Center",
+   "sources": [
+    {
+     "date": "2004",
+     "name": "NASA/TM-2004-213082, Marc G. Millis, 'Prospects for Breakthrough Propulsion from Physics', NASA Glenn Research Center, 19 pages",
+     "url": "https://ntrs.nasa.gov/api/citations/20040070788/downloads/20040070788.pdf"
+    }
+   ],
+   "text": "From the project's own summary document: 'NASA supported the Breakthrough Propulsion Physics Project from 1996 through 2002.'",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-285a3bdd1b": {
+   "endpoints": [
+    {
+     "id": "marc-millis",
+     "label": "Marc G. Millis"
+    },
+    {
+     "id": "millis-tm-2004-213082",
+     "label": "NASA/TM-2004-213082, 'Prospects for Breakthrough Propulsion from Physics' (2004)"
+    }
+   ],
+   "id": "e-285a3bdd1b",
+   "kind": "edge",
+   "label": "Sole author of the project's summary technical memorandum",
+   "sources": [
+    {
+     "date": "2004",
+     "name": "NASA/TM-2004-213082, Marc G. Millis, 'Prospects for Breakthrough Propulsion from Physics', NASA Glenn Research Center, 19 pages",
+     "url": "https://ntrs.nasa.gov/api/citations/20040070788/downloads/20040070788.pdf"
+    }
+   ],
+   "text": "AUTHORSHIP IS research AND NOT custody on this board: custody carries a x3.0 programme weighting and an author is not a custodian. He wrote the document; he did not hold it.",
+   "tier": 1,
+   "type": "research"
+  },
+  "e-3072445046": {
+   "endpoints": [
+    {
+     "id": "dird-mhd-air-breathing-propulsion-and-power",
+     "label": "MHD Air Breathing Propulsion and Power for Aerospace Applications"
+    },
+    {
+     "id": "sergey-macheret",
+     "label": "Sergey O. Macheret"
+    }
+   ],
+   "id": "e-3072445046",
+   "kind": "edge",
+   "label": "authored by",
+   "sources": [
+    {
+     "date": "2026-08-22",
+     "name": "Released DIRD, 'MHD Air Breathing Propulsion and Power for Aerospace Applications' — FOIA copy, cover page read 22 August 2026",
+     "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_33-DIRD_MHD_Air_Breathing_Propulsion_and_Power_for_Aerospace_Applications.pdf"
+    },
+    {
+     "date": "2026-08-22",
+     "name": "DIA FOIA Electronic Reading Room entry for this reference document",
+     "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237629/"
+    },
+    {
+     "date": "2026-08-23",
+     "name": "DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations",
+     "url": "https://fas.org/publication/aatip-list/"
+    },
+    {
+     "date": null,
+     "name": "https://irp.fas.org/dia/aatip-list.pdf",
+     "url": "https://irp.fas.org/dia/aatip-list.pdf"
+    },
+    {
+     "date": null,
+     "name": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html",
+     "url": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html"
+    }
+   ],
+   "text": "The DIA congressional list credits 'Magnetohydrodynamics (MHD) Air Breathing Propulsion and Power for Aerospace Applications' to 'Dr S Macheret, Lockheed Martin'. Macheret is a plasma physicist (Ph.D., Kurchatov Institute) with a substantial peer-reviewed record in MHD flow control, and this DIRD is among the most conventionally grounded on the list.",
+   "tier": 1,
+   "type": "research"
+  },
+  "e-43262f2737": {
+   "endpoints": [
+    {
+     "id": "salvatore-pais",
+     "label": "Salvatore Cezar Pais"
+    },
+    {
+     "id": "harold-puthoff",
+     "label": "Harold E. Puthoff"
+    }
+   ],
+   "id": "e-43262f2737",
+   "kind": "edge",
+   "label": "US 10,144,532 cites Puthoff's Polarizable-Vacuum paper on its printed front page",
+   "sources": [
+    {
+     "date": "2018-12-04",
+     "name": "US Patent 10,144,532 B2, 'Craft using an inertial mass reduction device', printed front page",
+     "url": "https://patentimages.storage.googleapis.com/de/4c/43/62c585ccc936cc/US10144532.pdf"
+    }
+   ],
+   "text": "A DOCUMENTARY JOIN PRINTED ON A GRANTED US NAVY PATENT, which is better evidence of a connection than any later statement about the same relationship. The 'Other Publications' list includes 'Puthoff, H. E., Polarizable-Vacuum (PV) Approach to General Relativity, Foundations of Physics, Jun. 2002, vol. 32, No. 6'. The edge asserts the citation and nothing about any personal or professional contact, for which nothing was opened.",
+   "tier": 1,
+   "type": "research"
+  },
+  "e-4541926bd7": {
+   "endpoints": [
+    {
+     "id": "george-hathaway",
+     "label": "George D. Hathaway"
+    },
+    {
+     "id": "d-exotic",
+     "label": "Exotic Technology & Physics"
+    }
+   ],
+   "id": "e-4541926bd7",
+   "kind": "edge",
+   "label": "Registered engineer consulting on exotic materials, energy and propulsion; author of 'Mindbending: The Hutchison Files'",
+   "sources": [
+    {
+     "date": "2026-09-19",
+     "name": "Hathaway Research International, principal staff page",
+     "url": "https://www.hathawayresearch.com/principal-staff/"
+    },
+    {
+     "date": "2010-03-30",
+     "name": "Defense Intelligence Reference Document DIA-08-1003-017, 20 pages as released",
+     "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_17-DIRD_Maverick_Inventor_Versus_Corporate_Inventor-Where_Will_the_Next_major_Innovations_Arise.pdf"
+    }
+   ],
+   "text": "THE BOARD'S ONLY DOCUMENTED LINK TO THE HUTCHISON CLAIM, AND IT RUNS THROUGH A PERSON RATHER THAN THROUGH ANY RECORD OF THE EFFECT. His firm's own page gives the University of Toronto electrical engineering degree of 1974, the professional registration, the consulting subjects and the book. NO HUTCHISON NODE EXISTS AND NONE SHOULD BE CREATED: no peer-reviewed publication and no primary record of a controlled demonstration was found, and his own DIA-funded reference document names Hutchison zero times.",
+   "tier": 2,
+   "type": "research"
+  },
+  "e-48194974bf": {
+   "endpoints": [
+    {
+     "id": "conventional-prompt-global-strike",
+     "label": "Conventional Prompt Global Strike"
+    },
+    {
+     "id": "d-prop",
+     "label": "Propulsion & Field Physics"
+    }
+   ],
+   "id": "e-48194974bf",
+   "kind": "edge",
+   "label": "Every booster traced to Trident II, Peacekeeper or Polaris derived stages",
+   "sources": [
+    {
+     "date": "2021-07-16",
+     "name": "CRS R41464, Conventional Prompt Global Strike and Long-Range Ballistic Missiles: Background and Issues",
+     "url": "https://www.everycrsreport.com/reports/R41464.html"
+    }
+   ],
+   "text": "The report documents the propulsion lineage in full: existing Trident II, Peacekeeper and Polaris derived stages, with the payload a passive glide body.",
+   "tier": 1,
+   "type": "research"
+  },
+  "e-4ae4877705": {
+   "endpoints": [
+    {
+     "id": "dird-concepts-for-extracting-energy-from-the",
+     "label": "Concepts for Extracting Energy From the Quantum Vacuum"
+    },
+    {
+     "id": "d-exotic",
+     "label": "Exotic Technology & Physics"
+    }
+   ],
+   "id": "e-4ae4877705",
+   "kind": "edge",
+   "label": "subject domain: zero-point/vacuum energy extraction",
+   "sources": [
+    {
+     "date": "2026-08-22",
+     "name": "Released DIRD, 'Concepts for Extracting Energy From the Quantum Vacuum' — FOIA copy, cover page read 22 August 2026",
+     "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_24-DIRD_Concepts_for_Extracting_Energy_from_the_Quantum_Vacuum.pdf"
+    },
+    {
+     "date": "2026-08-22",
+     "name": "DIA FOIA Electronic Reading Room entry for this reference document",
+     "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237645/"
+    },
+    {
+     "date": null,
+     "name": "https://earthtech.org/pubs/davis/",
+     "url": "https://earthtech.org/pubs/davis/"
+    }
+   ],
+   "text": "Davis and Puthoff had published the same argument in the open literature the year before as Chapter 18, 'On Extracting Energy from the Quantum Vacuum', in 'Frontiers of Propulsion Science' (AIAA, 2009), the volume Davis co-edited with Marc G. Millis - who wrote the 'Cockpits' DIRD. The AAWSAP author network is largely a pre-existing publishing network.",
+   "tier": 1,
+   "type": "research"
+  },
+  "e-4b273e0410": {
+   "endpoints": [
+    {
+     "id": "dird-series",
+     "label": "The 38 Defense Intelligence Reference Documents (DIRDs)"
+    },
+    {
+     "id": "dird-antigravity-for-aerospace-applications",
+     "label": "Antigravity for Aerospace Applications"
+    }
+   ],
+   "id": "e-4b273e0410",
+   "kind": "edge",
+   "label": "series member",
+   "sources": [
+    {
+     "date": "2026-08-22",
+     "name": "Released DIRD, 'Antigravity for Aerospace Applications' (FOIA copy, cover page read 22 August 2026)",
+     "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_19-DIRD_Antigravity_for_Aerospace_Applications.pdf"
+    },
+    {
+     "date": "2026-08-22",
+     "name": "DIA FOIA Electronic Reading Room, AAWSAP/AATIP reference-document entry",
+     "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237651/"
+    }
+   ],
+   "text": "Membership of the DIRD series is established by the released document itself: its cover page carries the Defense Intelligence Reference Document mark and the DIA Defense Futures banner. Document number DIA-08-1003-018. Publication date 30 March 2010 on the cover. 45 pages in the released copy. The cover of the scanned release is degraded, so a document number or date is asserted here only where it reads unambiguously.",
+   "tier": 1,
+   "type": "programmatic"
+  },
+  "e-5c7625eb62": {
+   "endpoints": [
+    {
+     "id": "marc-millis",
+     "label": "Marc G. Millis"
+    },
+    {
+     "id": "nasa-bpp",
+     "label": "NASA Breakthrough Propulsion Physics Project (1996-2002)"
+    }
+   ],
+   "id": "e-5c7625eb62",
+   "kind": "edge",
+   "label": "Managed NASA's Breakthrough Propulsion Physics Project, 1996 to 2002",
+   "sources": [
+    {
+     "date": "2004",
+     "name": "NASA/TM-2004-213082, Marc G. Millis, 'Prospects for Breakthrough Propulsion from Physics', NASA Glenn Research Center, 19 pages",
+     "url": "https://ntrs.nasa.gov/api/citations/20040070788/downloads/20040070788.pdf"
+    }
+   ],
+   "text": "NASA/TM-2004-213082 carries his name and his NASA Glenn Research Center affiliation on its title page and is the project's own summary of its methods and findings. This is an earlier and stronger institutional fact about him than the AAWSAP DIRD authorship the board already carries.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-5f64f65cea": {
+   "endpoints": [
+    {
+     "id": "dird-concepts-for-extracting-energy-from-the",
+     "label": "Concepts for Extracting Energy From the Quantum Vacuum"
+    },
+    {
+     "id": "eric-davis",
+     "label": "Eric W. Davis"
+    }
+   ],
+   "id": "e-5f64f65cea",
+   "kind": "edge",
+   "label": "authored by Eric W. Davis",
+   "sources": [
+    {
+     "date": "2026-08-22",
+     "name": "Released DIRD, 'Concepts for Extracting Energy From the Quantum Vacuum' — FOIA copy, cover page read 22 August 2026",
+     "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_24-DIRD_Concepts_for_Extracting_Energy_from_the_Quantum_Vacuum.pdf"
+    },
+    {
+     "date": "2026-08-22",
+     "name": "DIA FOIA Electronic Reading Room entry for this reference document",
+     "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237645/"
+    },
+    {
+     "date": "2026-08-23",
+     "name": "DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations",
+     "url": "https://fas.org/publication/aatip-list/"
+    },
+    {
+     "date": null,
+     "name": "https://irp.fas.org/dia/aatip-list.pdf",
+     "url": "https://irp.fas.org/dia/aatip-list.pdf"
+    },
+    {
+     "date": null,
+     "name": "https://earthtech.org/pubs/davis/",
+     "url": "https://earthtech.org/pubs/davis/"
+    }
+   ],
+   "text": "Doubly sourced. The DIA list of 9 January 2018 gives entry 14 as 'Concepts for Extracting Energy from the Quantum Vacuum, Dr Eric Davis, EarthTech International'. EarthTech's own bibliography for Davis cites the same document with the matching DIA number DIA-08-1004-007, confirming the attribution against the redacted cover page independently of the DIA list.",
+   "tier": 1,
+   "type": "research"
+  },
+  "e-63714edf5d": {
+   "endpoints": [
+    {
+     "id": "eric-davis",
+     "label": "Eric W. Davis"
+    },
+    {
+     "id": "dird-warp-drive-dark-energy-and-the",
+     "label": "Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions"
+    }
+   ],
+   "id": "e-63714edf5d",
+   "kind": "edge",
+   "label": "co-author per EarthTech International's own citation",
+   "sources": [
+    {
+     "date": "2026-08-22",
+     "name": "Released DIRD, 'Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions' — FOIA copy, cover page read 22 August 2026",
+     "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_13-DIRD_Warp_Drive_Dark_energy_and_the_Manipulation_of_Extra_Dimensions.pdf"
+    },
+    {
+     "date": "2026-08-22",
+     "name": "DIA FOIA Electronic Reading Room entry for this reference document",
+     "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237627/"
+    },
+    {
+     "date": null,
+     "name": "http://earthtech.org/pubs/davis/",
+     "url": "http://earthtech.org/pubs/davis/"
+    }
+   ],
+   "text": "EarthTech International's publications page cites the paper as \"Obousy, R. K. and Davis, E. W. (2010).\" Davis is a co-author, not the sole author, and is not the name DIA recorded on its list to Congress. Both facts are true and the board should carry both edges rather than collapse them.",
+   "tier": 1,
+   "type": "research"
+  },
+  "e-7c47cf14a4": {
+   "endpoints": [
+    {
+     "id": "dird-cockpits-in-the-era-of-breakthrough",
+     "label": "Cockpits in the Era of Breakthrough Flight"
+    },
+    {
+     "id": "marc-millis",
+     "label": "Marc G. Millis"
+    }
+   ],
+   "id": "e-7c47cf14a4",
+   "kind": "edge",
+   "label": "authored by Marc G. Millis, Tau Zero Foundation",
+   "sources": [
+    {
+     "date": "2026-08-22",
+     "name": "Released DIRD, 'Cockpits in the Era of Breakthrough Flight' — FOIA copy, cover page read 22 August 2026",
+     "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_28-DIRD_Cockpits_in_the_Era_of_Breakthrough_Flight.pdf"
+    },
+    {
+     "date": "2026-08-22",
+     "name": "DIA FOIA Electronic Reading Room entry for this reference document",
+     "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237653/"
+    },
+    {
+     "date": "2026-08-23",
+     "name": "DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations",
+     "url": "https://fas.org/publication/aatip-list/"
+    },
+    {
+     "date": null,
+     "name": "https://irp.fas.org/dia/aatip-list.pdf",
+     "url": "https://irp.fas.org/dia/aatip-list.pdf"
+    },
+    {
+     "date": null,
+     "name": "http://www.jbis.org.uk/paper.php?p=2013.66.278",
+     "url": "http://www.jbis.org.uk/paper.php?p=2013.66.278"
+    },
+    {
+     "date": null,
+     "name": "https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk",
+     "url": "https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk"
+    }
+   ],
+   "text": "The DIA list of 9 January 2018 records 'Cockpits in the Era of breakthrough Flight, Dr G Millis, Tau Zero'. The released PDF's author block is redacted under (b)(6). Identification with Marc G. Millis, founder of the Tau Zero Foundation and former head of NASA's Breakthrough Propulsion Physics project, is supported by the Tau Zero affiliation on the DIA list, by the open-source counterpart published as 'M G Millis' in JBIS in 2013, and by The War Zone's identification of Marc Millis among the AATIP authors.",
+   "tier": 1,
+   "type": "research"
+  },
+  "e-7d151e77c5": {
+   "endpoints": [
+    {
+     "id": "aawsap",
+     "label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)"
+    },
+    {
+     "id": "dird-antigravity-for-aerospace-applications",
+     "label": "Antigravity for Aerospace Applications"
+    }
+   ],
+   "id": "e-7d151e77c5",
+   "kind": "edge",
+   "label": "deliverable under AAWSAP",
+   "sources": [
+    {
+     "date": null,
+     "name": "documents2.theblackvault.com",
+     "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_19-DIRD_Antigravity_for_Aerospace_Applications.pdf"
+    },
+    {
+     "date": "2010-03-30",
+     "name": "DIA FOIA Reading Room — Antigravity for Aerospace Applications (PDF)",
+     "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237651/"
+    }
+   ],
+   "text": "The released document names the programme itself. Its inside cover reads 'This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency ... Advanced Aerospace Weapon System Applications (AAWSA) Program' - the redaction between them is (b)(3):10 USC 424. Verified by downloading this DIRD and scanning its full text on 23 August 2026. The scans are OCR-degraded, so the quotation is normalised from the damaged rendering.",
+   "tier": 1,
+   "type": "programmatic"
+  },
+  "e-81f714787a": {
+   "endpoints": [
+    {
+     "id": "eric-davis",
+     "label": "Eric W. Davis"
+    },
+    {
+     "id": "dird-antigravity-for-aerospace-applications",
+     "label": "Antigravity for Aerospace Applications"
+    }
+   ],
+   "id": "e-81f714787a",
+   "kind": "edge",
+   "label": "authored",
+   "sources": [
+    {
+     "date": "2026-08-22",
+     "name": "Released DIRD, 'Antigravity for Aerospace Applications' — FOIA copy, cover page read 22 August 2026",
+     "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_19-DIRD_Antigravity_for_Aerospace_Applications.pdf"
+    },
+    {
+     "date": "2026-08-22",
+     "name": "DIA FOIA Electronic Reading Room entry for this reference document",
+     "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237651/"
+    },
+    {
+     "date": "2026-08-23",
+     "name": "DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations",
+     "url": "https://fas.org/publication/aatip-list/"
+    },
+    {
+     "date": null,
+     "name": "https://irp.fas.org/dia/aatip-list.pdf",
+     "url": "https://irp.fas.org/dia/aatip-list.pdf"
+    },
+    {
+     "date": null,
+     "name": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html",
+     "url": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html"
+    }
+   ],
+   "text": "DIA list item 11 names \"Dr Eric Davis, EarthTech International\". Independently confirmed by EarthTech International's own publication list, which cites the document as Davis, E. W. (2010) with document number DIA-08-1003-018 and originating office Acquisition Support Division (DWO-3), Defense Warning Office.",
+   "tier": 1,
+   "type": "research"
+  },
+  "e-871883d35f": {
+   "endpoints": [
+    {
+     "id": "alcubierre-1994",
+     "label": "Alcubierre, 'The warp drive: hyper-fast travel within general relativity' (1994)"
+    },
+    {
+     "id": "dird-antigravity-for-aerospace-applications",
+     "label": "Antigravity for Aerospace Applications"
+    }
+   ],
+   "id": "e-871883d35f",
+   "kind": "edge",
+   "label": "Reference [43] of the antigravity DIRD, and its only appearance in that document",
+   "sources": [
+    {
+     "date": "1994",
+     "name": "Miguel Alcubierre, 'The warp drive: hyper-fast travel within general relativity', Class. Quantum Grav. 11-5, L73-L77",
+     "url": "https://arxiv.org/abs/gr-qc/0009013"
+    },
+    {
+     "date": "2010-03-30",
+     "name": "Defense Intelligence Reference Document DIA-08-1003-018, 'Antigravity for Aerospace Applications', 45 pages as released",
+     "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_19-DIRD_Antigravity_for_Aerospace_Applications.pdf"
+    }
+   ],
+   "text": "Cited once, in the reference list. Recorded because the count matters to this board: in a 45-page government survey of antigravity, the warp paper appears once and Thomas Townsend Brown does not appear at all.",
+   "tier": 1,
+   "type": "research"
+  },
+  "e-9037c18b0f": {
+   "endpoints": [
+    {
+     "id": "george-hathaway",
+     "label": "George D. Hathaway"
+    },
+    {
+     "id": "dird-the-role-of-superconductors-in-gravity",
+     "label": "The Role of Superconductors in Gravity Research"
+    }
+   ],
+   "id": "e-9037c18b0f",
+   "kind": "edge",
+   "label": "author of record on the DIA list",
+   "sources": [
+    {
+     "date": "2026-08-22",
+     "name": "Released DIRD, 'The Role of Superconductors in Gravity Research' — FOIA copy, cover page read 22 August 2026",
+     "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_14-DIRD_The_Role_of_Superconductors_in_Gravity_Research.pdf"
+    },
+    {
+     "date": "2026-08-22",
+     "name": "DIA FOIA Electronic Reading Room entry for this reference document",
+     "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237631/"
+    },
+    {
+     "date": "2026-08-23",
+     "name": "DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations",
+     "url": "https://fas.org/publication/aatip-list/"
+    },
+    {
+     "date": null,
+     "name": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html",
+     "url": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html"
+    },
+    {
+     "date": null,
+     "name": "https://irp.fas.org/dia/aatip-list.pdf",
+     "url": "https://irp.fas.org/dia/aatip-list.pdf"
+    }
+   ],
+   "text": "DIA list item 10: \"Role of Superconductors in Gravity Research, Dr George Hathaway, Hathaway Consulting.\" This is the attribution most likely to be got wrong from the title alone: the paper reviews the Podkletnov and Ning Li gravity-modification claims but was not written by either of them or by any academic advocate of the effect. It was written by the Toronto engineer who had run the Podkletnov replication and reported null results.",
+   "tier": 1,
+   "type": "research"
+  },
+  "e-918a4ea656": {
+   "endpoints": [
+    {
+     "id": "canning-nasa-cr-2004-213312",
+     "label": "NASA/CR-2004-213312, 'Asymmetrical Capacitors for Propulsion' (2004)"
+    },
+    {
+     "id": "thomas-townsend-brown",
+     "label": "Thomas Townsend Brown"
+    }
+   ],
+   "id": "e-918a4ea656",
+   "kind": "edge",
+   "label": "Cites both Brown patents and GB 300,311 by number, and models the thrust as ion drift",
+   "sources": [
+    {
+     "date": "2004-10",
+     "name": "NASA/CR-2004-213312, Canning, Melcher and Winet, 'Asymmetrical Capacitors for Propulsion', 23 pages",
+     "url": "https://ntrs.nasa.gov/api/citations/20040171929/downloads/20040171929.pdf"
+    }
+   ],
+   "text": "THE JOIN IS DOCUMENTARY AND NOT TOPICAL. The report's reference list opens with 'Brown, T.T., US Patent 2,949,550', 'Brown, T.T., US Patent 3,187,206' and 'Brown, T.T., GB Patent 300,311', which are exactly the three Brown documents this board already carries. Its conclusion is that the operation of such devices 'is fully explained by a very simple theory that uses only electrostatic forces and the transfer of momentum by multiple collisions'.",
+   "tier": 1,
+   "type": "research"
+  },
+  "e-9302032cfa": {
+   "endpoints": [
+    {
+     "id": "institute-of-field-physics",
+     "label": "Institute of Field Physics (UNC Chapel Hill)"
+    },
+    {
+     "id": "d-prop",
+     "label": "Propulsion & Field Physics"
+    }
+   ],
+   "id": "e-9302032cfa",
+   "kind": "edge",
+   "label": "Standing written disclaimer of any connection to anti-gravity research",
+   "sources": [
+    {
+     "date": "2026-09-02",
+     "name": "History of the Institute of Field Physics (1955-1959), Section II",
+     "url": "https://physics.unc.edu/department-history/section-ii/"
+    }
+   ],
+   "text": "On Wheeler's insistence a Protection Clause was attached to every publicity statement declaring that the work 'has no connection with so-called \"anti-gravity research\" of whatever kind and for whatever purposes'. The direction of this edge is the Institute denying the field, not the field denying the Institute.",
+   "tier": 1,
+   "type": "denial"
+  },
+  "e-93873f5cbd": {
+   "endpoints": [
+    {
+     "id": "yamato-1",
+     "label": "Yamato-1, the world's first superconducting MHD-propelled ship (1992)"
+    },
+    {
+     "id": "dird-mhd-air-breathing-propulsion-and-power",
+     "label": "MHD Air Breathing Propulsion and Power for Aerospace Applications"
+    }
+   ],
+   "id": "e-93873f5cbd",
+   "kind": "edge",
+   "label": "The built vessel and the government survey describe the same physics",
+   "sources": [
+    {
+     "date": "1995-04",
+     "name": "OSTI record and abstract for the YAMATO-1 paper",
+     "url": "https://www.osti.gov/biblio/135352"
+    },
+    {
+     "date": "2010-11-21",
+     "name": "Defense Intelligence Reference Document DIA-08-1011-006, 33 pages as released",
+     "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_33-DIRD_MHD_Air_Breathing_Propulsion_and_Power_for_Aerospace_Applications.pdf"
+    }
+   ],
+   "text": "STATED INFERENCE OF SUBJECT SIMILARITY. The DIRD does not mention Yamato-1 and nothing joins them. Both concern a magnetic field acting on a conducting fluid with the fluid as the reaction mass, one in seawater and one in ionised air.",
+   "tier": 3,
+   "type": "research"
+  },
+  "e-9594c4bce3": {
+   "endpoints": [
+    {
+     "id": "millis-tm-2004-213082",
+     "label": "NASA/TM-2004-213082, 'Prospects for Breakthrough Propulsion from Physics' (2004)"
+    },
+    {
+     "id": "thomas-townsend-brown",
+     "label": "Thomas Townsend Brown"
+    }
+   ],
+   "id": "e-9594c4bce3",
+   "kind": "edge",
+   "label": "NASA: the observed thrust is ion wind, and these devices are not viable candidates",
+   "sources": [
+    {
+     "date": "2004",
+     "name": "NASA/TM-2004-213082, Marc G. Millis, 'Prospects for Breakthrough Propulsion from Physics', NASA Glenn Research Center, 19 pages",
+     "url": "https://ntrs.nasa.gov/api/citations/20040070788/downloads/20040070788.pdf"
+    }
+   ],
+   "text": "EXPLICIT DENIAL EDGE, AND ITS SCOPE MUST NOT BE OVERSTATED. Section 3.2.7: 'To date, all rigorous experimental tests indicate that the observed thrust is attributable to ion wind... These \"Biefeld-Brown,\" \"Lifter\" and \"Asymmetrical Capacitor Thrusters\" are not viable candidates for breakthrough physics propulsion.' THIS IS A FINDING ABOUT THE EFFECT AND THE DEVICES BUILT ON IT. It is NOT a finding about what Brown's patents claim, because neither patent ever claimed anti-gravity: the word 'gravity' appears zero times in both. The denial lands on the electrogravitic reading of the effect, not on the inventor's own text.",
+   "tier": 1,
+   "type": "denial"
+  },
+  "e-9cfb945495": {
+   "endpoints": [
+    {
+     "id": "canning-nasa-cr-2004-213312",
+     "label": "NASA/CR-2004-213312, 'Asymmetrical Capacitors for Propulsion' (2004)"
+    },
+    {
+     "id": "millis-tm-2004-213082",
+     "label": "NASA/TM-2004-213082, 'Prospects for Breakthrough Propulsion from Physics' (2004)"
+    }
+   ],
+   "id": "e-9cfb945495",
+   "kind": "edge",
+   "label": "The experiment behind the survey's ion-wind finding",
+   "sources": [
+    {
+     "date": "2004",
+     "name": "NASA/TM-2004-213082, Marc G. Millis, 'Prospects for Breakthrough Propulsion from Physics', NASA Glenn Research Center, 19 pages",
+     "url": "https://ntrs.nasa.gov/api/citations/20040070788/downloads/20040070788.pdf"
+    },
+    {
+     "date": "2004-10",
+     "name": "NASA/CR-2004-213312, Canning, Melcher and Winet, 'Asymmetrical Capacitors for Propulsion', 23 pages",
+     "url": "https://ntrs.nasa.gov/api/citations/20040171929/downloads/20040171929.pdf"
+    }
+   ],
+   "text": "Reference 55 of NASA/TM-2004-213082 names the same Institute for Scientific Research work, planned for the 40th AIAA/ASME/SAE/ASEE Joint Propulsion Conference in July 2004. The contractor report is the measurement; the technical memorandum is the ruling.",
+   "tier": 1,
+   "type": "research"
+  },
+  "e-a3349f8440": {
+   "endpoints": [
+    {
+     "id": "thomas-townsend-brown",
+     "label": "Thomas Townsend Brown"
+    },
+    {
+     "id": "lockheed-martin",
+     "label": "Lockheed Martin Corporation"
+    }
+   ],
+   "id": "e-a3349f8440",
+   "kind": "edge",
+   "label": "US 2,417,347 assigned by mesne assignments to Lockheed Aircraft Corporation",
+   "sources": [
+    {
+     "date": "1947-03-11",
+     "name": "US Patent 2,417,347, Vibration Damper, assignment line",
+     "url": "https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/2417347"
+    }
+   ],
+   "text": "The patent's own inventor line reads 'Thomas T. Brown, Laguna Beach, Calif., assignor by mesne assignments to Lockheed Aircraft Corporation'. This is the one item in Brown's self-authored biography that a second document corroborates.",
+   "tier": 1,
+   "type": "research"
+  },
+  "e-a88b20add2": {
+   "endpoints": [
+    {
+     "id": "canning-nasa-cr-2004-213312",
+     "label": "NASA/CR-2004-213312, 'Asymmetrical Capacitors for Propulsion' (2004)"
+    },
+    {
+     "id": "nasa",
+     "label": "National Aeronautics and Space Administration"
+    }
+   ],
+   "id": "e-a88b20add2",
+   "kind": "edge",
+   "label": "A NASA contractor report, published under a NASA/CR number",
+   "sources": [
+    {
+     "date": "2004-10",
+     "name": "NASA/CR-2004-213312, Canning, Melcher and Winet, 'Asymmetrical Capacitors for Propulsion', 23 pages",
+     "url": "https://ntrs.nasa.gov/api/citations/20040171929/downloads/20040171929.pdf"
+    }
+   ],
+   "text": "NASA/CR-2004-213312. The board's funding edge type is used because a contractor report records who paid for the work; the performing organisation was the Institute for Scientific Research of Fairmont, West Virginia, for which no node is proposed because nothing about the organisation itself was opened.",
+   "tier": 1,
+   "type": "funding"
+  },
+  "e-b84393e85b": {
+   "endpoints": [
+    {
+     "id": "alcubierre-1994",
+     "label": "Alcubierre, 'The warp drive: hyper-fast travel within general relativity' (1994)"
+    },
+    {
+     "id": "dird-warp-drive-dark-energy-and-the",
+     "label": "Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions"
+    }
+   ],
+   "id": "e-b84393e85b",
+   "kind": "edge",
+   "label": "Reference 1 of the DIRD, and the source of the idea it builds on",
+   "sources": [
+    {
+     "date": "1994",
+     "name": "Miguel Alcubierre, 'The warp drive: hyper-fast travel within general relativity', Class. Quantum Grav. 11-5, L73-L77",
+     "url": "https://arxiv.org/abs/gr-qc/0009013"
+    },
+    {
+     "date": "2010-04-02",
+     "name": "Defense Intelligence Reference Document DIA-08-1004-001, 34 pages as released",
+     "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_13-DIRD_Warp_Drive_Dark_energy_and_the_Manipulation_of_Extra_Dimensions.pdf"
+    }
+   ],
+   "text": "The DIRD prints the citation as 'Alcubierre, M., \"The warp drive: hyper-fast travel within general relativity.\" Classical and Quantum Gravity, vol. 11, 1994, pp. L73-L77' and states in its introduction that the 1994 paper 'placed the idea on a more solid theoretical footing'.",
+   "tier": 1,
+   "type": "research"
+  },
+  "e-b9e8ff5af0": {
+   "endpoints": [
+    {
+     "id": "salvatore-pais",
+     "label": "Salvatore Cezar Pais"
+    },
+    {
+     "id": "pais-patent-hfgw",
+     "label": "US Patent 10,322,827 - High frequency gravitational wave generator"
+    }
+   ],
+   "id": "e-b9e8ff5af0",
+   "kind": "edge",
+   "label": "Named inventor",
+   "sources": [
+    {
+     "date": null,
+     "name": "US Patent 10,322,827",
+     "url": "https://www.freepatentsonline.com/10322827.html"
+    }
+   ],
+   "text": "Application 15/431823, assigned to the Secretary of the Navy.",
+   "tier": 2,
+   "type": "programmatic"
+  },
+  "e-c1325a6e0d": {
+   "endpoints": [
+    {
+     "id": "eric-davis",
+     "label": "Eric W. Davis"
+    },
+    {
+     "id": "arv-fluxliner",
+     "label": "Alien Reproduction Vehicle (ARV) / Flux Liner"
+    }
+   ],
+   "id": "e-c1325a6e0d",
+   "kind": "edge",
+   "label": "Says no such craft exists and none has ever been built",
+   "sources": [
+    {
+     "date": "2024-12-12",
+     "name": "Jesse Michels, video id LnAiNChnuEQ",
+     "url": "https://www.youtube.com/watch?v=LnAiNChnuEQ"
+    }
+   ],
+   "text": "research/leads/michels-corpus-03.md file 04 at 0:36:24 to 0:38:00 records Davis saying the ARV rumours are 'all myth', that they originate with Bob Lazar-type storytellers who 'believe their own bullshit' rather than with deliberate disinformation, and that the CIA 'shut it all down' in 1989. The corpus recorded the episode as 'CIA Scientist: George Bush Was Briefed on UFOs (ft. Eric Davis)' on 'American Alchemy'; as opened 18 September 2026 the same video id carries a different title on the channel 'Jesse Michels'. The corpus timestamp falls inside the 52:45 runtime.",
+   "tier": 2,
+   "type": "denial"
+  },
+  "e-c7e57363d4": {
+   "endpoints": [
+    {
+     "id": "dird-mhd-air-breathing-propulsion-and-power",
+     "label": "MHD Air Breathing Propulsion and Power for Aerospace Applications"
+    },
+    {
+     "id": "lockheed-martin",
+     "label": "Lockheed Martin Corporation"
+    }
+   ],
+   "id": "e-c7e57363d4",
+   "kind": "edge",
+   "label": "author's employer at time of writing (Skunk Works)",
+   "sources": [
+    {
+     "date": "2026-08-22",
+     "name": "Released DIRD, 'MHD Air Breathing Propulsion and Power for Aerospace Applications' — FOIA copy, cover page read 22 August 2026",
+     "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_33-DIRD_MHD_Air_Breathing_Propulsion_and_Power_for_Aerospace_Applications.pdf"
+    },
+    {
+     "date": "2026-08-22",
+     "name": "DIA FOIA Electronic Reading Room entry for this reference document",
+     "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237629/"
+    },
+    {
+     "date": "2026-08-23",
+     "name": "DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations",
+     "url": "https://fas.org/publication/aatip-list/"
+    },
+    {
+     "date": null,
+     "name": "https://irp.fas.org/dia/aatip-list.pdf",
+     "url": "https://irp.fas.org/dia/aatip-list.pdf"
+    },
+    {
+     "date": null,
+     "name": "https://en.wikipedia.org/wiki/Sergey_Macheret",
+     "url": "https://en.wikipedia.org/wiki/Sergey_Macheret"
+    },
+    {
+     "date": null,
+     "name": "https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk",
+     "url": "https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk"
+    }
+   ],
+   "text": "Lockheed Martin is the affiliation recorded on the DIA congressional list. Macheret was a senior staff engineer at Lockheed Martin Aeronautics, Skunk Works, from 2006 to 2014, bracketing the document's ICOD and publication date. Lockheed Martin is credited with three of the 38 products on the DIA list.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-d9cf01901c": {
+   "endpoints": [
+    {
+     "id": "salvatore-pais",
+     "label": "Salvatore Cezar Pais"
+    },
+    {
+     "id": "pais-patent-imrd",
+     "label": "US Patent 10,144,532 - Craft using an inertial mass reduction device"
+    }
+   ],
+   "id": "e-d9cf01901c",
+   "kind": "edge",
+   "label": "Named inventor",
+   "sources": [
+    {
+     "date": null,
+     "name": "US Patent 10,144,532",
+     "url": "https://www.freepatentsonline.com/10144532.html"
+    }
+   ],
+   "text": "Application 15/141270, assigned to the Secretary of the Navy.",
+   "tier": 2,
+   "type": "programmatic"
+  },
+  "e-e51342ce2c": {
+   "endpoints": [
+    {
+     "id": "d-exotic",
+     "label": "Exotic Technology & Physics"
+    },
+    {
+     "id": "d-prop",
+     "label": "Propulsion & Field Physics"
+    }
+   ],
+   "id": "e-e51342ce2c",
+   "kind": "edge",
+   "label": "Field physics is the propulsion answer",
+   "sources": [
+    {
+     "date": "2008-08-22",
+     "name": "AAWSAP Statement of Work",
+     "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP/SOW_Aerospace.pdf"
+    }
+   ],
+   "text": "DIRD 15 and DIRD 19 are commissioned studies of metric engineering and antigravity - the exotic-physics domain applied to the flight problem.",
+   "tier": 1,
+   "type": "research"
+  },
+  "e-ed83fe1423": {
+   "endpoints": [
+    {
+     "id": "james-lacatski",
+     "label": "James T. Lacatski"
+    },
+    {
+     "id": "aawsap",
+     "label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)"
+    }
+   ],
+   "id": "e-ed83fe1423",
+   "kind": "edge",
+   "label": "Government Project Leader",
+   "sources": [
+    {
+     "date": "2008-08-18",
+     "name": "The Black Vault — AAWSAP Original Bid Solicitation",
+     "url": "https://www.theblackvault.com/documentarchive/advanced-aerospace-weapon-systems-applications-program-aawsap-original-bid-solicitation/"
+    }
+   ],
+   "text": "Named unredacted as Government Project Leader on the public DIA solicitation HHM402-08-R-0211; redacted under 10 USC 424 in every later release.",
+   "tier": 1,
+   "type": "programmatic"
+  },
+  "e-fedd3edc5c": {
+   "endpoints": [
+    {
+     "id": "dird-maverick-inventor-versus-corporate-inventor-where",
+     "label": "Maverick Inventor Versus Corporate Inventor: Where Will the Next Major Innovations Arise?"
+    },
+    {
+     "id": "george-hathaway",
+     "label": "George D. Hathaway"
+    }
+   ],
+   "id": "e-fedd3edc5c",
+   "kind": "edge",
+   "label": "authored by",
+   "sources": [
+    {
+     "date": "2026-08-22",
+     "name": "Released DIRD, 'Maverick Inventor Versus Corporate Inventor: Where Will the Next Major' — FOIA copy, cover page read 22 August 2026",
+     "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_17-DIRD_Maverick_Inventor_Versus_Corporate_Inventor-Where_Will_the_Next_major_Innovations_Arise.pdf"
+    },
+    {
+     "date": "2026-08-22",
+     "name": "DIA FOIA Electronic Reading Room entry for this reference document",
+     "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237624/"
+    },
+    {
+     "date": "2026-08-23",
+     "name": "DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations",
+     "url": "https://fas.org/publication/aatip-list/"
+    },
+    {
+     "date": null,
+     "name": "https://irp.fas.org/dia/aatip-list.pdf",
+     "url": "https://irp.fas.org/dia/aatip-list.pdf"
+    },
+    {
+     "date": null,
+     "name": "https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/",
+     "url": "https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/"
+    }
+   ],
+   "text": "The DIA congressional list credits 'Maverick Inventor Versus Corporate Inventor: Where Will the Next Major Innovations Arise?' to 'Dr George Hathaway, Hathaway Consulting'. Hathaway is also credited on the same list with 'Role of Superconductors in Gravity Research'. The author line on the released PDF is redacted under (b)(6).",
+   "tier": 1,
+   "type": "research"
+  },
+  "e-fffece6570": {
+   "endpoints": [
+    {
+     "id": "king-patent-mhd",
+     "label": "US Patent 3,322,374, 'Magnetohydrodynamic Propulsion Apparatus' (King, 1967)"
+    },
+    {
+     "id": "arv-fluxliner",
+     "label": "Alien Reproduction Vehicle (ARV) / Flux Liner"
+    }
+   ],
+   "id": "e-fffece6570",
+   "kind": "edge",
+   "label": "Cited FOR the ARV account's 'Scalar Physics' callout and does not support it",
+   "sources": [
+    {
+     "date": "1967-05-30",
+     "name": "US Patent 3,322,374, 'Magnetohydrodynamic Propulsion Apparatus', James F. King Jr., 7 pages",
+     "url": "https://patentimages.storage.googleapis.com/6f/35/54/257dd6cdb01efc/US3322374.pdf"
+    }
+   ],
+   "text": "THE STRAND'S FOUNDING EDGE AND ITS DIRECTION OF READING IS LOAD-BEARING. This edge records a FAILED CITATION, not a connection. The patent was offered as 'ample evidence' that the 'Scalar Physics' callout in section D of the McCandlish ARV drawing refers to spin-zero scalar particles. Word counts across all seven pages: scalar 0, spin 0, gravity 0, anti-gravity 0, zero point 0. NOBODY DENIED ANYTHING HERE: a real, openable, mundane document simply does not say what was said of it, which is why the verdict is association and not directed.",
+   "tier": 1,
+   "type": "denial"
+  }
+ },
+ "claimed": [
+  {
+   "cite": [
+    "e-0b4aa2604c"
+   ],
+   "text": "The ARV account attributes its claimed lift effect to a Brown patent of the late 1950s or early 1960s, which on the board's record claims electrokinetic thrust in a dielectric medium, not levitation."
+  },
+  {
+   "cite": [
+    "e-fffece6570",
+    "c-fe53bb50b0"
+   ],
+   "text": "King's 1967 patent was put forward as ample evidence that a Scalar Physics callout on the ARV drawing refers to spin-zero particles."
+  },
+  {
+   "cite": [
+    "c-a3ecaebbee",
+    "e-4541926bd7"
+   ],
+   "text": "Hathaway is the board's only link to the Hutchison claim, and it runs through a person: his firm's page lists him as author of a book on the Hutchison files, and no peer-reviewed publication or primary record of a controlled demonstration was found."
+  },
+  {
+   "cite": [
+    "c-d9ac9f7dd5",
+    "c-1fefbd7557"
+   ],
+   "text": "James Lacatski states he personally entered a craft of unknown origin while working the programme, and that AAWSAP produced more than 100 detailed reports beyond the DIRDs."
+  },
+  {
+   "cite": [
+    "c-04f88b0ddd"
+   ],
+   "text": "Daniel Sheehan said on the Danny Jones Podcast in February 2024 that Prompt Global Strike was an effort to use reverse-engineered craft propulsion for a two-minute missile strike."
+  },
+  {
+   "cite": [
+    "c-15b334c53a"
+   ],
+   "text": "How the warp drive DIRD reached the public: it first appeared on a website operated by Corey Goode in December 2017, and Davis confirmed by email to a researcher that the circulating copy was genuine."
+  }
+ ],
+ "contested": [
+  {
+   "cite": [
+    "e-9594c4bce3",
+    "c-52f57f85fb"
+   ],
+   "text": "NASA's finding on Biefeld-Brown is a finding about the effect and the devices, not about Brown's patents, which never claimed anti-gravity. An Army Research Laboratory study disagreed with NASA on the size of the ion-wind contribution, but neither invokes new physics."
+  },
+  {
+   "cite": [
+    "c-e2b8df3ec4",
+    "e-fffece6570"
+   ],
+   "text": "King's patent does not support what was claimed for it: across seven pages the words scalar, spin, gravity, anti-gravity and zero point appear zero times. The board records this as a failed citation, not a dispute."
+  },
+  {
+   "cite": [
+    "c-227b7ce895",
+    "e-08b7e5fa8d",
+    "e-93873f5cbd"
+   ],
+   "text": "On the board's inference, Yamato-1 shows that the mechanism King claimed does not require a secret to exist; nothing joins the ship to the patent or to DIA's MHD survey."
+  },
+  {
+   "cite": [
+    "c-c757ecee42",
+    "e-0acb0a1280"
+   ],
+   "text": "DIA's 45-page antigravity survey does not mention Brown at all. The board is explicit that this is not a finding that DIA considered and rejected him."
+  },
+  {
+   "cite": [
+    "c-d9d0bfeb7d",
+    "c-ca79a374f0",
+    "c-199d2f194c",
+    "c-79456524f0"
+   ],
+   "text": "Hathaway is reported to have run the Podkletnov rotating-superconductor experiment from 1996 to 2003 and obtained null results, and DIA then commissioned the superconductor review from him. Neither his Maverick Inventor DIRD nor NASA's survey mentions the Hutchison effect."
+  },
+  {
+   "cite": [
+    "e-48194974bf",
+    "c-94a8e11b16",
+    "c-693e96acae",
+    "c-04f88b0ddd"
+   ],
+   "text": "The CRS record of Prompt Global Strike traces every booster to existing Trident II, Peacekeeper or Polaris stages, with a passive glide body as payload, contradicting the reverse-engineering account."
+  },
+  {
+   "cite": [
+    "e-c1325a6e0d"
+   ],
+   "text": "Eric Davis said on a Jesse Michels episode that no ARV exists or has been built and that the rumours are myth."
+  },
+  {
+   "cite": [
+    "e-63714edf5d",
+    "c-e085ac1261",
+    "c-e588d31a86"
+   ],
+   "text": "The attributions themselves are uncertain: Davis is a co-author of the warp drive paper, not its sole author, and is not the name DIA recorded; and although the solicitation names Lacatski as Government Project Leader, no primary document the board has reached names him as the programme manager redacted on the released DIRDs."
+  },
+  {
+   "cite": [
+    "c-fb09fc8b38"
+   ],
+   "text": "The JASON advisory group's 2008 assessment of a high-frequency gravitational wave concept concluded that the proposed applications of the science are fundamentally wrong, a critique published before DIA accepted a reference document on the subject."
+  },
+  {
+   "cite": [
+    "c-81c9b24315"
+   ],
+   "text": "DIA located no records of the 19 June 2007 letter from Lacatski to Bigelow described in the book Skinwalkers at the Pentagon, and the appeal also returned none."
+  }
+ ],
  "essays": [],
  "focusEra": "2",
  "id": "propulsion-claims",
  "kind": "allegation",
- "lead": null,
- "members": [],
+ "lead": {
+  "cite": [
+   "c-859ce408c8",
+   "c-8bda8ea947",
+   "c-d7ade2ebfb",
+   "e-fffece6570",
+   "c-e2b8df3ec4",
+   "c-5bfcd43634"
+  ],
+  "text": "The UAP literature invokes named physics for exotic propulsion: the Biefeld-Brown effect, Alcubierre's warp metric, antigravity, and a magnetohydrodynamic patent offered as evidence for a claimed craft's drawing. NASA's own propulsion project ruled on several of these by name, and on the board's reading each document cited for a mechanism, once opened, says less than is claimed for it."
+ },
+ "members": [
+  {
+   "cls": "program",
+   "id": "nasa-bpp",
+   "label": "NASA Breakthrough Propulsion Physics Project (1996-2002)",
+   "role": "programme"
+  },
+  {
+   "cls": "institution",
+   "id": "nasa",
+   "label": "National Aeronautics and Space Administration",
+   "role": "institution"
+  },
+  {
+   "cls": "person",
+   "id": "marc-millis",
+   "label": "Marc G. Millis",
+   "role": "researcher"
+  },
+  {
+   "cls": "document",
+   "id": "millis-tm-2004-213082",
+   "label": "NASA/TM-2004-213082, 'Prospects for Breakthrough Propulsion from Physics' (2004)",
+   "role": "document"
+  },
+  {
+   "cls": "document",
+   "id": "canning-nasa-cr-2004-213312",
+   "label": "NASA/CR-2004-213312, 'Asymmetrical Capacitors for Propulsion' (2004)",
+   "role": "document"
+  },
+  {
+   "cls": "document",
+   "id": "alcubierre-1994",
+   "label": "Alcubierre, 'The warp drive: hyper-fast travel within general relativity' (1994)",
+   "role": "document"
+  },
+  {
+   "cls": "document",
+   "id": "king-patent-mhd",
+   "label": "US Patent 3,322,374, 'Magnetohydrodynamic Propulsion Apparatus' (King, 1967)",
+   "role": "document"
+  },
+  {
+   "cls": "program",
+   "id": "yamato-1",
+   "label": "Yamato-1, the world's first superconducting MHD-propelled ship (1992)",
+   "role": "programme"
+  },
+  {
+   "cls": "person",
+   "id": "thomas-townsend-brown",
+   "label": "Thomas Townsend Brown",
+   "role": "researcher"
+  },
+  {
+   "cls": "program",
+   "id": "arv-fluxliner",
+   "label": "Alien Reproduction Vehicle (ARV) / Flux Liner",
+   "role": "subject"
+  },
+  {
+   "cls": "document",
+   "id": "dird-series",
+   "label": "The 38 Defense Intelligence Reference Documents (DIRDs)",
+   "role": "document"
+  },
+  {
+   "cls": "program",
+   "id": "aawsap",
+   "label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)",
+   "role": "programme"
+  },
+  {
+   "cls": "person",
+   "id": "james-lacatski",
+   "label": "James T. Lacatski",
+   "role": "official"
+  },
+  {
+   "cls": "document",
+   "id": "dird-antigravity-for-aerospace-applications",
+   "label": "Antigravity for Aerospace Applications",
+   "role": "document"
+  },
+  {
+   "cls": "document",
+   "id": "dird-warp-drive-dark-energy-and-the",
+   "label": "Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions",
+   "role": "document"
+  },
+  {
+   "cls": "document",
+   "id": "dird-mhd-air-breathing-propulsion-and-power",
+   "label": "MHD Air Breathing Propulsion and Power for Aerospace Applications",
+   "role": "document"
+  },
+  {
+   "cls": "document",
+   "id": "dird-the-role-of-superconductors-in-gravity",
+   "label": "The Role of Superconductors in Gravity Research",
+   "role": "document"
+  },
+  {
+   "cls": "document",
+   "id": "dird-maverick-inventor-versus-corporate-inventor-where",
+   "label": "Maverick Inventor Versus Corporate Inventor: Where Will the Next Major Innovations Arise?",
+   "role": "document"
+  },
+  {
+   "cls": "document",
+   "id": "dird-cockpits-in-the-era-of-breakthrough",
+   "label": "Cockpits in the Era of Breakthrough Flight",
+   "role": "document"
+  },
+  {
+   "cls": "document",
+   "id": "dird-concepts-for-extracting-energy-from-the",
+   "label": "Concepts for Extracting Energy From the Quantum Vacuum",
+   "role": "document"
+  },
+  {
+   "cls": "person",
+   "id": "eric-davis",
+   "label": "Eric W. Davis",
+   "role": "researcher"
+  },
+  {
+   "cls": "person",
+   "id": "harold-puthoff",
+   "label": "Harold E. Puthoff",
+   "role": "researcher"
+  },
+  {
+   "cls": "person",
+   "id": "george-hathaway",
+   "label": "George D. Hathaway",
+   "role": "researcher"
+  },
+  {
+   "cls": "person",
+   "id": "sergey-macheret",
+   "label": "Sergey O. Macheret",
+   "role": "contractor"
+  },
+  {
+   "cls": "institution",
+   "id": "lockheed-martin",
+   "label": "Lockheed Martin Corporation",
+   "role": "contractor"
+  },
+  {
+   "cls": "person",
+   "id": "salvatore-pais",
+   "label": "Salvatore Cezar Pais",
+   "role": "researcher"
+  },
+  {
+   "cls": "document",
+   "id": "pais-patent-hfgw",
+   "label": "US Patent 10,322,827 - High frequency gravitational wave generator",
+   "role": "document"
+  },
+  {
+   "cls": "document",
+   "id": "pais-patent-imrd",
+   "label": "US Patent 10,144,532 - Craft using an inertial mass reduction device",
+   "role": "document"
+  },
+  {
+   "cls": "program",
+   "id": "conventional-prompt-global-strike",
+   "label": "Conventional Prompt Global Strike",
+   "role": "programme"
+  },
+  {
+   "cls": "institution",
+   "id": "institute-of-field-physics",
+   "label": "Institute of Field Physics (UNC Chapel Hill)",
+   "role": "institution"
+  }
+ ],
  "notes": "The 19 September propulsion pass found each document says less than is claimed for it.",
- "questions": [],
- "record": [],
- "related": [],
+ "questions": [
+  "What did the three references behind NASA's ion-wind finding, including Talley's Air Force vacuum report, actually measure? None has been opened.",
+  "What were the sixteen tasks of NASA's Breakthrough Propulsion Physics Project, what did it cost and why did it close in 2002?",
+  "What speeds and thrust did Yamato-1 achieve at sea? The board carries no performance figure because the paper was not opened.",
+  "Was King's magnetohydrodynamic apparatus ever built?",
+  "Who is the redacted AAWSA programme manager on every released DIRD, and does a primary record name him?",
+  "Is there any peer-reviewed publication or controlled demonstration of the Hutchison effect?"
+ ],
+ "record": [
+  {
+   "cite": [
+    "c-f3c125654c",
+    "c-450d104e31",
+    "c-203975076f",
+    "e-1382ddfcca",
+    "e-5c7625eb62",
+    "c-b5d6d0ff37"
+   ],
+   "text": "NASA supported the Breakthrough Propulsion Physics Project from 1996 through 2002 with three grand challenges: propulsion without propellant, hyper-fast travel and breakthrough power. Of 16 incremental research tasks, about a third were found not viable, a quarter had clear openings for sequels, and the rest remained unresolved. Marc Millis of NASA Glenn managed it."
+  },
+  {
+   "cite": [
+    "c-8bda8ea947",
+    "c-4382857e9f",
+    "c-a69b4a089b",
+    "c-06ec5a3c13",
+    "e-285a3bdd1b"
+   ],
+   "text": "Millis's 2004 summary rules that all rigorous tests attribute the thrust of Biefeld-Brown devices, lifters and asymmetrical capacitors to ion wind and that they are not viable candidates for breakthrough propulsion. On metric engineering it says such concepts need enormous quantities of negative energy and are extremely unlikely to be engineered, and records that the term's origin is unknown."
+  },
+  {
+   "cite": [
+    "c-a3434ea538",
+    "e-b9e8ff5af0"
+   ],
+   "text": "The same memorandum treats high frequency gravitational waves as a detection problem, fifteen years before the Navy was granted a patent for a generator of them."
+  },
+  {
+   "cite": [
+    "c-a1c5213d38",
+    "c-eb94409edc",
+    "e-918a4ea656",
+    "c-363ecab128",
+    "e-9cfb945495",
+    "e-a88b20add2"
+   ],
+   "text": "NASA's contractor report on asymmetrical capacitor thrusters, whose reference list opens with Brown's two US patents and his British patent, found their operation fully explained by electrostatic forces and the transfer of momentum by multiple collisions. It quotes an Air Force-contract measurement that found no detectable propulsive force under high vacuum."
+  },
+  {
+   "cite": [
+    "c-d7ade2ebfb",
+    "c-fd15e2461e",
+    "c-f077805cf8",
+    "c-6771c06391"
+   ],
+   "text": "Alcubierre's 1994 paper states in its own abstract that exotic matter will be needed to generate the distortion it describes; the metric violates all three energy conditions, and the word device appears nowhere in it. His conclusion notes that quantum field theory permits negative energy densities in special cases such as the Casimir effect."
+  },
+  {
+   "cite": [
+    "c-a37187f95b",
+    "c-d1765ef8ec",
+    "c-93c62dc61b"
+   ],
+   "text": "US 3,322,374, filed in 1964 by James F. King, Jr., a private inventor at a home address, claims magnetohydrodynamic propulsion: a linear induction motor using the ionised atmosphere as its armature. It carries no assignee, no government interest and no secrecy order."
+  },
+  {
+   "cite": [
+    "c-39340618f9",
+    "c-4ec6656af8"
+   ],
+   "text": "Magnetohydrodynamic ship propulsion was built by a civil foundation: in its principals' own words, the Ship and Ocean Foundation's Yamato-1 became the world's first superconducting MHD-propelled ship on her trial runs in June 1992, reported at a 1994 conference."
+  },
+  {
+   "cite": [
+    "c-82250be3de",
+    "e-c7e57363d4",
+    "c-6a17635865",
+    "c-159e4b2f06",
+    "e-06a2247f75",
+    "e-3072445046"
+   ],
+   "text": "DIA's own MHD reference document, attributed to Dr S. Macheret of Lockheed Martin, reviews plasma and MHD propulsion as attractive but beset by weight, complexity and power problems, and finds the well-publicised Ajax energy-bypass concept meaningless below at least Mach 12."
+  },
+  {
+   "cite": [
+    "c-dd1155eb89",
+    "e-81f714787a",
+    "e-871883d35f",
+    "c-16bf33609a",
+    "e-7d151e77c5"
+   ],
+   "text": "The antigravity DIRD, dated 30 March 2010 and attributed to Eric Davis, cites Alcubierre once and concludes that plausible mechanisms exist in theory but face daunting technical challenges."
+  },
+  {
+   "cite": [
+    "c-bba2e08984",
+    "e-b84393e85b",
+    "c-3e2436b459",
+    "c-190742f607",
+    "c-4989ae3f82",
+    "e-63714edf5d"
+   ],
+   "text": "The warp drive DIRD of April 2010 builds on Alcubierre as its first reference, prints the negative energy its warp bubble would require in two tables, and describes control of higher dimensions as a possibility worth investigating, not a result. EarthTech's own list gives Obousy and Davis as authors, and Davis is not the name DIA recorded on its list to Congress."
+  },
+  {
+   "cite": [
+    "c-1bf6d51825",
+    "c-abc82c84f7",
+    "e-9037c18b0f",
+    "e-fedd3edc5c",
+    "c-a08b49faf3",
+    "e-7c47cf14a4",
+    "c-f6fee14ebf",
+    "c-6bbac82e3f",
+    "e-5f64f65cea",
+    "e-4ae4877705"
+   ],
+   "text": "George Hathaway is the author of record of two DIRDs, one on superconductors in gravity research and one on maverick versus corporate inventors. Cockpits in the Era of Breakthrough Flight is attributed on DIA's list to Dr G Millis of Tau Zero, whom the board identifies as Marc Millis; Millis had co-edited Frontiers of Propulsion Science with Davis in 2009, and Davis's vacuum-energy DIRD repeats an argument he and Puthoff published in that volume."
+  },
+  {
+   "cite": [
+    "e-00dc3b6ebb",
+    "c-e085ac1261",
+    "e-ed83fe1423",
+    "e-4b273e0410"
+   ],
+   "text": "The DIRDs are AAWSAP's contract deliverables, 26 from FY2009 and 12 from FY2010; the solicitation names Lacatski as Government Project Leader."
+  },
+  {
+   "cite": [
+    "e-a3349f8440",
+    "e-43262f2737",
+    "c-9bf4a89ef7"
+   ],
+   "text": "Brown's 1947 vibration-damper patent was assigned to Lockheed Aircraft Corporation, and the Navy's inertial mass reduction patent cites Puthoff's polarizable-vacuum paper on its front page."
+  },
+  {
+   "cite": [
+    "e-9302032cfa"
+   ],
+   "text": "The Institute of Field Physics attached a standing written disclaimer to its publicity that its work had no connection with anti-gravity research."
+  }
+ ],
+ "related": [
+  "navy-patents",
+  "gravity-research-1950s",
+  "arv-fluxliner",
+  "dirds",
+  "aawsap-baass",
+  "nasa-uap-study",
+  "skunk-works",
+  "tr-3b-fouche"
+ ],
  "section": "science-technology",
  "span": {
   "from": "1994",
   "to": "2026"
  },
- "status": "draft",
- "summary": [],
+ "status": "verified",
+ "summary": [
+  {
+   "cite": [
+    "c-5bfcd43634"
+   ],
+   "text": "The board's organising finding for this strand is a stated inference over documents, not a claim about physics: Brown's patents never use the word gravity, Alcubierre's paper never uses the word device, King's patent never uses the word scalar, and DIA's antigravity survey never mentions Brown. It takes no position on whether exotic propulsion is possible."
+  },
+  {
+   "cite": [
+    "c-f3c125654c",
+    "c-d5135cc003",
+    "c-8570083ba0"
+   ],
+   "text": "Two government efforts looked at the same class of ideas. NASA's Breakthrough Propulsion Physics Project assessed them in public from 1996 to 2002, and DIA commissioned thirty-eight reference documents under AAWSAP, released only under FOIA; the board infers the contrast is one of transparency, not content."
+  },
+  {
+   "cite": [
+    "c-dd46d70b51",
+    "c-dd9907a1a6",
+    "e-e51342ce2c",
+    "e-d9cf01901c"
+   ],
+   "text": "Those commissioned studies include DIRD 15 on vacuum spacetime metric engineering and DIRD 19 on antigravity for aerospace applications, and a Navy patent for a craft using an inertial mass reduction device sits in the same domain."
+  }
+ ],
  "title": "Propulsion and exotic-physics claims, and what the documents say"
 }

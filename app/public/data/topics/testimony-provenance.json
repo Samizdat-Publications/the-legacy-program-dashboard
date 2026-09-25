@@ -11,25 +11,1677 @@
   "michael-herrera"
  ],
  "appendixT": null,
- "cites": {},
- "claimed": [],
- "contested": [],
+ "cites": {
+  "c-00b889b936": {
+   "id": "c-00b889b936",
+   "kind": "claim",
+   "node": "thomas-castello",
+   "nodeLabel": "Thomas Edwin Castello (fabricated)",
+   "source": {
+    "domain": "noriohayakawa.wordpress.com",
+    "text": "Norio Hayakawa, Civilian Intelligence News Service, 2 April 2024, reproducing the November 2015 email as published in Adam Gorightly, 'Saucers, Spooks and Kooks', Daily Grail Publishing, 3 February 2021, https://noriohayakawa.wordpress.com/2024/04/02/startling-final-confession-made-in-2015-by-the-enigmatic-tal-levesque-originator-of-the-entire-dulce-base-myth/ , opened 2026-09-19",
+    "url": "https://noriohayakawa.wordpress.com/2024/04/02/startling-final-confession-made-in-2015-by-the-enigmatic-tal-levesque-originator-of-the-entire-dulce-base-myth/"
+   },
+   "text": "THE CONFESSION. Tal Levesque, who wrote as Jason Bishop III, told Adam Gorightly by email in November 2015: 'You still do not get it. TEC (Thomas Edwin Castello) is a creation. A MYTH. I took rantings from a heavily drugged (with prescription pills) woman Ann West (a.k.a., Cherry Hinkle), made corrections to stuff that was really wrong, added my own real research, mixed it together. That was the basis of the two original DULCE BASE articles.' Tier 2 and not Tier 1 because the email was read as reproduced on Hayakawa's site quoting Gorightly's book, and neither the email nor the book was opened by this board.",
+   "tier": 2
+  },
+  "c-043a461873": {
+   "id": "c-043a461873",
+   "kind": "claim",
+   "node": "frederick-meiwald",
+   "nodeLabel": "Col. Frederick Meiwald",
+   "source": {
+    "domain": "www.ufohastings.com",
+    "text": "Contested between https://www.ufohastings.com/articles/the-echo-and-oscar-flight-incidents and https://www.metabunk.org/threads/ufos-at-nuclear-weapons-sites-salas-malmstrom-eagle-flight-skeptical-resources.3284/ , both opened 2026-09-19",
+    "url": "https://www.ufohastings.com/articles/the-echo-and-oscar-flight-incidents"
+   },
+   "text": "THE CONTENTS OF THE 1 OCTOBER 1996 LETTER ARE DISPUTED AND THE BOARD HAS NOT READ IT. Salas and Hastings present it as elaborating and supporting the Oscar Flight account. Sceptical sources quote it as recording that Meiwald's recollection differs from Salas's and that he regrets being unable to help Salas establish his claims. Both characterisations are recorded; neither is adopted.",
+   "tier": 3
+  },
+  "c-087afc8430": {
+   "id": "c-087afc8430",
+   "kind": "claim",
+   "node": "dulce-base",
+   "nodeLabel": "Dulce Base (alleged facility, Archuleta Mesa, New Mexico)",
+   "source": {
+    "domain": null,
+    "text": "Inference from the November 2015 Levesque confession as reproduced by Norio Hayakawa, 2 April 2024, opened 2026-09-19",
+    "url": null
+   },
+   "text": "STATED INFERENCE, AND THE REASON THIS CLUSTER MATTERS BEYOND ITSELF. The Levesque confession describes the deliberate seeding of a hundred identical packets into independent-looking authors and lecturers, which means the many later sources that agree about Dulce agree because they were supplied from one origin by one method. This is a documented real-world instance of the board's own rule that two agents agreeing is not corroboration when they share a method. Reasoning: the inference is about what the confession implies for every downstream citation in this literature, and it should govern how any future Dulce source is graded.",
+   "tier": 3
+  },
+  "c-0f3bbcc4a7": {
+   "id": "c-0f3bbcc4a7",
+   "kind": "claim",
+   "node": "tal-levesque",
+   "nodeLabel": "Tal Levesque (Jason Bishop III)",
+   "source": {
+    "domain": "noriohayakawa.wordpress.com",
+    "text": "Norio Hayakawa, 2 April 2024, reproducing the November 2015 Levesque email, https://noriohayakawa.wordpress.com/2024/04/02/startling-final-confession-made-in-2015-by-the-enigmatic-tal-levesque-originator-of-the-entire-dulce-base-myth/ , opened 2026-09-19",
+    "url": "https://noriohayakawa.wordpress.com/2024/04/02/startling-final-confession-made-in-2015-by-the-enigmatic-tal-levesque-originator-of-the-entire-dulce-base-myth/"
+   },
+   "text": "He described the distribution method in the same message: a hundred large envelope packets of supporting material on underground bases, genetic research and hidden research and development, sent to authors and lecturers 'who then mixed it into their talks, articles and books'.",
+   "tier": 2
+  },
+  "c-1ecac3e0ba": {
+   "id": "c-1ecac3e0ba",
+   "kind": "claim",
+   "node": "warren-1965",
+   "nodeLabel": "F. E. Warren AFB sightings, 1 August 1965",
+   "source": {
+    "domain": null,
+    "text": "Derived by this board from the register in research/leads/verified-nuclear-witnesses-2026-09-19.md, which lists every nuclear-facility witness found in the 19 September 2026 pass together with the route by which each account reached the public",
+    "url": null
+   },
+   "text": "SECTION 2a PROVENANCE. This episode did not reach the public through an interested researcher locating witnesses. It reached the public because Project Blue Book's own consultant printed its telephone log. That is a materially different route from the Malmstrom material and the board records the difference.",
+   "tier": 3
+  },
+  "c-219874836b": {
+   "id": "c-219874836b",
+   "kind": "claim",
+   "node": "michael-herrera",
+   "nodeLabel": "Michael Herrera",
+   "source": {
+    "domain": "documents2.theblackvault.com",
+    "text": "AARO Historical Record Report Volume I, p. 29, https://documents2.theblackvault.com/documents/dod/AARO_Historical_Record_Report_Volume_1_2024.pdf , 2024-02",
+    "url": "https://documents2.theblackvault.com/documents/dod/AARO_Historical_Record_Report_Volume_1_2024.pdf"
+   },
+   "text": "AARO's 'Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP), Volume I', February 2024, carries at page 29, in Section V 'Assessment of Interviewee Claims of USG Involvement in Hidden UAP Programs', this sentence: 'An interviewee who is a former U.S. service member said that in 2009, while participating in a humanitarian and security mission in a foreign country, he encountered U.S. Special Forces loading containers onto a large extraterrestrial spacecraft.' The sentence is AARO's summary of an interview, not a quotation of the interviewee, and it names nobody.",
+   "tier": 1
+  },
+  "c-25c886d614": {
+   "id": "c-25c886d614",
+   "kind": "claim",
+   "node": "david-fravor",
+   "nodeLabel": "David Fravor",
+   "source": {
+    "domain": "www.govinfo.gov",
+    "text": "Serial No. 118-53, https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm , 2023-07-26",
+    "url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm"
+   },
+   "text": "Under oath he gave the chain by which the case reached investigators and then the public: 'It was not until 2009, until Jay Stratton had contacted me to investigate. Unbeknownst to all, he was part of the ATIP program in the Pentagon led by Lue Elizondo. There was an unofficial official report that came out that is now on the internet. Years later, I was contacted by the other pilot, Alex Dietrich, and asked if I would been contacted and I said no, but I am willing to talk. I was contacted by Mr. Elizondo, and we talked for a short period of time.' This is the provenance chain in the words of the witness, under oath.",
+   "tier": 1
+  },
+  "c-28e57bb7b1": {
+   "id": "c-28e57bb7b1",
+   "kind": "claim",
+   "node": "disclosure-project-witness-set",
+   "nodeLabel": "Disclosure Project witness cohort (68 testimonies, 2000 to 2001)",
+   "source": {
+    "domain": "archive.org",
+    "text": "Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt , opened 2026-09-19",
+    "url": "https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt"
+   },
+   "text": "STATED LIMITATION, AND THE MOST USEFUL THING THIS SET NODE SAYS. THIS BOARD HAS CHECKED EIGHT OF THE SIXTY-EIGHT. Fifty-seven of the named individuals have not been checked by anyone here for an independent record of any kind. The existence of this node is not a finding about its members.",
+   "tier": 3
+  },
+  "c-2a14f84dd1": {
+   "id": "c-2a14f84dd1",
+   "kind": "claim",
+   "node": "tal-levesque",
+   "nodeLabel": "Tal Levesque (Jason Bishop III)",
+   "source": {
+    "domain": null,
+    "text": "Inference from Norio Hayakawa, 29 August 2016 and 2 April 2024, both opened 2026-09-19",
+    "url": null
+   },
+   "text": "STATED INFERENCE. The woman Levesque names as the raw material of the articles, Ann West, is also the person Hayakawa independently names as the route by which John Lear came to the Dulce story in 1988. Two of the principal entry points into the Dulce literature therefore appear to run back through one person by two different paths. Reasoning: this rests on a name matching across two of Hayakawa's own posts and is stated as an inference, not a finding.",
+   "tier": 3
+  },
+  "c-2a214d4464": {
+   "id": "c-2a214d4464",
+   "kind": "claim",
+   "node": "mario-woods",
+   "nodeLabel": "Mario Woods",
+   "source": {
+    "domain": "www.youtube.com",
+    "text": "Jesse Michels, video rjUdn6FklAU, at 00:20:48 and 00:01:46-00:02:01, https://www.youtube.com/watch?v=rjUdn6FklAU , opened 2026-09-19",
+    "url": "https://www.youtube.com/watch?v=rjUdn6FklAU"
+   },
+   "text": "Woods states he has been telling the account publicly since 1996 and the episode claims more than forty media appearances for him, including History Channel, Discovery+ and NewsNation, in which he repeatedly named Michael Johnson on air and asked audiences to help find him.",
+   "tier": 2
+  },
+  "c-2be2d0b573": {
+   "id": "c-2be2d0b573",
+   "kind": "claim",
+   "node": "tal-levesque",
+   "nodeLabel": "Tal Levesque (Jason Bishop III)",
+   "source": {
+    "domain": "noriohayakawa.wordpress.com",
+    "text": "Norio Hayakawa, 23 April 2021, https://noriohayakawa.wordpress.com/2021/04/23/thomas-e-castello-never-existed-admitted-the-late-tal-levesque-originator-of-the-dulce-base-myths/ , opened 2026-09-19",
+    "url": "https://noriohayakawa.wordpress.com/2021/04/23/thomas-e-castello-never-existed-admitted-the-late-tal-levesque-originator-of-the-dulce-base-myths/"
+   },
+   "text": "Levesque wrote under the name Jason Bishop III, and had maintained across a multi-year correspondence with Gorightly that Castello was a real person and the Dulce material authentic, before the November 2015 message.",
+   "tier": 2
+  },
+  "c-2e4c75d95b": {
+   "id": "c-2e4c75d95b",
+   "kind": "claim",
+   "node": "mario-woods",
+   "nodeLabel": "Mario Woods",
+   "source": {
+    "domain": null,
+    "text": "Derived by this board from the register in research/leads/verified-nuclear-witnesses-2026-09-19.md, which lists every nuclear-facility witness found in the 19 September 2026 pass together with the route by which each account reached the public",
+    "url": null
+   },
+   "text": "NO SERVICE, EMPLOYMENT OR CIVIL RECORD PLACING MARIO WOODS AT ELLSWORTH AFB, IN THE 44TH MISSILE SECURITY SQUADRON, OR ON DUTY ON THE NIGHT OF 17 TO 18 NOVEMBER 1977 HAS BEEN PRODUCED BY ANY PARTY OR OPENED BY THIS BOARD. No Air Force record of the claimed event has ever been produced either. The node exists on the dated artefact of the claim, not on a record of the thing claimed.",
+   "tier": 3
+  },
+  "c-3080230a51": {
+   "id": "c-3080230a51",
+   "kind": "claim",
+   "node": "alex-dietrich",
+   "nodeLabel": "Alex Dietrich",
+   "source": {
+    "domain": "www.govinfo.gov",
+    "text": "Serial No. 118-53, https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm , 2023-07-26",
+    "url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm"
+   },
+   "text": "In sworn testimony at the 26 July 2023 House Oversight subcommittee hearing, David Fravor placed her in the chain of who re-opened the 2004 case: 'Years later, I was contacted by the other pilot, Alex Dietrich, and asked if I would been contacted and I said no, but I am willing to talk.' Tier 1 for the fact that a sworn witness said this on that date; the underlying sequence is his account.",
+   "tier": 1
+  },
+  "c-34e28a9688": {
+   "id": "c-34e28a9688",
+   "kind": "claim",
+   "node": "michael-herrera",
+   "nodeLabel": "Michael Herrera",
+   "source": {
+    "domain": "docs.house.gov",
+    "text": "https://docs.house.gov/Committee/Calendar/ByEvent.aspx?EventID=116282 , https://docs.house.gov/Committee/Calendar/ByEvent.aspx?EventId=117722 , https://oversight.house.gov/hearing/restoring-public-trust-through-uap-transparency-and-whistleblower-protection/ , all opened 2026-09-18",
+    "url": "https://docs.house.gov/Committee/Calendar/ByEvent.aspx?EventID=116282"
+   },
+   "text": "He is on no congressional witness list. The committee-published witness lists for 26 July 2023 (event 116282), 13 November 2024 (event 117722) and 9 September 2025 name him nowhere, and the printed records of all three hearings contain his name exactly once in total, in the Burlison colloquy.",
+   "tier": 1
+  },
+  "c-4301592ac9": {
+   "id": "c-4301592ac9",
+   "kind": "claim",
+   "node": "robert-salas",
+   "nodeLabel": "Capt. Robert L. Salas",
+   "source": {
+    "domain": null,
+    "text": "Derived by this board from the register in research/leads/verified-nuclear-witnesses-2026-09-19.md, which lists every nuclear-facility witness found in the 19 September 2026 pass together with the route by which each account reached the public",
+    "url": null
+   },
+   "text": "A POINT THE POPULAR VERSION GETS WRONG AND THIS BOARD SHOULD STATE. Salas has never claimed to have seen anything himself. His account is of a telephone call taken in a launch control capsule from a topside security policeman. That is not a defect in his account, it is the most a launch officer sealed sixty feet underground could possibly witness, but the board should say it rather than let a reader infer a sighting.",
+   "tier": 3
+  },
+  "c-46339040b1": {
+   "id": "c-46339040b1",
+   "kind": "claim",
+   "node": "clifford-stone",
+   "nodeLabel": "Clifford E. Stone",
+   "source": {
+    "domain": "kevinrandle.blogspot.com",
+    "text": "Kevin D. Randle, 'Cliff Stone Has Died', A Different Perspective, https://kevinrandle.blogspot.com/2021/02/cliff-stone-has-died.html , opened 2026-09-19",
+    "url": "https://kevinrandle.blogspot.com/2021/02/cliff-stone-has-died.html"
+   },
+   "text": "STATED INFERENCE. Klass and Randle are not two agents sharing a method. One worked from a records request to the National Personnel Records Center; the other from thirty years of personal acquaintance and is a retired Air Force officer who argues for the reality of other cases. The corollary in CLAUDE.md section 2 about two agents agreeing under a shared method does not apply to this pair.",
+   "tier": 3
+  },
+  "c-49bd4c0e50": {
+   "id": "c-49bd4c0e50",
+   "kind": "claim",
+   "node": "disclosure-project-briefing-2001",
+   "nodeLabel": "Disclosure Project Briefing Document, April 2001",
+   "source": {
+    "domain": "archive.org",
+    "text": "Disclosure Project Briefing Document, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt , 2001-04",
+    "url": "https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt"
+   },
+   "text": "The compiler cross-references his own two witnesses to each other in bracketed editorial notes signed 'SG', including '[See the testimony of Mark McCandlish which establishes that indeed a UFO was stored at this facility at Norton AFB. SG]'. The corroboration between the two testimonies is asserted by the compiler, inside the compilation.",
+   "tier": 1
+  },
+  "c-4c7cea0bef": {
+   "id": "c-4c7cea0bef",
+   "kind": "claim",
+   "node": "robert-hastings",
+   "nodeLabel": "Robert L. Hastings",
+   "source": {
+    "domain": null,
+    "text": "Derived by this board from the register in research/leads/verified-nuclear-witnesses-2026-09-19.md, which lists every nuclear-facility witness found in the 19 September 2026 pass together with the route by which each account reached the public",
+    "url": null
+   },
+   "text": "SECTION 2a PROVENANCE. HIS RECRUITMENT METHOD IS NOT STATED ANYWHERE THIS BOARD HAS OPENED. Neither his press-conference article nor his biographical page describes how he located any witness: no advertisements, no unit rosters, no veterans' reunions, no referral chains, no word of mouth. The absence is recorded as a finding. Until a dated statement by Hastings describing his sourcing method is opened, every node in this cluster whose sole source is a Hastings interview carries a note saying the route by which the witness was found is not documented.",
+   "tier": 3
+  },
+  "c-51bb71006f": {
+   "id": "c-51bb71006f",
+   "kind": "claim",
+   "node": "dulce-base",
+   "nodeLabel": "Dulce Base (alleged facility, Archuleta Mesa, New Mexico)",
+   "source": {
+    "domain": "noriohayakawa.wordpress.com",
+    "text": "Norio Hayakawa, 29 August 2016, https://noriohayakawa.wordpress.com/2016/08/29/enigmatic-personalities-behind-the-initial-dulce-underground-base-rumors/comment-page-1/ , opened 2026-09-19",
+    "url": "https://noriohayakawa.wordpress.com/2016/08/29/enigmatic-personalities-behind-the-initial-dulce-underground-base-rumors/comment-page-1/"
+   },
+   "text": "THE NAMED LOCAL NEGATIVE. Norio Hayakawa, who has worked the Dulce question since 1988 and is a proponent of investigating the subject rather than a professional debunker, states on his own site: 'it does not seem to exist'.",
+   "tier": 2
+  },
+  "c-57d8201cba": {
+   "id": "c-57d8201cba",
+   "kind": "claim",
+   "node": "robert-hastings",
+   "nodeLabel": "Robert L. Hastings",
+   "source": {
+    "domain": "ufohastings.com",
+    "text": "https://ufohastings.com/articles/the-ufos-nukes-connection-press-conference and https://ufohastings.com/about , both opened 2026-09-19",
+    "url": "https://ufohastings.com/articles/the-ufos-nukes-connection-press-conference"
+   },
+   "text": "THE COUNT IS NOT STABLE ON HIS OWN SITE. His press-conference article states 'I have interviewed more than 160 U.S. Air Force veterans regarding their involvement in UFO incidents at nuclear weapons sites.' His biographical page, opened the same day, states 'To date, Hastings has interviewed more than 150 military veterans.' The board records both figures with their pages rather than a round number, because the count is itself the principal evidence for the scale of the claim.",
+   "tier": 2
+  },
+  "c-5acf451aca": {
+   "id": "c-5acf451aca",
+   "kind": "claim",
+   "node": "d-witness",
+   "nodeLabel": "Witness Chain",
+   "source": {
+    "domain": null,
+    "text": "DoD OIG DODIG-2023-109",
+    "url": null
+   },
+   "text": "The DoD Inspector General's DODIG-2023-109 evaluation was initiated following complaints from DoD personnel regarding UAP.",
+   "tier": 1
+  },
+  "c-5ef959f163": {
+   "id": "c-5ef959f163",
+   "kind": "claim",
+   "node": "disclosure-project-briefing-2001",
+   "nodeLabel": "Disclosure Project Briefing Document, April 2001",
+   "source": {
+    "domain": "archive.org",
+    "text": "Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt , opened 2026-09-19",
+    "url": "https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt"
+   },
+   "text": "STATED INFERENCE, AND THE GOVERNING RULE OF THIS CLUSTER. This document is Tier 1 for the fact that a named person gave testimony on a stated date and Tier 2 at best for anything that testimony asserts. It is compiled and published by an interested party who also conducted the interviews. Any claim on any node in this cluster that cites this document for the content of a witness account is miscited.",
+   "tier": 3
+  },
+  "c-6016b08032": {
+   "id": "c-6016b08032",
+   "kind": "claim",
+   "node": "walter-figel",
+   "nodeLabel": "Col. Walter Figel Jr.",
+   "source": {
+    "domain": "www.metabunk.org",
+    "text": "Metabunk skeptical resources thread on Salas and Malmstrom, https://www.metabunk.org/threads/ufos-at-nuclear-weapons-sites-salas-malmstrom-eagle-flight-skeptical-resources.3284/ , opened 2026-09-19",
+    "url": "https://www.metabunk.org/threads/ufos-at-nuclear-weapons-sites-salas-malmstrom-eagle-flight-skeptical-resources.3284/"
+   },
+   "text": "James Carlson states that Figel told him he saw no UFO and treated the radio report as a joke, and that both Figel and Eric Carlson reported no UFOs at Echo Flight.",
+   "tier": 2
+  },
+  "c-609297854c": {
+   "id": "c-609297854c",
+   "kind": "claim",
+   "node": "dulce-base",
+   "nodeLabel": "Dulce Base (alleged facility, Archuleta Mesa, New Mexico)",
+   "source": {
+    "domain": "www.theblackvault.com",
+    "text": "The Black Vault case file, John Greenewald, 1 April 2016, https://www.theblackvault.com/casefiles/leaked-underground-dulce-base-alien-photo-thomas-costello/ , opened 2026-09-19",
+    "url": "https://www.theblackvault.com/casefiles/leaked-underground-dulce-base-alien-photo-thomas-costello/"
+   },
+   "text": "THE MOST-CIRCULATED PHYSICAL 'EVIDENCE' IS A MOVIE FRAME. The photograph of bodies in a chamber, distributed for years as Castello's leaked proof, was traced by John Greenewald on 1 April 2016 to the 2000 feature film The 6th Day: it 'is, in fact, a verifiable hoax'. Tier 1 because the identification is checkable by anyone against the film.",
+   "tier": 1
+  },
+  "c-62c7f116b4": {
+   "id": "c-62c7f116b4",
+   "kind": "claim",
+   "node": "michael-herrera",
+   "nodeLabel": "Michael Herrera",
+   "source": {
+    "domain": "www.govinfo.gov",
+    "text": "Serial CHRG-119hhrg61718, https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm , 2025-09-09",
+    "url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm"
+   },
+   "text": "The printed record of the House Oversight Task Force on the Declassification of Federal Secrets hearing of 9 September 2025 carries this colloquy. Rep. Eric Burlison: 'Madam Chair, I also have further witnesses of courageous individuals. It was given to me by Dr. Steven Greer, including Michael Herrera and his testimony. We have Roderick Castle and his testimony; Randy Anderson, his testimony; Steven Digna, and others, three others, all saying similar things to what the witnesses today have said, and I would like to enter that into the record as well.' Chairwoman Luna: 'No objection.' What this documents is that a member moved a document about him into a hearing record and sourced it to Steven Greer. It does not document that he testified, was sworn, or appeared.",
+   "tier": 1
+  },
+  "c-6a6c839abd": {
+   "id": "c-6a6c839abd",
+   "kind": "claim",
+   "node": "michael-herrera",
+   "nodeLabel": "Michael Herrera",
+   "source": {
+    "domain": null,
+    "text": "stated inference from the AARO Volume I page 29 summary and his Shawn Ryan Show account",
+    "url": null
+   },
+   "text": "The identification of AARO's page 29 interviewee as Michael Herrera is an INFERENCE and this node carries it as one. It matches his public account on year, on mission type and on the described scene. No opened record makes the link, AARO names nobody, and Herrera is not named anywhere in the report.",
+   "tier": 3
+  },
+  "c-6f8abecb2f": {
+   "id": "c-6f8abecb2f",
+   "kind": "claim",
+   "node": "steven-greer",
+   "nodeLabel": "Steven M. Greer",
+   "source": {
+    "domain": "abcnews.com",
+    "text": "ABC News, 'Group Calls for Disclosure of UFO Info', 9 May 2001, 2:35 PM, https://abcnews.com/Technology/story?id=98572&page=1 , opened 2026-09-19",
+    "url": "https://abcnews.com/Technology/story?id=98572&page=1"
+   },
+   "text": "ABC News, reporting from the National Press Club on 9 May 2001, records his claim of 'some 400 witnesses who claim to have firsthand experience with UFO sightings or alien evidence, and are willing to testify before Congress'. Klass, in the same season, records that the book published alongside the event contains 69 interview transcripts, of whom 20 spoke at the conference.",
+   "tier": 2
+  },
+  "c-7e661c61b8": {
+   "id": "c-7e661c61b8",
+   "kind": "claim",
+   "node": "thomas-castello",
+   "nodeLabel": "Thomas Edwin Castello (fabricated)",
+   "source": {
+    "domain": "www.theblackvault.com",
+    "text": "The Black Vault case file, John Greenewald, 1 April 2016, https://www.theblackvault.com/casefiles/leaked-underground-dulce-base-alien-photo-thomas-costello/ , opened 2026-09-19",
+    "url": "https://www.theblackvault.com/casefiles/leaked-underground-dulce-base-alien-photo-thomas-costello/"
+   },
+   "text": "The photograph circulated for years as Castello's leaked evidence of bodies in a chamber at Dulce is a frame from the 2000 feature film The 6th Day. Greenewald: it 'is, in fact, a verifiable hoax', and 'You can see that the position of the bodies, inside the chamber, are a match.' Tier 1 because the identification is checkable by anyone against the film.",
+   "tier": 1
+  },
+  "c-81129540ce": {
+   "id": "c-81129540ce",
+   "kind": "claim",
+   "node": "michael-johnson",
+   "nodeLabel": "Michael Johnson",
+   "source": {
+    "domain": "www.youtube.com",
+    "text": "Jesse Michels, video rjUdn6FklAU, at 00:03:34-00:03:40, 00:08:44-00:08:51 and 01:32:29, https://www.youtube.com/watch?v=rjUdn6FklAU , opened 2026-09-19",
+    "url": "https://www.youtube.com/watch?v=rjUdn6FklAU"
+   },
+   "text": "SECTION 2a PROVENANCE. NOTHING WHATEVER WAS SAID BY HIM ABOUT THE EVENT BEFORE HE WAS CONTACTED. The only pre-contact artefact identified anywhere in the two hour forty-seven minute episode is an undated Facebook post to the effect that he was with his boys in South Dakota on Ellsworth from 1975 to 1977. That post places him at the base in the right years and says nothing about the event. He asserts private prior telling to friends; no dated public statement exists.",
+   "tier": 2
+  },
+  "c-84fa50f867": {
+   "id": "c-84fa50f867",
+   "kind": "claim",
+   "node": "d-witness",
+   "nodeLabel": "Witness Chain",
+   "source": {
+    "domain": null,
+    "text": "ODNI ICIG Urgent Concern Disclosure Form",
+    "url": null
+   },
+   "text": "The ICIG publishes a Disclosure of Urgent Concern form, the formal channel through which an intelligence community employee makes a protected complaint.",
+   "tier": 1
+  },
+  "c-8d9aa9922b": {
+   "id": "c-8d9aa9922b",
+   "kind": "claim",
+   "node": "mario-woods",
+   "nodeLabel": "Mario Woods",
+   "source": {
+    "domain": null,
+    "text": "Derived by this board from the register in research/leads/verified-nuclear-witnesses-2026-09-19.md, which lists every nuclear-facility witness found in the 19 September 2026 pass together with the route by which each account reached the public",
+    "url": null
+   },
+   "text": "SECTION 2a PROVENANCE. Woods is the originating claimant and was not found by anybody: he has been telling this account under his own name since 1996. That is the opposite of his co-claimant's provenance, and it is also the reason the two accounts cannot be treated as independent, because his published telling named Johnson and described the event for thirty years before Johnson was located.",
+   "tier": 3
+  },
+  "c-901a60f144": {
+   "id": "c-901a60f144",
+   "kind": "claim",
+   "node": "ellsworth-1977",
+   "nodeLabel": "Ellsworth AFB Launch Facility November-5 claim, 18 November 1977",
+   "source": {
+    "domain": null,
+    "text": "Derived by this board from the register in research/leads/verified-nuclear-witnesses-2026-09-19.md, which lists every nuclear-facility witness found in the 19 September 2026 pass together with the route by which each account reached the public",
+    "url": null
+   },
+   "text": "SECTION 2a PROVENANCE, THE DIVERGENCE. The two accounts agree on substance and diverge on posture and agency. Johnson's account is passive throughout, frozen to the steering wheel, unable to speak or blink, hearing Woods shouting; Woods's is active, out of the truck and calling Johnson to come and look. Agreement on substance with divergence on detail reads very differently from verbatim agreement, and it is the strongest thing in the second account's favour.",
+   "tier": 3
+  },
+  "c-9113af4936": {
+   "id": "c-9113af4936",
+   "kind": "claim",
+   "node": "robert-hastings",
+   "nodeLabel": "Robert L. Hastings",
+   "source": {
+    "domain": "documents.theblackvault.com",
+    "text": "341st SMW histories, https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf ; 24th NORAD Region log, https://archive.org/download/MalmstromAirForceBaseIncident/Malmstrom%20Air%20Force%20Base%20Incident%20%E2%80%93%20March%2016,%201967%20NORAD%20logs_djvu.txt ; F. E. Warren 1965 Blue Book log, https://rr0.org/time/2/0/0/6/02/24/Hastings_UfosightingsAtIcbmSites/Warren_1965/ ; all opened 2026-09-19",
+    "url": "https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf"
+   },
+   "text": "THE COUNTERWEIGHT, ON THE SAME NODE. His method is not testimony alone, and the documentary half of his output is checkable and largely checks out. This board independently opened and read in full the 341st Strategic Missile Wing histories he relies on, the 24th NORAD Region Senior Director's Log for November 1975 that he republishes, and the F. E. Warren AFB Project Blue Book telephone log of 1 August 1965 first published by J. Allen Hynek in 1972. All three are real, and say what he says they say. The board grades the document half and the interview half of his output differently inside the same node.",
+   "tier": 1
+  },
+  "c-917255071a": {
+   "id": "c-917255071a",
+   "kind": "claim",
+   "node": "robert-hastings",
+   "nodeLabel": "Robert L. Hastings",
+   "source": {
+    "domain": "www.ufohastings.com",
+    "text": "Robert Hastings, 'The Echo and Oscar Flight Incidents', https://www.ufohastings.com/articles/the-echo-and-oscar-flight-incidents , opened 2026-09-19",
+    "url": "https://www.ufohastings.com/articles/the-echo-and-oscar-flight-incidents"
+   },
+   "text": "It is Hastings, not a sceptic, who separated the two March 1967 events. He dates Echo Flight to 16 March 1967 and Oscar Flight to 24 March 1967 on Capt. Robert Jamison's information. That separation is what allows the Oscar Flight claim to survive the unit history's silence, and it was produced by the same interviewer whose interviews are the only source for it.",
+   "tier": 2
+  },
+  "c-93772b64c2": {
+   "id": "c-93772b64c2",
+   "kind": "claim",
+   "node": "tal-levesque",
+   "nodeLabel": "Tal Levesque (Jason Bishop III)",
+   "source": {
+    "domain": "noriohayakawa.wordpress.com",
+    "text": "Norio Hayakawa, 2 April 2024, reproducing the November 2015 email as published in Adam Gorightly, 'Saucers, Spooks and Kooks', Daily Grail Publishing, 3 February 2021, https://noriohayakawa.wordpress.com/2024/04/02/startling-final-confession-made-in-2015-by-the-enigmatic-tal-levesque-originator-of-the-entire-dulce-base-myth/ , opened 2026-09-19",
+    "url": "https://noriohayakawa.wordpress.com/2024/04/02/startling-final-confession-made-in-2015-by-the-enigmatic-tal-levesque-originator-of-the-entire-dulce-base-myth/"
+   },
+   "text": "Levesque told Adam Gorightly by email in November 2015 that Thomas Edwin Castello was his own invention, in the words quoted in full on the thomas-castello node, and described assembling the two original Dulce Base articles from an account by a woman he names as Ann West, also known as Cherry Hinkle, corrected and combined with his own research.",
+   "tier": 2
+  },
+  "c-96febc8a8d": {
+   "id": "c-96febc8a8d",
+   "kind": "claim",
+   "node": "dulce-base",
+   "nodeLabel": "Dulce Base (alleged facility, Archuleta Mesa, New Mexico)",
+   "source": {
+    "domain": "noriohayakawa.wordpress.com",
+    "text": "Norio Hayakawa, 2 April 2024, reproducing the November 2015 email as published in Adam Gorightly, 'Saucers, Spooks and Kooks', Daily Grail Publishing, 3 February 2021, https://noriohayakawa.wordpress.com/2024/04/02/startling-final-confession-made-in-2015-by-the-enigmatic-tal-levesque-originator-of-the-entire-dulce-base-myth/ , opened 2026-09-19",
+    "url": "https://noriohayakawa.wordpress.com/2024/04/02/startling-final-confession-made-in-2015-by-the-enigmatic-tal-levesque-originator-of-the-entire-dulce-base-myth/"
+   },
+   "text": "THE CENTRAL FINDING. The claimed insider at the heart of the Dulce story was confessed as an invention by the man who says he invented him. Tal Levesque to Adam Gorightly, November 2015: 'You still do not get it. TEC (Thomas Edwin Castello) is a creation. A MYTH.' He described composing the two original Dulce Base articles from an account by a woman he names as Ann West mixed with his own research, and mailing a hundred large envelope packets of supporting material to authors and lecturers 'who then mixed it into their talks, articles and books'.",
+   "tier": 2
+  },
+  "c-9784370d63": {
+   "id": "c-9784370d63",
+   "kind": "claim",
+   "node": "michael-johnson",
+   "nodeLabel": "Michael Johnson",
+   "source": {
+    "domain": null,
+    "text": "Derived by this board from the register in research/leads/verified-nuclear-witnesses-2026-09-19.md, which lists every nuclear-facility witness found in the 19 September 2026 pass together with the route by which each account reached the public",
+    "url": null
+   },
+   "text": "SECTION 2a PROVENANCE. WHERE THE ACCOUNTS DIVERGE IS THE STRONGEST THING IN HIS FAVOUR. They agree on substance, an object above the site, figures, missing time and separate interrogation, and they diverge sharply on posture and agency: Johnson's account is passive throughout, frozen to the steering wheel, unable to speak or blink, hearing Woods shouting, while Woods's is active, out of the truck and calling Johnson to come and look. Agreement on substance with divergence on detail reads very differently from verbatim agreement.",
+   "tier": 3
+  },
+  "c-9a77d2bbb0": {
+   "id": "c-9a77d2bbb0",
+   "kind": "claim",
+   "node": "warren-1965",
+   "nodeLabel": "F. E. Warren AFB sightings, 1 August 1965",
+   "source": {
+    "domain": "rr0.org",
+    "text": "rr0.org mirror of Hastings's Warren 1965 material, https://rr0.org/time/2/0/0/6/02/24/Hastings_UfosightingsAtIcbmSites/Warren_1965/ , opened 2026-09-19",
+    "url": "https://rr0.org/time/2/0/0/6/02/24/Hastings_UfosightingsAtIcbmSites/Warren_1965/"
+   },
+   "text": "Personnel at F. E. Warren AFB, including the base commander, telephoned Project Blue Book at Wright-Patterson AFB in the earliest hours of 1 August 1965 to report sightings over the Warren Minuteman missile sites. Lt. Anspaugh fielded and logged the calls between about 0130 and 0440. Named callers are Capt. Snelling of the Air Force command post, Col. Johnson the base commander, Col. Williams commanding the Sioux Army Depot at Sidney, Nebraska, and Capt. Howell. Site designators recorded include E Site, G Flight, Quebec Flight, H-2 and B-4.",
+   "tier": 2
+  },
+  "c-9de5cd15ae": {
+   "id": "c-9de5cd15ae",
+   "kind": "claim",
+   "node": "dulce-base",
+   "nodeLabel": "Dulce Base (alleged facility, Archuleta Mesa, New Mexico)",
+   "source": {
+    "domain": "www.difoet.dk",
+    "text": "Transcript of Phil Schneider's May 1995 Post Falls, Idaho lecture, https://www.difoet.dk/www.raven1.net/mcf/underground-bases.htm , and Norio Hayakawa, 29 August 2016, both opened 2026-09-19",
+    "url": "https://www.difoet.dk/www.raven1.net/mcf/underground-bases.htm"
+   },
+   "text": "THE SPECIFICATION, AND WHERE IT COMES FROM. Every specific number in the modern claim comes from one lecture, at Post Falls, Idaho on 8 May 1995, in which Phil Schneider said the base 'goes down seven levels and over 2.5 miles deep' and described a firefight in which he shot two aliens and about seventy people were killed. He was not part of the initial rumours and arrived fifteen years after they began.",
+   "tier": 2
+  },
+  "c-9e01a79d2d": {
+   "id": "c-9e01a79d2d",
+   "kind": "claim",
+   "node": "robert-jacobs",
+   "nodeLabel": "Robert M. Jacobs",
+   "source": {
+    "domain": null,
+    "text": "Derived by this board from the register in research/leads/verified-nuclear-witnesses-2026-09-19.md, which lists every nuclear-facility witness found in the 19 September 2026 pass together with the route by which each account reached the public",
+    "url": null
+   },
+   "text": "SECTION 2a PROVENANCE. Jacobs is the exception in this cluster and the reason the provenance test is worth applying. He published under his own name in the National Enquirer in 1982 and in the MUFON UFO Journal, No. 249, in January 1989, years before any interviewer sought him out, and was then answered by name and in print by a hostile participant who confirmed his unit, his appointment, his presence and his debriefing while disputing what he saw.",
+   "tier": 3
+  },
+  "c-a019d16f24": {
+   "id": "c-a019d16f24",
+   "kind": "claim",
+   "node": "thomas-castello",
+   "nodeLabel": "Thomas Edwin Castello (fabricated)",
+   "source": {
+    "domain": "www.theblackvault.com",
+    "text": "The Black Vault case file, John Greenewald, 1 April 2016, https://www.theblackvault.com/casefiles/leaked-underground-dulce-base-alien-photo-thomas-costello/ , opened 2026-09-19",
+    "url": "https://www.theblackvault.com/casefiles/leaked-underground-dulce-base-alien-photo-thomas-costello/"
+   },
+   "text": "John Greenewald, publishing a case file on 1 April 2016, states: 'There is no evidence that I have found, that shows that Thomas Costello even exists.' Note the spelling variant Costello, which is how the viral posts carry the name.",
+   "tier": 2
+  },
+  "c-a9c8dc9ec1": {
+   "id": "c-a9c8dc9ec1",
+   "kind": "claim",
+   "node": "bradford-runyon",
+   "nodeLabel": "Capt. Bradford Runyon",
+   "source": {
+    "domain": null,
+    "text": "Derived by this board from the register in research/leads/verified-nuclear-witnesses-2026-09-19.md, which lists every nuclear-facility witness found in the 19 September 2026 pass together with the route by which each account reached the public",
+    "url": null
+   },
+   "text": "SECTION 2a PROVENANCE. Runyon is the clearest instance in this cluster of a witness approaching a research body rather than a research body finding a witness. The board records the direction of contact explicitly, because it is the control case against which the Malmstrom and Ellsworth provenance chains should be read.",
+   "tier": 3
+  },
+  "c-afeee5cd4d": {
+   "id": "c-afeee5cd4d",
+   "kind": "claim",
+   "node": "disclosure-project-briefing-2001",
+   "nodeLabel": "Disclosure Project Briefing Document, April 2001",
+   "source": {
+    "domain": "archive.org",
+    "text": "Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt , opened 2026-09-19",
+    "url": "https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt"
+   },
+   "text": "The interviews are conducted by Greer himself. Each testimony carries an initials key of the form 'JC: FAA Division Chief John Callahan SG: Dr. Steven Greer', and Greer's editorial comments are printed inside the witness text marked 'SG]'.",
+   "tier": 1
+  },
+  "c-affa575b2e": {
+   "id": "c-affa575b2e",
+   "kind": "claim",
+   "node": "robert-jacobs",
+   "nodeLabel": "Robert M. Jacobs",
+   "source": {
+    "domain": "www.nicap.org",
+    "text": "Bob Jacobs, Ph.D., 'Deliberate Deception: The Big Sur UFO Filming', MUFON UFO Journal No. 249, January 1989, reprinted by NICAP, http://www.nicap.org/reports/bigsur2.htm , opened 2026-09-19",
+    "url": "http://www.nicap.org/reports/bigsur2.htm"
+   },
+   "text": "HE PUBLISHED THE ACCOUNT HIMSELF TWELVE YEARS EARLIER, WHICH IS THE ANCHOR THIS NODE SHOULD USE. Bob Jacobs, Ph.D., 'Deliberate Deception: The Big Sur UFO Filming', MUFON UFO Journal No. 249, January 1989. His stated post, verbatim: 'Officer-in-Charge of Photo-optical Instrumentation in the 1369th Photographic Squadron at Vandenberg Air Force Base, California from May, 1963 to May, 1966.' The issue number and month are fixed independently by Kingston George's 1993 reference list.",
+   "tier": 1
+  },
+  "c-b236dfa335": {
+   "id": "c-b236dfa335",
+   "kind": "claim",
+   "node": "michael-herrera",
+   "nodeLabel": "Michael Herrera",
+   "source": {
+    "domain": "documents2.theblackvault.com",
+    "text": "AARO Historical Record Report Volume I, p. 28, https://documents2.theblackvault.com/documents/dod/AARO_Historical_Record_Report_Volume_1_2024.pdf , 2024-02",
+    "url": "https://documents2.theblackvault.com/documents/dod/AARO_Historical_Record_Report_Volume_1_2024.pdf"
+   },
+   "text": "The same report states the anonymisation rule that is why the page 29 sentence names nobody: 'AARO generated random numbers and assigned one to each interviewee. AARO maintains the key, which is stored and handled in a secure manner to protect each interviewee's privacy.' It also gives the scale and the tiering: 'As of September 17, 2023, AARO interviewed approximately 30 individuals', with Tier 1 interviewees being 'those who have spoken with congressional staff or Members of Congress and have been subsequently referred to AARO'.",
+   "tier": 1
+  },
+  "c-b3e4e88a17": {
+   "id": "c-b3e4e88a17",
+   "kind": "claim",
+   "node": "michael-herrera",
+   "nodeLabel": "Michael Herrera",
+   "source": {
+    "domain": null,
+    "text": "Shawn Ryan Show #66 part 1, YouTube video id 3zm4nh3S66I, 2023-07-17, opened 2026-09-18",
+    "url": null
+   },
+   "text": "His own account is on the public record in a dated artefact: 'Michael Herrera - US Marine Encounters UFO Black Ops Human Trafficking Operation | SRS #66 (Part 1)', Shawn Ryan Show, premiered 17 July 2023, runtime 1:26:50. The channel's own description reads: 'Former Marine Michael Herrera tells all in part one of this three part series. Herrera and his team were tasked with responding to a major earthquake and tsunami in Indonesia providing overwatch and logistical support. Little did they know--they would come face to face with a UAP / UFO and be ambushed by an unmarked shadow unit of operators.' This is a man saying a thing on a dated recording, and nothing more.",
+   "tier": 2
+  },
+  "c-b7c2a03632": {
+   "id": "c-b7c2a03632",
+   "kind": "claim",
+   "node": "thomas-castello",
+   "nodeLabel": "Thomas Edwin Castello (fabricated)",
+   "source": {
+    "domain": "noriohayakawa.wordpress.com",
+    "text": "Norio Hayakawa, 2 April 2024, reproducing the November 2015 Levesque email, https://noriohayakawa.wordpress.com/2024/04/02/startling-final-confession-made-in-2015-by-the-enigmatic-tal-levesque-originator-of-the-entire-dulce-base-myth/ , opened 2026-09-19",
+    "url": "https://noriohayakawa.wordpress.com/2024/04/02/startling-final-confession-made-in-2015-by-the-enigmatic-tal-levesque-originator-of-the-entire-dulce-base-myth/"
+   },
+   "text": "THE MECHANISM, AND THE REASON THIS NODE MATTERS TO THE BOARD'S OWN RULES. In the same message Levesque describes how the appearance of independent corroboration was produced: 'Literally, I made 100 large envelope packets with supporting material about Underground bases, genetic research, hidden science (R & D), etc. and sent the material to authors and lecturers, who then mixed it into their talks, articles and books.' This is a documented instance of many apparently separate sources sharing one method and one origin.",
+   "tier": 2
+  },
+  "c-bab14462a2": {
+   "id": "c-bab14462a2",
+   "kind": "claim",
+   "node": "michael-johnson",
+   "nodeLabel": "Michael Johnson",
+   "source": {
+    "domain": "www.youtube.com",
+    "text": "Jesse Michels, video rjUdn6FklAU, at 00:05:24-00:05:46 and 00:07:29-00:08:51, https://www.youtube.com/watch?v=rjUdn6FklAU , opened 2026-09-19",
+    "url": "https://www.youtube.com/watch?v=rjUdn6FklAU"
+   },
+   "text": "SECTION 2a PROVENANCE. HE WAS GIVEN THE OTHER WITNESS'S FRAME ON THE RECORDED CALL. The interviewer withheld it and said so on air, telling Johnson nothing about November-5 and nothing about a UFO. Mario Woods was then patched in and within two minutes supplied the site and date, the vacation-relief detail, and then the category: asked at 00:07:29 whether he remembered what they encountered at 0100, Johnson answered 'No' at 00:07:35; Woods then asked twice whether it was a UFO; Johnson assented after a pause at 00:07:46; Woods then asked how far over the top of the blaster it was and Johnson gave 'under 50 feet'.",
+   "tier": 2
+  },
+  "c-bd6e505d2e": {
+   "id": "c-bd6e505d2e",
+   "kind": "claim",
+   "node": "disclosure-project-briefing-2001",
+   "nodeLabel": "Disclosure Project Briefing Document, April 2001",
+   "source": {
+    "domain": "archive.org",
+    "text": "Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt , opened 2026-09-19",
+    "url": "https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt"
+   },
+   "text": "Section 3.8 contains SIXTY-EIGHT dated testimony headings, each of the form 'Testimony of [name, rank, service]' followed on the next line by a month and year. Sixty-five carry dates between July 2000 and March 2001; Edgar Mitchell's is dated May 1998 and Vasily Alexeyev's March 1997; Gordon Cooper's, Denise McKenzie's and Phillip J. Corso's carry no date at all.",
+   "tier": 1
+  },
+  "c-cb48071832": {
+   "id": "c-cb48071832",
+   "kind": "claim",
+   "node": "bradford-runyon",
+   "nodeLabel": "Capt. Bradford Runyon",
+   "source": {
+    "domain": "minotb52ufo.com",
+    "text": "Minot B-52 UFO case investigation material, https://minotb52ufo.com/doc.php and the case investigation narrative, opened 2026-09-19",
+    "url": "https://minotb52ufo.com/doc.php"
+   },
+   "text": "The modern investigation of the Minot 1968 case began when Runyon contacted the Center for UFO Studies in 2000 and completed a CUFOS UFO questionnaire on his own initiative. He was not located or recruited by a researcher.",
+   "tier": 2
+  },
+  "c-cc16c644a8": {
+   "id": "c-cc16c644a8",
+   "kind": "claim",
+   "node": "robert-hastings",
+   "nodeLabel": "Robert L. Hastings",
+   "source": {
+    "domain": null,
+    "text": "Derived by this board from the register in research/leads/verified-nuclear-witnesses-2026-09-19.md, which lists every nuclear-facility witness found in the 19 September 2026 pass together with the route by which each account reached the public",
+    "url": null
+   },
+   "text": "SECTION 2a PROVENANCE. THE CIRCULAR-REPORTING STRUCTURE, STATED PLAINLY AND WITHOUT INSINUATION. Of the corroborating voices in the Malmstrom and Oscar Flight case, four reached the public solely through Robert Hastings or Robert Salas: Walter Figel, whose account exists as Hastings's audio recordings of telephone calls in 2008, 2009 and 2010; Frederick Meiwald, as a private letter to Salas of 1 October 1996 plus Hastings's recorded calls of August 1996 and 6 May 2011; Robert Jamison, whose recollection supplies the 24 March 1967 date that separates Oscar Flight from Echo Flight; and Robert J. Kaminski, as a 1997 letter to Jim Klotz. Three of those four exist only as private correspondence or as recordings held by the interviewer. CLAUDE.md section 2 applies: four witnesses who share a single interviewer are one method applied four times, not four independent confirmations.",
+   "tier": 3
+  },
+  "c-d1c98cde76": {
+   "id": "c-d1c98cde76",
+   "kind": "claim",
+   "node": "bradford-runyon",
+   "nodeLabel": "Capt. Bradford Runyon",
+   "source": {
+    "domain": "minotb52ufo.com",
+    "text": "Documentation index for the 24 October 1968 Minot AFB case, https://minotb52ufo.com/doc.php , opened 2026-09-19",
+    "url": "https://minotb52ufo.com/doc.php"
+   },
+   "text": "Capt. Bradford Runyon is named as co-pilot in the debriefing record of the 24 October 1968 Minot AFB case, with radar navigator Maj. Charles Richey, navigator Capt. Patrick McCaslin, electronic warfare officer Capt. Thomas Goduto and gunner TSgt Arlie Judd. The case file includes a transcription of recorded conversations between the B-52 co-pilot and Radar Approach Control, thirteen ASQ-38 radarscope photographs, and Lt Col Arthur J. Werlich's Basic Reporting Data of 28 October 1968.",
+   "tier": 1
+  },
+  "c-d3a522ae13": {
+   "id": "c-d3a522ae13",
+   "kind": "claim",
+   "node": "michael-johnson",
+   "nodeLabel": "Michael Johnson",
+   "source": {
+    "domain": "www.youtube.com",
+    "text": "Jesse Michels, video rjUdn6FklAU, at 00:07:29-00:07:46 against 00:17:46-00:18:11, https://www.youtube.com/watch?v=rjUdn6FklAU , opened 2026-09-19",
+    "url": "https://www.youtube.com/watch?v=rjUdn6FklAU"
+   },
+   "text": "THE EPISODE'S OWN RETELLING OF THAT MOMENT DIVERGES FROM ITS OWN RECORDING OF IT. At 00:17:46-00:18:11, with Johnson present, the recognition is recounted as Woods naming only the year, base and site and Johnson immediately saying 'Oh, that UFO', with the producer characterising it as chilling because no other details were supplied. The recorded call at 00:07:29-00:07:46 shows an initial 'No', then Woods naming the UFO, then assent. Both passages are timestamped in the same episode.",
+   "tier": 2
+  },
+  "c-d560ec4694": {
+   "id": "c-d560ec4694",
+   "kind": "claim",
+   "node": "ellsworth-1977",
+   "nodeLabel": "Ellsworth AFB Launch Facility November-5 claim, 18 November 1977",
+   "source": {
+    "domain": "www.youtube.com",
+    "text": "Jesse Michels, video rjUdn6FklAU, at 00:02:35 and 00:09:49, https://www.youtube.com/watch?v=rjUdn6FklAU , opened 2026-09-19, and the board's own review",
+    "url": "https://www.youtube.com/watch?v=rjUdn6FklAU"
+   },
+   "text": "NO AIR FORCE RECORD OF THIS EVENT HAS EVER BEEN PRODUCED, BY THE CLAIMANTS, BY THE PUBLISHER, BY AARO OR BY ANY RESEARCHER, AND NONE HAS BEEN OPENED BY THIS BOARD. The claimants state that private investigators, the FBI and AARO were all asked and that about ten thousand dollars was spent searching for the second man. The node's anchor is the dated artefact of the claim and nothing else.",
+   "tier": 3
+  },
+  "c-d693a76b39": {
+   "id": "c-d693a76b39",
+   "kind": "claim",
+   "node": "michael-johnson",
+   "nodeLabel": "Michael Johnson",
+   "source": {
+    "domain": "www.youtube.com",
+    "text": "Jesse Michels, video rjUdn6FklAU, at 00:03:06-00:03:45 and 00:05:19, https://www.youtube.com/watch?v=rjUdn6FklAU , opened 2026-09-19",
+    "url": "https://www.youtube.com/watch?v=rjUdn6FklAU"
+   },
+   "text": "SECTION 2a PROVENANCE. HE WAS LOCATED BY THE PUBLISHING PARTY. A viewer of the show sent the production a Facebook page belonging to a Michael Johnson in his seventies in South Carolina; the producer then tasked an unnamed recruiter who found him in about a week; the first contact call is dated on air to 26 June 2026. Not the original witness, not a records search, not AARO.",
+   "tier": 2
+  },
+  "c-d6a7e252c5": {
+   "id": "c-d6a7e252c5",
+   "kind": "claim",
+   "node": "steven-greer",
+   "nodeLabel": "Steven M. Greer",
+   "source": {
+    "domain": "archive.org",
+    "text": "Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt , opened 2026-09-19",
+    "url": "https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt"
+   },
+   "text": "He conducts the interviews in the document himself and his presence is printed inside the transcripts: each testimony carries an initials key of the form 'SG: Dr. Steven Greer', and his editorial interjections are printed within the witness text marked 'SG]'. THE DOCUMENT IS THEREFORE NOT A NEUTRAL COMPILATION AND CAPS AT TIER 2 THE MOMENT IT IS ASKED TO SUPPORT THE CONTENT OF A CLAIM RATHER THAN THE EXISTENCE OF THE TESTIMONY.",
+   "tier": 1
+  },
+  "c-d792c545c8": {
+   "id": "c-d792c545c8",
+   "kind": "claim",
+   "node": "robert-salas",
+   "nodeLabel": "Capt. Robert L. Salas",
+   "source": {
+    "domain": null,
+    "text": "Derived by this board from the register in research/leads/verified-nuclear-witnesses-2026-09-19.md, which lists every nuclear-facility witness found in the 19 September 2026 pass together with the route by which each account reached the public",
+    "url": null
+   },
+   "text": "SECTION 2a PROVENANCE. Salas is the origin of this strand rather than a recruit to it. He approached the Great Falls Tribune himself in 1996 and located his own former commander, Frederick Meiwald, in the summer of that year. That is a materially different provenance from the four men whose accounts reach the public only through an interviewer, and the board records the difference explicitly.",
+   "tier": 3
+  },
+  "c-d8bc241e0d": {
+   "id": "c-d8bc241e0d",
+   "kind": "claim",
+   "node": "l-ellsworth",
+   "nodeLabel": "Ellsworth AFB, South Dakota",
+   "source": {
+    "domain": null,
+    "text": "Derived by this board from the register in research/leads/verified-nuclear-witnesses-2026-09-19.md, which lists every nuclear-facility witness found in the 19 September 2026 pass together with the route by which each account reached the public",
+    "url": null
+   },
+   "text": "NO AIR FORCE RECORD OF THE 18 NOVEMBER 1977 EVENT HAS EVER BEEN PRODUCED BY ANY PARTY, AND NO SERVICE RECORD FOR EITHER CLAIMANT HAS BEEN OPENED BY THIS BOARD. The node is admitted on notability under CLAUDE.md section 2a; its anchor is the dated artefact of the claim, not a record of the thing claimed.",
+   "tier": 3
+  },
+  "c-ded1f53181": {
+   "id": "c-ded1f53181",
+   "kind": "claim",
+   "node": "ellsworth-1977",
+   "nodeLabel": "Ellsworth AFB Launch Facility November-5 claim, 18 November 1977",
+   "source": {
+    "domain": "www.youtube.com",
+    "text": "Jesse Michels, video rjUdn6FklAU, at 00:03:06-00:03:45, 00:05:19 and 00:05:24-00:05:41, https://www.youtube.com/watch?v=rjUdn6FklAU , opened 2026-09-19",
+    "url": "https://www.youtube.com/watch?v=rjUdn6FklAU"
+   },
+   "text": "SECTION 2a PROVENANCE, THE DISCOVERY CHAIN. The second witness was found by the publishing party: a viewer sent the production a Facebook page belonging to a Michael Johnson in his seventies in South Carolina; an unnamed recruiter tasked by the producer located him in about a week; the first contact call is dated on air to 26 June 2026. The producer withheld the frame on that call, saying on air 'Nothing about November 5. Nothing about a UFO.'",
+   "tier": 2
+  },
+  "c-df8ddd0216": {
+   "id": "c-df8ddd0216",
+   "kind": "claim",
+   "node": "d-witness",
+   "nodeLabel": "Witness Chain",
+   "source": {
+    "domain": null,
+    "text": "House Oversight Committee witness statements, 26 July 2023",
+    "url": null
+   },
+   "text": "The House Oversight Committee heard sworn testimony from David Grusch, David Fravor and Ryan Graves on 26 July 2023; written statements from Fravor and Graves are published on the committee's site.",
+   "tier": 1
+  },
+  "c-ecdbf7a98a": {
+   "id": "c-ecdbf7a98a",
+   "kind": "claim",
+   "node": "walter-figel",
+   "nodeLabel": "Col. Walter Figel Jr.",
+   "source": {
+    "domain": "timhebert2.blogspot.com",
+    "text": "Tim Hebert, 'Echo Flight: The Makings of a UFO Myth', https://timhebert2.blogspot.com/2011/08/disproving-ufo-case.html , opened 2026-09-19",
+    "url": "https://timhebert2.blogspot.com/2011/08/disproving-ufo-case.html"
+   },
+   "text": "Tim Hebert, himself a former Minuteman crew member at Malmstrom, writes that Figel's two Hastings interviews contradict each other on the location of the maintenance teams and on who reported the sighting, and that Figel declined to sign an affidavit for the 2010 National Press Club event.",
+   "tier": 2
+  },
+  "c-f11ceff655": {
+   "id": "c-f11ceff655",
+   "kind": "claim",
+   "node": "thomas-castello",
+   "nodeLabel": "Thomas Edwin Castello (fabricated)",
+   "source": {
+    "domain": null,
+    "text": "Inference from the absence of any identifying particular in every version of the claim opened by this session, 2026-09-19",
+    "url": null
+   },
+   "text": "STATED INFERENCE. No jurisdiction, employer of record, date of birth or date of death has ever been attached to the name in any version of the claim, so no vital-records, employment or corporate personnel search is even formulable. The claim is constructed so as to be unfalsifiable by records search. Reasoning: this is an observation about the shape of the claim, not about the world, and it is why the author's own testimony is the only thing that could ever have settled it.",
+   "tier": 3
+  },
+  "c-f856fd5d49": {
+   "id": "c-f856fd5d49",
+   "kind": "claim",
+   "node": "saucers-spooks-and-kooks-2021",
+   "nodeLabel": "Adam Gorightly, 'Saucers, Spooks and Kooks: UFO Disinformation in the Age of Aquarius' (Daily Grail, 2021)",
+   "source": {
+    "domain": "noriohayakawa.wordpress.com",
+    "text": "Norio Hayakawa, 23 April 2021 and 2 April 2024, both reproducing the confession and attributing it to this book, https://noriohayakawa.wordpress.com/2024/04/02/startling-final-confession-made-in-2015-by-the-enigmatic-tal-levesque-originator-of-the-entire-dulce-base-myth/ , opened 2026-09-19",
+    "url": "https://noriohayakawa.wordpress.com/2024/04/02/startling-final-confession-made-in-2015-by-the-enigmatic-tal-levesque-originator-of-the-entire-dulce-base-myth/"
+   },
+   "text": "The book printed Tal Levesque's November 2015 email admitting that Thomas Edwin Castello was his own creation, obtained after a correspondence in which Levesque had repeatedly maintained that Castello was real and the Dulce material authentic. Published by Daily Grail Publishing, 3 February 2021, ISBN 978-0994617682.",
+   "tier": 2
+  },
+  "c-fe7bf59747": {
+   "id": "c-fe7bf59747",
+   "kind": "claim",
+   "node": "michael-herrera",
+   "nodeLabel": "Michael Herrera",
+   "source": {
+    "domain": null,
+    "text": "stated inference from the committee witness lists and the Shawn Ryan Show description",
+    "url": null
+   },
+   "text": "The Shawn Ryan Show description's phrase 'how he is testifying to Congress' is not supported by any opened record. He has never been a hearing witness. Whether he was interviewed in a closed congressional setting is a separate question that has not been reached, and the promotional phrasing should not be read as establishing either.",
+   "tier": 3
+  },
+  "e-07d1e7982f": {
+   "endpoints": [
+    {
+     "id": "disclosure-project-witness-set",
+     "label": "Disclosure Project witness cohort (68 testimonies, 2000 to 2001)"
+    },
+    {
+     "id": "disclosure-project-briefing-2001",
+     "label": "Disclosure Project Briefing Document, April 2001"
+    }
+   ],
+   "id": "e-07d1e7982f",
+   "kind": "edge",
+   "label": "The cohort is defined by section 3.8 of the document",
+   "sources": [
+    {
+     "date": "2001-04",
+     "name": "Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session",
+     "url": "https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt"
+    }
+   ],
+   "text": "Sixty-eight dated testimony headings across five subsections. The set node exists so that the fifty-seven unchecked witnesses do not each become a single-claim person node.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-2f1d027c6b": {
+   "endpoints": [
+    {
+     "id": "robert-hastings",
+     "label": "Robert L. Hastings"
+    },
+    {
+     "id": "doc-norad-24th-log-1975",
+     "label": "24th NORAD Region Senior Director's Log, Malmstrom, 7 to 19 November 1975"
+    }
+   ],
+   "id": "e-2f1d027c6b",
+   "kind": "edge",
+   "label": "Republishes the NORAD log; the documentary half of his output checks out",
+   "sources": [
+    {
+     "date": "1975-11-19",
+     "name": "24th NORAD Region Senior Directors Log, Malmstrom AFB, Montana, entries 7 to 19 November 1975, released over the signature of Terrence C. James, Colonel, USAF, Director of Administration, page-stamped 450 to 452 of a larger FOIA compilation; OCR text at archive.org. Opened 19 September 2026",
+     "url": "https://archive.org/download/MalmstromAirForceBaseIncident/Malmstrom%20Air%20Force%20Base%20Incident%20%E2%80%93%20March%2016,%201967%20NORAD%20logs_djvu.txt"
+    },
+    {
+     "date": "2026-09-19",
+     "name": "rr0.org mirror of Robert Hastings's Malmstrom 1975 material, independently rendering the 24th NORAD Region Senior Director's Log. Opened 19 September 2026",
+     "url": "https://rr0.org/time/2/0/0/6/02/24/Hastings_UfosightingsAtIcbmSites/Malmstrom_1975/index.html"
+    }
+   ],
+   "text": "THE COUNTERWEIGHT EDGE. Type research rather than custody: he republishes it, he does not hold it. This board opened the log independently and it says what he says it says.",
+   "tier": 1,
+   "type": "research"
+  },
+  "e-3bdeac722b": {
+   "endpoints": [
+    {
+     "id": "michael-johnson",
+     "label": "Michael Johnson"
+    },
+    {
+     "id": "mario-woods",
+     "label": "Mario Woods"
+    }
+   ],
+   "id": "e-3bdeac722b",
+   "kind": "edge",
+   "label": "Reunited on a recorded call on 26 June 2026 after forty-nine years",
+   "sources": [
+    {
+     "date": "2026-09-07",
+     "name": "Jesse Michels, video rjUdn6FklAU, published 7 September 2026, runtime 2:47:21, auto-generated captions; timestamped triage at research/leads/michels-rjUdn6FklAU-triage-2026-09-19.md. Opened 19 September 2026",
+     "url": "https://www.youtube.com/watch?v=rjUdn6FklAU"
+    }
+   ],
+   "text": "THIS IS NOT TWO INDEPENDENT WITNESSES MEETING. One man's account had been public for thirty years and named the other; the other was found by the party publishing the result and was given the site, the date and the category within ninety seconds of the call beginning.",
+   "tier": 2,
+   "type": "witness-chain"
+  },
+  "e-441c880888": {
+   "endpoints": [
+    {
+     "id": "disclosure-project-briefing-2001",
+     "label": "Disclosure Project Briefing Document, April 2001"
+    },
+    {
+     "id": "disclosure-project",
+     "label": "The Disclosure Project"
+    }
+   ],
+   "id": "e-441c880888",
+   "kind": "edge",
+   "label": "The Project's own compiled briefing document, April 2001",
+   "sources": [
+    {
+     "date": "2001-04",
+     "name": "Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session",
+     "url": "https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt"
+    }
+   ],
+   "text": "PRODUCER RELATION, TYPED research AND NOT custody. The document is the Project's own publication, named as such on its title page. It is typed research because producing a document is an authorship relation, and because custody is weighted x3.0 as a programme edge on this board and an organisation must not be inflated by an edge to the document it published about itself.",
+   "tier": 1,
+   "type": "research"
+  },
+  "e-50bccd2233": {
+   "endpoints": [
+    {
+     "id": "kevin-randle",
+     "label": "Kevin D. Randle"
+    },
+    {
+     "id": "clifford-stone",
+     "label": "Clifford E. Stone"
+    }
+   ],
+   "id": "e-50bccd2233",
+   "kind": "edge",
+   "label": "Thirty-year acquaintance who records the same discrepancies from the record",
+   "sources": [
+    {
+     "date": "2021-02-14",
+     "name": "Kevin D. Randle, 'Cliff Stone Has Died', A Different Perspective",
+     "url": "https://kevinrandle.blogspot.com/2021/02/cliff-stone-has-died.html"
+    }
+   ],
+   "text": "A SECOND METHOD, NOT A SECOND AGENT SHARING ONE. Randle met Stone in February 1989 and visited his home many times; he is a retired Air Force officer who argues for the reality of other cases. Four claimed Vietnam tours against a record of thirty-seven months overseas, and nothing supporting the account of hunting the enemy at night.",
+   "tier": 2,
+   "type": "denial"
+  },
+  "e-62984dacf5": {
+   "endpoints": [
+    {
+     "id": "philip-j-klass",
+     "label": "Philip J. Klass"
+    },
+    {
+     "id": "clifford-stone",
+     "label": "Clifford E. Stone"
+    }
+   ],
+   "id": "e-62984dacf5",
+   "kind": "edge",
+   "label": "Obtained his service record from the National Personnel Records Center and printed it against the claim",
+   "sources": [
+    {
+     "date": "2001",
+     "name": "Philip J. Klass, Skeptics UFO Newsletter (SUN) #68, Summer 2001, 'Dr. Greer's Disclosure Conference Reveals His New Strategy'; PDF downloaded and converted to text in full this session",
+     "url": "https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2022/09/26195512/SUN-68-Summer-2001.pdf"
+    }
+   ],
+   "text": "TIER 1 DESPITE BOTH ENDS BEING INTERESTED PARTIES, because the claim carried by this edge is that Klass requested and published a federal service record, which is a fact about an act of research and not a domain-to-domain inference. The record shows clerk/typist, administration specialist, detachment sergeant and chief administrative clerk; Klass also records Stone's 23 December 1983 FOIA request to the USAF about Bentwaters, sent from his home address without identifying him as a serving sergeant.",
+   "tier": 1,
+   "type": "denial"
+  },
+  "e-66f926d97d": {
+   "endpoints": [
+    {
+     "id": "tal-levesque",
+     "label": "Tal Levesque (Jason Bishop III)"
+    },
+    {
+     "id": "dulce-base",
+     "label": "Dulce Base (alleged facility, Archuleta Mesa, New Mexico)"
+    }
+   ],
+   "id": "e-66f926d97d",
+   "kind": "edge",
+   "label": "Says he wrote the two original Dulce Base articles and manufactured the corroboration",
+   "sources": [
+    {
+     "date": "2024-04-02",
+     "name": "Norio Hayakawa, Civilian Intelligence News Service, 'Startling final confession made in 2015 by the enigmatic Tal Levesque'",
+     "url": "https://noriohayakawa.wordpress.com/2024/04/02/startling-final-confession-made-in-2015-by-the-enigmatic-tal-levesque-originator-of-the-entire-dulce-base-myth/"
+    }
+   ],
+   "text": "In the same message he describes composing the articles from an account by a woman he names as Ann West mixed with his own research, and mailing a hundred large packets of supporting material to authors and lecturers who folded it into their own work. This is the described manufacture of apparent independent corroboration.",
+   "tier": 2,
+   "type": "denial"
+  },
+  "e-6bc30259df": {
+   "endpoints": [
+    {
+     "id": "john-greenewald",
+     "label": "John Greenewald Jr."
+    },
+    {
+     "id": "dulce-base",
+     "label": "Dulce Base (alleged facility, Archuleta Mesa, New Mexico)"
+    }
+   ],
+   "id": "e-6bc30259df",
+   "kind": "edge",
+   "label": "Traced the cluster's best-known physical 'evidence' to a 2000 feature film",
+   "sources": [
+    {
+     "date": "2016-04-01",
+     "name": "The Black Vault case file, John Greenewald, 'Leaked Underground Dulce Base Alien Photo by Thomas Costello'",
+     "url": "https://www.theblackvault.com/casefiles/leaked-underground-dulce-base-alien-photo-thomas-costello/"
+    }
+   ],
+   "text": "The photograph circulated for years as leaked proof from inside the facility is a frame from The 6th Day. The identification is checkable by anyone against the film; the surrounding negative, that he found no evidence Castello exists, is Tier 2.",
+   "tier": 2,
+   "type": "investigative"
+  },
+  "e-77daca48cd": {
+   "endpoints": [
+    {
+     "id": "robert-hastings",
+     "label": "Robert L. Hastings"
+    },
+    {
+     "id": "robert-jamison",
+     "label": "Capt. Robert Jamison"
+    }
+   ],
+   "id": "e-77daca48cd",
+   "kind": "edge",
+   "label": "Interviewed him; his recollection supplies the 24 March 1967 date",
+   "sources": [
+    {
+     "date": "2026-09-19",
+     "name": "Robert Hastings, 'The Echo and Oscar Flight Incidents', separating the two events and dating Oscar Flight to 24 March 1967 on Capt. Robert Jamison's information. Opened 19 September 2026",
+     "url": "https://www.ufohastings.com/articles/the-echo-and-oscar-flight-incidents"
+    },
+    {
+     "date": "2010-09-27",
+     "name": "Robert Hastings, 'The UFOs-Nukes Connection Press Conference', his own account of the 27 September 2010 National Press Club event, with the roster, units and affidavit list. Opened 19 September 2026",
+     "url": "https://ufohastings.com/articles/the-ufos-nukes-connection-press-conference"
+    }
+   ],
+   "text": "ONE OF FOUR EDGES THAT FORM THE CIRCULAR-REPORTING CLUSTER IN THIS DOMAIN, and the most consequential of them: the date that separates Oscar Flight from Echo Flight comes through this edge.",
+   "tier": 2,
+   "type": "research"
+  },
+  "e-7be1e0e83f": {
+   "endpoints": [
+    {
+     "id": "robert-hastings",
+     "label": "Robert L. Hastings"
+    },
+    {
+     "id": "walter-figel",
+     "label": "Col. Walter Figel Jr."
+    }
+   ],
+   "id": "e-7be1e0e83f",
+   "kind": "edge",
+   "label": "Located and recorded him; the account exists only as Hastings's tapes",
+   "sources": [
+    {
+     "date": "2011-06-01",
+     "name": "The UFO Chronicles, 'The Echo Flight ICBM Incident: Retired USAF Officer Confirms Receiving A UFO Report Just as the Missiles Failed', republishing Robert Hastings on his taped telephone conversations with Col. Walter Figel. Opened 19 September 2026",
+     "url": "https://www.theufochronicles.com/2011/06/echo-flight-icbm-incident-retired-usaf.html"
+    }
+   ],
+   "text": "ONE OF FOUR EDGES THAT FORM THE CIRCULAR-REPORTING CLUSTER IN THIS DOMAIN. Three telephone conversations in 2008, 2009 and 2010, recorded by and held by the interviewer. The recordings have not been published in full at any URL this board has opened.",
+   "tier": 2,
+   "type": "research"
+  },
+  "e-86199651c0": {
+   "endpoints": [
+    {
+     "id": "michael-herrera",
+     "label": "Michael Herrera"
+    },
+    {
+     "id": "steven-greer",
+     "label": "Steven M. Greer"
+    }
+   ],
+   "id": "e-86199651c0",
+   "kind": "edge",
+   "label": "Named on the record as the custodian who supplied the written testimony",
+   "sources": [
+    {
+     "date": "2025-09-09",
+     "name": "Serial CHRG-119hhrg61718, printed record of 9 September 2025",
+     "url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm"
+    }
+   ],
+   "text": "Custody of the DOCUMENT, not of material. Burlison said on the record that the testimony 'was given to me by Dr. Steven Greer'.",
+   "tier": 1,
+   "type": "custody"
+  },
+  "e-96b3e80718": {
+   "endpoints": [
+    {
+     "id": "robert-hastings",
+     "label": "Robert L. Hastings"
+    },
+    {
+     "id": "frederick-meiwald",
+     "label": "Col. Frederick Meiwald"
+    }
+   ],
+   "id": "e-96b3e80718",
+   "kind": "edge",
+   "label": "Recorded him in August 1996 and again on 6 May 2011, and publishes his letter",
+   "sources": [
+    {
+     "date": "2026-09-19",
+     "name": "Robert Hastings, 'The Echo and Oscar Flight Incidents', separating the two events and dating Oscar Flight to 24 March 1967 on Capt. Robert Jamison's information. Opened 19 September 2026",
+     "url": "https://www.ufohastings.com/articles/the-echo-and-oscar-flight-incidents"
+    }
+   ],
+   "text": "ONE OF FOUR EDGES THAT FORM THE CIRCULAR-REPORTING CLUSTER IN THIS DOMAIN. Meiwald was found by Salas, the claimant, and published by Salas and Hastings.",
+   "tier": 2,
+   "type": "research"
+  },
+  "e-aa2d49cc00": {
+   "endpoints": [
+    {
+     "id": "tal-levesque",
+     "label": "Tal Levesque (Jason Bishop III)"
+    },
+    {
+     "id": "thomas-castello",
+     "label": "Thomas Edwin Castello (fabricated)"
+    }
+   ],
+   "id": "e-aa2d49cc00",
+   "kind": "edge",
+   "label": "Confessed authorship: 'TEC ... is a creation. A MYTH'",
+   "sources": [
+    {
+     "date": "2024-04-02",
+     "name": "Norio Hayakawa, Civilian Intelligence News Service, 'Startling final confession made in 2015 by the enigmatic Tal Levesque'",
+     "url": "https://noriohayakawa.wordpress.com/2024/04/02/startling-final-confession-made-in-2015-by-the-enigmatic-tal-levesque-originator-of-the-entire-dulce-base-myth/"
+    },
+    {
+     "date": "2021-04-23",
+     "name": "Norio Hayakawa, 'Thomas E. Castello never existed, admitted the late Tal Levesque, originator of the Dulce Base myths'",
+     "url": "https://noriohayakawa.wordpress.com/2021/04/23/thomas-e-castello-never-existed-admitted-the-late-tal-levesque-originator-of-the-dulce-base-myths/"
+    }
+   ],
+   "text": "The only confession of authorship in the cluster, made by email to Adam Gorightly in November 2015 after a long correspondence in which Levesque had maintained the opposite. Read as reproduced on Hayakawa's site quoting Gorightly's book, so Tier 2.",
+   "tier": 2,
+   "type": "denial"
+  },
+  "e-c079909b72": {
+   "endpoints": [
+    {
+     "id": "robert-hastings",
+     "label": "Robert L. Hastings"
+    },
+    {
+     "id": "robert-kaminski",
+     "label": "Robert J. Kaminski"
+    }
+   ],
+   "id": "e-c079909b72",
+   "kind": "edge",
+   "label": "Publishes his 1997 letter to Jim Klotz",
+   "sources": [
+    {
+     "date": "2026-09-19",
+     "name": "Robert Hastings, 'The Echo and Oscar Flight Incidents', separating the two events and dating Oscar Flight to 24 March 1967 on Capt. Robert Jamison's information. Opened 19 September 2026",
+     "url": "https://www.ufohastings.com/articles/the-echo-and-oscar-flight-incidents"
+    },
+    {
+     "date": "2026-09-19",
+     "name": "Metabunk, 'UFOs at Nuclear Weapons Sites (Salas, Malmstrom, Eagle Flight) - Skeptical Resources', carrying James Carlson's own titles and positions and the Nalty 1969 quotation. Opened 19 September 2026",
+     "url": "https://www.metabunk.org/threads/ufos-at-nuclear-weapons-sites-salas-malmstrom-eagle-flight-skeptical-resources.3284/"
+    }
+   ],
+   "text": "ONE OF FOUR EDGES THAT FORM THE CIRCULAR-REPORTING CLUSTER IN THIS DOMAIN. The letter itself was addressed to Klotz, not to Hastings, and has not been opened by this board.",
+   "tier": 2,
+   "type": "research"
+  }
+ },
+ "claimed": [
+  {
+   "cite": [
+    "c-00b889b936",
+    "c-93772b64c2",
+    "c-2be2d0b573",
+    "c-f856fd5d49",
+    "e-aa2d49cc00"
+   ],
+   "text": "Levesque, who wrote as Jason Bishop III, told Adam Gorightly by email in November 2015 that Castello was a creation, a myth, built from the account of a woman he names as Ann West, corrected and mixed with his own research into the two original Dulce Base articles. He had maintained for years in the same correspondence that Castello was real. Gorightly's 2021 book printed the email."
+  },
+  {
+   "cite": [
+    "c-b7c2a03632",
+    "c-0f3bbcc4a7",
+    "e-66f926d97d"
+   ],
+   "text": "In the same message Levesque described how the appearance of independent corroboration was made: he sent a hundred large envelope packets of material on underground bases, genetic research and hidden science to authors and lecturers, who mixed it into their talks, articles and books."
+  },
+  {
+   "cite": [
+    "c-9de5cd15ae",
+    "c-2a14f84dd1"
+   ],
+   "text": "The Dulce story's specific numbers all come from one later lecture, Phil Schneider's at Post Falls, Idaho on 8 May 1995. On the board's reading, the woman Levesque names as his raw material may also be the route by which John Lear came to the story in 1988, which would put two entry points through one person."
+  },
+  {
+   "cite": [
+    "c-6f8abecb2f",
+    "c-28e57bb7b1"
+   ],
+   "text": "Greer claimed at the 2001 press conference some 400 witnesses willing to testify to Congress; the cohort the board can see is the sixty-eight printed testimonies, of which it has checked eight."
+  },
+  {
+   "cite": [
+    "c-cc16c644a8",
+    "e-7be1e0e83f",
+    "e-96b3e80718",
+    "e-77daca48cd",
+    "e-c079909b72",
+    "c-4c7cea0bef"
+   ],
+   "text": "In the Malmstrom register, Walter Figel's account exists as Hastings's recordings of three telephone calls, Frederick Meiwald's as a letter to the claimant and Hastings's recordings, Robert Jamison's as the source of a date Hastings uses, and Robert Kaminski's as a 1997 letter to a researcher; Hastings's method of finding witnesses is stated nowhere the board has opened."
+  },
+  {
+   "cite": [
+    "c-2a214d4464",
+    "c-d693a76b39",
+    "c-81129540ce",
+    "c-bab14462a2",
+    "e-3bdeac722b",
+    "c-ded1f53181"
+   ],
+   "text": "At Ellsworth, Mario Woods had told his account under his own name since 1996, naming Michael Johnson on air and asking audiences to find him. Johnson was then located by the publishing party from a viewer's Facebook tip; nothing he said about the event before that contact exists; and on the recorded call he first said no when asked what they encountered, assenting only after Woods twice asked whether it was a UFO."
+  },
+  {
+   "cite": [
+    "c-9784370d63",
+    "c-901a60f144"
+   ],
+   "text": "The two Ellsworth accounts agree on substance and diverge on posture and agency, Johnson passive and Woods active; on the board's reading that pattern reads very differently from verbatim agreement and is the strongest point in the second account's favour."
+  },
+  {
+   "cite": [
+    "c-cb48071832",
+    "c-d792c545c8",
+    "c-1ecac3e0ba",
+    "c-9e01a79d2d",
+    "c-4301592ac9"
+   ],
+   "text": "The self-initiated cases run the other way: Runyon contacted the Center for UFO Studies himself in 2000; Robert Salas, a claimant who never said he saw anything himself, approached the Great Falls Tribune himself in 1996; the Warren 1965 reports reached the public because Project Blue Book's own consultant printed its log; and Jacobs published under his own name years before any interviewer sought him out."
+  },
+  {
+   "cite": [
+    "c-25c886d614",
+    "c-3080230a51"
+   ],
+   "text": "Fravor gave the chain for the Nimitz case under oath: the incident lay dormant until Jay Stratton contacted him in 2009 to investigate for a Pentagon programme; years later Alex Dietrich contacted him to ask whether he had been approached; then Lue Elizondo contacted him."
+  },
+  {
+   "cite": [
+    "c-b3e4e88a17",
+    "c-6a6c839abd"
+   ],
+   "text": "Herrera's own account is on a dated podcast recording of July 2023. The board infers, with no record making the link, that the anonymous interviewee on page 29 of AARO's report is Herrera."
+  }
+ ],
+ "contested": [
+  {
+   "cite": [
+    "c-087afc8430",
+    "c-96febc8a8d"
+   ],
+   "text": "On the board's reading, the Levesque confession means that the many later Dulce sources agree because one person supplied them by one method, which is the board's own rule made real: two sources agreeing is not corroboration when they share a method."
+  },
+  {
+   "cite": [
+    "c-a019d16f24",
+    "c-f11ceff655",
+    "c-51bb71006f"
+   ],
+   "text": "Nothing independent supports the Castello figure: Greenewald found no evidence the man existed, and the claim attaches no jurisdiction, employer or dates to the name, so no records search can even be framed. Norio Hayakawa, who has worked the Dulce question since 1988, says the base does not seem to exist."
+  },
+  {
+   "cite": [
+    "c-5ef959f163",
+    "c-d6a7e252c5",
+    "c-49bd4c0e50"
+   ],
+   "text": "The Disclosure Project document is Tier 1 for the fact that a named person gave testimony on a stated date and Tier 2 at best for its content, because it was compiled by an interested party who also conducted the interviews; the corroboration its notes assert is the compiler's own."
+  },
+  {
+   "cite": [
+    "c-cc16c644a8",
+    "c-917255071a",
+    "c-57d8201cba"
+   ],
+   "text": "Interview-led registers carry the circularity risk in plain form: four Malmstrom witnesses sharing a single interviewer are one method applied four times, the interviewer's own separation of two events rests on a witness he interviewed, and his count of witnesses varies between his own pages."
+  },
+  {
+   "cite": [
+    "c-d3a522ae13",
+    "c-8d9aa9922b"
+   ],
+   "text": "The Ellsworth episode's own later retelling has Johnson recognising the event with nothing supplied, which its recording of the call does not show; and the two accounts cannot be treated as independent, because Woods's version named Johnson for thirty years before he was found."
+  },
+  {
+   "cite": [
+    "c-fe7bf59747",
+    "c-34e28a9688"
+   ],
+   "text": "Promotional language is not a record: the claim that Herrera is testifying to Congress is unsupported, and he has never been a hearing witness."
+  },
+  {
+   "cite": [
+    "c-46339040b1",
+    "e-62984dacf5",
+    "e-50bccd2233"
+   ],
+   "text": "Independence can also be shown: Philip Klass and Kevin Randle reached the same discrepancies in Clifford Stone's account by different methods, one from a records request to the National Personnel Records Center and one from thirty years of acquaintance, so the shared-method caution does not apply to that pair."
+  },
+  {
+   "cite": [
+    "c-6016b08032",
+    "c-ecdbf7a98a",
+    "c-043a461873"
+   ],
+   "text": "The Malmstrom corroboration is itself disputed: James Carlson says Figel told him he saw no UFO and treated the radio report as a joke, Tim Hebert says Figel's two Hastings interviews contradict each other and that Figel declined to sign an affidavit, and Meiwald's 1996 letter is characterised in two incompatible ways, one reading it as recording a different recollection from the claimant's."
+  },
+  {
+   "cite": [
+    "c-d560ec4694",
+    "c-d8bc241e0d"
+   ],
+   "text": "The board records that no Air Force record of the 18 November 1977 Ellsworth event has been produced by the claimants, the publisher, AARO or any researcher, and that it has opened no service record for either man; the event is carried on the dated broadcast of the claim, not on a record of the thing claimed."
+  }
+ ],
  "essays": [],
  "focusEra": "3",
  "id": "testimony-provenance",
  "kind": "explainer",
- "lead": null,
- "members": [],
+ "lead": {
+  "cite": [
+   "c-00b889b936",
+   "c-b7c2a03632",
+   "c-bd6e505d2e",
+   "c-afeee5cd4d"
+  ],
+  "text": "Testimony reaches this board by routes that shape what it is worth: the author of the Dulce literature's central insider said in a 2015 email that he had invented him and had mailed a hundred packets of material to other writers, and the Disclosure Project's sixty-eight testimonies were all taken by one interviewer."
+ },
+ "members": [
+  {
+   "cls": "person",
+   "id": "tal-levesque",
+   "label": "Tal Levesque (Jason Bishop III)",
+   "role": "claimant"
+  },
+  {
+   "cls": "person",
+   "id": "thomas-castello",
+   "label": "Thomas Edwin Castello (fabricated)",
+   "role": "subject"
+  },
+  {
+   "cls": "location",
+   "id": "dulce-base",
+   "label": "Dulce Base (alleged facility, Archuleta Mesa, New Mexico)",
+   "role": "place"
+  },
+  {
+   "cls": "document",
+   "id": "saucers-spooks-and-kooks-2021",
+   "label": "Adam Gorightly, 'Saucers, Spooks and Kooks: UFO Disinformation in the Age of Aquarius' (Daily Grail, 2021)",
+   "role": "document"
+  },
+  {
+   "cls": "person",
+   "id": "john-greenewald",
+   "label": "John Greenewald Jr.",
+   "role": "journalist"
+  },
+  {
+   "cls": "person",
+   "id": "steven-greer",
+   "label": "Steven M. Greer",
+   "role": "investigator"
+  },
+  {
+   "cls": "program",
+   "id": "disclosure-project",
+   "label": "The Disclosure Project",
+   "role": "programme"
+  },
+  {
+   "cls": "document",
+   "id": "disclosure-project-briefing-2001",
+   "label": "Disclosure Project Briefing Document, April 2001",
+   "role": "document"
+  },
+  {
+   "cls": "institution",
+   "id": "disclosure-project-witness-set",
+   "label": "Disclosure Project witness cohort (68 testimonies, 2000 to 2001)",
+   "role": "institution"
+  },
+  {
+   "cls": "person",
+   "id": "michael-herrera",
+   "label": "Michael Herrera",
+   "role": "witness"
+  },
+  {
+   "cls": "person",
+   "id": "robert-hastings",
+   "label": "Robert L. Hastings",
+   "role": "investigator"
+  },
+  {
+   "cls": "document",
+   "id": "doc-norad-24th-log-1975",
+   "label": "24th NORAD Region Senior Director's Log, Malmstrom, 7 to 19 November 1975",
+   "role": "document"
+  },
+  {
+   "cls": "person",
+   "id": "walter-figel",
+   "label": "Col. Walter Figel Jr.",
+   "role": "witness"
+  },
+  {
+   "cls": "person",
+   "id": "frederick-meiwald",
+   "label": "Col. Frederick Meiwald",
+   "role": "witness"
+  },
+  {
+   "cls": "person",
+   "id": "robert-jamison",
+   "label": "Capt. Robert Jamison",
+   "role": "claimant"
+  },
+  {
+   "cls": "person",
+   "id": "robert-kaminski",
+   "label": "Robert J. Kaminski",
+   "role": "contractor"
+  },
+  {
+   "cls": "person",
+   "id": "robert-salas",
+   "label": "Capt. Robert L. Salas",
+   "role": "claimant"
+  },
+  {
+   "cls": "person",
+   "id": "mario-woods",
+   "label": "Mario Woods",
+   "role": "witness"
+  },
+  {
+   "cls": "person",
+   "id": "michael-johnson",
+   "label": "Michael Johnson",
+   "role": "witness"
+  },
+  {
+   "cls": "person",
+   "id": "bradford-runyon",
+   "label": "Capt. Bradford Runyon",
+   "role": "witness"
+  },
+  {
+   "cls": "event",
+   "id": "warren-1965",
+   "label": "F. E. Warren AFB sightings, 1 August 1965",
+   "role": "event"
+  },
+  {
+   "cls": "person",
+   "id": "robert-jacobs",
+   "label": "Robert M. Jacobs",
+   "role": "witness"
+  },
+  {
+   "cls": "person",
+   "id": "david-fravor",
+   "label": "David Fravor",
+   "role": "witness"
+  },
+  {
+   "cls": "person",
+   "id": "alex-dietrich",
+   "label": "Alex Dietrich",
+   "role": "witness"
+  },
+  {
+   "cls": "person",
+   "id": "clifford-stone",
+   "label": "Clifford E. Stone",
+   "role": "witness"
+  },
+  {
+   "cls": "person",
+   "id": "philip-j-klass",
+   "label": "Philip J. Klass",
+   "role": "critic"
+  },
+  {
+   "cls": "person",
+   "id": "kevin-randle",
+   "label": "Kevin D. Randle",
+   "role": "critic"
+  },
+  {
+   "cls": "event",
+   "id": "ellsworth-1977",
+   "label": "Ellsworth AFB Launch Facility November-5 claim, 18 November 1977",
+   "role": "event"
+  },
+  {
+   "cls": "location",
+   "id": "l-ellsworth",
+   "label": "Ellsworth AFB, South Dakota",
+   "role": "place"
+  }
+ ],
  "notes": "Added: the witness-chain domain node becomes an explainer. CLAUDE.md section 2a requires every notability node to say how its claim reached us; this topic explains circular reporting, single interviewers and the difference between agreement in substance and verbatim agreement.",
- "questions": [],
- "record": [],
- "related": [],
+ "questions": [
+  "For each witness admitted on notability, who found them, by what route, and what had they said in public before that contact?",
+  "Were any witnesses shown or told another witness's account before giving their own, and where that happened, what did they say before it?",
+  "Which of the many sources that repeat the Dulce story can be traced to Levesque's hundred packets, and which, if any, arose independently?",
+  "How did Hastings locate the veterans he interviewed, and did any of them approach him first?",
+  "For the fifty-seven unchecked Disclosure Project testimonies, is there any earlier dated statement by the witness, made before Greer interviewed them?",
+  "Where two accounts agree, is the agreement in substance with divergent detail, or verbatim, and does any shared intermediary explain it?"
+ ],
+ "record": [
+  {
+   "cite": [
+    "c-7e661c61b8",
+    "c-609297854c",
+    "e-6bc30259df"
+   ],
+   "text": "The photograph circulated for years as Thomas Castello's leaked evidence of bodies in a chamber at Dulce is a frame from the 2000 film The 6th Day, as John Greenewald showed in 2016; anyone can check it against the film."
+  },
+  {
+   "cite": [
+    "c-bd6e505d2e",
+    "c-afeee5cd4d",
+    "c-d6a7e252c5",
+    "c-49bd4c0e50",
+    "e-07d1e7982f",
+    "e-441c880888"
+   ],
+   "text": "The Disclosure Project Briefing Document of April 2001 prints sixty-eight dated testimony headings; every transcript carries an initials key naming Greer as interviewer, his comments are printed inside the witness text, and his bracketed notes cross-reference his own witnesses to each other."
+  },
+  {
+   "cite": [
+    "c-62c7f116b4",
+    "c-34e28a9688",
+    "e-86199651c0"
+   ],
+   "text": "The printed record of the 9 September 2025 House hearing shows Rep. Burlison entering testimonies he said Steven Greer had given him, including Michael Herrera's; Herrera is on no committee witness list and his name appears once across three hearing records, in that colloquy."
+  },
+  {
+   "cite": [
+    "c-219874836b",
+    "c-b236dfa335"
+   ],
+   "text": "AARO's historical report of February 2024 summarises, without names, an interviewee's claim of seeing Special Forces load containers onto a craft in 2009, and states that interviewees were assigned random numbers with the key held by AARO; about 30 people had been interviewed by 17 September 2023."
+  },
+  {
+   "cite": [
+    "c-9113af4936",
+    "e-2f1d027c6b",
+    "c-9a77d2bbb0"
+   ],
+   "text": "The documentary half of an interviewer's output can be checked separately from the interviews: the board opened the 341st Strategic Missile Wing histories and the 24th NORAD Region log that Hastings relies on and found them saying what he says, while the Warren Blue Book telephone log was read only through a mirror of Hastings's own material."
+  },
+  {
+   "cite": [
+    "c-d1c98cde76",
+    "c-affa575b2e"
+   ],
+   "text": "Some accounts are fixed in time before any interviewer arrived: the 1968 Minot debriefing record names Capt. Bradford Runyon as co-pilot, and Robert Jacobs published his own account in the MUFON UFO Journal in January 1989."
+  },
+  {
+   "cite": [
+    "c-df8ddd0216",
+    "c-5acf451aca",
+    "c-84fa50f867"
+   ],
+   "text": "The House Oversight Committee heard sworn testimony from David Grusch, David Fravor and Ryan Graves on 26 July 2023; the Defense Department Inspector General's evaluation DODIG-2023-109 was opened after complaints from personnel; and the Intelligence Community Inspector General publishes the form for disclosing an urgent concern."
+  }
+ ],
+ "related": [
+  "disclosure-project-2001",
+  "nuclear-witnesses",
+  "nuclear-missiles-1960s",
+  "sac-overflights-1975",
+  "dulce",
+  "congressional-witnesses",
+  "whistleblower-channels",
+  "nimitz-2004",
+  "sceptics"
+ ],
  "section": "encounters-witnesses",
  "span": {
   "from": "1947",
   "to": "2026"
  },
- "status": "draft",
- "summary": [],
+ "status": "verified",
+ "summary": [
+  {
+   "cite": [
+    "c-2e4c75d95b",
+    "c-4c7cea0bef",
+    "c-9784370d63",
+    "c-81129540ce"
+   ],
+   "text": "A witness admitted for notability is anchored on the dated artefact of the claim, not on a record of the thing claimed, so each such node has to say how the claim reached us: who found the witness and how, what the witness said before contact with an interested party, and whether the accounts agree in detail or only in substance."
+  },
+  {
+   "cite": [
+    "c-087afc8430",
+    "c-b7c2a03632",
+    "c-afeee5cd4d",
+    "c-49bd4c0e50"
+   ],
+   "text": "The board carries two documented cases of many voices with one origin, one deliberate and one not: Tal Levesque's confessed seeding of the Dulce story, and the Disclosure Project cohort, collected and cross-referenced by its own compiler."
+  },
+  {
+   "cite": [
+    "c-cc16c644a8",
+    "c-a9c8dc9ec1",
+    "c-cb48071832"
+   ],
+   "text": "Between those poles sit interviewer-led registers, such as Robert Hastings's nuclear-site witnesses, and the control cases in which a witness came forward on his own, such as the Minot B-52 co-pilot who approached a research body in 2000."
+  },
+  {
+   "cite": [
+    "c-df8ddd0216",
+    "c-5acf451aca",
+    "c-84fa50f867",
+    "e-86199651c0"
+   ],
+   "text": "Formal channels leave a different kind of trace: sworn hearing testimony, the Defense Department Inspector General's evaluation opened on personnel complaints, and the Intelligence Community Inspector General's urgent-concern form. A document entered into a hearing record by a member is not a witness appearance."
+  }
+ ],
  "title": "How testimony reaches the record"
 }

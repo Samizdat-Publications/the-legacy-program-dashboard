@@ -10,25 +10,1962 @@
   "hoc-subcommittee-national-security"
  ],
  "appendixT": "hearing-2023",
- "cites": {},
- "claimed": [],
- "contested": [],
+ "cites": {
+  "c-0026d4af36": {
+   "id": "c-0026d4af36",
+   "kind": "claim",
+   "node": "l-eglin",
+   "nodeLabel": "Eglin Air Force Base, Florida",
+   "source": {
+    "domain": null,
+    "text": "CHRG-118hhrg53022, 26 July 2023",
+    "url": null
+   },
+   "text": "Gaetz recommended that the Eglin radar images and crew photograph be provided to the Committee, 'subpoenaed if necessary'; no such production has been recorded.",
+   "tier": 1
+  },
+  "c-05d019fba4": {
+   "id": "c-05d019fba4",
+   "kind": "claim",
+   "node": "david-grusch",
+   "nodeLabel": "David Charles Grusch",
+   "source": {
+    "domain": null,
+    "text": "DoD FOIA case 23-F-0946 release, OSD/JS Executive Services Directorate reading room; analysis by The Black Vault",
+    "url": null
+   },
+   "text": "His public statements were cleared for open publication by DoD Prepublication and Security Review on 4 April and 6 April 2023; internal DOPSR emails show reviewers Michelle Whigham and Don Kluzik discussing his reference to sensitive areas and concluding vague references were not a problem.",
+   "tier": 1
+  },
+  "c-0abcdb22ce": {
+   "id": "c-0abcdb22ce",
+   "kind": "claim",
+   "node": "susan-gough",
+   "nodeLabel": "Susan Gough",
+   "source": {
+    "domain": null,
+    "text": "DoD statement attributed to Susan Gough, 6 June 2023, carried by Fox News and others",
+    "url": null
+   },
+   "text": "The Department's June 2023 statement responding to Grusch was issued in Gough's name and said AARO had not discovered verifiable information substantiating claims of a programme possessing or reverse-engineering extraterrestrial materials.",
+   "tier": 1
+  },
+  "c-106b928733": {
+   "id": "c-106b928733",
+   "kind": "claim",
+   "node": "tim-burchett",
+   "nodeLabel": "Timothy Floyd Burchett",
+   "source": {
+    "domain": null,
+    "text": "House Oversight hearing transcript, 26 July 2023",
+    "url": null
+   },
+   "text": "Elicited under oath that Grusch has personal knowledge of people harmed or injured in efforts to conceal the technology, and that Grusch directed people with knowledge of deaths to the appropriate authorities.",
+   "tier": 1
+  },
+  "c-138c437a30": {
+   "id": "c-138c437a30",
+   "kind": "claim",
+   "node": "hearing-2023-07-26",
+   "nodeLabel": "House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'",
+   "source": {
+    "domain": null,
+    "text": "CHRG-118hhrg53022, 26 July 2023",
+    "url": null
+   },
+   "text": "Asked whether contractors are required to report UAP sightings, Grusch answered: 'In terms of the contractors? Not that I am aware of.'",
+   "tier": 1
+  },
+  "c-13967c0072": {
+   "id": "c-13967c0072",
+   "kind": "claim",
+   "node": "hearing-2023-07-26",
+   "nodeLabel": "House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'",
+   "source": {
+    "domain": null,
+    "text": "House Oversight hearing page; GPO CHRG-118hhrg53022",
+    "url": null
+   },
+   "text": "Held 26 July 2023 in 2154 Rayburn House Office Building; witnesses Ryan Graves, David Grusch and Commander David Fravor (Ret.); printed as Serial No. 118-53.",
+   "tier": 1
+  },
+  "c-13ba256c52": {
+   "id": "c-13ba256c52",
+   "kind": "claim",
+   "node": "hearing-2023-07-26",
+   "nodeLabel": "House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'",
+   "source": {
+    "domain": null,
+    "text": "David Fravor, written statement, 26 July 2023",
+    "url": null
+   },
+   "text": "'What is shocking is that the incident was never investigated, none of my crew were ever questioned, tapes were never taken.'",
+   "tier": 2
+  },
+  "c-192589aadd": {
+   "id": "c-192589aadd",
+   "kind": "claim",
+   "node": "matt-gaetz",
+   "nodeLabel": "Matthew Louis Gaetz II",
+   "source": {
+    "domain": null,
+    "text": "CHRG-118hhrg53022, 26 July 2023",
+    "url": null
+   },
+   "text": "'It was stated explicitly to me by these test pilots that if you have a UAP experience the best thing you can do for your career is forget it and not tell anyone.'",
+   "tier": 1
+  },
+  "c-22c9b94565": {
+   "id": "c-22c9b94565",
+   "kind": "claim",
+   "node": "hearing-2023-07-26",
+   "nodeLabel": "House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'",
+   "source": {
+    "domain": null,
+    "text": "Inference from the 2023, 2024 and 2025 hearing records",
+    "url": null
+   },
+   "text": "No contractor representative was called and no document production was compelled at this or either subsequent hearing, despite named contractors being raised on the record. Reasoning: review of the three hearings' witness lists and published records.",
+   "tier": 3
+  },
+  "c-25c886d614": {
+   "id": "c-25c886d614",
+   "kind": "claim",
+   "node": "david-fravor",
+   "nodeLabel": "David Fravor",
+   "source": {
+    "domain": "www.govinfo.gov",
+    "text": "Serial No. 118-53, https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm , 2023-07-26",
+    "url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm"
+   },
+   "text": "Under oath he gave the chain by which the case reached investigators and then the public: 'It was not until 2009, until Jay Stratton had contacted me to investigate. Unbeknownst to all, he was part of the ATIP program in the Pentagon led by Lue Elizondo. There was an unofficial official report that came out that is now on the internet. Years later, I was contacted by the other pilot, Alex Dietrich, and asked if I would been contacted and I said no, but I am willing to talk. I was contacted by Mr. Elizondo, and we talked for a short period of time.' This is the provenance chain in the words of the witness, under oath.",
+   "tier": 1
+  },
+  "c-2802f5182d": {
+   "id": "c-2802f5182d",
+   "kind": "claim",
+   "node": "hearing-2023-07-26",
+   "nodeLabel": "House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'",
+   "source": {
+    "domain": null,
+    "text": "CHRG-118hhrg53022, testimony of David Grusch",
+    "url": null
+   },
+   "text": "Grusch declined on the record to name individuals or facilities in open session - 'I cannot discuss that publicly, but I did provide that information both to the Inspector General and the Intelligence Committees' - and told Rep. Mace that 'The specific documentation I would have to talk to you in a SCIF about.'",
+   "tier": 2
+  },
+  "c-2be28349d4": {
+   "id": "c-2be28349d4",
+   "kind": "claim",
+   "node": "tim-burchett",
+   "nodeLabel": "Timothy Floyd Burchett",
+   "source": {
+    "domain": null,
+    "text": "docs.house.gov EventID 116282 document list",
+    "url": null
+   },
+   "text": "Submitted for the record of the 26 July 2023 hearing the Defense Intelligence Reference Document 'Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering', Jeremy Corbell's report 'The UAP Puzzle', and a statement for the record by George Knapp; all are filed under docs.house.gov event 116282.",
+   "tier": 1
+  },
+  "c-2ca2b4bf41": {
+   "id": "c-2ca2b4bf41",
+   "kind": "claim",
+   "node": "glenn-grothman",
+   "nodeLabel": "Glenn S. Grothman",
+   "source": {
+    "domain": null,
+    "text": "Rep. Grothman, opening statement, 13 November 2024, GPO CHRG-118hhrg57440",
+    "url": null
+   },
+   "text": "'None of them have been able to substantiate the claims made at this hearing last year by David Grusch, despite our Committee Members endlessly questioning these agencies inside and outside of the SCIF.'",
+   "tier": 1
+  },
+  "c-320baf61ef": {
+   "id": "c-320baf61ef",
+   "kind": "claim",
+   "node": "david-grusch",
+   "nodeLabel": "David Charles Grusch",
+   "source": {
+    "domain": null,
+    "text": "Grusch answering Rep. Virginia Foxx, House Oversight hearing transcript, 26 July 2023",
+    "url": null
+   },
+   "text": "Sworn: Kirkpatrick's prior congressional testimony that there is 'no credible evidence thus far of extraterrestrial activity' is 'not accurate'; Grusch said he had interviewed some of the same individuals who went to AARO and had evaluated what they provided.",
+   "tier": 1
+  },
+  "c-3898ee5201": {
+   "id": "c-3898ee5201",
+   "kind": "claim",
+   "node": "robert-garcia",
+   "nodeLabel": "Robert Garcia",
+   "source": {
+    "domain": null,
+    "text": "H.R. 6967 (118th Congress), as introduced, GPO",
+    "url": null
+   },
+   "text": "Sponsor of H.R. 6967, the Safe Airspace for Americans Act, introduced 11 January 2024, to create an FAA-to-AARO civilian UAP reporting channel with legal safeguards.",
+   "tier": 1
+  },
+  "c-3b643d967c": {
+   "id": "c-3b643d967c",
+   "kind": "claim",
+   "node": "david-grusch",
+   "nodeLabel": "David Charles Grusch",
+   "source": {
+    "domain": null,
+    "text": "DoD statement attributed to Susan Gough, 6 June 2023",
+    "url": null
+   },
+   "text": "The Department's June 2023 response was that AARO 'has not discovered any verifiable information' substantiating a possession or reverse-engineering programme - a statement about AARO's discoveries, not about the Department's knowledge.",
+   "tier": 1
+  },
+  "c-3e602ee03e": {
+   "id": "c-3e602ee03e",
+   "kind": "claim",
+   "node": "hearing-2023-07-26",
+   "nodeLabel": "House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'",
+   "source": {
+    "domain": null,
+    "text": "CHRG-118hhrg53022, cover page",
+    "url": null
+   },
+   "text": "Printed hearing record CHRG-118hhrg53022, Serial No. 118-53, cover: 'UNIDENTIFIED ANOMALOUS PHENOMENA: IMPLICATIONS ON NATIONAL SECURITY, PUBLIC SAFETY, AND GOVERNMENT TRANSPARENCY - HEARING BEFORE THE SUBCOMMITTEE ON NATIONAL SECURITY, THE BORDER, AND FOREIGN AFFAIRS OF THE COMMITTEE ON OVERSIGHT AND ACCOUNTABILITY, HOUSE OF REPRESENTATIVES, ONE HUNDRED EIGHTEENTH CONGRESS, FIRST SESSION, JULY 26, 2023'. GPO print number 53-022.",
+   "tier": 1
+  },
+  "c-40e772e25c": {
+   "id": "c-40e772e25c",
+   "kind": "claim",
+   "node": "house-oversight-committee",
+   "nodeLabel": "U.S. House Committee on Oversight and Government Reform",
+   "source": {
+    "domain": null,
+    "text": "Inference from the three hearing records and oversight.house.gov",
+    "url": null
+   },
+   "text": "No UAP subpoena has issued from the committee across three years and three hearings despite on-record member requests for one in 2023, 2024 and 2026. Reasoning: none appears in the hearings' printed document indexes or in committee releases located through August 2026.",
+   "tier": 3
+  },
+  "c-447e5a4e62": {
+   "id": "c-447e5a4e62",
+   "kind": "claim",
+   "node": "matt-gaetz",
+   "nodeLabel": "Matthew Louis Gaetz II",
+   "source": {
+    "domain": null,
+    "text": "CHRG-118hhrg53022, 26 July 2023",
+    "url": null
+   },
+   "text": "'They saw a sequence of four craft in a clear diamond formation for which there is a radar sequence that I and I alone have observed in the U.S. Congress.'",
+   "tier": 1
+  },
+  "c-45971da324": {
+   "id": "c-45971da324",
+   "kind": "claim",
+   "node": "susan-gough",
+   "nodeLabel": "Susan Gough",
+   "source": {
+    "domain": null,
+    "text": "Susan Gough, DoD spokesperson, 7 June 2023",
+    "url": null
+   },
+   "text": "'To date, AARO has not discovered any verifiable information to substantiate claims that any programs regarding the possession or reverse-engineering of extraterrestrial materials have existed in the past or exist currently.'",
+   "tier": 1
+  },
+  "c-4b3e807010": {
+   "id": "c-4b3e807010",
+   "kind": "claim",
+   "node": "robert-garcia",
+   "nodeLabel": "Robert Garcia",
+   "source": {
+    "domain": null,
+    "text": "CHRG-118hhrg53022, 26 July 2023",
+    "url": null
+   },
+   "text": "Ranking Member of the subcommittee that held the 26 July 2023 hearing; opened it by crediting Burchett's leadership and framing UAP as a national-security and institutional-trust question.",
+   "tier": 1
+  },
+  "c-4d1e44e465": {
+   "id": "c-4d1e44e465",
+   "kind": "claim",
+   "node": "david-fravor",
+   "nodeLabel": "David Fravor",
+   "source": {
+    "domain": null,
+    "text": "David Fravor, written statement to House Oversight, 26 July 2023",
+    "url": null
+   },
+   "text": "'the incident was never investigated, none of my crew were ever questioned, tapes were never taken.'",
+   "tier": 1
+  },
+  "c-55e352d752": {
+   "id": "c-55e352d752",
+   "kind": "claim",
+   "node": "david-grusch",
+   "nodeLabel": "David Charles Grusch",
+   "source": {
+    "domain": null,
+    "text": "AARO Memorandum for Record, 8 January 2024, released as FOIA 24-F-0266",
+    "url": null
+   },
+   "text": "AARO documented at least eight distinct approaches to Grusch between June 2023 and January 2024 and concluded he had no intention of providing information.",
+   "tier": 1
+  },
+  "c-5a34992747": {
+   "id": "c-5a34992747",
+   "kind": "claim",
+   "node": "glenn-grothman",
+   "nodeLabel": "Glenn S. Grothman",
+   "source": {
+    "domain": null,
+    "text": "Chairman Glenn Grothman, opening statement, 26 July 2023, GPO CHRG-118hhrg53022",
+    "url": null
+   },
+   "text": "'The lack of transparency regarding UAPs has fueled wild speculation and debate for decades, eroding public trust in the very institutions that are meant to serve and protect them.'",
+   "tier": 1
+  },
+  "c-66d33c8d87": {
+   "id": "c-66d33c8d87",
+   "kind": "claim",
+   "node": "david-grusch",
+   "nodeLabel": "David Charles Grusch",
+   "source": {
+    "domain": null,
+    "text": "CHRG-118hhrg53022, testimony of David Grusch",
+    "url": null
+   },
+   "text": "Sworn testimony, 26 July 2023: 'I was informed in the course of my official duties of a multi-decade UAP crash retrieval and reverse engineering program to which I was denied access to those additional read-ons when I requested it. I made the decision based on the data I collected to report this information to my superiors and multiple inspectors general and, in effect, becoming a whistleblower. As you know, I have suffered retaliation for my decision'.",
+   "tier": 2
+  },
+  "c-68b267b9f9": {
+   "id": "c-68b267b9f9",
+   "kind": "claim",
+   "node": "andy-ogles",
+   "nodeLabel": "Andrew Ogles",
+   "source": {
+    "domain": null,
+    "text": "Rep. Andy Ogles, 26 July 2023, GPO CHRG-118hhrg53022",
+    "url": null
+   },
+   "text": "'I would encourage the Chairman to demand that we have any and all, but in particular Mr. Grusch, talk to us in a SCIF and if that access is denied I will personally volunteer to initiate the Holman Rule against any personnel or any program or any agency that denies access to Congress.'",
+   "tier": 1
+  },
+  "c-69b24ce981": {
+   "id": "c-69b24ce981",
+   "kind": "claim",
+   "node": "andy-biggs",
+   "nodeLabel": "Andy Biggs",
+   "source": {
+    "domain": null,
+    "text": "Rep. Andy Biggs, 26 July 2023, GPO CHRG-118hhrg53022",
+    "url": null
+   },
+   "text": "'If we wanted to find out more about that where would we go to find the files and where - and who would we address? I know you are going to tell me we need to go to a SCIF so you can tell us in a SCIF.' Fravor: 'I could potentially give you a vector on that... in a closed environment.'",
+   "tier": 1
+  },
+  "c-6c05829ad9": {
+   "id": "c-6c05829ad9",
+   "kind": "claim",
+   "node": "robert-garcia",
+   "nodeLabel": "Robert Garcia",
+   "source": {
+    "domain": null,
+    "text": "House Oversight hearing transcript, 26 July 2023",
+    "url": null
+   },
+   "text": "Elicited: 'Absolutely, based on interviewing over 40 witnesses over 4 years... I actually had the people with the firsthand knowledge provide a protected disclosure to the Inspector General.'",
+   "tier": 1
+  },
+  "c-7507e7aa84": {
+   "id": "c-7507e7aa84",
+   "kind": "claim",
+   "node": "ryan-graves",
+   "nodeLabel": "Ryan Graves",
+   "source": {
+    "domain": null,
+    "text": "Ryan Graves, written testimony, House Oversight subcommittee, 26 July 2023",
+    "url": null
+   },
+   "text": "'Our squadron submitted a safety report, but there was no official acknowledgement of the incident and no further mechanism to report the sightings.'",
+   "tier": 1
+  },
+  "c-7535868bba": {
+   "id": "c-7535868bba",
+   "kind": "claim",
+   "node": "hearing-2023-07-26",
+   "nodeLabel": "House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'",
+   "source": {
+    "domain": null,
+    "text": "CHRG-118hhrg53022, testimony of David Grusch",
+    "url": null
+   },
+   "text": "Sworn exchange, Rep. Nancy Mace and David Grusch. Mace: 'If you believe we have crashed craft, as stated earlier, do we have the bodies of the pilots who piloted this craft?' Grusch: 'As I have stated publicly already in my News Nation interview, biologics came with some of these recoveries. Yes.' Mace: 'Were they, I guess, human or nonhuman biologics?' Grusch: 'Nonhuman, and that was the assessment of people with direct knowledge on the program I talked to that are currently still on the program.'",
+   "tier": 2
+  },
+  "c-804b8a2582": {
+   "id": "c-804b8a2582",
+   "kind": "claim",
+   "node": "matt-gaetz",
+   "nodeLabel": "Matthew Louis Gaetz II",
+   "source": {
+    "domain": null,
+    "text": "CHRG-118hhrg53022, 26 July 2023",
+    "url": null
+   },
+   "text": "Recommended that the Eglin radar images and the flight crew's image 'be provided to the Committee, subpoenaed if necessary.'",
+   "tier": 1
+  },
+  "c-8265d45876": {
+   "id": "c-8265d45876",
+   "kind": "claim",
+   "node": "susan-gough",
+   "nodeLabel": "Susan Gough",
+   "source": {
+    "domain": null,
+    "text": "Susan Gough, statement following the 26 July 2023 hearing, reported by DefenseScoop 31 July 2023",
+    "url": null
+   },
+   "text": "'The department has no information that any individual has been harmed or killed as a result of providing information to AARO,' with a warning that unsubstantiated harm claims discourage witnesses.",
+   "tier": 1
+  },
+  "c-887cc0b97f": {
+   "id": "c-887cc0b97f",
+   "kind": "claim",
+   "node": "tim-burchett",
+   "nodeLabel": "Timothy Floyd Burchett",
+   "source": {
+    "domain": null,
+    "text": "CHRG-118hhrg53022, 26 July 2023",
+    "url": null
+   },
+   "text": "'Maybe in a - if we could get in a confidential area, a SCIF, we could talk about that. But unfortunately, we were denied access to the SCIF and that is very unfortunate in this scenario.' - said immediately after asking Grusch whether anyone had been murdered.",
+   "tier": 1
+  },
+  "c-8891a5a986": {
+   "id": "c-8891a5a986",
+   "kind": "claim",
+   "node": "l-eglin",
+   "nodeLabel": "Eglin Air Force Base, Florida",
+   "source": {
+    "domain": null,
+    "text": "GPO CHRG-118hhrg53022, 26 July 2023",
+    "url": null
+   },
+   "text": "Gaetz: the flight crew 'were out on a test mission that day over the Gulf of Mexico and when you are on a test mission you are supposed to have clear airspace... And they saw a sequence of four craft in a clear diamond formation for which there is a radar sequence that I and I alone have observed in the U.S. Congress.'",
+   "tier": 1
+  },
+  "c-8ad250645b": {
+   "id": "c-8ad250645b",
+   "kind": "claim",
+   "node": "david-grusch",
+   "nodeLabel": "David Charles Grusch",
+   "source": {
+    "domain": null,
+    "text": "House Oversight hearing transcript, 26 July 2023",
+    "url": null
+   },
+   "text": "Sworn, to Rep. Jared Moskowitz, on how such a program is funded: 'misappropriation of funds and self-fund,' with contractor internal research and development identified as the vehicle - 'IR&D is literally internal to the contractors. So, as long as it is money, either profits, private investment, et cetera, they do whatever they want.'",
+   "tier": 1
+  },
+  "c-8c9c789d32": {
+   "id": "c-8c9c789d32",
+   "kind": "claim",
+   "node": "jared-moskowitz",
+   "nodeLabel": "Jared Evan Moskowitz",
+   "source": {
+    "domain": null,
+    "text": "CHRG-118hhrg53022, 26 July 2023",
+    "url": null
+   },
+   "text": "Asked Grusch on the record: 'Do you think U.S. corporations are overcharging for certain tech they are selling to the U.S. Government and that additional money is going to programs?'",
+   "tier": 1
+  },
+  "c-97321f85ca": {
+   "id": "c-97321f85ca",
+   "kind": "claim",
+   "node": "nancy-mace",
+   "nodeLabel": "Nancy Ruth Mace",
+   "source": {
+    "domain": null,
+    "text": "CHRG-118hhrg53022, 26 July 2023",
+    "url": null
+   },
+   "text": "Drew Grusch's answer that 'biologics came with some of these recoveries' and that they were assessed 'Nonhuman... by people with direct knowledge on the program I talked to that are currently still on the program.'",
+   "tier": 1
+  },
+  "c-a5e8af6329": {
+   "id": "c-a5e8af6329",
+   "kind": "claim",
+   "node": "ryan-graves",
+   "nodeLabel": "Ryan Graves",
+   "source": {
+    "domain": null,
+    "text": "Ryan Graves, written testimony, House Oversight subcommittee, 26 July 2023",
+    "url": null
+   },
+   "text": "Americans for Safe Aerospace had 'nearly 5,000 members' and was 'actively working with more than 30 UAP witnesses' as of July 2023.",
+   "tier": 1
+  },
+  "c-a605d34de0": {
+   "id": "c-a605d34de0",
+   "kind": "claim",
+   "node": "david-fravor",
+   "nodeLabel": "David Fravor",
+   "source": {
+    "domain": null,
+    "text": "David Fravor, written statement for the House Oversight Subcommittee on National Security, the Border and Foreign Affairs, 26 July 2023",
+    "url": null
+   },
+   "text": "'In Nov 2004, I was the Commanding Officer of Strike Fighter Squadron Forty-One' and encountered 'a small white Tic Tac shaped object ... There were no Rotors, No Rotor wash, or any visible flight control surfaces.'",
+   "tier": 1
+  },
+  "c-a9e1142cf0": {
+   "id": "c-a9e1142cf0",
+   "kind": "claim",
+   "node": "hoc-subcommittee-national-security",
+   "nodeLabel": "Subcommittee on National Security, the Border, and Foreign Affairs",
+   "source": {
+    "domain": null,
+    "text": "CHRG-118hhrg53022, 26 July 2023",
+    "url": null
+   },
+   "text": "Chairman Grothman waived Reps. Burchett, Luna, Gaetz, Burlison, Ocasio-Cortez and Ogles onto the subcommittee for the 26 July 2023 hearing.",
+   "tier": 1
+  },
+  "c-aa9c6ae80a": {
+   "id": "c-aa9c6ae80a",
+   "kind": "claim",
+   "node": "nancy-mace",
+   "nodeLabel": "Nancy Ruth Mace",
+   "source": {
+    "domain": null,
+    "text": "House Oversight hearing transcript, 26 July 2023",
+    "url": null
+   },
+   "text": "Elicited Grusch's offer to provide 'a specific cooperative and hostile witness list of specific individuals' after the hearing.",
+   "tier": 1
+  },
+  "c-bfce192a79": {
+   "id": "c-bfce192a79",
+   "kind": "claim",
+   "node": "matt-gaetz",
+   "nodeLabel": "Matthew Louis Gaetz II",
+   "source": {
+    "domain": null,
+    "text": "Rep. Matt Gaetz, 26 July 2023, GPO CHRG-118hhrg53022",
+    "url": null
+   },
+   "text": "'We were not afforded access to all of the flight crew and initially we were not afforded access to images and to radar. Thereafter, we had a bit of a discussion about how authorities flow in the United States of America and we did see the image and we did meet with one member of the flight crew who took the image.'",
+   "tier": 1
+  },
+  "c-c2db1fd09a": {
+   "id": "c-c2db1fd09a",
+   "kind": "claim",
+   "node": "david-grusch",
+   "nodeLabel": "David Charles Grusch",
+   "source": {
+    "domain": null,
+    "text": "House Oversight hearing transcript, 26 July 2023",
+    "url": null
+   },
+   "text": "Sworn: told Rep. Anna Paulina Luna he had a classified conversation with Sean Kirkpatrick in April 2022, before Kirkpatrick took over AARO in July 2022, and gave him concerns and counsel on where to look.",
+   "tier": 1
+  },
+  "c-c6c6078279": {
+   "id": "c-c6c6078279",
+   "kind": "claim",
+   "node": "hearing-2023-07-26",
+   "nodeLabel": "House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'",
+   "source": {
+    "domain": null,
+    "text": "CHRG-118hhrg53022, CONTENTS/WITNESSES page",
+    "url": null
+   },
+   "text": "Witness list of record: 'Mr. Ryan Graves, Executive Director, Americans for Safe Aerospace'; 'Mr. David Grusch, Former National Reconnaissance Office Representative, Unidentified Aerial Phenomena Task Force, Department of Defense'; 'Commander David Fravor (Ret.), Former Commanding Officer, United States Navy'.",
+   "tier": 1
+  },
+  "c-cad42aabc7": {
+   "id": "c-cad42aabc7",
+   "kind": "claim",
+   "node": "hr-6967-safe-airspace-for-americans-act",
+   "nodeLabel": "H.R. 6967 - Safe Airspace for Americans Act (118th Congress)",
+   "source": {
+    "domain": null,
+    "text": "Congress.gov H.R. 6967 (118th); GPO BILLS-118hr6967ih; The Hill, 12 January 2024",
+    "url": null
+   },
+   "text": "Introduced 11 January 2024 by Rep. Robert Garcia; co-led with Rep. Glenn Grothman.",
+   "tier": 1
+  },
+  "c-ce06869cc9": {
+   "id": "c-ce06869cc9",
+   "kind": "claim",
+   "node": "hearing-2023-07-26",
+   "nodeLabel": "House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'",
+   "source": {
+    "domain": null,
+    "text": "CHRG-118hhrg53022",
+    "url": null
+   },
+   "text": "Grusch testified that he knows the names of the Special Access Programs covering the material but could not discuss them publicly, and that he had provided that information to the intelligence committees and the Inspector General.",
+   "tier": 1
+  },
+  "c-d28a058e92": {
+   "id": "c-d28a058e92",
+   "kind": "claim",
+   "node": "david-grusch",
+   "nodeLabel": "David Charles Grusch",
+   "source": {
+    "domain": null,
+    "text": "House Oversight hearing transcript, 26 July 2023",
+    "url": null
+   },
+   "text": "Sworn, to Ranking Member Robert Garcia, on whether the government possesses UAP: 'Absolutely, based on interviewing over 40 witnesses over 4 years.' Added he knows the exact locations and provided them to the Inspector General and in part to the intelligence committees, and that he had the firsthand-knowledge people make their own protected disclosures.",
+   "tier": 1
+  },
+  "c-d5f5a1e632": {
+   "id": "c-d5f5a1e632",
+   "kind": "claim",
+   "node": "hearing-2023-07-26",
+   "nodeLabel": "House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'",
+   "source": {
+    "domain": null,
+    "text": "House Oversight hearing transcript, 26 July 2023",
+    "url": null
+   },
+   "text": "Members were denied access to a SCIF for the hearing, per Rep. Burchett on the record.",
+   "tier": 1
+  },
+  "c-ee0abe1e35": {
+   "id": "c-ee0abe1e35",
+   "kind": "claim",
+   "node": "david-grusch",
+   "nodeLabel": "David Charles Grusch",
+   "source": {
+    "domain": null,
+    "text": "House Oversight hearing transcript, 26 July 2023",
+    "url": null
+   },
+   "text": "Sworn, to Rep. Tim Burchett: has personal knowledge of people harmed or injured in efforts to cover up or conceal the technology; on murder, 'I have to be careful answering that question. I directed people with that knowledge to the appropriate authorities.'",
+   "tier": 1
+  },
+  "c-ee1cdaac8e": {
+   "id": "c-ee1cdaac8e",
+   "kind": "claim",
+   "node": "hearing-2023-07-26",
+   "nodeLabel": "House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'",
+   "source": {
+    "domain": null,
+    "text": "CHRG-118hhrg53022, Index of Documents",
+    "url": null
+   },
+   "text": "Index of Documents records submissions by Rep. Burchett including Jeremy Corbell's report 'The UAP Puzzle' and a Statement for the Record by George Knapp.",
+   "tier": 1
+  },
+  "c-ef34de9f26": {
+   "id": "c-ef34de9f26",
+   "kind": "claim",
+   "node": "hearing-2023-07-26",
+   "nodeLabel": "House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'",
+   "source": {
+    "domain": null,
+    "text": "House Oversight Committee hearing page and GPO transcript",
+    "url": null
+   },
+   "text": "The hearing was held 26 July 2023 at 10:00 am in 2154 Rayburn before the Subcommittee on National Security, the Border, and Foreign Affairs, with witnesses Ryan Graves, Cdr. David Fravor (Ret.) and David Grusch.",
+   "tier": 1
+  },
+  "c-efb7a87f76": {
+   "id": "c-efb7a87f76",
+   "kind": "claim",
+   "node": "hearing-2023-07-26",
+   "nodeLabel": "House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'",
+   "source": {
+    "domain": null,
+    "text": "docs.house.gov Committee Repository, EventID 116282, document list",
+    "url": null
+   },
+   "text": "The House Committee Repository record for event 116282 (docs.house.gov/meetings/GO/GO06/20230726/116282) holds the notice, memo, member roster, attendance sheet, each witness's written statement, Truth in Testimony form and bio, the official transcript (HHRG-118-GO06-Transcript-20230726.pdf, posted 8 September 2023), and materials submitted for the record by Reps. Burchett and Luna, including the Defense Intelligence Reference Document 'Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering'.",
+   "tier": 1
+  },
+  "c-f0981a8f64": {
+   "id": "c-f0981a8f64",
+   "kind": "claim",
+   "node": "glenn-grothman",
+   "nodeLabel": "Glenn S. Grothman",
+   "source": {
+    "domain": null,
+    "text": "Inference from CHRG-118hhrg57440 (13 Nov 2024) and CHRG-119hhrg61718 (9 Sept 2025)",
+    "url": null
+   },
+   "text": "Grothman's 2024 'inside and outside of the SCIF' framing is in tension with Luna's 2025 statement that DoD told committee staff Oversight members were not eligible to be read in on the relevant special access programs without HASC/HAC-D approval. Either the SCIF sessions did not reach the SAPs at issue, or the two chairs were describing different access. Reasoning: both statements are on the record of the same committee thirteen months apart and cannot both describe complete access to the same material.",
+   "tier": 3
+  },
+  "c-f8dc04ddbb": {
+   "id": "c-f8dc04ddbb",
+   "kind": "claim",
+   "node": "tim-burchett",
+   "nodeLabel": "Timothy Floyd Burchett",
+   "source": {
+    "domain": null,
+    "text": "Rep. Tim Burchett, opening statement, House Oversight National Security subcommittee hearing, 26 July 2023, GPO transcript CHRG-118hhrg53022",
+    "url": null
+   },
+   "text": "'We were even denied access to a classified briefing in a SCIF prior to this hearing due to the amount of hoops that we had to jump through to grant temporary clearance to witness Grusch.'",
+   "tier": 1
+  },
+  "c-fa76c617cd": {
+   "id": "c-fa76c617cd",
+   "kind": "claim",
+   "node": "hearing-2023-07-26",
+   "nodeLabel": "House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'",
+   "source": {
+    "domain": null,
+    "text": "CHRG-118hhrg53022, testimony of David Grusch",
+    "url": null
+   },
+   "text": "Sworn testimony of David Grusch: 'I was informed in the course of my official duties of a multi-decade UAP crash retrieval and reverse engineering program to which I was denied access to those additional read-ons when I requested it. I made the decision based on the data I collected to report this information to my superiors and multiple inspectors general and, in effect, becoming a whistleblower. As you know, I have suffered retaliation for my decision'.",
+   "tier": 2
+  },
+  "c-fb0d11d5a6": {
+   "id": "c-fb0d11d5a6",
+   "kind": "claim",
+   "node": "jared-moskowitz",
+   "nodeLabel": "Jared Evan Moskowitz",
+   "source": {
+    "domain": null,
+    "text": "House Oversight hearing transcript, 26 July 2023",
+    "url": null
+   },
+   "text": "Elicited: funding by 'misappropriation of funds and self-fund,' and 'Correct, through something called IR&D' on contractor overcharging.",
+   "tier": 1
+  },
+  "c-fb7b395646": {
+   "id": "c-fb7b395646",
+   "kind": "claim",
+   "node": "anna-paulina-luna",
+   "nodeLabel": "Anna Paulina Luna",
+   "source": {
+    "domain": null,
+    "text": "House Oversight hearing transcript, 26 July 2023",
+    "url": null
+   },
+   "text": "Elicited that Grusch received prior DoD Prepublication and Security Review approval to speak on the issues he addressed.",
+   "tier": 1
+  },
+  "c-fd29b58882": {
+   "id": "c-fd29b58882",
+   "kind": "claim",
+   "node": "hearing-2023-07-26",
+   "nodeLabel": "House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'",
+   "source": {
+    "domain": null,
+    "text": "House Oversight hearing transcript HHRG-118-GO06-Transcript-20230726; govinfo CHRG-118hhrg53022",
+    "url": null
+   },
+   "text": "Official hearing record published as Serial No. 118-53; witnesses Grusch, Fravor and Graves sworn.",
+   "tier": 1
+  },
+  "c-fde8773047": {
+   "id": "c-fde8773047",
+   "kind": "claim",
+   "node": "david-fravor",
+   "nodeLabel": "David Fravor",
+   "source": {
+    "domain": "www.govinfo.gov",
+    "text": "Serial No. 118-53, https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm , 2023-07-26",
+    "url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm"
+   },
+   "text": "The testimony was sworn, and the printed record carries the mechanism. Chairman Grothman: 'Pursuant to Committee Rule 9(g), the witnesses will please stand and raise their right hands. Do you solemnly swear to tell the truth, the whole truth, and nothing but the truth, so help you God? [Witnesses are sworn.] Mr. Grothman. Let the record show that all the witnesses answered in the affirmative.'",
+   "tier": 1
+  },
+  "c-ff78070af0": {
+   "id": "c-ff78070af0",
+   "kind": "claim",
+   "node": "ryan-graves",
+   "nodeLabel": "Ryan Graves",
+   "source": {
+    "domain": null,
+    "text": "Ryan Graves, written testimony, House Oversight subcommittee, 26 July 2023",
+    "url": null
+   },
+   "text": "'A pivotal incident occurred during an air combat training mission in Warning Area W-72, an exclusive block of airspace ten miles east of Virginia Beach' where 'one of the pilots saw a dark gray cube inside of a clear sphere' and 'The jets, only 100 feet apart, were forced to take evasive action.'",
+   "tier": 1
+  },
+  "e-1d33db29d5": {
+   "endpoints": [
+    {
+     "id": "andy-biggs",
+     "label": "Andy Biggs"
+    },
+    {
+     "id": "hearing-2023-07-26",
+     "label": "House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'"
+    }
+   ],
+   "id": "e-1d33db29d5",
+   "kind": "edge",
+   "label": "questioned witnesses at the 26 July 2023 UAP hearing",
+   "sources": [
+    {
+     "date": "2023-07-26",
+     "name": "House Oversight hearing, 26 July 2023 (CHRG-118hhrg53022)",
+     "url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm"
+    },
+    {
+     "date": null,
+     "name": "https://www.congress.gov/event/118th-congress/house-event/116282/text",
+     "url": "https://www.congress.gov/event/118th-congress/house-event/116282/text"
+    }
+   ],
+   "text": "Chairman Grothman recognised Biggs, who questioned Grusch, Graves and Fravor on misdirection by the government regarding UAP, the 1997 Phoenix Lights, and the 2019 UAP classification guidelines. He is recorded in the transcript as a member of the Committee on Oversight and Accountability.",
+   "tier": 1,
+   "type": "legislative"
+  },
+  "e-27ab4f3f8b": {
+   "endpoints": [
+    {
+     "id": "hearing-2023-07-26",
+     "label": "House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'"
+    },
+    {
+     "id": "david-grusch",
+     "label": "David Charles Grusch"
+    }
+   ],
+   "id": "e-27ab4f3f8b",
+   "kind": "edge",
+   "label": "Same hearing paired the aviator record with the recovery-program allegations",
+   "sources": [
+    {
+     "date": "2023-07-26",
+     "name": "House Oversight - hearing page, 26 July 2023",
+     "url": "https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/"
+    },
+    {
+     "date": "2023-07-26",
+     "name": "House Oversight hearing transcript, 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency' (CHRG-118hhrg53022)",
+     "url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm"
+    },
+    {
+     "date": "2023-07-26",
+     "name": "David Grusch, written statement to the House Committee on Oversight and Accountability",
+     "url": "https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf"
+    }
+   ],
+   "text": "The committee deliberately seated two aviator witnesses beside a whistleblower alleging a concealed retrieval program, framing the observational record as the visible surface of a hidden effort.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-2a1fe41b29": {
+   "endpoints": [
+    {
+     "id": "maxwell-frost",
+     "label": "Maxwell Alejandro Frost"
+    },
+    {
+     "id": "hearing-2023-07-26",
+     "label": "House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'"
+    }
+   ],
+   "id": "e-2a1fe41b29",
+   "kind": "edge",
+   "label": "questioned witnesses at the 26 July 2023 UAP hearing",
+   "sources": [
+    {
+     "date": "2023-07-26",
+     "name": "House Oversight hearing, 26 July 2023 (CHRG-118hhrg53022)",
+     "url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm"
+    },
+    {
+     "date": null,
+     "name": "https://www.congress.gov/event/118th-congress/house-event/116282/text",
+     "url": "https://www.congress.gov/event/118th-congress/house-event/116282/text"
+    }
+   ],
+   "text": "Frost used his round on the scientific and stigma dimension: NASA's independent study team, the Galileo Project, whether military pilots feeling empowered to speak had shifted scientific research goals, and how Congress might connect scientists to the government's UAP work. He closed: 'I think it is important that we keep our top scientific minds focused on this issue and look for ways to increase collaboration.'",
+   "tier": 1,
+   "type": "legislative"
+  },
+  "e-2e062f95d2": {
+   "endpoints": [
+    {
+     "id": "glenn-grothman",
+     "label": "Glenn S. Grothman"
+    },
+    {
+     "id": "hearing-2023-07-26",
+     "label": "House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'"
+    }
+   ],
+   "id": "e-2e062f95d2",
+   "kind": "edge",
+   "label": "Presided; waived six non-members onto the subcommittee",
+   "sources": [
+    {
+     "date": "2023-07-26",
+     "name": "U.S. GPO, Hearing transcript, Serial No. 118-53 (CHRG-118hhrg53022)",
+     "url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm"
+    }
+   ],
+   "text": "The waiver list is a map of the disclosure caucus at formation.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-32155ccff4": {
+   "endpoints": [
+    {
+     "id": "chuck-schumer",
+     "label": "Charles E. Schumer"
+    },
+    {
+     "id": "jared-moskowitz",
+     "label": "Jared Evan Moskowitz"
+    }
+   ],
+   "id": "e-32155ccff4",
+   "kind": "edge",
+   "label": "Moskowitz read Schumer's disclosure language into the House record",
+   "sources": [
+    {
+     "date": "2023-07-26",
+     "name": "U.S. GPO, Hearing transcript, Serial No. 118-53 (CHRG-118hhrg53022)",
+     "url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm"
+    }
+   ],
+   "text": "'The American public has a right to learn about technologies of unknown origins, nonhuman intelligence, and unexplainable phenomena.'",
+   "tier": 1,
+   "type": "legislative"
+  },
+  "e-3acc8df57b": {
+   "endpoints": [
+    {
+     "id": "anna-paulina-luna",
+     "label": "Anna Paulina Luna"
+    },
+    {
+     "id": "david-grusch",
+     "label": "David Charles Grusch"
+    }
+   ],
+   "id": "e-3acc8df57b",
+   "kind": "edge",
+   "label": "Established the April 2022 Kirkpatrick conversation and the DOPSR clearance on the record",
+   "sources": [
+    {
+     "date": "2023-07-26",
+     "name": "House Oversight hearing transcript",
+     "url": "https://www.congress.gov/118/meeting/house/116282/documents/HHRG-118-GO06-Transcript-20230726.pdf"
+    }
+   ],
+   "text": "Luna's questioning put two facts in the transcript that AARO's later messaging has to work around: that Grusch briefed Kirkpatrick in a classified setting before Kirkpatrick led AARO, and that DoD cleared his public statements in advance.",
+   "tier": 1,
+   "type": "legislative"
+  },
+  "e-40b1d3b3a8": {
+   "endpoints": [
+    {
+     "id": "david-grusch",
+     "label": "David Charles Grusch"
+    },
+    {
+     "id": "ryan-graves",
+     "label": "Ryan Graves"
+    }
+   ],
+   "id": "e-40b1d3b3a8",
+   "kind": "edge",
+   "label": "Co-witness, 26 July 2023 hearing panel",
+   "sources": [
+    {
+     "date": "2023-07-26",
+     "name": "House Oversight hearing transcript",
+     "url": "https://www.congress.gov/118/meeting/house/116282/documents/HHRG-118-GO06-Transcript-20230726.pdf"
+    }
+   ],
+   "text": "Graves testified on the reporting gap for military and commercial aircrew; his Vandenberg account, sourced to a witness through Americans for Safe Aerospace, put contractor personnel into the same hearing record as Grusch's contractor allegations.",
+   "tier": 1,
+   "type": "witness-chain"
+  },
+  "e-456e219f67": {
+   "endpoints": [
+    {
+     "id": "matt-gaetz",
+     "label": "Matthew Louis Gaetz II"
+    },
+    {
+     "id": "l-eglin",
+     "label": "Eglin Air Force Base, Florida"
+    }
+   ],
+   "id": "e-456e219f67",
+   "kind": "edge",
+   "label": "Received a protected disclosure from Eglin and went to the base with Burchett and Luna",
+   "sources": [
+    {
+     "date": "2023-07-26",
+     "name": "U.S. GPO, Hearing transcript, Serial No. 118-53 (CHRG-118hhrg53022)",
+     "url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm"
+    }
+   ],
+   "text": "Initially refused images, radar and full crew access; obtained a photograph and one crew member after a discussion 'about how authorities flow in the United States of America.'",
+   "tier": 1,
+   "type": "investigative"
+  },
+  "e-557ee69215": {
+   "endpoints": [
+    {
+     "id": "jared-moskowitz",
+     "label": "Jared Evan Moskowitz"
+    },
+    {
+     "id": "david-grusch",
+     "label": "David Charles Grusch"
+    }
+   ],
+   "id": "e-557ee69215",
+   "kind": "edge",
+   "label": "Asked whether contractor overcharging funds the concealed programs",
+   "sources": [
+    {
+     "date": "2023-07-26",
+     "name": "U.S. GPO, Hearing transcript, Serial No. 118-53 (CHRG-118hhrg53022)",
+     "url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm"
+    },
+    {
+     "date": "2023-07-26",
+     "name": "House Oversight hearing transcript",
+     "url": "https://www.congress.gov/118/meeting/house/116282/documents/HHRG-118-GO06-Transcript-20230726.pdf"
+    }
+   ],
+   "text": "Moskowitz's questioning produced the only sworn statement on how an unacknowledged program is paid for: misappropriation plus contractor internal research and development money that carries no congressional notification duty.",
+   "tier": 1,
+   "type": "funding"
+  },
+  "e-6c1e565363": {
+   "endpoints": [
+    {
+     "id": "glenn-grothman",
+     "label": "Glenn S. Grothman"
+    },
+    {
+     "id": "hr-6967-safe-airspace-for-americans-act",
+     "label": "H.R. 6967 - Safe Airspace for Americans Act (118th Congress)"
+    }
+   ],
+   "id": "e-6c1e565363",
+   "kind": "edge",
+   "label": "Republican co-lead",
+   "sources": [
+    {
+     "date": "2024-01-12",
+     "name": "The Hill: Classified UFO briefing — House members emerge with mixed feelings",
+     "url": "https://thehill.com/homenews/house/4406059-classified-ufo-briefing-house-members-mixed-feelings/"
+    }
+   ],
+   "text": "The Hill records Garcia introducing the bill 'along with Rep. Glenn Grothman.'",
+   "tier": 2,
+   "type": "legislative"
+  },
+  "e-6fd6692321": {
+   "endpoints": [
+    {
+     "id": "andy-biggs",
+     "label": "Andy Biggs"
+    },
+    {
+     "id": "david-grusch",
+     "label": "David Charles Grusch"
+    }
+   ],
+   "id": "e-6fd6692321",
+   "kind": "edge",
+   "label": "pressed Grusch on Phoenix Lights and withheld information",
+   "sources": [
+    {
+     "date": "2023-07-26",
+     "name": "House Oversight and Accountability Committee hearing, 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency', 26 July 2023 (CHRG-118hhrg53022)",
+     "url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm"
+    }
+   ],
+   "text": "Biggs put the 1997 Phoenix Lights case to Grusch directly - 'I am going to take you to specific instances around the Phoenix Valley because that is where I live' - and asked whether he knew anything beyond the official explanation of a military training range off Luke and the Barry Goldwater range. Grusch: 'Only what is in the public vernacular about it. That was outside the scope of my duties.'",
+   "tier": 1,
+   "type": "investigative"
+  },
+  "e-70024e1983": {
+   "endpoints": [
+    {
+     "id": "l-eglin",
+     "label": "Eglin Air Force Base, Florida"
+    },
+    {
+     "id": "hearing-2023-07-26",
+     "label": "House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'"
+    }
+   ],
+   "id": "e-70024e1983",
+   "kind": "edge",
+   "label": "The Eglin radar sequence and imagery were requested from the dais, 'subpoenaed if necessary'",
+   "sources": [
+    {
+     "date": "2023-07-26",
+     "name": "U.S. GPO, Hearing transcript, Serial No. 118-53 (CHRG-118hhrg53022)",
+     "url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm"
+    }
+   ],
+   "text": "No production of the Eglin material to the committee has been recorded as of August 2026.",
+   "tier": 1,
+   "type": "investigative"
+  },
+  "e-7272153b37": {
+   "endpoints": [
+    {
+     "id": "robert-garcia",
+     "label": "Robert Garcia"
+    },
+    {
+     "id": "david-grusch",
+     "label": "David Charles Grusch"
+    }
+   ],
+   "id": "e-7272153b37",
+   "kind": "edge",
+   "label": "Elicited the 40-witnesses-over-4-years answer and the protected disclosure chain",
+   "sources": [
+    {
+     "date": "2023-07-26",
+     "name": "House Oversight hearing transcript",
+     "url": "https://www.congress.gov/118/meeting/house/116282/documents/HHRG-118-GO06-Transcript-20230726.pdf"
+    }
+   ],
+   "text": "Garcia's questioning established that Grusch had the firsthand-knowledge individuals file their own protected disclosures with the Inspector General - the fact that makes the witness chain more than hearsay.",
+   "tier": 1,
+   "type": "legislative"
+  },
+  "e-992a359d62": {
+   "endpoints": [
+    {
+     "id": "tim-burchett",
+     "label": "Timothy Floyd Burchett"
+    },
+    {
+     "id": "david-grusch",
+     "label": "David Charles Grusch"
+    }
+   ],
+   "id": "e-992a359d62",
+   "kind": "edge",
+   "label": "Elicited the harm, injury and murder answers; recorded the SCIF denial",
+   "sources": [
+    {
+     "date": "2023-07-26",
+     "name": "House Oversight hearing transcript",
+     "url": "https://www.congress.gov/118/meeting/house/116282/documents/HHRG-118-GO06-Transcript-20230726.pdf"
+    }
+   ],
+   "text": "Burchett drew Grusch's 'Yes, personally' on knowledge of people harmed in the concealment effort and his careful non-answer on murder, then stated on the record that members had been denied SCIF access.",
+   "tier": 1,
+   "type": "legislative"
+  },
+  "e-9e8c3cf991": {
+   "endpoints": [
+    {
+     "id": "robert-garcia",
+     "label": "Robert Garcia"
+    },
+    {
+     "id": "hoc-subcommittee-national-security",
+     "label": "Subcommittee on National Security, the Border, and Foreign Affairs"
+    }
+   ],
+   "id": "e-9e8c3cf991",
+   "kind": "edge",
+   "label": "Ranking Member at the 2023 hearing",
+   "sources": [
+    {
+     "date": "2023-07-26",
+     "name": "U.S. GPO, Hearing transcript, Serial No. 118-53 (CHRG-118hhrg53022)",
+     "url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm"
+    }
+   ],
+   "text": "Garcia delivered the Ranking Member opening statement on 26 July 2023.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-a10c1da52c": {
+   "endpoints": [
+    {
+     "id": "david-grusch",
+     "label": "David Charles Grusch"
+    },
+    {
+     "id": "david-fravor",
+     "label": "David Fravor"
+    }
+   ],
+   "id": "e-a10c1da52c",
+   "kind": "edge",
+   "label": "Co-witness, 26 July 2023 hearing panel",
+   "sources": [
+    {
+     "date": "2023-07-26",
+     "name": "House Oversight hearing transcript",
+     "url": "https://www.congress.gov/118/meeting/house/116282/documents/HHRG-118-GO06-Transcript-20230726.pdf"
+    }
+   ],
+   "text": "Fravor testified alongside Grusch and Graves, providing the operational encounter testimony that framed Grusch's programmatic allegations for the committee.",
+   "tier": 1,
+   "type": "witness-chain"
+  },
+  "e-a2bddb3019": {
+   "endpoints": [
+    {
+     "id": "anna-paulina-luna",
+     "label": "Anna Paulina Luna"
+    },
+    {
+     "id": "hearing-2023-07-26",
+     "label": "House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'"
+    }
+   ],
+   "id": "e-a2bddb3019",
+   "kind": "edge",
+   "label": "Co-drove the hearing; established Grusch's DoD prepublication clearance and his fear for his life",
+   "sources": [
+    {
+     "date": "2023-07-26",
+     "name": "U.S. GPO, Hearing transcript, Serial No. 118-53 (CHRG-118hhrg53022)",
+     "url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm"
+    }
+   ],
+   "text": "Moskowitz thanked Burchett and Luna for pushing the hearing forward; Luna's rounds established both facts on the record.",
+   "tier": 1,
+   "type": "investigative"
+  },
+  "e-a6290cefb3": {
+   "endpoints": [
+    {
+     "id": "glenn-grothman",
+     "label": "Glenn S. Grothman"
+    },
+    {
+     "id": "hoc-subcommittee-national-security",
+     "label": "Subcommittee on National Security, the Border, and Foreign Affairs"
+    }
+   ],
+   "id": "e-a6290cefb3",
+   "kind": "edge",
+   "label": "Chairman of the subcommittee at the 2023 hearing",
+   "sources": [
+    {
+     "date": "2023-07-26",
+     "name": "U.S. GPO, Hearing transcript, Serial No. 118-53 (CHRG-118hhrg53022)",
+     "url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm"
+    }
+   ],
+   "text": "Grothman gavelled the 26 July 2023 hearing to order and waived six non-members onto the subcommittee.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-ae5b455dc0": {
+   "endpoints": [
+    {
+     "id": "waived-sap-notification-group",
+     "label": "Waived SAP Notification Group"
+    },
+    {
+     "id": "house-oversight-committee",
+     "label": "U.S. House Committee on Oversight and Government Reform"
+    }
+   ],
+   "id": "e-ae5b455dc0",
+   "kind": "edge",
+   "label": "not a defense committee; receives nothing under 10 U.S.C. 119",
+   "sources": [
+    {
+     "date": "2026-08-22",
+     "name": "10 U.S.C. 119, Special Access Programs: congressional oversight — subsections (e)(2) and (g) (OLRC prelim text, read 22 August 2026)",
+     "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim"
+    },
+    {
+     "date": "2023-07-26",
+     "name": "U.S. GPO, Hearing transcript, Serial No. 118-53 (CHRG-118hhrg53022)",
+     "url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm"
+    }
+   ],
+   "text": "The July 2023 Grusch testimony was taken by a House Oversight subcommittee. That committee has no entitlement under section 119(e)(2) and no statutory route to compel waived-SAP material, which is a structural reason why the hearing could establish allegation but not access.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-b55f45c723": {
+   "endpoints": [
+    {
+     "id": "nancy-mace",
+     "label": "Nancy Ruth Mace"
+    },
+    {
+     "id": "david-grusch",
+     "label": "David Charles Grusch"
+    }
+   ],
+   "id": "e-b55f45c723",
+   "kind": "edge",
+   "label": "Drew the non-human biologics answer and the unlawful-withholding question under oath",
+   "sources": [
+    {
+     "date": "2023-07-26",
+     "name": "U.S. GPO, Hearing transcript, Serial No. 118-53 (CHRG-118hhrg53022)",
+     "url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm"
+    }
+   ],
+   "text": "The two most consequential exchanges of the 2023 hearing.",
+   "tier": 1,
+   "type": "investigative"
+  },
+  "e-c3e2e554ae": {
+   "endpoints": [
+    {
+     "id": "george-knapp",
+     "label": "George Knapp"
+    },
+    {
+     "id": "hearing-2023-07-26",
+     "label": "House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'"
+    }
+   ],
+   "id": "e-c3e2e554ae",
+   "kind": "edge",
+   "label": "His Statement for the Record was submitted by Rep. Burchett in 2023, two years before he testified in person",
+   "sources": [
+    {
+     "date": "2023-07-26",
+     "name": "U.S. GPO, Hearing transcript, Serial No. 118-53 (CHRG-118hhrg53022)",
+     "url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm"
+    },
+    {
+     "date": "2025-09-09",
+     "name": "U.S. GPO, Hearing transcript, Serial No. 119-44 (CHRG-119hhrg61718)",
+     "url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm"
+    }
+   ],
+   "text": "Listed in the 2023 Index of Documents; Knapp testified live on 9 September 2025.",
+   "tier": 1,
+   "type": "witness-chain"
+  },
+  "e-cdd6467e19": {
+   "endpoints": [
+    {
+     "id": "susan-gough",
+     "label": "Susan Gough"
+    },
+    {
+     "id": "hearing-2023-07-26",
+     "label": "House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'"
+    }
+   ],
+   "id": "e-cdd6467e19",
+   "kind": "edge",
+   "label": "Post-hearing statement rebutting the harm claims",
+   "sources": [
+    {
+     "date": "2023-07-31",
+     "name": "DefenseScoop - UAP hearing sparks clash between Pentagon officials, witnesses",
+     "url": "https://defensescoop.com/2023/07/31/uap-hearing-sparks-clash-between-pentagon-officials-witnesses/"
+    }
+   ],
+   "text": "Gough stated the Department has no information that any individual has been harmed or killed as a result of providing information to AARO, and warned that unsubstantiated harm claims discourage witnesses. Grusch's sworn claim was about harm in the concealment effort, not about providing information to AARO - the denial answers a question that was not asked.",
+   "tier": 1,
+   "type": "denial"
+  },
+  "e-d83ca4e935": {
+   "endpoints": [
+    {
+     "id": "robert-garcia",
+     "label": "Robert Garcia"
+    },
+    {
+     "id": "hr-6967-safe-airspace-for-americans-act",
+     "label": "H.R. 6967 - Safe Airspace for Americans Act (118th Congress)"
+    }
+   ],
+   "id": "e-d83ca4e935",
+   "kind": "edge",
+   "label": "Sponsor",
+   "sources": [
+    {
+     "date": "2024-01-11",
+     "name": "Congress.gov, H.R. 6967 — Safe Airspace for Americans Act (118th Congress)",
+     "url": "https://www.congress.gov/bill/118th-congress/house-bill/6967"
+    },
+    {
+     "date": "2024-01-12",
+     "name": "The Hill: Classified UFO briefing — House members emerge with mixed feelings",
+     "url": "https://thehill.com/homenews/house/4406059-classified-ufo-briefing-house-members-mixed-feelings/"
+    }
+   ],
+   "text": "Introduced 11 January 2024, the day before the ICIG briefing.",
+   "tier": 1,
+   "type": "legislative"
+  },
+  "e-d89228302b": {
+   "endpoints": [
+    {
+     "id": "maxwell-frost",
+     "label": "Maxwell Alejandro Frost"
+    },
+    {
+     "id": "ryan-graves",
+     "label": "Ryan Graves"
+    }
+   ],
+   "id": "e-d89228302b",
+   "kind": "edge",
+   "label": "questioned Graves on scientific advisory board and NASA reporting",
+   "sources": [
+    {
+     "date": "2023-07-26",
+     "name": "House Oversight hearing, 26 July 2023 (CHRG-118hhrg53022)",
+     "url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm"
+    }
+   ],
+   "text": "Frost asked Graves two questions: 'can you discuss the importance of seeking scientists to sit on your advisory board?' and 'how might Congress help to facilitate partnerships between the scientific community and the UAP focus groups within government?' Graves answered that this 'is going to be a scientific problem, and not only that, it is also an engineering problem', and pointed to his work with the American Institute of Aeronautics and Astronautics to stand up a UAP integration committee.",
+   "tier": 1,
+   "type": "investigative"
+  },
+  "e-e5830448a8": {
+   "endpoints": [
+    {
+     "id": "tim-burchett",
+     "label": "Timothy Floyd Burchett"
+    },
+    {
+     "id": "hearing-2023-07-26",
+     "label": "House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'"
+    }
+   ],
+   "id": "e-e5830448a8",
+   "kind": "edge",
+   "label": "Drove the hearing into existence; opened by disclosing the denied SCIF access",
+   "sources": [
+    {
+     "date": "2023-07-26",
+     "name": "U.S. GPO, Hearing transcript, Serial No. 118-53 (CHRG-118hhrg53022)",
+     "url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm"
+    }
+   ],
+   "text": "Garcia and Moskowitz both credited Burchett's leadership from the dais; Burchett's opening statement records that members were denied a SCIF briefing before the hearing.",
+   "tier": 1,
+   "type": "investigative"
+  },
+  "e-ec52b4f71b": {
+   "endpoints": [
+    {
+     "id": "house-oversight-committee",
+     "label": "U.S. House Committee on Oversight and Government Reform"
+    },
+    {
+     "id": "hoc-subcommittee-national-security",
+     "label": "Subcommittee on National Security, the Border, and Foreign Affairs"
+    }
+   ],
+   "id": "e-ec52b4f71b",
+   "kind": "edge",
+   "label": "Parent committee of the subcommittee that held the founding UAP hearing",
+   "sources": [
+    {
+     "date": "2023-07-26",
+     "name": "U.S. GPO, Hearing transcript, Serial No. 118-53 (CHRG-118hhrg53022)",
+     "url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm"
+    }
+   ],
+   "text": "The Subcommittee on National Security, the Border, and Foreign Affairs is a standing subcommittee of the Committee on Oversight and Accountability; the printed hearing record carries both rosters.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-f4464f999b": {
+   "endpoints": [
+    {
+     "id": "susan-gough",
+     "label": "Susan Gough"
+    },
+    {
+     "id": "david-grusch",
+     "label": "David Charles Grusch"
+    }
+   ],
+   "id": "e-f4464f999b",
+   "kind": "edge",
+   "label": "Standing DoD denial: AARO has not discovered any verifiable information",
+   "sources": [
+    {
+     "date": "2023-06-07",
+     "name": "Fox News - Pentagon denies secret UFO retrieval program after whistleblower bombshell",
+     "url": "https://www.foxnews.com/us/pentagon-denies-secret-ufo-retrieval-program-after-whistleblower-bombshell"
+    },
+    {
+     "date": "2023-06-06",
+     "name": "Fox News - Pentagon denies secret UFO retrieval program after whistleblower bombshell",
+     "url": "https://www.foxnews.com/us/pentagon-denies-secret-ufo-retrieval-program-after-whistleblower-bombshell.amp"
+    }
+   ],
+   "text": "Issued 7 June 2023, two days after The Debrief, and recycled since. Signatory: Susan Gough, DoD spokesperson. Note the boundary of the sentence: it asserts what one office has discovered, not what exists, and is silent on holdings outside AARO's access.",
+   "tier": 1,
+   "type": "denial"
+  },
+  "e-f7d32f769c": {
+   "endpoints": [
+    {
+     "id": "nancy-mace",
+     "label": "Nancy Ruth Mace"
+    },
+    {
+     "id": "david-grusch",
+     "label": "David Charles Grusch"
+    }
+   ],
+   "id": "e-f7d32f769c",
+   "kind": "edge",
+   "label": "Elicited the nonhuman biologics answer and the offer of a witness list",
+   "sources": [
+    {
+     "date": "2023-07-26",
+     "name": "House Oversight hearing transcript",
+     "url": "https://www.congress.gov/118/meeting/house/116282/documents/HHRG-118-GO06-Transcript-20230726.pdf"
+    }
+   ],
+   "text": "Mace drew the biologics testimony and Grusch's offer of 'a specific cooperative and hostile witness list of specific individuals' to be provided after the hearing. The list has never surfaced publicly.",
+   "tier": 1,
+   "type": "legislative"
+  }
+ },
+ "claimed": [
+  {
+   "cite": [
+    "c-fa76c617cd",
+    "c-66d33c8d87"
+   ],
+   "text": "Grusch testified that he was informed of a multi-decade crash retrieval and reverse-engineering programme, was denied the read-ons he requested, reported this to his superiors and several inspectors general, and suffered retaliation for doing so."
+  },
+  {
+   "cite": [
+    "c-d28a058e92",
+    "c-6c05829ad9",
+    "e-7272153b37"
+   ],
+   "text": "Asked by Garcia whether the government possesses UAP, Grusch answered yes, on the basis of interviewing over 40 witnesses over four years, and testified that he had the people with firsthand knowledge file their own protected disclosures with the Inspector General. His account is second-hand: it rests on what those witnesses told him."
+  },
+  {
+   "cite": [
+    "c-7535868bba",
+    "c-97321f85ca",
+    "e-b55f45c723"
+   ],
+   "text": "Asked by Mace, Grusch testified that biologics came with some recoveries and were nonhuman, and attributed that assessment to people with direct knowledge on the programme whom he had talked to."
+  },
+  {
+   "cite": [
+    "c-ee0abe1e35",
+    "e-992a359d62",
+    "c-106b928733"
+   ],
+   "text": "Asked by Burchett, Grusch testified that he had personal knowledge of people harmed in efforts to conceal the technology; on murder he said he had to be careful and had directed people with that knowledge to the appropriate authorities."
+  },
+  {
+   "cite": [
+    "c-2802f5182d",
+    "c-ce06869cc9",
+    "c-aa9c6ae80a",
+    "e-f7d32f769c"
+   ],
+   "text": "Grusch testified that he knew the names of the special access programmes and the locations involved but could not discuss them publicly, and that he had given that information to the Inspector General and the intelligence committees. He offered Mace a cooperative and hostile witness list after the hearing."
+  },
+  {
+   "cite": [
+    "c-8ad250645b",
+    "c-fb0d11d5a6",
+    "c-138c437a30",
+    "e-557ee69215"
+   ],
+   "text": "Answering Moskowitz, Grusch testified that such programmes are paid for by misappropriation of funds and self-funding, through contractor internal research and development money, and said he was not aware of any requirement for contractors to report UAP sightings."
+  },
+  {
+   "cite": [
+    "c-c2db1fd09a",
+    "c-320baf61ef",
+    "e-3acc8df57b"
+   ],
+   "text": "Grusch told Luna he had a classified conversation with Sean Kirkpatrick in April 2022, before Kirkpatrick took over AARO, and testified that Kirkpatrick's earlier statement to Congress that there was no credible evidence of extraterrestrial activity was not accurate."
+  },
+  {
+   "cite": [
+    "c-a605d34de0",
+    "c-13ba256c52",
+    "c-4d1e44e465",
+    "c-25c886d614"
+   ],
+   "text": "Fravor's written statement describes a small white Tic Tac shaped object with no rotors or visible flight control surfaces, and says the incident was never investigated, none of his crew were questioned and tapes were never taken. Under oath he gave the chain by which the case reached investigators: Jay Stratton contacted him in 2009, and later he spoke briefly with Elizondo."
+  },
+  {
+   "cite": [
+    "c-ff78070af0",
+    "c-7507e7aa84",
+    "c-a5e8af6329"
+   ],
+   "text": "Graves's written testimony describes pilots in warning area W-72 seeing a dark gray cube inside a clear sphere and two jets taking evasive action, a squadron safety report that drew no official acknowledgement, and Americans for Safe Aerospace working with more than 30 UAP witnesses."
+  },
+  {
+   "cite": [
+    "c-bfce192a79",
+    "c-447e5a4e62",
+    "c-192589aadd",
+    "e-456e219f67",
+    "c-8891a5a986"
+   ],
+   "text": "Gaetz described a protected disclosure from Eglin Air Force Base: on a visit he was at first refused images, radar and full crew access, then saw an image and met one crew member, and he said he alone in Congress had observed a radar sequence of four craft in a diamond formation. He added that test pilots told him the best thing for a career after a UAP experience was to forget it."
+  }
+ ],
+ "contested": [
+  {
+   "cite": [
+    "c-45971da324",
+    "c-0abcdb22ce",
+    "e-f4464f999b",
+    "c-3b643d967c"
+   ],
+   "text": "The Department's standing response, issued in Susan Gough's name in June 2023, is that AARO had not discovered any verifiable information to substantiate claims of programmes possessing or reverse-engineering extraterrestrial materials. The board notes that it states what one office has discovered, not what exists."
+  },
+  {
+   "cite": [
+    "c-8265d45876",
+    "e-cdd6467e19"
+   ],
+   "text": "After the hearing Gough stated that the Department had no information that anyone had been harmed or killed as a result of providing information to AARO. The board records that Grusch's sworn claim concerned harm in the concealment effort, so the denial answers a different question."
+  },
+  {
+   "cite": [
+    "c-55e352d752"
+   ],
+   "text": "AARO documented at least eight approaches to Grusch between June 2023 and January 2024 and concluded that he had no intention of providing information."
+  },
+  {
+   "cite": [
+    "c-2ca2b4bf41",
+    "c-f0981a8f64"
+   ],
+   "text": "At the November 2024 hearing Grothman said that no agency had been able to substantiate Grusch's claims despite members questioning them inside and outside the SCIF. On the board's reading that is in tension with Luna's 2025 statement that Oversight members could not be read in on the relevant programmes at all."
+  },
+  {
+   "cite": [
+    "e-6fd6692321",
+    "c-69b24ce981"
+   ],
+   "text": "Pressed by Biggs on the 1997 Phoenix Lights, Grusch said he knew only what was in the public vernacular and that it was outside the scope of his duties; Fravor offered Biggs a lead only in a closed environment."
+  }
+ ],
  "essays": [],
  "focusEra": "3",
  "id": "hearing-2023",
  "kind": "hearing",
- "lead": null,
- "members": [],
+ "lead": {
+  "cite": [
+   "c-c6c6078279",
+   "c-ef34de9f26",
+   "c-fa76c617cd"
+  ],
+  "text": "On 26 July 2023 a House Oversight subcommittee took sworn testimony from Ryan Graves, retired Commander David Fravor and David Grusch, a former National Reconnaissance Office representative to the UAP task force. Grusch testified that he had been informed, in the course of his official duties, of a multi-decade crash retrieval and reverse-engineering programme to which he was denied access."
+ },
+ "members": [
+  {
+   "cls": "event",
+   "id": "hearing-2023-07-26",
+   "label": "House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'",
+   "role": "event"
+  },
+  {
+   "cls": "institution",
+   "id": "hoc-subcommittee-national-security",
+   "label": "Subcommittee on National Security, the Border, and Foreign Affairs",
+   "role": "institution"
+  },
+  {
+   "cls": "institution",
+   "id": "house-oversight-committee",
+   "label": "U.S. House Committee on Oversight and Government Reform",
+   "role": "institution"
+  },
+  {
+   "cls": "person",
+   "id": "glenn-grothman",
+   "label": "Glenn S. Grothman",
+   "role": "legislator"
+  },
+  {
+   "cls": "person",
+   "id": "robert-garcia",
+   "label": "Robert Garcia",
+   "role": "legislator"
+  },
+  {
+   "cls": "person",
+   "id": "tim-burchett",
+   "label": "Timothy Floyd Burchett",
+   "role": "legislator"
+  },
+  {
+   "cls": "person",
+   "id": "anna-paulina-luna",
+   "label": "Anna Paulina Luna",
+   "role": "legislator"
+  },
+  {
+   "cls": "person",
+   "id": "jared-moskowitz",
+   "label": "Jared Evan Moskowitz",
+   "role": "legislator"
+  },
+  {
+   "cls": "person",
+   "id": "nancy-mace",
+   "label": "Nancy Ruth Mace",
+   "role": "legislator"
+  },
+  {
+   "cls": "person",
+   "id": "matt-gaetz",
+   "label": "Matthew Louis Gaetz II",
+   "role": "legislator"
+  },
+  {
+   "cls": "person",
+   "id": "andy-ogles",
+   "label": "Andrew Ogles",
+   "role": "legislator"
+  },
+  {
+   "cls": "person",
+   "id": "andy-biggs",
+   "label": "Andy Biggs",
+   "role": "legislator"
+  },
+  {
+   "cls": "person",
+   "id": "maxwell-frost",
+   "label": "Maxwell Alejandro Frost",
+   "role": "legislator"
+  },
+  {
+   "cls": "person",
+   "id": "eric-burlison",
+   "label": "Eric Burlison",
+   "role": "legislator"
+  },
+  {
+   "cls": "person",
+   "id": "chuck-schumer",
+   "label": "Charles E. Schumer",
+   "role": "legislator"
+  },
+  {
+   "cls": "person",
+   "id": "david-grusch",
+   "label": "David Charles Grusch",
+   "role": "claimant"
+  },
+  {
+   "cls": "person",
+   "id": "david-fravor",
+   "label": "David Fravor",
+   "role": "witness"
+  },
+  {
+   "cls": "person",
+   "id": "ryan-graves",
+   "label": "Ryan Graves",
+   "role": "witness"
+  },
+  {
+   "cls": "person",
+   "id": "george-knapp",
+   "label": "George Knapp",
+   "role": "journalist"
+  },
+  {
+   "cls": "person",
+   "id": "susan-gough",
+   "label": "Susan Gough",
+   "role": "official"
+  },
+  {
+   "cls": "location",
+   "id": "l-eglin",
+   "label": "Eglin Air Force Base, Florida",
+   "role": "place"
+  },
+  {
+   "cls": "institution",
+   "id": "waived-sap-notification-group",
+   "label": "Waived SAP Notification Group",
+   "role": "institution"
+  },
+  {
+   "cls": "legislation",
+   "id": "hr-6967-safe-airspace-for-americans-act",
+   "label": "H.R. 6967 - Safe Airspace for Americans Act (118th Congress)",
+   "role": "law"
+  }
+ ],
  "notes": "Thread custody and thread oversight begin here.",
- "questions": [],
- "record": [],
- "related": [],
+ "questions": [
+  "Who denied the members a SCIF before the hearing, and under what authority?",
+  "Did the cooperative and hostile witness list Grusch offered Mace ever reach the committee, and where is it now?",
+  "How many of the roughly 40 witnesses Grusch interviewed filed their own protected disclosures, and did the Inspector General adjudicate any of them?",
+  "Was the Eglin radar sequence or the crew's image ever produced to the committee?",
+  "How does AARO's later finding that none of its interviewees had firsthand knowledge square with Grusch's account of witnesses with firsthand knowledge?",
+  "How does Fravor's sworn statement that tapes were never taken fit the accounts of USS Princeton crew that recording media were removed?",
+  "Why did no subpoena follow from a hearing at which members repeatedly asked for one?"
+ ],
+ "record": [
+  {
+   "cite": [
+    "c-3e602ee03e",
+    "c-c6c6078279",
+    "c-fd29b58882",
+    "c-fde8773047"
+   ],
+   "text": "The printed record, CHRG-118hhrg53022, lists the witnesses as Ryan Graves, Executive Director of Americans for Safe Aerospace; David Grusch, former NRO representative to the task force; and Commander David Fravor (Ret.), former commanding officer, US Navy. The record shows all three were sworn."
+  },
+  {
+   "cite": [
+    "c-a9e1142cf0",
+    "e-2e062f95d2",
+    "c-5a34992747"
+   ],
+   "text": "Chairman Grothman waived six non-members onto the subcommittee for the hearing: Burchett, Luna, Gaetz, Burlison, Ocasio-Cortez and Ogles. He opened by saying that the lack of transparency on UAP had \"fueled wild speculation and debate for decades\"."
+  },
+  {
+   "cite": [
+    "c-f8dc04ddbb",
+    "c-d5f5a1e632",
+    "c-887cc0b97f"
+   ],
+   "text": "Burchett stated on the record that members had been denied a classified briefing in a SCIF before the hearing because of the hoops involved in granting Grusch temporary clearance, and repeated after asking Grusch about murder that the SCIF had been denied."
+  },
+  {
+   "cite": [
+    "c-efb7a87f76",
+    "c-ee1cdaac8e",
+    "c-2be28349d4",
+    "e-c3e2e554ae"
+   ],
+   "text": "The House Committee Repository file for the event holds the notice, roster, attendance sheet, each witness's written statement and bio, the official transcript posted 8 September 2023, and materials Burchett and Luna submitted, among them a Defense Intelligence Reference Document on vacuum-engineering propulsion, Jeremy Corbell's report The UAP Puzzle and a statement for the record by George Knapp."
+  },
+  {
+   "cite": [
+    "c-05d019fba4",
+    "c-fb7b395646"
+   ],
+   "text": "Grusch's public statements had been cleared by DoD Prepublication and Security Review on 4 and 6 April 2023, a fact Luna's questioning placed on the record."
+  },
+  {
+   "cite": [
+    "c-804b8a2582",
+    "c-0026d4af36",
+    "e-70024e1983"
+   ],
+   "text": "Gaetz recommended that the Eglin radar images and the flight crew's image be provided to the committee, subpoenaed if necessary; no production of that material has been recorded."
+  },
+  {
+   "cite": [
+    "c-68b267b9f9"
+   ],
+   "text": "Ogles closed the member rounds by urging the chairman to demand that Grusch speak to members in a SCIF, and said that if access was denied he would volunteer to initiate the Holman Rule against any personnel, programme or agency that denied it."
+  },
+  {
+   "cite": [
+    "e-32155ccff4",
+    "c-8c9c789d32"
+   ],
+   "text": "Moskowitz read Chuck Schumer's disclosure language into the House record and asked Grusch whether US corporations were overcharging the government and the extra money going to programmes."
+  },
+  {
+   "cite": [
+    "e-2a1fe41b29",
+    "e-d89228302b",
+    "e-1d33db29d5"
+   ],
+   "text": "Frost used his round on the scientific and stigma side, asking Graves how Congress could connect scientists with the government's UAP work; Biggs questioned all three witnesses on misdirection, the 1997 Phoenix Lights and the 2019 classification guidelines."
+  },
+  {
+   "cite": [
+    "e-ae5b455dc0"
+   ],
+   "text": "The Oversight Committee is not a defense committee and has no entitlement under 10 U.S.C. 119(e)(2) to waived special access programme material, which the board records as a structural reason the hearing could establish allegation but not access."
+  },
+  {
+   "cite": [
+    "c-cad42aabc7",
+    "c-3898ee5201",
+    "e-d83ca4e935",
+    "e-6c1e565363"
+   ],
+   "text": "On 11 January 2024 Garcia introduced H.R. 6967, the Safe Airspace for Americans Act, co-led with Grothman, to create a civilian reporting channel from the FAA to AARO."
+  }
+ ],
+ "related": [
+  "grusch-allegations",
+  "congressional-witnesses",
+  "hearing-2024",
+  "task-force-2025",
+  "house-push-2026",
+  "nimitz-2004",
+  "roosevelt-2014-15",
+  "whistleblower-channels",
+  "sap-reporting",
+  "denial-ledger",
+  "uapda"
+ ],
  "section": "congress-disclosure",
  "span": {
   "from": "2023",
   "to": "2023"
  },
- "status": "draft",
- "summary": [],
+ "status": "verified",
+ "summary": [
+  {
+   "cite": [
+    "c-ef34de9f26",
+    "c-13967c0072",
+    "c-3e602ee03e",
+    "e-a6290cefb3",
+    "e-9e8c3cf991",
+    "e-ec52b4f71b"
+   ],
+   "text": "The hearing was held before the Subcommittee on National Security, the Border, and Foreign Affairs of the Committee on Oversight and Accountability, chaired by Glenn Grothman with Robert Garcia as ranking member, and printed as Serial No. 118-53."
+  },
+  {
+   "cite": [
+    "e-e5830448a8",
+    "e-a2bddb3019",
+    "c-4b3e807010"
+   ],
+   "text": "Tim Burchett and Anna Paulina Luna drove the hearing into existence: Garcia and Moskowitz credited Burchett's leadership from the dais, and Moskowitz thanked Burchett and Luna for pushing it forward."
+  },
+  {
+   "cite": [
+    "e-27ab4f3f8b",
+    "e-40b1d3b3a8",
+    "e-a10c1da52c"
+   ],
+   "text": "The panel paired two aviator witnesses with a whistleblower alleging a concealed retrieval programme, so that the hearing record carries both the observational accounts and the programme allegations."
+  },
+  {
+   "cite": [
+    "c-2802f5182d",
+    "c-ce06869cc9",
+    "c-22c9b94565",
+    "c-40e772e25c"
+   ],
+   "text": "Grusch declined to name individuals or facilities in open session, offering the specifics only in a SCIF, and the board infers that no subpoena, compelled document production or contractor witness followed from this or the two later House hearings."
+  }
+ ],
  "title": "The July 2023 House hearing"
 }

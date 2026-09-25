@@ -3336,8 +3336,12 @@ def self_test():
         fx["status"] = "Drafted"
 
     def _p_floor(fx, ids):
+        # A floor above any reachable share. The poison was first written as 0.5
+        # while every topic was a stub (coverage 0); once phase 5 drafted the topics
+        # the real coverage passed 0.96 and 0.5 no longer tripped the check. A floor
+        # over 1.0 is refused whatever coverage the repo reaches.
         global _TOPIC_FLOOR_OVERRIDE
-        _TOPIC_FLOOR_OVERRIDE = {"nodes": 0.5, "people": 0.5}
+        _TOPIC_FLOOR_OVERRIDE = {"nodes": 1.0001, "people": 1.0001}
 
     # check name -> [(poison, a string its rejection must contain)]; "{key}" is
     # filled from the fixture's ids when the poison runs

@@ -14,25 +14,1753 @@
   "l-aztec"
  ],
  "appendixT": "crash-claims-1940s-60s",
- "cites": {},
- "claimed": [],
- "contested": [],
+ "cites": {
+  "c-04f04db444": {
+   "id": "c-04f04db444",
+   "kind": "claim",
+   "node": "kecksburg-1965",
+   "nodeLabel": "Kecksburg incident, 9 December 1965",
+   "source": {
+    "domain": null,
+    "text": "Greensburg Tribune-Review, December 1965",
+    "url": null
+   },
+   "text": "The Greensburg Tribune-Review reported at the time that the landing area was immediately sealed off on the order of US Army and State Police officials in anticipation of a close inspection.",
+   "tier": 1
+  },
+  "c-09e8f0a4be": {
+   "id": "c-09e8f0a4be",
+   "kind": "claim",
+   "node": "hottel-memo",
+   "nodeLabel": "Guy Hottel memorandum, 22 March 1950",
+   "source": {
+    "domain": null,
+    "text": "Inference from the document's own closing line",
+    "url": null
+   },
+   "text": "The memo's evidentiary value is as a dated marker for the circulation of the multiple-disc recovery narrative in official channels before Scully's book was published, not as evidence of a recovery. Reasoning: the document self-reports that no evaluation was attempted, so it records a rumour's reach rather than a fact's verification.",
+   "tier": 3
+  },
+  "c-0b8419cdf4": {
+   "id": "c-0b8419cdf4",
+   "kind": "claim",
+   "node": "stan-gordon",
+   "nodeLabel": "Stan Gordon",
+   "source": {
+    "domain": null,
+    "text": "Inference from the Tribune-Review reporting set against the Kean v. NASA record",
+    "url": null
+   },
+   "text": "The Kecksburg record is the domain's clearest instance of a documented cordon with an undocumented object: the sealing of the area is in the contemporary press, and the disposition of whatever was inside the cordon is in no released record of any agency. Reasoning: the cordon is tier 1, the object is tier 2 at best, and NASA has been judicially found not to have adequately searched for the difference.",
+   "tier": 3
+  },
+  "c-14b6ecadf3": {
+   "id": "c-14b6ecadf3",
+   "kind": "claim",
+   "node": "leonard-stringfield",
+   "nodeLabel": "Leonard H. Stringfield",
+   "source": {
+    "domain": null,
+    "text": "Inference from the Status Report corpus",
+    "url": null
+   },
+   "text": "Stringfield's anonymised letter-number case coding is the structural reason the retrieval corpus resists tier-1 verification: the coding was designed to protect sources from precisely the security apparatus whose existence the corpus asserts, and it succeeded, at the cost of making the corpus unauditable. Reasoning: the codes are internally consistent across seven reports but map to no released personnel record.",
+   "tier": 3
+  },
+  "c-17700a970f": {
+   "id": "c-17700a970f",
+   "kind": "claim",
+   "node": "hottel-memo",
+   "nodeLabel": "Guy Hottel memorandum, 22 March 1950",
+   "source": {
+    "domain": null,
+    "text": "FBI, Guy Hottel memorandum, 22 March 1950, released on The Vault",
+    "url": null
+   },
+   "text": "The memorandum is dated 22 March 1950, authored by Guy Hottel, special agent in charge of the FBI's Washington Field Office, and describes three circular craft of approximately fifty feet diameter recovered in New Mexico, each with three humanoid bodies three feet tall in metallic cloth, attributed to high-powered radar interference; it concludes 'No further evaluation was attempted.'",
+   "tier": 1
+  },
+  "c-1ab48b8c5b": {
+   "id": "c-1ab48b8c5b",
+   "kind": "claim",
+   "node": "gerald-anderson",
+   "nodeLabel": "Gerald Anderson",
+   "source": {
+    "domain": null,
+    "text": "The Roswell Report: Case Closed (1997), Section 1.4 and Conclusion",
+    "url": null
+   },
+   "text": "Anderson described the bodies as 'I thought they were plastic dolls' and described recovery procedures the Air Force found consistent with high-altitude balloon and anthropomorphic dummy launch and recovery.",
+   "tier": 2
+  },
+  "c-1c31d7a369": {
+   "id": "c-1c31d7a369",
+   "kind": "claim",
+   "node": "kecksburg-1965",
+   "nodeLabel": "Kecksburg incident, 9 December 1965",
+   "source": {
+    "domain": null,
+    "text": "NASA statement, December 2005",
+    "url": null
+   },
+   "text": "NASA stated in December 2005 that experts had examined metallic fragments from the area and determined they were from a Soviet satellite, but that records of their findings were lost in the 1980s.",
+   "tier": 1
+  },
+  "c-1f28b6904f": {
+   "id": "c-1f28b6904f",
+   "kind": "claim",
+   "node": "barney-barnett",
+   "nodeLabel": "Grady L. 'Barney' Barnett",
+   "source": {
+    "domain": null,
+    "text": "The Roswell Report: Case Closed (1997), Section 1.4, quoting FUFOR footage",
+    "url": null
+   },
+   "text": "Vern Maltais and Alice Knight, who knew Barnett, related his account on camera for the Fund for UFO Research video 'Recollections of Roswell Part II'; Knight stated 'I don't recall the date.'",
+   "tier": 2
+  },
+  "c-206b95e21a": {
+   "id": "c-206b95e21a",
+   "kind": "claim",
+   "node": "plains-san-agustin-1947",
+   "nodeLabel": "Plains of San Agustin claim, July 1947",
+   "source": {
+    "domain": null,
+    "text": "Stringfield, Status Report VII (February 1994), Roswell Crash/Retrieval Update",
+    "url": null
+   },
+   "text": "Stringfield's Status Report VII records a source placing the 1947 event just north of Roswell and not on the Plains of San Augustin.",
+   "tier": 2
+  },
+  "c-2226a2a1be": {
+   "id": "c-2226a2a1be",
+   "kind": "claim",
+   "node": "aztec-1948",
+   "nodeLabel": "Aztec, New Mexico claim, March 1948",
+   "source": {
+    "domain": null,
+    "text": "Court record as reported by J. P. Cahn, True magazine, 1952 and 1956",
+    "url": null
+   },
+   "text": "Silas M. Newton and Leo A. Gebauer were convicted of fraud in 1953 over 'doodlebug' devices they claimed were based on recovered alien technology.",
+   "tier": 1
+  },
+  "c-27b1ead4c1": {
+   "id": "c-27b1ead4c1",
+   "kind": "claim",
+   "node": "kean-v-nasa",
+   "nodeLabel": "Kean v. NASA, No. 1:03-cv-02509 (D.D.C.)",
+   "source": {
+    "domain": null,
+    "text": "Order, Dkt. 44, 27 March 2007, and accompanying Memorandum Opinion, Dkt. 45",
+    "url": null
+   },
+   "text": "The 27 March 2007 order granted in part and denied in part without prejudice NASA's motion for summary judgment, denied Kean's cross-motions without prejudice, and required a joint proposal for search and documentation procedures.",
+   "tier": 1
+  },
+  "c-28668eb7e1": {
+   "id": "c-28668eb7e1",
+   "kind": "claim",
+   "node": "aztec-1948",
+   "nodeLabel": "Aztec, New Mexico claim, March 1948",
+   "source": {
+    "domain": "en.wikipedia.org",
+    "text": "https://en.wikipedia.org/wiki/Aztec_crashed_saucer_hoax citing Toby Smith, 'Little Gray Men', p. 84, and John Michael Greer, 'The UFO Phenomenon' (2009)",
+    "url": "https://en.wikipedia.org/wiki/Aztec_crashed_saucer_hoax"
+   },
+   "text": "In 1974 Robert Spencer Carr publicly claimed alien bodies recovered near Aztec were stored at 'Hangar 18' at Wright-Patterson AFB, 'prompting official denials from the Air Force'; in later years 'many accounts, allegedly first-hand, of the Roswell crash contained the Aztec crash story'.",
+   "tier": 2
+  },
+  "c-2b12ea1f7e": {
+   "id": "c-2b12ea1f7e",
+   "kind": "claim",
+   "node": "stringfield-status-reports",
+   "nodeLabel": "UFO Crash/Retrieval Status Reports I-VII (Stringfield, 1978-1994)",
+   "source": {
+    "domain": null,
+    "text": "Stringfield, Status Report III, case notes on Kingman",
+    "url": null
+   },
+   "text": "Status Report III records that Kingman, Arizona, 1953 was first investigated and reported by Raymond Fowler, that Stringfield wrote to Fowler on 11 August 1980 seeking access to Fowler's source 'Fritz Werner' (pseudonym), and that Werner's written answers are dated 2 September 1980.",
+   "tier": 2
+  },
+  "c-2ed9038cfb": {
+   "id": "c-2ed9038cfb",
+   "kind": "claim",
+   "node": "aztec-1948",
+   "nodeLabel": "Aztec, New Mexico claim, March 1948",
+   "source": {
+    "domain": "history.denverlibrary.org",
+    "text": "Denver Public Library Special Collections and Archives, 'Of Flying Saucers and Fraud: The Silas M. Newton Story', 16 July 2021 - https://history.denverlibrary.org/news/western-history/flying-saucers-and-fraud-silas-m-newton-story",
+    "url": "https://history.denverlibrary.org/news/western-history/flying-saucers-and-fraud-silas-m-newton-story"
+   },
+   "text": "'The pair were convicted of fraud in 1953, as well as facing federal charges for transporting their ill-gotten gains across state lines.' A 1955 newspaper article shows Newton on probation, unpaid on his fines, and out of state in violation of its terms.",
+   "tier": 1
+  },
+  "c-3711069efb": {
+   "id": "c-3711069efb",
+   "kind": "claim",
+   "node": "aztec-1948",
+   "nodeLabel": "Aztec, New Mexico claim, March 1948",
+   "source": {
+    "domain": "www.fbi.gov",
+    "text": "https://www.fbi.gov/news/stories/ufos-and-the-guy-hottel-memo",
+    "url": "https://www.fbi.gov/news/stories/ufos-and-the-guy-hottel-memo"
+   },
+   "text": "The FBI's own position on the 22 March 1950 Guy Hottel memo, the most-viewed document in its Vault: it 'does not prove the existence of UFOs; it is simply a second- or third-hand claim that we never investigated. Some people believe the memo repeats a hoax that was circulating at that time, but the Bureau's files have no information to verify that theory.'",
+   "tier": 1
+  },
+  "c-392def65f6": {
+   "id": "c-392def65f6",
+   "kind": "claim",
+   "node": "cufos",
+   "nodeLabel": "J. Allen Hynek Center for UFO Studies (CUFOS)",
+   "source": {
+    "domain": null,
+    "text": "Stringfield, Status Report VII, acknowledgements and Roswell update",
+    "url": null
+   },
+   "text": "Stringfield acknowledges the cooperation of the J. Allen Hynek Center for UFO Studies in Status Report VII (February 1994) and records consulting its scientific director on 6 November 1993 about the Roswell retrieval body count.",
+   "tier": 1
+  },
+  "c-395eb87a30": {
+   "id": "c-395eb87a30",
+   "kind": "claim",
+   "node": "majic-eyes-only",
+   "nodeLabel": "Majic Eyes Only: Earth's Encounters with Extraterrestrial Technology (2005)",
+   "source": {
+    "domain": null,
+    "text": "Inference from the book's stated method and citation base",
+    "url": null
+   },
+   "text": "The catalogue's credibility weightings should not be treated as a metric because the weighting function is not reproducible by a third party, and its source trail substantially recirculates Stringfield's anonymous informants and the Majestic Documents corpus. Reasoning: an index inherits the provenance of what it indexes.",
+   "tier": 3
+  },
+  "c-3bf9c3b04b": {
+   "id": "c-3bf9c3b04b",
+   "kind": "claim",
+   "node": "kecksburg-1965",
+   "nodeLabel": "Kecksburg incident, 9 December 1965",
+   "source": {
+    "domain": null,
+    "text": "Testimony in Kean v. NASA, reported October 2007",
+    "url": null
+   },
+   "text": "NASA public liaison officer Steve McConnell testified in the Kean litigation that two boxes of papers from the time of the Kecksburg incident were missing.",
+   "tier": 2
+  },
+  "c-473aefc7d2": {
+   "id": "c-473aefc7d2",
+   "kind": "claim",
+   "node": "aztec-1948",
+   "nodeLabel": "Aztec, New Mexico claim, March 1948",
+   "source": {
+    "domain": "history.denverlibrary.org",
+    "text": "Denver Public Library Special Collections and Archives, 'Of Flying Saucers and Fraud: The Silas M. Newton Story', 16 July 2021 - https://history.denverlibrary.org/news/western-history/flying-saucers-and-fraud-silas-m-newton-story",
+    "url": "https://history.denverlibrary.org/news/western-history/flying-saucers-and-fraud-silas-m-newton-story"
+   },
+   "text": "'On April 30, 1969, Newton pled guilty to further fraud charges relating to the “salting” of the Buckhorn Mine in Silver City, New Mexico.' He died in 1972.",
+   "tier": 1
+  },
+  "c-51f2cfa20a": {
+   "id": "c-51f2cfa20a",
+   "kind": "claim",
+   "node": "behind-the-flying-saucers",
+   "nodeLabel": "Behind the Flying Saucers (Scully, 1950)",
+   "source": {
+    "domain": null,
+    "text": "Scully, 'Behind the Flying Saucers' (1950)",
+    "url": null
+   },
+   "text": "The book described a craft 99 feet in diameter containing sixteen humanoid bodies, said to have come from Venus and to work on magnetic principles, with every dimension divisible by nine.",
+   "tier": 2
+  },
+  "c-557138e0b5": {
+   "id": "c-557138e0b5",
+   "kind": "claim",
+   "node": "kingman-1953",
+   "nodeLabel": "Kingman, Arizona claim, 1953",
+   "source": {
+    "domain": null,
+    "text": "Stringfield, Status Report III, Kingman case notes",
+    "url": null
+   },
+   "text": "Kingman, Arizona 1953 was first investigated and reported by Raymond Fowler; Stringfield referenced it at pages 178-185 of 'Situation Red, The UFO Siege' (Doubleday, 1977) and as Abstract 6 of 'Retrievals of the Third Kind' (1978).",
+   "tier": 2
+  },
+  "c-58d903696b": {
+   "id": "c-58d903696b",
+   "kind": "claim",
+   "node": "barney-barnett",
+   "nodeLabel": "Grady L. 'Barney' Barnett",
+   "source": {
+    "domain": null,
+    "text": "Inference from the state of the record",
+    "url": null
+   },
+   "text": "The San Agustin strand is unfalsifiable in its current form and should be treated as a research target rather than as evidence. Reasoning: no first-hand statement by Barnett exists in any medium, and the only first-hand claimant, Gerald Anderson, was shown to have submitted a forged document.",
+   "tier": 3
+  },
+  "c-599a28123c": {
+   "id": "c-599a28123c",
+   "kind": "claim",
+   "node": "mufon",
+   "nodeLabel": "Mutual UFO Network (MUFON)",
+   "source": {
+    "domain": null,
+    "text": "Stringfield, Status Reports I and II, title pages and header notes",
+    "url": null
+   },
+   "text": "Stringfield delivered Status Report I at MUFON's ninth annual Symposium in Dayton, Ohio on 29 July 1978, and MUFON published Status Report II in January 1980.",
+   "tier": 1
+  },
+  "c-5c10ac927e": {
+   "id": "c-5c10ac927e",
+   "kind": "claim",
+   "node": "aztec-1948",
+   "nodeLabel": "Aztec, New Mexico claim, March 1948",
+   "source": {
+    "domain": "history.denverlibrary.org",
+    "text": "Denver Public Library Special Collections and Archives, 'Of Flying Saucers and Fraud: The Silas M. Newton Story', 16 July 2021 - https://history.denverlibrary.org/news/western-history/flying-saucers-and-fraud-silas-m-newton-story",
+    "url": "https://history.denverlibrary.org/news/western-history/flying-saucers-and-fraud-silas-m-newton-story"
+   },
+   "text": "Newton and GeBauer 'were charged with swindling Herman A. Flader to the tune of $50,000'; the device sold was the 'magnetic doodlebug', pitched as based on or reconstructed from alien technology. Denver optometrist Dr. Alfred D. Kleyhauer lost a further $15,000.",
+   "tier": 1
+  },
+  "c-60f630e1bb": {
+   "id": "c-60f630e1bb",
+   "kind": "claim",
+   "node": "aztec-1948",
+   "nodeLabel": "Aztec, New Mexico claim, March 1948",
+   "source": {
+    "domain": "history.denverlibrary.org",
+    "text": "Denver Public Library Special Collections and Archives, Chris Root, 'Of Flying Saucers and Fraud: The Silas M. Newton Story', 16 July 2021 - https://history.denverlibrary.org/news/western-history/flying-saucers-and-fraud-silas-m-newton-story",
+    "url": "https://history.denverlibrary.org/news/western-history/flying-saucers-and-fraud-silas-m-newton-story"
+   },
+   "text": "Newton, 'initially known only as the mysterious “Mr. X”', 'notoriously gave a lecture to a host of science students at Denver University on March 8, 1950', claiming he had seen two saucers held by the government, one crashed near Aztec and one near Durango, Colorado.",
+   "tier": 1
+  },
+  "c-6420135655": {
+   "id": "c-6420135655",
+   "kind": "claim",
+   "node": "fund-for-ufo-research",
+   "nodeLabel": "Fund for UFO Research",
+   "source": {
+    "domain": null,
+    "text": "The Roswell Report: Case Closed (1997), Section 1.4",
+    "url": null
+   },
+   "text": "The Air Force's 1997 report drew the Vern Maltais and Alice Knight statements it analysed from footage used to prepare the Fund for UFO Research video 'Recollections of Roswell Part II'.",
+   "tier": 1
+  },
+  "c-64b54d1f72": {
+   "id": "c-64b54d1f72",
+   "kind": "claim",
+   "node": "frank-scully",
+   "nodeLabel": "Frank Scully",
+   "source": {
+    "domain": null,
+    "text": "Scully, 'Behind the Flying Saucers' (1950)",
+    "url": null
+   },
+   "text": "Scully's account placed the Aztec crash in March 1948 at Hart Canyon, twelve miles northeast of Aztec, New Mexico, with a 99-foot craft and sixteen humanoid bodies.",
+   "tier": 2
+  },
+  "c-6a8ce5f56a": {
+   "id": "c-6a8ce5f56a",
+   "kind": "claim",
+   "node": "aztec-1948",
+   "nodeLabel": "Aztec, New Mexico claim, March 1948",
+   "source": {
+    "domain": "history.denverlibrary.org",
+    "text": "Denver Public Library Special Collections and Archives, 'Of Flying Saucers and Fraud: The Silas M. Newton Story', 16 July 2021 - https://history.denverlibrary.org/news/western-history/flying-saucers-and-fraud-silas-m-newton-story",
+    "url": "https://history.denverlibrary.org/news/western-history/flying-saucers-and-fraud-silas-m-newton-story"
+   },
+   "text": "'The “mystery metal,” which he claimed was indestructible, was identified as nothing but ordinary aluminum, with no unusual properties.' The sample was supplied to J. P. Cahn of the San Francisco Chronicle.",
+   "tier": 1
+  },
+  "c-6d85344c46": {
+   "id": "c-6d85344c46",
+   "kind": "claim",
+   "node": "kean-v-nasa",
+   "nodeLabel": "Kean v. NASA, No. 1:03-cv-02509 (D.D.C.)",
+   "source": {
+    "domain": null,
+    "text": "D.D.C. civil docket, No. 1:03-cv-02509",
+    "url": null
+   },
+   "text": "Case filed 9 December 2003; assigned to Judge Emmet G. Sullivan; nature of suit 895 Freedom of Information Act; jurisdiction type US Government Defendant; terminated 24 August 2009.",
+   "tier": 1
+  },
+  "c-7d7bf7e9f9": {
+   "id": "c-7d7bf7e9f9",
+   "kind": "claim",
+   "node": "gerald-anderson",
+   "nodeLabel": "Gerald Anderson",
+   "source": {
+    "domain": null,
+    "text": "The Roswell Report: Case Closed (1997), Appendix C",
+    "url": null
+   },
+   "text": "Anderson's interview transcript is reproduced at Appendix C, page 187, of the US Air Force's 1997 report.",
+   "tier": 1
+  },
+  "c-846b464f8d": {
+   "id": "c-846b464f8d",
+   "kind": "claim",
+   "node": "kingman-1953",
+   "nodeLabel": "Kingman, Arizona claim, 1953",
+   "source": {
+    "domain": null,
+    "text": "Inference from the Werner answers of 2 September 1980",
+    "url": null
+   },
+   "text": "Kingman is the retrieval literature's best-documented example of a compartmented-examination account and simultaneously its clearest self-reported contamination admission, which is why it should be treated as a research target rather than as evidence. Reasoning: the source states in writing that his own recollection may be contaminated by intervening published descriptions.",
+   "tier": 3
+  },
+  "c-88c21893dc": {
+   "id": "c-88c21893dc",
+   "kind": "claim",
+   "node": "leonard-stringfield",
+   "nodeLabel": "Leonard H. Stringfield",
+   "source": {
+    "domain": null,
+    "text": "Stringfield, Status Report IV, 'Prologue: The Burden of Proof' (scan)",
+    "url": null
+   },
+   "text": "Stringfield stated in Status Report IV that public UFO research does not possess proof, and that affidavits, leaked government documents and photographs do not constitute proof - an unusually explicit self-assessment by the field's founding retrieval researcher.",
+   "tier": 2
+  },
+  "c-8bb99172df": {
+   "id": "c-8bb99172df",
+   "kind": "claim",
+   "node": "plains-san-agustin-1947",
+   "nodeLabel": "Plains of San Agustin claim, July 1947",
+   "source": {
+    "domain": null,
+    "text": "The Roswell Report: Case Closed (1997), Section 1.4 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+    "url": null
+   },
+   "text": "The report proposes that the witnesses may have confused the Plains of San Agustin with San Agustin Pass or San Agustin Peak, areas just outside White Sands Missile Range and the Jornada Test Range where numerous anthropomorphic dummy balloon flights terminated and were recovered.",
+   "tier": 2
+  },
+  "c-8e2dbcf506": {
+   "id": "c-8e2dbcf506",
+   "kind": "claim",
+   "node": "kecksburg-1965",
+   "nodeLabel": "Kecksburg incident, 9 December 1965",
+   "source": {
+    "domain": null,
+    "text": "NASA Space Science Data Coordinated Archive entry on Cosmos 96",
+    "url": null
+   },
+   "text": "NASA's later published position states that the fireball's atmospheric path was probably too steep to be consistent with a spacecraft re-entering from Earth orbit, that USAF tracking data indicate Cosmos 96's orbit decayed earlier than 21:43 UT on 9 December 1965, and that other analyses definitively indicate it could not have been Cosmos 96.",
+   "tier": 1
+  },
+  "c-8f1f3928dd": {
+   "id": "c-8f1f3928dd",
+   "kind": "claim",
+   "node": "aztec-1948",
+   "nodeLabel": "Aztec, New Mexico claim, March 1948",
+   "source": {
+    "domain": "history.denverlibrary.org",
+    "text": "Denver Public Library Special Collections and Archives, 'Of Flying Saucers and Fraud: The Silas M. Newton Story', 16 July 2021 - https://history.denverlibrary.org/news/western-history/flying-saucers-and-fraud-silas-m-newton-story",
+    "url": "https://history.denverlibrary.org/news/western-history/flying-saucers-and-fraud-silas-m-newton-story"
+   },
+   "text": "'The Doodlebugs were determined to be constructed of surplus military radio parts. Far from the professed $800,000 price tag, the estimated cost for each useless device was roughly $3.50.'",
+   "tier": 1
+  },
+  "c-92df74e779": {
+   "id": "c-92df74e779",
+   "kind": "claim",
+   "node": "stan-gordon",
+   "nodeLabel": "Stan Gordon",
+   "source": {
+    "domain": null,
+    "text": "Unsolved Mysteries (NBC, 1990); 'The New Roswell: Kecksburg Exposed' (Sci Fi Channel, 2003)",
+    "url": null
+   },
+   "text": "Kecksburg residents interviewed over four decades describe an object shaped like an acorn and about the size of a Volkswagen bearing writing resembling hieroglyphs, removed from the woods by a military operation; resident John Hays has stated since 1990 that as a ten-year-old he saw a flat-bed truck emerging from the site carrying something 'the size of a VW'.",
+   "tier": 2
+  },
+  "c-969e454d3e": {
+   "id": "c-969e454d3e",
+   "kind": "claim",
+   "node": "aztec-1948",
+   "nodeLabel": "Aztec, New Mexico claim, March 1948",
+   "source": {
+    "domain": "en.wikipedia.org",
+    "text": "https://en.wikipedia.org/wiki/Aztec_crashed_saucer_hoax and https://books.google.com/books/about/The_Aztec_UFO_Incident.html?id=x99EDwAAQBAJ",
+    "url": "https://en.wikipedia.org/wiki/Aztec_crashed_saucer_hoax"
+   },
+   "text": "'The incident gave birth to the Aztec UFO Symposium, which was run by the Aztec, New Mexico, library as a fundraiser from 1997 until 2011.' Revisionist defences were published by Scott Ramsey, Suzanne Ramsey and Frank Thayer as 'The Aztec Incident: Recovery at Hart Canyon' and 'The Aztec UFO Incident'.",
+   "tier": 2
+  },
+  "c-9adf323e4b": {
+   "id": "c-9adf323e4b",
+   "kind": "claim",
+   "node": "fund-for-ufo-research",
+   "nodeLabel": "Fund for UFO Research",
+   "source": {
+    "domain": null,
+    "text": "Stringfield, Status Report VII, acknowledgements",
+    "url": null
+   },
+   "text": "Stringfield acknowledges past funding from the Fund for UFO Research in the acknowledgements to Status Report VII, February 1994.",
+   "tier": 1
+  },
+  "c-ac7e216e82": {
+   "id": "c-ac7e216e82",
+   "kind": "claim",
+   "node": "kingman-1953",
+   "nodeLabel": "Kingman, Arizona claim, 1953",
+   "source": {
+    "domain": null,
+    "text": "Stringfield, Status Report III, Kingman Q&A",
+    "url": null
+   },
+   "text": "Stringfield wrote to Fowler on 11 August 1980 seeking permission to question Fowler's source 'Fritz Werner' (pseudonym); Werner's written answers are dated 2 September 1980 and are printed verbatim in Status Report III.",
+   "tier": 2
+  },
+  "c-b868065c8f": {
+   "id": "c-b868065c8f",
+   "kind": "claim",
+   "node": "gerald-anderson",
+   "nodeLabel": "Gerald Anderson",
+   "source": {
+    "domain": "archive.org",
+    "text": "Headquarters USAF, 'The Roswell Report: Case Closed' (1997), Appendix C https://archive.org/details/DTIC_ADA326147",
+    "url": "https://archive.org/details/DTIC_ADA326147"
+   },
+   "text": "The USAF's 'Case Closed' prints Gerald Anderson's interview in full as Appendix C, beginning at page 187, noting it was 'excerpted in their entirety from unedited interviews used to prepare the video, Recollections of Roswell, Part II (1993)' and appears courtesy of the Fund for UFO Research. The Air Force also quotes him directly on the alleged bodies: 'I thought they were plastic dolls.'",
+   "tier": 1
+  },
+  "c-bef1709c4f": {
+   "id": "c-bef1709c4f",
+   "kind": "claim",
+   "node": "aztec-1948",
+   "nodeLabel": "Aztec, New Mexico claim, March 1948",
+   "source": {
+    "domain": null,
+    "text": "Comparison of the 1950 Scully descriptions with later Roswell-era testimony",
+    "url": null
+   },
+   "text": "Aztec is best treated as the domain's contamination event rather than as a case: a fraud that supplied specific physical details - craft dimensions, body height and weight, heat-proof material - which then reappeared in later first-hand testimony about entirely different sites. Reasoning: the details predate the accounts that repeat them and have a documented fraudulent origin.",
+   "tier": 3
+  },
+  "c-cc44026d90": {
+   "id": "c-cc44026d90",
+   "kind": "claim",
+   "node": "aztec-1948",
+   "nodeLabel": "Aztec, New Mexico claim, March 1948",
+   "source": {
+    "domain": "history.denverlibrary.org",
+    "text": "Denver Public Library Special Collections and Archives, 'Of Flying Saucers and Fraud: The Silas M. Newton Story', 16 July 2021 - https://history.denverlibrary.org/news/western-history/flying-saucers-and-fraud-silas-m-newton-story",
+    "url": "https://history.denverlibrary.org/news/western-history/flying-saucers-and-fraud-silas-m-newton-story"
+   },
+   "text": "Newton claimed the beings were 'probably from Venus', 'between 38 and 42 inches tall', wore cloth 'that could not be torn', and that their magnetic propulsion allowed travel 'at twice the speed of light'.",
+   "tier": 1
+  },
+  "c-cfdb9f052a": {
+   "id": "c-cfdb9f052a",
+   "kind": "claim",
+   "node": "kingman-1953",
+   "nodeLabel": "Kingman, Arizona claim, 1953",
+   "source": {
+    "domain": null,
+    "text": "Stringfield, Status Report III, verbatim Q&A dated 2 September 1980",
+    "url": null
+   },
+   "text": "Asked in 1980 for facial detail on the entity, 'Werner' answered: 'Since it's been 27 years, details like this are pretty foggy and I may even be influenced by other descriptions I've seen or heard in the interim.'",
+   "tier": 2
+  },
+  "c-d25b37ea61": {
+   "id": "c-d25b37ea61",
+   "kind": "claim",
+   "node": "stan-gordon",
+   "nodeLabel": "Stan Gordon",
+   "source": {
+    "domain": null,
+    "text": "Greensburg Tribune-Review, December 1965",
+    "url": null
+   },
+   "text": "The Greensburg Tribune-Review reported at the time that the landing area was immediately sealed off on the order of US Army and State Police officials in anticipation of a close inspection, and that state police ordered the area roped off pending the arrival of Army engineers and possibly civilian scientists; a subsequent edition ran the headline 'Searchers Fail to Find Object'.",
+   "tier": 1
+  },
+  "c-d3ce81eb80": {
+   "id": "c-d3ce81eb80",
+   "kind": "claim",
+   "node": "plains-san-agustin-1947",
+   "nodeLabel": "Plains of San Agustin claim, July 1947",
+   "source": {
+    "domain": null,
+    "text": "Rodeghier and Whiting (1992), cited at note 123 of the 1997 Air Force report",
+    "url": null
+   },
+   "text": "Mark Rodeghier (CUFOS) and Fred Whiting (Fund for UFO Research) published 'The Plains of San Agustin Controversy' in 1992, an investigation by the two leading civilian research bodies that concluded against their own first-hand witness.",
+   "tier": 2
+  },
+  "c-dc3085bb11": {
+   "id": "c-dc3085bb11",
+   "kind": "claim",
+   "node": "aztec-1948",
+   "nodeLabel": "Aztec, New Mexico claim, March 1948",
+   "source": {
+    "domain": "history.denverlibrary.org",
+    "text": "Denver Public Library Special Collections and Archives, 'Of Flying Saucers and Fraud: The Silas M. Newton Story', 16 July 2021 - https://history.denverlibrary.org/news/western-history/flying-saucers-and-fraud-silas-m-newton-story",
+    "url": "https://history.denverlibrary.org/news/western-history/flying-saucers-and-fraud-silas-m-newton-story"
+   },
+   "text": "Leonard GeBauer, 'a Phoenix electronics merchant', is identified as 'likely “Dr. Gee,” the “magnetologist” featured prominently in Scully's book'.",
+   "tier": 1
+  },
+  "c-e05f71719f": {
+   "id": "c-e05f71719f",
+   "kind": "claim",
+   "node": "behind-the-flying-saucers",
+   "nodeLabel": "Behind the Flying Saucers (Scully, 1950)",
+   "source": {
+    "domain": null,
+    "text": "Comparison of the 1950 text with later witness accounts",
+    "url": null
+   },
+   "text": "Aztec-specific details from this book - heat-proof material, bodies of 36 to 42 inches at about 40 pounds - later appear in supposedly first-hand accounts of unrelated sites, establishing that the crash-retrieval witness pool has been contaminated by published fiction since at least 1950. Reasoning: the details are datable to a single fraudulent 1950 source and post-date it in every account that repeats them.",
+   "tier": 3
+  },
+  "c-e525a37b15": {
+   "id": "c-e525a37b15",
+   "kind": "claim",
+   "node": "aztec-1948",
+   "nodeLabel": "Aztec, New Mexico claim, March 1948",
+   "source": {
+    "domain": "en.wikipedia.org",
+    "text": "https://en.wikipedia.org/wiki/Aztec_crashed_saucer_hoax — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+    "url": "https://en.wikipedia.org/wiki/Aztec_crashed_saucer_hoax"
+   },
+   "text": "Per Scully, in March 1948 an unidentified craft 99 feet in diameter containing sixteen humanoid bodies was recovered by the military after a controlled landing in Hart Canyon, 12 miles northeast of Aztec, and 'the military had taken the craft for secret research'.",
+   "tier": 2
+  },
+  "c-e9b7e5fac1": {
+   "id": "c-e9b7e5fac1",
+   "kind": "claim",
+   "node": "plains-san-agustin-1947",
+   "nodeLabel": "Plains of San Agustin claim, July 1947",
+   "source": {
+    "domain": null,
+    "text": "The Roswell Report: Case Closed (1997), Section 1.1 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+    "url": null
+   },
+   "text": "The Air Force's 1997 report states the San Agustin claim is supported by three principal testimonies, two second-hand (Maltais, Knight) and one first-hand (Anderson), and that the original alleged eyewitness Grady L. Barnett is deceased.",
+   "tier": 2
+  },
+  "c-eb0098587c": {
+   "id": "c-eb0098587c",
+   "kind": "claim",
+   "node": "del-rio-1950",
+   "nodeLabel": "Del Rio / Mexican border claim, 1948 or 1950",
+   "source": {
+    "domain": null,
+    "text": "Inference from the state of the record",
+    "url": null
+   },
+   "text": "Del Rio cannot be graded above tier 3 by construction because its own index entry offers two candidate years and an ambiguous country, and no version of the account has been stated consistently by any named source. Reasoning: an event that cannot be fixed in time or jurisdiction cannot be searched for in any records system.",
+   "tier": 3
+  },
+  "c-f0d9eb7b5e": {
+   "id": "c-f0d9eb7b5e",
+   "kind": "claim",
+   "node": "aztec-1948",
+   "nodeLabel": "Aztec, New Mexico claim, March 1948",
+   "source": {
+    "domain": null,
+    "text": "Scully, 'Behind the Flying Saucers' (1950)",
+    "url": null
+   },
+   "text": "Scully's account, published in Variety in 1949 and in 'Behind the Flying Saucers' in 1950, placed the crash in March 1948 in Hart Canyon twelve miles northeast of Aztec, with a 99-foot craft and sixteen bodies.",
+   "tier": 2
+  },
+  "c-f1f3c201e4": {
+   "id": "c-f1f3c201e4",
+   "kind": "claim",
+   "node": "hottel-memo",
+   "nodeLabel": "Guy Hottel memorandum, 22 March 1950",
+   "source": {
+    "domain": null,
+    "text": "FBI public statements on the Hottel memorandum",
+    "url": null
+   },
+   "text": "The FBI has described the memo as relaying a second- or third-hand claim that the Bureau never investigated, and it became the most-viewed document on The Vault after that reading room launched in April 2011.",
+   "tier": 1
+  },
+  "c-f547c4232a": {
+   "id": "c-f547c4232a",
+   "kind": "claim",
+   "node": "kean-v-nasa",
+   "nodeLabel": "Kean v. NASA, No. 1:03-cv-02509 (D.D.C.)",
+   "source": {
+    "domain": null,
+    "text": "D.D.C. docket entries 55, 56, 69 and the minute orders of 17 October 2007 and 24 August 2009",
+    "url": null
+   },
+   "text": "Stipulation of Settlement in Part signed 16 October 2007 and entered 17 October 2007, with joint status reports ordered every sixty days; case dismissed by minute order of 24 August 2009 granting the parties' joint motion, the court noting NASA's representations that it had met its obligations under the settlement.",
+   "tier": 1
+  },
+  "c-f8c2b391ec": {
+   "id": "c-f8c2b391ec",
+   "kind": "claim",
+   "node": "del-rio-1950",
+   "nodeLabel": "Del Rio / Mexican border claim, 1948 or 1950",
+   "source": {
+    "domain": null,
+    "text": "Stringfield, Status Report III, 'Chronology of cases reported in the UFO Crash/Retrieval Syndrome, Status Report II', p. 125 ff.",
+    "url": null
+   },
+   "text": "Stringfield's consolidated chronology lists as Item B-7 of Status Report II: '1948 or 1950: Mexico, near Del Rio, Texas. Air Force officer observed crashed craft and one body.'",
+   "tier": 2
+  },
+  "c-fc01ecff3c": {
+   "id": "c-fc01ecff3c",
+   "kind": "claim",
+   "node": "gerald-anderson",
+   "nodeLabel": "Gerald Anderson",
+   "source": {
+    "domain": null,
+    "text": "Rodeghier and Whiting, 'The Plains of San Agustin Controversy' (1992), cited at note 123 of the 1997 Air Force report",
+    "url": null
+   },
+   "text": "Mark Rodeghier (CUFOS) and Fred Whiting (Fund for UFO Research) published a joint investigation, 'The Plains of San Agustin Controversy', concluding against Anderson's reliability.",
+   "tier": 2
+  },
+  "c-fd7620a566": {
+   "id": "c-fd7620a566",
+   "kind": "claim",
+   "node": "aztec-1948",
+   "nodeLabel": "Aztec, New Mexico claim, March 1948",
+   "source": {
+    "domain": "web.archive.org",
+    "text": "J. P. Cahn, True magazine, Sept. 1952 and Aug. 1956; archived scans at https://web.archive.org/web/20230622091542/http://www.physics.smu.edu/~pseudo/UFOs/Scully/Cahn1.pdf and https://web.archive.org/web/20230622101940/http://www.physics.smu.edu/pseudo/UFOs/Scully/Cahn2.pdf",
+    "url": "https://web.archive.org/web/20230622091542/http://www.physics.smu.edu/~pseudo/UFOs/Scully/Cahn1.pdf"
+   },
+   "text": "The exposure was published by J. P. Cahn as 'The Flying Saucers and the Mysterious Little Men', True, September 1952, with a follow-up, 'Flying Saucer Swindlers', True, August 1956, presenting further victims.",
+   "tier": 1
+  },
+  "e-192e936ba5": {
+   "endpoints": [
+    {
+     "id": "stringfield-status-reports",
+     "label": "UFO Crash/Retrieval Status Reports I-VII (Stringfield, 1978-1994)"
+    },
+    {
+     "id": "kingman-1953",
+     "label": "Kingman, Arizona claim, 1953"
+    }
+   ],
+   "id": "e-192e936ba5",
+   "kind": "edge",
+   "label": "Status Report III printed the 1980 'Fritz Werner' Q&A on Kingman",
+   "sources": [
+    {
+     "date": "2026-08-12",
+     "name": "Stringfield Status Reports 1-7 (scans)",
+     "url": "https://archive.org/details/stringfield_Retrievals_Report_6_inner_sanctum_LQ"
+    }
+   ],
+   "text": "Stringfield wrote to Raymond Fowler on 11 August 1980 for access to Fowler's pseudonymous source; the answers are dated 2 September 1980 and are printed verbatim in Status Report III.",
+   "tier": 2,
+   "type": "research"
+  },
+  "e-1b4c97fb5e": {
+   "endpoints": [
+    {
+     "id": "roswell-report-case-closed",
+     "label": "The Roswell Report: Case Closed (1997)"
+    },
+    {
+     "id": "plains-san-agustin-1947",
+     "label": "Plains of San Agustin claim, July 1947"
+    }
+   ],
+   "id": "e-1b4c97fb5e",
+   "kind": "edge",
+   "label": "Air Force proposes San Agustin Pass confusion and dummy recoveries",
+   "sources": [
+    {
+     "date": "1997-01-01",
+     "name": "The Roswell Report: Case Closed (1997)",
+     "url": "https://archive.org/details/AFD-101027-030"
+    }
+   ],
+   "text": "Section 1.4 argues that Maltais and Knight may have confused the Plains with San Agustin Pass or Peak, adjacent to White Sands and the Jornada Test Range, where numerous dummy flights terminated.",
+   "tier": 1,
+   "type": "denial"
+  },
+  "e-26d92b7e0b": {
+   "endpoints": [
+    {
+     "id": "stan-gordon",
+     "label": "Stan Gordon"
+    },
+    {
+     "id": "kecksburg-1965",
+     "label": "Kecksburg incident, 9 December 1965"
+    }
+   ],
+   "id": "e-26d92b7e0b",
+   "kind": "edge",
+   "label": "Principal field investigator of the Kecksburg witness pool",
+   "sources": [
+    {
+     "date": "2026-08-12",
+     "name": "Kecksburg UFO incident - Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Kecksburg_UFO_incident"
+    }
+   ],
+   "text": "Gordon collected local first-hand accounts over four decades, supplying the witnesses used by Unsolved Mysteries (1990) and the Sci Fi Channel documentary (2003).",
+   "tier": 2,
+   "type": "investigative"
+  },
+  "e-2c96872b66": {
+   "endpoints": [
+    {
+     "id": "stringfield-status-reports",
+     "label": "UFO Crash/Retrieval Status Reports I-VII (Stringfield, 1978-1994)"
+    },
+    {
+     "id": "aztec-1948",
+     "label": "Aztec, New Mexico claim, March 1948"
+    }
+   ],
+   "id": "e-2c96872b66",
+   "kind": "edge",
+   "label": "Stringfield revived Aztec as a real retrieval in the late 1970s",
+   "sources": [
+    {
+     "date": "2026-08-12",
+     "name": "Stringfield Status Reports 1-7 (scans)",
+     "url": "https://archive.org/details/stringfield_Retrievals_Report_6_inner_sanctum_LQ"
+    }
+   ],
+   "text": "After two decades in which ufologists treated Aztec as dead, Stringfield argued the incident was real and that the craft was one of many held by the US military; Status Report V lists Aztec alongside Roswell, Kingman, El Yunque and Brown County.",
+   "tier": 2,
+   "type": "research"
+  },
+  "e-3ef2e1d29b": {
+   "endpoints": [
+    {
+     "id": "kean-v-nasa",
+     "label": "Kean v. NASA, No. 1:03-cv-02509 (D.D.C.)"
+    },
+    {
+     "id": "kecksburg-1965",
+     "label": "Kecksburg incident, 9 December 1965"
+    }
+   ],
+   "id": "e-3ef2e1d29b",
+   "kind": "edge",
+   "label": "The litigation was about the Kecksburg records specifically",
+   "sources": [
+    {
+     "date": "2007-03-27",
+     "name": "Memorandum Opinion, Kean v. NASA, 27 March 2007",
+     "url": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.106063/gov.uscourts.dcd.106063.45.0.pdf"
+    }
+   ],
+   "text": "The underlying FOIA request of 31 January 2003 sought records on Kecksburg, the 9 December 1965 incident, the Fragology Files 1962-1967, Richard M. Schulherr, Project Moon Dust and Cosmos 96.",
+   "tier": 1,
+   "type": "investigative"
+  },
+  "e-44b0b9ec96": {
+   "endpoints": [
+    {
+     "id": "stringfield-status-reports",
+     "label": "UFO Crash/Retrieval Status Reports I-VII (Stringfield, 1978-1994)"
+    },
+    {
+     "id": "del-rio-1950",
+     "label": "Del Rio / Mexican border claim, 1948 or 1950"
+    }
+   ],
+   "id": "e-44b0b9ec96",
+   "kind": "edge",
+   "label": "Status Report chronology indexes Del Rio as Item B-7",
+   "sources": [
+    {
+     "date": "2026-08-12",
+     "name": "Stringfield Status Reports 1-7 (scans)",
+     "url": "https://archive.org/details/stringfield_Retrievals_Report_6_inner_sanctum_LQ"
+    }
+   ],
+   "text": "The consolidated chronology in Status Report III lists Item B-7 of Status Report II as '1948 or 1950: Mexico, near Del Rio, Texas. Air Force officer observed crashed craft and one body.'",
+   "tier": 2,
+   "type": "research"
+  },
+  "e-4e68d81031": {
+   "endpoints": [
+    {
+     "id": "gerald-anderson",
+     "label": "Gerald Anderson"
+    },
+    {
+     "id": "cufos",
+     "label": "J. Allen Hynek Center for UFO Studies (CUFOS)"
+    }
+   ],
+   "id": "e-4e68d81031",
+   "kind": "edge",
+   "label": "CUFOS and FUFOR investigated and discredited their own witness",
+   "sources": [
+    {
+     "date": "1997-01-01",
+     "name": "The Roswell Report: Case Closed (1997)",
+     "url": "https://archive.org/details/AFD-101027-030"
+    }
+   ],
+   "text": "Mark Rodeghier of CUFOS and Fred Whiting of the Fund for UFO Research published 'The Plains of San Agustin Controversy' concluding against Anderson's reliability.",
+   "tier": 2,
+   "type": "investigative"
+  },
+  "e-52dfa0c314": {
+   "endpoints": [
+    {
+     "id": "kean-v-nasa",
+     "label": "Kean v. NASA, No. 1:03-cv-02509 (D.D.C.)"
+    },
+    {
+     "id": "project-moon-dust",
+     "label": "Project MOON DUST"
+    }
+   ],
+   "id": "e-52dfa0c314",
+   "kind": "edge",
+   "label": "Project Moon Dust records were an express object of the FOIA request",
+   "sources": [
+    {
+     "date": "2007-03-27",
+     "name": "Memorandum Opinion, Kean v. NASA, 27 March 2007",
+     "url": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.106063/gov.uscourts.dcd.106063.45.0.pdf"
+    }
+   ],
+   "text": "Moon Dust - the programme for recovery of foreign space and aerospace debris - is named in the request as reproduced in the court's Background section.",
+   "tier": 1,
+   "type": "custody"
+  },
+  "e-55162b6f94": {
+   "endpoints": [
+    {
+     "id": "stan-gordon",
+     "label": "Stan Gordon"
+    },
+    {
+     "id": "l-kecksburg",
+     "label": "Kecksburg, Westmoreland County, Pennsylvania"
+    }
+   ],
+   "id": "e-55162b6f94",
+   "kind": "edge",
+   "label": "Four decades of field investigation at the site",
+   "sources": [
+    {
+     "date": "2026-08-12",
+     "name": "Kecksburg UFO incident - Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Kecksburg_UFO_incident"
+    }
+   ],
+   "text": "Gordon, a Greensburg-area researcher, assembled the local witness pool at Kecksburg that supplied the 1990 and 2003 broadcasts and the factual premise of the Kean litigation.",
+   "tier": 2,
+   "type": "geographic"
+  },
+  "e-574a5fe3bd": {
+   "endpoints": [
+    {
+     "id": "leonard-stringfield",
+     "label": "Leonard H. Stringfield"
+    },
+    {
+     "id": "stringfield-status-reports",
+     "label": "UFO Crash/Retrieval Status Reports I-VII (Stringfield, 1978-1994)"
+    }
+   ],
+   "id": "e-574a5fe3bd",
+   "kind": "edge",
+   "label": "Authored the seven-part Status Report series",
+   "sources": [
+    {
+     "date": "2026-08-12",
+     "name": "Stringfield Status Reports 1-7 (scans)",
+     "url": "https://archive.org/details/stringfield_Retrievals_Report_6_inner_sanctum_LQ"
+    }
+   ],
+   "text": "Stringfield wrote and self-published or placed all seven Status Reports between July 1978 and February 1994. Title and copyright pages of the original printings attest authorship, dates and, for Report VI, the Cincinnati imprint.",
+   "tier": 1,
+   "type": "research"
+  },
+  "e-673a287189": {
+   "endpoints": [
+    {
+     "id": "fund-for-ufo-research",
+     "label": "Fund for UFO Research"
+    },
+    {
+     "id": "leonard-stringfield",
+     "label": "Leonard H. Stringfield"
+    }
+   ],
+   "id": "e-673a287189",
+   "kind": "edge",
+   "label": "FUFOR funded Stringfield's later Status Reports",
+   "sources": [
+    {
+     "date": "2026-08-12",
+     "name": "Stringfield Status Reports 1-7 (scans)",
+     "url": "https://archive.org/details/stringfield_Retrievals_Report_6_inner_sanctum_LQ"
+    }
+   ],
+   "text": "Stringfield names the Fund for UFO Research first in the Status Report VII acknowledgements, thanking it for past funding.",
+   "tier": 1,
+   "type": "funding"
+  },
+  "e-69b2c6399e": {
+   "endpoints": [
+    {
+     "id": "fund-for-ufo-research",
+     "label": "Fund for UFO Research"
+    },
+    {
+     "id": "gerald-anderson",
+     "label": "Gerald Anderson"
+    }
+   ],
+   "id": "e-69b2c6399e",
+   "kind": "edge",
+   "label": "FUFOR co-authored the report against its own first-hand witness",
+   "sources": [
+    {
+     "date": "1997-01-01",
+     "name": "The Roswell Report: Case Closed (1997)",
+     "url": "https://archive.org/details/AFD-101027-030"
+    }
+   ],
+   "text": "Fred Whiting for FUFOR with Mark Rodeghier for CUFOS. Cited at note 123 of the 1997 Air Force report.",
+   "tier": 2,
+   "type": "investigative"
+  },
+  "e-69c2259327": {
+   "endpoints": [
+    {
+     "id": "barney-barnett",
+     "label": "Grady L. 'Barney' Barnett"
+    },
+    {
+     "id": "plains-san-agustin-1947",
+     "label": "Plains of San Agustin claim, July 1947"
+    }
+   ],
+   "id": "e-69c2259327",
+   "kind": "edge",
+   "label": "Originating but never-interviewed eyewitness",
+   "sources": [
+    {
+     "date": "1997-01-01",
+     "name": "The Roswell Report: Case Closed (1997)",
+     "url": "https://archive.org/details/AFD-101027-030"
+    }
+   ],
+   "text": "Every account of Barnett's experience is second-hand, relayed by Vern Maltais and Alice Knight after his death in 1969. Reasoning: no first-hand statement in any medium exists.",
+   "tier": 3,
+   "type": "witness-chain"
+  },
+  "e-6a1cbaf42c": {
+   "endpoints": [
+    {
+     "id": "majic-eyes-only",
+     "label": "Majic Eyes Only: Earth's Encounters with Extraterrestrial Technology (2005)"
+    },
+    {
+     "id": "stringfield-status-reports",
+     "label": "UFO Crash/Retrieval Status Reports I-VII (Stringfield, 1978-1994)"
+    }
+   ],
+   "id": "e-6a1cbaf42c",
+   "kind": "edge",
+   "label": "The catalogue inherits Stringfield's case base",
+   "sources": [
+    {
+     "date": "2026-08-12",
+     "name": "Stringfield Status Reports 1-7 (scans)",
+     "url": "https://archive.org/details/stringfield_Retrievals_Report_6_inner_sanctum_LQ"
+    }
+   ],
+   "text": "A substantial share of 'Majic Eyes Only' entries trace back through Stringfield's anonymised Status Report cases, so the catalogue inherits their provenance limits. Reasoning: an index cannot be graded above its sources.",
+   "tier": 3,
+   "type": "research"
+  },
+  "e-8bfa7f8480": {
+   "endpoints": [
+    {
+     "id": "hottel-memo",
+     "label": "Guy Hottel memorandum, 22 March 1950"
+    },
+    {
+     "id": "aztec-1948",
+     "label": "Aztec, New Mexico claim, March 1948"
+    }
+   ],
+   "id": "e-8bfa7f8480",
+   "kind": "edge",
+   "label": "The Hottel memo predates and partly parallels the Aztec narrative",
+   "sources": [
+    {
+     "date": "2026-08-12",
+     "name": "FBI Records: The Vault (FOIA reading room) - Guy Hottel memorandum, 22 March 1950",
+     "url": "https://vault.fbi.gov/"
+    }
+   ],
+   "text": "Hottel's memo of 22 March 1950 describes three fifty-foot discs with three-foot occupants two months before Scully's book described one ninety-nine-foot disc with sixteen. The narratives are related but not identical, so the memo is better read as evidence that the recovery rumour was already in official circulation than as independent confirmation of Aztec.",
+   "tier": 3,
+   "type": "custody"
+  },
+  "e-8c895f37ef": {
+   "endpoints": [
+    {
+     "id": "gerald-anderson",
+     "label": "Gerald Anderson"
+    },
+    {
+     "id": "plains-san-agustin-1947",
+     "label": "Plains of San Agustin claim, July 1947"
+    }
+   ],
+   "id": "e-8c895f37ef",
+   "kind": "edge",
+   "label": "Sole claimed first-hand witness to the San Agustin site",
+   "sources": [
+    {
+     "date": "1997-01-01",
+     "name": "The Roswell Report: Case Closed (1997)",
+     "url": "https://archive.org/details/AFD-101027-030"
+    }
+   ],
+   "text": "Anderson came forward in 1990; the Air Force's 1997 report identifies him as the one first-hand testimony among the three supporting the claim.",
+   "tier": 2,
+   "type": "witness-chain"
+  },
+  "e-8dfef71261": {
+   "endpoints": [
+    {
+     "id": "leonard-stringfield",
+     "label": "Leonard H. Stringfield"
+    },
+    {
+     "id": "kevin-randle",
+     "label": "Kevin D. Randle"
+    }
+   ],
+   "id": "e-8dfef71261",
+   "kind": "edge",
+   "label": "Randle's case-by-case surveys audit Stringfield's corpus",
+   "sources": [
+    {
+     "date": "2026-08-12",
+     "name": "Stringfield Status Reports 1-7 (scans)",
+     "url": "https://archive.org/details/stringfield_Retrievals_Report_6_inner_sanctum_LQ"
+    }
+   ],
+   "text": "'A History of UFO Crashes' (1995) and 'Crash: When UFOs Fall From the Sky' (2010) revisit the Status Report cases with named sourcing where it exists and rejection where it does not. Reasoning: comparison of case lists.",
+   "tier": 3,
+   "type": "research"
+  },
+  "e-961ad70ed1": {
+   "endpoints": [
+    {
+     "id": "clear-intent-1984",
+     "label": "Clear Intent: The Government Coverup of the UFO Experience (1984)"
+    },
+    {
+     "id": "stringfield-status-reports",
+     "label": "UFO Crash/Retrieval Status Reports I-VII (Stringfield, 1978-1994)"
+    }
+   ],
+   "id": "e-961ad70ed1",
+   "kind": "edge",
+   "label": "Documentary method versus anonymous-testimony method",
+   "sources": [
+    {
+     "date": "1984-01-01",
+     "name": "Fawcett and Greenwood, 'Clear Intent' (1984)",
+     "url": "https://archive.org/details/clear-intent-the-government-coverup-of-the-ufo-experience"
+    },
+    {
+     "date": "2026-08-12",
+     "name": "Stringfield Status Reports 1-7 (scans)",
+     "url": "https://archive.org/details/stringfield_Retrievals_Report_6_inner_sanctum_LQ"
+    }
+   ],
+   "text": "The two bodies of work are contemporaneous and methodologically opposite: 'Clear Intent' sources every claim to a released government document, the Status Reports to protected anonymous informants. Reasoning: the difference in grade this board assigns them is entirely a difference in sourcing, not in subject matter.",
+   "tier": 3,
+   "type": "research"
+  },
+  "e-df70881355": {
+   "endpoints": [
+    {
+     "id": "leslie-kean",
+     "label": "Leslie Kean"
+    },
+    {
+     "id": "stan-gordon",
+     "label": "Stan Gordon"
+    }
+   ],
+   "id": "e-df70881355",
+   "kind": "edge",
+   "label": "Gordon's witness pool underwrote the evidentiary premise of the suit",
+   "sources": [
+    {
+     "date": "2007-03-27",
+     "name": "Memorandum Opinion, Kean v. NASA, 27 March 2007",
+     "url": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.106063/gov.uscourts.dcd.106063.45.0.pdf"
+    }
+   ],
+   "text": "The claim that something was recovered at Kecksburg, and therefore that records should exist, rests on the local testimony Gordon assembled. Reasoning: no document independently establishes a recovery, so the suit's factual premise is his witness base.",
+   "tier": 3,
+   "type": "witness-chain"
+  },
+  "e-e1a409137f": {
+   "endpoints": [
+    {
+     "id": "leslie-kean",
+     "label": "Leslie Kean"
+    },
+    {
+     "id": "kean-v-nasa",
+     "label": "Kean v. NASA, No. 1:03-cv-02509 (D.D.C.)"
+    }
+   ],
+   "id": "e-e1a409137f",
+   "kind": "edge",
+   "label": "Plaintiff who forced a court-supervised NASA records search",
+   "sources": [
+    {
+     "date": "2026-08-12",
+     "name": "Kean v. NASA docket, No. 1:03-cv-02509 (D.D.C.)",
+     "url": "https://www.courtlistener.com/docket/4707805/kean-v-national-aeronautics-and-space-administration/"
+    },
+    {
+     "date": "2007-03-27",
+     "name": "Memorandum Opinion, Kean v. NASA, 27 March 2007",
+     "url": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.106063/gov.uscourts.dcd.106063.45.0.pdf"
+    }
+   ],
+   "text": "Kean filed the complaint on 9 December 2003, obtained a 27 March 2007 finding that NASA had not shown its searches adequate, settled in part on 16 October 2007 and litigated status reports until dismissal on 24 August 2009.",
+   "tier": 1,
+   "type": "investigative"
+  },
+  "e-f056e360b1": {
+   "endpoints": [
+    {
+     "id": "cufos",
+     "label": "J. Allen Hynek Center for UFO Studies (CUFOS)"
+    },
+    {
+     "id": "leonard-stringfield",
+     "label": "Leonard H. Stringfield"
+    }
+   ],
+   "id": "e-f056e360b1",
+   "kind": "edge",
+   "label": "CUFOS cooperated with and advised the Status Report series",
+   "sources": [
+    {
+     "date": "2026-08-12",
+     "name": "Stringfield Status Reports 1-7 (scans)",
+     "url": "https://archive.org/details/stringfield_Retrievals_Report_6_inner_sanctum_LQ"
+    }
+   ],
+   "text": "Stringfield acknowledges CUFOS cooperation in Status Report VII and records consulting its scientific director on 6 November 1993 about the Roswell body count.",
+   "tier": 1,
+   "type": "research"
+  },
+  "e-f390ae24fb": {
+   "endpoints": [
+    {
+     "id": "leonard-stringfield",
+     "label": "Leonard H. Stringfield"
+    },
+    {
+     "id": "mufon",
+     "label": "Mutual UFO Network (MUFON)"
+    }
+   ],
+   "id": "e-f390ae24fb",
+   "kind": "edge",
+   "label": "MUFON symposium platform and publisher for Reports I and II",
+   "sources": [
+    {
+     "date": "2026-08-12",
+     "name": "Stringfield Status Reports 1-7 (scans)",
+     "url": "https://archive.org/details/stringfield_Retrievals_Report_6_inner_sanctum_LQ"
+    }
+   ],
+   "text": "Report I was delivered at the ninth annual MUFON Symposium in Dayton on 29 July 1978; Report II was published by MUFON in January 1980. Stringfield served as MUFON's director of public relations.",
+   "tier": 1,
+   "type": "institutional"
+  }
+ },
+ "claimed": [
+  {
+   "cite": [
+    "c-51f2cfa20a",
+    "c-e525a37b15",
+    "c-64b54d1f72"
+   ],
+   "text": "Scully's book alleged a craft 99 feet across with sixteen humanoid bodies, from Venus, working on magnetic principles, with every dimension divisible by nine, which the military had taken for secret research."
+  },
+  {
+   "cite": [
+    "c-28668eb7e1"
+   ],
+   "text": "In 1974 Robert Spencer Carr claimed that alien bodies recovered near Aztec were stored in Hangar 18 at Wright-Patterson, which drew Air Force denials."
+  },
+  {
+   "cite": [
+    "e-2c96872b66",
+    "c-969e454d3e"
+   ],
+   "text": "Stringfield revived Aztec in the late 1970s after two decades in which ufologists treated it as dead, arguing that the craft was one of many held by the US military; Status Report V lists it alongside Roswell, Kingman, El Yunque and Brown County. Later defences by Scott and Suzanne Ramsey and Frank Thayer followed, and the town's library ran an Aztec UFO Symposium from 1997 to 2011."
+  },
+  {
+   "cite": [
+    "c-557138e0b5",
+    "c-ac7e216e82",
+    "c-2b12ea1f7e",
+    "e-192e936ba5"
+   ],
+   "text": "The Kingman account reached print by a documented route: Fowler first investigated and reported it from a source using the pseudonym Fritz Werner, Stringfield cited it in Situation Red in 1977 and in Retrievals of the Third Kind in 1978, and in August 1980 he wrote to Fowler to put questions to Werner, whose written answers of 2 September 1980 are printed in Status Report III."
+  },
+  {
+   "cite": [
+    "c-f8c2b391ec",
+    "e-44b0b9ec96"
+   ],
+   "text": "The Del Rio claim exists as a single index line in Stringfield's chronology: \"1948 or 1950: Mexico, near Del Rio, Texas. Air Force officer observed crashed craft and one body.\""
+  },
+  {
+   "cite": [
+    "c-1f28b6904f",
+    "e-69c2259327",
+    "c-1ab48b8c5b"
+   ],
+   "text": "Barnett never gave an account himself: he died in 1969, and what he saw reaches the record only through Maltais and Knight on camera for the Fund's video, where Knight said \"I don't recall the date.\" Anderson, the one first-hand claimant, described the bodies with the words \"I thought they were plastic dolls\"."
+  },
+  {
+   "cite": [
+    "c-92df74e779",
+    "e-26d92b7e0b",
+    "e-55162b6f94"
+   ],
+   "text": "The Kecksburg witness pool was collected by one investigator, Stan Gordon, over four decades. Residents describe an acorn-shaped object about the size of a Volkswagen with hieroglyph-like writing, taken out by a military operation, and John Hays has said since 1990 that as a boy he saw a flatbed truck leave the site carrying it. The same pool supplied the 1990 and 2003 television programmes."
+  },
+  {
+   "cite": [
+    "c-3bf9c3b04b"
+   ],
+   "text": "A NASA public liaison officer, Steve McConnell, testified in the Kean litigation that two boxes of papers from the time of the incident were missing."
+  },
+  {
+   "cite": [
+    "c-0b8419cdf4",
+    "e-df70881355"
+   ],
+   "text": "On the board's reading, Kecksburg is a documented cordon around an undocumented object, and the suit's premise that records should exist rests on Gordon's witnesses, since no document independently establishes a recovery. Both are inferences."
+  }
+ ],
+ "contested": [
+  {
+   "cite": [
+    "c-3711069efb",
+    "c-09e8f0a4be",
+    "e-8bfa7f8480"
+   ],
+   "text": "The FBI's own position is that the Hottel memo does not prove the existence of UFOs; some believe it repeats a hoax circulating at the time, though the Bureau's files cannot confirm that. The board reads it as a dated marker that the recovery rumour had reached official channels before Scully's book appeared, not as confirmation of Aztec: its three fifty-foot discs are not Scully's one 99-foot disc."
+  },
+  {
+   "cite": [
+    "c-bef1709c4f",
+    "c-e05f71719f",
+    "c-28668eb7e1"
+   ],
+   "text": "The board treats Aztec as a contamination event rather than a case: a documented fraud supplied specific details, heat-proof material and bodies of 36 to 42 inches at about 40 pounds, that later reappear in supposedly first-hand accounts of other sites, and later Roswell accounts carried the Aztec story. The first part is the board's inference."
+  },
+  {
+   "cite": [
+    "c-cfdb9f052a",
+    "c-846b464f8d"
+   ],
+   "text": "Asked in 1980 for facial detail, Kingman's source wrote: \"Since it's been 27 years, details like this are pretty foggy and I may even be influenced by other descriptions I've seen or heard in the interim.\" The board treats the case as a research target rather than evidence for that reason."
+  },
+  {
+   "cite": [
+    "c-88c21893dc",
+    "c-14b6ecadf3",
+    "e-6a1cbaf42c",
+    "c-395eb87a30"
+   ],
+   "text": "Stringfield himself wrote in Status Report IV that public research does not possess proof, and that affidavits, leaked documents and photographs do not constitute it. The board adds that his anonymised case coding, which protected his sources, makes the corpus unauditable, and that indexes built on it, such as the Majic Eyes Only catalogue, inherit the same limits."
+  },
+  {
+   "cite": [
+    "e-961ad70ed1",
+    "e-8dfef71261"
+   ],
+   "text": "The board contrasts the Status Reports with Clear Intent, their contemporary, which sourced every claim to a released government document, and reads Kevin Randle's later case-by-case surveys as an audit that kept named sourcing and rejected the rest. Both are the board's comparisons."
+  },
+  {
+   "cite": [
+    "c-d3ce81eb80",
+    "c-fc01ecff3c",
+    "e-4e68d81031",
+    "e-69b2c6399e",
+    "c-58d903696b"
+   ],
+   "text": "The case against San Agustin came from inside the field: Mark Rodeghier of CUFOS and Fred Whiting of the Fund for UFO Research published The Plains of San Agustin Controversy in 1992, concluding against Anderson. The board's own Tier 3 assessment also asserts, without a cited record, that he submitted a forged document."
+  },
+  {
+   "cite": [
+    "e-1b4c97fb5e",
+    "c-8bb99172df",
+    "c-1ab48b8c5b"
+   ],
+   "text": "The Air Force's 1997 report proposes that Maltais and Knight confused the Plains with San Agustin Pass or Peak, beside White Sands and the Jornada Test Range, where numerous anthropomorphic dummy flights ended, and it read Anderson's account of the recovery as consistent with dummy launch and recovery."
+  },
+  {
+   "cite": [
+    "c-206b95e21a"
+   ],
+   "text": "Stringfield's own last report records a source placing the 1947 event just north of Roswell, not on the Plains of San Agustin."
+  },
+  {
+   "cite": [
+    "c-1c31d7a369",
+    "c-8e2dbcf506"
+   ],
+   "text": "NASA's records disagree with each other on Kecksburg: its 2005 statement attributed the fragments to a Soviet satellite, while its published entry on Cosmos 96 says the fireball's path was probably too steep for an orbital re-entry, that Air Force tracking shows Cosmos 96's orbit decaying earlier than 21:43 UT on 9 December 1965, and that other analyses definitively rule it out."
+  },
+  {
+   "cite": [
+    "c-eb0098587c"
+   ],
+   "text": "Del Rio cannot be graded above Tier 3 on the board's own reckoning, since its index entry offers two years and an ambiguous country and no named source has told it consistently."
+  }
+ ],
  "essays": [],
  "focusEra": "0",
  "id": "crash-claims",
  "kind": "allegation",
- "lead": null,
- "members": [],
+ "lead": {
+  "cite": [
+   "c-f0d9eb7b5e",
+   "c-2ed9038cfb",
+   "c-2226a2a1be",
+   "e-574a5fe3bd"
+  ],
+  "text": "Apart from Roswell, the early crash-retrieval stories are allegations: they begin with Frank Scully's account of a disc recovered near Aztec, New Mexico, whose sources were convicted of fraud in 1953, and they were gathered into a literature by Leonard Stringfield's Status Reports from July 1978 to February 1994."
+ },
+ "members": [
+  {
+   "cls": "event",
+   "id": "aztec-1948",
+   "label": "Aztec, New Mexico claim, March 1948",
+   "role": "subject"
+  },
+  {
+   "cls": "event",
+   "id": "plains-san-agustin-1947",
+   "label": "Plains of San Agustin claim, July 1947",
+   "role": "subject"
+  },
+  {
+   "cls": "event",
+   "id": "kingman-1953",
+   "label": "Kingman, Arizona claim, 1953",
+   "role": "subject"
+  },
+  {
+   "cls": "event",
+   "id": "del-rio-1950",
+   "label": "Del Rio / Mexican border claim, 1948 or 1950",
+   "role": "subject"
+  },
+  {
+   "cls": "event",
+   "id": "kecksburg-1965",
+   "label": "Kecksburg incident, 9 December 1965",
+   "role": "subject"
+  },
+  {
+   "cls": "location",
+   "id": "l-aztec",
+   "label": "Aztec, New Mexico",
+   "role": "place"
+  },
+  {
+   "cls": "location",
+   "id": "l-kecksburg",
+   "label": "Kecksburg, Westmoreland County, Pennsylvania",
+   "role": "place"
+  },
+  {
+   "cls": "person",
+   "id": "frank-scully",
+   "label": "Frank Scully",
+   "role": "journalist"
+  },
+  {
+   "cls": "document",
+   "id": "behind-the-flying-saucers",
+   "label": "Behind the Flying Saucers (Scully, 1950)",
+   "role": "document"
+  },
+  {
+   "cls": "document",
+   "id": "hottel-memo",
+   "label": "Guy Hottel memorandum, 22 March 1950",
+   "role": "document"
+  },
+  {
+   "cls": "person",
+   "id": "leonard-stringfield",
+   "label": "Leonard H. Stringfield",
+   "role": "investigator"
+  },
+  {
+   "cls": "document",
+   "id": "stringfield-status-reports",
+   "label": "UFO Crash/Retrieval Status Reports I-VII (Stringfield, 1978-1994)",
+   "role": "document"
+  },
+  {
+   "cls": "institution",
+   "id": "mufon",
+   "label": "Mutual UFO Network (MUFON)",
+   "role": "institution"
+  },
+  {
+   "cls": "institution",
+   "id": "cufos",
+   "label": "J. Allen Hynek Center for UFO Studies (CUFOS)",
+   "role": "institution"
+  },
+  {
+   "cls": "institution",
+   "id": "fund-for-ufo-research",
+   "label": "Fund for UFO Research",
+   "role": "institution"
+  },
+  {
+   "cls": "person",
+   "id": "barney-barnett",
+   "label": "Grady L. 'Barney' Barnett",
+   "role": "witness"
+  },
+  {
+   "cls": "person",
+   "id": "gerald-anderson",
+   "label": "Gerald Anderson",
+   "role": "witness"
+  },
+  {
+   "cls": "document",
+   "id": "roswell-report-case-closed",
+   "label": "The Roswell Report: Case Closed (1997)",
+   "role": "document"
+  },
+  {
+   "cls": "person",
+   "id": "stan-gordon",
+   "label": "Stan Gordon",
+   "role": "investigator"
+  },
+  {
+   "cls": "event",
+   "id": "kean-v-nasa",
+   "label": "Kean v. NASA, No. 1:03-cv-02509 (D.D.C.)",
+   "role": "event"
+  },
+  {
+   "cls": "person",
+   "id": "leslie-kean",
+   "label": "Leslie Kean",
+   "role": "journalist"
+  },
+  {
+   "cls": "program",
+   "id": "project-moon-dust",
+   "label": "Project MOON DUST",
+   "role": "programme"
+  },
+  {
+   "cls": "document",
+   "id": "majic-eyes-only",
+   "label": "Majic Eyes Only: Earth's Encounters with Extraterrestrial Technology (2005)",
+   "role": "document"
+  },
+  {
+   "cls": "document",
+   "id": "clear-intent-1984",
+   "label": "Clear Intent: The Government Coverup of the UFO Experience (1984)",
+   "role": "document"
+  },
+  {
+   "cls": "person",
+   "id": "kevin-randle",
+   "label": "Kevin D. Randle",
+   "role": "researcher"
+  }
+ ],
  "notes": "The crash stories other than Roswell, with Stringfield's status reports as the collector. Canon cluster 8 (Newton, GeBauer, Steinman, Good) extends it.",
- "questions": [],
- "record": [],
- "related": [],
+ "questions": [
+  "What sentence was actually imposed on Newton and GeBauer in 1953? The court record has not been found, and the newspaper reports of probation and restitution are unchecked.",
+  "What do Scully's 1949 Variety columns say in the original, and did he know his sources were confidence men?",
+  "Were any of Stringfield's anonymised informants ever identified by name, and does anyone know who Fritz Werner was?",
+  "Does any Pennsylvania State Police or Army Corps of Engineers record of the December 1965 cordon exist, and how does it square with the astronomers who assessed the fireball as a meteor ending over Lake Erie?",
+  "What exactly did the Rodeghier and Whiting report find, read in the original rather than as the Air Force cites it?",
+  "Does any diary or letter of Barney Barnett's from the time survive?"
+ ],
+ "record": [
+  {
+   "cite": [
+    "c-17700a970f"
+   ],
+   "text": "A one-page FBI memorandum of 22 March 1950 by Guy Hottel, special agent in charge of the Washington Field Office, relays an account of three circular craft about fifty feet across recovered in New Mexico, each with three humanoid bodies three feet tall in metallic cloth, the recovery attributed to high-powered radar interference. It ends: \"No further evaluation was attempted.\""
+  },
+  {
+   "cite": [
+    "c-f1f3c201e4",
+    "c-3711069efb"
+   ],
+   "text": "The FBI describes the memo as a second- or third-hand claim it never investigated, and it became the most-viewed document on the Bureau's Vault reading room after that opened in April 2011."
+  },
+  {
+   "cite": [
+    "c-cc44026d90",
+    "c-60f630e1bb"
+   ],
+   "text": "The Denver Public Library's account of Newton's lecture records his claim that the beings were probably from Venus, between 38 and 42 inches tall, in cloth that could not be torn, and driven by a magnetic propulsion that allowed travel at twice the speed of light."
+  },
+  {
+   "cite": [
+    "c-5c10ac927e",
+    "c-8f1f3928dd",
+    "c-6a8ce5f56a"
+   ],
+   "text": "Newton and GeBauer were charged with swindling Herman A. Flader of $50,000 with a magnetic doodlebug pitched as built on alien technology. The devices were found to be made of surplus military radio parts costing roughly $3.50 each, and the mystery metal Newton supplied to the reporter J. P. Cahn was ordinary aluminium."
+  },
+  {
+   "cite": [
+    "c-fd7620a566",
+    "c-2ed9038cfb",
+    "c-2226a2a1be",
+    "c-473aefc7d2"
+   ],
+   "text": "Cahn published the exposure in True in September 1952 and August 1956. The pair were convicted of fraud in 1953 and also faced federal charges, and in 1969 Newton pleaded guilty to further fraud over the salting of the Buckhorn Mine in Silver City, New Mexico."
+  },
+  {
+   "cite": [
+    "c-599a28123c",
+    "e-f390ae24fb",
+    "e-574a5fe3bd"
+   ],
+   "text": "Stringfield delivered the first Status Report at MUFON's ninth annual symposium in Dayton on 29 July 1978, MUFON published the second in January 1980, and the title and copyright pages attest all seven, to February 1994, as his."
+  },
+  {
+   "cite": [
+    "c-9adf323e4b",
+    "e-673a287189",
+    "c-392def65f6",
+    "e-f056e360b1"
+   ],
+   "text": "Status Report VII of February 1994 acknowledges past funding from the Fund for UFO Research and the cooperation of the J. Allen Hynek Center for UFO Studies, whose scientific director Stringfield consulted on 6 November 1993 about the Roswell body count."
+  },
+  {
+   "cite": [
+    "c-d25b37ea61",
+    "c-04f04db444"
+   ],
+   "text": "The Greensburg Tribune-Review reported in December 1965 that the Kecksburg landing area was immediately sealed off on the order of US Army and State Police officials and roped off pending Army engineers and possibly civilian scientists; a later edition ran the headline Searchers Fail to Find Object."
+  },
+  {
+   "cite": [
+    "c-1c31d7a369"
+   ],
+   "text": "NASA stated in December 2005 that experts had examined metallic fragments from the area and found them to be from a Soviet satellite, but that the records of those findings were lost in the 1980s."
+  },
+  {
+   "cite": [
+    "e-3ef2e1d29b",
+    "e-52dfa0c314",
+    "c-6d85344c46",
+    "c-27b1ead4c1",
+    "c-f547c4232a",
+    "e-e1a409137f"
+   ],
+   "text": "Leslie Kean's FOIA request sought records on Kecksburg, Cosmos 96 and Project Moon Dust. Her suit, Kean v. NASA, was filed on 9 December 2003; on 27 March 2007 the court found that NASA had not shown its searches adequate and ordered a joint proposal for search procedures, a partial settlement followed in October 2007, and the case was dismissed on 24 August 2009 on NASA's representation that it had met its obligations."
+  },
+  {
+   "cite": [
+    "c-b868065c8f",
+    "c-7d7bf7e9f9",
+    "c-6420135655"
+   ],
+   "text": "The Air Force's 1997 report prints Anderson's interview in full at Appendix C, from unedited footage made for the Fund for UFO Research video Recollections of Roswell Part II, and drew the Maltais and Knight statements it analysed from the same footage."
+  }
+ ],
+ "related": [
+  "roswell-1947",
+  "pre-roswell-claims",
+  "testimony-provenance",
+  "civilian-groups",
+  "foia-litigation",
+  "official-explanations",
+  "mj12-documents",
+  "wright-patterson-ftd",
+  "specimens"
+ ],
  "section": "early-record",
  "span": {
   "from": "1947",
   "to": "1978"
  },
- "status": "draft",
- "summary": [],
+ "status": "verified",
+ "summary": [
+  {
+   "cite": [
+    "c-f0d9eb7b5e",
+    "c-60f630e1bb",
+    "c-dc3085bb11"
+   ],
+   "text": "Aztec comes first. Scully's Variety columns of 1949 and his 1950 book placed a crash in March 1948 in Hart Canyon, twelve miles northeast of Aztec, with a 99-foot craft and sixteen bodies. His sources were Silas M. Newton, who lectured on it at Denver University in March 1950 as Mr. X, and Leonard GeBauer, the likely Dr. Gee of the book."
+  },
+  {
+   "cite": [
+    "c-e9b7e5fac1",
+    "e-8c895f37ef",
+    "e-69c2259327"
+   ],
+   "text": "The Plains of San Agustin claim rests, by the Air Force's count, on three testimonies: two second-hand, from Vern Maltais and Alice Knight relaying what Grady L. Barnett told them, and one first-hand, from Gerald Anderson, who came forward in 1990."
+  },
+  {
+   "cite": [
+    "c-557138e0b5",
+    "c-ac7e216e82",
+    "c-f8c2b391ec"
+   ],
+   "text": "Kingman, Arizona, 1953 was first investigated and reported by Raymond Fowler from a pseudonymous source and was carried into the retrieval literature by Stringfield; the Del Rio claim of 1948 or 1950 exists only as a one-line entry in Stringfield's chronology."
+  },
+  {
+   "cite": [
+    "c-04f04db444",
+    "e-3ef2e1d29b"
+   ],
+   "text": "Kecksburg, Pennsylvania, in December 1965 has a contemporary press report of an official cordon, and it led to federal litigation over the records."
+  }
+ ],
  "title": "Other crash-retrieval claims, 1947-1965: Aztec, San Agustin, Kingman, Kecksburg"
 }

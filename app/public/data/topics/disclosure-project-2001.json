@@ -11,25 +11,2010 @@
   "daniel-sheehan"
  ],
  "appendixT": "disclosure-project-2001",
- "cites": {},
- "claimed": [],
- "contested": [],
+ "cites": {
+  "c-02c72aab61": {
+   "id": "c-02c72aab61",
+   "kind": "claim",
+   "node": "clifford-stone",
+   "nodeLabel": "Clifford E. Stone",
+   "source": {
+    "domain": "kevinrandle.blogspot.com",
+    "text": "Kevin D. Randle, 'Cliff Stone Has Died', A Different Perspective, https://kevinrandle.blogspot.com/2021/02/cliff-stone-has-died.html , opened 2026-09-19",
+    "url": "https://kevinrandle.blogspot.com/2021/02/cliff-stone-has-died.html"
+   },
+   "text": "INDEPENDENT SECOND SOURCE WITH A DIFFERENT METHOD. Kevin D. Randle, announcing Stone's death on 10 February 2021 in Roswell, New Mexico, records that Stone 'claimed four tours, though his military records showed that he had been overseas for 37 months and not all of it in Vietnam', and of the claim that he slipped out at night to hunt the enemy, 'There is nothing in the record to support that claim.' Randle states he met Stone in February 1989 and 'visited him at his home many times'.",
+   "tier": 2
+  },
+  "c-02fb486473": {
+   "id": "c-02fb486473",
+   "kind": "claim",
+   "node": "daniel-sheehan",
+   "nodeLabel": "Daniel P. Sheehan",
+   "source": {
+    "domain": "abcnews.com",
+    "text": "ABC News, 'Group Calls for Disclosure of UFO Info', 9 May 2001, 2:35 PM, https://abcnews.com/Technology/story?id=98572&page=1 , opened 2026-09-19",
+    "url": "https://abcnews.com/Technology/story?id=98572&page=1"
+   },
+   "text": "ABC News reports his account, given at that event, of being shown UFO photographs bearing 'alien writing symbols' in the National Archives during the Carter administration, which he traced onto a legal pad. TIER 2: this is a named person on the record describing his own action, with no document produced.",
+   "tier": 2
+  },
+  "c-08814453b7": {
+   "id": "c-08814453b7",
+   "kind": "claim",
+   "node": "john-callahan",
+   "nodeLabel": "John Callahan",
+   "source": {
+    "domain": "www.theblackvault.com",
+    "text": "The Black Vault case file, 'The Vault Files: 1986 Alaska JAL Flight 1628', John Greenewald Jr., https://www.theblackvault.com/casefiles/the-vault-files-1986-alaska-jal-flight-1628/ , opened 2026-09-19",
+    "url": "https://www.theblackvault.com/casefiles/the-vault-files-1986-alaska-jal-flight-1628/"
+   },
+   "text": "THE COUNTERWEIGHT THAT MAKES THIS NODE WORTH BUILDING. The case he describes has its own federal record with no connection to the Disclosure Project: over 1,500 pages located at the National Archives in Record Group 237, Records of the Federal Aviation Administration, local identifier 1203, archival identifier 733667, after the FAA had told the requester in a letter of 27 June 2001 that 'all documents pertaining to this UFO sighting will be destroyed in 30 days from the date of this letter' and had repeated in 2009 that the records were destroyed.",
+   "tier": 1
+  },
+  "c-1528ba0a67": {
+   "id": "c-1528ba0a67",
+   "kind": "claim",
+   "node": "disclosure-project-witness-set",
+   "nodeLabel": "Disclosure Project witness cohort (68 testimonies, 2000 to 2001)",
+   "source": {
+    "domain": "archive.org",
+    "text": "Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt , opened 2026-09-19",
+    "url": "https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt"
+   },
+   "text": "KARL WOLFE. Printed at section 3.8.4 under 'Testimony of Sergeant Karl Wolfe, US Air Force / September 2000'. Its editorial header: 'Karl Wolfe was in the Air Force for 4 1/2 years beginning in January 1964. He had a top secret crypto clearance and worked with the tactical air command at Langley AFB in Virginia. While working at a NSA facility he was shown photographs taken by the Lunar Orbiter of the moon that showed detailed artificial structures. These photos were taken prior to the Apollo landing in 1969.' In his own words: 'So I was asked to go over to this facility on Langley Air Force Base, where the NSA was bringing in the information from the lunar orbiter.'",
+   "tier": 1
+  },
+  "c-16514c0a3f": {
+   "id": "c-16514c0a3f",
+   "kind": "claim",
+   "node": "cseti",
+   "nodeLabel": "CSETI / The Disclosure Project",
+   "source": {
+    "domain": null,
+    "text": "Wikipedia, 'Steven M. Greer', retrieved 12 August 2026 — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+    "url": null
+   },
+   "text": "Greer founded CSETI in 1990 and the Disclosure Project in 1993; the Disclosure Project seeks amnesty for government whistleblowers willing to violate security oaths.",
+   "tier": 2
+  },
+  "c-17de04ef24": {
+   "id": "c-17de04ef24",
+   "kind": "claim",
+   "node": "clifford-stone",
+   "nodeLabel": "Clifford E. Stone",
+   "source": {
+    "domain": "cdn.centerforinquiry.org",
+    "text": "Philip J. Klass, Skeptics UFO Newsletter (SUN) #68, Summer 2001, 'Dr. Greer's Disclosure Conference Reveals His New Strategy'; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2022/09/26195512/SUN-68-Summer-2001.pdf , opened 2026-09-19",
+    "url": "https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2022/09/26195512/SUN-68-Summer-2001.pdf"
+   },
+   "text": "Klass's own summary of the record: 'THE ARMY REPORT DID NOT TRY TO EXPLAIN STONE'S UFO INTERESTS ON THE BASIS OF HIS ALLEGEDLY HAVING BEEN A MEMBER OF AN ARMY UFO RECOVERY TEAM. NOR DOES HIS MILITARY RECORD OFFER ANY EVIDENCE TO SUPPORT SUCH CLAIMS.'",
+   "tier": 2
+  },
+  "c-1f00f710e6": {
+   "id": "c-1f00f710e6",
+   "kind": "claim",
+   "node": "disclosure-project-briefing-2001",
+   "nodeLabel": "Disclosure Project Briefing Document, April 2001",
+   "source": {
+    "domain": "archive.org",
+    "text": "Disclosure Project Briefing Document, section 3.8.5, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt , 2000-12",
+    "url": "https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt"
+   },
+   "text": "The document is the origin in print of the craft's two names: 'Well, this craft was what they called the Alien Reproduction Vehicle; it was also nicknamed the Flux Liner.'",
+   "tier": 2
+  },
+  "c-219874836b": {
+   "id": "c-219874836b",
+   "kind": "claim",
+   "node": "michael-herrera",
+   "nodeLabel": "Michael Herrera",
+   "source": {
+    "domain": "documents2.theblackvault.com",
+    "text": "AARO Historical Record Report Volume I, p. 29, https://documents2.theblackvault.com/documents/dod/AARO_Historical_Record_Report_Volume_1_2024.pdf , 2024-02",
+    "url": "https://documents2.theblackvault.com/documents/dod/AARO_Historical_Record_Report_Volume_1_2024.pdf"
+   },
+   "text": "AARO's 'Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP), Volume I', February 2024, carries at page 29, in Section V 'Assessment of Interviewee Claims of USG Involvement in Hidden UAP Programs', this sentence: 'An interviewee who is a former U.S. service member said that in 2009, while participating in a humanitarian and security mission in a foreign country, he encountered U.S. Special Forces loading containers onto a large extraterrestrial spacecraft.' The sentence is AARO's summary of an interview, not a quotation of the interviewee, and it names nobody.",
+   "tier": 1
+  },
+  "c-25184dd84c": {
+   "id": "c-25184dd84c",
+   "kind": "claim",
+   "node": "steven-greer",
+   "nodeLabel": "Steven M. Greer",
+   "source": {
+    "domain": "archive.org",
+    "text": "Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt , opened 2026-09-19",
+    "url": "https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt"
+   },
+   "text": "He is named on the title page of the Disclosure Project Briefing Document of April 2001 as its author and compiler, jointly with Theodore C. Loder III, Ph.D.: 'Written and Compiled by: Steven M. Greer, M.D., Director and Theodore C. Loder III, Ph.D.' The document gives his address as 'The Disclosure Project, PO Box 265, Crozet, VA 22932'.",
+   "tier": 1
+  },
+  "c-252174150d": {
+   "id": "c-252174150d",
+   "kind": "claim",
+   "node": "disclosure-project-witness-set",
+   "nodeLabel": "Disclosure Project witness cohort (68 testimonies, 2000 to 2001)",
+   "source": {
+    "domain": "archive.org",
+    "text": "Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt , opened 2026-09-19",
+    "url": "https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt"
+   },
+   "text": "STATED INFERENCE ON PHILLIPS. NOTHING INDEPENDENT WAS FOUND: no personnel record, no Lockheed document, no CIA record, no USAF record, no publication by him, no contemporaneous report of the Angels Peak sighting, and no trace of the named corroborating witness. The name is extremely common. He is held in this set rather than given a node precisely so that an unverified claimant does not acquire edges into Tier A contractor nodes.",
+   "tier": 3
+  },
+  "c-28e57bb7b1": {
+   "id": "c-28e57bb7b1",
+   "kind": "claim",
+   "node": "disclosure-project-witness-set",
+   "nodeLabel": "Disclosure Project witness cohort (68 testimonies, 2000 to 2001)",
+   "source": {
+    "domain": "archive.org",
+    "text": "Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt , opened 2026-09-19",
+    "url": "https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt"
+   },
+   "text": "STATED LIMITATION, AND THE MOST USEFUL THING THIS SET NODE SAYS. THIS BOARD HAS CHECKED EIGHT OF THE SIXTY-EIGHT. Fifty-seven of the named individuals have not been checked by anyone here for an independent record of any kind. The existence of this node is not a finding about its members.",
+   "tier": 3
+  },
+  "c-2a308907d7": {
+   "id": "c-2a308907d7",
+   "kind": "claim",
+   "node": "rendlesham-1980",
+   "nodeLabel": "Rendlesham Forest Incident, RAF Woodbridge/Bentwaters",
+   "source": {
+    "domain": "cdn.centerforinquiry.org",
+    "text": "Philip J. Klass, Skeptics UFO Newsletter (SUN) #68, Summer 2001, 'Dr. Greer's Disclosure Conference Reveals His New Strategy'; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2022/09/26195512/SUN-68-Summer-2001.pdf , opened 2026-09-19",
+    "url": "https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2022/09/26195512/SUN-68-Summer-2001.pdf"
+   },
+   "text": "A SECOND AND SEPARATE CLAIM ON THIS EVENT COMES FROM CLIFFORD STONE, AND IT FAILS ON AN ACT OF HIS OWN. Stone told the Disclosure Project that an Army team took him to Bentwaters in late December 1980. Klass records that on 23 December 1983 Stone filed a FOIA request with the USAF for information on the same incident, 'used his home address and did not show that he was an Army sergeant'. Klass also notes the incident 'was not reported to higher officials until roughly two weeks after Stone says his team arrived'.",
+   "tier": 2
+  },
+  "c-33f4f4b762": {
+   "id": "c-33f4f4b762",
+   "kind": "claim",
+   "node": "larry-warren",
+   "nodeLabel": "Larry Warren",
+   "source": {
+    "domain": "archive.org",
+    "text": "Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt , opened 2026-09-19 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+    "url": "https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt"
+   },
+   "text": "In his own printed words: 'In December of 1980, I was assigned to the 81st Tactical Fighter Wing in Suffolk, East Anglia, at the NATO Air Base Bentwaters, which is next to Woodbridge. I was a security specialist and worked with securing the nuclear arsenal we secretly housed there at that time. On December 11th, 1980, my security clearance notice, PRP, came through and I was approved. My clearance was a secret clearance at that time.'",
+   "tier": 2
+  },
+  "c-34e28a9688": {
+   "id": "c-34e28a9688",
+   "kind": "claim",
+   "node": "michael-herrera",
+   "nodeLabel": "Michael Herrera",
+   "source": {
+    "domain": "docs.house.gov",
+    "text": "https://docs.house.gov/Committee/Calendar/ByEvent.aspx?EventID=116282 , https://docs.house.gov/Committee/Calendar/ByEvent.aspx?EventId=117722 , https://oversight.house.gov/hearing/restoring-public-trust-through-uap-transparency-and-whistleblower-protection/ , all opened 2026-09-18",
+    "url": "https://docs.house.gov/Committee/Calendar/ByEvent.aspx?EventID=116282"
+   },
+   "text": "He is on no congressional witness list. The committee-published witness lists for 26 July 2023 (event 116282), 13 November 2024 (event 117722) and 9 September 2025 name him nowhere, and the printed records of all three hearings contain his name exactly once in total, in the Burlison colloquy.",
+   "tier": 1
+  },
+  "c-38a2d16a4b": {
+   "id": "c-38a2d16a4b",
+   "kind": "claim",
+   "node": "national-press-club-2001",
+   "nodeLabel": "Disclosure Project press conference, National Press Club, 9 May 2001",
+   "source": {
+    "domain": "abcnews.com",
+    "text": "ABC News, 'Group Calls for Disclosure of UFO Info', 9 May 2001, 2:35 PM, https://abcnews.com/Technology/story?id=98572&page=1 , opened 2026-09-19",
+    "url": "https://abcnews.com/Technology/story?id=98572&page=1"
+   },
+   "text": "ABC News, reporting on the day under the headline 'Group Calls for Disclosure of UFO Info', 9 May 2001: Steven Greer 'organized the program at the National Press Club in Washington', at which about 20 former government workers, many of them military and security officials, came forward.",
+   "tier": 1
+  },
+  "c-3cafffd09c": {
+   "id": "c-3cafffd09c",
+   "kind": "claim",
+   "node": "disclosure-project",
+   "nodeLabel": "The Disclosure Project",
+   "source": {
+    "domain": "abcnews.com",
+    "text": "ABC News, 'Group Calls for Disclosure of UFO Info', 9 May 2001, 2:35 PM, https://abcnews.com/Technology/story?id=98572&page=1 , opened 2026-09-19",
+    "url": "https://abcnews.com/Technology/story?id=98572&page=1"
+   },
+   "text": "It held a press conference at the National Press Club in Washington DC on 9 May 2001, confirmed the same day by ABC News and within weeks by a hostile contemporaneous newsletter.",
+   "tier": 1
+  },
+  "c-3fb5052fea": {
+   "id": "c-3fb5052fea",
+   "kind": "claim",
+   "node": "clifford-stone",
+   "nodeLabel": "Clifford E. Stone",
+   "source": {
+    "domain": "archive.org",
+    "text": "Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt , opened 2026-09-19 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+    "url": "https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt"
+   },
+   "text": "In the same testimony he describes his own training in his own words: 'very early on in my career they sent me to NBC School at Fort McCullen [sp], Alabama. It's a three-week school. It's for NBC personnel, NBC meaning Nuclear, Biological, and Chemical', and elsewhere places himself in 'the 96th Civil Affairs Company. I was the NBC Non-Commissioner [sic]'.",
+   "tier": 2
+  },
+  "c-406af5d95f": {
+   "id": "c-406af5d95f",
+   "kind": "claim",
+   "node": "disclosure-project",
+   "nodeLabel": "The Disclosure Project",
+   "source": {
+    "domain": null,
+    "text": "Disclosure Project National Press Club event, 9 May 2001, and contemporaneous international press coverage",
+    "url": null
+   },
+   "text": "On 9 May 2001 the Disclosure Project presented roughly twenty former military and government witnesses at the National Press Club and called for congressional hearings with subpoena power and amnesty for witnesses.",
+   "tier": 2
+  },
+  "c-40d19f4b35": {
+   "id": "c-40d19f4b35",
+   "kind": "claim",
+   "node": "disclosure-project-witness-set",
+   "nodeLabel": "Disclosure Project witness cohort (68 testimonies, 2000 to 2001)",
+   "source": {
+    "domain": "archive.org",
+    "text": "Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt , opened 2026-09-19",
+    "url": "https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt"
+   },
+   "text": "STATED INFERENCE ON HARE. By her own account in the same testimony she kept no copy of the image, does not name the technician, and gives no date beyond 'during the 70's, I don't know the exact date'. Her testimony also relays at second and third hand an unnamed man who was 'in quarantine with the astronauts' and an unnamed security guard made to burn photographs. THOSE ARE RELAYED CLAIMS AND MUST NEVER BE WRITTEN ON THIS BOARD AS ANYTHING ELSE.",
+   "tier": 3
+  },
+  "c-46339040b1": {
+   "id": "c-46339040b1",
+   "kind": "claim",
+   "node": "clifford-stone",
+   "nodeLabel": "Clifford E. Stone",
+   "source": {
+    "domain": "kevinrandle.blogspot.com",
+    "text": "Kevin D. Randle, 'Cliff Stone Has Died', A Different Perspective, https://kevinrandle.blogspot.com/2021/02/cliff-stone-has-died.html , opened 2026-09-19",
+    "url": "https://kevinrandle.blogspot.com/2021/02/cliff-stone-has-died.html"
+   },
+   "text": "STATED INFERENCE. Klass and Randle are not two agents sharing a method. One worked from a records request to the National Personnel Records Center; the other from thirty years of personal acquaintance and is a retired Air Force officer who argues for the reality of other cases. The corollary in CLAUDE.md section 2 about two agents agreeing under a shared method does not apply to this pair.",
+   "tier": 3
+  },
+  "c-470fbcf707": {
+   "id": "c-470fbcf707",
+   "kind": "claim",
+   "node": "john-podesta",
+   "nodeLabel": "John D. Podesta",
+   "source": {
+    "domain": null,
+    "text": "John Podesta, remarks at the National Press Club, Washington DC, 22 Oct 2002",
+    "url": null
+   },
+   "text": "Podesta publicly called for the declassification of US government UFO records at a National Press Club event on 22 October 2002 organised by the Coalition for Freedom of Information.",
+   "tier": 2
+  },
+  "c-49bd4c0e50": {
+   "id": "c-49bd4c0e50",
+   "kind": "claim",
+   "node": "disclosure-project-briefing-2001",
+   "nodeLabel": "Disclosure Project Briefing Document, April 2001",
+   "source": {
+    "domain": "archive.org",
+    "text": "Disclosure Project Briefing Document, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt , 2001-04",
+    "url": "https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt"
+   },
+   "text": "The compiler cross-references his own two witnesses to each other in bracketed editorial notes signed 'SG', including '[See the testimony of Mark McCandlish which establishes that indeed a UFO was stored at this facility at Norton AFB. SG]'. The corroboration between the two testimonies is asserted by the compiler, inside the compilation.",
+   "tier": 1
+  },
+  "c-4b66311495": {
+   "id": "c-4b66311495",
+   "kind": "claim",
+   "node": "national-press-club-2001",
+   "nodeLabel": "Disclosure Project press conference, National Press Club, 9 May 2001",
+   "source": {
+    "domain": "cdn.centerforinquiry.org",
+    "text": "Philip J. Klass, Skeptics UFO Newsletter (SUN) #68, Summer 2001, 'Dr. Greer's Disclosure Conference Reveals His New Strategy'; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2022/09/26195512/SUN-68-Summer-2001.pdf , opened 2026-09-19",
+    "url": "https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2022/09/26195512/SUN-68-Summer-2001.pdf"
+   },
+   "text": "FIVE PEOPLE, AND ONLY FIVE, ARE PLACED AT THE PODIUM BY AN OPENED SOURCE. John Callahan, who 'described' the JAL incident at the conference; Clifford Stone, shown there by Fox News Channel; Major George A. Filer III, 'another impressive witness at Greer's press conference'; Daniel Sheehan, named by ABC News on the day as counsel and reported describing his National Archives account; and Alfred L. Webre, whom a MUFON correspondent quoted by Klass describes, with Sheehan, as 'prominently involved in Greer's press conference at the National Press Club'.",
+   "tier": 2
+  },
+  "c-4bdea41cf3": {
+   "id": "c-4bdea41cf3",
+   "kind": "claim",
+   "node": "disclosure-project-witness-set",
+   "nodeLabel": "Disclosure Project witness cohort (68 testimonies, 2000 to 2001)",
+   "source": {
+    "domain": "archive.org",
+    "text": "Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt , opened 2026-09-19",
+    "url": "https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt"
+   },
+   "text": "JOHN WEYGANDT, AND THE NAME DISCREPANCY THIS BOARD MUST NOT REPEAT. The Briefing Document prints the heading 'Testimony of Lance Corporal John Weygandt / October 2000' at section 3.8.4. THE MODERN LITERATURE AND THE CANON-GAP AUDIT BOTH CALL HIM JONATHAN. No node should be created under a given name that this cluster's own primary source contradicts. His own printed account is unusually specific and is the obvious next test: enlisted under the delayed entry programme in July 1994 while still in high school, boot camp from 18 June, graduated 8 September 1995, MOS 0311, reassigned in late January 1996 to MOS 7212 Stinger Avenger, in training February to late May 1996, then Second Marine Air Wing, 28th Marine Air Control Group, second air defence battalion, Battery B from June 1996, transferred to 'the section for laser strike' in February 1997.",
+   "tier": 1
+  },
+  "c-4d16aacec1": {
+   "id": "c-4d16aacec1",
+   "kind": "claim",
+   "node": "john-podesta",
+   "nodeLabel": "John D. Podesta",
+   "source": {
+    "domain": null,
+    "text": "Clinton Digital Library collection finding aids",
+    "url": null
+   },
+   "text": "The Clinton White House's UFO-related FOIA collections consist of external correspondence - Greer/CSETI material (2006-0474-F), Roswell public correspondence and the GAO report (2006-0476-F), and Joe Firmage email (2008-0359-F) - not intelligence programme records.",
+   "tier": 1
+  },
+  "c-4d7b35acd7": {
+   "id": "c-4d7b35acd7",
+   "kind": "claim",
+   "node": "disclosure-project",
+   "nodeLabel": "The Disclosure Project",
+   "source": {
+    "domain": null,
+    "text": "Clinton Digital Library collection finding aid 2006-0474-F",
+    "url": null
+   },
+   "text": "The Clinton White House's principal UFO FOIA collection (2006-0474-F) consists in the majority of documents sent to the White House by Steven M. Greer of CSETI.",
+   "tier": 1
+  },
+  "c-565c323935": {
+   "id": "c-565c323935",
+   "kind": "claim",
+   "node": "disclosure-project-witness-set",
+   "nodeLabel": "Disclosure Project witness cohort (68 testimonies, 2000 to 2001)",
+   "source": {
+    "domain": "archive.org",
+    "text": "Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt , opened 2026-09-19",
+    "url": "https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt"
+   },
+   "text": "DON PHILLIPS. Printed at section 3.8.4 under 'Testimony of Mr. Don Phillips, Lockheed Skunkworks, USAF, and CIA Contractor / December 2000'. The editorial header states that he 'worked with Kelly Johnson at the Lockheed Skunkworks on design and construction of the U-2 and the SR-71 Blackbird'. In his own words the sighting was at 'Angels Peak... a classified radar installation', 'in 1966, to 67', with estimated speeds of '3,800 to 4,200 miles per hour equivalent, ground speed', and one named corroborating witness, 'a buddy that was chief radar operator named Anthony Kasar'.",
+   "tier": 1
+  },
+  "c-578e51422a": {
+   "id": "c-578e51422a",
+   "kind": "claim",
+   "node": "disclosure-project-witness-set",
+   "nodeLabel": "Disclosure Project witness cohort (68 testimonies, 2000 to 2001)",
+   "source": {
+    "domain": "archive.org",
+    "text": "Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt , opened 2026-09-19",
+    "url": "https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt"
+   },
+   "text": "A CORRECTION THIS BOARD MAKES AGAINST ITS OWN SIDE OF THE ARGUMENT. The objection commonly made to Wolfe, that he dated the episode to 1965 when no Lunar Orbiter had flown, DOES NOT APPLY TO THIS DOCUMENT AND IS NOT ASSERTED HERE. The Briefing Document gives no year for the episode. It gives a service window of January 1964 plus four and a half years, which runs to about mid-1968 and therefore encloses the Lunar Orbiter photographic period of August 1966 to August 1967. Anyone wishing to make the chronology objection must first open the later Wolfe source in which he gave that date. This board did not open one.",
+   "tier": 3
+  },
+  "c-5ef959f163": {
+   "id": "c-5ef959f163",
+   "kind": "claim",
+   "node": "disclosure-project-briefing-2001",
+   "nodeLabel": "Disclosure Project Briefing Document, April 2001",
+   "source": {
+    "domain": "archive.org",
+    "text": "Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt , opened 2026-09-19",
+    "url": "https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt"
+   },
+   "text": "STATED INFERENCE, AND THE GOVERNING RULE OF THIS CLUSTER. This document is Tier 1 for the fact that a named person gave testimony on a stated date and Tier 2 at best for anything that testimony asserts. It is compiled and published by an interested party who also conducted the interviews. Any claim on any node in this cluster that cites this document for the content of a witness account is miscited.",
+   "tier": 3
+  },
+  "c-6020a4e213": {
+   "id": "c-6020a4e213",
+   "kind": "claim",
+   "node": "disclosure-project-witness-set",
+   "nodeLabel": "Disclosure Project witness cohort (68 testimonies, 2000 to 2001)",
+   "source": {
+    "domain": "www.lansingfuneralhome.com",
+    "text": "Obituary of Karl R. Wolfe, Lansing Funeral Home, Lansing, New York, https://www.lansingfuneralhome.com/obituaries/karl-wolfe , opened 2026-09-19",
+    "url": "https://www.lansingfuneralhome.com/obituaries/karl-wolfe"
+   },
+   "text": "Karl R. Wolfe died on 10 October 2018, born 19 April 1944, per his funeral home obituary at Lansing, New York. A NEGATIVE WORTH RECORDING: the obituary does not mention US Air Force service, an employer, an education or a career.",
+   "tier": 1
+  },
+  "c-62c7f116b4": {
+   "id": "c-62c7f116b4",
+   "kind": "claim",
+   "node": "michael-herrera",
+   "nodeLabel": "Michael Herrera",
+   "source": {
+    "domain": "www.govinfo.gov",
+    "text": "Serial CHRG-119hhrg61718, https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm , 2025-09-09",
+    "url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm"
+   },
+   "text": "The printed record of the House Oversight Task Force on the Declassification of Federal Secrets hearing of 9 September 2025 carries this colloquy. Rep. Eric Burlison: 'Madam Chair, I also have further witnesses of courageous individuals. It was given to me by Dr. Steven Greer, including Michael Herrera and his testimony. We have Roderick Castle and his testimony; Randy Anderson, his testimony; Steven Digna, and others, three others, all saying similar things to what the witnesses today have said, and I would like to enter that into the record as well.' Chairwoman Luna: 'No objection.' What this documents is that a member moved a document about him into a hearing record and sourced it to Steven Greer. It does not document that he testified, was sworn, or appeared.",
+   "tier": 1
+  },
+  "c-6525879f6e": {
+   "id": "c-6525879f6e",
+   "kind": "claim",
+   "node": "clifford-stone",
+   "nodeLabel": "Clifford E. Stone",
+   "source": {
+    "domain": "archive.org",
+    "text": "Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt , opened 2026-09-19 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+    "url": "https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt"
+   },
+   "text": "The Disclosure Project Briefing Document of April 2001 prints his testimony at section 3.8.4 under the heading 'Testimony of Sergeant Clifford Stone, United States Army / September 2000'. Its editorial header states: 'Stone has seen living and dead extraterrestrials in his official duties on an army team that retrieved crashed ET crafts.' TIER 1 FOR THE FACT OF THE TESTIMONY AND ITS DATE ONLY.",
+   "tier": 2
+  },
+  "c-659d5cbd80": {
+   "id": "c-659d5cbd80",
+   "kind": "claim",
+   "node": "national-press-club-2001",
+   "nodeLabel": "Disclosure Project press conference, National Press Club, 9 May 2001",
+   "source": {
+    "domain": "cdn.centerforinquiry.org",
+    "text": "Philip J. Klass, Skeptics UFO Newsletter (SUN) #68, Summer 2001, 'Dr. Greer's Disclosure Conference Reveals His New Strategy'; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2022/09/26195512/SUN-68-Summer-2001.pdf , opened 2026-09-19",
+    "url": "https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2022/09/26195512/SUN-68-Summer-2001.pdf"
+   },
+   "text": "Philip J. Klass, writing within weeks: the press conference was 'held May 9 at the National Press Club in Washington DC, whose stated objective was to prompt a Congressional hearing on UFOs'.",
+   "tier": 1
+  },
+  "c-68242b2489": {
+   "id": "c-68242b2489",
+   "kind": "claim",
+   "node": "steven-greer",
+   "nodeLabel": "Steven M. Greer",
+   "source": {
+    "domain": null,
+    "text": "Wikipedia, 'Steven M. Greer', retrieved 12 August 2026 — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+    "url": null
+   },
+   "text": "Greer founded CSETI in 1990 and the Disclosure Project in 1993, and in May 2001 held a National Press Club press conference featuring 20 retired Air Force, FAA and intelligence officers.",
+   "tier": 2
+  },
+  "c-6a6c839abd": {
+   "id": "c-6a6c839abd",
+   "kind": "claim",
+   "node": "michael-herrera",
+   "nodeLabel": "Michael Herrera",
+   "source": {
+    "domain": null,
+    "text": "stated inference from the AARO Volume I page 29 summary and his Shawn Ryan Show account",
+    "url": null
+   },
+   "text": "The identification of AARO's page 29 interviewee as Michael Herrera is an INFERENCE and this node carries it as one. It matches his public account on year, on mission type and on the described scene. No opened record makes the link, AARO names nobody, and Herrera is not named anywhere in the report.",
+   "tier": 3
+  },
+  "c-6e3b4f2241": {
+   "id": "c-6e3b4f2241",
+   "kind": "claim",
+   "node": "disclosure-project-briefing-2001",
+   "nodeLabel": "Disclosure Project Briefing Document, April 2001",
+   "source": {
+    "domain": "archive.org",
+    "text": "Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt , opened 2026-09-19",
+    "url": "https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt"
+   },
+   "text": "Its subsection structure, as printed in the body and in its own contents list: 3.8.1 Overview (page 48), 3.8.2 Radar / Pilot Cases (page 62), 3.8.3 SAC/NUKE (page 123), 3.8.4 Government Insiders / NASA / Deep Insiders (page 165), 3.8.5 Technology / Science (page 323).",
+   "tier": 1
+  },
+  "c-6f8abecb2f": {
+   "id": "c-6f8abecb2f",
+   "kind": "claim",
+   "node": "steven-greer",
+   "nodeLabel": "Steven M. Greer",
+   "source": {
+    "domain": "abcnews.com",
+    "text": "ABC News, 'Group Calls for Disclosure of UFO Info', 9 May 2001, 2:35 PM, https://abcnews.com/Technology/story?id=98572&page=1 , opened 2026-09-19",
+    "url": "https://abcnews.com/Technology/story?id=98572&page=1"
+   },
+   "text": "ABC News, reporting from the National Press Club on 9 May 2001, records his claim of 'some 400 witnesses who claim to have firsthand experience with UFO sightings or alien evidence, and are willing to testify before Congress'. Klass, in the same season, records that the book published alongside the event contains 69 interview transcripts, of whom 20 spoke at the conference.",
+   "tier": 2
+  },
+  "c-6fc2a258e8": {
+   "id": "c-6fc2a258e8",
+   "kind": "claim",
+   "node": "daniel-sheehan",
+   "nodeLabel": "Daniel P. Sheehan",
+   "source": {
+    "domain": "cdn.centerforinquiry.org",
+    "text": "Philip J. Klass, Skeptics UFO Newsletter (SUN) #68, Summer 2001, 'Dr. Greer's Disclosure Conference Reveals His New Strategy'; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2022/09/26195512/SUN-68-Summer-2001.pdf , opened 2026-09-19",
+    "url": "https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2022/09/26195512/SUN-68-Summer-2001.pdf"
+   },
+   "text": "Klass records his function for the Project: he 'serves as counsel for Project Disclosure to defend any witnesses who might be charged with violating their security oaths', and that he claims to have examined photographs of crashed craft in 1977 which were not classified.",
+   "tier": 2
+  },
+  "c-738d47d8f8": {
+   "id": "c-738d47d8f8",
+   "kind": "claim",
+   "node": "clifford-stone",
+   "nodeLabel": "Clifford E. Stone",
+   "source": {
+    "domain": "cdn.centerforinquiry.org",
+    "text": "Philip J. Klass, Skeptics UFO Newsletter (SUN) #68, Summer 2001, 'Dr. Greer's Disclosure Conference Reveals His New Strategy'; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2022/09/26195512/SUN-68-Summer-2001.pdf , opened 2026-09-19",
+    "url": "https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2022/09/26195512/SUN-68-Summer-2001.pdf"
+   },
+   "text": "AFFIRMATIVE EVIDENCE AGAINST THE ACCOUNT, NOT MERELY AN ABSENCE. Klass records: 'Stone claims that he and his Army team were sent to the USAF Bentwaters base in England in late December of 1980 to investigate a UFO incident... A further challenge to this claim is that on Dec. 23, 1983, Stone made a Freedom Of Information Act (FOIA) request to the USAF for information on the Bentwaters UFO incident which he would have acquired during his (alleged) official visit in 1980. Further, Stone's request used his home address and did not show that he was an Army sergeant.' This is an act by Stone, three years after the event, inconsistent with his own later account of having been there officially.",
+   "tier": 2
+  },
+  "c-73cc187f20": {
+   "id": "c-73cc187f20",
+   "kind": "claim",
+   "node": "larry-warren",
+   "nodeLabel": "Larry Warren",
+   "source": {
+    "domain": "cosimoblog.blogspot.com",
+    "text": "Cosimo, Inc., publisher's announcement, 'Announcement: Left at East Gate', http://cosimoblog.blogspot.com/2017/10/announcement-left-at-east-gate.html , opened 2026-09-19 — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+    "url": "http://cosimoblog.blogspot.com/2017/10/announcement-left-at-east-gate.html"
+   },
+   "text": "HIS PUBLISHER WITHDREW THE BOOK. Cosimo, Inc., 17 October 2017, verbatim: 'Cosimo is announcing that it is suspending the distribution of the book, Left at East Gate, by Larry Warren and Peter Robbins.' The stated reason is that 'some of the experiences described in this book may be inaccurate or embellished' and that the publisher cannot presently confirm the book meets its standards.",
+   "tier": 2
+  },
+  "c-73ee030dce": {
+   "id": "c-73ee030dce",
+   "kind": "claim",
+   "node": "disclosure-project-briefing-2001",
+   "nodeLabel": "Disclosure Project Briefing Document, April 2001",
+   "source": {
+    "domain": "archive.org",
+    "text": "Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt , opened 2026-09-19",
+    "url": "https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt"
+   },
+   "text": "Its title page reads: 'DISCLOSURE PROJECT BRIEFING DOCUMENT / Prepared for: Members of the Press, Members of United States Government, Members of the US Scientific Community / Written and Compiled by: Steven M. Greer, M.D., Director and Theodore C. Loder III, Ph.D. / April, 2001.'",
+   "tier": 1
+  },
+  "c-777302b447": {
+   "id": "c-777302b447",
+   "kind": "claim",
+   "node": "philip-j-klass",
+   "nodeLabel": "Philip J. Klass",
+   "source": {
+    "domain": "cdn.centerforinquiry.org",
+    "text": "Philip J. Klass, Skeptics UFO Newsletter (SUN) #68, Summer 2001, 'Dr. Greer's Disclosure Conference Reveals His New Strategy'; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2022/09/26195512/SUN-68-Summer-2001.pdf , opened 2026-09-19",
+    "url": "https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2022/09/26195512/SUN-68-Summer-2001.pdf"
+   },
+   "text": "He supplies the count that governs every podium claim in this cluster: Greer's book 'contains transcripts of taped interviews with 69 of his witnesses, 20 of whom spoke briefly at the recent press conference.'",
+   "tier": 1
+  },
+  "c-8b9dfccdc0": {
+   "id": "c-8b9dfccdc0",
+   "kind": "claim",
+   "node": "steven-greer",
+   "nodeLabel": "Steven M. Greer",
+   "source": {
+    "domain": null,
+    "text": "Clinton Digital Library collection finding aid, identifier 2006-0474-F",
+    "url": null
+   },
+   "text": "The Clinton Presidential Library's UFO FOIA collection 2006-0474-F 'consists of letters, correspondence tracking forms, memos, reports, email and cables relating to UFO's or extraterrestrial beings. A majority of the collection are documents which were sent to the White House by Steven M. Greer, the head of a nongovernmental organization called the Center for the Study of Extraterrestrial Intelligence (CSETI).'",
+   "tier": 1
+  },
+  "c-8d9b549810": {
+   "id": "c-8d9b549810",
+   "kind": "claim",
+   "node": "nasa",
+   "nodeLabel": "National Aeronautics and Space Administration",
+   "source": {
+    "domain": "corporate.ford.com",
+    "text": "Ford Motor Company corporate history, 'Ford, Philco and the Mission Control Center', https://corporate.ford.com/articles/history/ford-philco-and-the-mission-control-center.html , opened 2026-09-19",
+    "url": "https://corporate.ford.com/articles/history/ford-philco-and-the-mission-control-center.html"
+   },
+   "text": "Philco-Ford, the contractor named in the Donna Hare claim, is documented as a NASA Manned Spacecraft Center contractor by Ford Motor Company's own corporate history, which records that it won the Mission Control Center contract at Houston in 1963 against IBM, RCA, Lockheed, Hughes Aircraft and AT&T.",
+   "tier": 1
+  },
+  "c-99fae7db06": {
+   "id": "c-99fae7db06",
+   "kind": "claim",
+   "node": "nasa",
+   "nodeLabel": "National Aeronautics and Space Administration",
+   "source": {
+    "domain": "nssdc.gsfc.nasa.gov",
+    "text": "NASA NSSDCA master catalogue, spacecraft record for Lunar Orbiter 1 (1966-073A), https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1966-073A , opened 2026-09-19",
+    "url": "https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1966-073A"
+   },
+   "text": "Its own NSSDCA master catalogue states that 'The Lunar Orbiter program was managed by NASA Langley Research Center', with Lunar Orbiter 1 launched on 10 August 1966 and photographic data acquired 'from August 18 to 29, 1966, and readout occurred through September 14, 1966'. This is the agency record against which the Karl Wolfe claim, which places Lunar Orbiter imagery at an NSA facility on Langley Air Force Base, must be measured.",
+   "tier": 1
+  },
+  "c-9a6abbd457": {
+   "id": "c-9a6abbd457",
+   "kind": "claim",
+   "node": "steven-greer",
+   "nodeLabel": "Steven M. Greer",
+   "source": {
+    "domain": null,
+    "text": "Disclosure Project National Press Club event, Washington DC, 9 May 2001; contemporaneous international press coverage",
+    "url": null
+   },
+   "text": "On 9 May 2001 Greer presented roughly twenty former military, intelligence and government personnel at the National Press Club and stated that more than four hundred witnesses had provided testimony, calling for congressional hearings with subpoena power.",
+   "tier": 2
+  },
+  "c-9b68b6da7b": {
+   "id": "c-9b68b6da7b",
+   "kind": "claim",
+   "node": "larry-warren",
+   "nodeLabel": "Larry Warren",
+   "source": {
+    "domain": "sacha-christie-infomaniachousewife.blogspot.com",
+    "text": "Peter Robbins, statement regarding Larry Warren, posted 13 June 2017 and updated 20 June 2017, hosted on Sacha Christie's blog, http://sacha-christie-infomaniachousewife.blogspot.com/2017/06/peter-robbins-statement-regarding-larry.html , opened 2026-09-19 — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+    "url": "http://sacha-christie-infomaniachousewife.blogspot.com/2017/06/peter-robbins-statement-regarding-larry.html"
+   },
+   "text": "HIS CO-AUTHOR OF TWENTY-NINE YEARS REPUDIATED THE BOOK. Peter Robbins published a statement on 13 June 2017, updated 20 June 2017. His specific allegations: a fabricated photograph purporting to show Warren with John Lennon; an altered USAF Form 490 medical appointment card on which the notation 'OPTI/RET BURN/EXP' is attributed to a 'Dr. Echols' whom Robbins says was an orthopaedic surgeon and not an ophthalmologist; signature inconsistencies on an in-processing sheet where 'Lea' is signed twice in different pens against a typed 'Lee'; and testimonial letters attributed to fellow airmen Steve LaPlume and Steve Longero that Robbins says were never sent.",
+   "tier": 2
+  },
+  "c-9e01a79d2d": {
+   "id": "c-9e01a79d2d",
+   "kind": "claim",
+   "node": "robert-jacobs",
+   "nodeLabel": "Robert M. Jacobs",
+   "source": {
+    "domain": null,
+    "text": "Derived by this board from the register in research/leads/verified-nuclear-witnesses-2026-09-19.md, which lists every nuclear-facility witness found in the 19 September 2026 pass together with the route by which each account reached the public",
+    "url": null
+   },
+   "text": "SECTION 2a PROVENANCE. Jacobs is the exception in this cluster and the reason the provenance test is worth applying. He published under his own name in the National Enquirer in 1982 and in the MUFON UFO Journal, No. 249, in January 1989, years before any interviewer sought him out, and was then answered by name and in print by a hostile participant who confirmed his unit, his appointment, his presence and his debriefing while disputing what he saw.",
+   "tier": 3
+  },
+  "c-a3b77d59e9": {
+   "id": "c-a3b77d59e9",
+   "kind": "claim",
+   "node": "rendlesham-1980",
+   "nodeLabel": "Rendlesham Forest Incident, RAF Woodbridge/Bentwaters",
+   "source": {
+    "domain": "archive.org",
+    "text": "Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt , opened 2026-09-19",
+    "url": "https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt"
+   },
+   "text": "Larry Warren's claimed connection to it is printed at section 3.8.4 of the Disclosure Project Briefing Document under 'Testimony of Security Officer Larry Warren, United States Air Force / September 2000', in which he states he was assigned to the 81st Tactical Fighter Wing at Bentwaters and that his PRP clearance was approved on 11 December 1980.",
+   "tier": 1
+  },
+  "c-aaa53a7b22": {
+   "id": "c-aaa53a7b22",
+   "kind": "claim",
+   "node": "larry-warren",
+   "nodeLabel": "Larry Warren",
+   "source": {
+    "domain": "kevinrandle.blogspot.com",
+    "text": "Kevin D. Randle, 'Peter Robbins Explains His Take on Left at East Gate (Part One)', A Different Perspective, http://kevinrandle.blogspot.com/2017/08/peter-robbins-explains-his-take-on-left_10.html , opened 2026-09-19",
+    "url": "http://kevinrandle.blogspot.com/2017/08/peter-robbins-explains-his-take-on-left_10.html"
+   },
+   "text": "WHAT THE REPUDIATION CONCEDES, AND IT MUST BE CARRIED. Robbins accepts as authentic the handwritten letter Warren wrote to his mother in January 1981 and states that its authenticity 'does not mean that everything else Warren has said or written follows in kind'. Robbins also records that the military paperwork he examined was supplied by Warren and was 'mostly Xerox copies with some originals'. So the honest position is not that Warren was never at Bentwaters; it is that his presence at the events, and the documents he produced for it, are what is disputed.",
+   "tier": 2
+  },
+  "c-ab7b5078ae": {
+   "id": "c-ab7b5078ae",
+   "kind": "claim",
+   "node": "disclosure-project-briefing-2001",
+   "nodeLabel": "Disclosure Project Briefing Document, April 2001",
+   "source": {
+    "domain": "archive.org",
+    "text": "Disclosure Project Briefing Document, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt , 2000-09",
+    "url": "https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt"
+   },
+   "text": "The same document carries a separate 'Testimony of Lieutenant Colonel John Williams / September 2000' which states of Norton AFB: 'I was never allowed in that area when I was there at Norton Air Force Base', and, asked how he could validate the facility existed, 'That's correct because I was responsible for that base's facilities from 1981-82.'",
+   "tier": 1
+  },
+  "c-afeee5cd4d": {
+   "id": "c-afeee5cd4d",
+   "kind": "claim",
+   "node": "disclosure-project-briefing-2001",
+   "nodeLabel": "Disclosure Project Briefing Document, April 2001",
+   "source": {
+    "domain": "archive.org",
+    "text": "Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt , opened 2026-09-19",
+    "url": "https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt"
+   },
+   "text": "The interviews are conducted by Greer himself. Each testimony carries an initials key of the form 'JC: FAA Division Chief John Callahan SG: Dr. Steven Greer', and Greer's editorial comments are printed inside the witness text marked 'SG]'.",
+   "tier": 1
+  },
+  "c-b2567774ae": {
+   "id": "c-b2567774ae",
+   "kind": "claim",
+   "node": "disclosure-project-witness-set",
+   "nodeLabel": "Disclosure Project witness cohort (68 testimonies, 2000 to 2001)",
+   "source": {
+    "domain": "nssdc.gsfc.nasa.gov",
+    "text": "NASA NSSDCA master catalogue, spacecraft record for Lunar Orbiter 1 (1966-073A), https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1966-073A , opened 2026-09-19",
+    "url": "https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1966-073A"
+   },
+   "text": "THE INSTITUTIONAL DISCREPANCY IN THE WOLFE ACCOUNT, FROM NASA'S OWN CATALOGUE. The NSSDCA record for Lunar Orbiter 1 states: 'The Lunar Orbiter program was managed by NASA Langley Research Center', a NASA civil facility at Hampton, Virginia, which is a separate installation from Langley Air Force Base. The same record gives launch on 10 August 1966 and photographic data acquired 'from August 18 to 29, 1966'.",
+   "tier": 1
+  },
+  "c-b3e4e88a17": {
+   "id": "c-b3e4e88a17",
+   "kind": "claim",
+   "node": "michael-herrera",
+   "nodeLabel": "Michael Herrera",
+   "source": {
+    "domain": null,
+    "text": "Shawn Ryan Show #66 part 1, YouTube video id 3zm4nh3S66I, 2023-07-17, opened 2026-09-18",
+    "url": null
+   },
+   "text": "His own account is on the public record in a dated artefact: 'Michael Herrera - US Marine Encounters UFO Black Ops Human Trafficking Operation | SRS #66 (Part 1)', Shawn Ryan Show, premiered 17 July 2023, runtime 1:26:50. The channel's own description reads: 'Former Marine Michael Herrera tells all in part one of this three part series. Herrera and his team were tasked with responding to a major earthquake and tsunami in Indonesia providing overwatch and logistical support. Little did they know--they would come face to face with a UAP / UFO and be ambushed by an unmarked shadow unit of operators.' This is a man saying a thing on a dated recording, and nothing more.",
+   "tier": 2
+  },
+  "c-ba7ff7f5e3": {
+   "id": "c-ba7ff7f5e3",
+   "kind": "claim",
+   "node": "national-press-club-2001",
+   "nodeLabel": "Disclosure Project press conference, National Press Club, 9 May 2001",
+   "source": {
+    "domain": "cdn.centerforinquiry.org",
+    "text": "Philip J. Klass, Skeptics UFO Newsletter (SUN) #68, Summer 2001, 'Dr. Greer's Disclosure Conference Reveals His New Strategy'; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2022/09/26195512/SUN-68-Summer-2001.pdf , opened 2026-09-19",
+    "url": "https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2022/09/26195512/SUN-68-Summer-2001.pdf"
+   },
+   "text": "THE COUNT THAT GOVERNS EVERY PODIUM CLAIM IN THIS CLUSTER. Klass: Greer's book 'contains transcripts of taped interviews with 69 of his witnesses, 20 of whom spoke briefly at the recent press conference.'",
+   "tier": 1
+  },
+  "c-bd6e505d2e": {
+   "id": "c-bd6e505d2e",
+   "kind": "claim",
+   "node": "disclosure-project-briefing-2001",
+   "nodeLabel": "Disclosure Project Briefing Document, April 2001",
+   "source": {
+    "domain": "archive.org",
+    "text": "Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt , opened 2026-09-19",
+    "url": "https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt"
+   },
+   "text": "Section 3.8 contains SIXTY-EIGHT dated testimony headings, each of the form 'Testimony of [name, rank, service]' followed on the next line by a month and year. Sixty-five carry dates between July 2000 and March 2001; Edgar Mitchell's is dated May 1998 and Vasily Alexeyev's March 1997; Gordon Cooper's, Denise McKenzie's and Phillip J. Corso's carry no date at all.",
+   "tier": 1
+  },
+  "c-bf81bbba25": {
+   "id": "c-bf81bbba25",
+   "kind": "claim",
+   "node": "disclosure-project-witness-set",
+   "nodeLabel": "Disclosure Project witness cohort (68 testimonies, 2000 to 2001)",
+   "source": {
+    "domain": "corporate.ford.com",
+    "text": "Ford Motor Company corporate history, 'Ford, Philco and the Mission Control Center', https://corporate.ford.com/articles/history/ford-philco-and-the-mission-control-center.html , opened 2026-09-19",
+    "url": "https://corporate.ford.com/articles/history/ford-philco-and-the-mission-control-center.html"
+   },
+   "text": "THE EMPLOYER IS DOCUMENTED AND THE EMPLOYEE IS NOT. Ford Motor Company's own corporate history records that Ford purchased Philco in 1961 and 'transferred its Aeronutronic Division to a new entity it called Philco-Ford'; that 'In 1963, the company went head-to-head against tech giants like IBM, RCA, Lockheed, Hughes Aircraft and AT&T in a bid to implement the Mission Control Center at the new Manned Space Center in Houston'; and that it was renamed Ford Aerospace and Communications Corporation in 1976 and sold to Loral in 1990.",
+   "tier": 1
+  },
+  "c-c0a6b6873f": {
+   "id": "c-c0a6b6873f",
+   "kind": "claim",
+   "node": "national-press-club-2001",
+   "nodeLabel": "Disclosure Project press conference, National Press Club, 9 May 2001",
+   "source": {
+    "domain": "cdn.centerforinquiry.org",
+    "text": "Philip J. Klass, Skeptics UFO Newsletter (SUN) #68, Summer 2001, 'Dr. Greer's Disclosure Conference Reveals His New Strategy'; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2022/09/26195512/SUN-68-Summer-2001.pdf , opened 2026-09-19",
+    "url": "https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2022/09/26195512/SUN-68-Summer-2001.pdf"
+   },
+   "text": "Klass records his own exclusion, which limits his account of the event but not the records he obtained himself: he did not attend because Greer had refused him admission to a comparable 1997 event and 'reportedly refused the request for admission by Fund For UFO Research officials', so his account 'is based largely on Greer's own press releases and his 573-page book'.",
+   "tier": 1
+  },
+  "c-c8cdb583da": {
+   "id": "c-c8cdb583da",
+   "kind": "claim",
+   "node": "john-podesta",
+   "nodeLabel": "John D. Podesta",
+   "source": {
+    "domain": null,
+    "text": "John Podesta, public statement, 13 Feb 2015",
+    "url": null
+   },
+   "text": "On leaving the Obama White House in February 2015, Podesta stated publicly that his biggest failure of the year was 'once again not securing the disclosure of the UFO files.'",
+   "tier": 2
+  },
+  "c-d28b7cb659": {
+   "id": "c-d28b7cb659",
+   "kind": "claim",
+   "node": "disclosure-project-witness-set",
+   "nodeLabel": "Disclosure Project witness cohort (68 testimonies, 2000 to 2001)",
+   "source": {
+    "domain": "archive.org",
+    "text": "Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt , opened 2026-09-19",
+    "url": "https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt"
+   },
+   "text": "DONNA HARE. Printed at section 3.8.4 under 'Testimony of Donna Hare / November 2000'. Her heading carries no rank, service or agency, which is unusual in this document; the editorial header supplies it: 'Donna Hare had a secret clearance while working for NASA contractor, Philco Ford.' In her own words: 'During 70 and 71 I worked in Building 8 of NASA for a contractor, Philco Ford', and of the technician she describes, 'he said, well, we always have to airbrush them out before we sell them to the public.'",
+   "tier": 1
+  },
+  "c-d685c19678": {
+   "id": "c-d685c19678",
+   "kind": "claim",
+   "node": "philip-j-klass",
+   "nodeLabel": "Philip J. Klass",
+   "source": {
+    "domain": "cdn.centerforinquiry.org",
+    "text": "Philip J. Klass, Skeptics UFO Newsletter (SUN) #68, Summer 2001, 'Dr. Greer's Disclosure Conference Reveals His New Strategy'; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2022/09/26195512/SUN-68-Summer-2001.pdf , opened 2026-09-19",
+    "url": "https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2022/09/26195512/SUN-68-Summer-2001.pdf"
+   },
+   "text": "Skeptics UFO Newsletter #68, Summer 2001, lead article 'Dr. Greer's Disclosure Conference Reveals His New Strategy', is a dated published critique of the Disclosure Project by name, written within weeks of the 9 May 2001 press conference.",
+   "tier": 1
+  },
+  "c-d6a7e252c5": {
+   "id": "c-d6a7e252c5",
+   "kind": "claim",
+   "node": "steven-greer",
+   "nodeLabel": "Steven M. Greer",
+   "source": {
+    "domain": "archive.org",
+    "text": "Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt , opened 2026-09-19",
+    "url": "https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt"
+   },
+   "text": "He conducts the interviews in the document himself and his presence is printed inside the transcripts: each testimony carries an initials key of the form 'SG: Dr. Steven Greer', and his editorial interjections are printed within the witness text marked 'SG]'. THE DOCUMENT IS THEREFORE NOT A NEUTRAL COMPILATION AND CAPS AT TIER 2 THE MOMENT IT IS ASKED TO SUPPORT THE CONTENT OF A CLAIM RATHER THAN THE EXISTENCE OF THE TESTIMONY.",
+   "tier": 1
+  },
+  "c-d726ea4ed0": {
+   "id": "c-d726ea4ed0",
+   "kind": "claim",
+   "node": "john-callahan",
+   "nodeLabel": "John Callahan",
+   "source": {
+    "domain": "cdn.centerforinquiry.org",
+    "text": "Philip J. Klass, Skeptics UFO Newsletter (SUN) #68, Summer 2001, 'Dr. Greer's Disclosure Conference Reveals His New Strategy'; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2022/09/26195512/SUN-68-Summer-2001.pdf , opened 2026-09-19",
+    "url": "https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2022/09/26195512/SUN-68-Summer-2001.pdf"
+   },
+   "text": "He is one of only five people whom an opened source places at the podium of the 9 May 2001 National Press Club press conference. Klass: 'The incident was described at Greer's press conference (and in more detail in Greer's book) by John Callahan who said he was head of the Federal Aviation Administration's Accidents & Investigations Branch at FAA headquarters in Washington.'",
+   "tier": 2
+  },
+  "c-dd6aabf23d": {
+   "id": "c-dd6aabf23d",
+   "kind": "claim",
+   "node": "daniel-sheehan",
+   "nodeLabel": "Daniel P. Sheehan",
+   "source": {
+    "domain": "abcnews.com",
+    "text": "ABC News, 'Group Calls for Disclosure of UFO Info', 9 May 2001, 2:35 PM, https://abcnews.com/Technology/story?id=98572&page=1 , opened 2026-09-19 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+    "url": "https://abcnews.com/Technology/story?id=98572&page=1"
+   },
+   "text": "He is one of only five people whom an opened source places at the podium of the 9 May 2001 National Press Club press conference. ABC News, reporting the same day, names him as the Washington lawyer serving as counsel to the Disclosure Project.",
+   "tier": 2
+  },
+  "c-e1123776ff": {
+   "id": "c-e1123776ff",
+   "kind": "claim",
+   "node": "national-press-club-2001",
+   "nodeLabel": "Disclosure Project press conference, National Press Club, 9 May 2001",
+   "source": {
+    "domain": "cdn.centerforinquiry.org",
+    "text": "Philip J. Klass, Skeptics UFO Newsletter (SUN) #68, Summer 2001, 'Dr. Greer's Disclosure Conference Reveals His New Strategy'; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2022/09/26195512/SUN-68-Summer-2001.pdf , opened 2026-09-19",
+    "url": "https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2022/09/26195512/SUN-68-Summer-2001.pdf"
+   },
+   "text": "STATED INFERENCE, AND THE POINT OF THIS NODE. Nothing opened by this board places Karl Wolfe, Donna Hare, Robert Jacobs, Larry Warren, John or Jonathan Weygandt, Don Phillips or Mark McCandlish at this podium. Appearing in the April 2001 Briefing Document and speaking on 9 May 2001 are two different facts with two different records, and the second must never be inferred from the first.",
+   "tier": 3
+  },
+  "c-e38c69fd2e": {
+   "id": "c-e38c69fd2e",
+   "kind": "claim",
+   "node": "disclosure-project",
+   "nodeLabel": "The Disclosure Project",
+   "source": {
+    "domain": "cdn.centerforinquiry.org",
+    "text": "Philip J. Klass, Skeptics UFO Newsletter (SUN) #68, Summer 2001, 'Dr. Greer's Disclosure Conference Reveals His New Strategy'; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2022/09/26195512/SUN-68-Summer-2001.pdf , opened 2026-09-19",
+    "url": "https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2022/09/26195512/SUN-68-Summer-2001.pdf"
+   },
+   "text": "The proportion that spoke: Klass records that the book published alongside the event 'contains transcripts of taped interviews with 69 of his witnesses, 20 of whom spoke briefly at the recent press conference.' NO OPENED SOURCE LISTS THE TWENTY, and this board should never infer a podium appearance from a printed testimony.",
+   "tier": 2
+  },
+  "c-e3f3bfbe1b": {
+   "id": "c-e3f3bfbe1b",
+   "kind": "claim",
+   "node": "philip-j-klass",
+   "nodeLabel": "Philip J. Klass",
+   "source": {
+    "domain": "cdn.centerforinquiry.org",
+    "text": "Philip J. Klass, Skeptics UFO Newsletter (SUN) #68, Summer 2001, 'Dr. Greer's Disclosure Conference Reveals His New Strategy'; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2022/09/26195512/SUN-68-Summer-2001.pdf , opened 2026-09-19",
+    "url": "https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2022/09/26195512/SUN-68-Summer-2001.pdf"
+   },
+   "text": "HE DECLARES HIS OWN LIMITATION, AND THE BOARD CARRIES IT. 'SUN's Editor did not try to attend the recent press conference because Greer refused to admit me to a similar press conference he held four years ago [SUN #45/May 1997] and he reportedly refused the request for admission by Fund For UFO Research officials. So the following is based largely on Greer's own press releases and his 573-page book Disclosure.' His reporting of the event is therefore second-hand; the records he obtained himself are not.",
+   "tier": 1
+  },
+  "c-e3fdfdbb0f": {
+   "id": "c-e3fdfdbb0f",
+   "kind": "claim",
+   "node": "mark-mccandlish",
+   "nodeLabel": "Mark McCandlish",
+   "source": {
+    "domain": "archive.org",
+    "text": "Disclosure Project Briefing Document, section 3.8.5, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt , 2001-04 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+    "url": "https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt"
+   },
+   "text": "The Disclosure Project Briefing Document of April 2001 prints, at section 3.8.5 under the heading 'Testimony of Mr. Mark McCandlish, US Air Force / December 2000', his own description of his work: 'I work principally as a conceptual artist. Most of my clients are in the defense industry. I occasionally work directly for the military, but most the time I work for civilian corporations that are defense contractors and build weapons systems and things for the military.'",
+   "tier": 2
+  },
+  "c-e607761c85": {
+   "id": "c-e607761c85",
+   "kind": "claim",
+   "node": "clifford-stone",
+   "nodeLabel": "Clifford E. Stone",
+   "source": {
+    "domain": "cdn.centerforinquiry.org",
+    "text": "Philip J. Klass, Skeptics UFO Newsletter (SUN) #68, Summer 2001, 'Dr. Greer's Disclosure Conference Reveals His New Strategy'; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2022/09/26195512/SUN-68-Summer-2001.pdf , opened 2026-09-19",
+    "url": "https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2022/09/26195512/SUN-68-Summer-2001.pdf"
+   },
+   "text": "HIS SERVICE RECORD WAS OBTAINED FROM A FEDERAL REPOSITORY AND PRINTED. Philip J. Klass states the source: 'If Greer had obtained a copy of Stone's military record from the National Personnel Records Center in St. Louis, he could have learned that these and other such Stone claims were FALSE.' The assignments as Klass prints them: entered the Army 8 July 1968; after basic training 'he was trained to be a clerk/typist'; Vietnam February 1970 to August 1972 'where his duties are listed as clerk/typist'; Fort Gordon and Fort Knox, principal duty clerk/typist; 'as of March 1975 his duty is shown as administration specialist'; August 1976 to August 1983 in Germany as administration specialist; then Keesler AFB and Fort Gordon as 'Det. Sgt'; and from May 1985 the New Mexico Military Institute as 'chief administrative clerk'. The underlying NPRC record itself was not opened by this board, which is why this is Tier 2 and not Tier 1.",
+   "tier": 2
+  },
+  "c-f1309e7d6f": {
+   "id": "c-f1309e7d6f",
+   "kind": "claim",
+   "node": "clifford-stone",
+   "nodeLabel": "Clifford E. Stone",
+   "source": {
+    "domain": "cdn.centerforinquiry.org",
+    "text": "Philip J. Klass, Skeptics UFO Newsletter (SUN) #68, Summer 2001, 'Dr. Greer's Disclosure Conference Reveals His New Strategy'; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2022/09/26195512/SUN-68-Summer-2001.pdf , opened 2026-09-19",
+    "url": "https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2022/09/26195512/SUN-68-Summer-2001.pdf"
+   },
+   "text": "He is one of only five people whom an opened source places at the podium of the 9 May 2001 press conference, and the attestation is a broadcaster rather than the organiser: 'Fox News Channel showed Stone at the May press conference saying, I was involved in situations where we actually did recoveries of crashed saucers...and the debris thereof.'",
+   "tier": 2
+  },
+  "c-f49fc56b50": {
+   "id": "c-f49fc56b50",
+   "kind": "claim",
+   "node": "disclosure-project",
+   "nodeLabel": "The Disclosure Project",
+   "source": {
+    "domain": "cdn.centerforinquiry.org",
+    "text": "Philip J. Klass, Skeptics UFO Newsletter (SUN) #68, Summer 2001, 'Dr. Greer's Disclosure Conference Reveals His New Strategy'; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2022/09/26195512/SUN-68-Summer-2001.pdf , opened 2026-09-19",
+    "url": "https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2022/09/26195512/SUN-68-Summer-2001.pdf"
+   },
+   "text": "It controlled access to its own press events. Klass records that Greer refused him admission to a comparable press conference in 1997 and 'reportedly refused the request for admission by Fund For UFO Research officials' in 2001.",
+   "tier": 2
+  },
+  "c-f7872eb603": {
+   "id": "c-f7872eb603",
+   "kind": "claim",
+   "node": "rendlesham-1980",
+   "nodeLabel": "Rendlesham Forest Incident, RAF Woodbridge/Bentwaters",
+   "source": {
+    "domain": "archive.org",
+    "text": "Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt , opened 2026-09-19",
+    "url": "https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt"
+   },
+   "text": "STATED INFERENCE ABOUT A SOURCE. The Briefing Document's editorial header asserts that Warren's testimony is corroborated by Nick Pope, Lord Hill-Norton and Clifford Stone. Two of those three are witnesses inside the same document and one of them is Stone. The corroboration offered for this event by that source is internal to it.",
+   "tier": 3
+  },
+  "c-fcaa35d261": {
+   "id": "c-fcaa35d261",
+   "kind": "claim",
+   "node": "disclosure-project",
+   "nodeLabel": "The Disclosure Project",
+   "source": {
+    "domain": "archive.org",
+    "text": "Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt , opened 2026-09-19",
+    "url": "https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt"
+   },
+   "text": "Its Briefing Document of April 2001 prints SIXTY-EIGHT dated witness testimonies across five subsections of its section 3.8, 'Summary of Video Taped Witness Testimony and Government Documents', running from the document's printed page 48 to page 349.",
+   "tier": 1
+  },
+  "c-fe7bf59747": {
+   "id": "c-fe7bf59747",
+   "kind": "claim",
+   "node": "michael-herrera",
+   "nodeLabel": "Michael Herrera",
+   "source": {
+    "domain": null,
+    "text": "stated inference from the committee witness lists and the Shawn Ryan Show description",
+    "url": null
+   },
+   "text": "The Shawn Ryan Show description's phrase 'how he is testifying to Congress' is not supported by any opened record. He has never been a hearing witness. Whether he was interviewed in a closed congressional setting is a separate question that has not been reached, and the promotional phrasing should not be read as establishing either.",
+   "tier": 3
+  },
+  "e-07d1e7982f": {
+   "endpoints": [
+    {
+     "id": "disclosure-project-witness-set",
+     "label": "Disclosure Project witness cohort (68 testimonies, 2000 to 2001)"
+    },
+    {
+     "id": "disclosure-project-briefing-2001",
+     "label": "Disclosure Project Briefing Document, April 2001"
+    }
+   ],
+   "id": "e-07d1e7982f",
+   "kind": "edge",
+   "label": "The cohort is defined by section 3.8 of the document",
+   "sources": [
+    {
+     "date": "2001-04",
+     "name": "Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session",
+     "url": "https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt"
+    }
+   ],
+   "text": "Sixty-eight dated testimony headings across five subsections. The set node exists so that the fifty-seven unchecked witnesses do not each become a single-claim person node.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-1940ba1e29": {
+   "endpoints": [
+    {
+     "id": "robert-jacobs",
+     "label": "Robert M. Jacobs"
+    },
+    {
+     "id": "disclosure-project-briefing-2001",
+     "label": "Disclosure Project Briefing Document, April 2001"
+    }
+   ],
+   "id": "e-1940ba1e29",
+   "kind": "edge",
+   "label": "Testimony at section 3.8.3, dated November 2000",
+   "sources": [
+    {
+     "date": "2001-04",
+     "name": "Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session",
+     "url": "https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt"
+    }
+   ],
+   "text": "TIER 1 FOR THE FACT OF THE TESTIMONY AND ITS DATE ONLY. This is the LAST and WEAKEST anchor for this witness; his own 1989 publication is the one the board should cite.",
+   "tier": 1,
+   "type": "witness-chain"
+  },
+  "e-25eafe7c71": {
+   "endpoints": [
+    {
+     "id": "philip-j-klass",
+     "label": "Philip J. Klass"
+    },
+    {
+     "id": "disclosure-project",
+     "label": "The Disclosure Project"
+    }
+   ],
+   "id": "e-25eafe7c71",
+   "kind": "edge",
+   "label": "Dated published critique of the Project by name, Summer 2001",
+   "sources": [
+    {
+     "date": "2001",
+     "name": "Philip J. Klass, Skeptics UFO Newsletter (SUN) #68, Summer 2001, 'Dr. Greer's Disclosure Conference Reveals His New Strategy'; PDF downloaded and converted to text in full this session",
+     "url": "https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2022/09/26195512/SUN-68-Summer-2001.pdf"
+    }
+   ],
+   "text": "Skeptics UFO Newsletter #68, written within weeks of the press conference. Klass declares his own limitation in the same issue: he was refused admission and his account of the event rests on the Project's press releases, its book and broadcast footage. That limitation applies to his reporting of the event and not to the service record he obtained himself.",
+   "tier": 1,
+   "type": "denial"
+  },
+  "e-26a4782550": {
+   "endpoints": [
+    {
+     "id": "mark-mccandlish",
+     "label": "Mark McCandlish"
+    },
+    {
+     "id": "steven-greer",
+     "label": "Steven M. Greer"
+    }
+   ],
+   "id": "e-26a4782550",
+   "kind": "edge",
+   "label": "Witness to Greer's compilation; Greer writes the editorial notes around his testimony",
+   "sources": [
+    {
+     "date": "2001-04",
+     "name": "Disclosure Project Briefing Document, section 3.8.5",
+     "url": "https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt"
+    }
+   ],
+   "text": "Greer is the Briefing Document's named compiler and writes the bracketed editorial notes, signed 'SG', that cross-reference the McCandlish testimony to the Lt Col John Williams testimony on Norton AFB.",
+   "tier": 1,
+   "type": "witness-chain"
+  },
+  "e-26e60f2029": {
+   "endpoints": [
+    {
+     "id": "disclosure-project-briefing-2001",
+     "label": "Disclosure Project Briefing Document, April 2001"
+    },
+    {
+     "id": "steven-greer",
+     "label": "Steven M. Greer"
+    }
+   ],
+   "id": "e-26e60f2029",
+   "kind": "edge",
+   "label": "Written and compiled by Greer, who also conducted every interview in it",
+   "sources": [
+    {
+     "date": "2001-04",
+     "name": "Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session",
+     "url": "https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt"
+    }
+   ],
+   "text": "AUTHORSHIP, TYPED research. Title page: 'Written and Compiled by: Steven M. Greer, M.D., Director and Theodore C. Loder III, Ph.D.' He is also the interviewer in every transcript, printed as 'SG', and his editorial interjections appear inside the witness text marked 'SG]'. This edge is the structural reason the document caps at Tier 2 for content.",
+   "tier": 1,
+   "type": "research"
+  },
+  "e-3042ddef5b": {
+   "endpoints": [
+    {
+     "id": "mark-mccandlish",
+     "label": "Mark McCandlish"
+    },
+    {
+     "id": "disclosure-project",
+     "label": "The Disclosure Project"
+    }
+   ],
+   "id": "e-3042ddef5b",
+   "kind": "edge",
+   "label": "Disclosure Project witness, testimony taken December 2000",
+   "sources": [
+    {
+     "date": "2001-04",
+     "name": "Disclosure Project Briefing Document, section 3.8.5",
+     "url": "https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt"
+    }
+   ],
+   "text": "His December 2000 testimony is printed in the project's own April 2001 Briefing Document at section 3.8.5, under the heading 'Testimony of Mr. Mark McCandlish, US Air Force / December 2000'.",
+   "tier": 1,
+   "type": "witness-chain"
+  },
+  "e-441c880888": {
+   "endpoints": [
+    {
+     "id": "disclosure-project-briefing-2001",
+     "label": "Disclosure Project Briefing Document, April 2001"
+    },
+    {
+     "id": "disclosure-project",
+     "label": "The Disclosure Project"
+    }
+   ],
+   "id": "e-441c880888",
+   "kind": "edge",
+   "label": "The Project's own compiled briefing document, April 2001",
+   "sources": [
+    {
+     "date": "2001-04",
+     "name": "Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session",
+     "url": "https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt"
+    }
+   ],
+   "text": "PRODUCER RELATION, TYPED research AND NOT custody. The document is the Project's own publication, named as such on its title page. It is typed research because producing a document is an authorship relation, and because custody is weighted x3.0 as a programme edge on this board and an organisation must not be inflated by an edge to the document it published about itself.",
+   "tier": 1,
+   "type": "research"
+  },
+  "e-50bccd2233": {
+   "endpoints": [
+    {
+     "id": "kevin-randle",
+     "label": "Kevin D. Randle"
+    },
+    {
+     "id": "clifford-stone",
+     "label": "Clifford E. Stone"
+    }
+   ],
+   "id": "e-50bccd2233",
+   "kind": "edge",
+   "label": "Thirty-year acquaintance who records the same discrepancies from the record",
+   "sources": [
+    {
+     "date": "2021-02-14",
+     "name": "Kevin D. Randle, 'Cliff Stone Has Died', A Different Perspective",
+     "url": "https://kevinrandle.blogspot.com/2021/02/cliff-stone-has-died.html"
+    }
+   ],
+   "text": "A SECOND METHOD, NOT A SECOND AGENT SHARING ONE. Randle met Stone in February 1989 and visited his home many times; he is a retired Air Force officer who argues for the reality of other cases. Four claimed Vietnam tours against a record of thirty-seven months overseas, and nothing supporting the account of hunting the enemy at night.",
+   "tier": 2,
+   "type": "denial"
+  },
+  "e-582c0fbf97": {
+   "endpoints": [
+    {
+     "id": "john-callahan",
+     "label": "John Callahan"
+    },
+    {
+     "id": "national-press-club-2001",
+     "label": "Disclosure Project press conference, National Press Club, 9 May 2001"
+    }
+   ],
+   "id": "e-582c0fbf97",
+   "kind": "edge",
+   "label": "Spoke at the podium, 9 May 2001",
+   "sources": [
+    {
+     "date": "2001",
+     "name": "Philip J. Klass, Skeptics UFO Newsletter (SUN) #68, Summer 2001, 'Dr. Greer's Disclosure Conference Reveals His New Strategy'; PDF downloaded and converted to text in full this session",
+     "url": "https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2022/09/26195512/SUN-68-Summer-2001.pdf"
+    }
+   ],
+   "text": "One of only five people an opened source places at that podium, and the attestation is from a hostile contemporaneous newsletter rather than from the organiser.",
+   "tier": 2,
+   "type": "witness-chain"
+  },
+  "e-62984dacf5": {
+   "endpoints": [
+    {
+     "id": "philip-j-klass",
+     "label": "Philip J. Klass"
+    },
+    {
+     "id": "clifford-stone",
+     "label": "Clifford E. Stone"
+    }
+   ],
+   "id": "e-62984dacf5",
+   "kind": "edge",
+   "label": "Obtained his service record from the National Personnel Records Center and printed it against the claim",
+   "sources": [
+    {
+     "date": "2001",
+     "name": "Philip J. Klass, Skeptics UFO Newsletter (SUN) #68, Summer 2001, 'Dr. Greer's Disclosure Conference Reveals His New Strategy'; PDF downloaded and converted to text in full this session",
+     "url": "https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2022/09/26195512/SUN-68-Summer-2001.pdf"
+    }
+   ],
+   "text": "TIER 1 DESPITE BOTH ENDS BEING INTERESTED PARTIES, because the claim carried by this edge is that Klass requested and published a federal service record, which is a fact about an act of research and not a domain-to-domain inference. The record shows clerk/typist, administration specialist, detachment sergeant and chief administrative clerk; Klass also records Stone's 23 December 1983 FOIA request to the USAF about Bentwaters, sent from his home address without identifying him as a serving sergeant.",
+   "tier": 1,
+   "type": "denial"
+  },
+  "e-6788add8c2": {
+   "endpoints": [
+    {
+     "id": "larry-warren",
+     "label": "Larry Warren"
+    },
+    {
+     "id": "disclosure-project-briefing-2001",
+     "label": "Disclosure Project Briefing Document, April 2001"
+    }
+   ],
+   "id": "e-6788add8c2",
+   "kind": "edge",
+   "label": "Testimony at section 3.8.4, dated September 2000",
+   "sources": [
+    {
+     "date": "2001-04",
+     "name": "Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session",
+     "url": "https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt"
+    }
+   ],
+   "text": "TIER 1 FOR THE FACT OF THE TESTIMONY AND ITS DATE ONLY. Heading as printed: 'Testimony of Security Officer Larry Warren, United States Air Force / September 2000'.",
+   "tier": 1,
+   "type": "witness-chain"
+  },
+  "e-7854589977": {
+   "endpoints": [
+    {
+     "id": "national-press-club-2001",
+     "label": "Disclosure Project press conference, National Press Club, 9 May 2001"
+    },
+    {
+     "id": "disclosure-project-briefing-2001",
+     "label": "Disclosure Project Briefing Document, April 2001"
+    }
+   ],
+   "id": "e-7854589977",
+   "kind": "edge",
+   "label": "Document April 2001; press conference 9 May 2001; different and largely unknown rosters",
+   "sources": [
+    {
+     "date": "2001-04",
+     "name": "Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session",
+     "url": "https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt"
+    },
+    {
+     "date": "2001",
+     "name": "Philip J. Klass, Skeptics UFO Newsletter (SUN) #68, Summer 2001, 'Dr. Greer's Disclosure Conference Reveals His New Strategy'; PDF downloaded and converted to text in full this session",
+     "url": "https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2022/09/26195512/SUN-68-Summer-2001.pdf"
+    }
+   ],
+   "text": "THE DOCUMENT PRECEDES THE EVENT BY ABOUT A MONTH AND THE TWO ROSTERS ARE NOT THE SAME SET. The document prints 68 testimonies; the book published alongside contains 69 transcripts; 20 people spoke at the conference and no opened source lists which 20. This edge exists to stop the inference that a printed testimony implies a podium appearance.",
+   "tier": 1,
+   "type": "temporal"
+  },
+  "e-7f0c7548ae": {
+   "endpoints": [
+    {
+     "id": "clifford-stone",
+     "label": "Clifford E. Stone"
+    },
+    {
+     "id": "disclosure-project-briefing-2001",
+     "label": "Disclosure Project Briefing Document, April 2001"
+    }
+   ],
+   "id": "e-7f0c7548ae",
+   "kind": "edge",
+   "label": "Testimony at section 3.8.4, dated September 2000",
+   "sources": [
+    {
+     "date": "2001-04",
+     "name": "Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session",
+     "url": "https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt"
+    }
+   ],
+   "text": "TIER 1 FOR THE FACT OF THE TESTIMONY AND ITS DATE ONLY. Heading as printed: 'Testimony of Sergeant Clifford Stone, United States Army / September 2000'.",
+   "tier": 1,
+   "type": "witness-chain"
+  },
+  "e-86199651c0": {
+   "endpoints": [
+    {
+     "id": "michael-herrera",
+     "label": "Michael Herrera"
+    },
+    {
+     "id": "steven-greer",
+     "label": "Steven M. Greer"
+    }
+   ],
+   "id": "e-86199651c0",
+   "kind": "edge",
+   "label": "Named on the record as the custodian who supplied the written testimony",
+   "sources": [
+    {
+     "date": "2025-09-09",
+     "name": "Serial CHRG-119hhrg61718, printed record of 9 September 2025",
+     "url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm"
+    }
+   ],
+   "text": "Custody of the DOCUMENT, not of material. Burlison said on the record that the testimony 'was given to me by Dr. Steven Greer'.",
+   "tier": 1,
+   "type": "custody"
+  },
+  "e-988cac308a": {
+   "endpoints": [
+    {
+     "id": "steven-greer",
+     "label": "Steven M. Greer"
+    },
+    {
+     "id": "national-press-club-2001",
+     "label": "Disclosure Project press conference, National Press Club, 9 May 2001"
+    }
+   ],
+   "id": "e-988cac308a",
+   "kind": "edge",
+   "label": "Organiser of the event",
+   "sources": [
+    {
+     "date": "2001-05-09",
+     "name": "ABC News, 'Group Calls for Disclosure of UFO Info', 9 May 2001, 2:35 PM",
+     "url": "https://abcnews.com/Technology/story?id=98572&page=1"
+    }
+   ],
+   "text": "ABC News, on the day: Greer 'organized the program at the National Press Club in Washington'.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-9cd99bcbaf": {
+   "endpoints": [
+    {
+     "id": "clifford-stone",
+     "label": "Clifford E. Stone"
+    },
+    {
+     "id": "national-press-club-2001",
+     "label": "Disclosure Project press conference, National Press Club, 9 May 2001"
+    }
+   ],
+   "id": "e-9cd99bcbaf",
+   "kind": "edge",
+   "label": "Shown at the podium by Fox News Channel, 9 May 2001",
+   "sources": [
+    {
+     "date": "2001",
+     "name": "Philip J. Klass, Skeptics UFO Newsletter (SUN) #68, Summer 2001, 'Dr. Greer's Disclosure Conference Reveals His New Strategy'; PDF downloaded and converted to text in full this session",
+     "url": "https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2022/09/26195512/SUN-68-Summer-2001.pdf"
+    }
+   ],
+   "text": "Klass: 'Fox News Channel showed Stone at the May press conference saying, I was involved in situations where we actually did recoveries of crashed saucers...and the debris thereof.' A broadcast attestation independent of the organiser.",
+   "tier": 2,
+   "type": "witness-chain"
+  },
+  "e-a387ccf61b": {
+   "endpoints": [
+    {
+     "id": "steven-greer",
+     "label": "Steven M. Greer"
+    },
+    {
+     "id": "john-podesta",
+     "label": "John D. Podesta"
+    }
+   ],
+   "id": "e-a387ccf61b",
+   "kind": "edge",
+   "label": "Greer's CSETI submissions form the majority of the Clinton White House UFO file",
+   "sources": [
+    {
+     "date": "2019-09-16",
+     "name": "Clinton Digital Library, FOIA collection 2006-0474-F, 'Unidentified Flying Objects (UFO)' (Greer/CSETI correspondence)",
+     "url": "https://clinton.presidentiallibraries.us/items/show/36386"
+    }
+   ],
+   "text": "Clinton FOIA collection 2006-0474-F consists in the majority of documents sent to the White House by Greer - the material reached the building and was filed as correspondence.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-a569f5ad14": {
+   "endpoints": [
+    {
+     "id": "mark-mccandlish",
+     "label": "Mark McCandlish"
+    },
+    {
+     "id": "disclosure-project-briefing-2001",
+     "label": "Disclosure Project Briefing Document, April 2001"
+    }
+   ],
+   "id": "e-a569f5ad14",
+   "kind": "edge",
+   "label": "Testimony at section 3.8.5, dated December 2000",
+   "sources": [
+    {
+     "date": "2001-04",
+     "name": "Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session",
+     "url": "https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt"
+    }
+   ],
+   "text": "TIER 1 FOR THE FACT OF THE TESTIMONY AND ITS DATE ONLY, which is the form the existing node already uses. NOTHING OPENED PLACES HIM AT THE 9 MAY 2001 PODIUM, and this edge must never be read as implying it.",
+   "tier": 1,
+   "type": "witness-chain"
+  },
+  "e-b27b0e0584": {
+   "endpoints": [
+    {
+     "id": "john-podesta",
+     "label": "John D. Podesta"
+    },
+    {
+     "id": "disclosure-project",
+     "label": "The Disclosure Project"
+    }
+   ],
+   "id": "e-b27b0e0584",
+   "kind": "edge",
+   "label": "Podesta's 2002 declassification call followed the Disclosure Project's 2001 press conference",
+   "sources": [
+    {
+     "date": "2019-09-16",
+     "name": "Clinton Digital Library, FOIA collection 2006-0474-F, 'Unidentified Flying Objects (UFO)' (Greer/CSETI correspondence)",
+     "url": "https://clinton.presidentiallibraries.us/items/show/36386"
+    }
+   ],
+   "text": "Podesta appeared for the Coalition for Freedom of Information at the National Press Club on 22 October 2002, seventeen months after Greer's event in the same venue.",
+   "tier": 2,
+   "type": "behavioral"
+  },
+  "e-b6d879af4b": {
+   "endpoints": [
+    {
+     "id": "john-callahan",
+     "label": "John Callahan"
+    },
+    {
+     "id": "disclosure-project-briefing-2001",
+     "label": "Disclosure Project Briefing Document, April 2001"
+    }
+   ],
+   "id": "e-b6d879af4b",
+   "kind": "edge",
+   "label": "Testimony at section 3.8.2, dated October 2000",
+   "sources": [
+    {
+     "date": "2001-04",
+     "name": "Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session",
+     "url": "https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt"
+    }
+   ],
+   "text": "TIER 1 FOR THE FACT OF THE TESTIMONY AND ITS DATE ONLY, per the rule stated on the document node. Heading as printed: 'Testimony of FAA Division Chief John Callahan / October 2000'.",
+   "tier": 1,
+   "type": "witness-chain"
+  },
+  "e-ce4ab35e03": {
+   "endpoints": [
+    {
+     "id": "daniel-sheehan",
+     "label": "Daniel P. Sheehan"
+    },
+    {
+     "id": "national-press-club-2001",
+     "label": "Disclosure Project press conference, National Press Club, 9 May 2001"
+    }
+   ],
+   "id": "e-ce4ab35e03",
+   "kind": "edge",
+   "label": "Counsel to the Project, at the podium on 9 May 2001",
+   "sources": [
+    {
+     "date": "2001-05-09",
+     "name": "ABC News, 'Group Calls for Disclosure of UFO Info', 9 May 2001, 2:35 PM",
+     "url": "https://abcnews.com/Technology/story?id=98572&page=1"
+    },
+    {
+     "date": "2001",
+     "name": "Philip J. Klass, Skeptics UFO Newsletter (SUN) #68, Summer 2001, 'Dr. Greer's Disclosure Conference Reveals His New Strategy'; PDF downloaded and converted to text in full this session",
+     "url": "https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2022/09/26195512/SUN-68-Summer-2001.pdf"
+    }
+   ],
+   "text": "ABC News names him on the day; Klass records his function as counsel to defend witnesses who might be charged with violating security oaths.",
+   "tier": 2,
+   "type": "witness-chain"
+  },
+  "e-ea7dc5a78f": {
+   "endpoints": [
+    {
+     "id": "cseti",
+     "label": "CSETI / The Disclosure Project"
+    },
+    {
+     "id": "cia",
+     "label": "Central Intelligence Agency"
+    }
+   ],
+   "id": "e-ea7dc5a78f",
+   "kind": "edge",
+   "label": "Claimed 1993 UFO briefing of sitting CIA Director Woolsey (disputed)",
+   "sources": [
+    {
+     "date": null,
+     "name": "https://drstevengreer.com/document/dr-greers-response-to-former-cia-director-woolseys-denial-of-meeting-1999/",
+     "url": "https://drstevengreer.com/document/dr-greers-response-to-former-cia-director-woolseys-denial-of-meeting-1999/"
+    },
+    {
+     "date": null,
+     "name": "https://drstevengreer.com/wp-content/uploads/2013/03/1999-Woolsey-Petersen-letter.pdf",
+     "url": "https://drstevengreer.com/wp-content/uploads/2013/03/1999-Woolsey-Petersen-letter.pdf"
+    }
+   ],
+   "text": "CSETI founder Steven Greer says he briefed sitting CIA Director R. James Woolsey on UFOs on 13 December 1993 at a dinner in Arlington arranged by John Petersen, and quotes a Petersen memo referring to sabotage of 'Project Starlight', the CSETI disclosure effort. Woolsey and the other attendees disputed this characterisation in a signed 16 September 1999 letter, saying it was a dinner party and that Greer's published account was distorted. Both accounts are on the record; the relationship is contested.",
+   "tier": 3,
+   "type": "institutional"
+  },
+  "e-f0ce72fa85": {
+   "endpoints": [
+    {
+     "id": "disclosure-project-witness-set",
+     "label": "Disclosure Project witness cohort (68 testimonies, 2000 to 2001)"
+    },
+    {
+     "id": "nasa",
+     "label": "National Aeronautics and Space Administration"
+    }
+   ],
+   "id": "e-f0ce72fa85",
+   "kind": "edge",
+   "label": "Carries the Wolfe and Hare claims about NASA imagery, against NASA's own records",
+   "sources": [
+    {
+     "date": "2001-04",
+     "name": "Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session",
+     "url": "https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt"
+    },
+    {
+     "date": "2026-09-19",
+     "name": "NASA NSSDCA master catalogue, spacecraft record for Lunar Orbiter 1 (1966-073A)",
+     "url": "https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1966-073A"
+    },
+    {
+     "date": "2026-09-19",
+     "name": "Ford Motor Company corporate history, 'Ford, Philco and the Mission Control Center'",
+     "url": "https://corporate.ford.com/articles/history/ford-philco-and-the-mission-control-center.html"
+    }
+   ],
+   "text": "Wolfe's Lunar Orbiter account runs against the NSSDCA record that the programme was managed by NASA Langley Research Center. Hare's employer, Philco-Ford, is a documented NASA Manned Spacecraft Center contractor per Ford's own corporate history, while her employment is documented nowhere.",
+   "tier": 2,
+   "type": "witness-chain"
+  }
+ },
+ "claimed": [
+  {
+   "cite": [
+    "c-6f8abecb2f",
+    "c-9a6abbd457",
+    "c-406af5d95f"
+   ],
+   "text": "At the press conference Greer claimed some 400 witnesses with first-hand experience who were willing to testify before Congress, and the Project called for hearings with subpoena power and amnesty for witnesses."
+  },
+  {
+   "cite": [
+    "c-6525879f6e",
+    "c-3fb5052fea",
+    "c-f1309e7d6f",
+    "e-9cd99bcbaf"
+   ],
+   "text": "The Briefing Document's editorial header for Stone says he saw living and dead extraterrestrials on an Army team that retrieved crashed craft; in his own printed words he trained at an NBC school and served as an NBC non-commissioned officer in the 96th Civil Affairs Company. Fox News showed him at the May press conference saying he had been involved in recoveries of crashed saucers."
+  },
+  {
+   "cite": [
+    "c-6fc2a258e8",
+    "c-02fb486473",
+    "c-dd6aabf23d",
+    "e-ce4ab35e03"
+   ],
+   "text": "Daniel Sheehan served as the Project's counsel, to defend any witnesses who might be charged with breaking their security oaths, and told the press conference he had been shown UFO photographs bearing alien writing symbols in the National Archives during the Carter administration, which he traced onto a legal pad; no document was produced."
+  },
+  {
+   "cite": [
+    "c-d726ea4ed0",
+    "e-582c0fbf97",
+    "c-4b66311495"
+   ],
+   "text": "Callahan described the JAL incident at the conference, one of only five people an opened source places at that podium; the others are Stone, George Filer, Sheehan and Alfred Webre."
+  },
+  {
+   "cite": [
+    "c-1528ba0a67",
+    "c-d28b7cb659",
+    "c-565c323935",
+    "c-4bdea41cf3",
+    "c-40d19f4b35"
+   ],
+   "text": "Other cohort testimonies: Karl Wolfe says that at an NSA facility on Langley AFB he was shown Lunar Orbiter photographs of the moon; Donna Hare, who says she worked in NASA's Building 8 for the contractor Philco Ford in 1970 and 1971, says a technician told her such things were always airbrushed out before images were released to the public; Don Phillips describes a 1966 or 1967 sighting at a classified radar site; and John Weygandt's testimony gives his Marine Corps service in detail. Hare's further accounts are relayed at second and third hand."
+  },
+  {
+   "cite": [
+    "c-e3fdfdbb0f",
+    "c-1f00f710e6",
+    "e-3042ddef5b"
+   ],
+   "text": "McCandlish, who describes himself as a conceptual artist for defence contractors, is the source in print of the names Alien Reproduction Vehicle and Flux Liner."
+  },
+  {
+   "cite": [
+    "c-33f4f4b762",
+    "c-a3b77d59e9",
+    "c-2a308907d7"
+   ],
+   "text": "Warren's printed testimony places him with the 81st Tactical Fighter Wing at Bentwaters in December 1980, with his PRP clearance approved on 11 December. Stone told the Project that an Army team took him to Bentwaters in late December 1980."
+  },
+  {
+   "cite": [
+    "c-9e01a79d2d",
+    "e-1940ba1e29"
+   ],
+   "text": "How the claims reached us: for Jacobs the Briefing Document is the last and weakest anchor, because he had published under his own name in 1982 and 1989 before any interviewer sought him out."
+  },
+  {
+   "cite": [
+    "e-ea7dc5a78f"
+   ],
+   "text": "Greer says he briefed the sitting CIA Director, R. James Woolsey, on UFOs at a dinner in December 1993."
+  },
+  {
+   "cite": [
+    "c-470fbcf707",
+    "e-b27b0e0584",
+    "c-c8cdb583da"
+   ],
+   "text": "John Podesta called publicly for declassification of UFO records at a National Press Club event organised by the Coalition for Freedom of Information in October 2002, seventeen months after Greer's event, and said on leaving the White House in 2015 that his biggest failure of the year was once again not securing the disclosure of the UFO files."
+  },
+  {
+   "cite": [
+    "c-b3e4e88a17",
+    "c-219874836b",
+    "c-6a6c839abd"
+   ],
+   "text": "Herrera's own account is on a dated recording, a podcast episode of July 2023. AARO's historical report summarises an anonymous former service member's claim of seeing Special Forces load containers onto a craft in 2009; the board infers, without any record making the link, that this is Herrera."
+  }
+ ],
+ "contested": [
+  {
+   "cite": [
+    "c-49bd4c0e50",
+    "c-f7872eb603"
+   ],
+   "text": "Corroboration inside the document is the compiler's own: Greer's notes tie his witnesses to each other, and the header saying Warren is corroborated by Nick Pope, Lord Hill-Norton and Clifford Stone cites two witnesses from the same document, one of them Stone."
+  },
+  {
+   "cite": [
+    "c-e38c69fd2e",
+    "c-e1123776ff",
+    "e-7854589977"
+   ],
+   "text": "A printed testimony is not a podium appearance. No opened source lists the twenty speakers, and nothing places Wolfe, Hare, Jacobs, Warren, Weygandt, Phillips or McCandlish at the 9 May 2001 podium."
+  },
+  {
+   "cite": [
+    "c-e607761c85",
+    "c-738d47d8f8",
+    "c-17de04ef24",
+    "c-02c72aab61",
+    "e-50bccd2233",
+    "c-46339040b1"
+   ],
+   "text": "Stone's service record, as Klass prints it from the National Personnel Records Center, runs clerk/typist, administration specialist, detachment sergeant and chief administrative clerk, with nothing supporting a recovery team; Stone himself filed a FOIA request about Bentwaters in December 1983 from his home address, without identifying himself as a serving sergeant. Kevin Randle, a thirty-year acquaintance working by a different method, records the same kind of discrepancies."
+  },
+  {
+   "cite": [
+    "c-b2567774ae",
+    "c-6020a4e213",
+    "c-578e51422a",
+    "e-f0ce72fa85"
+   ],
+   "text": "Wolfe's account places the imagery at Langley AFB, while NASA's catalogue says the programme was run from NASA Langley Research Center, a separate civil installation; his obituary mentions no Air Force service. The board declines the usual chronology objection, since the Briefing Document gives no year for his episode."
+  },
+  {
+   "cite": [
+    "c-252174150d",
+    "c-bf81bbba25"
+   ],
+   "text": "For Phillips nothing independent was found at all, and for Hare the employer is documented but her employment is not."
+  },
+  {
+   "cite": [
+    "c-9b68b6da7b",
+    "c-73cc187f20",
+    "c-aaa53a7b22"
+   ],
+   "text": "Warren's co-author repudiated their book in June 2017, alleging fabricated and altered documents, and the publisher suspended distribution in October 2017; the co-author still accepts as authentic Warren's January 1981 letter to his mother."
+  },
+  {
+   "cite": [
+    "e-ea7dc5a78f"
+   ],
+   "text": "Woolsey and the other attendees disputed Greer's account of the 1993 dinner in a signed letter of September 1999, calling it a dinner party and his published account distorted."
+  },
+  {
+   "cite": [
+    "c-d685c19678",
+    "c-f49fc56b50"
+   ],
+   "text": "Klass published a dated critique of the Project by name in Summer 2001 and recorded that Greer controlled admission to his events."
+  },
+  {
+   "cite": [
+    "c-fe7bf59747",
+    "c-34e28a9688"
+   ],
+   "text": "The promotional claim that Herrera is testifying to Congress is not supported by any opened record; he has never been a hearing witness."
+  }
+ ],
  "essays": [],
  "focusEra": "2",
  "id": "disclosure-project-2001",
  "kind": "movement",
- "lead": null,
- "members": [],
+ "lead": {
+  "cite": [
+   "c-68242b2489",
+   "c-bd6e505d2e",
+   "c-afeee5cd4d",
+   "e-26e60f2029",
+   "c-38a2d16a4b"
+  ],
+  "text": "The Disclosure Project, which by published accounts Steven Greer founded in 1993, published a Briefing Document in April 2001 printing sixty-eight witness testimonies, with Greer himself the interviewer in every transcript, and on 9 May 2001 put about twenty former government workers before the press at the National Press Club."
+ },
+ "members": [
+  {
+   "cls": "program",
+   "id": "disclosure-project",
+   "label": "The Disclosure Project",
+   "role": "subject"
+  },
+  {
+   "cls": "document",
+   "id": "disclosure-project-briefing-2001",
+   "label": "Disclosure Project Briefing Document, April 2001",
+   "role": "document"
+  },
+  {
+   "cls": "institution",
+   "id": "disclosure-project-witness-set",
+   "label": "Disclosure Project witness cohort (68 testimonies, 2000 to 2001)",
+   "role": "institution"
+  },
+  {
+   "cls": "event",
+   "id": "national-press-club-2001",
+   "label": "Disclosure Project press conference, National Press Club, 9 May 2001",
+   "role": "event"
+  },
+  {
+   "cls": "person",
+   "id": "steven-greer",
+   "label": "Steven M. Greer",
+   "role": "investigator"
+  },
+  {
+   "cls": "institution",
+   "id": "cseti",
+   "label": "CSETI / The Disclosure Project",
+   "role": "institution"
+  },
+  {
+   "cls": "person",
+   "id": "daniel-sheehan",
+   "label": "Daniel P. Sheehan",
+   "role": "witness"
+  },
+  {
+   "cls": "person",
+   "id": "clifford-stone",
+   "label": "Clifford E. Stone",
+   "role": "witness"
+  },
+  {
+   "cls": "person",
+   "id": "john-callahan",
+   "label": "John Callahan",
+   "role": "witness"
+  },
+  {
+   "cls": "person",
+   "id": "mark-mccandlish",
+   "label": "Mark McCandlish",
+   "role": "claimant"
+  },
+  {
+   "cls": "person",
+   "id": "robert-jacobs",
+   "label": "Robert M. Jacobs",
+   "role": "witness"
+  },
+  {
+   "cls": "person",
+   "id": "larry-warren",
+   "label": "Larry Warren",
+   "role": "witness"
+  },
+  {
+   "cls": "person",
+   "id": "michael-herrera",
+   "label": "Michael Herrera",
+   "role": "witness"
+  },
+  {
+   "cls": "person",
+   "id": "philip-j-klass",
+   "label": "Philip J. Klass",
+   "role": "critic"
+  },
+  {
+   "cls": "person",
+   "id": "kevin-randle",
+   "label": "Kevin D. Randle",
+   "role": "critic"
+  },
+  {
+   "cls": "person",
+   "id": "john-podesta",
+   "label": "John D. Podesta",
+   "role": "official"
+  },
+  {
+   "cls": "institution",
+   "id": "nasa",
+   "label": "National Aeronautics and Space Administration",
+   "role": "institution"
+  },
+  {
+   "cls": "institution",
+   "id": "cia",
+   "label": "Central Intelligence Agency",
+   "role": "institution"
+  },
+  {
+   "cls": "event",
+   "id": "rendlesham-1980",
+   "label": "Rendlesham Forest Incident, RAF Woodbridge/Bentwaters",
+   "role": "event"
+  }
+ ],
  "notes": "Canon pass 4. The sixty-eight testimonies were collected by one interviewer who cross-references his own witnesses; that single-interviewer provenance is part of the topic.",
- "questions": [],
- "record": [],
- "related": [],
+ "questions": [
+  "Who were the twenty people who spoke at the 9 May 2001 press conference?",
+  "For each of the fifty-seven unchecked testimonies, does any independent record, a service file, an employer's record or a contemporaneous report, place the witness where the testimony puts them?",
+  "How did Greer find each witness, and what had each said in public before he interviewed them?",
+  "Where do the Briefing Document versions of the testimonies differ from the versions in Greer's book?",
+  "Does Clifford Stone's National Personnel Records Center file, opened directly, match the assignments Klass printed?",
+  "Did the four hundred witnesses Greer claimed ever exist as a catalogued archive?",
+  "Did Michael Herrera give AARO the interview its report summarises on page 29?"
+ ],
+ "record": [
+  {
+   "cite": [
+    "c-73ee030dce",
+    "c-25184dd84c",
+    "e-441c880888"
+   ],
+   "text": "The Briefing Document's title page names it as prepared for the press, the US government and the scientific community, written and compiled by Steven M. Greer, M.D., Director, and Theodore C. Loder III, Ph.D., and dated April 2001."
+  },
+  {
+   "cite": [
+    "c-bd6e505d2e",
+    "c-fcaa35d261",
+    "c-6e3b4f2241",
+    "e-07d1e7982f"
+   ],
+   "text": "Its section 3.8 prints sixty-eight dated testimony headings in five subsections, from radar and pilot cases to government insiders and technology. Sixty-five are dated between July 2000 and March 2001; Edgar Mitchell's is dated May 1998 and Vasily Alexeyev's March 1997; Gordon Cooper's, Denise McKenzie's and Phillip J. Corso's carry no date."
+  },
+  {
+   "cite": [
+    "c-afeee5cd4d",
+    "c-d6a7e252c5",
+    "c-49bd4c0e50",
+    "c-ab7b5078ae",
+    "e-26a4782550"
+   ],
+   "text": "Every testimony carries an initials key naming Greer as interviewer, and his editorial comments are printed inside the witness text. In one bracketed note he writes that Mark McCandlish's testimony establishes that a UFO was stored at Norton AFB, beside a separate testimony from Lt Col John Williams saying he was never allowed in that area of the base, while adding that he could confirm the facility existed because he was responsible for the base's facilities in 1981-82."
+  },
+  {
+   "cite": [
+    "e-b6d879af4b",
+    "e-7f0c7548ae",
+    "e-6788add8c2",
+    "e-1940ba1e29",
+    "e-a569f5ad14"
+   ],
+   "text": "Among the dated headings: John Callahan, October 2000; Clifford Stone, September 2000; Larry Warren, September 2000; Robert Jacobs, November 2000; Mark McCandlish, December 2000. Each is a record that the testimony was given under that heading and date, and of nothing more."
+  },
+  {
+   "cite": [
+    "c-38a2d16a4b",
+    "e-988cac308a",
+    "c-659d5cbd80",
+    "c-ba7ff7f5e3",
+    "c-777302b447",
+    "e-7854589977"
+   ],
+   "text": "ABC News reported on 9 May 2001 that Greer organised the event at the National Press Club at which about 20 former government workers came forward. Philip Klass wrote within weeks that its stated aim was to prompt a congressional hearing, and that Greer's book held transcripts of 69 witnesses, 20 of whom spoke briefly."
+  },
+  {
+   "cite": [
+    "c-c0a6b6873f",
+    "c-e3f3bfbe1b",
+    "e-25eafe7c71"
+   ],
+   "text": "Klass did not attend: he says Greer had refused him admission to a similar event in 1997, so Klass's account of the conference rests largely on Greer's press releases and his 573-page book, though the records Klass obtained himself do not."
+  },
+  {
+   "cite": [
+    "c-8b9dfccdc0",
+    "c-4d7b35acd7",
+    "c-4d16aacec1",
+    "e-a387ccf61b"
+   ],
+   "text": "The Clinton Presidential Library's UFO FOIA collection 2006-0474-F consists mostly of documents sent to the White House by Greer as head of CSETI; the Clinton White House's UFO collections are external correspondence, not intelligence programme records."
+  },
+  {
+   "cite": [
+    "c-62c7f116b4",
+    "c-34e28a9688",
+    "e-86199651c0"
+   ],
+   "text": "The printed record of the House Oversight task force hearing of 9 September 2025 shows Rep. Eric Burlison entering testimonies he said Greer had given him, including Michael Herrera's. It is not a witness appearance: Herrera is on no committee witness list, and his name occurs once across the three hearing records, in that colloquy."
+  },
+  {
+   "cite": [
+    "c-99fae7db06",
+    "c-8d9b549810",
+    "c-bf81bbba25"
+   ],
+   "text": "NASA's own catalogue states that the Lunar Orbiter programme was managed by NASA Langley Research Center, with Lunar Orbiter 1 photographing from 18 to 29 August 1966; and Ford's corporate history documents Philco-Ford as the contractor that bid for Mission Control at Houston in 1963."
+  }
+ ],
+ "related": [
+  "testimony-provenance",
+  "officials-on-record",
+  "aviation-cases",
+  "nuclear-missiles-1960s",
+  "rendlesham-1980",
+  "arv-fluxliner",
+  "crash-claims",
+  "civilian-groups",
+  "sceptics",
+  "task-force-2025"
+ ],
  "section": "encounters-witnesses",
  "span": {
   "from": "1993",
   "to": "2001"
  },
- "status": "draft",
- "summary": [],
+ "status": "verified",
+ "summary": [
+  {
+   "cite": [
+    "c-68242b2489",
+    "c-16514c0a3f",
+    "c-406af5d95f",
+    "c-fcaa35d261",
+    "c-3cafffd09c"
+   ],
+   "text": "By published accounts Greer founded CSETI in 1990 and the Disclosure Project in 1993; the Project sought congressional hearings and amnesty for government witnesses willing to break their security oaths, and its two products in 2001 were the Briefing Document and the press conference a month later."
+  },
+  {
+   "cite": [
+    "c-afeee5cd4d",
+    "c-49bd4c0e50",
+    "c-5ef959f163"
+   ],
+   "text": "One interviewer collected the whole cohort: Greer conducted the interviews, printed his own comments inside the witness text, and cross-referenced his witnesses to each other in bracketed notes. On the board's rule the document therefore fixes who gave testimony and when, and is Tier 2 at best for what the testimony says."
+  },
+  {
+   "cite": [
+    "c-28e57bb7b1",
+    "e-62984dacf5",
+    "c-9e01a79d2d",
+    "c-08814453b7"
+   ],
+   "text": "The board has checked eight of the sixty-eight against independent records, with mixed results: Clifford Stone's service record, as Philip Klass printed it, contradicts his account, Robert Jacobs had published his own years earlier, and John Callahan's case has a federal file that owes nothing to the Project."
+  },
+  {
+   "cite": [
+    "c-8b9dfccdc0",
+    "e-a387ccf61b",
+    "e-86199651c0"
+   ],
+   "text": "The Project's material travelled on: most of the Clinton White House UFO file consists of documents Greer sent it, and in 2025 a congressman entered into a hearing record testimonies he said Greer had given him."
+  }
+ ],
  "title": "The Disclosure Project, 2001"
 }

@@ -12,25 +12,1887 @@
   "compass-rose-legal-group"
  ],
  "appendixT": "whistleblower-channels",
- "cites": {},
- "claimed": [],
- "contested": [],
+ "cites": {
+  "c-1ce235583d": {
+   "id": "c-1ce235583d",
+   "kind": "claim",
+   "node": "eli-crane",
+   "nodeLabel": "Elijah Crane",
+   "source": {
+    "domain": null,
+    "text": "CHRG-119hhrg61718 INDEX OF DOCUMENTS",
+    "url": null
+   },
+   "text": "Submitted for the record of the 9 September 2025 hearing a 'Letter to SECDEF Regarding Major David Charles Grusch Reprisal', listed in the printed INDEX OF DOCUMENTS of CHRG-119hhrg61718.",
+   "tier": 1
+  },
+  "c-1eb7df41a9": {
+   "id": "c-1eb7df41a9",
+   "kind": "claim",
+   "node": "grusch-icig-complaint",
+   "nodeLabel": "Grusch PPD-19 Urgent Concern Complaint to the ICIG",
+   "source": {
+    "domain": null,
+    "text": "House Oversight hearing transcript, 26 July 2023",
+    "url": null
+   },
+   "text": "Grusch's unclassified description of the complaint's subject: 'Both material acquisition and exploitation activity, also baselining the UAPs but not sharing it with intelligence professionals that are actually doing step briefs to pilots.'",
+   "tier": 1
+  },
+  "c-22416ff2ca": {
+   "id": "c-22416ff2ca",
+   "kind": "claim",
+   "node": "dylan-borland",
+   "nodeLabel": "Dylan Borland",
+   "source": {
+    "domain": "mgln.ai",
+    "text": "American Alchemy with Jesse Michels, 'I Saw a Triangle Shaped UFO At a NASA Hangar!' -Dylan Borland Tells All, 5 August 2026, 1:58:28 https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL3402784095.mp3",
+    "url": "https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL3402784095.mp3"
+   },
+   "text": "On American Alchemy with Jesse Michels, 5 August 2026, Dylan Borland said that AARO sent him a Memorandum for Record of his interview that he told them was wrong, that AARO acknowledged the error in an email and asked him to write corrections, that he made and signed the corrections and kept his email confirming their receipt, and that when he went to ODNI on 10 September 2025 the version AARO had transmitted was not the corrected one: 'Arrow had sent over a false MFR, said that was the true one.' He says he retained the corrected document (1:58:28 to 1:59:26).",
+   "tier": 2
+  },
+  "c-23942641f5": {
+   "id": "c-23942641f5",
+   "kind": "claim",
+   "node": "grusch-icig-complaint",
+   "nodeLabel": "Grusch PPD-19 Urgent Concern Complaint to the ICIG",
+   "source": {
+    "domain": null,
+    "text": "Unclassified reprisal complaint reported by Liberation Times, 13 June 2023",
+    "url": null
+   },
+   "text": "The reprisal complaint alleges Grusch's identity and his DoD IG communications were disclosed to DoD and IC entities outside the IG's office.",
+   "tier": 2
+  },
+  "c-28dca8c57c": {
+   "id": "c-28dca8c57c",
+   "kind": "claim",
+   "node": "dod-oig",
+   "nodeLabel": "Department of Defense Office of Inspector General",
+   "source": {
+    "domain": null,
+    "text": "Inference from the classification status of DODIG-2023-109",
+    "url": null
+   },
+   "text": "A classified evaluation whose scope cannot be verified publicly cannot discharge the oversight function it appears to discharge; DODIG-2023-109 functions in the public record as an assurance rather than as evidence. Reasoning: the findings, the components reviewed and the SAP access obtained are all withheld.",
+   "tier": 3
+  },
+  "c-296bf88ea1": {
+   "id": "c-296bf88ea1",
+   "kind": "claim",
+   "node": "dodig-2023-109",
+   "nodeLabel": "DoD OIG - Evaluation of the DoD's Actions Regarding Unidentified Anomalous Phenomena (DODIG-2023-109)",
+   "source": {
+    "domain": "media.defense.gov",
+    "text": "https://media.defense.gov/2024/Jan/25/2003381266/-1/-1/1/UNCLASSIFIED%20SUMMARY_UNIDENTIFIED%20ANOMALOUS%20PHENOMENA%20SECURE.PDF",
+    "url": "https://media.defense.gov/2024/Jan/25/2003381266/-1/-1/1/UNCLASSIFIED%20SUMMARY_UNIDENTIFIED%20ANOMALOUS%20PHENOMENA%20SECURE.PDF"
+   },
+   "text": "Recommendation 1: 'We recommend that the Under Secretary of Defense for Intelligence and Security, in coordination with the All-domain Anomaly Resolution Office Director, issue a Department of Defense policy to integrate unidentified anomalous phenomena roles, responsibilities, requirements, and coordination procedures into existing intelligence, counterintelligence, and force protection policies and procedures. The policy should include methods to address unidentified anomalous phenomena incidents and should align with policies and procedures for the protection of United States persons' civil liberties.' USD(I&S) and the AARO Director agreed; the recommendation was left 'resolved but open'.",
+   "tier": 1
+  },
+  "c-36c8fed2da": {
+   "id": "c-36c8fed2da",
+   "kind": "claim",
+   "node": "dodig-2023-109",
+   "nodeLabel": "DoD OIG - Evaluation of the DoD's Actions Regarding Unidentified Anomalous Phenomena (DODIG-2023-109)",
+   "source": {
+    "domain": null,
+    "text": "DODIG-2023-109 unclassified summary",
+    "url": null
+   },
+   "text": "The IG found geographic combatant commanders were largely excluded from UAP policy development despite bearing statutory responsibility for threat detection.",
+   "tier": 1
+  },
+  "c-372c9c571c": {
+   "id": "c-372c9c571c",
+   "kind": "claim",
+   "node": "hr-5060-uap-whistleblower-protection-act",
+   "nodeLabel": "H.R. 5060 - UAP Whistleblower Protection Act (119th Congress)",
+   "source": {
+    "domain": null,
+    "text": "DefenseScoop, 3 September 2025",
+    "url": null
+   },
+   "text": "Lawmakers took up the bill in the run-up to the 9 September 2025 UAP transparency hearing specifically because existing channels were judged inadequate for UAP witnesses.",
+   "tier": 2
+  },
+  "c-447750549b": {
+   "id": "c-447750549b",
+   "kind": "claim",
+   "node": "dylan-borland",
+   "nodeLabel": "Dylan Borland",
+   "source": {
+    "domain": null,
+    "text": "Dylan Borland, House Oversight Task Force hearing, 9 September 2025",
+    "url": null
+   },
+   "text": "'Numerous individuals have come forward ... yet many feel discarded, isolated, hopeless.'",
+   "tier": 2
+  },
+  "c-487eb621f8": {
+   "id": "c-487eb621f8",
+   "kind": "claim",
+   "node": "dylan-borland",
+   "nodeLabel": "Dylan Borland",
+   "source": {
+    "domain": null,
+    "text": "Dylan Borland, sworn testimony, House Oversight Task Force, 9 September 2025",
+    "url": null
+   },
+   "text": "'My professional career was deliberately obstructed, and I have endured sustained reprisals from government agencies for more than a decade.'",
+   "tier": 2
+  },
+  "c-4d89549125": {
+   "id": "c-4d89549125",
+   "kind": "claim",
+   "node": "eli-crane",
+   "nodeLabel": "Elijah Crane",
+   "source": {
+    "domain": null,
+    "text": "Rep. Eli Crane, 9 September 2025, GPO CHRG-119hhrg61718",
+    "url": null
+   },
+   "text": "'I would like to enter into the testimony a letter I sent to the DOD regarding the case of Major David Charles Grusch, a UAP whistleblower who has been extremely helpful to this Committee. Unfortunately, due to his participation in the disclosure of UAP, he suffered reprisal like the removal of his clearance, denial of promotion, and loss of medical retirement. I wrote the DOD on July 24, 2025, on behalf of Major Grusch, and I am still waiting for a reply.'",
+   "tier": 1
+  },
+  "c-4ece534b0d": {
+   "id": "c-4ece534b0d",
+   "kind": "claim",
+   "node": "crane-dod-reprisal-letter",
+   "nodeLabel": "Rep. Eli Crane letter to the Secretary of Defense re: Major David Charles Grusch reprisal",
+   "source": {
+    "domain": null,
+    "text": "Serial No. 119-44, 9 September 2025",
+    "url": null
+   },
+   "text": "As of 9 September 2025 DoD had not replied; Chairwoman Luna stated the Task Force would follow up.",
+   "tier": 1
+  },
+  "c-54fb0cd7f6": {
+   "id": "c-54fb0cd7f6",
+   "kind": "claim",
+   "node": "charles-mccullough-iii",
+   "nodeLabel": "Irvin Charles McCullough III",
+   "source": {
+    "domain": null,
+    "text": "Unclassified reprisal complaint as reported by Liberation Times, 13 June 2023; The Debrief, 5 June 2023",
+    "url": null
+   },
+   "text": "Filed Grusch's PPD-19 urgent-concern disclosure with the ICIG on 25 May 2022 as counsel of record.",
+   "tier": 1
+  },
+  "c-564e725434": {
+   "id": "c-564e725434",
+   "kind": "claim",
+   "node": "hr-10111-uap-whistleblower-protection-act",
+   "nodeLabel": "H.R. 10111 - UAP Whistleblower Protection Act (118th Congress)",
+   "source": {
+    "domain": null,
+    "text": "Congress.gov H.R. 10111 (118th); GPO BILLS-118hr10111ih",
+    "url": null
+   },
+   "text": "Introduced 12 November 2024 by Rep. Tim Burchett; cosponsors Nancy Mace, Anna Paulina Luna and Eric Burlison; referred to Oversight and Accountability and additionally to Intelligence (Permanent Select) and Armed Services.",
+   "tier": 1
+  },
+  "c-566d8272dd": {
+   "id": "c-566d8272dd",
+   "kind": "claim",
+   "node": "icig-briefing-2024-01-12",
+   "nodeLabel": "Closed ICIG UAP briefing to House Oversight members",
+   "source": {
+    "domain": null,
+    "text": "The Hill, 12 January 2024",
+    "url": null
+   },
+   "text": "Ogles emerged saying what 'most Americans fear is true,' describing 'a concerted effort to conceal as much information as possible - both in Congress and to the general public.'",
+   "tier": 2
+  },
+  "c-5a05012aca": {
+   "id": "c-5a05012aca",
+   "kind": "claim",
+   "node": "dodig-2023-109",
+   "nodeLabel": "DoD OIG - Evaluation of the DoD's Actions Regarding Unidentified Anomalous Phenomena (DODIG-2023-109)",
+   "source": {
+    "domain": "media.defense.gov",
+    "text": "https://media.defense.gov/2024/Jan/25/2003381266/-1/-1/1/UNCLASSIFIED%20SUMMARY_UNIDENTIFIED%20ANOMALOUS%20PHENOMENA%20SECURE.PDF",
+    "url": "https://media.defense.gov/2024/Jan/25/2003381266/-1/-1/1/UNCLASSIFIED%20SUMMARY_UNIDENTIFIED%20ANOMALOUS%20PHENOMENA%20SECURE.PDF"
+   },
+   "text": "The classified evaluation is Report No. DODIG-2023-109, 'Evaluation of the DoD's Actions Regarding Unidentified Anomalous Phenomena,' dated August 15, 2023. A 16-page unclassified summary was published January 24-25, 2024; it carries the note: 'A classified version of the Evaluation of the DoD's Actions Regarding Unidentified Anomalous Phenomena formed the basis of the unclassified summary.'",
+   "tier": 1
+  },
+  "c-5ba9eae189": {
+   "id": "c-5ba9eae189",
+   "kind": "claim",
+   "node": "grusch-icig-complaint",
+   "nodeLabel": "Grusch PPD-19 Urgent Concern Complaint to the ICIG",
+   "source": {
+    "domain": null,
+    "text": "Grusch sworn testimony 26 July 2023; The Debrief 5 June 2023; unclassified reprisal complaint reported 13 June 2023",
+    "url": null
+   },
+   "text": "Filed 25 May 2022 with the ICIG by counsel Charles McCullough III; found credible and urgent in July 2022.",
+   "tier": 1
+  },
+  "c-66d33c8d87": {
+   "id": "c-66d33c8d87",
+   "kind": "claim",
+   "node": "david-grusch",
+   "nodeLabel": "David Charles Grusch",
+   "source": {
+    "domain": null,
+    "text": "CHRG-118hhrg53022, testimony of David Grusch",
+    "url": null
+   },
+   "text": "Sworn testimony, 26 July 2023: 'I was informed in the course of my official duties of a multi-decade UAP crash retrieval and reverse engineering program to which I was denied access to those additional read-ons when I requested it. I made the decision based on the data I collected to report this information to my superiors and multiple inspectors general and, in effect, becoming a whistleblower. As you know, I have suffered retaliation for my decision'.",
+   "tier": 2
+  },
+  "c-68b267b9f9": {
+   "id": "c-68b267b9f9",
+   "kind": "claim",
+   "node": "andy-ogles",
+   "nodeLabel": "Andrew Ogles",
+   "source": {
+    "domain": null,
+    "text": "Rep. Andy Ogles, 26 July 2023, GPO CHRG-118hhrg53022",
+    "url": null
+   },
+   "text": "'I would encourage the Chairman to demand that we have any and all, but in particular Mr. Grusch, talk to us in a SCIF and if that access is denied I will personally volunteer to initiate the Holman Rule against any personnel or any program or any agency that denies access to Congress.'",
+   "tier": 1
+  },
+  "c-699ae8fa76": {
+   "id": "c-699ae8fa76",
+   "kind": "claim",
+   "node": "tim-burchett",
+   "nodeLabel": "Timothy Floyd Burchett",
+   "source": {
+    "domain": null,
+    "text": "The Hill, 12 January 2024",
+    "url": null
+   },
+   "text": "'It's very compartmentalized; it's like looking down the barrel of a .22 rifle. All they know is just right in that little circle. Now it's just whack-a-mole.' - after the 12 Jan 2024 ICIG briefing.",
+   "tier": 2
+  },
+  "c-69b007ddee": {
+   "id": "c-69b007ddee",
+   "kind": "claim",
+   "node": "hr-5060-uap-whistleblower-protection-act",
+   "nodeLabel": "H.R. 5060 - UAP Whistleblower Protection Act (119th Congress)",
+   "source": {
+    "domain": null,
+    "text": "Congress.gov, H.R. 5060 and H.R. 10111",
+    "url": null
+   },
+   "text": "H.R. 5060, the UAP Whistleblower Protection Act, was introduced by Rep. Tim Burchett in the 119th Congress; its predecessor was H.R. 10111 in the 118th.",
+   "tier": 1
+  },
+  "c-6c5b14008b": {
+   "id": "c-6c5b14008b",
+   "kind": "claim",
+   "node": "thomas-monheim",
+   "nodeLabel": "Thomas A. Monheim",
+   "source": {
+    "domain": null,
+    "text": "The Hill (opinion), 18 February 2025",
+    "url": null
+   },
+   "text": "The internal watchdog overseeing the intelligence agencies deemed Grusch's allegations that UAP information was inappropriately concealed from Congress 'credible and urgent,' triggering mandatory notifications to the intelligence committees.",
+   "tier": 2
+  },
+  "c-747c1f2aa6": {
+   "id": "c-747c1f2aa6",
+   "kind": "claim",
+   "node": "dodig-2023-109",
+   "nodeLabel": "DoD OIG - Evaluation of the DoD's Actions Regarding Unidentified Anomalous Phenomena (DODIG-2023-109)",
+   "source": {
+    "domain": null,
+    "text": "DoD OIG report page for DODIG-2023-109",
+    "url": null
+   },
+   "text": "The full report remains classified; only an unclassified summary is public.",
+   "tier": 1
+  },
+  "c-74e7b3de54": {
+   "id": "c-74e7b3de54",
+   "kind": "claim",
+   "node": "platte-moring",
+   "nodeLabel": "Platte B. Moring III",
+   "source": {
+    "domain": "www.dodig.mil",
+    "text": "https://www.dodig.mil/About/Leadership/",
+    "url": "https://www.dodig.mil/About/Leadership/"
+   },
+   "text": "Platte B. Moring III is identified on the Department of War Office of Inspector General leadership page as Inspector General.",
+   "tier": 1
+  },
+  "c-75d08ecf83": {
+   "id": "c-75d08ecf83",
+   "kind": "claim",
+   "node": "icig",
+   "nodeLabel": "Inspector General of the Intelligence Community",
+   "source": {
+    "domain": null,
+    "text": "Contemporaneous reporting, January 2024",
+    "url": null
+   },
+   "text": "Briefed House Oversight subcommittee members in closed session on UAP transparency on 13 January 2024; members publicly reported learning nothing new.",
+   "tier": 1
+  },
+  "c-7fd0d83df4": {
+   "id": "c-7fd0d83df4",
+   "kind": "claim",
+   "node": "icig-briefing-2024-01-12",
+   "nodeLabel": "Closed ICIG UAP briefing to House Oversight members",
+   "source": {
+    "domain": null,
+    "text": "The Hill, 13 January 2024",
+    "url": null
+   },
+   "text": "Burchett: 'At one time, we had 16 congressmen in there... And these were people that normally you wouldn't see,' naming Moskowitz, Ocasio-Cortez and Luna; he rated the briefing four out of ten.",
+   "tier": 2
+  },
+  "c-8512998988": {
+   "id": "c-8512998988",
+   "kind": "claim",
+   "node": "icig-briefing-2024-01-12",
+   "nodeLabel": "Closed ICIG UAP briefing to House Oversight members",
+   "source": {
+    "domain": null,
+    "text": "The Hill, 12 January 2024",
+    "url": null
+   },
+   "text": "Closed-door briefing at the Capitol lasting about 90 minutes at which ICIG Thomas Monheim spoke with House Oversight and Accountability Committee members, intended to improve transparency around the government's knowledge of UAP.",
+   "tier": 2
+  },
+  "c-881b0a8f5e": {
+   "id": "c-881b0a8f5e",
+   "kind": "claim",
+   "node": "thomas-monheim",
+   "nodeLabel": "Thomas A. Monheim",
+   "source": {
+    "domain": null,
+    "text": "Inference from The Hill reporting of 12 Jan 2024 and 18 Feb 2025 and Luna's 9 Sept 2025 statement on the read-in gate",
+    "url": null
+   },
+   "text": "The gap between a credible-and-urgent ICIG finding in July 2022 and a briefing eighteen months later that members described as substanceless indicates the finding was routed into a channel that could absorb it without producing disclosure. Reasoning: the finding legally compelled notification of the intelligence committees, not the Oversight Committee, and the Oversight briefing that eventually occurred was not a read-in.",
+   "tier": 3
+  },
+  "c-8ca1eeb6a8": {
+   "id": "c-8ca1eeb6a8",
+   "kind": "claim",
+   "node": "hr-5060-uap-whistleblower-protection-act",
+   "nodeLabel": "H.R. 5060 - UAP Whistleblower Protection Act (119th Congress)",
+   "source": {
+    "domain": null,
+    "text": "Congress.gov H.R. 5060 (119th); GPO BILLS-119hr5060ih",
+    "url": null
+   },
+   "text": "Introduced 29 August 2025 by Rep. Tim Burchett; cosponsors Anna Paulina Luna and Elijah Crane; referred to Oversight and Government Reform and additionally to Armed Services and Intelligence (Permanent Select).",
+   "tier": 1
+  },
+  "c-901a862429": {
+   "id": "c-901a862429",
+   "kind": "claim",
+   "node": "crane-dod-reprisal-letter",
+   "nodeLabel": "Rep. Eli Crane letter to the Secretary of Defense re: Major David Charles Grusch reprisal",
+   "source": {
+    "domain": null,
+    "text": "Task Force on the Declassification of Federal Secrets hearing record, Serial No. 119-44, 9 September 2025",
+    "url": null
+   },
+   "text": "Letter dated 24 July 2025 to DoD asserting Grusch suffered reprisal including removal of his clearance, denial of promotion, and loss of medical retirement; listed in the hearing's index of documents as 'Letter to SECDEF Regarding Major David Charles Grusch Reprisal.'",
+   "tier": 1
+  },
+  "c-a068916e75": {
+   "id": "c-a068916e75",
+   "kind": "claim",
+   "node": "dodig-2023-109",
+   "nodeLabel": "DoD OIG - Evaluation of the DoD's Actions Regarding Unidentified Anomalous Phenomena (DODIG-2023-109)",
+   "source": {
+    "domain": null,
+    "text": "DODIG-2023-109 unclassified summary",
+    "url": null
+   },
+   "text": "The IG found DoD does not formally require components to report UAP incidents to AARO, and that reporting systems differ across services including the Air Force's Marauder system.",
+   "tier": 1
+  },
+  "c-a6bbacdb43": {
+   "id": "c-a6bbacdb43",
+   "kind": "claim",
+   "node": "dodig-2023-109",
+   "nodeLabel": "DoD OIG - Evaluation of the DoD's Actions Regarding Unidentified Anomalous Phenomena (DODIG-2023-109)",
+   "source": {
+    "domain": "media.defense.gov",
+    "text": "https://media.defense.gov/2024/Jan/25/2003381266/-1/-1/1/UNCLASSIFIED%20SUMMARY_UNIDENTIFIED%20ANOMALOUS%20PHENOMENA%20SECURE.PDF",
+    "url": "https://media.defense.gov/2024/Jan/25/2003381266/-1/-1/1/UNCLASSIFIED%20SUMMARY_UNIDENTIFIED%20ANOMALOUS%20PHENOMENA%20SECURE.PDF"
+   },
+   "text": "On the absence of a response plan: 'The DoD has not issued a comprehensive UAP response plan that identifies roles, responsibilities, requirements, and coordination procedures... As a result, the DoD response to UAP incidents is uncoordinated and concentrated within each Military Department. Officials from the Military Services and MDCOs stated that they have been waiting for the DoD to issue comprehensive UAP guidance before developing their own guidance.'",
+   "tier": 1
+  },
+  "c-a8c5e356bf": {
+   "id": "c-a8c5e356bf",
+   "kind": "claim",
+   "node": "dod-oig",
+   "nodeLabel": "Department of Defense Office of Inspector General",
+   "source": {
+    "domain": null,
+    "text": "DoD OIG report page and press release",
+    "url": null
+   },
+   "text": "The full DODIG-2023-109 report is classified; the OIG released only an unclassified summary, and issued a press release on 25 January 2024.",
+   "tier": 1
+  },
+  "c-aa22404b13": {
+   "id": "c-aa22404b13",
+   "kind": "claim",
+   "node": "thomas-monheim",
+   "nodeLabel": "Thomas A. Monheim",
+   "source": {
+    "domain": null,
+    "text": "Grusch sworn testimony, House Oversight, 26 July 2023; The Debrief, 5 June 2023",
+    "url": null
+   },
+   "text": "The ICIG found Grusch's urgent-concern complaint credible and urgent in July 2022, triggering transmission to the congressional intelligence committees.",
+   "tier": 1
+  },
+  "c-b19d0fe80f": {
+   "id": "c-b19d0fe80f",
+   "kind": "claim",
+   "node": "icig",
+   "nodeLabel": "Inspector General of the Intelligence Community",
+   "source": {
+    "domain": null,
+    "text": "Grusch sworn testimony, 26 July 2023; The Debrief, 5 June 2023",
+    "url": null
+   },
+   "text": "Determined Grusch's PPD-19 urgent-concern complaint credible and urgent in July 2022.",
+   "tier": 1
+  },
+  "c-b3ab8484d3": {
+   "id": "c-b3ab8484d3",
+   "kind": "claim",
+   "node": "tim-burchett",
+   "nodeLabel": "Timothy Floyd Burchett",
+   "source": {
+    "domain": null,
+    "text": "Congress.gov bill records, 118th and 119th Congresses",
+    "url": null
+   },
+   "text": "Sponsor of H.R. 8424 and H.R. 1187 (UAP Transparency Act) and H.R. 10111 and H.R. 5060 (UAP Whistleblower Protection Act); none has advanced beyond referral.",
+   "tier": 1
+  },
+  "c-c327a0ec39": {
+   "id": "c-c327a0ec39",
+   "kind": "claim",
+   "node": "dodig-2023-109",
+   "nodeLabel": "DoD OIG - Evaluation of the DoD's Actions Regarding Unidentified Anomalous Phenomena (DODIG-2023-109)",
+   "source": {
+    "domain": "media.defense.gov",
+    "text": "https://media.defense.gov/2024/Jan/25/2003381266/-1/-1/1/UNCLASSIFIED%20SUMMARY_UNIDENTIFIED%20ANOMALOUS%20PHENOMENA%20SECURE.PDF",
+    "url": "https://media.defense.gov/2024/Jan/25/2003381266/-1/-1/1/UNCLASSIFIED%20SUMMARY_UNIDENTIFIED%20ANOMALOUS%20PHENOMENA%20SECURE.PDF"
+   },
+   "text": "Consequence finding: 'We determined that the DoD has no overarching UAP policy and, as a result, it lacks assurance that national security and flight safety threats to the United States from UAP have been identified and mitigated.'",
+   "tier": 1
+  },
+  "c-de3bcab12f": {
+   "id": "c-de3bcab12f",
+   "kind": "claim",
+   "node": "dodig-2023-109",
+   "nodeLabel": "DoD OIG - Evaluation of the DoD's Actions Regarding Unidentified Anomalous Phenomena (DODIG-2023-109)",
+   "source": {
+    "domain": null,
+    "text": "DoD OIG press release on DODIG-2023-109",
+    "url": null
+   },
+   "text": "The IG made eleven recommendations to USD(I&S), the service secretaries and the Chairman of the Joint Chiefs, including a department-wide UAP policy integrating roles, responsibilities, requirements and coordination procedures.",
+   "tier": 1
+  },
+  "c-e0ecfad805": {
+   "id": "c-e0ecfad805",
+   "kind": "claim",
+   "node": "dodig-2023-109",
+   "nodeLabel": "DoD OIG - Evaluation of the DoD's Actions Regarding Unidentified Anomalous Phenomena (DODIG-2023-109)",
+   "source": {
+    "domain": null,
+    "text": "Inference from DODIG-2023-109's reporting-requirement finding applied to the standard denial formula in AARO's annual reports",
+    "url": null
+   },
+   "text": "If components are not required to report to AARO, AARO's holdings are a self-selected sample and every 'AARO has not discovered' statement is an artifact of that sampling rather than a finding about reality.",
+   "tier": 3
+  },
+  "c-e2f13fd353": {
+   "id": "c-e2f13fd353",
+   "kind": "claim",
+   "node": "thomas-monheim",
+   "nodeLabel": "Thomas A. Monheim",
+   "source": {
+    "domain": null,
+    "text": "Grusch answering Rep. Tim Burchett, House Oversight hearing transcript, 26 July 2023",
+    "url": null
+   },
+   "text": "Grusch testified there was no smooth process for the ICIG to provide his disclosure to the House and Senate Armed Services Committees despite Title 10 equities.",
+   "tier": 2
+  },
+  "c-e58fa43896": {
+   "id": "c-e58fa43896",
+   "kind": "claim",
+   "node": "charles-mccullough-iii",
+   "nodeLabel": "Irvin Charles McCullough III",
+   "source": {
+    "domain": null,
+    "text": "Unclassified reprisal complaint, reported 13 June 2023",
+    "url": null
+   },
+   "text": "The complaint alleges Grusch's identity and his UAP-related communications with the DoD IG were disclosed to parties outside the IG's office, producing retaliation; it states Grusch 'communicated classified information about the improper withholding and/or concealment of classified material from the US Congress.'",
+   "tier": 2
+  },
+  "c-ea62b8981e": {
+   "id": "c-ea62b8981e",
+   "kind": "claim",
+   "node": "hr-5060-uap-whistleblower-protection-act",
+   "nodeLabel": "H.R. 5060 - UAP Whistleblower Protection Act (119th Congress)",
+   "source": {
+    "domain": null,
+    "text": "CHRG-119hhrg61718, 9 September 2025",
+    "url": null
+   },
+   "text": "Burlison, on the record: the bill 'is language that will protect whistleblowers from any kind of reprisal, and yet it is again and again blocked by this body in some way. Many times, it is being blocked not by elected officials but by staff behind the scenes.'",
+   "tier": 1
+  },
+  "c-ec2a4984b1": {
+   "id": "c-ec2a4984b1",
+   "kind": "claim",
+   "node": "compass-rose-legal-group",
+   "nodeLabel": "Compass Rose Legal Group",
+   "source": {
+    "domain": null,
+    "text": "The Debrief, 5 June 2023; unclassified reprisal complaint reported 13 June 2023",
+    "url": null
+   },
+   "text": "Charles McCullough III, senior partner, filed Grusch's urgent-concern complaint with the ICIG on 25 May 2022.",
+   "tier": 1
+  },
+  "c-eedd300b20": {
+   "id": "c-eedd300b20",
+   "kind": "claim",
+   "node": "david-grusch",
+   "nodeLabel": "David Charles Grusch",
+   "source": {
+    "domain": "mgln.ai",
+    "text": "American Alchemy with Jesse Michels, 'CIA Scientist: George Bush Was Briefed on UFOs (ft. Eric Davis)', 13 December 2024, 0:07:12 to 0:08:08, https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/TOE7341687364.mp3?updated=1752173868",
+    "url": "https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/TOE7341687364.mp3?updated=1752173868"
+   },
+   "text": "On American Alchemy with Jesse Michels, 13 December 2024, at 0:07:12, Eric Davis described three separate acts against Grusch after his whistleblower complaint and before his testimony: he 'got harassed by, by someone in the National Reconnaissance Office', then 'got physically harassed at his home and in his vehicles by people unknown', then somebody leaked a PTSD episode from his private medical files. Davis names an institution only for the first. The three have three different actors and should not be merged.",
+   "tier": 2
+  },
+  "c-f8dc04ddbb": {
+   "id": "c-f8dc04ddbb",
+   "kind": "claim",
+   "node": "tim-burchett",
+   "nodeLabel": "Timothy Floyd Burchett",
+   "source": {
+    "domain": null,
+    "text": "Rep. Tim Burchett, opening statement, House Oversight National Security subcommittee hearing, 26 July 2023, GPO transcript CHRG-118hhrg53022",
+    "url": null
+   },
+   "text": "'We were even denied access to a classified briefing in a SCIF prior to this hearing due to the amount of hoops that we had to jump through to grant temporary clearance to witness Grusch.'",
+   "tier": 1
+  },
+  "e-017662ddf4": {
+   "endpoints": [
+    {
+     "id": "crane-dod-reprisal-letter",
+     "label": "Rep. Eli Crane letter to the Secretary of Defense re: Major David Charles Grusch reprisal"
+    },
+    {
+     "id": "dod",
+     "label": "United States Department of Defense (secondary designation: Department of War)"
+    }
+   ],
+   "id": "e-017662ddf4",
+   "kind": "edge",
+   "label": "No reply on the record as of 9 September 2025",
+   "sources": [
+    {
+     "date": "2025-09-09",
+     "name": "Task Force hearing record, Serial No. 119-44",
+     "url": "https://www.congress.gov/119/chrg/CHRG-119hhrg61718/CHRG-119hhrg61718.pdf"
+    }
+   ],
+   "text": "A sitting member formally notified the Department that a whistleblower lost his clearance, promotion and medical retirement for a protected disclosure. Crane stated he was still waiting for a reply; Chairwoman Luna committed to follow up. Non-response is itself an artifact.",
+   "tier": 1,
+   "type": "denial"
+  },
+  "e-072010735c": {
+   "endpoints": [
+    {
+     "id": "hr-5060-uap-whistleblower-protection-act",
+     "label": "H.R. 5060 - UAP Whistleblower Protection Act (119th Congress)"
+    },
+    {
+     "id": "aaro",
+     "label": "All-domain Anomaly Resolution Office (AARO)"
+    }
+   ],
+   "id": "e-072010735c",
+   "kind": "edge",
+   "label": "a separate statutory channel is needed because AARO's secure reporting mechanism is not a safe destination",
+   "sources": [
+    {
+     "date": "2026-07-21",
+     "name": "AARO FY2025 Consolidated Annual Report",
+     "url": "https://www.aaro.mil/Portals/136/PDFs/FY25%20UAP%20Annual%20Report/AARO_FY2025_Consolidated_Annual_Report_on_UAP.pdf"
+    },
+    {
+     "date": "2025-08-28",
+     "name": "Congress.gov - H.R.5060",
+     "url": "https://www.congress.gov/bill/119th-congress/house-bill/5060/text"
+    }
+   ],
+   "text": "Congress would not build a parallel protection regime if the aaro.mil mechanism functioned; AARO's own FY2025 figures show 255 of 262 contacts declared out of scope.",
+   "tier": 3,
+   "type": "legislative"
+  },
+  "e-1d63c956f3": {
+   "endpoints": [
+    {
+     "id": "eli-crane",
+     "label": "Elijah Crane"
+    },
+    {
+     "id": "crane-dod-reprisal-letter",
+     "label": "Rep. Eli Crane letter to the Secretary of Defense re: Major David Charles Grusch reprisal"
+    }
+   ],
+   "id": "e-1d63c956f3",
+   "kind": "edge",
+   "label": "Author; wrote DoD 24 July 2025 on Grusch's reprisal",
+   "sources": [
+    {
+     "date": "2025-09-09",
+     "name": "Task Force hearing record, Serial No. 119-44",
+     "url": "https://www.congress.gov/119/chrg/CHRG-119hhrg61718/CHRG-119hhrg61718.pdf"
+    }
+   ],
+   "text": "Crane enumerated three specific adverse actions - clearance removal, denial of promotion, loss of medical retirement - and entered the letter into the hearing record on 9 September 2025 reporting no reply.",
+   "tier": 1,
+   "type": "legislative"
+  },
+  "e-213ee1bc4e": {
+   "endpoints": [
+    {
+     "id": "eli-crane",
+     "label": "Elijah Crane"
+    },
+    {
+     "id": "hr-5060-uap-whistleblower-protection-act",
+     "label": "H.R. 5060 - UAP Whistleblower Protection Act (119th Congress)"
+    }
+   ],
+   "id": "e-213ee1bc4e",
+   "kind": "edge",
+   "label": "Cosponsor",
+   "sources": [
+    {
+     "date": "2025-08-29",
+     "name": "Congress.gov, H.R. 5060 — UAP Whistleblower Protection Act (119th Congress)",
+     "url": "https://www.congress.gov/bill/119th-congress/house-bill/5060"
+    }
+   ],
+   "text": "Congress.gov cosponsor record; Crane also entered the Grusch reprisal letter into the record of the hearing that followed.",
+   "tier": 1,
+   "type": "legislative"
+  },
+  "e-2d118c74de": {
+   "endpoints": [
+    {
+     "id": "nancy-mace",
+     "label": "Nancy Ruth Mace"
+    },
+    {
+     "id": "hr-10111-uap-whistleblower-protection-act",
+     "label": "H.R. 10111 - UAP Whistleblower Protection Act (118th Congress)"
+    }
+   ],
+   "id": "e-2d118c74de",
+   "kind": "edge",
+   "label": "Cosponsor",
+   "sources": [
+    {
+     "date": "2024-11-12",
+     "name": "Congress.gov, H.R. 10111 — UAP Whistleblower Protection Act (118th Congress)",
+     "url": "https://www.congress.gov/bill/118th-congress/house-bill/10111"
+    }
+   ],
+   "text": "Congress.gov cosponsor record.",
+   "tier": 1,
+   "type": "legislative"
+  },
+  "e-3573062eba": {
+   "endpoints": [
+    {
+     "id": "eric-burlison",
+     "label": "Eric Burlison"
+    },
+    {
+     "id": "waived-sap-notification-group",
+     "label": "Waived SAP Notification Group"
+    }
+   ],
+   "id": "e-3573062eba",
+   "kind": "edge",
+   "label": "no statutory entitlement; not a defense committee chair or ranking member",
+   "sources": [
+    {
+     "date": "2026-08-22",
+     "name": "10 U.S.C. 119, Special Access Programs: congressional oversight — subsections (e)(2) and (g) (OLRC prelim text, read 22 August 2026)",
+     "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim"
+    },
+    {
+     "date": "2026-08-22",
+     "name": "U.S. Senate, Dates of Sessions of the Congress (convening dates used to date each seat)",
+     "url": "https://www.senate.gov/legislative/DatesofSessionsofCongress.htm"
+    },
+    {
+     "date": "2023-07-26",
+     "name": "U.S. GPO, Hearing transcript, Serial No. 118-53 (CHRG-118hhrg53022)",
+     "url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm"
+    },
+    {
+     "date": null,
+     "name": "https://armedservices.house.gov/about/members.htm",
+     "url": "https://armedservices.house.gov/about/members.htm"
+    }
+   ],
+   "text": "Burlison is not listed among the members of the House Armed Services Committee and does not hold a chair or ranking seat on any of the six bodies named in 10 U.S.C. 119(g). His UAP oversight work therefore proceeds without any section 119 entitlement.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-35fcaff806": {
+   "endpoints": [
+    {
+     "id": "thomas-monheim",
+     "label": "Thomas A. Monheim"
+    },
+    {
+     "id": "icig",
+     "label": "Inspector General of the Intelligence Community"
+    }
+   ],
+   "id": "e-35fcaff806",
+   "kind": "edge",
+   "label": "Inspector General of the Intelligence Community, 2021-present",
+   "sources": [
+    {
+     "date": "2023-07-26",
+     "name": "House Oversight hearing transcript, Serial No. 118-53",
+     "url": "https://www.congress.gov/118/meeting/house/116282/documents/HHRG-118-GO06-Transcript-20230726.pdf"
+    }
+   ],
+   "text": "Monheim held the office when the credible-and-urgent determination was made and when his office briefed House Oversight members in closed session on 13 January 2024.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-44433b7e5b": {
+   "endpoints": [
+    {
+     "id": "dod",
+     "label": "United States Department of Defense (secondary designation: Department of War)"
+    },
+    {
+     "id": "tim-burchett",
+     "label": "Timothy Floyd Burchett"
+    }
+   ],
+   "id": "e-44433b7e5b",
+   "kind": "edge",
+   "label": "Denied members SCIF access to Grusch before the founding hearing",
+   "sources": [
+    {
+     "date": "2023-07-26",
+     "name": "U.S. GPO, Hearing transcript, Serial No. 118-53 (CHRG-118hhrg53022)",
+     "url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm"
+    }
+   ],
+   "text": "Burchett's opening statement: members 'were even denied access to a classified briefing in a SCIF prior to this hearing due to the amount of hoops that we had to jump through to grant temporary clearance to witness Grusch.'",
+   "tier": 1,
+   "type": "denial"
+  },
+  "e-465eaee615": {
+   "endpoints": [
+    {
+     "id": "anna-paulina-luna",
+     "label": "Anna Paulina Luna"
+    },
+    {
+     "id": "waived-sap-notification-group",
+     "label": "Waived SAP Notification Group"
+    }
+   ],
+   "id": "e-465eaee615",
+   "kind": "edge",
+   "label": "no statutory entitlement; not a defense committee chair or ranking member",
+   "sources": [
+    {
+     "date": "2026-08-22",
+     "name": "10 U.S.C. 119, Special Access Programs: congressional oversight — subsections (e)(2) and (g) (OLRC prelim text, read 22 August 2026)",
+     "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim"
+    },
+    {
+     "date": "2026-08-22",
+     "name": "U.S. Senate, Dates of Sessions of the Congress (convening dates used to date each seat)",
+     "url": "https://www.senate.gov/legislative/DatesofSessionsofCongress.htm"
+    },
+    {
+     "date": "2026-08-10",
+     "name": "Archived: Department of War - PURSUE portal (war.gov/UFO) (Wayback 2026-08-10)",
+     "url": "https://web.archive.org/web/20260810202017/https://www.war.gov/UFO/"
+    },
+    {
+     "date": null,
+     "name": "https://armedservices.house.gov/about/members.htm",
+     "url": "https://armedservices.house.gov/about/members.htm"
+    }
+   ],
+   "text": "Luna is not listed among the members of the House Armed Services Committee and does not hold a chair or ranking seat on any of the six bodies named in 10 U.S.C. 119(g).",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-59b98114e2": {
+   "endpoints": [
+    {
+     "id": "david-grusch",
+     "label": "David Charles Grusch"
+    },
+    {
+     "id": "aaro",
+     "label": "All-domain Anomaly Resolution Office (AARO)"
+    }
+   ],
+   "id": "e-59b98114e2",
+   "kind": "edge",
+   "label": "Declined nine AARO interview approaches; missed the 14 November 2023 appointment",
+   "sources": [
+    {
+     "date": "2024-01-08",
+     "name": "DoD FOIA 24-F-0266",
+     "url": "https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/24-F-0266_AARO_Invitations_to_Interview_Mr._David_Grusch.pdf"
+    },
+    {
+     "date": "2024-01-25",
+     "name": "NewsNation - Whistleblower David Grusch refused to meet with Pentagon UFO office",
+     "url": "https://www.newsnationnow.com/space/ufo/grusch-refused-meeting-ufo-office/"
+    }
+   ],
+   "text": "AARO's own memorandum documents the sequence. Grusch has cited legal and security exposure; AARO makes the non-appearance the centerpiece of its impeachment. Both facts are in the same document.",
+   "tier": 1,
+   "type": "denial"
+  },
+  "e-5ba30d802c": {
+   "endpoints": [
+    {
+     "id": "thomas-monheim",
+     "label": "Thomas A. Monheim"
+    },
+    {
+     "id": "icig-briefing-2024-01-12",
+     "label": "Closed ICIG UAP briefing to House Oversight members"
+    }
+   ],
+   "id": "e-5ba30d802c",
+   "kind": "edge",
+   "label": "Briefed House Oversight members for about ninety minutes",
+   "sources": [
+    {
+     "date": "2024-01-12",
+     "name": "The Hill: Classified UFO briefing — House members emerge with mixed feelings",
+     "url": "https://thehill.com/homenews/house/4406059-classified-ufo-briefing-house-members-mixed-feelings/"
+    }
+   ],
+   "text": "The only formal House encounter with the inspector general who found the Grusch complaint credible and urgent.",
+   "tier": 2,
+   "type": "institutional"
+  },
+  "e-62bc16be1a": {
+   "endpoints": [
+    {
+     "id": "thomas-monheim",
+     "label": "Thomas A. Monheim"
+    },
+    {
+     "id": "david-grusch",
+     "label": "David Charles Grusch"
+    }
+   ],
+   "id": "e-62bc16be1a",
+   "kind": "edge",
+   "label": "ICIG found Grusch's urgent-concern complaint credible and urgent, triggering notification of the intelligence committees",
+   "sources": [
+    {
+     "date": "2025-02-18",
+     "name": "The Hill (opinion, Marik von Rennenkampff): House Republicans demand UFO transparency",
+     "url": "https://thehill.com/opinion/national-security/5149386-house-republicans-demand-ufo-transparency/"
+    }
+   ],
+   "text": "This finding is the legal predicate for the entire House inquiry, and it routed to the intelligence committees rather than to Oversight.",
+   "tier": 2,
+   "type": "investigative"
+  },
+  "e-68c5b48746": {
+   "endpoints": [
+    {
+     "id": "david-grusch",
+     "label": "David Charles Grusch"
+    },
+    {
+     "id": "dod",
+     "label": "United States Department of Defense (secondary designation: Department of War)"
+    }
+   ],
+   "id": "e-68c5b48746",
+   "kind": "edge",
+   "label": "First protected disclosure to the DoD Inspector General, July 2021",
+   "sources": [
+    {
+     "date": "2023-06-05",
+     "name": "The Debrief",
+     "url": "https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/"
+    },
+    {
+     "date": "2023-06-13",
+     "name": "Liberation Times",
+     "url": "https://www.liberationtimes.com/home/unclassified-version-of-david-gruschs-ufo-related-reprisal-complaint-released"
+    }
+   ],
+   "text": "The Debrief records that Grusch provided classified information to the DoD IG in July 2021 regarding the concealment of UAP-related material from Congress, ten months before the ICIG filing. The reprisal complaint alleges his identity and those communications were later disclosed outside the IG channel.",
+   "tier": 2,
+   "type": "witness-chain"
+  },
+  "e-7d67c2383f": {
+   "endpoints": [
+    {
+     "id": "congressional-uap-caucus",
+     "label": "Congressional UAP Caucus"
+    },
+    {
+     "id": "waived-sap-notification-group",
+     "label": "Waived SAP Notification Group"
+    }
+   ],
+   "id": "e-7d67c2383f",
+   "kind": "edge",
+   "label": "caucus membership confers no statutory access",
+   "sources": [
+    {
+     "date": "2026-08-22",
+     "name": "10 U.S.C. 119, Special Access Programs: congressional oversight — subsections (e)(2) and (g) (OLRC prelim text, read 22 August 2026)",
+     "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim"
+    },
+    {
+     "date": "2024-01-12",
+     "name": "The Hill: Classified UFO briefing — House members emerge with mixed feelings",
+     "url": "https://thehill.com/homenews/house/4406059-classified-ufo-briefing-house-members-mixed-feelings/"
+    }
+   ],
+   "text": "A congressional caucus is not a committee and appears nowhere in 10 U.S.C. 119(g). Caucus members acquire no entitlement to waived-SAP notification, which is why UAP advocacy in Congress has consistently sought to legislate new access rather than to invoke existing access.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-83b775741d": {
+   "endpoints": [
+    {
+     "id": "icig",
+     "label": "Inspector General of the Intelligence Community"
+    },
+    {
+     "id": "grusch-icig-complaint",
+     "label": "Grusch PPD-19 Urgent Concern Complaint to the ICIG"
+    }
+   ],
+   "id": "e-83b775741d",
+   "kind": "edge",
+   "label": "Determined the complaint credible and urgent, July 2022",
+   "sources": [
+    {
+     "date": "2023-07-26",
+     "name": "House Oversight hearing transcript, Serial No. 118-53",
+     "url": "https://www.congress.gov/118/meeting/house/116282/documents/HHRG-118-GO06-Transcript-20230726.pdf"
+    },
+    {
+     "date": "2023-06-05",
+     "name": "The Debrief",
+     "url": "https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/"
+    }
+   ],
+   "text": "The statutory urgent-concern finding by the IC's own watchdog, which obliges transmission to the congressional intelligence committees. It is the highest-grade institutional validation in the disclosure record and has never been withdrawn.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-84c61e5c3d": {
+   "endpoints": [
+    {
+     "id": "icig",
+     "label": "Inspector General of the Intelligence Community"
+    },
+    {
+     "id": "aaro",
+     "label": "All-domain Anomaly Resolution Office (AARO)"
+    }
+   ],
+   "id": "e-84c61e5c3d",
+   "kind": "edge",
+   "label": "Irreconcilable executive-branch findings on the same allegations",
+   "sources": [
+    {
+     "date": "2023-07-26",
+     "name": "House Oversight hearing transcript",
+     "url": "https://www.congress.gov/118/meeting/house/116282/documents/HHRG-118-GO06-Transcript-20230726.pdf"
+    },
+    {
+     "date": "2024-03-08",
+     "name": "AARO Historical Record Report Volume I",
+     "url": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF"
+    }
+   ],
+   "text": "The ICIG found the complaint credible and urgent in July 2022; AARO found no verifiable information from June 2023 and no firsthand knowledge in March 2024. Both are executive-branch determinations on the same body of allegations, and neither has been formally reconciled on the public record. Reasoning: no document exists in which either office addresses the other's finding.",
+   "tier": 3,
+   "type": "denial"
+  },
+  "e-88d8177da1": {
+   "endpoints": [
+    {
+     "id": "tim-burchett",
+     "label": "Timothy Floyd Burchett"
+    },
+    {
+     "id": "hr-5060-uap-whistleblower-protection-act",
+     "label": "H.R. 5060 - UAP Whistleblower Protection Act (119th Congress)"
+    }
+   ],
+   "id": "e-88d8177da1",
+   "kind": "edge",
+   "label": "Sponsor of the reintroduced bill",
+   "sources": [
+    {
+     "date": "2025-08-29",
+     "name": "Congress.gov, H.R. 5060 — UAP Whistleblower Protection Act (119th Congress)",
+     "url": "https://www.congress.gov/bill/119th-congress/house-bill/5060"
+    },
+    {
+     "date": "2025-09-08",
+     "name": "MeriTalk: Reps. Reintroduce UAP Whistleblower Protection Bill",
+     "url": "https://www.meritalk.com/articles/reps-reintroduce-uap-whistleblower-protection-bill/"
+    },
+    {
+     "date": "2025-08-28",
+     "name": "Congress.gov - H.R.5060",
+     "url": "https://www.congress.gov/bill/119th-congress/house-bill/5060/text"
+    }
+   ],
+   "text": "H.R. 5060 in the 119th Congress, reintroducing H.R. 10111 from the 118th.",
+   "tier": 1,
+   "type": "legislative"
+  },
+  "e-90e45bbece": {
+   "endpoints": [
+    {
+     "id": "andy-ogles",
+     "label": "Andrew Ogles"
+    },
+    {
+     "id": "icig-briefing-2024-01-12",
+     "label": "Closed ICIG UAP briefing to House Oversight members"
+    }
+   ],
+   "id": "e-90e45bbece",
+   "kind": "edge",
+   "label": "Emerged describing 'a concerted effort to conceal as much information as possible'",
+   "sources": [
+    {
+     "date": "2024-01-12",
+     "name": "The Hill: Classified UFO briefing — House members emerge with mixed feelings",
+     "url": "https://thehill.com/homenews/house/4406059-classified-ufo-briefing-house-members-mixed-feelings/"
+    }
+   ],
+   "text": "Ogles is a caucus member without an Oversight seat, which is how the caucus extended attendance.",
+   "tier": 2,
+   "type": "behavioral"
+  },
+  "e-a08330f2e8": {
+   "endpoints": [
+    {
+     "id": "nancy-mace",
+     "label": "Nancy Ruth Mace"
+    },
+    {
+     "id": "waived-sap-notification-group",
+     "label": "Waived SAP Notification Group"
+    }
+   ],
+   "id": "e-a08330f2e8",
+   "kind": "edge",
+   "label": "House Armed Services member but not chair or ranking - no 119(e)(2) entitlement",
+   "sources": [
+    {
+     "date": "2026-08-22",
+     "name": "10 U.S.C. 119, Special Access Programs: congressional oversight — subsections (e)(2) and (g) (OLRC prelim text, read 22 August 2026)",
+     "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim"
+    },
+    {
+     "date": "2026-08-22",
+     "name": "U.S. Senate, Dates of Sessions of the Congress (convening dates used to date each seat)",
+     "url": "https://www.senate.gov/legislative/DatesofSessionsofCongress.htm"
+    },
+    {
+     "date": "2024-11-13",
+     "name": "CHRG-118hhrg57440, printed hearing transcript, 'Unidentified Anomalous Phenomena: Exposing the Truth', Serial No. 118-135",
+     "url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/pdf/CHRG-118hhrg57440.pdf"
+    },
+    {
+     "date": null,
+     "name": "https://armedservices.house.gov/about/members.htm",
+     "url": "https://armedservices.house.gov/about/members.htm"
+    }
+   ],
+   "text": "Mace sits on the House Armed Services Committee, one of the six defense committees, yet receives nothing under section 119(e)(2), which names only the chairman and ranking minority member. She would also not be told under section 119 that a waiver had been exercised at all. This is the clearest single illustration of how narrow the aperture is even inside a defense committee.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-a0dfc37ff4": {
+   "endpoints": [
+    {
+     "id": "charles-mccullough-iii",
+     "label": "Irvin Charles McCullough III"
+    },
+    {
+     "id": "grusch-icig-complaint",
+     "label": "Grusch PPD-19 Urgent Concern Complaint to the ICIG"
+    }
+   ],
+   "id": "e-a0dfc37ff4",
+   "kind": "edge",
+   "label": "Filed the complaint as counsel; former ICIG filing with the ICIG",
+   "sources": [
+    {
+     "date": "2023-06-05",
+     "name": "The Debrief - Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin",
+     "url": "https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/"
+    }
+   ],
+   "text": "The first Inspector General of the Intelligence Community drafted and filed the urgent-concern complaint with the office he previously ran. This is the strongest structural credential in the file.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-a288b5a67f": {
+   "endpoints": [
+    {
+     "id": "anna-paulina-luna",
+     "label": "Anna Paulina Luna"
+    },
+    {
+     "id": "hr-5060-uap-whistleblower-protection-act",
+     "label": "H.R. 5060 - UAP Whistleblower Protection Act (119th Congress)"
+    }
+   ],
+   "id": "e-a288b5a67f",
+   "kind": "edge",
+   "label": "Cosponsor",
+   "sources": [
+    {
+     "date": "2025-08-29",
+     "name": "Congress.gov, H.R. 5060 — UAP Whistleblower Protection Act (119th Congress)",
+     "url": "https://www.congress.gov/bill/119th-congress/house-bill/5060"
+    }
+   ],
+   "text": "Congress.gov cosponsor record.",
+   "tier": 1,
+   "type": "legislative"
+  },
+  "e-aeedb1f378": {
+   "endpoints": [
+    {
+     "id": "dylan-borland",
+     "label": "Dylan Borland"
+    },
+    {
+     "id": "hearing-2025-09-09",
+     "label": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'"
+    }
+   ],
+   "id": "e-aeedb1f378",
+   "kind": "edge",
+   "label": "sworn witness",
+   "sources": [
+    {
+     "date": "2025-09-09",
+     "name": "CHRG-119hhrg61718, printed hearing transcript, 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection', Serial No. 119-44",
+     "url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/pdf/CHRG-119hhrg61718.pdf"
+    },
+    {
+     "date": "2025-09-09",
+     "name": "House Oversight - hearing page, 9 Sept 2025",
+     "url": "https://oversight.house.gov/hearing/restoring-public-trust-through-uap-transparency-and-whistleblower-protection/"
+    },
+    {
+     "date": "2025-09-09",
+     "name": "U.S. GPO, Hearing transcript, Serial No. 119-44 (CHRG-119hhrg61718)",
+     "url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm"
+    },
+    {
+     "date": "2025-09-09",
+     "name": "Dylan Borland, written testimony, House Oversight Task Force",
+     "url": "https://oversight.house.gov/wp-content/uploads/2025/09/Borland-Written-Testimony.pdf"
+    },
+    {
+     "date": "2025-09-09",
+     "name": "The Hill: Moskowitz accuses the US government of lying about UAP",
+     "url": "https://thehill.com/homenews/house/5494075-moskowitz-demands-uap-transparency/"
+    },
+    {
+     "date": "2025-09-09",
+     "name": "DefenseScoop - Military whistleblowers share new evidence of alleged UAP",
+     "url": "https://defensescoop.com/2025/09/09/military-whistleblowers-share-new-evidence-alleged-uap-ufo-hearing/"
+    }
+   ],
+   "text": "Borland alleges blacklisting and clearance-record manipulation and states he filed complaints with AARO in March 2023 and the ICIG in August 2023.",
+   "tier": 1,
+   "type": "witness-chain"
+  },
+  "e-af4812909f": {
+   "endpoints": [
+    {
+     "id": "dodig-2023-109",
+     "label": "DoD OIG - Evaluation of the DoD's Actions Regarding Unidentified Anomalous Phenomena (DODIG-2023-109)"
+    },
+    {
+     "id": "aaro",
+     "label": "All-domain Anomaly Resolution Office (AARO)"
+    }
+   ],
+   "id": "e-af4812909f",
+   "kind": "edge",
+   "label": "The IG found no department-wide UAP policy and component-level stovepipes",
+   "sources": [
+    {
+     "date": "2024-01-25",
+     "name": "DoD OIG press release - Evaluation of the DoD's Actions Regarding UAP",
+     "url": "https://www.dodig.mil/In-the-Spotlight/Article/3656428/press-release-evaluation-of-the-dods-actions-regarding-unidentified-anomalous-p/"
+    },
+    {
+     "date": "2023-08-15",
+     "name": "DoD OIG - Evaluation of the DoD's Actions Regarding UAP (DODIG-2023-109)",
+     "url": "https://www.dodig.mil/Reports/Audits-and-Evaluations/Article/3496071/evaluation-of-the-dods-actions-regarding-unidentified-anomalous-phenomena-dodig/"
+    },
+    {
+     "date": "2024-01-25",
+     "name": "DoD OIG unclassified summary",
+     "url": "https://media.defense.gov/2024/Jan/25/2003381266/-1/-1/1/UNCLASSIFIED%20SUMMARY_UNIDENTIFIED%20ANOMALOUS%20PHENOMENA%20SECURE.PDF"
+    }
+   ],
+   "text": "Eighteen months after AARO was made the Department's authoritative UAP office, the Inspector General found no requirement that components report to it - which makes AARO's holdings a self-selected sample.",
+   "tier": 1,
+   "type": "investigative"
+  },
+  "e-b0fc975d66": {
+   "endpoints": [
+    {
+     "id": "eric-burlison",
+     "label": "Eric Burlison"
+    },
+    {
+     "id": "hr-10111-uap-whistleblower-protection-act",
+     "label": "H.R. 10111 - UAP Whistleblower Protection Act (118th Congress)"
+    }
+   ],
+   "id": "e-b0fc975d66",
+   "kind": "edge",
+   "label": "Cosponsor",
+   "sources": [
+    {
+     "date": "2024-11-12",
+     "name": "Congress.gov, H.R. 10111 — UAP Whistleblower Protection Act (118th Congress)",
+     "url": "https://www.congress.gov/bill/118th-congress/house-bill/10111"
+    }
+   ],
+   "text": "Congress.gov cosponsor record.",
+   "tier": 1,
+   "type": "legislative"
+  },
+  "e-bbc013b4fe": {
+   "endpoints": [
+    {
+     "id": "david-grusch",
+     "label": "David Charles Grusch"
+    },
+    {
+     "id": "grusch-icig-complaint",
+     "label": "Grusch PPD-19 Urgent Concern Complaint to the ICIG"
+    }
+   ],
+   "id": "e-bbc013b4fe",
+   "kind": "edge",
+   "label": "Complainant of record, PPD-19 urgent concern, 25 May 2022",
+   "sources": [
+    {
+     "date": "2023-07-26",
+     "name": "House Oversight hearing transcript, Serial No. 118-53",
+     "url": "https://www.congress.gov/118/meeting/house/116282/documents/HHRG-118-GO06-Transcript-20230726.pdf"
+    },
+    {
+     "date": "2023-06-13",
+     "name": "Liberation Times - Unclassified Version Of Grusch's Reprisal Complaint Released",
+     "url": "https://www.liberationtimes.com/home/unclassified-version-of-david-gruschs-ufo-related-reprisal-complaint-released"
+    }
+   ],
+   "text": "Grusch testified he 'became a whistleblower through a PPD-19 urgent concern filing in May 2022 with the intelligence community inspector general.' The Debrief dates the filing 25 May 2022 and identifies counsel.",
+   "tier": 1,
+   "type": "witness-chain"
+  },
+  "e-bdb1237ea5": {
+   "endpoints": [
+    {
+     "id": "david-grusch",
+     "label": "David Charles Grusch"
+    },
+    {
+     "id": "crane-dod-reprisal-letter",
+     "label": "Rep. Eli Crane letter to the Secretary of Defense re: Major David Charles Grusch reprisal"
+    }
+   ],
+   "id": "e-bdb1237ea5",
+   "kind": "edge",
+   "label": "Subject of the reprisal enumeration",
+   "sources": [
+    {
+     "date": "2025-09-09",
+     "name": "Task Force hearing record, Serial No. 119-44",
+     "url": "https://www.congress.gov/119/chrg/CHRG-119hhrg61718/CHRG-119hhrg61718.pdf"
+    },
+    {
+     "date": "2025-09-09",
+     "name": "U.S. GPO, Hearing transcript, Serial No. 119-44 (CHRG-119hhrg61718)",
+     "url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm"
+    }
+   ],
+   "text": "The only document in the public record that itemizes the adverse actions against Grusch. Each of the three actions generates its own internal DoD paper trail that has never been produced.",
+   "tier": 1,
+   "type": "witness-chain"
+  },
+  "e-c24224e675": {
+   "endpoints": [
+    {
+     "id": "compass-rose-legal-group",
+     "label": "Compass Rose Legal Group"
+    },
+    {
+     "id": "david-grusch",
+     "label": "David Charles Grusch"
+    }
+   ],
+   "id": "e-c24224e675",
+   "kind": "edge",
+   "label": "Firm that filed Grusch's statutory ICIG whistleblower complaint",
+   "sources": [
+    {
+     "date": null,
+     "name": "https://thedebrief.org/compass-rose-attorneys-formally-end-association-with-uap-whistleblower-david-grusch/",
+     "url": "https://thedebrief.org/compass-rose-attorneys-formally-end-association-with-uap-whistleblower-david-grusch/"
+    },
+    {
+     "date": null,
+     "name": "https://compassrosepllc.com/mccullough/",
+     "url": "https://compassrosepllc.com/mccullough/"
+    }
+   ],
+   "text": "Grusch retained Compass Rose Legal Group (senior partner I. Charles McCullough III, the first Intelligence Community Inspector General) to file and pursue his statutory whistleblower and reprisal complaint with the sitting ICIG. The Debrief reported the firm formally concluded its representation in November 2023, and stressed that Grusch's public crash-retrieval claims were always outside the scope of that representation.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-cc2b42a391": {
+   "endpoints": [
+    {
+     "id": "dod-oig",
+     "label": "Department of Defense Office of Inspector General"
+    },
+    {
+     "id": "dodig-2023-109",
+     "label": "DoD OIG - Evaluation of the DoD's Actions Regarding Unidentified Anomalous Phenomena (DODIG-2023-109)"
+    }
+   ],
+   "id": "e-cc2b42a391",
+   "kind": "edge",
+   "label": "DoD OIG issued the only formal audit of the Department's UAP conduct",
+   "sources": [
+    {
+     "date": "2023-08-15",
+     "name": "DoD OIG, DODIG-2023-109",
+     "url": "https://www.dodig.mil/Reports/Audits-and-Evaluations/Article/3496071/evaluation-of-the-dods-actions-regarding-unidentified-anomalous-phenomena-dodig/"
+    }
+   ],
+   "text": "The evaluation examined 'how the DoD, military services, defense agencies, and military department counterintelligence organizations took intelligence, counterintelligence, and force protection actions to detect, report, collect, analyze, and identify UAP'. The full report is classified.",
+   "tier": 1,
+   "type": "investigative"
+  },
+  "e-dbaee75587": {
+   "endpoints": [
+    {
+     "id": "tim-burchett",
+     "label": "Timothy Floyd Burchett"
+    },
+    {
+     "id": "hr-10111-uap-whistleblower-protection-act",
+     "label": "H.R. 10111 - UAP Whistleblower Protection Act (118th Congress)"
+    }
+   ],
+   "id": "e-dbaee75587",
+   "kind": "edge",
+   "label": "Sponsor",
+   "sources": [
+    {
+     "date": "2024-11-12",
+     "name": "Congress.gov, H.R. 10111 — UAP Whistleblower Protection Act (118th Congress)",
+     "url": "https://www.congress.gov/bill/118th-congress/house-bill/10111"
+    }
+   ],
+   "text": "Introduced 12 November 2024, the day before the Oversight hearing.",
+   "tier": 1,
+   "type": "legislative"
+  },
+  "e-ed03cf77b9": {
+   "endpoints": [
+    {
+     "id": "congressional-uap-caucus",
+     "label": "Congressional UAP Caucus"
+    },
+    {
+     "id": "icig-briefing-2024-01-12",
+     "label": "Closed ICIG UAP briefing to House Oversight members"
+    }
+   ],
+   "id": "e-ed03cf77b9",
+   "kind": "edge",
+   "label": "Caucus members attended the closed ICIG briefing",
+   "sources": [
+    {
+     "date": "2024-01-13",
+     "name": "The Hill: Burchett — Classified UFO briefing 'energized' Congress on issue",
+     "url": "https://thehill.com/homenews/house/4406775-burchett-classified-ufo-briefing-energized-congress/"
+    },
+    {
+     "date": "2024-01-12",
+     "name": "The Hill: Classified UFO briefing — House members emerge with mixed feelings",
+     "url": "https://thehill.com/homenews/house/4406059-classified-ufo-briefing-house-members-mixed-feelings/"
+    }
+   ],
+   "text": "Photograph caption and reporting describe the briefing as involving 'members of the Congressional UAP Caucus'; Burchett said about sixteen members attended.",
+   "tier": 2,
+   "type": "programmatic"
+  }
+ },
+ "claimed": [
+  {
+   "cite": [
+    "c-b19d0fe80f",
+    "c-aa22404b13",
+    "c-5ba9eae189",
+    "e-83b775741d",
+    "c-6c5b14008b"
+   ],
+   "text": "Grusch testified, and The Debrief reported, that the ICIG found his complaint credible and urgent in July 2022, a finding that obliges transmission to the congressional intelligence committees; a 2025 opinion piece in The Hill repeats the account."
+  },
+  {
+   "cite": [
+    "c-66d33c8d87",
+    "c-e58fa43896",
+    "c-23942641f5",
+    "e-68c5b48746"
+   ],
+   "text": "Grusch testified that he suffered retaliation for his disclosures. His reprisal complaint alleges that his identity and his communications with the DoD Inspector General were disclosed to parties outside the Inspector General's office, and The Debrief records an earlier protected disclosure to the DoD Inspector General in July 2021."
+  },
+  {
+   "cite": [
+    "c-e2f13fd353"
+   ],
+   "text": "Grusch testified that there was no smooth process for the ICIG to give his disclosure to the House and Senate Armed Services committees despite its Title 10 equities."
+  },
+  {
+   "cite": [
+    "c-eedd300b20"
+   ],
+   "text": "Eric Davis, on American Alchemy in December 2024, described three separate acts against Grusch between his complaint and his testimony: harassment by someone at the NRO, physical harassment at home and in his vehicles by people unknown, and a leak of a PTSD episode from his medical files. The board keeps the three apart because they have different actors."
+  },
+  {
+   "cite": [
+    "c-7fd0d83df4",
+    "c-699ae8fa76",
+    "c-566d8272dd",
+    "e-90e45bbece",
+    "e-ed03cf77b9",
+    "c-75d08ecf83"
+   ],
+   "text": "Contemporaneous reporting said members learned nothing new at the January 2024 ICIG briefing. Burchett said about sixteen members had attended, rated it four out of ten and called it very compartmentalized; Ogles said he asked specific questions and could not get specific answers and described a concerted effort to conceal."
+  },
+  {
+   "cite": [
+    "c-487eb621f8",
+    "c-447750549b",
+    "e-aeedb1f378",
+    "c-22416ff2ca"
+   ],
+   "text": "Dylan Borland testified that his career was deliberately obstructed for more than a decade and that many who come forward feel discarded; he says he filed complaints with AARO in March 2023 and the ICIG in August 2023, and later said AARO transmitted an uncorrected memorandum of his interview to ODNI."
+  },
+  {
+   "cite": [
+    "c-372c9c571c",
+    "e-072010735c"
+   ],
+   "text": "DefenseScoop reported that lawmakers took up H.R. 5060 before the September 2025 hearing because existing channels were judged inadequate for UAP witnesses; the board infers that a separate channel is sought because AARO's mechanism is not a safe destination, citing AARO's own count of 255 of 262 contacts declared out of scope."
+  }
+ ],
+ "contested": [
+  {
+   "cite": [
+    "e-84c61e5c3d",
+    "c-aa22404b13"
+   ],
+   "text": "The ICIG is reported to have found the complaint credible and urgent in 2022, while AARO found no verifiable information in 2023 and no firsthand knowledge among its interviewees in 2024; the board records the two executive-branch positions as never reconciled."
+  },
+  {
+   "cite": [
+    "e-59b98114e2"
+   ],
+   "text": "AARO's memorandum documents its approaches to Grusch and a missed November 2023 appointment and makes the non-appearance the centre of its impeachment; Grusch has cited legal and security exposure."
+  },
+  {
+   "cite": [
+    "c-881b0a8f5e",
+    "e-62bc16be1a"
+   ],
+   "text": "The board infers that a credible-and-urgent finding reported to have gone to the intelligence committees, followed eighteen months later by a briefing members found empty, was absorbed without producing disclosure."
+  },
+  {
+   "cite": [
+    "c-28dca8c57c",
+    "c-e0ecfad805"
+   ],
+   "text": "On the board's reading, a classified evaluation whose scope cannot be checked works in the public record as assurance rather than evidence, and components not required to report to AARO make its holdings a self-selected sample."
+  },
+  {
+   "cite": [
+    "c-8512998988",
+    "c-75d08ecf83"
+   ],
+   "text": "The records date the ICIG briefing differently, to 12 January and to 13 January 2024."
+  }
+ ],
  "essays": [],
  "focusEra": "3",
  "id": "whistleblower-channels",
  "kind": "mechanism",
- "lead": null,
- "members": [],
+ "lead": {
+  "cite": [
+   "c-5ba9eae189",
+   "e-a0dfc37ff4",
+   "c-aa22404b13",
+   "c-e58fa43896",
+   "c-b3ab8484d3",
+   "c-4ece534b0d"
+  ],
+  "text": "On 25 May 2022 Charles McCullough III, the first Inspector General of the Intelligence Community, filed David Grusch's urgent-concern complaint with that office, which by Grusch's sworn account and The Debrief's reporting found it credible and urgent in July 2022. What followed was a reprisal complaint, House whistleblower bills that never left referral, and a congressional letter on reprisal that the Department had not answered by September 2025."
+ },
+ "members": [
+  {
+   "cls": "institution",
+   "id": "icig",
+   "label": "Inspector General of the Intelligence Community",
+   "role": "institution"
+  },
+  {
+   "cls": "person",
+   "id": "thomas-monheim",
+   "label": "Thomas A. Monheim",
+   "role": "official"
+  },
+  {
+   "cls": "event",
+   "id": "icig-briefing-2024-01-12",
+   "label": "Closed ICIG UAP briefing to House Oversight members",
+   "role": "event"
+  },
+  {
+   "cls": "document",
+   "id": "grusch-icig-complaint",
+   "label": "Grusch PPD-19 Urgent Concern Complaint to the ICIG",
+   "role": "document"
+  },
+  {
+   "cls": "person",
+   "id": "charles-mccullough-iii",
+   "label": "Irvin Charles McCullough III",
+   "role": "claimant"
+  },
+  {
+   "cls": "institution",
+   "id": "compass-rose-legal-group",
+   "label": "Compass Rose Legal Group",
+   "role": "institution"
+  },
+  {
+   "cls": "person",
+   "id": "david-grusch",
+   "label": "David Charles Grusch",
+   "role": "claimant"
+  },
+  {
+   "cls": "institution",
+   "id": "dod-oig",
+   "label": "Department of Defense Office of Inspector General",
+   "role": "institution"
+  },
+  {
+   "cls": "document",
+   "id": "dodig-2023-109",
+   "label": "DoD OIG - Evaluation of the DoD's Actions Regarding Unidentified Anomalous Phenomena (DODIG-2023-109)",
+   "role": "document"
+  },
+  {
+   "cls": "person",
+   "id": "platte-moring",
+   "label": "Platte B. Moring III",
+   "role": "official"
+  },
+  {
+   "cls": "institution",
+   "id": "dod",
+   "label": "United States Department of Defense (secondary designation: Department of War)",
+   "role": "institution"
+  },
+  {
+   "cls": "institution",
+   "id": "aaro",
+   "label": "All-domain Anomaly Resolution Office (AARO)",
+   "role": "institution"
+  },
+  {
+   "cls": "legislation",
+   "id": "hr-10111-uap-whistleblower-protection-act",
+   "label": "H.R. 10111 - UAP Whistleblower Protection Act (118th Congress)",
+   "role": "law"
+  },
+  {
+   "cls": "legislation",
+   "id": "hr-5060-uap-whistleblower-protection-act",
+   "label": "H.R. 5060 - UAP Whistleblower Protection Act (119th Congress)",
+   "role": "law"
+  },
+  {
+   "cls": "document",
+   "id": "crane-dod-reprisal-letter",
+   "label": "Rep. Eli Crane letter to the Secretary of Defense re: Major David Charles Grusch reprisal",
+   "role": "document"
+  },
+  {
+   "cls": "person",
+   "id": "eli-crane",
+   "label": "Elijah Crane",
+   "role": "legislator"
+  },
+  {
+   "cls": "person",
+   "id": "tim-burchett",
+   "label": "Timothy Floyd Burchett",
+   "role": "legislator"
+  },
+  {
+   "cls": "person",
+   "id": "anna-paulina-luna",
+   "label": "Anna Paulina Luna",
+   "role": "legislator"
+  },
+  {
+   "cls": "person",
+   "id": "eric-burlison",
+   "label": "Eric Burlison",
+   "role": "legislator"
+  },
+  {
+   "cls": "person",
+   "id": "nancy-mace",
+   "label": "Nancy Ruth Mace",
+   "role": "legislator"
+  },
+  {
+   "cls": "person",
+   "id": "andy-ogles",
+   "label": "Andrew Ogles",
+   "role": "legislator"
+  },
+  {
+   "cls": "institution",
+   "id": "congressional-uap-caucus",
+   "label": "Congressional UAP Caucus",
+   "role": "institution"
+  },
+  {
+   "cls": "event",
+   "id": "hearing-2025-09-09",
+   "label": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'",
+   "role": "event"
+  },
+  {
+   "cls": "person",
+   "id": "dylan-borland",
+   "label": "Dylan Borland",
+   "role": "witness"
+  },
+  {
+   "cls": "institution",
+   "id": "waived-sap-notification-group",
+   "label": "Waived SAP Notification Group",
+   "role": "institution"
+  }
+ ],
  "notes": "The Inspector General route Grusch took, the whistleblower bills and the reprisal record.",
- "questions": [],
- "record": [],
- "related": [],
+ "questions": [
+  "Has any ICIG document stating the July 2022 credible-and-urgent finding been published, or does the finding rest only on Grusch's account and the reporting that relays it?",
+  "Did the Defense Department ever answer Crane's July 2025 letter, and on what date and under what authority was Grusch's clearance removed?",
+  "Did the ICIG investigate the underlying allegations, or only the reprisal claim, and how was the reprisal complaint resolved?",
+  "Did the substance of Grusch's complaint ever reach the Armed Services committees that oversee the programmes it concerns?",
+  "Will the classified DODIG-2023-109 report be released, and has its first recommendation been closed?",
+  "Is there any Inspector General or MSPB record of the retaliation Borland describes?",
+  "Why have both whistleblower protection bills stayed in referral, and who blocks them?"
+ ],
+ "record": [
+  {
+   "cite": [
+    "c-54fb0cd7f6",
+    "c-ec2a4984b1",
+    "e-bbc013b4fe",
+    "e-c24224e675",
+    "e-a0dfc37ff4"
+   ],
+   "text": "The unclassified reprisal complaint, as reported, records that Grusch's PPD-19 urgent-concern complaint was filed with the ICIG on 25 May 2022 by his counsel McCullough, a senior partner at Compass Rose Legal Group; Grusch testified that he became a whistleblower through a PPD-19 filing with the ICIG in May 2022."
+  },
+  {
+   "cite": [
+    "c-1eb7df41a9"
+   ],
+   "text": "Grusch described the complaint's subject under oath as material acquisition and exploitation activity, and the baselining of UAP without sharing it with the intelligence professionals who brief pilots."
+  },
+  {
+   "cite": [
+    "e-35fcaff806"
+   ],
+   "text": "Thomas Monheim has headed the ICIG since 2021, and his office briefed House Oversight members in closed session in January 2024."
+  },
+  {
+   "cite": [
+    "c-5a05012aca",
+    "c-c327a0ec39",
+    "c-a8c5e356bf",
+    "e-cc2b42a391",
+    "c-74e7b3de54"
+   ],
+   "text": "The Defense Department Inspector General's evaluation DODIG-2023-109, dated 15 August 2023, is classified (the office is now led by Platte B. Moring III); its 16-page unclassified summary, released in January 2024, found that the Department had no overarching UAP policy and so lacked assurance that UAP threats to national security and flight safety had been identified and mitigated."
+  },
+  {
+   "cite": [
+    "c-a6bbacdb43",
+    "c-a068916e75",
+    "c-36c8fed2da",
+    "c-de3bcab12f",
+    "c-296bf88ea1",
+    "e-af4812909f"
+   ],
+   "text": "The summary also found no comprehensive UAP response plan, no formal requirement that components report UAP incidents to AARO, differing service reporting systems, and geographic combatant commanders largely excluded from policy development. It made eleven recommendations; the first, a department-wide UAP policy, was left resolved but open."
+  },
+  {
+   "cite": [
+    "c-564e725434",
+    "c-8ca1eeb6a8",
+    "c-69b007ddee",
+    "c-b3ab8484d3",
+    "e-b0fc975d66",
+    "e-2d118c74de",
+    "e-a288b5a67f",
+    "e-213ee1bc4e"
+   ],
+   "text": "Burchett's H.R. 10111 was introduced on 12 November 2024 with Mace, Luna and Burlison as cosponsors, and his H.R. 5060 on 29 August 2025 with Luna and Crane; both were referred to Oversight and additionally to the Intelligence and Armed Services committees, and neither has advanced beyond referral."
+  },
+  {
+   "cite": [
+    "c-ea62b8981e"
+   ],
+   "text": "Burlison said on the record that the bill is language that would protect whistleblowers from reprisal and that it is blocked again and again, often by staff rather than elected officials."
+  },
+  {
+   "cite": [
+    "c-901a862429",
+    "c-4d89549125",
+    "c-4ece534b0d",
+    "e-1d63c956f3",
+    "e-017662ddf4",
+    "e-bdb1237ea5"
+   ],
+   "text": "Crane's letter to the Defense Department of 24 July 2025 states that Grusch suffered reprisal including removal of his clearance, denial of promotion and loss of medical retirement. Crane entered it into the 9 September 2025 hearing record saying he was still waiting for a reply, and Luna said the Task Force would follow up."
+  },
+  {
+   "cite": [
+    "e-44433b7e5b",
+    "c-f8dc04ddbb",
+    "c-68b267b9f9"
+   ],
+   "text": "Tim Burchett said in his opening statement at the 2023 hearing that members had been denied a classified briefing in a SCIF beforehand because of the steps needed to give Grusch temporary clearance, and Andy Ogles offered to invoke the Holman Rule against any personnel, programme or agency that denied Congress access to him."
+  },
+  {
+   "cite": [
+    "e-a08330f2e8"
+   ],
+   "text": "Nancy Mace sits on House Armed Services but holds neither the chair nor the ranking seat, so she receives nothing under 10 U.S.C. 119(e)(2)."
+  }
+ ],
+ "related": [
+  "hearing-2023",
+  "task-force-2025",
+  "house-push-2026",
+  "grusch-allegations",
+  "uap-statutes",
+  "aaro",
+  "sap-reporting",
+  "congressional-witnesses",
+  "testimony-provenance"
+ ],
  "section": "congress-disclosure",
  "span": {
   "from": "2017",
   "to": "2026"
  },
- "status": "draft",
- "summary": [],
+ "status": "verified",
+ "summary": [
+  {
+   "cite": [
+    "e-83b775741d",
+    "e-5ba30d802c",
+    "c-747c1f2aa6"
+   ],
+   "text": "Two inspectors general are involved: the Intelligence Community Inspector General, who received Grusch's complaint and later briefed House members, and the Defense Department's Inspector General, whose 2023 evaluation of the Department's UAP handling is classified except for a summary."
+  },
+  {
+   "cite": [
+    "e-dbaee75587",
+    "e-88d8177da1",
+    "c-1ce235583d"
+   ],
+   "text": "In the House, Tim Burchett's UAP Whistleblower Protection Act was filed in 2024 and again in 2025, and the reprisal case against Grusch entered the record through Rep. Eli Crane's letter at the September 2025 hearing."
+  },
+  {
+   "cite": [
+    "e-7d67c2383f",
+    "e-465eaee615",
+    "e-3573062eba"
+   ],
+   "text": "The members pressing these channels hold no statutory entitlement to see waived special access programmes, and a caucus confers none."
+  }
+ ],
  "title": "Whistleblower channels, protections and reprisal"
 }

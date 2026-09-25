@@ -9,25 +9,1572 @@
   "alien-rapture-1998"
  ],
  "appendixT": "arv-tr3b",
- "cites": {},
- "claimed": [],
- "contested": [],
+ "cites": {
+  "c-04015718c0": {
+   "id": "c-04015718c0",
+   "kind": "claim",
+   "node": "fouche-iufoc-1998",
+   "nodeLabel": "Fouche's presentation transcript, August 1998",
+   "source": {
+    "domain": "www.checktheevidence.com",
+    "text": "Presentation to IUFOR by Edgar Rothshild Fouche, page 1, https://www.checktheevidence.com/pdf/Edgar%20Fouche%20-%201998%20Presentation%20to%20IUFOC.pdf , 1998-08",
+    "url": "https://www.checktheevidence.com/pdf/Edgar%20Fouche%20-%201998%20Presentation%20to%20IUFOC.pdf"
+   },
+   "text": "The transcript's first four lines are: 'Presentation to IUFOR by / Edgar Rothshild Fouche / Copyright Aug. 1998 / Fouche Media Associates'. Both 'IUFOR' and 'Rothshild' are misspelled in the header of the document itself.",
+   "tier": 1
+  },
+  "c-0e713d600c": {
+   "id": "c-0e713d600c",
+   "kind": "claim",
+   "node": "fouche-afftc-det3-1979",
+   "nodeLabel": "AF Form 77a, Letter of Evaluation, 24 August 1979",
+   "source": {
+    "domain": null,
+    "text": "Reasoning over the form's own text and the Merlin identification; research/leads/verified-tr3b-2026-09-18.md section 5.5",
+    "url": null
+   },
+   "text": "Stated inference. If the form is genuine, it documents ten weeks of temporary duty in 1979 at the unit that operates the Groom Lake airfield, doing avionics work at the F-15 intermediate shop level. That is the strongest thing in the entire Fouche file. It is also, on its face, consistent with routine test-support maintenance, and it establishes nothing whatever about triangular craft, propulsion or reverse engineering, which post-date the assignment by a decade in the claimant's own telling.",
+   "tier": 3
+  },
+  "c-137c1ac3e3": {
+   "id": "c-137c1ac3e3",
+   "kind": "claim",
+   "node": "edgar-fouche",
+   "nodeLabel": "Edgar Fouche",
+   "source": {
+    "domain": "www.checktheevidence.com",
+    "text": "Edgar Fouche's Military, and DOD contractors reference Documents, 15 pages read in full, https://www.checktheevidence.com/pdf/Edgar%20Fouches%20Military%20Documents.pdf , opened 2026-09-18",
+    "url": "https://www.checktheevidence.com/pdf/Edgar%20Fouches%20Military%20Documents.pdf"
+   },
+   "text": "The same collection carries an Air Training Command Associate in Applied Science degree in Avionics Systems Technology conferred July 1983 through the Community College of the Air Force, a 1970 Field Training Detachment certificate in Solid State Devices, and a February 1974 McDonnell Aircraft Corporation certificate for the F-15 Eagle Integrated Avionics Component Technicians Course. Every item in the collection is a decoration, a training certificate, a performance report, a degree, or one personnel assignment letter. There is no discharge certificate, no DD Form 214, no clearance record and no programme document.",
+   "tier": 1
+  },
+  "c-13f1c0ba3d": {
+   "id": "c-13f1c0ba3d",
+   "kind": "claim",
+   "node": "edgar-fouche",
+   "nodeLabel": "Edgar Fouche",
+   "source": {
+    "domain": "www.findagrave.com",
+    "text": "Find a Grave memorial 180498305, https://www.findagrave.com/memorial/180498305/edgar-albert-fouch%C3%A9 , opened 2026-09-18",
+    "url": "https://www.findagrave.com/memorial/180498305/edgar-albert-fouch%C3%A9"
+   },
+   "text": "Find a Grave memorial 180498305, created 18 June 2017 and citing an obituary from Mason Funeral Home, records Edgar Albert Fouche, born 22 February 1948 in Americus, Georgia, died 11 May 2017 aged 69, buried at Coffey Cemetery, Streeter, Mason County, Texas, with the inscription 'Saved by the blood of Jesus Christ'. It states he 'served 20 years in the USAF and worked as a Project Manager in the DOD until his 2001 retirement'.",
+   "tier": 1
+  },
+  "c-1b642e0823": {
+   "id": "c-1b642e0823",
+   "kind": "claim",
+   "node": "edgar-fouche",
+   "nodeLabel": "Edgar Fouche",
+   "source": {
+    "domain": "www.checktheevidence.com",
+    "text": "Presentation to IUFOR by Edgar Rothshild Fouche, slides 7 to 10, https://www.checktheevidence.com/pdf/Edgar%20Fouche%20-%201998%20Presentation%20to%20IUFOC.pdf , 1998-08",
+    "url": "https://www.checktheevidence.com/pdf/Edgar%20Fouche%20-%201998%20Presentation%20to%20IUFOC.pdf"
+   },
+   "text": "In the same presentation he claims descent from Napoleon's minister of police: 'He was the head of the French secret National Police Force and a direct ancestor of mine.' No genealogical record was opened, and the presentation also calls Joseph Fouche 'the Prime Minister under Napoleon', which is not an office he held.",
+   "tier": 2
+  },
+  "c-1eb798c34b": {
+   "id": "c-1eb798c34b",
+   "kind": "claim",
+   "node": "edgar-fouche",
+   "nodeLabel": "Edgar Fouche",
+   "source": {
+    "domain": "www.checktheevidence.com",
+    "text": "Andrew Johnson, checktheevidence.com, 13 January 2015, https://www.checktheevidence.com/wordpress/2015/01/13/edgar-fouche-documents-released-in-foia-show-the-same-type-of-record-as-he-provided-himself/ , opened 2026-09-18",
+    "url": "https://www.checktheevidence.com/wordpress/2015/01/13/edgar-fouche-documents-released-in-foia-show-the-same-type-of-record-as-he-provided-himself/"
+   },
+   "text": "Andrew Johnson reports that a FOIA return obtained by David Hilton and posted on 25 September 2014 lists Lackland AFB (1967), Keesler AFB and Cannon AFB (1968), 'F-15 Manual Test Station Shift Chief, 57th Component Repair Squadron, Nellis Air Force Base, Nevada, from June 1976 to 16 July 1979', the Kadena assignment, and decorations including the Vietnam Service Medal and Republic of Vietnam Gallantry Cross with Palm Device. The FOIA return itself was not opened by this research.",
+   "tier": 2
+  },
+  "c-208b6994cc": {
+   "id": "c-208b6994cc",
+   "kind": "claim",
+   "node": "alien-rapture-1998",
+   "nodeLabel": "Alien Rapture: The Chosen, Galde Press, 1998",
+   "source": {
+    "domain": "lx2.loc.gov",
+    "text": "Library of Congress catalogue, SRU query bath.isbn=1880090503, MODS record, LCCN 98002961, http://lx2.loc.gov:210/lcdb , opened 2026-09-18",
+    "url": "http://lx2.loc.gov:210/lcdb"
+   },
+   "text": "The same record gives the full imprint: title 'Alien rapture', subtitle 'the chosen'; names 'Fouche, Edgar Rothschild, 1948-' (usage primary) and 'Steiger, Brad.'; place 'Lakeville, Minn'; agent 'Galde Press'; dateIssued 1998; edition '1st ed.'; extent 'xii, 275 p. ; 23 cm.'; ISBN 1880090503 and 9781880090503. Its recordContentSource is DLC and its recordCreationDate is 980204, that is 4 February 1998, which precedes both the book's publication and the August 1998 presentation.",
+   "tier": 1
+  },
+  "c-242988dc58": {
+   "id": "c-242988dc58",
+   "kind": "claim",
+   "node": "fouche-military-documents",
+   "nodeLabel": "Edgar Fouche's Military, and DOD contractors reference Documents",
+   "source": {
+    "domain": "www.checktheevidence.com",
+    "text": "Edgar Fouche's Military, and DOD contractors reference Documents, page 1 image, https://www.checktheevidence.com/pdf/Edgar%20Fouches%20Military%20Documents.pdf , opened 2026-09-18",
+    "url": "https://www.checktheevidence.com/pdf/Edgar%20Fouches%20Military%20Documents.pdf"
+   },
+   "text": "THE 'SAC/DARPA CLASSIFIED DOCUMENT' CARRIES NO CLASSIFICATION MARKING. The page 1 image, rendered at 190 dpi and read, reads: 'DEPARTMENT OF THE AIR FORCE / HEADQUARTERS STRATEGIC AIR COMMAND / OFFUTT AIR FORCE BASE, NEBRASKA 68113 / 10 JUL 1984 / REPLY TO ATTN OF: DARPA / SUBJECT: Request for Assignment [redacted] MSgt Edgar A. Fouche, FR[redacted] (Your Ltr, 21 Jun 84) / TO: LGMQ / HQ AFMPC has approved an AAR 51[redacted] on MSgt (32674) Fouche as requested. MSgt Fouche's date of availability is Aug 87. / DALE E. HAGERMAN, TSgt, USAF / NCOIC, Amn Acft Maint Asgns Sec / Dir of Asgns, DCS/Pers', with a handwritten marginal note reading '(Controlled) 51 still accessable until' and the Strategic Air Command motto at the foot. There is no banner marking, no portion marking, no control number and no copy-of count anywhere on the page. It is signed by a technical sergeant in an assignments section of a personnel directorate.",
+   "tier": 1
+  },
+  "c-24a5ed884c": {
+   "id": "c-24a5ed884c",
+   "kind": "claim",
+   "node": "tr-3b",
+   "nodeLabel": "TR-3B 'Astra', claimed black triangular aircraft",
+   "source": {
+    "domain": "www.checktheevidence.com",
+    "text": "Presentation to IUFOR by Edgar Rothshild Fouche, slide 6, https://www.checktheevidence.com/pdf/Edgar%20Fouche%20-%201998%20Presentation%20to%20IUFOC.pdf , 1998-08",
+    "url": "https://www.checktheevidence.com/pdf/Edgar%20Fouche%20-%201998%20Presentation%20to%20IUFOC.pdf"
+   },
+   "text": "The craft is attached to the existing sighting literature by the artefact itself, at slide 6: 'Before I'm through, you will know exactly what the Flying Triangle is. The one that has been sighted around the world... It could be stealthily hovering somewhere over Phoenix - Arizona, Gulf Breeze - Florida, the country of Belgium, or your city.'",
+   "tier": 1
+  },
+  "c-2a42f54c48": {
+   "id": "c-2a42f54c48",
+   "kind": "claim",
+   "node": "testors-sr-75-kit",
+   "nodeLabel": "Testor Corp. SR-75 Penetrator and XR-7 Thunderdart model kits, 1993",
+   "source": {
+    "domain": "www.baltimoresun.com",
+    "text": "Baltimore Sun, 25 December 1993, https://www.baltimoresun.com/1993/12/25/for-latest-spy-plane-look-under-your-tree-2/ , opened 2026-09-18",
+    "url": "https://www.baltimoresun.com/1993/12/25/for-latest-spy-plane-look-under-your-tree-2/"
+   },
+   "text": "The same article carries the Air Force's on-record denial, from Capt. Mary Dillon, an Air Force spokeswoman in Washington: 'We're not saying no comment, we're saying such a plane does not exist.'",
+   "tier": 1
+  },
+  "c-2a71db3503": {
+   "id": "c-2a71db3503",
+   "kind": "claim",
+   "node": "alien-rapture-1998",
+   "nodeLabel": "Alien Rapture: The Chosen, Galde Press, 1998",
+   "source": {
+    "domain": "openlibrary.org",
+    "text": "Open Library work record OL1803180W, https://openlibrary.org/works/OL1803180W.json , opened 2026-09-18",
+    "url": "https://openlibrary.org/works/OL1803180W.json"
+   },
+   "text": "Open Library independently records the same work as Galde Press, 1998, 275 pages, ISBN 1880090503 and 9781880090503, with subjects 'Alien abduction' and 'Fiction', and LC classification PS3556.O779 A79 1998.",
+   "tier": 1
+  },
+  "c-33af0575a6": {
+   "id": "c-33af0575a6",
+   "kind": "claim",
+   "node": "tr-3b",
+   "nodeLabel": "TR-3B 'Astra', claimed black triangular aircraft",
+   "source": {
+    "domain": "www.checktheevidence.com",
+    "text": "Presentation to IUFOR by Edgar Rothshild Fouche, slides 69 and 70, https://www.checktheevidence.com/pdf/Edgar%20Fouche%20-%201998%20Presentation%20to%20IUFOC.pdf , 1998-08",
+    "url": "https://www.checktheevidence.com/pdf/Edgar%20Fouche%20-%201998%20Presentation%20to%20IUFOC.pdf"
+   },
+   "text": "THE SELF-CONTRADICTION, AND IT IS THE MOST USEFUL SINGLE FACT ON THIS NODE. Slide 69 of the same document states 'The operational model is 600 feet across.' Slide 70 states 'The 200 feet Prototype & the 300 feet Operational TR-3Bs are Code named Astra.' Both sentences are present in the same transcript, two slides apart, and they give the operational craft two different sizes.",
+   "tier": 1
+  },
+  "c-3786957d59": {
+   "id": "c-3786957d59",
+   "kind": "claim",
+   "node": "fouche-afftc-det3-1979",
+   "nodeLabel": "AF Form 77a, Letter of Evaluation, 24 August 1979",
+   "source": {
+    "domain": "www.checktheevidence.com",
+    "text": "AF Form 77a, 24 August 1979, page 3 of the same compilation, https://www.checktheevidence.com/pdf/Edgar%20Fouches%20Military%20Documents.pdf , 1979-08-24",
+    "url": "https://www.checktheevidence.com/pdf/Edgar%20Fouches%20Military%20Documents.pdf"
+   },
+   "text": "The form's identifying fields are legible: ratee 'Fouche, Edgar A', active duty grade 'TSGT', period of observation 'FROM 10 June 79 THRU 14 AUG 79', evaluator 'Brewer, MSgt, USAF, 57 CRS, Nellis AFB Nevada', duty title 'NCOIC F-15 AIS', date '24 Aug 79'. The form is an AF Form 77a of November 1974, 'SUPPLEMENTAL SHEET TO AF FORMS 707, 909, 910, 911 AND 475'.",
+   "tier": 1
+  },
+  "c-41087d2820": {
+   "id": "c-41087d2820",
+   "kind": "claim",
+   "node": "tr-3b",
+   "nodeLabel": "TR-3B 'Astra', claimed black triangular aircraft",
+   "source": {
+    "domain": "www.checktheevidence.com",
+    "text": "Presentation to IUFOR by Edgar Rothshild Fouche, slide 69, https://www.checktheevidence.com/pdf/Edgar%20Fouche%20-%201998%20Presentation%20to%20IUFOC.pdf , 1998-08",
+    "url": "https://www.checktheevidence.com/pdf/Edgar%20Fouche%20-%201998%20Presentation%20to%20IUFOC.pdf"
+   },
+   "text": "The sighting at the core of the account is second hand within the artefact itself. Slide 69 opens: 'A friend said, he would never forget the sight of the alien looking TR-3B based at Papoose.' The claimant does not claim to have seen the craft.",
+   "tier": 1
+  },
+  "c-5462df1b17": {
+   "id": "c-5462df1b17",
+   "kind": "claim",
+   "node": "peter-merlin",
+   "nodeLabel": "Peter W. Merlin",
+   "source": {
+    "domain": "noriohayakawa.wordpress.com",
+    "text": "Peter Merlin, quoted in Norio Hayakawa, 19 March 2016, https://noriohayakawa.wordpress.com/2016/03/19/edgar-fouches-tr-3b-is-most-likely-a-hoax/ , opened 2026-09-18",
+    "url": "https://noriohayakawa.wordpress.com/2016/03/19/edgar-fouches-tr-3b-is-most-likely-a-hoax/"
+   },
+   "text": "On the aircraft photograph Fouche captioned 'Early static prototype of a very Top Secret F-117 at the very classified Groom AB. We called it Have Blue back then': 'This is not HAVE BLUE. It is the first YF-117A SENIOR TREND prototype.' Merlin adds that a former Lockheed employee he spoke with identified the man Fouche names as 'CMSgt. Billy Snodgrass' as 'Roy Wilson, structures mechanic'.",
+   "tier": 2
+  },
+  "c-570e174696": {
+   "id": "c-570e174696",
+   "kind": "claim",
+   "node": "testors-sr-75-kit",
+   "nodeLabel": "Testor Corp. SR-75 Penetrator and XR-7 Thunderdart model kits, 1993",
+   "source": {
+    "domain": "www.baltimoresun.com",
+    "text": "Baltimore Sun, 'For latest spy plane look under your tree', 25 December 1993, https://www.baltimoresun.com/1993/12/25/for-latest-spy-plane-look-under-your-tree-2/ , opened 2026-09-18",
+    "url": "https://www.baltimoresun.com/1993/12/25/for-latest-spy-plane-look-under-your-tree-2/"
+   },
+   "text": "The Baltimore Sun of 25 December 1993 reports Testor Corp. selling 'the SR-75 Penetrator and XR-7 Thunderdart, the latest in a series of highly speculative military miniature models', developed by analysing 'sonic boom patterns over Southern California, jet exhaust patterns over Nevada, journals on Stealth and high-speed jet technology, and informed aviation-industry speculation'.",
+   "tier": 1
+  },
+  "c-5b5794a88d": {
+   "id": "c-5b5794a88d",
+   "kind": "claim",
+   "node": "edgar-fouche",
+   "nodeLabel": "Edgar Fouche",
+   "source": {
+    "domain": "www.checktheevidence.com",
+    "text": "Presentation to IUFOR by Edgar Rothshild Fouche, Copyright Aug. 1998, Fouche Media Associates, https://www.checktheevidence.com/pdf/Edgar%20Fouche%20-%201998%20Presentation%20to%20IUFOC.pdf , 1998-08",
+    "url": "https://www.checktheevidence.com/pdf/Edgar%20Fouche%20-%201998%20Presentation%20to%20IUFOC.pdf"
+   },
+   "text": "In his own 1998 presentation he claims clearances no opened record corroborates: 'I've held positions within the USAF that required me to have Top Secret and Q Clearances and Top Secret - Crypto access clearances.' No clearance record of any kind was opened.",
+   "tier": 2
+  },
+  "c-5bb8adc5d7": {
+   "id": "c-5bb8adc5d7",
+   "kind": "claim",
+   "node": "testors-sr-75-kit",
+   "nodeLabel": "Testor Corp. SR-75 Penetrator and XR-7 Thunderdart model kits, 1993",
+   "source": {
+    "domain": null,
+    "text": "Reasoning over the Baltimore Sun of 25 December 1993 and slide 62 onward of the 1998 presentation; research/leads/verified-tr3b-2026-09-18.md section 6.3",
+    "url": null
+   },
+   "text": "Stated inference. 'SR-75 Penetrator', a mothership carrying a smaller high-speed vehicle, is a specific and unusual concept that was published commercially, in a box, with a designer's name on it, in 1993. Fouche presents the same designation and the same mothership architecture in August 1998 as inside knowledge. Either the kit anticipated a real programme, which is what the audience was invited to conclude from the F-19 precedent the article itself cites, or the account absorbed the kit. Nothing opened decides it. The priority is documented and one-directional and must not be inverted.",
+   "tier": 3
+  },
+  "c-639862f702": {
+   "id": "c-639862f702",
+   "kind": "claim",
+   "node": "tr-3b",
+   "nodeLabel": "TR-3B 'Astra', claimed black triangular aircraft",
+   "source": {
+    "domain": null,
+    "text": "Reasoning over the NIST phase change data for mercury and slide 72 of the 1998 presentation; research/leads/verified-tr3b-2026-09-18.md section 6.2",
+    "url": null
+   },
+   "text": "Stated inference, and it is a short one. 150 K is 84 K below mercury's melting point of 234.31 K at one atmosphere. Mercury's melting curve has a positive slope, so a pressure of 250,000 atmospheres raises the melting point rather than lowering it, putting the material further into the solid region and not closer to a gas. A plasma is an ionised gas. The specification therefore describes a solid and calls it a plasma, and it does so before any question of superconductivity, rotation or gravity is reached.",
+   "tier": 3
+  },
+  "c-7055e3af76": {
+   "id": "c-7055e3af76",
+   "kind": "claim",
+   "node": "fouche-afftc-det3-1979",
+   "nodeLabel": "AF Form 77a, Letter of Evaluation, 24 August 1979",
+   "source": {
+    "domain": "www.checktheevidence.com",
+    "text": "AF Form 77a, 24 August 1979, page 3 of the same compilation, https://www.checktheevidence.com/pdf/Edgar%20Fouches%20Military%20Documents.pdf , 1979-08-24",
+    "url": "https://www.checktheevidence.com/pdf/Edgar%20Fouches%20Military%20Documents.pdf"
+   },
+   "text": "The work the form is rating is described in entirely conventional terms: 'TSgt Fouche is considered one of TACs best R&D team builders in areas of ECM, ATS, and cryptological support. He has proven himself recently in the implementation of the TEWS-TITE bed-down, which was lauded by TAC Hq LGM. STRENGTHS: TSgt Fouche displays excellent capabilities when given greater responsibilities, which was demonstrated in his MAJCOM involvement in cryptological asset training and provisioning.'",
+   "tier": 1
+  },
+  "c-7269b47911": {
+   "id": "c-7269b47911",
+   "kind": "claim",
+   "node": "checktheevidence",
+   "nodeLabel": "Check The Evidence (checktheevidence.com), Andrew Johnson",
+   "source": {
+    "domain": "www.checktheevidence.co.uk",
+    "text": "Andrew Johnson, 'Keeping The Secret Space Programme a Secret', 2 July 2014, http://www.checktheevidence.co.uk/articles/Keeping%20The%20Secret%20Space%20Programme%20a%20Secret.htm , opened 2026-09-18",
+    "url": "http://www.checktheevidence.co.uk/articles/Keeping%20The%20Secret%20Space%20Programme%20a%20Secret.htm"
+   },
+   "text": "Johnson's post of 2 July 2014 is the only opened description of the video said to contain an admission, and it records that he could not verify it: 'The video is about an alleged Skype conversation with Edgar Fouche, but I could not see the screen clearly enough in Hilton's video to verify the claims he was making.' It also establishes that the video is David Hilton's and not Jeremy Rys's.",
+   "tier": 1
+  },
+  "c-7273e07c5b": {
+   "id": "c-7273e07c5b",
+   "kind": "claim",
+   "node": "tr-3b",
+   "nodeLabel": "TR-3B 'Astra', claimed black triangular aircraft",
+   "source": {
+    "domain": "webbook.nist.gov",
+    "text": "NIST Chemistry WebBook, phase change data for mercury, https://webbook.nist.gov/cgi/cbook.cgi?ID=C7439976&Mask=4 , opened 2026-09-18",
+    "url": "https://webbook.nist.gov/cgi/cbook.cgi?ID=C7439976&Mask=4"
+   },
+   "text": "THE TIER 1 PHYSICAL ANCHOR AGAINST THE PROPULSION CLAIM. The NIST Chemistry WebBook gives mercury, CAS 7439-97-6, a melting point of 234.31 K (Marsh, 1987, uncertainty assigned by TRC 0.005 K), a triple point of 234.3 K, and a boiling point of 629.81 K.",
+   "tier": 1
+  },
+  "c-747aac8b5d": {
+   "id": "c-747aac8b5d",
+   "kind": "claim",
+   "node": "fouche-military-documents",
+   "nodeLabel": "Edgar Fouche's Military, and DOD contractors reference Documents",
+   "source": {
+    "domain": "www.checktheevidence.co.uk",
+    "text": "Andrew Johnson, checktheevidence.com, 12 and 13 January 2015, http://www.checktheevidence.co.uk/articles/David%20Hilton%20FOIA%20on%20ed%20Fouche.htm , opened 2026-09-18",
+    "url": "http://www.checktheevidence.co.uk/articles/David%20Hilton%20FOIA%20on%20ed%20Fouche.htm"
+   },
+   "text": "David Hilton alleged in a video of 26 June 2014 that Fouche 'faked one or more of his own military documents' and therefore could not be trusted; Hilton then filed a Freedom of Information Act request for Fouche's military records and posted the return on 25 September 2014. Andrew Johnson's reading of the return is that it corroborates what Fouche had already said.",
+   "tier": 2
+  },
+  "c-751df00dfa": {
+   "id": "c-751df00dfa",
+   "kind": "claim",
+   "node": "alien-rapture-1998",
+   "nodeLabel": "Alien Rapture: The Chosen, Galde Press, 1998",
+   "source": {
+    "domain": "lx2.loc.gov",
+    "text": "Library of Congress catalogue, SRU query bath.isbn=1880090503, MODS record, LCCN 98002961, http://lx2.loc.gov:210/lcdb , opened 2026-09-18",
+    "url": "http://lx2.loc.gov:210/lcdb"
+   },
+   "text": "THE CATALOGUING, AND IT IS THE POINT OF THIS NODE. Library of Congress record LCCN 98002961 carries, under the gsafd genre authority, the genre element 'Science fiction.' Its Library of Congress subject heading is 'Alien abduction - Fiction'. Its LC classification is PS3556.O779 A79 1998, American literature, individual authors, 1961 onward, and its Dewey 21 classification is 813/.54, American fiction. The Library of Congress catalogues Alien Rapture: The Chosen as a novel.",
+   "tier": 1
+  },
+  "c-7aeeb9d53e": {
+   "id": "c-7aeeb9d53e",
+   "kind": "claim",
+   "node": "northrop-tacit-blue",
+   "nodeLabel": "Northrop TACIT BLUE",
+   "source": {
+    "domain": "nsarchive2.gwu.edu",
+    "text": "U.S. Air Force Fact Sheet 'NORTHROP TACIT BLUE', https://nsarchive2.gwu.edu/NSAEBB/NSAEBB443/docs/area51_58.PDF , opened 2026-09-18",
+    "url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB443/docs/area51_58.PDF"
+   },
+   "text": "The specifications on the same fact sheet: 'Span: 48 ft. 2 in. Height: 10 ft. 7 in. Length: 55 ft. 10 in. Weight: 30,000 lbs. Engines: Two Garrett ATF3-6 high-bypass turbofan engines. Armament: None.' Five pilots are named on a plaque mounted in the cockpit: Mr. Richard Thomas, Col. (Sel) Don Cornell, Lt. Col. Russ Easter, Lt. Col. Ken Dyson and Maj. Dan Vanderhorst.",
+   "tier": 1
+  },
+  "c-7baf5528fa": {
+   "id": "c-7baf5528fa",
+   "kind": "claim",
+   "node": "fouche-military-documents",
+   "nodeLabel": "Edgar Fouche's Military, and DOD contractors reference Documents",
+   "source": {
+    "domain": "www.checktheevidence.co.uk",
+    "text": "Edgar Fouche's Military, and DOD contractors reference Documents, text layer, and the HTML original at http://www.checktheevidence.co.uk/articles/edgar%20fouche%20documents.htm , opened 2026-09-18",
+    "url": "http://www.checktheevidence.co.uk/articles/edgar%20fouche%20documents.htm"
+   },
+   "text": "The captions name a vetting witness: 'This is consistent with his previous documents and also has been verified by Don Waldrop, California State Director MUFON. Don Waldrop saw this document and about 200 others in 1998.' This is Tier 1 as a record of what the page says. Waldrop's own account was not opened.",
+   "tier": 1
+  },
+  "c-7cca6a7b2d": {
+   "id": "c-7cca6a7b2d",
+   "kind": "claim",
+   "node": "fouche-military-documents",
+   "nodeLabel": "Edgar Fouche's Military, and DOD contractors reference Documents",
+   "source": {
+    "domain": "www.checktheevidence.com",
+    "text": "Edgar Fouche's Military, and DOD contractors reference Documents, 15 pages read in full, https://www.checktheevidence.com/pdf/Edgar%20Fouches%20Military%20Documents.pdf , opened 2026-09-18",
+    "url": "https://www.checktheevidence.com/pdf/Edgar%20Fouches%20Military%20Documents.pdf"
+   },
+   "text": "The compilation contains no discharge certificate, no DD Form 214, no security clearance record, no SF 86, no contract, no programme document and no drawing. Every item is a decoration, a training certificate, a performance report, a degree, or one personnel assignment letter.",
+   "tier": 1
+  },
+  "c-7fbcbbf34a": {
+   "id": "c-7fbcbbf34a",
+   "kind": "claim",
+   "node": "peter-merlin",
+   "nodeLabel": "Peter W. Merlin",
+   "source": {
+    "domain": "noriohayakawa.wordpress.com",
+    "text": "Peter Merlin, quoted between (QUOTE) and (UNQUOTE) markers in Norio Hayakawa, 'Edgar Fouche's TR-3B is most likely a hoax', 19 March 2016, https://noriohayakawa.wordpress.com/2016/03/19/edgar-fouches-tr-3b-is-most-likely-a-hoax/ , opened 2026-09-18",
+    "url": "https://noriohayakawa.wordpress.com/2016/03/19/edgar-fouches-tr-3b-is-most-likely-a-hoax/"
+   },
+   "text": "His general position, quoted verbatim: 'I have always been extremely skeptical of Fouche. Many of his claims were questionable or misleading.'",
+   "tier": 2
+  },
+  "c-8614bbbb95": {
+   "id": "c-8614bbbb95",
+   "kind": "claim",
+   "node": "fouche-military-documents",
+   "nodeLabel": "Edgar Fouche's Military, and DOD contractors reference Documents",
+   "source": {
+    "domain": "www.checktheevidence.com",
+    "text": "Edgar Fouche's Military, and DOD contractors reference Documents, page 1 caption text layer, https://www.checktheevidence.com/pdf/Edgar%20Fouches%20Military%20Documents.pdf , opened 2026-09-18",
+    "url": "https://www.checktheevidence.com/pdf/Edgar%20Fouches%20Military%20Documents.pdf"
+   },
+   "text": "THE REDACTIONS WERE APPLIED BY THE SUBJECT OF THE RECORD, ON HIS OWN CAPTION'S ADMISSION: 'The first blackened out part is a classified assignment SCI/:SAP code. The second blackened out part is my SSN. AAR is After Action Request, refers to a classified program. This was blackened out by me as the specific AAR is classified TS.' The document as published therefore cannot be checked at precisely the points where its publisher says the meaning lies.",
+   "tier": 1
+  },
+  "c-8927fee77e": {
+   "id": "c-8927fee77e",
+   "kind": "claim",
+   "node": "peter-merlin",
+   "nodeLabel": "Peter W. Merlin",
+   "source": {
+    "domain": "www.dreamlandresort.com",
+    "text": "Peter W. Merlin biography, Dreamland Resort, https://www.dreamlandresort.com/team/peter.html , opened 2026-09-18",
+    "url": "https://www.dreamlandresort.com/team/peter.html"
+   },
+   "text": "His biography records a Bachelor of Science degree in Aeronautical Studies from Embry-Riddle Aeronautical University in Daytona Beach, Florida; that he 'has been researching the history of Area 51 since 1984'; that he co-founded the X-Hunters Aerospace Archeology Team; and authorship or co-authorship of Mach 3+: NASA/USAF YF-12 Flight Research 1969-1979 (NASA, 2001), The Smell of Kerosene: A Test Pilot's Odyssey (NASA, 2003), From Archangel to Senior Crown: Design and Development of the Blackbird (AIAA, 2008), X-Plane Crashes (Specialty Press, 2008), Unlimited Horizons: Design and Development of the U-2 (NASA, 2015), Images of America: Nevada Test Site (Arcadia, 2016), Images of America: Tonopah Test Range (Arcadia, 2021) and DREAMLAND: The Secret History of Area 51 (Schiffer, 2023).",
+   "tier": 1
+  },
+  "c-8c07494d11": {
+   "id": "c-8c07494d11",
+   "kind": "claim",
+   "node": "fouche-iufoc-1998",
+   "nodeLabel": "Fouche's presentation transcript, August 1998",
+   "source": {
+    "domain": "www.checktheevidence.com",
+    "text": "PDF metadata read directly from the file retrieved at https://www.checktheevidence.com/pdf/Edgar%20Fouche%20-%201998%20Presentation%20to%20IUFOC.pdf , opened 2026-09-18",
+    "url": "https://www.checktheevidence.com/pdf/Edgar%20Fouche%20-%201998%20Presentation%20to%20IUFOC.pdf"
+   },
+   "text": "The PDF opened carries producer 'PDF-XChange 4.0.195.0 (Windows Seven Ultimate x64 Service Pack 1 (Build 7601))' and creation date D:20140113142726Z, with no title and no author recorded. It is 3,340,952 bytes over 62 pages and has a genuine text layer rather than being a scan.",
+   "tier": 1
+  },
+  "c-9035eba139": {
+   "id": "c-9035eba139",
+   "kind": "claim",
+   "node": "peter-merlin",
+   "nodeLabel": "Peter W. Merlin",
+   "source": {
+    "domain": "noriohayakawa.wordpress.com",
+    "text": "Peter Merlin, quoted in Norio Hayakawa, 19 March 2016, https://noriohayakawa.wordpress.com/2016/03/19/edgar-fouches-tr-3b-is-most-likely-a-hoax/ , opened 2026-09-18",
+    "url": "https://noriohayakawa.wordpress.com/2016/03/19/edgar-fouches-tr-3b-is-most-likely-a-hoax/"
+   },
+   "text": "On Fouche's claim, posted to the Open Minds forum on 17 October 2010, that 'Steve Stenson (ex-AFFTC Edwards AFB Base Commander - Retired Colonel) was the Site Manager': 'No such person as Steve Stenson was ever commander of AFFTC.'",
+   "tier": 2
+  },
+  "c-908a04368a": {
+   "id": "c-908a04368a",
+   "kind": "claim",
+   "node": "testors-sr-75-kit",
+   "nodeLabel": "Testor Corp. SR-75 Penetrator and XR-7 Thunderdart model kits, 1993",
+   "source": {
+    "domain": "www.baltimoresun.com",
+    "text": "Baltimore Sun, 25 December 1993, https://www.baltimoresun.com/1993/12/25/for-latest-spy-plane-look-under-your-tree-2/ , opened 2026-09-18",
+    "url": "https://www.baltimoresun.com/1993/12/25/for-latest-spy-plane-look-under-your-tree-2/"
+   },
+   "text": "The same article names the designer: 'John Andrews, an aviation historian in San Diego who designed the new models, as well as the F-19.'",
+   "tier": 1
+  },
+  "c-9401bd5c6a": {
+   "id": "c-9401bd5c6a",
+   "kind": "claim",
+   "node": "tr-3b",
+   "nodeLabel": "TR-3B 'Astra', claimed black triangular aircraft",
+   "source": {
+    "domain": "www.checktheevidence.com",
+    "text": "Presentation to IUFOR by Edgar Rothshild Fouche, slide 70, https://www.checktheevidence.com/pdf/Edgar%20Fouche%20-%201998%20Presentation%20to%20IUFOC.pdf , 1998-08",
+    "url": "https://www.checktheevidence.com/pdf/Edgar%20Fouche%20-%201998%20Presentation%20to%20IUFOC.pdf"
+   },
+   "text": "The originating artefact says, at slide 70: 'The 200 feet Prototype & the 300 feet Operational TR-3Bs are Code named Astra. The tactical reconnaissance TR-3B first operational flight was in the early 90s. The triangular shaped nuclear powered aerospace platform was developed under the Top Secret, Aurora Program with SDI and black budget monies. At least 3 of the billion dollar plus TR-3Bs were flying by 1994... It is funded and operationally tasked by the National Reconnaissance Office, the NSA, and the CIA. The TR-3B flying triangle is not fiction and was built with technology available in the mid 80s.'",
+   "tier": 1
+  },
+  "c-99dbb1ead2": {
+   "id": "c-99dbb1ead2",
+   "kind": "claim",
+   "node": "edgar-fouche",
+   "nodeLabel": "Edgar Fouche",
+   "source": {
+    "domain": null,
+    "text": "Reasoning over the two Andrew Johnson posts of 12 and 13 January 2015 compared against the decoration citations in the self-published collection; research/leads/verified-tr3b-2026-09-18.md section 5.3",
+    "url": null
+   },
+   "text": "Stated inference. Taking Andrew Johnson's description of the FOIA return at face value, it corroborates the ordinary career and is silent on everything contested: no clearance record, no Groom Lake entry, nothing aerospace. A forgery allegation against the ordinary documents is therefore answered, and the aerospace claims are untouched, because the aerospace claims never rested on documents in the first place.",
+   "tier": 3
+  },
+  "c-a2da5f62ee": {
+   "id": "c-a2da5f62ee",
+   "kind": "claim",
+   "node": "fouche-afftc-det3-1979",
+   "nodeLabel": "AF Form 77a, Letter of Evaluation, 24 August 1979",
+   "source": {
+    "domain": "www.checktheevidence.com",
+    "text": "AF Form 77a, 24 August 1979, page 3 of the same compilation, https://www.checktheevidence.com/pdf/Edgar%20Fouches%20Military%20Documents.pdf , 1979-08-24",
+    "url": "https://www.checktheevidence.com/pdf/Edgar%20Fouches%20Military%20Documents.pdf"
+   },
+   "text": "THE LIMITING SENTENCE IS PART OF THE DOCUMENT. The form does not state what Fouche did while on that temporary duty. It refers the question out: 'His duties and responsibilities for this period have been verified via a separate report.' No such separate report is in the collection and none was opened.",
+   "tier": 1
+  },
+  "c-a7aaf89115": {
+   "id": "c-a7aaf89115",
+   "kind": "claim",
+   "node": "tr-3b",
+   "nodeLabel": "TR-3B 'Astra', claimed black triangular aircraft",
+   "source": {
+    "domain": null,
+    "text": "Reasoning over the board's existing Tier 1 claims on tr-3b against the propulsion strand of 19 September 2026, research/leads/verified-propulsion-2026-09-19.md section 6.1",
+    "url": null
+   },
+   "text": "STRAND CLASSIFICATION, AND IT MARKS THIS ACCOUNT AS THE WEAKEST OF ITS KIND ON THE BOARD. Every other propulsion claim in the 19 September 2026 strand cites an independent, openable document and misreads it: King's patent for the ARV drawing, Brown's patents for the capacitor stack, Alcubierre's paper for metric engineering. THE TR-3B'S MERCURY PLASMA 'MAGNETIC FIELD DISRUPTER' CITES NOTHING. The 1998 presentation asserts the mechanism directly at slide 72 and there is no independent source to place beside it, which is why the node's refutation had to be built from a materials property rather than from a document comparison: NIST gives mercury a melting point of 234.31 K, and the claimed operating temperature of 150 K is 84 K below it.",
+   "tier": 3
+  },
+  "c-ab63864c8d": {
+   "id": "c-ab63864c8d",
+   "kind": "claim",
+   "node": "peter-merlin",
+   "nodeLabel": "Peter W. Merlin",
+   "source": {
+    "domain": "noriohayakawa.wordpress.com",
+    "text": "Peter Merlin, quoted in Norio Hayakawa, 19 March 2016, https://noriohayakawa.wordpress.com/2016/03/19/edgar-fouches-tr-3b-is-most-likely-a-hoax/ , opened 2026-09-18",
+    "url": "https://noriohayakawa.wordpress.com/2016/03/19/edgar-fouches-tr-3b-is-most-likely-a-hoax/"
+   },
+   "text": "On Fouche's claim that 'All the Russian passport, flight cloth badge, KGB badge, the letter from Kiev Russia from the Station Chief, were mine and issued to me for a TS operation': 'The KGB passport is fake. The cloth badge and the metal badge are also fake, and both are widely available at many Army-Navy surplus stores.'",
+   "tier": 2
+  },
+  "c-ae1a3a8716": {
+   "id": "c-ae1a3a8716",
+   "kind": "claim",
+   "node": "alien-rapture-1998",
+   "nodeLabel": "Alien Rapture: The Chosen, Galde Press, 1998",
+   "source": {
+    "domain": "www.checktheevidence.com",
+    "text": "Andrew Johnson, 'Edgar Fouche - Disclosing Secret Technologies', checktheevidence.com, 11 February 2014, https://www.checktheevidence.com/wordpress/2014/02/11/edgar-fouche-disclosing-secret-technologies/ , opened 2026-09-18",
+    "url": "https://www.checktheevidence.com/wordpress/2014/02/11/edgar-fouche-disclosing-secret-technologies/"
+   },
+   "text": "Andrew Johnson, who hosts the whole Fouche file and is sympathetic to it, describes the book as one that 'presented his experiences using fictional framing while describing real events'. Even the friendly custodian's characterisation concedes the fictional framing.",
+   "tier": 2
+  },
+  "c-b13790a0fa": {
+   "id": "c-b13790a0fa",
+   "kind": "claim",
+   "node": "fouche-iufoc-1998",
+   "nodeLabel": "Fouche's presentation transcript, August 1998",
+   "source": {
+    "domain": "www.checktheevidence.com",
+    "text": "Presentation to IUFOR by Edgar Rothshild Fouche, slide 62 onward, https://www.checktheevidence.com/pdf/Edgar%20Fouche%20-%201998%20Presentation%20to%20IUFOC.pdf , 1998-08",
+    "url": "https://www.checktheevidence.com/pdf/Edgar%20Fouche%20-%201998%20Presentation%20to%20IUFOC.pdf"
+   },
+   "text": "It presents the 'SR-75' 'Penetrator' as inside knowledge, at slide 62 onward: 'The SR-75, the first operational Aurora Program vehicle, went operational after 2 years of flight testing and modifications in 89. The top secret SR-75 is a hypersonic strategic reconnaissance, or SR spy plane, and is called the Penetrator. It is also a mothership.' It refers elsewhere to an 'SR-74 Scramp'.",
+   "tier": 1
+  },
+  "c-b24afb681a": {
+   "id": "c-b24afb681a",
+   "kind": "claim",
+   "node": "edgar-fouche",
+   "nodeLabel": "Edgar Fouche",
+   "source": {
+    "domain": "www.checktheevidence.com",
+    "text": "Edgar Fouche's Military, and DOD contractors reference Documents, https://www.checktheevidence.com/pdf/Edgar%20Fouches%20Military%20Documents.pdf , opened 2026-09-18",
+    "url": "https://www.checktheevidence.com/pdf/Edgar%20Fouches%20Military%20Documents.pdf"
+   },
+   "text": "A second Meritorious Service Medal citation, oak leaf cluster, signed by John T. Chain, Jr., General, USAF, Commander in Chief, reads: 'as the Strategic Air Command Liaison Officer, San Antonio Air Logistics Center, Kelly Air Force Base, Texas, from 17 July 1983 to 31 August 1987', and closes 'The singularly distinctive accomplishments of Sergeant Fouche culminate a distinguished career in the service of his country'.",
+   "tier": 1
+  },
+  "c-b661ff151a": {
+   "id": "c-b661ff151a",
+   "kind": "claim",
+   "node": "fouche-afftc-det3-1979",
+   "nodeLabel": "AF Form 77a, Letter of Evaluation, 24 August 1979",
+   "source": {
+    "domain": "www.checktheevidence.com",
+    "text": "AF Form 77a, 24 August 1979, page 3 of Edgar Fouche's Military, and DOD contractors reference Documents, rendered at 190 dpi and read as an image, https://www.checktheevidence.com/pdf/Edgar%20Fouches%20Military%20Documents.pdf , 1979-08-24",
+    "url": "https://www.checktheevidence.com/pdf/Edgar%20Fouches%20Military%20Documents.pdf"
+   },
+   "text": "THE LOAD-BEARING SENTENCE, quoted in full: 'OTHER COMMENTS: This out of cycle report is generated because TSgt Fouche was assigned TDY to the AFFTC-DET 3, Nellis AF Range from 1 June 79 to 14 August 79. His duties and responsibilities for this period have been verified via a separate report. RECOMMENDATION: Promote at the earliest opportunity.'",
+   "tier": 1
+  },
+  "c-c69572b557": {
+   "id": "c-c69572b557",
+   "kind": "claim",
+   "node": "edgar-fouche",
+   "nodeLabel": "Edgar Fouche",
+   "source": {
+    "domain": "www.checktheevidence.com",
+    "text": "Edgar Fouche's Military, and DOD contractors reference Documents, https://www.checktheevidence.com/pdf/Edgar%20Fouches%20Military%20Documents.pdf , opened 2026-09-18",
+    "url": "https://www.checktheevidence.com/pdf/Edgar%20Fouches%20Military%20Documents.pdf"
+   },
+   "text": "A Meritorious Service Medal citation in his own published document collection reads: 'Master Sergeant Edgar A. Fouche distinguished himself in the performance of outstanding service to the United States as Noncommissioned Officer in Charge, F-16 Manual Test Station and Assistant Integrated Avionics Superintendent, 6100th Logistics Support Squadron, Kadena Air Base, Japan, from 5 September 1979 to 1 March 1982'.",
+   "tier": 1
+  },
+  "c-c844aea9b1": {
+   "id": "c-c844aea9b1",
+   "kind": "claim",
+   "node": "peter-merlin",
+   "nodeLabel": "Peter W. Merlin",
+   "source": {
+    "domain": "noriohayakawa.wordpress.com",
+    "text": "Peter Merlin, quoted in Norio Hayakawa, 19 March 2016, https://noriohayakawa.wordpress.com/2016/03/19/edgar-fouches-tr-3b-is-most-likely-a-hoax/ , opened 2026-09-18",
+    "url": "https://noriohayakawa.wordpress.com/2016/03/19/edgar-fouches-tr-3b-is-most-likely-a-hoax/"
+   },
+   "text": "On the document Fouche calls the SAC-DARPA Classified Document: 'This letter is UNCLASSIFIED. It was never marked as classified material (no classification markings, no control number, no Copy X of Y). There is nothing unusual about the letterhead. Use of the DoD seal is standard. The letter was signed by the NCO in Charge, Airman Aircraft Maintenance Assignments Section, Office of the Directorate of Assignments, Deputy Chief of Staff for Personnel... Where it says REPLY TO: DARPA, this might be a five-letter office code (such as DPAQR, the Command Records Branch at SAC HQ). This letter simply indicates that the Air Force Manpower and Personnel Center (AFMPC) has approved an After Action Review (or Report)'. The page image opened by this research corroborates the absence of any classification marking and the signature block he describes.",
+   "tier": 2
+  },
+  "c-c92d372f38": {
+   "id": "c-c92d372f38",
+   "kind": "claim",
+   "node": "brad-steiger",
+   "nodeLabel": "Brad Steiger",
+   "source": {
+    "domain": "lx2.loc.gov",
+    "text": "Library of Congress catalogue, SRU query bath.isbn=1880090503, MODS record, LCCN 98002961, http://lx2.loc.gov:210/lcdb , opened 2026-09-18",
+    "url": "http://lx2.loc.gov:210/lcdb"
+   },
+   "text": "The Library of Congress catalogue record LCCN 98002961 names two personal authors for Alien rapture: the chosen, 'Fouche, Edgar Rothschild, 1948-' with usage primary, and 'Steiger, Brad.' The statement of responsibility on the same record reads 'Edgar Rothschild Fouche and Brad Steiger.'",
+   "tier": 1
+  },
+  "c-ca8c2bfcc2": {
+   "id": "c-ca8c2bfcc2",
+   "kind": "claim",
+   "node": "northrop-tacit-blue",
+   "nodeLabel": "Northrop TACIT BLUE",
+   "source": {
+    "domain": null,
+    "text": "Reasoning over the USAF fact sheet and slides 69 to 70 of the 1998 presentation; research/leads/verified-tr3b-2026-09-18.md section 7.3",
+    "url": null
+   },
+   "text": "Stated inference, and it is recorded against the brief that asked for the opposite. No source was opened arguing that the TR-3B narrative derives from or is confused with TACIT BLUE, and the primary record argues against it: the fact sheet's defining feature is curved surfaces, the aircraft is 48 feet across against a claimed 200 to 600, and it was retired in 1985 against a craft claimed to have first flown in the early 1990s. There is no shape, size or date correspondence. The conflation the record does support is with the F-117, which is Peter Merlin's identification of the airframe in Fouche's own misattributed photograph.",
+   "tier": 3
+  },
+  "c-ccb59fff33": {
+   "id": "c-ccb59fff33",
+   "kind": "claim",
+   "node": "tr-3b",
+   "nodeLabel": "TR-3B 'Astra', claimed black triangular aircraft",
+   "source": {
+    "domain": "www.checktheevidence.com",
+    "text": "Presentation to IUFOR by Edgar Rothshild Fouche, slide 72, https://www.checktheevidence.com/pdf/Edgar%20Fouche%20-%201998%20Presentation%20to%20IUFOC.pdf , 1998-08",
+    "url": "https://www.checktheevidence.com/pdf/Edgar%20Fouche%20-%201998%20Presentation%20to%20IUFOC.pdf"
+   },
+   "text": "The propulsion claim, at slide 72: 'A circular, plasma filled accelerator ring called the Magnetic Field Disrupter, surrounds the rotatable crew compartment and is far ahead of any imaginable technology. Sandia and Livermore laboratories developed the reverse engineered MFD technology... The plasma, mercury based, is pressurized at 250,000 atmospheres at a temperature of 150 degrees Kelvin and accelerated to 50,000 rpm to create a super-conductive plasma with the resulting gravity disruption. The MFD generates a magnetic vortex field, which disrupts or neutralizes the effects of gravity on mass within proximity, by 89 percent. Do not misunderstand. This is not antigravity.'",
+   "tier": 1
+  },
+  "c-dcb56f1b63": {
+   "id": "c-dcb56f1b63",
+   "kind": "claim",
+   "node": "fouche-iufoc-1998",
+   "nodeLabel": "Fouche's presentation transcript, August 1998",
+   "source": {
+    "domain": "www.checktheevidence.com",
+    "text": "Presentation to IUFOR by Edgar Rothshild Fouche, slide 61 onward, https://www.checktheevidence.com/pdf/Edgar%20Fouche%20-%201998%20Presentation%20to%20IUFOC.pdf , 1998-08",
+    "url": "https://www.checktheevidence.com/pdf/Edgar%20Fouche%20-%201998%20Presentation%20to%20IUFOC.pdf"
+   },
+   "text": "It attaches the claim to Aurora and to the Strategic Defense Initiative in the claimant's own voice, from slide 61 onward: 'up to 35% of the SDI funding was siphoned off to provide primary expenditures for the Air Force's most secret Black Program, which started in 1982. It is called - The Aurora Program.'",
+   "tier": 1
+  },
+  "c-e860bb278d": {
+   "id": "c-e860bb278d",
+   "kind": "claim",
+   "node": "edgar-fouche",
+   "nodeLabel": "Edgar Fouche",
+   "source": {
+    "domain": "archive.org",
+    "text": "Fouche 1998 presentation text as carried at https://archive.org/stream/TopSecretTr-3bAstraDocuments/Tr-3b-FlyingTriangles-MfdInformation_djvu.txt , opened 2026-09-18",
+    "url": "https://archive.org/stream/TopSecretTr-3bAstraDocuments/Tr-3b-FlyingTriangles-MfdInformation_djvu.txt"
+   },
+   "text": "He states the documents were vetted before the talk: 'Before I gave a presentation to the International UFO Congress in Laughlin, Nevada in August, I brought over 200 documents as an offer of proof to substantiate my credibility... These documents were viewed by Ken Seddington of the International UFO Congress, Jim Courrant, a UFO investigator, and Tim Shawcross and John Purdie of Union Pictures in London England.' None of these four people was contacted and no account by any of them was opened, so the claim that the documents were vetted is itself unvetted.",
+   "tier": 2
+  },
+  "c-eda306a400": {
+   "id": "c-eda306a400",
+   "kind": "claim",
+   "node": "edgar-fouche",
+   "nodeLabel": "Edgar Fouche",
+   "source": {
+    "domain": "lx2.loc.gov",
+    "text": "Library of Congress catalogue, SRU query bath.isbn=1880090503, MODS record, http://lx2.loc.gov:210/lcdb , opened 2026-09-18",
+    "url": "http://lx2.loc.gov:210/lcdb"
+   },
+   "text": "The Library of Congress name authority attached to LCCN 98002961 gives the author as 'Fouche, Edgar Rothschild, 1948-', independently fixing the birth year against a national bibliographic authority rather than against his own account.",
+   "tier": 1
+  },
+  "c-edf72902db": {
+   "id": "c-edf72902db",
+   "kind": "claim",
+   "node": "fouche-military-documents",
+   "nodeLabel": "Edgar Fouche's Military, and DOD contractors reference Documents",
+   "source": {
+    "domain": "www.checktheevidence.com",
+    "text": "Edgar Fouche's Military, and DOD contractors reference Documents, page 1 caption text layer, https://www.checktheevidence.com/pdf/Edgar%20Fouches%20Military%20Documents.pdf , opened 2026-09-18",
+    "url": "https://www.checktheevidence.com/pdf/Edgar%20Fouches%20Military%20Documents.pdf"
+   },
+   "text": "The same caption misnames the agency it invokes: 'First DARPA (Defense Advanced Research Agency asked that I be available until 1987)'. The agency is the Defense Advanced Research Projects Agency.",
+   "tier": 1
+  },
+  "c-ee7142a20f": {
+   "id": "c-ee7142a20f",
+   "kind": "claim",
+   "node": "fouche-iufoc-1998",
+   "nodeLabel": "Fouche's presentation transcript, August 1998",
+   "source": {
+    "domain": "www.checktheevidence.com",
+    "text": "Presentation to IUFOR by Edgar Rothshild Fouche, slide 5, https://www.checktheevidence.com/pdf/Edgar%20Fouche%20-%201998%20Presentation%20to%20IUFOC.pdf , 1998-08",
+    "url": "https://www.checktheevidence.com/pdf/Edgar%20Fouche%20-%201998%20Presentation%20to%20IUFOC.pdf"
+   },
+   "text": "It names the book as the occasion of the talk, at slide 5: 'I'm here to speak about Secret Government Technology, reverse engineering of Alien Artifacts, and the Top Secret MJ-12 committee, which I write about in my new book, Alien Rapture - The Chosen, with my co-author Brad Steiger.'",
+   "tier": 1
+  },
+  "c-effcadef3e": {
+   "id": "c-effcadef3e",
+   "kind": "claim",
+   "node": "checktheevidence",
+   "nodeLabel": "Check The Evidence (checktheevidence.com), Andrew Johnson",
+   "source": {
+    "domain": "www.checktheevidence.co.uk",
+    "text": "Andrew Johnson, checktheevidence.co.uk and checktheevidence.com, 12 and 13 January 2015, http://www.checktheevidence.co.uk/articles/David%20Hilton%20FOIA%20on%20ed%20Fouche.htm , opened 2026-09-18",
+    "url": "http://www.checktheevidence.co.uk/articles/David%20Hilton%20FOIA%20on%20ed%20Fouche.htm"
+   },
+   "text": "Johnson's posts of 12 and 13 January 2015 are the only opened account of the FOIA episode: that David Hilton claimed on 26 June 2014 that Fouche 'faked one or more of his own military documents', that Hilton then filed a FOIA request for the records, and that Hilton posted the return on 25 September 2014. Johnson lists the return as showing Lackland AFB (1967), Keesler and Cannon AFB (1968), the Nellis assignment from June 1976 to 16 July 1979, the Kadena assignment from 5 September 1979 to 4 March 1982, and decorations including the Vietnam Service Medal, the Republic of Vietnam Gallantry Cross with Palm Device and three Meritorious Service Medals.",
+   "tier": 1
+  },
+  "c-f06c4bb366": {
+   "id": "c-f06c4bb366",
+   "kind": "claim",
+   "node": "northrop-tacit-blue",
+   "nodeLabel": "Northrop TACIT BLUE",
+   "source": {
+    "domain": "nsarchive2.gwu.edu",
+    "text": "U.S. Air Force Fact Sheet 'NORTHROP TACIT BLUE', scanned in the National Security Archive Area 51 briefing book NSAEBB443, https://nsarchive2.gwu.edu/NSAEBB/NSAEBB443/docs/area51_58.PDF , opened 2026-09-18",
+    "url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB443/docs/area51_58.PDF"
+   },
+   "text": "The U.S. Air Force fact sheet states: 'The Tacit Blue (Whale) aircraft was built to test the advances in stealth technology. The USAF, the Defense Advanced Research Projects Agency, and the Northrop Corp. worked together from 1978 to 1985 to demonstrate that curved surfaces on an aircraft result in a low radar return signal from ground radar.'",
+   "tier": 1
+  },
+  "e-134779a410": {
+   "endpoints": [
+    {
+     "id": "northrop-tacit-blue",
+     "label": "Northrop TACIT BLUE"
+    },
+    {
+     "id": "tr-3b",
+     "label": "TR-3B 'Astra', claimed black triangular aircraft"
+    }
+   ],
+   "id": "e-134779a410",
+   "kind": "edge",
+   "label": "The real black-programme aircraft of the period is 48 feet across and curved, not a 200 to 600 foot triangle",
+   "sources": [
+    {
+     "date": "2026-09-18",
+     "name": "U.S. Air Force Fact Sheet 'NORTHROP TACIT BLUE'",
+     "url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB443/docs/area51_58.PDF"
+    }
+   ],
+   "text": "THIS EDGE EXISTS SPECIFICALLY TO STOP A LATER SESSION DRAWING THE SUPPORTIVE VERSION OF IT. The brief that produced this build asked for the reported analysis that the TR-3B derives from or is confused with TACIT BLUE. That analysis was searched for and NOT FOUND, and the USAF's own fact sheet argues against it: curved surfaces rather than a triangle, 48 ft 2 in span, programme concluded 1985, on public display since 1996.",
+   "tier": 1,
+   "type": "denial"
+  },
+  "e-20cf9eea3a": {
+   "endpoints": [
+    {
+     "id": "fouche-afftc-det3-1979",
+     "label": "AF Form 77a, Letter of Evaluation, 24 August 1979"
+    },
+    {
+     "id": "l-groom-lake",
+     "label": "Groom Lake, Nevada"
+    }
+   ],
+   "id": "e-20cf9eea3a",
+   "kind": "edge",
+   "label": "Records temporary duty to AFFTC Detachment 3, the unit operating Groom Lake, 1 June to 14 August 1979",
+   "sources": [
+    {
+     "date": "1979-08-24",
+     "name": "AF Form 77a, 24 August 1979, page 3 of the compilation, rendered and read as an image",
+     "url": "https://www.checktheevidence.com/pdf/Edgar%20Fouches%20Military%20Documents.pdf"
+    },
+    {
+     "date": "2026-09-18",
+     "name": "Peter W. Merlin, 'Black Projects at Groom Lake', for the identification of DET 3 AFFTC",
+     "url": "https://www.dreamlandresort.com/black_projects/black_projects_history.html"
+    }
+   ],
+   "text": "TIER 2 IS THE CEILING AND HERE IS WHY. The form itself says 'AFFTC-DET 3, Nellis AF Range', which is Tier 1. The identification of DET 3 AFFTC with Groom Lake rests on Peter Merlin's own published site and not on any primary Air Force unit history, organisational chart or FOIA release opened by this research. The weaker link sets the tier.",
+   "tier": 2,
+   "type": "geographic"
+  },
+  "e-303c689167": {
+   "endpoints": [
+    {
+     "id": "peter-merlin",
+     "label": "Peter W. Merlin"
+    },
+    {
+     "id": "tr-3b",
+     "label": "TR-3B 'Astra', claimed black triangular aircraft"
+    }
+   ],
+   "id": "e-303c689167",
+   "kind": "edge",
+   "label": "Named aerospace historian; four falsifiable specifics against the claimant's evidence",
+   "sources": [
+    {
+     "date": "2016-03-19",
+     "name": "Peter Merlin, quoted verbatim in Norio Hayakawa, 'Edgar Fouche's TR-3B is most likely a hoax'",
+     "url": "https://noriohayakawa.wordpress.com/2016/03/19/edgar-fouches-tr-3b-is-most-likely-a-hoax/"
+    }
+   ],
+   "text": "'I have always been extremely skeptical of Fouche. Many of his claims were questionable or misleading.' The four specifics are on the peter-merlin node in full: the letter is unclassified; the 'Have Blue' photo is the first YF-117A SENIOR TREND prototype; 'No such person as Steve Stenson was ever commander of AFFTC'; the KGB props are surplus-store fakes. Each is falsifiable and outside the claimant's own testimony, and none has been checked and found wrong in any opened record.",
+   "tier": 2,
+   "type": "denial"
+  },
+  "e-3ac5085e75": {
+   "endpoints": [
+    {
+     "id": "tr-3b",
+     "label": "TR-3B 'Astra', claimed black triangular aircraft"
+    },
+    {
+     "id": "darpa",
+     "label": "Defense Advanced Research Projects Agency"
+    }
+   ],
+   "id": "e-3ac5085e75",
+   "kind": "edge",
+   "label": "The Fouche file's DARPA invocation rests on a letter from a personnel office",
+   "sources": [
+    {
+     "date": "1984-07-10",
+     "name": "The page 1 image of the compilation, rendered at 190 dpi and read: no classification marking, signed by a TSgt in the Directorate of Assignments, DCS/Personnel",
+     "url": "https://www.checktheevidence.com/pdf/Edgar%20Fouches%20Military%20Documents.pdf"
+    },
+    {
+     "date": "2016-03-19",
+     "name": "Peter Merlin's reading of the same letter, quoted verbatim",
+     "url": "https://noriohayakawa.wordpress.com/2016/03/19/edgar-fouches-tr-3b-is-most-likely-a-hoax/"
+    }
+   ],
+   "text": "DARPA is the single most reused word in the Fouche corpus and the board's existing darpa node should carry this explicitly. The document that carries the invocation bears no classification marking, is signed by a technical sergeant in an assignments section of a personnel directorate, and is captioned by Fouche himself with the agency's name wrong, as 'Defense Advanced Research Agency'.",
+   "tier": 1,
+   "type": "denial"
+  },
+  "e-3e440c35a8": {
+   "endpoints": [
+    {
+     "id": "fouche-iufoc-1998",
+     "label": "Fouche's presentation transcript, August 1998"
+    },
+    {
+     "id": "checktheevidence",
+     "label": "Check The Evidence (checktheevidence.com), Andrew Johnson"
+    }
+   ],
+   "id": "e-3e440c35a8",
+   "kind": "edge",
+   "label": "Presentation transcript hosted by Check The Evidence",
+   "sources": [
+    {
+     "date": "2014-02-11",
+     "name": "Andrew Johnson, 'Edgar Fouche - Disclosing Secret Technologies', the index page linking the file",
+     "url": "https://www.checktheevidence.com/wordpress/2014/02/11/edgar-fouche-disclosing-secret-technologies/"
+    }
+   ],
+   "text": "Genuine custody: a hosting site holding a file. Direction and type mirror the board's existing scott-sorensen-notes-1990 to arvp-fluxliner-project edge, and the treatment of the-black-vault.",
+   "tier": 1,
+   "type": "custody"
+  },
+  "e-4010ffb0c4": {
+   "endpoints": [
+    {
+     "id": "edgar-fouche",
+     "label": "Edgar Fouche"
+    },
+    {
+     "id": "usaf",
+     "label": "United States Air Force"
+    }
+   ],
+   "id": "e-4010ffb0c4",
+   "kind": "edge",
+   "label": "USAF master sergeant; twenty year avionics maintenance career, three Meritorious Service Medals",
+   "sources": [
+    {
+     "date": "2014-06-15",
+     "name": "Decoration certificates and citations, performance reports and education certificates in the self-published compilation",
+     "url": "https://www.checktheevidence.com/pdf/Edgar%20Fouches%20Military%20Documents.pdf"
+    }
+   ],
+   "text": "Tier 1 and entirely ordinary. The citations describe F-15 and F-16 manual test stations, the TEWS-TITE electronic warfare bed-down, and a Strategic Air Command liaison post at Kelly AFB. The second Meritorious Service Medal citation closes 'culminate a distinguished career', which dates the end of active service to 1987.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-412983978d": {
+   "endpoints": [
+    {
+     "id": "edgar-fouche",
+     "label": "Edgar Fouche"
+    },
+    {
+     "id": "fouche-iufoc-1998",
+     "label": "Fouche's presentation transcript, August 1998"
+    }
+   ],
+   "id": "e-412983978d",
+   "kind": "edge",
+   "label": "Author and copyright holder of the presentation transcript",
+   "sources": [
+    {
+     "date": "1998-08",
+     "name": "Presentation to IUFOR by Edgar Rothshild Fouche, page 1 header",
+     "url": "https://www.checktheevidence.com/pdf/Edgar%20Fouche%20-%201998%20Presentation%20to%20IUFOC.pdf"
+    }
+   ],
+   "text": "INTENT: AUTHORSHIP. The board has no authorship edge type, and authorship is deliberately NOT built as custody here, because custody is weighted x3.0 as a program edge and giving a claimant a x3 edge to his own document would inflate him. Mapped to research. The document's first four lines are 'Presentation to IUFOR by / Edgar Rothshild Fouche / Copyright Aug. 1998 / Fouche Media Associates'.",
+   "tier": 1,
+   "type": "research"
+  },
+  "e-44cf405595": {
+   "endpoints": [
+    {
+     "id": "fouche-iufoc-1998",
+     "label": "Fouche's presentation transcript, August 1998"
+    },
+    {
+     "id": "tr-3b",
+     "label": "TR-3B 'Astra', claimed black triangular aircraft"
+    }
+   ],
+   "id": "e-44cf405595",
+   "kind": "edge",
+   "label": "The dated artefact that carries the claim; opened in full",
+   "sources": [
+    {
+     "date": "1998-08",
+     "name": "Presentation to IUFOR by Edgar Rothshild Fouche, 62 pages, slides 69 to 72",
+     "url": "https://www.checktheevidence.com/pdf/Edgar%20Fouche%20-%201998%20Presentation%20to%20IUFOC.pdf"
+    }
+   ],
+   "text": "The dossier proposed this as a custody edge. Built as investigative to match the board's existing precedent for a document carrying a claim about a craft, scott-sorensen-notes-1990 to arv-fluxliner, which is investigative and not custody. A transcript has custody of the record of the claim, not of the craft, and the distinction is worth keeping since custody carries the x3.0 program weighting.",
+   "tier": 1,
+   "type": "investigative"
+  },
+  "e-4bebe2311f": {
+   "endpoints": [
+    {
+     "id": "edgar-fouche",
+     "label": "Edgar Fouche"
+    },
+    {
+     "id": "l-edwards-afb",
+     "label": "Edwards Air Force Base, California"
+    }
+   ],
+   "id": "e-4bebe2311f",
+   "kind": "edge",
+   "label": "Claims assignment to 6515 TSS, AFFTC, Edwards AFB on the F-15 R&D and FOT&E programme",
+   "sources": [
+    {
+     "date": "2014-06-15",
+     "name": "Edgar Fouche's Military, and DOD contractors reference Documents, caption text layer in his own voice",
+     "url": "https://www.checktheevidence.com/pdf/Edgar%20Fouches%20Military%20Documents.pdf"
+    }
+   ],
+   "text": "His own statement in the caption layer: 'When I arrived at Edwards AFB - 6515 TSS - AFFTC, I was assigned to the F-15 R&D and FOT&E Program.' No form in the collection carries an Edwards assignment, and Andrew Johnson's account of the FOIA return does not list one. Tier 2 on his word.",
+   "tier": 2,
+   "type": "institutional"
+  },
+  "e-75a91e23f5": {
+   "endpoints": [
+    {
+     "id": "alien-rapture-1998",
+     "label": "Alien Rapture: The Chosen, Galde Press, 1998"
+    },
+    {
+     "id": "tr-3b",
+     "label": "TR-3B 'Astra', claimed black triangular aircraft"
+    }
+   ],
+   "id": "e-75a91e23f5",
+   "kind": "edge",
+   "label": "The book the presentation was given to promote; its TR-3B content was NOT opened",
+   "sources": [
+    {
+     "date": "1998-08",
+     "name": "Presentation to IUFOR by Edgar Rothshild Fouche, slide 5",
+     "url": "https://www.checktheevidence.com/pdf/Edgar%20Fouche%20-%201998%20Presentation%20to%20IUFOC.pdf"
+    }
+   ],
+   "text": "CAVEAT CARRIED ON THE EDGE, AND IT IS THE REASON FOR TIER 3. The presentation names the book as its occasion at slide 5, which is Tier 1. But no copy of the book's text was opened, so how or whether the TR-3B appears inside it is unestablished. The edge records the promotional relationship only, and must not be read as the book containing the claim.",
+   "tier": 3,
+   "type": "investigative"
+  },
+  "e-8271ddbd37": {
+   "endpoints": [
+    {
+     "id": "fouche-afftc-det3-1979",
+     "label": "AF Form 77a, Letter of Evaluation, 24 August 1979"
+    },
+    {
+     "id": "fouche-military-documents",
+     "label": "Edgar Fouche's Military, and DOD contractors reference Documents"
+    }
+   ],
+   "id": "e-8271ddbd37",
+   "kind": "edge",
+   "label": "The AF Form 77a is page 3 of the compilation",
+   "sources": [
+    {
+     "date": "2014-06-15",
+     "name": "Edgar Fouche's Military, and DOD contractors reference Documents, page 3",
+     "url": "https://www.checktheevidence.com/pdf/Edgar%20Fouches%20Military%20Documents.pdf"
+    }
+   ],
+   "text": "INTENT: CONTAINMENT. The board has no contains edge type, so this is built as custody, document to document, which is genuine containment custody and does not inflate any person.",
+   "tier": 1,
+   "type": "custody"
+  },
+  "e-8fac7a136f": {
+   "endpoints": [
+    {
+     "id": "brad-steiger",
+     "label": "Brad Steiger"
+    },
+    {
+     "id": "alien-rapture-1998",
+     "label": "Alien Rapture: The Chosen, Galde Press, 1998"
+    }
+   ],
+   "id": "e-8fac7a136f",
+   "kind": "edge",
+   "label": "Co-author of Alien Rapture: The Chosen",
+   "sources": [
+    {
+     "date": "1998-02-04",
+     "name": "Library of Congress catalogue record LCCN 98002961, MODS, second personal name",
+     "url": "http://lx2.loc.gov:210/lcdb"
+    }
+   ],
+   "text": "INTENT: AUTHORSHIP, mapped to research. This is the single documented fact behind the brad-steiger node, which is built deliberately thin. Nothing is asserted about the extent or nature of his contribution, and in particular nothing about whether he had any hand in the TR-3B material.",
+   "tier": 1,
+   "type": "research"
+  },
+  "e-921a06bda3": {
+   "endpoints": [
+    {
+     "id": "peter-merlin",
+     "label": "Peter W. Merlin"
+    },
+    {
+     "id": "fouche-military-documents",
+     "label": "Edgar Fouche's Military, and DOD contractors reference Documents"
+    }
+   ],
+   "id": "e-921a06bda3",
+   "kind": "edge",
+   "label": "Reads the 'SAC/DARPA Classified Document' as an unclassified personnel letter from a personnel office",
+   "sources": [
+    {
+     "date": "2016-03-19",
+     "name": "Peter Merlin, quoted verbatim in Norio Hayakawa, 19 March 2016",
+     "url": "https://noriohayakawa.wordpress.com/2016/03/19/edgar-fouches-tr-3b-is-most-likely-a-hoax/"
+    },
+    {
+     "date": "1984-07-10",
+     "name": "The page 1 image of the compilation, rendered at 190 dpi and read, which corroborates the absence of classification markings and the signature block",
+     "url": "https://www.checktheevidence.com/pdf/Edgar%20Fouches%20Military%20Documents.pdf"
+    }
+   ],
+   "text": "Two parts of Merlin's reading were checked independently against the page image and hold: there is no classification marking of any kind on the letter, and the signature block does place the originating office inside the Directorate of Assignments, Deputy Chief of Staff for Personnel, which is what his five-letter-office-code reading of 'REPLY TO: DARPA' predicts. His gloss of AAR as After Action Review was not verified against any Air Force instruction.",
+   "tier": 2,
+   "type": "denial"
+  },
+  "e-a8cc8584f8": {
+   "endpoints": [
+    {
+     "id": "edgar-fouche",
+     "label": "Edgar Fouche"
+    },
+    {
+     "id": "l-groom-lake",
+     "label": "Groom Lake, Nevada"
+    }
+   ],
+   "id": "e-a8cc8584f8",
+   "kind": "edge",
+   "label": "Documented ten weeks temporary duty in 1979, plus extensive first-person narration in the 1998 presentation",
+   "sources": [
+    {
+     "date": "1979-08-24",
+     "name": "AF Form 77a, 24 August 1979, page 3 of the compilation",
+     "url": "https://www.checktheevidence.com/pdf/Edgar%20Fouches%20Military%20Documents.pdf"
+    },
+    {
+     "date": "1998-08",
+     "name": "Presentation to IUFOR by Edgar Rothshild Fouche, slide 42 onward",
+     "url": "https://www.checktheevidence.com/pdf/Edgar%20Fouche%20-%201998%20Presentation%20to%20IUFOC.pdf"
+    }
+   ],
+   "text": "The strongest documented connection between any TR-3B claimant and a real classified airfield, and it must be read with its own limit attached: the form does not say what he did there, referring that out to 'a separate report' that is not in the file, and everything else on the form describes F-15 avionics intermediate shop work. The extensive Groom Lake narration in the 1998 presentation, including helicopter flights and a mess hall conversation about an NSA system, is Tier 2 on his word alone.",
+   "tier": 2,
+   "type": "geographic"
+  },
+  "e-b4bc7dc247": {
+   "endpoints": [
+    {
+     "id": "fouche-military-documents",
+     "label": "Edgar Fouche's Military, and DOD contractors reference Documents"
+    },
+    {
+     "id": "checktheevidence",
+     "label": "Check The Evidence (checktheevidence.com), Andrew Johnson"
+    }
+   ],
+   "id": "e-b4bc7dc247",
+   "kind": "edge",
+   "label": "Military documents compilation hosted by Check The Evidence",
+   "sources": [
+    {
+     "date": "2014-06-15",
+     "name": "Andrew Johnson, 'Edgar Fouche - Disclosing Secret Technologies', the index page linking the file; and the HTML original the PDF was printed from",
+     "url": "http://www.checktheevidence.co.uk/articles/edgar%20fouche%20documents.htm"
+    }
+   ],
+   "text": "Genuine custody. The site holds both the HTML original and the printed PDF, which is how the compilation's provenance was established.",
+   "tier": 1,
+   "type": "custody"
+  },
+  "e-c06775988b": {
+   "endpoints": [
+    {
+     "id": "edgar-fouche",
+     "label": "Edgar Fouche"
+    },
+    {
+     "id": "tr-3b",
+     "label": "TR-3B 'Astra', claimed black triangular aircraft"
+    }
+   ],
+   "id": "e-c06775988b",
+   "kind": "edge",
+   "label": "Originating claimant of the TR-3B, August 1998",
+   "sources": [
+    {
+     "date": "1998-08",
+     "name": "Presentation to IUFOR by Edgar Rothshild Fouche, slides 69 to 72",
+     "url": "https://www.checktheevidence.com/pdf/Edgar%20Fouche%20-%201998%20Presentation%20to%20IUFOC.pdf"
+    }
+   ],
+   "text": "The claim exists in his copyrighted document and nowhere earlier that was opened. Tier 2 and not 1 because the edge asserts that he is the origin of the claim, which rests on the absence of an earlier source rather than on a positive record. Note that within the artefact itself the sighting is second hand: slide 69 opens 'A friend said, he would never forget the sight of the alien looking TR-3B based at Papoose.' He does not claim to have seen it.",
+   "tier": 2,
+   "type": "witness-chain"
+  },
+  "e-d651ca6910": {
+   "endpoints": [
+    {
+     "id": "arvp-fluxliner-project",
+     "label": "ARVP (arvp.co.uk), the Flux Liner project site"
+    },
+    {
+     "id": "tr-3b",
+     "label": "TR-3B 'Astra', claimed black triangular aircraft"
+    }
+   ],
+   "id": "e-d651ca6910",
+   "kind": "edge",
+   "label": "ARVP carries a TR-3B page and routes its readers to the Fouche file",
+   "sources": [
+    {
+     "date": "2026-09-18",
+     "name": "ARVP, 'Black Triangle (TR3b)', the page named in research/leads/CANDIDATES-2026-09-18-ARVP.md",
+     "url": "https://www.arvp.co.uk/black-triangle-tr3b/"
+    }
+   ],
+   "text": "Mirrors the board's existing arvp-fluxliner-project to arv-fluxliner research edge. The site is evidence of what the site says and of nothing else: its own characterisations are the anonymous owner's opinion, most of the page is its owner's visual-effects assessment of a video, and it mis-assigns the 'he lied' finding to Jeremy Rys when the only opened account attributes that video to David Hilton and says its screen could not be read.",
+   "tier": 1,
+   "type": "research"
+  },
+  "e-f683cda334": {
+   "endpoints": [
+    {
+     "id": "testors-sr-75-kit",
+     "label": "Testor Corp. SR-75 Penetrator and XR-7 Thunderdart model kits, 1993"
+    },
+    {
+     "id": "tr-3b",
+     "label": "TR-3B 'Astra', claimed black triangular aircraft"
+    }
+   ],
+   "id": "e-f683cda334",
+   "kind": "edge",
+   "label": "Prior art: the SR-75 Penetrator designation and mothership architecture published commercially in 1993",
+   "sources": [
+    {
+     "date": "1993-12-25",
+     "name": "Baltimore Sun, 'For latest spy plane look under your tree'",
+     "url": "https://www.baltimoresun.com/1993/12/25/for-latest-spy-plane-look-under-your-tree-2/"
+    },
+    {
+     "date": "1998-08",
+     "name": "Presentation to IUFOR by Edgar Rothshild Fouche, slide 62 onward",
+     "url": "https://www.checktheevidence.com/pdf/Edgar%20Fouche%20-%201998%20Presentation%20to%20IUFOC.pdf"
+    }
+   ],
+   "text": "A stated inference and graded 3 accordingly. The designation and the mothership architecture are published, dated and boxed in 1993 with a named designer, and the Air Force told the same newspaper 'such a plane does not exist'. They reappear in 1998 as inside knowledge. The direction of priority is documented and one-directional; the direction of influence is not established and must not be inverted by a later session.",
+   "tier": 3,
+   "type": "denial"
+  },
+  "e-fbd0e36dfd": {
+   "endpoints": [
+    {
+     "id": "edgar-fouche",
+     "label": "Edgar Fouche"
+    },
+    {
+     "id": "alien-rapture-1998",
+     "label": "Alien Rapture: The Chosen, Galde Press, 1998"
+    }
+   ],
+   "id": "e-fbd0e36dfd",
+   "kind": "edge",
+   "label": "Primary author of Alien Rapture: The Chosen",
+   "sources": [
+    {
+     "date": "1998-02-04",
+     "name": "Library of Congress catalogue record LCCN 98002961, MODS, name usage primary",
+     "url": "http://lx2.loc.gov:210/lcdb"
+    }
+   ],
+   "text": "INTENT: AUTHORSHIP, mapped to research rather than custody for the same anti-inflation reason. The Library of Congress record gives 'Fouche, Edgar Rothschild, 1948-' with usage primary and a statement of responsibility reading 'Edgar Rothschild Fouche and Brad Steiger.'",
+   "tier": 1,
+   "type": "research"
+  }
+ },
+ "claimed": [
+  {
+   "cite": [
+    "c-5b5794a88d"
+   ],
+   "text": "Fouche claims in the transcript that he held Top Secret, Q and crypto clearances. No clearance record of any kind has been opened."
+  },
+  {
+   "cite": [
+    "c-ccb59fff33"
+   ],
+   "text": "He says the propulsion ring was reverse-engineered technology developed by Sandia and Livermore, using mercury-based plasma at 250,000 atmospheres and 150 kelvin to cut the effect of gravity on the craft by 89 percent, and he insists it is not antigravity."
+  },
+  {
+   "cite": [
+    "c-24a5ed884c",
+    "c-dcb56f1b63"
+   ],
+   "text": "He ties the craft to the wider sighting literature, promising to explain the flying triangle seen over Phoenix, Gulf Breeze and Belgium, and says up to 35 percent of SDI funding was siphoned into the Aurora programme, which he says started in 1982."
+  },
+  {
+   "cite": [
+    "e-a8cc8584f8",
+    "e-4bebe2311f"
+   ],
+   "text": "The transcript narrates Groom Lake work at length, including helicopter flights and a mess hall conversation; the board holds that narration at Tier 2 on his word alone. His captions also claim an Edwards assignment that no form in his collection carries."
+  },
+  {
+   "cite": [
+    "c-e860bb278d",
+    "c-7baf5528fa"
+   ],
+   "text": "Fouche says he brought over 200 documents to be vetted before the talk by an International UFO Congress official, a UFO investigator and two people from Union Pictures in London; none of the four was contacted and no account by any of them was opened. The compilation's captions also name a MUFON state director as having seen the documents."
+  },
+  {
+   "cite": [
+    "c-ae1a3a8716",
+    "c-747aac8b5d",
+    "c-effcadef3e",
+    "c-1eb798c34b"
+   ],
+   "text": "Andrew Johnson, the sympathetic custodian of the file, describes the book as presenting Fouche's experiences in fictional framing while describing real events, and reports that a FOIA return obtained by David Hilton after Hilton accused Fouche of faking documents lists an ordinary run of postings and decorations."
+  }
+ ],
+ "contested": [
+  {
+   "cite": [
+    "c-33af0575a6"
+   ],
+   "text": "The document contradicts itself: slide 69 says the operational model is 600 feet across, and slide 70 gives a 300 foot operational craft and a 200 foot prototype."
+  },
+  {
+   "cite": [
+    "c-7273e07c5b",
+    "c-639862f702",
+    "c-a7aaf89115"
+   ],
+   "text": "The propulsion claim fails on a materials property. NIST gives mercury a melting point of 234.31 K, so 150 K is 84 K below it, and on the board's reading the specification describes a solid and calls it a plasma. The claim cites no independent source at all, which marks it as the weakest propulsion account on the board."
+  },
+  {
+   "cite": [
+    "c-7fbcbbf34a",
+    "c-c844aea9b1",
+    "c-5462df1b17",
+    "c-9035eba139",
+    "c-ab63864c8d",
+    "e-303c689167",
+    "e-921a06bda3",
+    "c-8927fee77e"
+   ],
+   "text": "Peter Merlin, an aerospace historian who has researched Area 51 since 1984, says he has always been extremely skeptical of Fouche. He reads the SAC letter as an unclassified personnel letter, identifies the photograph Fouche captioned as HAVE BLUE as the first YF-117A prototype, says no Steve Stenson ever commanded AFFTC, and calls the KGB passport and badges surplus-store fakes."
+  },
+  {
+   "cite": [
+    "c-9401bd5c6a",
+    "c-751df00dfa",
+    "e-75a91e23f5"
+   ],
+   "text": "The transcript says the TR-3B is not fiction, while the book it was written to promote is catalogued by the national library as science fiction. How or whether the TR-3B appears in the book is unknown, because its text has not been opened."
+  },
+  {
+   "cite": [
+    "e-f683cda334",
+    "c-5bb8adc5d7"
+   ],
+   "text": "The SR-75 Penetrator designation and its mothership design were published commercially in 1993, five years before the transcript. The priority is documented; whether the account absorbed the kit is not established."
+  },
+  {
+   "cite": [
+    "e-134779a410",
+    "c-f06c4bb366",
+    "c-7aeeb9d53e",
+    "c-ca8c2bfcc2"
+   ],
+   "text": "The real black-programme aircraft of the period, TACIT BLUE, is curved, 48 feet across and was retired in 1985, and no source was found arguing the TR-3B derives from it."
+  },
+  {
+   "cite": [
+    "c-99dbb1ead2",
+    "c-0e713d600c"
+   ],
+   "text": "On the board's reading, the FOIA return as Johnson describes it corroborates the ordinary career and is silent on everything contested: no clearance, no Groom Lake entry, nothing aerospace. The 1979 form, if genuine, shows test-support maintenance and nothing about triangular craft."
+  },
+  {
+   "cite": [
+    "c-7269b47911",
+    "e-d651ca6910"
+   ],
+   "text": "The story that Fouche admitted lying rests on a video that the only opened description of it, Johnson's, says could not be read clearly enough to verify; the ARVP site assigns the finding to the wrong person."
+  },
+  {
+   "cite": [
+    "c-1b642e0823"
+   ],
+   "text": "Fouche's claimed descent from Napoleon's police minister is unsupported by any genealogical record, and his transcript calls Joseph Fouche prime minister, which is not an office he held."
+  }
+ ],
  "essays": [],
  "focusEra": "1",
  "id": "tr-3b-fouche",
  "kind": "allegation",
- "lead": null,
- "members": [],
+ "lead": {
+  "cite": [
+   "c-9401bd5c6a",
+   "e-c06775988b",
+   "c-751df00dfa",
+   "c-7cca6a7b2d",
+   "c-33af0575a6",
+   "e-4010ffb0c4",
+   "c-c69572b557"
+  ],
+  "text": "The TR-3B, a claimed nuclear-powered black triangle, first appears, in everything the board has opened, in one document: Edgar Fouche's copyrighted presentation transcript of August 1998, written to promote a book the Library of Congress catalogues as science fiction. Fouche was a real Air Force avionics sergeant, but none of his published papers shows any programme, and the craft's own description contradicts itself."
+ },
+ "members": [
+  {
+   "cls": "program",
+   "id": "tr-3b",
+   "label": "TR-3B 'Astra', claimed black triangular aircraft",
+   "role": "subject"
+  },
+  {
+   "cls": "person",
+   "id": "edgar-fouche",
+   "label": "Edgar Fouche",
+   "role": "claimant"
+  },
+  {
+   "cls": "document",
+   "id": "fouche-iufoc-1998",
+   "label": "Fouche's presentation transcript, August 1998",
+   "role": "document"
+  },
+  {
+   "cls": "document",
+   "id": "alien-rapture-1998",
+   "label": "Alien Rapture: The Chosen, Galde Press, 1998",
+   "role": "document"
+  },
+  {
+   "cls": "document",
+   "id": "fouche-military-documents",
+   "label": "Edgar Fouche's Military, and DOD contractors reference Documents",
+   "role": "document"
+  },
+  {
+   "cls": "document",
+   "id": "fouche-afftc-det3-1979",
+   "label": "AF Form 77a, Letter of Evaluation, 24 August 1979",
+   "role": "document"
+  },
+  {
+   "cls": "document",
+   "id": "testors-sr-75-kit",
+   "label": "Testor Corp. SR-75 Penetrator and XR-7 Thunderdart model kits, 1993",
+   "role": "document"
+  },
+  {
+   "cls": "person",
+   "id": "brad-steiger",
+   "label": "Brad Steiger",
+   "role": "journalist"
+  },
+  {
+   "cls": "institution",
+   "id": "checktheevidence",
+   "label": "Check The Evidence (checktheevidence.com), Andrew Johnson",
+   "role": "institution"
+  },
+  {
+   "cls": "institution",
+   "id": "arvp-fluxliner-project",
+   "label": "ARVP (arvp.co.uk), the Flux Liner project site",
+   "role": "institution"
+  },
+  {
+   "cls": "person",
+   "id": "peter-merlin",
+   "label": "Peter W. Merlin",
+   "role": "critic"
+  },
+  {
+   "cls": "program",
+   "id": "northrop-tacit-blue",
+   "label": "Northrop TACIT BLUE",
+   "role": "programme"
+  },
+  {
+   "cls": "institution",
+   "id": "usaf",
+   "label": "United States Air Force",
+   "role": "institution"
+  },
+  {
+   "cls": "institution",
+   "id": "darpa",
+   "label": "Defense Advanced Research Projects Agency",
+   "role": "institution"
+  },
+  {
+   "cls": "location",
+   "id": "l-groom-lake",
+   "label": "Groom Lake, Nevada",
+   "role": "place"
+  },
+  {
+   "cls": "location",
+   "id": "l-edwards-afb",
+   "label": "Edwards Air Force Base, California",
+   "role": "place"
+  }
+ ],
  "notes": "Split from Appendix T's arv-tr3b. Fouche is the origin of the TR-3B story, recorded as a claim with its origin note.",
- "questions": [],
- "record": [],
- "related": [],
+ "questions": [
+  "Did Fouche ever deliver this script from a podium, and at what event? No contemporaneous programme or report naming him has been opened.",
+  "Who is the friend whose sighting at Papoose the whole account rests on?",
+  "How, if at all, does the TR-3B appear inside Alien Rapture: The Chosen?",
+  "Does any official record, budget line or FOIA release use the designation TR-3B?",
+  "What does the separate report on Fouche's 1979 temporary duty say, and does a primary Air Force record identify Detachment 3 with Groom Lake?",
+  "What does the FOIA return David Hilton posted in 2014 actually contain? Only a description of it has been read.",
+  "What does AAR mean on the 1984 SAC letter: Fouche's reading or Merlin's?",
+  "Did Fouche know of the 1993 Testor kits before 1998?"
+ ],
+ "record": [
+  {
+   "cite": [
+    "c-04015718c0",
+    "c-8c07494d11",
+    "e-412983978d"
+   ],
+   "text": "The transcript's own header reads as a presentation to IUFOR by Edgar Rothshild Fouche, copyright August 1998, Fouche Media Associates, with IUFOR and Rothshild both misspelled. The PDF opened was created on 13 January 2014."
+  },
+  {
+   "cite": [
+    "c-9401bd5c6a"
+   ],
+   "text": "At slide 70 the transcript says the 200 foot prototype and 300 foot operational TR-3Bs are code-named Astra, that the first operational flight was in the early 1990s, that at least three were flying by 1994, and that the craft was built with technology available in the mid 1980s."
+  },
+  {
+   "cite": [
+    "c-41087d2820",
+    "e-c06775988b"
+   ],
+   "text": "The sighting at the core of the account is second hand inside the document itself: slide 69 opens with a friend who said he would never forget the sight of the TR-3B based at Papoose. Fouche does not claim to have seen the craft."
+  },
+  {
+   "cite": [
+    "c-751df00dfa",
+    "c-208b6994cc",
+    "c-2a71db3503",
+    "c-c92d372f38"
+   ],
+   "text": "The Library of Congress record for Alien Rapture: The Chosen, by Edgar Rothschild Fouche and Brad Steiger, Galde Press 1998, carries the genre heading science fiction and the subject heading alien abduction fiction; Open Library records the same. The catalogue record was created on 4 February 1998, before the August presentation."
+  },
+  {
+   "cite": [
+    "c-7cca6a7b2d",
+    "c-137c1ac3e3",
+    "c-c69572b557",
+    "c-b24afb681a",
+    "e-4010ffb0c4"
+   ],
+   "text": "Fouche's self-published compilation holds decorations, training certificates, performance reports, a degree and one personnel letter, and no discharge certificate, clearance record, contract, programme document or drawing. His medal citations describe F-15 and F-16 test station work and a Strategic Air Command liaison post."
+  },
+  {
+   "cite": [
+    "c-b661ff151a",
+    "c-a2da5f62ee",
+    "c-3786957d59",
+    "c-7055e3af76",
+    "e-8271ddbd37"
+   ],
+   "text": "The AF Form 77a of 24 August 1979, in his own compilation, records temporary duty to AFFTC Detachment 3, Nellis AF Range, from 1 June to 14 August 1979, and rates him as an F-15 avionics shop NCO. It does not say what he did there, referring that to a separate report that is not in the collection."
+  },
+  {
+   "cite": [
+    "c-242988dc58",
+    "c-8614bbbb95",
+    "c-edf72902db",
+    "e-3ac5085e75"
+   ],
+   "text": "The letter Fouche presents as a SAC-DARPA classified document is a 1984 Strategic Air Command letter bearing no classification marking of any kind, signed by a technical sergeant in a personnel assignments section. Its redactions were applied by Fouche, on his own caption's admission, and the caption misnames DARPA."
+  },
+  {
+   "cite": [
+    "c-570e174696",
+    "c-908a04368a",
+    "c-2a42f54c48",
+    "c-b13790a0fa"
+   ],
+   "text": "A Baltimore Sun report of 25 December 1993 records Testor Corp. selling a speculative SR-75 Penetrator model kit designed by the aviation historian John Andrews, and an Air Force spokeswoman saying such a plane does not exist. Fouche's 1998 transcript presents the SR-75 Penetrator, a mothership, as inside knowledge."
+  },
+  {
+   "cite": [
+    "c-13f1c0ba3d",
+    "c-eda306a400"
+   ],
+   "text": "A Find a Grave memorial citing a funeral home obituary records Fouche's death on 11 May 2017 aged 69, and says he served twenty years in the Air Force and worked as a DoD project manager until retiring in 2001; the Library of Congress name authority independently gives his birth year as 1948."
+  }
+ ],
+ "related": [
+  "area-51-ranges",
+  "propulsion-claims",
+  "arv-fluxliner",
+  "testimony-provenance",
+  "sceptics",
+  "black-budget"
+ ],
  "section": "custody-allegations",
  "span": {
   "from": "1979",
   "to": "2014"
  },
- "status": "draft",
- "summary": [],
+ "status": "verified",
+ "summary": [
+  {
+   "cite": [
+    "c-9401bd5c6a",
+    "c-ccb59fff33",
+    "e-44cf405595"
+   ],
+   "text": "The claim: at slides 69 to 72 of his 1998 transcript Fouche describes a triangular, nuclear-powered craft code-named Astra, developed under a secret Aurora programme with SDI and black budget money, funded by the NRO, the NSA and the CIA, and driven by a mercury plasma ring he calls the Magnetic Field Disrupter."
+  },
+  {
+   "cite": [
+    "c-c69572b557",
+    "c-b24afb681a",
+    "e-4010ffb0c4",
+    "c-b661ff151a",
+    "e-20cf9eea3a"
+   ],
+   "text": "The man: Fouche served as an Air Force avionics maintenance NCO, with Meritorious Service Medal citations for posts at Kadena and Kelly, and a 1979 evaluation form in his own compilation records ten weeks of temporary duty to AFFTC Detachment 3 on the Nellis range, the unit a historian identifies with Groom Lake."
+  },
+  {
+   "cite": [
+    "c-ee7142a20f",
+    "e-fbd0e36dfd",
+    "e-8fac7a136f",
+    "e-3e440c35a8",
+    "e-b4bc7dc247"
+   ],
+   "text": "The route to the public: the transcript names the book Alien Rapture: The Chosen, written with Brad Steiger, as the occasion of the talk, and the transcript and his document compilation now survive on Andrew Johnson's site Check The Evidence."
+  }
+ ],
  "title": "The claimed TR-3B and Edgar Fouche"
 }

@@ -7,25 +7,2035 @@
   "tim-gallaudet"
  ],
  "appendixT": "hearing-2024",
- "cites": {},
- "claimed": [],
- "contested": [],
+ "cites": {
+  "c-037a723a61": {
+   "id": "c-037a723a61",
+   "kind": "claim",
+   "node": "michael-gold",
+   "nodeLabel": "Michael Gold",
+   "source": {
+    "domain": null,
+    "text": "Michael Gold, written testimony, 13 November 2024",
+    "url": null
+   },
+   "text": "Alex Dietrich 'was mocked by her colleagues' and her incident 'went years without any investigation.'",
+   "tier": 2
+  },
+  "c-077a68511b": {
+   "id": "c-077a68511b",
+   "kind": "claim",
+   "node": "immaculate-constellation-12-page-report",
+   "nodeLabel": "Immaculate Constellation 12-page report entered into the Congressional Record",
+   "source": {
+    "domain": null,
+    "text": "USA Herald, 16 May 2026, reporting DoD statements",
+    "url": null
+   },
+   "text": "Pentagon spokesperson Sue Gough stated the Department has 'no record' of such a program; former AARO director Sean Kirkpatrick also denied its existence.",
+   "tier": 2
+  },
+  "c-08b43a4b81": {
+   "id": "c-08b43a4b81",
+   "kind": "claim",
+   "node": "michael-gold",
+   "nodeLabel": "Michael Gold",
+   "source": {
+    "domain": null,
+    "text": "GPO CHRG-118hhrg57440, 13 November 2024",
+    "url": null
+   },
+   "text": "Answered 'No, ma'am' when Rep. Boebert asked whether he was familiar with an alleged DoD program manipulating human genetics with non-human genetic material.",
+   "tier": 1
+  },
+  "c-096e4c4621": {
+   "id": "c-096e4c4621",
+   "kind": "claim",
+   "node": "tim-gallaudet",
+   "nodeLabel": "Timothy Gallaudet",
+   "source": {
+    "domain": null,
+    "text": "Tim Gallaudet, written testimony, House Oversight joint subcommittee hearing, 13 November 2024",
+    "url": null
+   },
+   "text": "In January 2015 the operations officer of Fleet Forces Command emailed all subordinate commanders under the subject 'URGENT SAFETY OF FLIGHT ISSUE,' attaching the GO FAST video and writing 'If any of you know what these are, tell me ASAP. We are having multiple near-midair collisions, and if we do not resolve it soon, we will have to shut down the exercise.'",
+   "tier": 2
+  },
+  "c-0bc442fda9": {
+   "id": "c-0bc442fda9",
+   "kind": "claim",
+   "node": "luis-elizondo",
+   "nodeLabel": "Luis D. Elizondo",
+   "source": {
+    "domain": null,
+    "text": "Luis Elizondo, sworn testimony, House Oversight Committee, 13 November 2024",
+    "url": null
+   },
+   "text": "'There was an aerospace contract company that requested to divest itself of the material... that was collected in the 1950s. Unfortunately, that did not actually occur.'",
+   "tier": 2
+  },
+  "c-0c553cf467": {
+   "id": "c-0c553cf467",
+   "kind": "claim",
+   "node": "michael-gold",
+   "nodeLabel": "Michael Gold",
+   "source": {
+    "domain": null,
+    "text": "Michael Gold, written testimony, House Oversight joint subcommittee hearing, 13 November 2024",
+    "url": null
+   },
+   "text": "'the stigmatization of the UAP phenomena is so harmful. The stigma prevents scientific inquiry.'",
+   "tier": 2
+  },
+  "c-0ff87e4082": {
+   "id": "c-0ff87e4082",
+   "kind": "claim",
+   "node": "nancy-mace",
+   "nodeLabel": "Nancy Ruth Mace",
+   "source": {
+    "domain": null,
+    "text": "CHRG-118hhrg57440, 13 November 2024",
+    "url": null
+   },
+   "text": "Submitted the Christopher Mellon hearing letter into the record of the 13 November 2024 hearing (Index of Documents: 'Mellon Hearing Letter; submitted by Rep. Mace').",
+   "tier": 1
+  },
+  "c-14f5e642ce": {
+   "id": "c-14f5e642ce",
+   "kind": "claim",
+   "node": "hearing-2024-11-13",
+   "nodeLabel": "House Oversight joint hearing, 13 November 2024 - 'Unidentified Anomalous Phenomena: Exposing the Truth'",
+   "source": {
+    "domain": null,
+    "text": "CHRG-118hhrg57440, Index of Documents",
+    "url": null
+   },
+   "text": "Index of Documents records the Mellon Hearing Letter submitted by Rep. Mace, documents related to UAPs submitted by Rep. Burchett, the Immaculate Constellation report submitted by Rep. Mace, and Questions for the Record to all four witnesses submitted by Rep. Burlison.",
+   "tier": 1
+  },
+  "c-1f8c5e956c": {
+   "id": "c-1f8c5e956c",
+   "kind": "claim",
+   "node": "tim-gallaudet",
+   "nodeLabel": "Timothy Gallaudet",
+   "source": {
+    "domain": null,
+    "text": "CHRG-118hhrg57440 CONTENTS",
+    "url": null
+   },
+   "text": "Witness of record at the 13 November 2024 House Oversight joint hearing: 'Dr. Tim Gallaudet, Rear Admiral, U.S. Navy (RET.), Chief Executive Officer, Ocean STL Consulting, LLC'.",
+   "tier": 1
+  },
+  "c-1fd0fe2f76": {
+   "id": "c-1fd0fe2f76",
+   "kind": "claim",
+   "node": "hearing-2024-11-13",
+   "nodeLabel": "House Oversight joint hearing, 13 November 2024 - 'Unidentified Anomalous Phenomena: Exposing the Truth'",
+   "source": {
+    "domain": null,
+    "text": "Written Testimony of Luis Elizondo, House Oversight, 13 November 2024",
+    "url": null
+   },
+   "text": "Elizondo's written testimony states that 'Advanced technologies not made by our Government – or any other government – are monitoring sensitive military installations around the globe' and alleges 'a multi-decade, secretive arms race'.",
+   "tier": 2
+  },
+  "c-1fff6fcd25": {
+   "id": "c-1fff6fcd25",
+   "kind": "claim",
+   "node": "nancy-mace",
+   "nodeLabel": "Nancy Ruth Mace",
+   "source": {
+    "domain": null,
+    "text": "CHRG-118hhrg57440, 13 November 2024",
+    "url": null
+   },
+   "text": "Mace asked whether material is given to particular contractors because of their expertise, offering General Dynamics for undersea propulsion; Elizondo answered 'Yes, ma'am, absolutely correct.'",
+   "tier": 1
+  },
+  "c-2308ae3439": {
+   "id": "c-2308ae3439",
+   "kind": "claim",
+   "node": "luis-elizondo",
+   "nodeLabel": "Luis D. Elizondo",
+   "source": {
+    "domain": null,
+    "text": "House Committee on Oversight and Accountability hearing record, 13 November 2024",
+    "url": null
+   },
+   "text": "Elizondo testified as a named witness before the House Oversight Subcommittees on Cybersecurity/IT and National Security on 13 November 2024.",
+   "tier": 1
+  },
+  "c-23e5653f06": {
+   "id": "c-23e5653f06",
+   "kind": "claim",
+   "node": "immaculate-constellation-12-page-report",
+   "nodeLabel": "Immaculate Constellation 12-page report entered into the Congressional Record",
+   "source": {
+    "domain": null,
+    "text": "Jason Colavito, as cited in the Wikipedia Schriever wargame article",
+    "url": null
+   },
+   "text": "In 2025 a self-identified whistleblower said he located the programme in a folder labelled '2018 Schriever Wargame'; Jason Colavito concluded the claimant had mistaken fictitious wargame documents for secret UFO revelations.",
+   "tier": 2
+  },
+  "c-2477ebc37d": {
+   "id": "c-2477ebc37d",
+   "kind": "claim",
+   "node": "immaculate-constellation",
+   "nodeLabel": "Immaculate Constellation disclosure, October-November 2024",
+   "source": {
+    "domain": null,
+    "text": "Michael Shellenberger, sworn testimony, 13 November 2024",
+    "url": null
+   },
+   "text": "'One involved orbs surrounding and forcing an F-22 out of its patrol area. In another incident, the crew of a Navy aircraft carrier watched a small orange/red sphere rapidly descend from a high altitude of 100 to 200 yards directly above the flight deck.'",
+   "tier": 2
+  },
+  "c-2ca2b4bf41": {
+   "id": "c-2ca2b4bf41",
+   "kind": "claim",
+   "node": "glenn-grothman",
+   "nodeLabel": "Glenn S. Grothman",
+   "source": {
+    "domain": null,
+    "text": "Rep. Grothman, opening statement, 13 November 2024, GPO CHRG-118hhrg57440",
+    "url": null
+   },
+   "text": "'None of them have been able to substantiate the claims made at this hearing last year by David Grusch, despite our Committee Members endlessly questioning these agencies inside and outside of the SCIF.'",
+   "tier": 1
+  },
+  "c-31a2ccc536": {
+   "id": "c-31a2ccc536",
+   "kind": "claim",
+   "node": "hearing-2024-11-13",
+   "nodeLabel": "House Oversight joint hearing, 13 November 2024 - 'Unidentified Anomalous Phenomena: Exposing the Truth'",
+   "source": {
+    "domain": null,
+    "text": "HHRG-118-GO12 hearing transcript, 13 November 2024",
+    "url": null
+   },
+   "text": "Elizondo answered 'Yes' under oath to whether the government has conducted secret UAP crash retrieval programs and to whether they were designed to identify and reverse engineer alien craft.",
+   "tier": 2
+  },
+  "c-3a19261997": {
+   "id": "c-3a19261997",
+   "kind": "claim",
+   "node": "hearing-2024-11-13",
+   "nodeLabel": "House Oversight joint hearing, 13 November 2024 - 'Unidentified Anomalous Phenomena: Exposing the Truth'",
+   "source": {
+    "domain": null,
+    "text": "Inference from the hearing transcript against AARO Historical Record Report Volume I, p.30",
+    "url": null
+   },
+   "text": "Elizondo's sworn account of a SCIF-signed instrument barring discussion of crash retrieval is directly incompatible with Volume I's statement eight months earlier that AARO found no NDAs containing UAP-related information.",
+   "tier": 3
+  },
+  "c-46bc64290f": {
+   "id": "c-46bc64290f",
+   "kind": "claim",
+   "node": "immaculate-constellation",
+   "nodeLabel": "Immaculate Constellation disclosure, October-November 2024",
+   "source": {
+    "domain": null,
+    "text": "US GPO, CHRG-118hhrg57440, Index of Documents",
+    "url": null
+   },
+   "text": "The hearing's Index of Documents records 'Report, Pentagon, Immaculate Constellation; submitted by Rep. Mace.'",
+   "tier": 1
+  },
+  "c-48ab65bcea": {
+   "id": "c-48ab65bcea",
+   "kind": "claim",
+   "node": "hearing-2024-11-13",
+   "nodeLabel": "House Oversight joint hearing, 13 November 2024 - 'Unidentified Anomalous Phenomena: Exposing the Truth'",
+   "source": {
+    "domain": null,
+    "text": "House Oversight Committee hearing page; GPO CHRG-118hhrg57440",
+    "url": null
+   },
+   "text": "The hearing was held 13 November 2024 at 11:30 am in 2154 Rayburn as a joint hearing of the Cybersecurity, IT and Government Innovation and National Security, the Border, and Foreign Affairs subcommittees, with witnesses Gallaudet, Elizondo, Gold and Shellenberger.",
+   "tier": 1
+  },
+  "c-4b9471c6e5": {
+   "id": "c-4b9471c6e5",
+   "kind": "claim",
+   "node": "hearing-2024-11-13",
+   "nodeLabel": "House Oversight joint hearing, 13 November 2024 - 'Unidentified Anomalous Phenomena: Exposing the Truth'",
+   "source": {
+    "domain": null,
+    "text": "CHRG-118hhrg57440",
+    "url": null
+   },
+   "text": "Elizondo testified that he signed a US Government document in a SCIF, in the presence of a security officer, that barred him from discussing crash retrieval.",
+   "tier": 1
+  },
+  "c-522b06a699": {
+   "id": "c-522b06a699",
+   "kind": "claim",
+   "node": "hearing-2024-11-13",
+   "nodeLabel": "House Oversight joint hearing, 13 November 2024 - 'Unidentified Anomalous Phenomena: Exposing the Truth'",
+   "source": {
+    "domain": null,
+    "text": "CHRG-118hhrg57440",
+    "url": null
+   },
+   "text": "Elizondo testified that he signed a US Government document in a SCIF, in the presence of a security officer, that permitted him to keep speaking on certain topics but barred him from discussing crash retrieval.",
+   "tier": 1
+  },
+  "c-524ba836ba": {
+   "id": "c-524ba836ba",
+   "kind": "claim",
+   "node": "nancy-mace",
+   "nodeLabel": "Nancy Ruth Mace",
+   "source": {
+    "domain": null,
+    "text": "Chairwoman Nancy Mace, opening statement, 13 November 2024, GPO CHRG-118hhrg57440",
+    "url": null
+   },
+   "text": "'I am not going to name names, but there are certain individuals who did not want this hearing to happen because they feared what might be disclosed. But we stood firm.'",
+   "tier": 1
+  },
+  "c-59cb51fb7f": {
+   "id": "c-59cb51fb7f",
+   "kind": "claim",
+   "node": "hoc-subcommittee-cybersecurity-it",
+   "nodeLabel": "Subcommittee on Cybersecurity, Information Technology, and Government Innovation",
+   "source": {
+    "domain": null,
+    "text": "CHRG-118hhrg57440, 13 November 2024",
+    "url": null
+   },
+   "text": "Co-chaired the 13 November 2024 joint UAP hearing; its chairwoman entered the 12-page Immaculate Constellation document into the Congressional Record.",
+   "tier": 1
+  },
+  "c-5ef2e8f60b": {
+   "id": "c-5ef2e8f60b",
+   "kind": "claim",
+   "node": "immaculate-constellation",
+   "nodeLabel": "Immaculate Constellation disclosure, October-November 2024",
+   "source": {
+    "domain": null,
+    "text": "CHRG-118hhrg57440, 13 November 2024",
+    "url": null
+   },
+   "text": "Asked by Higgins whether he knew the author, Shellenberger replied 'I do'; asked whether his sources sat inside the Defense Department he said 'I will not say ... I protect my sources.'",
+   "tier": 2
+  },
+  "c-5f4ef78c47": {
+   "id": "c-5f4ef78c47",
+   "kind": "claim",
+   "node": "luis-elizondo",
+   "nodeLabel": "Luis D. Elizondo",
+   "source": {
+    "domain": null,
+    "text": "Sean Kirkpatrick, Scientific American, 19 January 2024",
+    "url": null
+   },
+   "text": "Kirkpatrick publicly attributed the modern crash-retrieval narrative to AATIP and Robert Bigelow's circle, an argument that targets Elizondo's account without engaging it as testimony.",
+   "tier": 2
+  },
+  "c-5f5aa9e538": {
+   "id": "c-5f5aa9e538",
+   "kind": "claim",
+   "node": "gallaudet-2015-email",
+   "nodeLabel": "Fleet Forces Command 'URGENT SAFETY OF FLIGHT ISSUE' Email (Jan 2015, recalled)",
+   "source": {
+    "domain": null,
+    "text": "Tim Gallaudet, written testimony, House Oversight, 13 November 2024",
+    "url": null
+   },
+   "text": "The email's subject line was 'URGENT SAFETY OF FLIGHT ISSUE' and it carried the GO FAST video.",
+   "tier": 2
+  },
+  "c-6748a44390": {
+   "id": "c-6748a44390",
+   "kind": "claim",
+   "node": "immaculate-constellation-12-page-report",
+   "nodeLabel": "Immaculate Constellation 12-page report entered into the Congressional Record",
+   "source": {
+    "domain": "www.congress.gov",
+    "text": "HHRG-118-GO12-20241113-SD003, pages 1 and 11, https://www.congress.gov/118/meeting/house/117721/documents/HHRG-118-GO12-20241113-SD003.pdf",
+    "url": "https://www.congress.gov/118/meeting/house/117721/documents/HHRG-118-GO12-20241113-SD003.pdf"
+   },
+   "text": "The introduction names the report's structure: 'In this public version of the report, information is organized into seven categories of evidence, including: an Unacknowledged Special Access Program (uSAP); Imagery Intelligence (IMINT); human intelligence (HUMINT); signals intelligence (SIGINT); USG bureaucratic records; USG historical records; and other sensitive sources.' The body runs as Sections 1 to 7 in that order, Section 7 'Sensitive Sources' consisting of the single sentence 'From mouth to ear.'",
+   "tier": 1
+  },
+  "c-732b4390f8": {
+   "id": "c-732b4390f8",
+   "kind": "claim",
+   "node": "hearing-2024-11-13",
+   "nodeLabel": "House Oversight joint hearing, 13 November 2024 - 'Unidentified Anomalous Phenomena: Exposing the Truth'",
+   "source": {
+    "domain": null,
+    "text": "CHRG-118hhrg57440, 13 November 2024",
+    "url": null
+   },
+   "text": "Asked whether he was read into secret UAP crash retrieval programs, Elizondo replied 'We would have to have a conversation in a closed session, ma'am.'",
+   "tier": 2
+  },
+  "c-746cf4f2fc": {
+   "id": "c-746cf4f2fc",
+   "kind": "claim",
+   "node": "michael-shellenberger",
+   "nodeLabel": "Michael Shellenberger",
+   "source": {
+    "domain": null,
+    "text": "CHRG-118hhrg57440 CONTENTS and statement of Rep. Mace",
+    "url": null
+   },
+   "text": "Witness of record at the 13 November 2024 House Oversight joint hearing: 'Mr. Michael Shellenberger, Founder of Public'. Chairwoman Mace stated on the record that the 12-page Pentagon document describing the unacknowledged special access program 'Immaculate Constellation' was the document 'that Michael Shellenberger brought today', and entered it into the record without objection.",
+   "tier": 1
+  },
+  "c-7cb83e65ca": {
+   "id": "c-7cb83e65ca",
+   "kind": "claim",
+   "node": "tim-gallaudet",
+   "nodeLabel": "Timothy Gallaudet",
+   "source": {
+    "domain": null,
+    "text": "Tim Gallaudet, written testimony, House Oversight, 13 November 2024",
+    "url": null
+   },
+   "text": "He concluded the information 'must have been classified within a special access program managed by an intelligence agency.'",
+   "tier": 2
+  },
+  "c-81282dc1e5": {
+   "id": "c-81282dc1e5",
+   "kind": "claim",
+   "node": "immaculate-constellation-12-page-report",
+   "nodeLabel": "Immaculate Constellation 12-page report entered into the Congressional Record",
+   "source": {
+    "domain": "www.govinfo.gov",
+    "text": "U.S. GPO, Hearing transcript, Serial No. 118-135 (CHRG-118hhrg57440), 13 November 2024, https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/pdf/CHRG-118hhrg57440.pdf",
+    "url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/pdf/CHRG-118hhrg57440.pdf"
+   },
+   "text": "The hearing record gives the page count as twelve in the chair's own words, twice, and credits the delivery to Shellenberger: 'I will do it, to enter into the Congressional Record this 12-page document that Michael Shellenberger brought today that describes the Immaculate Constellation government program.' Earlier in the same session Mace said 'Mr. Burchett will enter it into the record, but 12 pages about this unacknowledged special access program that your government says does not exist.'",
+   "tier": 1
+  },
+  "c-8887df1e52": {
+   "id": "c-8887df1e52",
+   "kind": "claim",
+   "node": "hearing-2024-11-13",
+   "nodeLabel": "House Oversight joint hearing, 13 November 2024 - 'Unidentified Anomalous Phenomena: Exposing the Truth'",
+   "source": {
+    "domain": null,
+    "text": "CHRG-118hhrg57440, 13 November 2024",
+    "url": null
+   },
+   "text": "Elizondo confirmed on the record that the reported Lockheed Martin - Bigelow Aerospace material transfer 'was blocked,' and that the required Secretary of the Air Force memorandum never issued.",
+   "tier": 1
+  },
+  "c-8fd6935124": {
+   "id": "c-8fd6935124",
+   "kind": "claim",
+   "node": "immaculate-constellation-12-page-report",
+   "nodeLabel": "Immaculate Constellation 12-page report entered into the Congressional Record",
+   "source": {
+    "domain": "www.congress.gov",
+    "text": "HHRG-118-GO12-20241113-SD003, all twelve pages, https://www.congress.gov/118/meeting/house/117721/documents/HHRG-118-GO12-20241113-SD003.pdf",
+    "url": "https://www.congress.gov/118/meeting/house/117721/documents/HHRG-118-GO12-20241113-SD003.pdf"
+   },
+   "text": "The document as submitted and published by the committee is twelve scanned pages with no text layer. Pages 1 to 11 run continuously from the heading 'Introduction' to the end of 'VI. Conclusion' and its closing line 'Scientia Igne Probata; Veritas Per Fidem'; page 12 is blank. No cover letter, transmittal, author name, classification marking or control number appears on any of the twelve pages.",
+   "tier": 1
+  },
+  "c-91b6e963c3": {
+   "id": "c-91b6e963c3",
+   "kind": "claim",
+   "node": "luis-elizondo",
+   "nodeLabel": "Luis D. Elizondo",
+   "source": {
+    "domain": null,
+    "text": "CHRG-118hhrg57440, exchange with Rep. Nancy Mace, 13 November 2024",
+    "url": null
+   },
+   "text": "Asked whether material is distributed to contractors by domain expertise: 'Yes, ma'am, absolutely correct. Different contractors have different levels of expertise.'",
+   "tier": 2
+  },
+  "c-93c68cda9e": {
+   "id": "c-93c68cda9e",
+   "kind": "claim",
+   "node": "luis-elizondo",
+   "nodeLabel": "Luis D. Elizondo",
+   "source": {
+    "domain": null,
+    "text": "CHRG-118hhrg57440, 13 November 2024",
+    "url": null
+   },
+   "text": "On the reported Lockheed Martin - Bigelow Aerospace transfer blocked by CIA: 'What I can say is that it was blocked... I was part of some conversations later on with some of those contract personnel where they had told all of us that is accurate. What we required was a memo from the Secretary of the Air Force in order to make that complete, and that never occurred.'",
+   "tier": 2
+  },
+  "c-941159a8b2": {
+   "id": "c-941159a8b2",
+   "kind": "claim",
+   "node": "michael-shellenberger",
+   "nodeLabel": "Michael Shellenberger",
+   "source": {
+    "domain": null,
+    "text": "Inference from the distinct provenance chains of the 2024 document and the 2025 claim",
+    "url": null
+   },
+   "text": "The Schriever attribution addresses a 2025 claimant's account of where he found the name; it does not by itself account for the 12-page document delivered in November 2024 or explain why no AARO product has ever addressed the name entered into the Record.",
+   "tier": 3
+  },
+  "c-945d19967c": {
+   "id": "c-945d19967c",
+   "kind": "claim",
+   "node": "michael-gold",
+   "nodeLabel": "Michael Gold",
+   "source": {
+    "domain": null,
+    "text": "Michael Gold, written testimony, 13 November 2024",
+    "url": null
+   },
+   "text": "Recommends NASA work with the FAA to establish civilian pilot UAP reporting procedures and leverage the Aviation Safety Reporting System.",
+   "tier": 2
+  },
+  "c-970b4f7afd": {
+   "id": "c-970b4f7afd",
+   "kind": "claim",
+   "node": "hearing-2024-11-13",
+   "nodeLabel": "House Oversight joint hearing, 13 November 2024 - 'Unidentified Anomalous Phenomena: Exposing the Truth'",
+   "source": {
+    "domain": null,
+    "text": "HHRG-118-GO12 hearing transcript and House Committee Repository event record",
+    "url": null
+   },
+   "text": "Held 13 November 2024 as a joint hearing of two House Oversight subcommittees, chaired by Rep. Nancy Mace, with witnesses Gallaudet, Elizondo, Shellenberger and Gold.",
+   "tier": 1
+  },
+  "c-998b65ad0d": {
+   "id": "c-998b65ad0d",
+   "kind": "claim",
+   "node": "hearing-2024-11-13",
+   "nodeLabel": "House Oversight joint hearing, 13 November 2024 - 'Unidentified Anomalous Phenomena: Exposing the Truth'",
+   "source": {
+    "domain": null,
+    "text": "House Oversight hearing record, 13 November 2024",
+    "url": null
+   },
+   "text": "The hearing record states that agencies briefed since 2023, including the DoD Inspector General's office, had not substantiated Grusch's claims despite questioning inside and outside the SCIF.",
+   "tier": 1
+  },
+  "c-9d3c590324": {
+   "id": "c-9d3c590324",
+   "kind": "claim",
+   "node": "immaculate-constellation",
+   "nodeLabel": "Immaculate Constellation disclosure, October-November 2024",
+   "source": {
+    "domain": null,
+    "text": "DoD statements as reported in secondary coverage; wave 1 board record",
+    "url": null
+   },
+   "text": "The Department of Defense states it has no record of such a programme; spokesperson Sue Gough has said the Department has 'no record', and former AARO director Sean Kirkpatrick has denied its existence.",
+   "tier": 2
+  },
+  "c-a1a97b371b": {
+   "id": "c-a1a97b371b",
+   "kind": "claim",
+   "node": "luis-elizondo",
+   "nodeLabel": "Luis D. Elizondo",
+   "source": {
+    "domain": null,
+    "text": "Sworn testimony, House Oversight hearing Unidentified Anomalous Phenomena: Exposing the Truth, 13 November 2024",
+    "url": null
+   },
+   "text": "'Absolutely, sir. I had the privilege and honor of working with him myself several years ago at U.S. Space Force.'",
+   "tier": 1
+  },
+  "c-ab28a691c3": {
+   "id": "c-ab28a691c3",
+   "kind": "claim",
+   "node": "immaculate-constellation-12-page-report",
+   "nodeLabel": "Immaculate Constellation 12-page report entered into the Congressional Record",
+   "source": {
+    "domain": "www.congress.gov",
+    "text": "Immaculate Constellation report as submitted to the House Oversight joint subcommittee hearing of 13 November 2024, committee repository document HHRG-118-GO12-20241113-SD003, page 1, https://www.congress.gov/118/meeting/house/117721/documents/HHRG-118-GO12-20241113-SD003.pdf",
+    "url": "https://www.congress.gov/118/meeting/house/117721/documents/HHRG-118-GO12-20241113-SD003.pdf"
+   },
+   "text": "The report's own first page states who cleared the public version: 'This public version of the author's report was reviewed and approved for public release by the Department of State, Bureau of Global Public Affairs.' The bureau is Global Public Affairs.",
+   "tier": 1
+  },
+  "c-acac68bf02": {
+   "id": "c-acac68bf02",
+   "kind": "claim",
+   "node": "hearing-2024-11-13",
+   "nodeLabel": "House Oversight joint hearing, 13 November 2024 - 'Unidentified Anomalous Phenomena: Exposing the Truth'",
+   "source": {
+    "domain": null,
+    "text": "CHRG-118hhrg57440, cover page",
+    "url": null
+   },
+   "text": "Printed hearing record CHRG-118hhrg57440, Serial No. 118-135, cover: 'UNIDENTIFIED ANOMALOUS PHENOMENA: EXPOSING THE TRUTH - JOINT HEARING BEFORE THE SUBCOMMITTEE ON CYBERSECURITY, INFORMATION TECHNOLOGY, AND GOVERNMENT INNOVATION AND THE SUBCOMMITTEE ON NATIONAL SECURITY, THE BORDER, AND FOREIGN AFFAIRS OF THE COMMITTEE ON OVERSIGHT AND ACCOUNTABILITY, U.S. HOUSE OF REPRESENTATIVES, ONE HUNDRED EIGHTEENTH CONGRESS, SECOND SESSION, NOVEMBER 13, 2024'. GPO print number 57-440, printed 2025.",
+   "tier": 1
+  },
+  "c-ad0e622c55": {
+   "id": "c-ad0e622c55",
+   "kind": "claim",
+   "node": "hearing-2024-11-13",
+   "nodeLabel": "House Oversight joint hearing, 13 November 2024 - 'Unidentified Anomalous Phenomena: Exposing the Truth'",
+   "source": {
+    "domain": null,
+    "text": "House Oversight hearing record, Serial No. 118-140, 13 November 2024",
+    "url": null
+   },
+   "text": "Elizondo, under oath: he worked with Grusch at US Space Force, and 'Yes, sir' that he agreed with Grusch's multi-decade crash, retrieval and reverse-engineering testimony.",
+   "tier": 1
+  },
+  "c-b5ef4b296e": {
+   "id": "c-b5ef4b296e",
+   "kind": "claim",
+   "node": "hearing-2024-11-13",
+   "nodeLabel": "House Oversight joint hearing, 13 November 2024 - 'Unidentified Anomalous Phenomena: Exposing the Truth'",
+   "source": {
+    "domain": null,
+    "text": "CHRG-118hhrg57440, statement of Rep. Mace",
+    "url": null
+   },
+   "text": "Chairwoman Nancy Mace, on the record: 'Committee staff asked me to go ahead ... to enter into the Congressional Record this 12-page document that Michael Shellenberger brought today that describes the Immaculate Constellation government program. Every Member up here has a copy of it. The first section talks about the unacknowledged special access program called Immaculate Constellation, and the second section about USG imagery intelligence ... without objection, entered into the record.'",
+   "tier": 1
+  },
+  "c-b67994c819": {
+   "id": "c-b67994c819",
+   "kind": "claim",
+   "node": "hearing-2024-11-13",
+   "nodeLabel": "House Oversight joint hearing, 13 November 2024 - 'Unidentified Anomalous Phenomena: Exposing the Truth'",
+   "source": {
+    "domain": null,
+    "text": "GPO CHRG-118hhrg57440",
+    "url": null
+   },
+   "text": "Held 13 November 2024; witnesses Gallaudet, Elizondo, Shellenberger and Gold; printed as Serial No. 118-135 (CHRG-118hhrg57440).",
+   "tier": 1
+  },
+  "c-b90e760547": {
+   "id": "c-b90e760547",
+   "kind": "claim",
+   "node": "immaculate-constellation",
+   "nodeLabel": "Immaculate Constellation disclosure, October-November 2024",
+   "source": {
+    "domain": null,
+    "text": "Michael Shellenberger, sworn testimony, 13 November 2024",
+    "url": null
+   },
+   "text": "'Immaculate Constellation serves as a central or parent USAP that consolidates observations of UAPs by both tasked and untasked collection platforms' and 'includes high-quality imagery intelligence and measurement and signature intelligence of UAPs.'",
+   "tier": 2
+  },
+  "c-bdc0b10f4b": {
+   "id": "c-bdc0b10f4b",
+   "kind": "claim",
+   "node": "immaculate-constellation-12-page-report",
+   "nodeLabel": "Immaculate Constellation 12-page report entered into the Congressional Record",
+   "source": {
+    "domain": "www.congress.gov",
+    "text": "HHRG-118-GO12-20241113-SD003, pages 3 to 5, https://www.congress.gov/118/meeting/house/117721/documents/HHRG-118-GO12-20241113-SD003.pdf",
+    "url": "https://www.congress.gov/118/meeting/house/117721/documents/HHRG-118-GO12-20241113-SD003.pdf"
+   },
+   "text": "Section 2, USG Imagery Intelligence, catalogues nine incidents, each headed by the combatant command it came from. Two are CENTCOM, headed 'CENTCOM Cuboid Formation of Metallic Orbs' and 'CENTCOM Fast Mover Observed Transiting Over Sensitive Facilities'; four are INDOPACOM, two NORTHCOM and one SOUTHCOM. The nine is the incident count; the seven elsewhere in the report is its count of evidence categories, not of incidents.",
+   "tier": 1
+  },
+  "c-c2c819731b": {
+   "id": "c-c2c819731b",
+   "kind": "claim",
+   "node": "hearing-2024-11-13",
+   "nodeLabel": "House Oversight joint hearing, 13 November 2024 - 'Unidentified Anomalous Phenomena: Exposing the Truth'",
+   "source": {
+    "domain": null,
+    "text": "CHRG-118hhrg57440, opening statement of Rep. Mace",
+    "url": null
+   },
+   "text": "Rep. Mace characterised the subject of the hearing as 'a purportedly secret UAP program whose existence and findings may have been improperly withheld from Congress' and described the entered document as 'the original document from the Pentagon about Immaculate Constellation that Michael Shellenberger delivered to Congress today ... 12 pages about this unacknowledged special access program that your government says does not exist.'",
+   "tier": 2
+  },
+  "c-c5dc568f2e": {
+   "id": "c-c5dc568f2e",
+   "kind": "claim",
+   "node": "luis-elizondo",
+   "nodeLabel": "Luis D. Elizondo",
+   "source": {
+    "domain": null,
+    "text": "Sworn testimony, House Oversight, 13 November 2024",
+    "url": null
+   },
+   "text": "Asked whether he agreed with Grusch that the US has run a multi-decade UAP crash, retrieval and reverse engineering program: 'Yes, sir.'",
+   "tier": 1
+  },
+  "c-c7c86ef93e": {
+   "id": "c-c7c86ef93e",
+   "kind": "claim",
+   "node": "luis-elizondo",
+   "nodeLabel": "Luis D. Elizondo",
+   "source": {
+    "domain": null,
+    "text": "Christopher Sherwood, Pentagon spokesperson, 1 June 2019",
+    "url": null
+   },
+   "text": "DoD's public position is that 'Mr. Elizondo had no responsibilities with regard to the AATIP program while he worked in OUSDI, up until the time he resigned effective 10/4/2017.'",
+   "tier": 1
+  },
+  "c-c9772fc622": {
+   "id": "c-c9772fc622",
+   "kind": "claim",
+   "node": "hearing-2024-11-13",
+   "nodeLabel": "House Oversight joint hearing, 13 November 2024 - 'Unidentified Anomalous Phenomena: Exposing the Truth'",
+   "source": {
+    "domain": null,
+    "text": "CHRG-118hhrg57440, INDEX OF DOCUMENTS",
+    "url": null
+   },
+   "text": "INDEX OF DOCUMENTS of the printed record lists: 'Mellon Hearing Letter; submitted by Rep. Mace', 'Documents related to UAPs; submitted by Rep. Burchett', and 'Report, Pentagon, \"Immaculate Constellation\"; submitted by Rep. Mace', plus Questions for the Record to all four witnesses submitted by Rep. Burlison.",
+   "tier": 1
+  },
+  "c-c9dc78761b": {
+   "id": "c-c9dc78761b",
+   "kind": "claim",
+   "node": "immaculate-constellation",
+   "nodeLabel": "Immaculate Constellation disclosure, October-November 2024",
+   "source": {
+    "domain": null,
+    "text": "Inference from the wording of the Department's response and AARO's September 2025 declassification information paper",
+    "url": null
+   },
+   "text": "A 'no record' response is a records assertion, not a denial that the programme exists, and is the standard formulation used where an office lacks read-on to an unacknowledged compartment. Reasoning: the Department has not stated that the programme does not exist, and AARO's own September 2025 declassification information paper concedes it cannot review material originated by other offices.",
+   "tier": 3
+  },
+  "c-cdf39434fd": {
+   "id": "c-cdf39434fd",
+   "kind": "claim",
+   "node": "immaculate-constellation",
+   "nodeLabel": "Immaculate Constellation disclosure, October-November 2024",
+   "source": {
+    "domain": null,
+    "text": "Michael Shellenberger, written testimony to House Oversight, 13 November 2024",
+    "url": null
+   },
+   "text": "The source told Public the USAP is 'a strategic intelligence program'; a source subsequently told Shellenberger the programme 'is controlled by the White House and executed and administrated by the DOD to avoid compliance with Title 10.'",
+   "tier": 2
+  },
+  "c-cf540c1b0e": {
+   "id": "c-cf540c1b0e",
+   "kind": "claim",
+   "node": "michael-shellenberger",
+   "nodeLabel": "Michael Shellenberger",
+   "source": {
+    "domain": null,
+    "text": "Jason Colavito, jasoncolavito.com, as cited in the Wikipedia Schriever wargame article",
+    "url": null
+   },
+   "text": "In 2025 a self-identified whistleblower said he found the programme in a folder labelled '2018 Schriever Wargame'; Jason Colavito concluded the claimant 'apparently mistook fictitious wargame documents for secret UFO revelations.'",
+   "tier": 2
+  },
+  "c-da02d7effb": {
+   "id": "c-da02d7effb",
+   "kind": "claim",
+   "node": "immaculate-constellation-12-page-report",
+   "nodeLabel": "Immaculate Constellation 12-page report entered into the Congressional Record",
+   "source": {
+    "domain": "www.congress.gov",
+    "text": "HHRG-118-GO12-20241113-SD003, page 1, https://www.congress.gov/118/meeting/house/117721/documents/HHRG-118-GO12-20241113-SD003.pdf",
+    "url": "https://www.congress.gov/118/meeting/house/117721/documents/HHRG-118-GO12-20241113-SD003.pdf"
+   },
+   "text": "The introduction names the mechanism under which the report reached Congress: the investigation was 'provided to Congress through the UAP whistleblower mechanisms established by the FY23 National Defense Authorization Act, and the FY23 National Intelligence Authorization Act.' The report names the two as separate authorities.",
+   "tier": 1
+  },
+  "c-dbf15f686d": {
+   "id": "c-dbf15f686d",
+   "kind": "claim",
+   "node": "hearing-2024-11-13",
+   "nodeLabel": "House Oversight joint hearing, 13 November 2024 - 'Unidentified Anomalous Phenomena: Exposing the Truth'",
+   "source": {
+    "domain": null,
+    "text": "CHRG-118hhrg57440, CONTENTS/WITNESSES page",
+    "url": null
+   },
+   "text": "Witness list of record: 'Dr. Tim Gallaudet, Rear Admiral, U.S. Navy (RET.), Chief Executive Officer, Ocean STL Consulting, LLC'; 'Mr. Luis Elizondo, Author, and Former Department of Defense Official'; 'Mr. Michael Shellenberger, Founder of Public'; 'Mr. Michael Gold, Former NASA Associate Administrator of Space Policy and Partnerships, Member of NASA UAP Independent Study Team'.",
+   "tier": 1
+  },
+  "c-ea9e460300": {
+   "id": "c-ea9e460300",
+   "kind": "claim",
+   "node": "hearing-2024-11-13",
+   "nodeLabel": "House Oversight joint hearing, 13 November 2024 - 'Unidentified Anomalous Phenomena: Exposing the Truth'",
+   "source": {
+    "domain": null,
+    "text": "Michael Gold, written testimony, 13 November 2024",
+    "url": null
+   },
+   "text": "Michael Gold testified that Alex Dietrich 'was mocked by her colleagues' and that her incident 'went years without any investigation.'",
+   "tier": 2
+  },
+  "c-ec4af65435": {
+   "id": "c-ec4af65435",
+   "kind": "claim",
+   "node": "michael-gold",
+   "nodeLabel": "Michael Gold",
+   "source": {
+    "domain": null,
+    "text": "CHRG-118hhrg57440 CONTENTS",
+    "url": null
+   },
+   "text": "Witness of record at the 13 November 2024 House Oversight joint hearing: 'Mr. Michael Gold, Former NASA Associate Administrator of Space Policy and Partnerships, Member of NASA UAP Independent Study Team'.",
+   "tier": 1
+  },
+  "c-f29c10d83f": {
+   "id": "c-f29c10d83f",
+   "kind": "claim",
+   "node": "hearing-2024-11-13",
+   "nodeLabel": "House Oversight joint hearing, 13 November 2024 - 'Unidentified Anomalous Phenomena: Exposing the Truth'",
+   "source": {
+    "domain": null,
+    "text": "CHRG-118hhrg57440",
+    "url": null
+   },
+   "text": "Chairwoman Mace entered a 12-page Pentagon document on Immaculate Constellation into the Congressional Record; its first section describes 'the unacknowledged special access program called Immaculate Constellation' and its second section 'USG imagery intelligence.'",
+   "tier": 1
+  },
+  "c-f37ab2399a": {
+   "id": "c-f37ab2399a",
+   "kind": "claim",
+   "node": "immaculate-constellation",
+   "nodeLabel": "Immaculate Constellation disclosure, October-November 2024",
+   "source": {
+    "domain": null,
+    "text": "Inference from the AARO product set and the PURSUE release indexes",
+    "url": null
+   },
+   "text": "No AARO annual report, statement for the record or PURSUE tranche has addressed a programme name sitting in the Congressional Record, twenty-one months after it was entered. Reasoning: review of the FY2024 and FY2025 annual reports and the war.gov PURSUE release indexes through 7 August 2026.",
+   "tier": 3
+  },
+  "c-f38a8a8dcb": {
+   "id": "c-f38a8a8dcb",
+   "kind": "claim",
+   "node": "luis-elizondo",
+   "nodeLabel": "Luis D. Elizondo",
+   "source": {
+    "domain": null,
+    "text": "Susan Gough, DoD spokesperson, to The Black Vault, 13 June 2019",
+    "url": null
+   },
+   "text": "'It makes no change to previous statements. Mr. Elizondo had no assigned responsibilities for AATIP while he was in OUSD(I). DIA administered AATIP, and Elizondo was never assigned to DIA. Elizondo did interact with the DIA office managing the program while the program was still ongoing, but he did not lead it.'",
+   "tier": 1
+  },
+  "c-f6c82f5a45": {
+   "id": "c-f6c82f5a45",
+   "kind": "claim",
+   "node": "hearing-2024-11-13",
+   "nodeLabel": "House Oversight joint hearing, 13 November 2024 - 'Unidentified Anomalous Phenomena: Exposing the Truth'",
+   "source": {
+    "domain": null,
+    "text": "CHRG-118hhrg57440, 13 November 2024",
+    "url": null
+   },
+   "text": "Mace: 'Has the government conducted secret UAP crash retrieval programs? Yes or no?' Elizondo: 'Yes.'",
+   "tier": 2
+  },
+  "c-f6dec1e552": {
+   "id": "c-f6dec1e552",
+   "kind": "claim",
+   "node": "hearing-2024-11-13",
+   "nodeLabel": "House Oversight joint hearing, 13 November 2024 - 'Unidentified Anomalous Phenomena: Exposing the Truth'",
+   "source": {
+    "domain": null,
+    "text": "CHRG-118hhrg57440, exchange with Rep. Nancy Mace",
+    "url": null
+   },
+   "text": "Elizondo confirmed that material is allocated to contractors according to their domain expertise.",
+   "tier": 1
+  },
+  "c-fadb4db0e1": {
+   "id": "c-fadb4db0e1",
+   "kind": "claim",
+   "node": "immaculate-constellation-12-page-report",
+   "nodeLabel": "Immaculate Constellation 12-page report entered into the Congressional Record",
+   "source": {
+    "domain": "www.govinfo.gov",
+    "text": "U.S. GPO, Hearing transcript, Serial No. 118-135 (CHRG-118hhrg57440), 13 November 2024, https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/pdf/CHRG-118hhrg57440.pdf ; and the committee repository item, https://www.congress.gov/118/meeting/house/117721/documents/HHRG-118-GO12-20241113-SD003.pdf",
+    "url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/pdf/CHRG-118hhrg57440.pdf"
+   },
+   "text": "The report is not in the Congressional Record copy this node cites. The GPO hearing print CHRG-118hhrg57440 lists the report in its Index of Documents and then says 'The documents listed above are available at: docs.house.gov'; the words Global, CENTCOM, cover letter and signals intelligence occur nowhere in that print. The document itself is committee repository item HHRG-118-GO12-20241113-SD003.",
+   "tier": 1
+  },
+  "c-fb0a5cff34": {
+   "id": "c-fb0a5cff34",
+   "kind": "claim",
+   "node": "tim-gallaudet",
+   "nodeLabel": "Timothy Gallaudet",
+   "source": {
+    "domain": null,
+    "text": "Tim Gallaudet, written testimony, House Oversight, 13 November 2024",
+    "url": null
+   },
+   "text": "The email disappeared from his account and other recipients' accounts the next day without explanation.",
+   "tier": 2
+  },
+  "c-fc33e89c5b": {
+   "id": "c-fc33e89c5b",
+   "kind": "claim",
+   "node": "immaculate-constellation-12-page-report",
+   "nodeLabel": "Immaculate Constellation 12-page report entered into the Congressional Record",
+   "source": {
+    "domain": null,
+    "text": "CHRG-118hhrg57440, 13 November 2024",
+    "url": null
+   },
+   "text": "Asked whether he had been read in to Immaculate Constellation, Elizondo answered: 'I would not be authorized to confirm nor deny the existence of any ongoing or past program, especially as it relates to a special access program, either by name or trigraph.'",
+   "tier": 2
+  },
+  "c-fcc543fc47": {
+   "id": "c-fcc543fc47",
+   "kind": "claim",
+   "node": "luis-elizondo",
+   "nodeLabel": "Luis D. Elizondo",
+   "source": {
+    "domain": null,
+    "text": "HHRG-118-GO12 hearing transcript, 13 November 2024",
+    "url": null
+   },
+   "text": "Testified under oath on 13 November 2024 that the U.S. government has conducted secret UAP crash retrieval programs and that they were designed to identify and reverse engineer craft of non-human origin, answering 'Yes' to both.",
+   "tier": 2
+  },
+  "e-033f7a4254": {
+   "endpoints": [
+    {
+     "id": "michael-gold",
+     "label": "Michael Gold"
+    },
+    {
+     "id": "nasa-uap-ist",
+     "label": "NASA UAP Independent Study Team"
+    }
+   ],
+   "id": "e-033f7a4254",
+   "kind": "edge",
+   "label": "Member of the study team",
+   "sources": [
+    {
+     "date": "2023-09-14",
+     "name": "NASA UAP Independent Study Team Final Report (PDF)",
+     "url": "https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf"
+    },
+    {
+     "date": "2024-11-13",
+     "name": "House Oversight - Gold written testimony (PDF)",
+     "url": "https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Gold.pdf"
+    }
+   ],
+   "text": "Gold is listed among the team's members and later testified to Congress on its findings.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-0c01b94255": {
+   "endpoints": [
+    {
+     "id": "michael-shellenberger",
+     "label": "Michael Shellenberger"
+    },
+    {
+     "id": "hearing-2024-11-13",
+     "label": "House Oversight joint hearing, 13 November 2024 - 'Unidentified Anomalous Phenomena: Exposing the Truth'"
+    }
+   ],
+   "id": "e-0c01b94255",
+   "kind": "edge",
+   "label": "sworn witness; delivered the Immaculate Constellation document",
+   "sources": [
+    {
+     "date": "2024-11-13",
+     "name": "CHRG-118hhrg57440, printed hearing transcript, 'Unidentified Anomalous Phenomena: Exposing the Truth', Serial No. 118-135",
+     "url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/pdf/CHRG-118hhrg57440.pdf"
+    },
+    {
+     "date": "2024-11-13",
+     "name": "U.S. GPO, Hearing transcript, Serial No. 118-135 (CHRG-118hhrg57440)",
+     "url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm"
+    },
+    {
+     "date": "2024-11-13",
+     "name": "Michael Shellenberger, written testimony, House Oversight",
+     "url": "https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf"
+    },
+    {
+     "date": "2024-11-13",
+     "name": "HHRG-118-GO12 transcript",
+     "url": "https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Transcript-20241113.pdf"
+    }
+   ],
+   "text": "Mace announced from the dais that Shellenberger had delivered the 12-page document that morning and moved it into the record.",
+   "tier": 1,
+   "type": "witness-chain"
+  },
+  "e-196fab4005": {
+   "endpoints": [
+    {
+     "id": "luis-elizondo",
+     "label": "Luis D. Elizondo"
+    },
+    {
+     "id": "immaculate-constellation-12-page-report",
+     "label": "Immaculate Constellation 12-page report entered into the Congressional Record"
+    }
+   ],
+   "id": "e-196fab4005",
+   "kind": "edge",
+   "label": "Refused to confirm or deny by name or trigraph",
+   "sources": [
+    {
+     "date": "2024-11-13",
+     "name": "U.S. GPO - Hearing transcript, Serial No. 118-135 (CHRG-118hhrg57440)",
+     "url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm"
+    }
+   ],
+   "text": "Asked directly whether he had been read in, Elizondo said he would not be authorised to confirm nor deny the existence of any special access program by name or trigraph.",
+   "tier": 1,
+   "type": "witness-chain"
+  },
+  "e-25eee3653c": {
+   "endpoints": [
+    {
+     "id": "luis-elizondo",
+     "label": "Luis D. Elizondo"
+    },
+    {
+     "id": "immaculate-constellation",
+     "label": "Immaculate Constellation disclosure, October-November 2024"
+    }
+   ],
+   "id": "e-25eee3653c",
+   "kind": "edge",
+   "label": "Elizondo declined to confirm or deny the programme by name or trigraph",
+   "sources": [
+    {
+     "date": "2024-11-13",
+     "name": "GPO transcript CHRG-118hhrg57440",
+     "url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm"
+    }
+   ],
+   "text": "Asked by Mace whether he had been read in, Elizondo said he would not be authorised to confirm nor deny the existence of any special access program by name or trigraph - which is not a denial.",
+   "tier": 2,
+   "type": "denial"
+  },
+  "e-2ced9755af": {
+   "endpoints": [
+    {
+     "id": "immaculate-constellation",
+     "label": "Immaculate Constellation disclosure, October-November 2024"
+    },
+    {
+     "id": "hearing-2024-11-13",
+     "label": "House Oversight joint hearing, 13 November 2024 - 'Unidentified Anomalous Phenomena: Exposing the Truth'"
+    }
+   ],
+   "id": "e-2ced9755af",
+   "kind": "edge",
+   "label": "The disclosure event is constituted by the 13 November 2024 hearing",
+   "sources": [
+    {
+     "date": "2024-11-13",
+     "name": "House Oversight hearing page",
+     "url": "https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-exposing-the-truth/"
+    },
+    {
+     "date": "2024-11-13",
+     "name": "GPO transcript CHRG-118hhrg57440",
+     "url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm"
+    }
+   ],
+   "text": "The report was delivered, described under oath and entered into the record at this hearing.",
+   "tier": 1,
+   "type": "legislative"
+  },
+  "e-3bcfb851d4": {
+   "endpoints": [
+    {
+     "id": "michael-gold",
+     "label": "Michael Gold"
+    },
+    {
+     "id": "hearing-2024-11-13",
+     "label": "House Oversight joint hearing, 13 November 2024 - 'Unidentified Anomalous Phenomena: Exposing the Truth'"
+    }
+   ],
+   "id": "e-3bcfb851d4",
+   "kind": "edge",
+   "label": "sworn witness",
+   "sources": [
+    {
+     "date": "2024-11-13",
+     "name": "CHRG-118hhrg57440, printed hearing transcript, 'Unidentified Anomalous Phenomena: Exposing the Truth', Serial No. 118-135",
+     "url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/pdf/CHRG-118hhrg57440.pdf"
+    },
+    {
+     "date": "2024-11-13",
+     "name": "House Oversight - hearing page, 13 Nov 2024",
+     "url": "https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-exposing-the-truth/"
+    },
+    {
+     "date": "2024-11-13",
+     "name": "House Oversight - Gold written testimony (PDF)",
+     "url": "https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Gold.pdf"
+    },
+    {
+     "date": "2024-11-13",
+     "name": "U.S. GPO, Hearing transcript, Serial No. 118-135 (CHRG-118hhrg57440)",
+     "url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm"
+    }
+   ],
+   "text": "Gold testified as the fourth witness and answered Boebert's genetics question in the negative.",
+   "tier": 1,
+   "type": "witness-chain"
+  },
+  "e-3c317c5f58": {
+   "endpoints": [
+    {
+     "id": "luis-elizondo",
+     "label": "Luis D. Elizondo"
+    },
+    {
+     "id": "hearing-2024-11-13",
+     "label": "House Oversight joint hearing, 13 November 2024 - 'Unidentified Anomalous Phenomena: Exposing the Truth'"
+    }
+   ],
+   "id": "e-3c317c5f58",
+   "kind": "edge",
+   "label": "Elizondo's testimony converted the contractor transfer story into a congressional record",
+   "sources": [
+    {
+     "date": "2024-11-13",
+     "name": "House Oversight hearing transcript, 'Unidentified Anomalous Phenomena: Exposing the Truth' (CHRG-118hhrg57440)",
+     "url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm"
+    }
+   ],
+   "text": "His confirmation that the transfer 'was blocked' is the single most load-bearing on-record statement in this domain.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-40aa564242": {
+   "endpoints": [
+    {
+     "id": "nancy-mace",
+     "label": "Nancy Ruth Mace"
+    },
+    {
+     "id": "luis-elizondo",
+     "label": "Luis D. Elizondo"
+    }
+   ],
+   "id": "e-40aa564242",
+   "kind": "edge",
+   "label": "Mace elicited the only public description of a distributed contractor custody model",
+   "sources": [
+    {
+     "date": "2024-11-13",
+     "name": "House Oversight hearing transcript, 'Unidentified Anomalous Phenomena: Exposing the Truth' (CHRG-118hhrg57440)",
+     "url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm"
+    }
+   ],
+   "text": "The exchange converts the allegation from a claim about one company into a described system of allocation by technical domain across multiple primes.",
+   "tier": 1,
+   "type": "investigative"
+  },
+  "e-537ea3d25d": {
+   "endpoints": [
+    {
+     "id": "tim-gallaudet",
+     "label": "Timothy Gallaudet"
+    },
+    {
+     "id": "gallaudet-2015-email",
+     "label": "Fleet Forces Command 'URGENT SAFETY OF FLIGHT ISSUE' Email (Jan 2015, recalled)"
+    }
+   ],
+   "id": "e-537ea3d25d",
+   "kind": "edge",
+   "label": "Recipient of the message and the witness to its deletion",
+   "sources": [
+    {
+     "date": "2024-11-13",
+     "name": "House Oversight - Gallaudet written testimony (PDF)",
+     "url": "https://oversight.house.gov/wp-content/uploads/2024/11/Updated-Testimony-Gallaudet.pdf"
+    }
+   ],
+   "text": "Gallaudet, then Commander of Naval Meteorology and Oceanography Command, testified the email vanished from his and other recipients' accounts the next day.",
+   "tier": 2,
+   "type": "witness-chain"
+  },
+  "e-68bb67dde6": {
+   "endpoints": [
+    {
+     "id": "michael-shellenberger",
+     "label": "Michael Shellenberger"
+    },
+    {
+     "id": "immaculate-constellation-12-page-report",
+     "label": "Immaculate Constellation 12-page report entered into the Congressional Record"
+    }
+   ],
+   "id": "e-68bb67dde6",
+   "kind": "edge",
+   "label": "Delivered the document to Congress on the morning of the hearing and testified to its contents",
+   "sources": [
+    {
+     "date": "2024-11-13",
+     "name": "U.S. GPO, Hearing transcript, Serial No. 118-135 (CHRG-118hhrg57440)",
+     "url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm"
+    },
+    {
+     "date": "2024-11-13",
+     "name": "Michael Shellenberger, written testimony, House Oversight",
+     "url": "https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf"
+    }
+   ],
+   "text": "Shellenberger supplied the 12-page report that Chairwoman Mace moved into the Congressional Record, and testified to its contents under oath.",
+   "tier": 1,
+   "type": "witness-chain"
+  },
+  "e-765d165a11": {
+   "endpoints": [
+    {
+     "id": "aaro",
+     "label": "All-domain Anomaly Resolution Office (AARO)"
+    },
+    {
+     "id": "immaculate-constellation",
+     "label": "Immaculate Constellation disclosure, October-November 2024"
+    }
+   ],
+   "id": "e-765d165a11",
+   "kind": "edge",
+   "label": "AARO has never publicly addressed the alleged programme entered into the congressional record",
+   "sources": [
+    {
+     "date": "2024-10-22",
+     "name": "ODNI FOIA DF-2025-00021 - Immaculate Constellation description from unclassified press",
+     "url": "https://archive.dni.gov/files/documents/FOIA/DF-2025-00021-Immaculate-Constellation-descrp-from-UNCLASS-Press-22-Oct-2024.pdf"
+    },
+    {
+     "date": "2024-11-19",
+     "name": "Kosloski statement for the record",
+     "url": "https://www.armed-services.senate.gov/imo/media/doc/aaro_statement.pdf"
+    },
+    {
+     "date": "2026-07-21",
+     "name": "AARO FY2025 Consolidated Annual Report on UAP (PDF)",
+     "url": "https://documents2.theblackvault.com/documents/osd/AARO_FY2025_Consolidated_Annual_Report_on_UAP.pdf"
+    }
+   ],
+   "text": "Neither the FY2024 nor the FY2025 annual report, nor any statement for the record, nor any of the five PURSUE tranches between 8 May and 7 August 2026, addresses a programme name that sits in the Congressional Record. Reasoning: review of the published AARO product set and release indexes.",
+   "tier": 2,
+   "type": "denial"
+  },
+  "e-7dbb2509ac": {
+   "endpoints": [
+    {
+     "id": "nancy-mace",
+     "label": "Nancy Ruth Mace"
+    },
+    {
+     "id": "hearing-2024-11-13",
+     "label": "House Oversight joint hearing, 13 November 2024 - 'Unidentified Anomalous Phenomena: Exposing the Truth'"
+    }
+   ],
+   "id": "e-7dbb2509ac",
+   "kind": "edge",
+   "label": "presiding chair; entered Immaculate Constellation into the record",
+   "sources": [
+    {
+     "date": "2024-11-13",
+     "name": "CHRG-118hhrg57440, printed hearing transcript, 'Unidentified Anomalous Phenomena: Exposing the Truth', Serial No. 118-135",
+     "url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/pdf/CHRG-118hhrg57440.pdf"
+    },
+    {
+     "date": "2024-11-13",
+     "name": "Congress.gov — House event 117721",
+     "url": "https://www.congress.gov/event/118th-congress/house-event/117721"
+    }
+   ],
+   "text": "Joint hearing of the Cybersecurity/IT/Government Innovation and National Security/Border/Foreign Affairs subcommittees, with Rep. Glenn Grothman co-chairing.",
+   "tier": 1,
+   "type": "legislative"
+  },
+  "e-918eb3fde5": {
+   "endpoints": [
+    {
+     "id": "luis-elizondo",
+     "label": "Luis D. Elizondo"
+    },
+    {
+     "id": "david-grusch",
+     "label": "David Charles Grusch"
+    }
+   ],
+   "id": "e-918eb3fde5",
+   "kind": "edge",
+   "label": "Successive OUSD(I)/IC witnesses making the same structural allegation seven years apart",
+   "sources": [
+    {
+     "date": "2024-11-13",
+     "name": "HHRG-118-GO12 transcript",
+     "url": "https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Transcript-20241113.pdf"
+    },
+    {
+     "date": "2024-11-13",
+     "name": "House Oversight hearing record, Serial No. 118-140",
+     "url": "https://www.congress.gov/118/chrg/CHRG-118hhrg57440/CHRG-118hhrg57440.pdf"
+    }
+   ],
+   "text": "At the 13 November 2024 hearing Elizondo told Rep. Burchett he had worked with Grusch at US Space Force and answered 'Yes, sir' when asked whether he agreed with Grusch's multi-decade crash-retrieval testimony - a second former senior DoD official affirming the core claim under oath.",
+   "tier": 1,
+   "type": "witness-chain"
+  },
+  "e-9914bcba52": {
+   "endpoints": [
+    {
+     "id": "nancy-mace",
+     "label": "Nancy Ruth Mace"
+    },
+    {
+     "id": "immaculate-constellation-12-page-report",
+     "label": "Immaculate Constellation 12-page report entered into the Congressional Record"
+    }
+   ],
+   "id": "e-9914bcba52",
+   "kind": "edge",
+   "label": "Moved the document into the Congressional Record from the chair",
+   "sources": [
+    {
+     "date": "2024-11-13",
+     "name": "U.S. GPO, Hearing transcript, Serial No. 118-135 (CHRG-118hhrg57440)",
+     "url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm"
+    }
+   ],
+   "text": "Index of Documents: 'Report, Pentagon, Immaculate Constellation; submitted by Rep. Mace.'",
+   "tier": 1,
+   "type": "investigative"
+  },
+  "e-9c868f4cb4": {
+   "endpoints": [
+    {
+     "id": "aaro-historical-record-vol1",
+     "label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+    },
+    {
+     "id": "david-grusch",
+     "label": "David Charles Grusch"
+    }
+   ],
+   "id": "e-9c868f4cb4",
+   "kind": "edge",
+   "label": "Formal DoD rebuttal: no firsthand knowledge, programs do not exist or were disestablished",
+   "sources": [
+    {
+     "date": "2024-03-08",
+     "name": "AARO Historical Record Report Volume I",
+     "url": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF"
+    },
+    {
+     "date": "2024-03-08",
+     "name": "Roll Call - No evidence of extraterrestrial technology, report finds",
+     "url": "https://rollcall.com/2024/03/08/no-evidence-of-extraterrestrial-technology-report-finds/"
+    },
+    {
+     "date": "2023-07-26",
+     "name": "House Oversight hearing transcript",
+     "url": "https://www.congress.gov/118/meeting/house/116282/documents/HHRG-118-GO06-Transcript-20230726.pdf"
+    },
+    {
+     "date": "2024-02-01",
+     "name": "AARO Historical Record Report, Volume I",
+     "url": "https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf"
+    },
+    {
+     "date": "2024-01-08",
+     "name": "AARO Memorandum for Record, FOIA 24-F-0266",
+     "url": "https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/24-F-0266_AARO_Invitations_to_Interview_Mr._David_Grusch.pdf"
+    }
+   ],
+   "text": "Released 8 March 2024, presented by Pentagon Press Secretary Maj. Gen. Pat Ryder. It asserts that none of AARO's interviewees had firsthand knowledge - a claim that does not engage Grusch's sworn statement that firsthand witnesses filed their own protected disclosures with the ICIG, nor Karl Nell's named corroboration.",
+   "tier": 1,
+   "type": "denial"
+  },
+  "e-aaba882894": {
+   "endpoints": [
+    {
+     "id": "michael-shellenberger",
+     "label": "Michael Shellenberger"
+    },
+    {
+     "id": "immaculate-constellation",
+     "label": "Immaculate Constellation disclosure, October-November 2024"
+    }
+   ],
+   "id": "e-aaba882894",
+   "kind": "edge",
+   "label": "Brought the alleged USAP into the congressional record",
+   "sources": [
+    {
+     "date": "2024-11-13",
+     "name": "House Oversight - Shellenberger written testimony (PDF)",
+     "url": "https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf"
+    },
+    {
+     "date": "2024-10-17",
+     "name": "The Debrief - 'Immaculate Constellation: UAP Bombshell or Disinformation?'",
+     "url": "https://thedebrief.org/immaculate-constellation-uap-bombshell-or-disinformation/"
+    },
+    {
+     "date": "2024-11-14",
+     "name": "American Alchemy - Shellenberger interview",
+     "url": "https://www.youtube.com/watch?v=DPmO-2E7Ayg"
+    },
+    {
+     "date": "2024-11-13",
+     "name": "GPO transcript CHRG-118hhrg57440",
+     "url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm"
+    }
+   ],
+   "text": "On 13 November 2024 Shellenberger testified to a House Oversight subcommittee and submitted a twelve-page report, sourced to an alleged insider, describing an unacknowledged special access program collecting UAP data outside acknowledged reporting channels.",
+   "tier": 2,
+   "type": "investigative"
+  },
+  "e-bd1ad93ad6": {
+   "endpoints": [
+    {
+     "id": "tim-gallaudet",
+     "label": "Timothy Gallaudet"
+    },
+    {
+     "id": "hearing-2024-11-13",
+     "label": "House Oversight joint hearing, 13 November 2024 - 'Unidentified Anomalous Phenomena: Exposing the Truth'"
+    }
+   ],
+   "id": "e-bd1ad93ad6",
+   "kind": "edge",
+   "label": "sworn witness",
+   "sources": [
+    {
+     "date": "2024-11-13",
+     "name": "CHRG-118hhrg57440, printed hearing transcript, 'Unidentified Anomalous Phenomena: Exposing the Truth', Serial No. 118-135",
+     "url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/pdf/CHRG-118hhrg57440.pdf"
+    },
+    {
+     "date": "2024-11-13",
+     "name": "House Oversight - hearing page, 13 Nov 2024",
+     "url": "https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-exposing-the-truth/"
+    },
+    {
+     "date": "2024-11-13",
+     "name": "House Oversight - Gallaudet written testimony (PDF)",
+     "url": "https://oversight.house.gov/wp-content/uploads/2024/11/Updated-Testimony-Gallaudet.pdf"
+    },
+    {
+     "date": "2024-11-13",
+     "name": "U.S. GPO, Hearing transcript, Serial No. 118-135 (CHRG-118hhrg57440)",
+     "url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm"
+    },
+    {
+     "date": "2024-11-13",
+     "name": "HHRG-118-GO12 transcript",
+     "url": "https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Transcript-20241113.pdf"
+    }
+   ],
+   "text": "Gallaudet's statement urged members to 'wield their subpoena power against hostile witnesses and prevent additional government funding to those UAP efforts that remain hidden from congressional oversight.'",
+   "tier": 1,
+   "type": "witness-chain"
+  },
+  "e-bf17a5f41c": {
+   "endpoints": [
+    {
+     "id": "karl-nell",
+     "label": "Karl E. Nell"
+    },
+    {
+     "id": "hearing-2024-11-13",
+     "label": "House Oversight joint hearing, 13 November 2024 - 'Unidentified Anomalous Phenomena: Exposing the Truth'"
+    }
+   ],
+   "id": "e-bf17a5f41c",
+   "kind": "edge",
+   "label": "Mace read his 'nonhuman intelligence exists' statement into the hearing record",
+   "sources": [
+    {
+     "date": "2024-11-13",
+     "name": "U.S. GPO, Hearing transcript, Serial No. 118-135 (CHRG-118hhrg57440)",
+     "url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm"
+    }
+   ],
+   "text": "Nell did not testify; his May 2024 conference statement was quoted from the chair.",
+   "tier": 1,
+   "type": "witness-chain"
+  },
+  "e-c28ccfc19f": {
+   "endpoints": [
+    {
+     "id": "aaro-historical-record-vol1",
+     "label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+    },
+    {
+     "id": "hearing-2024-11-13",
+     "label": "House Oversight joint hearing, 13 November 2024 - 'Unidentified Anomalous Phenomena: Exposing the Truth'"
+    }
+   ],
+   "id": "e-c28ccfc19f",
+   "kind": "edge",
+   "label": "Volume I's 'no NDAs' finding against Elizondo's sworn SCIF testimony",
+   "sources": [
+    {
+     "date": "2024-03-08",
+     "name": "AARO Historical Record Report Volume I (DOPSR-2024-0263)",
+     "url": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF"
+    },
+    {
+     "date": "2024-11-13",
+     "name": "U.S. GPO - Hearing transcript, Serial No. 118-135 (CHRG-118hhrg57440)",
+     "url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm"
+    }
+   ],
+   "text": "Volume I states AARO found no NDAs containing UAP-related information; eight months later Elizondo testified under oath to signing a SCIF instrument barring discussion of crash retrieval.",
+   "tier": 3,
+   "type": "denial"
+  },
+  "e-c2a398ac30": {
+   "endpoints": [
+    {
+     "id": "hoc-subcommittee-cybersecurity-it",
+     "label": "Subcommittee on Cybersecurity, Information Technology, and Government Innovation"
+    },
+    {
+     "id": "hearing-2024-11-13",
+     "label": "House Oversight joint hearing, 13 November 2024 - 'Unidentified Anomalous Phenomena: Exposing the Truth'"
+    }
+   ],
+   "id": "e-c2a398ac30",
+   "kind": "edge",
+   "label": "Co-chaired the 13 November 2024 joint hearing",
+   "sources": [
+    {
+     "date": "2024-11-13",
+     "name": "U.S. GPO, Hearing transcript, Serial No. 118-135 (CHRG-118hhrg57440)",
+     "url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm"
+    },
+    {
+     "date": "2024-11-13",
+     "name": "House Oversight Committee, hearing page: UAP: Exposing the Truth",
+     "url": "https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-exposing-the-truth/"
+    }
+   ],
+   "text": "Joint with the National Security subcommittee; Serial No. 118-135.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-d0fa06a92e": {
+   "endpoints": [
+    {
+     "id": "tim-burchett",
+     "label": "Timothy Floyd Burchett"
+    },
+    {
+     "id": "immaculate-constellation-12-page-report",
+     "label": "Immaculate Constellation 12-page report entered into the Congressional Record"
+    }
+   ],
+   "id": "e-d0fa06a92e",
+   "kind": "edge",
+   "label": "Distributed the document to every member on the dais and moved to enter it",
+   "sources": [
+    {
+     "date": "2024-11-13",
+     "name": "U.S. GPO, Hearing transcript, Serial No. 118-135 (CHRG-118hhrg57440)",
+     "url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm"
+    }
+   ],
+   "text": "Mace announced that Burchett held the document and would enter it into the record.",
+   "tier": 1,
+   "type": "investigative"
+  },
+  "e-e2f34eae92": {
+   "endpoints": [
+    {
+     "id": "luis-elizondo",
+     "label": "Luis D. Elizondo"
+    },
+    {
+     "id": "hearing-2024-11-13",
+     "label": "House Oversight joint hearing, 13 November 2024 - 'Unidentified Anomalous Phenomena: Exposing the Truth'"
+    }
+   ],
+   "id": "e-e2f34eae92",
+   "kind": "edge",
+   "label": "sworn witness",
+   "sources": [
+    {
+     "date": "2024-11-13",
+     "name": "CHRG-118hhrg57440, printed hearing transcript, 'Unidentified Anomalous Phenomena: Exposing the Truth', Serial No. 118-135",
+     "url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/pdf/CHRG-118hhrg57440.pdf"
+    },
+    {
+     "date": "2024-11-13",
+     "name": "U.S. GPO, Hearing transcript, Serial No. 118-135 (CHRG-118hhrg57440)",
+     "url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm"
+    },
+    {
+     "date": "2024-11-13",
+     "name": "Luis Elizondo, written testimony, House Oversight",
+     "url": "https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Elizondo.pdf"
+    },
+    {
+     "date": "2024-11-13",
+     "name": "HHRG-118-GO12 transcript",
+     "url": "https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Transcript-20241113.pdf"
+    },
+    {
+     "date": "2024-11-13",
+     "name": "House Oversight hearing record, Serial No. 118-140",
+     "url": "https://www.congress.gov/118/chrg/CHRG-118hhrg57440/CHRG-118hhrg57440.pdf"
+    },
+    {
+     "date": "2024-11-13",
+     "name": "House Oversight hearing page",
+     "url": "https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-exposing-the-truth"
+    }
+   ],
+   "text": "Elizondo's affirmation is printed in the same official record in which the majority notes that agencies had not substantiated Grusch's claims - both statements stand in the hearing volume.",
+   "tier": 1,
+   "type": "witness-chain"
+  },
+  "e-e40cabd8ed": {
+   "endpoints": [
+    {
+     "id": "tim-burchett",
+     "label": "Timothy Floyd Burchett"
+    },
+    {
+     "id": "hearing-2024-11-13",
+     "label": "House Oversight joint hearing, 13 November 2024 - 'Unidentified Anomalous Phenomena: Exposing the Truth'"
+    }
+   ],
+   "id": "e-e40cabd8ed",
+   "kind": "edge",
+   "label": "Elicited Elizondo's corroboration of Grusch under oath",
+   "sources": [
+    {
+     "date": "2024-11-13",
+     "name": "House Oversight hearing record, Serial No. 118-140",
+     "url": "https://www.congress.gov/118/chrg/CHRG-118hhrg57440/CHRG-118hhrg57440.pdf"
+    }
+   ],
+   "text": "Burchett asked the direct question that produced the only sworn second-source affirmation of Grusch's central allegation in the congressional record.",
+   "tier": 1,
+   "type": "legislative"
+  }
+ },
+ "claimed": [
+  {
+   "cite": [
+    "c-f6c82f5a45",
+    "c-31a2ccc536",
+    "c-fcc543fc47",
+    "c-732b4390f8"
+   ],
+   "text": "Elizondo testified under oath that the government has conducted secret UAP crash retrieval programmes designed to identify and reverse engineer craft of non-human origin. Asked whether he had been read into them, he said that would need a closed session."
+  },
+  {
+   "cite": [
+    "c-ad0e622c55",
+    "c-a1a97b371b",
+    "e-918eb3fde5",
+    "e-e40cabd8ed"
+   ],
+   "text": "Asked by Burchett, Elizondo said he had worked with Grusch at US Space Force and agreed with Grusch's testimony about a multi-decade crash retrieval and reverse-engineering programme. The board records it as the only sworn second-source affirmation of Grusch's central allegation, given by someone who had worked with him."
+  },
+  {
+   "cite": [
+    "c-522b06a699",
+    "c-4b9471c6e5"
+   ],
+   "text": "Elizondo testified that he signed a government document in a SCIF, in the presence of a security officer, that barred him from discussing crash retrieval."
+  },
+  {
+   "cite": [
+    "c-0bc442fda9",
+    "c-93c68cda9e",
+    "c-8887df1e52",
+    "e-3c317c5f58"
+   ],
+   "text": "Elizondo testified that an aerospace contractor had asked to divest itself of material collected in the 1950s and that this did not happen; asked about the reported Lockheed Martin and Bigelow Aerospace transfer, he said it was blocked and that a required Secretary of the Air Force memorandum never came."
+  },
+  {
+   "cite": [
+    "c-91b6e963c3",
+    "c-1fff6fcd25",
+    "c-f6dec1e552",
+    "e-40aa564242"
+   ],
+   "text": "Asked by Mace whether material goes to particular contractors because of their expertise, Elizondo agreed that different contractors have different levels of expertise."
+  },
+  {
+   "cite": [
+    "c-1fd0fe2f76"
+   ],
+   "text": "Elizondo's written testimony alleges that advanced technologies not made by any government are monitoring sensitive military installations, and a multi-decade secretive arms race."
+  },
+  {
+   "cite": [
+    "c-b90e760547",
+    "c-2477ebc37d",
+    "c-5ef2e8f60b",
+    "c-cdf39434fd",
+    "e-aaba882894"
+   ],
+   "text": "Shellenberger testified that the report describes Immaculate Constellation as a central or parent programme consolidating UAP observations from tasked and untasked collection platforms, with incidents including orbs forcing an F-22 out of its patrol area. The report came to him from an alleged insider: he said he knows the author but would not say whether his sources sit inside the Defense Department, and a source told him the programme is controlled by the White House and run by the Defense Department to avoid Title 10."
+  },
+  {
+   "cite": [
+    "c-096e4c4621",
+    "c-fb0a5cff34",
+    "c-7cb83e65ca",
+    "e-537ea3d25d",
+    "c-5f5aa9e538"
+   ],
+   "text": "Gallaudet testified that in January 2015 the Fleet Forces Command operations officer emailed all subordinate commanders under the subject URGENT SAFETY OF FLIGHT ISSUE with the GO FAST video, that the email vanished from recipients' accounts the next day, and that he concluded it must have been classified within a special access programme managed by an intelligence agency."
+  },
+  {
+   "cite": [
+    "c-0c553cf467",
+    "c-037a723a61",
+    "c-ea9e460300",
+    "c-945d19967c"
+   ],
+   "text": "Gold testified that stigma prevents scientific inquiry, that Alex Dietrich was mocked by colleagues and her incident went years without investigation, and recommended that NASA work with the FAA on civilian pilot reporting."
+  }
+ ],
+ "contested": [
+  {
+   "cite": [
+    "c-998b65ad0d",
+    "c-2ca2b4bf41",
+    "e-e2f34eae92"
+   ],
+   "text": "The same hearing record states that agencies briefed since 2023, including the DoD Inspector General's office, had not substantiated Grusch's claims despite questioning inside and outside the SCIF."
+  },
+  {
+   "cite": [
+    "e-9c868f4cb4",
+    "c-3a19261997",
+    "e-c28ccfc19f"
+   ],
+   "text": "AARO's Historical Record Report Volume I, released eight months earlier, asserts that none of AARO's interviewees had firsthand knowledge and that the alleged programmes do not exist or were disestablished. The board infers that its finding of no NDAs containing UAP information cannot be squared with Elizondo's sworn account of a SCIF document."
+  },
+  {
+   "cite": [
+    "c-9d3c590324",
+    "c-077a68511b",
+    "c-c9dc78761b",
+    "c-f37ab2399a",
+    "e-765d165a11"
+   ],
+   "text": "The Department says it has no record of a programme called Immaculate Constellation, and former AARO director Sean Kirkpatrick has denied its existence. On the board's reading a no-record answer is a records assertion rather than a denial that the programme exists, and no AARO product has addressed the name."
+  },
+  {
+   "cite": [
+    "c-46bc64290f",
+    "c-c2c819731b",
+    "c-8fd6935124",
+    "c-ab28a691c3"
+   ],
+   "text": "The Index of Documents calls it a Pentagon report and Mace called it the original document from the Pentagon, but the published pages carry no author, classification marking or control number, and their first page credits the State Department with approving the public version."
+  },
+  {
+   "cite": [
+    "c-fc33e89c5b",
+    "e-196fab4005",
+    "e-25eee3653c"
+   ],
+   "text": "Asked whether he had been read into Immaculate Constellation, Elizondo said he was not authorised to confirm or deny any special access programme by name or trigraph, which confirms nothing either way."
+  },
+  {
+   "cite": [
+    "c-cf540c1b0e",
+    "c-23e5653f06",
+    "c-941159a8b2"
+   ],
+   "text": "In 2025 a separate self-identified whistleblower said he found the programme in a folder labelled 2018 Schriever Wargame, and Jason Colavito concluded he had mistaken fictitious wargame documents for real ones. The board notes this addresses the 2025 claim, not the 2024 document."
+  },
+  {
+   "cite": [
+    "c-f38a8a8dcb",
+    "c-c7c86ef93e",
+    "c-5f4ef78c47"
+   ],
+   "text": "The Department's position since 2019 is that Elizondo had no assigned responsibilities for AATIP and did not lead it, and Kirkpatrick has attributed the crash-retrieval narrative to AATIP and Robert Bigelow's circle."
+  }
+ ],
  "essays": [],
  "focusEra": "3",
  "id": "hearing-2024",
  "kind": "hearing",
- "lead": null,
- "members": [],
+ "lead": {
+  "cite": [
+   "c-970b4f7afd",
+   "c-dbf15f686d",
+   "c-f29c10d83f",
+   "e-e2f34eae92"
+  ],
+  "text": "On 13 November 2024 two House Oversight subcommittees, with Nancy Mace presiding, heard sworn witnesses Tim Gallaudet, Luis Elizondo, Michael Shellenberger and Michael Gold, and entered into the record a 12-page document describing an unacknowledged special access programme called Immaculate Constellation."
+ },
+ "members": [
+  {
+   "cls": "event",
+   "id": "hearing-2024-11-13",
+   "label": "House Oversight joint hearing, 13 November 2024 - 'Unidentified Anomalous Phenomena: Exposing the Truth'",
+   "role": "event"
+  },
+  {
+   "cls": "institution",
+   "id": "hoc-subcommittee-cybersecurity-it",
+   "label": "Subcommittee on Cybersecurity, Information Technology, and Government Innovation",
+   "role": "institution"
+  },
+  {
+   "cls": "institution",
+   "id": "hoc-subcommittee-national-security",
+   "label": "Subcommittee on National Security, the Border, and Foreign Affairs",
+   "role": "institution"
+  },
+  {
+   "cls": "institution",
+   "id": "house-oversight-committee",
+   "label": "U.S. House Committee on Oversight and Government Reform",
+   "role": "institution"
+  },
+  {
+   "cls": "person",
+   "id": "nancy-mace",
+   "label": "Nancy Ruth Mace",
+   "role": "legislator"
+  },
+  {
+   "cls": "person",
+   "id": "glenn-grothman",
+   "label": "Glenn S. Grothman",
+   "role": "legislator"
+  },
+  {
+   "cls": "person",
+   "id": "tim-burchett",
+   "label": "Timothy Floyd Burchett",
+   "role": "legislator"
+  },
+  {
+   "cls": "person",
+   "id": "eric-burlison",
+   "label": "Eric Burlison",
+   "role": "legislator"
+  },
+  {
+   "cls": "person",
+   "id": "tim-gallaudet",
+   "label": "Timothy Gallaudet",
+   "role": "witness"
+  },
+  {
+   "cls": "person",
+   "id": "luis-elizondo",
+   "label": "Luis D. Elizondo",
+   "role": "claimant"
+  },
+  {
+   "cls": "person",
+   "id": "michael-shellenberger",
+   "label": "Michael Shellenberger",
+   "role": "journalist"
+  },
+  {
+   "cls": "person",
+   "id": "michael-gold",
+   "label": "Michael Gold",
+   "role": "official"
+  },
+  {
+   "cls": "person",
+   "id": "karl-nell",
+   "label": "Karl E. Nell",
+   "role": "claimant"
+  },
+  {
+   "cls": "person",
+   "id": "david-grusch",
+   "label": "David Charles Grusch",
+   "role": "claimant"
+  },
+  {
+   "cls": "event",
+   "id": "immaculate-constellation",
+   "label": "Immaculate Constellation disclosure, October-November 2024",
+   "role": "subject"
+  },
+  {
+   "cls": "document",
+   "id": "immaculate-constellation-12-page-report",
+   "label": "Immaculate Constellation 12-page report entered into the Congressional Record",
+   "role": "document"
+  },
+  {
+   "cls": "document",
+   "id": "gallaudet-2015-email",
+   "label": "Fleet Forces Command 'URGENT SAFETY OF FLIGHT ISSUE' Email (Jan 2015, recalled)",
+   "role": "document"
+  },
+  {
+   "cls": "program",
+   "id": "nasa-uap-ist",
+   "label": "NASA UAP Independent Study Team",
+   "role": "programme"
+  },
+  {
+   "cls": "institution",
+   "id": "aaro",
+   "label": "All-domain Anomaly Resolution Office (AARO)",
+   "role": "institution"
+  },
+  {
+   "cls": "document",
+   "id": "aaro-historical-record-vol1",
+   "label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
+   "role": "document"
+  }
+ ],
  "notes": "The 13 November 2024 hearing, where the Immaculate Constellation report was entered.",
- "questions": [],
- "record": [],
- "related": [],
+ "questions": [
+  "Who wrote the twelve-page report, and did it originate in the Pentagon as the Index of Documents describes it?",
+  "Has the Department or AARO ever answered the report in writing, beyond a no-record statement to the press?",
+  "What was the document Elizondo says he signed in a SCIF, and who holds it?",
+  "Who sent the January 2015 Fleet Forces Command email, and why, and on whose authority, did it vanish from recipients' accounts?",
+  "Who holds the material Elizondo says was blocked from transfer, the question he would answer only in closed session?",
+  "When and in what capacity did Elizondo and Grusch work together at US Space Force, and does that bear on how independent his affirmation is?"
+ ],
+ "record": [
+  {
+   "cite": [
+    "c-48ab65bcea",
+    "c-dbf15f686d",
+    "c-1f8c5e956c",
+    "c-ec4af65435",
+    "c-2308ae3439",
+    "c-746cf4f2fc"
+   ],
+   "text": "The hearing was held on 13 November 2024 at 11:30 am in 2154 Rayburn. The witness list of record is Rear Admiral Tim Gallaudet (Ret.), chief executive of Ocean STL Consulting; Luis Elizondo, author and former Defense Department official; Michael Shellenberger, founder of Public; and Michael Gold, former NASA associate administrator and member of the NASA UAP Independent Study Team."
+  },
+  {
+   "cite": [
+    "c-524ba836ba"
+   ],
+   "text": "Mace opened by saying that certain individuals had not wanted the hearing to happen because they feared what might be disclosed."
+  },
+  {
+   "cite": [
+    "c-b5ef4b296e",
+    "c-f29c10d83f",
+    "c-81282dc1e5",
+    "e-9914bcba52",
+    "e-d0fa06a92e",
+    "c-59cb51fb7f"
+   ],
+   "text": "Mace entered into the record the 12-page document Shellenberger brought that day, describing its first section as about the unacknowledged special access programme called Immaculate Constellation and its second as about US government imagery intelligence. She announced that Burchett held the document and would enter it."
+  },
+  {
+   "cite": [
+    "c-c9772fc622",
+    "c-14f5e642ce",
+    "c-0ff87e4082"
+   ],
+   "text": "The Index of Documents lists the Mellon hearing letter and the Immaculate Constellation report submitted by Mace, documents related to UAP submitted by Burchett, and Questions for the Record to all four witnesses submitted by Burlison."
+  },
+  {
+   "cite": [
+    "c-fadb4db0e1",
+    "c-8fd6935124",
+    "c-ab28a691c3",
+    "c-da02d7effb"
+   ],
+   "text": "The report is not printed in the GPO hearing volume, which lists it and points to the committee repository. As published there it is twelve scanned pages with no cover letter, author name, classification marking or control number; its first page says the public version was approved for release by the State Department's Bureau of Global Public Affairs, and its introduction says it reached Congress through the UAP whistleblower mechanisms of the FY23 NDAA and the FY23 Intelligence Authorization Act."
+  },
+  {
+   "cite": [
+    "c-6748a44390",
+    "c-bdc0b10f4b"
+   ],
+   "text": "The report organises its public version into seven categories of evidence, and its imagery section catalogues nine incidents, each headed by the combatant command it came from."
+  },
+  {
+   "cite": [
+    "e-bf17a5f41c"
+   ],
+   "text": "Mace read Karl Nell's statement that nonhuman intelligence exists into the record from the chair; Nell did not testify."
+  },
+  {
+   "cite": [
+    "e-bd1ad93ad6"
+   ],
+   "text": "Gallaudet's statement urged members to use their subpoena power against hostile witnesses and to stop funding UAP efforts hidden from congressional oversight."
+  },
+  {
+   "cite": [
+    "c-08b43a4b81",
+    "e-3bcfb851d4"
+   ],
+   "text": "Asked by Rep. Boebert whether he knew of an alleged Defense Department programme manipulating human genetics with non-human genetic material, Gold answered no."
+  }
+ ],
+ "related": [
+  "hearing-2023",
+  "immaculate-constellation",
+  "aatip-elizondo",
+  "grusch-allegations",
+  "congressional-witnesses",
+  "nasa-uap-study",
+  "named-contractors",
+  "aaro-historical-record",
+  "denial-ledger",
+  "task-force-2025",
+  "sap-reporting"
+ ],
  "section": "congress-disclosure",
  "span": {
   "from": "2024",
   "to": "2024"
  },
- "status": "draft",
- "summary": [],
+ "status": "verified",
+ "summary": [
+  {
+   "cite": [
+    "c-acac68bf02",
+    "c-b67994c819",
+    "e-7dbb2509ac",
+    "e-c2a398ac30"
+   ],
+   "text": "The joint hearing of the Cybersecurity, Information Technology and Government Innovation subcommittee and the National Security, the Border and Foreign Affairs subcommittee was chaired by Mace with Glenn Grothman co-chairing, and printed as Serial No. 118-135."
+  },
+  {
+   "cite": [
+    "e-2ced9755af",
+    "e-68bb67dde6",
+    "e-0c01b94255"
+   ],
+   "text": "It is the hearing at which the Immaculate Constellation report entered the congressional record: Shellenberger delivered the document that morning and testified to its contents under oath."
+  },
+  {
+   "cite": [
+    "c-dbf15f686d",
+    "c-f6c82f5a45",
+    "c-c5dc568f2e",
+    "e-e2f34eae92"
+   ],
+   "text": "Elizondo, a former Defense Department official, answered yes under oath when asked whether the government has run secret crash retrieval programmes, and said he agreed with Grusch's 2023 testimony, while the same printed record notes that agencies had not substantiated Grusch's claims."
+  },
+  {
+   "cite": [
+    "c-096e4c4621",
+    "c-fb0a5cff34",
+    "c-0c553cf467",
+    "e-033f7a4254"
+   ],
+   "text": "Gallaudet testified to an email about a 2015 Navy safety-of-flight issue that he says vanished from recipients' accounts the next day, and Gold, a member of NASA's UAP study team, testified on stigma and reporting."
+  }
+ ],
  "title": "The November 2024 House hearing"
 }

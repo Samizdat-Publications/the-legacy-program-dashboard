@@ -12,25 +12,2155 @@
   "council-bluffs-1977"
  ],
  "appendixT": "specimens",
- "cites": {},
- "claimed": [],
- "contested": [],
+ "cites": {
+  "c-0c3f9958a1": {
+   "id": "c-0c3f9958a1",
+   "kind": "claim",
+   "node": "aaro-metallic-specimen-analysis",
+   "nodeLabel": "AARO / ORNL Synopsis: Analysis of a Metallic Specimen",
+   "source": {
+    "domain": null,
+    "text": "AARO summary and Historical Record Report Volume I",
+    "url": null
+   },
+   "text": "AARO contracted ORNL in 2022 to conduct materials testing on the specimen after acquiring it, with stakeholder permission, from a private UAP organisation and the US Army.",
+   "tier": 1
+  },
+  "c-0f74178f4f": {
+   "id": "c-0f74178f4f",
+   "kind": "claim",
+   "node": "council-bluffs-1977",
+   "nodeLabel": "Council Bluffs, Iowa molten metal fall, 17 December 1977",
+   "source": {
+    "domain": null,
+    "text": "Bud Appleby, 'Chunk of Molten Metal Found in Bluffs Has Residents Puzzled', Des Moines Register, 26 January 1978, cited in Sol Briefing No. 3",
+    "url": null
+   },
+   "text": "Materials analyses in the weeks after the incident found the metal consisted of high-carbon steel and slag.",
+   "tier": 1
+  },
+  "c-17ddeeb978": {
+   "id": "c-17ddeeb978",
+   "kind": "claim",
+   "node": "oak-ridge-national-laboratory",
+   "nodeLabel": "Oak Ridge National Laboratory (UT-Battelle, LLC)",
+   "source": {
+    "domain": null,
+    "text": "Gizmodo reporting on the published ORNL synopsis, 11 July 2024",
+    "url": null
+   },
+   "text": "Neither AARO nor ORNL could verify the specimen's historical origin, and records of failed magnesium alloy designs are scant.",
+   "tier": 2
+  },
+  "c-196584e386": {
+   "id": "c-196584e386",
+   "kind": "claim",
+   "node": "oak-ridge-national-laboratory",
+   "nodeLabel": "Oak Ridge National Laboratory (UT-Battelle, LLC)",
+   "source": {
+    "domain": null,
+    "text": "NSF NCSES Master Government List of FFRDCs; USAspending.gov; CRS Report R44629",
+    "url": null
+   },
+   "text": "UT-Battelle, LLC has administered Oak Ridge National Laboratory since 1 April 2000 under DOE contract DEAC0500OR22725, with recorded obligations of approximately $42.3 billion and a period of performance running to 2030; ORNL was funded at approximately $2,091.2 million in FY2024.",
+   "tier": 1
+  },
+  "c-197e4a06f1": {
+   "id": "c-197e4a06f1",
+   "kind": "claim",
+   "node": "avi-loeb",
+   "nodeLabel": "Abraham 'Avi' Loeb",
+   "source": {
+    "domain": null,
+    "text": "Research Notes of the AAS, DOI 10.3847/2515-5172/ad2370",
+    "url": null
+   },
+   "text": "Loeb is lead author of 'Recovery and Classification of Spherules from the Pacific Ocean Site of the CNEOS 2014 January 8 (IM1) Bolide', Research Notes of the AAS, 31 January 2024.",
+   "tier": 1
+  },
+  "c-1c248fc4ca": {
+   "id": "c-1c248fc4ca",
+   "kind": "claim",
+   "node": "earthtech-international",
+   "nodeLabel": "EarthTech International / Institute for Advanced Studies at Austin",
+   "source": {
+    "domain": null,
+    "text": "SEC EDGAR, TTSA Regulation A offering exhibit, 24 July 2020",
+    "url": null
+   },
+   "text": "Named in TTSA's SEC offering materials as the research partner for the ADAM Research Project.",
+   "tier": 1
+  },
+  "c-1d267ac2fe": {
+   "id": "c-1d267ac2fe",
+   "kind": "claim",
+   "node": "garry-nolan",
+   "nodeLabel": "Garry Nolan",
+   "source": {
+    "domain": null,
+    "text": "Garry Nolan, quoted in The Debrief, 5 June 2023",
+    "url": null
+   },
+   "text": "Study of small samples of exotic material could yield 'hundreds of technology revolutions.'",
+   "tier": 2
+  },
+  "c-1ea247310f": {
+   "id": "c-1ea247310f",
+   "kind": "claim",
+   "node": "aaro-ornl-materials-analyses",
+   "nodeLabel": "AARO / Oak Ridge National Laboratory materials analyses",
+   "source": {
+    "domain": null,
+    "text": "Inference from the scope of the ORNL analyses against Volume I's reliance on voluntary corporate denials",
+    "url": null
+   },
+   "text": "Two laboratory characterisations of voluntarily surrendered specimens cannot bear the weight of a general negative on custody, because the allegation concerns holdings AARO has never inspected and has no authority to compel.",
+   "tier": 3
+  },
+  "c-21cce3f392": {
+   "id": "c-21cce3f392",
+   "kind": "claim",
+   "node": "aaro-metallic-specimen-analysis",
+   "nodeLabel": "AARO / ORNL Synopsis: Analysis of a Metallic Specimen",
+   "source": {
+    "domain": null,
+    "text": "AARO/ORNL Synopsis, July 2024",
+    "url": null
+   },
+   "text": "The reports acknowledge the specimen's 'undocumented chain of custody and conflicting personal accounts' leave its exact historical origin and purpose unclear.",
+   "tier": 1
+  },
+  "c-2874240153": {
+   "id": "c-2874240153",
+   "kind": "claim",
+   "node": "paper-nolan-vallee-2022",
+   "nodeLabel": "Nolan, Vallee, Jiang & Lemke (2022), Progress in Aerospace Sciences 128:100788",
+   "source": {
+    "domain": null,
+    "text": "Progress in Aerospace Sciences / Crossref record",
+    "url": null
+   },
+   "text": "The paper is Progress in Aerospace Sciences 128 (2022) article 100788, DOI 10.1016/j.paerosci.2021.100788, authored by Nolan, Vallee, Jiang and Lemke.",
+   "tier": 1
+  },
+  "c-2cd54efb1b": {
+   "id": "c-2cd54efb1b",
+   "kind": "claim",
+   "node": "oak-ridge-national-laboratory",
+   "nodeLabel": "Oak Ridge National Laboratory (UT-Battelle, LLC)",
+   "source": {
+    "domain": null,
+    "text": "Public record of Kirkpatrick's departure and appointment",
+    "url": null
+   },
+   "text": "Sean Kirkpatrick departed AARO on 1 December 2023 and became Chief Technology Officer for Defense and Intelligence Programs at Oak Ridge National Laboratory.",
+   "tier": 1
+  },
+  "c-2e887f4156": {
+   "id": "c-2e887f4156",
+   "kind": "claim",
+   "node": "adam-research-project",
+   "nodeLabel": "ADAM Research Project (Acquisition and Data Analysis of Materials)",
+   "source": {
+    "domain": null,
+    "text": "Linda Moulton Howe to M.J. Banias, Vice, 14 November 2019",
+    "url": null
+   },
+   "text": "Linda Moulton Howe says the samples were tested by Carnegie Science's Department of Terrestrial Magnetism in 1996 and again by Harold Puthoff and others on several occasions.",
+   "tier": 2
+  },
+  "c-3aba54fde6": {
+   "id": "c-3aba54fde6",
+   "kind": "claim",
+   "node": "d-materials",
+   "nodeLabel": "Materials and custody analysis",
+   "source": {
+    "domain": null,
+    "text": "Progress in Aerospace Sciences, doi:10.1016/j.paerosci.2021.100788",
+    "url": null
+   },
+   "text": "Nolan, Vallee, Jiang and Lemke published 'Improved instrumental techniques, including isotopic analysis, applicable to the characterization of unusual materials with potential relevance to aerospace forensics' in Progress in Aerospace Sciences 128:100788 (2022).",
+   "tier": 1
+  },
+  "c-465fcfda79": {
+   "id": "c-465fcfda79",
+   "kind": "claim",
+   "node": "adam-research-project",
+   "nodeLabel": "ADAM Research Project (Acquisition and Data Analysis of Materials)",
+   "source": {
+    "domain": null,
+    "text": "Reconstruction from the Vice reporting, the SEC filing and the CRADA announcement; no single document sets out the full chain",
+    "url": null
+   },
+   "text": "The ADAM chain of custody is: an anonymous source to Art Bell in the 1990s, to Linda Moulton Howe, to Carnegie DTM (1996) and Puthoff (through 2012), to To The Stars for $35,000 (July 2019), to a US Army CRADA (October 2019) - and then nothing. It goes dark at the point where a federal research agreement should have generated a record.",
+   "tier": 3
+  },
+  "c-4915b47989": {
+   "id": "c-4915b47989",
+   "kind": "claim",
+   "node": "d-materials",
+   "nodeLabel": "Materials and custody analysis",
+   "source": {
+    "domain": null,
+    "text": "AARO Aluminum Materials Analysis Supplement, January 2026",
+    "url": null
+   },
+   "text": "AARO's January 2026 Aluminum Materials Analysis Supplement (26-P-0218) reports ORNL analysis of a specimen recovered near Flint Ridge State Park, Ohio, finding it similar to Aluminum Association reference alloys 369.1 and A413.1 with no radioactive emissions.",
+   "tier": 1
+  },
+  "c-4be2b23799": {
+   "id": "c-4be2b23799",
+   "kind": "claim",
+   "node": "im1-pacific-expedition-2023",
+   "nodeLabel": "Galileo Project Pacific Ocean expedition to the CNEOS 2014-01-08 (IM1) site, June-July 2023",
+   "source": {
+    "domain": null,
+    "text": "Chemical Geology, DOI 10.1016/j.chemgeo.2025.122628",
+    "url": null
+   },
+   "text": "Rudraswami, Singh and Pandey published a re-evaluation of the spherules' proposed origin in Chemical Geology in March 2025.",
+   "tier": 1
+  },
+  "c-4ded6c289b": {
+   "id": "c-4ded6c289b",
+   "kind": "claim",
+   "node": "ttsa-army-crada",
+   "nodeLabel": "CRADA between U.S. Army Ground Vehicle Systems Center and To The Stars Academy",
+   "source": {
+    "domain": null,
+    "text": "CCDC FOIA response to The Black Vault",
+    "url": null
+   },
+   "text": "On 21 February 2020 CCDC FOIA Officer Joy L. Linton denied in full twenty-nine emails totalling one hundred pages of TTSA-Army correspondence under FOIA exemptions (b)(4) and (b)(5).",
+   "tier": 1
+  },
+  "c-5145eec815": {
+   "id": "c-5145eec815",
+   "kind": "claim",
+   "node": "d-chem",
+   "nodeLabel": "Chemistry & Isotopics",
+   "source": {
+    "domain": null,
+    "text": "Chemical Geology, doi:10.1016/j.chemgeo.2025.122627",
+    "url": null
+   },
+   "text": "Hyung, Cherston, Jacobsen and Loeb published an investigation of the relationship between morphology and chemistry of D-type spherules in Chemical Geology in March 2025.",
+   "tier": 1
+  },
+  "c-5344d76b86": {
+   "id": "c-5344d76b86",
+   "kind": "claim",
+   "node": "adam-research-project",
+   "nodeLabel": "ADAM Research Project (Acquisition and Data Analysis of Materials)",
+   "source": {
+    "domain": null,
+    "text": "TTSA SEC filing reported by Daniel Oberhaus, Vice, 15 October 2018",
+    "url": null
+   },
+   "text": "TTSA's September 2018 SEC filing recorded preparation to launch research into 'materials relevant to its future plans in Space Time Metric Engineering', partnering with EarthTech in August 2018.",
+   "tier": 1
+  },
+  "c-534b2610bf": {
+   "id": "c-534b2610bf",
+   "kind": "claim",
+   "node": "d-materials",
+   "nodeLabel": "Materials and custody analysis",
+   "source": {
+    "domain": null,
+    "text": "Inference from the state of the published literature and the ADAM/CRADA record",
+    "url": null
+   },
+   "text": "As of August 2026 only one alleged UAP material sample has a complete public chain of custody from incident through analysis to peer-reviewed publication: the 1977 Council Bluffs mass. All other significant chains terminate in a private laboratory, a corporate holding or an unpublished federal agreement.",
+   "tier": 3
+  },
+  "c-53962f4042": {
+   "id": "c-53962f4042",
+   "kind": "claim",
+   "node": "d-chem",
+   "nodeLabel": "Chemistry & Isotopics",
+   "source": {
+    "domain": null,
+    "text": "AARO Aluminum Materials Analysis Supplement",
+    "url": null
+   },
+   "text": "AARO's January 2026 aluminium analysis found composition matching Aluminum Association reference alloys 369.1 and A413.1, a conventional result.",
+   "tier": 1
+  },
+  "c-54e8823326": {
+   "id": "c-54e8823326",
+   "kind": "claim",
+   "node": "paper-nolan-vallee-2022",
+   "nodeLabel": "Nolan, Vallee, Jiang & Lemke (2022), Progress in Aerospace Sciences 128:100788",
+   "source": {
+    "domain": null,
+    "text": "Sol Foundation Policy Briefing No. 3, April 2026, summarising the paper",
+    "url": null
+   },
+   "text": "Meteorite, satellite/spacecraft debris, aircraft debris, dumped molten metal and thermite hypotheses were each examined and ruled out on physical grounds; the thermite exclusion rests on the absence of aluminium oxide in the SIMS diatomic analysis.",
+   "tier": 1
+  },
+  "c-5868af5613": {
+   "id": "c-5868af5613",
+   "kind": "claim",
+   "node": "aaro-metallic-specimen-analysis",
+   "nodeLabel": "AARO / ORNL Synopsis: Analysis of a Metallic Specimen",
+   "source": {
+    "domain": null,
+    "text": "AARO/ORNL Synopsis: Analysis of a Metallic Specimen, released July 2024",
+    "url": null
+   },
+   "text": "'ORNL assessed this specimen to be terrestrial in origin and that it does not meet the theoretical requirements to function as a terahertz (THz) waveguide.'",
+   "tier": 1
+  },
+  "c-5a94a81f13": {
+   "id": "c-5a94a81f13",
+   "kind": "claim",
+   "node": "oak-ridge-national-laboratory",
+   "nodeLabel": "Oak Ridge National Laboratory (UT-Battelle, LLC)",
+   "source": {
+    "domain": null,
+    "text": "AARO UAP Records/Information Papers page, aaro.mil — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
+    "url": null
+   },
+   "text": "The resulting report is titled 'ORNL Synopsis: Analysis of a Metallic Specimen', dated April 2024, concerning a specimen publicly alleged to be from a 1947 crashed extraterrestrial vehicle.",
+   "tier": 2
+  },
+  "c-5ad7f70ff2": {
+   "id": "c-5ad7f70ff2",
+   "kind": "claim",
+   "node": "ttsa-army-crada",
+   "nodeLabel": "CRADA between U.S. Army Ground Vehicle Systems Center and To The Stars Academy",
+   "source": {
+    "domain": null,
+    "text": "SEC EDGAR, TTSA Form 1-A Exhibit 6.28, filed 3 August 2020",
+    "url": null
+   },
+   "text": "CRADA 19-15 'Novel & Emerging Technology Exploitation (NETE)' between To The Stars Academy of Arts and Science, Inc. and the US Army CCDC Ground Vehicle Systems Center, with named government principal investigators and TACOM IP counsel, was filed as SEC Exhibit 6.28.",
+   "tier": 1
+  },
+  "c-5eda019de8": {
+   "id": "c-5eda019de8",
+   "kind": "claim",
+   "node": "avi-loeb",
+   "nodeLabel": "Abraham 'Avi' Loeb",
+   "source": {
+    "domain": null,
+    "text": "Chemical Geology DOI 10.1016/j.chemgeo.2025.122628; Geophysical Journal International, March 2024",
+    "url": null
+   },
+   "text": "The IM1 spherule composition claims were contested in the peer-reviewed literature by Rudraswami, Singh & Pandey in Chemical Geology (March 2025) and by Fernando et al. in Geophysical Journal International (March 2024) on the seismic localisation.",
+   "tier": 1
+  },
+  "c-60887b5651": {
+   "id": "c-60887b5651",
+   "kind": "claim",
+   "node": "im1-pacific-expedition-2023",
+   "nodeLabel": "Galileo Project Pacific Ocean expedition to the CNEOS 2014-01-08 (IM1) site, June-July 2023",
+   "source": {
+    "domain": null,
+    "text": "Geophysical Journal International, March 2024; Research Notes of the AAS, October 2023",
+    "url": null
+   },
+   "text": "Fernando et al. showed in Geophysical Journal International (March 2024) that the seismic signal used to localise the search was consistent with truck traffic rather than an impact; Gallardo argued in Research Notes of the AAS (October 2023) for anthropogenic coal-ash contamination.",
+   "tier": 2
+  },
+  "c-6dbef477f9": {
+   "id": "c-6dbef477f9",
+   "kind": "claim",
+   "node": "aaro-ornl-materials-analyses",
+   "nodeLabel": "AARO / Oak Ridge National Laboratory materials analyses",
+   "source": {
+    "domain": null,
+    "text": "AARO FY2025 Consolidated Annual Report on UAP",
+    "url": null
+   },
+   "text": "The FY2025 report states no entity has ever captured or exploited UAP-derived materials while noting AARO is developing procedures for handling such materials should they come into USG possession.",
+   "tier": 1
+  },
+  "c-75c22fe63f": {
+   "id": "c-75c22fe63f",
+   "kind": "claim",
+   "node": "aaro-metallic-specimen-analysis",
+   "nodeLabel": "AARO / ORNL Synopsis: Analysis of a Metallic Specimen",
+   "source": {
+    "domain": null,
+    "text": "NewsNation, 11 July 2024; Popular Mechanics, 23 March 2026",
+    "url": null
+   },
+   "text": "The analysis concluded the material is a magnesium alloy and found no evidence of extraterrestrial origin; ORNL scientists examined it for technosignatures using scanning transmission electron microscopy after finding no biosignatures.",
+   "tier": 2
+  },
+  "c-7a1dcfe1fa": {
+   "id": "c-7a1dcfe1fa",
+   "kind": "claim",
+   "node": "oak-ridge-national-laboratory",
+   "nodeLabel": "Oak Ridge National Laboratory (UT-Battelle, LLC)",
+   "source": {
+    "domain": null,
+    "text": "AARO UAP Records/Information Papers page, aaro.mil",
+    "url": null
+   },
+   "text": "AARO states: 'In 2022, The All-domain Anomaly Resolution Office (AARO) contracted with Oak Ridge National Laboratory (ORNL) to conduct materials testing on a magnesium (Mg) alloy specimen.'",
+   "tier": 1
+  },
+  "c-8c5c34b04d": {
+   "id": "c-8c5c34b04d",
+   "kind": "claim",
+   "node": "im1-pacific-expedition-2023",
+   "nodeLabel": "Galileo Project Pacific Ocean expedition to the CNEOS 2014-01-08 (IM1) site, June-July 2023",
+   "source": {
+    "domain": null,
+    "text": "RNAAS DOI 10.3847/2515-5172/ad2370; Chemical Geology DOI 10.1016/j.chemgeo.2024.122415",
+    "url": null
+   },
+   "text": "Loeb et al. published 'Recovery and Classification of Spherules from the Pacific Ocean Site of the CNEOS 2014 January 8 (IM1) Bolide' in Research Notes of the AAS on 31 January 2024, and a chemical classification in Chemical Geology in December 2024.",
+   "tier": 1
+  },
+  "c-8ccc9f233c": {
+   "id": "c-8ccc9f233c",
+   "kind": "claim",
+   "node": "ttsa-army-crada",
+   "nodeLabel": "CRADA between U.S. Army Ground Vehicle Systems Center and To The Stars Academy",
+   "source": {
+    "domain": null,
+    "text": "CRADA document as released, The War Zone, 18 October 2019",
+    "url": null
+   },
+   "text": "Research areas specified: inertial mass reduction, mechanical/structural metamaterials, electromagnetic metamaterial waveguides, quantum physics, quantum communications, beamed energy propulsion; applications include Active Camouflage and Directed Photon Projection. TTSA's participation valued at an estimated $1 million in in-kind contributions.",
+   "tier": 1
+  },
+  "c-8dec80810b": {
+   "id": "c-8dec80810b",
+   "kind": "claim",
+   "node": "steve-justice",
+   "nodeLabel": "Steve Justice",
+   "source": {
+    "domain": null,
+    "text": "TTSA ADAM Research Project announcement, July 2019, as reported by Wikipedia's To The Stars Inc. entry and contemporaneous coverage",
+    "url": null
+   },
+   "text": "Stated of the ADAM specimens that their 'structure and composition are not from any known existing military or commercial application.'",
+   "tier": 2
+  },
+  "c-925dda206a": {
+   "id": "c-925dda206a",
+   "kind": "claim",
+   "node": "ttsa-army-crada",
+   "nodeLabel": "CRADA between U.S. Army Ground Vehicle Systems Center and To The Stars Academy",
+   "source": {
+    "domain": null,
+    "text": "CRADA document released by U.S. Army CCDC, reported by Joseph Trevithick and Brett Tingley, The War Zone, 18 October 2019",
+    "url": null
+   },
+   "text": "Signed 10 October 2019 by Jeffery Langhout (Director, Army GVSC) and Kari DeLonge (TTSA), with Bean Soave and Dr. Joseph Cannon as government principal investigators and Luis Elizondo as TTSA principal investigator; term to 30 September 2023.",
+   "tier": 1
+  },
+  "c-940cc35161": {
+   "id": "c-940cc35161",
+   "kind": "claim",
+   "node": "adam-research-project",
+   "nodeLabel": "ADAM Research Project (Acquisition and Data Analysis of Materials)",
+   "source": {
+    "domain": null,
+    "text": "Steve Justice, quoted by M.J. Banias, Vice, 26 July 2019",
+    "url": null
+   },
+   "text": "Steve Justice stated the materials 'have been collected from sources with varying levels of chain-of-custody documentation'.",
+   "tier": 2
+  },
+  "c-975eb77858": {
+   "id": "c-975eb77858",
+   "kind": "claim",
+   "node": "council-bluffs-1977",
+   "nodeLabel": "Council Bluffs, Iowa molten metal fall, 17 December 1977",
+   "source": {
+    "domain": null,
+    "text": "Sol Foundation Policy Briefing No. 3, citing the Daily Nonpareil (18 December 1977) and Greg Jerrett, 'Mystery at Big Lake: Fire in the Sky', Daily Nonpareil, 16 May 2004",
+    "url": null
+   },
+   "text": "Five independent groups of witnesses observed a red luminous mass descending from approximately 500-600 feet near a park in Council Bluffs on the evening of 17 December 1977; the assistant fire chief described a roughly four-by-six-foot mass of molten metal 'running, boiling down the edges of the levee'; police photographed the scene.",
+   "tier": 1
+  },
+  "c-9a31b9959a": {
+   "id": "c-9a31b9959a",
+   "kind": "claim",
+   "node": "oak-ridge-national-laboratory",
+   "nodeLabel": "Oak Ridge National Laboratory (UT-Battelle, LLC)",
+   "source": {
+    "domain": null,
+    "text": "American Alchemy with Jesse Michels, 'Senate Staffer Thinks Tesla and Nazi Technology is Being Hidden (ft. Kirk McConnell)', published 2 April 2025, at 1:09:33",
+    "url": null
+   },
+   "text": "On American Alchemy with Jesse Michels, 2 April 2025, at 1:09:33, the retired Senate Armed Services Committee staffer Kirk McConnell said that the contract forming AARO's advisory group 'was let through Oak Ridge' while Sean Kirkpatrick directed AARO. If such a task order exists it would carry a number and appear on USAspending; none was located here.",
+   "tier": 2
+  },
+  "c-a05bfe2b83": {
+   "id": "c-a05bfe2b83",
+   "kind": "claim",
+   "node": "paper-nolan-vallee-2022",
+   "nodeLabel": "Nolan, Vallee, Jiang & Lemke (2022), Progress in Aerospace Sciences 128:100788",
+   "source": {
+    "domain": null,
+    "text": "Sol Foundation Policy Briefing No. 3, April 2026",
+    "url": null
+   },
+   "text": "The analysis found no anomalous isotopic values but incomplete mixing of the metals in the once-molten mass, indicating an industrial process of unknown origin.",
+   "tier": 1
+  },
+  "c-a61fcd4cb5": {
+   "id": "c-a61fcd4cb5",
+   "kind": "claim",
+   "node": "stanford-nolan-lab",
+   "nodeLabel": "Nolan Laboratory, Stanford University School of Medicine",
+   "source": {
+    "domain": null,
+    "text": "Sol Foundation Policy Briefing No. 3 summarising Nolan, Vallee, Jiang & Lemke (2022)",
+    "url": null
+   },
+   "text": "The laboratory applied SIMS and MIBI to the Council Bluffs samples at 200 nanometre lateral resolution and five-nanometre depth increments, finding no anomalous isotopic values but incomplete mixing of the constituent metals.",
+   "tier": 1
+  },
+  "c-a6f44c2515": {
+   "id": "c-a6f44c2515",
+   "kind": "claim",
+   "node": "steve-justice",
+   "nodeLabel": "Steve Justice",
+   "source": {
+    "domain": null,
+    "text": "SEC EDGAR, TTSA Form 1-K Part II, filed April 2018",
+    "url": null
+   },
+   "text": "Listed in TTSA's Form 1-K as Director of Advanced Programs and Technology, age 61, part-time, recently retired as a Program Director from Lockheed Martin Advanced Development Programs (Skunk Works) after 31 years.",
+   "tier": 1
+  },
+  "c-ab1cf2b91f": {
+   "id": "c-ab1cf2b91f",
+   "kind": "claim",
+   "node": "d-materials",
+   "nodeLabel": "Materials and custody analysis",
+   "source": {
+    "domain": null,
+    "text": "To The Stars Academy press release, 25 July 2019; The War Zone, 18 October 2019",
+    "url": null
+   },
+   "text": "To The Stars Academy announced in July 2019 that it had acquired metamaterials it described as originating from an advanced aerospace vehicle of unknown origin, and subsequently entered a Cooperative Research and Development Agreement with the US Army.",
+   "tier": 2
+  },
+  "c-bf51579601": {
+   "id": "c-bf51579601",
+   "kind": "claim",
+   "node": "garry-nolan",
+   "nodeLabel": "Garry Nolan",
+   "source": {
+    "domain": null,
+    "text": "The Sol Foundation Science and Policy Briefings No. 3, April 2026, summarising the Nolan/Vallee paper",
+    "url": null
+   },
+   "text": "The Council Bluffs analysis found no anomalous isotopic values but incomplete mixing of the constituent metals, indicating an industrial process of unknown origin, and ruled out meteorite, satellite/spacecraft, aircraft-debris, molten-metal-dumping and thermite explanations.",
+   "tier": 1
+  },
+  "c-cabfe87d1f": {
+   "id": "c-cabfe87d1f",
+   "kind": "claim",
+   "node": "adam-research-project",
+   "nodeLabel": "ADAM Research Project (Acquisition and Data Analysis of Materials)",
+   "source": {
+    "domain": null,
+    "text": "SEC EDGAR, TTSA Regulation A offering exhibit, 24 July 2020",
+    "url": null
+   },
+   "text": "TTSA's SEC offering materials describe ADAM as acquiring and analysing material samples from advanced aerospace vehicles of unknown origin, in partnership with EarthTech International, with some specimens in documented possession since the mid-1990s.",
+   "tier": 1
+  },
+  "c-d0db5ba070": {
+   "id": "c-d0db5ba070",
+   "kind": "claim",
+   "node": "adam-research-project",
+   "nodeLabel": "ADAM Research Project (Acquisition and Data Analysis of Materials)",
+   "source": {
+    "domain": null,
+    "text": "Puthoff letter as reported by Vice, 14 November 2019",
+    "url": null
+   },
+   "text": "A 2012 letter from Puthoff reported that testing had not proved alien origin nor produced any 'interesting/anomalous outcome', with one further test pending for want of equipment.",
+   "tier": 2
+  },
+  "c-da3e0ff244": {
+   "id": "c-da3e0ff244",
+   "kind": "claim",
+   "node": "sean-kirkpatrick",
+   "nodeLabel": "Sean M. Kirkpatrick",
+   "source": {
+    "domain": null,
+    "text": "American Alchemy with Jesse Michels, 'Senate Staffer Thinks Tesla and Nazi Technology is Being Hidden (ft. Kirk McConnell)', published 2 April 2025, at 1:09:33 to 1:10:25",
+    "url": null
+   },
+   "text": "On American Alchemy with Jesse Michels, 2 April 2025, at 1:09:33, Kirk McConnell said that Kirkpatrick 'created an advisory group' at AARO and that 'the contract for that, for the formation of that group to advise him at AARO, well, the contract was let through Oak Ridge', and that after retiring from government Kirkpatrick is 'working with, for Oak Ridge under contract now'. Asked whether that looked like a conflict of interest, McConnell answered at 1:10:25 that 'conflicts of interest or allegations are easy to make, but not so easy to sort out. But it is certainly worth taking note of if nothing else.' He does not allege wrongdoing and does not name the advisory group.",
+   "tier": 2
+  },
+  "c-decd0fa511": {
+   "id": "c-decd0fa511",
+   "kind": "claim",
+   "node": "aaro-ornl-materials-analyses",
+   "nodeLabel": "AARO / Oak Ridge National Laboratory materials analyses",
+   "source": {
+    "domain": null,
+    "text": "AARO UAP Records / Information Papers listings, accessed 12 August 2026",
+    "url": null
+   },
+   "text": "AARO published an ORNL synopsis analysing a metallic (magnesium) specimen in April 2024 with an AARO supplement, and an ORNL analysis of an aluminium specimen with an AARO supplement dated January 2026.",
+   "tier": 1
+  },
+  "c-e3ce3f022d": {
+   "id": "c-e3ce3f022d",
+   "kind": "claim",
+   "node": "aaro-ornl-materials-analyses",
+   "nodeLabel": "AARO / Oak Ridge National Laboratory materials analyses",
+   "source": {
+    "domain": null,
+    "text": "AARO Historical Record Report Volume I",
+    "url": null
+   },
+   "text": "Volume I determined that an alleged extraterrestrial spacecraft sample was a manufactured terrestrial alloy of magnesium, zinc and bismuth with trace elements.",
+   "tier": 1
+  },
+  "c-e50b8bbcfc": {
+   "id": "c-e50b8bbcfc",
+   "kind": "claim",
+   "node": "ttsa-army-crada",
+   "nodeLabel": "CRADA between U.S. Army Ground Vehicle Systems Center and To The Stars Academy",
+   "source": {
+    "domain": null,
+    "text": "The Black Vault, 12 March 2020",
+    "url": null
+   },
+   "text": "Army GVSP public affairs officer Doug Halleaux said that because 'the Army's interest is in the potential for novel materials and exploring the edges of materials science, any speculation as to their origin is (pardon the pun) immaterial.'",
+   "tier": 2
+  },
+  "c-ec9b541df3": {
+   "id": "c-ec9b541df3",
+   "kind": "claim",
+   "node": "adam-research-project",
+   "nodeLabel": "ADAM Research Project (Acquisition and Data Analysis of Materials)",
+   "source": {
+    "domain": null,
+    "text": "Inference from the sequence of the August 2018 EarthTech partnership, the July 2019 acquisition announcement, and the October 2019 CRADA",
+    "url": null
+   },
+   "text": "ADAM's value to the effort was custodial and legal rather than scientific: it created a private chain of custody for claimed exotic material outside the classification system, which is the only posture under which such material could be handed to an Army laboratory under an unclassified research instrument.",
+   "tier": 3
+  },
+  "c-f1aa52f89a": {
+   "id": "c-f1aa52f89a",
+   "kind": "claim",
+   "node": "adam-research-project",
+   "nodeLabel": "ADAM Research Project (Acquisition and Data Analysis of Materials)",
+   "source": {
+    "domain": null,
+    "text": "SEC filings as reported by M.J. Banias, Vice, 4 October 2019",
+    "url": null
+   },
+   "text": "SEC filings record To The Stars paying $35,000 for several items including six pieces of bismuth/magnesium-zinc metal and a piece of aluminium.",
+   "tier": 1
+  },
+  "c-fcdf6b4e3d": {
+   "id": "c-fcdf6b4e3d",
+   "kind": "claim",
+   "node": "d-chem",
+   "nodeLabel": "Chemistry & Isotopics",
+   "source": {
+    "domain": null,
+    "text": "Chemical Geology, doi:10.1016/j.chemgeo.2024.122415",
+    "url": null
+   },
+   "text": "Loeb, Jacobsen, Tagle and colleagues published 'Chemical classification of spherules recovered from the Pacific Ocean site of the CNEOS 2014-01-08 (IM1) bolide' in Chemical Geology in December 2024.",
+   "tier": 1
+  },
+  "e-02e6600133": {
+   "endpoints": [
+    {
+     "id": "ttsa",
+     "label": "To The Stars Academy of Arts & Science Inc. (later To The Stars Inc.)"
+    },
+    {
+     "id": "adam-research-project",
+     "label": "ADAM Research Project (Acquisition and Data Analysis of Materials)"
+    }
+   ],
+   "id": "e-02e6600133",
+   "kind": "edge",
+   "label": "ADAM: acquisition and analysis of claimed exotic material",
+   "sources": [
+    {
+     "date": "2020-07-24",
+     "name": "SEC EDGAR — TTSA offering exhibit",
+     "url": "https://www.sec.gov/Archives/edgar/data/1710274/000110465920089220/tm2023098d2_ex13-1.htm"
+    },
+    {
+     "date": "2019-07-26",
+     "name": "M.J. Banias, 'Tom DeLonge's UFO Organization Says It's Obtained Exotic Metals Unknown to Science', Vice",
+     "url": "https://www.vice.com/en/article/tom-delonges-ufo-organization-says-its-obtained-exotic-metals-unknown-to-science/"
+    },
+    {
+     "date": "2019-10-04",
+     "name": "M.J. Banias, 'Tom DeLonge's UFO Research Company Paid $35,000 for Exotic Metals That Might Actually Just Be Slag', Vice",
+     "url": "https://www.vice.com/en/article/tom-delonges-ufo-research-company-paid-dollar35000-for-exotic-metals-that-might-actually-just-be-bismuth/"
+    }
+   ],
+   "text": "Announced July 2019 as the Acquisition & Data Analysis of Materials project; SEC filings record the $35,000 purchase of the bismuth/magnesium-zinc and aluminium items.",
+   "tier": 1,
+   "type": "programmatic"
+  },
+  "e-060fc949a2": {
+   "endpoints": [
+    {
+     "id": "aaro-metallic-specimen-analysis",
+     "label": "AARO / ORNL Synopsis: Analysis of a Metallic Specimen"
+    },
+    {
+     "id": "ttsa",
+     "label": "To The Stars Academy of Arts & Science Inc. (later To The Stars Inc.)"
+    }
+   ],
+   "id": "e-060fc949a2",
+   "kind": "edge",
+   "label": "ORNL assessed the privately held 'crash' specimen as terrestrial",
+   "sources": [
+    {
+     "date": "2024-07-11",
+     "name": "The Black Vault, 'AARO Releases Findings on Suspected Extraterrestrial Alloy' (ORNL analysis of the magnesium specimen)",
+     "url": "https://www.theblackvault.com/documentarchive/aaro-releases-findings-on-suspected-extraterrestrial-alloy/"
+    }
+   ],
+   "text": "The finding does not resolve the custody question it arose from: AARO notes the specimen's 'undocumented chain of custody and conflicting personal accounts' leave its historical origin unclear.",
+   "tier": 1,
+   "type": "denial"
+  },
+  "e-168e63c2b9": {
+   "endpoints": [
+    {
+     "id": "kari-delonge",
+     "label": "Kari DeLonge"
+    },
+    {
+     "id": "ttsa-army-crada",
+     "label": "CRADA between U.S. Army Ground Vehicle Systems Center and To The Stars Academy"
+    }
+   ],
+   "id": "e-168e63c2b9",
+   "kind": "edge",
+   "label": "Signed for To The Stars Academy, 10 October 2019",
+   "sources": [
+    {
+     "date": "2019-10-18",
+     "name": "The War Zone",
+     "url": "https://www.twz.com/30498/the-army-wants-to-verify-to-the-stars-academys-fantastic-ufo-mystery-material-claims"
+    }
+   ],
+   "text": "The corporate signatory on a materials-science agreement with an Army laboratory was TTSA's Chief Content Officer — the entertainment company was the legal spine.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-20a5e5c39e": {
+   "endpoints": [
+    {
+     "id": "dird-invisibility-cloaking-theory-and-experiments",
+     "label": "Invisibility Cloaking: Theory and Experiments"
+    },
+    {
+     "id": "d-materials",
+     "label": "Materials and custody analysis"
+    }
+   ],
+   "id": "e-20a5e5c39e",
+   "kind": "edge",
+   "label": "subject domain: transformation optics, metamaterials and signature reduction",
+   "sources": [
+    {
+     "date": "2026-08-22",
+     "name": "Released DIRD, 'Invisibility Cloaking: Theory and Experiments' — FOIA copy, cover page read 22 August 2026",
+     "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_07-DIRD_Invisibility_Cloaking-Theory_and_Experiments.pdf"
+    },
+    {
+     "date": "2026-08-22",
+     "name": "DIA FOIA Electronic Reading Room entry for this reference document",
+     "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237639/"
+    },
+    {
+     "date": null,
+     "name": "https://silvarecord.com/2019/01/17/38th-dird-title-surfaces-with-letter-addressed-to-mccain-armed-services-committee/",
+     "url": "https://silvarecord.com/2019/01/17/38th-dird-title-surfaces-with-letter-addressed-to-mccain-armed-services-committee/"
+    }
+   ],
+   "text": "Contents run Camouflage, Transparency, Cloaking. The paper is the signature-reduction leg of the survey, sitting alongside Shvets's 'Metamaterials for Aerospace Applications' and against Culbreth's hypersonic detection paper. Puthoff listed signature reduction among the twelve threat areas DIA specified in the Broad Area Announcement.",
+   "tier": 1,
+   "type": "research"
+  },
+  "e-2820fe4a56": {
+   "endpoints": [
+    {
+     "id": "dird-aerospace-applications-of-programmable-matter",
+     "label": "Aerospace Applications of Programmable Matter"
+    },
+    {
+     "id": "d-materials",
+     "label": "Materials and custody analysis"
+    }
+   ],
+   "id": "e-2820fe4a56",
+   "kind": "edge",
+   "label": "subject domain: exotic and reconfigurable materials",
+   "sources": [
+    {
+     "date": "2026-08-22",
+     "name": "Released DIRD, 'Aerospace Applications of Programmable Matter' — FOIA copy, cover page read 22 August 2026",
+     "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_02-DIRD_Aerospace_Applications_of_Programmable_Matter.pdf"
+    },
+    {
+     "date": "2026-08-22",
+     "name": "DIA FOIA Electronic Reading Room entry for this reference document",
+     "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237656/"
+    }
+   ],
+   "text": "The document surveys programmable material whose effective atoms can be changed on demand to summon or dismiss material properties at will. It sits in the same AAWSAP materials line as the metamaterials, metallic glasses and metallic spintronics DIRDs.",
+   "tier": 1,
+   "type": "research"
+  },
+  "e-2a1bc41b34": {
+   "endpoints": [
+    {
+     "id": "larry-lemke",
+     "label": "Larry G. Lemke"
+    },
+    {
+     "id": "paper-nolan-vallee-2022",
+     "label": "Nolan, Vallee, Jiang & Lemke (2022), Progress in Aerospace Sciences 128:100788"
+    }
+   ],
+   "id": "e-2a1bc41b34",
+   "kind": "edge",
+   "label": "NASA Ames aerospace engineer supplying the exclusion arguments",
+   "sources": [
+    {
+     "date": "2022-01-01",
+     "name": "Nolan, Vallee, Jiang & Lemke, 'Improved instrumental techniques, including isotopic analysis, applicable to the characterization of unusual materials with potential relevance to aerospace forensics', Progress in Aerospace Sciences 128:100788",
+     "url": "https://doi.org/10.1016/j.paerosci.2021.100788"
+    },
+    {
+     "date": "2026-04-01",
+     "name": "The Sol Foundation Science and Policy Briefings No. 3, Marik von Rennenkampff, 'First Peer-Reviewed Scientific Analysis of Possible UAP Materials Employs State-of-the-Art Technologies'",
+     "url": "https://thesolfoundation.org/wp-content/uploads/2026/04/Sol_Policy_Briefing_Number_3-1.pdf"
+    }
+   ],
+   "text": "Lemke's engineering judgement underpins the rejection of reentry-debris and aircraft-component hypotheses on thermal-history and materials-selection grounds.",
+   "tier": 1,
+   "type": "investigative"
+  },
+  "e-2e18001412": {
+   "endpoints": [
+    {
+     "id": "adam-research-project",
+     "label": "ADAM Research Project (Acquisition and Data Analysis of Materials)"
+    },
+    {
+     "id": "steve-justice",
+     "label": "Steve Justice"
+    }
+   ],
+   "id": "e-2e18001412",
+   "kind": "edge",
+   "label": "Justice, ex-Lockheed Skunk Works Advanced Systems director, fronted the acquisition",
+   "sources": [
+    {
+     "date": "2019-07-26",
+     "name": "M.J. Banias, 'Tom DeLonge's UFO Organization Says It's Obtained Exotic Metals Unknown to Science', Vice",
+     "url": "https://www.vice.com/en/article/tom-delonges-ufo-organization-says-its-obtained-exotic-metals-unknown-to-science/"
+    }
+   ],
+   "text": "Justice said the structure and composition 'are not from any known existing military or commercial application' and conceded the materials came from sources 'with varying levels of chain-of-custody documentation'.",
+   "tier": 2,
+   "type": "institutional"
+  },
+  "e-308635d59d": {
+   "endpoints": [
+    {
+     "id": "jacques-vallee",
+     "label": "Jacques F. Vallee"
+    },
+    {
+     "id": "paper-nolan-vallee-2022",
+     "label": "Nolan, Vallee, Jiang & Lemke (2022), Progress in Aerospace Sciences 128:100788"
+    }
+   ],
+   "id": "e-308635d59d",
+   "kind": "edge",
+   "label": "Co-author and source of the sample and its case file",
+   "sources": [
+    {
+     "date": "2022-01-01",
+     "name": "Nolan, Vallee, Jiang & Lemke, 'Improved instrumental techniques, including isotopic analysis, applicable to the characterization of unusual materials with potential relevance to aerospace forensics', Progress in Aerospace Sciences 128:100788",
+     "url": "https://doi.org/10.1016/j.paerosci.2021.100788"
+    },
+    {
+     "date": "2026-04-01",
+     "name": "The Sol Foundation Science and Policy Briefings No. 3, Marik von Rennenkampff, 'First Peer-Reviewed Scientific Analysis of Possible UAP Materials Employs State-of-the-Art Technologies'",
+     "url": "https://thesolfoundation.org/wp-content/uploads/2026/04/Sol_Policy_Briefing_Number_3-1.pdf"
+    }
+   ],
+   "text": "Vallee supplied both the physical material and the 45-year documentary case record - newspaper reports, police photographs, fire-department accounts - that makes the analysis interpretable.",
+   "tier": 1,
+   "type": "investigative"
+  },
+  "e-4881201fcb": {
+   "endpoints": [
+    {
+     "id": "sean-kirkpatrick",
+     "label": "Sean M. Kirkpatrick"
+    },
+    {
+     "id": "oak-ridge-national-laboratory",
+     "label": "Oak Ridge National Laboratory (UT-Battelle, LLC)"
+    }
+   ],
+   "id": "e-4881201fcb",
+   "kind": "edge",
+   "label": "AARO's founding director left government for the laboratory that analysed AARO's specimen",
+   "sources": [
+    {
+     "date": "2026-07-08",
+     "name": "AARO UAP Records",
+     "url": "https://www.aaro.mil/UAP-Records/"
+    }
+   ],
+   "text": "Kirkpatrick departed AARO on 1 December 2023 and became Chief Technology Officer for Defense and Intelligence Programs at ORNL, a UT-Battelle laboratory that had supported AARO during his tenure.",
+   "tier": 2,
+   "type": "behavioral"
+  },
+  "e-54788b2efd": {
+   "endpoints": [
+    {
+     "id": "jeffery-langhout",
+     "label": "Jeffery Langhout"
+    },
+    {
+     "id": "ttsa-army-crada",
+     "label": "CRADA between U.S. Army Ground Vehicle Systems Center and To The Stars Academy"
+    }
+   ],
+   "id": "e-54788b2efd",
+   "kind": "edge",
+   "label": "Signed for the United States Army, 10 October 2019",
+   "sources": [
+    {
+     "date": "2019-10-18",
+     "name": "The War Zone",
+     "url": "https://www.twz.com/30498/the-army-wants-to-verify-to-the-stars-academys-fantastic-ufo-mystery-material-claims"
+    }
+   ],
+   "text": "The federal signature block is what makes the agreement citable as a government act.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-5a9c099223": {
+   "endpoints": [
+    {
+     "id": "garry-nolan",
+     "label": "Garry Nolan"
+    },
+    {
+     "id": "paper-nolan-vallee-2022",
+     "label": "Nolan, Vallee, Jiang & Lemke (2022), Progress in Aerospace Sciences 128:100788"
+    }
+   ],
+   "id": "e-5a9c099223",
+   "kind": "edge",
+   "label": "Senior author of the first peer-reviewed UAP materials analysis",
+   "sources": [
+    {
+     "date": "2022-01-01",
+     "name": "Nolan, Vallee, Jiang & Lemke, 'Improved instrumental techniques, including isotopic analysis, applicable to the characterization of unusual materials with potential relevance to aerospace forensics', Progress in Aerospace Sciences 128:100788",
+     "url": "https://doi.org/10.1016/j.paerosci.2021.100788"
+    }
+   ],
+   "text": "Progress in Aerospace Sciences 128:100788, applying SIMS and MIBI at 200 nm lateral resolution to the Council Bluffs material.",
+   "tier": 1,
+   "type": "investigative"
+  },
+  "e-60abb7e447": {
+   "endpoints": [
+    {
+     "id": "dird-the-role-of-superconductors-in-gravity",
+     "label": "The Role of Superconductors in Gravity Research"
+    },
+    {
+     "id": "d-materials",
+     "label": "Materials and custody analysis"
+    }
+   ],
+   "id": "e-60abb7e447",
+   "kind": "edge",
+   "label": "subject domain: superconducting materials and claimed gravitational coupling",
+   "sources": [
+    {
+     "date": "2026-08-22",
+     "name": "Released DIRD, 'The Role of Superconductors in Gravity Research' — FOIA copy, cover page read 22 August 2026",
+     "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_14-DIRD_The_Role_of_Superconductors_in_Gravity_Research.pdf"
+    },
+    {
+     "date": "2026-08-22",
+     "name": "DIA FOIA Electronic Reading Room entry for this reference document",
+     "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237631/"
+    }
+   ],
+   "text": "The paper's subject is a materials question posed as a physics question: whether a rotating high-temperature superconductor can produce a measurable gravitational anomaly. It sits with the materials strand of the DIRD set rather than with the metric-engineering strand.",
+   "tier": 1,
+   "type": "research"
+  },
+  "e-6f2a363349": {
+   "endpoints": [
+    {
+     "id": "ttsa-army-crada",
+     "label": "CRADA between U.S. Army Ground Vehicle Systems Center and To The Stars Academy"
+    },
+    {
+     "id": "ccdc-gvsc",
+     "label": "U.S. Army Combat Capabilities Development Command, Ground Vehicle Systems Center"
+    }
+   ],
+   "id": "e-6f2a363349",
+   "kind": "edge",
+   "label": "Army counterparty; Detroit Arsenal ground vehicle laboratory",
+   "sources": [
+    {
+     "date": "2020-03-12",
+     "name": "The Black Vault — Secrecy Deepens",
+     "url": "https://www.theblackvault.com/documentarchive/secrecy-deepens-about-u-s-army-agreement-to-analyze-ufo-material/"
+    }
+   ],
+   "text": "GVSC released the agreement text within a day of the announcement and withheld all associated correspondence four months later.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-72e44b85a8": {
+   "endpoints": [
+    {
+     "id": "aaro",
+     "label": "All-domain Anomaly Resolution Office (AARO)"
+    },
+    {
+     "id": "oak-ridge-national-laboratory",
+     "label": "Oak Ridge National Laboratory (UT-Battelle, LLC)"
+    }
+   ],
+   "id": "e-72e44b85a8",
+   "kind": "edge",
+   "label": "AARO contracted ORNL in 2022 to test the magnesium alloy specimen",
+   "sources": [
+    {
+     "date": "2026-07-08",
+     "name": "AARO UAP Records",
+     "url": "https://www.aaro.mil/UAP-Records/"
+    }
+   ],
+   "text": "AARO's own words: 'In 2022, The All-domain Anomaly Resolution Office (AARO) contracted with Oak Ridge National Laboratory (ORNL) to conduct materials testing on a magnesium (Mg) alloy specimen.'",
+   "tier": 1,
+   "type": "custody"
+  },
+  "e-751c8f94ee": {
+   "endpoints": [
+    {
+     "id": "ttsa-army-crada",
+     "label": "CRADA between U.S. Army Ground Vehicle Systems Center and To The Stars Academy"
+    },
+    {
+     "id": "l-detroit-arsenal",
+     "label": "Detroit Arsenal, Warren, Michigan"
+    }
+   ],
+   "id": "e-751c8f94ee",
+   "kind": "edge",
+   "label": "The CRADA was executed at Detroit Arsenal",
+   "sources": [
+    {
+     "date": "2019-10-18",
+     "name": "The Black Vault - Army/TTSA CRADA and FOIA records",
+     "url": "https://www.theblackvault.com/documentarchive/u-s-army-releases-crada-with-to-the-stars-academy-of-arts-science/"
+    },
+    {
+     "date": "2026-08-25",
+     "name": "CRADA between CCDC Ground Vehicle Systems Center and To The Stars Academy, CRADA No. 19-15 (released PDF)",
+     "url": "https://documents2.theblackvault.com/documents/army/TTSA-ARMY-CRADA.pdf"
+    }
+   ],
+   "text": "GVSC Director Jeffery Langhout signed the agreement on 10 October 2019; the Army released the text on 18 October 2019.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-780376d816": {
+   "endpoints": [
+    {
+     "id": "sean-kirkpatrick",
+     "label": "Sean M. Kirkpatrick"
+    },
+    {
+     "id": "aaro",
+     "label": "All-domain Anomaly Resolution Office (AARO)"
+    }
+   ],
+   "id": "e-780376d816",
+   "kind": "edge",
+   "label": "first Director, July 2022 - 1 December 2023",
+   "sources": [
+    {
+     "date": "2023-11-30",
+     "name": "DefenseScoop - Pentagon's UAP investigation chief to depart Dec. 1",
+     "url": "https://defensescoop.com/2023/11/30/pentagons-uap-investigation-chief-to-depart-dec-1/"
+    }
+   ],
+   "text": "Kirkpatrick led AARO from establishment through his departure on 1 December 2023, announced 7 November 2023.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-796a110be8": {
+   "endpoints": [
+    {
+     "id": "sean-kirkpatrick",
+     "label": "Sean M. Kirkpatrick"
+    },
+    {
+     "id": "oak-ridge-national-laboratory",
+     "label": "Oak Ridge National Laboratory (UT-Battelle, LLC)"
+    }
+   ],
+   "id": "e-796a110be8",
+   "kind": "edge",
+   "label": "post-government employment at the DOE lab that supported AARO and later held the UAP material sample",
+   "sources": [
+    {
+     "date": "2025-09-05",
+     "name": "The Good Trouble Show",
+     "url": "https://thegoodtroubleshow.substack.com/p/ufo-cover-up-ex-pentagon-chief-now"
+    },
+    {
+     "date": "2026-08-12",
+     "name": "Wikipedia - Sean M. Kirkpatrick",
+     "url": "https://en.wikipedia.org/wiki/Sean_M._Kirkpatrick"
+    }
+   ],
+   "text": "Kirkpatrick became CTO for Defense and Intelligence Programs at ORNL, operated by UT-Battelle, immediately after leaving AARO. The post-employment question under 18 U.S.C. 207 has been raised publicly and never adjudicated.",
+   "tier": 2,
+   "type": "funding"
+  },
+  "e-81bd5375b8": {
+   "endpoints": [
+    {
+     "id": "aaro-metallic-specimen-analysis",
+     "label": "AARO / ORNL Synopsis: Analysis of a Metallic Specimen"
+    },
+    {
+     "id": "aaro",
+     "label": "All-domain Anomaly Resolution Office (AARO)"
+    }
+   ],
+   "id": "e-81bd5375b8",
+   "kind": "edge",
+   "label": "The government's only published materials analysis, produced by a Battelle-operated laboratory",
+   "sources": [
+    {
+     "date": "2024-07-11",
+     "name": "NewsNation",
+     "url": "https://www.newsnationnow.com/space/ufo/metal-uap-not-alien/"
+    }
+   ],
+   "text": "Recorded as a denial artifact as well as a technical result: the chain of custody to any 1947 event was never established and the comparison baseline of failed magnesium alloys is admittedly incomplete.",
+   "tier": 1,
+   "type": "denial"
+  },
+  "e-856421a8cf": {
+   "endpoints": [
+    {
+     "id": "sizun-jiang",
+     "label": "Sizun Jiang"
+    },
+    {
+     "id": "paper-nolan-vallee-2022",
+     "label": "Nolan, Vallee, Jiang & Lemke (2022), Progress in Aerospace Sciences 128:100788"
+    }
+   ],
+   "id": "e-856421a8cf",
+   "kind": "edge",
+   "label": "Instrument operator and third author",
+   "sources": [
+    {
+     "date": "2022-01-01",
+     "name": "Nolan, Vallee, Jiang & Lemke, 'Improved instrumental techniques, including isotopic analysis, applicable to the characterization of unusual materials with potential relevance to aerospace forensics', Progress in Aerospace Sciences 128:100788",
+     "url": "https://doi.org/10.1016/j.paerosci.2021.100788"
+    }
+   ],
+   "text": "Jiang, then of the Nolan laboratory, ran the multiplexed ion beam imaging that produced the incomplete-mixing result.",
+   "tier": 1,
+   "type": "investigative"
+  },
+  "e-8b0c15185b": {
+   "endpoints": [
+    {
+     "id": "d-materials",
+     "label": "Materials and custody analysis"
+    },
+    {
+     "id": "d-chem",
+     "label": "Chemistry & Isotopics"
+    }
+   ],
+   "id": "e-8b0c15185b",
+   "kind": "edge",
+   "label": "Isotopics is the falsifiable test",
+   "sources": [
+    {
+     "date": "2022-01-01",
+     "name": "Nolan, Vallee, Jiang & Lemke, Progress in Aerospace Sciences 128:100788",
+     "url": "https://doi.org/10.1016/j.paerosci.2021.100788"
+    }
+   ],
+   "text": "The Nolan-Vallee methodology paper specifies isotope ratio measurement as the discriminating test; the chemistry domain is where that test is run.",
+   "tier": 1,
+   "type": "research"
+  },
+  "e-9a84fa729f": {
+   "endpoints": [
+    {
+     "id": "sol-foundation",
+     "label": "The Sol Foundation"
+    },
+    {
+     "id": "paper-nolan-vallee-2022",
+     "label": "Nolan, Vallee, Jiang & Lemke (2022), Progress in Aerospace Sciences 128:100788"
+    }
+   ],
+   "id": "e-9a84fa729f",
+   "kind": "edge",
+   "label": "Sol Briefing No. 3 is the authoritative public exposition of the paper",
+   "sources": [
+    {
+     "date": "2026-04-01",
+     "name": "The Sol Foundation Science and Policy Briefings No. 3, Marik von Rennenkampff, 'First Peer-Reviewed Scientific Analysis of Possible UAP Materials Employs State-of-the-Art Technologies'",
+     "url": "https://thesolfoundation.org/wp-content/uploads/2026/04/Sol_Policy_Briefing_Number_3-1.pdf"
+    }
+   ],
+   "text": "The April 2026 briefing sets out the witness record, the 1978 initial identification, the SIMS/MIBI methodology and each hypothesis-elimination with its physical reason - work no journalism had done.",
+   "tier": 1,
+   "type": "investigative"
+  },
+  "e-9e3d5cc426": {
+   "endpoints": [
+    {
+     "id": "doe",
+     "label": "United States Department of Energy"
+    },
+    {
+     "id": "oak-ridge-national-laboratory",
+     "label": "Oak Ridge National Laboratory (UT-Battelle, LLC)"
+    }
+   ],
+   "id": "e-9e3d5cc426",
+   "kind": "edge",
+   "label": "DOE laboratory performed AARO's metallic specimen analysis",
+   "sources": [
+    {
+     "date": "2024-03-08",
+     "name": "AARO Historical Record Report Volume I (DOPSR-2024-0263)",
+     "url": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF"
+    }
+   ],
+   "text": "AARO's published materials analysis synopsis was produced with Oak Ridge National Laboratory, a DOE laboratory - meaning DOE analytical capability was the government's chosen instrument for testing alleged recovered material.",
+   "tier": 1,
+   "type": "research"
+  },
+  "e-a770d67d68": {
+   "endpoints": [
+    {
+     "id": "ttsa-army-crada",
+     "label": "CRADA between U.S. Army Ground Vehicle Systems Center and To The Stars Academy"
+    },
+    {
+     "id": "aaro-metallic-specimen-analysis",
+     "label": "AARO / ORNL Synopsis: Analysis of a Metallic Specimen"
+    }
+   ],
+   "id": "e-a770d67d68",
+   "kind": "edge",
+   "label": "The privately held specimen passed from the company through the Army to AARO and then to ORNL",
+   "sources": [
+    {
+     "date": "2024-03-08",
+     "name": "AARO, 'Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP), Volume I'",
+     "url": "https://documents2.theblackvault.com/documents/dod/AARO_Historical_Record_Report_Volume_1_2024.pdf"
+    },
+    {
+     "date": "2024-07-11",
+     "name": "The Black Vault, 'AARO Releases Findings on Suspected Extraterrestrial Alloy' (ORNL analysis of the magnesium specimen)",
+     "url": "https://www.theblackvault.com/documentarchive/aaro-releases-findings-on-suspected-extraterrestrial-alloy/"
+    },
+    {
+     "date": "2020-08-03",
+     "name": "SEC EDGAR: To The Stars Academy of Arts and Science Form 1-A Exhibit 6.28 - CRADA 19-15 'Novel & Emerging Technology Exploitation' with U.S. Army CCDC Ground Vehicle Systems Center",
+     "url": "https://www.sec.gov/Archives/edgar/data/1710274/000110465920089220/tm2023098d2_ex6-28.htm"
+    }
+   ],
+   "text": "AARO confirms the organisation 'negotiated an agreement in 2019 with the U.S. Army to analyze the samples' and that AARO subsequently acquired the sample with stakeholder permission. This is the only fully documented custody chain in the entire domain.",
+   "tier": 1,
+   "type": "custody"
+  },
+  "e-a858e2c144": {
+   "endpoints": [
+    {
+     "id": "adam-research-project",
+     "label": "ADAM Research Project (Acquisition and Data Analysis of Materials)"
+    },
+    {
+     "id": "harold-puthoff",
+     "label": "Harold E. Puthoff"
+    }
+   ],
+   "id": "e-a858e2c144",
+   "kind": "edge",
+   "label": "Samples routed to laboratories founded by Puthoff",
+   "sources": [
+    {
+     "date": "2026-08-12",
+     "name": "Wikipedia: To The Stars Inc.",
+     "url": "https://en.wikipedia.org/wiki/To_the_Stars_(company)."
+    },
+    {
+     "date": "2019-11-14",
+     "name": "M.J. Banias, 'UFO Researcher Explains Why She Sold Exotic Metal to Tom DeLonge', Vice",
+     "url": "https://www.vice.com/en/article/ufo-researcher-explains-why-she-sold-exotic-metal-to-tom-delonge/"
+    }
+   ],
+   "text": "TTSA partnered with Puthoff-founded laboratories to study the ADAM materials; Puthoff had already tested the same Howe samples privately, reporting in a 2012 letter that no anomalous outcome had been obtained.",
+   "tier": 2,
+   "type": "custody"
+  },
+  "e-b6aa2b00c2": {
+   "endpoints": [
+    {
+     "id": "luis-elizondo",
+     "label": "Luis D. Elizondo"
+    },
+    {
+     "id": "ttsa-army-crada",
+     "label": "CRADA between U.S. Army Ground Vehicle Systems Center and To The Stars Academy"
+    }
+   ],
+   "id": "e-b6aa2b00c2",
+   "kind": "edge",
+   "label": "Named as TTSA's principal investigator on the Army agreement",
+   "sources": [
+    {
+     "date": "2019-10-18",
+     "name": "The War Zone",
+     "url": "https://www.twz.com/30498/the-army-wants-to-verify-to-the-stars-academys-fantastic-ufo-mystery-material-claims"
+    }
+   ],
+   "text": "Two years after resigning from OUSD(I), Elizondo is the named private-sector counterpart to an Army laboratory on an exotic-materials instrument.",
+   "tier": 1,
+   "type": "custody"
+  },
+  "e-bdaea677e8": {
+   "endpoints": [
+    {
+     "id": "battelle",
+     "label": "Battelle Memorial Institute"
+    },
+    {
+     "id": "oak-ridge-national-laboratory",
+     "label": "Oak Ridge National Laboratory (UT-Battelle, LLC)"
+    }
+   ],
+   "id": "e-bdaea677e8",
+   "kind": "edge",
+   "label": "Battelle co-operates ORNL through UT-Battelle, LLC",
+   "sources": [
+    {
+     "date": "2026-08-12",
+     "name": "USAspending.gov",
+     "url": "https://www.usaspending.gov/"
+    },
+    {
+     "date": "2026-08-12",
+     "name": "NSF NCSES FFRDC master list",
+     "url": "https://ncses.nsf.gov/resource/master-gov-lists-ffrdc"
+    }
+   ],
+   "text": "Contract DEAC0500OR22725, recorded at approximately $42.3 billion, running 1999-2030.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-be6b80da0f": {
+   "endpoints": [
+    {
+     "id": "dird-ultracapacitors-as-energy-and-power-storage",
+     "label": "Ultracapacitors as Energy and Power Storage Devices for Commercial and Military Applications"
+    },
+    {
+     "id": "d-materials",
+     "label": "Materials and custody analysis"
+    }
+   ],
+   "id": "e-be6b80da0f",
+   "kind": "edge",
+   "label": "subject domain: energy-storage materials for commercial and military applications",
+   "sources": [
+    {
+     "date": "2026-08-22",
+     "name": "Released DIRD, 'Ultracapacitors as Energy and Power Storage Devices for Commercial and' — FOIA copy, cover page read 22 August 2026",
+     "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_32-DIRD_Ultracapacitators_as_Energy_and_Power_Storage_Devices.pdf"
+    },
+    {
+     "date": "2026-08-22",
+     "name": "DIA FOIA Electronic Reading Room entry for this reference document",
+     "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237620/"
+    }
+   ],
+   "text": "Electrode and electrolyte materials science applied to high-power energy storage. One of the DIRDs with immediate conventional military application and no anomalous content.",
+   "tier": 1,
+   "type": "research"
+  },
+  "e-c3bf086871": {
+   "endpoints": [
+    {
+     "id": "adam-research-project",
+     "label": "ADAM Research Project (Acquisition and Data Analysis of Materials)"
+    },
+    {
+     "id": "d-materials",
+     "label": "Materials and custody analysis"
+    }
+   ],
+   "id": "e-c3bf086871",
+   "kind": "edge",
+   "label": "Custody chain: anonymous source to Art Bell, to Linda Moulton Howe, to Carnegie DTM (1996), to Puthoff, to TTSA (2019), to the US Army",
+   "sources": [
+    {
+     "date": "2019-11-14",
+     "name": "M.J. Banias, 'UFO Researcher Explains Why She Sold Exotic Metal to Tom DeLonge', Vice",
+     "url": "https://www.vice.com/en/article/ufo-researcher-explains-why-she-sold-exotic-metal-to-tom-delonge/"
+    },
+    {
+     "date": "2019-10-04",
+     "name": "M.J. Banias, 'Tom DeLonge's UFO Research Company Paid $35,000 for Exotic Metals That Might Actually Just Be Slag', Vice",
+     "url": "https://www.vice.com/en/article/tom-delonges-ufo-research-company-paid-dollar35000-for-exotic-metals-that-might-actually-just-be-bismuth/"
+    }
+   ],
+   "text": "Howe says the samples were tested by Carnegie Science's Department of Terrestrial Magnetism in 1996 and by Puthoff on several later occasions before TTSA bought them for $35,000 in 2019.",
+   "tier": 2,
+   "type": "custody"
+  },
+  "e-c94c08f95e": {
+   "endpoints": [
+    {
+     "id": "oak-ridge-national-laboratory",
+     "label": "Oak Ridge National Laboratory (UT-Battelle, LLC)"
+    },
+    {
+     "id": "aaro-metallic-specimen-analysis",
+     "label": "AARO / ORNL Synopsis: Analysis of a Metallic Specimen"
+    }
+   ],
+   "id": "e-c94c08f95e",
+   "kind": "edge",
+   "label": "Produced 'ORNL Synopsis: Analysis of a Metallic Specimen', April 2024",
+   "sources": [
+    {
+     "date": "2026-07-08",
+     "name": "AARO UAP Records",
+     "url": "https://www.aaro.mil/UAP-Records/"
+    },
+    {
+     "date": "2024-07-11",
+     "name": "Gizmodo",
+     "url": "https://gizmodo.com/pentagon-publishes-report-on-material-from-a-reported-alien-aircraft-2000469433"
+    }
+   ],
+   "text": "Released publicly July 2024; concluded the material is a terrestrial magnesium alloy, while stating that neither AARO nor ORNL could verify the specimen's historical origin.",
+   "tier": 1,
+   "type": "custody"
+  },
+  "e-d398b4bc8c": {
+   "endpoints": [
+    {
+     "id": "aaro-historical-record-vol1",
+     "label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+    },
+    {
+     "id": "aaro-ornl-materials-analyses",
+     "label": "AARO / Oak Ridge National Laboratory materials analyses"
+    }
+   ],
+   "id": "e-d398b4bc8c",
+   "kind": "edge",
+   "label": "The materials line of effort and its published scope",
+   "sources": [
+    {
+     "date": "2024-03-08",
+     "name": "AARO Historical Record Report Volume I (DOPSR-2024-0263)",
+     "url": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF"
+    },
+    {
+     "date": "2026-01-01",
+     "name": "AARO/ORNL - Analysis of an Aluminum Specimen",
+     "url": "https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/ORNL_ANALYSIS_OF_AN_ALUMINUM_SPECIMEN.pdf"
+    },
+    {
+     "date": "2026-01-01",
+     "name": "AARO - Aluminum Materials Analysis Supplement (Jan 2026)",
+     "url": "https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Aluminum_Materials_Analysis_Supplement_Jan2026.pdf"
+    }
+   ],
+   "text": "Volume I's magnesium-zinc-bismuth finding and the ORNL magnesium and aluminium analyses are the only physical-specimen work AARO has published.",
+   "tier": 1,
+   "type": "investigative"
+  },
+  "e-d8e5456391": {
+   "endpoints": [
+    {
+     "id": "joseph-cannon",
+     "label": "Dr. Joseph Cannon"
+    },
+    {
+     "id": "ttsa-army-crada",
+     "label": "CRADA between U.S. Army Ground Vehicle Systems Center and To The Stars Academy"
+    }
+   ],
+   "id": "e-d8e5456391",
+   "kind": "edge",
+   "label": "Government principal investigator",
+   "sources": [
+    {
+     "date": "2019-10-17",
+     "name": "PR Newswire — CRADA announcement",
+     "url": "https://www.prnewswire.com/news-releases/to-the-stars-academy-of-arts--science-announces-crada-with-the-us-army-combat-capabilities-development-command-to-advance-materiel-and-technology-innovations-300940211.html"
+    }
+   ],
+   "text": "Named in the agreement alongside Bean Soave and quoted in the announcement calling TTSA 'an exciting, non-traditional source for novel materials'.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-f0a242043d": {
+   "endpoints": [
+    {
+     "id": "adam-research-project",
+     "label": "ADAM Research Project (Acquisition and Data Analysis of Materials)"
+    },
+    {
+     "id": "earthtech-international",
+     "label": "EarthTech International / Institute for Advanced Studies at Austin"
+    }
+   ],
+   "id": "e-f0a242043d",
+   "kind": "edge",
+   "label": "Research partnership from August 2018",
+   "sources": [
+    {
+     "date": "2020-07-24",
+     "name": "SEC EDGAR — TTSA offering exhibit",
+     "url": "https://www.sec.gov/Archives/edgar/data/1710274/000110465920089220/tm2023098d2_ex13-1.htm"
+    },
+    {
+     "date": "2018-10-15",
+     "name": "Vice — $37.4 Million Deficit",
+     "url": "https://www.vice.com/en/article/tom-delonges-ufo-organization-is-37-million-in-debt/"
+    }
+   ],
+   "text": "Puthoff's Austin laboratory is where the specimens were characterised. No results have been published.",
+   "tier": 1,
+   "type": "programmatic"
+  },
+  "e-f9175cdfd1": {
+   "endpoints": [
+    {
+     "id": "im1-pacific-expedition-2023",
+     "label": "Galileo Project Pacific Ocean expedition to the CNEOS 2014-01-08 (IM1) site, June-July 2023"
+    },
+    {
+     "id": "d-materials",
+     "label": "Materials and custody analysis"
+    }
+   ],
+   "id": "e-f9175cdfd1",
+   "kind": "edge",
+   "label": "The control case: what a public physical-recovery attempt looks like, failures included",
+   "sources": [
+    {
+     "date": "2024-01-31",
+     "name": "Loeb et al., 'Recovery and Classification of Spherules from the Pacific Ocean Site of the CNEOS 2014 January 8 (IM1) Bolide', Research Notes of the AAS",
+     "url": "https://doi.org/10.3847/2515-5172/ad2370"
+    },
+    {
+     "date": "2025-03-01",
+     "name": "Rudraswami, Singh & Pandey, 'Re-evaluation of the spherules proposed origin recovered from the Pacific Ocean site of the CNEOS 2014-01-08 (IM1) bolide', Chemical Geology",
+     "url": "https://doi.org/10.1016/j.chemgeo.2025.122628"
+    },
+    {
+     "date": "2026-08-12",
+     "name": "Wikipedia: CNEOS 2014-01-08",
+     "url": "https://en.wikipedia.org/wiki/CNEOS_2014-01-08"
+    }
+   ],
+   "text": "Claim, rebuttal and re-analysis all appeared in the peer-reviewed literature within eighteen months. That is the benchmark against which seventy years of unpublished government custody should be judged.",
+   "tier": 3,
+   "type": "investigative"
+  },
+  "e-fe0196fcd3": {
+   "endpoints": [
+    {
+     "id": "sean-kirkpatrick",
+     "label": "Sean M. Kirkpatrick"
+    },
+    {
+     "id": "aaro-ornl-materials-analyses",
+     "label": "AARO / Oak Ridge National Laboratory materials analyses"
+    }
+   ],
+   "id": "e-fe0196fcd3",
+   "kind": "edge",
+   "label": "former director at the laboratory that tests the specimens",
+   "sources": [
+    {
+     "date": "2026-08-12",
+     "name": "Wikipedia, All-domain Anomaly Resolution Office",
+     "url": "https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office"
+    },
+    {
+     "date": "2026-01",
+     "name": "AARO Aluminum Materials Analysis Supplement, January 2026",
+     "url": "https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Aluminum_Materials_Analysis_Supplement_Jan2026.pdf"
+    }
+   ],
+   "text": "Recorded for proximity, not impropriety: the ORNL aluminium analysis and AARO supplement appeared in January 2026 while Kirkpatrick was CTO for defense and intelligence programs there.",
+   "tier": 3,
+   "type": "research"
+  }
+ },
+ "claimed": [
+  {
+   "cite": [
+    "c-ab1cf2b91f",
+    "c-8dec80810b",
+    "c-a6f44c2515"
+   ],
+   "text": "To The Stars Academy announced in July 2019 that it had acquired metamaterials it described as originating from an advanced aerospace vehicle of unknown origin. Its executive Steve Justice, a former Skunk Works program director, said their structure and composition are \"not from any known existing military or commercial application\"."
+  },
+  {
+   "cite": [
+    "c-2e887f4156",
+    "e-c3bf086871",
+    "c-465fcfda79"
+   ],
+   "text": "How the ADAM samples reached the company: Linda Moulton Howe says they were tested by Carnegie Science's Department of Terrestrial Magnetism in 1996 and again by Harold Puthoff and others on several occasions. The board's own reconstruction, which no single document sets out, runs from an anonymous source to Art Bell in the 1990s, to Howe, to Carnegie and Puthoff, to To The Stars for $35,000, to the Army agreement, and then goes dark until AARO's acquisition."
+  },
+  {
+   "cite": [
+    "c-940cc35161",
+    "e-2e18001412"
+   ],
+   "text": "Justice himself stated that the materials \"have been collected from sources with varying levels of chain-of-custody documentation\"."
+  },
+  {
+   "cite": [
+    "c-ec9b541df3"
+   ],
+   "text": "On the board's inference, ADAM's value was custodial and legal rather than scientific: it created a private chain of custody outside the classification system, the only posture under which such material could go to an Army laboratory under an unclassified instrument."
+  },
+  {
+   "cite": [
+    "c-5a94a81f13"
+   ],
+   "text": "The magnesium specimen sent to Oak Ridge was, according to AARO's records page, publicly alleged to come from a crashed extraterrestrial vehicle of 1947."
+  },
+  {
+   "cite": [
+    "c-1d267ac2fe"
+   ],
+   "text": "Garry Nolan has said that study of small samples of exotic material could yield \"hundreds of technology revolutions\"."
+  },
+  {
+   "cite": [
+    "c-75c22fe63f"
+   ],
+   "text": "Reporting by NewsNation and Popular Mechanics says ORNL scientists examined the magnesium specimen for technosignatures using scanning transmission electron microscopy after finding no biosignatures, and found no evidence of extraterrestrial origin."
+  },
+  {
+   "cite": [
+    "c-9a31b9959a",
+    "c-da3e0ff244"
+   ],
+   "text": "The retired Senate Armed Services staffer Kirk McConnell said on American Alchemy in April 2025 that the contract forming AARO's advisory group under Kirkpatrick was let through Oak Ridge. He does not allege wrongdoing and does not name the group, and no such task order was located."
+  }
+ ],
+ "contested": [
+  {
+   "cite": [
+    "c-21cce3f392",
+    "c-17ddeeb978",
+    "e-81bd5375b8",
+    "e-060fc949a2"
+   ],
+   "text": "The Oak Ridge finding does not settle the question it arose from: AARO's reports say the specimen's \"undocumented chain of custody and conflicting personal accounts\" leave its origin unclear, neither AARO nor ORNL could verify its historical origin, and the comparison baseline of failed magnesium alloys is admittedly incomplete."
+  },
+  {
+   "cite": [
+    "c-d0db5ba070",
+    "e-a858e2c144",
+    "e-f0a242043d"
+   ],
+   "text": "Puthoff, who had tested the same Howe samples privately, reported in a 2012 letter that testing had not proved alien origin nor produced any anomalous outcome, with one test pending. EarthTech, the company's research partner, has published no results."
+  },
+  {
+   "cite": [
+    "c-e50b8bbcfc"
+   ],
+   "text": "The Army did not endorse the claimed origin: its public affairs officer said the Army's interest was in novel materials and that any speculation as to their origin is immaterial."
+  },
+  {
+   "cite": [
+    "c-0f74178f4f",
+    "c-a05bfe2b83"
+   ],
+   "text": "The Council Bluffs material has been read conventionally from the start: analyses in the weeks after the event found high-carbon steel and slag, and the 2022 study found no anomalous isotopic values. What remains unexplained is the industrial process, not the isotopes."
+  },
+  {
+   "cite": [
+    "c-5eda019de8",
+    "c-4be2b23799",
+    "c-60887b5651"
+   ],
+   "text": "The IM1 spherule claims were contested in the peer-reviewed literature: Rudraswami, Singh and Pandey re-evaluated the spherules' proposed origin in Chemical Geology in March 2025, Fernando et al. argued the seismic signal used to localise the search was consistent with truck traffic, and Gallardo argued for coal-ash contamination."
+  },
+  {
+   "cite": [
+    "c-6dbef477f9",
+    "c-1ea247310f"
+   ],
+   "text": "AARO's FY2025 report states that no entity has ever captured or exploited UAP-derived materials while noting it is developing procedures for handling such material. The board infers that two laboratory characterisations of voluntarily surrendered specimens cannot bear the weight of that general negative, since the allegation concerns holdings AARO has never inspected and cannot compel."
+  },
+  {
+   "cite": [
+    "e-796a110be8",
+    "e-fe0196fcd3",
+    "e-4881201fcb"
+   ],
+   "text": "Kirkpatrick's move to the laboratory that analysed AARO's specimens has drawn a post-employment question that has been raised publicly and never adjudicated. The board records the January 2026 aluminium analysis appearing while he was there for proximity, not impropriety."
+  },
+  {
+   "cite": [
+    "c-465fcfda79",
+    "e-a770d67d68",
+    "c-21cce3f392"
+   ],
+   "text": "The board's own items disagree about the ADAM chain: one reconstruction has it going dark at the 2019 Army agreement, another follows the specimen through the Army to AARO and Oak Ridge on AARO's own wording and calls it fully documented, and AARO itself calls the specimen's chain of custody undocumented."
+  }
+ ],
  "essays": [],
  "focusEra": "3",
  "id": "specimens",
  "kind": "allegation",
- "lead": null,
- "members": [],
+ "lead": {
+  "cite": [
+   "e-8b0c15185b",
+   "c-3aba54fde6",
+   "c-cabfe87d1f",
+   "c-decd0fa511",
+   "c-5868af5613",
+   "c-53962f4042"
+  ],
+  "text": "Physical material is where the argument could be settled by measurement rather than testimony. The board holds three lines of analysis: a peer-reviewed study of the 1977 Council Bluffs molten mass, the To The Stars ADAM samples that passed into an Army research agreement, and AARO's Oak Ridge analyses of a magnesium and an aluminium specimen, both of which came back as terrestrial or conventional alloys."
+ },
+ "members": [
+  {
+   "cls": "document",
+   "id": "paper-nolan-vallee-2022",
+   "label": "Nolan, Vallee, Jiang & Lemke (2022), Progress in Aerospace Sciences 128:100788",
+   "role": "document"
+  },
+  {
+   "cls": "event",
+   "id": "council-bluffs-1977",
+   "label": "Council Bluffs, Iowa molten metal fall, 17 December 1977",
+   "role": "event"
+  },
+  {
+   "cls": "document",
+   "id": "aaro-metallic-specimen-analysis",
+   "label": "AARO / ORNL Synopsis: Analysis of a Metallic Specimen",
+   "role": "document"
+  },
+  {
+   "cls": "document",
+   "id": "aaro-ornl-materials-analyses",
+   "label": "AARO / Oak Ridge National Laboratory materials analyses",
+   "role": "document"
+  },
+  {
+   "cls": "institution",
+   "id": "oak-ridge-national-laboratory",
+   "label": "Oak Ridge National Laboratory (UT-Battelle, LLC)",
+   "role": "institution"
+  },
+  {
+   "cls": "program",
+   "id": "adam-research-project",
+   "label": "ADAM Research Project (Acquisition and Data Analysis of Materials)",
+   "role": "programme"
+  },
+  {
+   "cls": "document",
+   "id": "ttsa-army-crada",
+   "label": "CRADA between U.S. Army Ground Vehicle Systems Center and To The Stars Academy",
+   "role": "document"
+  },
+  {
+   "cls": "institution",
+   "id": "ttsa",
+   "label": "To The Stars Academy of Arts & Science Inc. (later To The Stars Inc.)",
+   "role": "institution"
+  },
+  {
+   "cls": "institution",
+   "id": "earthtech-international",
+   "label": "EarthTech International / Institute for Advanced Studies at Austin",
+   "role": "institution"
+  },
+  {
+   "cls": "institution",
+   "id": "battelle",
+   "label": "Battelle Memorial Institute",
+   "role": "contractor"
+  },
+  {
+   "cls": "institution",
+   "id": "doe",
+   "label": "United States Department of Energy",
+   "role": "institution"
+  },
+  {
+   "cls": "institution",
+   "id": "aaro",
+   "label": "All-domain Anomaly Resolution Office (AARO)",
+   "role": "institution"
+  },
+  {
+   "cls": "document",
+   "id": "aaro-historical-record-vol1",
+   "label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
+   "role": "document"
+  },
+  {
+   "cls": "institution",
+   "id": "ccdc-gvsc",
+   "label": "U.S. Army Combat Capabilities Development Command, Ground Vehicle Systems Center",
+   "role": "institution"
+  },
+  {
+   "cls": "location",
+   "id": "l-detroit-arsenal",
+   "label": "Detroit Arsenal, Warren, Michigan",
+   "role": "place"
+  },
+  {
+   "cls": "person",
+   "id": "garry-nolan",
+   "label": "Garry Nolan",
+   "role": "researcher"
+  },
+  {
+   "cls": "person",
+   "id": "jacques-vallee",
+   "label": "Jacques F. Vallee",
+   "role": "researcher"
+  },
+  {
+   "cls": "person",
+   "id": "sizun-jiang",
+   "label": "Sizun Jiang",
+   "role": "researcher"
+  },
+  {
+   "cls": "person",
+   "id": "larry-lemke",
+   "label": "Larry G. Lemke",
+   "role": "researcher"
+  },
+  {
+   "cls": "institution",
+   "id": "stanford-nolan-lab",
+   "label": "Nolan Laboratory, Stanford University School of Medicine",
+   "role": "institution"
+  },
+  {
+   "cls": "institution",
+   "id": "sol-foundation",
+   "label": "The Sol Foundation",
+   "role": "institution"
+  },
+  {
+   "cls": "person",
+   "id": "harold-puthoff",
+   "label": "Harold E. Puthoff",
+   "role": "researcher"
+  },
+  {
+   "cls": "person",
+   "id": "steve-justice",
+   "label": "Steve Justice",
+   "role": "claimant"
+  },
+  {
+   "cls": "person",
+   "id": "luis-elizondo",
+   "label": "Luis D. Elizondo",
+   "role": "contractor"
+  },
+  {
+   "cls": "person",
+   "id": "kari-delonge",
+   "label": "Kari DeLonge",
+   "role": "contractor"
+  },
+  {
+   "cls": "person",
+   "id": "jeffery-langhout",
+   "label": "Jeffery Langhout",
+   "role": "official"
+  },
+  {
+   "cls": "person",
+   "id": "joseph-cannon",
+   "label": "Dr. Joseph Cannon",
+   "role": "official"
+  },
+  {
+   "cls": "person",
+   "id": "sean-kirkpatrick",
+   "label": "Sean M. Kirkpatrick",
+   "role": "official"
+  },
+  {
+   "cls": "event",
+   "id": "im1-pacific-expedition-2023",
+   "label": "Galileo Project Pacific Ocean expedition to the CNEOS 2014-01-08 (IM1) site, June-July 2023",
+   "role": "event"
+  },
+  {
+   "cls": "person",
+   "id": "avi-loeb",
+   "label": "Abraham 'Avi' Loeb",
+   "role": "researcher"
+  },
+  {
+   "cls": "document",
+   "id": "dird-aerospace-applications-of-programmable-matter",
+   "label": "Aerospace Applications of Programmable Matter",
+   "role": "document"
+  },
+  {
+   "cls": "document",
+   "id": "dird-invisibility-cloaking-theory-and-experiments",
+   "label": "Invisibility Cloaking: Theory and Experiments",
+   "role": "document"
+  },
+  {
+   "cls": "document",
+   "id": "dird-the-role-of-superconductors-in-gravity",
+   "label": "The Role of Superconductors in Gravity Research",
+   "role": "document"
+  },
+  {
+   "cls": "document",
+   "id": "dird-ultracapacitors-as-energy-and-power-storage",
+   "label": "Ultracapacitors as Energy and Power Storage Devices for Commercial and Military Applications",
+   "role": "document"
+  }
+ ],
  "notes": "The analyses of physical material, from the ADAM samples to AARO's metallic specimen report and the Oak Ridge analyses.",
- "questions": [],
- "record": [],
- "related": [],
+ "questions": [
+  "What happened to the ADAM samples after the Army agreement was signed, and did the agreement ever produce a characterisation, a technical output or a statement of findings?",
+  "When did the Army agreement end? The released document gives a term to 30 September 2023, while another account on the board speaks of a five-year term.",
+  "Which samples have Puthoff's laboratories received, from whom, and under what documentation?",
+  "Does any of the material Nolan has examined carry a documented federal chain of custody, and where would that documentation be held?",
+  "What is the full inventory of Vallee's materials collection, and which items can be traced back to their incident?",
+  "Does Kirkpatrick have any role in Oak Ridge's specimen work for AARO, and did any recusal arrangement cover it?",
+  "Has AARO ever had authority to inspect or compel the contractor holdings the allegations concern, or does its negative rest on voluntary statements?"
+ ],
+ "record": [
+  {
+   "cite": [
+    "c-2874240153",
+    "c-a61fcd4cb5",
+    "e-5a9c099223",
+    "e-856421a8cf",
+    "e-2a1bc41b34"
+   ],
+   "text": "Nolan, Vallee, Jiang and Lemke published an instrumental analysis of the Council Bluffs material in Progress in Aerospace Sciences 128 (2022), article 100788. The Nolan laboratory at Stanford applied SIMS and MIBI to the samples at 200 nanometre lateral resolution and five-nanometre depth increments."
+  },
+  {
+   "cite": [
+    "c-a05bfe2b83",
+    "c-54e8823326",
+    "c-bf51579601"
+   ],
+   "text": "The analysis found no anomalous isotopic values but incomplete mixing of the metals in the once-molten mass, indicating an industrial process of unknown origin. Meteorite, satellite or spacecraft debris, aircraft debris, dumped molten metal and thermite were each examined and ruled out on physical grounds."
+  },
+  {
+   "cite": [
+    "c-975eb77858",
+    "c-0f74178f4f",
+    "e-308635d59d"
+   ],
+   "text": "At Council Bluffs on the evening of 17 December 1977, five independent groups of witnesses saw a red luminous mass descend near a park; the assistant fire chief described a mass of molten metal about four by six feet, and police photographed the scene. Analyses in the weeks after found high-carbon steel and slag. Vallee supplied both the material and the documentary case record for the 2022 study."
+  },
+  {
+   "cite": [
+    "c-7a1dcfe1fa",
+    "c-0c3f9958a1",
+    "c-5868af5613",
+    "e-72e44b85a8",
+    "e-c94c08f95e"
+   ],
+   "text": "AARO contracted Oak Ridge National Laboratory in 2022 to test a magnesium alloy specimen it had acquired, with stakeholder permission, from a private UAP organisation and the US Army. ORNL assessed the specimen as terrestrial in origin and as not meeting the theoretical requirements to function as a terahertz waveguide."
+  },
+  {
+   "cite": [
+    "c-e3ce3f022d",
+    "e-d398b4bc8c"
+   ],
+   "text": "AARO's Historical Record Report Volume I determined that an alleged extraterrestrial spacecraft sample was a manufactured terrestrial alloy of magnesium, zinc and bismuth with trace elements."
+  },
+  {
+   "cite": [
+    "c-4915b47989",
+    "c-53962f4042"
+   ],
+   "text": "AARO's January 2026 Aluminum Materials Analysis Supplement reports an ORNL analysis of a specimen recovered near Flint Ridge State Park, Ohio, whose composition matched Aluminum Association reference alloys 369.1 and A413.1, with no radioactive emissions."
+  },
+  {
+   "cite": [
+    "c-cabfe87d1f",
+    "c-5344d76b86",
+    "c-f1aa52f89a",
+    "e-02e6600133",
+    "c-1c248fc4ca"
+   ],
+   "text": "To The Stars Academy's SEC filings describe the ADAM Research Project as acquiring and analysing material samples from advanced aerospace vehicles of unknown origin, in partnership with EarthTech International from August 2018, and record the company paying $35,000 for items including six pieces of bismuth/magnesium-zinc metal and a piece of aluminium."
+  },
+  {
+   "cite": [
+    "c-925dda206a",
+    "c-8ccc9f233c",
+    "e-54788b2efd",
+    "e-168e63c2b9",
+    "e-d8e5456391",
+    "e-b6aa2b00c2",
+    "e-751c8f94ee",
+    "c-5ad7f70ff2"
+   ],
+   "text": "CRADA 19-15 between To The Stars Academy and the Army's Ground Vehicle Systems Center was signed on 10 October 2019 at Detroit Arsenal by Jeffery Langhout for the Army and Kari DeLonge for the company, with Dr. Joseph Cannon among the government principal investigators and Luis Elizondo as the company's. Its research areas include inertial mass reduction, metamaterials and electromagnetic metamaterial waveguides."
+  },
+  {
+   "cite": [
+    "e-a770d67d68",
+    "e-060fc949a2"
+   ],
+   "text": "The board's custody record joins the two lines: the privately held specimen passed from the company through the Army to AARO and then to ORNL. AARO confirms the organisation negotiated an agreement in 2019 with the Army to analyse the samples."
+  },
+  {
+   "cite": [
+    "c-4ded6c289b",
+    "e-6f2a363349"
+   ],
+   "text": "On 21 February 2020 the Army's CCDC FOIA officer denied in full twenty-nine emails, one hundred pages, of TTSA-Army correspondence under exemptions (b)(4) and (b)(5); GVSC had released the agreement text within a day of the announcement."
+  },
+  {
+   "cite": [
+    "e-9e3d5cc426",
+    "e-bdaea677e8",
+    "c-196584e386",
+    "c-2cd54efb1b",
+    "e-780376d816"
+   ],
+   "text": "Oak Ridge is a DOE laboratory administered by UT-Battelle, the partnership through which Battelle co-operates it. Sean Kirkpatrick, AARO's first director, left AARO on 1 December 2023 and became Chief Technology Officer for Defense and Intelligence Programs at ORNL."
+  },
+  {
+   "cite": [
+    "c-8c5c34b04d",
+    "c-fcdf6b4e3d",
+    "c-5145eec815",
+    "c-197e4a06f1"
+   ],
+   "text": "From the Galileo Project's IM1 expedition, Loeb and colleagues published the recovery and classification of spherules in Research Notes of the AAS in January 2024 and a chemical classification in Chemical Geology in December 2024; Hyung, Cherston, Jacobsen and Loeb followed in March 2025 on the morphology and chemistry of D-type spherules."
+  },
+  {
+   "cite": [
+    "e-9a84fa729f"
+   ],
+   "text": "The Sol Foundation's Briefing No. 3 of April 2026 is the board's main public exposition of the 2022 paper, setting out the witness record, the 1978 identification, the method and each elimination."
+  }
+ ],
+ "related": [
+  "aaro",
+  "aaro-historical-record",
+  "ttsa",
+  "dirds",
+  "ffrdc-probes",
+  "academic-science",
+  "astronomers-searches",
+  "biology-medical",
+  "crash-claims",
+  "battelle-nitinol"
+ ],
  "section": "science-technology",
  "span": {
   "from": "1996",
   "to": "2026"
  },
- "status": "draft",
- "summary": [],
+ "status": "verified",
+ "summary": [
+  {
+   "cite": [
+    "e-8b0c15185b",
+    "c-3aba54fde6"
+   ],
+   "text": "The board treats isotope ratio measurement as the discriminating test: the Nolan-Vallee methodology paper specifies it, and the chemistry domain is where that test is run."
+  },
+  {
+   "cite": [
+    "c-534b2610bf"
+   ],
+   "text": "On the board's reading, only one alleged UAP sample has a complete public chain of custody from incident through analysis to peer-reviewed publication, the 1977 Council Bluffs mass; every other significant chain ends in a private laboratory, a corporate holding or an unpublished federal agreement. This is the board's inference, not a finding of any document, and the board's own custody record for the ADAM line runs further (see below)."
+  },
+  {
+   "cite": [
+    "e-d398b4bc8c",
+    "c-decd0fa511"
+   ],
+   "text": "AARO's published physical-specimen work consists of Volume I's magnesium-zinc-bismuth finding and two Oak Ridge National Laboratory analyses, one of a magnesium specimen in April 2024 and one of an aluminium specimen with an AARO supplement dated January 2026."
+  },
+  {
+   "cite": [
+    "e-f9175cdfd1",
+    "c-8c5c34b04d"
+   ],
+   "text": "The board reads the Galileo Project's 2023 Pacific expedition to the IM1 bolide site as a control case, in which claim, rebuttal and re-analysis all appeared in the peer-reviewed literature within eighteen months; this is stated as the board's inference."
+  },
+  {
+   "cite": [
+    "e-2820fe4a56",
+    "e-20a5e5c39e",
+    "e-60abb7e447",
+    "e-be6b80da0f"
+   ],
+   "text": "The AAWSAP reference documents released by DIA include a materials strand: programmable matter, invisibility cloaking, superconductors in gravity research and ultracapacitors, the last described as having immediate conventional military application and no anomalous content."
+  }
+ ],
  "title": "Physical material and specimen analyses"
 }

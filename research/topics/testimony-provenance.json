@@ -20,7 +20,7 @@
   "d-witness"
  ],
  "essays": [],
- "status": "drafted",
+ "status": "verified",
  "notes": "Added: the witness-chain domain node becomes an explainer. CLAUDE.md section 2a requires every notability node to say how its claim reached us; this topic explains circular reporting, single interviewers and the difference between agreement in substance and verbatim agreement.",
  "appendixT": null,
  "lead": {
@@ -179,13 +179,15 @@
     "c-d693a76b39",
     "c-81129540ce",
     "c-bab14462a2",
-    "e-3bdeac722b"
+    "e-3bdeac722b",
+    "c-ded1f53181"
    ]
   },
   {
    "text": "The two Ellsworth accounts agree on substance and diverge on posture and agency, Johnson passive and Woods active; on the board's reading that pattern reads very differently from verbatim agreement and is the strongest point in the second account's favour.",
    "cite": [
-    "c-9784370d63"
+    "c-9784370d63",
+    "c-901a60f144"
    ]
   },
   {
@@ -273,6 +275,13 @@
     "c-6016b08032",
     "c-ecdbf7a98a",
     "c-043a461873"
+   ]
+  },
+  {
+   "text": "The board records that no Air Force record of the 18 November 1977 Ellsworth event has been produced by the claimants, the publisher, AARO or any researcher, and that it has opened no service record for either man; the event is carried on the dated broadcast of the claim, not on a record of the thing claimed.",
+   "cite": [
+    "c-d560ec4694",
+    "c-d8bc241e0d"
    ]
   }
  ],
@@ -384,6 +393,14 @@
   {
    "id": "kevin-randle",
    "role": "critic"
+  },
+  {
+   "id": "ellsworth-1977",
+   "role": "event"
+  },
+  {
+   "id": "l-ellsworth",
+   "role": "place"
   }
  ],
  "questions": [

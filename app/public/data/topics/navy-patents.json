@@ -11,25 +11,1905 @@
   "invention-secrecy-act"
  ],
  "appendixT": "navy-patents",
- "cites": {},
- "claimed": [],
- "contested": [],
+ "cites": {
+  "c-00d9699447": {
+   "id": "c-00d9699447",
+   "kind": "claim",
+   "node": "pais-patent-hfgw",
+   "nodeLabel": "US Patent 10,322,827 - High frequency gravitational wave generator",
+   "source": {
+    "domain": "www.freepatentsonline.com",
+    "text": "https://www.freepatentsonline.com/10322827.html",
+    "url": "https://www.freepatentsonline.com/10322827.html"
+   },
+   "text": "US Patent 10,322,827, 'High frequency gravitational wave generator', application 15/431823, filed 14 February 2017, published 18 June 2019, assignee 'The United States of America as represented by the Secretary of the Navy'.",
+   "tier": 2
+  },
+  "c-04bc88a6e2": {
+   "id": "c-04bc88a6e2",
+   "kind": "claim",
+   "node": "pais-patent-imrd",
+   "nodeLabel": "US Patent 10,144,532 - Craft using an inertial mass reduction device",
+   "source": {
+    "domain": null,
+    "text": "USPTO file wrapper, application 15/141,270, Final Rejection mailed 30 March 2018 (Paper No. 20180327), examiner Philip J. Bonzell; transcribed at research/patents/wrapper/final-rejection-2018-03-30.txt",
+    "url": null
+   },
+   "text": "The examiner refused the China argument in writing, which is the argument the secondary accounts credit with winning the patent: 'With respect to third argument that China is already investing significantly in this area, this has nothing to do with what is patentable. If anyone else filed this Application they would receive the same rejection.'",
+   "tier": 1
+  },
+  "c-067ba6254f": {
+   "id": "c-067ba6254f",
+   "kind": "claim",
+   "node": "salvatore-pais",
+   "nodeLabel": "Salvatore Cezar Pais",
+   "source": {
+    "domain": "patentimages.storage.googleapis.com",
+    "text": "US Patent 10,144,532 B2, 'Craft using an inertial mass reduction device', printed front page and specification, https://patentimages.storage.googleapis.com/de/4c/43/62c585ccc936cc/US10144532.pdf , opened 2026-09-19",
+    "url": "https://patentimages.storage.googleapis.com/de/4c/43/62c585ccc936cc/US10144532.pdf"
+   },
+   "text": "THE PATENT AND THE INVENTION-DISCLOSURE BRIEFING CORROBORATE EACH OTHER, which is rare and worth recording. The specification of US 10,144,532 states that the hybrid craft 'would move with great ease through the air / space / water mediums, by being enclosed in a vacuum plasma bubble / sheath, due to the coupled effects of EM field-induced air / water particles repulsion and vacuum energy polarization'. The board already carries that same sentence at Tier 1 from the Navy Case PAX 205 invention-disclosure briefing, which was obtained by a different route.",
+   "tier": 1
+  },
+  "c-11acfb83a8": {
+   "id": "c-11acfb83a8",
+   "kind": "claim",
+   "node": "pais-app-superconductor",
+   "nodeLabel": "US Application 2019/0058105 - Piezoelectricity-induced Room Temperature Superconductor",
+   "source": {
+    "domain": "www.freepatentsonline.com",
+    "text": "https://www.freepatentsonline.com/20190058105.html",
+    "url": "https://www.freepatentsonline.com/20190058105.html"
+   },
+   "text": "US Patent Application 2019/0058105, 'Piezoelectricity-induced Room Temperature Superconductor', application 15/678672, filed 16 August 2017, published 21 February 2019, assignee the United States as represented by the Secretary of the Navy.",
+   "tier": 2
+  },
+  "c-1301891582": {
+   "id": "c-1301891582",
+   "kind": "claim",
+   "node": "salvatore-pais",
+   "nodeLabel": "Salvatore Cezar Pais",
+   "source": {
+    "domain": null,
+    "text": "Application 15/141,270 as filed, 'A Craft Using an Inertial Mass Reduction Device', Navy Case PAX 205",
+    "url": null
+   },
+   "text": "The application as filed states the craft 'can be, but without limitation, a cone or lenticular triangle / delta wing configuration', and its two figures show a triangular craft and a diamond craft, each enclosed in the polarized vacuum boundary. The published drawings are the only depiction of the intended craft geometry in the federal record.",
+   "tier": 1
+  },
+  "c-14af0beb73": {
+   "id": "c-14af0beb73",
+   "kind": "claim",
+   "node": "pais-app-fusion",
+   "nodeLabel": "US Application 2019/0295733 - Plasma Compression Fusion Device",
+   "source": {
+    "domain": "www.freepatentsonline.com",
+    "text": "https://www.freepatentsonline.com/20190295733.html",
+    "url": "https://www.freepatentsonline.com/20190295733.html"
+   },
+   "text": "US Patent Application 2019/0295733, 'Plasma Compression Fusion Device', application 15/928703, filed 22 March 2018, published 26 September 2019, assignee the United States as represented by the Secretary of the Navy.",
+   "tier": 2
+  },
+  "c-16b0d5c705": {
+   "id": "c-16b0d5c705",
+   "kind": "claim",
+   "node": "salvatore-pais",
+   "nodeLabel": "Salvatore Cezar Pais",
+   "source": {
+    "domain": null,
+    "text": "Application 15/141,270 as filed, 'A Craft Using an Inertial Mass Reduction Device', Navy Case PAX 205",
+    "url": null
+   },
+   "text": "Paragraph [0037] of the application as filed states that the preferred electromagnetic generator for the craft is the one described in US application 14/807,943, 'incorporated by reference, and has the same inventor'. The inertial mass reduction craft and the electromagnetic field generator are therefore linked as components of one design by the filings themselves rather than by inference.",
+   "tier": 1
+  },
+  "c-1ead60130d": {
+   "id": "c-1ead60130d",
+   "kind": "claim",
+   "node": "five-observables",
+   "nodeLabel": "The five observables (UAP performance taxonomy)",
+   "source": {
+    "domain": "oversight.house.gov",
+    "text": "Written Testimony of Luis Elizondo, House Committee on Oversight and Accountability, 13 November 2024, https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Elizondo.pdf",
+    "url": "https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Elizondo.pdf"
+   },
+   "text": "Elizondo does not state the five observables in his sworn written testimony. His written statement to the House Committee on Oversight and Accountability for the hearing 'Unidentified Anomalous Phenomena: Exposing the Truth', 13 November 2024, contains none of the words 'observable', 'acceleration', 'trans-medium', 'lift', 'hypersonic', 'signature', 'cloak' or 'AATIP'. The full text was retrieved from oversight.house.gov and is transcribed at research/testimony/elizondo-house-oversight-2024-11-13.txt. This is a searchable negative on the most likely government-record source for the set, and it is why the taxonomy stays at Tier 2 attributed to him rather than moving to the congressional record.",
+   "tier": 1
+  },
+  "c-1ed8c47f65": {
+   "id": "c-1ed8c47f65",
+   "kind": "claim",
+   "node": "l-pax-river",
+   "nodeLabel": "Naval Air Station Patuxent River, Maryland",
+   "source": {
+    "domain": null,
+    "text": "Liberation Times, 13 January 2026, citing Elizondo's written congressional testimony",
+    "url": null
+   },
+   "text": "Elizondo claimed in written testimony to Congress that Patuxent River was among the sites prepared in connection with the Lockheed Martin - Bigelow Aerospace transfer, including a hangar designed to facilitate movement of material by air and by river.",
+   "tier": 2
+  },
+  "c-1f6e134542": {
+   "id": "c-1f6e134542",
+   "kind": "claim",
+   "node": "pais-patent-emfg",
+   "nodeLabel": "US Patent 10,135,366 - Electromagnetic field generator",
+   "source": {
+    "domain": null,
+    "text": "USPTO application data for 14/807943 (product PTGRXML, data.uspto.gov), retrieved from the file wrapper 28 August 2026",
+    "url": null
+   },
+   "text": "Pais executed the assignment of application 14/807,943 to the Department of the Navy on 23 July 2015, the day before filing; it was recorded on 24 July 2015 at reel and frame 036176/0499 as an 'ASSIGNMENT OF ASSIGNOR'S INTEREST', assignee 'DEPARTMENT OF THE NAVY', 47076 Liljencrantz Road, Bldg. 435, Patuxent River, Maryland.",
+   "tier": 1
+  },
+  "c-22421970b9": {
+   "id": "c-22421970b9",
+   "kind": "claim",
+   "node": "salvatore-pais",
+   "nodeLabel": "Salvatore Cezar Pais",
+   "source": {
+    "domain": "patentimages.storage.googleapis.com",
+    "text": "US Patent 10,144,532 B2, 'Craft using an inertial mass reduction device', printed front page and specification, https://patentimages.storage.googleapis.com/de/4c/43/62c585ccc936cc/US10144532.pdf , opened 2026-09-19",
+    "url": "https://patentimages.storage.googleapis.com/de/4c/43/62c585ccc936cc/US10144532.pdf"
+   },
+   "text": "US 10,144,532 CITES HAROLD PUTHOFF ON ITS PRINTED FRONT PAGE. Its 'Other Publications' list includes 'Puthoff, H. E., Polarizable-Vacuum (PV) Approach to General Relativity, Foundations of Physics, Jun. 2002, vol. 32, No. 6', alongside 'Froning, H. David, Quantum Vacuum Engineering for Power and Propulsion from the Energetics of Space, Third International Conference on Future Energy, Oct. 9-10, 2009, Washington, DC', 'Prigogine, Ilya, Time, Structure and Fluctuations, Nobel Lecture, Dec. 8, 1977', 'Hayasaka, Hideo and Takeuchi, Sakae, Anomalous Weight Reduction on a Gyroscope's Right Rotations around the Vertical Axis on the Earth, Physical Review Letters, Dec. 18, 1989, vol. 63, No. 25', and two of Pais's own papers in the International Journal of Space Science and Engineering, 2015.",
+   "tier": 1
+  },
+  "c-23011a2d96": {
+   "id": "c-23011a2d96",
+   "kind": "claim",
+   "node": "salvatore-pais",
+   "nodeLabel": "Salvatore Cezar Pais",
+   "source": {
+    "domain": null,
+    "text": "USPTO file wrapper, application 15/141,270 (PAX 205), retrieved from USPTO Patent Center 28 August 2026; document images JLZJWBOMRXEAPX0.pdf and JLZJWBOORXEAPX0.pdf, Appeal Brief under 37 C.F.R. 41.37 faxed 20 August 2018; notes at research/patents/wrapper/appeal-brief-2018-08-20.txt",
+    "url": null
+   },
+   "text": "Two of the five papers the enablement argument rests on are Pais's own conference papers: 'A Hybrid Craft using an Inertial Mass Modification Device', AIAA SPACE Forum, Orlando, 12-14 September 2017, and 'High Frequency Gravitational Waves - Induced Propulsion', SAE International 2017-01-2040, 19 September 2017. The other three are third-party technical papers on piezoelectric materials, Q-factor estimation and plasma channels, none of which concerns inertial mass reduction. The corroboration invoked is therefore in part the inventor citing himself.",
+   "tier": 1
+  },
+  "c-2e0f6f2253": {
+   "id": "c-2e0f6f2253",
+   "kind": "claim",
+   "node": "five-observables",
+   "nodeLabel": "The five observables (UAP performance taxonomy)",
+   "source": {
+    "domain": "tothestars.media",
+    "text": "'Five Characteristics Unique to UAP's', To The Stars, https://tothestars.media/blogs/press-and-news/five-characteristics-unique-to-uaps, read 28 August 2026",
+    "url": "https://tothestars.media/blogs/press-and-news/five-characteristics-unique-to-uaps,"
+   },
+   "text": "To The Stars, the company Elizondo joined after leaving the Pentagon, publishes the same five under the heading 'Five Characteristics Unique to UAP's', worded: 'Sudden and instantaneous acceleration', 'Hypersonic velocities without signatures', 'Low observability', 'Trans-medium travel' and 'Positive lift'. The page carries no author, no date and no attribution to Elizondo or to AATIP.",
+   "tier": 2
+  },
+  "c-363065f09a": {
+   "id": "c-363065f09a",
+   "kind": "claim",
+   "node": "five-observables",
+   "nodeLabel": "The five observables (UAP performance taxonomy)",
+   "source": {
+    "domain": null,
+    "text": "History, 20 May 2019, compared against the To The Stars page, both read 28 August 2026",
+    "url": null
+   },
+   "text": "The list has no fixed text, which matters before anyone quotes it as a definition. The first observable appears as 'Anti-gravity lift' in the History account and as 'Positive lift' on To The Stars, and is elsewhere given as 'positive lift without flight surfaces'. The two published sources located for this board therefore differ on the wording of one of the five and on whether cloaking is named alongside low observability. No canonical text has been located.",
+   "tier": 2
+  },
+  "c-38a175d9f4": {
+   "id": "c-38a175d9f4",
+   "kind": "claim",
+   "node": "salvatore-pais",
+   "nodeLabel": "Salvatore Cezar Pais",
+   "source": {
+    "domain": null,
+    "text": "USPTO file wrapper, application 15/141,270 (PAX 205), retrieved from USPTO Patent Center 28 August 2026; document image JCTFAFUKPXXIFW1.pdf, NAVAIR Ser 40T/33 dated 15 December 2017; transcript at research/patents/wrapper/sheehy-letter-2017-12-15.txt",
+    "url": null
+   },
+   "text": "The intervention is better read as an argument about TIMING and about ownership than as an assertion that the device works. Sheehy's own analogy is the ruby laser: the theory preceded the device, and 'the Army at Picatinny Arsenal had built the first ruby laser in 1958 but never sought a patent much to DoD's loss.' His stated conclusion is procurement economics, not physics: 'China is already investing significantly in this area and I would prefer we hold the patent as opposed to paying forever more to use this revolutionary technology.' Reasoning: stated inference from the letter's own structure, which spends four paragraphs on why a not-yet-possible thing should be patented anyway and none on why it is possible now. The competing reading, that this is ordinary agency advocacy for a favoured research line, is equally available and is not excluded.",
+   "tier": 3
+  },
+  "c-3cb3c54669": {
+   "id": "c-3cb3c54669",
+   "kind": "claim",
+   "node": "pais-patent-emfg",
+   "nodeLabel": "US Patent 10,135,366 - Electromagnetic field generator",
+   "source": {
+    "domain": null,
+    "text": "USPTO file wrapper, application 14/807,943, Notice of Allowability (PTOL-37) signed 13 September 2018 (Paper No. 20180913) and Notice of Allowance and Fee(s) Due (PTOL-85) mailed 10 October 2018, examiner Thomas M. Dougherty; transcribed at research/patents/wrapper/pax182-notice-of-allowability-2018-09-13.txt",
+    "url": null
+   },
+   "text": "The reason given for allowance is novelty over the prior art and nothing else: 'The following is an examiner's statement of reasons for allowance: the prior art fails to show a high energy electromagnetic field generator, comprising: a shell, the shell having embedded polycrystalline ferroelectric ceramic material, the material being polarized such that the ceramic material exhibits strong Piezoelectric Effect properties thus inducing high frequency vibrations'. Claims 1-12 were allowed. The only change made was an examiner's amendment deleting one line of claim 11 'to correct a typographical error'.",
+   "tier": 1
+  },
+  "c-3f134f14ee": {
+   "id": "c-3f134f14ee",
+   "kind": "claim",
+   "node": "pais-patent-imrd",
+   "nodeLabel": "US Patent 10,144,532 - Craft using an inertial mass reduction device",
+   "source": {
+    "domain": null,
+    "text": "USPTO application data for 15/141270 (product PTGRXML, data.uspto.gov), retrieved from the file wrapper 28 August 2026",
+    "url": null
+   },
+   "text": "The grant was obtained through a formal appeal, not a letter. The recorded sequence is: non-final rejection 22 November 2017; applicant-initiated telephonic examiner interview 17 January 2018 at which 'no agreement was reached'; final rejection 27 March 2018; response after final 24 May 2018 carrying a declaration under 37 C.F.R. 1.132 signed by Dr James Sheehy on 11 May 2018; Notice of Appeal filed 21 June 2018; Advisory Action 11 July 2018 refusing to allow; Appeal Brief filed 21 August 2018, re-filing the SAME 11 May declaration in its Evidence Appendix rather than a second one; Appeal Brief Review Complete 5 September 2018; Reasons for Allowance 24 October 2018; Notice of Allowance 31 October 2018; granted 4 December 2018. The examiner allowed the application before the Patent Trial and Appeal Board ever ruled.",
+   "tier": 1
+  },
+  "c-3f819cca8a": {
+   "id": "c-3f819cca8a",
+   "kind": "claim",
+   "node": "pais-patent-imrd",
+   "nodeLabel": "US Patent 10,144,532 - Craft using an inertial mass reduction device",
+   "source": {
+    "domain": null,
+    "text": "USPTO file wrapper, application 15/141,270, Final Rejection mailed 30 March 2018 (Paper No. 20180327), examiner Philip J. Bonzell; transcribed at research/patents/wrapper/final-rejection-2018-03-30.txt",
+    "url": null
+   },
+   "text": "Peer review was argued and expressly refused. On AIAA 2017-5343 and SAE 2017-01-2040 the examiner wrote that 'just because a concept was presented at an AIAA forum and that a SAE committee board, peer reviewed the concept does not equate to the device being patentable', and on the mathematics: 'Presenting math at a conference doesn't prove anything physical. It like saying that you can math out tachyons by playing with relativistic equations but that doesn't \"prove\" that they exist nor can they then be used to create a physical object that can be patented.'",
+   "tier": 1
+  },
+  "c-3f8b004f6f": {
+   "id": "c-3f8b004f6f",
+   "kind": "claim",
+   "node": "pais-patent-imrd",
+   "nodeLabel": "US Patent 10,144,532 - Craft using an inertial mass reduction device",
+   "source": {
+    "domain": null,
+    "text": "USPTO application data for 15/141270 (product PTGRXML, data.uspto.gov), retrieved from the file wrapper 28 August 2026",
+    "url": null
+   },
+   "text": "US 10,144,532 is EXPIRED. USPTO application data gives application status 'Patent Expired Due to NonPayment of Maintenance Fees Under 37 CFR 1.362' with a status date of 9 January 2023, following a maintenance fee reminder mailed 25 July 2022. The Navy prosecuted the application through a formal appeal to obtain the grant in December 2018 and then did not pay the first maintenance fee, so the invention passed into the public domain.",
+   "tier": 1
+  },
+  "c-3fe51a6589": {
+   "id": "c-3fe51a6589",
+   "kind": "claim",
+   "node": "salvatore-pais",
+   "nodeLabel": "Salvatore Cezar Pais",
+   "source": {
+    "domain": null,
+    "text": "USPTO file wrapper, application 15/141,270 (PAX 205), retrieved from USPTO Patent Center 28 August 2026; document image JCTFAFUKPXXIFW1.pdf, NAVAIR Ser 40T/33 dated 15 December 2017; transcript at research/patents/wrapper/sheehy-letter-2017-12-15.txt",
+    "url": null
+   },
+   "text": "The December 2017 letter places the NAWCAD experimental programme on the record and dates it. Sheehy wrote that 'Dr. Pais is currently funded by NAWCAD to design a test article and instrumentation to demonstrate the experimental feasibility of achieving high electromagnetic (EM) field-energy and flux values', and that 'He is currently one year into the project and has already begun a series of experiments'. That places the start of funded experimental work in about December 2016 and corroborates, from a primary document, the secondary reporting that NAWCAD funded testing from 2016.",
+   "tier": 1
+  },
+  "c-40a937bc17": {
+   "id": "c-40a937bc17",
+   "kind": "claim",
+   "node": "jon-kosloski",
+   "nodeLabel": "Jon T. Kosloski",
+   "source": {
+    "domain": null,
+    "text": "AARO FY2025 Consolidated Annual Report on UAP",
+    "url": null
+   },
+   "text": "The FY2025 report states that 'no evidence suggests that a USG or private entity has ever captured or exploited UAP-derived materials.'",
+   "tier": 1
+  },
+  "c-45719302b6": {
+   "id": "c-45719302b6",
+   "kind": "claim",
+   "node": "invention-secrecy-act",
+   "nodeLabel": "Invention Secrecy Act of 1951 (Pub. L. 82-256, 66 Stat. 3), codified at 35 U.S.C. 181-188",
+   "source": {
+    "domain": "sgp.fas.org",
+    "text": "Invention Secrecy Statistics, FAS Project on Government Secrecy, https://sgp.fas.org/othergov/invention/stats.html",
+    "url": "https://sgp.fas.org/othergov/invention/stats.html"
+   },
+   "text": "The order count is published annually and is rising. The Federation of American Scientists' table, sourced to the Patent and Trademark Office, records secrecy orders in effect at fiscal year end of 5,976 (FY21), 6,057 (FY22), 6,155 (FY23), 6,471 (FY24) and 6,543 (FY25), with 356 new orders imposed in FY24 against 102 in FY25.",
+   "tier": 1
+  },
+  "c-472715514b": {
+   "id": "c-472715514b",
+   "kind": "claim",
+   "node": "salvatore-pais",
+   "nodeLabel": "Salvatore Cezar Pais",
+   "source": {
+    "domain": null,
+    "text": "USPTO file wrapper, application 15/141,270 (PAX 205), retrieved from USPTO Patent Center 28 August 2026; document image JCTFAFUKPXXIFW1.pdf, NAVAIR Ser 40T/33 dated 15 December 2017; transcript at research/patents/wrapper/sheehy-letter-2017-12-15.txt",
+    "url": null
+   },
+   "text": "The Sheehy intervention is a real document and it is not what the secondary reporting describes. On 15 December 2017 the Chief Technology Officer of the Naval Aviation Enterprise wrote to the examiner by name on NAVAIR letterhead (Ser 40T/33, from AIR 4.0T, to 'Mr. Philip J. Bonzell, Primary Patent Examiner'). Rather than asserting the invention was operable, Sheehy opened by CONCEDING the examiner's point: 'Dr Pais has shared your review of his patent disclosure and I agree with your main point that this mode of acceleration/movement is beyond the state of the possible, at least at present.' He praised the examiner's work: 'It is clear from your review that you did invest the time and did follow the theory.'",
+   "tier": 1
+  },
+  "c-49f09a860e": {
+   "id": "c-49f09a860e",
+   "kind": "claim",
+   "node": "pais-patent-imrd",
+   "nodeLabel": "US Patent 10,144,532 - Craft using an inertial mass reduction device",
+   "source": {
+    "domain": null,
+    "text": "USPTO file wrapper, application 15/141,270, Non-Final Rejection mailed 28 November 2017 (Paper No. 20171122), examiner Philip J. Bonzell, Art Unit 3644",
+    "url": null
+   },
+   "text": "The examiner quantified the objection rather than gesturing at it. The Non-Final Rejection of 28 November 2017 holds that polarising a quantum vacuum as claimed 'would take 10^9 teslas and 10^18V/m', that 'these levels are not feasible with current technology', and asks: 'The largest magnetic field ever created is 10^3 teslas and a neutron star is 10^6 teslas so how are you using a microwave emitter that produces a magnetic field that is three orders of magnitude greater than a neutron star?' The same passage is repeated verbatim in the Final Rejection of 30 March 2018.",
+   "tier": 1
+  },
+  "c-532edb49c4": {
+   "id": "c-532edb49c4",
+   "kind": "claim",
+   "node": "salvatore-pais",
+   "nodeLabel": "Salvatore Cezar Pais",
+   "source": {
+    "domain": null,
+    "text": "USPTO application data for 15/141270 (product PTGRXML, data.uspto.gov), retrieved from the file wrapper 28 August 2026",
+    "url": null
+   },
+   "text": "The combination of a two-year fight for the grant and a refusal to pay the first maintenance fee is consistent with the Navy wanting the examining authority's FINDING rather than the property right. The reason this now bites harder is that Sheehy stated the opposite rationale in writing: he wanted to 'hold the patent as opposed to paying forever more to use this revolutionary technology', which is a freedom-to-operate argument. But publication in November 2017 had already created permanent prior art, and prior art alone prevents anyone else from patenting the idea and charging the Navy for it. The granted claims added nothing to that protection; what they added was the reversal of an enablement rejection, which is the Patent Office ceasing to say the invention does not work. A maintenance fee buys only the right to exclude an infringer, which the Navy would never exercise. Reasoning: stated inference from the prosecution record and the letter; the alternative reading, that the docket simply lapsed after its inventor transferred out of NAWCAD in 2019, is equally available and is not excluded.",
+   "tier": 3
+  },
+  "c-56fb7f23ac": {
+   "id": "c-56fb7f23ac",
+   "kind": "claim",
+   "node": "salvatore-pais",
+   "nodeLabel": "Salvatore Cezar Pais",
+   "source": {
+    "domain": null,
+    "text": "USPTO application data for 14/807943 and 15/141270 (product PTGRXML, data.uspto.gov), retrieved from the file wrappers 28 August 2026",
+    "url": null
+   },
+   "text": "Both granted Pais patents lapsed at the first maintenance fee, five weeks apart. US 10,135,366, granted 20 November 2018, is recorded expired for non-payment on 26 December 2022; US 10,144,532, granted 4 December 2018, is recorded expired for non-payment on 9 January 2023. USPTO mailed a maintenance fee reminder for each in the preceding July.",
+   "tier": 1
+  },
+  "c-5e234aed54": {
+   "id": "c-5e234aed54",
+   "kind": "claim",
+   "node": "salvatore-pais",
+   "nodeLabel": "Salvatore Cezar Pais",
+   "source": {
+    "domain": "www.govinfo.gov",
+    "text": "37 CFR 1.362, Time for payment of maintenance fees (CFR 2024, title 37, vol. 1) || https://www.govinfo.gov/content/pkg/CFR-2024-title37-vol1/xml/CFR-2024-title37-vol1-sec1-362.xml",
+    "url": "https://www.govinfo.gov/content/pkg/CFR-2024-title37-vol1/xml/CFR-2024-title37-vol1-sec1-362.xml"
+   },
+   "text": "A patent assigned to a federal agency owes maintenance fees on the ordinary schedule, which closes the question the expiry finding rested on. 37 CFR 1.362(a) requires them 'in all patents based on applications filed on or after December 12, 1980, except as noted in paragraph (b) of this section, to maintain a patent in force beyond 4, 8 and 12 years after the date of grant', and paragraph (b) gives the exemptions in full: 'Maintenance fees are not required for any plant patents or for any design patents.' Both Pais grants are utility patents from applications filed long after 1980. Neither was in an exempt class, and both owed the fee.",
+   "tier": 1
+  },
+  "c-6162481fe0": {
+   "id": "c-6162481fe0",
+   "kind": "claim",
+   "node": "salvatore-pais",
+   "nodeLabel": "Salvatore Cezar Pais",
+   "source": {
+    "domain": null,
+    "text": "USPTO file wrapper, application 15/141,270 (PAX 205), retrieved from USPTO Patent Center 28 August 2026; document image JHRQ6JRIRXEAPX0.pdf, declaration under 37 C.F.R. 1.132 signed 11 May 2018, faxed 24 May 2018; transcript at research/patents/wrapper/sheehy-declaration-2018-05-11.txt",
+    "url": null
+   },
+   "text": "The declaration's operative assertion is narrow and rests on citation rather than on test data. Sheehy declares that he 'can be considered a person of ordinary skill in the art' and that 'the invention described in the above referenced patent application is enabled via the physics described in the patent application and the peer reviewed papers described in the Inventor Amendment dated January 23, 2018'. He does not state that a device was built or that any effect was measured, and the experiments described in his own December 2017 letter are not mentioned.",
+   "tier": 1
+  },
+  "c-63b0fec44b": {
+   "id": "c-63b0fec44b",
+   "kind": "claim",
+   "node": "salvatore-pais",
+   "nodeLabel": "Salvatore Cezar Pais",
+   "source": {
+    "domain": null,
+    "text": "USPTO application data for 15/141270 (product PTGRXML, data.uspto.gov), retrieved from the file wrapper 28 August 2026",
+    "url": null
+   },
+   "text": "The grant was obtained through a formal appeal, not a letter. The recorded sequence is: non-final rejection 22 November 2017; applicant-initiated telephonic examiner interview 17 January 2018 at which 'no agreement was reached'; final rejection 27 March 2018; response after final 24 May 2018 carrying a declaration under 37 C.F.R. 1.132 signed by Dr James Sheehy on 11 May 2018; Notice of Appeal filed 21 June 2018; Advisory Action 11 July 2018 refusing to allow; Appeal Brief filed 21 August 2018, re-filing the SAME 11 May declaration in its Evidence Appendix rather than a second one; Appeal Brief Review Complete 5 September 2018; Reasons for Allowance 24 October 2018; Notice of Allowance 31 October 2018; granted 4 December 2018. The examiner allowed the application before the Patent Trial and Appeal Board ever ruled.",
+   "tier": 1
+  },
+  "c-6a22939747": {
+   "id": "c-6a22939747",
+   "kind": "claim",
+   "node": "salvatore-pais",
+   "nodeLabel": "Salvatore Cezar Pais",
+   "source": {
+    "domain": null,
+    "text": "USPTO file wrapper, application 15/141,270 (PAX 205), retrieved from USPTO Patent Center 28 August 2026; document image JJEEPSU2RXEAPX0.pdf, Advisory Action mailed 11 July 2018; transcript at research/patents/wrapper/advisory-action-2018-07-11.txt",
+    "url": null
+   },
+   "text": "The examiner set an explicit condition for allowance and it was experimental. Rejecting the argument that microwave excitation of a copper resonant cavity makes the required fields feasible, he wrote: 'While obtaining high vibrational frequencies are possible this does not mean that the E-fields and B-fields that are required to polarize the quantum vacuum can be created. If this is so then the Examiner asks that the Applicant demonstrate these high vibrational frequencies to create a local polarized vacuum.' No such demonstration appears in the file wrapper as uploaded, and the application was nonetheless allowed on 31 October 2018.",
+   "tier": 1
+  },
+  "c-6ce9b92364": {
+   "id": "c-6ce9b92364",
+   "kind": "claim",
+   "node": "pais-patent-imrd",
+   "nodeLabel": "US Patent 10,144,532 - Craft using an inertial mass reduction device",
+   "source": {
+    "domain": "patentimages.storage.googleapis.com",
+    "text": "US Patent 10,144,532 B2, printed front page and specification, https://patentimages.storage.googleapis.com/de/4c/43/62c585ccc936cc/US10144532.pdf , opened 2026-09-19",
+    "url": "https://patentimages.storage.googleapis.com/de/4c/43/62c585ccc936cc/US10144532.pdf"
+   },
+   "text": "A PATENT IS TIER 1 FOR WHAT IT CLAIMS AND NEVER FOR WHETHER THE THING WORKS. Claim 1, as printed: 'A craft using an inertial mass reduction device comprising: an inner resonant cavity wall; an outer resonant cavity wall, the inner resonant cavity wall and the outer resonant cavity wall forming a resonant cavity; and, microwave emitters such that the microwave emitters create high frequency electromagnetic waves throughout the resonant cavity causing the outer resonant cavity wall to vibrate in an accelerated mode and create a local polarized vacuum outside the outer resonant cavity wall.' The Navy's own test of the related High Energy Electromagnetic Field Generator concluded in September 2019 that the effect could not be proven.",
+   "tier": 1
+  },
+  "c-760a39cac1": {
+   "id": "c-760a39cac1",
+   "kind": "claim",
+   "node": "luis-elizondo",
+   "nodeLabel": "Luis D. Elizondo",
+   "source": {
+    "domain": null,
+    "text": "Christopher Sharp, Liberation Times, 13 January 2026, citing Elizondo's written testimony to Congress",
+    "url": null
+   },
+   "text": "Elizondo alleged in written congressional testimony that NAS Patuxent River was among the sites prepared in connection with the Lockheed Martin - Bigelow Aerospace transfer, including a hangar designed to move material by air and by river.",
+   "tier": 2
+  },
+  "c-7e67183956": {
+   "id": "c-7e67183956",
+   "kind": "claim",
+   "node": "five-observables",
+   "nodeLabel": "The five observables (UAP performance taxonomy)",
+   "source": {
+    "domain": "www.navair.navy.mil",
+    "text": "NAVAIR FOIA release 2021-003244, 'PAX 205 - INERTIAL MASS REDUCTION DEVICE', slides 4-5, https://www.navair.navy.mil/foia/sites/g/files/jejdrs566/files/document/%5Bfilename%5D/2021-003244%20FINAL%20VERSION%20PAX%20205%20-%20INERTIAL%20MASS%20REDUCTION%20DEVICE.pdf",
+    "url": "https://www.navair.navy.mil/foia/sites/g/files/jejdrs566/files/document/%5Bfilename%5D/2021-003244%20FINAL%20VERSION%20PAX%20205%20-%20INERTIAL%20MASS%20REDUCTION%20DEVICE.pdf"
+   },
+   "text": "Four of the five are itemised as design goals in a United States Navy invention-disclosure briefing released under FOIA. The PAX 205 briefing describes a 'hybrid aerospace / undersea craft (HAUC)' that 'would move with great ease through the air / space / water mediums' (trans-medium travel), enclosed in a 'Vacuum plasma bubble/sheath' giving extreme speed without skin friction (hypersonic velocity), with non-linear scattering of radio frequency and sonar signals (low observability), by means of an inertial mass reduction device (lift without flight surfaces). This is the whole reason the taxonomy is on this board.",
+   "tier": 1
+  },
+  "c-7f0e66ba39": {
+   "id": "c-7f0e66ba39",
+   "kind": "claim",
+   "node": "invention-secrecy-act",
+   "nodeLabel": "Invention Secrecy Act of 1951 (Pub. L. 82-256, 66 Stat. 3), codified at 35 U.S.C. 181-188",
+   "source": {
+    "domain": "uscode.house.gov",
+    "text": "35 U.S.C. 181, Office of the Law Revision Counsel, https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title35-section181&num=0&edition=prelim",
+    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title35-section181&num=0&edition=prelim"
+   },
+   "text": "An order is indefinite by renewal, and wartime orders outlast the war. Section 181: 'An invention shall not be ordered kept secret and the publication of the application or the grant of a patent withheld for a period of more than one year', renewable annually on an affirmative determination that 'the national interest continues so to require'; an order in effect during a time when the United States is at war 'shall remain in effect for the duration of hostilities and one year following cessation of hostilities.'",
+   "tier": 1
+  },
+  "c-7f52552c6c": {
+   "id": "c-7f52552c6c",
+   "kind": "claim",
+   "node": "salvatore-pais",
+   "nodeLabel": "Salvatore Cezar Pais",
+   "source": {
+    "domain": null,
+    "text": "NAVAIR FOIA release 2021-003244, PAX 205 briefing, slides 4 and 5",
+    "url": null
+   },
+   "text": "The PAX 205 briefing states the hybrid craft 'would move with great ease through the air / space / water mediums, by being enclosed in a Vacuum plasma bubble/sheath', and that 'Energy flux values of 10^33 Watts/m^2 (and beyond) are possible.'",
+   "tier": 1
+  },
+  "c-815c64eaf3": {
+   "id": "c-815c64eaf3",
+   "kind": "claim",
+   "node": "salvatore-pais",
+   "nodeLabel": "Salvatore Cezar Pais",
+   "source": {
+    "domain": null,
+    "text": "Application 15/141,270 as filed, 'A Craft Using an Inertial Mass Reduction Device', Navy Case PAX 205",
+    "url": null
+   },
+   "text": "Paragraph [0020] of the application as filed credits the mechanism to a named figure already on this board: 'it is feasible to remove energy-mass from the system by enabling vacuum polarization, as discussed by Harold Puthoff; in that diminution of inertial (and thus gravitational) mass can be achieved via manipulation of quantum field fluctuations in the vacuum.'",
+   "tier": 1
+  },
+  "c-82b536eb00": {
+   "id": "c-82b536eb00",
+   "kind": "claim",
+   "node": "l-pax-river",
+   "nodeLabel": "Naval Air Station Patuxent River, Maryland",
+   "source": {
+    "domain": null,
+    "text": "Christopher Sharp, Liberation Times, 13 January 2026, citing unnamed sources",
+    "url": null
+   },
+   "text": "An exotic vehicle of unknown origin has been stored for decades at Naval Air Station Patuxent River, with contingency plans to relocate it if publicly identified.",
+   "tier": 2
+  },
+  "c-8475fefa4b": {
+   "id": "c-8475fefa4b",
+   "kind": "claim",
+   "node": "salvatore-pais",
+   "nodeLabel": "Salvatore Cezar Pais",
+   "source": {
+    "domain": null,
+    "text": "USPTO file wrapper, application 15/141,270 (PAX 205), retrieved from USPTO Patent Center 28 August 2026; document image JCKKXW5GRXEAPX4.pdf, Applicant-Initiated Interview Summary mailed 22 January 2018; transcript at research/patents/wrapper/interview-summary-2018-01-17.txt",
+    "url": null
+   },
+   "text": "The 17 January 2018 examiner interview was telephonic, attended by examiner Philip J. Bonzell, attorney Mark Glut and Salvatore Pais personally. The summary records that no exhibit was shown and no demonstration conducted, and that 'The Examiner pointed out that he still felt that there were enablement issues. The Applicant to submit arguments to the contrary. No agreement was reached.'",
+   "tier": 1
+  },
+  "c-854326f54d": {
+   "id": "c-854326f54d",
+   "kind": "claim",
+   "node": "pais-patent-emfg",
+   "nodeLabel": "US Patent 10,135,366 - Electromagnetic field generator",
+   "source": {
+    "domain": null,
+    "text": "USPTO application data for 14/807943 (product PTGRXML, data.uspto.gov), retrieved from the file wrapper 28 August 2026",
+    "url": null
+   },
+   "text": "US 10,135,366 is EXPIRED. USPTO application data gives the status of 14/807,943 as 'Patent Expired Due to NonPayment of Maintenance Fees Under 37 CFR 1.362' with a status date of 26 December 2022, and the event log records 'Maintenance Fee Reminder Mailed' on 11 July 2022 and 'Expire Patent' on 26 December 2022. Under 37 CFR 1.362(g) the expiry runs from the fourth anniversary of grant, 20 November 2022; 26 December 2022 is the date the Office posted it.",
+   "tier": 1
+  },
+  "c-8aa8c689a8": {
+   "id": "c-8aa8c689a8",
+   "kind": "claim",
+   "node": "five-observables",
+   "nodeLabel": "The five observables (UAP performance taxonomy)",
+   "source": {
+    "domain": null,
+    "text": "Stated inference from the dates of the PAX 205 briefing and the earliest located publication of the observables",
+    "url": null
+   },
+   "text": "The mapping is better read as convergence on a shared description than as evidence that either side knew of the other. Pais filed from NAWCAD between 2015 and 2018 and the observables were published from 2019, so the briefing predates the published list; both are drawn from the same body of reported Navy encounters, and a designer asked to build to those reports would arrive at broadly these goals. What the mapping does establish, without inference, is that a Navy technical organisation wrote four of the five down as things it wanted to build.",
+   "tier": 3
+  },
+  "c-8d8130857a": {
+   "id": "c-8d8130857a",
+   "kind": "claim",
+   "node": "pax-205-disclosure",
+   "nodeLabel": "NAVAIR Invention Disclosure Briefing, Navy Case PAX 205 (Inertial Mass Reduction Device)",
+   "source": {
+    "domain": "www.navair.navy.mil",
+    "text": "https://www.navair.navy.mil/foia/sites/g/files/jejdrs566/files/document/%5Bfilename%5D/2021-003244%20FINAL%20VERSION%20PAX%20205%20-%20INERTIAL%20MASS%20REDUCTION%20DEVICE.pdf",
+    "url": "https://www.navair.navy.mil/foia/sites/g/files/jejdrs566/files/document/%5Bfilename%5D/2021-003244%20FINAL%20VERSION%20PAX%20205%20-%20INERTIAL%20MASS%20REDUCTION%20DEVICE.pdf"
+   },
+   "text": "The document is a six-page Navy briefing headed 'INERTIAL MASS REDUCTION DEVICE, Navy Case PAX 205', released by NAVAIR under FOIA case 2021-003244.",
+   "tier": 1
+  },
+  "c-967be2867a": {
+   "id": "c-967be2867a",
+   "kind": "claim",
+   "node": "pais-patent-emfg",
+   "nodeLabel": "US Patent 10,135,366 - Electromagnetic field generator",
+   "source": {
+    "domain": "www.freepatentsonline.com",
+    "text": "https://www.freepatentsonline.com/10135366.html",
+    "url": "https://www.freepatentsonline.com/10135366.html"
+   },
+   "text": "US Patent 10,135,366, 'Electromagnetic field generator and method to generate an electromagnetic field', application 14/807943, filed 24 July 2015, published 20 November 2018, assignee 'The United States of America as represented by the Secretary of the Navy'.",
+   "tier": 2
+  },
+  "c-967febe575": {
+   "id": "c-967febe575",
+   "kind": "claim",
+   "node": "salvatore-pais",
+   "nodeLabel": "Salvatore Cezar Pais",
+   "source": {
+    "domain": "mgln.ai",
+    "text": "American Alchemy with Jesse Michels, 'Congressman: President Trump Was Briefed On Alien Hybrids!', 2 July 2026, 0:37:47 https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL2654068830.mp3",
+    "url": "https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL2654068830.mp3"
+   },
+   "text": "In the same episode Jesse Michels, not Burlison, described Pais as fearful and hard to reach, said he had interviewed him in a motel near Pax River during which a camera failed, and said Pais stopped him at a point in the science with 'Jesse, stop right there' and declined to discuss it further (0:37:47 to 0:38:43). The lead map for this corpus attributes this account to Burlison; the transcript attributes it to Michels.",
+   "tier": 2
+  },
+  "c-96c3f17a55": {
+   "id": "c-96c3f17a55",
+   "kind": "claim",
+   "node": "salvatore-pais",
+   "nodeLabel": "Salvatore Cezar Pais",
+   "source": {
+    "domain": null,
+    "text": "NAVAIR FOIA release 2021-003244, PAX 205 briefing, slide 5",
+    "url": null
+   },
+   "text": "The PAX 205 briefing states that 'it is possible to use the IMRD as an artificial gravitational wave generator (invention enables Gertsenshtein Effect)', that this 'has tremendous air and space military implications and applications (both offensive and defensive in nature)', and that 'Local spacetime modification on a grand scale (planetary-size disruption) is thus feasible.'",
+   "tier": 1
+  },
+  "c-9b368b9f03": {
+   "id": "c-9b368b9f03",
+   "kind": "claim",
+   "node": "salvatore-pais",
+   "nodeLabel": "Salvatore Cezar Pais",
+   "source": {
+    "domain": null,
+    "text": "NAVAIR FOIA release 2021-003244, PAX 205 briefing, slide 5",
+    "url": null
+   },
+   "text": "The PAX 205 briefing states the invention 'makes possible the design of a hybrid aerospace / undersea craft (HAUC), which due to the physical mechanisms enabled with the Inertial Mass Reduction Device (IMRD), can function as a submersible craft capable of extreme aerial and underwater speeds (lack of air/water-skin friction) and enhanced stealth capabilities (non-linear scattering of RF and sonar signals).'",
+   "tier": 1
+  },
+  "c-a0f58d8d29": {
+   "id": "c-a0f58d8d29",
+   "kind": "claim",
+   "node": "pais-patent-imrd",
+   "nodeLabel": "US Patent 10,144,532 - Craft using an inertial mass reduction device",
+   "source": {
+    "domain": "patentimages.storage.googleapis.com",
+    "text": "US Patent 10,144,532 B2, printed front page and specification, https://patentimages.storage.googleapis.com/de/4c/43/62c585ccc936cc/US10144532.pdf , opened 2026-09-19",
+    "url": "https://patentimages.storage.googleapis.com/de/4c/43/62c585ccc936cc/US10144532.pdf"
+   },
+   "text": "FRONT-PAGE FACTS READ OFF THE PRINTED PATENT, which is where the Navy's sponsorship is documented rather than inferred: '(73) Assignee: The United States of America as represented by the Secretary of the Navy, Washington, DC (US)'; '(21) Appl. No.: 15/141,270'; '(22) Filed: Apr. 28, 2016'; '(65) Prior Publication Data: US 2017/0313446 A1, Nov. 2, 2017'; '(51) Int. Cl. B64G 1/40 (2006.01)'; 'Subject to any disclaimer, the term of this patent is extended or adjusted under 35 U.S.C. 154(b) by 153 days'; 'Primary Examiner - Philip J Bonzell'; '(74) Attorney, Agent, or Firm - Mark O Glut; NAWCAD'; and '4 Claims, 1 Drawing Sheet'.",
+   "tier": 1
+  },
+  "c-a2482ac60c": {
+   "id": "c-a2482ac60c",
+   "kind": "claim",
+   "node": "pais-patent-imrd",
+   "nodeLabel": "US Patent 10,144,532 - Craft using an inertial mass reduction device",
+   "source": {
+    "domain": null,
+    "text": "USPTO file wrapper, application 15/141,270, Final Rejection mailed 30 March 2018 (Paper No. 20180327), examiner Philip J. Bonzell; transcribed at research/patents/wrapper/final-rejection-2018-03-30.txt",
+    "url": null
+   },
+   "text": "The Final Rejection rejects the physical premise of the craft in terms, not merely the sufficiency of the disclosure. Answering the argument that the field generator 'would generate a repulsive EM energy field while in earth's atmosphere, thereby repelling air molecules in its path of ascent/flight', the examiner wrote: 'however, this is not true. There is no such thing as a \"repulsive EM energy field\". Electromagnetism can be repulsive in certain circumstances, but there is no blanket field that repels everything.' He concluded that 'it is impossible to generate the electric and magnetic field that would be required to create the so called claimed effect of inertial mass reduction.'",
+   "tier": 1
+  },
+  "c-a3434ea538": {
+   "id": "c-a3434ea538",
+   "kind": "claim",
+   "node": "millis-tm-2004-213082",
+   "nodeLabel": "NASA/TM-2004-213082, 'Prospects for Breakthrough Propulsion from Physics' (2004)",
+   "source": {
+    "domain": "ntrs.nasa.gov",
+    "text": "NASA/TM-2004-213082, Marc G. Millis, 'Prospects for Breakthrough Propulsion from Physics', NASA Glenn Research Center, 19 pages, https://ntrs.nasa.gov/api/citations/20040070788/downloads/20040070788.pdf , opened 2026-09-19",
+    "url": "https://ntrs.nasa.gov/api/citations/20040070788/downloads/20040070788.pdf"
+   },
+   "text": "Section 3.3.2 treats high frequency gravitational waves as a DETECTION problem, opening 'Fundamentally, gravitational waves are perturbations in spacetime caused by violent accelerations of large masses, such as collisions of black holes' and proceeding to interferometry and LIGO. Fifteen years later the US Navy was granted US 10,322,827 for a high frequency gravitational wave GENERATOR. Both statements are Tier 1 for what their own documents say.",
+   "tier": 1
+  },
+  "c-a3d6992d1f": {
+   "id": "c-a3d6992d1f",
+   "kind": "claim",
+   "node": "salvatore-pais",
+   "nodeLabel": "Salvatore Cezar Pais",
+   "source": {
+    "domain": "www.twz.com",
+    "text": "Brett Tingley, 'The Navy Finally Speaks Up About Its Bizarre \"UFO Patent\" Experiments', The War Zone, updated 1 February 2021, quoting Timothy Boulay, Communications Director, NAWCAD, https://www.twz.com/39012/the-navy-finally-speaks-up-about-its-bizarre-ufo-patent-experiments , opened 2026-09-19",
+    "url": "https://www.twz.com/39012/the-navy-finally-speaks-up-about-its-bizarre-ufo-patent-experiments"
+   },
+   "text": "THE NAVY'S OWN TEST RESULT, FROM A NAMED NAVY OFFICIAL, REPLACING THE BOARD'S PREVIOUS ENCYCLOPEDIA CITATION FOR THE SAME FACT. Timothy Boulay, Communications Director at NAWCAD, quoted by Brett Tingley of The War Zone: 'The High Energy Electromagnetic Field Generator testing occurred from October 2016 through September 2019.' 'The cost was $508,000 over the course of three years. Around ninety percent of the total - $462,000 - was for salaries, while the rest was used for equipment, test preparation, testing and assessment.' And: 'When NAWCAD concluded testing in September 2019, the \"Pais Effect\" could not be proven.' Tier 2 because this is a named person on the record and not a document this board has opened; the underlying FOIA release is still not in the board's hands.",
+   "tier": 2
+  },
+  "c-a4201d5a70": {
+   "id": "c-a4201d5a70",
+   "kind": "claim",
+   "node": "salvatore-pais",
+   "nodeLabel": "Salvatore Cezar Pais",
+   "source": {
+    "domain": "www.navair.navy.mil",
+    "text": "NAVAIR FOIA release 2021-003244, 'PAX 205 - INERTIAL MASS REDUCTION DEVICE', p. 1, https://www.navair.navy.mil/foia/sites/g/files/jejdrs566/files/document/%5Bfilename%5D/2021-003244%20FINAL%20VERSION%20PAX%20205%20-%20INERTIAL%20MASS%20REDUCTION%20DEVICE.pdf",
+    "url": "https://www.navair.navy.mil/foia/sites/g/files/jejdrs566/files/document/%5Bfilename%5D/2021-003244%20FINAL%20VERSION%20PAX%20205%20-%20INERTIAL%20MASS%20REDUCTION%20DEVICE.pdf"
+   },
+   "text": "The Navy invention-disclosure briefing for Navy Case PAX 205 identifies its author as 'Salvatore Cezar Pais, Ph.D., Department of Defense / Department of the Navy, Naval Air Systems Command / NAWCAD, NAS Patuxent River Maryland 20670', with competency code 4.4.5.1 and a salvatore.pais@navy.mil address.",
+   "tier": 1
+  },
+  "c-a9a2479445": {
+   "id": "c-a9a2479445",
+   "kind": "claim",
+   "node": "salvatore-pais",
+   "nodeLabel": "Salvatore Cezar Pais",
+   "source": {
+    "domain": null,
+    "text": "USPTO file wrapper, application 15/141,270 (PAX 205), retrieved from USPTO Patent Center 28 August 2026; document image JJEEPSU2RXEAPX0.pdf, Advisory Action mailed 11 July 2018; transcript at research/patents/wrapper/advisory-action-2018-07-11.txt",
+    "url": null
+   },
+   "text": "The examiner conceded the theory and still refused the claims. The Advisory Action of 11 July 2018 says of the Sheehy declaration: 'While the Examiner agrees that the math and physics are sound in this application, the Examiner holds that the claims are still not enabled.' The distinction is the whole case: enablement asks whether a person skilled in the art could BUILD the thing, not whether the equations are consistent.",
+   "tier": 1
+  },
+  "c-aab537f28f": {
+   "id": "c-aab537f28f",
+   "kind": "claim",
+   "node": "salvatore-pais",
+   "nodeLabel": "Salvatore Cezar Pais",
+   "source": {
+    "domain": null,
+    "text": "NAVAIR FOIA release 2021-003244, PAX 205 briefing, slides 4-5, compared against the reported characteristics on this board",
+    "url": null
+   },
+   "text": "The PAX 205 description of a single craft combining transmedium air/space/water travel, extreme speed without skin friction, and low observability through non-linear scattering of RF and sonar tracks the flight characteristics reported by Navy aircrew in the same period more closely than any other document in the federal patent record. Reasoning: direct comparison of the briefing's own capability list against the reported characteristics; the correspondence is a matter of textual overlap and does not establish a causal direction in either direction.",
+   "tier": 3
+  },
+  "c-ae3ffae619": {
+   "id": "c-ae3ffae619",
+   "kind": "claim",
+   "node": "salvatore-pais",
+   "nodeLabel": "Salvatore Cezar Pais",
+   "source": {
+    "domain": null,
+    "text": "Stated inference; no primary record bears on the origin question either way",
+    "url": null
+   },
+   "text": "The clearance argument does survive against a narrower and more defensible claim: classification constrains what a cleared person may say about the ORIGIN of a concept, not about whether hardware sits on his bench. A person read into a compartment could write 'no prototype in existence' truthfully while being unable to state that he knew the effect to be real from data he was not free to cite. Nothing in the released record establishes that this is what happened, and nothing in it excludes the possibility. Reasoning: stated inference distinguishing two different questions the same sentence is often taken to answer.",
+   "tier": 3
+  },
+  "c-aebf6489bc": {
+   "id": "c-aebf6489bc",
+   "kind": "claim",
+   "node": "pais-patent-imrd",
+   "nodeLabel": "US Patent 10,144,532 - Craft using an inertial mass reduction device",
+   "source": {
+    "domain": null,
+    "text": "USPTO file wrapper, application 15/141,270 (PAX 205), retrieved from USPTO Patent Center 28 August 2026; document images JLZJWBOMRXEAPX0.pdf and JLZJWBOORXEAPX0.pdf, Appeal Brief under 37 C.F.R. 41.37 faxed 20 August 2018; notes at research/patents/wrapper/appeal-brief-2018-08-20.txt",
+    "url": null
+   },
+   "text": "The independent claim is narrow and mechanical. As summarised in the Appeal Brief, claim 1 is the only independent claim and recites an inner resonant cavity wall, an outer resonant cavity wall and microwave emitters; the emitters create high frequency electromagnetic waves throughout the resonant cavity, causing the outer wall to vibrate in an accelerated mode and create a local polarized vacuum outside it. There are four claims in total.",
+   "tier": 1
+  },
+  "c-b12198f917": {
+   "id": "c-b12198f917",
+   "kind": "claim",
+   "node": "salvatore-pais",
+   "nodeLabel": "Salvatore Cezar Pais",
+   "source": {
+    "domain": "patentimages.storage.googleapis.com",
+    "text": "US Patent 10,144,532 B2, 'Craft using an inertial mass reduction device', printed front page and specification, https://patentimages.storage.googleapis.com/de/4c/43/62c585ccc936cc/US10144532.pdf , opened 2026-09-19",
+    "url": "https://patentimages.storage.googleapis.com/de/4c/43/62c585ccc936cc/US10144532.pdf"
+   },
+   "text": "THE NAVY'S SPONSORSHIP IS PRINTED ON THE FACE OF THE PATENT AND NOT INFERRED. US 10,144,532's front page carries, verbatim: '(73) Assignee: The United States of America as represented by the Secretary of the Navy, Washington, DC (US)'; '(74) Attorney, Agent, or Firm - Mark O Glut; NAWCAD'; and 'Primary Examiner - Philip J Bonzell'. The government did not merely take an assignment: it paid a NAWCAD attorney to prosecute the application, before the same examiner the board's existing Tier 1 claim names as the addressee of the Sheehy letter of 15 December 2017.",
+   "tier": 1
+  },
+  "c-b25431bf87": {
+   "id": "c-b25431bf87",
+   "kind": "claim",
+   "node": "salvatore-pais",
+   "nodeLabel": "Salvatore Cezar Pais",
+   "source": {
+    "domain": null,
+    "text": "NAVAIR FOIA release 2021-003244, PAX 205 briefing, slide 6",
+    "url": null
+   },
+   "text": "The PAX 205 briefing proposes Section 219 NISE funding of 250,000 USD in anticipated labour and 250,000 USD in anticipated NAWCAD facility cost for experimental investigation of the concept, under a slide headed 'EXPERIMENT TRUMPS THEORY EVERYTIME!'",
+   "tier": 1
+  },
+  "c-b315ec417b": {
+   "id": "c-b315ec417b",
+   "kind": "claim",
+   "node": "invention-secrecy-act",
+   "nodeLabel": "Invention Secrecy Act of 1951 (Pub. L. 82-256, 66 Stat. 3), codified at 35 U.S.C. 181-188",
+   "source": {
+    "domain": "uscode.house.gov",
+    "text": "35 U.S.C. 181, Office of the Law Revision Counsel, https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title35-section181&num=0&edition=prelim",
+    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title35-section181&num=0&edition=prelim"
+   },
+   "text": "The Act reaches inventions the government does not own. Section 181 second paragraph: where the Commissioner of Patents believes disclosure of an invention 'in which the Government does not have a property interest' might be detrimental to the national security, 'he shall make the application for patent in which such invention is disclosed available for inspection to the Atomic Energy Commission, the Secretary of Defense, and the chief officer of any other department or agency of the Government designated by the President as a defense agency of the United States.'",
+   "tier": 1
+  },
+  "c-c1e274eb26": {
+   "id": "c-c1e274eb26",
+   "kind": "claim",
+   "node": "salvatore-pais",
+   "nodeLabel": "Salvatore Cezar Pais",
+   "source": {
+    "domain": "mgln.ai",
+    "text": "American Alchemy with Jesse Michels, 'Congressman: President Trump Was Briefed On Alien Hybrids!', 2 July 2026, 0:36:49 https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL2654068830.mp3",
+    "url": "https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL2654068830.mp3"
+   },
+   "text": "On American Alchemy with Jesse Michels, 2 July 2026, Rep. Eric Burlison described an official visit to NAS Patuxent River at which he asked for and was granted a meeting with Pais, went down the list of the patents, and was told that one of them had been built and tested but that no definitive result was obtained. Burlison said Pais's position was 'that was not built to his specifications', and that Dr. Jon Kosloski was present and was the only other person in the room following the physics (0:36:49 to 0:39:35). Burlison hedged which patent was tested, saying only 'I believe the anti-gravitic one'.",
+   "tier": 2
+  },
+  "c-c3cb51583f": {
+   "id": "c-c3cb51583f",
+   "kind": "claim",
+   "node": "salvatore-pais",
+   "nodeLabel": "Salvatore Cezar Pais",
+   "source": {
+    "domain": null,
+    "text": "USPTO application data for 15/141270 (product PTGRXML, data.uspto.gov), retrieved from the file wrapper 28 August 2026",
+    "url": null
+   },
+   "text": "The assignment of record is reel 38412, frame 0760: assignor PAIS, SALVATORE, execution date 27 April 2016, recorded 28 April 2016, assignee DEPARTMENT OF THE NAVY, attorney docket number PAX 205. This is the documentary link between the granted patent and the NAVAIR invention-disclosure briefing released under FOIA, which carries the same Navy case number.",
+   "tier": 1
+  },
+  "c-c425bef6ba": {
+   "id": "c-c425bef6ba",
+   "kind": "claim",
+   "node": "salvatore-pais",
+   "nodeLabel": "Salvatore Cezar Pais",
+   "source": {
+    "domain": null,
+    "text": "Stated inference from the two USPTO application-data records, with the competing readings recorded alongside it",
+    "url": null
+   },
+   "text": "That both grants lapsed the same way weakens the reading that either was an isolated docketing slip, and it also weakens the sharper reading that the Navy specifically wanted the finding on the craft and not the property right. An office that files, prosecutes and then renews nothing across a family is exhibiting a maintenance practice, and a practice is as consistent with routine cost control on patents the Navy would never sue to enforce as it is with a judgement about these particular inventions. What can be said without inference is that the Navy paid to obtain both patents, fought a two-year appeal for one of them, and then let both go.",
+   "tier": 3
+  },
+  "c-c4a5cf535e": {
+   "id": "c-c4a5cf535e",
+   "kind": "claim",
+   "node": "salvatore-pais",
+   "nodeLabel": "Salvatore Cezar Pais",
+   "source": {
+    "domain": null,
+    "text": "USPTO file wrapper, application 15/141,270 (PAX 205), retrieved from USPTO Patent Center 28 August 2026; document image JCTFAFUKPXXIFW1.pdf, NAVAIR Ser 40T/33 dated 15 December 2017; transcript at research/patents/wrapper/sheehy-letter-2017-12-15.txt",
+    "url": null
+   },
+   "text": "The letter describes the actual test rig in specific terms: 'tests using a battery to charge a 10 cm test sample spinning at up to 100,000 RPM and is able maintain charge on these batteries for dwell times of more than 25 minutes (at max RPM) without loss of load', with a fallback to 'a super-capacitor as the spinning test asset' and a test asset surface charge density 'on the order of one Coulomb/meter 2'. This is the only description of the apparatus located on this board that comes from a government document rather than from reporting.",
+   "tier": 1
+  },
+  "c-c4b01f1230": {
+   "id": "c-c4b01f1230",
+   "kind": "claim",
+   "node": "pais-patent-emfg",
+   "nodeLabel": "US Patent 10,135,366 - Electromagnetic field generator",
+   "source": {
+    "domain": null,
+    "text": "USPTO application data for 14/807943 (product PTGRXML, data.uspto.gov), retrieved from the file wrapper 28 August 2026",
+    "url": null
+   },
+   "text": "The prosecution was short and uncontested. One non-final rejection was written on 12 June 2018 and mailed 20 June 2018; an applicant-initiated telephonic interview followed on 10 July 2018; the applicant responded on 19 July 2018; and the Notice of Allowability was signed on 13 September 2018. There was no final rejection, no affidavit or declaration under 37 CFR 1.132, no Notice of Appeal and no appeal brief.",
+   "tier": 1
+  },
+  "c-c5abd8fb7e": {
+   "id": "c-c5abd8fb7e",
+   "kind": "claim",
+   "node": "salvatore-pais",
+   "nodeLabel": "Salvatore Cezar Pais",
+   "source": {
+    "domain": null,
+    "text": "USPTO application data for 15/141270 (product PTGRXML, data.uspto.gov), retrieved from the file wrapper 28 August 2026",
+    "url": null
+   },
+   "text": "The application was pulled for security screening at filing. USPTO events record 'Referred to Level 2 (LARS) by OIPE CSR' and 'Referred by L&R for Third-Level Security Review. Agency Referral Letter Generated', both dated 2 May 2016, with 'Waiting LR clearance' on 12 May 2016. It cleared; no secrecy order issued.",
+   "tier": 1
+  },
+  "c-d0ee8345c2": {
+   "id": "c-d0ee8345c2",
+   "kind": "claim",
+   "node": "salvatore-pais",
+   "nodeLabel": "Salvatore Cezar Pais",
+   "source": {
+    "domain": null,
+    "text": "NAVAIR FOIA release 2021-003244, PAX 205 briefing, slides 4 and 6",
+    "url": null
+   },
+   "text": "The argument that a cleared federal employee cannot confirm a working article, and so a denial from one carries little evidentiary weight, does not reach the 'no prototype in existence' statement in its strongest form, because that statement was not made to the public. It appears on an internal NAVAIR invention-disclosure slide addressed to the officials deciding whether to grant the author roughly 500,000 dollars to build an experiment. The incentive in that room runs the other way: an applicant who already possessed a working article would not gain by telling his own funding authority he had nothing. Reasoning: stated inference from the document's audience and purpose, which are visible on its face.",
+   "tier": 3
+  },
+  "c-d1e72c24e5": {
+   "id": "c-d1e72c24e5",
+   "kind": "claim",
+   "node": "salvatore-pais",
+   "nodeLabel": "Salvatore Cezar Pais",
+   "source": {
+    "domain": null,
+    "text": "USPTO file wrappers for applications 14/807,943 and 15/141,270, compared, read 28 August 2026",
+    "url": null
+   },
+   "text": "The two applications were treated very differently by the Office, and the comparison is the strongest thing this cluster now has. The electromagnetic field generator, filed 24 July 2015, drew one non-final rejection and was allowed by Thomas M. Dougherty in Art Unit 2837 because 'the prior art fails to show' the claimed generator, with enablement never raised. The craft, filed nine months later on 28 April 2016 and expressly incorporating that generator by reference, was rejected twice by Philip J. Bonzell in Art Units 3644 and 3642 as not enabled and impossible, and reached allowance only after a Notice of Appeal and an Appeal Brief. The same physics, the same inventor and the same office of counsel produced opposite results depending on whether the claim was to the component or to the craft.",
+   "tier": 1
+  },
+  "c-d5d463b6da": {
+   "id": "c-d5d463b6da",
+   "kind": "claim",
+   "node": "pais-patent-imrd",
+   "nodeLabel": "US Patent 10,144,532 - Craft using an inertial mass reduction device",
+   "source": {
+    "domain": "www.freepatentsonline.com",
+    "text": "https://www.freepatentsonline.com/10144532.html",
+    "url": "https://www.freepatentsonline.com/10144532.html"
+   },
+   "text": "US Patent 10,144,532, 'Craft using an inertial mass reduction device', application number 15/141270, filing date 28 April 2016, publication date 4 December 2018, assignee 'The United States of America as represented by the Secretary of the Navy', international class B64G1/40.",
+   "tier": 2
+  },
+  "c-dd203b1035": {
+   "id": "c-dd203b1035",
+   "kind": "claim",
+   "node": "five-observables",
+   "nodeLabel": "The five observables (UAP performance taxonomy)",
+   "source": {
+    "domain": null,
+    "text": "NAVAIR FOIA release 2021-003244, PAX 205 briefing, slides 4-5, read against the five as published",
+    "url": null
+   },
+   "text": "The fifth observable, sudden and instantaneous acceleration, is NOT itemised as a design goal in the PAX 205 briefing. The briefing speaks of operating the device 'under rapid acceleration transients' as a means of generating the field, which is a statement about how the machine is driven rather than a claimed flight characteristic of the craft. Recorded because four out of five is the accurate figure and five would be the easy overclaim.",
+   "tier": 1
+  },
+  "c-dea9e5af37": {
+   "id": "c-dea9e5af37",
+   "kind": "claim",
+   "node": "salvatore-pais",
+   "nodeLabel": "Salvatore Cezar Pais",
+   "source": {
+    "domain": null,
+    "text": "NAVAIR FOIA release 2021-003244, PAX 205 briefing, slides 4 and 6",
+    "url": null
+   },
+   "text": "The PAX 205 briefing states twice that the invention 'is a theoretical concept - no prototype in existence, as yet', and gives the invention original date as 06/03/2015.",
+   "tier": 1
+  },
+  "c-e23daeb173": {
+   "id": "c-e23daeb173",
+   "kind": "claim",
+   "node": "salvatore-pais",
+   "nodeLabel": "Salvatore Cezar Pais",
+   "source": {
+    "domain": "patentimages.storage.googleapis.com",
+    "text": "US Patent 10,144,532 B2, 'Craft using an inertial mass reduction device', printed front page and specification, https://patentimages.storage.googleapis.com/de/4c/43/62c585ccc936cc/US10144532.pdf , opened 2026-09-19",
+    "url": "https://patentimages.storage.googleapis.com/de/4c/43/62c585ccc936cc/US10144532.pdf"
+   },
+   "text": "A PATENT IS TIER 1 FOR WHAT IT CLAIMS AND NEVER FOR WHETHER THE THING WORKS, and what US 10,144,532 claims, in its own abstract: 'A craft using an inertial mass reduction device comprises of an inner resonant cavity wall, an outer resonant cavity, and microwave emitters. The electrically charged outer resonant cavity wall and the electrically insulated inner resonant cavity wall form a resonant cavity. The microwave emitters create high frequency electromagnetic waves throughout the resonant cavity causing the resonant cavity to vibrate in an accelerated mode and create a local polarized vacuum outside the outer resonant cavity wall.' The mechanism the specification gives is 'negative pressure (hence repulsive gravity) exhibited by the polarized local vacuum energy state'.",
+   "tier": 1
+  },
+  "c-e5fe7f80a8": {
+   "id": "c-e5fe7f80a8",
+   "kind": "claim",
+   "node": "pais-patent-emfg",
+   "nodeLabel": "US Patent 10,135,366 - Electromagnetic field generator",
+   "source": {
+    "domain": null,
+    "text": "USPTO application data for 14/807943 (product PTGRXML, data.uspto.gov), retrieved from the file wrapper 28 August 2026",
+    "url": null
+   },
+   "text": "Application 14/807,943 was examined by Thomas M. Dougherty in Art Unit 2837 under Navy docket PAX 182, confirmation number 9752, with Shawki Ismail named as supervisor. That is a different examiner and a different art unit from the craft application 15/141,270, which Philip J. Bonzell examined in Art Units 3644 and 3642.",
+   "tier": 1
+  },
+  "c-f1d3089285": {
+   "id": "c-f1d3089285",
+   "kind": "claim",
+   "node": "invention-secrecy-act",
+   "nodeLabel": "Invention Secrecy Act of 1951 (Pub. L. 82-256, 66 Stat. 3), codified at 35 U.S.C. 181-188",
+   "source": {
+    "domain": "www.govinfo.gov",
+    "text": "66 Stat. 3, Statutes at Large volume 66, govinfo, https://www.govinfo.gov/content/pkg/STATUTE-66/pdf/STATUTE-66-Pg3.pdf",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-66/pdf/STATUTE-66-Pg3.pdf"
+   },
+   "text": "The Act's own short title and date: the Statutes at Large prints the marginal note 'Invention Secrecy Act of 1951.' beside section 1 of 'Public Law 256', 'CHAPTER 4', an Act 'To provide for the withholding of certain patents that might be detrimental to the national security, and for other purposes', approved 'February 1, 1952 [H.R.4687]'.",
+   "tier": 1
+  },
+  "c-f38a8a8dcb": {
+   "id": "c-f38a8a8dcb",
+   "kind": "claim",
+   "node": "luis-elizondo",
+   "nodeLabel": "Luis D. Elizondo",
+   "source": {
+    "domain": null,
+    "text": "Susan Gough, DoD spokesperson, to The Black Vault, 13 June 2019",
+    "url": null
+   },
+   "text": "'It makes no change to previous statements. Mr. Elizondo had no assigned responsibilities for AATIP while he was in OUSD(I). DIA administered AATIP, and Elizondo was never assigned to DIA. Elizondo did interact with the DIA office managing the program while the program was still ongoing, but he did not lead it.'",
+   "tier": 1
+  },
+  "c-fb470865de": {
+   "id": "c-fb470865de",
+   "kind": "claim",
+   "node": "pais-patent-emfg",
+   "nodeLabel": "US Patent 10,135,366 - Electromagnetic field generator",
+   "source": {
+    "domain": "www.twz.com",
+    "text": "Brett Tingley, The War Zone, updated 1 February 2021, quoting Timothy Boulay, Communications Director, NAWCAD, https://www.twz.com/39012/the-navy-finally-speaks-up-about-its-bizarre-ufo-patent-experiments , opened 2026-09-19",
+    "url": "https://www.twz.com/39012/the-navy-finally-speaks-up-about-its-bizarre-ufo-patent-experiments"
+   },
+   "text": "THIS IS THE ONE PAIS DEVICE THE NAVY ACTUALLY TESTED, AND THE TEST FAILED. Timothy Boulay, Communications Director at NAWCAD, on the record to Brett Tingley of The War Zone: 'The High Energy Electromagnetic Field Generator testing occurred from October 2016 through September 2019.' 'The cost was $508,000 over the course of three years. Around ninety percent of the total - $462,000 - was for salaries, while the rest was used for equipment, test preparation, testing and assessment.' And: 'When NAWCAD concluded testing in September 2019, the \"Pais Effect\" could not be proven.' Tier 2 because this is a named official on the record and not a document this board has opened; the underlying FOIA release is not in the board's hands.",
+   "tier": 2
+  },
+  "c-fb7370e586": {
+   "id": "c-fb7370e586",
+   "kind": "claim",
+   "node": "salvatore-pais",
+   "nodeLabel": "Salvatore Cezar Pais",
+   "source": {
+    "domain": null,
+    "text": "Patent bibliographic records for US10135366, US10144532, US10322827, US20190058105 and US20190295733 (FreePatentsOnline mirror of the USPTO full-text record), read 28 August 2026",
+    "url": null
+   },
+   "text": "Five patent filings between July 2015 and March 2018 name Pais as inventor and are assigned to the United States as represented by the Secretary of the Navy: applications 14/807943, 15/141270, 15/431823, 15/678672 and 15/928703. Three issued as US 10,135,366, US 10,144,532 and US 10,322,827.",
+   "tier": 2
+  },
+  "c-fba61217b0": {
+   "id": "c-fba61217b0",
+   "kind": "claim",
+   "node": "five-observables",
+   "nodeLabel": "The five observables (UAP performance taxonomy)",
+   "source": {
+    "domain": "www.history.com",
+    "text": "Greg Daugherty and Missy Sullivan, 'These 5 UFO Traits, Captured on Video by Navy Fighters, Defy Explanation', History, 20 May 2019, updated 28 May 2025, https://www.history.com/articles/ufo-sightings-speed-appearance-movement",
+    "url": "https://www.history.com/articles/ufo-sightings-speed-appearance-movement"
+   },
+   "text": "The five observables are attributed to Luis Elizondo, who compiled them while running the Defense Department's Advanced Aerospace Threat Identification Program. As listed in History's account of the Navy videos, they are: 'Anti-gravity lift', 'Sudden and instantaneous acceleration', 'Hypersonic velocities without signatures', 'Low observability, or cloaking', and 'Trans-medium travel'. The article says he 'compiled a list of extraordinary, logic-defying capabilities most commonly associated with unidentified aerial phenomena sightings' and 'calls those traits the \"five observables\"'.",
+   "tier": 2
+  },
+  "c-fc09d86e45": {
+   "id": "c-fc09d86e45",
+   "kind": "claim",
+   "node": "us-navy",
+   "nodeLabel": "United States Navy",
+   "source": {
+    "domain": "www.twz.com",
+    "text": "Brett Tingley, The War Zone, updated 1 February 2021, quoting Timothy Boulay, Communications Director, NAWCAD, https://www.twz.com/39012/the-navy-finally-speaks-up-about-its-bizarre-ufo-patent-experiments , opened 2026-09-19",
+    "url": "https://www.twz.com/39012/the-navy-finally-speaks-up-about-its-bizarre-ufo-patent-experiments"
+   },
+   "text": "AND THE NAVY'S OWN TEST OF THE RELATED DEVICE FAILED, ON THE RECORD FROM A NAMED NAVY OFFICIAL. Timothy Boulay, Communications Director at NAWCAD: 'The High Energy Electromagnetic Field Generator testing occurred from October 2016 through September 2019'; 'The cost was $508,000 over the course of three years'; and 'When NAWCAD concluded testing in September 2019, the \"Pais Effect\" could not be proven.' The Navy filed it, the Navy funded it, the Navy tested it, and the Navy's own spokesman says the effect could not be proven. NO OTHER PROPULSION MECHANISM ON THIS BOARD HAS ALL FOUR.",
+   "tier": 2
+  },
+  "c-fc118a16f2": {
+   "id": "c-fc118a16f2",
+   "kind": "claim",
+   "node": "salvatore-pais",
+   "nodeLabel": "Salvatore Cezar Pais",
+   "source": {
+    "domain": null,
+    "text": "USPTO file wrapper, application 15/141,270 (PAX 205), retrieved from USPTO Patent Center 28 August 2026; document images JLZJWBOMRXEAPX0.pdf and JLZJWBOORXEAPX0.pdf, Appeal Brief under 37 C.F.R. 41.37 faxed 20 August 2018; notes at research/patents/wrapper/appeal-brief-2018-08-20.txt",
+    "url": null
+   },
+   "text": "The Appeal Brief states the ownership position without qualification: 'The real party in interested is the United States Government represented by the Secretary of the Navy (The Department of the Navy). The inventor is a U.S.government employee who invented the invention during the course of his employment. As a result, Federal law provides all rights to this invention belong to the United States of America under 37 C.F.R. 501.6.' This is the Navy's own characterisation, in a filing signed by its Office of Counsel.",
+   "tier": 1
+  },
+  "c-fc7769b7e6": {
+   "id": "c-fc7769b7e6",
+   "kind": "claim",
+   "node": "harold-puthoff",
+   "nodeLabel": "Harold E. Puthoff",
+   "source": {
+    "domain": "patentimages.storage.googleapis.com",
+    "text": "US Patent 10,144,532 B2, 'Craft using an inertial mass reduction device', printed front page and specification, https://patentimages.storage.googleapis.com/de/4c/43/62c585ccc936cc/US10144532.pdf , opened 2026-09-19",
+    "url": "https://patentimages.storage.googleapis.com/de/4c/43/62c585ccc936cc/US10144532.pdf"
+   },
+   "text": "A GRANTED US NAVY PATENT CITES HIM BY NAME ON ITS PRINTED FRONT PAGE. The 'Other Publications' list of US 10,144,532, 'Craft using an inertial mass reduction device', assigned to the Secretary of the Navy, includes 'Puthoff, H. E., Polarizable-Vacuum (PV) Approach to General Relativity, Foundations of Physics, Jun. 2002, vol. 32, No. 6'. This is a documentary join between the Navy filing and Puthoff, printed on the patent, and it is better evidence of the connection than any later statement about the same relationship.",
+   "tier": 1
+  },
+  "c-fd553fdbe7": {
+   "id": "c-fd553fdbe7",
+   "kind": "claim",
+   "node": "salvatore-pais",
+   "nodeLabel": "Salvatore Cezar Pais",
+   "source": {
+    "domain": null,
+    "text": "USPTO file wrapper, application 15/141,270 (PAX 205), retrieved from USPTO Patent Center 28 August 2026; document images JLZJWBOMRXEAPX0.pdf and JLZJWBOORXEAPX0.pdf, Appeal Brief under 37 C.F.R. 41.37 faxed 20 August 2018; notes at research/patents/wrapper/appeal-brief-2018-08-20.txt",
+    "url": null
+   },
+   "text": "The appeal was argued on burden of proof rather than on evidence of operability. The brief cites In re Rijckaert, 9 F.3d 1531 (Fed. Cir. 1993) and In re Oetiker, 977 F.2d 1443 (Fed. Cir. 1992) for the proposition that the burden of showing unpatentability rests on the Office and remains there even after a prima facie case. The Navy's legal position was that the examiner had not carried it, not that the device had been shown to work.",
+   "tier": 1
+  },
+  "e-0211f9d1dd": {
+   "endpoints": [
+    {
+     "id": "salvatore-pais",
+     "label": "Salvatore Cezar Pais"
+    },
+    {
+     "id": "pais-app-superconductor",
+     "label": "US Application 2019/0058105 - Piezoelectricity-induced Room Temperature Superconductor"
+    }
+   ],
+   "id": "e-0211f9d1dd",
+   "kind": "edge",
+   "label": "Named inventor",
+   "sources": [
+    {
+     "date": null,
+     "name": "US Application 2019/0058105",
+     "url": "https://www.freepatentsonline.com/20190058105.html"
+    }
+   ],
+   "text": "Application 15/678672, assigned to the Secretary of the Navy.",
+   "tier": 2,
+   "type": "programmatic"
+  },
+  "e-0765b03a3d": {
+   "endpoints": [
+    {
+     "id": "millis-tm-2004-213082",
+     "label": "NASA/TM-2004-213082, 'Prospects for Breakthrough Propulsion from Physics' (2004)"
+    },
+    {
+     "id": "pais-patent-hfgw",
+     "label": "US Patent 10,322,827 - High frequency gravitational wave generator"
+    }
+   ],
+   "id": "e-0765b03a3d",
+   "kind": "edge",
+   "label": "NASA treated high frequency gravitational waves as a detection problem in 2004",
+   "sources": [
+    {
+     "date": "2004",
+     "name": "NASA/TM-2004-213082, Marc G. Millis, 'Prospects for Breakthrough Propulsion from Physics', NASA Glenn Research Center, 19 pages",
+     "url": "https://ntrs.nasa.gov/api/citations/20040070788/downloads/20040070788.pdf"
+    }
+   ],
+   "text": "STATED INFERENCE ABOUT THE DISTANCE BETWEEN TWO DOCUMENTS AND NOT A REFUTATION. Section 3.3.2 opens 'Fundamentally, gravitational waves are perturbations in spacetime caused by violent accelerations of large masses' and proceeds to interferometry and LIGO. Fifteen years later US 10,322,827 was granted for a generator. Both statements are Tier 1 for what their own documents say and nothing opened joins them.",
+   "tier": 3,
+   "type": "research"
+  },
+  "e-0ab79628e4": {
+   "endpoints": [
+    {
+     "id": "salvatore-pais",
+     "label": "Salvatore Cezar Pais"
+    },
+    {
+     "id": "pais-app-fusion",
+     "label": "US Application 2019/0295733 - Plasma Compression Fusion Device"
+    }
+   ],
+   "id": "e-0ab79628e4",
+   "kind": "edge",
+   "label": "Named inventor",
+   "sources": [
+    {
+     "date": null,
+     "name": "US Application 2019/0295733",
+     "url": "https://www.freepatentsonline.com/20190295733.html"
+    }
+   ],
+   "text": "Application 15/928703, assigned to the Secretary of the Navy.",
+   "tier": 2,
+   "type": "programmatic"
+  },
+  "e-11e122d142": {
+   "endpoints": [
+    {
+     "id": "invention-secrecy-act",
+     "label": "Invention Secrecy Act of 1951 (Pub. L. 82-256, 66 Stat. 3), codified at 35 U.S.C. 181-188"
+    },
+    {
+     "id": "usc-50-3510",
+     "label": "50 U.S.C. 3510 - CIA unvouchered funds (CIA Act of 1949, sec. 8)"
+    }
+   ],
+   "id": "e-11e122d142",
+   "kind": "edge",
+   "label": "Paired instruments, one hiding an invention and the other an expenditure",
+   "sources": [
+    {
+     "date": null,
+     "name": "35 U.S.C. 181, Secrecy of certain inventions and withholding of patent",
+     "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title35-section181&num=0&edition=prelim"
+    }
+   ],
+   "text": "Two statutory instruments of the same architecture, one hiding an invention and the other hiding an expenditure; the pairing is the board's argument, not either statute's text.",
+   "tier": 2,
+   "type": "legislative"
+  },
+  "e-16ebae69c7": {
+   "endpoints": [
+    {
+     "id": "salvatore-pais",
+     "label": "Salvatore Cezar Pais"
+    },
+    {
+     "id": "l-pax-river",
+     "label": "Naval Air Station Patuxent River, Maryland"
+    }
+   ],
+   "id": "e-16ebae69c7",
+   "kind": "edge",
+   "label": "NAWCAD, NAS Patuxent River, at the time of filing",
+   "sources": [
+    {
+     "date": null,
+     "name": "NAVAIR FOIA release 2021-003244, p. 1",
+     "url": "https://www.navair.navy.mil/foia/sites/g/files/jejdrs566/files/document/%5Bfilename%5D/2021-003244%20FINAL%20VERSION%20PAX%20205%20-%20INERTIAL%20MASS%20REDUCTION%20DEVICE.pdf"
+    }
+   ],
+   "text": "The PAX 205 briefing gives his station as NAS Patuxent River Maryland 20670.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-2bf2582793": {
+   "endpoints": [
+    {
+     "id": "pax-205-disclosure",
+     "label": "NAVAIR Invention Disclosure Briefing, Navy Case PAX 205 (Inertial Mass Reduction Device)"
+    },
+    {
+     "id": "pais-patent-imrd",
+     "label": "US Patent 10,144,532 - Craft using an inertial mass reduction device"
+    }
+   ],
+   "id": "e-2bf2582793",
+   "kind": "edge",
+   "label": "Internal disclosure underlying the granted patent",
+   "sources": [
+    {
+     "date": null,
+     "name": "NAVAIR FOIA release 2021-003244",
+     "url": "https://www.navair.navy.mil/foia/sites/g/files/jejdrs566/files/document/%5Bfilename%5D/2021-003244%20FINAL%20VERSION%20PAX%20205%20-%20INERTIAL%20MASS%20REDUCTION%20DEVICE.pdf"
+    }
+   ],
+   "text": "Both are the inertial mass reduction device; the briefing carries the Navy case number PAX 205 and the patent is the filing that resulted.",
+   "tier": 1,
+   "type": "programmatic"
+  },
+  "e-43262f2737": {
+   "endpoints": [
+    {
+     "id": "salvatore-pais",
+     "label": "Salvatore Cezar Pais"
+    },
+    {
+     "id": "harold-puthoff",
+     "label": "Harold E. Puthoff"
+    }
+   ],
+   "id": "e-43262f2737",
+   "kind": "edge",
+   "label": "US 10,144,532 cites Puthoff's Polarizable-Vacuum paper on its printed front page",
+   "sources": [
+    {
+     "date": "2018-12-04",
+     "name": "US Patent 10,144,532 B2, 'Craft using an inertial mass reduction device', printed front page",
+     "url": "https://patentimages.storage.googleapis.com/de/4c/43/62c585ccc936cc/US10144532.pdf"
+    }
+   ],
+   "text": "A DOCUMENTARY JOIN PRINTED ON A GRANTED US NAVY PATENT, which is better evidence of a connection than any later statement about the same relationship. The 'Other Publications' list includes 'Puthoff, H. E., Polarizable-Vacuum (PV) Approach to General Relativity, Foundations of Physics, Jun. 2002, vol. 32, No. 6'. The edge asserts the citation and nothing about any personal or professional contact, for which nothing was opened.",
+   "tier": 1,
+   "type": "research"
+  },
+  "e-5e40ea3c29": {
+   "endpoints": [
+    {
+     "id": "luis-elizondo",
+     "label": "Luis D. Elizondo"
+    },
+    {
+     "id": "five-observables",
+     "label": "The five observables (UAP performance taxonomy)"
+    }
+   ],
+   "id": "e-5e40ea3c29",
+   "kind": "edge",
+   "label": "Formulated the taxonomy",
+   "sources": [
+    {
+     "date": null,
+     "name": "History, 20 May 2019",
+     "url": "https://www.history.com/articles/ufo-sightings-speed-appearance-movement"
+    }
+   ],
+   "text": "Attributed to Elizondo from his AATIP work. No government document stating the set has been located, so this rests on reporting and on his own organisation's publication of it.",
+   "tier": 2,
+   "type": "research"
+  },
+  "e-5ea45d9614": {
+   "endpoints": [
+    {
+     "id": "five-observables",
+     "label": "The five observables (UAP performance taxonomy)"
+    },
+    {
+     "id": "pais-patent-imrd",
+     "label": "US Patent 10,144,532 - Craft using an inertial mass reduction device"
+    }
+   ],
+   "id": "e-5ea45d9614",
+   "kind": "edge",
+   "label": "The craft claimed to deliver them",
+   "sources": [
+    {
+     "date": null,
+     "name": "NAVAIR FOIA release 2021-003244, PAX 205 briefing",
+     "url": "https://www.navair.navy.mil/foia/sites/g/files/jejdrs566/files/document/%5Bfilename%5D/2021-003244%20FINAL%20VERSION%20PAX%20205%20-%20INERTIAL%20MASS%20REDUCTION%20DEVICE.pdf"
+    }
+   ],
+   "text": "US 10,144,532 is the patent application arising from PAX 205 and claims the mechanism the briefing offers for the four mapped observables.",
+   "tier": 2,
+   "type": "research"
+  },
+  "e-68119aee15": {
+   "endpoints": [
+    {
+     "id": "luis-elizondo",
+     "label": "Luis D. Elizondo"
+    },
+    {
+     "id": "l-pax-river",
+     "label": "Naval Air Station Patuxent River, Maryland"
+    }
+   ],
+   "id": "e-68119aee15",
+   "kind": "edge",
+   "label": "Elizondo placed Pax River among the sites prepared for the blocked Lockheed-Bigelow transfer",
+   "sources": [
+    {
+     "date": "2026-01-13",
+     "name": "Christopher Sharp, 'UFO Allegedly Stored At East Coast Navy Facility As Material Transfer Claims Resurface,' Liberation Times",
+     "url": "https://www.liberationtimes.com/home/ufo-allegedly-stored-at-east-coast-navy-facility-as-material-transfer-claims-resurface"
+    }
+   ],
+   "text": "Reported from his written congressional testimony: a hangar at the base was allegedly designed to facilitate movement of material by air and by river.",
+   "tier": 2,
+   "type": "witness-chain"
+  },
+  "e-90d5a4103d": {
+   "endpoints": [
+    {
+     "id": "salvatore-pais",
+     "label": "Salvatore Cezar Pais"
+    },
+    {
+     "id": "pax-205-disclosure",
+     "label": "NAVAIR Invention Disclosure Briefing, Navy Case PAX 205 (Inertial Mass Reduction Device)"
+    }
+   ],
+   "id": "e-90d5a4103d",
+   "kind": "edge",
+   "label": "Author of the Navy invention disclosure",
+   "sources": [
+    {
+     "date": null,
+     "name": "NAVAIR FOIA release 2021-003244",
+     "url": "https://www.navair.navy.mil/foia/sites/g/files/jejdrs566/files/document/%5Bfilename%5D/2021-003244%20FINAL%20VERSION%20PAX%20205%20-%20INERTIAL%20MASS%20REDUCTION%20DEVICE.pdf"
+    }
+   ],
+   "text": "The briefing names him as author with his NAWCAD competency code 4.4.5.1 and navy.mil address on its first page.",
+   "tier": 1,
+   "type": "programmatic"
+  },
+  "e-ab522e8de8": {
+   "endpoints": [
+    {
+     "id": "five-observables",
+     "label": "The five observables (UAP performance taxonomy)"
+    },
+    {
+     "id": "pax-205-disclosure",
+     "label": "NAVAIR Invention Disclosure Briefing, Navy Case PAX 205 (Inertial Mass Reduction Device)"
+    }
+   ],
+   "id": "e-ab522e8de8",
+   "kind": "edge",
+   "label": "Four of five itemised as design goals",
+   "sources": [
+    {
+     "date": null,
+     "name": "NAVAIR FOIA release 2021-003244, PAX 205 briefing, slides 4-5",
+     "url": "https://www.navair.navy.mil/foia/sites/g/files/jejdrs566/files/document/%5Bfilename%5D/2021-003244%20FINAL%20VERSION%20PAX%20205%20-%20INERTIAL%20MASS%20REDUCTION%20DEVICE.pdf"
+    }
+   ],
+   "text": "Trans-medium travel, hypersonic velocity without signatures, low observability and lift without flight surfaces all appear as goals in the Navy briefing. Sudden acceleration does not. The edge is Tier 2 because the taxonomy half rests on reporting, even though the briefing half is Tier 1.",
+   "tier": 2,
+   "type": "research"
+  },
+  "e-b0456f2b24": {
+   "endpoints": [
+    {
+     "id": "us-navy",
+     "label": "United States Navy"
+    },
+    {
+     "id": "pais-patent-imrd",
+     "label": "US Patent 10,144,532 - Craft using an inertial mass reduction device"
+    }
+   ],
+   "id": "e-b0456f2b24",
+   "kind": "edge",
+   "label": "Assignee of record",
+   "sources": [
+    {
+     "date": null,
+     "name": "US Patent 10,144,532",
+     "url": "https://www.freepatentsonline.com/10144532.html"
+    },
+    {
+     "date": "2018-12-04",
+     "name": "US Patent 10,144,532 B2, 'Craft using an inertial mass reduction device', printed front page",
+     "url": "https://patentimages.storage.googleapis.com/de/4c/43/62c585ccc936cc/US10144532.pdf"
+    }
+   ],
+   "text": "THE SPONSORSHIP IS PRINTED, NOT INFERRED, AND IT IS THE TEST THAT KEEPS KING OUT OF THE PATENTS VIEW. The front page carries '(73) Assignee: The United States of America as represented by the Secretary of the Navy, Washington, DC (US)', '(74) Attorney, Agent, or Firm - Mark O Glut; NAWCAD' and 'Primary Examiner - Philip J Bonzell'. US 3,322,374 by contrast carries no assignee line at all.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-b9e8ff5af0": {
+   "endpoints": [
+    {
+     "id": "salvatore-pais",
+     "label": "Salvatore Cezar Pais"
+    },
+    {
+     "id": "pais-patent-hfgw",
+     "label": "US Patent 10,322,827 - High frequency gravitational wave generator"
+    }
+   ],
+   "id": "e-b9e8ff5af0",
+   "kind": "edge",
+   "label": "Named inventor",
+   "sources": [
+    {
+     "date": null,
+     "name": "US Patent 10,322,827",
+     "url": "https://www.freepatentsonline.com/10322827.html"
+    }
+   ],
+   "text": "Application 15/431823, assigned to the Secretary of the Navy.",
+   "tier": 2,
+   "type": "programmatic"
+  },
+  "e-d916bdbc20": {
+   "endpoints": [
+    {
+     "id": "salvatore-pais",
+     "label": "Salvatore Cezar Pais"
+    },
+    {
+     "id": "pais-patent-emfg",
+     "label": "US Patent 10,135,366 - Electromagnetic field generator"
+    }
+   ],
+   "id": "e-d916bdbc20",
+   "kind": "edge",
+   "label": "Named inventor",
+   "sources": [
+    {
+     "date": null,
+     "name": "US Patent 10,135,366",
+     "url": "https://www.freepatentsonline.com/10135366.html"
+    }
+   ],
+   "text": "Application 14/807943, assigned to the Secretary of the Navy.",
+   "tier": 2,
+   "type": "programmatic"
+  },
+  "e-d9e17c4b73": {
+   "endpoints": [
+    {
+     "id": "invention-secrecy-act",
+     "label": "Invention Secrecy Act of 1951 (Pub. L. 82-256, 66 Stat. 3), codified at 35 U.S.C. 181-188"
+    },
+    {
+     "id": "pais-patent-imrd",
+     "label": "US Patent 10,144,532 - Craft using an inertial mass reduction device"
+    }
+   ],
+   "id": "e-d9e17c4b73",
+   "kind": "edge",
+   "label": "The control case for the patents tab: a propulsion patent that did issue",
+   "sources": [
+    {
+     "date": null,
+     "name": "35 U.S.C. 181, Secrecy of certain inventions and withholding of patent",
+     "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title35-section181&num=0&edition=prelim"
+    }
+   ],
+   "text": "A Navy-assigned propulsion patent that did issue is the control case for the tab: the Act is why an absence in the patent record is a legal artefact rather than evidence of nothing.",
+   "tier": 2,
+   "type": "programmatic"
+  },
+  "e-e85cdcada8": {
+   "endpoints": [
+    {
+     "id": "pais-patent-imrd",
+     "label": "US Patent 10,144,532 - Craft using an inertial mass reduction device"
+    },
+    {
+     "id": "pais-patent-hfgw",
+     "label": "US Patent 10,322,827 - High frequency gravitational wave generator"
+    }
+   ],
+   "id": "e-e85cdcada8",
+   "kind": "edge",
+   "label": "The disclosure says the IMRD enables the gravitational wave generator",
+   "sources": [
+    {
+     "date": null,
+     "name": "NAVAIR FOIA release 2021-003244, slide 5",
+     "url": "https://www.navair.navy.mil/foia/sites/g/files/jejdrs566/files/document/%5Bfilename%5D/2021-003244%20FINAL%20VERSION%20PAX%20205%20-%20INERTIAL%20MASS%20REDUCTION%20DEVICE.pdf"
+    }
+   ],
+   "text": "PAX 205 slide 5: 'it is possible to use the IMRD as an artificial gravitational wave generator (invention enables Gertsenshtein Effect)'.",
+   "tier": 1,
+   "type": "programmatic"
+  },
+  "e-f2a7824a71": {
+   "endpoints": [
+    {
+     "id": "us-navy",
+     "label": "United States Navy"
+    },
+    {
+     "id": "pais-patent-emfg",
+     "label": "US Patent 10,135,366 - Electromagnetic field generator"
+    }
+   ],
+   "id": "e-f2a7824a71",
+   "kind": "edge",
+   "label": "NAWCAD: after three years and $508,000 the Pais Effect could not be proven",
+   "sources": [
+    {
+     "date": "2021-02-01",
+     "name": "Brett Tingley, The War Zone, quoting Timothy Boulay, Communications Director, NAWCAD",
+     "url": "https://www.twz.com/39012/the-navy-finally-speaks-up-about-its-bizarre-ufo-patent-experiments"
+    }
+   ],
+   "text": "EXPLICIT DENIAL EDGE AND THE DENIER IS THE SPONSOR. Timothy Boulay, Communications Director at NAWCAD, on the record: 'The High Energy Electromagnetic Field Generator testing occurred from October 2016 through September 2019'; 'The cost was $508,000 over the course of three years'; 'When NAWCAD concluded testing in September 2019, the \"Pais Effect\" could not be proven.' The same institution that filed, funded and prosecuted the patent family tested this device and reported the negative result itself.",
+   "tier": 1,
+   "type": "denial"
+  }
+ },
+ "claimed": [
+  {
+   "cite": [
+    "c-c1e274eb26"
+   ],
+   "text": "Rep. Eric Burlison said on American Alchemy in July 2026 that at Patuxent River he met Pais and was told one of the patents had been built and tested without a definitive result, that Pais said it was not built to his specifications, and that Dr. Jon Kosloski was present; Burlison believed it was the anti-gravitic one."
+  },
+  {
+   "cite": [
+    "c-967febe575"
+   ],
+   "text": "In the same episode it was Jesse Michels, not Burlison, who described interviewing a fearful Pais in a motel near Pax River and being stopped at a point in the science; the lead map had attributed this to Burlison."
+  },
+  {
+   "cite": [
+    "c-82b536eb00",
+    "c-1ed8c47f65",
+    "c-760a39cac1",
+    "e-68119aee15"
+   ],
+   "text": "Reporting from unnamed sources says an exotic vehicle of unknown origin has been stored at Patuxent River for decades, and Elizondo claimed in written testimony that the base was among the sites prepared for a blocked Lockheed Martin to Bigelow transfer."
+  },
+  {
+   "cite": [
+    "c-fba61217b0",
+    "c-2e0f6f2253",
+    "c-363065f09a",
+    "e-5ea45d9614",
+    "e-5e40ea3c29"
+   ],
+   "text": "The five observables come from reporting and from To The Stars, and no government original has been located: History's account attributes them to Elizondo's AATIP work, the company's page lists them without author or date, and the wording of the first differs between sources."
+  },
+  {
+   "cite": [
+    "c-aab537f28f",
+    "c-8aa8c689a8"
+   ],
+   "text": "The board infers that the PAX 205 capability list tracks the characteristics Navy aircrew reported in the same period more closely than any other federal patent document, and that this is better read as convergence on a shared description than as evidence either side knew of the other."
+  },
+  {
+   "cite": [
+    "c-38a175d9f4",
+    "c-532edb49c4",
+    "c-c425bef6ba"
+   ],
+   "text": "On the board's inference, Sheehy's letter argues timing and ownership rather than operability, and the fight for the grant followed by lapsed fees fits the Navy wanting the examiner's finding rather than the property right; the board records that routine cost control is an equally available reading."
+  }
+ ],
+ "contested": [
+  {
+   "cite": [
+    "e-f2a7824a71",
+    "c-fb470865de",
+    "c-a3d6992d1f",
+    "c-fc09d86e45"
+   ],
+   "text": "The Navy's own test failed: NAWCAD's communications director said the High Energy Electromagnetic Field Generator was tested from October 2016 to September 2019 at a cost of $508,000 and that when testing ended the effect could not be proven."
+  },
+  {
+   "cite": [
+    "c-49f09a860e",
+    "c-a2482ac60c",
+    "c-3f819cca8a",
+    "c-04bc88a6e2"
+   ],
+   "text": "The examiner rejected the physics in terms: the fields required would be 10^9 teslas and 10^18 V/m, not feasible with current technology, and wrote that there is no such thing as a repulsive EM energy field. He refused peer review at conferences as proof of patentability and refused the China argument as having nothing to do with what is patentable."
+  },
+  {
+   "cite": [
+    "c-472715514b",
+    "c-6162481fe0",
+    "c-23011a2d96"
+   ],
+   "text": "The Sheehy intervention is not what secondary reporting describes: his letter opens by agreeing with the examiner that this mode of movement is beyond the state of the possible, at least at present. His later declaration rests on citation rather than test data, and two of the five papers it relies on are Pais's own conference papers."
+  },
+  {
+   "cite": [
+    "c-a9a2479445",
+    "c-6a22939747",
+    "c-8475fefa4b"
+   ],
+   "text": "The examiner conceded that the math and physics were sound but held the claims were not enabled, and asked the applicant to demonstrate the effect; no demonstration appears in the file wrapper, yet the application was allowed."
+  },
+  {
+   "cite": [
+    "c-dea9e5af37",
+    "c-d0ee8345c2",
+    "c-ae3ffae619"
+   ],
+   "text": "The board frames a strong reading of the filings, that they describe technology already understood from a recovered object, and sets it against the author's own internal statement that no prototype existed. The board infers that statement carries weight because it was made to his funding authority, while noting that classification would constrain what he could say about a concept's origin."
+  },
+  {
+   "cite": [
+    "c-a3434ea538",
+    "e-0765b03a3d"
+   ],
+   "text": "NASA's 2004 breakthrough propulsion survey treated high frequency gravitational waves as a detection problem, fifteen years before the Navy was granted a patent for a generator; the board records the distance between the two documents, not a refutation."
+  },
+  {
+   "cite": [
+    "c-f38a8a8dcb"
+   ],
+   "text": "The Department of Defense states that Elizondo had no assigned responsibilities for AATIP and did not lead it, which bears on the observables' attribution to his AATIP work."
+  },
+  {
+   "cite": [
+    "c-40a937bc17"
+   ],
+   "text": "AARO's FY2025 report, from an interested office, states that no evidence suggests a government or private entity has ever captured or exploited UAP-derived materials, against the reporting of a stored vehicle at Patuxent River."
+  }
+ ],
  "essays": [],
  "focusEra": "3",
  "id": "navy-patents",
  "kind": "document",
- "lead": null,
- "members": [],
+ "lead": {
+  "cite": [
+   "c-a0f58d8d29",
+   "c-fb7370e586",
+   "c-a4201d5a70",
+   "c-a2482ac60c",
+   "c-3f134f14ee",
+   "c-56fb7f23ac",
+   "c-fb470865de"
+  ],
+  "text": "Between 2015 and 2018 the Navy filed, as assignee, five patent applications naming Salvatore Pais of NAWCAD as inventor, from an electromagnetic field generator to a craft using an inertial mass reduction device. The file wrapper shows an examiner who called the craft's effect impossible and a formal appeal that won the grant; the two patents granted in 2018 later lapsed for unpaid fees, and a NAWCAD spokesman told The War Zone that a 2016-19 test of the field generator could not prove the effect."
+ },
+ "members": [
+  {
+   "cls": "person",
+   "id": "salvatore-pais",
+   "label": "Salvatore Cezar Pais",
+   "role": "researcher"
+  },
+  {
+   "cls": "document",
+   "id": "pais-patent-imrd",
+   "label": "US Patent 10,144,532 - Craft using an inertial mass reduction device",
+   "role": "document"
+  },
+  {
+   "cls": "document",
+   "id": "pax-205-disclosure",
+   "label": "NAVAIR Invention Disclosure Briefing, Navy Case PAX 205 (Inertial Mass Reduction Device)",
+   "role": "document"
+  },
+  {
+   "cls": "document",
+   "id": "pais-patent-emfg",
+   "label": "US Patent 10,135,366 - Electromagnetic field generator",
+   "role": "document"
+  },
+  {
+   "cls": "document",
+   "id": "pais-patent-hfgw",
+   "label": "US Patent 10,322,827 - High frequency gravitational wave generator",
+   "role": "document"
+  },
+  {
+   "cls": "document",
+   "id": "pais-app-superconductor",
+   "label": "US Application 2019/0058105 - Piezoelectricity-induced Room Temperature Superconductor",
+   "role": "document"
+  },
+  {
+   "cls": "document",
+   "id": "pais-app-fusion",
+   "label": "US Application 2019/0295733 - Plasma Compression Fusion Device",
+   "role": "document"
+  },
+  {
+   "cls": "institution",
+   "id": "us-navy",
+   "label": "United States Navy",
+   "role": "institution"
+  },
+  {
+   "cls": "location",
+   "id": "l-pax-river",
+   "label": "Naval Air Station Patuxent River, Maryland",
+   "role": "place"
+  },
+  {
+   "cls": "legislation",
+   "id": "invention-secrecy-act",
+   "label": "Invention Secrecy Act of 1951 (Pub. L. 82-256, 66 Stat. 3), codified at 35 U.S.C. 181-188",
+   "role": "law"
+  },
+  {
+   "cls": "legislation",
+   "id": "usc-50-3510",
+   "label": "50 U.S.C. 3510 - CIA unvouchered funds (CIA Act of 1949, sec. 8)",
+   "role": "law"
+  },
+  {
+   "cls": "document",
+   "id": "five-observables",
+   "label": "The five observables (UAP performance taxonomy)",
+   "role": "document"
+  },
+  {
+   "cls": "person",
+   "id": "luis-elizondo",
+   "label": "Luis D. Elizondo",
+   "role": "claimant"
+  },
+  {
+   "cls": "person",
+   "id": "harold-puthoff",
+   "label": "Harold E. Puthoff",
+   "role": "researcher"
+  },
+  {
+   "cls": "document",
+   "id": "millis-tm-2004-213082",
+   "label": "NASA/TM-2004-213082, 'Prospects for Breakthrough Propulsion from Physics' (2004)",
+   "role": "document"
+  },
+  {
+   "cls": "person",
+   "id": "eric-burlison",
+   "label": "Eric Burlison",
+   "role": "legislator"
+  },
+  {
+   "cls": "person",
+   "id": "jon-kosloski",
+   "label": "Jon T. Kosloski",
+   "role": "official"
+  },
+  {
+   "cls": "person",
+   "id": "jesse-michels",
+   "label": "Jesse Michels",
+   "role": "journalist"
+  }
+ ],
  "notes": "The Patents pages already carry the file wrapper; no Pais edges to AATIP or any DIRD (do not undo). Thread patents.",
- "questions": [],
- "record": [],
- "related": [],
+ "questions": [
+  "What does the examiner's Reasons for Allowance of 24 October 2018 say reversed a rejection he had sustained twice? The file wrapper on the board stops at the Appeal Brief.",
+  "Was anything filed between the examiner's July 2018 demand for a demonstration and the October 2018 allowance, or did he yield on the burden-of-proof argument?",
+  "Which Pais device was built and tested, and does the NAWCAD FOIA release behind the test result exist in a form the board can open?",
+  "Did Pais have any access to, or knowledge of, material from a recovery programme? Nothing released connects him to AATIP, AAWSAP or any DIRD.",
+  "Has Pais said publicly that the filings were speculative concepts, and would an active clearance constrain what he could say?",
+  "Where does Pais work now? Secondary reporting places him at Strategic Systems Programs, the Air Force and the Space Force, with no primary record."
+ ],
+ "record": [
+  {
+   "cite": [
+    "c-a0f58d8d29",
+    "c-b12198f917",
+    "e-b0456f2b24",
+    "c-c3cb51583f",
+    "c-1f6e134542"
+   ],
+   "text": "US 10,144,532's printed front page gives the assignee as the United States as represented by the Secretary of the Navy, the attorney as Mark O. Glut of NAWCAD and the primary examiner as Philip J. Bonzell. Pais assigned both the craft application and the earlier field generator application to the Department of the Navy, the craft under docket PAX 205."
+  },
+  {
+   "cite": [
+    "c-8d8130857a",
+    "c-a4201d5a70",
+    "e-90d5a4103d",
+    "e-16ebae69c7",
+    "c-9b368b9f03",
+    "c-7f52552c6c"
+   ],
+   "text": "The PAX 205 briefing, six pages released under NAVAIR FOIA case 2021-003244, names Pais of NAWCAD, NAS Patuxent River, as author. It asserts that the device makes possible a hybrid aerospace and undersea craft with extreme aerial and underwater speeds and non-linear scattering of radar and sonar, enclosed in a vacuum plasma sheath."
+  },
+  {
+   "cite": [
+    "c-dea9e5af37",
+    "c-b25431bf87",
+    "c-96c3f17a55",
+    "e-e85cdcada8"
+   ],
+   "text": "The same briefing states twice that the invention \"is a theoretical concept - no prototype in existence, as yet\", and proposes Section 219 funding of 250,000 USD for labour and 250,000 USD for facility cost to test it. It also claims the device could serve as an artificial gravitational wave generator."
+  },
+  {
+   "cite": [
+    "c-067ba6254f",
+    "e-2bf2582793"
+   ],
+   "text": "The patent and the briefing corroborate each other: the specification of US 10,144,532 carries the same sentence about moving through air, space and water in a vacuum plasma sheath that the briefing carries."
+  },
+  {
+   "cite": [
+    "c-6ce9b92364",
+    "c-e23daeb173",
+    "c-aebf6489bc",
+    "c-1301891582"
+   ],
+   "text": "What the patent claims is narrow: an inner and an outer resonant cavity wall and microwave emitters whose high frequency waves make the outer wall vibrate and create a local polarized vacuum; four claims in all. Its drawings show a triangular and a diamond craft."
+  },
+  {
+   "cite": [
+    "c-815c64eaf3",
+    "c-22421970b9",
+    "e-43262f2737",
+    "c-fc7769b7e6",
+    "c-16b0d5c705"
+   ],
+   "text": "The application credits the mechanism to vacuum polarization as discussed by Harold Puthoff, and the printed patent cites Puthoff's Polarizable-Vacuum paper among its other publications. It also incorporates the field generator application by reference as the craft's preferred generator."
+  },
+  {
+   "cite": [
+    "c-c5abd8fb7e"
+   ],
+   "text": "The craft application was referred for security review at filing in May 2016 and cleared; no secrecy order issued."
+  },
+  {
+   "cite": [
+    "c-3f134f14ee",
+    "c-63b0fec44b",
+    "c-fd553fdbe7",
+    "c-fc118a16f2"
+   ],
+   "text": "The grant came through a formal appeal: non-final rejection November 2017, final rejection March 2018, a declaration by Dr James Sheehy, Notice of Appeal June 2018, Appeal Brief August 2018, Notice of Allowance 31 October 2018 and grant on 4 December 2018, allowed by the examiner before the appeal board ruled. The Navy argued burden of proof rather than evidence that the device worked."
+  },
+  {
+   "cite": [
+    "c-3fe51a6589",
+    "c-c4a5cf535e"
+   ],
+   "text": "Sheehy's December 2017 letter records that NAWCAD was funding Pais to design a test article, one year into the project, with a battery-charged 10 cm sample spinning at up to 100,000 RPM."
+  },
+  {
+   "cite": [
+    "c-3cb3c54669",
+    "c-c4b01f1230",
+    "c-e5fe7f80a8",
+    "c-d1e72c24e5"
+   ],
+   "text": "The field generator application, examined by a different examiner in a different art unit, drew one non-final rejection and was allowed because the prior art did not show the device; enablement was never raised."
+  },
+  {
+   "cite": [
+    "c-56fb7f23ac",
+    "c-854326f54d",
+    "c-3f8b004f6f",
+    "c-5e234aed54"
+   ],
+   "text": "The two patents granted in 2018, US 10,135,366 and US 10,144,532, expired at the first maintenance fee, recorded on 26 December 2022 and 9 January 2023; patents assigned to a federal agency owe those fees on the ordinary schedule. No cited record gives the maintenance status of US 10,322,827."
+  },
+  {
+   "cite": [
+    "c-f1d3089285",
+    "c-b315ec417b",
+    "c-7f0e66ba39",
+    "c-45719302b6"
+   ],
+   "text": "The Invention Secrecy Act, approved 1 February 1952, reaches inventions in which the government has no property interest; an order runs no more than one year and may be renewed annually on an affirmative determination that the national interest requires it, and orders in force rose from 5,976 at the end of FY21 to 6,543 at the end of FY25."
+  },
+  {
+   "cite": [
+    "c-7e67183956",
+    "c-dd203b1035",
+    "c-1ead60130d",
+    "e-ab522e8de8"
+   ],
+   "text": "On the board's mapping, four of the five observables attributed to Luis Elizondo appear as design goals in the PAX 205 briefing: trans-medium travel, hypersonic speed, low observability and lift. Sudden acceleration does not, and Elizondo's sworn written statement of November 2024 does not state the five at all."
+  }
+ ],
+ "related": [
+  "propulsion-claims",
+  "gravity-research-1950s",
+  "classification-orders",
+  "aatip-elizondo",
+  "military-encounters-2019",
+  "carve-outs",
+  "dirds"
+ ],
  "section": "science-technology",
  "span": {
   "from": "2015",
   "to": "2026"
  },
- "status": "draft",
- "summary": [],
+ "status": "verified",
+ "summary": [
+  {
+   "cite": [
+    "c-fb7370e586",
+    "c-967be2867a",
+    "c-d5d463b6da",
+    "c-00d9699447",
+    "c-11acfb83a8",
+    "c-14af0beb73",
+    "e-d916bdbc20",
+    "e-b9e8ff5af0",
+    "e-0211f9d1dd",
+    "e-0ab79628e4"
+   ],
+   "text": "The five filings name Pais as inventor and the Secretary of the Navy as assignee: the electromagnetic field generator, the inertial mass reduction craft and the high frequency gravitational wave generator, which were granted, and a room-temperature superconductor and a plasma compression fusion device, which published as applications."
+  },
+  {
+   "cite": [
+    "c-8d8130857a",
+    "e-2bf2582793",
+    "c-b25431bf87",
+    "c-d0ee8345c2"
+   ],
+   "text": "The internal briefing for the craft, Navy Case PAX 205, proposed Navy funding to test the concept; the board infers it was written for the officials deciding that funding."
+  },
+  {
+   "cite": [
+    "c-b315ec417b",
+    "e-d9e17c4b73"
+   ],
+   "text": "The Invention Secrecy Act is the backdrop: it lets the government order an invention kept secret where its disclosure might be detrimental to national security, including inventions it does not own, so a propulsion patent that did issue is the control case against which an absence in the patent record is read."
+  },
+  {
+   "cite": [
+    "e-11e122d142"
+   ],
+   "text": "The board pairs the Act with a statute that hides an expenditure, as two instruments of the same architecture; the pairing is the board's argument, not either statute's text."
+  }
+ ],
  "title": "The Navy's Pais patents, and invention secrecy"
 }

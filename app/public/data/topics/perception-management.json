@@ -10,25 +10,1643 @@
   "afswc-tr-59-39"
  ],
  "appendixT": "perception-management",
- "cites": {},
- "claimed": [],
- "contested": [],
+ "cites": {
+  "c-081cefd536": {
+   "id": "c-081cefd536",
+   "kind": "claim",
+   "node": "aaro-historical-record-vol1",
+   "nodeLabel": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
+   "source": {
+    "domain": "media.defense.gov",
+    "text": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
+    "url": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF"
+   },
+   "text": "Full-text search of the released PDF returns ZERO occurrences of 'Yankee', 'Kirtland', 'AFOSI', 'Office of Special Investigations', 'initiation' or 'hazing'. The Yankee Blue / Kirtland-AFOSI material is NOT in Volume I, contrary to common secondary characterisation.",
+   "tier": 2
+  },
+  "c-0e701fc335": {
+   "id": "c-0e701fc335",
+   "kind": "claim",
+   "node": "d-counterintel",
+   "nodeLabel": "Counterintelligence",
+   "source": {
+    "domain": null,
+    "text": "AFOSI, About Us",
+    "url": null
+   },
+   "text": "The Air Force Office of Special Investigations is chartered for both criminal investigation and counterintelligence, giving a single service jurisdiction over programme security and over personnel who disclose.",
+   "tier": 1
+  },
+  "c-11e6eb914f": {
+   "id": "c-11e6eb914f",
+   "kind": "claim",
+   "node": "operation-northwoods",
+   "nodeLabel": "Justification for US Military Intervention in Cuba (Operation Northwoods), 13 March 1962",
+   "source": {
+    "domain": "archive.org",
+    "text": "Annex to Appendix to Enclosure A, 13 March 1962, https://archive.org/download/OperationNorthwoods/operation_northwoods_djvu.txt",
+    "url": "https://archive.org/download/OperationNorthwoods/operation_northwoods_djvu.txt"
+   },
+   "text": "The annex names itself: 'ANNEX TO APPENDIX TO ENCLOSURE A / PRETEXTS TO JUSTIFY US MILITARY INTERVENTION IN CUBA', and its first course of action states the method in the document's own words: 'Since it would seem desirable to use legitimate provocation as the basis for US military intervention in Cuba a cover and deception plan ... could be executed as an initial effort to provoke Cuban reactions.'",
+   "tier": 1
+  },
+  "c-14a013a2d2": {
+   "id": "c-14a013a2d2",
+   "kind": "claim",
+   "node": "gordon-gray",
+   "nodeLabel": "Gordon Gray",
+   "source": {
+    "domain": "history.state.gov",
+    "text": "Directive by the President to the Secretary of State, the Secretary of Defense (Marshall), and the Director of Central Intelligence (Smith), 4 April 1951, file 100.4-PSB/4-451, FRUS 1951 vol. I doc. 16, https://history.state.gov/historicaldocuments/frus1951v01/d16",
+    "url": "https://history.state.gov/historicaldocuments/frus1951v01/d16"
+   },
+   "text": "Truman established the Board by directive of 4 April 1951: 'It is the purpose of this directive to authorize and provide for the more effective planning, coordination and conduct, within the framework of approved national policies, of psychological operations.' The Board reports to the National Security Council and is composed of the Under Secretary of State, the Deputy Secretary of Defense and the Director of Central Intelligence.",
+   "tier": 1
+  },
+  "c-19c3ca5039": {
+   "id": "c-19c3ca5039",
+   "kind": "claim",
+   "node": "operation-northwoods",
+   "nodeLabel": "Justification for US Military Intervention in Cuba (Operation Northwoods), 13 March 1962",
+   "source": {
+    "domain": "archive.org",
+    "text": "Annex to Appendix to Enclosure A, paragraph 3, 13 March 1962, https://archive.org/download/OperationNorthwoods/operation_northwoods_djvu.txt",
+    "url": "https://archive.org/download/OperationNorthwoods/operation_northwoods_djvu.txt"
+   },
+   "text": "One proposed pretext was a staged attack on American forces: 'A \"Remember the Maine\" incident could be arranged in several forms: a. We could blow up a US ship in Guantanamo Bay and blame Cuba.'",
+   "tier": 1
+  },
+  "c-2142c97d03": {
+   "id": "c-2142c97d03",
+   "kind": "claim",
+   "node": "cia",
+   "nodeLabel": "Central Intelligence Agency",
+   "source": {
+    "domain": null,
+    "text": "CIA Center for the Study of Intelligence, Studies in Intelligence 1997",
+    "url": null
+   },
+   "text": "CIA's in-house historian Gerald K. Haines published 'CIA's Role in the Study of UFOs, 1947-1990' in Studies in Intelligence in 1997, an eighteen-page account acknowledging the Agency's Office of Scientific Intelligence effort and the Robertson Panel.",
+   "tier": 1
+  },
+  "c-26938ff010": {
+   "id": "c-26938ff010",
+   "kind": "claim",
+   "node": "aaro-historical-record-vol1",
+   "nodeLabel": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
+   "source": {
+    "domain": "media.defense.gov",
+    "text": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF",
+    "url": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF"
+   },
+   "text": "The absence of any Kirtland/AFOSI/'Yankee Blue' passage in Volume I means that node cannot be sourced to Volume I. The public record for Yankee Blue rests on the June 2025 WSJ reporting plus AARO officials' on-the-record statements, and on a DoD FOIA response that first denied the memo existed and was later reopened - i.e. Tier 2 at best, with the underlying memo unreleased. Reasoning: direct full-text search of the authoritative PDF.",
+   "tier": 3
+  },
+  "c-2942f34735": {
+   "id": "c-2942f34735",
+   "kind": "claim",
+   "node": "afosi",
+   "nodeLabel": "Air Force Office of Special Investigations",
+   "source": {
+    "domain": "www.youtube.com",
+    "text": "Mystery Wire, YouTube 9TLfM5VKX3M, auto-generated captions read in full, https://www.youtube.com/watch?v=9TLfM5VKX3M , opened 2026-09-19",
+    "url": "https://www.youtube.com/watch?v=9TLfM5VKX3M"
+   },
+   "text": "The former agent most associated with the Kirtland file has publicly denied the account of harm usually attributed to the operation. Answering George Knapp on camera, Doty said of the story that he drove Bennewitz mad: 'none of it's true every every aspect of that is false'. The board should carry this alongside, and not instead of, the admissions already recorded on this node.",
+   "tier": 2
+  },
+  "c-2bd9d4bb81": {
+   "id": "c-2bd9d4bb81",
+   "kind": "claim",
+   "node": "gordon-gray",
+   "nodeLabel": "Gordon Gray",
+   "source": {
+    "domain": "history.state.gov",
+    "text": "Minutes of a Meeting of the Psychological Strategy Board, PSB M-2, 13 August 1951, FRUS 1950-1955 The Intelligence Community doc. 82, https://history.state.gov/historicaldocuments/frus1950-55Intel/d82",
+    "url": "https://history.state.gov/historicaldocuments/frus1950-55Intel/d82"
+   },
+   "text": "He is recorded chairing the Board's business in its own minutes: PSB M-2 of 13 August 1951 lists 'Mr. Gordon Gray, Director, Psychological Strategy Board' present with the Director of Central Intelligence as acting chairman, the Under Secretary of State and the Deputy Secretary of Defense.",
+   "tier": 1
+  },
+  "c-31dea85b1b": {
+   "id": "c-31dea85b1b",
+   "kind": "claim",
+   "node": "operation-northwoods",
+   "nodeLabel": "Justification for US Military Intervention in Cuba (Operation Northwoods), 13 March 1962",
+   "source": {
+    "domain": "archive.org",
+    "text": "Annex to Appendix to Enclosure A, paragraph 8a, 13 March 1962, https://archive.org/download/OperationNorthwoods/operation_northwoods_djvu.txt",
+    "url": "https://archive.org/download/OperationNorthwoods/operation_northwoods_djvu.txt"
+   },
+   "text": "Another named a specific base and a specific cover organisation: 'An aircraft at Eglin AFB would be painted and numbered as an exact duplicate for a civil registered aircraft belonging to a CIA proprietary organization in the Miami area.'",
+   "tier": 1
+  },
+  "c-34f6186163": {
+   "id": "c-34f6186163",
+   "kind": "claim",
+   "node": "d-disinformation",
+   "nodeLabel": "Disinformation & Fabricated Documents",
+   "source": {
+    "domain": null,
+    "text": "Klass, 'The MJ-12 Crashed-Saucer Documents', Skeptical Inquirer",
+    "url": null
+   },
+   "text": "Philip J. Klass published a detailed forensic critique of the MJ-12 documents in Skeptical Inquirer in 1988, identifying typographic and formatting anomalies.",
+   "tier": 2
+  },
+  "c-34fd57cdb1": {
+   "id": "c-34fd57cdb1",
+   "kind": "claim",
+   "node": "d-psyop",
+   "nodeLabel": "Psychological Operations & Perception Management",
+   "source": {
+    "domain": null,
+    "text": "The Black Vault, Richard Doty Personnel File - New Mexico State Police",
+    "url": null
+   },
+   "text": "Richard C. Doty's New Mexico State Police personnel file, 321 pages, was released under public records request and is publicly archived.",
+   "tier": 1
+  },
+  "c-36b40b7af2": {
+   "id": "c-36b40b7af2",
+   "kind": "claim",
+   "node": "d-disinformation",
+   "nodeLabel": "Disinformation & Fabricated Documents",
+   "source": {
+    "domain": null,
+    "text": "Inference from the documented MJ-12 controversy",
+    "url": null
+   },
+   "text": "The circulation of fabricated documents produces an evidentiary tax on all genuine documents in the same subject area, which is a benefit accruing specifically to the party concealing genuine records. Reasoning: no other party gains from the contamination.",
+   "tier": 3
+  },
+  "c-38c323c2bb": {
+   "id": "c-38c323c2bb",
+   "kind": "claim",
+   "node": "yankee-blue",
+   "nodeLabel": "YANKEE BLUE (alleged AFOSI indoctrination program)",
+   "source": {
+    "domain": null,
+    "text": "OSD FOIA response, case 25-F-3514, September 2025",
+    "url": null
+   },
+   "text": "OSD's final response in FOIA case 25-F-3514 (September 2025) stated that after 'thorough searches of the electronic records and files of CMD, no records of the kind you described could be identified' regarding the alleged spring 2023 cessation memo.",
+   "tier": 1
+  },
+  "c-4a25745281": {
+   "id": "c-4a25745281",
+   "kind": "claim",
+   "node": "d-counterintel",
+   "nodeLabel": "Counterintelligence",
+   "source": {
+    "domain": null,
+    "text": "NICAP, 1980 Kirtland AFB FOIA document files",
+    "url": null
+   },
+   "text": "AFOSI documents relating to the 1980 Kirtland AFB incident were released under FOIA and are publicly archived.",
+   "tier": 1
+  },
+  "c-4d754b7236": {
+   "id": "c-4d754b7236",
+   "kind": "claim",
+   "node": "aaro-historical-record-vol1",
+   "nodeLabel": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
+   "source": {
+    "domain": null,
+    "text": "AARO Historical Record Report Volume I, p.30 and scope statement",
+    "url": null
+   },
+   "text": "The report states AARO found 'no NDAs that contain information related to UAP' and defers unresolved allegations to a Volume II covering 1 November 2023 to 15 April 2024.",
+   "tier": 1
+  },
+  "c-4e2cf80743": {
+   "id": "c-4e2cf80743",
+   "kind": "claim",
+   "node": "gordon-gray",
+   "nodeLabel": "Gordon Gray",
+   "source": {
+    "domain": "history.state.gov",
+    "text": "Persons, FRUS 1950-1955, The Intelligence Community, https://history.state.gov/historicaldocuments/frus1950-55Intel/persons",
+    "url": "https://history.state.gov/historicaldocuments/frus1950-55Intel/persons"
+   },
+   "text": "Gray's offices and their dates, from the Office of the Historian's own persons list: 'Secretary of the Army from June 20, 1949 to April 12, 1950; Director of the Psychological Strategy Board from 1951 to 1952; ... Assistant Secretary of Defense for International Security Affairs from July 1955 to February 1957; Director of Defense Mobilization from March 1957 to July 1958; Special Assistant to the President for National Security Affairs from July 1958 to January 1961'.",
+   "tier": 1
+  },
+  "c-52dd0ae38e": {
+   "id": "c-52dd0ae38e",
+   "kind": "claim",
+   "node": "yankee-blue",
+   "nodeLabel": "YANKEE BLUE (alleged AFOSI indoctrination program)",
+   "source": {
+    "domain": null,
+    "text": "Wall Street Journal, 6 June 2025",
+    "url": null
+   },
+   "text": "The Office of the Secretary of Defense issued a memorandum in spring 2023 ordering the practice halted immediately.",
+   "tier": 2
+  },
+  "c-5976133b9d": {
+   "id": "c-5976133b9d",
+   "kind": "claim",
+   "node": "cia-office-of-policy-coordination",
+   "nodeLabel": "CIA Office of Policy Coordination",
+   "source": {
+    "domain": "history.state.gov",
+    "text": "NSC 10/2, 18 June 1948, paragraph 5, FRUS 1945-1950, Emergence of the Intelligence Establishment, Document 292, https://history.state.gov/historicaldocuments/frus1945-50Intel/d292",
+    "url": "https://history.state.gov/historicaldocuments/frus1945-50Intel/d292"
+   },
+   "text": "The definition is a definition of deniability. Covert operations are those 'so planned and executed that any US Government responsibility for them is not evident to unauthorized persons and that if uncovered the US Government can plausibly disclaim any responsibility for them', and the named categories are 'propaganda, economic warfare; preventive direct action, including sabotage, anti-sabotage, demolition and evacuation measures; subversion against hostile states'. Espionage, counter-espionage and 'cover and deception for military operations' are expressly excluded.",
+   "tier": 1
+  },
+  "c-5bf219624e": {
+   "id": "c-5bf219624e",
+   "kind": "claim",
+   "node": "yankee-blue",
+   "nodeLabel": "YANKEE BLUE (alleged AFOSI indoctrination program)",
+   "source": {
+    "domain": null,
+    "text": "DoD spokeswoman Susan Gough to the Wall Street Journal, June 2025",
+    "url": null
+   },
+   "text": "A DoD spokeswoman confirmed the findings were not complete when Volume I was released and would appear in Volume II of the Historical Record Report, then scheduled for late 2025.",
+   "tier": 2
+  },
+  "c-6532c404d1": {
+   "id": "c-6532c404d1",
+   "kind": "claim",
+   "node": "gordon-gray",
+   "nodeLabel": "Gordon Gray",
+   "source": {
+    "domain": "history.state.gov",
+    "text": "FRUS 1951 vol. I doc. 16, footnote 3, https://history.state.gov/historicaldocuments/frus1951v01/d16",
+    "url": "https://history.state.gov/historicaldocuments/frus1951v01/d16"
+   },
+   "text": "Gray was the first Director. The directive's own editorial footnote reads: 'Gordon Gray, President of the University of North Carolina and former Secretary of the Army, was appointed Director of the new board.'",
+   "tier": 1
+  },
+  "c-72ba2615d3": {
+   "id": "c-72ba2615d3",
+   "kind": "claim",
+   "node": "gordon-gray",
+   "nodeLabel": "Gordon Gray",
+   "source": {
+    "domain": null,
+    "text": "AREA52 - DEBRIEFED with Chris Ramsay, ep. 22, 17 January 2025, 0:16:02",
+    "url": null
+   },
+   "text": "On AREA52 - DEBRIEFED with Chris Ramsay, episode 22, 17 January 2025, at 0:16:02, Ramsay read a prepared list describing Gray as having 'experience in managing information and propaganda during the cold war aligning with MJ12's need for controlling UFO related narratives' and as 'allegedly involved in developing policies to manage public perception of UFO phenomena'. No document opened for this node connects the Psychological Strategy Board to UFO matters.",
+   "tier": 2
+  },
+  "c-73179e68ea": {
+   "id": "c-73179e68ea",
+   "kind": "claim",
+   "node": "yankee-blue",
+   "nodeLabel": "YANKEE BLUE (alleged AFOSI indoctrination program)",
+   "source": {
+    "domain": null,
+    "text": "AARO Historical Record Report Volume I, February 2024, p.30",
+    "url": null
+   },
+   "text": "AARO's Historical Record Report Volume I states that AARO found 'no NDAs that contain information related to UAP.'",
+   "tier": 1
+  },
+  "c-823ec63ce1": {
+   "id": "c-823ec63ce1",
+   "kind": "claim",
+   "node": "yankee-blue",
+   "nodeLabel": "YANKEE BLUE (alleged AFOSI indoctrination program)",
+   "source": {
+    "domain": null,
+    "text": "Wall Street Journal reporting, June 2025, as summarised in FOIA appeal filings",
+    "url": null
+   },
+   "text": "The Wall Street Journal reported in June 2025 that the practice convinced 'hundreds and hundreds of people' they were working on a reverse-engineering programme for alien technology, and that DNI Avril Haines was briefed and described as stunned.",
+   "tier": 2
+  },
+  "c-89ec02a165": {
+   "id": "c-89ec02a165",
+   "kind": "claim",
+   "node": "yankee-blue",
+   "nodeLabel": "YANKEE BLUE (alleged AFOSI indoctrination program)",
+   "source": {
+    "domain": null,
+    "text": "Susan Gough, Department of War, statement of 1 Oct 2025",
+    "url": null
+   },
+   "text": "On 1 October 2025 Pentagon spokesperson Susan Gough stated: 'Regarding the alleged memo: I cannot confirm the existence of any department-level memo as described in the article. You may want to ask the Air Force or other military services whether they put out such a memo to their personnel.'",
+   "tier": 1
+  },
+  "c-8ea2dc2e2e": {
+   "id": "c-8ea2dc2e2e",
+   "kind": "claim",
+   "node": "d-counterintel",
+   "nodeLabel": "Counterintelligence",
+   "source": {
+    "domain": null,
+    "text": "The Debrief, 13 April 2022",
+    "url": null
+   },
+   "text": "The Pentagon's head of counterintelligence and security, Garry Reid, was reported in 2022 to have been ousted amid controversy touching the UAP task force's handling; the reporting names him directly.",
+   "tier": 2
+  },
+  "c-97eae7db5d": {
+   "id": "c-97eae7db5d",
+   "kind": "claim",
+   "node": "afosi",
+   "nodeLabel": "Air Force Office of Special Investigations",
+   "source": {
+    "domain": null,
+    "text": "NICAP, 1980 Kirtland AFB, NM FOIA document files",
+    "url": null
+   },
+   "text": "The AFOSI Kirtland AFB UFO file covering the 1980-1983 Manzano Weapons Storage Area period was released under FOIA and is archived in full by NICAP.",
+   "tier": 1
+  },
+  "c-9df8a13609": {
+   "id": "c-9df8a13609",
+   "kind": "claim",
+   "node": "l-kirtland",
+   "nodeLabel": "Kirtland Air Force Base and Albuquerque, New Mexico",
+   "source": {
+    "domain": null,
+    "text": "Wikipedia, Paul Bennewitz, citing Moore's 1989 MUFON statement and the Monroe Institute article in the CIA reading room",
+    "url": null
+   },
+   "text": "On 1 July 1989 William Moore stated publicly that he had attempted to push Bennewitz into a mental breakdown by feeding him false information about aliens; a 1992 article held in the CIA library identified Moore and AFOSI agent Richard Doty as responsible for a disinformation campaign against Bennewitz.",
+   "tier": 2
+  },
+  "c-9e225ffcd3": {
+   "id": "c-9e225ffcd3",
+   "kind": "claim",
+   "node": "yankee-blue",
+   "nodeLabel": "YANKEE BLUE (alleged AFOSI indoctrination program)",
+   "source": {
+    "domain": null,
+    "text": "Wall Street Journal investigation, 6 June 2025",
+    "url": null
+   },
+   "text": "Air Force personnel in classified units were briefed into a fictitious programme called Yankee Blue involving reverse-engineering of alien spacecraft, shown flying-saucer photographs, bound by NDAs, and in some accounts threatened with severe penalties for disclosure.",
+   "tier": 2
+  },
+  "c-a03ee29975": {
+   "id": "c-a03ee29975",
+   "kind": "claim",
+   "node": "operation-northwoods",
+   "nodeLabel": "Justification for US Military Intervention in Cuba (Operation Northwoods), 13 March 1962",
+   "source": {
+    "domain": "archive.org",
+    "text": "Memorandum for the Secretary of Defense, Justification for US Military Intervention in Cuba (TS), 13 March 1962, JCS 1969/321, https://archive.org/download/OperationNorthwoods/operation_northwoods_djvu.txt",
+    "url": "https://archive.org/download/OperationNorthwoods/operation_northwoods_djvu.txt"
+   },
+   "text": "The Chairman signed it and the Joint Chiefs asked for the mission. The signature block reads 'For the Joint Chiefs of Staff / L. L. LEMNITZER / Chairman / Joint Chiefs of Staff', and paragraph 3 states: 'It is recommended that this responsibility for both overt and covert military operations be assigned the Joint Chiefs of Staff.'",
+   "tier": 1
+  },
+  "c-a1073ea62b": {
+   "id": "c-a1073ea62b",
+   "kind": "claim",
+   "node": "gordon-gray",
+   "nodeLabel": "Gordon Gray",
+   "source": {
+    "domain": "history.state.gov",
+    "text": "FRUS 1951 vol. I doc. 16, https://history.state.gov/historicaldocuments/frus1951v01/d16",
+    "url": "https://history.state.gov/historicaldocuments/frus1951v01/d16"
+   },
+   "text": "The Director's charter includes a standing claim on other departments: 'The participating departments and agencies shall afford to the Director and the staff such assistance and access to information as may be specifically requested by the Director in carrying out his assigned duties.' The same directive states: 'This directive does not authorize the Board nor the Director to perform any \"psychological operations\".'",
+   "tier": 1
+  },
+  "c-a170e3377f": {
+   "id": "c-a170e3377f",
+   "kind": "claim",
+   "node": "l-kirtland",
+   "nodeLabel": "Kirtland Air Force Base and Albuquerque, New Mexico",
+   "source": {
+    "domain": null,
+    "text": "Doty's own public statements as summarised in the Paul Bennewitz article",
+    "url": null
+   },
+   "text": "Richard C. Doty, a former AFOSI special agent, has said he was tasked in the 1980s with hoaxing documents and feeding false information to UFO researchers including Bennewitz.",
+   "tier": 2
+  },
+  "c-a5537d2bb9": {
+   "id": "c-a5537d2bb9",
+   "kind": "claim",
+   "node": "cia-office-of-policy-coordination",
+   "nodeLabel": "CIA Office of Policy Coordination",
+   "source": {
+    "domain": "history.state.gov",
+    "text": "FRUS 1945-1950, Emergence of the Intelligence Establishment, List of Persons, https://history.state.gov/historicaldocuments/frus1945-50Intel/persons",
+    "url": "https://history.state.gov/historicaldocuments/frus1945-50Intel/persons"
+   },
+   "text": "The operating name and the first officer come from the same volume's list of persons: 'Wisner, Frank G., Deputy Assistant Secretary of State for the Occupied Areas, 1947-1948; Assistant Director for Policy Coordination, Central Intelligence Agency, from September 1, 1948.' George F. Kennan and John Magruder are recorded as senior consultants to the Office of Policy Coordination representing the Secretary of State and the Secretary of Defense respectively, both from September 1948.",
+   "tier": 1
+  },
+  "c-a76860cc55": {
+   "id": "c-a76860cc55",
+   "kind": "claim",
+   "node": "d-disinformation",
+   "nodeLabel": "Disinformation & Fabricated Documents",
+   "source": {
+    "domain": null,
+    "text": "FBI Records: The Vault - 'Majestic 12'",
+    "url": null
+   },
+   "text": "The FBI maintains a public file on the Majestic 12 documents, released through its Vault reading room, recording the investigation of their authenticity.",
+   "tier": 1
+  },
+  "c-a947aca482": {
+   "id": "c-a947aca482",
+   "kind": "claim",
+   "node": "aaro-historical-record-vol2",
+   "nodeLabel": "AARO Historical Record Report, Volume II (unpublished)",
+   "source": {
+    "domain": null,
+    "text": "war.gov/UFO release index and AARO publication listings, accessed August 2026",
+    "url": null
+   },
+   "text": "As of 12 August 2026 no Volume II appears in AARO's or the Department of War's published release index.",
+   "tier": 1
+  },
+  "c-a992a627a0": {
+   "id": "c-a992a627a0",
+   "kind": "claim",
+   "node": "d-psyop",
+   "nodeLabel": "Psychological Operations & Perception Management",
+   "source": {
+    "domain": null,
+    "text": "Inference from Alejandro Rojas, HuffPost, 13 May 2014 and Mystery Wire YouTube 9TLfM5VKX3M, both opened 2026-09-19",
+    "url": null
+   },
+   "text": "STATED INFERENCE ABOUT THE DOMAIN'S BEST-KNOWN CASE. The Bennewitz operation is carried across this board on the strength of admissions, and the principal admitting officer has since denied on the record that the operation did the harm attributed to it, while the civilian who admitted the same conduct in 1989 has not retracted. Reasoning: where a domain rests on self-description by deceivers, its strongest claims should be the ones with a documentary spine, here the 1980 complaint form, and its weakest should be the ones resting only on what a deceiver later said about himself.",
+   "tier": 3
+  },
+  "c-aa0c6a5ed9": {
+   "id": "c-aa0c6a5ed9",
+   "kind": "claim",
+   "node": "yankee-blue",
+   "nodeLabel": "YANKEE BLUE (alleged AFOSI indoctrination program)",
+   "source": {
+    "domain": null,
+    "text": "Wall Street Journal, 6 June 2025",
+    "url": null
+   },
+   "text": "Officials briefed DNI Avril Haines that 'hundreds and hundreds' of personnel had been affected over decades.",
+   "tier": 2
+  },
+  "c-ac4dc11f47": {
+   "id": "c-ac4dc11f47",
+   "kind": "claim",
+   "node": "cia-office-of-policy-coordination",
+   "nodeLabel": "CIA Office of Policy Coordination",
+   "source": {
+    "domain": "history.state.gov",
+    "text": "NSC 10/2, National Security Council Directive on Office of Special Projects, 18 June 1948, FRUS 1945-1950, Emergence of the Intelligence Establishment, Document 292, https://history.state.gov/historicaldocuments/frus1945-50Intel/d292",
+    "url": "https://history.state.gov/historicaldocuments/frus1945-50Intel/d292"
+   },
+   "text": "The charter creates the office by that name: 'A new Office of Special Projects shall be created within the Central Intelligence Agency to plan and conduct covert operations; and in coordination with the Joint Chiefs of Staff to plan and prepare for the conduct of such operations in wartime.'",
+   "tier": 1
+  },
+  "c-b058ea0ac4": {
+   "id": "c-b058ea0ac4",
+   "kind": "claim",
+   "node": "d-psyop",
+   "nodeLabel": "Psychological Operations & Perception Management",
+   "source": {
+    "domain": null,
+    "text": "Named-source reporting summarised at Garber Files, 'From Mirage Men to Military Deception'",
+    "url": null
+   },
+   "text": "Air Force OSI personnel supplied Paul Bennewitz with fabricated documents concerning alien activity in the early 1980s; the episode is the documented core of the 'Mirage Men' account of UFO-adjacent counterintelligence deception.",
+   "tier": 2
+  },
+  "c-b76406bf81": {
+   "id": "c-b76406bf81",
+   "kind": "claim",
+   "node": "cia",
+   "nodeLabel": "Central Intelligence Agency",
+   "source": {
+    "domain": null,
+    "text": "Inference from Haines, 'CIA's Role in the Study of UFOs, 1947-1990'",
+    "url": null
+   },
+   "text": "CIA's stated U-2/OXCART explanation is an admission of deliberate false attribution: the Agency states that it knew a substantial fraction of reports were its own aircraft and permitted the Air Force to issue natural-phenomena explanations instead. Reasoning: the explanation only works if the Agency withheld the true cause from the public explanation channel it was coordinating with.",
+   "tier": 3
+  },
+  "c-bc69eab0b7": {
+   "id": "c-bc69eab0b7",
+   "kind": "claim",
+   "node": "avril-haines",
+   "nodeLabel": "Avril D. Haines",
+   "source": {
+    "domain": null,
+    "text": "Wall Street Journal reporting, 6 June 2025, as summarised in the Yankee Blue record",
+    "url": null
+   },
+   "text": "Officials briefed DNI Haines that 'hundreds and hundreds' of military personnel had been affected over decades by the fake alien-technology indoctrination practice.",
+   "tier": 2
+  },
+  "c-c2661b0bbf": {
+   "id": "c-c2661b0bbf",
+   "kind": "claim",
+   "node": "d-disinformation",
+   "nodeLabel": "Disinformation & Fabricated Documents",
+   "source": {
+    "domain": "noriohayakawa.wordpress.com",
+    "text": "Norio Hayakawa, 2 April 2024, reproducing the November 2015 email as published in Adam Gorightly, 'Saucers, Spooks and Kooks', https://noriohayakawa.wordpress.com/2024/04/02/startling-final-confession-made-in-2015-by-the-enigmatic-tal-levesque-originator-of-the-entire-dulce-base-myth/ , opened 2026-09-19",
+    "url": "https://noriohayakawa.wordpress.com/2024/04/02/startling-final-confession-made-in-2015-by-the-enigmatic-tal-levesque-originator-of-the-entire-dulce-base-myth/"
+   },
+   "text": "THE DOMAIN'S CLEANEST WORKED EXAMPLE OF MANUFACTURED CORROBORATION. Tal Levesque, author of the two original Dulce Base articles, told Adam Gorightly by email in November 2015 that Thomas Edwin Castello was 'a creation. A MYTH', and described the distribution: 'Literally, I made 100 large envelope packets with supporting material about Underground bases, genetic research, hidden science (R & D), etc. and sent the material to authors and lecturers, who then mixed it into their talks, articles and books.' The many later sources that agree about Dulce agree because they were seeded from one origin.",
+   "tier": 2
+  },
+  "c-d6e3b7336b": {
+   "id": "c-d6e3b7336b",
+   "kind": "claim",
+   "node": "aaro-historical-record-vol2",
+   "nodeLabel": "AARO Historical Record Report, Volume II (unpublished)",
+   "source": {
+    "domain": "www.govinfo.gov",
+    "text": "https://www.govinfo.gov/content/pkg/PLAW-117publ263/html/PLAW-117publ263.htm",
+    "url": "https://www.govinfo.gov/content/pkg/PLAW-117publ263/html/PLAW-117publ263.htm"
+   },
+   "text": "The deadline AARO invokes is fixed by Sec. 6802(j)(1)(A) of Pub. L. 117-263: 'Not later than 540 days after the date of the enactment of the Intelligence Authorization Act for Fiscal Year 2023...'. Enactment was 23 December 2022, placing the statutory deadline at 15 June 2024. Volume II has not been published as of 12 August 2026 - roughly 26 months past that date.",
+   "tier": 1
+  },
+  "c-e267ce0f69": {
+   "id": "c-e267ce0f69",
+   "kind": "claim",
+   "node": "operation-northwoods",
+   "nodeLabel": "Justification for US Military Intervention in Cuba (Operation Northwoods), 13 March 1962",
+   "source": {
+    "domain": "nsarchive.gwu.edu",
+    "text": "National Security Archive, Chairman, Joint Chiefs of Staff, Memorandum to the Secretary of Defense, 'Justification for US Military Intervention in Cuba', https://nsarchive.gwu.edu/CMC-60/joint-chiefs-pretexts-to-invade-Cuba-1962",
+    "url": "https://nsarchive.gwu.edu/CMC-60/joint-chiefs-pretexts-to-invade-Cuba-1962"
+   },
+   "text": "It reached the public through a records statute, not through disclosure. The National Security Archive's posting gives the classification as TOP SECRET SPECIAL HANDLING NOFORN and the source as the John F. Kennedy Assassination Records Review Board.",
+   "tier": 1
+  },
+  "c-e270ce5dc6": {
+   "id": "c-e270ce5dc6",
+   "kind": "claim",
+   "node": "yankee-blue",
+   "nodeLabel": "YANKEE BLUE (alleged AFOSI indoctrination program)",
+   "source": {
+    "domain": null,
+    "text": "Department of War FOIA appellate decision, December 2025",
+    "url": null
+   },
+   "text": "On 15 December 2025 a FOIA appellate decision remanded the case to the Department for additional searches, granting the appeal that argued a search limited to the Correspondence Management Division was inadequate under Oglesby v. U.S. Dep't of Army, 920 F.2d 57 (D.C. Cir. 1990).",
+   "tier": 1
+  },
+  "c-ee72aa1431": {
+   "id": "c-ee72aa1431",
+   "kind": "claim",
+   "node": "d-psyop",
+   "nodeLabel": "Psychological Operations & Perception Management",
+   "source": {
+    "domain": null,
+    "text": "Robertson Panel report, declassified text",
+    "url": null
+   },
+   "text": "The Robertson Panel (January 1953) recommended a programme of public 'training and debunking' using mass media, and that civilian UFO groups be watched.",
+   "tier": 1
+  },
+  "c-ef031c431f": {
+   "id": "c-ef031c431f",
+   "kind": "claim",
+   "node": "afswc-tr-59-39",
+   "nodeLabel": "AFSWC TR-59-39 Vol I, A Study of Lunar Research Flights, 19 June 1959",
+   "source": {
+    "domain": "archive.org",
+    "text": "AFSWC TR-59-39 Vol I, Chapter I, Introduction, https://archive.org/download/DTIC_AD0425380/DTIC_AD0425380_djvu.txt",
+    "url": "https://archive.org/download/DTIC_AD0425380/DTIC_AD0425380_djvu.txt"
+   },
+   "text": "The introduction states the political motive in the report's own words: 'The motivation for such a detonation is clearly threefold: scientific, military and political... Obviously, however, specific positive effects would accrue to the nation first performing such a feat as a demonstration of advanced technological capability. It is also certain that, unless the climate of world opinion were well-prepared in advance, a considerable negative reaction could be stimulated.'",
+   "tier": 1
+  },
+  "c-fbdf5df850": {
+   "id": "c-fbdf5df850",
+   "kind": "claim",
+   "node": "afswc-tr-59-39",
+   "nodeLabel": "AFSWC TR-59-39 Vol I, A Study of Lunar Research Flights, 19 June 1959",
+   "source": {
+    "domain": "archive.org",
+    "text": "AFSWC TR-59-39 Vol I, title page and report page, DDC AD 425380, https://archive.org/details/DTIC_AD0425380",
+    "url": "https://archive.org/details/DTIC_AD0425380"
+   },
+   "text": "The report is 'AFSWC-TR-59-39, TR 59-39 Vol I, A STUDY OF LUNAR RESEARCH FLIGHTS', issued by 'HEADQUARTERS AIR FORCE SPECIAL WEAPONS CENTER, AIR RESEARCH AND DEVELOPMENT COMMAND, KIRTLAND AIR FORCE BASE, NEW MEXICO', authored by L. Reiffel of the Armour Research Foundation, Illinois Institute of Technology, dated 19 June 1959, under Project Number 5776-57853 and Contract AF 29(601)-1164. Its title page marks the title '(Unclassified Title)'. The string 'A119' appears nowhere in the report.",
+   "tier": 1
+  },
+  "c-ff05a6fb33": {
+   "id": "c-ff05a6fb33",
+   "kind": "claim",
+   "node": "afswc-tr-59-39",
+   "nodeLabel": "AFSWC TR-59-39 Vol I, A Study of Lunar Research Flights, 19 June 1959",
+   "source": {
+    "domain": "archive.org",
+    "text": "AFSWC TR-59-39 Vol I, Abstract, https://archive.org/download/DTIC_AD0425380/DTIC_AD0425380_djvu.txt",
+    "url": "https://archive.org/download/DTIC_AD0425380/DTIC_AD0425380_djvu.txt"
+   },
+   "text": "The abstract opens: 'Nuclear detonations in the vicinity of the moon are considered in this report along with scientific information which might be obtained from such explosions. The military aspect is aided by investigation of space environment, detection of nuclear device testing, and capability of weapons in space.'",
+   "tier": 1
+  },
+  "e-07f16f3c1b": {
+   "endpoints": [
+    {
+     "id": "yankee-blue",
+     "label": "YANKEE BLUE (alleged AFOSI indoctrination program)"
+    },
+    {
+     "id": "aaro-historical-record-vol2",
+     "label": "AARO Historical Record Report, Volume II (unpublished)"
+    }
+   ],
+   "id": "e-07f16f3c1b",
+   "kind": "edge",
+   "label": "the Department committed to publishing the Yankee Blue findings in Volume II",
+   "sources": [
+    {
+     "date": "2026-08-12",
+     "name": "Wikipedia - Yankee Blue",
+     "url": "https://en.wikipedia.org/wiki/Yankee_Blue"
+    },
+    {
+     "date": "2026-08-12",
+     "name": "Department of War release index (no Volume II)",
+     "url": "https://www.war.gov/UFO/"
+    }
+   ],
+   "text": "A DoD spokeswoman told the Wall Street Journal in June 2025 that the findings would appear in Volume II, then scheduled for late 2025. As of August 2026 Volume II has not been published.",
+   "tier": 2,
+   "type": "programmatic"
+  },
+  "e-0e78639067": {
+   "endpoints": [
+    {
+     "id": "aaro-historical-record-vol1",
+     "label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+    },
+    {
+     "id": "yankee-blue",
+     "label": "YANKEE BLUE (alleged AFOSI indoctrination program)"
+    }
+   ],
+   "id": "e-0e78639067",
+   "kind": "edge",
+   "label": "Volume I found 'no NDAs that contain information related to UAP' - contradicted by the Yankee Blue record",
+   "sources": [
+    {
+     "date": "2024-03-08",
+     "name": "AARO Historical Record Report Volume I, p.30",
+     "url": "https://en.wikisource.org/wiki/Page:AARO_Historical_Record_Report_Volume_1_2024.pdf/30"
+    },
+    {
+     "date": "2026-08-12",
+     "name": "Wikipedia - Yankee Blue",
+     "url": "https://en.wikipedia.org/wiki/Yankee_Blue"
+    },
+    {
+     "date": "2024-03-08",
+     "name": "AARO Historical Record Report Volume I (DOPSR-cleared PDF)",
+     "url": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF"
+    }
+   ],
+   "text": "Volume I page 30 states AARO found no UAP-related NDAs. The Department later confirmed that Air Force personnel signed NDAs over a fictitious alien-technology programme. The two statements cannot both stand as written.",
+   "tier": 1,
+   "type": "denial"
+  },
+  "e-0fcbfaf5ff": {
+   "endpoints": [
+    {
+     "id": "yankee-blue",
+     "label": "YANKEE BLUE (alleged AFOSI indoctrination program)"
+    },
+    {
+     "id": "afosi",
+     "label": "Air Force Office of Special Investigations"
+    }
+   ],
+   "id": "e-0fcbfaf5ff",
+   "kind": "edge",
+   "label": "AFOSI states it holds no records of any YANKEE BLUE investigation",
+   "sources": [
+    {
+     "date": "2025-09-16",
+     "name": "John Greenewald Jr., 'Pentagon Denies Existence of \"Yankee Blue\" Memo Reported by Wall Street Journal', The Black Vault",
+     "url": "https://www.theblackvault.com/documentarchive/pentagon-denies-existence-of-yankee-blue-memo-reported-by-wall-street-journal/"
+    },
+    {
+     "date": "2021-05-20",
+     "name": "Richard Doty Personnel File - New Mexico State Police [321 pages], NM Inspection of Public Records Act release",
+     "url": "https://www.theblackvault.com/documentarchive/richard-doty-personnel-file-new-mexico-state-police/"
+    },
+    {
+     "date": "2026-08-12",
+     "name": "NICAP - 1980 Kirtland AFB, NM FOIA document files",
+     "url": "https://www.nicap.org/foia_003.htm"
+    }
+   ],
+   "text": "The Wall Street Journal reported an alleged Air Force practice of showing fabricated recovered-craft material to personnel as a loyalty test; the Department first denied any such memo existed, then in December 2025 reopened the search.",
+   "tier": 1,
+   "type": "denial"
+  },
+  "e-1749f1d589": {
+   "endpoints": [
+    {
+     "id": "yankee-blue",
+     "label": "YANKEE BLUE (alleged AFOSI indoctrination program)"
+    },
+    {
+     "id": "avril-haines",
+     "label": "Avril D. Haines"
+    }
+   ],
+   "id": "e-1749f1d589",
+   "kind": "edge",
+   "label": "DNI briefed that the practice affected 'hundreds and hundreds' of personnel over decades",
+   "sources": [
+    {
+     "date": "2025-06-06",
+     "name": "Metabunk thread documenting the WSJ report",
+     "url": "https://www.metabunk.org/threads/yankee-blue-the-hazing-ritual-responsible-for-some-military-belief-in-ufos.14260/"
+    }
+   ],
+   "text": "Officials escalated the finding to the Director of National Intelligence, establishing that the deception was known at the top of the IC before any public account existed.",
+   "tier": 2,
+   "type": "institutional"
+  },
+  "e-1a302f6d14": {
+   "endpoints": [
+    {
+     "id": "yankee-blue",
+     "label": "YANKEE BLUE (alleged AFOSI indoctrination program)"
+    },
+    {
+     "id": "l-kirtland",
+     "label": "Kirtland Air Force Base and Albuquerque, New Mexico"
+    }
+   ],
+   "id": "e-1a302f6d14",
+   "kind": "edge",
+   "label": "reported in the lineage of Air Force UFO deception operations centred on Kirtland/AFOSI",
+   "sources": [
+    {
+     "date": "2025-06-10",
+     "name": "Garber Files - From Mirage Men to Military Deception: The Documented Pattern of Military Alien Psyops",
+     "url": "https://garberfiles.substack.com/p/from-mirage-men-to-military-deception"
+    }
+   ],
+   "text": "Yankee Blue sits in the same documented Air Force practice of manufacturing UFO belief for security purposes as the Kirtland AFB/AFOSI operations against Paul Bennewitz. The connection is thematic and institutional; no released document ties Yankee Blue administratively to Kirtland.",
+   "tier": 3,
+   "type": "institutional"
+  },
+  "e-25b998b015": {
+   "endpoints": [
+    {
+     "id": "d-psyop",
+     "label": "Psychological Operations & Perception Management"
+    },
+    {
+     "id": "d-disinformation",
+     "label": "Disinformation & Fabricated Documents"
+    }
+   ],
+   "id": "e-25b998b015",
+   "kind": "edge",
+   "label": "Fabricated material as the delivery vehicle",
+   "sources": [
+    {
+     "date": "2021-05-20",
+     "name": "Richard Doty Personnel File - New Mexico State Police [321 pages]",
+     "url": "https://www.theblackvault.com/documentarchive/richard-doty-personnel-file-new-mexico-state-police/"
+    }
+   ],
+   "text": "The Bennewitz episode, in which AFOSI personnel supplied fabricated documents, is the documented case linking perception management to forged records; Doty's own personnel file is public.",
+   "tier": 2,
+   "type": "programmatic"
+  },
+  "e-2fccafb363": {
+   "endpoints": [
+    {
+     "id": "operation-northwoods",
+     "label": "Justification for US Military Intervention in Cuba (Operation Northwoods), 13 March 1962"
+    },
+    {
+     "id": "national-archives",
+     "label": "National Archives and Records Administration"
+    }
+   ],
+   "id": "e-2fccafb363",
+   "kind": "edge",
+   "label": "Reached the public through the JFK Assassination Records Review Board",
+   "sources": [
+    {
+     "date": "1962-03-13",
+     "name": "Justification for US Military Intervention in Cuba, JCS 1969/321, 13 March 1962, full released text",
+     "url": "https://archive.org/download/OperationNorthwoods/operation_northwoods_djvu.txt"
+    }
+   ],
+   "text": "The document reached the public through the JFK Assassination Records Review Board and sits in the assassination records collection at NARA; The Black Vault's index gives the JCS memorandum at 15 pages and a separate 181-page NARA file.",
+   "tier": 1,
+   "type": "custody"
+  },
+  "e-4784735fe2": {
+   "endpoints": [
+    {
+     "id": "gordon-gray",
+     "label": "Gordon Gray"
+    },
+    {
+     "id": "d-psyop",
+     "label": "Psychological Operations & Perception Management"
+    }
+   ],
+   "id": "e-4784735fe2",
+   "kind": "edge",
+   "label": "First Director of the Psychological Strategy Board, appointed 1951",
+   "sources": [
+    {
+     "date": "1951-04-04",
+     "name": "FRUS 1951 vol. I doc. 16, directive of 4 April 1951 and footnote 3",
+     "url": "https://history.state.gov/historicaldocuments/frus1951v01/d16"
+    }
+   ],
+   "text": "Truman's directive of 4 April 1951 created the Board to formulate and promulgate 'over-all national psychological objectives, policies and programs' as guidance to the departments responsible for psychological operations, and its own footnote names Gray as the Director appointed to it.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-529e6b0262": {
+   "endpoints": [
+    {
+     "id": "afosi",
+     "label": "Air Force Office of Special Investigations"
+    },
+    {
+     "id": "usaf",
+     "label": "United States Air Force"
+    }
+   ],
+   "id": "e-529e6b0262",
+   "kind": "edge",
+   "label": "Air Force felony investigative and counterintelligence field agency",
+   "sources": [
+    {
+     "date": "2026-08-12",
+     "name": "AFOSI - About Us",
+     "url": "https://www.osi.af.mil/About-Us/"
+    }
+   ],
+   "text": "AFOSI is the Air Force's independent investigative agency with units 'located at most Air Force bases worldwide', covering espionage, terrorism and counterintelligence.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-5c1ff77fec": {
+   "endpoints": [
+    {
+     "id": "d-counterintel",
+     "label": "Counterintelligence"
+    },
+    {
+     "id": "d-psyop",
+     "label": "Psychological Operations & Perception Management"
+    }
+   ],
+   "id": "e-5c1ff77fec",
+   "kind": "edge",
+   "label": "Same service, both functions",
+   "sources": [
+    {
+     "date": "2021-05-20",
+     "name": "Richard Doty Personnel File - New Mexico State Police [321 pages]",
+     "url": "https://www.theblackvault.com/documentarchive/richard-doty-personnel-file-new-mexico-state-police/"
+    }
+   ],
+   "text": "AFOSI is chartered for both counterintelligence and criminal investigation, and is the organisation named in the Bennewitz deception; the two domains share personnel.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-6327dab193": {
+   "endpoints": [
+    {
+     "id": "operation-northwoods",
+     "label": "Justification for US Military Intervention in Cuba (Operation Northwoods), 13 March 1962"
+    },
+    {
+     "id": "d-psyop",
+     "label": "Psychological Operations & Perception Management"
+    }
+   ],
+   "id": "e-6327dab193",
+   "kind": "edge",
+   "label": "Calls for a cover and deception plan executed to provoke a citable reaction",
+   "sources": [
+    {
+     "date": "1962-03-13",
+     "name": "Justification for US Military Intervention in Cuba, JCS 1969/321, 13 March 1962, full released text",
+     "url": "https://archive.org/download/OperationNorthwoods/operation_northwoods_djvu.txt"
+    }
+   ],
+   "text": "The annex's own first paragraph calls for 'a cover and deception plan' executed to provoke a reaction that could then be cited as provocation.",
+   "tier": 1,
+   "type": "programmatic"
+  },
+  "e-687c1e776b": {
+   "endpoints": [
+    {
+     "id": "operation-northwoods",
+     "label": "Justification for US Military Intervention in Cuba (Operation Northwoods), 13 March 1962"
+    },
+    {
+     "id": "dod",
+     "label": "United States Department of Defense (secondary designation: Department of War)"
+    }
+   ],
+   "id": "e-687c1e776b",
+   "kind": "edge",
+   "label": "Addressed to the Secretary of Defense, signed by the Chairman of the Joint Chiefs",
+   "sources": [
+    {
+     "date": "1962-03-13",
+     "name": "Justification for US Military Intervention in Cuba, JCS 1969/321, 13 March 1962, full released text",
+     "url": "https://archive.org/download/OperationNorthwoods/operation_northwoods_djvu.txt"
+    }
+   ],
+   "text": "The memorandum is addressed to the Secretary of Defense and signed by the Chairman of the Joint Chiefs of Staff.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-6a2199fb4e": {
+   "endpoints": [
+    {
+     "id": "dulce-base",
+     "label": "Dulce Base (alleged facility, Archuleta Mesa, New Mexico)"
+    },
+    {
+     "id": "d-disinformation",
+     "label": "Disinformation & Fabricated Documents"
+    }
+   ],
+   "id": "e-6a2199fb4e",
+   "kind": "edge",
+   "label": "A cluster whose central witness has a confessed author",
+   "sources": [
+    {
+     "date": "2024-04-02",
+     "name": "Norio Hayakawa, Civilian Intelligence News Service, 'Startling final confession made in 2015 by the enigmatic Tal Levesque'",
+     "url": "https://noriohayakawa.wordpress.com/2024/04/02/startling-final-confession-made-in-2015-by-the-enigmatic-tal-levesque-originator-of-the-entire-dulce-base-myth/"
+    }
+   ],
+   "text": "It belongs in this domain on its own evidence rather than by association with the Bennewitz operation, because the confession describes the deliberate manufacture of apparent independent corroboration.",
+   "tier": 2,
+   "type": "programmatic"
+  },
+  "e-767f24842a": {
+   "endpoints": [
+    {
+     "id": "cia-office-of-policy-coordination",
+     "label": "CIA Office of Policy Coordination"
+    },
+    {
+     "id": "d-psyop",
+     "label": "Psychological Operations & Perception Management"
+    }
+   ],
+   "id": "e-767f24842a",
+   "kind": "edge",
+   "label": "Propaganda is the first named category in the charter",
+   "sources": [
+    {
+     "date": "1948-06-18",
+     "name": "NSC 10/2, National Security Council Directive on Office of Special Projects (FRUS 1945-50 Intel, Doc. 292)",
+     "url": "https://history.state.gov/historicaldocuments/frus1945-50Intel/d292"
+    }
+   ],
+   "text": "Paragraph 5 lists propaganda first among covert operations, which is the documented basis for treating the office as a psychological-operations instrument, before any claim about UFO matters is made.",
+   "tier": 1,
+   "type": "programmatic"
+  },
+  "e-7eb727a4b1": {
+   "endpoints": [
+    {
+     "id": "cia-office-of-policy-coordination",
+     "label": "CIA Office of Policy Coordination"
+    },
+    {
+     "id": "cia",
+     "label": "Central Intelligence Agency"
+    }
+   ],
+   "id": "e-7eb727a4b1",
+   "kind": "edge",
+   "label": "Created inside the Agency by NSC 10/2",
+   "sources": [
+    {
+     "date": "1948-06-18",
+     "name": "NSC 10/2, National Security Council Directive on Office of Special Projects (FRUS 1945-50 Intel, Doc. 292)",
+     "url": "https://history.state.gov/historicaldocuments/frus1945-50Intel/d292"
+    }
+   ],
+   "text": "The directive places the office within CIA but requires it to operate independently of the Agency's other components and to report through its Chief directly to the Director of Central Intelligence.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-8b36f8d849": {
+   "endpoints": [
+    {
+     "id": "gordon-gray",
+     "label": "Gordon Gray"
+    },
+    {
+     "id": "cia",
+     "label": "Central Intelligence Agency"
+    }
+   ],
+   "id": "e-8b36f8d849",
+   "kind": "edge",
+   "label": "Sat with the Director of Central Intelligence on the Psychological Strategy Board",
+   "sources": [
+    {
+     "date": "1951-08-13",
+     "name": "Minutes of a Meeting of the Psychological Strategy Board, PSB M-2, 13 August 1951",
+     "url": "https://history.state.gov/historicaldocuments/frus1950-55Intel/d82"
+    }
+   ],
+   "text": "The Board was composed of the Under Secretary of State, the Deputy Secretary of Defense and the Director of Central Intelligence, and the minutes of PSB M-2 of 13 August 1951 record Gray present as Director with Lt. General W. Bedell Smith, Director of Central Intelligence, as acting chairman.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-950dc750b3": {
+   "endpoints": [
+    {
+     "id": "aaro",
+     "label": "All-domain Anomaly Resolution Office (AARO)"
+    },
+    {
+     "id": "aaro-historical-record-vol2",
+     "label": "AARO Historical Record Report, Volume II (unpublished)"
+    }
+   ],
+   "id": "e-950dc750b3",
+   "kind": "edge",
+   "label": "",
+   "sources": [
+    {
+     "date": "2024-03-08",
+     "name": "AARO, Report on the Historical Record of U.S. Government Involvement with UAP, Volume I (Feb 2024) - DOPSR-cleared PDF, media.defense.gov",
+     "url": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF"
+    },
+    {
+     "date": "2026-08-11",
+     "name": "Wayback snapshot of DOPSR-cleared HRR Volume I PDF (media.defense.gov)",
+     "url": "https://web.archive.org/web/20260811042323id_/https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF"
+    }
+   ],
+   "text": "AARO is the office that OWES this volume, which is a different relationship from having withheld it. Sec. 6802 places the duty on the Director of the Office, and Volume I commits to it twice in its own text: page 6, 'AARO will publish Volume II in accordance with the date established in Section 6802', and page 45, 'This report represents Volume I of AARO's HR2.' The denial edge on this same pair records the non-delivery; this one records whose obligation it is.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-b8f0074ef5": {
+   "endpoints": [
+    {
+     "id": "gordon-gray",
+     "label": "Gordon Gray"
+    },
+    {
+     "id": "dod",
+     "label": "United States Department of Defense (secondary designation: Department of War)"
+    }
+   ],
+   "id": "e-b8f0074ef5",
+   "kind": "edge",
+   "label": "Secretary of the Army 1949-50; Assistant Secretary of Defense for International Security Affairs 1955-57",
+   "sources": [
+    {
+     "date": "2026-09-02",
+     "name": "Persons, FRUS 1950-1955, The Intelligence Community",
+     "url": "https://history.state.gov/historicaldocuments/frus1950-55Intel/persons"
+    }
+   ],
+   "text": "The Office of the Historian's persons list gives both appointments with dates, and the Deputy Secretary of Defense was a statutory member of the Board Gray later directed.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-c1fbae6e66": {
+   "endpoints": [
+    {
+     "id": "aaro-historical-record-vol1",
+     "label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+    },
+    {
+     "id": "yankee-blue",
+     "label": "YANKEE BLUE (alleged AFOSI indoctrination program)"
+    }
+   ],
+   "id": "e-c1fbae6e66",
+   "kind": "edge",
+   "label": "",
+   "sources": [
+    {
+     "date": "2024-03-08",
+     "name": "AARO, Report on the Historical Record of U.S. Government Involvement with UAP, Volume I (Feb 2024) - DOPSR-cleared PDF, media.defense.gov",
+     "url": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF"
+    },
+    {
+     "date": "2026-08-11",
+     "name": "Wayback snapshot of DOPSR-cleared HRR Volume I PDF (media.defense.gov)",
+     "url": "https://web.archive.org/web/20260811042323id_/https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF"
+    }
+   ],
+   "text": "The report is the object of the search, which is what makes this investigative rather than a denial. A full-text pass of Volume I returns no occurrence of 'Yankee Blue' across all 63 pages including endnotes 1-200. That negative finding is what refuted the widely repeated claim - asserted on this board until 12 August 2026 - that AARO conceded the programme in Volume I.",
+   "tier": 1,
+   "type": "investigative"
+  },
+  "e-c711784f2e": {
+   "endpoints": [
+    {
+     "id": "dulce-base",
+     "label": "Dulce Base (alleged facility, Archuleta Mesa, New Mexico)"
+    },
+    {
+     "id": "d-psyop",
+     "label": "Psychological Operations & Perception Management"
+    }
+   ],
+   "id": "e-c711784f2e",
+   "kind": "edge",
+   "label": "Downstream of the Kirtland operation, which is this domain's best-known case",
+   "sources": [
+    {
+     "date": "2014-05-13",
+     "name": "Alejandro Rojas, HuffPost Weird News, 'Ex-Air Force Law Enforcement Agent Says He Hoaxed Major UFO Mythologies'",
+     "url": "https://www.huffpost.com/entry/exair-force-law-enforceme_b_5312650"
+    },
+    {
+     "date": "2016-08-29",
+     "name": "Norio Hayakawa, 'Enigmatic personalities behind the initial Dulce underground base rumors'",
+     "url": "https://noriohayakawa.wordpress.com/2016/08/29/enigmatic-personalities-behind-the-initial-dulce-underground-base-rumors/comment-page-1/"
+    }
+   ],
+   "text": "The board already places the Bennewitz operation here. The Dulce hub is where that operation's output, and a great deal of material that has nothing to do with it, converged.",
+   "tier": 2,
+   "type": "programmatic"
+  },
+  "e-dd739bd1b8": {
+   "endpoints": [
+    {
+     "id": "yankee-blue",
+     "label": "YANKEE BLUE (alleged AFOSI indoctrination program)"
+    },
+    {
+     "id": "aaro",
+     "label": "All-domain Anomaly Resolution Office (AARO)"
+    }
+   ],
+   "id": "e-dd739bd1b8",
+   "kind": "edge",
+   "label": "AARO uncovered the fake programme through internal review under Kirkpatrick",
+   "sources": [
+    {
+     "date": "2025-06-06",
+     "name": "Metabunk thread documenting the WSJ 6 June 2025 report",
+     "url": "https://www.metabunk.org/threads/yankee-blue-the-hazing-ritual-responsible-for-some-military-belief-in-ufos.14260/"
+    },
+    {
+     "date": "2025-06-06",
+     "name": "Straight Arrow News - Pentagon spread UFO disinformation to protect classified projects",
+     "url": "https://san.com/cc/pentagon-spread-ufo-disinformation-to-protect-classified-projects-report/"
+    }
+   ],
+   "text": "Per the Wall Street Journal, AARO discovered the practice during Kirkpatrick's tenure; the Office of the Secretary of Defense then issued a spring 2023 memorandum ordering it stopped.",
+   "tier": 2,
+   "type": "investigative"
+  },
+  "e-f07e2d9e5f": {
+   "endpoints": [
+    {
+     "id": "operation-northwoods",
+     "label": "Justification for US Military Intervention in Cuba (Operation Northwoods), 13 March 1962"
+    },
+    {
+     "id": "d-disinformation",
+     "label": "Disinformation & Fabricated Documents"
+    }
+   ],
+   "id": "e-f07e2d9e5f",
+   "kind": "edge",
+   "label": "A staffed and signed plan to manufacture events and attribute them to another state",
+   "sources": [
+    {
+     "date": "1962-03-13",
+     "name": "Justification for US Military Intervention in Cuba, JCS 1969/321, 13 March 1962, full released text",
+     "url": "https://archive.org/download/OperationNorthwoods/operation_northwoods_djvu.txt"
+    }
+   ],
+   "text": "A staffed and signed plan to manufacture events and attribute them to another state, which is the documented instance behind the board's construction-of-cover-stories argument.",
+   "tier": 1,
+   "type": "behavioral"
+  },
+  "e-f1ae8c9ff6": {
+   "endpoints": [
+    {
+     "id": "aaro-historical-record-vol1",
+     "label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+    },
+    {
+     "id": "aaro-historical-record-vol2",
+     "label": "AARO Historical Record Report, Volume II (unpublished)"
+    }
+   ],
+   "id": "e-f1ae8c9ff6",
+   "kind": "edge",
+   "label": "Volume I explicitly defers its unresolved allegations to Volume II",
+   "sources": [
+    {
+     "date": "2024-03-08",
+     "name": "AARO Historical Record Report Volume I (DOPSR-2024-0263)",
+     "url": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF"
+    }
+   ],
+   "text": "Volume I's scope statement commits Volume II to covering research from 1 November 2023 to 15 April 2024 plus the allegations left open.",
+   "tier": 1,
+   "type": "programmatic"
+  },
+  "e-fe05f6fa26": {
+   "endpoints": [
+    {
+     "id": "afswc-tr-59-39",
+     "label": "AFSWC TR-59-39 Vol I, A Study of Lunar Research Flights, 19 June 1959"
+    },
+    {
+     "id": "usaf",
+     "label": "United States Air Force"
+    }
+   ],
+   "id": "e-fe05f6fa26",
+   "kind": "edge",
+   "label": "Commissioned and published by the Air Force Special Weapons Center under Air Research and Development Command",
+   "sources": [
+    {
+     "date": "1959-06-19",
+     "name": "AFSWC TR-59-39 Vol I, A Study of Lunar Research Flights, DDC AD 425380",
+     "url": "https://archive.org/details/DTIC_AD0425380"
+    }
+   ],
+   "text": "The title page names the command and the station, and the publication review is signed by the Center's Deputy Commander.",
+   "tier": 1,
+   "type": "programmatic"
+  }
+ },
+ "claimed": [
+  {
+   "cite": [
+    "c-9e225ffcd3",
+    "c-823ec63ce1",
+    "c-aa0c6a5ed9",
+    "c-bc69eab0b7",
+    "e-1749f1d589"
+   ],
+   "text": "The Wall Street Journal reported in June 2025 that Air Force personnel were briefed into a fictitious reverse-engineering programme called Yankee Blue, shown flying-saucer photographs and bound by NDAs, that the practice convinced hundreds and hundreds of people over decades, and that DNI Avril Haines, when briefed, was stunned."
+  },
+  {
+   "cite": [
+    "e-dd739bd1b8",
+    "c-52dd0ae38e",
+    "c-5bf219624e",
+    "e-07f16f3c1b"
+   ],
+   "text": "According to the same reporting, AARO found the practice during Kirkpatrick's tenure and OSD ordered it halted in spring 2023; a DoD spokeswoman said the findings would appear in Volume II, then due in late 2025."
+  },
+  {
+   "cite": [
+    "c-9df8a13609",
+    "c-a170e3377f"
+   ],
+   "text": "Moore stated in 1989 that he had tried to push Bennewitz into a breakdown by feeding him false information about aliens, and Doty has said he was tasked with hoaxing documents for UFO researchers."
+  },
+  {
+   "cite": [
+    "c-c2661b0bbf",
+    "e-6a2199fb4e"
+   ],
+   "text": "Tal Levesque told Adam Gorightly in 2015 that the Dulce insider Thomas Castello was a creation and that he mailed 100 packets of material to authors and lecturers, the domain's cleanest example of manufactured corroboration."
+  },
+  {
+   "cite": [
+    "c-8ea2dc2e2e"
+   ],
+   "text": "The Pentagon's head of counterintelligence and security, Garry Reid, was reported in 2022 to have been ousted amid controversy touching the UAP task force."
+  },
+  {
+   "cite": [
+    "c-72ba2615d3"
+   ],
+   "text": "A podcast list describes Gray as having managed Cold War propaganda and as allegedly developing policies to manage public perception of UFOs; no document supports that attribution."
+  }
+ ],
+ "contested": [
+  {
+   "cite": [
+    "c-73179e68ea",
+    "c-9e225ffcd3",
+    "c-5bf219624e",
+    "e-0e78639067"
+   ],
+   "text": "The records disagree: Volume I says AARO found no NDAs containing UAP information, while the Wall Street Journal reported that personnel were bound by NDAs over Yankee Blue and a DoD spokeswoman told it the findings would appear in Volume II; the two cannot both stand as written."
+  },
+  {
+   "cite": [
+    "c-081cefd536",
+    "c-26938ff010",
+    "e-c1fbae6e66"
+   ],
+   "text": "Yankee Blue has no Tier 1 anchor in AARO's record: the widely repeated claim that Volume I acknowledged it does not survive a full-text search, and the public account rests on press reporting and officials' statements, with the memo unreleased."
+  },
+  {
+   "cite": [
+    "c-a992a627a0",
+    "c-2942f34735"
+   ],
+   "text": "On the board's reading, the Bennewitz case rests on self-description: the principal admitting officer, Doty, has since denied that the operation did the harm attributed to it, while Moore, who admitted the same conduct in 1989, has not retracted."
+  },
+  {
+   "cite": [
+    "e-1a302f6d14"
+   ],
+   "text": "The board's tie between Yankee Blue and the Kirtland operations is thematic and institutional; no released document ties Yankee Blue's administration to Kirtland."
+  },
+  {
+   "cite": [
+    "c-a76860cc55",
+    "c-34f6186163",
+    "c-36b40b7af2"
+   ],
+   "text": "The MJ-12 documents are the domain's forged-records case: the FBI keeps a file on its investigation of them and Philip Klass published a forensic critique in 1988. On the board's reading, fabricated documents impose a tax on every genuine document in the field, which benefits only whoever is concealing real records."
+  },
+  {
+   "cite": [
+    "c-b76406bf81"
+   ],
+   "text": "On the board's reading, CIA's account of U-2 and OXCART sightings admits deliberate false attribution: it knew many reports were its own aircraft and let the Air Force issue natural-phenomena explanations."
+  },
+  {
+   "cite": [
+    "c-a1073ea62b",
+    "c-72ba2615d3"
+   ],
+   "text": "Gray's charter shows him running a board that coordinated psychological operations but was barred from performing them itself; the MJ-12 attributions to him rest on nothing opened."
+  }
+ ],
  "essays": [],
  "focusEra": "3",
  "id": "perception-management",
  "kind": "mechanism",
- "lead": null,
- "members": [],
+ "lead": {
+  "cite": [
+   "c-5976133b9d",
+   "c-14a013a2d2",
+   "e-6327dab193",
+   "c-b058ea0ac4",
+   "c-9e225ffcd3",
+   "c-9df8a13609",
+   "c-a170e3377f"
+  ],
+  "text": "The board keeps a file on the practice of managing belief as a security measure: government charters for propaganda and psychological operations, a Joint Chiefs plan for staged pretexts, an Air Force counterintelligence operation that, by its participants' later admissions, fed a civilian fabricated UFO material, and the reported Yankee Blue practice of reading personnel into a fictitious alien-technology programme."
+ },
+ "members": [
+  {
+   "cls": "program",
+   "id": "yankee-blue",
+   "label": "YANKEE BLUE (alleged AFOSI indoctrination program)",
+   "role": "programme"
+  },
+  {
+   "cls": "document",
+   "id": "operation-northwoods",
+   "label": "Justification for US Military Intervention in Cuba (Operation Northwoods), 13 March 1962",
+   "role": "document"
+  },
+  {
+   "cls": "document",
+   "id": "afswc-tr-59-39",
+   "label": "AFSWC TR-59-39 Vol I, A Study of Lunar Research Flights, 19 June 1959",
+   "role": "document"
+  },
+  {
+   "cls": "institution",
+   "id": "cia-office-of-policy-coordination",
+   "label": "CIA Office of Policy Coordination",
+   "role": "institution"
+  },
+  {
+   "cls": "person",
+   "id": "gordon-gray",
+   "label": "Gordon Gray",
+   "role": "official"
+  },
+  {
+   "cls": "institution",
+   "id": "cia",
+   "label": "Central Intelligence Agency",
+   "role": "institution"
+  },
+  {
+   "cls": "institution",
+   "id": "dod",
+   "label": "United States Department of Defense (secondary designation: Department of War)",
+   "role": "institution"
+  },
+  {
+   "cls": "institution",
+   "id": "national-archives",
+   "label": "National Archives and Records Administration",
+   "role": "institution"
+  },
+  {
+   "cls": "location",
+   "id": "dulce-base",
+   "label": "Dulce Base (alleged facility, Archuleta Mesa, New Mexico)",
+   "role": "subject"
+  },
+  {
+   "cls": "location",
+   "id": "l-kirtland",
+   "label": "Kirtland Air Force Base and Albuquerque, New Mexico",
+   "role": "place"
+  },
+  {
+   "cls": "institution",
+   "id": "afosi",
+   "label": "Air Force Office of Special Investigations",
+   "role": "institution"
+  },
+  {
+   "cls": "institution",
+   "id": "usaf",
+   "label": "United States Air Force",
+   "role": "institution"
+  },
+  {
+   "cls": "institution",
+   "id": "aaro",
+   "label": "All-domain Anomaly Resolution Office (AARO)",
+   "role": "institution"
+  },
+  {
+   "cls": "document",
+   "id": "aaro-historical-record-vol1",
+   "label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
+   "role": "document"
+  },
+  {
+   "cls": "document",
+   "id": "aaro-historical-record-vol2",
+   "label": "AARO Historical Record Report, Volume II (unpublished)",
+   "role": "document"
+  },
+  {
+   "cls": "person",
+   "id": "avril-haines",
+   "label": "Avril D. Haines",
+   "role": "official"
+  }
+ ],
  "notes": "YANKEE BLUE and the documented practice of perception management, with the psychological-operations and disinformation domain nodes it absorbs.",
- "questions": [],
- "record": [],
- "related": [],
+ "questions": [
+  "Does the spring 2023 memo ordering Yankee Blue stopped exist, and what will the remanded FOIA search find?",
+  "When exactly was Avril Haines briefed on Yankee Blue, and by whom?",
+  "When will AARO publish Volume II, and will it contain the Yankee Blue findings the Department promised?",
+  "How many personnel were read into the fictitious programme, over what years, and what NDAs did they sign?",
+  "What did the Bennewitz operation protect, if it was protecting anything, and why has no official report acknowledged it?",
+  "Was Gordon Gray ever involved in UFO policy? Nothing opened says so."
+ ],
+ "record": [
+  {
+   "cite": [
+    "c-5976133b9d",
+    "e-7eb727a4b1",
+    "e-767f24842a"
+   ],
+   "text": "NSC 10/2 defines covert operations as those planned so that US responsibility is not evident to unauthorised persons and can be plausibly disclaimed if uncovered, and names propaganda, economic warfare, direct action and subversion; it places the office inside CIA but reporting directly to the Director of Central Intelligence."
+  },
+  {
+   "cite": [
+    "c-14a013a2d2",
+    "c-a1073ea62b",
+    "c-2bd9d4bb81",
+    "c-4e2cf80743",
+    "e-8b36f8d849",
+    "e-b8f0074ef5"
+   ],
+   "text": "The Psychological Strategy Board was to plan, coordinate and conduct psychological operations within approved policy, reporting to the NSC; its directive gives the director a standing claim on other departments' information but does not authorise the Board to perform psychological operations itself. Gray's other offices included Secretary of the Army and Assistant Secretary of Defense."
+  },
+  {
+   "cite": [
+    "c-a03ee29975",
+    "c-11e6eb914f",
+    "c-19c3ca5039",
+    "c-31dea85b1b",
+    "e-2fccafb363",
+    "e-f07e2d9e5f",
+    "c-e267ce0f69",
+    "e-687c1e776b"
+   ],
+   "text": "The 1962 Northwoods memorandum, signed by the Chairman of the Joint Chiefs, calls for a cover and deception plan to provide a pretext for intervention in Cuba, including a staged Remember the Maine incident and a duplicate of an aircraft belonging to a CIA proprietary; it was classified TOP SECRET SPECIAL HANDLING NOFORN and reached the public through the JFK Assassination Records Review Board."
+  },
+  {
+   "cite": [
+    "c-ff05a6fb33",
+    "c-ef031c431f",
+    "c-fbdf5df850",
+    "e-fe05f6fa26"
+   ],
+   "text": "A 1959 Air Force Special Weapons Center study from Kirtland on nuclear detonations near the moon states its motive as scientific, military and political, noting the positive effects that would accrue to the first nation to do it as a demonstration of advanced technological capability and warning that, without preparing world opinion in advance, a considerable negative reaction could follow."
+  },
+  {
+   "cite": [
+    "c-2142c97d03"
+   ],
+   "text": "The CIA's own historian acknowledged in 1997 the Agency's Office of Scientific Intelligence effort on UFOs and the Robertson Panel."
+  },
+  {
+   "cite": [
+    "c-4a25745281",
+    "c-34fd57cdb1",
+    "c-97eae7db5d"
+   ],
+   "text": "The AFOSI documents on the 1980 Kirtland incident were released under FOIA, and Richard Doty's 321-page state police personnel file is public."
+  },
+  {
+   "cite": [
+    "c-38c323c2bb",
+    "c-89ec02a165",
+    "e-0fcbfaf5ff",
+    "c-e270ce5dc6"
+   ],
+   "text": "On Yankee Blue, OSD told a FOIA requester in September 2025 that it could identify no record of the alleged 2023 cessation memo; Susan Gough said she could not confirm any department-level memo; AFOSI said it found no records; and in December 2025 an appeal decision remanded the case for further searches."
+  },
+  {
+   "cite": [
+    "e-c1fbae6e66",
+    "c-73179e68ea",
+    "c-4d754b7236",
+    "c-d6e3b7336b",
+    "c-a947aca482",
+    "e-f1ae8c9ff6",
+    "e-950dc750b3"
+   ],
+   "text": "AARO's historical record report, Volume I, contains no occurrence of Yankee Blue, Kirtland or AFOSI, states that AARO found no NDAs containing UAP information, and defers unresolved allegations to a Volume II that, as of August 2026, had not appeared, about 26 months past its statutory deadline."
+  }
+ ],
+ "related": [
+  "kirtland-1980",
+  "dulce",
+  "mj12-documents",
+  "denial-ledger",
+  "robertson-cia-1953",
+  "cia-secrecy-precedents",
+  "aaro-historical-record"
+ ],
  "section": "case-against",
  "span": {
   "from": "1950",
   "to": "2026"
  },
- "status": "draft",
- "summary": [],
+ "status": "verified",
+ "summary": [
+  {
+   "cite": [
+    "c-ac4dc11f47",
+    "e-767f24842a",
+    "c-a5537d2bb9",
+    "c-6532c404d1",
+    "e-4784735fe2"
+   ],
+   "text": "The early machinery is documented: NSC 10/2 created the CIA office that became the Office of Policy Coordination in 1948 to conduct covert operations, with propaganda first among them, and Truman's 1951 directive created the Psychological Strategy Board, with Gordon Gray as its first director."
+  },
+  {
+   "cite": [
+    "c-ee72aa1431"
+   ],
+   "text": "Applied to UFOs, the Robertson Panel in 1953 recommended public training and debunking through the mass media and that civilian UFO groups be watched."
+  },
+  {
+   "cite": [
+    "c-b058ea0ac4",
+    "e-25b998b015",
+    "e-c711784f2e",
+    "c-9df8a13609",
+    "c-a170e3377f"
+   ],
+   "text": "The best-known case is Kirtland, where, by the later admissions of William Moore and Richard Doty, Air Force OSI personnel supplied Paul Bennewitz with fabricated documents about alien activity in the early 1980s; the Dulce story is where that operation's output, and much else, converged."
+  },
+  {
+   "cite": [
+    "c-9e225ffcd3",
+    "c-0e701fc335",
+    "e-5c1ff77fec",
+    "e-529e6b0262",
+    "e-0fcbfaf5ff"
+   ],
+   "text": "Yankee Blue, reported in 2025, is the practice's most recent alleged form, turned inward on the Air Force's own personnel. AFOSI, the Air Force's agency chartered for both criminal investigation and counterintelligence, is the service named in the Bennewitz case; press reporting places Yankee Blue in the Air Force, and AFOSI says it holds no records of it."
+  }
+ ],
  "title": "Perception management: YANKEE BLUE, psychological operations and disinformation practice"
 }

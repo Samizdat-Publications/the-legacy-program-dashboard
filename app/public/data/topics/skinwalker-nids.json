@@ -10,25 +10,1462 @@
   "travis-taylor"
  ],
  "appendixT": "skinwalker-nids",
- "cites": {},
- "claimed": [],
- "contested": [],
+ "cites": {
+  "c-01d5a13970": {
+   "id": "c-01d5a13970",
+   "kind": "claim",
+   "node": "nids",
+   "nodeLabel": "National Institute for Discovery Science (NIDS)",
+   "source": {
+    "domain": null,
+    "text": "The New Yorker, 10 May 2021",
+    "url": null
+   },
+   "text": "Bigelow shut NIDS down in 2004 but retained Skinwalker Ranch; in 2007 a senior DIA official wrote to him about the ranch, and the AAWSAP contract followed.",
+   "tier": 2
+  },
+  "c-0c220a0c85": {
+   "id": "c-0c220a0c85",
+   "kind": "claim",
+   "node": "travis-taylor",
+   "nodeLabel": "Travis S. Taylor",
+   "source": {
+    "domain": "mgln.ai",
+    "text": "American Alchemy with Jesse Michels, 'There's A UFO Under the Ranch!' - Skinwalker Owner Breaks Silence, 26 July 2026, 2:17:46 https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL9910649891.mp3",
+    "url": "https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL9910649891.mp3"
+   },
+   "text": "On American Alchemy with Jesse Michels, 26 July 2026, Brandon Fugal said the Skinwalker Ranch team did not know Taylor had been made chief scientist of the UAP Task Force while he was returning seasonally to work on the ranch investigation, that Taylor was under national security oaths and confidentiality and 'didn't breach that not even once', and that the team learned only once he had authorisation to disclose it. Fugal said members of his team, including his head of security, initially felt betrayed (2:17:46 to 2:18:44).",
+   "tier": 2
+  },
+  "c-1d3a2eb7cc": {
+   "id": "c-1d3a2eb7cc",
+   "kind": "claim",
+   "node": "skinwalkers-at-the-pentagon",
+   "nodeLabel": "Skinwalkers at the Pentagon (Lacatski, Kelleher, Knapp, 2021)",
+   "source": {
+    "domain": null,
+    "text": "DOPSR clearance noted in the published volume",
+    "url": null
+   },
+   "text": "The manuscript was cleared for publication through DoD prepublication review.",
+   "tier": 1
+  },
+  "c-242bc0520c": {
+   "id": "c-242bc0520c",
+   "kind": "claim",
+   "node": "baass-ten-month-report",
+   "nodeLabel": "BAASS Ten Month Report (2009)",
+   "source": {
+    "domain": null,
+    "text": "Inference from the contract's deliverable schedule against the FOIA no-records response",
+    "url": null
+   },
+   "text": "DIA's inability to locate the Utah ranch report, in a program whose contract required monthly status reports and project management plans, indicates the field investigation record was either held by the contractor rather than the government or was not filed into DIA's searchable records system.",
+   "tier": 3
+  },
+  "c-2603a6a718": {
+   "id": "c-2603a6a718",
+   "kind": "claim",
+   "node": "nids",
+   "nodeLabel": "National Institute for Discovery Science (NIDS)",
+   "source": {
+    "domain": null,
+    "text": "The New Yorker, 10 May 2021, quoting NIDS' own description — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+    "url": null
+   },
+   "text": "NIDS described itself as 'a privately funded science institute engaged in research of aerial phenomena, animal mutilations, and other related anomalous phenomena'; among the consultants Bigelow hired was Hal Puthoff.",
+   "tier": 2
+  },
+  "c-31357c5dc3": {
+   "id": "c-31357c5dc3",
+   "kind": "claim",
+   "node": "l-skinwalker",
+   "nodeLabel": "Skinwalker Ranch, Uintah Basin, Utah",
+   "source": {
+    "domain": null,
+    "text": "Wikipedia, Skinwalker Ranch, citing property and press records — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+    "url": null
+   },
+   "text": "The ranch is approximately 512 acres in Uintah County, Utah; Bigelow purchased it for $200,000 in 1996 and sold it for approximately $500,000 in 2016 to Brandon Fugal, who announced ownership in March 2020 via Adamantium Real Estate LLC.",
+   "tier": 2
+  },
+  "c-3da352ed70": {
+   "id": "c-3da352ed70",
+   "kind": "claim",
+   "node": "robert-bigelow",
+   "nodeLabel": "Robert T. Bigelow",
+   "source": {
+    "domain": null,
+    "text": "Robert Bigelow, interview with the Deseret News, 10 Aug 1998",
+    "url": null
+   },
+   "text": "Bigelow said in August 1998 that anomalous aerial activity and unusual animal deaths had continued on and around the property: 'We wouldn't be there just for the weather.'",
+   "tier": 2
+  },
+  "c-3e12cf9226": {
+   "id": "c-3e12cf9226",
+   "kind": "claim",
+   "node": "l-utah",
+   "nodeLabel": "Uintah Basin, Utah",
+   "source": {
+    "domain": null,
+    "text": "Inference from the Lacatski/Bigelow/Reid chain as recorded in the Skinwalker Ranch article and Knapp's 2025 testimony",
+    "url": null
+   },
+   "text": "The largest modern US government UAP field investigation targeted a site selected from a regional folk reporting record rather than from defence sensor data. Reasoning: the documented chain runs from Kelleher and Knapp's 2005 book to Lacatski's visit to the AAWSAP appropriation, not from a military incident file.",
+   "tier": 3
+  },
+  "c-3f7a7dcc16": {
+   "id": "c-3f7a7dcc16",
+   "kind": "claim",
+   "node": "l-skinwalker",
+   "nodeLabel": "Skinwalker Ranch, Uintah Basin, Utah",
+   "source": {
+    "domain": null,
+    "text": "BAASS Ten Month Report (2009)",
+    "url": null
+   },
+   "text": "The BAASS Ten Month Report describes the Utah property as operating under 24/7 surveillance with rapid-response patrols as part of the DIA-funded effort.",
+   "tier": 2
+  },
+  "c-588f2f44e6": {
+   "id": "c-588f2f44e6",
+   "kind": "claim",
+   "node": "d-paranormal",
+   "nodeLabel": "Anomalous Phenomena Adjacent to UAP",
+   "source": {
+    "domain": null,
+    "text": "Kelleher and Lacatski, 'Skinwalkers at the Pentagon' (2021)",
+    "url": null
+   },
+   "text": "Colm Kelleher and James Lacatski published 'Skinwalkers at the Pentagon' in 2021, describing federally funded collection of anomalous phenomena reports at Skinwalker Ranch under the AAWSAP effort, with Lacatski named as the DIA official who initiated it.",
+   "tier": 2
+  },
+  "c-5e831a1641": {
+   "id": "c-5e831a1641",
+   "kind": "claim",
+   "node": "sean-kirkpatrick",
+   "nodeLabel": "Sean M. Kirkpatrick",
+   "source": {
+    "domain": "mgln.ai",
+    "text": "American Alchemy with Jesse Michels, '\"There's A UFO Under the Ranch!\" - Skinwalker Owner Breaks Silence', 26 July 2026, 2:39:07 https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL9910649891.mp3",
+    "url": "https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL9910649891.mp3"
+   },
+   "text": "On American Alchemy with Jesse Michels, 26 July 2026, Skinwalker Ranch owner Brandon Fugal said that Kirkpatrick 'claimed that before 2022 he had no interest in these topics, that he'd never attended a briefing on Skinwalker Ranch', and that he had never met Fugal. Fugal said Kirkpatrick sat across from him for two and a half hours at a confidential briefing in April 2018 devoted to the investigation and findings at the ranch, and that after being challenged by Steven Greenstreet of the New York Post he published a photograph of Kirkpatrick in attendance to Twitter, LinkedIn, Instagram and Facebook (2:39:07 to 2:41:12).",
+   "tier": 2
+  },
+  "c-5fe0e2bd52": {
+   "id": "c-5fe0e2bd52",
+   "kind": "claim",
+   "node": "l-skinwalker",
+   "nodeLabel": "Skinwalker Ranch, Uintah Basin, Utah",
+   "source": {
+    "domain": null,
+    "text": "Zack Van Eyck, Deseret News, 10 Aug 1998; property records, Uintah County",
+    "url": null
+   },
+   "text": "The property is a 480-acre parcel in Uintah County, Utah, purchased by Bigelow in 1996 from Terry and Gwen Sherman, who as a condition of sale agreed to keep quiet about what they had witnessed.",
+   "tier": 1
+  },
+  "c-67f4fe3c36": {
+   "id": "c-67f4fe3c36",
+   "kind": "claim",
+   "node": "l-skinwalker",
+   "nodeLabel": "Skinwalker Ranch, Uintah Basin, Utah",
+   "source": {
+    "domain": null,
+    "text": "AARO Historical Record Report Volume 1, 8 March 2024, p.23",
+    "url": null
+   },
+   "text": "'AAWSAP/AATIP also investigated an alleged hotspot of UAP and paranormal activity at a property in Utah — which at that time was owned by the head of the private sector organization.'",
+   "tier": 1
+  },
+  "c-6fc345598b": {
+   "id": "c-6fc345598b",
+   "kind": "claim",
+   "node": "skinwalkers-at-the-pentagon",
+   "nodeLabel": "Skinwalkers at the Pentagon (Lacatski, Kelleher, Knapp, 2021)",
+   "source": {
+    "domain": null,
+    "text": "DIA FOIA-00023-2022, APP-00031-2022, and 2022 FOIA responses",
+    "url": null
+   },
+   "text": "DIA reported no records located for the 19 June 2007 Lacatski letter to Bigelow described in the book, and no records for the 'Utah Ranch Investigation: August 2009-February 2010' report.",
+   "tier": 1
+  },
+  "c-769d408d78": {
+   "id": "c-769d408d78",
+   "kind": "claim",
+   "node": "skinwalkers-at-the-pentagon",
+   "nodeLabel": "Skinwalkers at the Pentagon (Lacatski, Kelleher, Knapp, 2021)",
+   "source": {
+    "domain": null,
+    "text": "Inference from the DOPSR clearance set against DoD's public position",
+    "url": null
+   },
+   "text": "DoD clearing a manuscript that describes a government officer entering a craft of unknown origin, while simultaneously maintaining there is no evidence of such craft, is an internal inconsistency that has never been reconciled on the record.",
+   "tier": 3
+  },
+  "c-81c9b24315": {
+   "id": "c-81c9b24315",
+   "kind": "claim",
+   "node": "james-lacatski",
+   "nodeLabel": "James T. Lacatski",
+   "source": {
+    "domain": null,
+    "text": "DIA FOIA-00023-2022 and APP-00031-2022, released via The Black Vault, 2023",
+    "url": null
+   },
+   "text": "DIA could locate no records responsive to a request for the 19 June 2007 Lacatski-to-Bigelow letter described in 'Skinwalkers at the Pentagon'; the appeal (APP-00031-2022) also returned no records.",
+   "tier": 1
+  },
+  "c-87c5bfdb27": {
+   "id": "c-87c5bfdb27",
+   "kind": "claim",
+   "node": "d-paranormal",
+   "nodeLabel": "Anomalous Phenomena Adjacent to UAP",
+   "source": {
+    "domain": null,
+    "text": "Journal of Scientific Exploration 37(1)",
+    "url": null
+   },
+   "text": "Barry Greenwood published a critical review of 'Skinwalkers at the Pentagon' in the Journal of Scientific Exploration 37(1):127-131 in May 2023.",
+   "tier": 2
+  },
+  "c-94f3c4edf1": {
+   "id": "c-94f3c4edf1",
+   "kind": "claim",
+   "node": "l-skinwalker",
+   "nodeLabel": "Skinwalker Ranch, Uintah Basin, Utah",
+   "source": {
+    "domain": null,
+    "text": "DIA FOIA response, reported March 2022",
+    "url": null
+   },
+   "text": "DIA could locate no records matching the report 'Utah Ranch Investigation: August 2009-February 2010'.",
+   "tier": 1
+  },
+  "c-9b1200d846": {
+   "id": "c-9b1200d846",
+   "kind": "claim",
+   "node": "d-paranormal",
+   "nodeLabel": "Anomalous Phenomena Adjacent to UAP",
+   "source": {
+    "domain": null,
+    "text": "AAWSAP solicitation and statement of work, DIA FOIA release",
+    "url": null
+   },
+   "text": "DIA solicited AAWSAP in August 2008 and the resulting contract file, statement of work and deliverables were released under FOIA.",
+   "tier": 1
+  },
+  "c-abfc992dba": {
+   "id": "c-abfc992dba",
+   "kind": "claim",
+   "node": "robert-bigelow",
+   "nodeLabel": "Robert T. Bigelow",
+   "source": {
+    "domain": null,
+    "text": "Gideon Lewis-Kraus, The New Yorker, 10 May 2021, quoting NIDS' own description",
+    "url": null
+   },
+   "text": "Bigelow founded NIDS in 1995 as 'a privately funded science institute engaged in research of aerial phenomena, animal mutilations, and other related anomalous phenomena,' and purchased Skinwalker Ranch the following year.",
+   "tier": 1
+  },
+  "c-ac3ea99c33": {
+   "id": "c-ac3ea99c33",
+   "kind": "claim",
+   "node": "harold-puthoff",
+   "nodeLabel": "Harold E. Puthoff",
+   "source": {
+    "domain": "mgln.ai",
+    "text": "American Alchemy with Jesse Michels, 'CIA Historian: Aliens Control Our Government (ft. Peter Levenda)', 22 November 2025, 3:56:16 to 3:58:57, https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL1108723055.mp3?updated=1763834387",
+    "url": "https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL1108723055.mp3?updated=1763834387"
+   },
+   "text": "On American Alchemy with Jesse Michels, 22 November 2025, at 3:56:16 to 3:58:57, Peter Levenda said he spent a full day in a conference room in Austin, arranged by Tom DeLonge, with Chris Mellon, Harold Puthoff and Jacques Vallee. He said that when the group asked about a specific matter concerning Skinwalker Ranch, the equipment used there and the data collected, all three fell silent, and that Puthoff then said 'we need a skiff for this one' and would not say why. Levenda gives the account in the first person as a participant and says he took contemporaneous notes.",
+   "tier": 2
+  },
+  "c-aef08c13d0": {
+   "id": "c-aef08c13d0",
+   "kind": "claim",
+   "node": "skinwalkers-at-the-pentagon",
+   "nodeLabel": "Skinwalkers at the Pentagon (Lacatski, Kelleher, Knapp, 2021)",
+   "source": {
+    "domain": null,
+    "text": "'Skinwalkers at the Pentagon' (2021)",
+    "url": null
+   },
+   "text": "Lacatski, Kelleher and Knapp describe AAWSAP's Utah field operations, human physiological effects on personnel, and Lacatski's account of entering a craft of unknown origin.",
+   "tier": 2
+  },
+  "c-b4b0bc1c79": {
+   "id": "c-b4b0bc1c79",
+   "kind": "claim",
+   "node": "robert-bigelow",
+   "nodeLabel": "Robert T. Bigelow",
+   "source": {
+    "domain": null,
+    "text": "AARO, Historical Record Report Volume I, March 2024, Section on KONA BLUE",
+    "url": null
+   },
+   "text": "BAASS was the prime contractor executing DIA's AAWSAP program, funded through a special appropriation; the contractor team conducted UAP and paranormal research at a property owned by the private sector organisation.",
+   "tier": 1
+  },
+  "c-cd477a7d4a": {
+   "id": "c-cd477a7d4a",
+   "kind": "claim",
+   "node": "travis-taylor",
+   "nodeLabel": "Travis S. Taylor",
+   "source": {
+    "domain": "mgln.ai",
+    "text": "American Alchemy with Jesse Michels, 'There's A UFO Under the Ranch!' - Skinwalker Owner Breaks Silence, 26 July 2026, 2:19:37 https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL9910649891.mp3",
+    "url": "https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL9910649891.mp3"
+   },
+   "text": "In the same episode Fugal stated the direction of the connection: that the reason Taylor 'was called in and called to that position in large part was was really because of uh the work at' Skinwalker Ranch, and that before being brought to the ranch Taylor had no experience of the subject and was a vocal skeptic (2:16:52, 2:19:37).",
+   "tier": 2
+  },
+  "c-d5d9077035": {
+   "id": "c-d5d9077035",
+   "kind": "claim",
+   "node": "travis-taylor",
+   "nodeLabel": "Travis S. Taylor",
+   "source": {
+    "domain": null,
+    "text": "Inference from the overlapping dates; no document addresses the relationship",
+    "url": null
+   },
+   "text": "The overlap between Taylor's UAPTF chief-scientist tenure and his on-camera instrumented investigation of Skinwalker Ranch means the same individual was applying near-identical sensing methodology inside and outside the classified system in the same period, with no public account of what, if anything, crossed between them.",
+   "tier": 3
+  },
+  "c-d85b2e59e5": {
+   "id": "c-d85b2e59e5",
+   "kind": "claim",
+   "node": "l-skinwalker",
+   "nodeLabel": "Skinwalker Ranch, Uintah Basin, Utah",
+   "source": {
+    "domain": null,
+    "text": "George Knapp, written testimony, House Oversight Task Force, 9 September 2025",
+    "url": null
+   },
+   "text": "BAASS recruited about 50 full-time investigators with top secret clearances, operated for 27 months, generated more than three dozen preliminary reports and over 100 detailed research papers, and built a data warehouse of over 240,000 UFO case files designed by Jacques Vallee that reportedly remains in use by US agencies; most of the research papers remain unreleased by DIA.",
+   "tier": 2
+  },
+  "c-e0c130514e": {
+   "id": "c-e0c130514e",
+   "kind": "claim",
+   "node": "l-skinwalker",
+   "nodeLabel": "Skinwalker Ranch, Uintah Basin, Utah",
+   "source": {
+    "domain": null,
+    "text": "Wikipedia, Skinwalker Ranch, citing Reid's and Lacatski's accounts",
+    "url": null
+   },
+   "text": "DIA official James Lacatski contacted Bigelow after reading 'Hunt for the Skinwalker' and reported an experience at the ranch; Bigelow relayed this to Sen. Harry Reid, and Reid and Sen. Ted Stevens subsequently secured approximately $22 million in Defense appropriations to study unidentified aerial phenomena.",
+   "tier": 2
+  },
+  "c-e0e6726d30": {
+   "id": "c-e0e6726d30",
+   "kind": "claim",
+   "node": "nids",
+   "nodeLabel": "National Institute for Discovery Science (NIDS)",
+   "source": {
+    "domain": null,
+    "text": "Inference from the NIDS-to-BAASS personnel continuity",
+    "url": null
+   },
+   "text": "AAWSAP's field methodology, personnel and site were inherited wholesale from NIDS, meaning the government did not fund a new capability but bought access to an existing private one — which is why the contractor's UFO work began immediately on award.",
+   "tier": 3
+  },
+  "c-e5b822008a": {
+   "id": "c-e5b822008a",
+   "kind": "claim",
+   "node": "l-skinwalker",
+   "nodeLabel": "Skinwalker Ranch, Uintah Basin, Utah",
+   "source": {
+    "domain": null,
+    "text": "Wikipedia, Skinwalker Ranch",
+    "url": null
+   },
+   "text": "NIDS investigators including retired Army Col. John B. Alexander examined close to 100 incidents at the ranch but acknowledged difficulty obtaining evidence consistent with scientific publication.",
+   "tier": 2
+  },
+  "c-f0a924457e": {
+   "id": "c-f0a924457e",
+   "kind": "claim",
+   "node": "nids",
+   "nodeLabel": "National Institute for Discovery Science (NIDS)",
+   "source": {
+    "domain": null,
+    "text": "Robert Bigelow, interview with the Deseret News, 10 Aug 1998 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+    "url": null
+   },
+   "text": "NIDS operated a public reporting line (1-888-433-6500) and would dispatch veterinarians to perform necropsies on reported animal mutilations at no cost to ranchers.",
+   "tier": 2
+  },
+  "c-f316a75ba6": {
+   "id": "c-f316a75ba6",
+   "kind": "claim",
+   "node": "robert-bigelow",
+   "nodeLabel": "Robert T. Bigelow",
+   "source": {
+    "domain": null,
+    "text": "AARO Historical Record Report Volume 1, 8 March 2024, p.23",
+    "url": null
+   },
+   "text": "DoD's own 2024 historical report states the contractor investigated 'an alleged hotspot of UAP and paranormal activity at a property in Utah — which at that time was owned by the head of the private sector organization.'",
+   "tier": 1
+  },
+  "c-f35d1610f3": {
+   "id": "c-f35d1610f3",
+   "kind": "claim",
+   "node": "travis-taylor",
+   "nodeLabel": "Travis S. Taylor",
+   "source": {
+    "domain": null,
+    "text": "Science magazine, June 2022",
+    "url": null
+   },
+   "text": "Taylor was the chief scientist on the Unidentified Aerial Phenomena Task Force.",
+   "tier": 2
+  },
+  "c-ffaffe998c": {
+   "id": "c-ffaffe998c",
+   "kind": "claim",
+   "node": "l-skinwalker",
+   "nodeLabel": "Skinwalker Ranch, Uintah Basin, Utah",
+   "source": {
+    "domain": null,
+    "text": "Inference from the AARO admission read against the appropriations route",
+    "url": null
+   },
+   "text": "Federal funds being spent on continuous instrumented monitoring of a property owned by the prime contractor's principal is a contracting-integrity problem that no oversight body has ever examined, because no oversight body knew the program existed until 2018.",
+   "tier": 3
+  },
+  "e-17a82ee80b": {
+   "endpoints": [
+    {
+     "id": "aawsap",
+     "label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)"
+    },
+    {
+     "id": "l-skinwalker",
+     "label": "Skinwalker Ranch, Uintah Basin, Utah"
+    }
+   ],
+   "id": "e-17a82ee80b",
+   "kind": "edge",
+   "label": "funded field investigation of the Utah site",
+   "sources": [
+    {
+     "date": "2024-03-08",
+     "name": "AARO Historical Record Report Volume 1",
+     "url": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF"
+    },
+    {
+     "date": "2022-03-01",
+     "name": "The UFO Trail",
+     "url": "https://ufotrail.blogspot.com/2022/03/dia-further-verifies-aawsap-award-to.html"
+    }
+   ],
+   "text": "AARO confirms the investigation; DIA says it cannot locate the resulting 'Utah Ranch Investigation: August 2009-February 2010' report.",
+   "tier": 1,
+   "type": "programmatic"
+  },
+  "e-30863a5c46": {
+   "endpoints": [
+    {
+     "id": "dia",
+     "label": "Defense Intelligence Agency"
+    },
+    {
+     "id": "skinwalkers-at-the-pentagon",
+     "label": "Skinwalkers at the Pentagon (Lacatski, Kelleher, Knapp, 2021)"
+    }
+   ],
+   "id": "e-30863a5c46",
+   "kind": "edge",
+   "label": "no records located for the documents the book describes",
+   "sources": [
+    {
+     "date": "2023-09-01",
+     "name": "The Black Vault — FOIA-00023-2022",
+     "url": "https://www.theblackvault.com/documentarchive/wp-content/uploads/2023/09/FOIA00023-2022.pdf"
+    },
+    {
+     "date": "2022-03-01",
+     "name": "The UFO Trail",
+     "url": "https://ufotrail.blogspot.com/2022/03/dia-further-verifies-aawsap-award-to.html"
+    }
+   ],
+   "text": "DIA could locate neither the 19 June 2007 Lacatski letter nor the 'Utah Ranch Investigation: August 2009-February 2010' report, in a program contractually required to file monthly status reports.",
+   "tier": 1,
+   "type": "denial"
+  },
+  "e-3334b97519": {
+   "endpoints": [
+    {
+     "id": "nids",
+     "label": "National Institute for Discovery Science (NIDS)"
+    },
+    {
+     "id": "baass",
+     "label": "Bigelow Aerospace Advanced Space Studies (BAASS), LLC"
+    }
+   ],
+   "id": "e-3334b97519",
+   "kind": "edge",
+   "label": "NIDS personnel and methods carried directly into the DIA-funded BAASS contract",
+   "sources": [
+    {
+     "date": "2021-05-10",
+     "name": "Gideon Lewis-Kraus, 'How the Pentagon Started Taking U.F.O.s Seriously', The New Yorker",
+     "url": "https://www.newyorker.com/magazine/2021/05/10/how-the-pentagon-started-taking-ufos-seriously"
+    },
+    {
+     "date": "2023-05-02",
+     "name": "Barry Greenwood, review of 'Skinwalkers at the Pentagon', Journal of Scientific Exploration 37(1) 127-131",
+     "url": "https://journalofscientificexploration.org/index.php/jse/article/view/2857"
+    }
+   ],
+   "text": "NIDS closed in 2004; in 2007 a senior DIA official wrote to Bigelow about Skinwalker Ranch, and BAASS won the AAWSAP contract the following year with substantially the same people.",
+   "tier": 2,
+   "type": "programmatic"
+  },
+  "e-36f3c13c6b": {
+   "endpoints": [
+    {
+     "id": "colm-kelleher",
+     "label": "Colm A. Kelleher"
+    },
+    {
+     "id": "george-knapp",
+     "label": "George Knapp"
+    }
+   ],
+   "id": "e-36f3c13c6b",
+   "kind": "edge",
+   "label": "'Hunt for the Skinwalker' (2005) - the book that triggered the contract",
+   "sources": [
+    {
+     "date": "2021-08-01",
+     "name": "KLAS Mystery Wire",
+     "url": "https://www.8newsnow.com/mystery-wire/new-book-uncovers-secrets-of-government-funded-ufo-investigation-program-exclusive-interview/"
+    }
+   ],
+   "text": "Lacatski read it and wrote to Bigelow in June 2007; a trade paperback is the documented first cause of a $22 million federal program.",
+   "tier": 2,
+   "type": "witness-chain"
+  },
+  "e-44a696c342": {
+   "endpoints": [
+    {
+     "id": "kit-green",
+     "label": "Christopher C. 'Kit' Green"
+    },
+    {
+     "id": "nids",
+     "label": "National Institute for Discovery Science (NIDS)"
+    }
+   ],
+   "id": "e-44a696c342",
+   "kind": "edge",
+   "label": "NIDS science advisory board before the DIRD",
+   "sources": [
+    {
+     "date": "2024-01-01",
+     "name": "Wikipedia — NIDS",
+     "url": "https://en.wikipedia.org/wiki/National_Institute_for_Discovery_Science"
+    }
+   ],
+   "text": "Green's human-effects interest predates the federal contract by more than a decade, through Bigelow's private institute.",
+   "tier": 2,
+   "type": "institutional"
+  },
+  "e-581497930d": {
+   "endpoints": [
+    {
+     "id": "robert-bigelow",
+     "label": "Robert T. Bigelow"
+    },
+    {
+     "id": "nids",
+     "label": "National Institute for Discovery Science (NIDS)"
+    }
+   ],
+   "id": "e-581497930d",
+   "kind": "edge",
+   "label": "founded and privately funded NIDS 1995-2004",
+   "sources": [
+    {
+     "date": "2024-01-01",
+     "name": "Wikipedia — NIDS",
+     "url": "https://en.wikipedia.org/wiki/National_Institute_for_Discovery_Science"
+    },
+    {
+     "date": "2021-05-10",
+     "name": "Gideon Lewis-Kraus, 'How the Pentagon Started Taking U.F.O.s Seriously', The New Yorker",
+     "url": "https://www.newyorker.com/magazine/2021/05/10/how-the-pentagon-started-taking-ufos-seriously"
+    },
+    {
+     "date": "1998-08-10",
+     "name": "Zack Van Eyck, 'Private UFO study takes a public turn', Deseret News",
+     "url": "https://www.deseret.com/1998/8/10/19395824/private-ufo-study-takes-a-public-turn"
+    }
+   ],
+   "text": "NIDS described itself as a privately funded science institute studying aerial phenomena and animal mutilations; Bigelow shut it down in 2004.",
+   "tier": 2,
+   "type": "funding"
+  },
+  "e-5b25da505b": {
+   "endpoints": [
+    {
+     "id": "james-lacatski",
+     "label": "James T. Lacatski"
+    },
+    {
+     "id": "robert-bigelow",
+     "label": "Robert T. Bigelow"
+    }
+   ],
+   "id": "e-5b25da505b",
+   "kind": "edge",
+   "label": "2007 approach that originated the contract",
+   "sources": [
+    {
+     "date": "2023-09-01",
+     "name": "The Black Vault — FOIA-00023-2022",
+     "url": "https://www.theblackvault.com/documentarchive/wp-content/uploads/2023/09/FOIA00023-2022.pdf"
+    }
+   ],
+   "text": "Per 'Skinwalkers at the Pentagon' Lacatski wrote to Bigelow on DIA letterhead on 19 June 2007; DIA reports no records of the letter.",
+   "tier": 2,
+   "type": "institutional"
+  },
+  "e-60716033da": {
+   "endpoints": [
+    {
+     "id": "george-knapp",
+     "label": "George Knapp"
+    },
+    {
+     "id": "robert-bigelow",
+     "label": "Robert T. Bigelow"
+    }
+   ],
+   "id": "e-60716033da",
+   "kind": "edge",
+   "label": "Knapp introduced Harry Reid to Robert Bigelow",
+   "sources": [
+    {
+     "date": "2026-08-12",
+     "name": "Wikipedia - George Knapp",
+     "url": "https://en.wikipedia.org/wiki/George_Knapp_(television_journalist)"
+    }
+   ],
+   "text": "The single most causally consequential act by any journalist in this domain: the introduction that produced NIDS, then AAWSAP and BAASS, and therefore the entire modern Pentagon lineage.",
+   "tier": 2,
+   "type": "behavioral"
+  },
+  "e-6fa87d8fea": {
+   "endpoints": [
+    {
+     "id": "james-lacatski",
+     "label": "James T. Lacatski"
+    },
+    {
+     "id": "l-skinwalker",
+     "label": "Skinwalker Ranch, Uintah Basin, Utah"
+    }
+   ],
+   "id": "e-6fa87d8fea",
+   "kind": "edge",
+   "label": "Lacatski's visit is the documented link from the ranch to DIA",
+   "sources": [
+    {
+     "date": "2026-08-12",
+     "name": "Wikipedia - Skinwalker Ranch",
+     "url": "https://en.wikipedia.org/wiki/Skinwalker_Ranch"
+    }
+   ],
+   "text": "Lacatski contacted Bigelow after reading 'Hunt for the Skinwalker', visited the ranch and reported an experience there; Bigelow relayed this to Sen. Harry Reid.",
+   "tier": 2,
+   "type": "witness-chain"
+  },
+  "e-80de8e635d": {
+   "endpoints": [
+    {
+     "id": "george-knapp",
+     "label": "George Knapp"
+    },
+    {
+     "id": "skinwalkers-at-the-pentagon",
+     "label": "Skinwalkers at the Pentagon (Lacatski, Kelleher, Knapp, 2021)"
+    }
+   ],
+   "id": "e-80de8e635d",
+   "kind": "edge",
+   "label": "co-author with the program manager and the contractor's deputy",
+   "sources": [
+    {
+     "date": "2021-08-01",
+     "name": "KLAS Mystery Wire",
+     "url": "https://www.8newsnow.com/mystery-wire/new-book-uncovers-secrets-of-government-funded-ufo-investigation-program-exclusive-interview/"
+    }
+   ],
+   "text": "Knapp moves from reporter to co-author of the DOPSR-cleared insider account — and his earlier book is the proximate cause of the contract.",
+   "tier": 1,
+   "type": "witness-chain"
+  },
+  "e-83150b3c84": {
+   "endpoints": [
+    {
+     "id": "nids",
+     "label": "National Institute for Discovery Science (NIDS)"
+    },
+    {
+     "id": "l-skinwalker",
+     "label": "Skinwalker Ranch, Uintah Basin, Utah"
+    }
+   ],
+   "id": "e-83150b3c84",
+   "kind": "edge",
+   "label": "NIDS ran the field investigation at the ranch under Bigelow",
+   "sources": [
+    {
+     "date": "2026-08-12",
+     "name": "Wikipedia - Skinwalker Ranch",
+     "url": "https://en.wikipedia.org/wiki/Skinwalker_Ranch"
+    }
+   ],
+   "text": "NIDS investigators including retired Army Col. John B. Alexander examined close to 100 incidents while conceding they could not obtain publishable evidence.",
+   "tier": 2,
+   "type": "research"
+  },
+  "e-88db3d4838": {
+   "endpoints": [
+    {
+     "id": "travis-taylor",
+     "label": "Travis S. Taylor"
+    },
+    {
+     "id": "uap-task-force",
+     "label": "Unidentified Aerial Phenomena Task Force (UAPTF)"
+    }
+   ],
+   "id": "e-88db3d4838",
+   "kind": "edge",
+   "label": "Chief scientist of the UAP Task Force",
+   "sources": [
+    {
+     "date": "2026-08-12",
+     "name": "Wikipedia: Travis S. Taylor",
+     "url": "https://en.wikipedia.org/wiki/Travis_S._Taylor"
+    }
+   ],
+   "text": "Reported by Science magazine in June 2022. No government organisation chart naming him in the post has been released.",
+   "tier": 2,
+   "type": "programmatic"
+  },
+  "e-8adaa21ec8": {
+   "endpoints": [
+    {
+     "id": "jacques-vallee",
+     "label": "Jacques F. Vallee"
+    },
+    {
+     "id": "nids",
+     "label": "National Institute for Discovery Science (NIDS)"
+    }
+   ],
+   "id": "e-8adaa21ec8",
+   "kind": "edge",
+   "label": "Vallee served on the NIDS advisory board",
+   "sources": [
+    {
+     "date": "1998-08-10",
+     "name": "Zack Van Eyck, 'Private UFO study takes a public turn', Deseret News",
+     "url": "https://www.deseret.com/1998/8/10/19395824/private-ufo-study-takes-a-public-turn"
+    },
+    {
+     "date": "2021-05-10",
+     "name": "Gideon Lewis-Kraus, 'How the Pentagon Started Taking U.F.O.s Seriously', The New Yorker",
+     "url": "https://www.newyorker.com/magazine/2021/05/10/how-the-pentagon-started-taking-ufos-seriously"
+    }
+   ],
+   "text": "Vallee had been at SRI in the 1970s and had documented deliberate human disinformation in UFO cases from 1979 - the phenomenon later confirmed in the Bennewitz affair.",
+   "tier": 2,
+   "type": "institutional"
+  },
+  "e-933c22c1b1": {
+   "endpoints": [
+    {
+     "id": "nids",
+     "label": "National Institute for Discovery Science (NIDS)"
+    },
+    {
+     "id": "l-skinwalker",
+     "label": "Skinwalker Ranch, Uintah Basin, Utah"
+    }
+   ],
+   "id": "e-933c22c1b1",
+   "kind": "edge",
+   "label": "NIDS operated a permanently instrumented field station at the ranch",
+   "sources": [
+    {
+     "date": "1996-06-30",
+     "name": "Zack Van Eyck, 'Frequent Fliers?', Deseret News",
+     "url": "https://www.deseret.com/1996/6/30/19251541/frequent-fliers"
+    },
+    {
+     "date": "1998-08-10",
+     "name": "Zack Van Eyck, 'Private UFO study takes a public turn', Deseret News",
+     "url": "https://www.deseret.com/1998/8/10/19395824/private-ufo-study-takes-a-public-turn"
+    }
+   ],
+   "text": "Bigelow moved in a research team, surveillance equipment and full-time caretakers immediately after the purchase.",
+   "tier": 2,
+   "type": "programmatic"
+  },
+  "e-9478dc5bcb": {
+   "endpoints": [
+    {
+     "id": "eric-davis",
+     "label": "Eric W. Davis"
+    },
+    {
+     "id": "nids",
+     "label": "National Institute for Discovery Science (NIDS)"
+    }
+   ],
+   "id": "e-9478dc5bcb",
+   "kind": "edge",
+   "label": "NIDS scientist before the federal contract",
+   "sources": [
+    {
+     "date": "2024-01-01",
+     "name": "Wikipedia — NIDS",
+     "url": "https://en.wikipedia.org/wiki/National_Institute_for_Discovery_Science"
+    },
+    {
+     "date": "2021-05-10",
+     "name": "Gideon Lewis-Kraus, 'How the Pentagon Started Taking U.F.O.s Seriously', The New Yorker",
+     "url": "https://www.newyorker.com/magazine/2021/05/10/how-the-pentagon-started-taking-ufos-seriously"
+    },
+    {
+     "date": "2023-05-02",
+     "name": "Barry Greenwood, review of 'Skinwalkers at the Pentagon', Journal of Scientific Exploration 37(1) 127-131",
+     "url": "https://journalofscientificexploration.org/index.php/jse/article/view/2857"
+    }
+   ],
+   "text": "Davis carried the NIDS methodology forward into BAASS work under the DIA-funded AAWSAP contract after 2008.",
+   "tier": 2,
+   "type": "institutional"
+  },
+  "e-a19002d61f": {
+   "endpoints": [
+    {
+     "id": "colm-kelleher",
+     "label": "Colm A. Kelleher"
+    },
+    {
+     "id": "nids",
+     "label": "National Institute for Discovery Science (NIDS)"
+    }
+   ],
+   "id": "e-a19002d61f",
+   "kind": "edge",
+   "label": "Kelleher was NIDS deputy administrator and ran field operations",
+   "sources": [
+    {
+     "date": "1998-08-10",
+     "name": "Zack Van Eyck, 'Private UFO study takes a public turn', Deseret News",
+     "url": "https://www.deseret.com/1998/8/10/19395824/private-ufo-study-takes-a-public-turn"
+    },
+    {
+     "date": "2023-05-02",
+     "name": "Barry Greenwood, review of 'Skinwalkers at the Pentagon', Journal of Scientific Exploration 37(1) 127-131",
+     "url": "https://journalofscientificexploration.org/index.php/jse/article/view/2857"
+    }
+   ],
+   "text": "Kelleher managed the ranch instrumentation, the necropsy response programme and the hotline casework for the institute's whole life.",
+   "tier": 2,
+   "type": "institutional"
+  },
+  "e-a23109893a": {
+   "endpoints": [
+    {
+     "id": "baass",
+     "label": "Bigelow Aerospace Advanced Space Studies (BAASS), LLC"
+    },
+    {
+     "id": "l-las-vegas",
+     "label": "Las Vegas, Nevada"
+    }
+   ],
+   "id": "e-a23109893a",
+   "kind": "edge",
+   "label": "BAASS ran the AAWSAP field effort from Las Vegas",
+   "sources": [
+    {
+     "date": "2025-09-09",
+     "name": "George Knapp written testimony (PDF)",
+     "url": "https://oversight.house.gov/wp-content/uploads/2025/09/George-Knapp-Written-Testimony.pdf"
+    }
+   ],
+   "text": "Knapp testified that BAASS recruited about 50 cleared investigators, operated for 27 months and produced over 100 research papers and a 240,000-case data warehouse designed by Jacques Vallee.",
+   "tier": 2,
+   "type": "institutional"
+  },
+  "e-a529a230ea": {
+   "endpoints": [
+    {
+     "id": "harold-puthoff",
+     "label": "Harold E. Puthoff"
+    },
+    {
+     "id": "nids",
+     "label": "National Institute for Discovery Science (NIDS)"
+    }
+   ],
+   "id": "e-a529a230ea",
+   "kind": "edge",
+   "label": "Puthoff was among the consultants Bigelow hired at NIDS in 1995",
+   "sources": [
+    {
+     "date": "2021-05-10",
+     "name": "Gideon Lewis-Kraus, 'How the Pentagon Started Taking U.F.O.s Seriously', The New Yorker",
+     "url": "https://www.newyorker.com/magazine/2021/05/10/how-the-pentagon-started-taking-ufos-seriously"
+    },
+    {
+     "date": "1998-08-10",
+     "name": "Zack Van Eyck, 'Private UFO study takes a public turn', Deseret News",
+     "url": "https://www.deseret.com/1998/8/10/19395824/private-ufo-study-takes-a-public-turn"
+    }
+   ],
+   "text": "The New Yorker records that among the consultants Bigelow hired was Hal Puthoff, 'whose work in paranormal studies dated back decades, to Project Stargate.'",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-b77acf7fa3": {
+   "endpoints": [
+    {
+     "id": "james-lacatski",
+     "label": "James T. Lacatski"
+    },
+    {
+     "id": "skinwalkers-at-the-pentagon",
+     "label": "Skinwalkers at the Pentagon (Lacatski, Kelleher, Knapp, 2021)"
+    }
+   ],
+   "id": "e-b77acf7fa3",
+   "kind": "edge",
+   "label": "co-author; states he entered a craft of unknown origin",
+   "sources": [
+    {
+     "date": "2021-08-01",
+     "name": "KLAS Mystery Wire",
+     "url": "https://www.8newsnow.com/mystery-wire/new-book-uncovers-secrets-of-government-funded-ufo-investigation-program-exclusive-interview/"
+    }
+   ],
+   "text": "A former DIA program manager made this claim in a manuscript DoD cleared for publication.",
+   "tier": 2,
+   "type": "witness-chain"
+  },
+  "e-c1faaa03ae": {
+   "endpoints": [
+    {
+     "id": "robert-bigelow",
+     "label": "Robert T. Bigelow"
+    },
+    {
+     "id": "l-skinwalker",
+     "label": "Skinwalker Ranch, Uintah Basin, Utah"
+    }
+   ],
+   "id": "e-c1faaa03ae",
+   "kind": "edge",
+   "label": "purchased the ranch in 1996 and owned it throughout the DIA contract",
+   "sources": [
+    {
+     "date": "2024-03-08",
+     "name": "AARO Historical Record Report Volume 1",
+     "url": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF"
+    },
+    {
+     "date": "1996-06-30",
+     "name": "Zack Van Eyck, 'Frequent Fliers?', Deseret News",
+     "url": "https://www.deseret.com/1996/6/30/19251541/frequent-fliers"
+    },
+    {
+     "date": "1998-08-10",
+     "name": "Zack Van Eyck, 'Private UFO study takes a public turn', Deseret News",
+     "url": "https://www.deseret.com/1998/8/10/19395824/private-ufo-study-takes-a-public-turn"
+    },
+    {
+     "date": "2026-08-12",
+     "name": "Wikipedia - Skinwalker Ranch",
+     "url": "https://en.wikipedia.org/wiki/Skinwalker_Ranch"
+    }
+   ],
+   "text": "The Deseret News reported the sale in June 1996 and Bigelow confirmed in August 1998 that the Shermans had agreed as a condition of purchase to keep quiet about what they had witnessed.",
+   "tier": 1,
+   "type": "custody"
+  },
+  "e-cb6758f186": {
+   "endpoints": [
+    {
+     "id": "robert-bigelow",
+     "label": "Robert T. Bigelow"
+    },
+    {
+     "id": "kona-blue",
+     "label": "KONA BLUE"
+    }
+   ],
+   "id": "e-cb6758f186",
+   "kind": "edge",
+   "label": "Bigelow's organisation was the anticipated contract performer for the proposed program",
+   "sources": [
+    {
+     "date": "2024-03-08",
+     "name": "AARO, 'Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP), Volume I'",
+     "url": "https://documents2.theblackvault.com/documents/dod/AARO_Historical_Record_Report_Volume_1_2024.pdf"
+    }
+   ],
+   "text": "AARO notes the material 'was only assumed to exist by KONA BLUE advocates and its anticipated contract performers,' and that the proposed lines of effort mirrored the private sector organisation's AAWSAP work.",
+   "tier": 1,
+   "type": "funding"
+  },
+  "e-d10cde3e69": {
+   "endpoints": [
+    {
+     "id": "colm-kelleher",
+     "label": "Colm A. Kelleher"
+    },
+    {
+     "id": "skinwalkers-at-the-pentagon",
+     "label": "Skinwalkers at the Pentagon (Lacatski, Kelleher, Knapp, 2021)"
+    }
+   ],
+   "id": "e-d10cde3e69",
+   "kind": "edge",
+   "label": "co-author, contractor side of the account",
+   "sources": [
+    {
+     "date": "2021-08-01",
+     "name": "Goodreads — Skinwalkers at the Pentagon",
+     "url": "https://www.goodreads.com/book/show/59410596"
+    }
+   ],
+   "text": "Kelleher supplies the field-operations and human-effects record from the BAASS side.",
+   "tier": 1,
+   "type": "witness-chain"
+  },
+  "e-d891e06070": {
+   "endpoints": [
+    {
+     "id": "john-b-alexander",
+     "label": "John B. Alexander"
+    },
+    {
+     "id": "nids",
+     "label": "National Institute for Discovery Science (NIDS)"
+    }
+   ],
+   "id": "e-d891e06070",
+   "kind": "edge",
+   "label": "Alexander sat on the NIDS board from its founding",
+   "sources": [
+    {
+     "date": "1998-08-10",
+     "name": "Zack Van Eyck, 'Private UFO study takes a public turn', Deseret News",
+     "url": "https://www.deseret.com/1998/8/10/19395824/private-ufo-study-takes-a-public-turn"
+    },
+    {
+     "date": "2021-05-10",
+     "name": "Gideon Lewis-Kraus, 'How the Pentagon Started Taking U.F.O.s Seriously', The New Yorker",
+     "url": "https://www.newyorker.com/magazine/2021/05/10/how-the-pentagon-started-taking-ufos-seriously"
+    }
+   ],
+   "text": "Alexander brought Los Alamos and Army INSCOM programme experience and had previously convened a cleared interagency canvass for a compartmented UFO effort.",
+   "tier": 2,
+   "type": "institutional"
+  }
+ },
+ "claimed": [
+  {
+   "cite": [
+    "c-aef08c13d0",
+    "e-b77acf7fa3",
+    "c-588f2f44e6"
+   ],
+   "text": "Lacatski, Kelleher and Knapp describe AAWSAP's Utah field operations, physiological effects on personnel, and Lacatski's own account of entering a craft of unknown origin; the book describes federally funded collection of poltergeist-type activity, apparitions and animal effects at the ranch."
+  },
+  {
+   "cite": [
+    "c-e0c130514e",
+    "e-6fa87d8fea",
+    "e-36f3c13c6b",
+    "e-60716033da"
+   ],
+   "text": "By the co-authors' account, the programme began when Lacatski read Kelleher and Knapp's Hunt for the Skinwalker, visited the ranch, reported an experience there and Bigelow relayed it to Senator Reid. Knapp is credited with introducing Reid to Bigelow in the first place, so the reporter, the contractor's deputy and the programme manager are also the authors of the account."
+  },
+  {
+   "cite": [
+    "c-3f7a7dcc16",
+    "c-d85b2e59e5",
+    "e-a23109893a"
+   ],
+   "text": "The leaked BAASS Ten Month Report describes the property under 24-hour surveillance with rapid-response patrols. Knapp has said BAASS recruited about 50 cleared investigators, ran for 27 months and built a 240,000-case database designed by Vallee, most of whose papers DIA has never released."
+  },
+  {
+   "cite": [
+    "c-3da352ed70"
+   ],
+   "text": "Bigelow said in 1998 that anomalous aerial activity and unusual animal deaths had continued on and around the property, and that they would not be there just for the weather."
+  },
+  {
+   "cite": [
+    "c-f35d1610f3",
+    "e-88db3d4838",
+    "c-cd477a7d4a",
+    "c-0c220a0c85"
+   ],
+   "text": "Science reported that Travis Taylor was chief scientist of the UAP Task Force. Current ranch owner Brandon Fugal says Taylor was called to that post largely because of his work at the ranch, where he had arrived a sceptic, and that the ranch team did not know of the appointment until he was cleared to disclose it."
+  },
+  {
+   "cite": [
+    "c-5e831a1641"
+   ],
+   "text": "Fugal also says Sean Kirkpatrick sat through a confidential briefing on the ranch in April 2018 despite later saying he had never attended one, and that he published a photograph of Kirkpatrick there."
+  },
+  {
+   "cite": [
+    "c-ac3ea99c33"
+   ],
+   "text": "Author Peter Levenda says that when he asked Puthoff, Vallee and Mellon about the ranch's equipment and data, all three fell silent and Puthoff said the question needed a secure facility."
+  }
+ ],
+ "contested": [
+  {
+   "cite": [
+    "c-e5b822008a",
+    "e-83150b3c84"
+   ],
+   "text": "NIDS investigators, including John Alexander, examined close to 100 incidents at the ranch but acknowledged they could not obtain evidence fit for scientific publication."
+  },
+  {
+   "cite": [
+    "c-87c5bfdb27"
+   ],
+   "text": "Barry Greenwood published a critical review of Skinwalkers at the Pentagon in the Journal of Scientific Exploration in 2023."
+  },
+  {
+   "cite": [
+    "e-30863a5c46",
+    "c-242bc0520c"
+   ],
+   "text": "DIA cannot find the ranch report or the 2007 letter in a programme whose contract required monthly status reports, which the board reads as the field record having been kept by the contractor or never filed."
+  },
+  {
+   "cite": [
+    "c-769d408d78"
+   ],
+   "text": "The board infers an unreconciled inconsistency: DoD cleared a manuscript in which its former programme manager describes entering a craft of unknown origin, while maintaining there is no evidence of such craft."
+  },
+  {
+   "cite": [
+    "c-ffaffe998c",
+    "c-e0e6726d30",
+    "c-3e12cf9226"
+   ],
+   "text": "On the board's reading, federal money paid for continuous monitoring of a property owned by the prime contractor's principal, a contracting-integrity question no oversight body has examined; and the government did not build a capability but bought one, with a site chosen from a regional folk record rather than military sensor data."
+  },
+  {
+   "cite": [
+    "c-5fe0e2bd52",
+    "c-31357c5dc3"
+   ],
+   "text": "The records disagree on the size of the ranch, one giving a 480-acre parcel and another about 512 acres."
+  },
+  {
+   "cite": [
+    "e-88db3d4838",
+    "c-d5d9077035"
+   ],
+   "text": "No government organisation chart naming Taylor as the task force's chief scientist has been released, and the board notes that he applied near-identical sensing methods inside the task force and on a television production at the ranch with no public account of what passed between the two."
+  }
+ ],
  "essays": [],
  "focusEra": "1",
  "id": "skinwalker-nids",
  "kind": "institution",
- "lead": null,
- "members": [],
+ "lead": {
+  "cite": [
+   "c-abfc992dba",
+   "e-933c22c1b1",
+   "e-17a82ee80b",
+   "c-67f4fe3c36",
+   "c-94f3c4edf1"
+  ],
+  "text": "Skinwalker Ranch in Utah's Uintah Basin was bought in 1996 by Robert Bigelow, whose privately funded National Institute for Discovery Science ran an instrumented field station there, and it was later investigated under DIA's AAWSAP contract. The Pentagon's own 2024 history confirms that investigation of what it calls an alleged hotspot of UAP and paranormal activity, but DIA cannot locate the report it produced."
+ },
+ "members": [
+  {
+   "cls": "location",
+   "id": "l-skinwalker",
+   "label": "Skinwalker Ranch, Uintah Basin, Utah",
+   "role": "subject"
+  },
+  {
+   "cls": "program",
+   "id": "nids",
+   "label": "National Institute for Discovery Science (NIDS)",
+   "role": "institution"
+  },
+  {
+   "cls": "location",
+   "id": "l-utah",
+   "label": "Uintah Basin, Utah",
+   "role": "place"
+  },
+  {
+   "cls": "location",
+   "id": "l-las-vegas",
+   "label": "Las Vegas, Nevada",
+   "role": "place"
+  },
+  {
+   "cls": "document",
+   "id": "skinwalkers-at-the-pentagon",
+   "label": "Skinwalkers at the Pentagon (Lacatski, Kelleher, Knapp, 2021)",
+   "role": "document"
+  },
+  {
+   "cls": "document",
+   "id": "baass-ten-month-report",
+   "label": "BAASS Ten Month Report (2009)",
+   "role": "document"
+  },
+  {
+   "cls": "person",
+   "id": "robert-bigelow",
+   "label": "Robert T. Bigelow",
+   "role": "contractor"
+  },
+  {
+   "cls": "institution",
+   "id": "baass",
+   "label": "Bigelow Aerospace Advanced Space Studies (BAASS), LLC",
+   "role": "contractor"
+  },
+  {
+   "cls": "person",
+   "id": "colm-kelleher",
+   "label": "Colm A. Kelleher",
+   "role": "investigator"
+  },
+  {
+   "cls": "person",
+   "id": "john-b-alexander",
+   "label": "John B. Alexander",
+   "role": "investigator"
+  },
+  {
+   "cls": "person",
+   "id": "travis-taylor",
+   "label": "Travis S. Taylor",
+   "role": "investigator"
+  },
+  {
+   "cls": "person",
+   "id": "jacques-vallee",
+   "label": "Jacques F. Vallee",
+   "role": "researcher"
+  },
+  {
+   "cls": "person",
+   "id": "harold-puthoff",
+   "label": "Harold E. Puthoff",
+   "role": "researcher"
+  },
+  {
+   "cls": "person",
+   "id": "eric-davis",
+   "label": "Eric W. Davis",
+   "role": "researcher"
+  },
+  {
+   "cls": "person",
+   "id": "kit-green",
+   "label": "Christopher C. 'Kit' Green",
+   "role": "researcher"
+  },
+  {
+   "cls": "person",
+   "id": "george-knapp",
+   "label": "George Knapp",
+   "role": "journalist"
+  },
+  {
+   "cls": "person",
+   "id": "james-lacatski",
+   "label": "James T. Lacatski",
+   "role": "official"
+  },
+  {
+   "cls": "person",
+   "id": "sean-kirkpatrick",
+   "label": "Sean M. Kirkpatrick",
+   "role": "official"
+  },
+  {
+   "cls": "person",
+   "id": "harry-reid",
+   "label": "Harry M. Reid",
+   "role": "legislator"
+  },
+  {
+   "cls": "program",
+   "id": "aawsap",
+   "label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)",
+   "role": "programme"
+  },
+  {
+   "cls": "program",
+   "id": "kona-blue",
+   "label": "KONA BLUE",
+   "role": "programme"
+  },
+  {
+   "cls": "program",
+   "id": "uap-task-force",
+   "label": "Unidentified Aerial Phenomena Task Force (UAPTF)",
+   "role": "programme"
+  },
+  {
+   "cls": "institution",
+   "id": "dia",
+   "label": "Defense Intelligence Agency",
+   "role": "institution"
+  }
+ ],
  "notes": "The Skinwalker Ranch and NIDS strand of the AAWSAP community, with the paranormal domain node it absorbs.",
- "questions": [],
- "record": [],
- "related": [],
+ "questions": [
+  "Where are NIDS's raw instrument and necropsy data from 1996 to 2004, and has anyone outside the Bigelow organisations ever examined them?",
+  "Did BAASS transfer physical samples from the ranch to DIA, and under what receipt?",
+  "What happened to the Ten Month Report, the monthly reports and the ranch investigation report, and who holds them now?",
+  "Is there any government document naming Travis Taylor as chief scientist of the UAP Task Force, and did his employer hold UAP-related contracts at the time?",
+  "What did the letter Lacatski is said to have sent Bigelow in June 2007 actually say?"
+ ],
+ "record": [
+  {
+   "cite": [
+    "c-67f4fe3c36",
+    "c-f316a75ba6",
+    "c-b4b0bc1c79"
+   ],
+   "text": "AARO's 2024 history states that AAWSAP/AATIP investigated an alleged hotspot of UAP and paranormal activity at a Utah property then owned by the head of the contractor, and that the contractor team conducted UAP and paranormal research there under a special appropriation."
+  },
+  {
+   "cite": [
+    "c-5fe0e2bd52",
+    "e-c1faaa03ae"
+   ],
+   "text": "Bigelow bought the property in 1996 from Terry and Gwen Sherman, who as a condition of sale agreed to keep quiet about what they had witnessed; the sale was reported at the time and Bigelow confirmed the condition in 1998. He owned the ranch throughout the DIA contract."
+  },
+  {
+   "cite": [
+    "c-94f3c4edf1",
+    "c-6fc345598b",
+    "e-30863a5c46",
+    "c-81c9b24315"
+   ],
+   "text": "DIA could locate no records of the report titled Utah Ranch Investigation: August 2009-February 2010, nor of the June 2007 Lacatski letter to Bigelow described in the book; an appeal also returned nothing."
+  },
+  {
+   "cite": [
+    "c-1d3a2eb7cc"
+   ],
+   "text": "The manuscript of Skinwalkers at the Pentagon was cleared for publication through DoD prepublication review."
+  },
+  {
+   "cite": [
+    "c-9b1200d846"
+   ],
+   "text": "DIA's August 2008 AAWSAP solicitation, contract file, statement of work and deliverables have been released under FOIA."
+  },
+  {
+   "cite": [
+    "e-a529a230ea"
+   ],
+   "text": "The New Yorker records that among the consultants Bigelow hired at NIDS was Hal Puthoff, whose paranormal work dated back to Project Stargate."
+  },
+  {
+   "cite": [
+    "e-cb6758f186"
+   ],
+   "text": "AARO's history also names Bigelow's organisation as the anticipated contract performer for the proposed KONA BLUE programme, whose material it says was only assumed to exist."
+  }
+ ],
+ "related": [
+  "aawsap-baass",
+  "aatip-elizondo",
+  "dirds",
+  "kona-blue",
+  "biology-medical",
+  "civilian-groups",
+  "stargate",
+  "ttsa",
+  "uaptf-odni-2021",
+  "testimony-provenance"
+ ],
  "section": "official-study",
  "span": {
   "from": "1995",
   "to": "2026"
  },
- "status": "draft",
- "summary": [],
+ "status": "verified",
+ "summary": [
+  {
+   "cite": [
+    "c-abfc992dba",
+    "c-2603a6a718",
+    "c-f0a924457e",
+    "c-01d5a13970",
+    "e-581497930d"
+   ],
+   "text": "Bigelow founded NIDS in 1995 as a privately funded institute researching aerial phenomena, animal mutilations and related anomalies. It is reported to have run a public reporting line and to have sent veterinarians to perform necropsies on reported mutilations at no cost to ranchers, and Bigelow is reported to have shut it down in 2004 while keeping the ranch."
+  },
+  {
+   "cite": [
+    "e-a19002d61f",
+    "e-d891e06070",
+    "e-8adaa21ec8",
+    "e-a529a230ea",
+    "e-44a696c342",
+    "e-9478dc5bcb"
+   ],
+   "text": "NIDS is reported to have drawn on figures from government science: Colm Kelleher ran its field operations as deputy administrator, John Alexander and Jacques Vallee sat on its boards, Kit Green served on its science advisory board and Eric Davis worked there as a scientist; The New Yorker records that Hal Puthoff was hired as a consultant."
+  },
+  {
+   "cite": [
+    "e-5b25da505b",
+    "c-81c9b24315",
+    "e-3334b97519",
+    "e-17a82ee80b",
+    "c-67f4fe3c36"
+   ],
+   "text": "The ranch is the link from the private institute to the Pentagon: by the account of Lacatski and his co-authors a DIA official wrote to Bigelow about it in 2007, though DIA has found no record of the letter; the AAWSAP contract went to BAASS in 2008, reportedly with substantially the same people, and AARO confirms that AAWSAP funded investigation of the site."
+  },
+  {
+   "cite": [
+    "c-588f2f44e6",
+    "c-1d3a2eb7cc",
+    "e-d10cde3e69",
+    "e-80de8e635d"
+   ],
+   "text": "The insider account of that work, Skinwalkers at the Pentagon by Lacatski, Kelleher and Knapp, was published in 2021 after DoD prepublication review."
+  }
+ ],
  "title": "Skinwalker Ranch and NIDS"
 }

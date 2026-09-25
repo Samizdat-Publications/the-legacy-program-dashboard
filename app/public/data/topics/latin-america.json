@@ -11,25 +11,1102 @@
   "l-santiago"
  ],
  "appendixT": "latin-america",
- "cites": {},
- "claimed": [],
- "contested": [],
+ "cites": {
+  "c-0cbde60b27": {
+   "id": "c-0cbde60b27",
+   "kind": "claim",
+   "node": "cefaa",
+   "nodeLabel": "CEFAA / SEFAA - Chilean anomalous aerial phenomena office, Dirección General de Aeronáutica Civil",
+   "source": {
+    "domain": null,
+    "text": "SEFAA (DGAC Chile), 'Historia'",
+    "url": null
+   },
+   "text": "'motivaron al Director de la Dirección General de Aeronáutica Civil de la época, General de Aviación Gonzalo Miranda Aguirre, a crear el Comité de Estudios de Fenómenos Aéreos Anómalos, el 3 de octubre de 1997. Su primer Director fue el Coronel de Aviación Enzo Di Nocera García.'",
+   "tier": 1
+  },
+  "c-1c599db43a": {
+   "id": "c-1c599db43a",
+   "kind": "claim",
+   "node": "cefaa",
+   "nodeLabel": "CEFAA / SEFAA - Chilean anomalous aerial phenomena office, Dirección General de Aeronáutica Civil",
+   "source": {
+    "domain": "sefaa.dgac.gob.cl",
+    "text": "https://sefaa.dgac.gob.cl/quienes-somos/",
+    "url": "https://sefaa.dgac.gob.cl/quienes-somos/"
+   },
+   "text": "Remit: 'Apoyar la seguridad de las operaciones aéreas en el territorio nacional, y en el espacio aéreo de responsabilidad de la Dirección General de Aeronáutica Civil de Chile', an airspace that 'se extiende por 32 millones de kilómetros cuadrados, desde Arica, por el norte, entre los 120º y los 131º grados oeste, hasta el Polo Sur.'",
+   "tier": 1
+  },
+  "c-1dbd682eeb": {
+   "id": "c-1dbd682eeb",
+   "kind": "claim",
+   "node": "cefaa",
+   "nodeLabel": "CEFAA / SEFAA - Chilean anomalous aerial phenomena office, Dirección General de Aeronáutica Civil",
+   "source": {
+    "domain": "www.dgac.gob.cl",
+    "text": "https://www.dgac.gob.cl/cefaa-un-modelo-investigativo-de-fenomenos-aereos-anomalos/",
+    "url": "https://www.dgac.gob.cl/cefaa-un-modelo-investigativo-de-fenomenos-aereos-anomalos/"
+   },
+   "text": "Caseload as of September 2021: 'ha recepcionado un total de 1675 casos'; 'El año 2020 llegaron 362 casos, superando en casi un 300% las cifras que se venían registrando en años anteriores'; 300 further reports to September 2021; supported by 'una Base de Datos Digital creada el año 2018'.",
+   "tier": 1
+  },
+  "c-3403fd8114": {
+   "id": "c-3403fd8114",
+   "kind": "claim",
+   "node": "sergio-bravo-flores",
+   "nodeLabel": "Coronel de Aviación Sergio Bravo Flores",
+   "source": {
+    "domain": null,
+    "text": "SEFAA (DGAC Chile), 'Historia'",
+    "url": null
+   },
+   "text": "'con fecha 9 de julio de 1968 hizo llegar a 43 instalaciones aeronáuticas la primera circular oficial solicitando reportes ... Parte de ellos fueron enviados a la Universidad de Colorado, en Estados Unidos, en donde la una comisión de académicos (bautizada posteriormente como Comisión Condon) realizaba un detallado estudio.'",
+   "tier": 1
+  },
+  "c-3977126e8c": {
+   "id": "c-3977126e8c",
+   "kind": "claim",
+   "node": "cefaa",
+   "nodeLabel": "CEFAA / SEFAA - Chilean anomalous aerial phenomena office, Dirección General de Aeronáutica Civil",
+   "source": {
+    "domain": null,
+    "text": "SEFAA official site, 12 August 2026",
+    "url": null
+   },
+   "text": "The office publishes resolved-case bulletins monthly; as at 12 August 2026 the most recent were 'Casos Julio 2026' (3 August 2026), 'Casos Junio 2026' (6 July 2026) and 'Casos Mayo 2026' (4 June 2026), with resolved-case archives by year back to 2018.",
+   "tier": 1
+  },
+  "c-39c96a3937": {
+   "id": "c-39c96a3937",
+   "kind": "claim",
+   "node": "ev-argentina-bariloche-1995",
+   "nodeLabel": "Aerolíneas Argentinas flight AR 674, San Carlos de Bariloche, 31 July 1995",
+   "source": {
+    "domain": null,
+    "text": "Buenos Aires Times, 11 May 2026, summarising the released Pentagon file",
+    "url": null
+   },
+   "text": "Detailed narrative of the 31 July 1995 AR 674 encounter as recorded in the released US file, including the double airport power failure and the go-around.",
+   "tier": 2
+  },
+  "c-3de83b3b89": {
+   "id": "c-3de83b3b89",
+   "kind": "claim",
+   "node": "ev-chile-navy-flir-2014",
+   "nodeLabel": "Chilean Navy helicopter FLIR case, November 2014 (released January 2017)",
+   "source": {
+    "domain": null,
+    "text": "New York Post, 'Chilean navy admits it can't explain UFO', 9 January 2017",
+    "url": null
+   },
+   "text": "'A military helicopter captured the incredible footage in November 2014 during a routine coastal patrol ... The pilots tracked the craft from around 40 miles away and tried several times to communicate with it. After receiving no response, they reported it to a pair of nearby radar stations. But shockingly, neither of them were able to see it on their screens - despite being able to detect the navy choppers. Air traffic controllers also confirmed that no aircraft had been authorized to fly in the area.'",
+   "tier": 2
+  },
+  "c-3f546b2497": {
+   "id": "c-3f546b2497",
+   "kind": "claim",
+   "node": "cefaa",
+   "nodeLabel": "CEFAA / SEFAA - Chilean anomalous aerial phenomena office, Dirección General de Aeronáutica Civil",
+   "source": {
+    "domain": "www.huffpost.com",
+    "text": "Huffington Post, 'Groundbreaking UFO Video Just Released By Chilean Navy', 4 January 2017 - https://www.huffpost.com/entry/groundbreaking-ufo-video-just-released-from-chilean_b_586d37bce4b014e7c72ee56b ; Metabunk, 'Explained: Chilean Navy \"UFO\" video - Aerodynamic Contrails, Flight IB6830' - https://www.metabunk.org/threads/explained-chilean-navy-ufo-video-aerodynamic-contrails-flight-ib6830.8306/",
+    "url": "https://www.huffpost.com/entry/groundbreaking-ufo-video-just-released-from-chilean_b_586d37bce4b014e7c72ee56b"
+   },
+   "text": "Photo and video analysts in France, including François Louange, were brought into the Chilean Navy investigation through GEIPAN; GEIPAN's analysts proposed a medium-haul aircraft venting cabin wastewater as the explanation, which CEFAA rejected. Independent analysts subsequently matched the footage to scheduled flights LA330 and IB6830.",
+   "tier": 2
+  },
+  "c-47c66f16a5": {
+   "id": "c-47c66f16a5",
+   "kind": "claim",
+   "node": "sergio-bravo-flores",
+   "nodeLabel": "Coronel de Aviación Sergio Bravo Flores",
+   "source": {
+    "domain": null,
+    "text": "SEFAA (DGAC Chile), 'Historia'",
+    "url": null
+   },
+   "text": "'Quien inició la recopilación de los primeros reportes fue el entonces Director de esa Oficina ... Coronel de Aviación Sergio Bravo Flores, quien lideró la Comisión Chilena para Estudios de Fenómenos Espaciales No Identificados, que nació con el apoyo de la Sociedad Científica de Chile.'",
+   "tier": 1
+  },
+  "c-4a6ceea41b": {
+   "id": "c-4a6ceea41b",
+   "kind": "claim",
+   "node": "peru-uap-office",
+   "nodeLabel": "Peruvian Air Force anomalous aerial phenomena office (OIFAA / DIFAA)",
+   "source": {
+    "domain": null,
+    "text": "Agencia Peruana de Noticias Andina (Editora Perú), 18 October 2013",
+    "url": null
+   },
+   "text": "The office is named Departamento de Investigación de Fenómenos Aéreos Anómalos (DIFAA) and sits under the Dirección de Intereses Aéreos Espaciales (DINAE) of the Fuerza Aérea del Perú. Its reopening and a public reporting channel were announced on 18 October 2013 by the head of DINAE, Coronel FAP Julio Vucetich Abanto, who said the service was acting on an increase in sightings being reported to the media: 'Nos interesa que la población que observa fenómenos aparentemente no convencionales, que le causan extrañeza o preocupación, conozca que existe una institución que hará un adecuado estudio e investigación de su información para darles una respuesta. Esto no ocurría antes.'",
+   "tier": 1
+  },
+  "c-568e6af2e4": {
+   "id": "c-568e6af2e4",
+   "kind": "claim",
+   "node": "dgac-chile",
+   "nodeLabel": "DGAC Chile - Dirección General de Aeronáutica Civil",
+   "source": {
+    "domain": null,
+    "text": "SEFAA - Historia, DGAC Chile",
+    "url": null
+   },
+   "text": "SEFAA investigates reports using declared scientific method with emphasis on audiovisual evidence, accepts public case submissions through an official reporting system, and maintains a public database of resolved cases organised by year.",
+   "tier": 1
+  },
+  "c-59c7c36044": {
+   "id": "c-59c7c36044",
+   "kind": "claim",
+   "node": "cefaa",
+   "nodeLabel": "CEFAA / SEFAA - Chilean anomalous aerial phenomena office, Dirección General de Aeronáutica Civil",
+   "source": {
+    "domain": "www.dgac.gob.cl",
+    "text": "https://www.dgac.gob.cl/cefaa-un-modelo-investigativo-de-fenomenos-aereos-anomalos/",
+    "url": "https://www.dgac.gob.cl/cefaa-un-modelo-investigativo-de-fenomenos-aereos-anomalos/"
+   },
+   "text": "The creating resolution was 'firmada por el Director General de Aeronáutica Civil, General de Aviación, Gonzalo Miranda', and sited the committee at the Escuela Técnica Aeronáutica in Quinta Normal, Santiago; on 14 October 1997 ETA director Enzo Di Nocera 'estableció la organización y las bases de su funcionamiento' and named its members.",
+   "tier": 1
+  },
+  "c-6910666208": {
+   "id": "c-6910666208",
+   "kind": "claim",
+   "node": "cefaa",
+   "nodeLabel": "CEFAA / SEFAA - Chilean anomalous aerial phenomena office, Dirección General de Aeronáutica Civil",
+   "source": {
+    "domain": null,
+    "text": "SEFAA (DGAC Chile), 'Historia'",
+    "url": null
+   },
+   "text": "'El 18 de octubre de 2021, por Resolución Exenta N° 04 / 3 / 0113 / 1385 / el CEFAA sufre un cambio en el organigrama institucional y pasó a depender del Subdepartamento Comunicacional, con el nombre de Sección de Estudios de Fenómenos Aéreos Anómalos (SEFAA).'",
+   "tier": 1
+  },
+  "c-6dc1db8977": {
+   "id": "c-6dc1db8977",
+   "kind": "claim",
+   "node": "ev-chile-navy-flir-2014",
+   "nodeLabel": "Chilean Navy helicopter FLIR case, November 2014 (released January 2017)",
+   "source": {
+    "domain": null,
+    "text": "New York Post, 9 January 2017",
+    "url": null
+   },
+   "text": "'Chilean government agency the CEFAA, which investigates UFO sightings, has been probing the incident for two years.'",
+   "tier": 2
+  },
+  "c-7362e0aa29": {
+   "id": "c-7362e0aa29",
+   "kind": "claim",
+   "node": "ev-argentina-bariloche-1995",
+   "nodeLabel": "Aerolíneas Argentinas flight AR 674, San Carlos de Bariloche, 31 July 1995",
+   "source": {
+    "domain": null,
+    "text": "Buenos Aires Times / AFP, 11 May 2026",
+    "url": null
+   },
+   "text": "Defense Secretary Pete Hegseth on the release: 'These files, hidden behind classifications, have long fueled justified speculation - and it's time the American people see it for themselves.'",
+   "tier": 2
+  },
+  "c-876ebc1153": {
+   "id": "c-876ebc1153",
+   "kind": "claim",
+   "node": "dgac-chile",
+   "nodeLabel": "DGAC Chile - Dirección General de Aeronáutica Civil",
+   "source": {
+    "domain": null,
+    "text": "Inference",
+    "url": null
+   },
+   "text": "Chile's twenty-nine-year run of an open civil-aviation UAP office, publishing analyses and releasing military-origin footage, shifts the burden of proof onto the party claiming that public handling of UAP data would cause unacceptable harm. Reasoning: the predicted harms did not materialise in a state with comparable air-sovereignty concerns.",
+   "tier": 3
+  },
+  "c-878f5e48b1": {
+   "id": "c-878f5e48b1",
+   "kind": "claim",
+   "node": "cefaa",
+   "nodeLabel": "CEFAA / SEFAA - Chilean anomalous aerial phenomena office, Dirección General de Aeronáutica Civil",
+   "source": {
+    "domain": null,
+    "text": "Office of the Chief Science Advisor of Canada, Sky Canada Project report, June 2025",
+    "url": null
+   },
+   "text": "The Canadian government identifies SEFAA as one of three international models: 'In Chile, the SEFAA ... serves as the official body responsible for collecting, analyzing and scientifically studying UAPs. It operates within the General Directorate of Civil Aeronautics.'",
+   "tier": 1
+  },
+  "c-8a41259222": {
+   "id": "c-8a41259222",
+   "kind": "claim",
+   "node": "cefaa",
+   "nodeLabel": "CEFAA / SEFAA - Chilean anomalous aerial phenomena office, Dirección General de Aeronáutica Civil",
+   "source": {
+    "domain": "www.dgac.gob.cl",
+    "text": "https://www.dgac.gob.cl/cefaa-un-modelo-investigativo-de-fenomenos-aereos-anomalos/",
+    "url": "https://www.dgac.gob.cl/cefaa-un-modelo-investigativo-de-fenomenos-aereos-anomalos/"
+   },
+   "text": "On its 24th anniversary the DGAC described CEFAA as 'uno de los organismos públicos más antiguos del continente' and stated that, 'Comparable a un organismo gubernamental europeo -guardando las proporciones en cuanto a recursos humanos y presupuestarios- el CEFAA lidera un modelo de transparencia respecto a sus investigaciones.'",
+   "tier": 1
+  },
+  "c-991f768221": {
+   "id": "c-991f768221",
+   "kind": "claim",
+   "node": "ev-chile-navy-flir-2014",
+   "nodeLabel": "Chilean Navy helicopter FLIR case, November 2014 (released January 2017)",
+   "source": {
+    "domain": null,
+    "text": "Inference from the January 2017 Chilean release and the DoD statement of 27 April 2020",
+    "url": null
+   },
+   "text": "The Chilean release of a state sensor product with no explanation attached, in January 2017, precedes the US Department of Defense's April 2020 authorisation of the three Navy videos by more than three years, and precedes AARO's establishment by five. Reasoning: chronology of the two releases as documented.",
+   "tier": 3
+  },
+  "c-9c292e789a": {
+   "id": "c-9c292e789a",
+   "kind": "claim",
+   "node": "cefaa",
+   "nodeLabel": "CEFAA / SEFAA - Chilean anomalous aerial phenomena office, Dirección General de Aeronáutica Civil",
+   "source": {
+    "domain": "www.dgac.gob.cl",
+    "text": "https://www.dgac.gob.cl/cefaa-un-modelo-investigativo-de-fenomenos-aereos-anomalos/ and https://sefaa.dgac.gob.cl/quienes-somos/",
+    "url": "https://www.dgac.gob.cl/cefaa-un-modelo-investigativo-de-fenomenos-aereos-anomalos/"
+   },
+   "text": "Publication practice: 'Desde el año 2020, se publican en el sitio www.cefaa.gob.cl los casos investigados y resueltos. Esos informes están a disposición del público trimestralmente y entregan una completa descripción de los fenómenos reportados y la conclusión a la que se llegó.' Resolved-case indexes remain published by year from 2018 through 2026.",
+   "tier": 1
+  },
+  "c-9fe6a3e428": {
+   "id": "c-9fe6a3e428",
+   "kind": "claim",
+   "node": "peru-uap-office",
+   "nodeLabel": "Peruvian Air Force anomalous aerial phenomena office (OIFAA / DIFAA)",
+   "source": {
+    "domain": null,
+    "text": "Negative finding of this pass",
+    "url": null
+   },
+   "text": "Not established in this pass: DIFAA's founding legal instrument, its current name and reporting line, its case output, whether it publishes findings, and whether it has ever had contact with any United States body. No US-Peru link was found and none is asserted.",
+   "tier": 3
+  },
+  "c-a35d10f191": {
+   "id": "c-a35d10f191",
+   "kind": "claim",
+   "node": "cefaa",
+   "nodeLabel": "CEFAA / SEFAA - Chilean anomalous aerial phenomena office, Dirección General de Aeronáutica Civil",
+   "source": {
+    "domain": "sefaa.dgac.gob.cl",
+    "text": "https://sefaa.dgac.gob.cl/quienes-somos/",
+    "url": "https://sefaa.dgac.gob.cl/quienes-somos/"
+   },
+   "text": "'El 3 de octubre de 1997 se creó el Comité de Estudios de Fenómenos Aéreos Anómalos (CEFAA), a través de la Resolución Exenta N° 01599. Sin embargo, el 18 de octubre de 2021 la mencionada Resolución fue derogada, y por Resolución Exenta N° 04 / 3 / 0113 / 1385 el nombre de la oficina fue cambiado a Sección de Estudios de Fenómenos Aéreos Anómalos (SEFAA), pasando a depender del Subdepartamento Comunicacional de la DGAC.'",
+   "tier": 1
+  },
+  "c-a707870088": {
+   "id": "c-a707870088",
+   "kind": "claim",
+   "node": "ricardo-bermudez",
+   "nodeLabel": "General de Brigada Aérea (A) Ricardo Bermúdez Sanhueza",
+   "source": {
+    "domain": null,
+    "text": "SEFAA (Dirección General de Aeronáutica Civil de Chile), 'Historia', official site",
+    "url": null
+   },
+   "text": "'El año 1997 asume como Director de la Escuela Técnica Aeronáutica, el General de Brigada Aérea (A), Ricardo Bermúdez Sanhueza, quien a su vez asumió la Dirección del Comité de Estudios de Fenómenos Aéreos Anómalos y se desempeñó en él hasta el año 2016.'",
+   "tier": 1
+  },
+  "c-a74401b45b": {
+   "id": "c-a74401b45b",
+   "kind": "claim",
+   "node": "cefaa",
+   "nodeLabel": "CEFAA / SEFAA - Chilean anomalous aerial phenomena office, Dirección General de Aeronáutica Civil",
+   "source": {
+    "domain": "www.dgac.gob.cl",
+    "text": "https://www.dgac.gob.cl/cefaa-un-modelo-investigativo-de-fenomenos-aereos-anomalos/",
+    "url": "https://www.dgac.gob.cl/cefaa-un-modelo-investigativo-de-fenomenos-aereos-anomalos/"
+   },
+   "text": "Directorship chronology per DGAC: Di Nocera to 1998; Ricardo Bermúdez 1998 to February 2002; Hernán Henríquez Cobaise from March 2002 to 31 March 2008, during which period 'el CEFAA entró en una etapa de latencia'; reactivated by Resolución N° 02/0/01937 of 15 December 2009 under Director General José Huepe Pérez, operating from 1 January 2010 under the Secretaría General; Bermúdez again from 2009 to 2016; then Hugo Camus Palacios.",
+   "tier": 1
+  },
+  "c-a965d35f8e": {
+   "id": "c-a965d35f8e",
+   "kind": "claim",
+   "node": "cefaa",
+   "nodeLabel": "CEFAA / SEFAA - Chilean anomalous aerial phenomena office, Dirección General de Aeronáutica Civil",
+   "source": {
+    "domain": "ised-isde.canada.ca",
+    "text": "https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada",
+    "url": "https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada"
+   },
+   "text": "Canada's Office of the Chief Science Advisor: 'In Chile, the SEFAA ... serves as the official body responsible for collecting, analyzing and scientifically studying UAPs. It operates within the General Directorate of Civil Aeronautics.' It adds that 'SEFAA publishes monthly reports detailing the cases it has received, investigated, and closed'.",
+   "tier": 1
+  },
+  "c-b04df90b8a": {
+   "id": "c-b04df90b8a",
+   "kind": "claim",
+   "node": "ev-argentina-bariloche-1995",
+   "nodeLabel": "Aerolíneas Argentinas flight AR 674, San Carlos de Bariloche, 31 July 1995",
+   "source": {
+    "domain": null,
+    "text": "Buenos Aires Times, 11 May 2026 (release date Friday 8 May 2026)",
+    "url": null
+   },
+   "text": "'More than 160 files were released last Friday on the website of the US Department of Defense, which officially refers to UFOs as Unidentified Anomalous Phenomena.'",
+   "tier": 2
+  },
+  "c-c1687693b3": {
+   "id": "c-c1687693b3",
+   "kind": "claim",
+   "node": "cefaa",
+   "nodeLabel": "CEFAA / SEFAA - Chilean anomalous aerial phenomena office, Dirección General de Aeronáutica Civil",
+   "source": {
+    "domain": "www.dgac.gob.cl",
+    "text": "https://www.dgac.gob.cl/cefaa-celebra-21-anos-de-vida/",
+    "url": "https://www.dgac.gob.cl/cefaa-celebra-21-anos-de-vida/"
+   },
+   "text": "As of October 2018 CEFAA comprised 'su Director, Hugo Camus Palacios y dos investigadores', supported by an external research committee of astronomers, geographers, physicists, psychologists, a nuclear chemist, aerospace medicine professionals, air traffic controllers, a meteorologist, aeronautical investigators, inspector pilots, aeronautical engineers, image analysts and armed forces representatives.",
+   "tier": 1
+  },
+  "c-d21852811d": {
+   "id": "c-d21852811d",
+   "kind": "claim",
+   "node": "cefaa",
+   "nodeLabel": "CEFAA / SEFAA - Chilean anomalous aerial phenomena office, Dirección General de Aeronáutica Civil",
+   "source": {
+    "domain": "www.newsweek.com",
+    "text": "Newsweek, 'Chilean Navy Can't Identify Mysterious Aircraft Caught on Video' - https://www.newsweek.com/chilean-navy-id-mysterious-aircraft-caught-video-539786 ; Huffington Post, 'Groundbreaking UFO Video Just Released By Chilean Navy', 4 January 2017 - https://www.huffpost.com/entry/groundbreaking-ufo-video-just-released-from-chilean_b_586d37bce4b014e7c72ee56b",
+    "url": "https://www.newsweek.com/chilean-navy-id-mysterious-aircraft-caught-video-539786"
+   },
+   "text": "The Chilean Navy case: an Airbus Cougar AS-532 helicopter with an infrared camera recorded roughly ten minutes of footage of an unidentified object off the coast west of Santiago on 11 November 2014; CEFAA released the footage with an official report in January 2017. Director Ricardo Bermúdez summarised the finding as 'We do not know what it was, but we do know what it was not.'",
+   "tier": 2
+  },
+  "c-d2894f633a": {
+   "id": "c-d2894f633a",
+   "kind": "claim",
+   "node": "peru-uap-office",
+   "nodeLabel": "Peruvian Air Force anomalous aerial phenomena office (OIFAA / DIFAA)",
+   "source": {
+    "domain": null,
+    "text": "Agencia Peruana de Noticias Andina (Editora Perú), 18 October 2013",
+    "url": null
+   },
+   "text": "DIFAA had been closed for five years before the 2013 reopening, 'a causa de problemas administrativos'. The reopening was announced at an FAP-organised 'Encuentro sobre Fenómenos Aéreos Anómalos' addressed to the Nazca Lines question, at which the invited archaeologist Manuel Aguirre Morales said there is no evidence linking the Nazca lines to UFOs or extraterrestrial presence.",
+   "tier": 1
+  },
+  "c-d848e79053": {
+   "id": "c-d848e79053",
+   "kind": "claim",
+   "node": "cefaa",
+   "nodeLabel": "CEFAA / SEFAA - Chilean anomalous aerial phenomena office, Dirección General de Aeronáutica Civil",
+   "source": {
+    "domain": "sefaa.dgac.gob.cl",
+    "text": "https://sefaa.dgac.gob.cl/historia/",
+    "url": "https://sefaa.dgac.gob.cl/historia/"
+   },
+   "text": "The creation was prompted by 'una serie de avistamientos reportados en la ciudad de Arica en los últimos días de marzo y primeros de abril de 1997' together with 'el interés manifestado por el ex Comandante en Jefe de la Fuerza Aérea de Chile, General del Aire Ramón Vega Hidalgo'.",
+   "tier": 1
+  },
+  "c-e5a4c4c98f": {
+   "id": "c-e5a4c4c98f",
+   "kind": "claim",
+   "node": "cefaa",
+   "nodeLabel": "CEFAA / SEFAA - Chilean anomalous aerial phenomena office, Dirección General de Aeronáutica Civil",
+   "source": {
+    "domain": null,
+    "text": "SEFAA official site, homepage, 2026",
+    "url": null
+   },
+   "text": "'Somos la Sección de Estudios de Fenómenos Aéreos Anómalos (SEFAA, antiguamente CEFAA), un organismo dependiente de la Dirección General de Aeronáutica Civil (DGAC) de Chile ... Nuestra misión es clara: apoyar la seguridad de las operaciones aéreas de nuestro país.'",
+   "tier": 1
+  },
+  "c-e8123b0a47": {
+   "id": "c-e8123b0a47",
+   "kind": "claim",
+   "node": "peru-uap-office",
+   "nodeLabel": "Peruvian Air Force anomalous aerial phenomena office (OIFAA / DIFAA)",
+   "source": {
+    "domain": null,
+    "text": "Agencia Peruana de Noticias Andina (Editora Perú), 18 October 2013",
+    "url": null
+   },
+   "text": "Andina framed the reopening regionally: 'Con la reapertura de la DIFAA, el Perú se coloca a la paridad de países de la región como Chile, Argentina, Uruguay, Brasil y Ecuador.'",
+   "tier": 1
+  },
+  "c-ec2871c5e8": {
+   "id": "c-ec2871c5e8",
+   "kind": "claim",
+   "node": "ev-argentina-bariloche-1995",
+   "nodeLabel": "Aerolíneas Argentinas flight AR 674, San Carlos de Bariloche, 31 July 1995",
+   "source": {
+    "domain": null,
+    "text": "James Grainger, Buenos Aires Times, 11 May 2026",
+    "url": null
+   },
+   "text": "'The case appears in a section of the released files examining investigations conducted outside the United States and references a report produced by COMETA, a French study group linked to defence and aeronautics specialists.'",
+   "tier": 2
+  },
+  "e-06a6b43e7f": {
+   "endpoints": [
+    {
+     "id": "ocsa-canada",
+     "label": "Office of the Chief Science Advisor of Canada"
+    },
+    {
+     "id": "dgac-chile",
+     "label": "DGAC Chile - Dirección General de Aeronáutica Civil"
+    }
+   ],
+   "id": "e-06a6b43e7f",
+   "kind": "edge",
+   "label": "Chile's civil-aviation UAP unit used as a model and proposed partner",
+   "sources": [
+    {
+     "date": "2025-06-01",
+     "name": "Report of the Sky Canada Project, Office of the Chief Science Advisor of Canada, June 2025",
+     "url": "https://science.gc.ca/site/science/sites/default/files/documents/sky-canada-report.pdf"
+    },
+    {
+     "date": null,
+     "name": "Office of the Chief Science Advisor of Canada, Sky Canada Project report, 2025, sections 'Chile' and Recommendation 13 -- https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada",
+     "url": ""
+    },
+    {
+     "date": null,
+     "name": "SEFAA / DGAC Chile -- https://sefaa.dgac.gob.cl/",
+     "url": ""
+    }
+   ],
+   "text": "The Sky Canada report singles out Chile alongside the U.S. and France as a coordinated, transparent model, describing SEFAA as the official Chilean body for collecting and scientifically studying UAP that 'operates within the General Directorate of Civil Aeronautics (DGAC).' Recommendation 13 tells the proposed Canadian lead organization to establish partnerships with SEFAA (Chile) among others.",
+   "tier": 1,
+   "type": "research"
+  },
+  "e-16b621f8a6": {
+   "endpoints": [
+    {
+     "id": "peru-uap-office",
+     "label": "Peruvian Air Force anomalous aerial phenomena office (OIFAA / DIFAA)"
+    },
+    {
+     "id": "fab",
+     "label": "Força Aérea Brasileira / Ministério da Aeronáutica"
+    }
+   ],
+   "id": "e-16b621f8a6",
+   "kind": "edge",
+   "label": "COMPARISON: Peru's own state news agency measured DIFAA's reopening against Brazil",
+   "sources": [
+    {
+     "date": null,
+     "name": "Agencia Peruana de Noticias Andina (Editora Perú), 'Fenómenos aéreos anómalos en Perú podrán reportarse a la FAP', 18 October 2013 — https://andina.pe/agencia/noticia-fenomenos-aereos-anomalos-peru-podran-reportarse-a-fap-478982.aspx",
+     "url": ""
+    },
+    {
+     "date": "1986-06-02",
+     "name": "Relatório de Ocorrências (Arquivo Nacional)",
+     "url": "http://imagem.sian.an.gov.br/acervo/derivadas/BR_DFANBSB_ARX/0/0/0249/BR_DFANBSB_ARX_0_0_0249_d0001de0001.pdf"
+    }
+   ],
+   "text": "COMPARISON EDGE — no institutional contact between the FAP and the FAB is claimed. Peru's state news agency Andina, reporting the reopening on 18 October 2013, closes: 'Con la reapertura de la DIFAA, el Perú se coloca a la paridad de países de la región como Chile, Argentina, Uruguay, Brasil y Ecuador.' Brazil is named by a Peruvian government outlet as the regional benchmark. The same report establishes the office's identity that the peru-uap-office node lacked: the Departamento de Investigación de Fenómenos Aéreos Anómalos (DIFAA), sitting under the Dirección de Intereses Aéreos Espaciales (DINAE), whose head Coronel FAP Julio Vucetich Abanto announced the public reporting channel, the office having been closed for five years 'a causa de problemas administrativos'. The reopening was announced at an FAP-hosted 'Encuentro sobre Fenómenos Aéreos Anómalos' addressing the Nazca Lines question.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-2373a72f32": {
+   "endpoints": [
+    {
+     "id": "geipan",
+     "label": "GEIPAN - Groupe d'Études et d'Informations sur les Phénomènes Aérospatiaux Non identifiés"
+    },
+    {
+     "id": "cefaa",
+     "label": "CEFAA / SEFAA - Chilean anomalous aerial phenomena office, Dirección General de Aeronáutica Civil"
+    }
+   ],
+   "id": "e-2373a72f32",
+   "kind": "edge",
+   "label": "French analysts worked the Chilean Navy FLIR case",
+   "sources": [
+    {
+     "date": null,
+     "name": "https://www.huffpost.com/entry/groundbreaking-ufo-video-just-released-from-chilean_b_586d37bce4b014e7c72ee56b",
+     "url": "https://www.huffpost.com/entry/groundbreaking-ufo-video-just-released-from-chilean_b_586d37bce4b014e7c72ee56b"
+    },
+    {
+     "date": null,
+     "name": "https://www.newsweek.com/chilean-navy-id-mysterious-aircraft-caught-video-539786",
+     "url": "https://www.newsweek.com/chilean-navy-id-mysterious-aircraft-caught-video-539786"
+    }
+   ],
+   "text": "Photo and video analysts in France, including François Louange, were brought into CEFAA's investigation of the 11 November 2014 Chilean Navy infrared footage through GEIPAN. The two offices reached different conclusions - GEIPAN's analysts proposed a medium-haul aircraft venting, CEFAA rejected it - and both published. It is the clearest documented case of state UAP offices on two continents working the same tape.",
+   "tier": 2,
+   "type": "investigative"
+  },
+  "e-2802d88f97": {
+   "endpoints": [
+    {
+     "id": "cefaa",
+     "label": "CEFAA / SEFAA - Chilean anomalous aerial phenomena office, Dirección General de Aeronáutica Civil"
+    },
+    {
+     "id": "ev-chile-navy-flir-2014",
+     "label": "Chilean Navy helicopter FLIR case, November 2014 (released January 2017)"
+    }
+   ],
+   "id": "e-2802d88f97",
+   "kind": "edge",
+   "label": "analysed the Navy FLIR case for two years then released it",
+   "sources": [
+    {
+     "date": "2017-01-09",
+     "name": "New York Post",
+     "url": "https://nypost.com/2017/01/09/chilean-navy-admits-it-cant-explain-ufo/"
+    }
+   ],
+   "text": "The Chilean office published the raw sensor product without an explanation, three years before the US DoD authorised release of the Navy videos.",
+   "tier": 2,
+   "type": "investigative"
+  },
+  "e-33d5dfd309": {
+   "endpoints": [
+    {
+     "id": "ev-argentina-bariloche-1995",
+     "label": "Aerolíneas Argentinas flight AR 674, San Carlos de Bariloche, 31 July 1995"
+    },
+    {
+     "id": "doc-cometa-report",
+     "label": "Les OVNI et la Défense: à quoi doit-on se préparer? (COMETA report, July 1999)"
+    }
+   ],
+   "id": "e-33d5dfd309",
+   "kind": "edge",
+   "label": "the US 2026 release cites COMETA as a source on the Argentine case",
+   "sources": [
+    {
+     "date": "2026-05-11",
+     "name": "Buenos Aires Times",
+     "url": "https://www.batimes.com.ar/news/argentina/bariloche-sighting-cited-in-newly-released-pentagon-files-on-ufos.phtml"
+    }
+   ],
+   "text": "The Buenos Aires Times reports that the released file sits in a section on investigations conducted outside the United States and 'references a report produced by COMETA'.",
+   "tier": 2,
+   "type": "research"
+  },
+  "e-3918674d0d": {
+   "endpoints": [
+    {
+     "id": "japan-uap-2026",
+     "label": "Japan's review of the 2026 US UAP file releases"
+    },
+    {
+     "id": "ev-argentina-bariloche-1995",
+     "label": "Aerolíneas Argentinas flight AR 674, San Carlos de Bariloche, 31 July 1995"
+    }
+   ],
+   "id": "e-3918674d0d",
+   "kind": "edge",
+   "label": "both are allied-state responses to the same May 2026 US release",
+   "sources": [
+    {
+     "date": "2026-05-11",
+     "name": "Buenos Aires Times",
+     "url": "https://www.batimes.com.ar/news/argentina/bariloche-sighting-cited-in-newly-released-pentagon-files-on-ufos.phtml"
+    },
+    {
+     "date": "2026-05-11",
+     "name": "The Japan Times",
+     "url": "https://www.japantimes.co.jp/news/2026/05/11/japan/pentagon-ufo-files-japan/"
+    }
+   ],
+   "text": "The 8 May 2026 US release of more than 160 files produced within days an Argentine national story and a Japanese government review.",
+   "tier": 2,
+   "type": "temporal"
+  },
+  "e-5207280985": {
+   "endpoints": [
+    {
+     "id": "peru-uap-office",
+     "label": "Peruvian Air Force anomalous aerial phenomena office (OIFAA / DIFAA)"
+    },
+    {
+     "id": "cefaa",
+     "label": "CEFAA / SEFAA - Chilean anomalous aerial phenomena office, Dirección General de Aeronáutica Civil"
+    }
+   ],
+   "id": "e-5207280985",
+   "kind": "edge",
+   "label": "COMPARISON: a military-hosted office against a civil-aviation-hosted one, in the same region",
+   "sources": [
+    {
+     "date": null,
+     "name": "Agencia Peruana de Noticias Andina (Editora Perú), 'Fenómenos aéreos anómalos en Perú podrán reportarse a la FAP', 18 October 2013 — https://andina.pe/agencia/noticia-fenomenos-aereos-anomalos-peru-podran-reportarse-a-fap-478982.aspx",
+     "url": ""
+    },
+    {
+     "date": "2013-10-18",
+     "name": "Andina (Agencia Peruana de Noticias), 'Fenomenos aereos anomalos en Peru podran reportarse a la FAP', 18 October 2013",
+     "url": "https://andina.pe/agencia/noticia-fenomenos-aereos-anomalos-peru-podran-reportarse-a-fap-478982.aspx"
+    }
+   ],
+   "text": "COMPARISON EDGE — no joint work is claimed. Andina names Chile among the regional peers DIFAA's reopening brought Peru level with, and reports Peru's stated posture on cooperation as reserved: it considered itself able to analyse the phenomena independently and would appeal to exchange with neighbours only exceptionally, to compare data. Structurally the two are opposites: DIFAA sits inside the Fuerza Aérea del Perú under DINAE, while CEFAA/SEFAA sits inside Chile's civil aviation authority, the DGAC, and frames the subject as an aviation-safety matter. Tier 2 — the structural contrast is analytic, the Peruvian facts are Andina-sourced and the Chilean facts sit on the cefaa and dgac-chile nodes.",
+   "tier": 2,
+   "type": "institutional"
+  },
+  "e-6e5e7d1b97": {
+   "endpoints": [
+    {
+     "id": "sergio-bravo-flores",
+     "label": "Coronel de Aviación Sergio Bravo Flores"
+    },
+    {
+     "id": "condon-committee",
+     "label": "University of Colorado UFO Project (Condon Committee)"
+    }
+   ],
+   "id": "e-6e5e7d1b97",
+   "kind": "edge",
+   "label": "forwarded Chilean reports to the University of Colorado study",
+   "sources": [
+    {
+     "date": "2026-08-12",
+     "name": "SEFAA - Historia",
+     "url": "https://sefaa.dgac.gob.cl/historia/"
+    }
+   ],
+   "text": "SEFAA records that part of the dozen reports gathered were sent to the University of Colorado, where the commission later known as the Condon Committee was working.",
+   "tier": 1,
+   "type": "research"
+  },
+  "e-7a09bbad2d": {
+   "endpoints": [
+    {
+     "id": "sergio-bravo-flores",
+     "label": "Coronel de Aviación Sergio Bravo Flores"
+    },
+    {
+     "id": "cefaa",
+     "label": "CEFAA / SEFAA - Chilean anomalous aerial phenomena office, Dirección General de Aeronáutica Civil"
+    }
+   ],
+   "id": "e-7a09bbad2d",
+   "kind": "edge",
+   "label": "1968-1975 commission is CEFAA's institutional ancestor",
+   "sources": [
+    {
+     "date": "2026-08-12",
+     "name": "SEFAA - Historia",
+     "url": "https://sefaa.dgac.gob.cl/historia/"
+    }
+   ],
+   "text": "SEFAA's history places the origin of official Chilean UAP reporting with Bravo Flores at the Meteorological Office in 1968.",
+   "tier": 1,
+   "type": "temporal"
+  },
+  "e-bbf495697e": {
+   "endpoints": [
+    {
+     "id": "ricardo-bermudez",
+     "label": "General de Brigada Aérea (A) Ricardo Bermúdez Sanhueza"
+    },
+    {
+     "id": "cefaa",
+     "label": "CEFAA / SEFAA - Chilean anomalous aerial phenomena office, Dirección General de Aeronáutica Civil"
+    }
+   ],
+   "id": "e-bbf495697e",
+   "kind": "edge",
+   "label": "directed CEFAA 1997-2016",
+   "sources": [
+    {
+     "date": "2026-08-12",
+     "name": "SEFAA - Historia",
+     "url": "https://sefaa.dgac.gob.cl/historia/"
+    }
+   ],
+   "text": "SEFAA's own official history records his simultaneous appointment to the Escuela Técnica Aeronáutica and the CEFAA directorship.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-c74ea5c24a": {
+   "endpoints": [
+    {
+     "id": "sky-canada-project",
+     "label": "Sky Canada Project - Office of the Chief Science Advisor of Canada"
+    },
+    {
+     "id": "cefaa",
+     "label": "CEFAA / SEFAA - Chilean anomalous aerial phenomena office, Dirección General de Aeronáutica Civil"
+    }
+   ],
+   "id": "e-c74ea5c24a",
+   "kind": "edge",
+   "label": "identifies SEFAA as a model and recommends partnership",
+   "sources": [
+    {
+     "date": "2025-06-01",
+     "name": "Sky Canada Project report",
+     "url": "https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada"
+    },
+    {
+     "date": null,
+     "name": "https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada",
+     "url": "https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada"
+    }
+   ],
+   "text": "Canada's Office of the Chief Science Advisor identified the United States, France and Chile as the three national UAP reporting models worth examining, described SEFAA's operations and its commitment to transparency, and recommended Canada partner with SEFAA alongside AARO, NASA and GEIPAN.",
+   "tier": 1,
+   "type": "research"
+  },
+  "e-f3382952ba": {
+   "endpoints": [
+    {
+     "id": "cefaa",
+     "label": "CEFAA / SEFAA - Chilean anomalous aerial phenomena office, Dirección General de Aeronáutica Civil"
+    },
+    {
+     "id": "l-santiago",
+     "label": "Santiago, Chile"
+    }
+   ],
+   "id": "e-f3382952ba",
+   "kind": "edge",
+   "label": "sited in Santiago since 1997",
+   "sources": [
+    {
+     "date": "2026-08-25",
+     "name": "DGAC Chile / SEFAA, Historia",
+     "url": "https://sefaa.dgac.gob.cl/historia/"
+    },
+    {
+     "date": null,
+     "name": "https://sefaa.dgac.gob.cl/quienes-somos/",
+     "url": "https://sefaa.dgac.gob.cl/quienes-somos/"
+    }
+   ],
+   "text": "Chile's DGAC dates CEFAA's establishment to 3 October 1997 and traces the reporting lineage back to 1968 at the old Oficina Meteorologica de Chile in the Complejo Aeronautico Quinta Normal, Avenida Diego Portales 3450, Santiago. After the 2021 reorganisation the successor body SEFAA sits at Av. Pedro Aguirre Cerda 5100, Cerrillos, Santiago.",
+   "tier": 1,
+   "type": "geographic"
+  },
+  "e-f9d2786974": {
+   "endpoints": [
+    {
+     "id": "cefaa",
+     "label": "CEFAA / SEFAA - Chilean anomalous aerial phenomena office, Dirección General de Aeronáutica Civil"
+    },
+    {
+     "id": "dgac-chile",
+     "label": "DGAC Chile - Dirección General de Aeronáutica Civil"
+    }
+   ],
+   "id": "e-f9d2786974",
+   "kind": "edge",
+   "label": "created and housed by the DGAC",
+   "sources": [
+    {
+     "date": "2026-08-25",
+     "name": "DGAC Chile / SEFAA, Historia",
+     "url": "https://sefaa.dgac.gob.cl/historia/"
+    },
+    {
+     "date": null,
+     "name": "https://sefaa.dgac.gob.cl/quienes-somos/",
+     "url": "https://sefaa.dgac.gob.cl/quienes-somos/"
+    },
+    {
+     "date": null,
+     "name": "https://www.dgac.gob.cl/cefaa-un-modelo-investigativo-de-fenomenos-aereos-anomalos/",
+     "url": "https://www.dgac.gob.cl/cefaa-un-modelo-investigativo-de-fenomenos-aereos-anomalos/"
+    }
+   ],
+   "text": "Chile's Direccion General de Aeronautica Civil dates CEFAA's establishment to 3 October 1997 and hosts it: after the 2021 reorganisation the successor body SEFAA 'operates within the General Directorate of Civil Aeronautics', as Canada's Sky Canada report independently describes it. General Ricardo Bermudez Sanhueza, who took over the Escuela Tecnica Aeronautica in 1997, also took the direction of the committee and served until 2016.",
+   "tier": 1,
+   "type": "institutional"
+  }
+ },
+ "claimed": [
+  {
+   "cite": [
+    "c-3de83b3b89",
+    "c-6dc1db8977"
+   ],
+   "text": "Press accounts of the Navy footage say the helicopter crew tracked the object from about 40 miles, got no reply to repeated calls, and that two radar stations could not see it although they could see the helicopter; controllers said no aircraft was authorised in the area."
+  },
+  {
+   "cite": [
+    "c-d21852811d"
+   ],
+   "text": "CEFAA's director Ricardo Bermudez summed up its finding on the Navy case by saying that it did not know what the object was, only what it was not."
+  },
+  {
+   "cite": [
+    "c-39c96a3937",
+    "c-b04df90b8a",
+    "c-ec2871c5e8",
+    "e-33d5dfd309"
+   ],
+   "text": "The Bariloche case is described in a file in the May 2026 US Department of War release of more than 160 files, including a double airport power failure and a go-around; press reports say the file sits in a section on foreign investigations and references the French COMETA report."
+  },
+  {
+   "cite": [
+    "c-7362e0aa29",
+    "e-3918674d0d"
+   ],
+   "text": "Defense Secretary Pete Hegseth said of the release that the files, hidden behind classification, had long fuelled justified speculation; within days it produced an Argentine national story and a Japanese government review."
+  },
+  {
+   "cite": [
+    "c-876ebc1153",
+    "c-991f768221"
+   ],
+   "text": "On the board's reading, Chile's long run of an open office that releases military footage shifts the burden onto anyone who says public handling of UAP data would cause unacceptable harm, and its 2017 release preceded the US authorisation of the Navy videos by more than three years."
+  }
+ ],
+ "contested": [
+  {
+   "cite": [
+    "c-3f546b2497",
+    "e-2373a72f32"
+   ],
+   "text": "The Navy footage was not left unexplained by everyone: French analysts brought in through GEIPAN proposed an airliner venting cabin wastewater, which CEFAA rejected, and independent analysts later matched the footage to scheduled flights LA330 and IB6830."
+  },
+  {
+   "cite": [
+    "c-a707870088",
+    "c-a74401b45b",
+    "e-bbf495697e"
+   ],
+   "text": "The DGAC's own records disagree about who ran CEFAA: one passage says Bermudez directed it from 1997 to 2016, while the directorship chronology gives Di Nocera to 1998, Bermudez to 2002, Hernan Henriquez Cobaise to 2008, and Bermudez again from 2009 to 2016."
+  },
+  {
+   "cite": [
+    "e-5207280985",
+    "c-9fe6a3e428"
+   ],
+   "text": "The two regional offices are built on opposite models: DIFAA sits inside an air force and said it would share data with neighbours only exceptionally, while SEFAA sits in a civil aviation authority and treats the subject as aviation safety. The board has not established DIFAA's founding instrument, its current reporting line or whether it publishes any findings."
+  }
+ ],
  "essays": [],
  "focusEra": "2",
  "id": "latin-america",
  "kind": "nation",
- "lead": null,
- "members": [],
+ "lead": {
+  "cite": [
+   "c-0cbde60b27",
+   "c-9c292e789a",
+   "c-4a6ceea41b",
+   "c-ec2871c5e8",
+   "c-a74401b45b"
+  ],
+  "text": "Chile created an open, civil-aviation office for anomalous aerial phenomena in 1997, CEFAA, now SEFAA, which after a dormant spell from 2002 to 2008 still runs and publishes its resolved cases; Peru's Air Force reopened an office of its own in 2013; and an Argentine airliner case of 1995 surfaced in the 2026 US file release."
+ },
+ "members": [
+  {
+   "cls": "institution",
+   "id": "cefaa",
+   "label": "CEFAA / SEFAA - Chilean anomalous aerial phenomena office, Dirección General de Aeronáutica Civil",
+   "role": "institution"
+  },
+  {
+   "cls": "institution",
+   "id": "dgac-chile",
+   "label": "DGAC Chile - Dirección General de Aeronáutica Civil",
+   "role": "institution"
+  },
+  {
+   "cls": "institution",
+   "id": "peru-uap-office",
+   "label": "Peruvian Air Force anomalous aerial phenomena office (OIFAA / DIFAA)",
+   "role": "institution"
+  },
+  {
+   "cls": "person",
+   "id": "sergio-bravo-flores",
+   "label": "Coronel de Aviación Sergio Bravo Flores",
+   "role": "official"
+  },
+  {
+   "cls": "person",
+   "id": "ricardo-bermudez",
+   "label": "General de Brigada Aérea (A) Ricardo Bermúdez Sanhueza",
+   "role": "official"
+  },
+  {
+   "cls": "event",
+   "id": "ev-chile-navy-flir-2014",
+   "label": "Chilean Navy helicopter FLIR case, November 2014 (released January 2017)",
+   "role": "event"
+  },
+  {
+   "cls": "event",
+   "id": "ev-argentina-bariloche-1995",
+   "label": "Aerolíneas Argentinas flight AR 674, San Carlos de Bariloche, 31 July 1995",
+   "role": "event"
+  },
+  {
+   "cls": "location",
+   "id": "l-santiago",
+   "label": "Santiago, Chile",
+   "role": "place"
+  },
+  {
+   "cls": "institution",
+   "id": "geipan",
+   "label": "GEIPAN - Groupe d'Études et d'Informations sur les Phénomènes Aérospatiaux Non identifiés",
+   "role": "institution"
+  },
+  {
+   "cls": "program",
+   "id": "sky-canada-project",
+   "label": "Sky Canada Project - Office of the Chief Science Advisor of Canada",
+   "role": "programme"
+  },
+  {
+   "cls": "institution",
+   "id": "ocsa-canada",
+   "label": "Office of the Chief Science Advisor of Canada",
+   "role": "institution"
+  },
+  {
+   "cls": "program",
+   "id": "condon-committee",
+   "label": "University of Colorado UFO Project (Condon Committee)",
+   "role": "programme"
+  },
+  {
+   "cls": "document",
+   "id": "doc-cometa-report",
+   "label": "Les OVNI et la Défense: à quoi doit-on se préparer? (COMETA report, July 1999)",
+   "role": "document"
+  },
+  {
+   "cls": "event",
+   "id": "japan-uap-2026",
+   "label": "Japan's review of the 2026 US UAP file releases",
+   "role": "event"
+  },
+  {
+   "cls": "institution",
+   "id": "fab",
+   "label": "Força Aérea Brasileira / Ministério da Aeronáutica",
+   "role": "institution"
+  }
+ ],
  "notes": "Chile's CEFAA, Peru's office and the Argentine cases.",
- "questions": [],
- "record": [],
- "related": [],
+ "questions": [
+  "Which was it: did Bermudez run CEFAA continuously from 1997, or with a gap while others held the post?",
+  "Why did CEFAA fall dormant from 2002 to 2008, and what was lost in that time?",
+  "Did CEFAA ever answer the flight-match explanation of the 2014 Navy footage?",
+  "Under what instrument was Peru's DIFAA founded, why was it closed for five years, and has it published any case findings since 2013?",
+  "What does the US file on the Bariloche case contain beyond what the press has reported, and where did the US obtain it?",
+  "Are Bravo Flores's Chilean reports among the Condon Committee's surviving papers?"
+ ],
+ "record": [
+  {
+   "cite": [
+    "c-0cbde60b27",
+    "c-a35d10f191",
+    "c-d848e79053"
+   ],
+   "text": "The DGAC's own history names General Gonzalo Miranda Aguirre as the director who created CEFAA by resolution in 1997, with Colonel Enzo Di Nocera as its first director, prompted by the Arica sightings and the interest of a former Chilean Air Force commander in chief."
+  },
+  {
+   "cite": [
+    "c-1c599db43a",
+    "c-e5a4c4c98f"
+   ],
+   "text": "The office's remit is the safety of air operations across the DGAC's area of responsibility, some 32 million square kilometres from Arica to the South Pole."
+  },
+  {
+   "cite": [
+    "c-1dbd682eeb",
+    "c-c1687693b3"
+   ],
+   "text": "By September 2021 CEFAA had received 1,675 cases, with 362 arriving in 2020, nearly 300% above earlier years, supported by a digital database created in 2018. In 2018 it consisted of its director, Hugo Camus Palacios, and two investigators, with an external committee of scientists, controllers, pilots and engineers."
+  },
+  {
+   "cite": [
+    "c-9c292e789a",
+    "c-3977126e8c",
+    "c-8a41259222",
+    "c-568e6af2e4"
+   ],
+   "text": "Since 2020 the office has published its investigated and resolved cases, with yearly indexes from 2018 and monthly bulletins still appearing in 2026; the DGAC describes it as one of the oldest public bodies of its kind on the continent and as leading a model of transparency."
+  },
+  {
+   "cite": [
+    "c-a74401b45b"
+   ],
+   "text": "The DGAC records a gap: from 2002 to 2008 CEFAA entered a period of latency, and it was reactivated by resolution in December 2009."
+  },
+  {
+   "cite": [
+    "c-878f5e48b1",
+    "c-a965d35f8e",
+    "e-c74ea5c24a",
+    "e-06a6b43e7f"
+   ],
+   "text": "Canada's Sky Canada Project named Chile, with the United States and France, as the models worth examining, described SEFAA as the official Chilean body for collecting and studying UAP inside the civil aviation directorate, and recommended partnership with it."
+  },
+  {
+   "cite": [
+    "c-4a6ceea41b",
+    "c-e8123b0a47",
+    "e-16b621f8a6"
+   ],
+   "text": "Peru's state news agency reported DIFAA's reopening on 18 October 2013, announced by Colonel Julio Vucetich Abanto of the Air Force's space directorate in response to rising sightings reported in the media, and said it brought Peru level with Chile, Argentina, Uruguay, Brazil and Ecuador."
+  },
+  {
+   "cite": [
+    "c-d2894f633a"
+   ],
+   "text": "At the meeting where the reopening was announced, the invited archaeologist said there is no evidence linking the Nazca lines to UFOs or extraterrestrial presence."
+  }
+ ],
+ "related": [
+  "brazil",
+  "office-models",
+  "france",
+  "canada",
+  "aviation-cases",
+  "pursue-2026",
+  "condon-1966-69"
+ ],
  "section": "other-nations",
  "span": {
   "from": "1995",
   "to": "2026"
  },
- "status": "draft",
- "summary": [],
+ "status": "verified",
+ "summary": [
+  {
+   "cite": [
+    "c-47c66f16a5",
+    "c-3403fd8114",
+    "e-7a09bbad2d",
+    "e-6e5e7d1b97"
+   ],
+   "text": "Chilean official reporting began in 1968, when Aviation Colonel Sergio Bravo Flores, head of the Meteorological Office, led a commission that asked 43 aeronautical installations for reports and sent some of them to the University of Colorado study later known as the Condon Committee."
+  },
+  {
+   "cite": [
+    "c-d848e79053",
+    "c-59c7c36044",
+    "c-6910666208",
+    "c-e5a4c4c98f",
+    "e-f9d2786974",
+    "e-f3382952ba"
+   ],
+   "text": "After sightings at Arica in 1997, the head of Chile's civil aviation directorate, the DGAC, created CEFAA on 3 October 1997 at its technical school in Santiago; in 2021 it was renamed SEFAA and placed under the DGAC's communications subdepartment. Its stated mission is to support the safety of air operations."
+  },
+  {
+   "cite": [
+    "c-4a6ceea41b",
+    "c-d2894f633a"
+   ],
+   "text": "Peru's Departamento de Investigacion de Fenomenos Aereos Anomalos, DIFAA, sits inside the Peruvian Air Force; it reopened in October 2013 after five years closed."
+  },
+  {
+   "cite": [
+    "e-2802d88f97",
+    "c-d21852811d",
+    "c-39c96a3937"
+   ],
+   "text": "The best-known Chilean case is the Navy helicopter infrared footage of November 2014, which CEFAA analysed for two years and released in January 2017; the Argentine case is Aerolineas Argentinas flight AR 674 at Bariloche on 31 July 1995."
+  }
+ ],
  "title": "Chile, Peru and Argentina"
 }

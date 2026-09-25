@@ -7,25 +7,1336 @@
  ],
  "anchors": [],
  "appendixT": null,
- "cites": {},
- "claimed": [],
- "contested": [],
+ "cites": {
+  "c-047e85bc72": {
+   "id": "c-047e85bc72",
+   "kind": "claim",
+   "node": "project-azorian",
+   "nodeLabel": "Project AZORIAN and the Hughes Glomar Explorer",
+   "source": {
+    "domain": "archive.org",
+    "text": "CIA reading-room document 0005301269, https://archive.org/download/cia-readingroom-document-0005301269/0005301269_djvu.txt",
+    "url": "https://archive.org/download/cia-readingroom-document-0005301269/0005301269_djvu.txt"
+   },
+   "text": "The article's closing page states that a private consortium of companies, including Lockheed, Global Marine, Standard Oil of Indiana, and Royal Dutch Shell, are readying the Hughes Glomar Explorer for use in deep-ocean mining operations to begin late in the fall of 1978.",
+   "tier": 1
+  },
+  "c-0d0224cc36": {
+   "id": "c-0d0224cc36",
+   "kind": "claim",
+   "node": "project-azorian",
+   "nodeLabel": "Project AZORIAN and the Hughes Glomar Explorer",
+   "source": {
+    "domain": null,
+    "text": "Danny Jones Podcast, ep. 320, 4 August 2025, 0:26:45 to 0:29:24, mapped at research/leads/dannyjones-corpus-20.md",
+    "url": null
+   },
+   "text": "On the Danny Jones Podcast, episode 320, 4 August 2025, at 0:29:24, the guest who identifies himself only as UAP Gerb said the Hughes Glomar Explorer was later leased to Lockheed Martin for deep-sea mining for twenty years. The released history contradicts that in three particulars: it names Lockheed as one member of a four-company private consortium readying the ship for deep-ocean mining operations to begin late in the fall of 1978, it says nothing about a lease or a term, and Lockheed Martin did not exist under that name until 1995. At 0:26:45 to 0:29:24 the same speaker treated the Glomar Explorer and a National Underwater Reconnaissance Office as one undersea programme; NURO appears nowhere in the fifty pages.",
+   "tier": 2
+  },
+  "c-20023fea57": {
+   "id": "c-20023fea57",
+   "kind": "claim",
+   "node": "d-legacy",
+   "nodeLabel": "Legacy Program",
+   "source": {
+    "domain": null,
+    "text": "House Oversight Committee hearing, 26 July 2023; NPR contemporaneous report",
+    "url": null
+   },
+   "text": "David Grusch testified under oath to the House Oversight Committee on 26 July 2023 that he was informed of a multi-decade UAP crash retrieval and reverse-engineering programme, and that he made a protected disclosure to the ICIG.",
+   "tier": 2
+  },
+  "c-20b405889c": {
+   "id": "c-20b405889c",
+   "kind": "claim",
+   "node": "project-azorian",
+   "nodeLabel": "Project AZORIAN and the Hughes Glomar Explorer",
+   "source": {
+    "domain": "archive.org",
+    "text": "CIA reading-room document 0005301269, https://archive.org/download/cia-readingroom-document-0005301269/0005301269_djvu.txt",
+    "url": "https://archive.org/download/cia-readingroom-document-0005301269/0005301269_djvu.txt"
+   },
+   "text": "The same note states that the continuing prohibition applies particularly to the specific purpose of the AZORIAN mission, the degree of success, operational details, participation of other contractors, government organizations, and individuals, classified technology, and project funding matters.",
+   "tier": 1
+  },
+  "c-2451f39f83": {
+   "id": "c-2451f39f83",
+   "kind": "claim",
+   "node": "eric-davis",
+   "nodeLabel": "Eric W. Davis",
+   "source": {
+    "domain": null,
+    "text": "Ralph Blumenthal, The New York Times, 23 July 2020, quoting Davis on the record",
+    "url": null
+   },
+   "text": "Davis gave classified briefings on retrievals of unexplained objects to Senate Armed Services Committee staff on 21 October 2019 and to Senate Intelligence Committee members on 23 October 2019, and to a Defense Department agency in March 2020 about retrievals from 'off-world vehicles not made on this earth'.",
+   "tier": 2
+  },
+  "c-26858e905a": {
+   "id": "c-26858e905a",
+   "kind": "claim",
+   "node": "harold-puthoff",
+   "nodeLabel": "Harold E. Puthoff",
+   "source": {
+    "domain": null,
+    "text": "Letter from Puthoff reported by M.J. Banias, Vice, 14 November 2019",
+    "url": null
+   },
+   "text": "Puthoff wrote in 2012 that testing of the Linda Moulton Howe metal samples had not proved alien origin nor produced any 'interesting/anomalous outcome', but that one further test requiring unavailable equipment remained.",
+   "tier": 2
+  },
+  "c-26d16e3ba7": {
+   "id": "c-26d16e3ba7",
+   "kind": "claim",
+   "node": "uap-science-advisory-council",
+   "nodeLabel": "UAP Science Advisory Council",
+   "source": {
+    "domain": null,
+    "text": "DefenseScoop, 17 June 2026",
+    "url": null
+   },
+   "text": "A 12-member UAP Science Advisory Council chaired by Avi Loeb was announced on 17 June 2026 to advise an interagency UAP Governance Board including ODNI, FBI and DoW.",
+   "tier": 1
+  },
+  "c-337b9b8425": {
+   "id": "c-337b9b8425",
+   "kind": "claim",
+   "node": "eric-davis",
+   "nodeLabel": "Eric W. Davis",
+   "source": {
+    "domain": null,
+    "text": "Eric W. Davis quoted in The New York Times, 23 July 2020",
+    "url": null
+   },
+   "text": "Of the analysed materials Davis said: 'We couldn't make it ourselves.'",
+   "tier": 2
+  },
+  "c-397d63b6a9": {
+   "id": "c-397d63b6a9",
+   "kind": "claim",
+   "node": "garry-nolan",
+   "nodeLabel": "Garry Nolan",
+   "source": {
+    "domain": null,
+    "text": "Progress in Aerospace Sciences, DOI 10.1016/j.paerosci.2021.100788",
+    "url": null
+   },
+   "text": "Nolan is senior author of 'Improved instrumental techniques, including isotopic analysis, applicable to the characterization of unusual materials with potential relevance to aerospace forensics', Progress in Aerospace Sciences 128 (2022) 100788, with Jacques F. Vallee, Sizun Jiang and Larry G. Lemke.",
+   "tier": 1
+  },
+  "c-43b4b8de1c": {
+   "id": "c-43b4b8de1c",
+   "kind": "claim",
+   "node": "nasa-uap-ist",
+   "nodeLabel": "NASA UAP Independent Study Team",
+   "source": {
+    "domain": null,
+    "text": "NASA announcements and the team's final report",
+    "url": null
+   },
+   "text": "NASA commissioned the sixteen-member UAP Independent Study Team on 24 May 2022 under chair David Spergel with Daniel Evans as designated federal official; it began work 24 October 2022, held one public meeting on 31 May 2023, and reported on 14 September 2023.",
+   "tier": 1
+  },
+  "c-43e0daeb69": {
+   "id": "c-43e0daeb69",
+   "kind": "claim",
+   "node": "d-reverse-engineering",
+   "nodeLabel": "Reverse Engineering",
+   "source": {
+    "domain": null,
+    "text": "AARO Aluminum Materials Analysis Supplement, document 26-P-0218",
+    "url": null
+   },
+   "text": "AARO's January 2026 Aluminum Materials Analysis Supplement reports that Oak Ridge National Laboratory analysis of a specimen recovered near Flint Ridge, Ohio found it consistent with conventional aluminium-silicon casting alloys, with no radioactive emissions detected.",
+   "tier": 1
+  },
+  "c-449f830724": {
+   "id": "c-449f830724",
+   "kind": "claim",
+   "node": "d-legacy",
+   "nodeLabel": "Legacy Program",
+   "source": {
+    "domain": null,
+    "text": "DoD OIG DODIG-2023-109",
+    "url": null
+   },
+   "text": "The DoD Inspector General's DODIG-2023-109 evaluation of DoD actions regarding UAP was initiated following personnel complaints and released in unclassified summary on 25 January 2024.",
+   "tier": 1
+  },
+  "c-461daa8df0": {
+   "id": "c-461daa8df0",
+   "kind": "claim",
+   "node": "d-reverse-engineering",
+   "nodeLabel": "Reverse Engineering",
+   "source": {
+    "domain": null,
+    "text": "House Oversight Committee hearing, 26 July 2023",
+    "url": null
+   },
+   "text": "David Grusch testified under oath on 26 July 2023 that a multi-decade reverse-engineering programme exists and that he referred named witnesses to the ICIG and to Congress.",
+   "tier": 2
+  },
+  "c-4711e15514": {
+   "id": "c-4711e15514",
+   "kind": "claim",
+   "node": "ttsa-army-crada",
+   "nodeLabel": "CRADA between U.S. Army Ground Vehicle Systems Center and To The Stars Academy",
+   "source": {
+    "domain": null,
+    "text": "AARO Historical Record Report Volume I, March 2024",
+    "url": null
+   },
+   "text": "AARO confirms that the private organisation owning the alleged crash material 'negotiated an agreement in 2019 with the U.S. Army to analyze the samples.'",
+   "tier": 1
+  },
+  "c-47496ed0dc": {
+   "id": "c-47496ed0dc",
+   "kind": "claim",
+   "node": "project-azorian",
+   "nodeLabel": "Project AZORIAN and the Hughes Glomar Explorer",
+   "source": {
+    "domain": "archive.org",
+    "text": "PROJECT AZORIAN: THE STORY OF THE HUGHES GLOMAR EXPLORER, CIA reading-room document 0005301269, approved for release 01-04-2010, https://archive.org/download/cia-readingroom-document-0005301269/0005301269_djvu.txt",
+    "url": "https://archive.org/download/cia-readingroom-document-0005301269/0005301269_djvu.txt"
+   },
+   "text": "The released history opens: In March 1968 a Soviet submarine of the G-II class was lost with all hands, 16,500 feet below the surface of the Pacific Ocean.",
+   "tier": 1
+  },
+  "c-4dc07286b1": {
+   "id": "c-4dc07286b1",
+   "kind": "claim",
+   "node": "d-recovery",
+   "nodeLabel": "Retrieval & Recovery Operations",
+   "source": {
+    "domain": null,
+    "text": "GAO/NSIAD-95-187",
+    "url": null
+   },
+   "text": "GAO's 1995 records search found that Roswell AAF outgoing messages for 1946-1949 had been destroyed with no disposition authority.",
+   "tier": 1
+  },
+  "c-4ded6c289b": {
+   "id": "c-4ded6c289b",
+   "kind": "claim",
+   "node": "ttsa-army-crada",
+   "nodeLabel": "CRADA between U.S. Army Ground Vehicle Systems Center and To The Stars Academy",
+   "source": {
+    "domain": null,
+    "text": "CCDC FOIA response to The Black Vault",
+    "url": null
+   },
+   "text": "On 21 February 2020 CCDC FOIA Officer Joy L. Linton denied in full twenty-nine emails totalling one hundred pages of TTSA-Army correspondence under FOIA exemptions (b)(4) and (b)(5).",
+   "tier": 1
+  },
+  "c-4efeb1ec9c": {
+   "id": "c-4efeb1ec9c",
+   "kind": "claim",
+   "node": "d-recovery",
+   "nodeLabel": "Retrieval & Recovery Operations",
+   "source": {
+    "domain": null,
+    "text": "Contemporaneous press coverage; GAO/NSIAD-95-187 record search",
+    "url": null
+   },
+   "text": "Roswell Army Air Field issued a press release on 8 July 1947 stating the 509th Bomb Group had come into possession of a flying disc; it was retracted the same day.",
+   "tier": 1
+  },
+  "c-5bc206eaf4": {
+   "id": "c-5bc206eaf4",
+   "kind": "claim",
+   "node": "cia-prepublication-classification-review-board",
+   "nodeLabel": "CIA Prepublication Classification Review Board",
+   "source": {
+    "domain": "archive.org",
+    "text": "Prepublication Review Information, CIA reading-room document C06712956, https://archive.org/download/cia-readingroom-document-06712956/06712956_djvu.txt",
+    "url": "https://archive.org/download/cia-readingroom-document-06712956/06712956_djvu.txt"
+   },
+   "text": "Where the Board determines that a manuscript contains classified information, the guidance requires the author to return any and all versions of this work, in whatever form, for destruction and to remove those items from their hard drive, with CIA security personnel available to assist.",
+   "tier": 1
+  },
+  "c-609134546a": {
+   "id": "c-609134546a",
+   "kind": "claim",
+   "node": "d-recovery",
+   "nodeLabel": "Retrieval & Recovery Operations",
+   "source": {
+    "domain": null,
+    "text": "Inference from documented DoD mishap and foreign materiel exploitation practice",
+    "url": null
+   },
+   "text": "Any sustained retrieval capability would be built on existing mishap-recovery, nuclear-accident response or foreign materiel exploitation units rather than a purpose-built organisation, because those units already hold the required authorities, equipment and cover. Reasoning: creating a new organisation generates exactly the paper trail a concealed programme cannot afford.",
+   "tier": 3
+  },
+  "c-6c465ee5eb": {
+   "id": "c-6c465ee5eb",
+   "kind": "claim",
+   "node": "d-legacy",
+   "nodeLabel": "Legacy Program",
+   "source": {
+    "domain": null,
+    "text": "AARO Historical Record Report Volume I",
+    "url": null
+   },
+   "text": "AARO's Volume I historical record report (February 2024) states it found no empirical evidence for claims of USG or private-company reverse engineering of extraterrestrial technology, and describes its interview and programme-review methodology in Sections V and VI.",
+   "tier": 1
+  },
+  "c-727721fef0": {
+   "id": "c-727721fef0",
+   "kind": "claim",
+   "node": "s-4-papoose-lake",
+   "nodeLabel": "S-4 / Papoose Lake, Nevada",
+   "source": {
+    "domain": "archive.org",
+    "text": "The Lazar Tape and Excerpts from the Government Bible, Tri-Dot Productions, 1991, captions at 1:54, 24:24, 27:16 and 28:01 via YouTube video kc10m6HFbDE, https://archive.org/details/antigravity , opened 2026-09-18",
+    "url": "https://archive.org/details/antigravity"
+   },
+   "text": "THE CLAIM, in the claimant's own narration on the 1991 videotape: 'between December of 88 and April of 89' he worked at 'a facility at an area known as S4 on the Nellis Air Force range in central Nevada', 'approximately 15 miles south of the infamous Area 51 installation at Groom Lake'; 'The S4 installation is built into the mountain and the nine Hangar doors are angled at about 60 degrees'; he was bussed there from near 'the gro[o]m mountains in the groom[ ]dry lake bed from Area 51... to an even more highly secure' site; and he had 'at least partial views of nine different discs out at area S4'. Auto-generated captions, so wording is approximate.",
+   "tier": 2
+  },
+  "c-75434e22cc": {
+   "id": "c-75434e22cc",
+   "kind": "claim",
+   "node": "uap-science-advisory-council",
+   "nodeLabel": "UAP Science Advisory Council",
+   "source": {
+    "domain": null,
+    "text": "The Sol Foundation announcement, 22 June 2026",
+    "url": null
+   },
+   "text": "All data shared with the council will be unclassified.",
+   "tier": 1
+  },
+  "c-7a76af2449": {
+   "id": "c-7a76af2449",
+   "kind": "claim",
+   "node": "nasa-uap-ist",
+   "nodeLabel": "NASA UAP Independent Study Team",
+   "source": {
+    "domain": null,
+    "text": "Inference from the panel's remit; no member has reported a classified read-on",
+    "url": null
+   },
+   "text": "The panel operated entirely on unclassified data and was never read on to classified holdings, so its finding of insufficient evidence is a statement about its own access rather than about the government's holdings.",
+   "tier": 3
+  },
+  "c-80a5d72c03": {
+   "id": "c-80a5d72c03",
+   "kind": "claim",
+   "node": "project-azorian",
+   "nodeLabel": "Project AZORIAN and the Hughes Glomar Explorer",
+   "source": {
+    "domain": "archive.org",
+    "text": "CIA reading-room document 0005301269, https://archive.org/download/cia-readingroom-document-0005301269/0005301269_djvu.txt",
+    "url": "https://archive.org/download/cia-readingroom-document-0005301269/0005301269_djvu.txt"
+   },
+   "text": "The article's publication note records that facts about the project had been acknowledged in court in continuing litigation concerning California State tax liability, Freedom of Information Act matters, and a patent infringement claim, and that the acknowledged facts include CIA sponsorship for intelligence collection purposes and the participation of Hughes Tool Company, the Summa Corporation and Global Marine, Inc.",
+   "tier": 1
+  },
+  "c-83f11537c4": {
+   "id": "c-83f11537c4",
+   "kind": "claim",
+   "node": "d-recovery",
+   "nodeLabel": "Retrieval & Recovery Operations",
+   "source": {
+    "domain": null,
+    "text": "American Alchemy - Jake Barber interview, 30 January 2025",
+    "url": null
+   },
+   "text": "Jake Barber, a former special operations pilot, described participation in UAP retrieval operations in a January 2025 on-camera interview, and gave his account by name.",
+   "tier": 2
+  },
+  "c-87216993fd": {
+   "id": "c-87216993fd",
+   "kind": "claim",
+   "node": "garry-nolan",
+   "nodeLabel": "Garry Nolan",
+   "source": {
+    "domain": null,
+    "text": "Garry Nolan to Jon Brooks, KQED, 14 June 2021",
+    "url": null
+   },
+   "text": "Nolan says he was approached by 'some people representing the government and an aerospace corporation' to help them understand medical harm to individuals from 'supposed interactions with an anomalous craft'.",
+   "tier": 2
+  },
+  "c-8a391de51a": {
+   "id": "c-8a391de51a",
+   "kind": "claim",
+   "node": "d-custody",
+   "nodeLabel": "Chain of custody",
+   "source": {
+    "domain": null,
+    "text": "Steve Justice, quoted in Vice, 26 July 2019",
+    "url": null
+   },
+   "text": "Steve Justice conceded the ADAM materials were 'collected from sources with varying levels of chain-of-custody documentation'.",
+   "tier": 2
+  },
+  "c-8ccc9f233c": {
+   "id": "c-8ccc9f233c",
+   "kind": "claim",
+   "node": "ttsa-army-crada",
+   "nodeLabel": "CRADA between U.S. Army Ground Vehicle Systems Center and To The Stars Academy",
+   "source": {
+    "domain": null,
+    "text": "CRADA document as released, The War Zone, 18 October 2019",
+    "url": null
+   },
+   "text": "Research areas specified: inertial mass reduction, mechanical/structural metamaterials, electromagnetic metamaterial waveguides, quantum physics, quantum communications, beamed energy propulsion; applications include Active Camouflage and Directed Photon Projection. TTSA's participation valued at an estimated $1 million in in-kind contributions.",
+   "tier": 1
+  },
+  "c-8d469b4fee": {
+   "id": "c-8d469b4fee",
+   "kind": "claim",
+   "node": "eric-davis",
+   "nodeLabel": "Eric W. Davis",
+   "source": {
+    "domain": "documents2.theblackvault.com",
+    "text": "Defense Intelligence Reference Document DIA-08-1003-018, 'Antigravity for Aerospace Applications', 30 March 2010, ICOD 1 December 2009, 'Acquisition Threat Support', 45 pages as released, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_19-DIRD_Antigravity_for_Aerospace_Applications.pdf , opened 2026-09-19",
+    "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_19-DIRD_Antigravity_for_Aerospace_Applications.pdf"
+   },
+   "text": "HIS OWN CONCLUSION, verbatim: 'One found that plausible mechanisms exist within Newtonian and general relativistic theories whereby one could embody a realistic device that produces a significant antigravity force. However, one discovered that there are daunting technical challenges that arise in each of the proposed embodiments. Mechanical embodiments that produce antigravity forces require kilometer-sized apparatus, astronomical-sized masses and densities, or extreme mass velocities and accelerations.' And: 'Negative energy has been produced in the lab in very small quantities. The technologies used for producing negative energy are nascent, and so it will be some time before it can be ascertained whether they are capable of producing the astronomical amounts of negative energy required to generate significant antigravity forces.'",
+   "tier": 1
+  },
+  "c-925dda206a": {
+   "id": "c-925dda206a",
+   "kind": "claim",
+   "node": "ttsa-army-crada",
+   "nodeLabel": "CRADA between U.S. Army Ground Vehicle Systems Center and To The Stars Academy",
+   "source": {
+    "domain": null,
+    "text": "CRADA document released by U.S. Army CCDC, reported by Joseph Trevithick and Brett Tingley, The War Zone, 18 October 2019",
+    "url": null
+   },
+   "text": "Signed 10 October 2019 by Jeffery Langhout (Director, Army GVSC) and Kari DeLonge (TTSA), with Bean Soave and Dr. Joseph Cannon as government principal investigators and Luis Elizondo as TTSA principal investigator; term to 30 September 2023.",
+   "tier": 1
+  },
+  "c-96458686ee": {
+   "id": "c-96458686ee",
+   "kind": "claim",
+   "node": "d-reverse-engineering",
+   "nodeLabel": "Reverse Engineering",
+   "source": {
+    "domain": null,
+    "text": "AARO Historical Record Report Volume I",
+    "url": null
+   },
+   "text": "AARO's Volume I report (February 2024) states that it found no empirical evidence for reverse engineering of extraterrestrial technology by the USG or private companies.",
+   "tier": 1
+  },
+  "c-9aa45b3f05": {
+   "id": "c-9aa45b3f05",
+   "kind": "claim",
+   "node": "nasa-uap-ist",
+   "nodeLabel": "NASA UAP Independent Study Team",
+   "source": {
+    "domain": null,
+    "text": "NASA UAP Independent Study Team Final Report, 14 September 2023",
+    "url": null
+   },
+   "text": "The report concluded that no evidence of extraterrestrial origin was found and that poor-quality and limited data characterises many unexplained events, recommending a rigorous evidence-based approach using AI and citizen observers.",
+   "tier": 1
+  },
+  "c-a1b107a1b3": {
+   "id": "c-a1b107a1b3",
+   "kind": "claim",
+   "node": "dia-aatip-list-2019",
+   "nodeLabel": "DIA letter to Steven Aftergood listing 38 AATIP reference products (16 January 2019)",
+   "source": {
+    "domain": null,
+    "text": "Federation of American Scientists, 'AATIP List'; DIA letter to Aftergood",
+    "url": null
+   },
+   "text": "DIA released a 38-title list of AATIP research products to FAS on 16 January 2019, covering work funded 2007-2012 at approximately $22 million; the list had been provided to Congress in January 2018.",
+   "tier": 1
+  },
+  "c-a64ba4a596": {
+   "id": "c-a64ba4a596",
+   "kind": "claim",
+   "node": "s-4-papoose-lake",
+   "nodeLabel": "S-4 / Papoose Lake, Nevada",
+   "source": {
+    "domain": "otherhand.org",
+    "text": "Tom Mahood, 2018 retrospective, https://otherhand.org/home-page/area-51-and-other-strange-places/looking-at-the-bob-lazar-story-from-the-perspective-of-2018/ , opened 2026-09-18; and T.D. Barnes in research/leads/dannyjones-corpus-09.md, episode 415 at 0:57:13 and 1:01:21 to 1:02:58, recorded 2026-07-20",
+    "url": "https://otherhand.org/home-page/area-51-and-other-strange-places/looking-at-the-bob-lazar-story-from-the-perspective-of-2018/"
+   },
+   "text": "THE SECOND-BEST FINDING IN THIS CLUSTER: TWO PEOPLE REACH THE SAME COUNTER-EXPLANATION BY UNRELATED ROUTES. Tom Mahood, a physics graduate who spent years on the documentary record, concludes in his 2018 retrospective that there is 'nothing at Papoose Lake' and that S-4 actually refers to a radar facility at the Tonopah Test Range. Separately, T.D. Barnes, a former CIA and NASA engineer who worked at Groom Lake, says the real Site 4 is a remote radar site north of the main facility that held captured Soviet equipment, that this and not an underground base is what Lazar referred to, and that a named retired Area 51 security chief confirmed to him that Lazar appears on no manifest. Neither route depends on the other: one is documentary and civilian, the other is recollection by a former range engineer. Shared conclusions from a shared method are not corroboration; these two do not share a method.",
+   "tier": 2
+  },
+  "c-a670522dca": {
+   "id": "c-a670522dca",
+   "kind": "claim",
+   "node": "uap-science-advisory-council",
+   "nodeLabel": "UAP Science Advisory Council",
+   "source": {
+    "domain": null,
+    "text": "Collin Binkley, Associated Press, 30 June 2026",
+    "url": null
+   },
+   "text": "The council has no budget and no access to classified material.",
+   "tier": 2
+  },
+  "c-ab45f9d795": {
+   "id": "c-ab45f9d795",
+   "kind": "claim",
+   "node": "aawsap-dird-series",
+   "nodeLabel": "AAWSAP Defense Intelligence Reference Document series",
+   "source": {
+    "domain": null,
+    "text": "Federation of American Scientists, 'AATIP List', 17 January 2019; DIA letter to Aftergood, 16 January 2019",
+    "url": null
+   },
+   "text": "DIA released a list of 38 AATIP/AAWSAP research titles to Steven Aftergood of FAS on 16 January 2019; the list had previously been provided to Congress in January 2018. The programme cost approximately $22 million and ran 2007-2012.",
+   "tier": 1
+  },
+  "c-ab6f1c3ce1": {
+   "id": "c-ab6f1c3ce1",
+   "kind": "claim",
+   "node": "aawsap-dird-series",
+   "nodeLabel": "AAWSAP Defense Intelligence Reference Document series",
+   "source": {
+    "domain": null,
+    "text": "DIA FOIA Electronic Reading Room, AATIP index",
+    "url": null
+   },
+   "text": "The released DIRDs are hosted in the DIA FOIA Electronic Reading Room alongside the AAWSAP statement of work, four contract status briefs, Bigelow Aerospace contract records, the 'Final Packet Presented to DepSecDef', and correspondence including 'Reid To DEPSECDEF Ref AAITP In SAP' and 'U-09-2660CE IM Review Of Special Access Program Request'.",
+   "tier": 1
+  },
+  "c-bd5060c173": {
+   "id": "c-bd5060c173",
+   "kind": "claim",
+   "node": "d-custody",
+   "nodeLabel": "Chain of custody",
+   "source": {
+    "domain": null,
+    "text": "DIA FOIA Electronic Reading Room AATIP index, examined August 2026",
+    "url": null
+   },
+   "text": "No released AAWSAP-era document records the receipt, transfer or storage of a physical sample, despite the release of the statement of work, contract status briefs, 38 reference-product titles and multiple internal memoranda.",
+   "tier": 1
+  },
+  "c-bf51579601": {
+   "id": "c-bf51579601",
+   "kind": "claim",
+   "node": "garry-nolan",
+   "nodeLabel": "Garry Nolan",
+   "source": {
+    "domain": null,
+    "text": "The Sol Foundation Science and Policy Briefings No. 3, April 2026, summarising the Nolan/Vallee paper",
+    "url": null
+   },
+   "text": "The Council Bluffs analysis found no anomalous isotopic values but incomplete mixing of the constituent metals, indicating an industrial process of unknown origin, and ruled out meteorite, satellite/spacecraft, aircraft-debris, molten-metal-dumping and thermite explanations.",
+   "tier": 1
+  },
+  "c-c96ffffc9a": {
+   "id": "c-c96ffffc9a",
+   "kind": "claim",
+   "node": "aaro-historical-record-vol1",
+   "nodeLabel": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
+   "source": {
+    "domain": null,
+    "text": "AARO Historical Record Report, Volume I, February 2024",
+    "url": null
+   },
+   "text": "AARO concluded the Roswell materials 'were consistent with a balloon of the type used in the then-classified Project Mogul' and that there is 'no evidence that the USG recovered aliens or extraterrestrial material'.",
+   "tier": 1
+  },
+  "c-d7ffce06ef": {
+   "id": "c-d7ffce06ef",
+   "kind": "claim",
+   "node": "project-azorian",
+   "nodeLabel": "Project AZORIAN and the Hughes Glomar Explorer",
+   "source": {
+    "domain": "archive.org",
+    "text": "CIA reading-room document 0005301269, https://archive.org/download/cia-readingroom-document-0005301269/0005301269_djvu.txt",
+    "url": "https://archive.org/download/cia-readingroom-document-0005301269/0005301269_djvu.txt"
+   },
+   "text": "The same page states: On 8 August 1974, that submarine was brought to the surface in a recovery system designed and developed specifically for that mission.",
+   "tier": 1
+  },
+  "c-ef8c21cd45": {
+   "id": "c-ef8c21cd45",
+   "kind": "claim",
+   "node": "aawsap-dird-series",
+   "nodeLabel": "AAWSAP Defense Intelligence Reference Document series",
+   "source": {
+    "domain": null,
+    "text": "Inference from the full 38-title list",
+    "url": null
+   },
+   "text": "The composition of the series - propulsion physics, exotic materials, metamaterials, metallic glasses, spintronics, biomaterials and a clinical injury study - is the commissioning profile of an organisation attempting to characterise an artefact it possesses, not of an organisation surveying a future threat. No single document states this; the inference is from the set.",
+   "tier": 3
+  },
+  "c-f6da2bc26a": {
+   "id": "c-f6da2bc26a",
+   "kind": "claim",
+   "node": "garry-nolan",
+   "nodeLabel": "Garry Nolan",
+   "source": {
+    "domain": null,
+    "text": "Nolan at SALT iConnections, reported by the New York Post, 23 May 2023",
+    "url": null
+   },
+   "text": "Nolan stated in May 2023 that some governments have retrieved artefacts from extraterrestrial craft and gave '100 percent' probability to long-term extraterrestrial visitation.",
+   "tier": 2
+  },
+  "e-515432576e": {
+   "endpoints": [
+    {
+     "id": "eric-davis",
+     "label": "Eric W. Davis"
+    },
+    {
+     "id": "d-custody",
+     "label": "Chain of custody"
+    }
+   ],
+   "id": "e-515432576e",
+   "kind": "edge",
+   "label": "'We couldn't make it ourselves' - a custody claim with no public chain",
+   "sources": [
+    {
+     "date": "2020-07-23",
+     "name": "Ralph Blumenthal, 'No Longer in the Shadows, Pentagon's U.F.O. Unit Will Make Some Findings Public', The New York Times",
+     "url": "https://www.nytimes.com/2020/07/23/us/politics/pentagon-ufo-harry-reid-navy.html"
+    }
+   ],
+   "text": "Davis's on-record statement about analysed material has never been accompanied by any public documentation of where the material came from, who held it, or where it is now.",
+   "tier": 2,
+   "type": "custody"
+  },
+  "e-72773b3fd6": {
+   "endpoints": [
+    {
+     "id": "d-recovery",
+     "label": "Retrieval & Recovery Operations"
+    },
+    {
+     "id": "d-custody",
+     "label": "Chain of custody"
+    }
+   ],
+   "id": "e-72773b3fd6",
+   "kind": "edge",
+   "label": "Site to container to shelf",
+   "sources": [
+    {
+     "date": "1995-07-28",
+     "name": "GAO/NSIAD-95-187",
+     "url": "https://www.govinfo.gov/content/pkg/GAOREPORTS-NSIAD-95-187/html/GAOREPORTS-NSIAD-95-187.htm"
+    }
+   ],
+   "text": "The custody chain begins at the recovery site; every documented handoff is a scoring opportunity on the C axis.",
+   "tier": 2,
+   "type": "custody"
+  },
+  "e-74432a42eb": {
+   "endpoints": [
+    {
+     "id": "nasa-uap-ist",
+     "label": "NASA UAP Independent Study Team"
+    },
+    {
+     "id": "d-custody",
+     "label": "Chain of custody"
+    }
+   ],
+   "id": "e-74432a42eb",
+   "kind": "edge",
+   "label": "Concluded data was insufficient - having been given only the unclassified record",
+   "sources": [
+    {
+     "date": "2023-09-14",
+     "name": "NASA UAP Independent Study Team Final Report",
+     "url": "https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf"
+    },
+    {
+     "date": "2026-08-12",
+     "name": "Wikipedia: NASA Unidentified Anomalous Phenomena Independent Study Team",
+     "url": "https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team"
+    }
+   ],
+   "text": "Sixteen serious scientists examining only unclassified material concluded that unclassified material is insufficient. The finding measures the panel's access, not the government's holdings.",
+   "tier": 3,
+   "type": "denial"
+  },
+  "e-760dd33b5b": {
+   "endpoints": [
+    {
+     "id": "s-4-papoose-lake",
+     "label": "S-4 / Papoose Lake, Nevada"
+    },
+    {
+     "id": "d-legacy",
+     "label": "Legacy Program"
+    }
+   ],
+   "id": "e-760dd33b5b",
+   "kind": "edge",
+   "label": "The hub's claimed content is a legacy reverse-engineering programme",
+   "sources": [
+    {
+     "date": "1991",
+     "name": "The Lazar Tape, Tri-Dot Productions, 1991",
+     "url": "https://archive.org/details/antigravity"
+    }
+   ],
+   "text": "Tier 3 because it is what is claimed, not what is shown.",
+   "tier": 3,
+   "type": "programmatic"
+  },
+  "e-828a3f3f88": {
+   "endpoints": [
+    {
+     "id": "aawsap-dird-series",
+     "label": "AAWSAP Defense Intelligence Reference Document series"
+    },
+    {
+     "id": "d-custody",
+     "label": "Chain of custody"
+    }
+   ],
+   "id": "e-828a3f3f88",
+   "kind": "edge",
+   "label": "Exhaustive on paper flow, silent on object flow",
+   "sources": [
+    {
+     "date": "2026-08-12",
+     "name": "DIA FOIA Electronic Reading Room - Advanced Aerospace Threat Identification Program",
+     "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FOIA-Reading-Room-Advanced-Aerospace-Threat-Identification-Program/"
+    },
+    {
+     "date": "2019-01-16",
+     "name": "DIA letter to Steven Aftergood listing 38 AATIP reference products",
+     "url": "https://irp.fas.org/dia/aatip-list.pdf"
+    }
+   ],
+   "text": "The released AAWSAP corpus documents control numbers, fiscal years, contract status, statements of work and named programme managers - and contains no record of the receipt, transfer or storage of any physical sample. The asymmetry is the finding.",
+   "tier": 3,
+   "type": "behavioral"
+  },
+  "e-8d79c340a5": {
+   "endpoints": [
+    {
+     "id": "dia-aatip-list-2019",
+     "label": "DIA letter to Steven Aftergood listing 38 AATIP reference products (16 January 2019)"
+    },
+    {
+     "id": "d-custody",
+     "label": "Chain of custody"
+    }
+   ],
+   "id": "e-8d79c340a5",
+   "kind": "edge",
+   "label": "Converted an oral controversy into an enumerated procurement record",
+   "sources": [
+    {
+     "date": "2019-01-17",
+     "name": "Federation of American Scientists, 'AATIP List' (Secrecy News)",
+     "url": "https://fas.org/publication/aatip-list/"
+    },
+    {
+     "date": "2019-01-16",
+     "name": "DIA letter to Steven Aftergood listing 38 AATIP reference products",
+     "url": "https://irp.fas.org/dia/aatip-list.pdf"
+    }
+   ],
+   "text": "Whatever else AATIP/AAWSAP was, the FOIA release proves it bought 38 named studies on wormholes, warp drive, metamaterials, metallic glasses, negative mass propulsion and clinical injury pathology for roughly $22 million.",
+   "tier": 1,
+   "type": "investigative"
+  },
+  "e-b0990e2ba9": {
+   "endpoints": [
+    {
+     "id": "project-azorian",
+     "label": "Project AZORIAN and the Hughes Glomar Explorer"
+    },
+    {
+     "id": "d-custody",
+     "label": "Chain of custody"
+    }
+   ],
+   "id": "e-b0990e2ba9",
+   "kind": "edge",
+   "label": "Covert recovery of foreign hardware under a named commercial cover",
+   "sources": [
+    {
+     "date": "2010-01-04",
+     "name": "PROJECT AZORIAN: THE STORY OF THE HUGHES GLOMAR EXPLORER, CIA reading-room document 0005301269, approved for release 4 January 2010, 50 pages",
+     "url": "https://archive.org/download/cia-readingroom-document-0005301269/0005301269_djvu.txt"
+    }
+   ],
+   "text": "Covert recovery of foreign hardware from the deep ocean under a commercial cover, with a named corporate front, is the custody mechanism this board tracks.",
+   "tier": 1,
+   "type": "custody"
+  },
+  "e-b37b426850": {
+   "endpoints": [
+    {
+     "id": "s-4-papoose-lake",
+     "label": "S-4 / Papoose Lake, Nevada"
+    },
+    {
+     "id": "d-custody",
+     "label": "Chain of custody"
+    }
+   ],
+   "id": "e-b37b426850",
+   "kind": "edge",
+   "label": "Claimed custody of non-human craft at the claimed site",
+   "sources": [
+    {
+     "date": "1991",
+     "name": "The Lazar Tape, Tri-Dot Productions, 1991, captions at 24:24",
+     "url": "https://archive.org/details/antigravity"
+    }
+   ],
+   "text": "Tier 3, same caveat. The claim is that nine discs were held there; nothing documented supports it.",
+   "tier": 3,
+   "type": "custody"
+  },
+  "e-b8c126f90f": {
+   "endpoints": [
+    {
+     "id": "ttsa-army-crada",
+     "label": "CRADA between U.S. Army Ground Vehicle Systems Center and To The Stars Academy"
+    },
+    {
+     "id": "d-custody",
+     "label": "Chain of custody"
+    }
+   ],
+   "id": "e-b8c126f90f",
+   "kind": "edge",
+   "label": "The chain goes dark inside a federal research agreement",
+   "sources": [
+    {
+     "date": "2026-08-12",
+     "name": "Wikipedia: To The Stars Inc.",
+     "url": "https://en.wikipedia.org/wiki/To_the_Stars_(company)."
+    }
+   ],
+   "text": "A CRADA is a records-generating instrument. Seven years after signature, no characterisation of the samples, no technical output and no Army statement of findings has been published. That silence is the darkest segment of the only documented private-to-federal materials transfer.",
+   "tier": 3,
+   "type": "custody"
+  },
+  "e-bb87a8970e": {
+   "endpoints": [
+    {
+     "id": "harold-puthoff",
+     "label": "Harold E. Puthoff"
+    },
+    {
+     "id": "d-custody",
+     "label": "Chain of custody"
+    }
+   ],
+   "id": "e-bb87a8970e",
+   "kind": "edge",
+   "label": "Private, non-FOIA-able laboratory sitting between a government programme and a public company",
+   "sources": [
+    {
+     "date": "2026-08-12",
+     "name": "EarthTech International / Institute for Advanced Studies at Austin",
+     "url": "https://www.earthtech.org/about/"
+    },
+    {
+     "date": "2019-11-14",
+     "name": "M.J. Banias, 'UFO Researcher Explains Why She Sold Exotic Metal to Tom DeLonge', Vice",
+     "url": "https://www.vice.com/en/article/ufo-researcher-explains-why-she-sold-exotic-metal-to-tom-delonge/"
+    },
+    {
+     "date": "2026-08-12",
+     "name": "Wikipedia: To The Stars Inc.",
+     "url": "https://en.wikipedia.org/wiki/To_the_Stars_(company)."
+    }
+   ],
+   "text": "EarthTech has published no analytical results on the samples it has held, and as a private corporation is outside FOIA. Every documented chain that reaches it stops there.",
+   "tier": 3,
+   "type": "custody"
+  },
+  "e-bf549df459": {
+   "endpoints": [
+    {
+     "id": "uap-science-advisory-council",
+     "label": "UAP Science Advisory Council"
+    },
+    {
+     "id": "d-custody",
+     "label": "Chain of custody"
+    }
+   ],
+   "id": "e-bf549df459",
+   "kind": "edge",
+   "label": "No budget, no classified access - constitutionally unable to reach the material",
+   "sources": [
+    {
+     "date": "2026-06-30",
+     "name": "Collin Binkley, 'Harvard professor with polarizing alien theories is picked to lead new White House UFO council', Associated Press",
+     "url": "https://apnews.com/article/trump-ufo-council-avi-loeb-science-uaps-5798dd793b77aeb2d9baa99586ad8a85"
+    },
+    {
+     "date": "2026-06-01",
+     "name": "The Sol Foundation, 'Sol Foundation Co-Founders Named to UAP Science Advisory Council'",
+     "url": "https://thesolfoundation.org/sol-foundation-co-founders-named-to-uap-science-advisory-council/"
+    }
+   ],
+   "text": "The Associated Press reported the council has no budget and no access to classified material, and the Sol Foundation confirmed all shared data is unclassified. An advisory body denied money and clearances cannot audit a special access programme.",
+   "tier": 2,
+   "type": "denial"
+  },
+  "e-c49642e4c9": {
+   "endpoints": [
+    {
+     "id": "d-legacy",
+     "label": "Legacy Program"
+    },
+    {
+     "id": "d-reverse-engineering",
+     "label": "Reverse Engineering"
+    }
+   ],
+   "id": "e-c49642e4c9",
+   "kind": "edge",
+   "label": "Exploitation is the programme's purpose",
+   "sources": [
+    {
+     "date": "2024-02-01",
+     "name": "AARO, Historical Record Report Volume I",
+     "url": "https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf"
+    }
+   ],
+   "text": "The legacy claim and the reverse-engineering claim are the same claim stated at different stages; AARO addresses and rejects both in Volume I.",
+   "tier": 2,
+   "type": "programmatic"
+  },
+  "e-d521b3e581": {
+   "endpoints": [
+    {
+     "id": "cia-prepublication-classification-review-board",
+     "label": "CIA Prepublication Classification Review Board"
+    },
+    {
+     "id": "d-custody",
+     "label": "Chain of custody"
+    }
+   ],
+   "id": "e-d521b3e581",
+   "kind": "edge",
+   "label": "Requires every version of a manuscript surrendered for destruction and removed from the author's hard drive",
+   "sources": [
+    {
+     "date": "2018-11-28",
+     "name": "Prepublication Review Information, CIA reading-room document C06712956, approved for release 28 November 2018",
+     "url": "https://archive.org/download/cia-readingroom-document-06712956/06712956_djvu.txt"
+    }
+   ],
+   "text": "The guidance's own destruction and hard-drive removal provision is a documented custody mechanism operating on an author's text.",
+   "tier": 1,
+   "type": "custody"
+  },
+  "e-de653955eb": {
+   "endpoints": [
+    {
+     "id": "d-legacy",
+     "label": "Legacy Program"
+    },
+    {
+     "id": "d-recovery",
+     "label": "Retrieval & Recovery Operations"
+    }
+   ],
+   "id": "e-de653955eb",
+   "kind": "edge",
+   "label": "Retrieval is the programme's input stage",
+   "sources": [
+    {
+     "date": "2024-02-01",
+     "name": "AARO, Historical Record Report Volume I",
+     "url": "https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf"
+    }
+   ],
+   "text": "Grusch's sworn July 2023 account describes retrieval feeding a multi-decade exploitation effort; AARO's Volume I rejects the claim. Both are on the record.",
+   "tier": 2,
+   "type": "programmatic"
+  },
+  "e-e541b7be8d": {
+   "endpoints": [
+    {
+     "id": "aawsap-dird-series",
+     "label": "AAWSAP Defense Intelligence Reference Document series"
+    },
+    {
+     "id": "dia-aatip-list-2019",
+     "label": "DIA letter to Steven Aftergood listing 38 AATIP reference products (16 January 2019)"
+    }
+   ],
+   "id": "e-e541b7be8d",
+   "kind": "edge",
+   "label": "The 38-title list is the only official enumeration of the series",
+   "sources": [
+    {
+     "date": "2019-01-17",
+     "name": "Federation of American Scientists, 'AATIP List' (Secrecy News)",
+     "url": "https://fas.org/publication/aatip-list/"
+    },
+    {
+     "date": "2019-01-16",
+     "name": "DIA letter to Steven Aftergood listing 38 AATIP reference products",
+     "url": "https://irp.fas.org/dia/aatip-list.pdf"
+    }
+   ],
+   "text": "DIA released the list to Steven Aftergood of FAS on 16 January 2019 under FOIA; it had been provided to Congress in January 2018. Without this release the series would be known only from leaks.",
+   "tier": 1,
+   "type": "investigative"
+  },
+  "e-f8c71a8068": {
+   "endpoints": [
+    {
+     "id": "garry-nolan",
+     "label": "Garry Nolan"
+    },
+    {
+     "id": "d-custody",
+     "label": "Chain of custody"
+    }
+   ],
+   "id": "e-f8c71a8068",
+   "kind": "edge",
+   "label": "Approached by unnamed government and aerospace-corporation representatives about casualty biology",
+   "sources": [
+    {
+     "date": "2021-06-14",
+     "name": "Jon Brooks, 'UFOs: SETI Astronomer, Stanford Researcher, Aerospace Expert Weigh In', KQED",
+     "url": "https://www.kqed.org/science/1975185/ufos-seti-astronomer-stanford-researcher-aerospace-expert-weigh-in"
+    }
+   ],
+   "text": "Nolan told KQED he was approached about medical harm from 'supposed interactions with an anomalous craft'. Neither the government element nor the corporation has ever been named, which is where this chain goes dark at its first link.",
+   "tier": 2,
+   "type": "custody"
+  }
+ },
+ "claimed": [
+  {
+   "cite": [
+    "c-20023fea57",
+    "c-461daa8df0"
+   ],
+   "text": "David Grusch testified under oath on 26 July 2023 that he was informed of a multi-decade crash retrieval and reverse-engineering programme, and that he referred named witnesses to the Intelligence Community Inspector General and to Congress."
+  },
+  {
+   "cite": [
+    "c-83f11537c4"
+   ],
+   "text": "Jake Barber, a former special operations pilot, described by name in a January 2025 interview taking part in UAP retrieval operations."
+  },
+  {
+   "cite": [
+    "c-2451f39f83",
+    "c-337b9b8425",
+    "e-515432576e"
+   ],
+   "text": "Eric Davis told the New York Times he had briefed Senate Armed Services staff and Senate Intelligence members in October 2019 on retrievals of unexplained objects, and a Defense Department agency in March 2020 about retrievals from off-world vehicles not made on this earth; he said of analysed material that we couldn't make it ourselves, and no public documentation of where it came from or who held it has accompanied the statement."
+  },
+  {
+   "cite": [
+    "c-f6da2bc26a",
+    "c-87216993fd",
+    "e-f8c71a8068"
+   ],
+   "text": "Garry Nolan said in 2023 that some governments have retrieved artefacts from extraterrestrial craft, and in 2021 that people representing the government and an aerospace corporation approached him about medical harm from supposed interactions with an anomalous craft; neither has been named."
+  },
+  {
+   "cite": [
+    "c-727721fef0",
+    "e-760dd33b5b",
+    "e-b37b426850"
+   ],
+   "text": "Bob Lazar's 1991 account places nine discs at a claimed site he calls S-4; the board carries that as claimed custody that nothing documented supports."
+  },
+  {
+   "cite": [
+    "c-8a391de51a",
+    "e-bb87a8970e"
+   ],
+   "text": "The private-sector chain is weakly documented: Steve Justice conceded that the ADAM materials were collected from sources with varying levels of chain-of-custody documentation, and the board infers that Harold Puthoff's EarthTech, a private firm outside FOIA, is where documented chains stop, since it has published no results on the samples it held."
+  },
+  {
+   "cite": [
+    "c-609134546a",
+    "c-ef8c21cd45"
+   ],
+   "text": "The board infers, without a document, that any sustained retrieval capability would sit inside existing mishap-recovery, nuclear-response or foreign materiel units, and that the mix of AAWSAP study topics looks like the profile of an organisation characterising an artefact it already holds."
+  }
+ ],
+ "contested": [
+  {
+   "cite": [
+    "c-6c465ee5eb",
+    "e-c49642e4c9",
+    "e-de653955eb"
+   ],
+   "text": "AARO states in Volume I that it found no empirical evidence of reverse engineering of extraterrestrial technology, and the board records that the report addresses and rejects the retrieval claim as well."
+  },
+  {
+   "cite": [
+    "c-43e0daeb69",
+    "c-26858e905a",
+    "c-bf51579601",
+    "c-397d63b6a9"
+   ],
+   "text": "The specimens that have been examined came back ordinary or unresolved: Oak Ridge found conventional aluminium alloy, Puthoff wrote in 2012 that tests on one set of samples had produced no anomalous outcome, and the Nolan and Vallee analysis of the Council Bluffs material found no anomalous isotopic values, only an industrial process of unknown origin."
+  },
+  {
+   "cite": [
+    "c-7a76af2449",
+    "e-74432a42eb",
+    "c-a670522dca",
+    "e-bf549df459"
+   ],
+   "text": "The dismissals are bounded by access: on the board's reading NASA's team saw only unclassified data, so its finding measures its own access, and the new advisory council has no budget and no classified access at all."
+  },
+  {
+   "cite": [
+    "c-8d469b4fee"
+   ],
+   "text": "Davis's own antigravity survey for DIA, one of the 38 products, concludes that every proposed device faces daunting technical challenges."
+  },
+  {
+   "cite": [
+    "c-0d0224cc36",
+    "c-047e85bc72"
+   ],
+   "text": "Claims drift when retold: UAP Gerb described the Glomar Explorer as leased to Lockheed Martin for twenty years, while the CIA history names Lockheed only as one member of a four-company consortium readying the ship for mining in 1978."
+  },
+  {
+   "cite": [
+    "c-a64ba4a596"
+   ],
+   "text": "The counter-explanation to Lazar's site comes from two people by unrelated routes: Tom Mahood concludes that there is nothing at Papoose Lake and that S-4 refers to a radar facility at the Tonopah Test Range, while T.D. Barnes, a former CIA and NASA engineer who worked at Groom Lake, says the real Site 4 is a remote radar site north of the main facility and that this, not an underground base, is what Lazar referred to."
+  },
+  {
+   "cite": [
+    "c-c96ffffc9a"
+   ],
+   "text": "AARO's Volume I concludes that the Roswell materials were consistent with a Project Mogul balloon and that there is no evidence the government recovered aliens or extraterrestrial material."
+  }
+ ],
  "essays": [],
  "focusEra": "3",
  "id": "legacy-programme",
  "kind": "explainer",
- "lead": null,
- "members": [],
+ "lead": {
+  "cite": [
+   "c-20023fea57",
+   "e-de653955eb",
+   "e-c49642e4c9",
+   "c-6c465ee5eb",
+   "c-bd5060c173"
+  ],
+  "text": "The legacy programme allegation is the central allegation the board maps: that a multi-decade effort has retrieved craft and material, held them, and tried to reverse-engineer them outside the acknowledged record. It rests on testimony, most prominently David Grusch's sworn account of 2023; AARO says it found no empirical evidence of reverse engineering, and no released AAWSAP-era document records the receipt, transfer or storage of any physical sample."
+ },
+ "members": [
+  {
+   "cls": "person",
+   "id": "eric-davis",
+   "label": "Eric W. Davis",
+   "role": "claimant"
+  },
+  {
+   "cls": "person",
+   "id": "garry-nolan",
+   "label": "Garry Nolan",
+   "role": "researcher"
+  },
+  {
+   "cls": "person",
+   "id": "harold-puthoff",
+   "label": "Harold E. Puthoff",
+   "role": "researcher"
+  },
+  {
+   "cls": "location",
+   "id": "s-4-papoose-lake",
+   "label": "S-4 / Papoose Lake, Nevada",
+   "role": "place"
+  },
+  {
+   "cls": "program",
+   "id": "aawsap-dird-series",
+   "label": "AAWSAP Defense Intelligence Reference Document series",
+   "role": "document"
+  },
+  {
+   "cls": "document",
+   "id": "dia-aatip-list-2019",
+   "label": "DIA letter to Steven Aftergood listing 38 AATIP reference products (16 January 2019)",
+   "role": "document"
+  },
+  {
+   "cls": "document",
+   "id": "ttsa-army-crada",
+   "label": "CRADA between U.S. Army Ground Vehicle Systems Center and To The Stars Academy",
+   "role": "document"
+  },
+  {
+   "cls": "program",
+   "id": "nasa-uap-ist",
+   "label": "NASA UAP Independent Study Team",
+   "role": "programme"
+  },
+  {
+   "cls": "institution",
+   "id": "uap-science-advisory-council",
+   "label": "UAP Science Advisory Council",
+   "role": "institution"
+  },
+  {
+   "cls": "institution",
+   "id": "cia-prepublication-classification-review-board",
+   "label": "CIA Prepublication Classification Review Board",
+   "role": "institution"
+  },
+  {
+   "cls": "program",
+   "id": "project-azorian",
+   "label": "Project AZORIAN and the Hughes Glomar Explorer",
+   "role": "programme"
+  },
+  {
+   "cls": "document",
+   "id": "aaro-historical-record-vol1",
+   "label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
+   "role": "document"
+  }
+ ],
  "notes": "Added: an explainer for the board's central claim, absorbing the four domain nodes that name it. It says what is alleged and what the record does and does not show; every specific allegation is its own topic.",
- "questions": [],
- "record": [],
- "related": [],
+ "questions": [
+  "Is there any record, anywhere, of the receipt, transfer or storage of a recovered physical object, as opposed to reports and memoranda about one?",
+  "Who were the government element and the aerospace corporation that approached Nolan, and where did the material Davis described come from?",
+  "What did the Army's cooperative research agreement with To The Stars actually find, and why were its emails withheld in full?",
+  "If a retrieval capability exists, which existing unit would carry it, and would its records show it?",
+  "Would any official review with classified access reach the same finding as AARO's Volume I?"
+ ],
+ "record": [
+  {
+   "cite": [
+    "c-4efeb1ec9c",
+    "c-4dc07286b1"
+   ],
+   "text": "Roswell Army Air Field announced on 8 July 1947 that the 509th Bomb Group had come into possession of a flying disc and retracted it the same day; GAO's 1995 search found the base's outgoing messages for 1946 to 1949 destroyed with no disposition authority."
+  },
+  {
+   "cite": [
+    "c-a1b107a1b3",
+    "c-ab45f9d795",
+    "c-ab6f1c3ce1",
+    "e-e541b7be8d",
+    "e-8d79c340a5"
+   ],
+   "text": "DIA released to Steven Aftergood on 16 January 2019 a list of 38 AATIP research products, given to Congress a year earlier, for work costing about $22 million from 2007 to 2012; the reading room holds them beside the statement of work, contract status briefs and the Reid correspondence."
+  },
+  {
+   "cite": [
+    "c-bd5060c173"
+   ],
+   "text": "No released AAWSAP-era document records the receipt, transfer or storage of a physical sample, despite the release of the statement of work, status briefs, the 38 titles and internal memoranda."
+  },
+  {
+   "cite": [
+    "c-96458686ee",
+    "c-6c465ee5eb",
+    "c-43e0daeb69",
+    "c-449f830724"
+   ],
+   "text": "AARO's Volume I, released in 2024, states that it found no empirical evidence that the government or private companies reverse-engineered extraterrestrial technology; its January 2026 supplement reports that Oak Ridge found a specimen from Flint Ridge, Ohio consistent with conventional aluminium casting alloys. The DoD Inspector General's UAP evaluation was released in summary on 25 January 2024."
+  },
+  {
+   "cite": [
+    "c-925dda206a",
+    "c-8ccc9f233c",
+    "c-4711e15514",
+    "c-4ded6c289b"
+   ],
+   "text": "The Army's Ground Vehicle Systems Center signed a cooperative research agreement with To The Stars Academy on 10 October 2019 covering areas such as inertial mass reduction and metamaterials; AARO confirms that the organisation owning alleged crash material agreed in 2019 with the Army to analyse the samples, and in 2020 the Army denied in full a FOIA request for 29 emails of their correspondence."
+  },
+  {
+   "cite": [
+    "c-47496ed0dc",
+    "c-d7ffce06ef",
+    "c-80a5d72c03",
+    "c-20b405889c",
+    "e-b0990e2ba9"
+   ],
+   "text": "The CIA's own released history of Project AZORIAN documents a real covert recovery of foreign hardware under commercial cover: a Soviet submarine lost in March 1968 was raised on 8 August 1974 by a system built for the purpose, and the Agency still withholds the other contractors, the technology and the funding."
+  },
+  {
+   "cite": [
+    "c-5bc206eaf4",
+    "e-d521b3e581"
+   ],
+   "text": "The CIA's prepublication guidance requires an author whose manuscript is found to contain classified information to return every version for destruction and remove it from their hard drive."
+  },
+  {
+   "cite": [
+    "c-9aa45b3f05",
+    "c-43b4b8de1c",
+    "c-26d16e3ba7",
+    "c-75434e22cc"
+   ],
+   "text": "NASA's independent study team reported in September 2023 that it found no evidence of extraterrestrial origin, and the UAP Science Advisory Council announced in June 2026 will receive only unclassified data."
+  }
+ ],
+ "related": [
+  "grusch-allegations",
+  "crash-claims",
+  "specimens",
+  "named-contractors",
+  "aawsap-baass",
+  "aaro-historical-record",
+  "roswell-1947",
+  "wilson-davis-notes"
+ ],
  "section": "custody-allegations",
  "span": {
   "from": "1947",
   "to": "2026"
  },
- "status": "draft",
- "summary": [],
+ "status": "verified",
+ "summary": [
+  {
+   "cite": [
+    "e-de653955eb",
+    "e-c49642e4c9",
+    "e-72773b3fd6"
+   ],
+   "text": "The claim has three stages that the board treats as one: retrieval feeds the programme, exploitation is its purpose, and custody runs from the recovery site to wherever the material is kept."
+  },
+  {
+   "cite": [
+    "c-20023fea57",
+    "c-83f11537c4",
+    "e-515432576e",
+    "e-f8c71a8068"
+   ],
+   "text": "The case for it is testimony: Grusch under oath, named witnesses such as Jake Barber, and scientists such as Eric Davis and Garry Nolan who say they have been told of or approached about recovered material. Each specific allegation has its own topic."
+  },
+  {
+   "cite": [
+    "c-96458686ee",
+    "c-43e0daeb69"
+   ],
+   "text": "The official answer is AARO's Volume I, which says it found no empirical evidence of reverse engineering by the government or private companies; an Oak Ridge analysis, reported by AARO in January 2026, found one specimen consistent with conventional aluminium alloys."
+  },
+  {
+   "cite": [
+    "c-bd5060c173",
+    "e-828a3f3f88",
+    "e-b8c126f90f",
+    "e-bb87a8970e"
+   ],
+   "text": "Between the two sits the custody gap: the released AAWSAP record documents paper in detail and objects not at all, and on the board's reading every documented chain of custody goes dark at a private or classified link."
+  }
+ ],
  "title": "The legacy programme allegation: retrieval, custody and reverse engineering"
 }

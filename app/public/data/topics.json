@@ -1,13 +1,13 @@
 {
  "coverage": {
   "nodes": {
-   "covered": 0,
-   "share": 0.0,
+   "covered": 1040,
+   "share": 0.963,
    "total": 1080
   },
   "people": {
-   "covered": 0,
-   "share": 0.0,
+   "covered": 337,
+   "share": 0.9601,
    "total": 351
   }
  },
@@ -74,1134 +74,1134 @@
    "title": "Media, civilian research and the movement"
   }
  ],
- "source": "c3cf61e1a6ed",
+ "source": "8881f54ee80b",
  "topics": [
   {
    "counts": {
-    "cites": 0,
-    "members": 0,
-    "questions": 0
+    "cites": 103,
+    "members": 41,
+    "questions": 7
    },
    "focusEra": "3",
    "id": "aaro",
    "kind": "programme",
-   "lead": null,
+   "lead": "AARO is the Pentagon office created by a Deputy Secretary of Defense memorandum of 15 July 2022 as the Department's authoritative office for UAP. Its reports and its director's testimony say it has found no verifiable evidence of extraterrestrial technology, while its director also says it has some very anomalous objects.",
    "researchGap": false,
    "section": "official-study",
    "span": {
     "from": "2022",
     "to": "2026"
    },
-   "status": "draft",
+   "status": "verified",
    "title": "AARO, 2022 to now"
   },
   {
    "counts": {
-    "cites": 0,
-    "members": 0,
-    "questions": 0
+    "cites": 84,
+    "members": 18,
+    "questions": 5
    },
    "focusEra": "3",
    "id": "aaro-historical-record",
    "kind": "document",
-   "lead": null,
+   "lead": "Volume I of AARO's Historical Record Report, released on 8 March 2024, concludes that there is no empirical evidence that the US government and private companies have been reverse-engineering extraterrestrial technology. The Volume II it promised, owed under the same statutory requirement, had not been published as of August 2026.",
    "researchGap": false,
    "section": "official-study",
    "span": {
     "from": "2024",
     "to": "2025"
    },
-   "status": "draft",
+   "status": "verified",
    "title": "AARO's historical record reports and their critics"
   },
   {
    "counts": {
-    "cites": 0,
-    "members": 0,
-    "questions": 0
+    "cites": 114,
+    "members": 46,
+    "questions": 7
    },
    "focusEra": "3",
    "id": "aatip-elizondo",
    "kind": "saga",
-   "lead": null,
+   "lead": "AATIP is the name under which the Pentagon's Reid-funded study of advanced aerospace threats became public in December 2017, and Luis Elizondo is the former OUSD(I) official who says he ran it. The Department has said since 2019 that he had no assigned responsibilities for it, and no charter has been released that settles the question either way.",
    "researchGap": false,
    "section": "official-study",
    "span": {
     "from": "2008",
     "to": "2024"
    },
-   "status": "draft",
+   "status": "verified",
    "title": "AATIP and Luis Elizondo"
   },
   {
    "counts": {
-    "cites": 0,
-    "members": 0,
-    "questions": 0
+    "cites": 108,
+    "members": 36,
+    "questions": 7
    },
    "focusEra": "2",
    "id": "aawsap-baass",
    "kind": "programme",
-   "lead": null,
+   "lead": "AAWSAP was a Defense Intelligence Agency programme, paid for with $22 million appropriated at Senator Harry Reid's direction, under which Robert Bigelow's company BAASS, the only bidder, studied far-term foreign aerospace threats from 2008. The Department's own 2024 history confirms that the contractor also conducted UFO research and investigated a Utah ranch owned by its head.",
    "researchGap": false,
    "section": "official-study",
    "span": {
     "from": "2007",
     "to": "2012"
    },
-   "status": "draft",
+   "status": "verified",
    "title": "AAWSAP and BAASS, 2007-2012"
   },
   {
    "counts": {
-    "cites": 0,
-    "members": 0,
-    "questions": 0
+    "cites": 114,
+    "members": 38,
+    "questions": 7
    },
    "focusEra": "3",
    "id": "academic-science",
    "kind": "movement",
-   "lead": null,
+   "lead": "Since 2019 a small group of working scientists has put UAP questions into peer-reviewed journals, with a Stanford materials study and an Albany-led kinematics paper and field expedition, while SCU has deposited FOIA-based sensor reconstructions with DOIs. The Sol Foundation, co-founded by Garry Nolan, says it has advised legislatures, and in June 2026 several of its people were named to an advisory council that is to see only unclassified data.",
    "researchGap": false,
    "section": "science-technology",
    "span": {
     "from": "2019",
     "to": "2026"
    },
-   "status": "draft",
+   "status": "verified",
    "title": "Academic UAP science: Sol, Nolan, Santa Clara and UAPx"
   },
   {
    "counts": {
-    "cites": 0,
-    "members": 0,
-    "questions": 0
+    "cites": 77,
+    "members": 28,
+    "questions": 7
    },
    "focusEra": "0",
    "id": "area-51-ranges",
    "kind": "institution",
-   "lead": null,
+   "lead": "Area 51 at Groom Lake is a real CIA and Air Force test site whose founding the CIA's own history documents, and which presidents have exempted from environmental disclosure every year since 1995. Around that documented core sit allegations about recovered craft, such as Bob Lazar's account of a site south of Groom Lake and a former EG&G manager's reported statement that they had a saucer recovered from New Mexico.",
    "researchGap": false,
    "section": "custody-allegations",
    "span": {
     "from": "1955",
     "to": "2026"
    },
-   "status": "draft",
+   "status": "verified",
    "title": "Area 51 and the Nevada ranges"
   },
   {
    "counts": {
-    "cites": 0,
-    "members": 0,
-    "questions": 0
+    "cites": 73,
+    "members": 13,
+    "questions": 7
    },
    "focusEra": "1",
    "id": "arv-fluxliner",
    "kind": "allegation",
-   "lead": null,
+   "lead": "The Alien Reproduction Vehicle, or Flux Liner, is a saucer said to have been shown to invited guests in a hangar at Norton Air Force Base in November 1988. Every substantive claim about it traces to one man, known only as Brad, whose 1990 interview survives; the illustrator Mark McCandlish, who was not there, drew it and gave it its names in print in 2001.",
    "researchGap": false,
    "section": "custody-allegations",
    "span": {
     "from": "1988",
     "to": "2023"
    },
-   "status": "draft",
+   "status": "verified",
    "title": "The claimed ARV, or Flux Liner, and the Norton 1988 exhibit"
   },
   {
    "counts": {
-    "cites": 0,
-    "members": 0,
-    "questions": 0
+    "cites": 67,
+    "members": 17,
+    "questions": 5
    },
    "focusEra": "3",
    "id": "astronomers-searches",
    "kind": "programme",
-   "lead": null,
+   "lead": "Astronomers have taken two routes to evidence that no agency holds: the Harvard-based Galileo Project, which builds its own observatories and searched the Pacific seabed for fragments of a bolide argued to be interstellar, and Beatriz Villarroel's VASCO search of sky-survey plates exposed before the first satellite. Both publish in mainstream journals, and the bolide claims were contested there.",
    "researchGap": false,
    "section": "science-technology",
    "span": {
     "from": "2017",
     "to": "2026"
    },
-   "status": "draft",
+   "status": "verified",
    "title": "Astronomers' searches: the Galileo Project, Avi Loeb and VASCO"
   },
   {
    "counts": {
-    "cites": 0,
-    "members": 0,
-    "questions": 0
+    "cites": 116,
+    "members": 37,
+    "questions": 8
    },
    "focusEra": "0",
    "id": "atomic-secrecy",
    "kind": "mechanism",
-   "lead": null,
+   "lead": "The Atomic Energy Act made weapons information secret by category, as Restricted Data, and the executive classification orders say themselves that this statutory category lies outside their reach. This topic follows that regime from the 1946 Act and the Atomic Energy Commission to the Department of Energy and its weapons laboratories, and sets the documented machinery beside the allegation that it was used to shelter a recovery programme.",
    "researchGap": false,
    "section": "secrecy-machinery",
    "span": {
     "from": "1946",
     "to": "2026"
    },
-   "status": "draft",
+   "status": "verified",
    "title": "Atomic secrecy and the weapons laboratories"
   },
   {
    "counts": {
-    "cites": 0,
-    "members": 0,
-    "questions": 0
+    "cites": 71,
+    "members": 21,
+    "questions": 6
    },
    "focusEra": "1",
    "id": "aviation-cases",
    "kind": "incident",
-   "lead": null,
+   "lead": "The aviation cases here are the ones where a crew's report produced a government file: Japan Air Lines flight 1628 over Alaska, investigated by the FAA and surviving as more than 1,500 pages at the National Archives, and the Imperial Iranian Air Force F-4 intercepts over Tehran in September 1976, reported to DIA by the US defence attache.",
    "researchGap": false,
    "section": "encounters-witnesses",
    "span": {
     "from": "1976",
     "to": "2024"
    },
-   "status": "draft",
+   "status": "verified",
    "title": "Pilot encounters: JAL 1628, Tehran 1976 and other aviation cases"
   },
   {
    "counts": {
-    "cites": 0,
-    "members": 0,
-    "questions": 0
+    "cites": 56,
+    "members": 18,
+    "questions": 6
    },
    "focusEra": "0",
    "id": "battelle-nitinol",
    "kind": "allegation",
-   "lead": null,
+   "lead": "Researchers allege that Battelle Memorial Institute studied a shape-memory metal recovered at Roswell in 1947, and that its 1948-49 nickel-titanium reports for Wright-Patterson are missing from both archives. The federal record, including a NASA review Battelle itself wrote, credits nitinol to the Naval Ordnance Laboratory, whose earliest cited nitinol report is dated 3 August 1961, and gives Battelle only a later subcontracting role.",
    "researchGap": false,
    "section": "custody-allegations",
    "span": {
     "from": "1951",
     "to": "2026"
    },
-   "status": "draft",
+   "status": "verified",
    "title": "The Battelle nitinol allegation and the Naval Ordnance Laboratory record"
   },
   {
    "counts": {
-    "cites": 0,
-    "members": 0,
-    "questions": 0
+    "cites": 87,
+    "members": 24,
+    "questions": 8
    },
    "focusEra": "2",
    "id": "biology-medical",
    "kind": "allegation",
-   "lead": null,
+   "lead": "The board keeps two things apart: the claim that non-human biologics have been recovered, for which no material has been released, and a documented record of injuries attributed to encounters, chiefly the DIA-commissioned AAWSAP medical studies and the Cash-Landrum lawsuit, dismissed in 1986.",
    "researchGap": false,
    "section": "science-technology",
    "span": {
     "from": "1980",
     "to": "2026"
    },
-   "status": "draft",
+   "status": "verified",
    "title": "Claims of biologics, and documented medical effects"
   },
   {
    "counts": {
-    "cites": 0,
-    "members": 0,
-    "questions": 0
+    "cites": 111,
+    "members": 29,
+    "questions": 8
    },
    "focusEra": "2",
    "id": "black-budget",
    "kind": "mechanism",
-   "lead": null,
+   "lead": "Congress funds classified work in two ways the public can see only from the outside: as rows in the printed defense tables titled CLASSIFIED PROGRAMS with a number and nothing else, and through a classified annex and a classified schedule that the statutes give the force of law but never publish. For intelligence, the public is told two aggregate numbers a year and no breakdown of any kind.",
    "researchGap": false,
    "section": "secrecy-machinery",
    "span": {
     "from": "1947",
     "to": "2026"
    },
-   "status": "draft",
+   "status": "verified",
    "title": "The classified budget: annexes, the NIP and the MIP"
   },
   {
    "counts": {
-    "cites": 0,
-    "members": 0,
-    "questions": 0
+    "cites": 100,
+    "members": 36,
+    "questions": 6
    },
    "focusEra": "0",
    "id": "blue-book",
    "kind": "programme",
-   "lead": null,
+   "lead": "Project Blue Book was the US Air Force's public UFO investigation, the successor to GRUDGE from March 1952, and it was terminated on 17 December 1969 with 12,618 sightings recorded, of which 701 remained unidentified. The general who recommended closing it wrote that reports which could affect national security were made under JANAP 146 or AFM 55-11 and were not part of the Blue Book system.",
    "researchGap": false,
    "section": "early-record",
    "span": {
     "from": "1952",
     "to": "1970"
    },
-   "status": "draft",
+   "status": "verified",
    "title": "Project Blue Book, 1952-1969"
   },
   {
    "counts": {
-    "cites": 0,
-    "members": 0,
-    "questions": 0
+    "cites": 75,
+    "members": 27,
+    "questions": 7
    },
    "focusEra": "1",
    "id": "brazil",
    "kind": "nation",
-   "lead": null,
+   "lead": "Brazil is the board's counter-example: its Air Force chased unidentified radar plots across four states on the night of 19 May 1986, its own Air Defence Command reported the phenomena as solid and showing a form of intelligence, and its UFO records now sit in the national archive.",
    "researchGap": false,
    "section": "other-nations",
    "span": {
     "from": "1977",
     "to": "2026"
    },
-   "status": "draft",
+   "status": "verified",
    "title": "Brazil: Operacao Prato, the 1986 night and Varginha"
   },
   {
    "counts": {
-    "cites": 0,
-    "members": 0,
-    "questions": 0
+    "cites": 63,
+    "members": 17,
+    "questions": 5
    },
    "focusEra": "0",
    "id": "canada",
    "kind": "nation",
-   "lead": null,
+   "lead": "Canada's government record on UFOs runs from Project Magnet, a Department of Transport engineer's 1950 study of whether UFOs could draw propulsion from the Earth's magnetic field, to the 2025 Sky Canada Project, a federal science review that found reports scattered across departments and recommended a dedicated public service.",
    "researchGap": false,
    "section": "other-nations",
    "span": {
     "from": "1950",
     "to": "2026"
    },
-   "status": "draft",
+   "status": "verified",
    "title": "Canada: Project Magnet and Sky Canada"
   },
   {
    "counts": {
-    "cites": 0,
-    "members": 0,
-    "questions": 0
+    "cites": 95,
+    "members": 21,
+    "questions": 7
    },
    "focusEra": "2",
    "id": "carve-outs",
    "kind": "mechanism",
-   "lead": null,
+   "lead": "A carve-out is a provision, approved only by the Secretary or Deputy Secretary of Defense, that relieves the Defense Counterintelligence and Security Agency of its industrial security oversight of a special access programme held at a contractor. Where one is signed, the outside inspection, the accreditation of the programme's computers and the counterintelligence cross-sharing stop as DCSA functions, and oversight passes to the programme's own component procedures, which must at a minimum meet the industrial security manual's standards and frequency.",
    "researchGap": false,
    "section": "secrecy-machinery",
    "span": {
     "from": "1987",
     "to": "2024"
    },
-   "status": "draft",
+   "status": "verified",
    "title": "Carve-outs and contractor security oversight"
   },
   {
    "counts": {
-    "cites": 0,
-    "members": 0,
-    "questions": 0
+    "cites": 93,
+    "members": 16,
+    "questions": 6
    },
    "focusEra": "0",
    "id": "cia-secrecy-precedents",
    "kind": "institution",
-   "lead": null,
+   "lead": "The CIA's own records show it running programmes outside its normal controls and then losing or destroying the paper: MKULTRA was authorised with normal approval, funding and accounting procedures waived, its files were destroyed on a verbal order in January 1973, and what survived was found only because a FOIA request sent Agency staff into the retired records. This topic carries that case, the death of Frank Olson and Project AZORIAN as documented precedents for concealment.",
    "researchGap": false,
    "section": "secrecy-machinery",
    "span": {
     "from": "1950",
     "to": "1977"
    },
-   "status": "draft",
+   "status": "verified",
    "title": "CIA secrecy precedents: MKULTRA, the Olson death and Azorian"
   },
   {
    "counts": {
-    "cites": 0,
-    "members": 0,
-    "questions": 0
+    "cites": 103,
+    "members": 33,
+    "questions": 8
    },
    "focusEra": "1",
    "id": "civilian-groups",
    "kind": "movement",
-   "lead": null,
+   "lead": "From NICAP in 1956 to MUFON, CUFOS and the Fund for UFO Research, civilian groups collected case files, lobbied Congress and launched the crash-retrieval literature. The documents show former officials on their boards and intelligence agencies watching them, and on occasion the groups discrediting their own witnesses.",
    "researchGap": false,
    "section": "media-movement",
    "span": {
     "from": "1956",
     "to": "2026"
    },
-   "status": "draft",
+   "status": "verified",
    "title": "Civilian research groups and the disclosure movement"
   },
   {
    "counts": {
-    "cites": 0,
-    "members": 0,
-    "questions": 0
+    "cites": 103,
+    "members": 23,
+    "questions": 7
    },
    "focusEra": "1",
    "id": "classification-orders",
    "kind": "mechanism",
-   "lead": null,
+   "lead": "The rules for classifying national security information come from a chain of executive orders: EO 10501 of 1953, superseded by EO 11652 in 1972, which EO 12065 revoked in 1978, which EO 12356 revoked in 1982, and EO 13526 of 2009, under whose section 4.3 special access programmes are created. Each order changed what may be kept secret, for how long and under whose oversight.",
    "researchGap": false,
    "section": "secrecy-machinery",
    "span": {
     "from": "1953",
     "to": "2009"
    },
-   "status": "draft",
+   "status": "verified",
    "title": "Classification orders from EO 10501 to EO 13526"
   },
   {
    "counts": {
-    "cites": 0,
-    "members": 0,
-    "questions": 0
+    "cites": 61,
+    "members": 19,
+    "questions": 6
    },
    "focusEra": "0",
    "id": "condon-1966-69",
    "kind": "programme",
-   "lead": null,
+   "lead": "Six months after a one-day House hearing in April 1966, the Air Force contracted the University of Colorado to study UFOs under Edward U. Condon. The Air Force then cited the Colorado study and a National Academy of Sciences review of it when it ended Project Blue Book on 17 December 1969.",
    "researchGap": false,
    "section": "early-record",
    "span": {
     "from": "1966",
     "to": "1970"
    },
-   "status": "draft",
+   "status": "verified",
    "title": "The Condon Committee and the end of Blue Book, 1966-69"
   },
   {
    "counts": {
-    "cites": 0,
-    "members": 0,
-    "questions": 0
+    "cites": 93,
+    "members": 20,
+    "questions": 9
    },
    "focusEra": "3",
    "id": "congressional-witnesses",
    "kind": "saga",
-   "lead": null,
+   "lead": "Since David Grusch's sworn testimony in July 2023, witnesses have taken UAP accounts to Congress by different routes: some sworn at open hearings, like Dylan Borland, Jeffrey Nuccetelli and George Knapp on 9 September 2025, and some only on paper, like Michael Herrera, whose written testimony, supplied by Steven Greer, a member entered into the record without his appearing.",
    "researchGap": false,
    "section": "encounters-witnesses",
    "span": {
     "from": "2023",
     "to": "2026"
    },
-   "status": "draft",
+   "status": "verified",
    "title": "Witnesses who have gone to Congress, and what the record corroborates"
   },
   {
    "counts": {
-    "cites": 0,
-    "members": 0,
-    "questions": 0
+    "cites": 18,
+    "members": 4,
+    "questions": 7
    },
    "focusEra": "1",
    "id": "corso-day-after",
    "kind": "saga",
-   "lead": null,
+   "lead": "Philip Corso was a real Army officer whose own service record shows three months in 1962 as chief of a Foreign Technology Division in the Office of the Chief of Research and Development, the office Lt. Gen. Arthur Trudeau is last recorded heading in March 1962. So far the board carries his service and FBI records and his 1998 affidavit, which the service record contradicts on one point.",
    "researchGap": true,
    "section": "custody-allegations",
    "span": {
     "from": "1947",
     "to": "1998"
    },
-   "status": "draft",
+   "status": "verified",
    "title": "Philip Corso's account"
   },
   {
    "counts": {
-    "cites": 0,
-    "members": 0,
-    "questions": 0
+    "cites": 78,
+    "members": 25,
+    "questions": 6
    },
    "focusEra": "0",
    "id": "crash-claims",
    "kind": "allegation",
-   "lead": null,
+   "lead": "Apart from Roswell, the early crash-retrieval stories are allegations: they begin with Frank Scully's account of a disc recovered near Aztec, New Mexico, whose sources were convicted of fraud in 1953, and they were gathered into a literature by Leonard Stringfield's Status Reports from July 1978 to February 1994.",
    "researchGap": false,
    "section": "early-record",
    "span": {
     "from": "1947",
     "to": "1978"
    },
-   "status": "draft",
+   "status": "verified",
    "title": "Other crash-retrieval claims, 1947-1965: Aztec, San Agustin, Kingman, Kecksburg"
   },
   {
    "counts": {
-    "cites": 0,
-    "members": 0,
-    "questions": 0
+    "cites": 79,
+    "members": 20,
+    "questions": 7
    },
    "focusEra": "3",
    "id": "denial-ledger",
    "kind": "mechanism",
-   "lead": null,
+   "lead": "The board treats each official denial as a dated, attributable document: who said what, when, and in what words. Read as a ledger, the Pentagon's statements on AATIP moved from acknowledgement to flat denial to partial concession, while its denial that Luis Elizondo ran the programme never moved.",
    "researchGap": false,
    "section": "case-against",
    "span": {
     "from": "1947",
     "to": "2026"
    },
-   "status": "draft",
+   "status": "verified",
    "title": "What the government denies, and how"
   },
   {
    "counts": {
-    "cites": 0,
-    "members": 0,
-    "questions": 0
+    "cites": 82,
+    "members": 67,
+    "questions": 6
    },
    "focusEra": "2",
    "id": "dirds",
    "kind": "document",
-   "lead": null,
+   "lead": "The Defense Intelligence Reference Documents are the 38 technical reports produced for DIA under the AAWSAP contract, on subjects running from fusion propulsion and invisibility cloaking to warp drive, wormholes and field effects on biological tissue. DIA gave Congress the list of titles and authors in January 2018, and 37 of the 38 papers are listed as released.",
    "researchGap": false,
    "section": "official-study",
    "span": {
     "from": "2009",
     "to": "2019"
    },
-   "status": "draft",
+   "status": "verified",
    "title": "The Defense Intelligence Reference Documents"
   },
   {
    "counts": {
-    "cites": 0,
-    "members": 0,
-    "questions": 0
+    "cites": 97,
+    "members": 19,
+    "questions": 7
    },
    "focusEra": "2",
    "id": "disclosure-project-2001",
    "kind": "movement",
-   "lead": null,
+   "lead": "The Disclosure Project, which by published accounts Steven Greer founded in 1993, published a Briefing Document in April 2001 printing sixty-eight witness testimonies, with Greer himself the interviewer in every transcript, and on 9 May 2001 put about twenty former government workers before the press at the National Press Club.",
    "researchGap": false,
    "section": "encounters-witnesses",
    "span": {
     "from": "1993",
     "to": "2001"
    },
-   "status": "draft",
+   "status": "verified",
    "title": "The Disclosure Project, 2001"
   },
   {
    "counts": {
-    "cites": 0,
-    "members": 0,
-    "questions": 0
+    "cites": 72,
+    "members": 27,
+    "questions": 5
    },
    "focusEra": "3",
    "id": "documentaries",
    "kind": "movement",
-   "lead": null,
+   "lead": "Films, series and books carry the modern UAP story to the public, and on this board they are records of what was asserted, not evidence of it. The documented part is what followed them: the History series on Luis Elizondo was followed by the Pentagon statement that he had no AATIP responsibilities, and, by Elizondo's sworn account, his book passed the Department's prepublication review.",
    "researchGap": false,
    "section": "media-movement",
    "span": {
     "from": "1950",
     "to": "2026"
    },
-   "status": "draft",
+   "status": "verified",
    "title": "Documentaries and books"
   },
   {
    "counts": {
-    "cites": 0,
-    "members": 0,
-    "questions": 0
+    "cites": 73,
+    "members": 17,
+    "questions": 7
    },
    "focusEra": "1",
    "id": "dulce",
    "kind": "allegation",
-   "lead": null,
+   "lead": "Dulce Base is the allegation of a joint human and alien facility under Archuleta Mesa, New Mexico. No record the board has opened places any facility there, a researcher who has worked the question since 1988 concludes it does not seem to exist, and the story's central insider, Thomas Castello, was confessed in 2015 as an invention by the man who says he wrote the original articles and mailed a hundred packets to make the story look independently sourced.",
    "researchGap": false,
    "section": "case-against",
    "span": {
     "from": "1979",
     "to": "2021"
    },
-   "status": "draft",
+   "status": "verified",
    "title": "Dulce Base: an allegation and its origins"
   },
   {
    "counts": {
-    "cites": 0,
-    "members": 0,
-    "questions": 0
+    "cites": 114,
+    "members": 55,
+    "questions": 6
    },
    "focusEra": "3",
    "id": "ffrdc-probes",
    "kind": "allegation",
-   "lead": null,
+   "lead": "Under the federal acquisition rules, federally funded research and development centres have access to government and supplier data beyond that of a normal contractor. In May 2026 Rep. Eric Burlison sent records demands to MIT Lincoln Laboratory and MITRE, and named RAND and the Aerospace Corporation as on his trail; in August a pseudonymous researcher, UAP Gerb, published an investigation alleging that MITRE has helped reverse-engineer recovered technology since 1958. The regulation and the letters are on record; the custody allegation is a researcher's claim.",
    "researchGap": false,
    "section": "custody-allegations",
    "span": {
     "from": "1947",
     "to": "2026"
    },
-   "status": "draft",
+   "status": "verified",
    "title": "FFRDCs and the 2026 contractor probes"
   },
   {
    "counts": {
-    "cites": 0,
-    "members": 0,
-    "questions": 0
+    "cites": 126,
+    "members": 35,
+    "questions": 8
    },
    "focusEra": "1",
    "id": "foia-litigation",
    "kind": "mechanism",
-   "lead": null,
+   "lead": "Almost every primary document in this field arrived through FOIA or archival release, much of it forced out by private requesters and litigants. This topic follows the requests and the lawsuits, from CAUS v. NSA, where a judge read the NSA's reasons for withholding its UFO records in secret and ruled for the agency, to the Black Vault's requests and the statutory and executive releases of 2025 and 2026.",
    "researchGap": false,
    "section": "secrecy-machinery",
    "span": {
     "from": "1976",
     "to": "2026"
    },
-   "status": "draft",
+   "status": "verified",
    "title": "FOIA requests and UFO lawsuits"
   },
   {
    "counts": {
-    "cites": 0,
-    "members": 0,
-    "questions": 0
+    "cites": 72,
+    "members": 21,
+    "questions": 5
    },
    "focusEra": "1",
    "id": "france",
    "kind": "nation",
-   "lead": null,
+   "lead": "France has studied unidentified aerospace phenomena inside its national space agency, CNES, since 1977: first as GEPAN, then SEPRA from 1988, and since 2005 as GEIPAN, which publishes its case files. Separately, in 1999 a private group of retired generals and defence auditors, COMETA, published a report arguing for the extraterrestrial hypothesis.",
    "researchGap": false,
    "section": "other-nations",
    "span": {
     "from": "1977",
     "to": "2026"
    },
-   "status": "draft",
+   "status": "verified",
    "title": "France: GEPAN, SEPRA, GEIPAN and COMETA"
   },
   {
    "counts": {
-    "cites": 0,
-    "members": 0,
-    "questions": 0
+    "cites": 114,
+    "members": 37,
+    "questions": 7
    },
    "focusEra": "2",
    "id": "funding-channels",
    "kind": "mechanism",
-   "lead": null,
+   "lead": "Money reaches classified work through ordinary channels that are hard to follow from outside: authority to move funds after enactment, an administrative reprogramming layer, contractor research charged to the government as overhead, and contract vehicles. The one UAP programme whose money has been traced from a classified appropriation to a numbered contract is AAWSAP.",
    "researchGap": false,
    "section": "secrecy-machinery",
    "span": {
     "from": "1947",
     "to": "2026"
    },
-   "status": "draft",
+   "status": "verified",
    "title": "How a programme gets paid: transfers, reprogramming, IR&D and contracts"
   },
   {
    "counts": {
-    "cites": 0,
-    "members": 0,
-    "questions": 0
+    "cites": 80,
+    "members": 16,
+    "questions": 6
    },
    "focusEra": "0",
    "id": "gravity-research-1950s",
    "kind": "programme",
-   "lead": null,
+   "lead": "In November 1955 a New York Herald Tribune series reported American aerospace firms taking an interest in gravity and reported two institutes being organised: the Glenn L. Martin Company's Research Institute for Advanced Study and a gravity institute at Chapel Hill, whose January 1957 conference an Air Force body helped fund. The documents show mainstream general relativity kept deliberately apart from anti-gravity, and Thomas Townsend Brown's patents claim electrostatic thrust, not gravity control.",
    "researchGap": false,
    "section": "science-technology",
    "span": {
     "from": "1952",
     "to": "1960"
    },
-   "status": "draft",
+   "status": "verified",
    "title": "Gravity research in the 1950s: Townsend Brown, the Institute of Field Physics and the Talbert series"
   },
   {
    "counts": {
-    "cites": 0,
-    "members": 0,
-    "questions": 0
+    "cites": 109,
+    "members": 37,
+    "questions": 7
    },
    "focusEra": "3",
    "id": "grusch-allegations",
    "kind": "saga",
-   "lead": null,
+   "lead": "David Grusch, a former intelligence officer who sat on the UAP Task Force, testified under oath in July 2023 that he was told in his official duties of a multi-decade crash retrieval and reverse-engineering programme he was denied access to, that biologics came with some recoveries and were non-human in the assessment of people he spoke to, that it is funded by misappropriation, and that he suffered retaliation. According to his testimony and The Debrief, the Intelligence Community Inspector General found his complaint credible and urgent; the Department said AARO had found no verifiable information, and AARO says he would not meet it.",
    "researchGap": false,
    "section": "custody-allegations",
    "span": {
     "from": "2019",
     "to": "2026"
    },
-   "status": "draft",
+   "status": "verified",
    "title": "Grusch's allegations: crash retrieval, biologics, misappropriation and reprisal"
   },
   {
    "counts": {
-    "cites": 0,
-    "members": 0,
-    "questions": 0
+    "cites": 88,
+    "members": 23,
+    "questions": 7
    },
    "focusEra": "3",
    "id": "hearing-2023",
    "kind": "hearing",
-   "lead": null,
+   "lead": "On 26 July 2023 a House Oversight subcommittee took sworn testimony from Ryan Graves, retired Commander David Fravor and David Grusch, a former National Reconnaissance Office representative to the UAP task force. Grusch testified that he had been informed, in the course of his official duties, of a multi-decade crash retrieval and reverse-engineering programme to which he was denied access.",
    "researchGap": false,
    "section": "congress-disclosure",
    "span": {
     "from": "2023",
     "to": "2023"
    },
-   "status": "draft",
+   "status": "verified",
    "title": "The July 2023 House hearing"
   },
   {
    "counts": {
-    "cites": 0,
-    "members": 0,
-    "questions": 0
+    "cites": 91,
+    "members": 20,
+    "questions": 6
    },
    "focusEra": "3",
    "id": "hearing-2024",
    "kind": "hearing",
-   "lead": null,
+   "lead": "On 13 November 2024 two House Oversight subcommittees, with Nancy Mace presiding, heard sworn witnesses Tim Gallaudet, Luis Elizondo, Michael Shellenberger and Michael Gold, and entered into the record a 12-page document describing an unacknowledged special access programme called Immaculate Constellation.",
    "researchGap": false,
    "section": "congress-disclosure",
    "span": {
     "from": "2024",
     "to": "2024"
    },
-   "status": "draft",
+   "status": "verified",
    "title": "The November 2024 House hearing"
   },
   {
    "counts": {
-    "cites": 0,
-    "members": 0,
-    "questions": 0
+    "cites": 86,
+    "members": 32,
+    "questions": 8
    },
    "focusEra": "3",
    "id": "house-push-2026",
    "kind": "hearing",
-   "lead": null,
+   "lead": "Alongside the Oversight Committee's UAP hearings of 2023 to 2025, Rep. Eric Burlison named David Grusch a special adviser in March 2025, sent MITRE a records demand in May 2026, and saw the House adopt his UAP Disclosure Act amendment to the FY2027 NDAA in July 2026.",
    "researchGap": false,
    "section": "congress-disclosure",
    "span": {
     "from": "2025",
     "to": "2026"
    },
-   "status": "draft",
+   "status": "verified",
    "title": "The 2026 House push: Burlison, the June events and the select committee proposal"
   },
   {
    "counts": {
-    "cites": 0,
-    "members": 0,
-    "questions": 0
+    "cites": 53,
+    "members": 17,
+    "questions": 5
    },
    "focusEra": "3",
    "id": "immaculate-constellation",
    "kind": "allegation",
-   "lead": null,
+   "lead": "Immaculate Constellation is the name of an alleged unacknowledged special access programme said to consolidate military imagery of UAP. It reached the public through Michael Shellenberger, who reported an unnamed insider's allegations and brought a twelve-page unsigned report to a House hearing on 13 November 2024; the Pentagon says it has no record of any such programme.",
    "researchGap": false,
    "section": "custody-allegations",
    "span": {
     "from": "2024",
     "to": "2026"
    },
-   "status": "draft",
+   "status": "verified",
    "title": "Immaculate Constellation: the 2024 allegation"
   },
   {
    "counts": {
-    "cites": 0,
-    "members": 0,
-    "questions": 0
+    "cites": 55,
+    "members": 18,
+    "questions": 6
    },
    "focusEra": "3",
    "id": "incursions-2023-26",
    "kind": "incident",
-   "lead": null,
+   "lead": "Since December 2023 unidentified drones have repeatedly flown over US military bases, from weeks of incursions over the F-22 base at Langley to a reported drone over Barksdale Air Force Base in March 2026, and the NORAD commander said in October 2024 that he knew of no foreign nexus for Langley. Langley produced no attribution and no public explanation; what followed was a counter-drone task force and wider authority for base commanders.",
    "researchGap": false,
    "section": "official-study",
    "span": {
     "from": "2023",
     "to": "2026"
    },
-   "status": "draft",
+   "status": "verified",
    "title": "Drone incursions over bases, 2023-2026"
   },
   {
    "counts": {
-    "cites": 0,
-    "members": 0,
-    "questions": 0
+    "cites": 85,
+    "members": 24,
+    "questions": 6
    },
    "focusEra": "1",
    "id": "kirtland-1980",
    "kind": "saga",
-   "lead": null,
+   "lead": "In August 1980 security police guarding the Manzano nuclear weapons storage area at Kirtland AFB reported lights and objects they could not identify, and an Air Force Office of Special Investigations file was opened. The Albuquerque physicist Paul Bennewitz, who was filming lights over the base, then became, by the later public admissions of William Moore and Richard Doty, the target of an Air Force disinformation effort; AARO's historical report does not mention it.",
    "researchGap": false,
    "section": "case-against",
    "span": {
     "from": "1979",
     "to": "2021"
    },
-   "status": "draft",
+   "status": "verified",
    "title": "Kirtland 1980: Bennewitz, Doty and Project Beta"
   },
   {
    "counts": {
-    "cites": 0,
-    "members": 0,
-    "questions": 0
+    "cites": 60,
+    "members": 13,
+    "questions": 5
    },
    "focusEra": "2",
    "id": "kona-blue",
    "kind": "allegation",
-   "lead": null,
+   "lead": "KONA BLUE was a proposed special access programme at the Department of Homeland Security, established as a prospective programme in 2011 and terminated in February 2012 without ever being approved. AARO says its advocates proposed to reverse-engineer any off-world spacecraft they hoped to acquire and to move alleged programmes' technology under it for oversight, and that the material was only assumed to exist.",
    "researchGap": false,
    "section": "custody-allegations",
    "span": {
     "from": "2010",
     "to": "2024"
    },
-   "status": "draft",
+   "status": "verified",
    "title": "KONA BLUE (2011)"
   },
   {
    "counts": {
-    "cites": 0,
-    "members": 0,
-    "questions": 0
+    "cites": 46,
+    "members": 15,
+    "questions": 6
    },
    "focusEra": "2",
    "id": "latin-america",
    "kind": "nation",
-   "lead": null,
+   "lead": "Chile created an open, civil-aviation office for anomalous aerial phenomena in 1997, CEFAA, now SEFAA, which after a dormant spell from 2002 to 2008 still runs and publishes its resolved cases; Peru's Air Force reopened an office of its own in 2013; and an Argentine airliner case of 1995 surfaced in the 2026 US file release.",
    "researchGap": false,
    "section": "other-nations",
    "span": {
     "from": "1995",
     "to": "2026"
    },
-   "status": "draft",
+   "status": "verified",
    "title": "Chile, Peru and Argentina"
   },
   {
    "counts": {
-    "cites": 0,
-    "members": 0,
-    "questions": 0
+    "cites": 92,
+    "members": 28,
+    "questions": 8
    },
    "focusEra": "1",
    "id": "lazar-s4",
    "kind": "saga",
-   "lead": null,
+   "lead": "Bob Lazar says that between December 1988 and April 1989 he worked at a facility he calls S-4, about fifteen miles south of Area 51 at Groom Lake, where he says he saw nine discs, and he describes a reactor fuelled by element 115. The account reached the public through KLAS-TV in 1989 and his own 1991 videotape; the court file, the credential checks and the real element 115 all cut against it.",
    "researchGap": false,
    "section": "custody-allegations",
    "span": {
     "from": "1989",
     "to": "2019"
    },
-   "status": "draft",
+   "status": "verified",
    "title": "Bob Lazar's account of S-4 and element 115"
   },
   {
    "counts": {
-    "cites": 0,
-    "members": 0,
-    "questions": 0
+    "cites": 60,
+    "members": 12,
+    "questions": 5
    },
    "focusEra": "3",
    "id": "legacy-programme",
    "kind": "explainer",
-   "lead": null,
+   "lead": "The legacy programme allegation is the central allegation the board maps: that a multi-decade effort has retrieved craft and material, held them, and tried to reverse-engineer them outside the acknowledged record. It rests on testimony, most prominently David Grusch's sworn account of 2023; AARO says it found no empirical evidence of reverse engineering, and no released AAWSAP-era document records the receipt, transfer or storage of any physical sample.",
    "researchGap": false,
    "section": "custody-allegations",
    "span": {
     "from": "1947",
     "to": "2026"
    },
-   "status": "draft",
+   "status": "verified",
    "title": "The legacy programme allegation: retrieval, custody and reverse engineering"
   },
   {
    "counts": {
-    "cites": 0,
-    "members": 0,
-    "questions": 0
+    "cites": 118,
+    "members": 44,
+    "questions": 7
    },
    "focusEra": "3",
    "id": "media-substrate",
    "kind": "movement",
-   "lead": null,
+   "lead": "The disclosure record of 2017 to 2026 was carried less by newspapers than by a Las Vegas television station, one cable correspondent, an independent outlet, a newsletter and long-form podcasts. The New York Times broke AATIP in 2017, but the Grusch story, the Immaculate Constellation report and, on the board's reading, the most detailed structural reconstruction in circulation all went elsewhere first.",
    "researchGap": false,
    "section": "media-movement",
    "span": {
     "from": "1989",
     "to": "2026"
    },
-   "status": "draft",
+   "status": "verified",
    "title": "Podcasts, broadcasters and independent media"
   },
   {
    "counts": {
-    "cites": 0,
-    "members": 0,
-    "questions": 0
+    "cites": 49,
+    "members": 13,
+    "questions": 6
    },
    "focusEra": "3",
    "id": "military-encounters-2019",
    "kind": "incident",
-   "lead": null,
+   "lead": "Since 2019 US military encounters with unidentified objects have reached the record by several separate routes: Navy deck logs obtained under FOIA for the July 2019 swarms off California, an active-duty sailor's sworn account to Congress of USS Jackson in 2023, the Department's own release in August 2026 of files on a 2021 gunship encounter over the Gulf of Oman, and AARO's report of a mass event off Virginia.",
    "researchGap": false,
    "section": "encounters-witnesses",
    "span": {
     "from": "2019",
     "to": "2026"
    },
-   "status": "draft",
+   "status": "verified",
    "title": "Military encounters since 2019: USS Kidd, Oman, Yemen and USS Jackson"
   },
   {
    "counts": {
-    "cites": 0,
-    "members": 0,
-    "questions": 0
+    "cites": 19,
+    "members": 7,
+    "questions": 6
    },
    "focusEra": "3",
    "id": "missing-scientists",
    "kind": "saga",
-   "lead": null,
+   "lead": "On 20 April 2026 House Oversight Chairman James Comer and Rep. Eric Burlison sent NASA, the FBI, the Department of War and the Department of Energy effectively identical letters about reported deaths and disappearances of at least ten individuals. The letters present their subject as unconfirmed public reporting and ask the agencies whether it is true.",
    "researchGap": false,
    "section": "congress-disclosure",
    "span": {
     "from": "2026",
     "to": "2026"
    },
-   "status": "draft",
+   "status": "verified",
    "title": "Deaths and disappearances: the scientists probe"
   },
   {
    "counts": {
-    "cites": 0,
-    "members": 0,
-    "questions": 0
+    "cites": 50,
+    "members": 16,
+    "questions": 6
    },
    "focusEra": "1",
    "id": "mj12-documents",
    "kind": "document",
-   "lead": null,
+   "lead": "The Majestic-12 documents are papers purporting to show a secret 1950s control group for recovered craft; they surfaced, by the account of their recipients Jaime Shandera and William Moore, as an anonymous roll of film mailed to Shandera in December 1984 and postmarked Albuquerque. The FBI records that an Air Force investigation found the memo it received to be a fake, and the board treats the corpus as evidence about the disinformation of the period rather than about recoveries.",
    "researchGap": false,
    "section": "case-against",
    "span": {
     "from": "1984",
     "to": "2026"
    },
-   "status": "draft",
+   "status": "verified",
    "title": "The Majestic-12 documents"
   },
   {
    "counts": {
-    "cites": 0,
-    "members": 0,
-    "questions": 0
+    "cites": 97,
+    "members": 35,
+    "questions": 7
    },
    "focusEra": "1",
    "id": "named-contractors",
    "kind": "allegation",
-   "lead": null,
+   "lead": "The custody allegations name many contractors besides Lockheed and EG&G. David Grusch testified that material and programmes were placed with defence contractors outside congressional oversight, and others name Northrop Grumman, General Dynamics and SAIC; the filings the board holds document these firms' mergers, contracts and directors, not any holding, and AARO says executives of the companies named to it denied such programmes on the record.",
    "researchGap": false,
    "section": "custody-allegations",
    "span": {
     "from": "1947",
     "to": "2026"
    },
-   "status": "draft",
+   "status": "verified",
    "title": "Other contractors named in custody claims"
   },
   {
    "counts": {
-    "cites": 0,
-    "members": 0,
-    "questions": 0
+    "cites": 52,
+    "members": 16,
+    "questions": 4
    },
    "focusEra": "3",
    "id": "nasa-uap-study",
    "kind": "programme",
-   "lead": null,
+   "lead": "NASA commissioned a sixteen-member independent study team on UAP on 24 May 2022, chaired by the astrophysicist David Spergel. Its report of 14 September 2023 found no conclusive evidence in the peer-reviewed literature of an extraterrestrial origin, and named poorly calibrated sensors and missing metadata as the main obstacle to analysis.",
    "researchGap": false,
    "section": "official-study",
    "span": {
     "from": "2022",
     "to": "2023"
    },
-   "status": "draft",
+   "status": "verified",
    "title": "NASA's UAP independent study, 2022-23"
   },
   {
    "counts": {
-    "cites": 0,
-    "members": 0,
-    "questions": 0
+    "cites": 97,
+    "members": 18,
+    "questions": 6
    },
    "focusEra": "3",
    "id": "navy-patents",
    "kind": "document",
-   "lead": null,
+   "lead": "Between 2015 and 2018 the Navy filed, as assignee, five patent applications naming Salvatore Pais of NAWCAD as inventor, from an electromagnetic field generator to a craft using an inertial mass reduction device. The file wrapper shows an examiner who called the craft's effect impossible and a formal appeal that won the grant; the two patents granted in 2018 later lapsed for unpaid fees, and a NAWCAD spokesman told The War Zone that a 2016-19 test of the field generator could not prove the effect.",
    "researchGap": false,
    "section": "science-technology",
    "span": {
     "from": "2015",
     "to": "2026"
    },
-   "status": "draft",
+   "status": "verified",
    "title": "The Navy's Pais patents, and invention secrecy"
   },
   {
    "counts": {
-    "cites": 0,
-    "members": 0,
-    "questions": 0
+    "cites": 62,
+    "members": 21,
+    "questions": 8
    },
    "focusEra": "2",
    "id": "nimitz-2004",
    "kind": "incident",
-   "lead": null,
+   "lead": "On 14 November 2004 aircrew from the VFA-41 squadron, vectored, by Fravor's account, by the cruiser USS Princeton, intercepted an object off Baja California that the Navy's own range fouler report describes as solid white, smooth and about 46 feet long. The report records that the reporting stopped at 3rd Fleet, and a Navy infrared video from November 2004 was released by the Department of Defense in 2020 as still unidentified.",
    "researchGap": false,
    "section": "encounters-witnesses",
    "span": {
     "from": "2004",
     "to": "2020"
    },
-   "status": "draft",
+   "status": "verified",
    "title": "USS Nimitz, November 2004"
   },
   {
    "counts": {
-    "cites": 0,
-    "members": 0,
-    "questions": 0
+    "cites": 106,
+    "members": 21,
+    "questions": 6
    },
    "focusEra": "0",
    "id": "nsc-spine",
    "kind": "mechanism",
-   "lead": null,
+   "lead": "The National Security Act of 1947 created the National Security Council and placed the Central Intelligence Agency under it, and a residual clause in that Act, section 102(d)(5), is the authority the first covert-action charters were written under. This topic follows the Council's directive series from NSC 10/2 in 1948 to NSDD 159 in 1985, and the people who held its first offices.",
    "researchGap": false,
    "section": "secrecy-machinery",
    "span": {
     "from": "1947",
     "to": "1985"
    },
-   "status": "draft",
+   "status": "verified",
    "title": "The National Security Act and the NSC, 1947-1985"
   },
   {
    "counts": {
-    "cites": 0,
-    "members": 0,
-    "questions": 0
+    "cites": 128,
+    "members": 30,
+    "questions": 8
    },
    "focusEra": "0",
    "id": "nuclear-missiles-1960s",
    "kind": "incident",
-   "lead": null,
+   "lead": "In the missile fields and test ranges of the mid-1960s the Air Force's own paper records one event beyond dispute, the loss of strategic alert across every launch facility of Malmstrom's Echo Flight on 16 March 1967, and a dense Blue Book file on Minot in October 1968; around them sit a second Malmstrom shutdown claimed at Oscar Flight, which no released record mentions, and a 1964 missile-test film at Big Sur two of whose participants disagree about what it showed.",
    "researchGap": false,
    "section": "encounters-witnesses",
    "span": {
     "from": "1964",
     "to": "1968"
    },
-   "status": "draft",
+   "status": "verified",
    "title": "Missile sites, 1964-1968: Malmstrom, Minot and Big Sur"
   },
   {
    "counts": {
-    "cites": 0,
-    "members": 0,
-    "questions": 0
+    "cites": 77,
+    "members": 30,
+    "questions": 6
    },
    "focusEra": "2",
    "id": "nuclear-witnesses",
    "kind": "saga",
-   "lead": null,
+   "lead": "Much of the board's register of witnesses to UFO incidents at US nuclear weapons sites reached the record through one researcher, Robert Hastings, who says he has interviewed more than 150 military veterans and who put seven Air Force veterans before the press at the National Press Club on 27 September 2010; for five of the seven that event is their first appearance in the public record.",
    "researchGap": false,
    "section": "encounters-witnesses",
    "span": {
     "from": "1948",
     "to": "2025"
    },
-   "status": "draft",
+   "status": "verified",
    "title": "UFOs and nuclear weapons: the witness register"
   },
   {
    "counts": {
-    "cites": 0,
-    "members": 0,
-    "questions": 0
+    "cites": 61,
+    "members": 17,
+    "questions": 6
    },
    "focusEra": "3",
    "id": "nyt-2017",
    "kind": "movement",
-   "lead": null,
+   "lead": "On 16 December 2017 The New York Times, under the byline of Helene Cooper, Ralph Blumenthal and Leslie Kean, disclosed a Pentagon programme the paper called AATIP, the appropriation Senator Harry Reid arranged for it at Robert Bigelow's urging, and Luis Elizondo's resignation, and published two Navy infrared videos.",
    "researchGap": false,
    "section": "congress-disclosure",
    "span": {
     "from": "2017",
     "to": "2017"
    },
-   "status": "draft",
+   "status": "verified",
    "title": "The December 2017 New York Times story"
   },
   {
    "counts": {
-    "cites": 0,
-    "members": 0,
-    "questions": 0
+    "cites": 46,
+    "members": 15,
+    "questions": 6
    },
    "focusEra": "3",
    "id": "office-models",
    "kind": "mechanism",
-   "lead": null,
+   "lead": "Outside the big national stories, other governments' UFO records mostly show up in someone else's files: a Belgian F-16 intercept in the British archive, a Spanish release noted in a British intelligence study, an Iranian intercept in a US attache's cable. And one G7 government, Canada, has now named the offices it holds up as examples and would partner with: France's GEIPAN, Chile's SEFAA and the US AARO.",
    "researchGap": false,
    "section": "other-nations",
    "span": {
     "from": "1990",
     "to": "2026"
    },
-   "status": "draft",
+   "status": "verified",
    "title": "Other governments: Belgium, Spain, Japan and the office model"
   },
   {
    "counts": {
-    "cites": 0,
-    "members": 0,
-    "questions": 0
+    "cites": 54,
+    "members": 17,
+    "questions": 9
    },
    "focusEra": "1",
    "id": "official-explanations",
    "kind": "document",
-   "lead": null,
+   "lead": "The official explanations, gathered in one place: the Air Force's reports of 1994 to 1997 concluded that the Roswell debris most likely came from a Project Mogul balloon train and that the bodies accounts came from later test dummies and accidents, and a 1997 Air National Guard statement put the Phoenix lights down to flares. These are the conclusions of the offices that issued them; the board carries them as such.",
    "researchGap": false,
    "section": "case-against",
    "span": {
     "from": "1947",
     "to": "2026"
    },
-   "status": "draft",
+   "status": "verified",
    "title": "Official explanations: Mogul, balloons, flares and misidentification"
   },
   {
    "counts": {
     "cites": 0,
     "members": 0,
-    "questions": 0
+    "questions": 6
    },
    "focusEra": "2",
    "id": "officials-on-record",
@@ -1213,52 +1213,52 @@
     "from": "1957",
     "to": "2021"
    },
-   "status": "draft",
+   "status": "verified",
    "title": "Astronauts, officials and ministers on the record"
   },
   {
    "counts": {
-    "cites": 0,
-    "members": 0,
-    "questions": 0
+    "cites": 72,
+    "members": 21,
+    "questions": 6
    },
    "focusEra": "1",
    "id": "oversight-before-2017",
    "kind": "hearing",
-   "lead": null,
+   "lead": "Before 2017 Congress and the White House touched the subject in a few dated episodes: a House Armed Services hearing in April 1966 followed by an Air Force contract with the University of Colorado, Representative Steven Schiff's request that produced GAO's 1995 Roswell records report, and a privately funded effort in the 1990s to persuade President Clinton to declassify.",
    "researchGap": false,
    "section": "congress-disclosure",
    "span": {
     "from": "1966",
     "to": "2016"
    },
-   "status": "draft",
+   "status": "verified",
    "title": "Congress and the White House before 2017"
   },
   {
    "counts": {
-    "cites": 0,
-    "members": 0,
-    "questions": 0
+    "cites": 73,
+    "members": 16,
+    "questions": 6
    },
    "focusEra": "3",
    "id": "perception-management",
    "kind": "mechanism",
-   "lead": null,
+   "lead": "The board keeps a file on the practice of managing belief as a security measure: government charters for propaganda and psychological operations, a Joint Chiefs plan for staged pretexts, an Air Force counterintelligence operation that, by its participants' later admissions, fed a civilian fabricated UFO material, and the reported Yankee Blue practice of reading personnel into a fictitious alien-technology programme.",
    "researchGap": false,
    "section": "case-against",
    "span": {
     "from": "1950",
     "to": "2026"
    },
-   "status": "draft",
+   "status": "verified",
    "title": "Perception management: YANKEE BLUE, psychological operations and disinformation practice"
   },
   {
    "counts": {
     "cites": 0,
     "members": 0,
-    "questions": 0
+    "questions": 5
    },
    "focusEra": "0",
    "id": "pre-roswell-claims",
@@ -1270,577 +1270,577 @@
     "from": "1933",
     "to": "1947"
    },
-   "status": "draft",
+   "status": "verified",
    "title": "Before Roswell: the 1942 Los Angeles raid and the claimed Trinity and Magenta recoveries"
   },
   {
    "counts": {
-    "cites": 0,
-    "members": 0,
-    "questions": 0
+    "cites": 99,
+    "members": 30,
+    "questions": 6
    },
    "focusEra": "2",
    "id": "propulsion-claims",
    "kind": "allegation",
-   "lead": null,
+   "lead": "The UAP literature invokes named physics for exotic propulsion: the Biefeld-Brown effect, Alcubierre's warp metric, antigravity, and a magnetohydrodynamic patent offered as evidence for a claimed craft's drawing. NASA's own propulsion project ruled on several of these by name, and on the board's reading each document cited for a mechanism, once opened, says less than is claimed for it.",
    "researchGap": false,
    "section": "science-technology",
    "span": {
     "from": "1994",
     "to": "2026"
    },
-   "status": "draft",
+   "status": "verified",
    "title": "Propulsion and exotic-physics claims, and what the documents say"
   },
   {
    "counts": {
-    "cites": 0,
-    "members": 0,
-    "questions": 0
+    "cites": 102,
+    "members": 49,
+    "questions": 6
    },
    "focusEra": "3",
    "id": "pursue-2026",
    "kind": "programme",
-   "lead": null,
+   "lead": "PURSUE is the Department of War's programme for releasing government UAP files, begun on a presidential direction in February 2026 and published in five tranches at war.gov/UFO between 8 May and 7 August 2026. The Department attaches no comment or assessment to any file, and critics say that without metadata the releases cannot be evaluated.",
    "researchGap": false,
    "section": "official-study",
    "span": {
     "from": "2025",
     "to": "2026"
    },
-   "status": "draft",
+   "status": "verified",
    "title": "PURSUE and the 2026 releases"
   },
   {
    "counts": {
-    "cites": 0,
-    "members": 0,
-    "questions": 0
+    "cites": 85,
+    "members": 31,
+    "questions": 6
    },
    "focusEra": "3",
    "id": "records-collection",
    "kind": "institution",
-   "lead": null,
+   "lead": "Sections 1841 to 1843 of the FY2024 NDAA ordered a collection of government UAP records at the National Archives, which NARA holds as Record Group 615. It is what survived of the UAP Disclosure Act: the review board and the eminent domain provision were removed in conference.",
    "researchGap": false,
    "section": "congress-disclosure",
    "span": {
     "from": "2023",
     "to": "2026"
    },
-   "status": "draft",
+   "status": "verified",
    "title": "The National Archives UAP records collection (RG 615)"
   },
   {
    "counts": {
-    "cites": 0,
-    "members": 0,
-    "questions": 0
+    "cites": 46,
+    "members": 12,
+    "questions": 7
    },
    "focusEra": "1",
    "id": "rendlesham-1980",
    "kind": "incident",
-   "lead": null,
+   "lead": "On nights between 26 and 28 December 1980, US Air Force personnel at RAF Woodbridge in Suffolk reported lights and an object in Rendlesham Forest; the deputy base commander, Lt Col Charles Halt, wrote it up in a memorandum describing a triangular metallic object and physical traces, and that memo remains the only contemporaneous US government document on the case.",
    "researchGap": false,
    "section": "other-nations",
    "span": {
     "from": "1980",
     "to": "2023"
    },
-   "status": "draft",
+   "status": "verified",
    "title": "Rendlesham Forest, December 1980"
   },
   {
    "counts": {
-    "cites": 0,
-    "members": 0,
-    "questions": 0
+    "cites": 67,
+    "members": 17,
+    "questions": 7
    },
    "focusEra": "0",
    "id": "robertson-cia-1953",
    "kind": "programme",
-   "lead": null,
+   "lead": "In January 1953 the CIA's Office of Scientific Intelligence convened a panel of scientists under H. P. Robertson, which recommended a programme of public education and debunking to strip UFOs of their aura of mystery, and the monitoring of civilian UFO groups. The CIA then forbade any mention that it had sponsored the panel.",
    "researchGap": false,
    "section": "early-record",
    "span": {
     "from": "1952",
     "to": "1953"
    },
-   "status": "draft",
+   "status": "verified",
    "title": "The CIA and the Robertson Panel, 1952-53"
   },
   {
    "counts": {
-    "cites": 0,
-    "members": 0,
-    "questions": 0
+    "cites": 69,
+    "members": 23,
+    "questions": 6
    },
    "focusEra": "2",
    "id": "roosevelt-2014-15",
    "kind": "incident",
-   "lead": null,
+   "lead": "Ryan Graves testified that his Navy squadron, VFA-11, witnessed advanced unidentified objects on a regular basis in the airspace off Virginia Beach, including a near-midair in Warning Area W-72; two infrared videos from January 2015, GIMBAL and GO FAST, were released by the Department of Defense in April 2020 as still unidentified.",
    "researchGap": false,
    "section": "encounters-witnesses",
    "span": {
     "from": "2014",
     "to": "2020"
    },
-   "status": "draft",
+   "status": "verified",
    "title": "USS Theodore Roosevelt, 2014-15"
   },
   {
    "counts": {
-    "cites": 0,
-    "members": 0,
-    "questions": 0
+    "cites": 85,
+    "members": 28,
+    "questions": 7
    },
    "focusEra": "0",
    "id": "roswell-1947",
    "kind": "incident",
-   "lead": null,
+   "lead": "On 8 July 1947 Roswell Army Air Field announced that the 509th Bomb Group's intelligence office had gained possession of a disc, and the same day Brig. Gen. Roger Ramey at Fort Worth presented the debris as a weather balloon with a radar reflector. Reopened in 1978, the case drew Air Force reports in the 1990s naming Project MOGUL and test dummies, and a GAO finding that the base's records for the period had been destroyed with no recorded authority.",
    "researchGap": false,
    "section": "early-record",
    "span": {
     "from": "1947",
     "to": "1997"
    },
-   "status": "draft",
+   "status": "verified",
    "title": "Roswell, July 1947, and its afterlife"
   },
   {
    "counts": {
-    "cites": 0,
-    "members": 0,
-    "questions": 0
+    "cites": 66,
+    "members": 18,
+    "questions": 5
    },
    "focusEra": "1",
    "id": "sac-overflights-1975",
    "kind": "incident",
-   "lead": null,
+   "lead": "In late October and November 1975 military personnel at Strategic Air Command bases, among them Loring, Wurtsmith, Malmstrom and Minot (though NORAD's records disagree on which Minot installation), reported unidentified objects over weapons storage areas and missile fields, and the government's own paper on it, National Military Command Center memoranda, a NORAD region log and a CINCNORAD summary message, was released under FOIA.",
    "researchGap": false,
    "section": "encounters-witnesses",
    "span": {
     "from": "1975",
     "to": "1984"
    },
-   "status": "draft",
+   "status": "verified",
    "title": "The 1975 overflights of Strategic Air Command bases"
   },
   {
    "counts": {
-    "cites": 0,
-    "members": 0,
-    "questions": 0
+    "cites": 117,
+    "members": 29,
+    "questions": 7
    },
    "focusEra": "1",
    "id": "sap-governance",
    "kind": "mechanism",
-   "lead": null,
+   "lead": "Inside the Department of Defense, special access programmes are governed by internal bodies under the Deputy Secretary of Defense: the Special Access Program Central Office, the SAP Oversight Committee, the Senior Review Group and the SAP Senior Working Group. The Oversight Committee was formed by early 1994, six years after GAO found that no office of the Secretary held a list of all the programmes.",
    "researchGap": false,
    "section": "secrecy-machinery",
    "span": {
     "from": "1988",
     "to": "2024"
    },
-   "status": "draft",
+   "status": "verified",
    "title": "The SAP oversight machinery: SAPCO, SAPOC and the Senior Review Group"
   },
   {
    "counts": {
-    "cites": 0,
-    "members": 0,
-    "questions": 0
+    "cites": 175,
+    "members": 53,
+    "questions": 7
    },
    "focusEra": "2",
    "id": "sap-reporting",
    "kind": "mechanism",
-   "lead": null,
+   "lead": "Who in Congress is told about a special access programme depends on which statute governs it. For the Department of Defense it is 10 U.S.C. 119, whose waiver lets the Secretary send a programme's details only to the chairman and ranking minority member of each of six defense committees, a group distinct from the Gang of Eight, which belongs to covert action.",
    "researchGap": false,
    "section": "secrecy-machinery",
    "span": {
     "from": "1987",
     "to": "2024"
    },
-   "status": "draft",
+   "status": "verified",
    "title": "Who gets told: 10 U.S.C. 119, the Gang of Eight and the waived-SAP notification group"
   },
   {
    "counts": {
-    "cites": 0,
-    "members": 0,
-    "questions": 0
+    "cites": 106,
+    "members": 29,
+    "questions": 6
    },
    "focusEra": "2",
    "id": "sap-states",
    "kind": "mechanism",
-   "lead": null,
+   "lead": "The Department of Defense sorts special access programmes into three states: acknowledged, whose existence is known but whose details are classified; unacknowledged, whose existence itself is protected; and waived, a subset of unacknowledged programmes whose standard reporting to Congress the Secretary has waived. This topic covers the directives, manuals and regulation that define those states and the devices that keep the deeper ones out of sight.",
    "researchGap": false,
    "section": "secrecy-machinery",
    "span": {
     "from": "1987",
     "to": "2024"
    },
-   "status": "draft",
+   "status": "verified",
    "title": "Special access programmes: acknowledged, unacknowledged and waived"
   },
   {
    "counts": {
-    "cites": 0,
-    "members": 0,
-    "questions": 0
+    "cites": 43,
+    "members": 13,
+    "questions": 5
    },
    "focusEra": "1",
    "id": "sceptics",
    "kind": "movement",
-   "lead": null,
+   "lead": "The sceptics' case is carried here as the sceptics made it, with their dated work and its limits: the Harvard astronomer Donald Menzel's books against the extraterrestrial hypothesis, the aviation journalist Philip Klass's newsletter, and Tom Mahood's documentary investigation of Bob Lazar are the core of it.",
    "researchGap": false,
    "section": "case-against",
    "span": {
     "from": "1953",
     "to": "2026"
    },
-   "status": "draft",
+   "status": "verified",
    "title": "Sceptics and debunkers"
   },
   {
    "counts": {
-    "cites": 0,
-    "members": 0,
-    "questions": 0
+    "cites": 65,
+    "members": 22,
+    "questions": 6
    },
    "focusEra": "0",
    "id": "sign-estimate",
    "kind": "programme",
-   "lead": null,
+   "lead": "In September 1947 Lt. Gen. Nathan Twining of Air Materiel Command wrote that the flying disc phenomenon was something real, and his letter led to Project SIGN. SIGN's staff wrote a classified Estimate of the Situation in 1948 calling the objects interplanetary; the Air Force Chief of Staff rejected it for lacking proof, and copies were destroyed.",
    "researchGap": false,
    "section": "early-record",
    "span": {
     "from": "1947",
     "to": "1949"
    },
-   "status": "draft",
+   "status": "verified",
    "title": "The 1947 wave, the Twining memo and Project Sign, 1947-49"
   },
   {
    "counts": {
-    "cites": 0,
-    "members": 0,
-    "questions": 0
+    "cites": 56,
+    "members": 23,
+    "questions": 5
    },
    "focusEra": "1",
    "id": "skinwalker-nids",
    "kind": "institution",
-   "lead": null,
+   "lead": "Skinwalker Ranch in Utah's Uintah Basin was bought in 1996 by Robert Bigelow, whose privately funded National Institute for Discovery Science ran an instrumented field station there, and it was later investigated under DIA's AAWSAP contract. The Pentagon's own 2024 history confirms that investigation of what it calls an alleged hotspot of UAP and paranormal activity, but DIA cannot locate the report it produced.",
    "researchGap": false,
    "section": "official-study",
    "span": {
     "from": "1995",
     "to": "2026"
    },
-   "status": "draft",
+   "status": "verified",
    "title": "Skinwalker Ranch and NIDS"
   },
   {
    "counts": {
-    "cites": 0,
-    "members": 0,
-    "questions": 0
+    "cites": 52,
+    "members": 16,
+    "questions": 5
    },
    "focusEra": "1",
    "id": "skunk-works",
    "kind": "institution",
-   "lead": null,
+   "lead": "Lockheed's Skunk Works is the documented builder of aircraft whose existence was officially denied while they flew, from the U-2 to the F-117, and Lockheed Martin is named in custody allegations, including sworn testimony. George Knapp testified that Lockheed held unusual material at a California facility; AARO says the executives of the companies named to it denied such programmes, and no record the board holds shows Lockheed holding recovered material.",
    "researchGap": false,
    "section": "custody-allegations",
    "span": {
     "from": "1943",
     "to": "2026"
    },
-   "status": "draft",
+   "status": "verified",
    "title": "Lockheed and the Skunk Works in the custody record"
   },
   {
    "counts": {
-    "cites": 0,
-    "members": 0,
-    "questions": 0
+    "cites": 85,
+    "members": 34,
+    "questions": 7
    },
    "focusEra": "3",
    "id": "specimens",
    "kind": "allegation",
-   "lead": null,
+   "lead": "Physical material is where the argument could be settled by measurement rather than testimony. The board holds three lines of analysis: a peer-reviewed study of the 1977 Council Bluffs molten mass, the To The Stars ADAM samples that passed into an Army research agreement, and AARO's Oak Ridge analyses of a magnesium and an aluminium specimen, both of which came back as terrestrial or conventional alloys.",
    "researchGap": false,
    "section": "science-technology",
    "span": {
     "from": "1996",
     "to": "2026"
    },
-   "status": "draft",
+   "status": "verified",
    "title": "Physical material and specimen analyses"
   },
   {
    "counts": {
-    "cites": 0,
-    "members": 0,
-    "questions": 0
+    "cites": 57,
+    "members": 19,
+    "questions": 6
    },
    "focusEra": "1",
    "id": "stargate",
    "kind": "programme",
-   "lead": null,
+   "lead": "STAR GATE is the last name of the US government's remote-viewing effort. CIA's Office of Technical Service funded research by Harold Puthoff and Russell Targ at SRI from 1972, and the work ran under federal contract through Army and DIA programmes until 1995, when a CIA-commissioned evaluation found the information too vague and ambiguous for actionable intelligence and the programme was ended.",
    "researchGap": false,
    "section": "official-study",
    "span": {
     "from": "1970",
     "to": "1995"
    },
-   "status": "draft",
+   "status": "verified",
    "title": "STAR GATE and remote viewing"
   },
   {
    "counts": {
-    "cites": 0,
-    "members": 0,
-    "questions": 0
+    "cites": 84,
+    "members": 33,
+    "questions": 7
    },
    "focusEra": "3",
    "id": "task-force-2025",
    "kind": "hearing",
-   "lead": null,
+   "lead": "The House Oversight Committee's Task Force on the Declassification of Federal Secrets, chaired by Anna Paulina Luna, held the third House UAP hearing on 9 September 2025, with witnesses Jeffrey Nuccetelli, Alexandro Wiggins, George Knapp, Dylan Borland and, for the minority, Joe Spielberger of the Project On Government Oversight.",
    "researchGap": false,
    "section": "congress-disclosure",
    "span": {
     "from": "2025",
     "to": "2026"
    },
-   "status": "draft",
+   "status": "verified",
    "title": "The House Task Force on declassification and the September 2025 hearing"
   },
   {
    "counts": {
-    "cites": 0,
-    "members": 0,
-    "questions": 0
+    "cites": 78,
+    "members": 29,
+    "questions": 6
    },
    "focusEra": "3",
    "id": "testimony-provenance",
    "kind": "explainer",
-   "lead": null,
+   "lead": "Testimony reaches this board by routes that shape what it is worth: the author of the Dulce literature's central insider said in a 2015 email that he had invented him and had mailed a hundred packets of material to other writers, and the Disclosure Project's sixty-eight testimonies were all taken by one interviewer.",
    "researchGap": false,
    "section": "encounters-witnesses",
    "span": {
     "from": "1947",
     "to": "2026"
    },
-   "status": "draft",
+   "status": "verified",
    "title": "How testimony reaches the record"
   },
   {
    "counts": {
-    "cites": 0,
-    "members": 0,
-    "questions": 0
+    "cites": 73,
+    "members": 16,
+    "questions": 8
    },
    "focusEra": "1",
    "id": "tr-3b-fouche",
    "kind": "allegation",
-   "lead": null,
+   "lead": "The TR-3B, a claimed nuclear-powered black triangle, first appears, in everything the board has opened, in one document: Edgar Fouche's copyrighted presentation transcript of August 1998, written to promote a book the Library of Congress catalogues as science fiction. Fouche was a real Air Force avionics sergeant, but none of his published papers shows any programme, and the craft's own description contradicts itself.",
    "researchGap": false,
    "section": "custody-allegations",
    "span": {
     "from": "1979",
     "to": "2014"
    },
-   "status": "draft",
+   "status": "verified",
    "title": "The claimed TR-3B and Edgar Fouche"
   },
   {
    "counts": {
-    "cites": 0,
-    "members": 0,
-    "questions": 0
+    "cites": 82,
+    "members": 29,
+    "questions": 6
    },
    "focusEra": "3",
    "id": "ttsa",
    "kind": "institution",
-   "lead": null,
+   "lead": "To The Stars Academy was a Delaware public benefit corporation founded in 2017 with Tom DeLonge, Jim Semivan and Harold Puthoff as directors. It hired the former Pentagon official Luis Elizondo, bought pieces of metal it said came from craft of unknown origin, and in October 2019 signed a research agreement with an Army vehicle laboratory over them.",
    "researchGap": false,
    "section": "official-study",
    "span": {
     "from": "2015",
     "to": "2021"
    },
-   "status": "draft",
+   "status": "verified",
    "title": "To The Stars Academy, the Army CRADA and the Podesta emails"
   },
   {
    "counts": {
-    "cites": 0,
-    "members": 0,
-    "questions": 0
+    "cites": 92,
+    "members": 45,
+    "questions": 7
    },
    "focusEra": "3",
    "id": "uap-statutes",
    "kind": "mechanism",
-   "lead": null,
+   "lead": "The defense and intelligence authorization acts enacted from December 2021 to December 2025 carried UAP provisions: the office that became AARO, a protected reporting channel, a records collection at the National Archives, and funding limits on undisclosed programmes. The binding text is small, and the Senate's review board, eminent domain and contractor turn-in provisions never became law.",
    "researchGap": false,
    "section": "congress-disclosure",
    "span": {
     "from": "2020",
     "to": "2026"
    },
-   "status": "draft",
+   "status": "verified",
    "title": "UAP law in the NDAAs and IAAs, 2021-2026"
   },
   {
    "counts": {
-    "cites": 0,
-    "members": 0,
-    "questions": 0
+    "cites": 98,
+    "members": 39,
+    "questions": 6
    },
    "focusEra": "3",
    "id": "uapda",
    "kind": "hearing",
-   "lead": null,
+   "lead": "The UAP Disclosure Act, filed by Chuck Schumer with five cosponsors on 13 July 2023 and passed by the Senate inside its FY2024 NDAA on 27 July, would have created an independent Records Review Board and ordered the government to take by eminent domain any recovered technologies of unknown origin held by private parties. Conference removed both; what became law is a records collection at the National Archives.",
    "researchGap": false,
    "section": "congress-disclosure",
    "span": {
     "from": "2023",
     "to": "2027"
    },
-   "status": "draft",
+   "status": "verified",
    "title": "The UAP Disclosure Act and what survived it"
   },
   {
    "counts": {
-    "cites": 0,
-    "members": 0,
-    "questions": 0
+    "cites": 82,
+    "members": 35,
+    "questions": 6
    },
    "focusEra": "3",
    "id": "uaptf-odni-2021",
    "kind": "programme",
-   "lead": null,
+   "lead": "The Navy-led UAP Task Force, approved on 4 August 2020, built the dataset behind ODNI's Preliminary Assessment of 25 June 2021, which examined 144 reports from US government sources and could explain only one, as a large deflating balloon. AOIMSG was set up in November 2021, and AARO took over the Task Force's data and materials in 2022.",
    "researchGap": false,
    "section": "official-study",
    "span": {
     "from": "2019",
     "to": "2022"
    },
-   "status": "draft",
+   "status": "verified",
    "title": "The UAP Task Force and the 2021 ODNI assessment"
   },
   {
    "counts": {
-    "cites": 0,
-    "members": 0,
-    "questions": 0
+    "cites": 74,
+    "members": 26,
+    "questions": 6
    },
    "focusEra": "2",
    "id": "uk",
    "kind": "nation",
-   "lead": null,
+   "lead": "Britain handled UFO reports through a Ministry of Defence desk that fed a defence intelligence section, DI55; that section's Project Condign study, issued as memorandum 55/2/00, found no threat and recommended ending the monitoring, the desk closed in 2009, and the MoD's files went to the National Archives in tranches.",
    "researchGap": false,
    "section": "other-nations",
    "span": {
     "from": "1950",
     "to": "2024"
    },
-   "status": "draft",
+   "status": "verified",
    "title": "Britain: the MoD desk, Condign and the National Archives releases"
   },
   {
    "counts": {
-    "cites": 0,
-    "members": 0,
-    "questions": 0
+    "cites": 90,
+    "members": 30,
+    "questions": 8
    },
    "focusEra": "3",
    "id": "unauditable-ledger",
    "kind": "mechanism",
-   "lead": null,
+   "lead": "The Department of Defense has had a disclaimer of opinion on its financial statements every year since its first full-scope audit, for FY2018, and in the last two quarters of FY2025 its unsupported adjustments exceeded $859 billion. This topic sets out what that audit record documents, the 2018 accounting standard that lets classified amounts be moved between lines without saying so, and the trillion-dollar figures that circulate from an Inspector General report whose own footnote says its figures should not be added together.",
    "researchGap": false,
    "section": "secrecy-machinery",
    "span": {
     "from": "2016",
     "to": "2026"
    },
-   "status": "draft",
+   "status": "verified",
    "title": "The unauditable ledger: DoD audits, SFFAS 56 and the unsupported trillions"
   },
   {
    "counts": {
-    "cites": 0,
-    "members": 0,
-    "questions": 0
+    "cites": 47,
+    "members": 10,
+    "questions": 6
    },
    "focusEra": "1",
    "id": "ussr",
    "kind": "nation",
-   "lead": null,
+   "lead": "According to the programme's own published history, co-written by Yury Platov and B. Sokolov, from 1978 to 1990 the Soviet Union ran a state programme on anomalous phenomena, SETKA, split between the Ministry of Defence and the Academy of Sciences, and it found nothing extraterrestrial; British defence intelligence judged that the Soviet effort may well have been related to a programme of exploiting such phenomena.",
    "researchGap": false,
    "section": "other-nations",
    "span": {
     "from": "1977",
     "to": "1996"
    },
-   "status": "draft",
+   "status": "verified",
    "title": "The USSR: SETKA and the Soviet programmes"
   },
   {
    "counts": {
-    "cites": 0,
-    "members": 0,
-    "questions": 0
+    "cites": 75,
+    "members": 25,
+    "questions": 7
    },
    "focusEra": "3",
    "id": "whistleblower-channels",
    "kind": "mechanism",
-   "lead": null,
+   "lead": "On 25 May 2022 Charles McCullough III, the first Inspector General of the Intelligence Community, filed David Grusch's urgent-concern complaint with that office, which by Grusch's sworn account and The Debrief's reporting found it credible and urgent in July 2022. What followed was a reprisal complaint, House whistleblower bills that never left referral, and a congressional letter on reprisal that the Department had not answered by September 2025.",
    "researchGap": false,
    "section": "congress-disclosure",
    "span": {
     "from": "2017",
     "to": "2026"
    },
-   "status": "draft",
+   "status": "verified",
    "title": "Whistleblower channels, protections and reprisal"
   },
   {
    "counts": {
-    "cites": 0,
-    "members": 0,
-    "questions": 0
+    "cites": 51,
+    "members": 19,
+    "questions": 6
    },
    "focusEra": "2",
    "id": "wilson-davis-notes",
    "kind": "document",
-   "lead": null,
+   "lead": "The Wilson-Davis notes are fifteen typed pages, dated 16 October 2002, in which Eric Davis, an AAWSAP contract author, records Vice Admiral Thomas Wilson describing how he was refused access to a special access programme holding recovered material in a contractor's custody. Davis says the notes are his and accurate; Wilson denies the meeting took place, and DoD witnesses asked about the memo in 2022 said they were unaware of it.",
    "researchGap": false,
    "section": "custody-allegations",
    "span": {
     "from": "2002",
     "to": "2026"
    },
-   "status": "draft",
+   "status": "verified",
    "title": "The Wilson-Davis notes (2002)"
   },
   {
    "counts": {
-    "cites": 0,
-    "members": 0,
-    "questions": 0
+    "cites": 81,
+    "members": 26,
+    "questions": 6
    },
    "focusEra": "0",
    "id": "wright-patterson-ftd",
    "kind": "institution",
-   "lead": null,
+   "lead": "Wright-Patterson Air Force Base in Ohio housed the Air Force's foreign materiel exploitation organisation and its UFO projects SIGN, GRUDGE and Blue Book, under Air Materiel Command intelligence and then ATIC. From 1966 the Foreign Technology Division held the Blue Book effort there by regulation, and recovered foreign materiel was airlifted there under Project BLUE FLY.",
    "researchGap": false,
    "section": "early-record",
    "span": {
     "from": "1947",
     "to": "1995"
    },
-   "status": "draft",
+   "status": "verified",
    "title": "Wright-Patterson: ATIC, the Foreign Technology Division and Moon Dust"
   }
  ]

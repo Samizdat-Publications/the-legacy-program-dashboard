@@ -9,9 +9,902 @@
   "japan-uap-2026"
  ],
  "appendixT": "office-models",
- "cites": {},
- "claimed": [],
- "contested": [],
+ "cites": {
+  "c-00d792ee52": {
+   "id": "c-00d792ee52",
+   "kind": "claim",
+   "node": "doc-condign-vol3",
+   "nodeLabel": "Project Condign Volume 3 - Potential for Exploitation of UAP-Associated Effects / UAP Work in Other Countries",
+   "source": {
+    "domain": null,
+    "text": "Inference from the released page image, Volume 3 Chapter 4 para 12",
+    "url": null
+   },
+   "text": "The denial of any US/Canada intelligence exchange 'of any sort' is immediately followed by four redacted lines, which is structurally odd: a true and complete negative requires no withheld continuation. Reasoning: redaction under a defence exemption is applied to withheld substance, not to the absence of substance.",
+   "tier": 3
+  },
+  "c-06c38db319": {
+   "id": "c-06c38db319",
+   "kind": "claim",
+   "node": "spain-mod-ufo-files",
+   "nodeLabel": "Spanish Ministry of Defence UFO file declassification",
+   "source": {
+    "domain": null,
+    "text": "Project Condign, Volume 3, Chapter 4, para 11, UK Ministry of Defence, 2000",
+    "url": null
+   },
+   "text": "'SPAIN The Spanish MoD have taken the UFO phenomenon seriously. Sixty six files have reportedly been released to the public. DI 55 Staff have not seen these files.'",
+   "tier": 1
+  },
+  "c-0cbde60b27": {
+   "id": "c-0cbde60b27",
+   "kind": "claim",
+   "node": "cefaa",
+   "nodeLabel": "CEFAA / SEFAA - Chilean anomalous aerial phenomena office, Dirección General de Aeronáutica Civil",
+   "source": {
+    "domain": null,
+    "text": "SEFAA (DGAC Chile), 'Historia'",
+    "url": null
+   },
+   "text": "'motivaron al Director de la Dirección General de Aeronáutica Civil de la época, General de Aviación Gonzalo Miranda Aguirre, a crear el Comité de Estudios de Fenómenos Aéreos Anómalos, el 3 de octubre de 1997. Su primer Director fue el Coronel de Aviación Enzo Di Nocera García.'",
+   "tier": 1
+  },
+  "c-16877ceb84": {
+   "id": "c-16877ceb84",
+   "kind": "claim",
+   "node": "tehran-f4-intercept-1976",
+   "nodeLabel": "Imperial Iranian Air Force F-4 intercepts, Tehran, 19-20 September 1976",
+   "source": {
+    "domain": "www.theblackvault.com",
+    "text": "DIA FOIA response U-80,597/PO/FOIA, signed Robert P. Richardson, Chief, FOIA Staff, https://www.theblackvault.com/documents/ufos/1976iranincident.pdf",
+    "url": "https://www.theblackvault.com/documents/ufos/1976iranincident.pdf"
+   },
+   "text": "DIA's covering letter of 22 August 1996 to John Greenewald states that 'A search of DIA's systems of records located one document responsive to the subject of your request', released 'with only administrative markings withheld'.",
+   "tier": 1
+  },
+  "c-1b5efbcae0": {
+   "id": "c-1b5efbcae0",
+   "kind": "claim",
+   "node": "tehran-f4-intercept-1976",
+   "nodeLabel": "Imperial Iranian Air Force F-4 intercepts, Tehran, 19-20 September 1976",
+   "source": {
+    "domain": "www.theblackvault.com",
+    "text": "DIA IR 6 846 0139 76, released under FOIA case U-80,597/PO/FOIA, https://www.theblackvault.com/documents/ufos/1976iranincident.pdf",
+    "url": "https://www.theblackvault.com/documents/ufos/1976iranincident.pdf"
+   },
+   "text": "The report is IR 6 846 0139 76 from USDAO Tehran to DIA Washington, DTG 230530Z SEP 76, subject 'REPORTED UFO SIGHTING (U)', country Iran, dates '19 & 20 SEP 76', prepared by Frank B. McKenzie, Col, USAF, Defense Attache, and distributed to CJCS, the Joint Staff, NMCC, SECDEF, NMIC, State, CIA, NSA, the White House, CMC, CSAF, CNO and CSA.",
+   "tier": 1
+  },
+  "c-1df492425a": {
+   "id": "c-1df492425a",
+   "kind": "claim",
+   "node": "belgian-af-f16-intercept-1990",
+   "nodeLabel": "Belgian Air Force F-16 intercept and the 1989-90 Belgian wave",
+   "source": {
+    "domain": "cdn.nationalarchives.gov.uk",
+    "text": "AREA52 - DEBRIEFED, batch 14 file 03, 0:50:36-1:00:04, per research/leads/area52-corpus-14.md, read against The National Archives' August 2009 Highlights Guide, https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf",
+    "url": "https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf"
+   },
+   "text": "On AREA52 - DEBRIEFED, file 03 of batch 14 (0:50:36 to 1:00:04), the host's own narration says General Wilfred De Brouwer deployed F-16s on the night of 30-31 March 1990 and publicly rejected the mass-hysteria explanation. No record opened for this pass supports the rank, the office as given, or any such public statement; the record that names him gives 'Wilfried de Brouwer, Chief of Operations, Belgian Air Staff'.",
+   "tier": 2
+  },
+  "c-1ec235b0a2": {
+   "id": "c-1ec235b0a2",
+   "kind": "claim",
+   "node": "belgian-af-f16-intercept-1990",
+   "nodeLabel": "Belgian Air Force F-16 intercept and the 1989-90 Belgian wave",
+   "source": {
+    "domain": "cdn.nationalarchives.gov.uk",
+    "text": "The National Archives, 'Highlights Guide', August 2009 tranche, https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf",
+    "url": "https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf"
+   },
+   "text": "The same guide places a four-page account in DEFE 24/1960 at pages 320 to 324 and describes it: 'The account, from General Wilfried de Brouwer, Chief of Operations, Belgian Air Staff confirms that F-16 pilots obtained \"lock-ons\" with their radars but were unable to explain the phenomena.' It records the UFOs as 'detected by NATO radars and F-16 fighters over Belgium in 1990, which remain unexplained.'",
+   "tier": 1
+  },
+  "c-2319675fc5": {
+   "id": "c-2319675fc5",
+   "kind": "claim",
+   "node": "belgian-af-f16-intercept-1990",
+   "nodeLabel": "Belgian Air Force F-16 intercept and the 1989-90 Belgian wave",
+   "source": {
+    "domain": "cdn.nationalarchives.gov.uk",
+    "text": "The National Archives, 'Highlights Guide', August 2009 tranche, https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf",
+    "url": "https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf"
+   },
+   "text": "The UK's own position is in the same file series: 'A letter from Malcolm Rifkind to Lord Hill-Norton explains the MoD was not informed of the incident at the time and concluded there was no threat to the UK DEFE 24/1970 p58-59.'",
+   "tier": 1
+  },
+  "c-25485f069d": {
+   "id": "c-25485f069d",
+   "kind": "claim",
+   "node": "belgian-af-f16-intercept-1990",
+   "nodeLabel": "Belgian Air Force F-16 intercept and the 1989-90 Belgian wave",
+   "source": {
+    "domain": "cdn.nationalarchives.gov.uk",
+    "text": "The National Archives, 'Highlights Guide', August 2009 tranche, https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf",
+    "url": "https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf"
+   },
+   "text": "The Belgian Air Force put its own account into British hands three and a half years later: 'An official statement from the Belgian Air Force sent to the MoD in November 1993 is at DEFE 24/1970 p86-87.'",
+   "tier": 1
+  },
+  "c-3763566eb1": {
+   "id": "c-3763566eb1",
+   "kind": "claim",
+   "node": "d-international",
+   "nodeLabel": "International & Allied Programs",
+   "source": {
+    "domain": null,
+    "text": "Arquivo Nacional, Sistema de Informacoes do Arquivo Nacional",
+    "url": null
+   },
+   "text": "Brazilian military UFO records have been transferred to the Arquivo Nacional and are accessible through its information system, including material on the 1986 incident.",
+   "tier": 1
+  },
+  "c-3977126e8c": {
+   "id": "c-3977126e8c",
+   "kind": "claim",
+   "node": "cefaa",
+   "nodeLabel": "CEFAA / SEFAA - Chilean anomalous aerial phenomena office, Dirección General de Aeronáutica Civil",
+   "source": {
+    "domain": null,
+    "text": "SEFAA official site, 12 August 2026",
+    "url": null
+   },
+   "text": "The office publishes resolved-case bulletins monthly; as at 12 August 2026 the most recent were 'Casos Julio 2026' (3 August 2026), 'Casos Junio 2026' (6 July 2026) and 'Casos Mayo 2026' (4 June 2026), with resolved-case archives by year back to 2018.",
+   "tier": 1
+  },
+  "c-3b192829bf": {
+   "id": "c-3b192829bf",
+   "kind": "claim",
+   "node": "japan-uap-2026",
+   "nodeLabel": "Japan's review of the 2026 US UAP file releases",
+   "source": {
+    "domain": null,
+    "text": "International Business Times UK, 13 May 2026, indexed via Google News",
+    "url": null
+   },
+   "text": "International Business Times UK headline, 13 May 2026: 'Japan Confirms Possession of UAP Footage After Reviewing Pentagon Videos Near Japanese Airspace.'",
+   "tier": 2
+  },
+  "c-415c3849a9": {
+   "id": "c-415c3849a9",
+   "kind": "claim",
+   "node": "tehran-f4-intercept-1976",
+   "nodeLabel": "Imperial Iranian Air Force F-4 intercepts, Tehran, 19-20 September 1976",
+   "source": {
+    "domain": "www.theblackvault.com",
+    "text": "DIA IR 6 846 0139 76, page 4, https://www.theblackvault.com/documents/ufos/1976iranincident.pdf",
+    "url": "https://www.theblackvault.com/documents/ufos/1976iranincident.pdf"
+   },
+   "text": "The report names no Iranian aircrew. Its own comments field reads: 'ACTUAL INFORMATION CONTAINED IN THIS REPORT WAS OBTAINED FROM SOURCE IN CONVERSATION WITH A SUB-SOURCE, AND IIAF PILOT OF ONE OF THE F-4S. MORE INFORMATION WILL BE FORWARDED WHEN IT BECOMES AVAILABLE.'",
+   "tier": 1
+  },
+  "c-42c878b96d": {
+   "id": "c-42c878b96d",
+   "kind": "claim",
+   "node": "doc-condign-vol3",
+   "nodeLabel": "Project Condign Volume 3 - Potential for Exploitation of UAP-Associated Effects / UAP Work in Other Countries",
+   "source": {
+    "domain": null,
+    "text": "Project Condign, Volume 3, Chapter 4, para 11",
+    "url": null
+   },
+   "text": "Volume 3, Chapter 4, para 11: 'SPAIN The Spanish MoD have taken the UFO phenomenon seriously. Sixty six files have reportedly been released to the public. DI 55 Staff have not seen these files.'",
+   "tier": 1
+  },
+  "c-43b4957821": {
+   "id": "c-43b4957821",
+   "kind": "claim",
+   "node": "belgian-af-f16-intercept-1990",
+   "nodeLabel": "Belgian Air Force F-16 intercept and the 1989-90 Belgian wave",
+   "source": {
+    "domain": "cdn.nationalarchives.gov.uk",
+    "text": "The National Archives, 'Highlights Guide' to the August 2009 tranche of MoD UFO files, section 'UFOs reported over Belgium - 1989-1990', https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf",
+    "url": "https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf"
+   },
+   "text": "The National Archives' guide to the MoD UFO files opened on 17 August 2009 states that the files 'reveal how in March 1990 the Belgian Air Force scrambled F-16 fighters to intercept UFOs reported by police officers and others.'",
+   "tier": 1
+  },
+  "c-60f3d0df27": {
+   "id": "c-60f3d0df27",
+   "kind": "claim",
+   "node": "uk-mod",
+   "nodeLabel": "United Kingdom Ministry of Defence",
+   "source": {
+    "domain": null,
+    "text": "MoD release note accompanying the Condign report",
+    "url": null
+   },
+   "text": "MoD statement of the study's purpose: 'to determine the potential value, if any, of such reports to Defence Intelligence ... principally to ascertain whether there is any evidence of a threat to the UK, and secondly, should the opportunity arise, to identify any potential military technologies of interest.'",
+   "tier": 1
+  },
+  "c-658774a0c9": {
+   "id": "c-658774a0c9",
+   "kind": "claim",
+   "node": "sky-canada-project",
+   "nodeLabel": "Sky Canada Project - Office of the Chief Science Advisor of Canada",
+   "source": {
+    "domain": null,
+    "text": "Sky Canada Project report, June 2025",
+    "url": null
+   },
+   "text": "On GEIPAN's operating model: 'GEIPAN has a team of three full-time employees to manage the reporting process ... Reports are investigated through the efforts of over 20 trained volunteers throughout France ... GEIPAN's steering committee is chaired by an established aerospace expert and includes representatives of the country's civil and military authorities.'",
+   "tier": 1
+  },
+  "c-75d55786ba": {
+   "id": "c-75d55786ba",
+   "kind": "claim",
+   "node": "d-international",
+   "nodeLabel": "International & Allied Programs",
+   "source": {
+    "domain": null,
+    "text": "GEIPAN classification and statistics pages",
+    "url": null
+   },
+   "text": "GEIPAN, established within CNES in 1977 and based at Toulouse, publishes its case classification scheme and statistics publicly.",
+   "tier": 1
+  },
+  "c-7bc508ee22": {
+   "id": "c-7bc508ee22",
+   "kind": "claim",
+   "node": "geipan",
+   "nodeLabel": "GEIPAN - Groupe d'Études et d'Informations sur les Phénomènes Aérospatiaux Non identifiés",
+   "source": {
+    "domain": "ised-isde.canada.ca",
+    "text": "Office of the Chief Science Advisor of Canada, 'Management of Public Reporting of Unidentified Aerial Phenomena in Canada', 2025 - https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada",
+    "url": "https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada"
+   },
+   "text": "Canada's Office of the Chief Science Advisor: 'France's GEIPAN ... operates under the French space agency CNES ... since 1977. Its mission is to collect, investigate and archive UAP reports, and make its findings available to the public.' It records 'of the 3,188 cases collected by 2025, only 3.2% of cases remained unidentified after investigation. Furthermore, 31.4% of cases could not be explained due to insufficient data.'",
+   "tier": 1
+  },
+  "c-878f5e48b1": {
+   "id": "c-878f5e48b1",
+   "kind": "claim",
+   "node": "cefaa",
+   "nodeLabel": "CEFAA / SEFAA - Chilean anomalous aerial phenomena office, Dirección General de Aeronáutica Civil",
+   "source": {
+    "domain": null,
+    "text": "Office of the Chief Science Advisor of Canada, Sky Canada Project report, June 2025",
+    "url": null
+   },
+   "text": "The Canadian government identifies SEFAA as one of three international models: 'In Chile, the SEFAA ... serves as the official body responsible for collecting, analyzing and scientifically studying UAPs. It operates within the General Directorate of Civil Aeronautics.'",
+   "tier": 1
+  },
+  "c-8d6a484b79": {
+   "id": "c-8d6a484b79",
+   "kind": "claim",
+   "node": "doc-condign-vol3",
+   "nodeLabel": "Project Condign Volume 3 - Potential for Exploitation of UAP-Associated Effects / UAP Work in Other Countries",
+   "source": {
+    "domain": null,
+    "text": "Project Condign, Volume 3, Chapter 4, para 12 (released MoD copy, OCR)",
+    "url": null
+   },
+   "text": "Volume 3, Chapter 4, para 12: 'USA & CANADA. The USA's widely publicised activities were described and contrasted with the UK effort at the beginning of Volume 1 of this report. There is no intelligence exchange or access or collaboration of any sort on the topic of UFOs.' - followed by approximately four lines of redaction.",
+   "tier": 1
+  },
+  "c-9510292f4c": {
+   "id": "c-9510292f4c",
+   "kind": "claim",
+   "node": "tehran-f4-intercept-1976",
+   "nodeLabel": "Imperial Iranian Air Force F-4 intercepts, Tehran, 19-20 September 1976",
+   "source": {
+    "domain": "www.theblackvault.com",
+    "text": "DIA IR 6 846 0139 76, page 4, with the DIA FOIA response of 22 August 1996, https://www.theblackvault.com/documents/ufos/1976iranincident.pdf",
+    "url": "https://www.theblackvault.com/documents/ufos/1976iranincident.pdf"
+   },
+   "text": "The report states that 'THE AIRCRAFT AND AREA WHERE THE OBJECT IS BELIEVED TO HAVE LANDED ARE BEING CHECKED FOR POSSIBLE RADIATION'; no result of that check is in DIA's release, and DIA's 1996 search located no further document.",
+   "tier": 1
+  },
+  "c-a152b756bc": {
+   "id": "c-a152b756bc",
+   "kind": "claim",
+   "node": "d-international",
+   "nodeLabel": "International & Allied Programs",
+   "source": {
+    "domain": null,
+    "text": "NewsNation, 15 July 2026",
+    "url": null
+   },
+   "text": "In July 2026 a US lawmaker formally asked the FBI and CIA for information relating to the 1996 Varginha incident in Brazil.",
+   "tier": 2
+  },
+  "c-ade42be27b": {
+   "id": "c-ade42be27b",
+   "kind": "claim",
+   "node": "japan-uap-2026",
+   "nodeLabel": "Japan's review of the 2026 US UAP file releases",
+   "source": {
+    "domain": null,
+    "text": "Kyodo News (English), 9 May 2026, indexed via Google News",
+    "url": null
+   },
+   "text": "Kyodo News headline, 9 May 2026: 'UFO footage disclosed by U.S. shows football-shaped object near Japan.'",
+   "tier": 2
+  },
+  "c-b379079a2d": {
+   "id": "c-b379079a2d",
+   "kind": "claim",
+   "node": "japan-uap-2026",
+   "nodeLabel": "Japan's review of the 2026 US UAP file releases",
+   "source": {
+    "domain": null,
+    "text": "The Japan Times, 11 May 2026, indexed via Google News",
+    "url": null
+   },
+   "text": "The Japan Times headline, 11 May 2026: 'Tokyo analyzing Pentagon UFO file trove with sightings near Japan.'",
+   "tier": 2
+  },
+  "c-b8b67475ac": {
+   "id": "c-b8b67475ac",
+   "kind": "claim",
+   "node": "belgian-af-f16-intercept-1990",
+   "nodeLabel": "Belgian Air Force F-16 intercept and the 1989-90 Belgian wave",
+   "source": {
+    "domain": "archive.org",
+    "text": "Project Condign, 'Unidentified Aerial Phenomena in the UK Air Defence Region', Volume 2, OCR text, https://archive.org/download/condign-vol-2-1-258/Condign_Vol_2_1-258_djvu.txt",
+    "url": "https://archive.org/download/condign-vol-2-1-258/Condign_Vol_2_1-258_djvu.txt"
+   },
+   "text": "The UK Defence Intelligence Staff carried Belgian imagery of the event inside its own classified study: Project Condign Volume 2's figure list includes 'FIGURE 34: VIDEO FRAME - BELGIUM 31 MARCH 1990' and 'FIGURE 35: SHAPE UK, RUSSIA, BELGIUM', alongside a figure captioned for the Belgian location Eupen.",
+   "tier": 1
+  },
+  "c-be1780838a": {
+   "id": "c-be1780838a",
+   "kind": "claim",
+   "node": "intl-uap-office-model",
+   "nodeLabel": "The three-office model: GEIPAN, SEFAA, AARO",
+   "source": {
+    "domain": null,
+    "text": "Office of the Chief Science Advisor of Canada, Sky Canada Project report, June 2025",
+    "url": null
+   },
+   "text": "'While there is no single model or universally established operating standard, the processes in place in a few countries, notably the United States, France and Chile, provide interesting examples of coordinated, transparent, and scientifically driven approaches to UAP reporting.'",
+   "tier": 1
+  },
+  "c-c8fd5e565e": {
+   "id": "c-c8fd5e565e",
+   "kind": "claim",
+   "node": "intl-uap-office-model",
+   "nodeLabel": "The three-office model: GEIPAN, SEFAA, AARO",
+   "source": {
+    "domain": null,
+    "text": "Sky Canada Project report, June 2025",
+    "url": null
+   },
+   "text": "'GEIPAN has a team of three full-time employees to manage the reporting process ... Reports are investigated through the efforts of over 20 trained volunteers throughout France.'",
+   "tier": 1
+  },
+  "c-fa40088d17": {
+   "id": "c-fa40088d17",
+   "kind": "claim",
+   "node": "tehran-f4-intercept-1976",
+   "nodeLabel": "Imperial Iranian Air Force F-4 intercepts, Tehran, 19-20 September 1976",
+   "source": {
+    "domain": "www.theblackvault.com",
+    "text": "DIA IR 6 846 0139 76, pages 2 and 3, https://www.theblackvault.com/documents/ufos/1976iranincident.pdf",
+    "url": "https://www.theblackvault.com/documents/ufos/1976iranincident.pdf"
+   },
+   "text": "The report records that the command post called BG Yousefi, Assistant Deputy Commander of Operations, who decided to scramble an F-4 from Shahrokhi AFB; that at a range of 25 nm the first aircraft 'LOST ALL INSTRUMENTATION AND COMMUNICATIONS (UHF AND INTERCOM)' and broke off; and that a second F-4 launched at 0140 hrs acquired a radar lock at 27 nm before its pilot 'ATTEMPTED TO FIRE AN AIM-9 MISSILE AT THE OBJECT BUT AT THAT INSTANT HIS WEAPONS CONTROL PANEL WENT OFF'.",
+   "tier": 1
+  },
+  "e-011ee4dad4": {
+   "endpoints": [
+    {
+     "id": "doc-condign-vol3",
+     "label": "Project Condign Volume 3 - Potential for Exploitation of UAP-Associated Effects / UAP Work in Other Countries"
+    },
+    {
+     "id": "uk-mod",
+     "label": "United Kingdom Ministry of Defence"
+    }
+   ],
+   "id": "e-011ee4dad4",
+   "kind": "edge",
+   "label": "records a flat denial of any US/Canada exchange, then redacts four lines",
+   "sources": [
+    {
+     "date": "2006-05-15",
+     "name": "Condign Volume 3",
+     "url": "https://archive.org/download/condign-vol-2-1-258/Condign_Vol_3_1-48_djvu.txt"
+    }
+   ],
+   "text": "Volume 3 para 12: 'There is no intelligence exchange or access or collaboration of any sort on the topic of UFOs' - followed by approximately four redacted lines.",
+   "tier": 1,
+   "type": "denial"
+  },
+  "e-1283a7aeb3": {
+   "endpoints": [
+    {
+     "id": "mona-nemer",
+     "label": "Dr Mona Nemer"
+    },
+    {
+     "id": "sky-canada-project",
+     "label": "Sky Canada Project - Office of the Chief Science Advisor of Canada"
+    }
+   ],
+   "id": "e-1283a7aeb3",
+   "kind": "edge",
+   "label": "Chief Science Advisor whose office produced the report",
+   "sources": [
+    {
+     "date": "2025-06-01",
+     "name": "Sky Canada Project report",
+     "url": "https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada"
+    }
+   ],
+   "text": "The Office of the Chief Science Advisor led the project and published both the January 2025 preliminary and the June 2025 full report.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-18e1e4e6ae": {
+   "endpoints": [
+    {
+     "id": "belgian-af-f16-intercept-1990",
+     "label": "Belgian Air Force F-16 intercept and the 1989-90 Belgian wave"
+    },
+    {
+     "id": "uk-defe24",
+     "label": "DEFE 24 and DEFE 31 - MoD UFO record series, The National Archives, Kew"
+    }
+   ],
+   "id": "e-18e1e4e6ae",
+   "kind": "edge",
+   "label": "The Belgian material sits in named DEFE 24 pieces",
+   "sources": [
+    {
+     "date": "2009-08-17",
+     "name": "TNA Highlights Guide, August 2009 tranche",
+     "url": "https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf"
+    }
+   ],
+   "text": "The National Archives' guide places the Belgian Air Force's November 1993 statement at DEFE 24/1970 pages 86 to 87 and de Brouwer's four-page account at DEFE 24/1960 pages 320 to 324, with further references in DEFE 24/1962 and DEFE 24/1965.",
+   "tier": 1,
+   "type": "custody"
+  },
+  "e-2373a72f32": {
+   "endpoints": [
+    {
+     "id": "geipan",
+     "label": "GEIPAN - Groupe d'Études et d'Informations sur les Phénomènes Aérospatiaux Non identifiés"
+    },
+    {
+     "id": "cefaa",
+     "label": "CEFAA / SEFAA - Chilean anomalous aerial phenomena office, Dirección General de Aeronáutica Civil"
+    }
+   ],
+   "id": "e-2373a72f32",
+   "kind": "edge",
+   "label": "French analysts worked the Chilean Navy FLIR case",
+   "sources": [
+    {
+     "date": null,
+     "name": "https://www.huffpost.com/entry/groundbreaking-ufo-video-just-released-from-chilean_b_586d37bce4b014e7c72ee56b",
+     "url": "https://www.huffpost.com/entry/groundbreaking-ufo-video-just-released-from-chilean_b_586d37bce4b014e7c72ee56b"
+    },
+    {
+     "date": null,
+     "name": "https://www.newsweek.com/chilean-navy-id-mysterious-aircraft-caught-video-539786",
+     "url": "https://www.newsweek.com/chilean-navy-id-mysterious-aircraft-caught-video-539786"
+    }
+   ],
+   "text": "Photo and video analysts in France, including François Louange, were brought into CEFAA's investigation of the 11 November 2014 Chilean Navy infrared footage through GEIPAN. The two offices reached different conclusions - GEIPAN's analysts proposed a medium-haul aircraft venting, CEFAA rejected it - and both published. It is the clearest documented case of state UAP offices on two continents working the same tape.",
+   "tier": 2,
+   "type": "investigative"
+  },
+  "e-2c17e6bb88": {
+   "endpoints": [
+    {
+     "id": "belgian-af-f16-intercept-1990",
+     "label": "Belgian Air Force F-16 intercept and the 1989-90 Belgian wave"
+    },
+    {
+     "id": "uk-mod",
+     "label": "United Kingdom Ministry of Defence"
+    }
+   ],
+   "id": "e-2c17e6bb88",
+   "kind": "edge",
+   "label": "Not informed at the time, and no threat to the UK",
+   "sources": [
+    {
+     "date": "2009-08-17",
+     "name": "TNA Highlights Guide, August 2009 tranche",
+     "url": "https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf"
+    }
+   ],
+   "text": "The guide summarises a letter from Malcolm Rifkind to Lord Hill-Norton saying the MoD was not informed of the incident at the time and concluded there was no threat to the UK.",
+   "tier": 1,
+   "type": "denial"
+  },
+  "e-2d105735cf": {
+   "endpoints": [
+    {
+     "id": "d-international",
+     "label": "International & Allied Programs"
+    },
+    {
+     "id": "l-toulouse",
+     "label": "Toulouse, France"
+    }
+   ],
+   "id": "e-2d105735cf",
+   "kind": "edge",
+   "label": "GEIPAN's operating base",
+   "sources": [
+    {
+     "date": "2026-03-31",
+     "name": "GEIPAN - Classification",
+     "url": "https://www.geipan.fr/fr/node/58787"
+    }
+   ],
+   "text": "GEIPAN has operated within CNES at Toulouse since 1977, publishing classifications and statistics openly.",
+   "tier": 1,
+   "type": "geographic"
+  },
+  "e-3589f8391f": {
+   "endpoints": [
+    {
+     "id": "cefaa",
+     "label": "CEFAA / SEFAA - Chilean anomalous aerial phenomena office, Dirección General de Aeronáutica Civil"
+    },
+    {
+     "id": "intl-uap-office-model",
+     "label": "The three-office model: GEIPAN, SEFAA, AARO"
+    }
+   ],
+   "id": "e-3589f8391f",
+   "kind": "edge",
+   "label": "the civil-aviation implementation of the same model",
+   "sources": [
+    {
+     "date": "2026-08-12",
+     "name": "SEFAA - Historia",
+     "url": "https://sefaa.dgac.gob.cl/historia/"
+    }
+   ],
+   "text": "SEFAA sits inside the DGAC, publishes monthly resolved-case bulletins and archives cases by year back to 2018.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-3918674d0d": {
+   "endpoints": [
+    {
+     "id": "japan-uap-2026",
+     "label": "Japan's review of the 2026 US UAP file releases"
+    },
+    {
+     "id": "ev-argentina-bariloche-1995",
+     "label": "Aerolíneas Argentinas flight AR 674, San Carlos de Bariloche, 31 July 1995"
+    }
+   ],
+   "id": "e-3918674d0d",
+   "kind": "edge",
+   "label": "both are allied-state responses to the same May 2026 US release",
+   "sources": [
+    {
+     "date": "2026-05-11",
+     "name": "Buenos Aires Times",
+     "url": "https://www.batimes.com.ar/news/argentina/bariloche-sighting-cited-in-newly-released-pentagon-files-on-ufos.phtml"
+    },
+    {
+     "date": "2026-05-11",
+     "name": "The Japan Times",
+     "url": "https://www.japantimes.co.jp/news/2026/05/11/japan/pentagon-ufo-files-japan/"
+    }
+   ],
+   "text": "The 8 May 2026 US release of more than 160 files produced within days an Argentine national story and a Japanese government review.",
+   "tier": 2,
+   "type": "temporal"
+  },
+  "e-5626217b95": {
+   "endpoints": [
+    {
+     "id": "geipan",
+     "label": "GEIPAN - Groupe d'Études et d'Informations sur les Phénomènes Aérospatiaux Non identifiés"
+    },
+    {
+     "id": "intl-uap-office-model",
+     "label": "The three-office model: GEIPAN, SEFAA, AARO"
+    }
+   ],
+   "id": "e-5626217b95",
+   "kind": "edge",
+   "label": "the reference implementation of a civil state UAP office",
+   "sources": [
+    {
+     "date": "2026-03-31",
+     "name": "GEIPAN - Classification",
+     "url": "https://www.geipan.fr/fr/node/58787"
+    },
+    {
+     "date": "2025-06-01",
+     "name": "Sky Canada Project report",
+     "url": "https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada"
+    }
+   ],
+   "text": "Published classification, published case conclusions, national police feed, three full-time staff and twenty-plus trained volunteers.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-59e4315663": {
+   "endpoints": [
+    {
+     "id": "sky-canada-project",
+     "label": "Sky Canada Project - Office of the Chief Science Advisor of Canada"
+    },
+    {
+     "id": "geipan",
+     "label": "GEIPAN - Groupe d'Études et d'Informations sur les Phénomènes Aérospatiaux Non identifiés"
+    }
+   ],
+   "id": "e-59e4315663",
+   "kind": "edge",
+   "label": "identifies GEIPAN as a model and recommends partnership",
+   "sources": [
+    {
+     "date": "2025-06-01",
+     "name": "Sky Canada Project report",
+     "url": "https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada"
+    },
+    {
+     "date": null,
+     "name": "https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada",
+     "url": "https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada"
+    }
+   ],
+   "text": "Canada's Office of the Chief Science Advisor examined GEIPAN in detail, told Canada that 'the example of GEIPAN in France is worth considering' when establishing a dedicated service, and recommended in recommendation 13 that Canada's lead organisation partner with 'AARO and NASA (U.S.A.), GEIPAN (France), and SEFAA (Chile)'.",
+   "tier": 1,
+   "type": "research"
+  },
+  "e-5b727f09a5": {
+   "endpoints": [
+    {
+     "id": "mona-nemer",
+     "label": "Dr Mona Nemer"
+    },
+    {
+     "id": "nick-pope",
+     "label": "Nick Pope"
+    }
+   ],
+   "id": "e-5b727f09a5",
+   "kind": "edge",
+   "label": "2025 Canadian recommendation versus the 2009 British closure",
+   "sources": [
+    {
+     "date": "2025-06-01",
+     "name": "Sky Canada Project report",
+     "url": "https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada"
+    },
+    {
+     "date": "2026-05-02",
+     "name": "Sky HISTORY",
+     "url": "https://www.history.co.uk/articles/remembering-nick-pope"
+    }
+   ],
+   "text": "Canada in 2025 recommends building the standing public UAP service that Britain abolished in 2009 and that Pope spent the intervening years arguing should not have been abolished. Reasoning: the two governments moved in opposite directions on the same question sixteen years apart.",
+   "tier": 3,
+   "type": "temporal"
+  },
+  "e-785567ca81": {
+   "endpoints": [
+    {
+     "id": "doc-condign-vol3",
+     "label": "Project Condign Volume 3 - Potential for Exploitation of UAP-Associated Effects / UAP Work in Other Countries"
+    },
+    {
+     "id": "spain-mod-ufo-files",
+     "label": "Spanish Ministry of Defence UFO file declassification"
+    }
+   ],
+   "id": "e-785567ca81",
+   "kind": "edge",
+   "label": "records the Spanish release and DI55's non-access",
+   "sources": [
+    {
+     "date": "2006-05-15",
+     "name": "Condign Volume 3",
+     "url": "https://archive.org/download/condign-vol-2-1-258/Condign_Vol_3_1-48_djvu.txt"
+    }
+   ],
+   "text": "'Sixty six files have reportedly been released to the public. DI 55 Staff have not seen these files.'",
+   "tier": 1,
+   "type": "investigative"
+  },
+  "e-8377b8c4b7": {
+   "endpoints": [
+    {
+     "id": "d-international",
+     "label": "International & Allied Programs"
+    },
+    {
+     "id": "l-varginha",
+     "label": "Varginha, Minas Gerais, Brazil"
+    }
+   ],
+   "id": "e-8377b8c4b7",
+   "kind": "edge",
+   "label": "A foreign case now under US congressional inquiry",
+   "sources": [
+    {
+     "date": "2026-03-31",
+     "name": "GEIPAN - Classification",
+     "url": "https://www.geipan.fr/fr/node/58787"
+    }
+   ],
+   "text": "In July 2026 a US lawmaker formally requested FBI and CIA holdings on the 1996 Varginha incident.",
+   "tier": 2,
+   "type": "investigative"
+  },
+  "e-98ad34a71e": {
+   "endpoints": [
+    {
+     "id": "belgian-af-f16-intercept-1990",
+     "label": "Belgian Air Force F-16 intercept and the 1989-90 Belgian wave"
+    },
+    {
+     "id": "doc-condign-vol3",
+     "label": "Project Condign Volume 3 - Potential for Exploitation of UAP-Associated Effects / UAP Work in Other Countries"
+    }
+   ],
+   "id": "e-98ad34a71e",
+   "kind": "edge",
+   "label": "Belgian imagery inside the Condign study, in Volume 2 rather than Volume 3",
+   "sources": [
+    {
+     "date": "2000-01-01",
+     "name": "Project Condign Volume 2 OCR text",
+     "url": "https://archive.org/download/condign-vol-2-1-258/Condign_Vol_2_1-258_djvu.txt"
+    }
+   ],
+   "text": "Volume 2's figure list carries a video frame captioned Belgium 31 March 1990 and a comparative shape figure for the UK, Russia and Belgium. Volume 3 chapter 4's country sections are the Former Soviet Union, China, Spain, and the United States and Canada, and do not cover Belgium.",
+   "tier": 1,
+   "type": "research"
+  },
+  "e-bb7cc24acd": {
+   "endpoints": [
+    {
+     "id": "tehran-f4-intercept-1976",
+     "label": "Imperial Iranian Air Force F-4 intercepts, Tehran, 19-20 September 1976"
+    },
+    {
+     "id": "belgian-af-f16-intercept-1990",
+     "label": "Belgian Air Force F-16 intercept and the 1989-90 Belgian wave"
+    }
+   ],
+   "id": "e-bb7cc24acd",
+   "kind": "edge",
+   "label": "The same shape fourteen years later: a foreign air force intercept inside an allied intelligence file",
+   "sources": [
+    {
+     "date": "1976-09-23",
+     "name": "DIA Intelligence Information Report IR 6 846 0139 76, USDAO Tehran, with the DIA FOIA response U-80,597/PO/FOIA of 22 August 1996, hosted by The Black Vault",
+     "url": "https://www.theblackvault.com/documents/ufos/1976iranincident.pdf"
+    }
+   ],
+   "text": "The same shape fourteen years later: a foreign air force intercept documented inside a US or allied intelligence file rather than by the flying service.",
+   "tier": 2,
+   "type": "research"
+  },
+  "e-c74ea5c24a": {
+   "endpoints": [
+    {
+     "id": "sky-canada-project",
+     "label": "Sky Canada Project - Office of the Chief Science Advisor of Canada"
+    },
+    {
+     "id": "cefaa",
+     "label": "CEFAA / SEFAA - Chilean anomalous aerial phenomena office, Dirección General de Aeronáutica Civil"
+    }
+   ],
+   "id": "e-c74ea5c24a",
+   "kind": "edge",
+   "label": "identifies SEFAA as a model and recommends partnership",
+   "sources": [
+    {
+     "date": "2025-06-01",
+     "name": "Sky Canada Project report",
+     "url": "https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada"
+    },
+    {
+     "date": null,
+     "name": "https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada",
+     "url": "https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada"
+    }
+   ],
+   "text": "Canada's Office of the Chief Science Advisor identified the United States, France and Chile as the three national UAP reporting models worth examining, described SEFAA's operations and its commitment to transparency, and recommended Canada partner with SEFAA alongside AARO, NASA and GEIPAN.",
+   "tier": 1,
+   "type": "research"
+  },
+  "e-f48b2b0d7c": {
+   "endpoints": [
+    {
+     "id": "sky-canada-project",
+     "label": "Sky Canada Project - Office of the Chief Science Advisor of Canada"
+    },
+    {
+     "id": "intl-uap-office-model",
+     "label": "The three-office model: GEIPAN, SEFAA, AARO"
+    }
+   ],
+   "id": "e-f48b2b0d7c",
+   "kind": "edge",
+   "label": "the report is the source of the three-office model",
+   "sources": [
+    {
+     "date": "2025-06-01",
+     "name": "Sky Canada Project report",
+     "url": "https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada"
+    }
+   ],
+   "text": "This is the first time a G7 government has publicly named which other countries' arrangements it would copy.",
+   "tier": 1,
+   "type": "research"
+  }
+ },
+ "claimed": [
+  {
+   "cite": [
+    "c-ade42be27b",
+    "c-b379079a2d",
+    "c-3b192829bf"
+   ],
+   "text": "Japanese and international press reported in May 2026 that US-released footage showed a football-shaped object near Japan, that Tokyo was analysing the file trove, and that Japan confirmed it held UAP footage after reviewing it."
+  },
+  {
+   "cite": [
+    "e-3918674d0d"
+   ],
+   "text": "The May 2026 US release of more than 160 files produced, within days, an Argentine national story on the 1995 Bariloche airliner case and the Japanese review."
+  },
+  {
+   "cite": [
+    "c-1df492425a"
+   ],
+   "text": "A documentary host says de Brouwer deployed the F-16s on 30-31 March 1990 and publicly rejected the mass-hysteria explanation; no record the board has opened supports that rank, office or statement, and the record that names him gives Chief of Operations, Belgian Air Staff."
+  },
+  {
+   "cite": [
+    "e-bb7cc24acd"
+   ],
+   "text": "On the board's reading, Tehran in 1976 and Belgium in 1990 share a shape: a foreign air force intercept known from a US or allied intelligence file rather than from the service that flew it."
+  }
+ ],
+ "contested": [
+  {
+   "cite": [
+    "c-2319675fc5",
+    "e-2c17e6bb88"
+   ],
+   "text": "The UK's position on the Belgian case was that it had not been told at the time and saw no threat to the UK."
+  },
+  {
+   "cite": [
+    "c-00d792ee52",
+    "c-8d6a484b79"
+   ],
+   "text": "On the board's reading, Condign's flat denial of any US or Canadian exchange sits oddly with the four redacted lines that follow it, since a complete negative needs no withheld continuation."
+  },
+  {
+   "cite": [
+    "c-7bc508ee22"
+   ],
+   "text": "The model offices resolve most of what they receive: the Sky Canada report records that only 3.2% of GEIPAN's 3,188 cases remained unidentified after investigation."
+  },
+  {
+   "cite": [
+    "e-2373a72f32"
+   ],
+   "text": "The model offices have disagreed with each other: on the 2014 Chilean Navy footage, GEIPAN's analysts proposed an airliner venting wastewater and the Chilean office rejected it."
+  },
+  {
+   "cite": [
+    "e-5b727f09a5"
+   ],
+   "text": "On the board's reading, Canada in 2025 recommended building the standing public service that Britain abolished in 2009, which Nick Pope argued should not have been closed: two governments moving in opposite directions on the same question."
+  }
+ ],
  "essays": [
   "w2-international:throughLine",
   "w2-international:scope"
@@ -19,21 +912,237 @@
  "focusEra": "3",
  "id": "office-models",
  "kind": "mechanism",
- "lead": null,
- "members": [],
+ "lead": {
+  "cite": [
+   "c-43b4957821",
+   "c-42c878b96d",
+   "c-1b5efbcae0",
+   "c-be1780838a",
+   "e-f48b2b0d7c",
+   "e-59e4315663"
+  ],
+  "text": "Outside the big national stories, other governments' UFO records mostly show up in someone else's files: a Belgian F-16 intercept in the British archive, a Spanish release noted in a British intelligence study, an Iranian intercept in a US attache's cable. And one G7 government, Canada, has now named the offices it holds up as examples and would partner with: France's GEIPAN, Chile's SEFAA and the US AARO."
+ },
+ "members": [
+  {
+   "cls": "event",
+   "id": "belgian-af-f16-intercept-1990",
+   "label": "Belgian Air Force F-16 intercept and the 1989-90 Belgian wave",
+   "role": "event"
+  },
+  {
+   "cls": "document",
+   "id": "spain-mod-ufo-files",
+   "label": "Spanish Ministry of Defence UFO file declassification",
+   "role": "document"
+  },
+  {
+   "cls": "event",
+   "id": "japan-uap-2026",
+   "label": "Japan's review of the 2026 US UAP file releases",
+   "role": "event"
+  },
+  {
+   "cls": "document",
+   "id": "doc-condign-vol3",
+   "label": "Project Condign Volume 3 - Potential for Exploitation of UAP-Associated Effects / UAP Work in Other Countries",
+   "role": "document"
+  },
+  {
+   "cls": "institution",
+   "id": "geipan",
+   "label": "GEIPAN - Groupe d'Études et d'Informations sur les Phénomènes Aérospatiaux Non identifiés",
+   "role": "institution"
+  },
+  {
+   "cls": "institution",
+   "id": "cefaa",
+   "label": "CEFAA / SEFAA - Chilean anomalous aerial phenomena office, Dirección General de Aeronáutica Civil",
+   "role": "institution"
+  },
+  {
+   "cls": "program",
+   "id": "sky-canada-project",
+   "label": "Sky Canada Project - Office of the Chief Science Advisor of Canada",
+   "role": "programme"
+  },
+  {
+   "cls": "person",
+   "id": "mona-nemer",
+   "label": "Dr Mona Nemer",
+   "role": "official"
+  },
+  {
+   "cls": "document",
+   "id": "uk-defe24",
+   "label": "DEFE 24 and DEFE 31 - MoD UFO record series, The National Archives, Kew",
+   "role": "document"
+  },
+  {
+   "cls": "institution",
+   "id": "uk-mod",
+   "label": "United Kingdom Ministry of Defence",
+   "role": "institution"
+  },
+  {
+   "cls": "event",
+   "id": "tehran-f4-intercept-1976",
+   "label": "Imperial Iranian Air Force F-4 intercepts, Tehran, 19-20 September 1976",
+   "role": "event"
+  },
+  {
+   "cls": "event",
+   "id": "ev-argentina-bariloche-1995",
+   "label": "Aerolíneas Argentinas flight AR 674, San Carlos de Bariloche, 31 July 1995",
+   "role": "event"
+  },
+  {
+   "cls": "location",
+   "id": "l-toulouse",
+   "label": "Toulouse, France",
+   "role": "place"
+  },
+  {
+   "cls": "location",
+   "id": "l-varginha",
+   "label": "Varginha, Minas Gerais, Brazil",
+   "role": "place"
+  },
+  {
+   "cls": "person",
+   "id": "nick-pope",
+   "label": "Nick Pope",
+   "role": "official"
+  }
+ ],
  "mergedFrom": [
   "europe-other"
  ],
  "notes": "Appendix T's europe-other merged in: Belgium has one node, too thin for a topic. The international research file's through-line essay attaches here.",
- "questions": [],
- "record": [],
- "related": [],
+ "questions": [
+  "What do the sixty-six Spanish Air Force files contain, and did any foreign intelligence service ever read them?",
+  "Did the Belgian Air Force publish its own record of the 1990 intercept, beyond the statement it sent to London in 1993?",
+  "What did Japan's review of the 2026 US files conclude, and did Tokyo publish anything of its own?",
+  "What do the four redacted lines after Condign's denial of any US or Canadian exchange say?",
+  "Was the radiation check at the Tehran landing area ever reported?",
+  "Will Canada adopt any of the three models it named, and what would make an office a model rather than a mailbox?"
+ ],
+ "record": [
+  {
+   "cite": [
+    "c-43b4957821",
+    "c-1ec235b0a2"
+   ],
+   "text": "The UK National Archives' guide to the MoD files opened in 2009 says they show the Belgian Air Force scrambling F-16s in March 1990 to intercept UFOs reported by police officers and others, and that an account by General Wilfried de Brouwer, Chief of Operations of the Belgian Air Staff, confirms that the pilots got radar lock-ons but could not explain the phenomena."
+  },
+  {
+   "cite": [
+    "c-25485f069d",
+    "e-18e1e4e6ae",
+    "c-2319675fc5",
+    "e-2c17e6bb88"
+   ],
+   "text": "The Belgian Air Force sent its official statement to the MoD in November 1993, and the guide places it and de Brouwer's four-page account in named DEFE 24 pieces; a letter from Malcolm Rifkind in the same series says the MoD was not told of the incident at the time and concluded there was no threat to the UK."
+  },
+  {
+   "cite": [
+    "c-b8b67475ac",
+    "e-98ad34a71e"
+   ],
+   "text": "The UK's Project Condign study carried Belgian imagery in its Volume 2 figure list, a video frame captioned Belgium 31 March 1990 and a shape comparison for the UK, Russia and Belgium."
+  },
+  {
+   "cite": [
+    "c-42c878b96d",
+    "e-785567ca81",
+    "c-8d6a484b79",
+    "e-011ee4dad4"
+   ],
+   "text": "Condign Volume 3 records that the Spanish MoD took the phenomenon seriously and reportedly released sixty-six files, which DI 55 staff had not seen, and states that there is no intelligence exchange or collaboration of any sort with the USA and Canada on UFOs, followed by about four redacted lines."
+  },
+  {
+   "cite": [
+    "c-1b5efbcae0",
+    "c-415c3849a9"
+   ],
+   "text": "The Tehran intercepts of 19 and 20 September 1976 are known from a US Defense Attache report to DIA, distributed to the Joint Chiefs, the White House, CIA and NSA among others; it names no Iranian aircrew and says its information came from a source's conversation with a sub-source and an F-4 pilot."
+  },
+  {
+   "cite": [
+    "c-fa40088d17",
+    "c-9510292f4c",
+    "c-16877ceb84"
+   ],
+   "text": "The same report records that one F-4 lost instrumentation and communications at 25 nautical miles and that a second got a radar lock at 27 miles, and that the landing area was being checked for radiation; DIA's 1996 search found no further document and no result of that check."
+  },
+  {
+   "cite": [
+    "c-c8fd5e565e",
+    "c-658774a0c9",
+    "c-878f5e48b1",
+    "c-0cbde60b27",
+    "c-3977126e8c",
+    "e-59e4315663",
+    "e-c74ea5c24a"
+   ],
+   "text": "The Sky Canada report describes GEIPAN as three full-time staff with over 20 trained volunteers, and SEFAA as the official Chilean body inside the civil aviation directorate; CEFAA was created by Chile's aviation authority in 1997 and publishes monthly resolved-case bulletins."
+  },
+  {
+   "cite": [
+    "c-60f3d0df27"
+   ],
+   "text": "The UK MoD stated that Condign's purpose was to judge the value of the reports to defence intelligence, chiefly whether there was any threat to the UK, and to identify any military technologies of interest."
+  }
+ ],
+ "related": [
+  "france",
+  "latin-america",
+  "canada",
+  "uk",
+  "brazil",
+  "aaro",
+  "aviation-cases"
+ ],
  "section": "other-nations",
  "span": {
   "from": "1990",
   "to": "2026"
  },
- "status": "draft",
- "summary": [],
+ "status": "verified",
+ "summary": [
+  {
+   "cite": [
+    "c-be1780838a",
+    "e-f48b2b0d7c",
+    "e-1283a7aeb3"
+   ],
+   "text": "The Sky Canada report found no single model or established standard, but named the processes of the United States, France and Chile as examples of coordinated, transparent and scientifically driven approaches; the board treats this as the first time a G7 government has said publicly which arrangements it would copy."
+  },
+  {
+   "cite": [
+    "e-5626217b95",
+    "e-3589f8391f",
+    "c-75d55786ba",
+    "e-2d105735cf"
+   ],
+   "text": "France's GEIPAN is the reference case of a civil state office: published classifications and case conclusions, a national police feed, and a small staff with trained volunteers; Chile's SEFAA is the civil-aviation version of the same model, inside its aviation authority, publishing monthly resolved-case bulletins."
+  },
+  {
+   "cite": [
+    "c-43b4957821",
+    "c-06c38db319",
+    "c-b379079a2d"
+   ],
+   "text": "The Belgian wave of 1989-1990 and its F-16 intercept, the Spanish MoD file release, and Japan's review of the 2026 US file release are the other governments that appear on the board mostly through foreign records or press reports."
+  },
+  {
+   "cite": [
+    "c-3763566eb1",
+    "c-a152b756bc",
+    "e-8377b8c4b7"
+   ],
+   "text": "Brazil's route was different again: its military UFO records were transferred to the national archive and are searchable there, including material on the 1986 incident; and a Brazilian case of 1996 is now the subject of a US congressional records request."
+  }
+ ],
  "title": "Other governments: Belgium, Spain, Japan and the office model"
 }

@@ -43,25 +43,2118 @@
   "dird-warp-drive-dark-energy-and-the"
  ],
  "appendixT": "dirds",
- "cites": {},
- "claimed": [],
- "contested": [],
+ "cites": {
+  "c-13d09b773c": {
+   "id": "c-13d09b773c",
+   "kind": "claim",
+   "node": "dird-series",
+   "nodeLabel": "The 38 Defense Intelligence Reference Documents (DIRDs)",
+   "source": {
+    "domain": null,
+    "text": "The Black Vault AAWSAP DIRD archive, 2018-2022",
+    "url": null
+   },
+   "text": "Thirty-seven of the 38 DIRDs have been released in full and are publicly downloadable; the SECRET/NOFORN version of the high-energy laser weapons paper has not been released.",
+   "tier": 1
+  },
+  "c-15b334c53a": {
+   "id": "c-15b334c53a",
+   "kind": "claim",
+   "node": "dird-warp-drive-dark-energy-and-the",
+   "nodeLabel": "Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions",
+   "source": {
+    "domain": "ufos-scientificresearch.blogspot.com",
+    "text": "https://ufos-scientificresearch.blogspot.com/2018/06/those-defense-intelligence-reference.html",
+    "url": "https://ufos-scientificresearch.blogspot.com/2018/06/those-defense-intelligence-reference.html"
+   },
+   "text": "One of the first two DIRDs to reach the public internet, appearing on a website operated by Corey Goode in an item dated 18 December 2017. Davis confirmed by email to the researcher Isaac Koi that the circulating copy was genuine.",
+   "tier": 2
+  },
+  "c-190742f607": {
+   "id": "c-190742f607",
+   "kind": "claim",
+   "node": "dird-warp-drive-dark-energy-and-the",
+   "nodeLabel": "Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions",
+   "source": {
+    "domain": "documents2.theblackvault.com",
+    "text": "Defense Intelligence Reference Document DIA-08-1004-001, 'Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions', 34 pages as released, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_13-DIRD_Warp_Drive_Dark_energy_and_the_Manipulation_of_Extra_Dimensions.pdf , opened 2026-09-19",
+    "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_13-DIRD_Warp_Drive_Dark_energy_and_the_Manipulation_of_Extra_Dimensions.pdf"
+   },
+   "text": "ITS OWN SUMMARY, VERBATIM, and what it claims is a possibility and not a result: 'The idea that a sufficiently advanced technology may interact with, and acquire direct control over, the higher dimensions is a tantalizing possibility, and one that is most certainly worthy of deeper investigation. Control of this higher dimensional space may be a source of technological control over the dark energy density and could ultimately play a role in the development of exotic propulsion technologies; specifically, a warp drive. Of course, this may not be actualized until many years in the future...' Its closing sentence: '...if we may make predictions based on the innovative history of scientific pioneers of the past, then it seems entirely possible that the creative minds of the future may indeed find ways to accomplish what, to us, may seem like magic.'",
+   "tier": 1
+  },
+  "c-1d201e28c7": {
+   "id": "c-1d201e28c7",
+   "kind": "claim",
+   "node": "dird-state-of-the-art-and-evolution",
+   "nodeLabel": "State of the Art and Evolution of High-Energy Laser Weapons",
+   "source": {
+    "domain": "www.dia.mil",
+    "text": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237622/",
+    "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237622/"
+   },
+   "text": "Defense Intelligence Reference Document titled \"State of the Art and Evolution of High-Energy Laser Weapons\", series \"Acquisition Threat Support\", published 2010-03-31 with an Intelligence Cut-Off Date (ICOD) of 2009-12-01, DIA document number DIA-08-1003-019. Released by DIA under FOIA and posted in the DIA FOIA Electronic Reading Room.",
+   "tier": 1
+  },
+  "c-1d75146758": {
+   "id": "c-1d75146758",
+   "kind": "claim",
+   "node": "dird-series",
+   "nodeLabel": "The 38 Defense Intelligence Reference Documents (DIRDs)",
+   "source": {
+    "domain": "documents2.theblackvault.com",
+    "text": "Defense Intelligence Reference Document DIA-08-1003-018, 'Antigravity for Aerospace Applications', 30 March 2010, ICOD 1 December 2009, 45 pages as released, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_19-DIRD_Antigravity_for_Aerospace_Applications.pdf , opened 2026-09-19",
+    "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_19-DIRD_Antigravity_for_Aerospace_Applications.pdf"
+   },
+   "text": "The same survey's own conclusion on what antigravity would require, verbatim: 'Mechanical embodiments that produce antigravity forces require kilometer-sized apparatus, astronomical-sized masses and densities, or extreme mass velocities and accelerations.' And: 'Negative energy has been produced in the lab in very small quantities. The technologies used for producing negative energy are nascent, and so it will be some time before it can be ascertained whether they are capable of producing the astronomical amounts of negative energy required to generate significant antigravity forces.'",
+   "tier": 1
+  },
+  "c-2451f39f83": {
+   "id": "c-2451f39f83",
+   "kind": "claim",
+   "node": "eric-davis",
+   "nodeLabel": "Eric W. Davis",
+   "source": {
+    "domain": null,
+    "text": "Ralph Blumenthal, The New York Times, 23 July 2020, quoting Davis on the record",
+    "url": null
+   },
+   "text": "Davis gave classified briefings on retrievals of unexplained objects to Senate Armed Services Committee staff on 21 October 2019 and to Senate Intelligence Committee members on 23 October 2019, and to a Defense Department agency in March 2020 about retrievals from 'off-world vehicles not made on this earth'.",
+   "tier": 2
+  },
+  "c-2576eec5d8": {
+   "id": "c-2576eec5d8",
+   "kind": "claim",
+   "node": "dird-an-introduction-to-the-statistical-drake",
+   "nodeLabel": "An Introduction to the Statistical Drake Equation",
+   "source": {
+    "domain": "documents2.theblackvault.com",
+    "text": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_25-DIRD_An_Introduction_to_the_Statistical_Drake_Equation.pdf",
+    "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_25-DIRD_An_Introduction_to_the_Statistical_Drake_Equation.pdf"
+   },
+   "text": "Appendix B of the released DIRD reproduces Maccone's underlying IAA conference paper \"The Statistical Drake Equation\" with its byline and Turin address intact, corroborating the DIA list attribution from inside the document even though the cover author field is redacted under (b)(6).",
+   "tier": 1
+  },
+  "c-2a2129e56b": {
+   "id": "c-2a2129e56b",
+   "kind": "claim",
+   "node": "dird-green-clinical-medical",
+   "nodeLabel": "DIRD: 'Clinical Medical Acute & Subacute Field Effects on Human Dermal & Neurological Tissues'",
+   "source": {
+    "domain": null,
+    "text": "Preface of the released document",
+    "url": null
+   },
+   "text": "It proposes a continuation effort evaluating 300 to 500 events in ICD-code diagnostics with decisions on investigation 'together with Sponsors'.",
+   "tier": 1
+  },
+  "c-300af3cd3d": {
+   "id": "c-300af3cd3d",
+   "kind": "claim",
+   "node": "kit-green",
+   "nodeLabel": "Christopher C. 'Kit' Green",
+   "source": {
+    "domain": "www.dia.mil",
+    "text": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237617/",
+    "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237617/"
+   },
+   "text": "Attribution to Dr. Christopher 'Kit' Green is not established by the DIA release (author redacted). Two of the DIRD peer reviews quoted in U-429-09 are written in a distinctly medical/intelligence register (BioMEMS, materials 'reverse engineer[ing]'), consistent with a reviewer of that background, but the reviewer names are also redacted. Wave-4 item.",
+   "tier": 3
+  },
+  "c-337b9b8425": {
+   "id": "c-337b9b8425",
+   "kind": "claim",
+   "node": "eric-davis",
+   "nodeLabel": "Eric W. Davis",
+   "source": {
+    "domain": null,
+    "text": "Eric W. Davis quoted in The New York Times, 23 July 2020",
+    "url": null
+   },
+   "text": "Of the analysed materials Davis said: 'We couldn't make it ourselves.'",
+   "tier": 2
+  },
+  "c-33a736cdb7": {
+   "id": "c-33a736cdb7",
+   "kind": "claim",
+   "node": "harold-puthoff",
+   "nodeLabel": "Harold E. Puthoff",
+   "source": {
+    "domain": "www.dia.mil",
+    "text": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237626/",
+    "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237626/"
+   },
+   "text": "DIA singled this report out as its showcase deliverable: Info Memo U-10-2552 to USD(AT&L) states 'One of the 26 reports, titled Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering was published in March, 2010. It is included as enclosure 2 and is provided as an example of the reports.'",
+   "tier": 1
+  },
+  "c-34d4b67c9f": {
+   "id": "c-34d4b67c9f",
+   "kind": "claim",
+   "node": "kit-green",
+   "nodeLabel": "Christopher C. 'Kit' Green",
+   "source": {
+    "domain": null,
+    "text": "Christopher Green, repeated on-record interviews and public statements",
+    "url": null
+   },
+   "text": "Green has stated that during his CIA service he was the officer to whom UFO and anomalous-phenomena reporting was routed within the Office of Scientific Intelligence.",
+   "tier": 2
+  },
+  "c-38f6009f34": {
+   "id": "c-38f6009f34",
+   "kind": "claim",
+   "node": "earthtech-international",
+   "nodeLabel": "EarthTech International / Institute for Advanced Studies at Austin",
+   "source": {
+    "domain": null,
+    "text": "The War Zone, 18 January 2019",
+    "url": null
+   },
+   "text": "EarthTech's DIRD output was characterised in mainstream defence reporting as relying on borderline fringe science.",
+   "tier": 2
+  },
+  "c-3a07610902": {
+   "id": "c-3a07610902",
+   "kind": "claim",
+   "node": "dird-traversable-wormholes",
+   "nodeLabel": "DIA-08-1004-004: 'Traversable Wormholes, Stargates, and Negative Energy'",
+   "source": {
+    "domain": null,
+    "text": "Administrative note of the released document",
+    "url": null
+   },
+   "text": "The administrative note names James T. Lacatski, D.Eng. as AAWSA Program Manager at DIA, ATTN: CLAR/DWO-3, Bldg 6000, Washington DC 20340-5100.",
+   "tier": 1
+  },
+  "c-3abfde0cf8": {
+   "id": "c-3abfde0cf8",
+   "kind": "claim",
+   "node": "aawsap-dird-series",
+   "nodeLabel": "AAWSAP Defense Intelligence Reference Document series",
+   "source": {
+    "domain": null,
+    "text": "Administrative note, DIA-08-1004-004",
+    "url": null
+   },
+   "text": "DIA-08-1004-004 states that its product 'is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency, Defense Warning Office's Advanced Aerospace Weapon System Applications (AAWSA) Program', with questions to be addressed to James T. Lacatski, D.Eng., AAWSA Program Manager, ATTN: CLAR/DWO-3, Bldg 6000, Washington DC 20340-5100.",
+   "tier": 1
+  },
+  "c-3e2436b459": {
+   "id": "c-3e2436b459",
+   "kind": "claim",
+   "node": "dird-warp-drive-dark-energy-and-the",
+   "nodeLabel": "Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions",
+   "source": {
+    "domain": "documents2.theblackvault.com",
+    "text": "Defense Intelligence Reference Document DIA-08-1004-001, 'Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions', 34 pages as released, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_13-DIRD_Warp_Drive_Dark_energy_and_the_Manipulation_of_Extra_Dimensions.pdf , opened 2026-09-19",
+    "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_13-DIRD_Warp_Drive_Dark_energy_and_the_Manipulation_of_Extra_Dimensions.pdf"
+   },
+   "text": "IT PRINTS THE REQUIREMENT AS A NUMBER, IN TWO TABLES. Table 2, 'Negative Energy Required for Warp Bubble (Larger Negative Energy)', and Table 3 after the reduction the paper argues for. At 0.01c: -3.03 x 10^46 J and -1.00 x 10^38 J. At 0.5c: -7.59 x 10^49 J and -2.50 x 10^41 J. AT LIGHT SPEED: -3.03 x 10^50 J and -1.00 x 10^42 J. At twice light speed: -1.21 x 10^51 J and -4.00 x 10^42 J. The document states that on its model 'energy requirements are reduced immensely when compared to the calculations of Lobo and Visser' and that 'All calculations are order-of-magnitude'.",
+   "tier": 1
+  },
+  "c-4256c866d9": {
+   "id": "c-4256c866d9",
+   "kind": "claim",
+   "node": "dird-maverick-inventor-versus-corporate-inventor-where",
+   "nodeLabel": "Maverick Inventor Versus Corporate Inventor: Where Will the Next Major Innovations Arise?",
+   "source": {
+    "domain": "irp.fas.org",
+    "text": "https://irp.fas.org/dia/aatip-list.pdf",
+    "url": "https://irp.fas.org/dia/aatip-list.pdf"
+   },
+   "text": "Attributed on the DIA list of AATIP/AAWSAP products supplied to the Senate Armed Services Committee to 'Dr George Hathaway, Hathaway Consulting'. The author line on the released PDF is redacted under (b)(6).",
+   "tier": 1
+  },
+  "c-4573ad1d36": {
+   "id": "c-4573ad1d36",
+   "kind": "claim",
+   "node": "dird-advanced-space-propulsion-based-on-vacuum",
+   "nodeLabel": "Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering",
+   "source": {
+    "domain": "www.dia.mil",
+    "text": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237647/",
+    "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237647/"
+   },
+   "text": "Inside cover reads: \"This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency [redacted b(3) 10 USC 424] Advanced Aerospace Weapon System Applications (AAWSA) Program\" and directs questions to the \"AAWSA Program Manager, Defense Intelligence Agency, ATTN: [redacted], Bldg 6000, Washington, DC 20340-5100\".",
+   "tier": 1
+  },
+  "c-467dab9db1": {
+   "id": "c-467dab9db1",
+   "kind": "claim",
+   "node": "dird-traversable-wormholes",
+   "nodeLabel": "DIA-08-1004-004: 'Traversable Wormholes, Stargates, and Negative Energy'",
+   "source": {
+    "domain": null,
+    "text": "Author block of the released document",
+    "url": null
+   },
+   "text": "The author is Eric W. Davis, Ph.D., of EarthTech International, Inc., 11855 Research Blvd, Austin, TX 78759.",
+   "tier": 1
+  },
+  "c-4989ae3f82": {
+   "id": "c-4989ae3f82",
+   "kind": "claim",
+   "node": "dird-warp-drive-dark-energy-and-the",
+   "nodeLabel": "Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions",
+   "source": {
+    "domain": "earthtech.org",
+    "text": "http://earthtech.org/pubs/davis/",
+    "url": "http://earthtech.org/pubs/davis/"
+   },
+   "text": "EarthTech International's citation list gives the paper as \"Obousy, R. K. and Davis, E. W. (2010), 'Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions,' Defense Intelligence Reference Document, Acquisition Threat Support, DIA-08-1004-001, Acquisition Support Division (DWO-3), Defense Warning Office, Directorate for Analysis, Defense Intelligence Agency, Washington, DC.\" It is co-authored, with Obousy first named, which reconciles the DIA list with the popular attribution.",
+   "tier": 1
+  },
+  "c-5158e94e65": {
+   "id": "c-5158e94e65",
+   "kind": "claim",
+   "node": "dird-series",
+   "nodeLabel": "The 38 Defense Intelligence Reference Documents (DIRDs)",
+   "source": {
+    "domain": "documents2.theblackvault.com",
+    "text": "Defense Intelligence Reference Document DIA-08-1003-018, 'Antigravity for Aerospace Applications', 30 March 2010, ICOD 1 December 2009, 45 pages as released, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_19-DIRD_Antigravity_for_Aerospace_Applications.pdf , opened 2026-09-19",
+    "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_19-DIRD_Antigravity_for_Aerospace_Applications.pdf"
+   },
+   "text": "THE MOST CHECKABLE FINDING THE PROPULSION STRAND PRODUCED, AND IT IS ABOUT THIS SERIES. DIRD DIA-08-1003-018, 'Antigravity for Aerospace Applications', cover-dated 30 March 2010 under the 'Acquisition Threat Support' banner, 45 pages as released, attributed on the DIA list of 9 January 2018 to Dr Eric Davis of EarthTech International, DOES NOT MENTION THOMAS TOWNSEND BROWN. Word counts over the whole released PDF, taken 19 September 2026: Biefeld 0, electrogravitics 0, Podkletnov 0. 'Brown' occurs three times and every one of them is the surname of a different author in the reference list: L. S. Brown and Maclay, 'Vacuum Stress between Conducting Plates', Physical Review 184 (1969); H. R. Brown as co-editor of 'The Philosophy of Vacuum' (1991); and J. H. Brownell on Casimir photons (2008). Alcubierre occurs once, as reference [43].",
+   "tier": 1
+  },
+  "c-55f65f2f1c": {
+   "id": "c-55f65f2f1c",
+   "kind": "claim",
+   "node": "dird-series",
+   "nodeLabel": "The 38 Defense Intelligence Reference Documents (DIRDs)",
+   "source": {
+    "domain": "www.dia.mil",
+    "text": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237617/",
+    "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237617/"
+   },
+   "text": "In the DIA-released copies every DIRD author is withheld under FOIA exemption (b)(6) and the 'Prepared by' office under (b)(3) 10 USC 424. Two author surnames survive uncensored inside the review excerpts of Info Memo U-429-09: 'Hathaway' (The Role of Superconductors in Gravity Research) and 'Tsoi' (Metallic Spintronics).",
+   "tier": 1
+  },
+  "c-5972eead09": {
+   "id": "c-5972eead09",
+   "kind": "claim",
+   "node": "dird-warp-drive-dark-energy-and-the",
+   "nodeLabel": "Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions",
+   "source": {
+    "domain": "ufos-scientificresearch.blogspot.com",
+    "text": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+    "url": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html"
+   },
+   "text": "The DIA letter of 9 January 2018 lists item 19 as \"Warp Drive, Dark Energy and the Manipulation of Extra Dimensions, Dr R Obousy, Obousy Consultants.\" The government's own list names Obousy, not Eric Davis, as the author of record. The widespread press attribution of this paper to Davis alone is not supported by the DIA list.",
+   "tier": 2
+  },
+  "c-5c7fed8ae7": {
+   "id": "c-5c7fed8ae7",
+   "kind": "claim",
+   "node": "harold-puthoff",
+   "nodeLabel": "Harold E. Puthoff",
+   "source": {
+    "domain": null,
+    "text": "DIA letter to Senate Armed Services Committee listing 38 AATIP products, 9 January 2018, item 5",
+    "url": null
+   },
+   "text": "Puthoff authored the AAWSAP Defense Intelligence Reference Document 'Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering' for EarthTech International.",
+   "tier": 1
+  },
+  "c-6f5c39bdbe": {
+   "id": "c-6f5c39bdbe",
+   "kind": "claim",
+   "node": "dird-green-clinical-medical",
+   "nodeLabel": "DIRD: 'Clinical Medical Acute & Subacute Field Effects on Human Dermal & Neurological Tissues'",
+   "source": {
+    "domain": null,
+    "text": "Executive Summary of the released document",
+    "url": null
+   },
+   "text": "Its executive summary states that reported incidents and acquired medical data 'support a hypothesis that some advanced systems are already deployed, and opaque to full US Intelligence understanding', and that the medical analyses 'do indicate the use of (to us) unconventional and advanced energy systems'.",
+   "tier": 1
+  },
+  "c-773256a62e": {
+   "id": "c-773256a62e",
+   "kind": "claim",
+   "node": "dird-series",
+   "nodeLabel": "The 38 Defense Intelligence Reference Documents (DIRDs)",
+   "source": {
+    "domain": null,
+    "text": "DIA memo U-429-09-DWO-IM, 30 October 2009",
+    "url": null
+   },
+   "text": "DIA's internal review found 'all of the reviews were positive, some exceptionally so' across the 26 FY09 reports, with five outside reviews including three by Sandia National Laboratories staff.",
+   "tier": 1
+  },
+  "c-7fb0b6e2a9": {
+   "id": "c-7fb0b6e2a9",
+   "kind": "claim",
+   "node": "eric-davis",
+   "nodeLabel": "Eric W. Davis",
+   "source": {
+    "domain": null,
+    "text": "DIA letter to Senate Armed Services Committee, 9 January 2018, items 8, 11, 14, 31, 34",
+    "url": null
+   },
+   "text": "Davis authored five of the 38 AAWSAP Defense Intelligence Reference Documents, more than any other individual.",
+   "tier": 1
+  },
+  "c-855d0f2c47": {
+   "id": "c-855d0f2c47",
+   "kind": "claim",
+   "node": "dird-green-clinical-medical",
+   "nodeLabel": "DIRD: 'Clinical Medical Acute & Subacute Field Effects on Human Dermal & Neurological Tissues'",
+   "source": {
+    "domain": null,
+    "text": "Preface of the released document",
+    "url": null
+   },
+   "text": "The document quotes a November 2007 proposal addressed 'to Puthoff/Hathaway' regarding 'Probable ET Generated Specific Near-field Electromagnetic Emissions'.",
+   "tier": 1
+  },
+  "c-88c674b699": {
+   "id": "c-88c674b699",
+   "kind": "claim",
+   "node": "dird-series",
+   "nodeLabel": "The 38 Defense Intelligence Reference Documents (DIRDs)",
+   "source": {
+    "domain": "www.dia.mil",
+    "text": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237617/",
+    "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237617/"
+   },
+   "text": "That two surnames survive the redaction pass in U-429-09 while every cover page is scrubbed indicates redaction was applied by template rather than by review, and that DIA's own reviewers wrote about these authors by name in internal correspondence. Author identities are therefore recoverable from the released corpus itself, not only from leaks.",
+   "tier": 3
+  },
+  "c-8cef4aab39": {
+   "id": "c-8cef4aab39",
+   "kind": "claim",
+   "node": "robert-baker",
+   "nodeLabel": "Robert M. L. Baker, Jr.",
+   "source": {
+    "domain": "irp.fas.org",
+    "text": "https://irp.fas.org/agency/dod/jason/gravwaves.pdf",
+    "url": "https://irp.fas.org/agency/dod/jason/gravwaves.pdf"
+   },
+   "text": "DIA published Baker's HFGW DIRD on 6 April 2010, after the 2008 JASON finding - the JASON report is hosted by the Federation of American Scientists at irp.fas.org/agency/dod/jason/gravwaves.pdf.",
+   "tier": 1
+  },
+  "c-8d469b4fee": {
+   "id": "c-8d469b4fee",
+   "kind": "claim",
+   "node": "eric-davis",
+   "nodeLabel": "Eric W. Davis",
+   "source": {
+    "domain": "documents2.theblackvault.com",
+    "text": "Defense Intelligence Reference Document DIA-08-1003-018, 'Antigravity for Aerospace Applications', 30 March 2010, ICOD 1 December 2009, 'Acquisition Threat Support', 45 pages as released, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_19-DIRD_Antigravity_for_Aerospace_Applications.pdf , opened 2026-09-19",
+    "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_19-DIRD_Antigravity_for_Aerospace_Applications.pdf"
+   },
+   "text": "HIS OWN CONCLUSION, verbatim: 'One found that plausible mechanisms exist within Newtonian and general relativistic theories whereby one could embody a realistic device that produces a significant antigravity force. However, one discovered that there are daunting technical challenges that arise in each of the proposed embodiments. Mechanical embodiments that produce antigravity forces require kilometer-sized apparatus, astronomical-sized masses and densities, or extreme mass velocities and accelerations.' And: 'Negative energy has been produced in the lab in very small quantities. The technologies used for producing negative energy are nascent, and so it will be some time before it can be ascertained whether they are capable of producing the astronomical amounts of negative energy required to generate significant antigravity forces.'",
+   "tier": 1
+  },
+  "c-8e181b6b60": {
+   "id": "c-8e181b6b60",
+   "kind": "claim",
+   "node": "dird-series",
+   "nodeLabel": "The 38 Defense Intelligence Reference Documents (DIRDs)",
+   "source": {
+    "domain": "www.dia.mil",
+    "text": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/",
+    "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/"
+   },
+   "text": "The DIA FOIA Electronic Reading Room posts 37 files whose names begin 'Defense_Intelligence_Reference_Document_'. 32 of those have been retrieved and their cover pages transcribed; DIA document numbers, publication dates and Intelligence Cut-Off Dates are recorded on the individual document nodes.",
+   "tier": 1
+  },
+  "c-90487e0579": {
+   "id": "c-90487e0579",
+   "kind": "claim",
+   "node": "dird-series",
+   "nodeLabel": "The 38 Defense Intelligence Reference Documents (DIRDs)",
+   "source": {
+    "domain": "ntrs.nasa.gov",
+    "text": "Reasoning over NASA/TM-2004-213082 against the board's own dird-series claims, https://ntrs.nasa.gov/api/citations/20040070788/downloads/20040070788.pdf , opened 2026-09-19",
+    "url": "https://ntrs.nasa.gov/api/citations/20040070788/downloads/20040070788.pdf"
+   },
+   "text": "Stated inference, and it is about transparency rather than content. Between 1996 and 2002 NASA ran a public, funded, unclassified assessment of exotic propulsion, named the claims it examined, published which of sixteen tasks failed, and closed. Between 2009 and 2011 DIA commissioned thirty-eight reference documents covering overlapping subject matter, released them only under FOIA, and withheld every author under exemption (b)(6). NOTHING OPENED JOINS THE TWO PROGRAMMES TO EACH OTHER and no institutional edge between them is proposed; Marc Millis wrote for both, which is a fact about a person and not a link between the institutions.",
+   "tier": 3
+  },
+  "c-912593e22f": {
+   "id": "c-912593e22f",
+   "kind": "claim",
+   "node": "earthtech-international",
+   "nodeLabel": "EarthTech International / Institute for Advanced Studies at Austin",
+   "source": {
+    "domain": null,
+    "text": "SEC EDGAR, TTSA Form 1-K Part II, filed April 2018",
+    "url": null
+   },
+   "text": "Harold Puthoff has been President and CEO of EarthTech International since 1985.",
+   "tier": 1
+  },
+  "c-95bde387aa": {
+   "id": "c-95bde387aa",
+   "kind": "claim",
+   "node": "dird-advanced-space-propulsion-based-on-vacuum",
+   "nodeLabel": "Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering",
+   "source": {
+    "domain": "www.dia.mil",
+    "text": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237647/",
+    "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237647/"
+   },
+   "text": "Author name is withheld in the DIA-released copy under FOIA exemption (b)(6); the \"Prepared by:\" line is withheld under (b)(3) 10 USC 424. The released cover therefore does not attribute the DIRD to a named author.",
+   "tier": 1
+  },
+  "c-965466c524": {
+   "id": "c-965466c524",
+   "kind": "claim",
+   "node": "kit-green",
+   "nodeLabel": "Christopher C. 'Kit' Green",
+   "source": {
+    "domain": null,
+    "text": "Green interviews and public remarks, 2017-2023",
+    "url": null
+   },
+   "text": "Green maintains a clinical case series of patients with unexplained injuries he associates with proximity to the phenomenon, drawn substantially from military and intelligence personnel.",
+   "tier": 2
+  },
+  "c-993d987c29": {
+   "id": "c-993d987c29",
+   "kind": "claim",
+   "node": "eric-davis",
+   "nodeLabel": "Eric W. Davis",
+   "source": {
+    "domain": null,
+    "text": "Leslie Kean and Ralph Blumenthal, New York Times, 23 July 2020",
+    "url": null
+   },
+   "text": "Davis briefed Senate Armed Services Committee staff in March 2019 on retrievals of 'off-world vehicles not made on this earth'.",
+   "tier": 2
+  },
+  "c-9c615bcdeb": {
+   "id": "c-9c615bcdeb",
+   "kind": "claim",
+   "node": "dird-green-clinical-medical",
+   "nodeLabel": "DIRD: 'Clinical Medical Acute & Subacute Field Effects on Human Dermal & Neurological Tissues'",
+   "source": {
+    "domain": null,
+    "text": "Contents and body of the released document",
+    "url": null
+   },
+   "text": "It draws on 42 peer-reviewed cases and approximately 300 unpublished cases, names the Cash-Landrum event, and includes 'Schuessler Catalog', 'Green Morris Cases' and 'Green-Morris ICD Diagnostics' appendices.",
+   "tier": 1
+  },
+  "c-9e7517fef2": {
+   "id": "c-9e7517fef2",
+   "kind": "claim",
+   "node": "dird-series",
+   "nodeLabel": "The 38 Defense Intelligence Reference Documents (DIRDs)",
+   "source": {
+    "domain": "www.dia.mil",
+    "text": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237636/",
+    "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237636/"
+   },
+   "text": "The DIRDs fall into two DIA series banners printed on the cover: 'Acquisition Threat Support' (the FY2009 tranche, ICOD 1 December 2009, published Dec 2009 - Apr 2010) and 'Defense Futures' (the FY2010 tranche, ICOD Jul-Dec 2010, published Nov 2010 - Jan 2011).",
+   "tier": 1
+  },
+  "c-a06f4a6182": {
+   "id": "c-a06f4a6182",
+   "kind": "claim",
+   "node": "dird-series",
+   "nodeLabel": "The 38 Defense Intelligence Reference Documents (DIRDs)",
+   "source": {
+    "domain": "documents2.theblackvault.com",
+    "text": "Defense Intelligence Reference Document DIA-08-1003-018, 'Antigravity for Aerospace Applications', 30 March 2010, ICOD 1 December 2009, 45 pages as released, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_19-DIRD_Antigravity_for_Aerospace_Applications.pdf , opened 2026-09-19",
+    "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_19-DIRD_Antigravity_for_Aerospace_Applications.pdf"
+   },
+   "text": "WHAT THE ZERO-COUNTS ARE AND ARE NOT EVIDENCE FOR, stated so no later session overstates them. THEY ARE EVIDENCE that the United States government's own commissioned survey of antigravity for aerospace applications, written under the same programme this board maps, is a review of gravitomagnetic forces, Forward's dipole generator, Felber's effect, negative energy, dark energy, the cosmological constant and quantum vacuum zero-point fluctuation force, and that it never reaches for the figure the electrogravitics literature treats as its origin. THEY ARE NOT EVIDENCE that DIA considered Brown and rejected him: the document shows no sign of having considered him at all, and an absence is not an adjudication. THEY ARE NOT EVIDENCE that Brown's work was suppressed, hidden or classified; nothing opened supports that and nothing here asserts it.",
+   "tier": 1
+  },
+  "c-a1b107a1b3": {
+   "id": "c-a1b107a1b3",
+   "kind": "claim",
+   "node": "dia-aatip-list-2019",
+   "nodeLabel": "DIA letter to Steven Aftergood listing 38 AATIP reference products (16 January 2019)",
+   "source": {
+    "domain": null,
+    "text": "Federation of American Scientists, 'AATIP List'; DIA letter to Aftergood",
+    "url": null
+   },
+   "text": "DIA released a 38-title list of AATIP research products to FAS on 16 January 2019, covering work funded 2007-2012 at approximately $22 million; the list had been provided to Congress in January 2018.",
+   "tier": 1
+  },
+  "c-a22e3d0c3d": {
+   "id": "c-a22e3d0c3d",
+   "kind": "claim",
+   "node": "dird-state-of-the-art-and-evolution",
+   "nodeLabel": "State of the Art and Evolution of High-Energy Laser Weapons",
+   "source": {
+    "domain": "ufos-scientificresearch.blogspot.com",
+    "text": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+    "url": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html"
+   },
+   "text": "The DIA list renders the title as \"State of the Art and Evaluation of High Energy Laser Weapons\" while the released document is titled \"State of the Art and Evolution of High-Energy Laser Weapons.\" Evaluation versus Evolution is an unresolved discrepancy between the government list and the government document.",
+   "tier": 2
+  },
+  "c-a3da462649": {
+   "id": "c-a3da462649",
+   "kind": "claim",
+   "node": "kit-green",
+   "nodeLabel": "Christopher C. 'Kit' Green",
+   "source": {
+    "domain": null,
+    "text": "Inference from the DIRD's inclusion in a threat-assessment contract and Green's prior CIA role at the same intersection",
+    "url": null
+   },
+   "text": "The commissioning of a human-injury paper inside an aerospace weapons study indicates the sponsors already possessed a body of injury cases needing a scientific frame, rather than that they were speculating about a hypothetical hazard.",
+   "tier": 3
+  },
+  "c-a81af414a3": {
+   "id": "c-a81af414a3",
+   "kind": "claim",
+   "node": "earthtech-international",
+   "nodeLabel": "EarthTech International / Institute for Advanced Studies at Austin",
+   "source": {
+    "domain": null,
+    "text": "Inference from the DIRD authorship distribution",
+    "url": null
+   },
+   "text": "The concentration of six deliverables on exotic propulsion physics in one small private firm indicates a directed requirement rather than a competitive distribution of scientific topics.",
+   "tier": 3
+  },
+  "c-a843555a42": {
+   "id": "c-a843555a42",
+   "kind": "claim",
+   "node": "eric-davis",
+   "nodeLabel": "Eric W. Davis",
+   "source": {
+    "domain": "www.dia.mil",
+    "text": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237636/",
+    "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237636/"
+   },
+   "text": "Attribution of these two DIRDs to Eric W. Davis is not established by the DIA release (author redacted). It rests on Davis's own account and secondary reporting. Wave-4 item: locate a primary record naming him (e.g. an unredacted copy, a subcontract, or sworn testimony).",
+   "tier": 3
+  },
+  "c-ab45f9d795": {
+   "id": "c-ab45f9d795",
+   "kind": "claim",
+   "node": "aawsap-dird-series",
+   "nodeLabel": "AAWSAP Defense Intelligence Reference Document series",
+   "source": {
+    "domain": null,
+    "text": "Federation of American Scientists, 'AATIP List', 17 January 2019; DIA letter to Aftergood, 16 January 2019",
+    "url": null
+   },
+   "text": "DIA released a list of 38 AATIP/AAWSAP research titles to Steven Aftergood of FAS on 16 January 2019; the list had previously been provided to Congress in January 2018. The programme cost approximately $22 million and ran 2007-2012.",
+   "tier": 1
+  },
+  "c-ae965d3099": {
+   "id": "c-ae965d3099",
+   "kind": "claim",
+   "node": "aawsap",
+   "nodeLabel": "Advanced Aerospace Weapon System Applications Program (AAWSAP)",
+   "source": {
+    "domain": null,
+    "text": "James Lacatski to Jeremy Corbell, published 8 April 2026",
+    "url": null
+   },
+   "text": "AAWSAP produced more than 100 thick, highly detailed reports of UFO case data, of which the 38 DIRDs are only the literature-survey component.",
+   "tier": 2
+  },
+  "c-b5e1eba190": {
+   "id": "c-b5e1eba190",
+   "kind": "claim",
+   "node": "dird-series",
+   "nodeLabel": "The 38 Defense Intelligence Reference Documents (DIRDs)",
+   "source": {
+    "domain": "documents2.theblackvault.com",
+    "text": "Defense Intelligence Reference Document DIA-08-1003-017, 'Maverick Inventor Versus Corporate Inventor: Where Will the Next Major Innovations Arise?', 30 March 2010, 20 pages as released, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_17-DIRD_Maverick_Inventor_Versus_Corporate_Inventor-Where_Will_the_Next_major_Innovations_Arise.pdf , opened 2026-09-19",
+    "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_17-DIRD_Maverick_Inventor_Versus_Corporate_Inventor-Where_Will_the_Next_major_Innovations_Arise.pdf"
+   },
+   "text": "A SECOND ZERO-COUNT IN THE SAME SERIES, on the Hutchison effect. DIRD DIA-08-1003-017, 'Maverick Inventor Versus Corporate Inventor: Where Will the Next Major Innovations Arise?', 30 March 2010, 20 pages as released, attributed on the DIA list to Dr George Hathaway of Hathaway Consulting, names HUTCHISON 0 times and Pharos 0 times. Hathaway is the author of the book 'Mindbending: The Hutchison Files'.",
+   "tier": 1
+  },
+  "c-bad34a500d": {
+   "id": "c-bad34a500d",
+   "kind": "claim",
+   "node": "dird-series",
+   "nodeLabel": "The 38 Defense Intelligence Reference Documents (DIRDs)",
+   "source": {
+    "domain": "www.dia.mil",
+    "text": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/",
+    "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/"
+   },
+   "text": "DIA document numbers follow the pattern DIA-08-YYMM-NNN, where 08 ties to the FY2008 program start and YYMM is the production month — e.g. DIA-08-0911-016 (Nov 2009), DIA-08-1003-015 (Mar 2010), DIA-08-1102-007 (Feb 2011 batch). The numbering is sparse in the released set, which indicates the released DIRDs are not the complete numbered series.",
+   "tier": 1
+  },
+  "c-c103151f78": {
+   "id": "c-c103151f78",
+   "kind": "claim",
+   "node": "dird-series",
+   "nodeLabel": "The 38 Defense Intelligence Reference Documents (DIRDs)",
+   "source": {
+    "domain": "www.dia.mil",
+    "text": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237617/",
+    "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237617/"
+   },
+   "text": "DIA Info Memo U-429-09 Enclosure 1 lists the 26 FY2009 technical reports by working title (not final DIRD title), including several never released as DIRDs under those names: 'Pulse-Power-Based Weaponry', 'Space-Time Modifications for Spaceflight Applications', 'Novel MEMS-Based Biosensors', 'Metamaterials for Aerospace Applications', 'Metallic Glasses', 'Metallic Spintronics', 'Materials for Advanced Aerospace Platforms', 'Wormholes in Space Time', 'Gravity Wave Communication', 'Vacuum Energy Applications', 'Improved Statistical Approach to Drake Equation', 'Maverick vs. Corporate Research Cultures', 'Warp Drives', 'Controlling Devices Without Limb-Operated Interfaces', 'Field Effects on Biological Tissues', 'High-Energy Laser Weapon', 'Quantum Entanglement Communications', 'Space Access: Where Been, Where Go', 'Advanced Nuclear Propulsion for Deep Space', 'Inertial Electrostatic Confinement Fusion', 'Theory and Experiments of Invisibility Cloaking', 'Superconductors in Gravity Research', 'Antigravity for Aerospace Applications', 'Positron Aerospace Propulsion', 'Biosensors and BioMEMS', 'Programmable Matter'.",
+   "tier": 1
+  },
+  "c-c3a33baa73": {
+   "id": "c-c3a33baa73",
+   "kind": "claim",
+   "node": "dird-series",
+   "nodeLabel": "The 38 Defense Intelligence Reference Documents (DIRDs)",
+   "source": {
+    "domain": null,
+    "text": "DIA letter to Senators John McCain and Jack Reed, Senate Armed Services Committee, 9 January 2018, signed Brian L. Jenkins, Chief, Records Management and Information Services",
+    "url": null
+   },
+   "text": "The full DIA-transmitted list of 38 products with authors: 1. Inertial Electrostatic Confinement Fusion (Dr. George Miley, University of Illinois); 2. Advanced Nuclear Propulsion for Manned Deep Space Missions (Dr. F. Winterberg, University of Nevada-Reno); 3. Pulsed High-Power Microwave Technology (Dr. James Wells, JW Enterprises); 4. Space Access (Dr. P. Czysz, HyperTech); 5. Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering (Dr. Hal Puthoff, EarthTech International); 6. BioSensors and BioMEMS (Dr. Bruce Towe, University of Arizona); 7. Invisibility Cloaking (Dr. Ulf Leonhardt, University of St Andrews); 8. Traversable Wormholes, Stargates, and Negative Energy (Dr. Eric Davis, EarthTech International); 9. High-Frequency Gravitational Wave Communications (Dr. Robert Baker, GravWave); 10. Role of Superconductors in Gravity Research (Dr. George Hathaway, Hathaway Consulting); 11. Antigravity for Aerospace Applications (Dr. Eric Davis, EarthTech International); 12. Field Effects on Biological Tissues (Dr. Kit Green, Wayne State University); 13. Positron Aerospace Propulsion (Dr. Gerald Smith, Positronics Research); 14. Concepts for Extracting Energy from the Quantum Vacuum (Dr. Eric Davis, EarthTech International); 15. An Introduction to the Statistical Drake Equation (Dr. Claudio Maccone, International Academy of Astronautics); 16. Maverick Inventor Versus Corporate Inventor (Dr. George Hathaway, Hathaway Consulting); 17. Biomaterials (Dr. Bruce Towe, University of Arizona); 18. Metamaterials for Aerospace Applications (Dr. G. Shvets, University of Texas-Austin); 19. Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions (Dr. R. Obousy, Obousy Consultants); 20. Technological Approaches to Controlling External Devices in the Absence of Limb-Operated Interfaces (Dr. R. Genik, Wayne State University); 21. Materials for Advanced Aerospace Platforms (Dr. J. Williams, Ohio State University); 22. Metallic Glasses (Dr. T. Hufnagel, Johns Hopkins University); 23. Aerospace Applications of Programmable Matter (Dr. W. McCarthy, Programmable Matter Corporation); 24. Metallic Spintronics (Dr. M. Tsoi, University of Texas-Austin); 25. Space-Communication Implications of Quantum Entanglement and Nonlocality (Dr. J. Cramer, University of Washington); 26. Aneutronic Fusion Propulsion I (Dr. V. Teofilo, Lockheed Martin); 27. Cockpits in the Era of Breakthrough Flight (Dr. G. Millis, Tau Zero); 28. Cognitive Limits on Simultaneous Control of Multiple Unmanned Spacecraft (Dr. R. Genik, Wayne State University); 29. Detection and High Resolution Tracking of Vehicles at Hypersonic Velocities (Dr. W. Culbreth, University of Nevada-Las Vegas); 30. Aneutronic Fusion Propulsion II (Dr. W. Culbreth, University of Nevada-Las Vegas); 31. Laser Lightcraft Nanosatellites (Dr. E. Davis, EarthTech); 32. Magnetohydrodynamics (MHD) Air Breathing Propulsion and Power for Aerospace Applications (Dr. S. Macheret, Lockheed Martin); 33. Quantum Computing and Utilizing Organic Molecules in Automation Technology (Dr. R. Genik, Wayne State University); 34. Quantum Tomography of Negative Energy States in the Vacuum (Dr. Eric Davis, EarthTech); 35. Ultracapacitors as Energy and Power Storage Devices (Dr. J. Golightly, Lockheed Martin); 36. Negative Mass Propulsion (Dr. F. Winterberg, University of Nevada-Reno); 37. State of the Art and Evolution of High Energy Laser Weapons (J. Albertine, Directed Technologies) — SECRET/NOFORN; 38. State of the Art and Evolution of High Energy Laser Weapons (J. Albertine, Directed Technologies) — UNCLASSIFIED//FOUO.",
+   "tier": 1
+  },
+  "c-c5406ea5fd": {
+   "id": "c-c5406ea5fd",
+   "kind": "claim",
+   "node": "dird-series",
+   "nodeLabel": "The 38 Defense Intelligence Reference Documents (DIRDs)",
+   "source": {
+    "domain": null,
+    "text": "Inference from the composition of the deliverable list against the stated foreign-threat purpose",
+    "url": null
+   },
+   "text": "The subject distribution — six papers on vacuum energy, antigravity, warp drive, wormholes and negative mass, plus three on human biological and cognitive effects — indicates the requirement was written by someone already working a specific set of observed characteristics rather than surveying foreign capability broadly.",
+   "tier": 3
+  },
+  "c-c757ecee42": {
+   "id": "c-c757ecee42",
+   "kind": "claim",
+   "node": "dird-antigravity-for-aerospace-applications",
+   "nodeLabel": "Antigravity for Aerospace Applications",
+   "source": {
+    "domain": "documents2.theblackvault.com",
+    "text": "Defense Intelligence Reference Document DIA-08-1003-018, 'Antigravity for Aerospace Applications', 30 March 2010, ICOD 1 December 2009, 45 pages as released, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_19-DIRD_Antigravity_for_Aerospace_Applications.pdf , opened 2026-09-19",
+    "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_19-DIRD_Antigravity_for_Aerospace_Applications.pdf"
+   },
+   "text": "THE ZERO-COUNTS, taken over the whole released 45-page PDF on 19 September 2026: Biefeld 0, electrogravitics 0, ion wind 0, Podkletnov 0, and THOMAS TOWNSEND BROWN ABSENT. The three occurrences of 'Brown' are other authors' surnames in the reference list. Alcubierre occurs once, as reference [43], the 1994 Classical and Quantum Gravity citation, and that is its only appearance in this document. A count is checkable and an adjective is not, which is why the node carries numbers.",
+   "tier": 1
+  },
+  "c-c9afb9f987": {
+   "id": "c-c9afb9f987",
+   "kind": "claim",
+   "node": "dird-green-clinical-medical",
+   "nodeLabel": "DIRD: 'Clinical Medical Acute & Subacute Field Effects on Human Dermal & Neurological Tissues'",
+   "source": {
+    "domain": null,
+    "text": "Preface of the released document",
+    "url": null
+   },
+   "text": "The document's Hypothesis One reads: 'Sufficient evidence exists from human injury / effects to reverse engineer certain aspects of the Energy / Propulsion Systems.'",
+   "tier": 1
+  },
+  "c-cd0e60dbe0": {
+   "id": "c-cd0e60dbe0",
+   "kind": "claim",
+   "node": "dird-high-frequency-gravitational-wave-communications",
+   "nodeLabel": "High-Frequency Gravitational Wave Communications",
+   "source": {
+    "domain": "www.twz.com",
+    "text": "https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk",
+    "url": "https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk"
+   },
+   "text": "In 2008 the JASON advisory group reviewed separate HFGW work Baker had done for the Office of the Director of National Intelligence and rejected it: 'The proposed applications of the science of HFGW are fundamentally wrong,' and 'No foreign threat in HFGW is credible.' DIA nevertheless published Baker's HFGW paper as an official Defense Intelligence Reference Document on 6 April 2010.",
+   "tier": 1
+  },
+  "c-d1bb0cdd75": {
+   "id": "c-d1bb0cdd75",
+   "kind": "claim",
+   "node": "eric-davis",
+   "nodeLabel": "Eric W. Davis",
+   "source": {
+    "domain": null,
+    "text": "Cover and administrative note of DIA-08-1004-004 (released copy)",
+    "url": null
+   },
+   "text": "DIA reference document DIA-08-1004-004, 'Traversable Wormholes, Stargates, and Negative Energy', dated 6 April 2010, names Eric W. Davis, Ph.D., of EarthTech International Inc. as author and states it was produced in FY2009 under the DIA Defense Warning Office's Advanced Aerospace Weapon System Applications programme, with James T. Lacatski, D.Eng. as programme manager.",
+   "tier": 1
+  },
+  "c-d40d074f53": {
+   "id": "c-d40d074f53",
+   "kind": "claim",
+   "node": "kit-green",
+   "nodeLabel": "Christopher C. 'Kit' Green",
+   "source": {
+    "domain": null,
+    "text": "Christopher Green to Tim McMillan, Popular Mechanics, 14 February 2020",
+    "url": null
+   },
+   "text": "Green described the paper as 'focused on forensically assessing accounts of injuries that could have resulted from claimed encounters with UAP'.",
+   "tier": 2
+  },
+  "c-d77fb33a68": {
+   "id": "c-d77fb33a68",
+   "kind": "claim",
+   "node": "dird-cognitive-limits-on-simultaneous-control-of",
+   "nodeLabel": "Cognitive Limits on Simultaneous Control of Multiple Unmanned Spacecraft",
+   "source": {
+    "domain": "irp.fas.org",
+    "text": "https://irp.fas.org/dia/aatip-list.pdf",
+    "url": "https://irp.fas.org/dia/aatip-list.pdf"
+   },
+   "text": "The DIA list transmitted to the Senate Armed Services Committee on 9 January 2018 reads 'Cognitive Limits on Simultaneous Control of Multiple Unmanned Spacecraft, Dr R Genik, Wayne State Univ.'",
+   "tier": 1
+  },
+  "c-d7ea3c1985": {
+   "id": "c-d7ea3c1985",
+   "kind": "claim",
+   "node": "dird-traversable-wormholes",
+   "nodeLabel": "DIA-08-1004-004: 'Traversable Wormholes, Stargates, and Negative Energy'",
+   "source": {
+    "domain": null,
+    "text": "Cover pages of the released document",
+    "url": null
+   },
+   "text": "The document is numbered DIA-08-1004-004, dated 6 April 2010, with 'reOD: 1 December 2009', prepared by the Acquisition Support Division (DWO-3), Defense Warning Office, Directorate for Analysis, DIA.",
+   "tier": 1
+  },
+  "c-d9b8616040": {
+   "id": "c-d9b8616040",
+   "kind": "claim",
+   "node": "earthtech-international",
+   "nodeLabel": "EarthTech International / Institute for Advanced Studies at Austin",
+   "source": {
+    "domain": null,
+    "text": "DIA letter to SASC, 9 January 2018, items 5, 8, 11, 14, 31, 34",
+    "url": null
+   },
+   "text": "EarthTech International personnel authored six of the 38 AAWSAP DIRDs: Puthoff on spacetime metric engineering and Davis on wormholes, antigravity, quantum vacuum energy, laser lightcraft nanosatellites and quantum tomography of negative energy states.",
+   "tier": 1
+  },
+  "c-e229dc3867": {
+   "id": "c-e229dc3867",
+   "kind": "claim",
+   "node": "dird-series",
+   "nodeLabel": "The 38 Defense Intelligence Reference Documents (DIRDs)",
+   "source": {
+    "domain": "www.dia.mil",
+    "text": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/",
+    "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/"
+   },
+   "text": "Confirmed unreachable in this pass: 5 of the 37 DIRD filenames listed by DIA have no resolvable FileId URL — Biomaterials; Materials_For_Advanced_Aerospace_Platforms; Metallic_Glasses_For_Aerospace_Applications; Metallic_Spintronics; Metamaterials_For_Aerospace_Applications. The complete Wayback CDX index for dia.mil FOIA reading-room FileId URLs (3,536 unique FileIds) contains no snapshot of them, and the live page does not expose FileIds to a text fetcher.",
+   "tier": 1
+  },
+  "c-ec66ff30c4": {
+   "id": "c-ec66ff30c4",
+   "kind": "claim",
+   "node": "harold-puthoff",
+   "nodeLabel": "Harold E. Puthoff",
+   "source": {
+    "domain": "www.dia.mil",
+    "text": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237647/",
+    "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237647/"
+   },
+   "text": "Attribution of this DIRD to Harold E. Puthoff is not established by the DIA release, which redacts the author under (b)(6). It rests on Puthoff's own substantially identical published paper and on his public statements. Needs a primary record with the name attached — wave 4.",
+   "tier": 3
+  },
+  "c-ee7a972d4e": {
+   "id": "c-ee7a972d4e",
+   "kind": "claim",
+   "node": "kit-green",
+   "nodeLabel": "Christopher C. 'Kit' Green",
+   "source": {
+    "domain": null,
+    "text": "DIA letter to SASC, 9 January 2018, item 12; DIA FOIA release DIRD 26",
+    "url": null
+   },
+   "text": "Green authored the AAWSAP DIRD listed to Congress as 'Field Effects on Biological Tissues' and released as 'Anomalous Acute and Subacute Field Effects on Human Biological Tissues'.",
+   "tier": 1
+  },
+  "c-ef05a48dc7": {
+   "id": "c-ef05a48dc7",
+   "kind": "claim",
+   "node": "dird-an-introduction-to-the-statistical-drake",
+   "nodeLabel": "An Introduction to the Statistical Drake Equation",
+   "source": {
+    "domain": "irp.fas.org",
+    "text": "https://irp.fas.org/dia/aatip-list.pdf",
+    "url": "https://irp.fas.org/dia/aatip-list.pdf"
+   },
+   "text": "Authored by Dr Claudio Maccone of the International Academy of Astronautics, per the 9 January 2018 DIA list (item 15).",
+   "tier": 1
+  },
+  "c-ef8c21cd45": {
+   "id": "c-ef8c21cd45",
+   "kind": "claim",
+   "node": "aawsap-dird-series",
+   "nodeLabel": "AAWSAP Defense Intelligence Reference Document series",
+   "source": {
+    "domain": null,
+    "text": "Inference from the full 38-title list",
+    "url": null
+   },
+   "text": "The composition of the series - propulsion physics, exotic materials, metamaterials, metallic glasses, spintronics, biomaterials and a clinical injury study - is the commissioning profile of an organisation attempting to characterise an artefact it possesses, not of an organisation surveying a future threat. No single document states this; the inference is from the set.",
+   "tier": 3
+  },
+  "c-fb09fc8b38": {
+   "id": "c-fb09fc8b38",
+   "kind": "claim",
+   "node": "dird-series",
+   "nodeLabel": "The 38 Defense Intelligence Reference Documents (DIRDs)",
+   "source": {
+    "domain": null,
+    "text": "The War Zone analysis of the DIRD list, 18 January 2019, citing the JASON HFGW report",
+    "url": null
+   },
+   "text": "The JASON advisory group's 2008 assessment of Robert Baker's high-frequency gravitational wave concept concluded 'the proposed applications of the science of HFGW are fundamentally wrong', a critique published before DIA accepted the DIRD on the same subject.",
+   "tier": 2
+  },
+  "e-00dc3b6ebb": {
+   "endpoints": [
+    {
+     "id": "aawsap",
+     "label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)"
+    },
+    {
+     "id": "dird-series",
+     "label": "The 38 Defense Intelligence Reference Documents (DIRDs)"
+    }
+   ],
+   "id": "e-00dc3b6ebb",
+   "kind": "edge",
+   "label": "26 FY2009 + 12 FY2010 technical reports",
+   "sources": [
+    {
+     "date": null,
+     "name": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237626/",
+     "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237626/"
+    },
+    {
+     "date": "2008-08-18",
+     "name": "FedBizOpps notice: ADVANCED AEROSPACE WEAPON SYSTEM APPLICATIONS PROGRAM, Solicitation HHM40208R0211 (DIA FOIA release)",
+     "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237630/"
+    }
+   ],
+   "text": "The DIRDs are the contract's deliverables. DIA Talking Paper U-973-09 records that the RFP broke the work into twelve technical areas - lift, propulsion, control, armament, signature reduction and the rest - and the Defense Intelligence Reference Documents are the products those areas were delivered as. Every one of the 32 series-member edges was verified against the released PDF's cover page on 22 August 2026.",
+   "tier": 1,
+   "type": "programmatic"
+  },
+  "e-02c70e3391": {
+   "endpoints": [
+    {
+     "id": "dird-green-clinical-medical",
+     "label": "DIRD: 'Clinical Medical Acute & Subacute Field Effects on Human Dermal & Neurological Tissues'"
+    },
+    {
+     "id": "earthtech-international",
+     "label": "EarthTech International / Institute for Advanced Studies at Austin"
+    }
+   ],
+   "id": "e-02c70e3391",
+   "kind": "edge",
+   "label": "Produced under the Institute for Advanced Studies at Austin imprint",
+   "sources": [
+    {
+     "date": "2020-01-01",
+     "name": "DIRD 'Clinical Medical Acute & Subacute Field Effects on Human Dermal & Neurological Tissues' (Christopher Green, Institute for Advanced Studies at Austin)",
+     "url": "https://www.theblackvault.com/documentarchive/wp-content/uploads/2020/01/kitgreen-dird.pdf"
+    }
+   ],
+   "text": "The document's cover page carries the IASA name above the headings 'Translational Sciences / Forensic Medicine - Engineering Mechanics', placing Puthoff's institute as the producing organisation for the government's medical study.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-300caf5638": {
+   "endpoints": [
+    {
+     "id": "baass",
+     "label": "Bigelow Aerospace Advanced Space Studies (BAASS), LLC"
+    },
+    {
+     "id": "dird-series",
+     "label": "The 38 Defense Intelligence Reference Documents (DIRDs)"
+    }
+   ],
+   "id": "e-300caf5638",
+   "kind": "edge",
+   "label": "prime contractor that commissioned and delivered the 38 DIRDs",
+   "sources": [
+    {
+     "date": "2018-01-09",
+     "name": "DIA letter to SASC",
+     "url": "https://documents.theblackvault.com/documents/dia/dia-aatip-reports.pdf"
+    }
+   ],
+   "text": "BAASS subcontracted the reports to EarthTech, Lockheed Martin, and a dozen universities and delivered them to DIA as Defense Intelligence Reference Documents.",
+   "tier": 1,
+   "type": "programmatic"
+  },
+  "e-3072445046": {
+   "endpoints": [
+    {
+     "id": "dird-mhd-air-breathing-propulsion-and-power",
+     "label": "MHD Air Breathing Propulsion and Power for Aerospace Applications"
+    },
+    {
+     "id": "sergey-macheret",
+     "label": "Sergey O. Macheret"
+    }
+   ],
+   "id": "e-3072445046",
+   "kind": "edge",
+   "label": "authored by",
+   "sources": [
+    {
+     "date": "2026-08-22",
+     "name": "Released DIRD, 'MHD Air Breathing Propulsion and Power for Aerospace Applications' — FOIA copy, cover page read 22 August 2026",
+     "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_33-DIRD_MHD_Air_Breathing_Propulsion_and_Power_for_Aerospace_Applications.pdf"
+    },
+    {
+     "date": "2026-08-22",
+     "name": "DIA FOIA Electronic Reading Room entry for this reference document",
+     "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237629/"
+    },
+    {
+     "date": "2026-08-23",
+     "name": "DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations",
+     "url": "https://fas.org/publication/aatip-list/"
+    },
+    {
+     "date": null,
+     "name": "https://irp.fas.org/dia/aatip-list.pdf",
+     "url": "https://irp.fas.org/dia/aatip-list.pdf"
+    },
+    {
+     "date": null,
+     "name": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html",
+     "url": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html"
+    }
+   ],
+   "text": "The DIA congressional list credits 'Magnetohydrodynamics (MHD) Air Breathing Propulsion and Power for Aerospace Applications' to 'Dr S Macheret, Lockheed Martin'. Macheret is a plasma physicist (Ph.D., Kurchatov Institute) with a substantial peer-reviewed record in MHD flow control, and this DIRD is among the most conventionally grounded on the list.",
+   "tier": 1,
+   "type": "research"
+  },
+  "e-367ae68550": {
+   "endpoints": [
+    {
+     "id": "harold-puthoff",
+     "label": "Harold E. Puthoff"
+    },
+    {
+     "id": "dird-advanced-space-propulsion-based-on-vacuum",
+     "label": "Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering"
+    }
+   ],
+   "id": "e-367ae68550",
+   "kind": "edge",
+   "label": "Named author of the AAWSAP vacuum-engineering propulsion study",
+   "sources": [
+    {
+     "date": "2026-08-12",
+     "name": "DIA FOIA Electronic Reading Room - Advanced Aerospace Threat Identification Program",
+     "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FOIA-Reading-Room-Advanced-Aerospace-Threat-Identification-Program/"
+    },
+    {
+     "date": "2019-01-17",
+     "name": "Federation of American Scientists, 'AATIP List' (Secrecy News)",
+     "url": "https://fas.org/publication/aatip-list/"
+    }
+   ],
+   "text": "Listed by DIA among the 38 AAWSAP reference products and hosted in the DIA FOIA reading room; the propulsion theory commissioned alongside the injury pathology.",
+   "tier": 1,
+   "type": "programmatic"
+  },
+  "e-4397e53108": {
+   "endpoints": [
+    {
+     "id": "dird-cognitive-limits-on-simultaneous-control-of",
+     "label": "Cognitive Limits on Simultaneous Control of Multiple Unmanned Spacecraft"
+    },
+    {
+     "id": "richard-genik",
+     "label": "Richard J. Genik II"
+    }
+   ],
+   "id": "e-4397e53108",
+   "kind": "edge",
+   "label": "authored by Richard J. Genik II",
+   "sources": [
+    {
+     "date": "2026-08-22",
+     "name": "Released DIRD, 'Cognitive Limits on Simultaneous Control of Multiple Unmanned Spacecra' — FOIA copy, cover page read 22 August 2026",
+     "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_34-DIRD_Cognitive_Limits_on_Simultaneous_Control_of_Multiple_Unmanned_Spacecraft.pdf"
+    },
+    {
+     "date": "2026-08-22",
+     "name": "DIA FOIA Electronic Reading Room entry for this reference document",
+     "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237649/"
+    },
+    {
+     "date": "2026-08-23",
+     "name": "DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations",
+     "url": "https://fas.org/publication/aatip-list/"
+    },
+    {
+     "date": null,
+     "name": "https://irp.fas.org/dia/aatip-list.pdf",
+     "url": "https://irp.fas.org/dia/aatip-list.pdf"
+    },
+    {
+     "date": null,
+     "name": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html",
+     "url": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html"
+    },
+    {
+     "date": null,
+     "name": "https://today.wayne.edu/medicine/news/2009/07/13/richard-genik-phd-25514",
+     "url": "https://today.wayne.edu/medicine/news/2009/07/13/richard-genik-phd-25514"
+    }
+   ],
+   "text": "The DIA list of 9 January 2018 records 'Cognitive Limits on Simultaneous Control of Multiple Unmanned Spacecraft, Dr R Genik, Wayne State Univ.' The released PDF's author block is redacted under (b)(6). Genik wrote three of the 38 DIRDs, the largest single-author block after Eric Davis's five.",
+   "tier": 1,
+   "type": "research"
+  },
+  "e-56fc4e85e9": {
+   "endpoints": [
+    {
+     "id": "dird-invisibility-cloaking-theory-and-experiments",
+     "label": "Invisibility Cloaking: Theory and Experiments"
+    },
+    {
+     "id": "ulf-leonhardt",
+     "label": "Ulf Leonhardt"
+    }
+   ],
+   "id": "e-56fc4e85e9",
+   "kind": "edge",
+   "label": "authored by Ulf Leonhardt, University of St Andrews",
+   "sources": [
+    {
+     "date": "2026-08-22",
+     "name": "Released DIRD, 'Invisibility Cloaking: Theory and Experiments' — FOIA copy, cover page read 22 August 2026",
+     "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_07-DIRD_Invisibility_Cloaking-Theory_and_Experiments.pdf"
+    },
+    {
+     "date": "2026-08-22",
+     "name": "DIA FOIA Electronic Reading Room entry for this reference document",
+     "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237639/"
+    },
+    {
+     "date": "2026-08-23",
+     "name": "DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations",
+     "url": "https://fas.org/publication/aatip-list/"
+    },
+    {
+     "date": null,
+     "name": "https://irp.fas.org/dia/aatip-list.pdf",
+     "url": "https://irp.fas.org/dia/aatip-list.pdf"
+    },
+    {
+     "date": null,
+     "name": "https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk",
+     "url": "https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk"
+    }
+   ],
+   "text": "The DIA list of 9 January 2018 records 'Invisibility Cloaking, Dr Ulf Leonhardt, Univ of St Andrews.' The released PDF's author block is redacted under (b)(6). Leonhardt had been publishing on transformation optics and cloaking since 2006 and was, by the ICOD of 1 December 2009, one of the small number of internationally recognised authorities in the field. George Knapp released a copy of the DIRD in February 2019.",
+   "tier": 1,
+   "type": "research"
+  },
+  "e-5bc069a345": {
+   "endpoints": [
+    {
+     "id": "dird-inertial-electrostatic-confinement-fusion",
+     "label": "Inertial Electrostatic Confinement Fusion"
+    },
+    {
+     "id": "george-miley",
+     "label": "George H. Miley"
+    }
+   ],
+   "id": "e-5bc069a345",
+   "kind": "edge",
+   "label": "authored by George H. Miley, University of Illinois",
+   "sources": [
+    {
+     "date": "2026-08-22",
+     "name": "Released DIRD, 'Inertial Electrostatic Confinement Fusion' — FOIA copy, cover page read 22 August 2026",
+     "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_09-DIRD_Inertial_Electrostatic_Confinement_Fusion.pdf"
+    },
+    {
+     "date": "2026-08-22",
+     "name": "DIA FOIA Electronic Reading Room entry for this reference document",
+     "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237663/"
+    },
+    {
+     "date": "2026-08-23",
+     "name": "DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations",
+     "url": "https://fas.org/publication/aatip-list/"
+    },
+    {
+     "date": null,
+     "name": "https://irp.fas.org/dia/aatip-list.pdf",
+     "url": "https://irp.fas.org/dia/aatip-list.pdf"
+    },
+    {
+     "date": null,
+     "name": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html",
+     "url": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html"
+    },
+    {
+     "date": null,
+     "name": "https://link.springer.com/book/10.1007/978-1-4614-9338-9",
+     "url": "https://link.springer.com/book/10.1007/978-1-4614-9338-9"
+    }
+   ],
+   "text": "Entry 1 on both the KLAS list of July 2018 and the DIA letter of 9 January 2018: 'Inertial Electrostatics Confinement Fusion, Dr George Miley, Univ. of Illinois.' The released PDF's author block is redacted under (b)(5). Miley is co-author of the Springer monograph on IEC fusion, making him a documented subject-matter authority rather than a fringe recruit.",
+   "tier": 1,
+   "type": "research"
+  },
+  "e-63a04c2582": {
+   "endpoints": [
+    {
+     "id": "vincent-teofilo",
+     "label": "Vincent L. Teofilo"
+    },
+    {
+     "id": "dird-aneutronic-fusion-propulsion-2",
+     "label": "Aneutronic Fusion Propulsion (DIA-08-1011-004)"
+    }
+   ],
+   "id": "e-63a04c2582",
+   "kind": "edge",
+   "label": "authored (attribution by internal self-citation, see note)",
+   "sources": [
+    {
+     "date": "2026-08-22",
+     "name": "Released DIRD, 'Aneutronic Fusion Propulsion (DIA-08-1011-004)' — FOIA copy, cover page read 22 August 2026",
+     "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_37-DIRD_Aneutronic_Fusion_Propulsion_II.pdf"
+    },
+    {
+     "date": "2026-08-22",
+     "name": "DIA FOIA Electronic Reading Room entry for this reference document",
+     "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237644/"
+    },
+    {
+     "date": null,
+     "name": "https://irp.fas.org/dia/aatip-list.pdf",
+     "url": "https://irp.fas.org/dia/aatip-list.pdf"
+    }
+   ],
+   "text": "TIER 2 AND DELIBERATELY SO. Cover author field is redacted under (b)(6) and reads \"Authors\" plural, so there may have been co-authors. Assigned to Teofilo because endnote 17 cites \"G. Miley, H. Momota, L. Wu, M. Reilley, V. Teofilo, R. Dell, and R. Hargus, Space Probe Application of IEC Thrusters, Fusion Science and Technology 56 1, 533-539, July 2009\" - the only occurrence of either candidate author's surname in either aneutronic document - immediately adjacent to a citation of AeroJet/Lockheed Martin Space Systems Hall thruster hardware that also appears in the body text. Paired with the Culbreth edge; if reversed, swap both.",
+   "tier": 2,
+   "type": "research"
+  },
+  "e-81f714787a": {
+   "endpoints": [
+    {
+     "id": "eric-davis",
+     "label": "Eric W. Davis"
+    },
+    {
+     "id": "dird-antigravity-for-aerospace-applications",
+     "label": "Antigravity for Aerospace Applications"
+    }
+   ],
+   "id": "e-81f714787a",
+   "kind": "edge",
+   "label": "authored",
+   "sources": [
+    {
+     "date": "2026-08-22",
+     "name": "Released DIRD, 'Antigravity for Aerospace Applications' — FOIA copy, cover page read 22 August 2026",
+     "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_19-DIRD_Antigravity_for_Aerospace_Applications.pdf"
+    },
+    {
+     "date": "2026-08-22",
+     "name": "DIA FOIA Electronic Reading Room entry for this reference document",
+     "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237651/"
+    },
+    {
+     "date": "2026-08-23",
+     "name": "DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations",
+     "url": "https://fas.org/publication/aatip-list/"
+    },
+    {
+     "date": null,
+     "name": "https://irp.fas.org/dia/aatip-list.pdf",
+     "url": "https://irp.fas.org/dia/aatip-list.pdf"
+    },
+    {
+     "date": null,
+     "name": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html",
+     "url": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html"
+    }
+   ],
+   "text": "DIA list item 11 names \"Dr Eric Davis, EarthTech International\". Independently confirmed by EarthTech International's own publication list, which cites the document as Davis, E. W. (2010) with document number DIA-08-1003-018 and originating office Acquisition Support Division (DWO-3), Defense Warning Office.",
+   "tier": 1,
+   "type": "research"
+  },
+  "e-86b3aad84e": {
+   "endpoints": [
+    {
+     "id": "william-culbreth",
+     "label": "William Culbreth"
+    },
+    {
+     "id": "dird-aneutronic-fusion-propulsion",
+     "label": "Aneutronic Fusion Propulsion (DIA-08-1011-003)"
+    }
+   ],
+   "id": "e-86b3aad84e",
+   "kind": "edge",
+   "label": "authored (attribution by elimination, see note)",
+   "sources": [
+    {
+     "date": "2026-08-22",
+     "name": "Released DIRD, 'Aneutronic Fusion Propulsion (DIA-08-1011-003)' — FOIA copy, cover page read 22 August 2026",
+     "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_30-DIRD_Aneutronic_Fusion_Propulsion.pdf"
+    },
+    {
+     "date": "2026-08-22",
+     "name": "DIA FOIA Electronic Reading Room entry for this reference document",
+     "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237658/"
+    },
+    {
+     "date": "2026-08-23",
+     "name": "DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations",
+     "url": "https://fas.org/publication/aatip-list/"
+    },
+    {
+     "date": null,
+     "name": "https://irp.fas.org/dia/aatip-list.pdf",
+     "url": "https://irp.fas.org/dia/aatip-list.pdf"
+    }
+   ],
+   "text": "TIER 2 AND DELIBERATELY SO. The DIA list establishes at tier 1 that two aneutronic fusion DIRDs exist, one by V. Teofilo (Lockheed Martin) and one by W. Culbreth (UNLV). Which released document number belongs to which author is NOT stated on either cover, both of which redact the author under (b)(6). This document, DIA-08-1011-003, is assigned to Culbreth because the companion DIA-08-1011-004 carries a V. Teofilo self-citation at endnote 17 and Lockheed Martin content, while this one carries none of either and is instead saturated with Nevada Test Site, Project Rover and NERVA material plus nuclear engineering textbook citations. If the mapping is ever shown to be reversed, this edge and its partner must be swapped together.",
+   "tier": 2,
+   "type": "research"
+  },
+  "e-a1a3034528": {
+   "endpoints": [
+    {
+     "id": "claudio-maccone",
+     "label": "Claudio Maccone"
+    },
+    {
+     "id": "dird-an-introduction-to-the-statistical-drake",
+     "label": "An Introduction to the Statistical Drake Equation"
+    }
+   ],
+   "id": "e-a1a3034528",
+   "kind": "edge",
+   "label": "authored",
+   "sources": [
+    {
+     "date": "2026-08-22",
+     "name": "Released DIRD, 'An Introduction to the Statistical Drake Equation' — FOIA copy, cover page read 22 August 2026",
+     "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_25-DIRD_An_Introduction_to_the_Statistical_Drake_Equation.pdf"
+    },
+    {
+     "date": "2026-08-22",
+     "name": "DIA FOIA Electronic Reading Room entry for this reference document",
+     "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237662/"
+    },
+    {
+     "date": "2026-08-23",
+     "name": "DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations",
+     "url": "https://fas.org/publication/aatip-list/"
+    },
+    {
+     "date": null,
+     "name": "https://irp.fas.org/dia/aatip-list.pdf",
+     "url": "https://irp.fas.org/dia/aatip-list.pdf"
+    }
+   ],
+   "text": "DIA list item 15 names \"Dr Claudio Maccone, International Academy of Astronautics\". Independently corroborated by Appendix B of the released document, which reproduces his IAA conference paper with the byline intact.",
+   "tier": 1,
+   "type": "research"
+  },
+  "e-dbdb187cc4": {
+   "endpoints": [
+    {
+     "id": "dird-high-frequency-gravitational-wave-communications",
+     "label": "High-Frequency Gravitational Wave Communications"
+    },
+    {
+     "id": "robert-baker",
+     "label": "Robert M. L. Baker, Jr."
+    }
+   ],
+   "id": "e-dbdb187cc4",
+   "kind": "edge",
+   "label": "authored by Robert M. L. Baker Jr., GravWave LLC",
+   "sources": [
+    {
+     "date": "2026-08-22",
+     "name": "Released DIRD, 'High-Frequency Gravitational Wave Communications' — FOIA copy, cover page read 22 August 2026",
+     "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_21-DIRD_High-Frequency_Gravitational_Wave_Communications.pdf"
+    },
+    {
+     "date": "2026-08-22",
+     "name": "DIA FOIA Electronic Reading Room entry for this reference document",
+     "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237646/"
+    },
+    {
+     "date": "2026-08-23",
+     "name": "DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations",
+     "url": "https://fas.org/publication/aatip-list/"
+    },
+    {
+     "date": null,
+     "name": "https://irp.fas.org/dia/aatip-list.pdf",
+     "url": "https://irp.fas.org/dia/aatip-list.pdf"
+    },
+    {
+     "date": null,
+     "name": "https://ufos-scientificresearch.blogspot.com/2018/08/an-analysis-of-that-list-of-aawsapaatip.html",
+     "url": "https://ufos-scientificresearch.blogspot.com/2018/08/an-analysis-of-that-list-of-aawsapaatip.html"
+    }
+   ],
+   "text": "The DIA list of 9 January 2018 records entry 9 as 'High Frequency Gravitational Wave Communications, Dr Robert Baker, GravWave' - the earlier KLAS transcription rendered the title as 'Gravity Wave Communication'. The released PDF's author block is redacted under (b)(6). Baker confirmed to researcher Keith Basterfield that he published three related HFGW papers in 2010.",
+   "tier": 1,
+   "type": "research"
+  },
+  "e-e17e4dea1a": {
+   "endpoints": [
+    {
+     "id": "dird-green-clinical-medical",
+     "label": "DIRD: 'Clinical Medical Acute & Subacute Field Effects on Human Dermal & Neurological Tissues'"
+    },
+    {
+     "id": "harold-puthoff",
+     "label": "Harold E. Puthoff"
+    }
+   ],
+   "id": "e-e17e4dea1a",
+   "kind": "edge",
+   "label": "Preface quotes a November 2007 proposal on 'Probable ET Generated' emissions addressed to Puthoff/Hathaway",
+   "sources": [
+    {
+     "date": "2020-01-01",
+     "name": "DIRD 'Clinical Medical Acute & Subacute Field Effects on Human Dermal & Neurological Tissues' (Christopher Green, Institute for Advanced Studies at Austin)",
+     "url": "https://www.theblackvault.com/documentarchive/wp-content/uploads/2020/01/kitgreen-dird.pdf"
+    }
+   ],
+   "text": "This is the earliest dated documentary link between Puthoff and a US-sponsored effort to characterise fields associated with 'exotic propulsion' - nine months before the AAWSAP contract was awarded to BAASS.",
+   "tier": 1,
+   "type": "custody"
+  },
+  "e-e541b7be8d": {
+   "endpoints": [
+    {
+     "id": "aawsap-dird-series",
+     "label": "AAWSAP Defense Intelligence Reference Document series"
+    },
+    {
+     "id": "dia-aatip-list-2019",
+     "label": "DIA letter to Steven Aftergood listing 38 AATIP reference products (16 January 2019)"
+    }
+   ],
+   "id": "e-e541b7be8d",
+   "kind": "edge",
+   "label": "The 38-title list is the only official enumeration of the series",
+   "sources": [
+    {
+     "date": "2019-01-17",
+     "name": "Federation of American Scientists, 'AATIP List' (Secrecy News)",
+     "url": "https://fas.org/publication/aatip-list/"
+    },
+    {
+     "date": "2019-01-16",
+     "name": "DIA letter to Steven Aftergood listing 38 AATIP reference products",
+     "url": "https://irp.fas.org/dia/aatip-list.pdf"
+    }
+   ],
+   "text": "DIA released the list to Steven Aftergood of FAS on 16 January 2019 under FOIA; it had been provided to Congress in January 2018. Without this release the series would be known only from leaks.",
+   "tier": 1,
+   "type": "investigative"
+  },
+  "e-fdcf00a5b7": {
+   "endpoints": [
+    {
+     "id": "earthtech-international",
+     "label": "EarthTech International / Institute for Advanced Studies at Austin"
+    },
+    {
+     "id": "dird-series",
+     "label": "The 38 Defense Intelligence Reference Documents (DIRDs)"
+    }
+   ],
+   "id": "e-fdcf00a5b7",
+   "kind": "edge",
+   "label": "largest single DIRD producer - six of 38",
+   "sources": [
+    {
+     "date": "2019-01-18",
+     "name": "The War Zone",
+     "url": "https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk"
+    }
+   ],
+   "text": "A small Austin firm produced more of the deliverable set than any university or defence prime, indicating a directed rather than competed distribution.",
+   "tier": 1,
+   "type": "funding"
+  }
+ },
+ "claimed": [
+  {
+   "cite": [
+    "c-ae965d3099"
+   ],
+   "text": "AAWSAP's participants say the programme produced more than 100 detailed reports, of which the 38 DIRDs are only the literature-survey part."
+  },
+  {
+   "cite": [
+    "c-d40d074f53",
+    "c-965466c524",
+    "c-34d4b67c9f"
+   ],
+   "text": "Green describes his paper as a forensic assessment of injuries that could have come from claimed UAP encounters, says he keeps a clinical case series of such patients drawn largely from military and intelligence personnel, and says that at CIA he was the officer to whom UFO reporting was routed."
+  },
+  {
+   "cite": [
+    "c-2451f39f83",
+    "c-993d987c29",
+    "c-337b9b8425"
+   ],
+   "text": "Davis, the most prolific DIRD author, is reported to have given classified briefings to Senate committee staff in 2019 (the board's items date them to March and to October) and to a Defense Department agency in March 2020 on retrievals of off-world vehicles not made on this earth, saying of the materials that we couldn't make it ourselves."
+  },
+  {
+   "cite": [
+    "c-15b334c53a"
+   ],
+   "text": "How the papers reached the public matters: the warp drive DIRD first appeared on a website run by Corey Goode in December 2017, and Davis confirmed to researcher Isaac Koi that the circulating copy was genuine."
+  }
+ ],
+ "contested": [
+  {
+   "cite": [
+    "c-cd0e60dbe0",
+    "c-8cef4aab39",
+    "c-fb09fc8b38",
+    "e-dbdb187cc4"
+   ],
+   "text": "In 2008 the JASON advisory group rejected Robert Baker's high-frequency gravitational wave work, finding the proposed applications fundamentally wrong and no foreign threat credible; DIA published Baker's DIRD on the same subject in April 2010 regardless."
+  },
+  {
+   "cite": [
+    "c-38f6009f34"
+   ],
+   "text": "Mainstream defence reporting characterised EarthTech's DIRD output as relying on borderline fringe science."
+  },
+  {
+   "cite": [
+    "c-c5406ea5fd",
+    "c-ef8c21cd45",
+    "c-a81af414a3",
+    "c-a3da462649"
+   ],
+   "text": "The board reads the mix of subjects, six papers on vacuum energy, antigravity, warp drive, wormholes and negative mass plus biological and cognitive studies, as the commissioning profile of someone characterising observed properties rather than surveying foreign capability, and Green's injury paper as a sign that the sponsors already held injury cases. These are inferences from the set; no document states them."
+  },
+  {
+   "cite": [
+    "c-a06f4a6182",
+    "c-5158e94e65"
+   ],
+   "text": "Against that reading, the antigravity survey's zero counts show a review of published gravitational and vacuum physics, and the board records them as evidence of what the survey covers, not of what the programme knew."
+  },
+  {
+   "cite": [
+    "c-a843555a42",
+    "c-ec66ff30c4",
+    "c-300af3cd3d",
+    "c-7fb0b6e2a9",
+    "c-5c7fed8ae7",
+    "c-ee7a972d4e"
+   ],
+   "text": "Authorship rests on the DIA list, not the covers: the board notes that the DIA release alone does not establish Davis, Puthoff or Green as authors, while the list sent to the Senate names each of them."
+  },
+  {
+   "cite": [
+    "c-5972eead09",
+    "c-4989ae3f82",
+    "c-a22e3d0c3d",
+    "e-86b3aad84e",
+    "e-63a04c2582"
+   ],
+   "text": "The records disagree on details. The DIA list names Richard Obousy as author of the warp drive paper, which EarthTech cites as by Obousy and Davis and the press attributes to Davis alone; and the board records the list as titling the laser paper Evaluation of High Energy Laser Weapons where the released document says Evolution. Two aneutronic fusion papers are attributed to Culbreth and Teofilo only by elimination and self-citation."
+  },
+  {
+   "cite": [
+    "c-90487e0579",
+    "c-88c674b699"
+   ],
+   "text": "The board infers that NASA's 1996 to 2002 breakthrough propulsion project was run in public and closed on published results, while DIA commissioned overlapping work, released it only under FOIA and withheld every author; and that the two surviving surnames show redaction by template rather than review."
+  }
+ ],
  "essays": [],
  "focusEra": "2",
  "id": "dirds",
  "kind": "document",
- "lead": null,
- "members": [],
+ "lead": {
+  "cite": [
+   "c-c3a33baa73",
+   "c-a1b107a1b3",
+   "c-13d09b773c",
+   "e-00dc3b6ebb"
+  ],
+  "text": "The Defense Intelligence Reference Documents are the 38 technical reports produced for DIA under the AAWSAP contract, on subjects running from fusion propulsion and invisibility cloaking to warp drive, wormholes and field effects on biological tissue. DIA gave Congress the list of titles and authors in January 2018, and 37 of the 38 papers are listed as released."
+ },
+ "members": [
+  {
+   "cls": "document",
+   "id": "dird-series",
+   "label": "The 38 Defense Intelligence Reference Documents (DIRDs)",
+   "role": "subject"
+  },
+  {
+   "cls": "program",
+   "id": "aawsap-dird-series",
+   "label": "AAWSAP Defense Intelligence Reference Document series",
+   "role": "document"
+  },
+  {
+   "cls": "document",
+   "id": "dia-aatip-list-2019",
+   "label": "DIA letter to Steven Aftergood listing 38 AATIP reference products (16 January 2019)",
+   "role": "document"
+  },
+  {
+   "cls": "program",
+   "id": "aawsap",
+   "label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)",
+   "role": "programme"
+  },
+  {
+   "cls": "institution",
+   "id": "baass",
+   "label": "Bigelow Aerospace Advanced Space Studies (BAASS), LLC",
+   "role": "contractor"
+  },
+  {
+   "cls": "institution",
+   "id": "earthtech-international",
+   "label": "EarthTech International / Institute for Advanced Studies at Austin",
+   "role": "contractor"
+  },
+  {
+   "cls": "institution",
+   "id": "lockheed-martin",
+   "label": "Lockheed Martin Corporation",
+   "role": "contractor"
+  },
+  {
+   "cls": "person",
+   "id": "james-lacatski",
+   "label": "James T. Lacatski",
+   "role": "official"
+  },
+  {
+   "cls": "institution",
+   "id": "dia",
+   "label": "Defense Intelligence Agency",
+   "role": "institution"
+  },
+  {
+   "cls": "institution",
+   "id": "wayne-state-university",
+   "label": "Wayne State University",
+   "role": "institution"
+  },
+  {
+   "cls": "person",
+   "id": "eric-davis",
+   "label": "Eric W. Davis",
+   "role": "researcher"
+  },
+  {
+   "cls": "person",
+   "id": "harold-puthoff",
+   "label": "Harold E. Puthoff",
+   "role": "researcher"
+  },
+  {
+   "cls": "person",
+   "id": "kit-green",
+   "label": "Christopher C. 'Kit' Green",
+   "role": "researcher"
+  },
+  {
+   "cls": "person",
+   "id": "richard-genik",
+   "label": "Richard J. Genik II",
+   "role": "researcher"
+  },
+  {
+   "cls": "person",
+   "id": "friedwardt-winterberg",
+   "label": "Friedwardt Winterberg",
+   "role": "researcher"
+  },
+  {
+   "cls": "person",
+   "id": "george-hathaway",
+   "label": "George D. Hathaway",
+   "role": "researcher"
+  },
+  {
+   "cls": "person",
+   "id": "william-culbreth",
+   "label": "William Culbreth",
+   "role": "researcher"
+  },
+  {
+   "cls": "person",
+   "id": "bruce-towe",
+   "label": "Bruce C. Towe",
+   "role": "researcher"
+  },
+  {
+   "cls": "person",
+   "id": "claudio-maccone",
+   "label": "Claudio Maccone",
+   "role": "researcher"
+  },
+  {
+   "cls": "person",
+   "id": "george-miley",
+   "label": "George H. Miley",
+   "role": "researcher"
+  },
+  {
+   "cls": "person",
+   "id": "gerald-smith",
+   "label": "Gerald A. Smith",
+   "role": "researcher"
+  },
+  {
+   "cls": "person",
+   "id": "j-golightly",
+   "label": "J. Golightly",
+   "role": "researcher"
+  },
+  {
+   "cls": "person",
+   "id": "james-wells",
+   "label": "James Wells",
+   "role": "researcher"
+  },
+  {
+   "cls": "person",
+   "id": "john-albertine",
+   "label": "J. Albertine",
+   "role": "researcher"
+  },
+  {
+   "cls": "person",
+   "id": "john-cramer",
+   "label": "John G. Cramer",
+   "role": "researcher"
+  },
+  {
+   "cls": "person",
+   "id": "marc-millis",
+   "label": "Marc G. Millis",
+   "role": "researcher"
+  },
+  {
+   "cls": "person",
+   "id": "paul-czysz",
+   "label": "Paul A. Czysz",
+   "role": "researcher"
+  },
+  {
+   "cls": "person",
+   "id": "sergey-macheret",
+   "label": "Sergey O. Macheret",
+   "role": "researcher"
+  },
+  {
+   "cls": "person",
+   "id": "ulf-leonhardt",
+   "label": "Ulf Leonhardt",
+   "role": "researcher"
+  },
+  {
+   "cls": "person",
+   "id": "vincent-teofilo",
+   "label": "Vincent L. Teofilo",
+   "role": "researcher"
+  },
+  {
+   "cls": "person",
+   "id": "wil-mccarthy",
+   "label": "Wil McCarthy",
+   "role": "researcher"
+  },
+  {
+   "cls": "person",
+   "id": "richard-obousy",
+   "label": "Richard K. Obousy",
+   "role": "researcher"
+  },
+  {
+   "cls": "person",
+   "id": "robert-baker",
+   "label": "Robert M. L. Baker, Jr.",
+   "role": "researcher"
+  },
+  {
+   "cls": "document",
+   "id": "dird-advanced-nuclear-propulsion-for-manned-deep",
+   "label": "Advanced Nuclear Propulsion for Manned Deep Space Missions",
+   "role": "document"
+  },
+  {
+   "cls": "document",
+   "id": "dird-advanced-space-propulsion-based-on-vacuum",
+   "label": "Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering",
+   "role": "document"
+  },
+  {
+   "cls": "document",
+   "id": "dird-aerospace-applications-of-programmable-matter",
+   "label": "Aerospace Applications of Programmable Matter",
+   "role": "document"
+  },
+  {
+   "cls": "document",
+   "id": "dird-an-introduction-to-the-statistical-drake",
+   "label": "An Introduction to the Statistical Drake Equation",
+   "role": "document"
+  },
+  {
+   "cls": "document",
+   "id": "dird-aneutronic-fusion-propulsion",
+   "label": "Aneutronic Fusion Propulsion (DIA-08-1011-003)",
+   "role": "document"
+  },
+  {
+   "cls": "document",
+   "id": "dird-aneutronic-fusion-propulsion-2",
+   "label": "Aneutronic Fusion Propulsion (DIA-08-1011-004)",
+   "role": "document"
+  },
+  {
+   "cls": "document",
+   "id": "dird-anomalous-acute-and-subacute-field-effects",
+   "label": "Anomalous Acute and Subacute Field Effects on Human Biological Tissues",
+   "role": "document"
+  },
+  {
+   "cls": "document",
+   "id": "dird-antigravity-for-aerospace-applications",
+   "label": "Antigravity for Aerospace Applications",
+   "role": "document"
+  },
+  {
+   "cls": "document",
+   "id": "dird-biosensors-and-biomems-a-survey-of",
+   "label": "Biosensors and BioMEMS: A Survey of the Present Field",
+   "role": "document"
+  },
+  {
+   "cls": "document",
+   "id": "dird-cockpits-in-the-era-of-breakthrough",
+   "label": "Cockpits in the Era of Breakthrough Flight",
+   "role": "document"
+  },
+  {
+   "cls": "document",
+   "id": "dird-cognitive-limits-on-simultaneous-control-of",
+   "label": "Cognitive Limits on Simultaneous Control of Multiple Unmanned Spacecraft",
+   "role": "document"
+  },
+  {
+   "cls": "document",
+   "id": "dird-concepts-for-extracting-energy-from-the",
+   "label": "Concepts for Extracting Energy From the Quantum Vacuum",
+   "role": "document"
+  },
+  {
+   "cls": "document",
+   "id": "dird-detection-and-high-resolution-tracking-of",
+   "label": "Detection and High Resolution Tracking of Vehicles at Hypersonic Velocities",
+   "role": "document"
+  },
+  {
+   "cls": "document",
+   "id": "dird-green-clinical-medical",
+   "label": "DIRD: 'Clinical Medical Acute & Subacute Field Effects on Human Dermal & Neurological Tissues'",
+   "role": "document"
+  },
+  {
+   "cls": "document",
+   "id": "dird-high-frequency-gravitational-wave-communications",
+   "label": "High-Frequency Gravitational Wave Communications",
+   "role": "document"
+  },
+  {
+   "cls": "document",
+   "id": "dird-inertial-electrostatic-confinement-fusion",
+   "label": "Inertial Electrostatic Confinement Fusion",
+   "role": "document"
+  },
+  {
+   "cls": "document",
+   "id": "dird-invisibility-cloaking-theory-and-experiments",
+   "label": "Invisibility Cloaking: Theory and Experiments",
+   "role": "document"
+  },
+  {
+   "cls": "document",
+   "id": "dird-laser-lightcraft-nanosatellites",
+   "label": "Laser Lightcraft Nanosatellites",
+   "role": "document"
+  },
+  {
+   "cls": "document",
+   "id": "dird-maverick-inventor-versus-corporate-inventor-where",
+   "label": "Maverick Inventor Versus Corporate Inventor: Where Will the Next Major Innovations Arise?",
+   "role": "document"
+  },
+  {
+   "cls": "document",
+   "id": "dird-mhd-air-breathing-propulsion-and-power",
+   "label": "MHD Air Breathing Propulsion and Power for Aerospace Applications",
+   "role": "document"
+  },
+  {
+   "cls": "document",
+   "id": "dird-negative-mass-propulsion",
+   "label": "Negative Mass Propulsion",
+   "role": "document"
+  },
+  {
+   "cls": "document",
+   "id": "dird-positron-aerospace-propulsion",
+   "label": "Positron Aerospace Propulsion",
+   "role": "document"
+  },
+  {
+   "cls": "document",
+   "id": "dird-pulsed-high-power-microwave-source-technology",
+   "label": "Pulsed High-Power Microwave Source Technology",
+   "role": "document"
+  },
+  {
+   "cls": "document",
+   "id": "dird-quantum-computing-and-utilizing-organic-molecules",
+   "label": "Quantum Computing and Utilizing Organic Molecules in Automation Technology",
+   "role": "document"
+  },
+  {
+   "cls": "document",
+   "id": "dird-quantum-tomography-of-negative-energy-states",
+   "label": "Quantum Tomography of Negative Energy States in the Vacuum",
+   "role": "document"
+  },
+  {
+   "cls": "document",
+   "id": "dird-space-access-where-we-ve-been",
+   "label": "Space Access: Where We've Been and Where We Could Go",
+   "role": "document"
+  },
+  {
+   "cls": "document",
+   "id": "dird-state-of-the-art-and-evolution",
+   "label": "State of the Art and Evolution of High-Energy Laser Weapons",
+   "role": "document"
+  },
+  {
+   "cls": "document",
+   "id": "dird-technological-approaches-to-controlling-external-devices",
+   "label": "Technological Approaches to Controlling External Devices in the Absence of Limb-Operated Interfaces",
+   "role": "document"
+  },
+  {
+   "cls": "document",
+   "id": "dird-the-role-of-superconductors-in-gravity",
+   "label": "The Role of Superconductors in Gravity Research",
+   "role": "document"
+  },
+  {
+   "cls": "document",
+   "id": "dird-the-space-communication-implications-of-quantum",
+   "label": "The Space-Communication Implications of Quantum Entanglement and Nonlocality",
+   "role": "document"
+  },
+  {
+   "cls": "document",
+   "id": "dird-traversable-wormholes",
+   "label": "DIA-08-1004-004: 'Traversable Wormholes, Stargates, and Negative Energy'",
+   "role": "document"
+  },
+  {
+   "cls": "document",
+   "id": "dird-traversable-wormholes-stargates-and-negative-energy",
+   "label": "Traversable Wormholes, Stargates, and Negative Energy",
+   "role": "document"
+  },
+  {
+   "cls": "document",
+   "id": "dird-ultracapacitors-as-energy-and-power-storage",
+   "label": "Ultracapacitors as Energy and Power Storage Devices for Commercial and Military Applications",
+   "role": "document"
+  },
+  {
+   "cls": "document",
+   "id": "dird-warp-drive-dark-energy-and-the",
+   "label": "Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions",
+   "role": "document"
+  }
+ ],
  "notes": "A provincial hub: nearly all of dird-series' neighbours are its own documents. Every DIRD is an anchor.",
- "questions": [],
- "record": [],
- "related": [],
+ "questions": [
+  "Where are the five DIRDs whose filenames DIA lists but whose files cannot be retrieved, and the working-title reports that were never released under those names?",
+  "What became of the four to six FY2010 reports DIA said would be expanded with classified data?",
+  "Did AAWSAP pay for any Davis work beyond his five named papers?",
+  "Who are the Sponsor and Affiliates named in Green's executive summary, and was his follow-on study of 300 to 500 events ever funded?",
+  "Do the roughly 300 unpublished injury cases, and the Green-Morris case files, exist in any government-held database?",
+  "Why did DIA accept a gravitational-wave paper on a subject JASON had already rejected?"
+ ],
+ "record": [
+  {
+   "cite": [
+    "c-55f65f2f1c",
+    "c-95bde387aa"
+   ],
+   "text": "In DIA's released copies every author is withheld under exemption (b)(6) and the preparing office under 10 USC 424. Two surnames, Hathaway and Tsoi, survive unredacted inside the review excerpts of DIA memo U-429-09."
+  },
+  {
+   "cite": [
+    "c-d1bb0cdd75",
+    "c-467dab9db1",
+    "c-3a07610902",
+    "c-d7ea3c1985",
+    "c-3abfde0cf8"
+   ],
+   "text": "One released copy of DIA-08-1004-004, the wormholes paper, names Eric Davis of EarthTech International as author and James Lacatski as AAWSA Program Manager, and states that it was prepared by the Acquisition Support Division of DIA's Defense Warning Office."
+  },
+  {
+   "cite": [
+    "c-8e181b6b60",
+    "c-e229dc3867",
+    "c-bad34a500d",
+    "c-13d09b773c",
+    "c-1d201e28c7"
+   ],
+   "text": "DIA's reading room lists 37 DIRD files. Five of them (Biomaterials, Materials for Advanced Aerospace Platforms, Metallic Glasses, Metallic Spintronics and Metamaterials) had no resolvable file when the board checked, and the released numbering is sparse. The one paper with a classified version, on high-energy laser weapons, was released only in its unclassified form."
+  },
+  {
+   "cite": [
+    "c-c103151f78",
+    "c-773256a62e",
+    "c-33a736cdb7",
+    "e-367ae68550"
+   ],
+   "text": "DIA's memo U-429-09 lists the 26 FY2009 reports by working title, several of which were never released under those names, and records that all of the reviews were positive, some exceptionally so. DIA later sent Puthoff's paper on spacetime metric engineering to the acquisition Under Secretary as its example of the reports."
+  },
+  {
+   "cite": [
+    "c-1d75146758",
+    "c-8d469b4fee",
+    "c-5158e94e65",
+    "c-c757ecee42",
+    "e-81f714787a"
+   ],
+   "text": "Davis's survey Antigravity for Aerospace Applications reviews published physics and concludes that mechanical antigravity devices would need kilometre-sized apparatus, astronomical masses or extreme velocities, and that negative energy has been made in the laboratory only in very small quantities. It does not mention Thomas Townsend Brown, and cites Alcubierre once."
+  },
+  {
+   "cite": [
+    "c-b5e1eba190",
+    "c-4256c866d9"
+   ],
+   "text": "Hathaway's Maverick Inventor paper never names the Hutchison effect, although Hathaway wrote a book on the Hutchison files."
+  },
+  {
+   "cite": [
+    "c-3e2436b459",
+    "c-190742f607"
+   ],
+   "text": "The warp drive paper prints the negative energy its model would need at speeds from 0.01c to twice light speed, and its own summary presents control of higher dimensions as a possibility worthy of investigation, not a result."
+  },
+  {
+   "cite": [
+    "c-c9afb9f987",
+    "c-6f5c39bdbe",
+    "c-9c615bcdeb",
+    "c-2a2129e56b",
+    "e-02c70e3391"
+   ],
+   "text": "Kit Green's medical DIRD, under the Institute for Advanced Studies at Austin imprint, states as its first hypothesis that enough evidence exists from human injuries to reverse engineer aspects of the energy and propulsion systems, and its executive summary says the data support a hypothesis that some advanced systems are already deployed and opaque to US intelligence. It draws on 42 published and about 300 unpublished cases and proposes a follow-on study of 300 to 500 events with its sponsors."
+  },
+  {
+   "cite": [
+    "c-855d0f2c47",
+    "e-e17e4dea1a"
+   ],
+   "text": "The preface of Green's DIRD quotes a November 2007 proposal addressed to Puthoff and Hathaway about probable ET-generated near-field electromagnetic emissions."
+  },
+  {
+   "cite": [
+    "c-ef05a48dc7",
+    "c-2576eec5d8",
+    "e-a1a3034528"
+   ],
+   "text": "Claudio Maccone's Statistical Drake Equation paper is attributed to him on the DIA list, and its appendix reproduces his conference paper with his byline, corroborating the attribution from inside the redacted document."
+  },
+  {
+   "cite": [
+    "c-c3a33baa73",
+    "e-5bc069a345",
+    "e-56fc4e85e9",
+    "e-3072445046",
+    "c-d77fb33a68",
+    "e-4397e53108"
+   ],
+   "text": "The DIA list names established defence and academic scientists among the authors, including George Miley of the University of Illinois on electrostatic confinement fusion, Ulf Leonhardt of St Andrews on invisibility cloaking, S. Macheret of Lockheed Martin on MHD propulsion, and R. Genik of Wayne State on the cognitive limits of controlling many unmanned spacecraft."
+  }
+ ],
+ "related": [
+  "aawsap-baass",
+  "aatip-elizondo",
+  "propulsion-claims",
+  "biology-medical",
+  "wilson-davis-notes",
+  "gravity-research-1950s",
+  "ttsa",
+  "academic-science",
+  "foia-litigation",
+  "named-contractors"
+ ],
  "section": "official-study",
  "span": {
   "from": "2009",
   "to": "2019"
  },
- "status": "draft",
- "summary": [],
+ "status": "verified",
+ "summary": [
+  {
+   "cite": [
+    "e-00dc3b6ebb",
+    "e-300caf5638"
+   ],
+   "text": "The DIRDs are the AAWSAP contract's deliverables: 26 reports in FY2009 and 12 in FY2010, commissioned by the prime contractor BAASS from EarthTech, Lockheed Martin and about a dozen universities."
+  },
+  {
+   "cite": [
+    "c-9e7517fef2",
+    "c-bad34a500d",
+    "c-4573ad1d36"
+   ],
+   "text": "They carry two DIA series banners, Acquisition Threat Support for the FY2009 tranche and Defense Futures for FY2010, and document numbers in a DIA-08 pattern. Their inside covers say each is one of a series of advanced technology reports produced under DIA's Advanced Aerospace Weapon System Applications programme."
+  },
+  {
+   "cite": [
+    "c-ab45f9d795",
+    "c-a1b107a1b3",
+    "e-e541b7be8d",
+    "c-c3a33baa73"
+   ],
+   "text": "DIA released a list of the 38 titles to Steven Aftergood of the Federation of American Scientists on 16 January 2019, having given it to Congress a year earlier; it is the only official enumeration of the series and the only place the authors are named together."
+  },
+  {
+   "cite": [
+    "c-d9b8616040",
+    "e-fdcf00a5b7",
+    "c-912593e22f",
+    "c-7fb0b6e2a9"
+   ],
+   "text": "EarthTech International, the Austin firm Harold Puthoff has run since 1985, was the largest single producer, with six of the 38; Eric Davis of EarthTech wrote five, more than anyone else."
+  }
+ ],
  "title": "The Defense Intelligence Reference Documents"
 }

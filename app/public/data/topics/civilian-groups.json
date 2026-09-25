@@ -17,25 +17,2248 @@
   "skywatcher"
  ],
  "appendixT": "civilian-groups",
- "cites": {},
- "claimed": [],
- "contested": [],
+ "cites": {
+  "c-03eda31a33": {
+   "id": "c-03eda31a33",
+   "kind": "claim",
+   "node": "donald-keyhoe",
+   "nodeLabel": "Maj. Donald E. Keyhoe, USMC (Ret.)",
+   "source": {
+    "domain": "archive.org",
+    "text": "First Air Force letter of 20 September 1957, reproduced in The UFO Evidence, 1964, in CIA-RDP81R00560R000100010001-0, https://archive.org/details/cia-readingroom-document-cia-rdp81r00560r000100010001-0",
+    "url": "https://archive.org/details/cia-readingroom-document-cia-rdp81r00560r000100010001-0"
+   },
+   "text": "He held the post by September 1957 on a government correspondent's own address line. A letter on the letterhead 'Hq Sq Sec, First Air Force, Mitchel Air Force Base, NY', dated 20 September 1957, is addressed to 'Mr. Donald E. Keyhoe, Director NICAP, 1536 Connecticut Ave, N. W., Washington 6, D. C.' and transmits a quoted Air Force report of eight round objects sighted at Fort Devens, Massachusetts on 17 September 1957.",
+   "tier": 1
+  },
+  "c-044c9f5722": {
+   "id": "c-044c9f5722",
+   "kind": "claim",
+   "node": "roscoe-hillenkoetter",
+   "nodeLabel": "Roscoe H. Hillenkoetter",
+   "source": {
+    "domain": null,
+    "text": "CIA-RDP68-00046R000200090028-9, Enquirer, 4 March 1960",
+    "url": null
+   },
+   "text": "The same editorial records its own disagreement with him: 'WE CANNOT wholly agree with the respected Vice Adm. R. H. Hillenkoetter (ret.) that the Air Force is deceiving the public' -- which preserves his position as well as the paper's.",
+   "tier": 1
+  },
+  "c-04f04db444": {
+   "id": "c-04f04db444",
+   "kind": "claim",
+   "node": "kecksburg-1965",
+   "nodeLabel": "Kecksburg incident, 9 December 1965",
+   "source": {
+    "domain": null,
+    "text": "Greensburg Tribune-Review, December 1965",
+    "url": null
+   },
+   "text": "The Greensburg Tribune-Review reported at the time that the landing area was immediately sealed off on the order of US Army and State Police officials in anticipation of a close inspection.",
+   "tier": 1
+  },
+  "c-075fb2c424": {
+   "id": "c-075fb2c424",
+   "kind": "claim",
+   "node": "robert-hastings",
+   "nodeLabel": "Robert L. Hastings",
+   "source": {
+    "domain": null,
+    "text": "American Alchemy with Jesse Michels, 'Did Oppenheimer Work on UFOs?', 19 October 2024, 0:34:57, and 'UFOs Are Monitoring Nuclear Weapons GLOBALLY (ft. Robert Hastings)', 24 December 2024, 2:07:40",
+    "url": null
+   },
+   "text": "On American Alchemy with Jesse Michels, 19 October 2024, at 0:34:57, Michels gave Hastings's figure as '167 UFO sighting cases at nuclear bases', and in the same breath as '167 ICBM security personnel, radar operators, people who work at these nuclear sites'. On 24 December 2024 at 2:07:40, with Hastings present, he described the same body of testimony as 'almost 200 stand-up patriots'.",
+   "tier": 2
+  },
+  "c-097ad64d98": {
+   "id": "c-097ad64d98",
+   "kind": "claim",
+   "node": "skywatcher",
+   "nodeLabel": "Skywatcher",
+   "source": {
+    "domain": null,
+    "text": "American Alchemy with Jesse Michels, 'Meet The Startup Summoning UFOs: Skywatcher', published 28 May 2025, at 0:02:33 and 0:05:12",
+    "url": null
+   },
+   "text": "On American Alchemy with Jesse Michels, 28 May 2025, Michels introduces his guest at 0:02:33 with 'I'm here with James Fowler', and at 0:05:12 Fowler said he 'started out in the military', 'retired as a sergeant major, retired in 2020', spent 'about 23 years working for the government', and that after retiring he 'started several companies and some of my companies were contracted by the government to do different war game projects'.",
+   "tier": 2
+  },
+  "c-10e21db891": {
+   "id": "c-10e21db891",
+   "kind": "claim",
+   "node": "leonard-stringfield",
+   "nodeLabel": "Leonard H. Stringfield",
+   "source": {
+    "domain": null,
+    "text": "Stringfield, Status Report IV, title page and abstract (scan) — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+    "url": null
+   },
+   "text": "Status Report IV is dated June 1985 and is titled 'UFO CRASH RETRIEVALS STATUS REPORT IV: THE FATAL ENCOUNTER AT FT. DIX-MCGUIRE', concerning an alleged 18 January 1978 incident at McGuire AFB / Fort Dix reported by a USAF Security Police sergeant first published as Case A3 in Status Report III.",
+   "tier": 2
+  },
+  "c-14b6ecadf3": {
+   "id": "c-14b6ecadf3",
+   "kind": "claim",
+   "node": "leonard-stringfield",
+   "nodeLabel": "Leonard H. Stringfield",
+   "source": {
+    "domain": null,
+    "text": "Inference from the Status Report corpus",
+    "url": null
+   },
+   "text": "Stringfield's anonymised letter-number case coding is the structural reason the retrieval corpus resists tier-1 verification: the coding was designed to protect sources from precisely the security apparatus whose existence the corpus asserts, and it succeeded, at the cost of making the corpus unauditable. Reasoning: the codes are internally consistent across seven reports but map to no released personnel record.",
+   "tier": 3
+  },
+  "c-151fa79be0": {
+   "id": "c-151fa79be0",
+   "kind": "claim",
+   "node": "william-l-moore",
+   "nodeLabel": "William L. Moore",
+   "source": {
+    "domain": null,
+    "text": "Moore's own statement to the 1989 MUFON symposium, subsequently published in full in MUFON and Focus/Fair-Witness materials",
+    "url": null
+   },
+   "text": "Moore stated at the 1989 MUFON symposium that he had cooperated with US Air Force Office of Special Investigations personnel from about 1980 and had knowingly passed disinformation to Paul Bennewitz.",
+   "tier": 2
+  },
+  "c-187582a417": {
+   "id": "c-187582a417",
+   "kind": "claim",
+   "node": "cufos",
+   "nodeLabel": "J. Allen Hynek Center for UFO Studies (CUFOS)",
+   "source": {
+    "domain": null,
+    "text": "Rodeghier and Whiting (1992), cited at note 123 of the 1997 Air Force report",
+    "url": null
+   },
+   "text": "CUFOS scientific director Mark Rodeghier co-authored 'The Plains of San Agustin Controversy' (1992) with Fred Whiting of the Fund for UFO Research.",
+   "tier": 2
+  },
+  "c-1ab48b8c5b": {
+   "id": "c-1ab48b8c5b",
+   "kind": "claim",
+   "node": "gerald-anderson",
+   "nodeLabel": "Gerald Anderson",
+   "source": {
+    "domain": null,
+    "text": "The Roswell Report: Case Closed (1997), Section 1.4 and Conclusion",
+    "url": null
+   },
+   "text": "Anderson described the bodies as 'I thought they were plastic dolls' and described recovery procedures the Air Force found consistent with high-altitude balloon and anthropomorphic dummy launch and recovery.",
+   "tier": 2
+  },
+  "c-1c31d7a369": {
+   "id": "c-1c31d7a369",
+   "kind": "claim",
+   "node": "kecksburg-1965",
+   "nodeLabel": "Kecksburg incident, 9 December 1965",
+   "source": {
+    "domain": null,
+    "text": "NASA statement, December 2005",
+    "url": null
+   },
+   "text": "NASA stated in December 2005 that experts had examined metallic fragments from the area and determined they were from a Soviet satellite, but that records of their findings were lost in the 1980s.",
+   "tier": 1
+  },
+  "c-2e5ad88020": {
+   "id": "c-2e5ad88020",
+   "kind": "claim",
+   "node": "nufohrc",
+   "nodeLabel": "National UFO Historical Records Center",
+   "source": {
+    "domain": "nufohrc.org",
+    "text": "National UFO Historical Records Center, collections page, https://nufohrc.org/collections/, read 2 September 2026",
+    "url": "https://nufohrc.org/collections/,"
+   },
+   "text": "The Center names three collections as its major historical holdings of UFO case files: NICAP, 'founded on October 24, 1956, by inventor Thomas Townsend Brown'; the Center for UFO Studies, which it attributes to J. Allen Hynek in 1973; and 'The Aerial Phenonomena Research Organization (APRO)', started in January 1952 by Jim and Coral Lorenzen and active 'until late 1988'. This is the custodian's own statement of what it holds; no accession record or finding aid is published and none was opened.",
+   "tier": 2
+  },
+  "c-334dec30f0": {
+   "id": "c-334dec30f0",
+   "kind": "claim",
+   "node": "skywatcher",
+   "nodeLabel": "Skywatcher",
+   "source": {
+    "domain": null,
+    "text": "American Alchemy with Jesse Michels, 'Meet The Startup Summoning UFOs: Skywatcher', published 28 May 2025, at 0:05:12 to 0:10:17",
+    "url": null
+   },
+   "text": "In the same episode, at 0:05:12 and again at 0:08:35, Fowler said the effort began with an observation during a government war game he was running in 2021, whose deliverable was tactics, with a blue team fielding air-defence and counter-drone systems against a red team, and that on the last day of the event his camera operator showed him 'the class one formation of seven, the first sighting we had'. At 0:06:04 he said he is 'the lead operations guy' and not the discoverer, naming two colleagues only as Mr. K and Mr. D because they wish to remain anonymous.",
+   "tier": 2
+  },
+  "c-347252adaa": {
+   "id": "c-347252adaa",
+   "kind": "claim",
+   "node": "john-schuessler",
+   "nodeLabel": "John F. Schuessler",
+   "source": {
+    "domain": null,
+    "text": "Cash-Landrum case document collection, index to the original case report",
+    "url": null
+   },
+   "text": "Schuessler and Project VISIT filed a 35-page preliminary report on the Cash-Landrum case with MUFON dated 4 March 1981, following an on-site investigation dated 28 February 1981 and a taped hospital interview in early February 1981.",
+   "tier": 1
+  },
+  "c-392def65f6": {
+   "id": "c-392def65f6",
+   "kind": "claim",
+   "node": "cufos",
+   "nodeLabel": "J. Allen Hynek Center for UFO Studies (CUFOS)",
+   "source": {
+    "domain": null,
+    "text": "Stringfield, Status Report VII, acknowledgements and Roswell update",
+    "url": null
+   },
+   "text": "Stringfield acknowledges the cooperation of the J. Allen Hynek Center for UFO Studies in Status Report VII (February 1994) and records consulting its scientific director on 6 November 1993 about the Roswell retrieval body count.",
+   "tier": 1
+  },
+  "c-3b363924c7": {
+   "id": "c-3b363924c7",
+   "kind": "claim",
+   "node": "roscoe-hillenkoetter",
+   "nodeLabel": "Roscoe H. Hillenkoetter",
+   "source": {
+    "domain": null,
+    "text": "CIA-RDP68-00046R000200090025-2, Worcester Gazette, 1 June 1960",
+    "url": null
+   },
+   "text": "The same document records that Hillenkoetter 'headed the Central Intelligence Agency from May 1947 to October 1950' and that he 'wants a Congressional investigation of the UFOs'. On the wartime and immediate post-war years he is quoted: 'I know that neither Russia nor this country had anything even approaching such high speeds and maneuvers.'",
+   "tier": 1
+  },
+  "c-41f6b4c601": {
+   "id": "c-41f6b4c601",
+   "kind": "claim",
+   "node": "jacques-vallee",
+   "nodeLabel": "Jacques F. Vallee",
+   "source": {
+    "domain": null,
+    "text": "Jacques Vallee, 'Messengers of Deception' (1979) and subsequent published diaries",
+    "url": null
+   },
+   "text": "Vallee documented, from the late 1970s onward, that identifiable human actors were injecting fabricated material into UFO cases - the phenomenon later confirmed in the Bennewitz affair.",
+   "tier": 2
+  },
+  "c-4a7f9eca1a": {
+   "id": "c-4a7f9eca1a",
+   "kind": "claim",
+   "node": "donald-keyhoe",
+   "nodeLabel": "Maj. Donald E. Keyhoe, USMC (Ret.)",
+   "source": {
+    "domain": "archive.org",
+    "text": "The UFO Evidence, 1964, in CIA-RDP81R00560R000100010001-0, https://archive.org/details/cia-readingroom-document-cia-rdp81r00560r000100010001-0",
+    "url": "https://archive.org/details/cia-readingroom-document-cia-rdp81r00560r000100010001-0"
+   },
+   "text": "The volume states the Hillenkoetter connection as a personal one: 'Vice Admiral R. H. Hillenkoetter, USN (Ret.), a long-time acquaintance of Major Keyhoe, also served on the NICAP Board of Governors for five years.' It gives Keyhoe's own background as 'a graduate of the U. S. Naval Academy (class of 1920) and former Marine Corps aircraft and balloon pilot' and says his acquaintance with serving and retired officers is why several of its military cases could be detailed.",
+   "tier": 1
+  },
+  "c-4b4cd9ef1f": {
+   "id": "c-4b4cd9ef1f",
+   "kind": "claim",
+   "node": "d-disclosure",
+   "nodeLabel": "Disclosure Movement",
+   "source": {
+    "domain": null,
+    "text": "House Oversight Committee hearing page",
+    "url": null
+   },
+   "text": "The House Oversight Committee held 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection' on 9 September 2025.",
+   "tier": 1
+  },
+  "c-4c7cea0bef": {
+   "id": "c-4c7cea0bef",
+   "kind": "claim",
+   "node": "robert-hastings",
+   "nodeLabel": "Robert L. Hastings",
+   "source": {
+    "domain": null,
+    "text": "Derived by this board from the register in research/leads/verified-nuclear-witnesses-2026-09-19.md, which lists every nuclear-facility witness found in the 19 September 2026 pass together with the route by which each account reached the public",
+    "url": null
+   },
+   "text": "SECTION 2a PROVENANCE. HIS RECRUITMENT METHOD IS NOT STATED ANYWHERE THIS BOARD HAS OPENED. Neither his press-conference article nor his biographical page describes how he located any witness: no advertisements, no unit rosters, no veterans' reunions, no referral chains, no word of mouth. The absence is recorded as a finding. Until a dated statement by Hastings describing his sourcing method is opened, every node in this cluster whose sole source is a Hastings interview carries a note saying the route by which the witness was found is not documented.",
+   "tier": 3
+  },
+  "c-4dba859b2a": {
+   "id": "c-4dba859b2a",
+   "kind": "claim",
+   "node": "william-l-moore",
+   "nodeLabel": "William L. Moore",
+   "source": {
+    "domain": "archive.org",
+    "text": "Headquarters USAF, 'The Roswell Report: Fact versus Fiction in the New Mexico Desert' (1995) https://archive.org/details/DTIC_ADA326148",
+    "url": "https://archive.org/details/DTIC_ADA326148"
+   },
+   "text": "The US Air Force's 1995 Roswell report names 'The Roswell Incident (1980) by William Moore and Charles Berlitz' and 'Crashed Saucers: Evidence in Search of Proof (1985) by Moore' among the major works it reviewed to set the parameters of its records search, and describes Moore and Berlitz as having 'engaged in research which led them to publish' the 1980 book.",
+   "tier": 1
+  },
+  "c-4e1bf03c4a": {
+   "id": "c-4e1bf03c4a",
+   "kind": "claim",
+   "node": "donald-keyhoe",
+   "nodeLabel": "Maj. Donald E. Keyhoe, USMC (Ret.)",
+   "source": {
+    "domain": "archive.org",
+    "text": "The UFO Evidence, National Investigations Committee on Aerial Phenomena, Washington DC, May 1964, Richard H. Hall ed., in the CIA's filed copy CIA-RDP81R00560R000100010001-0, https://archive.org/details/cia-readingroom-document-cia-rdp81r00560r000100010001-0",
+    "url": "https://archive.org/details/cia-readingroom-document-cia-rdp81r00560r000100010001-0"
+   },
+   "text": "NICAP's own 1964 volume names him as its head on the masthead: 'MAJ. DONALD E. KEYHOE, USMC (RET.), DIRECTOR', printed under the organisation's name and its 1536 Connecticut Avenue NW address, above the Board of Governors list.",
+   "tier": 1
+  },
+  "c-4f4c1e3b78": {
+   "id": "c-4f4c1e3b78",
+   "kind": "claim",
+   "node": "william-l-moore",
+   "nodeLabel": "William L. Moore",
+   "source": {
+    "domain": null,
+    "text": "Chronological overlay of Moore's admitted 1980-1989 cooperation window on the December 1984 MJ-12 delivery",
+    "url": null
+   },
+   "text": "The 1984 arrival of the MJ-12 film at Moore's address falls inside the window he later admitted was a period of cooperation with AFOSI, which is sufficient on its own to bar the MJ-12 corpus from tier 1 or tier 2 status regardless of any forensic analysis. Reasoning: the recipient of an anonymous delivery has admitted to being an operational channel for the agency most likely to have sent it.",
+   "tier": 3
+  },
+  "c-57d8201cba": {
+   "id": "c-57d8201cba",
+   "kind": "claim",
+   "node": "robert-hastings",
+   "nodeLabel": "Robert L. Hastings",
+   "source": {
+    "domain": "ufohastings.com",
+    "text": "https://ufohastings.com/articles/the-ufos-nukes-connection-press-conference and https://ufohastings.com/about , both opened 2026-09-19",
+    "url": "https://ufohastings.com/articles/the-ufos-nukes-connection-press-conference"
+   },
+   "text": "THE COUNT IS NOT STABLE ON HIS OWN SITE. His press-conference article states 'I have interviewed more than 160 U.S. Air Force veterans regarding their involvement in UFO incidents at nuclear weapons sites.' His biographical page, opened the same day, states 'To date, Hastings has interviewed more than 150 military veterans.' The board records both figures with their pages rather than a round number, because the count is itself the principal evidence for the scale of the claim.",
+   "tier": 2
+  },
+  "c-599a28123c": {
+   "id": "c-599a28123c",
+   "kind": "claim",
+   "node": "mufon",
+   "nodeLabel": "Mutual UFO Network (MUFON)",
+   "source": {
+    "domain": null,
+    "text": "Stringfield, Status Reports I and II, title pages and header notes",
+    "url": null
+   },
+   "text": "Stringfield delivered Status Report I at MUFON's ninth annual Symposium in Dayton, Ohio on 29 July 1978, and MUFON published Status Report II in January 1980.",
+   "tier": 1
+  },
+  "c-5fd1c56d80": {
+   "id": "c-5fd1c56d80",
+   "kind": "claim",
+   "node": "william-l-moore",
+   "nodeLabel": "William L. Moore",
+   "source": {
+    "domain": null,
+    "text": "Gerald K. Haines, 'CIA's Role in the Study of UFOs, 1947-90', endnote 93",
+    "url": null
+   },
+   "text": "Moore and Shandera published 'The MJ-12 Documents: An Analytical Report' as Fair-Witness Project Publication Number 1500 in 1990, and Moore and Friedman published 'Philip Klass and MJ-12: What are the Facts' as Publication Number 1290 in 1988 - both cited in CIA's own 1997 history of the Agency's UFO role.",
+   "tier": 1
+  },
+  "c-6420135655": {
+   "id": "c-6420135655",
+   "kind": "claim",
+   "node": "fund-for-ufo-research",
+   "nodeLabel": "Fund for UFO Research",
+   "source": {
+    "domain": null,
+    "text": "The Roswell Report: Case Closed (1997), Section 1.4",
+    "url": null
+   },
+   "text": "The Air Force's 1997 report drew the Vern Maltais and Alice Knight statements it analysed from footage used to prepare the Fund for UFO Research video 'Recollections of Roswell Part II'.",
+   "tier": 1
+  },
+  "c-677bedfdf2": {
+   "id": "c-677bedfdf2",
+   "kind": "claim",
+   "node": "stanton-friedman",
+   "nodeLabel": "Stanton T. Friedman",
+   "source": {
+    "domain": "archive.org",
+    "text": "Headquarters USAF, 'The Roswell Report: Fact versus Fiction in the New Mexico Desert' (1995), review of the popular literature https://archive.org/details/DTIC_ADA326148",
+    "url": "https://archive.org/details/DTIC_ADA326148"
+   },
+   "text": "The same report lists 'Crash at Corona (1992) by Stanton T. Friedman and Don Berliner' among the major works its records search reviewed, placing Friedman's authorship in the Air Force's own bibliography of the case.",
+   "tier": 1
+  },
+  "c-6e9b27f62a": {
+   "id": "c-6e9b27f62a",
+   "kind": "claim",
+   "node": "stringfield-status-reports",
+   "nodeLabel": "UFO Crash/Retrieval Status Reports I-VII (Stringfield, 1978-1994)",
+   "source": {
+    "domain": null,
+    "text": "Stringfield, Status Report III, p. 125 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+    "url": null
+   },
+   "text": "Status Report III carries the imprimatur of Dr. Peter Rank, Chief of Radiology, Methodist Hospital, and Richard H. Hall, former Assistant Director of NICAP 1958-1967 and editor of the MUFON UFO Journal, and prints a consolidated chronology of cases reported in Status Report II.",
+   "tier": 2
+  },
+  "c-72654f73ba": {
+   "id": "c-72654f73ba",
+   "kind": "claim",
+   "node": "roscoe-hillenkoetter",
+   "nodeLabel": "Roscoe H. Hillenkoetter",
+   "source": {
+    "domain": null,
+    "text": "CIA-RDP68-00046R000200090025-2, Worcester Gazette, 1 June 1960, 'Congressional Action: Ex-C.I.A. Chief Wants UFO Probe' by Bulkley Griffin; declassified in part 2014-06-12",
+    "url": null
+   },
+   "text": "A Worcester (Mass.) Gazette clipping of 1 June 1960, held in CIA records, reports Hillenkoetter declaring of the so-called flying saucers: 'The unknown objects are operating under intelligent control. It is imperative that we learn where the UFO's (unidentified flying objects) come from and what their purpose is.'",
+   "tier": 1
+  },
+  "c-7a3199239d": {
+   "id": "c-7a3199239d",
+   "kind": "claim",
+   "node": "nufohrc",
+   "nodeLabel": "National UFO Historical Records Center",
+   "source": {
+    "domain": "nufohrc.org",
+    "text": "National UFO Historical Records Center, team page, https://nufohrc.org/team/, read 2 September 2026",
+    "url": "https://nufohrc.org/team/,"
+   },
+   "text": "Its team page is headed 'DAVID MARLER, EXECUTIVE DIRECTOR', and a separate entry on the same page records that the UFO Newsclipping Service ran 505 monthly issues 'with David Marler serving as the last editor and publisher'. The Area 52 corpus renders the name Marlar; the custodian's own organisation spells it Marler.",
+   "tier": 1
+  },
+  "c-7b1c9cd54c": {
+   "id": "c-7b1c9cd54c",
+   "kind": "claim",
+   "node": "mufon-sip",
+   "nodeLabel": "BAASS–MUFON Star Team Impact Project (SIP)",
+   "source": {
+    "domain": null,
+    "text": "Inference from the SIP arrangement's structure",
+    "url": null
+   },
+   "text": "Routing civilian UFO reports into a DIA-contracted database without the reporting public's knowledge is a data-provenance problem that has never been examined, and it is one reason the government's case holdings may substantially exceed what any FOIA of military reporting channels would reveal.",
+   "tier": 3
+  },
+  "c-80237994c7": {
+   "id": "c-80237994c7",
+   "kind": "claim",
+   "node": "cia",
+   "nodeLabel": "Central Intelligence Agency",
+   "source": {
+    "domain": null,
+    "text": "Robertson Panel report, declassified text, 17 January 1953",
+    "url": null
+   },
+   "text": "The Robertson Panel, convened by CIA in January 1953 under H. P. Robertson, recommended a programme of public education and debunking to strip UFOs of their 'aura of mystery', and the monitoring of civilian UFO groups because of their 'potentially great influence on mass thinking'.",
+   "tier": 1
+  },
+  "c-80f8ebc369": {
+   "id": "c-80f8ebc369",
+   "kind": "claim",
+   "node": "stanton-friedman",
+   "nodeLabel": "Stanton T. Friedman",
+   "source": {
+    "domain": null,
+    "text": "Friedman's own account, repeated in his books and in the standard Roswell literature",
+    "url": null
+   },
+   "text": "Friedman was the first civilian to interview Maj. Jesse Marcel Sr. about the Roswell debris, in February 1978, and the first to document the site.",
+   "tier": 2
+  },
+  "c-8842cfeaa7": {
+   "id": "c-8842cfeaa7",
+   "kind": "claim",
+   "node": "nufohrc",
+   "nodeLabel": "National UFO Historical Records Center",
+   "source": {
+    "domain": "nufohrc.org",
+    "text": "National UFO Historical Records Center, home page, https://nufohrc.org/, read 2 September 2026",
+    "url": "https://nufohrc.org/,"
+   },
+   "text": "The Center states of itself: 'The National UFO Historical Records Center is a 501(c)(3) Nonprofit Corporation in the state of New Mexico that seeks to educate the public on the history of the UFO/UAP phenomenon, preserve and digitize historical documents and media, and promote scientific research into the topic.' Its published mailing address is P.O. Box 15541, Rio Rancho, NM 87174. No state or IRS record confirming either was reachable from this environment.",
+   "tier": 1
+  },
+  "c-88c21893dc": {
+   "id": "c-88c21893dc",
+   "kind": "claim",
+   "node": "leonard-stringfield",
+   "nodeLabel": "Leonard H. Stringfield",
+   "source": {
+    "domain": null,
+    "text": "Stringfield, Status Report IV, 'Prologue: The Burden of Proof' (scan)",
+    "url": null
+   },
+   "text": "Stringfield stated in Status Report IV that public UFO research does not possess proof, and that affidavits, leaked government documents and photographs do not constitute proof - an unusually explicit self-assessment by the field's founding retrieval researcher.",
+   "tier": 2
+  },
+  "c-8968698b7d": {
+   "id": "c-8968698b7d",
+   "kind": "claim",
+   "node": "stanton-friedman",
+   "nodeLabel": "Stanton T. Friedman",
+   "source": {
+    "domain": "www.theblackvault.com",
+    "text": "Stanton T. Friedman, 'The Bob Lazar Fraud', https://www.theblackvault.com/casefiles/the-bob-lazar-fraud-2/ , opened 2026-09-18",
+    "url": "https://www.theblackvault.com/casefiles/the-bob-lazar-fraud-2/"
+   },
+   "text": "On the two documents most often cited in Lazar's favour, Friedman, who had seen both, records what they actually show. On the W-2: 'His W-2 form from the Department of Naval Intelligence totals under $1000.00, at most a week's pay for a scientist.' On the Los Alamos directory: 'The page from the Los Alamos National Lab phone book with Lazar's name on it clearly states that it includes employees of the DOE and outside contractor, Kirk Meyer.' On element 115: 'It has a very short half life so there is no way to accumulate pounds of it.'",
+   "tier": 2
+  },
+  "c-8dd63537ea": {
+   "id": "c-8dd63537ea",
+   "kind": "claim",
+   "node": "roscoe-hillenkoetter",
+   "nodeLabel": "Roscoe H. Hillenkoetter",
+   "source": {
+    "domain": null,
+    "text": "CIA-RDP68-00046R000200090028-9, Enquirer, 4 March 1960, editorial 'Flying Saucers Again'; declassified in part 2014-06-12",
+    "url": null
+   },
+   "text": "An Enquirer editorial of 4 March 1960, also held in CIA records, states that 'Admiral Hillenkoetter, former director of the Central Intelligence Agency, is a board member of the privately financed NICAP ... As such he has referred his conclusions to the Senate Space Committee, requesting an investigation.'",
+   "tier": 1
+  },
+  "c-8de5bc33b6": {
+   "id": "c-8de5bc33b6",
+   "kind": "claim",
+   "node": "nicap",
+   "nodeLabel": "National Investigations Committee on Aerial Phenomena (NICAP)",
+   "source": {
+    "domain": "archive.org",
+    "text": "The UFO Evidence, National Investigations Committee on Aerial Phenomena, Washington DC, May 1964, Richard H. Hall ed., section 'NICAP and its Policies', in the CIA's filed copy CIA-RDP81R00560R000100010001-0, https://archive.org/details/cia-readingroom-document-cia-rdp81r00560r000100010001-0",
+    "url": "https://archive.org/details/cia-readingroom-document-cia-rdp81r00560r000100010001-0"
+   },
+   "text": "NICAP states its own legal form and year: 'NICAP is a non-profit organization incorporated in the District of Columbia (1956).' The same paragraph gives its purpose as 'scientific investigation and research of reported unidentified flying objects, and encouragement of full reporting to the public by responsible authorities of all information which the government has accumulated on this subject.'",
+   "tier": 1
+  },
+  "c-8e2dbcf506": {
+   "id": "c-8e2dbcf506",
+   "kind": "claim",
+   "node": "kecksburg-1965",
+   "nodeLabel": "Kecksburg incident, 9 December 1965",
+   "source": {
+    "domain": null,
+    "text": "NASA Space Science Data Coordinated Archive entry on Cosmos 96",
+    "url": null
+   },
+   "text": "NASA's later published position states that the fireball's atmospheric path was probably too steep to be consistent with a spacecraft re-entering from Earth orbit, that USAF tracking data indicate Cosmos 96's orbit decayed earlier than 21:43 UT on 9 December 1965, and that other analyses definitively indicate it could not have been Cosmos 96.",
+   "tier": 1
+  },
+  "c-92df74e779": {
+   "id": "c-92df74e779",
+   "kind": "claim",
+   "node": "stan-gordon",
+   "nodeLabel": "Stan Gordon",
+   "source": {
+    "domain": null,
+    "text": "Unsolved Mysteries (NBC, 1990); 'The New Roswell: Kecksburg Exposed' (Sci Fi Channel, 2003)",
+    "url": null
+   },
+   "text": "Kecksburg residents interviewed over four decades describe an object shaped like an acorn and about the size of a Volkswagen bearing writing resembling hieroglyphs, removed from the woods by a military operation; resident John Hays has stated since 1990 that as a ten-year-old he saw a flat-bed truck emerging from the site carrying something 'the size of a VW'.",
+   "tier": 2
+  },
+  "c-98c9a36e72": {
+   "id": "c-98c9a36e72",
+   "kind": "claim",
+   "node": "nicap",
+   "nodeLabel": "National Investigations Committee on Aerial Phenomena (NICAP)",
+   "source": {
+    "domain": "archive.org",
+    "text": "FBI file 100-35992 on the National Investigations Committee on Aerial Phenomena, part 3, https://archive.org/details/NICAP",
+    "url": "https://archive.org/details/NICAP"
+   },
+   "text": "The FBI kept a file on it, numbered 100-35992, and recorded the organisation's self-description as given by its secretary: 'This information was furnished to a Special Agent of our Washington Field Office in May, 1961, by Mr. Richard H. Hall, Secretary of the organization.'",
+   "tier": 1
+  },
+  "c-9adf323e4b": {
+   "id": "c-9adf323e4b",
+   "kind": "claim",
+   "node": "fund-for-ufo-research",
+   "nodeLabel": "Fund for UFO Research",
+   "source": {
+    "domain": null,
+    "text": "Stringfield, Status Report VII, acknowledgements",
+    "url": null
+   },
+   "text": "Stringfield acknowledges past funding from the Fund for UFO Research in the acknowledgements to Status Report VII, February 1994.",
+   "tier": 1
+  },
+  "c-9fd7e805b6": {
+   "id": "c-9fd7e805b6",
+   "kind": "claim",
+   "node": "usaf",
+   "nodeLabel": "United States Air Force",
+   "source": {
+    "domain": null,
+    "text": "National Archives, Unidentified Flying Objects / Project BLUE BOOK",
+    "url": null
+   },
+   "text": "On 17 December 1969 the Secretary of the Air Force announced the termination of Project BLUE BOOK, relying on the University of Colorado report 'Scientific Study of Unidentified Flying Objects' and a National Academy of Sciences review of it.",
+   "tier": 1
+  },
+  "c-a53b721fb9": {
+   "id": "c-a53b721fb9",
+   "kind": "claim",
+   "node": "stanton-friedman",
+   "nodeLabel": "Stanton T. Friedman",
+   "source": {
+    "domain": "archive.org",
+    "text": "Headquarters USAF, 'The Roswell Report: Fact versus Fiction in the New Mexico Desert' (1995) https://archive.org/details/DTIC_ADA326148",
+    "url": "https://archive.org/details/DTIC_ADA326148"
+   },
+   "text": "The US Air Force's own 1995 Roswell report states: 'In 1978, a UFO researcher, Stanton Friedman, met with Marcel and began investigating the claims that the material Marcel handled was from a crashed UFO.' The board's account of Friedman as the first civilian investigator to reach Marcel is therefore attested by the Air Force, not only by Friedman.",
+   "tier": 1
+  },
+  "c-aa54289bab": {
+   "id": "c-aa54289bab",
+   "kind": "claim",
+   "node": "william-l-moore",
+   "nodeLabel": "William L. Moore",
+   "source": {
+    "domain": null,
+    "text": "Publisher's imprint and library catalogue records; DEMOTED from Tier 1 (the same assertion is Tier 2 on the-roswell-incident-1980); needs primary replacement",
+    "url": null
+   },
+   "text": "'The Roswell Incident' by Charles Berlitz and William Moore was published in New York by Grosset & Dunlap in 1980, ISBN 978-0448211992.",
+   "tier": 2
+  },
+  "c-abfc992dba": {
+   "id": "c-abfc992dba",
+   "kind": "claim",
+   "node": "robert-bigelow",
+   "nodeLabel": "Robert T. Bigelow",
+   "source": {
+    "domain": null,
+    "text": "Gideon Lewis-Kraus, The New Yorker, 10 May 2021, quoting NIDS' own description",
+    "url": null
+   },
+   "text": "Bigelow founded NIDS in 1995 as 'a privately funded science institute engaged in research of aerial phenomena, animal mutilations, and other related anomalous phenomena,' and purchased Skinwalker Ranch the following year.",
+   "tier": 1
+  },
+  "c-ac48e7c619": {
+   "id": "c-ac48e7c619",
+   "kind": "claim",
+   "node": "nicap",
+   "nodeLabel": "National Investigations Committee on Aerial Phenomena (NICAP)",
+   "source": {
+    "domain": "archive.org",
+    "text": "Jim G. Lucas, 'Project Skylight: New Group Setting Sights on Saucers', The Washington Daily News, 23 October 1956, in FBI file 100-35992 on the National Investigations Committee on Aerial Phenomena, part 1, https://archive.org/details/NICAP",
+    "url": "https://archive.org/details/NICAP"
+   },
+   "text": "Thomas Townsend Brown ran the organisation at its formation. A Washington Daily News report of Tuesday 23 October 1956, filed in the FBI's NICAP file: 'The brass plate at 1536 Connecticut-av nw reads \"National Investigations Committee on Aerial Phenomena.\" Inside they refer to it as Project Skylight. T. Townsend Brown of Leesburg, Va., who runs it, identified himself as executive vice chairman pro tempore. He formerly was a consulting physicist for the Clevite-Brush Electronics Co. of Cleveland, O.' The same report says the committee 'is just now forming. On Nov. 1 it meets to elect a nine-man board of governors.'",
+   "tier": 1
+  },
+  "c-b08d43c896": {
+   "id": "c-b08d43c896",
+   "kind": "claim",
+   "node": "nicap",
+   "nodeLabel": "National Investigations Committee on Aerial Phenomena (NICAP)",
+   "source": {
+    "domain": "archive.org",
+    "text": "The UFO Evidence, 1964, in CIA-RDP81R00560R000100010001-0, https://archive.org/details/cia-readingroom-document-cia-rdp81r00560r000100010001-0",
+    "url": "https://archive.org/details/cia-readingroom-document-cia-rdp81r00560r000100010001-0"
+   },
+   "text": "The volume was addressed to Congress and says so: 'Copies of this report have been sent to all Members of Congress.' Its board in 1964 also included 'Mr. Dewey Fournet, Jr., former Major USAFR ... Former Air Force Headquarters Monitor of AF Project Blue Book UFO investigation, prepared analyses of UFO data for AF, liaison officer between Dayton project and Pentagon.'",
+   "tier": 1
+  },
+  "c-b099679775": {
+   "id": "c-b099679775",
+   "kind": "claim",
+   "node": "fund-for-ufo-research",
+   "nodeLabel": "Fund for UFO Research",
+   "source": {
+    "domain": null,
+    "text": "Rodeghier and Whiting (1992), cited in the 1997 Air Force report",
+    "url": null
+   },
+   "text": "Fred Whiting of the Fund for UFO Research co-authored 'The Plains of San Agustin Controversy' (1992) with Mark Rodeghier of CUFOS, concluding against the reliability of Gerald Anderson.",
+   "tier": 2
+  },
+  "c-b2e2382bc8": {
+   "id": "c-b2e2382bc8",
+   "kind": "claim",
+   "node": "stanton-friedman",
+   "nodeLabel": "Stanton T. Friedman",
+   "source": {
+    "domain": "www.theblackvault.com",
+    "text": "Stanton T. Friedman, 'The Bob Lazar Fraud', December 1997, updated January 2011, https://www.theblackvault.com/casefiles/the-bob-lazar-fraud-2/ , opened 2026-09-18",
+    "url": "https://www.theblackvault.com/casefiles/the-bob-lazar-fraud-2/"
+   },
+   "text": "THE CREDENTIAL CASE AGAINST LAZAR WAS MADE BY A UFO PROPONENT, NOT A DEBUNKER, AND THAT IS THE PART THE LITERATURE LOSES. Friedman, a nuclear physicist who spent his career arguing that UFOs are real craft, wrote 'The Bob Lazar Fraud' in December 1997, updated January 2011: 'No diplomas, no resumes, no transcripts, no memberships in professional organizations, no papers, no pages from MIT or Caltech yearbooks.' On the schools: 'Pierce said he had taken electronics courses in the late 1970s. The other three schools never heard of him.' On the professor Lazar named as a Caltech instructor: 'I located Dr. Duxler. He's a Pierce Junior College physics prof, and never taught at Caltech.' Duxler checked his own records and told Friedman that Lazar had taken at least one of his Pierce classes in the late 1970s.",
+   "tier": 2
+  },
+  "c-b3d0260a90": {
+   "id": "c-b3d0260a90",
+   "kind": "claim",
+   "node": "nicap",
+   "nodeLabel": "National Investigations Committee on Aerial Phenomena (NICAP)",
+   "source": {
+    "domain": "archive.org",
+    "text": "The UFO Evidence, 1964, in CIA-RDP81R00560R000100010001-0, https://archive.org/details/cia-readingroom-document-cia-rdp81r00560r000100010001-0",
+    "url": "https://archive.org/details/cia-readingroom-document-cia-rdp81r00560r000100010001-0"
+   },
+   "text": "A former Director of Central Intelligence sat on its board and joined its campaign for hearings. The 1964 volume: 'Vice Admiral R. H. Hillenkoetter, USN (Ret.), a long-time acquaintance of Major Keyhoe, also served on the NICAP Board of Governors for five years,' and 'In 1961, Adm. Hillenkoetter joined with a majority of the NICAP Board in urging a Congressional investigation of the UFO problem.'",
+   "tier": 1
+  },
+  "c-b695fe2b49": {
+   "id": "c-b695fe2b49",
+   "kind": "claim",
+   "node": "robert-bigelow",
+   "nodeLabel": "Robert T. Bigelow",
+   "source": {
+    "domain": null,
+    "text": "DIA contract release FOIA-00349-2018, released 13 Oct 2022",
+    "url": null
+   },
+   "text": "Bigelow Aerospace Advanced Space Studies, LLC, 4640 S. Eastern Ave, Las Vegas NV 89119, DUNS 827037768, CAGE 54JU7, was awarded firm-fixed-price contract HHM402-08-C-0072 on 22 September 2008 with a base value of $10,000,000.",
+   "tier": 1
+  },
+  "c-b6ae2b4fee": {
+   "id": "c-b6ae2b4fee",
+   "kind": "claim",
+   "node": "d-disclosure",
+   "nodeLabel": "Disclosure Movement",
+   "source": {
+    "domain": null,
+    "text": "DoD statement on release of historical Navy videos",
+    "url": null
+   },
+   "text": "The Department of Defense formally released three declassified Navy videos (FLIR1, GOFAST, GIMBAL) on 27 April 2020 in an official statement.",
+   "tier": 1
+  },
+  "c-b868065c8f": {
+   "id": "c-b868065c8f",
+   "kind": "claim",
+   "node": "gerald-anderson",
+   "nodeLabel": "Gerald Anderson",
+   "source": {
+    "domain": "archive.org",
+    "text": "Headquarters USAF, 'The Roswell Report: Case Closed' (1997), Appendix C https://archive.org/details/DTIC_ADA326147",
+    "url": "https://archive.org/details/DTIC_ADA326147"
+   },
+   "text": "The USAF's 'Case Closed' prints Gerald Anderson's interview in full as Appendix C, beginning at page 187, noting it was 'excerpted in their entirety from unedited interviews used to prepare the video, Recollections of Roswell, Part II (1993)' and appears courtesy of the Fund for UFO Research. The Air Force also quotes him directly on the alleged bodies: 'I thought they were plastic dolls.'",
+   "tier": 1
+  },
+  "c-b943ef143f": {
+   "id": "c-b943ef143f",
+   "kind": "claim",
+   "node": "mufon-sip",
+   "nodeLabel": "BAASS–MUFON Star Team Impact Project (SIP)",
+   "source": {
+    "domain": null,
+    "text": "Contemporaneous MUFON and BAASS accounts; The UFO Chronicles, March 2011",
+    "url": null
+   },
+   "text": "BAASS funded MUFON's Star Team Impact Project in 2009 to provide rapid-response field investigation, with case data flowing back to BAASS; the arrangement ended in 2010.",
+   "tier": 2
+  },
+  "c-bb7bccfed7": {
+   "id": "c-bb7bccfed7",
+   "kind": "claim",
+   "node": "skywatcher",
+   "nodeLabel": "Skywatcher",
+   "source": {
+    "domain": null,
+    "text": "Jesse Michels, American Alchemy episode description, 30 January 2025",
+    "url": null
+   },
+   "text": "Skywatcher's X account and website skywatcher.ai were promoted in the description of Jake Barber's 30 January 2025 American Alchemy interview.",
+   "tier": 2
+  },
+  "c-be27353d73": {
+   "id": "c-be27353d73",
+   "kind": "claim",
+   "node": "richard-dolan",
+   "nodeLabel": "Richard M. Dolan",
+   "source": {
+    "domain": null,
+    "text": "Dolan, 'UFOs and the National Security State', vols. I and II",
+    "url": null
+   },
+   "text": "Dolan's two-volume 'UFOs and the National Security State' covers 1941-1973 (2002) and 1973-1991 (2009) and situates the UFO record within the documented growth of the US national security apparatus.",
+   "tier": 2
+  },
+  "c-be94466742": {
+   "id": "c-be94466742",
+   "kind": "claim",
+   "node": "kevin-randle",
+   "nodeLabel": "Kevin D. Randle",
+   "source": {
+    "domain": null,
+    "text": "Randle, 'Conclusions on Operation Majestic Twelve' (1994) and 'Case MJ-12' (2002)",
+    "url": null
+   },
+   "text": "Randle concluded the Majestic 12 documents were not authentic, in direct opposition to Stanton Friedman.",
+   "tier": 2
+  },
+  "c-bfe7c31ee3": {
+   "id": "c-bfe7c31ee3",
+   "kind": "claim",
+   "node": "project-blue-book",
+   "nodeLabel": "Project Blue Book",
+   "source": {
+    "domain": null,
+    "text": "USAF Fact Sheet, 'Unidentified Flying Objects and Air Force Project Blue Book'",
+    "url": null
+   },
+   "text": "The Air Force gave three reasons for termination: no reported UFO was ever an indication of threat to national security; no evidence that unexplained sightings represented technological developments beyond current scientific knowledge; and no evidence that 'unidentified' sightings were extraterrestrial vehicles.",
+   "tier": 1
+  },
+  "c-c1d5a44f6e": {
+   "id": "c-c1d5a44f6e",
+   "kind": "claim",
+   "node": "ufos-national-security-state",
+   "nodeLabel": "UFOs and the National Security State, vols. I-II (Dolan, 2002 and 2009)",
+   "source": {
+    "domain": null,
+    "text": "Methodological inference from the two volumes",
+    "url": null
+   },
+   "text": "Dolan's institutional method is the correct one for this domain and this board adopts it: because special access programme architecture, appropriations structure and classification practice are documented, the question of concealment can be argued at tier 1 even where individual retrieval claims cannot rise above tier 2. Reasoning: the burden shifts from proving an event to accounting for a documented structure and its unaudited compartments.",
+   "tier": 3
+  },
+  "c-cc16c644a8": {
+   "id": "c-cc16c644a8",
+   "kind": "claim",
+   "node": "robert-hastings",
+   "nodeLabel": "Robert L. Hastings",
+   "source": {
+    "domain": null,
+    "text": "Derived by this board from the register in research/leads/verified-nuclear-witnesses-2026-09-19.md, which lists every nuclear-facility witness found in the 19 September 2026 pass together with the route by which each account reached the public",
+    "url": null
+   },
+   "text": "SECTION 2a PROVENANCE. THE CIRCULAR-REPORTING STRUCTURE, STATED PLAINLY AND WITHOUT INSINUATION. Of the corroborating voices in the Malmstrom and Oscar Flight case, four reached the public solely through Robert Hastings or Robert Salas: Walter Figel, whose account exists as Hastings's audio recordings of telephone calls in 2008, 2009 and 2010; Frederick Meiwald, as a private letter to Salas of 1 October 1996 plus Hastings's recorded calls of August 1996 and 6 May 2011; Robert Jamison, whose recollection supplies the 24 March 1967 date that separates Oscar Flight from Echo Flight; and Robert J. Kaminski, as a 1997 letter to Jim Klotz. Three of those four exist only as private correspondence or as recordings held by the interviewer. CLAUDE.md section 2 applies: four witnesses who share a single interviewer are one method applied four times, not four independent confirmations.",
+   "tier": 3
+  },
+  "c-cc917f1c22": {
+   "id": "c-cc917f1c22",
+   "kind": "claim",
+   "node": "william-l-moore",
+   "nodeLabel": "William L. Moore",
+   "source": {
+    "domain": null,
+    "text": "William L. Moore, address to the MUFON Symposium, Las Vegas, July 1989",
+    "url": null
+   },
+   "text": "Moore publicly admitted at the 1989 MUFON symposium that he had cooperated with US Air Force counterintelligence and had knowingly passed false information to Paul Bennewitz.",
+   "tier": 2
+  },
+  "c-cc947e22b4": {
+   "id": "c-cc947e22b4",
+   "kind": "claim",
+   "node": "robert-hastings",
+   "nodeLabel": "Robert L. Hastings",
+   "source": {
+    "domain": "mgln.ai",
+    "text": "American Alchemy with Jesse Michels, 'UFO Believer vs. UFO Skeptic: Are Aliens Visiting Earth?' (ft. Mick West and Marik von Rennenkampff), 27 January 2025, 3:07:08, https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/TOE9180015195.mp3?updated=1738087523",
+    "url": "https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/TOE9180015195.mp3?updated=1738087523"
+   },
+   "text": "On the same show on 27 January 2025 at 3:07:08 Michels said he had overstated the case and that Hastings emailed him a correction: 'it was only like 12 to 15. I don't remember the exact number. But radar operators, the rest were ICBM security personnel'. In the same passage he gives the overall total as 170. The correction concerns the composition of the witness population, not only its size.",
+   "tier": 2
+  },
+  "c-d25b37ea61": {
+   "id": "c-d25b37ea61",
+   "kind": "claim",
+   "node": "stan-gordon",
+   "nodeLabel": "Stan Gordon",
+   "source": {
+    "domain": null,
+    "text": "Greensburg Tribune-Review, December 1965",
+    "url": null
+   },
+   "text": "The Greensburg Tribune-Review reported at the time that the landing area was immediately sealed off on the order of US Army and State Police officials in anticipation of a close inspection, and that state police ordered the area roped off pending the arrival of Army engineers and possibly civilian scientists; a subsequent edition ran the headline 'Searchers Fail to Find Object'.",
+   "tier": 1
+  },
+  "c-d4e3288d32": {
+   "id": "c-d4e3288d32",
+   "kind": "claim",
+   "node": "project-blue-book",
+   "nodeLabel": "Project Blue Book",
+   "source": {
+    "domain": null,
+    "text": "USAF Fact Sheet, 'Unidentified Flying Objects and Air Force Project Blue Book'",
+    "url": null
+   },
+   "text": "Blue Book recorded 12,618 sightings between 1947 and 1969, of which 701 remained unidentified; it was terminated on 17 December 1969.",
+   "tier": 1
+  },
+  "c-d59d54959b": {
+   "id": "c-d59d54959b",
+   "kind": "claim",
+   "node": "roscoe-hillenkoetter",
+   "nodeLabel": "Roscoe H. Hillenkoetter",
+   "source": {
+    "domain": null,
+    "text": "FBI files on Roscoe H. Hillenkoetter, National Security Archive mirror; full-text search of the sections available",
+    "url": null
+   },
+   "text": "The National Security Archive's mirror of the FBI files on Hillenkoetter -- eighteen serials plus a main file -- contains, across the sections text-searched, zero occurrences of NICAP, 'flying saucer', 'unidentified flying', Keyhoe, or the year 1960. OCR quality on these scans is uneven, so this is a strong indication rather than a proof.",
+   "tier": 2
+  },
+  "c-d8cd385ceb": {
+   "id": "c-d8cd385ceb",
+   "kind": "claim",
+   "node": "donald-keyhoe",
+   "nodeLabel": "Maj. Donald E. Keyhoe, USMC (Ret.)",
+   "source": {
+    "domain": "archive.org",
+    "text": "CIA memorandum for record, 'Comments on Letters Dealing with Unidentified Flying Objects', CIA reading room document 0005516043, reading-room date 4 April 1958, https://archive.org/details/cia-readingroom-document-0005516043",
+    "url": "https://archive.org/details/cia-readingroom-document-0005516043"
+   },
+   "text": "The CIA recorded a standing rule for handling him. A memorandum for record on 'Comments on Letters Dealing with Unidentified Flying Objects' notes that the Air Force was 'most insistent' on answering his letters itself, that 'the Air Force is endeavoring to impress upon Major Keyhoe and others in a similar position, that his office is the proper place to come for such information', and concludes: 'I think we can use this procedure as a precedent henceforth in all inquiries regarding UFO's.' The scan's OCR is imperfect and renders his surname inconsistently; the quoted sentences were legible.",
+   "tier": 1
+  },
+  "c-d9ff54abab": {
+   "id": "c-d9ff54abab",
+   "kind": "claim",
+   "node": "kevin-randle",
+   "nodeLabel": "Kevin D. Randle",
+   "source": {
+    "domain": null,
+    "text": "Robert Sheaffer interviews with Randle, Skeptical Inquirer",
+    "url": null
+   },
+   "text": "Randle told Skeptical Inquirer that he is 'getting more skeptical in my old age', that he sets 'a very high bar for the level of evidence required', and later that he is no longer sure what happened at Roswell and the case for extraterrestrial involvement is no longer robust.",
+   "tier": 2
+  },
+  "c-dd3793d7bc": {
+   "id": "c-dd3793d7bc",
+   "kind": "claim",
+   "node": "stringfield-status-reports",
+   "nodeLabel": "UFO Crash/Retrieval Status Reports I-VII (Stringfield, 1978-1994)",
+   "source": {
+    "domain": null,
+    "text": "Title and copyright pages of the original printings, scanned at the Internet Archive — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+    "url": null
+   },
+   "text": "Status Report II is dated January 1980 and was published by MUFON; Status Report IV is dated June 1985; Status Report V is dated January 1989; Status Report VI is dated July 1991 and was self-published by Stringfield at 4412 Grove Avenue, Cincinnati, Ohio 45227; Status Report VII is dated February 1994.",
+   "tier": 2
+  },
+  "c-f5bb63d461": {
+   "id": "c-f5bb63d461",
+   "kind": "claim",
+   "node": "d-disclosure",
+   "nodeLabel": "Disclosure Movement",
+   "source": {
+    "domain": null,
+    "text": "House Oversight Committee witness statements",
+    "url": null
+   },
+   "text": "David Fravor and Ryan Graves submitted written statements to the House Oversight Committee for the 26 July 2023 hearing.",
+   "tier": 1
+  },
+  "c-f7c62a579a": {
+   "id": "c-f7c62a579a",
+   "kind": "claim",
+   "node": "donald-keyhoe",
+   "nodeLabel": "Maj. Donald E. Keyhoe, USMC (Ret.)",
+   "source": {
+    "domain": "archive.org",
+    "text": "CIA reading room document 0000015416, 'Inquiry by Major Donald E. Keyhoe (deleted)', reading-room date 4 January 1959, https://archive.org/details/cia-readingroom-document-0000015416",
+    "url": "https://archive.org/details/cia-readingroom-document-0000015416"
+   },
+   "text": "He put the question to the Director of Central Intelligence directly. An internal CIA memorandum of January 1959 quotes his memorandum of 13 March 1958 to the DCI asking whether CIA representatives had told UFO witnesses not to make their sightings public, and on what authority. The scan is partly illegible and no wording is quoted from it here.",
+   "tier": 1
+  },
+  "c-f8d75709c1": {
+   "id": "c-f8d75709c1",
+   "kind": "claim",
+   "node": "the-roswell-incident-1980",
+   "nodeLabel": "The Roswell Incident (Berlitz and Moore, 1980)",
+   "source": {
+    "domain": null,
+    "text": "Publisher's imprint and library catalogue records — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+    "url": null
+   },
+   "text": "'The Roswell Incident' by Charles Berlitz and William Moore was published in New York by Grosset & Dunlap in 1980, ISBN 978-0448211992.",
+   "tier": 2
+  },
+  "c-fa027c84d8": {
+   "id": "c-fa027c84d8",
+   "kind": "claim",
+   "node": "stanton-friedman",
+   "nodeLabel": "Stanton T. Friedman",
+   "source": {
+    "domain": null,
+    "text": "Friedman, 'Top Secret/Majic' (1996); summarised in Wikipedia biography",
+    "url": null
+   },
+   "text": "Friedman demonstrated that a purported 17 February 1948 Hillenkoetter memo to Truman was an emulation of a Marshall-to-Roosevelt letter published in 'The American MAGIC' - i.e. he proved part of the MJ-12 corpus fraudulent while defending the rest.",
+   "tier": 2
+  },
+  "c-fc01ecff3c": {
+   "id": "c-fc01ecff3c",
+   "kind": "claim",
+   "node": "gerald-anderson",
+   "nodeLabel": "Gerald Anderson",
+   "source": {
+    "domain": null,
+    "text": "Rodeghier and Whiting, 'The Plains of San Agustin Controversy' (1992), cited at note 123 of the 1997 Air Force report",
+    "url": null
+   },
+   "text": "Mark Rodeghier (CUFOS) and Fred Whiting (Fund for UFO Research) published a joint investigation, 'The Plains of San Agustin Controversy', concluding against Anderson's reliability.",
+   "tier": 2
+  },
+  "e-11e74ee7a1": {
+   "endpoints": [
+    {
+     "id": "donald-keyhoe",
+     "label": "Maj. Donald E. Keyhoe, USMC (Ret.)"
+    },
+    {
+     "id": "cia",
+     "label": "Central Intelligence Agency"
+    }
+   ],
+   "id": "e-11e74ee7a1",
+   "kind": "edge",
+   "label": "CIA routed his UFO inquiries to the Air Force and made it a precedent",
+   "sources": [
+    {
+     "date": "1958-04-04",
+     "name": "CIA reading room document 0005516043",
+     "url": "https://archive.org/details/cia-readingroom-document-0005516043"
+    }
+   ],
+   "text": "A 1958 CIA memorandum for record states that the letters from him would be forwarded to the Air Force to answer and that the Agency would use the procedure as a precedent henceforth in all inquiries regarding UFOs.",
+   "tier": 1,
+   "type": "denial"
+  },
+  "e-1d0d6f81d0": {
+   "endpoints": [
+    {
+     "id": "william-l-moore",
+     "label": "William L. Moore"
+    },
+    {
+     "id": "mufon",
+     "label": "Mutual UFO Network (MUFON)"
+    }
+   ],
+   "id": "e-1d0d6f81d0",
+   "kind": "edge",
+   "label": "Made the AFOSI disinformation admission from the MUFON platform",
+   "sources": [
+    {
+     "date": "1989-07-01",
+     "name": "Moore's 1989 MUFON symposium statement, published in full in the MUFON and Fair-Witness literature",
+     "url": "https://en.wikipedia.org/wiki/Stanton_T._Friedman"
+    }
+   ],
+   "text": "Moore chose the 1989 MUFON symposium in Las Vegas to state that he had cooperated with Air Force Office of Special Investigations personnel and passed disinformation to Paul Bennewitz.",
+   "tier": 2,
+   "type": "institutional"
+  },
+  "e-1f838db3ba": {
+   "endpoints": [
+    {
+     "id": "donald-keyhoe",
+     "label": "Maj. Donald E. Keyhoe, USMC (Ret.)"
+    },
+    {
+     "id": "roscoe-hillenkoetter",
+     "label": "Roscoe H. Hillenkoetter"
+    }
+   ],
+   "id": "e-1f838db3ba",
+   "kind": "edge",
+   "label": "Long-time acquaintance; recruited a former DCI onto NICAP's Board of Governors",
+   "sources": [
+    {
+     "date": "1964-05-01",
+     "name": "The UFO Evidence, 1964, in CIA-RDP81R00560R000100010001-0",
+     "url": "https://archive.org/details/cia-readingroom-document-cia-rdp81r00560r000100010001-0"
+    }
+   ],
+   "text": "NICAP's 1964 volume describes Hillenkoetter as 'a long-time acquaintance of Major Keyhoe' who served five years on the NICAP Board of Governors and in 1961 joined a majority of that Board in urging a Congressional investigation.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-26348e1284": {
+   "endpoints": [
+    {
+     "id": "baass",
+     "label": "Bigelow Aerospace Advanced Space Studies (BAASS), LLC"
+    },
+    {
+     "id": "mufon-sip",
+     "label": "BAASS–MUFON Star Team Impact Project (SIP)"
+    }
+   ],
+   "id": "e-26348e1284",
+   "kind": "edge",
+   "label": "funded MUFON's Star Team Impact Project",
+   "sources": [
+    {
+     "date": "2011-03-01",
+     "name": "The UFO Chronicles",
+     "url": "https://www.theufochronicles.com/2011/03/what-caused-failure-of-baass-mufon-sip.html"
+    }
+   ],
+   "text": "A DIA-contracted firm bought rapid-response access to the largest civilian UFO reporting network in the United States; the arrangement collapsed in 2010.",
+   "tier": 2,
+   "type": "funding"
+  },
+  "e-29149e99a3": {
+   "endpoints": [
+    {
+     "id": "roscoe-hillenkoetter",
+     "label": "Roscoe H. Hillenkoetter"
+    },
+    {
+     "id": "nicap",
+     "label": "National Investigations Committee on Aerial Phenomena (NICAP)"
+    }
+   ],
+   "id": "e-29149e99a3",
+   "kind": "edge",
+   "label": "Served five years on the Board of Governors",
+   "sources": [
+    {
+     "date": "1964-05-01",
+     "name": "The UFO Evidence, NICAP, 1964, CIA filed copy CIA-RDP81R00560R000100010001-0",
+     "url": "https://archive.org/details/cia-readingroom-document-cia-rdp81r00560r000100010001-0"
+    }
+   ],
+   "text": "NICAP's own 1964 volume states that Hillenkoetter served on its Board of Governors for five years and that in 1961 he joined a majority of the board in urging a Congressional investigation.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-2cbf64c664": {
+   "endpoints": [
+    {
+     "id": "usaf",
+     "label": "United States Air Force"
+    },
+    {
+     "id": "project-blue-book",
+     "label": "Project Blue Book"
+    }
+   ],
+   "id": "e-2cbf64c664",
+   "kind": "edge",
+   "label": "BLUE BOOK records transferred to the National Archives as 94 rolls of microfilm",
+   "sources": [
+    {
+     "date": "2026-08-12",
+     "name": "National Archives - Unidentified Flying Objects / Project BLUE BOOK",
+     "url": "https://www.archives.gov/research/military/air-force/ufos"
+    }
+   ],
+   "text": "The records were permanently transferred to NARA and are held as 94 rolls of 35mm microfilm, T-1206.",
+   "tier": 1,
+   "type": "custody"
+  },
+  "e-2ee2bc759c": {
+   "endpoints": [
+    {
+     "id": "stanton-friedman",
+     "label": "Stanton T. Friedman"
+    },
+    {
+     "id": "kevin-randle",
+     "label": "Kevin D. Randle"
+    }
+   ],
+   "id": "e-2ee2bc759c",
+   "kind": "edge",
+   "label": "Unresolved dispute over MJ-12 authenticity",
+   "sources": [
+    {
+     "date": "2026-08-12",
+     "name": "Stanton T. Friedman - Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Stanton_T._Friedman"
+    }
+   ],
+   "text": "Friedman held there were no substantive grounds for dismissing the core documents while himself proving parts of the corpus faked; Randle concluded the whole was not authentic. Neither position has been settled by any released record.",
+   "tier": 2,
+   "type": "denial"
+  },
+  "e-3efb6ca3ff": {
+   "endpoints": [
+    {
+     "id": "william-l-moore",
+     "label": "William L. Moore"
+    },
+    {
+     "id": "kevin-randle",
+     "label": "Kevin D. Randle"
+    }
+   ],
+   "id": "e-3efb6ca3ff",
+   "kind": "edge",
+   "label": "Moore's 1989 AFOSI admission is Randle's strongest argument against MJ-12",
+   "sources": [
+    {
+     "date": "2026-08-12",
+     "name": "Stanton T. Friedman - Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Stanton_T._Friedman"
+    }
+   ],
+   "text": "Moore stated publicly at the 1989 MUFON symposium that he had cooperated with AFOSI and passed disinformation to Paul Bennewitz; Randle's 'Conclusions on Operation Majestic Twelve' (1994) and 'Case MJ-12' (2002) treat the corpus as fabricated.",
+   "tier": 2,
+   "type": "denial"
+  },
+  "e-4c4671ab5b": {
+   "endpoints": [
+    {
+     "id": "robert-bigelow",
+     "label": "Robert T. Bigelow"
+    },
+    {
+     "id": "baass",
+     "label": "Bigelow Aerospace Advanced Space Studies (BAASS), LLC"
+    }
+   ],
+   "id": "e-4c4671ab5b",
+   "kind": "edge",
+   "label": "owner and principal",
+   "sources": [
+    {
+     "date": "2024-03-08",
+     "name": "AARO Historical Record Report Volume 1",
+     "url": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF"
+    }
+   ],
+   "text": "AARO refers to Bigelow only as 'the head of the private sector organization', confirming the relationship without the name.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-4e68d81031": {
+   "endpoints": [
+    {
+     "id": "gerald-anderson",
+     "label": "Gerald Anderson"
+    },
+    {
+     "id": "cufos",
+     "label": "J. Allen Hynek Center for UFO Studies (CUFOS)"
+    }
+   ],
+   "id": "e-4e68d81031",
+   "kind": "edge",
+   "label": "CUFOS and FUFOR investigated and discredited their own witness",
+   "sources": [
+    {
+     "date": "1997-01-01",
+     "name": "The Roswell Report: Case Closed (1997)",
+     "url": "https://archive.org/details/AFD-101027-030"
+    }
+   ],
+   "text": "Mark Rodeghier of CUFOS and Fred Whiting of the Fund for UFO Research published 'The Plains of San Agustin Controversy' concluding against Anderson's reliability.",
+   "tier": 2,
+   "type": "investigative"
+  },
+  "e-555c7dcf04": {
+   "endpoints": [
+    {
+     "id": "donald-keyhoe",
+     "label": "Maj. Donald E. Keyhoe, USMC (Ret.)"
+    },
+    {
+     "id": "nicap",
+     "label": "National Investigations Committee on Aerial Phenomena (NICAP)"
+    }
+   ],
+   "id": "e-555c7dcf04",
+   "kind": "edge",
+   "label": "Director, by September 1957 and still in post May 1964",
+   "sources": [
+    {
+     "date": "1964-05-01",
+     "name": "The UFO Evidence, 1964, masthead and the First Air Force letter of 20 September 1957 reproduced in it",
+     "url": "https://archive.org/details/cia-readingroom-document-cia-rdp81r00560r000100010001-0"
+    }
+   ],
+   "text": "An Air Force headquarters letter of 20 September 1957 addresses him as Director NICAP at 1536 Connecticut Avenue NW, and the organisation's May 1964 volume carries him on its masthead as director. No opened record gives an end date.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-56585e150b": {
+   "endpoints": [
+    {
+     "id": "operacao-prato",
+     "label": "Operação Prato (Operation Saucer)"
+    },
+    {
+     "id": "jacques-vallee",
+     "label": "Jacques F. Vallee"
+    }
+   ],
+   "id": "e-56585e150b",
+   "kind": "edge",
+   "label": "Vallee was shown the Prato military file at First Air Force headquarters in 1988",
+   "sources": [
+    {
+     "date": null,
+     "name": "Jacques Vallee, 'Forbidden Science Volume Three' (diary of the July 1988 Brazil trip), quoted in Basterfield, 'Investigative adventures in Brazil'",
+     "url": ""
+    },
+    {
+     "date": null,
+     "name": "Keith Basterfield, 'Investigative adventures in Brazil', Unidentified Anomalous Phenomena – scientific research, 22 July 2024, with update of 16 February 2025 — https://ufos-scientificresearch.blogspot.com/2024/07/investigative-adventures-in-brazil.html",
+     "url": ""
+    },
+    {
+     "date": "2026-01-01",
+     "name": "Operação Prato - Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Prato"
+    }
+   ],
+   "text": "From Vallee's Forbidden Science Volume Three, as quoted by Basterfield: travelling to Belém in July 1988, 'They met with Colonel Hollanda Lima, in the headquarters of the First Air Force region. He led the team sent to the Colares region during Operation Prato. Vallee was shown a military file which: \"...held the military photographs, detailed aerial maps, trajectory analyses by the staff of Project Prato.\"' Tier 2 — diary testimony quoted at one remove, with no FAB document confirming the meeting.",
+   "tier": 2,
+   "type": "investigative"
+  },
+  "e-581497930d": {
+   "endpoints": [
+    {
+     "id": "robert-bigelow",
+     "label": "Robert T. Bigelow"
+    },
+    {
+     "id": "nids",
+     "label": "National Institute for Discovery Science (NIDS)"
+    }
+   ],
+   "id": "e-581497930d",
+   "kind": "edge",
+   "label": "founded and privately funded NIDS 1995-2004",
+   "sources": [
+    {
+     "date": "2024-01-01",
+     "name": "Wikipedia — NIDS",
+     "url": "https://en.wikipedia.org/wiki/National_Institute_for_Discovery_Science"
+    },
+    {
+     "date": "2021-05-10",
+     "name": "Gideon Lewis-Kraus, 'How the Pentagon Started Taking U.F.O.s Seriously', The New Yorker",
+     "url": "https://www.newyorker.com/magazine/2021/05/10/how-the-pentagon-started-taking-ufos-seriously"
+    },
+    {
+     "date": "1998-08-10",
+     "name": "Zack Van Eyck, 'Private UFO study takes a public turn', Deseret News",
+     "url": "https://www.deseret.com/1998/8/10/19395824/private-ufo-study-takes-a-public-turn"
+    }
+   ],
+   "text": "NIDS described itself as a privately funded science institute studying aerial phenomena and animal mutilations; Bigelow shut it down in 2004.",
+   "tier": 2,
+   "type": "funding"
+  },
+  "e-66e9a72e7c": {
+   "endpoints": [
+    {
+     "id": "nufohrc",
+     "label": "National UFO Historical Records Center"
+    },
+    {
+     "id": "nicap",
+     "label": "National Investigations Committee on Aerial Phenomena (NICAP)"
+    }
+   ],
+   "id": "e-66e9a72e7c",
+   "kind": "edge",
+   "label": "Names the NICAP case files as one of its three major collections, on its own account",
+   "sources": [
+    {
+     "date": "2026-09-02",
+     "name": "National UFO Historical Records Center, collections page",
+     "url": "https://nufohrc.org/collections/"
+    }
+   ],
+   "text": "The Center names NICAP's case files as one of its three major historical collections, on its own collections page and on its own account.",
+   "tier": 2,
+   "type": "custody"
+  },
+  "e-673a287189": {
+   "endpoints": [
+    {
+     "id": "fund-for-ufo-research",
+     "label": "Fund for UFO Research"
+    },
+    {
+     "id": "leonard-stringfield",
+     "label": "Leonard H. Stringfield"
+    }
+   ],
+   "id": "e-673a287189",
+   "kind": "edge",
+   "label": "FUFOR funded Stringfield's later Status Reports",
+   "sources": [
+    {
+     "date": "2026-08-12",
+     "name": "Stringfield Status Reports 1-7 (scans)",
+     "url": "https://archive.org/details/stringfield_Retrievals_Report_6_inner_sanctum_LQ"
+    }
+   ],
+   "text": "Stringfield names the Fund for UFO Research first in the Status Report VII acknowledgements, thanking it for past funding.",
+   "tier": 1,
+   "type": "funding"
+  },
+  "e-69b2c6399e": {
+   "endpoints": [
+    {
+     "id": "fund-for-ufo-research",
+     "label": "Fund for UFO Research"
+    },
+    {
+     "id": "gerald-anderson",
+     "label": "Gerald Anderson"
+    }
+   ],
+   "id": "e-69b2c6399e",
+   "kind": "edge",
+   "label": "FUFOR co-authored the report against its own first-hand witness",
+   "sources": [
+    {
+     "date": "1997-01-01",
+     "name": "The Roswell Report: Case Closed (1997)",
+     "url": "https://archive.org/details/AFD-101027-030"
+    }
+   ],
+   "text": "Fred Whiting for FUFOR with Mark Rodeghier for CUFOS. Cited at note 123 of the 1997 Air Force report.",
+   "tier": 2,
+   "type": "investigative"
+  },
+  "e-879eadff2a": {
+   "endpoints": [
+    {
+     "id": "nufohrc",
+     "label": "National UFO Historical Records Center"
+    },
+    {
+     "id": "cufos",
+     "label": "J. Allen Hynek Center for UFO Studies (CUFOS)"
+    }
+   ],
+   "id": "e-879eadff2a",
+   "kind": "edge",
+   "label": "Names the Center for UFO Studies case files as a second of its three major collections, on its own account",
+   "sources": [
+    {
+     "date": "2026-09-02",
+     "name": "National UFO Historical Records Center, collections page",
+     "url": "https://nufohrc.org/collections/"
+    }
+   ],
+   "text": "The Center names the Center for UFO Studies case files as a second of its three major historical collections, on its own account.",
+   "tier": 2,
+   "type": "custody"
+  },
+  "e-8adaa21ec8": {
+   "endpoints": [
+    {
+     "id": "jacques-vallee",
+     "label": "Jacques F. Vallee"
+    },
+    {
+     "id": "nids",
+     "label": "National Institute for Discovery Science (NIDS)"
+    }
+   ],
+   "id": "e-8adaa21ec8",
+   "kind": "edge",
+   "label": "Vallee served on the NIDS advisory board",
+   "sources": [
+    {
+     "date": "1998-08-10",
+     "name": "Zack Van Eyck, 'Private UFO study takes a public turn', Deseret News",
+     "url": "https://www.deseret.com/1998/8/10/19395824/private-ufo-study-takes-a-public-turn"
+    },
+    {
+     "date": "2021-05-10",
+     "name": "Gideon Lewis-Kraus, 'How the Pentagon Started Taking U.F.O.s Seriously', The New Yorker",
+     "url": "https://www.newyorker.com/magazine/2021/05/10/how-the-pentagon-started-taking-ufos-seriously"
+    }
+   ],
+   "text": "Vallee had been at SRI in the 1970s and had documented deliberate human disinformation in UFO cases from 1979 - the phenomenon later confirmed in the Bennewitz affair.",
+   "tier": 2,
+   "type": "institutional"
+  },
+  "e-8c95e3352e": {
+   "endpoints": [
+    {
+     "id": "usaf",
+     "label": "United States Air Force"
+    },
+    {
+     "id": "project-blue-book",
+     "label": "Project Blue Book"
+    }
+   ],
+   "id": "e-8c95e3352e",
+   "kind": "edge",
+   "label": "Air Force ran the public UFO investigation 1952-1969",
+   "sources": [
+    {
+     "date": "2026-08-12",
+     "name": "National Archives - Unidentified Flying Objects / Project BLUE BOOK",
+     "url": "https://www.archives.gov/research/military/air-force/ufos"
+    }
+   ],
+   "text": "12,618 sightings were reported to BLUE BOOK, of which 701 remain 'Unidentified'. The Secretary of the Air Force announced termination on 17 December 1969.",
+   "tier": 1,
+   "type": "programmatic"
+  },
+  "e-906d0196fe": {
+   "endpoints": [
+    {
+     "id": "nicap",
+     "label": "National Investigations Committee on Aerial Phenomena (NICAP)"
+    },
+    {
+     "id": "usaf",
+     "label": "United States Air Force"
+    }
+   ],
+   "id": "e-906d0196fe",
+   "kind": "edge",
+   "label": "Charged the Air Force with an intolerable degree of secrecy, in print, to Congress",
+   "sources": [
+    {
+     "date": "1964-05-01",
+     "name": "The UFO Evidence, NICAP, 1964, CIA filed copy CIA-RDP81R00560R000100010001-0",
+     "url": "https://archive.org/details/cia-readingroom-document-cia-rdp81r00560r000100010001-0"
+    }
+   ],
+   "text": "The 1964 volume states that the Air Force 'has practiced an intolerable degree of secrecy keeping the public in the dark about the amount and possible significance of UFO evidence', and that copies of the report were sent to all Members of Congress.",
+   "tier": 1,
+   "type": "denial"
+  },
+  "e-9d050e82b0": {
+   "endpoints": [
+    {
+     "id": "william-l-moore",
+     "label": "William L. Moore"
+    },
+    {
+     "id": "stanton-friedman",
+     "label": "Stanton T. Friedman"
+    }
+   ],
+   "id": "e-9d050e82b0",
+   "kind": "edge",
+   "label": "Moore and Shandera's 1984 film delivery became Friedman's decade-long project",
+   "sources": [
+    {
+     "date": "2026-08-12",
+     "name": "Stanton T. Friedman - Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Stanton_T._Friedman"
+    }
+   ],
+   "text": "Friedman became aware of the MJ-12 documents through Moore and Jaime Shandera in 1984 and defended their core authenticity through 'Top Secret/Majic' (1996).",
+   "tier": 2,
+   "type": "research"
+  },
+  "e-a5bf34a329": {
+   "endpoints": [
+    {
+     "id": "thomas-townsend-brown",
+     "label": "Thomas Townsend Brown"
+    },
+    {
+     "id": "nicap",
+     "label": "National Investigations Committee on Aerial Phenomena (NICAP)"
+    }
+   ],
+   "id": "e-a5bf34a329",
+   "kind": "edge",
+   "label": "Ran NICAP at its formation, October 1956, as executive vice chairman pro tempore",
+   "sources": [
+    {
+     "date": "1956-10-23",
+     "name": "FBI file 100-35992, part 1, Washington Daily News clipping, 23 October 1956",
+     "url": "https://archive.org/details/NICAP"
+    }
+   ],
+   "text": "A Washington Daily News report of 23 October 1956, in the FBI's own NICAP file, names T. Townsend Brown of Leesburg, Virginia as the man who runs it and gives his title, with the board of governors still to be elected on 1 November.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-aa396ff8f5": {
+   "endpoints": [
+    {
+     "id": "donald-keyhoe",
+     "label": "Maj. Donald E. Keyhoe, USMC (Ret.)"
+    },
+    {
+     "id": "usaf",
+     "label": "United States Air Force"
+    }
+   ],
+   "id": "e-aa396ff8f5",
+   "kind": "edge",
+   "label": "The Air Force insisted on being the single channel for his inquiries",
+   "sources": [
+    {
+     "date": "1958-04-04",
+     "name": "CIA reading room document 0005516043",
+     "url": "https://archive.org/details/cia-readingroom-document-0005516043"
+    }
+   ],
+   "text": "The same memorandum records that the officer contacted at the Office of the Secretary of the Air Force Information Service wanted the letters forwarded to him to answer, that the Air Force was endeavouring to impress on Keyhoe and others that his office was the proper place to come for such information, and that the Air Force was most insistent on being permitted to answer.",
+   "tier": 1,
+   "type": "denial"
+  },
+  "e-b15d55bc2b": {
+   "endpoints": [
+    {
+     "id": "nicap",
+     "label": "National Investigations Committee on Aerial Phenomena (NICAP)"
+    },
+    {
+     "id": "project-blue-book",
+     "label": "Project Blue Book"
+    }
+   ],
+   "id": "e-b15d55bc2b",
+   "kind": "edge",
+   "label": "Blue Book's former headquarters monitor sat on the NICAP board",
+   "sources": [
+    {
+     "date": "1964-05-01",
+     "name": "The UFO Evidence, NICAP, 1964, CIA filed copy CIA-RDP81R00560R000100010001-0",
+     "url": "https://archive.org/details/cia-readingroom-document-cia-rdp81r00560r000100010001-0"
+    }
+   ],
+   "text": "The 1964 board list describes Dewey Fournet Jr. as the former Air Force Headquarters monitor of Project Blue Book and liaison officer between the Dayton project and the Pentagon.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-df70881355": {
+   "endpoints": [
+    {
+     "id": "leslie-kean",
+     "label": "Leslie Kean"
+    },
+    {
+     "id": "stan-gordon",
+     "label": "Stan Gordon"
+    }
+   ],
+   "id": "e-df70881355",
+   "kind": "edge",
+   "label": "Gordon's witness pool underwrote the evidentiary premise of the suit",
+   "sources": [
+    {
+     "date": "2007-03-27",
+     "name": "Memorandum Opinion, Kean v. NASA, 27 March 2007",
+     "url": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.106063/gov.uscourts.dcd.106063.45.0.pdf"
+    }
+   ],
+   "text": "The claim that something was recovered at Kecksburg, and therefore that records should exist, rests on the local testimony Gordon assembled. Reasoning: no document independently establishes a recovery, so the suit's factual premise is his witness base.",
+   "tier": 3,
+   "type": "witness-chain"
+  },
+  "e-f056e360b1": {
+   "endpoints": [
+    {
+     "id": "cufos",
+     "label": "J. Allen Hynek Center for UFO Studies (CUFOS)"
+    },
+    {
+     "id": "leonard-stringfield",
+     "label": "Leonard H. Stringfield"
+    }
+   ],
+   "id": "e-f056e360b1",
+   "kind": "edge",
+   "label": "CUFOS cooperated with and advised the Status Report series",
+   "sources": [
+    {
+     "date": "2026-08-12",
+     "name": "Stringfield Status Reports 1-7 (scans)",
+     "url": "https://archive.org/details/stringfield_Retrievals_Report_6_inner_sanctum_LQ"
+    }
+   ],
+   "text": "Stringfield acknowledges CUFOS cooperation in Status Report VII and records consulting its scientific director on 6 November 1993 about the Roswell body count.",
+   "tier": 1,
+   "type": "research"
+  },
+  "e-f390ae24fb": {
+   "endpoints": [
+    {
+     "id": "leonard-stringfield",
+     "label": "Leonard H. Stringfield"
+    },
+    {
+     "id": "mufon",
+     "label": "Mutual UFO Network (MUFON)"
+    }
+   ],
+   "id": "e-f390ae24fb",
+   "kind": "edge",
+   "label": "MUFON symposium platform and publisher for Reports I and II",
+   "sources": [
+    {
+     "date": "2026-08-12",
+     "name": "Stringfield Status Reports 1-7 (scans)",
+     "url": "https://archive.org/details/stringfield_Retrievals_Report_6_inner_sanctum_LQ"
+    }
+   ],
+   "text": "Report I was delivered at the ninth annual MUFON Symposium in Dayton on 29 July 1978; Report II was published by MUFON in January 1980. Stringfield served as MUFON's director of public relations.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-fc8da4c4f7": {
+   "endpoints": [
+    {
+     "id": "cia",
+     "label": "Central Intelligence Agency"
+    },
+    {
+     "id": "nicap",
+     "label": "National Investigations Committee on Aerial Phenomena (NICAP)"
+    }
+   ],
+   "id": "e-fc8da4c4f7",
+   "kind": "edge",
+   "label": "CIA held and filed NICAP's 1964 volume in its own records",
+   "sources": [
+    {
+     "date": "1964-05-01",
+     "name": "The UFO Evidence, NICAP, 1964, CIA filed copy CIA-RDP81R00560R000100010001-0",
+     "url": "https://archive.org/details/cia-readingroom-document-cia-rdp81r00560r000100010001-0"
+    }
+   ],
+   "text": "The copy of The UFO Evidence read for this record is the Agency's, released as CIA-RDP81R00560R000100010001-0 and marked 'Approved For Release 2001/04/02'.",
+   "tier": 1,
+   "type": "investigative"
+  }
+ },
+ "claimed": [
+  {
+   "cite": [
+    "c-72654f73ba",
+    "c-3b363924c7",
+    "c-8dd63537ea"
+   ],
+   "text": "A Worcester Gazette clipping of 1 June 1960, held in CIA records, reports Hillenkoetter declaring: \"The unknown objects are operating under intelligent control.\" He wanted a Congressional investigation."
+  },
+  {
+   "cite": [
+    "c-10e21db891",
+    "c-6e9b27f62a",
+    "c-14b6ecadf3",
+    "c-dd3793d7bc"
+   ],
+   "text": "Stringfield's Status Reports built the crash-retrieval literature on informants he coded anonymously; Status Report III carries the imprimatur of Richard Hall, a former NICAP assistant director. The board infers the coding protected sources at the cost of making the corpus unauditable."
+  },
+  {
+   "cite": [
+    "c-aa54289bab",
+    "c-f8d75709c1",
+    "c-cc917f1c22",
+    "c-151fa79be0",
+    "e-1d0d6f81d0",
+    "c-4f4c1e3b78"
+   ],
+   "text": "William Moore co-wrote The Roswell Incident of 1980 and received the MJ-12 film, and at the 1989 MUFON symposium in Las Vegas said he had cooperated with Air Force counterintelligence and knowingly passed disinformation to Paul Bennewitz. The board infers that the film's arrival in the cooperation window bars the MJ-12 corpus from the higher tiers."
+  },
+  {
+   "cite": [
+    "c-80f8ebc369",
+    "c-fa027c84d8",
+    "e-9d050e82b0"
+   ],
+   "text": "Friedman was the first civilian to interview Jesse Marcel about the Roswell debris, and defended the core MJ-12 documents while showing that one purported Hillenkoetter memo was an emulation of a published letter."
+  },
+  {
+   "cite": [
+    "c-92df74e779",
+    "e-df70881355"
+   ],
+   "text": "How the Kecksburg case reached the record: Stan Gordon spent four decades interviewing residents who describe an acorn-shaped object the size of a Volkswagen removed by a military operation, and the board infers that Leslie Kean's suit against NASA rests on his witness pool."
+  },
+  {
+   "cite": [
+    "c-57d8201cba",
+    "c-4c7cea0bef",
+    "c-cc16c644a8"
+   ],
+   "text": "Robert Hastings's nuclear-site witnesses reached the public almost entirely through him: his own pages give the count as more than 160 and more than 150, his recruitment method is not stated anywhere the board has opened, and in the Malmstrom case four corroborating voices reached the public solely through Hastings or Robert Salas."
+  },
+  {
+   "cite": [
+    "c-b943ef143f",
+    "e-26348e1284",
+    "c-7b1c9cd54c"
+   ],
+   "text": "BAASS, executing a DIA contract, is reported to have funded MUFON's Star Team Impact Project in 2009 for rapid-response field investigation with the case data flowing back to BAASS, until it ended in 2010. The board infers that civilian reports were routed into a contractor database without the reporting public's knowledge."
+  },
+  {
+   "cite": [
+    "c-41f6b4c601",
+    "e-56585e150b",
+    "e-8adaa21ec8"
+   ],
+   "text": "Jacques Vallee, who sat on the NIDS advisory board, says he documented from the late 1970s that identifiable human actors were injecting fabricated material into cases, and his diaries record being shown the Operação Prato military file in Belém in 1988."
+  },
+  {
+   "cite": [
+    "c-2e5ad88020",
+    "e-66e9a72e7c",
+    "e-879eadff2a"
+   ],
+   "text": "The Records Center says it holds the NICAP, CUFOS and APRO case files, but publishes no accession record or finding aid."
+  },
+  {
+   "cite": [
+    "c-bb7bccfed7",
+    "c-097ad64d98",
+    "c-334dec30f0"
+   ],
+   "text": "Skywatcher arrived with testimony: the venture was promoted alongside Jake Barber's January 2025 interview, and its operations lead James Fowler said the effort began with a sighting during a 2021 government war game he was running, naming his two colleagues only by initials."
+  },
+  {
+   "cite": [
+    "c-b2e2382bc8",
+    "c-8968698b7d"
+   ],
+   "text": "A case against Bob Lazar's credentials came from a UFO proponent: Friedman found no diplomas or transcripts and a W-2 from naval intelligence totalling under $1,000."
+  }
+ ],
+ "contested": [
+  {
+   "cite": [
+    "c-187582a417",
+    "c-b099679775",
+    "e-4e68d81031",
+    "e-69b2c6399e",
+    "c-fc01ecff3c",
+    "c-1ab48b8c5b"
+   ],
+   "text": "The civilian groups audited their own: Mark Rodeghier of CUFOS and Fred Whiting of the Fund for UFO Research published The Plains of San Agustin Controversy in 1992, concluding against Gerald Anderson, the claimed first-hand child witness. The Air Force found his description of the bodies as plastic dolls consistent with balloon and dummy recoveries."
+  },
+  {
+   "cite": [
+    "e-2ee2bc759c",
+    "c-be94466742",
+    "e-3efb6ca3ff"
+   ],
+   "text": "MJ-12 divides the field: Friedman held the core documents authentic while Kevin Randle concluded they were not, and Randle treats Moore's AFOSI admission as his strongest argument; no released record has settled it."
+  },
+  {
+   "cite": [
+    "c-88c21893dc",
+    "c-d9ff54abab"
+   ],
+   "text": "Stringfield himself wrote that public UFO research does not possess proof and that affidavits, leaked documents and photographs do not constitute it. Randle has said he is growing more sceptical and that the case for extraterrestrial involvement at Roswell is no longer robust."
+  },
+  {
+   "cite": [
+    "c-cc947e22b4",
+    "c-075fb2c424"
+   ],
+   "text": "Hastings's own figures have shifted: Jesse Michels corrected on air, after an email from Hastings, that only about 12 to 15 of the witnesses were radar operators and the rest ICBM security personnel."
+  },
+  {
+   "cite": [
+    "c-044c9f5722",
+    "c-d59d54959b"
+   ],
+   "text": "Hillenkoetter's position was disputed in his own time: the Enquirer editorial that reported his NICAP role could not agree that the Air Force was deceiving the public. The FBI's files on him, as searched, are silent on NICAP and flying saucers."
+  },
+  {
+   "cite": [
+    "c-bfe7c31ee3"
+   ],
+   "text": "The Air Force ended Blue Book on the grounds that no reported UFO threatened national security, showed technology beyond current knowledge or was shown to be an extraterrestrial vehicle."
+  },
+  {
+   "cite": [
+    "c-1c31d7a369",
+    "c-8e2dbcf506"
+   ],
+   "text": "NASA's accounts of Kecksburg disagree with each other: in 2005 it said experts had identified fragments as from a Soviet satellite but the records were lost, and its later published position is that the fireball's path was probably too steep for a re-entering spacecraft."
+  }
+ ],
  "essays": [],
  "focusEra": "1",
  "id": "civilian-groups",
  "kind": "movement",
- "lead": null,
- "members": [],
+ "lead": {
+  "cite": [
+   "c-8de5bc33b6",
+   "c-599a28123c",
+   "c-b08d43c896",
+   "c-b3d0260a90",
+   "c-80237994c7",
+   "c-fc01ecff3c"
+  ],
+  "text": "From NICAP in 1956 to MUFON, CUFOS and the Fund for UFO Research, civilian groups collected case files, lobbied Congress and launched the crash-retrieval literature. The documents show former officials on their boards and intelligence agencies watching them, and on occasion the groups discrediting their own witnesses."
+ },
+ "members": [
+  {
+   "cls": "institution",
+   "id": "nicap",
+   "label": "National Investigations Committee on Aerial Phenomena (NICAP)",
+   "role": "institution"
+  },
+  {
+   "cls": "person",
+   "id": "donald-keyhoe",
+   "label": "Maj. Donald E. Keyhoe, USMC (Ret.)",
+   "role": "investigator"
+  },
+  {
+   "cls": "person",
+   "id": "thomas-townsend-brown",
+   "label": "Thomas Townsend Brown",
+   "role": "investigator"
+  },
+  {
+   "cls": "person",
+   "id": "roscoe-hillenkoetter",
+   "label": "Roscoe H. Hillenkoetter",
+   "role": "claimant"
+  },
+  {
+   "cls": "program",
+   "id": "project-blue-book",
+   "label": "Project Blue Book",
+   "role": "programme"
+  },
+  {
+   "cls": "institution",
+   "id": "usaf",
+   "label": "United States Air Force",
+   "role": "institution"
+  },
+  {
+   "cls": "institution",
+   "id": "cia",
+   "label": "Central Intelligence Agency",
+   "role": "institution"
+  },
+  {
+   "cls": "institution",
+   "id": "cufos",
+   "label": "J. Allen Hynek Center for UFO Studies (CUFOS)",
+   "role": "institution"
+  },
+  {
+   "cls": "institution",
+   "id": "mufon",
+   "label": "Mutual UFO Network (MUFON)",
+   "role": "institution"
+  },
+  {
+   "cls": "institution",
+   "id": "fund-for-ufo-research",
+   "label": "Fund for UFO Research",
+   "role": "institution"
+  },
+  {
+   "cls": "institution",
+   "id": "nufohrc",
+   "label": "National UFO Historical Records Center",
+   "role": "institution"
+  },
+  {
+   "cls": "person",
+   "id": "leonard-stringfield",
+   "label": "Leonard H. Stringfield",
+   "role": "investigator"
+  },
+  {
+   "cls": "document",
+   "id": "stringfield-status-reports",
+   "label": "UFO Crash/Retrieval Status Reports I-VII (Stringfield, 1978-1994)",
+   "role": "document"
+  },
+  {
+   "cls": "person",
+   "id": "stanton-friedman",
+   "label": "Stanton T. Friedman",
+   "role": "investigator"
+  },
+  {
+   "cls": "person",
+   "id": "william-l-moore",
+   "label": "William L. Moore",
+   "role": "investigator"
+  },
+  {
+   "cls": "document",
+   "id": "the-roswell-incident-1980",
+   "label": "The Roswell Incident (Berlitz and Moore, 1980)",
+   "role": "document"
+  },
+  {
+   "cls": "person",
+   "id": "kevin-randle",
+   "label": "Kevin D. Randle",
+   "role": "investigator"
+  },
+  {
+   "cls": "person",
+   "id": "gerald-anderson",
+   "label": "Gerald Anderson",
+   "role": "witness"
+  },
+  {
+   "cls": "person",
+   "id": "john-schuessler",
+   "label": "John F. Schuessler",
+   "role": "investigator"
+  },
+  {
+   "cls": "person",
+   "id": "stan-gordon",
+   "label": "Stan Gordon",
+   "role": "investigator"
+  },
+  {
+   "cls": "event",
+   "id": "kecksburg-1965",
+   "label": "Kecksburg incident, 9 December 1965",
+   "role": "event"
+  },
+  {
+   "cls": "person",
+   "id": "leslie-kean",
+   "label": "Leslie Kean",
+   "role": "journalist"
+  },
+  {
+   "cls": "person",
+   "id": "robert-hastings",
+   "label": "Robert L. Hastings",
+   "role": "investigator"
+  },
+  {
+   "cls": "person",
+   "id": "richard-dolan",
+   "label": "Richard M. Dolan",
+   "role": "researcher"
+  },
+  {
+   "cls": "document",
+   "id": "ufos-national-security-state",
+   "label": "UFOs and the National Security State, vols. I-II (Dolan, 2002 and 2009)",
+   "role": "document"
+  },
+  {
+   "cls": "person",
+   "id": "jacques-vallee",
+   "label": "Jacques F. Vallee",
+   "role": "investigator"
+  },
+  {
+   "cls": "program",
+   "id": "operacao-prato",
+   "label": "Operação Prato (Operation Saucer)",
+   "role": "programme"
+  },
+  {
+   "cls": "program",
+   "id": "nids",
+   "label": "National Institute for Discovery Science (NIDS)",
+   "role": "institution"
+  },
+  {
+   "cls": "person",
+   "id": "robert-bigelow",
+   "label": "Robert T. Bigelow",
+   "role": "contractor"
+  },
+  {
+   "cls": "institution",
+   "id": "baass",
+   "label": "Bigelow Aerospace Advanced Space Studies (BAASS), LLC",
+   "role": "contractor"
+  },
+  {
+   "cls": "program",
+   "id": "mufon-sip",
+   "label": "BAASS–MUFON Star Team Impact Project (SIP)",
+   "role": "programme"
+  },
+  {
+   "cls": "institution",
+   "id": "skywatcher",
+   "label": "Skywatcher",
+   "role": "institution"
+  },
+  {
+   "cls": "person",
+   "id": "jake-barber",
+   "label": "Jake Barber",
+   "role": "witness"
+  }
+ ],
  "notes": "NICAP, MUFON, CUFOS and the civilian investigators, with the disclosure-movement domain node.",
- "questions": [],
- "record": [],
- "related": [],
+ "questions": [
+  "When did Keyhoe's NICAP directorship end? The last record the board holds of him in post is May 1964.",
+  "Did a CBS broadcast cut Keyhoe off mid-sentence in January 1958? No broadcast or government record reached so far mentions it.",
+  "Who were the AFOSI personnel Moore says he dealt with, and has any AFOSI record of the relationship been released?",
+  "Which of Stringfield's anonymised informants, if any, were later identified by name?",
+  "How did Hastings find his witnesses, and what had each said before contact with him?",
+  "What exactly does the Records Center hold, and is there an accession record for the NICAP, CUFOS and APRO files?",
+  "What became of the MUFON case data routed to BAASS, and of NIDS's raw instrument and necropsy data after 2004?",
+  "Was the Kecksburg fireball a meteor, as the 1960s astronomers assessed, and does any State Police or Army record of the cordon exist?"
+ ],
+ "record": [
+  {
+   "cite": [
+    "c-8de5bc33b6",
+    "c-ac48e7c619",
+    "e-a5bf34a329"
+   ],
+   "text": "NICAP described itself as a non-profit incorporated in the District of Columbia in 1956 for the scientific investigation of reported UFOs and full reporting to the public of what the government had accumulated. A Washington Daily News report of 23 October 1956, in the FBI's NICAP file, names Brown as running it as executive vice chairman pro tempore."
+  },
+  {
+   "cite": [
+    "c-03eda31a33",
+    "c-4e1bf03c4a",
+    "e-555c7dcf04",
+    "c-b3d0260a90",
+    "c-4a7f9eca1a",
+    "e-29149e99a3",
+    "e-1f838db3ba"
+   ],
+   "text": "An Air Force letter of 20 September 1957 addresses Keyhoe as Director NICAP, and the organisation's 1964 volume carries him on its masthead. The same volume records that former Director of Central Intelligence R. H. Hillenkoetter, a long-time acquaintance of Keyhoe, served five years on its board and in 1961 joined a majority of it in urging a Congressional investigation."
+  },
+  {
+   "cite": [
+    "c-b08d43c896",
+    "e-b15d55bc2b",
+    "e-906d0196fe",
+    "e-fc8da4c4f7"
+   ],
+   "text": "NICAP's 1964 board also included Dewey Fournet Jr., the former Air Force headquarters monitor of Project Blue Book. The volume was sent to every Member of Congress and charged that the Air Force had practiced an intolerable degree of secrecy; the copy the board read is the CIA's own."
+  },
+  {
+   "cite": [
+    "c-80237994c7",
+    "c-98c9a36e72"
+   ],
+   "text": "The agencies watched: the CIA-convened Robertson Panel of January 1953 recommended monitoring civilian UFO groups for their potential influence on mass thinking, and the FBI kept a file on NICAP, number 100-35992."
+  },
+  {
+   "cite": [
+    "c-d8cd385ceb",
+    "e-11e74ee7a1",
+    "e-aa396ff8f5",
+    "c-f7c62a579a"
+   ],
+   "text": "A 1958 CIA memorandum records that Keyhoe's letters would be forwarded to the Air Force, which insisted on answering them itself, and that the procedure would be a precedent for all UFO inquiries. Keyhoe had asked the DCI in March 1958 whether CIA representatives told witnesses not to go public."
+  },
+  {
+   "cite": [
+    "c-599a28123c",
+    "e-f390ae24fb",
+    "c-9adf323e4b",
+    "e-673a287189",
+    "c-392def65f6",
+    "e-f056e360b1"
+   ],
+   "text": "Leonard Stringfield delivered the first of his crash-retrieval Status Reports at MUFON's ninth annual symposium in Dayton on 29 July 1978, and MUFON published the second in January 1980. His seventh report of February 1994 acknowledges past funding from the Fund for UFO Research and cooperation from CUFOS, whose scientific director he consulted on the Roswell body count."
+  },
+  {
+   "cite": [
+    "c-a53b721fb9",
+    "c-677bedfdf2",
+    "c-4dba859b2a",
+    "c-6420135655",
+    "c-b868065c8f"
+   ],
+   "text": "The Air Force's own reports rest in part on civilian material: its 1995 Roswell report credits Stanton Friedman with meeting Jesse Marcel in 1978 and lists books by Friedman and by Moore and Berlitz among the works reviewed, and its 1997 report reproduces Gerald Anderson's interview from footage for the Fund for UFO Research video Recollections of Roswell Part II."
+  },
+  {
+   "cite": [
+    "c-5fd1c56d80"
+   ],
+   "text": "CIA's own 1997 history of its UFO role cites two Fair-Witness Project publications on MJ-12, one by Moore and Shandera and one by Moore and Friedman."
+  },
+  {
+   "cite": [
+    "c-347252adaa"
+   ],
+   "text": "John Schuessler and Project VISIT filed a 35-page report on the Cash-Landrum case with MUFON on 4 March 1981."
+  },
+  {
+   "cite": [
+    "c-d25b37ea61",
+    "c-04f04db444"
+   ],
+   "text": "At Kecksburg in December 1965 the Greensburg Tribune-Review reported the area sealed off on the order of Army and State Police officials; a later edition headlined that searchers failed to find the object."
+  },
+  {
+   "cite": [
+    "c-8842cfeaa7",
+    "c-7a3199239d"
+   ],
+   "text": "The National UFO Historical Records Center describes itself as a 501(c)(3) nonprofit in New Mexico, with David Marler as executive director."
+  },
+  {
+   "cite": [
+    "c-d4e3288d32",
+    "c-9fd7e805b6",
+    "e-8c95e3352e",
+    "e-2cbf64c664"
+   ],
+   "text": "Project Blue Book recorded 12,618 sightings from 1947 to 1969, of which 701 remain unidentified, and was terminated on 17 December 1969; its records went to the National Archives as 94 rolls of microfilm."
+  },
+  {
+   "cite": [
+    "c-abfc992dba",
+    "c-b695fe2b49",
+    "e-4c4671ab5b",
+    "e-581497930d"
+   ],
+   "text": "Bigelow founded NIDS in 1995 as a privately funded institute researching aerial phenomena and animal mutilations, and his BAASS was awarded DIA contract HHM402-08-C-0072 on 22 September 2008."
+  }
+ ],
+ "related": [
+  "blue-book",
+  "robertson-cia-1953",
+  "cia-secrecy-precedents",
+  "roswell-1947",
+  "mj12-documents",
+  "crash-claims",
+  "nuclear-witnesses",
+  "skinwalker-nids",
+  "aawsap-baass",
+  "brazil",
+  "testimony-provenance",
+  "documentaries",
+  "media-substrate"
+ ],
  "section": "media-movement",
  "span": {
   "from": "1956",
   "to": "2026"
  },
- "status": "draft",
- "summary": [],
+ "status": "verified",
+ "summary": [
+  {
+   "cite": [
+    "c-8de5bc33b6",
+    "e-a5bf34a329",
+    "e-555c7dcf04"
+   ],
+   "text": "NICAP was the first of the organised groups: incorporated in 1956 to investigate reports and press the government to release what it held, it was led at its formation by Thomas Townsend Brown and later by Donald Keyhoe."
+  },
+  {
+   "cite": [
+    "e-f390ae24fb",
+    "e-f056e360b1",
+    "e-673a287189",
+    "c-2e5ad88020"
+   ],
+   "text": "The later bodies each had a part in the retrieval literature: MUFON gave Stringfield's reports their platform, CUFOS cooperated with them and the Fund for UFO Research funded them. On its own account, a private archive in New Mexico now holds the NICAP and CUFOS case files."
+  },
+  {
+   "cite": [
+    "c-b6ae2b4fee",
+    "c-f5bb63d461",
+    "c-4b4cd9ef1f"
+   ],
+   "text": "The modern disclosure movement runs through official acts rather than civilian files: the Pentagon's release of three Navy videos in April 2020, pilots' statements to House Oversight in July 2023 and a September 2025 hearing on transparency and whistleblower protection."
+  },
+  {
+   "cite": [
+    "e-26348e1284",
+    "c-be27353d73",
+    "c-c1d5a44f6e"
+   ],
+   "text": "Private money reached into the civilian field in the Bigelow era, when, by MUFON's and BAASS's own accounts as reported, a DIA contractor funded a MUFON rapid-response team, and Richard Dolan's history moved the argument from single cases to the documented secrecy architecture; the board adopts that frame as its own inference."
+  }
+ ],
  "title": "Civilian research groups and the disclosure movement"
 }

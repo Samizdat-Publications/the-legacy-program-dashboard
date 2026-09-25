@@ -12,25 +12,2256 @@
   "pentacle-memorandum"
  ],
  "appendixT": "blue-book",
- "cites": {},
- "claimed": [],
- "contested": [],
+ "cites": {
+  "c-01e7396e2b": {
+   "id": "c-01e7396e2b",
+   "kind": "claim",
+   "node": "usaf",
+   "nodeLabel": "United States Air Force",
+   "source": {
+    "domain": null,
+    "text": "National Archives, Unidentified Flying Objects / Project BLUE BOOK",
+    "url": null
+   },
+   "text": "From 1947 to 1969 a total of 12,618 sightings were reported to Project BLUE BOOK, of which 701 remain 'Unidentified'.",
+   "tier": 1
+  },
+  "c-0429adb622": {
+   "id": "c-0429adb622",
+   "kind": "claim",
+   "node": "james-mcdonald",
+   "nodeLabel": "James E. McDonald",
+   "source": {
+    "domain": null,
+    "text": "Same hearing transcript",
+    "url": null
+   },
+   "text": "McDonald told the committee that 'credible observers are observing relatively incredible objects' and argued the phenomenon deserved serious scientific investigation rather than dismissal through ridicule.",
+   "tier": 1
+  },
+  "c-045c3b844c": {
+   "id": "c-045c3b844c",
+   "kind": "claim",
+   "node": "afr-200-2",
+   "nodeLabel": "Air Force Regulation 200-2",
+   "source": {
+    "domain": null,
+    "text": "AFR 200-2, 26 August 1953, paragraph 8, Release of Information",
+    "url": null
+   },
+   "text": "The release restriction is on the face of the 1953 edition, not only the 1954 one. Paragraph 8 provides that raw information may be furnished to a public information officer 'except names of principals, Air Force comments, details of intercept procedures involved, and classified radar data', and that what is releasable ends at 'The fact that the object has been conclusively identified by ATIC as a conventional aerial device or other familiar object and no further evaluation is contemplated.' Identified cases could be discussed publicly; unidentified ones could not.",
+   "tier": 1
+  },
+  "c-06ff8536c6": {
+   "id": "c-06ff8536c6",
+   "kind": "claim",
+   "node": "foreign-technology-division",
+   "nodeLabel": "Foreign Technology Division, Wright-Patterson AFB",
+   "source": {
+    "domain": "nicap.org",
+    "text": "Air Force Regulation 80-17, 19 September 1966, https://nicap.org/afr80-17.htm",
+    "url": "https://nicap.org/afr80-17.htm"
+   },
+   "text": "FTD, not a base, was the terminal analytical office: 'FTD will: (1) Analyze and evaluate all information and evidence reported to bases on those UFOs which are not identified at the base level', and 'FTD, Wright-Patterson AFB, Ohio, will prepare a final case report on each sighting reported to it.'",
+   "tier": 1
+  },
+  "c-098cbbe6ca": {
+   "id": "c-098cbbe6ca",
+   "kind": "claim",
+   "node": "project-stork",
+   "nodeLabel": "Project Stork (Project White Stork)",
+   "source": {
+    "domain": null,
+    "text": "Project Blue Book Special Report No. 14 provenance; contemporaneous Air Force records",
+    "url": null
+   },
+   "text": "Battelle's classified US Air Force contract to analyse Project Blue Book's UFO data was designated Project Stork, and its statistical study was published as Special Report No. 14 in 1955.",
+   "tier": 1
+  },
+  "c-0fc3700724": {
+   "id": "c-0fc3700724",
+   "kind": "claim",
+   "node": "condon-committee",
+   "nodeLabel": "University of Colorado UFO Project (Condon Committee)",
+   "source": {
+    "domain": null,
+    "text": "National Academy of Sciences review of the Colorado report, 1969",
+    "url": null
+   },
+   "text": "A National Academy of Sciences panel chaired by Gerald M. Clemence concluded extraterrestrial visitation was 'the least likely explanation' and that no high priority for UFO investigation was warranted.",
+   "tier": 2
+  },
+  "c-11440a1ad4": {
+   "id": "c-11440a1ad4",
+   "kind": "claim",
+   "node": "bolender-memo",
+   "nodeLabel": "Bolender Memorandum",
+   "source": {
+    "domain": null,
+    "text": "Inference from the absence of any such series in NARA's Air Force UFO holdings description and in the RG 615 accessioning notices",
+    "url": null
+   },
+   "text": "No records series corresponding to the JANAP 146 national-security UFO reports has ever been identified, accessioned by NARA, or searched under any subsequent disclosure statute.",
+   "tier": 3
+  },
+  "c-13407089f6": {
+   "id": "c-13407089f6",
+   "kind": "claim",
+   "node": "james-mcdonald",
+   "nodeLabel": "James E. McDonald",
+   "source": {
+    "domain": null,
+    "text": "McDonald's 1968 testimony and contemporaneous papers to scientific societies",
+    "url": null
+   },
+   "text": "McDonald concluded after reviewing Blue Book case files that the program was not conducting genuine scientific investigation.",
+   "tier": 2
+  },
+  "c-138ed866d4": {
+   "id": "c-138ed866d4",
+   "kind": "claim",
+   "node": "janap-146",
+   "nodeLabel": "JANAP 146 (CIRVIS/MERINT reporting)",
+   "source": {
+    "domain": null,
+    "text": "JANAP 146(E) with Change No. 2, 17 May 1977, with the OSD FOIA release letter of 28 February 1994, ref 93-FOI-2428/L",
+    "url": null
+   },
+   "text": "JANAP 146(E), 'Canadian - United States Communications Instructions for Reporting Vital Intelligence Sightings (CIRVIS/MERINT)', complete with Change No. 2 promulgated 17 May 1977, still lists unidentified flying objects as a reportable category at Article 201 -- eight years after Project Blue Book closed. It was released on 28 February 1994 by the Assistant to the Secretary of Defense under FOIA reference 93-FOI-2428/L.",
+   "tier": 1
+  },
+  "c-1cf6a05a6c": {
+   "id": "c-1cf6a05a6c",
+   "kind": "claim",
+   "node": "howard-c-cross",
+   "nodeLabel": "Howard C. Cross",
+   "source": {
+    "domain": null,
+    "text": "Text and provenance published by the Computer UFO Network (CUFON); Jacques Vallee, Forbidden Science; DEMOTED from Tier 1 (no primary record of the memorandum is cited, only the CUFON transcription and Vallee's copy; the same assertion is Tier 2 on pentacle-memorandum); needs primary replacement",
+    "url": null
+   },
+   "text": "A two-page memorandum dated 9 January 1953, reference G-1579-4, marked SECRET and unsigned, was addressed to Miles E. Goll at Wright-Patterson AFB under Project Stork; H. C. Cross of Battelle Memorial Institute was later identified as its author.",
+   "tier": 2
+  },
+  "c-1cf77ca7fd": {
+   "id": "c-1cf77ca7fd",
+   "kind": "claim",
+   "node": "afr-200-2",
+   "nodeLabel": "Air Force Regulation 200-2",
+   "source": {
+    "domain": null,
+    "text": "AFR 200-2, 26 August 1953, four-page release scan",
+    "url": null
+   },
+   "text": "The 1953 edition exists in a readable four-page scan whose face reads 'AIR FORCE REGULATION NO. 200-2 / DEPARTMENT OF THE AIR FORCE / WASHINGTON, 26 AUGUST 1953 / INTELLIGENCE / (Unclassified) Unidentified Flying Objects Reporting (Short Title: UFOB)', marked RESTRICTED / SECURITY INFORMATION and signed 'By Order of the Secretary of the Air Force: N. F. TWINING, Chief of Staff'.",
+   "tier": 1
+  },
+  "c-1dbf5bcc56": {
+   "id": "c-1dbf5bcc56",
+   "kind": "claim",
+   "node": "afr-200-2",
+   "nodeLabel": "Air Force Regulation 200-2",
+   "source": {
+    "domain": null,
+    "text": "AFR 200-2, 12 Aug 1954, header",
+    "url": null
+   },
+   "text": "AFR 200-2 dated 12 August 1954 superseded the edition of 26 August 1953.",
+   "tier": 1
+  },
+  "c-1f4d870941": {
+   "id": "c-1f4d870941",
+   "kind": "claim",
+   "node": "j-allen-hynek",
+   "nodeLabel": "J. Allen Hynek",
+   "source": {
+    "domain": null,
+    "text": "US House Committee on Science and Astronautics, 'Symposium on Unidentified Flying Objects', 90th Congress, 2nd Session, 29 July 1968",
+    "url": null
+   },
+   "text": "Hynek testified before the House Committee on Science and Astronautics at its UFO symposium on 29 July 1968, alongside James E. McDonald, Carl Sagan, Robert L. Hall, James A. Harder and Robert M. L. Baker Jr.",
+   "tier": 1
+  },
+  "c-264a9245e3": {
+   "id": "c-264a9245e3",
+   "kind": "claim",
+   "node": "blue-book-special-report-14",
+   "nodeLabel": "Project Blue Book Special Report No. 14",
+   "source": {
+    "domain": null,
+    "text": "Inference from the report's own statistical tables against its summary language",
+    "url": null
+   },
+   "text": "A summary declaring extraterrestrial origin 'highly improbable' while the underlying tables show quality correlating positively with unexplainedness is an editorial conclusion imposed on the analysis rather than derived from it.",
+   "tier": 3
+  },
+  "c-277dd08765": {
+   "id": "c-277dd08765",
+   "kind": "claim",
+   "node": "afr-200-2",
+   "nodeLabel": "Air Force Regulation 200-2",
+   "source": {
+    "domain": null,
+    "text": "AFR 200-2, 26 August 1953, paragraph 7, Evidence",
+    "url": null
+   },
+   "text": "Paragraph 7 provides that 'All evidence will be forwarded to ATIC', and on materiel directs units to 'Safeguard the materiel carefully to prevent any defacing or alteration which would reduce its value for technical analysis' and to 'Notify ATIC immediately and request shipping instructions'.",
+   "tier": 1
+  },
+  "c-28c623b312": {
+   "id": "c-28c623b312",
+   "kind": "claim",
+   "node": "j-allen-hynek",
+   "nodeLabel": "J. Allen Hynek",
+   "source": {
+    "domain": null,
+    "text": "Hynek, statements from the late 1960s and 'The UFO Experience: A Scientific Inquiry' (1972)",
+    "url": null
+   },
+   "text": "Hynek stated that Blue Book had become 'a public relations exercise' with 'little or no research undertaken using the scientific method.'",
+   "tier": 2
+  },
+  "c-29d7e08515": {
+   "id": "c-29d7e08515",
+   "kind": "claim",
+   "node": "janap-146",
+   "nodeLabel": "JANAP 146 (CIRVIS/MERINT reporting)",
+   "source": {
+    "domain": null,
+    "text": "18 U.S.C. 793, source credit and amendment notes, Office of the Law Revision Counsel; read against JANAP 146(C) and (E)",
+    "url": null
+   },
+   "text": "JANAP states no dollar figure and no term of imprisonment in any revision read. It incorporates 18 U.S.C. 793, whose penalty from the Act of June 25, 1948 until 1994 was a fine of not more than $10,000 or imprisonment of not more than ten years, or both: the amendment note records that 'Pub. L. 103-322 substituted fined under this title for fined not more than $10,000'. The $10,000 figure must be attributed to 18 U.S.C. 793, never to JANAP 146.",
+   "tier": 1
+  },
+  "c-2a57a4f73b": {
+   "id": "c-2a57a4f73b",
+   "kind": "claim",
+   "node": "pentacle-memorandum",
+   "nodeLabel": "The Pentacle Memorandum",
+   "source": {
+    "domain": null,
+    "text": "Jacques Vallee, Forbidden Science; CUFON; Bad UFOs analysis, 18 February 2012",
+    "url": null
+   },
+   "text": "Jacques Vallee discovered the memorandum in 1967 while working with J. Allen Hynek's papers, recorded it in his journal on 18 June 1967, and published an account in Forbidden Science (1992) using the codename 'Pentacle'; H. C. Cross was later identified as its author.",
+   "tier": 2
+  },
+  "c-2c3d8cc9a8": {
+   "id": "c-2c3d8cc9a8",
+   "kind": "claim",
+   "node": "j-allen-hynek",
+   "nodeLabel": "J. Allen Hynek",
+   "source": {
+    "domain": null,
+    "text": "Hynek's own account in 'The UFO Experience' (1972) and contemporaneous press coverage",
+    "url": null
+   },
+   "text": "Hynek's March 1966 swamp gas explanation was offered as provisional and for only some cases, but was reported as a blanket dismissal; he later expressed regret.",
+   "tier": 2
+  },
+  "c-2d4169e20f": {
+   "id": "c-2d4169e20f",
+   "kind": "claim",
+   "node": "pentacle-memorandum",
+   "nodeLabel": "The Pentacle Memorandum",
+   "source": {
+    "domain": null,
+    "text": "CUFON transcription and provenance record — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+    "url": null
+   },
+   "text": "The memorandum is dated 9 January 1953, carries reference G-1579-4, is marked SECRET, is unsigned, and is addressed to Miles E. Goll at Wright-Patterson Air Force Base, Ohio, under Project Stork.",
+   "tier": 2
+  },
+  "c-3053385594": {
+   "id": "c-3053385594",
+   "kind": "claim",
+   "node": "project-stork",
+   "nodeLabel": "Project Stork (Project White Stork)",
+   "source": {
+    "domain": null,
+    "text": "Project Stork status reports, Third Status Report, 7 July 1952, and the redaction pattern across the set",
+    "url": null
+   },
+   "text": "In most released copies the contractor's name is crossed out and supplied by a handwritten annotation reading '{Battelle}'. The Third Status Report of 7 July 1952 is the only one where it is typed rather than struck out: 'by BATTELLE MEMORIAL INSTITUTE'. That single untouched line is how the attribution survives at all.",
+   "tier": 1
+  },
+  "c-30ac5bc3f0": {
+   "id": "c-30ac5bc3f0",
+   "kind": "claim",
+   "node": "foreign-technology-division",
+   "nodeLabel": "Foreign Technology Division, Wright-Patterson AFB",
+   "source": {
+    "domain": "nicap.org",
+    "text": "Air Force Regulation 80-17, 'Research and Development - UNIDENTIFIED FLYING OBJECTS (UFO)', Department of the Air Force, 19 September 1966, https://nicap.org/afr80-17.htm",
+    "url": "https://nicap.org/afr80-17.htm"
+   },
+   "text": "The Blue Book effort was assigned to FTD by regulation: 'The Air Force Systems Command will support the program with current resources within the Foreign Technology Division (FTD) at Wright-Patterson Air Force Base, Ohio, to continue Blue Book effort.'",
+   "tier": 1
+  },
+  "c-31488bca3d": {
+   "id": "c-31488bca3d",
+   "kind": "claim",
+   "node": "washington-flap-1952",
+   "nodeLabel": "1952 Washington DC Sightings",
+   "source": {
+    "domain": null,
+    "text": "CIA Office of Scientific Intelligence memoranda, 1952; Haines, CIA Studies in Intelligence 1997",
+    "url": null
+   },
+   "text": "CIA officials proposed a study group to analyse and systematise the factors and recommended MIT's Project Lincoln or Caltech as venues, leading to the January 1953 Robertson Panel.",
+   "tier": 1
+  },
+  "c-34ce9589cc": {
+   "id": "c-34ce9589cc",
+   "kind": "claim",
+   "node": "project-blue-book",
+   "nodeLabel": "Project Blue Book",
+   "source": {
+    "domain": null,
+    "text": "National Archives, Air Force UFO records page",
+    "url": null
+   },
+   "text": "NARA states it has been 'unable to locate any documentation among the Project BLUE BOOK records that discuss the 1947 incident in Roswell, New Mexico.'",
+   "tier": 1
+  },
+  "c-3770c161f2": {
+   "id": "c-3770c161f2",
+   "kind": "claim",
+   "node": "gerb-battelle-investigation",
+   "nodeLabel": "UAP Gerb - Battelle Memorial Institute investigation",
+   "source": {
+    "domain": null,
+    "text": "UAP Gerb, Battelle investigation description, 18 February 2024",
+    "url": null
+   },
+   "text": "Battelle worked with the US government and USAF from the 1950s to create a machine index categorising UFO reports and to quell public interest in the phenomenon.",
+   "tier": 2
+  },
+  "c-38a57c6bd4": {
+   "id": "c-38a57c6bd4",
+   "kind": "claim",
+   "node": "washington-flap-1952",
+   "nodeLabel": "1952 Washington DC Sightings",
+   "source": {
+    "domain": null,
+    "text": "Chadwell memorandum to the Director of Central Intelligence, 'Flying Saucers', 11 September 1952",
+    "url": null
+   },
+   "text": "Chadwell wrote to the DCI that 'the flying saucer situation contains two elements of danger which... have national security implications', identifying psychological warfare potential and air defence vulnerability.",
+   "tier": 1
+  },
+  "c-3f25efbff4": {
+   "id": "c-3f25efbff4",
+   "kind": "claim",
+   "node": "project-grudge",
+   "nodeLabel": "Project GRUDGE",
+   "source": {
+    "domain": null,
+    "text": "Ruppelt, 'The Report on Unidentified Flying Objects' (1956)",
+    "url": null
+   },
+   "text": "Under GRUDGE the project was reduced to a token effort until Ruppelt was placed in charge in late 1951.",
+   "tier": 2
+  },
+  "c-4ef0ce2509": {
+   "id": "c-4ef0ce2509",
+   "kind": "claim",
+   "node": "project-stork",
+   "nodeLabel": "Project Stork (Project White Stork)",
+   "source": {
+    "domain": null,
+    "text": "Project Stork status reports, First (25 April 1952) and Fifth (10 September 1952), transcribed from NARA holdings",
+    "url": null
+   },
+   "text": "The contract is identified: from the Fifth Status Report onward the heading reads 'on CONTRACT AF-19741, PPS-100'. The First Status Report of 25 April 1952 'describes progress on Project Stork PPS-100, from its inception on March 31, 1952 through April 25, 1952'.",
+   "tier": 1
+  },
+  "c-52b1c4c345": {
+   "id": "c-52b1c4c345",
+   "kind": "claim",
+   "node": "haines-cia-history",
+   "nodeLabel": "A Die-hard Issue: CIA's Role in the Study of UFOs, 1947-1990",
+   "source": {
+    "domain": null,
+    "text": "Gerald K. Haines, 'CIA's Role in the Study of UFOs, 1947-90', Studies in Intelligence (CIA)",
+    "url": null
+   },
+   "text": "'This led the Air Force to make misleading and deceptive statements to the public in order to allay public fears and to protect an extraordinarily sensitive national security project. While perhaps justified, this deception added fuel to the later conspiracy theories and the coverup controversy of the 1970s.'",
+   "tier": 1
+  },
+  "c-55bd5f8627": {
+   "id": "c-55bd5f8627",
+   "kind": "claim",
+   "node": "james-mcdonald",
+   "nodeLabel": "James E. McDonald",
+   "source": {
+    "domain": null,
+    "text": "US House Committee on Science and Astronautics, 'Symposium on Unidentified Flying Objects', 90th Congress, 2nd Session, 29 July 1968",
+    "url": null
+   },
+   "text": "McDonald testified before the House Committee on Science and Astronautics on 29 July 1968 as senior physicist at the University of Arizona Institute of Atmospheric Physics.",
+   "tier": 1
+  },
+  "c-56af594031": {
+   "id": "c-56af594031",
+   "kind": "claim",
+   "node": "washington-flap-1952",
+   "nodeLabel": "1952 Washington DC Sightings",
+   "source": {
+    "domain": null,
+    "text": "CIA Office of Scientific Intelligence memoranda, September-October 1952",
+    "url": null
+   },
+   "text": "CIA recorded that during July 1952 alone official reports of unidentified aerial phenomena totalled 250.",
+   "tier": 1
+  },
+  "c-5884851555": {
+   "id": "c-5884851555",
+   "kind": "claim",
+   "node": "afr-200-2",
+   "nodeLabel": "Air Force Regulation 200-2",
+   "source": {
+    "domain": null,
+    "text": "Inference from the January 1953 panel recommendations against the August 1953 and August 1954 regulation editions",
+    "url": null
+   },
+   "text": "AFR 200-2 is the Robertson Panel's debunking recommendation converted into binding internal law seven months after the panel reported.",
+   "tier": 3
+  },
+  "c-5ba1948f36": {
+   "id": "c-5ba1948f36",
+   "kind": "claim",
+   "node": "janap-146",
+   "nodeLabel": "JANAP 146 (CIRVIS/MERINT reporting)",
+   "source": {
+    "domain": null,
+    "text": "Inference from JANAP 146(C) read against the USAF Blue Book fact sheet and the Bolender memo",
+    "url": null
+   },
+   "text": "Mandatory reporting under criminal penalty, running in parallel with a public program declaring the subject unimportant, is the operational definition of a two-track concealment structure.",
+   "tier": 3
+  },
+  "c-5c8e17f022": {
+   "id": "c-5c8e17f022",
+   "kind": "claim",
+   "node": "blue-book-special-report-14",
+   "nodeLabel": "Project Blue Book Special Report No. 14",
+   "source": {
+    "domain": null,
+    "text": "Project Blue Book Special Report No. 14, statistical results",
+    "url": null
+   },
+   "text": "Approximately 4,000 reports were collected; the final statistical study covered 2,199 objects, of which 434 (19.7 per cent) were evaluated as 'Unknown'.",
+   "tier": 1
+  },
+  "c-626b22f8d5": {
+   "id": "c-626b22f8d5",
+   "kind": "claim",
+   "node": "project-grudge",
+   "nodeLabel": "Project GRUDGE",
+   "source": {
+    "domain": null,
+    "text": "Condon Report, Section V Chapter 2, summarising the Grudge Report",
+    "url": null
+   },
+   "text": "The Grudge Report concluded UFO reports resulted from 'misinterpretation of various conventional objects', 'mass-hysteria', hoaxes or psychological factors, recommended reducing the scope of investigation, and found no direct threat to national security.",
+   "tier": 1
+  },
+  "c-6787d85102": {
+   "id": "c-6787d85102",
+   "kind": "claim",
+   "node": "pentacle-memorandum",
+   "nodeLabel": "The Pentacle Memorandum",
+   "source": {
+    "domain": null,
+    "text": "Vallee correspondence quoted by CUFON",
+    "url": null
+   },
+   "text": "Vallee holds that the Robertson Panel of 14-16 January 1953 was not briefed on the Pentacle proposals and that another group had already decided what could and could not be discussed.",
+   "tier": 2
+  },
+  "c-6a161fb2f7": {
+   "id": "c-6a161fb2f7",
+   "kind": "claim",
+   "node": "edward-ruppelt",
+   "nodeLabel": "Edward J. Ruppelt",
+   "source": {
+    "domain": null,
+    "text": "Condon Report, Section V Chapter 2",
+    "url": null
+   },
+   "text": "The Condon Report, produced under USAF contract, independently records that the Estimate was prepared, rejected by Vandenberg and destroyed.",
+   "tier": 1
+  },
+  "c-6d7775681d": {
+   "id": "c-6d7775681d",
+   "kind": "claim",
+   "node": "blue-book-special-report-14",
+   "nodeLabel": "Project Blue Book Special Report No. 14",
+   "source": {
+    "domain": null,
+    "text": "Project Blue Book Special Report No. 14, title page",
+    "url": null
+   },
+   "text": "Special Report No. 14 was issued by the Air Technical Intelligence Center on 5 May 1955 under Project 10073, Study No. 102-EL-55/2-79.",
+   "tier": 1
+  },
+  "c-6d8b74d97e": {
+   "id": "c-6d8b74d97e",
+   "kind": "claim",
+   "node": "edward-ruppelt",
+   "nodeLabel": "Edward J. Ruppelt",
+   "source": {
+    "domain": null,
+    "text": "Ruppelt, 'The Report on Unidentified Flying Objects', 1956",
+    "url": null
+   },
+   "text": "Ruppelt published the existence of the 1948 Top Secret 'Estimate of the Situation' and its rejection and destruction by Gen. Vandenberg.",
+   "tier": 2
+  },
+  "c-6dfd6d4bec": {
+   "id": "c-6dfd6d4bec",
+   "kind": "claim",
+   "node": "edward-ruppelt",
+   "nodeLabel": "Edward J. Ruppelt",
+   "source": {
+    "domain": null,
+    "text": "USAF Project Blue Book records, NARA RG 341; Condon Report Sec. V Ch. 2",
+    "url": null
+   },
+   "text": "Ruppelt directed Blue Book from March 1952 through August 1953, the period covering the Washington flap and the Robertson Panel.",
+   "tier": 1
+  },
+  "c-77ecbf43b2": {
+   "id": "c-77ecbf43b2",
+   "kind": "claim",
+   "node": "usaf",
+   "nodeLabel": "United States Air Force",
+   "source": {
+    "domain": null,
+    "text": "National Archives, Unidentified Flying Objects / Project BLUE BOOK",
+    "url": null
+   },
+   "text": "The Project BLUE BOOK records were permanently transferred to the National Archives and are held as 94 rolls of 35mm microfilm, T-1206.",
+   "tier": 1
+  },
+  "c-861321d9dc": {
+   "id": "c-861321d9dc",
+   "kind": "claim",
+   "node": "blue-book-special-report-14",
+   "nodeLabel": "Project Blue Book Special Report No. 14",
+   "source": {
+    "domain": null,
+    "text": "Project Blue Book Special Report No. 14, full-text search of the scan; six independent search terms, all returning nothing",
+    "url": null
+   },
+   "text": "The report does not name Battelle, or any contractor, anywhere on its own face. A full-text search returns no occurrence of Battelle, Columbus, Stork, contractor, 'prepared by' or 19741. The attribution rests entirely on the Project Stork status reports and the surrounding file.",
+   "tier": 1
+  },
+  "c-8875d910d9": {
+   "id": "c-8875d910d9",
+   "kind": "claim",
+   "node": "janap-146",
+   "nodeLabel": "JANAP 146 (CIRVIS/MERINT reporting)",
+   "source": {
+    "domain": null,
+    "text": "JANAP 146(C), Article 308(a)",
+    "url": null
+   },
+   "text": "Article 308(a) states 'The unauthorized transmission or revelation of the contents of MERINT reports in any manner is prohibited' and references 18 U.S. Code sections 793 and 794.",
+   "tier": 1
+  },
+  "c-8a730bdf60": {
+   "id": "c-8a730bdf60",
+   "kind": "claim",
+   "node": "project-blue-book",
+   "nodeLabel": "Project Blue Book",
+   "source": {
+    "domain": null,
+    "text": "Project Blue Book administrative records, NARA RG 341",
+    "url": null
+   },
+   "text": "Blue Book directors were Edward J. Ruppelt (1952-1953), Charles Hardin (1954-1956), George T. Gregory (1956-1958), Robert J. Friend (1958-1963) and Hector Quintanilla (1963-1969).",
+   "tier": 1
+  },
+  "c-8c2a9eb082": {
+   "id": "c-8c2a9eb082",
+   "kind": "claim",
+   "node": "haines-cia-history",
+   "nodeLabel": "A Die-hard Issue: CIA's Role in the Study of UFOs, 1947-1990",
+   "source": {
+    "domain": null,
+    "text": "Haines, 'CIA's Role in the Study of UFOs, 1947-90'",
+    "url": null
+   },
+   "text": "'According to later estimates from CIA officials who worked on the U-2 project and the OXCART (SR-71, or Blackbird) project, over half of all UFO reports from the late 1950s through the 1960s were accounted for by manned reconnaissance flights (namely the U-2) over the United States.'",
+   "tier": 1
+  },
+  "c-8f395c3411": {
+   "id": "c-8f395c3411",
+   "kind": "claim",
+   "node": "haines-cia-history",
+   "nodeLabel": "A Die-hard Issue: CIA's Role in the Study of UFOs, 1947-1990",
+   "source": {
+    "domain": null,
+    "text": "Haines, 'CIA's Role in the Study of UFOs, 1947-90'",
+    "url": null
+   },
+   "text": "'Air Force BLUE BOOK investigators aware of the secret U-2 flights tried to explain away such sightings by linking them to natural phenomena such as ice crystals and temperature inversions... They were careful, however, not to reveal the true cause of the sighting to the public.'",
+   "tier": 1
+  },
+  "c-909b2a63ba": {
+   "id": "c-909b2a63ba",
+   "kind": "claim",
+   "node": "pentacle-memorandum",
+   "nodeLabel": "The Pentacle Memorandum",
+   "source": {
+    "domain": null,
+    "text": "CUFON transcription of the memorandum text — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+    "url": null
+   },
+   "text": "It states that 'many different types of aerial activity should be secretly and purposefully scheduled within the area' of proposed controlled experiments.",
+   "tier": 2
+  },
+  "c-937c84ed51": {
+   "id": "c-937c84ed51",
+   "kind": "claim",
+   "node": "bolender-memo",
+   "nodeLabel": "Bolender Memorandum",
+   "source": {
+    "domain": null,
+    "text": "Bolender memorandum, 20 Oct 1969 (archived scan)",
+    "url": null
+   },
+   "text": "The memorandum is dated 20 October 1969 and signed by Brig. Gen. C. H. Bolender, USAF Deputy Director of Development.",
+   "tier": 1
+  },
+  "c-96180ce2ed": {
+   "id": "c-96180ce2ed",
+   "kind": "claim",
+   "node": "project-moon-dust",
+   "nodeLabel": "Project MOON DUST",
+   "source": {
+    "domain": null,
+    "text": "History, 1127 USAF Field Activities Group, 1 Jan - 30 Jun 1967, p.30; and History of the Assistant Chief of Staff, Intelligence, July - December 1967, p.62",
+    "url": null
+   },
+   "text": "The figures commonly quoted as MOON DUST recoveries are notifications of deorbit received, not objects recovered. The 1127th's own history records that SPADATS 'notified AFNIAA of the deorbit of 37 Soviet space objects' in the first half of 1967, and the companion history of the Assistant Chief of Staff, Intelligence records 'notifications of the deorbit of 49 Soviet space objects (rocket bodies, payloads, and space platforms), and of 17 US space objects considered to be of special importance' in the second half. Deorbit notification is the tasking trigger; recovery is a separate act neither document counts.",
+   "tier": 1
+  },
+  "c-9dda1a6777": {
+   "id": "c-9dda1a6777",
+   "kind": "claim",
+   "node": "j-allen-hynek",
+   "nodeLabel": "J. Allen Hynek",
+   "source": {
+    "domain": null,
+    "text": "Project Blue Book administrative records, NARA RG 341; Condon Report Sec. V Ch. 2",
+    "url": null
+   },
+   "text": "Hynek served as scientific consultant across Project SIGN (1947-1949), Project GRUDGE (1949-1951) and Project Blue Book (1952-1969).",
+   "tier": 1
+  },
+  "c-9fd7e805b6": {
+   "id": "c-9fd7e805b6",
+   "kind": "claim",
+   "node": "usaf",
+   "nodeLabel": "United States Air Force",
+   "source": {
+    "domain": null,
+    "text": "National Archives, Unidentified Flying Objects / Project BLUE BOOK",
+    "url": null
+   },
+   "text": "On 17 December 1969 the Secretary of the Air Force announced the termination of Project BLUE BOOK, relying on the University of Colorado report 'Scientific Study of Unidentified Flying Objects' and a National Academy of Sciences review of it.",
+   "tier": 1
+  },
+  "c-a6c4689344": {
+   "id": "c-a6c4689344",
+   "kind": "claim",
+   "node": "atic",
+   "nodeLabel": "Air Technical Intelligence Center",
+   "source": {
+    "domain": null,
+    "text": "USAF Fact Sheet on Project Blue Book; Condon Report Sec. V Ch. 2",
+    "url": null
+   },
+   "text": "Projects SIGN, GRUDGE and Blue Book were all hosted at Wright-Patterson AFB under Air Materiel Command intelligence and its successor ATIC.",
+   "tier": 1
+  },
+  "c-b08d43c896": {
+   "id": "c-b08d43c896",
+   "kind": "claim",
+   "node": "nicap",
+   "nodeLabel": "National Investigations Committee on Aerial Phenomena (NICAP)",
+   "source": {
+    "domain": "archive.org",
+    "text": "The UFO Evidence, 1964, in CIA-RDP81R00560R000100010001-0, https://archive.org/details/cia-readingroom-document-cia-rdp81r00560r000100010001-0",
+    "url": "https://archive.org/details/cia-readingroom-document-cia-rdp81r00560r000100010001-0"
+   },
+   "text": "The volume was addressed to Congress and says so: 'Copies of this report have been sent to all Members of Congress.' Its board in 1964 also included 'Mr. Dewey Fournet, Jr., former Major USAFR ... Former Air Force Headquarters Monitor of AF Project Blue Book UFO investigation, prepared analyses of UFO data for AF, liaison officer between Dayton project and Pentagon.'",
+   "tier": 1
+  },
+  "c-b70e857b46": {
+   "id": "c-b70e857b46",
+   "kind": "claim",
+   "node": "project-blue-book",
+   "nodeLabel": "Project Blue Book",
+   "source": {
+    "domain": null,
+    "text": "National Archives, Air Force UFO records page",
+    "url": null
+   },
+   "text": "NARA holds approximately 2 cubic feet of project/administrative files, 37 cubic feet of case files and 3 cubic feet of Office of Special Investigations records, on 94 rolls of microfilm (T-1206).",
+   "tier": 1
+  },
+  "c-bfe7c31ee3": {
+   "id": "c-bfe7c31ee3",
+   "kind": "claim",
+   "node": "project-blue-book",
+   "nodeLabel": "Project Blue Book",
+   "source": {
+    "domain": null,
+    "text": "USAF Fact Sheet, 'Unidentified Flying Objects and Air Force Project Blue Book'",
+    "url": null
+   },
+   "text": "The Air Force gave three reasons for termination: no reported UFO was ever an indication of threat to national security; no evidence that unexplained sightings represented technological developments beyond current scientific knowledge; and no evidence that 'unidentified' sightings were extraterrestrial vehicles.",
+   "tier": 1
+  },
+  "c-c004dd1cb4": {
+   "id": "c-c004dd1cb4",
+   "kind": "claim",
+   "node": "edward-ruppelt",
+   "nodeLabel": "Edward J. Ruppelt",
+   "source": {
+    "domain": null,
+    "text": "Ruppelt, 'The Report on Unidentified Flying Objects', 2nd edition, 1960",
+    "url": null
+   },
+   "text": "Ruppelt added sceptical chapters to the 1960 edition of his book, reversing tone shortly before his death.",
+   "tier": 2
+  },
+  "c-c184d9c2d3": {
+   "id": "c-c184d9c2d3",
+   "kind": "claim",
+   "node": "janap-146",
+   "nodeLabel": "JANAP 146 (CIRVIS/MERINT reporting)",
+   "source": {
+    "domain": null,
+    "text": "Bolender memorandum, 20 Oct 1969",
+    "url": null
+   },
+   "text": "The Bolender memorandum of 20 October 1969 states that UFO reports which could affect national security are made under JANAP 146 or AFM 55-11 and are not part of the Blue Book system.",
+   "tier": 1
+  },
+  "c-c376a4adbb": {
+   "id": "c-c376a4adbb",
+   "kind": "claim",
+   "node": "blue-book-special-report-14",
+   "nodeLabel": "Project Blue Book Special Report No. 14",
+   "source": {
+    "domain": null,
+    "text": "Standard attribution in the Blue Book literature; the report front matter does not name the contractor",
+    "url": null
+   },
+   "text": "Battelle Memorial Institute performed the statistical analysis under contract to ATIC.",
+   "tier": 2
+  },
+  "c-c6eb0265ed": {
+   "id": "c-c6eb0265ed",
+   "kind": "claim",
+   "node": "bolender-memo",
+   "nodeLabel": "Bolender Memorandum",
+   "source": {
+    "domain": null,
+    "text": "USAF Fact Sheet, 'Unidentified Flying Objects and Air Force Project Blue Book'",
+    "url": null
+   },
+   "text": "Blue Book was terminated on 17 December 1969, two months after the memorandum.",
+   "tier": 1
+  },
+  "c-c747574d4d": {
+   "id": "c-c747574d4d",
+   "kind": "claim",
+   "node": "washington-flap-1952",
+   "nodeLabel": "1952 Washington DC Sightings",
+   "source": {
+    "domain": null,
+    "text": "Project Blue Book case files, NARA RG 341; NICAP document archive files 1952_07_19_US_DC_Radar_968_970.pdf and 1952_07_19_US_DC_radar_965_966.pdf",
+    "url": null
+   },
+   "text": "Blue Book case documentation for the 19 July 1952 Washington radar events survives in the declassified record.",
+   "tier": 1
+  },
+  "c-d069fdd870": {
+   "id": "c-d069fdd870",
+   "kind": "claim",
+   "node": "project-grudge",
+   "nodeLabel": "Project GRUDGE",
+   "source": {
+    "domain": null,
+    "text": "Condon Report, Section V Chapter 2",
+    "url": null
+   },
+   "text": "Project SIGN transitioned to Project GRUDGE on 11 February 1949.",
+   "tier": 1
+  },
+  "c-d38a2907a1": {
+   "id": "c-d38a2907a1",
+   "kind": "claim",
+   "node": "janap-146",
+   "nodeLabel": "JANAP 146 (CIRVIS/MERINT reporting)",
+   "source": {
+    "domain": null,
+    "text": "JANAP 146(C), Article 201(1)(c)",
+    "url": null
+   },
+   "text": "JANAP 146(C), dated 10 March 1954, requires airborne personnel to report 'Unidentified flying objects' under CIRVIS while in flight, except over foreign territory.",
+   "tier": 1
+  },
+  "c-d4e3288d32": {
+   "id": "c-d4e3288d32",
+   "kind": "claim",
+   "node": "project-blue-book",
+   "nodeLabel": "Project Blue Book",
+   "source": {
+    "domain": null,
+    "text": "USAF Fact Sheet, 'Unidentified Flying Objects and Air Force Project Blue Book'",
+    "url": null
+   },
+   "text": "Blue Book recorded 12,618 sightings between 1947 and 1969, of which 701 remained unidentified; it was terminated on 17 December 1969.",
+   "tier": 1
+  },
+  "c-d6ae9dea74": {
+   "id": "c-d6ae9dea74",
+   "kind": "claim",
+   "node": "foreign-technology-division",
+   "nodeLabel": "Foreign Technology Division, Wright-Patterson AFB",
+   "source": {
+    "domain": "files.ncas.org",
+    "text": "Special Report of the USAF Scientific Advisory Board Ad Hoc Committee to Review Project 'Blue Book', March 1966, Condon Report Appendix A, https://files.ncas.org/condon/text/appndx-a.htm",
+    "url": "https://files.ncas.org/condon/text/appndx-a.htm"
+   },
+   "text": "The same 1966 committee recorded the resources behind the whole Air Force UFO programme as 'only one officer, a sergeant, and secretary'.",
+   "tier": 1
+  },
+  "c-d7bb70911e": {
+   "id": "c-d7bb70911e",
+   "kind": "claim",
+   "node": "battelle",
+   "nodeLabel": "Battelle Memorial Institute",
+   "source": {
+    "domain": null,
+    "text": "American Alchemy with Jesse Michels, 'Fake Alien Signals Drove Him Insane... (ft. Greg Bishop)', 5 July 2025, 0:59:04, and 'Air Force Officer: A UFO Shut Down 10 Nukes in Seconds (ft. Bob Salas)', 12 July 2025, 1:00:44",
+    "url": null
+   },
+   "text": "On American Alchemy with Jesse Michels, 5 July 2025 at 0:59:04 and again on 12 July 2025 at 1:00:44, Michels said that after Jacques Vallee found the Pentacle memo in the Blue Book files the memo could not be raised around the Robertson Panel: 'apparently you weren't allowed to mention the pentacle' and 'you were not supposed to bring this memo up'. Both tellings are the same speaker, neither cites a document for the instruction, and both describe Vallee putting it to J. Allen Hynek, who on Michels's account played dumb. The board carries the memo and Howard C. Cross's authorship but not this alleged instruction.",
+   "tier": 2
+  },
+  "c-dec94b8042": {
+   "id": "c-dec94b8042",
+   "kind": "claim",
+   "node": "project-stork",
+   "nodeLabel": "Project Stork (Project White Stork)",
+   "source": {
+    "domain": null,
+    "text": "Project Stork, First Status Report, 25 April 1952",
+    "url": null
+   },
+   "text": "The First Status Report lists the contract requirements: '1. Provide a panel of consultants, 2. Assist in improving interrogation forms, 3. Analyze existing sighting reports, 4. Subscribe to a clipping service, as directed, and 5. Apprise the Sponsor monthly of all work done on PPS-100.'",
+   "tier": 1
+  },
+  "c-decd947291": {
+   "id": "c-decd947291",
+   "kind": "claim",
+   "node": "haines-cia-history",
+   "nodeLabel": "A Die-hard Issue: CIA's Role in the Study of UFOs, 1947-1990",
+   "source": {
+    "domain": "www.nicap.org",
+    "text": "Gerald K. Haines, 'CIA's Role in the Study of UFOs, 1947-90', Studies in Intelligence, mirrored full text, https://www.nicap.org/ciarole.htm",
+    "url": "https://www.nicap.org/ciarole.htm"
+   },
+   "text": "The article gives the Air Force's own unexplained residue as a falling figure: 'The percentage of what the Air Force considered unexplained UFO sightings fell to 5.9 percent in 1955 and to 4 percent in 1956.' On Area 52 (batch 07, file 04, 0:49:22) John Ramirez attributed to this article a figure of one in ten. The article does not carry that figure.",
+   "tier": 1
+  },
+  "c-e20c0aa1ea": {
+   "id": "c-e20c0aa1ea",
+   "kind": "claim",
+   "node": "project-stork",
+   "nodeLabel": "Project Stork (Project White Stork)",
+   "source": {
+    "domain": null,
+    "text": "Project Stork status reports, transcribed from NARA holdings, with the transcriber's scope note",
+    "url": null
+   },
+   "text": "Seven status reports are publicly available, totalling 107 pages, dated 25 April, 6 June, 7 July, 11 August, 10 September, 10 October and 10 November 1952. All are addressed 'to AIR TECHNICAL INTELLIGENCE CENTER, WRIGHT-PATTERSON AIR FORCE BASE'. The set is known to be incomplete: the holding archive's own scope note records that 'these (107) pages are not the total paper generated by Project Stork. Internal references to other documents exist in this text, including further Status Reports. None of these is in the custody of the NARA.'",
+   "tier": 1
+  },
+  "c-e38f485a87": {
+   "id": "c-e38f485a87",
+   "kind": "claim",
+   "node": "project-stork",
+   "nodeLabel": "Project Stork (Project White Stork)",
+   "source": {
+    "domain": null,
+    "text": "Project Blue Book Special Report No. 14, 5 May 1955, full-text search of the scan; read against the Project Stork status reports",
+    "url": null
+   },
+   "text": "Special Report No. 14 does not name its contractor on its own face. A full-text search of the report returns no occurrence of Battelle, Columbus, Stork, contractor, 'prepared by' or 19741. The Battelle and Stork attribution rests entirely on the status reports and the surrounding record: the analytical work was contracted out and the published product did not say so.",
+   "tier": 1
+  },
+  "c-eac3d0b2c5": {
+   "id": "c-eac3d0b2c5",
+   "kind": "claim",
+   "node": "afr-200-2",
+   "nodeLabel": "Air Force Regulation 200-2",
+   "source": {
+    "domain": null,
+    "text": "AFR 200-2, 12 Aug 1954, release of information section",
+    "url": null
+   },
+   "text": "'For those objects which are not explainable, only the fact that ATIC will analyze the data is worthy of release, due to many unknowns involved.'",
+   "tier": 1
+  },
+  "c-f347e667d4": {
+   "id": "c-f347e667d4",
+   "kind": "claim",
+   "node": "hearing-1966-04-05",
+   "nodeLabel": "House Armed Services Committee UFO Hearing",
+   "source": {
+    "domain": null,
+    "text": "'Scientific Study of Unidentified Flying Objects', University of Colorado, 1968",
+    "url": null
+   },
+   "text": "The Air Force contracted the University of Colorado UFO study six months later, on 6 October 1966, under contract 44620-67-C-0035.",
+   "tier": 1
+  },
+  "c-f9f90389bf": {
+   "id": "c-f9f90389bf",
+   "kind": "claim",
+   "node": "project-moon-dust",
+   "nodeLabel": "Project MOON DUST",
+   "source": {
+    "domain": null,
+    "text": "Inference from the programme's charter scope, the existence of post-1969 State Department MOON DUST cable traffic, and the absence of any published termination order.",
+    "url": null
+   },
+   "text": "MOON DUST's retrieval tasking survived the 1969 closure of Project Blue Book, meaning the United States retained a recovery capability after publicly terminating its investigative one.",
+   "tier": 3
+  },
+  "c-fe034b76a0": {
+   "id": "c-fe034b76a0",
+   "kind": "claim",
+   "node": "blue-book-special-report-14",
+   "nodeLabel": "Project Blue Book Special Report No. 14",
+   "source": {
+    "domain": null,
+    "text": "Project Blue Book Special Report No. 14, quality-of-report cross-tabulations",
+    "url": null
+   },
+   "text": "The report's data show a higher proportion of unknowns among the highest-quality reports than among the poorest, and statistically significant differences between knowns and unknowns.",
+   "tier": 2
+  },
+  "e-0cc4acb08e": {
+   "endpoints": [
+    {
+     "id": "robertson-panel",
+     "label": "Robertson Panel"
+    },
+    {
+     "id": "afr-200-2",
+     "label": "Air Force Regulation 200-2"
+    }
+   ],
+   "id": "e-0cc4acb08e",
+   "kind": "edge",
+   "label": "Panel recommendations became binding Air Force regulation",
+   "sources": [
+    {
+     "date": "1954-08-12",
+     "name": "Archived: AFR 200-2, 12 August 1954 (Wayback 2026-05-21)",
+     "url": "https://web.archive.org/web/20260521101009/http://www.cufon.org/cufon/afr200-2.htm"
+    },
+    {
+     "date": "1953-01-17",
+     "name": "Robertson Panel report, Tab A of the Durant record (The Black Vault scan, CIA-RDP81R00560R000100030027-0)",
+     "url": "https://documents.theblackvault.com/documents/ufos/robertsonpanelreport.pdf"
+    }
+   ],
+   "text": "AFR 200-2 was issued 26 August 1953 and revised 12 August 1954, restricting public release on unexplained cases to the bare fact of ATIC analysis — the debunking recommendation converted into internal law within months of the panel reporting.",
+   "tier": 3,
+   "type": "programmatic"
+  },
+  "e-4cb9a68112": {
+   "endpoints": [
+    {
+     "id": "project-grudge",
+     "label": "Project GRUDGE"
+    },
+    {
+     "id": "project-blue-book",
+     "label": "Project Blue Book"
+    }
+   ],
+   "id": "e-4cb9a68112",
+   "kind": "edge",
+   "label": "GRUDGE renamed Blue Book under Ruppelt in March 1952",
+   "sources": [
+    {
+     "date": "1968-11-01",
+     "name": "Condon Report Sec. V Ch. 2",
+     "url": "https://files.ncas.org/condon/text/s5chap02.htm"
+    },
+    {
+     "date": "2026-08-12",
+     "name": "NARA — Project Blue Book records",
+     "url": "https://www.archives.gov/research/military/air-force/ufos"
+    }
+   ],
+   "text": "Ruppelt was placed in charge of the reconstituted GRUDGE in late 1951 and the project was renamed Project Blue Book in March 1952.",
+   "tier": 1,
+   "type": "programmatic"
+  },
+  "e-5091e6585a": {
+   "endpoints": [
+    {
+     "id": "battelle",
+     "label": "Battelle Memorial Institute"
+    },
+    {
+     "id": "blue-book-special-report-14",
+     "label": "Project Blue Book Special Report No. 14"
+    }
+   ],
+   "id": "e-5091e6585a",
+   "kind": "edge",
+   "label": "Battelle performed the statistical analysis under contract",
+   "sources": [
+    {
+     "date": "1955-05-05",
+     "name": "Project Blue Book Special Report No. 14",
+     "url": "http://www.nicap.org/docs/pbbsr/BBA-PBSR14.pdf"
+    }
+   ],
+   "text": "Battelle Memorial Institute of Columbus is the contractor identified throughout the literature; the report's own front matter does not name a contractor, which is why this is graded tier 2.",
+   "tier": 2,
+   "type": "funding"
+  },
+  "e-5622f47f71": {
+   "endpoints": [
+    {
+     "id": "haines-cia-history",
+     "label": "A Die-hard Issue: CIA's Role in the Study of UFOs, 1947-1990"
+    },
+    {
+     "id": "project-blue-book",
+     "label": "Project Blue Book"
+    }
+   ],
+   "id": "e-5622f47f71",
+   "kind": "edge",
+   "label": "Blue Book investigators knowingly issued false explanations for U-2 sightings",
+   "sources": [
+    {
+     "date": "1997-01-01",
+     "name": "Gerald K. Haines, 'CIA's Role in the Study of UFOs, 1947-90', Studies in Intelligence (CIA), archived copy",
+     "url": "https://www.theblackvault.com/documentarchive/cias-role-in-the-study-of-ufos-1947-90/"
+    }
+   ],
+   "text": "CIA records that Blue Book investigators aware of the secret U-2 flights attributed sightings to ice crystals and temperature inversions and 'were careful, however, not to reveal the true cause of the sighting to the public.'",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-6a9d4d46ea": {
+   "endpoints": [
+    {
+     "id": "charles-p-cabell",
+     "label": "Gen. Charles P. Cabell"
+    },
+    {
+     "id": "usaf",
+     "label": "United States Air Force"
+    }
+   ],
+   "id": "e-6a9d4d46ea",
+   "kind": "edge",
+   "label": "Director of Intelligence, Office of the Deputy Chief of Staff, USAF",
+   "sources": [
+    {
+     "date": "2026-09-03",
+     "name": "FRUS 1950-1955, The Intelligence Community, List of Persons",
+     "url": "https://history.state.gov/historicaldocuments/frus1950-55Intel/persons"
+    }
+   ],
+   "text": "Both FRUS persons lists give the office; the later volume dates it to 1953 within its own coverage. This is the office he held while Project Blue Book was created.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-748a157dea": {
+   "endpoints": [
+    {
+     "id": "pentacle-memorandum",
+     "label": "The Pentacle Memorandum"
+    },
+    {
+     "id": "robertson-panel",
+     "label": "Robertson Panel"
+    }
+   ],
+   "id": "e-748a157dea",
+   "kind": "edge",
+   "label": "Written five days before the panel met; per Vallee the panel was never briefed on its proposals",
+   "sources": [
+    {
+     "date": "2026-08-12",
+     "name": "NICAP - The 'Pentacle' Memorandum (CUFON page)",
+     "url": "https://www.nicap.org/papers/Pentacle/pentacle.htm"
+    },
+    {
+     "date": "2012-02-18",
+     "name": "Bad UFOs analysis",
+     "url": "https://badufos.blogspot.com/2012/02/jacques-vallee-j-allen-hynek-and.html"
+    }
+   ],
+   "text": "Vallee's conclusion is that a separate group had already decided what the panel could and could not discuss - contractor-side predetermination of an official scientific review.",
+   "tier": 2,
+   "type": "denial"
+  },
+  "e-771646ed71": {
+   "endpoints": [
+    {
+     "id": "washington-flap-1952",
+     "label": "1952 Washington DC Sightings"
+    },
+    {
+     "id": "h-marshall-chadwell",
+     "label": "H. Marshall Chadwell"
+    }
+   ],
+   "id": "e-771646ed71",
+   "kind": "edge",
+   "label": "The flap put the CIA's science directorate onto the problem",
+   "sources": [
+    {
+     "date": "1952-09-11",
+     "name": "Archived: CUFON 1952 CIA document sampler (Wayback 2025-01-17)",
+     "url": "https://web.archive.org/web/20250117180016/https://www.cufon.org/cufon/cia-52-1.htm"
+    }
+   ],
+   "text": "Within weeks of the July 1952 sightings Chadwell was writing to the DCI that reports totalled 250 in July alone and that the situation carried national security implications.",
+   "tier": 1,
+   "type": "investigative"
+  },
+  "e-7ddd01f57e": {
+   "endpoints": [
+    {
+     "id": "condon-committee",
+     "label": "University of Colorado UFO Project (Condon Committee)"
+    },
+    {
+     "id": "project-blue-book",
+     "label": "Project Blue Book"
+    }
+   ],
+   "id": "e-7ddd01f57e",
+   "kind": "edge",
+   "label": "The Condon Report was the stated basis for terminating Blue Book",
+   "sources": [
+    {
+     "date": "2026-08-12",
+     "name": "USAF Fact Sheet: Project Blue Book",
+     "url": "https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/"
+    }
+   ],
+   "text": "The Air Force cited the Colorado study, a National Academy of Sciences review and prior experience in ending the program on 17 December 1969.",
+   "tier": 1,
+   "type": "programmatic"
+  },
+  "e-83b2914e70": {
+   "endpoints": [
+    {
+     "id": "cometa",
+     "label": "COMETA - Comité d'Études Approfondies"
+    },
+    {
+     "id": "project-blue-book",
+     "label": "Project Blue Book"
+    }
+   ],
+   "id": "e-83b2914e70",
+   "kind": "edge",
+   "label": "adopts Hynek's Blue Book-era classification",
+   "sources": [
+    {
+     "date": "1999-07-01",
+     "name": "COMETA, 'UFOs and Defense: What Should We Prepare For?', 1999, chapter 7.2",
+     "url": "https://ia800403.us.archive.org/17/items/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D.pdf"
+    }
+   ],
+   "text": "COMETA states that the strangest category D cases 'are generally labeled CE3s (close encounters of the third kind) according to the classification proposed by Professor A. Hynek, an astronomer and consultant to the USAF, within the context of the Blue Book Project'. A committee of retired French flag officers adopting Blue Book's own consultant's taxonomy is the inheritance this edge records.",
+   "tier": 1,
+   "type": "research"
+  },
+  "e-8c95e3352e": {
+   "endpoints": [
+    {
+     "id": "usaf",
+     "label": "United States Air Force"
+    },
+    {
+     "id": "project-blue-book",
+     "label": "Project Blue Book"
+    }
+   ],
+   "id": "e-8c95e3352e",
+   "kind": "edge",
+   "label": "Air Force ran the public UFO investigation 1952-1969",
+   "sources": [
+    {
+     "date": "2026-08-12",
+     "name": "National Archives - Unidentified Flying Objects / Project BLUE BOOK",
+     "url": "https://www.archives.gov/research/military/air-force/ufos"
+    }
+   ],
+   "text": "12,618 sightings were reported to BLUE BOOK, of which 701 remain 'Unidentified'. The Secretary of the Air Force announced termination on 17 December 1969.",
+   "tier": 1,
+   "type": "programmatic"
+  },
+  "e-956bb67739": {
+   "endpoints": [
+    {
+     "id": "project-blue-book",
+     "label": "Project Blue Book"
+    },
+    {
+     "id": "janap-146",
+     "label": "JANAP 146 (CIRVIS/MERINT reporting)"
+    }
+   ],
+   "id": "e-956bb67739",
+   "kind": "edge",
+   "label": "The public statistics are the residue of a filter, not the corpus",
+   "sources": [
+    {
+     "date": "1969-10-20",
+     "name": "Bolender memorandum, 20 October 1969",
+     "url": "https://www.nicap.org/docs/1969_10_20_Bolender_Memo.pdf"
+    },
+    {
+     "date": "2026-08-12",
+     "name": "USAF Fact Sheet: Project Blue Book",
+     "url": "https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/"
+    }
+   ],
+   "text": "If national-security reports went up the JANAP channel as Bolender states, then the 12,618 sightings and 701 unknowns describe only what the filtered public program retained.",
+   "tier": 3,
+   "type": "denial"
+  },
+  "e-a03abd6c70": {
+   "endpoints": [
+    {
+     "id": "l-columbus-oh",
+     "label": "Columbus, Ohio"
+    },
+    {
+     "id": "project-blue-book",
+     "label": "Project Blue Book"
+    }
+   ],
+   "id": "e-a03abd6c70",
+   "kind": "edge",
+   "label": "Project Stork / Blue Book Special Report No. 14 produced here",
+   "sources": [
+    {
+     "date": "1955-05-05",
+     "name": "Project Blue Book Special Report No. 14, 5 May 1955 (CIA-RDP81R00560R000100060001-5, released copy, 313 pp.)",
+     "url": "https://documents2.theblackvault.com/documents/ufos/CIA-RDP81R00560R000100060001-5.pdf"
+    },
+    {
+     "date": null,
+     "name": "https://archive.org/details/ProjectBlueBookSpecialReport14",
+     "url": "https://archive.org/details/ProjectBlueBookSpecialReport14"
+    },
+    {
+     "date": null,
+     "name": "https://cufos.org/resources/project-blue-book/",
+     "url": "https://cufos.org/resources/project-blue-book/"
+    }
+   ],
+   "text": "TIER 3, INFERENTIAL, and the reason is worth stating. Project Blue Book Special Report No. 14, the statistical analysis of 1947-1952 sighting reports dated 5 May 1955, is attributed on its own title page to the Air Technical Intelligence Center at Wright-Patterson Air Force Base, Ohio, under Project No. 10073. Its summary says the study 'was prepared by a panel of scientists both in and out of the Air Force'. The released copy names no contractor at all: a full-text scan of all 313 pages finds no occurrence of 'Battelle', 'Columbus' or 'Memorial Institute'. The Columbus tie rests entirely on the secondary literature's Battelle attribution, which the primary record does not make.",
+   "tier": 1,
+   "type": "geographic"
+  },
+  "e-a2e93082a2": {
+   "endpoints": [
+    {
+     "id": "j-allen-hynek",
+     "label": "J. Allen Hynek"
+    },
+    {
+     "id": "hearing-1966-04-05",
+     "label": "House Armed Services Committee UFO Hearing"
+    }
+   ],
+   "id": "e-a2e93082a2",
+   "kind": "edge",
+   "label": "The swamp gas episode triggered the 1966 hearing",
+   "sources": [
+    {
+     "date": "1968-11-01",
+     "name": "Scientific Study of Unidentified Flying Objects (Condon Report)",
+     "url": "https://files.ncas.org/condon/"
+    }
+   ],
+   "text": "Hynek's March 1966 Michigan press conference explanation was reported as a blanket dismissal, produced a public backlash, and led directly to Gerald Ford's demand for congressional hearings.",
+   "tier": 2,
+   "type": "witness-chain"
+  },
+  "e-acd43d41ac": {
+   "endpoints": [
+    {
+     "id": "project-moon-dust",
+     "label": "Project MOON DUST"
+    },
+    {
+     "id": "project-blue-book",
+     "label": "Project Blue Book"
+    }
+   ],
+   "id": "e-acd43d41ac",
+   "kind": "edge",
+   "label": "MOON DUST was the retrieval function alongside Blue Book's public sighting file",
+   "sources": [
+    {
+     "date": "2015-03-04",
+     "name": "Project Moon Dust document archive (Department of State releases; one file declassified by CIA)",
+     "url": "https://www.theblackvault.com/documentarchive/project-moon-dust/"
+    },
+    {
+     "date": "2016-08-15",
+     "name": "National Archives, 'Project BLUE BOOK - Unidentified Flying Objects' reference report (incl. MJ-12 / Cutler-Twining findings)",
+     "url": "https://www.archives.gov/research/military/air-force/ufos"
+    }
+   ],
+   "text": "Blue Book was the acknowledged investigative programme; MOON DUST was a separate, quieter recovery and exploitation tasking that was never advertised to the public that Blue Book served.",
+   "tier": 3,
+   "type": "programmatic"
+  },
+  "e-b15d55bc2b": {
+   "endpoints": [
+    {
+     "id": "nicap",
+     "label": "National Investigations Committee on Aerial Phenomena (NICAP)"
+    },
+    {
+     "id": "project-blue-book",
+     "label": "Project Blue Book"
+    }
+   ],
+   "id": "e-b15d55bc2b",
+   "kind": "edge",
+   "label": "Blue Book's former headquarters monitor sat on the NICAP board",
+   "sources": [
+    {
+     "date": "1964-05-01",
+     "name": "The UFO Evidence, NICAP, 1964, CIA filed copy CIA-RDP81R00560R000100010001-0",
+     "url": "https://archive.org/details/cia-readingroom-document-cia-rdp81r00560r000100010001-0"
+    }
+   ],
+   "text": "The 1964 board list describes Dewey Fournet Jr. as the former Air Force Headquarters monitor of Project Blue Book and liaison officer between the Dayton project and the Pentagon.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-b422591362": {
+   "endpoints": [
+    {
+     "id": "j-allen-hynek",
+     "label": "J. Allen Hynek"
+    },
+    {
+     "id": "james-mcdonald",
+     "label": "James E. McDonald"
+    }
+   ],
+   "id": "e-b422591362",
+   "kind": "edge",
+   "label": "Both testified at the 29 July 1968 congressional symposium",
+   "sources": [
+    {
+     "date": "1968-07-29",
+     "name": "House Committee on Science and Astronautics, Symposium on UFOs, 29 July 1968",
+     "url": "http://nicap.org/books/1968Sym/1968_UFO_Symposium.pdf"
+    }
+   ],
+   "text": "The Air Force's own long-serving consultant and its most aggressive scientific critic appeared at the same hearing, both concluding the official program was inadequate.",
+   "tier": 1,
+   "type": "witness-chain"
+  },
+  "e-bd9b6d6043": {
+   "endpoints": [
+    {
+     "id": "janap-146",
+     "label": "JANAP 146 (CIRVIS/MERINT reporting)"
+    },
+    {
+     "id": "project-blue-book",
+     "label": "Project Blue Book"
+    }
+   ],
+   "id": "e-bd9b6d6043",
+   "kind": "edge",
+   "label": "JANAP created a parallel reporting channel outside Blue Book",
+   "sources": [
+    {
+     "date": "1954-03-10",
+     "name": "JANAP 146(C), 10 March 1954",
+     "url": "https://www.nicap.org/janp146c.htm"
+    },
+    {
+     "date": "1969-10-20",
+     "name": "Bolender memorandum, 20 October 1969",
+     "url": "https://www.nicap.org/docs/1969_10_20_Bolender_Memo.pdf"
+    }
+   ],
+   "text": "JANAP 146(C) made UFO sightings a mandatory CIRVIS report under espionage-statute penalties while Blue Book handled the public-facing residue. Bolender confirmed the split in 1969.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-c134213fa8": {
+   "endpoints": [
+    {
+     "id": "carroll-bolender",
+     "label": "Carroll H. Bolender"
+    },
+    {
+     "id": "bolender-memo",
+     "label": "Bolender Memorandum"
+    }
+   ],
+   "id": "e-c134213fa8",
+   "kind": "edge",
+   "label": "Bolender authored the termination memorandum",
+   "sources": [
+    {
+     "date": "1969-10-20",
+     "name": "Bolender memorandum, 20 October 1969 (scan)",
+     "url": "https://www.nicap.org/docs/1969_10_20_Bolender_Memo.pdf"
+    }
+   ],
+   "text": "Brig. Gen. Bolender, USAF Deputy Director of Development, signed the 20 October 1969 memorandum recommending Blue Book's closure and explaining why closure cost the Air Force nothing operationally.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-c46cc80ccf": {
+   "endpoints": [
+    {
+     "id": "blue-book-special-report-14",
+     "label": "Project Blue Book Special Report No. 14"
+    },
+    {
+     "id": "project-blue-book",
+     "label": "Project Blue Book"
+    }
+   ],
+   "id": "e-c46cc80ccf",
+   "kind": "edge",
+   "label": "19.7 per cent of analysed objects were unknowns, rising with report quality",
+   "sources": [
+    {
+     "date": "1955-05-05",
+     "name": "Project Blue Book Special Report No. 14",
+     "url": "http://www.nicap.org/docs/pbbsr/BBA-PBSR14.pdf"
+    }
+   ],
+   "text": "434 of 2,199 objects were classified Unknown, and the better the report quality the higher the unknown rate — the inverse of what misidentification predicts.",
+   "tier": 1,
+   "type": "investigative"
+  },
+  "e-c75770f416": {
+   "endpoints": [
+    {
+     "id": "nara-uap-collection",
+     "label": "National Archives Unidentified Anomalous Phenomena Records Collection"
+    },
+    {
+     "id": "project-blue-book",
+     "label": "Project Blue Book"
+    }
+   ],
+   "id": "e-c75770f416",
+   "kind": "edge",
+   "label": "NARA holds the Blue Book series and is digitising legacy UFO records",
+   "sources": [
+    {
+     "date": "2026-08-12",
+     "name": "NARA — Project Blue Book records",
+     "url": "https://www.archives.gov/research/military/air-force/ufos"
+    },
+    {
+     "date": "2025-04-24",
+     "name": "NARA — UAP research topic page",
+     "url": "https://www.archives.gov/research/topics/uaps"
+    }
+   ],
+   "text": "Approximately 42 cubic feet of Blue Book material on 94 rolls of microfilm (T-1206) sits alongside the new RG 615 accessions; NARA states no Blue Book document discusses Roswell.",
+   "tier": 1,
+   "type": "custody"
+  },
+  "e-cc98b4a6e5": {
+   "endpoints": [
+    {
+     "id": "doc-minot-1968-blue-book",
+     "label": "Project Blue Book case file, Minot AFB, 24 October 1968"
+    },
+    {
+     "id": "project-blue-book",
+     "label": "Project Blue Book"
+    }
+   ],
+   "id": "e-cc98b4a6e5",
+   "kind": "edge",
+   "label": "A Project Blue Book case file, evaluated by the Foreign Technology Division",
+   "sources": [
+    {
+     "date": "1968-11-13",
+     "name": "minotb52ufo.com, documentation index for the 24 October 1968 Minot AFB case, listing the Blue Book file, Lt Col Werlich's Basic Reporting Data, the AF Form 117 questionnaires, the radarscope photographs and the Werlich overlay map. Opened 19 September 2026",
+     "url": "https://minotb52ufo.com/doc.php"
+    }
+   ],
+   "text": "The final case report of 13 November 1968 is the FTD's conclusions on the data submitted from Minot.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-cdf7e07908": {
+   "endpoints": [
+    {
+     "id": "howard-c-cross",
+     "label": "Howard C. Cross"
+    },
+    {
+     "id": "pentacle-memorandum",
+     "label": "The Pentacle Memorandum"
+    }
+   ],
+   "id": "e-cdf7e07908",
+   "kind": "edge",
+   "label": "Author of the 9 January 1953 memorandum",
+   "sources": [
+    {
+     "date": "2026-08-12",
+     "name": "NICAP - The 'Pentacle' Memorandum (CUFON page)",
+     "url": "https://www.nicap.org/papers/Pentacle/pentacle.htm"
+    }
+   ],
+   "text": "Two pages, reference G-1579-4, SECRET, unsigned, to Miles E. Goll at Wright-Patterson AFB.",
+   "tier": 1,
+   "type": "custody"
+  },
+  "e-d9eca79c62": {
+   "endpoints": [
+    {
+     "id": "pentacle-memorandum",
+     "label": "The Pentacle Memorandum"
+    },
+    {
+     "id": "l-wright-patterson",
+     "label": "Wright-Patterson Air Force Base, Ohio"
+    }
+   ],
+   "id": "e-d9eca79c62",
+   "kind": "edge",
+   "label": "Addressed to Miles E. Goll at Wright-Patterson Air Force Base",
+   "sources": [
+    {
+     "date": "2026-08-12",
+     "name": "NICAP - The 'Pentacle' Memorandum (CUFON page)",
+     "url": "https://www.nicap.org/papers/Pentacle/pentacle.htm"
+    }
+   ],
+   "text": "No signed original has ever been produced by the Air Force or by Battelle.",
+   "tier": 1,
+   "type": "custody"
+  },
+  "e-ddf66cd1bc": {
+   "endpoints": [
+    {
+     "id": "hearing-1966-04-05",
+     "label": "House Armed Services Committee UFO Hearing"
+    },
+    {
+     "id": "condon-committee",
+     "label": "University of Colorado UFO Project (Condon Committee)"
+    }
+   ],
+   "id": "e-ddf66cd1bc",
+   "kind": "edge",
+   "label": "Congressional pressure produced a contracted study, not oversight",
+   "sources": [
+    {
+     "date": "1968-11-01",
+     "name": "Scientific Study of Unidentified Flying Objects (Condon Report)",
+     "url": "https://files.ncas.org/condon/"
+    }
+   ],
+   "text": "Six months after the hearing the Air Force let contract 44620-67-C-0035 to the University of Colorado — pressure in, study out, closure following.",
+   "tier": 1,
+   "type": "programmatic"
+  },
+  "e-df88883aa7": {
+   "endpoints": [
+    {
+     "id": "afr-200-2",
+     "label": "Air Force Regulation 200-2"
+    },
+    {
+     "id": "project-blue-book",
+     "label": "Project Blue Book"
+    }
+   ],
+   "id": "e-df88883aa7",
+   "kind": "edge",
+   "label": "AFR 200-2 governed what Blue Book could say publicly",
+   "sources": [
+    {
+     "date": "1954-08-12",
+     "name": "Archived: AFR 200-2, 12 August 1954 (Wayback 2026-05-21)",
+     "url": "https://web.archive.org/web/20260521101009/http://www.cufon.org/cufon/afr200-2.htm"
+    }
+   ],
+   "text": "For unexplainable objects, 'only the fact that ATIC will analyze the data is worthy of release'. Every Air Force public statement that unknowns were unimportant was made under a regulation forbidding discussion of them.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-e38b67d35a": {
+   "endpoints": [
+    {
+     "id": "charles-p-cabell",
+     "label": "Gen. Charles P. Cabell"
+    },
+    {
+     "id": "project-blue-book",
+     "label": "Project Blue Book"
+    }
+   ],
+   "id": "e-e38b67d35a",
+   "kind": "edge",
+   "label": "Air Force intelligence chief at Blue Book's creation",
+   "sources": [
+    {
+     "date": "2026-09-03",
+     "name": "FRUS 1950-1955, The Intelligence Community, List of Persons",
+     "url": "https://history.state.gov/historicaldocuments/frus1950-55Intel/persons"
+    }
+   ],
+   "text": "The edge exists to carry the correction: the office he held in March 1952 was USAF Director of Intelligence, not a CIA post, and the transcript that surfaced him has it the other way round.",
+   "tier": 1,
+   "type": "temporal"
+  },
+  "e-f254bc0f90": {
+   "endpoints": [
+    {
+     "id": "foreign-technology-division",
+     "label": "Foreign Technology Division, Wright-Patterson AFB"
+    },
+    {
+     "id": "project-blue-book",
+     "label": "Project Blue Book"
+    }
+   ],
+   "id": "e-f254bc0f90",
+   "kind": "edge",
+   "label": "Held the Blue Book effort by regulation from 19 September 1966",
+   "sources": [
+    {
+     "date": "1966-09-19",
+     "name": "AFR 80-17, 19 September 1966",
+     "url": "https://nicap.org/afr80-17.htm"
+    }
+   ],
+   "text": "AFR 80-17 assigns the Blue Book effort to FTD at Wright-Patterson, requires FTD to analyse every report not identified at base level, and requires FTD to write the final case report on each sighting.",
+   "tier": 1,
+   "type": "programmatic"
+  }
+ },
+ "claimed": [
+  {
+   "cite": [
+    "c-6d8b74d97e",
+    "c-6a161fb2f7",
+    "c-3f25efbff4"
+   ],
+   "text": "Ruppelt's 1956 book is the published origin of the account that a Top Secret 1948 Estimate of the Situation was rejected and destroyed by Gen. Vandenberg; the Condon Report, written under Air Force contract, later recorded the same. Ruppelt also wrote that under GRUDGE the project had been reduced to a token effort until he took charge."
+  },
+  {
+   "cite": [
+    "c-28c623b312",
+    "c-2c3d8cc9a8",
+    "e-a2e93082a2"
+   ],
+   "text": "Hynek stated in the late 1960s and in his 1972 book that Blue Book had become a public relations exercise with little or no research by the scientific method. By his own later account, his March 1966 swamp gas explanation was offered for only some cases and was reported as a blanket dismissal, and the board records that the backlash led to Gerald Ford's demand for hearings."
+  },
+  {
+   "cite": [
+    "c-13407089f6"
+   ],
+   "text": "McDonald concluded, after reviewing Blue Book case files, that the programme was not conducting genuine scientific investigation."
+  },
+  {
+   "cite": [
+    "c-2d4169e20f",
+    "c-909b2a63ba",
+    "c-2a57a4f73b",
+    "e-cdf7e07908",
+    "c-1cf6a05a6c"
+   ],
+   "text": "The Pentacle memorandum of 9 January 1953, as transcribed by CUFON, is addressed under Project Stork to Miles E. Goll at Wright-Patterson and proposes controlled experiments in high-report areas in which many types of aerial activity would be secretly and purposefully scheduled. It reached the public through Jacques Vallee, who found it in 1967 among Hynek's papers and published an account in 1992 under the codename Pentacle; H. C. Cross of Battelle was identified as the author later."
+  },
+  {
+   "cite": [
+    "c-6787d85102",
+    "e-748a157dea"
+   ],
+   "text": "Vallee holds that the Robertson Panel, which met five days after the memorandum was written, was never briefed on its proposals, and that another group had already decided what the panel could discuss."
+  },
+  {
+   "cite": [
+    "c-3770c161f2"
+   ],
+   "text": "UAP Gerb alleges, in a video investigation published in February 2024, that Battelle worked with the government and the Air Force from the 1950s to build a machine index of UFO reports and to quell public interest."
+  },
+  {
+   "cite": [
+    "c-5ba1948f36",
+    "e-956bb67739",
+    "c-11440a1ad4"
+   ],
+   "text": "On the board's reading, a mandatory reporting duty under criminal penalty running beside a public programme that called the subject unimportant is a two-track structure, so Blue Book's 12,618 sightings describe only what the public channel kept. This is inference, and the board notes that no records series for the JANAP 146 reports has ever been identified or accessioned."
+  },
+  {
+   "cite": [
+    "c-5884851555",
+    "e-0cc4acb08e",
+    "c-f9f90389bf",
+    "e-acd43d41ac"
+   ],
+   "text": "The board also infers that AFR 200-2 turned the Robertson Panel's debunking recommendation into binding regulation within months, and that the MOON DUST retrieval tasking outlived Blue Book, leaving a recovery capability after the investigative one was closed. Both are stated inferences, not documents."
+  },
+  {
+   "cite": [
+    "c-264a9245e3",
+    "c-fe034b76a0"
+   ],
+   "text": "The board reads Special Report No. 14's summary, which called extraterrestrial origin highly improbable while its tables showed the unknown share rising with report quality, as an editorial conclusion laid over the analysis. That is the board's inference from the report against itself."
+  }
+ ],
+ "contested": [
+  {
+   "cite": [
+    "c-bfe7c31ee3",
+    "c-626b22f8d5",
+    "c-0fc3700724"
+   ],
+   "text": "The Air Force's own case for closing it was that no reported UFO was ever an indication of a threat to national security, that nothing showed technology beyond current scientific knowledge, and that nothing showed unidentified sightings to be extraterrestrial vehicles; the Grudge Report before it had put UFO reports down to misinterpretation of conventional objects, mass hysteria, hoaxes and psychological factors. The National Academy of Sciences panel that reviewed the Colorado study found extraterrestrial visitation the least likely explanation."
+  },
+  {
+   "cite": [
+    "c-8c2a9eb082",
+    "c-decd947291"
+   ],
+   "text": "The CIA's history offers a conventional explanation for much of the residue: later CIA estimates attributed over half of UFO reports from the late 1950s through the 1960s to manned reconnaissance flights, and it gives the Air Force's unexplained share as falling to 5.9 per cent in 1955 and 4 per cent in 1956. John Ramirez attributed a figure of one in ten to the article on Area 52; the article does not carry that figure."
+  },
+  {
+   "cite": [
+    "e-d9eca79c62",
+    "c-2d4169e20f",
+    "c-1cf6a05a6c"
+   ],
+   "text": "No signed original of the Pentacle memorandum has ever been produced by the Air Force or by Battelle, and its date, reference, marking and addressee are carried on the board only at Tier 2."
+  },
+  {
+   "cite": [
+    "c-d7bb70911e"
+   ],
+   "text": "Jesse Michels said on two 2025 episodes of his programme that the Pentacle memo could not be raised around the Robertson Panel. Both tellings are the same speaker, neither cites a document for the instruction, and the board does not carry it."
+  },
+  {
+   "cite": [
+    "e-a03abd6c70",
+    "e-5091e6585a",
+    "c-c376a4adbb"
+   ],
+   "text": "Special Report No. 14's own summary says it was prepared by a panel of scientists both in and out of the Air Force, and a full-text scan of the released copy finds no Battelle, Columbus or Memorial Institute. The Battelle attribution the literature treats as standard is carried at Tier 2 on the Battelle edge for that reason, and rests on the Stork status reports."
+  },
+  {
+   "cite": [
+    "c-c004dd1cb4"
+   ],
+   "text": "Ruppelt added sceptical chapters to the 1960 edition of his book shortly before his death, reversing the tone of the 1956 first edition, and no record explains why."
+  },
+  {
+   "cite": [
+    "c-96180ce2ed"
+   ],
+   "text": "The figures often quoted as MOON DUST recoveries are notifications of deorbit received, not objects recovered; the unit histories count notifications, and recovery is a separate act that neither document counts."
+  },
+  {
+   "cite": [
+    "c-29d7e08515"
+   ],
+   "text": "JANAP 146 states no fine and no prison term. The $10,000 figure often attached to it belongs to 18 U.S.C. 793, which the publication incorporates."
+  },
+  {
+   "cite": [
+    "e-e38b67d35a",
+    "e-6a9d4d46ea"
+   ],
+   "text": "A transcript that surfaced Gen. Charles P. Cabell gave him a CIA post at Blue Book's creation; the FRUS persons list shows that in March 1952 he was USAF Director of Intelligence."
+  }
+ ],
  "essays": [],
  "focusEra": "0",
  "id": "blue-book",
  "kind": "programme",
- "lead": null,
- "members": [],
+ "lead": {
+  "cite": [
+   "e-4cb9a68112",
+   "e-8c95e3352e",
+   "c-d4e3288d32",
+   "c-c184d9c2d3",
+   "e-c134213fa8"
+  ],
+  "text": "Project Blue Book was the US Air Force's public UFO investigation, the successor to GRUDGE from March 1952, and it was terminated on 17 December 1969 with 12,618 sightings recorded, of which 701 remained unidentified. The general who recommended closing it wrote that reports which could affect national security were made under JANAP 146 or AFM 55-11 and were not part of the Blue Book system."
+ },
+ "members": [
+  {
+   "cls": "program",
+   "id": "project-blue-book",
+   "label": "Project Blue Book",
+   "role": "subject"
+  },
+  {
+   "cls": "program",
+   "id": "project-grudge",
+   "label": "Project GRUDGE",
+   "role": "programme"
+  },
+  {
+   "cls": "program",
+   "id": "project-sign",
+   "label": "Project SIGN",
+   "role": "programme"
+  },
+  {
+   "cls": "program",
+   "id": "project-stork",
+   "label": "Project Stork (Project White Stork)",
+   "role": "programme"
+  },
+  {
+   "cls": "document",
+   "id": "blue-book-special-report-14",
+   "label": "Project Blue Book Special Report No. 14",
+   "role": "document"
+  },
+  {
+   "cls": "document",
+   "id": "afr-200-2",
+   "label": "Air Force Regulation 200-2",
+   "role": "law"
+  },
+  {
+   "cls": "document",
+   "id": "janap-146",
+   "label": "JANAP 146 (CIRVIS/MERINT reporting)",
+   "role": "law"
+  },
+  {
+   "cls": "document",
+   "id": "bolender-memo",
+   "label": "Bolender Memorandum",
+   "role": "document"
+  },
+  {
+   "cls": "person",
+   "id": "carroll-bolender",
+   "label": "Carroll H. Bolender",
+   "role": "official"
+  },
+  {
+   "cls": "person",
+   "id": "edward-ruppelt",
+   "label": "Edward J. Ruppelt",
+   "role": "official"
+  },
+  {
+   "cls": "person",
+   "id": "j-allen-hynek",
+   "label": "J. Allen Hynek",
+   "role": "researcher"
+  },
+  {
+   "cls": "event",
+   "id": "washington-flap-1952",
+   "label": "1952 Washington DC Sightings",
+   "role": "event"
+  },
+  {
+   "cls": "person",
+   "id": "h-marshall-chadwell",
+   "label": "H. Marshall Chadwell",
+   "role": "official"
+  },
+  {
+   "cls": "person",
+   "id": "walter-bedell-smith",
+   "label": "Walter Bedell Smith",
+   "role": "official"
+  },
+  {
+   "cls": "document",
+   "id": "pentacle-memorandum",
+   "label": "The Pentacle Memorandum",
+   "role": "document"
+  },
+  {
+   "cls": "person",
+   "id": "howard-c-cross",
+   "label": "Howard C. Cross",
+   "role": "contractor"
+  },
+  {
+   "cls": "institution",
+   "id": "battelle",
+   "label": "Battelle Memorial Institute",
+   "role": "contractor"
+  },
+  {
+   "cls": "location",
+   "id": "l-columbus-oh",
+   "label": "Columbus, Ohio",
+   "role": "place"
+  },
+  {
+   "cls": "institution",
+   "id": "atic",
+   "label": "Air Technical Intelligence Center",
+   "role": "institution"
+  },
+  {
+   "cls": "institution",
+   "id": "foreign-technology-division",
+   "label": "Foreign Technology Division, Wright-Patterson AFB",
+   "role": "institution"
+  },
+  {
+   "cls": "location",
+   "id": "l-wright-patterson",
+   "label": "Wright-Patterson Air Force Base, Ohio",
+   "role": "place"
+  },
+  {
+   "cls": "institution",
+   "id": "usaf",
+   "label": "United States Air Force",
+   "role": "institution"
+  },
+  {
+   "cls": "person",
+   "id": "nathan-twining",
+   "label": "Nathan F. Twining",
+   "role": "official"
+  },
+  {
+   "cls": "person",
+   "id": "charles-p-cabell",
+   "label": "Gen. Charles P. Cabell",
+   "role": "official"
+  },
+  {
+   "cls": "program",
+   "id": "robertson-panel",
+   "label": "Robertson Panel",
+   "role": "programme"
+  },
+  {
+   "cls": "document",
+   "id": "haines-cia-history",
+   "label": "A Die-hard Issue: CIA's Role in the Study of UFOs, 1947-1990",
+   "role": "document"
+  },
+  {
+   "cls": "program",
+   "id": "condon-committee",
+   "label": "University of Colorado UFO Project (Condon Committee)",
+   "role": "programme"
+  },
+  {
+   "cls": "event",
+   "id": "hearing-1966-04-05",
+   "label": "House Armed Services Committee UFO Hearing",
+   "role": "event"
+  },
+  {
+   "cls": "person",
+   "id": "james-mcdonald",
+   "label": "James E. McDonald",
+   "role": "investigator"
+  },
+  {
+   "cls": "institution",
+   "id": "nicap",
+   "label": "National Investigations Committee on Aerial Phenomena (NICAP)",
+   "role": "institution"
+  },
+  {
+   "cls": "institution",
+   "id": "nara-uap-collection",
+   "label": "National Archives Unidentified Anomalous Phenomena Records Collection",
+   "role": "institution"
+  },
+  {
+   "cls": "program",
+   "id": "project-moon-dust",
+   "label": "Project MOON DUST",
+   "role": "programme"
+  },
+  {
+   "cls": "document",
+   "id": "doc-minot-1968-blue-book",
+   "label": "Project Blue Book case file, Minot AFB, 24 October 1968",
+   "role": "document"
+  },
+  {
+   "cls": "document",
+   "id": "gerb-battelle-investigation",
+   "label": "UAP Gerb - Battelle Memorial Institute investigation",
+   "role": "document"
+  },
+  {
+   "cls": "institution",
+   "id": "cometa",
+   "label": "COMETA - Comité d'Études Approfondies",
+   "role": "institution"
+  },
+  {
+   "cls": "document",
+   "id": "estimate-of-the-situation",
+   "label": "Estimate of the Situation (1948)",
+   "role": "document"
+  }
+ ],
  "notes": "A provincial hub: most of Blue Book's neighbours sit inside its own community. The Battelle work for it (Special Report 14, Stork, the Pentacle memo) is here; Battelle's later custody story is its own topic.",
- "questions": [],
- "record": [],
- "related": [],
+ "questions": [
+  "What did the JANAP 146 and AFM 55-11 channel actually produce, where were those reports filed, and has any archive ever named them as a series?",
+  "Has anyone checked the wording quoted from the Bolender memorandum against the scan itself, which carries no machine-readable text?",
+  "Why did Ruppelt add sceptical chapters to the 1960 edition, and was the reversal his own?",
+  "Were the Pentacle proposals ever put to the Robertson Panel, and does a signed original of the memorandum exist in Air Force or Battelle files?",
+  "Where are the Project Stork status reports after November 1952 that the surviving seven refer to?",
+  "Has the Special Report No. 14 case data ever been reanalysed by anyone independent of the Air Force and its contractor?"
+ ],
+ "record": [
+  {
+   "cite": [
+    "c-d4e3288d32",
+    "c-01e7396e2b"
+   ],
+   "text": "The Air Force's fact sheet and the National Archives both record 12,618 sightings reported to Blue Book from 1947 to 1969, of which 701 remain unidentified, and the fact sheet dates its termination to 17 December 1969."
+  },
+  {
+   "cite": [
+    "c-8a730bdf60",
+    "c-6dfd6d4bec"
+   ],
+   "text": "Blue Book's administrative records name its directors as Edward J. Ruppelt, Charles Hardin, George T. Gregory, Robert J. Friend and Hector Quintanilla. Ruppelt's tenure, March 1952 to August 1953, covered the Washington flap and the Robertson Panel."
+  },
+  {
+   "cite": [
+    "c-4ef0ce2509",
+    "c-dec94b8042",
+    "c-e20c0aa1ea"
+   ],
+   "text": "The Project Stork status reports identify the contract as AF-19741, designation PPS-100, running from 31 March 1952, with duties that included providing a panel of consultants, improving interrogation forms and analysing existing sighting reports. Seven reports of 1952 survive, all addressed to ATIC, and the holding archive notes that they are not the whole of what Stork produced."
+  },
+  {
+   "cite": [
+    "c-3053385594"
+   ],
+   "text": "Only one status report, of 7 July 1952, carries Battelle's name typed and not struck out; in most released copies the contractor's name is crossed out and supplied by hand."
+  },
+  {
+   "cite": [
+    "c-6d7775681d",
+    "c-5c8e17f022",
+    "e-c46cc80ccf"
+   ],
+   "text": "Special Report No. 14 was issued by ATIC on 5 May 1955 under Project 10073. Of about 4,000 reports collected, its final study covered 2,199 objects, of which 434, or 19.7 per cent, were evaluated as Unknown, and the unknown rate was higher the better the report quality."
+  },
+  {
+   "cite": [
+    "c-861321d9dc",
+    "c-e38f485a87"
+   ],
+   "text": "The report does not name Battelle or any contractor anywhere on its own face; the attribution rests on the Stork status reports and the surrounding file."
+  },
+  {
+   "cite": [
+    "c-1cf77ca7fd",
+    "c-045c3b844c",
+    "c-1dbf5bcc56",
+    "c-eac3d0b2c5"
+   ],
+   "text": "AFR 200-2 of 26 August 1953, signed by Twining as Chief of Staff, allowed an identified case to be released as identified but withheld names of principals, Air Force comments, intercept procedures and classified radar data. The 12 August 1954 edition says that for objects which are not explainable, only the fact that ATIC will analyse the data is worthy of release."
+  },
+  {
+   "cite": [
+    "c-277dd08765"
+   ],
+   "text": "The same regulation ordered all evidence forwarded to ATIC, and directed units holding materiel to safeguard it against alteration and to ask ATIC for shipping instructions."
+  },
+  {
+   "cite": [
+    "c-d38a2907a1",
+    "c-8875d910d9",
+    "c-138ed866d4"
+   ],
+   "text": "JANAP 146(C) of 10 March 1954 required airborne personnel to report unidentified flying objects in flight under CIRVIS, and prohibited unauthorised revelation of the contents of MERINT reports, pointing to 18 U.S. Code sections 793 and 794. The 146(E) edition, with its change of 17 May 1977, still listed UFOs as reportable eight years after Blue Book closed."
+  },
+  {
+   "cite": [
+    "c-937c84ed51",
+    "c-c184d9c2d3",
+    "c-c6eb0265ed",
+    "e-c134213fa8"
+   ],
+   "text": "Brig. Gen. C. H. Bolender, USAF Deputy Director of Development, signed a memorandum of 20 October 1969 recommending termination; it states that UFO reports which could affect national security are made under JANAP 146 or AFM 55-11 and are not part of the Blue Book system. The project closed two months later."
+  },
+  {
+   "cite": [
+    "c-56af594031",
+    "c-38a57c6bd4",
+    "c-31488bca3d",
+    "e-771646ed71"
+   ],
+   "text": "The July 1952 Washington sightings took the problem to the CIA: the Office of Scientific Intelligence recorded 250 official reports that month alone, and H. Marshall Chadwell wrote to the Director of Central Intelligence that the situation carried national security implications, which led to the January 1953 Robertson Panel."
+  },
+  {
+   "cite": [
+    "c-c747574d4d"
+   ],
+   "text": "Blue Book case documentation for the 19 July 1952 Washington radar events survives in the declassified record."
+  },
+  {
+   "cite": [
+    "c-8f395c3411",
+    "c-52b1c4c345",
+    "e-5622f47f71"
+   ],
+   "text": "The CIA's own history states that Blue Book investigators aware of the secret U-2 flights tried to explain such sightings away by linking them to natural phenomena, and were careful not to reveal the true cause to the public, and that the Air Force made misleading and deceptive statements to protect a sensitive national security project."
+  },
+  {
+   "cite": [
+    "c-30ac5bc3f0",
+    "c-06ff8536c6",
+    "c-d6ae9dea74",
+    "e-f254bc0f90"
+   ],
+   "text": "From 19 September 1966 AFR 80-17 placed the Blue Book effort in the Foreign Technology Division at Wright-Patterson, which was to analyse every report not identified at base level and write the final case report on each. A Scientific Advisory Board committee that year put the whole programme's resources at one officer, a sergeant and a secretary."
+  },
+  {
+   "cite": [
+    "e-cc98b4a6e5"
+   ],
+   "text": "A surviving example is the Minot AFB file of October and November 1968, whose final case report of 13 November 1968 records the Foreign Technology Division's conclusions on the data sent from Minot."
+  },
+  {
+   "cite": [
+    "c-1f4d870941",
+    "c-55bd5f8627",
+    "c-0429adb622",
+    "e-b422591362"
+   ],
+   "text": "Hynek and the atmospheric physicist James E. McDonald both testified at the House Committee on Science and Astronautics symposium of 29 July 1968, where McDonald said that credible observers were seeing relatively incredible objects and that the subject deserved serious science."
+  },
+  {
+   "cite": [
+    "c-f347e667d4",
+    "e-ddf66cd1bc",
+    "e-7ddd01f57e"
+   ],
+   "text": "The congressional hearing of 5 April 1966 was followed six months later by the Air Force's contract with the University of Colorado, which the Air Force later cited, with a National Academy of Sciences review, in ending Blue Book."
+  },
+  {
+   "cite": [
+    "c-b08d43c896",
+    "e-b15d55bc2b"
+   ],
+   "text": "NICAP's 1964 volume, sent to every Member of Congress, listed on its board Dewey Fournet Jr., described as the former Air Force headquarters monitor of Project Blue Book."
+  },
+  {
+   "cite": [
+    "c-b70e857b46",
+    "c-34ce9589cc",
+    "e-c75770f416"
+   ],
+   "text": "The National Archives holds about 37 cubic feet of case files with administrative and Office of Special Investigations records on 94 rolls of microfilm, T-1206, and states that it has been unable to locate any Blue Book document discussing the 1947 incident at Roswell."
+  },
+  {
+   "cite": [
+    "e-83b2914e70"
+   ],
+   "text": "Blue Book's taxonomy outlived it: COMETA, a committee of retired French flag officers, labels its strangest cases by the classification Hynek proposed within the Blue Book project."
+  }
+ ],
+ "related": [
+  "sign-estimate",
+  "robertson-cia-1953",
+  "condon-1966-69",
+  "wright-patterson-ftd",
+  "battelle-nitinol",
+  "classification-orders",
+  "civilian-groups",
+  "records-collection",
+  "official-explanations",
+  "nuclear-missiles-1960s",
+  "denial-ledger"
+ ],
  "section": "early-record",
  "span": {
   "from": "1952",
   "to": "1970"
  },
- "status": "draft",
- "summary": [],
+ "status": "verified",
+ "summary": [
+  {
+   "cite": [
+    "c-d069fdd870",
+    "e-4cb9a68112",
+    "c-a6c4689344"
+   ],
+   "text": "Blue Book was the third of the Air Force's UFO projects: SIGN became GRUDGE on 11 February 1949, and GRUDGE, reconstituted under Edward Ruppelt in late 1951, was renamed Blue Book in March 1952. All three were hosted at Wright-Patterson under Air Materiel Command intelligence and its successor ATIC."
+  },
+  {
+   "cite": [
+    "c-8a730bdf60",
+    "c-9dda1a6777"
+   ],
+   "text": "It had five directors, from Ruppelt in 1952-1953 to Hector Quintanilla in 1963-1969, and a scientific consultant throughout, the astronomer J. Allen Hynek, who had served SIGN and GRUDGE before it."
+  },
+  {
+   "cite": [
+    "c-098cbbe6ca",
+    "e-df88883aa7",
+    "e-bd9b6d6043"
+   ],
+   "text": "Its statistical analysis was contracted to Battelle Memorial Institute under the designation Project Stork and published as Special Report No. 14 in 1955, and what it could say in public was governed by AFR 200-2, while JANAP 146 ran a separate mandatory reporting channel outside it."
+  },
+  {
+   "cite": [
+    "c-9fd7e805b6",
+    "c-77ecbf43b2"
+   ],
+   "text": "The Secretary of the Air Force ended it on 17 December 1969, relying on the University of Colorado study and a National Academy of Sciences review of it, and its records went permanently to the National Archives as 94 rolls of microfilm."
+  }
+ ],
  "title": "Project Blue Book, 1952-1969"
 }

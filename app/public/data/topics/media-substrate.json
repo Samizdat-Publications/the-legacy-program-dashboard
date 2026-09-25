@@ -21,25 +21,3010 @@
   "the-hill"
  ],
  "appendixT": "media-substrate",
- "cites": {},
- "claimed": [],
- "contested": [],
+ "cites": {
+  "c-0790deb5d0": {
+   "id": "c-0790deb5d0",
+   "kind": "claim",
+   "node": "corbell-lazar-2018",
+   "nodeLabel": "Bob Lazar: Area 51 and Flying Saucers (2018)",
+   "source": {
+    "domain": "letterboxd.com",
+    "text": "Letterboxd record, https://letterboxd.com/film/bob-lazar-area-51-and-flying-saucers/ , opened 2026-09-18",
+    "url": "https://letterboxd.com/film/bob-lazar-area-51-and-flying-saucers/"
+   },
+   "text": "The artefact: 'Bob Lazar: Area 51 and Flying Saucers', 2018, 97 minutes, directed by Jeremy Kenyon Lockyer Corbell, narrated by Mickey Rourke, featuring Bob Lazar, George Knapp and Joy White.",
+   "tier": 1
+  },
+  "c-0995c26e6e": {
+   "id": "c-0995c26e6e",
+   "kind": "claim",
+   "node": "tim-mcmillan",
+   "nodeLabel": "Tim McMillan",
+   "source": {
+    "domain": null,
+    "text": "The Debrief, About page, retrieved 12 August 2026",
+    "url": null
+   },
+   "text": "Tim McMillan is a co-founder and Executive Director of The Debrief; Micah Hanks is co-founder and Editor-in-Chief; MJ Banias is co-founder and Content Director.",
+   "tier": 1
+  },
+  "c-169ab63052": {
+   "id": "c-169ab63052",
+   "kind": "claim",
+   "node": "michels-gerb-structural-episode",
+   "nodeLabel": "'The Pentagon's UFO Program Is Real [Here's How It Works!]'",
+   "source": {
+    "domain": null,
+    "text": "Episode description, 11 January 2026",
+    "url": null
+   },
+   "text": "The description states former Vice President Dick Cheney is implicated in the American UFO reverse engineering program.",
+   "tier": 2
+  },
+  "c-22de0bb4da": {
+   "id": "c-22de0bb4da",
+   "kind": "claim",
+   "node": "michael-shellenberger",
+   "nodeLabel": "Michael Shellenberger",
+   "source": {
+    "domain": null,
+    "text": "Micah Hanks, The Debrief, 'Immaculate Constellation: UAP Bombshell or Disinformation?', 17 October 2024",
+    "url": null
+   },
+   "text": "Shellenberger reported the allegations of an alleged US government insider who claims they discovered evidence of an unacknowledged special access program codenamed 'Immaculate Constellation' that has been secretly collecting data on UAP encounters.",
+   "tier": 2
+  },
+  "c-23aaa1b22b": {
+   "id": "c-23aaa1b22b",
+   "kind": "claim",
+   "node": "corbell-lazar-2018",
+   "nodeLabel": "Bob Lazar: Area 51 and Flying Saucers (2018)",
+   "source": {
+    "domain": "www.vice.com",
+    "text": "Tim McMillan, Vice, 13 November 2019, https://www.vice.com/en/article/bob-lazar-says-the-fbi-raided-him-to-seize-area-51s-alien-fuel-the-truth-is-weirder/ , opened 2026-09-18",
+    "url": "https://www.vice.com/en/article/bob-lazar-says-the-fbi-raided-him-to-seize-area-51s-alien-fuel-the-truth-is-weirder/"
+   },
+   "text": "It is the route by which the 19 July 2017 search of United Nuclear Scientific entered the UFO literature. Tim McMillan's 2019 reporting, which established that the search was an agency assist to a homicide investigation into a thallium death, describes the motivation for the records request as the discussion of the raid in this documentary.",
+   "tier": 2
+  },
+  "c-2404414528": {
+   "id": "c-2404414528",
+   "kind": "claim",
+   "node": "george-knapp",
+   "nodeLabel": "George Knapp",
+   "source": {
+    "domain": null,
+    "text": "CHRG-119hhrg61718, 9 September 2025",
+    "url": null
+   },
+   "text": "Asked by Rep. Begich to name gatekeepers: 'one of them was named Dr. James Ryder at Lockheed'; and, separately, 'Glenn Gaffney, CIA.'",
+   "tier": 2
+  },
+  "c-29845700c5": {
+   "id": "c-29845700c5",
+   "kind": "claim",
+   "node": "d-media",
+   "nodeLabel": "Independent media as the disclosure substrate",
+   "source": {
+    "domain": null,
+    "text": "Inference from the monetisation disclosed in the episode descriptions themselves.",
+    "url": null
+   },
+   "text": "The commercial structure of independent long-form media - sponsorship reads, membership tiers, merchandise and tour revenue attached to episodes making structural allegations - creates an escalation incentive that must be weighed against the format's genuine advantage in allowing claims to be laid out at length and indexed.",
+   "tier": 3
+  },
+  "c-2e97952b57": {
+   "id": "c-2e97952b57",
+   "kind": "claim",
+   "node": "michels-gerb-structural-episode",
+   "nodeLabel": "'The Pentagon's UFO Program Is Real [Here's How It Works!]'",
+   "source": {
+    "domain": null,
+    "text": "Episode description, American Alchemy, 11 January 2026",
+    "url": null
+   },
+   "text": "The episode asserts the effort is a layered, compartmentalized system descended from the Manhattan Project, the Atomic Energy Commission and Cold War intelligence structures - not a single program.",
+   "tier": 2
+  },
+  "c-36a28d1773": {
+   "id": "c-36a28d1773",
+   "kind": "claim",
+   "node": "the-intercept",
+   "nodeLabel": "The Intercept",
+   "source": {
+    "domain": null,
+    "text": "theintercept.com/about",
+    "url": null
+   },
+   "text": "The Intercept was established in 2014 as an investigative journalism organisation focused on national security, civil liberties, criminal justice, politics and technology, self-described as investigating powerful individuals and institutions to expose corruption and injustice.",
+   "tier": 1
+  },
+  "c-38a2d16a4b": {
+   "id": "c-38a2d16a4b",
+   "kind": "claim",
+   "node": "national-press-club-2001",
+   "nodeLabel": "Disclosure Project press conference, National Press Club, 9 May 2001",
+   "source": {
+    "domain": "abcnews.com",
+    "text": "ABC News, 'Group Calls for Disclosure of UFO Info', 9 May 2001, 2:35 PM, https://abcnews.com/Technology/story?id=98572&page=1 , opened 2026-09-19",
+    "url": "https://abcnews.com/Technology/story?id=98572&page=1"
+   },
+   "text": "ABC News, reporting on the day under the headline 'Group Calls for Disclosure of UFO Info', 9 May 2001: Steven Greer 'organized the program at the National Press Club in Washington', at which about 20 former government workers, many of them military and security officials, came forward.",
+   "tier": 1
+  },
+  "c-3f06578c09": {
+   "id": "c-3f06578c09",
+   "kind": "claim",
+   "node": "the-intercept",
+   "nodeLabel": "The Intercept",
+   "source": {
+    "domain": null,
+    "text": "theintercept.com/about",
+    "url": null
+   },
+   "text": "It operates as a non-profit funded primarily by reader and listener donations, accepts no advertising, and publishes impact reports and audited financial statements; leadership listed as editor-in-chief Ben Muessig and CEO Annie Chabel.",
+   "tier": 1
+  },
+  "c-4443600953": {
+   "id": "c-4443600953",
+   "kind": "claim",
+   "node": "john-greenewald",
+   "nodeLabel": "John Greenewald Jr.",
+   "source": {
+    "domain": "www.theblackvault.com",
+    "text": "The Black Vault case file, 'The Vault Files: 1986 Alaska JAL Flight 1628', John Greenewald Jr., https://www.theblackvault.com/casefiles/the-vault-files-1986-alaska-jal-flight-1628/ , opened 2026-09-19",
+    "url": "https://www.theblackvault.com/casefiles/the-vault-files-1986-alaska-jal-flight-1628/"
+   },
+   "text": "He publishes the FAA's letter of 27 June 2001 responding to his request: 'all documents pertaining to this UFO sighting will be destroyed in 30 days from the date of this letter.' A follow-up request in 2009 was answered with the statement that the records had been destroyed.",
+   "tier": 1
+  },
+  "c-46bc64290f": {
+   "id": "c-46bc64290f",
+   "kind": "claim",
+   "node": "immaculate-constellation",
+   "nodeLabel": "Immaculate Constellation disclosure, October-November 2024",
+   "source": {
+    "domain": null,
+    "text": "US GPO, CHRG-118hhrg57440, Index of Documents",
+    "url": null
+   },
+   "text": "The hearing's Index of Documents records 'Report, Pentagon, Immaculate Constellation; submitted by Rep. Mace.'",
+   "tier": 1
+  },
+  "c-4a5485ad49": {
+   "id": "c-4a5485ad49",
+   "kind": "claim",
+   "node": "the-debrief",
+   "nodeLabel": "The Debrief",
+   "source": {
+    "domain": null,
+    "text": "The Debrief archive, retrieved 12 August 2026",
+    "url": null
+   },
+   "text": "The Debrief has published sustained coverage of the disclosure fight including 'Immaculate Constellation: UAP Bombshell or Disinformation?', 'The 2024 AARO Report', 'Where The Second UAP Disclosure Act Failure May Now Steer The Ark of Human History' and 'Former Officials Warn Lawmakers of Alleged Secret UAP Programs Operating Beyond Congressional Oversight'.",
+   "tier": 1
+  },
+  "c-4abc42a8c5": {
+   "id": "c-4abc42a8c5",
+   "kind": "claim",
+   "node": "micah-hanks",
+   "nodeLabel": "Micah Hanks",
+   "source": {
+    "domain": null,
+    "text": "The Debrief byline and dateline, 17 October 2024",
+    "url": null
+   },
+   "text": "Hanks authored The Debrief's 17 October 2024 report on Immaculate Constellation.",
+   "tier": 1
+  },
+  "c-4b84cf75ed": {
+   "id": "c-4b84cf75ed",
+   "kind": "claim",
+   "node": "george-knapp",
+   "nodeLabel": "George Knapp",
+   "source": {
+    "domain": "otherhand.org",
+    "text": "Las Vegas Review-Journal, 19 June 1990, p 8B, reprinted at https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/lv-review-journal-6-19-1990/ , opened 2026-09-18",
+    "url": "https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/lv-review-journal-6-19-1990/"
+   },
+   "text": "CONTEMPORANEOUS CONFIRMATION OF THE 1989 REPORTING. A Las Vegas Review-Journal report of 19 June 1990, page 8B, by Warren Bates, records that 'Lazar was the focal point for much of KLAS-TV, Channel 8 reporter George Knapp's award winning series'. This is the only contemporaneous documentary confirmation opened by this session that the 1989 Lazar broadcasts happened at all.",
+   "tier": 1
+  },
+  "c-4f0af23f68": {
+   "id": "c-4f0af23f68",
+   "kind": "claim",
+   "node": "ross-coulthart",
+   "nodeLabel": "Ross Coulthart",
+   "source": {
+    "domain": null,
+    "text": "NewsNation Reality Check episode description, 4 August 2026",
+    "url": null
+   },
+   "text": "In the same episode Gerb alleged to Coulthart directed-energy attacks on people close to the program, civilian aircraft downed by EMP weapons during craft-recovery operations, and an alleged murder.",
+   "tier": 2
+  },
+  "c-55734bd54d": {
+   "id": "c-55734bd54d",
+   "kind": "claim",
+   "node": "micah-hanks",
+   "nodeLabel": "Micah Hanks",
+   "source": {
+    "domain": null,
+    "text": "The Debrief, About page, retrieved 12 August 2026",
+    "url": null
+   },
+   "text": "Micah Hanks is Co-Founder/Creator and Editor-in-Chief of The Debrief.",
+   "tier": 1
+  },
+  "c-5b50718005": {
+   "id": "c-5b50718005",
+   "kind": "claim",
+   "node": "george-knapp",
+   "nodeLabel": "George Knapp",
+   "source": {
+    "domain": null,
+    "text": "George Knapp, sworn testimony, House Oversight Task Force on the Declassification of Federal Secrets, 9 September 2025",
+    "url": null
+   },
+   "text": "'I have confirmed on the record that Robert Bigelow and a trusted colleague from AAWSAP met with and negotiated with senior executives at Lockheed Martin and hammered out a deal wherein Bigelow's company, BAASS, would receive a quantity of unusual material that had been stashed away and protected at a facility in California. That material was not made here.'",
+   "tier": 2
+  },
+  "c-5eab078062": {
+   "id": "c-5eab078062",
+   "kind": "claim",
+   "node": "the-hill",
+   "nodeLabel": "The Hill",
+   "source": {
+    "domain": null,
+    "text": "The Hill search index, retrieved 12 August 2026",
+    "url": null
+   },
+   "text": "The Hill has published a run of UAP opinion pieces in its national security and technology sections, with live URLs confirmed via The Hill's own search index.",
+   "tier": 1
+  },
+  "c-67ffb4cf08": {
+   "id": "c-67ffb4cf08",
+   "kind": "claim",
+   "node": "george-knapp",
+   "nodeLabel": "George Knapp",
+   "source": {
+    "domain": null,
+    "text": "CHRG-119hhrg61718 CONTENTS",
+    "url": null
+   },
+   "text": "Witness of record at the 9 September 2025 hearing: 'Mr. George Knapp, UAP Journalist'.",
+   "tier": 1
+  },
+  "c-6ae89a86ac": {
+   "id": "c-6ae89a86ac",
+   "kind": "claim",
+   "node": "michael-shellenberger",
+   "nodeLabel": "Michael Shellenberger",
+   "source": {
+    "domain": null,
+    "text": "Michael Shellenberger, sworn testimony, 13 November 2024",
+    "url": null
+   },
+   "text": "'Immaculate Constellation serves as a central or parent USAP that consolidates observations of UAPs by both tasked and untasked collection platforms.'",
+   "tier": 2
+  },
+  "c-6b202c77d5": {
+   "id": "c-6b202c77d5",
+   "kind": "claim",
+   "node": "george-knapp",
+   "nodeLabel": "George Knapp",
+   "source": {
+    "domain": null,
+    "text": "George Knapp, quoted by Christopher Sharp, Liberation Times, 28 February 2023; repeated in sworn testimony 9 September 2025",
+    "url": null
+   },
+   "text": "Alfred O'Donnell, first general manager of EG&G in Nevada, told Knapp that 'they did have a flying saucer that had been recovered from New Mexico' and a 'live being.'",
+   "tier": 2
+  },
+  "c-746cf4f2fc": {
+   "id": "c-746cf4f2fc",
+   "kind": "claim",
+   "node": "michael-shellenberger",
+   "nodeLabel": "Michael Shellenberger",
+   "source": {
+    "domain": null,
+    "text": "CHRG-118hhrg57440 CONTENTS and statement of Rep. Mace",
+    "url": null
+   },
+   "text": "Witness of record at the 13 November 2024 House Oversight joint hearing: 'Mr. Michael Shellenberger, Founder of Public'. Chairwoman Mace stated on the record that the 12-page Pentagon document describing the unacknowledged special access program 'Immaculate Constellation' was the document 'that Michael Shellenberger brought today', and entered it into the record without objection.",
+   "tier": 1
+  },
+  "c-7beb8c1804": {
+   "id": "c-7beb8c1804",
+   "kind": "claim",
+   "node": "corbell-lazar-2018",
+   "nodeLabel": "Bob Lazar: Area 51 and Flying Saucers (2018)",
+   "source": {
+    "domain": "letterboxd.com",
+    "text": "Letterboxd record, https://letterboxd.com/film/bob-lazar-area-51-and-flying-saucers/ , opened 2026-09-18",
+    "url": "https://letterboxd.com/film/bob-lazar-area-51-and-flying-saucers/"
+   },
+   "text": "A CORRECTION TO THE DATE IN GENERAL CIRCULATION. Letterboxd lists three release dates across two territories and two formats: United States digital, 1 November 2018; United Kingdom physical, 4 December 2018; United States physical, 8 December 2018. The widely repeated '4 December 2018' is the United Kingdom physical date, not the release. IMDb returned HTTP 403 to this board on 18 September 2026 and no distributor record was opened, so the node asserts a range and not a single date.",
+   "tier": 1
+  },
+  "c-7c12ceacfd": {
+   "id": "c-7c12ceacfd",
+   "kind": "claim",
+   "node": "jeremy-corbell",
+   "nodeLabel": "Jeremy Kenyon Lockyer Corbell",
+   "source": {
+    "domain": "www.govinfo.gov",
+    "text": "CHRG-118hhrg53022, Rep. Burchett https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm",
+    "url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm"
+   },
+   "text": "Burchett on the record at that hearing: 'I know I saw out in the crowd there George Knapp, my buddy, Jeremy Corbell. They are not witnesses, but they have provided some statements on this subject, and I seek unanimous consent to enter those statements into the record.' The unanimous consent was granted without objection.",
+   "tier": 1
+  },
+  "c-819fcb217d": {
+   "id": "c-819fcb217d",
+   "kind": "claim",
+   "node": "ken-klippenstein",
+   "nodeLabel": "Ken Klippenstein",
+   "source": {
+    "domain": null,
+    "text": "The Intercept, 9 August 2023",
+    "url": null
+   },
+   "text": "Published Loudoun County Sheriff's Office records describing Grusch's 2014 and 2018 emergency custody episodes, obtained under Virginia FOIA.",
+   "tier": 1
+  },
+  "c-823ec63ce1": {
+   "id": "c-823ec63ce1",
+   "kind": "claim",
+   "node": "yankee-blue",
+   "nodeLabel": "YANKEE BLUE (alleged AFOSI indoctrination program)",
+   "source": {
+    "domain": null,
+    "text": "Wall Street Journal reporting, June 2025, as summarised in FOIA appeal filings",
+    "url": null
+   },
+   "text": "The Wall Street Journal reported in June 2025 that the practice convinced 'hundreds and hundreds of people' they were working on a reverse-engineering programme for alien technology, and that DNI Avril Haines was briefed and described as stunned.",
+   "tier": 2
+  },
+  "c-85fa8e6aa9": {
+   "id": "c-85fa8e6aa9",
+   "kind": "claim",
+   "node": "john-greenewald",
+   "nodeLabel": "John Greenewald Jr.",
+   "source": {
+    "domain": null,
+    "text": "The Black Vault document archive",
+    "url": null
+   },
+   "text": "Obtained and published the DD Form 1910 for the GoFast, Gimbal and FLIR files, the Tipton messaging emails, the Elizondo-Gough correspondence, and the TTSA CRADA-related FOIA denials.",
+   "tier": 1
+  },
+  "c-894a80ae6c": {
+   "id": "c-894a80ae6c",
+   "kind": "claim",
+   "node": "ken-klippenstein",
+   "nodeLabel": "Ken Klippenstein",
+   "source": {
+    "domain": null,
+    "text": "Rep. Nancy Mace, Task Force on the Declassification of Federal Secrets hearing, 9 September 2025",
+    "url": null
+   },
+   "text": "Members of Congress characterize the leak as retaliation: 'We know they did that to Mr. Grusch. They leaked his private medical information, horrific things.'",
+   "tier": 2
+  },
+  "c-8f4645bce9": {
+   "id": "c-8f4645bce9",
+   "kind": "claim",
+   "node": "jeremy-corbell",
+   "nodeLabel": "Jeremy Kenyon Lockyer Corbell",
+   "source": {
+    "domain": "www.govinfo.gov",
+    "text": "CHRG-118hhrg53022, Index of Documents https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm",
+    "url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm"
+   },
+   "text": "Corbell's report 'The UAP Puzzle' was entered into the record of the 26 July 2023 House Oversight hearing by Rep. Tim Burchett, and appears in the hearing's Index of Documents as 'Report, Jeremy Corbell, ``The UAP Puzzle''; submitted by Rep. Burchett.'",
+   "tier": 1
+  },
+  "c-941159a8b2": {
+   "id": "c-941159a8b2",
+   "kind": "claim",
+   "node": "michael-shellenberger",
+   "nodeLabel": "Michael Shellenberger",
+   "source": {
+    "domain": null,
+    "text": "Inference from the distinct provenance chains of the 2024 document and the 2025 claim",
+    "url": null
+   },
+   "text": "The Schriever attribution addresses a 2025 claimant's account of where he found the name; it does not by itself account for the 12-page document delivered in November 2024 or explain why no AARO product has ever addressed the name entered into the Record.",
+   "tier": 3
+  },
+  "c-99acb0f550": {
+   "id": "c-99acb0f550",
+   "kind": "claim",
+   "node": "john-lear",
+   "nodeLabel": "John Olsen Lear",
+   "source": {
+    "domain": "archive.org",
+    "text": "John Lear's Dec. 29, 1987 Statement, Internet Archive item uploaded by Rich Geldreich 10 June 2023, https://archive.org/details/john-lear-statement-1987 , opened 2026-09-18",
+    "url": "https://archive.org/details/john-lear-statement-1987"
+   },
+   "text": "HIS OWN CLAIM DOCUMENT IS DATED AND PRECEDES LAZAR. A statement by Lear dated 29 December 1987, originally a physical letter to the Borderland Sciences Research Foundation, survives in the BSRA/BSRF holdings at the Archives for the Unexplained and was, on the uploader's account, circulated on the ParaNet bulletin board in early 1988. This is roughly eighteen months before Lazar reached KLAS-TV. The item record was opened; the statement's text was not rendered by the fetch and no content from it is asserted.",
+   "tier": 1
+  },
+  "c-9c63489c6a": {
+   "id": "c-9c63489c6a",
+   "kind": "claim",
+   "node": "george-knapp",
+   "nodeLabel": "George Knapp",
+   "source": {
+    "domain": null,
+    "text": "Wikipedia, 'George Knapp (television journalist)', retrieved 12 August 2026 — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+    "url": null
+   },
+   "text": "Knapp has been credited with introducing Senator Harry Reid to Robert Bigelow because of their shared interest in unidentified aerial phenomena.",
+   "tier": 2
+  },
+  "c-9e225ffcd3": {
+   "id": "c-9e225ffcd3",
+   "kind": "claim",
+   "node": "yankee-blue",
+   "nodeLabel": "YANKEE BLUE (alleged AFOSI indoctrination program)",
+   "source": {
+    "domain": null,
+    "text": "Wall Street Journal investigation, 6 June 2025",
+    "url": null
+   },
+   "text": "Air Force personnel in classified units were briefed into a fictitious programme called Yankee Blue involving reverse-engineering of alien spacecraft, shown flying-saucer photographs, bound by NDAs, and in some accounts threatened with severe penalties for disclosure.",
+   "tier": 2
+  },
+  "c-9e726b4369": {
+   "id": "c-9e726b4369",
+   "kind": "claim",
+   "node": "american-alchemy",
+   "nodeLabel": "American Alchemy",
+   "source": {
+    "domain": null,
+    "text": "YouTube view counts retrieved 12 August 2026 — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+    "url": null
+   },
+   "text": "The 30 January 2025 Jake Barber episode has 1,010,989 views; the 11 January 2026 UAP Gerb episode 514,729; the 8 March 2026 Weinstein/Davis episode 766,314; the 21 February 2025 UAP Gerb episode 450,091; the 14 November 2024 Shellenberger episode 203,593.",
+   "tier": 2
+  },
+  "c-a0bcdfb314": {
+   "id": "c-a0bcdfb314",
+   "kind": "claim",
+   "node": "michels-gerb-structural-episode",
+   "nodeLabel": "'The Pentagon's UFO Program Is Real [Here's How It Works!]'",
+   "source": {
+    "domain": null,
+    "text": "Timestamped chapter list published in the episode description",
+    "url": null
+   },
+   "text": "The episode's structure names as load-bearing components: a pyramid of contractors, a 'Modern Majestic 12' control group, the Office of Global Access, MITRE, the DOE NEST, the 1954 Atomic Energy Agreement and the Y-12 Complex.",
+   "tier": 2
+  },
+  "c-a6fd5747f3": {
+   "id": "c-a6fd5747f3",
+   "kind": "claim",
+   "node": "tim-mcmillan",
+   "nodeLabel": "Tim McMillan",
+   "source": {
+    "domain": "www.theblackvault.com",
+    "text": "Tim McMillan, Vice, 13 November 2019, and the Laingsburg Police Department report published by The Black Vault 1 July 2019, https://www.theblackvault.com/casefiles/documents-on-2017-bob-lazar-united-nuclear-raid-laingsburg-police-department/ , opened 2026-09-18",
+    "url": "https://www.theblackvault.com/casefiles/documents-on-2017-bob-lazar-united-nuclear-raid-laingsburg-police-department/"
+   },
+   "text": "He obtained, under a local open-records request, the two-page Laingsburg, Michigan police report documenting the 19 July 2017 FBI search of Bob Lazar's business United Nuclear Scientific, and established through his Vice reporting of 13 November 2019 that the search supported a homicide investigation out of Houghton, Michigan into the thallium death of Janel Sturzl, 31, on 22 December 2015, in which Lazar is not recorded as a suspect. This is the documentary correction to the claim that the raid was about recovering element 115.",
+   "tier": 1
+  },
+  "c-a700b08582": {
+   "id": "c-a700b08582",
+   "kind": "claim",
+   "node": "george-knapp",
+   "nodeLabel": "George Knapp",
+   "source": {
+    "domain": null,
+    "text": "Index of documents, House Oversight hearing Serial No. 118-53",
+    "url": null
+   },
+   "text": "A statement for the record by George Knapp was submitted by Rep. Burchett to the 26 July 2023 House Oversight hearing.",
+   "tier": 1
+  },
+  "c-a7ef3bd0f9": {
+   "id": "c-a7ef3bd0f9",
+   "kind": "claim",
+   "node": "klas-tv",
+   "nodeLabel": "KLAS-TV (Las Vegas)",
+   "source": {
+    "domain": "otherhand.org",
+    "text": "Las Vegas Review-Journal, 19 June 1990, p 8B, reprinted at https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/lv-review-journal-6-19-1990/ , opened 2026-09-18 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+    "url": "https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/lv-review-journal-6-19-1990/"
+   },
+   "text": "KLAS-TV is the originating institution of the Bob Lazar claim. A Las Vegas Review-Journal report of 19 June 1990 records contemporaneously that Lazar 'was the focal point for much of KLAS-TV, Channel 8 reporter George Knapp's award winning series'. The station's own retrospectives on the story, at 8newsnow.com, returned HTTP 403 to three separate requests on 18 September 2026, so not one word of the originating institution's own account of its 1989 reporting is currently on this board.",
+   "tier": 2
+  },
+  "c-a8d7fa2569": {
+   "id": "c-a8d7fa2569",
+   "kind": "claim",
+   "node": "klas-lazar-broadcasts-1989",
+   "nodeLabel": "The KLAS-TV Lazar broadcasts, 1989",
+   "source": {
+    "domain": "otherhand.org",
+    "text": "Tom Mahood, 'The Robert Lazar Timeline', https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/the-lazar-timeline/ , opened 2026-09-18",
+    "url": "https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/the-lazar-timeline/"
+   },
+   "text": "THE AIR DATES ARE TIER 3 AND MUST STAY THERE UNTIL AN ARTEFACT IS OPENED. Tom Mahood's timeline records that George Knapp began interviewing Lazar in March 1989 'for safekeeping purposes'; that in May 1989 'his silhouetted interviews with Knapp aired on KLAS-TV using the pseudonym Dennis'; that on 10 November 1989 'KLAS-TV identified and interviewed RL publicly'; and that on 9 December 1989 Lazar appeared on 'On The Record', hosted by Knapp on KLAS-TV. Some accounts give 11 November rather than 10 November for the named interview. No 1989-dated artefact was opened by this board.",
+   "tier": 3
+  },
+  "c-a9474c782c": {
+   "id": "c-a9474c782c",
+   "kind": "claim",
+   "node": "michael-shellenberger",
+   "nodeLabel": "Michael Shellenberger",
+   "source": {
+    "domain": null,
+    "text": "DoD statements as reported in UAP coverage, 2024-2026",
+    "url": null
+   },
+   "text": "Pentagon spokesperson Sue Gough said the Department has no record of such a programme; Sean Kirkpatrick also denied its existence.",
+   "tier": 2
+  },
+  "c-b1f9269629": {
+   "id": "c-b1f9269629",
+   "kind": "claim",
+   "node": "jesse-michels",
+   "nodeLabel": "Jesse Michels",
+   "source": {
+    "domain": null,
+    "text": "Jesse Michels, American Alchemy episode description, 'The Pentagon's UFO Program Is Real [Here's How It Works!] ft. UAPGerb', published 11 January 2026",
+    "url": null
+   },
+   "text": "Michels frames the effort as 'not one program' but 'a layered, compartmentalized system that grew out of the Manhattan Project, the Atomic Energy Commission, and Cold War intelligence structures.'",
+   "tier": 2
+  },
+  "c-b4c9a41786": {
+   "id": "c-b4c9a41786",
+   "kind": "claim",
+   "node": "d-media",
+   "nodeLabel": "Independent media as the disclosure substrate",
+   "source": {
+    "domain": null,
+    "text": "Wikipedia entries for Leslie Kean and Ralph Blumenthal; The Debrief, 5 June 2023 — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+    "url": null
+   },
+   "text": "The 2017 AATIP story ran in the New York Times; the 2023 Grusch story by the same authors ran in The Debrief.",
+   "tier": 2
+  },
+  "c-b6e9a34c47": {
+   "id": "c-b6e9a34c47",
+   "kind": "claim",
+   "node": "jeremy-corbell",
+   "nodeLabel": "Jeremy Kenyon Lockyer Corbell",
+   "source": {
+    "domain": null,
+    "text": "Wikipedia, 'Jeremy Corbell', retrieved 12 August 2026 — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+    "url": null
+   },
+   "text": "Corbell has released leaked footage from US Navy aircraft associated with the USS Omaha and video of apparently triangular objects filmed by Navy personnel.",
+   "tier": 2
+  },
+  "c-ba7ff7f5e3": {
+   "id": "c-ba7ff7f5e3",
+   "kind": "claim",
+   "node": "national-press-club-2001",
+   "nodeLabel": "Disclosure Project press conference, National Press Club, 9 May 2001",
+   "source": {
+    "domain": "cdn.centerforinquiry.org",
+    "text": "Philip J. Klass, Skeptics UFO Newsletter (SUN) #68, Summer 2001, 'Dr. Greer's Disclosure Conference Reveals His New Strategy'; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2022/09/26195512/SUN-68-Summer-2001.pdf , opened 2026-09-19",
+    "url": "https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2022/09/26195512/SUN-68-Summer-2001.pdf"
+   },
+   "text": "THE COUNT THAT GOVERNS EVERY PODIUM CLAIM IN THIS CLUSTER. Klass: Greer's book 'contains transcripts of taped interviews with 69 of his witnesses, 20 of whom spoke briefly at the recent press conference.'",
+   "tier": 1
+  },
+  "c-c0a6b6873f": {
+   "id": "c-c0a6b6873f",
+   "kind": "claim",
+   "node": "national-press-club-2001",
+   "nodeLabel": "Disclosure Project press conference, National Press Club, 9 May 2001",
+   "source": {
+    "domain": "cdn.centerforinquiry.org",
+    "text": "Philip J. Klass, Skeptics UFO Newsletter (SUN) #68, Summer 2001, 'Dr. Greer's Disclosure Conference Reveals His New Strategy'; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2022/09/26195512/SUN-68-Summer-2001.pdf , opened 2026-09-19",
+    "url": "https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2022/09/26195512/SUN-68-Summer-2001.pdf"
+   },
+   "text": "Klass records his own exclusion, which limits his account of the event but not the records he obtained himself: he did not attend because Greer had refused him admission to a comparable 1997 event and 'reportedly refused the request for admission by Fund For UFO Research officials', so his account 'is based largely on Greer's own press releases and his 573-page book'.",
+   "tier": 1
+  },
+  "c-c298b95aa9": {
+   "id": "c-c298b95aa9",
+   "kind": "claim",
+   "node": "george-knapp",
+   "nodeLabel": "George Knapp",
+   "source": {
+    "domain": null,
+    "text": "KLAS 8 News Now, 'I-Team: Documents prove secret UFO study based in Nevada', December 2017",
+    "url": null
+   },
+   "text": "Knapp's KLAS I-Team published AAWSAP contract documentation establishing the DIA-funded study was executed in Las Vegas.",
+   "tier": 1
+  },
+  "c-c6c924d1b0": {
+   "id": "c-c6c924d1b0",
+   "kind": "claim",
+   "node": "john-greenewald",
+   "nodeLabel": "John Greenewald Jr.",
+   "source": {
+    "domain": "www.theblackvault.com",
+    "text": "The Black Vault document archive, 'Japanese Airlines JAL 1628 UFO Encounter, November 17, 1986', https://www.theblackvault.com/documentarchive/ufo-case-japanese-airlines-jal1628-november-17-1986/ , opened 2026-09-19",
+    "url": "https://www.theblackvault.com/documentarchive/ufo-case-japanese-airlines-jal1628-november-17-1986/"
+   },
+   "text": "He located the federal file on Japan Air Lines flight 1628 at the National Archives after being told twice by the FAA that it had been or would be destroyed. In his own words on the archive: '17 YEARS after being told the documents relating to this event were destroyed, I finally found them!' The file is in Record Group 237, local identifier 1203, archival identifier 733667, and runs to over 1,500 pages against an initial FAA estimate of 107.",
+   "tier": 1
+  },
+  "c-c8776d9891": {
+   "id": "c-c8776d9891",
+   "kind": "claim",
+   "node": "jeremy-corbell",
+   "nodeLabel": "Jeremy Kenyon Lockyer Corbell",
+   "source": {
+    "domain": "letterboxd.com",
+    "text": "Letterboxd record, https://letterboxd.com/film/bob-lazar-area-51-and-flying-saucers/ , opened 2026-09-18",
+    "url": "https://letterboxd.com/film/bob-lazar-area-51-and-flying-saucers/"
+   },
+   "text": "He directed Bob Lazar: Area 51 and Flying Saucers, 2018, 97 minutes, narrated by Mickey Rourke and featuring Bob Lazar, George Knapp and Joy White. It is the artefact that returned the S-4 claim to mass circulation thirty years after the 1989 broadcasts, and it is how the July 2017 search of United Nuclear entered the UFO literature.",
+   "tier": 1
+  },
+  "c-cbd47d9c44": {
+   "id": "c-cbd47d9c44",
+   "kind": "claim",
+   "node": "the-debrief",
+   "nodeLabel": "The Debrief",
+   "source": {
+    "domain": null,
+    "text": "The Debrief, About page, retrieved 12 August 2026",
+    "url": null
+   },
+   "text": "The Debrief's founders are Micah Hanks (Co-Founder/Creator, Editor-in-Chief), Tim McMillan (Co-Founder, Executive Director) and MJ Banias (Co-Founder, Content Director); staff include Chrissy Newton, Chris Plain and Steve McDaniel; contributors include Avi Loeb.",
+   "tier": 1
+  },
+  "c-cf540c1b0e": {
+   "id": "c-cf540c1b0e",
+   "kind": "claim",
+   "node": "michael-shellenberger",
+   "nodeLabel": "Michael Shellenberger",
+   "source": {
+    "domain": null,
+    "text": "Jason Colavito, jasoncolavito.com, as cited in the Wikipedia Schriever wargame article",
+    "url": null
+   },
+   "text": "In 2025 a self-identified whistleblower said he found the programme in a folder labelled '2018 Schriever Wargame'; Jason Colavito concluded the claimant 'apparently mistook fictitious wargame documents for secret UFO revelations.'",
+   "tier": 2
+  },
+  "c-d2105fbf3e": {
+   "id": "c-d2105fbf3e",
+   "kind": "claim",
+   "node": "john-greenewald",
+   "nodeLabel": "John Greenewald Jr.",
+   "source": {
+    "domain": "www.theblackvault.com",
+    "text": "The Black Vault case file, 1 April 2016, https://www.theblackvault.com/casefiles/leaked-underground-dulce-base-alien-photo-thomas-costello/ , opened 2026-09-19",
+    "url": "https://www.theblackvault.com/casefiles/leaked-underground-dulce-base-alien-photo-thomas-costello/"
+   },
+   "text": "Greenewald published a case file on 1 April 2016 stating 'There is no evidence that I have found, that shows that Thomas Costello even exists', and demonstrating that the photograph circulated as Castello's leaked evidence is a frame from the 2000 film The 6th Day: it 'is, in fact, a verifiable hoax'.",
+   "tier": 2
+  },
+  "c-da031b7d10": {
+   "id": "c-da031b7d10",
+   "kind": "claim",
+   "node": "george-knapp",
+   "nodeLabel": "George Knapp",
+   "source": {
+    "domain": null,
+    "text": "CHRG-119hhrg61718, 9 September 2025",
+    "url": null
+   },
+   "text": "Asked by Rep. Burchett to name the corporations holding the material: 'Well, one of them is Lockheed... They have lied about this because that is what they are supposed to do. But Lockheed would be one. There is a list I can give you, Congressman.'",
+   "tier": 2
+  },
+  "c-db48926174": {
+   "id": "c-db48926174",
+   "kind": "claim",
+   "node": "rob-jones",
+   "nodeLabel": "Rob Jones",
+   "source": {
+    "domain": null,
+    "text": "UAP Gerb livestream description, 12 May 2026",
+    "url": null
+   },
+   "text": "Jones surfaced 'details on a new alleged gatekeeper' which UAP Gerb discussed on his 12 May 2026 livestream.",
+   "tier": 2
+  },
+  "c-e41dc06cd3": {
+   "id": "c-e41dc06cd3",
+   "kind": "claim",
+   "node": "ross-coulthart",
+   "nodeLabel": "Ross Coulthart",
+   "source": {
+    "domain": null,
+    "text": "NewsNation segment title, published circa February 2026",
+    "url": null
+   },
+   "text": "Coulthart publicly endorsed UAP Gerb's structural claims on air: 'I think he's on the money.'",
+   "tier": 2
+  },
+  "c-e874579553": {
+   "id": "c-e874579553",
+   "kind": "claim",
+   "node": "george-knapp",
+   "nodeLabel": "George Knapp",
+   "source": {
+    "domain": null,
+    "text": "Lacatski, Kelleher and Knapp, 'Skinwalkers at the Pentagon' (2021)",
+    "url": null
+   },
+   "text": "Lacatski read 'Hunt for the Skinwalker' by Knapp and Kelleher before approaching Bigelow in 2007, making the book a proximate cause of the contract.",
+   "tier": 2
+  },
+  "c-ed53b4dc83": {
+   "id": "c-ed53b4dc83",
+   "kind": "claim",
+   "node": "ross-coulthart",
+   "nodeLabel": "Ross Coulthart",
+   "source": {
+    "domain": null,
+    "text": "NewsNation interview by Ross Coulthart, June 2023",
+    "url": null
+   },
+   "text": "Elicited Grusch's on-camera statements that the recovered objects are non-human origin technical vehicles and that dead pilots have been encountered.",
+   "tier": 2
+  },
+  "c-f1a5446073": {
+   "id": "c-f1a5446073",
+   "kind": "claim",
+   "node": "george-knapp",
+   "nodeLabel": "George Knapp",
+   "source": {
+    "domain": null,
+    "text": "George Knapp sworn statement, Task Force on the Declassification of Federal Secrets, 9 September 2025",
+    "url": null
+   },
+   "text": "'So many of the things that happen to witnesses like these are extra-legal. They are carried out by persons unknown, as Mr. Dave Grusch, sitting up at the top of the room, knows all too well, including events in recent days to - that have happened to him.'",
+   "tier": 1
+  },
+  "e-01ec7bd604": {
+   "endpoints": [
+    {
+     "id": "jesse-michels",
+     "label": "Jesse Michels"
+    },
+    {
+     "id": "american-alchemy",
+     "label": "American Alchemy"
+    }
+   ],
+   "id": "e-01ec7bd604",
+   "kind": "edge",
+   "label": "Creator and host",
+   "sources": [
+    {
+     "date": "2026-01-11",
+     "name": "American Alchemy - 'The Pentagon's UFO Program Is Real [Here's How It Works!]'",
+     "url": "https://www.youtube.com/watch?v=u7g5Sn1DJF4"
+    }
+   ],
+   "text": "American Alchemy is Michels' series and the venue for every episode in this domain.",
+   "tier": 2,
+   "type": "institutional"
+  },
+  "e-0e02943c78": {
+   "endpoints": [
+    {
+     "id": "george-knapp",
+     "label": "George Knapp"
+    },
+    {
+     "id": "david-grusch",
+     "label": "David Charles Grusch"
+    }
+   ],
+   "id": "e-0e02943c78",
+   "kind": "edge",
+   "label": "Sworn statement that extra-legal reprisal against Grusch was ongoing in September 2025",
+   "sources": [
+    {
+     "date": "2025-09-09",
+     "name": "Task Force hearing record, Serial No. 119-44",
+     "url": "https://www.congress.gov/119/chrg/CHRG-119hhrg61718/CHRG-119hhrg61718.pdf"
+    }
+   ],
+   "text": "From the witness table Knapp told the Task Force that such acts are carried out by persons unknown, 'as Mr. Dave Grusch, sitting up at the top of the room, knows all too well, including events in recent days to - that have happened to him.' No member asked what he meant and the record contains no follow-up.",
+   "tier": 1,
+   "type": "witness-chain"
+  },
+  "e-19201b74d1": {
+   "endpoints": [
+    {
+     "id": "jesse-michels",
+     "label": "Jesse Michels"
+    },
+    {
+     "id": "michels-gerb-structural-episode",
+     "label": "'The Pentagon's UFO Program Is Real [Here's How It Works!]'"
+    }
+   ],
+   "id": "e-19201b74d1",
+   "kind": "edge",
+   "label": "Michels produced and hosted the structural episode",
+   "sources": [
+    {
+     "date": "2026-01-11",
+     "name": "American Alchemy - 'The Pentagon's UFO Program Is Real [Here's How It Works!]'",
+     "url": "https://www.youtube.com/watch?v=u7g5Sn1DJF4"
+    }
+   ],
+   "text": "Michels is host and publisher of the 11 January 2026 episode whose description states the effort is 'not one program' but 'a layered, compartmentalized system that grew out of the Manhattan Project, the Atomic Energy Commission, and Cold War intelligence structures.'",
+   "tier": 2,
+   "type": "investigative"
+  },
+  "e-1bc7468877": {
+   "endpoints": [
+    {
+     "id": "the-intercept",
+     "label": "The Intercept"
+    },
+    {
+     "id": "david-grusch",
+     "label": "David Charles Grusch"
+    }
+   ],
+   "id": "e-1bc7468877",
+   "kind": "edge",
+   "label": "FOIA'd police records on Grusch published weeks after his testimony",
+   "sources": [
+    {
+     "date": "2023-08-09",
+     "name": "Ken Klippenstein, 'UFO Whistleblower Kept Security Clearance After Psychiatric Detention', The Intercept, 9 August 2023",
+     "url": "https://theintercept.com/2023/08/09/ufo-david-grusch-clearance/"
+    },
+    {
+     "date": null,
+     "name": "Ken Klippenstein, 'UFO Whistleblower Kept Security Clearance After Psychiatric Detention,' The Intercept, August 9, 2023 -- https://theintercept.com/2023/08/09/ufo-david-grusch-clearance/",
+     "url": ""
+    }
+   ],
+   "text": "Klippenstein obtained Loudoun County Sheriff's Office incident reports under the Virginia Freedom of Information Act showing Grusch was detained under an emergency custody order on 1 October 2018 and transferred to Loudoun Adult Medical Psychiatric Services. The piece is explicit about provenance: 'The records were not confidential, medical, or leaked. They are publicly available law enforcement records obtained under a routine Virginia FOIA request to the Loudoun County Sheriff's Office.' Its argument is about the clearance process rather than about the witness - that clearances of the kind Grusch held carry strict requirements regarding psychological episodes and substance issues, and his was retained.",
+   "tier": 1,
+   "type": "investigative"
+  },
+  "e-1f8c08fa28": {
+   "endpoints": [
+    {
+     "id": "jeremy-corbell",
+     "label": "Jeremy Kenyon Lockyer Corbell"
+    },
+    {
+     "id": "weaponized-podcast",
+     "label": "Weaponized (Knapp & Corbell)"
+    }
+   ],
+   "id": "e-1f8c08fa28",
+   "kind": "edge",
+   "label": "Co-host",
+   "sources": [
+    {
+     "date": "2026-08-12",
+     "name": "Wikipedia - George Knapp",
+     "url": "https://en.wikipedia.org/wiki/George_Knapp_(television_journalist)"
+    }
+   ],
+   "text": "The primary channel through which leaked Navy imagery has entered the public record.",
+   "tier": 2,
+   "type": "institutional"
+  },
+  "e-203404d18c": {
+   "endpoints": [
+    {
+     "id": "klas-tv",
+     "label": "KLAS-TV (Las Vegas)"
+    },
+    {
+     "id": "klas-lazar-broadcasts-1989",
+     "label": "The KLAS-TV Lazar broadcasts, 1989"
+    }
+   ],
+   "id": "e-203404d18c",
+   "kind": "edge",
+   "label": "Its own broadcasts",
+   "sources": [
+    {
+     "date": "1990-06-19",
+     "name": "Las Vegas Review-Journal, 19 June 1990, p 8B, by Warren Bates",
+     "url": "https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/lv-review-journal-6-19-1990/"
+    }
+   ],
+   "text": "The station is the publisher. Its own retrospectives returned HTTP 403 to this board, so nothing here comes from KLAS itself.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-25b225dd20": {
+   "endpoints": [
+    {
+     "id": "george-knapp",
+     "label": "George Knapp"
+    },
+    {
+     "id": "harry-reid",
+     "label": "Harry M. Reid"
+    }
+   ],
+   "id": "e-25b225dd20",
+   "kind": "edge",
+   "label": "Knapp is credited with the Reid-Bigelow introduction",
+   "sources": [
+    {
+     "date": "2026-08-12",
+     "name": "Wikipedia - George Knapp",
+     "url": "https://en.wikipedia.org/wiki/George_Knapp_(television_journalist)"
+    }
+   ],
+   "text": "Recorded separately because the Reid end of the introduction is what converted private interest into federal appropriation.",
+   "tier": 2,
+   "type": "behavioral"
+  },
+  "e-25eee3653c": {
+   "endpoints": [
+    {
+     "id": "luis-elizondo",
+     "label": "Luis D. Elizondo"
+    },
+    {
+     "id": "immaculate-constellation",
+     "label": "Immaculate Constellation disclosure, October-November 2024"
+    }
+   ],
+   "id": "e-25eee3653c",
+   "kind": "edge",
+   "label": "Elizondo declined to confirm or deny the programme by name or trigraph",
+   "sources": [
+    {
+     "date": "2024-11-13",
+     "name": "GPO transcript CHRG-118hhrg57440",
+     "url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm"
+    }
+   ],
+   "text": "Asked by Mace whether he had been read in, Elizondo said he would not be authorised to confirm nor deny the existence of any special access program by name or trigraph - which is not a denial.",
+   "tier": 2,
+   "type": "denial"
+  },
+  "e-2cdc0e2c56": {
+   "endpoints": [
+    {
+     "id": "micah-hanks",
+     "label": "Micah Hanks"
+    },
+    {
+     "id": "the-debrief",
+     "label": "The Debrief"
+    }
+   ],
+   "id": "e-2cdc0e2c56",
+   "kind": "edge",
+   "label": "Co-founder, Creator and Editor-in-Chief",
+   "sources": [
+    {
+     "date": "2026-08-12",
+     "name": "The Debrief - About",
+     "url": "https://thedebrief.org/about/"
+    }
+   ],
+   "text": "Named on The Debrief's About page.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-341424584a": {
+   "endpoints": [
+    {
+     "id": "klas-tv",
+     "label": "KLAS-TV (Las Vegas)"
+    },
+    {
+     "id": "james-lacatski",
+     "label": "James T. Lacatski"
+    }
+   ],
+   "id": "e-341424584a",
+   "kind": "edge",
+   "label": "Knapp co-authored two books with the AAWSAP originator",
+   "sources": [
+    {
+     "date": "2025-09-09",
+     "name": "House Oversight Task Force hearing, 9 September 2025 (CHRG-119hhrg61718)",
+     "url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm"
+    },
+    {
+     "date": null,
+     "name": "https://oversight.house.gov/wp-content/uploads/2025/09/George-Knapp-Written-Testimony.pdf",
+     "url": "https://oversight.house.gov/wp-content/uploads/2025/09/George-Knapp-Written-Testimony.pdf"
+    }
+   ],
+   "text": "Knapp named Lacatski on the record as one of the people he has interviewed: 'There is a guy named Dr. James Lacatski, who was a career scientist with the Defense Intelligence Agency, who was the guy who initiated a program called AAWSAP, Advanced Aerospace Weapons Systems Application Program, which is, as far as we know, the largest acknowledged UFO program ever funded by the U.S. Government.'",
+   "tier": 1,
+   "type": "research"
+  },
+  "e-3b995b6c32": {
+   "endpoints": [
+    {
+     "id": "klas-tv",
+     "label": "KLAS-TV (Las Vegas)"
+    },
+    {
+     "id": "hearing-2025-09-09",
+     "label": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'"
+    }
+   ],
+   "id": "e-3b995b6c32",
+   "kind": "edge",
+   "label": "Knapp testified as KLAS-TV chief investigative reporter",
+   "sources": [
+    {
+     "date": "2025-09-09",
+     "name": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection', 9 September 2025 (CHRG-119hhrg61718)",
+     "url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm"
+    },
+    {
+     "date": null,
+     "name": "https://oversight.house.gov/wp-content/uploads/2025/09/George-Knapp-Written-Testimony.pdf",
+     "url": "https://oversight.house.gov/wp-content/uploads/2025/09/George-Knapp-Written-Testimony.pdf"
+    }
+   ],
+   "text": "Knapp opened his sworn statement: 'I am George Knapp, chief investigative reporter at KLAS-TV in Las Vegas. I began my pursuit of this weird mystery way back in 1987, and for 38 years, I have always approached this as a news story. It is not a matter of faith or belief to me.' The witness list gives him as 'Mr. George Knapp, UAP Journalist'; Chairwoman Luna's introduction dates his arrival at KLAS to 1981 and the chief investigative reporter post to 1995.",
+   "tier": 1,
+   "type": "witness-chain"
+  },
+  "e-3e8eb6d13a": {
+   "endpoints": [
+    {
+     "id": "newsnation",
+     "label": "NewsNation"
+    },
+    {
+     "id": "david-grusch",
+     "label": "David Charles Grusch"
+    }
+   ],
+   "id": "e-3e8eb6d13a",
+   "kind": "edge",
+   "label": "Broke Grusch's first on-camera whistleblower interview",
+   "sources": [
+    {
+     "date": null,
+     "name": "https://www.newsnationnow.com/space/ufo/we-are-not-alone-the-ufo-whistleblower-speaks/",
+     "url": "https://www.newsnationnow.com/space/ufo/we-are-not-alone-the-ufo-whistleblower-speaks/"
+    },
+    {
+     "date": null,
+     "name": "https://en.wikipedia.org/wiki/Ross_Coulthart",
+     "url": "https://en.wikipedia.org/wiki/Ross_Coulthart"
+    }
+   ],
+   "text": "NewsNation published/aired 'We are not alone: The UFO whistleblower speaks' on 11 June 2023, the first television interview with David Grusch, conducted by Ross Coulthart, NewsNation's senior special investigations correspondent.",
+   "tier": 2,
+   "type": "investigative"
+  },
+  "e-429d212b55": {
+   "endpoints": [
+    {
+     "id": "the-intercept",
+     "label": "The Intercept"
+    },
+    {
+     "id": "d-media",
+     "label": "Independent media as the disclosure substrate"
+    }
+   ],
+   "id": "e-429d212b55",
+   "kind": "edge",
+   "label": "the adversarial counterweight inside the same substrate",
+   "sources": [
+    {
+     "date": "2019-06-01",
+     "name": "The Intercept, 'The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon Program. Did He?'",
+     "url": "https://theintercept.com/2019/06/01/ufo-unidentified-history-channel-luis-elizondo-pentagon/"
+    },
+    {
+     "date": "2023-08-09",
+     "name": "The Intercept, 'UFO Whistleblower Kept Security Clearance After Psychiatric Detention'",
+     "url": "https://theintercept.com/2023/08/09/ufo-david-grusch-clearance/"
+    }
+   ],
+   "text": "The Intercept's contribution to this record is subtractive rather than additive: its June 2019 investigation found no discernible evidence that Luis Elizondo led AATIP and obtained a Pentagon statement in tension with the earlier one given to Politico, and in August 2023 it published FOIA'd records on David Grusch weeks after his testimony. A domain about the disclosure substrate that contains only friendly outlets is not a domain, it is a reading list.",
+   "tier": 1,
+   "type": "investigative"
+  },
+  "e-44a5610df8": {
+   "endpoints": [
+    {
+     "id": "michels-gerb-structural-episode",
+     "label": "'The Pentagon's UFO Program Is Real [Here's How It Works!]'"
+    },
+    {
+     "id": "d-media",
+     "label": "Independent media as the disclosure substrate"
+    }
+   ],
+   "id": "e-44a5610df8",
+   "kind": "edge",
+   "label": "the most detailed structural reconstruction in circulation, published on a YouTube channel",
+   "sources": [
+    {
+     "date": "2026-01-11",
+     "name": "American Alchemy, 'The Pentagon's UFO Program Is Real [Here's How It Works!] ft. UAPGerb' (YouTube)",
+     "url": "https://www.youtube.com/watch?v=u7g5Sn1DJF4"
+    },
+    {
+     "date": "2026-01-11",
+     "name": "American Alchemy with Jesse Michels, 'The Hidden UFO Program Is Real - Here's How It Works! (ft. UAPGerb)' (Apple Podcasts listing)",
+     "url": "https://podcasts.apple.com/us/podcast/the-hidden-ufo-program-is-real-heres-how-it-works-ft-uapgerb/id1771917740?i=1000744706983"
+    }
+   ],
+   "text": "A three-hour-plus American Alchemy episode published 11 January 2026 in which UAP Gerb walks Jesse Michels through air force bases, deep underground facilities and federally funded research organisations alleged to be involved in retrieval and exploitation. That the fullest available reconstruction exists as a podcast episode rather than a published investigation is the domain's defining fact.",
+   "tier": 2,
+   "type": "investigative"
+  },
+  "e-490189dc86": {
+   "endpoints": [
+    {
+     "id": "klas-tv",
+     "label": "KLAS-TV (Las Vegas)"
+    },
+    {
+     "id": "d-media",
+     "label": "Independent media as the disclosure substrate"
+    }
+   ],
+   "id": "e-490189dc86",
+   "kind": "edge",
+   "label": "four decades of the record produced from a single local affiliate",
+   "sources": [
+    {
+     "date": "2025-09-09",
+     "name": "House Oversight Task Force hearing transcript, 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection' (CHRG-119hhrg61718)",
+     "url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm"
+    },
+    {
+     "date": "2026-08-21",
+     "name": "Wikipedia, George Knapp (television journalist)",
+     "url": "https://en.wikipedia.org/wiki/George_Knapp_(television_journalist)"
+    }
+   ],
+   "text": "KLAS-TV is where George Knapp has anchored and reported since 1981, where the Bob Lazar interviews aired in 1989, and the institutional capacity in which he testified before the House Oversight Task Force on 9 September 2025. A local CBS affiliate in a desert market holding a national investigative record for forty years is a structural fact about the substrate, not a curiosity.",
+   "tier": 1,
+   "type": "investigative"
+  },
+  "e-4f414f3c23": {
+   "endpoints": [
+    {
+     "id": "jesse-michels",
+     "label": "Jesse Michels"
+    },
+    {
+     "id": "dylan-borland",
+     "label": "Dylan Borland"
+    }
+   ],
+   "id": "e-4f414f3c23",
+   "kind": "edge",
+   "label": "Michels ran a three-episode Borland sequence, August 2026",
+   "sources": [
+    {
+     "date": "2026-08-05",
+     "name": "American Alchemy - 'A Top Government Official Told Me Aliens Run Everything!' - Dylan Borland",
+     "url": "https://www.youtube.com/watch?v=K4gYHs84BIc"
+    }
+   ],
+   "text": "Published 5, 6 and 7 August 2026. Borland is a former USAF 1N1 geospatial intelligence specialist who describes witnessing a 100-to-150-foot black metallic triangle near the NASA hangar at Langley AFB in 2012; the episode chapters include 'ODNI and the leaked program name'.",
+   "tier": 2,
+   "type": "witness-chain"
+  },
+  "e-5071112b19": {
+   "endpoints": [
+    {
+     "id": "john-lear",
+     "label": "John Olsen Lear"
+    },
+    {
+     "id": "d-media",
+     "label": "Independent media as the disclosure substrate"
+    }
+   ],
+   "id": "e-5071112b19",
+   "kind": "edge",
+   "label": "His dated 1987 statement reached the field through ParaNet in early 1988",
+   "sources": [
+    {
+     "date": "1987-12-29",
+     "name": "John Lear's Dec. 29, 1987 Statement, Internet Archive item record and provenance note",
+     "url": "https://archive.org/details/john-lear-statement-1987"
+    }
+   ],
+   "text": "Chronologically important: his public claim document predates Lazar's KLAS appearance by roughly eighteen months and set the frame the later account fitted into. The statement's text was not rendered by the fetch and no content from it is asserted.",
+   "tier": 2,
+   "type": "behavioral"
+  },
+  "e-58e2bc4ee8": {
+   "endpoints": [
+    {
+     "id": "rob-jones",
+     "label": "Rob Jones"
+    },
+    {
+     "id": "newsnation-reality-check",
+     "label": "Reality Check with Ross Coulthart (NewsNation)"
+    }
+   ],
+   "id": "e-58e2bc4ee8",
+   "kind": "edge",
+   "label": "Credited research producer",
+   "sources": [
+    {
+     "date": "2026-08-04",
+     "name": "NewsNation Reality Check - 'Inside Kona Blue'",
+     "url": "https://www.youtube.com/watch?v=F2NfXgv8x1E"
+    }
+   ],
+   "text": "Named in the on-screen credits of the 4 August 2026 episode.",
+   "tier": 2,
+   "type": "institutional"
+  },
+  "e-59a02fe543": {
+   "endpoints": [
+    {
+     "id": "the-intercept",
+     "label": "The Intercept"
+    },
+    {
+     "id": "luis-elizondo",
+     "label": "Luis D. Elizondo"
+    }
+   ],
+   "id": "e-59a02fe543",
+   "kind": "edge",
+   "label": "First major press challenge to Elizondo's AATIP leadership claim",
+   "sources": [
+    {
+     "date": "2019-06-01",
+     "name": "Keith Kloor, 'The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon Program. Did He?', The Intercept, 1 June 2019",
+     "url": "https://theintercept.com/2019/06/01/ufo-unidentified-history-channel-luis-elizondo-pentagon/"
+    },
+    {
+     "date": null,
+     "name": "Keith Kloor, 'The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon Program. Did He?', The Intercept, June 1, 2019 -- https://theintercept.com/2019/06/01/ufo-unidentified-history-channel-luis-elizondo-pentagon/",
+     "url": ""
+    }
+   ],
+   "text": "Kloor's finding: 'There is no discernible evidence that Luis Elizondo ever worked for a government UFO program, much less led one.' He obtained a statement from Pentagon spokesperson Christopher Sherwood: 'Mr. Elizondo had no responsibilities with regard to the AATIP program while he worked in OUSDI... up until the time he resigned effective 10/4/2017.' The piece is the origin of the documented dispute over Elizondo's role, and the Pentagon's position in it has been restated since.",
+   "tier": 1,
+   "type": "investigative"
+  },
+  "e-5bafccf490": {
+   "endpoints": [
+    {
+     "id": "uap-gerb",
+     "label": "'UAP Gerb' (Sam)"
+    },
+    {
+     "id": "michels-gerb-structural-episode",
+     "label": "'The Pentagon's UFO Program Is Real [Here's How It Works!]'"
+    }
+   ],
+   "id": "e-5bafccf490",
+   "kind": "edge",
+   "label": "Gerb is the sole interviewee and source of the structural model",
+   "sources": [
+    {
+     "date": "2026-01-11",
+     "name": "American Alchemy - 'The Pentagon's UFO Program Is Real [Here's How It Works!]'",
+     "url": "https://www.youtube.com/watch?v=u7g5Sn1DJF4"
+    }
+   ],
+   "text": "The episode is a single-guest exposition in which Gerb lays out the contractor pyramid, the alleged modern control group, the Office of Global Access, MITRE's role, the DOE NEST and the 1954 Atomic Energy Agreement as the architecture of the effort.",
+   "tier": 2,
+   "type": "witness-chain"
+  },
+  "e-5e66467b04": {
+   "endpoints": [
+    {
+     "id": "ross-coulthart",
+     "label": "Ross Coulthart"
+    },
+    {
+     "id": "uap-gerb",
+     "label": "'UAP Gerb' (Sam)"
+    }
+   ],
+   "id": "e-5e66467b04",
+   "kind": "edge",
+   "label": "Coulthart platformed Gerb on Reality Check and endorsed his claims on air",
+   "sources": [
+    {
+     "date": "2026-08-04",
+     "name": "NewsNation Reality Check - 'Inside Kona Blue'",
+     "url": "https://www.youtube.com/watch?v=F2NfXgv8x1E"
+    },
+    {
+     "date": "2026-02-01",
+     "name": "NewsNation - 'I think he's on the money'",
+     "url": "https://www.youtube.com/watch?v=z4tCLZc37cg"
+    }
+   ],
+   "text": "NewsNation published 'Ross Coulthart on UAP Gerb's claims: I think he's on the money' in early 2026 and ran a multi-part Reality Check series with Gerb culminating in the 4 August 2026 Kona Blue episode, 176,430 views.",
+   "tier": 2,
+   "type": "investigative"
+  },
+  "e-60716033da": {
+   "endpoints": [
+    {
+     "id": "george-knapp",
+     "label": "George Knapp"
+    },
+    {
+     "id": "robert-bigelow",
+     "label": "Robert T. Bigelow"
+    }
+   ],
+   "id": "e-60716033da",
+   "kind": "edge",
+   "label": "Knapp introduced Harry Reid to Robert Bigelow",
+   "sources": [
+    {
+     "date": "2026-08-12",
+     "name": "Wikipedia - George Knapp",
+     "url": "https://en.wikipedia.org/wiki/George_Knapp_(television_journalist)"
+    }
+   ],
+   "text": "The single most causally consequential act by any journalist in this domain: the introduction that produced NIDS, then AAWSAP and BAASS, and therefore the entire modern Pentagon lineage.",
+   "tier": 2,
+   "type": "behavioral"
+  },
+  "e-61952410a6": {
+   "endpoints": [
+    {
+     "id": "michels-gerb-structural-episode",
+     "label": "'The Pentagon's UFO Program Is Real [Here's How It Works!]'"
+    },
+    {
+     "id": "cia",
+     "label": "Central Intelligence Agency"
+    }
+   ],
+   "id": "e-61952410a6",
+   "kind": "edge",
+   "label": "Dedicated chapter 'The Office of Global Access' at 43:04",
+   "sources": [
+    {
+     "date": "2026-01-11",
+     "name": "American Alchemy - 'The Pentagon's UFO Program Is Real [Here's How It Works!]'",
+     "url": "https://www.youtube.com/watch?v=u7g5Sn1DJF4"
+    },
+    {
+     "date": "2025-12-13",
+     "name": "UAP Gerb - NRO investigation",
+     "url": "https://www.youtube.com/watch?v=GM1Qx9vuo2c"
+    }
+   ],
+   "text": "The Office of Global Access, an element associated with CIA's Directorate of Science and Technology, is given a named chapter; Gerb separately links CIA OGA to NRO, MITRE and the Executive branch in his NRO investigation.",
+   "tier": 2,
+   "type": "institutional"
+  },
+  "e-6216782e12": {
+   "endpoints": [
+    {
+     "id": "george-knapp",
+     "label": "George Knapp"
+    },
+    {
+     "id": "hearing-2025-09-09",
+     "label": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'"
+    }
+   ],
+   "id": "e-6216782e12",
+   "kind": "edge",
+   "label": "sworn witness",
+   "sources": [
+    {
+     "date": "2025-09-09",
+     "name": "CHRG-119hhrg61718, printed hearing transcript, 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection', Serial No. 119-44",
+     "url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/pdf/CHRG-119hhrg61718.pdf"
+    },
+    {
+     "date": "2025-09-09",
+     "name": "House Oversight - hearing page, 9 Sept 2025",
+     "url": "https://oversight.house.gov/hearing/restoring-public-trust-through-uap-transparency-and-whistleblower-protection/"
+    },
+    {
+     "date": "2025-09-09",
+     "name": "U.S. GPO, Hearing transcript, Serial No. 119-44 (CHRG-119hhrg61718)",
+     "url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm"
+    },
+    {
+     "date": "2025-09-09",
+     "name": "George Knapp, written testimony, House Oversight Task Force",
+     "url": "https://oversight.house.gov/wp-content/uploads/2025/09/George-Knapp-Written-Testimony.pdf"
+    },
+    {
+     "date": "2025-09-09",
+     "name": "Task Force hearing record, Serial No. 119-44",
+     "url": "https://www.congress.gov/119/chrg/CHRG-119hhrg61718/CHRG-119hhrg61718.pdf"
+    },
+    {
+     "date": "2025-09-09",
+     "name": "House Oversight - Hearing Wrap Up",
+     "url": "https://oversight.house.gov/release/hearing-wrap-up-government-must-be-more-transparent-about-uaps/"
+    }
+   ],
+   "text": "Knapp told the task force that documents paint a much different picture than the public, press and Congress have been told, and alleged UAP materials had been moved to private contractors.",
+   "tier": 1,
+   "type": "witness-chain"
+  },
+  "e-62e6d90d87": {
+   "endpoints": [
+    {
+     "id": "uap-gerb",
+     "label": "'UAP Gerb' (Sam)"
+    },
+    {
+     "id": "ross-coulthart",
+     "label": "Ross Coulthart"
+    }
+   ],
+   "id": "e-62e6d90d87",
+   "kind": "edge",
+   "label": "Interviewed across multiple NewsNation 'Reality Check' episodes, June-August 2026",
+   "sources": [
+    {
+     "date": "2026-08-12",
+     "name": "NewsNation Reality Check",
+     "url": "https://www.newsnationnow.com/podcasts-newsnation/reality-check/"
+    }
+   ],
+   "text": "Coulthart carried the Gerb material into mainstream broadcast, including discussion of Immaculate Constellation and of Aerospace Corporation and MITRE in connection with the 2026 UAP Governance Board.",
+   "tier": 2,
+   "type": "witness-chain"
+  },
+  "e-6ea67adbda": {
+   "endpoints": [
+    {
+     "id": "jeremy-corbell",
+     "label": "Jeremy Kenyon Lockyer Corbell"
+    },
+    {
+     "id": "corbell-lazar-2018",
+     "label": "Bob Lazar: Area 51 and Flying Saucers (2018)"
+    }
+   ],
+   "id": "e-6ea67adbda",
+   "kind": "edge",
+   "label": "Director of the 2018 documentary",
+   "sources": [
+    {
+     "date": "2018",
+     "name": "Letterboxd record for Bob Lazar: Area 51 and Flying Saucers",
+     "url": "https://letterboxd.com/film/bob-lazar-area-51-and-flying-saucers/"
+    }
+   ],
+   "text": "MAPPED FROM AN ORIGINAL INTENT OF 'custody', on the same ruling.",
+   "tier": 1,
+   "type": "research"
+  },
+  "e-70724d5b89": {
+   "endpoints": [
+    {
+     "id": "george-knapp",
+     "label": "George Knapp"
+    },
+    {
+     "id": "hearing-2025-09-09",
+     "label": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'"
+    }
+   ],
+   "id": "e-70724d5b89",
+   "kind": "edge",
+   "label": "Knapp's testimony named the company, the executive and the intelligence official",
+   "sources": [
+    {
+     "date": "2025-09-09",
+     "name": "House Oversight Task Force on the Declassification of Federal Secrets hearing transcript, 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection' (CHRG-119hhrg61718, Serial No. 119-44)",
+     "url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm"
+    }
+   ],
+   "text": "The naming is sworn and specific; the underlying sourcing has not been published, which is why the claims are graded tier 2 rather than tier 1.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-70825040cc": {
+   "endpoints": [
+    {
+     "id": "newsnation",
+     "label": "NewsNation"
+    },
+    {
+     "id": "d-media",
+     "label": "Independent media as the disclosure substrate"
+    }
+   ],
+   "id": "e-70825040cc",
+   "kind": "edge",
+   "label": "the only US broadcaster to make the legacy programme a standing beat rather than an occasional segment",
+   "sources": [
+    {
+     "date": "2026-08-21",
+     "name": "NewsNation, Ross Coulthart correspondent page",
+     "url": "https://www.newsnationnow.com/author/ross-coulthart/"
+    },
+    {
+     "date": "2026-08-21",
+     "name": "NewsNation, 'Reality Check with Ross Coulthart' programme page",
+     "url": "https://www.newsnationnow.com/podcasts-newsnation/reality-check/"
+    }
+   ],
+   "text": "NewsNation carries Ross Coulthart as special correspondent with a dedicated programme, Reality Check, built around long-form UAP investigation, and in 2026 ran a multi-part series with UAP Gerb covering FFRDCs, gatekeeping and the alleged Kona Blue material transfer. Broadcast participation in this domain reduces, in practice, to one correspondent at one network.",
+   "tier": 2,
+   "type": "investigative"
+  },
+  "e-7de7d7ba16": {
+   "endpoints": [
+    {
+     "id": "aawsap",
+     "label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)"
+    },
+    {
+     "id": "nyt-2017-12-16",
+     "label": "New York Times, 'Glowing Auras and Black Money: The Pentagon's Mysterious U.F.O. Program'"
+    }
+   ],
+   "id": "e-7de7d7ba16",
+   "kind": "edge",
+   "label": "the program the New York Times revealed",
+   "sources": [
+    {
+     "date": "2018-01-09",
+     "name": "DIA letter to SASC",
+     "url": "https://documents.theblackvault.com/documents/dia/dia-aatip-reports.pdf"
+    }
+   ],
+   "text": "The 16 December 2017 story named the program, the $22M, Reid and Bigelow, and forced DIA to write the Senate Armed Services Committee three weeks later.",
+   "tier": 1,
+   "type": "investigative"
+  },
+  "e-84d979aab0": {
+   "endpoints": [
+    {
+     "id": "the-debrief",
+     "label": "The Debrief"
+    },
+    {
+     "id": "nyt-2017-12-16",
+     "label": "New York Times, 'Glowing Auras and Black Money: The Pentagon's Mysterious U.F.O. Program'"
+    }
+   ],
+   "id": "e-84d979aab0",
+   "kind": "edge",
+   "label": "Successor venue to the 2017 New York Times story",
+   "sources": [
+    {
+     "date": "2026-08-12",
+     "name": "The Debrief - About",
+     "url": "https://thedebrief.org/about/"
+    }
+   ],
+   "text": "The 2017 NYT article and the 2023 Debrief article share two of three authors and a continuous line of argument; the change of venue between them is a data point about institutional appetite, not about the reporting.",
+   "tier": 3,
+   "type": "temporal"
+  },
+  "e-85739d3979": {
+   "endpoints": [
+    {
+     "id": "jeremy-corbell",
+     "label": "Jeremy Kenyon Lockyer Corbell"
+    },
+    {
+     "id": "hearing-2023-07-26",
+     "label": "House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'"
+    }
+   ],
+   "id": "e-85739d3979",
+   "kind": "edge",
+   "label": "His report 'The UAP Puzzle' was submitted into the record by Rep. Burchett",
+   "sources": [
+    {
+     "date": "2023-07-26",
+     "name": "U.S. GPO, Hearing transcript, Serial No. 118-53 (CHRG-118hhrg53022)",
+     "url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm"
+    }
+   ],
+   "text": "Listed in the hearing's Index of Documents.",
+   "tier": 1,
+   "type": "investigative"
+  },
+  "e-873bd6f8b8": {
+   "endpoints": [
+    {
+     "id": "george-knapp",
+     "label": "George Knapp"
+    },
+    {
+     "id": "nids",
+     "label": "National Institute for Discovery Science (NIDS)"
+    }
+   ],
+   "id": "e-873bd6f8b8",
+   "kind": "edge",
+   "label": "Worked with Bigelow's NIDS alongside Colm Kelleher",
+   "sources": [
+    {
+     "date": "2026-08-12",
+     "name": "Wikipedia - George Knapp",
+     "url": "https://en.wikipedia.org/wiki/George_Knapp_(television_journalist)"
+    }
+   ],
+   "text": "Knapp's NIDS work with Kelleher produced the Skinwalker Ranch material that later carried into AAWSAP.",
+   "tier": 2,
+   "type": "institutional"
+  },
+  "e-889bb3d97c": {
+   "endpoints": [
+    {
+     "id": "david-grusch",
+     "label": "David Charles Grusch"
+    },
+    {
+     "id": "hearing-2025-09-09",
+     "label": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'"
+    }
+   ],
+   "id": "e-889bb3d97c",
+   "kind": "edge",
+   "label": "Present in the room as reprisal against him is entered into the record",
+   "sources": [
+    {
+     "date": "2025-09-09",
+     "name": "Task Force hearing record, Serial No. 119-44",
+     "url": "https://www.congress.gov/119/chrg/CHRG-119hhrg61718/CHRG-119hhrg61718.pdf"
+    }
+   ],
+   "text": "Grusch did not testify but attended; Knapp referenced him directly from the witness table, Crane entered the reprisal letter, and Mace described the medical-records leak. The hearing is the reprisal file's official home.",
+   "tier": 1,
+   "type": "temporal"
+  },
+  "e-8d6261fba1": {
+   "endpoints": [
+    {
+     "id": "leslie-kean",
+     "label": "Leslie Kean"
+    },
+    {
+     "id": "david-grusch",
+     "label": "David Charles Grusch"
+    }
+   ],
+   "id": "e-8d6261fba1",
+   "kind": "edge",
+   "label": "Kean and Blumenthal broke Grusch's crash-retrieval claims",
+   "sources": [
+    {
+     "date": "2026-08-12",
+     "name": "Wikipedia - Leslie Kean",
+     "url": "https://en.wikipedia.org/wiki/Leslie_Kean"
+    }
+   ],
+   "text": "On 5 June 2023 they reported Grusch's claim that the US holds a secret UFO retrieval programme with multiple vehicles of non-human origin and records of dead pilots.",
+   "tier": 2,
+   "type": "investigative"
+  },
+  "e-8f9b85c547": {
+   "endpoints": [
+    {
+     "id": "jesse-michels",
+     "label": "Jesse Michels"
+    },
+    {
+     "id": "michael-shellenberger",
+     "label": "Michael Shellenberger"
+    }
+   ],
+   "id": "e-8f9b85c547",
+   "kind": "edge",
+   "label": "Michels interviewed Shellenberger the day after the hearing",
+   "sources": [
+    {
+     "date": "2024-11-14",
+     "name": "American Alchemy - 'Breaking UFO Story: Immaculate Constellation (Ft. Michael Shellenberger)'",
+     "url": "https://www.youtube.com/watch?v=DPmO-2E7Ayg"
+    }
+   ],
+   "text": "Published 14 November 2024, recorded immediately after the 13 November hearing; 203,593 views. Michels was the first long-form venue for Shellenberger's account of the document.",
+   "tier": 2,
+   "type": "investigative"
+  },
+  "e-94a53da296": {
+   "endpoints": [
+    {
+     "id": "john-greenewald",
+     "label": "John Greenewald Jr."
+    },
+    {
+     "id": "d-media",
+     "label": "Independent media as the disclosure substrate"
+    }
+   ],
+   "id": "e-94a53da296",
+   "kind": "edge",
+   "label": "one private FOIA operation supplies the documentary base the rest of the substrate runs on",
+   "sources": [
+    {
+     "date": "2022-08-17",
+     "name": "OSD/JS FOIA case 18-F-0324, final response and released documents (The Black Vault)",
+     "url": "https://documents2.theblackvault.com/documents/osd/18-F-0324.pdf"
+    },
+    {
+     "date": "2026-08-21",
+     "name": "The Black Vault, case file: To The Stars Academy, Tom DeLonge and the secret DoD UFO research program",
+     "url": "https://www.theblackvault.com/casefiles/to-the-stars-academy-of-arts-science-tom-delonge-and-the-secret-dod-ufo-research-program/"
+    }
+   ],
+   "text": "Greenewald has filed FOIA requests since 1996 and published well over two million pages through The Black Vault, including the OSD/JS 18-F-0324 release that anchors much of the AATIP record. The fact that the primary-document layer of this subject is held by a private individual rather than an institution is itself the domain's argument.",
+   "tier": 1,
+   "type": "investigative"
+  },
+  "e-9aa73b0143": {
+   "endpoints": [
+    {
+     "id": "micah-hanks",
+     "label": "Micah Hanks"
+    },
+    {
+     "id": "immaculate-constellation",
+     "label": "Immaculate Constellation disclosure, October-November 2024"
+    }
+   ],
+   "id": "e-9aa73b0143",
+   "kind": "edge",
+   "label": "Hanks published the first general-readership account, 17 October 2024",
+   "sources": [
+    {
+     "date": "2024-10-17",
+     "name": "The Debrief - Micah Hanks",
+     "url": "https://thedebrief.org/immaculate-constellation-uap-bombshell-or-disinformation/"
+    }
+   ],
+   "text": "The Debrief's 17 October 2024 piece framed the programme as an open question - 'UAP Bombshell or Disinformation?' - and predates the congressional submission by four weeks.",
+   "tier": 1,
+   "type": "investigative"
+  },
+  "e-9de889acc5": {
+   "endpoints": [
+    {
+     "id": "leslie-kean",
+     "label": "Leslie Kean"
+    },
+    {
+     "id": "the-debrief",
+     "label": "The Debrief"
+    }
+   ],
+   "id": "e-9de889acc5",
+   "kind": "edge",
+   "label": "The Debrief published the Grusch story the NYT did not run",
+   "sources": [
+    {
+     "date": "2026-08-12",
+     "name": "The Debrief - About",
+     "url": "https://thedebrief.org/about/"
+    }
+   ],
+   "text": "The same authors whose AATIP scoop the New York Times published in 2017 took the 2023 Grusch story to The Debrief. The placement, not the verification, is the notable fact.",
+   "tier": 1,
+   "type": "investigative"
+  },
+  "e-a08e6bb75a": {
+   "endpoints": [
+    {
+     "id": "nyt-2017-12-16",
+     "label": "New York Times, 'Glowing Auras and Black Money: The Pentagon's Mysterious U.F.O. Program'"
+    },
+    {
+     "id": "david-grusch",
+     "label": "David Charles Grusch"
+    }
+   ],
+   "id": "e-a08e6bb75a",
+   "kind": "edge",
+   "label": "The New York Times did not publish the 2023 Grusch story",
+   "sources": [
+    {
+     "date": "2026-08-12",
+     "name": "The Debrief - About",
+     "url": "https://thedebrief.org/about/"
+    },
+    {
+     "date": "2026-08-12",
+     "name": "Wikipedia - Leslie Kean",
+     "url": "https://en.wikipedia.org/wiki/Leslie_Kean"
+    }
+   ],
+   "text": "The same two authors who wrote the paper's 2017 AATIP revelation took the 2023 crash-retrieval story elsewhere. Recorded as a denial-type edge because the decision not to publish is itself an act by an institution, and one that shaped what the public record looks like.",
+   "tier": 2,
+   "type": "denial"
+  },
+  "e-a0d33e96a3": {
+   "endpoints": [
+    {
+     "id": "george-knapp",
+     "label": "George Knapp"
+    },
+    {
+     "id": "corbell-lazar-2018",
+     "label": "Bob Lazar: Area 51 and Flying Saucers (2018)"
+    }
+   ],
+   "id": "e-a0d33e96a3",
+   "kind": "edge",
+   "label": "Appears in and is credited on the 2018 documentary",
+   "sources": [
+    {
+     "date": "2018",
+     "name": "Letterboxd record for Bob Lazar: Area 51 and Flying Saucers",
+     "url": "https://letterboxd.com/film/bob-lazar-area-51-and-flying-saucers/"
+    }
+   ],
+   "text": "He is a participant rather than an author of this film, which is why it is witness-chain and not research.",
+   "tier": 1,
+   "type": "witness-chain"
+  },
+  "e-ac32669243": {
+   "endpoints": [
+    {
+     "id": "ross-coulthart",
+     "label": "Ross Coulthart"
+    },
+    {
+     "id": "david-grusch",
+     "label": "David Charles Grusch"
+    }
+   ],
+   "id": "e-ac32669243",
+   "kind": "edge",
+   "label": "First television interview; origin of the biologics and dead pilots statements",
+   "sources": [
+    {
+     "date": "2023-06-11",
+     "name": "NewsNation - Military whistleblower claims US has UFO retrieval program",
+     "url": "https://www.newsnationnow.com/space/military-whistleblowe-us-ufo-retrieval-program/"
+    },
+    {
+     "date": "2023-07-26",
+     "name": "House Oversight hearing transcript",
+     "url": "https://www.congress.gov/118/meeting/house/116282/documents/HHRG-118-GO06-Transcript-20230726.pdf"
+    },
+    {
+     "date": "2026-07-26",
+     "name": "Wikipedia - Ross Coulthart",
+     "url": "https://en.wikipedia.org/wiki/Ross_Coulthart"
+    }
+   ],
+   "text": "Grusch's NewsNation interview with Coulthart produced the dead pilots statement and the biologics claim that he then ratified under oath five weeks later when Rep. Mace asked about bodies.",
+   "tier": 1,
+   "type": "investigative"
+  },
+  "e-ad78872750": {
+   "endpoints": [
+    {
+     "id": "jesse-michels",
+     "label": "Jesse Michels"
+    },
+    {
+     "id": "jake-barber",
+     "label": "Jake Barber"
+    }
+   ],
+   "id": "e-ad78872750",
+   "kind": "edge",
+   "label": "Michels published Barber's crash-retrieval account",
+   "sources": [
+    {
+     "date": "2025-01-30",
+     "name": "American Alchemy - Jake Barber interview",
+     "url": "https://www.youtube.com/watch?v=dnnpyNuPdXs"
+    },
+    {
+     "date": "2025-10-24",
+     "name": "The Sol Foundation - 2025 Symposium",
+     "url": "https://thesolfoundation.org/events/the-2025-sol-foundation-symposium/"
+    }
+   ],
+   "text": "Published 30 January 2025 to 1,010,989 views; Barber, a former intelligence officer, described helicopter-borne retrieval. Barber subsequently spoke at the 2025 Sol Foundation Symposium, moving from independent media into the institutional wing.",
+   "tier": 2,
+   "type": "witness-chain"
+  },
+  "e-bf54df0ff7": {
+   "endpoints": [
+    {
+     "id": "michels-gerb-structural-episode",
+     "label": "'The Pentagon's UFO Program Is Real [Here's How It Works!]'"
+    },
+    {
+     "id": "mitre-corporation",
+     "label": "The MITRE Corporation"
+    }
+   ],
+   "id": "e-bf54df0ff7",
+   "kind": "edge",
+   "label": "Dedicated chapter 'The Role of MITRE' at 51:28",
+   "sources": [
+    {
+     "date": "2026-01-11",
+     "name": "American Alchemy - 'The Pentagon's UFO Program Is Real [Here's How It Works!]'",
+     "url": "https://www.youtube.com/watch?v=u7g5Sn1DJF4"
+    }
+   ],
+   "text": "MITRE is given a named chapter inside the structural episode, seven months before Gerb published his full MITRE investigation - establishing that MITRE was already central to the model in January 2026.",
+   "tier": 2,
+   "type": "institutional"
+  },
+  "e-c3e2e554ae": {
+   "endpoints": [
+    {
+     "id": "george-knapp",
+     "label": "George Knapp"
+    },
+    {
+     "id": "hearing-2023-07-26",
+     "label": "House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'"
+    }
+   ],
+   "id": "e-c3e2e554ae",
+   "kind": "edge",
+   "label": "His Statement for the Record was submitted by Rep. Burchett in 2023, two years before he testified in person",
+   "sources": [
+    {
+     "date": "2023-07-26",
+     "name": "U.S. GPO, Hearing transcript, Serial No. 118-53 (CHRG-118hhrg53022)",
+     "url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm"
+    },
+    {
+     "date": "2025-09-09",
+     "name": "U.S. GPO, Hearing transcript, Serial No. 119-44 (CHRG-119hhrg61718)",
+     "url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm"
+    }
+   ],
+   "text": "Listed in the 2023 Index of Documents; Knapp testified live on 9 September 2025.",
+   "tier": 1,
+   "type": "witness-chain"
+  },
+  "e-c67a3fb71e": {
+   "endpoints": [
+    {
+     "id": "national-press-club-2001",
+     "label": "Disclosure Project press conference, National Press Club, 9 May 2001"
+    },
+    {
+     "id": "d-media",
+     "label": "Independent media as the disclosure substrate"
+    }
+   ],
+   "id": "e-c67a3fb71e",
+   "kind": "edge",
+   "label": "A press event whose purpose was coverage, covered the same day by a national broadcaster",
+   "sources": [
+    {
+     "date": "2001-05-09",
+     "name": "ABC News, 'Group Calls for Disclosure of UFO Info', 9 May 2001, 2:35 PM",
+     "url": "https://abcnews.com/Technology/story?id=98572&page=1"
+    }
+   ],
+   "text": "ABC News reported it on 9 May 2001 with a sceptical comment from its own space consultant. The far larger audience figures that circulate come from the Project's own publicity and are not carried.",
+   "tier": 2,
+   "type": "institutional"
+  },
+  "e-c9de0c5f0e": {
+   "endpoints": [
+    {
+     "id": "uap-gerb",
+     "label": "'UAP Gerb' (Sam)"
+    },
+    {
+     "id": "luis-elizondo",
+     "label": "Luis D. Elizondo"
+    }
+   ],
+   "id": "e-c9de0c5f0e",
+   "kind": "edge",
+   "label": "Public dispute between Gerb and Elizondo, August 2026",
+   "sources": [
+    {
+     "date": "2026-08-04",
+     "name": "NewsNation Reality Check - 'Inside Kona Blue'",
+     "url": "https://www.youtube.com/watch?v=F2NfXgv8x1E"
+    }
+   ],
+   "text": "Multiple third-party channels covered a Gerb-Elizondo dispute in early August 2026. No primary statement from either party was retrieved; recorded as an unresolved schism, which Coulthart also referenced as 'Schism in the UAP community' at 11:22 of the 4 August 2026 episode.",
+   "tier": 3,
+   "type": "behavioral"
+  },
+  "e-d1da23f925": {
+   "endpoints": [
+    {
+     "id": "nyt-2017-12-16",
+     "label": "New York Times, 'Glowing Auras and Black Money: The Pentagon's Mysterious U.F.O. Program'"
+    },
+    {
+     "id": "luis-elizondo",
+     "label": "Luis D. Elizondo"
+    }
+   ],
+   "id": "e-d1da23f925",
+   "kind": "edge",
+   "label": "Named him as the official who ran AATIP",
+   "sources": [
+    {
+     "date": "2017-12-16",
+     "name": "New York Times (NICAP copy)",
+     "url": "https://www.nicap.org/reports2/2004_20171216_NYTArt_1.pdf"
+    }
+   ],
+   "text": "The article identified him, quoted his resignation letter and reported his move to TTSA — the act that made him the Department's problem.",
+   "tier": 1,
+   "type": "investigative"
+  },
+  "e-d434732cb5": {
+   "endpoints": [
+    {
+     "id": "newsnation",
+     "label": "NewsNation"
+    },
+    {
+     "id": "skywatcher",
+     "label": "Skywatcher"
+    }
+   ],
+   "id": "e-d434732cb5",
+   "kind": "edge",
+   "label": "Aired the Jake Barber / Skywatcher 'psionic retrieval' special",
+   "sources": [
+    {
+     "date": null,
+     "name": "https://www.newsnationnow.com/space/ufo/hfr-uap-recovery-video-egg-shaped-object-exclusive/",
+     "url": "https://www.newsnationnow.com/space/ufo/hfr-uap-recovery-video-egg-shaped-object-exclusive/"
+    },
+    {
+     "date": null,
+     "name": "https://en.wikipedia.org/wiki/Ross_Coulthart",
+     "url": "https://en.wikipedia.org/wiki/Ross_Coulthart"
+    },
+    {
+     "date": null,
+     "name": "https://www.newsnationnow.com/space/ufo/ross-coulthart-qa-skywatcher-didnt-disappear-it-went-government/",
+     "url": "https://www.newsnationnow.com/space/ufo/ross-coulthart-qa-skywatcher-didnt-disappear-it-went-government/"
+    }
+   ],
+   "text": "In January 2025 Ross Coulthart interviewed former US intelligence operative Jake Barber on NewsNation's Reality Check; the special introduced Barber's Skywatcher team and its claimed psionic 'summoning' operations and egg-shaped object footage. NewsNation has continued to be the primary outlet for Skywatcher updates. Barber's claims remain unverified by official sources.",
+   "tier": 2,
+   "type": "investigative"
+  },
+  "e-d7b4ab3748": {
+   "endpoints": [
+    {
+     "id": "nyt-2017-12-16",
+     "label": "New York Times, 'Glowing Auras and Black Money: The Pentagon's Mysterious U.F.O. Program'"
+    },
+    {
+     "id": "leslie-kean",
+     "label": "Leslie Kean"
+    }
+   ],
+   "id": "e-d7b4ab3748",
+   "kind": "edge",
+   "label": "Co-byline with Helene Cooper and Ralph Blumenthal",
+   "sources": [
+    {
+     "date": "2017-12-16",
+     "name": "New York Times (NICAP copy)",
+     "url": "https://www.nicap.org/reports2/2004_20171216_NYTArt_1.pdf"
+    }
+   ],
+   "text": "Kean and Blumenthal had cultivated the sources; Cooper supplied the Pentagon beat. The trio's byline is what moved the story from fringe to record.",
+   "tier": 1,
+   "type": "investigative"
+  },
+  "e-db9e130e37": {
+   "endpoints": [
+    {
+     "id": "tim-mcmillan",
+     "label": "Tim McMillan"
+    },
+    {
+     "id": "the-debrief",
+     "label": "The Debrief"
+    }
+   ],
+   "id": "e-db9e130e37",
+   "kind": "edge",
+   "label": "Co-founder and Executive Director",
+   "sources": [
+    {
+     "date": "2026-08-12",
+     "name": "The Debrief - About",
+     "url": "https://thedebrief.org/about/"
+    }
+   ],
+   "text": "Named on The Debrief's About page as Co-Founder and Executive Director.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-e29588334e": {
+   "endpoints": [
+    {
+     "id": "public-substack",
+     "label": "Public"
+    },
+    {
+     "id": "d-media",
+     "label": "Independent media as the disclosure substrate"
+    }
+   ],
+   "id": "e-e29588334e",
+   "kind": "edge",
+   "label": "a newsletter, not a newsroom, carried a named alleged programme into the congressional record",
+   "sources": [
+    {
+     "date": "2024-11-13",
+     "name": "Michael Shellenberger, written testimony to the House Committee on Oversight and Accountability",
+     "url": "https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf"
+    },
+    {
+     "date": "2024-11-13",
+     "name": "House Oversight hearing transcript, 'UAP: Exposing the Truth' (CHRG-118hhrg57440)",
+     "url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm"
+    }
+   ],
+   "text": "Michael Shellenberger reported the Immaculate Constellation allegations on Public and then entered the twelve-page report into the record as a witness before the House Committee on Oversight and Accountability on 13 November 2024. The chain runs leak to Substack to sworn testimony with no traditional newsroom in it, which is the domain's thesis stated as a single case.",
+   "tier": 1,
+   "type": "investigative"
+  },
+  "e-e74accccde": {
+   "endpoints": [
+    {
+     "id": "rob-jones",
+     "label": "Rob Jones"
+    },
+    {
+     "id": "uap-gerb",
+     "label": "'UAP Gerb' (Sam)"
+    }
+   ],
+   "id": "e-e74accccde",
+   "kind": "edge",
+   "label": "NewsNation research producer supplied gatekeeper leads to Gerb",
+   "sources": [
+    {
+     "date": "2026-05-12",
+     "name": "UAP Gerb Live - 12 May 2026",
+     "url": "https://www.youtube.com/watch?v=iAWD4irLMZM"
+    }
+   ],
+   "text": "Gerb's 12 May 2026 livestream describes 'details on a new alleged gatekeeper presented by NewsNation's Rob Jones', establishing a working research pipeline between the network desk and the independent investigator.",
+   "tier": 2,
+   "type": "investigative"
+  },
+  "e-ec7ca4f118": {
+   "endpoints": [
+    {
+     "id": "public-substack",
+     "label": "Public"
+    },
+    {
+     "id": "immaculate-constellation",
+     "label": "Immaculate Constellation disclosure, October-November 2024"
+    }
+   ],
+   "id": "e-ec7ca4f118",
+   "kind": "edge",
+   "label": "Published the whistleblower brief naming the program",
+   "sources": [
+    {
+     "date": "2024-11-13",
+     "name": "Joint House Oversight subcommittee hearing, 13 November 2024 (CHRG-118hhrg57440)",
+     "url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm"
+    },
+    {
+     "date": null,
+     "name": "https://www.npr.org/2024/11/13/nx-s1-5189426/ufo-uap-hearing-congress-2024",
+     "url": "https://www.npr.org/2024/11/13/nx-s1-5189426/ufo-uap-hearing-congress-2024"
+    },
+    {
+     "date": null,
+     "name": "https://www.public.news/p/pentagon-is-illegally-hiding-secret",
+     "url": "https://www.public.news/p/pentagon-is-illegally-hiding-secret"
+    }
+   ],
+   "text": "Shellenberger brought the Immaculate Constellation allegation to Congress, arguing 'there is a growing body of evidence that the U.S. Government is not being transparent about what it knows about unidentified anomalous phenomena and that elements within the military and the IC are in violation of their constitutional duty to notify Congress of their operations.' The name appears seventeen times across the printed hearing.",
+   "tier": 1,
+   "type": "investigative"
+  },
+  "e-ecbb6b27fc": {
+   "endpoints": [
+    {
+     "id": "nyt-2017-12-16",
+     "label": "New York Times, 'Glowing Auras and Black Money: The Pentagon's Mysterious U.F.O. Program'"
+    },
+    {
+     "id": "harry-reid",
+     "label": "Harry M. Reid"
+    }
+   ],
+   "id": "e-ecbb6b27fc",
+   "kind": "edge",
+   "label": "Identified Reid as the senator who initiated and funded AATIP",
+   "sources": [
+    {
+     "date": "2017-12-16",
+     "name": "New York Times (NICAP copy)",
+     "url": "https://www.nicap.org/reports2/2004_20171216_NYTArt_1.pdf"
+    }
+   ],
+   "text": "Reid told the Times 'I'm not embarrassed or ashamed or sorry I got this thing going' and called the appropriation 'black money'.",
+   "tier": 1,
+   "type": "funding"
+  },
+  "e-ef53895526": {
+   "endpoints": [
+    {
+     "id": "immaculate-constellation",
+     "label": "Immaculate Constellation disclosure, October-November 2024"
+    },
+    {
+     "id": "d-media",
+     "label": "Independent media as the disclosure substrate"
+    }
+   ],
+   "id": "e-ef53895526",
+   "kind": "edge",
+   "label": "the case that proves the substrate: leak, newsletter, congressional record, no newsroom",
+   "sources": [
+    {
+     "date": "2024-11-13",
+     "name": "Michael Shellenberger, written testimony to the House Committee on Oversight and Accountability",
+     "url": "https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf"
+    },
+    {
+     "date": "2024-11-13",
+     "name": "House Oversight hearing transcript, 'UAP: Exposing the Truth' (CHRG-118hhrg57440)",
+     "url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm"
+    }
+   ],
+   "text": "An alleged unacknowledged special access program entered the public record in October 2024 through an independent journalist and the Congressional Record on 13 November 2024, via written testimony and the House Oversight hearing transcript. Whatever the underlying report is worth, the path it travelled is the clearest single demonstration of how disclosure is now produced and distributed.",
+   "tier": 1,
+   "type": "investigative"
+  },
+  "e-f04d022388": {
+   "endpoints": [
+    {
+     "id": "michels-gerb-structural-episode",
+     "label": "'The Pentagon's UFO Program Is Real [Here's How It Works!]'"
+    },
+    {
+     "id": "doe",
+     "label": "United States Department of Energy"
+    }
+   ],
+   "id": "e-f04d022388",
+   "kind": "edge",
+   "label": "Dedicated chapter 'The DOE NEST' at 1:22:01",
+   "sources": [
+    {
+     "date": "2026-01-11",
+     "name": "American Alchemy - 'The Pentagon's UFO Program Is Real [Here's How It Works!]'",
+     "url": "https://www.youtube.com/watch?v=u7g5Sn1DJF4"
+    }
+   ],
+   "text": "The episode places the Department of Energy's Nuclear Emergency Support Team inside the crash-retrieval architecture, consistent with the AEC-custody thesis.",
+   "tier": 2,
+   "type": "institutional"
+  },
+  "e-f0b5e7c8ba": {
+   "endpoints": [
+    {
+     "id": "nyt-2017-12-16",
+     "label": "New York Times, 'Glowing Auras and Black Money: The Pentagon's Mysterious U.F.O. Program'"
+    },
+    {
+     "id": "immaculate-constellation",
+     "label": "Immaculate Constellation disclosure, October-November 2024"
+    }
+   ],
+   "id": "e-f0b5e7c8ba",
+   "kind": "edge",
+   "label": "The alleged programme is said to have been created in response to this story",
+   "sources": [
+    {
+     "date": "2024-11-13",
+     "name": "Michael Shellenberger written testimony (PDF)",
+     "url": "https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf"
+    }
+   ],
+   "text": "Shellenberger's whistleblower alleges DoD created Immaculate Constellation in 2017 after the New York Times published on AATIP. The claim is attributed, not documented.",
+   "tier": 2,
+   "type": "programmatic"
+  },
+  "e-f0fb54b643": {
+   "endpoints": [
+    {
+     "id": "george-knapp",
+     "label": "George Knapp"
+    },
+    {
+     "id": "klas-lazar-broadcasts-1989",
+     "label": "The KLAS-TV Lazar broadcasts, 1989"
+    }
+   ],
+   "id": "e-f0fb54b643",
+   "kind": "edge",
+   "label": "Reporter and author of the broadcasts",
+   "sources": [
+    {
+     "date": "1990-06-19",
+     "name": "Las Vegas Review-Journal, 19 June 1990, p 8B, by Warren Bates",
+     "url": "https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/lv-review-journal-6-19-1990/"
+    }
+   ],
+   "text": "MAPPED FROM AN ORIGINAL INTENT OF 'custody'. Authorship of a document is typed research under the board's ruling of 18 September 2026.",
+   "tier": 1,
+   "type": "research"
+  },
+  "e-fcf18481ad": {
+   "endpoints": [
+    {
+     "id": "nyt-2017-12-16",
+     "label": "New York Times, 'Glowing Auras and Black Money: The Pentagon's Mysterious U.F.O. Program'"
+    },
+    {
+     "id": "d-media",
+     "label": "Independent media as the disclosure substrate"
+    }
+   ],
+   "id": "e-fcf18481ad",
+   "kind": "edge",
+   "label": "the baseline against which the substrate shift is measured",
+   "sources": [
+    {
+     "date": "2017-12-16",
+     "name": "New York Times, 'Glowing Auras and Black Money: The Pentagon's Mysterious U.F.O. Program'",
+     "url": "https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html"
+    },
+    {
+     "date": "2017-12-16",
+     "name": "New York Times, 'Glowing Auras and Black Money' (NICAP archival copy)",
+     "url": "https://www.nicap.org/reports2/2004_20171216_NYTArt_1.pdf"
+    }
+   ],
+   "text": "The 16 December 2017 story is the last time a US paper of record originated a legacy-programme disclosure. Every subsequent major disclosure - Grusch in 2023, Immaculate Constellation in 2024, the structural reconstruction in 2026 - went somewhere else first. This node is what makes the domain's central claim measurable rather than rhetorical.",
+   "tier": 1,
+   "type": "investigative"
+  }
+ },
+ "claimed": [
+  {
+   "cite": [
+    "e-3e8eb6d13a",
+    "e-ac32669243",
+    "c-ed53b4dc83",
+    "e-8d6261fba1"
+   ],
+   "text": "How the Grusch claims reached the public: Coulthart's NewsNation interview of 11 June 2023, the first on television, produced the dead pilots statement and the biologics claim that Grusch ratified under oath five weeks later. Kean and Blumenthal had reported his crash-retrieval claims on 5 June."
+  },
+  {
+   "cite": [
+    "c-b1f9269629",
+    "c-2e97952b57",
+    "e-5bafccf490",
+    "e-19201b74d1",
+    "c-a0bcdfb314",
+    "c-169ab63052",
+    "e-bf54df0ff7",
+    "e-f04d022388",
+    "e-61952410a6"
+   ],
+   "text": "Michels's 11 January 2026 episode with the pseudonymous researcher UAP Gerb, its sole guest and source, frames the effort as \"not one program\" but \"a layered, compartmentalized system that grew out of the Manhattan Project, the Atomic Energy Commission, and Cold War intelligence structures.\" It names MITRE, the Office of Global Access and the DOE NEST as components and says Dick Cheney is implicated."
+  },
+  {
+   "cite": [
+    "c-9e726b4369",
+    "e-ad78872750",
+    "e-8f9b85c547",
+    "e-4f414f3c23"
+   ],
+   "text": "American Alchemy's audience is large: the Jake Barber episode of 30 January 2025 has about 1.01 million views and the Gerb structural episode about 515,000. Michels also carried Shellenberger the day after the 2024 hearing and a three-episode Dylan Borland sequence in August 2026."
+  },
+  {
+   "cite": [
+    "c-e41dc06cd3",
+    "e-5e66467b04",
+    "e-62e6d90d87",
+    "c-4f0af23f68",
+    "e-e74accccde",
+    "c-db48926174",
+    "e-58e2bc4ee8"
+   ],
+   "text": "Coulthart carried Gerb's model into broadcast and endorsed it on air, \"I think he's on the money\", and on Reality Check Gerb alleged directed-energy attacks on people close to the programme, civilian aircraft downed by EMP weapons and a murder. The desk and the investigator share research: Gerb credits Reality Check's research producer Rob Jones with details on a new alleged gatekeeper."
+  },
+  {
+   "cite": [
+    "e-d434732cb5"
+   ],
+   "text": "NewsNation aired Barber's Skywatcher special in January 2025 and remains its main outlet; Barber's claims are unverified by official sources."
+  },
+  {
+   "cite": [
+    "c-5b50718005",
+    "c-da031b7d10",
+    "c-2404414528",
+    "c-6b202c77d5",
+    "e-70724d5b89"
+   ],
+   "text": "Knapp testified that Bigelow and an AAWSAP colleague negotiated with Lockheed Martin executives for unusual material held in California, \"That material was not made here\", named Lockheed and two alleged gatekeepers, and said EG&G's first Nevada manager told him a saucer and a live being had been recovered."
+  },
+  {
+   "cite": [
+    "c-f1a5446073",
+    "e-0e02943c78",
+    "e-889bb3d97c"
+   ],
+   "text": "From the witness table Knapp said reprisals against witnesses are carried out by persons unknown, as Grusch, present in the room, knew; no member asked what he meant."
+  },
+  {
+   "cite": [
+    "c-9c63489c6a",
+    "e-60716033da",
+    "e-25b225dd20",
+    "c-e874579553",
+    "e-873bd6f8b8",
+    "e-341424584a"
+   ],
+   "text": "Knapp is credited with introducing Harry Reid to Robert Bigelow, and the board records that DIA's James Lacatski read Hunt for the Skinwalker, which Knapp co-wrote, before approaching Bigelow in 2007; Knapp also worked with Bigelow's NIDS."
+  },
+  {
+   "cite": [
+    "c-b6e9a34c47"
+   ],
+   "text": "Corbell has released leaked Navy footage associated with the USS Omaha and of apparently triangular objects."
+  },
+  {
+   "cite": [
+    "c-22de0bb4da",
+    "c-6ae89a86ac",
+    "e-f0b5e7c8ba"
+   ],
+   "text": "Shellenberger's source alleges Immaculate Constellation is a parent unacknowledged programme consolidating UAP observations, created in 2017 in response to the Times story."
+  }
+ ],
+ "contested": [
+  {
+   "cite": [
+    "c-a9474c782c",
+    "c-cf540c1b0e",
+    "c-941159a8b2",
+    "e-25eee3653c"
+   ],
+   "text": "The Pentagon said it has no record of Immaculate Constellation and Sean Kirkpatrick denied it existed. Jason Colavito concluded a 2025 claimant had mistaken wargame documents for secret revelations, though the board notes this does not account for the 12-page document of November 2024. Elizondo would neither confirm nor deny any programme by name."
+  },
+  {
+   "cite": [
+    "c-894a80ae6c",
+    "e-1bc7468877"
+   ],
+   "text": "Members of Congress call the release of Grusch's police records retaliation, while The Intercept says the records were publicly available law enforcement records obtained under a routine Virginia FOIA request, not leaked."
+  },
+  {
+   "cite": [
+    "e-a08e6bb75a",
+    "e-84d979aab0"
+   ],
+   "text": "The Times did not publish the 2023 Grusch story; its authors placed it at The Debrief. The board records the change of venue and infers that it says something about institutional appetite; no record shows whether the Times was offered it."
+  },
+  {
+   "cite": [
+    "c-a7ef3bd0f9",
+    "c-a8d7fa2569"
+   ],
+   "text": "Nothing from KLAS-TV's own account of its 1989 reporting is on the board, because the station's retrospectives were not reachable, and the air dates of the broadcasts rest on a secondary timeline."
+  },
+  {
+   "cite": [
+    "c-d2105fbf3e"
+   ],
+   "text": "Greenewald showed that the photograph circulated as Thomas Castello's leaked evidence is a frame from the 2000 film The 6th Day, and found no evidence Castello exists."
+  },
+  {
+   "cite": [
+    "c-c0a6b6873f",
+    "e-c67a3fb71e"
+   ],
+   "text": "Klass did not attend the 2001 press conference, having been refused admission to a comparable event, so his account rests largely on Greer's releases and book; ABC's same-day report carried a sceptical comment from its space consultant."
+  },
+  {
+   "cite": [
+    "e-c9de0c5f0e"
+   ],
+   "text": "The substrate is divided: third-party channels covered a public dispute between Gerb and Elizondo in August 2026, which Coulthart called a schism; no primary statement from either was retrieved."
+  },
+  {
+   "cite": [
+    "c-823ec63ce1",
+    "c-9e225ffcd3"
+   ],
+   "text": "The claim that no US paper of record has originated a legacy-programme disclosure since 2017 has at least one exception on the board: the Wall Street Journal reported in June 2025 that Air Force personnel had been briefed into a fictitious reverse-engineering programme called Yankee Blue."
+  }
+ ],
  "essays": [],
  "focusEra": "3",
  "id": "media-substrate",
  "kind": "movement",
- "lead": null,
- "members": [],
+ "lead": {
+  "cite": [
+   "e-fcf18481ad",
+   "e-490189dc86",
+   "e-70825040cc",
+   "e-9de889acc5",
+   "e-e29588334e",
+   "e-44a5610df8"
+  ],
+  "text": "The disclosure record of 2017 to 2026 was carried less by newspapers than by a Las Vegas television station, one cable correspondent, an independent outlet, a newsletter and long-form podcasts. The New York Times broke AATIP in 2017, but the Grusch story, the Immaculate Constellation report and, on the board's reading, the most detailed structural reconstruction in circulation all went elsewhere first."
+ },
+ "members": [
+  {
+   "cls": "event",
+   "id": "nyt-2017-12-16",
+   "label": "New York Times, 'Glowing Auras and Black Money: The Pentagon's Mysterious U.F.O. Program'",
+   "role": "document"
+  },
+  {
+   "cls": "person",
+   "id": "leslie-kean",
+   "label": "Leslie Kean",
+   "role": "journalist"
+  },
+  {
+   "cls": "institution",
+   "id": "the-debrief",
+   "label": "The Debrief",
+   "role": "institution"
+  },
+  {
+   "cls": "person",
+   "id": "micah-hanks",
+   "label": "Micah Hanks",
+   "role": "journalist"
+  },
+  {
+   "cls": "person",
+   "id": "tim-mcmillan",
+   "label": "Tim McMillan",
+   "role": "journalist"
+  },
+  {
+   "cls": "event",
+   "id": "immaculate-constellation",
+   "label": "Immaculate Constellation disclosure, October-November 2024",
+   "role": "event"
+  },
+  {
+   "cls": "person",
+   "id": "michael-shellenberger",
+   "label": "Michael Shellenberger",
+   "role": "journalist"
+  },
+  {
+   "cls": "institution",
+   "id": "public-substack",
+   "label": "Public",
+   "role": "institution"
+  },
+  {
+   "cls": "person",
+   "id": "george-knapp",
+   "label": "George Knapp",
+   "role": "journalist"
+  },
+  {
+   "cls": "institution",
+   "id": "klas-tv",
+   "label": "KLAS-TV (Las Vegas)",
+   "role": "institution"
+  },
+  {
+   "cls": "document",
+   "id": "klas-lazar-broadcasts-1989",
+   "label": "The KLAS-TV Lazar broadcasts, 1989",
+   "role": "document"
+  },
+  {
+   "cls": "person",
+   "id": "jeremy-corbell",
+   "label": "Jeremy Kenyon Lockyer Corbell",
+   "role": "journalist"
+  },
+  {
+   "cls": "document",
+   "id": "corbell-lazar-2018",
+   "label": "Bob Lazar: Area 51 and Flying Saucers (2018)",
+   "role": "document"
+  },
+  {
+   "cls": "program",
+   "id": "weaponized-podcast",
+   "label": "Weaponized (Knapp & Corbell)",
+   "role": "institution"
+  },
+  {
+   "cls": "person",
+   "id": "jesse-michels",
+   "label": "Jesse Michels",
+   "role": "journalist"
+  },
+  {
+   "cls": "program",
+   "id": "american-alchemy",
+   "label": "American Alchemy",
+   "role": "institution"
+  },
+  {
+   "cls": "document",
+   "id": "michels-gerb-structural-episode",
+   "label": "'The Pentagon's UFO Program Is Real [Here's How It Works!]'",
+   "role": "document"
+  },
+  {
+   "cls": "person",
+   "id": "uap-gerb",
+   "label": "'UAP Gerb' (Sam)",
+   "role": "claimant"
+  },
+  {
+   "cls": "person",
+   "id": "ross-coulthart",
+   "label": "Ross Coulthart",
+   "role": "journalist"
+  },
+  {
+   "cls": "institution",
+   "id": "newsnation",
+   "label": "NewsNation",
+   "role": "institution"
+  },
+  {
+   "cls": "program",
+   "id": "newsnation-reality-check",
+   "label": "Reality Check with Ross Coulthart (NewsNation)",
+   "role": "institution"
+  },
+  {
+   "cls": "person",
+   "id": "rob-jones",
+   "label": "Rob Jones",
+   "role": "journalist"
+  },
+  {
+   "cls": "institution",
+   "id": "the-intercept",
+   "label": "The Intercept",
+   "role": "institution"
+  },
+  {
+   "cls": "person",
+   "id": "ken-klippenstein",
+   "label": "Ken Klippenstein",
+   "role": "journalist"
+  },
+  {
+   "cls": "institution",
+   "id": "the-hill",
+   "label": "The Hill",
+   "role": "institution"
+  },
+  {
+   "cls": "person",
+   "id": "john-greenewald",
+   "label": "John Greenewald Jr.",
+   "role": "journalist"
+  },
+  {
+   "cls": "person",
+   "id": "john-lear",
+   "label": "John Olsen Lear",
+   "role": "claimant"
+  },
+  {
+   "cls": "event",
+   "id": "national-press-club-2001",
+   "label": "Disclosure Project press conference, National Press Club, 9 May 2001",
+   "role": "event"
+  },
+  {
+   "cls": "event",
+   "id": "hearing-2023-07-26",
+   "label": "House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'",
+   "role": "event"
+  },
+  {
+   "cls": "event",
+   "id": "hearing-2025-09-09",
+   "label": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'",
+   "role": "event"
+  },
+  {
+   "cls": "person",
+   "id": "david-grusch",
+   "label": "David Charles Grusch",
+   "role": "claimant"
+  },
+  {
+   "cls": "person",
+   "id": "luis-elizondo",
+   "label": "Luis D. Elizondo",
+   "role": "claimant"
+  },
+  {
+   "cls": "person",
+   "id": "jake-barber",
+   "label": "Jake Barber",
+   "role": "witness"
+  },
+  {
+   "cls": "institution",
+   "id": "skywatcher",
+   "label": "Skywatcher",
+   "role": "institution"
+  },
+  {
+   "cls": "person",
+   "id": "dylan-borland",
+   "label": "Dylan Borland",
+   "role": "witness"
+  },
+  {
+   "cls": "person",
+   "id": "harry-reid",
+   "label": "Harry M. Reid",
+   "role": "legislator"
+  },
+  {
+   "cls": "person",
+   "id": "robert-bigelow",
+   "label": "Robert T. Bigelow",
+   "role": "contractor"
+  },
+  {
+   "cls": "person",
+   "id": "james-lacatski",
+   "label": "James T. Lacatski",
+   "role": "official"
+  },
+  {
+   "cls": "program",
+   "id": "nids",
+   "label": "National Institute for Discovery Science (NIDS)",
+   "role": "institution"
+  },
+  {
+   "cls": "program",
+   "id": "aawsap",
+   "label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)",
+   "role": "programme"
+  },
+  {
+   "cls": "institution",
+   "id": "mitre-corporation",
+   "label": "The MITRE Corporation",
+   "role": "contractor"
+  },
+  {
+   "cls": "institution",
+   "id": "doe",
+   "label": "United States Department of Energy",
+   "role": "institution"
+  },
+  {
+   "cls": "institution",
+   "id": "cia",
+   "label": "Central Intelligence Agency",
+   "role": "institution"
+  },
+  {
+   "cls": "program",
+   "id": "yankee-blue",
+   "label": "YANKEE BLUE (alleged AFOSI indoctrination program)",
+   "role": "programme"
+  }
+ ],
  "notes": "The three mined podcast corpora are sources here, not subjects. Canon 12 (Art Bell, Rogan, Strieber, Jacobsen) extends it.",
- "questions": [],
- "record": [],
- "related": [],
+ "questions": [
+  "Where is the 12-page Immaculate Constellation document held? It was entered into the Congressional Record but has never been located at a stable public address, and no written DoD or AARO response has been published.",
+  "Knapp reported on an episode in which BAASS, for which he consulted, was a party. How should his testimony about the Lockheed material be weighed against that?",
+  "What were the events against Grusch in September 2025 that Knapp referred to, and what is on the list of corporations he offered Congress?",
+  "Who, if anyone, prompted the Virginia FOIA request for Grusch's police records?",
+  "Some imagery Corbell released has been attributed to lens artefacts; which items, and has he responded?",
+  "When exactly did the 1989 Lazar broadcasts air, and what verification did KLAS-TV do before broadcast?",
+  "Was John Lear the route by which Lazar reached Knapp, as is widely repeated but documented nowhere the board has opened?"
+ ],
+ "record": [
+  {
+   "cite": [
+    "e-7de7d7ba16",
+    "e-d7b4ab3748",
+    "e-d1da23f925",
+    "e-ecbb6b27fc"
+   ],
+   "text": "The New York Times story of 16 December 2017, bylined by Helene Cooper, Ralph Blumenthal and Leslie Kean, named the programme, the $22 million, Harry Reid and Robert Bigelow and identified Luis Elizondo as its director; Reid told the paper he was not embarrassed or sorry he got it going."
+  },
+  {
+   "cite": [
+    "c-cbd47d9c44",
+    "e-2cdc0e2c56",
+    "e-db9e130e37",
+    "c-0995c26e6e",
+    "e-9de889acc5"
+   ],
+   "text": "The Debrief was co-founded by Micah Hanks as editor-in-chief, Tim McMillan as executive director and MJ Banias as content director, and published the Kean and Blumenthal Grusch story after its authors placed it there rather than at the Times."
+  },
+  {
+   "cite": [
+    "c-4abc42a8c5",
+    "e-9aa73b0143",
+    "c-4a5485ad49",
+    "c-55734bd54d"
+   ],
+   "text": "Hanks wrote The Debrief's 17 October 2024 report on Immaculate Constellation, framed as bombshell or disinformation, four weeks before the name reached Congress; the outlet has covered the AARO reports and the Disclosure Act's failures."
+  },
+  {
+   "cite": [
+    "e-e29588334e",
+    "e-ec7ca4f118",
+    "c-746cf4f2fc",
+    "c-46bc64290f",
+    "e-ef53895526"
+   ],
+   "text": "Immaculate Constellation reached the Congressional Record without a newsroom: Shellenberger reported it on Public and, testifying on 13 November 2024 as founder of Public, brought a 12-page document that Rep. Mace entered into the record."
+  },
+  {
+   "cite": [
+    "c-67ffb4cf08",
+    "e-3b995b6c32",
+    "e-6216782e12",
+    "c-c298b95aa9"
+   ],
+   "text": "Knapp testified on 9 September 2025 as 'UAP Journalist' and opened: \"I am George Knapp, chief investigative reporter at KLAS-TV in Las Vegas.\" His KLAS I-Team had published AAWSAP contract documentation showing the DIA-funded study was executed in Las Vegas."
+  },
+  {
+   "cite": [
+    "c-4b84cf75ed",
+    "e-f0fb54b643",
+    "e-203404d18c"
+   ],
+   "text": "A Las Vegas Review-Journal report of 19 June 1990 confirms that Bob Lazar was the focal point of Knapp's award-winning KLAS-TV series, the only contemporaneous record the board holds that the 1989 broadcasts happened."
+  },
+  {
+   "cite": [
+    "c-c8776d9891",
+    "c-0790deb5d0",
+    "c-7beb8c1804",
+    "e-6ea67adbda",
+    "e-a0d33e96a3",
+    "c-8f4645bce9",
+    "c-7c12ceacfd",
+    "c-a700b08582",
+    "e-85739d3979",
+    "e-c3e2e554ae"
+   ],
+   "text": "Jeremy Corbell directed Bob Lazar: Area 51 and Flying Saucers, 97 minutes, released between November and December 2018 and featuring Lazar and Knapp. At the 26 July 2023 hearing Rep. Burchett entered Corbell's report The UAP Puzzle and a statement by Knapp into the record, saying they were not witnesses."
+  },
+  {
+   "cite": [
+    "c-a6fd5747f3",
+    "c-23aaa1b22b"
+   ],
+   "text": "McMillan obtained the police report of the 19 July 2017 FBI search of Lazar's business and showed it supported a homicide investigation into a thallium death in which Lazar is not recorded as a suspect."
+  },
+  {
+   "cite": [
+    "c-819fcb217d",
+    "e-1bc7468877",
+    "e-59a02fe543",
+    "e-429d212b55"
+   ],
+   "text": "Ken Klippenstein published in The Intercept, in August 2023, Loudoun County Sheriff's records of Grusch's 2014 and 2018 emergency custody episodes obtained under Virginia FOIA. In June 2019 The Intercept's Keith Kloor had reported no discernible evidence that Elizondo worked for, much less led, a government UFO programme."
+  },
+  {
+   "cite": [
+    "c-36a28d1773",
+    "c-3f06578c09",
+    "c-5eab078062"
+   ],
+   "text": "The Intercept was established in 2014 as a non-profit funded by readers, taking no advertising and publishing audited financial statements. The Hill has run a series of UAP opinion pieces aimed at its congressional readership."
+  },
+  {
+   "cite": [
+    "e-94a53da296",
+    "c-85fa8e6aa9",
+    "c-c6c924d1b0",
+    "c-4443600953"
+   ],
+   "text": "Greenewald's Black Vault has published well over two million pages since 1996, including the DD Form 1910 for the Navy videos and the Elizondo-Gough correspondence, and he found the FAA's Japan Air Lines 1628 file at the National Archives after the FAA twice told him it had been or would be destroyed."
+  },
+  {
+   "cite": [
+    "c-38a2d16a4b",
+    "c-ba7ff7f5e3",
+    "e-c67a3fb71e"
+   ],
+   "text": "ABC News reported the Disclosure Project's National Press Club event on 9 May 2001, organised by Steven Greer, at which about 20 former government workers came forward; Philip Klass recorded that 20 of the 69 witnesses in Greer's book spoke."
+  },
+  {
+   "cite": [
+    "c-99acb0f550",
+    "e-5071112b19"
+   ],
+   "text": "John Lear's own claim document is dated 29 December 1987 and was circulated on the ParaNet bulletin board in early 1988, about eighteen months before Lazar's KLAS appearance."
+  }
+ ],
+ "related": [
+  "documentaries",
+  "civilian-groups",
+  "nyt-2017",
+  "immaculate-constellation",
+  "hearing-2023",
+  "hearing-2024",
+  "grusch-allegations",
+  "lazar-s4",
+  "kona-blue",
+  "testimony-provenance",
+  "disclosure-project-2001",
+  "aawsap-baass"
+ ],
  "section": "media-movement",
  "span": {
   "from": "1989",
   "to": "2026"
  },
- "status": "draft",
- "summary": [],
+ "status": "verified",
+ "summary": [
+  {
+   "cite": [
+    "e-fcf18481ad",
+    "c-b4c9a41786"
+   ],
+   "text": "The board measures the shift from the New York Times story of 16 December 2017, which it calls the last time a US paper of record originated a disclosure about the programme's existence; the same authors' 2023 Grusch story ran in The Debrief."
+  },
+  {
+   "cite": [
+    "e-490189dc86",
+    "e-70825040cc",
+    "e-01ec7bd604",
+    "e-1f8c08fa28",
+    "e-e29588334e",
+    "e-94a53da296"
+   ],
+   "text": "The substrate is small and identifiable: KLAS-TV in Las Vegas, where George Knapp has reported since 1981; NewsNation's single correspondent Ross Coulthart; Jesse Michels's American Alchemy and the Weaponized podcast; Michael Shellenberger's newsletter Public; and John Greenewald's FOIA archive, The Black Vault."
+  },
+  {
+   "cite": [
+    "c-29845700c5"
+   ],
+   "text": "The board infers that long-form independent media lets claims be laid out at length and indexed, while its sponsorship, membership and tour revenue creates an incentive to escalate."
+  },
+  {
+   "cite": [
+    "e-429d212b55"
+   ],
+   "text": "The same substrate holds its adversarial counterweight: The Intercept's reporting subtracted from the record, challenging Elizondo's AATIP role and publishing FOIA'd police records on Grusch."
+  }
+ ],
  "title": "Podcasts, broadcasters and independent media"
 }

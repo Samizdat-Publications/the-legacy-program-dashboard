@@ -14,25 +14,2073 @@
   "pete-hegseth"
  ],
  "appendixT": "house-push-2026",
- "cites": {},
- "claimed": [],
- "contested": [],
+ "cites": {
+  "c-000ac70875": {
+   "id": "c-000ac70875",
+   "kind": "claim",
+   "node": "congressional-uap-caucus",
+   "nodeLabel": "Congressional UAP Caucus",
+   "source": {
+    "domain": null,
+    "text": "The Hill, 12 January 2024; The Hill, 12 March 2024; The Hill/NewsNation, 29 June 2026",
+    "url": null
+   },
+   "text": "Rep. Andy Ogles is described as 'part of the UAP Caucus but not the Oversight Committee'; Rep. Moskowitz is described as 'a member of the UAP Caucus'; Rep. Burlison is described as 'a member of the caucus' and later as 'a member of the so-called UAP Caucus in Congress.'",
+   "tier": 2
+  },
+  "c-0bf4c36931": {
+   "id": "c-0bf4c36931",
+   "kind": "claim",
+   "node": "eric-burlison",
+   "nodeLabel": "Eric Burlison",
+   "source": {
+    "domain": null,
+    "text": "Rep. Eric Burlison, 9 September 2025, GPO transcript CHRG-119hhrg61718",
+    "url": null
+   },
+   "text": "'Just last night, I tried to get an amendment onto the National Defense Authorization Act that fit in the germaneness of that bill to have UAP disclosure. And conveniently, it was named nongermane, mostly deemed by staff, not even an elected official.'",
+   "tier": 1
+  },
+  "c-1f6f285457": {
+   "id": "c-1f6f285457",
+   "kind": "claim",
+   "node": "capitol-disclosure-event-2026-06-09",
+   "nodeLabel": "Capitol UAP disclosure event, 9 June 2026",
+   "source": {
+    "domain": null,
+    "text": "NewsNation/The Hill, 9 June 2026",
+    "url": null
+   },
+   "text": "David Grusch: 'Political appointees have not complied with the disclosure law.'",
+   "tier": 2
+  },
+  "c-25173f6b32": {
+   "id": "c-25173f6b32",
+   "kind": "claim",
+   "node": "uapda-fy2027-house-adopted",
+   "nodeLabel": "Unidentified Anomalous Phenomena Disclosure Act - Burlison amendment to the FY2027 NDAA",
+   "source": {
+    "domain": null,
+    "text": "NewsTalk KZRG, 23 July 2026",
+    "url": null
+   },
+   "text": "The House adopted the amendment on 23 July 2026 as part of the FY2027 NDAA; it awaits Senate consideration.",
+   "tier": 2
+  },
+  "c-2d6224160f": {
+   "id": "c-2d6224160f",
+   "kind": "claim",
+   "node": "hr-8424-uap-transparency-act",
+   "nodeLabel": "H.R. 8424 - UAP Transparency Act (118th Congress)",
+   "source": {
+    "domain": null,
+    "text": "Congress.gov H.R. 8424 (118th)",
+    "url": null
+   },
+   "text": "Introduced 16 May 2024 by Rep. Tim Burchett; died in referral at the end of the 118th Congress.",
+   "tier": 1
+  },
+  "c-2f4de2d1ed": {
+   "id": "c-2f4de2d1ed",
+   "kind": "claim",
+   "node": "house-oversight-committee",
+   "nodeLabel": "U.S. House Committee on Oversight and Government Reform",
+   "source": {
+    "domain": null,
+    "text": "GPO CHRG-118hhrg53022, CHRG-118hhrg57440, CHRG-119hhrg61718",
+    "url": null
+   },
+   "text": "Held the three House UAP hearings of 26 July 2023, 13 November 2024 and 9 September 2025, all printed by the Government Publishing Office.",
+   "tier": 1
+  },
+  "c-319008468b": {
+   "id": "c-319008468b",
+   "kind": "claim",
+   "node": "uap-disclosure-forum-2026",
+   "nodeLabel": "Disclosure Forum 2026",
+   "source": {
+    "domain": null,
+    "text": "The Hill/NewsNation, 29 June 2026",
+    "url": null
+   },
+   "text": "Rep. Burlison announced at the forum that MIT Lincoln Laboratory had agreed to make available a 1952 UFO briefing recording.",
+   "tier": 2
+  },
+  "c-352f6d278b": {
+   "id": "c-352f6d278b",
+   "kind": "claim",
+   "node": "burlison-mitre-letter-2026",
+   "nodeLabel": "Rep. Burlison records demand to MITRE, 22 May 2026",
+   "source": {
+    "domain": null,
+    "text": "DefenseScoop, 27 May 2026",
+    "url": null
+   },
+   "text": "MITRE spokesperson: 'If any relevant material is found, we will coordinate with the federal agencies responsible for the work to determine how to best provide any assets.'",
+   "tier": 2
+  },
+  "c-35af88b5ee": {
+   "id": "c-35af88b5ee",
+   "kind": "claim",
+   "node": "capitol-disclosure-event-2026-06-09",
+   "nodeLabel": "Capitol UAP disclosure event, 9 June 2026",
+   "source": {
+    "domain": null,
+    "text": "NewsNation/The Hill, 9 June 2026",
+    "url": null
+   },
+   "text": "Rep. Luna said lawmakers are requesting that the White House grant immunity to whistleblowers who come forward with information, including the locations of UFOs and advanced technology.",
+   "tier": 2
+  },
+  "c-401e1ba440": {
+   "id": "c-401e1ba440",
+   "kind": "claim",
+   "node": "hegseth-uap-statements-2026",
+   "nodeLabel": "Hegseth's UAP disclosure statements, Louisville, 23 February 2026",
+   "source": {
+    "domain": "defensescoop.com",
+    "text": "https://defensescoop.com/2026/02/25/hegseth-ufo-disclosure-trump-aaro-uap-caseload/",
+    "url": "https://defensescoop.com/2026/02/25/hegseth-ufo-disclosure-trump-aaro-uap-caseload/"
+   },
+   "text": "Hegseth: 'I don't want to over-promise and under-deliver. So, we're going to take a little time.'",
+   "tier": 2
+  },
+  "c-42460c1643": {
+   "id": "c-42460c1643",
+   "kind": "claim",
+   "node": "pete-hegseth",
+   "nodeLabel": "Pete Hegseth",
+   "source": {
+    "domain": null,
+    "text": "war.gov/UFO official release index, accessed August 2026",
+    "url": null
+   },
+   "text": "The Department of War hosts the PURSUE declassification programme at war.gov/UFO, with five releases published between 8 May and 7 August 2026.",
+   "tier": 1
+  },
+  "c-44c910089d": {
+   "id": "c-44c910089d",
+   "kind": "claim",
+   "node": "james-comer",
+   "nodeLabel": "James Comer Jr.",
+   "source": {
+    "domain": null,
+    "text": "Inference from CHRG-118hhrg53022, CHRG-118hhrg57440, CHRG-119hhrg61718 and oversight.house.gov releases",
+    "url": null
+   },
+   "text": "No UAP-related subpoena has been issued by the Committee under Comer's chairmanship despite repeated member requests on the record (Gaetz 2023, Gallaudet 2024, Luna 2026). Reasoning: no subpoena appears in the printed indexes of the three hearing records or in committee releases located through August 2026.",
+   "tier": 3
+  },
+  "c-4863956419": {
+   "id": "c-4863956419",
+   "kind": "claim",
+   "node": "trump-uap-release-directive-2026",
+   "nodeLabel": "Presidential direction to identify and release UAP files (19-20 February 2026)",
+   "source": {
+    "domain": null,
+    "text": "Inference from the absence of any cited EO number across the portal, AARO's materials and DefenseScoop's coverage",
+    "url": null
+   },
+   "text": "No executive order text establishing PURSUE has appeared on war.gov, aaro.mil or in the contemporaneous reporting; the programme appears to rest on informal direction, leaving its scope and continuation entirely discretionary.",
+   "tier": 3
+  },
+  "c-48ae97948e": {
+   "id": "c-48ae97948e",
+   "kind": "claim",
+   "node": "eric-burlison",
+   "nodeLabel": "Eric Burlison",
+   "source": {
+    "domain": null,
+    "text": "CHRG-119hhrg61718, 9 September 2025",
+    "url": null
+   },
+   "text": "'Last year, we were blocked by someone in House administration from being able to receive a full briefing from AARO, so not an elected official, but someone in staff blocked us. And I have had it.'",
+   "tier": 1
+  },
+  "c-4e7f5b1aa6": {
+   "id": "c-4e7f5b1aa6",
+   "kind": "claim",
+   "node": "uap-disclosure-forum-2026",
+   "nodeLabel": "Disclosure Forum 2026",
+   "source": {
+    "domain": null,
+    "text": "The Hill/NewsNation, 29 June 2026",
+    "url": null
+   },
+   "text": "Held 25 June 2026, sponsored by the Disclosure Foundation, billed as a first-of-its-kind gathering of lawmakers, UAP researchers and whistleblowers.",
+   "tier": 2
+  },
+  "c-4e8d5ab8aa": {
+   "id": "c-4e8d5ab8aa",
+   "kind": "claim",
+   "node": "anna-paulina-luna",
+   "nodeLabel": "Anna Paulina Luna",
+   "source": {
+    "domain": null,
+    "text": "House Oversight press release, 'Luna continues transparency investigation into UAPs', 1 April 2026",
+    "url": null
+   },
+   "text": "On 1 April 2026 Luna wrote to Secretary of War Hegseth demanding UAP video files held by AARO, following September 2025 whistleblower testimony that AARO held additional video records.",
+   "tier": 1
+  },
+  "c-564e725434": {
+   "id": "c-564e725434",
+   "kind": "claim",
+   "node": "hr-10111-uap-whistleblower-protection-act",
+   "nodeLabel": "H.R. 10111 - UAP Whistleblower Protection Act (118th Congress)",
+   "source": {
+    "domain": null,
+    "text": "Congress.gov H.R. 10111 (118th); GPO BILLS-118hr10111ih",
+    "url": null
+   },
+   "text": "Introduced 12 November 2024 by Rep. Tim Burchett; cosponsors Nancy Mace, Anna Paulina Luna and Eric Burlison; referred to Oversight and Accountability and additionally to Intelligence (Permanent Select) and Armed Services.",
+   "tier": 1
+  },
+  "c-59c4aea86d": {
+   "id": "c-59c4aea86d",
+   "kind": "claim",
+   "node": "pete-hegseth",
+   "nodeLabel": "Pete Hegseth",
+   "source": {
+    "domain": null,
+    "text": "war.gov/UFO quoting the President; contemporaneous wire coverage 20 February 2026",
+    "url": null
+   },
+   "text": "President Trump stated on 19 February 2026 that he would direct the Secretary of War to begin identifying and releasing government files related to alien and extraterrestrial life.",
+   "tier": 1
+  },
+  "c-5c496ac860": {
+   "id": "c-5c496ac860",
+   "kind": "claim",
+   "node": "congressional-uap-caucus",
+   "nodeLabel": "Congressional UAP Caucus",
+   "source": {
+    "domain": null,
+    "text": "Rep. Burchett press release, 22 August 2023; The Hill, 12 March 2024 ('A bipartisan group of lawmakers formed the House UAP Caucus last fall')",
+    "url": null
+   },
+   "text": "Launched by Rep. Tim Burchett on 22 August 2023 together with a caucus letter to the Intelligence Community Inspector General about UAP retrieval programs.",
+   "tier": 2
+  },
+  "c-60df48e812": {
+   "id": "c-60df48e812",
+   "kind": "claim",
+   "node": "hegseth-uap-statements-2026",
+   "nodeLabel": "Hegseth's UAP disclosure statements, Louisville, 23 February 2026",
+   "source": {
+    "domain": "defensescoop.com",
+    "text": "https://defensescoop.com/2026/02/20/trump-ufo-uap-government-files-disclosure/",
+    "url": "https://defensescoop.com/2026/02/20/trump-ufo-uap-government-files-disclosure/"
+   },
+   "text": "Hegseth's reference to 'that executive order' is unmatched by any published order; the contemporaneous instrument is a Truth Social post. Either the Secretary characterised a social-media post as an executive order, or an unpublished order exists. Reasoning: no UAP declassification executive order appears in the Federal Register or on whitehouse.gov as of 12 August 2026.",
+   "tier": 3
+  },
+  "c-63b8ff5db8": {
+   "id": "c-63b8ff5db8",
+   "kind": "claim",
+   "node": "eric-burlison",
+   "nodeLabel": "Eric Burlison",
+   "source": {
+    "domain": "mgln.ai",
+    "text": "American Alchemy with Jesse Michels, 'Congressman: President Trump Was Briefed On Alien Hybrids!', 2 July 2026, 1:50:35 https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL2654068830.mp3",
+    "url": "https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL2654068830.mp3"
+   },
+   "text": "In the same episode Burlison gave his reading of that answer and of the structure generally: that a programme is 'probably organized from the ffrdc level' because an FFRDC can create the programme and the funding justification and then report upward only what it must, and that turnover and compartmentation mean current officeholders will not find decades-old material unless outsiders hand them a named file and a date (0:20:42, 1:50:35). He states this as his own inference.",
+   "tier": 2
+  },
+  "c-645d940fc6": {
+   "id": "c-645d940fc6",
+   "kind": "claim",
+   "node": "uap-nda-waiver-directive-2026",
+   "nodeLabel": "Presidential directive waiving UAP-related nondisclosure agreements",
+   "source": {
+    "domain": null,
+    "text": "Fox News, 21 July 2026",
+    "url": null
+   },
+   "text": "Officials clarified the directive is 'not a declassification directive' and permits disclosure only to cleared government investigators at AARO or the PURSUE task force.",
+   "tier": 2
+  },
+  "c-66d65a1ec6": {
+   "id": "c-66d65a1ec6",
+   "kind": "claim",
+   "node": "eric-burlison",
+   "nodeLabel": "Eric Burlison",
+   "source": {
+    "domain": null,
+    "text": "Burlison at the Capitol press conference, 9 June 2026, reported by Fox News",
+    "url": null
+   },
+   "text": "'There must be real penalties for officials who knowingly withhold information from Congress.'",
+   "tier": 2
+  },
+  "c-6d2a16c423": {
+   "id": "c-6d2a16c423",
+   "kind": "claim",
+   "node": "eric-burlison",
+   "nodeLabel": "Eric Burlison",
+   "source": {
+    "domain": null,
+    "text": "Rep. Eric Burlison, official press release, 27 March 2025",
+    "url": null
+   },
+   "text": "Named David Grusch Special Advisor to his congressional office on 27 March 2025, citing Grusch's NRO/NGA service and the credible-and-urgent whistleblower finding.",
+   "tier": 1
+  },
+  "c-72551ea992": {
+   "id": "c-72551ea992",
+   "kind": "claim",
+   "node": "eric-burlison",
+   "nodeLabel": "Eric Burlison",
+   "source": {
+    "domain": null,
+    "text": "CHRG-119hhrg61718, 9 September 2025; DefenseScoop, 9 September 2025",
+    "url": null
+   },
+   "text": "Unveiled classified footage at the 9 Sept 2025 hearing: 'This was taken October 30 of 2024. This video is of an MQ-9 drone tracking an orb... off the coast of Yemen. You will see that another MQ-9 launched a hellfire missile.' The object was apparently struck and continued.",
+   "tier": 1
+  },
+  "c-78fdc92ae0": {
+   "id": "c-78fdc92ae0",
+   "kind": "claim",
+   "node": "hr-1187-uap-transparency-act",
+   "nodeLabel": "H.R. 1187 - UAP Transparency Act (119th Congress)",
+   "source": {
+    "domain": null,
+    "text": "Congress.gov H.R. 1187 (119th); GPO BILLS-119hr1187ih",
+    "url": null
+   },
+   "text": "Introduced 11 February 2025 by Rep. Tim Burchett; cosponsors Jared Moskowitz and Anna Paulina Luna; referred to the House Committee on Oversight and Government Reform.",
+   "tier": 1
+  },
+  "c-79bb1bb7f3": {
+   "id": "c-79bb1bb7f3",
+   "kind": "claim",
+   "node": "uap-nda-waiver-directive-2026",
+   "nodeLabel": "Presidential directive waiving UAP-related nondisclosure agreements",
+   "source": {
+    "domain": null,
+    "text": "Fox News, 21 July 2026",
+    "url": null
+   },
+   "text": "Trump directed the Department of War and the intelligence community to waive UAP-related NDAs for former employees and contractors speaking with authorized investigators; a senior official said prior NDAs can be abrogated for those cooperating through proper channels.",
+   "tier": 2
+  },
+  "c-7b195c0a7b": {
+   "id": "c-7b195c0a7b",
+   "kind": "claim",
+   "node": "uapda-fy2027-house-adopted",
+   "nodeLabel": "Unidentified Anomalous Phenomena Disclosure Act - Burlison amendment to the FY2027 NDAA",
+   "source": {
+    "domain": null,
+    "text": "Internal: reconciliation of uapda-fy2027-house-adopted and burlison-uapda-fy2027-ndaa-amendment on collapse, 22 August 2026",
+    "url": null
+   },
+   "text": "The two nodes carried for this amendment before the 22 August 2026 collapse disagreed on its adoption date: one gave 'Adopted by the House 23 July 2026', the other 'Adopted by the House 22-23 July 2026'. The range is retained as the wider and safer statement; the disagreement is recorded rather than resolved silently.",
+   "tier": 2
+  },
+  "c-7c69f2d612": {
+   "id": "c-7c69f2d612",
+   "kind": "claim",
+   "node": "uap-select-committee-proposal",
+   "nodeLabel": "Proposed House Select Committee on UAP",
+   "source": {
+    "domain": null,
+    "text": "The Hill, 12 March 2024",
+    "url": null
+   },
+   "text": "Rep. Burlison requested a House select committee on UAP on 12 March 2024, focused first on DoD expenditures on alleged secret UAP recovery programs, with the stated support of Comer, Burchett and Moskowitz.",
+   "tier": 2
+  },
+  "c-7f3560f860": {
+   "id": "c-7f3560f860",
+   "kind": "claim",
+   "node": "burlison-mitre-letter-2026",
+   "nodeLabel": "Rep. Burlison records demand to MITRE, 22 May 2026",
+   "source": {
+    "domain": null,
+    "text": "DefenseScoop, 27 May 2026",
+    "url": null
+   },
+   "text": "Ten-page letter dated 22 May 2026 with over 40 production requests, asking MITRE to identify whether it 'has created, received, maintained, analyzed, transferred, destroyed, withheld, or otherwise controlled records' on UAP, anomalous materials and reverse engineering, dating back to 1930.",
+   "tier": 1
+  },
+  "c-81a9ceb736": {
+   "id": "c-81a9ceb736",
+   "kind": "claim",
+   "node": "burlison-mitre-letter-2026",
+   "nodeLabel": "Rep. Burlison records demand to MITRE, 22 May 2026",
+   "source": {
+    "domain": null,
+    "text": "DefenseScoop, 27 May 2026",
+    "url": null
+   },
+   "text": "All unclassified responsive records demanded within 45 days in native electronic format with complete metadata.",
+   "tier": 1
+  },
+  "c-86060294db": {
+   "id": "c-86060294db",
+   "kind": "claim",
+   "node": "eric-burlison",
+   "nodeLabel": "Eric Burlison",
+   "source": {
+    "domain": null,
+    "text": "DefenseScoop, 27 May 2026",
+    "url": null
+   },
+   "text": "Sent MITRE a 10-page letter dated 22 May 2026 with over 40 production requests, asking whether MITRE 'has created, received, maintained, analyzed, transferred, destroyed, withheld, or otherwise controlled records' on UAP, anomalous materials and reverse engineering back to 1930, with unclassified records due in native electronic format with metadata within 45 days.",
+   "tier": 1
+  },
+  "c-8ca1eeb6a8": {
+   "id": "c-8ca1eeb6a8",
+   "kind": "claim",
+   "node": "hr-5060-uap-whistleblower-protection-act",
+   "nodeLabel": "H.R. 5060 - UAP Whistleblower Protection Act (119th Congress)",
+   "source": {
+    "domain": null,
+    "text": "Congress.gov H.R. 5060 (119th); GPO BILLS-119hr5060ih",
+    "url": null
+   },
+   "text": "Introduced 29 August 2025 by Rep. Tim Burchett; cosponsors Anna Paulina Luna and Elijah Crane; referred to Oversight and Government Reform and additionally to Armed Services and Intelligence (Permanent Select).",
+   "tier": 1
+  },
+  "c-8ddd221f0e": {
+   "id": "c-8ddd221f0e",
+   "kind": "claim",
+   "node": "uap-nda-waiver-directive-2026",
+   "nodeLabel": "Presidential directive waiving UAP-related nondisclosure agreements",
+   "source": {
+    "domain": null,
+    "text": "Rep. Eric Burlison official press release, 29 July 2026",
+    "url": null
+   },
+   "text": "'Waiving UAP-related NDAs is something I have been calling for the administration to do' - with an offer of assistance and a recommendation that participants request congressional presence and counsel.",
+   "tier": 1
+  },
+  "c-8e3e0cf993": {
+   "id": "c-8e3e0cf993",
+   "kind": "claim",
+   "node": "pete-hegseth",
+   "nodeLabel": "Pete Hegseth",
+   "source": {
+    "domain": null,
+    "text": "Hegseth to reporters, reported by DefenseScoop, 25 February 2026",
+    "url": null
+   },
+   "text": "'We're going to be in full compliance with that executive order, [and we're] eager to provide that for the president' and 'I don't want to over-promise and under-deliver.'",
+   "tier": 2
+  },
+  "c-95df34ff78": {
+   "id": "c-95df34ff78",
+   "kind": "claim",
+   "node": "eric-burlison",
+   "nodeLabel": "Eric Burlison",
+   "source": {
+    "domain": null,
+    "text": "Rep. Eric Burlison official press release, 29 July 2026",
+    "url": null
+   },
+   "text": "'Waiving UAP-related NDAs is something I have been calling for the administration to do' - with a recommendation that participants request congressional presence and counsel.",
+   "tier": 1
+  },
+  "c-a1a8208f30": {
+   "id": "c-a1a8208f30",
+   "kind": "claim",
+   "node": "eric-burlison",
+   "nodeLabel": "Eric Burlison",
+   "source": {
+    "domain": null,
+    "text": "Rep. Eric Burlison, official press release, 29 July 2026",
+    "url": null
+   },
+   "text": "'Waiving UAP-related NDAs is something I have been calling for the administration to do,' with an offer to assist current and former employees and contractors who wish to disclose.",
+   "tier": 1
+  },
+  "c-b3ab8484d3": {
+   "id": "c-b3ab8484d3",
+   "kind": "claim",
+   "node": "tim-burchett",
+   "nodeLabel": "Timothy Floyd Burchett",
+   "source": {
+    "domain": null,
+    "text": "Congress.gov bill records, 118th and 119th Congresses",
+    "url": null
+   },
+   "text": "Sponsor of H.R. 8424 and H.R. 1187 (UAP Transparency Act) and H.R. 10111 and H.R. 5060 (UAP Whistleblower Protection Act); none has advanced beyond referral.",
+   "tier": 1
+  },
+  "c-b65a75538e": {
+   "id": "c-b65a75538e",
+   "kind": "claim",
+   "node": "uap-select-committee-proposal",
+   "nodeLabel": "Proposed House Select Committee on UAP",
+   "source": {
+    "domain": null,
+    "text": "The Hill, 12 March 2024",
+    "url": null
+   },
+   "text": "Burchett led an earlier select committee effort under Speaker Kevin McCarthy that was lost when McCarthy lost the speakership.",
+   "tier": 2
+  },
+  "c-b82d7a2466": {
+   "id": "c-b82d7a2466",
+   "kind": "claim",
+   "node": "task-force-declassification-federal-secrets",
+   "nodeLabel": "Task Force on the Declassification of Federal Secrets",
+   "source": {
+    "domain": null,
+    "text": "Rep. Burlison press release, 27 March 2025",
+    "url": null
+   },
+   "text": "Grusch's role as Special Advisor to Rep. Burlison expressly includes service on the Task Force on the Declassification of Federal Secrets.",
+   "tier": 1
+  },
+  "c-bde51b2525": {
+   "id": "c-bde51b2525",
+   "kind": "claim",
+   "node": "press-conf-2026-06-09",
+   "nodeLabel": "Capitol UAP Disclosure Press Conference",
+   "source": {
+    "domain": null,
+    "text": "Fox News, 10 June 2026, reporting the 9 June 2026 Capitol press conference",
+    "url": null
+   },
+   "text": "Grusch: 'During my investigation, I found slush funds to the tune of billions of dollars per annum for these activities,' and 'This is also a real fraud, waste and abuse issue.'",
+   "tier": 2
+  },
+  "c-be24146443": {
+   "id": "c-be24146443",
+   "kind": "claim",
+   "node": "eric-burlison",
+   "nodeLabel": "Eric Burlison",
+   "source": {
+    "domain": "burlison.house.gov",
+    "text": "https://burlison.house.gov/media/press-releases/house-adopts-burlison-amendment-establishing-uap-disclosure-framework",
+    "url": "https://burlison.house.gov/media/press-releases/house-adopts-burlison-amendment-establishing-uap-disclosure-framework"
+   },
+   "text": "The House adopted Burlison's Unidentified Anomalous Phenomena Disclosure Act as an amendment to the FY2027 NDAA on 22 July 2026.",
+   "tier": 1
+  },
+  "c-bf19f238f5": {
+   "id": "c-bf19f238f5",
+   "kind": "claim",
+   "node": "eric-burlison",
+   "nodeLabel": "Eric Burlison",
+   "source": {
+    "domain": null,
+    "text": "Rep. Burlison to The Hill/NewsNation, 12 March 2024",
+    "url": null
+   },
+   "text": "'They weren't transparent to us in a SCIF setting. So they could have brought forward evidence. They could have explained what these Special Access Programs actually do. But they are not willing to do that with Congress.'",
+   "tier": 2
+  },
+  "c-c346a7676f": {
+   "id": "c-c346a7676f",
+   "kind": "claim",
+   "node": "ndaa-fy2027-uap-amendment",
+   "nodeLabel": "Burlison UAP Records Disclosure Amendment, FY2027 NDAA",
+   "source": {
+    "domain": null,
+    "text": "Newstalk KZRG, 23 July 2026",
+    "url": null
+   },
+   "text": "The amendment's disclosure requirements extend to certain government contractors that possess covered records.",
+   "tier": 1
+  },
+  "c-c67ee9f5a1": {
+   "id": "c-c67ee9f5a1",
+   "kind": "claim",
+   "node": "eric-burlison",
+   "nodeLabel": "Eric Burlison",
+   "source": {
+    "domain": "mgln.ai",
+    "text": "American Alchemy with Jesse Michels, 'Congressman: President Trump Was Briefed On Alien Hybrids!', 2 July 2026, 0:19:48 https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL2654068830.mp3",
+    "url": "https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL2654068830.mp3"
+   },
+   "text": "On American Alchemy with Jesse Michels, 2 July 2026, Rep. Eric Burlison said his office sent an early letter to The Aerospace Corporation from his House Oversight role, that Aerospace responded by sending two people from its executive team, that the meeting was held in a SCIF during the Biden administration, and that 'they knew nothing' about UAP or reverse engineering. He said he expects to go back to them with more specific and detailed questions (0:19:48).",
+   "tier": 2
+  },
+  "c-cec0113c13": {
+   "id": "c-cec0113c13",
+   "kind": "claim",
+   "node": "capitol-disclosure-event-2026-06-09",
+   "nodeLabel": "Capitol UAP disclosure event, 9 June 2026",
+   "source": {
+    "domain": null,
+    "text": "NewsNation/The Hill, 9 June 2026",
+    "url": null
+   },
+   "text": "Rep. Moskowitz: 'Disclosure today, disclosure tomorrow. The American people deserve to know.'",
+   "tier": 2
+  },
+  "c-d0b3b0a09b": {
+   "id": "c-d0b3b0a09b",
+   "kind": "claim",
+   "node": "ndaa-fy2027-uap-amendment",
+   "nodeLabel": "Burlison UAP Records Disclosure Amendment, FY2027 NDAA",
+   "source": {
+    "domain": null,
+    "text": "Newstalk KZRG, 23 July 2026",
+    "url": null
+   },
+   "text": "The House adopted Burlison's UAP records disclosure amendment as part of the FY2027 National Defense Authorization Act in July 2026; it would require agencies to identify, preserve and transfer UAP records to the National Archives on a statutory timeline and establish an independent UAP Records Review Board with Senate-confirmed members and subpoena authority.",
+   "tier": 1
+  },
+  "c-d8c531f3ae": {
+   "id": "c-d8c531f3ae",
+   "kind": "claim",
+   "node": "press-conf-2026-06-09",
+   "nodeLabel": "Capitol UAP Disclosure Press Conference",
+   "source": {
+    "domain": null,
+    "text": "NewsNation coverage of the 9 June 2026 press conference",
+    "url": null
+   },
+   "text": "Grusch stated the US government is aware of several kinds of non-human intelligence and called for declassification including records on the 1996 Varginha incident.",
+   "tier": 2
+  },
+  "c-dd2db84562": {
+   "id": "c-dd2db84562",
+   "kind": "claim",
+   "node": "capitol-disclosure-event-2026-06-09",
+   "nodeLabel": "Capitol UAP disclosure event, 9 June 2026",
+   "source": {
+    "domain": null,
+    "text": "NewsNation/The Hill, 9 June 2026",
+    "url": null
+   },
+   "text": "Rep. Burlison: 'For decades, the American people have been treated like children, told there are government secrets they just don't get to know,' and called on President Trump to waive all NDAs for UFO whistleblowers.",
+   "tier": 2
+  },
+  "c-ec246d5b7f": {
+   "id": "c-ec246d5b7f",
+   "kind": "claim",
+   "node": "uap-select-committee-proposal",
+   "nodeLabel": "Proposed House Select Committee on UAP",
+   "source": {
+    "domain": null,
+    "text": "Rep. Burlison to The Hill/NewsNation, 12 March 2024",
+    "url": null
+   },
+   "text": "'They weren't transparent to us in a SCIF setting... they are not willing to do that with Congress. So to me, it's about time that they opened the kimono.'",
+   "tier": 2
+  },
+  "c-ee7f1574d9": {
+   "id": "c-ee7f1574d9",
+   "kind": "claim",
+   "node": "press-conf-2026-06-09",
+   "nodeLabel": "Capitol UAP Disclosure Press Conference",
+   "source": {
+    "domain": null,
+    "text": "Fox News, 10 June 2026",
+    "url": null
+   },
+   "text": "Grusch accused the Defense Intelligence Agency of obstructing congressional oversight by withholding documents.",
+   "tier": 2
+  },
+  "c-f1c323e939": {
+   "id": "c-f1c323e939",
+   "kind": "claim",
+   "node": "eric-burlison",
+   "nodeLabel": "Eric Burlison",
+   "source": {
+    "domain": null,
+    "text": "NewsNation/The Hill, 9 June 2026",
+    "url": null
+   },
+   "text": "Described receiving a 'Tom Clancy-style dead drop' of UAP information at his office and called on President Trump to waive all NDAs for UAP whistleblowers.",
+   "tier": 2
+  },
+  "c-f8538dedc0": {
+   "id": "c-f8538dedc0",
+   "kind": "claim",
+   "node": "eric-burlison",
+   "nodeLabel": "Eric Burlison",
+   "source": {
+    "domain": null,
+    "text": "Rep. Burlison on X, quoted by The Hill/NewsNation, 16 May 2026",
+    "url": null
+   },
+   "text": "'If you really want to hide something from Congress, you don't put it in a government file cabinet. You hand it to a private contractor. That's why my investigation is following the trail into RAND, MITRE, Aerospace Corp, MIT Lincoln Labs, and the Northrop Grummans of the world.'",
+   "tier": 2
+  },
+  "c-f9d79c4b2f": {
+   "id": "c-f9d79c4b2f",
+   "kind": "claim",
+   "node": "james-comer",
+   "nodeLabel": "James Comer Jr.",
+   "source": {
+    "domain": null,
+    "text": "Fox News, 21 April 2026",
+    "url": null
+   },
+   "text": "With Rep. Burlison, launched the House Oversight probe into missing and dead scientists on 20-21 April 2026 after the disappearance of Gen. William Neil McCasland, requesting briefings from the FBI, the Department of War, NASA and the Department of Energy by 27 April 2026.",
+   "tier": 2
+  },
+  "c-fe00f676f0": {
+   "id": "c-fe00f676f0",
+   "kind": "claim",
+   "node": "disclosure-symposium-2026",
+   "nodeLabel": "2026 Disclosure Symposium",
+   "source": {
+    "domain": null,
+    "text": "Sen. Mike Rounds, Weekly Round[s] Up, 22-28 June 2026, rounds.senate.gov",
+    "url": null
+   },
+   "text": "'On Thursday, I spoke at the 2026 Disclosure Symposium, where I discussed the future of the Unidentified Anomalous Phenomena (UAP) Disclosure Act. I am once again cosponsoring as an amendment to this year's National Defense Authorization Act.'",
+   "tier": 2
+  },
+  "c-ff2ad25955": {
+   "id": "c-ff2ad25955",
+   "kind": "claim",
+   "node": "hegseth-uap-statements-2026",
+   "nodeLabel": "Hegseth's UAP disclosure statements, Louisville, 23 February 2026",
+   "source": {
+    "domain": "defensescoop.com",
+    "text": "https://defensescoop.com/2026/02/25/hegseth-ufo-disclosure-trump-aaro-uap-caseload/",
+    "url": "https://defensescoop.com/2026/02/25/hegseth-ufo-disclosure-trump-aaro-uap-caseload/"
+   },
+   "text": "Hegseth, Louisville, Colorado, 23 February 2026: 'We're going to be in full compliance with that executive order, [and we're] eager to provide that for the president. So, there'll be more coming on that.'",
+   "tier": 2
+  },
+  "e-0c1e37ec0b": {
+   "endpoints": [
+    {
+     "id": "david-grusch",
+     "label": "David Charles Grusch"
+    },
+    {
+     "id": "task-force-declassification-federal-secrets",
+     "label": "Task Force on the Declassification of Federal Secrets"
+    }
+   ],
+   "id": "e-0c1e37ec0b",
+   "kind": "edge",
+   "label": "Serves the Task Force via the Burlison advisory role",
+   "sources": [
+    {
+     "date": "2025-03-27",
+     "name": "Rep. Burlison press release",
+     "url": "https://burlison.house.gov/media/press-releases/rep-burlison-welcomes-former-us-air-force-officer-david-grusch-special-advisor"
+    }
+   ],
+   "text": "Burlison's announcement states Grusch's role includes serving on the Task Force on the Declassification of Federal Secrets, the body that held the September 2025 UAP hearing and hosted the June 2026 press conference.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-13fe300760": {
+   "endpoints": [
+    {
+     "id": "anna-paulina-luna",
+     "label": "Anna Paulina Luna"
+    },
+    {
+     "id": "congressional-uap-caucus",
+     "label": "Congressional UAP Caucus"
+    }
+   ],
+   "id": "e-13fe300760",
+   "kind": "edge",
+   "label": "Caucus member; later chairs the Task Force",
+   "sources": [
+    {
+     "date": "2025-02-18",
+     "name": "The Hill (opinion, Marik von Rennenkampff): House Republicans demand UFO transparency",
+     "url": "https://thehill.com/opinion/national-security/5149386-house-republicans-demand-ufo-transparency/"
+    }
+   ],
+   "text": "Described in February 2025 as 'a member of the bipartisan UAP Caucus' when named to chair the Task Force.",
+   "tier": 2,
+   "type": "institutional"
+  },
+  "e-2795b20cb0": {
+   "endpoints": [
+    {
+     "id": "hegseth-uap-statements-2026",
+     "label": "Hegseth's UAP disclosure statements, Louisville, 23 February 2026"
+    },
+    {
+     "id": "trump-uap-release-directive-2026",
+     "label": "Presidential direction to identify and release UAP files (19-20 February 2026)"
+    }
+   ],
+   "id": "e-2795b20cb0",
+   "kind": "edge",
+   "label": "characterises a social-media post as an executive order",
+   "sources": [
+    {
+     "date": "2026-02-25",
+     "name": "DefenseScoop, Hegseth doubles down",
+     "url": "https://defensescoop.com/2026/02/25/hegseth-ufo-disclosure-trump-aaro-uap-caseload/"
+    },
+    {
+     "date": "2026-02-20",
+     "name": "DefenseScoop, Trump UAP disclosure tease",
+     "url": "https://defensescoop.com/2026/02/20/trump-ufo-uap-government-files-disclosure/"
+    }
+   ],
+   "text": "Hegseth's phrase 'that executive order' has no matching published instrument. Either the Secretary mischaracterised the post or an unpublished order exists; the board records the discrepancy rather than resolving it.",
+   "tier": 3,
+   "type": "denial"
+  },
+  "e-30c7b9de6c": {
+   "endpoints": [
+    {
+     "id": "david-grusch",
+     "label": "David Charles Grusch"
+    },
+    {
+     "id": "eric-burlison",
+     "label": "Eric Burlison"
+    }
+   ],
+   "id": "e-30c7b9de6c",
+   "kind": "edge",
+   "label": "Hired as senior adviser on UAP issues for a four-month term from March 2025",
+   "sources": [
+    {
+     "date": "2025-03-26",
+     "name": "The Hill: Congress continues to seek answers on UFOs (Grusch hired as Burlison senior adviser)",
+     "url": "https://thehill.com/homenews/house/5214211-david-grusch-eric-burlison-ufo-transparency/"
+    },
+    {
+     "date": "2025-03-27",
+     "name": "Rep. Burlison press release",
+     "url": "https://burlison.house.gov/media/press-releases/rep-burlison-welcomes-former-us-air-force-officer-david-grusch-special-advisor"
+    },
+    {
+     "date": "2026-08-12",
+     "name": "Rep. Eric Burlison press releases",
+     "url": "https://burlison.house.gov/media/press-releases"
+    }
+   ],
+   "text": "The first time the central whistleblower in this record has been formally embedded in the legislative branch, with an explicit brief on UAP transparency and service on the Task Force on the Declassification of Federal Secrets.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-3573062eba": {
+   "endpoints": [
+    {
+     "id": "eric-burlison",
+     "label": "Eric Burlison"
+    },
+    {
+     "id": "waived-sap-notification-group",
+     "label": "Waived SAP Notification Group"
+    }
+   ],
+   "id": "e-3573062eba",
+   "kind": "edge",
+   "label": "no statutory entitlement; not a defense committee chair or ranking member",
+   "sources": [
+    {
+     "date": "2026-08-22",
+     "name": "10 U.S.C. 119, Special Access Programs: congressional oversight — subsections (e)(2) and (g) (OLRC prelim text, read 22 August 2026)",
+     "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim"
+    },
+    {
+     "date": "2026-08-22",
+     "name": "U.S. Senate, Dates of Sessions of the Congress (convening dates used to date each seat)",
+     "url": "https://www.senate.gov/legislative/DatesofSessionsofCongress.htm"
+    },
+    {
+     "date": "2023-07-26",
+     "name": "U.S. GPO, Hearing transcript, Serial No. 118-53 (CHRG-118hhrg53022)",
+     "url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm"
+    },
+    {
+     "date": null,
+     "name": "https://armedservices.house.gov/about/members.htm",
+     "url": "https://armedservices.house.gov/about/members.htm"
+    }
+   ],
+   "text": "Burlison is not listed among the members of the House Armed Services Committee and does not hold a chair or ranking seat on any of the six bodies named in 10 U.S.C. 119(g). His UAP oversight work therefore proceeds without any section 119 entitlement.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-366f9ac88b": {
+   "endpoints": [
+    {
+     "id": "eric-burlison",
+     "label": "Eric Burlison"
+    },
+    {
+     "id": "burlison-mitre-letter-2026",
+     "label": "Rep. Burlison records demand to MITRE, 22 May 2026"
+    }
+   ],
+   "id": "e-366f9ac88b",
+   "kind": "edge",
+   "label": "Author of the 22 May 2026 records demand",
+   "sources": [
+    {
+     "date": "2026-05-27",
+     "name": "DefenseScoop: MITRE moves to comply with lawmaker's request for UAP records and assets dating back to 1930",
+     "url": "https://defensescoop.com/2026/05/27/rep-eric-burlison-request-for-uap-records-mitre/"
+    }
+   ],
+   "text": "Ten pages, more than forty requests, records back to 1930, 45-day deadline, native electronic format with complete metadata.",
+   "tier": 1,
+   "type": "investigative"
+  },
+  "e-465eaee615": {
+   "endpoints": [
+    {
+     "id": "anna-paulina-luna",
+     "label": "Anna Paulina Luna"
+    },
+    {
+     "id": "waived-sap-notification-group",
+     "label": "Waived SAP Notification Group"
+    }
+   ],
+   "id": "e-465eaee615",
+   "kind": "edge",
+   "label": "no statutory entitlement; not a defense committee chair or ranking member",
+   "sources": [
+    {
+     "date": "2026-08-22",
+     "name": "10 U.S.C. 119, Special Access Programs: congressional oversight — subsections (e)(2) and (g) (OLRC prelim text, read 22 August 2026)",
+     "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim"
+    },
+    {
+     "date": "2026-08-22",
+     "name": "U.S. Senate, Dates of Sessions of the Congress (convening dates used to date each seat)",
+     "url": "https://www.senate.gov/legislative/DatesofSessionsofCongress.htm"
+    },
+    {
+     "date": "2026-08-10",
+     "name": "Archived: Department of War - PURSUE portal (war.gov/UFO) (Wayback 2026-08-10)",
+     "url": "https://web.archive.org/web/20260810202017/https://www.war.gov/UFO/"
+    },
+    {
+     "date": null,
+     "name": "https://armedservices.house.gov/about/members.htm",
+     "url": "https://armedservices.house.gov/about/members.htm"
+    }
+   ],
+   "text": "Luna is not listed among the members of the House Armed Services Committee and does not hold a chair or ranking seat on any of the six bodies named in 10 U.S.C. 119(g).",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-47f677f4fd": {
+   "endpoints": [
+    {
+     "id": "anna-paulina-luna",
+     "label": "Anna Paulina Luna"
+    },
+    {
+     "id": "trump-uap-release-directive-2026",
+     "label": "Presidential direction to identify and release UAP files (19-20 February 2026)"
+    }
+   ],
+   "id": "e-47f677f4fd",
+   "kind": "edge",
+   "label": "Task Force chair publicly thanks the President for the directive",
+   "sources": [
+    {
+     "date": "2026-02-20",
+     "name": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/2/20/trump-orders-pentagon-federal-agencies-to-release-files-on-ufos-and-aliens"
+    }
+   ],
+   "text": "'Thank you POTUS! As the Chairwoman of the Task Force that investigates these subjects, we are incredibly grateful.' The legislative and executive disclosure tracks converge here for the first time.",
+   "tier": 2,
+   "type": "legislative"
+  },
+  "e-4f4526e5e6": {
+   "endpoints": [
+    {
+     "id": "eric-burlison",
+     "label": "Eric Burlison"
+    },
+    {
+     "id": "missing-scientists-probe-2026",
+     "label": "House Oversight probe into deaths and disappearances of scientists, April 2026"
+    }
+   ],
+   "id": "e-4f4526e5e6",
+   "kind": "edge",
+   "label": "Co-launched the probe; revealed the McCasland trigger",
+   "sources": [
+    {
+     "date": "2026-04-21",
+     "name": "Fox News: Missing scientists probe was sparked after 'UFO General' disappeared, Republican lawmaker reveals",
+     "url": "https://www.foxnews.com/politics/missing-scientists-probe-sparked-after-ufo-general-disappeared-republican-lawmaker-reveals"
+    }
+   ],
+   "text": "Burlison's staff had been trying to reach McCasland about a separate congressional investigation before he vanished.",
+   "tier": 2,
+   "type": "investigative"
+  },
+  "e-5f6270e39f": {
+   "endpoints": [
+    {
+     "id": "task-force-declassification-federal-secrets",
+     "label": "Task Force on the Declassification of Federal Secrets"
+    },
+    {
+     "id": "press-conf-2026-06-09",
+     "label": "Capitol UAP Disclosure Press Conference"
+    }
+   ],
+   "id": "e-5f6270e39f",
+   "kind": "edge",
+   "label": "Hosted the press conference",
+   "sources": [
+    {
+     "date": "2026-06-10",
+     "name": "Fox News",
+     "url": "https://www.foxnews.com/politics/ufo-whistleblower-claims-billions-secret-spending-hidden-from-congress"
+    },
+    {
+     "date": "2026-06-09",
+     "name": "Los Angeles Magazine",
+     "url": "https://lamag.com/politics/ufo-whistleblower-david-grusch-returns-to-capitol-hill-tuesday/"
+    }
+   ],
+   "text": "The Task Force staged the event on the Capitol steps with Luna, Burchett, Burlison and Moskowitz to pressure the White House to convert the February 2026 declassification announcement into actual releases.",
+   "tier": 2,
+   "type": "legislative"
+  },
+  "e-605264769b": {
+   "endpoints": [
+    {
+     "id": "eric-burlison",
+     "label": "Eric Burlison"
+    },
+    {
+     "id": "uap-nda-waiver-directive-2026",
+     "label": "Presidential directive waiving UAP-related nondisclosure agreements"
+    }
+   ],
+   "id": "e-605264769b",
+   "kind": "edge",
+   "label": "Offers his office as a disclosure channel with counsel and congressional presence",
+   "sources": [
+    {
+     "date": "2026-07-29",
+     "name": "Rep. Burlison - Statement on President Trump's UAP NDA Directive",
+     "url": "https://burlison.house.gov/media/press-releases/rep-eric-burlison-releases-statement-president-trumps-uap-nda-directive"
+    }
+   ],
+   "text": "Burlison - whose Special Advisor is Grusch - recommends that anyone using the NDA waiver request congressional presence alongside legal counsel. That recommendation is a direct read-through of what happened to the last person who used executive channels alone.",
+   "tier": 1,
+   "type": "legislative"
+  },
+  "e-66fdbfec24": {
+   "endpoints": [
+    {
+     "id": "tim-burchett",
+     "label": "Timothy Floyd Burchett"
+    },
+    {
+     "id": "hr-8424-uap-transparency-act",
+     "label": "H.R. 8424 - UAP Transparency Act (118th Congress)"
+    }
+   ],
+   "id": "e-66fdbfec24",
+   "kind": "edge",
+   "label": "Sponsor of the 118th Congress predecessor",
+   "sources": [
+    {
+     "date": "2024-05-16",
+     "name": "Congress.gov, H.R. 8424 — UAP Transparency Act (118th Congress)",
+     "url": "https://www.congress.gov/bill/118th-congress/house-bill/8424"
+    }
+   ],
+   "text": "Died in referral; refiled as H.R. 1187.",
+   "tier": 1,
+   "type": "legislative"
+  },
+  "e-6fc321689f": {
+   "endpoints": [
+    {
+     "id": "david-grusch",
+     "label": "David Charles Grusch"
+    },
+    {
+     "id": "press-conf-2026-06-09",
+     "label": "Capitol UAP Disclosure Press Conference"
+    }
+   ],
+   "id": "e-6fc321689f",
+   "kind": "edge",
+   "label": "Escalates from concealment to fraud: 'slush funds to the tune of billions of dollars per annum'",
+   "sources": [
+    {
+     "date": "2026-06-10",
+     "name": "Fox News - UAP whistleblower David Grusch accuses agencies of hiding billions",
+     "url": "https://www.foxnews.com/politics/ufo-whistleblower-claims-billions-secret-spending-hidden-from-congress"
+    },
+    {
+     "date": "2026-06-09",
+     "name": "Los Angeles Magazine",
+     "url": "https://lamag.com/politics/ufo-whistleblower-david-grusch-returns-to-capitol-hill-tuesday/"
+    }
+   ],
+   "text": "At the Capitol press conference Grusch reframed the matter as fraud, waste and abuse, accused DIA of obstructing oversight, and said the government is aware of several kinds of non-human intelligence. Framed beforehand as 'moving from testimony to action.'",
+   "tier": 2,
+   "type": "witness-chain"
+  },
+  "e-74c9ca2665": {
+   "endpoints": [
+    {
+     "id": "uap-nda-waiver-directive-2026",
+     "label": "Presidential directive waiving UAP-related nondisclosure agreements"
+    },
+    {
+     "id": "pursue-releases",
+     "label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters"
+    }
+   ],
+   "id": "e-74c9ca2665",
+   "kind": "edge",
+   "label": "PURSUE named as an authorized receiving channel for waived-NDA disclosures",
+   "sources": [
+    {
+     "date": "2026-07-21",
+     "name": "Fox News - Trump directs agencies to waive NDAs for UAP whistleblowers",
+     "url": "https://www.foxnews.com/politics/long-hidden-ufo-information-center-trump-push-free-former-officials"
+    }
+   ],
+   "text": "Senior officials described former officials meeting with cleared AARO or PURSUE task force officials who may waive applicable NDAs during authorized discussions, with information then routed through existing declassification procedures.",
+   "tier": 2,
+   "type": "programmatic"
+  },
+  "e-7d67c2383f": {
+   "endpoints": [
+    {
+     "id": "congressional-uap-caucus",
+     "label": "Congressional UAP Caucus"
+    },
+    {
+     "id": "waived-sap-notification-group",
+     "label": "Waived SAP Notification Group"
+    }
+   ],
+   "id": "e-7d67c2383f",
+   "kind": "edge",
+   "label": "caucus membership confers no statutory access",
+   "sources": [
+    {
+     "date": "2026-08-22",
+     "name": "10 U.S.C. 119, Special Access Programs: congressional oversight — subsections (e)(2) and (g) (OLRC prelim text, read 22 August 2026)",
+     "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim"
+    },
+    {
+     "date": "2024-01-12",
+     "name": "The Hill: Classified UFO briefing — House members emerge with mixed feelings",
+     "url": "https://thehill.com/homenews/house/4406059-classified-ufo-briefing-house-members-mixed-feelings/"
+    }
+   ],
+   "text": "A congressional caucus is not a committee and appears nowhere in 10 U.S.C. 119(g). Caucus members acquire no entitlement to waived-SAP notification, which is why UAP advocacy in Congress has consistently sought to legislate new access rather than to invoke existing access.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-8040878d4d": {
+   "endpoints": [
+    {
+     "id": "anna-paulina-luna",
+     "label": "Anna Paulina Luna"
+    },
+    {
+     "id": "pete-hegseth",
+     "label": "Pete Hegseth"
+    }
+   ],
+   "id": "e-8040878d4d",
+   "kind": "edge",
+   "label": "1 April 2026 letter demanding AARO's UAP video holdings",
+   "sources": [
+    {
+     "date": "2026-04-01",
+     "name": "House Oversight - Luna continues transparency investigation into UAPs",
+     "url": "https://oversight.house.gov/release/luna-continues-transparency-investigation-into-uaps"
+    },
+    {
+     "date": "2026-05-25",
+     "name": "Sentinel News - The AARO Saga",
+     "url": "https://www.sentinel-news.org/p/the-aaro-saga"
+    },
+    {
+     "date": "2026-05-22",
+     "name": "Department of War - war.gov/UFO",
+     "url": "https://www.war.gov/UFO/"
+    }
+   ],
+   "text": "Luna wrote to the Secretary of War for video files held by AARO after September 2025 witnesses told the Task Force AARO held additional records; the PURSUE releases followed within five weeks.",
+   "tier": 1,
+   "type": "legislative"
+  },
+  "e-88d8177da1": {
+   "endpoints": [
+    {
+     "id": "tim-burchett",
+     "label": "Timothy Floyd Burchett"
+    },
+    {
+     "id": "hr-5060-uap-whistleblower-protection-act",
+     "label": "H.R. 5060 - UAP Whistleblower Protection Act (119th Congress)"
+    }
+   ],
+   "id": "e-88d8177da1",
+   "kind": "edge",
+   "label": "Sponsor of the reintroduced bill",
+   "sources": [
+    {
+     "date": "2025-08-29",
+     "name": "Congress.gov, H.R. 5060 — UAP Whistleblower Protection Act (119th Congress)",
+     "url": "https://www.congress.gov/bill/119th-congress/house-bill/5060"
+    },
+    {
+     "date": "2025-09-08",
+     "name": "MeriTalk: Reps. Reintroduce UAP Whistleblower Protection Bill",
+     "url": "https://www.meritalk.com/articles/reps-reintroduce-uap-whistleblower-protection-bill/"
+    },
+    {
+     "date": "2025-08-28",
+     "name": "Congress.gov - H.R.5060",
+     "url": "https://www.congress.gov/bill/119th-congress/house-bill/5060/text"
+    }
+   ],
+   "text": "H.R. 5060 in the 119th Congress, reintroducing H.R. 10111 from the 118th.",
+   "tier": 1,
+   "type": "legislative"
+  },
+  "e-8d3b7ed08b": {
+   "endpoints": [
+    {
+     "id": "eric-burlison",
+     "label": "Eric Burlison"
+    },
+    {
+     "id": "uap-select-committee-proposal",
+     "label": "Proposed House Select Committee on UAP"
+    }
+   ],
+   "id": "e-8d3b7ed08b",
+   "kind": "edge",
+   "label": "Led the March 2024 call for a select committee focused on expenditures",
+   "sources": [
+    {
+     "date": "2024-03-12",
+     "name": "The Hill: GOP lawmaker calls for House to form committee on UAPs",
+     "url": "https://thehill.com/homenews/house/4527900-gop-lawmaker-calls-for-house-to-form-committee-on-uaps/"
+    }
+   ],
+   "text": "Burlison said he had the support of Comer, Burchett and Moskowitz but had not raised it with Speaker Johnson.",
+   "tier": 2,
+   "type": "legislative"
+  },
+  "e-91af0f2574": {
+   "endpoints": [
+    {
+     "id": "pete-hegseth",
+     "label": "Pete Hegseth"
+    },
+    {
+     "id": "pursue-releases",
+     "label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters"
+    }
+   ],
+   "id": "e-91af0f2574",
+   "kind": "edge",
+   "label": "Releasing authority; signed transparency statement on the portal",
+   "sources": [
+    {
+     "date": "2026-08-07",
+     "name": "Department of War - PURSUE portal (war.gov/UFO)",
+     "url": "https://www.war.gov/UFO/"
+    },
+    {
+     "date": "2026-02-25",
+     "name": "DefenseScoop - Hegseth doubles down on Trump's UAP disclosure promise as AARO's caseload exceeds 2,000",
+     "url": "https://defensescoop.com/2026/02/25/hegseth-ufo-disclosure-trump-aaro-uap-caseload/"
+    }
+   ],
+   "text": "Hegseth, Louisville, 23 February 2026: 'We're going to be in full compliance with that executive order... there'll be more coming on that.' He set no timeline.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-95865c5415": {
+   "endpoints": [
+    {
+     "id": "eric-burlison",
+     "label": "Eric Burlison"
+    },
+    {
+     "id": "uap-disclosure-forum-2026",
+     "label": "Disclosure Forum 2026"
+    }
+   ],
+   "id": "e-95865c5415",
+   "kind": "edge",
+   "label": "Announced the Lincoln Laboratory production at the forum",
+   "sources": [
+    {
+     "date": "2026-06-29",
+     "name": "The Hill: 'Invasion of Washington' UFO tape may surface as lawmakers push release",
+     "url": "https://thehill.com/homenews/5944717-ufo-washington-invasion-evidence/"
+    }
+   ],
+   "text": "Jordan Flowers credited Burlison with shaking the artifact loose: 'He's stopped asking politely.'",
+   "tier": 2,
+   "type": "behavioral"
+  },
+  "e-a414af0719": {
+   "endpoints": [
+    {
+     "id": "eric-burlison",
+     "label": "Eric Burlison"
+    },
+    {
+     "id": "hearing-2025-09-09",
+     "label": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'"
+    }
+   ],
+   "id": "e-a414af0719",
+   "kind": "edge",
+   "label": "presented unreleased footage of a drone Hellfire engagement with an orb off Yemen, October 2024",
+   "sources": [
+    {
+     "date": "2025-09-09",
+     "name": "DefenseScoop - Military whistleblowers share new evidence of alleged UAP",
+     "url": "https://defensescoop.com/2025/09/09/military-whistleblowers-share-new-evidence-alleged-uap-ufo-hearing/"
+    }
+   ],
+   "text": "A sitting member introducing military engagement footage that AARO had not published is a direct measure of the office's disclosure posture.",
+   "tier": 2,
+   "type": "legislative"
+  },
+  "e-c59ac15387": {
+   "endpoints": [
+    {
+     "id": "eric-burlison",
+     "label": "Eric Burlison"
+    },
+    {
+     "id": "uapda-fy2027-house-adopted",
+     "label": "Unidentified Anomalous Phenomena Disclosure Act - Burlison amendment to the FY2027 NDAA"
+    }
+   ],
+   "id": "e-c59ac15387",
+   "kind": "edge",
+   "label": "author",
+   "sources": [
+    {
+     "date": "2026-07-22",
+     "name": "Burlison, House Adopts UAP Disclosure Framework",
+     "url": "https://burlison.house.gov/media/press-releases/house-adopts-burlison-amendment-establishing-uap-disclosure-framework"
+    },
+    {
+     "date": "2026-07-23",
+     "name": "NewsTalk KZRG - House approves Burlison amendment creating framework for UAP records disclosure",
+     "url": "https://www.newstalkkzrg.com/2026/07/23/house-approves-burlison-amendment-creating-framework-for-uap-records-disclosure/"
+    }
+   ],
+   "text": "The House adopted his Unidentified Anomalous Phenomena Disclosure Act amendment on 23 July 2026, creating a subpoena-empowered review board and contractor disclosure obligations.",
+   "tier": 1,
+   "type": "legislative"
+  },
+  "e-ca7ca83f75": {
+   "endpoints": [
+    {
+     "id": "uapda-2023",
+     "label": "UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)"
+    },
+    {
+     "id": "eric-burlison",
+     "label": "Eric Burlison"
+    }
+   ],
+   "id": "e-ca7ca83f75",
+   "kind": "edge",
+   "label": "Burlison could not get the UAP Disclosure Act onto the House NDAA in 2024 or 2025",
+   "sources": [
+    {
+     "date": "2025-09-09",
+     "name": "U.S. GPO, Hearing transcript, Serial No. 119-44 (CHRG-119hhrg61718)",
+     "url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm"
+    }
+   ],
+   "text": "'It was stripped out by the House last year, and I cannot get it onto the bill leaving the House this year.'",
+   "tier": 1,
+   "type": "legislative"
+  },
+  "e-cbd7221922": {
+   "endpoints": [
+    {
+     "id": "eric-burlison",
+     "label": "Eric Burlison"
+    },
+    {
+     "id": "ndaa-fy2027-uap-amendment",
+     "label": "Burlison UAP Records Disclosure Amendment, FY2027 NDAA"
+    }
+   ],
+   "id": "e-cbd7221922",
+   "kind": "edge",
+   "label": "Author of the House-adopted UAP records disclosure amendment",
+   "sources": [
+    {
+     "date": "2026-07-23",
+     "name": "Newstalk KZRG",
+     "url": "https://www.newstalkkzrg.com/2026/07/23/house-approves-burlison-amendment-creating-framework-for-uap-records-disclosure/"
+    }
+   ],
+   "text": "Revised text designated Version 2 on 15 July 2026 and adopted as part of the FY2027 NDAA later that month.",
+   "tier": 1,
+   "type": "legislative"
+  },
+  "e-cff8e5d26c": {
+   "endpoints": [
+    {
+     "id": "trump-uap-release-directive-2026",
+     "label": "Presidential direction to identify and release UAP files (19-20 February 2026)"
+    },
+    {
+     "id": "pursue-releases",
+     "label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters"
+    }
+   ],
+   "id": "e-cff8e5d26c",
+   "kind": "edge",
+   "label": "The directive is the stated basis of the release programme",
+   "sources": [
+    {
+     "date": "2026-08-07",
+     "name": "Department of War - PURSUE portal (war.gov/UFO)",
+     "url": "https://www.war.gov/UFO/"
+    },
+    {
+     "date": "2026-08-12",
+     "name": "AARO homepage (links PURSUE at war.gov/UFO and NARA UAP records)",
+     "url": "https://www.aaro.mil/"
+    },
+    {
+     "date": "2026-02-20",
+     "name": "DefenseScoop, Trump UAP disclosure tease",
+     "url": "https://defensescoop.com/2026/02/20/trump-ufo-uap-government-files-disclosure/"
+    },
+    {
+     "date": "2026-08-01",
+     "name": "ODNI Memorandum ES 2026-00818",
+     "url": "https://burlison.house.gov/sites/evo-subsites/burlison.house.gov/files/evo-media-document/memorandum_2026.pdf"
+    }
+   ],
+   "text": "PURSUE stands entirely on the 20 February 2026 Truth Social post; no executive order has been published. ODNI ES 2026-00818 cites only 'Presidential Direction'.",
+   "tier": 1,
+   "type": "programmatic"
+  },
+  "e-dc7b31d087": {
+   "endpoints": [
+    {
+     "id": "james-comer",
+     "label": "James Comer Jr."
+    },
+    {
+     "id": "uap-select-committee-proposal",
+     "label": "Proposed House Select Committee on UAP"
+    }
+   ],
+   "id": "e-dc7b31d087",
+   "kind": "edge",
+   "label": "Reported to support the proposed select committee; never created one",
+   "sources": [
+    {
+     "date": "2024-03-12",
+     "name": "The Hill: GOP lawmaker calls for House to form committee on UAPs",
+     "url": "https://thehill.com/homenews/house/4527900-gop-lawmaker-calls-for-house-to-form-committee-on-uaps/"
+    }
+   ],
+   "text": "Burlison named Comer's support publicly on 12 March 2024.",
+   "tier": 2,
+   "type": "institutional"
+  },
+  "e-de4829fd15": {
+   "endpoints": [
+    {
+     "id": "anna-paulina-luna",
+     "label": "Anna Paulina Luna"
+    },
+    {
+     "id": "capitol-disclosure-event-2026-06-09",
+     "label": "Capitol UAP disclosure event, 9 June 2026"
+    }
+   ],
+   "id": "e-de4829fd15",
+   "kind": "edge",
+   "label": "Asked the White House to grant immunity to whistleblowers who disclose locations of craft and technology",
+   "sources": [
+    {
+     "date": "2026-06-09",
+     "name": "The Hill: Government aware of 'several' kinds of aliens — UFO whistleblower",
+     "url": "https://thehill.com/homenews/administration/5916231-government-aware-of-several-kinds-of-aliens-ufo-whistleblower/"
+    }
+   ],
+   "text": "The immunity ask is the caucus's response to the failure of the whistleblower bills to move.",
+   "tier": 2,
+   "type": "behavioral"
+  },
+  "e-dfd399cc1a": {
+   "endpoints": [
+    {
+     "id": "pete-hegseth",
+     "label": "Pete Hegseth"
+    },
+    {
+     "id": "trump-uap-release-directive-2026",
+     "label": "Presidential direction to identify and release UAP files (19-20 February 2026)"
+    }
+   ],
+   "id": "e-dfd399cc1a",
+   "kind": "edge",
+   "label": "Named implementer; called it 'that executive order'",
+   "sources": [
+    {
+     "date": "2026-02-25",
+     "name": "DefenseScoop - Hegseth doubles down on Trump's UAP disclosure promise as AARO's caseload exceeds 2,000",
+     "url": "https://defensescoop.com/2026/02/25/hegseth-ufo-disclosure-trump-aaro-uap-caseload/"
+    },
+    {
+     "date": "2026-02-20",
+     "name": "DefenseScoop, Trump UAP disclosure tease",
+     "url": "https://defensescoop.com/2026/02/20/trump-ufo-uap-government-files-disclosure/"
+    }
+   ],
+   "text": "Hegseth told reporters on 25 February 2026 the department would be in full compliance with 'that executive order' and would coordinate with ODNI, while declining to give a schedule.",
+   "tier": 2,
+   "type": "programmatic"
+  },
+  "e-e086d2008f": {
+   "endpoints": [
+    {
+     "id": "uap-nda-waiver-directive-2026",
+     "label": "Presidential directive waiving UAP-related nondisclosure agreements"
+    },
+    {
+     "id": "david-grusch",
+     "label": "David Charles Grusch"
+    }
+   ],
+   "id": "e-e086d2008f",
+   "kind": "edge",
+   "label": "The waiver reproduces the channel that failed Grusch",
+   "sources": [
+    {
+     "date": "2026-07-21",
+     "name": "Fox News - Trump directs agencies to waive NDAs for UAP whistleblowers",
+     "url": "https://www.foxnews.com/politics/long-hidden-ufo-information-center-trump-push-free-former-officials"
+    },
+    {
+     "date": "2026-07-29",
+     "name": "Rep. Eric Burlison - Statement on President Trump's UAP NDA Directive",
+     "url": "https://burlison.house.gov/media/press-releases/rep-eric-burlison-releases-statement-president-trumps-uap-nda-directive"
+    }
+   ],
+   "text": "The directive unbinds witnesses only inside the executive channel controlled by the institution they would accuse, which is the structure that ended Grusch's career after his ICIG-channel disclosure.",
+   "tier": 3,
+   "type": "behavioral"
+  },
+  "e-ef9e4c53f5": {
+   "endpoints": [
+    {
+     "id": "james-comer",
+     "label": "James Comer Jr."
+    },
+    {
+     "id": "missing-scientists-probe-2026",
+     "label": "House Oversight probe into deaths and disappearances of scientists, April 2026"
+    }
+   ],
+   "id": "e-ef9e4c53f5",
+   "kind": "edge",
+   "label": "Co-launched the probe",
+   "sources": [
+    {
+     "date": "2026-04-21",
+     "name": "Fox News: Missing scientists probe was sparked after 'UFO General' disappeared, Republican lawmaker reveals",
+     "url": "https://www.foxnews.com/politics/missing-scientists-probe-sparked-after-ufo-general-disappeared-republican-lawmaker-reveals"
+    }
+   ],
+   "text": "Comer and Burlison opened the investigation on 21 April 2026.",
+   "tier": 2,
+   "type": "investigative"
+  }
+ },
+ "claimed": [
+  {
+   "cite": [
+    "c-7c69f2d612",
+    "c-bf19f238f5",
+    "c-ec246d5b7f",
+    "e-8d3b7ed08b"
+   ],
+   "text": "Burlison told The Hill in March 2024 that a select committee would first question the Defense Department on spending he believes goes to secret UAP recovery programmes, that he had the support of Comer, Burchett and Moskowitz, and that the Department had not been transparent with members in a SCIF."
+  },
+  {
+   "cite": [
+    "c-f8538dedc0",
+    "c-63b8ff5db8"
+   ],
+   "text": "Burlison said in May 2026 that anything hidden from Congress would be handed to a private contractor, and named RAND, MITRE, Aerospace Corp, MIT Lincoln Labs and Northrop Grumman as the trail he was following. He has described, as his own inference, a programme organised from the FFRDC level."
+  },
+  {
+   "cite": [
+    "c-35af88b5ee",
+    "c-dd2db84562",
+    "c-f1c323e939",
+    "c-1f6f285457",
+    "c-cec0113c13",
+    "e-de4829fd15"
+   ],
+   "text": "At the 9 June 2026 Capitol event Luna said lawmakers were asking the White House to grant immunity to whistleblowers, Burlison called on the President to waive all NDAs and described a dead drop of information to his office, Grusch said political appointees had not complied with the disclosure law, and Moskowitz called for disclosure."
+  },
+  {
+   "cite": [
+    "c-bde51b2525",
+    "c-ee7f1574d9",
+    "c-d8c531f3ae",
+    "e-6fc321689f",
+    "c-66d65a1ec6"
+   ],
+   "text": "At the Task Force's Capitol press conference Grusch said he had found slush funds of billions of dollars a year, called it a fraud, waste and abuse issue, accused the Defense Intelligence Agency of obstructing oversight by withholding documents, and said the government is aware of several kinds of non-human intelligence. Burlison called for penalties for officials who withhold information from Congress."
+  },
+  {
+   "cite": [
+    "c-319008468b",
+    "e-95865c5415"
+   ],
+   "text": "At the 25 June 2026 Disclosure Forum Burlison announced that MIT Lincoln Laboratory had agreed to make available a 1952 recording, and the Disclosure Foundation's Jordan Flowers credited him: \"He's stopped asking politely.\""
+  },
+  {
+   "cite": [
+    "c-ff2ad25955",
+    "c-401e1ba440",
+    "c-8e3e0cf993",
+    "e-dfd399cc1a",
+    "e-47f677f4fd"
+   ],
+   "text": "Hegseth told reporters in February 2026 that the Department would be in full compliance with what he called that executive order, and that he did not want to over-promise and under-deliver; Luna thanked the President for the direction as chair of the Task Force."
+  },
+  {
+   "cite": [
+    "c-79bb1bb7f3",
+    "c-645d940fc6",
+    "e-74c9ca2665"
+   ],
+   "text": "Fox News reported in July 2026 that the President directed the Department of War and the intelligence community to waive UAP-related NDAs for former employees and contractors speaking to authorised investigators, and that officials said it was not a declassification directive and permitted disclosure only to cleared investigators at AARO or the PURSUE task force."
+  },
+  {
+   "cite": [
+    "c-f9d79c4b2f",
+    "e-4f4526e5e6",
+    "e-ef9e4c53f5"
+   ],
+   "text": "Comer and Burlison opened a House Oversight probe into missing and dead scientists in April 2026 after the disappearance of Gen. William Neil McCasland; Burlison's staff had been trying to reach McCasland about a separate investigation before he vanished."
+  }
+ ],
+ "contested": [
+  {
+   "cite": [
+    "c-60df48e812",
+    "e-2795b20cb0",
+    "c-4863956419"
+   ],
+   "text": "No published instrument matches Hegseth's phrase that executive order; the board infers that either he described a social-media post as an order or an unpublished order exists."
+  },
+  {
+   "cite": [
+    "c-c67ee9f5a1",
+    "c-352f6d278b"
+   ],
+   "text": "Burlison said that The Aerospace Corporation sent two executives to a SCIF meeting with his office and that they knew nothing about UAP or reverse engineering; MITRE's spokesperson said only that any relevant material found would be handled with the responsible federal agencies."
+  },
+  {
+   "cite": [
+    "e-e086d2008f",
+    "c-645d940fc6"
+   ],
+   "text": "On the board's reading the July 2026 NDA waiver frees witnesses only inside the executive channel run by the institution they would accuse, the structure Grusch used through the Inspector General before his career ended."
+  },
+  {
+   "cite": [
+    "c-be24146443",
+    "c-25173f6b32",
+    "c-7b195c0a7b"
+   ],
+   "text": "The records disagree on when the House adopted the amendment: one gives 22 July 2026, another 23 July, and the board carries the range rather than choosing."
+  },
+  {
+   "cite": [
+    "c-44c910089d"
+   ],
+   "text": "The board infers that no UAP subpoena has issued from the Oversight Committee under Comer despite repeated member requests."
+  }
+ ],
  "essays": [],
  "focusEra": "3",
  "id": "house-push-2026",
  "kind": "hearing",
- "lead": null,
- "members": [],
+ "lead": {
+  "cite": [
+   "c-2f4de2d1ed",
+   "c-6d2a16c423",
+   "c-86060294db",
+   "c-be24146443"
+  ],
+  "text": "Alongside the Oversight Committee's UAP hearings of 2023 to 2025, Rep. Eric Burlison named David Grusch a special adviser in March 2025, sent MITRE a records demand in May 2026, and saw the House adopt his UAP Disclosure Act amendment to the FY2027 NDAA in July 2026."
+ },
+ "members": [
+  {
+   "cls": "person",
+   "id": "eric-burlison",
+   "label": "Eric Burlison",
+   "role": "legislator"
+  },
+  {
+   "cls": "program",
+   "id": "uap-select-committee-proposal",
+   "label": "Proposed House Select Committee on UAP",
+   "role": "subject"
+  },
+  {
+   "cls": "institution",
+   "id": "congressional-uap-caucus",
+   "label": "Congressional UAP Caucus",
+   "role": "institution"
+  },
+  {
+   "cls": "legislation",
+   "id": "hr-1187-uap-transparency-act",
+   "label": "H.R. 1187 - UAP Transparency Act (119th Congress)",
+   "role": "law"
+  },
+  {
+   "cls": "legislation",
+   "id": "hr-8424-uap-transparency-act",
+   "label": "H.R. 8424 - UAP Transparency Act (118th Congress)",
+   "role": "law"
+  },
+  {
+   "cls": "legislation",
+   "id": "hr-10111-uap-whistleblower-protection-act",
+   "label": "H.R. 10111 - UAP Whistleblower Protection Act (118th Congress)",
+   "role": "law"
+  },
+  {
+   "cls": "legislation",
+   "id": "hr-5060-uap-whistleblower-protection-act",
+   "label": "H.R. 5060 - UAP Whistleblower Protection Act (119th Congress)",
+   "role": "law"
+  },
+  {
+   "cls": "event",
+   "id": "uap-disclosure-forum-2026",
+   "label": "Disclosure Forum 2026",
+   "role": "event"
+  },
+  {
+   "cls": "event",
+   "id": "capitol-disclosure-event-2026-06-09",
+   "label": "Capitol UAP disclosure event, 9 June 2026",
+   "role": "event"
+  },
+  {
+   "cls": "event",
+   "id": "press-conf-2026-06-09",
+   "label": "Capitol UAP Disclosure Press Conference",
+   "role": "event"
+  },
+  {
+   "cls": "event",
+   "id": "disclosure-symposium-2026",
+   "label": "2026 Disclosure Symposium",
+   "role": "event"
+  },
+  {
+   "cls": "event",
+   "id": "hegseth-uap-statements-2026",
+   "label": "Hegseth's UAP disclosure statements, Louisville, 23 February 2026",
+   "role": "event"
+  },
+  {
+   "cls": "person",
+   "id": "pete-hegseth",
+   "label": "Pete Hegseth",
+   "role": "official"
+  },
+  {
+   "cls": "person",
+   "id": "mike-rounds",
+   "label": "Mike Rounds",
+   "role": "legislator"
+  },
+  {
+   "cls": "person",
+   "id": "anna-paulina-luna",
+   "label": "Anna Paulina Luna",
+   "role": "legislator"
+  },
+  {
+   "cls": "person",
+   "id": "jared-moskowitz",
+   "label": "Jared Evan Moskowitz",
+   "role": "legislator"
+  },
+  {
+   "cls": "person",
+   "id": "tim-burchett",
+   "label": "Timothy Floyd Burchett",
+   "role": "legislator"
+  },
+  {
+   "cls": "person",
+   "id": "andy-ogles",
+   "label": "Andrew Ogles",
+   "role": "legislator"
+  },
+  {
+   "cls": "person",
+   "id": "james-comer",
+   "label": "James Comer Jr.",
+   "role": "legislator"
+  },
+  {
+   "cls": "person",
+   "id": "david-grusch",
+   "label": "David Charles Grusch",
+   "role": "claimant"
+  },
+  {
+   "cls": "institution",
+   "id": "task-force-declassification-federal-secrets",
+   "label": "Task Force on the Declassification of Federal Secrets",
+   "role": "institution"
+  },
+  {
+   "cls": "event",
+   "id": "hearing-2025-09-09",
+   "label": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'",
+   "role": "event"
+  },
+  {
+   "cls": "document",
+   "id": "trump-uap-release-directive-2026",
+   "label": "Presidential direction to identify and release UAP files (19-20 February 2026)",
+   "role": "document"
+  },
+  {
+   "cls": "document",
+   "id": "uap-nda-waiver-directive-2026",
+   "label": "Presidential directive waiving UAP-related nondisclosure agreements",
+   "role": "document"
+  },
+  {
+   "cls": "program",
+   "id": "pursue-releases",
+   "label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters",
+   "role": "programme"
+  },
+  {
+   "cls": "document",
+   "id": "burlison-mitre-letter-2026",
+   "label": "Rep. Burlison records demand to MITRE, 22 May 2026",
+   "role": "document"
+  },
+  {
+   "cls": "legislation",
+   "id": "ndaa-fy2027-uap-amendment",
+   "label": "Burlison UAP Records Disclosure Amendment, FY2027 NDAA",
+   "role": "law"
+  },
+  {
+   "cls": "legislation",
+   "id": "uapda-fy2027-house-adopted",
+   "label": "Unidentified Anomalous Phenomena Disclosure Act - Burlison amendment to the FY2027 NDAA",
+   "role": "law"
+  },
+  {
+   "cls": "legislation",
+   "id": "uapda-2023",
+   "label": "UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)",
+   "role": "law"
+  },
+  {
+   "cls": "institution",
+   "id": "waived-sap-notification-group",
+   "label": "Waived SAP Notification Group",
+   "role": "institution"
+  },
+  {
+   "cls": "event",
+   "id": "missing-scientists-probe-2026",
+   "label": "House Oversight probe into deaths and disappearances of scientists, April 2026",
+   "role": "event"
+  },
+  {
+   "cls": "institution",
+   "id": "house-oversight-committee",
+   "label": "U.S. House Committee on Oversight and Government Reform",
+   "role": "institution"
+  }
+ ],
  "notes": "Burlison's 2026 letters and events, the June 2026 Capitol events and the select-committee proposal; the FFRDC letters themselves sit with the FFRDC topic.",
- "questions": [],
- "record": [],
- "related": [],
+ "questions": [
+  "Did MITRE produce anything responsive by the 45-day deadline in its letter?",
+  "What is the provenance and chain of custody of the MQ-9 footage Burlison played in September 2025?",
+  "Does Grusch's advisory role in Burlison's office carry a clearance or SCIF access?",
+  "Does any executive order text exist behind the February 2026 direction, and on which day in February did the direction and Hegseth's reference to it fall?",
+  "Why has no House select committee on UAP been created despite two attempts and the stated support of the Oversight chairman?",
+  "Will the Senate keep the House-adopted disclosure amendment, including its reach to contractors?",
+  "On what terms did Luna move from demanding AARO's abolition to endorsing its director?",
+  "Has anyone used Burlison's office, or the NDA waiver, to bring information forward?"
+ ],
+ "record": [
+  {
+   "cite": [
+    "c-6d2a16c423",
+    "c-b82d7a2466",
+    "e-30c7b9de6c",
+    "e-0c1e37ec0b"
+   ],
+   "text": "Burlison named Grusch Special Advisor to his office on 27 March 2025, citing his NRO and NGA service and the credible-and-urgent whistleblower finding; the role expressly includes service on the Task Force on the Declassification of Federal Secrets."
+  },
+  {
+   "cite": [
+    "c-0bf4c36931",
+    "c-48ae97948e",
+    "e-ca7ca83f75"
+   ],
+   "text": "At the 9 September 2025 hearing Burlison said his UAP disclosure amendment to the NDAA had been ruled non-germane, mostly by staff; that in 2024 someone in House administration had blocked a full AARO briefing; and that the UAP Disclosure Act had been stripped out by the House the year before."
+  },
+  {
+   "cite": [
+    "c-72551ea992",
+    "e-a414af0719"
+   ],
+   "text": "At the same hearing Burlison played footage he described as an MQ-9 drone tracking an orb off Yemen on 30 October 2024 while another MQ-9 launched a Hellfire missile."
+  },
+  {
+   "cite": [
+    "c-86060294db",
+    "c-7f3560f860",
+    "c-81a9ceb736",
+    "e-366f9ac88b"
+   ],
+   "text": "Burlison's letter to MITRE, dated 22 May 2026, runs to ten pages with over 40 production requests on UAP, anomalous materials and reverse engineering back to 1930, and asks for unclassified records within 45 days in native electronic format with complete metadata."
+  },
+  {
+   "cite": [
+    "c-be24146443",
+    "e-c59ac15387",
+    "e-cbd7221922",
+    "c-d0b3b0a09b",
+    "c-c346a7676f"
+   ],
+   "text": "The House adopted Burlison's UAP Disclosure Act amendment to the FY2027 NDAA in July 2026. As reported by NewsTalk KZRG, it would have agencies identify, preserve and transfer UAP records to the National Archives on a statutory timeline, create an independent review board with Senate-confirmed members and subpoena authority, and reach contractors holding covered records."
+  },
+  {
+   "cite": [
+    "c-a1a8208f30",
+    "c-95df34ff78",
+    "c-8ddd221f0e",
+    "e-605264769b"
+   ],
+   "text": "In a 29 July 2026 press release Burlison said waiving UAP-related NDAs was something he had been calling for, offered his office's help to employees and contractors who wished to disclose, and recommended that they ask for a member of Congress and counsel to be present."
+  },
+  {
+   "cite": [
+    "c-2d6224160f",
+    "c-78fdc92ae0",
+    "c-564e725434",
+    "c-8ca1eeb6a8",
+    "c-b3ab8484d3",
+    "e-66fdbfec24",
+    "e-88d8177da1"
+   ],
+   "text": "Burchett's H.R. 8424 of 16 May 2024 died in referral and was refiled as H.R. 1187 on 11 February 2025 with Moskowitz and Luna as cosponsors; his whistleblower bills H.R. 10111 and H.R. 5060 were likewise referred, and none of the four has advanced beyond referral."
+  },
+  {
+   "cite": [
+    "e-8040878d4d",
+    "c-4e8d5ab8aa"
+   ],
+   "text": "On 1 April 2026 Luna wrote to Hegseth for video files held by AARO, after September 2025 witnesses told the Task Force that AARO held additional records."
+  },
+  {
+   "cite": [
+    "c-59c4aea86d",
+    "c-42460c1643",
+    "e-cff8e5d26c"
+   ],
+   "text": "The President stated on 19 February 2026 that he would direct the Secretary of War to begin identifying and releasing files; the Department's PURSUE programme published five releases between 8 May and 7 August 2026, and no executive order establishing it has been published."
+  },
+  {
+   "cite": [
+    "e-7d67c2383f",
+    "e-3573062eba",
+    "e-465eaee615"
+   ],
+   "text": "A caucus is not a committee under 10 U.S.C. 119(g), and neither Burlison nor Luna holds a seat that carries any entitlement to notice of waived special access programmes."
+  }
+ ],
+ "related": [
+  "task-force-2025",
+  "hearing-2023",
+  "hearing-2024",
+  "uapda",
+  "pursue-2026",
+  "ffrdc-probes",
+  "missing-scientists",
+  "whistleblower-channels",
+  "grusch-allegations",
+  "sap-reporting",
+  "uap-statutes"
+ ],
  "section": "congress-disclosure",
  "span": {
   "from": "2025",
   "to": "2026"
  },
- "status": "draft",
- "summary": [],
+ "status": "verified",
+ "summary": [
+  {
+   "cite": [
+    "c-5c496ac860",
+    "c-000ac70875",
+    "e-13fe300760",
+    "c-b3ab8484d3"
+   ],
+   "text": "By Burchett's press release and The Hill's reporting, the Congressional UAP Caucus was founded by Tim Burchett in August 2023 and counts Burlison, Moskowitz, Ogles and Luna among its members; its members' transparency and whistleblower bills have been filed and referred without advancing."
+  },
+  {
+   "cite": [
+    "c-b65a75538e",
+    "c-7c69f2d612",
+    "e-dc7b31d087"
+   ],
+   "text": "The Hill reported two requests for a House select committee on UAP: Burchett's under Speaker McCarthy, lost with McCarthy's speakership, and Burlison's in March 2024. None has been created."
+  },
+  {
+   "cite": [
+    "e-5f6270e39f",
+    "c-4e7f5b1aa6",
+    "c-319008468b",
+    "c-fe00f676f0"
+   ],
+   "text": "As reported, and in Senator Mike Rounds's own newsletter, June 2026 brought three public events: a 9 June Capitol press conference hosted by the Task Force on the Declassification of Federal Secrets, a 25 June Disclosure Forum at which Burlison spoke, and a Disclosure Symposium where Rounds announced another UAP Disclosure Act amendment."
+  },
+  {
+   "cite": [
+    "c-59c4aea86d",
+    "c-42460c1643",
+    "e-91af0f2574",
+    "c-79bb1bb7f3"
+   ],
+   "text": "The House push ran beside an executive track: the President's February 2026 direction to release UAP files, the Department of War's PURSUE releases under Pete Hegseth, and a July 2026 directive on nondisclosure agreements."
+  }
+ ],
  "title": "The 2026 House push: Burlison, the June events and the select committee proposal"
 }

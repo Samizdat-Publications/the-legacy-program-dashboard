@@ -10,25 +10,1958 @@
   "allen-w-dulles"
  ],
  "appendixT": "cold-war-intelligence-context",
- "cites": {},
- "claimed": [],
- "contested": [],
+ "cites": {
+  "c-044c9f5722": {
+   "id": "c-044c9f5722",
+   "kind": "claim",
+   "node": "roscoe-hillenkoetter",
+   "nodeLabel": "Roscoe H. Hillenkoetter",
+   "source": {
+    "domain": null,
+    "text": "CIA-RDP68-00046R000200090028-9, Enquirer, 4 March 1960",
+    "url": null
+   },
+   "text": "The same editorial records its own disagreement with him: 'WE CANNOT wholly agree with the respected Vice Adm. R. H. Hillenkoetter (ret.) that the Air Force is deceiving the public' -- which preserves his position as well as the paper's.",
+   "tier": 1
+  },
+  "c-047e85bc72": {
+   "id": "c-047e85bc72",
+   "kind": "claim",
+   "node": "project-azorian",
+   "nodeLabel": "Project AZORIAN and the Hughes Glomar Explorer",
+   "source": {
+    "domain": "archive.org",
+    "text": "CIA reading-room document 0005301269, https://archive.org/download/cia-readingroom-document-0005301269/0005301269_djvu.txt",
+    "url": "https://archive.org/download/cia-readingroom-document-0005301269/0005301269_djvu.txt"
+   },
+   "text": "The article's closing page states that a private consortium of companies, including Lockheed, Global Marine, Standard Oil of Indiana, and Royal Dutch Shell, are readying the Hughes Glomar Explorer for use in deep-ocean mining operations to begin late in the fall of 1978.",
+   "tier": 1
+  },
+  "c-052ced78a2": {
+   "id": "c-052ced78a2",
+   "kind": "claim",
+   "node": "allen-w-dulles",
+   "nodeLabel": "Allen W. Dulles",
+   "source": {
+    "domain": "archive.org",
+    "text": "Executive Registry notes filed with CIA-RDP80B01676R001000160044-8 and -045-7, https://archive.org/details/cia-readingroom-document-cia-rdp80b01676r001000160045-7",
+    "url": "https://archive.org/details/cia-readingroom-document-cia-rdp80b01676r001000160045-7"
+   },
+   "text": "Each of the three letters is a rewrite of an earlier version that was withdrawn. A note to the Executive Registry filed with two of them reads: 'Please note that the attached letter ... was not sent out, but was rewritten as of 13 March 1953 (copy attached).' The letters themselves carry the stamp 'REWRITTEN 13 March 1953'.",
+   "tier": 1
+  },
+  "c-063c937c15": {
+   "id": "c-063c937c15",
+   "kind": "claim",
+   "node": "frank-olson-death-1953",
+   "nodeLabel": "Death of Frank R. Olson, 1953, and the compensation and litigation that followed",
+   "source": {
+    "domain": "www.presidency.ucsb.edu",
+    "text": "Gerald R. Ford, Statement on Signing the Bill Providing for the Relief of the Survivors of Dr. Frank R. Olson, 12 October 1976, https://www.presidency.ucsb.edu/documents/statement-signing-the-bill-providing-for-the-relief-the-survivors-dr-frank-r-olson",
+    "url": "https://www.presidency.ucsb.edu/documents/statement-signing-the-bill-providing-for-the-relief-the-survivors-dr-frank-r-olson"
+   },
+   "text": "President Ford signed the bill on 12 October 1976 and stated the administration's own position on the amount: 'Legislation to appropriate $1,250,000 to compensate the wife and three children of Dr. Olson for his death was supported by this administration. However, the Congress approved a measure calling for the payment of a total of $750,000 to these survivors.'",
+   "tier": 1
+  },
+  "c-0d0224cc36": {
+   "id": "c-0d0224cc36",
+   "kind": "claim",
+   "node": "project-azorian",
+   "nodeLabel": "Project AZORIAN and the Hughes Glomar Explorer",
+   "source": {
+    "domain": null,
+    "text": "Danny Jones Podcast, ep. 320, 4 August 2025, 0:26:45 to 0:29:24, mapped at research/leads/dannyjones-corpus-20.md",
+    "url": null
+   },
+   "text": "On the Danny Jones Podcast, episode 320, 4 August 2025, at 0:29:24, the guest who identifies himself only as UAP Gerb said the Hughes Glomar Explorer was later leased to Lockheed Martin for deep-sea mining for twenty years. The released history contradicts that in three particulars: it names Lockheed as one member of a four-company private consortium readying the ship for deep-ocean mining operations to begin late in the fall of 1978, it says nothing about a lease or a term, and Lockheed Martin did not exist under that name until 1995. At 0:26:45 to 0:29:24 the same speaker treated the Glomar Explorer and a National Underwater Reconnaissance Office as one undersea programme; NURO appears nowhere in the fifty pages.",
+   "tier": 2
+  },
+  "c-0d4a926e57": {
+   "id": "c-0d4a926e57",
+   "kind": "claim",
+   "node": "harry-s-truman",
+   "nodeLabel": "Harry S. Truman",
+   "source": {
+    "domain": "history.state.gov",
+    "text": "Presidential Directive on Coordination of Foreign Intelligence Activities, 22 January 1946, FRUS 1945-1950, Emergence of the Intelligence Establishment, Document 71, https://history.state.gov/historicaldocuments/frus1945-50Intel/d71",
+    "url": "https://history.state.gov/historicaldocuments/frus1945-50Intel/d71"
+   },
+   "text": "The same directive draws the domestic line the board's later argument keeps testing: 'No police, law enforcement or internal security functions shall be exercised under this directive', and it makes the Authority and the Director 'responsible for fully protecting intelligence sources and methods'.",
+   "tier": 1
+  },
+  "c-0f60717ed8": {
+   "id": "c-0f60717ed8",
+   "kind": "claim",
+   "node": "mkultra",
+   "nodeLabel": "Project MKULTRA",
+   "source": {
+    "domain": "www.intelligence.senate.gov",
+    "text": "Project MKULTRA joint hearing, 3 August 1977, opening statement and testimony of Admiral Turner, https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf",
+    "url": "https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf"
+   },
+   "text": "The recovered material covers 149 numbered subprojects plus two boxes of audit reports and financial statements from cut-out funding mechanisms and 33 further subprojects unrelated to behavioural work. Turner told the committee the new identities were 'the names of 185 nongovernment researchers and assistants' and 'names of 80 institutions', comprising 44 colleges or universities, 15 research foundations or chemical or pharmaceutical companies, 12 hospitals or clinics and 3 penal institutions. The hearing's own opening statement gives a different figure, 'Eighty-six universities or institutions were involved.'",
+   "tier": 1
+  },
+  "c-1cd423dc70": {
+   "id": "c-1cd423dc70",
+   "kind": "claim",
+   "node": "project-azorian",
+   "nodeLabel": "Project AZORIAN and the Hughes Glomar Explorer",
+   "source": {
+    "domain": "archive.org",
+    "text": "CIA reading-room document 0005301269, full text searched by this session, https://archive.org/download/cia-readingroom-document-0005301269/0005301269_djvu.txt",
+    "url": "https://archive.org/download/cia-readingroom-document-0005301269/0005301269_djvu.txt"
+   },
+   "text": "The strings NURO and National Underwater Reconnaissance do not occur anywhere in the 50-page released history.",
+   "tier": 1
+  },
+  "c-1db463ff4c": {
+   "id": "c-1db463ff4c",
+   "kind": "claim",
+   "node": "john-marks-foia-f-76-374",
+   "nodeLabel": "John Marks FOIA request F-76-374 and the recovery of the MKULTRA finance file",
+   "source": {
+    "domain": "www.intelligence.senate.gov",
+    "text": "Memorandum for the DDCI, 22 June 1977, Appendix B of the Project MKULTRA joint hearing, https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf",
+    "url": "https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf"
+   },
+   "text": "The same memorandum records that the case was in litigation and sets the order of notification: 'The MARKS case is in litigation and we are committed to advise Mr. Marks of the existence of these files shortly, and to deliver the releasable material to his attorneys by 31 July.' Its recommended actions are to release sanitized material to his attorneys as required by FOIA litigation and to 'Inform the Senate Select Committee of the existence of the recently located records prior to informing Mr. Marks' attorneys.'",
+   "tier": 1
+  },
+  "c-20b405889c": {
+   "id": "c-20b405889c",
+   "kind": "claim",
+   "node": "project-azorian",
+   "nodeLabel": "Project AZORIAN and the Hughes Glomar Explorer",
+   "source": {
+    "domain": "archive.org",
+    "text": "CIA reading-room document 0005301269, https://archive.org/download/cia-readingroom-document-0005301269/0005301269_djvu.txt",
+    "url": "https://archive.org/download/cia-readingroom-document-0005301269/0005301269_djvu.txt"
+   },
+   "text": "The same note states that the continuing prohibition applies particularly to the specific purpose of the AZORIAN mission, the degree of success, operational details, participation of other contractors, government organizations, and individuals, classified technology, and project funding matters.",
+   "tier": 1
+  },
+  "c-2142c97d03": {
+   "id": "c-2142c97d03",
+   "kind": "claim",
+   "node": "cia",
+   "nodeLabel": "Central Intelligence Agency",
+   "source": {
+    "domain": null,
+    "text": "CIA Center for the Study of Intelligence, Studies in Intelligence 1997",
+    "url": null
+   },
+   "text": "CIA's in-house historian Gerald K. Haines published 'CIA's Role in the Study of UFOs, 1947-1990' in Studies in Intelligence in 1997, an eighteen-page account acknowledging the Agency's Office of Scientific Intelligence effort and the Robertson Panel.",
+   "tier": 1
+  },
+  "c-2202d9868f": {
+   "id": "c-2202d9868f",
+   "kind": "claim",
+   "node": "charles-p-cabell",
+   "nodeLabel": "Gen. Charles P. Cabell",
+   "source": {
+    "domain": "history.state.gov",
+    "text": "FRUS, 1950-1955, The Intelligence Community, List of Persons, https://history.state.gov/historicaldocuments/frus1950-55Intel/persons",
+    "url": "https://history.state.gov/historicaldocuments/frus1950-55Intel/persons"
+   },
+   "text": "The Department of State's list of persons for the intelligence volume gives both offices: 'Cabell, General Charles P., USAF, Director of Intelligence, Office of the Deputy Chief of Staff from 1951 to 1953; Intelligence Advisory Committee, Deputy Director of Central Intelligence from 1953 to 1962.'",
+   "tier": 1
+  },
+  "c-2a32edef24": {
+   "id": "c-2a32edef24",
+   "kind": "claim",
+   "node": "frank-olson-death-1953",
+   "nodeLabel": "Death of Frank R. Olson, 1953, and the compensation and litigation that followed",
+   "source": {
+    "domain": "documents2.theblackvault.com",
+    "text": "Report to the President by the Commission on CIA Activities within the United States, June 1975, chapter 16, pp. 227-228, https://documents2.theblackvault.com/documents/rockefellercommissionreport-full.pdf",
+    "url": "https://documents2.theblackvault.com/documents/rockefellercommissionreport-full.pdf"
+   },
+   "text": "The Rockefeller Commission's June 1975 report disclosed the death without naming him: 'on one occasion during the early phases of this program (in 1953), LSD was administered to an employee of the Department of the Army without his knowledge ... Several days later, he jumped from a tenth floor window of his room and died as a result.' Its footnote to that passage reads: 'There are indications in the few remaining Agency records that this individual may have had a history of emotional instability.'",
+   "tier": 1
+  },
+  "c-2a5a1c726c": {
+   "id": "c-2a5a1c726c",
+   "kind": "claim",
+   "node": "sidney-gottlieb",
+   "nodeLabel": "Sidney Gottlieb",
+   "source": {
+    "domain": "archive.org",
+    "text": "CIA Reading Room document 00017441, MKULTRA SUBPROJECT 43 (18 documents, pubdates 550321 to 560308), Internet Archive mirror, https://archive.org/details/cia-readingroom-document-00017441",
+    "url": "https://archive.org/details/cia-readingroom-document-00017441"
+   },
+   "text": "Gottlieb signed the money. The released MKULTRA Subproject 43 file carries invoice certifications over the signature 'SIDNEY GOTTLIEB, Chief, TSS/CD' attesting 'that performance is satisfactory, that the services are being accomplished in accordance with mutual agreements, that a detailed agenda of the payments and receipts is on file in TSS/CD'. Invoice No. 1 is dated 31 March 1955 and Invoice No. 2 is dated 28 June 1955.",
+   "tier": 1
+  },
+  "c-2ce75a8a2e": {
+   "id": "c-2ce75a8a2e",
+   "kind": "claim",
+   "node": "mkultra",
+   "nodeLabel": "Project MKULTRA",
+   "source": {
+    "domain": "www.intelligence.senate.gov",
+    "text": "Report of Inspection of MKULTRA, 26 July 1963, p. 14, quoted in the prepared statement of Admiral Stansfield Turner, Project MKULTRA joint hearing, 3 August 1977, https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf",
+    "url": "https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf"
+   },
+   "text": "The same survey records the programme's own record-keeping practice: 'Present practice is to maintain no records of the planning and approval of test programs.' The Director of Central Intelligence quoted that sentence back to the Senate in 1977 as part of the reason so little was known even before the files were destroyed.",
+   "tier": 1
+  },
+  "c-2ea2864dec": {
+   "id": "c-2ea2864dec",
+   "kind": "claim",
+   "node": "frank-olson-death-1953",
+   "nodeLabel": "Death of Frank R. Olson, 1953, and the compensation and litigation that followed",
+   "source": {
+    "domain": "documents2.theblackvault.com",
+    "text": "Report to the President by the Commission on CIA Activities within the United States, June 1975, p. 227, https://documents2.theblackvault.com/documents/rockefellercommissionreport-full.pdf",
+    "url": "https://documents2.theblackvault.com/documents/rockefellercommissionreport-full.pdf"
+   },
+   "text": "The same report records the ruling that produced death benefits and the discipline that followed: 'The General Counsel ruled that the death resulted from \"circumstances arising out of an experiment undertaken in the course of his official duties for the United States Government,\" thus ensuring his survivors of receiving certain death benefits. Reprimands were issued by the Director of Central Intelligence to two CIA employees responsible for the incident.' The 2012 complaint states the opposite on the second point, that the internal investigation issued no formal reprimands.",
+   "tier": 1
+  },
+  "c-327919feb5": {
+   "id": "c-327919feb5",
+   "kind": "claim",
+   "node": "harry-s-truman",
+   "nodeLabel": "Harry S. Truman",
+   "source": {
+    "domain": "history.state.gov",
+    "text": "Presidential Directive on Coordination of Foreign Intelligence Activities, 22 January 1946, FRUS 1945-1950, Emergence of the Intelligence Establishment, Document 71, https://history.state.gov/historicaldocuments/frus1945-50Intel/d71",
+    "url": "https://history.state.gov/historicaldocuments/frus1945-50Intel/d71"
+   },
+   "text": "The 22 January 1946 directive is signed by him and creates the office by fiat: 'It is my desire, and I hereby direct, that all Federal foreign intelligence activities be planned, developed and coordinated so as to assure the most effective accomplishment of the intelligence mission related to the national security.' The Director of Central Intelligence 'shall be designated by me'.",
+   "tier": 1
+  },
+  "c-3b363924c7": {
+   "id": "c-3b363924c7",
+   "kind": "claim",
+   "node": "roscoe-hillenkoetter",
+   "nodeLabel": "Roscoe H. Hillenkoetter",
+   "source": {
+    "domain": null,
+    "text": "CIA-RDP68-00046R000200090025-2, Worcester Gazette, 1 June 1960",
+    "url": null
+   },
+   "text": "The same document records that Hillenkoetter 'headed the Central Intelligence Agency from May 1947 to October 1950' and that he 'wants a Congressional investigation of the UFOs'. On the wartime and immediate post-war years he is quoted: 'I know that neither Russia nor this country had anything even approaching such high speeds and maneuvers.'",
+   "tier": 1
+  },
+  "c-3c19c768fd": {
+   "id": "c-3c19c768fd",
+   "kind": "claim",
+   "node": "glenn-t-seaborg",
+   "nodeLabel": "Glenn T. Seaborg",
+   "source": {
+    "domain": "archive.org",
+    "text": "CIA reading room document CIA-RDP80B01676R000700150004-7, 25 October 1961, https://archive.org/details/cia-readingroom-document-cia-rdp80b01676r000700150004-7",
+    "url": "https://archive.org/details/cia-readingroom-document-cia-rdp80b01676r000700150004-7"
+   },
+   "text": "A second, earlier instance of the office runs the other way. On 25 October 1961 the Director of Central Intelligence wrote to 'The Honorable Glenn T. Seaborg, Chairman, Atomic Energy Commission', thanking him for his impressions of a conference in Vienna and saying 'I am showing your good report to a few of our interested people.' It is signed 'Allen W. Dulles, Director'.",
+   "tier": 1
+  },
+  "c-3d3522d4d5": {
+   "id": "c-3d3522d4d5",
+   "kind": "claim",
+   "node": "sidney-gottlieb",
+   "nodeLabel": "Sidney Gottlieb",
+   "source": {
+    "domain": "www.intelligence.senate.gov",
+    "text": "Memorandum for the Deputy Director of Central Intelligence, 'Request for Guidance on Handling Recently Located MKULTRA Material', 22 June 1977, from David S. Brandwein, Director, Office of Technical Service, Appendix B of the Project MKULTRA joint hearing, https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf",
+    "url": "https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf"
+   },
+   "text": "A CIA memorandum of 22 June 1977 reprinted in the hearing print explains why the 1973 searches missed the finance folders: 'Because Dr. Gottlieb retrieved and destroyed all the MKULTRA documents he was able to locate, it is not surprising that the earlier search for MKULTRA documents, directed at areas where they were most likely to be found, was unsuccessful.'",
+   "tier": 1
+  },
+  "c-3ff0406dab": {
+   "id": "c-3ff0406dab",
+   "kind": "claim",
+   "node": "walter-bedell-smith",
+   "nodeLabel": "Walter Bedell Smith",
+   "source": {
+    "domain": "archive.org",
+    "text": "H. Marshall Chadwell, Memorandum for Director of Central Intelligence, subject: Unidentified Flying Objects, 2 December 1952, CIA document C00015340, para. 1, https://archive.org/details/cia-readingroom-document-0005515935",
+    "url": "https://archive.org/details/cia-readingroom-document-0005515935"
+   },
+   "text": "Smith personally started the intelligence-community effort. Chadwell's 2 December 1952 memorandum to the DCI opens: 'On 20 August, the DCI, after a briefing by OSI on the above subject, directed the preparation of an NSCID for submission to the Council stating the need for investigation and directing agencies concerned to cooperate in such investigations.'",
+   "tier": 1
+  },
+  "c-42b62fb7d5": {
+   "id": "c-42b62fb7d5",
+   "kind": "claim",
+   "node": "mkultra",
+   "nodeLabel": "Project MKULTRA",
+   "source": {
+    "domain": "www.intelligence.senate.gov",
+    "text": "Project MKULTRA, The CIA's Program of Research in Behavioral Modification, joint hearing, 3 August 1977, Appendix B, https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf",
+    "url": "https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf"
+   },
+   "text": "The Church Committee text reprinted in the hearing print records the destruction and the chain behind it: 'In January 1973, MKULTRA records were destroyed by Technical Services Division personnel acting on the verbal orders of Dr. Sidney Gottlieb, Chief of TSD. Dr. Gottlieb has testified, and former Director Helms has confirmed, that in ordering the records destroyed, Dr. Gottlieb was carrying out the verbal order of then DCI Helms.'",
+   "tier": 1
+  },
+  "c-43863cbfea": {
+   "id": "c-43863cbfea",
+   "kind": "claim",
+   "node": "lockheed-martin",
+   "nodeLabel": "Lockheed Martin Corporation",
+   "source": {
+    "domain": null,
+    "text": "CHRG-118hhrg57440, 13 November 2024",
+    "url": null
+   },
+   "text": "Elizondo confirmed on the record that the reported Lockheed Martin - Bigelow Aerospace transfer 'was blocked,' and that a memorandum from the Secretary of the Air Force required to complete it never issued.",
+   "tier": 2
+  },
+  "c-44158d9b9a": {
+   "id": "c-44158d9b9a",
+   "kind": "claim",
+   "node": "robertson-panel",
+   "nodeLabel": "Robertson Panel",
+   "source": {
+    "domain": null,
+    "text": "Robertson Panel report, Recommendations",
+    "url": null
+   },
+   "text": "The panel recommended a public education programme with 'training' and 'debunking' aims, to be accomplished 'by mass media such as television, motion pictures, and popular articles'.",
+   "tier": 1
+  },
+  "c-47496ed0dc": {
+   "id": "c-47496ed0dc",
+   "kind": "claim",
+   "node": "project-azorian",
+   "nodeLabel": "Project AZORIAN and the Hughes Glomar Explorer",
+   "source": {
+    "domain": "archive.org",
+    "text": "PROJECT AZORIAN: THE STORY OF THE HUGHES GLOMAR EXPLORER, CIA reading-room document 0005301269, approved for release 01-04-2010, https://archive.org/download/cia-readingroom-document-0005301269/0005301269_djvu.txt",
+    "url": "https://archive.org/download/cia-readingroom-document-0005301269/0005301269_djvu.txt"
+   },
+   "text": "The released history opens: In March 1968 a Soviet submarine of the G-II class was lost with all hands, 16,500 feet below the surface of the Pacific Ocean.",
+   "tier": 1
+  },
+  "c-47c5c94dcc": {
+   "id": "c-47c5c94dcc",
+   "kind": "claim",
+   "node": "walter-bedell-smith",
+   "nodeLabel": "Walter Bedell Smith",
+   "source": {
+    "domain": "archive.org",
+    "text": "Draft Memorandum to the Executive Secretary, National Security Council, subject: Unidentified Flying Objects (Flying Saucers), attached to CIA document C00015340, 2 December 1952, para. 2, https://archive.org/details/cia-readingroom-document-0005515935",
+    "url": "https://archive.org/details/cia-readingroom-document-0005515935"
+   },
+   "text": "A memorandum to the National Security Council was drafted over his name proposing research, not exploitation: 'It is my view that this situation has possible implications for our national security which transcend the interests of a single service. A broader, coordinated effort should be initiated to develop a firm scientific understanding of the several phenomena which apparently are involved in these reports, and to assure ourselves that the incidents will not hamper our present efforts in the Cold War or confuse our early warning system in case of an attack.' The typed signature block reads 'Walter B. Smith / Director'.",
+   "tier": 1
+  },
+  "c-4825f978b9": {
+   "id": "c-4825f978b9",
+   "kind": "claim",
+   "node": "john-marks-foia-f-76-374",
+   "nodeLabel": "John Marks FOIA request F-76-374 and the recovery of the MKULTRA finance file",
+   "source": {
+    "domain": "www.intelligence.senate.gov",
+    "text": "Memorandum for the Deputy Director of Central Intelligence, 'Request for Guidance on Handling Recently Located MKULTRA Material', 22 June 1977, David S. Brandwein, Director, Office of Technical Service, Appendix B of the Project MKULTRA joint hearing, https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf",
+    "url": "https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf"
+   },
+   "text": "The Agency's own memorandum names the request and the mechanism: 'As a result of John Marks FOIA request (F-76-374), all of the MKULTRA material in OTS possession was reviewed for possible release to him. Following that review, the OTS material in the Retired Records Center was searched. It was during that latter search that the subproject files were located among the retired records of the OTS Budget and Fiscal Section.'",
+   "tier": 1
+  },
+  "c-52cbf91664": {
+   "id": "c-52cbf91664",
+   "kind": "claim",
+   "node": "john-marks-foia-f-76-374",
+   "nodeLabel": "John Marks FOIA request F-76-374 and the recovery of the MKULTRA finance file",
+   "source": {
+    "domain": "www.intelligence.senate.gov",
+    "text": "Memorandum for the DDCI, 22 June 1977, Appendix B of the Project MKULTRA joint hearing, https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf",
+    "url": "https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf"
+   },
+   "text": "The recovered boxes included the programme's founding paper. The 22 June 1977 memorandum notes that 'the original memorandum setting up MKULTRA, signed [by] Mr. Dulles, is also among these documents.'",
+   "tier": 1
+  },
+  "c-6416daadcd": {
+   "id": "c-6416daadcd",
+   "kind": "claim",
+   "node": "john-marks-foia-f-76-374",
+   "nodeLabel": "John Marks FOIA request F-76-374 and the recovery of the MKULTRA finance file",
+   "source": {
+    "domain": null,
+    "text": "Danny Jones Podcast, ep. 100, 1 July 2021, 1:11:04 to 1:12:46",
+    "url": null
+   },
+   "text": "On the Danny Jones Podcast, episode 100, 1 July 2021, at 1:11:04 to 1:12:46, Tom O'Neill described John Marks as a State Department official who found MKULTRA's surviving financial records, blew the whistle and went to Congress. The CIA memorandum reprinted in the 1977 hearing print says the search and the finding were done inside the Agency in response to his FOIA request, and that the Agency was advised to inform the Senate Select Committee before informing his attorneys.",
+   "tier": 2
+  },
+  "c-67bae85cc3": {
+   "id": "c-67bae85cc3",
+   "kind": "claim",
+   "node": "frank-olson-death-1953",
+   "nodeLabel": "Death of Frank R. Olson, 1953, and the compensation and litigation that followed",
+   "source": {
+    "domain": "www.govinfo.gov",
+    "text": "Eric Olson and Nils Olson v. United States of America, Civil Action No. 12-1924 (JEB), United States District Court for the District of Columbia, memorandum opinion filed 17 July 2013, https://www.govinfo.gov/content/pkg/USCOURTS-dcd-1_12-cv-01924/pdf/USCOURTS-dcd-1_12-cv-01924-0.pdf",
+    "url": "https://www.govinfo.gov/content/pkg/USCOURTS-dcd-1_12-cv-01924/pdf/USCOURTS-dcd-1_12-cv-01924-0.pdf"
+   },
+   "text": "The 2012 suit was brought in the District of Columbia, not Maryland, and was dismissed in 2013 without reaching the merits: 'Concluding that most of the allegations are both untimely and waived by a prior settlement agreement, and that any timely or preserved claims fall outside of the United States' waiver of sovereign immunity, the Court will grant the Government's Motion.' The same opinion records that 'the skeptical reader may wish to know that the public record supports many of the allegations that follow, farfetched as they may sound.'",
+   "tier": 1
+  },
+  "c-69aee13227": {
+   "id": "c-69aee13227",
+   "kind": "claim",
+   "node": "project-bluebird",
+   "nodeLabel": "Project BLUEBIRD",
+   "source": {
+    "domain": "nsarchive.gwu.edu",
+    "text": "Project Bluebird, 5 April 1950, https://nsarchive.gwu.edu/sites/default/files/documents/1950-04-05%20JM%20Box%209%20F5%20Replacement%20CIA%20FOIA-ocr.pdf",
+    "url": "https://nsarchive.gwu.edu/sites/default/files/documents/1950-04-05%20JM%20Box%209%20F5%20Replacement%20CIA%20FOIA-ocr.pdf"
+   },
+   "text": "Its purpose, in the document: 'The purpose of this project is to provide for the immediate establishment of interrogation teams for the operational support of OSO and OPC activities. The teams will utilize the polygraph, drugs, and hypnotism to attain the greatest results in interrogation techniques.' A team is a doctor-psychiatrist, a polygraph-hypnotist and a technician, and the doctors' Washington office is to 'serve as a cover for training, experimentation, and indoctrination purposes in the use of drugs and hypnotism'.",
+   "tier": 1
+  },
+  "c-70b2d393c1": {
+   "id": "c-70b2d393c1",
+   "kind": "claim",
+   "node": "mkultra",
+   "nodeLabel": "Project MKULTRA",
+   "source": {
+    "domain": "nsarchive.gwu.edu",
+    "text": "Report of Inspection of MKULTRA, memorandum for the Director of Central Intelligence, 26 July 1963, National Security Archive John Marks Collection Box 8, https://nsarchive.gwu.edu/sites/default/files/documents/1963-07-26%20JM%20Box%208%20F2%20MKUltra-IG_Report-ocr.pdf",
+    "url": "https://nsarchive.gwu.edu/sites/default/files/documents/1963-07-26%20JM%20Box%208%20F2%20MKUltra-IG_Report-ocr.pdf"
+   },
+   "text": "The Inspector General's 1963 survey states the programme's purpose: 'The MKULTRA activity is concerned with the research and development of chemical, biological and radiological materials capable of employment in clandestine operations to control human behavior.' It records that 'MKULTRA was authorized by the then Director of Central Intelligence, Mr. Allen W. Dulles, in 1953' and that 'Normal procedures for project approval, funding, and accounting were waived.'",
+   "tier": 1
+  },
+  "c-72654f73ba": {
+   "id": "c-72654f73ba",
+   "kind": "claim",
+   "node": "roscoe-hillenkoetter",
+   "nodeLabel": "Roscoe H. Hillenkoetter",
+   "source": {
+    "domain": null,
+    "text": "CIA-RDP68-00046R000200090025-2, Worcester Gazette, 1 June 1960, 'Congressional Action: Ex-C.I.A. Chief Wants UFO Probe' by Bulkley Griffin; declassified in part 2014-06-12",
+    "url": null
+   },
+   "text": "A Worcester (Mass.) Gazette clipping of 1 June 1960, held in CIA records, reports Hillenkoetter declaring of the so-called flying saucers: 'The unknown objects are operating under intelligent control. It is imperative that we learn where the UFO's (unidentified flying objects) come from and what their purpose is.'",
+   "tier": 1
+  },
+  "c-7722bc7d68": {
+   "id": "c-7722bc7d68",
+   "kind": "claim",
+   "node": "charles-p-cabell",
+   "nodeLabel": "Gen. Charles P. Cabell",
+   "source": {
+    "domain": "archive.org",
+    "text": "CIA Historical Staff Chronology 1946-65, Volume II 1956-65, June 1970, CIA-RDP85B00803R000200050003-5, declassified in part 8 July 2013, https://archive.org/details/cia-readingroom-document-cia-rdp85b00803r000200050003-5",
+    "url": "https://archive.org/details/cia-readingroom-document-cia-rdp85b00803r000200050003-5"
+   },
+   "text": "The CIA's own declassified chronology closes the CIA post: '27 DEC. Lt. Gen. C.P. Cabell resigns as DDCI (effective 31 Jan 62)', and '9 MAR. Maj. Gen. Marshall S. Carter appointed DDCI, succeeding Cabell'. The same volume records that in December 1961 'DDCI Cabell named CIA member' when USIB membership was expanded that month.",
+   "tier": 1
+  },
+  "c-77631bea22": {
+   "id": "c-77631bea22",
+   "kind": "claim",
+   "node": "sidney-gottlieb",
+   "nodeLabel": "Sidney Gottlieb",
+   "source": {
+    "domain": "www.intelligence.senate.gov",
+    "text": "Project MKULTRA joint hearing, 3 August 1977, Appendix B, https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf",
+    "url": "https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf"
+   },
+   "text": "He is one of the two officers named as running the experiment that killed Frank Olson: 'The drug had been placed in the bottle by a CIA officer, Dr. Robert Lashbrook, as part of an experiment he and Dr. Sidney Gottlieb performed at a meeting of Army and CIA scientists.' The same text records that neither the Chief of TSS nor the Deputy Director for Plans specifically authorized that experiment.",
+   "tier": 1
+  },
+  "c-796caa2ead": {
+   "id": "c-796caa2ead",
+   "kind": "claim",
+   "node": "charles-p-cabell",
+   "nodeLabel": "Gen. Charles P. Cabell",
+   "source": {
+    "domain": "history.state.gov",
+    "text": "Danny Jones Podcast #406, 'They Want to Replace God', 19 June 2026, at 1:24:32 to 1:25:21; contradicted against FRUS, 1950-1955, The Intelligence Community, List of Persons, https://history.state.gov/historicaldocuments/frus1950-55Intel/persons",
+    "url": "https://history.state.gov/historicaldocuments/frus1950-55Intel/persons"
+   },
+   "text": "On the Danny Jones Podcast #406, 19 June 2026, at 1:24:32, Matthew Ehret said Project Blue Book was launched under 'CIA Deputy Director Charles Cabell' at the urging of Sir Henry Tizard's UK flying saucer working party, and that Cabell was fired by John F. Kennedy in 1961. The opened records contradict the office: at Blue Book's launch in March 1952 he was the Air Force's Director of Intelligence, and he joined CIA as Deputy Director only in 1953. The CIA's own chronology records a resignation, not a dismissal, on 27 December 1961 effective 31 January 1962.",
+   "tier": 2
+  },
+  "c-7f61a286bd": {
+   "id": "c-7f61a286bd",
+   "kind": "claim",
+   "node": "allen-w-dulles",
+   "nodeLabel": "Allen W. Dulles",
+   "source": {
+    "domain": "archive.org",
+    "text": "Allen W. Dulles to the Secretary of Defense, 13 March 1953, SECRET / Security Information, CIA-RDP80B01676R001000160043-9, https://archive.org/details/cia-readingroom-document-cia-rdp80b01676r001000160043-9",
+    "url": "https://archive.org/details/cia-readingroom-document-cia-rdp80b01676r001000160043-9"
+   },
+   "text": "The same letters distance the Agency from the subject in the same breath: 'Although this Agency does not consider problems arising from sightings of \"flying saucers\" primarily its concern, we shall be pleased to assist in any appropriate action that you deem advisable.'",
+   "tier": 1
+  },
+  "c-80a5d72c03": {
+   "id": "c-80a5d72c03",
+   "kind": "claim",
+   "node": "project-azorian",
+   "nodeLabel": "Project AZORIAN and the Hughes Glomar Explorer",
+   "source": {
+    "domain": "archive.org",
+    "text": "CIA reading-room document 0005301269, https://archive.org/download/cia-readingroom-document-0005301269/0005301269_djvu.txt",
+    "url": "https://archive.org/download/cia-readingroom-document-0005301269/0005301269_djvu.txt"
+   },
+   "text": "The article's publication note records that facts about the project had been acknowledged in court in continuing litigation concerning California State tax liability, Freedom of Information Act matters, and a patent infringement claim, and that the acknowledged facts include CIA sponsorship for intelligence collection purposes and the participation of Hughes Tool Company, the Summa Corporation and Global Marine, Inc.",
+   "tier": 1
+  },
+  "c-812509e640": {
+   "id": "c-812509e640",
+   "kind": "claim",
+   "node": "allen-w-dulles",
+   "nodeLabel": "Allen W. Dulles",
+   "source": {
+    "domain": "archive.org",
+    "text": "Allen W. Dulles to Jack Gorrie, National Security Resources Board, 13 March 1953, CIA-RDP80B01676R001000160044-8, https://archive.org/details/cia-readingroom-document-cia-rdp80b01676r001000160044-8",
+    "url": "https://archive.org/details/cia-readingroom-document-cia-rdp80b01676r001000160044-8"
+   },
+   "text": "The letters attribute the Robertson Panel to his predecessor by name: 'This panel was convened at the direction of General Smith, following the recommendation of the Intelligence Advisory Committee.'",
+   "tier": 1
+  },
+  "c-8a9f50409a": {
+   "id": "c-8a9f50409a",
+   "kind": "claim",
+   "node": "project-bluebird",
+   "nodeLabel": "Project BLUEBIRD",
+   "source": {
+    "domain": "nsarchive.gwu.edu",
+    "text": "Chief, Inspection and Security Staff, CIA, to the Director of Central Intelligence, 'Project Bluebird', Top Secret, 5 April 1950, CIA-RDP83-01042R000800010003-1, National Security Archive John Marks Collection Box 9, https://nsarchive.gwu.edu/sites/default/files/documents/1950-04-05%20JM%20Box%209%20F5%20Replacement%20CIA%20FOIA-ocr.pdf",
+    "url": "https://nsarchive.gwu.edu/sites/default/files/documents/1950-04-05%20JM%20Box%209%20F5%20Replacement%20CIA%20FOIA-ocr.pdf"
+   },
+   "text": "The founding proposal names its own irregularity: 'In view of the extreme sensitivity of this project and its covert nature, it is deemed advisable to submit this project directly to you, rather than through the channel of the Projects Review Committee. Knowledge of this project should be restricted to the absolute minimum number of persons.'",
+   "tier": 1
+  },
+  "c-8cd45018d5": {
+   "id": "c-8cd45018d5",
+   "kind": "claim",
+   "node": "sidney-gottlieb",
+   "nodeLabel": "Sidney Gottlieb",
+   "source": {
+    "domain": "www.intelligence.senate.gov",
+    "text": "Project MKULTRA joint hearing, 3 August 1977, Appendix B, https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf",
+    "url": "https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf"
+   },
+   "text": "He gave the destruction order. 'In January 1973, MKULTRA records were destroyed by Technical Services Division personnel acting on the verbal orders of Dr. Sidney Gottlieb, Chief of TSD. Dr. Gottlieb has testified, and former Director Helms has confirmed, that in ordering the records destroyed, Dr. Gottlieb was carrying out the verbal order of then DCI Helms.'",
+   "tier": 1
+  },
+  "c-8dd63537ea": {
+   "id": "c-8dd63537ea",
+   "kind": "claim",
+   "node": "roscoe-hillenkoetter",
+   "nodeLabel": "Roscoe H. Hillenkoetter",
+   "source": {
+    "domain": null,
+    "text": "CIA-RDP68-00046R000200090028-9, Enquirer, 4 March 1960, editorial 'Flying Saucers Again'; declassified in part 2014-06-12",
+    "url": null
+   },
+   "text": "An Enquirer editorial of 4 March 1960, also held in CIA records, states that 'Admiral Hillenkoetter, former director of the Central Intelligence Agency, is a board member of the privately financed NICAP ... As such he has referred his conclusions to the Senate Space Committee, requesting an investigation.'",
+   "tier": 1
+  },
+  "c-9433a9eae1": {
+   "id": "c-9433a9eae1",
+   "kind": "claim",
+   "node": "allen-w-dulles",
+   "nodeLabel": "Allen W. Dulles",
+   "source": {
+    "domain": "archive.org",
+    "text": "Allen W. Dulles, three letters of 13 March 1953, CIA-RDP80B01676R001000160043-9, -044-8 and -045-7, https://archive.org/details/cia-readingroom-document-cia-rdp80b01676r001000160043-9",
+    "url": "https://archive.org/details/cia-readingroom-document-cia-rdp80b01676r001000160043-9"
+   },
+   "text": "On 13 March 1953 Dulles forwarded the Robertson Panel report to three agencies over his own signature, describing it as pointing out 'certain potential dangers to national security which are related to the subject and suggest ways of their elimination.' The three addressees are the Secretary of Defense, the Acting Administrator of the Federal Civil Defense Administration and the Vice Chairman of the National Security Resources Board, which are exactly the three IAC-D-67 had proposed on 18 February 1953.",
+   "tier": 1
+  },
+  "c-95da124da9": {
+   "id": "c-95da124da9",
+   "kind": "claim",
+   "node": "sidney-gottlieb",
+   "nodeLabel": "Sidney Gottlieb",
+   "source": {
+    "domain": null,
+    "text": "Danny Jones Podcast, ep. 100, 1 July 2021, 1:08:19 to 1:10:07",
+    "url": null
+   },
+   "text": "On the Danny Jones Podcast, episode 100, 1 July 2021, at 1:08:19 to 1:10:07, Tom O'Neill described Gottlieb as Louis Jolyon West's handler, said their correspondence began at Lackland Air Force Base and said Gottlieb offered West an operational alias which West declined as more conspicuous. No record opened for this node bears on any of it, and the released Subproject 43 file names no researcher.",
+   "tier": 2
+  },
+  "c-962303bc69": {
+   "id": "c-962303bc69",
+   "kind": "claim",
+   "node": "harry-s-truman",
+   "nodeLabel": "Harry S. Truman",
+   "source": {
+    "domain": "www.govinfo.gov",
+    "text": "National Security Act of 1947, Public Law 80-253, 61 Stat. 495, sec. 102(d)(5), https://www.govinfo.gov/content/pkg/STATUTE-61/pdf/STATUTE-61-Pg495.pdf",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-61/pdf/STATUTE-61-Pg495.pdf"
+   },
+   "text": "Section 102(d)(5) of the same Act is the residual authority every later covert-action directive is written under: the Agency is 'to perform such other functions and duties related to intelligence affecting the national security as the National Security Council may from time to time direct.'",
+   "tier": 1
+  },
+  "c-9994754efa": {
+   "id": "c-9994754efa",
+   "kind": "claim",
+   "node": "frank-olson-death-1953",
+   "nodeLabel": "Death of Frank R. Olson, 1953, and the compensation and litigation that followed",
+   "source": {
+    "domain": "www.govinfo.gov",
+    "text": "Private Law 94-126, 90 Stat. 3006 (1976), quoted in full in Olson v. United States, No. 12-1924 (JEB), D.D.C., memorandum opinion of 17 July 2013, https://www.govinfo.gov/content/pkg/USCOURTS-dcd-1_12-cv-01924/pdf/USCOURTS-dcd-1_12-cv-01924-0.pdf",
+    "url": "https://www.govinfo.gov/content/pkg/USCOURTS-dcd-1_12-cv-01924/pdf/USCOURTS-dcd-1_12-cv-01924-0.pdf"
+   },
+   "text": "Congress compensated the family by private statute. Private Law 94-126, 90 Stat. 3006 (1976), directs payment of 'the sum of $187,500 each to Alice W. Olson, Lisa Olson Hayward, Eric Olson, and Nils Olson, in full settlement of all of their claims against the United States arising out of the death of Doctor Frank R. Olson in November 1953, if all of them waive any and all rights arising out of such death.'",
+   "tier": 1
+  },
+  "c-9b1ac16505": {
+   "id": "c-9b1ac16505",
+   "kind": "claim",
+   "node": "glenn-t-seaborg",
+   "nodeLabel": "Glenn T. Seaborg",
+   "source": {
+    "domain": "archive.org",
+    "text": "CIA reading room document CIA-RDP80B01676R002800020014-7, 20 March 1963, https://archive.org/details/cia-readingroom-document-cia-rdp80b01676r002800020014-7",
+    "url": "https://archive.org/details/cia-readingroom-document-cia-rdp80b01676r002800020014-7"
+   },
+   "text": "He is in the office on Commission letterhead in 1963, writing to the man he succeeded at the AEC, now at CIA: 'It is with pleasure that I forward to you a copy of the Commission's Annual Report to Congress for 1962', signed 'Glenn T. Seaborg, Chairman', addressed to 'Honorable John A. McCone, Director, Central Intelligence Agency'.",
+   "tier": 1
+  },
+  "c-9c4271a309": {
+   "id": "c-9c4271a309",
+   "kind": "claim",
+   "node": "frank-olson-death-1953",
+   "nodeLabel": "Death of Frank R. Olson, 1953, and the compensation and litigation that followed",
+   "source": {
+    "domain": "www.intelligence.senate.gov",
+    "text": "Project MKULTRA joint hearing, 3 August 1977 (Turner statement and Appendix B); Rockefeller Commission report, June 1975; Ford signing statement, 12 October 1976; Olson v. United States, D.D.C., 17 July 2013, https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf",
+    "url": "https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf"
+   },
+   "text": "The four opened records do not agree. The Rockefeller Commission and President Ford give a tenth floor window; the Church Committee text in the 1977 Senate print gives a tenth story window of the Statler Hotel and the death as 27 November 1953; Ford and the 2012 complaint give 28 November; the complaint gives thirteen stories at 2:30 a.m. The CIA told the Senate in 1977 that he 'leaped to his death from a hotel room window in New York City about a week after having unwittingly consumed LSD'.",
+   "tier": 1
+  },
+  "c-9fc5e532ba": {
+   "id": "c-9fc5e532ba",
+   "kind": "claim",
+   "node": "project-bluebird",
+   "nodeLabel": "Project BLUEBIRD",
+   "source": {
+    "domain": "www.intelligence.senate.gov",
+    "text": "Project MKULTRA joint hearing, 3 August 1977, Appendix B, section 2, https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf",
+    "url": "https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf"
+   },
+   "text": "The programme's lineage is in the 1977 Senate print: 'The earliest of the CIA's major programs involving the use of chemical and biological agents, Project BLUEBIRD, was approved by the Director in 1950 ... In August 1951, the project was renamed ARTICHOKE.' Responsibility passed in 1952 from the Office of Scientific Intelligence to the Inspection and Security Office, which the same text reads as a shift from studying hostile powers to using the techniques.",
+   "tier": 1
+  },
+  "c-ae7352ec1d": {
+   "id": "c-ae7352ec1d",
+   "kind": "claim",
+   "node": "lockheed-martin",
+   "nodeLabel": "Lockheed Martin Corporation",
+   "source": {
+    "domain": null,
+    "text": "AARO, Historical Record Report Volume I, March 2024",
+    "url": null
+   },
+   "text": "AARO's report describes Lockheed Martin's Advanced Development Programs organisation by name in its treatment of classified aeronautics mistaken for UAP, and separately states that executives and CTOs of the named companies denied the allegations to AARO's Director on the record.",
+   "tier": 1
+  },
+  "c-b6d6789c8c": {
+   "id": "c-b6d6789c8c",
+   "kind": "claim",
+   "node": "lockheed-martin",
+   "nodeLabel": "Lockheed Martin Corporation",
+   "source": {
+    "domain": null,
+    "text": "George Knapp, sworn testimony, CHRG-119hhrg61718, 9 September 2025",
+    "url": null
+   },
+   "text": "Bigelow and an AAWSAP colleague 'met with and negotiated with senior executives at Lockheed Martin and hammered out a deal wherein Bigelow's company, BAASS, would receive a quantity of unusual material that had been stashed away and protected at a facility in California. That material was not made here.'",
+   "tier": 2
+  },
+  "c-b76406bf81": {
+   "id": "c-b76406bf81",
+   "kind": "claim",
+   "node": "cia",
+   "nodeLabel": "Central Intelligence Agency",
+   "source": {
+    "domain": null,
+    "text": "Inference from Haines, 'CIA's Role in the Study of UFOs, 1947-1990'",
+    "url": null
+   },
+   "text": "CIA's stated U-2/OXCART explanation is an admission of deliberate false attribution: the Agency states that it knew a substantial fraction of reports were its own aircraft and permitted the Air Force to issue natural-phenomena explanations instead. Reasoning: the explanation only works if the Agency withheld the true cause from the public explanation channel it was coordinating with.",
+   "tier": 3
+  },
+  "c-b80bcc7d3e": {
+   "id": "c-b80bcc7d3e",
+   "kind": "claim",
+   "node": "frank-olson-death-1953",
+   "nodeLabel": "Death of Frank R. Olson, 1953, and the compensation and litigation that followed",
+   "source": {
+    "domain": null,
+    "text": "Danny Jones Podcast, ep. 100, 1 July 2021, 2:10:37 to 2:11:31",
+    "url": null
+   },
+   "text": "On the Danny Jones Podcast, episode 100, 1 July 2021, at 2:10:37, Tom O'Neill said Eric Olson has spent his life arguing his father was thrown from a window at the 'Statler Hilton' in New York in 1953 rather than having jumped, and that the government's own position is that Olson was used in an experiment but died by suicide. The opened records name the Statler Hotel, and the murder allegation is the 2012 complaint's, dismissed in 2013 on timeliness, waiver and sovereign immunity rather than on its truth.",
+   "tier": 2
+  },
+  "c-c9eabdbf9d": {
+   "id": "c-c9eabdbf9d",
+   "kind": "claim",
+   "node": "robertson-panel",
+   "nodeLabel": "Robertson Panel",
+   "source": {
+    "domain": null,
+    "text": "Robertson Panel report; Haines, CIA Studies in Intelligence 1997",
+    "url": null
+   },
+   "text": "The panel canvassed the Disney organisation and the US Navy Special Devices Center for production of debunking material and recommended monitoring civilian UFO organisations.",
+   "tier": 1
+  },
+  "c-d042156617": {
+   "id": "c-d042156617",
+   "kind": "claim",
+   "node": "harry-s-truman",
+   "nodeLabel": "Harry S. Truman",
+   "source": {
+    "domain": "www.govinfo.gov",
+    "text": "National Security Act of 1947, Public Law 80-253, ch. 343, 61 Stat. 495, secs. 101(a), 102(a), 201(a), approved 26 July 1947, https://www.govinfo.gov/content/pkg/STATUTE-61/pdf/STATUTE-61-Pg495.pdf",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-61/pdf/STATUTE-61-Pg495.pdf"
+   },
+   "text": "The statute approved on 26 July 1947 creates, in one instrument, the Council, the Agency and the military establishment: 'There is hereby established a council to be known as the National Security Council'; 'There is hereby established under the National Security Council a Central Intelligence Agency with a Director of Central Intelligence, who shall be the head thereof'; 'There is hereby established the National Military Establishment, and the Secretary of Defense shall be the head thereof.'",
+   "tier": 1
+  },
+  "c-d38fd72d69": {
+   "id": "c-d38fd72d69",
+   "kind": "claim",
+   "node": "walter-bedell-smith",
+   "nodeLabel": "Walter Bedell Smith",
+   "source": {
+    "domain": "archive.org",
+    "text": "H. Marshall Chadwell, Memorandum to Director of Central Intelligence, subject: Flying Saucers, 2 October 1952, CIA document C00015339, para. 4 and routing page, https://archive.org/details/cia-readingroom-document-0005515933",
+    "url": "https://archive.org/details/cia-readingroom-document-0005515933"
+   },
+   "text": "He is named as the approving authority on the recommendation that the DCI take the subject to the Psychological Strategy Board, and on the released copy the approval was never recorded. The 2 October 1952 routing page reads 'ACTION BY APPROVING AUTHORITY: Date: ____ Approved (disapproved): ____ WALTER B. SMITH, Director'; both lines are blank. The recommendation itself is action (b): 'That the DCI discuss this subject with the Psychological Strategy Board. A memorandum to the Director, Psychological Strategy Board, is attached for signature as TAB C.'",
+   "tier": 1
+  },
+  "c-d59d54959b": {
+   "id": "c-d59d54959b",
+   "kind": "claim",
+   "node": "roscoe-hillenkoetter",
+   "nodeLabel": "Roscoe H. Hillenkoetter",
+   "source": {
+    "domain": null,
+    "text": "FBI files on Roscoe H. Hillenkoetter, National Security Archive mirror; full-text search of the sections available",
+    "url": null
+   },
+   "text": "The National Security Archive's mirror of the FBI files on Hillenkoetter -- eighteen serials plus a main file -- contains, across the sections text-searched, zero occurrences of NICAP, 'flying saucer', 'unidentified flying', Keyhoe, or the year 1960. OCR quality on these scans is uneven, so this is a strong indication rather than a proof.",
+   "tier": 2
+  },
+  "c-d7ffce06ef": {
+   "id": "c-d7ffce06ef",
+   "kind": "claim",
+   "node": "project-azorian",
+   "nodeLabel": "Project AZORIAN and the Hughes Glomar Explorer",
+   "source": {
+    "domain": "archive.org",
+    "text": "CIA reading-room document 0005301269, https://archive.org/download/cia-readingroom-document-0005301269/0005301269_djvu.txt",
+    "url": "https://archive.org/download/cia-readingroom-document-0005301269/0005301269_djvu.txt"
+   },
+   "text": "The same page states: On 8 August 1974, that submarine was brought to the surface in a recovery system designed and developed specifically for that mission.",
+   "tier": 1
+  },
+  "c-d82372d643": {
+   "id": "c-d82372d643",
+   "kind": "claim",
+   "node": "robertson-panel",
+   "nodeLabel": "Robertson Panel",
+   "source": {
+    "domain": null,
+    "text": "Gerald K. Haines, 'A Die-hard Issue: CIA's Role in the Study of UFOs, 1947-1990', Studies in Intelligence, 1997",
+    "url": null
+   },
+   "text": "'CIA officials wanted knowledge of any Agency interest in the subject of flying saucers carefully restricted, noting not only that the Robertson panel report was classified but also that any mention of CIA sponsorship of the panel was forbidden.'",
+   "tier": 1
+  },
+  "c-d95dfb90d0": {
+   "id": "c-d95dfb90d0",
+   "kind": "claim",
+   "node": "john-marks-foia-f-76-374",
+   "nodeLabel": "John Marks FOIA request F-76-374 and the recovery of the MKULTRA finance file",
+   "source": {
+    "domain": "www.intelligence.senate.gov",
+    "text": "Opening statement, Project MKULTRA joint hearing, 3 August 1977, https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf",
+    "url": "https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf"
+   },
+   "text": "The Senate said the same thing without the name: 'Then one individual, through a Freedom of Information request, accomplished what two U.S. Senate committees could not. He spurred the agency into finding additional records pertaining to the CIA's program of experimentation with human subjects.'",
+   "tier": 1
+  },
+  "c-daf55a2bc2": {
+   "id": "c-daf55a2bc2",
+   "kind": "claim",
+   "node": "project-bluebird",
+   "nodeLabel": "Project BLUEBIRD",
+   "source": {
+    "domain": "nsarchive.gwu.edu",
+    "text": "Project Bluebird, Attachment A, 5 April 1950, https://nsarchive.gwu.edu/sites/default/files/documents/1950-04-05%20JM%20Box%209%20F5%20Replacement%20CIA%20FOIA-ocr.pdf",
+    "url": "https://nsarchive.gwu.edu/sites/default/files/documents/1950-04-05%20JM%20Box%209%20F5%20Replacement%20CIA%20FOIA-ocr.pdf"
+   },
+   "text": "The one-year budget in the attachment totals $65,515.00: $40,800 personnel, $1,025 supplies, $3,190 equipment, $18,000 transportation and $2,500 rent, itemised down to a Keeler polygraph machine and its spare part kit.",
+   "tier": 1
+  },
+  "c-dc74adecf8": {
+   "id": "c-dc74adecf8",
+   "kind": "claim",
+   "node": "sidney-gottlieb",
+   "nodeLabel": "Sidney Gottlieb",
+   "source": {
+    "domain": "nsarchive.gwu.edu",
+    "text": "Report of Inspection of MKULTRA, CIA Inspector General, 26 July 1963, https://nsarchive.gwu.edu/sites/default/files/documents/1963-07-26%20JM%20Box%208%20F2%20MKUltra-IG_Report-ocr.pdf",
+    "url": "https://nsarchive.gwu.edu/sites/default/files/documents/1963-07-26%20JM%20Box%208%20F2%20MKUltra-IG_Report-ocr.pdf"
+   },
+   "text": "The Agency's own Inspector General placed him one rung below the top of TSD in 1963: 'The present Deputy Chief of TSD, Dr. Sidney Gottlieb, in his then capacity of scientific advisor to the Deputy Director/Plans (DD/P), released a study ... on 21 April 1960, covering his six-month investigation of \"Scientific and Technical Problems in Covert Action Operations\".'",
+   "tier": 1
+  },
+  "c-dd772efb5c": {
+   "id": "c-dd772efb5c",
+   "kind": "claim",
+   "node": "mkultra",
+   "nodeLabel": "Project MKULTRA",
+   "source": {
+    "domain": "www.intelligence.senate.gov",
+    "text": "Prepared statement of Admiral Stansfield Turner, Project MKULTRA joint hearing, 3 August 1977, https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf",
+    "url": "https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf"
+   },
+   "text": "The surviving records are finance folders and they survived by accident. DCI Stansfield Turner reported 'our recent discovery of seven boxes of documents related to Project MKULTRA', found at the Retired Records Center because the Budget and Fiscal Section had sent them there in 1970 in what the statement calls a departure from normal procedure whose reason 'is not known'. As a result 'the material escaped retrieval and destruction in 1973 ... as well as discovery in 1975'.",
+   "tier": 1
+  },
+  "c-f20ba3c8fd": {
+   "id": "c-f20ba3c8fd",
+   "kind": "claim",
+   "node": "cia",
+   "nodeLabel": "Central Intelligence Agency",
+   "source": {
+    "domain": null,
+    "text": "CIA FOIA Electronic Reading Room, UFOs: Fact or Fiction? collection",
+    "url": null
+   },
+   "text": "CIA characterises its public FOIA UFO collection as containing 'CIA information on this subject from the 1940s through the early 1990s', mostly 'cables reporting unsubstantiated UFO sightings in the foreign press and intra-Agency memos about how the Agency handled public inquiries about UFO sightings'.",
+   "tier": 1
+  },
+  "c-f210c05af7": {
+   "id": "c-f210c05af7",
+   "kind": "claim",
+   "node": "project-bluebird",
+   "nodeLabel": "Project BLUEBIRD",
+   "source": {
+    "domain": null,
+    "text": "Danny Jones Podcast, ep. 295, 7 April 2025, 2:39:56",
+    "url": null
+   },
+   "text": "On the Danny Jones Podcast, episode 295, 7 April 2025, at 2:39:56, Jason Jorjani said Project Bluebird was developed by Nazi psychologists brought to the United States under Paperclip, involved experiments on children, and became MK-Ultra in the 1960s. The founding document is dated 5 April 1950, is signed by the Chief of the CIA's own Inspection and Security Staff, names defectors and agents rather than children, and the programme was renamed ARTICHOKE in August 1951, before MKULTRA was authorized in April 1953.",
+   "tier": 2
+  },
+  "c-f32fd55072": {
+   "id": "c-f32fd55072",
+   "kind": "claim",
+   "node": "robertson-panel",
+   "nodeLabel": "Robertson Panel",
+   "source": {
+    "domain": null,
+    "text": "Robertson Panel report, declassified text",
+    "url": null
+   },
+   "text": "The panel was convened by the CIA Office of Scientific Intelligence and met 14-18 January 1953; its report is titled 'Report of Scientific Advisory Panel on Unidentified Flying Objects Convened by Office of Scientific Intelligence, CIA'.",
+   "tier": 1
+  },
+  "c-f499b43fd0": {
+   "id": "c-f499b43fd0",
+   "kind": "claim",
+   "node": "project-bluebird",
+   "nodeLabel": "Project BLUEBIRD",
+   "source": {
+    "domain": "nsarchive.gwu.edu",
+    "text": "Memorandum for the Director of Central Intelligence, 'Successful Application of Narco-Hypnotic Interrogation (ARTICHOKE)', CIA Security Office, July 1952, National Security Archive John Marks Collection Box 6, https://nsarchive.gwu.edu/sites/default/files/documents/1952-07-14%20JM%20Box%206%20F13%20Artichoke-ocr.pdf",
+    "url": "https://nsarchive.gwu.edu/sites/default/files/documents/1952-07-14%20JM%20Box%206%20F13%20Artichoke-ocr.pdf"
+   },
+   "text": "By July 1952 the Security Office was reporting operational use to the Director: '(a) Subjects were Russian agents suspected of being doubled. (b) Cover was psychiatric-medical. (c) Control methods were by narcosis, by hypnosis, and by combination of both.' The attachment records one interrogation held for about an hour and forty minutes 'with a subsequent total amnesia produced by post-hypnotic suggestion'.",
+   "tier": 1
+  },
+  "c-fc23bec8bc": {
+   "id": "c-fc23bec8bc",
+   "kind": "claim",
+   "node": "mkultra",
+   "nodeLabel": "Project MKULTRA",
+   "source": {
+    "domain": null,
+    "text": "Danny Jones Podcast, ep. 330, 8 September 2025, 0:23:00 to 0:23:52",
+    "url": null
+   },
+   "text": "On the Danny Jones Podcast, episode 330, 8 September 2025, at 0:23:00 to 0:23:52, Rebecca Lemov described MK-Ultra as run by Sidney Gottlieb from 1953, with about 149 subprojects in the surviving records, officially discontinued in 1963 or 1964. The subproject count and the 1953 to 1964 span match the 1977 hearing print exactly; no record opened here shows Gottlieb running the programme from 1953.",
+   "tier": 2
+  },
+  "c-fda70a865b": {
+   "id": "c-fda70a865b",
+   "kind": "claim",
+   "node": "roscoe-hillenkoetter",
+   "nodeLabel": "Roscoe H. Hillenkoetter",
+   "source": {
+    "domain": "nsarchive.gwu.edu",
+    "text": "Chief, Inspection and Security Staff, CIA, to the Director of Central Intelligence, 'Project Bluebird', Top Secret, 5 April 1950, CIA-RDP83-01042R000800010003-1, National Security Archive John Marks Collection Box 9, https://nsarchive.gwu.edu/sites/default/files/documents/1950-04-05%20JM%20Box%209%20F5%20Replacement%20CIA%20FOIA-ocr.pdf",
+    "url": "https://nsarchive.gwu.edu/sites/default/files/documents/1950-04-05%20JM%20Box%209%20F5%20Replacement%20CIA%20FOIA-ocr.pdf"
+   },
+   "text": "The founding proposal for Project BLUEBIRD went to him as Director of Central Intelligence. The memorandum of 5 April 1950 from the Chief of the CIA's Inspection and Security Staff is addressed to the Director of Central Intelligence and says on its face: 'In view of the extreme sensitivity of this project and its covert nature, it is deemed advisable to submit this project directly to you, rather than through the channel of the Projects Review Committee. Knowledge of this project should be restricted to the absolute minimum number of persons.' It asks him for approval and for an allocation of $65,515.",
+   "tier": 1
+  },
+  "e-0090ce15ca": {
+   "endpoints": [
+    {
+     "id": "roscoe-hillenkoetter",
+     "label": "Roscoe H. Hillenkoetter"
+    },
+    {
+     "id": "cia",
+     "label": "Central Intelligence Agency"
+    }
+   ],
+   "id": "e-0090ce15ca",
+   "kind": "edge",
+   "label": "first Director of Central Intelligence, May 1947 to October 1950",
+   "sources": [
+    {
+     "date": "1960-06-01",
+     "name": "CIA-RDP68-00046R000200090025-2, Worcester Gazette, 1 June 1960",
+     "url": "https://archive.org/details/cia-readingroom-document-cia-rdp68-00046r000200090025-2"
+    }
+   ],
+   "text": "The dates are given in a CIA-held newspaper clipping of 1 June 1960, released in 2014: he 'headed the Central Intelligence Agency from May 1947 to October 1950'.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-05f5b852b7": {
+   "endpoints": [
+    {
+     "id": "cia",
+     "label": "Central Intelligence Agency"
+    },
+    {
+     "id": "robertson-panel",
+     "label": "Robertson Panel"
+    }
+   ],
+   "id": "e-05f5b852b7",
+   "kind": "edge",
+   "label": "CIA convened and sponsored the panel, and concealed that sponsorship",
+   "sources": [
+    {
+     "date": "1997-01-01",
+     "name": "Haines, CIA's Role in the Study of UFOs, 1947-1990",
+     "url": "https://www.cia.gov/resources/csi/studies-in-intelligence/studies-in-intelligence-1997/cias-role-in-the-study-of-ufos-1947-1990/"
+    },
+    {
+     "date": "1953-01-17",
+     "name": "Robertson Panel report, Tab A of the Durant record (The Black Vault scan, CIA-RDP81R00560R000100030027-0)",
+     "url": "https://documents.theblackvault.com/documents/ufos/robertsonpanelreport.pdf"
+    }
+   ],
+   "text": "The panel was convened by the Office of Scientific Intelligence. The CIA's own history states that any mention of Agency sponsorship of the panel was forbidden.",
+   "tier": 1,
+   "type": "funding"
+  },
+  "e-082272061a": {
+   "endpoints": [
+    {
+     "id": "harry-s-truman",
+     "label": "Harry S. Truman"
+    },
+    {
+     "id": "cia",
+     "label": "Central Intelligence Agency"
+    }
+   ],
+   "id": "e-082272061a",
+   "kind": "edge",
+   "label": "Signed the statute that created the Agency",
+   "sources": [
+    {
+     "date": "1946-01-22",
+     "name": "Presidential Directive on Coordination of Foreign Intelligence Activities, 22 January 1946 (FRUS 1945-50 Intel, Doc. 71)",
+     "url": "https://history.state.gov/historicaldocuments/frus1945-50Intel/d71"
+    }
+   ],
+   "text": "Section 102(a) of the National Security Act of 1947, approved 26 July 1947, establishes the Central Intelligence Agency under the National Security Council.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-1300378a96": {
+   "endpoints": [
+    {
+     "id": "project-azorian",
+     "label": "Project AZORIAN and the Hughes Glomar Explorer"
+    },
+    {
+     "id": "lockheed-martin",
+     "label": "Lockheed Martin Corporation"
+    }
+   ],
+   "id": "e-1300378a96",
+   "kind": "edge",
+   "label": "The 1978 mining consortium names Lockheed, the predecessor of this node",
+   "sources": [
+    {
+     "date": "2010-01-04",
+     "name": "PROJECT AZORIAN: THE STORY OF THE HUGHES GLOMAR EXPLORER, CIA reading-room document 0005301269, approved for release 4 January 2010, 50 pages",
+     "url": "https://archive.org/download/cia-readingroom-document-0005301269/0005301269_djvu.txt"
+    }
+   ],
+   "text": "The released history's closing page states that a private consortium of companies, including Lockheed, Global Marine, Standard Oil of Indiana and Royal Dutch Shell, was readying the Hughes Glomar Explorer for deep-ocean mining operations to begin late in the fall of 1978. The document names Lockheed and not Lockheed Martin, and the transcript's twenty-year lease to Lockheed Martin is not what the record says. Tier 2 because identifying the 1978 firm with this node is an identification across the 1995 merger that the document does not make.",
+   "tier": 2,
+   "type": "institutional"
+  },
+  "e-2d9df9cd76": {
+   "endpoints": [
+    {
+     "id": "project-azorian",
+     "label": "Project AZORIAN and the Hughes Glomar Explorer"
+    },
+    {
+     "id": "cia",
+     "label": "Central Intelligence Agency"
+    }
+   ],
+   "id": "e-2d9df9cd76",
+   "kind": "edge",
+   "label": "CIA programme, on the Agency's own account of it",
+   "sources": [
+    {
+     "date": "2010-01-04",
+     "name": "PROJECT AZORIAN: THE STORY OF THE HUGHES GLOMAR EXPLORER, CIA reading-room document 0005301269, approved for release 4 January 2010, 50 pages",
+     "url": "https://archive.org/download/cia-readingroom-document-0005301269/0005301269_djvu.txt"
+    }
+   ],
+   "text": "The released history is the Agency's own account and states CIA sponsorship of the project for intelligence collection purposes.",
+   "tier": 1,
+   "type": "programmatic"
+  },
+  "e-3710978124": {
+   "endpoints": [
+    {
+     "id": "cia",
+     "label": "Central Intelligence Agency"
+    },
+    {
+     "id": "robertson-panel",
+     "label": "Robertson Panel"
+    }
+   ],
+   "id": "e-3710978124",
+   "kind": "edge",
+   "label": "CIA convened and staffed the January 1953 scientific advisory panel",
+   "sources": [
+    {
+     "date": "1953-01-17",
+     "name": "Robertson Panel report and Durant record (The Black Vault scan, CIA-RDP81R00560R000100030027-0)",
+     "url": "https://documents.theblackvault.com/documents/ufos/robertsonpanelreport.pdf"
+    },
+    {
+     "date": "1997-01-01",
+     "name": "Haines, 'CIA's Role in the Study of UFOs, 1947-1990', Studies in Intelligence",
+     "url": "https://www.cia.gov/resources/csi/studies-in-intelligence/studies-in-intelligence-1997/cias-role-in-the-study-of-ufos-1947-1990/"
+    }
+   ],
+   "text": "Convened by the Office of Scientific Intelligence under H. P. Robertson; the panel recommended debunking and the monitoring of civilian UFO groups.",
+   "tier": 1,
+   "type": "programmatic"
+  },
+  "e-543d0f5e70": {
+   "endpoints": [
+    {
+     "id": "cia",
+     "label": "Central Intelligence Agency"
+    },
+    {
+     "id": "lockheed-martin",
+     "label": "Lockheed Martin Corporation"
+    }
+   ],
+   "id": "e-543d0f5e70",
+   "kind": "edge",
+   "label": "CIA is alleged to have blocked the divestment of material from the contractor to BAASS",
+   "sources": [
+    {
+     "date": "2024-11-13",
+     "name": "House Oversight hearing transcript, 'Unidentified Anomalous Phenomena: Exposing the Truth' (CHRG-118hhrg57440)",
+     "url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm"
+    },
+    {
+     "date": "2024-03-08",
+     "name": "AARO, 'Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP), Volume I'",
+     "url": "https://documents2.theblackvault.com/documents/dod/AARO_Historical_Record_Report_Volume_1_2024.pdf"
+    }
+   ],
+   "text": "Rep. Burlison read Christopher Sharp's reporting of a CIA block into the 13 November 2024 hearing and Elizondo replied 'What I can say is that it was blocked.' AARO separately records an interviewee claim that 'a former named senior CIA official quashed the proposal to remove the material from the corporation.'",
+   "tier": 2,
+   "type": "denial"
+  },
+  "e-55f06b164c": {
+   "endpoints": [
+    {
+     "id": "walter-bedell-smith",
+     "label": "Walter Bedell Smith"
+    },
+    {
+     "id": "cia",
+     "label": "Central Intelligence Agency"
+    }
+   ],
+   "id": "e-55f06b164c",
+   "kind": "edge",
+   "label": "Director of Central Intelligence",
+   "sources": [
+    {
+     "date": "1952-12-02",
+     "name": "CIA document C00015340, draft memorandum to the NSC Executive Secretary",
+     "url": "https://archive.org/details/cia-readingroom-document-0005515935"
+    }
+   ],
+   "text": "He signs as 'Director' on CIA Office of the Director paper and is addressed as Director of Central Intelligence in the Office of Scientific Intelligence memoranda of October and December 1952.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-5f2049d632": {
+   "endpoints": [
+    {
+     "id": "mkultra",
+     "label": "Project MKULTRA"
+    },
+    {
+     "id": "cia",
+     "label": "Central Intelligence Agency"
+    }
+   ],
+   "id": "e-5f2049d632",
+   "kind": "edge",
+   "label": "CIA umbrella project, authorized 1953",
+   "sources": [
+    {
+     "date": "1963-07-26",
+     "name": "Report of Inspection of MKULTRA, 26 July 1963",
+     "url": "https://nsarchive.gwu.edu/sites/default/files/documents/1963-07-26%20JM%20Box%208%20F2%20MKUltra-IG_Report-ocr.pdf"
+    }
+   ],
+   "text": "The 1963 Inspector General survey states the programme was authorized by the Director of Central Intelligence in 1953 and run out of the Technical Services Division on a waived-procedure share of its research budget.",
+   "tier": 1,
+   "type": "programmatic"
+  },
+  "e-69e7342db5": {
+   "endpoints": [
+    {
+     "id": "allen-w-dulles",
+     "label": "Allen W. Dulles"
+    },
+    {
+     "id": "robertson-panel",
+     "label": "Robertson Panel"
+    }
+   ],
+   "id": "e-69e7342db5",
+   "kind": "edge",
+   "label": "Forwarded the panel report while saying the subject was not primarily CIA's concern",
+   "sources": [
+    {
+     "date": "1953-03-13",
+     "name": "Allen W. Dulles to the Secretary of Defense, 13 March 1953",
+     "url": "https://archive.org/details/cia-readingroom-document-cia-rdp80b01676r001000160043-9"
+    }
+   ],
+   "text": "The same signed letter that calls the panel's conclusions a matter of potential danger to national security states that the Agency does not consider flying saucer sightings primarily its concern, ten weeks after CIA convened the panel.",
+   "tier": 1,
+   "type": "denial"
+  },
+  "e-6a34d78aeb": {
+   "endpoints": [
+    {
+     "id": "frank-olson-death-1953",
+     "label": "Death of Frank R. Olson, 1953, and the compensation and litigation that followed"
+    },
+    {
+     "id": "mkultra",
+     "label": "Project MKULTRA"
+    }
+   ],
+   "id": "e-6a34d78aeb",
+   "kind": "edge",
+   "label": "The death that made the cryptonym public",
+   "sources": [
+    {
+     "date": "1977-08-03",
+     "name": "Prepared statement of Admiral Stansfield Turner, 3 August 1977",
+     "url": "https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf"
+    }
+   ],
+   "text": "DCI Turner told the Senate in 1977 that the cryptonym MKULTRA became publicly known during the Rockefeller Commission and Church Committee investigations of 1975 when details of the drug-related death of Dr. Frank Olson were publicized.",
+   "tier": 1,
+   "type": "programmatic"
+  },
+  "e-6d5a02a3cd": {
+   "endpoints": [
+    {
+     "id": "allen-w-dulles",
+     "label": "Allen W. Dulles"
+    },
+    {
+     "id": "mkultra",
+     "label": "Project MKULTRA"
+    }
+   ],
+   "id": "e-6d5a02a3cd",
+   "kind": "edge",
+   "label": "Authorized MKULTRA as DCI, 13 April 1953",
+   "sources": [
+    {
+     "date": "1977-08-03",
+     "name": "Report of Inspection of MKULTRA, 26 July 1963, and Project MKULTRA joint hearing, 3 August 1977, Appendix B",
+     "url": "https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf"
+    }
+   ],
+   "text": "The Inspector General's 1963 survey names Dulles as the authorizing Director; the Church Committee text in the 1977 hearing print gives the date as 13 April 1953, and a 1955 subproject invoice certification cites the same memorandum from the DCI to the DD/A.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-7dab5634b4": {
+   "endpoints": [
+    {
+     "id": "charles-p-cabell",
+     "label": "Gen. Charles P. Cabell"
+    },
+    {
+     "id": "cia",
+     "label": "Central Intelligence Agency"
+    }
+   ],
+   "id": "e-7dab5634b4",
+   "kind": "edge",
+   "label": "Deputy Director of Central Intelligence",
+   "sources": [
+    {
+     "date": "2026-09-03",
+     "name": "FRUS 1950-1955, The Intelligence Community, List of Persons",
+     "url": "https://history.state.gov/historicaldocuments/frus1950-55Intel/persons"
+    }
+   ],
+   "text": "FRUS gives 1953 to 1962; the CIA's own chronology gives the resignation as 27 December 1961, effective 31 January 1962.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-7e6b2c74b5": {
+   "endpoints": [
+    {
+     "id": "charles-p-cabell",
+     "label": "Gen. Charles P. Cabell"
+    },
+    {
+     "id": "allen-w-dulles",
+     "label": "Allen W. Dulles"
+    }
+   ],
+   "id": "e-7e6b2c74b5",
+   "kind": "edge",
+   "label": "Served as deputy to the Director of Central Intelligence",
+   "sources": [
+    {
+     "date": "2026-09-03",
+     "name": "FRUS 1950-1955, The Intelligence Community, List of Persons",
+     "url": "https://history.state.gov/historicaldocuments/frus1950-55Intel/persons"
+    }
+   ],
+   "text": "Cabell's DDCI service from 1953 runs alongside the board's Dulles node; the deputy relationship is the office, and no shared action is asserted here.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-7fcf81429f": {
+   "endpoints": [
+    {
+     "id": "project-bluebird",
+     "label": "Project BLUEBIRD"
+    },
+    {
+     "id": "mkultra",
+     "label": "Project MKULTRA"
+    }
+   ],
+   "id": "e-7fcf81429f",
+   "kind": "edge",
+   "label": "The 1950 predecessor of the 1953 programme",
+   "sources": [
+    {
+     "date": "1977-08-03",
+     "name": "Project MKULTRA joint hearing, 3 August 1977, Appendix B",
+     "url": "https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf"
+    }
+   ],
+   "text": "Appendix B of the 1977 print treats BLUEBIRD/ARTICHOKE and MKULTRA as successive sections of one lineage of CIA chemical and biological behavioural work, the first approved in 1950 and the second in April 1953.",
+   "tier": 1,
+   "type": "temporal"
+  },
+  "e-895ded2e05": {
+   "endpoints": [
+    {
+     "id": "walter-bedell-smith",
+     "label": "Walter Bedell Smith"
+    },
+    {
+     "id": "robertson-panel",
+     "label": "Robertson Panel"
+    }
+   ],
+   "id": "e-895ded2e05",
+   "kind": "edge",
+   "label": "Convened at his direction",
+   "sources": [
+    {
+     "date": "1953-03-13",
+     "name": "Allen W. Dulles to the Secretary of Defense, 13 March 1953",
+     "url": "https://archive.org/details/cia-readingroom-document-cia-rdp80b01676r001000160043-9"
+    }
+   ],
+   "text": "All three of Dulles's 13 March 1953 transmittal letters state that the panel 'was convened at the direction of General Smith, following the recommendation of the Intelligence Advisory Committee'.",
+   "tier": 1,
+   "type": "programmatic"
+  },
+  "e-8f94d80b28": {
+   "endpoints": [
+    {
+     "id": "sidney-gottlieb",
+     "label": "Sidney Gottlieb"
+    },
+    {
+     "id": "mkultra",
+     "label": "Project MKULTRA"
+    }
+   ],
+   "id": "e-8f94d80b28",
+   "kind": "edge",
+   "label": "Certified subproject invoices 1955; Chief of TSD at the 1973 destruction",
+   "sources": [
+    {
+     "date": "1955-06-28",
+     "name": "CIA Reading Room 00017441 and the Project MKULTRA joint hearing, 3 August 1977",
+     "url": "https://archive.org/details/cia-readingroom-document-00017441"
+    }
+   ],
+   "text": "His signature is on the Subproject 43 invoice certifications as Chief, TSS/CD in 1955, and the Church Committee text names him as the officer whose verbal order destroyed the programme's records in January 1973.",
+   "tier": 1,
+   "type": "programmatic"
+  },
+  "e-ae3e08795c": {
+   "endpoints": [
+    {
+     "id": "project-bluebird",
+     "label": "Project BLUEBIRD"
+    },
+    {
+     "id": "roscoe-hillenkoetter",
+     "label": "Roscoe H. Hillenkoetter"
+    }
+   ],
+   "id": "e-ae3e08795c",
+   "kind": "edge",
+   "label": "Submitted directly to the DCI, 5 April 1950",
+   "sources": [
+    {
+     "date": "1950-04-05",
+     "name": "Project Bluebird, 5 April 1950, and its National Security Archive catalogue record",
+     "url": "https://nsarchive.gwu.edu/document/32717-document-02-chief-inspection-and-security-staff-us-central-intelligence-agency"
+    }
+   ],
+   "text": "The memorandum is addressed to the Director of Central Intelligence and asks him for approval and allocation of funds outside the Projects Review Committee; Hillenkoetter held that office from May 1947 to October 1950, and the National Security Archive's catalogue record names him as the recipient.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-b1e99a1544": {
+   "endpoints": [
+    {
+     "id": "glenn-t-seaborg",
+     "label": "Glenn T. Seaborg"
+    },
+    {
+     "id": "allen-w-dulles",
+     "label": "Allen W. Dulles"
+    }
+   ],
+   "id": "e-b1e99a1544",
+   "kind": "edge",
+   "label": "Corresponded with the Director of Central Intelligence",
+   "sources": [
+    {
+     "date": "1970-06-01",
+     "name": "CIA Historical Staff Chronology 1946-65, Volume II 1956-65, CIA-RDP85B00803R000200050003-5",
+     "url": "https://archive.org/details/cia-readingroom-document-cia-rdp85b00803r000200050003-5"
+    }
+   ],
+   "text": "Dulles thanks him for a report on a Vienna conference and says he is circulating it inside the Agency. The edge records a documented channel between the AEC chair and the DCI, which is the board's own structural claim in miniature.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-b66096a57c": {
+   "endpoints": [
+    {
+     "id": "gerald-ford",
+     "label": "Gerald R. Ford"
+    },
+    {
+     "id": "frank-olson-death-1953",
+     "label": "Death of Frank R. Olson, 1953, and the compensation and litigation that followed"
+    }
+   ],
+   "id": "e-b66096a57c",
+   "kind": "edge",
+   "label": "Signed Private Law 94-126, 12 October 1976",
+   "sources": [
+    {
+     "date": "1976-10-12",
+     "name": "Statement on Signing the Bill Providing for the Relief of the Survivors of Dr. Frank R. Olson, 12 October 1976",
+     "url": "https://www.presidency.ucsb.edu/documents/statement-signing-the-bill-providing-for-the-relief-the-survivors-dr-frank-r-olson"
+    }
+   ],
+   "text": "Ford signed S. 3035 paying the widow and three children $187,500 each in full settlement, and said his administration had supported $1,250,000 and would support further relief legislation.",
+   "tier": 1,
+   "type": "legislative"
+  },
+  "e-b88f5c566d": {
+   "endpoints": [
+    {
+     "id": "glenn-t-seaborg",
+     "label": "Glenn T. Seaborg"
+    },
+    {
+     "id": "cia",
+     "label": "Central Intelligence Agency"
+    }
+   ],
+   "id": "e-b88f5c566d",
+   "kind": "edge",
+   "label": "Transmitted the Commission's annual report to the Director of Central Intelligence",
+   "sources": [
+    {
+     "date": "1970-06-01",
+     "name": "CIA Historical Staff Chronology 1946-65, Volume II 1956-65, CIA-RDP85B00803R000200050003-5",
+     "url": "https://archive.org/details/cia-readingroom-document-cia-rdp85b00803r000200050003-5"
+    }
+   ],
+   "text": "The 20 March 1963 letter forwards the Annual Report to Congress for 1962 to DCI John A. McCone and directs his attention to the appendix on environmental contamination from nuclear explosives.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-ecbd1ca66a": {
+   "endpoints": [
+    {
+     "id": "john-marks-foia-f-76-374",
+     "label": "John Marks FOIA request F-76-374 and the recovery of the MKULTRA finance file"
+    },
+    {
+     "id": "mkultra",
+     "label": "Project MKULTRA"
+    }
+   ],
+   "id": "e-ecbd1ca66a",
+   "kind": "edge",
+   "label": "The FOIA request that caused the recovery of the surviving MKULTRA file",
+   "sources": [
+    {
+     "date": "1977-06-22",
+     "name": "Memorandum for the DDCI, 22 June 1977",
+     "url": "https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf"
+    }
+   ],
+   "text": "The Office of Technical Service reviewed its MKULTRA holdings for release to Marks and then searched the Retired Records Center, where the subproject finance folders were found.",
+   "tier": 1,
+   "type": "investigative"
+  },
+  "e-f56027ec83": {
+   "endpoints": [
+    {
+     "id": "sidney-gottlieb",
+     "label": "Sidney Gottlieb"
+    },
+    {
+     "id": "cia",
+     "label": "Central Intelligence Agency"
+    }
+   ],
+   "id": "e-f56027ec83",
+   "kind": "edge",
+   "label": "Chief, TSS Chemical Division 1955; Deputy Chief, TSD 1963; Chief, TSD 1973",
+   "sources": [
+    {
+     "date": "1963-07-26",
+     "name": "CIA Reading Room 00017441; Report of Inspection of MKULTRA, 26 July 1963; Project MKULTRA joint hearing, 3 August 1977",
+     "url": "https://nsarchive.gwu.edu/sites/default/files/documents/1963-07-26%20JM%20Box%208%20F2%20MKUltra-IG_Report-ocr.pdf"
+    }
+   ],
+   "text": "Three offices, each taken from a separate opened document rather than from a biography.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-f68c1794c2": {
+   "endpoints": [
+    {
+     "id": "frank-olson-death-1953",
+     "label": "Death of Frank R. Olson, 1953, and the compensation and litigation that followed"
+    },
+    {
+     "id": "sidney-gottlieb",
+     "label": "Sidney Gottlieb"
+    }
+   ],
+   "id": "e-f68c1794c2",
+   "kind": "edge",
+   "label": "Named with Lashbrook as running the experiment",
+   "sources": [
+    {
+     "date": "1977-08-03",
+     "name": "Project MKULTRA joint hearing, 3 August 1977, Appendix B",
+     "url": "https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf"
+    }
+   ],
+   "text": "The Church Committee text reprinted in the 1977 hearing print states the drug was placed in the bottle by Robert Lashbrook as part of an experiment he and Sidney Gottlieb performed at a meeting of Army and CIA scientists.",
+   "tier": 1,
+   "type": "witness-chain"
+  }
+ },
+ "claimed": [
+  {
+   "cite": [
+    "c-72654f73ba",
+    "c-3b363924c7",
+    "c-8dd63537ea",
+    "e-0090ce15ca"
+   ],
+   "text": "Roscoe Hillenkoetter, the first Director of Central Intelligence, said publicly in 1960, in a clipping the CIA itself filed, that the unknown objects were operating under intelligent control, and he asked for a congressional investigation. A second CIA-held clipping records him as a NICAP board member who had referred his conclusions to the Senate Space Committee."
+  },
+  {
+   "cite": [
+    "e-543d0f5e70",
+    "c-43863cbfea"
+   ],
+   "text": "In the 13 November 2024 House hearing, Representative Burlison read reporting of a CIA block into the record and Luis Elizondo said the divestment of material from a contractor was blocked. AARO separately records an interviewee's claim that a former named senior CIA official quashed the proposal to remove the material from the corporation."
+  },
+  {
+   "cite": [
+    "c-b6d6789c8c"
+   ],
+   "text": "George Knapp testified under oath in September 2025 that Robert Bigelow and a colleague negotiated with senior Lockheed Martin executives for unusual material held at a facility in California."
+  },
+  {
+   "cite": [
+    "c-fc23bec8bc",
+    "c-b80bcc7d3e",
+    "c-6416daadcd",
+    "c-95da124da9",
+    "c-f210c05af7",
+    "c-0d0224cc36",
+    "c-796caa2ead"
+   ],
+   "text": "Podcast guests retell these cases with details of their own: Rebecca Lemov describes Gottlieb running MK-Ultra from 1953; Tom O'Neill says Eric Olson has argued his father was thrown from the window, describes John Marks as a State Department whistleblower and Gottlieb as Louis Jolyon West's handler; Jason Jorjani says BLUEBIRD was built by Paperclip psychologists and involved children; UAP Gerb says the Glomar Explorer was leased to Lockheed Martin for twenty years; Matthew Ehret says Cabell launched Blue Book as CIA Deputy Director and was fired by Kennedy."
+  },
+  {
+   "cite": [
+    "c-b76406bf81"
+   ],
+   "text": "The board infers that the CIA's later explanation, that its own U-2 and OXCART flights accounted for many UFO reports, amounts to an admission that it let false natural-phenomena explanations stand."
+  }
+ ],
+ "contested": [
+  {
+   "cite": [
+    "c-9c4271a309",
+    "c-2ea2864dec"
+   ],
+   "text": "The four opened records on the Olson death disagree: a tenth floor or tenth story window, or thirteen stories; 27 or 28 November 1953. The Rockefeller Commission says two CIA employees were reprimanded, while the 2012 complaint says no formal reprimands were issued."
+  },
+  {
+   "cite": [
+    "c-2a32edef24",
+    "c-b80bcc7d3e",
+    "c-67bae85cc3"
+   ],
+   "text": "The official account carried its own qualification: the Rockefeller report footnoted that the few remaining Agency records indicated Olson may have had a history of emotional instability. The murder allegation is the 2012 complaint's, and it was dismissed on timeliness, waiver and sovereign immunity, not on its truth."
+  },
+  {
+   "cite": [
+    "c-0f60717ed8"
+   ],
+   "text": "The records disagree on the scale of MKULTRA: Turner gave 80 institutions from the recovered files, while the hearing's own opening statement says eighty-six universities or institutions were involved."
+  },
+  {
+   "cite": [
+    "c-f210c05af7",
+    "c-fc23bec8bc",
+    "c-6416daadcd",
+    "c-0d0224cc36",
+    "c-1cd423dc70",
+    "c-796caa2ead"
+   ],
+   "text": "The opened records contradict the podcast versions. BLUEBIRD's founding document is dated 1950, is signed inside the CIA, concerns defectors and agents rather than children, and the programme was renamed before MKULTRA existed; no record shows Gottlieb running MKULTRA from 1953; the search for the MKULTRA files was done inside the Agency in response to Marks's request; the AZORIAN history names Lockheed as one of four consortium members with no lease or term, and never mentions any underwater reconnaissance office; Cabell was still in the Air Force when Blue Book began, and resigned rather than being dismissed."
+  },
+  {
+   "cite": [
+    "c-95da124da9"
+   ],
+   "text": "No opened record bears on O'Neill's account of Gottlieb and Louis Jolyon West, and the released Subproject 43 file names no researcher."
+  },
+  {
+   "cite": [
+    "c-d38fd72d69",
+    "c-47c5c94dcc"
+   ],
+   "text": "The records do not show Smith approving a psychological use of the subject: the approval lines on the Psychological Strategy Board recommendation are blank, and his own draft proposed scientific research."
+  },
+  {
+   "cite": [
+    "c-044c9f5722",
+    "c-d59d54959b"
+   ],
+   "text": "Hillenkoetter's claims had contemporary critics and no support in his FBI files. The 1960 Enquirer editorial said it could not agree with him that the Air Force was deceiving the public, and a text search of his FBI files found no mention of NICAP, flying saucers or the year 1960, though the scans are uneven."
+  },
+  {
+   "cite": [
+    "c-ae7352ec1d",
+    "e-1300378a96"
+   ],
+   "text": "The contractor custody claims are denied: AARO states that executives and chief technology officers of the named companies denied the allegations to its Director on the record. Linking the 1978 Lockheed of the AZORIAN history to today's Lockheed Martin is an identification across the 1995 merger that the document does not make."
+  }
+ ],
  "essays": [],
  "focusEra": "0",
  "id": "cia-secrecy-precedents",
  "kind": "institution",
- "lead": null,
- "members": [],
+ "lead": {
+  "cite": [
+   "c-70b2d393c1",
+   "c-42b62fb7d5",
+   "c-4825f978b9"
+  ],
+  "text": "The CIA's own records show it running programmes outside its normal controls and then losing or destroying the paper: MKULTRA was authorised with normal approval, funding and accounting procedures waived, its files were destroyed on a verbal order in January 1973, and what survived was found only because a FOIA request sent Agency staff into the retired records. This topic carries that case, the death of Frank Olson and Project AZORIAN as documented precedents for concealment."
+ },
+ "members": [
+  {
+   "cls": "program",
+   "id": "mkultra",
+   "label": "Project MKULTRA",
+   "role": "programme"
+  },
+  {
+   "cls": "program",
+   "id": "project-bluebird",
+   "label": "Project BLUEBIRD",
+   "role": "programme"
+  },
+  {
+   "cls": "program",
+   "id": "project-azorian",
+   "label": "Project AZORIAN and the Hughes Glomar Explorer",
+   "role": "programme"
+  },
+  {
+   "cls": "event",
+   "id": "frank-olson-death-1953",
+   "label": "Death of Frank R. Olson, 1953, and the compensation and litigation that followed",
+   "role": "event"
+  },
+  {
+   "cls": "person",
+   "id": "sidney-gottlieb",
+   "label": "Sidney Gottlieb",
+   "role": "official"
+  },
+  {
+   "cls": "person",
+   "id": "allen-w-dulles",
+   "label": "Allen W. Dulles",
+   "role": "official"
+  },
+  {
+   "cls": "document",
+   "id": "john-marks-foia-f-76-374",
+   "label": "John Marks FOIA request F-76-374 and the recovery of the MKULTRA finance file",
+   "role": "document"
+  },
+  {
+   "cls": "institution",
+   "id": "cia",
+   "label": "Central Intelligence Agency",
+   "role": "institution"
+  },
+  {
+   "cls": "person",
+   "id": "charles-p-cabell",
+   "label": "Gen. Charles P. Cabell",
+   "role": "official"
+  },
+  {
+   "cls": "person",
+   "id": "glenn-t-seaborg",
+   "label": "Glenn T. Seaborg",
+   "role": "official"
+  },
+  {
+   "cls": "person",
+   "id": "walter-bedell-smith",
+   "label": "Walter Bedell Smith",
+   "role": "official"
+  },
+  {
+   "cls": "person",
+   "id": "gerald-ford",
+   "label": "Gerald R. Ford",
+   "role": "official"
+  },
+  {
+   "cls": "person",
+   "id": "roscoe-hillenkoetter",
+   "label": "Roscoe H. Hillenkoetter",
+   "role": "official"
+  },
+  {
+   "cls": "person",
+   "id": "harry-s-truman",
+   "label": "Harry S. Truman",
+   "role": "official"
+  },
+  {
+   "cls": "program",
+   "id": "robertson-panel",
+   "label": "Robertson Panel",
+   "role": "programme"
+  },
+  {
+   "cls": "institution",
+   "id": "lockheed-martin",
+   "label": "Lockheed Martin Corporation",
+   "role": "contractor"
+  }
+ ],
  "notes": "Appendix T's cold-war-intelligence-context, kept and moved to this section: the documented cases of the CIA hiding programmes and records are the precedent the custody argument leans on. Reaches six members on its own anchors.",
- "questions": [],
- "record": [],
- "related": [],
+ "questions": [
+  "What did the MKULTRA records destroyed in January 1973 contain, and does anything beyond the finance folders survive?",
+  "From which floor, on which day, did Frank Olson die, and were the two reprimands the Rockefeller Commission describes ever issued?",
+  "What does the continuing prohibition on AZORIAN still withhold about its funding and its other contractors?",
+  "Did Walter Bedell Smith ever act on the recommendation to take the subject to the Psychological Strategy Board?",
+  "Who was the former senior CIA official that AARO's interviewee says quashed the removal of material from a contractor, and is there any record of it?",
+  "Did anything Hillenkoetter saw as Director of Central Intelligence lie behind his 1960 statements?"
+ ],
+ "record": [
+  {
+   "cite": [
+    "c-69aee13227",
+    "c-daf55a2bc2",
+    "c-fda70a865b",
+    "e-ae3e08795c"
+   ],
+   "text": "BLUEBIRD's founding memorandum set up interrogation teams of a psychiatrist, a polygraph-hypnotist and a technician to use the polygraph, drugs and hypnotism, with a Washington doctor's office as cover for training and experimentation, on a one-year budget of $65,515. It was addressed to the Director of Central Intelligence, whom the National Security Archive's catalogue identifies as Hillenkoetter."
+  },
+  {
+   "cite": [
+    "c-f499b43fd0"
+   ],
+   "text": "By July 1952 the Security Office was reporting ARTICHOKE's operational use to the Director: suspected Russian double agents interrogated under a psychiatric-medical cover by narcosis and hypnosis, one session followed by a total amnesia produced by post-hypnotic suggestion."
+  },
+  {
+   "cite": [
+    "c-70b2d393c1",
+    "e-5f2049d632"
+   ],
+   "text": "The Inspector General's 1963 survey states MKULTRA's purpose as research and development of chemical, biological and radiological materials to control human behaviour in clandestine operations, records that Dulles authorised it in 1953, and says normal procedures for project approval, funding and accounting were waived."
+  },
+  {
+   "cite": [
+    "c-2a5a1c726c",
+    "c-dc74adecf8",
+    "e-8f94d80b28",
+    "e-f56027ec83"
+   ],
+   "text": "Gottlieb's signature is on the money: as Chief of the Technical Services Staff Chemical Division he certified the invoices of MKULTRA Subproject 43 in March and June 1955. The 1963 Inspector General calls him Deputy Chief of the Technical Services Division, and the 1973 destruction order came from him as its Chief."
+  },
+  {
+   "cite": [
+    "c-dd772efb5c",
+    "c-3d3522d4d5"
+   ],
+   "text": "What survived did so by accident. DCI Stansfield Turner told the Senate in 1977 of seven boxes found at the Retired Records Center, sent there by the Budget and Fiscal Section in 1970 in a departure from normal procedure whose reason was not known, which is how they escaped the 1973 destruction and the 1975 searches. A 1977 CIA memorandum adds that Gottlieb had destroyed every MKULTRA document he could locate."
+  },
+  {
+   "cite": [
+    "c-4825f978b9",
+    "c-1db463ff4c",
+    "c-52cbf91664",
+    "c-d95dfb90d0",
+    "e-ecbd1ca66a"
+   ],
+   "text": "The CIA's own memorandum of 22 June 1977 says the search that found the boxes was made because of John Marks's FOIA request F-76-374, then in litigation, and that the recovered material included the original memorandum setting up MKULTRA over Dulles's signature. It recommended telling the Senate Select Committee before telling Marks's attorneys; the Senate later said one individual, through a FOIA request, accomplished what two Senate committees could not."
+  },
+  {
+   "cite": [
+    "c-0f60717ed8"
+   ],
+   "text": "The recovered finance files cover 149 numbered subprojects. Turner told the committee they named 185 non-government researchers and assistants and 80 institutions, including 44 colleges or universities, 12 hospitals or clinics and 3 penal institutions."
+  },
+  {
+   "cite": [
+    "c-2a32edef24",
+    "c-2ea2864dec",
+    "c-77631bea22",
+    "e-f68c1794c2"
+   ],
+   "text": "The Rockefeller Commission disclosed the Olson death in June 1975 without naming him. It records that the General Counsel ruled the death arose out of an experiment in the course of his official duties, securing death benefits, and that the Director reprimanded two CIA employees. The Church Committee text names Robert Lashbrook and Sidney Gottlieb as running the experiment, and says neither the Chief of the Technical Services Staff nor the Deputy Director for Plans specifically authorised it."
+  },
+  {
+   "cite": [
+    "c-9994754efa",
+    "c-063c937c15",
+    "e-b66096a57c"
+   ],
+   "text": "Private Law 94-126 paid Alice Olson and her three children $187,500 each in full settlement, on condition that all of them waived any rights arising from the death. President Ford signed it on 12 October 1976 and said his administration had supported $1,250,000."
+  },
+  {
+   "cite": [
+    "c-67bae85cc3"
+   ],
+   "text": "The children's 2012 suit, brought in the District of Columbia, was dismissed in 2013 as untimely, waived by the prior settlement and outside the government's waiver of sovereign immunity. The opinion noted that the public record supports many of the allegations, farfetched as they may sound."
+  },
+  {
+   "cite": [
+    "c-80a5d72c03",
+    "c-047e85bc72",
+    "e-2d9df9cd76"
+   ],
+   "text": "AZORIAN's released history records CIA sponsorship for intelligence collection, the participation of Hughes Tool Company, the Summa Corporation and Global Marine, and facts acknowledged in tax, FOIA and patent litigation. It closes with a private consortium including Lockheed, Global Marine, Standard Oil of Indiana and Royal Dutch Shell readying the ship for deep-ocean mining from late 1978."
+  },
+  {
+   "cite": [
+    "c-3ff0406dab",
+    "c-47c5c94dcc",
+    "c-d38fd72d69",
+    "e-55f06b164c"
+   ],
+   "text": "On the flying saucer subject, Smith directed on 20 August 1952 that a National Security Council intelligence directive be prepared, and a draft memorandum over his name proposed a coordinated scientific research effort. The recommendation that he take the subject to the Psychological Strategy Board carries blank approval lines on the released copy."
+  },
+  {
+   "cite": [
+    "c-f32fd55072",
+    "c-44158d9b9a",
+    "c-c9eabdbf9d",
+    "c-d82372d643",
+    "e-05f5b852b7",
+    "e-3710978124"
+   ],
+   "text": "The Robertson Panel was convened by the CIA's Office of Scientific Intelligence and met from 14 to 18 January 1953. It recommended a public education programme with training and debunking aims through mass media, canvassed the Disney organisation and the Navy Special Devices Center, and recommended monitoring civilian UFO groups. The Agency's historian records that any mention of CIA sponsorship of the panel was forbidden."
+  },
+  {
+   "cite": [
+    "c-9433a9eae1",
+    "c-7f61a286bd",
+    "c-812509e640",
+    "c-052ced78a2",
+    "e-69e7342db5",
+    "e-895ded2e05"
+   ],
+   "text": "Dulles's three signed letters of 13 March 1953 sent the panel report to the Secretary of Defense and two civil agencies, said its conclusions pointed to certain potential dangers to national security, said the Agency did not consider the subject primarily its concern, and attributed the panel to General Smith. Each letter is a rewrite of an earlier version that was not sent."
+  },
+  {
+   "cite": [
+    "c-2142c97d03",
+    "c-f20ba3c8fd"
+   ],
+   "text": "The Agency's in-house historian, Gerald K. Haines, published an account of the CIA's role in the study of UFOs from 1947 to 1990 in 1997, and the CIA describes its public UFO collection as mostly foreign-press cables and internal memos on handling public inquiries."
+  },
+  {
+   "cite": [
+    "c-327919feb5",
+    "c-0d4a926e57",
+    "c-d042156617",
+    "c-962303bc69",
+    "e-082272061a"
+   ],
+   "text": "The instruments behind all of this are signed. Truman's directive of 22 January 1946 created the post of Director of Central Intelligence, barred police or internal security functions and made the Director responsible for protecting sources and methods; the National Security Act of 1947 created the Agency under the National Security Council and let it perform such other functions as the Council may direct."
+  },
+  {
+   "cite": [
+    "c-2202d9868f",
+    "c-7722bc7d68",
+    "e-7dab5634b4",
+    "e-7e6b2c74b5"
+   ],
+   "text": "Charles P. Cabell was the Air Force's Director of Intelligence to 1953 and then Deputy Director of Central Intelligence; the CIA's chronology records his resignation on 27 December 1961, effective 31 January 1962."
+  },
+  {
+   "cite": [
+    "c-3c19c768fd",
+    "c-9b1ac16505",
+    "e-b1e99a1544",
+    "e-b88f5c566d"
+   ],
+   "text": "The Agency and the Atomic Energy Commission corresponded at the top: Dulles thanked AEC Chairman Glenn Seaborg in October 1961 for a report he was circulating inside the Agency, and in 1963 Seaborg sent the Commission's annual report to Director John McCone."
+  }
+ ],
+ "related": [
+  "robertson-cia-1953",
+  "foia-litigation",
+  "records-collection",
+  "perception-management",
+  "oversight-before-2017",
+  "black-budget",
+  "nsc-spine",
+  "aawsap-baass",
+  "civilian-groups",
+  "named-contractors",
+  "denial-ledger",
+  "atomic-secrecy"
+ ],
  "section": "secrecy-machinery",
  "span": {
   "from": "1950",
   "to": "1977"
  },
- "status": "draft",
- "summary": [],
+ "status": "verified",
+ "summary": [
+  {
+   "cite": [
+    "c-8a9f50409a",
+    "c-9fc5e532ba",
+    "e-7fcf81429f",
+    "e-6d5a02a3cd"
+   ],
+   "text": "The behavioural programmes began by going round the Agency's own review. Project BLUEBIRD was submitted directly to the Director of Central Intelligence on 5 April 1950 rather than through the Projects Review Committee, with knowledge restricted to the absolute minimum number of persons; it was renamed ARTICHOKE in August 1951, and MKULTRA was authorised by Allen Dulles in April 1953."
+  },
+  {
+   "cite": [
+    "c-2ce75a8a2e",
+    "c-8cd45018d5"
+   ],
+   "text": "MKULTRA kept no records of the planning and approval of its test programmes, according to its own Inspector General, and in January 1973 its files were destroyed on the verbal orders of Sidney Gottlieb, who testified that he was carrying out the verbal order of Director Helms."
+  },
+  {
+   "cite": [
+    "e-6a34d78aeb",
+    "c-77631bea22",
+    "c-9994754efa",
+    "c-67bae85cc3"
+   ],
+   "text": "The death of Frank Olson, dosed with LSD without his knowledge at a 1953 meeting of Army and CIA scientists, is what made the cryptonym public in 1975. Congress compensated his family by private law in 1976, and the family's 2012 suit was dismissed in 2013 without reaching the merits."
+  },
+  {
+   "cite": [
+    "c-47496ed0dc",
+    "c-d7ffce06ef",
+    "c-80a5d72c03",
+    "c-20b405889c"
+   ],
+   "text": "Project AZORIAN shows a different technique: covert recovery of foreign hardware under commercial cover. The Agency's own history says a Soviet submarine lost in March 1968 was brought up on 8 August 1974 in a system built for the mission, and that the facts later acknowledged in court still leave the purpose, success, other participants, technology and funding under continuing prohibition."
+  },
+  {
+   "cite": [
+    "c-3ff0406dab",
+    "c-d82372d643",
+    "c-7f61a286bd"
+   ],
+   "text": "The same Agency handled the flying saucer subject in the same years. Director Walter Bedell Smith directed an intelligence effort in August 1952, the Robertson Panel was convened in January 1953 with any mention of CIA sponsorship forbidden, and Dulles then told three agencies the subject was not primarily the CIA's concern."
+  }
+ ],
  "title": "CIA secrecy precedents: MKULTRA, the Olson death and Azorian"
 }

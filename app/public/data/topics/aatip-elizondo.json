@@ -14,28 +14,2748 @@
   "garry-reid-memo-2017"
  ],
  "appendixT": "aatip-elizondo",
- "cites": {},
- "claimed": [],
- "contested": [],
+ "cites": {
+  "c-0a6dd9aeca": {
+   "id": "c-0a6dd9aeca",
+   "kind": "claim",
+   "node": "christopher-sherwood",
+   "nodeLabel": "Christopher Sherwood",
+   "source": {
+    "domain": null,
+    "text": "Keith Kloor, The Intercept, 1 June 2019",
+    "url": null
+   },
+   "text": "Stated on 1 June 2019: 'Mr. Elizondo had no responsibilities with regard to the AATIP program while he worked in OUSDI, up until the time he resigned effective 10/4/2017.'",
+   "tier": 1
+  },
+  "c-0b3d56decc": {
+   "id": "c-0b3d56decc",
+   "kind": "claim",
+   "node": "garry-reid-memo-2017",
+   "nodeLabel": "Garry Reid memoranda on AATIP and Elizondo, December 2017",
+   "source": {
+    "domain": null,
+    "text": "OSD/JS FOIA 18-F-0324",
+    "url": null
+   },
+   "text": "Answers six questions from the Secretary of Defense's office, including one on the 'uncertain provenance' of Elizondo's second resignation letter.",
+   "tier": 1
+  },
+  "c-0bc442fda9": {
+   "id": "c-0bc442fda9",
+   "kind": "claim",
+   "node": "luis-elizondo",
+   "nodeLabel": "Luis D. Elizondo",
+   "source": {
+    "domain": null,
+    "text": "Luis Elizondo, sworn testimony, House Oversight Committee, 13 November 2024",
+    "url": null
+   },
+   "text": "'There was an aerospace contract company that requested to divest itself of the material... that was collected in the 1950s. Unfortunately, that did not actually occur.'",
+   "tier": 2
+  },
+  "c-0fcad99b04": {
+   "id": "c-0fcad99b04",
+   "kind": "claim",
+   "node": "luis-elizondo",
+   "nodeLabel": "Luis D. Elizondo",
+   "source": {
+    "domain": null,
+    "text": "Elizondo resignation letter dated 3 October 2017, released in OSD/JS FOIA case 18-F-0324 (final response 17 August 2022)",
+    "url": null
+   },
+   "text": "His title at resignation was 'Director, National Programs Special Management Staff' within OUSD(I), and his resignation was effective 4 October 2017.",
+   "tier": 1
+  },
+  "c-12f323a3a9": {
+   "id": "c-12f323a3a9",
+   "kind": "claim",
+   "node": "ousdi-atl-memo-2010",
+   "nodeLabel": "DIA Info Memo to USD(AT&L) on AATIP (U-10-2552CE-IM-ATL)",
+   "source": {
+    "domain": null,
+    "text": "Inference from the memo read against DoD's June 2019 statements",
+    "url": null
+   },
+   "text": "A DIA proposal to transition AATIP out of DIA in December 2010 is consistent with, and materially corroborates, Elizondo's account that the effort continued in OUSD(I) after DIA's contracted work wound down — while DoD's denial addresses only whether he was 'assigned' to it.",
+   "tier": 3
+  },
+  "c-1671cff26a": {
+   "id": "c-1671cff26a",
+   "kind": "claim",
+   "node": "dd-form-1910-2017",
+   "nodeLabel": "DD Form 1910 for GoFast, Gimbal and FLIR video files",
+   "source": {
+    "domain": null,
+    "text": "DD Form 1910 released under FOIA, published by Blue Blurry Lines, 17 August 2019",
+    "url": null
+   },
+   "text": "Submitted by Luis D. Elizondo, Director, National Programs Special Management Staff, OUSD(I), on 9 August 2017 and approved 24 August 2017, covering three .mpg files: GoFast, Gimbal and FLIR.",
+   "tier": 1
+  },
+  "c-186d26209b": {
+   "id": "c-186d26209b",
+   "kind": "claim",
+   "node": "dia-aatip-letter-2018",
+   "nodeLabel": "DIA Letter to the Senate Armed Services Committee Listing AATIP Products",
+   "source": {
+    "domain": null,
+    "text": "DIA letter to SASC, 9 January 2018",
+    "url": null
+   },
+   "text": "DIA wrote to Senators John McCain and Jack Reed on 9 January 2018, over the signature of Brian L. Jenkins, Chief of Records Management and Information Services, enclosing a list of all 38 products produced under AATIP.",
+   "tier": 1
+  },
+  "c-1a5fe01099": {
+   "id": "c-1a5fe01099",
+   "kind": "claim",
+   "node": "elizondo-dodig-complaint-2021",
+   "nodeLabel": "Elizondo complaint to the DoD Inspector General, May 2021",
+   "source": {
+    "domain": null,
+    "text": "The Black Vault DoD IG document archive",
+    "url": null
+   },
+   "text": "FOIA releases include a 103-page DoD IG transcript of Elizondo's February 2023 interview, 126 pages of DoD IG UAP/Elizondo emails released February 2024, and 40 additional pages released March 2025.",
+   "tier": 1
+  },
+  "c-1ead60130d": {
+   "id": "c-1ead60130d",
+   "kind": "claim",
+   "node": "five-observables",
+   "nodeLabel": "The five observables (UAP performance taxonomy)",
+   "source": {
+    "domain": "oversight.house.gov",
+    "text": "Written Testimony of Luis Elizondo, House Committee on Oversight and Accountability, 13 November 2024, https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Elizondo.pdf",
+    "url": "https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Elizondo.pdf"
+   },
+   "text": "Elizondo does not state the five observables in his sworn written testimony. His written statement to the House Committee on Oversight and Accountability for the hearing 'Unidentified Anomalous Phenomena: Exposing the Truth', 13 November 2024, contains none of the words 'observable', 'acceleration', 'trans-medium', 'lift', 'hypersonic', 'signature', 'cloak' or 'AATIP'. The full text was retrieved from oversight.house.gov and is transcribed at research/testimony/elizondo-house-oversight-2024-11-13.txt. This is a searchable negative on the most likely government-record source for the set, and it is why the taxonomy stays at Tier 2 attributed to him rather than moving to the congressional record.",
+   "tier": 1
+  },
+  "c-2308ae3439": {
+   "id": "c-2308ae3439",
+   "kind": "claim",
+   "node": "luis-elizondo",
+   "nodeLabel": "Luis D. Elizondo",
+   "source": {
+    "domain": null,
+    "text": "House Committee on Oversight and Accountability hearing record, 13 November 2024",
+    "url": null
+   },
+   "text": "Elizondo testified as a named witness before the House Oversight Subcommittees on Cybersecurity/IT and National Security on 13 November 2024.",
+   "tier": 1
+  },
+  "c-236f55b68c": {
+   "id": "c-236f55b68c",
+   "kind": "claim",
+   "node": "luis-elizondo",
+   "nodeLabel": "Luis D. Elizondo",
+   "source": {
+    "domain": null,
+    "text": "HHRG-118-GO12 hearing transcript, 13 November 2024",
+    "url": null
+   },
+   "text": "Testified that Imminent went through DOPSR, 'which took a year for it to be reviewed, and what is in the book is what I was told I am allowed to talk about.'",
+   "tier": 2
+  },
+  "c-2653cd6ac6": {
+   "id": "c-2653cd6ac6",
+   "kind": "claim",
+   "node": "susan-gough",
+   "nodeLabel": "Susan Gough",
+   "source": {
+    "domain": null,
+    "text": "Susan Gough to The Black Vault, 13 June 2019",
+    "url": null
+   },
+   "text": "'It makes no change to previous statements. Mr. Elizondo had no assigned responsibilities for AATIP while he was in OUSD(I). DIA administered AATIP, and Elizondo was never assigned to DIA. Elizondo did interact with the DIA office managing the program while the program was still ongoing, but he did not lead it.'",
+   "tier": 1
+  },
+  "c-2e0f6f2253": {
+   "id": "c-2e0f6f2253",
+   "kind": "claim",
+   "node": "five-observables",
+   "nodeLabel": "The five observables (UAP performance taxonomy)",
+   "source": {
+    "domain": "tothestars.media",
+    "text": "'Five Characteristics Unique to UAP's', To The Stars, https://tothestars.media/blogs/press-and-news/five-characteristics-unique-to-uaps, read 28 August 2026",
+    "url": "https://tothestars.media/blogs/press-and-news/five-characteristics-unique-to-uaps,"
+   },
+   "text": "To The Stars, the company Elizondo joined after leaving the Pentagon, publishes the same five under the heading 'Five Characteristics Unique to UAP's', worded: 'Sudden and instantaneous acceleration', 'Hypersonic velocities without signatures', 'Low observability', 'Trans-medium travel' and 'Positive lift'. The page carries no author, no date and no attribution to Elizondo or to AATIP.",
+   "tier": 2
+  },
+  "c-31277f4a05": {
+   "id": "c-31277f4a05",
+   "kind": "claim",
+   "node": "dd-form-1910-2017",
+   "nodeLabel": "DD Form 1910 for GoFast, Gimbal and FLIR video files",
+   "source": {
+    "domain": null,
+    "text": "DD Form 1910, FOIA release",
+    "url": null
+   },
+   "text": "States the purpose as 'Not for publication. Research and analysis ONLY and info sharing with other USG and industry partners for the purposes of developing a database to help identify, analyze, and ultimately defeat UAS threats.'",
+   "tier": 1
+  },
+  "c-3238c01deb": {
+   "id": "c-3238c01deb",
+   "kind": "claim",
+   "node": "luis-elizondo",
+   "nodeLabel": "Luis D. Elizondo",
+   "source": {
+    "domain": null,
+    "text": "OSD FOIA release 21-F-0938, DoD FOIA Reading Room, Public Affairs",
+    "url": null
+   },
+   "text": "He wrote to Pentagon spokesperson Susan Gough on 3 June 2020: 'The truth, as everyone involved in the program knows, is that I ran the program.'",
+   "tier": 1
+  },
+  "c-363065f09a": {
+   "id": "c-363065f09a",
+   "kind": "claim",
+   "node": "five-observables",
+   "nodeLabel": "The five observables (UAP performance taxonomy)",
+   "source": {
+    "domain": null,
+    "text": "History, 20 May 2019, compared against the To The Stars page, both read 28 August 2026",
+    "url": null
+   },
+   "text": "The list has no fixed text, which matters before anyone quotes it as a definition. The first observable appears as 'Anti-gravity lift' in the History account and as 'Positive lift' on To The Stars, and is elsewhere given as 'positive lift without flight surfaces'. The two published sources located for this board therefore differ on the wording of one of the five and on whether cloaking is named alongside low observability. No canonical text has been located.",
+   "tier": 2
+  },
+  "c-3a5c080b8c": {
+   "id": "c-3a5c080b8c",
+   "kind": "claim",
+   "node": "imminent-book",
+   "nodeLabel": "Imminent: Inside the Pentagon's Hunt for UFOs",
+   "source": {
+    "domain": null,
+    "text": "HHRG-118-GO12 hearing transcript, 13 November 2024",
+    "url": null
+   },
+   "text": "Cleared through the Defense Office of Prepublication and Security Review over approximately one year, per Elizondo's sworn testimony: 'what is in the book is what I was told I am allowed to talk about.'",
+   "tier": 2
+  },
+  "c-4286818359": {
+   "id": "c-4286818359",
+   "kind": "claim",
+   "node": "neill-tipton",
+   "nodeLabel": "Neill Tipton",
+   "source": {
+    "domain": null,
+    "text": "DoD emails released under FOIA, published by The Black Vault",
+    "url": null
+   },
+   "text": "Wrote on 7 May 2019: 'Elizondo had no assigned responsibilities for this program... At the time he was assigned to me, he brought with him no responsibilities for AATIP.'",
+   "tier": 1
+  },
+  "c-4522a28213": {
+   "id": "c-4522a28213",
+   "kind": "claim",
+   "node": "christopher-sherwood",
+   "nodeLabel": "Christopher Sherwood",
+   "source": {
+    "domain": null,
+    "text": "Christopher Sherwood to the New York Post, 22 May 2019",
+    "url": null
+   },
+   "text": "Stated on 22 May 2019 that AATIP 'did pursue research and investigation into unidentified aerial phenomena'.",
+   "tier": 1
+  },
+  "c-453e249c75": {
+   "id": "c-453e249c75",
+   "kind": "claim",
+   "node": "garry-reid",
+   "nodeLabel": "Garry P. Reid",
+   "source": {
+    "domain": null,
+    "text": "The Debrief, 'Sex, Lies, and UFOs: Pentagon's Head of Counterintelligence and Security Ousted'",
+    "url": null
+   },
+   "text": "Defense officials told The Debrief that Reid 'played a central role in obfuscating information' about UAP and deliberately misled the public about Elizondo's program involvement.",
+   "tier": 2
+  },
+  "c-4aa992e258": {
+   "id": "c-4aa992e258",
+   "kind": "claim",
+   "node": "elizondo-resignation-letter-2",
+   "nodeLabel": "Elizondo Resignation Memorandum for Record, 4 October 2017",
+   "source": {
+    "domain": null,
+    "text": "OSD/JS FOIA 18-F-0324",
+    "url": null
+   },
+   "text": "Contains the passage: 'Despite overwhelming evidence at both the unclassified and classified levels, certain individuals in the Department remain staunchly opposed to further research on what could be tactical threats.'",
+   "tier": 1
+  },
+  "c-4ce7c4da4b": {
+   "id": "c-4ce7c4da4b",
+   "kind": "claim",
+   "node": "luis-elizondo",
+   "nodeLabel": "Luis D. Elizondo",
+   "source": {
+    "domain": "en.wikipedia.org",
+    "text": "https://en.wikipedia.org/wiki/Luis_Elizondo",
+    "url": "https://en.wikipedia.org/wiki/Luis_Elizondo"
+   },
+   "text": "At a May 2025 UAP Disclosure Fund hearing Elizondo presented an image he described as a disc-shaped object 600-1,000 feet in diameter; analysts including Mick West identified it as an irrigation circle.",
+   "tier": 2
+  },
+  "c-549434bcb0": {
+   "id": "c-549434bcb0",
+   "kind": "claim",
+   "node": "neill-tipton",
+   "nodeLabel": "Neill Tipton",
+   "source": {
+    "domain": null,
+    "text": "DoD emails released under FOIA, published by The Black Vault",
+    "url": null
+   },
+   "text": "The same email chain contains an official warning that 'the Department may be putting itself in an awkward position of both contradicting previous statements' and a directive that 'we will have to keep our messages in synch.'",
+   "tier": 1
+  },
+  "c-5df4646487": {
+   "id": "c-5df4646487",
+   "kind": "claim",
+   "node": "elizondo-resignation-letter-2",
+   "nodeLabel": "Elizondo Resignation Memorandum for Record, 4 October 2017",
+   "source": {
+    "domain": null,
+    "text": "OSD/JS FOIA 18-F-0324",
+    "url": null
+   },
+   "text": "Contains: 'The Department must take seriously the many accounts by the Navy and other services of unusual aerial systems interfering with military weapon platforms and displaying beyond next generation capabilities.'",
+   "tier": 1
+  },
+  "c-5f4ef78c47": {
+   "id": "c-5f4ef78c47",
+   "kind": "claim",
+   "node": "luis-elizondo",
+   "nodeLabel": "Luis D. Elizondo",
+   "source": {
+    "domain": null,
+    "text": "Sean Kirkpatrick, Scientific American, 19 January 2024",
+    "url": null
+   },
+   "text": "Kirkpatrick publicly attributed the modern crash-retrieval narrative to AATIP and Robert Bigelow's circle, an argument that targets Elizondo's account without engaging it as testimony.",
+   "tier": 2
+  },
+  "c-5f9a42cc0a": {
+   "id": "c-5f9a42cc0a",
+   "kind": "claim",
+   "node": "ousdi-atl-memo-2010",
+   "nodeLabel": "DIA Info Memo to USD(AT&L) on AATIP (U-10-2552CE-IM-ATL)",
+   "source": {
+    "domain": null,
+    "text": "DIA memo U-10-2552CE-IM-ATL",
+    "url": null
+   },
+   "text": "The memorandum is addressed to the Under Secretary of Defense for Acquisition, Technology and Logistics and uses only the AATIP designation.",
+   "tier": 1
+  },
+  "c-611eb79ba5": {
+   "id": "c-611eb79ba5",
+   "kind": "claim",
+   "node": "luis-elizondo",
+   "nodeLabel": "Luis D. Elizondo",
+   "source": {
+    "domain": null,
+    "text": "Elizondo statements to the New York Times, 16 December 2017, and subsequently",
+    "url": null
+   },
+   "text": "Elizondo states he ran AATIP out of OUSD(I) from approximately 2010 until his resignation in October 2017.",
+   "tier": 2
+  },
+  "c-61960ca93c": {
+   "id": "c-61960ca93c",
+   "kind": "claim",
+   "node": "garry-reid",
+   "nodeLabel": "Garry P. Reid",
+   "source": {
+    "domain": null,
+    "text": "OSD/JS FOIA 18-F-0324",
+    "url": null
+   },
+   "text": "His memorandum answered six questions from the Secretary of Defense's office covering the abruptness of the resignation, the 'uncertain provenance' of the second resignation letter, Elizondo's claim of secretly working for the Secretary, video handling, and the TTSA press conference.",
+   "tier": 1
+  },
+  "c-6d55f7eea7": {
+   "id": "c-6d55f7eea7",
+   "kind": "claim",
+   "node": "elizondo-dodig-complaint-2021",
+   "nodeLabel": "Elizondo complaint to the DoD Inspector General, May 2021",
+   "source": {
+    "domain": null,
+    "text": "The Black Vault document archive of the Elizondo DoD IG complaint",
+    "url": null
+   },
+   "text": "Filed May 2021 alleging 'malicious activities, coordinated disinformation, professional misconduct, whistleblower reprisal and explicit threats', naming Garry Reid, Susan Gough and Neill Tipton.",
+   "tier": 2
+  },
+  "c-6f6a03a0e0": {
+   "id": "c-6f6a03a0e0",
+   "kind": "claim",
+   "node": "garry-reid-memo-2017",
+   "nodeLabel": "Garry Reid memoranda on AATIP and Elizondo, December 2017",
+   "source": {
+    "domain": null,
+    "text": "OSD/JS FOIA 18-F-0324",
+    "url": null
+   },
+   "text": "States that Elizondo 'aggrandized his role' and that 'to the best of [Reid's] knowledge, [Elizondo] had no job responsibilities related to the AATIP.'",
+   "tier": 1
+  },
+  "c-704becfaad": {
+   "id": "c-704becfaad",
+   "kind": "claim",
+   "node": "garry-reid",
+   "nodeLabel": "Garry P. Reid",
+   "source": {
+    "domain": null,
+    "text": "OSD/JS FOIA 18-F-0324, released 17 August 2022",
+    "url": null
+   },
+   "text": "Wrote memoranda in December 2017 asserting Elizondo served as an action officer from 2008 to 2017 with no documented AATIP responsibilities, that AATIP terminated in 2012, and that Elizondo 'aggrandized his role'.",
+   "tier": 1
+  },
+  "c-760a39cac1": {
+   "id": "c-760a39cac1",
+   "kind": "claim",
+   "node": "luis-elizondo",
+   "nodeLabel": "Luis D. Elizondo",
+   "source": {
+    "domain": null,
+    "text": "Christopher Sharp, Liberation Times, 13 January 2026, citing Elizondo's written testimony to Congress",
+    "url": null
+   },
+   "text": "Elizondo alleged in written congressional testimony that NAS Patuxent River was among the sites prepared in connection with the Lockheed Martin - Bigelow Aerospace transfer, including a hangar designed to move material by air and by river.",
+   "tier": 2
+  },
+  "c-7af2f880bd": {
+   "id": "c-7af2f880bd",
+   "kind": "claim",
+   "node": "ousdi-atl-memo-2010",
+   "nodeLabel": "DIA Info Memo to USD(AT&L) on AATIP (U-10-2552CE-IM-ATL)",
+   "source": {
+    "domain": null,
+    "text": "DIA memo U-10-2552CE-IM-ATL, circa December 2010",
+    "url": null
+   },
+   "text": "DIA reported AATIP reports 'were of limited value to DIA' but 'could be of merit to other organizations' and that 'the project could be transitioned to another agency or component better suited'.",
+   "tier": 1
+  },
+  "c-7e67183956": {
+   "id": "c-7e67183956",
+   "kind": "claim",
+   "node": "five-observables",
+   "nodeLabel": "The five observables (UAP performance taxonomy)",
+   "source": {
+    "domain": "www.navair.navy.mil",
+    "text": "NAVAIR FOIA release 2021-003244, 'PAX 205 - INERTIAL MASS REDUCTION DEVICE', slides 4-5, https://www.navair.navy.mil/foia/sites/g/files/jejdrs566/files/document/%5Bfilename%5D/2021-003244%20FINAL%20VERSION%20PAX%20205%20-%20INERTIAL%20MASS%20REDUCTION%20DEVICE.pdf",
+    "url": "https://www.navair.navy.mil/foia/sites/g/files/jejdrs566/files/document/%5Bfilename%5D/2021-003244%20FINAL%20VERSION%20PAX%20205%20-%20INERTIAL%20MASS%20REDUCTION%20DEVICE.pdf"
+   },
+   "text": "Four of the five are itemised as design goals in a United States Navy invention-disclosure briefing released under FOIA. The PAX 205 briefing describes a 'hybrid aerospace / undersea craft (HAUC)' that 'would move with great ease through the air / space / water mediums' (trans-medium travel), enclosed in a 'Vacuum plasma bubble/sheath' giving extreme speed without skin friction (hypersonic velocity), with non-linear scattering of radio frequency and sonar signals (low observability), by means of an inertial mass reduction device (lift without flight surfaces). This is the whole reason the taxonomy is on this board.",
+   "tier": 1
+  },
+  "c-82e9a28dc8": {
+   "id": "c-82e9a28dc8",
+   "kind": "claim",
+   "node": "dia-aatip-letter-2018",
+   "nodeLabel": "DIA Letter to the Senate Armed Services Committee Listing AATIP Products",
+   "source": {
+    "domain": null,
+    "text": "DIA letter to SASC, 9 January 2018",
+    "url": null
+   },
+   "text": "'The purpose of AATIP was to investigate foreign advanced aerospace weapon threats from the present out to the next 40 years.'",
+   "tier": 1
+  },
+  "c-8396bdf916": {
+   "id": "c-8396bdf916",
+   "kind": "claim",
+   "node": "imminent-book",
+   "nodeLabel": "Imminent: Inside the Pentagon's Hunt for UFOs",
+   "source": {
+    "domain": null,
+    "text": "Inference from the nature of DOPSR review and the Department's post-publication response",
+    "url": null
+   },
+   "text": "A DOPSR clearance is not an endorsement of accuracy, but it is an affirmative Departmental decision that these specific assertions are not classified. Either the assertions are false, or they are true and unclassified — and the Department has never explained which.",
+   "tier": 3
+  },
+  "c-8aa8c689a8": {
+   "id": "c-8aa8c689a8",
+   "kind": "claim",
+   "node": "five-observables",
+   "nodeLabel": "The five observables (UAP performance taxonomy)",
+   "source": {
+    "domain": null,
+    "text": "Stated inference from the dates of the PAX 205 briefing and the earliest located publication of the observables",
+    "url": null
+   },
+   "text": "The mapping is better read as convergence on a shared description than as evidence that either side knew of the other. Pais filed from NAWCAD between 2015 and 2018 and the observables were published from 2019, so the briefing predates the published list; both are drawn from the same body of reported Navy encounters, and a designer asked to build to those reports would arrive at broadly these goals. What the mapping does establish, without inference, is that a Navy technical organisation wrote four of the five down as things it wanted to build.",
+   "tier": 3
+  },
+  "c-8cb31106c6": {
+   "id": "c-8cb31106c6",
+   "kind": "claim",
+   "node": "elizondo-resignation-letter-1",
+   "nodeLabel": "Elizondo Resignation Letter #1, 3 October 2017",
+   "source": {
+    "domain": null,
+    "text": "OSD/JS FOIA 18-F-0324, final response 17 August 2022",
+    "url": null
+   },
+   "text": "Reads in part: 'Effective 4 October 2017, I humbly submit my resignation as Director, National Programs Special Management Staff... I respectfully request I receive a deferred retirement.'",
+   "tier": 1
+  },
+  "c-8e9f31d0a2": {
+   "id": "c-8e9f31d0a2",
+   "kind": "claim",
+   "node": "aatip",
+   "nodeLabel": "Advanced Aerospace Threat Identification Program (AATIP / AAITP)",
+   "source": {
+    "domain": "www.aaro.mil",
+    "text": "https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf",
+    "url": "https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf"
+   },
+   "text": "AARO's formulation is the load-bearing denial artifact: it concedes an actual DoD community of interest researching military UAP sightings, then denies it program status on a naming technicality. DIA's own 2009 correspondence uses 'AAITP' and 'AAWSAP' interchangeably for the same contract, so the 'never an official DoD program' line depends entirely on which of the two names is treated as canonical.",
+   "tier": 3
+  },
+  "c-91b6e963c3": {
+   "id": "c-91b6e963c3",
+   "kind": "claim",
+   "node": "luis-elizondo",
+   "nodeLabel": "Luis D. Elizondo",
+   "source": {
+    "domain": null,
+    "text": "CHRG-118hhrg57440, exchange with Rep. Nancy Mace, 13 November 2024",
+    "url": null
+   },
+   "text": "Asked whether material is distributed to contractors by domain expertise: 'Yes, ma'am, absolutely correct. Different contractors have different levels of expertise.'",
+   "tier": 2
+  },
+  "c-93c68cda9e": {
+   "id": "c-93c68cda9e",
+   "kind": "claim",
+   "node": "luis-elizondo",
+   "nodeLabel": "Luis D. Elizondo",
+   "source": {
+    "domain": null,
+    "text": "CHRG-118hhrg57440, 13 November 2024",
+    "url": null
+   },
+   "text": "On the reported Lockheed Martin - Bigelow Aerospace transfer blocked by CIA: 'What I can say is that it was blocked... I was part of some conversations later on with some of those contract personnel where they had told all of us that is accurate. What we required was a memo from the Secretary of the Air Force in order to make that complete, and that never occurred.'",
+   "tier": 2
+  },
+  "c-961ee028e3": {
+   "id": "c-961ee028e3",
+   "kind": "claim",
+   "node": "harry-reid",
+   "nodeLabel": "Harry M. Reid",
+   "source": {
+    "domain": "www.dia.mil",
+    "text": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237659/",
+    "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237659/"
+   },
+   "text": "Signed the 24 June 2009 letter to Deputy Secretary of Defense William J. Lynn III, on Senate Majority Leader letterhead, requesting DoD place the AAITP under 'Restricted Special Access Protection'.",
+   "tier": 1
+  },
+  "c-a8f93a1a77": {
+   "id": "c-a8f93a1a77",
+   "kind": "claim",
+   "node": "aatip",
+   "nodeLabel": "Advanced Aerospace Threat Identification Program (AATIP / AAITP)",
+   "source": {
+    "domain": "www.dia.mil",
+    "text": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237628/",
+    "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237628/"
+   },
+   "text": "DIA Read Ahead for the 19 Nov 2009 meeting states the DIA position: 'the content of the deliverables from the Advanced Aerospace Weapon System Application Program contract, referred to by Senator Reid as the AATIP, for FY09 and those expected in FY10, do not meet the criteria as specified in DoD 5200.1-R to justify the additional protection provided by a SAP.'",
+   "tier": 1
+  },
+  "c-ad2e15fa12": {
+   "id": "c-ad2e15fa12",
+   "kind": "claim",
+   "node": "garry-reid",
+   "nodeLabel": "Garry P. Reid",
+   "source": {
+    "domain": null,
+    "text": "The Debrief, reporting on DoD IG findings",
+    "url": null
+   },
+   "text": "DoD IG investigations found he violated the Joint Ethics Regulation through a relationship creating a 'widespread perception of an inappropriate relationship and favoritism', used personal email for official business 65 times, and engaged in unwelcome physical contact with female subordinates; he was removed by April 2022.",
+   "tier": 1
+  },
+  "c-af485448ba": {
+   "id": "c-af485448ba",
+   "kind": "claim",
+   "node": "aatip",
+   "nodeLabel": "Advanced Aerospace Threat Identification Program (AATIP / AAITP)",
+   "source": {
+    "domain": null,
+    "text": "AARO Historical Record Report Volume 1, DOPSR-2024-0263, 8 March 2024",
+    "url": null
+   },
+   "text": "AARO's March 2024 Historical Record Report Volume 1 identifies 2009 as the standup year for AAWSAP and AATIP and states that 'none of the programs mentioned by interviewees are UAP reverse-engineering programs.'",
+   "tier": 1
+  },
+  "c-b23ee1cc0d": {
+   "id": "c-b23ee1cc0d",
+   "kind": "claim",
+   "node": "aatip",
+   "nodeLabel": "Advanced Aerospace Threat Identification Program (AATIP / AAITP)",
+   "source": {
+    "domain": null,
+    "text": "Packet presented to DEPSECDEF, 17 November 2009",
+    "url": null
+   },
+   "text": "A single DoD packet records three names for the same effort: official title AAWSAP, Senator Reid's usage AAITP (Advanced Aerospace Threat and Identification Program), and unclassified nickname AATIP.",
+   "tier": 1
+  },
+  "c-c3ca30c18b": {
+   "id": "c-c3ca30c18b",
+   "kind": "claim",
+   "node": "elizondo-dodig-complaint-2021",
+   "nodeLabel": "Elizondo complaint to the DoD Inspector General, May 2021",
+   "source": {
+    "domain": null,
+    "text": "The Debrief, April 2022",
+    "url": null
+   },
+   "text": "Elizondo alleged Reid threatened to damage his security clearance and blocked his access to Pentagon facilities.",
+   "tier": 2
+  },
+  "c-c423d0fc5d": {
+   "id": "c-c423d0fc5d",
+   "kind": "claim",
+   "node": "aatip",
+   "nodeLabel": "Advanced Aerospace Threat Identification Program (AATIP / AAITP)",
+   "source": {
+    "domain": "www.aaro.mil",
+    "text": "https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf",
+    "url": "https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf"
+   },
+   "text": "AARO Vol. I records that AAWSAP 'was also known [as] AATIP' and that DIA cancelled the program in 2012; supporters then proposed a follow-on program, KONA BLUE, to DHS, which DHS rejected.",
+   "tier": 1
+  },
+  "c-c4b78fa8b1": {
+   "id": "c-c4b78fa8b1",
+   "kind": "claim",
+   "node": "aatip",
+   "nodeLabel": "Advanced Aerospace Threat Identification Program (AATIP / AAITP)",
+   "source": {
+    "domain": null,
+    "text": "New York Times, 16 December 2017, quoting Pentagon spokesman Thomas Crosson",
+    "url": null
+   },
+   "text": "Existed and was terminated in 2012 on the Department's own account, with roughly $22 million appropriated from late 2008 through 2011 and most of it going to Bigelow Aerospace.",
+   "tier": 1
+  },
+  "c-c7c86ef93e": {
+   "id": "c-c7c86ef93e",
+   "kind": "claim",
+   "node": "luis-elizondo",
+   "nodeLabel": "Luis D. Elizondo",
+   "source": {
+    "domain": null,
+    "text": "Christopher Sherwood, Pentagon spokesperson, 1 June 2019",
+    "url": null
+   },
+   "text": "DoD's public position is that 'Mr. Elizondo had no responsibilities with regard to the AATIP program while he worked in OUSDI, up until the time he resigned effective 10/4/2017.'",
+   "tier": 1
+  },
+  "c-c98ac5e49b": {
+   "id": "c-c98ac5e49b",
+   "kind": "claim",
+   "node": "dopsr",
+   "nodeLabel": "Defense Office of Prepublication and Security Review",
+   "source": {
+    "domain": null,
+    "text": "Joseph Gradisher, U.S. Navy, via The Black Vault",
+    "url": null
+   },
+   "text": "The Navy stated in September 2019 that 'neither the cognizant Navy offices nor DOPSR have record of any correspondence responding to a request for unrestricted release of the subject videos in 2017.'",
+   "tier": 1
+  },
+  "c-d065f90598": {
+   "id": "c-d065f90598",
+   "kind": "claim",
+   "node": "garry-reid-memo-2017",
+   "nodeLabel": "Garry Reid memoranda on AATIP and Elizondo, December 2017",
+   "source": {
+    "domain": null,
+    "text": "OSD/JS FOIA 18-F-0324, as analysed by The Black Vault",
+    "url": null
+   },
+   "text": "Records that Elizondo sought assistance in August 2017 to get the videos declassified, that AFOSI examined possible mishandling of classified material, and that AFOSI concluded the videos were unclassified.",
+   "tier": 1
+  },
+  "c-d11b56fd97": {
+   "id": "c-d11b56fd97",
+   "kind": "claim",
+   "node": "aatip",
+   "nodeLabel": "Advanced Aerospace Threat Identification Program (AATIP / AAITP)",
+   "source": {
+    "domain": null,
+    "text": "Reid memorandum, authenticated by Susan Gough on 13 June 2019; New York Times, 16 December 2017",
+    "url": null
+   },
+   "text": "Senator Harry Reid sought Special Access Program status for it in a 24 July 2009 memorandum to Deputy Secretary of Defense William Lynn III; the request was denied.",
+   "tier": 1
+  },
+  "c-dd0cf33dd6": {
+   "id": "c-dd0cf33dd6",
+   "kind": "claim",
+   "node": "ttsa",
+   "nodeLabel": "To The Stars Academy of Arts & Science Inc. (later To The Stars Inc.)",
+   "source": {
+    "domain": null,
+    "text": "SEC EDGAR, TTSA Form 1-K Part II, CIK 1710274, filed April 2018",
+    "url": null
+   },
+   "text": "Delaware public benefit corporation, Commission File Number 024-10728, IRS EIN 82-0601064, with DeLonge, Semivan and Puthoff as directors and Elizondo and Justice as significant employees.",
+   "tier": 1
+  },
+  "c-dd203b1035": {
+   "id": "c-dd203b1035",
+   "kind": "claim",
+   "node": "five-observables",
+   "nodeLabel": "The five observables (UAP performance taxonomy)",
+   "source": {
+    "domain": null,
+    "text": "NAVAIR FOIA release 2021-003244, PAX 205 briefing, slides 4-5, read against the five as published",
+    "url": null
+   },
+   "text": "The fifth observable, sudden and instantaneous acceleration, is NOT itemised as a design goal in the PAX 205 briefing. The briefing speaks of operating the device 'under rapid acceleration transients' as a means of generating the field, which is a statement about how the machine is driven rather than a claimed flight characteristic of the craft. Recorded because four out of five is the accurate figure and five would be the easy overclaim.",
+   "tier": 1
+  },
+  "c-e892d42c88": {
+   "id": "c-e892d42c88",
+   "kind": "claim",
+   "node": "aatip",
+   "nodeLabel": "Advanced Aerospace Threat Identification Program (AATIP / AAITP)",
+   "source": {
+    "domain": "www.aaro.mil",
+    "text": "https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf",
+    "url": "https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf"
+   },
+   "text": "AARO Historical Record Report Vol. I states: 'Unlike AAWSAP, AATIP was never an official DoD program. However, after AAWSAP was cancelled, the AATIP moniker was used by some individuals associated with an informal, unofficial UAP community of interest within DoD that researched UAP sightings from military observers as part of their ancillary job duties.'",
+   "tier": 1
+  },
+  "c-e8fdd26e9b": {
+   "id": "c-e8fdd26e9b",
+   "kind": "claim",
+   "node": "luis-elizondo",
+   "nodeLabel": "Luis D. Elizondo",
+   "source": {
+    "domain": null,
+    "text": "Keith Kloor, 'UFOs Won't Go Away', Issues in Science and Technology, Spring 2019",
+    "url": null
+   },
+   "text": "His 2016 annual performance evaluation rated him 'exemplary'; his supervisor wrote that it 'cannot be overstated the importance of Mr. Elizondo's portfolio to national security,' and credited him with identifying and neutralising six insider threats.",
+   "tier": 2
+  },
+  "c-ef578c7294": {
+   "id": "c-ef578c7294",
+   "kind": "claim",
+   "node": "aatip",
+   "nodeLabel": "Advanced Aerospace Threat Identification Program (AATIP / AAITP)",
+   "source": {
+    "domain": "www.dia.mil",
+    "text": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237611/",
+    "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237611/"
+   },
+   "text": "DIA Info Memo U-09-2660 (13 Nov 2009) frames the two names as the same thing: it evaluates 'a request from Senator Harry Reid (enclosure 1) to establish a restricted special access program (SAP) for the Advanced Aerospace Weapon System Application Program Contract, referred to in Senator Reid's letter as the Advanced Aerospace Threat and Identification Program (AAITP).'",
+   "tier": 1
+  },
+  "c-efb3d4f85f": {
+   "id": "c-efb3d4f85f",
+   "kind": "claim",
+   "node": "neill-tipton",
+   "nodeLabel": "Neill Tipton",
+   "source": {
+    "domain": null,
+    "text": "The Black Vault, 'New Emails Reveal Pentagon Effort to Align Messaging on AATIP and Luis Elizondo'",
+    "url": null
+   },
+   "text": "September 2017 emails show Elizondo drafting a memorandum to help Tipton 'assume the new responsibilities for AATIP' — five years after the Department says AATIP ended.",
+   "tier": 2
+  },
+  "c-f32eab81cf": {
+   "id": "c-f32eab81cf",
+   "kind": "claim",
+   "node": "imminent-book",
+   "nodeLabel": "Imminent: Inside the Pentagon's Hunt for UFOs",
+   "source": {
+    "domain": null,
+    "text": "Wikipedia, Luis Elizondo, citing publisher and contemporaneous reviews",
+    "url": null
+   },
+   "text": "Published August 2024 and debuted at number one on the New York Times bestseller list; claims include recovery of non-human bodies and a decades-long secret retrieval programme.",
+   "tier": 2
+  },
+  "c-f38a8a8dcb": {
+   "id": "c-f38a8a8dcb",
+   "kind": "claim",
+   "node": "luis-elizondo",
+   "nodeLabel": "Luis D. Elizondo",
+   "source": {
+    "domain": null,
+    "text": "Susan Gough, DoD spokesperson, to The Black Vault, 13 June 2019",
+    "url": null
+   },
+   "text": "'It makes no change to previous statements. Mr. Elizondo had no assigned responsibilities for AATIP while he was in OUSD(I). DIA administered AATIP, and Elizondo was never assigned to DIA. Elizondo did interact with the DIA office managing the program while the program was still ongoing, but he did not lead it.'",
+   "tier": 1
+  },
+  "c-fafdfa9627": {
+   "id": "c-fafdfa9627",
+   "kind": "claim",
+   "node": "elizondo-resignation-letter-2",
+   "nodeLabel": "Elizondo Resignation Memorandum for Record, 4 October 2017",
+   "source": {
+    "domain": null,
+    "text": "Helene Cooper, Ralph Blumenthal, Leslie Kean, New York Times, 16 December 2017",
+    "url": null
+   },
+   "text": "Reported by the New York Times as addressed to Defense Secretary Jim Mattis and as asking 'Why aren't we spending more time and effort on this issue?'",
+   "tier": 2
+  },
+  "c-fb4881957e": {
+   "id": "c-fb4881957e",
+   "kind": "claim",
+   "node": "ousdi-atl-memo-2010",
+   "nodeLabel": "DIA Info Memo to USD(AT&L) on AATIP (U-10-2552CE-IM-ATL)",
+   "source": {
+    "domain": null,
+    "text": "DIA FOIA-00255-2022 release",
+    "url": null
+   },
+   "text": "A four-page version was released under FOIA-00255-2022 bearing the date 1 December 2010.",
+   "tier": 1
+  },
+  "c-fba61217b0": {
+   "id": "c-fba61217b0",
+   "kind": "claim",
+   "node": "five-observables",
+   "nodeLabel": "The five observables (UAP performance taxonomy)",
+   "source": {
+    "domain": "www.history.com",
+    "text": "Greg Daugherty and Missy Sullivan, 'These 5 UFO Traits, Captured on Video by Navy Fighters, Defy Explanation', History, 20 May 2019, updated 28 May 2025, https://www.history.com/articles/ufo-sightings-speed-appearance-movement",
+    "url": "https://www.history.com/articles/ufo-sightings-speed-appearance-movement"
+   },
+   "text": "The five observables are attributed to Luis Elizondo, who compiled them while running the Defense Department's Advanced Aerospace Threat Identification Program. As listed in History's account of the Navy videos, they are: 'Anti-gravity lift', 'Sudden and instantaneous acceleration', 'Hypersonic velocities without signatures', 'Low observability, or cloaking', and 'Trans-medium travel'. The article says he 'compiled a list of extraordinary, logic-defying capabilities most commonly associated with unidentified aerial phenomena sightings' and 'calls those traits the \"five observables\"'.",
+   "tier": 2
+  },
+  "c-fcc543fc47": {
+   "id": "c-fcc543fc47",
+   "kind": "claim",
+   "node": "luis-elizondo",
+   "nodeLabel": "Luis D. Elizondo",
+   "source": {
+    "domain": null,
+    "text": "HHRG-118-GO12 hearing transcript, 13 November 2024",
+    "url": null
+   },
+   "text": "Testified under oath on 13 November 2024 that the U.S. government has conducted secret UAP crash retrieval programs and that they were designed to identify and reverse engineer craft of non-human origin, answering 'Yes' to both.",
+   "tier": 2
+  },
+  "c-fd0201adcc": {
+   "id": "c-fd0201adcc",
+   "kind": "claim",
+   "node": "aatip",
+   "nodeLabel": "Advanced Aerospace Threat Identification Program (AATIP / AAITP)",
+   "source": {
+    "domain": null,
+    "text": "Inference from the coexistence of all three names in the November 2009 packet and DoD's 2019 press guidance",
+    "url": null
+   },
+   "text": "The naming divergence is functional, not accidental: AAWSAP is the contract, AATIP is the mission, and DoD's ability to say Elizondo had 'no assigned responsibilities for AATIP' depends on which of the two designations any given document happens to carry.",
+   "tier": 3
+  },
+  "c-fd8f432074": {
+   "id": "c-fd8f432074",
+   "kind": "claim",
+   "node": "luis-elizondo",
+   "nodeLabel": "Luis D. Elizondo",
+   "source": {
+    "domain": null,
+    "text": "Inference from the precise phrasing 'no assigned responsibilities' set against the DIA transfer memo",
+    "url": null
+   },
+   "text": "DoD's denial is constructed around the word 'assigned' — a term of art that would be technically true of duties performed collaterally or under a different program designation, which is exactly the arrangement the 2010 transition memo contemplates.",
+   "tier": 3
+  },
+  "c-ff37b71eab": {
+   "id": "c-ff37b71eab",
+   "kind": "claim",
+   "node": "aatip",
+   "nodeLabel": "Advanced Aerospace Threat Identification Program (AATIP / AAITP)",
+   "source": {
+    "domain": null,
+    "text": "Luis Elizondo, in TTSA statements and in Imminent (2024)",
+    "url": null
+   },
+   "text": "Elizondo's account is that AATIP grew out of AAWSAP, that he directed it from about 2010, and that only its funding ended in 2012 while the effort continued to his 2017 resignation.",
+   "tier": 2
+  },
+  "e-041904e17a": {
+   "endpoints": [
+    {
+     "id": "neill-tipton",
+     "label": "Neill Tipton"
+    },
+    {
+     "id": "luis-elizondo",
+     "label": "Luis D. Elizondo"
+    }
+   ],
+   "id": "e-041904e17a",
+   "kind": "edge",
+   "label": "7 May 2019 internal email: 'no assigned responsibilities for this program'",
+   "sources": [
+    {
+     "date": "2023-01-01",
+     "name": "The Black Vault — New Emails Reveal Pentagon Effort to Align Messaging",
+     "url": "https://www.theblackvault.com/documentarchive/new-emails-reveal-pentagon-effort-to-align-messaging-on-aatip-and-luis-elizondo/"
+    }
+   ],
+   "text": "Tipton, Elizondo's superior from about 2010 to 2012, originated the formula two weeks before it went public. Colleagues in the same chain warned the Department risked 'contradicting previous statements'.",
+   "tier": 1,
+   "type": "denial"
+  },
+  "e-0588a137af": {
+   "endpoints": [
+    {
+     "id": "luis-elizondo",
+     "label": "Luis D. Elizondo"
+    },
+    {
+     "id": "bigelow-aerospace",
+     "label": "Bigelow Aerospace"
+    }
+   ],
+   "id": "e-0588a137af",
+   "kind": "edge",
+   "label": "Elizondo identified Bigelow Aerospace as the intended recipient of the divested material",
+   "sources": [
+    {
+     "date": "2024-11-13",
+     "name": "House Oversight hearing transcript, 'Unidentified Anomalous Phenomena: Exposing the Truth' (CHRG-118hhrg57440)",
+     "url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm"
+    }
+   ],
+   "text": "Asked by Rep. Burlison 'That is the Bigelow Aerospace, correct?', Elizondo answered 'Yes, sir.' He described later conversations with contract personnel who told him the account was accurate.",
+   "tier": 2,
+   "type": "programmatic"
+  },
+  "e-0816307ced": {
+   "endpoints": [
+    {
+     "id": "keith-kloor",
+     "label": "Keith Kloor"
+    },
+    {
+     "id": "luis-elizondo",
+     "label": "Luis D. Elizondo"
+    }
+   ],
+   "id": "e-0816307ced",
+   "kind": "edge",
+   "label": "Obtained both the Pentagon denial and the 'exemplary' evaluation language",
+   "sources": [
+    {
+     "date": "2019-06-01",
+     "name": "The Intercept",
+     "url": "https://theintercept.com/2019/06/01/ufo-unidentified-history-channel-luis-elizondo-pentagon/"
+    },
+    {
+     "date": "2019-04-01",
+     "name": "Issues in Science and Technology",
+     "url": "https://issues.org/wp-content/uploads/2019/04/Kloor-UFOs-Wont-Go-Away-SP19-ISSUES-49-56.pdf"
+    }
+   ],
+   "text": "Kloor's two 2019 pieces cut in opposite directions, which is why both are load-bearing.",
+   "tier": 1,
+   "type": "investigative"
+  },
+  "e-092d740a3c": {
+   "endpoints": [
+    {
+     "id": "ttsa",
+     "label": "To The Stars Academy of Arts & Science Inc. (later To The Stars Inc.)"
+    },
+    {
+     "id": "ttsa-army-crada",
+     "label": "CRADA between U.S. Army Ground Vehicle Systems Center and To The Stars Academy"
+    }
+   ],
+   "id": "e-092d740a3c",
+   "kind": "edge",
+   "label": "Executed CRADA with the U.S. Army, 10 October 2019, term to 30 September 2023",
+   "sources": [
+    {
+     "date": "2019-10-18",
+     "name": "The War Zone",
+     "url": "https://www.twz.com/30498/the-army-wants-to-verify-to-the-stars-academys-fantastic-ufo-mystery-material-claims"
+    },
+    {
+     "date": "2019-10-17",
+     "name": "PR Newswire — CRADA announcement",
+     "url": "https://www.prnewswire.com/news-releases/to-the-stars-academy-of-arts--science-announces-crada-with-the-us-army-combat-capabilities-development-command-to-advance-materiel-and-technology-innovations-300940211.html"
+    }
+   ],
+   "text": "A real federal instrument, not a press release: signed by the GVSC Director and TTSA's Chief Content Officer, with TTSA's participation valued at an estimated $1 million in in-kind contributions.",
+   "tier": 1,
+   "type": "funding"
+  },
+  "e-0b688dc499": {
+   "endpoints": [
+    {
+     "id": "james-mattis",
+     "label": "James N. Mattis"
+    },
+    {
+     "id": "garry-reid",
+     "label": "Garry P. Reid"
+    }
+   ],
+   "id": "e-0b688dc499",
+   "kind": "edge",
+   "label": "Secretary's office put six questions to Reid about Elizondo, Dec 2017",
+   "sources": [
+    {
+     "date": "2022-08-17",
+     "name": "OSD/JS FOIA 18-F-0324",
+     "url": "https://documents2.theblackvault.com/documents/osd/18-F-0324.pdf"
+    }
+   ],
+   "text": "Rather than engaging Elizondo, the Secretary's office tasked the Director for Defense Intelligence to explain him. Reid's answer is the origin of the Department's counter-narrative.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-113c095695": {
+   "endpoints": [
+    {
+     "id": "luis-elizondo",
+     "label": "Luis D. Elizondo"
+    },
+    {
+     "id": "elizondo-resignation-letter-1",
+     "label": "Elizondo Resignation Letter #1, 3 October 2017"
+    }
+   ],
+   "id": "e-113c095695",
+   "kind": "edge",
+   "label": "Author, 3 October 2017",
+   "sources": [
+    {
+     "date": "2022-08-17",
+     "name": "OSD/JS FOIA 18-F-0324",
+     "url": "https://documents2.theblackvault.com/documents/osd/18-F-0324.pdf"
+    }
+   ],
+   "text": "Establishes his exact title and departure date in his own words on Departmental paper.",
+   "tier": 1,
+   "type": "witness-chain"
+  },
+  "e-13549cbed5": {
+   "endpoints": [
+    {
+     "id": "luis-elizondo",
+     "label": "Luis D. Elizondo"
+    },
+    {
+     "id": "aatip",
+     "label": "Advanced Aerospace Threat Identification Program (AATIP / AAITP)"
+    }
+   ],
+   "id": "e-13549cbed5",
+   "kind": "edge",
+   "label": "Ran the program from c.2010 to 2017 (asserted); role denied by DoD",
+   "sources": [
+    {
+     "date": "2021-01-01",
+     "name": "OSD FOIA 21-F-0938 Elizondo emails",
+     "url": "https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/Public_Affairs/21-F-0938-PA-Elizondo-Emails.pdf"
+    },
+    {
+     "date": "2019-06-01",
+     "name": "The Intercept",
+     "url": "https://theintercept.com/2019/06/01/ufo-unidentified-history-channel-luis-elizondo-pentagon/"
+    }
+   ],
+   "text": "Elizondo states he ran AATIP; TTSA said he took it over as Director in 2010. The Department has denied he had assigned responsibilities since June 2019 without ever addressing why he processed the program's imagery in 2017.",
+   "tier": 2,
+   "type": "programmatic"
+  },
+  "e-196fab4005": {
+   "endpoints": [
+    {
+     "id": "luis-elizondo",
+     "label": "Luis D. Elizondo"
+    },
+    {
+     "id": "immaculate-constellation-12-page-report",
+     "label": "Immaculate Constellation 12-page report entered into the Congressional Record"
+    }
+   ],
+   "id": "e-196fab4005",
+   "kind": "edge",
+   "label": "Refused to confirm or deny by name or trigraph",
+   "sources": [
+    {
+     "date": "2024-11-13",
+     "name": "U.S. GPO - Hearing transcript, Serial No. 118-135 (CHRG-118hhrg57440)",
+     "url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm"
+    }
+   ],
+   "text": "Asked directly whether he had been read in, Elizondo said he would not be authorised to confirm nor deny the existence of any special access program by name or trigraph.",
+   "tier": 1,
+   "type": "witness-chain"
+  },
+  "e-1d15253ef1": {
+   "endpoints": [
+    {
+     "id": "luis-elizondo",
+     "label": "Luis D. Elizondo"
+    },
+    {
+     "id": "ttsa",
+     "label": "To The Stars Academy of Arts & Science Inc. (later To The Stars Inc.)"
+    }
+   ],
+   "id": "e-1d15253ef1",
+   "kind": "edge",
+   "label": "Director of Global Security & Special Programs / Government Programs (2017-2020)",
+   "sources": [
+    {
+     "date": "2018-04-30",
+     "name": "SEC EDGAR — TTSA Form 1-K",
+     "url": "https://www.sec.gov/Archives/edgar/data/1710274/000114420418023727/tv492460_partii.htm"
+    },
+    {
+     "date": "2026-04-29",
+     "name": "SEC EDGAR filing index for To The Stars Inc. (CIK 0001710274)",
+     "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001710274&type=1-K&dateb=&owner=include&count=40"
+    },
+    {
+     "date": "2024-11-13",
+     "name": "House Oversight hearing transcript, 'Unidentified Anomalous Phenomena: Exposing the Truth' (CHRG-118hhrg57440)",
+     "url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm"
+    }
+   ],
+   "text": "The move placed the former AATIP director inside the private company then acquiring claimed exotic material and negotiating a federal research agreement over it.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-25eee3653c": {
+   "endpoints": [
+    {
+     "id": "luis-elizondo",
+     "label": "Luis D. Elizondo"
+    },
+    {
+     "id": "immaculate-constellation",
+     "label": "Immaculate Constellation disclosure, October-November 2024"
+    }
+   ],
+   "id": "e-25eee3653c",
+   "kind": "edge",
+   "label": "Elizondo declined to confirm or deny the programme by name or trigraph",
+   "sources": [
+    {
+     "date": "2024-11-13",
+     "name": "GPO transcript CHRG-118hhrg57440",
+     "url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm"
+    }
+   ],
+   "text": "Asked by Mace whether he had been read in, Elizondo said he would not be authorised to confirm nor deny the existence of any special access program by name or trigraph - which is not a denial.",
+   "tier": 2,
+   "type": "denial"
+  },
+  "e-3d6d5781a1": {
+   "endpoints": [
+    {
+     "id": "luis-elizondo",
+     "label": "Luis D. Elizondo"
+    },
+    {
+     "id": "nyt-2017-12-16",
+     "label": "New York Times, 'Glowing Auras and Black Money: The Pentagon's Mysterious U.F.O. Program'"
+    }
+   ],
+   "id": "e-3d6d5781a1",
+   "kind": "edge",
+   "label": "Elizondo's resignation and the videos anchored the story",
+   "sources": [
+    {
+     "date": "2017-12-16",
+     "name": "The New York Times - Glowing Auras and Black Money",
+     "url": "https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html"
+    }
+   ],
+   "text": "Pentagon spokeswoman Dana White confirmed to Politico that Elizondo had directed AATIP.",
+   "tier": 1,
+   "type": "witness-chain"
+  },
+  "e-40aa564242": {
+   "endpoints": [
+    {
+     "id": "nancy-mace",
+     "label": "Nancy Ruth Mace"
+    },
+    {
+     "id": "luis-elizondo",
+     "label": "Luis D. Elizondo"
+    }
+   ],
+   "id": "e-40aa564242",
+   "kind": "edge",
+   "label": "Mace elicited the only public description of a distributed contractor custody model",
+   "sources": [
+    {
+     "date": "2024-11-13",
+     "name": "House Oversight hearing transcript, 'Unidentified Anomalous Phenomena: Exposing the Truth' (CHRG-118hhrg57440)",
+     "url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm"
+    }
+   ],
+   "text": "The exchange converts the allegation from a claim about one company into a described system of allocation by technical domain across multiple primes.",
+   "tier": 1,
+   "type": "investigative"
+  },
+  "e-4b4f99d4a9": {
+   "endpoints": [
+    {
+     "id": "aawsap",
+     "label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)"
+    },
+    {
+     "id": "aatip",
+     "label": "Advanced Aerospace Threat Identification Program (AATIP / AAITP)"
+    }
+   ],
+   "id": "e-4b4f99d4a9",
+   "kind": "edge",
+   "label": "AAWSAP is the official name; AATIP/AAITP is Reid's name for it",
+   "sources": [
+    {
+     "date": null,
+     "name": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237611/",
+     "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237611/"
+    }
+   ],
+   "text": "",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-4c0553ae31": {
+   "endpoints": [
+    {
+     "id": "luis-elizondo",
+     "label": "Luis D. Elizondo"
+    },
+    {
+     "id": "imminent-book",
+     "label": "Imminent: Inside the Pentagon's Hunt for UFOs"
+    }
+   ],
+   "id": "e-4c0553ae31",
+   "kind": "edge",
+   "label": "Author; DOPSR review took approximately one year",
+   "sources": [
+    {
+     "date": "2024-11-13",
+     "name": "HHRG-118-GO12 transcript",
+     "url": "https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Transcript-20241113.pdf"
+    }
+   ],
+   "text": "'What is in the book is what I was told I am allowed to talk about' — sworn testimony, 13 November 2024.",
+   "tier": 2,
+   "type": "witness-chain"
+  },
+  "e-4fa01d6807": {
+   "endpoints": [
+    {
+     "id": "ttsa-launch-2017",
+     "label": "To The Stars Academy public launch, 11 October 2017"
+    },
+    {
+     "id": "ttsa",
+     "label": "To The Stars Academy of Arts & Science Inc. (later To The Stars Inc.)"
+    }
+   ],
+   "id": "e-4fa01d6807",
+   "kind": "edge",
+   "label": "Public launch and Regulation A+ offering, 11 October 2017",
+   "sources": [
+    {
+     "date": "2017-10-11",
+     "name": "PR Newswire — TTSA launch",
+     "url": "https://www.prnewswire.com/news-releases/to-the-stars-academy-of-arts--science-launches-today-300534912.html"
+    }
+   ],
+   "text": "Seven days after Elizondo's resignation took effect and nine weeks before the NYT story.",
+   "tier": 1,
+   "type": "temporal"
+  },
+  "e-51e6f50585": {
+   "endpoints": [
+    {
+     "id": "neill-tipton",
+     "label": "Neill Tipton"
+    },
+    {
+     "id": "aatip",
+     "label": "Advanced Aerospace Threat Identification Program (AATIP / AAITP)"
+    }
+   ],
+   "id": "e-51e6f50585",
+   "kind": "edge",
+   "label": "Sept 2017: Elizondo drafts a memo helping Tipton 'assume the new responsibilities for AATIP'",
+   "sources": [
+    {
+     "date": "2023-01-01",
+     "name": "The Black Vault",
+     "url": "https://www.theblackvault.com/documentarchive/new-emails-reveal-pentagon-effort-to-align-messaging-on-aatip-and-luis-elizondo/"
+    }
+   ],
+   "text": "Five years after the Department says the program ended, and by the account of the man who says Elizondo had nothing to do with it. This is the sharpest internal contradiction in the record.",
+   "tier": 2,
+   "type": "programmatic"
+  },
+  "e-566ad94006": {
+   "endpoints": [
+    {
+     "id": "the-intercept",
+     "label": "The Intercept"
+    },
+    {
+     "id": "aatip",
+     "label": "Advanced Aerospace Threat Identification Program (AATIP / AAITP)"
+    }
+   ],
+   "id": "e-566ad94006",
+   "kind": "edge",
+   "label": "Pentagon confirmation of AATIP's existence obtained by The Intercept",
+   "sources": [
+    {
+     "date": "2019-06-01",
+     "name": "Keith Kloor, The Intercept, 1 June 2019",
+     "url": "https://theintercept.com/2019/06/01/ufo-unidentified-history-channel-luis-elizondo-pentagon/"
+    },
+    {
+     "date": null,
+     "name": "Keith Kloor, The Intercept, June 1, 2019 -- https://theintercept.com/2019/06/01/ufo-unidentified-history-channel-luis-elizondo-pentagon/",
+     "url": ""
+    }
+   ],
+   "text": "In the same piece the Pentagon confirmed to The Intercept that AATIP existed and 'did pursue research and investigation into unidentified aerial phenomena,' while declining to confirm the earlier Dana White statement that Elizondo ran it. The article is a primary source for the contradiction between DoD's public position and the TTSA account of AATIP's chain of command.",
+   "tier": 1,
+   "type": "investigative"
+  },
+  "e-59a02fe543": {
+   "endpoints": [
+    {
+     "id": "the-intercept",
+     "label": "The Intercept"
+    },
+    {
+     "id": "luis-elizondo",
+     "label": "Luis D. Elizondo"
+    }
+   ],
+   "id": "e-59a02fe543",
+   "kind": "edge",
+   "label": "First major press challenge to Elizondo's AATIP leadership claim",
+   "sources": [
+    {
+     "date": "2019-06-01",
+     "name": "Keith Kloor, 'The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon Program. Did He?', The Intercept, 1 June 2019",
+     "url": "https://theintercept.com/2019/06/01/ufo-unidentified-history-channel-luis-elizondo-pentagon/"
+    },
+    {
+     "date": null,
+     "name": "Keith Kloor, 'The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon Program. Did He?', The Intercept, June 1, 2019 -- https://theintercept.com/2019/06/01/ufo-unidentified-history-channel-luis-elizondo-pentagon/",
+     "url": ""
+    }
+   ],
+   "text": "Kloor's finding: 'There is no discernible evidence that Luis Elizondo ever worked for a government UFO program, much less led one.' He obtained a statement from Pentagon spokesperson Christopher Sherwood: 'Mr. Elizondo had no responsibilities with regard to the AATIP program while he worked in OUSDI... up until the time he resigned effective 10/4/2017.' The piece is the origin of the documented dispute over Elizondo's role, and the Pentagon's position in it has been restated since.",
+   "tier": 1,
+   "type": "investigative"
+  },
+  "e-5e40ea3c29": {
+   "endpoints": [
+    {
+     "id": "luis-elizondo",
+     "label": "Luis D. Elizondo"
+    },
+    {
+     "id": "five-observables",
+     "label": "The five observables (UAP performance taxonomy)"
+    }
+   ],
+   "id": "e-5e40ea3c29",
+   "kind": "edge",
+   "label": "Formulated the taxonomy",
+   "sources": [
+    {
+     "date": null,
+     "name": "History, 20 May 2019",
+     "url": "https://www.history.com/articles/ufo-sightings-speed-appearance-movement"
+    }
+   ],
+   "text": "Attributed to Elizondo from his AATIP work. No government document stating the set has been located, so this rests on reporting and on his own organisation's publication of it.",
+   "tier": 2,
+   "type": "research"
+  },
+  "e-60bca54202": {
+   "endpoints": [
+    {
+     "id": "christopher-sherwood",
+     "label": "Christopher Sherwood"
+    },
+    {
+     "id": "luis-elizondo",
+     "label": "Luis D. Elizondo"
+    }
+   ],
+   "id": "e-60bca54202",
+   "kind": "edge",
+   "label": "1 June 2019: 'no responsibilities with regard to the AATIP program'",
+   "sources": [
+    {
+     "date": "2019-06-01",
+     "name": "The Intercept",
+     "url": "https://theintercept.com/2019/06/01/ufo-unidentified-history-channel-luis-elizondo-pentagon/"
+    }
+   ],
+   "text": "Obtained by Keith Kloor for The Intercept in response to the History Channel series. This sentence has anchored every subsequent Departmental statement about Elizondo.",
+   "tier": 1,
+   "type": "denial"
+  },
+  "e-6e9f689760": {
+   "endpoints": [
+    {
+     "id": "neill-tipton",
+     "label": "Neill Tipton"
+    },
+    {
+     "id": "ousdi",
+     "label": "Office of the Under Secretary of Defense for Intelligence"
+    }
+   ],
+   "id": "e-6e9f689760",
+   "kind": "edge",
+   "label": "Director for Defense Intelligence (Collection & Special Programs); Elizondo's superior c.2010-2012",
+   "sources": [
+    {
+     "date": "2023-01-01",
+     "name": "The Black Vault",
+     "url": "https://www.theblackvault.com/documentarchive/new-emails-reveal-pentagon-effort-to-align-messaging-on-aatip-and-luis-elizondo/"
+    }
+   ],
+   "text": "His own account places Elizondo under him during precisely the years Elizondo claims to have run AATIP.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-7dc72d0a13": {
+   "endpoints": [
+    {
+     "id": "elizondo-resignation-letter-1",
+     "label": "Elizondo Resignation Letter #1, 3 October 2017"
+    },
+    {
+     "id": "ttsa-launch-2017",
+     "label": "To The Stars Academy public launch, 11 October 2017"
+    }
+   ],
+   "id": "e-7dc72d0a13",
+   "kind": "edge",
+   "label": "Seven days from resignation effective date to corporate launch",
+   "sources": [
+    {
+     "date": "2022-08-17",
+     "name": "OSD/JS FOIA 18-F-0324",
+     "url": "https://documents2.theblackvault.com/documents/osd/18-F-0324.pdf"
+    },
+    {
+     "date": "2017-10-11",
+     "name": "PR Newswire — TTSA launch",
+     "url": "https://www.prnewswire.com/news-releases/to-the-stars-academy-of-arts--science-launches-today-300534912.html"
+    }
+   ],
+   "text": "The interval is short enough that the corporate vehicle must have been assembled before the departure. This is inference from dates, not from any document stating intent.",
+   "tier": 3,
+   "type": "temporal"
+  },
+  "e-7e52055715": {
+   "endpoints": [
+    {
+     "id": "nyt-2017-12-16",
+     "label": "New York Times, 'Glowing Auras and Black Money: The Pentagon's Mysterious U.F.O. Program'"
+    },
+    {
+     "id": "aatip",
+     "label": "Advanced Aerospace Threat Identification Program (AATIP / AAITP)"
+    }
+   ],
+   "id": "e-7e52055715",
+   "kind": "edge",
+   "label": "Broke the program's existence, funding and Reid origin",
+   "sources": [
+    {
+     "date": "2017-12-16",
+     "name": "New York Times (NICAP copy)",
+     "url": "https://www.nicap.org/reports2/2004_20171216_NYTArt_1.pdf"
+    },
+    {
+     "date": "2017-12-16",
+     "name": "The New York Times - Glowing Auras and Black Money",
+     "url": "https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html"
+    }
+   ],
+   "text": "Cooper, Blumenthal and Kean disclosed the programme, the appropriation arranged by Sen. Harry Reid at Robert Bigelow's urging, and Elizondo's resignation.",
+   "tier": 1,
+   "type": "investigative"
+  },
+  "e-84374889be": {
+   "endpoints": [
+    {
+     "id": "susan-gough",
+     "label": "Susan Gough"
+    },
+    {
+     "id": "luis-elizondo",
+     "label": "Luis D. Elizondo"
+    }
+   ],
+   "id": "e-84374889be",
+   "kind": "edge",
+   "label": "'no assigned responsibilities for AATIP'",
+   "sources": [
+    {
+     "date": "2019-06-13",
+     "name": "The Black Vault",
+     "url": "https://www.theblackvault.com/documentarchive/pentagon-reinforces-mr-luis-elizondo-had-no-responsibilities-on-aatip-senator-harry-reids-2009-memo-changes-nothing/"
+    },
+    {
+     "date": "2021-01-01",
+     "name": "OSD/WHS FOIA 21-F-0938 - Elizondo emails",
+     "url": "https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/Public_Affairs/21-F-0938-PA-Elizondo-Emails.pdf"
+    }
+   ],
+   "text": "Issued in response to the authenticated Harry Reid memorandum, with the assertion that the memo 'makes no change to previous statements'. She added that DIA administered AATIP and Elizondo was never assigned to DIA.",
+   "tier": 1,
+   "type": "denial"
+  },
+  "e-96bd55455b": {
+   "endpoints": [
+    {
+     "id": "elizondo-dodig-complaint-2021",
+     "label": "Elizondo complaint to the DoD Inspector General, May 2021"
+    },
+    {
+     "id": "garry-reid",
+     "label": "Garry P. Reid"
+    }
+   ],
+   "id": "e-96bd55455b",
+   "kind": "edge",
+   "label": "Named respondent; Reid removed from post by April 2022",
+   "sources": [
+    {
+     "date": "2022-04-13",
+     "name": "The Debrief",
+     "url": "https://thedebrief.org/sex-lies-and-ufos-pentagons-head-of-counterintelligence-and-security-ousted/"
+    }
+   ],
+   "text": "Separate DoD IG investigations substantiated ethics and information-handling findings against Reid. Defense officials told The Debrief he 'played a central role in obfuscating information' about UAP.",
+   "tier": 2,
+   "type": "investigative"
+  },
+  "e-9e5a9fc5f4": {
+   "endpoints": [
+    {
+     "id": "luis-elizondo",
+     "label": "Luis D. Elizondo"
+    },
+    {
+     "id": "susan-gough",
+     "label": "Susan Gough"
+    }
+   ],
+   "id": "e-9e5a9fc5f4",
+   "kind": "edge",
+   "label": "Direct correspondence, 5 June 2019 and 3 June 2020: 'I ran the program'",
+   "sources": [
+    {
+     "date": "2021-01-01",
+     "name": "DoD FOIA Reading Room — 21-F-0938",
+     "url": "https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/Public_Affairs/21-F-0938-PA-Elizondo-Emails.pdf"
+    },
+    {
+     "date": "2021-01-01",
+     "name": "The Black Vault — Elizondo's letters to the Pentagon",
+     "url": "https://www.theblackvault.com/documentarchive/luis-elizondo-and-his-letters-to-the-pentagon-about-his-claims-and-credibility/"
+    },
+    {
+     "date": "2024-11-13",
+     "name": "House Oversight — Written Testimony of Luis Elizondo",
+     "url": "https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Elizondo.pdf"
+    }
+   ],
+   "text": "Released in the Department's own reading room under FOIA 21-F-0938. He also gave her a list of people who could confirm his role. The Department's response, if any, has not been released in full.",
+   "tier": 1,
+   "type": "behavioral"
+  },
+  "e-a2d15697ff": {
+   "endpoints": [
+    {
+     "id": "depsecdef-sap-packet-2009",
+     "label": "Final Packet Presented to the Deputy Secretary of Defense on the SAP Request"
+    },
+    {
+     "id": "aatip",
+     "label": "Advanced Aerospace Threat Identification Program (AATIP / AAITP)"
+    }
+   ],
+   "id": "e-a2d15697ff",
+   "kind": "edge",
+   "label": "records three concurrent names for one program",
+   "sources": [
+    {
+     "date": "2009-11-17",
+     "name": "Packet presented to DEPSECDEF",
+     "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP/09117-Final_Packet_Presented_to_DepSecDef.pdf"
+    }
+   ],
+   "text": "AAWSAP as the contract title, AAITP as Reid's usage, AATIP as the unclassified nickname — the naming divergence originates in a single DoD document.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-a46c5f7e6b": {
+   "endpoints": [
+    {
+     "id": "susan-gough",
+     "label": "Susan Gough"
+    },
+    {
+     "id": "christopher-sherwood",
+     "label": "Christopher Sherwood"
+    }
+   ],
+   "id": "e-a46c5f7e6b",
+   "kind": "edge",
+   "label": "Repudiated Sherwood's acknowledgement as 'not entirely fact-based'",
+   "sources": [
+    {
+     "date": "2019-12-06",
+     "name": "The Black Vault",
+     "url": "https://www.theblackvault.com/documentarchive/the-pentagon-corrects-record-on-secret-ufo-program/"
+    }
+   ],
+   "text": "The Department conceded Sherwood was accurately reported and then disowned what he said — while keeping his denial of Elizondo's role intact. One spokesman, two statements, one retained.",
+   "tier": 1,
+   "type": "denial"
+  },
+  "e-b20bd03bc8": {
+   "endpoints": [
+    {
+     "id": "dia",
+     "label": "Defense Intelligence Agency"
+    },
+    {
+     "id": "ousdi-atl-memo-2010",
+     "label": "DIA Info Memo to USD(AT&L) on AATIP (U-10-2552CE-IM-ATL)"
+    }
+   ],
+   "id": "e-b20bd03bc8",
+   "kind": "edge",
+   "label": "proposes transitioning AATIP out of DIA",
+   "sources": [
+    {
+     "date": "2010-12-01",
+     "name": "DIA memo U-10-2552CE-IM-ATL",
+     "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP/U-10-2552CE-IM-ATL.pdf"
+    }
+   ],
+   "text": "DIA tells USD(AT&L) the reports were of limited value to DIA but could merit other organisations and the project could move to a better-suited component.",
+   "tier": 1,
+   "type": "programmatic"
+  },
+  "e-b6aa2b00c2": {
+   "endpoints": [
+    {
+     "id": "luis-elizondo",
+     "label": "Luis D. Elizondo"
+    },
+    {
+     "id": "ttsa-army-crada",
+     "label": "CRADA between U.S. Army Ground Vehicle Systems Center and To The Stars Academy"
+    }
+   ],
+   "id": "e-b6aa2b00c2",
+   "kind": "edge",
+   "label": "Named as TTSA's principal investigator on the Army agreement",
+   "sources": [
+    {
+     "date": "2019-10-18",
+     "name": "The War Zone",
+     "url": "https://www.twz.com/30498/the-army-wants-to-verify-to-the-stars-academys-fantastic-ufo-mystery-material-claims"
+    }
+   ],
+   "text": "Two years after resigning from OUSD(I), Elizondo is the named private-sector counterpart to an Army laboratory on an exotic-materials instrument.",
+   "tier": 1,
+   "type": "custody"
+  },
+  "e-be33e63ad5": {
+   "endpoints": [
+    {
+     "id": "brian-jenkins-dia",
+     "label": "Brian L. Jenkins"
+    },
+    {
+     "id": "dia-aatip-letter-2018",
+     "label": "DIA Letter to the Senate Armed Services Committee Listing AATIP Products"
+    }
+   ],
+   "id": "e-be33e63ad5",
+   "kind": "edge",
+   "label": "signed the transmittal to the Senate Armed Services Committee",
+   "sources": [
+    {
+     "date": "2018-01-09",
+     "name": "DIA letter to SASC",
+     "url": "https://documents.theblackvault.com/documents/dia/dia-aatip-reports.pdf"
+    }
+   ],
+   "text": "A records officer's signature is the only formal notification the authorizing committee ever received about a ten-year program.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-c28ccfc19f": {
+   "endpoints": [
+    {
+     "id": "aaro-historical-record-vol1",
+     "label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+    },
+    {
+     "id": "hearing-2024-11-13",
+     "label": "House Oversight joint hearing, 13 November 2024 - 'Unidentified Anomalous Phenomena: Exposing the Truth'"
+    }
+   ],
+   "id": "e-c28ccfc19f",
+   "kind": "edge",
+   "label": "Volume I's 'no NDAs' finding against Elizondo's sworn SCIF testimony",
+   "sources": [
+    {
+     "date": "2024-03-08",
+     "name": "AARO Historical Record Report Volume I (DOPSR-2024-0263)",
+     "url": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF"
+    },
+    {
+     "date": "2024-11-13",
+     "name": "U.S. GPO - Hearing transcript, Serial No. 118-135 (CHRG-118hhrg57440)",
+     "url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm"
+    }
+   ],
+   "text": "Volume I states AARO found no NDAs containing UAP-related information; eight months later Elizondo testified under oath to signing a SCIF instrument barring discussion of crash retrieval.",
+   "tier": 3,
+   "type": "denial"
+  },
+  "e-c3334edce8": {
+   "endpoints": [
+    {
+     "id": "luis-elizondo",
+     "label": "Luis D. Elizondo"
+    },
+    {
+     "id": "elizondo-resignation-letter-2",
+     "label": "Elizondo Resignation Memorandum for Record, 4 October 2017"
+    }
+   ],
+   "id": "e-c3334edce8",
+   "kind": "edge",
+   "label": "Author, 4 October 2017; hand-delivered to the Secretary's office",
+   "sources": [
+    {
+     "date": "2022-08-17",
+     "name": "OSD/JS FOIA 18-F-0324",
+     "url": "https://documents2.theblackvault.com/documents/osd/18-F-0324.pdf"
+    }
+   ],
+   "text": "The protest letter naming Departmental opposition to further UAP research as his reason for leaving.",
+   "tier": 1,
+   "type": "witness-chain"
+  },
+  "e-c5e7fce667": {
+   "endpoints": [
+    {
+     "id": "luis-elizondo",
+     "label": "Luis D. Elizondo"
+    },
+    {
+     "id": "elizondo-dodig-complaint-2021",
+     "label": "Elizondo complaint to the DoD Inspector General, May 2021"
+    }
+   ],
+   "id": "e-c5e7fce667",
+   "kind": "edge",
+   "label": "Filed May 2021 naming Reid, Gough and Tipton",
+   "sources": [
+    {
+     "date": "2025-03-01",
+     "name": "The Black Vault — Elizondo DoD IG complaint archive",
+     "url": "https://www.theblackvault.com/documentarchive/the-dod-inspector-general-complaint-of-luis-elizondo-a-document-archive/"
+    }
+   ],
+   "text": "Alleged 'malicious activities, coordinated disinformation, professional misconduct, whistleblower reprisal and explicit threats'. No public adjudication has been released.",
+   "tier": 2,
+   "type": "witness-chain"
+  },
+  "e-c626fa7977": {
+   "endpoints": [
+    {
+     "id": "susan-gough",
+     "label": "Susan Gough"
+    },
+    {
+     "id": "aatip",
+     "label": "Advanced Aerospace Threat Identification Program (AATIP / AAITP)"
+    }
+   ],
+   "id": "e-c626fa7977",
+   "kind": "edge",
+   "label": "6 Dec 2019: 'Neither AATIP nor AAWSAP were UAP related'",
+   "sources": [
+    {
+     "date": "2019-12-06",
+     "name": "The Black Vault — The Pentagon Corrects Record",
+     "url": "https://www.theblackvault.com/documentarchive/the-pentagon-corrects-record-on-secret-ufo-program/"
+    }
+   ],
+   "text": "A direct reversal of her own colleague's May 2019 statement, justified on the ground that Sherwood was repeating what an earlier spokesperson had said and that spokesperson 'is no longer with my organization'.",
+   "tier": 1,
+   "type": "denial"
+  },
+  "e-d0383fe3f4": {
+   "endpoints": [
+    {
+     "id": "imminent-book",
+     "label": "Imminent: Inside the Pentagon's Hunt for UFOs"
+    },
+    {
+     "id": "dopsr",
+     "label": "Defense Office of Prepublication and Security Review"
+    }
+   ],
+   "id": "e-d0383fe3f4",
+   "kind": "edge",
+   "label": "Manuscript reviewed and cleared by the Department's prepublication office",
+   "sources": [
+    {
+     "date": "2024-11-13",
+     "name": "HHRG-118-GO12 transcript",
+     "url": "https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Transcript-20241113.pdf"
+    }
+   ],
+   "text": "A DOPSR clearance is not an endorsement of accuracy, but it is an affirmative Departmental determination that the assertions are not classified.",
+   "tier": 2,
+   "type": "institutional"
+  },
+  "e-d1da23f925": {
+   "endpoints": [
+    {
+     "id": "nyt-2017-12-16",
+     "label": "New York Times, 'Glowing Auras and Black Money: The Pentagon's Mysterious U.F.O. Program'"
+    },
+    {
+     "id": "luis-elizondo",
+     "label": "Luis D. Elizondo"
+    }
+   ],
+   "id": "e-d1da23f925",
+   "kind": "edge",
+   "label": "Named him as the official who ran AATIP",
+   "sources": [
+    {
+     "date": "2017-12-16",
+     "name": "New York Times (NICAP copy)",
+     "url": "https://www.nicap.org/reports2/2004_20171216_NYTArt_1.pdf"
+    }
+   ],
+   "text": "The article identified him, quoted his resignation letter and reported his move to TTSA — the act that made him the Department's problem.",
+   "tier": 1,
+   "type": "investigative"
+  },
+  "e-d5edd9b01d": {
+   "endpoints": [
+    {
+     "id": "elizondo-resignation-letter-2",
+     "label": "Elizondo Resignation Memorandum for Record, 4 October 2017"
+    },
+    {
+     "id": "james-mattis",
+     "label": "James N. Mattis"
+    }
+   ],
+   "id": "e-d5edd9b01d",
+   "kind": "edge",
+   "label": "Memorandum saluted 'Mr. Secretary'; NYT reported it as addressed to Mattis",
+   "sources": [
+    {
+     "date": "2017-12-16",
+     "name": "New York Times (NICAP copy)",
+     "url": "https://www.nicap.org/reports2/2004_20171216_NYTArt_1.pdf"
+    },
+    {
+     "date": "2022-08-17",
+     "name": "OSD/JS FOIA 18-F-0324",
+     "url": "https://documents2.theblackvault.com/documents/osd/18-F-0324.pdf"
+    }
+   ],
+   "text": "The letter asks the Secretary to 'ask the hard questions'. Garry Reid's memo later questioned its 'uncertain provenance' — while the letter itself sits in the Department's own FOIA release.",
+   "tier": 2,
+   "type": "witness-chain"
+  },
+  "e-da15f2a0eb": {
+   "endpoints": [
+    {
+     "id": "christopher-sherwood",
+     "label": "Christopher Sherwood"
+    },
+    {
+     "id": "aatip",
+     "label": "Advanced Aerospace Threat Identification Program (AATIP / AAITP)"
+    }
+   ],
+   "id": "e-da15f2a0eb",
+   "kind": "edge",
+   "label": "22 May 2019: AATIP 'did pursue research and investigation into unidentified aerial phenomena'",
+   "sources": [
+    {
+     "date": "2019-12-06",
+     "name": "The Black Vault — The Pentagon Corrects Record",
+     "url": "https://www.theblackvault.com/documentarchive/the-pentagon-corrects-record-on-secret-ufo-program/"
+    }
+   ],
+   "text": "The Department's first unambiguous acknowledgement that its aerospace-threat program looked at UAP. Repudiated by its own spokesperson six months later.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-dbad302a21": {
+   "endpoints": [
+    {
+     "id": "susan-gough",
+     "label": "Susan Gough"
+    },
+    {
+     "id": "aatip",
+     "label": "Advanced Aerospace Threat Identification Program (AATIP / AAITP)"
+    }
+   ],
+   "id": "e-dbad302a21",
+   "kind": "edge",
+   "label": "21 May 2021 partial reversal: contract 'allowed for research... including reports of UAPs'",
+   "sources": [
+    {
+     "date": "2021-05-21",
+     "name": "Blue Blurry Lines — The Pentagon's Updated Statement",
+     "url": "https://www.blueblurrylines.com/2021/05/the-pentagons-updated-statement-aatip.html"
+    }
+   ],
+   "text": "Eighteen months after the flat denial, the Department conceded UAP reports were within AATIP's research scope while insisting they were not its purpose. The denial of Elizondo's role did not move.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-dd50449ae0": {
+   "endpoints": [
+    {
+     "id": "luis-elizondo",
+     "label": "Luis D. Elizondo"
+    },
+    {
+     "id": "dd-form-1910-2017",
+     "label": "DD Form 1910 for GoFast, Gimbal and FLIR video files"
+    }
+   ],
+   "id": "e-dd50449ae0",
+   "kind": "edge",
+   "label": "Submitted the clearance request for the three video files, 9 Aug 2017",
+   "sources": [
+    {
+     "date": "2019-08-17",
+     "name": "Blue Blurry Lines — DD Form 1910 FOIA release",
+     "url": "https://www.blueblurrylines.com/2019/08/documents-released-via-foia-on-aatip.html"
+    }
+   ],
+   "text": "The form bears his name and OUSD(I) title. It is the documentary link between him and the AATIP-associated imagery, and it was approved 24 August 2017.",
+   "tier": 1,
+   "type": "custody"
+  },
+  "e-df129a8e7b": {
+   "endpoints": [
+    {
+     "id": "aatip",
+     "label": "Advanced Aerospace Threat Identification Program (AATIP / AAITP)"
+    },
+    {
+     "id": "robert-bigelow",
+     "label": "Robert T. Bigelow"
+    }
+   ],
+   "id": "e-df129a8e7b",
+   "kind": "edge",
+   "label": "Most of the ~$22m went to Bigelow Aerospace, 2008-2011",
+   "sources": [
+    {
+     "date": "2017-12-16",
+     "name": "New York Times (NICAP copy)",
+     "url": "https://www.nicap.org/reports2/2004_20171216_NYTArt_1.pdf"
+    }
+   ],
+   "text": "Reported by the New York Times with Bigelow on record describing modified Las Vegas buildings for storing recovered metal alloys.",
+   "tier": 1,
+   "type": "funding"
+  },
+  "e-e3cc49bc6d": {
+   "endpoints": [
+    {
+     "id": "ousdi-atl-memo-2010",
+     "label": "DIA Info Memo to USD(AT&L) on AATIP (U-10-2552CE-IM-ATL)"
+    },
+    {
+     "id": "luis-elizondo",
+     "label": "Luis D. Elizondo"
+    }
+   ],
+   "id": "e-e3cc49bc6d",
+   "kind": "edge",
+   "label": "documents the handoff Elizondo describes",
+   "sources": [
+    {
+     "date": "2010-12-01",
+     "name": "DIA memo U-10-2552CE-IM-ATL",
+     "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP/U-10-2552CE-IM-ATL.pdf"
+    }
+   ],
+   "text": "DIA proposed a transition in December 2010; Elizondo says he picked up the residual effort in OUSD(I) at that time. No charter has ever been released either way.",
+   "tier": 3,
+   "type": "programmatic"
+  },
+  "e-f32d2ac604": {
+   "endpoints": [
+    {
+     "id": "garry-reid-memo-2017",
+     "label": "Garry Reid memoranda on AATIP and Elizondo, December 2017"
+    },
+    {
+     "id": "luis-elizondo",
+     "label": "Luis D. Elizondo"
+    }
+   ],
+   "id": "e-f32d2ac604",
+   "kind": "edge",
+   "label": "'Aggrandized his role'; 'no job responsibilities related to the AATIP'",
+   "sources": [
+    {
+     "date": "2022-08-17",
+     "name": "OSD/JS FOIA 18-F-0324",
+     "url": "https://documents2.theblackvault.com/documents/osd/18-F-0324.pdf"
+    },
+    {
+     "date": "2022-08-22",
+     "name": "The Black Vault — Pentagon Memos Reveal",
+     "url": "https://www.theblackvault.com/documentarchive/ex-dod-intelligence-officers-ufo-claims-spark-security-concerns-and-confusion-pentagon-memos-reveal/"
+    }
+   ],
+   "text": "The first written denial of Elizondo's program role, produced inside OUSD(I) within a week of the NYT story and routed to the Secretary of Defense. Every later public denial restates it.",
+   "tier": 1,
+   "type": "denial"
+  },
+  "e-f3489369e1": {
+   "endpoints": [
+    {
+     "id": "harry-reid",
+     "label": "Harry M. Reid"
+    },
+    {
+     "id": "aatip",
+     "label": "Advanced Aerospace Threat Identification Program (AATIP / AAITP)"
+    }
+   ],
+   "id": "e-f3489369e1",
+   "kind": "edge",
+   "label": "24 July 2009 memorandum to DepSecDef Lynn seeking SAP status; denied",
+   "sources": [
+    {
+     "date": "2019-06-13",
+     "name": "The Black Vault — Reid memo",
+     "url": "https://www.theblackvault.com/documentarchive/pentagon-reinforces-mr-luis-elizondo-had-no-responsibilities-on-aatip-senator-harry-reids-2009-memo-changes-nothing/"
+    }
+   ],
+   "text": "Susan Gough authenticated the memorandum on 13 June 2019. Elizondo's and Puthoff's names were originally redacted from it and later released.",
+   "tier": 1,
+   "type": "legislative"
+  },
+  "e-fc30e775f0": {
+   "endpoints": [
+    {
+     "id": "aaro-historical-record-vol1",
+     "label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+    },
+    {
+     "id": "aatip",
+     "label": "Advanced Aerospace Threat Identification Program (AATIP / AAITP)"
+    }
+   ],
+   "id": "e-fc30e775f0",
+   "kind": "edge",
+   "label": "AARO: 'AATIP was never an official DoD program'",
+   "sources": [
+    {
+     "date": null,
+     "name": "https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf",
+     "url": "https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf"
+    },
+    {
+     "date": "2024-03-08",
+     "name": "AARO Historical Record Report Volume 1",
+     "url": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF"
+    }
+   ],
+   "text": "AARO's report treats 2009 as the standup year for AAWSAP and AATIP and rejects the reverse-engineering account. It is itself a DOPSR-reviewed document, DOPSR-2024-0263.",
+   "tier": 1,
+   "type": "denial"
+  }
+ },
+ "claimed": [
+  {
+   "cite": [
+    "c-611eb79ba5",
+    "c-ff37b71eab",
+    "c-3238c01deb",
+    "e-9e5a9fc5f4",
+    "e-13549cbed5"
+   ],
+   "text": "Elizondo says AATIP grew out of AAWSAP, that he ran it from OUSD(I) from about 2010 until he resigned, and that only its funding ended in 2012. He wrote to Gough in June 2020 that everyone involved knew he ran the programme, and gave her a list of people who could confirm it."
+  },
+  {
+   "cite": [
+    "c-e8fdd26e9b",
+    "e-0816307ced"
+   ],
+   "text": "Keith Kloor reported that Elizondo's 2016 performance evaluation rated him exemplary and credited him with neutralising six insider threats."
+  },
+  {
+   "cite": [
+    "c-fcc543fc47",
+    "c-0bc442fda9",
+    "c-93c68cda9e",
+    "e-0588a137af",
+    "c-91b6e963c3",
+    "e-40aa564242"
+   ],
+   "text": "Under oath on 13 November 2024 Elizondo answered yes when asked whether the government has run secret crash retrieval programmes to reverse engineer craft of non-human origin. He testified that an aerospace contractor had asked to divest itself of material collected in the 1950s, that the transfer to Bigelow Aerospace was blocked for want of a memo from the Secretary of the Air Force, and that material is allocated to contractors by domain expertise."
+  },
+  {
+   "cite": [
+    "c-760a39cac1"
+   ],
+   "text": "Journalist Christopher Sharp reports that Elizondo's written testimony to Congress named NAS Patuxent River among the sites prepared for that transfer."
+  },
+  {
+   "cite": [
+    "c-236f55b68c",
+    "c-3a5c080b8c",
+    "c-f32eab81cf",
+    "e-4c0553ae31"
+   ],
+   "text": "Elizondo testified that his book Imminent spent about a year in DOPSR review and that what is in it is what he was told he may talk about; its claims include recovered non-human bodies and a decades-long retrieval programme."
+  },
+  {
+   "cite": [
+    "c-6d55f7eea7",
+    "c-c3ca30c18b",
+    "c-453e249c75",
+    "e-96bd55455b"
+   ],
+   "text": "His May 2021 Inspector General complaint alleges malicious activities, coordinated disinformation, whistleblower reprisal and threats by Reid, Gough and Tipton, including that Reid threatened his clearance and blocked his access to the Pentagon. Defense officials told The Debrief that Reid played a central role in obfuscating information about UAP. No adjudication has been released."
+  },
+  {
+   "cite": [
+    "c-fba61217b0",
+    "c-2e0f6f2253",
+    "c-363065f09a",
+    "e-5e40ea3c29"
+   ],
+   "text": "The five observables are attributed to Elizondo by History and published by To The Stars, but no government document stating them as a set has been located, and the two published lists differ on the wording of one item."
+  },
+  {
+   "cite": [
+    "e-25eee3653c",
+    "e-196fab4005"
+   ],
+   "text": "Asked whether he had been read into Immaculate Constellation, Elizondo said he was not authorised to confirm or deny any special access programme by name or trigraph, which is not a denial."
+  }
+ ],
+ "contested": [
+  {
+   "cite": [
+    "c-efb3d4f85f",
+    "e-51e6f50585",
+    "c-4286818359"
+   ],
+   "text": "The Department's own paper cuts against its denial: released September 2017 emails, as The Black Vault reads them, show Elizondo drafting a memo to help Tipton assume the new responsibilities for AATIP, five years after the Department says it ended, while Tipton's 2019 email says Elizondo brought no AATIP responsibilities."
+  },
+  {
+   "cite": [
+    "c-fd8f432074",
+    "c-fd0201adcc",
+    "c-12f323a3a9"
+   ],
+   "text": "On the board's reading, the denial rests on the word assigned, which would be technically true of duties carried collaterally or under the other programme name, and the December 2010 DIA transition memo is consistent with Elizondo's account of picking the effort up in OUSD(I)."
+  },
+  {
+   "cite": [
+    "e-59a02fe543",
+    "e-0816307ced"
+   ],
+   "text": "Keith Kloor, writing in The Intercept in 2019, found no discernible evidence that Elizondo ever worked for a government UFO programme, much less led one, and obtained the Pentagon's first denial of his role."
+  },
+  {
+   "cite": [
+    "e-3d6d5781a1",
+    "e-566ad94006"
+   ],
+   "text": "The board carries a report that spokeswoman Dana White confirmed to Politico that Elizondo directed AATIP, but no primary record of that statement has been located, and the Pentagon later declined to confirm it to The Intercept."
+  },
+  {
+   "cite": [
+    "c-fafdfa9627",
+    "e-d5edd9b01d",
+    "c-0b3d56decc"
+   ],
+   "text": "The Times reported Elizondo's resignation letter as addressed to Mattis, and Reid's memo questioned the second letter's provenance; the letter now sits in the Department's own FOIA release."
+  },
+  {
+   "cite": [
+    "c-961ee028e3",
+    "c-d11b56fd97"
+   ],
+   "text": "The records disagree on the date of Reid's special access request: DIA's release has a letter of 24 June 2009, while the memorandum authenticated by Gough is dated 24 July 2009."
+  },
+  {
+   "cite": [
+    "c-8e9f31d0a2",
+    "c-5f4ef78c47"
+   ],
+   "text": "The board reads AARO's never-an-official-programme line as a naming technicality, since DIA's 2009 correspondence uses AAITP and AAWSAP interchangeably for the same contract. Kirkpatrick attributed the modern crash-retrieval narrative to AATIP and the Bigelow circle without engaging Elizondo's account as testimony."
+  },
+  {
+   "cite": [
+    "e-1d15253ef1",
+    "e-7dc72d0a13",
+    "e-4fa01d6807"
+   ],
+   "text": "Elizondo left government for To The Stars, a private company that acquired claimed exotic material and negotiated a federal research agreement over it; the company launched seven days after his resignation took effect, which the board reads from the dates alone as assembled before he left."
+  },
+  {
+   "cite": [
+    "c-8396bdf916",
+    "e-d0383fe3f4",
+    "e-c28ccfc19f"
+   ],
+   "text": "A DOPSR clearance is not an endorsement of accuracy: on the board's reading it means the book's assertions are either false or true and unclassified, and the Department has not said which. The board also sets Volume I's finding of no UAP-related NDAs against Elizondo's sworn account of signing a SCIF instrument barring discussion of crash retrieval."
+  },
+  {
+   "cite": [
+    "c-4ce7c4da4b"
+   ],
+   "text": "At a May 2025 event Elizondo presented an image he described as a disc 600 to 1,000 feet across; analysts including Mick West identified it as an irrigation circle."
+  },
+  {
+   "cite": [
+    "c-8aa8c689a8"
+   ],
+   "text": "The board infers that the Navy briefing and the observables converge on the same reported encounters rather than showing that either knew of the other, since the briefing predates the published list."
+  }
+ ],
  "essays": [],
  "focusEra": "3",
  "id": "aatip-elizondo",
  "kind": "saga",
- "lead": null,
- "members": [],
+ "lead": {
+  "cite": [
+   "e-7e52055715",
+   "c-611eb79ba5",
+   "c-f38a8a8dcb",
+   "c-c7c86ef93e",
+   "e-e3cc49bc6d"
+  ],
+  "text": "AATIP is the name under which the Pentagon's Reid-funded study of advanced aerospace threats became public in December 2017, and Luis Elizondo is the former OUSD(I) official who says he ran it. The Department has said since 2019 that he had no assigned responsibilities for it, and no charter has been released that settles the question either way."
+ },
+ "members": [
+  {
+   "cls": "program",
+   "id": "aatip",
+   "label": "Advanced Aerospace Threat Identification Program (AATIP / AAITP)",
+   "role": "subject"
+  },
+  {
+   "cls": "person",
+   "id": "luis-elizondo",
+   "label": "Luis D. Elizondo",
+   "role": "claimant"
+  },
+  {
+   "cls": "program",
+   "id": "aawsap",
+   "label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)",
+   "role": "programme"
+  },
+  {
+   "cls": "person",
+   "id": "garry-reid",
+   "label": "Garry P. Reid",
+   "role": "official"
+  },
+  {
+   "cls": "person",
+   "id": "neill-tipton",
+   "label": "Neill Tipton",
+   "role": "official"
+  },
+  {
+   "cls": "person",
+   "id": "susan-gough",
+   "label": "Susan Gough",
+   "role": "official"
+  },
+  {
+   "cls": "person",
+   "id": "christopher-sherwood",
+   "label": "Christopher Sherwood",
+   "role": "official"
+  },
+  {
+   "cls": "person",
+   "id": "thomas-crosson",
+   "label": "Thomas Crosson",
+   "role": "official"
+  },
+  {
+   "cls": "person",
+   "id": "james-mattis",
+   "label": "James N. Mattis",
+   "role": "official"
+  },
+  {
+   "cls": "person",
+   "id": "john-garrity",
+   "label": "John Garrity",
+   "role": "official"
+  },
+  {
+   "cls": "person",
+   "id": "brian-jenkins-dia",
+   "label": "Brian L. Jenkins",
+   "role": "official"
+  },
+  {
+   "cls": "person",
+   "id": "harry-reid",
+   "label": "Harry M. Reid",
+   "role": "legislator"
+  },
+  {
+   "cls": "person",
+   "id": "nancy-mace",
+   "label": "Nancy Ruth Mace",
+   "role": "legislator"
+  },
+  {
+   "cls": "document",
+   "id": "garry-reid-memo-2017",
+   "label": "Garry Reid memoranda on AATIP and Elizondo, December 2017",
+   "role": "document"
+  },
+  {
+   "cls": "document",
+   "id": "elizondo-resignation-letter-1",
+   "label": "Elizondo Resignation Letter #1, 3 October 2017",
+   "role": "document"
+  },
+  {
+   "cls": "document",
+   "id": "elizondo-resignation-letter-2",
+   "label": "Elizondo Resignation Memorandum for Record, 4 October 2017",
+   "role": "document"
+  },
+  {
+   "cls": "document",
+   "id": "elizondo-dodig-complaint-2021",
+   "label": "Elizondo complaint to the DoD Inspector General, May 2021",
+   "role": "document"
+  },
+  {
+   "cls": "document",
+   "id": "ousdi-atl-memo-2010",
+   "label": "DIA Info Memo to USD(AT&L) on AATIP (U-10-2552CE-IM-ATL)",
+   "role": "document"
+  },
+  {
+   "cls": "document",
+   "id": "dia-aatip-letter-2018",
+   "label": "DIA Letter to the Senate Armed Services Committee Listing AATIP Products",
+   "role": "document"
+  },
+  {
+   "cls": "document",
+   "id": "depsecdef-sap-packet-2009",
+   "label": "Final Packet Presented to the Deputy Secretary of Defense on the SAP Request",
+   "role": "document"
+  },
+  {
+   "cls": "document",
+   "id": "dd-form-1910-2017",
+   "label": "DD Form 1910 for GoFast, Gimbal and FLIR video files",
+   "role": "document"
+  },
+  {
+   "cls": "document",
+   "id": "imminent-book",
+   "label": "Imminent: Inside the Pentagon's Hunt for UFOs",
+   "role": "document"
+  },
+  {
+   "cls": "document",
+   "id": "reckoning-book",
+   "label": "Reckoning: The Unspoken Truth about UFOs and the Urgency of Now",
+   "role": "document"
+  },
+  {
+   "cls": "document",
+   "id": "five-observables",
+   "label": "The five observables (UAP performance taxonomy)",
+   "role": "document"
+  },
+  {
+   "cls": "document",
+   "id": "pax-205-disclosure",
+   "label": "NAVAIR Invention Disclosure Briefing, Navy Case PAX 205 (Inertial Mass Reduction Device)",
+   "role": "document"
+  },
+  {
+   "cls": "document",
+   "id": "pais-patent-imrd",
+   "label": "US Patent 10,144,532 - Craft using an inertial mass reduction device",
+   "role": "document"
+  },
+  {
+   "cls": "document",
+   "id": "aaro-historical-record-vol1",
+   "label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
+   "role": "document"
+  },
+  {
+   "cls": "document",
+   "id": "ttsa-army-crada",
+   "label": "CRADA between U.S. Army Ground Vehicle Systems Center and To The Stars Academy",
+   "role": "document"
+  },
+  {
+   "cls": "document",
+   "id": "immaculate-constellation-12-page-report",
+   "label": "Immaculate Constellation 12-page report entered into the Congressional Record",
+   "role": "document"
+  },
+  {
+   "cls": "legislation",
+   "id": "defense-appropriations-aawsap",
+   "label": "Defense Appropriations Acts FY2008 and FY2010 - the $22M AAWSAP appropriation",
+   "role": "law"
+  },
+  {
+   "cls": "event",
+   "id": "nyt-2017-12-16",
+   "label": "New York Times, 'Glowing Auras and Black Money: The Pentagon's Mysterious U.F.O. Program'",
+   "role": "event"
+  },
+  {
+   "cls": "event",
+   "id": "ttsa-launch-2017",
+   "label": "To The Stars Academy public launch, 11 October 2017",
+   "role": "event"
+  },
+  {
+   "cls": "event",
+   "id": "hearing-2024-11-13",
+   "label": "House Oversight joint hearing, 13 November 2024 - 'Unidentified Anomalous Phenomena: Exposing the Truth'",
+   "role": "event"
+  },
+  {
+   "cls": "event",
+   "id": "immaculate-constellation",
+   "label": "Immaculate Constellation disclosure, October-November 2024",
+   "role": "event"
+  },
+  {
+   "cls": "institution",
+   "id": "ttsa",
+   "label": "To The Stars Academy of Arts & Science Inc. (later To The Stars Inc.)",
+   "role": "institution"
+  },
+  {
+   "cls": "program",
+   "id": "adam-research-project",
+   "label": "ADAM Research Project (Acquisition and Data Analysis of Materials)",
+   "role": "programme"
+  },
+  {
+   "cls": "institution",
+   "id": "dia",
+   "label": "Defense Intelligence Agency",
+   "role": "institution"
+  },
+  {
+   "cls": "institution",
+   "id": "ousdi",
+   "label": "Office of the Under Secretary of Defense for Intelligence",
+   "role": "institution"
+  },
+  {
+   "cls": "institution",
+   "id": "dopsr",
+   "label": "Defense Office of Prepublication and Security Review",
+   "role": "institution"
+  },
+  {
+   "cls": "institution",
+   "id": "vanderbilt-university",
+   "label": "Vanderbilt University",
+   "role": "institution"
+  },
+  {
+   "cls": "location",
+   "id": "l-pentagon",
+   "label": "The Pentagon, Arlington, Virginia",
+   "role": "place"
+  },
+  {
+   "cls": "person",
+   "id": "robert-bigelow",
+   "label": "Robert T. Bigelow",
+   "role": "contractor"
+  },
+  {
+   "cls": "institution",
+   "id": "bigelow-aerospace",
+   "label": "Bigelow Aerospace",
+   "role": "contractor"
+  },
+  {
+   "cls": "person",
+   "id": "harold-puthoff",
+   "label": "Harold E. Puthoff",
+   "role": "researcher"
+  },
+  {
+   "cls": "institution",
+   "id": "the-intercept",
+   "label": "The Intercept",
+   "role": "journalist"
+  },
+  {
+   "cls": "person",
+   "id": "keith-kloor",
+   "label": "Keith Kloor",
+   "role": "journalist"
+  }
+ ],
  "mergedFrom": [
   "five-observables"
  ],
  "notes": "Appendix T's five-observables merged in: it is three edges on the board and the observables are Elizondo's framing; the content stays in research/observables-view.json.",
- "questions": [],
- "record": [],
- "related": [],
+ "questions": [
+  "Has any document naming Elizondo in an AATIP role ever existed, and why did DIA's searches for his AATIP correspondence return nothing?",
+  "Did Dana White confirm in December 2017 that Elizondo led AATIP, and where is the primary record of it?",
+  "Who was the Defense Department official who handed the three video files to Christopher Mellon in the Pentagon parking lot?",
+  "Did Reid personally direct the June 2019 public statements, or did the formula start and stay with Tipton?",
+  "Did Mattis read the resignation letter, and did the six questions come from him or his staff?",
+  "Which Lockheed facility is alleged to have held the material, and is the CIA officer said to have blocked the transfer the one George Knapp names?",
+  "Did Reckoning pass DOPSR review, and what, if anything, was struck?"
+ ],
+ "record": [
+  {
+   "cite": [
+    "c-186d26209b",
+    "c-82e9a28dc8",
+    "e-be33e63ad5"
+   ],
+   "text": "DIA wrote to Senators McCain and Reed of the Senate Armed Services Committee on 9 January 2018, over the signature of records chief Brian Jenkins, stating that the purpose of AATIP was to investigate foreign advanced aerospace weapon threats out to 40 years and enclosing a list of 38 products."
+  },
+  {
+   "cite": [
+    "c-7af2f880bd",
+    "c-5f9a42cc0a",
+    "c-fb4881957e",
+    "e-b20bd03bc8"
+   ],
+   "text": "A DIA information memo to the Under Secretary for Acquisition, Technology and Logistics, a four-page version of which is dated 1 December 2010, uses only the AATIP name and says the reports were of limited value to DIA but could be of merit to other organisations, and that the project could be transitioned to another component."
+  },
+  {
+   "cite": [
+    "c-8cb31106c6",
+    "c-4aa992e258",
+    "c-5df4646487",
+    "e-113c095695",
+    "e-c3334edce8"
+   ],
+   "text": "Elizondo's letter of 3 October 2017 resigns his post effective 4 October and asks for deferred retirement. His memorandum of 4 October, saluted to the Secretary, says certain individuals in the Department remained opposed to further research despite overwhelming evidence, and that the Department must take seriously Navy accounts of unusual aerial systems interfering with weapon platforms."
+  },
+  {
+   "cite": [
+    "c-1671cff26a",
+    "c-31277f4a05",
+    "e-dd50449ae0",
+    "c-c98ac5e49b"
+   ],
+   "text": "Elizondo submitted the DD Form 1910 for the GoFast, Gimbal and FLIR video files on 9 August 2017 and it was approved on 24 August. Its stated purpose was not publication but research, analysis and sharing with government and industry partners to help identify and defeat UAS threats. The Navy later said DOPSR had no record of a request for unrestricted release of the videos in 2017."
+  },
+  {
+   "cite": [
+    "c-704becfaad",
+    "c-6f6a03a0e0",
+    "c-61960ca93c",
+    "c-0b3d56decc",
+    "c-d065f90598",
+    "e-0b688dc499"
+   ],
+   "text": "Garry Reid's December 2017 memoranda assert that Elizondo aggrandized his role, served as an action officer from 2008 to 2017 with no documented AATIP responsibilities, and that AATIP ended in 2012. One answers six questions from the Secretary of Defense's office, including one on the uncertain provenance of the second resignation letter; they record that AFOSI concluded the videos were unclassified."
+  },
+  {
+   "cite": [
+    "c-4286818359",
+    "c-549434bcb0",
+    "e-041904e17a",
+    "e-6e9f689760"
+   ],
+   "text": "Released emails show Neill Tipton, Elizondo's superior from about 2010 to 2012, writing on 7 May 2019 that Elizondo had no assigned responsibilities for the programme. The same chain warns that the Department may be contradicting previous statements and directs that messages be kept in sync."
+  },
+  {
+   "cite": [
+    "c-0a6dd9aeca",
+    "c-2653cd6ac6",
+    "e-84374889be",
+    "e-60bca54202"
+   ],
+   "text": "Spokesman Christopher Sherwood said on 1 June 2019 that Elizondo had no responsibilities for AATIP in OUSD(I), and Susan Gough said on 13 June 2019 that DIA administered AATIP, that Elizondo was never assigned to DIA, and that he interacted with the programme office but did not lead it."
+  },
+  {
+   "cite": [
+    "c-4522a28213",
+    "e-da15f2a0eb",
+    "e-c626fa7977",
+    "e-a46c5f7e6b",
+    "e-dbad302a21"
+   ],
+   "text": "The Department's statements on what AATIP did have moved: Sherwood said on 22 May 2019 that it did pursue research into unidentified aerial phenomena; Gough said on 6 December 2019 that neither AATIP nor AAWSAP was UAP related and called Sherwood's statement not entirely fact-based; and on 21 May 2021 she conceded the contract allowed research drawing on UAP reports."
+  },
+  {
+   "cite": [
+    "c-e892d42c88",
+    "c-af485448ba",
+    "e-fc30e775f0",
+    "c-c423d0fc5d"
+   ],
+   "text": "AARO's Volume I states that AATIP was never an official DoD programme and that the name was used after AAWSAP's cancellation by an informal community of interest inside DoD that researched military UAP sightings as an ancillary duty. It treats 2009 as the standup year for both."
+  },
+  {
+   "cite": [
+    "c-ad2e15fa12",
+    "c-1a5fe01099"
+   ],
+   "text": "DoD Inspector General investigations found that Reid violated the Joint Ethics Regulation, used personal email for official business 65 times and made unwelcome physical contact with subordinates; he was removed by April 2022. FOIA releases of Elizondo's IG case include a 103-page transcript of his February 2023 interview."
+  },
+  {
+   "cite": [
+    "c-7e67183956",
+    "c-dd203b1035",
+    "c-1ead60130d"
+   ],
+   "text": "Four of the five observables credited to Elizondo appear as design goals in a Navy invention-disclosure briefing released under FOIA, PAX 205; sudden acceleration does not. His sworn written statement of November 2024 does not state the observables at all."
+  },
+  {
+   "cite": [
+    "c-dd0cf33dd6",
+    "e-b6aa2b00c2",
+    "e-092d740a3c"
+   ],
+   "text": "TTSA's SEC filings list Elizondo as a significant employee, and he is named as TTSA's principal investigator on the CRADA it signed with an Army laboratory in October 2019."
+  }
+ ],
+ "related": [
+  "aawsap-baass",
+  "ttsa",
+  "nyt-2017",
+  "hearing-2024",
+  "aaro-historical-record",
+  "dirds",
+  "immaculate-constellation",
+  "navy-patents",
+  "denial-ledger",
+  "perception-management",
+  "whistleblower-channels",
+  "funding-channels",
+  "officials-on-record",
+  "skinwalker-nids"
+ ],
  "section": "official-study",
  "span": {
   "from": "2008",
   "to": "2024"
  },
- "status": "draft",
- "summary": [],
+ "status": "verified",
+ "summary": [
+  {
+   "cite": [
+    "c-b23ee1cc0d",
+    "e-a2d15697ff",
+    "c-ef578c7294",
+    "e-4b4f99d4a9"
+   ],
+   "text": "One effort carried three names. A single 2009 DoD packet records AAWSAP as the official contract title, AAITP as Senator Reid's usage and AATIP as the unclassified nickname, and a DIA memo of November 2009 treats Reid's AAITP as the same thing as the AAWSAP contract."
+  },
+  {
+   "cite": [
+    "c-961ee028e3",
+    "c-a8f93a1a77",
+    "c-d11b56fd97",
+    "e-f3489369e1"
+   ],
+   "text": "Reid asked the Deputy Secretary of Defense in 2009 to put the programme under restricted special access protection. DIA's position was that the deliverables did not meet the criteria for a special access programme, and the request was denied."
+  },
+  {
+   "cite": [
+    "e-7e52055715",
+    "e-d1da23f925",
+    "c-c4b78fa8b1",
+    "e-df129a8e7b"
+   ],
+   "text": "The New York Times disclosed the programme on 16 December 2017: its existence, its funding arranged by Reid, most of the money going to Bigelow Aerospace, and Elizondo's resignation. A Pentagon spokesman confirmed it had existed and was shut down in 2012."
+  },
+  {
+   "cite": [
+    "c-0fcad99b04",
+    "e-1d15253ef1",
+    "e-f32d2ac604",
+    "e-c5e7fce667",
+    "c-2308ae3439"
+   ],
+   "text": "Elizondo resigned as Director, National Programs Special Management Staff in OUSD(I), effective 4 October 2017, and joined To The Stars Academy. The Department's written denial of his role began inside OUSD(I) within a week of the Times story; he later filed an Inspector General complaint against the officials behind it and testified under oath before the House in November 2024."
+  }
+ ],
  "title": "AATIP and Luis Elizondo"
 }

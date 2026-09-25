@@ -26,7 +26,7 @@
  ],
  "absorbs": [],
  "essays": [],
- "status": "drafted",
+ "status": "verified",
  "notes": "The most stable community on the board (stability 1.00 in the 24 September run). TTSA is a private company in the official-study section because its CRADA was with the Army.",
  "appendixT": "ttsa",
  "lead": {
@@ -77,7 +77,7 @@
    ]
   },
   {
-   "text": "The company's pre-history runs through DeLonge's 2016 emails to John Podesta about a General McCasland, and its afterlife through the specimen, which passed through the Army to AARO and Oak Ridge.",
+   "text": "The company's pre-history runs through DeLonge's 2016 emails to John Podesta about a General McCasland, and its afterlife through the specimen, which by AARO's account passed through the Army to AARO and Oak Ridge.",
    "cite": [
     "c-6cae43c392",
     "e-14448fc00e",
@@ -249,10 +249,10 @@
    ]
   },
   {
-   "text": "TTSA hosted and distributed the three Navy videos from 2017, framing them as officially cleared, a framing the Navy contested in September 2019, when its spokesman said the Navy designates the objects in them unidentified aerial phenomena.",
+   "text": "TTSA hosted and distributed the three Navy videos from 2017, framing them as officially cleared, a framing the Navy contested in September 2019, when its spokesman said neither the cognizant Navy offices nor DOPSR had any record of a request for unrestricted release of the videos in 2017.",
    "cite": [
     "e-d0038ba9e4",
-    "c-20c625ae80"
+    "c-c98ac5e49b"
    ]
   },
   {
@@ -335,10 +335,6 @@
    "role": "researcher"
   },
   {
-   "id": "kit-green",
-   "role": "researcher"
-  },
-  {
    "id": "earthtech-international",
    "role": "contractor"
   },
@@ -405,6 +401,10 @@
   {
    "id": "the-intercept",
    "role": "journalist"
+  },
+  {
+   "id": "dopsr",
+   "role": "institution"
   }
  ],
  "questions": [
