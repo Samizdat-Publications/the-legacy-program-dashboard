@@ -5,11 +5,13 @@
 "band": null,
 "claims": [
 {
+"id": "c-a878c5eba0",
 "source": "NICAP, 'Wurtsmith and Others', http://www.nicap.org/articles/CI-Wurtsmith.htm , opened 2026-09-19",
 "text": "NICAP cites a Grand Forks AFB command post event dispatch of 4 November 1975 at 0301 recording that shots were possibly fired from on base toward hard alert aircraft on the SAC alert ramp, and a detailed incident message of 5 November 1975 recording five shots heard in groups of three and two about two seconds apart, naming Captain Klawon of the 321st Security Police Squadron. NEITHER DOCUMENT WAS OPENED IN ITS OWN TEXT BY THIS BOARD and the claim is carried at Tier 3 on that basis.",
 "tier": 3
 },
 {
+"id": "c-4a2bbcb42a",
 "source": "CINCNORAD message of 11 November 1975 as excerpted at http://www.nicap.org/intsac.htm , opened 2026-09-19",
 "text": "Grand Forks is not named in the CINCNORAD four-part message of 11 November 1975, which lists Loring, Wurtsmith, Malmstrom, Minot and Canadian Forces Station Falconbridge. Its inclusion in the 1975 sequence rests on the separate message traffic above and on the secondary literature, not on the summary message.",
 "tier": 3
@@ -25,6 +27,7 @@
 "dateEnd": "1975-11-05",
 "dateStart": "1975-11-04",
 "direction": "in",
+"edgeId": "e-6d661f67f5",
 "edgeLabel": "Grand Forks is in the sequence on separate message traffic, not on the CINCNORAD summary",
 "id": "sac-overflights-1975",
 "l0": true,
@@ -51,6 +54,7 @@
 "dateEnd": "1975-11-05",
 "dateStart": "1975-11-04",
 "direction": "out",
+"edgeId": "e-82410e4157",
 "edgeLabel": "SAC installation; 321st Strategic Missile Wing",
 "id": "strategic-air-command",
 "l0": true,
@@ -106,7 +110,7 @@
 ],
 "sub": "SAC installation; 321st Strategic Missile Wing; the 4 to 5 November 1975 alert-ramp incident in which shots were alleged to have been fired",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 987 of 1170, score 16). 2 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D1.",
+"tierRationale": "Re-graded C on a global pass (rank 958 of 1138, score 16). 2 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D1.",
 "timeline": [],
 "unverified": [
 "The Grand Forks command post dispatch of 4 November 1975 and the incident message of 5 November 1975, in their own text. NOT OPENED. This is the largest gap in the 1975 documentary spine, and it is attached to its most serious allegation.",

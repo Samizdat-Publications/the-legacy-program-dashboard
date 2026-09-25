@@ -5,16 +5,19 @@
 "band": null,
 "claims": [
 {
+"id": "c-5d28828837",
 "source": "UAP Gerb, 'The Hidden Wing' description, 30 January 2026",
 "text": "Alleged USAF legacy involvement is concentrated in SAF/AQ (with SAF/AQX, SAF/AQL Special Programs and SAF/AQR), SAF/AA, AF/TE and AFOSI.",
 "tier": 2
 },
 {
+"id": "c-4a61c13c2f",
 "source": "UAP Gerb, 'The Hidden Wing' description, 30 January 2026",
 "text": "SAF/AAH (Sensitive Activities) and SAF/AZ and their directors Russell Wyler and William Maclure likely serve as the Air Force SES-2 gatekeeper mentioned by Christopher Mellon.",
 "tier": 2
 },
 {
+"id": "c-1cf6dd04be",
 "source": "UAP Gerb, 'The Hidden Wing' description, 30 January 2026",
 "text": "AFOSI/PJ (Office of Special Projects) and its former director Terry Phillips, now Northrop Grumman VP for Security, are alleged operative nodes.",
 "tier": 2
@@ -30,6 +33,7 @@
 "dateEnd": "2026",
 "dateStart": "1947",
 "direction": "out",
+"edgeId": "e-61fa053866",
 "edgeLabel": "Names AFOSI/PJ, the Office of Special Projects, as an operative node",
 "id": "afosi",
 "l0": true,
@@ -51,6 +55,7 @@
 "dateEnd": "2026",
 "dateStart": "2026",
 "direction": "out",
+"edgeId": "e-83af772df1",
 "edgeLabel": "Gerb cites the film's characterisation of the Air Force",
 "id": "age-of-disclosure",
 "l0": false,
@@ -72,6 +77,7 @@
 "dateEnd": "2026",
 "dateStart": "2026",
 "direction": "out",
+"edgeId": "e-339ddd1ba2",
 "edgeLabel": "Identifies candidates for Mellon's unnamed Air Force SES-2 gatekeeper",
 "id": "christopher-mellon",
 "l0": false,
@@ -93,6 +99,7 @@
 "dateEnd": "2026",
 "dateStart": "2026",
 "direction": "in",
+"edgeId": "e-c7f4f6735e",
 "edgeLabel": "Gerb authored the USAF structural map",
 "id": "uap-gerb",
 "l0": false,
@@ -143,7 +150,7 @@
 ],
 "sub": "Video investigation, 30 Jan 2026",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 562 of 1170, score 29). 4 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 558 of 1138, score 29). 4 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D3.",
 "timeline": [
 {
 "claimTier": null,

@@ -5,16 +5,19 @@
 "band": null,
 "claims": [
 {
+"id": "c-3391c8d93a",
 "source": "Department of Defense statement, 27 April 2020",
 "text": "On 27 April 2020 DoD authorised the release of three unclassified Navy videos, one taken in November 2004 and two in January 2015, stating 'the aerial phenomena observed in the videos remain characterized as unidentified.'",
 "tier": 1
 },
 {
+"id": "c-20c625ae80",
 "source": "U.S. Navy statement, 10 September 2019",
 "text": "Navy spokesman Joseph Gradisher stated on 10 September 2019: 'The Navy designates the objects contained in these videos as unidentified aerial phenomena.'",
 "tier": 1
 },
 {
+"id": "c-51ac5bb1d9",
 "source": "Christopher Mellon in The Phenomenon (2020), reported by Vice, 20 October 2020",
 "text": "Christopher Mellon stated he received the videos from a Defense Department official in the Pentagon parking lot and provided them to the New York Times.",
 "tier": 2
@@ -30,6 +33,7 @@
 "dateEnd": "2017",
 "dateStart": "2017",
 "direction": "in",
+"edgeId": "e-21a4a99511",
 "edgeLabel": "Received the three files in the Pentagon parking lot and passed them to the NYT",
 "id": "christopher-mellon",
 "l0": false,
@@ -51,6 +55,7 @@
 "dateEnd": "2017",
 "dateStart": "2017",
 "direction": "in",
+"edgeId": "e-874c0c23da",
 "edgeLabel": "Cleared the GoFast, Gimbal and FLIR files for internal distribution only",
 "id": "dd-form-1910-2017",
 "l0": false,
@@ -72,6 +77,7 @@
 "dateEnd": "2020",
 "dateStart": "2020",
 "direction": "in",
+"edgeId": "e-7608105746",
 "edgeLabel": "DoD authorises release, 27 April 2020; phenomena 'remain characterized as unidentified'",
 "id": "dod-video-release-2020",
 "l0": false,
@@ -93,6 +99,7 @@
 "dateEnd": "2019",
 "dateStart": "2019",
 "direction": "in",
+"edgeId": "e-315bcc4b6b",
 "edgeLabel": "Navy designates the objects as unidentified aerial phenomena, 10 Sep 2019",
 "id": "joseph-gradisher",
 "l0": false,
@@ -114,6 +121,7 @@
 "dateEnd": "2020",
 "dateStart": "2017",
 "direction": "in",
+"edgeId": "e-d0038ba9e4",
 "edgeLabel": "Hosted and distributed the three videos from 2017-2018",
 "id": "ttsa",
 "l0": true,
@@ -180,7 +188,7 @@
 ],
 "sub": "Three ATFLIR clips: one from November 2004, two from January 2015",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 244 of 1170, score 42). 5 connections, 3 of them custody/funding/programmatic. Axes C2/A2/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 248 of 1138, score 42). 5 connections, 3 of them custody/funding/programmatic. Axes C2/A2/D3.",
 "timeline": [],
 "unverified": []
 }

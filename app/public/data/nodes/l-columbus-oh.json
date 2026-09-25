@@ -5,11 +5,13 @@
 "band": null,
 "claims": [
 {
+"id": "c-41eb815ccd",
 "source": "NASA SP-5110, 55-Nitinol: The Alloy With a Memory, Battelle Memorial Institute for NASA, 1972, chapter 1 p. 1 and references 12 and 74, https://ntrs.nasa.gov/api/citations/19720022818/downloads/19720022818.pdf ; NASA CR-1433, Nitinol Characterization Study, September 1969, foreword p. iii and p. 2, https://ntrs.nasa.gov/api/citations/19690026989/downloads/19690026989.pdf ; US Patent 3,174,851, https://patents.google.com/patent/US3174851A/en",
 "text": "The federal literature on nitinol, one report of it written by Battelle itself, does not support a Battelle 1948-49 lineage for the alloy. NASA SP-5110, prepared for NASA by Battelle Memorial Institute in 1972, opens: 'Some 10 years ago, Buehler and Wiley of the U.S. Naval Ordnance Laboratory developed a series of engineering alloys that possess a unique mechanical (shape) memory. The generic name of the series of alloys is 55-Nitinol, where Nitinol stands for Nickel Titanium Naval Ordnance Laboratory.' The earliest Naval Ordnance Laboratory nitinol report cited anywhere in its reference list is NOLTR 61-75 of 3 August 1961; US Patent 3,174,851 was filed on 1 December 1961; and NASA CR-1433 of September 1969 records Battelle's own role as a subcontractor to Goodyear Aerospace which 'processed the basic Nitinol rod'. The allegation that Wright-Patterson-sponsored Battelle reports on nickel-titanium alloy from 1948-49 are missing from Air Force and Battelle archives is kept on this board as the allegation it is, and is unsupported by the federal literature opened here.",
 "tier": 1
 },
 {
+"id": "c-8a2860f2c5",
 "source": "Battelle corporate materials; NSF NCSES FFRDC master list administrator entries",
 "text": "Battelle Memorial Institute is headquartered in Columbus, Ohio and was founded in 1929.",
 "tier": 1
@@ -25,6 +27,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-a063120ae0",
 "edgeLabel": "Battelle Memorial Institute headquarters",
 "id": "battelle",
 "l0": true,
@@ -56,6 +59,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-a03abd6c70",
 "edgeLabel": "Project Stork / Blue Book Special Report No. 14 produced here",
 "id": "project-blue-book",
 "l0": true,
@@ -131,7 +135,7 @@
 ],
 "sub": "Battelle Memorial Institute headquarters since 1929; ~65 miles from Wright-Patterson AFB",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 883 of 1170, score 19). 2 connections, 0 of them custody/funding/programmatic. Axes C2/A1/D0.",
+"tierRationale": "Re-graded C on a global pass (rank 863 of 1138, score 19). 2 connections, 0 of them custody/funding/programmatic. Axes C2/A1/D0.",
 "timeline": [],
 "unverified": []
 }

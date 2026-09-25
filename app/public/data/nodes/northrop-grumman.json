@@ -5,16 +5,19 @@
 "band": "funding",
 "claims": [
 {
+"id": "c-a3c1e487f5",
 "source": "DOE/OSTI records listing Bechtel Nevada and National Security Technologies, LLC as successive Nevada Test Site research organisations",
 "text": "National Security Technologies LLC, a Northrop Grumman-led consortium, succeeded Bechtel Nevada as management and operating contractor for the Nevada Test Site from 2006.",
 "tier": 1
 },
 {
+"id": "c-af09ced407",
 "source": "USAspending.gov recipient search, retrieved 12 August 2026",
 "text": "USAspending records prime contract obligations to Northrop Grumman Systems Corporation in the tens of billions of dollars since FY2008.",
 "tier": 1
 },
 {
+"id": "c-76384cbab4",
 "source": "George Knapp via Liberation Times, 28 February 2023",
 "text": "Senate Appropriations investigator Richard D'Amato is reported to have considered it 'entirely feasible' that the cover-up sat inside a private company such as Lockheed Martin, EG&G or Northrop Grumman. Reasoning: reported at second hand by George Knapp; D'Amato's own public statement says the inquiry found nothing meriting further investigation.",
 "tier": 3
@@ -30,6 +33,7 @@
 "dateEnd": null,
 "dateStart": "2026",
 "direction": "in",
+"edgeId": "e-33af19ec8c",
 "edgeLabel": "Named as a target of his records investigation",
 "id": "eric-burlison",
 "l0": false,
@@ -51,6 +55,7 @@
 "dateEnd": "2026",
 "dateStart": "2001",
 "direction": "in",
+"edgeId": "e-9b535997a6",
 "edgeLabel": "Alleges IRAD self-funding of a breakaway programme after 9/11",
 "id": "gerb-northrop-trw-investigation",
 "l0": false,
@@ -72,6 +77,7 @@
 "dateEnd": "2017",
 "dateStart": "2006",
 "direction": "out",
+"edgeId": "e-a9e2b1ee93",
 "edgeLabel": "A Northrop Grumman-led consortium took over Nevada Test Site management in 2006",
 "id": "l-nevada-test-site",
 "l0": false,
@@ -98,6 +104,7 @@
 "dateEnd": "2000-12",
 "dateStart": "2000-12",
 "direction": "in",
+"edgeId": "e-1e3c845364",
 "edgeLabel": "Named in his own self-stated client list, 2000",
 "id": "mark-mccandlish",
 "l0": false,
@@ -119,6 +126,7 @@
 "dateEnd": null,
 "dateStart": "2026",
 "direction": "in",
+"edgeId": "e-172dfa0777",
 "edgeLabel": "Named among the primes whose MITRE-related work Congress demanded an accounting of",
 "id": "mitre-corporation",
 "l0": true,
@@ -140,6 +148,7 @@
 "dateEnd": "1985",
 "dateStart": "1978",
 "direction": "in",
+"edgeId": "e-4b0d85477e",
 "edgeLabel": "Northrop Corp. the airframe contractor",
 "id": "northrop-tacit-blue",
 "l0": false,
@@ -161,6 +170,7 @@
 "dateEnd": "2002",
 "dateStart": "2002",
 "direction": "in",
+"edgeId": "e-e21cd21c0e",
 "edgeLabel": "Merged into a Northrop Grumman subsidiary, 11 December 2002",
 "id": "trw-inc",
 "l0": false,
@@ -288,7 +298,7 @@
 ],
 "sub": "Prime contractor; B-2/B-21; former Nevada Test Site management partner",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 417 of 1170, score 34). 7 connections, 1 of them custody/funding/programmatic. Axes C2/A3/D0.",
+"tierRationale": "Re-graded B on a global pass (rank 416 of 1138, score 34). 7 connections, 1 of them custody/funding/programmatic. Axes C2/A3/D0.",
 "timeline": [
 {
 "claimTier": null,

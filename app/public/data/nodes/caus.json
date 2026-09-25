@@ -5,16 +5,19 @@
 "band": null,
 "claims": [
 {
+"id": "c-effc1ef723",
 "source": "NSA UFO FOIA collection litigation records",
 "text": "CAUS was the plaintiff in Civil Action No. 80-1562, Citizens Against Unidentified Flying Objects Secrecy v. National Security Agency, in which the presiding judge received in camera a Top Secret explanation for the withholding and ruled for NSA.",
 "tier": 1
 },
 {
+"id": "c-b007491a38",
 "source": "CourtListener case records",
 "text": "The D.C. Circuit decided the appeal on 3 November 1981; the Supreme Court denied certiorari on 8 March 1982.",
 "tier": 1
 },
 {
+"id": "c-e3cab5cee0",
 "source": "GAO/NSIAD-95-187",
 "text": "GAO's 1995 Roswell records report lists NSA holdings of 'FOIA records, Citizens Against UFO Secrecy' among the record sets it searched.",
 "tier": 1
@@ -30,6 +33,7 @@
 "dateEnd": "1982",
 "dateStart": "1980",
 "direction": "out",
+"edgeId": "e-0c229c96b4",
 "edgeLabel": "CAUS was the plaintiff in Civil Action No. 80-1562",
 "id": "caus-v-nsa",
 "l0": false,
@@ -56,6 +60,7 @@
 "dateEnd": "1995",
 "dateStart": "1977",
 "direction": "in",
+"edgeId": "e-886b22f9b6",
 "edgeLabel": "Gersten directed CAUS and brought its FOIA litigation",
 "id": "peter-gersten",
 "l0": false,
@@ -131,7 +136,7 @@
 ],
 "sub": "Private FOIA litigation organisation, 1977-2000s",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 950 of 1170, score 17). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 923 of 1138, score 17). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.",
 "timeline": [
 {
 "claimTier": null,

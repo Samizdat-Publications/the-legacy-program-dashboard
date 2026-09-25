@@ -5,41 +5,49 @@
 "band": null,
 "claims": [
 {
+"id": "c-d38a2907a1",
 "source": "JANAP 146(C), Article 201(1)(c)",
 "text": "JANAP 146(C), dated 10 March 1954, requires airborne personnel to report 'Unidentified flying objects' under CIRVIS while in flight, except over foreign territory.",
 "tier": 1
 },
 {
+"id": "c-8875d910d9",
 "source": "JANAP 146(C), Article 308(a)",
 "text": "Article 308(a) states 'The unauthorized transmission or revelation of the contents of MERINT reports in any manner is prohibited' and references 18 U.S. Code sections 793 and 794.",
 "tier": 1
 },
 {
+"id": "c-c184d9c2d3",
 "source": "Bolender memorandum, 20 Oct 1969",
 "text": "The Bolender memorandum of 20 October 1969 states that UFO reports which could affect national security are made under JANAP 146 or AFM 55-11 and are not part of the Blue Book system.",
 "tier": 1
 },
 {
+"id": "c-5ba1948f36",
 "source": "Inference from JANAP 146(C) read against the USAF Blue Book fact sheet and the Bolender memo",
 "text": "Mandatory reporting under criminal penalty, running in parallel with a public program declaring the subject unimportant, is the operational definition of a two-track concealment structure.",
 "tier": 3
 },
 {
+"id": "c-138ed866d4",
 "source": "JANAP 146(E) with Change No. 2, 17 May 1977, with the OSD FOIA release letter of 28 February 1994, ref 93-FOI-2428/L",
 "text": "JANAP 146(E), 'Canadian - United States Communications Instructions for Reporting Vital Intelligence Sightings (CIRVIS/MERINT)', complete with Change No. 2 promulgated 17 May 1977, still lists unidentified flying objects as a reportable category at Article 201 -- eight years after Project Blue Book closed. It was released on 28 February 1994 by the Assistant to the Secretary of Defense under FOIA reference 93-FOI-2428/L.",
 "tier": 1
 },
 {
+"id": "c-b411c69d5e",
 "source": "JANAP 146(E), Article 208",
 "text": "JANAP 146(E) Article 208 states: 'Any person who makes an unauthorized transmission or disclosure of such a report may be liable to prosecution under Title 18 of the US Code 793, Chapter 37, or the Canadian Official Secrets Act of 1939, as amended. This should not be construed as requiring classification of CIRVIS messages. The purpose is to emphasize the necessity for the handling of such information within official channels only.'",
 "tier": 1
 },
 {
+"id": "c-29d7e08515",
 "source": "18 U.S.C. 793, source credit and amendment notes, Office of the Law Revision Counsel; read against JANAP 146(C) and (E)",
 "text": "JANAP states no dollar figure and no term of imprisonment in any revision read. It incorporates 18 U.S.C. 793, whose penalty from the Act of June 25, 1948 until 1994 was a fine of not more than $10,000 or imprisonment of not more than ten years, or both: the amendment note records that 'Pub. L. 103-322 substituted fined under this title for fined not more than $10,000'. The $10,000 figure must be attributed to 18 U.S.C. 793, never to JANAP 146.",
 "tier": 1
 },
 {
+"id": "c-065fa9a5f1",
 "source": "JANAP 146(C), 10 March 1954, letter of promulgation",
 "text": "JANAP 146(C), 10 March 1954, was issued by the Joint Chiefs of Staff, Joint Communications-Electronics Committee, is 'an unclassified publication', and its letter of promulgation states that it 'supersedes JANAP 146 (B) ... and all other conflicting instructions. JANAP 146(B) shall be destroyed by burning.'",
 "tier": 1
@@ -55,6 +63,7 @@
 "dateEnd": "1969",
 "dateStart": "1969",
 "direction": "out",
+"edgeId": "e-db9a42211f",
 "edgeLabel": "Bolender names JANAP 146 as the channel Blue Book was not",
 "id": "bolender-memo",
 "l0": false,
@@ -81,6 +90,7 @@
 "dateEnd": "1969",
 "dateStart": "1954",
 "direction": "in",
+"edgeId": "e-956bb67739",
 "edgeLabel": "The public statistics are the residue of a filter, not the corpus",
 "id": "project-blue-book",
 "l0": true,
@@ -107,6 +117,7 @@
 "dateEnd": "1969",
 "dateStart": "1954",
 "direction": "out",
+"edgeId": "e-bd9b6d6043",
 "edgeLabel": "JANAP created a parallel reporting channel outside Blue Book",
 "id": "project-blue-book",
 "l0": true,
@@ -145,6 +156,7 @@
 "by": null,
 "claimTier": 3,
 "denialKind": "association",
+"edgeId": "e-956bb67739",
 "label": "The public statistics are the residue of a filter, not the corpus",
 "note": "If national-security reports went up the JANAP channel as Bolender states, then the 12,618 sightings and 701 unknowns describe only what the filtered public program retained.",
 "of": null,
@@ -207,7 +219,7 @@
 ],
 "sub": "Joint Army-Navy-Air Force Publication; JANAP 146(C) 10 March 1954",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 185 of 1170, score 47). 3 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D1.",
+"tierRationale": "Re-graded B on a global pass (rank 185 of 1138, score 47). 3 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D1.",
 "timeline": [
 {
 "claimTier": null,

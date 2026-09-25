@@ -8,41 +8,49 @@
 "chronology": [],
 "claims": [
 {
+"id": "c-6361877a4f",
 "source": "SEC EDGAR company filing index, CIK 0000104030, https://data.sec.gov/submissions/CIK0000104030.json ; The Wackenhut Corporation DEF 14A filed 31 March 1999, https://www.sec.gov/Archives/edgar/data/0000104030/000095014499003822/0000950144-99-003822.txt ; DEF 14A for the 1998 annual meeting and DEFM14A filed 10 April 2002, https://www.sec.gov/Archives/edgar/data/0000104030/000095014498003074/0000950144-98-003074.txt",
 "text": "He is not among the directors of The Wackenhut Corporation in any proxy statement EDGAR holds. The proxy for the annual meeting of 7 May 1999 lists twelve directors by name, age and year of first election, among them Julius W. Becton Jr., Benjamin R. Civiletti, Paul X. Kelley, Thomas P. Stafford and George R. Wackenhut, and the name Inman appears nowhere in it. It appears nowhere in the proxy for the 1998 annual meeting or in the 2002 merger proxy either. The corporation reported under CIK 0000104030, SIC 7381; its earliest filing of any kind is dated 24 March 1994 and its earliest proxy statement is a preliminary 14A of 24 March 1997, so no proxy exists on EDGAR for any earlier year and the board's composition before 1997 is unestablished in either direction.",
 "tier": 1
 },
 {
+"id": "c-0fc61c6f33",
 "source": "Danny Jones Podcast, ep. 320, 4 August 2025, 2:06:30, mapped at research/leads/dannyjones-corpus-20.md",
 "text": "On the Danny Jones Podcast, episode 320, 4 August 2025, at 2:06:30, the guest who identifies himself only as UAP Gerb said Bobby Ray Inman was a Wackenhut board member. The corporation's own proxy statements for 1997 to 2002 do not name him.",
 "tier": 2
 },
 {
+"id": "c-34a7cabf51",
 "source": "PROJECT AZORIAN: THE STORY OF THE HUGHES GLOMAR EXPLORER, CIA reading-room document 0005301269, searched in full, https://archive.org/download/cia-readingroom-document-0005301269/0005301269_djvu.txt",
 "text": "This node's unresolved line on a National Underwater Reconnaissance Office stays as written. A third corpus running has failed to open any record of the office: nro.gov and nsa.gov returned HTTP 403, irp.fas.org has no NURO page, the govinfo search API returned a count of zero for the phrase, and the strings NURO and National Underwater Reconnaissance occur nowhere in the fifty released pages of the CIA's own AZORIAN history.",
 "tier": 2
 },
 {
+"id": "c-edea5d8b5d",
 "source": "Nomination of Admiral B.R. Inman, hearing before the Senate Select Committee on Intelligence, 97th Congress 1st session, 3 February 1981, GPO print 74-227 O, https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-hearings-97inman.pdf",
 "text": "He gave his own career to the Senate: 'Subsequent assignments included service as the fleet intelligence officer on the staff of the commander, 7th Fleet; attendance at the National War College; executive assistant and senior aide to the Vice Chief of Naval Operations; assistant chief of staff for intelligence to the commander in chief, U.S. Pacific Fleet; Director of Naval Intelligence; and Vice Director for Plans, Operations, and Support of the Defense Intelligence Agency.'",
 "tier": 1
 },
 {
+"id": "c-fbd33f161a",
 "source": "Nomination of Admiral B.R. Inman, Senate Select Committee on Intelligence, 3 February 1981, https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-hearings-97inman.pdf",
 "text": "He dates the NSA directorship himself and states the nomination: 'since July 5, 1977, I have had the pleasure of serving as Director, National Security Agency', and 'I have been nominated by the President to serve as the Deputy Director of Central Intelligence.'",
 "tier": 1
 },
 {
+"id": "c-162c17c6b0",
 "source": "Science Applications International Corporation, DEF 14A filed 28 May 2003, SEC EDGAR accession 0001047469-03-019902, https://www.sec.gov/Archives/edgar/data/353394/000104746903019902/a2110788zdef14a.htm",
 "text": "SAIC's own proxy records the relationship: 'B.R. Inman, age 72, Director, Director since 1982. Admiral Inman, USN (Ret.) joined the Company in 1990 as a part-time employee and, in that capacity, advises the Company on a wide variety of strategic planning issues.' He is listed as Chairperson of the Executive Committee and a member of the Nominating Committee, and received $132,129 of compensation under the part-time employee arrangement in fiscal 2003.",
 "tier": 1
 },
 {
+"id": "c-be6d4ed42c",
 "source": "Science Applications International Corporation, DEF 14A filed 28 May 2003, SEC EDGAR accession 0001047469-03-019902, https://www.sec.gov/Archives/edgar/data/353394/000104746903019902/a2110788zdef14a.htm",
 "text": "He did not head SAIC. The same proxy names 'J.R. Beyster, age 78, Chairman of the Board, Chief Executive Officer and President, Director since 1969' and records that Beyster 'founded the Company in 1969 and has served as Chairman of the Board and Chief Executive Officer since that time'. The Michels corpus at corpus 12 file 3, 0:19:28 says Inman headed SAIC; the company's own proxy statement contradicts it.",
 "tier": 1
 },
 {
+"id": "c-7e061bd18e",
 "source": "SEC Form 4, EDGAR accession 0001082875-03-000004, filed 14 April 2003, https://www.sec.gov/Archives/edgar/data/353394/000108287503000004/inm259.htm",
 "text": "The directorship is independently on file as a Section 16 insider report: SEC Form 4 for INMAN, BOBBY R, statement for 10 April 2003, issuer Science Applications International Corporation, with the 'Director' box checked and 'Form filed by One Reporting Person'.",
 "tier": 1
@@ -58,6 +66,7 @@
 "dateEnd": "1982",
 "dateStart": "1981",
 "direction": "out",
+"edgeId": "e-eb620b89e7",
 "edgeLabel": "Nominated and heard as Deputy Director of Central Intelligence, 3 February 1981",
 "id": "cia",
 "l0": true,
@@ -84,6 +93,7 @@
 "dateEnd": "1977",
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-baa8b22e93",
 "edgeLabel": "Vice Director for Plans, Operations and Support of DIA",
 "id": "dia",
 "l0": true,
@@ -105,6 +115,7 @@
 "dateEnd": "1981",
 "dateStart": "1977-07-05",
 "direction": "out",
+"edgeId": "e-53d5cd6bf6",
 "edgeLabel": "Director of the National Security Agency from 5 July 1977",
 "id": "nsa",
 "l0": true,
@@ -126,6 +137,7 @@
 "dateEnd": null,
 "dateStart": "1982",
 "direction": "out",
+"edgeId": "e-19c8d53c8b",
 "edgeLabel": "Director of SAIC since 1982 and a paid part-time employee since 1990",
 "id": "saic",
 "l0": false,
@@ -217,7 +229,7 @@
 "status": "former",
 "sub": "Director, National Security Agency 1977-1981; Deputy Director of Central Intelligence 1981-1982; Director of SAIC from 1982",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 262 of 1170, score 41). 4 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D1.",
+"tierRationale": "Re-graded B on a global pass (rank 266 of 1138, score 41). 4 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D1.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": [

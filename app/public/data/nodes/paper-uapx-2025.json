@@ -5,6 +5,7 @@
 "band": null,
 "claims": [
 {
+"id": "c-d40d90acae",
 "source": "Progress in Aerospace Sciences / Crossref record",
 "text": "The paper is Progress in Aerospace Sciences 156 (2025) article 101099, DOI 10.1016/j.paerosci.2025.101099, published June 2025.",
 "tier": 1
@@ -20,6 +21,7 @@
 "dateEnd": null,
 "dateStart": "2025-06-02",
 "direction": "in",
+"edgeId": "e-3f23a72242",
 "edgeLabel": "Co-author of the UAPx field-expedition results",
 "id": "cecilia-levy",
 "l0": false,
@@ -41,6 +43,7 @@
 "dateEnd": null,
 "dateStart": "2025",
 "direction": "in",
+"edgeId": "e-aa57215d9a",
 "edgeLabel": "First peer-reviewed UAP field-expedition results",
 "id": "uapx",
 "l0": false,
@@ -62,6 +65,7 @@
 "dateEnd": null,
 "dateStart": "2025-06-02",
 "direction": "in",
+"edgeId": "e-2e75fc55f4",
 "edgeLabel": "Three of four authors carry the UAlbany affiliation; the University publicised the result under its own name",
 "id": "university-at-albany",
 "l0": false,
@@ -117,7 +121,7 @@
 ],
 "sub": "'Initial results from the first field expedition of UAPx to study unidentified anomalous phenomena'",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 1057 of 1170, score 13). 3 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 1027 of 1138, score 13). 3 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D2.",
 "timeline": [
 {
 "claimTier": null,

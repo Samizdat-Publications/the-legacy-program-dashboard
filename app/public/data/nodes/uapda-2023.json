@@ -5,101 +5,121 @@
 "band": "custody",
 "claims": [
 {
+"id": "c-2ee1df1042",
 "source": "S.2226 engrossed in Senate, BILLS-118s2226es, Div. G sec. 9001",
 "text": "Sec. 9001 of Division G, S. 2226 as engrossed in the Senate: 'This division may be cited as the \"Unidentified Anomalous Phenomena Disclosure Act of 2023\" or the \"UAP Disclosure Act of 2023\".'",
 "tier": 1
 },
 {
+"id": "c-c53ba6881c",
 "source": "S.2226 engrossed in Senate, BILLS-118s2226es, Div. G sec. 9010(a)-(b)",
 "text": "EMINENT DOMAIN PROVISION, verbatim. Sec. 9010(a): 'Exercise of Eminent Domain.--The Federal Government shall exercise eminent domain over any and all recovered technologies of unknown origin and biological evidence of non-human intelligence that may be controlled by private persons or entities in the interests of the public good.' Sec. 9010(b): 'Any and all such material, should it exist, shall be made available to the Review Board for personal examination and subsequent disclosure determination at a location suitable to the controlling authority of said material and in a timely manner conducive to the objectives of the Review Board in accordance with the requirements of this division.'",
 "tier": 1
 },
 {
+"id": "c-bd97ea89e1",
 "source": "S.2226 engrossed in Senate, BILLS-118s2226es, Div. G sec. 9010(c)",
 "text": "Sec. 9010(c) directs the Review Board to render decisions '(1) whether the material examined constitutes technologies of unknown origin or biological evidence of non-human intelligence beyond a reasonable doubt; (2) whether recovered technologies of unknown origin, biological evidence of non-human intelligence, or a particular subset of material qualifies for postponement of disclosure under this division; and (3) what changes, if any, to the current disposition of said material should the Federal Government make to facilitate full disclosure.'",
 "tier": 1
 },
 {
+"id": "c-31a1aac1b5",
 "source": "S.2226 engrossed in Senate, BILLS-118s2226es, Div. G sec. 9010(d)-(e)",
 "text": "Sec. 9010(d)-(e): the Review Board 'shall have access to all testimony from unidentified anomalous phenomena witnesses, close observers and legacy program personnel and whistleblowers within the Federal Government's possession' and 'shall solicit additional unidentified anomalous phenomena witness and whistleblower testimony and afford protections under section 1673(b) of the James M. Inhofe National Defense Authorization Act for Fiscal Year 2023 (50 U.S.C. 3373b(b))'. The phrase 'legacy program personnel' is statutory text in the Senate-passed bill.",
 "tier": 1
 },
 {
+"id": "c-8caa0c1e5c",
 "source": "S.2226 engrossed in Senate, BILLS-118s2226es, Div. G sec. 9007(a)-(b)",
 "text": "REVIEW BOARD PROVISION, verbatim. Sec. 9007(a): 'Establishment.--There is established as an independent agency a board to be known as the \"Unidentified Anomalous Phenomena Records Review Board\".' Sec. 9007(b)(1): 'The President, by and with the advice and consent of the Senate, shall appoint, without regard to political affiliation, 9 citizens of the United States to serve as members of the Review Board to ensure and facilitate the review, transmission to the Archivist, and public disclosure of government records relating to unidentified anomalous phenomena.'",
 "tier": 1
 },
 {
+"id": "c-0d16807ec6",
 "source": "S.2226 engrossed in Senate, BILLS-118s2226es, Div. G sec. 9007(b)(4)(A)",
 "text": "Sec. 9007(b)(4)(A) disqualifies nominees who 'shall be impartial citizens, none of whom shall have had any previous or current involvement with any legacy program or controlling authority relating to the collection, exploitation, or reverse engineering of technologies of unknown origin or the examination of biological evidence of living or deceased non-human intelligence' - the bill text presupposes such programs and controlling authorities exist.",
 "tier": 1
 },
 {
+"id": "c-0fcfa3a34f",
 "source": "S.2226 engrossed in Senate, BILLS-118s2226es, Div. G sec. 9007(b)(3)-(4)",
 "text": "Sec. 9007(b)(3)(A) requires the President to consider nominees recommended by the Senate majority and minority leaders, the Speaker and House minority leader, the Secretary of Defense, the National Academy of Sciences, 'Established nonprofit research organizations relating to unidentified anomalous phenomena', and the American Historical Association. Board composition under 9007(b)(4)(C) must include at least 1 current or former national security official, 1 current or former foreign service official, 1 scientist or engineer, 1 economist, 1 professional historian, and 1 sociologist.",
 "tier": 1
 },
 {
+"id": "c-0b487dcbcb",
 "source": "S.2226 engrossed in Senate, BILLS-118s2226es, Div. G sec. 9002(a)(4)",
 "text": "Congressional findings enacted in the Senate text, sec. 9002(a)(4): 'Legislation is necessary because credible evidence and testimony indicates that Federal Government unidentified anomalous phenomena records exist that have not been declassified or subject to mandatory declassification review as set forth in Executive Order 13526 ... due in part to exemptions under the Atomic Energy Act of 1954 ..., as well as an over-broad interpretation of \"transclassified foreign nuclear information\", which is also exempt from mandatory declassification, thereby preventing public disclosure under existing provisions of law.'",
 "tier": 1
 },
 {
+"id": "c-ba81c0d1d4",
 "source": "S.2226 engrossed in Senate, BILLS-118s2226es, table of contents, Div. G",
 "text": "Division G section list as passed by the Senate: 9001 short title; 9002 findings; 9003 definitions; 9004 Records Collection at NARA; 9005 review/identification/transmission/public disclosure by Government offices; 9006 grounds for postponement; 9007 establishment and powers of the Review Board; 9008 Review Board personnel; 9009 review of records by the Review Board; 9010 disclosure of recovered technologies of unknown origin and biological evidence of non-human intelligence; 9011 disclosure of other materials and additional study; 9012 rules of construction; 9013 termination of effect of division; 9014 authorization of appropriations; 9015 severability.",
 "tier": 1
 },
 {
+"id": "c-77c5559515",
 "source": "Congressional Record 13 Jul 2023, CREC-2023-07-13-pt1-PgS2953; congress.gov S.Amdt.797 overview",
 "text": "S.Amdt. 797 was submitted 13 July 2023 by Sen. Charles E. Schumer [D-NY] to S. 2226 and ordered to lie on the table. Congressional Record text: 'SA 797. Mr. SCHUMER (for himself, Mr. Rounds, Mr. Rubio, Mrs. Gillibrand, Mr. Young, and Mr. Heinrich) submitted an amendment intended to be proposed by him to the bill S. 2226 ...'. Cosponsors: Rounds, Rubio, Gillibrand, Young, Heinrich (5).",
 "tier": 1
 },
 {
+"id": "c-3fd69fb13f",
 "source": "Textual comparison of BILLS-118s2226es Div. G against PLAW-118publ31 Div. A, Title XVIII, Subtitle C",
 "text": "Comparison of the Senate-engrossed Division G against the enacted text of Public Law 118-31 subtitle C (secs. 1841-1843): the enacted text contains ZERO occurrences of 'Review Board' and ZERO occurrences of 'eminent domain'. Secs. 9007, 9008, 9009, 9010, 9011, 9013 and 9014 have no enacted counterpart.",
 "tier": 1
 },
 {
+"id": "c-eeae721237",
 "source": "Inference from side-by-side text of BILLS-118s2226es Div. G and PLAW-118publ31 secs. 1841-1843",
 "text": "The provisions removed in conference are precisely the enforcement machinery: the independent Board with subpoena-grade review authority, the compulsory acquisition of privately held recovered materials, and the witness-solicitation mandate. What survived is an archiving and postponement regime administered by the same original classification authorities that hold the records. Reasoning: the enacted secs. 1841-1843 map one-to-one onto Senate secs. 9004-9006 and nothing else survived; the dropped sections are the only ones that would have moved custody or compelled testimony.",
 "tier": 3
 },
 {
+"id": "c-33bc56af7a",
 "source": "S. 2226 (Engrossed in Senate), GPO",
 "text": "Division G consists of Secs. 9001-9015 and was passed by the Senate on 27 July 2023 as part of S. 2226.",
 "tier": 1
 },
 {
+"id": "c-fb095b2d68",
 "source": "S. 2226 as engrossed, Sec. 9003(13), GPO",
 "text": "Sec. 9003(13) defines 'non-human intelligence' as 'any sentient intelligent non-human lifeform regardless of nature or ultimate origin that may be presumed responsible for unidentified anomalous phenomena or of which the Federal Government has become aware.'",
 "tier": 1
 },
 {
+"id": "c-0b96e73e11",
 "source": "S. 2226 as engrossed, Sec. 9002(a)(4), GPO",
 "text": "Sec. 9002(a)(4) finds legislation necessary 'because credible evidence and testimony indicates that Federal Government unidentified anomalous phenomena records exist that have not been declassified.'",
 "tier": 1
 },
 {
+"id": "c-a000030e53",
 "source": "S. 2226 as engrossed, Sec. 9014, GPO",
 "text": "Sec. 9014 authorised $20,000,000 for fiscal year 2024; no appropriation was ever enacted because the section was removed.",
 "tier": 1
 },
 {
+"id": "c-83bd3f8d40",
 "source": "GPO Bulk Data BILLSTATUS collections for the 118th and 119th Congress, Senate bills and resolutions",
 "text": "The Act has never been introduced as a freestanding Senate bill: a search of every Senate bill and resolution status record in the 118th and 119th Congresses returns no bill titled for unidentified anomalous phenomena disclosure.",
 "tier": 1
 },
 {
+"id": "c-d373917e2b",
 "source": "H.R. 2670 as passed by the Senate, 27 July 2023, Division I Sec. 9010(a)",
 "text": "'The Federal Government shall exercise eminent domain over any and all recovered technologies of unknown origin and biological evidence of non-human intelligence that may be controlled by private persons or entities in the interests of the public good.'",
 "tier": 1
 },
 {
+"id": "c-e64cb88033",
 "source": "H.R. 2670 as passed by the Senate, Division I Sec. 9001(11)",
 "text": "'Legacy program' is defined to include 'commercial industry, academic, and private sector endeavors to collect, exploit, or reverse engineer technologies of unknown origin.'",
 "tier": 1
 },
 {
+"id": "c-1430a59069",
 "source": "Comparison of BILLS-118hr2670eas with Public Law 118-31",
 "text": "Section 9010 and the Review Board did not survive conference; the enacted Public Law 118-31 retains only the UAP Records Collection at Sections 1841-1843 and the funding limitations at 1687 and 7343.",
 "tier": 1
@@ -115,6 +135,7 @@
 "dateEnd": "2024",
 "dateStart": "2023",
 "direction": "in",
+"edgeId": "e-6e71962f2c",
 "edgeLabel": "The 'outside of government so the technology could remain proprietary' formulation is what the eminent domain provision was written to defeat",
 "id": "aaro-historical-record-vol1",
 "l0": true,
@@ -141,6 +162,7 @@
 "dateEnd": null,
 "dateStart": "2023-07-13",
 "direction": "in",
+"edgeId": "e-0e5fcce586",
 "edgeLabel": "sponsor of S.Amdt. 797",
 "id": "chuck-schumer",
 "l0": false,
@@ -167,6 +189,7 @@
 "dateEnd": "2023-12-22",
 "dateStart": "2023-07-13",
 "direction": "out",
+"edgeId": "e-c2150492ae",
 "edgeLabel": "passed one chamber, stripped in conference - the domain's instructive defeat",
 "id": "d-legislative",
 "l0": false,
@@ -189,7 +212,7 @@
 "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
 }
 ],
-"tier": "B",
+"tier": "C",
 "type": "legislative"
 },
 {
@@ -198,6 +221,7 @@
 "dateEnd": "2023",
 "dateStart": "2023",
 "direction": "in",
+"edgeId": "e-9d18364bef",
 "edgeLabel": "The Act's definitions are drafted around his allegations",
 "id": "david-grusch",
 "l0": false,
@@ -224,6 +248,7 @@
 "dateEnd": null,
 "dateStart": "2025",
 "direction": "out",
+"edgeId": "e-ca7ca83f75",
 "edgeLabel": "Burlison could not get the UAP Disclosure Act onto the House NDAA in 2024 or 2025",
 "id": "eric-burlison",
 "l0": false,
@@ -245,6 +270,7 @@
 "dateEnd": null,
 "dateStart": "2023-07-13",
 "direction": "in",
+"edgeId": "e-4c860e9adc",
 "edgeLabel": "cosponsor",
 "id": "kirsten-gillibrand",
 "l0": false,
@@ -266,6 +292,7 @@
 "dateEnd": "2023",
 "dateStart": "2023",
 "direction": "out",
+"edgeId": "e-691c07e14a",
 "edgeLabel": "The Senate voted to seize privately held recovered technology by eminent domain",
 "id": "lockheed-martin",
 "l0": true,
@@ -287,6 +314,7 @@
 "dateEnd": null,
 "dateStart": "2023-07-13",
 "direction": "in",
+"edgeId": "e-f973ae3fbb",
 "edgeLabel": "cosponsor",
 "id": "marco-rubio",
 "l0": false,
@@ -308,6 +336,7 @@
 "dateEnd": null,
 "dateStart": "2023-07-13",
 "direction": "in",
+"edgeId": "e-c0d1035296",
 "edgeLabel": "cosponsor",
 "id": "martin-heinrich",
 "l0": false,
@@ -329,10 +358,11 @@
 "dateEnd": "2023",
 "dateStart": "2023",
 "direction": "in",
+"edgeId": "e-503008c1dd",
 "edgeLabel": "Named as co-leading the effort to eliminate or alter the Act",
-"id": "mike-rogers-al",
+"id": "mike-rogers-alabama",
 "l0": false,
-"label": "Mike D. Rogers",
+"label": "Mike Rogers (Alabama)",
 "note": "Rogers chaired House Armed Services through the conference and is named alongside Turner in contemporaneous reporting; no direct quotation ties him to a specific section.",
 "sources": [
 {
@@ -341,7 +371,7 @@
 "url": "https://thedebrief.org/uap-disclosure-act-receives-pushback-from-lawmakers-on-capitol-hill-as-bipartisan-fight-for-transparency-continues/"
 }
 ],
-"tier": "C",
+"tier": "B",
 "type": "denial"
 },
 {
@@ -350,6 +380,7 @@
 "dateEnd": null,
 "dateStart": "2023-07-13",
 "direction": "in",
+"edgeId": "e-098db38155",
 "edgeLabel": "lead cosponsor",
 "id": "mike-rounds",
 "l0": false,
@@ -371,6 +402,7 @@
 "dateEnd": "2023",
 "dateStart": "2023",
 "direction": "in",
+"edgeId": "e-0654ef6c80",
 "edgeLabel": "Named as supporting the effort against the Act",
 "id": "mitch-mcconnell",
 "l0": false,
@@ -392,6 +424,7 @@
 "dateEnd": "2023",
 "dateStart": "2022",
 "direction": "in",
+"edgeId": "e-c5c575145c",
 "edgeLabel": "Statutory NDA-voiding precedent behind the Act's whistleblower posture",
 "id": "ndaa-fy2023-sec-1673",
 "l0": false,
@@ -418,6 +451,7 @@
 "dateEnd": null,
 "dateStart": "2023-12-22",
 "direction": "out",
+"edgeId": "e-354f6b405e",
 "edgeLabel": "reduced to secs. 1841-1843 in conference",
 "id": "ndaa-fy2024",
 "l0": true,
@@ -449,6 +483,7 @@
 "dateEnd": "2023",
 "dateStart": "2023",
 "direction": "out",
+"edgeId": "e-e15db81f8e",
 "edgeLabel": "Fifteen sections reduced to three in conference",
 "id": "ndaa-fy2024-subtitle-c",
 "l0": false,
@@ -466,7 +501,7 @@
 "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
 }
 ],
-"tier": "A",
+"tier": "B",
 "type": "legislative"
 },
 {
@@ -475,6 +510,7 @@
 "dateEnd": "2025",
 "dateStart": "2025",
 "direction": "in",
+"edgeId": "e-9af2694ee4",
 "edgeLabel": "Third consecutive Act enacted without the Senate's own passed text",
 "id": "ndaa-fy2026",
 "l0": true,
@@ -501,6 +537,7 @@
 "dateEnd": null,
 "dateStart": "2026",
 "direction": "in",
+"edgeId": "e-c95bfe8f22",
 "edgeLabel": "Revives the review board and eminent-domain-era disclosure architecture stripped in 2023",
 "id": "ndaa-fy2027-uap-amendment",
 "l0": false,
@@ -522,6 +559,7 @@
 "dateEnd": "2026",
 "dateStart": "2023",
 "direction": "in",
+"edgeId": "e-f5a886dd05",
 "edgeLabel": "Running the campaign for Senate passage of the UAPDA",
 "id": "new-paradigm-institute",
 "l0": false,
@@ -543,6 +581,7 @@
 "dateEnd": null,
 "dateStart": "2023-07-27",
 "direction": "out",
+"edgeId": "e-079df53f38",
 "edgeLabel": "incorporated as Division G, secs. 9001-9015",
 "id": "s2226-118",
 "l0": false,
@@ -564,6 +603,7 @@
 "dateEnd": "2023",
 "dateStart": "2023",
 "direction": "in",
+"edgeId": "e-4da9f95ced",
 "edgeLabel": "The amendment became Division G of the engrossed bill",
 "id": "samdt-797",
 "l0": true,
@@ -590,6 +630,7 @@
 "dateEnd": null,
 "dateStart": "2023",
 "direction": "in",
+"edgeId": "e-5da44eaee1",
 "edgeLabel": "Never reported the Act; it existed only as a floor amendment",
 "id": "senate-armed-services",
 "l0": true,
@@ -616,6 +657,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-89459c7a77",
 "edgeLabel": "Reported the fight over the UAP amendment in the FY2024 defence bill",
 "id": "the-hill",
 "l0": false,
@@ -637,6 +679,7 @@
 "dateEnd": null,
 "dateStart": "2023-07-13",
 "direction": "in",
+"edgeId": "e-0eff08d810",
 "edgeLabel": "cosponsor",
 "id": "todd-young",
 "l0": false,
@@ -658,6 +701,7 @@
 "dateEnd": "2023",
 "dateStart": "2023",
 "direction": "out",
+"edgeId": "e-370c2b6f2c",
 "edgeLabel": "Secs. 9007-9009 create the Board as an independent agency",
 "id": "uap-records-review-board",
 "l0": false,
@@ -679,6 +723,7 @@
 "dateEnd": "2024",
 "dateStart": "2024",
 "direction": "in",
+"edgeId": "e-bf9b3d48ed",
 "edgeLabel": "Verbatim refiling of the 2023 text",
 "id": "uapda-2024-samdt-2610",
 "l0": false,
@@ -705,6 +750,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-c8db0a2918",
 "edgeLabel": "section of",
 "id": "uapda-sec-9010-eminent-domain",
 "l0": false,
@@ -726,6 +772,7 @@
 "dateEnd": "2023",
 "dateStart": "2023",
 "direction": "out",
+"edgeId": "e-68a755c6ae",
 "edgeLabel": "Sec. 9010 is the operative seizure provision of the Act",
 "id": "uapda-sec-9010-eminent-domain",
 "l0": false,
@@ -749,19 +796,20 @@
 "denials": [
 {
 "a": {
-"id": "mike-rogers-al",
-"label": "Mike D. Rogers"
+"id": "mike-rogers-alabama",
+"label": "Mike Rogers (Alabama)"
 },
 "b": {
 "id": "uapda-2023",
 "label": "UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)"
 },
 "by": {
-"id": "mike-rogers-al",
-"label": "Mike D. Rogers"
+"id": "mike-rogers-alabama",
+"label": "Mike Rogers (Alabama)"
 },
 "claimTier": 2,
 "denialKind": "directed",
+"edgeId": "e-503008c1dd",
 "label": "Named as co-leading the effort to eliminate or alter the Act",
 "note": "Rogers chaired House Armed Services through the conference and is named alongside Turner in contemporaneous reporting; no direct quotation ties him to a specific section.",
 "of": {
@@ -791,6 +839,7 @@
 },
 "claimTier": 2,
 "denialKind": "directed",
+"edgeId": "e-0654ef6c80",
 "label": "Named as supporting the effort against the Act",
 "note": "McConnell is named with Speaker Johnson as backing the Turner and Rogers effort, while three Senate Republicans were cosponsors of the same text.",
 "of": {
@@ -817,6 +866,7 @@
 "by": null,
 "claimTier": 1,
 "denialKind": "undirected",
+"edgeId": "e-9af2694ee4",
 "label": "Third consecutive Act enacted without the Senate's own passed text",
 "note": "P.L. 119-60 contains no instance of 'eminent domain', 'non-human', 'legacy program' or 'reverse engineer'.",
 "of": null,
@@ -969,7 +1019,7 @@
 "cls": "domain",
 "id": "d-legislative",
 "label": "Legislative Process (proposed and pending)",
-"tier": "B"
+"tier": "C"
 },
 {
 "cls": "person",
@@ -1003,9 +1053,9 @@
 },
 {
 "cls": "person",
-"id": "mike-rogers-al",
-"label": "Mike D. Rogers",
-"tier": "C"
+"id": "mike-rogers-alabama",
+"label": "Mike Rogers (Alabama)",
+"tier": "B"
 },
 {
 "cls": "person",
@@ -1029,7 +1079,7 @@
 "cls": "legislation",
 "id": "ndaa-fy2024-subtitle-c",
 "label": "P.L. 118-31 Subtitle C - Secs. 1841-1843 (what survived)",
-"tier": "A"
+"tier": "B"
 },
 {
 "cls": "legislation",
@@ -1121,7 +1171,7 @@
 ],
 "sub": "disclosure-legislation",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 13 of 1170, score 117). 27 connections, 2 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C3/A3/D3.",
+"tierRationale": "Re-graded A on a global pass (rank 15 of 1138, score 117). 27 connections, 2 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C3/A3/D3.",
 "timeline": [
 {
 "claimTier": null,

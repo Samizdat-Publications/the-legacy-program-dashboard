@@ -5,16 +5,19 @@
 "band": null,
 "claims": [
 {
+"id": "c-df8ddd0216",
 "source": "House Oversight Committee witness statements, 26 July 2023",
 "text": "The House Oversight Committee heard sworn testimony from David Grusch, David Fravor and Ryan Graves on 26 July 2023; written statements from Fravor and Graves are published on the committee's site.",
 "tier": 1
 },
 {
+"id": "c-5acf451aca",
 "source": "DoD OIG DODIG-2023-109",
 "text": "The DoD Inspector General's DODIG-2023-109 evaluation was initiated following complaints from DoD personnel regarding UAP.",
 "tier": 1
 },
 {
+"id": "c-84fa50f867",
 "source": "ODNI ICIG Urgent Concern Disclosure Form",
 "text": "The ICIG publishes a Disclosure of Urgent Concern form, the formal channel through which an intelligence community employee makes a protected complaint.",
 "tier": 1
@@ -30,6 +33,7 @@
 "dateEnd": null,
 "dateStart": "1947-01-01",
 "direction": "in",
+"edgeId": "e-dd0121a3ee",
 "edgeLabel": "Clearance revocation as deterrent",
 "id": "d-counterintel",
 "l0": false,
@@ -51,6 +55,7 @@
 "dateEnd": null,
 "dateStart": "1998-01-01",
 "direction": "in",
+"edgeId": "e-ecf3b4c78c",
 "edgeLabel": "NDAs and IG channels bound what a witness may say",
 "id": "d-legal",
 "l0": false,
@@ -72,6 +77,7 @@
 "dateEnd": null,
 "dateStart": "2023-07-26",
 "direction": "in",
+"edgeId": "e-7660084926",
 "edgeLabel": "Sworn testimony is oversight's evidence-gathering act",
 "id": "d-oversight",
 "l0": false,
@@ -93,6 +99,7 @@
 "dateEnd": "2001-05-09",
 "dateStart": "2000-07",
 "direction": "in",
+"edgeId": "e-36276f470b",
 "edgeLabel": "A cohort of claimants, which is what this domain is for",
 "id": "disclosure-project-witness-set",
 "l0": false,
@@ -180,7 +187,7 @@
 ],
 "sub": "Evidentiary domain - who told whom, under what oath, and with what corroboration",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 433 of 1170, score 33). 4 connections, 0 of them custody/funding/programmatic. Axes C2/A2/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 433 of 1138, score 33). 4 connections, 0 of them custody/funding/programmatic. Axes C2/A2/D3.",
 "timeline": [
 {
 "claimTier": 1,

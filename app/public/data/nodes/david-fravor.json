@@ -38,56 +38,67 @@
 ],
 "claims": [
 {
+"id": "c-e3435c9e08",
 "source": "CHRG-118hhrg53022 CONTENTS; docs.house.gov EventID 116282",
 "text": "Witness of record at the 26 July 2023 House Oversight hearing: 'Commander David Fravor (Ret.), Former Commanding Officer, United States Navy'. Written statement, Truth in Testimony form and bio filed in the House Committee Repository, event 116282.",
 "tier": 1
 },
 {
+"id": "c-a605d34de0",
 "source": "David Fravor, written statement for the House Oversight Subcommittee on National Security, the Border and Foreign Affairs, 26 July 2023",
 "text": "'In Nov 2004, I was the Commanding Officer of Strike Fighter Squadron Forty-One' and encountered 'a small white Tic Tac shaped object ... There were no Rotors, No Rotor wash, or any visible flight control surfaces.'",
 "tier": 1
 },
 {
+"id": "c-4d1e44e465",
 "source": "David Fravor, written statement to House Oversight, 26 July 2023",
 "text": "'the incident was never investigated, none of my crew were ever questioned, tapes were never taken.'",
 "tier": 1
 },
 {
+"id": "c-4e6f45d8d5",
 "source": "David Fravor, written statement to House Oversight, 26 July 2023",
 "text": "USS Princeton had been tracking the objects on Aegis for two weeks, descending from above 80,000 ft to 20,000 ft.",
 "tier": 1
 },
 {
+"id": "c-8158e45ac8",
 "source": "David Fravor, CBS 60 Minutes, 16 May 2021",
 "text": "'It was aware we were there' and 'It just disappears. Like, gone.'",
 "tier": 2
 },
 {
+"id": "c-5211b93f9c",
 "source": "HHRG-118-GO06-Bio-FravorD-20230726.pdf, http://docs.house.gov/meetings/GO/GO06/20230726/116282/HHRG-118-GO06-Bio-FravorD-20230726.pdf , 2023-07-26",
 "text": "The biography Fravor filed with the subcommittee for the 26 July 2023 hearing, held in the House Committee Repository under event 116282, reads in full: 'David Fravor is a retired naval pilot and Commander of VFA-41 also known as The Black Aces. He is one of the primary witness in the 2004 USS Nimitz UFO incident. He was featured in the 2008 PBS documentary Carrier and has been interviewed on Joe Rogan's podcast The Joe Rogan Experience. Fravor joined the military at the age of 17. He has a career spanning 24 years, 18 of which was as a Navy pilot. He had completed five tours to the Persian Gulf starting after Operation Desert Storm. He commanded a squadron of 12 airplanes consisting of 330 people. Fravor retired in 2006.' The grammatical slip 'one of the primary witness' is in the original. This is a document filed with a committee and held in its repository, which is what makes it Tier 1. It is a witness-supplied biography, not a Navy service record.",
 "tier": 1
 },
 {
+"id": "c-fde8773047",
 "source": "Serial No. 118-53, https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm , 2023-07-26",
 "text": "The testimony was sworn, and the printed record carries the mechanism. Chairman Grothman: 'Pursuant to Committee Rule 9(g), the witnesses will please stand and raise their right hands. Do you solemnly swear to tell the truth, the whole truth, and nothing but the truth, so help you God? [Witnesses are sworn.] Mr. Grothman. Let the record show that all the witnesses answered in the affirmative.'",
 "tier": 1
 },
 {
+"id": "c-88a47e32c1",
 "source": "Serial No. 118-53, https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm , 2023-07-26",
 "text": "Under oath he gave the radar picture of the 14 November 2004 intercept, in answer to Rep. Langworthy: 'The Princeton tracked it. The Nimitz tracked it. The E2 tracked it. We never saw it on our radars. Our fire control radars never picked it up. The other airplane that took the video did get it on a radar. As soon as it tried to lock it, it jammed the radar, spit the lock and he rapidly switched over to the targeting pod, which you can do in the F-18.'",
 "tier": 1
 },
 {
+"id": "c-626b1da412",
 "source": "Serial No. 118-53, https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm , 2023-07-26",
 "text": "Under oath he gave the reason the aircrew were airborne at all: 'We were at a work up with all the battle groups. So, we integrate the ships with the carrier, the airwing with the carrier, and we start working. So, we were doing an air to air defense to hone not only our skills but those of the USS Princeton when they had been tracking them for 2 weeks. The problem was that there was never manned aircraft airborne when they were tracking them and this was the first day and, unfortunately, we were the ones airborne and went and saw it.'",
 "tier": 1
 },
 {
+"id": "c-25c886d614",
 "source": "Serial No. 118-53, https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm , 2023-07-26",
 "text": "Under oath he gave the chain by which the case reached investigators and then the public: 'It was not until 2009, until Jay Stratton had contacted me to investigate. Unbeknownst to all, he was part of the ATIP program in the Pentagon led by Lue Elizondo. There was an unofficial official report that came out that is now on the internet. Years later, I was contacted by the other pilot, Alex Dietrich, and asked if I would been contacted and I said no, but I am willing to talk. I was contacted by Mr. Elizondo, and we talked for a short period of time.' This is the provenance chain in the words of the witness, under oath.",
 "tier": 1
 },
 {
+"id": "c-dafe8b11ea",
 "source": "Serial No. 118-53, https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm , 2023-07-26",
 "text": "Asked by Rep. Langworthy 'is it true that you saw, in your words, a 40-foot flying Tic Tac shaped object?', he answered under oath: 'That is correct. For some people that cannot--know what a Tic Tac is it is a giant flying propane tank.'",
 "tier": 1
@@ -105,6 +116,7 @@
 "dateEnd": "2004",
 "dateStart": "2004",
 "direction": "out",
+"edgeId": "e-e24499bdbf",
 "edgeLabel": "Section lead and wingman on the same intercept",
 "id": "alex-dietrich",
 "l0": false,
@@ -131,6 +143,7 @@
 "dateEnd": "2023",
 "dateStart": "2023",
 "direction": "in",
+"edgeId": "e-a10c1da52c",
 "edgeLabel": "Co-witness, 26 July 2023 hearing panel",
 "id": "david-grusch",
 "l0": false,
@@ -152,6 +165,7 @@
 "dateEnd": null,
 "dateStart": "2023-07-26",
 "direction": "out",
+"edgeId": "e-513670d490",
 "edgeLabel": "sworn witness",
 "id": "hearing-2023-07-26",
 "l0": true,
@@ -188,6 +202,7 @@
 "dateEnd": null,
 "dateStart": "2004",
 "direction": "out",
+"edgeId": "e-ab211e3da1",
 "edgeLabel": "Direct conflict over whether data was taken",
 "id": "kevin-day",
 "l0": false,
@@ -214,6 +229,7 @@
 "dateEnd": "2004",
 "dateStart": "2004",
 "direction": "out",
+"edgeId": "e-4f30a6321e",
 "edgeLabel": "Intercepted the object as CO of VFA-41 on 14 Nov 2004",
 "id": "nimitz-2004",
 "l0": true,
@@ -314,7 +330,7 @@
 "status": "active",
 "sub": "CDR, USN (Ret.); Commanding Officer, VFA-41 Black Aces; 14 Nov 2004 Nimitz intercept",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 188 of 1170, score 46). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 188 of 1138, score 46). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.",
 "timeline": [],
 "unexplainedResidual": "A 46-foot object with no visible propulsion or control surfaces that departed the intercept faster than an F/A-18F could track, then reappeared at the squadron's undisclosed CAP point, remains unexplained in the Navy's own 2023 range fouler release.",
 "unverified": []

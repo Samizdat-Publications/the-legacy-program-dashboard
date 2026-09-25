@@ -5,21 +5,25 @@
 "band": null,
 "claims": [
 {
+"id": "c-b6ae2b4fee",
 "source": "DoD statement on release of historical Navy videos",
 "text": "The Department of Defense formally released three declassified Navy videos (FLIR1, GOFAST, GIMBAL) on 27 April 2020 in an official statement.",
 "tier": 1
 },
 {
+"id": "c-f5bb63d461",
 "source": "House Oversight Committee witness statements",
 "text": "David Fravor and Ryan Graves submitted written statements to the House Oversight Committee for the 26 July 2023 hearing.",
 "tier": 1
 },
 {
+"id": "c-4b4cd9ef1f",
 "source": "House Oversight Committee hearing page",
 "text": "The House Oversight Committee held 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection' on 9 September 2025.",
 "tier": 1
 },
 {
+"id": "c-afe33002f8",
 "source": "NewsTalk KZRG, 23 July 2026",
 "text": "In July 2026 the House approved a Burlison amendment creating a framework for UAP records disclosure.",
 "tier": 2
@@ -35,6 +39,7 @@
 "dateEnd": null,
 "dateStart": "1977-05-01",
 "direction": "in",
+"edgeId": "e-0c87c9fc36",
 "edgeLabel": "Comparative disclosure as leverage",
 "id": "d-international",
 "l0": false,
@@ -56,6 +61,7 @@
 "dateEnd": null,
 "dateStart": "2017-12-16",
 "direction": "in",
+"edgeId": "e-20d48628ee",
 "edgeLabel": "The movement's only binding lever",
 "id": "d-oversight",
 "l0": false,
@@ -137,7 +143,7 @@
 ],
 "sub": "Political domain - the organised effort to force the record open, 1969 to the present",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 878 of 1170, score 19). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 859 of 1138, score 19). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.",
 "timeline": [],
 "unverified": []
 }

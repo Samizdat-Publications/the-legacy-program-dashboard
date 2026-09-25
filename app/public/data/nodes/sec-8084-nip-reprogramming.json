@@ -5,11 +5,13 @@
 "band": null,
 "claims": [
 {
+"id": "c-54c1bb5d80",
 "source": "https://www.govinfo.gov/content/pkg/PLAW-119publ75/html/PLAW-119publ75.htm",
 "text": "Section 8084(b), DoD Appropriations Act 2026, conditions NIP reprogramming or transfer under 50 U.S.C. 3024(d) that cumulatively increases or decreases 'the levels specified in the classified annex accompanying the Act' on 30 days advance notice to the congressional intelligence committees.",
 "tier": 1
 },
 {
+"id": "c-515ead0f22",
 "source": "https://www.govinfo.gov/content/pkg/PLAW-119publ75/html/PLAW-119publ75.htm",
 "text": "The same subsection provides that 'this notification period may be reduced for urgent national security requirements.'",
 "tier": 1
@@ -25,6 +27,7 @@
 "dateEnd": null,
 "dateStart": "2026-02-03",
 "direction": "out",
+"edgeId": "e-f0d4ac776f",
 "edgeLabel": "NIP reprogramming is measured against levels that exist only in the annex",
 "id": "classified-annex",
 "l0": true,
@@ -75,7 +78,7 @@
 ],
 "sub": "The one place the classified annex is named as the baseline for intelligence spending changes",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 642 of 1170, score 27). 1 connections, 1 of them custody/funding/programmatic. Axes C1/A3/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 633 of 1138, score 27). 1 connections, 1 of them custody/funding/programmatic. Axes C1/A3/D2.",
 "timeline": [],
 "unverified": []
 }

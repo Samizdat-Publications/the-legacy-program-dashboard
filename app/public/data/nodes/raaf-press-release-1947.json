@@ -5,21 +5,25 @@
 "band": null,
 "claims": [
 {
+"id": "c-4c31a96397",
 "source": "RAAF press release, 8 July 1947, reproduced in USAF, 'The Roswell Report: Fact vs. Fiction' (1995)",
 "text": "The press release states the intelligence office of the 509th Bomb Group 'was fortunate enough to gain possession of a disc through the cooperation of one of the local ranchers and the sheriff's office of Chaves County'.",
 "tier": 1
 },
 {
+"id": "c-987c84c96f",
 "source": "GAO/NSIAD-95-187, p.4, describing the FBI teletype of 8 July 1947",
 "text": "On the same day the FBI's Dallas office recorded Eighth Air Force headquarters describing the object as 'a hexagonal-shaped disc suspended from a large balloon by cable' resembling 'a high-altitude weather balloon with a radar reflector'.",
 "tier": 1
 },
 {
+"id": "c-5c533eeab1",
 "source": "FBI Records: The Vault, UFO files",
 "text": "FBI records on flying discs from 1947-1954 are publicly released in sixteen parts through the Bureau's electronic reading room.",
 "tier": 1
 },
 {
+"id": "c-eaa3baf0c5",
 "source": "Inference from the timing and command levels documented in the 1995 USAF report and GAO/NSIAD-95-187",
 "text": "An intelligence office trained to identify recovered materiel announcing possession of a disc, then being corrected within hours by a numbered air force commander, is more consistent with an unauthorised disclosure than with a misidentification.",
 "tier": 3
@@ -35,9 +39,10 @@
 "dateEnd": "1995",
 "dateStart": "1995",
 "direction": "out",
+"edgeId": "e-bca0a0e298",
 "edgeLabel": "The message traffic that would document the release was destroyed",
 "id": "gao-nsiad-95-187",
-"l0": false,
+"l0": true,
 "label": "GAO/NSIAD-95-187 - Results of a Search for Records Concerning the 1947 Crash Near Roswell",
 "note": "RAAF outgoing messages from October 1946 through December 1949 were destroyed with no recorded disposition authority, removing the base's own record of the 8 July 1947 announcement and its retraction.",
 "sources": [
@@ -56,6 +61,7 @@
 "dateEnd": "1947",
 "dateStart": "1947",
 "direction": "in",
+"edgeId": "e-a8be94c5be",
 "edgeLabel": "Ramey retracted the disc announcement the same day",
 "id": "roger-ramey",
 "l0": false,
@@ -82,6 +88,7 @@
 "dateEnd": "1947",
 "dateStart": "1947",
 "direction": "out",
+"edgeId": "e-fa36e21789",
 "edgeLabel": "The press release is the event's only uncontested artifact",
 "id": "roswell-1947",
 "l0": true,
@@ -108,6 +115,7 @@
 "dateEnd": "1947",
 "dateStart": "1947",
 "direction": "in",
+"edgeId": "e-37f2115706",
 "edgeLabel": "Haut issued the 8 July 1947 press release",
 "id": "walter-haut",
 "l0": false,
@@ -144,6 +152,7 @@
 },
 "claimTier": 1,
 "denialKind": "directed",
+"edgeId": "e-a8be94c5be",
 "label": "Ramey retracted the disc announcement the same day",
 "note": "The Eighth Air Force commanding general personally fronted a same-day correction identifying the debris as a weather balloon with radar reflector — the founding template for official UAP retraction.",
 "of": {
@@ -203,7 +212,7 @@
 ],
 "sub": "Roswell Army Air Field public information office",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 368 of 1170, score 36). 4 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A1/D2.",
+"tierRationale": "Re-graded B on a global pass (rank 370 of 1138, score 36). 4 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A1/D2.",
 "timeline": [
 {
 "claimTier": null,

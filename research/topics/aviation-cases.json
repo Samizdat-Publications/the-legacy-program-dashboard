@@ -1,0 +1,26 @@
+{
+ "id": "aviation-cases",
+ "title": "Pilot encounters: JAL 1628, Tehran 1976 and other aviation cases",
+ "kind": "incident",
+ "section": "encounters-witnesses",
+ "span": {
+  "from": "1976",
+  "to": "2024"
+ },
+ "focusEra": "1",
+ "anchors": [
+  "jal-1628-1986",
+  "john-callahan",
+  "faa",
+  "tehran-f4-intercept-1976",
+  "americans-for-safe-aerospace",
+  "hr-6967-safe-airspace-for-americans-act"
+ ],
+ "absorbs": [
+  "d-aviators"
+ ],
+ "essays": [],
+ "status": "draft",
+ "notes": "Canon 14 (Calvine, Socorro, Ubatuba, Phoenix) extends it.",
+ "appendixT": "aviation-cases"
+}

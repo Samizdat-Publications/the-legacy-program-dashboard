@@ -1,0 +1,31 @@
+{
+ "id": "sap-governance",
+ "title": "The SAP oversight machinery: SAPCO, SAPOC and the Senior Review Group",
+ "kind": "mechanism",
+ "section": "secrecy-machinery",
+ "span": {
+  "from": "1988",
+  "to": "2024"
+ },
+ "focusEra": "1",
+ "anchors": [
+  "dod-sapco",
+  "sapoc",
+  "ic-sapco",
+  "srg-dod",
+  "dod-sap-reform-1994",
+  "ousdi",
+  "saf-aaz",
+  "dodi-5205-11",
+  "gao-nsiad-88-152",
+  "sswg"
+ ],
+ "absorbs": [
+  "d-structure",
+  "d-secrecy-architecture"
+ ],
+ "essays": [],
+ "status": "draft",
+ "notes": "SAPOC was established on 5 January 1994 with Deutch as chair (do not undo).",
+ "appendixT": "sap-governance"
+}

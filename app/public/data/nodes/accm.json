@@ -5,31 +5,37 @@
 "band": null,
 "claims": [
 {
+"id": "c-316e938aae",
 "source": "https://www.ecfr.gov/current/title-32/subtitle-A/chapter-I/subchapter-D/part-117/section-117.3",
 "text": "32 CFR 117.3(b), verbatim: 'ACCM are security measures used by USG agencies to safeguard classified intelligence or operations when normal measures are insufficient to achieve strict need-to-know controls and where SAP controls are not required.'",
 "tier": 1
 },
 {
+"id": "c-4a0c92c897",
 "source": "https://www.ecfr.gov/current/title-32/subtitle-A/chapter-I/subchapter-D/part-117/section-117.23",
 "text": "32 CFR 117.23 places ACCM in the same 'Supplement to this rule' as SAPs, SCI, RD, FRD, TFNI and NNPI, and its heading names ACCM first. 117.23(a): 'Given the sensitive nature of Alternative Compensatory Control Measures (ACCM), SAPs, SCI, RD, FRD, TFNI, and NNPI, the security requirements prescribed in this section exceed baseline standards for this rule and must be applied, as applicable, through specific contract requirements.'",
 "tier": 1
 },
 {
+"id": "c-9dae262f8b",
 "source": "https://www.ecfr.gov/current/title-32/subtitle-A/chapter-I/subchapter-D/part-117/section-117.3",
 "text": "ACCM is the only member of that regulated set with no reporting statute attached: 10 U.S.C. 119, 50 U.S.C. 2426, 3348 and 3091a each key on the term 'special access program' or 'controlled access program', and the NISPOM rule's own definition places ACCM expressly 'where SAP controls are not required.' A capability protected by ACCM rather than SAP controls therefore triggers no congressional notice under any of the four statutes. Reasoning stated from the definition and the four statutes.",
 "tier": 3
 },
 {
+"id": "c-01d3439f18",
 "source": "32 CFR 117.3(b)",
 "text": "32 CFR 117.3(b): 'ACCM are security measures used by USG agencies to safeguard classified intelligence or operations when normal measures are insufficient to achieve strict need-to-know controls and where SAP controls are not required.'",
 "tier": 1
 },
 {
+"id": "c-da736f01e6",
 "source": "32 CFR 117.23(c)",
 "text": "32 CFR 117.23 addresses ACCM in the same supplement as SAPs, SCI, RD, FRD, TFNI and NNPI, requiring contractors to implement ACCM protection requirements 'when established by contract'.",
 "tier": 1
 },
 {
+"id": "c-03630cb3e5",
 "source": "32 CFR 117.3(b) read against 10 U.S.C. 119 and 50 U.S.C. 3348(g)(3)",
 "text": "Because ACCM is defined as the case where SAP controls are not required, an ACCM is outside the definition of 'special access program' in 10 U.S.C. 119 and 50 U.S.C. 3348(g)(3), and therefore outside every SAP congressional reporting statute. Reasoning: all four reporting statutes are triggered by the term 'special access program', which ACCM expressly is not.",
 "tier": 3
@@ -45,6 +51,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-fe7fe85868",
 "edgeLabel": "ACCM applies 'where SAP controls are not required' and is named in no reporting statute",
 "id": "four-regime-map",
 "l0": false,
@@ -66,6 +73,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-02914ce5fc",
 "edgeLabel": "",
 "id": "four-regime-map",
 "l0": false,
@@ -92,6 +100,7 @@
 "dateEnd": null,
 "dateStart": "2021-02-24",
 "direction": "out",
+"edgeId": "e-56a4443e8f",
 "edgeLabel": "ACCM sits below the definitional trigger of every SAP reporting statute",
 "id": "usc-10-119",
 "l0": true,
@@ -130,6 +139,7 @@
 "by": null,
 "claimTier": 3,
 "denialKind": "association",
+"edgeId": "e-56a4443e8f",
 "label": "ACCM sits below the definitional trigger of every SAP reporting statute",
 "note": "32 CFR 117.3(b) defines ACCM as the case 'where SAP controls are not required'; the reporting statutes are triggered only by the term 'special access program'.",
 "of": null,
@@ -195,7 +205,7 @@
 ],
 "sub": "mechanism",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 217 of 1170, score 44). 3 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A2/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 219 of 1138, score 44). 3 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A2/D3.",
 "timeline": [],
 "unverified": []
 }

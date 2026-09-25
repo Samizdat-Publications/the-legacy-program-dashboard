@@ -10,21 +10,25 @@
 "chronology": [],
 "claims": [
 {
+"id": "c-3ff0406dab",
 "source": "H. Marshall Chadwell, Memorandum for Director of Central Intelligence, subject: Unidentified Flying Objects, 2 December 1952, CIA document C00015340, para. 1, https://archive.org/details/cia-readingroom-document-0005515935",
 "text": "Smith personally started the intelligence-community effort. Chadwell's 2 December 1952 memorandum to the DCI opens: 'On 20 August, the DCI, after a briefing by OSI on the above subject, directed the preparation of an NSCID for submission to the Council stating the need for investigation and directing agencies concerned to cooperate in such investigations.'",
 "tier": 1
 },
 {
+"id": "c-47c5c94dcc",
 "source": "Draft Memorandum to the Executive Secretary, National Security Council, subject: Unidentified Flying Objects (Flying Saucers), attached to CIA document C00015340, 2 December 1952, para. 2, https://archive.org/details/cia-readingroom-document-0005515935",
 "text": "A memorandum to the National Security Council was drafted over his name proposing research, not exploitation: 'It is my view that this situation has possible implications for our national security which transcend the interests of a single service. A broader, coordinated effort should be initiated to develop a firm scientific understanding of the several phenomena which apparently are involved in these reports, and to assure ourselves that the incidents will not hamper our present efforts in the Cold War or confuse our early warning system in case of an attack.' The typed signature block reads 'Walter B. Smith / Director'.",
 "tier": 1
 },
 {
+"id": "c-d38fd72d69",
 "source": "H. Marshall Chadwell, Memorandum to Director of Central Intelligence, subject: Flying Saucers, 2 October 1952, CIA document C00015339, para. 4 and routing page, https://archive.org/details/cia-readingroom-document-0005515933",
 "text": "He is named as the approving authority on the recommendation that the DCI take the subject to the Psychological Strategy Board, and on the released copy the approval was never recorded. The 2 October 1952 routing page reads 'ACTION BY APPROVING AUTHORITY: Date: ____ Approved (disapproved): ____ WALTER B. SMITH, Director'; both lines are blank. The recommendation itself is action (b): 'That the DCI discuss this subject with the Psychological Strategy Board. A memorandum to the Director, Psychological Strategy Board, is attached for signature as TAB C.'",
 "tier": 1
 },
 {
+"id": "c-c88d9b880b",
 "source": "Allen W. Dulles to the Secretary of Defense, 13 March 1953, SECRET, CIA-RDP80B01676R001000160043-9, https://archive.org/details/cia-readingroom-document-cia-rdp80b01676r001000160043-9",
 "text": "The CIA attributed the Robertson Panel to him in writing. Allen W. Dulles, transmitting the panel report on 13 March 1953: 'This panel was convened at the direction of General Smith, following the recommendation of the Intelligence Advisory Committee.'",
 "tier": 1
@@ -40,6 +44,7 @@
 "dateEnd": "1953",
 "dateStart": "1953",
 "direction": "in",
+"edgeId": "e-de001fedf7",
 "edgeLabel": "Succeeded him as DCI and attributed the panel to him in writing",
 "id": "allen-w-dulles",
 "l0": false,
@@ -61,6 +66,7 @@
 "dateEnd": "1953",
 "dateStart": "1952",
 "direction": "out",
+"edgeId": "e-55f06b164c",
 "edgeLabel": "Director of Central Intelligence",
 "id": "cia",
 "l0": true,
@@ -82,6 +88,7 @@
 "dateEnd": "1952",
 "dateStart": "1952",
 "direction": "in",
+"edgeId": "e-fff68adc9a",
 "edgeLabel": "Chadwell's UFO memoranda were addressed to him and named him as approving authority",
 "id": "h-marshall-chadwell",
 "l0": false,
@@ -108,6 +115,7 @@
 "dateEnd": "1953",
 "dateStart": "1953",
 "direction": "out",
+"edgeId": "e-895ded2e05",
 "edgeLabel": "Convened at his direction",
 "id": "robertson-panel",
 "l0": true,
@@ -129,6 +137,7 @@
 "dateEnd": "1952-08-20",
 "dateStart": "1952-08-20",
 "direction": "out",
+"edgeId": "e-cc7cf2ed28",
 "edgeLabel": "His 20 August 1952 instruction follows the summer 1952 reporting wave",
 "id": "washington-flap-1952",
 "l0": false,
@@ -201,7 +210,7 @@
 "status": "dead",
 "sub": "Director of Central Intelligence; the DCI who ordered the UFO problem into the intelligence community",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 427 of 1170, score 33). 5 connections, 1 of them custody/funding/programmatic. Axes C1/A3/D0.",
+"tierRationale": "Re-graded B on a global pass (rank 427 of 1138, score 33). 5 connections, 1 of them custody/funding/programmatic. Axes C1/A3/D0.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": [

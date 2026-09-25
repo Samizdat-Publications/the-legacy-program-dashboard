@@ -5,11 +5,13 @@
 "band": null,
 "claims": [
 {
+"id": "c-7458d0c721",
 "source": "USAspending.gov recipient search, retrieved 12 August 2026",
 "text": "USAspending records approximately $135 billion in prime contract obligations to Leidos-named recipient entities since FY2008.",
 "tier": 1
 },
 {
+"id": "c-2c69bb8229",
 "source": "Public Law 118-31, Sec. 1841 (44 U.S.C. 2107 note)",
 "text": "The UAP Records Collection established by NDAA FY2024 Sec. 1841 consists of record copies of all 'Government, Government-provided, or Government-funded records' relating to UAP, technologies of unknown origin and non-human intelligence.",
 "tier": 1
@@ -25,6 +27,7 @@
 "dateEnd": null,
 "dateStart": "2023",
 "direction": "in",
+"edgeId": "e-b5692c7540",
 "edgeLabel": "The records collection reaches government-funded contractor-held records",
 "id": "ndaa-fy2024",
 "l0": true,
@@ -51,6 +54,7 @@
 "dateEnd": null,
 "dateStart": "2013",
 "direction": "out",
+"edgeId": "e-f023d40279",
 "edgeLabel": "Leidos is the government services business spun out of SAIC in 2013",
 "id": "saic",
 "l0": false,
@@ -106,7 +110,7 @@
 ],
 "sub": "Government services prime spun out of SAIC in 2013; acquired Dynetics 2020",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 755 of 1170, score 23). 2 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D1.",
+"tierRationale": "Re-graded C on a global pass (rank 740 of 1138, score 23). 2 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D1.",
 "timeline": [],
 "unverified": []
 }

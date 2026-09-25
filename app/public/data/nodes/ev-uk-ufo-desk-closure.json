@@ -5,16 +5,19 @@
 "band": null,
 "claims": [
 {
+"id": "c-46f6eed8fc",
 "source": "The National Archives, UFO files page, June 2013",
 "text": "The final released tranche covers 'the final two years of the Ministry of Defence's UFO Desk (from late 2007 until November 2009)' and its stated highlights include 'the reasons behind the closure of the UFO desk' and 'the handling of the largest number of UFO sighting reports received in 30 years'.",
 "tier": 1
 },
 {
+"id": "c-2db779360c",
 "source": "Sky HISTORY, 'Remembering Nick Pope: 1965 - 2026', 2 May 2026",
 "text": "'The MoD eventually closed its UFO desk in 2009, having deemed it surplus to the UK's defence requirements.'",
 "tier": 2
 },
 {
+"id": "c-d94495f476",
 "source": "Inference from Condign Executive Summary para 15 and the TNA description of the closure files",
 "text": "The closure is the delayed execution of Condign's key recommendation rather than an independent 2009 judgement. Reasoning: Condign's key recommendation in 2000 was that DI55 should no longer be required to monitor UAP reports and that the database should not be maintained; the desk that fed that database was wound up in 2009 on the same stated ground of no defence value.",
 "tier": 3
@@ -30,6 +33,7 @@
 "dateEnd": "2009-12",
 "dateStart": "2000",
 "direction": "in",
+"edgeId": "e-a21e2a485f",
 "edgeLabel": "key recommendation executed nine years later",
 "id": "doc-condign-report",
 "l0": true,
@@ -56,6 +60,7 @@
 "dateEnd": "2013",
 "dateStart": "2009",
 "direction": "in",
+"edgeId": "e-fdea9baa08",
 "edgeLabel": "principal public critic of the 2009 closure",
 "id": "nick-pope",
 "l0": false,
@@ -94,6 +99,7 @@
 "by": null,
 "claimTier": 2,
 "denialKind": "association",
+"edgeId": "e-fdea9baa08",
 "label": "principal public critic of the 2009 closure",
 "note": "The National Archives records that the closure sparked a disclosure campaign; Pope was its most prominent voice and the only former desk officer speaking publicly.",
 "of": null,
@@ -150,7 +156,7 @@
 ],
 "sub": "UK terminates its public UAP reporting channel",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 832 of 1170, score 21). 2 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 813 of 1138, score 21). 2 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D3.",
 "timeline": [
 {
 "claimTier": 1,

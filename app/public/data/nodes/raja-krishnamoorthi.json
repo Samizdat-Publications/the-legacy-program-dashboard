@@ -24,11 +24,13 @@
 ],
 "claims": [
 {
+"id": "c-64c5a78548",
 "source": "Rep. Raja Krishnamoorthi after the 12 January 2024 closed ICIG briefing, quoted by The Hill",
 "text": "'Let's just say that all of us were very interested in the substance of his claims, and unfortunately, I didn't get the answers that I was hoping for.'",
 "tier": 2
 },
 {
+"id": "c-bc6e0d1fa6",
 "source": "oversight.house.gov Task Force membership page",
 "text": "Listed as a Democratic member of the Task Force on the Declassification of Federal Secrets.",
 "tier": 1
@@ -44,6 +46,7 @@
 "dateEnd": "2024",
 "dateStart": "2024",
 "direction": "out",
+"edgeId": "e-c1690ad5b0",
 "edgeLabel": "Emerged saying he did not get the answers he hoped for",
 "id": "icig-briefing-2024-01-12",
 "l0": false,
@@ -106,7 +109,7 @@
 "status": "active",
 "sub": "U.S. Rep. (D-IL-8); Task Force member; publicly dissatisfied after the ICIG briefing",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 1087 of 1170, score 11). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D1.",
+"tierRationale": "Re-graded C on a global pass (rank 1056 of 1138, score 11). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D1.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": []

@@ -5,21 +5,25 @@
 "band": null,
 "claims": [
 {
+"id": "c-751df00dfa",
 "source": "Library of Congress catalogue, SRU query bath.isbn=1880090503, MODS record, LCCN 98002961, http://lx2.loc.gov:210/lcdb , opened 2026-09-18",
 "text": "THE CATALOGUING, AND IT IS THE POINT OF THIS NODE. Library of Congress record LCCN 98002961 carries, under the gsafd genre authority, the genre element 'Science fiction.' Its Library of Congress subject heading is 'Alien abduction - Fiction'. Its LC classification is PS3556.O779 A79 1998, American literature, individual authors, 1961 onward, and its Dewey 21 classification is 813/.54, American fiction. The Library of Congress catalogues Alien Rapture: The Chosen as a novel.",
 "tier": 1
 },
 {
+"id": "c-208b6994cc",
 "source": "Library of Congress catalogue, SRU query bath.isbn=1880090503, MODS record, LCCN 98002961, http://lx2.loc.gov:210/lcdb , opened 2026-09-18",
 "text": "The same record gives the full imprint: title 'Alien rapture', subtitle 'the chosen'; names 'Fouche, Edgar Rothschild, 1948-' (usage primary) and 'Steiger, Brad.'; place 'Lakeville, Minn'; agent 'Galde Press'; dateIssued 1998; edition '1st ed.'; extent 'xii, 275 p. ; 23 cm.'; ISBN 1880090503 and 9781880090503. Its recordContentSource is DLC and its recordCreationDate is 980204, that is 4 February 1998, which precedes both the book's publication and the August 1998 presentation.",
 "tier": 1
 },
 {
+"id": "c-2a71db3503",
 "source": "Open Library work record OL1803180W, https://openlibrary.org/works/OL1803180W.json , opened 2026-09-18",
 "text": "Open Library independently records the same work as Galde Press, 1998, 275 pages, ISBN 1880090503 and 9781880090503, with subjects 'Alien abduction' and 'Fiction', and LC classification PS3556.O779 A79 1998.",
 "tier": 1
 },
 {
+"id": "c-ae1a3a8716",
 "source": "Andrew Johnson, 'Edgar Fouche - Disclosing Secret Technologies', checktheevidence.com, 11 February 2014, https://www.checktheevidence.com/wordpress/2014/02/11/edgar-fouche-disclosing-secret-technologies/ , opened 2026-09-18",
 "text": "Andrew Johnson, who hosts the whole Fouche file and is sympathetic to it, describes the book as one that 'presented his experiences using fictional framing while describing real events'. Even the friendly custodian's characterisation concedes the fictional framing.",
 "tier": 2
@@ -35,6 +39,7 @@
 "dateEnd": "1998",
 "dateStart": "1998",
 "direction": "in",
+"edgeId": "e-8fac7a136f",
 "edgeLabel": "Co-author of Alien Rapture: The Chosen",
 "id": "brad-steiger",
 "l0": false,
@@ -56,6 +61,7 @@
 "dateEnd": "1998",
 "dateStart": "1998",
 "direction": "in",
+"edgeId": "e-fbd0e36dfd",
 "edgeLabel": "Primary author of Alien Rapture: The Chosen",
 "id": "edgar-fouche",
 "l0": false,
@@ -77,6 +83,7 @@
 "dateEnd": "1998-08",
 "dateStart": "1998",
 "direction": "out",
+"edgeId": "e-75a91e23f5",
 "edgeLabel": "The book the presentation was given to promote; its TR-3B content was NOT opened",
 "id": "tr-3b",
 "l0": true,
@@ -137,7 +144,7 @@
 ],
 "sub": "The Fouche and Steiger book the 1998 presentation was given to promote, catalogued by the Library of Congress under the genre heading 'Science fiction'",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 924 of 1170, score 18). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 899 of 1138, score 18). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.",
 "timeline": [
 {
 "claimTier": null,

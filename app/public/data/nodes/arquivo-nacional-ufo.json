@@ -5,66 +5,79 @@
 "band": "custody",
 "claims": [
 {
+"id": "c-15f48498e8",
 "source": "Arquivo Nacional (Brasil), 'Conheça o fundo sobre OVNIs do Arquivo Nacional'",
 "text": "The Arquivo Nacional identifies the holding by name and reference: 'o Arquivo Nacional possui o Fundo Objeto Voador Não Identificado – OVNI (BR DFANBSB ARX)? O acervo sobre OVNIs é produzido pelo Comando da Aeronáutica do Brasil e está sob a guarda do Arquivo Nacional. Ele é composto de 743 registros que incluem relatos, questionários sobre ocorrências, correspondências, fotografias, desenhos, vídeos, áudios e recortes de jornais e revistas a respeito de objetos que foram vistos nos céus brasileiros ao longo dos anos.'",
 "tier": 1
 },
 {
+"id": "c-1a0d2fd54d",
 "source": "Senado Federal, RQS 193/2022",
 "text": "The Brazilian Senate's Requerimento 193/2022 dates the transfer route to 2007 and states that the Aeronáutica alone transferred, not the Army or the Navy: 'A partir de 2007, a Aeronáutica, mas não o Exército e nem a Marinha, passou a enviar seus papeis resultantes de suas pesquisas para o Arquivo Nacional, em Brasília. E ano após ano, até o momento, novos documentos ufológicos tiveram o mesmo destino, somando-se hoje mais de 20 mil páginas de arquivos liberados.' It also records that in August 2010 Brigadeiro Junichi Saito, then FAB commander, directed by decree published in the Diário Oficial da União that all FAB UFO cases be concentrated at COMDABRA for shipment to the Arquivo Nacional.",
 "tier": 1
 },
 {
+"id": "c-208c1966cc",
 "source": "Arquivo Nacional, 'Conheça o fundo sobre OVNIs do Arquivo Nacional', published 13/09/2018 (https://www.gov.br/arquivonacional/pt-br/canais_atendimento/imprensa/noticias/conheca-o-fundo-sobre-ovnis-do-arquivo-nacional)",
 "text": "CONTRADICTION RESOLVED - the 2016 date is a stale description, not a fund closing date. The Arquivo Nacional's own statement - 'Ele é composto de 743 registros' and 'A primeira ocorrência do Fundo Objeto Voador Não Identificado data de 1952 e a mais recente de 2016' - appears on an institutional news item carrying the byline 'Publicado em 13/09/2018 18h25 Atualizado em 13/09/2018 18h27'. It is a snapshot as of September 2018 that has never been revised, not a description of an accession that ended.",
 "tier": 1
 },
 {
+"id": "c-cd1dbe17fd",
 "source": "Arquivo Nacional, 'Conheça o fundo sobre OVNIs do Arquivo Nacional', 13/09/2018, image caption",
 "text": "Verified item-level reference code format, published by the Arquivo Nacional itself: 'Ilustração elaborada a partir de relatos de aparição de objeto voador não identificado em Marília, São Paulo, agosto de 1968. Arquivo Nacional. Fundo Objeto Voador Não Identificado. BR_DFANBSB_ARX_0_0_25.' This confirms the BR_DFANBSB_ARX_0_0_nnn item numbering used elsewhere on the board.",
 "tier": 1
 },
 {
+"id": "c-adaf7c3c96",
 "source": "Justiça Federal SC, Recurso Cível n. 5002417-48.2022.4.04.7200/SC, RELVOTO 27/2/2023, quoting Comando de Operações Especiais/Comando da Aeronáutica, evento 13, ANEXO2",
 "text": "The 2016 endpoint was still being repeated by COMAER in 2022 litigation, showing the lag is institutional and not confined to the Arquivo Nacional: 'a coleção filmográfica, iconográfica, sonora e textual referente aos anos de 1952 e 2016, produzida pelo COMAER, está disponível para consulta no acervo do Arquivo Nacional.'",
 "tier": 1
 },
 {
+"id": "c-3c1f799463",
 "source": "Senado Federal, RQS 193/2022, justificação; and Arquivo Nacional news item 13/09/2018",
 "text": "HOLDING-COUNT DISCREPANCY RESOLVED - 743 and 758 count different things at different dates by different methods. 743 is the Arquivo Nacional's own 2018 description of the fund's registros. 758 is a SIAN search-hit count reported in 2022: 'Atualmente, no Arquivo Nacional, quando se pesquisa apenas o termo OVNI, se encontram 137 registros, mas se colocarmos na pesquisa um código de referência específico (BR DFANBSB ARX), encontraremos 758 documentos.' The same sentence yields 137 for a free-text search, proving these are query results, not holdings inventories. Neither number is a stable figure for an accruing fund.",
 "tier": 1
 },
 {
+"id": "c-62714d0eae",
 "source": "Portaria nº 551/GC3, de 9 de agosto de 2010, Art. 3º, transcribed in Justiça Federal SC, Recurso Cível n. 5002417-48.2022.4.04.7200/SC, RELVOTO 27/2/2023",
 "text": "The mechanism that makes the fund open-ended is written into the governing order: Portaria 551/GC3 Art. 3 requires CENDOC to 'copiar, encadernar, arquivar cópias dos registros encaminhados pelo COMDABRA e enviar, periodicamente, os originais ao Arquivo Nacional.' The fund therefore grows by periodic recolhimentos; a fixed terminal year is structurally impossible while the Portaria is in force.",
 "tier": 1
 },
 {
+"id": "c-3525ceca20",
 "source": "Câmara dos Deputados, RIC 679/2011, justificação and item 2.4, 22 June 2011, referencing RIC 4470/2009 answered by Minister Nelson Jobim via Ofício 4225-GM/Aspar-MD of 20 April 2010",
 "text": "Accession-by-accession structure is documented: a 2011 parliamentary requirement refers to 'o terceiro recolhimento do CENDOC (FAB) ao Arquivo Nacional (COREG)', citing 'envelope nº 2 do terceiro recolhimento', referring to the year 1981; and records that the Minister of Defence had stated CENDOC 'encerraria no dia 31 de agosto de 2010 a remessa de todo o seu acervo à Coordenação Regional do Arquivo Nacional no Distrito Federal (COREG)'.",
 "tier": 1
 },
 {
+"id": "c-cf7785951b",
 "source": "André Rigue and Lauryn Amaral, CNN Brasil, 'Pilotos e controladores relataram 18 casos de OVNIs no Brasil em 2025', 12 August 2026, updated 14 August 2026 (https://www.cnnbrasil.com.br/ciencia/pilotos-e-controladores-relataram-18-casos-de-ovnis-no-brasil-em-2025/)",
 "text": "2025 records are demonstrably in the fund and being served: the Arquivo Nacional released FAB dossiers covering at least 18 unidentified-object reports made in Brazil during 2025 by pilots and air traffic controllers, including a 23 November 2025 Londrina control-tower report and a 1 September 2025 report by a LATAM captain over Guarulhos (SP). State distribution reported: Paraná 5, Ceará 4, Minas Gerais 2, São Paulo 2, Rio de Janeiro 2, Alagoas 1, Mato Grosso 1, undetermined 1.",
 "tier": 2
 },
 {
+"id": "c-9e09d694cb",
 "source": "BBC Brasil, 14 January 2022",
 "text": "'Por meio de nota, a Aeronáutica informou que todo o material disponível sobre óvnis já foi encaminhado ao Arquivo Nacional. E mais: não dispõe de profissionais especializados para realizar investigações científicas ou emitir parecer a respeito deste tipo de fenômeno aéreo.'",
 "tier": 2
 },
 {
+"id": "c-e2bb93ff83",
 "source": "BBC Brasil, 14 January 2022",
 "text": "'Hoje, o acervo sobre óvnis é o segundo mais acessado do Arquivo Nacional - só perde para os relatórios da ditadura militar. O material abrange um período de 64 anos e vai de 1952 ... até 2016.'",
 "tier": 2
 },
 {
+"id": "c-9751fd9bb3",
 "source": "EFE/Terra, 10 August 2010; Pedro Dantas, O Estado de S. Paulo, 14 August 2010",
 "text": "On 10 August 2010 EFE reported 'FAB cria normas para pilotos em caso de contato com ovnis'; on 14 August 2010 O Estado de S. Paulo reported 'Aeronáutica libera documentos sobre aparição de óvnis'.",
 "tier": 2
 },
 {
+"id": "c-028dfc8001",
 "source": "Arquivo Nacional SIAN image server",
 "text": "Individual records are served with full archival references and page images, e.g. BR_DFANBSB_ARX_0_0_0249 for the 2 June 1986 Air Defence Command report.",
 "tier": 1
@@ -80,6 +93,7 @@
 "dateEnd": "2009-09-25",
 "dateStart": "2009-09-25",
 "direction": "in",
+"edgeId": "e-51f0be32a0",
 "edgeLabel": "declassified into the National Archives on 25 September 2009",
 "id": "doc-fab-1986-report",
 "l0": false,
@@ -101,6 +115,7 @@
 "dateEnd": "2022",
 "dateStart": "2009",
 "direction": "in",
+"edgeId": "e-d498250a6e",
 "edgeLabel": "transferred its entire UAP holding and disclaimed competence",
 "id": "fab",
 "l0": true,
@@ -122,6 +137,7 @@
 "dateEnd": null,
 "dateStart": "2010-08-09",
 "direction": "in",
+"edgeId": "e-1f615df9cf",
 "edgeLabel": "Portaria 551/GC3 (9 Aug 2010): COMDABRA/COMAE catalogues, CENDOC forwards originals periodically",
 "id": "fab",
 "l0": true,
@@ -153,6 +169,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-4dc9193a60",
 "edgeLabel": "",
 "id": "fab",
 "l0": true,
@@ -179,6 +196,7 @@
 "dateEnd": null,
 "dateStart": "1977",
 "direction": "out",
+"edgeId": "e-3836222ed5",
 "edgeLabel": "COMPARISON: publish the raw record and disclaim competence, versus publish the adjudicated case file",
 "id": "geipan",
 "l0": true,
@@ -215,6 +233,7 @@
 "dateEnd": null,
 "dateStart": "2007",
 "direction": "in",
+"edgeId": "e-87e660f2d4",
 "edgeLabel": "The UFO fund is held in Brasília and its reference code says so",
 "id": "l-brasilia",
 "l0": false,
@@ -256,10 +275,11 @@
 "dateEnd": null,
 "dateStart": "2007",
 "direction": "out",
+"edgeId": "e-63d1d7b5ec",
 "edgeLabel": "COMPARISON: a voluntary military transfer into a civil archive versus a statutory collection ordered by Congress",
-"id": "nara-rg615",
+"id": "nara-uap-collection",
 "l0": true,
-"label": "National Archives Record Group 615 - UAP Records Collection",
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection",
 "note": "COMPARISON EDGE — no institutional contact between the Arquivo Nacional and NARA is claimed or evidenced. Brazil: from 2007 the Comando da Aeronáutica began sending its holdings to the Arquivo Nacional of its own motion, producing the Fundo Objeto Voador Não Identificado – OVNI (BR DFANBSB ARX), 743 registros, served online, with the service publicly disclaiming further competence. The United States: the UAP Records Collection in Record Group 615 exists only because sections 1841–1843 of Public Law 118-31 ordered it into being, with a statutory transfer deadline and with the independent review board stripped out in conference. Same archival endpoint, opposite mechanism — one service handed its record over, the other had to be legislated at. [CORRECTED 14 Aug 2026: RQS 193/2022 is a request for a COMMEMORATIVE SPECIAL SESSION under Art. 199 RISF, approved 16 Mar 2022, held 24 Jun 2022 - not a records-seeking or compelling instrument. Its durable value is the content of its justificacao, which names Operacao Prato, the 1986 night, SIOANI and the archive reference BR DFANBSB ARX. These edges assert what the document NAMES, which is verifiable in its text and unaffected by its procedural nature, so the tier is unchanged. Any claim that the instrument COMPELLED disclosure would be false.]",
 "sources": [
 {
@@ -302,6 +322,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-1a5c611de7",
 "edgeLabel": "SIAN search 'operação prato' returns 6 documents, none audiovisual",
 "id": "operacao-prato",
 "l0": true,
@@ -333,6 +354,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-a1b5085ccb",
 "edgeLabel": "",
 "id": "operacao-prato",
 "l0": true,
@@ -359,6 +381,7 @@
 "dateEnd": "2022-06-24",
 "dateStart": "2022-03",
 "direction": "in",
+"edgeId": "e-b0373f3372",
 "edgeLabel": "The Senate's own 2022 instrument counts and cites the archive",
 "id": "senado-brasil",
 "l0": true,
@@ -400,6 +423,7 @@
 "dateEnd": "2025-06",
 "dateStart": "2022",
 "direction": "out",
+"edgeId": "e-62bc0e3764",
 "edgeLabel": "COMPARISON: Canada surveyed the world's UAP-reporting models and did not mention Brazil once",
 "id": "sky-canada-project",
 "l0": true,
@@ -612,7 +636,7 @@
 ],
 "sub": "Arquivo Nacional (Brazil), Fundo Objeto Voador Não Identificado – OVNI, reference BR DFANBSB ARX, 743 registros, produced by the Comando da Aeronáutica",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 67 of 1170, score 74). 11 connections, 6 of them custody/funding/programmatic. Axes C1/A0/D3.",
+"tierRationale": "Re-graded A on a global pass (rank 69 of 1138, score 74). 11 connections, 6 of them custody/funding/programmatic. Axes C1/A0/D3.",
 "timeline": [
 {
 "claimTier": 2,

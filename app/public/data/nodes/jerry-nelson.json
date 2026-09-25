@@ -8,11 +8,13 @@
 "chronology": [],
 "claims": [
 {
+"id": "c-8787df72b6",
 "source": "Robert Hastings, 'The UFOs-Nukes Connection Press Conference', https://ufohastings.com/articles/the-ufos-nukes-connection-press-conference , opened 2026-09-19",
 "text": "Jerry Nelson served as a deputy missile crew commander with the 579th Strategic Missile Squadron at Walker AFB, Roswell, New Mexico from 1962 to 1965, and spoke at the UFO-Nukes Connection press conference at the National Press Club on 27 September 2010.",
 "tier": 2
 },
 {
+"id": "c-7e12aea019",
 "source": "Derived by this board from the register in research/leads/verified-nuclear-witnesses-2026-09-19.md, which lists every nuclear-facility witness found in the 19 September 2026 pass together with the route by which each account reached the public",
 "text": "SECTION 2a PROVENANCE. He enters the public record at the 2010 National Press Club event convened by Robert Hastings. No dated public statement by him before that was identified by the pass of 19 September 2026, and unlike McDonough, Salas, Jamison, Arneson, Fenstermacher and Halt he is not among the six men the opened page names as having executed affidavits.",
 "tier": 3
@@ -28,6 +30,7 @@
 "dateEnd": "2010-09-27",
 "dateStart": "2010-09-27",
 "direction": "out",
+"edgeId": "e-cce55fe0a4",
 "edgeLabel": "Spoke on the record; not among the six named affiants on the opened page",
 "id": "npc-2010-ufos-nukes",
 "l0": true,
@@ -91,7 +94,7 @@
 "status": "unknown",
 "sub": "USAF deputy missile crew commander, 579th Strategic Missile Squadron, Walker AFB, Roswell, New Mexico, 1962 to 1965",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 1090 of 1170, score 11). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 1059 of 1138, score 11). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": [

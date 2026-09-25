@@ -8,26 +8,31 @@
 "chronology": [],
 "claims": [
 {
+"id": "c-85af0bb1ce",
 "source": "341st SMW history, Jan-Mar 1967, p 32, in the 14 June 2001 FOIA release to John Greenewald Jr, https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf , opened 2026-09-19",
 "text": "The event he was present for is documented. The 341st Strategic Missile Wing history for 1 January to 31 March 1967 states: 'On 16 March 1967 at 0845, all sites in Echo (E) Flight, Malmstrom AFB, shutdown with No-Go indication of Channels 9 and 12 on Voice Reporting Signal Assemble (VRSA). All LF's in E Flight lost strategic alert nearly simultaneously.' The released history names no launch control officer anywhere in its Echo Flight section.",
 "tier": 1
 },
 {
+"id": "c-70aea950c9",
 "source": "The UFO Chronicles, republishing Robert Hastings, June 2011, https://www.theufochronicles.com/2011/06/echo-flight-icbm-incident-retired-usaf.html , opened 2026-09-19",
 "text": "Robert Hastings states that Col. Walter Figel described, on audio tape, receiving a report of a large round object hovering above a missile silo at the moment the Echo Flight missiles went off alert. The account exists as Hastings's recordings of three telephone conversations in 2008, 2009 and 2010 and not as anything Figel has published, sworn or written.",
 "tier": 2
 },
 {
+"id": "c-6016b08032",
 "source": "Metabunk skeptical resources thread on Salas and Malmstrom, https://www.metabunk.org/threads/ufos-at-nuclear-weapons-sites-salas-malmstrom-eagle-flight-skeptical-resources.3284/ , opened 2026-09-19",
 "text": "James Carlson states that Figel told him he saw no UFO and treated the radio report as a joke, and that both Figel and Eric Carlson reported no UFOs at Echo Flight.",
 "tier": 2
 },
 {
+"id": "c-ecdbf7a98a",
 "source": "Tim Hebert, 'Echo Flight: The Makings of a UFO Myth', https://timhebert2.blogspot.com/2011/08/disproving-ufo-case.html , opened 2026-09-19",
 "text": "Tim Hebert, himself a former Minuteman crew member at Malmstrom, writes that Figel's two Hastings interviews contradict each other on the location of the maintenance teams and on who reported the sighting, and that Figel declined to sign an affidavit for the 2010 National Press Club event.",
 "tier": 2
 },
 {
+"id": "c-cbc458e240",
 "source": "Derived by this board from the register in research/leads/verified-nuclear-witnesses-2026-09-19.md, which lists every nuclear-facility witness found in the 19 September 2026 pass together with the route by which each account reached the public",
 "text": "SECTION 2a PROVENANCE. No dated public statement by Walter Figel about the Echo Flight incident, made before an interested party contacted him, was identified by the pass of 19 September 2026. Every version of his account reaches the public through Robert Hastings or through James Carlson, and both are parties to the dispute. The recordings themselves have not been published in full at any URL this board has opened.",
 "tier": 3
@@ -46,6 +51,7 @@
 "dateEnd": "1967-03-16",
 "dateStart": "1967-03-16",
 "direction": "out",
+"edgeId": "e-0f6b45b11d",
 "edgeLabel": "Echo Flight deputy crew commander at Malmstrom",
 "id": "l-malmstrom",
 "l0": false,
@@ -72,6 +78,7 @@
 "dateEnd": "2010",
 "dateStart": "1967-03-16",
 "direction": "out",
+"edgeId": "e-3284ad4f28",
 "edgeLabel": "Deputy crew commander on duty; the contested Echo Flight radio report",
 "id": "malmstrom-echo-flight-1967",
 "l0": true,
@@ -103,6 +110,7 @@
 "dateEnd": "2010",
 "dateStart": "2008",
 "direction": "in",
+"edgeId": "e-7be1e0e83f",
 "edgeLabel": "Located and recorded him; the account exists only as Hastings's tapes",
 "id": "robert-hastings",
 "l0": false,
@@ -186,7 +194,7 @@
 "status": "unknown",
 "sub": "1Lt USAF, deputy missile combat crew commander, Echo Flight, 341st Strategic Missile Wing, on 16 March 1967; later Colonel",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 737 of 1170, score 23). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 724 of 1138, score 23). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D2.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": [

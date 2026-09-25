@@ -5,11 +5,13 @@
 "band": null,
 "claims": [
 {
+"id": "c-d136fdf0ea",
 "source": "S. 2103, Intelligence Authorization Act for FY2024 as reported by SSCI, 22 June 2023",
 "text": "S. 2103 Sec. 1104 would have withheld funds for propulsion technology 'based on or derived from or inspired by inspection, analysis, or reverse engineering of recovered unidentified anomalous phenomena craft or materials,' and for any aerospace craft using propulsion other than chemical, solar or electric ion thrust.",
 "tier": 1
 },
 {
+"id": "c-2b6443b687",
 "source": "USAspending.gov recipient search, retrieved 12 August 2026",
 "text": "USAspending records approximately $8.7 billion in prime contract obligations to Aerojet Rocketdyne entities since FY2008.",
 "tier": 1
@@ -25,6 +27,7 @@
 "dateEnd": "2023",
 "dateStart": "2023",
 "direction": "in",
+"edgeId": "e-01047e524d",
 "edgeLabel": "The provision named derived propulsion work as a defunding category",
 "id": "iaa-fy2024-sec1104",
 "l0": false,
@@ -85,7 +88,7 @@
 ],
 "sub": "Propulsion prime; acquired by L3Harris in 2023",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 857 of 1170, score 20). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D0.",
+"tierRationale": "Re-graded C on a global pass (rank 838 of 1138, score 20). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D0.",
 "timeline": [],
 "unverified": []
 }

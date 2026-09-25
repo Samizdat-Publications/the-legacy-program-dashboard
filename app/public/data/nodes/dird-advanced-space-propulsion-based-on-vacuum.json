@@ -5,46 +5,55 @@
 "band": null,
 "claims": [
 {
+"id": "c-4fa877bffa",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237647/",
 "text": "Defense Intelligence Reference Document titled \"Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering\", series \"Acquisition Threat Support\", published 2010-03-29 with an Intelligence Cut-Off Date (ICOD) of 2009-12-01, DIA document number DIA-08-1003-015. Released by DIA under FOIA and posted in the DIA FOIA Electronic Reading Room.",
 "tier": 1
 },
 {
+"id": "c-4573ad1d36",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237647/",
 "text": "Inside cover reads: \"This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency [redacted b(3) 10 USC 424] Advanced Aerospace Weapon System Applications (AAWSA) Program\" and directs questions to the \"AAWSA Program Manager, Defense Intelligence Agency, ATTN: [redacted], Bldg 6000, Washington, DC 20340-5100\".",
 "tier": 1
 },
 {
+"id": "c-95bde387aa",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237647/",
 "text": "Author name is withheld in the DIA-released copy under FOIA exemption (b)(6); the \"Prepared by:\" line is withheld under (b)(3) 10 USC 424. The released cover therefore does not attribute the DIRD to a named author.",
 "tier": 1
 },
 {
+"id": "c-093c5b51d8",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237647/",
 "text": "Released PDF is 17 pages, marked UNCLASSIFIED//FOR OFFICIAL USE ONLY (FOUO caveat partially illegible in the scan).",
 "tier": 1
 },
 {
+"id": "c-969422c879",
 "source": "https://irp.fas.org/dia/aatip-list.pdf",
 "text": "Authored by Dr Hal Puthoff of EarthTech International, per the 9 January 2018 DIA list (item 5, \"Advanced Space Propulsion Based on Vacuum (Spacetime Metrics) Engineering\").",
 "tier": 1
 },
 {
+"id": "c-b4054eda4f",
 "source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_15-DIRD_Advanced_Space_Propulsion_Based_on_Vacuum_Spacetime_Metric_Engineer.pdf",
 "text": "Cover page reads: \"29 March 2010 / ICOD: 1 December 2009 / DIA-08-1003-015\", series \"Acquisition Threat Support\". The OCR renders the number as \"DIA-08-i003-015\".",
 "tier": 1
 },
 {
+"id": "c-1de550e1fa",
 "source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_15-DIRD_Advanced_Space_Propulsion_Based_on_Vacuum_Spacetime_Metric_Engineer.pdf",
 "text": "The paper's internal self-citation pattern independently corroborates Puthoff's authorship despite the redacted cover: references 3, 16 and 19 are H. E. Puthoff papers, including \"Polarizable-vacuum (PV) approach to general relativity\", Found. Phys. 32, 927 (2002).",
 "tier": 1
 },
 {
+"id": "c-71fc9bf450",
 "source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_15-DIRD_Advanced_Space_Propulsion_Based_on_Vacuum_Spacetime_Metric_Engineer.pdf",
 "text": "The paper concludes that a metric-engineered craft would exhibit apparent superluminal motion, blueshifted emission, reduced effective mass permitting abrupt trajectory changes without internal stress, materials \"hardened\" so a craft \"could, for example, impact water at high velocities without apparent deleterious effects\", and sudden \"cloaking\" or \"blinking out\". These are the reported observables of UAP encounters restated as consequences of general relativity.",
 "tier": 1
 },
 {
+"id": "c-190242b0f9",
 "source": "DIA FOIA Electronic Reading Room AATIP index; DIA letter to FAS, 16 January 2019",
 "text": "'Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering', authored by Harold E. Puthoff, is among the 38 AAWSAP reference products listed by DIA and is hosted in the DIA FOIA Electronic Reading Room.",
 "tier": 1
@@ -60,6 +69,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-4fd6c5c031",
 "edgeLabel": "deliverable under AAWSAP",
 "id": "aawsap",
 "l0": true,
@@ -86,6 +96,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-b3d1c303ac",
 "edgeLabel": "published and holds; DIA-08-1003-015",
 "id": "dia",
 "l0": true,
@@ -112,6 +123,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-200ddce729",
 "edgeLabel": "DIRD",
 "id": "dird-series",
 "l0": true,
@@ -133,6 +145,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-39411ae074",
 "edgeLabel": "series member",
 "id": "dird-series",
 "l0": true,
@@ -159,6 +172,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-643823572b",
 "edgeLabel": "authored at EarthTech International",
 "id": "earthtech-international",
 "l0": true,
@@ -195,6 +209,7 @@
 "dateEnd": "2010",
 "dateStart": "2009",
 "direction": "in",
+"edgeId": "e-367ae68550",
 "edgeLabel": "Named author of the AAWSAP vacuum-engineering propulsion study",
 "id": "harold-puthoff",
 "l0": false,
@@ -221,6 +236,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-316261287b",
 "edgeLabel": "authored",
 "id": "harold-puthoff",
 "l0": false,
@@ -329,7 +345,7 @@
 ],
 "sub": "defense-intelligence-reference-document",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 192 of 1170, score 46). 7 connections, 4 of them custody/funding/programmatic. Axes C0/A0/D0.",
+"tierRationale": "Re-graded B on a global pass (rank 192 of 1138, score 46). 7 connections, 4 of them custody/funding/programmatic. Axes C0/A0/D0.",
 "timeline": [],
 "unverified": []
 }

@@ -5,26 +5,31 @@
 "band": null,
 "claims": [
 {
+"id": "c-abf888e608",
 "source": "Pedlow and Welzenbach, The Central Intelligence Agency and Overhead Reconnaissance, CIA History Staff, 1992, Preface. https://nsarchive2.gwu.edu/NSAEBB/NSAEBB434/docs/U2%20-%20Cover-Contents-Foreword-Preface.pdf",
 "text": "The study states its own span: 'The Agency's manned overhead reconnaissance program lasted 20 years. It began with President Eisenhower's authorization of the U-2 project in late 1954 and ended with the transfer of the remaining Agency U-2s to the Air Force in 1974.'",
 "tier": 1
 },
 {
+"id": "c-b8879ff68e",
 "source": "Foreword by J. Kenneth McDonald, CIA History Staff, 1992. https://nsarchive2.gwu.edu/NSAEBB/NSAEBB434/docs/U2%20-%20Cover-Contents-Foreword-Preface.pdf",
 "text": "Its Foreword records a records-recovery claim of the Agency's own: the study 'is the only history of this program based upon both full access to CIA records and extensive classified interviews of its participants', and 'The authors have found records that were nearly irretrievably lost'.",
 "tier": 1
 },
 {
+"id": "c-d62d572d3e",
 "source": "Index p. 20, Appendices and Bibliography pp. 7 and 29, Chapter 6 p. 2, Chapter 2 p. 32. https://nsarchive2.gwu.edu/NSAEBB/NSAEBB434/docs/U2%20-%20Index.pdf",
 "text": "The study's index carries the entry 'Norton, Garrison | 14-15, 31, 70, 260, 331' and no entry for Norton Air Force Base. Every occurrence of the string Norton across the front matter, chapters 2, 6 and 7, the index and the appendices is Garrison Norton, the Navy Assistant Secretary for Research and Development, whom the bibliography records being interviewed by Welzenbach on 23 May 1983.",
 "tier": 1
 },
 {
+"id": "c-8ccf2a5d5f",
 "source": "Preface. https://nsarchive2.gwu.edu/NSAEBB/NSAEBB434/docs/U2%20-%20Cover-Contents-Foreword-Preface.pdf",
 "text": "The Preface names the record sets the authors used: 'the records of the Director of Central Intelligence, the Office of Special Activities in the Directorate of Science and Technology, and the Intelligence Community Staff, along with documents from the Eisenhower Presidential Library in Abilene, Kansas, and additional interviews.'",
 "tier": 1
 },
 {
+"id": "c-211b359432",
 "source": "Danny Jones Podcast, ep. 415, 20 July 2026, 0:07:39 to 0:08:29, mapped at research/leads/dannyjones-corpus-09.md",
 "text": "On the Danny Jones Podcast, episode 415, 20 July 2026, at 0:07:39 to 0:08:29, TD Barnes said the CIA's Area 51 records went to Norton Air Force Base after the 1979 handover, were lost there, and that the Agency had to rebuild its own history from a crowdsourced website he helped create. The Agency's published history of those programmes contains no Norton Air Force Base, was completed in 1992, and states that it was built from CIA record sets and classified interviews.",
 "tier": 2
@@ -40,6 +45,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-19864b3591",
 "edgeLabel": "Written by the CIA History Staff in 1992 and released by the Agency in 2013",
 "id": "cia",
 "l0": true,
@@ -61,6 +67,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-c581aaba16",
 "edgeLabel": "Same History Staff, five years earlier, on the projects the 1997 UFO history rests on",
 "id": "haines-cia-history",
 "l0": false,
@@ -82,6 +89,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-dea6bbd861",
 "edgeLabel": "The Agency's own account of the establishment and use of the Groom Lake site",
 "id": "l-area51",
 "l0": false,
@@ -152,7 +160,7 @@
 ],
 "sub": "Pedlow and Welzenbach, CIA History Staff, 1992; the release that left the Area 51 references intact",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 337 of 1170, score 37). 3 connections, 1 of them custody/funding/programmatic. Axes C1/A3/D2.",
+"tierRationale": "Re-graded B on a global pass (rank 338 of 1138, score 37). 3 connections, 1 of them custody/funding/programmatic. Axes C1/A3/D2.",
 "timeline": [],
 "unverified": []
 }

@@ -32,11 +32,13 @@
 ],
 "claims": [
 {
+"id": "c-1565e44095",
 "source": "UK Ministry of Defence, Publication Scheme, 'UAP in the UK Air Defence Region: Executive Summary', 15 May 2006 (Internet Archive capture)",
 "text": "MoD publication scheme entry for the Condign executive summary lists Author: DAS; Owner: Ministry of Defence; Date document created 15 May 06; Date released proactively 15 May 06; FOI Organisation area: Directorate of Air Staff; FOI Information class: Unidentified Flying Objects.",
 "tier": 1
 },
 {
+"id": "c-41e8ccc0a5",
 "source": "James Randerson, The Guardian, 25 September 2006, cited in Wikipedia 'Project Condign'",
 "text": "Clarke's assessment was that the release shed no new light on the phenomenon but did show the DIS had conducted a far larger investigation than previously revealed.",
 "tier": 2
@@ -52,6 +54,7 @@
 "dateEnd": "2006-05-15",
 "dateStart": "2005-09",
 "direction": "out",
+"edgeId": "e-ef6bd7e00a",
 "edgeLabel": "FOI request that forced the release",
 "id": "doc-condign-report",
 "l0": true,
@@ -73,6 +76,7 @@
 "dateEnd": "2013-06",
 "dateStart": "2008-05",
 "direction": "out",
+"edgeId": "e-b409aee156",
 "edgeLabel": "wrote the highlights guide for every tranche",
 "id": "tna-ufo-release",
 "l0": false,
@@ -141,7 +145,7 @@
 "status": "active",
 "sub": "Academic; FOI requester who forced release of Project Condign; National Archives UFO files consultant",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 1045 of 1170, score 13). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 1015 of 1138, score 13). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.",
 "timeline": [
 {
 "claimTier": 1,

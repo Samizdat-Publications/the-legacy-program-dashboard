@@ -8,21 +8,25 @@
 "chronology": [],
 "claims": [
 {
+"id": "c-93772b64c2",
 "source": "Norio Hayakawa, 2 April 2024, reproducing the November 2015 email as published in Adam Gorightly, 'Saucers, Spooks and Kooks', Daily Grail Publishing, 3 February 2021, https://noriohayakawa.wordpress.com/2024/04/02/startling-final-confession-made-in-2015-by-the-enigmatic-tal-levesque-originator-of-the-entire-dulce-base-myth/ , opened 2026-09-19",
 "text": "Levesque told Adam Gorightly by email in November 2015 that Thomas Edwin Castello was his own invention, in the words quoted in full on the thomas-castello node, and described assembling the two original Dulce Base articles from an account by a woman he names as Ann West, also known as Cherry Hinkle, corrected and combined with his own research.",
 "tier": 2
 },
 {
+"id": "c-0f3bbcc4a7",
 "source": "Norio Hayakawa, 2 April 2024, reproducing the November 2015 Levesque email, https://noriohayakawa.wordpress.com/2024/04/02/startling-final-confession-made-in-2015-by-the-enigmatic-tal-levesque-originator-of-the-entire-dulce-base-myth/ , opened 2026-09-19",
 "text": "He described the distribution method in the same message: a hundred large envelope packets of supporting material on underground bases, genetic research and hidden research and development, sent to authors and lecturers 'who then mixed it into their talks, articles and books'.",
 "tier": 2
 },
 {
+"id": "c-2be2d0b573",
 "source": "Norio Hayakawa, 23 April 2021, https://noriohayakawa.wordpress.com/2021/04/23/thomas-e-castello-never-existed-admitted-the-late-tal-levesque-originator-of-the-dulce-base-myths/ , opened 2026-09-19",
 "text": "Levesque wrote under the name Jason Bishop III, and had maintained across a multi-year correspondence with Gorightly that Castello was a real person and the Dulce material authentic, before the November 2015 message.",
 "tier": 2
 },
 {
+"id": "c-2a14f84dd1",
 "source": "Inference from Norio Hayakawa, 29 August 2016 and 2 April 2024, both opened 2026-09-19",
 "text": "STATED INFERENCE. The woman Levesque names as the raw material of the articles, Ann West, is also the person Hayakawa independently names as the route by which John Lear came to the Dulce story in 1988. Two of the principal entry points into the Dulce literature therefore appear to run back through one person by two different paths. Reasoning: this rests on a name matching across two of Hayakawa's own posts and is stated as an inference, not a finding.",
 "tier": 3
@@ -38,6 +42,7 @@
 "dateEnd": "2015-11",
 "dateStart": "2015-11",
 "direction": "out",
+"edgeId": "e-66f926d97d",
 "edgeLabel": "Says he wrote the two original Dulce Base articles and manufactured the corroboration",
 "id": "dulce-base",
 "l0": false,
@@ -59,6 +64,7 @@
 "dateEnd": "2021-02-03",
 "dateStart": "2015-11",
 "direction": "in",
+"edgeId": "e-716c382b71",
 "edgeLabel": "Obtained Levesque's confession across a multi-year correspondence",
 "id": "saucers-spooks-and-kooks-2021",
 "l0": false,
@@ -85,6 +91,7 @@
 "dateEnd": "2015-11",
 "dateStart": "2015-11",
 "direction": "out",
+"edgeId": "e-aa2d49cc00",
 "edgeLabel": "Confessed authorship: 'TEC ... is a creation. A MYTH'",
 "id": "thomas-castello",
 "l0": false,
@@ -126,6 +133,7 @@
 },
 "claimTier": 2,
 "denialKind": "directed",
+"edgeId": "e-66f926d97d",
 "label": "Says he wrote the two original Dulce Base articles and manufactured the corroboration",
 "note": "In the same message he describes composing the articles from an account by a woman he names as Ann West mixed with his own research, and mailing a hundred large packets of supporting material to authors and lecturers who folded it into their own work. This is the described manufacture of apparent independent corroboration.",
 "of": {
@@ -155,6 +163,7 @@
 },
 "claimTier": 2,
 "denialKind": "directed",
+"edgeId": "e-aa2d49cc00",
 "label": "Confessed authorship: 'TEC ... is a creation. A MYTH'",
 "note": "The only confession of authorship in the cluster, made by email to Adam Gorightly in November 2015 after a long correspondence in which Levesque had maintained the opposite. Read as reproduced on Hayakawa's site quoting Gorightly's book, so Tier 2.",
 "of": {
@@ -218,7 +227,7 @@
 "status": "deceased",
 "sub": "Author of the two original Dulce Base articles and, by his own account, the inventor of Thomas Edwin Castello",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 706 of 1170, score 24). 3 connections, 0 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C0/A0/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 695 of 1138, score 24). 3 connections, 0 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C0/A0/D3.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": [

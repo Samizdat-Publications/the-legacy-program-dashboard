@@ -5,11 +5,13 @@
 "band": null,
 "claims": [
 {
+"id": "c-eefb703460",
 "source": "Halt memorandum, 13 Jan 81; The Black Vault provenance statement",
 "text": "The December 1980 events occurred just outside RAF Woodbridge, then used by the United States Air Force, and were reported up the chain by the deputy base commander, Lt Col Charles I. Halt.",
 "tier": 1
 },
 {
+"id": "c-d760d034ef",
 "source": "David Clarke, 40th-anniversary account, 26 Dec 2020",
 "text": "Forty years later the UK Ministry of Defence desk officer who handled the file spoke publicly for the first time about how the report was processed.",
 "tier": 2
@@ -25,6 +27,7 @@
 "dateEnd": "2015",
 "dateStart": "2013",
 "direction": "in",
+"edgeId": "e-5dbd78ac8d",
 "edgeLabel": "Service medical records for the incident window could not be produced",
 "id": "john-burroughs",
 "l0": false,
@@ -42,7 +45,7 @@
 "url": "https://drdavidclarke.co.uk/2020/12/26/rendlesham-ufos-40th-anniversary-the-man-from-the-ministry-speaks-for-the-first-time/"
 }
 ],
-"tier": "B",
+"tier": "C",
 "type": "custody"
 },
 {
@@ -51,6 +54,7 @@
 "dateEnd": "1981",
 "dateStart": "1980",
 "direction": "in",
+"edgeId": "e-b3eb8c7b08",
 "edgeLabel": "Incident occurred at and around a USAF-operated nuclear-capable NATO base",
 "id": "rendlesham-1980",
 "l0": true,
@@ -116,7 +120,7 @@
 ],
 "sub": "USAF-operated twin NATO bases; 81st Tactical Fighter Wing; nuclear-capable",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 598 of 1170, score 28). 2 connections, 1 of them custody/funding/programmatic. Axes C2/A2/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 592 of 1138, score 28). 2 connections, 1 of them custody/funding/programmatic. Axes C2/A2/D2.",
 "timeline": [],
 "unverified": []
 }

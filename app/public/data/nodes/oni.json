@@ -5,31 +5,37 @@
 "band": null,
 "claims": [
 {
+"id": "c-4c1982cdb8",
 "source": "American Alchemy with Jesse Michels, 'The Man That Hacked NASA and Found UFOs [Interview w/ Gary McKinnon]', 1 March 2026, 0:56:22 https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL6287765066.mp3?updated=1772392329",
 "text": "On American Alchemy with Jesse Michels, 1 March 2026, Gary McKinnon said that on his arrest 'all my data was taken to O&I, Office of Naval Intelligence', that ONI still holds his hard drives, and that he has tried to recover them for years and been told it is an ongoing investigation (0:56:22).",
 "tier": 2
 },
 {
+"id": "c-9de5ebee5b",
 "source": "Stanton T. Friedman, 'The Bob Lazar Fraud', https://www.theblackvault.com/casefiles/the-bob-lazar-fraud-2/ ; and The Lazar Tape, 1991, captions at 2:19, https://archive.org/details/antigravity , both opened 2026-09-18",
 "text": "A DISCREPANCY, NOT A RELATIONSHIP. The W-2 form in the Lazar literature is described as naming a 'Department of Naval Intelligence', which is not an entity that exists: the Office of Naval Intelligence sits inside the Department of the Navy. Stanton Friedman, who had seen the form, describes it only as 'His W-2 form from the Department of Naval Intelligence totals under $1000.00, at most a week's pay for a scientist.' Lazar's own 1991 narration says something different again: 'for the duration of my employment at S4 I was paid by the United States Navy'. THE FORM ITSELF WAS NOT OPENED BY THIS BOARD AND NO EMPLOYER IDENTIFICATION NUMBER, ZIP CODE OR BOX CONTENT IS ASSERTED ANYWHERE.",
 "tier": 3
 },
 {
+"id": "c-57637664ff",
 "source": "Office of Naval Intelligence, official website, retrieved 12 August 2026",
 "text": "ONI describes itself as established in 1882 and 'the nation's longest-serving intelligence agency', headquartered at 4251 Suitland Road, Washington DC.",
 "tier": 1
 },
 {
+"id": "c-81a7acd50d",
 "source": "ODNI Preliminary Assessment, 25 June 2021",
 "text": "ODNI's 2021 Preliminary Assessment lists 'Navy/ONI' among the contributing elements.",
 "tier": 1
 },
 {
+"id": "c-7b4b06a9a7",
 "source": "ONI FOIA responses to John Greenewald Jr. / The Black Vault, as published",
 "text": "ONI has responded to FOIA requests concerning the 2004 Nimitz encounter by asserting that responsive briefing material and video are classified TOP SECRET/SCI and withholding them in full.",
 "tier": 2
 },
 {
+"id": "c-dea6d19a06",
 "source": "Inference from the August 2020 DEPSECDEF establishment of the UAPTF under Navy lead",
 "text": "The Navy's designation as lead for the UAP Task Force in August 2020 placed the government's UAP effort inside a service intelligence organisation with no acquisition equity in any legacy exploitation program, which is why the Task Force's product was releasable at all. Reasoning: the offices with custody equity had, on the whistleblower account, every incentive to keep it; the Navy did not.",
 "tier": 3
@@ -45,6 +51,7 @@
 "dateEnd": "1989-04",
 "dateStart": "1988-12",
 "direction": "in",
+"edgeId": "e-d6616a4b82",
 "edgeLabel": "Claimed payment: 'the United States Navy' in his narration, 'Department of Naval Intelligence' on the W-2 as others describe it",
 "id": "bob-lazar",
 "l0": false,
@@ -71,9 +78,10 @@
 "dateEnd": "2026",
 "dateStart": "1958",
 "direction": "in",
+"edgeId": "e-b82f635ae3",
 "edgeLabel": "Alleges MITRE support to two Navy-spearheaded legacy programs",
 "id": "gerb-mitre-investigation",
-"l0": false,
+"l0": true,
 "label": "UAP Gerb - The MITRE Corporation investigation",
 "note": "The two alleged programs: reverse engineering and maturation of technologies from late-1940s recoveries, and tracking of a large USO with semi-permanent Atlantic station, with all-source data processed by MITRE. Gerb notes the oddity that MITRE was founded by and modelled on USAF structures yet is intimately involved in Navy secret programs.",
 "sources": [
@@ -92,6 +100,7 @@
 "dateEnd": null,
 "dateStart": "2021-06-25",
 "direction": "out",
+"edgeId": "e-1582c71733",
 "edgeLabel": "Named contributor to the 2021 ODNI Preliminary Assessment on UAP",
 "id": "odni",
 "l0": true,
@@ -113,6 +122,7 @@
 "dateEnd": "2022",
 "dateStart": "2020",
 "direction": "in",
+"edgeId": "e-e733340a1e",
 "edgeLabel": "sited in the Department of the Navy with ONI involvement",
 "id": "uap-task-force",
 "l0": true,
@@ -205,7 +215,7 @@
 ],
 "sub": "Established 1882; the nation's longest-serving intelligence agency; parent of the UAP Task Force",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 266 of 1170, score 41). 4 connections, 2 of them custody/funding/programmatic. Axes C2/A3/D1.",
+"tierRationale": "Re-graded B on a global pass (rank 270 of 1138, score 41). 4 connections, 2 of them custody/funding/programmatic. Axes C2/A3/D1.",
 "timeline": [
 {
 "claimTier": null,

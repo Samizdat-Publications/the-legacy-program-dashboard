@@ -5,46 +5,55 @@
 "band": "reverse-engineering",
 "claims": [
 {
+"id": "c-a7aaf89115",
 "source": "Reasoning over the board's existing Tier 1 claims on tr-3b against the propulsion strand of 19 September 2026, research/leads/verified-propulsion-2026-09-19.md section 6.1",
 "text": "STRAND CLASSIFICATION, AND IT MARKS THIS ACCOUNT AS THE WEAKEST OF ITS KIND ON THE BOARD. Every other propulsion claim in the 19 September 2026 strand cites an independent, openable document and misreads it: King's patent for the ARV drawing, Brown's patents for the capacitor stack, Alcubierre's paper for metric engineering. THE TR-3B'S MERCURY PLASMA 'MAGNETIC FIELD DISRUPTER' CITES NOTHING. The 1998 presentation asserts the mechanism directly at slide 72 and there is no independent source to place beside it, which is why the node's refutation had to be built from a materials property rather than from a document comparison: NIST gives mercury a melting point of 234.31 K, and the claimed operating temperature of 150 K is 84 K below it.",
 "tier": 3
 },
 {
+"id": "c-9401bd5c6a",
 "source": "Presentation to IUFOR by Edgar Rothshild Fouche, slide 70, https://www.checktheevidence.com/pdf/Edgar%20Fouche%20-%201998%20Presentation%20to%20IUFOC.pdf , 1998-08",
 "text": "The originating artefact says, at slide 70: 'The 200 feet Prototype & the 300 feet Operational TR-3Bs are Code named Astra. The tactical reconnaissance TR-3B first operational flight was in the early 90s. The triangular shaped nuclear powered aerospace platform was developed under the Top Secret, Aurora Program with SDI and black budget monies. At least 3 of the billion dollar plus TR-3Bs were flying by 1994... It is funded and operationally tasked by the National Reconnaissance Office, the NSA, and the CIA. The TR-3B flying triangle is not fiction and was built with technology available in the mid 80s.'",
 "tier": 1
 },
 {
+"id": "c-33af0575a6",
 "source": "Presentation to IUFOR by Edgar Rothshild Fouche, slides 69 and 70, https://www.checktheevidence.com/pdf/Edgar%20Fouche%20-%201998%20Presentation%20to%20IUFOC.pdf , 1998-08",
 "text": "THE SELF-CONTRADICTION, AND IT IS THE MOST USEFUL SINGLE FACT ON THIS NODE. Slide 69 of the same document states 'The operational model is 600 feet across.' Slide 70 states 'The 200 feet Prototype & the 300 feet Operational TR-3Bs are Code named Astra.' Both sentences are present in the same transcript, two slides apart, and they give the operational craft two different sizes.",
 "tier": 1
 },
 {
+"id": "c-ccb59fff33",
 "source": "Presentation to IUFOR by Edgar Rothshild Fouche, slide 72, https://www.checktheevidence.com/pdf/Edgar%20Fouche%20-%201998%20Presentation%20to%20IUFOC.pdf , 1998-08",
 "text": "The propulsion claim, at slide 72: 'A circular, plasma filled accelerator ring called the Magnetic Field Disrupter, surrounds the rotatable crew compartment and is far ahead of any imaginable technology. Sandia and Livermore laboratories developed the reverse engineered MFD technology... The plasma, mercury based, is pressurized at 250,000 atmospheres at a temperature of 150 degrees Kelvin and accelerated to 50,000 rpm to create a super-conductive plasma with the resulting gravity disruption. The MFD generates a magnetic vortex field, which disrupts or neutralizes the effects of gravity on mass within proximity, by 89 percent. Do not misunderstand. This is not antigravity.'",
 "tier": 1
 },
 {
+"id": "c-7273e07c5b",
 "source": "NIST Chemistry WebBook, phase change data for mercury, https://webbook.nist.gov/cgi/cbook.cgi?ID=C7439976&Mask=4 , opened 2026-09-18",
 "text": "THE TIER 1 PHYSICAL ANCHOR AGAINST THE PROPULSION CLAIM. The NIST Chemistry WebBook gives mercury, CAS 7439-97-6, a melting point of 234.31 K (Marsh, 1987, uncertainty assigned by TRC 0.005 K), a triple point of 234.3 K, and a boiling point of 629.81 K.",
 "tier": 1
 },
 {
+"id": "c-639862f702",
 "source": "Reasoning over the NIST phase change data for mercury and slide 72 of the 1998 presentation; research/leads/verified-tr3b-2026-09-18.md section 6.2",
 "text": "Stated inference, and it is a short one. 150 K is 84 K below mercury's melting point of 234.31 K at one atmosphere. Mercury's melting curve has a positive slope, so a pressure of 250,000 atmospheres raises the melting point rather than lowering it, putting the material further into the solid region and not closer to a gas. A plasma is an ionised gas. The specification therefore describes a solid and calls it a plasma, and it does so before any question of superconductivity, rotation or gravity is reached.",
 "tier": 3
 },
 {
+"id": "c-4ea4e88277",
 "source": "Reasoning over slide 72 of the 1998 presentation; research/leads/verified-tr3b-2026-09-18.md section 6.2",
 "text": "Stated inference, second order. The presentation forecloses the usual defence itself: 'Do not misunderstand. This is not antigravity... The MFD creates a disruption of the Earth's gravitational field upon the mass within the circular accelerator.' A magnetic field acting on gravitational mass is not a mechanism in any physical literature opened here, and the presentation gives no field strength, no power budget and no mass figure against which the claimed 89 per cent reduction could be checked. There is nothing in it to test, which is itself the finding.",
 "tier": 3
 },
 {
+"id": "c-24a5ed884c",
 "source": "Presentation to IUFOR by Edgar Rothshild Fouche, slide 6, https://www.checktheevidence.com/pdf/Edgar%20Fouche%20-%201998%20Presentation%20to%20IUFOC.pdf , 1998-08",
 "text": "The craft is attached to the existing sighting literature by the artefact itself, at slide 6: 'Before I'm through, you will know exactly what the Flying Triangle is. The one that has been sighted around the world... It could be stealthily hovering somewhere over Phoenix - Arizona, Gulf Breeze - Florida, the country of Belgium, or your city.'",
 "tier": 1
 },
 {
+"id": "c-41087d2820",
 "source": "Presentation to IUFOR by Edgar Rothshild Fouche, slide 69, https://www.checktheevidence.com/pdf/Edgar%20Fouche%20-%201998%20Presentation%20to%20IUFOC.pdf , 1998-08",
 "text": "The sighting at the core of the account is second hand within the artefact itself. Slide 69 opens: 'A friend said, he would never forget the sight of the alien looking TR-3B based at Papoose.' The claimant does not claim to have seen the craft.",
 "tier": 1
@@ -63,6 +72,7 @@
 "dateEnd": "1998-08",
 "dateStart": "1998",
 "direction": "in",
+"edgeId": "e-75a91e23f5",
 "edgeLabel": "The book the presentation was given to promote; its TR-3B content was NOT opened",
 "id": "alien-rapture-1998",
 "l0": false,
@@ -84,6 +94,7 @@
 "dateEnd": null,
 "dateStart": "2026-09-18",
 "direction": "in",
+"edgeId": "e-d651ca6910",
 "edgeLabel": "ARVP carries a TR-3B page and routes its readers to the Fouche file",
 "id": "arvp-fluxliner-project",
 "l0": false,
@@ -105,6 +116,7 @@
 "dateEnd": null,
 "dateStart": "1998-08",
 "direction": "out",
+"edgeId": "e-9a3b053627",
 "edgeLabel": "CLAIMED ONLY: named as a funder and tasker at slide 70",
 "id": "cia",
 "l0": true,
@@ -126,6 +138,7 @@
 "dateEnd": null,
 "dateStart": "1984-07-10",
 "direction": "out",
+"edgeId": "e-3ac5085e75",
 "edgeLabel": "The Fouche file's DARPA invocation rests on a letter from a personnel office",
 "id": "darpa",
 "l0": true,
@@ -152,6 +165,7 @@
 "dateEnd": null,
 "dateStart": "1998-08",
 "direction": "in",
+"edgeId": "e-c06775988b",
 "edgeLabel": "Originating claimant of the TR-3B, August 1998",
 "id": "edgar-fouche",
 "l0": false,
@@ -173,6 +187,7 @@
 "dateEnd": "1998-08",
 "dateStart": "1998-08",
 "direction": "in",
+"edgeId": "e-44cf405595",
 "edgeLabel": "The dated artefact that carries the claim; opened in full",
 "id": "fouche-iufoc-1998",
 "l0": false,
@@ -194,6 +209,7 @@
 "dateEnd": "1996-05",
 "dateStart": "1982-02",
 "direction": "in",
+"edgeId": "e-134779a410",
 "edgeLabel": "The real black-programme aircraft of the period is 48 feet across and curved, not a 200 to 600 foot triangle",
 "id": "northrop-tacit-blue",
 "l0": false,
@@ -215,6 +231,7 @@
 "dateEnd": null,
 "dateStart": "1998-08",
 "direction": "out",
+"edgeId": "e-453ba6863a",
 "edgeLabel": "CLAIMED ONLY: named as a funder and tasker at slide 70",
 "id": "nro",
 "l0": true,
@@ -236,6 +253,7 @@
 "dateEnd": null,
 "dateStart": "1998-08",
 "direction": "out",
+"edgeId": "e-21d8c9b71b",
 "edgeLabel": "CLAIMED ONLY: named as a funder and tasker at slide 70",
 "id": "nsa",
 "l0": true,
@@ -257,6 +275,7 @@
 "dateEnd": null,
 "dateStart": "2016-03-19",
 "direction": "in",
+"edgeId": "e-303c689167",
 "edgeLabel": "Named aerospace historian; four falsifiable specifics against the claimant's evidence",
 "id": "peter-merlin",
 "l0": false,
@@ -278,6 +297,7 @@
 "dateEnd": null,
 "dateStart": "1998-08",
 "direction": "out",
+"edgeId": "e-311c879a10",
 "edgeLabel": "CLAIMED ONLY: named as a developer of the Magnetic Field Disrupter at slide 72",
 "id": "sandia",
 "l0": true,
@@ -299,6 +319,7 @@
 "dateEnd": "1998-08",
 "dateStart": "1993-12-25",
 "direction": "in",
+"edgeId": "e-f683cda334",
 "edgeLabel": "Prior art: the SR-75 Penetrator designation and mothership architecture published commercially in 1993",
 "id": "testors-sr-75-kit",
 "l0": false,
@@ -337,6 +358,7 @@
 "by": null,
 "claimTier": 1,
 "denialKind": "association",
+"edgeId": "e-134779a410",
 "label": "The real black-programme aircraft of the period is 48 feet across and curved, not a 200 to 600 foot triangle",
 "note": "THIS EDGE EXISTS SPECIFICALLY TO STOP A LATER SESSION DRAWING THE SUPPORTIVE VERSION OF IT. The brief that produced this build asked for the reported analysis that the TR-3B derives from or is confused with TACIT BLUE. That analysis was searched for and NOT FOUND, and the USAF's own fact sheet argues against it: curved surfaces rather than a triangle, 48 ft 2 in span, programme concluded 1985, on public display since 1996.",
 "of": null,
@@ -363,6 +385,7 @@
 },
 "claimTier": 2,
 "denialKind": "directed",
+"edgeId": "e-303c689167",
 "label": "Named aerospace historian; four falsifiable specifics against the claimant's evidence",
 "note": "'I have always been extremely skeptical of Fouche. Many of his claims were questionable or misleading.' The four specifics are on the peter-merlin node in full: the letter is unclassified; the 'Have Blue' photo is the first YF-117A SENIOR TREND prototype; 'No such person as Steve Stenson was ever commander of AFFTC'; the KGB props are surplus-store fakes. Each is falsifiable and outside the claimant's own testimony, and none has been checked and found wrong in any opened record.",
 "of": {
@@ -389,6 +412,7 @@
 "by": null,
 "claimTier": 3,
 "denialKind": "association",
+"edgeId": "e-f683cda334",
 "label": "Prior art: the SR-75 Penetrator designation and mothership architecture published commercially in 1993",
 "note": "A stated inference and graded 3 accordingly. The designation and the mothership architecture are published, dated and boxed in 1993 with a named designer, and the Air Force told the same newspaper 'such a plane does not exist'. They reappear in 1998 as inside knowledge. The direction of priority is documented and one-directional; the direction of influence is not established and must not be inverted by a later session.",
 "of": null,
@@ -417,6 +441,7 @@
 "by": null,
 "claimTier": 1,
 "denialKind": "association",
+"edgeId": "e-3ac5085e75",
 "label": "The Fouche file's DARPA invocation rests on a letter from a personnel office",
 "note": "DARPA is the single most reused word in the Fouche corpus and the board's existing darpa node should carry this explicitly. The document that carries the invocation bears no classification marking, is signed by a technical sergeant in an assignments section of a personnel directorate, and is captioned by Fouche himself with the agency's name wrong, as 'Defense Advanced Research Agency'.",
 "of": null,
@@ -575,7 +600,7 @@
 ],
 "sub": "Claimed triangular craft described in one man's copyrighted August 1998 presentation; no record of its existence has been opened",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 133 of 1170, score 55). 12 connections, 0 of them custody/funding/programmatic, 4 official denials recorded against it. Axes C0/A0/D3.",
+"tierRationale": "Re-graded A on a global pass (rank 135 of 1138, score 55). 12 connections, 0 of them custody/funding/programmatic, 4 official denials recorded against it. Axes C0/A0/D3.",
 "timeline": [
 {
 "claimTier": null,

@@ -40,16 +40,19 @@
 ],
 "claims": [
 {
+"id": "c-c22d947d19",
 "source": "Potomac Officers Club, 31 October 2023",
 "text": "Gordon was elected vice chair of MITRE's Board of Trustees, announced 31 October 2023, having joined the board in 2021.",
 "tier": 1
 },
 {
+"id": "c-9a87821960",
 "source": "Potomac Officers Club, 31 October 2023; ODNI public record",
 "text": "Gordon served as Principal Deputy Director of National Intelligence from 2017 to 2019 and as Deputy Director of NGA before that, after 27 years at CIA where she helped create In-Q-Tel.",
 "tier": 1
 },
 {
+"id": "c-a2d60e8ce9",
 "source": "Inference from ODNI statutory role and MITRE corporate governance structure",
 "text": "Gordon's seat places a person with former community-wide access to unacknowledged and waived Special Access Programs in the governance chain that decides how MITRE answers a congressional records demand about exactly that category of programme. Reasoning: the PDDNI is a statutory position with visibility into IC SAP registries; MITRE's board approves corporate legal and disclosure posture.",
 "tier": 3
@@ -65,6 +68,7 @@
 "dateEnd": null,
 "dateStart": "2021",
 "direction": "out",
+"edgeId": "e-8b16fbadbc",
 "edgeLabel": "Vice chair of MITRE's Board of Trustees from 31 October 2023",
 "id": "mitre-corporation",
 "l0": true,
@@ -128,7 +132,7 @@
 "status": "active",
 "sub": "Vice Chair, MITRE Board of Trustees (elected Oct 2023); former Principal Deputy Director of National Intelligence (2017-2019); former Deputy Director, NGA; 27 years CIA",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 806 of 1170, score 21). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D0.",
+"tierRationale": "Re-graded C on a global pass (rank 788 of 1138, score 21). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D0.",
 "timeline": [
 {
 "claimTier": null,

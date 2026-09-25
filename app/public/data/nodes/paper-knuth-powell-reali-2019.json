@@ -5,11 +5,13 @@
 "band": null,
 "claims": [
 {
+"id": "c-5e9952bb26",
 "source": "Entropy / Crossref record",
 "text": "The paper is Entropy 21(10):939, DOI 10.3390/e21100939, published 25 September 2019.",
 "tier": 1
 },
 {
+"id": "c-f8886fc57e",
 "source": "Proceedings, DOI 10.3390/proceedings2019033026",
 "text": "A companion paper, 'Estimating Flight Characteristics of Anomalous Unidentified Aerial Vehicles in the 2004 Nimitz Encounter', appeared in the proceedings of the 39th International Workshop on Bayesian Inference and Maximum Entropy Methods in December 2019.",
 "tier": 1
@@ -25,6 +27,7 @@
 "dateEnd": null,
 "dateStart": "2019",
 "direction": "in",
+"edgeId": "e-d709bb9915",
 "edgeLabel": "Lead author of the Entropy kinematics paper",
 "id": "kevin-knuth",
 "l0": false,
@@ -46,6 +49,7 @@
 "dateEnd": null,
 "dateStart": "2019",
 "direction": "out",
+"edgeId": "e-4e00f1c429",
 "edgeLabel": "Nimitz encounter analysed quantitatively in a peer-reviewed physics journal",
 "id": "nimitz-2004",
 "l0": true,
@@ -67,6 +71,7 @@
 "dateEnd": null,
 "dateStart": "2019",
 "direction": "in",
+"edgeId": "e-a23e414d4f",
 "edgeLabel": "Co-author; brought the SCU case reconstructions",
 "id": "robert-powell",
 "l0": false,
@@ -127,7 +132,7 @@
 ],
 "sub": "'Estimating Flight Characteristics of Anomalous Unidentified Aerial Vehicles'",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 1056 of 1170, score 13). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 1026 of 1138, score 13). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.",
 "timeline": [
 {
 "claimTier": null,

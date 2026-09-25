@@ -5,16 +5,19 @@
 "band": null,
 "claims": [
 {
+"id": "c-2869014a22",
 "source": "Air Force Research Laboratory official history",
 "text": "AFRL was established on 31 October 1997 by consolidating the Wright, Phillips, Rome and Armstrong laboratories and the Air Force Office of Scientific Research, headquartered at Wright-Patterson AFB, Ohio.",
 "tier": 2
 },
 {
+"id": "c-60cafb9b80",
 "source": "National Archives, Project BLUE BOOK reference material",
 "text": "Wright-Patterson AFB is the installation that housed the Air Technical Intelligence Center and the Foreign Technology Division, which ran Projects SIGN, GRUDGE and BLUE BOOK.",
 "tier": 1
 },
 {
+"id": "c-da8224942e",
 "source": "Inference from the ATIC-FTD-NASIC/AFRL institutional lineage at Wright-Patterson",
 "text": "AFRL is the continuity organisation for foreign materiel exploitation at Wright-Patterson, which makes it the most probable modern institutional home of any exploitation activity that began there in the 1940s. Reasoning: the mission, the physical plant and the clearance architecture were never relocated, only renamed.",
 "tier": 3
@@ -30,6 +33,7 @@
 "dateEnd": null,
 "dateStart": "1997",
 "direction": "out",
+"edgeId": "e-d1e2d616b4",
 "edgeLabel": "Co-located at Wright-Patterson with the successor to the Foreign Technology Division",
 "id": "nasic",
 "l0": false,
@@ -51,6 +55,7 @@
 "dateEnd": null,
 "dateStart": "1997-10-31",
 "direction": "out",
+"edgeId": "e-9a105ef1f4",
 "edgeLabel": "Single Air Force science and technology laboratory, Wright-Patterson AFB",
 "id": "usaf",
 "l0": true,
@@ -112,7 +117,7 @@
 ],
 "sub": "Single Air Force science and technology laboratory, headquartered at Wright-Patterson AFB, Ohio",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 556 of 1170, score 29). 2 connections, 0 of them custody/funding/programmatic. Axes C3/A3/D0.",
+"tierRationale": "Re-graded B on a global pass (rank 553 of 1138, score 29). 2 connections, 0 of them custody/funding/programmatic. Axes C3/A3/D0.",
 "timeline": [],
 "unverified": []
 }

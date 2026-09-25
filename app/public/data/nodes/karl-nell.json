@@ -34,16 +34,19 @@
 ],
 "claims": [
 {
+"id": "c-e04c85dc04",
 "source": "Karl Nell to Leslie Kean and Ralph Blumenthal, The Debrief, 5 June 2023",
 "text": "'Beyond reproach' - Nell's on-record characterization of Grusch.",
 "tier": 2
 },
 {
+"id": "c-0903921692",
 "source": "Karl Nell, on the record, The Debrief, 5 June 2023",
 "text": "Grusch's assertion of an eighty-year sub rosa arms race focused on reverse engineering technologies of unknown origin is 'fundamentally correct,' and at least some of those technologies derive from non-human intelligence.",
 "tier": 2
 },
 {
+"id": "c-5b18a9c6bd",
 "source": "Karl Nell, SALT iConnections conference, May 2024",
 "text": "'Non-human intelligence exists, non-human intelligence has been interacting with humanity. This interaction is not new, and it's been ongoing, and unelected people in the government are aware of that. There's zero doubt.'",
 "tier": 2
@@ -59,6 +62,7 @@
 "dateEnd": null,
 "dateStart": "2023",
 "direction": "out",
+"edgeId": "e-f85b013e3f",
 "edgeLabel": "On-record corroboration: 'beyond reproach' and the arms race is 'fundamentally correct'",
 "id": "david-grusch",
 "l0": false,
@@ -85,6 +89,7 @@
 "dateEnd": "2024",
 "dateStart": "2024",
 "direction": "out",
+"edgeId": "e-bf17a5f41c",
 "edgeLabel": "Mace read his 'nonhuman intelligence exists' statement into the hearing record",
 "id": "hearing-2024-11-13",
 "l0": true,
@@ -106,6 +111,7 @@
 "dateEnd": null,
 "dateStart": "2025",
 "direction": "in",
+"edgeId": "e-fbe842e2a5",
 "edgeLabel": "Nell published 'The UFO Enigma: A Call for US Government Disclosure' through Sol in May 2025",
 "id": "sol-foundation",
 "l0": true,
@@ -127,6 +133,7 @@
 "dateEnd": "2022",
 "dateStart": "2021",
 "direction": "out",
+"edgeId": "e-40af12a2c9",
 "edgeLabel": "Army liaison to the UAP Task Force, 2021-2022",
 "id": "uap-task-force",
 "l0": true,
@@ -189,7 +196,7 @@
 "status": "active",
 "sub": "Col. (ret.), US Army; Army liaison to the UAP Task Force 2021-2022",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 546 of 1170, score 29). 4 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 543 of 1138, score 29). 4 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D3.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": [

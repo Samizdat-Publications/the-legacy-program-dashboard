@@ -5,21 +5,25 @@
 "band": null,
 "claims": [
 {
+"id": "c-51c56ff025",
 "source": "CIA FOIA Reading Room, UFOs: Fact or Fiction? collection, accessed 12 August 2026",
 "text": "The CIA reading room UFO collection contains 19 documents spanning the 1940s through the early 1990s, largely cables on foreign-media UFO reports and internal correspondence on public inquiries.",
 "tier": 1
 },
 {
+"id": "c-fcd7cf4554",
 "source": "Disclosure Archives inventory of Release 03",
 "text": "PURSUE Release 03 included a less-redacted version of the CIA's 1953 Robertson Panel report and a CIA file on a 2008 disc-like object over Harare International Airport.",
 "tier": 2
 },
 {
+"id": "c-aa20c83b57",
 "source": "EarthSky, 10 August 2026",
 "text": "PURSUE Release 05 included a CIA report of an alleged November 1963 Brazil recovery of a metal sphere with a deceased occupant in a spacesuit, later deemed unsubstantiated by the American Consulate.",
 "tier": 2
 },
 {
+"id": "c-fbdb6e2378",
 "source": "Inference from the Release 03 contents against the version long available in the CIA reading room",
 "text": "A less-redacted 1953 Robertson Panel record surfacing in 2026 establishes that the Agency's redactions on its own foundational UAP document survived seventy-three years of FOIA practice and fell to a single cabinet-level direction.",
 "tier": 3
@@ -35,6 +39,7 @@
 "dateEnd": "2026",
 "dateStart": "2026",
 "direction": "in",
+"edgeId": "e-7fd38f3f7c",
 "edgeLabel": "Released a less-redacted 1953 Robertson Panel record",
 "id": "pursue-release-03",
 "l0": false,
@@ -61,6 +66,7 @@
 "dateEnd": "2026",
 "dateStart": "2026",
 "direction": "in",
+"edgeId": "e-4ea7aca143",
 "edgeLabel": "Released the 1963 Brazil sphere report",
 "id": "pursue-release-05",
 "l0": false,
@@ -126,7 +132,7 @@
 ],
 "sub": "19 documents, 1940s-1990s; plus the 1997 Studies in Intelligence history",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 536 of 1170, score 30). 2 connections, 2 of them custody/funding/programmatic. Axes C1/A2/D2.",
+"tierRationale": "Re-graded B on a global pass (rank 534 of 1138, score 30). 2 connections, 2 of them custody/funding/programmatic. Axes C1/A2/D2.",
 "timeline": [],
 "unverified": []
 }

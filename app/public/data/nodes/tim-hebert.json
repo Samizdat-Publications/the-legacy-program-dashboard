@@ -8,21 +8,25 @@
 "chronology": [],
 "claims": [
 {
+"id": "c-7ffc5950cc",
 "source": "Tim Hebert, 'Echo Flight: The Makings of a UFO Myth', https://timhebert2.blogspot.com/2011/08/disproving-ufo-case.html and 'Engineering Change Proposal 1221', http://timhebert.blogspot.com/2012/10/engineering-change-proposal-1221-air.html , both opened 2026-09-19",
 "text": "Tim Hebert states he served as a Minuteman missile crew member with the 490th Strategic Missile Squadron at Malmstrom AFB from 1981 to 1985 and in the Wing Codes Division at Grand Forks AFB from 1985 to 1988, and later worked as a programme manager assigned to Air Force Systems Command handling engineering change proposals.",
 "tier": 2
 },
 {
+"id": "c-4b1990b373",
 "source": "Tim Hebert, https://timhebert2.blogspot.com/2011/08/disproving-ufo-case.html , opened 2026-09-19",
 "text": "His argument is that the 341st SMW unit history goes into detail on the launch crew's debriefing while never mentioning the maintenance teams at the launch facilities whose presence the UFO account requires, and that the engineering investigation centred on an electromagnetic-pulse-like noise pulse originating within the launch control centre rather than externally.",
 "tier": 2
 },
 {
+"id": "c-e71bfe943d",
 "source": "341st SMW history, Jul-Sep 1967, pp 52-53, https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf , opened 2026-09-19",
 "text": "His ECP 1221 claim was verified independently against the primary document by this board. The 341st SMW history states that Boeing submitted ECPs numbered 1221, 1141-1 and 1141-2 for the modification of EMP for Force Mod, that ECP 1221 modifies the interconnecting box by adding a sub-assembly containing zener diodes and isolation components, and cites it as 'Engineering Change Proposal, ECP No. 1221, submitted by Boeing Company, Ex 35'.",
 "tier": 1
 },
 {
+"id": "c-24a97e3718",
 "source": "NICAP, 'Wurtsmith and Others', citing Cahill's Research Record of Events of 17 January 1979, http://www.nicap.org/articles/CI-Wurtsmith.htm , opened 2026-09-19",
 "text": "The counterexample to his strongest move is inside this same cluster. SSgt Paul J. Cahill, historian of the 379th Bombardment Wing, wrote in a Research Record of Events dated 17 January 1979: 'Following that request, I checked the Oct-Dec 75 Wing History and found no references to the incident.' A wing history's silence about an event other Air Force paper records is a documented occurrence, which limits how much weight an argument from silence can carry.",
 "tier": 1
@@ -38,6 +42,7 @@
 "dateEnd": "2012-10",
 "dateStart": "2011-08",
 "direction": "out",
+"edgeId": "e-ffd37b38ec",
 "edgeLabel": "Published argument from the released paper that no UFO element is supported",
 "id": "malmstrom-echo-flight-1967",
 "l0": true,
@@ -79,6 +84,7 @@
 },
 "claimTier": 2,
 "denialKind": "directed",
+"edgeId": "e-ffd37b38ec",
 "label": "Published argument from the released paper that no UFO element is supported",
 "note": "The most careful sceptical reading opened by this board, and the one whose ECP 1221 claim this board verified independently against the primary document. His argument from the unit history's silence has a documented counterexample at Wurtsmith.",
 "of": {
@@ -150,7 +156,7 @@
 "status": "alive",
 "sub": "Former USAF Minuteman missile crew member, 490th SMS, Malmstrom AFB 1981-85, and Wing Codes Division, Grand Forks AFB 1985-88; later an Air Force Systems Command programme manager; sceptical analyst of the Echo Flight case",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 773 of 1170, score 22). 1 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 757 of 1138, score 22). 1 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D2.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": [

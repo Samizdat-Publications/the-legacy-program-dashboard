@@ -5,41 +5,49 @@
 "band": null,
 "claims": [
 {
+"id": "c-2e3e96260a",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237653/",
 "text": "Defense Intelligence Reference Document titled \"Cockpits in the Era of Breakthrough Flight\", series \"Defense Futures\", published 2010-11-01 with an Intelligence Cut-Off Date (ICOD) of 2010-07-08, DIA document number DIA-08-1011-002. Released by DIA under FOIA and posted in the DIA FOIA Electronic Reading Room.",
 "tier": 1
 },
 {
+"id": "c-67d8fb7446",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237653/",
 "text": "Inside cover reads: \"This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency [redacted b(3) 10 USC 424] Advanced Aerospace Weapon System Applications (AAWSA) Program\" and directs questions to the \"AAWSA Program Manager, Defense Intelligence Agency, ATTN: [redacted], Bldg 6000, Washington, DC 20340-5100\".",
 "tier": 1
 },
 {
+"id": "c-f43e370d29",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237653/",
 "text": "Author name is withheld in the DIA-released copy under FOIA exemption (b)(6); the \"Prepared by:\" line is withheld under (b)(3) 10 USC 424. The released cover therefore does not attribute the DIRD to a named author.",
 "tier": 1
 },
 {
+"id": "c-bdc6ebb4ea",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237653/",
 "text": "Released PDF is 57 pages, marked UNCLASSIFIED//FOR OFFICIAL USE ONLY (FOUO caveat partially illegible in the scan).",
 "tier": 1
 },
 {
+"id": "c-eec97a3c2d",
 "source": "https://irp.fas.org/dia/aatip-list.pdf",
 "text": "The DIA list transmitted to the Senate Armed Services Committee on 9 January 2018 reads 'Cockpits in the Era of breakthrough Flight, Dr G Millis, Tau Zero.'",
 "tier": 1
 },
 {
+"id": "c-62af1eea40",
 "source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_28-DIRD_Cockpits_in_the_Era_of_Breakthrough_Flight.pdf",
 "text": "The released cover page carries the date 1 November 2010, an Intelligence Cut-Off Date of 8 July 2010 and document number DIA-08-1011-002, under the 'Defense Futures' banner rather than 'Acquisition Threat Support'.",
 "tier": 1
 },
 {
+"id": "c-c73cbea831",
 "source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_28-DIRD_Cockpits_in_the_Era_of_Breakthrough_Flight.pdf",
 "text": "The cover states the DIRD 'provides non-substantive but authoritative reference information related to intelligence topics or methodologies' and that the product is one of a series produced in FY 2009 under the DIA Advanced Aerospace Weapon System Applications (AAWSA) Program; the author field is redacted under (b)(6).",
 "tier": 1
 },
 {
+"id": "c-cc21650add",
 "source": "http://www.jbis.org.uk/paper.php?p=2013.66.278",
 "text": "An open-source counterpart, 'Cockpit considerations for Inertial-Affect and FTL Propulsion' by M. G. Millis, was published in the Journal of the British Interplanetary Society in 2013; its abstract addresses added degrees of motion, hover-to-superluminal speed range, new motion displays, and the loss of the pilot's inertial and visual cues.",
 "tier": 1
@@ -55,6 +63,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-48ca43b399",
 "edgeLabel": "commissioned under AAWSAP, published in the 'Defense Futures' series",
 "id": "aawsap",
 "l0": true,
@@ -86,6 +95,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-46a5048732",
 "edgeLabel": "subject domain: crew-station design for breakthrough flight regimes",
 "id": "d-aerospace",
 "l0": false,
@@ -117,6 +127,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-57c967321c",
 "edgeLabel": "DIRD",
 "id": "dird-series",
 "l0": true,
@@ -138,6 +149,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-abe87589e8",
 "edgeLabel": "series member",
 "id": "dird-series",
 "l0": true,
@@ -164,6 +176,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-7c47cf14a4",
 "edgeLabel": "authored by Marc G. Millis, Tau Zero Foundation",
 "id": "marc-millis",
 "l0": false,
@@ -281,7 +294,7 @@
 ],
 "sub": "defense-intelligence-reference-document",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 379 of 1170, score 35). 5 connections, 2 of them custody/funding/programmatic. Axes C0/A0/D0.",
+"tierRationale": "Re-graded B on a global pass (rank 381 of 1138, score 35). 5 connections, 2 of them custody/funding/programmatic. Axes C0/A0/D0.",
 "timeline": [],
 "unverified": []
 }

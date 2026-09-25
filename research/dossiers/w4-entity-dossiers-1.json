@@ -564,7 +564,8 @@
       "roles": [
         "disclosure",
         "custody",
-        "oversight"
+        "oversight",
+        "concealment"
       ],
       "narrative": "The Unidentified Anomalous Phenomena Disclosure Act, sponsored by Senators Schumer and Rounds, passed the Senate in July 2023 as an amendment to the FY2024 NDAA. In its Senate form it would have created an independent Review Board with authority over agency withholding decisions, and it would have directed the federal government to exercise eminent domain over any recovered technologies of unknown origin and biological evidence of non-human intelligence held by private persons or entities. Neither survived conference. What was enacted in Public Law 118-31 on 22 December 2023 was the records collection framework alone.\n\nWhat survived is still remarkable as legislative drafting. The statute directs NARA to build a collection consisting of copies of all Government, Government-provided, or Government-funded records relating to unidentified anomalous phenomena, technologies of unknown origin, and non-human intelligence, or equivalent subjects by any other name, with the specific and sole exclusion of temporarily non-attributed objects. Congress wrote three categories into federal records law. Unidentified anomalous phenomena is the neutral one. Technologies of unknown origin and non-human intelligence are not neutral at all; they are the categories a legacy recovery programme would generate. The clause about equivalent subjects by any other name is anti-evasion drafting aimed at codeword renaming. The exclusion of temporarily non-attributed objects is there to keep routine drone and balloon traffic out. Legislatures do not build statutory taxonomies for things they believe do not exist.\n\nNARA implemented it. It established Record Group 615, issued guidance to agencies through memoranda AC 26.2024 and AC 04.2025, and set the mechanics: agencies identify all UAP records in any format, make digital copies, attach prescribed metadata, and transfer. NARA accepts only digital versions. Agencies were to complete identification and organisation by 20 October 2024 and to initiate transfer in advance of 30 September 2025. One provision deserves particular attention. Where a publicly releasable record includes redactions, the agency must simultaneously transfer redacted and unredacted copies to NARA. The National Archives therefore holds unredacted originals of redacted UAP records that it does not publish, which makes NARA itself a custody node with material it is sitting on.\n\nThe results are the story. As of the Record Group 615 page's stated review date of 22 May 2026, the collection lists transmittals from seven organisations: the Federal Aviation Administration, the Nuclear Regulatory Commission, the Office of the Director of National Intelligence, the Office of the Secretary of Defense, the National Security Agency, the Department of State and the Federal Bureau of Investigation. That list is as notable for its absences as its contents. The Central Intelligence Agency, whose own historian documented decades of UFO cover story management, is absent. The Department of Energy, which holds the nuclear complex and the Restricted Data authority, is absent. The Defense Intelligence Agency, which AARO has confirmed holds the AAWSAP archive, is absent. NASA is absent. The Departments of the Army and Navy are absent. The Department of the Air Force was absent too until 28 August 2026, when it transferred thirty records as catalog series 656595571 -- the first military department to appear in the collection in its own right, and the service that ran Project SIGN, Project GRUDGE and Project Blue Book. AARO itself, whose Volume I lists partnering with the National Archives on locating UAP data as one of its four lines of effort, appears only through OSD.\n\nThe statutory architecture explains why. The Act imposes an obligation on agencies to identify their own records and to decide what is publicly releasable. There is no Review Board, no independent adjudicator of withholding, and no penalty for a null return. Independent tracking of the transfer deadline found that most agencies approached with records requests either produced nothing or did not respond at all. A statute that asks the holders of a secret to declare it, and provides no mechanism when they do not, produces exactly the collection that exists.\n\nThe 2026 development compounds rather than fixes this. A presidential directive in February 2026 launched a multiagency effort to identify, review, declassify and publicly release UAP records, with a centralised repository opened in May 2026 on the Department of War's own website and material issued in periodic tranches. The releases have included previously unseen material, including a Department of Energy report on a 2015 incident over the Pantex nuclear weapons plant. But the channel is executive, discretionary, and controlled by the departments whose compliance with the statutory channel was the problem. Jordan Flowers of the Disclosure Foundation made the point directly in February 2026, noting that Congress had already passed laws establishing a public UAP records collection at the National Archives and that the existing statutory framework gave the administration a path it was not using, while warning that classification nuances could produce misleadingly partial or incomplete disclosures.\n\nThe collection is therefore best understood on this board as an instrument that works and a compliance record that does not. The statute is the strongest UAP disclosure law ever enacted and it names the categories precisely. Record Group 615 is real, it is growing, and NARA is holding unredacted copies the public cannot see. Eight agencies have delivered, the eighth on 28 August 2026. The agencies at the centre of the argument still have not, and the Air Force transfer costs them their best remaining excuse: a military department has now done it.",
       "claims": [
@@ -672,6 +673,126 @@
           "text": "Item 342UAP00005, catalogued as 'Estimate of the Situation, September 8, 1948', is Headquarters Fifth Air Force, Office of the AC of S, A-2, APO 710, 'Estimate of the Situation' covering 7 August to 4 September 1948, 21 pages, published for Fifth Air Force Division and Wing-Base Commanders, with a table of contents covering Japan, Korea, China, the Philippines and Malaya. It is a periodic Far East theatre intelligence estimate and is not the Air Materiel Command estimate of 1948 that Ruppelt described.",
           "tier": 1,
           "source": "https://catalog.archives.gov/medialz/electronic-records/rg-615/656595571/00258350_Estimate_of_the_Situation.pdf"
+        },
+        {
+          "text": "Record Group 615, the Unidentified Anomalous Phenomena Records Collection, was created by Sections 1841-1843 of the FY2024 National Defense Authorization Act, Public Law 118-31, div. A, title XVIII, subtitle C, December 22, 2023, 137 Stat. 699.",
+          "tier": 1,
+          "source": "Pub. L. 118-31, secs. 1841-1843, reproduced as a note to 44 U.S.C. ch. 21 at https://www.archives.gov/about/laws/nara.html#uaps; collection page at https://www.archives.gov/research/topics/uaps/rg-615"
+        },
+        {
+          "text": "Section 1841(a)(1)(C) provides that the Collection 'shall consist of record copies of all Government, Government-provided, or Government-funded records relating to unidentified anomalous phenomena, technologies of unknown origin, and non-human intelligence (or equivalent subjects by any other name with the specific and sole exclusion of temporarily non-attributed objects).'",
+          "tier": 1,
+          "source": "Pub. L. 118-31, sec. 1841(a)(1)(C), https://www.archives.gov/about/laws/nara.html#uaps"
+        },
+        {
+          "text": "Section 1842(c)(1) required each head of a Government office to review, identify and organise every UAP record in its custody for public disclosure and transmission to the Archivist not later than 300 days after December 22, 2023.",
+          "tier": 1,
+          "source": "Pub. L. 118-31, sec. 1842(c)(1), https://www.archives.gov/about/laws/nara.html#uaps"
+        },
+        {
+          "text": "Section 1842(a)(2)(A) provides that 'No unidentified anomalous phenomena record shall be destroyed, altered, or mutilated in any way.'",
+          "tier": 1,
+          "source": "Pub. L. 118-31, sec. 1842(a)(2)(A), https://www.archives.gov/about/laws/nara.html#uaps"
+        },
+        {
+          "text": "Section 1842(a)(2)(B) bars any UAP record made available or disclosed to the public before December 22, 2023 from being withheld, redacted, postponed for public disclosure, or reclassified.",
+          "tier": 1,
+          "source": "Pub. L. 118-31, sec. 1842(a)(2)(B), https://www.archives.gov/about/laws/nara.html#uaps"
+        },
+        {
+          "text": "Section 1842(c)(2)(G)(ii) directs agencies to give precedence to 'the identification, review, and transmission of all records that most unambiguously and definitively pertain to unidentified anomalous phenomena, technologies of unknown origin, and non-human intelligence.'",
+          "tier": 1,
+          "source": "Pub. L. 118-31, sec. 1842(c)(2)(G)(ii), https://www.archives.gov/about/laws/nara.html#uaps"
+        },
+        {
+          "text": "Section 1843(a) permits postponement of disclosure only where 'the original classification authority makes a determination that there is clear and convincing evidence' of enumerated harms; the enacted subtitle establishes no independent review board to adjudicate those determinations.",
+          "tier": 1,
+          "source": "Pub. L. 118-31, sec. 1843(a), https://www.archives.gov/about/laws/nara.html#uaps"
+        },
+        {
+          "text": "Section 1842(g)(2)(B) requires that every continued postponement carry 'an unclassified written description of the reason for such continued postponement relevant to these specific records,' provided to the Archivist and published in the Federal Register.",
+          "tier": 1,
+          "source": "Pub. L. 118-31, sec. 1842(g)(2)(B), https://www.archives.gov/about/laws/nara.html#uaps"
+        },
+        {
+          "text": "Section 1842(g)(2)(D) requires each UAP record to be publicly disclosed in full not later than 25 years after its first creation unless the President certifies that continued postponement is made necessary by an identifiable harm whose gravity outweighs the public interest in disclosure.",
+          "tier": 1,
+          "source": "Pub. L. 118-31, sec. 1842(g)(2)(D), https://www.archives.gov/about/laws/nara.html#uaps"
+        },
+        {
+          "text": "Section 1841(d)(2) requires NARA's National Security Program Office, with the Information Security Oversight Office, to establish a security programme for postponed records, and section 1842(f) provides that postponed records are held by the originating body until that programme exists -- so withheld records physically remain with the agency that withheld them.",
+          "tier": 1,
+          "source": "Pub. L. 118-31, secs. 1841(d)(2) and 1842(f), https://www.archives.gov/about/laws/nara.html#uaps"
+        },
+        {
+          "text": "As of the page's May 22, 2026 review date, RG 615 contains series transferred from the Federal Aviation Administration (NAID 493468575), the Nuclear Regulatory Commission (488808322), the Office of the Director of National Intelligence (493468579), the Office of the Secretary of Defense (493468580), the National Security Agency (580103959), the Department of State (608806625), and the Federal Bureau of Investigation (580705010).",
+          "tier": 1,
+          "source": "National Archives, \"Record Group 615: Unidentified Anomalous Phenomena Records Collection,\" https://www.archives.gov/research/topics/uaps/rg-615"
+        },
+        {
+          "text": "Section 1841(e) assigns continuing legislative oversight of the Collection to the Senate Committees on Homeland Security and Governmental Affairs, Armed Services and Intelligence, and to the House Committees on Oversight and Accountability, Armed Services and Intelligence.",
+          "tier": 1,
+          "source": "Pub. L. 118-31, sec. 1841(e), https://www.archives.gov/about/laws/nara.html#uaps"
+        },
+        {
+          "text": "NARA issued AC Memo 04.2025, 'Transfer of Publicly Releasable Unidentified Anomalous Phenomena (UAP) Records,' to federal agencies governing identification, preparation and transfer of records into Record Group 615.",
+          "tier": 2,
+          "source": "National Archives, AC Memo 04.2025, https://www.archives.gov/records-mgmt/memos/ac-04-2025"
+        },
+        {
+          "text": "In 2026 a parallel executive disclosure channel is operating: the Presidential Unsealing and Reporting System for UAP Encounters (PURSUE) Task Force released a fourth tranche of records on July 10, 2026, published at war.gov/ufo, following a presidential order to disclose collected UAP records.",
+          "tier": 2,
+          "source": "Douglas Messier, \"Guidance Published for UAP Disclosure,\" August 2, 2026, https://douglasmmessier.substack.com/p/guidance-published-for-uap-disclosure; releases at https://www.war.gov/ufo/"
+        },
+        {
+          "text": "Item 342UAP00026, catalogued only as 'Correspondence Regarding Unidentified Flying Objects, 1947', is Fourth Air Force file 212.1, 'REPORTS GENERAL / REPORTS OF UNIDENTIFIED FLYING OBJECTS / YEAR 1947', 302 pages, indexed on Fourth AF Form No. 219 'LIST OF PAPERS' with at least 51 numbered serials running from 7 January 1947 to 22 December 1947.",
+          "tier": 1,
+          "source": "https://catalog.archives.gov/medialz/electronic-records/rg-615/656595571/01030306_Correspondence_Regarding_Unidentified_Flying_Objects.pdf"
+        },
+        {
+          "text": "The Fourth Air Force 1947 index records liaison with the Federal Bureau of Investigation on flying-disc reports: serial 40 is an information letter from Headquarters Fourth Air Force dated 27 August 1947 to the FBI at San Francisco, and serial 51 is an incident report from the FBI at Phoenix, Arizona dated 23 October 1947 to the Special Agent in Charge, San Francisco.",
+          "tier": 1,
+          "source": "https://catalog.archives.gov/medialz/electronic-records/rg-615/656595571/01030306_Correspondence_Regarding_Unidentified_Flying_Objects.pdf"
+        },
+        {
+          "text": "Serial 44 of the Fourth Air Force 1947 index is summarised in the file's own words as 'Rept, facts regarding Disc story, Fred Crisman, Harold Dahl & crashed B-25, Tacoma, Wash area', dated 22 August 1947 and directed to the Director, FBI. Related serials in the same index cover a request for a statement from Richard Harkins, a Western Union message from H. Dahl, TWX 150 on the crashed B-25, and newspaper clippings on the B-25 crash at Kelso, Washington.",
+          "tier": 1,
+          "source": "https://catalog.archives.gov/medialz/electronic-records/rg-615/656595571/01030306_Correspondence_Regarding_Unidentified_Flying_Objects.pdf"
+        },
+        {
+          "text": "The Fourth Air Force 1947 index carries multiple serials of correspondence to and from Kenneth Arnold, including serial 4, an investigation of 'K.M. Arnold, Flying Disc first rept in this area' sent by Headquarters Fourth Air Force to AAF and ADC on 18 July 1947, and serial 9, a 22 July 1947 request from R.A. Palmer of Ventura Press, Evanston, Illinois, for an article about flying saucers from Arnold.",
+          "tier": 1,
+          "source": "https://catalog.archives.gov/medialz/electronic-records/rg-615/656595571/01030306_Correspondence_Regarding_Unidentified_Flying_Objects.pdf"
+        },
+        {
+          "text": "Item 342UAP00024, catalogued only as 'I Once Saw A Flying Saucer - Project Blue Book, April 18, 1966', is a piece titled 'I Once Saw a Flying Saucer' by Ira C. Eaker. The catalog record does not name him. It opens on the 5 April 1966 appearance of Secretary of the Air Force Harold Brown and Chief of Staff General J.P. McConnell before the House Armed Services Committee, and states that in eighteen years more than 10,000 UFO sightings had been investigated with 663 listed as unexplained.",
+          "tier": 1,
+          "source": "https://catalog.archives.gov/medialz/electronic-records/rg-615/656595571/00891775_I_Once_Saw_A_Flying_Saucer-Project_Blue_Book.pdf"
+        },
+        {
+          "text": "The Air Force RG 615 series runs to 8,093 pages across its 30 PDFs. The scans carry no OCR text layer: the only machine-readable text in the files is the page-header identifier stamped on each page during processing, so the series cannot be full-text searched as released.",
+          "tier": 1,
+          "source": "https://catalog.archives.gov/id/656595571"
+        },
+        {
+          "text": "Four of the 30 items carry a processing page-header identifier that belongs to a different record. Items 342UAP00003 (own identifier 00124399), 342UAP00004 (00174934) and 342UAP00007 (00423077) are all stamped 00105830, which is the identifier of item 342UAP00002; item 342UAP00027 (01030308) is stamped 01030306, the identifier of item 342UAP00026. In item 342UAP00003 the correct identifier appears only on a physical label photographed on the page. Page-level stamps in this series are therefore not reliable for provenance.",
+          "tier": 1,
+          "source": "https://catalog.archives.gov/id/656595571"
+        },
+        {
+          "text": "Item 342UAP00013, catalogued as '78th Fighter Wing, December, 1964', is the history of the 78th Fighter Wing (Air Defense) at Hamilton AFB, California, under the 28th Air Division (SAGE), Air Defense Command, commanded by Colonel Charles D. Chitty Jr., flying 21 F-101B and 2 F-101F interceptors. It is an air-defence interceptor wing, that is, one of the units that would actually be scrambled against an unidentified radar track.",
+          "tier": 1,
+          "source": "https://catalog.archives.gov/medialz/electronic-records/rg-615/656595571/00451970_78th_Fighter_Wing.pdf"
+        },
+        {
+          "text": "Item 342UAP00014, catalogued as '95th Bombardment Wing History, March, 1960', is the history of the 95th Bombardment Wing (Heavy), 1-31 March 1960, assigned to Fifteenth Air Force, Strategic Air Command, permanently stationed at Biggs Air Force Base, El Paso, Texas. A nuclear bomber wing history is in the Air Force's UAP records transfer.",
+          "tier": 1,
+          "source": "https://catalog.archives.gov/medialz/electronic-records/rg-615/656595571/00452964_U-PV-FOUO_95th_Bombardment_Wing_History.pdf"
+        },
+        {
+          "text": "The 95th Bombardment Wing history was originally classified SECRET under AFR 205-1 and its title page carries the declassification stamp 'DECLASSIFIED AF/SPIB LTR, 2 NOV 79 BY AFSHRC DATE: 13 DEC 1982'. It was therefore declassified some forty-four years before it was accessioned into Record Group 615, where item 342UAP00005 carries a 5 May 2025 Air Force Declassification Office action under the FY24 NDAA. The transfer mixes newly declassified material with material declassified decades earlier, so accession into RG 615 is not evidence that a record was previously withheld.",
+          "tier": 1,
+          "source": "https://catalog.archives.gov/medialz/electronic-records/rg-615/656595571/00452964_U-PV-FOUO_95th_Bombardment_Wing_History.pdf"
         }
       ],
       "denialPosture": "NARA has made no substantive claim about the phenomenon and issues no denials; it is a records custodian executing a statute. Its published position is procedural, that it receives records from agencies on a rolling basis and will add to Record Group 615 as they are transferred. The absence of denial is itself significant: NARA has never stated that any agency has certified it holds no UAP records, and it publishes no compliance register.",
@@ -681,7 +802,28 @@
         "NARA holds unredacted copies of redacted UAP records under the simultaneous transfer requirement. The volume of that unpublished holding is not disclosed anywhere.",
         "Whether records classified as Restricted Data under the Atomic Energy Act are treated as within or outside the transfer obligation has never been addressed by NARA guidance, which matters directly for DOE and the nuclear weapons complex.",
         "The relationship between the statutory Record Group 615 collection and the 2026 executive-branch release channel is undefined. It is not established whether material released through the executive channel is also being accessioned into RG 615, or whether it substitutes for it.",
-        "The Senate-passed Review Board and eminent domain provisions have not been reintroduced and enacted. Whether any subsequent NDAA restores them is a live tracking item."
+        "The Senate-passed Review Board and eminent domain provisions have not been reintroduced and enacted. Whether any subsequent NDAA restores them is a live tracking item.",
+        "Whether the subject guidebook and index required by section 1841(a)(1)(D) has been prepared or published.",
+        "How many records have been postponed under section 1843, by which agencies, and whether any unclassified written descriptions of continued postponement have been published in the Federal Register as section 1842(g)(2)(B) requires.",
+        "Whether NARA's National Security Program Office has stood up the security programme required by section 1841(d)(2) -- until it does, no postponed record can leave agency custody.",
+        "Whether any President has issued a certification under section 1842(g)(2)(D) to continue postponing records older than 25 years, and how many records are past that deadline without one.",
+        "Whether any agency has certified completion of the section 1842(c)(1) 300-day review, and whether the Department of Energy, CIA, DIA, NRO, NGA, the Army and the Navy have transferred anything into RG 615. Half-closed on 28 August 2026: the Department of the Air Force transferred thirty records, so a military department has now complied and the rest cannot claim the obligation is unworkable.",
+        "Whether contractor-held records are being captured under the 'Government-funded' clause of section 1841(a)(1)(C), and whether any contractor has been served a records demand.",
+        "Whether PURSUE tranche releases at war.gov are also being transmitted to the Archivist for inclusion in RG 615, or are a parallel channel outside the statutory accountability structure.",
+        "Why the Air Force records were declassified in May 2025 under the UAP records statute but not accessioned into RG 615 until August 2026, and whether the same interval applies to other agencies' completed reviews.",
+        "Whether the thirty Air Force records are the whole of that department's return or a first tranche, and whether AFOSI, AFHRA Maxwell and the Air Force Declassification Office hold further UAP records already adjudicated releasable.",
+        "Four of the 30 Air Force items carry another record's page identifier, and the series has no OCR layer. Whether NARA or the Air Force Declassification Office knows, and whether the same processing produced the stamps on other RG 615 transfers, is unasked.",
+        "The Fourth Air Force 1947 file indexes at least 51 serials including FBI liaison and the Crisman/Dahl/crashed-B-25 report. None of that record is on this board, and the file is now unrestricted with a PDF attached.",
+        "How many of the thirty Air Force items were declassified under the FY24 NDAA and how many were already declassified years earlier and merely moved. Item 342UAP00005 carries a May 2025 action; item 342UAP00014 carries a 1979/1982 one. Without that split, the size of the transfer says nothing about how much was actually being withheld."
+      ],
+      "connections": [
+        "RG 615 is the disclosure end-state of the same statutory sequence that begins with 50 U.S.C. 3373b (FY2023 NDAA sec. 1673), which Grusch helped draft.",
+        "Section 1843's 'original classification authority' gate imports the self-adjudication principle described in classified-annex.",
+        "Records like the Halt memo and the DEFE 24 files bearing on rendlesham-1980 fall under section 1842(a)(2)(B)'s bar on re-withholding already-public UAP records.",
+        "AARO is named in sections 1842(c)(2)(E), (F) and (3) as an office that other agencies must make records available to -- giving the office accused of being non-neutral a statutory role in the records pipeline.",
+        "The KONA BLUE and AAWSAP/AATIP documents released by DoD and DHS in partnership are precisely the class of record section 1842 was written to capture.",
+        "The 2026 PURSUE Task Force and ODNI memorandum ES 2026-00818 (Aaron Lukas, July 31, 2026) run alongside RG 615 and raise the question of dual custody.",
+        "Presidential libraries and archival depositories under 44 U.S.C. 2112 are given expedited-review priority by section 1842(c)(3), reaching back into the 1944-1970 period this board covers."
       ]
     }
   }

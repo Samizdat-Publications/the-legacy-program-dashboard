@@ -5,16 +5,19 @@
 "band": null,
 "claims": [
 {
+"id": "c-01fc0691e3",
 "source": "David Fravor, written statement to House Oversight, 26 July 2023",
 "text": "Princeton tracked the objects on Aegis for roughly two weeks before 14 Nov 2004, observing descents from above 80,000 ft to 20,000 ft.",
 "tier": 1
 },
 {
+"id": "c-97644c2c62",
 "source": "Navy range fouler report on the 14 Nov 2004 incident, released via Navy FOIA reading room 13 January 2023",
 "text": "'Reporting terminated at 3rd Fleet, there was no process to share the reporting.'",
 "tier": 1
 },
 {
+"id": "c-8575330600",
 "source": "Kevin Day and Gary Voorhis public accounts, 2018-2019; no primary record located as of Aug 2026",
 "text": "Princeton's recorded radar and CEC data for the encounter were removed or wiped. Reasoning: two crewmen in different billets describe the same collection, and no Princeton sensor data has ever been produced despite the incident being formally documented in Navy range fouler reporting.",
 "tier": 3
@@ -30,6 +33,7 @@
 "dateEnd": "2004",
 "dateStart": "2004",
 "direction": "in",
+"edgeId": "e-73d1ba7279",
 "edgeLabel": "Says recording media were surrendered or wiped after 14 Nov 2004",
 "id": "gary-voorhis",
 "l0": false,
@@ -51,6 +55,7 @@
 "dateEnd": "2004",
 "dateStart": "2004",
 "direction": "in",
+"edgeId": "e-1c7770bb23",
 "edgeLabel": "CEC/Aegis systems technician aboard USS Princeton, Nov 2004",
 "id": "gary-voorhis",
 "l0": false,
@@ -72,6 +77,7 @@
 "dateEnd": "2004",
 "dateStart": "2004",
 "direction": "in",
+"edgeId": "e-e82489065f",
 "edgeLabel": "Crewman aboard USS Princeton, Nov 2004",
 "id": "jason-turner",
 "l0": false,
@@ -93,6 +99,7 @@
 "dateEnd": "2004",
 "dateStart": "2004",
 "direction": "in",
+"edgeId": "e-435a682964",
 "edgeLabel": "Senior Chief Operations Specialist aboard USS Princeton, Nov 2004",
 "id": "kevin-day",
 "l0": false,
@@ -114,6 +121,7 @@
 "dateEnd": null,
 "dateStart": "2004",
 "direction": "out",
+"edgeId": "e-74535c77a4",
 "edgeLabel": "Generated the primary sensor record of the encounter; no such data has ever been released",
 "id": "nimitz-2004",
 "l0": true,
@@ -140,6 +148,7 @@
 "dateEnd": "2004-11-14",
 "dateStart": "2004-11-01",
 "direction": "out",
+"edgeId": "e-523fabda6a",
 "edgeLabel": "Princeton's SPY-1B held the tracks and vectored the intercept",
 "id": "nimitz-2004",
 "l0": true,
@@ -195,7 +204,7 @@
 ],
 "sub": "Ticonderoga-class Aegis cruiser, Carrier Strike Group 11",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 413 of 1170, score 34). 6 connections, 2 of them custody/funding/programmatic. Axes C2/A1/D2.",
+"tierRationale": "Re-graded B on a global pass (rank 412 of 1138, score 34). 6 connections, 2 of them custody/funding/programmatic. Axes C2/A1/D2.",
 "timeline": [
 {
 "claimTier": null,

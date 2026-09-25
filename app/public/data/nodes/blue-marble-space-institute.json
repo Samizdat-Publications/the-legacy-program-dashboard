@@ -5,21 +5,25 @@
 "band": null,
 "claims": [
 {
+"id": "c-c8a3e4f8ac",
 "source": "bmsis.org/about",
 "text": "BMSIS is a non-profit public charity organised under section 501(c)(3) of the US Internal Revenue Code, self-described as an international community engaged in building a sustainable future and nurturing scientific interest among the public.",
 "tier": 1
 },
 {
+"id": "c-121adf222e",
 "source": "bmsis.org/about",
 "text": "Its research programme spans planetary habitability, origin of life, space biology, climate change, sustainable development, human spaceflight and solar system exploration, published in academic journals and disseminated through podcasts, seminars and the SAGANet network; all projects must include educational outreach.",
 "tier": 1
 },
 {
+"id": "c-2a5c0971e1",
 "source": "Inference",
 "text": "BMSIS's board significance is derivative rather than programmatic: it supplies an academically legitimate, government-independent affiliation for Jacob Haqq-Misra, allowing UAP-adjacent anomaly-search methodology to be published under an astrobiology institute's name. Reasoning: from the institute's stated remit combined with Haqq-Misra's recorded affiliation elsewhere on this board.",
 "tier": 3
 },
 {
+"id": "c-800a5b0448",
 "source": "Board bookkeeping",
 "text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
 "tier": 3
@@ -35,6 +39,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-4205b6b627",
 "edgeLabel": "BMSIS research investigator seated on NASA's UAP independent study team",
 "id": "nasa",
 "l0": true,
@@ -96,7 +101,7 @@
 ],
 "sub": "Research institute",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 1142 of 1170, score 9). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D0.",
+"tierRationale": "Re-graded C on a global pass (rank 1110 of 1138, score 9). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D0.",
 "timeline": [],
 "unverified": []
 }

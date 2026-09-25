@@ -8,16 +8,19 @@
 "chronology": [],
 "claims": [
 {
+"id": "c-c501f75f33",
 "source": "https://irp.fas.org/dia/aatip-list.pdf",
 "text": "The DIA letter of 9 January 2018 lists entry 6 as 'Biosensors and BioMEMS, Dr Bruce Towe, Univ of Arizona' and entry 17 as 'Biomaterials, Dr Bruce Towe, Univ of Arizona.'",
 "tier": 1
 },
 {
+"id": "c-1e08c15129",
 "source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_20-DIRD_Biosensors_and_BioMEMS-A_Survey_of_the_Present_Field.pdf",
 "text": "The released DIRD bears document number DIA-08-1003-020, publication date 31 March 2010 and Intelligence Cut-Off Date 1 December 2009.",
 "tier": 1
 },
 {
+"id": "c-7bb0ebc6ca",
 "source": "https://sbhse.engineering.asu.edu/2019/08/bruce-towe/",
 "text": "Towe's documented academic home is Arizona State University's School of Biological and Health Systems Engineering, where he researches neurostimulation, implantable microelectronics and bioelectronics - not the University of Arizona as recorded on the DIA list.",
 "tier": 2
@@ -33,6 +36,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-3205e66425",
 "edgeLabel": "authored by Bruce Towe",
 "id": "dird-biosensors-and-biomems-a-survey-of",
 "l0": false,
@@ -127,7 +131,7 @@
 "status": "active",
 "sub": "Biomedical engineer; author of two DIRDs, 'Biosensors and BioMEMS' (DIA-08-1003-020) and 'Biomaterials'",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 776 of 1170, score 22). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 760 of 1138, score 22). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D3.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": []

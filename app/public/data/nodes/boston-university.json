@@ -5,6 +5,7 @@
 "band": null,
 "claims": [
 {
+"id": "c-afe4a3cbdf",
 "source": "https://mark-skidmore.com/research/research-in-finance-public-finance/",
 "text": "Laurence J. Kotlikoff is a Professor of Economics at Boston University and co-authored three Forbes columns with Mark Skidmore on the $21 trillion figure.",
 "tier": 2
@@ -20,6 +21,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-6d6899acfb",
 "edgeLabel": "Professor of Economics",
 "id": "laurence-kotlikoff",
 "l0": false,
@@ -70,7 +72,7 @@
 ],
 "sub": "University; academic home of Laurence Kotlikoff",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 1170 of 1170, score 5). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D1.",
+"tierRationale": "Re-graded C on a global pass (rank 1138 of 1138, score 5). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D1.",
 "timeline": [],
 "unverified": []
 }

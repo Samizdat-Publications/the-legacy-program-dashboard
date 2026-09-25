@@ -36,16 +36,19 @@
 ],
 "claims": [
 {
+"id": "c-0042691a25",
 "source": "NSA UFO FOIA collection, litigation records and the Yeates Affidavit",
 "text": "In 1980 NSA was a defendant in Civil Action No. 80-1562, 'Citizens Against Unidentified Flying Objects Secrecy v. National Security Agency'; the presiding judge was given in camera access to a Top Secret explanation of why the UFO records were being withheld and ruled for NSA.",
 "tier": 1
 },
 {
+"id": "c-3869c21a7d",
 "source": "CourtListener, Citizens Against UFO Secrecy v. National Security Agency (D.C. Cir. 1981; cert. denied 1982)",
 "text": "The D.C. Circuit affirmed on 3 November 1981 and the Supreme Court denied certiorari on 8 March 1982.",
 "tier": 1
 },
 {
+"id": "c-c15531ba41",
 "source": "The Black Vault, 'UFOs: The National Security Agency (NSA) Collection'",
 "text": "NSA's UFO holdings were released only with most pages carrying a few visible words, using white-out redaction; a 2013 Mandatory Declassification Review was required to force further release.",
 "tier": 1
@@ -61,6 +64,7 @@
 "dateEnd": null,
 "dateStart": "1980",
 "direction": "out",
+"edgeId": "e-6704b4f2de",
 "edgeLabel": "Chief of NSA's Office of Policy; executed the 1980 in camera affidavit",
 "id": "nsa",
 "l0": true,
@@ -82,6 +86,7 @@
 "dateEnd": "1980",
 "dateStart": "1980",
 "direction": "out",
+"edgeId": "e-2a56b4bfcf",
 "edgeLabel": "Yeates executed the affidavit as NSA Chief of Policy",
 "id": "yeates-affidavit",
 "l0": false,
@@ -149,7 +154,7 @@
 "status": "dead",
 "sub": "NSA Chief, Office of Policy; declarant of the in camera affidavit in CAUS v. NSA",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 772 of 1170, score 22). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A3/D1.",
+"tierRationale": "Re-graded C on a global pass (rank 756 of 1138, score 22). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A3/D1.",
 "timeline": [],
 "unexplainedResidual": "A federal court accepted, in camera, a national-security justification for withholding UFO-related SIGINT. The justification has never been made public.",
 "unverified": [

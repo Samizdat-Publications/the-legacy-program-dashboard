@@ -5,21 +5,25 @@
 "band": null,
 "claims": [
 {
+"id": "c-c06837a444",
 "source": "S. 2226 as engrossed, Sec. 9007(a)-(b), GPO",
 "text": "Sec. 9007(a) establishes the Review Board 'as an independent agency' with nine members appointed by the President by and with the advice and consent of the Senate.",
 "tier": 1
 },
 {
+"id": "c-55495c867a",
 "source": "S. 2226 as engrossed, Sec. 9007(b)(4)(A), GPO",
 "text": "Sec. 9007(b)(4)(A) bars anyone with 'any previous or current involvement with any legacy program or controlling authority relating to the collection, exploitation, or reverse engineering of technologies of unknown origin.'",
 "tier": 1
 },
 {
+"id": "c-2440e0691c",
 "source": "S. 2226 as engrossed, Sec. 9009(c)(1), GPO",
 "text": "Sec. 9009(c)(1) requires disclosure absent 'clear and convincing evidence' for postponement, inverting the default classification presumption.",
 "tier": 1
 },
 {
+"id": "c-3838ded09e",
 "source": "P.L. 118-31, Sec. 1843(a), GPO",
 "text": "In enacted law the equivalent judgement is made not by an independent board but by 'the original classification authority' under Sec. 1843(a) of P.L. 118-31.",
 "tier": 1
@@ -35,6 +39,7 @@
 "dateEnd": "2023",
 "dateStart": "2023",
 "direction": "out",
+"edgeId": "e-4c50b81d50",
 "edgeLabel": "The Board must produce the Plan under Sec. 9009(c)(3)",
 "id": "controlled-disclosure-campaign-plan",
 "l0": false,
@@ -56,6 +61,7 @@
 "dateEnd": "2023",
 "dateStart": "2023",
 "direction": "in",
+"edgeId": "e-d5effe5db8",
 "edgeLabel": "The Board was designed to bypass the intelligence committees",
 "id": "house-intelligence",
 "l0": false,
@@ -77,6 +83,7 @@
 "dateEnd": "2023",
 "dateStart": "2023",
 "direction": "in",
+"edgeId": "e-233b7b64d2",
 "edgeLabel": "Named as demanding removal of the Board's subpoena power",
 "id": "mike-turner",
 "l0": false,
@@ -103,6 +110,7 @@
 "dateEnd": null,
 "dateStart": "2023",
 "direction": "in",
+"edgeId": "e-575f3f4afc",
 "edgeLabel": "Postponement authority returned to the original classifier",
 "id": "ndaa-fy2024-subtitle-c",
 "l0": false,
@@ -120,7 +128,7 @@
 "url": "https://www.govinfo.gov/content/pkg/BILLS-118s2226es/html/BILLS-118s2226es.htm"
 }
 ],
-"tier": "A",
+"tier": "B",
 "type": "denial"
 },
 {
@@ -129,6 +137,7 @@
 "dateEnd": "2023",
 "dateStart": "2023",
 "direction": "in",
+"edgeId": "e-370c2b6f2c",
 "edgeLabel": "Secs. 9007-9009 create the Board as an independent agency",
 "id": "uapda-2023",
 "l0": true,
@@ -162,6 +171,7 @@
 "by": null,
 "claimTier": 1,
 "denialKind": "association",
+"edgeId": "e-d5effe5db8",
 "label": "The Board was designed to bypass the intelligence committees",
 "note": "Sec. 9007(b)(3)(A) routes nominations through congressional leadership, DoD, the National Academy of Sciences, nonprofit UAP research bodies and the American Historical Association — never through HPSCI or SSCI.",
 "of": null,
@@ -188,6 +198,7 @@
 },
 "claimTier": 2,
 "denialKind": "directed",
+"edgeId": "e-233b7b64d2",
 "label": "Named as demanding removal of the Board's subpoena power",
 "note": "The Board survives in no form in enacted law; Sheehan attributes the demand to Turner, and the conference produced no document naming who struck what.",
 "of": {
@@ -219,6 +230,7 @@
 "by": null,
 "claimTier": 1,
 "denialKind": "association",
+"edgeId": "e-575f3f4afc",
 "label": "Postponement authority returned to the original classifier",
 "note": "Sec. 1843(a) vests the clear-and-convincing determination in 'the original classification authority' — the very offices the Review Board was created to review.",
 "of": null,
@@ -270,7 +282,7 @@
 ],
 "sub": "Independent agency, authorised by the Senate, never constituted",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 114 of 1170, score 58). 5 connections, 2 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C2/A3/D3.",
+"tierRationale": "Re-graded A on a global pass (rank 116 of 1138, score 58). 5 connections, 2 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C2/A3/D3.",
 "timeline": [],
 "unverified": []
 }

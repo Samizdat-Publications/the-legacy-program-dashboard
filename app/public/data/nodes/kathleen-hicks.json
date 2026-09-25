@@ -33,16 +33,19 @@
 ],
 "claims": [
 {
+"id": "c-1448909c45",
 "source": "DoD memorandum, Establishment of the All-domain Anomaly Resolution Office, 15 July 2022",
 "text": "Hicks, as Deputy Secretary of Defense, signed the 15 July 2022 memorandum establishing AARO, superseding the 23 November 2021 AOIMSG direction and ordering the Navy to disestablish the UAPTF.",
 "tier": 1
 },
 {
+"id": "c-4a21dba56e",
 "source": "DefenseScoop, 30 August 2023",
 "text": "In summer 2023 Hicks took direct oversight of AARO, repositioning its director to report to her rather than through USD(I&S).",
 "tier": 1
 },
 {
+"id": "c-6b02d3a5a5",
 "source": "Analysis by Douglas Dean Johnson; contemporaneous comment by Christopher Mellon, March 2024",
 "text": "Hicks declined to publicly endorse the key findings of Historical Record Report Volume I.",
 "tier": 2
@@ -58,6 +61,7 @@
 "dateEnd": "2025",
 "dateStart": "2023",
 "direction": "out",
+"edgeId": "e-c6c919e0c5",
 "edgeLabel": "took direct oversight; AARO director reports to her from summer 2023",
 "id": "aaro",
 "l0": true,
@@ -79,6 +83,7 @@
 "dateEnd": "2022",
 "dateStart": "2022",
 "direction": "out",
+"edgeId": "e-95e59014ef",
 "edgeLabel": "signatory of the AARO establishment memorandum",
 "id": "aaro-establishment-memo-2022",
 "l0": false,
@@ -100,6 +105,7 @@
 "dateEnd": "2021",
 "dateStart": "2021",
 "direction": "out",
+"edgeId": "e-df4d3ab483",
 "edgeLabel": "directed establishment of AOIMSG, 23 November 2021",
 "id": "aoimsg",
 "l0": false,
@@ -173,7 +179,7 @@
 "status": "former",
 "sub": "Deputy Secretary of Defense (2021-2025); signed AOIMSG and AARO establishment memoranda",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 701 of 1170, score 24). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A3/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 690 of 1138, score 24). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A3/D2.",
 "timeline": [
 {
 "claimTier": null,

@@ -17,21 +17,25 @@
 ],
 "claims": [
 {
+"id": "c-8ebbce4c08",
 "source": "Micah Hanks, The Debrief, 27 November 2023",
 "text": "McConnell is named, with Speaker Mike Johnson, as supporting the Turner and Rogers effort against the UAP Disclosure Act.",
 "tier": 2
 },
 {
+"id": "c-16419173f5",
 "source": "S. 2226 as engrossed, Secs. 9003(10) and 9007(b)(3)(A), GPO",
 "text": "The UAPDA defines 'leadership of Congress' to include the minority leader of the Senate and gives that office the power to recommend Review Board nominees.",
 "tier": 1
 },
 {
+"id": "c-c1cd790dac",
 "source": "https://www.appropriations.senate.gov/subcommittees/defense",
 "text": "Mitch McConnell (R-KY) is listed as Chair of the Defense Subcommittee of the Senate Appropriations Committee on the subcommittee's official page.",
 "tier": 1
 },
 {
+"id": "c-0fe3ecb428",
 "source": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim",
 "text": "The Defense Subcommittee of the Senate Committee on Appropriations is one of the six bodies expressly named as a 'defense committee' by 10 U.S.C. 119(g)(1), and therefore generates a 119(e)(2) notification entitlement for its chair and ranking minority member.",
 "tier": 1
@@ -47,6 +51,7 @@
 "dateEnd": "2023",
 "dateStart": "2023",
 "direction": "out",
+"edgeId": "e-0654ef6c80",
 "edgeLabel": "Named as supporting the effort against the Act",
 "id": "uapda-2023",
 "l0": true,
@@ -68,6 +73,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-5c8a363f4e",
 "edgeLabel": "seat 5 of 12 - Chair, Senate Appropriations Defense Subcommittee",
 "id": "waived-sap-notification-group",
 "l0": true,
@@ -124,6 +130,7 @@
 },
 "claimTier": 2,
 "denialKind": "directed",
+"edgeId": "e-0654ef6c80",
 "label": "Named as supporting the effort against the Act",
 "note": "McConnell is named with Speaker Johnson as backing the Turner and Rogers effort, while three Senate Republicans were cosponsors of the same text.",
 "of": {
@@ -192,7 +199,7 @@
 "status": "active",
 "sub": "R-KY; Senate Republican Leader 2007-2025",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 276 of 1170, score 40). 2 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 279 of 1138, score 40). 2 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D3.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": [

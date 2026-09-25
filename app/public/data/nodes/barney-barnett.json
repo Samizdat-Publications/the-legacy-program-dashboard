@@ -31,16 +31,19 @@
 ],
 "claims": [
 {
+"id": "c-1f28b6904f",
 "source": "The Roswell Report: Case Closed (1997), Section 1.4, quoting FUFOR footage",
 "text": "Vern Maltais and Alice Knight, who knew Barnett, related his account on camera for the Fund for UFO Research video 'Recollections of Roswell Part II'; Knight stated 'I don't recall the date.'",
 "tier": 2
 },
 {
+"id": "c-7efd04f46f",
 "source": "The Roswell Report: Case Closed (1997), Section 1.1 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "text": "The Air Force's 1997 report states that the San Agustin claim rests on three testimonies - two second-hand (Maltais, Knight) and one first-hand (Gerald Anderson) - and that Barnett, the original alleged eyewitness, is deceased.",
 "tier": 2
 },
 {
+"id": "c-58d903696b",
 "source": "Inference from the state of the record",
 "text": "The San Agustin strand is unfalsifiable in its current form and should be treated as a research target rather than as evidence. Reasoning: no first-hand statement by Barnett exists in any medium, and the only first-hand claimant, Gerald Anderson, was shown to have submitted a forged document.",
 "tier": 3
@@ -58,6 +61,7 @@
 "dateEnd": "1969",
 "dateStart": "1947-07",
 "direction": "out",
+"edgeId": "e-69c2259327",
 "edgeLabel": "Originating but never-interviewed eyewitness",
 "id": "plains-san-agustin-1947",
 "l0": false,
@@ -120,7 +124,7 @@
 "status": "dead",
 "sub": "Soil Conservation Service engineer; original claimed Plains of San Agustin eyewitness",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 974 of 1170, score 16). 1 connections, 0 of them custody/funding/programmatic. Axes C2/A0/D1.",
+"tierRationale": "Re-graded C on a global pass (rank 946 of 1138, score 16). 1 connections, 0 of them custody/funding/programmatic. Axes C2/A0/D1.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": [

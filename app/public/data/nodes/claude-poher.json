@@ -27,16 +27,19 @@
 ],
 "claims": [
 {
+"id": "c-f98910254d",
 "source": "'French Government UFO Study', document in the US National Security Agency declassified UFO document collection (submitted by Ron Westrum)",
 "text": "'GEPAN was created in 1977, under the direction of Dr. Claude Poher. Poher has now resigned, feeling that he has done everything he could do with the methods at hand. Nonetheless, the organization has not been disbanded but continues its work.'",
 "tier": 1
 },
 {
+"id": "c-4c531bd2ea",
 "source": "COMETA report, Introduction, 1999",
 "text": "'In 1976, a committee of the Institut des Hautes Etudes de Defense Nationale (IHEDN) chaired by General Blanchard of the Gendarmerie Nationale opened the unidentified flying objects file ... The goal was achieved, because the recommendations of this committee were followed in the creation of the Groupe d'Etude des Phenomenes Aerospatiaux Non Identifies (GEPAN).'",
 "tier": 1
 },
 {
+"id": "c-f77cf99aa8",
 "source": "Wikipedia 'GEIPAN'",
 "text": "Poher was inaugural director of GEPAN under CNES director general Yves Sillard.",
 "tier": 2
@@ -52,6 +55,7 @@
 "dateEnd": "1978",
 "dateStart": "1977",
 "direction": "out",
+"edgeId": "e-5dcf23d494",
 "edgeLabel": "founding director 1977-1978",
 "id": "gepan",
 "l0": false,
@@ -118,7 +122,7 @@
 "status": "active",
 "sub": "CNES engineer; founding director of GEPAN, 1977-1978",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 973 of 1170, score 16). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 945 of 1138, score 16). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": [

@@ -40,16 +40,19 @@
 ],
 "claims": [
 {
+"id": "c-7db92d328d",
 "source": "MITRE news release, 27 June 2024; MITRE leadership biography page",
 "text": "Peters became MITRE's 10th president and CEO effective 3 September 2024, having come directly from the post of executive vice president for laboratory management and operations at Battelle Memorial Institute.",
 "tier": 1
 },
 {
+"id": "c-9d855707db",
 "source": "MITRE biography of Mark Peters; American Nuclear Society, June 2024",
 "text": "Before Battelle headquarters he was Director of Idaho National Laboratory and President of Battelle Energy Alliance LLC, the entity that holds the INL management-and-operating contract.",
 "tier": 1
 },
 {
+"id": "c-53b6d429dd",
 "source": "Inference from MITRE biography and NSF Master Government List of FFRDCs",
 "text": "The Battelle-to-MITRE chief-executive transfer is not incidental: it demonstrates that the same small pool of laboratory-management executives circulates between the institutions that have historically held Air Force UFO analysis contracts (Battelle) and the institution now under congressional interrogation for legacy-program records (MITRE). Reasoning: both organisations are contractor-operators of federally funded research entities drawing on the same executive labour market, and the Directors' Council Peters chaired formally coordinates that market.",
 "tier": 3
@@ -65,6 +68,7 @@
 "dateEnd": "2024",
 "dateStart": "2020",
 "direction": "out",
+"edgeId": "e-79750c2513",
 "edgeLabel": "Came to MITRE directly from Battelle's executive suite",
 "id": "battelle",
 "l0": true,
@@ -91,6 +95,7 @@
 "dateEnd": null,
 "dateStart": "2024",
 "direction": "out",
+"edgeId": "e-a4de721608",
 "edgeLabel": "President and CEO from 3 September 2024",
 "id": "mitre-corporation",
 "l0": true,
@@ -163,7 +168,7 @@
 "status": "active",
 "sub": "10th President and CEO, The MITRE Corporation (from 3 Sep 2024); previously EVP for Laboratory Management and Operations, Battelle Memorial Institute; Director, Idaho National Laboratory",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 867 of 1170, score 19). 2 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D0.",
+"tierRationale": "Re-graded C on a global pass (rank 848 of 1138, score 19). 2 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D0.",
 "timeline": [
 {
 "claimTier": null,

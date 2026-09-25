@@ -33,16 +33,19 @@
 ],
 "claims": [
 {
+"id": "c-0bfb596de1",
 "source": "DIA/OSD packet presented to DEPSECDEF, 17 November 2009, released via FOIA",
 "text": "Clapper, as USD(I), recommended against establishing a Special Access Program 'at this time', citing insufficient justification based on FY09 deliverables and anticipated FY10 work.",
 "tier": 1
 },
 {
+"id": "c-bfefbb388c",
 "source": "DIA memo U-09-2660CE-IM, 13 November 2009",
 "text": "The supporting DIA memorandum of 13 November 2009 found 'insufficient grounds to classify this open program' and stated no report contained information 'sufficiently sensitive and vulnerable to require extra protection'.",
 "tier": 1
 },
 {
+"id": "c-4167d2aefe",
 "source": "Inference from the SAP denial documents read against the fact that 37 of 38 DIRDs were ultimately released unclassified",
 "text": "Refusing SAP status kept AAWSAP's deliverables in an unclassified/FOUO regime that could later be released in full to Congress and the public, while any genuinely compartmented material remained in programs the SAP request would have formally connected to the Reid appropriation — the practical effect was to sever the paper link between the appropriation and any waived-unacknowledged effort.",
 "tier": 3
@@ -58,6 +61,7 @@
 "dateEnd": "2009",
 "dateStart": "2009",
 "direction": "out",
+"edgeId": "e-d4c5520ff0",
 "edgeLabel": "USD(I) recommends against establishing a SAP",
 "id": "depsecdef-sap-packet-2009",
 "l0": false,
@@ -79,6 +83,7 @@
 "dateEnd": "1995",
 "dateStart": "1991",
 "direction": "out",
+"edgeId": "e-826de2e94e",
 "edgeLabel": "Clapper led the programme in the 1990s before becoming DNI",
 "id": "stargate-program",
 "l0": true,
@@ -100,6 +105,7 @@
 "dateEnd": null,
 "dateStart": "2009-11",
 "direction": "out",
+"edgeId": "e-6529f45776",
 "edgeLabel": "USD(I) recommendation against SAP status for the AAWSAP effort, November 2009",
 "id": "waived-usap",
 "l0": true,
@@ -136,6 +142,7 @@
 },
 "claimTier": 1,
 "denialKind": "directed",
+"edgeId": "e-d4c5520ff0",
 "label": "USD(I) recommends against establishing a SAP",
 "note": "Clapper's recommendation is the decision that severed the Reid appropriation from any compartmented protection; he became DNI nine months later.",
 "of": {
@@ -165,6 +172,7 @@
 },
 "claimTier": 1,
 "denialKind": "directed",
+"edgeId": "e-6529f45776",
 "label": "USD(I) recommendation against SAP status for the AAWSAP effort, November 2009",
 "note": "Clapper as Under Secretary of Defense for Intelligence recommended against establishing a special access program in response to Senator Reid's June 2009 request. The refusal is the documented instance of the SAP decision being made against, not for, concealment.",
 "of": {
@@ -222,7 +230,7 @@
 "status": "former",
 "sub": "Under Secretary of Defense for Intelligence, 2007-2010; later DNI 2010-2017",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 478 of 1170, score 31). 3 connections, 0 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C1/A3/D0.",
+"tierRationale": "Re-graded B on a global pass (rank 476 of 1138, score 31). 3 connections, 0 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C1/A3/D0.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": [

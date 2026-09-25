@@ -5,21 +5,25 @@
 "band": null,
 "claims": [
 {
+"id": "c-dcf87b6931",
 "source": "Stanton T. Friedman, 'The Bob Lazar Fraud', https://www.theblackvault.com/casefiles/the-bob-lazar-fraud-2/ , opened 2026-09-18",
 "text": "The directory page bearing Lazar's name states its own scope, per Stanton Friedman, who obtained it: 'The page from the Los Alamos National Lab phone book with Lazar's name on it clearly states that it includes employees of the DOE and outside contractor, Kirk Meyer.' The company name is rendered 'Kirk Meyer' by Friedman and 'Kirk Mayer' or 'Kirk-Mayer' elsewhere; this node uses the kebab-case id kirk-mayer and records the spelling variance.",
 "tier": 2
 },
 {
+"id": "c-b15ca3dc91",
 "source": "Mark Farmer, recorded telephone interview, 25 May 1996, https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/los-alamos-interview/ , opened 2026-09-18",
 "text": "A Los Alamos colleague of Lazar's, interviewed on tape by Mark Farmer on 25 May 1996 and anonymised at his own request, confirmed Lazar worked at the laboratory and said he 'was a contractor' under someone named Kirk Mayer.",
 "tier": 2
 },
 {
+"id": "c-3fd09f3aab",
 "source": "Gene Huff, synopsis, 12 March 1995, https://www.dreamlandresort.com/area51/lazar/synopsis.htm , opened 2026-09-18",
 "text": "Gene Huff, writing in Lazar's defence rather than against him, records that Kirk-Mayer issued Lazar a 'Z number' of 094729 on 18 May 1982, and that both Los Alamos National Laboratory and Kirk-Mayer subsequently said they held no employment records for him.",
 "tier": 2
 },
 {
+"id": "c-7f6a762766",
 "source": "Tom Mahood, 2018 retrospective, https://otherhand.org/home-page/area-51-and-other-strange-places/looking-at-the-bob-lazar-story-from-the-perspective-of-2018/ , opened 2026-09-18",
 "text": "Tom Mahood's 2018 conclusion on the same question: that Lazar worked as an electronic technician for Kirk-Mayer, a contractor supplying support staff, rather than as a physicist, and that his presence in the telephone directory reflected that contractor relationship and was marked with a 'K/M' notation.",
 "tier": 2
@@ -35,6 +39,7 @@
 "dateEnd": null,
 "dateStart": "1982-05-18",
 "direction": "in",
+"edgeId": "e-6b80bf3a68",
 "edgeLabel": "The contractor he actually worked for at Los Alamos in 1982",
 "id": "bob-lazar",
 "l0": false,
@@ -61,6 +66,7 @@
 "dateEnd": null,
 "dateStart": "1982",
 "direction": "out",
+"edgeId": "e-d23792cec9",
 "edgeLabel": "Named support-services contractor at a national laboratory",
 "id": "d-contractor",
 "l0": false,
@@ -82,9 +88,10 @@
 "dateEnd": null,
 "dateStart": "1982",
 "direction": "out",
+"edgeId": "e-2f66568372",
 "edgeLabel": "Support-services contractor at the laboratory",
 "id": "lanl",
-"l0": false,
+"l0": true,
 "label": "Los Alamos National Laboratory",
 "note": "The whole purpose of the kirk-mayer node. Nothing was opened about the company itself beyond this relationship.",
 "sources": [
@@ -147,7 +154,7 @@
 ],
 "sub": "Los Alamos support-services contractor under which Bob Lazar actually worked in 1982, and whose name appears on the telephone-directory page that also carries his",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 1102 of 1170, score 11). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D0.",
+"tierRationale": "Re-graded C on a global pass (rank 1072 of 1138, score 11). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D0.",
 "timeline": [],
 "unverified": [
 "The company's full corporate identity, incorporation, contract vehicle and scope of work at Los Alamos. NOTHING was opened about Kirk-Mayer as a company. Everything here is what three people writing about Lazar say about his relationship to it. A later session should look for the laboratory's support-services contract records.",

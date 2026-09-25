@@ -5,6 +5,7 @@
 "band": null,
 "claims": [
 {
+"id": "c-ed078a1eff",
 "source": "USAspending.gov recipient search, retrieved 12 August 2026",
 "text": "USAspending records approximately $2.6 billion in prime contract obligations to Radiance Technologies Inc. since FY2008.",
 "tier": 1
@@ -20,6 +21,7 @@
 "dateEnd": null,
 "dateStart": "2008",
 "direction": "out",
+"edgeId": "e-151882c234",
 "edgeLabel": "Radiance is a mid-tier technical prime in the space where compartmented analytical tasks are placed",
 "id": "dia",
 "l0": true,
@@ -70,7 +72,7 @@
 ],
 "sub": "Employee-owned Huntsville defense contractor",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 955 of 1170, score 17). 1 connections, 1 of them custody/funding/programmatic. Axes C1/A2/D0.",
+"tierRationale": "Re-graded C on a global pass (rank 928 of 1138, score 17). 1 connections, 1 of them custody/funding/programmatic. Axes C1/A2/D0.",
 "timeline": [],
 "unverified": []
 }

@@ -64,41 +64,49 @@
 ],
 "claims": [
 {
+"id": "c-cc917f1c22",
 "source": "William L. Moore, address to the MUFON Symposium, Las Vegas, July 1989",
 "text": "Moore publicly admitted at the 1989 MUFON symposium that he had cooperated with US Air Force counterintelligence and had knowingly passed false information to Paul Bennewitz.",
 "tier": 2
 },
 {
+"id": "c-5fd1c56d80",
 "source": "Gerald K. Haines, 'CIA's Role in the Study of UFOs, 1947-90', endnote 93",
 "text": "Moore and Shandera published 'The MJ-12 Documents: An Analytical Report' as Fair-Witness Project Publication Number 1500 in 1990, and Moore and Friedman published 'Philip Klass and MJ-12: What are the Facts' as Publication Number 1290 in 1988 - both cited in CIA's own 1997 history of the Agency's UFO role.",
 "tier": 1
 },
 {
+"id": "c-f7d1b58909",
 "source": "Inference recorded against the board's existing Tier 2 claims on william-l-moore, checked 2026-09-19",
 "text": "MOORE'S 1989 ADMISSION IS THE CLEAREST ADMISSION IN THE AFFAIR AND OUTRANKS ANYTHING DOTY HAS SAID, because it is from a civilian, about himself, in public, at a named event on a named date, and it is not later contradicted by its own author. The board already carries it; this session confirms nothing has emerged to weaken it and records that Doty's parallel statements have since been partly retracted by him while Moore's have not.",
 "tier": 2
 },
 {
+"id": "c-df2a372bda",
 "source": "Stephen Fisher, The Trenchant Edges Newsletter, 29 November 2025, https://www.trenchantedges.com/p/what-did-they-do-to-paul-bennewitz , opened 2026-09-19",
 "text": "A CAVEAT FOR ANY CLAIM ABOUT MOORE SOURCED TO GREG BISHOP'S PROJECT BETA. Stephen Fisher, writing 29 November 2025 and relying almost entirely on Bishop, states that Bishop had an undisclosed friendship with Moore. Project Beta is a participant account at one remove and should never be the sole source for a claim about Moore's conduct.",
 "tier": 2
 },
 {
+"id": "c-4dba859b2a",
 "source": "Headquarters USAF, 'The Roswell Report: Fact versus Fiction in the New Mexico Desert' (1995) https://archive.org/details/DTIC_ADA326148",
 "text": "The US Air Force's 1995 Roswell report names 'The Roswell Incident (1980) by William Moore and Charles Berlitz' and 'Crashed Saucers: Evidence in Search of Proof (1985) by Moore' among the major works it reviewed to set the parameters of its records search, and describes Moore and Berlitz as having 'engaged in research which led them to publish' the 1980 book.",
 "tier": 1
 },
 {
+"id": "c-aa54289bab",
 "source": "Publisher's imprint and library catalogue records; DEMOTED from Tier 1 (the same assertion is Tier 2 on the-roswell-incident-1980); needs primary replacement",
 "text": "'The Roswell Incident' by Charles Berlitz and William Moore was published in New York by Grosset & Dunlap in 1980, ISBN 978-0448211992.",
 "tier": 2
 },
 {
+"id": "c-151fa79be0",
 "source": "Moore's own statement to the 1989 MUFON symposium, subsequently published in full in MUFON and Focus/Fair-Witness materials",
 "text": "Moore stated at the 1989 MUFON symposium that he had cooperated with US Air Force Office of Special Investigations personnel from about 1980 and had knowingly passed disinformation to Paul Bennewitz.",
 "tier": 2
 },
 {
+"id": "c-4f4c1e3b78",
 "source": "Chronological overlay of Moore's admitted 1980-1989 cooperation window on the December 1984 MJ-12 delivery",
 "text": "The 1984 arrival of the MJ-12 film at Moore's address falls inside the window he later admitted was a period of cooperation with AFOSI, which is sufficient on its own to bar the MJ-12 corpus from tier 1 or tier 2 status regardless of any forensic analysis. Reasoning: the recipient of an anonymous delivery has admitted to being an operational channel for the agency most likely to have sent it.",
 "tier": 3
@@ -117,6 +125,7 @@
 "dateEnd": "2002",
 "dateStart": "1989-07",
 "direction": "out",
+"edgeId": "e-3efb6ca3ff",
 "edgeLabel": "Moore's 1989 AFOSI admission is Randle's strongest argument against MJ-12",
 "id": "kevin-randle",
 "l0": false,
@@ -138,6 +147,7 @@
 "dateEnd": "1999",
 "dateStart": "1984-12",
 "direction": "out",
+"edgeId": "e-a5debf93b7",
 "edgeLabel": "The archive's core corpus entered the record through Moore's mailbox",
 "id": "majestic-documents-archive",
 "l0": false,
@@ -159,6 +169,7 @@
 "dateEnd": "1990",
 "dateStart": "1984",
 "direction": "out",
+"edgeId": "e-d0563484da",
 "edgeLabel": "Moore controlled the MJ-12 material's release with Shandera and Friedman",
 "id": "mj-12-documents",
 "l0": false,
@@ -185,6 +196,7 @@
 "dateEnd": "1989-07",
 "dateStart": "1989-07",
 "direction": "out",
+"edgeId": "e-1d0d6f81d0",
 "edgeLabel": "Made the AFOSI disinformation admission from the MUFON platform",
 "id": "mufon",
 "l0": false,
@@ -206,6 +218,7 @@
 "dateEnd": "1989-07-01",
 "dateStart": "1989-07-01",
 "direction": "out",
+"edgeId": "e-7f12f29aca",
 "edgeLabel": "The 1 July 1989 MUFON admission, which outranks anything Doty has said",
 "id": "paul-bennewitz",
 "l0": false,
@@ -232,6 +245,7 @@
 "dateEnd": "1989",
 "dateStart": "1980",
 "direction": "in",
+"edgeId": "e-70687ef611",
 "edgeLabel": "Moore admitted cooperating with AFOSI and passing disinformation to Bennewitz",
 "id": "richard-doty",
 "l0": false,
@@ -258,6 +272,7 @@
 "dateEnd": "1996",
 "dateStart": "1984-12",
 "direction": "out",
+"edgeId": "e-9d050e82b0",
 "edgeLabel": "Moore and Shandera's 1984 film delivery became Friedman's decade-long project",
 "id": "stanton-friedman",
 "l0": false,
@@ -279,6 +294,7 @@
 "dateEnd": "1980",
 "dateStart": "1980",
 "direction": "out",
+"edgeId": "e-6e1d327b8f",
 "edgeLabel": "Co-authored the founding Roswell book",
 "id": "the-roswell-incident-1980",
 "l0": false,
@@ -312,6 +328,7 @@
 "by": null,
 "claimTier": 2,
 "denialKind": "association",
+"edgeId": "e-3efb6ca3ff",
 "label": "Moore's 1989 AFOSI admission is Randle's strongest argument against MJ-12",
 "note": "Moore stated publicly at the 1989 MUFON symposium that he had cooperated with AFOSI and passed disinformation to Paul Bennewitz; Randle's 'Conclusions on Operation Majestic Twelve' (1994) and 'Case MJ-12' (2002) treat the corpus as fabricated.",
 "of": null,
@@ -395,7 +412,7 @@
 "status": "former",
 "sub": "Co-author, 'The Roswell Incident' (1980); first recipient of the MJ-12 film; self-confessed conduit for AFOSI disinformation",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 242 of 1170, score 42). 8 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D2.",
+"tierRationale": "Re-graded B on a global pass (rank 246 of 1138, score 42). 8 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D2.",
 "timeline": [
 {
 "claimTier": null,

@@ -5,26 +5,31 @@
 "band": null,
 "claims": [
 {
+"id": "c-1c68ebc230",
 "source": "NICAP, 'Wurtsmith and Others', citing Cahill's Research Record of Events of 17 January 1979, http://www.nicap.org/articles/CI-Wurtsmith.htm , opened 2026-09-19",
 "text": "THE WING HISTORY OMITTED THE EVENT AND THE WING HISTORIAN RECORDED THE OMISSION. SSgt Paul J. Cahill, 379th Bombardment Wing historian, wrote in a Research Record of Events dated 17 January 1979: 'Following that request, I checked the Oct-Dec 75 Wing History and found no references to the incident.'",
 "tier": 1
 },
 {
+"id": "c-d5032be52e",
 "source": "NICAP, 'Wurtsmith and Others', citing Taylor's Memo for the Record of 18 January 1979, http://www.nicap.org/articles/CI-Wurtsmith.htm , opened 2026-09-19",
 "text": "Capt. Myron Taylor, instructor navigator, wrote a Memo for the Record to SSgt Cahill on 18 January 1979 giving the KC-135 crew's account: 'We followed the lights north out over Lake Huron and then the UFO swung south still over the lake toward the Saginaw Bay area of Michigan.' He names the crew as Major Frederick Pappas, aircraft commander; Capt. K. E. May, co-pilot; Capt. Rick Meier, navigator; Capt. Randy Higginbotham, instructor pilot; and Sergeant Steve Smith.",
 "tier": 1
 },
 {
+"id": "c-be06e0fd25",
 "source": "NICAP, http://www.nicap.org/articles/CI-Wurtsmith.htm and https://www.nicap.org/babylon/751030_wurtsmith.htm , both opened 2026-09-19",
 "text": "The NORAD Senior Director's Log entry for 31 October 1975 reads: 'Alerted by NCOC of a helicopter sighted over Wurtsmith AFB Wpns storage area, a tanker sighted same and pursued it 35 SE over Lake Huron.' A NORAD Command Director's Log entry timed 31 Oct 75/0445Z reports the incident at 0355Z.",
 "tier": 1
 },
 {
+"id": "c-51ca19f14c",
 "source": "NICAP, http://www.nicap.org/articles/CI-Wurtsmith.htm , opened 2026-09-19",
 "text": "A Joint Chiefs of Staff operational report of 30 October 1975 records the conventional-explanation check: 'Upon information that the Dept. of Natural Resources sends out aircraft searching for hunters spotting deer, the Dept. of Natural Resources was contacted.'",
 "tier": 1
 },
 {
+"id": "c-f91d854ede",
 "source": "NICAP, http://www.nicap.org/articles/CI-Wurtsmith.htm and https://www.nicap.org/babylon/751030_wurtsmith.htm , both opened 2026-09-19",
 "text": "Named ground witnesses at Wurtsmith are in the contemporaneous record: Airman Martin E. Tackabury at the Capehart housing area gate, Airman Michael J. Myers of Police Unit Seven at the motor pool, Sergeant Robert J. Anderson at the motor pool, Airman Roger Skipper at the main gate and Sergeant James A. Miller of the weapons storage area security police. Col. Boardman is named as wing commander.",
 "tier": 2
@@ -40,6 +45,7 @@
 "dateEnd": "1979-01-18",
 "dateStart": "1979-01-17",
 "direction": "in",
+"edgeId": "e-fa33e71b8a",
 "edgeLabel": "Written at Wurtsmith AFB by the 379th Bombardment Wing historian",
 "id": "doc-wurtsmith-historian-1979",
 "l0": false,
@@ -61,6 +67,7 @@
 "dateEnd": "1979-01-18",
 "dateStart": "1975-10-30",
 "direction": "out",
+"edgeId": "e-d53660a213",
 "edgeLabel": "SAC installation; 379th Bombardment Wing",
 "id": "strategic-air-command",
 "l0": true,
@@ -87,6 +94,7 @@
 "dateEnd": "1975-10-31",
 "dateStart": "1975-10-30",
 "direction": "in",
+"edgeId": "e-5ff4a63b97",
 "edgeLabel": "The incursion was over this installation's weapons storage area",
 "id": "wurtsmith-1975",
 "l0": false,
@@ -152,7 +160,7 @@
 ],
 "sub": "SAC installation at Oscoda, Michigan; 379th Bombardment Wing; site of the 30 October 1975 weapons storage area incursion and the KC-135 pursuit over Lake Huron",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 564 of 1170, score 29). 3 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D1.",
+"tierRationale": "Re-graded B on a global pass (rank 560 of 1138, score 29). 3 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D1.",
 "timeline": [],
 "unverified": [
 "Cahill's Research Record of Events and Taylor's Memo for the Record were NOT OPENED in facsimile by this board; both are quoted from NICAP's reproduction.",

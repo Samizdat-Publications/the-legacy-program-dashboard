@@ -5,21 +5,25 @@
 "band": null,
 "claims": [
 {
+"id": "c-1b56ca861a",
 "source": "Condon Report, Section V Chapter 2, 'UFOs 1947-1968' (University of Colorado, USAF contract 44620-67-C-0035, 1968)",
 "text": "'Staff members prepared a classified Estimate of the Situation in July 1948 asserting UFOs were interplanetary vehicles. Air Force Chief of Staff Gen. Vandenberg rejected it for lacking proof, and copies were destroyed.'",
 "tier": 1
 },
 {
+"id": "c-17b195e696",
 "source": "Ruppelt, 'The Report on Unidentified Flying Objects', 1956",
 "text": "Ruppelt first published the existence, content and destruction of the Estimate in 1956 based on his tenure as Blue Book director.",
 "tier": 2
 },
 {
+"id": "c-6cdbb9b4fa",
 "source": "Congressional and Air Force statements catalogued in the secondary literature on Project SIGN",
 "text": "Air Force representatives and Rep. L. Mendel Rivers have asserted that no such Estimate ever existed.",
 "tier": 2
 },
 {
+"id": "c-962a42fa0b",
 "source": "Inference from the conflict between Condon Sec. V Ch. 2 and later official denials",
 "text": "A government-contracted official report and official denials cannot both be correct; the contracted report was written with access to Air Force files and the denials were made publicly, which favours the report.",
 "tier": 3
@@ -35,6 +39,7 @@
 "dateEnd": "1968",
 "dateStart": "1968",
 "direction": "in",
+"edgeId": "e-d0784cf6e4",
 "edgeLabel": "The Condon Report is the primary documentary record of the Estimate's destruction",
 "id": "condon-committee",
 "l0": true,
@@ -56,6 +61,7 @@
 "dateEnd": "1956",
 "dateStart": "1956",
 "direction": "in",
+"edgeId": "e-c127ed2081",
 "edgeLabel": "Ruppelt is the origin of public knowledge of the Estimate",
 "id": "edward-ruppelt",
 "l0": false,
@@ -82,6 +88,7 @@
 "dateEnd": "1948",
 "dateStart": "1948",
 "direction": "in",
+"edgeId": "e-308d3519b3",
 "edgeLabel": "Vandenberg rejected the Estimate and ordered copies destroyed",
 "id": "hoyt-vandenberg",
 "l0": false,
@@ -99,7 +106,7 @@
 "url": "https://www.gutenberg.org/ebooks/17346"
 }
 ],
-"tier": "B",
+"tier": "C",
 "type": "denial"
 },
 {
@@ -108,6 +115,7 @@
 "dateEnd": "1949",
 "dateStart": "1948",
 "direction": "out",
+"edgeId": "e-11d1e76e40",
 "edgeLabel": "Destruction of the Estimate preceded GRUDGE's dismissive posture by six months",
 "id": "project-grudge",
 "l0": false,
@@ -129,6 +137,7 @@
 "dateEnd": "1948",
 "dateStart": "1948",
 "direction": "in",
+"edgeId": "e-31805154ed",
 "edgeLabel": "SIGN staff produced the 1948 Estimate",
 "id": "project-sign",
 "l0": false,
@@ -165,6 +174,7 @@
 },
 "claimTier": 1,
 "denialKind": "directed",
+"edgeId": "e-308d3519b3",
 "label": "Vandenberg rejected the Estimate and ordered copies destroyed",
 "note": "The Air Force Chief of Staff rejected the interplanetary conclusion for lacking proof and had the document destroyed — the earliest documented destruction of an adverse UAP record, attested in the Air Force's own contracted study.",
 "of": {
@@ -219,7 +229,7 @@
 ],
 "sub": "Top Secret Project SIGN assessment; destroyed",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 340 of 1170, score 37). 5 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D2.",
+"tierRationale": "Re-graded B on a global pass (rank 341 of 1138, score 37). 5 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D2.",
 "timeline": [
 {
 "claimTier": null,

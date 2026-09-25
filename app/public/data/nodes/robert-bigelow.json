@@ -117,56 +117,67 @@
 ],
 "claims": [
 {
+"id": "c-b695fe2b49",
 "source": "DIA contract release FOIA-00349-2018, released 13 Oct 2022",
 "text": "Bigelow Aerospace Advanced Space Studies, LLC, 4640 S. Eastern Ave, Las Vegas NV 89119, DUNS 827037768, CAGE 54JU7, was awarded firm-fixed-price contract HHM402-08-C-0072 on 22 September 2008 with a base value of $10,000,000.",
 "tier": 1
 },
 {
+"id": "c-f316a75ba6",
 "source": "AARO Historical Record Report Volume 1, 8 March 2024, p.23",
 "text": "DoD's own 2024 historical report states the contractor investigated 'an alleged hotspot of UAP and paranormal activity at a property in Utah — which at that time was owned by the head of the private sector organization.'",
 "tier": 1
 },
 {
+"id": "c-339b959ceb",
 "source": "Robert Bigelow to Lara Logan, CBS 60 Minutes, 28 May 2017",
 "text": "Bigelow told CBS 60 Minutes he is 'absolutely convinced' of an extraterrestrial presence on Earth.",
 "tier": 2
 },
 {
+"id": "c-1b4f4acb9c",
 "source": "Inference from the 11-topic statement of work in HHM402-08-R-0211 read against BAASS's NIDS-derived staffing",
 "text": "The choice of a Nevada contractor with no prior aerospace-intelligence prime history, on a sole-source-shaped solicitation written around capabilities BAASS uniquely held, indicates the requirement was built to fit the intended awardee rather than competed on the open market.",
 "tier": 3
 },
 {
+"id": "c-abfc992dba",
 "source": "Gideon Lewis-Kraus, The New Yorker, 10 May 2021, quoting NIDS' own description",
 "text": "Bigelow founded NIDS in 1995 as 'a privately funded science institute engaged in research of aerial phenomena, animal mutilations, and other related anomalous phenomena,' and purchased Skinwalker Ranch the following year.",
 "tier": 1
 },
 {
+"id": "c-476e5782f1",
 "source": "Zack Van Eyck, Deseret News, 10 Aug 1998",
 "text": "As a condition of the 1996 purchase the Shermans agreed to keep quiet about what they had witnessed on the property.",
 "tier": 2
 },
 {
+"id": "c-3da352ed70",
 "source": "Robert Bigelow, interview with the Deseret News, 10 Aug 1998",
 "text": "Bigelow said in August 1998 that anomalous aerial activity and unusual animal deaths had continued on and around the property: 'We wouldn't be there just for the weather.'",
 "tier": 2
 },
 {
+"id": "c-cf75891a0d",
 "source": "The New Yorker, 10 May 2021",
 "text": "In 2007 Bigelow received a letter from a senior Defense Intelligence Agency official curious about Skinwalker, and connected him to Senator Harry Reid.",
 "tier": 2
 },
 {
+"id": "c-b4b0bc1c79",
 "source": "AARO, Historical Record Report Volume I, March 2024, Section on KONA BLUE",
 "text": "BAASS was the prime contractor executing DIA's AAWSAP program, funded through a special appropriation; the contractor team conducted UAP and paranormal research at a property owned by the private sector organisation.",
 "tier": 1
 },
 {
+"id": "c-996d594436",
 "source": "George Knapp, sworn testimony, 9 September 2025",
 "text": "Bigelow and an AAWSAP colleague 'met with and negotiated with senior executives at Lockheed Martin' for 'a quantity of unusual material that had been stashed away and protected at a facility in California.'",
 "tier": 2
 },
 {
+"id": "c-6302371f81",
 "source": "USAspending.gov recipient search, retrieved 12 August 2026",
 "text": "Federal prime contract obligations to Bigelow Aerospace LLC total approximately $30 million since FY2008.",
 "tier": 1
@@ -185,6 +196,7 @@
 "dateEnd": "2011",
 "dateStart": "2008",
 "direction": "in",
+"edgeId": "e-df129a8e7b",
 "edgeLabel": "Most of the ~$22m went to Bigelow Aerospace, 2008-2011",
 "id": "aatip",
 "l0": true,
@@ -206,6 +218,7 @@
 "dateEnd": "2012",
 "dateStart": "2007",
 "direction": "out",
+"edgeId": "e-4c4671ab5b",
 "edgeLabel": "owner and principal",
 "id": "baass",
 "l0": true,
@@ -227,6 +240,7 @@
 "dateEnd": "2010",
 "dateStart": "1996",
 "direction": "in",
+"edgeId": "e-17c5625eed",
 "edgeLabel": "Continuous employment across NIDS and BAASS under the same principal",
 "id": "colm-kelleher",
 "l0": false,
@@ -248,6 +262,7 @@
 "dateEnd": "2007",
 "dateStart": "1996",
 "direction": "in",
+"edgeId": "e-60716033da",
 "edgeLabel": "Knapp introduced Harry Reid to Robert Bigelow",
 "id": "george-knapp",
 "l0": false,
@@ -269,6 +284,7 @@
 "dateEnd": "2012",
 "dateStart": "2007",
 "direction": "out",
+"edgeId": "e-8a6969f493",
 "edgeLabel": "constituent relationship behind the appropriation",
 "id": "harry-reid",
 "l0": false,
@@ -290,6 +306,7 @@
 "dateEnd": "2010",
 "dateStart": "1996",
 "direction": "in",
+"edgeId": "e-09aef6c2fd",
 "edgeLabel": "NIDS consultant and Bigelow Aerospace scientific advisory board member",
 "id": "jacques-vallee",
 "l0": false,
@@ -311,6 +328,7 @@
 "dateEnd": "2008",
 "dateStart": "2007",
 "direction": "in",
+"edgeId": "e-5b25da505b",
 "edgeLabel": "2007 approach that originated the contract",
 "id": "james-lacatski",
 "l0": false,
@@ -332,6 +350,7 @@
 "dateEnd": "2024",
 "dateStart": "2024",
 "direction": "in",
+"edgeId": "e-720785c4d3",
 "edgeLabel": "names Bigelow as the seeding influence behind the modern belief system",
 "id": "kirkpatrick-sciam-oped-2024",
 "l0": false,
@@ -353,6 +372,7 @@
 "dateEnd": "2012",
 "dateStart": "2011",
 "direction": "out",
+"edgeId": "e-cb6758f186",
 "edgeLabel": "Bigelow's organisation was the anticipated contract performer for the proposed program",
 "id": "kona-blue",
 "l0": true,
@@ -374,6 +394,7 @@
 "dateEnd": "2016",
 "dateStart": "1996",
 "direction": "out",
+"edgeId": "e-c1faaa03ae",
 "edgeLabel": "purchased the ranch in 1996 and owned it throughout the DIA contract",
 "id": "l-skinwalker",
 "l0": false,
@@ -410,6 +431,7 @@
 "dateEnd": "2004",
 "dateStart": "1995",
 "direction": "out",
+"edgeId": "e-581497930d",
 "edgeLabel": "founded and privately funded NIDS 1995-2004",
 "id": "nids",
 "l0": true,
@@ -456,6 +478,7 @@
 },
 "claimTier": 2,
 "denialKind": "directed",
+"edgeId": "e-720785c4d3",
 "label": "names Bigelow as the seeding influence behind the modern belief system",
 "note": "The op-ed's causal account routes the entire disclosure record back through Bigelow's funding of the AAWSAP/AATIP orbit.",
 "of": {
@@ -604,7 +627,7 @@
 "status": "active",
 "sub": "Founder, Budget Suites / Bigelow Aerospace / NIDS / BAASS",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 57 of 1170, score 75). 11 connections, 4 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A2/D2.",
+"tierRationale": "Re-graded A on a global pass (rank 58 of 1138, score 75). 11 connections, 4 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A2/D2.",
 "timeline": [
 {
 "claimTier": null,

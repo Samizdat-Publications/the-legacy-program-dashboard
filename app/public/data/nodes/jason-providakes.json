@@ -21,6 +21,7 @@
 ],
 "claims": [
 {
+"id": "c-32fb37632f",
 "source": "MITRE news release, 27 June 2024",
 "text": "Providakes served as MITRE's president and CEO from 2017 until Mark Peters succeeded him on 3 September 2024.",
 "tier": 1
@@ -36,6 +37,7 @@
 "dateEnd": "2024",
 "dateStart": "2017",
 "direction": "out",
+"edgeId": "e-c333c1f34b",
 "edgeLabel": "President and CEO through the entire modern disclosure sequence, 2017-2024",
 "id": "mitre-corporation",
 "l0": true,
@@ -97,7 +99,7 @@
 "status": "former",
 "sub": "President and CEO, The MITRE Corporation (2017-2024)",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 1017 of 1170, score 14). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D0.",
+"tierRationale": "Re-graded C on a global pass (rank 987 of 1138, score 14). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D0.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": []

@@ -5,6 +5,7 @@
 "band": null,
 "claims": [
 {
+"id": "c-5783b95c3e",
 "source": "The Hill (opinion), 18 February 2025",
 "text": "Comer and Luna sent letters to Secretary of State Marco Rubio, Secretary of Defense Pete Hegseth and CIA Director John Ratcliffe requesting a briefing on all UAP-related records in their possession, with the goal of 'deliver[ing] transparency to the American people.'",
 "tier": 2
@@ -20,6 +21,7 @@
 "dateEnd": null,
 "dateStart": "2025",
 "direction": "in",
+"edgeId": "e-a8928fb239",
 "edgeLabel": "Co-author",
 "id": "anna-paulina-luna",
 "l0": false,
@@ -41,6 +43,7 @@
 "dateEnd": null,
 "dateStart": "2025",
 "direction": "out",
+"edgeId": "e-c9f2bcbb07",
 "edgeLabel": "Addressed to Director Ratcliffe",
 "id": "cia",
 "l0": true,
@@ -62,6 +65,7 @@
 "dateEnd": null,
 "dateStart": "2025",
 "direction": "in",
+"edgeId": "e-327d208b21",
 "edgeLabel": "Co-author of the Task Force's opening records demand to State, Defense and CIA",
 "id": "james-comer",
 "l0": false,
@@ -83,6 +87,7 @@
 "dateEnd": null,
 "dateStart": "2025",
 "direction": "out",
+"edgeId": "e-69dbccaa02",
 "edgeLabel": "Addressed to the Secretary of State, who had publicly described UAP whistleblowers approaching Senate Intelligence",
 "id": "marco-rubio",
 "l0": false,
@@ -138,7 +143,7 @@
 ],
 "sub": "Task Force opening records demand",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 1052 of 1170, score 13). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 1022 of 1138, score 13). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.",
 "timeline": [],
 "unverified": []
 }

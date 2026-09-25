@@ -65,36 +65,43 @@
 ],
 "claims": [
 {
+"id": "c-7d7bcfabee",
 "source": "The Sol Foundation, People page, retrieved 12 August 2026",
 "text": "Skafish is Executive Director of The Sol Foundation and Secretary of its Board; Garry Nolan is Executive Director of the Board.",
 "tier": 1
 },
 {
+"id": "c-7e697143d2",
 "source": "The Sol Foundation, Policy page, retrieved 12 August 2026",
 "text": "Since 2023 the Sol Foundation has advised members and committees of the US Senate and House - including the Senate Select Committee on Intelligence and the House Oversight and Government Reform Committee - and the Parliaments of the UK, Canada and Japan, the European Parliament, the European Commission and the Office of the Chief Science Adviser to Canada.",
 "tier": 1
 },
 {
+"id": "c-e730186495",
 "source": "The Sol Foundation, 'Sol Foundation Co-Founders Named to U.S. Government's UAP Science Advisory Council', 22 June 2026",
 "text": "On 22 June 2026 ODNI, with FBI support, announced a UAP Science Advisory Council led by Avi Loeb and reporting to a higher-level interagency UAP Governance Board; Nolan, Skafish, Gallaudet, Jacob Haqq-Misra and Ross Howard were named to it, and all data shared with the council is to be unclassified.",
 "tier": 1
 },
 {
+"id": "c-71da2a4c28",
 "source": "The Sol Foundation, People page, retrieved 12 August 2026",
 "text": "The Sol Foundation employs Kirk McConnell, who retired from Congress after 37 years with the Senate Armed Services Committee, as Senior Legislative Affairs Officer.",
 "tier": 1
 },
 {
+"id": "c-4f833163b1",
 "source": "The Sol Foundation white papers index",
 "text": "Skafish authored Sol Foundation white paper Vol. 1 No. 6, 'The Prospect of Executive Branch Unidentified Anomalous Phenomena Secrecy: The Harm to Congress and Potential Remedies' (November 2024).",
 "tier": 1
 },
 {
+"id": "c-dab28fe12f",
 "source": "Micah Hanks, The Debrief, 12 September 2023",
 "text": "Skafish co-founded The Sol Foundation with Garry Nolan on 15 August 2023.",
 "tier": 2
 },
 {
+"id": "c-7991fbf939",
 "source": "The Sol Foundation announcement; Skeptics Society, 15 June 2026",
 "text": "Skafish was named to the UAP Science Advisory Council in June 2026.",
 "tier": 2
@@ -112,6 +119,7 @@
 "dateEnd": "2026",
 "dateStart": "2022",
 "direction": "out",
+"edgeId": "e-a42c1b3a90",
 "edgeLabel": "Co-founder, Executive Director and Secretary of the Board",
 "id": "sol-foundation",
 "l0": true,
@@ -143,6 +151,7 @@
 "dateEnd": null,
 "dateStart": "2026",
 "direction": "out",
+"edgeId": "e-9676c01851",
 "edgeLabel": "Named as the council's cultural anthropologist",
 "id": "uap-science-advisory-council",
 "l0": true,
@@ -238,7 +247,7 @@
 "status": "active",
 "sub": "Executive Director and co-founder, The Sol Foundation",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 516 of 1170, score 30). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 514 of 1138, score 30). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": [

@@ -5,6 +5,7 @@
 "band": null,
 "claims": [
 {
+"id": "c-c45f2ed745",
 "source": "Crossref records for DOI prefix 10.59661",
 "text": "Limina publishes peer-reviewed UAP studies under DOI prefix 10.59661, including Ammon (January 2024), Szydagis (March 2025), Grosvenor, Hancock & Porritt on the US atomic warfare complex (March 2025) and Houran on government-sourced UAP data (July 2026).",
 "tier": 1
@@ -20,6 +21,7 @@
 "dateEnd": null,
 "dateStart": "2025",
 "direction": "out",
+"edgeId": "e-a4a3cb084a",
 "edgeLabel": "Publishes the SCU atomic-warfare-complex analyses",
 "id": "scu-uap-studies",
 "l0": false,
@@ -80,7 +82,7 @@
 ],
 "sub": "Peer-reviewed journal of UAP studies, DOI prefix 10.59661",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 1157 of 1170, score 8). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 1125 of 1138, score 8). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.",
 "timeline": [],
 "unverified": []
 }

@@ -39,36 +39,43 @@
 ],
 "claims": [
 {
+"id": "c-60a31813b6",
 "source": "American Alchemy with Jesse Michels, 'UFOs Are Monitoring Nuclear Weapons GLOBALLY (ft. Robert Hastings)', 24 December 2024, 1:49:10 and 1:51:51, https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/TOE4049919963.mp3?updated=1752173281",
 "text": "On American Alchemy with Jesse Michels, 24 December 2024, at 1:49:10, Robert Hastings said that in January 2023 McConnell, whom he describes as 'a retired Senate Armed Service Committee investigator', contacted him and asked him to gather veterans with experiences at nuclear weapons sites for AARO to interview, and at 1:51:51 that 'it was 11 of roughly 20 who agreed to speak' with the office. The transcript renders the name Kurt McConnell throughout.",
 "tier": 2
 },
 {
+"id": "c-f985a32aad",
 "source": "American Alchemy with Jesse Michels, 'UFOs Are Monitoring Nuclear Weapons GLOBALLY (ft. Robert Hastings)', 24 December 2024, 1:49:10",
 "text": "In the same passage Hastings said McConnell emailed him in about March 2023 saying he had driven a veteran to that veteran's AARO interview, and relayed what the veteran said he had told AARO's then director about where a particular film was held. Hastings gives the account at two removes and names no document.",
 "tier": 2
 },
 {
+"id": "c-f2cc7d5853",
 "source": "American Alchemy with Jesse Michels, 'Senate Staffer Thinks Tesla and Nazi Technology is Being Hidden (ft. Kirk McConnell)', published 2 April 2025, at 0:18:40, 0:19:36 and 1:09:33",
 "text": "McConnell is a primary source in this board's Michels corpus as well as a node in it. He gave a two-hour interview on American Alchemy with Jesse Michels published 2 April 2025, in which he supplies the account of AARO's advisory-group contract being let through Oak Ridge (1:09:33), the report of Puthoff's and Davis's scepticism about Tesla and Thomas Townsend Brown (0:19:36), and his own disagreement with the account that the FBI seized all of Tesla's papers, 'I don't think all of it did' (0:18:40). Claims elsewhere on this board sourced to that episode are sourced to him.",
 "tier": 2
 },
 {
+"id": "c-521d09585b",
 "source": "The Sol Foundation, People page, retrieved 12 August 2026",
 "text": "Kirk McConnell is Senior Legislative Affairs Officer at The Sol Foundation and retired from Congress after 37 years with the Senate Armed Services Committee.",
 "tier": 1
 },
 {
+"id": "c-1e66806902",
 "source": "The Sol Foundation white papers index",
 "text": "McConnell authored Sol Foundation Science and Policy Briefing No. 2 (April 2026), 'UAP Whistleblower Restitution Fund Would Incentivize Disclosures to Congress'.",
 "tier": 1
 },
 {
+"id": "c-5b22d52338",
 "source": "The Sol Foundation biography of Kirk McConnell",
 "text": "McConnell spent 37 years on Capitol Hill, primarily on defence and intelligence, including service with the Senate Armed Services Committee and both the House and Senate intelligence committees, retiring in March 2024; his UAP work began after the 2017 New York Times disclosures and included participation in UAP investigations and development of related legislation.",
 "tier": 2
 },
 {
+"id": "c-e6ff92d895",
 "source": "Inference from his committee tenure and portfolio at the relevant date; not confirmed by any record",
 "text": "McConnell was among, or adjacent to, the Senate Armed Services Committee staff cohort that received Eric Davis's 21 October 2019 classified briefing on retrievals. Neither he nor the committee has confirmed his attendance.",
 "tier": 3
@@ -84,6 +91,7 @@
 "dateEnd": "2019",
 "dateStart": "2019",
 "direction": "in",
+"edgeId": "e-63ae0cc411",
 "edgeLabel": "Delivered to the SASC professional staff cohort McConnell belonged to",
 "id": "davis-sasc-briefing-2019",
 "l0": false,
@@ -110,6 +118,7 @@
 "dateEnd": "2026",
 "dateStart": "2024",
 "direction": "out",
+"edgeId": "e-a8c100cbf3",
 "edgeLabel": "Senior Legislative Affairs Officer after 37 years on SASC",
 "id": "sol-foundation",
 "l0": true,
@@ -206,7 +215,7 @@
 "status": "active",
 "sub": "Senior Legislative Affairs Officer, The Sol Foundation",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 351 of 1170, score 36). 2 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 352 of 1138, score 36). 2 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D3.",
 "timeline": [
 {
 "claimTier": null,

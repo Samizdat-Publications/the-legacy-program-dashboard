@@ -5,21 +5,25 @@
 "band": null,
 "claims": [
 {
+"id": "c-0b2e4a7afa",
 "source": "USAF, 'The Roswell Report: Fact vs. Fiction in the New Mexico Desert' (1995), DTIC ADA326148",
 "text": "'The Roswell Report: Fact versus Fiction in the New Mexico Desert' (1995, ~881 pp, DTIC ADA326148) was produced by Col. Weaver and 1st Lt. McAndrew in response to Rep. Steven H. Schiff's inquiry and attributes the debris to Project MOGUL.",
 "tier": 1
 },
 {
+"id": "c-605afa7187",
 "source": "USAF, 'The Roswell Report: Case Closed' (1997), DTIC ADA326147",
 "text": "'The Roswell Report: Case Closed' (1997, 232 pp, DTIC ADA326147) concludes the recovered material 'was not the remnants of an extraterrestrial spacecraft'.",
 "tier": 1
 },
 {
+"id": "c-f2ce17488a",
 "source": "USAF, 'The Roswell Report: Case Closed' (1997)",
 "text": "'Case Closed' attributes witness reports of bodies to anthropomorphic test dummies used in high-altitude parachute tests conducted principally between 1953 and 1959.",
 "tier": 2
 },
 {
+"id": "c-c5815a6a1f",
 "source": "Inference from the 1997 report's chronology against the 1947 event date",
 "text": "An explanation requiring witnesses to have telescoped events six to twelve years later into July 1947 is a weaker reconstruction than the one it replaced, and it was produced only under congressional pressure forty-seven years after the fact.",
 "tier": 3
@@ -35,6 +39,7 @@
 "dateEnd": "2024",
 "dateStart": "1997",
 "direction": "out",
+"edgeId": "e-dc422e2331",
 "edgeLabel": "AARO's 2024 finding restates the 1994-1997 Air Force position",
 "id": "aaro-historical-record-vol1",
 "l0": true,
@@ -61,6 +66,7 @@
 "dateEnd": "1997",
 "dateStart": "1994",
 "direction": "in",
+"edgeId": "e-8b16784bd7",
 "edgeLabel": "The Air Force reports were produced to rebut Marcel's account",
 "id": "jesse-marcel",
 "l0": false,
@@ -87,6 +93,7 @@
 "dateEnd": "1997",
 "dateStart": "1994",
 "direction": "in",
+"edgeId": "e-3174ce39e6",
 "edgeLabel": "MOGUL is the load-bearing element of the official explanation",
 "id": "project-mogul",
 "l0": false,
@@ -113,6 +120,7 @@
 "dateEnd": "1997",
 "dateStart": "1994",
 "direction": "in",
+"edgeId": "e-0adc64f9ce",
 "edgeLabel": "Schiff's inquiry forced the Air Force to abandon the weather balloon story",
 "id": "steven-schiff",
 "l0": false,
@@ -154,6 +162,7 @@
 },
 "claimTier": 1,
 "denialKind": "directed",
+"edgeId": "e-8b16784bd7",
 "label": "The Air Force reports were produced to rebut Marcel's account",
 "note": "Marcel's 1978 recantation restarted the case; the 1994-1997 Air Force volumes exist because of it and conclude against him, attributing the debris to Project MOGUL and reported bodies to test dummies.",
 "of": {
@@ -213,7 +222,7 @@
 ],
 "sub": "Two USAF volumes: 'Fact vs. Fiction' (1995) and 'Case Closed' (1997)",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 467 of 1170, score 32). 4 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D1.",
+"tierRationale": "Re-graded B on a global pass (rank 465 of 1138, score 32). 4 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D1.",
 "timeline": [
 {
 "claimTier": null,

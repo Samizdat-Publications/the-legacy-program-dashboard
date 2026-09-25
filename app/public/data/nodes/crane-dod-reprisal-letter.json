@@ -5,13 +5,27 @@
 "band": null,
 "claims": [
 {
+"id": "c-901a862429",
 "source": "Task Force on the Declassification of Federal Secrets hearing record, Serial No. 119-44, 9 September 2025",
 "text": "Letter dated 24 July 2025 to DoD asserting Grusch suffered reprisal including removal of his clearance, denial of promotion, and loss of medical retirement; listed in the hearing's index of documents as 'Letter to SECDEF Regarding Major David Charles Grusch Reprisal.'",
 "tier": 1
 },
 {
+"id": "c-4ece534b0d",
 "source": "Serial No. 119-44, 9 September 2025",
 "text": "As of 9 September 2025 DoD had not replied; Chairwoman Luna stated the Task Force would follow up.",
+"tier": 1
+},
+{
+"id": "c-78ff5de083",
+"source": "GPO CHRG-119hhrg61718, Index of Documents",
+"text": "Listed in the hearing's Index of Documents as 'Letter to SECDEF Regarding Major David Charles Grusch Reprisal; submitted by Rep. Crane.'",
+"tier": 1
+},
+{
+"id": "c-64136c0284",
+"source": "CHRG-119hhrg61718, 9 September 2025",
+"text": "Crane on the record: Grusch 'suffered reprisal like the removal of his clearance, denial of promotion, and loss of medical retirement. I wrote the DOD on July 24, 2025, on behalf of Major Grusch, and I am still waiting for a reply.'",
 "tier": 1
 }
 ],
@@ -25,6 +39,7 @@
 "dateEnd": null,
 "dateStart": "2025",
 "direction": "in",
+"edgeId": "e-bdb1237ea5",
 "edgeLabel": "Subject of the reprisal enumeration",
 "id": "david-grusch",
 "l0": false,
@@ -35,6 +50,11 @@
 "date": "2025-09-09",
 "name": "Task Force hearing record, Serial No. 119-44",
 "url": "https://www.congress.gov/119/chrg/CHRG-119hhrg61718/CHRG-119hhrg61718.pdf"
+},
+{
+"date": "2025-09-09",
+"name": "U.S. GPO, Hearing transcript, Serial No. 119-44 (CHRG-119hhrg61718)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm"
 }
 ],
 "tier": "A",
@@ -46,6 +66,7 @@
 "dateEnd": null,
 "dateStart": "2025",
 "direction": "out",
+"edgeId": "e-017662ddf4",
 "edgeLabel": "No reply on the record as of 9 September 2025",
 "id": "dod",
 "l0": true,
@@ -64,9 +85,32 @@
 {
 "claimTier": 1,
 "cls": "person",
+"dateEnd": null,
+"dateStart": "2025",
+"direction": "in",
+"edgeId": "e-5b29c24b18",
+"edgeLabel": "Author; entered it into the hearing record while still awaiting a reply",
+"id": "eli-crane",
+"l0": false,
+"label": "Elijah Crane",
+"note": "Three enumerated adverse actions against the credible-and-urgent whistleblower.",
+"sources": [
+{
+"date": "2025-09-09",
+"name": "U.S. GPO, Hearing transcript, Serial No. 119-44 (CHRG-119hhrg61718)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm"
+}
+],
+"tier": "B",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "person",
 "dateEnd": "2025",
 "dateStart": "2025",
 "direction": "in",
+"edgeId": "e-1d63c956f3",
 "edgeLabel": "Author; wrote DoD 24 July 2025 on Grusch's reprisal",
 "id": "eli-crane",
 "l0": false,
@@ -103,6 +147,7 @@
 },
 "claimTier": 1,
 "denialKind": "directed",
+"edgeId": "e-017662ddf4",
 "label": "No reply on the record as of 9 September 2025",
 "note": "A sitting member formally notified the Department that a whistleblower lost his clearance, promotion and medical retirement for a protected disclosure. Crane stated he was still waiting for a reply; Chairwoman Luna committed to follow up. Non-response is itself an artifact.",
 "of": {
@@ -136,6 +181,7 @@
 "openQuestions": [],
 "short": "Rep. Eli Crane letter to the Secretary of Defense re: Major David Charles Grusch reprisal",
 "sourceFiles": [
+"congress-house",
 "grusch"
 ],
 "sources": [
@@ -143,12 +189,27 @@
 "date": "2025-09-09",
 "name": "Task Force on the Declassification of Federal Secrets hearing record, Serial No. 119-44",
 "url": "https://www.congress.gov/119/chrg/CHRG-119hhrg61718/CHRG-119hhrg61718.pdf"
+},
+{
+"date": "2025-09-09",
+"name": "U.S. GPO, Hearing transcript, Serial No. 119-44 (CHRG-119hhrg61718)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm"
 }
 ],
 "sub": "Dated 24 July 2025; entered into hearing record 9 September 2025",
-"tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 791 of 1170, score 22). 3 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D3.",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 557 of 1138, score 29). 4 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D3.",
 "timeline": [
+{
+"claimTier": null,
+"date": "2025-07-24",
+"grade": "A",
+"id": "ch-2025-07-24",
+"label": "Crane writes DoD on the Grusch reprisal",
+"precision": "day",
+"strand": "coverup",
+"text": "Rep. Eli Crane writes the Secretary of Defense about the removal of Grusch's clearance, denial of promotion and loss of medical retirement. The Department does not reply."
+},
 {
 "claimTier": null,
 "date": "2025-07-24",

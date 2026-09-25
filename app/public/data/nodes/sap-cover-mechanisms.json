@@ -5,46 +5,55 @@
 "band": null,
 "claims": [
 {
+"id": "c-289bd1ae28",
 "source": "https://web.archive.org/web/20191018064106/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol1.pdf",
 "text": "DoDM 5205.07 Vol 1, Enclosure 5, para 1.a: 'The purposes of HVSACO are: (1) To preclude the disclosure of general program-related information outside established acknowledged and unacknowledged SAP channels. (2) To minimize OPSEC indicators. (3) To facilitate communication of information within SAPs.' Para 1.b: 'Dissemination of information warranting HVSACO protection will be limited to persons briefed into a SAP and retained within SAP approved channels.'",
 "tier": 1
 },
 {
+"id": "c-1b4d83fb74",
 "source": "https://web.archive.org/web/20191018064106/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol1.pdf",
 "text": "THE UNCLASSIFIED WITHHOLDING. DoDM 5205.07 Vol 1, Enclosure 5, para 1 lists when HVSACO is applied, including '(4) To protect information that does not warrant classification under Executive Order 13526' and '(5) When using a SAP nickname for an unacknowledged SAP.' HVSACO is therefore a control expressly designed to hold inside SAP channels material that does NOT meet the standard for classification. Para 1.c requires that on a public release request the originator review the material and either remove the HVSACO marking or 'Inform the requestor of the decision not to release the information, citing an appropriate authority.'",
 "tier": 1
 },
 {
+"id": "c-b48dfe7806",
 "source": "https://web.archive.org/web/20191018064106/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol1.pdf",
 "text": "DoDM 5205.07 Vol 1 visitor-control rules: 'Federal Government-affiliated identification cards will not be used for positive identification in unacknowledged locations.' The manual's operative text presumes the existence of physical sites whose government affiliation is not disclosed.",
 "tier": 1
 },
 {
+"id": "c-d4a6af4168",
 "source": "DoDI 5205.11, para 5.d",
 "text": "DoDI 5205.11 para 5.d: 'All DoD SAPs must be assigned an unclassified nickname generated in accordance with Chairman of the Joint Chiefs of Staff Manual 3150.29D ... Unclassified nicknames will be used in the annual SAP report to Congress.'",
 "tier": 1
 },
 {
+"id": "c-9f59e76cf6",
 "source": "DoDM 5205.07 Volume 1, Enclosure 5",
 "text": "DoDM 5205.07-V1 Enclosure 5: HVSACO is applied '(5) When using a SAP nickname for an unacknowledged SAP', and 'HVSACO is not a classification.'",
 "tier": 1
 },
 {
+"id": "c-a740926311",
 "source": "DoDM 5205.07 Volume 1, Enclosure 5, para 1.a",
 "text": "DoDM 5205.07-V1 Enclosure 5 lists among the purposes of HVSACO 'To preclude the disclosure of general program-related information outside established acknowledged and unacknowledged SAP channels' and 'To minimize OPSEC indicators.'",
 "tier": 1
 },
 {
+"id": "c-f888a88b72",
 "source": "DoDM 5205.07 Volume 1, Enclosure 10",
 "text": "DoDM 5205.07-V1 Enclosure 10 para 5: 'Federal Government-affiliated identification cards will not be used for positive identification in unacknowledged locations.'",
 "tier": 1
 },
 {
+"id": "c-bf2eaeb464",
 "source": "DoDM 5205.07 Volume 1, Enclosure 4",
 "text": "DoDM 5205.07-V1 Enclosure 4 para 4.c: 'For CUAs, the responsible organization will be identified for executing security cognizance with a carved-out SAP.'",
 "tier": 1
 },
 {
+"id": "c-7ed647dbeb",
 "source": "DoDM 5205.07-V1 Enclosure 5 read against E.O. 13526 sections 3.3, 3.5 and 1.8",
 "text": "Because HVSACO is expressly not a classification, material bearing it is outside the E.O. 13526 declassification system - it cannot be the subject of a mandatory declassification review, an automatic declassification at 25 years, or a classification challenge. Reasoning: those remedies operate only on classified national security information.",
 "tier": 3
@@ -60,6 +69,7 @@
 "dateEnd": null,
 "dateStart": "2015-06-18",
 "direction": "out",
+"edgeId": "e-b00c154646",
 "edgeLabel": "HVSACO, nicknames and unacknowledged locations are all defined in the manual",
 "id": "dodm-5205-07-v1",
 "l0": false,
@@ -81,6 +91,7 @@
 "dateEnd": null,
 "dateStart": "2017-10-04",
 "direction": "in",
+"edgeId": "e-04241abab9",
 "edgeLabel": "HVSACO and nickname practice describe the paperwork environment Elizondo has described",
 "id": "luis-elizondo",
 "l0": false,
@@ -102,6 +113,7 @@
 "dateEnd": null,
 "dateStart": "2013-02-06",
 "direction": "out",
+"edgeId": "e-7f3091a8d6",
 "edgeLabel": "Congress receives nicknames, not missions",
 "id": "sap-annual-report",
 "l0": false,
@@ -172,7 +184,7 @@
 ],
 "sub": "tradecraft",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 128 of 1170, score 55). 3 connections, 2 of them custody/funding/programmatic. Axes C2/A3/D2.",
+"tierRationale": "Re-graded A on a global pass (rank 131 of 1138, score 55). 3 connections, 2 of them custody/funding/programmatic. Axes C2/A3/D2.",
 "timeline": [],
 "unverified": []
 }

@@ -5,11 +5,13 @@
 "band": null,
 "claims": [
 {
+"id": "c-0d9e65cbcb",
 "source": "DoD statement, 27 April 2020",
 "text": "Characterises the videos' prior public appearance as the product of 'unauthorized releases in 2007 and 2017'.",
 "tier": 1
 },
 {
+"id": "c-c7312e1e9c",
 "source": "DoD statement, 27 April 2020",
 "text": "States 'the aerial phenomena observed in the videos remain characterized as unidentified.'",
 "tier": 1
@@ -25,6 +27,7 @@
 "dateEnd": "2020",
 "dateStart": "2020",
 "direction": "out",
+"edgeId": "e-7608105746",
 "edgeLabel": "DoD authorises release, 27 April 2020; phenomena 'remain characterized as unidentified'",
 "id": "navy-flir-gimbal-gofast-videos",
 "l0": false,
@@ -81,7 +84,7 @@
 ],
 "sub": "Official DoD release; no individual spokesperson quoted",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 849 of 1170, score 20). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 830 of 1138, score 20). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D3.",
 "timeline": [
 {
 "claimTier": null,

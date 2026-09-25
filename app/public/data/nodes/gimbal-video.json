@@ -5,11 +5,13 @@
 "band": null,
 "claims": [
 {
+"id": "c-34d43d3787",
 "source": "DoD statement on the release of historical Navy videos, 27 April 2020",
 "text": "GIMBAL was filmed in January 2015 and released by DoD on 27 April 2020 with the phenomena 'characterized as unidentified.'",
 "tier": 1
 },
 {
+"id": "c-3b6cf1432c",
 "source": "AARO SASC open hearing case slides, 19 November 2024",
 "text": "AARO's SASC case slides of 19 November 2024 present assessments of Aguadilla (2013), GO FAST (2015) and Mt Etna (2018); they do not include a GIMBAL case.",
 "tier": 1
@@ -25,6 +27,7 @@
 "dateEnd": "2020",
 "dateStart": "2015",
 "direction": "out",
+"edgeId": "e-0e1dacadf6",
 "edgeLabel": "January 2015 ATFLIR artefact from the same operating environment",
 "id": "roosevelt-2014-2015",
 "l0": true,
@@ -96,7 +99,7 @@
 ],
 "sub": "Officially released DoD UAP video",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 744 of 1170, score 23). 1 connections, 1 of them custody/funding/programmatic. Axes C1/A1/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 730 of 1138, score 23). 1 connections, 1 of them custody/funding/programmatic. Axes C1/A1/D3.",
 "timeline": [
 {
 "claimTier": null,

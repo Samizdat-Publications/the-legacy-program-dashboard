@@ -5,16 +5,19 @@
 "band": null,
 "claims": [
 {
+"id": "c-ff7871db92",
 "source": "P.L. 118-31",
 "text": "P.L. 118-31, Subtitle C, Sections 1841-1843 are the enacted UAP records provisions: collection at NARA, agency review and transmission duty, and grounds for postponement.",
 "tier": 1
 },
 {
+"id": "c-f81a2b2de2",
 "source": "P.L. 118-159",
 "text": "P.L. 118-159 Section 6802 sunsets requirements relating to audits of the UAP historical record report.",
 "tier": 1
 },
 {
+"id": "c-dad388b18b",
 "source": "H.R. 2670 (EAS) compared with P.L. 118-31",
 "text": "The Unidentified Anomalous Phenomena Disclosure Act's Review Board and eminent domain provisions passed the Senate as Division I of H.R. 2670 but were not enacted.",
 "tier": 1
@@ -30,6 +33,7 @@
 "dateEnd": "2023-12-22",
 "dateStart": "2023-07-27",
 "direction": "in",
+"edgeId": "e-c89c1d3bd4",
 "edgeLabel": "Proposal versus enactment",
 "id": "d-legislative",
 "l0": false,
@@ -47,7 +51,7 @@
 "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
 }
 ],
-"tier": "B",
+"tier": "C",
 "type": "legislative"
 },
 {
@@ -56,6 +60,7 @@
 "dateEnd": null,
 "dateStart": "2022-12-23",
 "direction": "in",
+"edgeId": "e-6e5c6c050e",
 "edgeLabel": "Division F of P.L. 117-263 - the intelligence-side half of the same enactment",
 "id": "iaa-2023",
 "l0": false,
@@ -82,6 +87,7 @@
 "dateEnd": null,
 "dateStart": "2023-12-22",
 "direction": "in",
+"edgeId": "e-d871f5ca2f",
 "edgeLabel": "Division G of P.L. 118-31 - enacted intelligence-side UAP provisions",
 "id": "iaa-2024",
 "l0": false,
@@ -113,6 +119,7 @@
 "dateEnd": null,
 "dateStart": "2021-12-27",
 "direction": "in",
+"edgeId": "e-da9b57d936",
 "edgeLabel": "the statutory root of the modern apparatus, codified at 50 U.S.C. 3373",
 "id": "ndaa-fy2022-sec-1683",
 "l0": true,
@@ -134,6 +141,7 @@
 "dateEnd": null,
 "dateStart": "2022-12-23",
 "direction": "in",
+"edgeId": "e-95c9cf37ad",
 "edgeLabel": "rewrote 50 U.S.C. 3373 to establish AARO and to mandate the Historical Record Report",
 "id": "ndaa-fy2023-sec-6802",
 "l0": true,
@@ -160,6 +168,7 @@
 "dateEnd": null,
 "dateStart": "2023-12-22",
 "direction": "in",
+"edgeId": "e-56487b35e7",
 "edgeLabel": "P.L. 118-31 Subtitle C, secs. 1841-1843 - the UAP Records Collection as enacted",
 "id": "ndaa-fy2024",
 "l0": true,
@@ -186,6 +195,7 @@
 "dateEnd": null,
 "dateStart": "2024-12-23",
 "direction": "in",
+"edgeId": "e-aa702e9754",
 "edgeLabel": "P.L. 118-159 Div. G, secs. 6801-6802 - GAO review of AARO and the sunset of the audit cadence",
 "id": "ndaa-fy2025",
 "l0": false,
@@ -212,6 +222,7 @@
 "dateEnd": null,
 "dateStart": "2025-12-18",
 "direction": "in",
+"edgeId": "e-c5c7bf205f",
 "edgeLabel": "P.L. 119-60, Title XVI Subtitle E - the enacted corpus reduced to housekeeping",
 "id": "ndaa-fy2026",
 "l0": true,
@@ -233,6 +244,7 @@
 "dateEnd": null,
 "dateStart": "1987-12-04",
 "direction": "in",
+"edgeId": "e-eb2a46d21f",
 "edgeLabel": "codified permanent law - the only statute governing what Congress is told about special access programs",
 "id": "usc-10-119",
 "l0": true,
@@ -298,7 +310,7 @@
 ],
 "sub": "Legal domain - the provisions that actually became binding law (alias of d-legislative for enacted text)",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 646 of 1170, score 27). 9 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 636 of 1138, score 27). 9 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.",
 "timeline": [],
 "unverified": []
 }

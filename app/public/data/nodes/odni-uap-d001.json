@@ -5,16 +5,19 @@
 "band": null,
 "claims": [
 {
+"id": "c-bbcee28870",
 "source": "Disclosure Archives inventory of the war.gov Release 02 posting",
 "text": "ODNI-UAP-D001, released in PURSUE Release 02 on 22 May 2026, is a first-person narrative by a serving senior intelligence officer of a one-hour, multi-witness UAP encounter from a military helicopter in late 2025.",
 "tier": 2
 },
 {
+"id": "c-0b2bb75f46",
 "source": "Aerotime, 9 May 2026",
 "text": "Gabbard characterised PURSUE as an ongoing joint effort coordinated between intelligence and defence agencies.",
 "tier": 2
 },
 {
+"id": "c-6e66c525a4",
 "source": "Inference from the incident's stated duration and witness count against the resolution methodology in the FY2024 and FY2025 annual reports",
 "text": "A one-hour multi-witness encounter forecloses the two disposals AARO's annual reports rely on most - short duration and single-observer error - which is why its publication under an ODNI number rather than in an AARO case resolution matters.",
 "tier": 3
@@ -30,6 +33,7 @@
 "dateEnd": null,
 "dateStart": "2026",
 "direction": "out",
+"edgeId": "e-f290bb92cd",
 "edgeLabel": "ODNI-originated document inside a Department of War release",
 "id": "odni",
 "l0": true,
@@ -56,6 +60,7 @@
 "dateEnd": "2026-08-01",
 "dateStart": "2026-05-22",
 "direction": "out",
+"edgeId": "e-a12a103706",
 "edgeLabel": "same originator, two months apart",
 "id": "odni-memo-es-2026-00818",
 "l0": true,
@@ -82,6 +87,7 @@
 "dateEnd": "2026",
 "dateStart": "2026",
 "direction": "in",
+"edgeId": "e-5c6b8ba6d8",
 "edgeLabel": "Published the serving officer's encounter narrative",
 "id": "pursue-release-02",
 "l0": false,
@@ -148,7 +154,7 @@
 ],
 "sub": "Released in PURSUE Release 02, 22 May 2026; incident late 2025",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 523 of 1170, score 30). 3 connections, 1 of them custody/funding/programmatic. Axes C1/A3/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 521 of 1138, score 30). 3 connections, 1 of them custody/funding/programmatic. Axes C1/A3/D3.",
 "timeline": [],
 "unverified": []
 }

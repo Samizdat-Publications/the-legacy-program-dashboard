@@ -16,6 +16,7 @@
 ],
 "claims": [
 {
+"id": "c-ca6478151d",
 "source": "'Jonathan Grey,' NASIC, quoted in The Debrief, 5 June 2023",
 "text": "'The non-human intelligence phenomenon is real. We are not alone.' Also: retrievals of this kind are not limited to the United States.",
 "tier": 2
@@ -31,6 +32,7 @@
 "dateEnd": "2023",
 "dateStart": "2023",
 "direction": "out",
+"edgeId": "e-2b4e5fc9d0",
 "edgeLabel": "Serving NASIC officer corroborates on the record under pseudonym",
 "id": "david-grusch",
 "l0": false,
@@ -52,6 +54,7 @@
 "dateEnd": null,
 "dateStart": "2023",
 "direction": "out",
+"edgeId": "e-964d016ed7",
 "edgeLabel": "Serving intelligence officer at NASIC, Wright-Patterson AFB",
 "id": "nasic",
 "l0": false,
@@ -109,7 +112,7 @@
 "status": "active",
 "sub": "Serving NASIC intelligence officer; pseudonymous on-record corroborator",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 771 of 1170, score 22). 2 connections, 0 of them custody/funding/programmatic. Axes C2/A2/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 755 of 1138, score 22). 2 connections, 0 of them custody/funding/programmatic. Axes C2/A2/D2.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": [

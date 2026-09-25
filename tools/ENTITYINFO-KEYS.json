@@ -11,9 +11,19 @@
    "to": "haines-cia-history"
   },
   {
+   "file": "history-1970s-2000s",
+   "key": "gao-roswell-report-1995",
+   "to": "gao-nsiad-95-187"
+  },
+  {
    "file": "primes-custody",
    "key": "ndaa-fy2024-sec1687",
    "to": "ndaa-fy2024-1687"
+  },
+  {
+   "file": "releases-2023-2026",
+   "key": "nara-uap-records-collection",
+   "to": "nara-uap-collection"
   },
   {
    "file": "w2-sap-architecture",

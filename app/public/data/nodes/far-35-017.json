@@ -5,11 +5,13 @@
 "band": null,
 "claims": [
 {
+"id": "c-70954ac851",
 "source": "CRS Report R44629 summarising FAR 35.017",
 "text": "FAR 35.017 permits initial FFRDC contracts of up to five years, renewable in similar increments, expressly to provide stability and continuity and to allow the FFRDC to attract high-quality personnel.",
 "tier": 1
 },
 {
+"id": "c-9517c7f6c1",
 "source": "SAM.gov notice of intent to award a sole source contract for MITRE-operated FFRDC support services, 1 August 2025",
 "text": "Federal contracting notices for MITRE's FFRDC support services have been posted as notices of intent to award a sole source contract.",
 "tier": 1
@@ -25,6 +27,7 @@
 "dateEnd": null,
 "dateStart": "2026",
 "direction": "in",
+"edgeId": "e-f08517acb3",
 "edgeLabel": "The letter's legal theory rests on the FFRDC access provisions",
 "id": "burlison-mitre-letter-2026",
 "l0": true,
@@ -46,6 +49,7 @@
 "dateEnd": null,
 "dateStart": "1984",
 "direction": "in",
+"edgeId": "e-fb07405e7c",
 "edgeLabel": "FAR 35.017 is the regulation that creates the seam",
 "id": "d-ffrdc",
 "l0": false,
@@ -101,7 +105,7 @@
 ],
 "sub": "Federal Acquisition Regulation subpart; 48 CFR 35.017",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 637 of 1170, score 27). 2 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D1.",
+"tierRationale": "Re-graded C on a global pass (rank 628 of 1138, score 27). 2 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D1.",
 "timeline": [],
 "unverified": []
 }

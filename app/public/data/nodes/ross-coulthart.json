@@ -40,31 +40,37 @@
 ],
 "claims": [
 {
+"id": "c-ed53b4dc83",
 "source": "NewsNation interview by Ross Coulthart, June 2023",
 "text": "Elicited Grusch's on-camera statements that the recovered objects are non-human origin technical vehicles and that dead pilots have been encountered.",
 "tier": 2
 },
 {
+"id": "c-43da451d12",
 "source": "Wikipedia, 'Ross Coulthart', biography, retrieved 12 August 2026 — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "text": "Coulthart is senior special investigations correspondent for NewsNation and an advocate for UAP disclosure who believes governments have covered up knowledge of extraterrestrial spacecraft.",
 "tier": 2
 },
 {
+"id": "c-e41dc06cd3",
 "source": "NewsNation segment title, published circa February 2026",
 "text": "Coulthart publicly endorsed UAP Gerb's structural claims on air: 'I think he's on the money.'",
 "tier": 2
 },
 {
+"id": "c-5e12c9177b",
 "source": "NewsNation Reality Check chapter summary, published 4 August 2026",
 "text": "Coulthart's 4 August 2026 Reality Check episode covers FFRDCs, UARCs and GOCOs as the vehicle of the legacy program, gatekeeping within it, and whether it constitutes a 'deep state'.",
 "tier": 2
 },
 {
+"id": "c-4f0af23f68",
 "source": "NewsNation Reality Check episode description, 4 August 2026",
 "text": "In the same episode Gerb alleged to Coulthart directed-energy attacks on people close to the program, civilian aircraft downed by EMP weapons during craft-recovery operations, and an alleged murder.",
 "tier": 2
 },
 {
+"id": "c-8f6b0919b6",
 "source": "NewsNation Reality Check episode credits, 4 August 2026 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "text": "Reality Check credits: Host Ross Coulthart; Executive Producer Andy Gipson; Editorial Producer Meagan Medick; Segment Producers Christine Jenkinson and Will Tomasi; Research Producer Rob Jones; Editor Kanyon Lyons.",
 "tier": 2
@@ -80,6 +86,7 @@
 "dateEnd": "2023",
 "dateStart": "2023",
 "direction": "out",
+"edgeId": "e-ac32669243",
 "edgeLabel": "First television interview; origin of the biologics and dead pilots statements",
 "id": "david-grusch",
 "l0": false,
@@ -111,6 +118,7 @@
 "dateEnd": "2026",
 "dateStart": "2021",
 "direction": "out",
+"edgeId": "e-30cca1515c",
 "edgeLabel": "Coulthart hosts Reality Check",
 "id": "newsnation-reality-check",
 "l0": false,
@@ -132,6 +140,7 @@
 "dateEnd": "2026",
 "dateStart": "2026",
 "direction": "out",
+"edgeId": "e-5e66467b04",
 "edgeLabel": "Coulthart platformed Gerb on Reality Check and endorsed his claims on air",
 "id": "uap-gerb",
 "l0": false,
@@ -158,6 +167,7 @@
 "dateEnd": null,
 "dateStart": "2026",
 "direction": "in",
+"edgeId": "e-62e6d90d87",
 "edgeLabel": "Interviewed across multiple NewsNation 'Reality Check' episodes, June-August 2026",
 "id": "uap-gerb",
 "l0": false,
@@ -237,7 +247,7 @@
 "status": "active",
 "sub": "Investigative journalist, NewsNation; first Grusch television interview",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 673 of 1170, score 25). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 663 of 1138, score 25). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.",
 "timeline": [
 {
 "claimTier": null,

@@ -5,31 +5,37 @@
 "band": null,
 "claims": [
 {
+"id": "c-a708493063",
 "source": "Published biography",
 "text": "Knuth joined the University at Albany in 2005 and became a full professor in 2023; he has been Editor-in-Chief of Entropy since 2012.",
 "tier": 1
 },
 {
+"id": "c-c361f13e44",
 "source": "Progress in Aerospace Sciences, DOI 10.1016/j.paerosci.2025.101099",
 "text": "Szydagis and Knuth co-authored the 2025 UAPx field-expedition paper in Progress in Aerospace Sciences.",
 "tier": 1
 },
 {
+"id": "c-38b4b52b4c",
 "source": "UAlbany Department of Physics faculty page, retrieved 21 August 2026",
 "text": "Knuth joined the University at Albany in 2005 (Assistant Professor 2005-2009, Associate 2009-2023, Professor 2023-present) and has been Editor-in-Chief of Entropy since 2012.",
 "tier": 1
 },
 {
+"id": "c-343171de01",
 "source": "UAlbany Department of Physics faculty page, retrieved 21 August 2026",
 "text": "Szydagis's departmental research interests, as published by the university, include 'general detector development for rare event searches, neutron activation, and Unidentified Anomalous Phenomena'.",
 "tier": 1
 },
 {
+"id": "c-e7f60f25d6",
 "source": "UAlbany News Center, 4 June 2025",
 "text": "UAlbany's news office: 'UAlbany authors Matthew Szydagis, Kevin Knuth and Cecilia Levy, along with Ben Kugielsky of UAPx, a non-profit scientific research organization, collected observable-light and infrared images during a field expedition in 2021 to Laguna Beach, California.'",
 "tier": 1
 },
 {
+"id": "c-47512d410c",
 "source": "UAlbany News Center, 4 June 2025",
 "text": "Funding for the California field work came from Caroline Cory of OMnium Media, to produce the documentary 'A Tear in the Sky' (2022) - not from the University.",
 "tier": 1
@@ -45,6 +51,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-56d58ee0a3",
 "edgeLabel": "Employs Levy; Associate Professor of Physics and the third UAlbany author on the 2025 UAPx paper",
 "id": "cecilia-levy",
 "l0": false,
@@ -71,6 +78,7 @@
 "dateEnd": null,
 "dateStart": "2005",
 "direction": "out",
+"edgeId": "e-ae1a4b4f3b",
 "edgeLabel": "Employs Knuth; Professor of Physics since 2023, on the faculty since 2005",
 "id": "kevin-knuth",
 "l0": false,
@@ -92,6 +100,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-4fd4acceea",
 "edgeLabel": "Employs Szydagis; Associate Professor of Physics, with UAP listed as a departmental research interest",
 "id": "matthew-szydagis",
 "l0": false,
@@ -113,6 +122,7 @@
 "dateEnd": null,
 "dateStart": "2025-06",
 "direction": "out",
+"edgeId": "e-c216fb66c6",
 "edgeLabel": "Knuth lead-authored the 34-author UAP review from his UAlbany post; Szydagis co-authored",
 "id": "paper-knuth-2025-new-science",
 "l0": false,
@@ -139,6 +149,7 @@
 "dateEnd": null,
 "dateStart": "2025-06-02",
 "direction": "out",
+"edgeId": "e-2e75fc55f4",
 "edgeLabel": "Three of four authors carry the UAlbany affiliation; the University publicised the result under its own name",
 "id": "paper-uapx-2025",
 "l0": false,
@@ -165,6 +176,7 @@
 "dateEnd": null,
 "dateStart": "2021",
 "direction": "out",
+"edgeId": "e-3dea45016e",
 "edgeLabel": "Academic base of UAPx's science leadership - NOT a host, sponsor or funder",
 "id": "uapx",
 "l0": false,
@@ -351,7 +363,7 @@
 ],
 "sub": "Academic home of Kevin Knuth and Matthew Szydagis; institutional base of UAPx",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 509 of 1170, score 31). 6 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.",
+"tierRationale": "Re-graded B on a global pass (rank 506 of 1138, score 31). 6 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.",
 "timeline": [],
 "unverified": []
 }

@@ -5,16 +5,19 @@
 "band": "custody",
 "claims": [
 {
+"id": "c-efbbf52f14",
 "source": "AARO, Historical Record Report Volume I, March 2024, Section on classified aeronautics",
 "text": "Lockheed Martin's Advanced Development Program organisation, also known as Skunk Works, developed the RQ-170 Sentinel and the DarkStar; AARO cites these programs as sources of UAP misidentification.",
 "tier": 1
 },
 {
+"id": "c-be278e3122",
 "source": "Ben R. Rich and Leo Janos, 'Skunk Works' (1994)",
 "text": "Ben Rich directed the organisation from 1975 to 1991 and published a memoir describing its compartmentation, security and funding practice.",
 "tier": 1
 },
 {
+"id": "c-a4d61b0f4a",
 "source": "Board inference from the documented RQ-170 and F-117 concealment records",
 "text": "An organisation with demonstrated capability to fly unacknowledged hardware for years is the natural custodian for material whose existence the government intends to deny. Reasoning: capability and precedent, not a document tying Skunk Works to recovered material.",
 "tier": 3
@@ -30,6 +33,7 @@
 "dateEnd": "1991",
 "dateStart": "1975",
 "direction": "in",
+"edgeId": "e-f8077c0748",
 "edgeLabel": "Rich directed Skunk Works through the F-117 era and into the RQ-170 lineage",
 "id": "ben-rich",
 "l0": false,
@@ -42,7 +46,7 @@
 "url": "https://archive.org/details/skunkworks00benr"
 }
 ],
-"tier": "B",
+"tier": "C",
 "type": "institutional"
 },
 {
@@ -51,6 +55,7 @@
 "dateEnd": null,
 "dateStart": "2020",
 "direction": "in",
+"edgeId": "e-c98553b2ee",
 "edgeLabel": "Arrived at MITRE from Lockheed Martin's chief technology office",
 "id": "dana-keoki-jackson",
 "l0": false,
@@ -72,6 +77,7 @@
 "dateEnd": "1986",
 "dateStart": "1986",
 "direction": "in",
+"edgeId": "e-e63034fe9f",
 "edgeLabel": "the companion report names the Lockheed/Burbank plant the testimony would not",
 "id": "gao-130581",
 "l0": false,
@@ -93,6 +99,7 @@
 "dateEnd": "2026",
 "dateStart": "2011",
 "direction": "in",
+"edgeId": "e-a9598b0130",
 "edgeLabel": "Alleges Lockheed-held material was to be transferred",
 "id": "kona-blue",
 "l0": true,
@@ -114,6 +121,7 @@
 "dateEnd": "1982",
 "dateStart": "1955",
 "direction": "out",
+"edgeId": "e-8221f48e9f",
 "edgeLabel": "Skunk Works aircraft were tested at Groom Lake because they could not be tested at Edwards",
 "id": "l-groom-lake",
 "l0": false,
@@ -135,6 +143,7 @@
 "dateEnd": null,
 "dateStart": "1990",
 "direction": "out",
+"edgeId": "e-0f7ebb1120",
 "edgeLabel": "Skunk Works operates at the government-owned contractor-operated Palmdale facility",
 "id": "l-plant-42",
 "l0": false,
@@ -156,6 +165,7 @@
 "dateEnd": "2000-12",
 "dateStart": "2000-12",
 "direction": "in",
+"edgeId": "e-457300d46d",
 "edgeLabel": "Same relayed unnamed informant locates the Skunk Works catty-corner from Plant 42",
 "id": "mark-mccandlish",
 "l0": false,
@@ -177,6 +187,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-09a73a6e36",
 "edgeLabel": "Rob Weiss of Lockheed Skunk Works copied on the meeting thread and named by DeLonge",
 "id": "podesta-delonge-mccasland-email-2016",
 "l0": true,
@@ -198,6 +209,7 @@
 "dateEnd": "1955",
 "dateStart": "1954",
 "direction": "in",
+"edgeId": "e-cae517d5f7",
 "edgeLabel": "Ran the project Kelly Johnson built the aircraft for",
 "id": "richard-m-bissell-jr",
 "l0": false,
@@ -280,7 +292,7 @@
 "cls": "person",
 "id": "ben-rich",
 "label": "Ben R. Rich",
-"tier": "B"
+"tier": "C"
 },
 {
 "cls": "person",
@@ -338,7 +350,7 @@
 ],
 "sub": "Unacknowledged-program aeronautics organisation, Burbank then Palmdale",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 197 of 1170, score 46). 9 connections, 3 of them custody/funding/programmatic. Axes C3/A3/D0.",
+"tierRationale": "Re-graded B on a global pass (rank 196 of 1138, score 46). 9 connections, 3 of them custody/funding/programmatic. Axes C3/A3/D0.",
 "timeline": [],
 "unverified": []
 }

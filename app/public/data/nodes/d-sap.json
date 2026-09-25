@@ -5,16 +5,19 @@
 "band": null,
 "claims": [
 {
+"id": "c-f21afc60ce",
 "source": "DoD Directive 5205.07",
 "text": "DoD Directive 5205.07 establishes acknowledged, unacknowledged and waived SAP categories and the associated reporting regimes.",
 "tier": 1
 },
 {
+"id": "c-697d44d584",
 "source": "DIA release, OUSDI Info Memo on AATIP (Review of Special Access Program Request), via The Black Vault",
 "text": "An OUSD(I) information memorandum records a review of a special access program request relating to the Advanced Aerospace Threat Identification Program, dated November 2009.",
 "tier": 1
 },
 {
+"id": "c-5495cfc5d3",
 "source": "10 U.S.C. Sec. 119",
 "text": "10 U.S.C. 119(e) permits waiver of SAP notification requirements, reducing reporting to the chairmen and ranking members of the defence committees.",
 "tier": 1
@@ -30,6 +33,7 @@
 "dateEnd": null,
 "dateStart": "1987-01-01",
 "direction": "out",
+"edgeId": "e-0bad054735",
 "edgeLabel": "Waived notification limits reporting to eight members",
 "id": "d-oversight",
 "l0": false,
@@ -51,6 +55,7 @@
 "dateEnd": null,
 "dateStart": "2009-11-01",
 "direction": "in",
+"edgeId": "e-c5ca7cb71e",
 "edgeLabel": "Conversion from visible to invisible",
 "id": "d-program",
 "l0": false,
@@ -72,6 +77,7 @@
 "dateEnd": null,
 "dateStart": "1960-01-01",
 "direction": "in",
+"edgeId": "e-f8bff00c2e",
 "edgeLabel": "Statutory basis for the access tier",
 "id": "d-secrecy",
 "l0": false,
@@ -98,6 +104,7 @@
 "dateEnd": null,
 "dateStart": "1960-01-01",
 "direction": "out",
+"edgeId": "e-eb60349b7a",
 "edgeLabel": "SAP tiers implement compartmentation",
 "id": "d-secrecy-architecture",
 "l0": false,
@@ -119,9 +126,10 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-df64c24d34",
 "edgeLabel": "A primary statement of how special access programmes are established and by whom",
 "id": "gao-nsiad-88-152",
-"l0": false,
+"l0": true,
 "label": "GAO/NSIAD-88-152 - Special Access Programs: DOD Criteria and Procedures for Creating Them Need Improvement",
 "note": "The report is a primary statement of how special access programmes are established and by whom.",
 "sources": [
@@ -140,6 +148,7 @@
 "dateEnd": null,
 "dateStart": "1985-01-18",
 "direction": "in",
+"edgeId": "e-ec701494a2",
 "edgeLabel": "Orders a special access compartment over a whole policy subject",
 "id": "nsdd-159",
 "l0": false,
@@ -206,7 +215,7 @@
 ],
 "sub": "Access-control domain - the SAP/USAP/waived tier and its oversight carve-outs",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 203 of 1170, score 45). 6 connections, 3 of them custody/funding/programmatic. Axes C2/A3/D2.",
+"tierRationale": "Re-graded B on a global pass (rank 202 of 1138, score 45). 6 connections, 3 of them custody/funding/programmatic. Axes C2/A3/D2.",
 "timeline": [
 {
 "claimTier": 1,

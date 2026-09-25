@@ -17,11 +17,13 @@
 ],
 "claims": [
 {
+"id": "c-55734bd54d",
 "source": "The Debrief, About page, retrieved 12 August 2026",
 "text": "Micah Hanks is Co-Founder/Creator and Editor-in-Chief of The Debrief.",
 "tier": 1
 },
 {
+"id": "c-4abc42a8c5",
 "source": "The Debrief byline and dateline, 17 October 2024",
 "text": "Hanks authored The Debrief's 17 October 2024 report on Immaculate Constellation.",
 "tier": 1
@@ -37,6 +39,7 @@
 "dateEnd": "2024",
 "dateStart": "2024",
 "direction": "out",
+"edgeId": "e-9aa73b0143",
 "edgeLabel": "Hanks published the first general-readership account, 17 October 2024",
 "id": "immaculate-constellation",
 "l0": true,
@@ -58,6 +61,7 @@
 "dateEnd": "2026",
 "dateStart": "2020",
 "direction": "out",
+"edgeId": "e-2cdc0e2c56",
 "edgeLabel": "Co-founder, Creator and Editor-in-Chief",
 "id": "the-debrief",
 "l0": false,
@@ -119,7 +123,7 @@
 "status": "active",
 "sub": "Co-founder and Editor-in-Chief, The Debrief",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 1066 of 1170, score 12). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 1035 of 1138, score 12). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.",
 "timeline": [
 {
 "claimTier": null,

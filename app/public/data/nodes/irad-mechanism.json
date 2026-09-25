@@ -5,16 +5,19 @@
 "band": null,
 "claims": [
 {
+"id": "c-b25a8692aa",
 "source": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm",
 "text": "DoD Instruction 3204.01, dated 20 August 2014 incorporating change 2 dated 9 July 2020, establishes Department policy for oversight of independent research and development.",
 "tier": 1
 },
 {
+"id": "c-067b35bd70",
 "source": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm",
 "text": "Congress prohibited IR&D funding relating to UAP from being allowable as an indirect expense absent disclosure to the appropriate congressional committees and leadership, in both NDAA FY2024 Sec. 1687(b) and IAA FY2024 Sec. 7343(c).",
 "tier": 1
 },
 {
+"id": "c-2521b44fb4",
 "source": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm",
 "text": "IR&D is the mechanism that best fits the alleged fact pattern of government-funded, contractor-held, contractor-directed work on recovered material outside congressional programme visibility, because it combines government payment, contractor direction, contractor retention of results, and absence of a named appropriation line. Reasoning: each element of the alleged pattern maps onto a structural feature of IR&D cost allowability; no other standard federal funding instrument does so.",
 "tier": 3
@@ -30,6 +33,7 @@
 "dateEnd": "2023-12-22",
 "dateStart": "2023-06-05",
 "direction": "in",
+"edgeId": "e-2c0ac19e10",
 "edgeLabel": "The allegation of illegal contracting and the statute that names IR&D",
 "id": "grusch-misappropriation-allegation",
 "l0": false,
@@ -51,6 +55,7 @@
 "dateEnd": null,
 "dateStart": "2023-12-22",
 "direction": "in",
+"edgeId": "e-0db52c74ac",
 "edgeLabel": "Statutory bar on UAP-related IR&D as an allowable indirect cost",
 "id": "ndaa-fy2024-1687",
 "l0": true,
@@ -72,6 +77,7 @@
 "dateEnd": null,
 "dateStart": "2023-12-22",
 "direction": "out",
+"edgeId": "e-c103bc5c27",
 "edgeLabel": "IR&D reimbursement is not an appropriation and does not trigger SAP notification",
 "id": "sec-8009-sap-notice",
 "l0": false,
@@ -122,7 +128,7 @@
 ],
 "sub": "Contractor-directed research reimbursed by the government as an allowable indirect cost",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 294 of 1170, score 40). 3 connections, 1 of them custody/funding/programmatic. Axes C3/A3/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 296 of 1138, score 40). 3 connections, 1 of them custody/funding/programmatic. Axes C3/A3/D3.",
 "timeline": [],
 "unverified": []
 }

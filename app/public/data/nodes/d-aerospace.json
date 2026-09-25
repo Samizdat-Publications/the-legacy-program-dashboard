@@ -5,16 +5,19 @@
 "band": null,
 "claims": [
 {
+"id": "c-aa786f1ebb",
 "source": "Ben R. Rich and Leo Janos, 'Skunk Works: A Personal Memoir of My Years at Lockheed'",
 "text": "Lockheed's Advanced Development Projects designed and flew the U-2, A-12/SR-71 and F-117 under security regimes in which the aircraft's existence was officially denied while operational.",
 "tier": 1
 },
 {
+"id": "c-41ab01cc07",
 "source": "Haines, Studies in Intelligence (1997)",
 "text": "CIA's own historical account confirms that U-2 and OXCART overflights were the source of a majority of UFO reports in the late 1950s and 1960s, and that false explanations were issued to protect them.",
 "tier": 1
 },
 {
+"id": "c-ac2507d39a",
 "source": "Christopher Sharp, Liberation Times, 11 March 2023",
 "text": "Lockheed Martin was publicly challenged in March 2023 over allegations concerning UFO legacy programmes, in named-source reporting.",
 "tier": 2
@@ -30,6 +33,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-be36f16bee",
 "edgeLabel": "Hypersonic boost-glide development across three services on appropriated funding",
 "id": "conventional-prompt-global-strike",
 "l0": false,
@@ -51,6 +55,7 @@
 "dateEnd": null,
 "dateStart": "1943-06-01",
 "direction": "out",
+"edgeId": "e-b84969d2ea",
 "edgeLabel": "Advanced projects shops are the industrial home",
 "id": "d-contractor",
 "l0": false,
@@ -72,6 +77,7 @@
 "dateEnd": "1990-12-31",
 "dateStart": "1955-01-01",
 "direction": "out",
+"edgeId": "e-4a9ea0a978",
 "edgeLabel": "Black aircraft generated real cover stories",
 "id": "d-coverup",
 "l0": false,
@@ -93,6 +99,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-46a5048732",
 "edgeLabel": "subject domain: crew-station design for breakthrough flight regimes",
 "id": "dird-cockpits-in-the-era-of-breakthrough",
 "l0": false,
@@ -136,6 +143,7 @@
 "by": null,
 "claimTier": 1,
 "denialKind": "association",
+"edgeId": "e-4a9ea0a978",
 "label": "Black aircraft generated real cover stories",
 "note": "CIA's own historian states that U-2 and OXCART flights accounted for over half of late-1950s and 1960s reports and that false explanations were issued to protect them.",
 "of": null,
@@ -187,7 +195,7 @@
 ],
 "sub": "Industrial domain - the advanced projects shops where black aircraft and their cover stories are built",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 327 of 1170, score 38). 4 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D1.",
+"tierRationale": "Re-graded B on a global pass (rank 328 of 1138, score 38). 4 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D1.",
 "timeline": [],
 "unverified": []
 }

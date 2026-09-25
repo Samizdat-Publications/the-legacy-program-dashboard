@@ -5,26 +5,31 @@
 "band": "disclosure",
 "claims": [
 {
+"id": "c-96b65ce17c",
 "source": "Full-text search of the 14 June 2001 FOIA release, https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf , opened 2026-09-19",
 "text": "THE ZERO COUNT. A full-text search of the 88 released pages of the 341st Strategic Missile Wing histories, covering 1 January 1967 to 31 March 1968, returns ZERO occurrences of 'Oscar', ZERO of 'O Flight', ZERO of '24 Mar' and ZERO of '25 Mar'. The release documents Echo Flight on 16 March 1967 and no other March 1967 shutdown.",
 "tier": 1
 },
 {
+"id": "c-c891056e61",
 "source": "HQ 341st Space Wing letter to John Greenewald Jr, 14 June 2001, signed Marty S. Stephens, p 3 of the release, https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf , opened 2026-09-19",
 "text": "THE ZERO COUNT IS BOUNDED BY WHAT THE RELEASE IS. The Air Force letter of 14 June 2001 states it is releasing 'Copies of excerpts, as well as supporting documents' of five quarterly histories, not the complete histories. Every argument from silence against Oscar Flight is bounded by that, and this board states the bound rather than letting the zero count do more work than it can.",
 "tier": 3
 },
 {
+"id": "c-cebc9e1286",
 "source": "Robert Hastings, 'The Echo and Oscar Flight Incidents', https://www.ufohastings.com/articles/the-echo-and-oscar-flight-incidents , opened 2026-09-19",
 "text": "Robert Hastings dates Oscar Flight to 24 March 1967 on Capt. Robert Jamison's information and states that Salas agrees the two incidents probably occurred on separate days. The date that separates Oscar Flight from Echo Flight therefore comes from a witness the same interviewer found.",
 "tier": 2
 },
 {
+"id": "c-c98b1efae0",
 "source": "Metabunk, https://www.metabunk.org/threads/ufos-at-nuclear-weapons-sites-salas-malmstrom-eagle-flight-skeptical-resources.3284/ , opened 2026-09-19",
 "text": "James Carlson disputes that any Oscar Flight incident occurred, citing SAC UFO officer Col. Lewis D. Chase as finding no equipment failures or sighting on that date, and disputes Salas's account of the flight to which he was assigned.",
 "tier": 2
 },
 {
+"id": "c-8820c504e1",
 "source": "Contested between https://www.ufohastings.com/articles/the-echo-and-oscar-flight-incidents , https://www.metabunk.org/threads/ufos-at-nuclear-weapons-sites-salas-malmstrom-eagle-flight-skeptical-resources.3284/ and http://kevinrandle.blogspot.com/2013/05/robert-salas-and-me.html , all opened 2026-09-19",
 "text": "Col. Frederick Meiwald wrote to Salas about the incident on 1 October 1996. THE LETTER HAS NOT BEEN OPENED BY THIS BOARD and two incompatible characterisations of it are in circulation, one supporting and one contradicting Salas. Kevin Randle separately records Salas giving all ten missiles and Meiwald four or five.",
 "tier": 2
@@ -43,6 +48,7 @@
 "dateEnd": "2001-06-14",
 "dateStart": "1967-03-24",
 "direction": "in",
+"edgeId": "e-86c7cd289c",
 "edgeLabel": "The release contains zero occurrences of Oscar, O Flight, 24 Mar and 25 Mar",
 "id": "doc-341-smw-history-1967",
 "l0": false,
@@ -64,6 +70,7 @@
 "dateEnd": "2011-05-06",
 "dateStart": "1967-03-24",
 "direction": "in",
+"edgeId": "e-fd44161381",
 "edgeLabel": "Salas's crew commander; the 1 October 1996 letter",
 "id": "frederick-meiwald",
 "l0": false,
@@ -95,6 +102,7 @@
 "dateEnd": "2026",
 "dateStart": "2010",
 "direction": "in",
+"edgeId": "e-550fd0f314",
 "edgeLabel": "Disputes that any Oscar Flight incident occurred",
 "id": "james-carlson",
 "l0": false,
@@ -121,6 +129,7 @@
 "dateEnd": "1967-03-24",
 "dateStart": "1967-03-24",
 "direction": "out",
+"edgeId": "e-b3282c6ccc",
 "edgeLabel": "The claimed Oscar Flight capsule is in this wing's field",
 "id": "l-malmstrom",
 "l0": false,
@@ -147,6 +156,7 @@
 "dateEnd": "2026",
 "dateStart": "2010",
 "direction": "in",
+"edgeId": "e-a4726f1177",
 "edgeLabel": "Separated Oscar Flight from Echo Flight and dated it",
 "id": "robert-hastings",
 "l0": false,
@@ -168,6 +178,7 @@
 "dateEnd": "2010-09-27",
 "dateStart": "1967-03-24",
 "direction": "in",
+"edgeId": "e-ea24d246c2",
 "edgeLabel": "Retargeting team commander; the source of the 24 March 1967 date",
 "id": "robert-jamison",
 "l0": false,
@@ -194,6 +205,7 @@
 "dateEnd": "1996",
 "dateStart": "1967-03-24",
 "direction": "in",
+"edgeId": "e-d563b7af04",
 "edgeLabel": "The originating claimant of the Oscar Flight account",
 "id": "robert-salas",
 "l0": false,
@@ -237,6 +249,7 @@
 "by": null,
 "claimTier": 1,
 "denialKind": "association",
+"edgeId": "e-86c7cd289c",
 "label": "The release contains zero occurrences of Oscar, O Flight, 24 Mar and 25 Mar",
 "note": "An association denial: the document does not deny the claim, it simply fails to contain it, and that tells against it. BOUNDED: the covering letter says the release is excerpts, not complete histories.",
 "of": null,
@@ -263,6 +276,7 @@
 },
 "claimTier": 2,
 "denialKind": "directed",
+"edgeId": "e-550fd0f314",
 "label": "Disputes that any Oscar Flight incident occurred",
 "note": "He cites SAC UFO officer Col. Lewis D. Chase as finding no equipment failures or sighting on that date. The released unit history is silent, which supports neither man, though its silence is consistent with him.",
 "of": {
@@ -405,7 +419,7 @@
 ],
 "sub": "Robert Salas's claimed second missile shutdown, eight days after Echo Flight; not mentioned anywhere in the released 341st SMW histories",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 416 of 1170, score 34). 7 connections, 0 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C0/A1/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 415 of 1138, score 34). 7 connections, 0 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C0/A1/D3.",
 "timeline": [
 {
 "claimTier": null,

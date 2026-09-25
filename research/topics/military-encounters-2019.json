@@ -1,0 +1,26 @@
+{
+ "id": "military-encounters-2019",
+ "title": "Military encounters since 2019: USS Kidd, Oman, Yemen and USS Jackson",
+ "kind": "incident",
+ "section": "encounters-witnesses",
+ "span": {
+  "from": "2019",
+  "to": "2026"
+ },
+ "focusEra": "3",
+ "anchors": [
+  "kidd-russell-2019",
+  "gulf-of-oman-ac130j-2021",
+  "mq9-yemen-hellfire-video-2024",
+  "uss-jackson-2023",
+  "uss-jackson",
+  "virginia-coast-uap-2026",
+  "alexandro-wiggins",
+  "l-w72"
+ ],
+ "absorbs": [],
+ "essays": [],
+ "status": "draft",
+ "notes": "Added: not in Appendix T. The post-2019 encounters the hearings and releases made public form their own group; they are neither Nimitz nor Roosevelt.",
+ "appendixT": null
+}

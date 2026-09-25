@@ -5,56 +5,67 @@
 "band": "research",
 "claims": [
 {
+"id": "c-29bb7bdaec",
 "source": "Project Condign, 'Unidentified Aerial Phenomena in the UK Air Defence Region', UK Defence Intelligence Staff; released 15 May 2006",
 "text": "The report is a three-volume report, not four. The preface to Volume 3 states 'This is the third volume of a three-part report'. The commonly cited fourth part is the separately released standalone Executive Summary.",
 "tier": 1
 },
 {
+"id": "c-9990791c31",
 "source": "Project Condign, 'Unidentified Aerial Phenomena in the UK Air Defence Region', UK Defence Intelligence Staff; released 15 May 2006",
 "text": "Volume 3 is titled 'Miscellaneous Related Studies'. 'Potential for Exploitation of UAP-Associated Effects' is the title of its Chapter 3, and Chapter 4 is 'UAP Work in Other Countries'. These have been conflated with the volume title.",
 "tier": 1
 },
 {
+"id": "c-51c5ebcb92",
 "source": "Project Condign, 'Unidentified Aerial Phenomena in the UK Air Defence Region', UK Defence Intelligence Staff; released 15 May 2006",
 "text": "Volume 3 Chapter 4 paragraph 1 records the Soviet centre's name as SOYUZUFOSENTR, not Soyuzufotsentr: 'an Inter-Industry Ufology Research Centre (SOYUZUFOSENTR) to co-ordinate records. This Centre had the rights of an Institute under the USSR Academy of Sciences, and was headed by V.G. AZAHAZHA (or AZHAZHA) an eminent researcher and former naval submariner.'",
 "tier": 1
 },
 {
+"id": "c-615deb1d8a",
 "source": "UK National Archives DEFE 24/2090/1, FOI review file",
 "text": "The FOI review file DEFE 24/2090/1 shows a still-redacted reference to a 'CIA desk officer' at Volume 3, Chapter 4, page 3, paragraph 12.",
 "tier": 2
 },
 {
+"id": "c-40c566f8f8",
 "source": "Unidentified Aerial Phenomena in the UK Air Defence Region, Executive Summary, Findings para 3",
 "text": "Finding para 3: 'As a result of the studies and considering all the available information, no evidence either of intelligent control of the objects, alleged inspections of UK strategic assets or any hostility or threat has been found. Although there are some allied topics of potential military interest there are no findings in the category of direct interest to defence intelligence.'",
 "tier": 1
 },
 {
+"id": "c-ea90fa6121",
 "source": "Condign Executive Summary, Findings para 4",
 "text": "Finding para 4: 'although unidentified objects regularly appear in the UKADR there is no hostile threat from them to our aircraft, they do not belong to another nation and there is no evidence of extra-terrestrial activity apart from the very high probability, in some cases, of their connection with meteors.'",
 "tier": 1
 },
 {
+"id": "c-eb8978c436",
 "source": "Condign Executive Summary, Findings para 7, released MoD page image",
 "text": "Finding para 7, 'Related Military Applications', is entirely redacted in the released copy under exemption s.26.",
 "tier": 1
 },
 {
+"id": "c-b689a80912",
 "source": "Condign Executive Summary, Subsidiary Recommendations and Findings para 5",
 "text": "Flight-safety subsidiary recommendation: 'No attempt should be made to out-manoeuvre a UAP during interception' and at higher altitudes 'pilots should be advised not to manoeuvre, other than to place the object astern, if possible' - advice given 'Following the Russian experiences'.",
 "tier": 1
 },
 {
+"id": "c-d083f6ae5d",
 "source": "Condign Executive Summary, Subsidiary Recommendations",
 "text": "Public-release recommendation: 'It is suggested that the findings of this report could be used to provide the public with a balanced view of UAP reports and MoD involvement. It is recommended that this report be made available in a suitable form for public release.'",
 "tier": 1
 },
 {
+"id": "c-ac48794ef5",
 "source": "Condign Executive Summary, para 16",
 "text": "'The Way Ahead' paragraph 16 states that the knowledge gained 'may be of value in any wider policy decision on the way ahead ... it would also protect the DIS involvement which has, unfortunately, become public knowledge'.",
 "tier": 1
 },
 {
+"id": "c-ab9888af20",
 "source": "Inference from Condign Executive Summary paras 3-16 as released",
 "text": "The report is simultaneously an explanation and a closure instrument: its plasma hypothesis supplies a non-threatening account of the residual cases while its key recommendation ends DI55's monitoring requirement and its database - the analytical capability - and paragraph 16 frames public release as protective of the Ministry's position. Reasoning: the recommendation list moves from explanation directly to termination and to managed disclosure, with the only paragraphs about military application redacted.",
 "tier": 3
@@ -70,6 +81,7 @@
 "dateEnd": "2006-05-15",
 "dateStart": "2005-09",
 "direction": "in",
+"edgeId": "e-ef6bd7e00a",
 "edgeLabel": "FOI request that forced the release",
 "id": "david-clarke-uk",
 "l0": false,
@@ -91,6 +103,7 @@
 "dateEnd": "2006-05-15",
 "dateStart": "2000",
 "direction": "out",
+"edgeId": "e-7de8ba3f80",
 "edgeLabel": "Volume 3 holds the material excluded from the RESTRICTED summary",
 "id": "doc-condign-vol3",
 "l0": true,
@@ -112,6 +125,7 @@
 "dateEnd": "2009-12",
 "dateStart": "2000",
 "direction": "out",
+"edgeId": "e-a21e2a485f",
 "edgeLabel": "key recommendation executed nine years later",
 "id": "ev-uk-ufo-desk-closure",
 "l0": false,
@@ -138,6 +152,7 @@
 "dateEnd": "2006-05-15",
 "dateStart": "2005-09",
 "direction": "in",
+"edgeId": "e-12606bd281",
 "edgeLabel": "co-requester of the Condign FOI",
 "id": "gary-anthony-uk",
 "l0": false,
@@ -159,6 +174,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-4aaf7db27c",
 "edgeLabel": "produced at Whitehall, released via TNA at Kew",
 "id": "l-london",
 "l0": false,
@@ -190,6 +206,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-dde6788a41",
 "edgeLabel": "UK-commissioned study of its own air defence region",
 "id": "l-uk",
 "l0": false,
@@ -216,6 +233,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-3c29c971a1",
 "edgeLabel": "Condign report held at MoD Main Building",
 "id": "l-uk-mod-whitehall",
 "l0": false,
@@ -247,6 +265,7 @@
 "dateEnd": "2000",
 "dateStart": "2000",
 "direction": "in",
+"edgeId": "e-9c8074b4fd",
 "edgeLabel": "produced the four-volume report",
 "id": "project-condign",
 "l0": false,
@@ -268,6 +287,7 @@
 "dateEnd": "2000",
 "dateStart": "1952",
 "direction": "in",
+"edgeId": "e-3f0fc0d1e2",
 "edgeLabel": "1952 recommendation to acquire the technology prefigures Condign's redacted 'Related Military Applications'",
 "id": "project-magnet",
 "l0": false,
@@ -484,7 +504,7 @@
 ],
 "sub": "THREE-volume UK Defence Intelligence Staff report (not four); the separately-released standalone Executive Summary is what has been miscounted as a fourth part. Volume 3 preface is dated February 2000. Released 15 May 2006 under FOI to David Clarke and Gary Anthony.",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 100 of 1170, score 64). 9 connections, 3 of them custody/funding/programmatic. Axes C1/A2/D3.",
+"tierRationale": "Re-graded A on a global pass (rank 101 of 1138, score 64). 9 connections, 3 of them custody/funding/programmatic. Axes C1/A2/D3.",
 "timeline": [
 {
 "claimTier": 1,

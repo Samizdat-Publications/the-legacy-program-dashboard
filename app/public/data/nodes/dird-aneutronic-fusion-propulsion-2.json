@@ -5,41 +5,49 @@
 "band": null,
 "claims": [
 {
+"id": "c-ba3d21bf59",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237644/",
 "text": "Defense Intelligence Reference Document titled \"Aneutronic Fusion Propulsion\", series \"Defense Futures\", published 2010-11-01 with an Intelligence Cut-Off Date (ICOD) of 2010-07-20, DIA document number DIA-08-1011-004. Released by DIA under FOIA and posted in the DIA FOIA Electronic Reading Room.",
 "tier": 1
 },
 {
+"id": "c-813c61a22c",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237644/",
 "text": "Inside cover reads: \"This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency [redacted b(3) 10 USC 424] Advanced Aerospace Weapon System Applications (AAWSA) Program\" and directs questions to the \"AAWSA Program Manager, Defense Intelligence Agency, ATTN: [redacted], Bldg 6000, Washington, DC 20340-5100\".",
 "tier": 1
 },
 {
+"id": "c-bf95ec3a54",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237644/",
 "text": "Author name is withheld in the DIA-released copy under FOIA exemption (b)(6); the \"Prepared by:\" line is withheld under (b)(3) 10 USC 424. The released cover therefore does not attribute the DIRD to a named author.",
 "tier": 1
 },
 {
+"id": "c-71b236dca8",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237644/",
 "text": "Released PDF is 36 pages, marked UNCLASSIFIED//FOR OFFICIAL USE ONLY (FOUO caveat partially illegible in the scan).",
 "tier": 1
 },
 {
+"id": "c-fe7bf4d791",
 "source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_37-DIRD_Aneutronic_Fusion_Propulsion_II.pdf",
 "text": "This is NOT a duplicate of dird-aneutronic-fusion-propulsion. It is a physically distinct 37-page document with its own DIA document number, DIA-08-1011-004, sequential to DIA-08-1011-003. Cover reads \"01 November 2010 / ICOD: 20 July 2010\", series \"Defense Futures\", and uniquely among the eight documents in this batch the byline field is plural, \"Authors:\", redacted under (b)(6).",
 "tier": 1
 },
 {
+"id": "c-69d52f6709",
 "source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_37-DIRD_Aneutronic_Fusion_Propulsion_II.pdf",
 "text": "The word \"II\" does not appear anywhere on the cover or title page of this released PDF; the title page reads \"(U) Aneutronic Fusion Propulsion\". The Roman numeral exists only in The Black Vault's filename. This is why the board carries two nodes with identical labels.",
 "tier": 1
 },
 {
+"id": "c-21d5d3be83",
 "source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_37-DIRD_Aneutronic_Fusion_Propulsion_II.pdf",
 "text": "Assigned to Teofilo on internal evidence: endnote 17 cites \"G. Miley, H. Momota, L. Wu, M. Reilley, V. Teofilo, R. Dell, and R. Hargus, Space Probe Application of IEC Thrusters, Fusion Science and Technology 56 1, 533-539, July 2009\", the only occurrence of either candidate author's surname in either aneutronic document. It sits immediately adjacent to endnote 16, a citation of AeroJet/Lockheed Martin Space Systems Company Hall thruster hardware that is also named in the body text. The document's framing is industrial rather than academic: GEO comsat markets, a funding table of privately backed fusion companies, and a closing argument that reactor physicists must now work alongside \"the space systems companies\".",
 "tier": 2
 },
 {
+"id": "c-8d8258a288",
 "source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_37-DIRD_Aneutronic_Fusion_Propulsion_II.pdf",
 "text": "Admin note states the product was produced in FY 2010, whereas the Acquisition Threat Support DIRDs in this batch state FY 2009. The DIRD series therefore spans at least two fiscal years and two internal DIA series labels.",
 "tier": 1
@@ -55,6 +63,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-ee6d835e00",
 "edgeLabel": "deliverable under AAWSAP",
 "id": "aawsap",
 "l0": true,
@@ -81,6 +90,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-94108c02a5",
 "edgeLabel": "published and holds; DIA-08-1011-004",
 "id": "dia",
 "l0": true,
@@ -107,6 +117,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-4c8451d8d9",
 "edgeLabel": "DIRD",
 "id": "dird-series",
 "l0": true,
@@ -128,6 +139,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-c8e03fa9c7",
 "edgeLabel": "series member",
 "id": "dird-series",
 "l0": true,
@@ -154,6 +166,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-c618c0adde",
 "edgeLabel": "authored by Lockheed Martin Space Systems staff",
 "id": "lockheed-martin",
 "l0": true,
@@ -190,6 +203,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-63a04c2582",
 "edgeLabel": "authored (attribution by internal self-citation, see note)",
 "id": "vincent-teofilo",
 "l0": false,
@@ -277,7 +291,7 @@
 ],
 "sub": "defense-intelligence-reference-document",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 318 of 1170, score 38). 6 connections, 3 of them custody/funding/programmatic. Axes C0/A0/D0.",
+"tierRationale": "Re-graded B on a global pass (rank 319 of 1138, score 38). 6 connections, 3 of them custody/funding/programmatic. Axes C0/A0/D0.",
 "timeline": [],
 "unverified": []
 }

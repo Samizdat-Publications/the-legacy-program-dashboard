@@ -5,26 +5,31 @@
 "band": null,
 "claims": [
 {
+"id": "c-8eef6362b8",
 "source": "Capt. Hunter Rininger, Chief of Public Affairs, Barksdale AFB, 9 March 2026",
 "text": "'Earlier this morning, Barksdale Air Force Base received a report of an unmanned aerial system operating over the installation.'",
 "tier": 1
 },
 {
+"id": "c-b906cb945c",
 "source": "The Debrief, 9 March 2026",
 "text": "Barksdale raised force protection to FPCON Charlie and issued a shelter-in-place order via text alert on 9 March 2026.",
 "tier": 1
 },
 {
+"id": "c-125bc71b66",
 "source": "The War Zone, 25 March 2026",
 "text": "Multiple waves of 12-15 drones were observed over sensitive areas including the flight line during the week of 9 March 2026; drones showed non-commercial signal characteristics and resistance to jamming.",
 "tier": 2
 },
 {
+"id": "c-878017e4ba",
 "source": "The War Zone, 25 March 2026",
 "text": "The incursions followed the launch of Operation Epic Fury, the US bombing campaign against Iran involving B-52, B-1 and B-2 aircraft.",
 "tier": 2
 },
 {
+"id": "c-714b17fcc8",
 "source": "The War Zone, 25 March 2026",
 "text": "A NORTHCOM spokesman on 25 March 2026 declined to specify affected base locations for operational security and confirmed jamming protocols were deployed.",
 "tier": 2
@@ -40,6 +45,7 @@
 "dateEnd": "2026",
 "dateStart": "2026",
 "direction": "in",
+"edgeId": "e-d194f6627e",
 "edgeLabel": "Confirmed year-on-year increase in detections over installations",
 "id": "gregory-guillot",
 "l0": false,
@@ -61,6 +67,7 @@
 "dateEnd": "2026",
 "dateStart": "2026",
 "direction": "in",
+"edgeId": "e-baa1666c7f",
 "edgeLabel": "The 2026 bomber-base incursions are the task force's live problem",
 "id": "jiatf-401",
 "l0": false,
@@ -87,6 +94,7 @@
 "dateEnd": "2026",
 "dateStart": "2026",
 "direction": "out",
+"edgeId": "e-f269ae85ea",
 "edgeLabel": "Site of the March 2026 incursion waves and FPCON Charlie alert",
 "id": "l-barksdale",
 "l0": false,
@@ -147,7 +155,7 @@
 ],
 "sub": "Drone waves over nuclear-capable bomber bases after Operation Epic Fury",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 684 of 1170, score 25). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 674 of 1138, score 25). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D2.",
 "timeline": [
 {
 "claimTier": null,

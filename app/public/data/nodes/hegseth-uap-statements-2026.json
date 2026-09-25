@@ -5,21 +5,25 @@
 "band": null,
 "claims": [
 {
+"id": "c-ff2ad25955",
 "source": "https://defensescoop.com/2026/02/25/hegseth-ufo-disclosure-trump-aaro-uap-caseload/",
 "text": "Hegseth, Louisville, Colorado, 23 February 2026: 'We're going to be in full compliance with that executive order, [and we're] eager to provide that for the president. So, there'll be more coming on that.'",
 "tier": 2
 },
 {
+"id": "c-401e1ba440",
 "source": "https://defensescoop.com/2026/02/25/hegseth-ufo-disclosure-trump-aaro-uap-caseload/",
 "text": "Hegseth: 'I don't want to over-promise and under-deliver. So, we're going to take a little time.'",
 "tier": 2
 },
 {
+"id": "c-c60f8a3aec",
 "source": "https://defensescoop.com/2026/02/25/hegseth-ufo-disclosure-trump-aaro-uap-caseload/",
 "text": "Pentagon spokesperson Sue Gough confirmed AARO has examined over 2,000 UAP cases, with approximately 1,000 reports lacking sufficient data retained in an Active Archive.",
 "tier": 2
 },
 {
+"id": "c-60df48e812",
 "source": "https://defensescoop.com/2026/02/20/trump-ufo-uap-government-files-disclosure/",
 "text": "Hegseth's reference to 'that executive order' is unmatched by any published order; the contemporaneous instrument is a Truth Social post. Either the Secretary characterised a social-media post as an executive order, or an unpublished order exists. Reasoning: no UAP declassification executive order appears in the Federal Register or on whitehouse.gov as of 12 August 2026.",
 "tier": 3
@@ -35,10 +39,11 @@
 "dateEnd": null,
 "dateStart": "2026-02-23",
 "direction": "out",
+"edgeId": "e-2795b20cb0",
 "edgeLabel": "characterises a social-media post as an executive order",
-"id": "trump-truth-social-post-2026-02-20",
+"id": "trump-uap-release-directive-2026",
 "l0": false,
-"label": "Trump Truth Social post directing release of UAP files (20 February 2026)",
+"label": "Presidential direction to identify and release UAP files (19-20 February 2026)",
 "note": "Hegseth's phrase 'that executive order' has no matching published instrument. Either the Secretary mischaracterised the post or an unpublished order exists; the board records the discrepancy rather than resolving it.",
 "sources": [
 {
@@ -52,7 +57,7 @@
 "url": "https://defensescoop.com/2026/02/20/trump-ufo-uap-government-files-disclosure/"
 }
 ],
-"tier": "B",
+"tier": "A",
 "type": "denial"
 }
 ],
@@ -67,12 +72,13 @@
 "label": "Hegseth's UAP disclosure statements, Louisville, 23 February 2026"
 },
 "b": {
-"id": "trump-truth-social-post-2026-02-20",
-"label": "Trump Truth Social post directing release of UAP files (20 February 2026)"
+"id": "trump-uap-release-directive-2026",
+"label": "Presidential direction to identify and release UAP files (19-20 February 2026)"
 },
 "by": null,
 "claimTier": 3,
 "denialKind": "association",
+"edgeId": "e-2795b20cb0",
 "label": "characterises a social-media post as an executive order",
 "note": "Hegseth's phrase 'that executive order' has no matching published instrument. Either the Secretary mischaracterised the post or an unpublished order exists; the board records the discrepancy rather than resolving it.",
 "of": null,
@@ -124,7 +130,7 @@
 ],
 "sub": "'Arsenal of Freedom' tour; 'full compliance with that executive order'",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 727 of 1170, score 24). 1 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 714 of 1138, score 24). 1 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D3.",
 "timeline": [
 {
 "claimTier": 2,

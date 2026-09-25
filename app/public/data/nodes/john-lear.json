@@ -8,26 +8,31 @@
 "chronology": [],
 "claims": [
 {
+"id": "c-e9d4278181",
 "source": "Norio Hayakawa, 29 August 2016, https://noriohayakawa.wordpress.com/2016/08/29/enigmatic-personalities-behind-the-initial-dulce-underground-base-rumors/comment-page-1/ , opened 2026-09-19",
 "text": "Lear heard of Dulce from a woman named as 'Ann West' and developed his Dulce hypothesis in 1988, in the dated chronology of the cluster's originators. The same name appears in Tal Levesque's November 2015 confession as the raw material from which he composed the two original Dulce Base articles.",
 "tier": 2
 },
 {
+"id": "c-3803217d1d",
 "source": "The Museum of Flight Archives, authority record for John Lear, https://archives.museumofflight.org/agents/people/4962 , opened 2026-09-18",
 "text": "The Museum of Flight Archives authority record states: 'John Olsen Lear was born December 3, 1942' and 'John Lear died on March 29, 2022.' His materials sit inside the William P. and Moya Olsen Lear Family Collection, spanning 1938 to 2001. The archive's own summary line for him is 'UFO conspiracy theorist, pilot, and a one-time candidate for Nevada State Senate.'",
 "tier": 1
 },
 {
+"id": "c-68a48b7d95",
 "source": "The Museum of Flight Archives collection description, https://archives.museumofflight.org/agents/people/4962 , opened 2026-09-18",
 "text": "In May 1966 he was one of the pilots on a Learjet 24 flight around the world that set a large number of international aviation records. The FAI record files were not opened and the count of records and the exact crew roles are not asserted here.",
 "tier": 2
 },
 {
+"id": "c-99acb0f550",
 "source": "John Lear's Dec. 29, 1987 Statement, Internet Archive item uploaded by Rich Geldreich 10 June 2023, https://archive.org/details/john-lear-statement-1987 , opened 2026-09-18",
 "text": "HIS OWN CLAIM DOCUMENT IS DATED AND PRECEDES LAZAR. A statement by Lear dated 29 December 1987, originally a physical letter to the Borderland Sciences Research Foundation, survives in the BSRA/BSRF holdings at the Archives for the Unexplained and was, on the uploader's account, circulated on the ParaNet bulletin board in early 1988. This is roughly eighteen months before Lazar reached KLAS-TV. The item record was opened; the statement's text was not rendered by the fetch and no content from it is asserted.",
 "tier": 1
 },
 {
+"id": "c-13a9f4bc48",
 "source": "Tom Mahood, 'The Robert Lazar Timeline', https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/the-lazar-timeline/ , opened 2026-09-18",
 "text": "Lear and Lazar had met by 1988. Lear was present at the first and third of the three Wednesday-night desert viewings, on 22 March 1989 and 5 April 1989, and Mahood's timeline records that at the first of those 'only Lear saw the elliptical shape through a telescope'. On 5 April 1989 the group, including Lear, was detained by the Lincoln County Sheriff after guards discovered them.",
 "tier": 2
@@ -43,6 +48,7 @@
 "dateEnd": "1989-04-05",
 "dateStart": "1988",
 "direction": "out",
+"edgeId": "e-85b5add0b1",
 "edgeLabel": "Met by 1988; present at two of the three 1989 desert viewings",
 "id": "bob-lazar",
 "l0": false,
@@ -64,6 +70,7 @@
 "dateEnd": "1988",
 "dateStart": "1987-12-29",
 "direction": "out",
+"edgeId": "e-5071112b19",
 "edgeLabel": "His dated 1987 statement reached the field through ParaNet in early 1988",
 "id": "d-media",
 "l0": false,
@@ -85,6 +92,7 @@
 "dateEnd": "1988",
 "dateStart": "1988",
 "direction": "out",
+"edgeId": "e-553a492ddb",
 "edgeLabel": "Developed his Dulce hypothesis in 1988, from 'Ann West'",
 "id": "dulce-base",
 "l0": false,
@@ -106,6 +114,7 @@
 "dateEnd": null,
 "dateStart": "1989",
 "direction": "out",
+"edgeId": "e-fbfa3432a7",
 "edgeLabel": "Carrier of the claim, not an eyewitness to the claimed site",
 "id": "s-4-papoose-lake",
 "l0": false,
@@ -118,7 +127,7 @@
 "url": "https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/the-lazar-timeline/"
 }
 ],
-"tier": "A",
+"tier": "B",
 "type": "witness-chain"
 }
 ],
@@ -176,7 +185,7 @@
 "status": "dead",
 "sub": "Son of the Learjet founder and a documented pilot; from a dated statement of 29 December 1987 one of the field's most prolific claimants; present at two of the three 1989 desert viewings with Lazar",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 839 of 1170, score 20). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 820 of 1138, score 20). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.",
 "timeline": [
 {
 "claimTier": null,

@@ -5,21 +5,25 @@
 "band": null,
 "claims": [
 {
+"id": "c-4efeb1ec9c",
 "source": "Contemporaneous press coverage; GAO/NSIAD-95-187 record search",
 "text": "Roswell Army Air Field issued a press release on 8 July 1947 stating the 509th Bomb Group had come into possession of a flying disc; it was retracted the same day.",
 "tier": 1
 },
 {
+"id": "c-4dc07286b1",
 "source": "GAO/NSIAD-95-187",
 "text": "GAO's 1995 records search found that Roswell AAF outgoing messages for 1946-1949 had been destroyed with no disposition authority.",
 "tier": 1
 },
 {
+"id": "c-83f11537c4",
 "source": "American Alchemy - Jake Barber interview, 30 January 2025",
 "text": "Jake Barber, a former special operations pilot, described participation in UAP retrieval operations in a January 2025 on-camera interview, and gave his account by name.",
 "tier": 2
 },
 {
+"id": "c-609134546a",
 "source": "Inference from documented DoD mishap and foreign materiel exploitation practice",
 "text": "Any sustained retrieval capability would be built on existing mishap-recovery, nuclear-accident response or foreign materiel exploitation units rather than a purpose-built organisation, because those units already hold the required authorities, equipment and cover. Reasoning: creating a new organisation generates exactly the paper trail a concealed programme cannot afford.",
 "tier": 3
@@ -35,6 +39,7 @@
 "dateEnd": null,
 "dateStart": "1947-07-08",
 "direction": "out",
+"edgeId": "e-72773b3fd6",
 "edgeLabel": "Site to container to shelf",
 "id": "d-custody",
 "l0": false,
@@ -56,6 +61,7 @@
 "dateEnd": null,
 "dateStart": "1947-07-08",
 "direction": "in",
+"edgeId": "e-de653955eb",
 "edgeLabel": "Retrieval is the programme's input stage",
 "id": "d-legacy",
 "l0": false,
@@ -68,7 +74,7 @@
 "url": "https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf"
 }
 ],
-"tier": "A",
+"tier": "B",
 "type": "programmatic"
 },
 {
@@ -77,6 +83,7 @@
 "dateEnd": null,
 "dateStart": "1947-07-08",
 "direction": "in",
+"edgeId": "e-55e8c88416",
 "edgeLabel": "The founding case of the retrieval strand",
 "id": "d-roswell",
 "l0": false,
@@ -143,7 +150,7 @@
 ],
 "sub": "Operational domain - the field work of locating, securing and removing downed material",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 280 of 1170, score 40). 3 connections, 2 of them custody/funding/programmatic. Axes C3/A2/D2.",
+"tierRationale": "Re-graded B on a global pass (rank 283 of 1138, score 40). 3 connections, 2 of them custody/funding/programmatic. Axes C3/A2/D2.",
 "timeline": [],
 "unverified": []
 }

@@ -5,21 +5,25 @@
 "band": null,
 "claims": [
 {
+"id": "c-04f04db444",
 "source": "Greensburg Tribune-Review, December 1965",
 "text": "The Greensburg Tribune-Review reported at the time that the landing area was immediately sealed off on the order of US Army and State Police officials in anticipation of a close inspection.",
 "tier": 1
 },
 {
+"id": "c-1c31d7a369",
 "source": "NASA statement, December 2005",
 "text": "NASA stated in December 2005 that experts had examined metallic fragments from the area and determined they were from a Soviet satellite, but that records of their findings were lost in the 1980s.",
 "tier": 1
 },
 {
+"id": "c-8e2dbcf506",
 "source": "NASA Space Science Data Coordinated Archive entry on Cosmos 96",
 "text": "NASA's later published position states that the fireball's atmospheric path was probably too steep to be consistent with a spacecraft re-entering from Earth orbit, that USAF tracking data indicate Cosmos 96's orbit decayed earlier than 21:43 UT on 9 December 1965, and that other analyses definitively indicate it could not have been Cosmos 96.",
 "tier": 1
 },
 {
+"id": "c-3bf9c3b04b",
 "source": "Testimony in Kean v. NASA, reported October 2007",
 "text": "NASA public liaison officer Steve McConnell testified in the Kean litigation that two boxes of papers from the time of the Kecksburg incident were missing.",
 "tier": 2
@@ -35,6 +39,7 @@
 "dateEnd": "2009-08-24",
 "dateStart": "2003-01-31",
 "direction": "in",
+"edgeId": "e-3ef2e1d29b",
 "edgeLabel": "The litigation was about the Kecksburg records specifically",
 "id": "kean-v-nasa",
 "l0": false,
@@ -56,6 +61,7 @@
 "dateEnd": "1965-12-10",
 "dateStart": "1965-12-09",
 "direction": "out",
+"edgeId": "e-ead5a26abe",
 "edgeLabel": "Event and site",
 "id": "l-kecksburg",
 "l0": false,
@@ -77,6 +83,7 @@
 "dateEnd": "1967-10-04",
 "dateStart": "1965-12-09",
 "direction": "in",
+"edgeId": "e-53e74e405a",
 "edgeLabel": "Two documented official responses to undocumented objects, twenty-two months apart",
 "id": "shag-harbour-1967",
 "l0": false,
@@ -98,6 +105,7 @@
 "dateEnd": "2014",
 "dateStart": "1965-12-09",
 "direction": "in",
+"edgeId": "e-26d92b7e0b",
 "edgeLabel": "Principal field investigator of the Kecksburg witness pool",
 "id": "stan-gordon",
 "l0": false,
@@ -158,7 +166,7 @@
 ],
 "sub": "Claimed object recovery, Westmoreland County, Pennsylvania",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 573 of 1170, score 29). 4 connections, 0 of them custody/funding/programmatic. Axes C2/A0/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 568 of 1138, score 29). 4 connections, 0 of them custody/funding/programmatic. Axes C2/A0/D3.",
 "timeline": [
 {
 "claimTier": null,

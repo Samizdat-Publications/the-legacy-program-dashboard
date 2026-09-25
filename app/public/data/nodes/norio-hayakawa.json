@@ -8,16 +8,19 @@
 "chronology": [],
 "claims": [
 {
+"id": "c-2ea824b8be",
 "source": "Norio Hayakawa, 29 August 2016, https://noriohayakawa.wordpress.com/2016/08/29/enigmatic-personalities-behind-the-initial-dulce-underground-base-rumors/comment-page-1/ , opened 2026-09-19",
 "text": "Hayakawa's own stated conclusion about the alleged Dulce facility, on his own site: 'it does not seem to exist'. He has worked the question since 1988.",
 "tier": 2
 },
 {
+"id": "c-238bf61aa6",
 "source": "Norio Hayakawa, 29 August 2016, https://noriohayakawa.wordpress.com/2016/08/29/enigmatic-personalities-behind-the-initial-dulce-underground-base-rumors/comment-page-1/ , opened 2026-09-19",
 "text": "THE DATED CHRONOLOGY OF THE CLUSTER'S ORIGINATORS. Bennewitz from about 1979; Myrna Hansen's 1980 claim, which Bennewitz later connected to Dulce; Tom Adams in the early 1980s through cattle-mutilation work around 1981; John Lear in 1988, who heard of Dulce from 'Ann West'; and Phil Schneider, not part of the initial rumours, emerging only in 1995.",
 "tier": 2
 },
 {
+"id": "c-ec2af16c3f",
 "source": "Norio Hayakawa, 23 April 2021 and 2 April 2024, https://noriohayakawa.wordpress.com/2024/04/02/startling-final-confession-made-in-2015-by-the-enigmatic-tal-levesque-originator-of-the-entire-dulce-base-myth/ , opened 2026-09-19",
 "text": "Hayakawa is the publisher of record, for this board, of Tal Levesque's confession, which he reproduced on 23 April 2021 and again with the verbatim text on 2 April 2024, in both cases attributing it to Adam Gorightly's book.",
 "tier": 2
@@ -33,6 +36,7 @@
 "dateEnd": null,
 "dateStart": "1988",
 "direction": "out",
+"edgeId": "e-8dceeb037c",
 "edgeLabel": "Thirty-eight years on the question, concluding 'it does not seem to exist'",
 "id": "dulce-base",
 "l0": false,
@@ -97,7 +101,7 @@
 "status": "alive",
 "sub": "Researcher who has worked the Dulce question since 1988 and concludes against it; the cluster's most local and longest-running negative",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 1088 of 1170, score 11). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 1057 of 1138, score 11). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.",
 "timeline": [
 {
 "claimTier": null,

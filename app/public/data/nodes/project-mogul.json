@@ -5,21 +5,25 @@
 "band": null,
 "claims": [
 {
+"id": "c-9f4001a928",
 "source": "GAO/NSIAD-95-187, p.5, quoting the USAF report; USAF, 'The Roswell Report: Fact vs. Fiction in the New Mexico Desert' (1995)",
 "text": "The Air Force's 1994-1995 report concluded 'the most likely source of the wreckage recovered was one of the project MOGUL balloon trains.'",
 "tier": 1
 },
 {
+"id": "c-80e07e978d",
 "source": "USAF, 'The Roswell Report: Fact vs. Fiction in the New Mexico Desert' (1995)",
 "text": "MOGUL was a then-classified top-priority programme of balloon-borne experiments, described at length in the Air Force's 881-page 1995 report by Col. Richard Weaver and 1st Lt. James McAndrew.",
 "tier": 1
 },
 {
+"id": "c-d2901ec4c5",
 "source": "AARO, 'Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena', Volume I, February 2024",
 "text": "AARO's 2024 historical report reaffirmed that materials recovered near Roswell 'were consistent with a balloon of the type used in the then-classified Project Mogul'.",
 "tier": 1
 },
 {
+"id": "c-aaad0ad1f7",
 "source": "Inference from GAO/NSIAD-95-187 p.3 read against the 1995 USAF report's methodology",
 "text": "The MOGUL attribution cannot be verified against the base's own message traffic because that traffic was destroyed without disposition authority, so the explanation rests entirely on reconstruction rather than on the contemporaneous record.",
 "tier": 3
@@ -35,9 +39,10 @@
 "dateEnd": null,
 "dateStart": "1995",
 "direction": "out",
+"edgeId": "e-1c8b739b37",
 "edgeLabel": "The MOGUL attribution cannot be tested against destroyed records",
 "id": "gao-nsiad-95-187",
-"l0": false,
+"l0": true,
 "label": "GAO/NSIAD-95-187 - Results of a Search for Records Concerning the 1947 Crash Near Roswell",
 "note": "GAO reported the base's message traffic for the relevant years was destroyed without disposition authority, so the Air Force's reconstruction rests on inference rather than on the contemporaneous record.",
 "sources": [
@@ -56,6 +61,7 @@
 "dateEnd": "1994",
 "dateStart": "1947",
 "direction": "in",
+"edgeId": "e-691c50aacf",
 "edgeLabel": "The AMC commander's 1947 assessment predates and undercuts the MOGUL account",
 "id": "nathan-twining",
 "l0": false,
@@ -82,6 +88,7 @@
 "dateEnd": "1994",
 "dateStart": "1994",
 "direction": "out",
+"edgeId": "e-a11965ecd2",
 "edgeLabel": "Mogul is the Air Force's 1994 identification of the debris",
 "id": "roswell-1947",
 "l0": true,
@@ -103,6 +110,7 @@
 "dateEnd": "1997",
 "dateStart": "1994",
 "direction": "out",
+"edgeId": "e-3174ce39e6",
 "edgeLabel": "MOGUL is the load-bearing element of the official explanation",
 "id": "usaf-roswell-reports",
 "l0": false,
@@ -141,6 +149,7 @@
 "by": null,
 "claimTier": 3,
 "denialKind": "association",
+"edgeId": "e-691c50aacf",
 "label": "The AMC commander's 1947 assessment predates and undercuts the MOGUL account",
 "note": "Twining wrote in September 1947 that the phenomenon was real while noting the lack of recovered exhibits; the Air Force's 1994 position requires that his own command's exploitation centre never connected the wave to a programme it was cleared for.",
 "of": null,
@@ -172,6 +181,7 @@
 },
 "claimTier": 2,
 "denialKind": "directed",
+"edgeId": "e-a11965ecd2",
 "label": "Mogul is the Air Force's 1994 identification of the debris",
 "note": "The 1994 USAF report attributed the debris to Project Mogul Flight No. 4, launched 4 June 1947 from Alamogordo, and acknowledged that the weather balloon account had been a cover story.",
 "of": {
@@ -232,7 +242,7 @@
 ],
 "sub": "Classified acoustic balloon surveillance programme (1947-1949)",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 245 of 1170, score 42). 4 connections, 1 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C2/A3/D0.",
+"tierRationale": "Re-graded B on a global pass (rank 249 of 1138, score 42). 4 connections, 1 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C2/A3/D0.",
 "timeline": [],
 "unverified": []
 }

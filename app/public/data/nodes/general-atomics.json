@@ -5,11 +5,13 @@
 "band": null,
 "claims": [
 {
+"id": "c-2e0b7e0322",
 "source": "USAspending.gov recipient search, retrieved 12 August 2026",
 "text": "USAspending records approximately $41 billion in prime contract obligations across General Atomics entities since FY2008.",
 "tier": 1
 },
 {
+"id": "c-70ca866c4b",
 "source": "Board inference from SEC reporting requirements versus private company status",
 "text": "A privately held prime has no securities-disclosure obligation that would surface holdings or agreements of the kind To The Stars Academy was required to file with the SEC. Reasoning: comparison of the disclosure regimes; no allegation of material custody at General Atomics exists in any public record.",
 "tier": 3
@@ -25,6 +27,7 @@
 "dateEnd": null,
 "dateStart": "2020",
 "direction": "in",
+"edgeId": "e-cc83b60f31",
 "edgeLabel": "Securities disclosure is why the TTSA arrangement is visible and a privately held prime's would not be",
 "id": "ttsa",
 "l0": true,
@@ -85,7 +88,7 @@
 ],
 "sub": "Privately held; fusion research, unmanned aircraft, DOE and DARPA programs",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 923 of 1170, score 18). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D0.",
+"tierRationale": "Re-graded C on a global pass (rank 898 of 1138, score 18). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D0.",
 "timeline": [],
 "unverified": []
 }

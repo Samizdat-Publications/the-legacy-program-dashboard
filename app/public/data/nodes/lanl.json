@@ -2,34 +2,40 @@
 "A": 3,
 "C": 2,
 "D": 1,
-"band": null,
+"band": "custody",
 "claims": [
 {
+"id": "c-c37b3d5597",
 "source": "Los Alamos National Laboratory, 'FOIA requests at the National Security Research Center', 18 November 2024",
 "text": "LANL states that a conference was organised at Los Alamos on 16 February 1949 on the green fireballs, attended by Laboratory Director Norris Bradbury, Frederick Reines and Edward Teller with FBI, AEC and military representatives, and that the National Security Research Center holds the conference minutes.",
 "tier": 1
 },
 {
+"id": "c-5fa415560f",
 "source": "Los Alamos National Laboratory, 18 November 2024",
 "text": "LANL states that its senior archivist receives several FOIA requests every year related to unidentified flying objects and other unexplained aerial phenomena, and that the NSRC does not appear to hold materials on Project Twinkle.",
 "tier": 1
 },
 {
+"id": "c-aef5f581d4",
 "source": "NSF NCSES Master Government List of FFRDCs; CRS Report R44629",
 "text": "LANL is administered by Triad National Security, LLC (new administrator 9 June 2018) and received approximately $3,918.3 million in FY2024.",
 "tier": 1
 },
 {
+"id": "c-a464673463",
 "source": "Newsweek, 10 July 2026; KLAS/Mystery Wire, 13 July 2026",
 "text": "Newly declassified records detailing the 1949 Los Alamos green fireballs conference were released and reported in July 2026.",
 "tier": 2
 },
 {
+"id": "c-3e5d5491b6",
 "source": "New York Post, 25 April 2026; NDTV, 26 April 2026; NewsNation reporting, 24 April 2026",
 "text": "Jeremy Corbell states he received a trove of documents from the son of a deceased former Los Alamos National Laboratory cybersecurity chief, including material said to concern a secret 1991 meeting at the laboratory; these form the basis of the documentary 'Sleeping Dog'.",
 "tier": 2
 },
 {
+"id": "c-cf640bc7fd",
 "source": "Stanton T. Friedman, 'The Bob Lazar Fraud', https://www.theblackvault.com/casefiles/the-bob-lazar-fraud-2/ ; Mark Farmer interview, 25 May 1996, https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/los-alamos-interview/ , both opened 2026-09-18",
 "text": "Bob Lazar's connection to the laboratory must be stated as 'named in a directory', never as 'employed by'. He appears in a 1982 Los Alamos telephone directory whose own text states that it covers Department of Energy employees and the outside contractor Kirk-Mayer; a colleague interviewed on tape in 1996 said Lazar 'was a contractor' under Kirk Mayer; and the laboratory later said it held no records for him. The Los Alamos Monitor of 27 June 1982 described him in the newspaper's own voice as 'a physicist at the Los Alamos Meson Physics Facility', which is what he told the reporter.",
 "tier": 3
@@ -45,6 +51,7 @@
 "dateEnd": null,
 "dateStart": "1982",
 "direction": "in",
+"edgeId": "e-99ff421d34",
 "edgeLabel": "Named in a 1982 laboratory telephone directory, NOT documented as employed by it",
 "id": "bob-lazar",
 "l0": false,
@@ -66,6 +73,7 @@
 "dateEnd": null,
 "dateStart": "1947",
 "direction": "in",
+"edgeId": "e-62e89f2da2",
 "edgeLabel": "DOE/NNSA management and operating contract; Los Alamos",
 "id": "doe",
 "l0": true,
@@ -92,6 +100,7 @@
 "dateEnd": "1985",
 "dateStart": "1979",
 "direction": "in",
+"edgeId": "e-09d5295695",
 "edgeLabel": "Directed Los Alamos before the NRO and ODNI",
 "id": "donald-kerr",
 "l0": false,
@@ -113,6 +122,7 @@
 "dateEnd": null,
 "dateStart": "1949",
 "direction": "in",
+"edgeId": "e-f62c16bd70",
 "edgeLabel": "Held at Los Alamos; LANL's National Security Research Center holds the minutes",
 "id": "green-fireballs-conference-1949",
 "l0": false,
@@ -134,6 +144,7 @@
 "dateEnd": null,
 "dateStart": "2026",
 "direction": "out",
+"edgeId": "e-451a2f225d",
 "edgeLabel": "'Sleeping Dog' document trove said to originate with a deceased LANL cybersecurity chief",
 "id": "jeremy-corbell",
 "l0": false,
@@ -155,6 +166,7 @@
 "dateEnd": null,
 "dateStart": "1982",
 "direction": "in",
+"edgeId": "e-2f66568372",
 "edgeLabel": "Support-services contractor at the laboratory",
 "id": "kirk-mayer",
 "l0": false,
@@ -218,10 +230,41 @@
 },
 "hl": null,
 "id": "lanl",
-"l0": false,
+"l0": true,
 "label": "Los Alamos National Laboratory",
 "locLabel": null,
-"members": null,
+"members": [
+{
+"cls": "person",
+"id": "bob-lazar",
+"label": "Robert \"Bob\" Lazar",
+"tier": "A"
+},
+{
+"cls": "person",
+"id": "donald-kerr",
+"label": "Donald M. Kerr",
+"tier": "B"
+},
+{
+"cls": "event",
+"id": "green-fireballs-conference-1949",
+"label": "Los Alamos Green Fireballs Conference",
+"tier": "B"
+},
+{
+"cls": "person",
+"id": "jeremy-corbell",
+"label": "Jeremy Kenyon Lockyer Corbell",
+"tier": "C"
+},
+{
+"cls": "institution",
+"id": "kirk-mayer",
+"label": "Kirk-Mayer, Inc.",
+"tier": "C"
+}
+],
 "openQuestions": [],
 "short": "Los Alamos National Laboratory",
 "sourceFiles": [
@@ -262,7 +305,7 @@
 ],
 "sub": "DOE FFRDC administered by Triad National Security, LLC since 9 June 2018; Los Alamos, NM",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 252 of 1170, score 42). 6 connections, 1 of them custody/funding/programmatic. Axes C2/A3/D1.",
+"tierRationale": "Re-graded B on a global pass (rank 256 of 1138, score 42). 6 connections, 1 of them custody/funding/programmatic. Axes C2/A3/D1.",
 "timeline": [
 {
 "claimTier": null,

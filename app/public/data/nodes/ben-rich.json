@@ -37,11 +37,13 @@
 ],
 "claims": [
 {
+"id": "c-cae789235f",
 "source": "Ben R. Rich and Leo Janos, 'Skunk Works: A Personal Memoir of My Years at Lockheed' (Little, Brown, 1994)",
 "text": "Rich directed Lockheed's Advanced Development Projects from 1975 to 1991 and published a memoir describing how unacknowledged black programs were compartmented, staffed and funded at Burbank and Palmdale.",
 "tier": 1
 },
 {
+"id": "c-ee2fa82851",
 "source": "Secondhand recollections circulated by attendees of a 1993 UCLA alumni talk; no archival primary source located",
 "text": "Rich is alleged to have stated in 1993 that the means to travel among the stars already exist inside black programs. The board grades this tier 3: the reasoning is that multiple independent attendees have recounted variants of the remark over three decades, but no primary artifact - recording, transcript, or letter - has been produced.",
 "tier": 3
@@ -57,6 +59,7 @@
 "dateEnd": "1995",
 "dateStart": "1993",
 "direction": "out",
+"edgeId": "e-e8881e930c",
 "edgeLabel": "Rich is the most-cited and least-documented source for the Lockheed custody allegation",
 "id": "lockheed-martin",
 "l0": true,
@@ -83,6 +86,7 @@
 "dateEnd": "1991",
 "dateStart": "1975",
 "direction": "out",
+"edgeId": "e-f8077c0748",
 "edgeLabel": "Rich directed Skunk Works through the F-117 era and into the RQ-170 lineage",
 "id": "lockheed-skunk-works",
 "l0": true,
@@ -150,8 +154,8 @@
 ],
 "status": "dead",
 "sub": "Director, Lockheed Advanced Development Projects (Skunk Works), 1975-1991",
-"tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 579 of 1170, score 28). 2 connections, 1 of them custody/funding/programmatic. Axes C2/A3/D1.",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 575 of 1138, score 28). 2 connections, 1 of them custody/funding/programmatic. Axes C2/A3/D1.",
 "timeline": [
 {
 "claimTier": null,

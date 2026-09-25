@@ -5,16 +5,19 @@
 "band": null,
 "claims": [
 {
+"id": "c-6d86820d0f",
 "source": "Scientific Reports, doi:10.1038/s41598-025-21620-3",
 "text": "Bruehl and Villarroel published 'Transients in the Palomar Observatory Sky Survey (POSS-I) may be associated with nuclear testing and reports of unidentified anomalous phenomena' in Scientific Reports on 20 October 2025.",
 "tier": 1
 },
 {
+"id": "c-85ef0c861e",
 "source": "Chemical Geology, doi:10.1016/j.chemgeo.2024.122415",
 "text": "Loeb and colleagues published chemical classification of spherules recovered from the CNEOS 2014-01-08 (IM1) bolide site in Chemical Geology in December 2024.",
 "tier": 1
 },
 {
+"id": "c-95cc311446",
 "source": "Avi Loeb, Medium, June-July 2026; Disclosure Foundation announcement",
 "text": "Avi Loeb published his own account, dated 1 July 2026, of agreeing to lead a UAP Science Advisory Council for the US government, following the Disclosure Foundation's 14 June 2026 announcement of the council.",
 "tier": 2
@@ -30,6 +33,7 @@
 "dateEnd": null,
 "dateStart": "2025-10-20",
 "direction": "out",
+"edgeId": "e-a0b2f4964f",
 "edgeLabel": "Sky-survey transients correlate with nuclear testing",
 "id": "d-nuc",
 "l0": false,
@@ -51,6 +55,7 @@
 "dateEnd": null,
 "dateStart": "2021-01-01",
 "direction": "in",
+"edgeId": "e-dcb4ff5ab5",
 "edgeLabel": "Instrumented search",
 "id": "d-research",
 "l0": false,
@@ -72,6 +77,7 @@
 "dateEnd": null,
 "dateStart": "2025-10-20",
 "direction": "out",
+"edgeId": "e-c3de75045f",
 "edgeLabel": "VASCO archival transient search",
 "id": "l-stockholm",
 "l0": false,
@@ -153,7 +159,7 @@
 ],
 "sub": "Scientific domain - sky surveys, interstellar objects and the search for artifacts",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 730 of 1170, score 24). 3 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 717 of 1138, score 24). 3 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D3.",
 "timeline": [
 {
 "claimTier": 1,

@@ -5,46 +5,55 @@
 "band": null,
 "claims": [
 {
+"id": "c-b94dfb6f81",
 "source": "COMETA report, Conclusions and Recommendations, 1999 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "text": "Conclusion: the studies 'demonstrate the almost certain physical reality of completely unknown flying objects with remarkable flight performances and noiselessness, apparently operated by intelligent [beings].'",
 "tier": 2
 },
 {
+"id": "c-3e76177407",
 "source": "COMETA report, Conclusions and Recommendations, 1999 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "text": "Conclusion: 'Secret craft definitely of earthly origin (drones, stealth aircraft, etc.) can only explain a minority of cases.'",
 "tier": 2
 },
 {
+"id": "c-e46bb89c7f",
 "source": "COMETA report, Conclusions and Recommendations, 1999 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "text": "Conclusion: 'A single hypothesis sufficiently takes into account the facts and, for the most part, only calls for present-day science. It is the hypothesis of extraterrestrial visitors. Advanced as of 1947 by certain U.S. military personnel, today it is discredited by a certain elite, but it is popular worldwide.'",
 "tier": 2
 },
 {
+"id": "c-0a4f4785e1",
 "source": "COMETA report, Conclusions and Recommendations, recommendation 5, 1999 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "text": "Recommendation 5: 'Initiate diplomatic demarches to the United States, with the support of other States and even the European Union, to urge the superpower to collaborate and, if necessary, exert useful pressure to clarify this crucial issue that can only come within the framework of political and strategic alliances.'",
 "tier": 2
 },
 {
+"id": "c-c3ce2a7341",
 "source": "COMETA report, recommendation 2, 1999 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "text": "Recommendation 2: 'Boost SEPRA's human and material resources' to develop investigation and analysis, collect information on all UFO manifestations in Europe and worldwide, maintain databases, and 'boost its representation and foreign relations status'.",
 "tier": 2
 },
 {
+"id": "c-3f4e118742",
 "source": "COMETA report, recommendation 4, 1999 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "text": "Recommendation 4: 'Create a unit at the highest State level to collaborate with SEPRA' tasked with formulating prospective hypotheses, funded with 'an annual budget of a few million francs', and 'participating in the establishment of sectorial cooperation agreements with other countries'.",
 "tier": 2
 },
 {
+"id": "c-410185394c",
 "source": "COMETA report, recommendation 6, 1999 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "text": "Recommendation 6: public authorities should reflect on 'the measures to take in the event of a spectacular and indisputable manifestation of a UFO: overt attempt to make contact, landing before numerous witnesses, other substantial actions'.",
 "tier": 2
 },
 {
+"id": "c-63d0e42150",
 "source": "COMETA report, recommendation 1, 1999 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "text": "Recommendation 1 includes alerting 'special civilian and military departments, as well as the Direction de la Communication de la Defense (DICOD, former central SIRPA), calling their attention to disinformation processes.'",
 "tier": 2
 },
 {
+"id": "c-684d64d54e",
 "source": "Wikipedia, 'COMETA report', citing Robert Roussel, Ovnis 1947-2017: Le choix du déni (2018), p.214",
 "text": "Olivier Schrameck, chief of staff to Prime Minister Lionel Jospin, said Jospin read and annotated the COMETA report 'to mark his interest'; the French government made no official response beyond that.",
 "tier": 2
@@ -60,6 +69,7 @@
 "dateEnd": "1999-07",
 "dateStart": "1999-07",
 "direction": "in",
+"edgeId": "e-09473aa434",
 "edgeLabel": "produced the 1999 report",
 "id": "cometa",
 "l0": true,
@@ -81,6 +91,7 @@
 "dateEnd": "2026-05-08",
 "dateStart": "2026-05-08",
 "direction": "in",
+"edgeId": "e-33d5dfd309",
 "edgeLabel": "the US 2026 release cites COMETA as a source on the Argentine case",
 "id": "ev-argentina-bariloche-1995",
 "l0": false,
@@ -102,6 +113,7 @@
 "dateEnd": null,
 "dateStart": "1999-07",
 "direction": "out",
+"edgeId": "e-e655f31171",
 "edgeLabel": "recommended boosting SEPRA's resources and foreign relations status",
 "id": "sepra",
 "l0": false,
@@ -157,7 +169,7 @@
 ],
 "sub": "90-page report by French retired general officers; delivered to PM Lionel Jospin",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 444 of 1170, score 33). 3 connections, 1 of them custody/funding/programmatic. Axes C0/A1/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 443 of 1138, score 33). 3 connections, 1 of them custody/funding/programmatic. Axes C0/A1/D3.",
 "timeline": [
 {
 "claimTier": 1,

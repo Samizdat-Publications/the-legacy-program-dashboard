@@ -58,61 +58,73 @@
 ],
 "claims": [
 {
+"id": "c-961ee028e3",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237659/",
 "text": "Signed the 24 June 2009 letter to Deputy Secretary of Defense William J. Lynn III, on Senate Majority Leader letterhead, requesting DoD place the AAITP under 'Restricted Special Access Protection'.",
 "tier": 1
 },
 {
+"id": "c-e712955c7c",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237626/",
 "text": "DIA records him as co-sponsor with Senator Daniel Inouye (D-HI) of the language in the July 2008 Supplemental Appropriation bill directing DIA to investigate foreign advanced aerospace weapon threats 'from the present out to 40 years in the future' — a $10 million add.",
 "tier": 1
 },
 {
+"id": "c-816b6b4968",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237614/",
 "text": "DIA Talking Paper: 'Senator Reid has a deep interest in the potential threat posed by unconventional aerospace technologies; that is, technologies that are a radical departure to those used in current advanced aerospace vehicles. He is interested in what technological \"leaps\" are feasible and their implications to US national defense.'",
 "tier": 1
 },
 {
+"id": "c-46e2032646",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237628/",
 "text": "Met DIA leadership on the program at least four documented times: 13 Nov 2008 (with the DIA Director), 5 Jan 2009, mid-May 2009, and 19 Nov 2009 at Senate Visitor Center SVC-217 with the Deputy Secretary of Defense present.",
 "tier": 1
 },
 {
+"id": "c-1470af8c01",
 "source": "https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf",
 "text": "AARO Vol. I attributes the FY2008/FY2010 $22M appropriations to his direction as Senate Majority Leader.",
 "tier": 1
 },
 {
+"id": "c-6ebd6ee9ad",
 "source": "AARO Historical Record Report Volume 1, 8 March 2024, p.22",
 "text": "'At the direction of Senate Majority Leader Harry Reid (D-NV), the Defense Appropriations Acts of Fiscal Years 2008 and 2010 appropriated $22 million for the DIA to assess long-term and over-the-horizon foreign advanced aerospace threats.'",
 "tier": 1
 },
 {
+"id": "c-362c06e9f1",
 "source": "Reid to DEPSECDEF William J. Lynn III, 24 June 2009, DIA FOIA release",
 "text": "Reid requested a 'Restricted Special-Access-Program (SAP) with a Bigoted Access List for specific portions of the AATIP', naming as protectable the methodologies for identifying and engineering advanced technologies and the involvement of private contractors and industry partners.",
 "tier": 1
 },
 {
+"id": "c-c49875f40e",
 "source": "DIA talking paper DR_Reid_Mtg_Nov09, 19 Nov 2009",
 "text": "DIA scheduled a 19 Nov 2009 4:45pm briefing of Reid in SVC-217 to tell him the deliverables 'do not meet the criteria as specified in DoD 5200.1-R to justify the additional protection provided by a SAP.'",
 "tier": 1
 },
 {
+"id": "c-65761a45c6",
 "source": "Harry Reid interview, Vice/KLAS Mystery Wire, 2019-2021",
 "text": "Reid said $22 million was not enough and that if the US government is not studying the subject it is malpractice.",
 "tier": 2
 },
 {
+"id": "c-65bc345d51",
 "source": "Inference from the 24 June 2009 Reid letter read against DIA's 13 Nov 2009 SAP review memo",
 "text": "Reid's insistence on a bigoted access list for 'engineering advanced technologies' and 'involvement of private contractors' indicates he had been told something about reverse-engineering activity that does not appear anywhere in the unclassified DIRD deliverables — the reasoning being that no SAP is needed to protect 38 unclassified academic literature reviews, and DIA said exactly that in refusing him.",
 "tier": 3
 },
 {
+"id": "c-2bad419819",
 "source": "Schumer, quoted in Micah Hanks, The Debrief, 14 July 2023",
 "text": "Schumer: 'I am honored to carry on the legacy of my mentor and dear friend Harry Reid and fight for the transparency that the public has long demanded surrounding these unexplained phenomena.'",
 "tier": 2
 },
 {
+"id": "c-05030f7b1c",
 "source": "P.L. 117-81 approval date, GPO; public record of Reid's death",
 "text": "Reid died on 28 December 2021, one day after the enactment of P.L. 117-81, which created the office at 50 U.S.C. 3373.",
 "tier": 1
@@ -130,6 +142,7 @@
 "dateEnd": "2009",
 "dateStart": "2009",
 "direction": "out",
+"edgeId": "e-f3489369e1",
 "edgeLabel": "24 July 2009 memorandum to DepSecDef Lynn seeking SAP status; denied",
 "id": "aatip",
 "l0": true,
@@ -151,6 +164,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-52d1ba0184",
 "edgeLabel": "co-sponsored FY2008 supplemental $10M add with Sen. Inouye",
 "id": "aawsap",
 "l0": true,
@@ -172,6 +186,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-d7cfbb8b8c",
 "edgeLabel": "",
 "id": "aawsap",
 "l0": true,
@@ -198,6 +213,7 @@
 "dateEnd": "2023",
 "dateStart": "2023",
 "direction": "in",
+"edgeId": "e-5e80435f23",
 "edgeLabel": "Schumer names Reid as the legacy he is continuing",
 "id": "chuck-schumer",
 "l0": false,
@@ -219,6 +235,7 @@
 "dateEnd": "2010",
 "dateStart": "2007",
 "direction": "out",
+"edgeId": "e-1e431e0251",
 "edgeLabel": "directed the $22M appropriation",
 "id": "defense-appropriations-aawsap",
 "l0": false,
@@ -240,6 +257,7 @@
 "dateEnd": "2020",
 "dateStart": "2020",
 "direction": "in",
+"edgeId": "e-6d600853f7",
 "edgeLabel": "Same report carried Reid's statement on retrieved materials",
 "id": "eric-davis",
 "l0": false,
@@ -261,6 +279,7 @@
 "dateEnd": "2007",
 "dateStart": "1996",
 "direction": "in",
+"edgeId": "e-25b225dd20",
 "edgeLabel": "Knapp is credited with the Reid-Bigelow introduction",
 "id": "george-knapp",
 "l0": false,
@@ -282,6 +301,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-6aefd1a019",
 "edgeLabel": "Knapp's Lazar/S-4 reporting opened a private channel to Reid",
 "id": "klas-tv",
 "l0": false,
@@ -308,6 +328,7 @@
 "dateEnd": null,
 "dateStart": "2011",
 "direction": "out",
+"edgeId": "e-044aa806bc",
 "edgeLabel": "Reid and Lieberman asked that the DHS prospective SAP be established with promised funding",
 "id": "kona-blue",
 "l0": true,
@@ -329,10 +350,11 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-99ac06bc11",
 "edgeLabel": "Reid's Nevada base; earmark performed by a Las Vegas constituent",
-"id": "l-lasvegas",
+"id": "l-las-vegas",
 "l0": false,
-"label": "Las Vegas, Nevada (alias of l-las-vegas)",
+"label": "Las Vegas, Nevada",
 "note": "This is not merely a home-town link. AARO's official history names 'Senate Majority Leader Harry Reid (D-NV)' as having directed the appropriation, and the federal award record places Bigelow's company in Nevada; the money Reid secured was performed by a company in the state he represented. Tier 2 because the constituent relationship is the inference joining those two documented facts, not something either document states.",
 "sources": [
 {
@@ -356,7 +378,7 @@
 "url": "https://www.theblackvault.com/casefiles/to-the-stars-academy-of-arts-science-tom-delonge-and-the-secret-dod-ufo-research-program/"
 }
 ],
-"tier": "C",
+"tier": "B",
 "type": "geographic"
 },
 {
@@ -365,6 +387,7 @@
 "dateEnd": "2012",
 "dateStart": "2007",
 "direction": "in",
+"edgeId": "e-ecbb6b27fc",
 "edgeLabel": "Identified Reid as the senator who initiated and funded AATIP",
 "id": "nyt-2017-12-16",
 "l0": true,
@@ -386,6 +409,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-59ab5c1bce",
 "edgeLabel": "Reid is the principal behind the 2008-2009 DIA engagements",
 "id": "reid-dia-meetings-2008-2009",
 "l0": false,
@@ -409,13 +433,36 @@
 {
 "claimTier": 1,
 "cls": "document",
+"dateEnd": "2009",
+"dateStart": "2009",
+"direction": "out",
+"edgeId": "e-762c140395",
+"edgeLabel": "authored the Restricted SAP request",
+"id": "reid-sap-letter-2009",
+"l0": false,
+"label": "Reid Letter to DEPSECDEF Requesting Restricted SAP Status",
+"note": "The Senate Majority Leader asked DoD to compartment a program whose deliverables DoD would three months later describe as unclassifiable basic research.",
+"sources": [
+{
+"date": "2009-06-24",
+"name": "Reid to Lynn, 24 June 2009",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP/20090624_Reid_to_DEPSECDEF_ref_AAITP_in_SAP.pdf"
+}
+],
+"tier": "A",
+"type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "document",
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-ba5ac7f247",
 "edgeLabel": "",
-"id": "reid-letter-2009-06-24",
+"id": "reid-sap-letter-2009",
 "l0": false,
-"label": "Reid letter to DEPSECDEF Lynn requesting restricted SAP for AATIP (24 June 2009)",
+"label": "Reid Letter to DEPSECDEF Requesting Restricted SAP Status",
 "note": "He signed it. The letter of 24 June 2009 to Deputy Secretary William J. Lynn III went on Senate Majority Leader letterhead - 'HARRY REID, MAJORITY LEADER, NEVADA' - and asked the Department to place the programme under a restricted special access programme.",
 "sources": [
 {
@@ -429,7 +476,7 @@
 "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237660/"
 }
 ],
-"tier": "C",
+"tier": "A",
 "type": "programmatic"
 },
 {
@@ -438,10 +485,11 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-3b963a9bed",
 "edgeLabel": "signed 24 June 2009",
-"id": "reid-letter-2009-06-24",
+"id": "reid-sap-letter-2009",
 "l0": false,
-"label": "Reid letter to DEPSECDEF Lynn requesting restricted SAP for AATIP (24 June 2009)",
+"label": "Reid Letter to DEPSECDEF Requesting Restricted SAP Status",
 "note": "",
 "sources": [
 {
@@ -450,29 +498,8 @@
 "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237659/"
 }
 ],
-"tier": "C",
+"tier": "A",
 "type": "research"
-},
-{
-"claimTier": 1,
-"cls": "document",
-"dateEnd": "2009",
-"dateStart": "2009",
-"direction": "out",
-"edgeLabel": "authored the Restricted SAP request",
-"id": "reid-sap-letter-2009",
-"l0": false,
-"label": "Reid Letter to DEPSECDEF Requesting Restricted SAP Status",
-"note": "The Senate Majority Leader asked DoD to compartment a program whose deliverables DoD would three months later describe as unclassifiable basic research.",
-"sources": [
-{
-"date": "2009-06-24",
-"name": "Reid to Lynn, 24 June 2009",
-"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP/20090624_Reid_to_DEPSECDEF_ref_AAITP_in_SAP.pdf"
-}
-],
-"tier": "B",
-"type": "legislative"
 },
 {
 "claimTier": 2,
@@ -480,6 +507,7 @@
 "dateEnd": "2012",
 "dateStart": "2007",
 "direction": "in",
+"edgeId": "e-8a6969f493",
 "edgeLabel": "constituent relationship behind the appropriation",
 "id": "robert-bigelow",
 "l0": false,
@@ -501,6 +529,7 @@
 "dateEnd": null,
 "dateStart": "2008",
 "direction": "out",
+"edgeId": "e-f1e85a373f",
 "edgeLabel": "Set the leadership-discretion precedent the domain still runs on",
 "id": "senate-armed-services",
 "l0": true,
@@ -522,6 +551,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-4355eb219d",
 "edgeLabel": "Senate Majority Leader in 2009 - in the Gang of Eight, not in the 119(e)(2) group",
 "id": "waived-sap-notification-group",
 "l0": true,
@@ -563,6 +593,7 @@
 "dateEnd": "2009",
 "dateStart": "2009",
 "direction": "in",
+"edgeId": "e-cec370253b",
 "edgeLabel": "in-person refusal of the SAP request",
 "id": "william-lynn",
 "l0": false,
@@ -582,7 +613,7 @@
 "date": "2009-06-24",
 "dateEnd": null,
 "dateStart": "2009-06-24",
-"deg": 17,
+"deg": 16,
 "denials": [
 {
 "a": {
@@ -599,6 +630,7 @@
 },
 "claimTier": 1,
 "denialKind": "directed",
+"edgeId": "e-cec370253b",
 "label": "in-person refusal of the SAP request",
 "note": "DIA's talking paper for the 19 November 2009 4:45pm meeting directs that Reid be told the deliverables do not meet DoD 5200.1-R criteria for SAP protection.",
 "of": {
@@ -745,7 +777,7 @@
 "status": "dead",
 "sub": "US Senator (D-NV); Senate Majority Leader 2007-2015",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 33 of 1170, score 92). 19 connections, 6 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D3.",
+"tierRationale": "Re-graded A on a global pass (rank 34 of 1138, score 92). 19 connections, 6 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D3.",
 "timeline": [
 {
 "claimTier": null,

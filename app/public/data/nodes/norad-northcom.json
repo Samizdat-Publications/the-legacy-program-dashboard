@@ -5,16 +5,19 @@
 "band": "oversight",
 "claims": [
 {
+"id": "c-f5c8abeab4",
 "source": "NORAD via The War Zone, 30 October 2024",
 "text": "NORAD recorded more than 600 drone reports above US military installations since 2022.",
 "tier": 2
 },
 {
+"id": "c-f8c2919cd7",
 "source": "The War Zone, 30 October 2024",
 "text": "Guillot established Falcon Peak, a counter-drone demonstration with multiple vendors, and advocates a layered approach including directed energy.",
 "tier": 2
 },
 {
+"id": "c-20e7e3d924",
 "source": "NORAD Newsroom press releases, 2026",
 "text": "NORAD continued issuing intercept press releases through 2026, including multiple temporary flight restriction violation intercepts in the Northeast and over New Jersey.",
 "tier": 1
@@ -30,6 +33,7 @@
 "dateEnd": "2013-12-06",
 "dateStart": "2013-12-06",
 "direction": "in",
+"edgeId": "e-add2c009fa",
 "edgeLabel": "USNORTHCOM withheld two responsive fastwalker documents and refused to search NORAD",
 "id": "defense-support-program",
 "l0": false,
@@ -51,6 +55,7 @@
 "dateEnd": "1975-11-11",
 "dateStart": "1975-11-11",
 "direction": "out",
+"edgeId": "e-909093c02a",
 "edgeLabel": "Originated by the Commander-in-Chief, NORAD",
 "id": "doc-cincnorad-1975-11-11",
 "l0": false,
@@ -72,6 +77,7 @@
 "dateEnd": "1975-11-19",
 "dateStart": "1975-11-07",
 "direction": "out",
+"edgeId": "e-c8394a3a8c",
 "edgeLabel": "Produced by the 24th NORAD Region's own senior directors",
 "id": "doc-norad-24th-log-1975",
 "l0": false,
@@ -93,6 +99,7 @@
 "dateEnd": null,
 "dateStart": "2024",
 "direction": "in",
+"edgeId": "e-cf1225c914",
 "edgeLabel": "Commander, NORAD and USNORTHCOM from February 2024",
 "id": "gregory-guillot",
 "l0": false,
@@ -119,9 +126,10 @@
 "dateEnd": "2024",
 "dateStart": "2023",
 "direction": "in",
+"edgeId": "e-ac66f4821c",
 "edgeLabel": "Centrepiece of Guillot's 90-day counter-UAS assessment",
 "id": "langley-2023-incursions",
-"l0": true,
+"l0": false,
 "label": "Langley AFB Drone Incursions (December 2023)",
 "note": "Guillot testified the Langley incidents dominated his assessment on taking command in February 2024 and were 'the centerpiece' of his review.",
 "sources": [
@@ -145,6 +153,7 @@
 "dateEnd": null,
 "dateStart": "2025-12-10",
 "direction": "in",
+"edgeId": "e-6f55bf24d3",
 "edgeLabel": "demands an intercept history since 2004",
 "id": "ndaa26-uap-provisions",
 "l0": false,
@@ -166,6 +175,7 @@
 "dateEnd": "1975-11-19",
 "dateStart": "1975-10-28",
 "direction": "out",
+"edgeId": "e-6044292251",
 "edgeLabel": "NORAD was the detection and identification authority across the sequence",
 "id": "sac-overflights-1975",
 "l0": true,
@@ -197,6 +207,7 @@
 "dateEnd": "2023",
 "dateStart": "2023",
 "direction": "in",
+"edgeId": "e-5096558a18",
 "edgeLabel": "NORAD-controlled fighters destroyed three unidentified objects in four days",
 "id": "shootdowns-feb-2023",
 "l0": false,
@@ -230,6 +241,7 @@
 "by": null,
 "claimTier": 1,
 "denialKind": null,
+"edgeId": "e-add2c009fa",
 "label": "USNORTHCOM withheld two responsive fastwalker documents and refused to search NORAD",
 "note": "USNORTHCOM located two responsive documents on the fastwalker designation and withheld both, and declined to search NORAD's holdings on the ground that NORAD sits outside FOIA.",
 "of": null,
@@ -312,6 +324,12 @@
 "tier": "C"
 },
 {
+"cls": "event",
+"id": "langley-2023-incursions",
+"label": "Langley AFB Drone Incursions (December 2023)",
+"tier": "B"
+},
+{
 "cls": "legislation",
 "id": "ndaa26-uap-provisions",
 "label": "NDAA FY2026 UAP provisions (Secs. 1671-1673)",
@@ -349,7 +367,7 @@
 ],
 "sub": "Homeland air defence combatant command",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 454 of 1170, score 32). 8 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A3/D2.",
+"tierRationale": "Re-graded B on a global pass (rank 453 of 1138, score 32). 8 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A3/D2.",
 "timeline": [],
 "unverified": []
 }

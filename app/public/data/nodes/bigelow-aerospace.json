@@ -5,41 +5,49 @@
 "band": null,
 "claims": [
 {
+"id": "c-8c3489f89b",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237660/",
 "text": "USD(I) memorandum to DEPSECDEF: 'The sole bid for the contract was from Bigelow Aerospace Advance Space Studies located in Las Vegas, NV.'",
 "tier": 1
 },
 {
+"id": "c-86ea0b00f6",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237626/",
 "text": "DIA Info Memo U-10-2552: 'DIA awarded a contract to the Bigelow Aerospace Advanced Space Studies LLC (BAASS), the only bid, headquartered in North Las Vegas, Nevada.'",
 "tier": 1
 },
 {
+"id": "c-e099c100d6",
 "source": "NASA BEAM program records, 2016",
 "text": "Bigelow Aerospace holds a NASA relationship including the Bigelow Expandable Activity Module attached to the ISS in 2016, establishing it as a genuine aerospace prime rather than a study contractor.",
 "tier": 1
 },
 {
+"id": "c-11c0246d80",
 "source": "DIA contract HHM402-08-C-0072 awardee block",
 "text": "The AAWSAP contract was held by the separately registered Bigelow Aerospace Advanced Space Studies, LLC, not by Bigelow Aerospace itself.",
 "tier": 2
 },
 {
+"id": "c-f0cc4ae5ae",
 "source": "Inference from the distinct DUNS and CAGE codes on the DIA award",
 "text": "Maintaining BAASS as a distinct LLC from the ISS-contracting parent indicates deliberate corporate separation of the intelligence work from the NASA-facing business.",
 "tier": 3
 },
 {
+"id": "c-96aec013a3",
 "source": "AARO, Historical Record Report Volume I, March 2024",
 "text": "AAWSAP/AATIP was 'funded through a special appropriation and executed by its primary contractor, a private sector organization'; the contractor team conducted UAP and paranormal research at a property owned by that organisation.",
 "tier": 1
 },
 {
+"id": "c-2bc2e6d173",
 "source": "George Knapp, sworn testimony, 9 September 2025",
 "text": "BAASS was to receive 'a quantity of unusual material that had been stashed away and protected at a facility in California.'",
 "tier": 2
 },
 {
+"id": "c-ce136132e2",
 "source": "Luis Elizondo, sworn testimony, 13 November 2024",
 "text": "The divestment of 1950s-collected material to Bigelow Aerospace 'was blocked'; a required Secretary of the Air Force memorandum never issued.",
 "tier": 2
@@ -55,6 +63,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-784bec93a2",
 "edgeLabel": "BAASS LLC, North Las Vegas NV",
 "id": "baass",
 "l0": true,
@@ -81,6 +90,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-f690fa7e3c",
 "edgeLabel": "",
 "id": "baass",
 "l0": true,
@@ -107,6 +117,7 @@
 "dateEnd": "2012",
 "dateStart": "2011",
 "direction": "in",
+"edgeId": "e-65b61abccf",
 "edgeLabel": "KONA BLUE was proposed by AAWSAP's contractor team after DIA cancelled the program",
 "id": "kona-blue",
 "l0": true,
@@ -133,6 +144,7 @@
 "dateEnd": "2010",
 "dateStart": "2009",
 "direction": "in",
+"edgeId": "e-48a6e59963",
 "edgeLabel": "Alleged negotiated transfer of non-terrestrial material from a Lockheed California facility to BAASS",
 "id": "lockheed-martin",
 "l0": true,
@@ -159,6 +171,7 @@
 "dateEnd": "2024",
 "dateStart": "2024",
 "direction": "in",
+"edgeId": "e-0588a137af",
 "edgeLabel": "Elizondo identified Bigelow Aerospace as the intended recipient of the divested material",
 "id": "luis-elizondo",
 "l0": false,
@@ -267,7 +280,7 @@
 ],
 "sub": "contractor",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 123 of 1170, score 56). 5 connections, 4 of them custody/funding/programmatic. Axes C3/A2/D1.",
+"tierRationale": "Re-graded A on a global pass (rank 125 of 1138, score 56). 5 connections, 4 of them custody/funding/programmatic. Axes C3/A2/D1.",
 "timeline": [
 {
 "claimTier": null,

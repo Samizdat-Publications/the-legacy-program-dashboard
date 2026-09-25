@@ -5,26 +5,31 @@
 "band": null,
 "claims": [
 {
+"id": "c-4a6ceea41b",
 "source": "Agencia Peruana de Noticias Andina (Editora Perú), 18 October 2013",
 "text": "The office is named Departamento de Investigación de Fenómenos Aéreos Anómalos (DIFAA) and sits under the Dirección de Intereses Aéreos Espaciales (DINAE) of the Fuerza Aérea del Perú. Its reopening and a public reporting channel were announced on 18 October 2013 by the head of DINAE, Coronel FAP Julio Vucetich Abanto, who said the service was acting on an increase in sightings being reported to the media: 'Nos interesa que la población que observa fenómenos aparentemente no convencionales, que le causan extrañeza o preocupación, conozca que existe una institución que hará un adecuado estudio e investigación de su información para darles una respuesta. Esto no ocurría antes.'",
 "tier": 1
 },
 {
+"id": "c-d2894f633a",
 "source": "Agencia Peruana de Noticias Andina (Editora Perú), 18 October 2013",
 "text": "DIFAA had been closed for five years before the 2013 reopening, 'a causa de problemas administrativos'. The reopening was announced at an FAP-organised 'Encuentro sobre Fenómenos Aéreos Anómalos' addressed to the Nazca Lines question, at which the invited archaeologist Manuel Aguirre Morales said there is no evidence linking the Nazca lines to UFOs or extraterrestrial presence.",
 "tier": 1
 },
 {
+"id": "c-e8123b0a47",
 "source": "Agencia Peruana de Noticias Andina (Editora Perú), 18 October 2013",
 "text": "Andina framed the reopening regionally: 'Con la reapertura de la DIFAA, el Perú se coloca a la paridad de países de la región como Chile, Argentina, Uruguay, Brasil y Ecuador.'",
 "tier": 1
 },
 {
+"id": "c-9fe6a3e428",
 "source": "Negative finding of this pass",
 "text": "Not established in this pass: DIFAA's founding legal instrument, its current name and reporting line, its case output, whether it publishes findings, and whether it has ever had contact with any United States body. No US-Peru link was found and none is asserted.",
 "tier": 3
 },
 {
+"id": "c-f8006a652b",
 "source": "BBC Mundo, 5 February 2014, indexed via Google News",
 "text": "BBC Mundo reported on 5 February 2014 under the headline 'Por qué Perú reabrió la oficina de búsqueda de ovnis' that Peru had reopened its official UFO investigation office.",
 "tier": 2
@@ -40,6 +45,7 @@
 "dateEnd": null,
 "dateStart": "2013-10-18",
 "direction": "out",
+"edgeId": "e-5207280985",
 "edgeLabel": "COMPARISON: a military-hosted office against a civil-aviation-hosted one, in the same region",
 "id": "cefaa",
 "l0": true,
@@ -66,6 +72,7 @@
 "dateEnd": "2013-10-18",
 "dateStart": "2013-10-18",
 "direction": "out",
+"edgeId": "e-16b621f8a6",
 "edgeLabel": "COMPARISON: Peru's own state news agency measured DIFAA's reopening against Brazil",
 "id": "fab",
 "l0": true,
@@ -92,6 +99,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-a1e62ba125",
 "edgeLabel": "COMPARISON: the military-host model against the space-agency-host model",
 "id": "geipan",
 "l0": true,
@@ -163,7 +171,7 @@
 ],
 "sub": "Departamento de Investigación de Fenómenos Aéreos Anómalos (DIFAA), Fuerza Aérea del Perú, under the Dirección de Intereses Aéreos Espaciales (DINAE); reopened October 2013",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 797 of 1170, score 22). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 779 of 1138, score 22). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.",
 "timeline": [],
 "unverified": []
 }

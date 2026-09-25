@@ -5,16 +5,19 @@
 "band": null,
 "claims": [
 {
+"id": "c-d7a9480a2f",
 "source": "Memorandum, 'CENTER LANE FY 86 - 90 GDIP Submission (U)', 4 April 1984, CIA-RDP96-00788R001600450002-5, https://archive.org/download/cia-readingroom-document-cia-rdp96-00788r001600450002-5/cia-rdp96-00788r001600450002-5_djvu.txt",
 "text": "The CENTER LANE project office sat inside the group: the 4 April 1984 memorandum is headed 'DEPARTMENT OF THE ARMY / SECURITY SUPPORT DETACHMENT / USAINSCOM, 902D MILITARY INTELLIGENCE GROUP / FORT GEORGE G. MEADE, MARYLAND 20755', office symbol IAGPA-F-SD, and is signed by a lieutenant colonel of Military Intelligence as CENTER LANE Project Manager.",
 "tier": 1
 },
 {
+"id": "c-c471c9f8f0",
 "source": "Programme development requirement package summary page, '902d MI Gp S&IA OPSEC Sppt CENTER LANC Init', CIA-RDP96-00788R001700200002-1, https://archive.org/download/cia-readingroom-document-cia-rdp96-00788r001700200002-1/cia-rdp96-00788r001700200002-1_djvu.txt",
 "text": "A programme development requirement package short titled '902d MI Gp S&IA OPSEC Sppt CENTER LANC Init' proposed to 'Establish a new intelligence program utilizing psychoenergetics (parapsychology) to enhance existing intelligence collection and OPSEC programs, and an organizational infrastructure to manage administrative, training and operational functions for the program.'",
 "tier": 1
 },
 {
+"id": "c-53989f3044",
 "source": "Programme development requirement package summary page, CIA-RDP96-00788R001700200002-1, https://archive.org/download/cia-readingroom-document-cia-rdp96-00788r001700200002-1/cia-rdp96-00788r001700200002-1_djvu.txt",
 "text": "The same package records the customer list for the work: 'From 1978 through 1983 intelligence collection [taskings were] completed for the U.S. Army, DIA, JCS, CIA, NSA, FBI, and the Secret Service', and states that 'INSCOM's efforts in the intelligence application of PE have been on an ad hoc basis since 1977.'",
 "tier": 1
@@ -30,6 +33,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-4f85109602",
 "edgeLabel": "Its Security Support Detachment was the CENTER LANE project office",
 "id": "center-lane",
 "l0": false,
@@ -51,6 +55,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-7bc0fbde72",
 "edgeLabel": "Subordinate group of USAINSCOM at Fort George G. Meade",
 "id": "inscom",
 "l0": true,
@@ -106,7 +111,7 @@
 ],
 "sub": "INSCOM counterintelligence group at Fort Meade; its Security Support Detachment ran CENTER LANE",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 460 of 1170, score 32). 2 connections, 1 of them custody/funding/programmatic. Axes C2/A2/D2.",
+"tierRationale": "Re-graded B on a global pass (rank 458 of 1138, score 32). 2 connections, 1 of them custody/funding/programmatic. Axes C2/A2/D2.",
 "timeline": [],
 "unverified": []
 }

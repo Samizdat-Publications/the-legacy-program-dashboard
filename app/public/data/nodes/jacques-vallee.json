@@ -76,36 +76,43 @@
 ],
 "claims": [
 {
+"id": "c-9a10ecb99d",
 "source": "American Alchemy with Jesse Michels, 'Top Astronomer: I Found 100,000 UFOs Above Earth! (ft. Beatriz Villarroel)', 25 October 2025, 1:16:06 and 1:18:41, https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL1307454785.mp3?updated=1761413167",
 "text": "On American Alchemy with Jesse Michels, 25 October 2025, at 1:16:06 and 1:18:41, Michels said in narration that on 11 July 1961 Vallee, then working on the Paris Observatory's satellite tracking programme, and colleagues observed an object in retrograde orbit, and that his superior at the observatory, named as Paul Mueller, confiscated the tape the next morning and destroyed it. The narration also quotes Vallee from an unspecified later interview saying other observatories made the same observation and that American tracking stations photographed it and could not identify it either. No book, interview or archive is cited on air for either element.",
 "tier": 2
 },
 {
+"id": "c-b65b1471d1",
 "source": "NIDS institutional record; contemporaneous press coverage of NIDS' scientific board",
 "text": "Vallee served on the advisory board of Bigelow's National Institute for Discovery Science from its 1995 founding.",
 "tier": 2
 },
 {
+"id": "c-41f6b4c601",
 "source": "Jacques Vallee, 'Messengers of Deception' (1979) and subsequent published diaries",
 "text": "Vallee documented, from the late 1970s onward, that identifiable human actors were injecting fabricated material into UFO cases - the phenomenon later confirmed in the Bennewitz affair.",
 "tier": 2
 },
 {
+"id": "c-8eac8bc16b",
 "source": "Progress in Aerospace Sciences, DOI 10.1016/j.paerosci.2021.100788",
 "text": "Vallee is second author of the Progress in Aerospace Sciences 128 (2022) 100788 instrumental analysis of the Council Bluffs material.",
 "tier": 1
 },
 {
+"id": "c-8b2d2f7b04",
 "source": "Sol Foundation Policy Briefing No. 3, April 2026, citing contemporaneous newspaper records",
 "text": "The Council Bluffs event of 17 December 1977 was witnessed by five independent groups, photographed by police, and described contemporaneously by the assistant fire chief as a four-by-six-foot mass of molten metal 'running, boiling down the edges of the levee'; press reporting appeared in the Daily Nonpareil on 18 December 1977 and the Des Moines Register on 26 January 1978.",
 "tier": 1
 },
 {
+"id": "c-92b826a92f",
 "source": "Biographical record; reported consistently and not disputed",
 "text": "Vallee served as a consultant to Robert Bigelow's National Institute for Discovery Science and sat on the Bigelow Aerospace scientific advisory board.",
 "tier": 2
 },
 {
+"id": "c-691e28af59",
 "source": "Inference from the sample provenances cited in the published literature",
 "text": "Vallee's collection is the only continuous non-governmental chain of custody for alleged UAP materials spanning 1957 to the present, which is why the peer-reviewed literature is built on civil-provenance samples rather than government-held ones. The government-held material has never entered a published custody chain.",
 "tier": 3
@@ -123,6 +130,7 @@
 "dateEnd": "2024",
 "dateStart": "2024",
 "direction": "in",
+"edgeId": "e-f3d2dd5bb0",
 "edgeLabel": "Relies on Vallee's documented nitinol paper trail",
 "id": "gerb-battelle-investigation",
 "l0": false,
@@ -144,6 +152,7 @@
 "dateEnd": "1976",
 "dateStart": "1971",
 "direction": "out",
+"edgeId": "e-c9b3d8f9c6",
 "edgeLabel": "Both at SRI International in the early 1970s",
 "id": "harold-puthoff",
 "l0": false,
@@ -165,6 +174,7 @@
 "dateEnd": "2004",
 "dateStart": "1995",
 "direction": "out",
+"edgeId": "e-8adaa21ec8",
 "edgeLabel": "Vallee served on the NIDS advisory board",
 "id": "nids",
 "l0": true,
@@ -191,6 +201,7 @@
 "dateEnd": "1988-07",
 "dateStart": "1988-07",
 "direction": "in",
+"edgeId": "e-56585e150b",
 "edgeLabel": "Vallee was shown the Prato military file at First Air Force headquarters in 1988",
 "id": "operacao-prato",
 "l0": true,
@@ -222,6 +233,7 @@
 "dateEnd": null,
 "dateStart": "2022",
 "direction": "out",
+"edgeId": "e-308635d59d",
 "edgeLabel": "Co-author and source of the sample and its case file",
 "id": "paper-nolan-vallee-2022",
 "l0": true,
@@ -248,6 +260,7 @@
 "dateEnd": null,
 "dateStart": "1967",
 "direction": "out",
+"edgeId": "e-c9adcb5430",
 "edgeLabel": "Discovered the memorandum in 1967 among Hynek's papers and named its author 'Pentacle'",
 "id": "pentacle-memorandum",
 "l0": false,
@@ -269,6 +282,7 @@
 "dateEnd": "2010",
 "dateStart": "1996",
 "direction": "out",
+"edgeId": "e-09aef6c2fd",
 "edgeLabel": "NIDS consultant and Bigelow Aerospace scientific advisory board member",
 "id": "robert-bigelow",
 "l0": false,
@@ -290,6 +304,7 @@
 "dateEnd": "2026",
 "dateStart": "2022",
 "direction": "in",
+"edgeId": "e-72e0cba2e6",
 "edgeLabel": "Vallee is Emeritus Advisor",
 "id": "sol-foundation",
 "l0": true,
@@ -311,6 +326,7 @@
 "dateEnd": "1988-07",
 "dateStart": "1988-07",
 "direction": "in",
+"edgeId": "e-8362517ec9",
 "edgeLabel": "Hollanda showed the operation's photographs and trajectory analyses to Vallee",
 "id": "uyrange-hollanda",
 "l0": false,
@@ -333,7 +349,7 @@
 "url": "https://en.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Prato"
 }
 ],
-"tier": "B",
+"tier": "C",
 "type": "witness-chain"
 }
 ],
@@ -417,7 +433,7 @@
 "status": "active",
 "sub": "Computer scientist and venture capitalist; ARPANET engineer; NIDS advisory board; materials-analysis researcher",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 300 of 1170, score 39). 9 connections, 0 of them custody/funding/programmatic. Axes C2/A1/D2.",
+"tierRationale": "Re-graded B on a global pass (rank 302 of 1138, score 39). 9 connections, 0 of them custody/funding/programmatic. Axes C2/A1/D2.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": [

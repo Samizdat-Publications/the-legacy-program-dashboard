@@ -1,0 +1,30 @@
+{
+ "id": "canada",
+ "title": "Canada: Project Magnet and Sky Canada",
+ "kind": "nation",
+ "section": "other-nations",
+ "span": {
+  "from": "1950",
+  "to": "2026"
+ },
+ "focusEra": "0",
+ "anchors": [
+  "project-magnet",
+  "sky-canada-project",
+  "ocsa-canada",
+  "wilbert-smith",
+  "mona-nemer",
+  "lac-ufo-collection",
+  "canada-dot",
+  "project-second-storey",
+  "shag-harbour-1967",
+  "l-ottawa",
+  "robert-sarbacher",
+  "charette-memo-2023"
+ ],
+ "absorbs": [],
+ "essays": [],
+ "status": "draft",
+ "notes": "Wilbert Smith, Project Magnet and the 2023-26 Sky Canada work.",
+ "appendixT": "canada"
+}

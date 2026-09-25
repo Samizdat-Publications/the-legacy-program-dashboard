@@ -5,16 +5,19 @@
 "band": null,
 "claims": [
 {
+"id": "c-9adf323e4b",
 "source": "Stringfield, Status Report VII, acknowledgements",
 "text": "Stringfield acknowledges past funding from the Fund for UFO Research in the acknowledgements to Status Report VII, February 1994.",
 "tier": 1
 },
 {
+"id": "c-6420135655",
 "source": "The Roswell Report: Case Closed (1997), Section 1.4",
 "text": "The Air Force's 1997 report drew the Vern Maltais and Alice Knight statements it analysed from footage used to prepare the Fund for UFO Research video 'Recollections of Roswell Part II'.",
 "tier": 1
 },
 {
+"id": "c-b099679775",
 "source": "Rodeghier and Whiting (1992), cited in the 1997 Air Force report",
 "text": "Fred Whiting of the Fund for UFO Research co-authored 'The Plains of San Agustin Controversy' (1992) with Mark Rodeghier of CUFOS, concluding against the reliability of Gerald Anderson.",
 "tier": 2
@@ -30,6 +33,7 @@
 "dateEnd": "1992",
 "dateStart": "1992",
 "direction": "out",
+"edgeId": "e-69b2c6399e",
 "edgeLabel": "FUFOR co-authored the report against its own first-hand witness",
 "id": "gerald-anderson",
 "l0": false,
@@ -51,6 +55,7 @@
 "dateEnd": "1994-02",
 "dateStart": "1985",
 "direction": "out",
+"edgeId": "e-673a287189",
 "edgeLabel": "FUFOR funded Stringfield's later Status Reports",
 "id": "leonard-stringfield",
 "l0": false,
@@ -106,7 +111,7 @@
 ],
 "sub": "US grant-making body for civilian UFO research, founded 1979",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 961 of 1170, score 17). 2 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 933 of 1138, score 17). 2 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D2.",
 "timeline": [],
 "unverified": []
 }

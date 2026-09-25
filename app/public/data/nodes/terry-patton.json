@@ -16,11 +16,13 @@
 ],
 "claims": [
 {
+"id": "c-e1c06e24ca",
 "source": "https://fasab.gov/about-fasab/board-members/",
 "text": "Terry K. Patton, professor emeritus at Midwestern State University, has chaired FASAB since April 2026; the Board also comprises R. Scott Bell, Eric S. Berman, Robert Dacey, Diane L. Dudley, Billy Morehead and David A. Vaudt.",
 "tier": 1
 },
 {
+"id": "c-81310e3356",
 "source": "https://files.fasab.gov/pdffiles/handbook_sffas_56.pdf",
 "text": "SFFAS 56 paragraph 8(c) permits entities to apply Board Interpretations that allow other modifications to information required by other standards.",
 "tier": 1
@@ -36,6 +38,7 @@
 "dateEnd": null,
 "dateStart": "2026-04",
 "direction": "out",
+"edgeId": "e-a2bd4aa2a7",
 "edgeLabel": "Chairs the Board that owns SFFAS 56 since April 2026",
 "id": "fasab",
 "l0": false,
@@ -97,7 +100,7 @@
 "status": "active",
 "sub": "Chairman, Federal Accounting Standards Advisory Board (since April 2026)",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 1092 of 1170, score 11). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 1061 of 1138, score 11). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.",
 "timeline": [
 {
 "claimTier": null,

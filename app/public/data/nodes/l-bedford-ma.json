@@ -5,6 +5,7 @@
 "band": null,
 "claims": [
 {
+"id": "c-c8990aac82",
 "source": "MITRE corporate materials and news releases",
 "text": "MITRE maintains dual headquarters in Bedford, Massachusetts and McLean, Virginia.",
 "tier": 1
@@ -20,6 +21,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-646d41c731",
 "edgeLabel": "MITRE founding site and original headquarters",
 "id": "mitre-corporation",
 "l0": true,
@@ -85,7 +87,7 @@
 ],
 "sub": "MITRE's Massachusetts headquarters, adjacent to Hanscom AFB",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 1098 of 1170, score 11). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D0.",
+"tierRationale": "Re-graded C on a global pass (rank 1068 of 1138, score 11). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D0.",
 "timeline": [],
 "unverified": []
 }

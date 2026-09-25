@@ -561,6 +561,9 @@
           "url": "https://www.senate.gov/legislative/DatesofSessionsofCongress.htm",
           "date": "2026-08-22"
         }
+      ],
+      "conflicts": [
+        "Two records of this person carry different reference dates: 3 January 2023 on this node, the start of the 118th Congress, when his chairmanship of House Armed Services began, and 22 December 2023 on the collapsed duplicate mike-rogers-al, which is the enactment date of P.L. 118-31. The board keeps 3 January 2023, which this node's own sourced claims about the 118th Congress support."
       ]
     },
     {
@@ -1682,6 +1685,12 @@
           "url": "https://patents.google.com/patent/US3174851A/en",
           "date": "1965-03-23"
         }
+      ]
+    },
+    {
+      "id": "robert-m-wood",
+      "conflicts": [
+        "Two records of this person carry different reference dates, 1 January 2026 on this node and 1 January 1970 on the collapsed duplicate robert-wood. Neither is a biographical date and no record on the board says what either marks; the board keeps 2026-01-01."
       ]
     }
   ],
@@ -2914,6 +2923,60 @@
           "date": "1970-06-01"
         }
       ]
+    },
+    {
+      "id": "aaro-grusch-interview-memo",
+      "cls": "document",
+      "conflicts": [
+        "Two records of this memorandum count AARO's approaches differently. This node's claim says AARO logged nine contacts or contact attempts between 8 June 2023 and 8 January 2024; a claim carried from the collapsed duplicate aaro-grusch-interview-memo-2024 says the memorandum of 8 January 2024 documents at least eight distinct approaches between 8 June 2023 and 19 November 2023. The two windows end on different dates, which may account for the difference. Both cite DoD FOIA 24-F-0266, which has not been re-opened to settle it, so both claims are carried."
+      ]
+    },
+    {
+      "id": "trump-uap-release-directive-2026",
+      "cls": "document",
+      "conflicts": [
+        "Two records date Hegseth's reference to 'that executive order' differently: this node's claim says 25 February 2026 (DefenseScoop, 25 February 2026); a claim carried from the collapsed duplicate trump-truth-social-post-2026-02-20 says 23 February 2026, citing the same DefenseScoop article of 25 February. The post itself is dated 19-20 February 2026 on this node and 20 February 2026 on both collapsed records (trump-truth-social-post-2026-02-20, trump-uap-declass-directive-2026). Neither date has been re-checked against the article; both claims are carried."
+      ]
+    },
+    {
+      "id": "ttsa-army-crada",
+      "cls": "document",
+      "conflicts": [
+        "The records disagree on when the agreement ended. This node's claim, citing the CRADA document as released (The War Zone, 18 October 2019), gives a term to 30 September 2023, and the node is dated to 2023; the collapsed duplicate ttsa-army-crada-2019 described a five-year agreement from October 2019, was dated to 2024, and its carried claim speaks of the agreement running 'its full nominal five-year term'. The released document as cited here gives 30 September 2023; both statements are kept so the disagreement stays visible."
+      ]
+    },
+    {
+      "id": "iaa-fy2024-7343",
+      "cls": "legislation",
+      "conflicts": [
+        "The records disagree on which division of P.L. 118-31 carries section 7343. This node's claims cite it as 'Pub. L. 118-31, div. G, sec. 7343' from the enacted text on govinfo.gov; a claim carried from the collapsed duplicate iaa24-sec7343 says 'P.L. 118-31 Division F'. The enacted text as cited on this node gives Division G; the Division F claim is kept, not rewritten, so the disagreement stays visible."
+      ]
+    },
+    {
+      "id": "task-force-declassification-federal-secrets",
+      "cls": "institution"
+    },
+    {
+      "id": "l-cambridge-ma",
+      "cls": "location",
+      "removeClaims": [
+        {
+          "contains": "l-cambridge-ma and l-cambridge denote the same city",
+          "tier": 3,
+          "why": "bookkeeping: says the two ids should be merged, which phase 4 did (P4-dedupe-decisions L32)"
+        }
+      ]
+    },
+    {
+      "id": "l-lasvegas",
+      "cls": "location",
+      "removeClaims": [
+        {
+          "contains": "l-lasvegas and l-las-vegas denote the same city",
+          "tier": 3,
+          "why": "bookkeeping: says the two ids should be merged, which phase 4 did (P4-dedupe-decisions L36)"
+        }
+      ]
     }
   ],
   "edges": [],
@@ -2930,5 +2993,6 @@
   "_dates_researched_why": "Two dates could not be derived from the board and were researched. Levy takes 2025-06-01, the publication month of the UAPx field-expedition paper in Progress in Aerospace Sciences 156:101099 - the same date her first author Szydagis already carries on this board for the same paper. Powers takes 2026-05-20, the date the OSD Historical Office's Key Officials list of 7 July 2026 gives for his assumption of the acting Comptroller role. Checking it turned up a live contradiction between two Department pages: the comptroller site's leadership page still names Hurst, while war.gov's biography of Powers says Powers. The Historical Office list dates the handover and settles it, and the contradiction is recorded as a claim rather than quietly resolved.",
   "_dird_label_why": "Two distinct DIRDs carried the identical label 'Aneutronic Fusion Propulsion', so the board showed a reader two nodes it could not tell apart. They are genuinely different documents and both were downloaded and their covers read on 22 August 2026: DIA-08-1011-003 at 50 pages, authored by Culbreth, and DIA-08-1011-004 at 37 pages, authored by Teofilo, both dated 1 November 2010. Both cover pages carry the same title, so the ambiguity is in the source documents, not in this board's transcription of them. The document number is appended to each label because that is what actually distinguishes them and it was read directly off the covers. NOT asserted: which of the two the DIA's 9 January 2018 list calls 'Aneutronic Fusion Propulsion II'. Culbreth's own claim on this board says list item 30 carries that title and is credited to him, which would make DIA-08-1011-003 the 'II' despite the lower document number. The list itself could not be retrieved to check - irp.fas.org returns HTTP 202 with an empty body - so the roman numeral is left off both labels rather than guessed onto one.",
   "_thin_sourcing_why": "The thin-sourcing backlog is worked source by source, and a source is not added here unless it was opened. Parnell is done: the Department's own release of 18 March 2026 carries the attribution 'Chief Pentagon Spokesman Sean Parnell', which is the Department attributing the role to him rather than a report of it. The rest stalled on retrieval, not on effort. The natural second source for the congressional figures is the Congressional Directory or a member biography, and congress.gov and bioguide.congress.gov both refuse this session; for the historical committee roles - Raskin as Oversight ranking member in the 118th, Gallagher's select-committee chair - the tool is an archived committee page, and web.archive.org is blocked outright here. What IS reachable is recorded in notes/LINK-HEALTH-2026-08-22.md: govinfo.gov, oversight.house.gov, the committee sites, war.gov and theblackvault.com all answer, so this work is resumable rather than blocked, and the route is written down. One note on phrasing. The first draft of the Parnell claim was demoted by the interested-party rule, because it said the Department 'issues releases under his name' and the attribution vocabulary does not contain 'issues' or 'titled'. The fix was to phrase the claim as the attribution it actually is - the release NAMES him - rather than to widen the rule again to fit one sentence. Widening a check until it accepts your own prose is fitting the test to the answer.",
-  "_dannyjones_2026_09_03_why": "Section C of research/leads/CANDIDATES-2026-09-03-DANNYJONES.md, applied 3 September 2026. Eighteen additive records: five people and thirteen entities. All are additions of claims and sources except wilson-davis-memo, where the decision list calls for a field replacement and the record carries the whole desc with exactly one sentence swapped, the replaced sentence quoted verbatim in _replacement. The four nitinol nodes (uap-gerb, battelle, l-columbus-oh, gerb-battelle-investigation, found by grepping the board for 'nitinol') each gain the same Tier 1 record claim about what the federal literature says; the Bragalia allegation is deliberately NOT removed and is labelled unsupported inside the new claim."
+  "_dannyjones_2026_09_03_why": "Section C of research/leads/CANDIDATES-2026-09-03-DANNYJONES.md, applied 3 September 2026. Eighteen additive records: five people and thirteen entities. All are additions of claims and sources except wilson-davis-memo, where the decision list calls for a field replacement and the record carries the whole desc with exactly one sentence swapped, the replaced sentence quoted verbatim in _replacement. The four nitinol nodes (uap-gerb, battelle, l-columbus-oh, gerb-battelle-investigation, found by grepping the board for 'nitinol') each gain the same Tier 1 record claim about what the federal literature says; the Bragalia allegation is deliberately NOT removed and is labelled unsupported inside the new claim.",
+  "_p4_merges_why": "Redesign phase 4, task 2 (25 September 2026). Where a collapse in research/_removed.json joined two records that disagree, the survivor's `conflicts` states the disagreement and cites both records; neither claim is deleted or rewritten. The House task force survivor takes cls institution, as both of its duplicates had it. Two bookkeeping claims ('these two ids should be merged') are removed from the collapsed records by removeClaims and listed in tools/REMOVED-CLAIMS.json."
 }

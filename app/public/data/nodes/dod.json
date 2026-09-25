@@ -5,21 +5,25 @@
 "band": "retrieval",
 "claims": [
 {
+"id": "c-25a7a6a834",
 "source": "war.gov About page, retrieved 12 August 2026 — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
 "text": "DoD self-reports a budget of $841.4 billion, 3.4 million personnel and 4,800 sites in over 160 countries, with Pete Hegseth as Secretary and Steve Feinberg as Deputy Secretary.",
 "tier": 2
 },
 {
+"id": "c-101192e3a3",
 "source": "Executive Order 14347, 5 September 2025",
 "text": "Executive Order 14347 of 5 September 2025 authorises 'Department of War' and 'Secretary of War' as secondary designations, states that 'Statutory references to the Department of Defense ... shall remain controlling until changed subsequently by the law', and directs a recommendation within 60 days on permanently renaming the Department.",
 "tier": 1
 },
 {
+"id": "c-6cc6374866",
 "source": "10 U.S.C. 119",
 "text": "10 U.S.C. 119 requires the Secretary of Defense to report annually by 1 March on special access programs, but permits a waiver under which the information and the justification for the waiver are provided 'jointly to the chairman and ranking minority member of each of the defense committees' rather than to the full committees.",
 "tier": 1
 },
 {
+"id": "c-d78aae7331",
 "source": "Inference from the text of 10 U.S.C. 119",
 "text": "The waiver provision of 10 U.S.C. 119 is the only lawful mechanism by which a multi-decade DoD program could be concealed from the bulk of the defense committees without a criminal violation; any legacy recovery program that has survived since the 1940s is therefore either a waived unacknowledged SAP, or it is unreported and therefore unlawful. Reasoning: the statute exhausts the lawful options, so the allegation reduces to a binary that Congress can test by demanding the waived-SAP list.",
 "tier": 3
@@ -35,6 +39,7 @@
 "dateEnd": "2026",
 "dateStart": "2026",
 "direction": "in",
+"edgeId": "e-1b869f0a90",
 "edgeLabel": "'No evidence suggests that a USG or private entity has ever captured or exploited UAP-derived materials'",
 "id": "aaro-fy2025-annual-report",
 "l0": true,
@@ -56,6 +61,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-d2d1f1abb5",
 "edgeLabel": "Subsumed under the National Military Establishment in 1947 and the Department of Defense in 1949",
 "id": "afswp",
 "l0": false,
@@ -77,6 +83,7 @@
 "dateEnd": "1957",
 "dateStart": "1957",
 "direction": "in",
+"edgeId": "e-8635d630c3",
 "edgeLabel": "The Army's intelligence staff recorded an interest in his techniques in 1957",
 "id": "andrija-puharich",
 "l0": false,
@@ -98,6 +105,7 @@
 "dateEnd": null,
 "dateStart": "2026",
 "direction": "out",
+"edgeId": "e-922194d802",
 "edgeLabel": "Missed the Task Force deadline for AARO UAP video files, prompting a subpoena threat",
 "id": "anna-paulina-luna",
 "l0": false,
@@ -119,6 +127,7 @@
 "dateEnd": null,
 "dateStart": "1976-07-14",
 "direction": "in",
+"edgeId": "e-c32089064e",
 "edgeLabel": "Placed in the Department of Defense by 10 U.S.C. 176 as a joint entity of the three military departments",
 "id": "armed-forces-institute-of-pathology",
 "l0": false,
@@ -140,6 +149,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-79d192179c",
 "edgeLabel": "Air Force denials of Hangar 18 bodies",
 "id": "aztec-1948",
 "l0": false,
@@ -176,6 +186,7 @@
 "dateEnd": null,
 "dateStart": "2025-12-18",
 "direction": "out",
+"edgeId": "e-a3f5cbdc15",
 "edgeLabel": "The Department is the account holder for every published classified line",
 "id": "classified-programs-line",
 "l0": false,
@@ -197,6 +208,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-21afaec830",
 "edgeLabel": "Air Force, Navy and Army components of one effort, renamed prompt strike in 2012",
 "id": "conventional-prompt-global-strike",
 "l0": false,
@@ -218,6 +230,7 @@
 "dateEnd": null,
 "dateStart": "2025",
 "direction": "in",
+"edgeId": "e-017662ddf4",
 "edgeLabel": "No reply on the record as of 9 September 2025",
 "id": "crane-dod-reprisal-letter",
 "l0": false,
@@ -230,7 +243,7 @@
 "url": "https://www.congress.gov/119/chrg/CHRG-119hhrg61718/CHRG-119hhrg61718.pdf"
 }
 ],
-"tier": "C",
+"tier": "B",
 "type": "denial"
 },
 {
@@ -239,6 +252,7 @@
 "dateEnd": null,
 "dateStart": "2025",
 "direction": "out",
+"edgeId": "e-e64e8b6002",
 "edgeLabel": "Clearance removal, denial of promotion and loss of medical retirement following his disclosure",
 "id": "david-grusch",
 "l0": false,
@@ -260,6 +274,7 @@
 "dateEnd": "2021",
 "dateStart": "2021",
 "direction": "in",
+"edgeId": "e-68c5b48746",
 "edgeLabel": "First protected disclosure to the DoD Inspector General, July 2021",
 "id": "david-grusch",
 "l0": false,
@@ -286,6 +301,7 @@
 "dateEnd": null,
 "dateStart": "1982",
 "direction": "out",
+"edgeId": "e-c72cefbd12",
 "edgeLabel": "Statutory internal oversight body within the Department",
 "id": "dod-oig",
 "l0": false,
@@ -298,7 +314,7 @@
 "url": "https://www.dodig.mil/Reports/Audits-and-Evaluations/Article/3496071/evaluation-of-the-dods-actions-regarding-unidentified-anomalous-phenomena-dodig/"
 }
 ],
-"tier": "C",
+"tier": "B",
 "type": "institutional"
 },
 {
@@ -307,6 +323,7 @@
 "dateEnd": null,
 "dateStart": "1994",
 "direction": "in",
+"edgeId": "e-12bee43241",
 "edgeLabel": "Central SAP management office under the Deputy Secretary of Defense",
 "id": "dod-sapco",
 "l0": true,
@@ -328,6 +345,7 @@
 "dateEnd": null,
 "dateStart": "2024-09-12",
 "direction": "in",
+"edgeId": "e-9d813a968b",
 "edgeLabel": "Current charter of the DoD SAP enterprise",
 "id": "dodd-5205-07-2024",
 "l0": false,
@@ -349,6 +367,7 @@
 "dateEnd": null,
 "dateStart": "2023",
 "direction": "in",
+"edgeId": "e-342cb19cb6",
 "edgeLabel": "The full IG report on DoD's UAP handling remains classified",
 "id": "dodig-2023-109",
 "l0": false,
@@ -375,6 +394,7 @@
 "dateEnd": "2024",
 "dateStart": "2023",
 "direction": "in",
+"edgeId": "e-0e7ddcccfd",
 "edgeLabel": "IG found no comprehensive DoD approach, no response plan, and combatant commanders largely excluded",
 "id": "dodig-2023-109",
 "l0": false,
@@ -396,6 +416,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-83b802c348",
 "edgeLabel": "Established as a DoD combat support agency by DoD Directive 5105.62",
 "id": "dtra",
 "l0": false,
@@ -417,6 +438,7 @@
 "dateEnd": null,
 "dateStart": "2025",
 "direction": "out",
+"edgeId": "e-bef32da7d6",
 "edgeLabel": "Did not answer his 24 July 2025 letter on the reprisal against Grusch",
 "id": "eli-crane",
 "l0": false,
@@ -438,6 +460,7 @@
 "dateEnd": null,
 "dateStart": "2025-09-05",
 "direction": "in",
+"edgeId": "e-4f55dfef84",
 "edgeLabel": "EO 14347 renamed the department by presidential signature",
 "id": "eop",
 "l0": false,
@@ -459,6 +482,7 @@
 "dateEnd": null,
 "dateStart": "2024",
 "direction": "out",
+"edgeId": "e-9a878750ea",
 "edgeLabel": "Blocked from a full AARO briefing in 2024 by House Administration staff; NDAA UAP amendment ruled non-germane by staff in 2025",
 "id": "eric-burlison",
 "l0": false,
@@ -480,6 +504,7 @@
 "dateEnd": "1957-02",
 "dateStart": "1949-06-20",
 "direction": "in",
+"edgeId": "e-b8f0074ef5",
 "edgeLabel": "Secretary of the Army 1949-50; Assistant Secretary of Defense for International Security Affairs 1955-57",
 "id": "gordon-gray",
 "l0": false,
@@ -501,6 +526,7 @@
 "dateEnd": null,
 "dateStart": "1947-07-26",
 "direction": "in",
+"edgeId": "e-c96466a27e",
 "edgeLabel": "Signed the statute that created the National Military Establishment",
 "id": "harry-s-truman",
 "l0": false,
@@ -522,6 +548,7 @@
 "dateEnd": null,
 "dateStart": "2025",
 "direction": "out",
+"edgeId": "e-731b16e397",
 "edgeLabel": "Told committee staff that only HASC and HAC-D members could be read in on UAP special access programs",
 "id": "house-oversight-committee",
 "l0": true,
@@ -548,6 +575,7 @@
 "dateEnd": "2024",
 "dateStart": "2024",
 "direction": "in",
+"edgeId": "e-ea347fcdd0",
 "edgeLabel": "DoD spokesperson Sue Gough: no record of any SAP by that name",
 "id": "immaculate-constellation",
 "l0": true,
@@ -569,6 +597,7 @@
 "dateEnd": null,
 "dateStart": "2024",
 "direction": "out",
+"edgeId": "e-f6c5886944",
 "edgeLabel": "Pentagon says it has no record of the program described in the document entered into the Congressional Record",
 "id": "immaculate-constellation-12-page-report",
 "l0": true,
@@ -590,6 +619,7 @@
 "dateEnd": "1949-03-28",
 "dateStart": "1947-09-17",
 "direction": "in",
+"edgeId": "e-b16a0fe6c7",
 "edgeLabel": "First Secretary of Defense, 17 September 1947 to 28 March 1949",
 "id": "james-v-forrestal",
 "l0": false,
@@ -611,6 +641,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-b2e9a34b93",
 "edgeLabel": "DoD installation; NORAD/USNORTHCOM response",
 "id": "l-langley-afb",
 "l0": false,
@@ -637,6 +668,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-e46d9ab69e",
 "edgeLabel": "site of the DoD unsupported-adjustment study",
 "id": "l-michigan-state",
 "l0": false,
@@ -678,6 +710,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-2d71d57b5b",
 "edgeLabel": "Obama-administration DoD appointee",
 "id": "marik-von-rennenkampff",
 "l0": false,
@@ -705,14 +738,15 @@
 },
 {
 "claimTier": 1,
-"cls": "program",
+"cls": "institution",
 "dateEnd": null,
 "dateStart": "2023",
 "direction": "in",
+"edgeId": "e-801ac9379f",
 "edgeLabel": "No agency-by-agency compliance accounting is published",
-"id": "nara-uap-records-collection",
-"l0": false,
-"label": "National Archives UAP Records Collection (Record Group 615)",
+"id": "nara-uap-collection",
+"l0": true,
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection",
 "note": "NARA publishes no list of which agencies have transferred UAP records, no counts and no transfer dates - only a statement that records will be added on a rolling basis as received.",
 "sources": [
 {
@@ -726,7 +760,7 @@
 "url": "https://www.archives.gov/research/topics/uaps"
 }
 ],
-"tier": "B",
+"tier": "A",
 "type": "denial"
 },
 {
@@ -735,6 +769,7 @@
 "dateEnd": null,
 "dateStart": "1957-10-09",
 "direction": "in",
+"edgeId": "e-53b71680b9",
 "edgeLabel": "Secretary of Defense",
 "id": "neil-h-mcelroy",
 "l0": false,
@@ -756,6 +791,7 @@
 "dateEnd": "2024",
 "dateStart": "2024",
 "direction": "in",
+"edgeId": "e-fa108b6c9c",
 "edgeLabel": "Four-agency joint statement of 17 December 2024",
 "id": "nj-drone-incursions-2024",
 "l0": false,
@@ -777,6 +813,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-687c1e776b",
 "edgeLabel": "Addressed to the Secretary of Defense, signed by the Chairman of the Joint Chiefs",
 "id": "operation-northwoods",
 "l0": true,
@@ -798,6 +835,7 @@
 "dateEnd": null,
 "dateStart": "1988",
 "direction": "out",
+"edgeId": "e-26bf8f15af",
 "edgeLabel": "10 U.S.C. 119 annual SAP report to the four defense committees",
 "id": "oversight-congress",
 "l0": true,
@@ -819,6 +857,7 @@
 "dateEnd": null,
 "dateStart": "1993-05-25",
 "direction": "in",
+"edgeId": "e-e1df8cc34e",
 "edgeLabel": "Issued under ASD(C3I) authority and binding on every DoD component",
 "id": "prp-nuclear-weapon",
 "l0": false,
@@ -840,6 +879,7 @@
 "dateEnd": "2026",
 "dateStart": "2026",
 "direction": "in",
+"edgeId": "e-c34cbffa9d",
 "edgeLabel": "Release volume without release quality",
 "id": "pursue-releases",
 "l0": true,
@@ -861,6 +901,7 @@
 "dateEnd": "2026",
 "dateStart": "2026",
 "direction": "in",
+"edgeId": "e-818e510ead",
 "edgeLabel": "Run by the Department of War with ODNI support",
 "id": "pursue-releases",
 "l0": true,
@@ -882,6 +923,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-11d10924b7",
 "edgeLabel": "24 June 2009 Reid SAP request refused by the Deputy Secretary",
 "id": "reid-dia-meetings-2008-2009",
 "l0": false,
@@ -913,6 +955,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-c2aa522a6a",
 "edgeLabel": "Air Force SAP Central Office subordinate to DoD SAPCO approval authority",
 "id": "saf-aaz",
 "l0": false,
@@ -944,6 +987,7 @@
 "dateEnd": "1990",
 "dateStart": "1980-01",
 "direction": "in",
+"edgeId": "e-f2dc92bdf1",
 "edgeLabel": "opposite reporting posture: mandated versus stigmatised",
 "id": "setka-program",
 "l0": true,
@@ -975,6 +1019,7 @@
 "dateEnd": null,
 "dateStart": "2016-08",
 "direction": "out",
+"edgeId": "e-3313b072bf",
 "edgeLabel": "DoD identified the need for the standard in August 2016",
 "id": "sffas-56",
 "l0": false,
@@ -996,6 +1041,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-f754cfafd2",
 "edgeLabel": "Deputy Secretary of Defense",
 "id": "steve-feinberg",
 "l0": false,
@@ -1032,6 +1078,7 @@
 "dateEnd": null,
 "dateStart": "2023",
 "direction": "out",
+"edgeId": "e-44433b7e5b",
 "edgeLabel": "Denied members SCIF access to Grusch before the founding hearing",
 "id": "tim-burchett",
 "l0": false,
@@ -1053,6 +1100,7 @@
 "dateEnd": null,
 "dateStart": "2025-09-09",
 "direction": "in",
+"edgeId": "e-a86e9ebd7b",
 "edgeLabel": "Committee finding of non-cooperation by DoD and the IC",
 "id": "us-house",
 "l0": true,
@@ -1074,6 +1122,7 @@
 "dateEnd": null,
 "dateStart": "1987-12-04",
 "direction": "in",
+"edgeId": "e-5bbffee70d",
 "edgeLabel": "Imposes the entire SAP reporting duty on the Secretary of Defense",
 "id": "usc-10-119",
 "l0": true,
@@ -1095,6 +1144,7 @@
 "dateEnd": "2004",
 "dateStart": "2004",
 "direction": "in",
+"edgeId": "e-abc842e73c",
 "edgeLabel": "Federal records destroyed at the point of creation",
 "id": "uss-reagan-2004",
 "l0": false,
@@ -1116,6 +1166,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-2763c6397d",
 "edgeLabel": "Vanderbilt UAP statistician invited to a Pentagon-sponsored expert meeting",
 "id": "vanderbilt-university",
 "l0": false,
@@ -1152,6 +1203,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-919ea9c6a2",
 "edgeLabel": "Secretary of Defense is the notifying authority under 119(e)",
 "id": "waived-sap-notification-group",
 "l0": true,
@@ -1193,6 +1245,7 @@
 },
 "claimTier": 1,
 "denialKind": "directed",
+"edgeId": "e-1b869f0a90",
 "label": "'No evidence suggests that a USG or private entity has ever captured or exploited UAP-derived materials'",
 "note": "A categorical negative issued by the office whose access to waived and unacknowledged programs has never been established. Recorded as a denial artefact with its author and date.",
 "of": {
@@ -1222,6 +1275,7 @@
 },
 "claimTier": 2,
 "denialKind": "directed",
+"edgeId": "e-79d192179c",
 "label": "Air Force denials of Hangar 18 bodies",
 "note": "Robert Spencer Carr's 1974 public claim that bodies recovered near Aztec were held at 'Hangar 18' at Wright-Patterson AFB drew official Air Force denials. The FBI separately disowned the Guy Hottel memo, the one federal document ever cited as corroboration, in a published 2013 statement.",
 "of": {
@@ -1266,6 +1320,7 @@
 },
 "claimTier": 1,
 "denialKind": "directed",
+"edgeId": "e-017662ddf4",
 "label": "No reply on the record as of 9 September 2025",
 "note": "A sitting member formally notified the Department that a whistleblower lost his clearance, promotion and medical retirement for a protected disclosure. Crane stated he was still waiting for a reply; Chairwoman Luna committed to follow up. Non-response is itself an artifact.",
 "of": {
@@ -1295,6 +1350,7 @@
 },
 "claimTier": 2,
 "denialKind": "directed",
+"edgeId": "e-922194d802",
 "label": "Missed the Task Force deadline for AARO UAP video files, prompting a subpoena threat",
 "note": "Luna wrote Hegseth on 1 April 2026; the Department did not produce; she publicly raised a subpoena in mid-April 2026.",
 "of": {
@@ -1324,6 +1380,7 @@
 },
 "claimTier": 2,
 "denialKind": "directed",
+"edgeId": "e-e64e8b6002",
 "label": "Clearance removal, denial of promotion and loss of medical retirement following his disclosure",
 "note": "Enumerated by Rep. Crane on the hearing record and in his letter to the Secretary of Defense.",
 "of": {
@@ -1353,6 +1410,7 @@
 },
 "claimTier": 1,
 "denialKind": "directed",
+"edgeId": "e-bef32da7d6",
 "label": "Did not answer his 24 July 2025 letter on the reprisal against Grusch",
 "note": "Crane stated on the record on 9 September 2025 that he was still waiting for a reply six weeks later.",
 "of": {
@@ -1379,6 +1437,7 @@
 "by": null,
 "claimTier": 1,
 "denialKind": "undirected",
+"edgeId": "e-9a878750ea",
 "label": "Blocked from a full AARO briefing in 2024 by House Administration staff; NDAA UAP amendment ruled non-germane by staff in 2025",
 "note": "Burlison put both on the record at the 9 September 2025 hearing: 'not an elected official, but someone in staff blocked us. And I have had it.'",
 "of": null,
@@ -1405,6 +1464,7 @@
 },
 "claimTier": 1,
 "denialKind": "directed",
+"edgeId": "e-731b16e397",
 "label": "Told committee staff that only HASC and HAC-D members could be read in on UAP special access programs",
 "note": "Luna's 9 Sept 2025 opening statement is the primary record of the read-in gate.",
 "of": {
@@ -1439,6 +1499,7 @@
 },
 "claimTier": 2,
 "denialKind": "directed",
+"edgeId": "e-f6c5886944",
 "label": "Pentagon says it has no record of the program described in the document entered into the Congressional Record",
 "note": "Pentagon spokesperson Sue Gough stated DoD has 'no record' of such a program; Kirkpatrick also denied it. The document remains in the Record.",
 "of": {
@@ -1468,6 +1529,7 @@
 },
 "claimTier": 1,
 "denialKind": "directed",
+"edgeId": "e-44433b7e5b",
 "label": "Denied members SCIF access to Grusch before the founding hearing",
 "note": "Burchett's opening statement: members 'were even denied access to a classified briefing in a SCIF prior to this hearing due to the amount of hoops that we had to jump through to grant temporary clearance to witness Grusch.'",
 "of": {
@@ -1497,6 +1559,7 @@
 },
 "claimTier": 1,
 "denialKind": "directed",
+"edgeId": "e-342cb19cb6",
 "label": "The full IG report on DoD's UAP handling remains classified",
 "note": "The public has only an unclassified summary; the IG's own account of where the stovepipes sit has not been released, including through PURSUE.",
 "of": {
@@ -1531,6 +1594,7 @@
 },
 "claimTier": 1,
 "denialKind": "directed",
+"edgeId": "e-ea347fcdd0",
 "label": "DoD spokesperson Sue Gough: no record of any SAP by that name",
 "note": "'The DOD has no record, present or historical, of any type of SAP called IMMACULATE CONSTELLATION.' Recorded as a denial artefact: a categorical statement about records, issued by a press office, about a program alleged to be unacknowledged.",
 "of": {
@@ -1547,8 +1611,8 @@
 },
 {
 "a": {
-"id": "nara-uap-records-collection",
-"label": "National Archives UAP Records Collection (Record Group 615)"
+"id": "nara-uap-collection",
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection"
 },
 "b": {
 "id": "dod",
@@ -1557,6 +1621,7 @@
 "by": null,
 "claimTier": 1,
 "denialKind": "undirected",
+"edgeId": "e-801ac9379f",
 "label": "No agency-by-agency compliance accounting is published",
 "note": "NARA publishes no list of which agencies have transferred UAP records, no counts and no transfer dates - only a statement that records will be added on a rolling basis as received.",
 "of": null,
@@ -1588,6 +1653,7 @@
 },
 "claimTier": 1,
 "denialKind": "directed",
+"edgeId": "e-fa108b6c9c",
 "label": "Four-agency joint statement of 17 December 2024",
 "note": "DoD, DHS, FBI and FAA: 'We have not identified anything anomalous, and do not assess the activity to date to present a national security or public safety risk.' The same statement conceded limited sightings over restricted military airspace, contradicting earlier White House denials.",
 "of": {
@@ -1614,6 +1680,7 @@
 "by": null,
 "claimTier": 2,
 "denialKind": "undirected",
+"edgeId": "e-c34cbffa9d",
 "label": "Release volume without release quality",
 "note": "The Scientific Coalition for UAP Studies found Release #1 stripped 'critical metadata, such as time, date, location, range, altitude, speed,' recycled roughly 70 percent of the FBI files from the existing FOIA Vault, contained no material from DOE, DIA, NRO, NSA or CIA, and left a 1974-2015 gap.",
 "of": null,
@@ -1640,6 +1707,7 @@
 },
 "claimTier": 1,
 "denialKind": "directed",
+"edgeId": "e-a86e9ebd7b",
 "label": "Committee finding of non-cooperation by DoD and the IC",
 "note": "Chairwoman Luna: 'A major barrier to this Committee's inquiry into UAPs has been the lack of cooperation and transparency from the Department of Defense and the intelligence community.'",
 "of": {
@@ -1666,6 +1734,7 @@
 "by": null,
 "claimTier": 2,
 "denialKind": "undirected",
+"edgeId": "e-abc842e73c",
 "label": "Federal records destroyed at the point of creation",
 "note": "A Boatswain's Mate of the Watch says he was ordered to 'rip it out' of the logbook; another witness says he watched an officer order subordinates to remove pages. No Navy accounting of this has ever been made.",
 "of": null,
@@ -1831,7 +1900,7 @@
 "cls": "document",
 "id": "crane-dod-reprisal-letter",
 "label": "Rep. Eli Crane letter to the Secretary of Defense re: Major David Charles Grusch reprisal",
-"tier": "C"
+"tier": "B"
 },
 {
 "cls": "person",
@@ -1843,7 +1912,7 @@
 "cls": "institution",
 "id": "dod-oig",
 "label": "Department of Defense Office of Inspector General",
-"tier": "C"
+"tier": "B"
 },
 {
 "cls": "document",
@@ -1916,12 +1985,6 @@
 "id": "marik-von-rennenkampff",
 "label": "Marik von Rennenkampff",
 "tier": "C"
-},
-{
-"cls": "program",
-"id": "nara-uap-records-collection",
-"label": "National Archives UAP Records Collection (Record Group 615)",
-"tier": "B"
 },
 {
 "cls": "person",
@@ -2029,7 +2092,7 @@
 ],
 "sub": "Executive department; owner of the SAP enterprise and of every alleged recovery compartment",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 14 of 1170, score 115). 48 connections, 1 of them custody/funding/programmatic, 17 official denials recorded against it. Axes C3/A3/D1.",
+"tierRationale": "Re-graded A on a global pass (rank 16 of 1138, score 115). 48 connections, 1 of them custody/funding/programmatic, 17 official denials recorded against it. Axes C3/A3/D1.",
 "timeline": [],
 "unverified": []
 }

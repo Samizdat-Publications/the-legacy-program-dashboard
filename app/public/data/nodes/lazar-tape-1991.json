@@ -5,16 +5,19 @@
 "band": null,
 "claims": [
 {
+"id": "c-76d8b567d5",
 "source": "Internet Archive item 'antigravity', https://archive.org/details/antigravity , opened 2026-09-18",
 "text": "The artefact: 'The Lazar tape and excerpts from the Government Bible', creator Gene Huff and Bob Lazar, publisher Tri-Dot Productions, 1991, forty minutes, 449.6 MB, uploaded to the Internet Archive by 'NewAge2001' on 6 April 2007 and marked public domain. The Archive item offers video formats only and carries no transcript or text layer.",
 "tier": 1
 },
 {
+"id": "c-75bfff1b37",
 "source": "YouTube video kc10m6HFbDE, captions retrieved via the TubeAlfred connector, 2026-09-18 — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "text": "Its English auto-generated captions were retrieved in full on 18 September 2026 through the YouTube mirror at video identifier kc10m6HFbDE: 1,046 caption segments running to 38:39, which matches the forty-minute runtime given by the Internet Archive item.",
 "tier": 2
 },
 {
+"id": "c-6bde1fef66",
 "source": "The Lazar Tape, Tri-Dot Productions, 1991, captions via YouTube video kc10m6HFbDE, https://archive.org/details/antigravity , opened 2026-09-18",
 "text": "It is the anchor for the following claims elsewhere on this board, each with a timestamp: the S-4 siting and employment dates at 1:54 to 2:22; payment 'by the United States Navy' at 2:19; the bussing from Groom at 27:16; the nine hangar doors at 28:01; the badge description at 28:13; the blue-folder briefings at 31:50; the nine discs at 24:24; the gravity A and gravity B distinction at 9:54 to 11:07; the identification of gravity A with the strong nuclear force at 10:43; the claim that the field extends past the perimeter of the atom at 14:14; the element 115 reactor and antimatter account at 18:42 to 23:22; the 223 grams and 1740 degrees Celsius figures at 23:31; the machining into triangles at 25:34; and the Edward Teller anecdote at 35:48 to 36:32.",
 "tier": 2
@@ -30,6 +33,7 @@
 "dateEnd": null,
 "dateStart": "1991",
 "direction": "in",
+"edgeId": "e-32b75b5cc9",
 "edgeLabel": "Co-author and narrator of the 1991 videotape",
 "id": "bob-lazar",
 "l0": false,
@@ -51,6 +55,7 @@
 "dateEnd": null,
 "dateStart": "1991",
 "direction": "in",
+"edgeId": "e-dc67514555",
 "edgeLabel": "The tape is the artefact in which the element 115 claim is fixed in datable form",
 "id": "element-115-claim",
 "l0": false,
@@ -72,6 +77,7 @@
 "dateEnd": null,
 "dateStart": "1991",
 "direction": "in",
+"edgeId": "e-e024977f25",
 "edgeLabel": "Writer and co-producer of the 1991 videotape for Tri-Dot Productions",
 "id": "gene-huff",
 "l0": false,
@@ -93,6 +99,7 @@
 "dateEnd": null,
 "dateStart": "1991",
 "direction": "out",
+"edgeId": "e-493dba580e",
 "edgeLabel": "The dated, opened, complete statement of the claim in the claimant's own voice",
 "id": "s-4-papoose-lake",
 "l0": false,
@@ -105,7 +112,7 @@
 "url": "https://archive.org/details/antigravity"
 }
 ],
-"tier": "A",
+"tier": "B",
 "type": "witness-chain"
 }
 ],
@@ -143,7 +150,7 @@
 ],
 "sub": "Forty-minute videotape written and produced by Gene Huff with Bob Lazar for Tri-Dot Productions, in which Lazar narrates the S-4, element 115 and gravity-wave account in his own words",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 919 of 1170, score 18). 4 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 894 of 1138, score 18). 4 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D2.",
 "timeline": [
 {
 "claimTier": null,

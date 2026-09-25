@@ -14,6 +14,7 @@
 "dateEnd": null,
 "dateStart": "2004-11-14",
 "direction": "in",
+"edgeId": "e-a50e2ce471",
 "edgeLabel": "Homeport of the Nimitz strike group",
 "id": "d-aviators",
 "l0": false,
@@ -75,7 +76,7 @@
 ],
 "sub": "City in southern California; largest US Navy fleet concentration on the west coast",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 1072 of 1170, score 12). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 1041 of 1138, score 12). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D2.",
 "timeline": [],
 "unverified": []
 }

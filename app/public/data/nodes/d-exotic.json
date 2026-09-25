@@ -5,31 +5,37 @@
 "band": null,
 "claims": [
 {
+"id": "c-5bfcd43634",
 "source": "research/leads/verified-propulsion-2026-09-19.md, strand table, built over documents opened 2026-09-19",
 "text": "THE DOMAIN'S ORGANISING FINDING AFTER THE PROPULSION STRAND OF 19 SEPTEMBER 2026, and it is a stated inference over documents rather than a claim about physics. For each propulsion mechanism the literature invokes, a document is named; when the document is opened it says less than is claimed for it, and usually something else entirely. Brown's two patents contain the word 'gravity' zero times. Alcubierre's 1994 paper contains the word 'device' zero times and states in its own abstract that exotic matter will be needed. King's 1967 patent contains 'scalar' zero times and has no assignee and no government interest. DIA's own antigravity survey does not mention Brown. THE STRAND RECORDS THE GAP BETWEEN CITATIONS AND DOCUMENTS AND TAKES NO POSITION ON WHETHER EXOTIC PROPULSION IS POSSIBLE.",
 "tier": 3
 },
 {
+"id": "c-099ebf3b69",
 "source": "NASA/TM-2004-213082, Marc G. Millis, 'Prospects for Breakthrough Propulsion from Physics', NASA Glenn Research Center, 19 pages, https://ntrs.nasa.gov/api/citations/20040070788/downloads/20040070788.pdf , opened 2026-09-19",
 "text": "The domain's best single published adjudication, and it is openable by anyone: NASA/TM-2004-213082, by the manager of NASA's Breakthrough Propulsion Physics Project, which rules on Biefeld-Brown and its variants in section 3.2.7, on metric engineering in section 3.3.1, and on high frequency gravitational waves in section 3.3.2.",
 "tier": 1
 },
 {
+"id": "c-d5135cc003",
 "source": "DIA FOIA Electronic Reading Room, AAWSAP/AATIP collection",
 "text": "DIA commissioned thirty-eight Defense Intelligence Reference Documents under AAWSAP, subsequently released under FOIA.",
 "tier": 1
 },
 {
+"id": "c-a82a5255cf",
 "source": "DIRD 15, DIA release via The Black Vault",
 "text": "DIRD 15 is 'Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering'.",
 "tier": 1
 },
 {
+"id": "c-d5288e36b8",
 "source": "DIRD 18 / DIA-08-1004-004",
 "text": "DIRD DIA-08-1004-004, 'Traversable Wormholes, Stargates, and Negative Energy', was authored by Eric W. Davis of EarthTech International and dated 6 April 2010.",
 "tier": 1
 },
 {
+"id": "c-90f26a63bf",
 "source": "DIRD 19, DIA release via The Black Vault",
 "text": "DIRD 19 is 'Antigravity for Aerospace Applications'.",
 "tier": 1
@@ -45,6 +51,7 @@
 "dateEnd": "1994",
 "dateStart": "1994",
 "direction": "in",
+"edgeId": "e-23b888d776",
 "edgeLabel": "The origin document of the field's metric-engineering claims",
 "id": "alcubierre-1994",
 "l0": false,
@@ -66,6 +73,7 @@
 "dateEnd": "2010-12-31",
 "dateStart": "2008-08-22",
 "direction": "in",
+"edgeId": "e-fdd5e298e1",
 "edgeLabel": "Tasking reveals expectation",
 "id": "d-program",
 "l0": false,
@@ -87,6 +95,7 @@
 "dateEnd": null,
 "dateStart": "2010-01-01",
 "direction": "out",
+"edgeId": "e-e51342ce2c",
 "edgeLabel": "Field physics is the propulsion answer",
 "id": "d-prop",
 "l0": false,
@@ -108,6 +117,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-4ae4877705",
 "edgeLabel": "subject domain: zero-point/vacuum energy extraction",
 "id": "dird-concepts-for-extracting-energy-from-the",
 "l0": false,
@@ -139,6 +149,7 @@
 "dateEnd": null,
 "dateStart": "1974",
 "direction": "in",
+"edgeId": "e-4541926bd7",
 "edgeLabel": "Registered engineer consulting on exotic materials, energy and propulsion; author of 'Mindbending: The Hutchison Files'",
 "id": "george-hathaway",
 "l0": false,
@@ -165,6 +176,7 @@
 "dateEnd": "1967-05-30",
 "dateStart": "1967-05-30",
 "direction": "in",
+"edgeId": "e-99452bcd03",
 "edgeLabel": "In the strand because of what was claimed for it, not because of what is in it",
 "id": "king-patent-mhd",
 "l0": false,
@@ -186,6 +198,7 @@
 "dateEnd": "2004",
 "dateStart": "2004",
 "direction": "in",
+"edgeId": "e-c0690fe47e",
 "edgeLabel": "The domain's best single published adjudication",
 "id": "millis-tm-2004-213082",
 "l0": true,
@@ -257,7 +270,7 @@
 ],
 "sub": "Technical domain - the physics that would be required, and who was paid to study it",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 292 of 1170, score 40). 7 connections, 1 of them custody/funding/programmatic. Axes C1/A2/D2.",
+"tierRationale": "Re-graded B on a global pass (rank 294 of 1138, score 40). 7 connections, 1 of them custody/funding/programmatic. Axes C1/A2/D2.",
 "timeline": [
 {
 "claimTier": 1,

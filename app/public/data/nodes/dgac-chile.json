@@ -5,26 +5,31 @@
 "band": null,
 "claims": [
 {
+"id": "c-0f8eb3587f",
 "source": "SEFAA - Historia, DGAC Chile",
 "text": "The DGAC established CEFAA (Comité de Estudios de Fenómenos Aéreos Anómalos) on 3 October 1997.",
 "tier": 1
 },
 {
+"id": "c-01b246e281",
 "source": "SEFAA - Historia, DGAC Chile",
 "text": "On 18 October 2021, by Resolución Exenta N° 04/3/0113/1385, CEFAA was reorganised as SEFAA (Sección de Estudios de Fenómenos Aéreos Anómalos) and placed under the Communications Subdepartment of the DGAC.",
 "tier": 1
 },
 {
+"id": "c-568e6af2e4",
 "source": "SEFAA - Historia, DGAC Chile",
 "text": "SEFAA investigates reports using declared scientific method with emphasis on audiovisual evidence, accepts public case submissions through an official reporting system, and maintains a public database of resolved cases organised by year.",
 "tier": 1
 },
 {
+"id": "c-876ebc1153",
 "source": "Inference",
 "text": "Chile's twenty-nine-year run of an open civil-aviation UAP office, publishing analyses and releasing military-origin footage, shifts the burden of proof onto the party claiming that public handling of UAP data would cause unacceptable harm. Reasoning: the predicted harms did not materialise in a state with comparable air-sovereignty concerns.",
 "tier": 3
 },
 {
+"id": "c-673f64d5eb",
 "source": "Board bookkeeping",
 "text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
 "tier": 3
@@ -40,6 +45,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-f9d2786974",
 "edgeLabel": "created and housed by the DGAC",
 "id": "cefaa",
 "l0": true,
@@ -71,6 +77,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-06a6b43e7f",
 "edgeLabel": "Chile's civil-aviation UAP unit used as a model and proposed partner",
 "id": "ocsa-canada",
 "l0": false,
@@ -137,7 +144,7 @@
 ],
 "sub": "Foreign government agency",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 1050 of 1170, score 13). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D0.",
+"tierRationale": "Re-graded C on a global pass (rank 1020 of 1138, score 13). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D0.",
 "timeline": [],
 "unverified": []
 }

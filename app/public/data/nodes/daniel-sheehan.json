@@ -35,41 +35,49 @@
 ],
 "claims": [
 {
+"id": "c-042e400d03",
 "source": "Daniel Sheehan, quoted in Micah Hanks, The Debrief, 27 November 2023",
 "text": "Sheehan states Turner 'first attacked those two elements' — eminent domain and the Review Board's subpoena power — saying in effect 'we want the eminent domain provision out of here, and we want the subpoena power out.'",
 "tier": 2
 },
 {
+"id": "c-9824917ad7",
 "source": "Inference from Sheehan's account compared with P.L. 118-31 Subtitle C",
 "text": "Sheehan's account is the only named-source explanation for why the enacted subtitle lacks precisely the two provisions with reach into contractor-held material, and it is consistent with the text; treat it as the working hypothesis pending release of conference records.",
 "tier": 3
 },
 {
+"id": "c-dd6aabf23d",
 "source": "ABC News, 'Group Calls for Disclosure of UFO Info', 9 May 2001, 2:35 PM, https://abcnews.com/Technology/story?id=98572&page=1 , opened 2026-09-19 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "text": "He is one of only five people whom an opened source places at the podium of the 9 May 2001 National Press Club press conference. ABC News, reporting the same day, names him as the Washington lawyer serving as counsel to the Disclosure Project.",
 "tier": 2
 },
 {
+"id": "c-02fb486473",
 "source": "ABC News, 'Group Calls for Disclosure of UFO Info', 9 May 2001, 2:35 PM, https://abcnews.com/Technology/story?id=98572&page=1 , opened 2026-09-19",
 "text": "ABC News reports his account, given at that event, of being shown UFO photographs bearing 'alien writing symbols' in the National Archives during the Carter administration, which he traced onto a legal pad. TIER 2: this is a named person on the record describing his own action, with no document produced.",
 "tier": 2
 },
 {
+"id": "c-6fc2a258e8",
 "source": "Philip J. Klass, Skeptics UFO Newsletter (SUN) #68, Summer 2001, 'Dr. Greer's Disclosure Conference Reveals His New Strategy'; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2022/09/26195512/SUN-68-Summer-2001.pdf , opened 2026-09-19",
 "text": "Klass records his function for the Project: he 'serves as counsel for Project Disclosure to defend any witnesses who might be charged with violating their security oaths', and that he claims to have examined photographs of crashed craft in 1977 which were not classified.",
 "tier": 2
 },
 {
+"id": "c-4f49829876",
 "source": "Wikipedia, 'Daniel Sheehan (attorney)', retrieved 12 August 2026 — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "text": "Sheehan served as counsel to John E. Mack and to Steven Greer's Disclosure Project, and represents Luis Elizondo in a case against the Department of Defense.",
 "tier": 2
 },
 {
+"id": "c-f60b3daebb",
 "source": "Wikipedia, 'Daniel Sheehan (attorney)'; US District Court, Southern District of Florida — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "text": "In Avirgan v. Hull, Judge James Lawrence King dismissed the suit on 23 June 1988 and ordered the Christic Institute to pay $955,000 in attorney's fees and $79,500 in costs under Rule 11.",
 "tier": 2
 },
 {
+"id": "c-8bd39315ba",
 "source": "New Paradigm Institute website, retrieved 12 August 2026 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "text": "The New Paradigm Institute is running a public campaign urging the Senate to pass the UAP Disclosure Act following House passage of its version, and a 'UAP Transparency Pledge' for candidates.",
 "tier": 2
@@ -87,6 +95,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-c82e6a1f2d",
 "edgeLabel": "Named the programme as the destination of reverse-engineered propulsion; the CRS report contradicts it",
 "id": "conventional-prompt-global-strike",
 "l0": false,
@@ -108,6 +117,7 @@
 "dateEnd": "2026",
 "dateStart": "2023",
 "direction": "out",
+"edgeId": "e-8805529b60",
 "edgeLabel": "Represents Elizondo in litigation against DoD",
 "id": "luis-elizondo",
 "l0": false,
@@ -129,6 +139,7 @@
 "dateEnd": "2023",
 "dateStart": "2023",
 "direction": "out",
+"edgeId": "e-cc1325dd5d",
 "edgeLabel": "Named-source account of what Turner demanded in conference",
 "id": "mike-turner",
 "l0": false,
@@ -150,6 +161,7 @@
 "dateEnd": "2001-05-09",
 "dateStart": "2001-05-09",
 "direction": "out",
+"edgeId": "e-ce4ab35e03",
 "edgeLabel": "Counsel to the Project, at the podium on 9 May 2001",
 "id": "national-press-club-2001",
 "l0": true,
@@ -176,6 +188,7 @@
 "dateEnd": "2026",
 "dateStart": "2022",
 "direction": "out",
+"edgeId": "e-46550f7c77",
 "edgeLabel": "Founder and principal",
 "id": "new-paradigm-institute",
 "l0": false,
@@ -197,6 +210,7 @@
 "dateEnd": "2010",
 "dateStart": "1993",
 "direction": "out",
+"edgeId": "e-4da965e79d",
 "edgeLabel": "Sheehan served as counsel to Greer's Disclosure Project",
 "id": "steven-greer",
 "l0": false,
@@ -279,7 +293,7 @@
 "status": "active",
 "sub": "Constitutional attorney; lobbied the FY2024 NDAA conference",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 479 of 1170, score 31). 6 connections, 0 of them custody/funding/programmatic. Axes C1/A0/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 477 of 1138, score 31). 6 connections, 0 of them custody/funding/programmatic. Axes C1/A0/D3.",
 "timeline": [
 {
 "claimTier": null,

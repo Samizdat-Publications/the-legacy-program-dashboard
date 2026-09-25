@@ -5,21 +5,25 @@
 "band": null,
 "claims": [
 {
+"id": "c-0158753005",
 "source": "P.L. 118-31, NDAA for Fiscal Year 2024, Subtitle C",
 "text": "NDAA FY2024 (P.L. 118-31), Subtitle C, Sections 1841-1843 establish the UAP Records Collection at NARA, the agency duty to review and transmit records, and the grounds for postponement of disclosure.",
 "tier": 1
 },
 {
+"id": "c-3521aa2e4a",
 "source": "H.R. 2670 as passed by the Senate, Division I",
 "text": "The Senate-passed version of the FY2024 NDAA contained Division I, the 'Unidentified Anomalous Phenomena Disclosure Act of 2023' (Sections 9001-9010), including a Review Board and eminent domain over recovered technologies of unknown origin.",
 "tier": 1
 },
 {
+"id": "c-6f95ce7b6e",
 "source": "P.L. 102-526, 106 Stat. 3443",
 "text": "The President John F. Kennedy Assassination Records Collection Act of 1992 is the statutory template: a presumption of immediate disclosure, a defined collection at NARA, and an independent Review Board empowered to override agency withholding.",
 "tier": 1
 },
 {
+"id": "c-1f01fa942c",
 "source": "GAO/NSIAD-95-187",
 "text": "GAO reported in 1995 that Roswell AAF outgoing messages for 1946-1949 had been destroyed with no disposition authority and no destruction certificate.",
 "tier": 1
@@ -35,6 +39,7 @@
 "dateEnd": null,
 "dateStart": "1947-01-01",
 "direction": "in",
+"edgeId": "e-001786d34d",
 "edgeLabel": "Record destruction as concealment",
 "id": "d-coverup",
 "l0": false,
@@ -56,6 +61,7 @@
 "dateEnd": null,
 "dateStart": "1967-07-04",
 "direction": "out",
+"edgeId": "e-73a2a3e2cf",
 "edgeLabel": "Statutory collection versus request-by-request extraction",
 "id": "d-foia",
 "l0": false,
@@ -77,6 +83,7 @@
 "dateEnd": null,
 "dateStart": "1948-01-22",
 "direction": "in",
+"edgeId": "e-98cb27a26b",
 "edgeLabel": "The corpus is what survives the records fight",
 "id": "d-history",
 "l0": false,
@@ -103,6 +110,7 @@
 "dateEnd": null,
 "dateStart": "2023-12-22",
 "direction": "in",
+"edgeId": "e-b6403d1997",
 "edgeLabel": "Records law as the oversight instrument that worked",
 "id": "d-oversight",
 "l0": false,
@@ -124,6 +132,7 @@
 "dateEnd": "1977-07",
 "dateStart": "1973-01",
 "direction": "in",
+"edgeId": "e-004efa6509",
 "edgeLabel": "Records destroyed January 1973; a misfiled finance set survived",
 "id": "mkultra",
 "l0": true,
@@ -145,6 +154,7 @@
 "dateEnd": null,
 "dateStart": "1973-01",
 "direction": "in",
+"edgeId": "e-190fca4c68",
 "edgeLabel": "Ordered the destruction of the MKULTRA files, January 1973",
 "id": "sidney-gottlieb",
 "l0": false,
@@ -215,7 +225,7 @@
 ],
 "sub": "Legal-procedural domain - the statutory fight over custody, transfer and destruction of the paper",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 295 of 1170, score 40). 6 connections, 3 of them custody/funding/programmatic. Axes C1/A1/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 297 of 1138, score 40). 6 connections, 3 of them custody/funding/programmatic. Axes C1/A1/D3.",
 "timeline": [
 {
 "claimTier": 2,

@@ -32,16 +32,19 @@
 ],
 "claims": [
 {
+"id": "c-2c22744119",
 "source": "John Burroughs, public statements and interviews, 2013-2015",
 "text": "Burroughs states that his USAF medical records covering the December 1980-January 1981 period were not produced when he requested them for a VA claim.",
 "tier": 2
 },
 {
+"id": "c-aae83832cd",
 "source": "John Burroughs and counsel, public statements 2015; reiterated in 40th-anniversary coverage",
 "text": "Burroughs was granted service-connected VA disability benefits in 2015 following congressional inquiries on his behalf.",
 "tier": 2
 },
 {
+"id": "c-d6c2526db3",
 "source": "John Burroughs, quoted in Rendlesham witness-statement analysis",
 "text": "Burroughs said of the 26 December sighting that they 'followed it for about 2 miles before we could see it was coming from a lighthouse' - a statement that cuts against the landed-craft account and demonstrates he has not tailored his testimony.",
 "tier": 2
@@ -59,6 +62,7 @@
 "dateEnd": "2015",
 "dateStart": "2013",
 "direction": "out",
+"edgeId": "e-5dbd78ac8d",
 "edgeLabel": "Service medical records for the incident window could not be produced",
 "id": "l-raf-woodbridge",
 "l0": false,
@@ -85,6 +89,7 @@
 "dateEnd": "1980",
 "dateStart": "1980",
 "direction": "out",
+"edgeId": "e-17bb4393bb",
 "edgeLabel": "First responder, 26 December 1980",
 "id": "rendlesham-1980",
 "l0": true,
@@ -157,8 +162,8 @@
 ],
 "status": "active",
 "sub": "USAF Airman 1st Class, 81st Security Police Squadron; Rendlesham witness; VA benefits claimant",
-"tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 578 of 1170, score 28). 2 connections, 1 of them custody/funding/programmatic. Axes C2/A1/D3.",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 574 of 1138, score 28). 2 connections, 1 of them custody/funding/programmatic. Axes C2/A1/D3.",
 "timeline": [],
 "unexplainedResidual": "No released document explains the absence of the December 1980-January 1981 medical records.",
 "unverified": [

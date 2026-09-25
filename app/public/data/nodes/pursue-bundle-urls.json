@@ -5,16 +5,19 @@
 "band": null,
 "claims": [
 {
+"id": "c-0c018a6d22",
 "source": "https://www.war.gov/UFO/ — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
 "text": "Release 03's document bundle is 826MB and its video bundle 4.6GB, per the war.gov/UFO portal listing.",
 "tier": 2
 },
 {
+"id": "c-bc37d20f65",
 "source": "https://www.war.gov/UFO/ — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
 "text": "PURSUE video bundles are served from a CloudFront distribution (d34w7g4gy10iej.cloudfront.net), not from war.gov or aaro.mil.",
 "tier": 2
 },
 {
+"id": "c-eb0c6e1a12",
 "source": "https://www.war.gov/UFO/",
 "text": "The war.gov/UFO portal publishes no file counts for any release; every per-tranche count in circulation is a third-party inventory. Reasoning: direct inspection of the portal on 12 August 2026 shows only date, document bundle size and video bundle size per release.",
 "tier": 3
@@ -30,6 +33,7 @@
 "dateEnd": "2026-08-07",
 "dateStart": "2026-05-08",
 "direction": "in",
+"edgeId": "e-6f531eb64f",
 "edgeLabel": "physical release locations",
 "id": "pursue-releases",
 "l0": true,
@@ -86,7 +90,7 @@
 ],
 "sub": "The actual download locations; documents on war.gov, video on CloudFront",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 1005 of 1170, score 15). 1 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 975 of 1138, score 15). 1 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D3.",
 "timeline": [],
 "unverified": []
 }

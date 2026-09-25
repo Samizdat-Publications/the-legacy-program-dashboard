@@ -5,36 +5,43 @@
 "band": "retrieval",
 "claims": [
 {
+"id": "c-a3b77d59e9",
 "source": "Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt , opened 2026-09-19",
 "text": "Larry Warren's claimed connection to it is printed at section 3.8.4 of the Disclosure Project Briefing Document under 'Testimony of Security Officer Larry Warren, United States Air Force / September 2000', in which he states he was assigned to the 81st Tactical Fighter Wing at Bentwaters and that his PRP clearance was approved on 11 December 1980.",
 "tier": 1
 },
 {
+"id": "c-c6d95391bb",
 "source": "Cosimo, Inc., publisher's announcement, 'Announcement: Left at East Gate', http://cosimoblog.blogspot.com/2017/10/announcement-left-at-east-gate.html , opened 2026-09-19 — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "text": "THAT CLAIM IS DISPUTED IN THE PUBLISHED LITERATURE BY HIS OWN CO-AUTHOR AND HIS OWN PUBLISHER. Peter Robbins published a repudiation on 13 June 2017 alleging fabricated and altered documents, and Cosimo, Inc. announced on 17 October 2017 that it was 'suspending the distribution of the book, Left at East Gate, by Larry Warren and Peter Robbins' because 'some of the experiences described in this book may be inaccurate or embellished'.",
 "tier": 2
 },
 {
+"id": "c-2a308907d7",
 "source": "Philip J. Klass, Skeptics UFO Newsletter (SUN) #68, Summer 2001, 'Dr. Greer's Disclosure Conference Reveals His New Strategy'; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2022/09/26195512/SUN-68-Summer-2001.pdf , opened 2026-09-19",
 "text": "A SECOND AND SEPARATE CLAIM ON THIS EVENT COMES FROM CLIFFORD STONE, AND IT FAILS ON AN ACT OF HIS OWN. Stone told the Disclosure Project that an Army team took him to Bentwaters in late December 1980. Klass records that on 23 December 1983 Stone filed a FOIA request with the USAF for information on the same incident, 'used his home address and did not show that he was an Army sergeant'. Klass also notes the incident 'was not reported to higher officials until roughly two weeks after Stone says his team arrived'.",
 "tier": 2
 },
 {
+"id": "c-f7872eb603",
 "source": "Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt , opened 2026-09-19",
 "text": "STATED INFERENCE ABOUT A SOURCE. The Briefing Document's editorial header asserts that Warren's testimony is corroborated by Nick Pope, Lord Hill-Norton and Clifford Stone. Two of those three are witnesses inside the same document and one of them is Stone. The corroboration offered for this event by that source is internal to it.",
 "tier": 3
 },
 {
+"id": "c-243fc2ca5f",
 "source": "Halt memorandum, 'Unexplained Lights,' 13 Jan 81",
 "text": "Halt's memorandum records that on the day after the first sighting 'three depressions 1 1/2\" deep and 7\" in diameter were found where the object had been sighted on the ground' and that 'Beta/Gamma readings of 0.1 milliroentgens were recorded with peak reading in the three depressions and near the center of the triangle formed by the depressions.'",
 "tier": 1
 },
 {
+"id": "c-35dcb7286a",
 "source": "The Black Vault provenance statement on the Halt memo release",
 "text": "The memo was released by the Office of the Assistant Secretary of Defense, Freedom of Information and Security Review Office, under FOIA case 97-F-1677 in September 1997, having been released to other researchers earlier.",
 "tier": 1
 },
 {
+"id": "c-36a772fac0",
 "source": "BBC News, 'Rendlesham Forest UFO: Are we any closer to the truth 40 years on?', 26 Dec 2020; David Clarke, 40th-anniversary account with the MoD desk officer, 26 Dec 2020",
 "text": "Forty years on, the incident's American witnesses have maintained their accounts publicly while the UK Ministry of Defence's original assessment of 'no defence significance' has been shown to have been reached without interviewing them.",
 "tier": 2
@@ -50,6 +57,7 @@
 "dateEnd": "2024",
 "dateStart": "2024",
 "direction": "out",
+"edgeId": "e-c5b666ce91",
 "edgeLabel": "AARO's 2024 historical review does not mention Rendlesham",
 "id": "aaro-historical-record-vol1",
 "l0": true,
@@ -76,6 +84,7 @@
 "dateEnd": "1980",
 "dateStart": "1980",
 "direction": "in",
+"edgeId": "e-a17e777efa",
 "edgeLabel": "Halt personally led the 28 December 1980 forest patrol",
 "id": "charles-halt",
 "l0": false,
@@ -97,6 +106,7 @@
 "dateEnd": "1980-12",
 "dateStart": "1980-12",
 "direction": "in",
+"edgeId": "e-4f035d3416",
 "edgeLabel": "Claims an Army team took him there in late December 1980",
 "id": "clifford-stone",
 "l0": false,
@@ -123,6 +133,7 @@
 "dateEnd": "1981",
 "dateStart": "1981",
 "direction": "in",
+"edgeId": "e-a59a07bb03",
 "edgeLabel": "The memo is the primary official record of the incident",
 "id": "halt-memo",
 "l0": false,
@@ -149,6 +160,7 @@
 "dateEnd": "1980",
 "dateStart": "1980",
 "direction": "in",
+"edgeId": "e-2febb4fdd5",
 "edgeLabel": "First responder, 26 December 1980",
 "id": "jim-penniston",
 "l0": false,
@@ -175,6 +187,7 @@
 "dateEnd": "1980",
 "dateStart": "1980",
 "direction": "in",
+"edgeId": "e-17bb4393bb",
 "edgeLabel": "First responder, 26 December 1980",
 "id": "john-burroughs",
 "l0": false,
@@ -192,7 +205,7 @@
 "url": "https://drdavidclarke.co.uk/2020/12/26/rendlesham-ufos-40th-anniversary-the-man-from-the-ministry-speaks-for-the-first-time/"
 }
 ],
-"tier": "B",
+"tier": "C",
 "type": "witness-chain"
 },
 {
@@ -201,6 +214,7 @@
 "dateEnd": "1981",
 "dateStart": "1980",
 "direction": "out",
+"edgeId": "e-b3eb8c7b08",
 "edgeLabel": "Incident occurred at and around a USAF-operated nuclear-capable NATO base",
 "id": "l-raf-woodbridge",
 "l0": false,
@@ -227,6 +241,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-61cd7d9b46",
 "edgeLabel": "incident location: Rendlesham Forest, Suffolk",
 "id": "l-uk",
 "l0": false,
@@ -258,6 +273,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-0304d8386b",
 "edgeLabel": "MoD UFO desk held and released the Rendlesham file",
 "id": "l-uk-mod-whitehall",
 "l0": false,
@@ -289,6 +305,7 @@
 "dateEnd": "1980-12",
 "dateStart": "1980-12",
 "direction": "in",
+"edgeId": "e-3c29956f3c",
 "edgeLabel": "Claims presence at the December 1980 events; contested",
 "id": "larry-warren",
 "l0": false,
@@ -320,6 +337,7 @@
 "dateEnd": "2017-06-13",
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-bea8e112d4",
 "edgeLabel": "Co-author of a book-length treatment of the event, later repudiated by him",
 "id": "peter-robbins",
 "l0": false,
@@ -346,6 +364,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-53d8efbf33",
 "edgeLabel": "Sheffield Hallam academic curated the MoD file release containing Rendlesham",
 "id": "sheffield-hallam",
 "l0": false,
@@ -402,6 +421,7 @@
 },
 "claimTier": 1,
 "denialKind": "directed",
+"edgeId": "e-c5b666ce91",
 "label": "AARO's 2024 historical review does not mention Rendlesham",
 "note": "A congressionally directed review of the historical record omits the best-documented physical-trace incident at a NATO nuclear-capable base, for which the Pentagon's own FOIA office has released the commander's memorandum.",
 "of": {
@@ -564,7 +584,7 @@
 "cls": "person",
 "id": "john-burroughs",
 "label": "John Burroughs",
-"tier": "B"
+"tier": "C"
 },
 {
 "cls": "location",
@@ -648,7 +668,7 @@
 ],
 "sub": "26-28 December 1980; USAF-occupied NATO base, Suffolk, England",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 155 of 1170, score 52). 12 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A1/D3.",
+"tierRationale": "Re-graded A on a global pass (rank 158 of 1138, score 52). 12 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A1/D3.",
 "timeline": [
 {
 "claimTier": null,

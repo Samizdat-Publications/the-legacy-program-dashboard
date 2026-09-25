@@ -1,0 +1,30 @@
+{
+ "id": "sap-states",
+ "title": "Special access programmes: acknowledged, unacknowledged and waived",
+ "kind": "mechanism",
+ "section": "secrecy-machinery",
+ "span": {
+  "from": "1987",
+  "to": "2024"
+ },
+ "focusEra": "2",
+ "anchors": [
+  "waived-usap",
+  "accm",
+  "dodd-5205-07-2010",
+  "dodd-5205-07-2024",
+  "dodm-5205-07-v1",
+  "dodm-5205-07-series",
+  "cfr-32-117"
+ ],
+ "absorbs": [
+  "d-sap",
+  "sap-taxonomy",
+  "sap-cover-mechanisms",
+  "d-program"
+ ],
+ "essays": [],
+ "status": "draft",
+ "notes": "The three states of a special access programme and the DoD directives that define them; the core of the SAP-law community, split from reporting and governance because each answers a different question.",
+ "appendixT": "sap-states"
+}

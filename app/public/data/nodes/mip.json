@@ -5,16 +5,19 @@
 "band": null,
 "claims": [
 {
+"id": "c-34afe03eee",
 "source": "https://irp.fas.org/budget/index.html",
 "text": "Published MIP appropriated toplines: FY2007 $20.0bn, FY2008 $22.9bn, FY2009 $26.4bn, FY2010 $27.0bn, FY2011 $24.0bn, FY2012 $21.5bn, FY2013 $19.2bn, FY2014 $17.4bn, FY2015 $16.5bn, FY2016 $17.7bn, FY2017 $18.4bn, FY2018 $22.1bn, FY2019 $21.5bn, FY2020 $23.1bn, FY2021 $23.3bn, FY2022 $24.1bn, FY2023 $27.9bn, FY2024 $29.8bn, FY2025 $27.8bn; the FY2026 request was $33.6bn.",
 "tier": 1
 },
 {
+"id": "c-ee20849a83",
 "source": "https://irp.fas.org/budget/index.html",
 "text": "MIP figures were first disclosed publicly alongside NIP totals for FY2010; the Department publishes only an aggregate topline and states that other MIP budget details remain classified.",
 "tier": 1
 },
 {
+"id": "c-db67d7eeb5",
 "source": "https://www.odni.gov/index.php/what-we-do/ic-budget",
 "text": "The NIP/MIP division creates a jurisdictional seam between the intelligence committees and the armed services committees that a single activity scored across both can be described to each committee without either receiving a complete account. Reasoning: the two programmes have different controlling officials (DNI and SECDEF) and different primary oversight committees, and no statute requires a reconciled cross-programme presentation to any single body.",
 "tier": 3
@@ -30,6 +33,7 @@
 "dateEnd": null,
 "dateStart": "2025-12-18",
 "direction": "in",
+"edgeId": "e-adda1694f7",
 "edgeLabel": "Published classified line items are where MIP and NIP money physically sits in the defense budget",
 "id": "classified-programs-line",
 "l0": false,
@@ -51,6 +55,7 @@
 "dateEnd": null,
 "dateStart": "2010",
 "direction": "out",
+"edgeId": "e-c27d92ff11",
 "edgeLabel": "the second named channel, under SECDEF and USD(I&S) rather than the DNI",
 "id": "d-funding",
 "l0": false,
@@ -82,6 +87,7 @@
 "dateEnd": null,
 "dateStart": "2005",
 "direction": "in",
+"edgeId": "e-f4f28417a3",
 "edgeLabel": "The two-programme split that divides intelligence money between DNI and SECDEF control",
 "id": "nip",
 "l0": false,
@@ -137,7 +143,7 @@
 ],
 "sub": "The Secretary of Defense's intelligence budget; aggregate topline released by DoD, no breakdown",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 343 of 1170, score 37). 3 connections, 2 of them custody/funding/programmatic. Axes C2/A3/D2.",
+"tierRationale": "Re-graded B on a global pass (rank 344 of 1138, score 37). 3 connections, 2 of them custody/funding/programmatic. Axes C2/A3/D2.",
 "timeline": [
 {
 "claimTier": null,

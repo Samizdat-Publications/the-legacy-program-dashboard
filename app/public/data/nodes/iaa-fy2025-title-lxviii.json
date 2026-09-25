@@ -5,26 +5,31 @@
 "band": null,
 "claims": [
 {
+"id": "c-3f83aac1aa",
 "source": "PLAW-118publ159 secs. 6801-6802",
 "text": "Public Law 118-159, Title LXVIII, sec. 6801 ('COMPTROLLER GENERAL OF THE UNITED STATES REVIEW OF ALL-DOMAIN ANOMALY RESOLUTION OFFICE') and sec. 6802 ('SUNSET OF REQUIREMENTS RELATING TO AUDITS OF UNIDENTIFIED ANOMALOUS PHENOMENA HISTORICAL RECORD REPORT'), 138 Stat. 2520-2521. Approved 23 December 2024.",
 "tier": 1
 },
 {
+"id": "c-c2de1f4e86",
 "source": "PLAW-118publ159 sec. 6802",
 "text": "Sec. 6802 sunsets the IAA FY2023 sec. 6803 GAO briefing cadence 90 days after, and the reporting cadence 180 days after, 'the delivery of the final volume of the Historical Record Report' - tying continued GAO oversight to AARO's own delivery schedule.",
 "tier": 1
 },
 {
+"id": "c-00142e856f",
 "source": "P.L. 118-159, Sec. 6801(d), GPO",
 "text": "Sec. 6801 requires a Comptroller General review of AARO with a report due 'in a timeframe mutually agreed upon by the congressional intelligence committees, the congressional defense committees, congressional leadership, and the Comptroller General.'",
 "tier": 1
 },
 {
+"id": "c-1511920875",
 "source": "P.L. 118-159, Sec. 6802, GPO",
 "text": "Sec. 6802 sunsets the GAO's quarterly audit information-sharing 90 days after delivery of the final volume of the Historical Record Report, and the semiannual congressional briefings 180 days after.",
 "tier": 1
 },
 {
+"id": "c-5e8d21c69b",
 "source": "Inference from the text of Sec. 6801(d)",
 "text": "Setting the report deadline by mutual agreement rather than by date leaves the timing of the only new FY2025 oversight product in the hands of the parties being overseen and their committees.",
 "tier": 3
@@ -40,6 +45,7 @@
 "dateEnd": null,
 "dateStart": "2024",
 "direction": "out",
+"edgeId": "e-10218d3890",
 "edgeLabel": "Sunsets GAO audit briefings on the Historical Record Report",
 "id": "aaro",
 "l0": true,
@@ -66,6 +72,7 @@
 "dateEnd": null,
 "dateStart": "2024",
 "direction": "out",
+"edgeId": "e-173c772875",
 "edgeLabel": "GAO review of AARO's implementation of Sec. 1683",
 "id": "ndaa-fy2022-sec-1683",
 "l0": true,
@@ -87,6 +94,7 @@
 "dateEnd": "2024",
 "dateStart": "2024",
 "direction": "in",
+"edgeId": "e-e6238b23e3",
 "edgeLabel": "Never called up; FY2025 enacted with no disclosure regime",
 "id": "uapda-2024-samdt-2610",
 "l0": false,
@@ -125,6 +133,7 @@
 "by": null,
 "claimTier": 1,
 "denialKind": "undirected",
+"edgeId": "e-e6238b23e3",
 "label": "Never called up; FY2025 enacted with no disclosure regime",
 "note": "The amendment was 'ordered to lie on the table' and received no vote; P.L. 118-159's only UAP content is a GAO review and a sunset on audit briefings.",
 "of": null,
@@ -177,7 +186,7 @@
 ],
 "sub": "GAO review of AARO; sunset of Historical Record audit",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 590 of 1170, score 28). 3 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D1.",
+"tierRationale": "Re-graded C on a global pass (rank 584 of 1138, score 28). 3 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D1.",
 "timeline": [
 {
 "claimTier": null,

@@ -5,16 +5,19 @@
 "band": null,
 "claims": [
 {
+"id": "c-6d55f7eea7",
 "source": "The Black Vault document archive of the Elizondo DoD IG complaint",
 "text": "Filed May 2021 alleging 'malicious activities, coordinated disinformation, professional misconduct, whistleblower reprisal and explicit threats', naming Garry Reid, Susan Gough and Neill Tipton.",
 "tier": 2
 },
 {
+"id": "c-1a5fe01099",
 "source": "The Black Vault DoD IG document archive",
 "text": "FOIA releases include a 103-page DoD IG transcript of Elizondo's February 2023 interview, 126 pages of DoD IG UAP/Elizondo emails released February 2024, and 40 additional pages released March 2025.",
 "tier": 1
 },
 {
+"id": "c-c3ca30c18b",
 "source": "The Debrief, April 2022",
 "text": "Elizondo alleged Reid threatened to damage his security clearance and blocked his access to Pentagon facilities.",
 "tier": 2
@@ -30,6 +33,7 @@
 "dateEnd": "2022",
 "dateStart": "2021",
 "direction": "out",
+"edgeId": "e-96bd55455b",
 "edgeLabel": "Named respondent; Reid removed from post by April 2022",
 "id": "garry-reid",
 "l0": false,
@@ -51,6 +55,7 @@
 "dateEnd": null,
 "dateStart": "2021",
 "direction": "in",
+"edgeId": "e-c5e7fce667",
 "edgeLabel": "Filed May 2021 naming Reid, Gough and Tipton",
 "id": "luis-elizondo",
 "l0": false,
@@ -72,6 +77,7 @@
 "dateEnd": null,
 "dateStart": "2021",
 "direction": "out",
+"edgeId": "e-5ea9ac2007",
 "edgeLabel": "Named respondent",
 "id": "neill-tipton",
 "l0": false,
@@ -93,6 +99,7 @@
 "dateEnd": null,
 "dateStart": "2021",
 "direction": "out",
+"edgeId": "e-30674442cf",
 "edgeLabel": "Named respondent",
 "id": "susan-gough",
 "l0": false,
@@ -153,7 +160,7 @@
 ],
 "sub": "Complaint alleging coordinated disinformation and whistleblower reprisal",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 636 of 1170, score 27). 4 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 627 of 1138, score 27). 4 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D3.",
 "timeline": [
 {
 "claimTier": null,

@@ -5,26 +5,31 @@
 "band": null,
 "claims": [
 {
+"id": "c-a053159f23",
 "source": "An Act to establish an Office of Naval Research in the Department of the Navy, Public Law 79-588, ch. 727, H.R. 5911, 60 Stat. 779, sec. 1, approved 1 August 1946, https://www.govinfo.gov/content/pkg/STATUTE-60/pdf/STATUTE-60-Pg779.pdf",
 "text": "The Act creates the office inside the Secretary's own office: 'there is hereby created and established in the Office of the Secretary of the Navy an Office of Naval Research', charged with the encouragement, promotion, planning, initiation and coordination of naval research, and with the supervision, administration and control of Navy activities relating to patents, inventions, trade-marks, copyrights and royalty payments.",
 "tier": 1
 },
 {
+"id": "c-f181d246d1",
 "source": "Public Law 79-588, 60 Stat. 779, sec. 2, https://www.govinfo.gov/content/pkg/STATUTE-60/pdf/STATUTE-60-Pg779.pdf",
 "text": "Its head is a presidential appointee confirmed by the Senate. Section 2 provides for a Chief of Naval Research 'appointed by the President, by and with the advice and consent of the Senate, for a term of not to exceed three years, from among officers not below the grade of commander on the active list of the Navy.'",
 "tier": 1
 },
 {
+"id": "c-ea832e66f6",
 "source": "Public Law 79-588, 60 Stat. 779-780, secs. 5(b) and 6, https://www.govinfo.gov/content/pkg/STATUTE-60/pdf/STATUTE-60-Pg779.pdf",
 "text": "The Act exempts ONR research contracting from ordinary law. Section 6 permits contracts for research 'without performance or other bonds' and without regard to five named sections of the Revised Statutes, and advance and progress payments without regard to another, while expressly barring cost-plus-a-percentage-of-cost contracting. Section 5(b) keeps obligated research appropriations available for expenditure for four years after the fiscal year for which they were appropriated.",
 "tier": 1
 },
 {
+"id": "c-0c91cd9471",
 "source": "Public Law 79-588, 60 Stat. 780, sec. 7, https://www.govinfo.gov/content/pkg/STATUTE-60/pdf/STATUTE-60-Pg779.pdf",
 "text": "Section 7 authorises the Secretary of the Navy to transfer research and development functions from the bureaus to ONR together with personnel, buildings, facilities and other property, 'including without limitation the Special Devices Division and the Naval Research Laboratory.'",
 "tier": 1
 },
 {
+"id": "c-b4cf5ccf24",
 "source": "Batch 17 file 01, 0:25;01, research/leads/area52-corpus-17.md",
 "text": "On Debriefed, episode 78, 6 March 2026, the guest Gerb named the Office of Naval Intelligence and the Office of Naval Research and their 'historically special projects' as elements he says are deliberately left out of the four-element structure shown in The Age of Disclosure. He named no document and no programme. The statute establishes the office, its head, its advisory committee and its contracting exemptions, and says nothing about any such projects.",
 "tier": 2
@@ -40,6 +45,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-35135fea70",
 "edgeLabel": "Approved the same day as the Atomic Energy Act of 1946",
 "id": "atomic-energy-act-1946",
 "l0": false,
@@ -61,6 +67,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-791ff4ab67",
 "edgeLabel": "Created inside the Office of the Secretary of the Navy, 1 August 1946",
 "id": "us-navy",
 "l0": true,
@@ -111,7 +118,7 @@
 ],
 "sub": "Created 1 August 1946 in the Office of the Secretary of the Navy; the Navy's research contracting authority",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 559 of 1170, score 29). 2 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D0.",
+"tierRationale": "Re-graded B on a global pass (rank 555 of 1138, score 29). 2 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D0.",
 "timeline": [
 {
 "claimTier": null,

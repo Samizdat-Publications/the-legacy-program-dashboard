@@ -39,21 +39,25 @@
 ],
 "claims": [
 {
+"id": "c-b5e88a5f15",
 "source": "Civil docket sheet, Cash v. United States, No. H-84-348 (S.D. Tex.) — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "text": "Betty Cash, Vickie Landrum and Colby Landrum sued the United States of America in the US District Court for the Southern District of Texas, Houston Division, Civil Action No. H-84-348, under 28 U.S.C. 1346(b) and 2671 et seq.; the original complaint was filed and summonses issued in January 1984 and Peter A. Gersten was designated attorney in charge.",
 "tier": 2
 },
 {
+"id": "c-4ca0d03725",
 "source": "Order of Dismissal, Cash v. United States, No. H-84-348, filed 21 August 1986 (scan of the clerk-stamped original) — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "text": "An Order of Dismissal was filed on 21 August 1986 by Judge Ross N. Sterling, dismissing the cause pursuant to Federal Rules of Civil Procedure 12(b)(1), 12(b)(6) and 56, on the United States' Motion to Dismiss and/or for Summary Judgment.",
 "tier": 2
 },
 {
+"id": "c-5cadabebfd",
 "source": "Gersten, quoted in the Houston Chronicle, Texas Magazine, 17 November 1996, p. 8",
 "text": "Attorney Peter Gersten later stated that the suit was a bluff, brought in the hope that the government would settle quietly and cover the medical expenses.",
 "tier": 2
 },
 {
+"id": "c-4234b2348a",
 "source": "Department of the Army Inspector General investigation, 1982; Sarran quoted in the case literature",
 "text": "Lt. Col. George Sarran of the Office of the Inspector General of the US Army conducted the only thorough formal government investigation of the encounter in 1982 and found no evidence that the helicopters belonged to the US armed forces, while stating that Cash and Landrum were credible and that no one appeared to be exaggerating.",
 "tier": 2
@@ -71,6 +75,7 @@
 "dateEnd": "1986-08-21",
 "dateStart": "1984",
 "direction": "in",
+"edgeId": "e-2a34e96ccd",
 "edgeLabel": "The United States denied ownership of the object and the aircraft",
 "id": "cash-v-united-states",
 "l0": false,
@@ -92,6 +97,7 @@
 "dateEnd": "1986-08-21",
 "dateStart": "1984-01-18",
 "direction": "out",
+"edgeId": "e-ee2256ce2d",
 "edgeLabel": "Lead named plaintiff",
 "id": "cash-v-united-states",
 "l0": false,
@@ -113,6 +119,7 @@
 "dateEnd": "1998",
 "dateStart": "1981-02",
 "direction": "in",
+"edgeId": "e-da40cd6ba6",
 "edgeLabel": "Investigator of record from February 1981",
 "id": "john-schuessler",
 "l0": false,
@@ -146,6 +153,7 @@
 "by": null,
 "claimTier": 1,
 "denialKind": "undirected",
+"edgeId": "e-2a34e96ccd",
 "label": "The United States denied ownership of the object and the aircraft",
 "note": "The government moved to dismiss and for summary judgment; the court dismissed under FRCP 12(b)(1), 12(b)(6) and 56. The Defense Department's internal investigation into whether the object was a US military device has never produced a released document.",
 "of": null,
@@ -205,7 +213,7 @@
 "status": "dead",
 "sub": "Lead plaintiff, Cash v. United States; claimed radiation injury from the 29 December 1980 encounter",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 741 of 1170, score 23). 3 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A0/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 728 of 1138, score 23). 3 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A0/D2.",
 "timeline": [
 {
 "claimTier": null,

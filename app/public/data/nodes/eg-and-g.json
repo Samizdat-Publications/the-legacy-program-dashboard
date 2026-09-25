@@ -5,41 +5,49 @@
 "band": "custody",
 "claims": [
 {
+"id": "c-b775ee8fd9",
 "source": "American Alchemy with Jesse Michels, 'The Most Knowledgeable UFO Researcher In The World', published 21 February 2025, at 0:08:54 to 0:09:47",
 "text": "On American Alchemy with Jesse Michels, 21 February 2025, between 0:08:54 and 0:09:47, the guest Sammy, known as UAP Gerb, said of the retrieval teams described in the Jonathan Wigant account of Peru in 1997 and the Michael Herrera account of Indonesia in 2009 that 'I think this is likely a DOE NEST team, nuclear emergency search teams', which 'received help from contractors like EG&G'. Reasoning: he frames this explicitly as his own inference from the DOE-lettered rain jackets and hazmat suits the witnesses describe, not as a record.",
 "tier": 3
 },
 {
+"id": "c-0ae84a7acb",
 "source": "American Alchemy with Jesse Michels, 'UFO Crash Retrieval: Jake Barber's FIRSTHAND Account', published 30 January 2025, at 1:30:12",
 "text": "On American Alchemy with Jesse Michels, 30 January 2025, at 1:30:12, Jake Barber said that 'the senior EG&G engineer described to my great uncle that it was egg shaped about the size of an SUV', that the team 'tried to penetrate the hull, tried to open it, they couldn't', and that from very small samples of the material they concluded the isotope ratio or mixture of elements was not of terrestrial manufacture. The account reaches Barber through his great uncle and the engineer is not named.",
 "tier": 2
 },
 {
+"id": "c-1d84667900",
 "source": "American Alchemy with Jesse Michels, 'NASA Doctor: I Saw A UFO Hovering In THIS Secret Hangar (Ft. Greg Rogers)', 31 August 2025, 0:46:20, https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL2173204669.mp3?updated=1757589247",
 "text": "On American Alchemy with Jesse Michels, 31 August 2025, at 0:46:20, Greg Rogers ruled EG&G out as the owner of the craft he describes at Cape Canaveral in 1992, naming instead 'something like Lockheed or Northrop, Boeing' or Raytheon, possibly in a consortium, and noting that Lockheed and Martin Marietta had not yet merged at that date. This is the same episode whose narration places EG&G at the centre of the story, and the two are recorded as they stand.",
 "tier": 2
 },
 {
+"id": "c-8f0324f172",
 "source": "American Alchemy with Jesse Michels, 'NASA Doctor: I Saw A UFO Hovering In THIS Secret Hangar (Ft. Greg Rogers)', 31 August 2025, 0:47:14",
 "text": "At 0:47:14 in the same episode Rogers gave his reason as a general rule about black-programme ownership, using Have Blue and the F-117: during the demonstrator phase 'the U.S. Air Force did not own that even though it had U.S. Air Force markings', and the Air Force took ownership only after it let the production contract. Air Force markings on an airframe are not, on this account, evidence of Air Force custody.",
 "tier": 2
 },
 {
+"id": "c-454fd802cc",
 "source": "Presidential Determinations published in the Federal Register, 1995-2000 and annually thereafter",
 "text": "Every President from 1995 signed an annual determination exempting 'the Air Force's Operating Location Near Groom Lake, Nevada' from disclosure requirements of federal environmental law on national security grounds.",
 "tier": 1
 },
 {
+"id": "c-6af33d36cb",
 "source": "Ninth Circuit opinion, 8 January 1998",
 "text": "Kasza v. Browner, 133 F.3d 1159 (9th Cir. 1998): claims arising from the Groom Lake facility were dismissed on state secrets and statutory exemption grounds; certiorari denied at 525 U.S. 967.",
 "tier": 1
 },
 {
+"id": "c-e4199b12f0",
 "source": "George Knapp via Liberation Times, 28 February 2023; named to Congress under oath 9 September 2025",
 "text": "Alfred O'Donnell, described by Knapp as the first general manager of EG&G in Nevada, said 'they did have a flying saucer that had been recovered from New Mexico' and a 'live being.'",
 "tier": 2
 },
 {
+"id": "c-ac46d2d130",
 "source": "USAspending.gov recipient search, retrieved 12 August 2026",
 "text": "USAspending records approximately $1.3 billion in prime contract obligations to EG&G-named recipient entities since FY2008, a small residue of the company's classified-era role after its services businesses were sold.",
 "tier": 1
@@ -55,6 +63,7 @@
 "dateEnd": "1990",
 "dateStart": "1947",
 "direction": "in",
+"edgeId": "e-4ae2da407f",
 "edgeLabel": "O'Donnell was a senior EG&G manager and, per Knapp, first general manager of EG&G Nevada",
 "id": "alfred-odonnell",
 "l0": false,
@@ -72,7 +81,7 @@
 "url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm"
 }
 ],
-"tier": "B",
+"tier": "C",
 "type": "institutional"
 },
 {
@@ -81,6 +90,7 @@
 "dateEnd": "1995-10-10",
 "dateStart": "1947",
 "direction": "out",
+"edgeId": "e-1a7f2e9c17",
 "edgeLabel": "contracting at a site whose existence was itself classified",
 "id": "d-contracting",
 "l0": false,
@@ -102,6 +112,7 @@
 "dateEnd": "1998",
 "dateStart": "1995",
 "direction": "in",
+"edgeId": "e-e87b058131",
 "edgeLabel": "The state secrets defence shielded the contractor-operated facility from the workers' suit",
 "id": "groom-lake-presidential-determination",
 "l0": false,
@@ -128,6 +139,7 @@
 "dateEnd": null,
 "dateStart": "1955",
 "direction": "out",
+"edgeId": "e-911d534477",
 "edgeLabel": "EG&G provided the classified site services and personnel transport for the Groom Lake operating location",
 "id": "l-groom-lake",
 "l0": false,
@@ -154,6 +166,7 @@
 "dateEnd": "1996",
 "dateStart": "1951",
 "direction": "out",
+"edgeId": "e-d307be49cb",
 "edgeLabel": "EG&G was the classified services contractor for the Nevada complex in the testing era",
 "id": "l-nevada-test-site",
 "l0": false,
@@ -180,6 +193,7 @@
 "dateEnd": "1994",
 "dateStart": "1991",
 "direction": "in",
+"edgeId": "e-be700049d5",
 "edgeLabel": "D'Amato's Senate inquiry reached EG&G and stopped there",
 "id": "richard-damato",
 "l0": false,
@@ -201,6 +215,7 @@
 "dateEnd": "2002",
 "dateStart": "2002",
 "direction": "in",
+"edgeId": "e-1ec3a56650",
 "edgeLabel": "The meeting is reported to have taken place at an EG&G facility in Las Vegas",
 "id": "wilson-davis-memo",
 "l0": true,
@@ -237,6 +252,7 @@
 },
 "claimTier": 1,
 "denialKind": "directed",
+"edgeId": "e-e87b058131",
 "label": "The state secrets defence shielded the contractor-operated facility from the workers' suit",
 "note": "Rather than litigate the alleged open-air burning of classified waste, the government invoked state secrets and the President exempted the site; Kasza v. Browner, 133 F.3d 1159, sustained dismissal and certiorari was denied.",
 "of": {
@@ -375,7 +391,7 @@
 "cls": "person",
 "id": "alfred-odonnell",
 "label": "Alfred 'Al' O'Donnell",
-"tier": "B"
+"tier": "C"
 },
 {
 "cls": "domain",
@@ -462,7 +478,7 @@
 ],
 "sub": "Nuclear test instrumentation and classified site services; Groom Lake support",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 150 of 1170, score 53). 7 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A3/D0.",
+"tierRationale": "Re-graded A on a global pass (rank 153 of 1138, score 53). 7 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A3/D0.",
 "timeline": [
 {
 "claimTier": null,

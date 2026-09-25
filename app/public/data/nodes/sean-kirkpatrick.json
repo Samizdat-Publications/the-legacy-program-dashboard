@@ -146,116 +146,139 @@
 ],
 "claims": [
 {
+"id": "c-0f9d6aa3df",
 "source": "American Alchemy with Jesse Michels, 'UFO Crash Retrieval: Jake Barber's FIRSTHAND Account', published 30 January 2025, at 1:28:12",
 "text": "On American Alchemy with Jesse Michels, 30 January 2025, at 1:28:12, Jake Barber said that the Michael Herrera incident and his own additional information were presented to AARO under Sean Kirkpatrick, that Kirkpatrick 'patently denied it and wrote it off', and that 'I know for a fact that Sean Kirkpatrick has admitted outside of the office of AARO directly to members of the Senate Intelligence Committee that it did in fact happen exactly as reported by Michael Herrera'. This is a claim about what an AARO director is said to have said in private, not a claim sourced to AARO, and no record of either the denial or the private confirmation was opened.",
 "tier": 2
 },
 {
+"id": "c-da3e0ff244",
 "source": "American Alchemy with Jesse Michels, 'Senate Staffer Thinks Tesla and Nazi Technology is Being Hidden (ft. Kirk McConnell)', published 2 April 2025, at 1:09:33 to 1:10:25",
 "text": "On American Alchemy with Jesse Michels, 2 April 2025, at 1:09:33, Kirk McConnell said that Kirkpatrick 'created an advisory group' at AARO and that 'the contract for that, for the formation of that group to advise him at AARO, well, the contract was let through Oak Ridge', and that after retiring from government Kirkpatrick is 'working with, for Oak Ridge under contract now'. Asked whether that looked like a conflict of interest, McConnell answered at 1:10:25 that 'conflicts of interest or allegations are easy to make, but not so easy to sort out. But it is certainly worth taking note of if nothing else.' He does not allege wrongdoing and does not name the advisory group.",
 "tier": 2
 },
 {
+"id": "c-5e831a1641",
 "source": "American Alchemy with Jesse Michels, '\"There's A UFO Under the Ranch!\" - Skinwalker Owner Breaks Silence', 26 July 2026, 2:39:07 https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL9910649891.mp3",
 "text": "On American Alchemy with Jesse Michels, 26 July 2026, Skinwalker Ranch owner Brandon Fugal said that Kirkpatrick 'claimed that before 2022 he had no interest in these topics, that he'd never attended a briefing on Skinwalker Ranch', and that he had never met Fugal. Fugal said Kirkpatrick sat across from him for two and a half hours at a confidential briefing in April 2018 devoted to the investigation and findings at the ranch, and that after being challenged by Steven Greenstreet of the New York Post he published a photograph of Kirkpatrick in attendance to Twitter, LinkedIn, Instagram and Facebook (2:39:07 to 2:41:12).",
 "tier": 2
 },
 {
+"id": "c-cd85369a4b",
 "source": "CHRG-118shrg60390 CONTENTS and opening statement",
 "text": "Sole witness of record at the Senate Armed Services Subcommittee on Emerging Threats and Capabilities hearing of 19 April 2023: 'Dr. Sean M. Kirkpatrick, Director, All-Domain Anomaly Resolution Office' (S. Hrg. 118-648). The subcommittee chair's opening statement records that Kirkpatrick also testified 'in today's earlier closed session'.",
 "tier": 1
 },
 {
+"id": "c-4f460edadd",
 "source": "AARO Historical Record Report Volume 1, 8 March 2024, p.22",
 "text": "AARO's official history confirms $22 million was appropriated to DIA at Reid's direction via the FY2008 and FY2010 Defense Appropriations Acts.",
 "tier": 1
 },
 {
+"id": "c-247646d8cf",
 "source": "AARO Historical Record Report Volume 1, p.23",
 "text": "'Although investigating UFO/UAP was not specifically outlined in the contract's statement of work, the selected private sector organization conducted UFO research with the support of the DIA program manager.'",
 "tier": 1
 },
 {
+"id": "c-739f82b59c",
 "source": "AARO Historical Record Report Volume 1, p.24",
 "text": "'AAWSAP/AATIP was terminated in 2012 upon the completion of its deliverables due to DIA and DoD concerns about the project.'",
 "tier": 1
 },
 {
+"id": "c-4787383b26",
 "source": "Textual analysis of AARO Historical Record Report Volume 1, pp.22-24",
 "text": "The report's systematic refusal to name any individual — 'the private sector organization', 'the DIA program manager', 'the head of the private sector organization' — is a drafting choice that prevents the reader from connecting the official history to the named participants whose accounts contradict it.",
 "tier": 3
 },
 {
+"id": "c-1a4658b502",
 "source": "Kirkpatrick congressional testimony as quoted by Rep. Virginia Foxx and answered by Grusch, House Oversight transcript, 26 July 2023",
 "text": "Testified to Congress that there was 'no credible evidence thus far of extraterrestrial activity' or of 'off-world technology brought to the attention of the office' - a statement Grusch swore was 'not accurate.'",
 "tier": 1
 },
 {
+"id": "c-2991f17faf",
 "source": "Sean Kirkpatrick, statement reported by DefenseScoop, 31 July 2023",
 "text": "'The central source of those allegations has refused to speak with AARO' - posted after the 26 July 2023 hearing and authenticated by the Pentagon.",
 "tier": 2
 },
 {
+"id": "c-ad39255214",
 "source": "Sean Kirkpatrick, opinion, Scientific American, 19 January 2024",
 "text": "Attributes the reverse-engineering allegations to inadvertent disclosures of legitimate US programs or to unsupported belief, and to circular reporting among a small group of interconnected believers.",
 "tier": 2
 },
 {
+"id": "c-c834817791",
 "source": "House Oversight hearing transcript, 26 July 2023",
 "text": "Grusch swore he had a classified conversation with Kirkpatrick in April 2022, three months before Kirkpatrick took over AARO, and provided him concerns.",
 "tier": 1
 },
 {
+"id": "c-d90f9be1a6",
 "source": "AARO, Historical Record Report Volume I, 8 March 2024, key findings",
 "text": "'AARO has found no evidence that U.S. companies ever possessed off-world technology. The executives, scientists, and chief technology officers of the companies named by interviewees met with the Director of AARO and denied on the record that they have ever recovered, possessed, or engaged in reverse-engineering of extraterrestrial technology.'",
 "tier": 1
 },
 {
+"id": "c-0324fd580d",
 "source": "AARO, Historical Record Report Volume I, Section IV",
 "text": "The same report records the allegations it rejects, including a company said to hold twelve recovered craft with a CIA partnership ending in 1989, and a program allegedly kept 'outside of government so the technology could remain proprietary.'",
 "tier": 1
 },
 {
+"id": "c-154ffec676",
 "source": "AARO/ORNL 'Synopsis: Analysis of a Metallic Specimen', released July 2024",
 "text": "AARO acquired the alleged crash-recovered magnesium specimen from a private UAP organisation and the US Army and contracted Oak Ridge National Laboratory, which assessed it terrestrial in origin and incapable of functioning as a terahertz waveguide.",
 "tier": 1
 },
 {
+"id": "c-772f9533f1",
 "source": "DoD memorandum 'Establishment of the All-domain Anomaly Resolution Office', 15 July 2022, media.defense.gov — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
 "text": "Kirkpatrick was appointed first Director of AARO when Deputy Secretary of Defense Kathleen Hicks established the office by memorandum dated 15 July 2022.",
 "tier": 2
 },
 {
+"id": "c-a1778d8294",
 "source": "SASC hearing record 19 April 2023; S.Hrg. 118-648; DefenseScoop 19 April 2023",
 "text": "He testified in open session before the Senate Armed Services Subcommittee on Emerging Threats and Capabilities on 19 April 2023 that AARO was investigating more than 650 UAP cases.",
 "tier": 1
 },
 {
+"id": "c-1a9705cfc4",
 "source": "Sean Kirkpatrick, Scientific American op-ed, 19 January 2024",
 "text": "He characterised the entire crash-retrieval narrative as 'a textbook example of circular reporting' sourced to 'a small group of interconnected believers' influenced by Robert Bigelow and AATIP.",
 "tier": 2
 },
 {
+"id": "c-f47a89efb4",
 "source": "DefenseScoop 30 November 2023; Wikipedia biography; The Good Trouble Show 5 September 2025 — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "text": "He left AARO on 1 December 2023 and joined Oak Ridge National Laboratory, a UT-Battelle-operated DOE lab that had supported AARO, as CTO for Defense and Intelligence Programs.",
 "tier": 2
 },
 {
+"id": "c-df1b8bb0d7",
 "source": "Inference from the documented sequence of his ORNL hire and ORNL's AARO support role; raised but not adjudicated in The Good Trouble Show reporting, 5 September 2025",
 "text": "The move from AARO director to a senior technology post at the very DOE laboratory that supported AARO and later held the UAP material sample creates an unresolved post-employment conflict question under 18 U.S.C. 207 that no agency has publicly adjudicated.",
 "tier": 3
 },
 {
+"id": "c-d0b0920dcc",
 "source": "https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "text": "Kirkpatrick directed AARO from 20 July 2022 to 1 December 2023 and joined Oak Ridge National Laboratory in December 2023 as chief technology officer for defense and intelligence programs.",
 "tier": 2
 },
 {
+"id": "c-66318aedc0",
 "source": "https://www.scientificamerican.com/article/heres-what-i-learned-as-the-u-s-governments-ufo-hunter/",
 "text": "He wrote that he found no evidence of extraterrestrial visitors and characterised coverup allegations as stemming from legitimate US programmes or misrepresentations promoted by 'a small group of interconnected believers' engaged in 'circular reporting.'",
 "tier": 2
 },
 {
+"id": "c-73a044aa27",
 "source": "https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Aluminum_Materials_Analysis_Supplement_Jan2026.pdf",
 "text": "The former AARO director is a senior technology executive at the national laboratory that performed both of AARO's published specimen analyses, including the January 2026 aluminium analysis. Reasoning: his ORNL role dates from December 2023 and the ORNL/AARO aluminium supplement is dated January 2026.",
 "tier": 3
@@ -276,6 +299,7 @@
 "dateEnd": "2023",
 "dateStart": "2022",
 "direction": "out",
+"edgeId": "e-780376d816",
 "edgeLabel": "first Director, July 2022 - 1 December 2023",
 "id": "aaro",
 "l0": true,
@@ -297,6 +321,7 @@
 "dateEnd": "2024",
 "dateStart": "2023",
 "direction": "out",
+"edgeId": "e-5fc193f608",
 "edgeLabel": "directed the production of the official history",
 "id": "aaro-historical-record-vol1",
 "l0": true,
@@ -338,6 +363,7 @@
 "dateEnd": "2024",
 "dateStart": "2023",
 "direction": "out",
+"edgeId": "e-25d5313fd9",
 "edgeLabel": "authored and directed Volume I; released after his departure",
 "id": "aaro-historical-record-vol1",
 "l0": true,
@@ -364,6 +390,7 @@
 "dateEnd": "2026-01",
 "dateStart": "2023-12",
 "direction": "out",
+"edgeId": "e-fe0196fcd3",
 "edgeLabel": "former director at the laboratory that tests the specimens",
 "id": "aaro-ornl-materials-analyses",
 "l0": false,
@@ -390,6 +417,7 @@
 "dateEnd": "2025",
 "dateStart": "2025",
 "direction": "out",
+"edgeId": "e-a3a26163d8",
 "edgeLabel": "publicly attacked her oversight as 'playhouse politics' and the hearings as 'reality TV'",
 "id": "anna-paulina-luna",
 "l0": false,
@@ -411,6 +439,7 @@
 "dateEnd": null,
 "dateStart": "2025",
 "direction": "out",
+"edgeId": "e-228e2f36ee",
 "edgeLabel": "Kirkpatrick publicly attacked Task Force witnesses and members; Luna answered from the chair",
 "id": "anna-paulina-luna",
 "l0": false,
@@ -432,6 +461,7 @@
 "dateEnd": "2023",
 "dateStart": "2023",
 "direction": "in",
+"edgeId": "e-9afe7e1ba9",
 "edgeLabel": "co-authored a paper with Kirkpatrick while Kirkpatrick was AARO director",
 "id": "avi-loeb",
 "l0": false,
@@ -453,6 +483,7 @@
 "dateEnd": "2023",
 "dateStart": "2023",
 "direction": "out",
+"edgeId": "e-1d686c431b",
 "edgeLabel": "'The central source of those allegations has refused to speak with AARO'",
 "id": "david-grusch",
 "l0": false,
@@ -479,6 +510,7 @@
 "dateEnd": "2022",
 "dateStart": "2022",
 "direction": "in",
+"edgeId": "e-696b6689cb",
 "edgeLabel": "Classified conversation April 2022, before Kirkpatrick took over AARO",
 "id": "david-grusch",
 "l0": false,
@@ -500,6 +532,7 @@
 "dateEnd": "2023-12",
 "dateStart": "2022-07",
 "direction": "out",
+"edgeId": "e-bda2094de0",
 "edgeLabel": "AARO Director's programmatic access ran through the SAPCO enterprise",
 "id": "dod-sapco",
 "l0": true,
@@ -521,6 +554,7 @@
 "dateEnd": "2024",
 "dateStart": "2022",
 "direction": "in",
+"edgeId": "e-8645dde54a",
 "edgeLabel": "Traces a modern line from Battelle to AARO messaging",
 "id": "gerb-battelle-investigation",
 "l0": false,
@@ -542,6 +576,7 @@
 "dateEnd": "2023",
 "dateStart": "2023",
 "direction": "out",
+"edgeId": "e-89405ee526",
 "edgeLabel": "sole DoD witness; testified AARO held 650+ cases",
 "id": "hearing-2023-04-19",
 "l0": false,
@@ -563,6 +598,7 @@
 "dateEnd": null,
 "dateStart": "2023-04-19",
 "direction": "out",
+"edgeId": "e-f145bbac09",
 "edgeLabel": "sole witness",
 "id": "hearing-2023-04-19",
 "l0": false,
@@ -584,6 +620,7 @@
 "dateEnd": null,
 "dateStart": "2024-11",
 "direction": "out",
+"edgeId": "e-500f4e15f7",
 "edgeLabel": "The former AARO director denied the programme exists",
 "id": "immaculate-constellation",
 "l0": true,
@@ -605,6 +642,7 @@
 "dateEnd": null,
 "dateStart": "2024",
 "direction": "out",
+"edgeId": "e-b0c6a16ee1",
 "edgeLabel": "Former AARO director denied the programme's existence",
 "id": "immaculate-constellation-12-page-report",
 "l0": true,
@@ -631,6 +669,7 @@
 "dateEnd": "2026",
 "dateStart": "2026",
 "direction": "in",
+"edgeId": "e-86089ba6c3",
 "edgeLabel": "successor whose reported apology to Congress concerns his predecessor's conduct",
 "id": "jon-kosloski",
 "l0": false,
@@ -657,6 +696,7 @@
 "dateEnd": "2024",
 "dateStart": "2024",
 "direction": "out",
+"edgeId": "e-f15528c536",
 "edgeLabel": "authored the op-ed attacking the whistleblowers seven weeks after leaving office",
 "id": "kirkpatrick-sciam-oped-2024",
 "l0": false,
@@ -678,6 +718,7 @@
 "dateEnd": "2024",
 "dateStart": "2024",
 "direction": "out",
+"edgeId": "e-aae62bb24d",
 "edgeLabel": "Bylined attribution of the allegations to circular reporting and unsupported belief",
 "id": "kirkpatrick-sciam-oped-2024",
 "l0": false,
@@ -699,6 +740,7 @@
 "dateEnd": null,
 "dateStart": "2024-01-01",
 "direction": "in",
+"edgeId": "e-30eb06f403",
 "edgeLabel": "checked and rejected Kirkpatrick's balloon explanation",
 "id": "marik-von-rennenkampff",
 "l0": false,
@@ -725,6 +767,7 @@
 "dateEnd": null,
 "dateStart": "2023",
 "direction": "out",
+"edgeId": "e-4881201fcb",
 "edgeLabel": "AARO's founding director left government for the laboratory that analysed AARO's specimen",
 "id": "oak-ridge-national-laboratory",
 "l0": false,
@@ -746,6 +789,7 @@
 "dateEnd": null,
 "dateStart": "2023",
 "direction": "out",
+"edgeId": "e-796a110be8",
 "edgeLabel": "post-government employment at the DOE lab that supported AARO and later held the UAP material sample",
 "id": "oak-ridge-national-laboratory",
 "l0": false,
@@ -772,6 +816,7 @@
 "dateEnd": null,
 "dateStart": "2023-12",
 "direction": "out",
+"edgeId": "e-0f5ca30c0b",
 "edgeLabel": "chief technology officer for defense and intelligence programs",
 "id": "oak-ridge-national-laboratory",
 "l0": false,
@@ -793,6 +838,7 @@
 "dateEnd": null,
 "dateStart": "2022-07-15",
 "direction": "out",
+"edgeId": "e-42c168569d",
 "edgeLabel": "AARO's search for a concealed program ran against a document AARO did not control",
 "id": "sap-annual-report",
 "l0": false,
@@ -819,6 +865,7 @@
 "dateEnd": "2026",
 "dateStart": "2023",
 "direction": "in",
+"edgeId": "e-2e22906aa4",
 "edgeLabel": "Retrospective 'they were balloons' characterisation contradicts the contemporaneous allied record",
 "id": "shootdowns-feb-2023",
 "l0": false,
@@ -857,6 +904,7 @@
 "by": null,
 "claimTier": 2,
 "denialKind": "association",
+"edgeId": "e-228e2f36ee",
 "label": "Kirkpatrick publicly attacked Task Force witnesses and members; Luna answered from the chair",
 "note": "Luna: 'the former AARO director known as Sean Kirkpatrick attacked our witnesses and members on this Committee. It should be noted that he is a documented liar.'",
 "of": null,
@@ -883,6 +931,7 @@
 },
 "claimTier": 1,
 "denialKind": "directed",
+"edgeId": "e-1d686c431b",
 "label": "'The central source of those allegations has refused to speak with AARO'",
 "note": "Posted by Kirkpatrick after the 26 July 2023 hearing and authenticated by the Pentagon, calling the hearing insulting to DoD and IC officers. Signatory: Sean M. Kirkpatrick, then AARO director. It contradicts nothing Grusch swore to; it substitutes a procedural complaint for a substantive rebuttal.",
 "of": {
@@ -917,6 +966,7 @@
 },
 "claimTier": 2,
 "denialKind": "directed",
+"edgeId": "e-500f4e15f7",
 "label": "The former AARO director denied the programme exists",
 "note": "Kirkpatrick, AARO's first director, has publicly denied the existence of Immaculate Constellation. He left AARO in December 2023, before the report surfaced.",
 "of": {
@@ -946,6 +996,7 @@
 },
 "claimTier": 2,
 "denialKind": "directed",
+"edgeId": "e-b0c6a16ee1",
 "label": "Former AARO director denied the programme's existence",
 "note": "Kirkpatrick, who authored Volume I's methodology, publicly denied that Immaculate Constellation exists.",
 "of": {
@@ -980,6 +1031,7 @@
 },
 "claimTier": 2,
 "denialKind": "directed",
+"edgeId": "e-aae62bb24d",
 "label": "Bylined attribution of the allegations to circular reporting and unsupported belief",
 "note": "Published 19 January 2024 under Kirkpatrick's own name, seven weeks before AARO's Historical Record Report advanced the same circular-reporting frame. The outgoing director pre-litigated his agency's conclusions in the press.",
 "of": {
@@ -1009,6 +1061,7 @@
 },
 "claimTier": 2,
 "denialKind": "directed",
+"edgeId": "e-2e22906aa4",
 "label": "Retrospective 'they were balloons' characterisation contradicts the contemporaneous allied record",
 "note": "Kirkpatrick: 'We scrambled jets and shot down a bunch of things. Do you know what we shot down? Balloons.' The Canadian Clerk of the Privy Council's Secret memo of 14 Feb 2023 records the Yukon object's function and propulsion as unverified.",
 "of": {
@@ -1185,7 +1238,7 @@
 "status": "former",
 "sub": "Founding Director, All-domain Anomaly Resolution Office, 2022-2023",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 11 of 1170, score 118). 24 connections, 2 of them custody/funding/programmatic, 6 official denials recorded against it. Axes C2/A3/D1.",
+"tierRationale": "Re-graded A on a global pass (rank 13 of 1138, score 118). 24 connections, 2 of them custody/funding/programmatic, 6 official denials recorded against it. Axes C2/A3/D1.",
 "timeline": [
 {
 "claimTier": null,

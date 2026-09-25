@@ -5,26 +5,31 @@
 "band": null,
 "claims": [
 {
+"id": "c-f3c125654c",
 "source": "NASA/TM-2004-213082, Marc G. Millis, 'Prospects for Breakthrough Propulsion from Physics', NASA Glenn Research Center, 19 pages, https://ntrs.nasa.gov/api/citations/20040070788/downloads/20040070788.pdf , opened 2026-09-19",
 "text": "The project's own statement of what it was: 'To assess the implications of these emerging prospects for future spaceflight, NASA supported the Breakthrough Propulsion Physics Project from 1996 through 2002. This project has three grand challenges: (1) Discover propulsion that eliminates the need for propellant; (2) Discover methods to achieve hyper-fast travel; and (3) Discover breakthrough methods to power spacecraft.'",
 "tier": 1
 },
 {
+"id": "c-450d104e31",
 "source": "NASA/TM-2004-213082, Marc G. Millis, 'Prospects for Breakthrough Propulsion from Physics', NASA Glenn Research Center, 19 pages, https://ntrs.nasa.gov/api/citations/20040070788/downloads/20040070788.pdf , opened 2026-09-19",
 "text": "Its own statement of its method and its result: 'Because these challenges are presumably far from fruition, and perhaps even impossible, a special emphasis is placed on selecting incremental and affordable research that addresses the critical issues behind these challenges. Of 16 incremental research tasks completed by the project and from other sponsors, about a third were found not to be viable, a quarter have clear opportunities for sequels, and the rest remain unresolved.'",
 "tier": 1
 },
 {
+"id": "c-203975076f",
 "source": "NASA/TM-2004-213082, Marc G. Millis, 'Prospects for Breakthrough Propulsion from Physics', NASA Glenn Research Center, 19 pages, https://ntrs.nasa.gov/api/citations/20040070788/downloads/20040070788.pdf , opened 2026-09-19",
 "text": "Its own account of why NASA established it: 'New theories and phenomena have emerged in recent scientific literature that have reawakened consideration that propulsion breakthroughs may become achievable... This includes literature about warp drives, wormholes, quantum tunneling, vacuum fluctuation energy, and the coupling of gravity and electromagnetism. This emerging science, combined with the realization that rockets are fundamentally inadequate for interstellar exploration, led NASA to establish the \"Breakthrough Propulsion Physics (BPP)\" Project in 1996.'",
 "tier": 1
 },
 {
+"id": "c-859ce408c8",
 "source": "NASA/TM-2004-213082, Marc G. Millis, 'Prospects for Breakthrough Propulsion from Physics', NASA Glenn Research Center, 19 pages, https://ntrs.nasa.gov/api/citations/20040070788/downloads/20040070788.pdf , opened 2026-09-19",
 "text": "THE PROJECT ADJUDICATED THREE OF THIS STRAND'S SIX MECHANISMS BY NAME, which is what makes it board material: Biefeld-Brown and its lifter and asymmetrical-capacitor variants in section 3.2.7 of its summary document, Alcubierre-style metric engineering in section 3.3.1, and high frequency gravitational waves in section 3.3.2. Its findings on each are carried on millis-tm-2004-213082.",
 "tier": 1
 },
 {
+"id": "c-8570083ba0",
 "source": "Reasoning over NASA/TM-2004-213082 against the board's own dird-series claims, https://ntrs.nasa.gov/api/citations/20040070788/downloads/20040070788.pdf , opened 2026-09-19",
 "text": "Stated inference, and it is the comparison the strand exists to make. A civil agency ran a six-year public assessment of exotic propulsion, named the claims, published which ones failed, and closed. Seven years later a defence agency commissioned thirty-eight reference documents covering overlapping subjects, released them only under FOIA, and redacted every author. THE INFERENCE IS ABOUT TRANSPARENCY AND NOT ABOUT CONTENT: nothing opened joins the two programmes to each other, and no institutional edge between them is proposed.",
 "tier": 3
@@ -40,6 +45,7 @@
 "dateEnd": "2002",
 "dateStart": "1996",
 "direction": "in",
+"edgeId": "e-5c7625eb62",
 "edgeLabel": "Managed NASA's Breakthrough Propulsion Physics Project, 1996 to 2002",
 "id": "marc-millis",
 "l0": false,
@@ -61,6 +67,7 @@
 "dateEnd": "2004",
 "dateStart": "2004",
 "direction": "in",
+"edgeId": "e-63679eb61d",
 "edgeLabel": "The published summary of the project's methods and findings",
 "id": "millis-tm-2004-213082",
 "l0": true,
@@ -82,6 +89,7 @@
 "dateEnd": "2002",
 "dateStart": "1996",
 "direction": "out",
+"edgeId": "e-1382ddfcca",
 "edgeLabel": "A NASA project, supported 1996 to 2002 and run out of Glenn Research Center",
 "id": "nasa",
 "l0": true,
@@ -132,7 +140,7 @@
 ],
 "sub": "NASA's own six-year project to assess whether propulsion breakthroughs were achievable, which completed sixteen incremental research tasks and found about a third of them not viable",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 756 of 1170, score 23). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 741 of 1138, score 23). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.",
 "timeline": [
 {
 "claimTier": null,

@@ -5,26 +5,31 @@
 "band": null,
 "claims": [
 {
+"id": "c-29950584ae",
 "source": "Brookhaven National Laboratory, 'About Brookhaven', https://www.bnl.gov/about/",
 "text": "Brookhaven National Laboratory states that 'Brookhaven Lab is managed for the Office of Science by Brookhaven Science Associates, a partnership between Stony Brook University and Battelle, and six core universities: Columbia, Cornell, Harvard, Massachusetts Institute of Technology, Princeton, and Yale.'",
 "tier": 1
 },
 {
+"id": "c-c2c6a44585",
 "source": "Brookhaven National Laboratory, 'About Brookhaven', https://www.bnl.gov/about/",
 "text": "The same site states that 'BSA is a partnership between Battelle and The Research Foundation for the State University of New York on behalf of Stony Brook University.'",
 "tier": 1
 },
 {
+"id": "c-bbd99fbe0d",
 "source": "USAspending.gov award search, recipient Brookhaven Science Associates, https://api.usaspending.gov/api/v2/search/spending_by_award/",
 "text": "Brookhaven Science Associates LLC holds Department of Energy contract DESC0012704, described on USAspending as the management-and-operating contract for BNL, running 5 January 2015 to 4 January 2030 with recorded obligations of $8,629,200,535.17.",
 "tier": 1
 },
 {
+"id": "c-8e5e22a1b0",
 "source": "USAspending.gov award search, recipient Brookhaven Science Associates, https://api.usaspending.gov/api/v2/search/spending_by_award/",
 "text": "The predecessor contract DEAC0298CH10886, described as 'OPERATION OF BROOKHAVEN NATIONAL LABORATORY', ran 15 October 1999 to 4 January 2015 with recorded obligations of $7,896,665,930.11 to the same recipient.",
 "tier": 1
 },
 {
+"id": "c-be04656b5d",
 "source": "DEBRIEFED with Chris Ramsay, 'Jesse Michels, UAPGerb & Chris Ramsay - Flying Saucer Diner', 17 July 2026, 1:01:18, transcript in dist/transcripts/md/",
 "text": "On DEBRIEFED with Chris Ramsay, 17 July 2026, at 1:01:18, a panel speaker said that James Simons 'oversees' Stony Brook and Brookhaven National Laboratory and called the pairing with the Medallion Fund and the Simons Foundation an 'iron triangle', adding in the same passage 'This is a lot of crazy connections.' No document opened here names Simons in connection with either body.",
 "tier": 2
@@ -40,6 +45,7 @@
 "dateEnd": null,
 "dateStart": "1999-10-15",
 "direction": "out",
+"edgeId": "e-15011914de",
 "edgeLabel": "The two named partners in Brookhaven Science Associates LLC",
 "id": "battelle",
 "l0": true,
@@ -61,6 +67,7 @@
 "dateEnd": "2030-01-04",
 "dateStart": "1999-10-15",
 "direction": "out",
+"edgeId": "e-68bfd6351e",
 "edgeLabel": "DOE is the contracting agency for both Brookhaven management-and-operating contracts",
 "id": "doe",
 "l0": true,
@@ -116,7 +123,7 @@
 ],
 "sub": "SUNY campus; one of the two named partners in Brookhaven Science Associates LLC, which holds the DOE contract for Brookhaven National Laboratory",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 783 of 1170, score 22). 2 connections, 1 of them custody/funding/programmatic. Axes C0/A1/D0.",
+"tierRationale": "Re-graded C on a global pass (rank 766 of 1138, score 22). 2 connections, 1 of them custody/funding/programmatic. Axes C0/A1/D0.",
 "timeline": [],
 "unverified": []
 }

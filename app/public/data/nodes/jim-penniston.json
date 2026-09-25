@@ -26,11 +26,13 @@
 ],
 "claims": [
 {
+"id": "c-f136bea9e3",
 "source": "James Penniston, repeated public statements and interviews from the 1990s onward",
 "text": "Penniston states he physically touched the object and that it was warm, smooth and bore raised symbols on its surface.",
 "tier": 2
 },
 {
+"id": "c-5cb4bdfa7b",
 "source": "Penniston notebook, reproduced by researchers; discussed in BBC 40th-anniversary coverage, 26 Dec 2020",
 "text": "Penniston's contemporaneous notebook records the phrase 'craft of unknown origin.'",
 "tier": 2
@@ -48,6 +50,7 @@
 "dateEnd": "1980",
 "dateStart": "1980",
 "direction": "out",
+"edgeId": "e-2febb4fdd5",
 "edgeLabel": "First responder, 26 December 1980",
 "id": "rendlesham-1980",
 "l0": true,
@@ -120,7 +123,7 @@
 "status": "active",
 "sub": "USAF SSgt, 81st Security Police Squadron; first responder, Rendlesham 26 Dec 1980",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 842 of 1170, score 20). 1 connections, 0 of them custody/funding/programmatic. Axes C2/A1/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 823 of 1138, score 20). 1 connections, 0 of them custody/funding/programmatic. Axes C2/A1/D2.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": [

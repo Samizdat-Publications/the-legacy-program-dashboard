@@ -5,16 +5,19 @@
 "band": null,
 "claims": [
 {
+"id": "c-680997bc65",
 "source": "https://defensescoop.com/2026/03/18/white-house-registers-new-alien-gov-domains-ufo-uap/",
 "text": "alien.gov and aliens.gov were registered by the White House on the evening of 17 March 2026; neither was connected to an active website as of 18 March 2026.",
 "tier": 2
 },
 {
+"id": "c-1aaf5bc83f",
 "source": "https://defensescoop.com/2026/03/18/white-house-registers-new-alien-gov-domains-ufo-uap/",
 "text": "White House spokeswoman Anna Kelly's comment on the registrations: 'Stay tuned!' with an alien emoji. CISA's Chris Butera: 'CISA does not generally review or audit how government organizations use their registered domains.'",
 "tier": 2
 },
 {
+"id": "c-12cb451ebd",
 "source": "https://www.war.gov/UFO/",
 "text": "The registered domains were not used for the release programme, which launched on war.gov/UFO on 8 May 2026. Reasoning: the war.gov portal is the sole publication surface for all five tranches and alien.gov/aliens.gov remain unconnected.",
 "tier": 3
@@ -30,6 +33,7 @@
 "dateEnd": "2026-05-08",
 "dateStart": "2026-03-17",
 "direction": "out",
+"edgeId": "e-8c0f7b4070",
 "edgeLabel": "contemplated branding not used",
 "id": "pursue-releases",
 "l0": true,
@@ -90,7 +94,7 @@
 ],
 "sub": "Registered by the White House; no active sites as of reporting",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 1134 of 1170, score 10). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 1103 of 1138, score 10). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.",
 "timeline": [
 {
 "claimTier": 2,

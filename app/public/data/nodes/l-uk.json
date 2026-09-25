@@ -5,11 +5,13 @@
 "band": null,
 "claims": [
 {
+"id": "c-e1694c6a59",
 "source": "UK MoD / National Archives release record",
 "text": "The UK Ministry of Defence closed its UFO desk in December 2009 and released its UFO file series to the National Archives.",
 "tier": 1
 },
 {
+"id": "c-b8a017a34f",
 "source": "Board bookkeeping",
 "text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
 "tier": 3
@@ -25,6 +27,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-dde6788a41",
 "edgeLabel": "UK-commissioned study of its own air defence region",
 "id": "doc-condign-report",
 "l0": true,
@@ -51,6 +54,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-61cd7d9b46",
 "edgeLabel": "incident location: Rendlesham Forest, Suffolk",
 "id": "rendlesham-1980",
 "l0": true,
@@ -120,7 +124,7 @@
 ],
 "sub": "Sovereign state; the fullest official UFO file release by any government",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 801 of 1170, score 22). 2 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 783 of 1138, score 22). 2 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D3.",
 "timeline": [],
 "unverified": []
 }

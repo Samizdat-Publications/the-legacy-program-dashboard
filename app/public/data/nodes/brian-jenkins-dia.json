@@ -16,16 +16,19 @@
 ],
 "claims": [
 {
+"id": "c-93e717ad90",
 "source": "DIA letter to Senate Armed Services Committee, 9 January 2018",
 "text": "Jenkins, as Chief of Records Management and Information Services at DIA, signed the 9 January 2018 letter to Senators McCain and Reed listing all 38 products produced under the program.",
 "tier": 1
 },
 {
+"id": "c-7c0ce66dfb",
 "source": "DIA letter to SASC, 9 January 2018",
 "text": "The letter states: 'The purpose of AATIP was to investigate foreign advanced aerospace weapon threats from the present out to the next 40 years.'",
 "tier": 1
 },
 {
+"id": "c-be304e0440",
 "source": "Inference from the letter's existence, date and addressees",
 "text": "That the Senate Armed Services Committee needed a records officer to send it a basic product list in 2018 indicates the committee had no prior visibility on a program funded from 2008, which is the structural failure the appropriations route was designed to produce.",
 "tier": 3
@@ -41,6 +44,7 @@
 "dateEnd": "2018",
 "dateStart": "2018",
 "direction": "out",
+"edgeId": "e-be33e63ad5",
 "edgeLabel": "signed the transmittal to the Senate Armed Services Committee",
 "id": "dia-aatip-letter-2018",
 "l0": false,
@@ -103,7 +107,7 @@
 "status": "former",
 "sub": "Chief, Records Management and Information Services, Defense Intelligence Agency",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 996 of 1170, score 15). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 967 of 1138, score 15). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": []

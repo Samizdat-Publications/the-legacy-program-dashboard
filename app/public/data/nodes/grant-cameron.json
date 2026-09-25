@@ -22,11 +22,13 @@
 ],
 "claims": [
 {
+"id": "c-5a74f5dce4",
 "source": "presidentialufo.com holdings and Cameron's own statements of method",
 "text": "Cameron's presidential-briefing research is built from FOIA requests to presidential libraries and executive agencies rather than from witness testimony, and he publishes null returns alongside positive ones.",
 "tier": 2
 },
 {
+"id": "c-a7c6519a21",
 "source": "Inference from the structure of presidential records law",
 "text": "Cameron's archive is the most directly relevant body of research to the question of whether presidents have been read in, because a presidential library FOIA null return is itself a datum with a docket number, whereas a witness denial is not. Reasoning: the executive-branch record is one of very few parts of this domain with a mandatory logging regime.",
 "tier": 3
@@ -44,6 +46,7 @@
 "dateEnd": "2026",
 "dateStart": "2003",
 "direction": "out",
+"edgeId": "e-9876520bd4",
 "edgeLabel": "Two FOIA-first approaches to the same concealment question",
 "id": "leslie-kean",
 "l0": false,
@@ -106,7 +109,7 @@
 "status": "active",
 "sub": "Canadian researcher; presidential UFO briefings; presidentialufo.com",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 1151 of 1170, score 8). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 1119 of 1138, score 8). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": [

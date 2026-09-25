@@ -17,11 +17,13 @@
 ],
 "claims": [
 {
+"id": "c-5fa734778e",
 "source": "https://www.war.gov/News/Releases/Release/Article/4437252/statement-by-chief-pentagon-spokesman-sean-parnell-on-strengthening-the-effecti/",
 "text": "A Department of War release dated 18 March 2026 names Sean Parnell as 'Chief Pentagon Spokesman' in its own title: 'Statement by Chief Pentagon Spokesman Sean Parnell on ‘Strengthening the Effectiveness of Our Senior Service Colleges’'.",
 "tier": 1
 },
 {
+"id": "c-6b2b1b989b",
 "source": "Sean Parnell, quoted by DefenseScoop, 20 February 2026",
 "text": "The department 'looks forward to working with the interagency to fulfill the president's directive.'",
 "tier": 2
@@ -37,6 +39,7 @@
 "dateEnd": "2026",
 "dateStart": "2026",
 "direction": "out",
+"edgeId": "e-16626a610a",
 "edgeLabel": "First departmental acknowledgement of the directive",
 "id": "trump-uap-release-directive-2026",
 "l0": false,
@@ -49,7 +52,7 @@
 "url": "https://defensescoop.com/2026/02/20/trump-ufo-uap-government-files-disclosure/"
 }
 ],
-"tier": "B",
+"tier": "A",
 "type": "institutional"
 }
 ],
@@ -98,7 +101,7 @@
 "status": "active",
 "sub": "Chief Pentagon Spokesman",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 1091 of 1170, score 11). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D1.",
+"tierRationale": "Re-graded C on a global pass (rank 1060 of 1138, score 11). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D1.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": []

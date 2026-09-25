@@ -37,16 +37,19 @@
 ],
 "claims": [
 {
+"id": "c-a871261379",
 "source": "Brigadeiro Octávio Júlio Moreira Lima, press conference, Brasília, 23 May 1986, quoted by BBC Brasil, 14 January 2022",
 "text": "'Não se trata de acreditar ou não [em seres extraterrestres ou em discos voadores]. Só podemos dar informações técnicas. As suposições são várias. Tecnicamente, diria aos senhores que não temos explicação.'",
 "tier": 2
 },
 {
+"id": "c-39782d203e",
 "source": "André Bernardo, BBC Brasil, 14 January 2022",
 "text": "The press conference was held at 16:30 on 23 May 1986, attended by the five FAB pilots and the air traffic controllers on duty that night; the minister said the episode would be investigated and a full dossier released within 30 days.",
 "tier": 2
 },
 {
+"id": "c-e06225d3fb",
 "source": "BBC Brasil, 14 January 2022",
 "text": "Moreira Lima's dates are given as 1926-2011.",
 "tier": 2
@@ -62,6 +65,7 @@
 "dateEnd": "1986-06-02",
 "dateStart": "1986-05-23",
 "direction": "out",
+"edgeId": "e-8268e44c49",
 "edgeLabel": "The classified report was produced inside the ministry ten days after his public 'no explanation'",
 "id": "doc-fab-1986-report",
 "l0": false,
@@ -98,6 +102,7 @@
 "dateEnd": "1986-05-23",
 "dateStart": "1986-05-23",
 "direction": "out",
+"edgeId": "e-e6ce9f04c9",
 "edgeLabel": "held the 23 May 1986 press conference stating the Air Force had no explanation",
 "id": "ev-noite-ovnis-1986",
 "l0": false,
@@ -119,6 +124,7 @@
 "dateEnd": "1990",
 "dateStart": "1985",
 "direction": "in",
+"edgeId": "e-aa8f9075a2",
 "edgeLabel": "Moreira Lima was Minister of Aeronautics, the FAB's own political head",
 "id": "fab",
 "l0": true,
@@ -150,6 +156,7 @@
 "dateEnd": "1986-05-23",
 "dateStart": "1986-05-23",
 "direction": "in",
+"edgeId": "e-ae7eaf4ee8",
 "edgeLabel": "The minister's press conference was given from the capital",
 "id": "l-brasilia",
 "l0": false,
@@ -201,6 +208,7 @@
 },
 "claimTier": 2,
 "denialKind": "directed",
+"edgeId": "e-e6ce9f04c9",
 "label": "held the 23 May 1986 press conference stating the Air Force had no explanation",
 "note": "The minister produced the five pilots and the controllers in person and promised a full dossier within 30 days that never appeared.",
 "of": {
@@ -257,7 +265,7 @@
 "status": "dead",
 "sub": "Minister of Aeronautics of Brazil; held the 23 May 1986 'Night of the UFOs' press conference",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 519 of 1170, score 30). 4 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 517 of 1138, score 30). 4 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D3.",
 "timeline": [
 {
 "claimTier": 2,

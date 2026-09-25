@@ -5,16 +5,19 @@
 "band": null,
 "claims": [
 {
+"id": "c-3a5c080b8c",
 "source": "HHRG-118-GO12 hearing transcript, 13 November 2024",
 "text": "Cleared through the Defense Office of Prepublication and Security Review over approximately one year, per Elizondo's sworn testimony: 'what is in the book is what I was told I am allowed to talk about.'",
 "tier": 2
 },
 {
+"id": "c-f32eab81cf",
 "source": "Wikipedia, Luis Elizondo, citing publisher and contemporaneous reviews",
 "text": "Published August 2024 and debuted at number one on the New York Times bestseller list; claims include recovery of non-human bodies and a decades-long secret retrieval programme.",
 "tier": 2
 },
 {
+"id": "c-8396bdf916",
 "source": "Inference from the nature of DOPSR review and the Department's post-publication response",
 "text": "A DOPSR clearance is not an endorsement of accuracy, but it is an affirmative Departmental decision that these specific assertions are not classified. Either the assertions are false, or they are true and unclassified — and the Department has never explained which.",
 "tier": 3
@@ -30,6 +33,7 @@
 "dateEnd": "2024",
 "dateStart": "2023",
 "direction": "out",
+"edgeId": "e-d0383fe3f4",
 "edgeLabel": "Manuscript reviewed and cleared by the Department's prepublication office",
 "id": "dopsr",
 "l0": false,
@@ -51,6 +55,7 @@
 "dateEnd": "2024",
 "dateStart": "2023",
 "direction": "in",
+"edgeId": "e-4c0553ae31",
 "edgeLabel": "Author; DOPSR review took approximately one year",
 "id": "luis-elizondo",
 "l0": false,
@@ -106,7 +111,7 @@
 ],
 "sub": "Luis Elizondo, William Morrow/HarperCollins, August 2024; DOPSR-cleared",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 532 of 1170, score 30). 2 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 530 of 1138, score 30). 2 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D3.",
 "timeline": [
 {
 "claimTier": null,

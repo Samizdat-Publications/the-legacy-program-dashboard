@@ -5,6 +5,7 @@
 "band": null,
 "claims": [
 {
+"id": "c-e698c82105",
 "source": "Wikipedia navigation template 'Studies and timeline', Project Condign article — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "text": "The Flying Saucer Working Party (1950) appears in the standard chronology of official investigations alongside Project Sign (1948), Project Grudge (1949), Project Magnet (1950-1962) and Project Second Storey (1952-1954).",
 "tier": 2
@@ -20,6 +21,7 @@
 "dateEnd": "1951-06",
 "dateStart": "1950",
 "direction": "out",
+"edgeId": "e-4aa285b57a",
 "edgeLabel": "first British body on the question, 1950-1951",
 "id": "uk-mod",
 "l0": false,
@@ -70,7 +72,7 @@
 ],
 "sub": "UK Ministry of Defence Directorate of Scientific Intelligence / JTIC study group, 1950-1951",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 1059 of 1170, score 13). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 1029 of 1138, score 13). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D2.",
 "timeline": [
 {
 "claimTier": 2,

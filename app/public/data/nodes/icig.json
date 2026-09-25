@@ -5,11 +5,13 @@
 "band": null,
 "claims": [
 {
+"id": "c-b19d0fe80f",
 "source": "Grusch sworn testimony, 26 July 2023; The Debrief, 5 June 2023",
 "text": "Determined Grusch's PPD-19 urgent-concern complaint credible and urgent in July 2022.",
 "tier": 1
 },
 {
+"id": "c-75d08ecf83",
 "source": "Contemporaneous reporting, January 2024",
 "text": "Briefed House Oversight subcommittee members in closed session on UAP transparency on 13 January 2024; members publicly reported learning nothing new.",
 "tier": 1
@@ -25,6 +27,7 @@
 "dateEnd": null,
 "dateStart": "2022",
 "direction": "out",
+"edgeId": "e-84c61e5c3d",
 "edgeLabel": "Irreconcilable executive-branch findings on the same allegations",
 "id": "aaro",
 "l0": true,
@@ -51,6 +54,7 @@
 "dateEnd": "2022",
 "dateStart": "2022",
 "direction": "out",
+"edgeId": "e-83b775741d",
 "edgeLabel": "Determined the complaint credible and urgent, July 2022",
 "id": "grusch-icig-complaint",
 "l0": false,
@@ -77,6 +81,7 @@
 "dateEnd": null,
 "dateStart": "2021",
 "direction": "in",
+"edgeId": "e-35fcaff806",
 "edgeLabel": "Inspector General of the Intelligence Community, 2021-present",
 "id": "thomas-monheim",
 "l0": false,
@@ -110,6 +115,7 @@
 "by": null,
 "claimTier": 3,
 "denialKind": "association",
+"edgeId": "e-84c61e5c3d",
 "label": "Irreconcilable executive-branch findings on the same allegations",
 "note": "The ICIG found the complaint credible and urgent in July 2022; AARO found no verifiable information from June 2023 and no firsthand knowledge in March 2024. Both are executive-branch determinations on the same body of allegations, and neither has been formally reconciled on the public record. Reasoning: no document exists in which either office addresses the other's finding.",
 "of": null,
@@ -167,7 +173,7 @@
 ],
 "sub": "Statutory IC watchdog, ODNI",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 455 of 1170, score 32). 3 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 454 of 1138, score 32). 3 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D3.",
 "timeline": [
 {
 "claimTier": null,

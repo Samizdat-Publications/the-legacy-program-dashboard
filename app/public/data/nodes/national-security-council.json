@@ -5,21 +5,25 @@
 "band": null,
 "claims": [
 {
+"id": "c-bb725f8168",
 "source": "50 U.S.C. 3021(b)(1), https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3021&num=0&edition=prelim",
 "text": "The statutory purpose has not changed since 1947. 50 U.S.C. 3021(b)(1) still states the Council's function as being 'to advise the President with respect to the integration of domestic, foreign, and military policies relating to the national security'.",
 "tier": 1
 },
 {
+"id": "c-8b001b1ade",
 "source": "50 U.S.C. 3021 source credit, https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3021&num=0&edition=prelim",
 "text": "The source credit on the codified section traces the Council to 'July 26, 1947, ch. 343, title I, Sec. 101, 61 Stat. 496', with the first amendment at 'Aug. 10, 1949, ch. 412, Sec. 3, 63 Stat. 579'.",
 "tier": 1
 },
 {
+"id": "c-403be7a42e",
 "source": "50 U.S.C. 3021(a) and (c)(2), https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3021&num=0&edition=prelim",
 "text": "THE DIRECTOR OF CENTRAL INTELLIGENCE WAS NEVER A STATUTORY MEMBER, AND THE INTELLIGENCE CHIEF STILL IS NOT. The 1947 membership was the President, the Secretaries of State and Defense, the Secretaries of the Army, Navy and Air Force, and the Chairman of the National Security Resources Board. Today subsection (c)(2) makes the Director of National Intelligence and the Chairman of the Joint Chiefs of Staff attendees the President MAY designate, not members. A body that approves covert action has never been required by statute to seat the person running intelligence.",
 "tier": 1
 },
 {
+"id": "c-3618e1040b",
 "source": "50 U.S.C. 3021(e)(3), https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3021&num=0&edition=prelim",
 "text": "Subsection (e)(3) caps the Council's professional staff at 200.",
 "tier": 1
@@ -35,6 +39,7 @@
 "dateEnd": null,
 "dateStart": "1972-06-01",
 "direction": "in",
+"edgeId": "e-d4fa337aaf",
 "edgeLabel": "Lodges classification oversight in the Council",
 "id": "eo-11652",
 "l0": false,
@@ -56,6 +61,7 @@
 "dateEnd": null,
 "dateStart": "1978-01-24",
 "direction": "in",
+"edgeId": "e-b3dd3dbc45",
 "edgeLabel": "Routes every special activity to the President through an NSC committee",
 "id": "eo-12036",
 "l0": false,
@@ -77,6 +83,7 @@
 "dateEnd": null,
 "dateStart": "1947-07-26",
 "direction": "in",
+"edgeId": "e-4a1c824bec",
 "edgeLabel": "Section 101 creates the Council",
 "id": "national-security-act-1947",
 "l0": false,
@@ -98,6 +105,7 @@
 "dateEnd": null,
 "dateStart": "1964-06-02",
 "direction": "in",
+"edgeId": "e-f0f41b78f3",
 "edgeLabel": "Signed by the President's national security adviser, not by the President",
 "id": "nsam-303",
 "l0": false,
@@ -119,6 +127,7 @@
 "dateEnd": null,
 "dateStart": "1954-03-15",
 "direction": "in",
+"edgeId": "e-e667505860",
 "edgeLabel": "Issued by the Council and approved by the President the same day",
 "id": "nsc-5412",
 "l0": false,
@@ -140,6 +149,7 @@
 "dateEnd": null,
 "dateStart": "1985-01-18",
 "direction": "in",
+"edgeId": "e-2234ce41b1",
 "edgeLabel": "Puts the only record copies in one NSC officer's hands",
 "id": "nsdd-159",
 "l0": false,
@@ -190,7 +200,7 @@
 ],
 "sub": "Statutory body, 1947; the approving authority for covert action and the issuer of the NSC directive series",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 667 of 1170, score 26). 6 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D1.",
+"tierRationale": "Re-graded C on a global pass (rank 657 of 1138, score 26). 6 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D1.",
 "timeline": [],
 "unverified": []
 }

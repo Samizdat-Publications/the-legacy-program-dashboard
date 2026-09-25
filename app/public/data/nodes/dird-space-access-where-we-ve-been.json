@@ -5,36 +5,43 @@
 "band": null,
 "claims": [
 {
+"id": "c-ad937732c1",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237648/",
 "text": "Defense Intelligence Reference Document titled \"Space Access: Where We've Been and Where We Could Go\", series \"Acquisition Threat Support\", published 2010-03-08 with an Intelligence Cut-Off Date (ICOD) of 2009-12-01, DIA document number DIA-08-1001-006. Released by DIA under FOIA and posted in the DIA FOIA Electronic Reading Room.",
 "tier": 1
 },
 {
+"id": "c-2815d7c58c",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237648/",
 "text": "Inside cover reads: \"This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency [redacted b(3) 10 USC 424] Advanced Aerospace Weapon System Applications (AAWSA) Program\" and directs questions to the \"AAWSA Program Manager, Defense Intelligence Agency, ATTN: [redacted], Bldg 6000, Washington, DC 20340-5100\".",
 "tier": 1
 },
 {
+"id": "c-d7562738a0",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237648/",
 "text": "Author name is withheld in the DIA-released copy under FOIA exemption (b)(6); the \"Prepared by:\" line is withheld under (b)(3) 10 USC 424. The released cover therefore does not attribute the DIRD to a named author.",
 "tier": 1
 },
 {
+"id": "c-5c670ba125",
 "source": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "text": "Author of record per the DIA letter of 9 January 2018 to the Senate Armed Services Committee, item 4: \"Space Access, Dr P Czysz, HyperTech.\"",
 "tier": 2
 },
 {
+"id": "c-d4c7dda74b",
 "source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_06-DIRD_Space_Access-Where_Weve_Been_and_Where_We_Could_Go.pdf",
 "text": "The released cover page reads \"March 2010 / ICOD: 1 December 2009 / DIA-08-1001-006,\" series \"Acquisition Threat Support,\" full title \"Space Access: Where We've Been ... and Where We Could Go.\"",
 "tier": 1
 },
 {
+"id": "c-d9a77af951",
 "source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_06-DIRD_Space_Access-Where_Weve_Been_and_Where_We_Could_Go.pdf",
 "text": "Inside cover administrative note: \"This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency [redacted] Advanced Aerospace Weapon System Applications (AAWSA) Program.\" The author line reads \"Author: [redacted (b)(6)].\"",
 "tier": 1
 },
 {
+"id": "c-cfcd1c2b3d",
 "source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_06-DIRD_Space_Access-Where_Weve_Been_and_Where_We_Could_Go.pdf",
 "text": "Contents are conventional hypersonics and launch engineering: propulsion perspective, hypersonic configuration concepts, thermodynamics and materials, rocket propulsion, launch options, atmospheric variations, and appendices on transatmospheric vehicle operational costs and landing ellipses for hypersonic gliders. No anomalous-physics content.",
 "tier": 1
@@ -50,6 +57,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-b8d7d680d4",
 "edgeLabel": "FY2009 AAWSAP deliverable",
 "id": "aawsap",
 "l0": true,
@@ -76,6 +84,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-353e15ee6a",
 "edgeLabel": "published by DIA as DIA-08-1001-006, Acquisition Threat Support series",
 "id": "dia",
 "l0": true,
@@ -102,6 +111,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-7e5bedd578",
 "edgeLabel": "DIRD",
 "id": "dird-series",
 "l0": true,
@@ -123,6 +133,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-cd07471ac9",
 "edgeLabel": "series member",
 "id": "dird-series",
 "l0": true,
@@ -149,6 +160,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-a4d473a7b9",
 "edgeLabel": "author of record on the DIA list",
 "id": "paul-czysz",
 "l0": false,
@@ -246,7 +258,7 @@
 ],
 "sub": "defense-intelligence-reference-document",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 487 of 1170, score 31). 5 connections, 2 of them custody/funding/programmatic. Axes C0/A0/D0.",
+"tierRationale": "Re-graded B on a global pass (rank 485 of 1138, score 31). 5 connections, 2 of them custody/funding/programmatic. Axes C0/A0/D0.",
 "timeline": [],
 "unverified": []
 }

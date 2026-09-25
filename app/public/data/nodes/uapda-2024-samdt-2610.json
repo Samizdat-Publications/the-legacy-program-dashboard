@@ -5,21 +5,25 @@
 "band": null,
 "claims": [
 {
+"id": "c-ad69f9949d",
 "source": "Congressional Record, 11 July 2024, text of SA 2610, GPO",
 "text": "S.Amdt. 2610 was submitted 11 July 2024 by 'Mr. ROUNDS (for himself and Mr. Schumer)' to S. 4638 and 'was ordered to lie on the table.'",
 "tier": 1
 },
 {
+"id": "c-74e283bf7f",
 "source": "Congressional Record, 11 July 2024, SA 2610, Sec. __10(a), GPO",
 "text": "The 2024 text retains the eminent domain command verbatim at Sec. __10(a).",
 "tier": 1
 },
 {
+"id": "c-e663ecf4dc",
 "source": "P.L. 118-159 full text, GPO",
 "text": "P.L. 118-159, the FY2025 NDAA enacted 23 December 2024, contains no UAP disclosure division; its only UAP provisions are Secs. 6801 and 6802 of the Intelligence Authorization Act for FY2025.",
 "tier": 1
 },
 {
+"id": "c-3c60b0c200",
 "source": "Comparison of the SA 797 cosponsor record with the SA 2610 caption",
 "text": "Only two senators' names appear on the 2024 refiling, against six on the 2023 original; Rubio, Gillibrand, Young and Heinrich are not on it.",
 "tier": 1
@@ -35,6 +39,7 @@
 "dateEnd": "2024",
 "dateStart": "2024",
 "direction": "out",
+"edgeId": "e-e6238b23e3",
 "edgeLabel": "Never called up; FY2025 enacted with no disclosure regime",
 "id": "iaa-fy2025-title-lxviii",
 "l0": false,
@@ -61,6 +66,7 @@
 "dateEnd": "2025",
 "dateStart": "2024",
 "direction": "in",
+"edgeId": "e-1371bca480",
 "edgeLabel": "Absent from the 2024 refiling; left the Senate January 2025",
 "id": "marco-rubio",
 "l0": false,
@@ -82,6 +88,7 @@
 "dateEnd": "2024",
 "dateStart": "2024",
 "direction": "in",
+"edgeId": "e-0674cccc32",
 "edgeLabel": "Lead sponsor of the 2024 refiling",
 "id": "mike-rounds",
 "l0": false,
@@ -108,6 +115,7 @@
 "dateEnd": "2024",
 "dateStart": "2024",
 "direction": "out",
+"edgeId": "e-bf9b3d48ed",
 "edgeLabel": "Verbatim refiling of the 2023 text",
 "id": "uapda-2023",
 "l0": true,
@@ -146,6 +154,7 @@
 "by": null,
 "claimTier": 1,
 "denialKind": "undirected",
+"edgeId": "e-e6238b23e3",
 "label": "Never called up; FY2025 enacted with no disclosure regime",
 "note": "The amendment was 'ordered to lie on the table' and received no vote; P.L. 118-159's only UAP content is a GAO review and a sunset on audit briefings.",
 "of": null,
@@ -202,7 +211,7 @@
 ],
 "sub": "Filed 11 July 2024; ordered to lie on the table; never called up",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 283 of 1170, score 40). 4 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A2/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 286 of 1138, score 40). 4 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A2/D3.",
 "timeline": [
 {
 "claimTier": null,

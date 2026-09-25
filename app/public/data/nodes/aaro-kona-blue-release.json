@@ -5,16 +5,19 @@
 "band": null,
 "claims": [
 {
+"id": "c-b6a8e5a712",
 "source": "AARO UAP Records page, accessed 12 August 2026",
 "text": "AARO's UAP Records page hosts a DHS KONA BLUE information release describing a proposed but never-approved programme concerning 'non-human biologics'.",
 "tier": 1
 },
 {
+"id": "c-93f9253ce9",
 "source": "AARO Historical Record Report Volume I",
 "text": "Volume I concluded that no extraterrestrial craft or bodies were ever collected and that the material 'was only assumed to exist by KONA BLUE advocates.'",
 "tier": 1
 },
 {
+"id": "c-8b8016409c",
 "source": "Inference from AARO's published UAP Records holdings against Volume I's own concessions",
 "text": "AARO has published a dedicated documentary package for a programme that was rejected and none for the IC controlled access programme it concedes was expanded in 2021 to a UAP reverse-engineering mission, which is a selection pattern rather than a records-availability pattern.",
 "tier": 3
@@ -30,6 +33,7 @@
 "dateEnd": null,
 "dateStart": "2024",
 "direction": "in",
+"edgeId": "e-67870031ea",
 "edgeLabel": "A dedicated documentary package for a rejected programme",
 "id": "aaro",
 "l0": true,
@@ -56,6 +60,7 @@
 "dateEnd": null,
 "dateStart": "2024-06",
 "direction": "in",
+"edgeId": "e-9093040a76",
 "edgeLabel": "DHS co-authored the 2024 declassified KONA BLUE history",
 "id": "dhs",
 "l0": false,
@@ -132,7 +137,7 @@
 ],
 "sub": "AARO UAP Records research release on the never-approved DHS SAP",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 555 of 1170, score 29). 2 connections, 1 of them custody/funding/programmatic. Axes C1/A3/D2.",
+"tierRationale": "Re-graded B on a global pass (rank 552 of 1138, score 29). 2 connections, 1 of them custody/funding/programmatic. Axes C1/A3/D2.",
 "timeline": [],
 "unverified": []
 }

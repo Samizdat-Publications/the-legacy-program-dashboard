@@ -5,51 +5,61 @@
 "band": "custody",
 "claims": [
 {
+"id": "c-1f56a21dae",
 "source": "Justiça Federal, Seção Judiciária de Santa Catarina, Recurso Cível n. 5002417-48.2022.4.04.7200/SC, Relator Juiz Federal João Batista Lazzari, RELVOTO, signed 27/2/2023, quoting Comando de Operações Aéreas/COMAER contestation, evento 13, ANEXO2 (https://www.migalhas.com.br/arquivos/2026/1/7F5E4CC12D7AE7_terceiraacao.pdf)",
 "text": "Arquivo Nacional's own response to a litigant, quoted verbatim in the federal court record: 'Em pesquisa no SIAN, usando o termo \"operação prato\", retornam 6 (seis) documentos. Em nenhum deles há documentos de caráter audiovisual.' The catalogue therefore yields six items under that search term and no audiovisual material. NO ITEM-LEVEL SIAN REFERENCE CODES FOR THESE SIX WERE OBTAINABLE - see 'unresolved'.",
 "tier": 1
 },
 {
+"id": "c-ffccefc378",
 "source": "Câmara dos Deputados, Requerimento de Informações (RIC) 679/2011, Dep. Chico Alencar (PSOL/RJ), 22 June 2011, item 1.2 (https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=891762&filename=RIC+679%2F2011)",
 "text": "The operation's commander is named in a Chamber of Deputies information requirement as 'coronel Uyrangê Bolivar Soares Nogueira de Hollanda Lima', described as having narrated the missing film and photographic material to ufologists 'antes de sua morte em 1997'. This fixes both the full name and the 1997 death in a primary parliamentary document.",
 "tier": 1
 },
 {
+"id": "c-2bf23a0357",
 "source": "Câmara dos Deputados, RIC 679/2011, item 1.2, 22 June 2011",
 "text": "RIC 679/2011 records that material was withheld from the National Archives transfer: 'Estão faltando centenas de fotografias de um total de mais de 500 - só foram fornecidas aproximadamente 230 -, várias horas de filmes de OVNIs em películas super 8 e super 16 mm', and that the original I COMAR reports - 'bem mais detalhados do que o \"resumo de todos os casos de OVNIs de que o SINDACTA I participou\"' - were not sent to the Arquivo Nacional's Coordenação Regional no Distrito Federal (COREG).",
 "tier": 1
 },
 {
+"id": "c-b17d99d464",
 "source": "Câmara dos Deputados, RIC 679/2011, items 1.1 and 1.2, 22 June 2011",
 "text": "Archival unit designation attested in a parliamentary document: the summary of SINDACTA I UFO cases sent to COMDABRA is recorded 'no Envelope nº. 10 da década de 1970'. The related petition is Processo nº 60.000.000026/2008-45 ('Dossiê UFO BRASIL'), filed at the Ministério da Defesa on 2 January 2008; the Operação Prato film material is its item 'j'.",
 "tier": 1
 },
 {
+"id": "c-dadf9b557e",
 "source": "Câmara dos Deputados, RIC 679/2011, item 1.2, 22 June 2011",
 "text": "Brigadeiro Protázio Lopes de Oliveira is identified in the same parliamentary document as 'Chefe do I COMAR à época da Operação', placing the operation under the 1º Comando Aéreo Regional in Belém/PA, 1977-1978.",
 "tier": 1
 },
 {
+"id": "c-51c573b13c",
 "source": "Justiça Federal SC, Recurso Cível n. 5002417-48.2022.4.04.7200/SC, RELVOTO, 27/2/2023",
 "text": "A federal suit to compel declassification of Operação Prato films (Rafael Zatarian Pederneiras v. União) was dismissed and the dismissal upheld on 27 February 2023. The court held that the claim of surviving FAB UFO films 'tem lastro especialmente em matérias jornalísticas e relatos de testemunhas, de modo que não constituem indícios suficientes quanto à existência de tais arquivos', and applied the presumption of veracity to the Administration's statement that the surviving records are no longer classified and are held by the Arquivo Nacional.",
 "tier": 1
 },
 {
+"id": "c-ae62b8be1a",
 "source": "Senado Federal, Requerimento nº 193, de 2022 (RQS 193/2022), Sen. Eduardo Girão et al., justificação; Diário do Senado Federal nº 32 de 2022; approved in plenary 24/06/2022 (https://legis.senado.leg.br/sdleg-getter/documento?dm=9089831&ts=1647523438292&disposition=inline)",
 "text": "The Senado Federal, in a requerimento approved by the Plenary on 24 June 2022, lists Operação Prato among official Brazilian government UFO research programmes: 'Desde 1954, o Governo Brasileiro, por meio de sua Aeronáutica, já criou vários programas oficiais de pesquisas dos OVNIs, como em 1977, quando ocorreu a chamada Operação Prato'. This is a primary legislative characterisation, not an independent finding of fact.",
 "tier": 1
 },
 {
+"id": "c-09b625e643",
 "source": "Wikipedia 'Operação Prato' infobox, sourced to ISTOÉ, Folha de S. Paulo, Veja and O Estado de S. Paulo",
 "text": "Operation dates: first phase 20 October - 11 November 1977; second phase 25 November - 5 December 1977; executed by the Brazilian Air Force and the National Information Service; 'Operation found no unusual phenomena'.",
 "tier": 2
 },
 {
+"id": "c-32cac62e8f",
 "source": "Wikipedia 'Operação Prato', citing the Information System of the National Archive, Brazil",
 "text": "'The official documents can be obtained from the Brazilian National Archives (Arquivo Nacional).'",
 "tier": 2
 },
 {
+"id": "c-7a54f09597",
 "source": "Jacques Vallée, Confrontations: A Scientist's Search for Alien Contact (Ballantine, 1990), p.134",
 "text": "Jacques Vallée reported that individuals were said to have been killed by the lights and that injuries were consistent with radiation effects from microwaves.",
 "tier": 2
@@ -65,6 +75,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-bc4bf662a9",
 "edgeLabel": "A DIA-funded US programme built a database of the Brazilian Air Force's own case wave",
 "id": "aawsap",
 "l0": true,
@@ -101,6 +112,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-1a5c611de7",
 "edgeLabel": "SIAN search 'operação prato' returns 6 documents, none audiovisual",
 "id": "arquivo-nacional-ufo",
 "l0": true,
@@ -132,6 +144,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-a1b5085ccb",
 "edgeLabel": "",
 "id": "arquivo-nacional-ufo",
 "l0": true,
@@ -158,6 +171,7 @@
 "dateEnd": "2009-10",
 "dateStart": "2009-03",
 "direction": "out",
+"edgeId": "e-f709769690",
 "edgeLabel": "BAASS sent teams to Brazil in 2009 and reported on Colares to its DIA sponsor",
 "id": "baass",
 "l0": true,
@@ -199,6 +213,7 @@
 "dateEnd": "1978",
 "dateStart": "1977-10-20",
 "direction": "in",
+"edgeId": "e-560d363cb9",
 "edgeLabel": "The Brazilian Air Force mounted Operação Prato as its own field operation",
 "id": "fab",
 "l0": true,
@@ -235,6 +250,7 @@
 "dateEnd": "1988-07",
 "dateStart": "1988-07",
 "direction": "out",
+"edgeId": "e-56585e150b",
 "edgeLabel": "Vallee was shown the Prato military file at First Air Force headquarters in 1988",
 "id": "jacques-vallee",
 "l0": false,
@@ -266,6 +282,7 @@
 "dateEnd": "1978",
 "dateStart": "1977-10-20",
 "direction": "in",
+"edgeId": "e-54a3ebc48d",
 "edgeLabel": "Operação Prato was run on Colares, Pará, in northern Brazil",
 "id": "l-brazil",
 "l0": false,
@@ -292,6 +309,7 @@
 "dateEnd": "1990",
 "dateStart": "1977",
 "direction": "out",
+"edgeId": "e-6808fbde97",
 "edgeLabel": "COMPARISON: two military UAP field-collection programmes that ended in publication rather than burial",
 "id": "setka-program",
 "l0": true,
@@ -333,6 +351,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-67615cc44e",
 "edgeLabel": "The American reporter's Prato dossier sits in Greenewald's archive",
 "id": "the-black-vault",
 "l0": true,
@@ -359,6 +378,7 @@
 "dateEnd": "1978",
 "dateStart": "1977-10-20",
 "direction": "in",
+"edgeId": "e-3b90902a6e",
 "edgeLabel": "commanded the operation",
 "id": "uyrange-hollanda",
 "l0": false,
@@ -371,7 +391,7 @@
 "url": "https://en.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Prato"
 }
 ],
-"tier": "B",
+"tier": "C",
 "type": "institutional"
 }
 ],
@@ -505,7 +525,7 @@
 "cls": "person",
 "id": "uyrange-hollanda",
 "label": "Capitão Uyrangê Bolívar Soares Nogueira de Hollanda Lima",
-"tier": "B"
+"tier": "C"
 }
 ],
 "openQuestions": [],
@@ -543,7 +563,7 @@
 ],
 "sub": "Brazilian Air Force I COMAR (Belem/PA) intelligence-section operation, Colares, Para, 1977-1978; documents held in the Arquivo Nacional Fundo OVNI, BR DFANBSB ARX",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 78 of 1170, score 70). 10 connections, 5 of them custody/funding/programmatic. Axes C2/A2/D2.",
+"tierRationale": "Re-graded A on a global pass (rank 82 of 1138, score 70). 10 connections, 5 of them custody/funding/programmatic. Axes C2/A2/D2.",
 "timeline": [
 {
 "claimTier": 2,

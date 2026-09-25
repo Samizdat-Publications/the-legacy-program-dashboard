@@ -5,16 +5,19 @@
 "band": null,
 "claims": [
 {
+"id": "c-217846b390",
 "source": "The National Archives UFO files page, June 2013",
 "text": "June 2013 final tranche file list: DEFE 24/2448/1 through DEFE 24/2465/1 and DEFE 24/2623/1 through DEFE 24/2629/1.",
 "tier": 1
 },
 {
+"id": "c-c67c8b2372",
 "source": "The National Archives UFO files page, August 2011",
 "text": "August 2011 tranche note: 'Seven files in this tranche (DEFE 31/182/1-188/1) contain copies of numerous UFO reports made by members of the public and submitted to MoD between April 1993 and July 1996. These reports are duplicates of papers from tranche #4 of the UFO files, released by The National Archives in August 2009.'",
 "tier": 1
 },
 {
+"id": "c-4c629134d2",
 "source": "The National Archives UFO files page, 2008-2013",
 "text": "Churchill epigraph carried on every version of the page: 'What does all this stuff about flying saucers amount to? What can it mean? What is the truth?' Sir Winston Churchill, July 1952, catalogue reference PREM 11/855.",
 "tier": 1
@@ -30,6 +33,7 @@
 "dateEnd": "2013-06",
 "dateStart": "2008-05",
 "direction": "in",
+"edgeId": "e-b409aee156",
 "edgeLabel": "wrote the highlights guide for every tranche",
 "id": "david-clarke-uk",
 "l0": false,
@@ -51,6 +55,7 @@
 "dateEnd": "2009-08",
 "dateStart": "2009-08",
 "direction": "out",
+"edgeId": "e-d14806602a",
 "edgeLabel": "the August 2009 tranche carried the Rendlesham material",
 "id": "ev-rendlesham-files",
 "l0": false,
@@ -72,6 +77,7 @@
 "dateEnd": "2013",
 "dateStart": "2008",
 "direction": "in",
+"edgeId": "e-4ec169d9a2",
 "edgeLabel": "fronted the publicity for the file releases",
 "id": "nick-pope",
 "l0": false,
@@ -93,6 +99,7 @@
 "dateEnd": "2013-06",
 "dateStart": "2008-05",
 "direction": "out",
+"edgeId": "e-5a028752a6",
 "edgeLabel": "released files placed in DEFE 24 and DEFE 31",
 "id": "uk-defe24",
 "l0": false,
@@ -173,7 +180,7 @@
 ],
 "sub": "Ten-tranche declassification of MoD UFO records into DEFE 24 and DEFE 31",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 694 of 1170, score 25). 4 connections, 2 of them custody/funding/programmatic. Axes C0/A0/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 683 of 1138, score 25). 4 connections, 2 of them custody/funding/programmatic. Axes C0/A0/D3.",
 "timeline": [
 {
 "claimTier": 1,

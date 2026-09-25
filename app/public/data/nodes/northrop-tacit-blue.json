@@ -5,21 +5,25 @@
 "band": null,
 "claims": [
 {
+"id": "c-f06c4bb366",
 "source": "U.S. Air Force Fact Sheet 'NORTHROP TACIT BLUE', scanned in the National Security Archive Area 51 briefing book NSAEBB443, https://nsarchive2.gwu.edu/NSAEBB/NSAEBB443/docs/area51_58.PDF , opened 2026-09-18",
 "text": "The U.S. Air Force fact sheet states: 'The Tacit Blue (Whale) aircraft was built to test the advances in stealth technology. The USAF, the Defense Advanced Research Projects Agency, and the Northrop Corp. worked together from 1978 to 1985 to demonstrate that curved surfaces on an aircraft result in a low radar return signal from ground radar.'",
 "tier": 1
 },
 {
+"id": "c-36015ba3b6",
 "source": "U.S. Air Force Fact Sheet 'NORTHROP TACIT BLUE', https://nsarchive2.gwu.edu/NSAEBB/NSAEBB443/docs/area51_58.PDF , opened 2026-09-18",
 "text": "The same fact sheet: 'The aircraft made its first flight in February 1982, and by the conclusion of the program in 1985, had flown 135 times. It had a digital fly-by-wire flight control system to help stabilize the aircraft. Tacit Blue had a single flush inlet on the top of the fuselage to provide air to its two engines. The aircraft was placed on display at the museum in May 1996.'",
 "tier": 1
 },
 {
+"id": "c-7aeeb9d53e",
 "source": "U.S. Air Force Fact Sheet 'NORTHROP TACIT BLUE', https://nsarchive2.gwu.edu/NSAEBB/NSAEBB443/docs/area51_58.PDF , opened 2026-09-18",
 "text": "The specifications on the same fact sheet: 'Span: 48 ft. 2 in. Height: 10 ft. 7 in. Length: 55 ft. 10 in. Weight: 30,000 lbs. Engines: Two Garrett ATF3-6 high-bypass turbofan engines. Armament: None.' Five pilots are named on a plaque mounted in the cockpit: Mr. Richard Thomas, Col. (Sel) Don Cornell, Lt. Col. Russ Easter, Lt. Col. Ken Dyson and Maj. Dan Vanderhorst.",
 "tier": 1
 },
 {
+"id": "c-ca8c2bfcc2",
 "source": "Reasoning over the USAF fact sheet and slides 69 to 70 of the 1998 presentation; research/leads/verified-tr3b-2026-09-18.md section 7.3",
 "text": "Stated inference, and it is recorded against the brief that asked for the opposite. No source was opened arguing that the TR-3B narrative derives from or is confused with TACIT BLUE, and the primary record argues against it: the fact sheet's defining feature is curved surfaces, the aircraft is 48 feet across against a claimed 200 to 600, and it was retired in 1985 against a craft claimed to have first flown in the early 1990s. There is no shape, size or date correspondence. The conflation the record does support is with the F-117, which is Peter Merlin's identification of the airframe in Fouche's own misattributed photograph.",
 "tier": 3
@@ -35,6 +39,7 @@
 "dateEnd": "1985",
 "dateStart": "1978",
 "direction": "out",
+"edgeId": "e-181a47c70a",
 "edgeLabel": "DARPA a named partner in the programme, 1978 to 1985",
 "id": "darpa",
 "l0": true,
@@ -56,6 +61,7 @@
 "dateEnd": "1985",
 "dateStart": "1978",
 "direction": "out",
+"edgeId": "e-4b0d85477e",
 "edgeLabel": "Northrop Corp. the airframe contractor",
 "id": "northrop-grumman",
 "l0": true,
@@ -77,6 +83,7 @@
 "dateEnd": "1996-05",
 "dateStart": "1982-02",
 "direction": "out",
+"edgeId": "e-134779a410",
 "edgeLabel": "The real black-programme aircraft of the period is 48 feet across and curved, not a 200 to 600 foot triangle",
 "id": "tr-3b",
 "l0": true,
@@ -98,6 +105,7 @@
 "dateEnd": "1996-05",
 "dateStart": "1978",
 "direction": "out",
+"edgeId": "e-a2a3fad2e6",
 "edgeLabel": "USAF a named partner and the publisher of the fact sheet",
 "id": "usaf",
 "l0": true,
@@ -131,6 +139,7 @@
 "by": null,
 "claimTier": 1,
 "denialKind": "association",
+"edgeId": "e-134779a410",
 "label": "The real black-programme aircraft of the period is 48 feet across and curved, not a 200 to 600 foot triangle",
 "note": "THIS EDGE EXISTS SPECIFICALLY TO STOP A LATER SESSION DRAWING THE SUPPORTIVE VERSION OF IT. The brief that produced this build asked for the reported analysis that the TR-3B derives from or is confused with TACIT BLUE. That analysis was searched for and NOT FOUND, and the USAF's own fact sheet argues against it: curved surfaces rather than a triangle, 48 ft 2 in span, programme concluded 1985, on public display since 1996.",
 "of": null,
@@ -172,7 +181,7 @@
 ],
 "sub": "Declassified USAF, DARPA and Northrop stealth demonstrator; first flight February 1982, 135 flights, curved rather than faceted, on museum display since 1996",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 473 of 1170, score 32). 4 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D2.",
+"tierRationale": "Re-graded B on a global pass (rank 471 of 1138, score 32). 4 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D2.",
 "timeline": [
 {
 "claimTier": null,

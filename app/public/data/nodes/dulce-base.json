@@ -5,36 +5,43 @@
 "band": null,
 "claims": [
 {
+"id": "c-96febc8a8d",
 "source": "Norio Hayakawa, 2 April 2024, reproducing the November 2015 email as published in Adam Gorightly, 'Saucers, Spooks and Kooks', Daily Grail Publishing, 3 February 2021, https://noriohayakawa.wordpress.com/2024/04/02/startling-final-confession-made-in-2015-by-the-enigmatic-tal-levesque-originator-of-the-entire-dulce-base-myth/ , opened 2026-09-19",
 "text": "THE CENTRAL FINDING. The claimed insider at the heart of the Dulce story was confessed as an invention by the man who says he invented him. Tal Levesque to Adam Gorightly, November 2015: 'You still do not get it. TEC (Thomas Edwin Castello) is a creation. A MYTH.' He described composing the two original Dulce Base articles from an account by a woman he names as Ann West mixed with his own research, and mailing a hundred large envelope packets of supporting material to authors and lecturers 'who then mixed it into their talks, articles and books'.",
 "tier": 2
 },
 {
+"id": "c-9de5cd15ae",
 "source": "Transcript of Phil Schneider's May 1995 Post Falls, Idaho lecture, https://www.difoet.dk/www.raven1.net/mcf/underground-bases.htm , and Norio Hayakawa, 29 August 2016, both opened 2026-09-19",
 "text": "THE SPECIFICATION, AND WHERE IT COMES FROM. Every specific number in the modern claim comes from one lecture, at Post Falls, Idaho on 8 May 1995, in which Phil Schneider said the base 'goes down seven levels and over 2.5 miles deep' and described a firefight in which he shot two aliens and about seventy people were killed. He was not part of the initial rumours and arrived fifteen years after they began.",
 "tier": 2
 },
 {
+"id": "c-51bb71006f",
 "source": "Norio Hayakawa, 29 August 2016, https://noriohayakawa.wordpress.com/2016/08/29/enigmatic-personalities-behind-the-initial-dulce-underground-base-rumors/comment-page-1/ , opened 2026-09-19",
 "text": "THE NAMED LOCAL NEGATIVE. Norio Hayakawa, who has worked the Dulce question since 1988 and is a proponent of investigating the subject rather than a professional debunker, states on his own site: 'it does not seem to exist'.",
 "tier": 2
 },
 {
+"id": "c-9928f94b6c",
 "source": "Brian Dunning, Skeptoid 391, 3 December 2013, https://skeptoid.com/episodes/4391 , opened 2026-09-19",
 "text": "THE IMAGERY NEGATIVE, DATED. Brian Dunning, Skeptoid episode 391 of 3 December 2013: 'It's trivial to study Google Earth images of Archuleta Mesa and see that there's nothing there at all, certainly nothing like Schneider's elaborate descriptions.' He classifies the base as fictional. Its own reference list for Dulce is a single blog post, which bounds how much weight the episode can carry.",
 "tier": 2
 },
 {
+"id": "c-609297854c",
 "source": "The Black Vault case file, John Greenewald, 1 April 2016, https://www.theblackvault.com/casefiles/leaked-underground-dulce-base-alien-photo-thomas-costello/ , opened 2026-09-19",
 "text": "THE MOST-CIRCULATED PHYSICAL 'EVIDENCE' IS A MOVIE FRAME. The photograph of bodies in a chamber, distributed for years as Castello's leaked proof, was traced by John Greenewald on 1 April 2016 to the 2000 feature film The 6th Day: it 'is, in fact, a verifiable hoax'. Tier 1 because the identification is checkable by anyone against the film.",
 "tier": 1
 },
 {
+"id": "c-0b2b398415",
 "source": "US Department of Energy Office of Legacy Management, 'Gasbuggy, New Mexico, Site' fact sheet, https://www.energy.gov/sites/default/files/2021-08/GasbuggyFactSheet.pdf , text extracted and read in full 2026-09-19",
 "text": "THE DOCUMENTED FEDERAL HOLE IN THE GROUND NEXT TO DULCE, TWELVE YEARS BEFORE THE RUMOUR. On 10 December 1967 the US Atomic Energy Commission detonated a 29-kiloton-yield nuclear device in the emplacement well GB-E at a depth of 4,227 feet, twelve miles southwest of Dulce in the Carson National Forest, on a 640-acre site now managed by the DOE Office of Legacy Management. This is a record of Project Gasbuggy. It is adjacency and precedence, and it is NOT a claim that Gasbuggy caused the rumour.",
 "tier": 1
 },
 {
+"id": "c-087afc8430",
 "source": "Inference from the November 2015 Levesque confession as reproduced by Norio Hayakawa, 2 April 2024, opened 2026-09-19",
 "text": "STATED INFERENCE, AND THE REASON THIS CLUSTER MATTERS BEYOND ITSELF. The Levesque confession describes the deliberate seeding of a hundred identical packets into independent-looking authors and lecturers, which means the many later sources that agree about Dulce agree because they were supplied from one origin by one method. This is a documented real-world instance of the board's own rule that two agents agreeing is not corroboration when they share a method. Reasoning: the inference is about what the confession implies for every downstream citation in this literature, and it should govern how any future Dulce source is graded.",
 "tier": 3
@@ -52,6 +59,7 @@
 "dateEnd": "1981",
 "dateStart": "1981",
 "direction": "in",
+"edgeId": "e-23d46b2513",
 "edgeLabel": "The claimant's own dated statement of his own claim, late 1981",
 "id": "bennewitz-project-beta-1981",
 "l0": false,
@@ -73,6 +81,7 @@
 "dateEnd": "1990-11-21",
 "dateStart": "1989-05-23",
 "direction": "in",
+"edgeId": "e-652d74a0e0",
 "edgeLabel": "FRAME-PROPAGATION ONLY: his 1989 paper contains the word Dulce zero times",
 "id": "bill-cooper",
 "l0": false,
@@ -94,6 +103,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-6a2199fb4e",
 "edgeLabel": "A cluster whose central witness has a confessed author",
 "id": "d-disinformation",
 "l0": false,
@@ -115,6 +125,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-c711784f2e",
 "edgeLabel": "Downstream of the Kirtland operation, which is this domain's best-known case",
 "id": "d-psyop",
 "l0": false,
@@ -141,6 +152,7 @@
 "dateEnd": "2004-09",
 "dateStart": "1967-12-10",
 "direction": "in",
+"edgeId": "e-3a22fe7fdc",
 "edgeLabel": "ADJACENCY AND PRECEDENCE, NOT CAUSATION: a 29-kiloton detonation twelve miles from Dulce, twelve years earlier",
 "id": "gasbuggy-1967",
 "l0": false,
@@ -162,6 +174,7 @@
 "dateEnd": "2016-04-01",
 "dateStart": "2016-04-01",
 "direction": "in",
+"edgeId": "e-6bc30259df",
 "edgeLabel": "Traced the cluster's best-known physical 'evidence' to a 2000 feature film",
 "id": "john-greenewald",
 "l0": false,
@@ -183,6 +196,7 @@
 "dateEnd": "1988",
 "dateStart": "1988",
 "direction": "in",
+"edgeId": "e-553a492ddb",
 "edgeLabel": "Developed his Dulce hypothesis in 1988, from 'Ann West'",
 "id": "john-lear",
 "l0": false,
@@ -204,6 +218,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-a428cada6b",
 "edgeLabel": "The claim points at real ground",
 "id": "l-dulce",
 "l0": false,
@@ -225,6 +240,7 @@
 "dateEnd": null,
 "dateStart": "1988",
 "direction": "in",
+"edgeId": "e-8dceeb037c",
 "edgeLabel": "Thirty-eight years on the question, concluding 'it does not seem to exist'",
 "id": "norio-hayakawa",
 "l0": false,
@@ -246,6 +262,7 @@
 "dateEnd": null,
 "dateStart": "1979",
 "direction": "in",
+"edgeId": "e-020103d0b1",
 "edgeLabel": "Origin point of the Dulce claim, from about 1979",
 "id": "paul-bennewitz",
 "l0": false,
@@ -267,6 +284,7 @@
 "dateEnd": "1995-05-08",
 "dateStart": "1995-05-08",
 "direction": "in",
+"edgeId": "e-6077c17591",
 "edgeLabel": "Supplies every specific number in the modern claim, 8 May 1995",
 "id": "phil-schneider",
 "l0": false,
@@ -293,6 +311,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-fa3ef7731d",
 "edgeLabel": "Attributes Bennewitz's beliefs to Bennewitz rather than to material he supplied",
 "id": "richard-doty",
 "l0": false,
@@ -314,6 +333,7 @@
 "dateEnd": "2021-02-03",
 "dateStart": "2021-02-03",
 "direction": "in",
+"edgeId": "e-208c75416e",
 "edgeLabel": "The publication that obtained and printed the confession",
 "id": "saucers-spooks-and-kooks-2021",
 "l0": false,
@@ -340,6 +360,7 @@
 "dateEnd": "2015-11",
 "dateStart": "2015-11",
 "direction": "in",
+"edgeId": "e-66f926d97d",
 "edgeLabel": "Says he wrote the two original Dulce Base articles and manufactured the corroboration",
 "id": "tal-levesque",
 "l0": false,
@@ -361,6 +382,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-aa1254949e",
 "edgeLabel": "The claimed insider, whose author confessed the invention",
 "id": "thomas-castello",
 "l0": false,
@@ -399,6 +421,7 @@
 "by": null,
 "claimTier": 1,
 "denialKind": "association",
+"edgeId": "e-3a22fe7fdc",
 "label": "ADJACENCY AND PRECEDENCE, NOT CAUSATION: a 29-kiloton detonation twelve miles from Dulce, twelve years earlier",
 "note": "The documented federal underground operation next to the rumour. Tier 1 as a record of Gasbuggy, from the DOE Office of Legacy Management's own fact sheet, which is a primary record of the department's own act and not an interested-party gloss on somebody else's. The edge asserts that the government did a large secret radioactive thing in the ground near Dulce before the rumour began. It does NOT assert that this caused the rumour.",
 "of": null,
@@ -425,6 +448,7 @@
 },
 "claimTier": 2,
 "denialKind": "directed",
+"edgeId": "e-fa3ef7731d",
 "label": "Attributes Bennewitz's beliefs to Bennewitz rather than to material he supplied",
 "note": "A denial edge into the hub from the man usually cited as the hub's origin. In his own captured words: 'none of it's true every every aspect of that is false Paul was just was so infatuated with the subject of UFOs that he did this to himself'. Auto-captions, so the wording is approximate and marked as such.",
 "of": {
@@ -454,6 +478,7 @@
 },
 "claimTier": 2,
 "denialKind": "directed",
+"edgeId": "e-66f926d97d",
 "label": "Says he wrote the two original Dulce Base articles and manufactured the corroboration",
 "note": "In the same message he describes composing the articles from an account by a woman he names as Ann West mixed with his own research, and mailing a hundred large packets of supporting material to authors and lecturers who folded it into their own work. This is the described manufacture of apparent independent corroboration.",
 "of": {
@@ -528,7 +553,7 @@
 ],
 "sub": "THE HUB. A claimed multi-level joint human and alien facility under Archuleta Mesa, for which no documented facility exists and whose central witness was confessed as an invention",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 138 of 1170, score 54). 15 connections, 2 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C0/A0/D3.",
+"tierRationale": "Re-graded A on a global pass (rank 141 of 1138, score 54). 15 connections, 2 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C0/A0/D3.",
 "timeline": [
 {
 "claimTier": null,

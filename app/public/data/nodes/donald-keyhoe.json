@@ -8,26 +8,31 @@
 "chronology": [],
 "claims": [
 {
+"id": "c-4e1bf03c4a",
 "source": "The UFO Evidence, National Investigations Committee on Aerial Phenomena, Washington DC, May 1964, Richard H. Hall ed., in the CIA's filed copy CIA-RDP81R00560R000100010001-0, https://archive.org/details/cia-readingroom-document-cia-rdp81r00560r000100010001-0",
 "text": "NICAP's own 1964 volume names him as its head on the masthead: 'MAJ. DONALD E. KEYHOE, USMC (RET.), DIRECTOR', printed under the organisation's name and its 1536 Connecticut Avenue NW address, above the Board of Governors list.",
 "tier": 1
 },
 {
+"id": "c-03eda31a33",
 "source": "First Air Force letter of 20 September 1957, reproduced in The UFO Evidence, 1964, in CIA-RDP81R00560R000100010001-0, https://archive.org/details/cia-readingroom-document-cia-rdp81r00560r000100010001-0",
 "text": "He held the post by September 1957 on a government correspondent's own address line. A letter on the letterhead 'Hq Sq Sec, First Air Force, Mitchel Air Force Base, NY', dated 20 September 1957, is addressed to 'Mr. Donald E. Keyhoe, Director NICAP, 1536 Connecticut Ave, N. W., Washington 6, D. C.' and transmits a quoted Air Force report of eight round objects sighted at Fort Devens, Massachusetts on 17 September 1957.",
 "tier": 1
 },
 {
+"id": "c-4a7f9eca1a",
 "source": "The UFO Evidence, 1964, in CIA-RDP81R00560R000100010001-0, https://archive.org/details/cia-readingroom-document-cia-rdp81r00560r000100010001-0",
 "text": "The volume states the Hillenkoetter connection as a personal one: 'Vice Admiral R. H. Hillenkoetter, USN (Ret.), a long-time acquaintance of Major Keyhoe, also served on the NICAP Board of Governors for five years.' It gives Keyhoe's own background as 'a graduate of the U. S. Naval Academy (class of 1920) and former Marine Corps aircraft and balloon pilot' and says his acquaintance with serving and retired officers is why several of its military cases could be detailed.",
 "tier": 1
 },
 {
+"id": "c-d8cd385ceb",
 "source": "CIA memorandum for record, 'Comments on Letters Dealing with Unidentified Flying Objects', CIA reading room document 0005516043, reading-room date 4 April 1958, https://archive.org/details/cia-readingroom-document-0005516043",
 "text": "The CIA recorded a standing rule for handling him. A memorandum for record on 'Comments on Letters Dealing with Unidentified Flying Objects' notes that the Air Force was 'most insistent' on answering his letters itself, that 'the Air Force is endeavoring to impress upon Major Keyhoe and others in a similar position, that his office is the proper place to come for such information', and concludes: 'I think we can use this procedure as a precedent henceforth in all inquiries regarding UFO's.' The scan's OCR is imperfect and renders his surname inconsistently; the quoted sentences were legible.",
 "tier": 1
 },
 {
+"id": "c-f7c62a579a",
 "source": "CIA reading room document 0000015416, 'Inquiry by Major Donald E. Keyhoe (deleted)', reading-room date 4 January 1959, https://archive.org/details/cia-readingroom-document-0000015416",
 "text": "He put the question to the Director of Central Intelligence directly. An internal CIA memorandum of January 1959 quotes his memorandum of 13 March 1958 to the DCI asking whether CIA representatives had told UFO witnesses not to make their sightings public, and on what authority. The scan is partly illegible and no wording is quoted from it here.",
 "tier": 1
@@ -43,6 +48,7 @@
 "dateEnd": null,
 "dateStart": "1958-02-05",
 "direction": "in",
+"edgeId": "e-c5cc37f1cc",
 "edgeLabel": "Signed the CIA reply to Keyhoe",
 "id": "charles-p-cabell",
 "l0": false,
@@ -64,6 +70,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-11e74ee7a1",
 "edgeLabel": "CIA routed his UFO inquiries to the Air Force and made it a precedent",
 "id": "cia",
 "l0": true,
@@ -85,6 +92,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-555c7dcf04",
 "edgeLabel": "Director, by September 1957 and still in post May 1964",
 "id": "nicap",
 "l0": true,
@@ -106,6 +114,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-1f838db3ba",
 "edgeLabel": "Long-time acquaintance; recruited a former DCI onto NICAP's Board of Governors",
 "id": "roscoe-hillenkoetter",
 "l0": false,
@@ -127,6 +136,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-aa396ff8f5",
 "edgeLabel": "The Air Force insisted on being the single channel for his inquiries",
 "id": "usaf",
 "l0": true,
@@ -160,6 +170,7 @@
 "by": null,
 "claimTier": 1,
 "denialKind": null,
+"edgeId": "e-c5cc37f1cc",
 "label": "Signed the CIA reply to Keyhoe",
 "note": "The reading room's catalogue entry names him as the sender and Keyhoe as the addressee. The scan's body text is illegible, so the edge records the correspondence and not its content.",
 "of": null,
@@ -183,6 +194,7 @@
 "by": null,
 "claimTier": 1,
 "denialKind": null,
+"edgeId": "e-11e74ee7a1",
 "label": "CIA routed his UFO inquiries to the Air Force and made it a precedent",
 "note": "A 1958 CIA memorandum for record states that the letters from him would be forwarded to the Air Force to answer and that the Agency would use the procedure as a precedent henceforth in all inquiries regarding UFOs.",
 "of": null,
@@ -206,6 +218,7 @@
 "by": null,
 "claimTier": 1,
 "denialKind": null,
+"edgeId": "e-aa396ff8f5",
 "label": "The Air Force insisted on being the single channel for his inquiries",
 "note": "The same memorandum records that the officer contacted at the Office of the Secretary of the Air Force Information Service wanted the letters forwarded to him to answer, that the Air Force was endeavouring to impress on Keyhoe and others that his office was the proper place to come for such information, and that the Air Force was most insistent on being permitted to answer.",
 "of": null,
@@ -266,7 +279,7 @@
 "status": "former",
 "sub": "Director, National Investigations Committee on Aerial Phenomena, by September 1957 and still in post May 1964",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 228 of 1170, score 43). 5 connections, 0 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C1/A1/D2.",
+"tierRationale": "Re-graded B on a global pass (rank 232 of 1138, score 43). 5 connections, 0 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C1/A1/D2.",
 "timeline": [
 {
 "claimTier": null,

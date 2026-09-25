@@ -5,46 +5,55 @@
 "band": null,
 "claims": [
 {
+"id": "c-20ca3b1390",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237638/",
 "text": "Defense Intelligence Reference Document titled \"Biosensors and BioMEMS: A Survey of the Present Field\", series \"Acquisition Threat Support\", published 2010-03-31 with an Intelligence Cut-Off Date (ICOD) of 2009-12-01, DIA document number DIA-08-1003-020. Released by DIA under FOIA and posted in the DIA FOIA Electronic Reading Room.",
 "tier": 1
 },
 {
+"id": "c-ce36d336ff",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237638/",
 "text": "Inside cover reads: \"This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency [redacted b(3) 10 USC 424] Advanced Aerospace Weapon System Applications (AAWSA) Program\" and directs questions to the \"AAWSA Program Manager, Defense Intelligence Agency, ATTN: [redacted], Bldg 6000, Washington, DC 20340-5100\".",
 "tier": 1
 },
 {
+"id": "c-129e751994",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237638/",
 "text": "Author name is withheld in the DIA-released copy under FOIA exemption (b)(6); the \"Prepared by:\" line is withheld under (b)(3) 10 USC 424. The released cover therefore does not attribute the DIRD to a named author.",
 "tier": 1
 },
 {
+"id": "c-dc9489269f",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237638/",
 "text": "Released PDF is 45 pages, marked UNCLASSIFIED//FOR OFFICIAL USE ONLY (FOUO caveat partially illegible in the scan).",
 "tier": 1
 },
 {
+"id": "c-2c6cc7be72",
 "source": "https://irp.fas.org/dia/aatip-list.pdf",
 "text": "Entry 6 on the DIA list transmitted to the Senate Armed Services Committee on 9 January 2018 reads 'Biosensors and BioMEMS, Dr Bruce Towe, Univ of Arizona.'",
 "tier": 1
 },
 {
+"id": "c-0f57a62be6",
 "source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_20-DIRD_Biosensors_and_BioMEMS-A_Survey_of_the_Present_Field.pdf",
 "text": "The released cover page carries the date 31 March 2010, an Intelligence Cut-Off Date of 1 December 2009 and document number DIA-08-1003-020; the author field is redacted under FOIA exemption (b)(5) and 'Prepared by' is redacted under 10 U.S.C. 424.",
 "tier": 1
 },
 {
+"id": "c-a3e27369e2",
 "source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_20-DIRD_Biosensors_and_BioMEMS-A_Survey_of_the_Present_Field.pdf",
 "text": "The administrative note states the product 'is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency ... Advanced Aerospace Weapon System Applications (AAWSA) Program.'",
 "tier": 1
 },
 {
+"id": "c-d24c394267",
 "source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_20-DIRD_Biosensors_and_BioMEMS-A_Survey_of_the_Present_Field.pdf",
 "text": "Contents cover brain-implanted BioMEMS micromachine neuroelectrodes, implantable sensors, microelectrode array fabrication, brain-machine interfaces, polymer BioMEMS electrodes, retinal devices and therapeutic neurostimulation - the human-effects and human-interface leg of the AAWSAP survey.",
 "tier": 1
 },
 {
+"id": "c-0a181f8c75",
 "source": "https://uap-blog.com/wordpress/wp-content/uploads/2022/04/FOIA-00159-2018-2.pdf — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "text": "The document was released as item 20 of 37 in DIA FOIA case FOIA-00159-2018, completed 25 March 2022 in response to John Greenewald's 31 January 2018 request; DIA located 37 documents totalling 1,473 pages.",
 "tier": 2
@@ -60,6 +69,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-414eb66c47",
 "edgeLabel": "commissioned under AAWSAP, FY2009 series",
 "id": "aawsap",
 "l0": true,
@@ -91,6 +101,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-3205e66425",
 "edgeLabel": "authored by Bruce Towe",
 "id": "bruce-towe",
 "l0": false,
@@ -132,6 +143,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-681e3b3883",
 "edgeLabel": "subject domain: implantable biosensors and neuro-interface",
 "id": "d-bio",
 "l0": false,
@@ -158,6 +170,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-3c75d57a14",
 "edgeLabel": "DIRD",
 "id": "dird-series",
 "l0": true,
@@ -179,6 +192,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-0854ed89c7",
 "edgeLabel": "series member",
 "id": "dird-series",
 "l0": true,
@@ -276,7 +290,7 @@
 ],
 "sub": "defense-intelligence-reference-document",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 332 of 1170, score 37). 5 connections, 2 of them custody/funding/programmatic. Axes C0/A0/D0.",
+"tierRationale": "Re-graded B on a global pass (rank 334 of 1138, score 37). 5 connections, 2 of them custody/funding/programmatic. Axes C0/A0/D0.",
 "timeline": [],
 "unverified": []
 }

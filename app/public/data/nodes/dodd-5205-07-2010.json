@@ -5,111 +5,133 @@
 "band": null,
 "claims": [
 {
+"id": "c-80916576a9",
 "source": "https://web.archive.org/web/20220322050205/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf",
 "text": "Header: 'Department of Defense DIRECTIVE NUMBER 5205.07, July 1, 2010, Incorporating Change 2, February 4, 2020, DoD SAPCO. SUBJECT: Special Access Program (SAP) Policy.' Enclosure 1 reference (a) records that it 'Reissues DoD Directive 5205.07, \"Special Access Program (SAP) Policy,\" January 5, 2006 (hereby cancelled).' Releasability: 'Cleared for public release.'",
 "tier": 1
 },
 {
+"id": "c-d7966119aa",
 "source": "https://web.archive.org/web/20220322050205/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf",
 "text": "GLOSSARY, verbatim: 'acknowledged SAP. A SAP whose existence is acknowledged but its specific details (technologies, materials, techniques, etc.) are classified as specified in the applicable security classification guide.' -- 'unacknowledged SAP. A SAP having protective controls ensuring the existence of the program is not acknowledged, affirmed, or made known to any person not authorized for such information.' -- 'waived SAP. A SAP for which the Secretary of Defense has waived applicable reporting in accordance with Reference (c) following a determination of adverse effect to national security. An unacknowledged SAP that has more restrictive reporting and access controls.' Reference (c) is 'Section 119 of title 10, United States Code.'",
 "tier": 1
 },
 {
+"id": "c-c98016e18e",
 "source": "https://web.archive.org/web/20220322050205/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf",
 "text": "GLOSSARY, verbatim: 'carve-out. A provision approved by the Secretary or Deputy Secretary of Defense that relieves DSS of its National Industrial Security Program obligation to perform industrial security oversight functions for a DoD SAP.' And 'acquisition SAP. A SAP established to protect sensitive research, development, testing and evaluation, modification, and procurement activities.'",
 "tier": 1
 },
 {
+"id": "c-be89ad4375",
 "source": "https://web.archive.org/web/20220322050205/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf",
 "text": "THE WAIVER, restated in policy. Enclosure 2, para 5: 'When the Secretary of Defense determines that national security would be adversely affected if SAP data is reported to Congress using standard processes, he or she may designate select unacknowledged SAPs as waived in accordance with Reference (c).'",
 "tier": 1
 },
 {
+"id": "c-9d0c63ff07",
 "source": "https://web.archive.org/web/20220322050205/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf",
 "text": "THE CARVE-OUT REQUEST PATH. Enclosure 2, para 7: 'A CA may seek DepSecDef approval to relieve the Defense Security Service (DSS) of its SAP security oversight role and use DoD Component procedures instead for oversight, security review, and SAP automated information system (IS) accreditation for designated SAPs. DoD Component-designated procedures shall, at a minimum, meet the standards and frequency authorized by DoD 5220.22-M.' The requesting party is the cognizant authority for the program itself -- i.e. the program asks to be relieved of its own external inspector, and the Deputy Secretary decides.",
 "tier": 1
 },
 {
+"id": "c-0ea4c10e6e",
 "source": "https://web.archive.org/web/20220322050205/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf",
 "text": "CONGRESS KEEPS NOTHING. Para 4.h verbatim: 'All waived SAP material submitted to Congress, to include annual reports and other products, shall remain in DoD custody. No copies shall be stored outside DoD repositories or control without the approval of the Secretary or Deputy Secretary of Defense.' A briefed chairman therefore retains no document, no notes in committee custody, and no institutional memory once he leaves the chair.",
 "tier": 1
 },
 {
+"id": "c-3ed0996ce2",
 "source": "https://web.archive.org/web/20220322050205/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf",
 "text": "Para 4.f verbatim: 'Members of Congress assigned to designated defense and intelligence committees shall be authorized access to DoD SAPs within the respective committee's SAP oversight role, except for waived programs pursuant to Reference (c). Unless approved by the Secretary or Deputy Secretary of Defense, only the chair, the ranking minority member, and the staff directors of the defense and intelligence committees shall be authorized access to waived SAPs within their committee's respective SAP oversight role.'",
 "tier": 1
 },
 {
+"id": "c-6e83879e51",
 "source": "https://web.archive.org/web/20220322050205/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf",
 "text": "Para 4.e verbatim: 'All personnel accessed to DoD SAPs shall notify the Director, DoD SAPCO, in a timely fashion, when briefing or providing DoD SAP material to any members of Congress or congressional staff. No DoD contractor entity, contractor employee, contractor representative, or consultant shall provide SAP material to any members of Congress or congressional staff without Director, DoD SAPCO, approval.'",
 "tier": 1
 },
 {
+"id": "c-658e6282c8",
 "source": "https://web.archive.org/web/20220322050205/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf",
 "text": "Enclosure 4, para 8: GAO personnel are granted SAP access only if 'The Director, DoD SAPCO, concurs after consultation with the chair and ranking minority member of a defense or intelligence committee' and the nominee holds the appropriate clearance. Enclosure 4, para 6: 'Personal staff shall not be granted access to DoD SAPs.' Enclosure 4, para 7 sets the annual 1 March date for DoD SAPCO to refresh professional staff access status.",
 "tier": 1
 },
 {
+"id": "c-b4bb8a2536",
 "source": "https://web.archive.org/web/20220322050205/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf",
 "text": "Enclosure 3 (Access Approval Authority table), Note 3: 'DoD SAPCO shall coordinate on DD Forms 2835, \"Program Access Request,\" (PARs) for judicial and other Federal agency personnel for waived programs.' Note 4: 'Director, DoD SAPCO, shall coordinate on PARs for the White House, National Security Council, and political appointees of the Executive Branch.' The AAA for the Legislative Branch is the Deputy Secretary of Defense. Judges, White House staff, NSC staff and political appointees therefore reach a waived SAP only through a DoD office that reports to the Deputy Secretary.",
 "tier": 1
 },
 {
+"id": "c-421d469637",
 "source": "https://web.archive.org/web/20220322050205/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf",
 "text": "Enclosure 2, para 10: 'Prior to gaining access and during a period of access to DoD SAPs, all personnel shall consent to, and be subject to, a random CI-scope polygraph examination. CI-scope polygraph examinations shall not be used as the only basis for granting access to DoD SAPs. Exceptions to these requirements shall be granted only by the Secretary or Deputy Secretary of Defense.'",
 "tier": 1
 },
 {
+"id": "c-ea61b6ac21",
 "source": "https://web.archive.org/web/20220322050205/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf",
 "text": "Enclosure 2, para 8: 'The Director, DoD SAPCO, shall annually request DepSecDef approval of the billet structure that assigns individual access by organization and duty position to the entire suite of DoD SAPs.' A single annual document approved by the Deputy Secretary enumerates every access billet across the whole DoD SAP enterprise.",
 "tier": 1
 },
 {
+"id": "c-d5aaf0fefd",
 "source": "https://web.archive.org/web/20220322050205/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf",
 "text": "Comparing the 2010 directive with its 12 Sep 2024 successor: 'waived', 'unacknowledged', 'carve-out' and the Enclosure 4 congressional-access procedures all appear in the 2010 public text and none appear in the 2024 public Directive; they now live in DoDI 5205.11. The concealment architecture was not abolished, it was relocated one document down the issuance hierarchy. Reasoning stated from full-text comparison of both PDFs.",
 "tier": 3
 },
 {
+"id": "c-cf27ffa51c",
 "source": "DoDD 5205.07, 1 July 2010, Glossary Part II",
 "text": "DoDD 5205.07 (2010) Glossary: 'waived SAP. A SAP for which the Secretary of Defense has waived applicable reporting in accordance with Reference (c) following a determination of adverse effect to national security. An unacknowledged SAP that has more restrictive reporting and access controls.'",
 "tier": 1
 },
 {
+"id": "c-bd66c3f498",
 "source": "DoDD 5205.07, 1 July 2010, Glossary Part II",
 "text": "DoDD 5205.07 (2010) Glossary: 'unacknowledged SAP. A SAP having protective controls ensuring the existence of the program is not acknowledged, affirmed, or made known to any person not authorized for such information.'",
 "tier": 1
 },
 {
+"id": "c-380aece5de",
 "source": "DoDD 5205.07, 1 July 2010, Glossary Part II",
 "text": "DoDD 5205.07 (2010) Glossary: 'acknowledged SAP. A SAP whose existence is acknowledged but its specific details (technologies, materials, techniques, etc.) are classified as specified in the applicable security classification guide.'",
 "tier": 1
 },
 {
+"id": "c-29c99f48b5",
 "source": "DoDD 5205.07, 1 July 2010, para 4.f",
 "text": "DoDD 5205.07 (2010) para 4.f: 'Members of Congress assigned to designated defense and intelligence committees shall be authorized access to DoD SAPs within the respective committee's SAP oversight role, except for waived programs pursuant to Reference (c). Unless approved by the Secretary or Deputy Secretary of Defense, only the chair, the ranking minority member, and the staff directors of the defense and intelligence committees shall be authorized access to waived SAPs within their committee's respective SAP oversight role.'",
 "tier": 1
 },
 {
+"id": "c-643d7f7459",
 "source": "DoDD 5205.07, 1 July 2010, para 4.h",
 "text": "DoDD 5205.07 (2010) para 4.h: 'All waived SAP material submitted to Congress, to include annual reports and other products, shall remain in DoD custody. No copies shall be stored outside DoD repositories or control without the approval of the Secretary or Deputy Secretary of Defense.'",
 "tier": 1
 },
 {
+"id": "c-02c118197f",
 "source": "DoDD 5205.07, 1 July 2010, para 4.e",
 "text": "DoDD 5205.07 (2010) para 4.e: 'All personnel accessed to DoD SAPs shall notify the Director, DoD SAPCO, in a timely fashion, when briefing or providing DoD SAP material to any members of Congress or congressional staff. No DoD contractor entity, contractor employee, contractor representative, or consultant shall provide SAP material to any members of Congress or congressional staff without Director, DoD SAPCO, approval.'",
 "tier": 1
 },
 {
+"id": "c-6d11772d7c",
 "source": "DoDD 5205.07, 1 July 2010, Glossary Part II",
 "text": "DoDD 5205.07 (2010) Glossary: 'carve-out. A provision approved by the Secretary or Deputy Secretary of Defense that relieves DSS of its National Industrial Security Program obligation to perform industrial security oversight functions for a DoD SAP.'",
 "tier": 1
 },
 {
+"id": "c-471a73b391",
 "source": "DoDD 5205.07, 1 July 2010, Enclosure 2",
 "text": "DoDD 5205.07 (2010) Enclosure 2 para 5: 'When the Secretary of Defense determines that national security would be adversely affected if SAP data is reported to Congress using standard processes, he or she may designate select unacknowledged SAPs as waived in accordance with Reference (c).'",
 "tier": 1
 },
 {
+"id": "c-88252132e4",
 "source": "Structural reading of DoDD 5205.07 (2010) para 4.e",
 "text": "Paragraph 4.e is a documented gag on contractor-to-Congress disclosure: a cleared contractor employee cannot lawfully hand SAP material to a member of Congress without the approval of the Director, DoD SAPCO - the very office whose programs would be the subject of the disclosure. Reasoning: the approval authority and the subject of the disclosure are the same office.",
 "tier": 3
@@ -125,6 +147,7 @@
 "dateEnd": null,
 "dateStart": "2010-07-01",
 "direction": "out",
+"edgeId": "e-414f10a49e",
 "edgeLabel": "Established DoD SAPCO under the Deputy Secretary of Defense",
 "id": "dod-sapco",
 "l0": true,
@@ -146,6 +169,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-eaa63df530",
 "edgeLabel": "12 Sep 2024 reissuance cancels the 1 Jul 2010 directive",
 "id": "dodd-5205-07-2024",
 "l0": false,
@@ -167,6 +191,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-a47bf0a5fe",
 "edgeLabel": "",
 "id": "dodd-5205-07-2024",
 "l0": false,
@@ -193,6 +218,7 @@
 "dateEnd": null,
 "dateStart": "2024-09-12",
 "direction": "in",
+"edgeId": "e-67865993dd",
 "edgeLabel": "Cancelled and replaced the 2010 directive on 12 September 2024",
 "id": "dodd-5205-07-2024",
 "l0": false,
@@ -214,6 +240,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-9209e3bbed",
 "edgeLabel": "manual implements policy established in DoDD 5205.07",
 "id": "dodm-5205-07-series",
 "l0": false,
@@ -235,6 +262,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-6ba903bc02",
 "edgeLabel": "",
 "id": "dodm-5205-07-series",
 "l0": false,
@@ -261,6 +289,7 @@
 "dateEnd": null,
 "dateStart": "2010-07-01",
 "direction": "in",
+"edgeId": "e-c7d081dc1a",
 "edgeLabel": "DoD policy narrows waived-SAP access to chairs, ranking members and staff directors",
 "id": "gang-of-eight",
 "l0": false,
@@ -282,6 +311,7 @@
 "dateEnd": null,
 "dateStart": "2010-07-01",
 "direction": "out",
+"edgeId": "e-d006b2e958",
 "edgeLabel": "Established the SAPOC on 1 July 2010",
 "id": "sapoc",
 "l0": false,
@@ -343,7 +373,7 @@
 ],
 "sub": "dod-issuance",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 56 of 1170, score 76). 8 connections, 2 of them custody/funding/programmatic. Axes C1/A3/D2.",
+"tierRationale": "Re-graded A on a global pass (rank 57 of 1138, score 76). 8 connections, 2 of them custody/funding/programmatic. Axes C1/A3/D2.",
 "timeline": [
 {
 "claimTier": null,

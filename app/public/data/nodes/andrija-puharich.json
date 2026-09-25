@@ -8,26 +8,31 @@
 "chronology": [],
 "claims": [
 {
+"id": "c-7be573d587",
 "source": "US Patent 2,995,633, specification head, read off the USPTO image server at https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/2995633",
 "text": "US Patent 2,995,633, 'MEANS FOR AIDING HEARING', names 'Henry K. Puharich, 30 East End Ave., and Joseph L. Lawrence, 570 Fort Washington Ave., both of New York, N.Y.', filed 25 September 1958 as Ser. No. 763,406, patented 8 August 1961, 5 claims, Cl. 179-107. No assignee appears on the face of the patent.",
 "tier": 1
 },
 {
+"id": "c-e50088482a",
 "source": "US Patent 2,995,633, columns 1 and 2, https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/2995633",
 "text": "The 1961 patent describes the invention as effecting 'the transmission of sound signals through the dental structure and facial nervous system of the user', and states that 'in its most advantageous and practical form, the device of the invention comprises means, in the form of a dental prosthetic device, for imparting or transmitting to viable nerves of a tooth electrical signals which, when transmitted to the brain, will give rise to sound sensations.'",
 "tier": 1
 },
 {
+"id": "c-794c6cdf6a",
 "source": "US Patent 3,170,993, specification head and columns 1 and 2, read off the USPTO image server at https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/3170993",
 "text": "US Patent 3,170,993, 'MEANS FOR AIDING HEARING BY ELECTRICAL STIMULATION OF THE FACIAL NERVE SYSTEM', names 'Henry K. Puharich, 87 Hawkes Ave., Ossining, N.Y., and Joseph L. Lawrence', filed 8 January 1962 as Ser. No. 164,882, patented 23 February 1965, 24 claims. It cites the 1961 patent as prior work by the same inventors and adds a radio frequency receiver whose audio-modulated output is capacitively coupled to the nerve circuit through 'one or more cup-shaped dental caps'. No assignee appears on the face of the patent.",
 "tier": 1
 },
 {
+"id": "c-25cc9f8aef",
 "source": "FBI Vault release 'Extra-Sensory Perception Part 01 (Final)', PDF pages 13 and 14, https://vault.fbi.gov/Extra-Sensory%20Perception/Extra-Sensory%20Perception%20Part%2001%20%28Final%29/view",
 "text": "An FBI Office Memorandum from R. R. Roach to A. H. Belmont, dated 6 September 1957, file 62-4036, subject 'EXTRA SENSORY PERCEPTION DEMONSTRATION BY MR. WILLIAM FOOS, AUGUST 8, 1957', records: 'Attached hereto also is a copy of a memorandum furnished by Colonel Downie relative to Dr. Henry K. Puharich, Round Table Foundation, Glen Cove, Maine. While Dr. Puharich's work is not exactly in the field of extra sensory perception, Colonel Downie stated that the Army is interested in determining the possibilities of his techniques.' Colonel Downie is identified in the same memorandum as 'Lieutenant Colonel John Downie, Special Operations Branch, ACSI'. The memorandum was classified CONFIDENTIAL and carries a handwritten declassification annotation dated 16 February 1988.",
 "tier": 1
 },
 {
+"id": "c-2896e27892",
 "source": "michels-corpus-21.md file 21-2 at 0:44:10 and 0:47:45 (Greg Milazzi); further mentions at michels-corpus-23.md file 01 1:57:10 and michels-corpus-25.md file 04 1:22:37",
 "text": "Three Michels lead maps, from three different guests, describe Puharich as funded across decades by Army, Navy, CIA and Atomic Energy Commission money, including a $300,000 AEC grant to his company Intelectron in the early 1960s. Neither patent read here names Intelectron as assignee, and no AEC grant record was reachable from this environment. The claim is carried here as a claim about what was said, not about what happened.",
 "tier": 2
@@ -43,6 +48,7 @@
 "dateEnd": "1965",
 "dateStart": "1957",
 "direction": "out",
+"edgeId": "e-777269001e",
 "edgeLabel": "The subject on which a federal agency file names him",
 "id": "d-consciousness",
 "l0": false,
@@ -69,6 +75,7 @@
 "dateEnd": "1957",
 "dateStart": "1957",
 "direction": "out",
+"edgeId": "e-8635d630c3",
 "edgeLabel": "The Army's intelligence staff recorded an interest in his techniques in 1957",
 "id": "dod",
 "l0": true,
@@ -137,7 +144,7 @@
 "status": "former",
 "sub": "Physician and inventor; patented dental and facial-nerve hearing transmission; Round Table Foundation, Glen Cove, Maine",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 517 of 1170, score 30). 2 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D2.",
+"tierRationale": "Re-graded B on a global pass (rank 515 of 1138, score 30). 2 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D2.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": [

@@ -5,21 +5,25 @@
 "band": null,
 "claims": [
 {
+"id": "c-b5abe27162",
 "source": "Chairwoman Anna Paulina Luna, 9 September 2025, GPO CHRG-119hhrg61718",
 "text": "'The Department of Defense notified the Committee staff that, due to the Department's special access program rules, only members of the House Armed Services Committee, as well as the Defense Subcommittee on House Appropriations, also known as HAC-D, were allowed to be read in onto such programs. For a non-committee member to be allowed to view these documents and videos, individual members must be approved by the Chairman and Ranking Member of both HASC and HAC-D.'",
 "tier": 1
 },
 {
+"id": "c-40a88593cb",
 "source": "CHRG-119hhrg61718, 9 September 2025",
 "text": "'Independent staff oversight has presented a consistent problem for Congress, as well as program budgets are classified. Additionally, oversight reporting to Congress is classified and only provided to the authorizing and Appropriations Committees of jurisdiction.'",
 "tier": 1
 },
 {
+"id": "c-428069e9d2",
 "source": "CHRG-119hhrg61718, 9 September 2025",
 "text": "Burlison, same hearing: his NDAA UAP disclosure amendment was ruled non-germane 'mostly deemed by staff, not even an elected official,' and in 2024 members were 'blocked by someone in House administration from being able to receive a full briefing from AARO.'",
 "tier": 1
 },
 {
+"id": "c-cc7e963e8c",
 "source": "Inference from Luna's 9 September 2025 statement",
 "text": "The gate is jurisdictional rather than discretionary, which is what makes it durable: no official has to deny anything, because the routing rule disqualifies the requester. Reasoning: DoD's answer to Oversight was not 'no' but 'not your committee,' and the appeal route requires the assent of four separate members across two other committees.",
 "tier": 3
@@ -35,6 +39,7 @@
 "dateEnd": null,
 "dateStart": "2023",
 "direction": "in",
+"edgeId": "e-b055c8cb45",
 "edgeLabel": "Named the Holman Rule as the enforcement instrument against officials who deny Congress access",
 "id": "andy-ogles",
 "l0": false,
@@ -56,6 +61,7 @@
 "dateEnd": "2026",
 "dateStart": "2024",
 "direction": "in",
+"edgeId": "e-41b7af31bd",
 "edgeLabel": "SAPCO administers the read-in architecture Luna described",
 "id": "dod-sapco",
 "l0": true,
@@ -82,6 +88,7 @@
 "dateEnd": null,
 "dateStart": "2024",
 "direction": "in",
+"edgeId": "e-ad98b6f3c9",
 "edgeLabel": "Grothman's 'inside and outside of the SCIF' claim cannot be reconciled with the read-in gate Luna documented",
 "id": "glenn-grothman",
 "l0": false,
@@ -108,6 +115,7 @@
 "dateEnd": null,
 "dateStart": "2023",
 "direction": "out",
+"edgeId": "e-109c53aa87",
 "edgeLabel": "The jurisdictional routing that keeps the subpoena committee uncleared",
 "id": "house-oversight-committee",
 "l0": true,
@@ -129,6 +137,7 @@
 "dateEnd": "2024",
 "dateStart": "2023",
 "direction": "in",
+"edgeId": "e-a24b387b7d",
 "edgeLabel": "Held simultaneously the HASC and HPSCI seats that constitute the read-in tier Oversight was excluded from",
 "id": "mike-gallagher",
 "l0": false,
@@ -150,6 +159,7 @@
 "dateEnd": null,
 "dateStart": "2024",
 "direction": "out",
+"edgeId": "e-683323e5df",
 "edgeLabel": "A select committee is the instrument that would route around the read-in gate",
 "id": "uap-select-committee-proposal",
 "l0": false,
@@ -176,6 +186,7 @@
 "dateEnd": null,
 "dateStart": "2025-09-09",
 "direction": "in",
+"edgeId": "e-f28b40de8f",
 "edgeLabel": "HASC and HAC-D leadership control member access to program material",
 "id": "us-house",
 "l0": true,
@@ -197,10 +208,11 @@
 "dateEnd": null,
 "dateStart": "2010-07-01",
 "direction": "out",
+"edgeId": "e-300f5334aa",
 "edgeLabel": "The read-in gate members describe is the policy text of paragraph 4.f",
-"id": "waived-usap-mechanism",
+"id": "waived-usap",
 "l0": true,
-"label": "Waived Unacknowledged SAP (waived USAP) - the mechanism",
+"label": "Waived unacknowledged special access program (waived USAP)",
 "note": "DoDD 5205.07 (2010) para 4.f is the written rule that members of the defense and intelligence committees are authorised access to DoD SAPs 'except for waived programs'.",
 "sources": [
 {
@@ -271,7 +283,7 @@
 ],
 "sub": "Access-control mechanism blocking Oversight",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 363 of 1170, score 36). 8 connections, 1 of them custody/funding/programmatic. Axes C0/A3/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 365 of 1138, score 36). 8 connections, 1 of them custody/funding/programmatic. Axes C0/A3/D3.",
 "timeline": [
 {
 "claimTier": null,

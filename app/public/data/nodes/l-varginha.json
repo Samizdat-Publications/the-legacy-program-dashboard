@@ -5,11 +5,13 @@
 "band": null,
 "claims": [
 {
+"id": "c-0edd47ab22",
 "source": "NewsNation, 15 July 2026",
 "text": "A US lawmaker requested FBI and CIA records on the Varginha incident in July 2026.",
 "tier": 2
 },
 {
+"id": "c-e3ad9737f0",
 "source": "Board bookkeeping",
 "text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
 "tier": 3
@@ -25,6 +27,7 @@
 "dateEnd": null,
 "dateStart": "1996-01-20",
 "direction": "in",
+"edgeId": "e-8377b8c4b7",
 "edgeLabel": "A foreign case now under US congressional inquiry",
 "id": "d-international",
 "l0": false,
@@ -89,7 +92,7 @@
 ],
 "sub": "City in southern Minas Gerais; site of the January 1996 incident",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 993 of 1170, score 16). 1 connections, 0 of them custody/funding/programmatic. Axes C2/A0/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 964 of 1138, score 16). 1 connections, 0 of them custody/funding/programmatic. Axes C2/A0/D2.",
 "timeline": [],
 "unverified": []
 }

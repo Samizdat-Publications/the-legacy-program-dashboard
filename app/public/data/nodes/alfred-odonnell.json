@@ -37,16 +37,19 @@
 ],
 "claims": [
 {
+"id": "c-266a6dbb9a",
 "source": "George Knapp, reported by Christopher Sharp, Liberation Times, 28 February 2023",
 "text": "O'Donnell told Knapp that 'they did have a flying saucer that had been recovered from New Mexico' and that a 'live being' was recovered with it.",
 "tier": 2
 },
 {
+"id": "c-632f3e1ff5",
 "source": "CHRG-119hhrg61718, 9 September 2025",
 "text": "Knapp named O'Donnell to Congress as the 'first general manager of EG&G in Nevada, which managed the Nevada test site,' among the witnesses whose testimony underlies his reverse-engineering reporting.",
 "tier": 2
 },
 {
+"id": "c-e81acd2402",
 "source": "George Knapp via Liberation Times, 28 February 2023",
 "text": "O'Donnell recorded a deathbed confession that was to be released after his death. Reasoning: Knapp states O'Donnell confirmed making it and that O'Donnell's son relayed the same; no recording has appeared in more than a decade, which is consistent either with suppression or with the recording not existing.",
 "tier": 3
@@ -62,6 +65,7 @@
 "dateEnd": "1990",
 "dateStart": "1947",
 "direction": "out",
+"edgeId": "e-4ae2da407f",
 "edgeLabel": "O'Donnell was a senior EG&G manager and, per Knapp, first general manager of EG&G Nevada",
 "id": "eg-and-g",
 "l0": true,
@@ -88,6 +92,7 @@
 "dateEnd": "2011",
 "dateStart": "1990",
 "direction": "out",
+"edgeId": "e-3f73dec8a3",
 "edgeLabel": "O'Donnell told Knapp a recovered saucer and a live being existed",
 "id": "george-knapp",
 "l0": false,
@@ -155,8 +160,8 @@
 ],
 "status": "dead",
 "sub": "Senior manager and first general manager, EG&G in Nevada; nuclear test firing engineer",
-"tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 580 of 1170, score 28). 2 connections, 0 of them custody/funding/programmatic. Axes C3/A3/D0.",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 576 of 1138, score 28). 2 connections, 0 of them custody/funding/programmatic. Axes C3/A3/D0.",
 "timeline": [
 {
 "claimTier": null,

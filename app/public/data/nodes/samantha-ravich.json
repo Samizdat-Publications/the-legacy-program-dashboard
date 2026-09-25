@@ -36,16 +36,19 @@
 ],
 "claims": [
 {
+"id": "c-5e156d487e",
 "source": "MITRE news release, 19 May 2026",
 "text": "MITRE's Board of Trustees elected Samantha Ravich as a trustee, announced 19 May 2026; she holds a PhD from the RAND Graduate School and is vice chair of the Strategic Advisory Committee for National and Homeland Security at Idaho National Laboratory.",
 "tier": 1
 },
 {
+"id": "c-4f50d73954",
 "source": "MITRE news release, 19 May 2026; GovCon Wire, 21 May 2026",
 "text": "Ravich was appointed vice chair of the President's Intelligence Advisory Board in 2018 and served as principal deputy national security adviser to Vice President Dick Cheney.",
 "tier": 1
 },
 {
+"id": "c-0a39c8ab03",
 "source": "Sequence inference from MITRE release date and letter date",
 "text": "Her election three days before Burlison's letter is chronologically notable but not causally established. Reasoning: board elections are scheduled months in advance; the proximity is recorded here as a fact of sequence, not as evidence of intent.",
 "tier": 3
@@ -61,6 +64,7 @@
 "dateEnd": null,
 "dateStart": "2026",
 "direction": "out",
+"edgeId": "e-113ead19a6",
 "edgeLabel": "Elected to MITRE's Board of Trustees, 19 May 2026",
 "id": "mitre-corporation",
 "l0": true,
@@ -82,6 +86,7 @@
 "dateEnd": null,
 "dateStart": "1990",
 "direction": "out",
+"edgeId": "e-94d5b0d894",
 "edgeLabel": "Doctorate from the RAND Graduate School",
 "id": "rand-corporation",
 "l0": true,
@@ -144,7 +149,7 @@
 "status": "active",
 "sub": "MITRE Trustee (elected 19 May 2026); former Vice Chair, President's Intelligence Advisory Board; Cyberspace Solarium Commission; Vice Chair, INL Strategic Advisory Committee for National and Homeland Security; PhD, RAND Graduate School",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 904 of 1170, score 18). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A3/D0.",
+"tierRationale": "Re-graded C on a global pass (rank 880 of 1138, score 18). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A3/D0.",
 "timeline": [
 {
 "claimTier": null,

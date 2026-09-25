@@ -41,21 +41,25 @@
 ],
 "claims": [
 {
+"id": "c-3d3d806670",
 "source": "https://fas.org/expert/steven-aftergood/",
 "text": "Aftergood was plaintiff in a 1997 FOIA suit against the CIA that resulted in declassification and release of the total US intelligence budget for the first time in fifty years, $26.6 billion for FY1997.",
 "tier": 1
 },
 {
+"id": "c-7f61c44efe",
 "source": "https://irp.fas.org/budget/index.html",
 "text": "The DCI disclosed $26.7 billion for FY1998; disclosure then lapsed until the DNI released the FY2007 NIP figure.",
 "tier": 1
 },
 {
+"id": "c-d4d131d9f2",
 "source": "https://irp.fas.org/budget/index.html",
 "text": "The 1997 litigation was brought by the Federation of American Scientists with the assistance of Kate Martin of the Center for National Security Studies.",
 "tier": 1
 },
 {
+"id": "c-fcff5ea5fc",
 "source": "https://fas.org/expert/steven-aftergood/",
 "text": "Aftergood won a 2006 FOIA suit against the National Reconnaissance Office securing release of unclassified budget records.",
 "tier": 1
@@ -71,6 +75,7 @@
 "dateEnd": null,
 "dateStart": "1989",
 "direction": "out",
+"edgeId": "e-65ab0e5681",
 "edgeLabel": "Directed the Project on Government Secrecy 1991-2021",
 "id": "fas",
 "l0": false,
@@ -92,6 +97,7 @@
 "dateEnd": null,
 "dateStart": "1997",
 "direction": "out",
+"edgeId": "e-104d58da85",
 "edgeLabel": "Created the first segment of the record by litigation",
 "id": "intel-budget-disclosure-record",
 "l0": false,
@@ -154,7 +160,7 @@
 "status": "former",
 "sub": "Director, Government Secrecy Project, Federation of American Scientists (Project on Government Secrecy 1991-2021)",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 740 of 1170, score 23). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 727 of 1138, score 23). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.",
 "timeline": [
 {
 "claimTier": null,

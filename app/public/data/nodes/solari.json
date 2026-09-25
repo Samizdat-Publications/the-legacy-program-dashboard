@@ -5,11 +5,13 @@
 "band": null,
 "claims": [
 {
+"id": "c-af59fc4bf9",
 "source": "https://solari.com/people/catherine-austin-fitts",
 "text": "Solari, Inc. is founded by Catherine Austin Fitts and publishes the Solari Report.",
 "tier": 2
 },
 {
+"id": "c-fbfdaaad2b",
 "source": "https://missingmoney.solari.com/wp-content/uploads/2018/08/Unsupported_Adjustments_Report_Final_4.pdf",
 "text": "The Missing Money archive hosts the Skidmore-Fitts summary report and preserves links to underlying OIG documents, noting that many original government URLs were disabled.",
 "tier": 2
@@ -25,6 +27,7 @@
 "dateEnd": null,
 "dateStart": "2000",
 "direction": "in",
+"edgeId": "e-587347e0ce",
 "edgeLabel": "Founder and president",
 "id": "catherine-austin-fitts",
 "l0": false,
@@ -85,7 +88,7 @@
 ],
 "sub": "Publisher; host of the Missing Money archive and co-publisher of the Skidmore-Fitts compilation",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 1146 of 1170, score 9). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 1114 of 1138, score 9). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.",
 "timeline": [],
 "unverified": []
 }

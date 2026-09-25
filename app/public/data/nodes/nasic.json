@@ -5,6 +5,7 @@
 "band": null,
 "claims": [
 {
+"id": "c-acc38c39b0",
 "source": "The Debrief, 5 June 2023",
 "text": "A serving NASIC intelligence officer with Top Secret clearance corroborated Grusch on the record under the pseudonym Jonathan Grey.",
 "tier": 2
@@ -20,6 +21,7 @@
 "dateEnd": null,
 "dateStart": "1997",
 "direction": "in",
+"edgeId": "e-d1e2d616b4",
 "edgeLabel": "Co-located at Wright-Patterson with the successor to the Foreign Technology Division",
 "id": "afrl",
 "l0": false,
@@ -41,6 +43,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-d3dfb0aa44",
 "edgeLabel": "Same Wright-Patterson lineage; NASIC is the later name",
 "id": "foreign-technology-division",
 "l0": false,
@@ -62,6 +65,7 @@
 "dateEnd": null,
 "dateStart": "2023",
 "direction": "in",
+"edgeId": "e-964d016ed7",
 "edgeLabel": "Serving intelligence officer at NASIC, Wright-Patterson AFB",
 "id": "jonathan-grey",
 "l0": false,
@@ -83,6 +87,7 @@
 "dateEnd": null,
 "dateStart": "1993",
 "direction": "out",
+"edgeId": "e-10be0ce5ef",
 "edgeLabel": "NASIC is the current tenant institution at Wright-Patterson",
 "id": "l-wright-patterson",
 "l0": false,
@@ -133,7 +138,7 @@
 ],
 "sub": "USAF intelligence center, Wright-Patterson AFB",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 688 of 1170, score 25). 4 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D1.",
+"tierRationale": "Re-graded C on a global pass (rank 678 of 1138, score 25). 4 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D1.",
 "timeline": [],
 "unverified": []
 }

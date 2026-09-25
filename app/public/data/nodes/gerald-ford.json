@@ -38,21 +38,25 @@
 ],
 "claims": [
 {
+"id": "c-cac360cba1",
 "source": "Contemporaneous press reporting, March 1966; recounted in the Condon Report's account of the origins of the Colorado project",
 "text": "Ford, then House Minority Leader, called in late March 1966 for congressional hearings on unidentified flying objects following the Michigan sightings and the swamp gas explanation.",
 "tier": 2
 },
 {
+"id": "c-46d7c5e1e9",
 "source": "US House Committee on Armed Services, 'Unidentified Flying Objects', Hearing No. 55, 89th Congress, 5 April 1966",
 "text": "The House Committee on Armed Services held a hearing on unidentified flying objects on 5 April 1966 (Hearing No. 55, 89th Congress).",
 "tier": 2
 },
 {
+"id": "c-5f2ebb8aa8",
 "source": "'Scientific Study of Unidentified Flying Objects', contract 44620-67-C-0035, University of Colorado, 1968",
 "text": "The Air Force established the University of Colorado study under contract in October 1966, six months after the hearing.",
 "tier": 1
 },
 {
+"id": "c-b02e621a69",
 "source": "Inference from the documented sequence April-October 1966 and the 17 December 1969 termination",
 "text": "The 1966 congressional pressure produced a contracted study rather than an inquiry, and that study became the instrument of termination — the same substitution pattern later seen with the Robertson Panel and with AARO.",
 "tier": 3
@@ -68,6 +72,7 @@
 "dateEnd": null,
 "dateStart": "1976-10-12",
 "direction": "out",
+"edgeId": "e-b66096a57c",
 "edgeLabel": "Signed Private Law 94-126, 12 October 1976",
 "id": "frank-olson-death-1953",
 "l0": false,
@@ -89,6 +94,7 @@
 "dateEnd": "1966",
 "dateStart": "1966",
 "direction": "out",
+"edgeId": "e-15a76806cb",
 "edgeLabel": "Ford forced the first congressional hearing on the subject",
 "id": "hearing-1966-04-05",
 "l0": false,
@@ -162,7 +168,7 @@
 "status": "dead",
 "sub": "House Minority Leader; later 38th President",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 865 of 1170, score 19). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 846 of 1138, score 19). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": [

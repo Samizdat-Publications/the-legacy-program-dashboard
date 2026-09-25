@@ -5,21 +5,25 @@
 "band": null,
 "claims": [
 {
+"id": "c-e9690c3480",
 "source": "US House Committee on Armed Services, 'Unidentified Flying Objects', Hearing No. 55, 89th Congress, 5 April 1966",
 "text": "The House Committee on Armed Services held a hearing on unidentified flying objects on 5 April 1966 (Hearing No. 55, 89th Congress) following Gerald Ford's call for an inquiry.",
 "tier": 2
 },
 {
+"id": "c-f347e667d4",
 "source": "'Scientific Study of Unidentified Flying Objects', University of Colorado, 1968",
 "text": "The Air Force contracted the University of Colorado UFO study six months later, on 6 October 1966, under contract 44620-67-C-0035.",
 "tier": 1
 },
 {
+"id": "c-8293de2456",
 "source": "US House Committee on Science and Astronautics, 90th Congress, 2nd Session, 29 July 1968",
 "text": "A second congressional proceeding, the House Committee on Science and Astronautics 'Symposium on Unidentified Flying Objects', was held on 29 July 1968 with witnesses including J. Allen Hynek, James E. McDonald and Carl Sagan.",
 "tier": 1
 },
 {
+"id": "c-b70e6c5d21",
 "source": "Inference from the legislative record between 1966 and Public Law 118-31 sections 1841-1843",
 "text": "Neither 1966 nor 1968 produced any statute, records requirement or continuing oversight mechanism; the first binding UAP records statute did not arrive until the FY2024 NDAA, fifty-eight years later.",
 "tier": 3
@@ -35,6 +39,7 @@
 "dateEnd": "1966",
 "dateStart": "1966",
 "direction": "out",
+"edgeId": "e-ddf66cd1bc",
 "edgeLabel": "Congressional pressure produced a contracted study, not oversight",
 "id": "condon-committee",
 "l0": true,
@@ -56,6 +61,7 @@
 "dateEnd": "1966",
 "dateStart": "1966",
 "direction": "in",
+"edgeId": "e-15a76806cb",
 "edgeLabel": "Ford forced the first congressional hearing on the subject",
 "id": "gerald-ford",
 "l0": false,
@@ -82,6 +88,7 @@
 "dateEnd": "1966",
 "dateStart": "1966",
 "direction": "in",
+"edgeId": "e-a2e93082a2",
 "edgeLabel": "The swamp gas episode triggered the 1966 hearing",
 "id": "j-allen-hynek",
 "l0": false,
@@ -137,7 +144,7 @@
 ],
 "sub": "89th Congress, Hearing No. 55, 5 April 1966",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 793 of 1170, score 22). 3 connections, 1 of them custody/funding/programmatic. Axes C0/A1/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 775 of 1138, score 22). 3 connections, 1 of them custody/funding/programmatic. Axes C0/A1/D2.",
 "timeline": [
 {
 "claimTier": null,

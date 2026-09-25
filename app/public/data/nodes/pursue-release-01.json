@@ -5,26 +5,31 @@
 "band": null,
 "claims": [
 {
+"id": "c-d326caa0f9",
 "source": "Disclosure Archives inventory compiled from the war.gov/UFO Release 01 posting",
 "text": "Release 01 comprised 160 files - 117 PDFs, 29 sensor videos, 14 photographs - spanning 1944 to 2026.",
 "tier": 2
 },
 {
+"id": "c-114e3b415b",
 "source": "war.gov/UFO, accessed 12 August 2026",
 "text": "The war.gov portal lists Release 01 dated 8 May 2026 with a 1.2GB document bundle and a 1.3GB video bundle.",
 "tier": 1
 },
 {
+"id": "c-673b761fbf",
 "source": "DefenseScoop, 14 May 2026",
 "text": "At least 100 of the roughly 160 files contained redactions.",
 "tier": 2
 },
 {
+"id": "c-1ef5e118ab",
 "source": "Aerotime, 9 May 2026; Disclosure Archives inventory",
 "text": "Contents include Apollo 12 and 17 records, FBI infrared imagery from the western US in September and December 2025, and a 2026 US Army report of a North American sighting.",
 "tier": 2
 },
 {
+"id": "c-0db075e81a",
 "source": "Disclosure Archives inventory of Release 01",
 "text": "FBI file 62-HQ-83894, the Bureau's master flying disc file spanning 1947-1968, was released as a single 101MB PDF.",
 "tier": 2
@@ -40,6 +45,7 @@
 "dateEnd": "2026",
 "dateStart": "2026",
 "direction": "out",
+"edgeId": "e-90237c1685",
 "edgeLabel": "Published FBI 62-HQ-83894, well beyond the Vault's 1947-1954 scope",
 "id": "fbi-vault-ufo",
 "l0": false,
@@ -66,6 +72,7 @@
 "dateEnd": "2026",
 "dateStart": "2026",
 "direction": "out",
+"edgeId": "e-259fb21e8d",
 "edgeLabel": "Released Apollo 12 and Apollo 17 mission records",
 "id": "nasa",
 "l0": true,
@@ -92,6 +99,7 @@
 "dateEnd": "2026",
 "dateStart": "2026",
 "direction": "in",
+"edgeId": "e-3bda08c4ab",
 "edgeLabel": "First tranche, 8 May 2026",
 "id": "pursue-releases",
 "l0": true,
@@ -173,7 +181,7 @@
 ],
 "sub": "8 May 2026; 160 files; 1944-2026",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 246 of 1170, score 42). 3 connections, 3 of them custody/funding/programmatic. Axes C1/A3/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 250 of 1138, score 42). 3 connections, 3 of them custody/funding/programmatic. Axes C1/A3/D3.",
 "timeline": [
 {
 "claimTier": 1,

@@ -5,31 +5,37 @@
 "band": "oversight",
 "claims": [
 {
+"id": "c-860f926b3a",
 "source": "https://burlison.house.gov/sites/evo-subsites/burlison.house.gov/files/evo-media-document/memorandum_2026.pdf",
 "text": "The memorandum 'provides preliminary guidance for the release of all Unidentified Anomalous Phenomena (UAP) information to the Presidential Unsealing and Reporting System for UAP Encounters (PURSUE) Task Force for review and declassification.'",
 "tier": 1
 },
 {
+"id": "c-20c24fa108",
 "source": "https://burlison.house.gov/sites/evo-subsites/burlison.house.gov/files/evo-media-document/memorandum_2026.pdf",
 "text": "Current and former government employees and contractors 'shall have prior non-disclosure agreements (NDA), agreements, oaths, or commitments waived when speaking with authorized government representatives of the All-Domain Anomaly Resolution Office (AARO) or PURSUE.'",
 "tier": 1
 },
 {
+"id": "c-7626a5d189",
 "source": "https://burlison.house.gov/sites/evo-subsites/burlison.house.gov/files/evo-media-document/memorandum_2026.pdf",
 "text": "All IC members must within 30 days coordinate with ODNI to establish a PURSUE designee and inform their workforce that 'any previous or existing NDAs prohibiting disclosure to the President, or designees like PURSUE, are no longer in force.'",
 "tier": 1
 },
 {
+"id": "c-eb435fc86b",
 "source": "https://burlison.house.gov/sites/evo-subsites/burlison.house.gov/files/evo-media-document/memorandum_2026.pdf",
 "text": "Distribution includes the Directors of CIA, DIA, NGA, NRO, NSA and FBI, USD(I&S) at the Department of War, DHS I&A, State INR, Treasury, DEA, DOE Office of Intelligence and Counterintelligence, and the intelligence chiefs of the Army, Marine Corps, Navy, Air Force, Space Force and Coast Guard.",
 "tier": 1
 },
 {
+"id": "c-46f7c1821f",
 "source": "https://burlison.house.gov/sites/evo-subsites/burlison.house.gov/files/evo-media-document/memorandum_2026.pdf",
 "text": "Signed by Aaron Lukas, Principal Deputy Director of National Intelligence, control number ES 2026-00818, classified UNCLASSIFIED.",
 "tier": 1
 },
 {
+"id": "c-05765f14fc",
 "source": "https://burlison.house.gov/sites/evo-subsites/burlison.house.gov/files/evo-media-document/memorandum_2026.pdf",
 "text": "The inclusion of 'oaths, or commitments' alongside written NDAs is drafted to reach oral secrecy commitments of the kind associated with unacknowledged special access programmes, which do not generate signed agreements a witness could point to. Reasoning: written NDAs alone would have been fully covered by the word 'agreements'; the additional terms are only load-bearing if unwritten obligations exist.",
 "tier": 3
@@ -45,6 +51,7 @@
 "dateEnd": null,
 "dateStart": "2026-08-01",
 "direction": "out",
+"edgeId": "e-564bde4e2c",
 "edgeLabel": "designates AARO as a receiving channel for waived-NDA testimony",
 "id": "aaro",
 "l0": true,
@@ -66,6 +73,7 @@
 "dateEnd": null,
 "dateStart": "2026-08-01",
 "direction": "in",
+"edgeId": "e-2ff96058d6",
 "edgeLabel": "signatory",
 "id": "aaron-lukas",
 "l0": false,
@@ -87,6 +95,7 @@
 "dateEnd": null,
 "dateStart": "2026-08-01",
 "direction": "out",
+"edgeId": "e-e64cb62474",
 "edgeLabel": "directed to release; absent from the statutory archive",
 "id": "cia",
 "l0": true,
@@ -113,6 +122,7 @@
 "dateEnd": null,
 "dateStart": "2026-08-01",
 "direction": "out",
+"edgeId": "e-7e3a5abbb2",
 "edgeLabel": "directed to release; absent from the statutory archive",
 "id": "dia",
 "l0": true,
@@ -139,6 +149,7 @@
 "dateEnd": null,
 "dateStart": "2026-08-01",
 "direction": "out",
+"edgeId": "e-22854f548b",
 "edgeLabel": "directed to release; absent from the statutory archive",
 "id": "doe",
 "l0": true,
@@ -165,6 +176,7 @@
 "dateEnd": null,
 "dateStart": "2026-08-01",
 "direction": "in",
+"edgeId": "e-ab3e841c6f",
 "edgeLabel": "obtained and published",
 "id": "eric-burlison",
 "l0": false,
@@ -191,10 +203,11 @@
 "dateEnd": null,
 "dateStart": "2026-08-01",
 "direction": "out",
+"edgeId": "e-b074fa5409",
 "edgeLabel": "names the agencies absent from the statutory archive",
-"id": "nara-rg615",
+"id": "nara-uap-collection",
 "l0": true,
-"label": "National Archives Record Group 615 - UAP Records Collection",
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection",
 "note": "The memorandum's distribution list includes CIA, DIA, NRO, NGA, DOE and every military department - none of which has a series in Record Group 615. The same agencies are simultaneously addressees of a UAP release directive and absentees from the statutory collection.",
 "sources": [
 {
@@ -217,6 +230,7 @@
 "dateEnd": null,
 "dateStart": "2026-08-01",
 "direction": "out",
+"edgeId": "e-741a4b62f4",
 "edgeLabel": "directed to release; absent from the statutory archive",
 "id": "nro",
 "l0": true,
@@ -243,6 +257,7 @@
 "dateEnd": "2026-08-01",
 "dateStart": "2026-05-22",
 "direction": "in",
+"edgeId": "e-a12a103706",
 "edgeLabel": "same originator, two months apart",
 "id": "odni-uap-d001",
 "l0": false,
@@ -269,6 +284,7 @@
 "dateEnd": null,
 "dateStart": "2026-08-01",
 "direction": "out",
+"edgeId": "e-6ba8443113",
 "edgeLabel": "establishes as an entity with declassification authority",
 "id": "pursue-task-force",
 "l0": false,
@@ -305,6 +321,7 @@
 },
 "claimTier": 3,
 "denialKind": "directed",
+"edgeId": "e-e64cb62474",
 "label": "directed to release; absent from the statutory archive",
 "note": "The Director of the Central Intelligence Agency is an addressee of the ODNI NDA-waiver memorandum and the CIA has no series in Record Group 615, whose transfer deadline passed on 30 September 2025.",
 "of": {
@@ -339,6 +356,7 @@
 },
 "claimTier": 3,
 "denialKind": "directed",
+"edgeId": "e-7e3a5abbb2",
 "label": "directed to release; absent from the statutory archive",
 "note": "The Director of the Defense Intelligence Agency is an addressee of ES 2026-00818; DIA has no RG 615 series as of 12 August 2026.",
 "of": {
@@ -373,6 +391,7 @@
 },
 "claimTier": 3,
 "denialKind": "directed",
+"edgeId": "e-22854f548b",
 "label": "directed to release; absent from the statutory archive",
 "note": "The Director of the Office of Intelligence and Counterintelligence, Department of Energy, is an addressee of ES 2026-00818; DOE has no RG 615 series.",
 "of": {
@@ -407,6 +426,7 @@
 },
 "claimTier": 3,
 "denialKind": "directed",
+"edgeId": "e-741a4b62f4",
 "label": "directed to release; absent from the statutory archive",
 "note": "The Director of the National Reconnaissance Office is an addressee of ES 2026-00818; NRO has no RG 615 series, and NRO launches are the setting of Nuccetelli's Vandenberg testimony.",
 "of": {
@@ -585,7 +605,7 @@
 ],
 "sub": "Signed by Aaron Lukas, Principal Deputy DNI; released by Rep. Burlison 1 August 2026",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 75 of 1170, score 71). 10 connections, 2 of them custody/funding/programmatic, 4 official denials recorded against it. Axes C2/A3/D3.",
+"tierRationale": "Re-graded A on a global pass (rank 79 of 1138, score 71). 10 connections, 2 of them custody/funding/programmatic, 4 official denials recorded against it. Axes C2/A3/D3.",
 "timeline": [
 {
 "claimTier": 1,

@@ -5,26 +5,31 @@
 "band": "disclosure",
 "claims": [
 {
+"id": "c-a03ee29975",
 "source": "Memorandum for the Secretary of Defense, Justification for US Military Intervention in Cuba (TS), 13 March 1962, JCS 1969/321, https://archive.org/download/OperationNorthwoods/operation_northwoods_djvu.txt",
 "text": "The Chairman signed it and the Joint Chiefs asked for the mission. The signature block reads 'For the Joint Chiefs of Staff / L. L. LEMNITZER / Chairman / Joint Chiefs of Staff', and paragraph 3 states: 'It is recommended that this responsibility for both overt and covert military operations be assigned the Joint Chiefs of Staff.'",
 "tier": 1
 },
 {
+"id": "c-11e6eb914f",
 "source": "Annex to Appendix to Enclosure A, 13 March 1962, https://archive.org/download/OperationNorthwoods/operation_northwoods_djvu.txt",
 "text": "The annex names itself: 'ANNEX TO APPENDIX TO ENCLOSURE A / PRETEXTS TO JUSTIFY US MILITARY INTERVENTION IN CUBA', and its first course of action states the method in the document's own words: 'Since it would seem desirable to use legitimate provocation as the basis for US military intervention in Cuba a cover and deception plan ... could be executed as an initial effort to provoke Cuban reactions.'",
 "tier": 1
 },
 {
+"id": "c-19c3ca5039",
 "source": "Annex to Appendix to Enclosure A, paragraph 3, 13 March 1962, https://archive.org/download/OperationNorthwoods/operation_northwoods_djvu.txt",
 "text": "One proposed pretext was a staged attack on American forces: 'A \"Remember the Maine\" incident could be arranged in several forms: a. We could blow up a US ship in Guantanamo Bay and blame Cuba.'",
 "tier": 1
 },
 {
+"id": "c-31dea85b1b",
 "source": "Annex to Appendix to Enclosure A, paragraph 8a, 13 March 1962, https://archive.org/download/OperationNorthwoods/operation_northwoods_djvu.txt",
 "text": "Another named a specific base and a specific cover organisation: 'An aircraft at Eglin AFB would be painted and numbered as an exact duplicate for a civil registered aircraft belonging to a CIA proprietary organization in the Miami area.'",
 "tier": 1
 },
 {
+"id": "c-e267ce0f69",
 "source": "National Security Archive, Chairman, Joint Chiefs of Staff, Memorandum to the Secretary of Defense, 'Justification for US Military Intervention in Cuba', https://nsarchive.gwu.edu/CMC-60/joint-chiefs-pretexts-to-invade-Cuba-1962",
 "text": "It reached the public through a records statute, not through disclosure. The National Security Archive's posting gives the classification as TOP SECRET SPECIAL HANDLING NOFORN and the source as the John F. Kennedy Assassination Records Review Board.",
 "tier": 1
@@ -40,6 +45,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-5826a24e22",
 "edgeLabel": "The airliner pretext turns on an aircraft belonging to a CIA proprietary organisation",
 "id": "cia",
 "l0": true,
@@ -61,6 +67,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-1274b87df2",
 "edgeLabel": "Held TOP SECRET SPECIAL HANDLING NOFORN for thirty-five years",
 "id": "d-coverup",
 "l0": false,
@@ -82,6 +89,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-f07e2d9e5f",
 "edgeLabel": "A staffed and signed plan to manufacture events and attribute them to another state",
 "id": "d-disinformation",
 "l0": false,
@@ -103,6 +111,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-6327dab193",
 "edgeLabel": "Calls for a cover and deception plan executed to provoke a citable reaction",
 "id": "d-psyop",
 "l0": false,
@@ -124,6 +133,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-687c1e776b",
 "edgeLabel": "Addressed to the Secretary of Defense, signed by the Chairman of the Joint Chiefs",
 "id": "dod",
 "l0": true,
@@ -145,6 +155,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-5021b06b7a",
 "edgeLabel": "The annex places the duplicate aircraft at Eglin AFB",
 "id": "l-eglin",
 "l0": false,
@@ -166,6 +177,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-2fccafb363",
 "edgeLabel": "Reached the public through the JFK Assassination Records Review Board",
 "id": "national-archives",
 "l0": false,
@@ -291,7 +303,7 @@
 ],
 "sub": "Joint Chiefs of Staff memorandum to the Secretary of Defense, JCS 1969/321, TOP SECRET SPECIAL HANDLING NOFORN; released through the JFK Assassination Records Review Board",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 285 of 1170, score 40). 7 connections, 3 of them custody/funding/programmatic. Axes C1/A1/D1.",
+"tierRationale": "Re-graded B on a global pass (rank 288 of 1138, score 40). 7 connections, 3 of them custody/funding/programmatic. Axes C1/A1/D1.",
 "timeline": [
 {
 "claimTier": null,

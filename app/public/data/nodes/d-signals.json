@@ -5,16 +5,19 @@
 "band": null,
 "claims": [
 {
+"id": "c-52c59af237",
 "source": "CAUS v. NSA (CourtListener); NSA collection via The Black Vault",
 "text": "In Citizens Against UFO Secrecy v. NSA the D.C. Circuit sustained NSA's withholding of UFO-related records; the supporting Yeates affidavit was itself released only in redacted form.",
 "tier": 1
 },
 {
+"id": "c-89d3f45984",
 "source": "DefenseScoop, 26 August 2024",
 "text": "Jon Kosloski, a senior NSA researcher, was appointed to lead AARO in August 2024.",
 "tier": 1
 },
 {
+"id": "c-30f2e001fa",
 "source": "DefenseScoop, 10 December 2025",
 "text": "The FY2026 NDAA cycle included congressional demands for information on military UAP intercepts around North America.",
 "tier": 2
@@ -30,6 +33,7 @@
 "dateEnd": null,
 "dateStart": "2004-11-14",
 "direction": "out",
+"edgeId": "e-5e0b2cee2f",
 "edgeLabel": "Sensor corroboration is what makes the accounts arguable",
 "id": "d-aviators",
 "l0": false,
@@ -51,6 +55,7 @@
 "dateEnd": null,
 "dateStart": "1980-01-01",
 "direction": "out",
+"edgeId": "e-11512eb21e",
 "edgeLabel": "Exemption 3 and the Glomar posture",
 "id": "d-foia",
 "l0": false,
@@ -72,6 +77,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-3fd8bb96b7",
 "edgeLabel": "subject domain: sensing and tracking at hypersonic velocity",
 "id": "dird-detection-and-high-resolution-tracking-of",
 "l0": false,
@@ -98,6 +104,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-8303c3ddc9",
 "edgeLabel": "subject domain: gravitational-wave communications and surveillance",
 "id": "dird-high-frequency-gravitational-wave-communications",
 "l0": false,
@@ -134,6 +141,7 @@
 "dateEnd": null,
 "dateStart": "1952-11-04",
 "direction": "out",
+"edgeId": "e-209823571b",
 "edgeLabel": "NSA holdings and the FOIA wall",
 "id": "l-ft-meade",
 "l0": false,
@@ -167,6 +175,7 @@
 "by": null,
 "claimTier": 1,
 "denialKind": "association",
+"edgeId": "e-11512eb21e",
 "label": "Exemption 3 and the Glomar posture",
 "note": "NSA's statutory withholding, sustained in CAUS v. NSA on the classified Yeates affidavit, is the hardest documented barrier between sensor data and the public record.",
 "of": null,
@@ -223,7 +232,7 @@
 ],
 "sub": "Technical domain - radar, SIGINT, MASINT and the classified data that would settle the question",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 423 of 1170, score 34). 5 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D2.",
+"tierRationale": "Re-graded B on a global pass (rank 423 of 1138, score 34). 5 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D2.",
 "timeline": [
 {
 "claimTier": 1,

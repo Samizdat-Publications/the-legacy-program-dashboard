@@ -5,21 +5,25 @@
 "band": null,
 "claims": [
 {
+"id": "c-186d26209b",
 "source": "DIA letter to SASC, 9 January 2018",
 "text": "DIA wrote to Senators John McCain and Jack Reed on 9 January 2018, over the signature of Brian L. Jenkins, Chief of Records Management and Information Services, enclosing a list of all 38 products produced under AATIP.",
 "tier": 1
 },
 {
+"id": "c-82e9a28dc8",
 "source": "DIA letter to SASC, 9 January 2018",
 "text": "'The purpose of AATIP was to investigate foreign advanced aerospace weapon threats from the present out to the next 40 years.'",
 "tier": 1
 },
 {
+"id": "c-ccd80da90f",
 "source": "DIA letter to SASC, 9 January 2018",
 "text": "The list identifies items 37 and 38 as two versions of the same high-energy laser weapons paper, one SECRET/NOFORN and one UNCLASSIFIED//FOUO.",
 "tier": 1
 },
 {
+"id": "c-06922cd142",
 "source": "Inference from the letter's date, addressees and introductory framing",
 "text": "The need for DIA to introduce the program to the Senate Armed Services Committee by letter in January 2018 establishes that the committee had not been briefed on it during its ten-year life, which is the direct structural consequence of funding it through the classified appropriation rather than the authorization.",
 "tier": 3
@@ -35,6 +39,7 @@
 "dateEnd": "2018",
 "dateStart": "2018",
 "direction": "in",
+"edgeId": "e-be33e63ad5",
 "edgeLabel": "signed the transmittal to the Senate Armed Services Committee",
 "id": "brian-jenkins-dia",
 "l0": false,
@@ -56,6 +61,7 @@
 "dateEnd": "2018",
 "dateStart": "2018",
 "direction": "out",
+"edgeId": "e-152e6fcbe7",
 "edgeLabel": "receipt for the authorization gap",
 "id": "defense-appropriations-aawsap",
 "l0": false,
@@ -77,6 +83,7 @@
 "dateEnd": "2018",
 "dateStart": "2018",
 "direction": "out",
+"edgeId": "e-cf77ee29ca",
 "edgeLabel": "transmitted the complete list of 38 products",
 "id": "dird-series",
 "l0": true,
@@ -137,7 +144,7 @@
 ],
 "sub": "Brian L. Jenkins to Sens. McCain and Reed, 9 January 2018",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 683 of 1170, score 25). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 673 of 1138, score 25). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D3.",
 "timeline": [
 {
 "claimTier": null,

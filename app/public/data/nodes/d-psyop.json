@@ -5,21 +5,25 @@
 "band": null,
 "claims": [
 {
+"id": "c-a992a627a0",
 "source": "Inference from Alejandro Rojas, HuffPost, 13 May 2014 and Mystery Wire YouTube 9TLfM5VKX3M, both opened 2026-09-19",
 "text": "STATED INFERENCE ABOUT THE DOMAIN'S BEST-KNOWN CASE. The Bennewitz operation is carried across this board on the strength of admissions, and the principal admitting officer has since denied on the record that the operation did the harm attributed to it, while the civilian who admitted the same conduct in 1989 has not retracted. Reasoning: where a domain rests on self-description by deceivers, its strongest claims should be the ones with a documentary spine, here the 1980 complaint form, and its weakest should be the ones resting only on what a deceiver later said about himself.",
 "tier": 3
 },
 {
+"id": "c-ee72aa1431",
 "source": "Robertson Panel report, declassified text",
 "text": "The Robertson Panel (January 1953) recommended a programme of public 'training and debunking' using mass media, and that civilian UFO groups be watched.",
 "tier": 1
 },
 {
+"id": "c-34fd57cdb1",
 "source": "The Black Vault, Richard Doty Personnel File - New Mexico State Police",
 "text": "Richard C. Doty's New Mexico State Police personnel file, 321 pages, was released under public records request and is publicly archived.",
 "tier": 1
 },
 {
+"id": "c-b058ea0ac4",
 "source": "Named-source reporting summarised at Garber Files, 'From Mirage Men to Military Deception'",
 "text": "Air Force OSI personnel supplied Paul Bennewitz with fabricated documents concerning alien activity in the early 1980s; the episode is the documented core of the 'Mirage Men' account of UFO-adjacent counterintelligence deception.",
 "tier": 2
@@ -35,6 +39,7 @@
 "dateEnd": null,
 "dateStart": "1948-06-18",
 "direction": "in",
+"edgeId": "e-767f24842a",
 "edgeLabel": "Propaganda is the first named category in the charter",
 "id": "cia-office-of-policy-coordination",
 "l0": false,
@@ -56,6 +61,7 @@
 "dateEnd": null,
 "dateStart": "1948-08-01",
 "direction": "in",
+"edgeId": "e-5c1ff77fec",
 "edgeLabel": "Same service, both functions",
 "id": "d-counterintel",
 "l0": false,
@@ -77,6 +83,7 @@
 "dateEnd": null,
 "dateStart": "1953-01-17",
 "direction": "in",
+"edgeId": "e-f84fed5a8b",
 "edgeLabel": "Debunking recommended as a security measure",
 "id": "d-coverup",
 "l0": false,
@@ -98,6 +105,7 @@
 "dateEnd": null,
 "dateStart": "1980-01-01",
 "direction": "out",
+"edgeId": "e-25b998b015",
 "edgeLabel": "Fabricated material as the delivery vehicle",
 "id": "d-disinformation",
 "l0": false,
@@ -119,6 +127,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-c711784f2e",
 "edgeLabel": "Downstream of the Kirtland operation, which is this domain's best-known case",
 "id": "dulce-base",
 "l0": false,
@@ -145,6 +154,7 @@
 "dateEnd": "1952",
 "dateStart": "1951",
 "direction": "in",
+"edgeId": "e-4784735fe2",
 "edgeLabel": "First Director of the Psychological Strategy Board, appointed 1951",
 "id": "gordon-gray",
 "l0": false,
@@ -166,6 +176,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-6327dab193",
 "edgeLabel": "Calls for a cover and deception plan executed to provoke a citable reaction",
 "id": "operation-northwoods",
 "l0": true,
@@ -242,7 +253,7 @@
 ],
 "sub": "Operational domain - deliberate manipulation of belief as a security measure",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 236 of 1170, score 43). 7 connections, 5 of them custody/funding/programmatic. Axes C1/A2/D1.",
+"tierRationale": "Re-graded B on a global pass (rank 240 of 1138, score 43). 7 connections, 5 of them custody/funding/programmatic. Axes C1/A2/D1.",
 "timeline": [
 {
 "claimTier": 1,

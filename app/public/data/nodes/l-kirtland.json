@@ -5,36 +5,43 @@
 "band": null,
 "claims": [
 {
+"id": "c-29e8bc56cc",
 "source": "AFOSI complaint form, District File No. 8017D93-0/29, reproduced by NICAP from the CUFON archive, https://www.nicap.org/foia_003.htm , opened 2026-09-19",
 "text": "The 1980 AFOSI complaint form for the Coyote Canyon and Manzano observations is reproduced in full and openable, with its file number, its agent and its named 1608 Security Police Squadron observers, which fixes the Kirtland end of the Bennewitz affair in a primary record rather than in anyone's recollection.",
 "tier": 1
 },
 {
+"id": "c-73eddf8639",
 "source": "Find a Grave memorial 17482201, https://www.findagrave.com/memorial/17482201/paul_frederick-bennewitz , opened 2026-09-19",
 "text": "Paul Frederick Bennewitz Jr, whose company sat where it overlooked the Manzano storage area, was born 30 September 1927 and died 23 June 2003, and is buried at Santa Fe National Cemetery, Section 12 Site 402, under a marker reading 'S1C US COAST GUARD WORLD WAR II'.",
 "tier": 1
 },
 {
+"id": "c-c829be5a10",
 "source": "Wikipedia, Kirtland Air Force Base, citing USAF fact sheets — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "text": "Kirtland AFB covers 51,558 acres in southeast Albuquerque; Manzano Base merged with Kirtland on 1 July 1971; KUMMSC was activated in 1992 with more than 300,000 square feet underground.",
 "tier": 2
 },
 {
+"id": "c-bee36a05e8",
 "source": "Wikipedia, Paul Bennewitz, citing contemporaneous correspondence and the Albuquerque Tribune — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "text": "Bennewitz dated the start of his personally funded study to July 1979, contacted the base on 24 October 1980 and briefed Kirtland officials on 10 November 1980.",
 "tier": 2
 },
 {
+"id": "c-9df8a13609",
 "source": "Wikipedia, Paul Bennewitz, citing Moore's 1989 MUFON statement and the Monroe Institute article in the CIA reading room",
 "text": "On 1 July 1989 William Moore stated publicly that he had attempted to push Bennewitz into a mental breakdown by feeding him false information about aliens; a 1992 article held in the CIA library identified Moore and AFOSI agent Richard Doty as responsible for a disinformation campaign against Bennewitz.",
 "tier": 2
 },
 {
+"id": "c-a170e3377f",
 "source": "Doty's own public statements as summarised in the Paul Bennewitz article",
 "text": "Richard C. Doty, a former AFOSI special agent, has said he was tasked in the 1980s with hoaxing documents and feeding false information to UFO researchers including Bennewitz.",
 "tier": 2
 },
 {
+"id": "c-5b503a1a7b",
 "source": "Inference from the admitted Doty/Moore campaign and the absence of any official account of the 1979-1980 Manzano observations",
 "text": "The Bennewitz operation establishes that at least one counterintelligence element treated civilian observation of anomalous activity over a nuclear weapons storage site as a problem to be neutralised by deception rather than investigated. Reasoning: the disinformation is admitted by two named participants; the underlying stimulus - lights over Manzano in 1979-1980 - has never been officially explained.",
 "tier": 3
@@ -50,6 +57,7 @@
 "dateEnd": "2024",
 "dateStart": "2024",
 "direction": "in",
+"edgeId": "e-90a97a7a4d",
 "edgeLabel": "nuclear-adjacent installations named in AARO's own unresolved allegations",
 "id": "aaro",
 "l0": true,
@@ -76,6 +84,7 @@
 "dateEnd": "1981",
 "dateStart": "1980",
 "direction": "in",
+"edgeId": "e-3ab5364c97",
 "edgeLabel": "The AFOSI Kirtland file is the documentary residue of the Bennewitz operation",
 "id": "afosi-kirtland-file",
 "l0": false,
@@ -97,6 +106,7 @@
 "dateEnd": "1983",
 "dateStart": "1980",
 "direction": "in",
+"edgeId": "e-8eb8e51aaf",
 "edgeLabel": "AFOSI District 17 file generated at Kirtland AFB",
 "id": "afosi-kirtland-file",
 "l0": false,
@@ -118,6 +128,7 @@
 "dateEnd": "1959",
 "dateStart": "1959",
 "direction": "in",
+"edgeId": "e-00c9c03f35",
 "edgeLabel": "Issued from Kirtland Air Force Base, New Mexico",
 "id": "afswc-tr-59-39",
 "l0": false,
@@ -139,6 +150,7 @@
 "dateEnd": "1960",
 "dateStart": "1960",
 "direction": "in",
+"edgeId": "e-6d3ef4a0b5",
 "edgeLabel": "Chief, Structures Division, Air Force Special Weapons Center, Kirtland AFB",
 "id": "eric-wang",
 "l0": false,
@@ -160,6 +172,7 @@
 "dateEnd": "1980",
 "dateStart": "1980",
 "direction": "in",
+"edgeId": "e-3a8fc01d43",
 "edgeLabel": "Occurred at the Manzano Weapons Storage Area and Coyote Canyon",
 "id": "kirtland-manzano-1980",
 "l0": false,
@@ -181,6 +194,7 @@
 "dateEnd": null,
 "dateStart": "1941",
 "direction": "out",
+"edgeId": "e-af1d0af165",
 "edgeLabel": "Kirtland AFB lies inside the Albuquerque city limits",
 "id": "l-albuquerque",
 "l0": false,
@@ -202,6 +216,7 @@
 "dateEnd": "1980",
 "dateStart": "1979",
 "direction": "in",
+"edgeId": "e-c4be72707d",
 "edgeLabel": "Bennewitz's 1979-1980 observations were of the Manzano area of Kirtland AFB",
 "id": "paul-bennewitz",
 "l0": false,
@@ -223,6 +238,7 @@
 "dateEnd": "1988",
 "dateStart": "1980",
 "direction": "in",
+"edgeId": "e-fce341e7ef",
 "edgeLabel": "Doty's AFOSI detachment ran the Bennewitz deception from Kirtland",
 "id": "richard-doty",
 "l0": false,
@@ -244,6 +260,7 @@
 "dateEnd": null,
 "dateStart": "1949",
 "direction": "in",
+"edgeId": "e-6a1fe3f35c",
 "edgeLabel": "Sandia National Laboratories is adjacent to Kirtland AFB",
 "id": "sandia",
 "l0": true,
@@ -270,6 +287,7 @@
 "dateEnd": "2023",
 "dateStart": "1980",
 "direction": "in",
+"edgeId": "e-1a302f6d14",
 "edgeLabel": "reported in the lineage of Air Force UFO deception operations centred on Kirtland/AFOSI",
 "id": "yankee-blue",
 "l0": true,
@@ -342,7 +360,7 @@
 ],
 "sub": "51,558-acre USAF installation, southeast Albuquerque; AFRL Directed Energy, AFNWC, Manzano, KUMMSC, Sandia",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 177 of 1170, score 48). 11 connections, 1 of them custody/funding/programmatic. Axes C2/A3/D1.",
+"tierRationale": "Re-graded B on a global pass (rank 178 of 1138, score 48). 11 connections, 1 of them custody/funding/programmatic. Axes C2/A3/D1.",
 "timeline": [
 {
 "claimTier": null,

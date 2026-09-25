@@ -5,6 +5,7 @@
 "band": null,
 "claims": [
 {
+"id": "c-2d6224160f",
 "source": "Congress.gov H.R. 8424 (118th)",
 "text": "Introduced 16 May 2024 by Rep. Tim Burchett; died in referral at the end of the 118th Congress.",
 "tier": 1
@@ -20,6 +21,7 @@
 "dateEnd": "2025",
 "dateStart": "2024",
 "direction": "in",
+"edgeId": "e-66fdbfec24",
 "edgeLabel": "Sponsor of the 118th Congress predecessor",
 "id": "tim-burchett",
 "l0": false,
@@ -70,7 +72,7 @@
 ],
 "sub": "Introduced 16 May 2024; died",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 1167 of 1170, score 6). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D1.",
+"tierRationale": "Re-graded C on a global pass (rank 1135 of 1138, score 6). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D1.",
 "timeline": [
 {
 "claimTier": null,

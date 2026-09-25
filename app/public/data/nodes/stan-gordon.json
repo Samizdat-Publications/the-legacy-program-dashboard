@@ -31,16 +31,19 @@
 ],
 "claims": [
 {
+"id": "c-92df74e779",
 "source": "Unsolved Mysteries (NBC, 1990); 'The New Roswell: Kecksburg Exposed' (Sci Fi Channel, 2003)",
 "text": "Kecksburg residents interviewed over four decades describe an object shaped like an acorn and about the size of a Volkswagen bearing writing resembling hieroglyphs, removed from the woods by a military operation; resident John Hays has stated since 1990 that as a ten-year-old he saw a flat-bed truck emerging from the site carrying something 'the size of a VW'.",
 "tier": 2
 },
 {
+"id": "c-d25b37ea61",
 "source": "Greensburg Tribune-Review, December 1965",
 "text": "The Greensburg Tribune-Review reported at the time that the landing area was immediately sealed off on the order of US Army and State Police officials in anticipation of a close inspection, and that state police ordered the area roped off pending the arrival of Army engineers and possibly civilian scientists; a subsequent edition ran the headline 'Searchers Fail to Find Object'.",
 "tier": 1
 },
 {
+"id": "c-0b8419cdf4",
 "source": "Inference from the Tribune-Review reporting set against the Kean v. NASA record",
 "text": "The Kecksburg record is the domain's clearest instance of a documented cordon with an undocumented object: the sealing of the area is in the contemporary press, and the disposition of whatever was inside the cordon is in no released record of any agency. Reasoning: the cordon is tier 1, the object is tier 2 at best, and NASA has been judicially found not to have adequately searched for the difference.",
 "tier": 3
@@ -58,6 +61,7 @@
 "dateEnd": "2014",
 "dateStart": "1965-12-09",
 "direction": "out",
+"edgeId": "e-26d92b7e0b",
 "edgeLabel": "Principal field investigator of the Kecksburg witness pool",
 "id": "kecksburg-1965",
 "l0": false,
@@ -79,6 +83,7 @@
 "dateEnd": "2014",
 "dateStart": "1965-12-09",
 "direction": "out",
+"edgeId": "e-55162b6f94",
 "edgeLabel": "Four decades of field investigation at the site",
 "id": "l-kecksburg",
 "l0": false,
@@ -100,6 +105,7 @@
 "dateEnd": "2007",
 "dateStart": "2003",
 "direction": "in",
+"edgeId": "e-df70881355",
 "edgeLabel": "Gordon's witness pool underwrote the evidentiary premise of the suit",
 "id": "leslie-kean",
 "l0": false,
@@ -162,7 +168,7 @@
 "status": "active",
 "sub": "Pennsylvania field researcher; principal investigator of the 1965 Kecksburg incident",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 1047 of 1170, score 13). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 1017 of 1138, score 13). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": [

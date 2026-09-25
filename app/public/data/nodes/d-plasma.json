@@ -5,16 +5,19 @@
 "band": null,
 "claims": [
 {
+"id": "c-a754d640da",
 "source": "Condon Report, Section VI Chapter 7",
 "text": "The Condon Report contains a dedicated chapter by Martin D. Altschuler on atmospheric electricity and plasma interpretations of UFOs.",
 "tier": 1
 },
 {
+"id": "c-945995a887",
 "source": "NASA UAP Independent Study Team Report",
 "text": "The NASA UAP Independent Study Team report (September 2023) identified poor sensor calibration and missing metadata as central obstacles to distinguishing atmospheric phenomena from anomalous objects.",
 "tier": 1
 },
 {
+"id": "c-ac10f95cf3",
 "source": "Inference from documented directed-energy research at Kirtland AFB and the Condon plasma analysis",
 "text": "Directed-energy and plasma signature-control testing produces observables indistinguishable to an untrained observer from reported UAP, and is concentrated at facilities that also feature in this board's case record. Reasoning: the physics of plasma generation and confinement is common to both applications.",
 "tier": 3
@@ -30,6 +33,7 @@
 "dateEnd": null,
 "dateStart": "1980-12-29",
 "direction": "in",
+"edgeId": "e-a15406dc59",
 "edgeLabel": "Shared clinical signature",
 "id": "d-medical",
 "l0": false,
@@ -51,6 +55,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-5174a7ba01",
 "edgeLabel": "subject domain: compact non-tokamak fusion power",
 "id": "dird-inertial-electrostatic-confinement-fusion",
 "l0": false,
@@ -126,7 +131,7 @@
 ],
 "sub": "Scientific domain - the leading prosaic explanation, and the same physics as a directed-energy capability",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 836 of 1170, score 21). 2 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D1.",
+"tierRationale": "Re-graded C on a global pass (rank 817 of 1138, score 21). 2 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D1.",
 "timeline": [],
 "unverified": []
 }

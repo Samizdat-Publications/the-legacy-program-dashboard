@@ -8,16 +8,19 @@
 "chronology": [],
 "claims": [
 {
+"id": "c-cff32aad7c",
 "source": "https://irp.fas.org/dia/aatip-list.pdf",
 "text": "The 9 January 2018 DIA list credits item 26, \"Aneutronic Fusion Propulsion\", to \"Dr V Teofilo, Lockheed Martin\".",
 "tier": 1
 },
 {
+"id": "c-b455e754a4",
 "source": "https://www.legacy.com/us/obituaries/name/vincent-teofilo-obituary?id=60785077",
 "text": "Teofilo held a PhD in physics from New York University, taught at Princeton where he operated the university nuclear reactor, worked on fusion reactor development at Westinghouse, Pacific Northwest National Laboratory, Physics International and Bechtel, and spent 28 years at Lockheed Martin Space Systems. He died 10 January 2026, aged 81.",
 "tier": 1
 },
 {
+"id": "c-7723209207",
 "source": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "text": "Two other DIRDs on the DIA list were authored by Lockheed Martin staff: item 32, MHD Air Breathing Propulsion and Power for Aerospace Applications (Dr S Macheret), and item 35, Ultracapacitors as Energy and Power Storage Devices (Dr J Golightly).",
 "tier": 2
@@ -33,6 +36,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-2ccc2917d3",
 "edgeLabel": "commissioned subject-matter author",
 "id": "aawsap",
 "l0": true,
@@ -64,6 +68,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-63a04c2582",
 "edgeLabel": "authored (attribution by internal self-citation, see note)",
 "id": "dird-aneutronic-fusion-propulsion-2",
 "l0": false,
@@ -95,6 +100,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-e899738000",
 "edgeLabel": "physicist, Lockheed Martin Space Systems, 28 years",
 "id": "lockheed-martin",
 "l0": true,
@@ -169,7 +175,7 @@
 "status": "active",
 "sub": "Physicist; 28 years at Lockheed Martin Space Systems; DIRD author on aneutronic fusion propulsion. 1944-2026",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 908 of 1170, score 18). 3 connections, 1 of them custody/funding/programmatic. Axes C1/A0/D0.",
+"tierRationale": "Re-graded C on a global pass (rank 884 of 1138, score 18). 3 connections, 1 of them custody/funding/programmatic. Axes C1/A0/D0.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": []

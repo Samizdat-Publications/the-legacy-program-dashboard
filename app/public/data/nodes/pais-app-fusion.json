@@ -5,6 +5,7 @@
 "band": null,
 "claims": [
 {
+"id": "c-14af0beb73",
 "source": "https://www.freepatentsonline.com/20190295733.html",
 "text": "US Patent Application 2019/0295733, 'Plasma Compression Fusion Device', application 15/928703, filed 22 March 2018, published 26 September 2019, assignee the United States as represented by the Secretary of the Navy.",
 "tier": 2
@@ -20,6 +21,7 @@
 "dateEnd": "2019-09-26",
 "dateStart": "2018-03-22",
 "direction": "in",
+"edgeId": "e-0ab79628e4",
 "edgeLabel": "Named inventor",
 "id": "salvatore-pais",
 "l0": false,
@@ -70,7 +72,7 @@
 ],
 "sub": "Application 15/928703, filed 22 March 2018, published 26 September 2019; assignee the Secretary of the Navy",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 1055 of 1170, score 13). 1 connections, 1 of them custody/funding/programmatic. Axes C1/A1/D0.",
+"tierRationale": "Re-graded C on a global pass (rank 1025 of 1138, score 13). 1 connections, 1 of them custody/funding/programmatic. Axes C1/A1/D0.",
 "timeline": [],
 "unverified": []
 }

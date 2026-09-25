@@ -1,8 +1,6 @@
 {
  "note": "Node pairs the duplicate detector flags that are deliberately NOT duplicates. Each needs a reason that says what actually distinguishes them. Anything not listed here fails the gate.",
  "accepted": [
-  {"a": "earthtech-international", "b": "institute-advanced-studies-austin",
-   "why": "Two Puthoff entities, related but not one node. EarthTech International is the corporate vehicle; the Institute for Advanced Studies at Austin was founded 1985 and incorporated under EarthTech in 1991. The first node's label names the second, which is why they collide here."},
   {"a": "dodm-5205-07-series", "b": "dodm-5205-07-v1",
    "why": "The four-volume SAP Security Manual series and its Volume 1. The series carries the cross-volume argument; Volume 1 carries the carve-out and whistleblower-routing text quoted verbatim."},
   {"a": "gimbal-video", "b": "gofast-video",

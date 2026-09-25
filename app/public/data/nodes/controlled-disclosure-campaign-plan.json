@@ -5,21 +5,25 @@
 "band": null,
 "claims": [
 {
+"id": "c-ba5de57c5f",
 "source": "S. 2226 as engrossed, Sec. 9009(c)(3)(B), GPO",
 "text": "Sec. 9009(c)(3) required a 'benchmark-driven plan... recommending precise requirements for periodic review, downgrading, and declassification as well as the exact time or specified occurrence following which each postponed item may be appropriately disclosed to the public.'",
 "tier": 1
 },
 {
+"id": "c-e740b10fbc",
 "source": "S. 2226 as engrossed, Sec. 9009(c)(3), GPO",
 "text": "The Plan expressly covered postponed 'recovered technologies of unknown origin, and biological evidence for non-human intelligence,' not merely records.",
 "tier": 1
 },
 {
+"id": "c-a34cb5c858",
 "source": "S. 2226 as engrossed, Sec. 9009(b)(5)-(6), GPO",
 "text": "Sec. 9009(b)(6) required the Review Board to brief the All-domain Anomaly Resolution Office on the Plan at least 90 days before terminating.",
 "tier": 1
 },
 {
+"id": "c-7892db4a39",
 "source": "Full-text search of P.L. 118-31, P.L. 118-159 and P.L. 119-60, GPO",
 "text": "No enacted statute mentions a Controlled Disclosure Campaign Plan.",
 "tier": 1
@@ -35,6 +39,7 @@
 "dateEnd": "2023",
 "dateStart": "2023",
 "direction": "out",
+"edgeId": "e-3d97dcc3d5",
 "edgeLabel": "AARO was to inherit the Plan's declassification logic",
 "id": "aaro",
 "l0": true,
@@ -56,6 +61,7 @@
 "dateEnd": "2023",
 "dateStart": "2023",
 "direction": "in",
+"edgeId": "e-4c50b81d50",
 "edgeLabel": "The Board must produce the Plan under Sec. 9009(c)(3)",
 "id": "uap-records-review-board",
 "l0": false,
@@ -106,7 +112,7 @@
 ],
 "sub": "Sec. 9009(c)(3) — mandated managed-release schedule, never produced",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 364 of 1170, score 36). 2 connections, 2 of them custody/funding/programmatic. Axes C1/A2/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 366 of 1138, score 36). 2 connections, 2 of them custody/funding/programmatic. Axes C1/A2/D3.",
 "timeline": [],
 "unverified": []
 }

@@ -5,16 +5,19 @@
 "band": "disclosure",
 "claims": [
 {
+"id": "c-bedcf53744",
 "source": "CAUS v. NSA, D.C. Circuit (1981); cert. denied (1982)",
 "text": "In Citizens Against UFO Secrecy v. National Security Agency (Civil Action No. 80-1562), NSA withheld its UFO-related holdings in full and supported the withholding with an in camera affidavit by Eugene F. Yeates, Chief of NSA's Office of Policy; the D.C. Circuit affirmed in 1981 and the Supreme Court denied certiorari in 1982.",
 "tier": 1
 },
 {
+"id": "c-303f197e76",
 "source": "ODNI Preliminary Assessment, 25 June 2021",
 "text": "NSA is named among the contributing elements to ODNI's 25 June 2021 Preliminary Assessment on UAP.",
 "tier": 1
 },
 {
+"id": "c-58a885d5b9",
 "source": "Inference from the procedural posture of CAUS v. NSA",
 "text": "The Yeates affidavit establishes, as a matter of adjudicated fact rather than allegation, that a US intelligence agency held a body of UFO material whose mere description was deemed to require classification. Reasoning: the courts sustained the withholding on the basis of the in camera showing, which necessarily means a showing of substantive content existed.",
 "tier": 3
@@ -30,6 +33,7 @@
 "dateEnd": "1981",
 "dateStart": "1977-07-05",
 "direction": "in",
+"edgeId": "e-53d5cd6bf6",
 "edgeLabel": "Director of the National Security Agency from 5 July 1977",
 "id": "bobby-ray-inman",
 "l0": false,
@@ -51,6 +55,7 @@
 "dateEnd": "1982",
 "dateStart": "1980",
 "direction": "out",
+"edgeId": "e-cb1caae1f2",
 "edgeLabel": "NSA withheld its UFO holdings in full and won on an in camera affidavit",
 "id": "caus-v-nsa",
 "l0": false,
@@ -72,6 +77,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-082ce58065",
 "edgeLabel": "Carries the Wolfe claim of an NSA facility at Langley AFB handling Lunar Orbiter imagery",
 "id": "disclosure-project-witness-set",
 "l0": false,
@@ -98,6 +104,7 @@
 "dateEnd": null,
 "dateStart": "1980",
 "direction": "in",
+"edgeId": "e-6704b4f2de",
 "edgeLabel": "Chief of NSA's Office of Policy; executed the 1980 in camera affidavit",
 "id": "eugene-yeates",
 "l0": false,
@@ -119,6 +126,7 @@
 "dateEnd": "1978",
 "dateStart": "1978",
 "direction": "in",
+"edgeId": "e-7b448401b1",
 "edgeLabel": "US NSA holds a contemporaneous assessment of GEPAN's 1978 report",
 "id": "gepan",
 "l0": false,
@@ -140,6 +148,7 @@
 "dateEnd": null,
 "dateStart": "2025-04-24",
 "direction": "out",
+"edgeId": "e-5b22bb965d",
 "edgeLabel": "Produced no records for the first statutory UAP transfer",
 "id": "nara-uap-collection",
 "l0": true,
@@ -161,6 +170,7 @@
 "dateEnd": null,
 "dateStart": "2021-06-25",
 "direction": "out",
+"edgeId": "e-41ac157fba",
 "edgeLabel": "Named contributor to the 2021 ODNI Preliminary Assessment on UAP",
 "id": "odni",
 "l0": true,
@@ -182,6 +192,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-92c9d0cb87",
 "edgeLabel": "An information addressee on the report's own distribution list",
 "id": "tehran-f4-intercept-1976",
 "l0": false,
@@ -203,6 +214,7 @@
 "dateEnd": null,
 "dateStart": "1998-08",
 "direction": "in",
+"edgeId": "e-21d8c9b71b",
 "edgeLabel": "CLAIMED ONLY: named as a funder and tasker at slide 70",
 "id": "tr-3b",
 "l0": true,
@@ -224,6 +236,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-2398c9b903",
 "edgeLabel": "Released by NSA with its declassification markings on the pages",
 "id": "ukusa-agreement-1946",
 "l0": false,
@@ -245,6 +258,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-1f3b80a632",
 "edgeLabel": "Prosecution of a former NSA employee for compromising NSA operations",
 "id": "us-v-pelton-1986",
 "l0": false,
@@ -281,6 +295,7 @@
 },
 "claimTier": 1,
 "denialKind": "directed",
+"edgeId": "e-cb1caae1f2",
 "label": "NSA withheld its UFO holdings in full and won on an in camera affidavit",
 "note": "NSA located responsive material, withheld it entirely, and supported the withholding with a classified affidavit by Eugene F. Yeates. The D.C. Circuit affirmed in 1981; certiorari was denied in 1982.",
 "of": {
@@ -310,6 +325,7 @@
 },
 "claimTier": 1,
 "denialKind": "directed",
+"edgeId": "e-5b22bb965d",
 "label": "Produced no records for the first statutory UAP transfer",
 "note": "NARA's 24 April 2025 release named only ODNI, OSD, the FAA and the Nuclear Regulatory Commission. NSA, which holds documented UAP equity, transferred nothing.",
 "of": {
@@ -478,7 +494,7 @@
 ],
 "sub": "Signals intelligence and cybersecurity agency; established 4 November 1952 by classified presidential memorandum",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 265 of 1170, score 41). 11 connections, 0 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C1/A3/D1.",
+"tierRationale": "Re-graded B on a global pass (rank 269 of 1138, score 41). 11 connections, 0 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C1/A3/D1.",
 "timeline": [
 {
 "claimTier": null,

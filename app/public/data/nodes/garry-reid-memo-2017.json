@@ -5,16 +5,19 @@
 "band": null,
 "claims": [
 {
+"id": "c-6f6a03a0e0",
 "source": "OSD/JS FOIA 18-F-0324",
 "text": "States that Elizondo 'aggrandized his role' and that 'to the best of [Reid's] knowledge, [Elizondo] had no job responsibilities related to the AATIP.'",
 "tier": 1
 },
 {
+"id": "c-d065f90598",
 "source": "OSD/JS FOIA 18-F-0324, as analysed by The Black Vault",
 "text": "Records that Elizondo sought assistance in August 2017 to get the videos declassified, that AFOSI examined possible mishandling of classified material, and that AFOSI concluded the videos were unclassified.",
 "tier": 1
 },
 {
+"id": "c-0b3d56decc",
 "source": "OSD/JS FOIA 18-F-0324",
 "text": "Answers six questions from the Secretary of Defense's office, including one on the 'uncertain provenance' of Elizondo's second resignation letter.",
 "tier": 1
@@ -30,6 +33,7 @@
 "dateEnd": "2018",
 "dateStart": "2017",
 "direction": "out",
+"edgeId": "e-405ff075e9",
 "edgeLabel": "Records an AFOSI inquiry into possible mishandling of classified material",
 "id": "afosi",
 "l0": true,
@@ -51,6 +55,7 @@
 "dateEnd": "2017",
 "dateStart": "2017",
 "direction": "in",
+"edgeId": "e-81fcba39b6",
 "edgeLabel": "Author of both December 2017 memoranda",
 "id": "garry-reid",
 "l0": false,
@@ -72,6 +77,7 @@
 "dateEnd": null,
 "dateStart": "2017",
 "direction": "out",
+"edgeId": "e-f32d2ac604",
 "edgeLabel": "'Aggrandized his role'; 'no job responsibilities related to the AATIP'",
 "id": "luis-elizondo",
 "l0": false,
@@ -113,6 +119,7 @@
 },
 "claimTier": 1,
 "denialKind": "directed",
+"edgeId": "e-f32d2ac604",
 "label": "'Aggrandized his role'; 'no job responsibilities related to the AATIP'",
 "note": "The first written denial of Elizondo's program role, produced inside OUSD(I) within a week of the NYT story and routed to the Secretary of Defense. Every later public denial restates it.",
 "of": {
@@ -178,7 +185,7 @@
 ],
 "sub": "OUSD(I) memorandum for record and memorandum for the Secretary of Defense",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 552 of 1170, score 29). 3 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D0.",
+"tierRationale": "Re-graded B on a global pass (rank 549 of 1138, score 29). 3 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D0.",
 "timeline": [
 {
 "claimTier": null,

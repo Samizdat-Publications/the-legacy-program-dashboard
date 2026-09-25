@@ -5,11 +5,13 @@
 "band": null,
 "claims": [
 {
+"id": "c-be08971abd",
 "source": "https://defensescoop.com/2025/11/04/3i-atlas-comet-us-government-monitoring-mysterious-interstellar-object/",
 "text": "On 4 November 2025 the US government was fielding questions about the interstellar object 3I/ATLAS amid a government shutdown.",
 "tier": 2
 },
 {
+"id": "c-73e987809e",
 "source": "https://defensescoop.com/2026/06/17/new-science-advisory-council-forms-to-help-us-government-resolve-the-uap-mystery/",
 "text": "The episode exposed the absence of a standing government scientific body able to speak to anomalous objects, the gap the UAP Science Advisory Council was announced across seven months later. Reasoning: the same scientist, Loeb, was the principal public voice in both episodes.",
 "tier": 3
@@ -25,6 +27,7 @@
 "dateEnd": "2026-06-17",
 "dateStart": "2025-11-04",
 "direction": "out",
+"edgeId": "e-3a0c540cef",
 "edgeLabel": "the gap the council was formed across",
 "id": "uap-science-advisory-council",
 "l0": true,
@@ -85,7 +88,7 @@
 ],
 "sub": "Government fielding questions during the shutdown; Loeb the loudest scientific voice",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 1168 of 1170, score 6). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D1.",
+"tierRationale": "Re-graded C on a global pass (rank 1136 of 1138, score 6). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D1.",
 "timeline": [
 {
 "claimTier": 2,

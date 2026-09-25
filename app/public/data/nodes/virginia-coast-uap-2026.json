@@ -5,16 +5,19 @@
 "band": null,
 "claims": [
 {
+"id": "c-086ec3b805",
 "source": "https://defensescoop.com/2026/07/21/pentagon-investigating-ufo-uap-event-near-virginia-coast/",
 "text": "AARO is investigating a US Navy report of approximately 100 airborne UAP and two likely uncrewed surface systems off the Virginia coast; it is the sole maritime case among the 319 reports in the FY2025 annual report.",
 "tier": 2
 },
 {
+"id": "c-408921c741",
 "source": "https://defensescoop.com/2026/07/21/pentagon-investigating-ufo-uap-event-near-virginia-coast/",
 "text": "AARO's stated constraint on the case: 'A lack of timely and actionable sensor data continues to constrain AARO's ability to resolve cases.'",
 "tier": 2
 },
 {
+"id": "c-a28dfc2a3a",
 "source": "https://defensescoop.com/2026/07/21/pentagon-investigating-ufo-uap-event-near-virginia-coast/",
 "text": "No case number, incident date, hull or unit has been made public for an event involving roughly 100 objects in US home waters. Reasoning: DefenseScoop reported the Pentagon declined to provide additional information and the FY2025 report describes the case without identifiers.",
 "tier": 3
@@ -30,6 +33,7 @@
 "dateEnd": "2026-07-21",
 "dateStart": "2026-07-21",
 "direction": "out",
+"edgeId": "e-9dc389691f",
 "edgeLabel": "sole maritime case in the report",
 "id": "aaro-fy2025-annual-report",
 "l0": true,
@@ -51,6 +55,7 @@
 "dateEnd": null,
 "dateStart": "2026-07-21",
 "direction": "out",
+"edgeId": "e-e1e8a83868",
 "edgeLabel": "a mass event against a case system still being procured",
 "id": "aaro-jwics-case-management-2025",
 "l0": false,
@@ -77,6 +82,7 @@
 "dateEnd": "2026-07-21",
 "dateStart": "2023-02-15",
 "direction": "in",
+"edgeId": "e-124763c832",
 "edgeLabel": "two maritime cases, three years apart, both unresolved",
 "id": "alexandro-wiggins",
 "l0": false,
@@ -132,7 +138,7 @@
 ],
 "sub": "~100 airborne UAP and two likely uncrewed surface systems; under AARO investigation",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 990 of 1170, score 16). 3 connections, 0 of them custody/funding/programmatic. Axes C1/A0/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 961 of 1138, score 16). 3 connections, 0 of them custody/funding/programmatic. Axes C1/A0/D2.",
 "timeline": [
 {
 "claimTier": 2,

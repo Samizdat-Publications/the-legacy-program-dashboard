@@ -37,21 +37,25 @@
 ],
 "claims": [
 {
+"id": "c-568fc6f7d8",
 "source": "Condon Report, Section V Chapter 2, 'UFOs 1947-1968' (University of Colorado, USAF contract 44620-67-C-0035, 1968)",
 "text": "Staff prepared a classified 'Estimate of the Situation' in 1948 asserting UFOs were interplanetary vehicles; Vandenberg rejected it for lacking proof and copies were destroyed.",
 "tier": 1
 },
 {
+"id": "c-e15b1e7d18",
 "source": "Ruppelt, 'The Report on Unidentified Flying Objects', 1956",
 "text": "The Estimate's existence and destruction were first published by Edward Ruppelt, the first Blue Book director, in 1956.",
 "tier": 2
 },
 {
+"id": "c-f9cc2c3e07",
 "source": "Condon Report, Section V Chapter 2",
 "text": "Project SIGN was reconstituted as Project GRUDGE on 11 February 1949 with a conclusion that reports were misinterpretation, mass hysteria and hoaxes posing 'no direct threat to national security.'",
 "tier": 1
 },
 {
+"id": "c-76191de8f4",
 "source": "Inference linking Condon Sec. V Ch. 2 to GAO/NSIAD-95-187",
 "text": "The 1948 destruction is the earliest identifiable instance of the pattern the 1995 GAO report later documented at Roswell — records adverse to the official line disappearing without disposition authority.",
 "tier": 3
@@ -69,6 +73,7 @@
 "dateEnd": "1948",
 "dateStart": "1946",
 "direction": "out",
+"edgeId": "e-8a10216428",
 "edgeLabel": "Vandenberg was DCI before becoming Air Force Chief of Staff",
 "id": "cia",
 "l0": true,
@@ -90,6 +95,7 @@
 "dateEnd": "1948",
 "dateStart": "1948",
 "direction": "out",
+"edgeId": "e-308d3519b3",
 "edgeLabel": "Vandenberg rejected the Estimate and ordered copies destroyed",
 "id": "estimate-of-the-situation",
 "l0": false,
@@ -131,6 +137,7 @@
 },
 "claimTier": 1,
 "denialKind": "directed",
+"edgeId": "e-308d3519b3",
 "label": "Vandenberg rejected the Estimate and ordered copies destroyed",
 "note": "The Air Force Chief of Staff rejected the interplanetary conclusion for lacking proof and had the document destroyed — the earliest documented destruction of an adverse UAP record, attested in the Air Force's own contracted study.",
 "of": {
@@ -192,8 +199,8 @@
 ],
 "status": "dead",
 "sub": "Air Force Chief of Staff (1948-1953); former DCI",
-"tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 577 of 1170, score 28). 2 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D0.",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 573 of 1138, score 28). 2 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D0.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": []

@@ -42,21 +42,25 @@
 ],
 "claims": [
 {
+"id": "c-9076a734d9",
 "source": "Chadwell memorandum to Director of Central Intelligence, subject: Flying Saucers, 11 Sep 1952 (declassified CIA document sampler)",
 "text": "Chadwell wrote to the DCI on 11 September 1952 that 'the flying saucer situation contains two elements of danger which... have national security implications.'",
 "tier": 1
 },
 {
+"id": "c-f80620526d",
 "source": "Same CIA 1952 memoranda series",
 "text": "CIA recorded that during July 1952 alone official reports of unidentified aerial phenomena totalled 250.",
 "tier": 1
 },
 {
+"id": "c-a4f9e7dfdd",
 "source": "CIA Office of Scientific Intelligence memoranda, September-December 1952",
 "text": "Chadwell proposed a study group to analyse and systematise the factors, determine fields requiring investigation and make research recommendations, suggesting MIT's Project Lincoln or Caltech.",
 "tier": 1
 },
 {
+"id": "c-10d8c49dd2",
 "source": "Gerald K. Haines, 'A Die-hard Issue: CIA's Role in the Study of UFOs, 1947-1990', Studies in Intelligence, 1997",
 "text": "'In January 1953, Chadwell and H. P. Robertson... put together a distinguished panel of nonmilitary scientists to study the UFO issue.'",
 "tier": 1
@@ -72,6 +76,7 @@
 "dateEnd": "1953",
 "dateStart": "1952",
 "direction": "out",
+"edgeId": "e-b71d955bc1",
 "edgeLabel": "Assistant Director for Scientific Intelligence who drove the CIA's 1952-53 UFO effort",
 "id": "cia",
 "l0": true,
@@ -93,6 +98,7 @@
 "dateEnd": "1953",
 "dateStart": "1952",
 "direction": "out",
+"edgeId": "e-a04a01d84a",
 "edgeLabel": "Chadwell assembled the panel with Robertson",
 "id": "robertson-panel",
 "l0": true,
@@ -114,6 +120,7 @@
 "dateEnd": "1952",
 "dateStart": "1952",
 "direction": "out",
+"edgeId": "e-fff68adc9a",
 "edgeLabel": "Chadwell's UFO memoranda were addressed to him and named him as approving authority",
 "id": "walter-bedell-smith",
 "l0": false,
@@ -140,6 +147,7 @@
 "dateEnd": "1952",
 "dateStart": "1952",
 "direction": "in",
+"edgeId": "e-771646ed71",
 "edgeLabel": "The flap put the CIA's science directorate onto the problem",
 "id": "washington-flap-1952",
 "l0": false,
@@ -203,7 +211,7 @@
 "status": "dead",
 "sub": "Assistant Director, CIA Office of Scientific Intelligence",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 547 of 1170, score 29). 4 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D0.",
+"tierRationale": "Re-graded B on a global pass (rank 544 of 1138, score 29). 4 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D0.",
 "timeline": [
 {
 "claimTier": null,

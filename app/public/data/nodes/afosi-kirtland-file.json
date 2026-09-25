@@ -5,26 +5,31 @@
 "band": null,
 "claims": [
 {
+"id": "c-a4ed39d82a",
 "source": "AFOSI complaint form, District File No. 8017D93-0/29, reproduced by NICAP from the CUFON archive, https://www.nicap.org/foia_003.htm , opened 2026-09-19",
 "text": "The complaint form is reproduced in full by NICAP from the CUFON archive and carries on its face: AFOSI Det 1700, Kirtland AFB, New Mexico; District File No. 8017D93-0/29; and 'Richard C Doty, SA'. Named observers with units and clock times: SSGT Stephen Ferenz, area supervisor, ATC Martin W. Rist and AMN Anthony D. Frazier, all 1608 Security Police Squadron, at approximately 2350 hrs on 8 August 1980; an unnamed Sandia security guard at approximately 0020 hrs on 9 August 1980 who requested anonymity; three further security policemen on 22 August 1980; and a New Mexico State Patrolman on 10 August 1980.",
 "tier": 1
 },
 {
+"id": "c-a9fd584890",
 "source": "Comparison of the board's existing claim with the NICAP reproduction, https://www.nicap.org/foia_003.htm , checked 2026-09-19",
 "text": "A DATE DISCREPANCY THAT SHOULD BE RESOLVED RATHER THAN SILENTLY PICKED. The board's existing Tier 1 claim gives the complaint form's date as 9 September 1980. The NICAP page as rendered to this session gives '2-9 Sept 80'. The file number, the agent and the observers match exactly in both. The original scan was not read. Reasoning: two dates for one artefact is a defect a later pass should close by reading the image, not by preferring one.",
 "tier": 3
 },
 {
+"id": "c-1e880141ae",
 "source": "AFOSI Kirtland AFB complaint-form record, 10 Nov 1980, released under FOIA",
 "text": "An AFOSI record dated 10 November 1980 documents Kirtland AFB security police observations of unexplained aerial objects in the Coyote Canyon / Manzano Weapons Storage Area and notes Paul Bennewitz's photographic and reporting activity.",
 "tier": 1
 },
 {
+"id": "c-456a462398",
 "source": "AARO Historical Record Report Volume I, DOPSR-2024-0263, 8 Mar 2024 - full-text review",
 "text": "AARO's 'Report on the Historical Record of U.S. Government Involvement with UAP, Volume I' (March 2024) contains no mention of Kirtland AFB, AFOSI, Paul Bennewitz or Richard Doty anywhere in its text.",
 "tier": 1
 },
 {
+"id": "c-4e094fcfa7",
 "source": "Richard Doty, on-record documentary and press interviews",
 "text": "Richard Doty, the AFOSI agent associated with the Kirtland file, has publicly stated that he supplied false documents and information to Bennewitz as part of his official duties.",
 "tier": 2
@@ -40,6 +45,7 @@
 "dateEnd": "1983",
 "dateStart": "1980",
 "direction": "in",
+"edgeId": "e-98f2a0d120",
 "edgeLabel": "AFOSI is the originating agency of the released Kirtland UFO file",
 "id": "afosi",
 "l0": true,
@@ -66,6 +72,7 @@
 "dateEnd": "1981",
 "dateStart": "1980",
 "direction": "out",
+"edgeId": "e-3ab5364c97",
 "edgeLabel": "The AFOSI Kirtland file is the documentary residue of the Bennewitz operation",
 "id": "l-kirtland",
 "l0": false,
@@ -87,6 +94,7 @@
 "dateEnd": "1983",
 "dateStart": "1980",
 "direction": "out",
+"edgeId": "e-8eb8e51aaf",
 "edgeLabel": "AFOSI District 17 file generated at Kirtland AFB",
 "id": "l-kirtland",
 "l0": false,
@@ -108,6 +116,7 @@
 "dateEnd": "1983",
 "dateStart": "1980",
 "direction": "in",
+"edgeId": "e-b8b3af9d03",
 "edgeLabel": "Bennewitz's reporting generated the AFOSI Kirtland file",
 "id": "paul-bennewitz",
 "l0": false,
@@ -134,6 +143,7 @@
 "dateEnd": "1983",
 "dateStart": "1980",
 "direction": "in",
+"edgeId": "e-aeae96bb94",
 "edgeLabel": "Doty was the AFOSI special agent associated with the Kirtland UFO file",
 "id": "richard-doty",
 "l0": false,
@@ -155,6 +165,7 @@
 "dateEnd": null,
 "dateStart": "1980-09",
 "direction": "in",
+"edgeId": "e-7364a6e9c7",
 "edgeLabel": "Named on the complaint form as the special agent who filed it",
 "id": "richard-doty",
 "l0": false,
@@ -251,7 +262,7 @@
 ],
 "sub": "Air Force Office of Special Investigations records, District 17",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 215 of 1170, score 44). 6 connections, 2 of them custody/funding/programmatic. Axes C2/A2/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 217 of 1138, score 44). 6 connections, 2 of them custody/funding/programmatic. Axes C2/A2/D3.",
 "timeline": [
 {
 "claimTier": null,

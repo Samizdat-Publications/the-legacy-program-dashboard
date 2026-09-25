@@ -5,16 +5,19 @@
 "band": null,
 "claims": [
 {
+"id": "c-22d37846e2",
 "source": "Canadian Department of Transport memorandum, Library and Archives Canada Project Magnet holdings",
 "text": "Wilbert B. Smith's November 1950 memorandum to the Canadian Controller of Telecommunications states that the flying saucer subject was classified higher in the United States than the hydrogen bomb, and that a small group was studying it.",
 "tier": 1
 },
 {
+"id": "c-4dcbea7812",
 "source": "Sky Canada Project, Office of the Chief Science Advisor",
 "text": "Canada's Office of the Chief Science Advisor ran the Sky Canada Project, a federal review of how UAP reports are handled.",
 "tier": 1
 },
 {
+"id": "c-a805fcdb2b",
 "source": "Board bookkeeping",
 "text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
 "tier": 3
@@ -30,6 +33,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-db6ba893b9",
 "edgeLabel": "Office of the Chief Science Advisor, Ottawa",
 "id": "sky-canada-project",
 "l0": true,
@@ -109,7 +113,7 @@
 ],
 "sub": "Capital of Canada; home of Project Magnet and the federal science establishment",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 895 of 1170, score 19). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 873 of 1138, score 19). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D2.",
 "timeline": [],
 "unverified": []
 }

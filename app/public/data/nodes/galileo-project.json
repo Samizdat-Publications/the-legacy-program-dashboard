@@ -5,21 +5,25 @@
 "band": "research",
 "claims": [
 {
+"id": "c-c92cda2c16",
 "source": "JAI, DOI 10.1142/S2251171723400032",
 "text": "Loeb and Laukien published 'Overview of the Galileo Project' in the Journal of Astronomical Instrumentation on 13 February 2023.",
 "tier": 1
 },
 {
+"id": "c-66ee4ea921",
 "source": "JAI, DOI 10.1142/S2251171723400081",
 "text": "Cloete et al. published the project's 'Integrated Computing Platform for Detection and Tracking of Unidentified Aerial Phenomena (UAP)' in the Journal of Astronomical Instrumentation (2023).",
 "tier": 1
 },
 {
+"id": "c-56f64bf9f4",
 "source": "GI, DOI 10.5194/gi-14-335-2025",
 "text": "Vervelidou, Delacroix, Domine, Kelderman, Little and colleagues published the deployment of a geomagnetic variometer station as auxiliary UAP instrumentation in Geoscientific Instrumentation, Methods and Data Systems 14:335 (26 November 2025).",
 "tier": 1
 },
 {
+"id": "c-7da32ae413",
 "source": "Published project record",
 "text": "The project was founded on 26 July 2021, raised approximately $1.8 million in donations in its first year from donors including Frank Laukien and William A. Linton, and installed its first telescope at Harvard College Observatory in 2022.",
 "tier": 2
@@ -35,6 +39,7 @@
 "dateEnd": null,
 "dateStart": "2021",
 "direction": "in",
+"edgeId": "e-d593c53b63",
 "edgeLabel": "Founder, 26 July 2021",
 "id": "avi-loeb",
 "l0": false,
@@ -61,6 +66,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-c115077a81",
 "edgeLabel": "Host institution of the Galileo Project",
 "id": "harvard-cfa",
 "l0": false,
@@ -97,6 +103,7 @@
 "dateEnd": "2023",
 "dateStart": "2022",
 "direction": "out",
+"edgeId": "e-dd98c2aaa8",
 "edgeLabel": "Ran the $1.6m Pacific recovery expedition",
 "id": "im1-pacific-expedition-2023",
 "l0": false,
@@ -118,36 +125,16 @@
 "type": "programmatic"
 },
 {
-"claimTier": 1,
-"cls": "location",
-"dateEnd": null,
-"dateStart": "2021",
-"direction": "out",
-"edgeLabel": "The Galileo Project is based at the Harvard-Smithsonian Center for Astrophysics",
-"id": "l-cambridge",
-"l0": false,
-"label": "Cambridge, Massachusetts",
-"note": "Avi Loeb founded the project in 2021 to build independent multi-modal observatories, addressing the structural problem that every high-quality UAP dataset is held by agencies that will not release it.",
-"sources": [
-{
-"date": "2021-06-25",
-"name": "ODNI Preliminary Assessment: Unidentified Aerial Phenomena",
-"url": "https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf"
-}
-],
-"tier": "C",
-"type": "research"
-},
-{
 "claimTier": 2,
 "cls": "location",
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-7b948d063a",
 "edgeLabel": "first Galileo Observatory, Harvard College Observatory roof",
-"id": "l-cambridge-ma",
+"id": "l-cambridge",
 "l0": false,
-"label": "Cambridge, Massachusetts (alias of l-cambridge)",
+"label": "Cambridge, Massachusetts",
 "note": "Figure 1 of the project's own overview paper captions the 'First all-sky Galileo Observatory for UAP on the roof of the Harvard College Observatory (Cambridge, MA)'. This is the physical instrument site for the instrumented search, not merely an administrative address.",
 "sources": [
 {
@@ -170,11 +157,34 @@
 "type": "geographic"
 },
 {
+"claimTier": 1,
+"cls": "location",
+"dateEnd": null,
+"dateStart": "2021",
+"direction": "out",
+"edgeId": "e-4ad9a85fbe",
+"edgeLabel": "The Galileo Project is based at the Harvard-Smithsonian Center for Astrophysics",
+"id": "l-cambridge",
+"l0": false,
+"label": "Cambridge, Massachusetts",
+"note": "Avi Loeb founded the project in 2021 to build independent multi-modal observatories, addressing the structural problem that every high-quality UAP dataset is held by agencies that will not release it.",
+"sources": [
+{
+"date": "2021-06-25",
+"name": "ODNI Preliminary Assessment: Unidentified Aerial Phenomena",
+"url": "https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf"
+}
+],
+"tier": "C",
+"type": "research"
+},
+{
 "claimTier": 2,
 "cls": "document",
 "dateEnd": null,
 "dateStart": "2021",
 "direction": "out",
+"edgeId": "e-b94a321123",
 "edgeLabel": "Founded in direct response to the June 2021 ODNI assessment",
 "id": "odni-preliminary-assessment-2021",
 "l0": true,
@@ -196,6 +206,7 @@
 "dateEnd": null,
 "dateStart": "2023",
 "direction": "in",
+"edgeId": "e-f158da06a7",
 "edgeLabel": "Lead author of the project's detection and tracking computing platform",
 "id": "richard-cloete",
 "l0": false,
@@ -217,6 +228,7 @@
 "dateEnd": null,
 "dateStart": "2025",
 "direction": "in",
+"edgeId": "e-0f90f618dc",
 "edgeLabel": "Co-author on the 2025 geomagnetic variometer instrumentation paper",
 "id": "sarah-little",
 "l0": false,
@@ -238,6 +250,7 @@
 "dateEnd": null,
 "dateStart": "2023",
 "direction": "in",
+"edgeId": "e-11784bfcd2",
 "edgeLabel": "Research coordinator and co-editor of the JAI instrumentation special issue",
 "id": "wesley-watters",
 "l0": false,
@@ -257,7 +270,7 @@
 "coords": null,
 "dateEnd": null,
 "dateStart": "2021",
-"deg": 9,
+"deg": 8,
 "denials": [],
 "desc": "Founded by Avi Loeb on 26 July 2021, four weeks after the ODNI preliminary assessment and following NASA administrator Bill Nelson's June 2021 call for scientific analysis, the Galileo Project is the largest unclassified instrumentation effort ever directed at this problem. Its founding logic is the board's own logic inverted: if the classified system will not release what it holds, build instruments that acquire an independent record nobody can classify. It raised roughly $1.8 million in its first year from donors including Frank Laukien of Bruker Corporation and William A. Linton of Promega, and involves over 100 researchers across Harvard, Caltech, Cambridge, Princeton, Stockholm University, Wellesley and the University of Tokyo. It operates in three branches: high-resolution multimodal observation of UAP, the search for interstellar objects resembling 'Oumuamua under Amir Siraj, and the search for possible extraterrestrial satellites. Its first observatory was installed at Harvard College Observatory in 2022. Unusually for this field, it published its instrumentation and software architecture before its observations - the Journal of Astronomical Instrumentation special issue of 2023, including Loeb and Laukien's project overview and Cloete et al.'s integrated computing platform for detection and tracking - and it continues to publish auxiliary instrumentation in mainstream venues, such as the 2025 Copernicus paper on deploying a geomagnetic variometer station. Its most contested undertaking was the June-July 2023 Pacific Ocean expedition to recover fragments of CNEOS 2014-01-08.",
 "domains": [],
@@ -398,12 +411,6 @@
 "tier": "C"
 },
 {
-"cls": "location",
-"id": "l-cambridge-ma",
-"label": "Cambridge, Massachusetts (alias of l-cambridge)",
-"tier": "C"
-},
-{
 "cls": "person",
 "id": "richard-cloete",
 "label": "Richard Cloete",
@@ -456,7 +463,7 @@
 ],
 "sub": "Harvard-based unclassified UAP and interstellar-object instrumentation programme, founded July 2021",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 442 of 1170, score 33). 9 connections, 1 of them custody/funding/programmatic. Axes C1/A0/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 441 of 1138, score 33). 9 connections, 1 of them custody/funding/programmatic. Axes C1/A0/D3.",
 "timeline": [
 {
 "claimTier": null,

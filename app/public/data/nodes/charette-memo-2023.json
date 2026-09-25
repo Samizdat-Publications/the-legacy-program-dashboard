@@ -5,16 +5,19 @@
 "band": null,
 "claims": [
 {
+"id": "c-3c08e4a22c",
 "source": "Janice Charette, Clerk of the Privy Council, Secret memo to PM Trudeau, 14 February 2023",
 "text": "'The full exploitation of UAP #20, which was engaged by the U.S. on February 10, 2023, has not yet been completed.'",
 "tier": 1
 },
 {
+"id": "c-456e67d7ae",
 "source": "Charette memo, 14 February 2023",
 "text": "UAP #23 (the Yukon object) 'remains unverified' as to 'function, method of propulsion, or affiliation to any nation-state.'",
 "tier": 1
 },
 {
+"id": "c-938ec34ef8",
 "source": "Charette memo, 14 February 2023",
 "text": "'It is unknown whether it poses an armed threat or has intelligence collection capabilities.'",
 "tier": 1
@@ -30,6 +33,7 @@
 "dateEnd": "2023",
 "dateStart": "2023",
 "direction": "in",
+"edgeId": "e-05942785bc",
 "edgeLabel": "Allied government's contemporaneous Secret record of the engagements",
 "id": "shootdowns-feb-2023",
 "l0": false,
@@ -80,7 +84,7 @@
 ],
 "sub": "Canadian government memo on the February 2023 shootdowns",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 722 of 1170, score 24). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 711 of 1138, score 24). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D2.",
 "timeline": [
 {
 "claimTier": null,

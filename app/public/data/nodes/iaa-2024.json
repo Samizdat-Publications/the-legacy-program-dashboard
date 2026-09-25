@@ -5,11 +5,13 @@
 "band": null,
 "claims": [
 {
+"id": "c-277723752b",
 "source": "PL 118-31 sec. 7343(a), 137 Stat. 1063-1064",
 "text": "Sec. 7343(a) defines 'appropriate committees of Congress' as the Senate Select Intelligence, Armed Services and Appropriations Committees and the House Permanent Select Intelligence, Armed Services and Appropriations Committees, and 'congressional leadership' as the Senate majority and minority leaders and the Speaker and House minority leader; 'unidentified anomalous phenomena' takes the meaning in 50 U.S.C. 3373(n).",
 "tier": 1
 },
 {
+"id": "c-6e166510f8",
 "source": "PL 118-31 sec. 7343(b), 137 Stat. 1064",
 "text": "Sec. 7343(b) bars obligation or expenditure of Division G funds 'in support of any activity involving unidentified anomalous phenomena protected under any form of special access or restricted access limitation' absent DNI disclosure of the details to those committees and leadership.",
 "tier": 1
@@ -25,6 +27,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-9cb06d1530",
 "edgeLabel": "AARO reporting change and UAP funding limitation",
 "id": "aaro",
 "l0": true,
@@ -51,6 +54,7 @@
 "dateEnd": null,
 "dateStart": "2023-12-22",
 "direction": "out",
+"edgeId": "e-0d32f86756",
 "edgeLabel": "sec. 7343 conditions intelligence funding for UAP special- or restricted-access activity on prior disclosure to the committees",
 "id": "d-funding",
 "l0": false,
@@ -82,6 +86,7 @@
 "dateEnd": null,
 "dateStart": "2023-12-22",
 "direction": "out",
+"edgeId": "e-d871f5ca2f",
 "edgeLabel": "Division G of P.L. 118-31 - enacted intelligence-side UAP provisions",
 "id": "d-legislation",
 "l0": false,
@@ -113,6 +118,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-80f287a066",
 "edgeLabel": "section node of this act (section number needs verification)",
 "id": "iaa-fy2024-sec-1102",
 "l0": true,
@@ -149,6 +155,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-05db531f09",
 "edgeLabel": "enacted as Division G of the FY2024 NDAA",
 "id": "ndaa-fy2024",
 "l0": true,
@@ -209,7 +216,7 @@
 ],
 "sub": "authorizing-statutes",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 1023 of 1170, score 14). 5 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D0.",
+"tierRationale": "Re-graded C on a global pass (rank 993 of 1138, score 14). 5 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D0.",
 "timeline": [],
 "unverified": []
 }

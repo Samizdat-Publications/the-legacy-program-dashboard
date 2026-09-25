@@ -5,16 +5,19 @@
 "band": null,
 "claims": [
 {
+"id": "c-ba911ac02e",
 "source": "Ministry of Defence release note accompanying the Condign report, reproduced with the Internet Archive copy",
 "text": "MoD statement of origin and terms of reference: the study followed a 1996 policy review and was to determine the potential value of UAP reports to Defence Intelligence, to ascertain evidence of threat, 'and secondly, should the opportunity arise, to identify any potential military technologies of interest.'",
 "tier": 1
 },
 {
+"id": "c-036677de7c",
 "source": "Project Condign, Volume 1, Chapter 4 'Potential Related Military Technology', para 1",
 "text": "Study terms of reference explicitly included examining 'whether the phenomenon could be replicated and whether or not any other nation was attempting to exploit the same or derivatives of the phenomena', reported at Volume 3.",
 "tier": 1
 },
 {
+"id": "c-edc5b8f507",
 "source": "Project Condign, Volume 3, Chapter 3, para 8",
 "text": "Volume 3 Chapter 3 is titled 'Potential for Exploitation of UAP-Associated Effects' and its 'Potential Applications' paragraph 8 states 'the radar detection aspects have shown that there are three possible related potential applications' - the applications themselves being redacted under exemption s.26 (defence).",
 "tier": 1
@@ -30,6 +33,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-4f84c97a26",
 "edgeLabel": "Three years before the policy review that commissioned Condign",
 "id": "cosford-incident-1993",
 "l0": false,
@@ -51,6 +55,7 @@
 "dateEnd": "2000",
 "dateStart": "2000",
 "direction": "out",
+"edgeId": "e-9c8074b4fd",
 "edgeLabel": "produced the four-volume report",
 "id": "doc-condign-report",
 "l0": true,
@@ -72,6 +77,7 @@
 "dateEnd": "2000",
 "dateStart": "1996",
 "direction": "out",
+"edgeId": "e-2a5d9aa82f",
 "edgeLabel": "study commissioned by and reporting on DI55",
 "id": "uk-di55",
 "l0": false,
@@ -137,7 +143,7 @@
 ],
 "sub": "UK Defence Intelligence Staff UAP study, 1997-2000",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 422 of 1170, score 34). 3 connections, 2 of them custody/funding/programmatic. Axes C1/A2/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 422 of 1138, score 34). 3 connections, 2 of them custody/funding/programmatic. Axes C1/A2/D3.",
 "timeline": [],
 "unverified": []
 }

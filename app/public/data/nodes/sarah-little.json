@@ -23,11 +23,13 @@
 ],
 "claims": [
 {
+"id": "c-001ebc4771",
 "source": "GI, DOI 10.5194/gi-14-335-2025",
 "text": "Little is a co-author of 'The deployment of a geomagnetic variometer station as auxiliary instrumentation for the study of Unidentified Aerial Phenomena', Geoscientific Instrumentation, Methods and Data Systems 14:335 (2025).",
 "tier": 1
 },
 {
+"id": "c-46b1456f9e",
 "source": "SCU, Zenodo DOI 10.5281/zenodo.10287332",
 "text": "Little is a co-author of the 2023 SCU study on reported UAP shape, size, kinematics, electromagnetic effects and sound.",
 "tier": 1
@@ -43,6 +45,7 @@
 "dateEnd": null,
 "dateStart": "2025",
 "direction": "out",
+"edgeId": "e-0f90f618dc",
 "edgeLabel": "Co-author on the 2025 geomagnetic variometer instrumentation paper",
 "id": "galileo-project",
 "l0": true,
@@ -64,6 +67,7 @@
 "dateEnd": null,
 "dateStart": "2023",
 "direction": "out",
+"edgeId": "e-b56c0beebf",
 "edgeLabel": "SCU board member and co-author of the 2023 characteristics study",
 "id": "scu-uap-studies",
 "l0": false,
@@ -135,7 +139,7 @@
 "status": "active",
 "sub": "Marine biochemist (PhD, MIT/WHOI); board member, Scientific Coalition for UAP Studies; co-author, Galileo Project geomagnetic variometer instrumentation paper",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 1118 of 1170, score 10). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D1.",
+"tierRationale": "Re-graded C on a global pass (rank 1088 of 1138, score 10). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D1.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": []

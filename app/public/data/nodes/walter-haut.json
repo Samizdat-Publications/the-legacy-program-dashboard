@@ -84,36 +84,43 @@
 ],
 "claims": [
 {
+"id": "c-57c7db0082",
 "source": "RAAF press release, 8 July 1947, reproduced in USAF, 'The Roswell Report: Fact vs. Fiction in the New Mexico Desert' (1995)",
 "text": "On 8 July 1947 RAAF publicly announced that the intelligence office of the 509th Bomb Group 'was fortunate enough to gain possession of a disc through the cooperation of one of the local ranchers and the sheriff's office of Chaves County.'",
 "tier": 1
 },
 {
+"id": "c-24f44af9bb",
 "source": "GAO/NSIAD-95-187, p.4, describing the FBI teletype of 8 July 1947",
 "text": "On 8 July 1947 an Eighth Air Force headquarters official telephonically informed the FBI's Dallas office of the recovery near Roswell of 'a hexagonal-shaped disc suspended from a large balloon by cable.'",
 "tier": 1
 },
 {
+"id": "c-64b2984489",
 "source": "Walter Haut affidavit, executed 2002, released 2007",
 "text": "Haut stated in a sealed affidavit executed 26 December 2002 and released after his 2005 death that he saw a craft and bodies and that Col. Blanchard ordered the press release.",
 "tier": 2
 },
 {
+"id": "c-a9500019eb",
 "source": "RAAF press release, 8 July 1947; Roswell Daily Record, 8 July 1947",
 "text": "Haut authored and released the 8 July 1947 Roswell Army Air Field press release announcing that the 509th Bomb Group had come into possession of a flying disc.",
 "tier": 1
 },
 {
+"id": "c-7c157d2895",
 "source": "Haut affidavit, 14 May 1993 (Fund for UFO Research affidavit series)",
 "text": "In an affidavit signed 14 May 1993 Haut stated that Col. Blanchard had seen the material, that there was no chance Blanchard would have mistaken it for a weather balloon, and no chance Marcel would have been mistaken.",
 "tier": 2
 },
 {
+"id": "c-b70ec8f7b2",
 "source": "Interviews quoted in Berlitz and Moore (1980) and Randle and Schmitt, 'UFO Crash at Roswell' (1991)",
 "text": "In 1979 and in a March 1989 interview Haut said he knew nothing about what was recovered and was refused permission to see it - directly inconsistent with the 2002 document's first-hand claims.",
 "tier": 2
 },
 {
+"id": "c-5ed801a589",
 "source": "Schmitt's and the Haut family's own account of the document's creation",
 "text": "The 2002 'sealed affidavit' should be treated as Schmitt's composition attested by Haut rather than as Haut's testimony, because Schmitt composed and emailed the text and the release was embargoed until Haut could not be questioned about it. Reasoning: stated on the record by Schmitt himself as to authorship and by the family as to the embargo.",
 "tier": 3
@@ -132,6 +139,7 @@
 "dateEnd": "2007",
 "dateStart": "2002-12",
 "direction": "out",
+"edgeId": "e-bd781c8cb0",
 "edgeLabel": "Schmitt drafted and embargoed the 2002 Haut affidavit",
 "id": "don-schmitt",
 "l0": false,
@@ -153,6 +161,7 @@
 "dateEnd": "1947-07-08",
 "dateStart": "1947-07-08",
 "direction": "out",
+"edgeId": "e-ee4ca9a907",
 "edgeLabel": "Haut's 8 July 1947 press release named Marcel as the recovering officer",
 "id": "jesse-marcel",
 "l0": false,
@@ -174,6 +183,7 @@
 "dateEnd": "1947",
 "dateStart": "1947",
 "direction": "out",
+"edgeId": "e-37f2115706",
 "edgeLabel": "Haut issued the 8 July 1947 press release",
 "id": "raaf-press-release-1947",
 "l0": false,
@@ -195,6 +205,7 @@
 "dateEnd": "1947-07-08",
 "dateStart": "1947-07-08",
 "direction": "out",
+"edgeId": "e-7426f97fd8",
 "edgeLabel": "Haut issued the 8 July 1947 'flying disc' press release",
 "id": "roswell-1947",
 "l0": true,
@@ -266,7 +277,7 @@
 "status": "dead",
 "sub": "Public information officer, 509th Bomb Group, RAAF",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 331 of 1170, score 37). 4 connections, 0 of them custody/funding/programmatic. Axes C2/A1/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 332 of 1138, score 37). 4 connections, 0 of them custody/funding/programmatic. Axes C2/A1/D3.",
 "timeline": [
 {
 "claimTier": null,

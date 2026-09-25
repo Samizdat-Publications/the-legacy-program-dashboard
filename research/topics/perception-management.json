@@ -1,0 +1,25 @@
+{
+ "id": "perception-management",
+ "title": "Perception management: YANKEE BLUE, psychological operations and disinformation practice",
+ "kind": "mechanism",
+ "section": "case-against",
+ "span": {
+  "from": "1950",
+  "to": "2026"
+ },
+ "focusEra": "3",
+ "anchors": [
+  "yankee-blue",
+  "operation-northwoods",
+  "afswc-tr-59-39"
+ ],
+ "absorbs": [
+  "d-psyop",
+  "d-disinformation",
+  "d-counterintel"
+ ],
+ "essays": [],
+ "status": "draft",
+ "notes": "YANKEE BLUE and the documented practice of perception management, with the psychological-operations and disinformation domain nodes it absorbs.",
+ "appendixT": "perception-management"
+}

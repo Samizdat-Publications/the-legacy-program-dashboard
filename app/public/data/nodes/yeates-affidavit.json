@@ -5,11 +5,13 @@
 "band": null,
 "claims": [
 {
+"id": "c-e54b52158e",
 "source": "NSA UFO FOIA collection, 'Yeates Affidavit'",
 "text": "The Yeates Affidavit is published in NSA's UFO FOIA release, and NSA's litigation position in Civil Action No. 80-1562 was that responsive UFO records existed but could not be disclosed.",
 "tier": 1
 },
 {
+"id": "c-6485db2f80",
 "source": "The Black Vault, NSA UFO collection background",
 "text": "The affidavit's release in redacted form came only after years of public pressure and republication by private archivists.",
 "tier": 2
@@ -25,6 +27,7 @@
 "dateEnd": "1982",
 "dateStart": "1980",
 "direction": "out",
+"edgeId": "e-17f1e70b62",
 "edgeLabel": "The affidavit is the instrument by which withholding was sustained",
 "id": "caus-v-nsa",
 "l0": false,
@@ -51,6 +54,7 @@
 "dateEnd": "1980",
 "dateStart": "1980",
 "direction": "in",
+"edgeId": "e-2a56b4bfcf",
 "edgeLabel": "Yeates executed the affidavit as NSA Chief of Policy",
 "id": "eugene-yeates",
 "l0": false,
@@ -72,6 +76,7 @@
 "dateEnd": "2016",
 "dateStart": "2013",
 "direction": "in",
+"edgeId": "e-99f80b90ec",
 "edgeLabel": "2013 Mandatory Declassification Review forced further release of the NSA UFO holdings",
 "id": "john-greenewald",
 "l0": false,
@@ -108,6 +113,7 @@
 },
 "claimTier": 1,
 "denialKind": "directed",
+"edgeId": "e-17f1e70b62",
 "label": "The affidavit is the instrument by which withholding was sustained",
 "note": "The United States has never asserted that the records do not exist. Its sworn position is that they cannot be disclosed.",
 "of": {
@@ -162,7 +168,7 @@
 ],
 "sub": "Classified declaration justifying withholding of UFO-related SIGINT; later released redacted",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 498 of 1170, score 31). 3 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 495 of 1138, score 31). 3 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D3.",
 "timeline": [],
 "unverified": []
 }

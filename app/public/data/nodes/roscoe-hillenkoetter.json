@@ -8,36 +8,43 @@
 "chronology": [],
 "claims": [
 {
+"id": "c-fda70a865b",
 "source": "Chief, Inspection and Security Staff, CIA, to the Director of Central Intelligence, 'Project Bluebird', Top Secret, 5 April 1950, CIA-RDP83-01042R000800010003-1, National Security Archive John Marks Collection Box 9, https://nsarchive.gwu.edu/sites/default/files/documents/1950-04-05%20JM%20Box%209%20F5%20Replacement%20CIA%20FOIA-ocr.pdf",
 "text": "The founding proposal for Project BLUEBIRD went to him as Director of Central Intelligence. The memorandum of 5 April 1950 from the Chief of the CIA's Inspection and Security Staff is addressed to the Director of Central Intelligence and says on its face: 'In view of the extreme sensitivity of this project and its covert nature, it is deemed advisable to submit this project directly to you, rather than through the channel of the Projects Review Committee. Knowledge of this project should be restricted to the absolute minimum number of persons.' It asks him for approval and for an allocation of $65,515.",
 "tier": 1
 },
 {
+"id": "c-53778ecf3d",
 "source": "National Security Archive catalogue record for the 5 April 1950 Project Bluebird memorandum, https://nsarchive.gwu.edu/document/32717-document-02-chief-inspection-and-security-staff-us-central-intelligence-agency",
 "text": "The Director on that date was Hillenkoetter. The memorandum itself names only the office; the National Security Archive's catalogue record for it names him as the recipient, and this node already dates his tenure as DCI from May 1947 to October 1950 on a CIA-held clipping. The identification is Tier 2 because the document does not make it.",
 "tier": 2
 },
 {
+"id": "c-72654f73ba",
 "source": "CIA-RDP68-00046R000200090025-2, Worcester Gazette, 1 June 1960, 'Congressional Action: Ex-C.I.A. Chief Wants UFO Probe' by Bulkley Griffin; declassified in part 2014-06-12",
 "text": "A Worcester (Mass.) Gazette clipping of 1 June 1960, held in CIA records, reports Hillenkoetter declaring of the so-called flying saucers: 'The unknown objects are operating under intelligent control. It is imperative that we learn where the UFO's (unidentified flying objects) come from and what their purpose is.'",
 "tier": 1
 },
 {
+"id": "c-3b363924c7",
 "source": "CIA-RDP68-00046R000200090025-2, Worcester Gazette, 1 June 1960",
 "text": "The same document records that Hillenkoetter 'headed the Central Intelligence Agency from May 1947 to October 1950' and that he 'wants a Congressional investigation of the UFOs'. On the wartime and immediate post-war years he is quoted: 'I know that neither Russia nor this country had anything even approaching such high speeds and maneuvers.'",
 "tier": 1
 },
 {
+"id": "c-8dd63537ea",
 "source": "CIA-RDP68-00046R000200090028-9, Enquirer, 4 March 1960, editorial 'Flying Saucers Again'; declassified in part 2014-06-12",
 "text": "An Enquirer editorial of 4 March 1960, also held in CIA records, states that 'Admiral Hillenkoetter, former director of the Central Intelligence Agency, is a board member of the privately financed NICAP ... As such he has referred his conclusions to the Senate Space Committee, requesting an investigation.'",
 "tier": 1
 },
 {
+"id": "c-044c9f5722",
 "source": "CIA-RDP68-00046R000200090028-9, Enquirer, 4 March 1960",
 "text": "The same editorial records its own disagreement with him: 'WE CANNOT wholly agree with the respected Vice Adm. R. H. Hillenkoetter (ret.) that the Air Force is deceiving the public' -- which preserves his position as well as the paper's.",
 "tier": 1
 },
 {
+"id": "c-d59d54959b",
 "source": "FBI files on Roscoe H. Hillenkoetter, National Security Archive mirror; full-text search of the sections available",
 "text": "The National Security Archive's mirror of the FBI files on Hillenkoetter -- eighteen serials plus a main file -- contains, across the sections text-searched, zero occurrences of NICAP, 'flying saucer', 'unidentified flying', Keyhoe, or the year 1960. OCR quality on these scans is uneven, so this is a strong indication rather than a proof.",
 "tier": 2
@@ -53,6 +60,7 @@
 "dateEnd": "1950",
 "dateStart": "1947",
 "direction": "out",
+"edgeId": "e-0090ce15ca",
 "edgeLabel": "first Director of Central Intelligence, May 1947 to October 1950",
 "id": "cia",
 "l0": true,
@@ -74,6 +82,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-1f838db3ba",
 "edgeLabel": "Long-time acquaintance; recruited a former DCI onto NICAP's Board of Governors",
 "id": "donald-keyhoe",
 "l0": false,
@@ -95,6 +104,7 @@
 "dateEnd": null,
 "dateStart": "1947",
 "direction": "in",
+"edgeId": "e-0774622dfd",
 "edgeLabel": "Appointed the first Director of Central Intelligence of the CIA",
 "id": "harry-s-truman",
 "l0": false,
@@ -116,6 +126,7 @@
 "dateEnd": "1962",
 "dateStart": "1957",
 "direction": "out",
+"edgeId": "e-29149e99a3",
 "edgeLabel": "Served five years on the Board of Governors",
 "id": "nicap",
 "l0": true,
@@ -137,6 +148,7 @@
 "dateEnd": null,
 "dateStart": "1950-04-05",
 "direction": "in",
+"edgeId": "e-ae3e08795c",
 "edgeLabel": "Submitted directly to the DCI, 5 April 1950",
 "id": "project-bluebird",
 "l0": false,
@@ -158,6 +170,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-7f55007a7e",
 "edgeLabel": "Successive holders of the DCI post; in the same room at the NSC's first meeting",
 "id": "sidney-souers",
 "l0": false,
@@ -236,7 +249,7 @@
 "status": "dead",
 "sub": "First Director of Central Intelligence, May 1947 - October 1950; NICAP board member 1960",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 167 of 1170, score 49). 6 connections, 0 of them custody/funding/programmatic. Axes C3/A2/D3.",
+"tierRationale": "Re-graded A on a global pass (rank 168 of 1138, score 49). 6 connections, 0 of them custody/funding/programmatic. Axes C3/A2/D3.",
 "timeline": [
 {
 "claimTier": null,

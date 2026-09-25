@@ -5,16 +5,19 @@
 "band": null,
 "claims": [
 {
+"id": "c-21abe5bd88",
 "source": "The National Archives, UFO files release page, June 2013",
 "text": "The final tranche of released files covers 'the final two years of the Ministry of Defence's UFO Desk (from late 2007 until November 2009)' and documents 'the reasons behind the closure of the UFO desk, the handling of the largest number of UFO sighting reports received in 30 years and the disclosure campaign for the truth, which was sparked by the closure of the UFO Desk'.",
 "tier": 1
 },
 {
+"id": "c-3538600d4f",
 "source": "The National Archives, UFO files release page, July 2012",
 "text": "The July 2012 tranche is described as showing 'the role of the UFO Desk Officers, what they really thought of alien visitors, their ideas to harness alien technology as a weapon, and their briefings to Tony Blair on UFO policy'.",
 "tier": 1
 },
 {
+"id": "c-2615fd633b",
 "source": "Sky HISTORY, 'Remembering Nick Pope: 1965 - 2026', 2 May 2026",
 "text": "'The MoD eventually closed its UFO desk in 2009, having deemed it surplus to the UK's defence requirements.'",
 "tier": 2
@@ -30,6 +33,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-180a0085aa",
 "edgeLabel": "The UFO desk worked the case and asked for a radar replay",
 "id": "cosford-incident-1993",
 "l0": false,
@@ -51,6 +55,7 @@
 "dateEnd": "2009-12",
 "dateStart": "1977",
 "direction": "out",
+"edgeId": "e-bdea8f554a",
 "edgeLabel": "the two opposite answers to the same problem",
 "id": "geipan",
 "l0": true,
@@ -77,6 +82,7 @@
 "dateEnd": "1994",
 "dateStart": "1991",
 "direction": "in",
+"edgeId": "e-eedbbb393b",
 "edgeLabel": "ran the UFO desk 1991-1994",
 "id": "nick-pope",
 "l0": false,
@@ -98,6 +104,7 @@
 "dateEnd": "2000",
 "dateStart": "1960s",
 "direction": "out",
+"edgeId": "e-95817938d0",
 "edgeLabel": "public desk fed the intelligence section's database",
 "id": "uk-di55",
 "l0": false,
@@ -158,7 +165,7 @@
 ],
 "sub": "UK civil-service desk receiving and triaging public UAP reports, c.1950s-2009",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 831 of 1170, score 21). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 812 of 1138, score 21). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.",
 "timeline": [],
 "unverified": []
 }

@@ -5,21 +5,25 @@
 "band": null,
 "claims": [
 {
+"id": "c-557138e0b5",
 "source": "Stringfield, Status Report III, Kingman case notes",
 "text": "Kingman, Arizona 1953 was first investigated and reported by Raymond Fowler; Stringfield referenced it at pages 178-185 of 'Situation Red, The UFO Siege' (Doubleday, 1977) and as Abstract 6 of 'Retrievals of the Third Kind' (1978).",
 "tier": 2
 },
 {
+"id": "c-ac7e216e82",
 "source": "Stringfield, Status Report III, Kingman Q&A",
 "text": "Stringfield wrote to Fowler on 11 August 1980 seeking permission to question Fowler's source 'Fritz Werner' (pseudonym); Werner's written answers are dated 2 September 1980 and are printed verbatim in Status Report III.",
 "tier": 2
 },
 {
+"id": "c-cfdb9f052a",
 "source": "Stringfield, Status Report III, verbatim Q&A dated 2 September 1980",
 "text": "Asked in 1980 for facial detail on the entity, 'Werner' answered: 'Since it's been 27 years, details like this are pretty foggy and I may even be influenced by other descriptions I've seen or heard in the interim.'",
 "tier": 2
 },
 {
+"id": "c-846b464f8d",
 "source": "Inference from the Werner answers of 2 September 1980",
 "text": "Kingman is the retrieval literature's best-documented example of a compartmented-examination account and simultaneously its clearest self-reported contamination admission, which is why it should be treated as a research target rather than as evidence. Reasoning: the source states in writing that his own recollection may be contaminated by intervening published descriptions.",
 "tier": 3
@@ -35,6 +39,7 @@
 "dateEnd": "1982",
 "dateStart": "1980-09-02",
 "direction": "in",
+"edgeId": "e-192e936ba5",
 "edgeLabel": "Status Report III printed the 1980 'Fritz Werner' Q&A on Kingman",
 "id": "stringfield-status-reports",
 "l0": false,
@@ -85,7 +90,7 @@
 ],
 "sub": "Claimed craft and single body recovery; source pseudonym 'Fritz Werner'",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 835 of 1170, score 21). 1 connections, 0 of them custody/funding/programmatic. Axes C2/A1/D1.",
+"tierRationale": "Re-graded C on a global pass (rank 816 of 1138, score 21). 1 connections, 0 of them custody/funding/programmatic. Axes C2/A1/D1.",
 "timeline": [],
 "unverified": []
 }

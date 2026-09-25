@@ -5,36 +5,43 @@
 "band": "funding",
 "claims": [
 {
+"id": "c-2d4897578a",
 "source": "https://media.defense.gov/2026/May/12/2003929535/-1/-1/1/FY%202025%20DOW%20FINANCIAL%20STATEMENT%20AUDIT%20EXPLAINED_V6.PDF — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
 "text": "The Department received a disclaimer of opinion on its agency-wide financial statements for eight consecutive years through FY2025.",
 "tier": 2
 },
 {
+"id": "c-0f2ae724e8",
 "source": "https://media.defense.gov/2026/May/12/2003929535/-1/-1/1/FY%202025%20DOW%20FINANCIAL%20STATEMENT%20AUDIT%20EXPLAINED_V6.PDF",
 "text": "The FY2025 audit identified 26 material weaknesses: 10 in management responsibility and asset accountability, 6 in information technology, and 10 in accounting.",
 "tier": 1
 },
 {
+"id": "c-dd07057120",
 "source": "https://media.defense.gov/2026/May/12/2003929535/-1/-1/1/FY%202025%20DOW%20FINANCIAL%20STATEMENT%20AUDIT%20EXPLAINED_V6.PDF",
 "text": "One of the ten accounting material weaknesses is titled 'Unsupported Accounting Adjustments'; the report states that in the last two quarters of FY2025 the Department's adjustments totalled more than $859 billion.",
 "tier": 1
 },
 {
+"id": "c-f371367f17",
 "source": "https://media.defense.gov/2026/May/12/2003929535/-1/-1/1/FY%202025%20DOW%20FINANCIAL%20STATEMENT%20AUDIT%20EXPLAINED_V6.PDF — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
 "text": "'Universe of Transactions' - the complete set of all transactions falling within audit scope - is itself a standing material weakness, meaning the Department cannot establish what its own transaction population is.",
 "tier": 2
 },
 {
+"id": "c-5a29dfd873",
 "source": "https://media.defense.gov/2026/May/12/2003929535/-1/-1/1/FY%202025%20DOW%20FINANCIAL%20STATEMENT%20AUDIT%20EXPLAINED_V6.PDF — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
 "text": "Fund Balance with Treasury, an estimated $1 trillion in spending accounts, is a standing material weakness.",
 "tier": 2
 },
 {
+"id": "c-e18a5af635",
 "source": "https://media.defense.gov/2026/May/12/2003929535/-1/-1/1/FY%202025%20DOW%20FINANCIAL%20STATEMENT%20AUDIT%20EXPLAINED_V6.PDF — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
 "text": "In FY2025, 22 reporting entities received stand-alone audits: 11 clean opinions, 1 qualified opinion, 9 disclaimers, and 1 entity (Navy Working Capital Fund) received no opinion under a two-year audit cycle.",
 "tier": 2
 },
 {
+"id": "c-ec6146b8e7",
 "source": "https://media.defense.gov/2026/May/12/2003929535/-1/-1/1/FY%202025%20DOW%20FINANCIAL%20STATEMENT%20AUDIT%20EXPLAINED_V6.PDF",
 "text": "A standing 'Universe of Transactions' material weakness is the accounting equivalent of an unindexed archive: it means no auditor and no oversight committee can prove a negative about DoD spending, because the population against which a search would run is not known to exist in complete form. Reasoning: the material weakness is defined by the auditors as inability to establish the complete transaction set; any assertion that no funds flowed to an undisclosed activity would require exactly that set.",
 "tier": 3
@@ -50,6 +57,7 @@
 "dateEnd": null,
 "dateStart": "2026-05-13",
 "direction": "in",
+"edgeId": "e-004292d479",
 "edgeLabel": "Testified to the current figures on the congressional record",
 "id": "brett-mansfield",
 "l0": false,
@@ -71,6 +79,7 @@
 "dateEnd": "2025",
 "dateStart": "2018",
 "direction": "out",
+"edgeId": "e-60a074ea5c",
 "edgeLabel": "eight consecutive disclaimers of opinion are the measurable size of the gap this domain is about",
 "id": "d-funding",
 "l0": false,
@@ -97,6 +106,7 @@
 "dateEnd": null,
 "dateStart": "2018",
 "direction": "in",
+"edgeId": "e-eb0a34f7e0",
 "edgeLabel": "Signed the FY2018 report announcing the first full-scope audit and its disclaimer",
 "id": "david-norquist",
 "l0": false,
@@ -118,10 +128,11 @@
 "dateEnd": null,
 "dateStart": "2018",
 "direction": "out",
+"edgeId": "e-902d4727c0",
 "edgeLabel": "The OIG is the independent auditor issuing the annual opinion",
-"id": "dodig",
+"id": "dod-oig",
 "l0": false,
-"label": "Office of Inspector General, Department of Defense / Department of War",
+"label": "Department of Defense Office of Inspector General",
 "note": "The DoD/DoW Office of Inspector General has issued the opinion on the agency-wide financial statements every year since FY2018, each time a disclaimer. Attested by the FY2018 AFR and by DOWIG-2026-081.",
 "sources": [
 {
@@ -130,7 +141,7 @@
 "url": "https://comptroller.war.gov/Portals/45/Documents/afr/fy2018/3-Financial_Section.pdf"
 }
 ],
-"tier": "C",
+"tier": "B",
 "type": "institutional"
 },
 {
@@ -139,6 +150,7 @@
 "dateEnd": null,
 "dateStart": "2026-05-12",
 "direction": "in",
+"edgeId": "e-bb2fb43c3b",
 "edgeLabel": "The current authoritative statement of the audit result",
 "id": "dowig-2026-081",
 "l0": false,
@@ -160,6 +172,7 @@
 "dateEnd": null,
 "dateStart": "1995",
 "direction": "in",
+"edgeId": "e-9cff98ba41",
 "edgeLabel": "Thirty years of Comptroller General certification that the books cannot produce reliable information",
 "id": "gao-high-risk-dod-fm",
 "l0": false,
@@ -181,6 +194,7 @@
 "dateEnd": null,
 "dateStart": "2018",
 "direction": "out",
+"edgeId": "e-588b33de6e",
 "edgeLabel": "An unauditable ledger cannot disprove the allegation",
 "id": "grusch-misappropriation-allegation",
 "l0": false,
@@ -202,6 +216,7 @@
 "dateEnd": null,
 "dateStart": "2015-09",
 "direction": "in",
+"edgeId": "e-3dbc11c416",
 "edgeLabel": "Below-threshold and internal reprogramming are where the unsupported adjustments live",
 "id": "reprogramming-dd1415",
 "l0": false,
@@ -223,6 +238,7 @@
 "dateEnd": null,
 "dateStart": "2018-10-04",
 "direction": "in",
+"edgeId": "e-6cb045b811",
 "edgeLabel": "Authorises modification of the same public financial reports the audit examines",
 "id": "sffas-56",
 "l0": false,
@@ -390,9 +406,9 @@
 },
 {
 "cls": "institution",
-"id": "dodig",
-"label": "Office of Inspector General, Department of Defense / Department of War",
-"tier": "C"
+"id": "dod-oig",
+"label": "Department of Defense Office of Inspector General",
+"tier": "B"
 },
 {
 "cls": "document",
@@ -465,7 +481,7 @@
 ],
 "sub": "Annual full-scope audit required by the CFO Act; disclaimer of opinion every year since inception",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 302 of 1170, score 39). 9 connections, 2 of them custody/funding/programmatic. Axes C0/A1/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 304 of 1138, score 39). 9 connections, 2 of them custody/funding/programmatic. Axes C0/A1/D3.",
 "timeline": [],
 "unverified": []
 }

@@ -28,21 +28,25 @@
 ],
 "claims": [
 {
+"id": "c-94b2c6cfca",
 "source": "P.L. 118-31 as enacted, compared with S. 2226 as engrossed in the Senate, GPO",
 "text": "The enacted FY2024 NDAA, P.L. 118-31, Subtitle C of Title XVIII, consists only of Secs. 1841, 1842 and 1843; the Senate-passed Secs. 9007-9011 and 9014 have no enacted counterpart.",
 "tier": 1
 },
 {
+"id": "c-c3da3e4042",
 "source": "Micah Hanks, The Debrief, 27 November 2023",
 "text": "Daniel Sheehan states Turner 'first attacked those two elements' — the eminent domain provision and the Review Board's subpoena power — and demanded both be removed.",
 "tier": 2
 },
 {
+"id": "c-af96a57681",
 "source": "Micah Hanks, The Debrief, 27 November 2023",
 "text": "Turner and Rep. Mike Rogers are identified as leading the effort to eliminate or significantly alter the UAP Disclosure Act, with support from Sen. Mitch McConnell and Speaker Mike Johnson.",
 "tier": 2
 },
 {
+"id": "c-447a197701",
 "source": "Turner, 30 July 2023, quoted in The Debrief",
 "text": "'The most striking aspect of all the testimony was, repeatedly over and over again, the whistleblowers had to say, actually, I don't have any knowledge.'",
 "tier": 2
@@ -60,6 +64,7 @@
 "dateEnd": "2023",
 "dateStart": "2023",
 "direction": "in",
+"edgeId": "e-cc1325dd5d",
 "edgeLabel": "Named-source account of what Turner demanded in conference",
 "id": "daniel-sheehan",
 "l0": false,
@@ -81,6 +86,7 @@
 "dateEnd": "2025",
 "dateStart": "2023",
 "direction": "out",
+"edgeId": "e-d90f94162f",
 "edgeLabel": "Chairman during the FY2024 conference",
 "id": "house-intelligence",
 "l0": false,
@@ -102,6 +108,7 @@
 "dateEnd": "2023",
 "dateStart": "2023",
 "direction": "out",
+"edgeId": "e-233b7b64d2",
 "edgeLabel": "Named as demanding removal of the Board's subpoena power",
 "id": "uap-records-review-board",
 "l0": false,
@@ -128,6 +135,7 @@
 "dateEnd": "2023",
 "dateStart": "2023",
 "direction": "out",
+"edgeId": "e-d5f895867e",
 "edgeLabel": "Named as demanding removal of the eminent domain provision",
 "id": "uapda-sec-9010-eminent-domain",
 "l0": false,
@@ -169,6 +177,7 @@
 },
 "claimTier": 2,
 "denialKind": "directed",
+"edgeId": "e-233b7b64d2",
 "label": "Named as demanding removal of the Board's subpoena power",
 "note": "The Board survives in no form in enacted law; Sheehan attributes the demand to Turner, and the conference produced no document naming who struck what.",
 "of": {
@@ -203,6 +212,7 @@
 },
 "claimTier": 2,
 "denialKind": "directed",
+"edgeId": "e-d5f895867e",
 "label": "Named as demanding removal of the eminent domain provision",
 "note": "Daniel Sheehan, who lobbied the conference, states Turner attacked the eminent domain clause and the subpoena power first and demanded both be struck; the enacted text lacks exactly those two things.",
 "of": {
@@ -270,7 +280,7 @@
 "status": "active",
 "sub": "R-OH; Chairman, House Permanent Select Committee on Intelligence (2023-2025)",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 514 of 1170, score 30). 4 connections, 0 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C0/A3/D0.",
+"tierRationale": "Re-graded B on a global pass (rank 512 of 1138, score 30). 4 connections, 0 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C0/A3/D0.",
 "timeline": [
 {
 "claimTier": null,

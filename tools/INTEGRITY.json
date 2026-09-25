@@ -1,12 +1,9 @@
 {
  "edge_without_note": [
   "harry-reid->aawsap (funding)",
-  "harry-reid->reid-letter-2009-06-24 (research)",
-  "reid-letter-2009-06-24->dia-sap-denial-2009 (temporal)",
   "aawsap->baass (funding)",
   "aawsap->aatip (institutional)",
   "james-lacatski->aawsap (institutional)",
-  "aawsap->aawsap-contract-hhm402-08-c-0072 (funding)",
   "dird-series->dird-advanced-nuclear-propulsion-for-manned-deep (institutional)",
   "dird-series->dird-advanced-space-propulsion-based-on-vacuum (institutional)",
   "dird-series->dird-aerospace-applications-of-programmable-matter (institutional)",
@@ -43,16 +40,19 @@
   "cfr-32-117->carve-out (legislative)",
   "carve-out->dcsa-nisp (legislative)",
   "dodi-5205-11->carve-out (legislative)",
-  "dodi-5205-11->waived-usap-mechanism (legislative)",
   "dodd-5205-07-2024->dodd-5205-07-2010 (legislative)",
   "dodm-5205-07-series->dodd-5205-07-2010 (legislative)",
   "usc-50-3348->usc-50-2426 (legislative)",
   "icd-906->odni-capco (legislative)",
   "usc-50-3091a-2024amend->usc-50-3091a (legislative)",
   "usc-50-3091a-2024amend->sap-taxonomy (legislative)",
-  "ndaa-fy2024-1687->waived-usap-mechanism (funding)",
   "eo-12829->cfr-32-117 (legislative)",
-  "accm->four-regime-map (legislative)"
+  "accm->four-regime-map (legislative)",
+  "harry-reid->reid-sap-letter-2009 (research)",
+  "reid-sap-letter-2009->dia-sap-denial-memo-2009 (temporal)",
+  "aawsap->aawsap-contract (funding)",
+  "dodi-5205-11->waived-usap (legislative)",
+  "ndaa-fy2024-1687->waived-usap (funding)"
  ],
  "person_thin_sourcing": [
   {
@@ -189,13 +189,6 @@
   "scott-bray"
  ],
  "probable_duplicate_node": [
-  {
-   "a": "earthtech-international",
-   "b": "institute-advanced-studies-austin",
-   "cls": "institution",
-   "overlap": 0.71,
-   "shared_url": "https://www.earthtech.org/about/"
-  },
   {
    "a": "dodm-5205-07-series",
    "b": "dodm-5205-07-v1",

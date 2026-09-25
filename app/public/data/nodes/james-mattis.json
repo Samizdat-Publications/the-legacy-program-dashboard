@@ -23,11 +23,13 @@
 ],
 "claims": [
 {
+"id": "c-a9dbb10aa0",
 "source": "New York Times, 16 December 2017",
 "text": "Elizondo's resignation letter was addressed to Defense Secretary Jim Mattis and asked 'Why aren't we spending more time and effort on this issue?'",
 "tier": 2
 },
 {
+"id": "c-8b841c62f8",
 "source": "OSD/JS FOIA 18-F-0324",
 "text": "Garry Reid's memorandum responding to six questions about Elizondo was directed to the Secretary of Defense in late December 2017.",
 "tier": 1
@@ -45,6 +47,7 @@
 "dateEnd": "2017",
 "dateStart": "2017",
 "direction": "in",
+"edgeId": "e-d5edd9b01d",
 "edgeLabel": "Memorandum saluted 'Mr. Secretary'; NYT reported it as addressed to Mattis",
 "id": "elizondo-resignation-letter-2",
 "l0": false,
@@ -71,6 +74,7 @@
 "dateEnd": "2017",
 "dateStart": "2017",
 "direction": "out",
+"edgeId": "e-0b688dc499",
 "edgeLabel": "Secretary's office put six questions to Reid about Elizondo, Dec 2017",
 "id": "garry-reid",
 "l0": false,
@@ -133,7 +137,7 @@
 "status": "former",
 "sub": "Secretary of Defense, 2017-2019",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 903 of 1170, score 18). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A3/D1.",
+"tierRationale": "Re-graded C on a global pass (rank 879 of 1138, score 18). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A3/D1.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": [

@@ -23,11 +23,13 @@
 ],
 "claims": [
 {
+"id": "c-5b7baf8e2d",
 "source": "MITRE's own SAGE history site, sage.mitre.org timeline",
 "text": "The MITRE Corporation was incorporated as a nonprofit organization on 21 July 1958, and Robert Everett joined as its first technical director along with 485 other Lincoln Laboratory employees.",
 "tier": 1
 },
 {
+"id": "c-3a584632eb",
 "source": "sage.mitre.org; MIT Lincoln Laboratory SAGE history page",
 "text": "MITRE was created to continue as lead systems engineer for SAGE, the first continental air defence system, which was also the impetus for Lincoln Laboratory's own establishment.",
 "tier": 1
@@ -43,6 +45,7 @@
 "dateEnd": "1986",
 "dateStart": "1958",
 "direction": "out",
+"edgeId": "e-168f8298c2",
 "edgeLabel": "First technical director; carried SAGE engineering authority across from MIT",
 "id": "mitre-corporation",
 "l0": true,
@@ -109,7 +112,7 @@
 "status": "dead",
 "sub": "First Technical Director and later President of The MITRE Corporation; previously associate director of MIT Lincoln Laboratory Division 6 (Project Whirlwind / SAGE)",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 935 of 1170, score 17). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D0.",
+"tierRationale": "Re-graded C on a global pass (rank 910 of 1138, score 17). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D0.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": []

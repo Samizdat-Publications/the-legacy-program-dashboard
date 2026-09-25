@@ -5,41 +5,49 @@
 "band": null,
 "claims": [
 {
+"id": "c-b9b2147525",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237663/",
 "text": "Defense Intelligence Reference Document titled \"Inertial Electrostatic Confinement Fusion\", series \"Acquisition Threat Support\", published 2010-03-10 with an Intelligence Cut-Off Date (ICOD) of 2009-12-01, DIA document number DIA-08-1003-006. Released by DIA under FOIA and posted in the DIA FOIA Electronic Reading Room.",
 "tier": 1
 },
 {
+"id": "c-b4d22dc544",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237663/",
 "text": "Inside cover reads: \"This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency [redacted b(3) 10 USC 424] Advanced Aerospace Weapon System Applications (AAWSA) Program\" and directs questions to the \"AAWSA Program Manager, Defense Intelligence Agency, ATTN: [redacted], Bldg 6000, Washington, DC 20340-5100\".",
 "tier": 1
 },
 {
+"id": "c-d3df02b12c",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237663/",
 "text": "Author name is withheld in the DIA-released copy under FOIA exemption (b)(6); the \"Prepared by:\" line is withheld under (b)(3) 10 USC 424. The released cover therefore does not attribute the DIRD to a named author.",
 "tier": 1
 },
 {
+"id": "c-95ac99b642",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237663/",
 "text": "Released PDF is 72 pages, marked UNCLASSIFIED//FOR OFFICIAL USE ONLY (FOUO caveat partially illegible in the scan).",
 "tier": 1
 },
 {
+"id": "c-ad2b993207",
 "source": "https://irp.fas.org/dia/aatip-list.pdf",
 "text": "The DIA list transmitted to the Senate Armed Services Committee on 9 January 2018 opens with entry 1: 'Inertial Electrostatics Confinement Fusion, Dr George Miley, Univ. of Illinois.'",
 "tier": 1
 },
 {
+"id": "c-aa425f9002",
 "source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_09-DIRD_Inertial_Electrostatic_Confinement_Fusion.pdf",
 "text": "The released cover page carries the date 10 March 2010, an Intelligence Cut-Off Date of 1 December 2009 and document number DIA-08-1003-006; the author field is redacted under (b)(5).",
 "tier": 1
 },
 {
+"id": "c-8a9380d7f4",
 "source": "https://uap-blog.com/wordpress/wp-content/uploads/2022/04/FOIA-00159-2018-2.pdf — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "text": "At 72 pages it is the longest single document in DIA's 37-document, 1,473-page FOIA release of 25 March 2022.",
 "tier": 2
 },
 {
+"id": "c-e099f75f17",
 "source": "https://silvarecord.com/2019/01/17/38th-dird-title-surfaces-with-letter-addressed-to-mccain-armed-services-committee/",
 "text": "Puthoff named 'IEC fusion as a compact energy source' among the studies he commissioned, in his June 2018 Society for Scientific Exploration account of letting 38 contracts over a two-year period.",
 "tier": 1
@@ -55,6 +63,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-60e682ebe3",
 "edgeLabel": "commissioned under AAWSAP as a compact energy source study",
 "id": "aawsap",
 "l0": true,
@@ -91,6 +100,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-5174a7ba01",
 "edgeLabel": "subject domain: compact non-tokamak fusion power",
 "id": "d-plasma",
 "l0": false,
@@ -127,6 +137,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-2326864f9c",
 "edgeLabel": "DIRD",
 "id": "dird-series",
 "l0": true,
@@ -148,6 +159,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-7b3421c718",
 "edgeLabel": "series member",
 "id": "dird-series",
 "l0": true,
@@ -174,6 +186,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-5bc069a345",
 "edgeLabel": "authored by George H. Miley, University of Illinois",
 "id": "george-miley",
 "l0": false,
@@ -291,7 +304,7 @@
 ],
 "sub": "defense-intelligence-reference-document",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 404 of 1170, score 34). 5 connections, 2 of them custody/funding/programmatic. Axes C0/A0/D0.",
+"tierRationale": "Re-graded B on a global pass (rank 403 of 1138, score 34). 5 connections, 2 of them custody/funding/programmatic. Axes C0/A0/D0.",
 "timeline": [],
 "unverified": []
 }

@@ -25,6 +25,7 @@
 ],
 "claims": [
 {
+"id": "c-7849e20b6a",
 "source": "Inference from CHRG-119hhrg61718 (9 Sept 2025) and Gallagher's published committee assignments",
 "text": "Gallagher held simultaneous House Armed Services and House Intelligence assignments through the 118th Congress - the exact committee profile DoD told Oversight staff was required for read-in to UAP-relevant special access programs. Reasoning: Luna's 9 Sept 2025 statement identifies HASC and HAC-D membership as the read-in gate; HPSCI is the parallel intelligence authorising committee. Whether Gallagher was ever briefed on UAP SAPs is unresolved.",
 "tier": 3
@@ -40,6 +41,7 @@
 "dateEnd": "2024",
 "dateStart": "2023",
 "direction": "out",
+"edgeId": "e-a24b387b7d",
 "edgeLabel": "Held simultaneously the HASC and HPSCI seats that constitute the read-in tier Oversight was excluded from",
 "id": "sap-readin-gate",
 "l0": false,
@@ -96,7 +98,7 @@
 "status": "former",
 "sub": "Former U.S. Rep. (R-WI-8); Chair, Select Committee on the CCP; resigned April 2024",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 1112 of 1170, score 10). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D1.",
+"tierRationale": "Re-graded C on a global pass (rank 1082 of 1138, score 10). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D1.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": [

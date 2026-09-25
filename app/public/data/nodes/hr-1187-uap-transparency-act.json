@@ -5,6 +5,7 @@
 "band": null,
 "claims": [
 {
+"id": "c-78fdc92ae0",
 "source": "Congress.gov H.R. 1187 (119th); GPO BILLS-119hr1187ih",
 "text": "Introduced 11 February 2025 by Rep. Tim Burchett; cosponsors Jared Moskowitz and Anna Paulina Luna; referred to the House Committee on Oversight and Government Reform.",
 "tier": 1
@@ -20,6 +21,7 @@
 "dateEnd": null,
 "dateStart": "2025",
 "direction": "in",
+"edgeId": "e-9321ad51a1",
 "edgeLabel": "Cosponsor - the bipartisan half",
 "id": "jared-moskowitz",
 "l0": false,
@@ -41,6 +43,7 @@
 "dateEnd": null,
 "dateStart": "2025",
 "direction": "in",
+"edgeId": "e-d592e7b5fc",
 "edgeLabel": "Sponsor",
 "id": "tim-burchett",
 "l0": false,
@@ -96,7 +99,7 @@
 ],
 "sub": "Introduced 11 Feb 2025; referred; pending",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 1143 of 1170, score 9). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 1111 of 1138, score 9). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.",
 "timeline": [],
 "unverified": []
 }

@@ -5,6 +5,7 @@
 "band": null,
 "claims": [
 {
+"id": "c-b7433aeaa4",
 "source": "NewsNation Reality Check episode credits, 4 August 2026; Wikipedia, 'Ross Coulthart' — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "text": "NewsNation employs Ross Coulthart as senior special investigations correspondent and produces Reality Check with a credited team including executive producer Andy Gipson, editorial producer Meagan Medick and research producer Rob Jones.",
 "tier": 2
@@ -20,6 +21,7 @@
 "dateEnd": null,
 "dateStart": "2021",
 "direction": "out",
+"edgeId": "e-70825040cc",
 "edgeLabel": "the only US broadcaster to make the legacy programme a standing beat rather than an occasional segment",
 "id": "d-media",
 "l0": false,
@@ -46,6 +48,7 @@
 "dateEnd": null,
 "dateStart": "2023-06-11",
 "direction": "out",
+"edgeId": "e-3e8eb6d13a",
 "edgeLabel": "Broke Grusch's first on-camera whistleblower interview",
 "id": "david-grusch",
 "l0": false,
@@ -72,6 +75,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-d64818faab",
 "edgeLabel": "Carried and explained the Immaculate Constellation report",
 "id": "immaculate-constellation",
 "l0": true,
@@ -98,6 +102,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-d434732cb5",
 "edgeLabel": "Aired the Jake Barber / Skywatcher 'psionic retrieval' special",
 "id": "skywatcher",
 "l0": false,
@@ -158,7 +163,7 @@
 ],
 "sub": "US cable news network",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 1076 of 1170, score 12). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 1045 of 1138, score 12). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.",
 "timeline": [],
 "unverified": []
 }

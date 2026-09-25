@@ -5,16 +5,19 @@
 "band": null,
 "claims": [
 {
+"id": "c-392def65f6",
 "source": "Stringfield, Status Report VII, acknowledgements and Roswell update",
 "text": "Stringfield acknowledges the cooperation of the J. Allen Hynek Center for UFO Studies in Status Report VII (February 1994) and records consulting its scientific director on 6 November 1993 about the Roswell retrieval body count.",
 "tier": 1
 },
 {
+"id": "c-187582a417",
 "source": "Rodeghier and Whiting (1992), cited at note 123 of the 1997 Air Force report",
 "text": "CUFOS scientific director Mark Rodeghier co-authored 'The Plains of San Agustin Controversy' (1992) with Fred Whiting of the Fund for UFO Research.",
 "tier": 2
 },
 {
+"id": "c-b8fb1c2aa2",
 "source": "Cash-Landrum case literature and the Blue Blurry Lines document collection",
 "text": "CUFOS astronomer Allan Hendry briefly investigated the Cash-Landrum case in 1981.",
 "tier": 2
@@ -30,6 +33,7 @@
 "dateEnd": "1992",
 "dateStart": "1992",
 "direction": "in",
+"edgeId": "e-4e68d81031",
 "edgeLabel": "CUFOS and FUFOR investigated and discredited their own witness",
 "id": "gerald-anderson",
 "l0": false,
@@ -51,6 +55,7 @@
 "dateEnd": "1994-02",
 "dateStart": "1982",
 "direction": "out",
+"edgeId": "e-f056e360b1",
 "edgeLabel": "CUFOS cooperated with and advised the Status Report series",
 "id": "leonard-stringfield",
 "l0": false,
@@ -72,6 +77,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-879eadff2a",
 "edgeLabel": "Names the Center for UFO Studies case files as a second of its three major collections, on its own account",
 "id": "nufohrc",
 "l0": false,
@@ -132,7 +138,7 @@
 ],
 "sub": "Civilian research body founded 1973 by J. Allen Hynek, Chicago",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 962 of 1170, score 17). 3 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 934 of 1138, score 17). 3 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D2.",
 "timeline": [],
 "unverified": []
 }

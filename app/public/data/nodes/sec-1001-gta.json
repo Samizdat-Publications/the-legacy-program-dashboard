@@ -5,21 +5,25 @@
 "band": null,
 "claims": [
 {
+"id": "c-be1cebacbc",
 "source": "https://www.govinfo.gov/content/pkg/PLAW-119publ60/html/PLAW-119publ60.htm",
 "text": "Section 1001, NDAA FY2026: transfer authority on the Secretary's determination that action 'is necessary in the national interest', capped at $6,000,000,000, excluding military personnel transfers.",
 "tier": 1
 },
 {
+"id": "c-94398ba636",
 "source": "https://www.govinfo.gov/content/pkg/PLAW-119publ60/html/PLAW-119publ60.htm",
 "text": "Section 1001(d) requires only that 'The Secretary shall promptly notify Congress of each transfer made under subsection (a).'",
 "tier": 1
 },
 {
+"id": "c-57c8dd60ba",
 "source": "https://www.govinfo.gov/content/pkg/PLAW-118publ159/html/PLAW-118publ159.htm",
 "text": "Section 1001 of the NDAA FY2025 (P.L. 118-159, enacted 23 December 2024) carried the identical $6,000,000,000 ceiling and identical conditions.",
 "tier": 1
 },
 {
+"id": "c-48952e92f6",
 "source": "https://www.govinfo.gov/content/pkg/PLAW-119publ60/html/PLAW-119publ60.htm",
 "text": "Section 4001(c), NDAA FY2026: transfer or reprogramming of a funding-table amount 'shall not count against a ceiling on such transfers or reprogrammings under section 1001 of this Act or any other provision of law, unless such transfer or reprogramming would move funds between appropriation accounts.'",
 "tier": 1
@@ -35,6 +39,7 @@
 "dateEnd": null,
 "dateStart": "2025-12-18",
 "direction": "in",
+"edgeId": "e-c0ad6e3ef2",
 "edgeLabel": "Funding-table amounts, including the annex, do not count against the section 1001 ceiling",
 "id": "classified-annex",
 "l0": true,
@@ -90,7 +95,7 @@
 ],
 "sub": "$6 billion of authorization-side transfer authority on a national-interest determination",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 641 of 1170, score 27). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 632 of 1138, score 27). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D2.",
 "timeline": [],
 "unverified": []
 }

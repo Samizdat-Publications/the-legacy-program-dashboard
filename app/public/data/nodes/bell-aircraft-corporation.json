@@ -5,21 +5,25 @@
 "band": null,
 "claims": [
 {
+"id": "c-c7b6314f22",
 "source": "Ansel E. Talbert, New York Herald Tribune, 20 November 1955, continuation p. 36. https://archive.org/download/talbert1ny/talbert1ny_djvu.txt",
 "text": "The Herald Tribune series of November 1955 lists 'Bell Aircraft of Buffalo, builders of the first piloted airplane to fly faster than sound and a current jet vertical take-off and landing airplane' among the aircraft industry firms 'now participating or actively interested in gravity'.",
 "tier": 1
 },
 {
+"id": "c-cfa17cfbec",
 "source": "Ansel E. Talbert, 'New Air Dream, Planes Flying Outside Gravity', New York Herald Tribune, 22 November 1955, p. 1. https://archive.org/download/talbert3ny/talbert3ny_djvu.txt",
 "text": "Lawrence D. Bell told Talbert: 'Aviation as we know it is on the threshold of amazing new concepts', and 'The Wright Brothers proved that man does not have to be earth-bound. Our next step will be to prove that we can operate outside the earth's atmosphere and the third will be to operate outside the gravity of the earth.'",
 "tier": 1
 },
 {
+"id": "c-38bf696c57",
 "source": "Talbert, New York Herald Tribune, 22 November 1955, p. 1 and caption. https://archive.org/download/talbert3ny/talbert3ny_djvu.txt",
 "text": "The same article reports that Bell's company had in the preceding days made the first powered flights with its new Bell X-2 rocket plane, and that it was testing a jet vertical-rising-and-landing aircraft. Its photograph caption names three Air Force test pilots with Bell: Lt. Col. Frank J. Everest, Maj. Charles Yeager and Maj. Arthur Murray.",
 "tier": 1
 },
 {
+"id": "c-22ae65b2b2",
 "source": "Danny Jones Podcast, ep. 248, 8 July 2024, 2:35:18, mapped at research/leads/dannyjones-corpus-12.md",
 "text": "On the Danny Jones Podcast, episode 248, 8 July 2024, at 2:35:18, Jason Reza Jorjani named Bell alongside Martin as a second company making the same public electrogravitics claims, and dated the claims to 1953. The opened articles are dated November 1955, and the words attributed to Bell in them do not use the term electrogravitics.",
 "tier": 2
@@ -35,6 +39,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-01c453d3c5",
 "edgeLabel": "Photographed with three named Air Force test pilots during the Bell X-2 programme",
 "id": "usaf",
 "l0": true,
@@ -90,7 +95,7 @@
 ],
 "sub": "Buffalo aircraft firm named in the Talbert gravity series of November 1955; its founder and president Lawrence D. Bell quoted directly",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 946 of 1170, score 17). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D1.",
+"tierRationale": "Re-graded C on a global pass (rank 919 of 1138, score 17). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D1.",
 "timeline": [],
 "unverified": []
 }

@@ -5,31 +5,37 @@
 "band": null,
 "claims": [
 {
+"id": "c-cac28df7a6",
 "source": "science.gc.ca, Sky Canada Project",
 "text": "OCSA led the Sky Canada Project to review current practices surrounding public reporting of unidentified aerial phenomena in Canada, and published its report, 'Management of Public Reporting of Unidentified Aerial Phenomena in Canada', in June 2025 (59 pages, also issued as PDF).",
 "tier": 1
 },
 {
+"id": "c-afb3f918f0",
 "source": "Sky Canada Project report, section A",
 "text": "OCSA states the project was spurred by increased public interest and by developments in other countries, particularly the United States, where formal procedures for addressing UAP sightings are in development.",
 "tier": 1
 },
 {
+"id": "c-01c53c3647",
 "source": "Sky Canada Project report, recommendations",
 "text": "The report recommends identifying the department responsible for managing public UAP data, establishing a dedicated service to collect testimonies, investigate cases and post its analyses publicly, and having Transport Canada, with NAV CANADA, encourage pilots, cabin crew and air traffic controllers to report UAP sightings without fear of stigmatisation.",
 "tier": 1
 },
 {
+"id": "c-71cd41ccff",
 "source": "science.gc.ca, Sky Canada Project",
 "text": "OCSA records a published disclaimer that the project is not intended to collect first-hand data, not to make OCSA the main point of contact for reporting, and not to prove or disprove the existence of extraterrestrial life or visitors.",
 "tier": 1
 },
 {
+"id": "c-accb53e3dd",
 "source": "Inference from the Sky Canada report",
 "text": "A national science advisor publishing a finding that aircrew do not report because of stigma is an official admission that the observational record is systematically incomplete by social mechanism - which is the same mechanism a concealment programme would rely on and would not need to enforce. Reasoning: stated in the report's own recommendation to remove fear of stigmatisation.",
 "tier": 3
 },
 {
+"id": "c-e3cd8784bc",
 "source": "Board bookkeeping",
 "text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
 "tier": 3
@@ -45,6 +51,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-a37188a394",
 "edgeLabel": "AARO reviewed as a foreign model and named as a proposed partner",
 "id": "aaro",
 "l0": true,
@@ -71,6 +78,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-c221d0394a",
 "edgeLabel": "Sky Canada Project audited and issued recommendations to Transport Canada",
 "id": "canada-dot",
 "l0": false,
@@ -97,6 +105,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-06a6b43e7f",
 "edgeLabel": "Chile's civil-aviation UAP unit used as a model and proposed partner",
 "id": "dgac-chile",
 "l0": false,
@@ -128,6 +137,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-163ebdc95d",
 "edgeLabel": "NASA's UAP study cited as precedent and named as a proposed partner",
 "id": "nasa",
 "l0": true,
@@ -189,7 +199,7 @@
 ],
 "sub": "Foreign government agency",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 914 of 1170, score 18). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D0.",
+"tierRationale": "Re-graded C on a global pass (rank 889 of 1138, score 18). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D0.",
 "timeline": [],
 "unverified": []
 }

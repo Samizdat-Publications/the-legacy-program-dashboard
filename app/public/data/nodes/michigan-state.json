@@ -5,6 +5,7 @@
 "band": null,
 "claims": [
 {
+"id": "c-1a1251d11c",
 "source": "https://mark-skidmore.com/about/",
 "text": "Mark Skidmore holds the Morris Chair in State and Local Government Finance and Policy at Michigan State University and is a Professor of Economics there.",
 "tier": 2
@@ -20,6 +21,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-d43ad879f6",
 "edgeLabel": "Morris Chair in State and Local Government Finance and Policy",
 "id": "mark-skidmore",
 "l0": false,
@@ -70,7 +72,7 @@
 ],
 "sub": "University; institutional home of Mark Skidmore's unsupported-adjustment research",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 1169 of 1170, score 5). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D1.",
+"tierRationale": "Re-graded C on a global pass (rank 1137 of 1138, score 5). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D1.",
 "timeline": [],
 "unverified": []
 }

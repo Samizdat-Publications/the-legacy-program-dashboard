@@ -100,46 +100,55 @@
 ],
 "claims": [
 {
+"id": "c-9af44d8d5a",
 "source": "The Debrief, 5 June 2023, bylined Leslie Kean and Ralph Blumenthal",
 "text": "Co-authored the 5 June 2023 Debrief article reporting Grusch's allegations, with on-record corroboration from Karl Nell, Christopher Mellon and the NASIC officer using the name Jonathan Grey.",
 "tier": 1
 },
 {
+"id": "c-8caa990ac8",
 "source": "Contemporaneous reporting on the article's provenance, June 2023",
 "text": "The story was offered to and declined by major national outlets before The Debrief published it.",
 "tier": 2
 },
 {
+"id": "c-794679f1f7",
 "source": "Wikipedia, 'Leslie Kean'; New York Times, 16 December 2017 — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "text": "Kean co-authored the 16 December 2017 New York Times article revealing the $22.5M AATIP programme.",
 "tier": 2
 },
 {
+"id": "c-dd521ec6b3",
 "source": "Wikipedia, 'Leslie Kean'; The Debrief, 5 June 2023 — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "text": "On 5 June 2023 Kean and Blumenthal reported David Grusch's claim that the US holds a secret UFO retrieval programme with multiple vehicles of non-human origin and records of dead pilots.",
 "tier": 2
 },
 {
+"id": "c-8fc353b9ab",
 "source": "The Sol Foundation, inaugural conference speaker list",
 "text": "Kean was a named speaker at the inaugural Sol Foundation conference, Stanford University, 17-18 November 2023.",
 "tier": 1
 },
 {
+"id": "c-b872c20871",
 "source": "Federal court docket, D.D.C., via CourtListener/RECAP",
 "text": "Kean v. National Aeronautics and Space Administration, No. 1:03-cv-02509 (D.D.C.), was filed 9 December 2003, assigned to Judge Emmet G. Sullivan, cause '05:552 Freedom of Information Act', and terminated 24 August 2009.",
 "tier": 1
 },
 {
+"id": "c-734bdb982c",
 "source": "Memorandum Opinion, Kean v. NASA, Dkt. 45, 27 March 2007, pp. 1-2 and Conclusion",
 "text": "The court's 27 March 2007 memorandum opinion states that NASA admits its first two searches were inadequate, and holds that the agency 'has not yet met its burden of demonstrating that the search for documents was adequate', denying summary judgment in part.",
 "tier": 1
 },
 {
+"id": "c-40b1e9c2fe",
 "source": "Memorandum Opinion, Kean v. NASA, 27 March 2007, Background section",
 "text": "Her FOIA request of 31 January 2003 sought documents on Kecksburg, the 9 December 1965 incident, the 'Fragology Files' for 1962 to 1967, Richard M. Schulherr, Project Moon Dust and 'Cosmos 96'.",
 "tier": 1
 },
 {
+"id": "c-dffdda149b",
 "source": "Docket entries 55, 56 and the minute orders of 17 October 2007 and 24 August 2009",
 "text": "On 17 October 2007 Judge Sullivan entered a Stipulation of Settlement in Part and ordered joint status reports every sixty days; the case was dismissed 24 August 2009 on the parties' representation that NASA had met its obligations.",
 "tier": 1
@@ -157,6 +166,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-5470a9e8e4",
 "edgeLabel": "Podesta forwarded his DSP email to Kean on 6 March 2015",
 "id": "bob-fish",
 "l0": false,
@@ -178,6 +188,7 @@
 "dateEnd": "2023",
 "dateStart": "2023",
 "direction": "out",
+"edgeId": "e-8d6261fba1",
 "edgeLabel": "Kean and Blumenthal broke Grusch's crash-retrieval claims",
 "id": "david-grusch",
 "l0": false,
@@ -199,6 +210,7 @@
 "dateEnd": "2023",
 "dateStart": "2023",
 "direction": "out",
+"edgeId": "e-4826b5f3aa",
 "edgeLabel": "Co-author; vetted Grusch through Nell and the NASIC officer",
 "id": "debrief-2023-06-05",
 "l0": false,
@@ -220,6 +232,7 @@
 "dateEnd": "2026",
 "dateStart": "2003",
 "direction": "in",
+"edgeId": "e-9876520bd4",
 "edgeLabel": "Two FOIA-first approaches to the same concealment question",
 "id": "grant-cameron",
 "l0": false,
@@ -241,6 +254,7 @@
 "dateEnd": "2009-08-24",
 "dateStart": "2003-12-09",
 "direction": "out",
+"edgeId": "e-e1a409137f",
 "edgeLabel": "Plaintiff who forced a court-supervised NASA records search",
 "id": "kean-v-nasa",
 "l0": false,
@@ -267,6 +281,7 @@
 "dateEnd": "2017",
 "dateStart": "2017",
 "direction": "in",
+"edgeId": "e-d7b4ab3748",
 "edgeLabel": "Co-byline with Helene Cooper and Ralph Blumenthal",
 "id": "nyt-2017-12-16",
 "l0": true,
@@ -288,6 +303,7 @@
 "dateEnd": "2023",
 "dateStart": "2017",
 "direction": "out",
+"edgeId": "e-72969b3f34",
 "edgeLabel": "Co-authors of both defining stories, 2017 and 2023",
 "id": "ralph-blumenthal",
 "l0": false,
@@ -309,6 +325,7 @@
 "dateEnd": "2023",
 "dateStart": "2023",
 "direction": "out",
+"edgeId": "e-db95472184",
 "edgeLabel": "Spoke at the inaugural Stanford conference, November 2023",
 "id": "sol-foundation",
 "l0": true,
@@ -330,6 +347,7 @@
 "dateEnd": "2007",
 "dateStart": "2003",
 "direction": "out",
+"edgeId": "e-df70881355",
 "edgeLabel": "Gordon's witness pool underwrote the evidentiary premise of the suit",
 "id": "stan-gordon",
 "l0": false,
@@ -351,6 +369,7 @@
 "dateEnd": "2023",
 "dateStart": "2023",
 "direction": "out",
+"edgeId": "e-9de889acc5",
 "edgeLabel": "The Debrief published the Grusch story the NYT did not run",
 "id": "the-debrief",
 "l0": false,
@@ -437,7 +456,7 @@
 "status": "active",
 "sub": "Investigative journalist; co-author of the 5 June 2023 Debrief story",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 231 of 1170, score 43). 10 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 235 of 1138, score 43). 10 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.",
 "timeline": [
 {
 "claimTier": null,

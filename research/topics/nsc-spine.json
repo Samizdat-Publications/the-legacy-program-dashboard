@@ -1,0 +1,31 @@
+{
+ "id": "nsc-spine",
+ "title": "The National Security Act and the NSC, 1947-1985",
+ "kind": "mechanism",
+ "section": "secrecy-machinery",
+ "span": {
+  "from": "1947",
+  "to": "1985"
+ },
+ "focusEra": "0",
+ "anchors": [
+  "national-security-act-1947",
+  "national-security-council",
+  "nsc-5412",
+  "nsdd-159",
+  "nsam-303",
+  "cia-office-of-policy-coordination",
+  "gordon-gray",
+  "james-v-forrestal",
+  "sidney-souers",
+  "harry-s-truman"
+ ],
+ "absorbs": [
+  "d-ic",
+  "d-intel"
+ ],
+ "essays": [],
+ "status": "draft",
+ "notes": "nsam-303 belongs as the correction: a two-sentence renaming memo, not a charter.",
+ "appendixT": "nsc-spine"
+}

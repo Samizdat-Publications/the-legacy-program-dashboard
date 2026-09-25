@@ -5,16 +5,19 @@
 "band": null,
 "claims": [
 {
+"id": "c-058ab26b0d",
 "source": "ODNI Preliminary Assessment, 25 June 2021",
 "text": "NGA is named among the contributing elements to ODNI's 25 June 2021 Preliminary Assessment on UAP.",
 "tier": 1
 },
 {
+"id": "c-9a3f166307",
 "source": "AARO Historical Record Report Volume I",
 "text": "AARO's Historical Record Report Volume I lists NGA among the agencies with which AARO partnered or at which it conducted records research.",
 "tier": 1
 },
 {
+"id": "c-c5eba32305",
 "source": "Inference from the absence of any NGA UAP release, testimony or litigation in the public record",
 "text": "NGA is the least-examined major IC element in the UAP record despite holding the exploitation product most capable of resolving ground-based recovery and storage claims. Reasoning: no UAP FOIA collection, no hearing appearance and no litigation history exist for NGA, while its mission set is directly responsive to the allegations.",
 "tier": 3
@@ -30,6 +33,7 @@
 "dateEnd": "2023",
 "dateStart": "2021",
 "direction": "in",
+"edgeId": "e-0bc7743774",
 "edgeLabel": "GS-15 Senior GEOINT Capabilities Requirements Officer; agency co-lead for UAP analysis",
 "id": "david-grusch",
 "l0": false,
@@ -56,6 +60,7 @@
 "dateEnd": null,
 "dateStart": "2025-04-24",
 "direction": "out",
+"edgeId": "e-50911e2989",
 "edgeLabel": "Named 2021 UAP contributor that produced nothing for the statutory collection",
 "id": "nara-uap-collection",
 "l0": true,
@@ -82,6 +87,7 @@
 "dateEnd": null,
 "dateStart": "2021-06-25",
 "direction": "out",
+"edgeId": "e-c32756b9bd",
 "edgeLabel": "Named contributor to the 2021 ODNI Preliminary Assessment on UAP",
 "id": "odni",
 "l0": true,
@@ -118,6 +124,7 @@
 },
 "claimTier": 1,
 "denialKind": "directed",
+"edgeId": "e-50911e2989",
 "label": "Named 2021 UAP contributor that produced nothing for the statutory collection",
 "note": "ODNI named NGA as a contributor of UAP reporting in June 2021; NARA's April 2025 transfer list does not include NGA, CIA, NSA, NRO, DIA, DOE or DHS.",
 "of": {
@@ -183,7 +190,7 @@
 ],
 "sub": "Combat support agency and IC element for geospatial intelligence; successor to NIMA and the Defense Mapping Agency",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 630 of 1170, score 27). 3 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D0.",
+"tierRationale": "Re-graded C on a global pass (rank 622 of 1138, score 27). 3 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D0.",
 "timeline": [],
 "unverified": []
 }

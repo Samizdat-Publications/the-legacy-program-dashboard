@@ -27,11 +27,13 @@
 ],
 "claims": [
 {
+"id": "c-54fb0cd7f6",
 "source": "Unclassified reprisal complaint as reported by Liberation Times, 13 June 2023; The Debrief, 5 June 2023",
 "text": "Filed Grusch's PPD-19 urgent-concern disclosure with the ICIG on 25 May 2022 as counsel of record.",
 "tier": 1
 },
 {
+"id": "c-e58fa43896",
 "source": "Unclassified reprisal complaint, reported 13 June 2023",
 "text": "The complaint alleges Grusch's identity and his UAP-related communications with the DoD IG were disclosed to parties outside the IG's office, producing retaliation; it states Grusch 'communicated classified information about the improper withholding and/or concealment of classified material from the US Congress.'",
 "tier": 2
@@ -47,6 +49,7 @@
 "dateEnd": "2022",
 "dateStart": "2022",
 "direction": "out",
+"edgeId": "e-a0dfc37ff4",
 "edgeLabel": "Filed the complaint as counsel; former ICIG filing with the ICIG",
 "id": "grusch-icig-complaint",
 "l0": false,
@@ -68,6 +71,7 @@
 "dateEnd": null,
 "dateStart": "2022-05",
 "direction": "out",
+"edgeId": "e-7497b9f92e",
 "edgeLabel": "Counsel who filed the ICIG disclosure of urgent concern",
 "id": "grusch-misappropriation-allegation",
 "l0": false,
@@ -129,7 +133,7 @@
 "status": "active",
 "sub": "First Inspector General of the Intelligence Community; Grusch's counsel",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 868 of 1170, score 19). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 849 of 1138, score 19). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D3.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": [

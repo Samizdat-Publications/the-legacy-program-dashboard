@@ -5,21 +5,25 @@
 "band": null,
 "claims": [
 {
+"id": "c-570e174696",
 "source": "Baltimore Sun, 'For latest spy plane look under your tree', 25 December 1993, https://www.baltimoresun.com/1993/12/25/for-latest-spy-plane-look-under-your-tree-2/ , opened 2026-09-18",
 "text": "The Baltimore Sun of 25 December 1993 reports Testor Corp. selling 'the SR-75 Penetrator and XR-7 Thunderdart, the latest in a series of highly speculative military miniature models', developed by analysing 'sonic boom patterns over Southern California, jet exhaust patterns over Nevada, journals on Stealth and high-speed jet technology, and informed aviation-industry speculation'.",
 "tier": 1
 },
 {
+"id": "c-908a04368a",
 "source": "Baltimore Sun, 25 December 1993, https://www.baltimoresun.com/1993/12/25/for-latest-spy-plane-look-under-your-tree-2/ , opened 2026-09-18",
 "text": "The same article names the designer: 'John Andrews, an aviation historian in San Diego who designed the new models, as well as the F-19.'",
 "tier": 1
 },
 {
+"id": "c-2a42f54c48",
 "source": "Baltimore Sun, 25 December 1993, https://www.baltimoresun.com/1993/12/25/for-latest-spy-plane-look-under-your-tree-2/ , opened 2026-09-18",
 "text": "The same article carries the Air Force's on-record denial, from Capt. Mary Dillon, an Air Force spokeswoman in Washington: 'We're not saying no comment, we're saying such a plane does not exist.'",
 "tier": 1
 },
 {
+"id": "c-5bb8adc5d7",
 "source": "Reasoning over the Baltimore Sun of 25 December 1993 and slide 62 onward of the 1998 presentation; research/leads/verified-tr3b-2026-09-18.md section 6.3",
 "text": "Stated inference. 'SR-75 Penetrator', a mothership carrying a smaller high-speed vehicle, is a specific and unusual concept that was published commercially, in a box, with a designer's name on it, in 1993. Fouche presents the same designation and the same mothership architecture in August 1998 as inside knowledge. Either the kit anticipated a real programme, which is what the audience was invited to conclude from the F-19 precedent the article itself cites, or the account absorbed the kit. Nothing opened decides it. The priority is documented and one-directional and must not be inverted.",
 "tier": 3
@@ -35,6 +39,7 @@
 "dateEnd": "1998-08",
 "dateStart": "1993-12-25",
 "direction": "out",
+"edgeId": "e-f683cda334",
 "edgeLabel": "Prior art: the SR-75 Penetrator designation and mothership architecture published commercially in 1993",
 "id": "tr-3b",
 "l0": true,
@@ -73,6 +78,7 @@
 "by": null,
 "claimTier": 3,
 "denialKind": "association",
+"edgeId": "e-f683cda334",
 "label": "Prior art: the SR-75 Penetrator designation and mothership architecture published commercially in 1993",
 "note": "A stated inference and graded 3 accordingly. The designation and the mothership architecture are published, dated and boxed in 1993 with a named designer, and the Air Force told the same newspaper 'such a plane does not exist'. They reappear in 1998 as inside knowledge. The direction of priority is documented and one-directional; the direction of influence is not established and must not be inverted by a later session.",
 "of": null,
@@ -124,7 +130,7 @@
 ],
 "sub": "Commercially published speculative model kits designed by John Andrews whose designations reappear in Fouche's 1998 presentation as inside knowledge",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 957 of 1170, score 17). 1 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D1.",
+"tierRationale": "Re-graded C on a global pass (rank 930 of 1138, score 17). 1 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D1.",
 "timeline": [
 {
 "claimTier": null,

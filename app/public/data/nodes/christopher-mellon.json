@@ -89,51 +89,61 @@
 ],
 "claims": [
 {
+"id": "c-54ac781716",
 "source": "SEC EDGAR, TTSA Form 1-K Part II, filed April 2018",
 "text": "Listed in TTSA's Form 1-K as an advisory board member, described as having served 20 years in federal government including as Deputy Assistant Secretary of Defense for Intelligence and as a former Senate staff director.",
 "tier": 1
 },
 {
+"id": "c-c1730160ec",
 "source": "Christopher Mellon in The Phenomenon (2020), reported by MJ Banias, Vice, 20 October 2020",
 "text": "Stated: 'I received the videos, the now famous videos in the Pentagon parking lot from a Defense Department official,' and that he retains the original packaging.",
 "tier": 2
 },
 {
+"id": "c-f49783d6f8",
 "source": "Christopher Mellon, on the record, The Debrief, 5 June 2023",
 "text": "'A number of well-placed current and former officials have shared detailed information with me regarding this alleged program.'",
 "tier": 2
 },
 {
+"id": "c-c26dfeafaf",
 "source": "Mellon, quoted in House Oversight release on the 9 September 2025 UAP transparency hearing",
 "text": "Characterized an AARO report as 'the most error-ridden and unsatisfactory government report I can recall reading.'",
 "tier": 2
 },
 {
+"id": "c-8537261071",
 "source": "Christopher Mellon to DefenseScoop, 14 May 2026",
 "text": "'For years the public was told there was little to see. The scale of what exists is itself a revelation. That said, data alone is not disclosure.'",
 "tier": 2
 },
 {
+"id": "c-5cf5fcea27",
 "source": "Christopher Mellon to DefenseScoop, 20 February 2026",
 "text": "'This might be a consequential moment, but the impact will depend on the follow-through.'",
 "tier": 2
 },
 {
+"id": "c-29b0d6e484",
 "source": "Inference from the Mellon quote against the file counts published at war.gov/UFO",
 "text": "Mellon's 'scale of what exists is itself a revelation' is the single most load-bearing inference available from PURSUE: the volume of retained material is an admission against interest, independent of what any individual file shows.",
 "tier": 3
 },
 {
+"id": "c-877ed75e05",
 "source": "https://defensescoop.com/2026/05/14/uap-trump-first-pursue-ufo-file-drop/",
 "text": "'Data alone is not disclosure. Releasing raw files without context may confuse more than clarify.'",
 "tier": 2
 },
 {
+"id": "c-4f5e2969ad",
 "source": "https://defensescoop.com/2026/02/20/trump-ufo-uap-government-files-disclosure/",
 "text": "'This might be a consequential moment, but the impact will depend on the follow-through... The public's trust has been eroded and must be restored.'",
 "tier": 2
 },
 {
+"id": "c-796ef66e8f",
 "source": "https://defensescoop.com/2025/12/10/uap-ufo-military-intercepts-north-america-fy-2026-ndaa/",
 "text": "The FY2026 NDAA's UAP provisions reflect recommendations from Mellon and the Disclosure Foundation.",
 "tier": 2
@@ -149,6 +159,7 @@
 "dateEnd": "2025",
 "dateStart": "2025",
 "direction": "out",
+"edgeId": "e-81ce0d2560",
 "edgeLabel": "'The most error-ridden and unsatisfactory government report I can recall reading'",
 "id": "aaro-historical-record-vol1",
 "l0": true,
@@ -170,6 +181,7 @@
 "dateEnd": "2025",
 "dateStart": "2025",
 "direction": "out",
+"edgeId": "e-5d137d3368",
 "edgeLabel": "Luna read Mellon's demolition of AARO's historical report into her 2025 opening statement",
 "id": "anna-paulina-luna",
 "l0": false,
@@ -191,6 +203,7 @@
 "dateEnd": null,
 "dateStart": "2023",
 "direction": "out",
+"edgeId": "e-aa4024d535",
 "edgeLabel": "Corroborates the existence of a class of well-placed sources; facilitated congressional briefings",
 "id": "david-grusch",
 "l0": false,
@@ -212,6 +225,7 @@
 "dateEnd": "2026",
 "dateStart": "2026",
 "direction": "in",
+"edgeId": "e-339ddd1ba2",
 "edgeLabel": "Identifies candidates for Mellon's unnamed Air Force SES-2 gatekeeper",
 "id": "gerb-hidden-wing",
 "l0": false,
@@ -233,6 +247,7 @@
 "dateEnd": "2024",
 "dateStart": "2024",
 "direction": "out",
+"edgeId": "e-b569d3b954",
 "edgeLabel": "His hearing letter was submitted into the record by Rep. Mace",
 "id": "hearing-2024-11-13",
 "l0": true,
@@ -254,6 +269,7 @@
 "dateEnd": "2017",
 "dateStart": "2017",
 "direction": "out",
+"edgeId": "e-21a4a99511",
 "edgeLabel": "Received the three files in the Pentagon parking lot and passed them to the NYT",
 "id": "navy-flir-gimbal-gofast-videos",
 "l0": false,
@@ -275,6 +291,7 @@
 "dateEnd": null,
 "dateStart": "2025-12-10",
 "direction": "out",
+"edgeId": "e-3e5dd89692",
 "edgeLabel": "recommendations reflected in statute",
 "id": "ndaa26-uap-provisions",
 "l0": false,
@@ -296,6 +313,7 @@
 "dateEnd": null,
 "dateStart": "2025",
 "direction": "out",
+"edgeId": "e-fda7b978fe",
 "edgeLabel": "Two of the three provisions mirror recommendations he championed",
 "id": "ndaa26-uap-provisions",
 "l0": false,
@@ -317,6 +335,7 @@
 "dateEnd": "2017",
 "dateStart": "2017",
 "direction": "out",
+"edgeId": "e-3e330b3250",
 "edgeLabel": "Supplied the videos published with the story",
 "id": "nyt-2017-12-16",
 "l0": true,
@@ -338,6 +357,7 @@
 "dateEnd": null,
 "dateStart": "2026",
 "direction": "out",
+"edgeId": "e-762b4fcde6",
 "edgeLabel": "'Data alone is not disclosure'",
 "id": "pursue-releases",
 "l0": true,
@@ -359,6 +379,7 @@
 "dateEnd": "2026",
 "dateStart": "2026",
 "direction": "out",
+"edgeId": "e-b36551417c",
 "edgeLabel": "'Data alone is not disclosure' - the framing the House adopted",
 "id": "pursue-releases",
 "l0": true,
@@ -380,6 +401,7 @@
 "dateEnd": "2020",
 "dateStart": "2017",
 "direction": "out",
+"edgeId": "e-d5de2eedab",
 "edgeLabel": "National Security Affairs Advisor / advisory board (2017-2020)",
 "id": "ttsa",
 "l0": true,
@@ -406,6 +428,7 @@
 "dateEnd": "2022",
 "dateStart": "2018",
 "direction": "out",
+"edgeId": "e-2a15189942",
 "edgeLabel": "Congressional advocacy channel from 2018 that fed the Task Force and AARO",
 "id": "uap-task-force",
 "l0": true,
@@ -444,6 +467,7 @@
 "by": null,
 "claimTier": 2,
 "denialKind": "association",
+"edgeId": "e-81ce0d2560",
 "label": "'The most error-ridden and unsatisfactory government report I can recall reading'",
 "note": "Mellon, a former Deputy Assistant Secretary of Defense for Intelligence and SSCI staff director, attacked the AARO report's quality at the September 2025 Task Force hearing - an oversight professional's judgment on the rebuttal's workmanship rather than on the phenomenon.",
 "of": null,
@@ -543,7 +567,7 @@
 "status": "active",
 "sub": "Former Deputy Assistant Secretary of Defense for Intelligence; TTSA National Security Affairs Advisor",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 85 of 1170, score 68). 13 connections, 4 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D3.",
+"tierRationale": "Re-graded A on a global pass (rank 89 of 1138, score 68). 13 connections, 4 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D3.",
 "timeline": [
 {
 "claimTier": null,

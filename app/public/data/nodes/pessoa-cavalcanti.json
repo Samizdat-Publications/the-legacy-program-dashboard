@@ -22,21 +22,25 @@
 ],
 "claims": [
 {
+"id": "c-8c2d7a17ec",
 "source": "Comando Aéreo de Defesa Aérea, Relatório de Ocorrências, Brasília-DF, 2 June 1986, signed Brig do Ar José Pessoa Cavalcanti de Albuquerque, Arquivo Nacional BR_DFANBSB_ARX_0_0_0249",
 "text": "'Como conclusão dos fatos constantes observados, em quase todas as apresentações, este Comando é de parecer, que os fenômenos são sólidos e refletem de certa forma inteligência, pela capacidade de acompanhar e manter distância dos observadores como também voar em formação, não forçosamente tripulados.'",
 "tier": 1
 },
 {
+"id": "c-03d4ea90a8",
 "source": "Relatório de Ocorrências, 2 June 1986, Considerações Finais, para 2",
 "text": "Characteristics listed in Considerações Finais: 'a - Produzem ecos radar não só do Sistema de Defesa Aérea, como também das aeronaves interceptadoras simultaneamente, com comparação visual pelos pilotos. b - Variam suas velocidades da gama subsônica até supersônica, bem como mantêm-se em vôo pairado. c - Variam suas altitudes abaixo do FL-050 até altitudes superiores FL-400.'",
 "tier": 1
 },
 {
+"id": "c-546e5e5286",
 "source": "Relatório de Ocorrências, 2 June 1986, Introdução",
 "text": "The report's introduction states that because of limits of time and of specialised knowledge the Command chose to confine itself 'à narração simples dos fatos, de forma a não dar margem a especulações que envolvam o Ministério da Aeronáutica' - to a simple narration of the facts so as not to give scope for speculation involving the Ministry.",
 "tier": 1
 },
 {
+"id": "c-0061fda96a",
 "source": "Relatório de Ocorrências, 2 June 1986",
 "text": "The report records that the interceptor pilot in the Anápolis area closed to two miles of a radar contact whose track was 'ora mantinha-se em zique-zaque, ora em curva acentuada pela direita' and which 'afastava-se repentinamente, mesmo estando o interceptador em velocidade supersônica'.",
 "tier": 1
@@ -52,6 +56,7 @@
 "dateEnd": "1986-06-02",
 "dateStart": "1986-06-02",
 "direction": "out",
+"edgeId": "e-8e3b848bf7",
 "edgeLabel": "signed the CONFIDENCIAL Air Defence Command report",
 "id": "doc-fab-1986-report",
 "l0": false,
@@ -73,6 +78,7 @@
 "dateEnd": "1986-06-02",
 "dateStart": "1986-05-19",
 "direction": "out",
+"edgeId": "e-0d6a5d9d9a",
 "edgeLabel": "Commanded the air defence organisation whose engagement he then wrote up",
 "id": "ev-noite-ovnis-1986",
 "l0": false,
@@ -104,6 +110,7 @@
 "dateEnd": "1986-06-02",
 "dateStart": "1986-06-02",
 "direction": "in",
+"edgeId": "e-63d5904132",
 "edgeLabel": "Pessoa Cavalcanti signed for the FAB's own Air Defence Command",
 "id": "fab",
 "l0": true,
@@ -181,7 +188,7 @@
 "status": "dead",
 "sub": "Acting Commander, Brazilian Air Defence Command (COMDA/NuCOMDABRA), 1986",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 451 of 1170, score 32). 3 connections, 1 of them custody/funding/programmatic. Axes C1/A2/D2.",
+"tierRationale": "Re-graded B on a global pass (rank 450 of 1138, score 32). 3 connections, 1 of them custody/funding/programmatic. Axes C1/A2/D2.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": [

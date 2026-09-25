@@ -52,56 +52,67 @@
 ],
 "claims": [
 {
+"id": "c-92933bd5d9",
 "source": "CHRG-118hhrg57440 INDEX OF DOCUMENTS and proceedings",
 "text": "Chaired the 13 November 2024 joint hearing and entered the 12-page Pentagon 'Immaculate Constellation' document into the record: 'Report, Pentagon, \"Immaculate Constellation\"; submitted by Rep. Mace' appears in the printed INDEX OF DOCUMENTS, as does 'Mellon Hearing Letter; submitted by Rep. Mace'.",
 "tier": 1
 },
 {
+"id": "c-3f2554e6c0",
 "source": "CHRG-118hhrg53022, testimony of David Grusch",
 "text": "Questioned David Grusch under oath at the 26 July 2023 hearing on recovered craft and biologics.",
 "tier": 1
 },
 {
+"id": "c-524ba836ba",
 "source": "Chairwoman Nancy Mace, opening statement, 13 November 2024, GPO CHRG-118hhrg57440",
 "text": "'I am not going to name names, but there are certain individuals who did not want this hearing to happen because they feared what might be disclosed. But we stood firm.'",
 "tier": 1
 },
 {
+"id": "c-d626035f09",
 "source": "CHRG-118hhrg57440, 13 November 2024",
 "text": "Moved the 12-page Pentagon Immaculate Constellation document into the Congressional Record, describing it as covering 'the unacknowledged special access program called Immaculate Constellation' and 'USG imagery intelligence.'",
 "tier": 1
 },
 {
+"id": "c-c48b3a43e2",
 "source": "CHRG-118hhrg53022, 26 July 2023",
 "text": "Asked Grusch under oath whether officials at the highest levels 'have unlawfully withheld information from Congress and subverted our oversight authority.'",
 "tier": 1
 },
 {
+"id": "c-97321f85ca",
 "source": "CHRG-118hhrg53022, 26 July 2023",
 "text": "Drew Grusch's answer that 'biologics came with some of these recoveries' and that they were assessed 'Nonhuman... by people with direct knowledge on the program I talked to that are currently still on the program.'",
 "tier": 1
 },
 {
+"id": "c-0ff87e4082",
 "source": "CHRG-118hhrg57440, 13 November 2024",
 "text": "Submitted the Christopher Mellon hearing letter into the record of the 13 November 2024 hearing (Index of Documents: 'Mellon Hearing Letter; submitted by Rep. Mace').",
 "tier": 1
 },
 {
+"id": "c-da9f772930",
 "source": "House Oversight hearing transcript, 26 July 2023",
 "text": "Elicited: 'biologics came with some of these recoveries... Nonhuman, and that was the assessment of people with direct knowledge on the program I talked to that are currently still on the program.'",
 "tier": 1
 },
 {
+"id": "c-aa9c6ae80a",
 "source": "House Oversight hearing transcript, 26 July 2023",
 "text": "Elicited Grusch's offer to provide 'a specific cooperative and hostile witness list of specific individuals' after the hearing.",
 "tier": 1
 },
 {
+"id": "c-ed79f71609",
 "source": "Task Force on the Declassification of Federal Secrets hearing record, 9 September 2025",
 "text": "'We know they did that to Mr. Grusch. They leaked his private medical information, horrific things.'",
 "tier": 1
 },
 {
+"id": "c-1fff6fcd25",
 "source": "CHRG-118hhrg57440, 13 November 2024",
 "text": "Mace asked whether material is given to particular contractors because of their expertise, offering General Dynamics for undersea propulsion; Elizondo answered 'Yes, ma'am, absolutely correct.'",
 "tier": 1
@@ -117,6 +128,7 @@
 "dateEnd": "2023",
 "dateStart": "2023",
 "direction": "out",
+"edgeId": "e-b55f45c723",
 "edgeLabel": "Drew the non-human biologics answer and the unlawful-withholding question under oath",
 "id": "david-grusch",
 "l0": false,
@@ -138,6 +150,7 @@
 "dateEnd": "2023",
 "dateStart": "2023",
 "direction": "out",
+"edgeId": "e-f7d32f769c",
 "edgeLabel": "Elicited the nonhuman biologics answer and the offer of a witness list",
 "id": "david-grusch",
 "l0": false,
@@ -159,6 +172,7 @@
 "dateEnd": null,
 "dateStart": "2024-11-13",
 "direction": "out",
+"edgeId": "e-7dbb2509ac",
 "edgeLabel": "presiding chair; entered Immaculate Constellation into the record",
 "id": "hearing-2024-11-13",
 "l0": true,
@@ -185,6 +199,7 @@
 "dateEnd": "2025",
 "dateStart": "2023",
 "direction": "out",
+"edgeId": "e-213bf86c7d",
 "edgeLabel": "Chairwoman; presided over the 2024 joint hearing",
 "id": "hoc-subcommittee-cybersecurity-it",
 "l0": false,
@@ -206,6 +221,7 @@
 "dateEnd": null,
 "dateStart": "2024",
 "direction": "out",
+"edgeId": "e-2d118c74de",
 "edgeLabel": "Cosponsor",
 "id": "hr-10111-uap-whistleblower-protection-act",
 "l0": false,
@@ -227,6 +243,7 @@
 "dateEnd": "2024-11-13",
 "dateStart": "2024-11-13",
 "direction": "out",
+"edgeId": "e-f69f1f6c28",
 "edgeLabel": "Mace entered the twelve-page report into the Congressional Record",
 "id": "immaculate-constellation",
 "l0": true,
@@ -248,6 +265,7 @@
 "dateEnd": null,
 "dateStart": "2024",
 "direction": "out",
+"edgeId": "e-9914bcba52",
 "edgeLabel": "Moved the document into the Congressional Record from the chair",
 "id": "immaculate-constellation-12-page-report",
 "l0": true,
@@ -269,6 +287,7 @@
 "dateEnd": "2025",
 "dateStart": "2025",
 "direction": "out",
+"edgeId": "e-210bf9b041",
 "edgeLabel": "Member of Congress characterizes the records leak as a discrediting operation",
 "id": "ken-klippenstein",
 "l0": false,
@@ -290,6 +309,7 @@
 "dateEnd": "2024",
 "dateStart": "2024",
 "direction": "out",
+"edgeId": "e-40aa564242",
 "edgeLabel": "Mace elicited the only public description of a distributed contractor custody model",
 "id": "luis-elizondo",
 "l0": false,
@@ -311,6 +331,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-c6eb1a14f2",
 "edgeLabel": "Immaculate Constellation document hosted on Mace's House site",
 "id": "public-substack",
 "l0": false,
@@ -342,6 +363,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-a08330f2e8",
 "edgeLabel": "House Armed Services member but not chair or ranking - no 119(e)(2) entitlement",
 "id": "waived-sap-notification-group",
 "l0": true,
@@ -378,6 +400,7 @@
 "dateEnd": null,
 "dateStart": "2025-09-09",
 "direction": "out",
+"edgeId": "e-a3adff20ca",
 "edgeLabel": "Stated the compartmentation trap in a public hearing",
 "id": "waived-usap",
 "l0": true,
@@ -414,6 +437,7 @@
 },
 "claimTier": 1,
 "denialKind": "directed",
+"edgeId": "e-210bf9b041",
 "label": "Member of Congress characterizes the records leak as a discrediting operation",
 "note": "At the 9 September 2025 Task Force hearing Mace told a witness: 'We know they did that to Mr. Grusch. They leaked his private medical information, horrific things.' The statement is in the official record; the identity of 'they' is not.",
 "of": {
@@ -509,7 +533,7 @@
 "status": "active",
 "sub": "U.S. Rep. (R-SC-1); chaired the 13 Nov 2024 UAP hearing",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 121 of 1170, score 56). 12 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D2.",
+"tierRationale": "Re-graded A on a global pass (rank 123 of 1138, score 56). 12 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D2.",
 "timeline": [
 {
 "claimTier": null,

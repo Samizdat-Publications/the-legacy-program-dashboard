@@ -5,16 +5,19 @@
 "band": null,
 "claims": [
 {
+"id": "c-7c69f2d612",
 "source": "The Hill, 12 March 2024",
 "text": "Rep. Burlison requested a House select committee on UAP on 12 March 2024, focused first on DoD expenditures on alleged secret UAP recovery programs, with the stated support of Comer, Burchett and Moskowitz.",
 "tier": 2
 },
 {
+"id": "c-ec246d5b7f",
 "source": "Rep. Burlison to The Hill/NewsNation, 12 March 2024",
 "text": "'They weren't transparent to us in a SCIF setting... they are not willing to do that with Congress. So to me, it's about time that they opened the kimono.'",
 "tier": 2
 },
 {
+"id": "c-b65a75538e",
 "source": "The Hill, 12 March 2024",
 "text": "Burchett led an earlier select committee effort under Speaker Kevin McCarthy that was lost when McCarthy lost the speakership.",
 "tier": 2
@@ -30,6 +33,7 @@
 "dateEnd": null,
 "dateStart": "2024",
 "direction": "in",
+"edgeId": "e-8d3b7ed08b",
 "edgeLabel": "Led the March 2024 call for a select committee focused on expenditures",
 "id": "eric-burlison",
 "l0": false,
@@ -51,6 +55,7 @@
 "dateEnd": null,
 "dateStart": "2024",
 "direction": "in",
+"edgeId": "e-dc7b31d087",
 "edgeLabel": "Reported to support the proposed select committee; never created one",
 "id": "james-comer",
 "l0": false,
@@ -72,6 +77,7 @@
 "dateEnd": null,
 "dateStart": "2024",
 "direction": "in",
+"edgeId": "e-683323e5df",
 "edgeLabel": "A select committee is the instrument that would route around the read-in gate",
 "id": "sap-readin-gate",
 "l0": false,
@@ -98,6 +104,7 @@
 "dateEnd": null,
 "dateStart": "2023",
 "direction": "in",
+"edgeId": "e-5e8fb8dce7",
 "edgeLabel": "Led the earlier select committee effort under Speaker McCarthy",
 "id": "tim-burchett",
 "l0": false,
@@ -148,7 +155,7 @@
 ],
 "sub": "Burchett 2023; Burlison 12 Mar 2024; never created",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 787 of 1170, score 22). 4 connections, 1 of them custody/funding/programmatic. Axes C0/A1/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 770 of 1138, score 22). 4 connections, 1 of them custody/funding/programmatic. Axes C0/A1/D3.",
 "timeline": [
 {
 "claimTier": null,

@@ -5,16 +5,19 @@
 "band": null,
 "claims": [
 {
+"id": "c-234f5586e1",
 "source": "NORAD/USNORTHCOM public affairs",
 "text": "NORAD and US Northern Command are headquartered at Peterson Space Force Base, Colorado Springs; Cheyenne Mountain Space Force Station is the alternate command centre.",
 "tier": 1
 },
 {
+"id": "c-fd23b22216",
 "source": "war.gov UAP release portal, PURSUE Release 05 index",
 "text": "PURSUE Release 05 on 7 August 2026 included FBI-UAP-D031, an FBI record concerning Colorado Springs.",
 "tier": 1
 },
 {
+"id": "c-f53e35d9be",
 "source": "Jason Colavito, as cited in the Wikipedia Schriever wargame article",
 "text": "A self-identified whistleblower said in 2025 that he located Immaculate Constellation material in a folder labelled '2018 Schriever Wargame'; Jason Colavito assessed that the claimant had mistaken fictitious wargame documents for secret UFO revelations.",
 "tier": 2
@@ -30,6 +33,7 @@
 "dateEnd": null,
 "dateStart": "2025",
 "direction": "in",
+"edgeId": "e-c8f65d8771",
 "edgeLabel": "The only provenance story ever attached to the report points at Schriever",
 "id": "immaculate-constellation",
 "l0": true,
@@ -94,7 +98,7 @@
 ],
 "sub": "El Paso County; Peterson SFB, Cheyenne Mountain SFS, Schriever SFB, NORAD/USNORTHCOM, US Space Command",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 817 of 1170, score 21). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D1.",
+"tierRationale": "Re-graded C on a global pass (rank 800 of 1138, score 21). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D1.",
 "timeline": [],
 "unverified": []
 }

@@ -5,11 +5,13 @@
 "band": null,
 "claims": [
 {
+"id": "c-c6723a754c",
 "source": "Contemporaneous Albuquerque press coverage and the company's own corporate record",
 "text": "Bennewitz founded and ran Thunder Scientific Corporation, an Albuquerque instrumentation firm whose customers included the US Air Force, from a property overlooking the eastern side of Kirtland AFB.",
 "tier": 2
 },
 {
+"id": "c-837ab51e02",
 "source": "Inference from the mismatch between the resources committed (a serving AFOSI agent over eight years) and the threat a mere eccentric would pose.",
 "text": "Bennewitz's technical capability and vendor access, not his beliefs, are what made him a counterintelligence problem worth a multi-year operation.",
 "tier": 3
@@ -25,6 +27,7 @@
 "dateEnd": "1988",
 "dateStart": "1961",
 "direction": "in",
+"edgeId": "e-a335a6d40b",
 "edgeLabel": "Bennewitz founded and ran Thunder Scientific, a USAF instrumentation vendor",
 "id": "paul-bennewitz",
 "l0": false,
@@ -86,7 +89,7 @@
 ],
 "sub": "Albuquerque instrumentation firm founded by Paul Bennewitz; USAF customer base",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 1124 of 1170, score 10). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A0/D1.",
+"tierRationale": "Re-graded C on a global pass (rank 1094 of 1138, score 10). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A0/D1.",
 "timeline": [],
 "unverified": []
 }

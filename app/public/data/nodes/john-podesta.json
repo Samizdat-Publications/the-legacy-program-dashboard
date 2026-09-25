@@ -38,16 +38,19 @@
 ],
 "claims": [
 {
+"id": "c-470fbcf707",
 "source": "John Podesta, remarks at the National Press Club, Washington DC, 22 Oct 2002",
 "text": "Podesta publicly called for the declassification of US government UFO records at a National Press Club event on 22 October 2002 organised by the Coalition for Freedom of Information.",
 "tier": 2
 },
 {
+"id": "c-c8cdb583da",
 "source": "John Podesta, public statement, 13 Feb 2015",
 "text": "On leaving the Obama White House in February 2015, Podesta stated publicly that his biggest failure of the year was 'once again not securing the disclosure of the UFO files.'",
 "tier": 2
 },
 {
+"id": "c-4d16aacec1",
 "source": "Clinton Digital Library collection finding aids",
 "text": "The Clinton White House's UFO-related FOIA collections consist of external correspondence - Greer/CSETI material (2006-0474-F), Roswell public correspondence and the GAO report (2006-0476-F), and Joe Firmage email (2008-0359-F) - not intelligence programme records.",
 "tier": 1
@@ -63,6 +66,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-3e6bc6c54c",
 "edgeLabel": "Wrote to Podesta over three days in March 2015 offering programme names",
 "id": "bob-fish",
 "l0": false,
@@ -84,6 +88,7 @@
 "dateEnd": "2002",
 "dateStart": "2001",
 "direction": "out",
+"edgeId": "e-b27b0e0584",
 "edgeLabel": "Podesta's 2002 declassification call followed the Disclosure Project's 2001 press conference",
 "id": "disclosure-project",
 "l0": true,
@@ -105,6 +110,7 @@
 "dateEnd": "2001",
 "dateStart": "1993",
 "direction": "in",
+"edgeId": "e-bc1955e500",
 "edgeLabel": "The initiative worked the Clinton White House while Podesta was Staff Secretary and later Chief of Staff",
 "id": "laurance-rockefeller",
 "l0": false,
@@ -131,6 +137,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-14448fc00e",
 "edgeLabel": "Addressee of the McCasland email and organiser of the 25 January 2016 meeting",
 "id": "podesta-delonge-mccasland-email-2016",
 "l0": true,
@@ -152,6 +159,7 @@
 "dateEnd": "2001",
 "dateStart": "1993",
 "direction": "in",
+"edgeId": "e-a387ccf61b",
 "edgeLabel": "Greer's CSETI submissions form the majority of the Clinton White House UFO file",
 "id": "steven-greer",
 "l0": false,
@@ -224,7 +232,7 @@
 "status": "active",
 "sub": "White House Staff Secretary 1993-95, Deputy Chief of Staff 1997-98, Chief of Staff 1998-2001; Counselor to the President 2014-15",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 710 of 1170, score 24). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 699 of 1138, score 24). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D3.",
 "timeline": [
 {
 "claimTier": null,

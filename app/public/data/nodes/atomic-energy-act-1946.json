@@ -5,31 +5,37 @@
 "band": null,
 "claims": [
 {
+"id": "c-76e2a446e4",
 "source": "Atomic Energy Act of 1946, Public Law 79-585, 60 Stat. 755, sec. 21 and chapter head, https://www.govinfo.gov/content/pkg/STATUTE-60/pdf/STATUTE-60-Pg755.pdf",
 "text": "The Act's own short title is narrow: 'This Act may be cited as the \"Atomic Energy Act of 1946\".' The chapter head gives it as Chapter 724, S. 1717, Public Law 585, 79th Congress, 'AN ACT For the development and control of atomic energy', approved August 1, 1946. The popular name 'McMahon Act' appears nowhere in the statute.",
 "tier": 1
 },
 {
+"id": "c-15e46cca65",
 "source": "Atomic Energy Act of 1946, sec. 10(a) and 10(b)(1), https://www.govinfo.gov/content/pkg/STATUTE-60/pdf/STATUTE-60-Pg755.pdf",
 "text": "Classification runs by category, and publication is the exception. Section 10(b)(1): restricted data 'means all data concerning the manufacture or utilization of atomic weapons, the production of fissionable material, or the use of fissionable material in the production of power, but shall not include any data which the Commission from time to time determines may be published without adversely affecting the common defense and security.' Section 10(a) makes it 'the policy of the Commission to control the dissemination of restricted data in such a manner as to assure the common defense and security.'",
 "tier": 1
 },
 {
+"id": "c-5157db39e5",
 "source": "Atomic Energy Act of 1946, sec. 10(b)(4), and identically at 10(b)(2)(A) and 10(b)(3), https://www.govinfo.gov/content/pkg/STATUTE-60/pdf/STATUTE-60-Pg755.pdf",
 "text": "The penalty reaches concealment and destruction, not only disclosure, and it is capital. Section 10(b)(4) provides that whoever 'removes, conceals, tampers with, alters, mutilates, or destroys' a document incorporating restricted data with intent to injure the United States 'shall be punished by death or imprisonment for life (but the penalty of death or imprisonment for life may be imposed only upon recommendation of the jury and only in cases where the offense was committed with intent to injure the United States); or by a fine of not more than $20,000 or imprisonment for not more than twenty years, or both.'",
 "tier": 1
 },
 {
+"id": "c-f4272351ab",
 "source": "Atomic Energy Act of 1946, sec. 10(b)(5)(B)(i) and 10(b)(5)(C), https://www.govinfo.gov/content/pkg/STATUTE-60/pdf/STATUTE-60-Pg755.pdf",
 "text": "The FBI is both the gate and the investigator. Section 10(b)(5)(B)(i) bars any arrangement, contract or licence unless the contractor 'agrees in writing not to permit any individual to have access to restricted data until the Federal Bureau of Investigation shall have made an investigation and report to the Commission on the character, associations, and loyalty of such individual.' Section 10(b)(5)(C): 'All violations of this Act shall be investigated by the Federal Bureau of Investigation of the Department of Justice.'",
 "tier": 1
 },
 {
+"id": "c-1b2e1cdbd5",
 "source": "Atomic Energy Act of 1946, sec. 2(c), https://www.govinfo.gov/content/pkg/STATUTE-60/pdf/STATUTE-60-Pg755.pdf",
 "text": "The military keeps a standing claim over the control of weapons information, with an appeal that ends at the President. Section 2(c) directs that the Commission 'shall advise and consult with the Committee on all atomic energy matters which the Committee deems to relate to military applications, including the development, manufacture, use, and storage of bombs, the allocation of fissionable material for military research, and the control of information relating to the manufacture or utilization of atomic weapons', and provides that where either Secretary concurs in a Military Liaison Committee objection he 'may refer the matter to the President, whose decision shall be final.'",
 "tier": 1
 },
 {
+"id": "c-42d039be0a",
 "source": "Membership, Publications, and Other Pertinent Information of the Joint Committee on Atomic Energy, Joint Committee Print, February 1962, GPO 80013, section II, https://www.govinfo.gov/content/pkg/CPRT-87JPRT80013/pdf/CPRT-87JPRT80013.pdf",
 "text": "Where McMahon actually is in the record: the 1962 Joint Committee print lists under 'MEMBERSHIP OF THE JOINT COMMITTEE, 1945-61' the 'SENATE SPECIAL COMMITTEE ON ATOMIC ENERGY, Seventy-ninth Congress (1945-46), BRIEN McMAHON, Connecticut, Chairman', and then the 'JOINT COMMITTEE ON ATOMIC ENERGY, Seventy-ninth Congress (1946), BRIEN McMAHON, Connecticut, Chairman'. None of the federal documents opened for this node calls the Act the McMahon Act.",
 "tier": 1
@@ -45,6 +51,7 @@
 "dateEnd": null,
 "dateStart": "1954-08-30",
 "direction": "in",
+"edgeId": "e-e5d092089a",
 "edgeLabel": "Restates the 1946 Act rather than repealing it, and widens the definition",
 "id": "atomic-energy-act-1954",
 "l0": false,
@@ -71,6 +78,7 @@
 "dateEnd": "1946",
 "dateStart": "1946",
 "direction": "out",
+"edgeId": "e-02d95526ad",
 "edgeLabel": "The instrument that created the Commission",
 "id": "atomic-energy-commission",
 "l0": true,
@@ -92,6 +100,7 @@
 "dateEnd": "2009",
 "dateStart": "2009",
 "direction": "out",
+"edgeId": "e-6822c0b550",
 "edgeLabel": "The category this Act invented is the one the executive order cannot reach",
 "id": "eo-13526",
 "l0": true,
@@ -113,6 +122,7 @@
 "dateEnd": "1946",
 "dateStart": "1946",
 "direction": "out",
+"edgeId": "e-a0be98d14f",
 "edgeLabel": "Statutory transfer of the Manhattan Engineer District's holdings and its cleared people",
 "id": "manhattan-project-2",
 "l0": true,
@@ -134,6 +144,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-35135fea70",
 "edgeLabel": "Approved the same day as the Atomic Energy Act of 1946",
 "id": "office-of-naval-research",
 "l0": false,
@@ -199,7 +210,7 @@
 ],
 "sub": "Public Law 79-585, 60 Stat. 755, 1 August 1946; the origin of born-secret classification",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 212 of 1170, score 45). 5 connections, 1 of them custody/funding/programmatic. Axes C2/A3/D1.",
+"tierRationale": "Re-graded B on a global pass (rank 213 of 1138, score 45). 5 connections, 1 of them custody/funding/programmatic. Axes C2/A3/D1.",
 "timeline": [
 {
 "claimTier": null,

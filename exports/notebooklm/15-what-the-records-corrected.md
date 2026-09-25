@@ -32,6 +32,10 @@ Two dates could not be derived from the board and were researched. Levy takes 20
 
 Two distinct DIRDs carried the identical label 'Aneutronic Fusion Propulsion', so the board showed a reader two nodes it could not tell apart. They are genuinely different documents and both were downloaded and their covers read on 22 August 2026: DIA-08-1011-003 at 50 pages, authored by Culbreth, and DIA-08-1011-004 at 37 pages, authored by Teofilo, both dated 1 November 2010. Both cover pages carry the same title, so the ambiguity is in the source documents, not in this board's transcription of them. The document number is appended to each label because that is what actually distinguishes them and it was read directly off the covers. NOT asserted: which of the two the DIA's 9 January 2018 list calls 'Aneutronic Fusion Propulsion II'. Culbreth's own claim on this board says list item 30 carries that title and is credited to him, which would make DIA-08-1011-003 the 'II' despite the lower document number. The list itself could not be retrieved to check - irp.fas.org returns HTTP 202 with an empty body - so the roman numeral is left off both labels rather than guessed onto one.
 
+### p4 merges why
+
+Redesign phase 4, task 2 (25 September 2026). Where a collapse in research/_removed.json joined two records that disagree, the survivor's `conflicts` states the disagreement and cites both records; neither claim is deleted or rewritten. The House task force survivor takes cls institution, as both of its duplicates had it. Two bookkeeping claims ('these two ids should be merged') are removed from the collapsed records by removeClaims and listed in tools/REMOVED-CLAIMS.json.
+
 ### sequence chain why
 
 chainHtml() reads s.date, s.event, s.source and s.isAnomalous off every chain step. All 11 sequenceChains on this board held bare node-id strings or free prose instead, so every one rendered an undefined event under an undefined date - on Grusch, Elizondo, Davis and Marcel among others. Nothing threw and no count moved, so nothing caught it. The renderer is inherited from The Vanishing, where a chain step is an ordered, dated, individually sourced link; the research wrote program lineages and shorthand labels into the same field. Each chain below is rebuilt from that person's own on-board chronology, and each step's source is the claim on the same person that covers it. Steps the old chain asserted but the record here does not carry were dropped rather than written from memory. Where no claim on the node covers a step, the source is null and the dock prints 'No attributed source on file', which is the true statement. uap-gerb is set empty: its old chain pointed at Burlison letters that are not on that node, and it has no ordered chain of individually documented links. The dock prints the 'No sequence chain' block, which says that is a finding rather than a gap.
@@ -42,7 +46,7 @@ The thin-sourcing backlog is worked source by source, and a source is not added 
 
 ## Corrections to the people
 
-86 records in the people set were changed by what the documents said.
+87 records in the people set were changed by what the documents said.
 
 ### Adam Smith
 
@@ -492,7 +496,7 @@ Sources added to it: OSD Historical Office, 'Department of Defense Key Officials
 
 ### Mike Rogers (Alabama)
 
-Fields the record forced a change to: date, sources.
+Fields the record forced a change to: conflicts, date, sources.
 
 Its date is now set to 2023-01-03, derived from the record rather than assigned.
 
@@ -601,6 +605,10 @@ Claims the record added:
 - **Tier 1 documented.** Low replied to Hippler on 27 January 1967, copying Condon: 'On the second page, you indicate what you believe the Air Force wants of us, and I am very glad to have your opinion.' He adds that Hippler has 'answered quite directly the question that I asked' and that he had come back to that question a couple of times at their meeting on Thursday evening, 12 January. The project coordinator who wrote the 9 August 1966 trick memo is on the record five months later asking the Air Force what it wanted and thanking it for the answer. Source: Robert J. Low to Lt Col Robert Hippler, 27 January 1967, University of Colorado, page 2, https://www.nicap.org/docs/HipplerLetters.pdf
 
 Sources added to it: American Alchemy with Jesse Michels, 'Air Force Officer: A UFO Shut Down 10 Nukes in Seconds (ft. Bob Salas)' (episode audio), https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL8813107798.mp3?updated=1752514599, dated 2025-07-12; Hippler to Condon, 16 January 1967, with Low to Hippler, 27 January 1967 (NICAP document archive scan), https://www.nicap.org/docs/HipplerLetters.pdf, dated 1967-01-27.
+
+### Dr. Robert M. Wood
+
+Fields the record forced a change to: conflicts.
 
 ### Capt. Robert L. Salas
 
@@ -838,7 +846,7 @@ Sources added to it: American Alchemy with Jesse Michels, 'Why America's Top Sci
 
 ## Corrections to the entities
 
-46 records in the entities set were changed by what the documents said.
+53 records in the entities set were changed by what the documents said.
 
 ### AARO FY2025 Consolidated Annual Report on UAP
 
@@ -849,6 +857,10 @@ Claims the record added:
 - **Tier 1 documented.** The report contradicts itself on satellite flaring. Section IV.C states that AARO resolved 44 UAP-related events as attributable to satellite flaring during the reporting period, while Section I (Executive Summary) and Section VI state that new capability enabled analysts to resolve 238 reported UAP as satellite flaring. Note that a separate figure of 44 UAP reports 'in the space domain' appears at Section III.A and is a different 44. Source: https://www.aaro.mil/Portals/136/PDFs/FY25%20UAP%20Annual%20Report/AARO_FY2025_Consolidated_Annual_Report_on_UAP.pdf
 
 Sources added to it: https://www.aaro.mil/Portals/136/PDFs/FY25%20UAP%20Annual%20Report/AARO_FY2025_Consolidated_Annual_Report_on_UAP.pdf
+
+### AARO Memorandum for Record: Invitations to Interview Mr. David Grusch (FOIA 24-F-0266)
+
+Fields the record forced a change to: cls, conflicts.
 
 ### AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I
 
@@ -1084,6 +1096,10 @@ Claims the record added:
 
 Sources added to it: American Alchemy with Jesse Michels, 'Steven Greer: UFO Secrets Are Held By A Global Cabal' (audio), https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL5974189713.mp3?updated=1751479023, dated 2025-04-11.
 
+### FY2024 Intelligence Authorization Act sec. 7343 - Funding Limitations Relating to UAP
+
+Fields the record forced a change to: cls, conflicts.
+
 ### IAA FY2024 Sec. 1102 - contractor turn-in of 'non-earth origin or exotic' UAP material
 
 Fields the record forced a change to: claims, cls, label, sources, sub.
@@ -1129,6 +1145,14 @@ Claims the record added:
 
 Sources added to it: The Role of Gravitation in Physics: Report from the 1957 Chapel Hill Conference, the Edition Open Sources reissue of WADC Technical Report 57-216, Max Planck Institute for the History of Science, 2011, title page and Foreword, https://edition-open-sources.org/sources/5/5/index.html, dated 1957-03-01; Ansel E. Talbert, 'Conquest of Gravity Aim Of Top Scientists in U. S.', New York Herald Tribune, 20 November 1955, page image, https://archive.org/download/talbert1ny/talbert1ny_djvu.txt, dated 1955-11-20.
 
+### l-cambridge-ma
+
+Fields the record forced a change to: cls, removeClaims.
+
+Claims the record removed:
+
+- 
+
 ### Columbus, Ohio
 
 Fields the record forced a change to: claims, cls, sources.
@@ -1138,6 +1162,14 @@ Claims the record added:
 - **Tier 1 documented, allegation shaped wording as stored.** The federal literature on nitinol, one report of it written by Battelle itself, does not support a Battelle 1948-49 lineage for the alloy. NASA SP-5110, prepared for NASA by Battelle Memorial Institute in 1972, opens: 'Some 10 years ago, Buehler and Wiley of the U.S. Naval Ordnance Laboratory developed a series of engineering alloys that possess a unique mechanical (shape) memory. The generic name of the series of alloys is 55-Nitinol, where Nitinol stands for Nickel Titanium Naval Ordnance Laboratory.' The earliest Naval Ordnance Laboratory nitinol report cited anywhere in its reference list is NOLTR 61-75 of 3 August 1961; US Patent 3,174,851 was filed on 1 December 1961; and NASA CR-1433 of September 1969 records Battelle's own role as a subcontractor to Goodyear Aerospace which 'processed the basic Nitinol rod'. The allegation that Wright-Patterson-sponsored Battelle reports on nickel-titanium alloy from 1948-49 are missing from Air Force and Battelle archives is kept on this board as the allegation it is, and is unsupported by the federal literature opened here. Source: NASA SP-5110, 55-Nitinol: The Alloy With a Memory, Battelle Memorial Institute for NASA, 1972, chapter 1 p. 1 and references 12 and 74, https://ntrs.nasa.gov/api/citations/19720022818/downloads/19720022818.pdf ; NASA CR-1433, Nitinol Characterization Study, September 1969, foreword p. iii and p. 2, https://ntrs.nasa.gov/api/citations/19690026989/downloads/19690026989.pdf ; US Patent 3,174,851, https://patents.google.com/patent/US3174851A/en
 
 Sources added to it: NASA SP-5110, 55-Nitinol: The Alloy With a Memory, C. M. Jackson, H. J. Wagner and R. J. Wasilewski, Battelle Memorial Institute for the NASA Technology Utilization Office, 1972, https://ntrs.nasa.gov/api/citations/19720022818/downloads/19720022818.pdf, dated 1972-01-01; NASA CR-1433, Nitinol Characterization Study, Goodyear Aerospace Corporation report GER 14188 under contract NAS 1-7522 for NASA Langley Research Center, September 1969, https://ntrs.nasa.gov/api/citations/19690026989/downloads/19690026989.pdf, dated 1969-09-01; US Patent 3,174,851, Nickel-base alloys, William J. Buehler and Raymond C. Wiley, assigned to the United States as represented by the Secretary of the Navy, filed 1 December 1961, granted 23 March 1965, https://patents.google.com/patent/US3174851A/en, dated 1965-03-23.
+
+### l-lasvegas
+
+Fields the record forced a change to: cls, removeClaims.
+
+Claims the record removed:
+
+- 
 
 ### Malmstrom AFB missile shutdowns, March 1967
 
@@ -1194,7 +1226,7 @@ Claims the record removed:
 
 Sources added to it: Chairman James Comer and Subcommittee Chairman Eric Burlison to NASA Administrator Jared Isaacman, 20 April 2026, House Committee on Oversight and Government Reform, https://oversight.house.gov/wp-content/uploads/2026/04/NASA-Missing-Scientists-Letter_4.20.26.pdf, dated 2026-04-20; The same letter to FBI Director Kash Patel, 20 April 2026, https://oversight.house.gov/wp-content/uploads/2026/04/FBI-Missing-Scientists-Letter_4.20.26.pdf, dated 2026-04-20; Comer and Burlison Seek Information on Missing Nuclear and Rocket Scientists, press release carrying links to all four letters, https://burlison.house.gov/media/press-releases/comer-burlison-seek-information-missing-nuclear-and-rocket-scientists, dated 2026-04-20.
 
-### National Archives Record Group 615 - UAP Records Collection
+### nara-rg615
 
 Fields the record forced a change to: claims, cls, sources.
 
@@ -1334,6 +1366,18 @@ Claims the record added:
 - **Tier 1 documented.** The release withholds the unit's people, so no claim that a named member appears in it can be checked from the collection itself. Session forms print labelled fields for Remote Viewer, Interviewer and Observer and leave all three blank, and narrative memoranda substitute CIA release codes (SG1A, SG1B, SG1I, SG1J, SGFOIA3) for personal names. Source: Remote Viewing Session Data, session of 15 December 1987, CIA-RDP96-00789R001600120001-1, https://archive.org/details/cia-readingroom-document-cia-rdp96-00789r001600120001-1
 
 Sources added to it: Annual Historical Review, US Army Intelligence and Security Command, FY 1981, INSCOM History Office, released 11 September 2018 after mandatory declassification review, https://www.governmentattic.org/30docs/USAINSCOMhistoryFY_1981.pdf, dated 2018-09-11; CIA memorandum, 12 June 1995, CIA Remote Viewing Declassification, CIA-RDP96-00791R000100030062-7, https://archive.org/details/cia-readingroom-document-cia-rdp96-00791r000100030062-7, dated 1995-06-12; ORD-0289-95, 20 June 1995, Star Gate - Program Status, Proposed Options, CIA-RDP96-00791R000100160003-8, https://archive.org/details/cia-readingroom-document-cia-rdp96-00791r000100160003-8, dated 1995-06-20; Operational Readiness of the SUN STREAK Prototype Operational Group, 8 April 1985, CIA-RDP96-00789R002100130001-4, https://archive.org/details/cia-readingroom-document-cia-rdp96-00789r002100130001-4, dated 1985-04-08; Remote Viewing Session Data, session of 15 December 1987, CIA-RDP96-00789R001600120001-1, https://archive.org/details/cia-readingroom-document-cia-rdp96-00789r001600120001-1, dated 1987-12-15.
+
+### Task Force on the Declassification of Federal Secrets
+
+Fields the record forced a change to: cls.
+
+### Presidential direction to identify and release UAP files (19-20 February 2026)
+
+Fields the record forced a change to: cls, conflicts.
+
+### CRADA between U.S. Army Ground Vehicle Systems Center and To The Stars Academy
+
+Fields the record forced a change to: cls, conflicts.
 
 ### uap-science-advisory-council-2026
 

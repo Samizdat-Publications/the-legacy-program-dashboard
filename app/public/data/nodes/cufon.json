@@ -5,11 +5,13 @@
 "band": null,
 "claims": [
 {
+"id": "c-b2e981e795",
 "source": "CUFON's own published archive and contemporaneous accounts of the UFO document-research community",
 "text": "CUFON operated from 1983 as an electronic archive publishing full-text US government UFO documents obtained under FOIA, including NSA litigation records and 1975 SAC overflight message traffic.",
 "tier": 2
 },
 {
+"id": "c-07edff5cd0",
 "source": "Inference from the continuity of method and the direct citation of CUFON-published material in later archives.",
 "text": "CUFON established the document-with-case-number standard of evidence that The Black Vault, the modern UAP press and this board all now use.",
 "tier": 3
@@ -25,6 +27,7 @@
 "dateEnd": "1995",
 "dateStart": "1983",
 "direction": "in",
+"edgeId": "e-07db791118",
 "edgeLabel": "1975 NORAD and command-post message traffic circulated by CUFON",
 "id": "sac-overflights-1975",
 "l0": true,
@@ -90,7 +93,7 @@
 ],
 "sub": "Seattle-based electronic document archive and FOIA project, 1983-2000s",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 1131 of 1170, score 10). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 1101 of 1138, score 10). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.",
 "timeline": [
 {
 "claimTier": null,

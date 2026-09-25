@@ -5,21 +5,25 @@
 "band": null,
 "claims": [
 {
+"id": "c-f2a88a8c93",
 "source": "https://burlison.house.gov/sites/evo-subsites/burlison.house.gov/files/evo-media-document/memorandum_2026.pdf",
 "text": "ODNI ES 2026-00818 names a 'PURSUE Task Force' with a 'review and declassification' function to which all IC UAP information is to be released.",
 "tier": 1
 },
 {
+"id": "c-80efea5936",
 "source": "https://burlison.house.gov/sites/evo-subsites/burlison.house.gov/files/evo-media-document/memorandum_2026.pdf",
 "text": "Every IC element must establish a 'PURSUE designee' within 30 days in coordination with ODNI; witnesses are told to report to AARO 'or to an authorized PURSUE representative.'",
 "tier": 1
 },
 {
+"id": "c-ca4fa52641",
 "source": "https://burlison.house.gov/media/press-releases/rep-eric-burlison-releases-statement-president-trumps-uap-nda-directive",
 "text": "Burlison: 'Independent congressional oversight is a critical part of UAP disclosure, and we are uncertain whether the abrogation of NDAs will apply to testimony received by Congress before referral to the executive branch.'",
 "tier": 2
 },
 {
+"id": "c-e0c8062314",
 "source": "https://burlison.house.gov/sites/evo-subsites/burlison.house.gov/files/evo-media-document/memorandum_2026.pdf",
 "text": "No charter, executive order, roster, chair, budget line or location for the PURSUE Task Force is public as of 12 August 2026. Reasoning: it appears in the ODNI memorandum and in derivative reporting, and on no published organisational instrument at war.gov, aaro.mil, dni.gov or whitehouse.gov.",
 "tier": 3
@@ -35,6 +39,7 @@
 "dateEnd": null,
 "dateStart": "2026-08-01",
 "direction": "out",
+"edgeId": "e-ab47414775",
 "edgeLabel": "the executive channel that competes with the congressional one",
 "id": "hearing-2025-09-09",
 "l0": true,
@@ -61,6 +66,7 @@
 "dateEnd": null,
 "dateStart": "2026-08-01",
 "direction": "in",
+"edgeId": "e-6ba8443113",
 "edgeLabel": "establishes as an entity with declassification authority",
 "id": "odni-memo-es-2026-00818",
 "l0": true,
@@ -82,6 +88,7 @@
 "dateEnd": null,
 "dateStart": "2026-07-22",
 "direction": "out",
+"edgeId": "e-72e9744ede",
 "edgeLabel": "unchartered body versus Senate-confirmed board",
 "id": "uapda-fy2027-house-adopted",
 "l0": true,
@@ -147,7 +154,7 @@
 ],
 "sub": "Presidential task force with declassification review function; named in ODNI ES 2026-00818",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 395 of 1170, score 35). 3 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 394 of 1138, score 35). 3 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D3.",
 "timeline": [],
 "unverified": []
 }

@@ -5,21 +5,25 @@
 "band": null,
 "claims": [
 {
+"id": "c-16667f4d3c",
 "source": "The Astronomical Journal, DOI 10.3847/1538-3881/ab570f",
 "text": "Villarroel et al. published the VASCO project methodology in The Astronomical Journal on 12 December 2019.",
 "tier": 1
 },
 {
+"id": "c-aeb976bfe8",
 "source": "Scientific Reports, DOI 10.1038/s41598-021-92162-7",
 "text": "Villarroel, Marcy, Geier, Streblyanska and Solano published 'Exploring nine simultaneously occurring transients on April 12th 1950' in Scientific Reports on 17 June 2021.",
 "tier": 1
 },
 {
+"id": "c-21a0dc99bc",
 "source": "Acta Astronautica, DOI 10.1016/j.actaastro.2022.01.039",
 "text": "Villarroel, Mattsson, Guergouri, Solano and Geier published 'A glint in the eye: Photographic plate archive searches for non-terrestrial artefacts' in Acta Astronautica in May 2022.",
 "tier": 1
 },
 {
+"id": "c-d208ddebf7",
 "source": "Scientific Reports, DOI 10.1038/s41598-025-21620-3",
 "text": "Bruehl and Villarroel published 'Transients in the Palomar Observatory Sky Survey (POSS-I) may be associated with nuclear testing and reports of unidentified anomalous phenomena' in Scientific Reports on 20 October 2025, following a preprint of 25 July 2025.",
 "tier": 1
@@ -35,6 +39,7 @@
 "dateEnd": null,
 "dateStart": "2019",
 "direction": "in",
+"edgeId": "e-fae7ad3ff1",
 "edgeLabel": "Principal investigator",
 "id": "beatriz-villarroel",
 "l0": false,
@@ -61,6 +66,7 @@
 "dateEnd": null,
 "dateStart": "2026",
 "direction": "in",
+"edgeId": "e-f020b9a3cd",
 "edgeLabel": "Sol Briefing No. 1 (January 2026) is built on the pre-satellite-era plate evidence",
 "id": "sol-foundation",
 "l0": true,
@@ -136,7 +142,7 @@
 ],
 "sub": "Photographic plate archive search led by Beatriz Villarroel",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 758 of 1170, score 23). 2 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 743 of 1138, score 23). 2 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D3.",
 "timeline": [
 {
 "claimTier": null,

@@ -5,16 +5,19 @@
 "band": null,
 "claims": [
 {
+"id": "c-a1360b1e48",
 "source": "Dave Beaty, Sean Munger and Craig Labadie, The Debrief, 9 May 2022",
 "text": "Multiple USS Ronald Reagan watchstanders observed a round, orange, self-luminous object hovering above the flight deck and pacing the ship; witnesses include Karol Olesiak, Derek Smith and Patrick Gokey.",
 "tier": 2
 },
 {
+"id": "c-35f524b161",
 "source": "The Debrief, 9 May 2022",
 "text": "The Boatswain's Mate of the Watch says he was ordered by a senior officer to 'rip it out' of the logbook; another witness was instructed not to write the sighting down; Gokey says he saw an officer order subordinates to remove pages from the deck logbook.",
 "tier": 2
 },
 {
+"id": "c-cd3a69b89b",
 "source": "The Debrief, 9 May 2022",
 "text": "Crew members estimated 50 to 300 additional personnel witnessed the event.",
 "tier": 2
@@ -30,6 +33,7 @@
 "dateEnd": "2004",
 "dateStart": "2004",
 "direction": "out",
+"edgeId": "e-abc842e73c",
 "edgeLabel": "Federal records destroyed at the point of creation",
 "id": "dod",
 "l0": true,
@@ -51,6 +55,7 @@
 "dateEnd": "2004",
 "dateStart": "2004",
 "direction": "out",
+"edgeId": "e-a750f13b93",
 "edgeLabel": "Same year, opposite ocean, same record-destruction behaviour",
 "id": "nimitz-2004",
 "l0": true,
@@ -89,6 +94,7 @@
 "by": null,
 "claimTier": 2,
 "denialKind": "undirected",
+"edgeId": "e-abc842e73c",
 "label": "Federal records destroyed at the point of creation",
 "note": "A Boatswain's Mate of the Watch says he was ordered to 'rip it out' of the logbook; another witness says he watched an officer order subordinates to remove pages. No Navy accounting of this has ever been made.",
 "of": null,
@@ -130,7 +136,7 @@
 ],
 "sub": "Multi-witness flight-deck sighting; deck log pages removed",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 853 of 1170, score 20). 2 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A0/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 834 of 1138, score 20). 2 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A0/D2.",
 "timeline": [
 {
 "claimTier": null,

@@ -5,21 +5,25 @@
 "band": null,
 "claims": [
 {
+"id": "c-56af594031",
 "source": "CIA Office of Scientific Intelligence memoranda, September-October 1952",
 "text": "CIA recorded that during July 1952 alone official reports of unidentified aerial phenomena totalled 250.",
 "tier": 1
 },
 {
+"id": "c-38a57c6bd4",
 "source": "Chadwell memorandum to the Director of Central Intelligence, 'Flying Saucers', 11 September 1952",
 "text": "Chadwell wrote to the DCI that 'the flying saucer situation contains two elements of danger which... have national security implications', identifying psychological warfare potential and air defence vulnerability.",
 "tier": 1
 },
 {
+"id": "c-31488bca3d",
 "source": "CIA Office of Scientific Intelligence memoranda, 1952; Haines, CIA Studies in Intelligence 1997",
 "text": "CIA officials proposed a study group to analyse and systematise the factors and recommended MIT's Project Lincoln or Caltech as venues, leading to the January 1953 Robertson Panel.",
 "tier": 1
 },
 {
+"id": "c-c747574d4d",
 "source": "Project Blue Book case files, NARA RG 341; NICAP document archive files 1952_07_19_US_DC_Radar_968_970.pdf and 1952_07_19_US_DC_radar_965_966.pdf",
 "text": "Blue Book case documentation for the 19 July 1952 Washington radar events survives in the declassified record.",
 "tier": 1
@@ -35,6 +39,7 @@
 "dateEnd": "1952",
 "dateStart": "1952",
 "direction": "out",
+"edgeId": "e-771646ed71",
 "edgeLabel": "The flap put the CIA's science directorate onto the problem",
 "id": "h-marshall-chadwell",
 "l0": false,
@@ -56,6 +61,7 @@
 "dateEnd": "1997",
 "dateStart": "1997",
 "direction": "in",
+"edgeId": "e-47c9ca26b9",
 "edgeLabel": "CIA history confirms the 1952 flap drove Agency intervention",
 "id": "haines-cia-history",
 "l0": false,
@@ -77,6 +83,7 @@
 "dateEnd": "1952",
 "dateStart": "1952",
 "direction": "out",
+"edgeId": "e-5be026875b",
 "edgeLabel": "The flap occurred during Ruppelt's tenure and drove the record volume",
 "id": "project-blue-book",
 "l0": true,
@@ -103,6 +110,7 @@
 "dateEnd": "1952-08-20",
 "dateStart": "1952-08-20",
 "direction": "in",
+"edgeId": "e-cc7cf2ed28",
 "edgeLabel": "His 20 August 1952 instruction follows the summer 1952 reporting wave",
 "id": "walter-bedell-smith",
 "l0": false,
@@ -163,7 +171,7 @@
 ],
 "sub": "Radar-visual events over the capital, 19-20 and 26-27 July 1952",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 664 of 1170, score 26). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 654 of 1138, score 26). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D2.",
 "timeline": [
 {
 "claimTier": null,

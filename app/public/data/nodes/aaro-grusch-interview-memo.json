@@ -5,24 +5,53 @@
 "band": null,
 "claims": [
 {
+"id": "c-58b4ffae67",
 "source": "DoD FOIA 24-F-0266, AARO Invitations to Interview Mr. David Grusch",
 "text": "AARO logged nine contacts or contact attempts between 8 June 2023 and 8 January 2024 seeking a Grusch interview, most routed through intermediaries or Senate Intelligence Committee staff.",
 "tier": 1
 },
 {
+"id": "c-1ed966424b",
 "source": "DoD FOIA 24-F-0266",
 "text": "Grusch agreed on 10 November 2023 to a 14 November 2023 interview in Arlington, VA and did not appear; a 19 November email invitation citing legal authority was declined on security grounds.",
 "tier": 1
 },
 {
+"id": "c-d229031ce2",
 "source": "DoD FOIA 24-F-0266",
 "text": "A March 2023 DoD memorandum signed by Maj. Gen. David W. Abba, Director of the DoD Special Access Program Central Office, is cited in the file as the access authority AARO invoked.",
 "tier": 1
+},
+{
+"id": "c-b919cdaa5e",
+"source": "AARO Memorandum for Record, FOIA 24-F-0266",
+"text": "AARO's memorandum for record of 8 January 2024 documents at least eight distinct approaches to Grusch between 8 June 2023 and 19 November 2023 and a scheduled 14 November 2023 interview he did not attend.",
+"tier": 1
+},
+{
+"id": "c-1786f3dd2c",
+"source": "AARO Memorandum for Record, FOIA 24-F-0266",
+"text": "The memorandum concludes that 'Mr. Grusch had no intention of providing AARO with information.'",
+"tier": 1
+},
+{
+"id": "c-19b75f5fb6",
+"source": "AARO Memorandum for Record, FOIA 24-F-0266",
+"text": "An ODNI memorandum dated 8 January 2024 affirmed AARO's legal authority to receive classified UAP-related disclosures.",
+"tier": 1
+},
+{
+"id": "c-1cc46ecdf3",
+"source": "Inference from the memorandum's own itemised contact log",
+"text": "The memorandum records no offer to interview Grusch in a venue with ICIG or congressional counsel present, which is the only venue consistent with the PPD-19 process he had already invoked; the file therefore documents persistence, not accommodation.",
+"tier": 3
 }
 ],
 "cls": "document",
 "cluster": "ic",
-"conflicts": [],
+"conflicts": [
+"Two records of this memorandum count AARO's approaches differently. This node's claim says AARO logged nine contacts or contact attempts between 8 June 2023 and 8 January 2024; a claim carried from the collapsed duplicate aaro-grusch-interview-memo-2024 says the memorandum of 8 January 2024 documents at least eight distinct approaches between 8 June 2023 and 19 November 2023. The two windows end on different dates, which may account for the difference. Both cite DoD FOIA 24-F-0266, which has not been re-opened to settle it, so both claims are carried."
+],
 "connections": [
 {
 "claimTier": 1,
@@ -30,6 +59,7 @@
 "dateEnd": "2024",
 "dateStart": "2023",
 "direction": "in",
+"edgeId": "e-28c40cd38e",
 "edgeLabel": "AARO's own record of nine interview attempts, June 2023 - January 2024",
 "id": "aaro",
 "l0": true,
@@ -47,10 +77,33 @@
 },
 {
 "claimTier": 1,
+"cls": "institution",
+"dateEnd": "2024",
+"dateStart": "2023",
+"direction": "in",
+"edgeId": "e-e75d281aae",
+"edgeLabel": "built a documentary record of its attempts to interview Grusch",
+"id": "aaro",
+"l0": true,
+"label": "All-domain Anomaly Resolution Office (AARO)",
+"note": "The memorandum for record of 8 January 2024 logs eight approaches between June 2023 and November 2023 and a missed 14 November interview.",
+"sources": [
+{
+"date": "2024-01-08",
+"name": "OSD/WHS FOIA 24-F-0266",
+"url": "https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/24-F-0266_AARO_Invitations_to_Interview_Mr._David_Grusch.pdf"
+}
+],
+"tier": "A",
+"type": "investigative"
+},
+{
+"claimTier": 1,
 "cls": "person",
 "dateEnd": "2024",
 "dateStart": "2023",
 "direction": "in",
+"edgeId": "e-8b98192939",
 "edgeLabel": "SAPCO director's March 2023 memorandum cited as AARO's access authority",
 "id": "david-abba",
 "l0": false,
@@ -65,13 +118,76 @@
 ],
 "tier": "C",
 "type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2024",
+"dateStart": "2024",
+"direction": "out",
+"edgeId": "e-75aaf7ab77",
+"edgeLabel": "AARO concluded Grusch 'had no intention of providing AARO with information'",
+"id": "david-grusch",
+"l0": false,
+"label": "David Charles Grusch",
+"note": "The office's own file is the primary evidence for the Department's central procedural argument against its most consequential witness; it records no offer of an ICIG or congressional-counsel venue.",
+"sources": [
+{
+"date": "2024-01-08",
+"name": "OSD/WHS FOIA 24-F-0266",
+"url": "https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/24-F-0266_AARO_Invitations_to_Interview_Mr._David_Grusch.pdf"
+},
+{
+"date": "2024-02-01",
+"name": "NewsNation - Whistleblower David Grusch refused to meet with Pentagon UFO office",
+"url": "https://www.newsnationnow.com/space/ufo/grusch-refused-meeting-ufo-office/"
+}
+],
+"tier": "A",
+"type": "denial"
 }
 ],
 "coords": null,
 "dateEnd": "2024",
 "dateStart": "2023",
-"deg": 2,
-"denials": [],
+"deg": 3,
+"denials": [
+{
+"a": {
+"id": "aaro-grusch-interview-memo",
+"label": "AARO Memorandum for Record: Invitations to Interview Mr. David Grusch (FOIA 24-F-0266)"
+},
+"b": {
+"id": "david-grusch",
+"label": "David Charles Grusch"
+},
+"by": {
+"id": "aaro-grusch-interview-memo",
+"label": "AARO Memorandum for Record: Invitations to Interview Mr. David Grusch (FOIA 24-F-0266)"
+},
+"claimTier": 1,
+"denialKind": "directed",
+"edgeId": "e-75aaf7ab77",
+"label": "AARO concluded Grusch 'had no intention of providing AARO with information'",
+"note": "The office's own file is the primary evidence for the Department's central procedural argument against its most consequential witness; it records no offer of an ICIG or congressional-counsel venue.",
+"of": {
+"id": "david-grusch",
+"label": "David Charles Grusch"
+},
+"sources": [
+{
+"date": "2024-01-08",
+"name": "OSD/WHS FOIA 24-F-0266",
+"url": "https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/24-F-0266_AARO_Invitations_to_Interview_Mr._David_Grusch.pdf"
+},
+{
+"date": "2024-02-01",
+"name": "NewsNation - Whistleblower David Grusch refused to meet with Pentagon UFO office",
+"url": "https://www.newsnationnow.com/space/ufo/grusch-refused-meeting-ufo-office/"
+}
+]
+}
+],
 "desc": "AARO's own paper trail, released under DoD FOIA case 24-F-0266, documenting nine attempts to interview Grusch between 8 June 2023 and 8 January 2024. The sequence: June 2023 approaches through an intermediary and Senate Intelligence Committee staff; a 26 June request for contact information; a 28 June request to Senate staff for verification details; a 27 July relay of an invitation; a 6 October secure call with an associate; a 10 November direct contact in which Grusch agreed to meet on 14 November; a 14 November Arlington appointment at which he did not appear; a 19 November email invitation citing legal authority, declined on security grounds; and an 8 January 2024 transmission of an ODNI CAPCO memorandum reiterating a standing invitation. Sean Kirkpatrick appears in the email chain, David A. Kozik appears as an OSD official, and a March 2023 DoD memorandum signed by Maj. Gen. David W. Abba of the Special Access Program Central Office is referenced as the access authority. The document is the evidentiary basis for Kirkpatrick's public line that the central source has refused to speak with AARO. Read the other way, it is also a record of AARO routing invitations through third parties for five months before ever contacting the witness directly.",
 "domains": [],
 "dossier": null,
@@ -105,7 +221,8 @@
 "short": "AARO Memorandum for Record: Invitations to Interview Mr. David Grusch (FOIA 24-F-0266)",
 "sourceFiles": [
 "_rs-archive-mirror",
-"grusch"
+"grusch",
+"uaptf-aaro"
 ],
 "sources": [
 {
@@ -122,11 +239,16 @@
 "date": "2024-01-25",
 "name": "NewsNation - Whistleblower David Grusch refused to meet with Pentagon UFO office",
 "url": "https://www.newsnationnow.com/space/ufo/grusch-refused-meeting-ufo-office/"
+},
+{
+"date": "2024-02-01",
+"name": "The Black Vault - FOIA documents reveal AARO's authorized and repeated attempts to engage with David Grusch",
+"url": "https://www.theblackvault.com/documentarchive/foia-documents-reveal-aaros-authorized-and-repeated-attempts-to-engage-with-david-grusch/"
 }
 ],
 "sub": "AARO record of nine contacts, June 2023 - January 2024",
-"tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 585 of 1170, score 28). 2 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D2.",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 216 of 1138, score 44). 4 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D2.",
 "timeline": [
 {
 "claimTier": null,
@@ -137,6 +259,16 @@
 "precision": "day",
 "strand": "coverup",
 "text": "Having agreed on 10 November to meet, Grusch does not attend the Arlington appointment. AARO's memorandum for record makes this the centerpiece of its impeachment; the same document shows five prior months of approaches routed through intermediaries."
+},
+{
+"claimTier": null,
+"date": "2024-01-08",
+"grade": "A",
+"id": "tl-memo-2024-01-08",
+"label": "AARO memorandum on Grusch interview attempts",
+"precision": "day",
+"strand": "coverup",
+"text": "AARO documents eight approaches to Grusch between June and November 2023 and concludes he had no intention of providing information. Later released as FOIA 24-F-0266."
 }
 ],
 "unverified": []

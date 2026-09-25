@@ -29,21 +29,25 @@
 ],
 "claims": [
 {
+"id": "c-f81473e94d",
 "source": "Headquarters USAF, 'The Roswell Report: Case Closed' (1997), Appendix C https://archive.org/details/DTIC_ADA326147",
 "text": "The USAF's 'Case Closed' prints James Ragsdale's interview as Appendix C at page 215, and records that the transcript 'was provided by Kevin Randle, the coauthor of the Truth About the UFO Crash at Roswell (Avon Books, 1994), in which direct quotes from this transcript appear.'",
 "tier": 1
 },
 {
+"id": "c-f3ac43f5c9",
 "source": "The Roswell Report: Case Closed (1997), Appendix C",
 "text": "Ragsdale's interview transcript is reproduced at Appendix C, page 215, of the US Air Force's 1997 report 'The Roswell Report: Case Closed'.",
 "tier": 1
 },
 {
+"id": "c-5cbc2d7368",
 "source": "The Roswell Report: Case Closed (1997), Section 1.4, note 13",
 "text": "Ragsdale is quoted in the Air Force report describing the objects at the alleged site as 'They were using dummies in those damned things.'",
 "tier": 2
 },
 {
+"id": "c-68224804c3",
 "source": "Comparison of Ragsdale statements with the two Randle-Schmitt scenarios",
 "text": "Ragsdale's shifting site description is a marker of researcher feedback rather than of memory decay, because the shifts moved toward whichever site the investigating authors were then advancing. Reasoning: chronology of his statements against the 1991 and 1994 Randle-Schmitt scenarios.",
 "tier": 3
@@ -61,6 +65,7 @@
 "dateEnd": "1997",
 "dateStart": "1997",
 "direction": "out",
+"edgeId": "e-3ad5253090",
 "edgeLabel": "Ragsdale's own words were used to support the dummy explanation",
 "id": "roswell-report-case-closed",
 "l0": false,
@@ -97,6 +102,7 @@
 },
 "claimTier": 1,
 "denialKind": "directed",
+"edgeId": "e-3ad5253090",
 "label": "Ragsdale's own words were used to support the dummy explanation",
 "note": "The report quotes Ragsdale saying of the objects, 'They were using dummies in those damned things', and prints his interview transcript at Appendix C p. 215.",
 "of": {
@@ -155,7 +161,7 @@
 "status": "dead",
 "sub": "Claimed civilian eyewitness to a crash site north of Roswell",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 712 of 1170, score 24). 1 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A0/D1.",
+"tierRationale": "Re-graded C on a global pass (rank 701 of 1138, score 24). 1 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A0/D1.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": [

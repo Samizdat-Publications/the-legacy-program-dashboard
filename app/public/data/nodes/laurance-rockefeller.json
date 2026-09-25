@@ -43,21 +43,25 @@
 ],
 "claims": [
 {
+"id": "c-644f9ec8a2",
 "source": "Clinton Digital Library collection finding aid, identifier 2006-0480-F",
 "text": "The Clinton Presidential Library holds a FOIA collection (2006-0480-F) consisting of correspondence between President Clinton and Laurance Rockefeller.",
 "tier": 1
 },
 {
+"id": "c-b04ce3ec41",
 "source": "Clinton Digital Library collection finding aid, identifier 2006-0546-F",
 "text": "The Clinton Library holds photographs of the Clintons' 21 August 1995 visit to Laurance Rockefeller's JY Ranch, Jackson, Wyoming (2006-0546-F).",
 "tier": 1
 },
 {
+"id": "c-fafe256524",
 "source": "Clinton Digital Library collection finding aid, identifier 2006-0476-F",
 "text": "The Clinton White House maintained a Roswell file - FOIA collection 2006-0476-F - containing correspondence, reports and email regarding the July 1947 Roswell crash, including the July 1995 GAO report.",
 "tier": 1
 },
 {
+"id": "c-32d1e93dce",
 "source": "Contemporaneous accounts by initiative participants including Marie Galbraith; Clinton Library correspondence collections",
 "text": "Rockefeller funded and directed a sustained 1993-1996 effort to obtain presidential declassification of US government UFO records, working through the White House science adviser's office.",
 "tier": 2
@@ -75,6 +79,7 @@
 "dateEnd": "2001",
 "dateStart": "1993",
 "direction": "out",
+"edgeId": "e-bc1955e500",
 "edgeLabel": "The initiative worked the Clinton White House while Podesta was Staff Secretary and later Chief of Staff",
 "id": "john-podesta",
 "l0": false,
@@ -101,6 +106,7 @@
 "dateEnd": "1996",
 "dateStart": "1993",
 "direction": "out",
+"edgeId": "e-2b45f6aabf",
 "edgeLabel": "Rockefeller financed and directed the 1993-1996 disclosure initiative",
 "id": "rockefeller-initiative",
 "l0": false,
@@ -178,7 +184,7 @@
 "status": "dead",
 "sub": "Financier and philanthropist; funder of the 1993-1996 Rockefeller UFO Disclosure Initiative",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 676 of 1170, score 25). 2 connections, 1 of them custody/funding/programmatic. Axes C0/A1/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 666 of 1138, score 25). 2 connections, 1 of them custody/funding/programmatic. Axes C0/A1/D3.",
 "timeline": [
 {
 "claimTier": null,

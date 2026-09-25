@@ -5,16 +5,19 @@
 "band": null,
 "claims": [
 {
+"id": "c-8bf65c86ff",
 "source": "10 U.S.C. Sec. 119",
 "text": "10 U.S.C. 119 permits the Secretary of Defense to waive SAP congressional notification, limiting reporting to the chairmen and ranking members of the defence committees.",
 "tier": 1
 },
 {
+"id": "c-1142db799e",
 "source": "DoD OIG, DODIG-2023-109 unclassified summary",
 "text": "The DoD Inspector General published an unclassified summary of DODIG-2023-109, 'Evaluation of the DoD's Actions Regarding Unidentified Anomalous Phenomena', on 25 January 2024.",
 "tier": 1
 },
 {
+"id": "c-6ded7dacbd",
 "source": "House Oversight Committee hearing page",
 "text": "The House Committee on Oversight and Government Reform held a hearing titled 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection' on 9 September 2025.",
 "tier": 1
@@ -30,6 +33,7 @@
 "dateEnd": null,
 "dateStart": "2017-12-16",
 "direction": "out",
+"edgeId": "e-20d48628ee",
 "edgeLabel": "The movement's only binding lever",
 "id": "d-disclosure",
 "l0": false,
@@ -56,6 +60,7 @@
 "dateEnd": null,
 "dateStart": "2023-12-22",
 "direction": "out",
+"edgeId": "e-b6403d1997",
 "edgeLabel": "Records law as the oversight instrument that worked",
 "id": "d-records",
 "l0": false,
@@ -77,6 +82,7 @@
 "dateEnd": null,
 "dateStart": "1987-01-01",
 "direction": "in",
+"edgeId": "e-0bad054735",
 "edgeLabel": "Waived notification limits reporting to eight members",
 "id": "d-sap",
 "l0": false,
@@ -98,6 +104,7 @@
 "dateEnd": null,
 "dateStart": "1960-01-01",
 "direction": "in",
+"edgeId": "e-0c7c2e6f13",
 "edgeLabel": "Compartmentation defeats committee access",
 "id": "d-secrecy-architecture",
 "l0": false,
@@ -119,6 +126,7 @@
 "dateEnd": null,
 "dateStart": "2023-07-26",
 "direction": "out",
+"edgeId": "e-7660084926",
 "edgeLabel": "Sworn testimony is oversight's evidence-gathering act",
 "id": "d-witness",
 "l0": false,
@@ -140,9 +148,10 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-908017f10d",
 "edgeLabel": "Commissioned by statute, section 1133 of Public Law 100-180, and reported to the four defence committees",
 "id": "gao-nsiad-88-152",
-"l0": false,
+"l0": true,
 "label": "GAO/NSIAD-88-152 - Special Access Programs: DOD Criteria and Procedures for Creating Them Need Improvement",
 "note": "Congress commissioned it by statute, section 1133 of Public Law 100-180, and GAO reported to the four defence committees.",
 "sources": [
@@ -161,6 +170,7 @@
 "dateEnd": null,
 "dateStart": "2023-07-26",
 "direction": "out",
+"edgeId": "e-0d1042aa10",
 "edgeLabel": "Where the hearings happen",
 "id": "l-dc",
 "l0": false,
@@ -242,7 +252,7 @@
 ],
 "sub": "Institutional domain - the committees, clearances and gaps through which Congress does or does not see",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 587 of 1170, score 28). 7 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 581 of 1138, score 28). 7 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D3.",
 "timeline": [
 {
 "claimTier": 1,

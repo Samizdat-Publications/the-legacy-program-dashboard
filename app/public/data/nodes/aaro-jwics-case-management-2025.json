@@ -5,16 +5,19 @@
 "band": null,
 "claims": [
 {
+"id": "c-3f5acc7cfd",
 "source": "https://sam.gov/opp/f58ef2bc419345999cb8cb483d97a838/view",
 "text": "AARO issued a Sources Sought Notice on SAM.gov (notice f58ef2bc419345999cb8cb483d97a838) for a custom case management system hosted on JWICS, with capabilities statements due 9 June 2025.",
 "tier": 1
 },
 {
+"id": "c-d1b17bd7a0",
 "source": "https://defensescoop.com/2025/05/21/ufo-uap-pentagon-aaro-exploring-new-options-track-manage-reports/",
 "text": "It was AARO's first official market research solicitation; the system is to track data, interactions and other records related to UAP investigations and to support a public UAP reporting mechanism AARO plans to launch.",
 "tier": 2
 },
 {
+"id": "c-11774b70bd",
 "source": "https://defensescoop.com/2025/05/21/ufo-uap-pentagon-aaro-exploring-new-options-track-manage-reports/",
 "text": "Hosting the consolidated UAP case record on JWICS places it at the Top Secret/SCI level by default regardless of the classification of individual cases, which is a structural obstacle to release that no declassification directive in 2026 addresses. Reasoning: JWICS is the TS/SCI network; a database resident on it inherits that handling.",
 "tier": 3
@@ -30,6 +33,7 @@
 "dateEnd": null,
 "dateStart": "2025-05-21",
 "direction": "out",
+"edgeId": "e-4e88156cdd",
 "edgeLabel": "first purpose-built case system, solicited May 2025",
 "id": "aaro-2026-posture",
 "l0": false,
@@ -51,10 +55,11 @@
 "dateEnd": null,
 "dateStart": "2025-05-21",
 "direction": "out",
+"edgeId": "e-b602caf245",
 "edgeLabel": "a TS/SCI-resident case corpus against a statutory public collection",
-"id": "nara-rg615",
+"id": "nara-uap-collection",
 "l0": true,
-"label": "National Archives Record Group 615 - UAP Records Collection",
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection",
 "note": "Hosting the consolidated UAP case record on JWICS places it at Top Secret/SCI by default, which is a structural obstacle to transfer that neither the FY2024 NDAA nor the 2026 directives address.",
 "sources": [
 {
@@ -77,6 +82,7 @@
 "dateEnd": null,
 "dateStart": "2026-07-21",
 "direction": "in",
+"edgeId": "e-e1e8a83868",
 "edgeLabel": "a mass event against a case system still being procured",
 "id": "virginia-coast-uap-2026",
 "l0": false,
@@ -137,7 +143,7 @@
 ],
 "sub": "First AARO market-research solicitation; custom CMS on the top-secret intranet",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 671 of 1170, score 26). 3 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 661 of 1138, score 26). 3 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D2.",
 "timeline": [
 {
 "claimTier": 1,

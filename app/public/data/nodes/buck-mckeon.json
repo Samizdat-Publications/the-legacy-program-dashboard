@@ -8,16 +8,19 @@
 "chronology": [],
 "claims": [
 {
+"id": "c-4dfdeefd68",
 "source": "https://democrats-armedservices.house.gov/2009/6/skelton-congratulates-congressman-mckeon--new-hasc-ranking-member",
 "text": "A House Armed Services Committee statement dated 16 June 2009 records that 'the House Republican Conference selected Congressman Howard P. \"Buck\" McKeon (R-CA) to serve as the Ranking Member of the House Armed Services Committee' and congratulates him 'on his election as the Ranking Member.'",
 "tier": 1
 },
 {
+"id": "c-a63f712402",
 "source": "https://www.govinfo.gov/content/pkg/CDIR-2009-12-01/html/CDIR-2009-12-01-HOUSECOMMITTEES.htm",
 "text": "The December 2009 Congressional Directory records Howard P. 'Buck' McKeon as the senior Republican on the House Armed Services Committee, consistent with a June 2009 succession.",
 "tier": 1
 },
 {
+"id": "c-167678f3b4",
 "source": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim",
 "text": "The chairman and ranking minority member of the House Armed Services Committee are among the twelve offices entitled under 10 U.S.C. 119(e)(2) to receive information withheld from a section 119 report and the Secretary of Defense's justification for the waiver.",
 "tier": 1
@@ -33,6 +36,7 @@
 "dateEnd": null,
 "dateStart": "2009-06-16",
 "direction": "out",
+"edgeId": "e-b3d5fb0f1d",
 "edgeLabel": "House Armed Services leadership, 2009-2015",
 "id": "oversight-congress",
 "l0": true,
@@ -59,6 +63,7 @@
 "dateEnd": null,
 "dateStart": "2009-06-16",
 "direction": "out",
+"edgeId": "e-623e2bf31b",
 "edgeLabel": "Ranking Member then Chairman, House Armed Services Committee",
 "id": "waived-sap-notification-group",
 "l0": true,
@@ -137,8 +142,8 @@
 ],
 "status": "active",
 "sub": "Ranking Member, House Armed Services Committee, from 16 June 2009; Chairman of the same committee in the 112th and 113th Congresses, January 2011 to January 2015",
-"tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 581 of 1170, score 28). 2 connections, 0 of them custody/funding/programmatic. Axes C2/A1/D3.",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 577 of 1138, score 28). 2 connections, 0 of them custody/funding/programmatic. Axes C2/A1/D3.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": []

@@ -5,16 +5,19 @@
 "band": null,
 "claims": [
 {
+"id": "c-7a838ec7f2",
 "source": "war.gov/UFO, accessed 12 August 2026",
 "text": "Each PURSUE release is published at war.gov/UFO as a paired document bundle and video bundle, with video served from a CloudFront distribution.",
 "tier": 1
 },
 {
+"id": "c-86970f1cca",
 "source": "aaro.mil homepage, accessed 12 August 2026 — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
 "text": "AARO's homepage links to PURSUE at war.gov/UFO rather than hosting the material itself.",
 "tier": 2
 },
 {
+"id": "c-193a71b022",
 "source": "Inference from the portal's structure compared with AARO's EFOIA reading room and standard FOIA processing practice",
 "text": "Publishing outside the FOIA reading room means the redactions in the PURSUE files carry no exemption citations and no administrative appeal path, so no redaction in the corpus can be challenged by any existing mechanism.",
 "tier": 3
@@ -30,6 +33,7 @@
 "dateEnd": null,
 "dateStart": "2026-05-08",
 "direction": "in",
+"edgeId": "e-334bde0bd4",
 "edgeLabel": "signposts users to a channel it does not run",
 "id": "aaro-2026-posture",
 "l0": false,
@@ -51,6 +55,7 @@
 "dateEnd": "2026-08",
 "dateStart": "2026-02",
 "direction": "in",
+"edgeId": "e-5953c48d83",
 "edgeLabel": "Presidential direction produced the PURSUE release portal",
 "id": "eop",
 "l0": false,
@@ -77,6 +82,7 @@
 "dateEnd": "2026",
 "dateStart": "2026",
 "direction": "out",
+"edgeId": "e-0411566395",
 "edgeLabel": "By the fourth tranche the programme stopped stating what it released",
 "id": "pursue-release-04",
 "l0": false,
@@ -103,6 +109,7 @@
 "dateEnd": null,
 "dateStart": "2026",
 "direction": "in",
+"edgeId": "e-bca42667bb",
 "edgeLabel": "Published through the Secretary's web estate, not AARO's",
 "id": "pursue-releases",
 "l0": true,
@@ -179,7 +186,7 @@
 ],
 "sub": "The publication surface for PURSUE; not an AARO property",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 779 of 1170, score 22). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 763 of 1138, score 22). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D3.",
 "timeline": [],
 "unverified": []
 }

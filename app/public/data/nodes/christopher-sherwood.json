@@ -26,11 +26,13 @@
 ],
 "claims": [
 {
+"id": "c-4522a28213",
 "source": "Christopher Sherwood to the New York Post, 22 May 2019",
 "text": "Stated on 22 May 2019 that AATIP 'did pursue research and investigation into unidentified aerial phenomena'.",
 "tier": 1
 },
 {
+"id": "c-0a6dd9aeca",
 "source": "Keith Kloor, The Intercept, 1 June 2019",
 "text": "Stated on 1 June 2019: 'Mr. Elizondo had no responsibilities with regard to the AATIP program while he worked in OUSDI, up until the time he resigned effective 10/4/2017.'",
 "tier": 1
@@ -48,6 +50,7 @@
 "dateEnd": "2019",
 "dateStart": "2019",
 "direction": "out",
+"edgeId": "e-da15f2a0eb",
 "edgeLabel": "22 May 2019: AATIP 'did pursue research and investigation into unidentified aerial phenomena'",
 "id": "aatip",
 "l0": true,
@@ -69,6 +72,7 @@
 "dateEnd": null,
 "dateStart": "2019",
 "direction": "out",
+"edgeId": "e-60bca54202",
 "edgeLabel": "1 June 2019: 'no responsibilities with regard to the AATIP program'",
 "id": "luis-elizondo",
 "l0": false,
@@ -90,6 +94,7 @@
 "dateEnd": "2019",
 "dateStart": "2019",
 "direction": "in",
+"edgeId": "e-a46c5f7e6b",
 "edgeLabel": "Repudiated Sherwood's acknowledgement as 'not entirely fact-based'",
 "id": "susan-gough",
 "l0": false,
@@ -111,6 +116,7 @@
 "dateEnd": "2019",
 "dateStart": "2019",
 "direction": "in",
+"edgeId": "e-919518ea44",
 "edgeLabel": "The series premiere prompted the 1 June 2019 Pentagon denial",
 "id": "unidentified-history-series",
 "l0": false,
@@ -147,6 +153,7 @@
 },
 "claimTier": 1,
 "denialKind": "directed",
+"edgeId": "e-60bca54202",
 "label": "1 June 2019: 'no responsibilities with regard to the AATIP program'",
 "note": "Obtained by Keith Kloor for The Intercept in response to the History Channel series. This sentence has anchored every subsequent Departmental statement about Elizondo.",
 "of": {
@@ -176,6 +183,7 @@
 },
 "claimTier": 1,
 "denialKind": "directed",
+"edgeId": "e-a46c5f7e6b",
 "label": "Repudiated Sherwood's acknowledgement as 'not entirely fact-based'",
 "note": "The Department conceded Sherwood was accurately reported and then disowned what he said — while keeping his denial of Elizondo's role intact. One spokesman, two statements, one retained.",
 "of": {
@@ -231,7 +239,7 @@
 "status": "former",
 "sub": "DoD spokesperson, Office of the Assistant to the Secretary of Defense for Public Affairs",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 805 of 1170, score 21). 4 connections, 0 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C0/A1/D0.",
+"tierRationale": "Re-graded C on a global pass (rank 787 of 1138, score 21). 4 connections, 0 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C0/A1/D0.",
 "timeline": [
 {
 "claimTier": null,

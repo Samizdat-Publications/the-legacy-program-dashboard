@@ -5,91 +5,109 @@
 "band": "reverse-engineering",
 "claims": [
 {
+"id": "c-745a951e8b",
 "source": "AARO Historical Record Report Volume 1, pp.34-35",
 "text": "AARO describes KONA BLUE as 'a Proposed UAP Recovery and Reverse-Engineering Program' that 'was eventually rejected by DHS leadership for lacking merit'.",
 "tier": 1
 },
 {
+"id": "c-fb26e683f0",
 "source": "AARO Historical Record Report Volume 1, pp.34-35",
 "text": "AARO states the program was never approved or stood up and that the material it was intended to protect 'was only assumed to exist'.",
 "tier": 1
 },
 {
+"id": "c-ae3f5cd7ea",
 "source": "Reporting on the KONA BLUE document releases, 2024-2026",
 "text": "DHS Under Secretary for Science and Technology Tara O'Toole is identified in released documentation and reporting as having established KONA BLUE before its cancellation.",
 "tier": 2
 },
 {
+"id": "c-00e1c8f5f8",
 "source": "James Lacatski to Jeremy Corbell, published 8 April 2026",
 "text": "Lacatski hinted in April 2026 that a smaller, more focused effort related to the proposed KONA BLUE program continued after AAWSAP ended.",
 "tier": 2
 },
 {
+"id": "c-2fbe8906d8",
 "source": "Inference from the stated purpose of the proposed SAP as recorded in AARO's own account",
 "text": "A proposal to stand up a SAP specifically to protect 'retrieval and exploitation of non-human biologics' is only drafted by people who believe such material exists and is already held somewhere — AARO's rebuttal that it 'was only assumed to exist' concedes the proposers' belief while asserting they were wrong.",
 "tier": 3
 },
 {
+"id": "c-aaf8048245",
 "source": "AARO Historical Record Report Volume I, March 2024",
 "text": "KONA BLUE was a prospective special access program proposed to DHS and never approved; its lines of effort mirrored the AAWSAP/AATIP private-sector work.",
 "tier": 1
 },
 {
+"id": "c-f8be65f4b2",
 "source": "AARO Historical Record Report Volume I, March 2024",
 "text": "The proposal included an Oral History Initiative targeting 'an already identified and calibrated list of retired, previously highly placed government, armed services, contractor and intelligence community individuals.'",
 "tier": 1
 },
 {
+"id": "c-f55d15edeb",
 "source": "AARO Historical Record Report Volume I, March 2024",
 "text": "AARO: 'No extraterrestrial craft or bodies were ever collected - this material was only assumed to exist by KONA BLUE advocates.'",
 "tier": 1
 },
 {
+"id": "c-4c6f1ee650",
 "source": "Inference from AARO Historical Record Report Volume I and the released KONA BLUE document set",
 "text": "KONA BLUE's premise - that concealed holdings existed and needed a lawful home with congressional visibility - is structurally identical to Grusch's allegation. AARO offers KONA BLUE as the misunderstanding that generated the allegation; the alternative reading is that both are downstream of the same underlying activity. Reasoning: AARO has published no interview transcripts permitting the two readings to be distinguished.",
 "tier": 3
 },
 {
+"id": "c-54c273322e",
 "source": "UAP Gerb, interviewed by Ross Coulthart, NewsNation Reality Check, premiered 4 August 2026",
 "text": "Kona Blue was an alleged DHS-brokered program in which Lockheed Martin material was reportedly diverted before the CIA shut it down.",
 "tier": 2
 },
 {
+"id": "c-837d5315e5",
 "source": "NewsNation Reality Check episode description, 4 August 2026",
 "text": "The Kona Blue discussion was presented alongside the Immaculate Constellation document and whistleblower Matthew Brown's claims about non-human and reproduction vehicle data.",
 "tier": 2
 },
 {
+"id": "c-8ab1627799",
 "source": "AARO, Historical Record Report Volume I, March 2024",
 "text": "KONA BLUE 'would restart UAP investigations, paranormal research... and reverse-engineer any recovered off-world spacecraft that they hoped to acquire,' and a Prospective Special Access Program was officially requested before DHS leadership rejected it.",
 "tier": 1
 },
 {
+"id": "c-45009a78a0",
 "source": "AARO, Historical Record Report Volume I, March 2024",
 "text": "'KONA BLUE was not reported to Congress at that time because it was never established as a SAP and, therefore, did not meet the threshold for congressional reporting.'",
 "tier": 1
 },
 {
+"id": "c-fb4b969f47",
 "source": "KONA BLUE proposal text quoted in AARO Historical Record Report Volume I",
 "text": "The proposal's Oral History Initiative was to gather 'all information pertaining to the location of advanced aerospace technology and biological samples' from a calibrated list of retired government, armed services, contractor and intelligence community individuals.",
 "tier": 1
 },
 {
+"id": "c-99020cec55",
 "source": "Letter from DHS Acting Deputy Secretary Kristie Canegallo to the Deputy Secretary of Defense, 5 February 2024, released with the AARO DHS Kona Blue package",
 "text": "Kona Blue was a DHS prospective special access program terminated on 10 February 2012; DHS declassified the associated documents and transmitted them to the Deputy Secretary of Defense on 5 February 2024.",
 "tier": 1
 },
 {
+"id": "c-57a0ffa5ef",
 "source": "AARO_DHS_Kona_Blue.pdf, aaro.mil UAP Records Research",
 "text": "AARO published the Kona Blue package on aaro.mil; the documents were made public in June 2024.",
 "tier": 1
 },
 {
+"id": "c-abe51918aa",
 "source": "AARO Historical Record Report Volume I, February 2024",
 "text": "AARO's Volume I characterises Kona Blue as a DHS proposal stemming from the cancelled DIA AAWSAP/AATIP effort that DHS leadership rejected as lacking merit.",
 "tier": 1
 },
 {
+"id": "c-f34def39af",
 "source": "Inference from the declassified Kona Blue text and the seniority of the officials in its transmittal chain",
 "text": "The existence of a chartered prospective SAP whose surviving text addresses protection rationales for exotic technologies is affirmative evidence that cleared officials in 2011-2012 believed such material existed and required a programme vehicle - a reading AARO's summary declines to engage.",
 "tier": 3
@@ -105,6 +123,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-9cf0569b0d",
 "edgeLabel": "Volume I surfaced Kona Blue and framed it as the origin of crash-retrieval belief",
 "id": "aaro-historical-record-vol1",
 "l0": true,
@@ -131,6 +150,7 @@
 "dateEnd": "2024",
 "dateStart": "2024",
 "direction": "in",
+"edgeId": "e-e2c80139df",
 "edgeLabel": "Report offers KONA BLUE as the explanation for the reverse-engineering allegations",
 "id": "aaro-historical-record-vol1",
 "l0": true,
@@ -152,6 +172,7 @@
 "dateEnd": "2012",
 "dateStart": "2011",
 "direction": "in",
+"edgeId": "e-e6b23c87d7",
 "edgeLabel": "successor attempt to house recovery and exploitation work",
 "id": "aawsap",
 "l0": true,
@@ -173,6 +194,7 @@
 "dateEnd": null,
 "dateStart": "2012",
 "direction": "out",
+"edgeId": "e-c5b801bead",
 "edgeLabel": "KONA BLUE was proposed as the successor to the cancelled DIA effort",
 "id": "aawsap",
 "l0": true,
@@ -194,6 +216,7 @@
 "dateEnd": "2012",
 "dateStart": "2011",
 "direction": "out",
+"edgeId": "e-65b61abccf",
 "edgeLabel": "KONA BLUE was proposed by AAWSAP's contractor team after DIA cancelled the program",
 "id": "bigelow-aerospace",
 "l0": false,
@@ -220,6 +243,7 @@
 "dateEnd": "2026",
 "dateStart": "2011",
 "direction": "out",
+"edgeId": "e-954e7cf49b",
 "edgeLabel": "CIA alleged to have terminated the programme",
 "id": "cia",
 "l0": true,
@@ -241,6 +265,7 @@
 "dateEnd": "2012",
 "dateStart": "2011",
 "direction": "in",
+"edgeId": "e-237ca67106",
 "edgeLabel": "DHS Deputy Secretary disapproved and terminated KONA BLUE approximately six months later",
 "id": "dhs",
 "l0": false,
@@ -262,6 +287,7 @@
 "dateEnd": "2012",
 "dateStart": "2011",
 "direction": "out",
+"edgeId": "e-af331898aa",
 "edgeLabel": "DHS prospective special access program, terminated 10 February 2012",
 "id": "dhs",
 "l0": false,
@@ -283,6 +309,7 @@
 "dateEnd": null,
 "dateStart": "2011",
 "direction": "in",
+"edgeId": "e-0f064e31fd",
 "edgeLabel": "DHS Under Secretary for S&T established KONA BLUE as a Prospective SAP in 2011",
 "id": "dhs-st",
 "l0": false,
@@ -304,6 +331,7 @@
 "dateEnd": null,
 "dateStart": "2011",
 "direction": "in",
+"edgeId": "e-044aa806bc",
 "edgeLabel": "Reid and Lieberman asked that the DHS prospective SAP be established with promised funding",
 "id": "harry-reid",
 "l0": false,
@@ -325,6 +353,7 @@
 "dateEnd": "2012",
 "dateStart": "2011",
 "direction": "out",
+"edgeId": "e-e6510f8902",
 "edgeLabel": "The proposal's premise was that existing holdings would be moved into a structure Congress could see",
 "id": "lockheed-martin",
 "l0": true,
@@ -346,6 +375,7 @@
 "dateEnd": "2026",
 "dateStart": "2011",
 "direction": "out",
+"edgeId": "e-a9598b0130",
 "edgeLabel": "Alleges Lockheed-held material was to be transferred",
 "id": "lockheed-skunk-works",
 "l0": true,
@@ -367,6 +397,7 @@
 "dateEnd": "2026",
 "dateStart": "2026",
 "direction": "in",
+"edgeId": "e-f7c7900a76",
 "edgeLabel": "Episode centred on the alleged Lockheed-to-DHS transfer",
 "id": "newsnation-reality-check",
 "l0": false,
@@ -388,6 +419,7 @@
 "dateEnd": "2012",
 "dateStart": "2009",
 "direction": "out",
+"edgeId": "e-6cfabd6094",
 "edgeLabel": "second attempt at the protection Reid was refused",
 "id": "reid-sap-letter-2009",
 "l0": false,
@@ -405,7 +437,7 @@
 "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP/20090624_Reid_to_DEPSECDEF_ref_AAITP_in_SAP.pdf"
 }
 ],
-"tier": "B",
+"tier": "A",
 "type": "temporal"
 },
 {
@@ -414,6 +446,7 @@
 "dateEnd": "2012",
 "dateStart": "2011",
 "direction": "in",
+"edgeId": "e-cb6758f186",
 "edgeLabel": "Bigelow's organisation was the anticipated contract performer for the proposed program",
 "id": "robert-bigelow",
 "l0": false,
@@ -435,6 +468,7 @@
 "dateEnd": "2012",
 "dateStart": "2011",
 "direction": "out",
+"edgeId": "e-06e33ef452",
 "edgeLabel": "A program can be designed and formally requested without ever crossing the congressional reporting threshold",
 "id": "usc-10-119",
 "l0": true,
@@ -476,6 +510,7 @@
 },
 "claimTier": 1,
 "denialKind": "directed",
+"edgeId": "e-237ca67106",
 "label": "DHS Deputy Secretary disapproved and terminated KONA BLUE approximately six months later",
 "note": "The AARO/DHS paper states the Deputy Secretary disapproved and terminated the PSAP roughly six months after it was established, and that KONA BLUE was 'never approved or formally established'. Neither official is named in the released text.",
 "of": {
@@ -505,6 +540,7 @@
 },
 "claimTier": 2,
 "denialKind": "directed",
+"edgeId": "e-954e7cf49b",
 "label": "CIA alleged to have terminated the programme",
 "note": "Gerb's account has the CIA shutting Kona Blue down. Recorded here as an alleged act of the concealment apparatus rather than as an adjudicated fact.",
 "of": {
@@ -708,7 +744,7 @@
 "cls": "document",
 "id": "reid-sap-letter-2009",
 "label": "Reid Letter to DEPSECDEF Requesting Restricted SAP Status",
-"tier": "B"
+"tier": "A"
 },
 {
 "cls": "person",
@@ -786,7 +822,7 @@
 ],
 "sub": "Proposed DHS special access program, circa 2011",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 9 of 1170, score 122). 16 connections, 9 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C3/A3/D3.",
+"tierRationale": "Re-graded A on a global pass (rank 11 of 1138, score 122). 16 connections, 9 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C3/A3/D3.",
 "timeline": [
 {
 "claimTier": null,

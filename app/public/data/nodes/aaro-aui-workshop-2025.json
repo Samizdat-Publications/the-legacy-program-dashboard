@@ -5,11 +5,13 @@
 "band": null,
 "claims": [
 {
+"id": "c-6f2957a7d0",
 "source": "https://defensescoop.com/2026/03/16/dod-ufo-workshop-uap-research-aaro/",
 "text": "Associated Universities, Inc. officially hosted the workshop, which was set up and sponsored by AARO; approximately 40 government, academic and independent researchers attended; DoD did not publish attendee lists or announce the event beforehand.",
 "tier": 2
 },
 {
+"id": "c-04928ec788",
 "source": "https://defensescoop.com/2026/06/17/new-science-advisory-council-forms-to-help-us-government-resolve-the-uap-mystery/",
 "text": "The workshop is the operational precursor to the June 2026 UAP Science Advisory Council. Reasoning: same subject matter (standardising UAP data capture and analysis), same sponsoring office, and an overlapping population of independent researchers, ten months apart.",
 "tier": 3
@@ -25,6 +27,7 @@
 "dateEnd": "2026-06-17",
 "dateStart": "2025-08",
 "direction": "out",
+"edgeId": "e-8b13112369",
 "edgeLabel": "operational precursor",
 "id": "uap-science-advisory-council",
 "l0": true,
@@ -85,7 +88,7 @@
 ],
 "sub": "Hosted by Associated Universities, Inc.; ~40 participants; unannounced",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 1029 of 1170, score 14). 1 connections, 1 of them custody/funding/programmatic. Axes C0/A1/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 999 of 1138, score 14). 1 connections, 1 of them custody/funding/programmatic. Axes C0/A1/D2.",
 "timeline": [
 {
 "claimTier": 2,

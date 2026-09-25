@@ -5,16 +5,19 @@
 "band": null,
 "claims": [
 {
+"id": "c-8e1531fe2f",
 "source": "AARO/DHS, 'History and Origin of KONA BLUE'",
 "text": "'In 2011 the DHS Under Secretary for Science and Technology (S&T) established KONA BLUE as a PSAP'; the DHS Deputy Secretary disapproved and terminated it approximately six months later, and it was 'never approved or formally established'.",
 "tier": 1
 },
 {
+"id": "c-abadabc569",
 "source": "AARO Historical Record Report Volume I, p. 35",
 "text": "AARO records that 'Senators Lieberman and Reid asked that the PSAP be established with the promise of additional funding'.",
 "tier": 1
 },
 {
+"id": "c-73a53a6b7b",
 "source": "Inference from the redaction pattern of the released AARO/DHS KONA BLUE paper",
 "text": "The names of the DHS Under Secretary for S&T who established KONA BLUE and the DHS Deputy Secretary who terminated it are withheld from the released paper and are the highest-value identifiable FOIA targets in the DHS record. Reasoning: both officials made a formal written determination about a compartment for recovered material, and those determinations are agency records.",
 "tier": 3
@@ -30,6 +33,7 @@
 "dateEnd": null,
 "dateStart": "2003",
 "direction": "out",
+"edgeId": "e-1823df492e",
 "edgeLabel": "Science and Technology Directorate is the DHS R&D component",
 "id": "dhs",
 "l0": false,
@@ -51,6 +55,7 @@
 "dateEnd": null,
 "dateStart": "2011",
 "direction": "out",
+"edgeId": "e-0f064e31fd",
 "edgeLabel": "DHS Under Secretary for S&T established KONA BLUE as a Prospective SAP in 2011",
 "id": "kona-blue",
 "l0": true,
@@ -122,7 +127,7 @@
 ],
 "sub": "DHS research and development component; the office that established KONA BLUE as a prospective SAP",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 431 of 1170, score 33). 2 connections, 1 of them custody/funding/programmatic. Axes C2/A3/D2.",
+"tierRationale": "Re-graded B on a global pass (rank 431 of 1138, score 33). 2 connections, 1 of them custody/funding/programmatic. Axes C2/A3/D2.",
 "timeline": [
 {
 "claimTier": null,

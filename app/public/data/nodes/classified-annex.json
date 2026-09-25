@@ -5,26 +5,31 @@
 "band": "funding",
 "claims": [
 {
+"id": "c-89f93fe8f3",
 "source": "https://www.govinfo.gov/content/pkg/PLAW-119publ75/html/PLAW-119publ75.htm",
 "text": "Section 8006(a), DoD Appropriations Act 2026: the tables in the classified annex accompanying the Act are 'hereby required by law to be carried out in the manner provided by such tables to the same extent as if the tables were included in the text of this Act.'",
 "tier": 1
 },
 {
+"id": "c-3baa1c7e77",
 "source": "https://www.govinfo.gov/content/pkg/PLAW-119publ60/html/PLAW-119publ60.htm",
 "text": "Section 4001(d), NDAA FY2026: 'Applicability to Classified Annex.--This section applies to any classified annex that accompanies this Act', where section 4001(a) authorises obligation and expenditure of any dollar amount specified in a funding table.",
 "tier": 1
 },
 {
+"id": "c-d4cd688150",
 "source": "https://www.govinfo.gov/content/pkg/PLAW-119publ75/html/PLAW-119publ75.htm",
 "text": "Section 8059, DoD Appropriations Act 2026, directs a continuing classified quarterly report to the Appropriations Defense subcommittees 'on certain matters as directed in the classified annex accompanying this Act.'",
 "tier": 1
 },
 {
+"id": "c-47106ac947",
 "source": "https://www.govinfo.gov/content/pkg/PLAW-119publ60/html/PLAW-119publ60.htm",
 "text": "Section 5 of the NDAA FY2026 gives the joint explanatory statement printed in the Congressional Record on or about 10 December 2025 the same effect as a conference committee joint explanatory statement.",
 "tier": 1
 },
 {
+"id": "c-99c39116d0",
 "source": "https://www.govinfo.gov/content/pkg/PLAW-119publ75/html/PLAW-119publ75.htm",
 "text": "The classified annex is the single mechanism by which an activity can be simultaneously funded by law and absent from every public document, because the statutory text incorporates it by reference without reproducing it. Reasoning: section 8006(a) equates the annex tables to statutory text; no publication requirement attaches to the annex; therefore an appropriation with full legal force exists that has no public expression at any level of detail.",
 "tier": 3
@@ -40,6 +45,7 @@
 "dateEnd": null,
 "dateStart": "2025-12-18",
 "direction": "in",
+"edgeId": "e-b4a016d1a2",
 "edgeLabel": "The one-word line item is the public face of the annex table",
 "id": "classified-programs-line",
 "l0": false,
@@ -61,6 +67,7 @@
 "dateEnd": null,
 "dateStart": "2026-02-03",
 "direction": "out",
+"edgeId": "e-43c27cf0b9",
 "edgeLabel": "the second set of numbers, given the same legal force and not printed in the Statutes at Large",
 "id": "d-funding",
 "l0": false,
@@ -82,6 +89,7 @@
 "dateEnd": null,
 "dateStart": "2024-09-12",
 "direction": "in",
+"edgeId": "e-16460b18c3",
 "edgeLabel": "DoDI 5205.11 para. 7.2.h - waived-programme justification materials go only to committee staff directors",
 "id": "dod-sapco",
 "l0": true,
@@ -113,6 +121,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-4b0133aa9e",
 "edgeLabel": "The Comptroller executes the annex",
 "id": "michael-powers-comptroller",
 "l0": false,
@@ -125,7 +134,7 @@
 "url": "https://comptroller.war.gov/"
 }
 ],
-"tier": "B",
+"tier": "C",
 "type": "institutional"
 },
 {
@@ -134,6 +143,7 @@
 "dateEnd": null,
 "dateStart": "2025-12-18",
 "direction": "out",
+"edgeId": "e-c0ad6e3ef2",
 "edgeLabel": "Funding-table amounts, including the annex, do not count against the section 1001 ceiling",
 "id": "sec-1001-gta",
 "l0": false,
@@ -155,6 +165,7 @@
 "dateEnd": null,
 "dateStart": "2026-02-03",
 "direction": "out",
+"edgeId": "e-b5c0392d90",
 "edgeLabel": "Annex tables are exempted from the section 8005 transfer ceiling",
 "id": "sec-8005-transfer",
 "l0": false,
@@ -176,6 +187,7 @@
 "dateEnd": null,
 "dateStart": "2026-02-03",
 "direction": "in",
+"edgeId": "e-f0d4ac776f",
 "edgeLabel": "NIP reprogramming is measured against levels that exist only in the annex",
 "id": "sec-8084-nip-reprogramming",
 "l0": false,
@@ -197,6 +209,7 @@
 "dateEnd": null,
 "dateStart": "2018-10-04",
 "direction": "in",
+"edgeId": "e-cc04e375ba",
 "edgeLabel": "Accounting-side and appropriations-side concealment of the same activity",
 "id": "sffas-56",
 "l0": false,
@@ -218,6 +231,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-b589cbbc34",
 "edgeLabel": "four of the twelve seats are appropriations leadership",
 "id": "waived-sap-notification-group",
 "l0": true,
@@ -372,7 +386,7 @@
 "cls": "person",
 "id": "michael-powers-comptroller",
 "label": "Michael Powers",
-"tier": "B"
+"tier": "C"
 },
 {
 "cls": "legislation",
@@ -418,7 +432,7 @@
 ],
 "sub": "Unpublished companion document carrying the force of law over classified programme funding",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 111 of 1170, score 59). 9 connections, 6 of them custody/funding/programmatic. Axes C1/A3/D3.",
+"tierRationale": "Re-graded A on a global pass (rank 113 of 1138, score 59). 9 connections, 6 of them custody/funding/programmatic. Axes C1/A3/D3.",
 "timeline": [
 {
 "claimTier": null,

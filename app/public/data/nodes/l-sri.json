@@ -5,16 +5,19 @@
 "band": null,
 "claims": [
 {
+"id": "c-ae0197b839",
 "source": "Wikipedia, SRI International — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "text": "SRI International was founded in 1946 by Stanford University trustees in Menlo Park, California, separated formally from Stanford in 1970, and took its current name in 1977.",
 "tier": 2
 },
 {
+"id": "c-0b2b9ce229",
 "source": "Wikipedia, SRI International; CIA STAR GATE records in the CREST archive — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "text": "In 1972 Harold Puthoff and Russell Targ began CIA-sponsored research into psychic phenomena at SRI, coining the term 'remote viewing'; the work continued with intelligence community funding until they left SRI in the mid-1980s.",
 "tier": 2
 },
 {
+"id": "c-12ee32c24b",
 "source": "Inference from the SRI funding record and Puthoff's documented affiliations",
 "text": "SRI is the cleanest precedent for government funding of anomalous-phenomena research through contractors while publicly denying interest, and Puthoff's contract history is the continuous thread from that work to the 2019 Army/TTSA CRADA. Reasoning: documented SRI funding chain plus Puthoff's documented later roles at EarthTech, AAWSAP and TTSA.",
 "tier": 3
@@ -30,6 +33,7 @@
 "dateEnd": "1986",
 "dateStart": "1972",
 "direction": "in",
+"edgeId": "e-abdf3cf9e4",
 "edgeLabel": "The research was conducted at Menlo Park, California",
 "id": "stargate-program",
 "l0": true,
@@ -93,7 +97,7 @@
 ],
 "sub": "Independent research institute, 333 Ravenswood Ave, Menlo Park; founded 1946; separated from Stanford 1970",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 763 of 1170, score 23). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 748 of 1138, score 23). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D2.",
 "timeline": [],
 "unverified": []
 }

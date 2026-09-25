@@ -5,11 +5,13 @@
 "band": null,
 "claims": [
 {
+"id": "c-932d4ba9e5",
 "source": "https://burlison.house.gov/media/press-releases/burlison-presses-cia-and-fbi-records-related-1996-brazil-uap-incident",
 "text": "On 8 July 2026 Burlison sent letters to the CIA and FBI requesting records about the January 1996 Varginha/Campinas, Brazil UAP incident.",
 "tier": 1
 },
 {
+"id": "c-6f16bd49e0",
 "source": "https://burlison.house.gov/media/press-releases/burlison-presses-cia-and-fbi-records-related-1996-brazil-uap-incident",
 "text": "No public response from CIA or FBI as of 12 August 2026. Reasoning: no follow-up release appears on burlison.house.gov and no responsive document has entered the PURSUE corpus or RG 615.",
 "tier": 3
@@ -25,6 +27,7 @@
 "dateEnd": null,
 "dateStart": "2026-07-08",
 "direction": "in",
+"edgeId": "e-3e48075fa9",
 "edgeLabel": "author",
 "id": "eric-burlison",
 "l0": false,
@@ -75,7 +78,7 @@
 ],
 "sub": "Congressional records demands on a foreign UAP retrieval allegation",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 991 of 1170, score 16). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 962 of 1138, score 16). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D2.",
 "timeline": [
 {
 "claimTier": 1,

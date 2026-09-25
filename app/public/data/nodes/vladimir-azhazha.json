@@ -26,16 +26,19 @@
 ],
 "claims": [
 {
+"id": "c-51f7f6c7e7",
 "source": "Project Condign, Volume 3, Chapter 4, para 1, UK MoD, 2000",
 "text": "'A UFO Commission was created under the USSR Union of Scientific and Engineering Societies in 1989, together in 1990 with an Inter-Industry Ufology Research Centre (SOYUZUFOSENTR) to co-ordinate records. This Centre had the rights of an Institute under the USSR Academy of Sciences, and was headed by V.G. AZAHAZHA (or AZHAZHA) an eminent researcher and former naval submariner.'",
 "tier": 1
 },
 {
+"id": "c-2b561c11ea",
 "source": "Project Condign, Volume 3, Chapter 4, para 1",
 "text": "Condign records the school's terms of reference as to study 'ufology as a science of unidentified flying objects and their interrelations with the universe and, in particular, with the biotechnosphere of the earth'.",
 "tier": 1
 },
 {
+"id": "c-77efef9b44",
 "source": "Project Condign, Volume 3, Chapter 4, para 4",
 "text": "Condign on Azhazha's claimed imagery: 'Unexplained imagery has reportedly been obtained including peculiar spheres, humanoid figures ... If the imagery exists, it has never been published.'",
 "tier": 1
@@ -51,6 +54,7 @@
 "dateEnd": "2000",
 "dateStart": "2000",
 "direction": "in",
+"edgeId": "e-39baa9527c",
 "edgeLabel": "names Azhazha as head of SOYUZUFOTSENTR",
 "id": "doc-condign-vol3",
 "l0": true,
@@ -72,6 +76,7 @@
 "dateEnd": "1991",
 "dateStart": "1989",
 "direction": "out",
+"edgeId": "e-142f04fd34",
 "edgeLabel": "ran the parallel public ufology centre after censorship lifted",
 "id": "setka-program",
 "l0": true,
@@ -98,6 +103,7 @@
 "dateEnd": null,
 "dateStart": "1990",
 "direction": "in",
+"edgeId": "e-6eca0372da",
 "edgeLabel": "Azhazha headed SOYUZUFOTSENTR; named as its head in the UK Defence Intelligence Staff's own report",
 "id": "soyuzufotsentr",
 "l0": false,
@@ -164,7 +170,7 @@
 "status": "dead",
 "sub": "Former Soviet naval submariner; head of SOYUZUFOTSENTR, the USSR inter-industry ufology research centre",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 873 of 1170, score 19). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 854 of 1138, score 19). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": [

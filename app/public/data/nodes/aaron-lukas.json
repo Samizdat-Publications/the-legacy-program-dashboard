@@ -16,16 +16,19 @@
 ],
 "claims": [
 {
+"id": "c-d1af831d40",
 "source": "https://burlison.house.gov/sites/evo-subsites/burlison.house.gov/files/evo-media-document/memorandum_2026.pdf",
 "text": "Signed ODNI memorandum ES 2026-00818, 'Preliminary Guidance for Implementation of NDA Waiver', as Principal Deputy Director of National Intelligence.",
 "tier": 1
 },
 {
+"id": "c-2f979c2729",
 "source": "https://burlison.house.gov/sites/evo-subsites/burlison.house.gov/files/evo-media-document/memorandum_2026.pdf",
 "text": "The memorandum directs all IC members to establish a PURSUE designee within 30 days in coordination with ODNI and to inform their workforces that prior NDAs barring disclosure to the President or designees like PURSUE are no longer in force.",
 "tier": 1
 },
 {
+"id": "c-110a5af891",
 "source": "https://burlison.house.gov/media/press-releases/rep-eric-burlison-releases-statement-president-trumps-uap-nda-directive",
 "text": "Burlison identified Lukas and ODNI as the source of the implementation guidance he had called for publicly on 29 July 2026.",
 "tier": 2
@@ -41,6 +44,7 @@
 "dateEnd": null,
 "dateStart": "2026-08-01",
 "direction": "out",
+"edgeId": "e-2ff96058d6",
 "edgeLabel": "signatory",
 "id": "odni-memo-es-2026-00818",
 "l0": true,
@@ -103,7 +107,7 @@
 "status": "active",
 "sub": "Principal Deputy Director of National Intelligence; signatory of ODNI ES 2026-00818",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 375 of 1170, score 35). 1 connections, 1 of them custody/funding/programmatic. Axes C2/A3/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 377 of 1138, score 35). 1 connections, 1 of them custody/funding/programmatic. Axes C2/A3/D3.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": [

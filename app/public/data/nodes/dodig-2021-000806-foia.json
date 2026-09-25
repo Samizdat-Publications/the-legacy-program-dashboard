@@ -5,21 +5,25 @@
 "band": null,
 "claims": [
 {
+"id": "c-e9c4237487",
 "source": "https://www.theblackvault.com/documentarchive/department-of-war-cites-national-security-to-hide-core-uap-evaluation-details/",
 "text": "DoW OIG FOIA case DODIG-2021-000806 fourth interim release, five pages, with approximately 245 pages still pending review.",
 "tier": 1
 },
 {
+"id": "c-79cbde141a",
 "source": "https://www.theblackvault.com/documentarchive/department-of-war-cites-national-security-to-hide-core-uap-evaluation-details/",
 "text": "The 'Potential Benefit(s)' section was withheld under FOIA exemption (b)(1) citing military plans, weapons systems or operations and vulnerabilities or capabilities relating to national security; background sections marked (S) and (S//NF) were blacked out entirely.",
 "tier": 1
 },
 {
+"id": "c-9f31f9809f",
 "source": "https://www.theblackvault.com/documentarchive/department-of-war-cites-national-security-to-hide-core-uap-evaluation-details/",
 "text": "Details and outcomes of an October 2020 meeting between Space, Intelligence, Engineering and Oversight leadership and the UAP Task Force Director were withheld entirely under exemption (b)(5) deliberative process; methodology steps 3-5 are classified SECRET/Five Eyes and steps 6-8 fully redacted.",
 "tier": 1
 },
 {
+"id": "c-df1887e127",
 "source": "https://www.theblackvault.com/documentarchive/department-of-war-cites-national-security-to-hide-core-uap-evaluation-details/",
 "text": "The Department's disclosure posture in mid-2026 releases imagery and withholds methodology. Reasoning: the same department published AC-130J gun-camera video of an unresolved engagement in August 2026 while in June 2026 withholding the description of its UAP evaluation methodology under (b)(1) national security.",
 "tier": 3
@@ -35,6 +39,7 @@
 "dateEnd": null,
 "dateStart": "2026-06-16",
 "direction": "in",
+"edgeId": "e-e84d8ea2bb",
 "edgeLabel": "FOIA requester of record",
 "id": "john-greenewald",
 "l0": false,
@@ -56,6 +61,7 @@
 "dateEnd": null,
 "dateStart": "2026-06-16",
 "direction": "out",
+"edgeId": "e-37c43f146f",
 "edgeLabel": "imagery released, methodology withheld",
 "id": "pursue-releases",
 "l0": true,
@@ -94,6 +100,7 @@
 "by": null,
 "claimTier": 3,
 "denialKind": "undirected",
+"edgeId": "e-37c43f146f",
 "label": "imagery released, methodology withheld",
 "note": "In the same quarter the Department published sensor video it withheld under exemption (b)(1) the 'Potential Benefits' section of its UAP evaluation proposal and fully redacted methodology steps three through eight.",
 "of": null,
@@ -140,7 +147,7 @@
 ],
 "sub": "Fourth interim release, June 2026; ~245 pages still pending",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 474 of 1170, score 32). 2 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 472 of 1138, score 32). 2 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D3.",
 "timeline": [
 {
 "claimTier": 1,

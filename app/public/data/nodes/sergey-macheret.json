@@ -8,16 +8,19 @@
 "chronology": [],
 "claims": [
 {
+"id": "c-5b3c5166f7",
 "source": "https://irp.fas.org/dia/aatip-list.pdf",
 "text": "Named on the DIA list of AATIP/AAWSAP products supplied to the Senate Armed Services Committee as author of 'Magnetohydrodynamics (MHD) Air Breathing Propulsion and Power for Aerospace Applications', affiliation Lockheed Martin.",
 "tier": 1
 },
 {
+"id": "c-004de7ed47",
 "source": "https://en.wikipedia.org/wiki/Sergey_Macheret",
 "text": "Senior staff engineer at Lockheed Martin Aeronautics Company, Skunk Works, from 2006 to 2014 — the period covering the DIRD's 20 July 2010 ICOD and 21 November 2010 publication date.",
 "tier": 2
 },
 {
+"id": "c-b810ea7a32",
 "source": "https://digitwin2024.polytechnic.purdue.edu/AAE/spotlights/2022/2022-0331-Sergey-Macheret-AIAA-plasma-lasers-award",
 "text": "Joined Purdue University in 2014 as professor of aeronautics and astronautics; AIAA Fellow; recipient of the 2022 AIAA Plasmadynamics and Lasers Award.",
 "tier": 2
@@ -33,6 +36,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-3072445046",
 "edgeLabel": "authored by",
 "id": "dird-mhd-air-breathing-propulsion-and-power",
 "l0": true,
@@ -74,6 +78,7 @@
 "dateEnd": "2014-12-31",
 "dateStart": "2006-01-01",
 "direction": "out",
+"edgeId": "e-836be66076",
 "edgeLabel": "senior staff engineer, Lockheed Martin Aeronautics (Skunk Works)",
 "id": "lockheed-martin",
 "l0": true,
@@ -163,7 +168,7 @@
 "status": "active",
 "sub": "Plasma physicist; senior staff engineer, Lockheed Martin Skunk Works 2006-2014; author, MHD Air Breathing Propulsion DIRD",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 977 of 1170, score 16). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 949 of 1138, score 16). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": []

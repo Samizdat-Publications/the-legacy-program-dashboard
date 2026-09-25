@@ -5,11 +5,13 @@
 "band": null,
 "claims": [
 {
+"id": "c-f1668b6955",
 "source": "Christopher Mellon in The Phenomenon (2020), via Vice",
 "text": "Christopher Mellon received the three video files 'in the Pentagon parking lot from a Defense Department official'.",
 "tier": 2
 },
 {
+"id": "c-c387bda3c2",
 "source": "Department of War website, verified August 2026",
 "text": "Department of Defense press releases from 2020, including the 27 April 2020 video release statement, now resolve to war.gov following the Department's renaming.",
 "tier": 1
@@ -25,6 +27,7 @@
 "dateEnd": "2017",
 "dateStart": "2008",
 "direction": "in",
+"edgeId": "e-bfb2069373",
 "edgeLabel": "Worked in OUSD(I) offices, 2008-2017",
 "id": "luis-elizondo",
 "l0": false,
@@ -86,7 +89,7 @@
 ],
 "sub": "Headquarters, U.S. Department of Defense / Department of War",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 628 of 1170, score 27). 1 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 620 of 1138, score 27). 1 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D2.",
 "timeline": [],
 "unverified": []
 }

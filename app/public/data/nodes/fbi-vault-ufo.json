@@ -5,21 +5,25 @@
 "band": null,
 "claims": [
 {
+"id": "c-c37236f18e",
 "source": "vault.fbi.gov/UFO, accessed 12 August 2026",
 "text": "The FBI Vault UFO collection comprises 16 parts covering the Bureau's role in investigating flying object reports between 1947 and 1954, released 30 November 2010 and last modified 25 July 2013.",
 "tier": 1
 },
 {
+"id": "c-3d3e936e6d",
 "source": "Disclosure Archives inventory of Release 01",
 "text": "PURSUE Release 01 published FBI file 62-HQ-83894, the master flying disc file spanning 1947-1968, as a single 101MB PDF.",
 "tier": 2
 },
 {
+"id": "c-1bd0137457",
 "source": "Disclosure Archives inventory of Release 03",
 "text": "PURSUE Release 03 contained 29 FBI files including a 2021-2025 orb corpus with four authenticated eyewitness videos and an FD-1057 documenting two FBI special agents' own observation.",
 "tier": 2
 },
 {
+"id": "c-6eb471e97a",
 "source": "Inference from the Vault UFO collection's date range and modification date against the FBI-originated material in PURSUE Releases 01, 03 and 05",
 "text": "The FBI's own public reading room, last updated in 2013 and ending at 1954, concealed by omission an active modern collection posture that only became visible when another department published the Bureau's files.",
 "tier": 3
@@ -35,10 +39,11 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-bce3600bac",
 "edgeLabel": "FBI transferred records to RG 615 while its standing Vault collection stayed frozen at 2013",
-"id": "nara-rg615",
+"id": "nara-uap-collection",
 "l0": true,
-"label": "National Archives Record Group 615 - UAP Records Collection",
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection",
 "note": "The FBI appears as an RG 615 contributor (catalog ID 580705010) and was the largest single contributor to PURSUE Release 03, while its public Vault UFO collection remained last-modified 25 July 2013.",
 "sources": [
 {
@@ -56,6 +61,7 @@
 "dateEnd": "2026",
 "dateStart": "2026",
 "direction": "in",
+"edgeId": "e-90237c1685",
 "edgeLabel": "Published FBI 62-HQ-83894, well beyond the Vault's 1947-1954 scope",
 "id": "pursue-release-01",
 "l0": false,
@@ -82,6 +88,7 @@
 "dateEnd": "2026",
 "dateStart": "2026",
 "direction": "in",
+"edgeId": "e-d353ac476f",
 "edgeLabel": "29 FBI files including a 2021-2025 orb corpus and an agents' own FD-1057",
 "id": "pursue-release-03",
 "l0": false,
@@ -142,7 +149,7 @@
 ],
 "sub": "16 parts; 1947-1954; posted 30 Nov 2010, last modified 25 Jul 2013",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 372 of 1170, score 36). 3 connections, 3 of them custody/funding/programmatic. Axes C1/A2/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 374 of 1138, score 36). 3 connections, 3 of them custody/funding/programmatic. Axes C1/A2/D3.",
 "timeline": [],
 "unverified": []
 }

@@ -5,11 +5,13 @@
 "band": null,
 "claims": [
 {
+"id": "c-bd5060c173",
 "source": "DIA FOIA Electronic Reading Room AATIP index, examined August 2026",
 "text": "No released AAWSAP-era document records the receipt, transfer or storage of a physical sample, despite the release of the statement of work, contract status briefs, 38 reference-product titles and multiple internal memoranda.",
 "tier": 1
 },
 {
+"id": "c-8a391de51a",
 "source": "Steve Justice, quoted in Vice, 26 July 2019",
 "text": "Steve Justice conceded the ADAM materials were 'collected from sources with varying levels of chain-of-custody documentation'.",
 "tier": 2
@@ -25,6 +27,7 @@
 "dateEnd": "2010",
 "dateStart": "2008",
 "direction": "in",
+"edgeId": "e-828a3f3f88",
 "edgeLabel": "Exhaustive on paper flow, silent on object flow",
 "id": "aawsap-dird-series",
 "l0": false,
@@ -51,6 +54,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-d521b3e581",
 "edgeLabel": "Requires every version of a manuscript surrendered for destruction and removed from the author's hard drive",
 "id": "cia-prepublication-classification-review-board",
 "l0": false,
@@ -72,6 +76,7 @@
 "dateEnd": null,
 "dateStart": "1947-07-08",
 "direction": "in",
+"edgeId": "e-72773b3fd6",
 "edgeLabel": "Site to container to shelf",
 "id": "d-recovery",
 "l0": false,
@@ -93,6 +98,7 @@
 "dateEnd": null,
 "dateStart": "2019",
 "direction": "in",
+"edgeId": "e-8d79c340a5",
 "edgeLabel": "Converted an oral controversy into an enumerated procurement record",
 "id": "dia-aatip-list-2019",
 "l0": false,
@@ -119,6 +125,7 @@
 "dateEnd": null,
 "dateStart": "2020",
 "direction": "in",
+"edgeId": "e-515432576e",
 "edgeLabel": "'We couldn't make it ourselves' - a custody claim with no public chain",
 "id": "eric-davis",
 "l0": false,
@@ -140,6 +147,7 @@
 "dateEnd": null,
 "dateStart": "2021",
 "direction": "in",
+"edgeId": "e-f8c71a8068",
 "edgeLabel": "Approached by unnamed government and aerospace-corporation representatives about casualty biology",
 "id": "garry-nolan",
 "l0": false,
@@ -161,6 +169,7 @@
 "dateEnd": null,
 "dateStart": "1996",
 "direction": "in",
+"edgeId": "e-bb87a8970e",
 "edgeLabel": "Private, non-FOIA-able laboratory sitting between a government programme and a public company",
 "id": "harold-puthoff",
 "l0": false,
@@ -192,10 +201,11 @@
 "dateEnd": null,
 "dateStart": "2023",
 "direction": "in",
+"edgeId": "e-74432a42eb",
 "edgeLabel": "Concluded data was insufficient - having been given only the unclassified record",
-"id": "nasa-uapist",
-"l0": false,
-"label": "NASA Unidentified Anomalous Phenomena Independent Study Team",
+"id": "nasa-uap-ist",
+"l0": true,
+"label": "NASA UAP Independent Study Team",
 "note": "Sixteen serious scientists examining only unclassified material concluded that unclassified material is insufficient. The finding measures the panel's access, not the government's holdings.",
 "sources": [
 {
@@ -209,7 +219,7 @@
 "url": "https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team"
 }
 ],
-"tier": "C",
+"tier": "B",
 "type": "denial"
 },
 {
@@ -218,6 +228,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-b0990e2ba9",
 "edgeLabel": "Covert recovery of foreign hardware under a named commercial cover",
 "id": "project-azorian",
 "l0": false,
@@ -239,6 +250,7 @@
 "dateEnd": null,
 "dateStart": "1989",
 "direction": "in",
+"edgeId": "e-b37b426850",
 "edgeLabel": "Claimed custody of non-human craft at the claimed site",
 "id": "s-4-papoose-lake",
 "l0": false,
@@ -251,7 +263,7 @@
 "url": "https://archive.org/details/antigravity"
 }
 ],
-"tier": "A",
+"tier": "B",
 "type": "custody"
 },
 {
@@ -260,10 +272,11 @@
 "dateEnd": "2026",
 "dateStart": "2019",
 "direction": "in",
+"edgeId": "e-b8c126f90f",
 "edgeLabel": "The chain goes dark inside a federal research agreement",
-"id": "ttsa-army-crada-2019",
-"l0": false,
-"label": "To The Stars Academy - US Army CCDC Cooperative Research and Development Agreement (17 October 2019)",
+"id": "ttsa-army-crada",
+"l0": true,
+"label": "CRADA between U.S. Army Ground Vehicle Systems Center and To The Stars Academy",
 "note": "A CRADA is a records-generating instrument. Seven years after signature, no characterisation of the samples, no technical output and no Army statement of findings has been published. That silence is the darkest segment of the only documented private-to-federal materials transfer.",
 "sources": [
 {
@@ -272,7 +285,7 @@
 "url": "https://en.wikipedia.org/wiki/To_the_Stars_(company)."
 }
 ],
-"tier": "C",
+"tier": "A",
 "type": "custody"
 },
 {
@@ -281,6 +294,7 @@
 "dateEnd": null,
 "dateStart": "2026",
 "direction": "in",
+"edgeId": "e-bf549df459",
 "edgeLabel": "No budget, no classified access - constitutionally unable to reach the material",
 "id": "uap-science-advisory-council",
 "l0": true,
@@ -309,19 +323,20 @@
 "denials": [
 {
 "a": {
-"id": "nasa-uapist",
-"label": "NASA Unidentified Anomalous Phenomena Independent Study Team"
+"id": "nasa-uap-ist",
+"label": "NASA UAP Independent Study Team"
 },
 "b": {
 "id": "d-custody",
 "label": "Chain of custody"
 },
 "by": {
-"id": "nasa-uapist",
-"label": "NASA Unidentified Anomalous Phenomena Independent Study Team"
+"id": "nasa-uap-ist",
+"label": "NASA UAP Independent Study Team"
 },
 "claimTier": 3,
 "denialKind": "directed",
+"edgeId": "e-74432a42eb",
 "label": "Concluded data was insufficient - having been given only the unclassified record",
 "note": "Sixteen serious scientists examining only unclassified material concluded that unclassified material is insufficient. The finding measures the panel's access, not the government's holdings.",
 "of": {
@@ -353,6 +368,7 @@
 "by": null,
 "claimTier": 2,
 "denialKind": "association",
+"edgeId": "e-bf549df459",
 "label": "No budget, no classified access - constitutionally unable to reach the material",
 "note": "The Associated Press reported the council has no budget and no access to classified material, and the Sol Foundation confirmed all shared data is unclassified. An advisory body denied money and clearances cannot audit a special access programme.",
 "of": null,
@@ -409,7 +425,7 @@
 ],
 "sub": "Cross-cutting domain: who held what, when, and under what documentation",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 74 of 1170, score 71). 12 connections, 8 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C3/A2/D2.",
+"tierRationale": "Re-graded A on a global pass (rank 78 of 1138, score 71). 12 connections, 8 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C3/A2/D2.",
 "timeline": [],
 "unverified": []
 }

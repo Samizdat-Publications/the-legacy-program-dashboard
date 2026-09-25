@@ -5,16 +5,19 @@
 "band": null,
 "claims": [
 {
+"id": "c-a7f5713602",
 "source": "Wikipedia, Kirtland Air Force Base — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "text": "Sandia National Laboratories, descended from the Manhattan Project Z Division, is adjacent to Kirtland AFB in Albuquerque; the AFRL Directed Energy Directorate is a Kirtland tenant.",
 "tier": 2
 },
 {
+"id": "c-4e41a6f2c6",
 "source": "GAO/NSIAD-95-187, 'Results of a Search for Records Concerning the 1947 Crash Near Roswell, New Mexico'",
 "text": "GAO/NSIAD-95-187 was produced at the request of Rep. Steven H. Schiff of New Mexico after the Defense Department declined to answer his Roswell inquiries.",
 "tier": 1
 },
 {
+"id": "c-bf18546b0a",
 "source": "Wikipedia, Paul Bennewitz, citing an April 1981 Albuquerque Tribune profile — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "text": "Bennewitz founded Thunder Scientific in 1966 after acquiring humidity sensor rights from Sandia National Laboratories.",
 "tier": 2
@@ -30,6 +33,7 @@
 "dateEnd": null,
 "dateStart": "1941",
 "direction": "in",
+"edgeId": "e-af1d0af165",
 "edgeLabel": "Kirtland AFB lies inside the Albuquerque city limits",
 "id": "l-kirtland",
 "l0": false,
@@ -51,6 +55,7 @@
 "dateEnd": "1951",
 "dateStart": "1948",
 "direction": "in",
+"edgeId": "e-59c3d9301d",
 "edgeLabel": "LaPaz investigated the green fireballs from the University of New Mexico",
 "id": "lincoln-lapaz",
 "l0": false,
@@ -72,6 +77,7 @@
 "dateEnd": "1995",
 "dateStart": "1993",
 "direction": "in",
+"edgeId": "e-777c821f64",
 "edgeLabel": "Schiff's New Mexico district inquiry produced the GAO Roswell audit",
 "id": "steven-schiff",
 "l0": false,
@@ -135,7 +141,7 @@
 ],
 "sub": "City in Bernalillo County; Sandia National Laboratories, AFRL Directed Energy, Kirtland AFB, University of New Mexico",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 510 of 1170, score 31). 3 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D2.",
+"tierRationale": "Re-graded B on a global pass (rank 507 of 1138, score 31). 3 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D2.",
 "timeline": [],
 "unverified": []
 }

@@ -5,31 +5,37 @@
 "band": null,
 "claims": [
 {
+"id": "c-e60d7689e0",
 "source": "GAO/NSIAD-88-152, B-230522, 24 May 1988, Results in Brief and Recommendations, https://www.gao.gov/assets/nsiad-88-152.pdf",
 "text": "A central Army special-access oversight office predates the 1994 reform by ten years. GAO/NSIAD-88-152 records: 'A DOD review of Army special access programs in 1983 revealed systemic weaknesses in various management areas, which resulted in establishment of a central oversight office in September 1984.' The same report states that in 1988 'The Deputy Under Secretary of Defense for Policy is required to maintain a listing of all special access programs, but does not do so because of security concerns', and that 'the Secretary's Office has no centralized office with cognizance of all special access programs'. The January 1994 dates this board carries stand; the Army aftermath began in 1983-84.",
 "tier": 1
 },
 {
+"id": "c-801ce6aaeb",
 "source": "Deputy Secretary of Defense, Special Access Program Oversight Committee, Information Bulletin, November 1994, as transcribed at https://sgp.fas.org/othergov/sapoc.html",
 "text": "The change and its date: 'On January 5th, 1994, the Deputy Secretary of Defense (DEPSECDEF) significantly enhanced changes in the DoD Special Access Program (SAP) management and control structures. ... The plan standardized and formalized the SAP approval, termination, revalidation and restructuring process through the Special Access Program Oversight Committee (SAPOC). A Senior Review Group (SRG) was established to support the SAPOC principals.' Tier 2 because the text opened is a transcription published by the Federation of American Scientists and no scan of the original bulletin was found from this environment.",
 "tier": 2
 },
 {
+"id": "c-04e1b13cce",
 "source": "Deputy Secretary of Defense, SAPOC Information Bulletin, November 1994, https://sgp.fas.org/othergov/sapoc.html",
 "text": "The committee's membership in November 1994: 'The SAPOC is chaired by the Honorable John Deutch, DEPSECDEF, with permanent members the Honorable Paul Kaminski USD(A&T), the Honorable Walter Slocombe USD(P), ADM William A. Owens, VCJCS, and the Honorable Emmett Paige Jr., ASD(C3I). BGEN Mike Kostelnik, OUSD(A&T), serves as both member and executive secretary to the SAPOC in his capacity as director of the SAPCO (SAP Coordinating Office). SAPOC membership is not further delegable.'",
 "tier": 2
 },
 {
+"id": "c-7b93973ea5",
 "source": "Deputy Secretary of Defense, SAPOC Information Bulletin, November 1994, https://sgp.fas.org/othergov/sapoc.html",
 "text": "The annual review and the decision authority date from this change, not from the 2010 directive: 'All SAPs will be reviewed and validated annually for continued SAP status by the OSD SAPOC. ... The DEPSECDEF is the final decision maker in establishing, disestablishing or restructuring SAPs.'",
 "tier": 2
 },
 {
+"id": "c-de2a76adb0",
 "source": "Joint Security Commission, 'Redefining Security: A Report to the Secretary of Defense and the Director of Central Intelligence', 28 February 1994, chapter 2, https://sgp.fas.org/library/jsc/chap2.html",
 "text": "A commission chartered by the Secretary of Defense and the Director of Central Intelligence corroborated the formation within two months: 'Until recently there has been no procedure for centralized assessment of special program proposals submitted directly to the Deputy Secretary of Defense by the military departments. The recent formation of the DoD Special Access Program Oversight Committee, which the Commission fully supports, will ensure that every program is reviewed by a panel of senior officials prior to its establishment, and annually thereafter, to determine whether compartmentation for each program is still required.'",
 "tier": 1
 },
 {
+"id": "c-fa44e79b33",
 "source": "Joint Security Commission, 'Redefining Security', 28 February 1994, chapter 2, https://sgp.fas.org/library/jsc/chap2.html",
 "text": "The same chapter records the scale and the carve-outs the board's oversight view argues from: 'Some of the most sensitive DoD programs are \"waived\" or \"carved out\" from certain oversight and administrative requirements. There are over one hundred DoD SAPs, with many having numerous compartments and subcompartments', and each SAP manager 'is free to establish the security rules that will apply to his or her particular program.' On congressional reporting the Commission concluded it saw 'no need to modify existing reporting procedures'.",
 "tier": 1
@@ -45,6 +51,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-c0814acf71",
 "edgeLabel": "The SAPCO staffed the committee from the start",
 "id": "dod-sapco",
 "l0": true,
@@ -66,6 +73,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-f7e46d3eb7",
 "edgeLabel": "The later directive re-established a body of the same name",
 "id": "dodd-5205-07-2024",
 "l0": false,
@@ -87,9 +95,10 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-97bccd3bf3",
 "edgeLabel": "Dates an Army central SAP oversight office to September 1984, ten years earlier",
 "id": "gao-nsiad-88-152",
-"l0": false,
+"l0": true,
 "label": "GAO/NSIAD-88-152 - Special Access Programs: DOD Criteria and Procedures for Creating Them Need Improvement",
 "note": "GAO dates a central Army special-access oversight office to September 1984, following a 1983 DoD review, which places a documented predecessor ten years before the January 1994 change this node carries.",
 "sources": [
@@ -108,6 +117,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-e24604d954",
 "edgeLabel": "The committee the board dates to 2010 was running from January 1994",
 "id": "sapoc",
 "l0": false,
@@ -129,6 +139,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-2f60ed6ae3",
 "edgeLabel": "Waived and carved-out programmes named in a chartered commission's report",
 "id": "waived-usap",
 "l0": true,
@@ -194,7 +205,7 @@
 ],
 "sub": "SAPOC, Senior Review Group and SAPCO stood up under the Deputy Secretary of Defense",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 250 of 1170, score 42). 5 connections, 1 of them custody/funding/programmatic. Axes C2/A3/D1.",
+"tierRationale": "Re-graded B on a global pass (rank 254 of 1138, score 42). 5 connections, 1 of them custody/funding/programmatic. Axes C2/A3/D1.",
 "timeline": [
 {
 "claimTier": null,

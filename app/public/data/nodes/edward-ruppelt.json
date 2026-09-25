@@ -48,21 +48,25 @@
 ],
 "claims": [
 {
+"id": "c-6d8b74d97e",
 "source": "Ruppelt, 'The Report on Unidentified Flying Objects', 1956",
 "text": "Ruppelt published the existence of the 1948 Top Secret 'Estimate of the Situation' and its rejection and destruction by Gen. Vandenberg.",
 "tier": 2
 },
 {
+"id": "c-6a161fb2f7",
 "source": "Condon Report, Section V Chapter 2",
 "text": "The Condon Report, produced under USAF contract, independently records that the Estimate was prepared, rejected by Vandenberg and destroyed.",
 "tier": 1
 },
 {
+"id": "c-6dfd6d4bec",
 "source": "USAF Project Blue Book records, NARA RG 341; Condon Report Sec. V Ch. 2",
 "text": "Ruppelt directed Blue Book from March 1952 through August 1953, the period covering the Washington flap and the Robertson Panel.",
 "tier": 1
 },
 {
+"id": "c-c004dd1cb4",
 "source": "Ruppelt, 'The Report on Unidentified Flying Objects', 2nd edition, 1960",
 "text": "Ruppelt added sceptical chapters to the 1960 edition of his book, reversing tone shortly before his death.",
 "tier": 2
@@ -80,6 +84,7 @@
 "dateEnd": null,
 "dateStart": "1952",
 "direction": "in",
+"edgeId": "e-3c04e663b3",
 "edgeLabel": "Ruppelt is the briefer on the recording",
 "id": "af-atic-film-0352",
 "l0": false,
@@ -101,6 +106,7 @@
 "dateEnd": "1956",
 "dateStart": "1956",
 "direction": "out",
+"edgeId": "e-c127ed2081",
 "edgeLabel": "Ruppelt is the origin of public knowledge of the Estimate",
 "id": "estimate-of-the-situation",
 "l0": false,
@@ -127,6 +133,7 @@
 "dateEnd": "1953",
 "dateStart": "1952",
 "direction": "out",
+"edgeId": "e-0454c9715c",
 "edgeLabel": "Ruppelt was Blue Book's first director",
 "id": "project-blue-book",
 "l0": true,
@@ -153,6 +160,7 @@
 "dateEnd": "1956",
 "dateStart": "1953",
 "direction": "out",
+"edgeId": "e-532901d7a2",
 "edgeLabel": "Ruppelt attended the panel as Blue Book director and later described it",
 "id": "robertson-panel",
 "l0": true,
@@ -226,7 +234,7 @@
 "status": "dead",
 "sub": "First director, Project Blue Book",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 400 of 1170, score 34). 4 connections, 0 of them custody/funding/programmatic. Axes C2/A2/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 399 of 1138, score 34). 4 connections, 0 of them custody/funding/programmatic. Axes C2/A2/D3.",
 "timeline": [
 {
 "claimTier": null,

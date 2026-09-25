@@ -5,21 +5,25 @@
 "band": null,
 "claims": [
 {
+"id": "c-0d3afd319b",
 "source": "AARO Declassification Information Paper, September 2025",
 "text": "AARO states it cannot declassify information independently and must request declassification review from the originating offices, with DOPSR reviewing redactions before public release.",
 "tier": 1
 },
 {
+"id": "c-a2d5a69c06",
 "source": "AARO Declassification Information Paper, September 2025",
 "text": "'Information must remain classified when its disclosure could reasonably be expected to cause damage, serious damage, or exceptionally grave damage to national security.'",
 "tier": 1
 },
 {
+"id": "c-d23a82cce6",
 "source": "AARO Declassification Information Paper, September 2025",
 "text": "The paper states that classified UAP imagery protects platform capabilities, locations and collection methods, and that even footage of prosaic objects remains classified when derived from sensitive sources.",
 "tier": 1
 },
 {
+"id": "c-5b9821f664",
 "source": "Inference from the September 2025 paper against the May-August 2026 PURSUE release record",
 "text": "The paper's account of an immovable process was falsified within eight months by its own department, which cleared five tranches and over a hundred sensor videos once directed to at cabinet level.",
 "tier": 3
@@ -35,6 +39,7 @@
 "dateEnd": "2025",
 "dateStart": "2025",
 "direction": "in",
+"edgeId": "e-92e45796bd",
 "edgeLabel": "The office's own account of why it cannot declassify",
 "id": "aaro",
 "l0": true,
@@ -56,6 +61,7 @@
 "dateEnd": "2026",
 "dateStart": "2025",
 "direction": "out",
+"edgeId": "e-6cbcdbb3c0",
 "edgeLabel": "Process described as immovable was moved by cabinet direction in weeks",
 "id": "pursue-releases",
 "l0": true,
@@ -94,6 +100,7 @@
 "by": null,
 "claimTier": 3,
 "denialKind": "association",
+"edgeId": "e-6cbcdbb3c0",
 "label": "Process described as immovable was moved by cabinet direction in weeks",
 "note": "The September 2025 paper's 'deliberate and time-intensive' declassification account is contradicted by five tranches and over a hundred sensor videos cleared between May and August 2026.",
 "of": null,
@@ -166,7 +173,7 @@
 ],
 "sub": "The office's own account of why it cannot declassify",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 554 of 1170, score 29). 2 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A3/D2.",
+"tierRationale": "Re-graded B on a global pass (rank 551 of 1138, score 29). 2 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A3/D2.",
 "timeline": [
 {
 "claimTier": null,

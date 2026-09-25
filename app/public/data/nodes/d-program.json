@@ -5,16 +5,19 @@
 "band": null,
 "claims": [
 {
+"id": "c-50f5d9f1a3",
 "source": "AAWSAP solicitation full text (v.3), via The Black Vault",
 "text": "DIA solicitation HHM402-08-R-0211 for the Advanced Aerospace Weapon System Applications Program was issued in August 2008 and the full text is public.",
 "tier": 1
 },
 {
+"id": "c-636dd87d0d",
 "source": "AAWSAP Statement of Work (SOW_Aerospace.pdf)",
 "text": "The AAWSAP statement of work, dated 22 August 2008, specifies the required advanced aerospace research areas.",
 "tier": 1
 },
 {
+"id": "c-e739de921c",
 "source": "DIA - OUSDI Info Memo on AATIP",
 "text": "An OUSD(I) information memorandum of November 2009 records review of a special access program request relating to AATIP.",
 "tier": 1
@@ -30,6 +33,7 @@
 "dateEnd": "2010-12-31",
 "dateStart": "2008-08-22",
 "direction": "out",
+"edgeId": "e-fdd5e298e1",
 "edgeLabel": "Tasking reveals expectation",
 "id": "d-exotic",
 "l0": false,
@@ -51,6 +55,7 @@
 "dateEnd": "2010-12-31",
 "dateStart": "2008-08-18",
 "direction": "in",
+"edgeId": "e-82220cdaac",
 "edgeLabel": "Anomalous phenomena inside a defence contract",
 "id": "d-paranormal",
 "l0": false,
@@ -72,6 +77,7 @@
 "dateEnd": null,
 "dateStart": "2009-11-01",
 "direction": "out",
+"edgeId": "e-c5ca7cb71e",
 "edgeLabel": "Conversion from visible to invisible",
 "id": "d-sap",
 "l0": false,
@@ -137,7 +143,7 @@
 ],
 "sub": "Structural domain - how a concealed effort is chartered, staffed, funded and hidden inside a portfolio",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 257 of 1170, score 42). 3 connections, 3 of them custody/funding/programmatic. Axes C2/A3/D2.",
+"tierRationale": "Re-graded B on a global pass (rank 261 of 1138, score 42). 3 connections, 3 of them custody/funding/programmatic. Axes C2/A3/D2.",
 "timeline": [],
 "unverified": []
 }

@@ -8,21 +8,25 @@
 "chronology": [],
 "claims": [
 {
+"id": "c-56fd857db7",
 "source": "Metabunk, https://www.metabunk.org/threads/ufos-at-nuclear-weapons-sites-salas-malmstrom-eagle-flight-skeptical-resources.3284/ , opened 2026-09-19",
 "text": "James Carlson, son of Echo Flight crew commander Capt. Eric D. Carlson, has published a 357-page work titled 'American, Credulous' and a shorter piece titled 'Echo Flights of Fantasy - Anatomy of a UFO Hoax', concluding that no UFOs were involved at Echo Flight or any other flight and that claims of UFO interference are completely unsupportable.",
 "tier": 2
 },
 {
+"id": "c-4f559e0f1d",
 "source": "Metabunk, https://www.metabunk.org/threads/ufos-at-nuclear-weapons-sites-salas-malmstrom-eagle-flight-skeptical-resources.3284/ , opened 2026-09-19",
 "text": "His enumerated disputes with Robert Salas are: that Salas claims all ten Echo Flight missiles shut down where Eric Carlson confirms three or four; that no Oscar Flight incident occurred on 24 or 25 March 1967; that Walt Figel denied seeing a UFO; that Salas has located himself inconsistently across accounts; and that Salas never witnessed anything directly, his account being of a telephone call from a topside security policeman.",
 "tier": 2
 },
 {
+"id": "c-33f5e2d6d0",
 "source": "341st SMW history, Jan-Mar 1967, p 32, https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf , opened 2026-09-19",
 "text": "One of his disputes is settled against him by the Air Force's own paper. The 341st SMW history states that all launch facilities in Echo Flight lost strategic alert nearly simultaneously, which supports Salas's figure of ten and not the three-or-four figure Carlson attributes to his father.",
 "tier": 1
 },
 {
+"id": "c-0195e9f6a3",
 "source": "341st SMW history, Jan-Mar 1967, p 38, and a full-text search of the 88-page release, https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf , opened 2026-09-19",
 "text": "One of his disputes is supported by the same document. The words 'Unidentified Flying Object' occur exactly once in the 88 released pages of the 341st SMW histories, and the occurrence is a negative: 'Rumors of Unidentified Flying Objects (UFO) around the area of Echo Flight during the time of fault were disproven.' The string 'Oscar' does not occur in the release at all.",
 "tier": 1
@@ -40,6 +44,7 @@
 "dateEnd": "2026",
 "dateStart": "2010",
 "direction": "out",
+"edgeId": "e-550fd0f314",
 "edgeLabel": "Disputes that any Oscar Flight incident occurred",
 "id": "malmstrom-oscar-flight-1967",
 "l0": true,
@@ -66,6 +71,7 @@
 "dateEnd": "2026",
 "dateStart": "2010",
 "direction": "out",
+"edgeId": "e-40120b2d2a",
 "edgeLabel": "Sustained published dispute of the Malmstrom account",
 "id": "robert-salas",
 "l0": false,
@@ -102,6 +108,7 @@
 },
 "claimTier": 2,
 "denialKind": "directed",
+"edgeId": "e-550fd0f314",
 "label": "Disputes that any Oscar Flight incident occurred",
 "note": "He cites SAC UFO officer Col. Lewis D. Chase as finding no equipment failures or sighting on that date. The released unit history is silent, which supports neither man, though its silence is consistent with him.",
 "of": {
@@ -136,6 +143,7 @@
 },
 "claimTier": 2,
 "denialKind": "directed",
+"edgeId": "e-40120b2d2a",
 "label": "Sustained published dispute of the Malmstrom account",
 "note": "Carlson is the son of Echo Flight's crew commander. His two works were NOT OPENED by this board and his position is reported at one remove.",
 "of": {
@@ -202,7 +210,7 @@
 "status": "alive",
 "sub": "Author and critic of the Malmstrom 1967 UFO account; son of Echo Flight crew commander Capt. Eric D. Carlson",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 711 of 1170, score 24). 2 connections, 0 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C0/A0/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 700 of 1138, score 24). 2 connections, 0 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C0/A0/D2.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": [

@@ -5,16 +5,19 @@
 "band": null,
 "claims": [
 {
+"id": "c-a371cf72aa",
 "source": "10 U.S.C. Sec. 119, Special access programs: congressional oversight",
 "text": "10 U.S.C. 119 requires congressional notification of special access programmes but permits the Secretary of Defense to waive that notification for a programme, reporting instead only to the chairs and ranking members of the defence committees.",
 "tier": 1
 },
 {
+"id": "c-ccba33b899",
 "source": "50 U.S.C. 3510 (Cornell LII)",
 "text": "50 U.S.C. 3510 permits certain intelligence expenditures to be accounted for solely on the certificate of the agency head, with that certificate deemed a sufficient voucher.",
 "tier": 1
 },
 {
+"id": "c-2f02d13ea1",
 "source": "DoD Directive 5205.07, Special Access Program (SAP) Policy",
 "text": "DoD Directive 5205.07 establishes the policy framework for acknowledged, unacknowledged and waived special access programmes and assigns the approval authority.",
 "tier": 1
@@ -30,6 +33,7 @@
 "dateEnd": null,
 "dateStart": "1953-01-01",
 "direction": "in",
+"edgeId": "e-fda7b1a2c4",
 "edgeLabel": "Directives implement classification authority",
 "id": "d-policy",
 "l0": false,
@@ -51,6 +55,7 @@
 "dateEnd": null,
 "dateStart": "1960-01-01",
 "direction": "out",
+"edgeId": "e-f8bff00c2e",
 "edgeLabel": "Statutory basis for the access tier",
 "id": "d-sap",
 "l0": false,
@@ -77,6 +82,7 @@
 "dateEnd": null,
 "dateStart": "1953-12-15",
 "direction": "in",
+"edgeId": "e-16b4c774e4",
 "edgeLabel": "Fixes the three categories and takes classification authority away from 28 agencies",
 "id": "eo-10501",
 "l0": false,
@@ -98,6 +104,7 @@
 "dateEnd": null,
 "dateStart": "1982-08-01",
 "direction": "in",
+"edgeId": "e-f0b2587a57",
 "edgeLabel": "Authorises reclassification after a disclosure request",
 "id": "eo-12356",
 "l0": false,
@@ -119,6 +126,7 @@
 "dateEnd": null,
 "dateStart": "1952",
 "direction": "in",
+"edgeId": "e-1a85be9443",
 "edgeLabel": "One of the three statutory layers of the secrecy architecture",
 "id": "invention-secrecy-act",
 "l0": false,
@@ -145,6 +153,7 @@
 "dateEnd": null,
 "dateStart": "1950-04-05",
 "direction": "in",
+"edgeId": "e-4fcf8b3146",
 "edgeLabel": "Compartment created by bypassing the review committee, in writing",
 "id": "project-bluebird",
 "l0": false,
@@ -166,6 +175,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-5eb5b2f51e",
 "edgeLabel": "The administrative alternative to classification",
 "id": "prp-nuclear-weapon",
 "l0": false,
@@ -232,7 +242,7 @@
 ],
 "sub": "Legal domain - the statutory and executive machinery that makes concealment lawful",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 279 of 1170, score 40). 7 connections, 3 of them custody/funding/programmatic. Axes C1/A3/D1.",
+"tierRationale": "Re-graded B on a global pass (rank 282 of 1138, score 40). 7 connections, 3 of them custody/funding/programmatic. Axes C1/A3/D1.",
 "timeline": [],
 "unverified": []
 }

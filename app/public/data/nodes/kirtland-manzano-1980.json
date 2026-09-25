@@ -5,21 +5,25 @@
 "band": null,
 "claims": [
 {
+"id": "c-7dd9bb531b",
 "source": "AFOSI complaint form, District File No. 8017D93-0/29, reproduced by NICAP from the CUFON archive, https://www.nicap.org/foia_003.htm , opened 2026-09-19",
 "text": "Independently confirmed this session from the NICAP reproduction of the AFOSI complaint form: the named 1608 Security Police Squadron observers, the Sandia security guard who requested anonymity, and the clock times of 8 to 9 August 1980, together with further observations on 22 August 1980 and a New Mexico State Patrolman on 10 August 1980. The form establishes that uniformed personnel guarding a nuclear weapons storage area reported objects they could not identify and that AFOSI opened a file. IT ESTABLISHES NOTHING ABOUT WHAT THE OBJECTS WERE.",
 "tier": 1
 },
 {
+"id": "c-3272fdb610",
 "source": "AFOSI FOIA release archived by NICAP",
 "text": "AFOSI documented sightings at Kirtland AFB between 8 August and 3 September 1980 on a complaint form dated 9 September 1980 filed by Special Agent Richard C. Doty, District File No. 8017D93-0/29.",
 "tier": 1
 },
 {
+"id": "c-6da32a9597",
 "source": "AFOSI FOIA release archived by NICAP",
 "text": "Named observers were SSgt Stephen Ferenz (area supervisor), ATC Martin W. Rist and AMN Anthony D. Frazier of the 1608 Security Police Squadron, reporting at approximately 23:50 on 8 August 1980.",
 "tier": 1
 },
 {
+"id": "c-157bffd21c",
 "source": "AFOSI FOIA release archived by NICAP",
 "text": "A Sandia security guard reported a round disc-shaped object near an alarmed structure at approximately 00:20 on 9 August 1980; his radio malfunctioned during the encounter.",
 "tier": 1
@@ -35,6 +39,7 @@
 "dateEnd": "1983",
 "dateStart": "1980",
 "direction": "in",
+"edgeId": "e-32a9162402",
 "edgeLabel": "AFOSI investigated the 1980 intrusions at the nuclear weapons storage area",
 "id": "afosi",
 "l0": true,
@@ -61,6 +66,7 @@
 "dateEnd": "1980",
 "dateStart": "1980",
 "direction": "out",
+"edgeId": "e-3a8fc01d43",
 "edgeLabel": "Occurred at the Manzano Weapons Storage Area and Coyote Canyon",
 "id": "l-kirtland",
 "l0": false,
@@ -82,6 +88,7 @@
 "dateEnd": "1980-09",
 "dateStart": "1980-08",
 "direction": "out",
+"edgeId": "e-6e1600f9b8",
 "edgeLabel": "AFOSI opened a file covering the observations Bennewitz was reporting",
 "id": "paul-bennewitz",
 "l0": false,
@@ -103,6 +110,7 @@
 "dateEnd": null,
 "dateStart": "1980",
 "direction": "in",
+"edgeId": "e-36e2bf1fd5",
 "edgeLabel": "Filed the AFOSI complaint form documenting the incident",
 "id": "richard-doty",
 "l0": false,
@@ -124,6 +132,7 @@
 "dateEnd": "1980",
 "dateStart": "1980",
 "direction": "out",
+"edgeId": "e-d706b72f95",
 "edgeLabel": "A Sandia security guard is a named reporting party in the AFOSI file",
 "id": "sandia",
 "l0": true,
@@ -180,7 +189,7 @@
 ],
 "sub": "8-9 August 1980, Coyote Canyon and Manzano, Kirtland AFB, New Mexico",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 366 of 1170, score 36). 5 connections, 1 of them custody/funding/programmatic. Axes C2/A2/D1.",
+"tierRationale": "Re-graded B on a global pass (rank 368 of 1138, score 36). 5 connections, 1 of them custody/funding/programmatic. Axes C2/A2/D1.",
 "timeline": [
 {
 "claimTier": null,

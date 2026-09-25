@@ -47,46 +47,55 @@
 ],
 "claims": [
 {
+"id": "c-746cf4f2fc",
 "source": "CHRG-118hhrg57440 CONTENTS and statement of Rep. Mace",
 "text": "Witness of record at the 13 November 2024 House Oversight joint hearing: 'Mr. Michael Shellenberger, Founder of Public'. Chairwoman Mace stated on the record that the 12-page Pentagon document describing the unacknowledged special access program 'Immaculate Constellation' was the document 'that Michael Shellenberger brought today', and entered it into the record without objection.",
 "tier": 1
 },
 {
+"id": "c-22de0bb4da",
 "source": "Micah Hanks, The Debrief, 'Immaculate Constellation: UAP Bombshell or Disinformation?', 17 October 2024",
 "text": "Shellenberger reported the allegations of an alleged US government insider who claims they discovered evidence of an unacknowledged special access program codenamed 'Immaculate Constellation' that has been secretly collecting data on UAP encounters.",
 "tier": 2
 },
 {
+"id": "c-a32445f6bb",
 "source": "Contemporaneous video coverage of the 13 November 2024 hearing; Jesse Michels interview published 14 November 2024",
 "text": "On 13 November 2024 Shellenberger handed a twelve-page document to a House Oversight subcommittee.",
 "tier": 2
 },
 {
+"id": "c-ab3c7abb30",
 "source": "Wikipedia, 'Michael Shellenberger', retrieved 12 August 2026 — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "text": "Shellenberger is co-founder of Public and, as of 2026, on the faculty of the University of Austin.",
 "tier": 2
 },
 {
+"id": "c-9f0b0522af",
 "source": "GPO CHRG-118hhrg57440, Index of Documents",
 "text": "The hearing's Index of Documents records 'Report, Pentagon, Immaculate Constellation; submitted by Rep. Mace.'",
 "tier": 1
 },
 {
+"id": "c-6ae89a86ac",
 "source": "Michael Shellenberger, sworn testimony, 13 November 2024",
 "text": "'Immaculate Constellation serves as a central or parent USAP that consolidates observations of UAPs by both tasked and untasked collection platforms.'",
 "tier": 2
 },
 {
+"id": "c-a9474c782c",
 "source": "DoD statements as reported in UAP coverage, 2024-2026",
 "text": "Pentagon spokesperson Sue Gough said the Department has no record of such a programme; Sean Kirkpatrick also denied its existence.",
 "tier": 2
 },
 {
+"id": "c-cf540c1b0e",
 "source": "Jason Colavito, jasoncolavito.com, as cited in the Wikipedia Schriever wargame article",
 "text": "In 2025 a self-identified whistleblower said he found the programme in a folder labelled '2018 Schriever Wargame'; Jason Colavito concluded the claimant 'apparently mistook fictitious wargame documents for secret UFO revelations.'",
 "tier": 2
 },
 {
+"id": "c-941159a8b2",
 "source": "Inference from the distinct provenance chains of the 2024 document and the 2025 claim",
 "text": "The Schriever attribution addresses a 2025 claimant's account of where he found the name; it does not by itself account for the 12-page document delivered in November 2024 or explain why no AARO product has ever addressed the name entered into the Record.",
 "tier": 3
@@ -102,6 +111,7 @@
 "dateEnd": "2024",
 "dateStart": "2024",
 "direction": "out",
+"edgeId": "e-80741cd484",
 "edgeLabel": "Testified and submitted the report at the 13 November 2024 hearing",
 "id": "hearing-2024-11-13",
 "l0": true,
@@ -123,6 +133,7 @@
 "dateEnd": null,
 "dateStart": "2024-11-13",
 "direction": "out",
+"edgeId": "e-0c01b94255",
 "edgeLabel": "sworn witness; delivered the Immaculate Constellation document",
 "id": "hearing-2024-11-13",
 "l0": true,
@@ -159,6 +170,7 @@
 "dateEnd": "2024",
 "dateStart": "2024",
 "direction": "out",
+"edgeId": "e-aaba882894",
 "edgeLabel": "Brought the alleged USAP into the congressional record",
 "id": "immaculate-constellation",
 "l0": true,
@@ -195,6 +207,7 @@
 "dateEnd": null,
 "dateStart": "2024",
 "direction": "out",
+"edgeId": "e-68bb67dde6",
 "edgeLabel": "Delivered the document to Congress on the morning of the hearing and testified to its contents",
 "id": "immaculate-constellation-12-page-report",
 "l0": true,
@@ -221,6 +234,7 @@
 "dateEnd": "2024",
 "dateStart": "2024",
 "direction": "in",
+"edgeId": "e-8f9b85c547",
 "edgeLabel": "Michels interviewed Shellenberger the day after the hearing",
 "id": "jesse-michels",
 "l0": false,
@@ -312,7 +326,7 @@
 "status": "active",
 "sub": "Co-founder, Public; University of Austin faculty",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 398 of 1170, score 34). 5 connections, 0 of them custody/funding/programmatic. Axes C1/A0/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 397 of 1138, score 34). 5 connections, 0 of them custody/funding/programmatic. Axes C1/A0/D3.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": [

@@ -38,16 +38,19 @@
 ],
 "claims": [
 {
+"id": "c-2e388c5f9c",
 "source": "COMETA, UFOs and Defense: What Should We Prepare For?, foreword by Denis Letty, 1999 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "text": "Letty, foreword: 'The accumulation of well-documented sightings made by credible witnesses forces us to consider from now on all of the hypotheses regarding the origin of unidentified flying objects, or UFOs, and the extraterrestrial hypothesis, in particular.'",
 "tier": 2
 },
 {
+"id": "c-dfb2441cd7",
 "source": "COMETA report, Letty foreword, 1999 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "text": "Letty credits Norlain and André Lebeau, former chairman of CNES, 'without whom COMETA would not have been born', and names Jean-Jacques Velasco, Head of SEPRA at CNES, among contributors.",
 "tier": 2
 },
 {
+"id": "c-44162fd50d",
 "source": "Wikipedia, 'COMETA report', citing Kragel and Couprie, OVNIS, Enquête sur un secret d'état (2010)",
 "text": "COMETA was 'officially registered as a non-profit association under the French law of 1901 on February 24, 1999' and was chaired by retired French Air Force General Denis Letty.",
 "tier": 2
@@ -63,6 +66,7 @@
 "dateEnd": "2006",
 "dateStart": "1996",
 "direction": "out",
+"edgeId": "e-834c8e64c5",
 "edgeLabel": "founded and chaired COMETA",
 "id": "cometa",
 "l0": true,
@@ -125,7 +129,7 @@
 "status": "active",
 "sub": "French Air Force general (2nd Section); founder and chairman of COMETA",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 972 of 1170, score 16). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 944 of 1138, score 16). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": [

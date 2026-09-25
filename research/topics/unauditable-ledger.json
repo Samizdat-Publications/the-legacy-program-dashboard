@@ -1,0 +1,58 @@
+{
+ "id": "unauditable-ledger",
+ "title": "The unauditable ledger: DoD audits, SFFAS 56 and the unsupported trillions",
+ "kind": "mechanism",
+ "section": "secrecy-machinery",
+ "span": {
+  "from": "2016",
+  "to": "2026"
+ },
+ "focusEra": "3",
+ "anchors": [
+  "dod-agencywide-audit",
+  "sffas-56",
+  "fasab",
+  "gao-high-risk-dod-fm",
+  "dodig-2016-113",
+  "skidmore-fitts-report",
+  "mark-skidmore",
+  "catherine-austin-fitts",
+  "dow-financial-mgmt-hearing-2026",
+  "dowig-2026-081"
+ ],
+ "absorbs": [],
+ "essays": [
+  "the-21-trillion-stated-precisely",
+  "sffas-56-what-it-actually-permits",
+  "why-the-failed-audit-is-evidence"
+ ],
+ "status": "draft",
+ "notes": "Start-here flag 8. The Skidmore-Fitts community (eight nodes) is folded in here. The four claims authored under a money domain node that phase 3 could not place belong here.",
+ "appendixT": "unauditable-ledger",
+ "unplacedClaims": [
+  {
+   "collapsedInto": "d-funding",
+   "tier": 1,
+   "claim": "DoD Financial Management Regulation Volume 3, Chapter 6 governs the journal voucher adjustment process at issue in the unsupported-adjustment findings.",
+   "source": "DoD FMR Volume 3, Chapter 6"
+  },
+  {
+   "collapsedInto": "d-funding",
+   "tier": 1,
+   "claim": "DoD OIG DODIG-2016-113 found Army General Fund adjustments were not adequately documented or supported.",
+   "source": "DODIG-2016-113"
+  },
+  {
+   "collapsedInto": "d-funding",
+   "tier": 2,
+   "claim": "Mark Skidmore, an economist at Michigan State University, published research aggregating unsupported adjustments reported in DoD financial statements across multiple fiscal years.",
+   "source": "Skidmore research on DoD unsupported adjustments"
+  },
+  {
+   "collapsedInto": "d-funding",
+   "tier": 3,
+   "claim": "Persistent inability to trace appropriated funds to expenditure is a necessary enabling condition for an unacknowledged programme, but is not by itself evidence of one. Reasoning: the audit failure removes a detection mechanism without generating a positive indication.",
+   "source": "Inference from the DoD audit record"
+  }
+ ]
+}

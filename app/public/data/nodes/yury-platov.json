@@ -22,16 +22,19 @@
 ],
 "claims": [
 {
+"id": "c-dea3955aa6",
 "source": "Stonehill and Mantle, 'Setka: A Secret Soviet UFO Research Program'",
 "text": "'Platov was to be the chief executive at the Izmiran for the SETKA-AN.'",
 "tier": 2
 },
 {
+"id": "c-3a5ca5f1f1",
 "source": "Stonehill and Mantle, quoting Platov and Sokolov, History of State-directed UFO Research in the USSR",
 "text": "Platov and Sokolov's stated reasons for secrecy include 'possibilities that in case of successful completion of the raised tasks some of the UFO characteristics could be used for military purposes.'",
 "tier": 2
 },
 {
+"id": "c-e966c89cce",
 "source": "Stonehill and Mantle",
 "text": "Critics quoted in the same account allege that 'SETKA-AN served as a powerful cover, creating a distraction away from the workings of the Ministry of Defense, whose SETKA-MO is said to have been ... more serious in its investigations than the academic group.'",
 "tier": 2
@@ -51,6 +54,7 @@
 "dateEnd": "1991",
 "dateStart": "1978-10-18",
 "direction": "out",
+"edgeId": "e-e19c9dd63e",
 "edgeLabel": "chief executive for SETKA-AN at IZMIRAN",
 "id": "setka-program",
 "l0": true,
@@ -108,7 +112,7 @@
 "status": "active",
 "sub": "IZMIRAN physicist; chief executive of SETKA-AN and co-author of the official Soviet programme history",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 1001 of 1170, score 15). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D1.",
+"tierRationale": "Re-graded C on a global pass (rank 972 of 1138, score 15). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D1.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": [

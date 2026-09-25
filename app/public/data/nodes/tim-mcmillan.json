@@ -16,11 +16,13 @@
 ],
 "claims": [
 {
+"id": "c-a6fd5747f3",
 "source": "Tim McMillan, Vice, 13 November 2019, and the Laingsburg Police Department report published by The Black Vault 1 July 2019, https://www.theblackvault.com/casefiles/documents-on-2017-bob-lazar-united-nuclear-raid-laingsburg-police-department/ , opened 2026-09-18",
 "text": "He obtained, under a local open-records request, the two-page Laingsburg, Michigan police report documenting the 19 July 2017 FBI search of Bob Lazar's business United Nuclear Scientific, and established through his Vice reporting of 13 November 2019 that the search supported a homicide investigation out of Houghton, Michigan into the thallium death of Janel Sturzl, 31, on 22 December 2015, in which Lazar is not recorded as a suspect. This is the documentary correction to the claim that the raid was about recovering element 115.",
 "tier": 1
 },
 {
+"id": "c-0995c26e6e",
 "source": "The Debrief, About page, retrieved 12 August 2026",
 "text": "Tim McMillan is a co-founder and Executive Director of The Debrief; Micah Hanks is co-founder and Editor-in-Chief; MJ Banias is co-founder and Content Director.",
 "tier": 1
@@ -36,6 +38,7 @@
 "dateEnd": "2019-11-13",
 "dateStart": "2019-07-01",
 "direction": "out",
+"edgeId": "e-19e3d8e4ad",
 "edgeLabel": "Obtained the Laingsburg police report and traced the 2017 raid to a homicide investigation",
 "id": "bob-lazar",
 "l0": false,
@@ -57,6 +60,7 @@
 "dateEnd": "2026",
 "dateStart": "2020",
 "direction": "out",
+"edgeId": "e-db9e130e37",
 "edgeLabel": "Co-founder and Executive Director",
 "id": "the-debrief",
 "l0": false,
@@ -124,7 +128,7 @@
 "status": "active",
 "sub": "Co-founder and Executive Director, The Debrief",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 1019 of 1170, score 14). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 989 of 1138, score 14). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": [

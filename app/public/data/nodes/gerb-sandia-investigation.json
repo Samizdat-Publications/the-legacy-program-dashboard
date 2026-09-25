@@ -5,16 +5,19 @@
 "band": null,
 "claims": [
 {
+"id": "c-6d8d2ec5bb",
 "source": "UAP Gerb, Sandia investigation description, 1 November 2025",
 "text": "USAF MSgt Edgar Fouche claimed Sandia and Lawrence Livermore reverse-engineered the propulsion device for the TR-3B alien reproduction vehicle.",
 "tier": 2
 },
 {
+"id": "c-f7e7223863",
 "source": "UAP Gerb, Sandia investigation description, 1 November 2025",
 "text": "Former New Mexico State Representative J. Andrew Kissner interviewed individuals within legacy programmes and learned that UFO materials were kept in the hands of AEC laboratories such as Sandia.",
 "tier": 2
 },
 {
+"id": "c-d6cfaecf2c",
 "source": "UAP Gerb, Sandia investigation description, 1 November 2025, restating public record — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "text": "Sandia is one of three NNSA R&D laboratories, is an FFRDC sponsored by the Department of Energy, was founded in 1949 and has management history involving AT&T, Lockheed Martin and Honeywell.",
 "tier": 2
@@ -30,6 +33,7 @@
 "dateEnd": "2026",
 "dateStart": "2025",
 "direction": "in",
+"edgeId": "e-3dff29bc31",
 "edgeLabel": "Sandia investigation is the evidentiary bridge for AEC custody",
 "id": "manhattan-project-2",
 "l0": true,
@@ -80,7 +84,7 @@
 ],
 "sub": "Video investigation, 1 Nov 2025",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 600 of 1170, score 28). 1 connections, 1 of them custody/funding/programmatic. Axes C2/A2/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 594 of 1138, score 28). 1 connections, 1 of them custody/funding/programmatic. Axes C2/A2/D2.",
 "timeline": [
 {
 "claimTier": null,

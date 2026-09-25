@@ -5,21 +5,25 @@
 "band": null,
 "claims": [
 {
+"id": "c-a323500aee",
 "source": "https://comptroller.war.gov/Portals/45/documents/fmr/current/03/03_06.pdf — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
 "text": "DoD FMR Volume 3 Chapter 6, 'Reprogramming of DoD Appropriated Funds' (September 2015), establishes Prior Approval Reprogramming (DD 1415-1), Letter Notification (DD 1415-2), Internal Reprogramming (DD 1415-3) and Below-Threshold Reprogramming.",
 "tier": 2
 },
 {
+"id": "c-ca55043d94",
 "source": "https://comptroller.war.gov/Portals/45/documents/fmr/current/03/03_06.pdf — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
 "text": "Below-Threshold Reprogramming permits components to realign funds within prescribed cumulative annual limits without approval or notification.",
 "tier": 2
 },
 {
+"id": "c-50956baf86",
 "source": "https://comptroller.war.gov/Portals/45/documents/fmr/current/03/03_06.pdf — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
 "text": "Congressional approval thresholds: Military Personnel $10 million; Operation and Maintenance $15 million; Procurement $20 million or 20 percent of programme base, whichever is less; RDT&E $10 million or 20 percent of programme base, whichever is less.",
 "tier": 2
 },
 {
+"id": "c-d106a433e1",
 "source": "https://comptroller.war.gov/Portals/45/documents/fmr/current/03/03_06.pdf — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
 "text": "Internal Reprogramming on DD Form 1415-3 is processed entirely within the Department as an audit-trail action, with no congressional action required.",
 "tier": 2
@@ -35,6 +39,7 @@
 "dateEnd": null,
 "dateStart": "2015-09",
 "direction": "out",
+"edgeId": "e-3dbc11c416",
 "edgeLabel": "Below-threshold and internal reprogramming are where the unsupported adjustments live",
 "id": "dod-agencywide-audit",
 "l0": true,
@@ -56,6 +61,7 @@
 "dateEnd": null,
 "dateStart": "2015-09",
 "direction": "out",
+"edgeId": "e-05230040b6",
 "edgeLabel": "The administrative layer beneath the statutory transfer authority",
 "id": "sec-8005-transfer",
 "l0": false,
@@ -122,7 +128,7 @@
 ],
 "sub": "The administrative machinery for moving money after appropriation, including below-threshold reprogramming",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 718 of 1170, score 24). 2 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 706 of 1138, score 24). 2 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D2.",
 "timeline": [
 {
 "claimTier": null,

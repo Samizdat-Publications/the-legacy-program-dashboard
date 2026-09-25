@@ -5,16 +5,19 @@
 "band": "research",
 "claims": [
 {
+"id": "c-e4d9f3948e",
 "source": "Ryan Graves, written testimony, House Oversight, 26 July 2023",
 "text": "'I founded Americans for Safe Aerospace to create a center of support, research, and public education for aircrew impacted by UAP encounters.'",
 "tier": 1
 },
 {
+"id": "c-cea4df5e9d",
 "source": "Ryan Graves, written testimony, House Oversight, 26 July 2023",
 "text": "'We now have nearly 5,000 members and are actively working with more than 30 UAP witnesses who have approached us.'",
 "tier": 1
 },
 {
+"id": "c-722bbd0234",
 "source": "House Oversight Committee hearing page, 26 July 2023",
 "text": "Graves appeared as Executive Director, Americans for Safe Aerospace, on the official House Oversight witness list for the 26 July 2023 hearing.",
 "tier": 1
@@ -30,6 +33,7 @@
 "dateEnd": "2026",
 "dateStart": "2026",
 "direction": "in",
+"edgeId": "e-aeea50dc0a",
 "edgeLabel": "'AARO did not receive reports indicating flight safety concerns during this reporting period'",
 "id": "aaro-fy2025-annual-report",
 "l0": true,
@@ -51,6 +55,7 @@
 "dateEnd": null,
 "dateStart": "2023",
 "direction": "out",
+"edgeId": "e-eac6f1a89c",
 "edgeLabel": "Shared reporting-reform agenda: ASRS and FAA pilot reporting",
 "id": "nasa-uap-ist",
 "l0": true,
@@ -77,6 +82,7 @@
 "dateEnd": null,
 "dateStart": "2021",
 "direction": "in",
+"edgeId": "e-5b1955a7b7",
 "edgeLabel": "Official confirmation of the stigma ASA exists to route around",
 "id": "odni-preliminary-assessment-2021",
 "l0": true,
@@ -103,6 +109,7 @@
 "dateEnd": null,
 "dateStart": "2022",
 "direction": "out",
+"edgeId": "e-fe75903dcf",
 "edgeLabel": "Created in direct response to the reporting failure the encounters exposed",
 "id": "roosevelt-2014-2015",
 "l0": true,
@@ -124,6 +131,7 @@
 "dateEnd": null,
 "dateStart": "2022",
 "direction": "in",
+"edgeId": "e-9a1df969f1",
 "edgeLabel": "Founder and Executive Director",
 "id": "ryan-graves",
 "l0": false,
@@ -150,6 +158,7 @@
 "dateEnd": "2024",
 "dateStart": "2015",
 "direction": "in",
+"edgeId": "e-7ae543f5a2",
 "edgeLabel": "Flag-officer corroboration of the safety-reporting failure ASA was built around",
 "id": "tim-gallaudet",
 "l0": false,
@@ -167,7 +176,7 @@
 "url": "https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf"
 }
 ],
-"tier": "A",
+"tier": "B",
 "type": "programmatic"
 }
 ],
@@ -191,6 +200,7 @@
 },
 "claimTier": 1,
 "denialKind": "directed",
+"edgeId": "e-aeea50dc0a",
 "label": "'AARO did not receive reports indicating flight safety concerns during this reporting period'",
 "note": "The same report records two cases of electronic or avionic interference attributed to UAP in proximity to an operational aircraft. The no-safety-concerns finding is a statement about AARO's intake, not about the sky.",
 "of": {
@@ -332,7 +342,7 @@
 "cls": "person",
 "id": "tim-gallaudet",
 "label": "Timothy Gallaudet",
-"tier": "A"
+"tier": "B"
 }
 ],
 "openQuestions": [],
@@ -359,7 +369,7 @@
 ],
 "sub": "Aircrew advocacy and UAP reporting nonprofit",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 494 of 1170, score 31). 6 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 491 of 1138, score 31). 6 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D3.",
 "timeline": [
 {
 "claimTier": null,

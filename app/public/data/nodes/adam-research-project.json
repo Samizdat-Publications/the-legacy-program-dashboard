@@ -5,51 +5,61 @@
 "band": "reverse-engineering",
 "claims": [
 {
+"id": "c-cabfe87d1f",
 "source": "SEC EDGAR, TTSA Regulation A offering exhibit, 24 July 2020",
 "text": "TTSA's SEC offering materials describe ADAM as acquiring and analysing material samples from advanced aerospace vehicles of unknown origin, in partnership with EarthTech International, with some specimens in documented possession since the mid-1990s.",
 "tier": 1
 },
 {
+"id": "c-5344d76b86",
 "source": "TTSA SEC filing reported by Daniel Oberhaus, Vice, 15 October 2018",
 "text": "TTSA's September 2018 SEC filing recorded preparation to launch research into 'materials relevant to its future plans in Space Time Metric Engineering', partnering with EarthTech in August 2018.",
 "tier": 1
 },
 {
+"id": "c-44acd8d731",
 "source": "TTSA announcement, July 2019; Wikipedia, To The Stars Inc., citing contemporaneous coverage",
 "text": "TTSA announced a metamaterials acquisition in July 2019, paying approximately $35,000 for items including six pieces of bismuth/magnesium-zinc metal and aluminium; Steve Justice said their structure and composition are not from any known existing military or commercial application.",
 "tier": 2
 },
 {
+"id": "c-ec9b541df3",
 "source": "Inference from the sequence of the August 2018 EarthTech partnership, the July 2019 acquisition announcement, and the October 2019 CRADA",
 "text": "ADAM's value to the effort was custodial and legal rather than scientific: it created a private chain of custody for claimed exotic material outside the classification system, which is the only posture under which such material could be handed to an Army laboratory under an unclassified research instrument.",
 "tier": 3
 },
 {
+"id": "c-f1aa52f89a",
 "source": "SEC filings as reported by M.J. Banias, Vice, 4 October 2019",
 "text": "SEC filings record To The Stars paying $35,000 for several items including six pieces of bismuth/magnesium-zinc metal and a piece of aluminium.",
 "tier": 1
 },
 {
+"id": "c-940cc35161",
 "source": "Steve Justice, quoted by M.J. Banias, Vice, 26 July 2019",
 "text": "Steve Justice stated the materials 'have been collected from sources with varying levels of chain-of-custody documentation'.",
 "tier": 2
 },
 {
+"id": "c-2e887f4156",
 "source": "Linda Moulton Howe to M.J. Banias, Vice, 14 November 2019",
 "text": "Linda Moulton Howe says the samples were tested by Carnegie Science's Department of Terrestrial Magnetism in 1996 and again by Harold Puthoff and others on several occasions.",
 "tier": 2
 },
 {
+"id": "c-d0db5ba070",
 "source": "Puthoff letter as reported by Vice, 14 November 2019",
 "text": "A 2012 letter from Puthoff reported that testing had not proved alien origin nor produced any 'interesting/anomalous outcome', with one further test pending for want of equipment.",
 "tier": 2
 },
 {
+"id": "c-f6fcf6fc24",
 "source": "TTSA announcement 17 October 2019; Travis J. Tritten, Bloomberg Government, 21 October 2019",
 "text": "On 17 October 2019 To The Stars entered a five-year CRADA with the US Army Combat Capabilities Development Command covering inertial mass reduction, mechanical/structural metamaterials, electromagnetic metamaterial waveguides, quantum physics, quantum communications and beamed energy propulsion, with at least $750,000 in Army support and resources and no public funding to the company.",
 "tier": 2
 },
 {
+"id": "c-465fcfda79",
 "source": "Reconstruction from the Vice reporting, the SEC filing and the CRADA announcement; no single document sets out the full chain",
 "text": "The ADAM chain of custody is: an anonymous source to Art Bell in the 1990s, to Linda Moulton Howe, to Carnegie DTM (1996) and Puthoff (through 2012), to To The Stars for $35,000 (July 2019), to a US Army CRADA (October 2019) - and then nothing. It goes dark at the point where a federal research agreement should have generated a record.",
 "tier": 3
@@ -65,6 +75,7 @@
 "dateEnd": "2019",
 "dateStart": "1996",
 "direction": "out",
+"edgeId": "e-c3bf086871",
 "edgeLabel": "Custody chain: anonymous source to Art Bell, to Linda Moulton Howe, to Carnegie DTM (1996), to Puthoff, to TTSA (2019), to the US Army",
 "id": "d-materials",
 "l0": false,
@@ -91,6 +102,7 @@
 "dateEnd": "2021",
 "dateStart": "2018",
 "direction": "out",
+"edgeId": "e-f0a242043d",
 "edgeLabel": "Research partnership from August 2018",
 "id": "earthtech-international",
 "l0": true,
@@ -117,6 +129,7 @@
 "dateEnd": null,
 "dateStart": "2019",
 "direction": "out",
+"edgeId": "e-a858e2c144",
 "edgeLabel": "Samples routed to laboratories founded by Puthoff",
 "id": "harold-puthoff",
 "l0": false,
@@ -143,6 +156,7 @@
 "dateEnd": null,
 "dateStart": "2019",
 "direction": "out",
+"edgeId": "e-2e18001412",
 "edgeLabel": "Justice, ex-Lockheed Skunk Works Advanced Systems director, fronted the acquisition",
 "id": "steve-justice",
 "l0": false,
@@ -164,6 +178,7 @@
 "dateEnd": "2020",
 "dateStart": "2019",
 "direction": "in",
+"edgeId": "e-78425ef1c5",
 "edgeLabel": "Public technical voice: material 'not from any known existing military or commercial application'",
 "id": "steve-justice",
 "l0": false,
@@ -190,6 +205,7 @@
 "dateEnd": "2021",
 "dateStart": "2018",
 "direction": "in",
+"edgeId": "e-02e6600133",
 "edgeLabel": "ADAM: acquisition and analysis of claimed exotic material",
 "id": "ttsa",
 "l0": true,
@@ -218,9 +234,32 @@
 {
 "claimTier": 2,
 "cls": "document",
+"dateEnd": "2024",
+"dateStart": "2019",
+"direction": "out",
+"edgeId": "e-62a26e2553",
+"edgeLabel": "ADAM materials became the subject of a five-year Army CRADA",
+"id": "ttsa-army-crada",
+"l0": true,
+"label": "CRADA between U.S. Army Ground Vehicle Systems Center and To The Stars Academy",
+"note": "On 17 October 2019 TTSA entered a CRADA with the US Army Combat Capabilities Development Command covering inertial mass reduction, metamaterials, quantum physics and beamed energy propulsion, with at least $750,000 in Army support and no public funding to the company.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia: To The Stars Inc.",
+"url": "https://en.wikipedia.org/wiki/To_the_Stars_(company)."
+}
+],
+"tier": "A",
+"type": "funding"
+},
+{
+"claimTier": 2,
+"cls": "document",
 "dateEnd": "2023",
 "dateStart": "2019",
 "direction": "out",
+"edgeId": "e-f551689f7b",
 "edgeLabel": "ADAM is the predicate for the Army agreement",
 "id": "ttsa-army-crada",
 "l0": true,
@@ -235,33 +274,12 @@
 ],
 "tier": "A",
 "type": "programmatic"
-},
-{
-"claimTier": 2,
-"cls": "document",
-"dateEnd": "2024",
-"dateStart": "2019",
-"direction": "out",
-"edgeLabel": "ADAM materials became the subject of a five-year Army CRADA",
-"id": "ttsa-army-crada-2019",
-"l0": false,
-"label": "To The Stars Academy - US Army CCDC Cooperative Research and Development Agreement (17 October 2019)",
-"note": "On 17 October 2019 TTSA entered a CRADA with the US Army Combat Capabilities Development Command covering inertial mass reduction, metamaterials, quantum physics and beamed energy propulsion, with at least $750,000 in Army support and no public funding to the company.",
-"sources": [
-{
-"date": "2026-08-12",
-"name": "Wikipedia: To The Stars Inc.",
-"url": "https://en.wikipedia.org/wiki/To_the_Stars_(company)."
-}
-],
-"tier": "C",
-"type": "funding"
 }
 ],
 "coords": null,
 "dateEnd": "2021",
 "dateStart": "2018",
-"deg": 7,
+"deg": 6,
 "denials": [],
 "desc": "The ADAM Research Project is the only publicly documented attempt to move alleged UAP material from private hands into a formal government research relationship, and it is a case study in what a broken chain of custody looks like. To The Stars Academy announced in July 2019 that it had acquired and was studying 'potentially exotic materials'. Its COO Steve Justice - former director of Advanced Systems at Lockheed Martin's Skunk Works - said 'the structure and composition of these materials are not from any known existing military or commercial application' and, with unusual candour, that the materials 'have been collected from sources with varying levels of chain-of-custody documentation, so we are focusing on verifiable facts and working to develop independent scientific proof of the materials' properties and attributes.' SEC filings record TTSA paying $35,000 for several items including six pieces of bismuth/magnesium-zinc metal and a piece of aluminium. Those samples had previously been retained and studied by ufologist Linda Moulton Howe, who says she had them tested by the Carnegie Institution's Department of Terrestrial Magnetism in 1996 and subsequently by Harold Puthoff on several occasions. A 2012 letter from Puthoff reported that the tests had not proved alien origin nor produced any 'interesting/anomalous outcome', with one further test outstanding for want of specialised equipment. TTSA then partnered with laboratories founded by Puthoff to continue the work, and on 17 October 2019 entered a five-year cooperative research and development agreement with the US Army Combat Capabilities Development Command covering inertial mass reduction, mechanical and structural metamaterials, electromagnetic metamaterial waveguides, quantum physics, quantum communications and beamed energy propulsion. No analytical results have been published. Chemists including Richard Sachleben and May Nyman have said any unknown alloy would be identified within hours at any competent laboratory; Chris Cogswell suggested the bismuth/magnesium-zinc pieces are Betterton-Kroll process slag.",
 "domains": [],
@@ -420,12 +438,6 @@
 "id": "steve-justice",
 "label": "Steve Justice",
 "tier": "B"
-},
-{
-"cls": "document",
-"id": "ttsa-army-crada-2019",
-"label": "To The Stars Academy - US Army CCDC Cooperative Research and Development Agreement (17 October 2019)",
-"tier": "C"
 }
 ],
 "openQuestions": [],
@@ -499,7 +511,7 @@
 ],
 "sub": "TTSA materials program run with EarthTech International",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 82 of 1170, score 69). 8 connections, 7 of them custody/funding/programmatic. Axes C3/A1/D2.",
+"tierRationale": "Re-graded A on a global pass (rank 86 of 1138, score 69). 8 connections, 7 of them custody/funding/programmatic. Axes C3/A1/D2.",
 "timeline": [
 {
 "claimTier": null,

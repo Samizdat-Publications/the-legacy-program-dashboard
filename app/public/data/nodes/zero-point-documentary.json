@@ -5,41 +5,49 @@
 "band": null,
 "claims": [
 {
+"id": "c-8b66744d34",
 "source": "https://vimeo.com/channels/942663 , read 2026-09-18",
 "text": "A Vimeo channel titled 'Zero Point: The Story of Mark McCandlish and the Flux Liner', created by 'James Gladman', with 27 followers and no videos, carries the description verbatim: 'This Channel is dedicated the the film, and to the late Writer-Director James Allen.'",
 "tier": 1
 },
 {
+"id": "c-f43187ab36",
 "source": "https://www.arvp.co.uk/flux-01/ , read 2026-09-18",
 "text": "The arvp.co.uk FLUX 1988 page links the film under the text 'Full Documentary Zero Point The Story of Mark McCandlish and the Fluxliner', pointing at https://www.youtube.com/watch?v=afLsRsd5roY&t=3629s . That video was not opened.",
 "tier": 1
 },
 {
+"id": "c-ea6917bb9e",
 "source": "IMDb tt6111304, https://www.imdb.com/title/tt6111304/, opened 18 September 2026. IMDb is user-maintained and the film itself was not opened.",
 "text": "IMDb tt6111304 gives the title 'Zero Point: The Story of Mark McCandlish and the Flux Liner', the year 2013, a runtime of 1h 32m and the genre Documentary. IMDb is user-maintained and the film itself was not opened.",
 "tier": 2
 },
 {
+"id": "c-fcaf0b9ca4",
 "source": "IMDb tt6111304, https://www.imdb.com/title/tt6111304/, opened 18 September 2026. IMDb is user-maintained and the film itself was not opened.",
 "text": "IMDb tt6111304 gives a US release date of 2 June 2013. IMDb is user-maintained and the film itself was not opened.",
 "tier": 2
 },
 {
+"id": "c-a4c6556883",
 "source": "IMDb tt6111304, https://www.imdb.com/title/tt6111304/, opened 18 September 2026. IMDb is user-maintained and the film itself was not opened.",
 "text": "IMDb tt6111304 credits James Allen as both director and writer. IMDb is user-maintained and the film itself was not opened.",
 "tier": 2
 },
 {
+"id": "c-2449a963e8",
 "source": "IMDb tt6111304, https://www.imdb.com/title/tt6111304/, opened 18 September 2026. IMDb is user-maintained and the film itself was not opened.",
 "text": "IMDb tt6111304 credits Mark McCandlish as 'Self - Guest', the only listed cast member. IMDb is user-maintained and the film itself was not opened.",
 "tier": 2
 },
 {
+"id": "c-696ab2bf4d",
 "source": "IMDb tt6111304, https://www.imdb.com/title/tt6111304/, opened 18 September 2026. IMDb is user-maintained and the film itself was not opened.",
 "text": "IMDb tt6111304 gives an estimated budget of $5,000. IMDb is user-maintained and the film itself was not opened.",
 "tier": 2
 },
 {
+"id": "c-62c4827382",
 "source": "IMDb tt6111304, https://www.imdb.com/title/tt6111304/, opened 18 September 2026. IMDb is user-maintained and the film itself was not opened.",
 "text": "IMDb tt6111304 showed a user rating of 8.3 out of 10 from 34 ratings as opened on 18 September 2026. IMDb is user-maintained, the rating is a user aggregate, and the film itself was not opened.",
 "tier": 2
@@ -57,6 +65,7 @@
 "dateEnd": "2013-06-02",
 "dateStart": "2013-06-02",
 "direction": "out",
+"edgeId": "e-9c7f8f9791",
 "edgeLabel": "A feature documentary carrying the claim to a later audience",
 "id": "arv-fluxliner",
 "l0": true,
@@ -83,6 +92,7 @@
 "dateEnd": "2013-06-02",
 "dateStart": "2013-06-02",
 "direction": "out",
+"edgeId": "e-509f666d13",
 "edgeLabel": "The film is about him and names him in its title",
 "id": "mark-mccandlish",
 "l0": false,
@@ -148,7 +158,7 @@
 ],
 "sub": "Feature documentary on McCandlish and the claimed craft; writer-director James Allen is dead",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 720 of 1170, score 24). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 709 of 1138, score 24). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.",
 "timeline": [
 {
 "claimTier": null,

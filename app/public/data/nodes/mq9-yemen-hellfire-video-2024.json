@@ -5,11 +5,13 @@
 "band": null,
 "claims": [
 {
+"id": "c-98572ef451",
 "source": "https://defensescoop.com/2025/09/09/military-whistleblowers-share-new-evidence-alleged-uap-ufo-hearing/",
 "text": "Rep. Burlison unveiled at the 9 September 2025 hearing video of a US MQ-9 firing a Hellfire missile at a high-speed orb off Yemen's coast in October 2024; the object appeared impacted but not destroyed.",
 "tier": 2
 },
 {
+"id": "c-95040181d1",
 "source": "https://earthsky.org/human-world/pentagon-uap-files-batch-5-ufos-orbs-triangles/",
 "text": "Taken with DOW-UAP-PR051 (MQ-9 weapons-quality lock, Jordan-Syria border) and the Gulf of Oman AC-130J set with DOW-UAP-D101, the record now contains multiple US weapons employments or weapons-grade engagements against unidentified objects that were not destroyed, none of which is characterised as an engagement in any AARO annual report. Reasoning: the three events are separately sourced and the FY2023-FY2025 annual reports contain no engagement category.",
 "tier": 3
@@ -25,6 +27,7 @@
 "dateEnd": null,
 "dateStart": "2025-09-09",
 "direction": "in",
+"edgeId": "e-8d96634d77",
 "edgeLabel": "first public showing",
 "id": "eric-burlison",
 "l0": false,
@@ -46,6 +49,7 @@
 "dateEnd": "2026-08-07",
 "dateStart": "2021-09-08",
 "direction": "out",
+"edgeId": "e-5f87e46c8a",
 "edgeLabel": "two documented US weapons engagements of unidentified objects",
 "id": "gulf-of-oman-ac130j-2021",
 "l0": false,
@@ -106,7 +110,7 @@
 ],
 "sub": "Video first shown publicly by Rep. Burlison, 9 September 2025",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 692 of 1170, score 25). 2 connections, 0 of them custody/funding/programmatic. Axes C2/A2/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 681 of 1138, score 25). 2 connections, 0 of them custody/funding/programmatic. Axes C2/A2/D3.",
 "timeline": [
 {
 "claimTier": 2,

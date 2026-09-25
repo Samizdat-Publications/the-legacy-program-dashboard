@@ -18,11 +18,13 @@
 ],
 "claims": [
 {
+"id": "c-9d97f80e3f",
 "source": "Nicola Fox, NASA UAP report media briefing, 14 September 2023",
 "text": "'The language of scientists is data.'",
 "tier": 2
 },
 {
+"id": "c-25ea6caabb",
 "source": "The Debrief, 14 September 2023; NASA UAP briefing",
 "text": "NASA announced the appointment of a Director of UAP Research at the 14 September 2023 briefing but did not disclose the individual's name at that briefing; a subsequent statement identified Mark McInerney.",
 "tier": 1
@@ -38,6 +40,7 @@
 "dateEnd": "2023",
 "dateStart": "2023",
 "direction": "out",
+"edgeId": "e-2d18c036ab",
 "edgeLabel": "NASA announced the UAP research director but withheld the name at the briefing",
 "id": "mark-mcinerney",
 "l0": false,
@@ -59,6 +62,7 @@
 "dateEnd": null,
 "dateStart": "2023-09-14",
 "direction": "out",
+"edgeId": "e-f22097be10",
 "edgeLabel": "Announced the appointment of a NASA Director of UAP Research",
 "id": "nasa",
 "l0": true,
@@ -80,6 +84,7 @@
 "dateEnd": "2023",
 "dateStart": "2023",
 "direction": "out",
+"edgeId": "e-db853ade8a",
 "edgeLabel": "NASA science chief at the report release briefing",
 "id": "nasa-uap-ist",
 "l0": true,
@@ -116,6 +121,7 @@
 },
 "claimTier": 1,
 "denialKind": "directed",
+"edgeId": "e-2d18c036ab",
 "label": "NASA announced the UAP research director but withheld the name at the briefing",
 "note": "The agency that had spent a year arguing stigma prevents UAP science then shielded its own appointee from that stigma by not naming him; subsequent reporting identified Mark McInerney.",
 "of": {
@@ -177,7 +183,7 @@
 "status": "active",
 "sub": "Associate Administrator, NASA Science Mission Directorate (2023- )",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 932 of 1170, score 17). 3 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D1.",
+"tierRationale": "Re-graded C on a global pass (rank 907 of 1138, score 17). 3 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D1.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": [

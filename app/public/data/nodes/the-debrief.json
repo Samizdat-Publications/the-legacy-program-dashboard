@@ -5,16 +5,19 @@
 "band": null,
 "claims": [
 {
+"id": "c-cbd47d9c44",
 "source": "The Debrief, About page, retrieved 12 August 2026",
 "text": "The Debrief's founders are Micah Hanks (Co-Founder/Creator, Editor-in-Chief), Tim McMillan (Co-Founder, Executive Director) and MJ Banias (Co-Founder, Content Director); staff include Chrissy Newton, Chris Plain and Steve McDaniel; contributors include Avi Loeb.",
 "tier": 1
 },
 {
+"id": "c-c6242914a5",
 "source": "The Debrief; corroborated by Wikipedia entries for Leslie Kean and Ralph Blumenthal — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "text": "The Debrief published Kean and Blumenthal's David Grusch story on 5 June 2023.",
 "tier": 2
 },
 {
+"id": "c-4a5485ad49",
 "source": "The Debrief archive, retrieved 12 August 2026",
 "text": "The Debrief has published sustained coverage of the disclosure fight including 'Immaculate Constellation: UAP Bombshell or Disinformation?', 'The 2024 AARO Report', 'Where The Second UAP Disclosure Act Failure May Now Steer The Ark of Human History' and 'Former Officials Warn Lawmakers of Alleged Secret UAP Programs Operating Beyond Congressional Oversight'.",
 "tier": 1
@@ -30,6 +33,7 @@
 "dateEnd": "2023",
 "dateStart": "2023",
 "direction": "in",
+"edgeId": "e-9de889acc5",
 "edgeLabel": "The Debrief published the Grusch story the NYT did not run",
 "id": "leslie-kean",
 "l0": false,
@@ -51,6 +55,7 @@
 "dateEnd": "2026",
 "dateStart": "2020",
 "direction": "in",
+"edgeId": "e-2cdc0e2c56",
 "edgeLabel": "Co-founder, Creator and Editor-in-Chief",
 "id": "micah-hanks",
 "l0": false,
@@ -72,6 +77,7 @@
 "dateEnd": "2023",
 "dateStart": "2017",
 "direction": "out",
+"edgeId": "e-84d979aab0",
 "edgeLabel": "Successor venue to the 2017 New York Times story",
 "id": "nyt-2017-12-16",
 "l0": true,
@@ -93,6 +99,7 @@
 "dateEnd": "2026",
 "dateStart": "2020",
 "direction": "in",
+"edgeId": "e-db9e130e37",
 "edgeLabel": "Co-founder and Executive Director",
 "id": "tim-mcmillan",
 "l0": false,
@@ -153,7 +160,7 @@
 ],
 "sub": "Independent science and defence outlet",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 920 of 1170, score 18). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 895 of 1138, score 18). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.",
 "timeline": [
 {
 "claimTier": null,

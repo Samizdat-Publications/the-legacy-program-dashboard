@@ -5,21 +5,25 @@
 "band": null,
 "claims": [
 {
+"id": "c-5f5aa9e538",
 "source": "Tim Gallaudet, written testimony, House Oversight, 13 November 2024",
 "text": "The email's subject line was 'URGENT SAFETY OF FLIGHT ISSUE' and it carried the GO FAST video.",
 "tier": 2
 },
 {
+"id": "c-8dc6a6819b",
 "source": "Gallaudet written testimony quoting the Fleet Forces Command operations officer, 13 November 2024",
 "text": "'If any of you know what these are, tell me ASAP. We are having multiple near-midair collisions, and if we do not resolve it soon, we will have to shut down the exercise.'",
 "tier": 2
 },
 {
+"id": "c-5dd1879261",
 "source": "Gallaudet written testimony, 13 November 2024",
 "text": "The email vanished from Gallaudet's and other recipients' accounts 'without explanation' the next day.",
 "tier": 2
 },
 {
+"id": "c-5bed5216ea",
 "source": "Gallaudet written testimony, 13 November 2024",
 "text": "Gallaudet concluded the information 'must have been classified within a special access program managed by an intelligence agency.'",
 "tier": 2
@@ -35,6 +39,7 @@
 "dateEnd": "2015",
 "dateStart": "2015",
 "direction": "out",
+"edgeId": "e-8f033667e4",
 "edgeLabel": "The recalled fleet safety message carried the GO FAST video",
 "id": "gofast-video",
 "l0": false,
@@ -56,6 +61,7 @@
 "dateEnd": "2024",
 "dateStart": "2015",
 "direction": "out",
+"edgeId": "e-f4cc5a6307",
 "edgeLabel": "Gallaudet's inference points at an unacknowledged SAP; Shellenberger named one",
 "id": "immaculate-constellation",
 "l0": true,
@@ -82,6 +88,7 @@
 "dateEnd": "2023",
 "dateStart": "2015",
 "direction": "in",
+"edgeId": "e-9ecfe6f85f",
 "edgeLabel": "Two independent traces of the same suppression at fleet level",
 "id": "navy-range-fouler-reports",
 "l0": false,
@@ -108,6 +115,7 @@
 "dateEnd": "2015",
 "dateStart": "2015",
 "direction": "out",
+"edgeId": "e-10bbb7aa64",
 "edgeLabel": "Command-level reaction to the encounter series",
 "id": "roosevelt-2014-2015",
 "l0": true,
@@ -134,6 +142,7 @@
 "dateEnd": "2024",
 "dateStart": "2015",
 "direction": "in",
+"edgeId": "e-537ea3d25d",
 "edgeLabel": "Recipient of the message and the witness to its deletion",
 "id": "tim-gallaudet",
 "l0": false,
@@ -146,7 +155,7 @@
 "url": "https://oversight.house.gov/wp-content/uploads/2024/11/Updated-Testimony-Gallaudet.pdf"
 }
 ],
-"tier": "A",
+"tier": "B",
 "type": "witness-chain"
 }
 ],
@@ -208,7 +217,7 @@
 ],
 "sub": "Recalled Navy fleet-wide safety message carrying the GO FAST video",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 323 of 1170, score 38). 5 connections, 2 of them custody/funding/programmatic. Axes C1/A3/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 324 of 1138, score 38). 5 connections, 2 of them custody/funding/programmatic. Axes C1/A3/D3.",
 "timeline": [
 {
 "claimTier": null,

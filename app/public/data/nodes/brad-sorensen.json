@@ -8,31 +8,37 @@
 "chronology": [],
 "claims": [
 {
+"id": "c-30d6784be6",
 "source": "William B. Scott, interview notes on 'Brad', https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf , transcript p 1, 1990-12-11",
 "text": "Scott's typed notes open: 'NOTES FROM INTERVIEW ON 12-3-90 WITH BRAD' and 'COMPILED 12-11-90; SCOTT/AVWK LANCASTER', and give the interview's terms: 'He agreed to a one-hr. session in his Pasadena office, pointedly telling me that he gets $200/hr. for his time, and one hr. was all he could give me.'",
 "tier": 1
 },
 {
+"id": "c-698de70209",
 "source": "William B. Scott, interview notes on 'Brad', https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf , transcript p 1, 1990-12-11",
 "text": "The document profiles him with no surname: 'Brad: A mid-30s designer; grad of Pasadena Art Center, taking engr'g. classes at Cal Tech now to keep up. Is a very successful designer, having clients such as Rossignol(?) skis, Mazda (new RX-7 design, beginning in 86), electric toothbrushes, motorcycle helmets, etc. Has own design business, including prototyping shops.'",
 "tier": 1
 },
 {
+"id": "c-2f333a5803",
 "source": "William B. Scott, interview notes on 'Brad', https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf , transcript p 1, 1990-12-11",
 "text": "The same page records his own assessment of his aviation knowledge and his reluctance: he 'Claims to be a private pilot, but didn't seem to have a lot of knowledge about military aircraft types', and he 'refused to talk with me last summer', preferring to 'let the whole thing drop; it never made me a dime, and has hurt my own business and professional credibility.'",
 "tier": 1
 },
 {
+"id": "c-0d4b14b2bc",
 "source": "William B. Scott, interview notes on 'Brad', https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf , transcript p 1, 1990-12-03",
 "text": "He told Scott on 3 December 1990: 'I wish I hadn't even seen those things; they've been nothing but trouble for me since then.'",
 "tier": 1
 },
 {
+"id": "c-1bca13f61e",
 "source": "William B. Scott, interview notes on 'Brad', https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf , transcript p 1, 1990-12-11",
 "text": "The document establishes the direction of the relay: 'Brad is the source of artwork done by Mark McCandlish and featured in AVWK's Oct. 1 issue. Mark had painted the two aircraft from verbal descriptions provided by Brad'.",
 "tier": 1
 },
 {
+"id": "c-0702023b8e",
 "source": "Disclosure Project Briefing Document, section 3.8.5, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt , 2000-12",
 "text": "The name 'Sorensen' reaches the record through McCandlish, not through the primary document. McCandlish's 2001 testimony gives 'a fellow by the name of Brad Sorensen', whom he knew 'in school' and who called him again 'eight years after school'. No opened record carries the surname in the witness's own voice or over his own signature.",
 "tier": 2
@@ -48,6 +54,7 @@
 "dateEnd": "1990-12-10",
 "dateStart": "1988-11-12",
 "direction": "out",
+"edgeId": "e-e17e072da8",
 "edgeLabel": "Sole claimed eyewitness to the three craft",
 "id": "arv-fluxliner",
 "l0": true,
@@ -69,6 +76,7 @@
 "dateEnd": "1990-12-11",
 "dateStart": "1988-11",
 "direction": "in",
+"edgeId": "e-9b387571b2",
 "edgeLabel": "Painted the craft from Sorensen's verbal description; he was not at the air show",
 "id": "mark-mccandlish",
 "l0": false,
@@ -90,6 +98,7 @@
 "dateEnd": "1988-11-12",
 "dateStart": "1988-11-12",
 "direction": "out",
+"edgeId": "e-26afe98e1d",
 "edgeLabel": "Sole claimed eyewitness to the alleged hangar exhibit",
 "id": "norton-afb-airshow-1988",
 "l0": false,
@@ -111,6 +120,7 @@
 "dateEnd": "1990-12-11",
 "dateStart": "1990-12-03",
 "direction": "out",
+"edgeId": "e-431b838916",
 "edgeLabel": "Interviewee; the notes are his account in his own words",
 "id": "scott-sorensen-notes-1990",
 "l0": false,
@@ -170,7 +180,7 @@
 "status": "active",
 "sub": "Industrial designer; sole claimed eyewitness to the alleged classified exhibit at Norton AFB on 12 November 1988; interviewed by an Aviation Week editor on 3 December 1990",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 512 of 1170, score 30). 4 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D1.",
+"tierRationale": "Re-graded B on a global pass (rank 510 of 1138, score 30). 4 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D1.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": [

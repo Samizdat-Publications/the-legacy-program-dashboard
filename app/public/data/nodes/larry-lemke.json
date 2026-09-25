@@ -16,6 +16,7 @@
 ],
 "claims": [
 {
+"id": "c-9597182f08",
 "source": "Progress in Aerospace Sciences, DOI 10.1016/j.paerosci.2021.100788",
 "text": "Lemke is a co-author of Progress in Aerospace Sciences 128 (2022) 100788 with Nolan, Vallee and Jiang.",
 "tier": 1
@@ -31,6 +32,7 @@
 "dateEnd": null,
 "dateStart": "2022",
 "direction": "out",
+"edgeId": "e-2a1bc41b34",
 "edgeLabel": "NASA Ames aerospace engineer supplying the exclusion arguments",
 "id": "paper-nolan-vallee-2022",
 "l0": true,
@@ -98,7 +100,7 @@
 "status": "active",
 "sub": "Retired NASA Ames Research Center aerospace engineer; co-author of the 2022 Nolan-Vallee materials analysis",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 1044 of 1170, score 13). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D1.",
+"tierRationale": "Re-graded C on a global pass (rank 1014 of 1138, score 13). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D1.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": []

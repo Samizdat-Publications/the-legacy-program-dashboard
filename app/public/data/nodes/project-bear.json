@@ -5,6 +5,7 @@
 "band": null,
 "claims": [
 {
+"id": "c-6cd1f92fbb",
 "source": "AARO, Historical Record Report Volume I, March 2024",
 "text": "'Project BEAR was an informal name given by Capt Ruppelt... to a contract he created with the Battelle Memorial Institute (BMI) to provide scientific support to the new Project GRUDGE.' Battelle 'released a report under the cover of ATIC to maintain its anonymity. Completed in late 1954, the report was titled Special Report No. 14.'",
 "tier": 1
@@ -20,6 +21,7 @@
 "dateEnd": "1954",
 "dateStart": "1954",
 "direction": "out",
+"edgeId": "e-15c6faaab0",
 "edgeLabel": "Battelle's authorship of Special Report No. 14 was deliberately concealed behind an ATIC cover",
 "id": "battelle",
 "l0": true,
@@ -41,6 +43,7 @@
 "dateEnd": "1954",
 "dateStart": "1951",
 "direction": "in",
+"edgeId": "e-f03315e434",
 "edgeLabel": "Battelle held the Project BEAR contract supplying the science behind Project GRUDGE and BLUE BOOK",
 "id": "battelle",
 "l0": true,
@@ -74,6 +77,7 @@
 "by": null,
 "claimTier": 1,
 "denialKind": "undirected",
+"edgeId": "e-15c6faaab0",
 "label": "Battelle's authorship of Special Report No. 14 was deliberately concealed behind an ATIC cover",
 "note": "AARO states that Battelle 'released a report under the cover of ATIC to maintain its anonymity.' The first public analytical product of the government's UFO investigation was ghost-written by a private contractor at the contractor's request.",
 "of": null,
@@ -115,7 +119,7 @@
 ],
 "sub": "Contractor scientific support to Project GRUDGE and BLUE BOOK, 1951-1954",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 604 of 1170, score 28). 2 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A2/D1.",
+"tierRationale": "Re-graded C on a global pass (rank 598 of 1138, score 28). 2 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A2/D1.",
 "timeline": [
 {
 "claimTier": null,

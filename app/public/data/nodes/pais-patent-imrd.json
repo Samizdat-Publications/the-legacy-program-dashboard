@@ -5,86 +5,103 @@
 "band": null,
 "claims": [
 {
+"id": "c-d5d463b6da",
 "source": "https://www.freepatentsonline.com/10144532.html",
 "text": "US Patent 10,144,532, 'Craft using an inertial mass reduction device', application number 15/141270, filing date 28 April 2016, publication date 4 December 2018, assignee 'The United States of America as represented by the Secretary of the Navy', international class B64G1/40.",
 "tier": 2
 },
 {
+"id": "c-0722a6873a",
 "source": "https://www.freepatentsonline.com/10144532.html",
 "text": "The abstract begins 'A craft using an inertial mass reduction device comprises of an inner resonant cavity wall, an outer resonant cavity, and microwave emitters'.",
 "tier": 2
 },
 {
+"id": "c-3f8b004f6f",
 "source": "USPTO application data for 15/141270 (product PTGRXML, data.uspto.gov), retrieved from the file wrapper 28 August 2026",
 "text": "US 10,144,532 is EXPIRED. USPTO application data gives application status 'Patent Expired Due to NonPayment of Maintenance Fees Under 37 CFR 1.362' with a status date of 9 January 2023, following a maintenance fee reminder mailed 25 July 2022. The Navy prosecuted the application through a formal appeal to obtain the grant in December 2018 and then did not pay the first maintenance fee, so the invention passed into the public domain.",
 "tier": 1
 },
 {
+"id": "c-3f134f14ee",
 "source": "USPTO application data for 15/141270 (product PTGRXML, data.uspto.gov), retrieved from the file wrapper 28 August 2026",
 "text": "The grant was obtained through a formal appeal, not a letter. The recorded sequence is: non-final rejection 22 November 2017; applicant-initiated telephonic examiner interview 17 January 2018 at which 'no agreement was reached'; final rejection 27 March 2018; response after final 24 May 2018 carrying a declaration under 37 C.F.R. 1.132 signed by Dr James Sheehy on 11 May 2018; Notice of Appeal filed 21 June 2018; Advisory Action 11 July 2018 refusing to allow; Appeal Brief filed 21 August 2018, re-filing the SAME 11 May declaration in its Evidence Appendix rather than a second one; Appeal Brief Review Complete 5 September 2018; Reasons for Allowance 24 October 2018; Notice of Allowance 31 October 2018; granted 4 December 2018. The examiner allowed the application before the Patent Trial and Appeal Board ever ruled.",
 "tier": 1
 },
 {
+"id": "c-aebf6489bc",
 "source": "USPTO file wrapper, application 15/141,270 (PAX 205), retrieved from USPTO Patent Center 28 August 2026; document images JLZJWBOMRXEAPX0.pdf and JLZJWBOORXEAPX0.pdf, Appeal Brief under 37 C.F.R. 41.37 faxed 20 August 2018; notes at research/patents/wrapper/appeal-brief-2018-08-20.txt",
 "text": "The independent claim is narrow and mechanical. As summarised in the Appeal Brief, claim 1 is the only independent claim and recites an inner resonant cavity wall, an outer resonant cavity wall and microwave emitters; the emitters create high frequency electromagnetic waves throughout the resonant cavity, causing the outer wall to vibrate in an accelerated mode and create a local polarized vacuum outside it. There are four claims in total.",
 "tier": 1
 },
 {
+"id": "c-49f09a860e",
 "source": "USPTO file wrapper, application 15/141,270, Non-Final Rejection mailed 28 November 2017 (Paper No. 20171122), examiner Philip J. Bonzell, Art Unit 3644",
 "text": "The examiner quantified the objection rather than gesturing at it. The Non-Final Rejection of 28 November 2017 holds that polarising a quantum vacuum as claimed 'would take 10^9 teslas and 10^18V/m', that 'these levels are not feasible with current technology', and asks: 'The largest magnetic field ever created is 10^3 teslas and a neutron star is 10^6 teslas so how are you using a microwave emitter that produces a magnetic field that is three orders of magnitude greater than a neutron star?' The same passage is repeated verbatim in the Final Rejection of 30 March 2018.",
 "tier": 1
 },
 {
+"id": "c-eacf888d75",
 "source": "USPTO file wrapper, application 15/141,270, Final Rejection mailed 30 March 2018 (Paper No. 20180327), examiner Philip J. Bonzell; transcribed at research/patents/wrapper/final-rejection-2018-03-30.txt; compared against research/patents/wrapper/sheehy-letter-2017-12-15.txt",
 "text": "The 'declaration by Dr. James Sheehy under 37 CFR 1.132 filed 1/23/2018' that the Final Rejection answers is the letter of 15 December 2017. The examiner's section 6 replies to exactly three arguments, in the order the letter makes them: that lasers evolved beyond what was first possible, that Pais 'is funded and working on experiments', and that China is investing. Those are paragraphs 1, 2-4 and 5 of the Sheehy letter. No separate January 2018 declaration appears anywhere in the wrapper.",
 "tier": 1
 },
 {
+"id": "c-04bc88a6e2",
 "source": "USPTO file wrapper, application 15/141,270, Final Rejection mailed 30 March 2018 (Paper No. 20180327), examiner Philip J. Bonzell; transcribed at research/patents/wrapper/final-rejection-2018-03-30.txt",
 "text": "The examiner refused the China argument in writing, which is the argument the secondary accounts credit with winning the patent: 'With respect to third argument that China is already investing significantly in this area, this has nothing to do with what is patentable. If anyone else filed this Application they would receive the same rejection.'",
 "tier": 1
 },
 {
+"id": "c-a2482ac60c",
 "source": "USPTO file wrapper, application 15/141,270, Final Rejection mailed 30 March 2018 (Paper No. 20180327), examiner Philip J. Bonzell; transcribed at research/patents/wrapper/final-rejection-2018-03-30.txt",
 "text": "The Final Rejection rejects the physical premise of the craft in terms, not merely the sufficiency of the disclosure. Answering the argument that the field generator 'would generate a repulsive EM energy field while in earth's atmosphere, thereby repelling air molecules in its path of ascent/flight', the examiner wrote: 'however, this is not true. There is no such thing as a \"repulsive EM energy field\". Electromagnetism can be repulsive in certain circumstances, but there is no blanket field that repels everything.' He concluded that 'it is impossible to generate the electric and magnetic field that would be required to create the so called claimed effect of inertial mass reduction.'",
 "tier": 1
 },
 {
+"id": "c-3f819cca8a",
 "source": "USPTO file wrapper, application 15/141,270, Final Rejection mailed 30 March 2018 (Paper No. 20180327), examiner Philip J. Bonzell; transcribed at research/patents/wrapper/final-rejection-2018-03-30.txt",
 "text": "Peer review was argued and expressly refused. On AIAA 2017-5343 and SAE 2017-01-2040 the examiner wrote that 'just because a concept was presented at an AIAA forum and that a SAE committee board, peer reviewed the concept does not equate to the device being patentable', and on the mathematics: 'Presenting math at a conference doesn't prove anything physical. It like saying that you can math out tachyons by playing with relativistic equations but that doesn't \"prove\" that they exist nor can they then be used to create a physical object that can be patented.'",
 "tier": 1
 },
 {
+"id": "c-ef40c12e95",
 "source": "USPTO file wrapper, application 15/141,270, Office actions of 28 November 2017, 22 January 2018, 30 March 2018 and 11 July 2018, compared",
 "text": "The application changed art unit mid-prosecution without changing examiner. The Office actions of 28 November 2017 and 30 March 2018 and the interview summary of 22 January 2018 issue from Art Unit 3644; the Advisory Action of 11 July 2018 issues from Art Unit 3642. Philip J. Bonzell signs all four, and Timothy Collins is named as supervisor throughout.",
 "tier": 1
 },
 {
+"id": "c-11caf7894d",
 "source": "USPTO file wrapper, application 15/141,270, Notice of Appeal from the Examiner to the Patent Trial and Appeal Board (form PTO/AIA/33), certificate dated 6/24/18",
 "text": "The Notice of Appeal in the wrapper is form PTO/AIA/33, naming Art Unit 3644, examiner Philip Bonzell and docket PAX 205, with the appeal fee shown as $800.00 paid via EFS-Web against deposit account 600508. It is signed for the applicant by Mark O. Glut and its certificate of transmission bears the date 6/24/18, three days after the date USPTO records for the notice.",
 "tier": 1
 },
 {
+"id": "c-d297b7e630",
 "source": "USPTO file wrapper, application 15/141,270, Response after Final Action received by central fax 24 May 2018, compared against research/patents/wrapper/sheehy-declaration-2018-05-11.txt",
 "text": "The after-final remarks of 24 May 2018 describe the accompanying Sheehy declaration as 'dated May 11, 2017' and are signed 'Date: 5/24/2017', a year out in both places; the declaration in the wrapper is dated 11 May 2018 and was refiled unchanged with the Appeal Brief in August. The 2017 dates are typing errors in the attorney's remarks, and no 2017 declaration exists in the file. Recorded so that the wrong year is not later read as evidence of a second, earlier declaration.",
 "tier": 1
 },
 {
+"id": "c-a0f58d8d29",
 "source": "US Patent 10,144,532 B2, printed front page and specification, https://patentimages.storage.googleapis.com/de/4c/43/62c585ccc936cc/US10144532.pdf , opened 2026-09-19",
 "text": "FRONT-PAGE FACTS READ OFF THE PRINTED PATENT, which is where the Navy's sponsorship is documented rather than inferred: '(73) Assignee: The United States of America as represented by the Secretary of the Navy, Washington, DC (US)'; '(21) Appl. No.: 15/141,270'; '(22) Filed: Apr. 28, 2016'; '(65) Prior Publication Data: US 2017/0313446 A1, Nov. 2, 2017'; '(51) Int. Cl. B64G 1/40 (2006.01)'; 'Subject to any disclaimer, the term of this patent is extended or adjusted under 35 U.S.C. 154(b) by 153 days'; 'Primary Examiner - Philip J Bonzell'; '(74) Attorney, Agent, or Firm - Mark O Glut; NAWCAD'; and '4 Claims, 1 Drawing Sheet'.",
 "tier": 1
 },
 {
+"id": "c-0b64f49bee",
 "source": "US Patent 10,144,532 B2, printed front page and specification, https://patentimages.storage.googleapis.com/de/4c/43/62c585ccc936cc/US10144532.pdf , opened 2026-09-19",
 "text": "THE EXAMINER NAMED ON THE GRANTED PATENT IS THE SAME PERSON THE SHEEHY LETTER ADDRESSES. The board already carries at Tier 1 that on 15 December 2017 the Chief Technology Officer of the Naval Aviation Enterprise wrote on NAVAIR letterhead to 'Mr. Philip J. Bonzell, Primary Patent Examiner'. The printed front page of US 10,144,532 gives 'Primary Examiner - Philip J Bonzell'. The correspondence between the letter and the grant is now checkable on the face of the patent itself.",
 "tier": 1
 },
 {
+"id": "c-6ce9b92364",
 "source": "US Patent 10,144,532 B2, printed front page and specification, https://patentimages.storage.googleapis.com/de/4c/43/62c585ccc936cc/US10144532.pdf , opened 2026-09-19",
 "text": "A PATENT IS TIER 1 FOR WHAT IT CLAIMS AND NEVER FOR WHETHER THE THING WORKS. Claim 1, as printed: 'A craft using an inertial mass reduction device comprising: an inner resonant cavity wall; an outer resonant cavity wall, the inner resonant cavity wall and the outer resonant cavity wall forming a resonant cavity; and, microwave emitters such that the microwave emitters create high frequency electromagnetic waves throughout the resonant cavity causing the outer resonant cavity wall to vibrate in an accelerated mode and create a local polarized vacuum outside the outer resonant cavity wall.' The Navy's own test of the related High Energy Electromagnetic Field Generator concluded in September 2019 that the effect could not be proven.",
 "tier": 1
 },
 {
+"id": "c-2b29cf409d",
 "source": "US Patent 10,144,532 B2, printed front page and specification, https://patentimages.storage.googleapis.com/de/4c/43/62c585ccc936cc/US10144532.pdf , opened 2026-09-19",
 "text": "The 'Other Publications' cited on its printed front page, in full: Froning, H. David, 'Quantum Vacuum Engineering for Power and Propulsion from the Energetics of Space', Third International Conference on Future Energy, Oct. 9-10, 2009, Washington DC; Pais, Salvatore, 'Conditional Possibility of Spacecraft Propulsion at Superluminal Speeds', Intl. J. Space Science and Engineering, 2015, vol. 3 No. 1; PUTHOFF, H. E., 'Polarizable-Vacuum (PV) Approach to General Relativity', Foundations of Physics, Jun. 2002, vol. 32 No. 6; Prigogine, Ilya, 'Time, Structure and Fluctuations', Nobel Lecture, Dec. 8, 1977; Hayasaka, Hideo and Takeuchi, Sakae, 'Anomalous Weight Reduction on a Gyroscope's Right Rotations around the Vertical Axis on the Earth', Physical Review Letters, Dec. 18, 1989, vol. 63 No. 25; and Pais, Salvatore, 'The High Energy Electromagnetic Field Generator', Int. J. Space Science and Engineering, 2015, vol. 3 No. 4.",
 "tier": 1
@@ -100,6 +117,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-5ea45d9614",
 "edgeLabel": "The craft claimed to deliver them",
 "id": "five-observables",
 "l0": false,
@@ -121,6 +139,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-d9e17c4b73",
 "edgeLabel": "The control case for the patents tab: a propulsion patent that did issue",
 "id": "invention-secrecy-act",
 "l0": false,
@@ -142,6 +161,7 @@
 "dateEnd": null,
 "dateStart": "2015-03-06",
 "direction": "out",
+"edgeId": "e-e85cdcada8",
 "edgeLabel": "The disclosure says the IMRD enables the gravitational wave generator",
 "id": "pais-patent-hfgw",
 "l0": false,
@@ -163,6 +183,7 @@
 "dateEnd": "2018-12-04",
 "dateStart": "2015-03-06",
 "direction": "in",
+"edgeId": "e-2bf2582793",
 "edgeLabel": "Internal disclosure underlying the granted patent",
 "id": "pax-205-disclosure",
 "l0": false,
@@ -184,6 +205,7 @@
 "dateEnd": "2018-12-04",
 "dateStart": "2016-04-28",
 "direction": "in",
+"edgeId": "e-d9cf01901c",
 "edgeLabel": "Named inventor",
 "id": "salvatore-pais",
 "l0": false,
@@ -205,6 +227,7 @@
 "dateEnd": null,
 "dateStart": "2016-04-28",
 "direction": "in",
+"edgeId": "e-b0456f2b24",
 "edgeLabel": "Assignee of record",
 "id": "us-navy",
 "l0": true,
@@ -330,7 +353,7 @@
 ],
 "sub": "Application 15/141270, filed 28 April 2016, granted 4 December 2018; assignee the Secretary of the Navy",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 66 of 1170, score 74). 6 connections, 4 of them custody/funding/programmatic. Axes C2/A1/D0.",
+"tierRationale": "Re-graded A on a global pass (rank 68 of 1138, score 74). 6 connections, 4 of them custody/funding/programmatic. Axes C2/A1/D0.",
 "timeline": [
 {
 "claimTier": null,

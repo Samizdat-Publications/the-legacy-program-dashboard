@@ -5,16 +5,19 @@
 "band": null,
 "claims": [
 {
+"id": "c-8891a5a986",
 "source": "GPO CHRG-118hhrg53022, 26 July 2023",
 "text": "Gaetz: the flight crew 'were out on a test mission that day over the Gulf of Mexico and when you are on a test mission you are supposed to have clear airspace... And they saw a sequence of four craft in a clear diamond formation for which there is a radar sequence that I and I alone have observed in the U.S. Congress.'",
 "tier": 1
 },
 {
+"id": "c-04066f72a7",
 "source": "GPO CHRG-119hhrg61718, 9 September 2025",
 "text": "Luna: 'the infamous Eglin Air Force Base incident that occurred when myself and former Representative Matt Gates, as well as Representative Burchett, followed up on a lead from multiple active duty Air Force pilot whistleblowers that alleged that the United States Air Force was covering up UAP activity at Eglin Air Force Base.'",
 "tier": 1
 },
 {
+"id": "c-0026d4af36",
 "source": "CHRG-118hhrg53022, 26 July 2023",
 "text": "Gaetz recommended that the Eglin radar images and crew photograph be provided to the Committee, 'subpoenaed if necessary'; no such production has been recorded.",
 "tier": 1
@@ -30,6 +33,7 @@
 "dateEnd": null,
 "dateStart": "2023",
 "direction": "in",
+"edgeId": "e-6da99f10f6",
 "edgeLabel": "Accompanied Gaetz to Eglin; described 'the infamous Eglin Air Force Base incident' in 2025",
 "id": "anna-paulina-luna",
 "l0": false,
@@ -56,6 +60,7 @@
 "dateEnd": "2023",
 "dateStart": "2023",
 "direction": "out",
+"edgeId": "e-70024e1983",
 "edgeLabel": "The Eglin radar sequence and imagery were requested from the dais, 'subpoenaed if necessary'",
 "id": "hearing-2023-07-26",
 "l0": true,
@@ -77,6 +82,7 @@
 "dateEnd": null,
 "dateStart": "2023",
 "direction": "in",
+"edgeId": "e-456e219f67",
 "edgeLabel": "Received a protected disclosure from Eglin and went to the base with Burchett and Luna",
 "id": "matt-gaetz",
 "l0": false,
@@ -98,6 +104,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-5021b06b7a",
 "edgeLabel": "The annex places the duplicate aircraft at Eglin AFB",
 "id": "operation-northwoods",
 "l0": true,
@@ -119,6 +126,7 @@
 "dateEnd": null,
 "dateStart": "2023",
 "direction": "in",
+"edgeId": "e-1904dfd6f1",
 "edgeLabel": "Accompanied Gaetz to Eglin on the protected disclosure",
 "id": "tim-burchett",
 "l0": false,
@@ -179,7 +187,7 @@
 ],
 "sub": "USAF installation; site of the 2023 protected disclosure",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 464 of 1170, score 32). 5 connections, 0 of them custody/funding/programmatic. Axes C2/A2/D2.",
+"tierRationale": "Re-graded B on a global pass (rank 462 of 1138, score 32). 5 connections, 0 of them custody/funding/programmatic. Axes C2/A2/D2.",
 "timeline": [
 {
 "claimTier": null,

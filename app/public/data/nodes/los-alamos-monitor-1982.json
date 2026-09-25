@@ -5,16 +5,19 @@
 "band": null,
 "claims": [
 {
+"id": "c-d49c9fa7ee",
 "source": "Los Alamos Monitor, 27 June 1982, A1 and A8, reprinted at https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/bobs-jetcar-article/ , opened 2026-09-18",
 "text": "The artefact and its load-bearing sentence. Headline 'LA Man Joins The Jet Set - At 200 Miles An Hour', by Terry England, Monitor Staff Writer, Sunday 27 June 1982, Los Alamos Monitor, pages A1 and A8. The sentence, verbatim: 'To Lazar, a physicist at the Los Alamos Meson Physics Facility, the important thing is the jet engine.'",
 "tier": 1
 },
 {
+"id": "c-4c2999c90f",
 "source": "Stanton T. Friedman, 'The Bob Lazar Fraud', https://www.theblackvault.com/casefiles/the-bob-lazar-fraud-2/ ; Mark Farmer interview, 25 May 1996, https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/los-alamos-interview/ ; Tom Mahood, 2018 retrospective, https://otherhand.org/home-page/area-51-and-other-strange-places/looking-at-the-bob-lazar-story-from-the-perspective-of-2018/ , all opened 2026-09-18",
 "text": "THE QUALIFICATION, WHICH TRAVELS WITH THE ARTICLE AND IS ROUTINELY DROPPED. The description is what Lazar told the reporter, not an employment record. Stanton Friedman, who obtained the Los Alamos telephone directory page carrying Lazar's name, records that the page 'clearly states that it includes employees of the DOE and outside contractor, Kirk Meyer'. A Los Alamos colleague interviewed on tape by Mark Farmer on 25 May 1996 said Lazar 'was a contractor' under 'Kirk Mayer' and that he 'claimed to be' a physicist. Tom Mahood's 2018 conclusion is that Lazar worked as an electronic technician for Kirk-Mayer and that the Monitor article misrepresented his position on the basis of what he told the reporter.",
 "tier": 2
 },
 {
+"id": "c-7fd7489e03",
 "source": "Tom Mahood, 2018 retrospective, https://otherhand.org/home-page/area-51-and-other-strange-places/looking-at-the-bob-lazar-story-from-the-perspective-of-2018/ , opened 2026-09-18; and The Lazar Tape, 1991, captions at 35:48",
 "text": "It is also the date peg for the Edward Teller anecdote, and it creates a discrepancy rather than resolving one. Tom Mahood's 2018 retrospective puts the article on 27 June 1982 with Teller lecturing at Los Alamos the following day, and calls the timing an 'amazing display of totally fucked synchronicity'. Lazar's own 1991 narration places the newspaper story and the Teller speech on the same day. The newspaper's date is fixed, so both cannot be right.",
 "tier": 2
@@ -30,6 +33,7 @@
 "dateEnd": null,
 "dateStart": "1982-06-27",
 "direction": "out",
+"edgeId": "e-56b8be0a95",
 "edgeLabel": "Front-page newspaper story about him, seven years before the claim",
 "id": "bob-lazar",
 "l0": false,
@@ -51,6 +55,7 @@
 "dateEnd": null,
 "dateStart": "1982-06-27",
 "direction": "out",
+"edgeId": "e-74247f9f9d",
 "edgeLabel": "The newspaper, the facility and the event are all in Los Alamos",
 "id": "l-los-alamos",
 "l0": false,
@@ -72,6 +77,7 @@
 "dateEnd": null,
 "dateStart": "1993",
 "direction": "in",
+"edgeId": "e-cb88b8efb2",
 "edgeLabel": "Holds the only openable copy of the article's text",
 "id": "tom-mahood",
 "l0": false,
@@ -137,7 +143,7 @@
 ],
 "sub": "Terry England's front-page story on Lazar's jet-powered Honda, which describes him in the newspaper's own voice as a physicist at the Los Alamos Meson Physics Facility",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 1010 of 1170, score 15). 3 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D1.",
+"tierRationale": "Re-graded C on a global pass (rank 980 of 1138, score 15). 3 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D1.",
 "timeline": [
 {
 "claimTier": null,

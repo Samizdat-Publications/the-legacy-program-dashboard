@@ -30,11 +30,13 @@
 ],
 "claims": [
 {
+"id": "c-9b244d5a36",
 "source": "US Navy press release, 14 August 2020",
 "text": "Norquist approved the establishment of the UAP Task Force on 4 August 2020, under the Department of the Navy with OUSD(I&S) cognizance.",
 "tier": 1
 },
 {
+"id": "c-ee133adb41",
 "source": "https://comptroller.war.gov/Portals/45/Documents/afr/fy2018/3-Financial_Section.pdf — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
 "text": "Norquist signed the FY2018 DoD Agency Financial Report message as Under Secretary of Defense (Comptroller)/Chief Financial Officer, writing: 'In FY 2018, the Department underwent its first full-scope financial statement audit. As anticipated, our independent auditor, the Department of Defense Office of Inspector General, issued a Disclaimer of Opinion as the result of the audit.'",
 "tier": 2
@@ -50,6 +52,7 @@
 "dateEnd": null,
 "dateStart": "2018",
 "direction": "out",
+"edgeId": "e-eb0a34f7e0",
 "edgeLabel": "Signed the FY2018 report announcing the first full-scope audit and its disclaimer",
 "id": "dod-agencywide-audit",
 "l0": true,
@@ -71,6 +74,7 @@
 "dateEnd": "2020",
 "dateStart": "2020",
 "direction": "out",
+"edgeId": "e-eac0ebf2c8",
 "edgeLabel": "approved establishment of the UAP Task Force",
 "id": "uap-task-force",
 "l0": true,
@@ -146,7 +150,7 @@
 "status": "former",
 "sub": "Deputy Secretary of Defense (2019-2021); approved the UAP Task Force",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 702 of 1170, score 24). 2 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 691 of 1138, score 24). 2 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D2.",
 "timeline": [
 {
 "claimTier": null,

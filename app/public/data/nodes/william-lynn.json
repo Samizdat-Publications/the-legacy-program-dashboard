@@ -34,16 +34,19 @@
 ],
 "claims": [
 {
+"id": "c-575405c7a7",
 "source": "Reid letter, 24 June 2009, DIA FOIA release",
 "text": "Reid's Restricted SAP request for the program was addressed to Deputy Secretary of Defense William Lynn III on 24 June 2009.",
 "tier": 1
 },
 {
+"id": "c-8945710e2f",
 "source": "DIA talking paper DR_Reid_Mtg_Nov09",
 "text": "A DIA talking paper for a 19 November 2009 4:45pm meeting in SVC-217 records that the Deputy Secretary of Defense would tell Reid the AAWSAP deliverables do not meet DoD 5200.1-R criteria for SAP protection.",
 "tier": 1
 },
 {
+"id": "c-8c7d3d0258",
 "source": "Inference from the format and scheduling detail of the November 2009 talking paper",
 "text": "Routing the refusal through the Deputy Secretary in person, rather than by letter, indicates DoD treated the request as politically sensitive enough to require face-to-face management of the Majority Leader.",
 "tier": 3
@@ -59,6 +62,7 @@
 "dateEnd": "2009",
 "dateStart": "2009",
 "direction": "in",
+"edgeId": "e-490318928a",
 "edgeLabel": "decision packet presented 17 November 2009",
 "id": "depsecdef-sap-packet-2009",
 "l0": false,
@@ -80,6 +84,7 @@
 "dateEnd": "2009",
 "dateStart": "2009",
 "direction": "out",
+"edgeId": "e-cec370253b",
 "edgeLabel": "in-person refusal of the SAP request",
 "id": "harry-reid",
 "l0": false,
@@ -101,6 +106,7 @@
 "dateEnd": "2009",
 "dateStart": "2009",
 "direction": "in",
+"edgeId": "e-c1c36621c4",
 "edgeLabel": "addressed to the Deputy Secretary of Defense",
 "id": "reid-sap-letter-2009",
 "l0": false,
@@ -113,7 +119,7 @@
 "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP/20090624_Reid_to_DEPSECDEF_ref_AAITP_in_SAP.pdf"
 }
 ],
-"tier": "B",
+"tier": "A",
 "type": "legislative"
 }
 ],
@@ -134,6 +140,7 @@
 "by": null,
 "claimTier": 1,
 "denialKind": "association",
+"edgeId": "e-490318928a",
 "label": "decision packet presented 17 November 2009",
 "note": "Eighteen pages assembled to support refusing the Majority Leader; two days later Lynn briefed Reid in SVC-217.",
 "of": null,
@@ -160,6 +167,7 @@
 },
 "claimTier": 1,
 "denialKind": "directed",
+"edgeId": "e-cec370253b",
 "label": "in-person refusal of the SAP request",
 "note": "DIA's talking paper for the 19 November 2009 4:45pm meeting directs that Reid be told the deliverables do not meet DoD 5200.1-R criteria for SAP protection.",
 "of": {
@@ -222,7 +230,7 @@
 "status": "former",
 "sub": "Deputy Secretary of Defense, 2009-2011",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 616 of 1170, score 27). 3 connections, 0 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C0/A3/D0.",
+"tierRationale": "Re-graded C on a global pass (rank 609 of 1138, score 27). 3 connections, 0 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C0/A3/D0.",
 "timeline": [
 {
 "claimTier": null,

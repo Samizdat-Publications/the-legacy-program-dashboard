@@ -5,21 +5,25 @@
 "band": null,
 "claims": [
 {
+"id": "c-16a1f0f836",
 "source": "pogo.org/about",
 "text": "POGO is a nonpartisan independent watchdog founded in 1981, initially as a Pentagon watchdog, later expanded to monitor the entire federal government; it self-describes its mission as investigating and exposing systemic corruption, abuse of power and waste.",
 "tier": 1
 },
 {
+"id": "c-0609158738",
 "source": "pogo.org/about",
 "text": "POGO is donor-funded, publishes audited financials and holds four-star Charity Navigator, CharityWatch and Candid Platinum transparency ratings; it produces investigative reports, policy recommendations and congressional testimony, and maintains published whistleblower resources.",
 "tier": 1
 },
 {
+"id": "c-3dc1af9413",
 "source": "Inference from pogo.org/about",
 "text": "POGO's structural position - contractor-independent funding, a documented whistleblower intake and a direct line into congressional investigative staff - makes it a viable off-ramp for insiders bound by programme non-disclosure agreements who will not use the DoD internal channels. Reasoning: from its documented function, not from any specific UAP disclosure attributed to it here.",
 "tier": 3
 },
 {
+"id": "c-c16ff73025",
 "source": "Board bookkeeping",
 "text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
 "tier": 3
@@ -35,6 +39,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-a50886e01d",
 "edgeLabel": "POGO recommendations delivered to Luna's task force",
 "id": "anna-paulina-luna",
 "l0": false,
@@ -66,6 +71,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-6aa5195f5a",
 "edgeLabel": "POGO counsel testified at the UAP transparency hearing",
 "id": "hearing-2025-09-09",
 "l0": true,
@@ -97,6 +103,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-a62a9a8792",
 "edgeLabel": "Outside watchdog seated as witness before Oversight's declassification task force",
 "id": "house-oversight-committee",
 "l0": true,
@@ -153,7 +160,7 @@
 ],
 "sub": "Watchdog organisation",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 1095 of 1170, score 11). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D0.",
+"tierRationale": "Re-graded C on a global pass (rank 1065 of 1138, score 11). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D0.",
 "timeline": [],
 "unverified": []
 }

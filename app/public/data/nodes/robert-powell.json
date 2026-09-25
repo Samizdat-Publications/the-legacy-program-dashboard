@@ -37,16 +37,19 @@
 ],
 "claims": [
 {
+"id": "c-c1bd19fdc7",
 "source": "Entropy, DOI 10.3390/e21100939",
 "text": "Powell is co-author of 'Estimating Flight Characteristics of Anomalous Unidentified Aerial Vehicles', Entropy 21(10):939 (2019).",
 "tier": 1
 },
 {
+"id": "c-76c7b08659",
 "source": "SCU, Zenodo DOI 10.5281/zenodo.7844175",
 "text": "Powell led the SCU analysis of the April 2013 Aguadilla, Puerto Rico thermal-imagery event recorded by a Department of Homeland Security aircraft.",
 "tier": 1
 },
 {
+"id": "c-fe5d9d017e",
 "source": "SCU, Zenodo DOI 10.5281/zenodo.10287332",
 "text": "Powell is lead author of the 2023 SCU study 'The Reported Shape, Size, Kinematics, Electromagnetic Effects, and Presence of Sound of Unidentified Aerial Phenomena', with Sarah Little, Larry Hancock and others.",
 "tier": 1
@@ -62,6 +65,7 @@
 "dateEnd": null,
 "dateStart": "2019",
 "direction": "out",
+"edgeId": "e-a23e414d4f",
 "edgeLabel": "Co-author; brought the SCU case reconstructions",
 "id": "paper-knuth-powell-reali-2019",
 "l0": false,
@@ -88,6 +92,7 @@
 "dateEnd": null,
 "dateStart": "2010",
 "direction": "out",
+"edgeId": "e-39c5dc1d26",
 "edgeLabel": "Founding board member; author of the Stephenville and Aguadilla studies",
 "id": "scu-uap-studies",
 "l0": false,
@@ -165,7 +170,7 @@
 "status": "active",
 "sub": "Chemist and semiconductor engineer; founding board member, Scientific Coalition for UAP Studies; co-author of the Entropy 2019 kinematics paper and the Aguadilla and Stephenville radar studies",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 998 of 1170, score 15). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 969 of 1138, score 15). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": [

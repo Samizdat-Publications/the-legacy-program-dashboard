@@ -10,26 +10,31 @@
 "chronology": [],
 "claims": [
 {
+"id": "c-36d9e64d81",
 "source": "OSD Historical Office, Key Officials September 1947-July 2026 (7 July 2026), https://history.defense.gov/Portals/70/Documents/key_officials/KeyOfficials-2026-07-07.pdf",
 "text": "The OSD Historical Office's Key Officials list of 7 July 2026 records Michael Powers as Acting Under Secretary of War (Comptroller)/Chief Financial Officer from 20 May 2026 to present, succeeding Jules W. Hurst III, who performed the duties of the office from 5 September 2025 to 20 May 2026.",
 "tier": 1
 },
 {
+"id": "c-af7a70645d",
 "source": "OSD Historical Office, Key Officials September 1947-July 2026 (7 July 2026), https://history.defense.gov/Portals/70/Documents/key_officials/KeyOfficials-2026-07-07.pdf",
 "text": "The same list records Powers as Deputy Under Secretary of Defense (Comptroller) from 23 December 2025 to present, so he holds the deputy office and the acting principal office at once.",
 "tier": 1
 },
 {
+"id": "c-9770dcb809",
 "source": "comptroller.war.gov leadership page and https://www.war.gov/About/Biographies/Biography/Article/4503523/michael-t-powers/, both read 22 August 2026, against the Key Officials list of 7 July 2026",
 "text": "Two Department pages disagree on who holds the office. The Department of War comptroller site's leadership page names Jules W. Hurst III as Under Secretary of War (Comptroller)/CFO, while war.gov's own biography of Powers opens 'The Honorable Michael Powers currently serves as the Acting Under Secretary of War (Comptroller) and Chief Financial Officer (CFO).' The Historical Office list dates the handover to 20 May 2026, which makes the comptroller site's leadership page the stale one.",
 "tier": 1
 },
 {
+"id": "c-b95dd664e6",
 "source": "https://comptroller.war.gov/",
 "text": "Michael Powers is identified on the Department of War Comptroller site as Acting Under Secretary of War (Comptroller)/Chief Financial Officer, a CPA, Certified Defense Financial Manager and DoD Financial Management Certification Level 3 holder.",
 "tier": 1
 },
 {
+"id": "c-df0e6696c2",
 "source": "https://files.fasab.gov/pdffiles/handbook_sffas_56.pdf",
 "text": "The Department of Defense identified the need for the standard that became SFFAS 56 in August 2016.",
 "tier": 1
@@ -45,6 +50,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-4b0133aa9e",
 "edgeLabel": "The Comptroller executes the annex",
 "id": "classified-annex",
 "l0": true,
@@ -121,8 +127,8 @@
 ],
 "status": "active",
 "sub": "Acting Under Secretary of War (Comptroller)/Chief Financial Officer",
-"tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 576 of 1170, score 28). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D1.",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 571 of 1138, score 28). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D1.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": [

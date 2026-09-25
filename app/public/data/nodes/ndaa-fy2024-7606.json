@@ -5,31 +5,37 @@
 "band": null,
 "claims": [
 {
+"id": "c-13bbc809c2",
 "source": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm",
 "text": "Pub. L. 118-31, div. G, sec. 7606(c), verbatim: 'Agency Review of Special Access Programs.--Not later than 1 year after the date of the enactment of this Act, each head of an agency who is authorized to establish a special access program by Executive Order 13526 (50 U.S.C. 3161 note; relating to classified national security information), or successor order, shall-- (1) review the number of personnel of the agency eligible for access to such special access programs; and (2) submit to Congress, including the congressional intelligence committees, the Committee on Armed Services, the Committee on Homeland Security and Governmental Affairs, the Committee on Foreign Relations, the Committee on the Judiciary of the Senate, and the Committee on Armed Services, the Committee on Oversight and Accountability, the Committee on Foreign Affairs, and the Committee on the Judiciary of the House of Representatives, a report on how the agency head will ensure that the number of such personnel is limited to the minimum required.' Text at 137 Stat. 1099.",
 "tier": 1
 },
 {
+"id": "c-737d2d88fe",
 "source": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm",
 "text": "Sec. 7606(a)(3), verbatim: 'This subsection shall apply to the Secretary of Defense in the Secretary's capacity as the Executive Agent for the National Industrial Security Program, and the Secretary shall treat contractors, licensees, and grantees as personnel of the Department of Defense for purposes of the studies and reports required by this subsection.'",
 "tier": 1
 },
 {
+"id": "c-5f8d96ea2e",
 "source": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm",
 "text": "Section 7606(c) is the only enacted provision located here that requires a SAP-related report to go to the Judiciary, Foreign Relations/Affairs and Homeland Security/Oversight committees of both chambers -- committees entirely outside the 10 U.S.C. 119(g) 'defense committees' definition and outside the 50 U.S.C. 3091a audience. It reaches only headcount, not program identity, and carries no waiver clause. Reasoning stated from the text.",
 "tier": 3
 },
 {
+"id": "c-bb3b1a9cde",
 "source": "Public Law 118-31, div. G, sec. 7606(c), 137 Stat. 1099",
 "text": "FY2024 IAA sec. 7606(c): each head of an agency authorised to establish a special access program by E.O. 13526 must, within one year, review the number of personnel eligible for access to such programs and report to Congress including the House Committee on Oversight and Accountability on how the number will be limited to the minimum required.",
 "tier": 1
 },
 {
+"id": "c-8088a592bd",
 "source": "Public Law 118-31, div. G, sec. 7606(a)(3)",
 "text": "FY2024 IAA sec. 7606(a)(3) applies the clearance study to the Secretary of Defense as Executive Agent for the National Industrial Security Program and directs that contractors, licensees and grantees be treated as DoD personnel for that purpose.",
 "tier": 1
 },
 {
+"id": "c-fdd82c94b5",
 "source": "Public Law 118-31 enactment date and sec. 7606(c) deadline",
 "text": "Section 7606(c) reports were due by 22 December 2024 from each of the six E.O. 13526 SAP-creating officials; no such report has been publicly released. Reasoning: the one-year deadline runs from the 22 December 2023 enactment date and no public copy has surfaced.",
 "tier": 3
@@ -45,6 +51,7 @@
 "dateEnd": null,
 "dateStart": "2023-12-22",
 "direction": "out",
+"edgeId": "e-404081600e",
 "edgeLabel": "Requires a personnel census from each of the six SAP-creating officials",
 "id": "eo-13526",
 "l0": true,
@@ -66,6 +73,7 @@
 "dateEnd": null,
 "dateStart": "2023-12-22",
 "direction": "out",
+"edgeId": "e-da6e1dd353",
 "edgeLabel": "Reports on SAP access populations are addressed to House Oversight among others",
 "id": "house-oversight-committee",
 "l0": true,
@@ -117,7 +125,7 @@
 ],
 "sub": "statute",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 656 of 1170, score 26). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 645 of 1138, score 26). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D2.",
 "timeline": [
 {
 "claimTier": null,

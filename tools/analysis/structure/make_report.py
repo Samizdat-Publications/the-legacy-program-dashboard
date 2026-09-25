@@ -67,6 +67,46 @@ LAB_M = {
     5: ("Isolated node", ""),
 }
 
+# The labels above were written for the 24 September 2026 run and are POSITIONAL: H0 is
+# whatever community is largest. Re-run on a later board (phase 4 re-ran it on 25
+# September, after the nuclear register and 32 merges) and the sizes reorder, so H0's
+# label lands on AAWSAP. Each label is therefore re-attached through a signature node it
+# was written about, to whichever community now holds that node; a community no label
+# reaches is named by its largest members instead of inheriting a wrong name.
+SIG_H = {0: "david-grusch", 1: "aawsap", 2: "rendlesham-1980", 3: "mitre-corporation",
+         4: "project-blue-book", 5: "uapda-2023", 6: "waived-sap-notification-group",
+         7: "l-groom-lake", 8: "roswell-1947", 9: "aaro", 10: "mark-mccandlish",
+         11: "sol-foundation", 12: "classified-annex", 13: "nsc-5412", 14: "paul-bennewitz",
+         15: "ttsa-army-crada", 16: "langley-2023-incursions", 17: "jason-sands"}
+SIG_A = {0: "aaro", 1: "project-blue-book", 2: "aawsap", 3: "waived-sap-notification-group",
+         4: "s-4-papoose-lake", 5: "rendlesham-1980", 6: "luis-elizondo", 7: "roswell-1947",
+         8: "mark-mccandlish", 9: "nimitz-2004", 10: "ndaa-fy2024", 11: "sol-foundation",
+         12: "mitre-corporation", 13: "caus-v-nsa", 14: "age-of-disclosure", 15: "jason-sands"}
+
+
+def _relabel(part, labels, sigs):
+    part = {k: int(v) for k, v in part.items()}
+    members = {}
+    for k, c in part.items():
+        members.setdefault(c, []).append(k)
+    top = {c: sorted(mem, key=lambda i: (-B.deg[i], i)) for c, mem in members.items()}
+    out = {}
+    for old in sorted(labels):
+        c = part.get(sigs.get(old))
+        # the signature must still be among the community's three best-connected
+        # members: a node that drifted into another community does not carry its
+        # old label with it
+        if c is not None and c not in out and sigs[old] in top[c][:3]:
+            out[c] = labels[old]
+    for c in members:
+        if c not in out:
+            out[c] = ("not labelled in the 24 September run; largest: " + ", ".join(top[c][:3]), "")
+    return out
+
+
+LAB_H = _relabel(S3["cons"]["hubdamp"]["part"], LAB_H, SIG_H)
+LAB_A = _relabel(S3["cons"]["all"]["part"], LAB_A, SIG_A)
+
 
 def pct(x, d=0):
     return f"{100 * x:.{d}f}%"

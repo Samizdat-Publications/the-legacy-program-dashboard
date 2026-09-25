@@ -39,16 +39,19 @@
 ],
 "claims": [
 {
+"id": "c-f58335f099",
 "source": "To The Stars Academy of Arts and Science Inc., Form 1-K Part II, SEC EDGAR CIK 0001710274, filed April 2018",
 "text": "TTSA was incorporated in Delaware as a public benefit corporation in 2017; DeLonge is listed as President and interim Chief Executive Officer and a director; Gravity Holdings LLC, a DeLonge family trust entity, held 60 million of 70 million Class A shares (85.7%).",
 "tier": 1
 },
 {
+"id": "c-2ec41d674c",
 "source": "To The Stars Academy of Arts and Science Inc., Form 1-K Part II, SEC EDGAR, filed April 2018",
 "text": "As of April 2018 TTSA had raised approximately $1.09 million under a Regulation A offering that targeted up to $50 million; FY2017 net loss was $30,665,436, driven by $29,535,799 of stock-based compensation.",
 "tier": 1
 },
 {
+"id": "c-b3ddc6f08e",
 "source": "Daniel Oberhaus, Vice, 15 October 2018",
 "text": "TTSA's SEC filing covering the period to June 2018 showed a $37.4 million accumulated deficit and $129,000 cash, with auditors flagging doubt about the company's ability to continue as a going concern.",
 "tier": 2
@@ -64,6 +67,7 @@
 "dateEnd": "2017",
 "dateStart": "2016",
 "direction": "out",
+"edgeId": "e-bb550eb995",
 "edgeLabel": "Recruitment of a serving OUSD(I) official into a private disclosure vehicle",
 "id": "luis-elizondo",
 "l0": false,
@@ -90,6 +94,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-1c18092b07",
 "edgeLabel": "Author of the email and of the surrounding correspondence",
 "id": "podesta-delonge-mccasland-email-2016",
 "l0": true,
@@ -111,6 +116,7 @@
 "dateEnd": null,
 "dateStart": "2017",
 "direction": "out",
+"edgeId": "e-294b61f23d",
 "edgeLabel": "Co-founder, President, interim CEO and controlling shareholder",
 "id": "ttsa",
 "l0": true,
@@ -188,7 +194,7 @@
 "status": "active",
 "sub": "Co-founder, President and Chairman, To The Stars Academy of Arts & Science",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 707 of 1170, score 24). 3 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 696 of 1138, score 24). 3 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D3.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": []

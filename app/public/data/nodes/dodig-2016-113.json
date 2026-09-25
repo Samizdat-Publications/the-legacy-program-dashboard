@@ -5,16 +5,19 @@
 "band": null,
 "claims": [
 {
+"id": "c-24e60679af",
 "source": "https://media.defense.gov/2016/Jul/26/2001714261/-1/-1/1/DODIG-2016-113.pdf",
 "text": "The report states that OASA(FM&C) and DFAS Indianapolis 'did not adequately support $2.8 trillion in third quarter journal voucher (JV) adjustments and $6.5 trillion in yearend JV adjustments made to AGF data during FY 2015 financial statement compilation.'",
 "tier": 1
 },
 {
+"id": "c-f302580144",
 "source": "https://media.defense.gov/2016/Jul/26/2001714261/-1/-1/1/DODIG-2016-113.pdf",
 "text": "Footnote 2 of the report states the amounts are not cumulative and should not be added together.",
 "tier": 1
 },
 {
+"id": "c-972f62aa7e",
 "source": "https://media.defense.gov/2016/Jul/26/2001714261/-1/-1/1/DODIG-2016-113.pdf",
 "text": "The $6.5 trillion figure is the gross value of unsupported compilation adjustments, not an amount of missing money; the same dollars can be adjusted repeatedly within a compilation cycle. Reasoning: the Army General Fund's FY2015 appropriation was on the order of $120-150 billion, so a literal reading would require the Army to have handled roughly fifty times its own budget, which is arithmetically impossible; the figure therefore measures entry volume, not fund flow.",
 "tier": 3
@@ -30,10 +33,11 @@
 "dateEnd": null,
 "dateStart": "2016-07-26",
 "direction": "out",
+"edgeId": "e-f251553a00",
 "edgeLabel": "OIG audit report of 26 July 2016",
-"id": "dodig",
+"id": "dod-oig",
 "l0": false,
-"label": "Office of Inspector General, Department of Defense / Department of War",
+"label": "Department of Defense Office of Inspector General",
 "note": "The report is the OIG's own audit of Army General Fund compilation adjustments for FY2015. Attested by the report.",
 "sources": [
 {
@@ -42,7 +46,7 @@
 "url": "https://media.defense.gov/2016/Jul/26/2001714261/-1/-1/1/DODIG-2016-113.pdf"
 }
 ],
-"tier": "C",
+"tier": "B",
 "type": "investigative"
 },
 {
@@ -51,6 +55,7 @@
 "dateEnd": null,
 "dateStart": "2017-09",
 "direction": "in",
+"edgeId": "e-374b42a76a",
 "edgeLabel": "The single largest figure in the $21 trillion compilation comes from this report",
 "id": "skidmore-fitts-report",
 "l0": false,
@@ -117,7 +122,7 @@
 ],
 "sub": "DoD OIG audit report, 26 July 2016; source of the $2.8 trillion and $6.5 trillion figures",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 911 of 1170, score 18). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 887 of 1138, score 18). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.",
 "timeline": [
 {
 "claimTier": null,

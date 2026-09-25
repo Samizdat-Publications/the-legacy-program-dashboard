@@ -5,26 +5,31 @@
 "band": null,
 "claims": [
 {
+"id": "c-f74975c3ba",
 "source": "shu.ac.uk/about-us",
 "text": "Sheffield Hallam University is based in Sheffield with approximately 31,000 students, nearly 4,000 staff and 345,000 alumni, and holds Gold in the Teaching Excellence Framework.",
 "tier": 1
 },
 {
+"id": "c-cad393441d",
 "source": "SHURA search results for 'UFO'",
 "text": "The university's institutional repository SHURA holds David Clarke's deposited outputs including 'National Archives Podcasts and Media - MoD UFO archives project 2008-2013' (2018), 'UFO Files at The National Archives' (2018), 'The UFO files: the inside story of real-life sightings' (National Archives, 2009; Bloomsbury, 2012), 'How UFOs conquered the World' (2015), and the Clarke/Fuller/Shough report on aerial phenomena observed near the Channel Islands, UK, 23 April 2007.",
 "tier": 1
 },
 {
+"id": "c-ad23692edd",
 "source": "SHURA search results for 'UFO'",
 "text": "SHURA also holds Andrew Robinson (2025), 'The Calvine Mystery - The Photographic Analysis of a 35-Year-Old Enigma', presented at the Calvine UFO Mystery 35th Anniversary Research Symposium, Perth & Kinross, 2 August 2025.",
 "tier": 1
 },
 {
+"id": "c-a932d03e52",
 "source": "Inference",
 "text": "A UK university repository openly indexing a body of MoD-file and Calvine-photograph research is a durable, non-governmental copy of the British record. Reasoning: repository deposits persist independently of the originating agency's retention decisions.",
 "tier": 3
 },
 {
+"id": "c-321d42021c",
 "source": "Board bookkeeping",
 "text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
 "tier": 3
@@ -40,6 +45,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-53d8efbf33",
 "edgeLabel": "Sheffield Hallam academic curated the MoD file release containing Rendlesham",
 "id": "rendlesham-1980",
 "l0": true,
@@ -116,7 +122,7 @@
 ],
 "sub": "Academic",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 1007 of 1170, score 15). 1 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D0.",
+"tierRationale": "Re-graded C on a global pass (rank 977 of 1138, score 15). 1 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D0.",
 "timeline": [],
 "unverified": []
 }

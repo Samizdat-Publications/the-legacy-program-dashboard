@@ -8,16 +8,19 @@
 "chronology": [],
 "claims": [
 {
+"id": "c-87776ea760",
 "source": "Robert Hastings, 'The UFOs-Nukes Connection Press Conference', https://ufohastings.com/articles/the-ufos-nukes-connection-press-conference , opened 2026-09-19",
 "text": "Dwynne Arneson, Lt Col USAF, served with the 28th Air Division at Malmstrom AFB, Montana in 1967, executed an affidavit, and spoke at the UFO-Nukes Connection press conference at the National Press Club on 27 September 2010.",
 "tier": 2
 },
 {
+"id": "c-4c76e17d0f",
 "source": "Reported via the Hastings material, https://www.metabunk.org/threads/ufos-at-nuclear-weapons-sites-salas-malmstrom-eagle-flight-skeptical-resources.3284/ , opened 2026-09-19",
 "text": "A remark attributed to Boeing engineer Robert Kaminski about the Echo Flight missiles, that they were perfect and clean, is reported as having been made to Arneson. This is a relayed recollection of a remark and is carried at Tier 3 on that basis.",
 "tier": 3
 },
 {
+"id": "c-9ad68de247",
 "source": "Derived by this board from the register in research/leads/verified-nuclear-witnesses-2026-09-19.md, which lists every nuclear-facility witness found in the 19 September 2026 pass together with the route by which each account reached the public",
 "text": "SECTION 2a PROVENANCE. He enters the public record at the 2010 National Press Club event convened by Robert Hastings. No dated public statement by him before that was identified by the pass of 19 September 2026.",
 "tier": 3
@@ -33,6 +36,7 @@
 "dateEnd": "1967",
 "dateStart": "1967",
 "direction": "out",
+"edgeId": "e-2ed9f04b7e",
 "edgeLabel": "Communications officer, 28th Air Division, Malmstrom, 1967",
 "id": "l-malmstrom",
 "l0": false,
@@ -54,6 +58,7 @@
 "dateEnd": "2010-09-27",
 "dateStart": "2010-09-27",
 "direction": "out",
+"edgeId": "e-9f69c70ea3",
 "edgeLabel": "Spoke on the record with a signed affidavit",
 "id": "npc-2010-ufos-nukes",
 "l0": true,
@@ -122,7 +127,7 @@
 "status": "unknown",
 "sub": "USAF Lt Col, communications officer, 28th Air Division, Malmstrom AFB, 1967",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 1042 of 1170, score 13). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 1012 of 1138, score 13). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": [

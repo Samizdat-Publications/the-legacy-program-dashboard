@@ -74,7 +74,7 @@ def _git(*args):
 # file added to the pipeline later is still compared without being listed here.
 BUILT = (
     "data/the-program.json", "data/l0-model.json", "data/l0-layout-model.json",
-    "data/design-extract.json", "data/foia-links.json",
+    "data/design-extract.json", "data/foia-links.json", "research/topics/_proposals.json",
 )
 
 
@@ -116,7 +116,7 @@ def built_since_last_commit():
 # in flight (a note, CLAUDE.md, a tool being changed) and those are not rebuild
 # drift. CI runs this WITHOUT the flag, over the whole tree, as a step of its own.
 BUILT_PREFIXES = ("data/", "app/public/data/", "app/public/patents/",
-                  "research/_remediation.json")
+                  "research/_remediation.json", "research/topics/_proposals.json")
 
 
 def is_built(path):

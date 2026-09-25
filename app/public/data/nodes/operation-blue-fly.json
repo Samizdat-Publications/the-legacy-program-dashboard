@@ -5,21 +5,25 @@
 "band": null,
 "claims": [
 {
+"id": "c-a8277598fd",
 "source": "US Air Force Fact Sheet, Public Affairs Division, Wright-Patterson AFB, January 1985, reproduced by the National Archives",
 "text": "The USAF public fact sheet distributed by Wright-Patterson AFB in January 1985 states: 'Periodically, it is erroneously stated that the remains of extraterrestrial visitors are or have been stored at Wright-Patterson AFB. There are not now nor ever have been, any extraterrestrial visitors or equipment on Wright-Patterson Air Force Base.'",
 "tier": 1
 },
 {
+"id": "c-fa55031d8f",
 "source": "Inference from the two programmes' joint appearance in Air Force intelligence correspondence and from FTD's role as the technical exploitation centre.",
 "text": "BLUE FLY provided the airlift leg for MOON DUST recoveries into Air Force technical intelligence at Wright-Patterson, making Wright-Patterson the designated custody terminus for unidentified recovered material throughout the period.",
 "tier": 3
 },
 {
+"id": "c-dfda26942d",
 "source": "History, 1127 USAF Field Activities Group (AFNIA), 1 January - 30 June 1967, doc. AFNIABA 014-67, p.29",
 "text": "The Wright-Patterson custody terminus is documented by the operating unit, not inferred. The 1127th USAF Field Activities Group's own semiannual history for 1 January to 30 June 1967 records under Project BLUE FLY that its Staff Operations Branch 'coordinated requirements necessary to deploy the FTD exploitation personnel and to airlift personnel and parts from site of acquisition to Wright-Patterson AFB', and that the Joint Chiefs approved F/AD-I priority for short-notice BLUE FLY airlift contingencies.",
 "tier": 1
 },
 {
+"id": "c-39a636610d",
 "source": "History, 1127 USAF Field Activities Group, 1 January - 30 June 1967, contents page",
 "text": "BLUE FLY and MOON DUST are listed together under FOREIGN MATERIEL PROGRAM on the contents page of the same unit history, alongside 'MIG-17 Exploitation' -- establishing the relationship as an organisational fact stated by the unit that ran both.",
 "tier": 1
@@ -35,6 +39,7 @@
 "dateEnd": null,
 "dateStart": "1961",
 "direction": "out",
+"edgeId": "e-c7960e1eab",
 "edgeLabel": "Recovered material routed to Air Force technical intelligence at Wright-Patterson",
 "id": "l-wright-patterson",
 "l0": false,
@@ -61,6 +66,7 @@
 "dateEnd": null,
 "dateStart": "1961",
 "direction": "in",
+"edgeId": "e-fc53f72232",
 "edgeLabel": "BLUE FLY provided the quick-reaction airlift for MOON DUST recoveries",
 "id": "project-moon-dust",
 "l0": false,
@@ -87,6 +93,7 @@
 "dateEnd": "1967",
 "dateStart": "1967",
 "direction": "in",
+"edgeId": "e-36df826e59",
 "edgeLabel": "ran BLUE FLY under the same Foreign Materiel Program",
 "id": "usaf-1127th-field-activities-group",
 "l0": false,
@@ -148,7 +155,7 @@
 ],
 "sub": "USAF quick-reaction airlift for MOON DUST recoveries",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 224 of 1170, score 44). 3 connections, 3 of them custody/funding/programmatic. Axes C3/A2/D2.",
+"tierRationale": "Re-graded B on a global pass (rank 227 of 1138, score 44). 3 connections, 3 of them custody/funding/programmatic. Axes C3/A2/D2.",
 "timeline": [
 {
 "claimTier": null,

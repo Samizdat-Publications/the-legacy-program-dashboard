@@ -5,21 +5,25 @@
 "band": null,
 "claims": [
 {
+"id": "c-8e38e1844a",
 "source": "CHRG-118shrg60390, cover page",
 "text": "Printed hearing record CHRG-118shrg60390 (S. Hrg. 118-648): 'THE MISSION, ACTIVITIES, OVERSIGHT, AND BUDGET OF THE ALL-DOMAIN ANOMALY RESOLUTION OFFICE - HEARING BEFORE THE SUBCOMMITTEE ON EMERGING THREATS AND CAPABILITIES OF THE COMMITTEE ON ARMED SERVICES, UNITED STATES SENATE, ONE HUNDRED EIGHTEENTH CONGRESS, FIRST SESSION, APRIL 19, 2023'. GPO print number 60-390, printed 2025.",
 "tier": 1
 },
 {
+"id": "c-a0c7063059",
 "source": "CHRG-118shrg60390, CONTENTS page and opening statement",
 "text": "Sole witness of record: 'Dr. Sean M. Kirkpatrick, Director, All-Domain Anomaly Resolution Office'. The subcommittee chair's opening remarks reference 'today's earlier closed session', establishing that a classified session preceded the open hearing.",
 "tier": 1
 },
 {
+"id": "c-1475bab18f",
 "source": "SASC ETC Subcommittee hearing, 19 April 2023; DefenseScoop same day; S.Hrg. 118-648",
 "text": "Kirkpatrick testified on 19 April 2023 that AARO was investigating more than 650 UAP cases and that spherical objects accounted for nearly half of reports.",
 "tier": 1
 },
 {
+"id": "c-97feffda65",
 "source": "Congress.gov hearing record",
 "text": "The hearing was published as S.Hrg. 118-648, 'The Mission, Activities, Oversight, and Budget of the All-Domain Anomaly Resolution Office.'",
 "tier": 1
@@ -35,6 +39,7 @@
 "dateEnd": "2023",
 "dateStart": "2023",
 "direction": "in",
+"edgeId": "e-b5bd699648",
 "edgeLabel": "chaired the hearing",
 "id": "kirsten-gillibrand",
 "l0": false,
@@ -56,6 +61,7 @@
 "dateEnd": "2023",
 "dateStart": "2023",
 "direction": "in",
+"edgeId": "e-89405ee526",
 "edgeLabel": "sole DoD witness; testified AARO held 650+ cases",
 "id": "sean-kirkpatrick",
 "l0": false,
@@ -77,6 +83,7 @@
 "dateEnd": null,
 "dateStart": "2023-04-19",
 "direction": "in",
+"edgeId": "e-f145bbac09",
 "edgeLabel": "sole witness",
 "id": "sean-kirkpatrick",
 "l0": false,
@@ -148,7 +155,7 @@
 ],
 "sub": "congressional-hearings",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 632 of 1170, score 27). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 623 of 1138, score 27). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D3.",
 "timeline": [
 {
 "claimTier": null,

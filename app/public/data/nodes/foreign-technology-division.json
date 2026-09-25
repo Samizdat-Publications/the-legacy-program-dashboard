@@ -5,26 +5,31 @@
 "band": null,
 "claims": [
 {
+"id": "c-30ac5bc3f0",
 "source": "Air Force Regulation 80-17, 'Research and Development - UNIDENTIFIED FLYING OBJECTS (UFO)', Department of the Air Force, 19 September 1966, https://nicap.org/afr80-17.htm",
 "text": "The Blue Book effort was assigned to FTD by regulation: 'The Air Force Systems Command will support the program with current resources within the Foreign Technology Division (FTD) at Wright-Patterson Air Force Base, Ohio, to continue Blue Book effort.'",
 "tier": 1
 },
 {
+"id": "c-06ff8536c6",
 "source": "Air Force Regulation 80-17, 19 September 1966, https://nicap.org/afr80-17.htm",
 "text": "FTD, not a base, was the terminal analytical office: 'FTD will: (1) Analyze and evaluate all information and evidence reported to bases on those UFOs which are not identified at the base level', and 'FTD, Wright-Patterson AFB, Ohio, will prepare a final case report on each sighting reported to it.'",
 "tier": 1
 },
 {
+"id": "c-953af1ec7d",
 "source": "Special Report of the USAF Scientific Advisory Board Ad Hoc Committee to Review Project 'Blue Book', March 1966, printed as Appendix A of the Condon Report, https://files.ncas.org/condon/text/appndx-a.htm",
 "text": "The USAF Scientific Advisory Board's ad hoc committee of March 1966 identified FTD as 'the AFSC Foreign Technology Division, which is the cognizant Air Force agency that collates information on UFO sightings and monitors investigations of individual cases', and recommended that it 'should continue to exercise its presently assigned responsibilities concerning UFOs.'",
 "tier": 1
 },
 {
+"id": "c-d6ae9dea74",
 "source": "Special Report of the USAF Scientific Advisory Board Ad Hoc Committee to Review Project 'Blue Book', March 1966, Condon Report Appendix A, https://files.ncas.org/condon/text/appndx-a.htm",
 "text": "The same 1966 committee recorded the resources behind the whole Air Force UFO programme as 'only one officer, a sergeant, and secretary'.",
 "tier": 1
 },
 {
+"id": "c-40335d571e",
 "source": "'AEROSPACE TECHNICAL INTELLIGENCE CENTER', Department of the Air Force Organizational Histories compilation, created 10 December 2025, sourced to the Air Force Historical Research Agency, https://www.usafunithistory.com/PDF/A-E/AEROSPACE%20TECHNICAL%20INTELLIGENCE%20CENTER.pdf",
 "text": "The Air Force organizational-history lineage records a discontinuation and a new constitution rather than a renaming: 'Air Technical Intelligence Center established 21 May 1951; redesignated Aerospace Technical Intelligence Center, 21 September 1959; discontinued 1 July 1961. Foreign Technology Division constituted, activated, and organized 1 July 1961', with the mission and resources absorbed by FTD on that date. Tier 2 because the compilation carrying this text is a private site citing the Air Force Historical Research Agency, and AFHRA's own page returns HTTP 403 from this environment.",
 "tier": 2
@@ -40,6 +45,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-4cc73b994d",
 "edgeLabel": "ATIC discontinued 1 July 1961; FTD constituted the same day and absorbed its mission",
 "id": "atic",
 "l0": true,
@@ -61,6 +67,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-c39e3965b6",
 "edgeLabel": "Stationed at Wright-Patterson AFB, Ohio",
 "id": "l-wright-patterson",
 "l0": false,
@@ -82,6 +89,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-d3dfb0aa44",
 "edgeLabel": "Same Wright-Patterson lineage; NASIC is the later name",
 "id": "nasic",
 "l0": false,
@@ -103,6 +111,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-f254bc0f90",
 "edgeLabel": "Held the Blue Book effort by regulation from 19 September 1966",
 "id": "project-blue-book",
 "l0": true,
@@ -124,6 +133,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-99113b8b3c",
 "edgeLabel": "Air Force Systems Command organisation under the DCS/Research and Development for the UFO programme",
 "id": "usaf",
 "l0": true,
@@ -184,7 +194,7 @@
 ],
 "sub": "Air Force Systems Command foreign materiel exploitation centre, 1961-1991; the office that held Project Blue Book",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 270 of 1170, score 41). 5 connections, 1 of them custody/funding/programmatic. Axes C2/A3/D1.",
+"tierRationale": "Re-graded B on a global pass (rank 273 of 1138, score 41). 5 connections, 1 of them custody/funding/programmatic. Axes C2/A3/D1.",
 "timeline": [
 {
 "claimTier": null,

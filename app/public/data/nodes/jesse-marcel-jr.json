@@ -38,11 +38,13 @@
 ],
 "claims": [
 {
+"id": "c-a52a581e7d",
 "source": "Marcel Jr. affidavit for the Fund for UFO Research; Disclosure Project testimony, 9 May 2001; 'The Roswell Legacy' (2009)",
 "text": "Marcel Jr. testified under oath by affidavit and repeatedly on the record that in July 1947 his father showed him debris including foil-like metal that resumed its shape and an I-beam bearing embossed purple-violet symbols.",
 "tier": 2
 },
 {
+"id": "c-49d6920dd7",
 "source": "Comparison of his 1978-2013 statements against the expanding Roswell literature",
 "text": "Marcel Jr. is the strongest single Roswell witness precisely because his claim is narrow. He never claimed to have seen a craft or a body, and never expanded his account when the surrounding literature did. Reasoning: witness accounts that grow in step with the published literature are contaminated by it; his did not.",
 "tier": 3
@@ -60,6 +62,7 @@
 "dateEnd": "1947-07",
 "dateStart": "1947-07",
 "direction": "in",
+"edgeId": "e-b6691fd7f8",
 "edgeLabel": "Father showed son the debris in July 1947",
 "id": "jesse-marcel",
 "l0": false,
@@ -123,7 +126,7 @@
 "status": "dead",
 "sub": "Physician; USN/Army flight surgeon; son of Maj. Jesse Marcel Sr.; child witness to the debris",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 774 of 1170, score 22). 1 connections, 0 of them custody/funding/programmatic. Axes C3/A0/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 758 of 1138, score 22). 1 connections, 0 of them custody/funding/programmatic. Axes C3/A0/D3.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": [

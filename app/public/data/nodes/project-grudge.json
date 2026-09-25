@@ -5,21 +5,25 @@
 "band": null,
 "claims": [
 {
+"id": "c-d069fdd870",
 "source": "Condon Report, Section V Chapter 2",
 "text": "Project SIGN transitioned to Project GRUDGE on 11 February 1949.",
 "tier": 1
 },
 {
+"id": "c-626b22f8d5",
 "source": "Condon Report, Section V Chapter 2, summarising the Grudge Report",
 "text": "The Grudge Report concluded UFO reports resulted from 'misinterpretation of various conventional objects', 'mass-hysteria', hoaxes or psychological factors, recommended reducing the scope of investigation, and found no direct threat to national security.",
 "tier": 1
 },
 {
+"id": "c-3f25efbff4",
 "source": "Ruppelt, 'The Report on Unidentified Flying Objects' (1956)",
 "text": "Under GRUDGE the project was reduced to a token effort until Ruppelt was placed in charge in late 1951.",
 "tier": 2
 },
 {
+"id": "c-3282ffb9a8",
 "source": "Inference from the eleven-month sequence documented in Condon Sec. V Ch. 2",
 "text": "GRUDGE's founding conclusions were produced within months of the destruction of the SIGN Estimate and read as a corrective to it rather than as an independent analytical finding.",
 "tier": 3
@@ -35,6 +39,7 @@
 "dateEnd": "1949",
 "dateStart": "1948",
 "direction": "in",
+"edgeId": "e-11d1e76e40",
 "edgeLabel": "Destruction of the Estimate preceded GRUDGE's dismissive posture by six months",
 "id": "estimate-of-the-situation",
 "l0": false,
@@ -56,6 +61,7 @@
 "dateEnd": "1952",
 "dateStart": "1951",
 "direction": "out",
+"edgeId": "e-4cb9a68112",
 "edgeLabel": "GRUDGE renamed Blue Book under Ruppelt in March 1952",
 "id": "project-blue-book",
 "l0": true,
@@ -116,7 +122,7 @@
 ],
 "sub": "Successor to SIGN; explicitly dismissive posture (1949-1951)",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 662 of 1170, score 26). 2 connections, 1 of them custody/funding/programmatic. Axes C1/A2/D1.",
+"tierRationale": "Re-graded C on a global pass (rank 652 of 1138, score 26). 2 connections, 1 of them custody/funding/programmatic. Axes C1/A2/D1.",
 "timeline": [
 {
 "claimTier": null,

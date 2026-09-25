@@ -27,11 +27,13 @@
 ],
 "claims": [
 {
+"id": "c-439e6bb5ba",
 "source": "Gary Voorhis, public documentary and broadcast interviews from 2018; no primary record located as of Aug 2026",
 "text": "Data recording media covering the Princeton's tracking of the objects were collected or ordered wiped by unidentified personnel in the days after 14 Nov 2004. Reasoning: the account is independently given by two Princeton crewmen in different billets, and the Navy has never produced Princeton sensor data for the date despite the incident being formally documented in its own range fouler reporting - an absence consistent with, though not proof of, removal.",
 "tier": 3
 },
 {
+"id": "c-09d15d27fa",
 "source": "Navy range fouler reports, Navy FOIA reading room, 13 January 2023, reported by The War Zone",
 "text": "The 14 Nov 2004 incident is formally documented in Navy range fouler reporting released via FOIA in January 2023, which records that reporting terminated at 3rd Fleet with no process to share it.",
 "tier": 1
@@ -49,6 +51,7 @@
 "dateEnd": "2004",
 "dateStart": "2004",
 "direction": "in",
+"edgeId": "e-6cb10296fa",
 "edgeLabel": "Independent shipmate corroboration of the post-encounter data collection",
 "id": "kevin-day",
 "l0": false,
@@ -70,6 +73,7 @@
 "dateEnd": "2004-11-18",
 "dateStart": "2004-11-15",
 "direction": "out",
+"edgeId": "e-6df1206402",
 "edgeLabel": "Voorhis describes removal or wiping of Princeton recording media",
 "id": "nimitz-2004",
 "l0": true,
@@ -91,6 +95,7 @@
 "dateEnd": "2004",
 "dateStart": "2004",
 "direction": "out",
+"edgeId": "e-73d1ba7279",
 "edgeLabel": "Says recording media were surrendered or wiped after 14 Nov 2004",
 "id": "uss-princeton",
 "l0": false,
@@ -112,6 +117,7 @@
 "dateEnd": "2004",
 "dateStart": "2004",
 "direction": "out",
+"edgeId": "e-1c7770bb23",
 "edgeLabel": "CEC/Aegis systems technician aboard USS Princeton, Nov 2004",
 "id": "uss-princeton",
 "l0": false,
@@ -174,7 +180,7 @@
 "status": "active",
 "sub": "Petty Officer, CEC/Aegis computer and radar technician, USS Princeton (CG-59), Nov 2004",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 733 of 1170, score 23). 4 connections, 2 of them custody/funding/programmatic. Axes C1/A1/D1.",
+"tierRationale": "Re-graded C on a global pass (rank 720 of 1138, score 23). 4 connections, 2 of them custody/funding/programmatic. Axes C1/A1/D1.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": [

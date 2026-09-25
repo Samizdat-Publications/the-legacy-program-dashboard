@@ -5,31 +5,37 @@
 "band": null,
 "claims": [
 {
+"id": "c-65681511bf",
 "source": "https://www.gao.gov/products/gao-04-332",
 "text": "Exact title and number: GAO-04-332, 'Industrial Security: DOD Cannot Provide Adequate Assurances That Its Oversight Ensures the Protection of Classified Information', dated March 3, 2004. GAO states the study was conducted 'In response to a Senate report accompanying the National Defense Authorization Act for Fiscal Year 2004.'",
 "tier": 1
 },
 {
+"id": "c-5d84160138",
 "source": "https://www.gao.gov/products/gao-04-332",
 "text": "Scope figure: DSS 'monitors whether 11,000-plus contractor facilities' security programs meet NISP requirements.' GAO found DSS could not demonstrate that its oversight reduced the risk of compromise and issued seven recommendations, including establishing results-oriented performance goals, identifying information needed to detect systemic vulnerabilities, regular trend analysis, time-based criteria for compromise determinations and notifications, and accountability mechanisms for identifying the government customer.",
 "tier": 1
 },
 {
+"id": "c-d1fd465816",
 "source": "https://www.gao.gov/products/gao-04-332",
 "text": "GAO-04-332 audited the very oversight function that the carve-out provision switches off. Its finding that DSS could not assure adequate oversight of the 11,000+ facilities it DID inspect is a floor, not a ceiling, for facilities where a SecDef/DepSecDef carve-out had removed DSS entirely -- those sites are outside the population GAO could even sample. Reasoning stated. GAO's own SAP access is separately gated by DoDI 5205.11 para 7.2.g.",
 "tier": 3
 },
 {
+"id": "c-039b9c6b34",
 "source": "GAO-04-332, cover summary",
 "text": "GAO-04-332 was produced 'In response to a Senate report accompanying the National Defense Authorization Act for Fiscal Year 2004' and assessed DSS's oversight of 11,000-plus contractor facilities.",
 "tier": 1
 },
 {
+"id": "c-0d453dcf92",
 "source": "GAO-04-332",
 "text": "GAO-04-332 found 'DSS has not always followed required procedures when contractors have reported security violations and possible compromises of classified information.'",
 "tier": 1
 },
 {
+"id": "c-dacd5627a3",
 "source": "GAO-04-332, footnote 2",
 "text": "GAO-04-332 footnote 2 records that the review 'did not include DSS's oversight of special access programs at contractor facilities.'",
 "tier": 1
@@ -45,6 +51,7 @@
 "dateEnd": "2004-03-03",
 "dateStart": "2004-03-03",
 "direction": "in",
+"edgeId": "e-384b6b43d6",
 "edgeLabel": "GAO found DoD could not assure adequate industrial security oversight - and excluded SAPs",
 "id": "dcsa-nisp",
 "l0": false,
@@ -104,7 +111,7 @@
 ],
 "sub": "gao-report",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 525 of 1170, score 30). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 523 of 1138, score 30). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D3.",
 "timeline": [
 {
 "claimTier": null,

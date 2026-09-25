@@ -5,6 +5,7 @@
 "band": null,
 "claims": [
 {
+"id": "c-39b476941e",
 "source": "Inference from Green's documented affiliations",
 "text": "Detroit's significance on this board is as the post-agency academic base of Christopher 'Kit' Green at Wayne State University, connecting CIA anomalous-phenomena work, NIDS/BAASS biomedical research and the modern Stanford circle. Reasoning: person-node inference; the city holds no independent installation role.",
 "tier": 3
@@ -20,6 +21,7 @@
 "dateEnd": null,
 "dateStart": "1940",
 "direction": "in",
+"edgeId": "e-a7a4e46b7e",
 "edgeLabel": "Detroit Arsenal is in Warren, thirteen miles north of Detroit",
 "id": "l-detroit-arsenal",
 "l0": false,
@@ -78,7 +80,7 @@
 ],
 "sub": "City in Wayne County; Wayne State University School of Medicine",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 1033 of 1170, score 14). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D1.",
+"tierRationale": "Re-graded C on a global pass (rank 1003 of 1138, score 14). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D1.",
 "timeline": [],
 "unverified": []
 }

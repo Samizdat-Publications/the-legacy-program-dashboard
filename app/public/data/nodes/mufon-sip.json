@@ -5,16 +5,19 @@
 "band": null,
 "claims": [
 {
+"id": "c-b943ef143f",
 "source": "Contemporaneous MUFON and BAASS accounts; The UFO Chronicles, March 2011",
 "text": "BAASS funded MUFON's Star Team Impact Project in 2009 to provide rapid-response field investigation, with case data flowing back to BAASS; the arrangement ended in 2010.",
 "tier": 2
 },
 {
+"id": "c-7ddfe738fe",
 "source": "BAASS Ten Month Report (2009)",
 "text": "The BAASS Ten Month Report describes case collection and database construction consistent with an external civilian reporting pipeline.",
 "tier": 2
 },
 {
+"id": "c-7b1c9cd54c",
 "source": "Inference from the SIP arrangement's structure",
 "text": "Routing civilian UFO reports into a DIA-contracted database without the reporting public's knowledge is a data-provenance problem that has never been examined, and it is one reason the government's case holdings may substantially exceed what any FOIA of military reporting channels would reveal.",
 "tier": 3
@@ -30,6 +33,7 @@
 "dateEnd": "2010",
 "dateStart": "2009",
 "direction": "in",
+"edgeId": "e-26348e1284",
 "edgeLabel": "funded MUFON's Star Team Impact Project",
 "id": "baass",
 "l0": true,
@@ -85,7 +89,7 @@
 ],
 "sub": "Contractor-funded civilian rapid-response investigation program, 2009-2010",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 881 of 1170, score 19). 1 connections, 1 of them custody/funding/programmatic. Axes C2/A0/D1.",
+"tierRationale": "Re-graded C on a global pass (rank 862 of 1138, score 19). 1 connections, 1 of them custody/funding/programmatic. Axes C2/A0/D1.",
 "timeline": [
 {
 "claimTier": null,

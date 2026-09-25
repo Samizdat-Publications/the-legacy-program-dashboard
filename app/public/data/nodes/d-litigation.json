@@ -5,16 +5,19 @@
 "band": null,
 "claims": [
 {
+"id": "c-b2e909b80b",
 "source": "CourtListener, CAUS v. NSA",
 "text": "Citizens Against UFO Secrecy v. NSA was decided by the D.C. Circuit in November 1981; the Supreme Court denied certiorari on 8 March 1982.",
 "tier": 1
 },
 {
+"id": "c-d07aaab5ed",
 "source": "CourtListener, CAUS v. DoD (9th Cir.)",
 "text": "Citizens Against UFO Secrecy, Inc. v. United States Department of Defense reached the Ninth Circuit, decided 14 November 2001.",
 "tier": 1
 },
 {
+"id": "c-787d65e5a7",
 "source": "Cash v. United States docket and Order of Dismissal",
 "text": "Cash v. United States, No. H-84-348 (S.D. Tex.), the Cash-Landrum tort suit, was dismissed by order dated 21 August 1986.",
 "tier": 1
@@ -30,6 +33,7 @@
 "dateEnd": null,
 "dateStart": "1980-01-01",
 "direction": "in",
+"edgeId": "e-7d789ec947",
 "edgeLabel": "Appeal exhausted, suit filed",
 "id": "d-foia",
 "l0": false,
@@ -51,6 +55,7 @@
 "dateEnd": null,
 "dateStart": "1978-01-01",
 "direction": "out",
+"edgeId": "e-f874ce84b8",
 "edgeLabel": "Courtroom outcomes set the witness's risk calculus",
 "id": "d-legal",
 "l0": false,
@@ -72,6 +77,7 @@
 "dateEnd": "2013-07-17",
 "dateStart": "2012",
 "direction": "in",
+"edgeId": "e-96ed08c5d6",
 "edgeLabel": "2012 suit dismissed 2013 on the 1976 waiver, timeliness and sovereign immunity",
 "id": "frank-olson-death-1953",
 "l0": false,
@@ -132,7 +138,7 @@
 ],
 "sub": "Adversarial domain - the courtroom as a discovery instrument, and its documented ceiling",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 893 of 1170, score 19). 3 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 871 of 1138, score 19). 3 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D2.",
 "timeline": [],
 "unverified": []
 }

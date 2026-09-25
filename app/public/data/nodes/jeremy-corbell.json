@@ -22,26 +22,31 @@
 ],
 "claims": [
 {
+"id": "c-c8776d9891",
 "source": "Letterboxd record, https://letterboxd.com/film/bob-lazar-area-51-and-flying-saucers/ , opened 2026-09-18",
 "text": "He directed Bob Lazar: Area 51 and Flying Saucers, 2018, 97 minutes, narrated by Mickey Rourke and featuring Bob Lazar, George Knapp and Joy White. It is the artefact that returned the S-4 claim to mass circulation thirty years after the 1989 broadcasts, and it is how the July 2017 search of United Nuclear entered the UFO literature.",
 "tier": 1
 },
 {
+"id": "c-b6e9a34c47",
 "source": "Wikipedia, 'Jeremy Corbell', retrieved 12 August 2026 — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "text": "Corbell has released leaked footage from US Navy aircraft associated with the USS Omaha and video of apparently triangular objects filmed by Navy personnel.",
 "tier": 2
 },
 {
+"id": "c-6164b54d64",
 "source": "Wikipedia, 'Jeremy Corbell' — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "text": "Corbell directed Hunt for the Skinwalker, based on the book by George Knapp and Colm Kelleher.",
 "tier": 2
 },
 {
+"id": "c-8f4645bce9",
 "source": "CHRG-118hhrg53022, Index of Documents https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm",
 "text": "Corbell's report 'The UAP Puzzle' was entered into the record of the 26 July 2023 House Oversight hearing by Rep. Tim Burchett, and appears in the hearing's Index of Documents as 'Report, Jeremy Corbell, ``The UAP Puzzle''; submitted by Rep. Burchett.'",
 "tier": 1
 },
 {
+"id": "c-7c12ceacfd",
 "source": "CHRG-118hhrg53022, Rep. Burchett https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm",
 "text": "Burchett on the record at that hearing: 'I know I saw out in the crowd there George Knapp, my buddy, Jeremy Corbell. They are not witnesses, but they have provided some statements on this subject, and I seek unanimous consent to enter those statements into the record.' The unanimous consent was granted without objection.",
 "tier": 1
@@ -59,6 +64,7 @@
 "dateEnd": null,
 "dateStart": "2018",
 "direction": "out",
+"edgeId": "e-6ea67adbda",
 "edgeLabel": "Director of the 2018 documentary",
 "id": "corbell-lazar-2018",
 "l0": false,
@@ -80,6 +86,7 @@
 "dateEnd": "2026",
 "dateStart": "2022",
 "direction": "in",
+"edgeId": "e-638cde1132",
 "edgeLabel": "Co-hosts the Weaponized podcast",
 "id": "george-knapp",
 "l0": false,
@@ -101,6 +108,7 @@
 "dateEnd": "2023",
 "dateStart": "2023",
 "direction": "out",
+"edgeId": "e-85739d3979",
 "edgeLabel": "His report 'The UAP Puzzle' was submitted into the record by Rep. Burchett",
 "id": "hearing-2023-07-26",
 "l0": true,
@@ -122,9 +130,10 @@
 "dateEnd": null,
 "dateStart": "2026",
 "direction": "in",
+"edgeId": "e-451a2f225d",
 "edgeLabel": "'Sleeping Dog' document trove said to originate with a deceased LANL cybersecurity chief",
 "id": "lanl",
-"l0": false,
+"l0": true,
 "label": "Los Alamos National Laboratory",
 "note": "Corbell states the materials came from the son of the laboratory's late former cybersecurity chief and include material on a claimed 1991 meeting at Los Alamos; the laboratory has not authenticated them.",
 "sources": [
@@ -143,6 +152,7 @@
 "dateEnd": "2023",
 "dateStart": "2023",
 "direction": "out",
+"edgeId": "e-a9e26df33c",
 "edgeLabel": "Corbell publicly challenged the Senate Appropriations Committee to audit Lockheed Martin's special access programs",
 "id": "lockheed-martin",
 "l0": true,
@@ -164,6 +174,7 @@
 "dateEnd": "2025",
 "dateStart": "2023",
 "direction": "in",
+"edgeId": "e-ca701262bc",
 "edgeLabel": "Footage reached the public through journalists, not through the Navy or AARO",
 "id": "uss-jackson-2023",
 "l0": false,
@@ -185,6 +196,7 @@
 "dateEnd": "2026",
 "dateStart": "2022",
 "direction": "out",
+"edgeId": "e-1f8c08fa28",
 "edgeLabel": "Co-host",
 "id": "weaponized-podcast",
 "l0": false,
@@ -253,7 +265,7 @@
 "status": "active",
 "sub": "Filmmaker; co-host, Weaponized",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 619 of 1170, score 27). 7 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 612 of 1138, score 27). 7 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": []

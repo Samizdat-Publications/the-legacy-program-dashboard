@@ -5,11 +5,13 @@
 "band": null,
 "claims": [
 {
+"id": "c-be1780838a",
 "source": "Office of the Chief Science Advisor of Canada, Sky Canada Project report, June 2025",
 "text": "'While there is no single model or universally established operating standard, the processes in place in a few countries, notably the United States, France and Chile, provide interesting examples of coordinated, transparent, and scientifically driven approaches to UAP reporting.'",
 "tier": 1
 },
 {
+"id": "c-c8fd5e565e",
 "source": "Sky Canada Project report, June 2025",
 "text": "'GEIPAN has a team of three full-time employees to manage the reporting process ... Reports are investigated through the efforts of over 20 trained volunteers throughout France.'",
 "tier": 1
@@ -25,6 +27,7 @@
 "dateEnd": null,
 "dateStart": "1997",
 "direction": "in",
+"edgeId": "e-3589f8391f",
 "edgeLabel": "the civil-aviation implementation of the same model",
 "id": "cefaa",
 "l0": true,
@@ -46,6 +49,7 @@
 "dateEnd": null,
 "dateStart": "1977",
 "direction": "in",
+"edgeId": "e-5626217b95",
 "edgeLabel": "the reference implementation of a civil state UAP office",
 "id": "geipan",
 "l0": true,
@@ -72,6 +76,7 @@
 "dateEnd": "2025-06",
 "dateStart": "2025-06",
 "direction": "in",
+"edgeId": "e-f48b2b0d7c",
 "edgeLabel": "the report is the source of the three-office model",
 "id": "sky-canada-project",
 "l0": true,
@@ -122,7 +127,7 @@
 ],
 "sub": "The only national UAP arrangements a G7 government has endorsed as models",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 1013 of 1170, score 15). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 983 of 1138, score 15). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.",
 "timeline": [],
 "unverified": []
 }

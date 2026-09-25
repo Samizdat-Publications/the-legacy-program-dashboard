@@ -8,11 +8,13 @@
 "chronology": [],
 "claims": [
 {
+"id": "c-97db05782b",
 "source": "https://www.appropriations.senate.gov/about/members",
 "text": "Patty Murray (D-WA) is listed as Vice Chair of the Senate Appropriations Committee on the committee's official members page, which is the ranking minority position on that committee.",
 "tier": 1
 },
 {
+"id": "c-be95f060f4",
 "source": "https://www.govinfo.gov/content/pkg/GPO-CPUB-118spub3/html/GPO-CPUB-118spub3.htm",
 "text": "Murray was Chairman of the Senate Appropriations Committee in the 118th Congress.",
 "tier": 1
@@ -28,6 +30,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-d8c412038c",
 "edgeLabel": "seat 4 of 12 - Vice Chair (ranking minority member), Senate Appropriations",
 "id": "waived-sap-notification-group",
 "l0": true,
@@ -102,7 +105,7 @@
 "status": "active",
 "sub": "Vice Chair, Senate Appropriations Committee (119th Congress, serving August 2026); Chairman of that committee in the 118th Congress including 2023",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 714 of 1170, score 24). 1 connections, 0 of them custody/funding/programmatic. Axes C2/A1/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 703 of 1138, score 24). 1 connections, 0 of them custody/funding/programmatic. Axes C2/A1/D3.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": []

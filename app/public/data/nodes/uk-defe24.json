@@ -5,11 +5,13 @@
 "band": null,
 "claims": [
 {
+"id": "c-f7e57878f3",
 "source": "The National Archives UFO files pages, 2008-2013 (Internet Archive captures)",
 "text": "Full file lists per tranche are published by The National Archives on its UFO files pages and are reproducible piece by piece.",
 "tier": 1
 },
 {
+"id": "c-168b873a9d",
 "source": "The National Archives UFO files page epigraph",
 "text": "Churchill's 1952 minute is held at PREM 11/855.",
 "tier": 1
@@ -25,6 +27,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-18e1e4e6ae",
 "edgeLabel": "The Belgian material sits in named DEFE 24 pieces",
 "id": "belgian-af-f16-intercept-1990",
 "l0": false,
@@ -46,6 +49,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-c67290f01a",
 "edgeLabel": "DEFE 24/2086, closed to 2078, open only as a redacted digital copy",
 "id": "cosford-incident-1993",
 "l0": false,
@@ -67,6 +71,7 @@
 "dateEnd": "2076-01-01",
 "dateStart": "1990-08-01",
 "direction": "in",
+"edgeId": "e-2af0a56a75",
 "edgeLabel": "The Defence Secretariat file covering the claimed assessment is closed until 2076",
 "id": "jaric",
 "l0": false,
@@ -88,6 +93,7 @@
 "dateEnd": "2013-06",
 "dateStart": "2008-05",
 "direction": "in",
+"edgeId": "e-5a028752a6",
 "edgeLabel": "released files placed in DEFE 24 and DEFE 31",
 "id": "tna-ufo-release",
 "l0": false,
@@ -143,7 +149,7 @@
 ],
 "sub": "Record series holding the released UK UFO files",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 610 of 1170, score 28). 4 connections, 4 of them custody/funding/programmatic. Axes C0/A0/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 603 of 1138, score 28). 4 connections, 4 of them custody/funding/programmatic. Axes C0/A0/D3.",
 "timeline": [],
 "unverified": []
 }

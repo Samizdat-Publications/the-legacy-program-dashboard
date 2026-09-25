@@ -5,21 +5,25 @@
 "band": null,
 "claims": [
 {
+"id": "c-2d4169e20f",
 "source": "CUFON transcription and provenance record — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "text": "The memorandum is dated 9 January 1953, carries reference G-1579-4, is marked SECRET, is unsigned, and is addressed to Miles E. Goll at Wright-Patterson Air Force Base, Ohio, under Project Stork.",
 "tier": 2
 },
 {
+"id": "c-909b2a63ba",
 "source": "CUFON transcription of the memorandum text — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "text": "It states that 'many different types of aerial activity should be secretly and purposefully scheduled within the area' of proposed controlled experiments.",
 "tier": 2
 },
 {
+"id": "c-2a57a4f73b",
 "source": "Jacques Vallee, Forbidden Science; CUFON; Bad UFOs analysis, 18 February 2012",
 "text": "Jacques Vallee discovered the memorandum in 1967 while working with J. Allen Hynek's papers, recorded it in his journal on 18 June 1967, and published an account in Forbidden Science (1992) using the codename 'Pentacle'; H. C. Cross was later identified as its author.",
 "tier": 2
 },
 {
+"id": "c-6787d85102",
 "source": "Vallee correspondence quoted by CUFON",
 "text": "Vallee holds that the Robertson Panel of 14-16 January 1953 was not briefed on the Pentacle proposals and that another group had already decided what could and could not be discussed.",
 "tier": 2
@@ -35,6 +39,7 @@
 "dateEnd": null,
 "dateStart": "1953",
 "direction": "in",
+"edgeId": "e-cdf7e07908",
 "edgeLabel": "Author of the 9 January 1953 memorandum",
 "id": "howard-c-cross",
 "l0": false,
@@ -56,6 +61,7 @@
 "dateEnd": null,
 "dateStart": "1967",
 "direction": "in",
+"edgeId": "e-c9adcb5430",
 "edgeLabel": "Discovered the memorandum in 1967 among Hynek's papers and named its author 'Pentacle'",
 "id": "jacques-vallee",
 "l0": false,
@@ -77,6 +83,7 @@
 "dateEnd": null,
 "dateStart": "1953",
 "direction": "out",
+"edgeId": "e-d9eca79c62",
 "edgeLabel": "Addressed to Miles E. Goll at Wright-Patterson Air Force Base",
 "id": "l-wright-patterson",
 "l0": false,
@@ -98,6 +105,7 @@
 "dateEnd": "1953",
 "dateStart": "1953",
 "direction": "out",
+"edgeId": "e-748a157dea",
 "edgeLabel": "Written five days before the panel met; per Vallee the panel was never briefed on its proposals",
 "id": "robertson-panel",
 "l0": true,
@@ -136,6 +144,7 @@
 "by": null,
 "claimTier": 2,
 "denialKind": "association",
+"edgeId": "e-748a157dea",
 "label": "Written five days before the panel met; per Vallee the panel was never briefed on its proposals",
 "note": "Vallee's conclusion is that a separate group had already decided what the panel could and could not discuss - contractor-side predetermination of an official scientific review.",
 "of": null,
@@ -192,7 +201,7 @@
 ],
 "sub": "Two-page SECRET memorandum, 9 January 1953, ref. G-1579-4, H. C. Cross (Battelle) to Miles E. Goll (Wright-Patterson AFB), under Project Stork",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 367 of 1170, score 36). 4 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D2.",
+"tierRationale": "Re-graded B on a global pass (rank 369 of 1138, score 36). 4 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D2.",
 "timeline": [
 {
 "claimTier": null,

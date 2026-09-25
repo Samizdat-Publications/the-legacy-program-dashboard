@@ -5,41 +5,49 @@
 "band": null,
 "claims": [
 {
+"id": "c-5376064a20",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237645/",
 "text": "Defense Intelligence Reference Document titled \"Concepts for Extracting Energy From the Quantum Vacuum\", series \"Acquisition Threat Support\", published 2010-04-06 with an Intelligence Cut-Off Date (ICOD) of 2009-12-01, DIA document number DIA-08-1004-007. Released by DIA under FOIA and posted in the DIA FOIA Electronic Reading Room.",
 "tier": 1
 },
 {
+"id": "c-dc8d062ae8",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237645/",
 "text": "Inside cover reads: \"This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency [redacted b(3) 10 USC 424] Advanced Aerospace Weapon System Applications (AAWSA) Program\" and directs questions to the \"AAWSA Program Manager, Defense Intelligence Agency, ATTN: [redacted], Bldg 6000, Washington, DC 20340-5100\".",
 "tier": 1
 },
 {
+"id": "c-341aa13b60",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237645/",
 "text": "Author name is withheld in the DIA-released copy under FOIA exemption (b)(6); the \"Prepared by:\" line is withheld under (b)(3) 10 USC 424. The released cover therefore does not attribute the DIRD to a named author.",
 "tier": 1
 },
 {
+"id": "c-a31395b4d1",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237645/",
 "text": "Released PDF is 57 pages, marked UNCLASSIFIED//FOR OFFICIAL USE ONLY (FOUO caveat partially illegible in the scan).",
 "tier": 1
 },
 {
+"id": "c-9be16161de",
 "source": "https://irp.fas.org/dia/aatip-list.pdf",
 "text": "The DIA letter of 9 January 2018 lists entry 14 as 'Concepts for Extracting Energy from the Quantum Vacuum, Dr Eric Davis, EarthTech International'; the earlier KLAS list rendered the same entry as 'Vacuum Energy Applications'.",
 "tier": 1
 },
 {
+"id": "c-f1cb03a37a",
 "source": "https://earthtech.org/pubs/davis/",
 "text": "EarthTech International's own publication list for Eric W. Davis independently confirms the attribution and the document number: 'Davis, E. W. (2010), \"Concepts for Extracting Energy From the Quantum Vacuum,\" Defense Intelligence Reference Document, Acquisition Threat Support, DIA-08-1004-007, Acquisition Support Division (DWO-3), Defense Warning Office, Directorate for Analysis, Defense Intelligence Agency, Washington, DC.'",
 "tier": 1
 },
 {
+"id": "c-9764335717",
 "source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_24-DIRD_Concepts_for_Extracting_Energy_from_the_Quantum_Vacuum.pdf",
 "text": "The released cover page carries the date 6 April 2010, an Intelligence Cut-Off Date of 1 December 2009 and document number DIA-08-1004-007, matching EarthTech's citation exactly.",
 "tier": 1
 },
 {
+"id": "c-6bbac82e3f",
 "source": "https://earthtech.org/pubs/davis/",
 "text": "Davis and Harold Puthoff had published the same argument in the open literature the previous year as 'Chapter 18: On Extracting Energy from the Quantum Vacuum' in 'Frontiers of Propulsion Science' (AIAA, 2009), the volume Davis co-edited with Marc G. Millis.",
 "tier": 1
@@ -55,6 +63,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-6ad5eeda0b",
 "edgeLabel": "commissioned under AAWSAP; Acquisition Support Division (DWO-3), Defense Warning Office",
 "id": "aawsap",
 "l0": true,
@@ -86,6 +95,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-4ae4877705",
 "edgeLabel": "subject domain: zero-point/vacuum energy extraction",
 "id": "d-exotic",
 "l0": false,
@@ -117,6 +127,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-5bff3ecaa5",
 "edgeLabel": "DIRD",
 "id": "dird-series",
 "l0": true,
@@ -138,6 +149,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-069838b70c",
 "edgeLabel": "series member",
 "id": "dird-series",
 "l0": true,
@@ -164,6 +176,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-d061673a2d",
 "edgeLabel": "produced at EarthTech International, Austin",
 "id": "earthtech-international",
 "l0": true,
@@ -205,6 +218,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-5f64f65cea",
 "edgeLabel": "authored by Eric W. Davis",
 "id": "eric-davis",
 "l0": false,
@@ -317,7 +331,7 @@
 ],
 "sub": "defense-intelligence-reference-document",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 356 of 1170, score 36). 6 connections, 2 of them custody/funding/programmatic. Axes C0/A0/D0.",
+"tierRationale": "Re-graded B on a global pass (rank 358 of 1138, score 36). 6 connections, 2 of them custody/funding/programmatic. Axes C0/A0/D0.",
 "timeline": [],
 "unverified": []
 }

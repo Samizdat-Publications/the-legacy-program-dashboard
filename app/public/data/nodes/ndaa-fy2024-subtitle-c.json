@@ -5,41 +5,49 @@
 "band": null,
 "claims": [
 {
+"id": "c-3c40cb48c7",
 "source": "PLAW-118publ31 Div. A Title XVIII Subtitle C",
 "text": "Enacted as Public Law 118-31, Division A, Title XVIII, Subtitle C ('Unidentified Anomalous Phenomena'), secs. 1841-1843, 137 Stat. 699-707. Sec. 1841 carries the note '44 USC 2107 note'. Approved 22 December 2023.",
 "tier": 1
 },
 {
+"id": "c-c12ce76b68",
 "source": "Comparison of BILLS-118s2226es Div. G with PLAW-118publ31 Subtitle C",
 "text": "Subtitle C corresponds one-to-one to secs. 9004, 9005 and 9006 of the Senate-passed Division G. Senate secs. 9001-9003 and 9007-9015 - including the Review Board (9007-9009), eminent domain over recovered technologies of unknown origin and biological evidence of non-human intelligence (9010), disclosure of other materials and additional study (9011), termination (9013) and authorization of appropriations (9014) - have no enacted counterpart.",
 "tier": 1
 },
 {
+"id": "c-6025e55e41",
 "source": "PLAW-118publ31 sec. 1841(a)(1)(C), 137 Stat. 699-700",
 "text": "Sec. 1841(a)(1)(C) puts the phrases 'technologies of unknown origin' and 'non-human intelligence' into enacted federal law as categories of record the Archivist must collect, '(or equivalent subjects by any other name with the specific and sole exclusion of temporarily non-attributed objects)'.",
 "tier": 1
 },
 {
+"id": "c-e3d235c634",
 "source": "PLAW-118publ31 sec. 1842(g)(2)(D), 137 Stat. 704-705",
 "text": "Sec. 1842(g)(2)(D) requires full public disclosure of each UAP record within 25 years of its first creation unless the President personally certifies identifiable harm outweighing the public interest.",
 "tier": 1
 },
 {
+"id": "c-630625b5fd",
 "source": "P.L. 118-31, Sec. 1843(a), GPO",
 "text": "Sec. 1843(a) vests the postponement determination in 'the original classification authority' rather than in any independent reviewer.",
 "tier": 1
 },
 {
+"id": "c-0837837ed9",
 "source": "P.L. 118-31, Sec. 1843(b), GPO",
 "text": "Sec. 1843(b) permits Senior Agency Officials to withdraw records from the Collection, with 60 days' notice to Congress, on their own determination that the records are unrelated and properly classified.",
 "tier": 1
 },
 {
+"id": "c-26410e2ffc",
 "source": "P.L. 118-31, Sec. 1842(a)(2), GPO",
 "text": "Sec. 1842(a)(2) prohibits destruction, alteration or mutilation of any UAP record and bars reclassification of anything already publicly disclosed before enactment.",
 "tier": 1
 },
 {
+"id": "c-b8ef38c69e",
 "source": "Inference from comparison of Sec. 9009(c)(1) with Sec. 1843(a)",
 "text": "Retaining the 'clear and convincing evidence' standard while transferring its application from an independent board to the original classifier preserves the appearance of the Senate's regime while removing its effect.",
 "tier": 3
@@ -55,6 +63,7 @@
 "dateEnd": "2023",
 "dateStart": "2023",
 "direction": "in",
+"edgeId": "e-7f00597322",
 "edgeLabel": "Publicly called the removal of the Review Board an outrage",
 "id": "chuck-schumer",
 "l0": false,
@@ -74,33 +83,13 @@
 "claimTier": 1,
 "cls": "institution",
 "dateEnd": null,
-"dateStart": "2023-12-22",
-"direction": "in",
-"edgeLabel": "created by",
-"id": "nara-rg615",
-"l0": true,
-"label": "National Archives Record Group 615 - UAP Records Collection",
-"note": "Record Group 615 exists under sections 1841-1843 of the FY2024 NDAA, which require NARA to establish the collection and each agency to review, identify and organise its UAP records.",
-"sources": [
-{
-"date": "2026-08-12",
-"name": "National Archives, UAP Records FAQs",
-"url": "https://www.archives.gov/research/topics/uaps/faqs"
-}
-],
-"tier": "A",
-"type": "legislative"
-},
-{
-"claimTier": 1,
-"cls": "institution",
-"dateEnd": null,
 "dateStart": "2024",
 "direction": "out",
+"edgeId": "e-1d0af34824",
 "edgeLabel": "Secs. 1841-1843 created RG 615 at the National Archives",
-"id": "uap-records-collection-rg615",
-"l0": false,
-"label": "Unidentified Anomalous Phenomena Records Collection (NARA Record Group 615)",
+"id": "nara-uap-collection",
+"l0": true,
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection",
 "note": "The collection is the only concrete institution produced by the entire UAPDA fight.",
 "sources": [
 {
@@ -114,8 +103,30 @@
 "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
 }
 ],
-"tier": "B",
+"tier": "A",
 "type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2023-12-22",
+"direction": "in",
+"edgeId": "e-536b707880",
+"edgeLabel": "created by",
+"id": "nara-uap-collection",
+"l0": true,
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection",
+"note": "Record Group 615 exists under sections 1841-1843 of the FY2024 NDAA, which require NARA to establish the collection and each agency to review, identify and organise its UAP records.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "National Archives, UAP Records FAQs",
+"url": "https://www.archives.gov/research/topics/uaps/faqs"
+}
+],
+"tier": "A",
+"type": "legislative"
 },
 {
 "claimTier": 1,
@@ -123,6 +134,7 @@
 "dateEnd": null,
 "dateStart": "2023",
 "direction": "out",
+"edgeId": "e-575f3f4afc",
 "edgeLabel": "Postponement authority returned to the original classifier",
 "id": "uap-records-review-board",
 "l0": false,
@@ -149,6 +161,7 @@
 "dateEnd": "2023",
 "dateStart": "2023",
 "direction": "in",
+"edgeId": "e-e15db81f8e",
 "edgeLabel": "Fifteen sections reduced to three in conference",
 "id": "uapda-2023",
 "l0": true,
@@ -173,7 +186,7 @@
 "coords": null,
 "dateEnd": null,
 "dateStart": "2023",
-"deg": 5,
+"deg": 4,
 "denials": [
 {
 "a": {
@@ -187,6 +200,7 @@
 "by": null,
 "claimTier": 2,
 "denialKind": "association",
+"edgeId": "e-7f00597322",
 "label": "Publicly called the removal of the Review Board an outrage",
 "note": "Schumer said it was 'really an outrage the House didn't work with us on adopting our proposal for a review board' after the conference product removed it.",
 "of": null,
@@ -210,6 +224,7 @@
 "by": null,
 "claimTier": 1,
 "denialKind": "association",
+"edgeId": "e-575f3f4afc",
 "label": "Postponement authority returned to the original classifier",
 "note": "Sec. 1843(a) vests the clear-and-convincing determination in 'the original classification authority' — the very offices the Review Board was created to review.",
 "of": null,
@@ -261,8 +276,8 @@
 }
 ],
 "sub": "Enacted UAP records regime, 22 December 2023",
-"tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 171 of 1170, score 49). 5 connections, 0 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C1/A2/D2.",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 172 of 1138, score 49). 5 connections, 0 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C1/A2/D2.",
 "timeline": [
 {
 "claimTier": null,

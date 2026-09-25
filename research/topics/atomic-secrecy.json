@@ -1,0 +1,31 @@
+{
+ "id": "atomic-secrecy",
+ "title": "Atomic secrecy and the weapons laboratories",
+ "kind": "mechanism",
+ "section": "secrecy-machinery",
+ "span": {
+  "from": "1946",
+  "to": "2026"
+ },
+ "focusEra": "0",
+ "anchors": [
+  "atomic-energy-act-1946",
+  "atomic-energy-act-1954",
+  "atomic-energy-commission",
+  "doe",
+  "nnsa",
+  "lanl",
+  "llnl",
+  "edward-teller",
+  "leslie-r-groves",
+  "afswp"
+ ],
+ "absorbs": [
+  "d-nuclear",
+  "d-nuc"
+ ],
+ "essays": [],
+ "status": "draft",
+ "notes": "The phrase 'born classified' does not appear in the 1954 Act; the topic says so. The weapons laboratories (DOE, Los Alamos, Livermore) sit here rather than under Area 51.",
+ "appendixT": "atomic-secrecy"
+}

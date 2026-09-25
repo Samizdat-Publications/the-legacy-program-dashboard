@@ -5,26 +5,31 @@
 "band": null,
 "claims": [
 {
+"id": "c-6bbbeeef89",
 "source": "CRS Report R44629, 'Federally Funded Research and Development Centers (FFRDCs): Background and Issues for Congress'",
 "text": "FAR 35.017 grants FFRDCs access to government and supplier data, including sensitive and proprietary information, and to employees and facilities beyond that common in a normal contractual relationship.",
 "tier": 1
 },
 {
+"id": "c-6c9e87a52d",
 "source": "CRS Report R44629, updated 15 May 2026",
 "text": "As of February 2026, 41 FFRDCs were sponsored or co-sponsored by 12 federal agencies.",
 "tier": 1
 },
 {
+"id": "c-f3f806fd76",
 "source": "CRS Report R44629, summarising FAR 35.017",
 "text": "FFRDCs must operate in the public interest with objectivity and independence, be free from organisational conflicts of interest, fully disclose their activities to their sponsoring agency, and may not use their special access to compete with the private sector for federal R&D contracts.",
 "tier": 1
 },
 {
+"id": "c-325ff33b39",
 "source": "Rep. Eric Burlison letter to MITRE, 22 May 2026, as quoted by MeriTalk, 29 May 2026",
 "text": "Burlison's 22 May 2026 letter to MITRE rests explicitly on this structure: 'FFRDCs often receive special access to government facilities, data, sponsor requirements, and sensitive technical information that ordinary private contractors may not receive.'",
 "tier": 1
 },
 {
+"id": "c-5a6c021232",
 "source": "Structural inference from FAR 35.017 and the FOIA definition of agency records",
 "text": "The combination of contractor-held records outside FOIA, disclosure obligations running only to the sponsoring agency, and permanent sole-source relationships makes the FFRDC layer the single most defensible place in the US system to host an unacknowledged programme. Reasoning: each of the three properties independently removes an oversight mechanism, and no other institutional form removes all three simultaneously.",
 "tier": 3
@@ -40,6 +45,7 @@
 "dateEnd": null,
 "dateStart": "1960",
 "direction": "in",
+"edgeId": "e-d20cdb2f9e",
 "edgeLabel": "Operates the only FFRDC dedicated exclusively to the space enterprise",
 "id": "aerospace-corporation",
 "l0": false,
@@ -66,6 +72,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-0dfc20af7d",
 "edgeLabel": "the FFRDC seam is a species of contracting mechanics, not a separate subject",
 "id": "d-contracting",
 "l0": false,
@@ -88,10 +95,33 @@
 },
 {
 "claimTier": 1,
+"cls": "domain",
+"dateEnd": null,
+"dateStart": "1947-01-01",
+"direction": "in",
+"edgeId": "e-cb35a5f80f",
+"edgeLabel": "The seam between government and industry",
+"id": "d-contractor",
+"l0": false,
+"label": "Prime Contractor Custody",
+"note": "FAR 35.017 gives the FFRDC access to both government classified holdings and contractor proprietary data - the only entity type that can see both sides of the compartment.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "FAR 35.017, Federally Funded Research and Development Centers",
+"url": "https://www.acquisition.gov/far/35.017"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
 "cls": "legislation",
 "dateEnd": null,
 "dateStart": "1984",
 "direction": "out",
+"edgeId": "e-fb07405e7c",
 "edgeLabel": "FAR 35.017 is the regulation that creates the seam",
 "id": "far-35-017",
 "l0": false,
@@ -108,11 +138,39 @@
 "type": "institutional"
 },
 {
+"claimTier": 3,
+"cls": "document",
+"dateEnd": null,
+"dateStart": "2026",
+"direction": "in",
+"edgeId": "e-6832526c0c",
+"edgeLabel": "Argues FFRDCs are the 'missing link' that lets programmes be vested outside government",
+"id": "gerb-mitre-investigation",
+"l0": true,
+"label": "UAP Gerb - The MITRE Corporation investigation",
+"note": "The structural argument is independently supported by FAR 35.017's dual-access provision, whatever the status of the specific allegations.",
+"sources": [
+{
+"date": "2026-08-07",
+"name": "UAP Gerb, YouTube",
+"url": "https://www.youtube.com/watch?v=107BtDYhTkA"
+},
+{
+"date": "2026-05-15",
+"name": "CRS Report R44629",
+"url": "https://www.everycrsreport.com/reports/R44629.html"
+}
+],
+"tier": "B",
+"type": "investigative"
+},
+{
 "claimTier": 1,
 "cls": "institution",
 "dateEnd": null,
 "dateStart": "1956",
 "direction": "in",
+"edgeId": "e-93bc8e9953",
 "edgeLabel": "Operates the only FFRDC sponsored by the National Security Agency",
 "id": "ida",
 "l0": false,
@@ -134,6 +192,7 @@
 "dateEnd": null,
 "dateStart": "1942",
 "direction": "in",
+"edgeId": "e-9a05286170",
 "edgeLabel": "A UARC, not an FFRDC - the unexamined branch of the same mechanism",
 "id": "jhuapl",
 "l0": false,
@@ -155,6 +214,7 @@
 "dateEnd": null,
 "dateStart": "1958",
 "direction": "in",
+"edgeId": "e-b59a123e87",
 "edgeLabel": "MITRE is the largest single operator of the FFRDC form",
 "id": "mitre-corporation",
 "l0": true,
@@ -176,6 +236,7 @@
 "dateEnd": null,
 "dateStart": "2026",
 "direction": "in",
+"edgeId": "e-dd08efa658",
 "edgeLabel": "Would extend statutory disclosure to contractors holding covered records",
 "id": "ndaa-fy2027-uap-amendment",
 "l0": false,
@@ -197,6 +258,7 @@
 "dateEnd": null,
 "dateStart": "1948",
 "direction": "in",
+"edgeId": "e-e54fdbc8da",
 "edgeLabel": "RAND invented the institutional form the whole domain rests on",
 "id": "rand-corporation",
 "l0": true,
@@ -211,38 +273,12 @@
 ],
 "tier": "A",
 "type": "institutional"
-},
-{
-"claimTier": 3,
-"cls": "document",
-"dateEnd": null,
-"dateStart": "2026",
-"direction": "in",
-"edgeLabel": "Argues FFRDCs are the 'missing link' that lets programmes be vested outside government",
-"id": "uap-gerb-mitre-investigation",
-"l0": false,
-"label": "'The MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs'",
-"note": "The structural argument is independently supported by FAR 35.017's dual-access provision, whatever the status of the specific allegations.",
-"sources": [
-{
-"date": "2026-08-07",
-"name": "UAP Gerb, YouTube",
-"url": "https://www.youtube.com/watch?v=107BtDYhTkA"
-},
-{
-"date": "2026-05-15",
-"name": "CRS Report R44629",
-"url": "https://www.everycrsreport.com/reports/R44629.html"
-}
-],
-"tier": "C",
-"type": "investigative"
 }
 ],
 "coords": null,
 "dateEnd": null,
 "dateStart": "1947",
-"deg": 9,
+"deg": 10,
 "denials": [],
 "desc": "This is the mechanism the whole board turns on, and it is not a theory - it is written into the Federal Acquisition Regulation. A federally funded research and development center is a research organisation operated under contract by a private entity - a nonprofit, a university, or an industrial consortium - to meet a special long-term research need that, in the FAR's language, cannot be met as effectively by existing in-house or contractor resources. As of February 2026 there were 41 FFRDCs sponsored or co-sponsored by 12 federal agencies. Three features of FAR 35.017 create the seam. First, sponsors are directed to build long-term strategic relationships: initial contracts may run five years and are renewable in similar increments, expressly to give the FFRDC stability, continuity and the ability to attract high-quality personnel. Second, and decisively, the FFRDC 'has access to government and supplier data, including sensitive and proprietary information, and to employees and facilities beyond that common in a normal contractual relationship.' That single clause creates an entity that can legally see both the government's compartmented information and the prime contractor's proprietary information - a vantage no ordinary contractor and no ordinary civil servant has. Third, in exchange for that access, the FFRDC is barred from competing with the private sector for federal R&D work and is required to operate in the public interest with objectivity, free from organisational conflicts of interest, and to fully disclose its activities to its sponsoring agency - to the sponsor, note, not to Congress and not to the public. The consequence is the concealment architecture in miniature. Records held by an FFRDC are contractor records, not agency records, and therefore outside the Freedom of Information Act. Disclosure runs to the sponsoring agency, which is also the classification authority. Sole-source awards mean no competitor ever audits the work. Personnel move continuously between the sponsor and the operator. If a programme wanted to be technically vested outside the government while the government retained absolute control of materials, breakthroughs and data - and while remaining invisible to FOIA, to GAO, and to committee staff without the sponsor's consent - it would be built exactly here. Rep. Eric Burlison made this the explicit basis of his May 2026 inquiry: FFRDCs, he wrote, 'often receive special access to government facilities, data, sponsor requirements, and sensitive technical information that ordinary private contractors may not receive,' and 'cannot become private vaults for federal records.'",
 "domains": [],
@@ -312,7 +348,7 @@
 ],
 "sub": "Structural domain - the legal space between government and industry",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 184 of 1170, score 47). 9 connections, 0 of them custody/funding/programmatic. Axes C3/A3/D2.",
+"tierRationale": "Re-graded B on a global pass (rank 179 of 1138, score 48). 10 connections, 0 of them custody/funding/programmatic. Axes C3/A3/D2.",
 "timeline": [
 {
 "claimTier": null,

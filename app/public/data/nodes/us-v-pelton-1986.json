@@ -5,21 +5,25 @@
 "band": null,
 "claims": [
 {
+"id": "c-174854b592",
 "source": "Brief for the United States in opposition, Ronald W. Pelton v. United States, No. 87-6433, Office of the Solicitor General, https://www.justice.gov/osg/media/218076/dl",
 "text": "Pelton was convicted of conspiracy to commit espionage, espionage and attempted espionage, and unauthorized disclosure of classified information, in the United States District Court for the District of Maryland.",
 "tier": 1
 },
 {
+"id": "c-555d77752f",
 "source": "Brief for the United States in opposition, No. 87-6433, https://www.justice.gov/osg/media/218076/dl",
 "text": "The government's brief describes the sentence as concurrent life terms on the espionage and conspiracy counts and a concurrent ten-year term on the unauthorized-disclosure count.",
 "tier": 1
 },
 {
+"id": "c-d9dedced37",
 "source": "Brief for the United States in opposition, No. 87-6433, https://www.justice.gov/osg/media/218076/dl",
 "text": "On what was compromised the brief says only that Pelton furnished the Soviets information about several classified NSA operations; it does not name any operation, codename, cable, sea area or submarine.",
 "tier": 1
 },
 {
+"id": "c-9723974b85",
 "source": "Danny Jones Podcast, ep. 320, 4 August 2025, 0:28:33, mapped at research/leads/dannyjones-corpus-20.md",
 "text": "On the Danny Jones Podcast, episode 320, 4 August 2025, at 0:28:33, the guest who identifies himself only as UAP Gerb said Ivy Bells was an undersea cable tapping programme run under a National Underwater Reconnaissance Office. The federal filing opened for this node names no operation, no codename, no cable, no sea area and no submarine, and neither NURO nor National Underwater Reconnaissance occurs anywhere in the fifty released pages of the AZORIAN history.",
 "tier": 2
@@ -35,6 +39,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-46e3f4a011",
 "edgeLabel": "States the fact of a compromise while naming no operation",
 "id": "d-denial",
 "l0": false,
@@ -56,6 +61,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-1f3b80a632",
 "edgeLabel": "Prosecution of a former NSA employee for compromising NSA operations",
 "id": "nsa",
 "l0": true,
@@ -89,6 +95,7 @@
 "by": null,
 "claimTier": 1,
 "denialKind": null,
+"edgeId": "e-46e3f4a011",
 "label": "States the fact of a compromise while naming no operation",
 "note": "The filing states the fact of a compromise while declining to describe any operation, which is the posture the board tracks.",
 "of": null,
@@ -130,7 +137,7 @@
 ],
 "sub": "Solicitor General's brief in opposition, Pelton v. United States, No. 87-6433: the counts, the concurrent life terms, and 'several classified NSA operations'",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 788 of 1170, score 22). 2 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D1.",
+"tierRationale": "Re-graded C on a global pass (rank 771 of 1138, score 22). 2 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D1.",
 "timeline": [],
 "unverified": []
 }

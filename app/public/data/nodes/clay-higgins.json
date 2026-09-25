@@ -17,6 +17,7 @@
 ],
 "claims": [
 {
+"id": "c-6170e097be",
 "source": "Rep. Clay Higgins questioning Michael Shellenberger, 13 November 2024, GPO CHRG-118hhrg57440",
 "text": "Established on the record that Shellenberger knows the author of the Immaculate Constellation report and knows the author's sources, expresses confidence in them, and declined to say whether they are within the Department of Defense ('I cannot say' / 'you cannot say or you will not say').",
 "tier": 1
@@ -32,6 +33,7 @@
 "dateEnd": null,
 "dateStart": "2024",
 "direction": "out",
+"edgeId": "e-ebf9ab878f",
 "edgeLabel": "Adversarial cross-examination that fixed the document's evidentiary status",
 "id": "immaculate-constellation-12-page-report",
 "l0": true,
@@ -88,7 +90,7 @@
 "status": "active",
 "sub": "U.S. Rep. (R-LA-3); pressed Shellenberger on his Immaculate Constellation sourcing",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 1138 of 1170, score 9). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D1.",
+"tierRationale": "Re-graded C on a global pass (rank 1107 of 1138, score 9). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D1.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": []

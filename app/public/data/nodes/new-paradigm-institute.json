@@ -5,11 +5,13 @@
 "band": null,
 "claims": [
 {
+"id": "c-7adc95908e",
 "source": "New Paradigm Institute website, retrieved 12 August 2026",
 "text": "The New Paradigm Institute runs a campaign stating 'The House Acted. Now Tell the Senate to Pass the UAPDA', plus a UAP Transparency Pledge for candidates and a Citizens for Disclosure programme.",
 "tier": 1
 },
 {
+"id": "c-f70e7aec3e",
 "source": "New Paradigm Institute website; Wikipedia, 'Daniel Sheehan (attorney)' — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "text": "Daniel Sheehan leads the organisation and represents Luis Elizondo in a case against the Department of Defense.",
 "tier": 2
@@ -25,6 +27,7 @@
 "dateEnd": "2026",
 "dateStart": "2022",
 "direction": "in",
+"edgeId": "e-46550f7c77",
 "edgeLabel": "Founder and principal",
 "id": "daniel-sheehan",
 "l0": false,
@@ -46,6 +49,7 @@
 "dateEnd": "2026",
 "dateStart": "2023",
 "direction": "out",
+"edgeId": "e-f5a886dd05",
 "edgeLabel": "Running the campaign for Senate passage of the UAPDA",
 "id": "uapda-2023",
 "l0": true,
@@ -96,7 +100,7 @@
 ],
 "sub": "UAP disclosure advocacy and legal organisation",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 1053 of 1170, score 13). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 1023 of 1138, score 13). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.",
 "timeline": [],
 "unverified": []
 }

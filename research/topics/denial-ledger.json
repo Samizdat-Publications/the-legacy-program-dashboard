@@ -1,0 +1,27 @@
+{
+ "id": "denial-ledger",
+ "title": "What the government denies, and how",
+ "kind": "mechanism",
+ "section": "case-against",
+ "span": {
+  "from": "1947",
+  "to": "2026"
+ },
+ "focusEra": "3",
+ "anchors": [
+  "susan-gough",
+  "pat-ryder",
+  "joseph-gradisher",
+  "cia-prepublication-classification-review-board",
+  "tr-ac-47-silver-bug",
+  "us-v-pelton-1986"
+ ],
+ "absorbs": [
+  "d-denial",
+  "d-coverup"
+ ],
+ "essays": [],
+ "status": "draft",
+ "notes": "The denials thread; the board's denial edges are read here as a ledger of who denied what, when.",
+ "appendixT": "denial-ledger"
+}

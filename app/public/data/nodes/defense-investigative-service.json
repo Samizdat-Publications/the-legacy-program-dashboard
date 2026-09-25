@@ -5,16 +5,19 @@
 "band": null,
 "claims": [
 {
+"id": "c-6d89502cc9",
 "source": "GAO accession 130581, statement of Martin M. Ferber, 24 July 1986",
 "text": "Special access contracts are 'carved out of the Defense Investigative Service's periodic inspection program', following a 1965 DoD decision that special access programs 'would be excluded from supervision by the Defense Investigative Service'.",
 "tier": 1
 },
 {
+"id": "c-7661b20b92",
 "source": "GAO/NSIAD-86-191, B-223830, 7 August 1986, signed Frank C. Conahan",
 "text": "GAO told the Secretary of Defense that the Lockheed document-accountability failure 'may not have occurred if the Defense Investigative Service had been permitted to conduct semiannual inspections of the contract, as it does with other contracts at Lockheed' -- establishing that DIS inspected Lockheed's non-special-access work while excluded from the special access contract at the same company.",
 "tier": 1
 },
 {
+"id": "c-42b4326452",
 "source": "GAO accession 130581, 24 July 1986, describing GAO/GGD-83-43 -- the earlier report was not read",
 "text": "GAO/GGD-83-43 of 18 February 1983, 'Further Improvements Needed in Department of Defense Oversight of Special Access (Carve-Out) Contracts', recommended change and DoD refused. The 1986 testimony gives DoD's stated reasons, including that 'access by Service inspectors would proliferate access beyond the minimum number of persons necessary.' The 1983 report itself was not opened in this pass.",
 "tier": 2
@@ -30,6 +33,7 @@
 "dateEnd": "1986",
 "dateStart": "1986",
 "direction": "in",
+"edgeId": "e-4275be2d8b",
 "edgeLabel": "documents the 1965 exclusion of special access programs from DIS supervision",
 "id": "gao-130581",
 "l0": false,
@@ -51,6 +55,7 @@
 "dateEnd": "1986",
 "dateStart": "1965",
 "direction": "out",
+"edgeId": "e-843215b95d",
 "edgeLabel": "inspected Lockheed's other contracts while excluded from its special access contract",
 "id": "lockheed-martin",
 "l0": true,
@@ -106,7 +111,7 @@
 ],
 "sub": "DoD industrial security inspectorate; excluded from special access programs by a 1965 decision",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 753 of 1170, score 23). 2 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 737 of 1138, score 23). 2 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D3.",
 "timeline": [],
 "unverified": [
 "DIS's own founding date is NOT carried. The commonly given 1972 was not read off a primary record in this pass, and an unsourced date renders to a reader as an established one, so the field is null rather than guessed. What IS dated here is the thing the node is for: the 1965 exclusion, in GAO's own words. GAO/GGD-83-43 was not opened; it is described only as the 1986 testimony describes it."

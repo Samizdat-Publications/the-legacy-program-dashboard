@@ -5,21 +5,25 @@
 "band": null,
 "claims": [
 {
+"id": "c-2cbcaaa613",
 "source": "The Lazar Tape, Tri-Dot Productions, 1991, captions at 2:07, https://archive.org/details/antigravity ; and Las Vegas Review-Journal, 19 June 1990, p 8B, opened 2026-09-18",
 "text": "The 1989 KLAS-TV Lazar broadcasts are the single event most responsible for this place entering worldwide public consciousness under this name. Lazar's own 1991 narration refers to 'the infamous Area 51 installation at Groom Lake' and places his claimed S-4 site about fifteen miles south of it. A contemporaneous newspaper of 19 June 1990 confirms the broadcasts existed and that Lazar was their focal point.",
 "tier": 2
 },
 {
+"id": "c-3b1a85da65",
 "source": "CIA U-2/OXCART history, released 25 June 2013 via FOIA to the National Security Archive — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "text": "The CIA's 25 June 2013 release was the first official acknowledgement of specific activity at the site named Area 51.",
 "tier": 2
 },
 {
+"id": "c-e710df4c54",
 "source": "KLAS-TV Las Vegas interviews with Robert Lazar, May 1989; summarised in Wikipedia, Area 51",
 "text": "In May 1989 Robert Lazar told KLAS-TV's George Knapp that he had worked at 'S-4' near Papoose Lake, roughly 8.5 miles south of the main Groom facility, on craft the government possessed.",
 "tier": 2
 },
 {
+"id": "c-474202a7ff",
 "source": "Inference from the acknowledgement chronology",
 "text": "Area 51's forty-three years of official non-existence is the strongest available demonstration that the United States can operate a large contractor-staffed installation entirely outside the acknowledged record. Reasoning: establishment 1955, USAF acknowledgement of existence 1998, specific-activity acknowledgement 2013, all documented.",
 "tier": 3
@@ -35,6 +39,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-dea6bbd861",
 "edgeLabel": "The Agency's own account of the establishment and use of the Groom Lake site",
 "id": "cia-overhead-reconnaissance-history-1992",
 "l0": false,
@@ -56,6 +61,7 @@
 "dateEnd": null,
 "dateStart": "1955",
 "direction": "out",
+"edgeId": "e-26ae039899",
 "edgeLabel": "Area 51 is the named facility on the Groom Lake shore",
 "id": "l-groom-lake",
 "l0": false,
@@ -77,6 +83,7 @@
 "dateEnd": "1955",
 "dateStart": "1955",
 "direction": "in",
+"edgeId": "e-c4aec60c94",
 "edgeLabel": "Asked the AEC to absorb the land that became Area 51",
 "id": "richard-m-bissell-jr",
 "l0": false,
@@ -98,6 +105,7 @@
 "dateEnd": null,
 "dateStart": "1989",
 "direction": "in",
+"edgeId": "e-4947aa2993",
 "edgeLabel": "Claimed site sited about fifteen miles south of Area 51",
 "id": "s-4-papoose-lake",
 "l0": false,
@@ -110,7 +118,7 @@
 "url": "https://archive.org/details/antigravity"
 }
 ],
-"tier": "A",
+"tier": "B",
 "type": "geographic"
 }
 ],
@@ -167,7 +175,7 @@
 ],
 "sub": "Named USAF/CIA facility at Groom Lake; KXTA / Homey Airport; part of the Nevada Test and Training Range",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 306 of 1170, score 39). 4 connections, 1 of them custody/funding/programmatic. Axes C3/A3/D2.",
+"tierRationale": "Re-graded B on a global pass (rank 308 of 1138, score 39). 4 connections, 1 of them custody/funding/programmatic. Axes C3/A3/D2.",
 "timeline": [
 {
 "claimTier": null,

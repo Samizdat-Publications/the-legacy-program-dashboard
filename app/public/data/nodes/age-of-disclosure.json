@@ -5,18 +5,27 @@
 "band": null,
 "claims": [
 {
+"id": "c-ebde45b28b",
 "source": "The Age of Disclosure official trailer and teaser descriptions, 2025",
 "text": "The film features 34 senior members of the US Government, military and intelligence community and reveals an alleged 80-year global cover-up of non-human intelligent life and a secret war.",
 "tier": 2
 },
 {
+"id": "c-a12785efe2",
 "source": "The Age of Disclosure official teaser description",
 "text": "On-record participants include General James Clapper, Secretary Marco Rubio, Representative Andre Carson and Jay Stratton, former director of the US Government's UAP Task Force.",
 "tier": 2
 },
 {
+"id": "c-a682c4fbaa",
 "source": "Contemporaneous festival preview coverage, March 2025",
 "text": "The film premiered at SXSW in Austin, Texas on 9 March 2025.",
+"tier": 2
+},
+{
+"id": "c-e1e19ce3a4",
+"source": "Published record of 'The Age of Disclosure' — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"text": "The film premiered at SXSW on 9 March 2025 and was released theatrically in limited release and on Prime Video on 21 November 2025, directed by Dan Farah, with 34 interviewees including Hal Puthoff, Eric Davis, Travis S. Taylor and Garry Nolan.",
 "tier": 2
 }
 ],
@@ -30,6 +39,7 @@
 "dateEnd": "2025",
 "dateStart": "2025",
 "direction": "in",
+"edgeId": "e-114f26be3a",
 "edgeLabel": "Director and producer",
 "id": "dan-farah",
 "l0": false,
@@ -47,10 +57,33 @@
 },
 {
 "claimTier": 2,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2025",
+"direction": "out",
+"edgeId": "e-c78de3ea69",
+"edgeLabel": "Davis among the interviewees",
+"id": "eric-davis",
+"l0": false,
+"label": "Eric W. Davis",
+"note": "Davis's participation puts the man who briefed two Senate committees on retrievals on camera alongside a sitting Secretary of State and a former Director of National Intelligence.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia: The Age of Disclosure (2025 documentary)",
+"url": "https://en.wikipedia.org/wiki/The_Age_of_Disclosure"
+}
+],
+"tier": "A",
+"type": "behavioral"
+},
+{
+"claimTier": 2,
 "cls": "document",
 "dateEnd": "2026",
 "dateStart": "2026",
 "direction": "in",
+"edgeId": "e-83af772df1",
 "edgeLabel": "Gerb cites the film's characterisation of the Air Force",
 "id": "gerb-hidden-wing",
 "l0": false,
@@ -69,9 +102,32 @@
 {
 "claimTier": 2,
 "cls": "person",
+"dateEnd": null,
+"dateStart": "2025",
+"direction": "out",
+"edgeId": "e-2da46dd783",
+"edgeLabel": "Puthoff among 34 on-camera interviewees",
+"id": "harold-puthoff",
+"l0": false,
+"label": "Harold E. Puthoff",
+"note": "The AAWSAP propulsion author sat for the same documentary as the AAWSAP wormhole author, the UAP Task Force chief scientist and the Stanford materials analyst.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia: The Age of Disclosure (2025 documentary)",
+"url": "https://en.wikipedia.org/wiki/The_Age_of_Disclosure"
+}
+],
+"tier": "A",
+"type": "behavioral"
+},
+{
+"claimTier": 2,
+"cls": "person",
 "dateEnd": "2025",
 "dateStart": "2025",
 "direction": "out",
+"edgeId": "e-d4c4360eaf",
 "edgeLabel": "Former UAP Task Force director appears on record",
 "id": "jay-stratton",
 "l0": false,
@@ -93,6 +149,7 @@
 "dateEnd": "2025",
 "dateStart": "2025",
 "direction": "out",
+"edgeId": "e-e254b97466",
 "edgeLabel": "Rubio appears on record in the documentary",
 "id": "marco-rubio",
 "l0": false,
@@ -112,7 +169,7 @@
 "coords": null,
 "dateEnd": "2025",
 "dateStart": "2025",
-"deg": 4,
+"deg": 6,
 "denials": [],
 "desc": "The Age of Disclosure premiered at SXSW in Austin on 9 March 2025 and is the highest-status artefact the disclosure movement has produced. Directed and produced by Dan Farah, it features thirty-four senior members of the US government, military and intelligence community asserting an eighty-year global cover-up of non-human intelligent life and a secret war. The roster is what makes it structurally load-bearing rather than merely persuasive: former Director of National Intelligence James Clapper, Senator and Secretary of State Marco Rubio, Representative Andre Carson, and Jay Stratton, former director of the government's UAP Task Force, all appear. This is the point at which the denial posture becomes internally incoherent - the same government that maintains through AARO that no verifiable evidence of a concealed reverse-engineering programme exists has a sitting Secretary of State and a former DNI on camera in a film premised on exactly that concealment. UAP Gerb repeatedly cites the film as a reference point, including in his 30 January 2026 Hidden Wing investigation, which notes the Air Force being 'labeled as a critical Crash Retrieval element in 2025's Age of Disclosure'.",
 "domains": [],
@@ -132,7 +189,8 @@
 "openQuestions": [],
 "short": "The Age of Disclosure (documentary, 2025)",
 "sourceFiles": [
-"media-structure"
+"media-structure",
+"scientists-technical"
 ],
 "sources": [
 {
@@ -144,11 +202,16 @@
 "date": "2025-11-01",
 "name": "The Age of Disclosure - Official Teaser",
 "url": "https://www.youtube.com/watch?v=AZo-Q-FXoXM"
+},
+{
+"date": "2026-08-12",
+"name": "Wikipedia: The Age of Disclosure (2025 documentary)",
+"url": "https://en.wikipedia.org/wiki/The_Age_of_Disclosure"
 }
 ],
 "sub": "Feature documentary, dir. Dan Farah",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 885 of 1170, score 19). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 738 of 1138, score 23). 6 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.",
 "timeline": [
 {
 "claimTier": null,
@@ -159,6 +222,26 @@
 "precision": "day",
 "strand": "program",
 "text": "Dan Farah's documentary premieres in Austin with 34 senior government, military and intelligence figures on record, including James Clapper, Marco Rubio, Andre Carson and Jay Stratton."
+},
+{
+"claimTier": null,
+"date": "2025-03-09",
+"grade": "B",
+"id": "st-2025-03-09",
+"label": "'The Age of Disclosure' premieres",
+"precision": "day",
+"strand": "program",
+"text": "Dan Farah's documentary premieres at SXSW with Puthoff, Davis, Travis Taylor and Nolan among 34 interviewees alongside serving and former officials."
+},
+{
+"claimTier": null,
+"date": "2025-11-21",
+"grade": "B",
+"id": "st-2025-11-21",
+"label": "'The Age of Disclosure' released",
+"precision": "day",
+"strand": "program",
+"text": "Limited theatrical release in New York, Los Angeles and Washington DC, plus Prime Video."
 }
 ],
 "unverified": []

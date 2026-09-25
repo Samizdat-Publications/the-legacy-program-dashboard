@@ -34,21 +34,25 @@
 ],
 "claims": [
 {
+"id": "c-5a34992747",
 "source": "Chairman Glenn Grothman, opening statement, 26 July 2023, GPO CHRG-118hhrg53022",
 "text": "'The lack of transparency regarding UAPs has fueled wild speculation and debate for decades, eroding public trust in the very institutions that are meant to serve and protect them.'",
 "tier": 1
 },
 {
+"id": "c-2ca2b4bf41",
 "source": "Rep. Grothman, opening statement, 13 November 2024, GPO CHRG-118hhrg57440",
 "text": "'None of them have been able to substantiate the claims made at this hearing last year by David Grusch, despite our Committee Members endlessly questioning these agencies inside and outside of the SCIF.'",
 "tier": 1
 },
 {
+"id": "c-f0981a8f64",
 "source": "Inference from CHRG-118hhrg57440 (13 Nov 2024) and CHRG-119hhrg61718 (9 Sept 2025)",
 "text": "Grothman's 2024 'inside and outside of the SCIF' framing is in tension with Luna's 2025 statement that DoD told committee staff Oversight members were not eligible to be read in on the relevant special access programs without HASC/HAC-D approval. Either the SCIF sessions did not reach the SAPs at issue, or the two chairs were describing different access. Reasoning: both statements are on the record of the same committee thirteen months apart and cannot both describe complete access to the same material.",
 "tier": 3
 },
 {
+"id": "c-0cd07eddba",
 "source": "House Oversight hearing transcript, 26 July 2023",
 "text": "Elicited Grusch's unclassified characterization of his complaint: 'Both material acquisition and exploitation activity, also baselining the UAPs but not sharing it with intelligence professionals that are actually doing step briefs to pilots.'",
 "tier": 1
@@ -64,6 +68,7 @@
 "dateEnd": "2023",
 "dateStart": "2023",
 "direction": "out",
+"edgeId": "e-2e062f95d2",
 "edgeLabel": "Presided; waived six non-members onto the subcommittee",
 "id": "hearing-2023-07-26",
 "l0": true,
@@ -85,6 +90,7 @@
 "dateEnd": "2023",
 "dateStart": "2023",
 "direction": "out",
+"edgeId": "e-8ffb2d99eb",
 "edgeLabel": "Chaired the hearing; elicited 'material acquisition and exploitation activity'",
 "id": "hearing-2023-07-26",
 "l0": true,
@@ -106,6 +112,7 @@
 "dateEnd": "2025",
 "dateStart": "2023",
 "direction": "out",
+"edgeId": "e-a6290cefb3",
 "edgeLabel": "Chairman of the subcommittee at the 2023 hearing",
 "id": "hoc-subcommittee-national-security",
 "l0": false,
@@ -127,6 +134,7 @@
 "dateEnd": "2025",
 "dateStart": "2024",
 "direction": "out",
+"edgeId": "e-6c1e565363",
 "edgeLabel": "Republican co-lead",
 "id": "hr-6967-safe-airspace-for-americans-act",
 "l0": false,
@@ -148,6 +156,7 @@
 "dateEnd": null,
 "dateStart": "2024",
 "direction": "out",
+"edgeId": "e-ad98b6f3c9",
 "edgeLabel": "Grothman's 'inside and outside of the SCIF' claim cannot be reconciled with the read-in gate Luna documented",
 "id": "sap-readin-gate",
 "l0": false,
@@ -226,7 +235,7 @@
 "status": "active",
 "sub": "U.S. Rep. (R-WI-6); Chairman of the subcommittee that held the 26 July 2023 hearing",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 769 of 1170, score 22). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 753 of 1138, score 22). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.",
 "timeline": [
 {
 "claimTier": null,

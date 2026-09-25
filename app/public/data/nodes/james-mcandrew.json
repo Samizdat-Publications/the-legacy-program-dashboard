@@ -22,16 +22,19 @@
 ],
 "claims": [
 {
+"id": "c-94e8d1c178",
 "source": "Library catalogue record and GPO imprint; Internet Archive AFD-101027-030 and roswellreportcas0000mcan",
 "text": "'The Roswell Report: Case Closed' (1997) is authored by James McAndrew, published in Washington DC by Headquarters United States Air Force for sale by the Superintendent of Documents, and runs to xii + 231 pages with bibliography and index.",
 "tier": 1
 },
 {
+"id": "c-d9a2d00a4c",
 "source": "The Roswell Report: Case Closed (1997), Introduction, 'The conclusions of the additional research are'",
 "text": "The report's conclusions are that Air Force activities spanning many years were consolidated into two or three days of July 1947; that the 'aliens' were probably anthropomorphic test dummies carried aloft by high altitude balloons; that the 'unusual' military activity was balloon launch and recovery; and that the hospital-bodies claims most likely combine a 1956 KC-97 crash in which eleven airmen died with a 1959 manned balloon mishap injuring two pilots.",
 "tier": 1
 },
 {
+"id": "c-12c2694ba7",
 "source": "The Roswell Report: Case Closed (1997), Appendices B and C",
 "text": "The report prints sworn witness statements from ten named Air Force personnel at Appendix B, including Col. Joseph W. Kittinger Jr., Col. Dan D. Fulgham, Bernard D. Gildenberg and Lt. Col. Raymond A. Madson, and full interview transcripts of five pro-UFO witnesses at Appendix C.",
 "tier": 1
@@ -49,6 +52,7 @@
 "dateEnd": "1995",
 "dateStart": "1994-07",
 "direction": "out",
+"edgeId": "e-bec78d693e",
 "edgeLabel": "Wrote Attachment 32, the Project Mogul synopsis",
 "id": "roswell-report-1995",
 "l0": false,
@@ -70,6 +74,7 @@
 "dateEnd": "1997",
 "dateStart": "1997",
 "direction": "out",
+"edgeId": "e-d0423c963d",
 "edgeLabel": "Sole author of the 1997 bodies report",
 "id": "roswell-report-case-closed",
 "l0": false,
@@ -132,7 +137,7 @@
 "status": "former",
 "sub": "USAF intelligence officer; author, 'The Roswell Report: Case Closed' (1997)",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 874 of 1170, score 19). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D1.",
+"tierRationale": "Re-graded C on a global pass (rank 855 of 1138, score 19). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D1.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": [

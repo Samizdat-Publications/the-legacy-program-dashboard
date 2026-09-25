@@ -5,26 +5,31 @@
 "band": null,
 "claims": [
 {
+"id": "c-8775923255",
 "source": "Twining memorandum, 23 Sep 1947 (archived scan); Condon Report Sec. V Ch. 2",
 "text": "The memo is dated 23 September 1947, from Lt. Gen. Nathan Twining, Commanding General Air Materiel Command, to Brig. Gen. George Schulgen, subject 'AMC Opinion Concerning \"Flying Discs\"'.",
 "tier": 1
 },
 {
+"id": "c-9a59d4155b",
 "source": "Twining memorandum, 23 Sep 1947, paragraph 2a",
 "text": "'The phenomenon reported is something real and not visionary or fictitious.'",
 "tier": 1
 },
 {
+"id": "c-d9d7140369",
 "source": "Condon Report, Section V Chapter 2, quoting the Twining letter",
 "text": "The memo directs consideration of the possibility that the objects 'are of domestic origin -- the product of some high security project' not known to Air Force intelligence or to Air Materiel Command.",
 "tier": 1
 },
 {
+"id": "c-d6bdb652a8",
 "source": "Condon Report, Section V Chapter 2",
 "text": "The memo recommended a priority project, which was directed on 30 December 1947 as Project SIGN.",
 "tier": 1
 },
 {
+"id": "c-f93ecd8577",
 "source": "Twining memorandum, 23 Sep 1947, as reproduced in the standard declassified text",
 "text": "The memo also records that the lack of physical evidence in the form of crash-recovered exhibits was a constraint on AMC's analysis.",
 "tier": 2
@@ -40,6 +45,7 @@
 "dateEnd": "1947",
 "dateStart": "1947",
 "direction": "out",
+"edgeId": "e-35e75ed88f",
 "edgeLabel": "Addressed to Schulgen at Air Force intelligence requirements",
 "id": "george-schulgen",
 "l0": false,
@@ -66,6 +72,7 @@
 "dateEnd": "1947",
 "dateStart": "1947",
 "direction": "in",
+"edgeId": "e-1d71fcfbf3",
 "edgeLabel": "McCoy's shop produced the analysis Twining signed",
 "id": "howard-mccoy",
 "l0": false,
@@ -92,6 +99,7 @@
 "dateEnd": "1947",
 "dateStart": "1947",
 "direction": "in",
+"edgeId": "e-cb3abae399",
 "edgeLabel": "Twining authored the founding 1947 assessment",
 "id": "nathan-twining",
 "l0": false,
@@ -118,6 +126,7 @@
 "dateEnd": "1948",
 "dateStart": "1947",
 "direction": "out",
+"edgeId": "e-2e1cfa4760",
 "edgeLabel": "Memo's recommendation produced Project SIGN",
 "id": "project-sign",
 "l0": false,
@@ -173,7 +182,7 @@
 ],
 "sub": "AMC to AC/AS-2, 23 September 1947",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 253 of 1170, score 42). 4 connections, 1 of them custody/funding/programmatic. Axes C2/A3/D2.",
+"tierRationale": "Re-graded B on a global pass (rank 257 of 1138, score 42). 4 connections, 1 of them custody/funding/programmatic. Axes C2/A3/D2.",
 "timeline": [
 {
 "claimTier": null,

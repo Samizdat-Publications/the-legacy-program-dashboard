@@ -5,21 +5,25 @@
 "band": null,
 "claims": [
 {
+"id": "c-38b091b140",
 "source": "UAP Gerb, NRO investigation description, 13 December 2025",
 "text": "The NRO's Sentient AI program provided IMINT and SIGINT from tasked and untasked overhead collection platforms to a USAP called Immaculate Constellation established in 2017.",
 "tier": 2
 },
 {
+"id": "c-0869732034",
 "source": "UAP Gerb, NRO investigation description, 13 December 2025",
 "text": "The NRO spearheaded a 21st-century crash retrieval team stationed out of the Nevada Test and Training Range.",
 "tier": 2
 },
 {
+"id": "c-9fd8557f12",
 "source": "UAP Gerb, NRO investigation description, 13 December 2025",
 "text": "Senior legacy gatekeepers are identifiable by analysing USD(A&S) and DDNI(AT&F), the DoD/IC offices controlling NRO acquisitions.",
 "tier": 2
 },
 {
+"id": "c-ba8f050fa6",
 "source": "UAP Gerb, NRO investigation description, 13 December 2025",
 "text": "The NRO displayed egregious misappropriation of funds via carry-over appropriations in the mid-1990s that may relate to obfuscated UFO programs.",
 "tier": 2
@@ -35,6 +39,7 @@
 "dateEnd": "2026",
 "dateStart": "2023",
 "direction": "out",
+"edgeId": "e-2d0a63f811",
 "edgeLabel": "Built around Grusch's NRO and NGA service and UAPTF liaison role",
 "id": "david-grusch",
 "l0": false,
@@ -56,6 +61,7 @@
 "dateEnd": "2026",
 "dateStart": "2017",
 "direction": "out",
+"edgeId": "e-bb241f29a7",
 "edgeLabel": "Alleges NRO Sentient AI fed IMINT and SIGINT to Immaculate Constellation",
 "id": "immaculate-constellation",
 "l0": true,
@@ -77,6 +83,7 @@
 "dateEnd": "2026",
 "dateStart": "2000",
 "direction": "out",
+"edgeId": "e-84051883d6",
 "edgeLabel": "Alleges NRO mission support to crash retrieval teams and a NTTR-based team",
 "id": "nro",
 "l0": true,
@@ -98,6 +105,7 @@
 "dateEnd": "2025",
 "dateStart": "2025",
 "direction": "in",
+"edgeId": "e-e73fa81d8f",
 "edgeLabel": "Gerb authored the NRO investigation",
 "id": "uap-gerb",
 "l0": false,
@@ -148,7 +156,7 @@
 ],
 "sub": "Video investigation, 13 Dec 2025",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 501 of 1170, score 31). 4 connections, 1 of them custody/funding/programmatic. Axes C1/A2/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 498 of 1138, score 31). 4 connections, 1 of them custody/funding/programmatic. Axes C1/A2/D3.",
 "timeline": [
 {
 "claimTier": null,

@@ -5,46 +5,55 @@
 "band": "custody",
 "claims": [
 {
+"id": "c-882d9ed7ad",
 "source": "Disclosure Project Briefing Document, section 3.8.5, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt , 2001-04",
 "text": "The document prints McCandlish's testimony under the date 'December 2000', in section 3.8.5 'Technology / Science', with an editorial preface that states its own summary of what the reader will learn, including 'In addition, we have the drawing from aerospace inventor Brad Sorenson of the devices that he saw, as well as a schematic of one of these alien reproduction vehicles - in some remarkable detail.'",
 "tier": 1
 },
 {
+"id": "c-ab7b5078ae",
 "source": "Disclosure Project Briefing Document, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt , 2000-09",
 "text": "The same document carries a separate 'Testimony of Lieutenant Colonel John Williams / September 2000' which states of Norton AFB: 'I was never allowed in that area when I was there at Norton Air Force Base', and, asked how he could validate the facility existed, 'That's correct because I was responsible for that base's facilities from 1981-82.'",
 "tier": 1
 },
 {
+"id": "c-49bd4c0e50",
 "source": "Disclosure Project Briefing Document, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt , 2001-04",
 "text": "The compiler cross-references his own two witnesses to each other in bracketed editorial notes signed 'SG', including '[See the testimony of Mark McCandlish which establishes that indeed a UFO was stored at this facility at Norton AFB. SG]'. The corroboration between the two testimonies is asserted by the compiler, inside the compilation.",
 "tier": 1
 },
 {
+"id": "c-1f00f710e6",
 "source": "Disclosure Project Briefing Document, section 3.8.5, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt , 2000-12",
 "text": "The document is the origin in print of the craft's two names: 'Well, this craft was what they called the Alien Reproduction Vehicle; it was also nicknamed the Flux Liner.'",
 "tier": 2
 },
 {
+"id": "c-73ee030dce",
 "source": "Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt , opened 2026-09-19",
 "text": "Its title page reads: 'DISCLOSURE PROJECT BRIEFING DOCUMENT / Prepared for: Members of the Press, Members of United States Government, Members of the US Scientific Community / Written and Compiled by: Steven M. Greer, M.D., Director and Theodore C. Loder III, Ph.D. / April, 2001.'",
 "tier": 1
 },
 {
+"id": "c-bd6e505d2e",
 "source": "Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt , opened 2026-09-19",
 "text": "Section 3.8 contains SIXTY-EIGHT dated testimony headings, each of the form 'Testimony of [name, rank, service]' followed on the next line by a month and year. Sixty-five carry dates between July 2000 and March 2001; Edgar Mitchell's is dated May 1998 and Vasily Alexeyev's March 1997; Gordon Cooper's, Denise McKenzie's and Phillip J. Corso's carry no date at all.",
 "tier": 1
 },
 {
+"id": "c-6e3b4f2241",
 "source": "Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt , opened 2026-09-19",
 "text": "Its subsection structure, as printed in the body and in its own contents list: 3.8.1 Overview (page 48), 3.8.2 Radar / Pilot Cases (page 62), 3.8.3 SAC/NUKE (page 123), 3.8.4 Government Insiders / NASA / Deep Insiders (page 165), 3.8.5 Technology / Science (page 323).",
 "tier": 1
 },
 {
+"id": "c-afeee5cd4d",
 "source": "Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt , opened 2026-09-19",
 "text": "The interviews are conducted by Greer himself. Each testimony carries an initials key of the form 'JC: FAA Division Chief John Callahan SG: Dr. Steven Greer', and Greer's editorial comments are printed inside the witness text marked 'SG]'.",
 "tier": 1
 },
 {
+"id": "c-5ef959f163",
 "source": "Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt , opened 2026-09-19",
 "text": "STATED INFERENCE, AND THE GOVERNING RULE OF THIS CLUSTER. This document is Tier 1 for the fact that a named person gave testimony on a stated date and Tier 2 at best for anything that testimony asserts. It is compiled and published by an interested party who also conducted the interviews. Any claim on any node in this cluster that cites this document for the content of a witness account is miscited.",
 "tier": 3
@@ -60,6 +69,7 @@
 "dateEnd": "2000-09",
 "dateStart": "2000-09",
 "direction": "in",
+"edgeId": "e-7f0c7548ae",
 "edgeLabel": "Testimony at section 3.8.4, dated September 2000",
 "id": "clifford-stone",
 "l0": false,
@@ -81,6 +91,7 @@
 "dateEnd": "2001-04",
 "dateStart": "2001-04",
 "direction": "out",
+"edgeId": "e-78168a1d36",
 "edgeLabel": "The project's own publication",
 "id": "disclosure-project",
 "l0": true,
@@ -102,6 +113,7 @@
 "dateEnd": "2001-04",
 "dateStart": "2001-04",
 "direction": "out",
+"edgeId": "e-441c880888",
 "edgeLabel": "The Project's own compiled briefing document, April 2001",
 "id": "disclosure-project",
 "l0": true,
@@ -123,6 +135,7 @@
 "dateEnd": "2001-04",
 "dateStart": "2001-04",
 "direction": "in",
+"edgeId": "e-07d1e7982f",
 "edgeLabel": "The cohort is defined by section 3.8 of the document",
 "id": "disclosure-project-witness-set",
 "l0": false,
@@ -144,6 +157,7 @@
 "dateEnd": "2000-10",
 "dateStart": "2000-10",
 "direction": "in",
+"edgeId": "e-b6d879af4b",
 "edgeLabel": "Testimony at section 3.8.2, dated October 2000",
 "id": "john-callahan",
 "l0": false,
@@ -165,6 +179,7 @@
 "dateEnd": "2001-04",
 "dateStart": "2000-09",
 "direction": "in",
+"edgeId": "e-2fd404135e",
 "edgeLabel": "Two of the document's witnesses name the base",
 "id": "l-norton-afb",
 "l0": false,
@@ -186,6 +201,7 @@
 "dateEnd": "2000-09",
 "dateStart": "2000-09",
 "direction": "in",
+"edgeId": "e-6788add8c2",
 "edgeLabel": "Testimony at section 3.8.4, dated September 2000",
 "id": "larry-warren",
 "l0": false,
@@ -207,6 +223,7 @@
 "dateEnd": "2000-12",
 "dateStart": "2000-12",
 "direction": "in",
+"edgeId": "e-a569f5ad14",
 "edgeLabel": "Testimony at section 3.8.5, dated December 2000",
 "id": "mark-mccandlish",
 "l0": false,
@@ -228,6 +245,7 @@
 "dateEnd": "2001-05-09",
 "dateStart": "2001-04",
 "direction": "in",
+"edgeId": "e-7854589977",
 "edgeLabel": "Document April 2001; press conference 9 May 2001; different and largely unknown rosters",
 "id": "national-press-club-2001",
 "l0": true,
@@ -254,6 +272,7 @@
 "dateEnd": "2000-11",
 "dateStart": "2000-11",
 "direction": "in",
+"edgeId": "e-1940ba1e29",
 "edgeLabel": "Testimony at section 3.8.3, dated November 2000",
 "id": "robert-jacobs",
 "l0": false,
@@ -275,6 +294,7 @@
 "dateEnd": "2001-04",
 "dateStart": "2001-04",
 "direction": "out",
+"edgeId": "e-a80d4515e4",
 "edgeLabel": "Named as its director and compiler",
 "id": "steven-greer",
 "l0": false,
@@ -296,6 +316,7 @@
 "dateEnd": "2001-04",
 "dateStart": "2001-04",
 "direction": "out",
+"edgeId": "e-26e60f2029",
 "edgeLabel": "Written and compiled by Greer, who also conducted every interview in it",
 "id": "steven-greer",
 "l0": false,
@@ -432,7 +453,7 @@
 ],
 "sub": "Roughly 500 page compilation prepared by Steven M. Greer MD and Theodore C. Loder III PhD, printing summarised witness testimony",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 205 of 1170, score 45). 12 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 204 of 1138, score 45). 12 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D3.",
 "timeline": [
 {
 "claimTier": null,

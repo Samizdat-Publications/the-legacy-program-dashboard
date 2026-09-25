@@ -5,36 +5,43 @@
 "band": null,
 "claims": [
 {
+"id": "c-0b63d8c216",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237657/",
 "text": "Defense Intelligence Reference Document titled \"Advanced Nuclear Propulsion for Manned Deep Space Missions\", series \"Acquisition Threat Support\", published 2010-03-11 with an Intelligence Cut-Off Date (ICOD) of 2009-12-01, DIA document number DIA-08-1003-007. Released by DIA under FOIA and posted in the DIA FOIA Electronic Reading Room.",
 "tier": 1
 },
 {
+"id": "c-167f13c360",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237657/",
 "text": "Inside cover reads: \"This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency [redacted b(3) 10 USC 424] Advanced Aerospace Weapon System Applications (AAWSA) Program\" and directs questions to the \"AAWSA Program Manager, Defense Intelligence Agency, ATTN: [redacted], Bldg 6000, Washington, DC 20340-5100\".",
 "tier": 1
 },
 {
+"id": "c-bcb91b9474",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237657/",
 "text": "Author name is withheld in the DIA-released copy under FOIA exemption (b)(6); the \"Prepared by:\" line is withheld under (b)(3) 10 USC 424. The released cover therefore does not attribute the DIRD to a named author.",
 "tier": 1
 },
 {
+"id": "c-2d8b3fada1",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237657/",
 "text": "Released PDF is 37 pages, marked UNCLASSIFIED//FOR OFFICIAL USE ONLY (FOUO caveat partially illegible in the scan).",
 "tier": 1
 },
 {
+"id": "c-c51c30c5e1",
 "source": "https://irp.fas.org/dia/aatip-list.pdf",
 "text": "Authored by Dr F. Winterberg of the University of Nevada-Reno, per the DIA list of 38 AAWSAP products transmitted to the Senate Armed Services Committee on 9 January 2018 (item 2). The released PDF redacts the author name under FOIA exemption (b)(6).",
 "tier": 1
 },
 {
+"id": "c-0db30a697b",
 "source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_11-DIRD_Advanced_Nuclear_Propulsion_for_Manned_Deep_Space_Missions.pdf",
 "text": "Cover page reads: \"11 March 2010 / ICOD: 1 December 2009 / DIA-08-1003-007\", series \"Acquisition Threat Support\". The OCR renders the date field as \"reDO\" and the number as \"DIA-OS-1003-007\"; these are scan artefacts for ICOD and DIA-08-.",
 "tier": 1
 },
 {
+"id": "c-995199c0f8",
 "source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_11-DIRD_Advanced_Nuclear_Propulsion_for_Manned_Deep_Space_Missions.pdf",
 "text": "Inside cover states the product is \"one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency [redacted] Advanced Aerospace Weapon System Applications (AAWSA) Program\" and directs questions to the AAWSA Program Manager, DIA, Bldg 6000, Washington DC 20340-5100.",
 "tier": 1
@@ -50,6 +57,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-385ac3a5ee",
 "edgeLabel": "deliverable under AAWSAP",
 "id": "aawsap",
 "l0": true,
@@ -76,6 +84,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-08b89c5713",
 "edgeLabel": "published and holds; DIA-08-1003-007",
 "id": "dia",
 "l0": true,
@@ -102,6 +111,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-064f0a0bc9",
 "edgeLabel": "DIRD",
 "id": "dird-series",
 "l0": true,
@@ -123,6 +133,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-86ccb04db9",
 "edgeLabel": "series member",
 "id": "dird-series",
 "l0": true,
@@ -149,6 +160,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-44c2b21280",
 "edgeLabel": "authored",
 "id": "friedwardt-winterberg",
 "l0": false,
@@ -246,7 +258,7 @@
 ],
 "sub": "defense-intelligence-reference-document",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 378 of 1170, score 35). 5 connections, 3 of them custody/funding/programmatic. Axes C0/A0/D0.",
+"tierRationale": "Re-graded B on a global pass (rank 380 of 1138, score 35). 5 connections, 3 of them custody/funding/programmatic. Axes C0/A0/D0.",
 "timeline": [],
 "unverified": []
 }

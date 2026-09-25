@@ -16,6 +16,7 @@
 ],
 "claims": [
 {
+"id": "c-70422b7dda",
 "source": "Helene Cooper, Ralph Blumenthal and Leslie Kean, New York Times, 16 December 2017",
 "text": "Told the New York Times that AATIP was shut down because 'it was determined that there were other, higher priority issues that merit' the funding.",
 "tier": 2
@@ -31,6 +32,7 @@
 "dateEnd": "2017",
 "dateStart": "2017",
 "direction": "out",
+"edgeId": "e-c655111201",
 "edgeLabel": "Confirmed the program existed and was shut down in 2012",
 "id": "aatip",
 "l0": true,
@@ -92,7 +94,7 @@
 "status": "former",
 "sub": "Pentagon spokesman, December 2017",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 1164 of 1170, score 6). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D0.",
+"tierRationale": "Re-graded C on a global pass (rank 1132 of 1138, score 6). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D0.",
 "timeline": [
 {
 "claimTier": null,

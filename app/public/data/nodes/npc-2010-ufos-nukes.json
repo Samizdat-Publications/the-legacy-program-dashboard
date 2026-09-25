@@ -5,36 +5,43 @@
 "band": "disclosure",
 "claims": [
 {
+"id": "c-55c24fcbd3",
 "source": "Robert Hastings, 'The UFOs-Nukes Connection Press Conference', https://ufohastings.com/articles/the-ufos-nukes-connection-press-conference , opened 2026-09-19",
 "text": "The roster with ranks, units and periods, from Hastings's own page: Dwynne Arneson, Lt Col, 28th Air Division, Malmstrom AFB, 1967; Bruce Fenstermacher, Capt, missile combat crew commander, F. E. Warren AFB, 1974 to 1977; Charles Halt, Lt Col and later Col, RAF Bentwaters and Woodbridge and later Kunsan AB; Robert Jamison, Capt, ICBM combat targeting team, Malmstrom AFB, January 1965 to October 1967; Patrick McDonough, geodetic surveyor, F. E. Warren AFB, 1962 to 1966; Jerry Nelson, deputy missile crew commander, 579th Strategic Missile Squadron, Walker AFB, Roswell; and Robert Salas, Capt, Malmstrom AFB. The page names McDonough, Salas, Jamison, Arneson, Fenstermacher and Halt as having executed affidavits.",
 "tier": 2
 },
 {
+"id": "c-84fa7fc062",
 "source": "Derived by this board from the register in research/leads/verified-nuclear-witnesses-2026-09-19.md, which lists every nuclear-facility witness found in the 19 September 2026 pass together with the route by which each account reached the public",
 "text": "A DATA-INTEGRITY FLAG ON THAT ROSTER, RECORDED RATHER THAN QUIETLY CORRECTED. The fetch of Hastings's page by this session rendered Salas's line as a 1969 incident. Every other source opened, including this board's own robert-salas node, gives March 1967. This session could not confirm whether the string '1969' is actually on the page or is a summarisation artefact. DO NOT CARRY 1969 ANYWHERE. The discrepancy is recorded as unresolved.",
 "tier": 3
 },
 {
+"id": "c-fb6088351b",
 "source": "https://ufohastings.com/articles/the-ufos-nukes-connection-press-conference and https://ufohastings.com/about , both opened 2026-09-19",
 "text": "The witness count Hastings gives on this page differs from the one on his own biographical page. Here: 'I have interviewed more than 160 U.S. Air Force veterans regarding their involvement in UFO incidents at nuclear weapons sites.' There: 'To date, Hastings has interviewed more than 150 military veterans.' Both pages were opened on the same day.",
 "tier": 2
 },
 {
+"id": "c-f2611fe519",
 "source": "Derived by this board from the register in research/leads/verified-nuclear-witnesses-2026-09-19.md, which lists every nuclear-facility witness found in the 19 September 2026 pass together with the route by which each account reached the public",
 "text": "SECTION 2a PROVENANCE FOR THE PANEL AS A WHOLE. Of the seven veterans, one, Charles Halt, had already written the operative document himself in 1981 as a serving deputy base commander, and one, Robert Salas, had approached a newspaper himself in 1996. For the other five this event is their first appearance in the public record. Neither page opened by this board states how Hastings located any of them.",
 "tier": 3
 },
 {
+"id": "c-deaa295d00",
 "source": "ufohastings.com; CNN coverage of the press conference, 27 September 2010",
 "text": "Seven US Air Force veterans discussed UFO incursions at nuclear weapons sites at the National Press Club on 27 September 2010; CNN streamed the event live and carried coverage.",
 "tier": 2
 },
 {
+"id": "c-2c45f86e94",
 "source": "CNN report on the press conference, 27 September 2010",
 "text": "Hastings said at the podium: 'Regarding the missile shut-down incidents, my opinion, their opinion, is that whoever are aboard this craft are sending a signal to both Washington and Moscow, among others, that we are playing with fire.'",
 "tier": 2
 },
 {
+"id": "c-4384238fed",
 "source": "ufohastings.com, 'Witness Affidavits' section",
 "text": "Signed affidavits from Robert Salas, Charles Halt, Patrick McDonough, Robert Jamison, Dwynne Arneson, Bruce Fenstermacher and Jerry Nelson are published in facsimile in the UFOs & Nukes document archive.",
 "tier": 2
@@ -50,6 +57,7 @@
 "dateEnd": "2010-09-27",
 "dateStart": "2010-09-27",
 "direction": "in",
+"edgeId": "e-50bc674b0b",
 "edgeLabel": "Spoke on the record with a signed affidavit",
 "id": "bruce-fenstermacher",
 "l0": false,
@@ -71,6 +79,7 @@
 "dateEnd": "2010-09-27",
 "dateStart": "2010-09-27",
 "direction": "in",
+"edgeId": "e-0339e8e354",
 "edgeLabel": "Spoke on the record with a signed affidavit; the one panellist who wrote his own primary document in 1981",
 "id": "charles-halt",
 "l0": false,
@@ -92,6 +101,7 @@
 "dateEnd": "2010-09-27",
 "dateStart": "2010-09-27",
 "direction": "in",
+"edgeId": "e-9f69c70ea3",
 "edgeLabel": "Spoke on the record with a signed affidavit",
 "id": "dwynne-arneson",
 "l0": false,
@@ -113,6 +123,7 @@
 "dateEnd": "2010-09-27",
 "dateStart": "2010-09-27",
 "direction": "in",
+"edgeId": "e-cce55fe0a4",
 "edgeLabel": "Spoke on the record; not among the six named affiants on the opened page",
 "id": "jerry-nelson",
 "l0": false,
@@ -134,6 +145,7 @@
 "dateEnd": "2010-09-27",
 "dateStart": "2010-09-27",
 "direction": "in",
+"edgeId": "e-761afa6dbd",
 "edgeLabel": "Spoke on the record with a signed affidavit",
 "id": "patrick-mcdonough",
 "l0": false,
@@ -155,6 +167,7 @@
 "dateEnd": "2010-09-27",
 "dateStart": "2010-09-27",
 "direction": "in",
+"edgeId": "e-defa418c6c",
 "edgeLabel": "Convened and hosted the National Press Club event",
 "id": "robert-hastings",
 "l0": false,
@@ -181,6 +194,7 @@
 "dateEnd": "2010-09-27",
 "dateStart": "2010-09-27",
 "direction": "in",
+"edgeId": "e-3a24b858c5",
 "edgeLabel": "Spoke on the record with a signed affidavit",
 "id": "robert-jamison",
 "l0": false,
@@ -202,6 +216,7 @@
 "dateEnd": "2010-09-27",
 "dateStart": "2010-09-27",
 "direction": "in",
+"edgeId": "e-b55f2bd900",
 "edgeLabel": "Spoke on the record and has a signed affidavit on file",
 "id": "robert-salas",
 "l0": false,
@@ -361,7 +376,7 @@
 ],
 "sub": "Seven named USAF veterans on the record; CNN live stream",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 472 of 1170, score 32). 8 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 470 of 1138, score 32). 8 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D3.",
 "timeline": [
 {
 "claimTier": null,

@@ -5,16 +5,19 @@
 "band": null,
 "claims": [
 {
+"id": "c-2c5005811d",
 "source": "GAO/NSIAD-95-187",
 "text": "GAO/NSIAD-95-187 (28 July 1995) reports that Roswell AAF outgoing messages for 1946-1949 were destroyed with no disposition authority and no destruction certificate.",
 "tier": 1
 },
 {
+"id": "c-5b6174fb5a",
 "source": "USAF, The Roswell Report: Case Closed (1997); The Roswell Report: Fact vs. Fiction",
 "text": "The Air Force published 'The Roswell Report: Fact vs. Fiction in the New Mexico Desert' attributing the debris to Project MOGUL, and 'The Roswell Report: Case Closed' (24 June 1997) attributing body reports to anthropomorphic test dummies.",
 "tier": 1
 },
 {
+"id": "c-ea5fbff86d",
 "source": "Berlitz and Moore, 'The Roswell Incident' (1980)",
 "text": "The 1980 Berlitz and Moore book 'The Roswell Incident' reopened the case publicly and is the origin of the modern witness corpus.",
 "tier": 2
@@ -30,6 +33,7 @@
 "dateEnd": "1997-06-24",
 "dateStart": "1947-07-08",
 "direction": "out",
+"edgeId": "e-b22231a57f",
 "edgeLabel": "Four official explanations for one event",
 "id": "d-denial",
 "l0": false,
@@ -51,6 +55,7 @@
 "dateEnd": null,
 "dateStart": "1947-07-08",
 "direction": "out",
+"edgeId": "e-55e8c88416",
 "edgeLabel": "The founding case of the retrieval strand",
 "id": "d-recovery",
 "l0": false,
@@ -72,6 +77,7 @@
 "dateEnd": "1947-07-08",
 "dateStart": "1947-07-08",
 "direction": "out",
+"edgeId": "e-7f8bdd03ff",
 "edgeLabel": "Where the disc became a balloon",
 "id": "l-fort-worth-tx",
 "l0": false,
@@ -105,6 +111,7 @@
 "by": null,
 "claimTier": 1,
 "denialKind": "association",
+"edgeId": "e-b22231a57f",
 "label": "Four official explanations for one event",
 "note": "Weather balloon in 1947, Project MOGUL in the mid-1990s, crash test dummies in 1997 - the sequence of explanations is itself the evidentiary object.",
 "of": null,
@@ -171,7 +178,7 @@
 ],
 "sub": "Case domain - the 1947 event and the four official explanations issued for it",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 345 of 1170, score 37). 3 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A1/D2.",
+"tierRationale": "Re-graded B on a global pass (rank 346 of 1138, score 37). 3 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A1/D2.",
 "timeline": [
 {
 "claimTier": 1,

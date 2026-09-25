@@ -5,16 +5,19 @@
 "band": null,
 "claims": [
 {
+"id": "c-d208600d24",
 "source": "Sol Foundation Science and Policy Briefings No. 3, Executive Summary",
 "text": "The briefing states that the SIMS and MIBI analyses found no anomalous isotopic values but that the metals in the once-molten mass were mixed incompletely, 'indicating an industrial process of unknown, and potentially perplexing, origin'.",
 "tier": 1
 },
 {
+"id": "c-da78f036bc",
 "source": "Notes 11 and 12, Sol Foundation Briefing No. 3",
 "text": "The briefing states that iron meteorites contain 5-40% nickel while the Council Bluffs sample had only trace amounts, and that aluminium oxide - the necessary byproduct of a thermite reaction - would have been observed as a diatomic in the SIMS analysis and was not.",
 "tier": 1
 },
 {
+"id": "c-f0fd2afa48",
 "source": "Section 3, Sol Foundation Briefing No. 3",
 "text": "The briefing records that no foundries in the region were operating on the day of the incident and that no airports or military facilities in the region reported aviation incidents before, during or after.",
 "tier": 1
@@ -30,6 +33,7 @@
 "dateEnd": null,
 "dateStart": "2026-04-30",
 "direction": "out",
+"edgeId": "e-f6ef22f7ec",
 "edgeLabel": "briefing analyses Nolan's Council Bluffs materials study",
 "id": "garry-nolan",
 "l0": false,
@@ -56,6 +60,7 @@
 "dateEnd": null,
 "dateStart": "2026-04-30",
 "direction": "in",
+"edgeId": "e-94c6878bb2",
 "edgeLabel": "author of Sol Science and Policy Briefing No. 3",
 "id": "marik-von-rennenkampff",
 "l0": false,
@@ -82,6 +87,7 @@
 "dateEnd": null,
 "dateStart": "2026-04-30",
 "direction": "in",
+"edgeId": "e-6ec18da82f",
 "edgeLabel": "publisher of Science and Policy Briefing No. 3",
 "id": "sol-foundation",
 "l0": true,
@@ -142,7 +148,7 @@
 ],
 "sub": "Marik von Rennenkampff, 'First Peer-Reviewed Scientific Analysis of Possible UAP Materials Employs State-of-the-Art Technologies'",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 860 of 1170, score 20). 3 connections, 0 of them custody/funding/programmatic. Axes C1/A0/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 841 of 1138, score 20). 3 connections, 0 of them custody/funding/programmatic. Axes C1/A0/D2.",
 "timeline": [
 {
 "claimTier": null,

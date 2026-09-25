@@ -26,11 +26,13 @@
 ],
 "claims": [
 {
+"id": "c-6b7c08d3a5",
 "source": "RAND Corporation publication page and PDF for DRU-1571",
 "text": "RAND published 'UFOs: What To Do?' by George Kocher as draft DRU-1571, originally November 1968; the document examines UFO brightness, size and manoeuvres and discusses a recommended course of action.",
 "tier": 1
 },
 {
+"id": "c-40124d8bd6",
 "source": "RAND report RRA2475-1, 25 July 2023, footnote 9",
 "text": "RAND's 2023 report RRA2475-1, on mapping public reports of unidentified aerial phenomena across America, cites Kocher's DRU-1571.",
 "tier": 1
@@ -46,6 +48,7 @@
 "dateEnd": "1969",
 "dateStart": "1968",
 "direction": "out",
+"edgeId": "e-86248b630b",
 "edgeLabel": "RAND was documenting the case for instrumented study as Condon was closing it down",
 "id": "condon-committee",
 "l0": true,
@@ -67,6 +70,7 @@
 "dateEnd": null,
 "dateStart": "1968",
 "direction": "in",
+"edgeId": "e-7956425c5c",
 "edgeLabel": "Published Kocher's 'UFOs: What To Do?' as DRU-1571, November 1968",
 "id": "rand-corporation",
 "l0": true,
@@ -134,7 +138,7 @@
 "status": "dead",
 "sub": "RAND Corporation analyst; author of 'UFOs: What To Do?' (RAND draft DRU-1571, November 1968)",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 1039 of 1170, score 13). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D1.",
+"tierRationale": "Re-graded C on a global pass (rank 1009 of 1138, score 13). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D1.",
 "timeline": [
 {
 "claimTier": null,

@@ -5,24 +5,46 @@
 "band": "research",
 "claims": [
 {
+"id": "c-7f45c0a002",
 "source": "NASA UAP Independent Study Team Final Report; NASA UAP program page",
 "text": "The team was chaired by David Spergel with Daniel Evans as designated federal official, and its final report was released 14 September 2023.",
 "tier": 1
 },
 {
+"id": "c-8f8d08e26f",
 "source": "NASA UAP Independent Study Team Final Report, 14 September 2023",
 "text": "'Analysis of UAP data is hampered by poor sensor calibration, the lack of multiple measurements, the lack of sensor metadata.'",
 "tier": 1
 },
 {
+"id": "c-f4dad98fe7",
 "source": "NASA UAP Independent Study Team Final Report, 14 September 2023",
 "text": "The report recommends enhancing the Aviation Safety Reporting System for commercial pilot UAP reporting and developing crowdsourced smartphone-based citizen reporting.",
 "tier": 1
 },
 {
+"id": "c-07e362993f",
 "source": "The Debrief, 14 September 2023",
 "text": "NASA announced a Director of UAP Research at the 14 September 2023 briefing without naming the appointee; a subsequent statement identified Mark McInerney.",
 "tier": 1
+},
+{
+"id": "c-43b4b8de1c",
+"source": "NASA announcements and the team's final report",
+"text": "NASA commissioned the sixteen-member UAP Independent Study Team on 24 May 2022 under chair David Spergel with Daniel Evans as designated federal official; it began work 24 October 2022, held one public meeting on 31 May 2023, and reported on 14 September 2023.",
+"tier": 1
+},
+{
+"id": "c-9aa45b3f05",
+"source": "NASA UAP Independent Study Team Final Report, 14 September 2023",
+"text": "The report concluded that no evidence of extraterrestrial origin was found and that poor-quality and limited data characterises many unexplained events, recommending a rigorous evidence-based approach using AI and citizen observers.",
+"tier": 1
+},
+{
+"id": "c-7a76af2449",
+"source": "Inference from the panel's remit; no member has reported a classified read-on",
+"text": "The panel operated entirely on unclassified data and was never read on to classified holdings, so its finding of insufficient evidence is a statement about its own access rather than about the government's holdings.",
+"tier": 3
 }
 ],
 "cls": "program",
@@ -30,11 +52,34 @@
 "conflicts": [],
 "connections": [
 {
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": "2023",
+"dateStart": "2022",
+"direction": "out",
+"edgeId": "e-d57bd1b10a",
+"edgeLabel": "Ran concurrently with, and separately from, AARO",
+"id": "aaro",
+"l0": true,
+"label": "All-domain Anomaly Resolution Office (AARO)",
+"note": "Two federal UAP bodies operated in parallel through 2022-2023 with no public mechanism for the unclassified panel to see AARO's classified holdings.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia: NASA Unidentified Anomalous Phenomena Independent Study Team",
+"url": "https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
 "claimTier": 1,
 "cls": "institution",
 "dateEnd": null,
 "dateStart": "2023",
 "direction": "in",
+"edgeId": "e-eac6f1a89c",
 "edgeLabel": "Shared reporting-reform agenda: ASRS and FAA pilot reporting",
 "id": "americans-for-safe-aerospace",
 "l0": true,
@@ -56,11 +101,39 @@
 "type": "programmatic"
 },
 {
+"claimTier": 3,
+"cls": "domain",
+"dateEnd": null,
+"dateStart": "2023",
+"direction": "out",
+"edgeId": "e-74432a42eb",
+"edgeLabel": "Concluded data was insufficient - having been given only the unclassified record",
+"id": "d-custody",
+"l0": false,
+"label": "Chain of custody",
+"note": "Sixteen serious scientists examining only unclassified material concluded that unclassified material is insufficient. The finding measures the panel's access, not the government's holdings.",
+"sources": [
+{
+"date": "2023-09-14",
+"name": "NASA UAP Independent Study Team Final Report",
+"url": "https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf"
+},
+{
+"date": "2026-08-12",
+"name": "Wikipedia: NASA Unidentified Anomalous Phenomena Independent Study Team",
+"url": "https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team"
+}
+],
+"tier": "A",
+"type": "denial"
+},
+{
 "claimTier": 2,
 "cls": "person",
 "dateEnd": "2023",
 "dateStart": "2022",
 "direction": "in",
+"edgeId": "e-6f1436abda",
 "edgeLabel": "Panel worked under sustained public harassment",
 "id": "david-spergel",
 "l0": false,
@@ -73,7 +146,7 @@
 "url": "https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Gold.pdf"
 }
 ],
-"tier": "B",
+"tier": "C",
 "type": "behavioral"
 },
 {
@@ -82,19 +155,25 @@
 "dateEnd": "2023",
 "dateStart": "2022",
 "direction": "in",
+"edgeId": "e-d880ef5a6a",
 "edgeLabel": "Chaired the NASA UAP Independent Study Team",
 "id": "david-spergel",
 "l0": false,
 "label": "David N. Spergel",
-"note": "Spergel chaired the sixteen-member panel whose final report was released 14 September 2023.",
+"note": "Commissioned 24 May 2022, one public meeting 31 May 2023, report delivered and team dissolved 14 September 2023.",
 "sources": [
 {
 "date": "2023-09-14",
 "name": "NASA UAP Independent Study Team Final Report (PDF)",
 "url": "https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf"
+},
+{
+"date": "2026-08-12",
+"name": "Wikipedia: NASA Unidentified Anomalous Phenomena Independent Study Team",
+"url": "https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team"
 }
 ],
-"tier": "B",
+"tier": "C",
 "type": "institutional"
 },
 {
@@ -103,6 +182,7 @@
 "dateEnd": "2023",
 "dateStart": "2022",
 "direction": "in",
+"edgeId": "e-033f7a4254",
 "edgeLabel": "Member of the study team",
 "id": "michael-gold",
 "l0": false,
@@ -129,6 +209,7 @@
 "dateEnd": "2023-09-14",
 "dateStart": "2022-06-09",
 "direction": "in",
+"edgeId": "e-9a9ef6ce1c",
 "edgeLabel": "NASA chartered and published the Independent Study Team report",
 "id": "nasa",
 "l0": true,
@@ -150,6 +231,7 @@
 "dateEnd": "2023",
 "dateStart": "2023",
 "direction": "in",
+"edgeId": "e-db853ade8a",
 "edgeLabel": "NASA science chief at the report release briefing",
 "id": "nicola-fox",
 "l0": false,
@@ -171,6 +253,7 @@
 "dateEnd": "2023",
 "dateStart": "2021",
 "direction": "out",
+"edgeId": "e-2fa947f072",
 "edgeLabel": "Both diagnose the same evidentiary deficit",
 "id": "odni-preliminary-assessment-2021",
 "l0": true,
@@ -197,6 +280,7 @@
 "dateEnd": "2026",
 "dateStart": "2026",
 "direction": "in",
+"edgeId": "e-e08a48e3fc",
 "edgeLabel": "Metadata stripping defeats the study team's core recommendation",
 "id": "pursue-releases",
 "l0": true,
@@ -221,8 +305,44 @@
 "coords": null,
 "dateEnd": "2023",
 "dateStart": "2022",
-"deg": 7,
-"denials": [],
+"deg": 9,
+"denials": [
+{
+"a": {
+"id": "nasa-uap-ist",
+"label": "NASA UAP Independent Study Team"
+},
+"b": {
+"id": "d-custody",
+"label": "Chain of custody"
+},
+"by": {
+"id": "nasa-uap-ist",
+"label": "NASA UAP Independent Study Team"
+},
+"claimTier": 3,
+"denialKind": "directed",
+"edgeId": "e-74432a42eb",
+"label": "Concluded data was insufficient - having been given only the unclassified record",
+"note": "Sixteen serious scientists examining only unclassified material concluded that unclassified material is insufficient. The finding measures the panel's access, not the government's holdings.",
+"of": {
+"id": "d-custody",
+"label": "Chain of custody"
+},
+"sources": [
+{
+"date": "2023-09-14",
+"name": "NASA UAP Independent Study Team Final Report",
+"url": "https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf"
+},
+{
+"date": "2026-08-12",
+"name": "Wikipedia: NASA Unidentified Anomalous Phenomena Independent Study Team",
+"url": "https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team"
+}
+]
+}
+],
 "desc": "A sixteen-member independent study team convened by NASA in 2022 and chaired by astrophysicist David Spergel, with a public meeting on 31 May 2023 and a final report released on 14 September 2023. Members included Anamaria Berea, Federica Bianco, Reggie Brothers, Paula Bontempi, Jennifer Buss, Nadia Drake, Mike Gold, David Grinspoon, Capt. Scott Kelly USN (Ret.), Matt Mountain, Warren Randolph (FAA), Walter Scott, Joshua Semeter, Karlin Toner (FAA) and Shelley Wright, with Daniel Evans as designated federal officer. The report's operative finding is about data quality, not phenomenology: 'Analysis of UAP data is hampered by poor sensor calibration, the lack of multiple measurements, the lack of sensor metadata.' Its recommendations are the aviator strand's policy agenda - enhance the Aviation Safety Reporting System for commercial pilot UAP reporting, apply machine learning to curated datasets, build FAIR data repositories, partner with commercial remote sensing, and advance air traffic management detection. At the release briefing NASA announced it had appointed a Director of UAP Research and declined to name the appointee; subsequent reporting identified Mark McInerney. Mike Gold later told Congress the study's designated federal officer had worked 'under difficult conditions,' the panel having absorbed public harassment throughout.",
 "domains": [],
 "dossier": {
@@ -340,10 +460,16 @@
 "locLabel": null,
 "members": [
 {
+"cls": "domain",
+"id": "d-custody",
+"label": "Chain of custody",
+"tier": "A"
+},
+{
 "cls": "person",
 "id": "david-spergel",
 "label": "David N. Spergel",
-"tier": "B"
+"tier": "C"
 },
 {
 "cls": "person",
@@ -361,7 +487,8 @@
 "openQuestions": [],
 "short": "NASA UAP Independent Study Team",
 "sourceFiles": [
-"aviators-incidents"
+"aviators-incidents",
+"scientists-technical"
 ],
 "sources": [
 {
@@ -378,12 +505,27 @@
 "date": "2023-09-14",
 "name": "The Debrief - NASA IST publishes findings, agency appoints UAP research director",
 "url": "https://thedebrief.org/nasas-uap-independent-study-team-publishes-its-findings-as-the-agency-appoints-a-new-nasa-director-of-uap-research/"
+},
+{
+"date": "2026-08-12",
+"name": "Wikipedia: NASA Unidentified Anomalous Phenomena Independent Study Team",
+"url": "https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team"
 }
 ],
 "sub": "Federal advisory study team, 2022-2023",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 386 of 1170, score 35). 8 connections, 2 of them custody/funding/programmatic. Axes C0/A1/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 177 of 1138, score 48). 10 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D3.",
 "timeline": [
+{
+"claimTier": null,
+"date": "2022-05-24",
+"grade": "A",
+"id": "st-2022-05-24",
+"label": "NASA commissions its panel",
+"precision": "day",
+"strand": "oversight",
+"text": "NASA commissions the sixteen-member UAP Independent Study Team under David Spergel - with access to unclassified data only."
+},
 {
 "claimTier": null,
 "date": "2023-09-14",
@@ -393,6 +535,16 @@
 "precision": "day",
 "strand": "oversight",
 "text": "The UAP Independent Study Team report finds analysis 'hampered by poor sensor calibration, the lack of multiple measurements, the lack of sensor metadata.' NASA announces a Director of UAP Research and declines to name him at the briefing."
+},
+{
+"claimTier": null,
+"date": "2023-09-14",
+"grade": "A",
+"id": "st-2023-09-14",
+"label": "NASA panel reports and dissolves",
+"precision": "day",
+"strand": "oversight",
+"text": "The UAP Independent Study Team delivers its report - no evidence of extraterrestrial origin, data quality is the binding constraint - and dissolves the same day. It had never been given the classified holdings."
 }
 ],
 "unverified": []

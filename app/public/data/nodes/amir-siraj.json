@@ -32,16 +32,19 @@
 ],
 "claims": [
 {
+"id": "c-d416ac046f",
 "source": "The Astrophysical Journal, DOI 10.3847/1538-4357/ac8eac",
 "text": "Siraj and Loeb published 'A Meteor of Apparent Interstellar Origin in the CNEOS Fireball Catalog' in The Astrophysical Journal in November 2022.",
 "tier": 1
 },
 {
+"id": "c-58cbe26e24",
 "source": "Signals, DOI 10.3390/signals4040035",
 "text": "Siraj and Loeb published 'Localizing the First Interstellar Meteor with Seismometer Data' in Signals in September 2023.",
 "tier": 1
 },
 {
+"id": "c-2ff1a20481",
 "source": "Geophysical Journal International, March 2024, as reported by The New York Times",
 "text": "The seismic localisation was subsequently attributed by Fernando et al. in Geophysical Journal International (March 2024) to nearby truck traffic rather than an impact.",
 "tier": 1
@@ -59,6 +62,7 @@
 "dateEnd": "2023",
 "dateStart": "2022",
 "direction": "out",
+"edgeId": "e-7ac83562eb",
 "edgeLabel": "Siraj's interstellar-velocity and seismic localisation determined the search site",
 "id": "im1-pacific-expedition-2023",
 "l0": false,
@@ -126,7 +130,7 @@
 "status": "active",
 "sub": "Astrophysicist; leads the Interstellar Object Studies branch of The Galileo Project; co-author on the IM1 interstellar-meteor identification",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 970 of 1170, score 16). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A0/D1.",
+"tierRationale": "Re-graded C on a global pass (rank 942 of 1138, score 16). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A0/D1.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": [

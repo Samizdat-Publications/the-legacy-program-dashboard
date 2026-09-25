@@ -26,16 +26,19 @@
 ],
 "claims": [
 {
+"id": "c-3d4bcdf994",
 "source": "CRADA document released by U.S. Army CCDC, 18 October 2019",
 "text": "Named as the U.S. Government principal investigator on the TTSA CRADA alongside Bean Soave.",
 "tier": 1
 },
 {
+"id": "c-92b1525902",
 "source": "PR Newswire, 17 October 2019",
 "text": "Quoted: 'Our partnership with TTSA serves as an exciting, non-traditional source for novel materials and transformational technologies.'",
 "tier": 1
 },
 {
+"id": "c-709ded35b5",
 "source": "CCDC FOIA response to The Black Vault, 21 February 2020",
 "text": "On 21 February 2020 CCDC FOIA Officer Joy L. Linton wrote that 'there are twenty-nine (29) emails totaling one hundred (100) pages' of Cannon's TTSA correspondence, all withheld under exemptions (b)(4) and (b)(5).",
 "tier": 1
@@ -51,6 +54,7 @@
 "dateEnd": null,
 "dateStart": "2020",
 "direction": "in",
+"edgeId": "e-a2dbbb5b61",
 "edgeLabel": "21 Feb 2020: Army withholds 29 emails / 100 pages of Cannon's TTSA correspondence in full",
 "id": "ccdc-gvsc",
 "l0": false,
@@ -72,6 +76,7 @@
 "dateEnd": "2020",
 "dateStart": "2019",
 "direction": "out",
+"edgeId": "e-68acd832a6",
 "edgeLabel": "Cannon was the named government principal investigator at GVSC",
 "id": "l-detroit-arsenal",
 "l0": false,
@@ -98,6 +103,7 @@
 "dateEnd": "2023",
 "dateStart": "2019",
 "direction": "out",
+"edgeId": "e-d8e5456391",
 "edgeLabel": "Government principal investigator",
 "id": "ttsa-army-crada",
 "l0": true,
@@ -134,6 +140,7 @@
 },
 "claimTier": 1,
 "denialKind": "directed",
+"edgeId": "e-a2dbbb5b61",
 "label": "21 Feb 2020: Army withholds 29 emails / 100 pages of Cannon's TTSA correspondence in full",
 "note": "CCDC FOIA Officer Joy L. Linton invoked exemptions (b)(4) and (b)(5) over an unclassified novel-materials collaboration the Army publicly described as origin-immaterial.",
 "of": {
@@ -189,7 +196,7 @@
 "status": "active",
 "sub": "Government principal investigator, TTSA CRADA; U.S. Army Ground Vehicle Survivability and Protection",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 426 of 1170, score 33). 3 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A2/D0.",
+"tierRationale": "Re-graded B on a global pass (rank 426 of 1138, score 33). 3 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A2/D0.",
 "timeline": [],
 "unexplainedResidual": "The Army withheld 100 pages of correspondence about a materials collaboration it publicly described as routine. Deliberative-process and trade-secret exemptions over an unclassified novel-materials review is an unusually heavy posture for a partnership characterised as immaterial to origin.",
 "unverified": [

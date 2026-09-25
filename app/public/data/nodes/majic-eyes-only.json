@@ -5,11 +5,13 @@
 "band": null,
 "claims": [
 {
+"id": "c-b4c8092bde",
 "source": "Ryan S. Wood, 'Majic Eyes Only' (2005)",
 "text": "'Majic Eyes Only' catalogues claimed crash-retrieval events from the 1940s onward with dates, locations, source trails and numerical credibility weightings.",
 "tier": 2
 },
 {
+"id": "c-395eb87a30",
 "source": "Inference from the book's stated method and citation base",
 "text": "The catalogue's credibility weightings should not be treated as a metric because the weighting function is not reproducible by a third party, and its source trail substantially recirculates Stringfield's anonymous informants and the Majestic Documents corpus. Reasoning: an index inherits the provenance of what it indexes.",
 "tier": 3
@@ -25,6 +27,7 @@
 "dateEnd": "2005",
 "dateStart": "2005",
 "direction": "in",
+"edgeId": "e-909515bf6f",
 "edgeLabel": "Compiled the crash-retrieval catalogue",
 "id": "ryan-wood",
 "l0": false,
@@ -46,6 +49,7 @@
 "dateEnd": "2005",
 "dateStart": "2005",
 "direction": "out",
+"edgeId": "e-6a1cbaf42c",
 "edgeLabel": "The catalogue inherits Stringfield's case base",
 "id": "stringfield-status-reports",
 "l0": false,
@@ -101,7 +105,7 @@
 ],
 "sub": "Ryan S. Wood; indexed crash-retrieval catalogue with credibility weightings",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 1147 of 1170, score 9). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 1115 of 1138, score 9). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.",
 "timeline": [
 {
 "claimTier": null,

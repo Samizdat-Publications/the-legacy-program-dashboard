@@ -5,31 +5,37 @@
 "band": "disclosure",
 "claims": [
 {
+"id": "c-38a2d16a4b",
 "source": "ABC News, 'Group Calls for Disclosure of UFO Info', 9 May 2001, 2:35 PM, https://abcnews.com/Technology/story?id=98572&page=1 , opened 2026-09-19",
 "text": "ABC News, reporting on the day under the headline 'Group Calls for Disclosure of UFO Info', 9 May 2001: Steven Greer 'organized the program at the National Press Club in Washington', at which about 20 former government workers, many of them military and security officials, came forward.",
 "tier": 1
 },
 {
+"id": "c-659d5cbd80",
 "source": "Philip J. Klass, Skeptics UFO Newsletter (SUN) #68, Summer 2001, 'Dr. Greer's Disclosure Conference Reveals His New Strategy'; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2022/09/26195512/SUN-68-Summer-2001.pdf , opened 2026-09-19",
 "text": "Philip J. Klass, writing within weeks: the press conference was 'held May 9 at the National Press Club in Washington DC, whose stated objective was to prompt a Congressional hearing on UFOs'.",
 "tier": 1
 },
 {
+"id": "c-ba7ff7f5e3",
 "source": "Philip J. Klass, Skeptics UFO Newsletter (SUN) #68, Summer 2001, 'Dr. Greer's Disclosure Conference Reveals His New Strategy'; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2022/09/26195512/SUN-68-Summer-2001.pdf , opened 2026-09-19",
 "text": "THE COUNT THAT GOVERNS EVERY PODIUM CLAIM IN THIS CLUSTER. Klass: Greer's book 'contains transcripts of taped interviews with 69 of his witnesses, 20 of whom spoke briefly at the recent press conference.'",
 "tier": 1
 },
 {
+"id": "c-4b66311495",
 "source": "Philip J. Klass, Skeptics UFO Newsletter (SUN) #68, Summer 2001, 'Dr. Greer's Disclosure Conference Reveals His New Strategy'; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2022/09/26195512/SUN-68-Summer-2001.pdf , opened 2026-09-19",
 "text": "FIVE PEOPLE, AND ONLY FIVE, ARE PLACED AT THE PODIUM BY AN OPENED SOURCE. John Callahan, who 'described' the JAL incident at the conference; Clifford Stone, shown there by Fox News Channel; Major George A. Filer III, 'another impressive witness at Greer's press conference'; Daniel Sheehan, named by ABC News on the day as counsel and reported describing his National Archives account; and Alfred L. Webre, whom a MUFON correspondent quoted by Klass describes, with Sheehan, as 'prominently involved in Greer's press conference at the National Press Club'.",
 "tier": 2
 },
 {
+"id": "c-c0a6b6873f",
 "source": "Philip J. Klass, Skeptics UFO Newsletter (SUN) #68, Summer 2001, 'Dr. Greer's Disclosure Conference Reveals His New Strategy'; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2022/09/26195512/SUN-68-Summer-2001.pdf , opened 2026-09-19",
 "text": "Klass records his own exclusion, which limits his account of the event but not the records he obtained himself: he did not attend because Greer had refused him admission to a comparable 1997 event and 'reportedly refused the request for admission by Fund For UFO Research officials', so his account 'is based largely on Greer's own press releases and his 573-page book'.",
 "tier": 1
 },
 {
+"id": "c-e1123776ff",
 "source": "Philip J. Klass, Skeptics UFO Newsletter (SUN) #68, Summer 2001, 'Dr. Greer's Disclosure Conference Reveals His New Strategy'; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2022/09/26195512/SUN-68-Summer-2001.pdf , opened 2026-09-19",
 "text": "STATED INFERENCE, AND THE POINT OF THIS NODE. Nothing opened by this board places Karl Wolfe, Donna Hare, Robert Jacobs, Larry Warren, John or Jonathan Weygandt, Don Phillips or Mark McCandlish at this podium. Appearing in the April 2001 Briefing Document and speaking on 9 May 2001 are two different facts with two different records, and the second must never be inferred from the first.",
 "tier": 3
@@ -45,6 +51,7 @@
 "dateEnd": "2001-05-09",
 "dateStart": "2001-05-09",
 "direction": "in",
+"edgeId": "e-9cd99bcbaf",
 "edgeLabel": "Shown at the podium by Fox News Channel, 9 May 2001",
 "id": "clifford-stone",
 "l0": false,
@@ -66,6 +73,7 @@
 "dateEnd": "2001-05-09",
 "dateStart": "2001-05-09",
 "direction": "out",
+"edgeId": "e-c67a3fb71e",
 "edgeLabel": "A press event whose purpose was coverage, covered the same day by a national broadcaster",
 "id": "d-media",
 "l0": false,
@@ -87,6 +95,7 @@
 "dateEnd": "2001-05-09",
 "dateStart": "2001-05-09",
 "direction": "in",
+"edgeId": "e-ce4ab35e03",
 "edgeLabel": "Counsel to the Project, at the podium on 9 May 2001",
 "id": "daniel-sheehan",
 "l0": false,
@@ -113,6 +122,7 @@
 "dateEnd": "2001-05-09",
 "dateStart": "2001-05-09",
 "direction": "out",
+"edgeId": "e-2fde4013a2",
 "edgeLabel": "The Project's press conference, 9 May 2001",
 "id": "disclosure-project",
 "l0": true,
@@ -139,6 +149,7 @@
 "dateEnd": "2001-05-09",
 "dateStart": "2001-04",
 "direction": "out",
+"edgeId": "e-7854589977",
 "edgeLabel": "Document April 2001; press conference 9 May 2001; different and largely unknown rosters",
 "id": "disclosure-project-briefing-2001",
 "l0": true,
@@ -165,6 +176,7 @@
 "dateEnd": "2001-05-09",
 "dateStart": "2001-05-09",
 "direction": "in",
+"edgeId": "e-582c0fbf97",
 "edgeLabel": "Spoke at the podium, 9 May 2001",
 "id": "john-callahan",
 "l0": false,
@@ -186,6 +198,7 @@
 "dateEnd": "2001-05-09",
 "dateStart": "2001-05-09",
 "direction": "in",
+"edgeId": "e-988cac308a",
 "edgeLabel": "Organiser of the event",
 "id": "steven-greer",
 "l0": false,
@@ -301,7 +314,7 @@
 ],
 "sub": "The event at which 20 of the Disclosure Project's 69 interviewees spoke publicly; distinct from the April 2001 Briefing Document and carrying a different and largely unknown roster",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 595 of 1170, score 28). 7 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 589 of 1138, score 28). 7 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.",
 "timeline": [
 {
 "claimTier": null,

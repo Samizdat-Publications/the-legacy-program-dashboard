@@ -5,36 +5,43 @@
 "band": null,
 "claims": [
 {
+"id": "c-2da325cdac",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237658/",
 "text": "Defense Intelligence Reference Document titled \"Aneutronic Fusion Propulsion\", series \"Defense Futures\", published 2010-11-01 with an Intelligence Cut-Off Date (ICOD) of 2010-07-20, DIA document number DIA-08-1011-003. Released by DIA under FOIA and posted in the DIA FOIA Electronic Reading Room.",
 "tier": 1
 },
 {
+"id": "c-0114fb7e71",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237658/",
 "text": "Inside cover reads: \"This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency [redacted b(3) 10 USC 424] Advanced Aerospace Weapon System Applications (AAWSA) Program\" and directs questions to the \"AAWSA Program Manager, Defense Intelligence Agency, ATTN: [redacted], Bldg 6000, Washington, DC 20340-5100\".",
 "tier": 1
 },
 {
+"id": "c-f5dcf54d2b",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237658/",
 "text": "Author name is withheld in the DIA-released copy under FOIA exemption (b)(6); the \"Prepared by:\" line is withheld under (b)(3) 10 USC 424. The released cover therefore does not attribute the DIRD to a named author.",
 "tier": 1
 },
 {
+"id": "c-e1a05126bd",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237658/",
 "text": "Released PDF is 50 pages, marked UNCLASSIFIED//FOR OFFICIAL USE ONLY (FOUO caveat partially illegible in the scan).",
 "tier": 1
 },
 {
+"id": "c-828a0afc14",
 "source": "https://irp.fas.org/dia/aatip-list.pdf",
 "text": "The DIA list of 9 January 2018 records TWO distinct aneutronic fusion deliverables, not one: item 26 \"Aneutronic Fusion Propulsion, Dr V Teofilo, Lockheed Martin\" and item 30 \"Aneutronic Fusion Propulsion II, Dr W Culbreth, Univ of Nevada-Las Vegas\". The apparent duplication on the board is therefore genuine bibliography, not a data error.",
 "tier": 1
 },
 {
+"id": "c-66357ca515",
 "source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_30-DIRD_Aneutronic_Fusion_Propulsion.pdf",
 "text": "Cover page reads \"01 November 2010 / ICOD: 20 July 2010 / DIA-08-1011-003\", series \"Defense Futures\" (not \"Acquisition Threat Support\"), with a singular \"Author:\" field redacted under (b)(6). The document runs 50 pages with 28 endnotes.",
 "tier": 1
 },
 {
+"id": "c-a8f63dfb26",
 "source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_30-DIRD_Aneutronic_Fusion_Propulsion.pdf",
 "text": "Assigned to Culbreth by elimination and by internal character: this document contains five separate Nevada Test Site passages (Project Rover, NERVA at Area 25, Silverpeak lithium mining), cites standard nuclear engineering textbooks, and includes a relativistic rocket worksheet appendix, while containing zero occurrences of \"Lockheed\", \"Teofilo\", \"Sunnyvale\" or any Lockheed Martin content. The companion document DIA-08-1011-004 does contain a V. Teofilo self-citation. Neither cover names its author.",
 "tier": 2
@@ -50,6 +57,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-77a644f6e0",
 "edgeLabel": "deliverable under AAWSAP",
 "id": "aawsap",
 "l0": true,
@@ -81,6 +89,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-99b8cc33d1",
 "edgeLabel": "published and holds; DIA-08-1011-003",
 "id": "dia",
 "l0": true,
@@ -107,6 +116,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-dd360f0aa0",
 "edgeLabel": "DIRD",
 "id": "dird-series",
 "l0": true,
@@ -128,6 +138,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-dcbe220747",
 "edgeLabel": "series member",
 "id": "dird-series",
 "l0": true,
@@ -154,6 +165,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-86b3aad84e",
 "edgeLabel": "authored (attribution by elimination, see note)",
 "id": "william-culbreth",
 "l0": false,
@@ -246,7 +258,7 @@
 ],
 "sub": "defense-intelligence-reference-document",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 402 of 1170, score 34). 5 connections, 3 of them custody/funding/programmatic. Axes C0/A0/D0.",
+"tierRationale": "Re-graded B on a global pass (rank 401 of 1138, score 34). 5 connections, 3 of them custody/funding/programmatic. Axes C0/A0/D0.",
 "timeline": [],
 "unverified": []
 }

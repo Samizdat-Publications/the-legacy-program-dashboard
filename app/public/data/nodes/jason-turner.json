@@ -22,6 +22,7 @@
 ],
 "claims": [
 {
+"id": "c-649918e4d5",
 "source": "Public interviews by USS Princeton crew, 2018-2019; no primary record located as of Aug 2026",
 "text": "Multiple USS Princeton enlisted crewmen independently describe unidentified personnel removing recorded material within days of 14 Nov 2004. Reasoning: convergence of several separately given accounts from different divisions is evidentiary weight short of proof; it is graded as inference because no record has been produced.",
 "tier": 3
@@ -37,6 +38,7 @@
 "dateEnd": "2004-11-18",
 "dateStart": "2004-11-15",
 "direction": "out",
+"edgeId": "e-06b6b97b02",
 "edgeLabel": "Turner independently corroborates the confiscation window",
 "id": "nimitz-2004",
 "l0": true,
@@ -58,6 +60,7 @@
 "dateEnd": "2004",
 "dateStart": "2004",
 "direction": "out",
+"edgeId": "e-e82489065f",
 "edgeLabel": "Crewman aboard USS Princeton, Nov 2004",
 "id": "uss-princeton",
 "l0": false,
@@ -115,7 +118,7 @@
 "status": "active",
 "sub": "USS Princeton (CG-59) crewman, Nov 2004; secondary confiscation witness",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 1064 of 1170, score 12). 2 connections, 1 of them custody/funding/programmatic. Axes C1/A0/D1.",
+"tierRationale": "Re-graded C on a global pass (rank 1033 of 1138, score 12). 2 connections, 1 of them custody/funding/programmatic. Axes C1/A0/D1.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": [

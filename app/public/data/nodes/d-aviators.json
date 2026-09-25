@@ -5,21 +5,25 @@
 "band": null,
 "claims": [
 {
+"id": "c-fc0a6eae8f",
 "source": "DoD statement on release of historical Navy videos",
 "text": "The Department of Defense formally released the FLIR1, GIMBAL and GOFAST videos on 27 April 2020, stating that the aerial phenomena in them remain characterised as unidentified.",
 "tier": 1
 },
 {
+"id": "c-278f8d21dd",
 "source": "House Oversight Committee witness statements",
 "text": "David Fravor and Ryan Graves submitted written statements to the House Oversight Committee for the 26 July 2023 hearing and testified under oath.",
 "tier": 1
 },
 {
+"id": "c-d26eacdcef",
 "source": "Proceedings 2019, doi:10.3390/proceedings2019033026",
 "text": "Knuth, Powell and Reali published an estimate of the flight characteristics of the 2004 Nimitz object in the MaxEnt 2019 proceedings.",
 "tier": 1
 },
 {
+"id": "c-a119ca1435",
 "source": "CBS 60 Minutes, 16 May 2021",
 "text": "Alex Dietrich and David Fravor described the 2004 Nimitz encounter on the record to CBS 60 Minutes on 16 May 2021.",
 "tier": 2
@@ -35,6 +39,7 @@
 "dateEnd": null,
 "dateStart": "2004-11-14",
 "direction": "in",
+"edgeId": "e-a4192a7426",
 "edgeLabel": "Reported kinematics set the physics requirement",
 "id": "d-prop",
 "l0": false,
@@ -56,6 +61,7 @@
 "dateEnd": null,
 "dateStart": "2004-11-14",
 "direction": "in",
+"edgeId": "e-5e0b2cee2f",
 "edgeLabel": "Sensor corroboration is what makes the accounts arguable",
 "id": "d-signals",
 "l0": false,
@@ -77,6 +83,7 @@
 "dateEnd": "1987-03-05",
 "dateStart": "1986-11-17",
 "direction": "in",
+"edgeId": "e-8aec7286c7",
 "edgeLabel": "A civil-aviation case with a crew, an ATC transcript and a radar record",
 "id": "jal-1628-1986",
 "l0": false,
@@ -98,6 +105,7 @@
 "dateEnd": null,
 "dateStart": "2004-11-14",
 "direction": "out",
+"edgeId": "e-a50e2ce471",
 "edgeLabel": "Homeport of the Nimitz strike group",
 "id": "l-san-diego",
 "l0": false,
@@ -185,7 +193,7 @@
 ],
 "sub": "Witness domain - the trained observers whose accounts came with sensor corroboration",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 589 of 1170, score 28). 4 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 583 of 1138, score 28). 4 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D3.",
 "timeline": [
 {
 "claimTier": 1,

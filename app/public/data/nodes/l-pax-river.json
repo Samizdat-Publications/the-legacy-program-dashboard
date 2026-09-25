@@ -5,11 +5,13 @@
 "band": null,
 "claims": [
 {
+"id": "c-82b536eb00",
 "source": "Christopher Sharp, Liberation Times, 13 January 2026, citing unnamed sources",
 "text": "An exotic vehicle of unknown origin has been stored for decades at Naval Air Station Patuxent River, with contingency plans to relocate it if publicly identified.",
 "tier": 2
 },
 {
+"id": "c-1ed8c47f65",
 "source": "Liberation Times, 13 January 2026, citing Elizondo's written congressional testimony",
 "text": "Elizondo claimed in written testimony to Congress that Patuxent River was among the sites prepared in connection with the Lockheed Martin - Bigelow Aerospace transfer, including a hangar designed to facilitate movement of material by air and by river.",
 "tier": 2
@@ -25,6 +27,7 @@
 "dateEnd": "2026",
 "dateStart": "2026",
 "direction": "in",
+"edgeId": "e-9190046bcf",
 "edgeLabel": "Lockheed Martin is named among the contractors supporting NAVAIR work at the site alleged to store an exotic vehicle",
 "id": "lockheed-martin",
 "l0": true,
@@ -46,6 +49,7 @@
 "dateEnd": "2026",
 "dateStart": "2026",
 "direction": "in",
+"edgeId": "e-68119aee15",
 "edgeLabel": "Elizondo placed Pax River among the sites prepared for the blocked Lockheed-Bigelow transfer",
 "id": "luis-elizondo",
 "l0": false,
@@ -67,6 +71,7 @@
 "dateEnd": "2026",
 "dateStart": "2026",
 "direction": "in",
+"edgeId": "e-c3fc1d3808",
 "edgeLabel": "MITRE is named among the FFRDC and contractor ecosystem supporting NAVAIR programs at Pax River",
 "id": "mitre-corporation",
 "l0": true,
@@ -88,6 +93,7 @@
 "dateEnd": "2019-06-01",
 "dateStart": "2015-07-24",
 "direction": "in",
+"edgeId": "e-16ebae69c7",
 "edgeLabel": "NAWCAD, NAS Patuxent River, at the time of filing",
 "id": "salvatore-pais",
 "l0": false,
@@ -138,7 +144,7 @@
 ],
 "sub": "NAVAIR headquarters; alleged long-term storage site",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 418 of 1170, score 34). 4 connections, 1 of them custody/funding/programmatic. Axes C3/A3/D1.",
+"tierRationale": "Re-graded B on a global pass (rank 417 of 1138, score 34). 4 connections, 1 of them custody/funding/programmatic. Axes C3/A3/D1.",
 "timeline": [
 {
 "claimTier": null,

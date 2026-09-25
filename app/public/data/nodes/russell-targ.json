@@ -32,6 +32,7 @@
 ],
 "claims": [
 {
+"id": "c-a54e42777d",
 "source": "Nature 251, 602-607; CIA STARGATE collection",
 "text": "Targ is co-author of the Nature paper of 18 October 1974 and of the November 1978 SRI remote-viewing protocol released in the CIA STARGATE declassification.",
 "tier": 1
@@ -47,6 +48,7 @@
 "dateEnd": "1978",
 "dateStart": "1974",
 "direction": "in",
+"edgeId": "e-cf46504728",
 "edgeLabel": "Co-authors of the Nature paper and the SRI remote-viewing protocol",
 "id": "harold-puthoff",
 "l0": false,
@@ -73,6 +75,7 @@
 "dateEnd": "1982",
 "dateStart": "1972",
 "direction": "out",
+"edgeId": "e-9083dc537b",
 "edgeLabel": "Targ was co-principal investigator at SRI 1972-1982",
 "id": "sri-international",
 "l0": false,
@@ -99,6 +102,7 @@
 "dateEnd": "1982",
 "dateStart": "1972",
 "direction": "out",
+"edgeId": "e-b2047540f4",
 "edgeLabel": "Targ co-founded the SRI remote viewing research",
 "id": "stargate-program",
 "l0": true,
@@ -165,7 +169,7 @@
 "status": "active",
 "sub": "Laser physicist; co-founder with Puthoff of the SRI remote-viewing programme 1972-1982",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 936 of 1170, score 17). 3 connections, 1 of them custody/funding/programmatic. Axes C0/A2/D1.",
+"tierRationale": "Re-graded C on a global pass (rank 911 of 1138, score 17). 3 connections, 1 of them custody/funding/programmatic. Axes C0/A2/D1.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": []

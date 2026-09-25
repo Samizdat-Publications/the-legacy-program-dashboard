@@ -5,26 +5,31 @@
 "band": null,
 "claims": [
 {
+"id": "c-e70e3a86a7",
 "source": "Spies in Space: Reflections on National Reconnaissance and the Manned Orbiting Laboratory, NRO Center for the Study of National Reconnaissance, May 2019, foreword and chapter 3, https://www.govinfo.gov/content/pkg/GOVPUB-D-PURL-gpo123652/pdf/GOVPUB-D-PURL-gpo123652.pdf",
 "text": "The cover and the mission are described by the agency itself. The NRO's volume says MOL was 'open \"white\" world, but maintained a highly-classified \"black\" mission', with the reconnaissance mission 'codenamed Dorian in the BYEMAN security system', and its foreword calls Dorian 'a deeply classified program managed by the then darkly hidden agency of the Intelligence Community, the National Reconnaissance Office'.",
 "tier": 1
 },
 {
+"id": "c-57c422baf7",
 "source": "Spies in Space, NRO CSNR, May 2019, foreword, https://www.govinfo.gov/content/pkg/GOVPUB-D-PURL-gpo123652/pdf/GOVPUB-D-PURL-gpo123652.pdf",
 "text": "The declassification is dated and quantified in the NRO's own words: on 22 October 2015 the CSNR held a panel at the National Museum of the United States Air Force 'on the occasion of the NRO declassifying almost its entire collection of records on the Dorian program. There were over 850 documents with some 22,000 pages and 280 photographs.'",
 "tier": 1
 },
 {
+"id": "c-4632847fe2",
 "source": "Spies in Space, NRO CSNR, May 2019, introduction and chapter 3, https://www.govinfo.gov/content/pkg/GOVPUB-D-PURL-gpo123652/pdf/GOVPUB-D-PURL-gpo123652.pdf",
 "text": "Seventeen officers were trained and none flew: 'Between 1965 and 1969, quietly and without fanfare, 17 non-NASA individuals were astronaut-trained in order to meet the reconnaissance needs of the United States.' The camera is dated and designated: 'In 1969, the Dorian camera system was designated KH-10 within the Talent-Keyhole community.'",
 "tier": 1
 },
 {
+"id": "c-0ee5ad44a4",
 "source": "Spies in Space, NRO CSNR, May 2019, chapter 4, https://www.govinfo.gov/content/pkg/GOVPUB-D-PURL-gpo123652/pdf/GOVPUB-D-PURL-gpo123652.pdf",
 "text": "The scale of the clearance at termination: 'On 10 June 1969, 13,187 contractor personnel were cleared on MOL and faced reassignment.'",
 "tier": 1
 },
 {
+"id": "c-727646145a",
 "source": "John Uri, '55 Years Ago: Manned Orbiting Laboratory Cancellation', NASA, 11 June 2024, https://www.nasa.gov/history/55-years-ago-manned-orbiting-laboratory-cancellation/",
 "text": "NASA's history office dates the programme's public and classified halves: announced by Defense Secretary Robert S. McNamara in December 1963, formally approved by President Johnson in August 1965, 17 pilots selected in three groups on 12 November 1965, 17 June 1966 and 30 June 1967, flown on the Titan-IIIM from Vandenberg into polar orbit, cancelled 10 June 1969, and 'not declassified by the NRO until October 2015'.",
 "tier": 1
@@ -40,6 +45,7 @@
 "dateEnd": "1969",
 "dateStart": "1963",
 "direction": "out",
+"edgeId": "e-7797230b88",
 "edgeLabel": "A worked example of compartmentation: one workforce, two programmes",
 "id": "d-secrecy-architecture",
 "l0": false,
@@ -61,6 +67,7 @@
 "dateEnd": "1969",
 "dateStart": "1965",
 "direction": "out",
+"edgeId": "e-cfa47aec3b",
 "edgeLabel": "Polar launches were to fly from Vandenberg on the Titan-IIIM",
 "id": "l-vandenberg",
 "l0": false,
@@ -82,6 +89,7 @@
 "dateEnd": "1969",
 "dateStart": "1969",
 "direction": "out",
+"edgeId": "e-b984258a9e",
 "edgeLabel": "After cancellation the younger MOL astronauts transferred to NASA",
 "id": "nasa",
 "l0": true,
@@ -103,6 +111,7 @@
 "dateEnd": "2015",
 "dateStart": "1963",
 "direction": "out",
+"edgeId": "e-a93fbccb81",
 "edgeLabel": "The NRO ran the DORIAN payload inside the Air Force programme",
 "id": "nro",
 "l0": true,
@@ -124,6 +133,7 @@
 "dateEnd": "1969",
 "dateStart": "1963",
 "direction": "out",
+"edgeId": "e-79bbe50f32",
 "edgeLabel": "MOL was the Air Force's public programme",
 "id": "usaf",
 "l0": true,
@@ -184,7 +194,7 @@
 ],
 "sub": "USAF programme with an NRO black mission; announced December 1963, cancelled 10 June 1969, declassified October 2015",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 237 of 1170, score 43). 5 connections, 2 of them custody/funding/programmatic. Axes C1/A3/D2.",
+"tierRationale": "Re-graded B on a global pass (rank 241 of 1138, score 43). 5 connections, 2 of them custody/funding/programmatic. Axes C1/A3/D2.",
 "timeline": [
 {
 "claimTier": null,

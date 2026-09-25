@@ -5,31 +5,37 @@
 "band": null,
 "claims": [
 {
+"id": "c-f67daf7aa9",
 "source": "AFIT/GA/ENY/08-M06, Bradley R. Townsend, March 2008, section 1.1",
 "text": "The thesis defines its own term at section 1.1: 'Satellite based sensors looking down at the Earth's surface occasionally observe reflected light from an object passing through the image which is moving too fast relative to the background of the image to be located within the atmosphere. These objects are commonly called fastwalkers. This term refers to any orbital object seen passing through the field of view of an Earth observing sensor which is suspected of being in orbit.'",
 "tier": 1
 },
 {
+"id": "c-9c81bc6519",
 "source": "AFIT/GA/ENY/08-M06, full-text reading of all 112 pages",
 "text": "The word 'fastwalker' is used 34 times in the thesis. The words UFO and unidentified do not appear anywhere in its 112 pages. In this document the term is ordinary space-surveillance vocabulary.",
 "tier": 1
 },
 {
+"id": "c-654c43ef88",
 "source": "AFIT/GA/ENY/08-M06, section 1.2",
 "text": "Section 1.2 states: 'In his thesis Osedacz [9] states that a database of fastwalker observations exists with data from as far back as 1972. He uses this data from obtained ballistic missile early warning satellites in GEO to attempt to determine the orbit of these fastwalkers. His conclusion was that determining the orbit of other fastwalkers in GEO was impossible. This supported the conclusions of an earlier work conducted by Lem Wong on the inability to determine the orbit of these objects. The research conducted by Wong is no longer available.'",
 "tier": 1
 },
 {
+"id": "c-a89432f61b",
 "source": "AFIT/GA/ENY/08-M06, bibliography",
 "text": "Bibliography entry 9 reads 'OSEDACZ, R. Orbit determination of sunlight illuminated objects detected by overhead platforms (M. S. Thesis). 1989.' -- naming the 1989 predecessor document, which has not been obtained.",
 "tier": 1
 },
 {
+"id": "c-ad4bb88d2b",
 "source": "AFIT/GA/ENY/08-M06, title page and SF 298",
 "text": "The title page reads 'Bradley R. Townsend, Captain, USA', AFIT/GA/ENY/08-M06, Department of the Air Force, Air University, Air Force Institute of Technology, Wright-Patterson Air Force Base, Ohio, 'APPROVED FOR PUBLIC RELEASE; DISTRIBUTION UNLIMITED'. He is a US Army captain at an Air Force school, not USAF. The SF 298 gives the report date 10-03-2008 and the period covered as September 2007 to March 2008.",
 "tier": 1
 },
 {
+"id": "c-5ba69052c8",
 "source": "American Alchemy with Jesse Michels, 'Proof That NASA Censored Moon Photos (and The Astronauts Knew!)', published 20 July 2026, https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL8047881928.mp3 (machine transcript of the podcast audio, checked against the audio timestamps); AFIT/GA/ENY/08-M06, section 1.1 and full text",
 "text": "The popular characterisation the thesis contradicts, stated on the record: on the episode published 20 July 2026, a speaker says at 0:01:34 that NASA has 'a term for UFOs in space. It's fast walkers. It's a code word', and at 1:13:04 that 'US Space Force, Northcom, Space NORAD ... have a term for UFOs in space ... fast walkers ... a code word, and slow walkers too'. In the one public DoD document on this node that defines the term, it means any sunlit object crossing a staring sensor's field of view, and the word UFO does not appear in 112 pages.",
 "tier": 2
@@ -47,6 +53,7 @@
 "dateEnd": "2008",
 "dateStart": "2008",
 "direction": "in",
+"edgeId": "e-3e833b73c5",
 "edgeLabel": "The thesis points at DSP without naming it",
 "id": "defense-support-program",
 "l0": false,
@@ -68,6 +75,7 @@
 "dateEnd": "2008",
 "dateStart": "2008",
 "direction": "out",
+"edgeId": "e-3b2c2d4b07",
 "edgeLabel": "written at the Air Force Institute of Technology, Wright-Patterson AFB",
 "id": "l-wright-patterson",
 "l0": false,
@@ -128,7 +136,7 @@
 ],
 "sub": "Air Force Institute of Technology thesis, March 2008; the public document that defines 'fastwalker'",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 599 of 1170, score 28). 2 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D1.",
+"tierRationale": "Re-graded C on a global pass (rank 593 of 1138, score 28). 2 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D1.",
 "timeline": [
 {
 "claimTier": null,

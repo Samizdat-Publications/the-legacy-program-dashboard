@@ -47,16 +47,19 @@
 ],
 "claims": [
 {
+"id": "c-249b1f4c7e",
 "source": "Wikipedia 'Operação Prato', citing ISTOÉ (22 July 2013) and Folha de S. Paulo (11 January 2009)",
 "text": "'The operation was commanded by Captain Uyrangê Bolivar Soares Nogueira de Hollanda Lima ... After approximately four months, the operation was closed after finding no unusual phenomena. The official documents can be obtained from the Brazilian National Archives (Arquivo Nacional).'",
 "tier": 2
 },
 {
+"id": "c-df12fa8309",
 "source": "Andy Wells, 'Operation Saucer: The Official Search For UFOs That Attacked Brazilians With Light Beams In 1977', Yahoo News",
 "text": "'Three months after giving the interview, Captain Hollanda was found dead in his home after he seemingly hung himself using the belt of his bathrobe.'",
 "tier": 2
 },
 {
+"id": "c-755754e2e6",
 "source": "Fernando Rodrigues, 'SNI investigou óvnis durante a ditadura', Folha de S. Paulo, 11 January 2009, pp. A10-A11",
 "text": "Operação Prato was executed jointly by the Brazilian Air Force and the National Information Service (SNI), the dictatorship's intelligence agency; Folha de S. Paulo reported in January 2009 that 'SNI investigou óvnis durante a ditadura'.",
 "tier": 2
@@ -76,6 +79,7 @@
 "dateEnd": "1997",
 "dateStart": "1977",
 "direction": "in",
+"edgeId": "e-6fce8aa41d",
 "edgeLabel": "Hollanda was a serving FAB officer, not a civilian investigator",
 "id": "fab",
 "l0": true,
@@ -112,6 +116,7 @@
 "dateEnd": "1988-07",
 "dateStart": "1988-07",
 "direction": "out",
+"edgeId": "e-8362517ec9",
 "edgeLabel": "Hollanda showed the operation's photographs and trajectory analyses to Vallee",
 "id": "jacques-vallee",
 "l0": false,
@@ -143,6 +148,7 @@
 "dateEnd": "1978",
 "dateStart": "1977-10-20",
 "direction": "out",
+"edgeId": "e-3b90902a6e",
 "edgeLabel": "commanded the operation",
 "id": "operacao-prato",
 "l0": true,
@@ -164,6 +170,7 @@
 "dateEnd": null,
 "dateStart": "1979-02",
 "direction": "out",
+"edgeId": "e-f281dd672f",
 "edgeLabel": "Hollanda's account to an American reporter is preserved in the Pratt file",
 "id": "the-black-vault",
 "l0": true,
@@ -236,8 +243,8 @@
 ],
 "status": "dead",
 "sub": "Brazilian Air Force captain; commander of Operação Prato, 1977-1978",
-"tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 583 of 1170, score 28). 4 connections, 0 of them custody/funding/programmatic. Axes C2/A2/D2.",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 579 of 1138, score 28). 4 connections, 0 of them custody/funding/programmatic. Axes C2/A2/D2.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": [

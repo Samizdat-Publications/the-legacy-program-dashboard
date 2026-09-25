@@ -5,28 +5,57 @@
 "band": null,
 "claims": [
 {
+"id": "c-f2a0b9e9e5",
 "source": "DIA release FOIA-00349-2018, 13 October 2022",
 "text": "Contract HHM402-08-C-0072, awarded 22 September 2008, firm fixed price, $10,000,000 base, to Bigelow Aerospace Advanced Space Studies LLC, DUNS 827037768, CAGE 54JU7.",
 "tier": 1
 },
 {
+"id": "c-fef1e54ecd",
 "source": "DIA release FOIA-00349-2018",
 "text": "All key government personnel names — contracting officer, COR and Government Project Leader — are redacted in the released contract under 10 USC 424.",
 "tier": 1
 },
 {
+"id": "c-cd9ea952f0",
 "source": "Jack Brewer, The UFO Trail, March 2022",
 "text": "DIA withheld the AAWSAP contract in a 2011 FOIA response, releasing it only in October 2022.",
 "tier": 1
 },
 {
+"id": "c-13af230c78",
 "source": "DIA release Contract_FY10.pdf",
 "text": "A modification of contract exercising the FY10 option period was executed 2 September 2009.",
 "tier": 1
 },
 {
+"id": "c-e7cb2abfc7",
 "source": "Inference from the base value against the AARO-confirmed $22M appropriation",
 "text": "A $10M base with four options against a $22M total appropriation indicates roughly $12M was obligated across the option years, but no obligation-by-year record has been released and the contract does not appear in public USAspending data because DIA procurement is exempt from FPDS reporting under 10 USC 424.",
+"tier": 3
+},
+{
+"id": "c-024d9c7ea4",
+"source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237652/",
+"text": "Contract number HHM402-08-C-0072; contract signed 22 September 2008; awarded off solicitation HHM402-08-R-0211 (posted 18 Aug 2008, responses due 5 Sep 2008). Modification P00001 effective 02 September 2009 exercised/continued the effort.",
+"tier": 1
+},
+{
+"id": "c-d9fe8e3474",
+"source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237613/",
+"text": "DIA's own 16 December 2008 status briefing is headed 'Advanced Aerospace Weapon System Applications Contract Status — Contract HHM402-08-C-0072' and describes the contract focus as 'Advanced (unconventional) aerospace weapon' technologies.",
+"tier": 1
+},
+{
+"id": "c-c5da84a5f0",
+"source": "https://www.fpds.gov/ezsearch/FEEDS/ATOM?FEEDNAME=PUBLIC&q=PIID%3A%22HHM402-08-C-0072%22",
+"text": "The contract does not appear in public federal contract data: an FPDS-NG ATOM query for PIID \"HHM402-08-C-0072\" returns an empty result feed, and USAspending.gov returns 404 for the corresponding generated award IDs.",
+"tier": 1
+},
+{
+"id": "c-6b7d049ee2",
+"source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237652/",
+"text": "Absence from FPDS/USAspending is expected for DIA Virginia Contracting Activity awards (intelligence-community contracting is generally excluded from public reporting), but it means the only public award record for a $22M program is the FOIA-released paper. Dollar-value line items on the modification are illegible/redacted in the released scan.",
 "tier": 3
 }
 ],
@@ -36,10 +65,60 @@
 "connections": [
 {
 "claimTier": 1,
+"cls": "program",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeId": "e-966235789d",
+"edgeLabel": "prime contract",
+"id": "aawsap",
+"l0": true,
+"label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)",
+"note": "",
+"sources": [
+{
+"date": null,
+"name": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237652/",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237652/"
+}
+],
+"tier": "A",
+"type": "funding"
+},
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeId": "e-2d91026357",
+"edgeLabel": "",
+"id": "aawsap",
+"l0": true,
+"label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)",
+"note": "The contract is the instrument the programme ran on. HHM402-08-C-0072 was signed 22 September 2008 off solicitation HHM402-08-R-0211, which DIA had posted as a Combined Synopsis/Solicitation on FedBizOpps on 18 August 2008 with responses due 5 September. Worth carrying: the contract does not appear in public federal contract data - an FPDS-NG ATOM query for that PIID returns an empty feed.",
+"sources": [
+{
+"date": "2009-09-02",
+"name": "Amendment of Solicitation/Modification of Contract P00001 to HHM402-08-C-0072, Bigelow Aerospace Advanced Space Studies LLC (DIA FOIA release)",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237652/"
+},
+{
+"date": "2008-08-18",
+"name": "FedBizOpps notice: ADVANCED AEROSPACE WEAPON SYSTEM APPLICATIONS PROGRAM, Solicitation HHM40208R0211 (DIA FOIA release)",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237630/"
+}
+],
+"tier": "A",
+"type": "programmatic"
+},
+{
+"claimTier": 1,
 "cls": "document",
 "dateEnd": "2008",
 "dateStart": "2008",
 "direction": "in",
+"edgeId": "e-46952ba6c9",
 "edgeLabel": "solicitation HHM402-08-R-0211 led to award HHM402-08-C-0072",
 "id": "aawsap-solicitation",
 "l0": false,
@@ -61,6 +140,7 @@
 "dateEnd": "2013",
 "dateStart": "2008",
 "direction": "out",
+"edgeId": "e-ae6fbc8444",
 "edgeLabel": "$10M base firm-fixed-price award to BAASS",
 "id": "baass",
 "l0": true,
@@ -77,11 +157,66 @@
 "type": "funding"
 },
 {
+"claimTier": 1,
+"cls": "domain",
+"dateEnd": null,
+"dateStart": "2008-09-22",
+"direction": "out",
+"edgeId": "e-ae2e5483cd",
+"edgeLabel": "the instrument itself - competed, awarded, numbered and released",
+"id": "d-contracting",
+"l0": false,
+"label": "Federal Contracting Mechanics",
+"note": "Awarded 22 September 2008 off solicitation HHM402-08-R-0211 through the DIA Virginia Contracting Activity. It is the domain's reference specimen: the object that shows what a contract for this subject looks like when the paper survives, against which every undocumented allegation of a contract can be compared.",
+"sources": [
+{
+"date": "2009-09-02",
+"name": "Amendment of Solicitation/Modification of Contract P00001 to HHM402-08-C-0072, Bigelow Aerospace Advanced Space Studies LLC (DIA FOIA release)",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237652/"
+},
+{
+"date": "2008-08-18",
+"name": "FedBizOpps notice, Solicitation HHM402-08-R-0211, Advanced Aerospace Weapon System Applications Program (DIA FOIA release)",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237630/"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "domain",
+"dateEnd": "2010",
+"dateStart": "2008-09-22",
+"direction": "out",
+"edgeId": "e-b88c5faf1b",
+"edgeLabel": "the one instrument on the board where the appropriation-to-contract path is fully documented",
+"id": "d-funding",
+"l0": false,
+"label": "Funding Channels",
+"note": "The AAWSAP prime contract, awarded 22 September 2008 to BAASS off solicitation HHM402-08-R-0211 through the DIA Virginia Contracting Activity, and released through DIA FOIA together with modification P00001. It is the concrete artefact that turns 'money moved through a classified channel' into a document with a number on it, which is what this domain exists to collect.",
+"sources": [
+{
+"date": "2009-09-02",
+"name": "Amendment of Solicitation/Modification of Contract P00001 to HHM402-08-C-0072, Bigelow Aerospace Advanced Space Studies LLC (DIA FOIA release)",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237652/"
+},
+{
+"date": "2008-08-18",
+"name": "FedBizOpps notice, Solicitation HHM402-08-R-0211, Advanced Aerospace Weapon System Applications Program (DIA FOIA release)",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237630/"
+}
+],
+"tier": "A",
+"type": "funding"
+},
+{
 "claimTier": 2,
 "cls": "institution",
 "dateEnd": "2022",
 "dateStart": "2011",
 "direction": "in",
+"edgeId": "e-e508b3d69c",
 "edgeLabel": "withheld the contract for eleven years",
 "id": "dia",
 "l0": true,
@@ -103,6 +238,7 @@
 "dateEnd": "2022",
 "dateStart": "2017",
 "direction": "in",
+"edgeId": "e-776b5a7789",
 "edgeLabel": "published the contract documentation",
 "id": "george-knapp",
 "l0": false,
@@ -122,7 +258,7 @@
 "coords": null,
 "dateEnd": "2013",
 "dateStart": "2008",
-"deg": 4,
+"deg": 7,
 "denials": [
 {
 "a": {
@@ -139,6 +275,7 @@
 },
 "claimTier": 2,
 "denialKind": "directed",
+"edgeId": "e-e508b3d69c",
 "label": "withheld the contract for eleven years",
 "note": "DIA withheld the BAASS award entirely in a 2011 FOIA response and released it only in October 2022 — a contract that had been competed on a public bid board.",
 "of": {
@@ -172,6 +309,8 @@
 "openQuestions": [],
 "short": "DIA Contract HHM402-08-C-0072 (BAASS)",
 "sourceFiles": [
+"_rs-aawsap-dirds",
+"_rs-archive-mirror",
 "aawsap-aatip"
 ],
 "sources": [
@@ -194,11 +333,56 @@
 "date": "2022-03-01",
 "name": "The UFO Trail — DIA Further Verifies AAWSAP Award to BAASS",
 "url": "https://ufotrail.blogspot.com/2022/03/dia-further-verifies-aawsap-award-to.html"
+},
+{
+"date": "2009-09-02",
+"name": "Amendment of Solicitation/Modification of Contract P00001 to HHM402-08-C-0072, Bigelow Aerospace Advanced Space Studies LLC (DIA FOIA release)",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237652/"
+},
+{
+"date": "2008-08-18",
+"name": "FedBizOpps notice: ADVANCED AEROSPACE WEAPON SYSTEM APPLICATIONS PROGRAM, Solicitation HHM40208R0211 (DIA FOIA release)",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237630/"
+},
+{
+"date": "2008-12-16",
+"name": "DIA briefing 'Advanced Aerospace Weapon System Applications Contract Status', Contract HHM402-08-C-0072, 16 Dec 2008 (DIA FOIA release)",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237613/"
+},
+{
+"date": "2009-01-02",
+"name": "DIA Talking Paper U-326-09, 'Senator Reid Visit', 02 Jan 2009 (DIA FOIA release)",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237615/"
+},
+{
+"date": "2025-05-15",
+"name": "Archived: Amendment of Solicitation/Modification of Contract P00001 to HHM402-08-C-0072, Bigelow Aerospace Advanced Space Studies LLC (DIA FOIA release) (Wayback 2025-05-15)",
+"url": "https://web.archive.org/web/20250515030045/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170017/"
+},
+{
+"date": "2026-05-09",
+"name": "Archived: FedBizOpps notice: ADVANCED AEROSPACE WEAPON SYSTEM APPLICATIONS PROGRAM, Solicitation HHM40208R0211 (DIA FOIA release) (Wayback 2026-05-09)",
+"url": "https://web.archive.org/web/20260509235856/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170057/"
+},
+{
+"date": "2025-03-12",
+"name": "Archived: DIA briefing 'Advanced Aerospace Weapon System Applications Contract Status', Contract HHM402-08-C-0072, 16 Dec 2008 (DIA FOIA release) (Wayback 2025-03-12)",
+"url": "https://web.archive.org/web/20250312054405/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170051/"
+},
+{
+"date": "2025-03-09",
+"name": "Archived: DIA Talking Paper U-326-09, 'Senator Reid Visit', 02 Jan 2009 (DIA FOIA release) (Wayback 2025-03-09)",
+"url": "https://web.archive.org/web/20250309023844/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170054/"
+},
+{
+"date": null,
+"name": "fpds.gov",
+"url": "https://www.fpds.gov/ezsearch/FEEDS/ATOM?FEEDNAME=PUBLIC&q=PIID%3A%22HHM402-08-C-0072%22"
 }
 ],
 "sub": "Firm-fixed-price award, 22 September 2008",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 159 of 1170, score 51). 4 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A2/D3.",
+"tierRationale": "Re-graded A on a global pass (rank 66 of 1138, score 74). 8 connections, 5 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A2/D3.",
 "timeline": [
 {
 "claimTier": null,

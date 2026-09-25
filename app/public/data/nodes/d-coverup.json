@@ -5,21 +5,25 @@
 "band": null,
 "claims": [
 {
+"id": "c-6a4f4a60ba",
 "source": "Robertson Panel report, declassified text, CUFON",
 "text": "The Robertson Panel report (17 January 1953) recommends stripping UFOs of their 'special status' through mass-media debunking and recommends that civilian UFO groups be 'watched because of their potentially great influence on mass thinking'.",
 "tier": 1
 },
 {
+"id": "c-fd2bc6b6d5",
 "source": "Haines, 'CIA's Role in the Study of UFOs, 1947-1990', Studies in Intelligence",
 "text": "CIA historian Gerald K. Haines, in Studies in Intelligence (1997), states that over half of all UFO reports in the late 1950s and 1960s were accounted for by U-2 and OXCART flights and that Air Force investigators knowingly provided false explanations to the public.",
 "tier": 1
 },
 {
+"id": "c-2864aade41",
 "source": "GAO/NSIAD-95-187, Government Records: Results of a Search for Records Concerning the 1947 Crash Near Roswell, New Mexico",
 "text": "GAO (NSIAD-95-187, 28 July 1995) reported that Roswell Army Air Field outgoing messages for 1946-1949 were destroyed without a disposition authority or destruction certificate.",
 "tier": 1
 },
 {
+"id": "c-1e3fdc3b1e",
 "source": "Inference from the Robertson Panel report, the Haines article and GAO/NSIAD-95-187",
 "text": "A concealment effort sustained across eight decades and multiple agencies requires standing institutional machinery - security classification guides, cover-story doctrine, and personnel whose job is the maintenance of the cover - rather than repeated ad hoc decisions. Reasoning: the documented 1953 recommendation, the documented 1950s-60s false-explanation practice and the documented 1990s record gaps span three distinct institutional generations with no continuity of individual actors.",
 "tier": 3
@@ -35,6 +39,7 @@
 "dateEnd": "1990-12-31",
 "dateStart": "1955-01-01",
 "direction": "in",
+"edgeId": "e-4a9ea0a978",
 "edgeLabel": "Black aircraft generated real cover stories",
 "id": "d-aerospace",
 "l0": false,
@@ -56,6 +61,7 @@
 "dateEnd": null,
 "dateStart": "1947-01-01",
 "direction": "out",
+"edgeId": "e-00b8f13277",
 "edgeLabel": "Denial is the public face of concealment",
 "id": "d-denial",
 "l0": false,
@@ -77,6 +83,7 @@
 "dateEnd": null,
 "dateStart": "1953-01-17",
 "direction": "in",
+"edgeId": "e-8853149ed8",
 "edgeLabel": "CIA convened the panel that recommended debunking",
 "id": "d-ic",
 "l0": false,
@@ -98,6 +105,7 @@
 "dateEnd": null,
 "dateStart": "1953-01-17",
 "direction": "out",
+"edgeId": "e-f84fed5a8b",
 "edgeLabel": "Debunking recommended as a security measure",
 "id": "d-psyop",
 "l0": false,
@@ -119,6 +127,7 @@
 "dateEnd": null,
 "dateStart": "1947-01-01",
 "direction": "out",
+"edgeId": "e-001786d34d",
 "edgeLabel": "Record destruction as concealment",
 "id": "d-records",
 "l0": false,
@@ -140,6 +149,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-1274b87df2",
 "edgeLabel": "Held TOP SECRET SPECIAL HANDLING NOFORN for thirty-five years",
 "id": "operation-northwoods",
 "l0": true,
@@ -173,6 +183,7 @@
 "by": null,
 "claimTier": 1,
 "denialKind": "association",
+"edgeId": "e-4a9ea0a978",
 "label": "Black aircraft generated real cover stories",
 "note": "CIA's own historian states that U-2 and OXCART flights accounted for over half of late-1950s and 1960s reports and that false explanations were issued to protect them.",
 "of": null,
@@ -196,6 +207,7 @@
 "by": null,
 "claimTier": 1,
 "denialKind": "association",
+"edgeId": "e-00b8f13277",
 "label": "Denial is the public face of concealment",
 "note": "CIA's own historian records that false explanations were issued knowingly to protect classified overflights; the denial is the output of the concealment activity.",
 "of": null,
@@ -258,7 +270,7 @@
 ],
 "sub": "Operational domain - concealment run as a funded programme, not a passive silence",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 153 of 1170, score 52). 6 connections, 3 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C2/A3/D1.",
+"tierRationale": "Re-graded A on a global pass (rank 156 of 1138, score 52). 6 connections, 3 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C2/A3/D1.",
 "timeline": [
 {
 "claimTier": 1,

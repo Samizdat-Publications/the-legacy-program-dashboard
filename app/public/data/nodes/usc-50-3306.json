@@ -5,21 +5,25 @@
 "band": null,
 "claims": [
 {
+"id": "c-c5f0e7f758",
 "source": "https://www.law.cornell.edu/uscode/text/50/3306",
 "text": "50 U.S.C. 3306(a) requires public disclosure of the aggregate NIP appropriations request at the time the President submits the budget.",
 "tier": 1
 },
 {
+"id": "c-afe65bf40d",
 "source": "https://www.law.cornell.edu/uscode/text/50/3306",
 "text": "50 U.S.C. 3306(b) requires the DNI to disclose the aggregate NIP appropriated amount within 30 days of the end of each fiscal year.",
 "tier": 1
 },
 {
+"id": "c-6543af6d04",
 "source": "https://www.law.cornell.edu/uscode/text/50/3306",
 "text": "50 U.S.C. 3306(c) permits the President to waive or postpone either disclosure on submitting an unclassified damage statement and a reasons statement that may be classified.",
 "tier": 1
 },
 {
+"id": "c-bdc3596339",
 "source": "https://www.govinfo.gov/content/pkg/PLAW-119publ60/html/PLAW-119publ60.htm",
 "text": "Section 6102(b)(3)(A) of the FY2026 IAA identifies 50 U.S.C. 3306(a) as the sole affirmative exception to the bar on the President publicly disclosing any portion of the classified Schedule of Authorizations.",
 "tier": 1
@@ -35,6 +39,7 @@
 "dateEnd": null,
 "dateStart": "2025-12-18",
 "direction": "in",
+"edgeId": "e-2478d39226",
 "edgeLabel": "Section 3306(a) is the sole affirmative exception to the bar on disclosing the Schedule",
 "id": "classified-schedule-authorizations",
 "l0": false,
@@ -56,6 +61,7 @@
 "dateEnd": null,
 "dateStart": "2007-08-03",
 "direction": "out",
+"edgeId": "e-2517b6f864",
 "edgeLabel": "The statute that produced the second segment of the disclosure record",
 "id": "intel-budget-disclosure-record",
 "l0": false,
@@ -116,7 +122,7 @@
 ],
 "sub": "The entire statutory transparency regime for the intelligence budget: two numbers a year, waivable",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 759 of 1170, score 23). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 744 of 1138, score 23). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.",
 "timeline": [
 {
 "claimTier": null,

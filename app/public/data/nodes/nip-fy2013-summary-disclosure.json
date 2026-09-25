@@ -5,21 +5,25 @@
 "band": null,
 "claims": [
 {
+"id": "c-1823f93ae9",
 "source": "https://irp.fas.org/budget/index.html",
 "text": "The FAS Intelligence Resource Program hosts 'National Intelligence Program Summary for FY2013 (excerpts) (TS/SI/TK/NOFORN)', released via the Washington Post.",
 "tier": 1
 },
 {
+"id": "c-0af698a069",
 "source": "https://irp.fas.org/budget/index.html",
 "text": "The officially disclosed FY2013 NIP figure was $52.7 billion requested, reduced to $49.0 billion by sequestration.",
 "tier": 1
 },
 {
+"id": "c-eb3d06a9f3",
 "source": "https://irp.fas.org/budget/index.html",
 "text": "FAS also indexes redacted Congressional Budget Justifications obtained by FOIA for ODNI (FY2008-FY2014), NRO (FY2006-FY2014), NGA (FY2009-FY2016) and the Military Intelligence Program (FY2007-FY2010, FY2016).",
 "tier": 1
 },
 {
+"id": "c-ea2cc29036",
 "source": "https://irp.fas.org/budget/index.html",
 "text": "The 2013 excerpts remain the only public view of the interior of the intelligence budget; every other public figure is an aggregate. Reasoning: no subsequent leak or FOIA release has produced a comparable programme-level NIP summary, and the statutory disclosure regime at 50 U.S.C. 3306 requires only aggregates.",
 "tier": 3
@@ -35,6 +39,7 @@
 "dateEnd": null,
 "dateStart": "2013-08-29",
 "direction": "out",
+"edgeId": "e-8dcc79bc9c",
 "edgeLabel": "What the Schedule of Authorizations looks like from the inside",
 "id": "classified-schedule-authorizations",
 "l0": false,
@@ -56,6 +61,7 @@
 "dateEnd": null,
 "dateStart": "2013-08-29",
 "direction": "out",
+"edgeId": "e-19b9f88d5b",
 "edgeLabel": "FAS hosts the excerpts and the redacted FOIA budget justifications",
 "id": "fas",
 "l0": false,
@@ -77,6 +83,7 @@
 "dateEnd": null,
 "dateStart": "2013-08-29",
 "direction": "out",
+"edgeId": "e-1914d2363b",
 "edgeLabel": "The only public view of the interior of the National Intelligence Program",
 "id": "nip",
 "l0": false,
@@ -132,7 +139,7 @@
 ],
 "sub": "Classified TS/SI/TK/NOFORN budget justification excerpts released via the Washington Post in 2013",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 421 of 1170, score 34). 3 connections, 2 of them custody/funding/programmatic. Axes C0/A3/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 421 of 1138, score 34). 3 connections, 2 of them custody/funding/programmatic. Axes C0/A3/D3.",
 "timeline": [
 {
 "claimTier": null,

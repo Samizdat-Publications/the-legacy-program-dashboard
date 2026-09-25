@@ -5,8 +5,21 @@
 "band": null,
 "claims": [
 {
+"id": "c-b68da772df",
 "source": "The War Zone, 30 October 2024",
 "text": "The NORAD commander publicly addressed the December 2023 unidentified incursions over Langley AFB in October 2024.",
+"tier": 2
+},
+{
+"id": "c-1a9b0a82bb",
+"source": "US Air Force / Langley AFB statement to The War Zone, 15 March 2024",
+"text": "'The installation first observed UAS activities the evening of December 6 [2023] and experienced multiple incursions throughout the month of December.'",
+"tier": 1
+},
+{
+"id": "c-80b8f4ec61",
+"source": "The War Zone, 9 October 2024",
+"text": "Protective netting to shield F-22s was under consideration by October 2024.",
 "tier": 2
 }
 ],
@@ -20,6 +33,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-b2e9a34b93",
 "edgeLabel": "DoD installation; NORAD/USNORTHCOM response",
 "id": "dod",
 "l0": true,
@@ -46,9 +60,10 @@
 "dateEnd": null,
 "dateStart": "2023-12-06",
 "direction": "out",
+"edgeId": "e-183aba30de",
 "edgeLabel": "site of the December 2023 incursions",
 "id": "langley-2023-incursions",
-"l0": true,
+"l0": false,
 "label": "Langley AFB Drone Incursions (December 2023)",
 "note": "Joint Base Langley-Eustis first observed unidentified uncrewed aerial systems over the installation on the evening of 6 December 2023, with multiple further incursions through the month. The episode is the location's whole reason for being on this board.",
 "sources": [
@@ -65,6 +80,28 @@
 ],
 "tier": "B",
 "type": "geographic"
+},
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": "2023",
+"dateStart": "2023",
+"direction": "in",
+"edgeId": "e-ea81b5b055",
+"edgeLabel": "Site of the December 2023 incursions",
+"id": "langley-2023-incursions",
+"l0": false,
+"label": "Langley AFB Drone Incursions (December 2023)",
+"note": "The Air Force confirmed activity beginning the evening of 6 December 2023 and continuing through the month, prompting F-16 CAPs, NASA WB-57F orbits and FBI coordination.",
+"sources": [
+{
+"date": "2024-03-15",
+"name": "The War Zone - mysterious drones swarmed Langley AFB for weeks",
+"url": "https://www.twz.com/air/mysterious-drones-swarmed-langley-afb-for-weeks"
+}
+],
+"tier": "B",
+"type": "institutional"
 }
 ],
 "coords": null,
@@ -91,6 +128,7 @@
 "short": "Langley Air Force Base / Joint Base Langley-Eustis, Virginia",
 "sourceFiles": [
 "_rs-archive-mirror",
+"aviators-incidents",
 "w2-taxonomy"
 ],
 "sources": [
@@ -113,11 +151,21 @@
 "date": "2026-08-12",
 "name": "NORAD Newsroom",
 "url": "https://www.norad.mil/Newsroom/Press-Releases/"
+},
+{
+"date": "2024-03-15",
+"name": "The War Zone - mysterious drones swarmed Langley AFB for weeks",
+"url": "https://www.twz.com/air/mysterious-drones-swarmed-langley-afb-for-weeks"
+},
+{
+"date": "2024-10-09",
+"name": "The War Zone - protective nets eyed for F-22s",
+"url": "https://www.twz.com/air/protective-nets-to-shield-f-22s-eyed-for-airbase-swarmed-by-mystery-drones"
 }
 ],
 "sub": "Air Force installation, Hampton, Virginia; F-22 base and site of the 2023 incursions",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 913 of 1170, score 18). 2 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 707 of 1138, score 24). 3 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D2.",
 "timeline": [],
 "unverified": []
 }

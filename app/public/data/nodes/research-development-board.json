@@ -5,21 +5,25 @@
 "band": null,
 "claims": [
 {
+"id": "c-08eb1e4096",
 "source": "Guide to Federal Records in the National Archives of the United States, Record Group 330, section 330.11",
 "text": "The Research and Development Board was 'Established as the Research and Development Board by the National Security Act of 1947 (61 Stat. 495), July 26, 1947. Abolished by Reorganization Plan No. 6 of 1953, effective June 30, 1953, and superseded by Office of the Assistant Secretary of Defense (Research and Development).'",
 "tier": 1
 },
 {
+"id": "c-71af001021",
 "source": "Guide to Federal Records in the National Archives, Record Group 330, section 330.11",
 "text": "Its successor office was 'Redesignated Office of the Director of Defense Research and Engineering by DOD Reorganization Act of 1958 (72 Stat. 514), August 6, 1958.'",
 "tier": 1
 },
 {
+"id": "c-f9d241c165",
 "source": "Guide to Federal Records in the National Archives, Record Group 330, section 330.11.3",
 "text": "NARA's finding aid lists surviving textual records of the Board at section 330.11.3, including 'Minutes of meetings of the Executive Council, 1946-50' and 'Records of the Committee on Technical Information, 1946-53'.",
 "tier": 1
 },
 {
+"id": "c-8376727a91",
 "source": "Letter to Dr. Vannevar Bush Upon His Appointment as Chairman, Research and Development Board, 25 September 1947, Public Papers of the Presidents",
 "text": "Truman's letter to Vannevar Bush of 25 September 1947 records both the appointment and the predecessor body: 'I am happy to know that you are willing to continue in the public service as Chairman of the Research and Development Board created by the National Security Act of 1947 ... Since V-J Day you have continued to render valuable service as chairman of the Joint Research and Development Board set up by the Secretaries of War and Navy.' The commonly cited 1941 founding date is wrong by six years.",
 "tier": 1
@@ -35,6 +39,7 @@
 "dateEnd": null,
 "dateStart": "1953",
 "direction": "out",
+"edgeId": "e-ba24605110",
 "edgeLabel": "surviving records held in Record Group 330",
 "id": "national-archives",
 "l0": false,
@@ -90,7 +95,7 @@
 ],
 "sub": "Statutory coordinating body for defence research, 26 July 1947 to 30 June 1953",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 469 of 1170, score 32). 1 connections, 1 of them custody/funding/programmatic. Axes C2/A2/D1.",
+"tierRationale": "Re-graded B on a global pass (rank 467 of 1138, score 32). 1 connections, 1 of them custody/funding/programmatic. Axes C2/A2/D1.",
 "timeline": [
 {
 "claimTier": null,

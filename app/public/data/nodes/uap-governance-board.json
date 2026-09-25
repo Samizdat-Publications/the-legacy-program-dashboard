@@ -5,11 +5,13 @@
 "band": null,
 "claims": [
 {
+"id": "c-e09399cc0a",
 "source": "https://defensescoop.com/2026/06/17/new-science-advisory-council-forms-to-help-us-government-resolve-the-uap-mystery/",
 "text": "The UAP Science Advisory Council reports to the UAP Governance Board, whose mission includes optimising interagency processes to ensure more effective support to AARO.",
 "tier": 2
 },
 {
+"id": "c-4db3a91118",
 "source": "https://defensescoop.com/2026/06/17/new-science-advisory-council-forms-to-help-us-government-resolve-the-uap-mystery/",
 "text": "No charter, membership roster or meeting record for the UAP Governance Board is public as of 12 August 2026. Reasoning: it is named only in derivative reporting about the Science Advisory Council and appears on no AARO or war.gov page.",
 "tier": 3
@@ -25,6 +27,7 @@
 "dateEnd": null,
 "dateStart": "2026-06-17",
 "direction": "in",
+"edgeId": "e-71ae56d603",
 "edgeLabel": "reports to",
 "id": "uap-science-advisory-council",
 "l0": true,
@@ -80,7 +83,7 @@
 ],
 "sub": "Interagency board above AARO; receives the Science Advisory Council",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 989 of 1170, score 16). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D1.",
+"tierRationale": "Re-graded C on a global pass (rank 960 of 1138, score 16). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D1.",
 "timeline": [],
 "unverified": []
 }

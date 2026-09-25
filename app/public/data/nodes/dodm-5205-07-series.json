@@ -5,71 +5,85 @@
 "band": null,
 "claims": [
 {
+"id": "c-a1efad4b48",
 "source": "https://web.archive.org/web/20191018064106/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol1.pdf",
 "text": "Volume 1: 'MANUAL NUMBER 5205.07, Volume 1, June 18, 2015, Incorporating Change 1, Effective February 12, 2018, USD(I). SUBJECT: DoD Special Access Program (SAP) Security Manual: General Procedures.' A later Change 2 is effective 30 September 2020 under USD(I&S). Vol 1 'Incorporates and cancels Revision 1 Department of Defense Overprint to the National Industrial Security Program (NISP) Operating Manual Supplement.'",
 "tier": 1
 },
 {
+"id": "c-ab95172788",
 "source": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507-V4p.PDF",
 "text": "Volume 2: 'MANUAL NUMBER 5205.07, Volume 2, November 24, 2015, Incorporating Change 2, Effective October 30, 2020, USD(I&S). SUBJECT: Special Access Program (SAP) Security Manual: Personnel Security.' Volume 3: 'MANUAL NUMBER 5205.07, Volume 3, April 23, 2015, Incorporating Change 2, Effective February 12, 2018. SUBJECT: DoD Special Access Program (SAP) Security Manual: Physical Security.' Volume 4: 'MANUAL NUMBER 5205.07, Volume 4, October 10, 2013, Incorporating Change 2, Effective September 8, 2020, USD(I&S). SUBJECT: Special Access Program (SAP) Security Manual: Marking.'",
 "tier": 1
 },
 {
+"id": "c-0c0175893c",
 "source": "https://web.archive.org/web/20191018064106/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol1.pdf",
 "text": "THE CARVE-OUT'S OPERATIONAL CONTENT. DoDM 5205.07 Vol 1, Enclosure 2, para 2 (Director, DSS): 'Unless a carve-out provision is approved by the Secretary of Defense or the Deputy Secretary of Defense: (1) Performs SAP security inspections at cleared defense contractor locations in accordance with this volume, Reference (f), and the government contracting activity's completed DD Form 254 ... (2) Authorizes classified contractor SAP information systems (ISs) and the introduction of guest systems in contractor SAP facilities (SAPFs). (3) Coordinates with the designated counterintelligence (CI) component to provide cross-sharing of threat and incident information affecting the security of the facility or its defense information or cleared personnel.' A carve-out removes all three functions at once: physical inspection, IT accreditation, and CI information sharing.",
 "tier": 1
 },
 {
+"id": "c-599d697d59",
 "source": "https://web.archive.org/web/20191018064106/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol1.pdf",
 "text": "DoDM 5205.07 Vol 1 glossary: 'carve-out. A provision approved by the Secretary or Deputy Secretary of Defense that relieves DSS of its NISP obligation to perform industrial security oversight functions for a DoD SAP.'",
 "tier": 1
 },
 {
+"id": "c-076248f4b8",
 "source": "https://web.archive.org/web/20191018064106/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol1.pdf",
 "text": "Vol 1 states that inspections 'will be coordinated among the SAPCOs and DSS when not carved out and conducted jointly to the greatest extent possible' -- confirming that when a SAP IS carved out, the only remaining inspection is the program's own self-inspection plus SAPCO-internal compliance inspection.",
 "tier": 1
 },
 {
+"id": "c-7291bcb527",
 "source": "https://web.archive.org/web/20191018064106/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol1.pdf",
 "text": "WHISTLEBLOWING IS ROUTED BACK INSIDE. Vol 1, Enclosure 4, para 3: 'Government and industry FWAC SAP reporting involving SAP information will be accomplished through SAP channels. Collateral FWAC reporting channels must not be used for SAP information. b. The PSO will provide the telephone number for the current FWAC hotline for reporting SAP information. FWAC reporting information will be conspicuously posted in the SAP workspace. c. Employees do not need management approval before making reports.' Fraud, waste, abuse and corruption inside a SAP may not be reported through the ordinary DoD IG hotline; it must go through a SAP-channel hotline whose number is issued by the program's own security officer.",
 "tier": 1
 },
 {
+"id": "c-d56d08517a",
 "source": "https://web.archive.org/web/20191018064106/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol1.pdf",
 "text": "Vol 1, Enclosure 4, para 4: 'The CUA documents areas of authorities and responsibilities between cognizant security offices (CSOs) when they share the same SAPF. ... The first CSO in an area, unless otherwise agreed upon, will be considered the host CSO responsible for all security oversight.' And, critically: 'For CUAs, the responsible organization will be identified for executing security cognizance with a carved-out SAP.' Multiple SAPs -- including carved-out ones -- can lawfully co-occupy one accredited facility under a written host/tenant agreement.",
 "tier": 1
 },
 {
+"id": "c-10c2e45e5c",
 "source": "https://web.archive.org/web/20191018064106/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol1.pdf",
 "text": "Vol 1, Enclosure 4, para 7: 'PATENTS AND INTELLECTUAL PROPERTY. The CA SAPCO will develop procedures for processing patents and intellectual property involving SAP(s).' There is an explicit, standing policy channel for patents arising inside special access programs, delegated to each cognizant-authority SAP central office.",
 "tier": 1
 },
 {
+"id": "c-9fc8f1925b",
 "source": "https://web.archive.org/web/20191018064106/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol1.pdf",
 "text": "Vol 1, Enclosure 4, para 8 (Arms Control and Treaties): 'DoD SAPs will be protected against unnecessary or inadvertent exposure during USG participation in authorized verification activities, confidence-building measures, and overflights.' Para 9 (Litigation and Public Proceedings): 'Threatened or actual litigation, administrative investigations or inquiries, or public proceedings at the international, federal, State, tribal, or local levels that may involve a SAP will be reported to CA SAPCO.'",
 "tier": 1
 },
 {
+"id": "c-02333c5cba",
 "source": "https://web.archive.org/web/20191018064106/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol1.pdf",
 "text": "Vol 1 physical-security/visitor rules acknowledge the existence of undisclosed sites in operative text: 'Federal Government-affiliated identification cards will not be used for positive identification in unacknowledged locations.'",
 "tier": 1
 },
 {
+"id": "c-5edc2fdac4",
 "source": "https://web.archive.org/web/20250305140253/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol2.pdf",
 "text": "DoDM 5205.07 Vol 2, para 5 (Polygraphs): 'The Deputy Secretary of Defense is the approval authority for the use of polygraph examination as a mandatory access determination requirement; the requirement must be consistently applied to all candidates in accordance with DoDI 5210.91. CI-Scope polygraph examination must not be used as the only basis for granting access to DoD SAPs. Exceptions to these requirements will only be granted by the Deputy Secretary of Defense. ... CI polygraph examinations are considered current when administered within the past 5 years.' Para 6 provides that 'CA SAPCOs may establish or authorize SAP billet structures or access quotas that assign individual access by organization and duty position to SAPs under their cognizance.'",
 "tier": 1
 },
 {
+"id": "c-c06e3cfc6a",
 "source": "DoDM 5205.07 Volume 1, para 1.a(2)",
 "text": "DoDM 5205.07 Volume 1 states that it 'Incorporates and cancels Revision 1 Department of Defense Overprint to the National Industrial Security Program (NISP) Operating Manual Supplement.'",
 "tier": 1
 },
 {
+"id": "c-28716c7f5b",
 "source": "DoDM 5205.07 Volume 1, para 2",
 "text": "DoDM 5205.07 Volume 1 applies to all DoD Components, to 'All DoD Component contractors and consultants who require access to DoD SAPs pursuant to the terms and conditions of the contract or agreement', and to non-DoD USG entities requiring access under an MOA.",
 "tier": 1
 },
 {
+"id": "c-21c10aca0b",
 "source": "Direct retrieval attempts, 12 August 2026",
 "text": "As of 12 August 2026 the published esd.whs.mil URLs for DoDM 5205.07 Volumes 1 through 4 do not return the documents to ordinary public retrieval; Volume 1 was obtainable only from an Internet Archive capture dated 18 October 2019.",
 "tier": 2
@@ -85,6 +99,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-d027b6cf6f",
 "edgeLabel": "defines and operates the carve-out",
 "id": "carve-out",
 "l0": true,
@@ -111,6 +126,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-b88105dae1",
 "edgeLabel": "relieves it of oversight",
 "id": "dcsa-nisp",
 "l0": false,
@@ -137,6 +153,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-45d3c17efb",
 "edgeLabel": "assigns it the patent and inspection roles",
 "id": "dod-sapco",
 "l0": true,
@@ -163,6 +180,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-9209e3bbed",
 "edgeLabel": "manual implements policy established in DoDD 5205.07",
 "id": "dodd-5205-07-2010",
 "l0": false,
@@ -184,6 +202,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-6ba903bc02",
 "edgeLabel": "",
 "id": "dodd-5205-07-2010",
 "l0": false,
@@ -210,6 +229,7 @@
 "dateEnd": null,
 "dateStart": "2015-06-18",
 "direction": "out",
+"edgeId": "e-9639bb02ab",
 "edgeLabel": "Volume 1 is the general procedures volume of the four-volume manual",
 "id": "dodm-5205-07-v1",
 "l0": false,
@@ -287,7 +307,7 @@
 ],
 "sub": "dod-issuance",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 64 of 1170, score 74). 6 connections, 4 of them custody/funding/programmatic. Axes C1/A3/D1.",
+"tierRationale": "Re-graded A on a global pass (rank 64 of 1138, score 74). 6 connections, 4 of them custody/funding/programmatic. Axes C1/A3/D1.",
 "timeline": [],
 "unverified": []
 }

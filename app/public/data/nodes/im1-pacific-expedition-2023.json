@@ -5,26 +5,31 @@
 "band": null,
 "claims": [
 {
+"id": "c-8c5c34b04d",
 "source": "RNAAS DOI 10.3847/2515-5172/ad2370; Chemical Geology DOI 10.1016/j.chemgeo.2024.122415",
 "text": "Loeb et al. published 'Recovery and Classification of Spherules from the Pacific Ocean Site of the CNEOS 2014 January 8 (IM1) Bolide' in Research Notes of the AAS on 31 January 2024, and a chemical classification in Chemical Geology in December 2024.",
 "tier": 1
 },
 {
+"id": "c-4be2b23799",
 "source": "Chemical Geology, DOI 10.1016/j.chemgeo.2025.122628",
 "text": "Rudraswami, Singh and Pandey published a re-evaluation of the spherules' proposed origin in Chemical Geology in March 2025.",
 "tier": 1
 },
 {
+"id": "c-bc233a0cd8",
 "source": "Chemical Geology, DOI 10.1016/j.chemgeo.2025.122627",
 "text": "Hyung, Cherston, Jacobsen and Loeb published an investigation of the relationship between morphology and chemistry of the D-type spherules in Chemical Geology in March 2025.",
 "tier": 1
 },
 {
+"id": "c-60887b5651",
 "source": "Geophysical Journal International, March 2024; Research Notes of the AAS, October 2023",
 "text": "Fernando et al. showed in Geophysical Journal International (March 2024) that the seismic signal used to localise the search was consistent with truck traffic rather than an impact; Gallardo argued in Research Notes of the AAS (October 2023) for anthropogenic coal-ash contamination.",
 "tier": 2
 },
 {
+"id": "c-7bc07a23ce",
 "source": "Published record of the Galileo Project expedition",
 "text": "The expedition was announced as fully funded in September 2022 with a budget of approximately $1.6 million.",
 "tier": 2
@@ -40,6 +45,7 @@
 "dateEnd": "2023",
 "dateStart": "2022",
 "direction": "in",
+"edgeId": "e-7ac83562eb",
 "edgeLabel": "Siraj's interstellar-velocity and seismic localisation determined the search site",
 "id": "amir-siraj",
 "l0": false,
@@ -61,6 +67,7 @@
 "dateEnd": "2025",
 "dateStart": "2023",
 "direction": "out",
+"edgeId": "e-f9175cdfd1",
 "edgeLabel": "The control case: what a public physical-recovery attempt looks like, failures included",
 "id": "d-materials",
 "l0": false,
@@ -92,6 +99,7 @@
 "dateEnd": "2023",
 "dateStart": "2022",
 "direction": "in",
+"edgeId": "e-dd98c2aaa8",
 "edgeLabel": "Ran the $1.6m Pacific recovery expedition",
 "id": "galileo-project",
 "l0": true,
@@ -172,7 +180,7 @@
 ],
 "sub": "$1.6m magnetic-sled recovery of sub-millimetre spherules off Papua New Guinea",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 508 of 1170, score 31). 3 connections, 1 of them custody/funding/programmatic. Axes C2/A0/D2.",
+"tierRationale": "Re-graded B on a global pass (rank 505 of 1138, score 31). 3 connections, 1 of them custody/funding/programmatic. Axes C2/A0/D2.",
 "timeline": [
 {
 "claimTier": null,

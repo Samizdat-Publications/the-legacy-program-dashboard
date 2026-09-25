@@ -5,21 +5,25 @@
 "band": null,
 "claims": [
 {
+"id": "c-41802a082d",
 "source": "Los Alamos National Laboratory, 18 November 2024",
 "text": "The 16 February 1949 green fireballs conference was held at Los Alamos Scientific Laboratory and its minutes are held by the National Security Research Center.",
 "tier": 1
 },
 {
+"id": "c-7d82067f86",
 "source": "Los Alamos Monitor, 27 June 1982, A1 and A8, https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/bobs-jetcar-article/ , opened 2026-09-18",
 "text": "The Los Alamos Monitor of Sunday 27 June 1982 carried a front-page story by staff writer Terry England, 'LA Man Joins The Jet Set - At 200 Miles An Hour', pages A1 and A8, about a jet-powered Honda built by Bob Lazar, describing him in the paper's own voice as 'a physicist at the Los Alamos Meson Physics Facility'. This is the earliest dated artefact in the Lazar cluster and it predates the UFO claim by seven years.",
 "tier": 1
 },
 {
+"id": "c-2332455d50",
 "source": "Los Alamos National Laboratory historical account",
 "text": "A conference on the green fireballs was convened at Los Alamos on 16 February 1949; Edward Teller was among the attendees.",
 "tier": 1
 },
 {
+"id": "c-f8002bdfdc",
 "source": "Inference from DOE laboratory capability and the absence of any primary record",
 "text": "Los Alamos is one of a very small set of US institutions holding both the compartmentation architecture and the materials characterisation capability a concealed exploitation programme would need; no primary document places it inside one. Reasoning: capability inference stated as such, with the evidentiary gap declared.",
 "tier": 3
@@ -35,6 +39,7 @@
 "dateEnd": "1959",
 "dateStart": "1959",
 "direction": "in",
+"edgeId": "e-60c7fbfe4d",
 "edgeLabel": "A copy went to the Los Alamos Scientific Laboratory report library",
 "id": "afswc-tr-59-39",
 "l0": false,
@@ -56,6 +61,7 @@
 "dateEnd": "1949-02-16",
 "dateStart": "1949-02-16",
 "direction": "in",
+"edgeId": "e-bf6a67e3cf",
 "edgeLabel": "The green fireballs conference was convened at Los Alamos",
 "id": "green-fireballs-conference-1949",
 "l0": false,
@@ -77,6 +83,7 @@
 "dateEnd": "1962-12-07",
 "dateStart": "1962-12-07",
 "direction": "in",
+"edgeId": "e-725c11436a",
 "edgeLabel": "Named as the cause of the December 1962 presidential visit",
 "id": "harald-b-malmgren",
 "l0": false,
@@ -103,6 +110,7 @@
 "dateEnd": "1951",
 "dateStart": "1948",
 "direction": "out",
+"edgeId": "e-ae3ccf63e9",
 "edgeLabel": "Los Alamos and White Sands bracket the 1948-1951 green fireball reporting corridor",
 "id": "l-white-sands",
 "l0": false,
@@ -124,6 +132,7 @@
 "dateEnd": null,
 "dateStart": "1982-06-27",
 "direction": "in",
+"edgeId": "e-74247f9f9d",
 "edgeLabel": "The newspaper, the facility and the event are all in Los Alamos",
 "id": "los-alamos-monitor-1982",
 "l0": false,
@@ -189,7 +198,7 @@
 ],
 "sub": "Los Alamos National Laboratory; site of the 16 February 1949 green fireballs conference",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 339 of 1170, score 37). 5 connections, 1 of them custody/funding/programmatic. Axes C2/A3/D1.",
+"tierRationale": "Re-graded B on a global pass (rank 340 of 1138, score 37). 5 connections, 1 of them custody/funding/programmatic. Axes C2/A3/D1.",
 "timeline": [
 {
 "claimTier": null,

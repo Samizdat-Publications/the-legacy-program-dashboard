@@ -22,26 +22,31 @@
 ],
 "claims": [
 {
+"id": "c-6721d94be1",
 "source": "CHRG-119hhrg61718 CONTENTS",
 "text": "Minority witness of record at the 9 September 2025 hearing: 'Mr. Joe Spielberger (Minority Witness), Senior Policy Counsel, Project on Government Oversight'.",
 "tier": 1
 },
 {
+"id": "c-a52b7b4245",
 "source": "House Oversight hearing page and Spielberger written testimony, 9 September 2025",
 "text": "Called as the minority witness at the 9 September 2025 hearing; written testimony published by the House Oversight Committee.",
 "tier": 1
 },
 {
+"id": "c-2d51581442",
 "source": "GPO CHRG-119hhrg61718, 9 September 2025",
 "text": "Ranking Member Crockett devoted her entire questioning round to him on the protections available to those who come forward.",
 "tier": 1
 },
 {
+"id": "c-1e6cfa75a2",
 "source": "https://oversight.house.gov/wp-content/uploads/2025/09/Spielberger-Written-Testimony.pdf",
 "text": "Appeared as minority witness, Senior Policy Counsel of the Project On Government Oversight, at the 9 September 2025 hearing; written testimony filed.",
 "tier": 1
 },
 {
+"id": "c-f8e494224c",
 "source": "https://defensescoop.com/2025/09/09/military-whistleblowers-share-new-evidence-alleged-uap-ufo-hearing/",
 "text": "Called for strengthened disclosure channels and whistleblower protections for UAP witnesses.",
 "tier": 2
@@ -57,6 +62,7 @@
 "dateEnd": "2025-09-09",
 "dateStart": "2025-09-09",
 "direction": "out",
+"edgeId": "e-269babb8a3",
 "edgeLabel": "minority witness",
 "id": "hearing-2025-09-09",
 "l0": true,
@@ -78,6 +84,7 @@
 "dateEnd": null,
 "dateStart": "2025-09-09",
 "direction": "out",
+"edgeId": "e-858369abe6",
 "edgeLabel": "minority witness",
 "id": "hearing-2025-09-09",
 "l0": true,
@@ -109,6 +116,7 @@
 "dateEnd": "2025",
 "dateStart": "2025",
 "direction": "in",
+"edgeId": "e-09dd2bdba2",
 "edgeLabel": "Called him as the minority witness and devoted her round to whistleblower protection architecture",
 "id": "jasmine-crockett",
 "l0": false,
@@ -188,7 +196,7 @@
 "status": "active",
 "sub": "Senior Policy Counsel, Project On Government Oversight; minority witness, Sept 2025",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 803 of 1170, score 21). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 785 of 1138, score 21). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": []

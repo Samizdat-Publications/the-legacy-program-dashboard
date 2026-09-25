@@ -5,16 +5,19 @@
 "band": null,
 "claims": [
 {
+"id": "c-27bb0f335f",
 "source": "DoD announcement 23 November 2021; recited in the 15 July 2022 AARO establishment memorandum",
 "text": "AOIMSG was established by Deputy Secretary of Defense direction on 23 November 2021, overseen by AOIMEXEC co-chaired by USD(I&S) and the Joint Staff Director for Operations.",
 "tier": 1
 },
 {
+"id": "c-122dc2e744",
 "source": "DoD memorandum, 15 July 2022",
 "text": "AOIMSG was superseded and disestablished by the AARO establishment memorandum of 15 July 2022.",
 "tier": 1
 },
 {
+"id": "c-a54fc2fc74",
 "source": "Inference from the entity's charter language, its eight-month lifespan, and the absence of any published product",
 "text": "AOIMSG was a naming exercise rather than an investigative capability - a synchronization group with no compulsion authority stood up to satisfy a statutory mandate for a permanent office.",
 "tier": 3
@@ -30,6 +33,7 @@
 "dateEnd": "2022",
 "dateStart": "2022",
 "direction": "out",
+"edgeId": "e-e1e19047c5",
 "edgeLabel": "superseded and disestablished by AARO",
 "id": "aaro",
 "l0": true,
@@ -51,6 +55,7 @@
 "dateEnd": "2021",
 "dateStart": "2021",
 "direction": "in",
+"edgeId": "e-df4d3ab483",
 "edgeLabel": "directed establishment of AOIMSG, 23 November 2021",
 "id": "kathleen-hicks",
 "l0": false,
@@ -112,7 +117,7 @@
 ],
 "sub": "OSD synchronization group, Nov 2021 - Jul 2022",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 816 of 1170, score 21). 2 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D1.",
+"tierRationale": "Re-graded C on a global pass (rank 799 of 1138, score 21). 2 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D1.",
 "timeline": [
 {
 "claimTier": null,

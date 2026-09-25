@@ -8,5 +8,15 @@
   "id": "malmstrom-echo-flight-1967",
   "why": "WRONG MAN AND WRONG EVENT. There is no Col. Robert Mansmann in the Echo Flight record. The officer is Major Florenz J. Mansmann, and his letters are about BIG SUR, September 1964, at Vandenberg, not about the Malmstrom Echo Flight investigation of 1967. Kingston A. George, the Big Sur project engineer, names him in a published photograph caption in Skeptical Inquirer Vol. 17, Winter 1993, p 182: 'In front of George in uniform are Major Florenz Mansmann and Chief Warrant Officer Guy Spooner.' Wikipedia's Big Sur article records that 'Florenz Mansmann, a major who was involved in the project, reportedly confirmed the account in a May 1987 letter to a UFO researcher', matching the 6 May 1987 date the removed claim assigns to Echo Flight. Both URLs were opened 19 September 2026. Mansmann has no established connection of any kind to the Malmstrom engineering investigation. Replaced by a Meiwald-only claim and by a claim recording the misattribution and its status as flagged rather than proven. The letters themselves have NOT been opened and the dates in circulation differ, with both 30 January and 10 March reported for the 1983 letter to Lee Graham, so this correction removes a false attribution and does not assert a corrected one. See research/leads/verified-nuclear-witnesses-2026-09-19.md section 12, and the proposed florenz-mansmann node in research/nuclear-witnesses-2026-09-19.json.",
   "claim": "Col. Frederick Meiwald wrote to Robert Salas about the incident on 1 October 1996. CORRECTED 19 September 2026"
+ },
+ {
+  "id": "l-cambridge-ma",
+  "why": "bookkeeping: says the two ids should be merged, which phase 4 did (P4-dedupe-decisions L32)",
+  "claim": "l-cambridge-ma and l-cambridge denote the same city and should be merged. Reasoning: identical loc strings on "
+ },
+ {
+  "id": "l-lasvegas",
+  "why": "bookkeeping: says the two ids should be merged, which phase 4 did (P4-dedupe-decisions L36)",
+  "claim": "l-lasvegas and l-las-vegas denote the same city and should be merged, with l-las-vegas retained as canonical. "
  }
 ]

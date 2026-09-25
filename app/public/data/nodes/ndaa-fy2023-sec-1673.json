@@ -5,41 +5,49 @@
 "band": null,
 "claims": [
 {
+"id": "c-19750580f1",
 "source": "PLAW-117publ263 sec. 1673",
 "text": "PL 117-263 sec. 1673 carries the statutory note '50 USC 3373b'; enacted title 'UNIDENTIFIED ANOMALOUS PHENOMENA REPORTING PROCEDURES'; 136 Stat. 2959-2962. Approved 23 December 2022.",
 "tier": 1
 },
 {
+"id": "c-4b842ae40d",
 "source": "PLAW-117publ263 sec. 1673(a)(1)(B), 136 Stat. 2960",
 "text": "Sec. 1673(a)(1)(B) covers 'any activity or program by a department or agency of the Federal Government or a contractor of such a department or agency relating to unidentified anomalous phenomena, including with respect to material retrieval, material analysis, reverse engineering, research and development, detection and tracking, developmental or operational testing, and security protections and enforcement.'",
 "tier": 1
 },
 {
+"id": "c-97222ce6a2",
 "source": "PLAW-117publ263 sec. 1673(b)(1), 136 Stat. 2961",
 "text": "Sec. 1673(b)(1)(A)-(C): an authorized disclosure 'shall not be subject to a nondisclosure agreement', 'shall be deemed to comply with any regulation or order issued under the authority of Executive Order 13526 ... or chapter 18 of the Atomic Energy Act of 1954 (42 U.S.C. 2271 et seq.)', and 'is not a violation of section 798 of title 18, United States Code'.",
 "tier": 1
 },
 {
+"id": "c-0862f773dd",
 "source": "PLAW-117publ263 sec. 1673(a)(4)(A), 136 Stat. 2960",
 "text": "Sec. 1673(a)(4)(A) requires sharing of an authorized disclosure with AARO personnel 'regardless of the classification of information contained in the disclosure or any nondisclosure agreements', unless the disclosure likely relates to a SAP or compartmented access program already 'explicitly and clearly reported to the congressional defense committees or the congressional intelligence committees, and is documented as meeting those criteria.'",
 "tier": 1
 },
 {
+"id": "c-af1c8f22c8",
 "source": "P.L. 117-263, Sec. 1673(a)(1)(B), GPO",
 "text": "Sec. 1673(a)(1)(B) legislates a reporting channel for programmes involving 'material retrieval, material analysis, reverse engineering, research and development' relating to unidentified anomalous phenomena.",
 "tier": 1
 },
 {
+"id": "c-ed39ef8b31",
 "source": "P.L. 117-263, Sec. 1673(b)(1)(A), GPO",
 "text": "Sec. 1673(b)(1)(A) provides that an authorized disclosure 'shall not be subject to a nondisclosure agreement entered into by the individual who makes the disclosure.'",
 "tier": 1
 },
 {
+"id": "c-e6c2a6276c",
 "source": "P.L. 117-263, Sec. 1673(b)(2)(A), GPO",
 "text": "Sec. 1673(b)(2)(A) prohibits reprisal including revocation or suspension of security clearances or termination of employment.",
 "tier": 1
 },
 {
+"id": "c-5e681b667b",
 "source": "P.L. 117-263, Sec. 1673(b)(3), GPO",
 "text": "Sec. 1673(b)(3)(A) requires agencies and contractors to conduct comprehensive searches of all records relating to nondisclosure orders on these subjects and to provide copies to AARO for congressional access.",
 "tier": 1
@@ -55,6 +63,7 @@
 "dateEnd": null,
 "dateStart": "2022",
 "direction": "out",
+"edgeId": "e-851eb7f01c",
 "edgeLabel": "The statute legislates the exact programme category he alleges",
 "id": "david-grusch",
 "l0": false,
@@ -76,6 +85,7 @@
 "dateEnd": "2023",
 "dateStart": "2022",
 "direction": "out",
+"edgeId": "e-c03b8847a1",
 "edgeLabel": "Gag-order census feeds the contractor turn-in",
 "id": "iaa-fy2024-sec-1102",
 "l0": true,
@@ -102,6 +112,7 @@
 "dateEnd": null,
 "dateStart": "2022",
 "direction": "in",
+"edgeId": "e-b2acad0685",
 "edgeLabel": "Sec. 1673 builds the reporting channel on the Sec. 1683 office",
 "id": "ndaa-fy2022-sec-1683",
 "l0": true,
@@ -123,6 +134,7 @@
 "dateEnd": "2023",
 "dateStart": "2022",
 "direction": "out",
+"edgeId": "e-c5c575145c",
 "edgeLabel": "Statutory NDA-voiding precedent behind the Act's whistleblower posture",
 "id": "uapda-2023",
 "l0": true,
@@ -179,7 +191,7 @@
 ],
 "sub": "Authorized reporting mechanism and whistleblower protection",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 119 of 1170, score 57). 4 connections, 2 of them custody/funding/programmatic. Axes C2/A3/D3.",
+"tierRationale": "Re-graded A on a global pass (rank 121 of 1138, score 57). 4 connections, 2 of them custody/funding/programmatic. Axes C2/A3/D3.",
 "timeline": [
 {
 "claimTier": null,

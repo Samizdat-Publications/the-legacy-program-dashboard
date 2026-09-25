@@ -5,11 +5,13 @@
 "band": null,
 "claims": [
 {
+"id": "c-0f0be72554",
 "source": "CRADA document and CCDC FOIA response, via The Black Vault and The War Zone",
 "text": "Executed the TTSA CRADA on 10 October 2019 and released the agreement text on 18 October 2019, while denying all 29 associated emails in full on 21 February 2020.",
 "tier": 1
 },
 {
+"id": "c-35cfb0086a",
 "source": "The Black Vault, 12 March 2020",
 "text": "GVSP public affairs officer Doug Halleaux stated 'we try not to release details on collaborative work until the work itself has reached a conclusion.'",
 "tier": 2
@@ -25,6 +27,7 @@
 "dateEnd": null,
 "dateStart": "2020",
 "direction": "out",
+"edgeId": "e-a2dbbb5b61",
 "edgeLabel": "21 Feb 2020: Army withholds 29 emails / 100 pages of Cannon's TTSA correspondence in full",
 "id": "joseph-cannon",
 "l0": false,
@@ -46,6 +49,7 @@
 "dateEnd": "2023",
 "dateStart": "2019",
 "direction": "in",
+"edgeId": "e-6f2a363349",
 "edgeLabel": "Army counterparty; Detroit Arsenal ground vehicle laboratory",
 "id": "ttsa-army-crada",
 "l0": true,
@@ -82,6 +86,7 @@
 },
 "claimTier": 1,
 "denialKind": "directed",
+"edgeId": "e-a2dbbb5b61",
 "label": "21 Feb 2020: Army withholds 29 emails / 100 pages of Cannon's TTSA correspondence in full",
 "note": "CCDC FOIA Officer Joy L. Linton invoked exemptions (b)(4) and (b)(5) over an unclassified novel-materials collaboration the Army publicly described as origin-immaterial.",
 "of": {
@@ -131,7 +136,7 @@
 ],
 "sub": "Army laboratory, Detroit Arsenal, Warren, Michigan",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 596 of 1170, score 28). 2 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A1/D1.",
+"tierRationale": "Re-graded C on a global pass (rank 590 of 1138, score 28). 2 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A1/D1.",
 "timeline": [
 {
 "claimTier": null,

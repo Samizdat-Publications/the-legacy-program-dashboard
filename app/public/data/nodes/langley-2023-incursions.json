@@ -2,29 +2,34 @@
 "A": 2,
 "C": 0,
 "D": 3,
-"band": "oversight",
+"band": null,
 "claims": [
 {
+"id": "c-0cbe20e600",
 "source": "Langley AFB / US Air Force statement to The War Zone, 15 March 2024",
 "text": "'The installation first observed UAS activities the evening of December 6 [2023] and experienced multiple incursions throughout the month of December.'",
 "tier": 1
 },
 {
+"id": "c-d68cf20906",
 "source": "Langley AFB spokesperson to The War Zone, March 2024",
 "text": "'None of the incursions appeared to exhibit hostile intent but anything flying in our restricted airspace can pose a threat to flight safety.'",
 "tier": 2
 },
 {
+"id": "c-9754e30561",
 "source": "Gen. Mark Kelly, via the Wall Street Journal, reported by The War Zone, 30 October 2024",
 "text": "At least one drone was roughly 20 feet long, flying at more than 100 mph at roughly 3,000 to 4,000 feet.",
 "tier": 2
 },
 {
+"id": "c-f0ebe93c18",
 "source": "Gen. Gregory Guillot to The War Zone, 30 October 2024",
 "text": "'I have not seen [and] I do not know of any organized or unorganized foreign nexus.'",
 "tier": 2
 },
 {
+"id": "c-3d4d8f3c54",
 "source": "The War Zone, 15 March 2024",
 "text": "Response included F-16 combat air patrols with aerial refueling, NASA WB-57F surveillance orbits, FBI coordination through NORTHCOM and FAA notification.",
 "tier": 1
@@ -40,6 +45,7 @@
 "dateEnd": "2024",
 "dateStart": "2024",
 "direction": "in",
+"edgeId": "e-510cee0e6a",
 "edgeLabel": "Public non-attribution finding by the homeland air defence commander",
 "id": "gregory-guillot",
 "l0": false,
@@ -61,6 +67,7 @@
 "dateEnd": "2026",
 "dateStart": "2024",
 "direction": "in",
+"edgeId": "e-de3628391b",
 "edgeLabel": "AARO's case work does not address the domestic incursion wave",
 "id": "jon-kosloski",
 "l0": false,
@@ -89,30 +96,10 @@
 {
 "claimTier": 1,
 "cls": "location",
-"dateEnd": "2023",
-"dateStart": "2023",
-"direction": "out",
-"edgeLabel": "Site of the December 2023 incursions",
-"id": "l-langley",
-"l0": false,
-"label": "Joint Base Langley-Eustis, Virginia",
-"note": "The Air Force confirmed activity beginning the evening of 6 December 2023 and continuing through the month, prompting F-16 CAPs, NASA WB-57F orbits and FBI coordination.",
-"sources": [
-{
-"date": "2024-03-15",
-"name": "The War Zone - mysterious drones swarmed Langley AFB for weeks",
-"url": "https://www.twz.com/air/mysterious-drones-swarmed-langley-afb-for-weeks"
-}
-],
-"tier": "C",
-"type": "institutional"
-},
-{
-"claimTier": 1,
-"cls": "location",
 "dateEnd": null,
 "dateStart": "2023-12-06",
 "direction": "in",
+"edgeId": "e-183aba30de",
 "edgeLabel": "site of the December 2023 incursions",
 "id": "l-langley-afb",
 "l0": false,
@@ -135,10 +122,33 @@
 },
 {
 "claimTier": 1,
+"cls": "location",
+"dateEnd": "2023",
+"dateStart": "2023",
+"direction": "out",
+"edgeId": "e-ea81b5b055",
+"edgeLabel": "Site of the December 2023 incursions",
+"id": "l-langley-afb",
+"l0": false,
+"label": "Langley Air Force Base / Joint Base Langley-Eustis, Virginia",
+"note": "The Air Force confirmed activity beginning the evening of 6 December 2023 and continuing through the month, prompting F-16 CAPs, NASA WB-57F orbits and FBI coordination.",
+"sources": [
+{
+"date": "2024-03-15",
+"name": "The War Zone - mysterious drones swarmed Langley AFB for weeks",
+"url": "https://www.twz.com/air/mysterious-drones-swarmed-langley-afb-for-weeks"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 1,
 "cls": "event",
 "dateEnd": "2024",
 "dateStart": "2023",
 "direction": "out",
+"edgeId": "e-6828c41d6e",
 "edgeLabel": "Twelve months apart; the second wave was publicly resolved, the first never was",
 "id": "nj-drone-incursions-2024",
 "l0": false,
@@ -165,6 +175,7 @@
 "dateEnd": "2024",
 "dateStart": "2023",
 "direction": "out",
+"edgeId": "e-ac66f4821c",
 "edgeLabel": "Centrepiece of Guillot's 90-day counter-UAS assessment",
 "id": "norad-northcom",
 "l0": true,
@@ -189,7 +200,7 @@
 "coords": null,
 "dateEnd": "2023",
 "dateStart": "2023",
-"deg": 6,
+"deg": 5,
 "denials": [],
 "desc": "Beginning the evening of 6 December 2023, unidentified unmanned aircraft operated over Joint Base Langley-Eustis, home of front-line F-22 Raptors, and continued through the month. The Air Force confirmed 'The installation first observed UAS activities the evening of December 6 [2023] and experienced multiple incursions throughout the month of December,' that the drones 'ranged in size/configuration' and that 'the number of UASs fluctuated.' The response is the measure of how seriously it was taken: F-16 combat air patrols with aerial refueling in mid-December, NASA's WB-57F high-altitude research aircraft flying surveillance orbits, FBI coordination through NORTHCOM, and FAA notification. Gen. Mark Kelly told the Wall Street Journal at least one drone was roughly 20 feet long, flying at more than 100 mph at 3,000 to 4,000 feet. The Air Force declined to describe operational impact 'to protect operational security'; F-22s were relocated and protective netting for the aircraft was later considered. Gen. Gregory Guillot, taking NORAD/NORTHCOM command in February 2024, made counter-UAS the centrepiece of his 90-day assessment with Langley as the driving case, and stated flatly that he knew of 'any organized or unorganized foreign nexus.' Seventeen nights of unidentified aircraft over a stealth fighter base, and no attribution has ever been made public.",
 "domains": [],
@@ -374,43 +385,12 @@
 },
 "hl": null,
 "id": "langley-2023-incursions",
-"l0": true,
+"l0": false,
 "label": "Langley AFB Drone Incursions (December 2023)",
 "locLabel": null,
-"members": [
-{
-"cls": "person",
-"id": "gregory-guillot",
-"label": "Gregory M. Guillot",
-"tier": "C"
-},
-{
-"cls": "person",
-"id": "jon-kosloski",
-"label": "Jon T. Kosloski",
-"tier": "A"
-},
-{
-"cls": "location",
-"id": "l-langley",
-"label": "Joint Base Langley-Eustis, Virginia",
-"tier": "C"
-},
-{
-"cls": "location",
-"id": "l-langley-afb",
-"label": "Langley Air Force Base / Joint Base Langley-Eustis, Virginia",
-"tier": "C"
-},
-{
-"cls": "event",
-"id": "nj-drone-incursions-2024",
-"label": "New Jersey and East Coast Drone Wave (Nov-Dec 2024)",
-"tier": "B"
-}
-],
+"members": null,
 "openQuestions": [],
-"short": "Langley AFB Drone Incursions",
+"short": "Langley AFB Drone Incursions (December 2023)",
 "sourceFiles": [
 "aviators-incidents"
 ],
@@ -433,7 +413,7 @@
 ],
 "sub": "17+ nights of unattributed UAS over a front-line F-22 base",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 529 of 1170, score 30). 6 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 527 of 1138, score 30). 6 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D3.",
 "timeline": [
 {
 "claimTier": null,

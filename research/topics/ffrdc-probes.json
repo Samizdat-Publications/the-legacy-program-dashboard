@@ -1,0 +1,56 @@
+{
+ "id": "ffrdc-probes",
+ "title": "FFRDCs and the 2026 contractor probes",
+ "kind": "allegation",
+ "section": "custody-allegations",
+ "span": {
+  "from": "1947",
+  "to": "2026"
+ },
+ "focusEra": "3",
+ "anchors": [
+  "mitre-corporation",
+  "burlison-mitre-letter-2026",
+  "burlison-mit-lincoln-letter-2026",
+  "gerb-mitre-investigation",
+  "uap-gerb",
+  "rand-corporation",
+  "aerospace-corporation",
+  "mit-lincoln-laboratory",
+  "jhuapl",
+  "ida",
+  "far-35-017",
+  "manhattan-project-2",
+  "gerb-northrop-trw-investigation",
+  "gerb-nro-investigation",
+  "gerb-sandia-investigation"
+ ],
+ "absorbs": [
+  "d-ffrdc",
+  "ffrdc-mechanism"
+ ],
+ "essays": [],
+ "status": "draft",
+ "notes": "Start-here flag 6. UAP Gerb's investigations are a researcher's claims and are framed as such. The three FAR 35.017 claims authored under a collapsed FFRDC domain node belong here.",
+ "appendixT": "ffrdc-probes",
+ "unplacedClaims": [
+  {
+   "collapsedInto": "d-ffrdc",
+   "tier": 1,
+   "claim": "FAR 35.017 states that an FFRDC has access to government and supplier data, including sensitive and proprietary information, and to employees and facilities beyond that common in a normal contractual relationship.",
+   "source": "Federal Acquisition Regulation Part 35.017"
+  },
+  {
+   "collapsedInto": "d-ffrdc",
+   "tier": 1,
+   "claim": "FAR 35.017 requires the FFRDC to operate in the public interest with objectivity and independence, to be free from organisational conflicts of interest, and to disclose its affairs fully to the sponsoring agency.",
+   "source": "FAR 35.017"
+  },
+  {
+   "collapsedInto": "d-ffrdc",
+   "tier": 3,
+   "claim": "Because FFRDC records are contractor records rather than agency records, work performed under this mechanism is outside FOIA while remaining under the sponsor's classification authority. Reasoning: FOIA reaches agency records only; the FFRDC operator is a private entity.",
+   "source": "Inference from FOIA's agency-records definition and FAR 35.017"
+  }
+ ]
+}

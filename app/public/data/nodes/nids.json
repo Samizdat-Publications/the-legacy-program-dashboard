@@ -5,31 +5,37 @@
 "band": "funding",
 "claims": [
 {
+"id": "c-91cccc6a5a",
 "source": "National Institute for Discovery Science public record and publications, 1995-2004 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "text": "NIDS was founded by Robert Bigelow in 1995 and operated until 2004 as a privately funded research institute investigating aerial phenomena, animal mutilations and the Utah ranch.",
 "tier": 2
 },
 {
+"id": "c-03670f4d31",
 "source": "The Debrief, 25 May 2023",
 "text": "Colm Kelleher led the NIDS science team at Skinwalker Ranch from 1996 to 2004 and carried that team structure into BAASS in 2008.",
 "tier": 2
 },
 {
+"id": "c-e0e6726d30",
 "source": "Inference from the NIDS-to-BAASS personnel continuity",
 "text": "AAWSAP's field methodology, personnel and site were inherited wholesale from NIDS, meaning the government did not fund a new capability but bought access to an existing private one — which is why the contractor's UFO work began immediately on award.",
 "tier": 3
 },
 {
+"id": "c-2603a6a718",
 "source": "The New Yorker, 10 May 2021, quoting NIDS' own description — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "text": "NIDS described itself as 'a privately funded science institute engaged in research of aerial phenomena, animal mutilations, and other related anomalous phenomena'; among the consultants Bigelow hired was Hal Puthoff.",
 "tier": 2
 },
 {
+"id": "c-f0a924457e",
 "source": "Robert Bigelow, interview with the Deseret News, 10 Aug 1998 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "text": "NIDS operated a public reporting line (1-888-433-6500) and would dispatch veterinarians to perform necropsies on reported animal mutilations at no cost to ranchers.",
 "tier": 2
 },
 {
+"id": "c-01d5a13970",
 "source": "The New Yorker, 10 May 2021",
 "text": "Bigelow shut NIDS down in 2004 but retained Skinwalker Ranch; in 2007 a senior DIA official wrote to him about the ranch, and the AAWSAP contract followed.",
 "tier": 2
@@ -45,6 +51,7 @@
 "dateEnd": "2008",
 "dateStart": "2007",
 "direction": "out",
+"edgeId": "e-0b21d24abe",
 "edgeLabel": "The private field programme was re-federalised as a DIA contract without changing personnel",
 "id": "aawsap",
 "l0": true,
@@ -76,6 +83,7 @@
 "dateEnd": "2008",
 "dateStart": "2004",
 "direction": "out",
+"edgeId": "e-868e2afc4f",
 "edgeLabel": "personnel, methodology and site inherited wholesale",
 "id": "baass",
 "l0": true,
@@ -102,6 +110,7 @@
 "dateEnd": "2008",
 "dateStart": "2004",
 "direction": "out",
+"edgeId": "e-3334b97519",
 "edgeLabel": "NIDS personnel and methods carried directly into the DIA-funded BAASS contract",
 "id": "baass",
 "l0": true,
@@ -128,6 +137,7 @@
 "dateEnd": "2004",
 "dateStart": "1996",
 "direction": "in",
+"edgeId": "e-a19002d61f",
 "edgeLabel": "Kelleher was NIDS deputy administrator and ran field operations",
 "id": "colm-kelleher",
 "l0": false,
@@ -154,6 +164,7 @@
 "dateEnd": "2004",
 "dateStart": "1996",
 "direction": "in",
+"edgeId": "e-9478dc5bcb",
 "edgeLabel": "NIDS scientist before the federal contract",
 "id": "eric-davis",
 "l0": false,
@@ -185,6 +196,7 @@
 "dateEnd": "2004",
 "dateStart": "1996",
 "direction": "in",
+"edgeId": "e-873bd6f8b8",
 "edgeLabel": "Worked with Bigelow's NIDS alongside Colm Kelleher",
 "id": "george-knapp",
 "l0": false,
@@ -206,6 +218,7 @@
 "dateEnd": "2004",
 "dateStart": "1995",
 "direction": "in",
+"edgeId": "e-a529a230ea",
 "edgeLabel": "Puthoff was among the consultants Bigelow hired at NIDS in 1995",
 "id": "harold-puthoff",
 "l0": false,
@@ -232,6 +245,7 @@
 "dateEnd": "2004",
 "dateStart": "1995",
 "direction": "in",
+"edgeId": "e-8adaa21ec8",
 "edgeLabel": "Vallee served on the NIDS advisory board",
 "id": "jacques-vallee",
 "l0": false,
@@ -258,6 +272,7 @@
 "dateEnd": "2004",
 "dateStart": "1995",
 "direction": "in",
+"edgeId": "e-d891e06070",
 "edgeLabel": "Alexander sat on the NIDS board from its founding",
 "id": "john-b-alexander",
 "l0": false,
@@ -284,6 +299,7 @@
 "dateEnd": "2004",
 "dateStart": "1996",
 "direction": "in",
+"edgeId": "e-44a696c342",
 "edgeLabel": "NIDS science advisory board before the DIRD",
 "id": "kit-green",
 "l0": false,
@@ -305,10 +321,11 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-6b3afc6508",
 "edgeLabel": "NIDS headquarters 1995-2004",
-"id": "l-lasvegas",
+"id": "l-las-vegas",
 "l0": false,
-"label": "Las Vegas, Nevada (alias of l-las-vegas)",
+"label": "Las Vegas, Nevada",
 "note": "The National Institute for Discovery Science was established in 1995 by Robert T. Bigelow, described in contemporary reporting as a Las Vegas-based millionaire philanthropist and real estate developer, and it investigated both aerial phenomena and the survival of consciousness after death, running a reporting hotline and commissioning veterinary necropsies on animal-mutilation reports. It is the direct institutional predecessor of the BAASS staffing that later executed AAWSAP. Tier 2: the source places Bigelow in Las Vegas rather than stating NIDS's own registered address.",
 "sources": [
 {
@@ -327,7 +344,7 @@
 "url": "https://www.8newsnow.com/mystery-wire/las-vegas-group-set-the-bar-for-ufo-investigations-30-years-ago/"
 }
 ],
-"tier": "C",
+"tier": "B",
 "type": "geographic"
 },
 {
@@ -336,6 +353,7 @@
 "dateEnd": "2004",
 "dateStart": "1996",
 "direction": "out",
+"edgeId": "e-933c22c1b1",
 "edgeLabel": "NIDS operated a permanently instrumented field station at the ranch",
 "id": "l-skinwalker",
 "l0": false,
@@ -362,6 +380,7 @@
 "dateEnd": "2004",
 "dateStart": "1996",
 "direction": "out",
+"edgeId": "e-83150b3c84",
 "edgeLabel": "NIDS ran the field investigation at the ranch under Bigelow",
 "id": "l-skinwalker",
 "l0": false,
@@ -383,6 +402,7 @@
 "dateEnd": "2004",
 "dateStart": "1995",
 "direction": "in",
+"edgeId": "e-581497930d",
 "edgeLabel": "founded and privately funded NIDS 1995-2004",
 "id": "robert-bigelow",
 "l0": false,
@@ -592,9 +612,9 @@
 },
 {
 "cls": "location",
-"id": "l-lasvegas",
-"label": "Las Vegas, Nevada (alias of l-las-vegas)",
-"tier": "C"
+"id": "l-las-vegas",
+"label": "Las Vegas, Nevada",
+"tier": "B"
 },
 {
 "cls": "location",
@@ -649,7 +669,7 @@
 ],
 "sub": "Privately funded research institute, Las Vegas, 1995-2004",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 131 of 1170, score 55). 14 connections, 4 of them custody/funding/programmatic. Axes C2/A2/D2.",
+"tierRationale": "Re-graded A on a global pass (rank 133 of 1138, score 55). 14 connections, 4 of them custody/funding/programmatic. Axes C2/A2/D2.",
 "timeline": [
 {
 "claimTier": null,

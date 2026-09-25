@@ -5,36 +5,43 @@
 "band": "custody",
 "claims": [
 {
+"id": "c-062619bd03",
 "source": "Justiça Federal, Seção Judiciária de Santa Catarina, Recurso Cível n. 5002417-48.2022.4.04.7200/SC, RELVOTO signed 27/2/2023 (https://www.migalhas.com.br/arquivos/2026/1/7F5E4CC12D7AE7_terceiraacao.pdf)",
 "text": "Full operative text of Portaria nº 551/GC3, de 9 de agosto de 2010, transcribed in a federal court judgment. Legal basis: 'inciso XIV do art. 23 da Estrutura Regimental do Comando da Aeronáutica, aprovada pelo Decreto nº 6.834, de 30 de abril de 2009', and Processo nº 67000.001974/2010-61. Art. 1º: 'As atividades do Comando da Aeronáutica (COMAER) relativas ao assunto \"objetos voadores não identificados\" (OVNI) restringem-se ao registro de ocorrências e ao seu trâmite para o Arquivo Nacional.' Art. 2º assigns COMDABRA to receive and catalogue. Art. 3º assigns CENDOC to copy, bind, archive and periodically forward originals to the Arquivo Nacional. Art. 6º: 'Revoga-se a Nota Nº C-002/MIN/ADM, de 13 de abril de 1978 e o Aviso Nº S-001/MIN, de 28 de fevereiro de 1989.'",
 "tier": 1
 },
 {
+"id": "c-1fa618e736",
 "source": "Câmara dos Deputados, RIC 679/2011, item 1.3 and justificação, 22 June 2011 (https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=891762&filename=RIC+679%2F2011)",
 "text": "DOU RECORD FOUND (by citation, not by page image). A Chamber of Deputies information requirement cites the underlying process 'citado no Diário Oficial da União de 10 de agosto de 2010, Seção I - página 101', and states that 'no dia 10 de agosto do ano passado a Força Aérea admitira e abrira oficialmente parte do seu esquema de procedimentos quanto ao assunto dos OVNIs, por meio da publicação no DOU da Portaria 551/GC3'. Publication is therefore attested by a primary parliamentary document independent of the FAB's own note: DOU of 10 August 2010, Seção 1, p. 101. The in.gov.br page image itself could not be retrieved.",
 "tier": 1
 },
 {
+"id": "c-26a0397b5c",
 "source": "Câmara dos Deputados, CREDN, 'Pronunciamento do Comandante da Aeronáutica, Tenente-Brigadeiro-do-Ar Juniti Saito', 24/10/2012 (https://www2.camara.leg.br/atividade-legislativa/comissoes/comissoes-permanentes/credn/noticias/pronunciamento-do-comandante-da-aeronautica-tenente-brigadeiro-do-ar-juniti-saito); contrasted with Senado Federal RQS 193/2022",
 "text": "SPELLING RESOLVED - 'Juniti Saito' is correct; 'Junichi Saito' is an error originating in the Senate requerimento. The Câmara dos Deputados portal reproduces the Air Force Commander's own Ordem do Dia for Aviator's Day, signed in his own signature block: 'Tenente-Brigadeiro-do-Ar JUNITI SAITO / Comandante da Aeronáutica' (24/10/2012). The variant 'Junichi Saito' appears in the justificação of Senado RQS 193/2022, which also miscalls the Portaria a 'decreto'.",
 "tier": 1
 },
 {
+"id": "c-1807acfd58",
 "source": "Nota da Força Aérea Brasileira, quoted verbatim in CNN Brasil, 12 August 2026 (https://www.cnnbrasil.com.br/ciencia/pilotos-e-controladores-relataram-18-casos-de-ovnis-no-brasil-em-2025/)",
 "text": "FAB's current stated coverage runs to 2025, contradicting the Arquivo Nacional's 2018 description. Official Air Force note: 'A Força Aérea Brasileira (FAB) informa que todos os documentos, vídeos, fotografias, relatos, entre outros, disponíveis, no âmbito do Comando da Aeronáutica, sobre fenômenos aéreos não identificados, no período de 1952 a 2025, já foram transferidos para o Arquivo Nacional, onde são de domínio público.' The same note cites Portaria 551/GC3 and names COMAE (not COMDABRA) as the receiving command, reflecting the post-2017 reorganisation.",
 "tier": 2
 },
 {
+"id": "c-eeaae985a7",
 "source": "Relatório de Ocorrências, Arquivo Nacional BR_DFANBSB_ARX_0_0_0249",
 "text": "Air Defence Command finding, 2 June 1986: the phenomena 'são sólidos e refletem de certa forma inteligência'.",
 "tier": 1
 },
 {
+"id": "c-baee476d5a",
 "source": "BBC Brasil, 14 January 2022",
 "text": "Air Force note to BBC Brasil: all available UFO material has been sent to the Arquivo Nacional and the force 'não dispõe de profissionais especializados para realizar investigações científicas ou emitir parecer a respeito deste tipo de fenômeno aéreo'.",
 "tier": 2
 },
 {
+"id": "c-da59522bfa",
 "source": "EFE/Terra, 'FAB cria normas para pilotos em caso de contato com ovnis', 10 August 2010",
 "text": "On 10 August 2010 the Air Force created rules for pilots in case of contact with UFOs.",
 "tier": 2
@@ -50,6 +57,7 @@
 "dateEnd": "2025-05-30",
 "dateStart": "2024-06-02",
 "direction": "out",
+"edgeId": "e-82ce487530",
 "edgeLabel": "COMPARISON: AARO's Foreign Partner Engagement section names no Latin American partner at all",
 "id": "aaro-fy2025-annual-report",
 "l0": true,
@@ -76,6 +84,7 @@
 "dateEnd": "2022",
 "dateStart": "2009",
 "direction": "out",
+"edgeId": "e-d498250a6e",
 "edgeLabel": "transferred its entire UAP holding and disclaimed competence",
 "id": "arquivo-nacional-ufo",
 "l0": true,
@@ -97,6 +106,7 @@
 "dateEnd": null,
 "dateStart": "2010-08-09",
 "direction": "out",
+"edgeId": "e-1f615df9cf",
 "edgeLabel": "Portaria 551/GC3 (9 Aug 2010): COMDABRA/COMAE catalogues, CENDOC forwards originals periodically",
 "id": "arquivo-nacional-ufo",
 "l0": true,
@@ -128,6 +138,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-4dc9193a60",
 "edgeLabel": "",
 "id": "arquivo-nacional-ufo",
 "l0": true,
@@ -154,6 +165,7 @@
 "dateEnd": "1986-05-19",
 "dateStart": "1986-05-19",
 "direction": "out",
+"edgeId": "e-97b79b87ed",
 "edgeLabel": "The Air Force scrambled the interceptors on the Night of the UFOs",
 "id": "ev-noite-ovnis-1986",
 "l0": false,
@@ -190,6 +202,7 @@
 "dateEnd": null,
 "dateStart": "1941",
 "direction": "in",
+"edgeId": "e-a61a3386ee",
 "edgeLabel": "The Força Aérea Brasileira is the air arm of the Brazilian state",
 "id": "l-brazil",
 "l0": false,
@@ -221,6 +234,7 @@
 "dateEnd": "1978",
 "dateStart": "1977-10-20",
 "direction": "out",
+"edgeId": "e-560d363cb9",
 "edgeLabel": "The Brazilian Air Force mounted Operação Prato as its own field operation",
 "id": "operacao-prato",
 "l0": true,
@@ -257,6 +271,7 @@
 "dateEnd": "1990",
 "dateStart": "1985",
 "direction": "out",
+"edgeId": "e-aa8f9075a2",
 "edgeLabel": "Moreira Lima was Minister of Aeronautics, the FAB's own political head",
 "id": "otavio-moreira-lima",
 "l0": false,
@@ -288,6 +303,7 @@
 "dateEnd": "2013-10-18",
 "dateStart": "2013-10-18",
 "direction": "in",
+"edgeId": "e-16b621f8a6",
 "edgeLabel": "COMPARISON: Peru's own state news agency measured DIFAA's reopening against Brazil",
 "id": "peru-uap-office",
 "l0": false,
@@ -314,6 +330,7 @@
 "dateEnd": "1986-06-02",
 "dateStart": "1986-06-02",
 "direction": "out",
+"edgeId": "e-63d5904132",
 "edgeLabel": "Pessoa Cavalcanti signed for the FAB's own Air Defence Command",
 "id": "pessoa-cavalcanti",
 "l0": false,
@@ -345,6 +362,7 @@
 "dateEnd": "2022-06-24",
 "dateStart": "2022-03",
 "direction": "in",
+"edgeId": "e-b41085299c",
 "edgeLabel": "The Senate instrument treats the Aeronáutica's record as the national record",
 "id": "senado-brasil",
 "l0": true,
@@ -381,6 +399,7 @@
 "dateEnd": "1997",
 "dateStart": "1977",
 "direction": "out",
+"edgeId": "e-6fce8aa41d",
 "edgeLabel": "Hollanda was a serving FAB officer, not a civilian investigator",
 "id": "uyrange-hollanda",
 "l0": false,
@@ -408,7 +427,7 @@
 "url": "https://en.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Prato"
 }
 ],
-"tier": "B",
+"tier": "C",
 "type": "institutional"
 }
 ],
@@ -564,7 +583,7 @@
 "cls": "person",
 "id": "uyrange-hollanda",
 "label": "Capitão Uyrangê Bolívar Soares Nogueira de Hollanda Lima",
-"tier": "B"
+"tier": "C"
 }
 ],
 "openQuestions": [],
@@ -607,7 +626,7 @@
 ],
 "sub": "Brazilian Air Force; ran Operação Prato and the 1986 intercepts; transfers UAP records to the Arquivo Nacional under Portaria 551/GC3 of 9 August 2010",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 106 of 1170, score 62). 12 connections, 4 of them custody/funding/programmatic. Axes C2/A2/D3.",
+"tierRationale": "Re-graded A on a global pass (rank 107 of 1138, score 62). 12 connections, 4 of them custody/funding/programmatic. Axes C2/A2/D3.",
 "timeline": [],
 "unverified": []
 }

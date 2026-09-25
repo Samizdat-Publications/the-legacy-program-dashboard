@@ -5,16 +5,19 @@
 "band": null,
 "claims": [
 {
+"id": "c-0790deb5d0",
 "source": "Letterboxd record, https://letterboxd.com/film/bob-lazar-area-51-and-flying-saucers/ , opened 2026-09-18",
 "text": "The artefact: 'Bob Lazar: Area 51 and Flying Saucers', 2018, 97 minutes, directed by Jeremy Kenyon Lockyer Corbell, narrated by Mickey Rourke, featuring Bob Lazar, George Knapp and Joy White.",
 "tier": 1
 },
 {
+"id": "c-7beb8c1804",
 "source": "Letterboxd record, https://letterboxd.com/film/bob-lazar-area-51-and-flying-saucers/ , opened 2026-09-18",
 "text": "A CORRECTION TO THE DATE IN GENERAL CIRCULATION. Letterboxd lists three release dates across two territories and two formats: United States digital, 1 November 2018; United Kingdom physical, 4 December 2018; United States physical, 8 December 2018. The widely repeated '4 December 2018' is the United Kingdom physical date, not the release. IMDb returned HTTP 403 to this board on 18 September 2026 and no distributor record was opened, so the node asserts a range and not a single date.",
 "tier": 1
 },
 {
+"id": "c-23aaa1b22b",
 "source": "Tim McMillan, Vice, 13 November 2019, https://www.vice.com/en/article/bob-lazar-says-the-fbi-raided-him-to-seize-area-51s-alien-fuel-the-truth-is-weirder/ , opened 2026-09-18",
 "text": "It is the route by which the 19 July 2017 search of United Nuclear Scientific entered the UFO literature. Tim McMillan's 2019 reporting, which established that the search was an agency assist to a homicide investigation into a thallium death, describes the motivation for the records request as the discussion of the raid in this documentary.",
 "tier": 2
@@ -30,6 +33,7 @@
 "dateEnd": null,
 "dateStart": "2018",
 "direction": "in",
+"edgeId": "e-a0d33e96a3",
 "edgeLabel": "Appears in and is credited on the 2018 documentary",
 "id": "george-knapp",
 "l0": false,
@@ -51,6 +55,7 @@
 "dateEnd": null,
 "dateStart": "2018",
 "direction": "in",
+"edgeId": "e-6ea67adbda",
 "edgeLabel": "Director of the 2018 documentary",
 "id": "jeremy-corbell",
 "l0": false,
@@ -72,6 +77,7 @@
 "dateEnd": "2018-12-08",
 "dateStart": "2018-11-01",
 "direction": "out",
+"edgeId": "e-b460e9a8a8",
 "edgeLabel": "2018 documentary that returned the claim to mass circulation",
 "id": "s-4-papoose-lake",
 "l0": false,
@@ -84,7 +90,7 @@
 "url": "https://letterboxd.com/film/bob-lazar-area-51-and-flying-saucers/"
 }
 ],
-"tier": "A",
+"tier": "B",
 "type": "investigative"
 }
 ],
@@ -127,7 +133,7 @@
 ],
 "sub": "Jeremy Corbell's 97-minute documentary, narrated by Mickey Rourke, featuring Lazar and George Knapp, released across formats between November and December 2018",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 1011 of 1170, score 15). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 981 of 1138, score 15). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.",
 "timeline": [
 {
 "claimTier": null,

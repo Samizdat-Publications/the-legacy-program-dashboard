@@ -5,71 +5,85 @@
 "band": "custody",
 "claims": [
 {
+"id": "c-7f3560f860",
 "source": "DefenseScoop, 27 May 2026",
 "text": "Ten-page letter dated 22 May 2026 with over 40 production requests, asking MITRE to identify whether it 'has created, received, maintained, analyzed, transferred, destroyed, withheld, or otherwise controlled records' on UAP, anomalous materials and reverse engineering, dating back to 1930.",
 "tier": 1
 },
 {
+"id": "c-81a9ceb736",
 "source": "DefenseScoop, 27 May 2026",
 "text": "All unclassified responsive records demanded within 45 days in native electronic format with complete metadata.",
 "tier": 1
 },
 {
+"id": "c-352f6d278b",
 "source": "DefenseScoop, 27 May 2026",
 "text": "MITRE spokesperson: 'If any relevant material is found, we will coordinate with the federal agencies responsible for the work to determine how to best provide any assets.'",
 "tier": 2
 },
 {
+"id": "c-e35b98a54c",
 "source": "DefenseScoop, 27 May 2026",
 "text": "The letter is dated 22 May 2026, runs to 10 pages, was obtained by DefenseScoop, and includes dozens of production requests covering records dating back to 1930.",
 "tier": 1
 },
 {
+"id": "c-31c16cac58",
 "source": "MeriTalk, 29 May 2026, quoting the letter",
 "text": "Burlison directed MITRE to identify and preserve records related to UAP including 'unexplained aerospace or undersea events, technologies of unknown origin, and alleged crash-retrieval or reverse-engineering programs'.",
 "tier": 1
 },
 {
+"id": "c-bc2dc4834f",
 "source": "MeriTalk, 29 May 2026; DefenseScoop, 27 May 2026",
 "text": "Deadlines imposed: senior officer designation within 5 business days; preservation hold within 10 business days; classified briefing coordination within 14 days; written responses and records index within 30 days; unclassified production in native electronic format with metadata within 45 days.",
 "tier": 1
 },
 {
+"id": "c-7485a7f17e",
 "source": "Burlison press release, 26 May 2026; DefenseScoop, 27 May 2026",
 "text": "Burlison wrote: 'This inquiry does not require MITRE to accept any particular conclusion about the origin or nature of UAP. It requires MITRE to tell Congress what it knows.'",
 "tier": 1
 },
 {
+"id": "c-f48e36d0e0",
 "source": "DefenseScoop, 27 May 2026",
 "text": "The requests cover UAP detection and tracking across air, space, maritime, cyber and electromagnetic domains and work involving Lockheed Martin, Northrop Grumman, Raytheon, Boeing, General Dynamics, SAIC and Leidos.",
 "tier": 1
 },
 {
+"id": "c-8001242d68",
 "source": "Burlison press release, 26 May 2026",
 "text": "Burlison stated: 'Federally funded research and development centers occupy a unique position of public trust... They cannot become private vaults for federal records.'",
 "tier": 1
 },
 {
+"id": "c-bbf4b2f56b",
 "source": "Burlison press release, 26 May 2026",
 "text": "The press release names the Beacon Hill Study, 'AF-ATIC-FILM, 03/52', MIT Lincoln Laboratory, the National Archives and Records Administration, and Record Group 615.",
 "tier": 1
 },
 {
+"id": "c-8e66ac9e09",
 "source": "https://defensescoop.com/2026/05/27/rep-eric-burlison-request-for-uap-records-mitre/",
 "text": "Burlison's 22 May 2026 ten-page letter to MITRE contained over 40 production requests for UAP and unexplained-technology records dating back to 1930, with a 45-day deadline for unclassified responsive records in native electronic format with complete metadata.",
 "tier": 2
 },
 {
+"id": "c-7027c13bf7",
 "source": "https://defensescoop.com/2026/05/27/rep-eric-burlison-request-for-uap-records-mitre/",
 "text": "The letter's scope names Lockheed Martin, Northrop Grumman, Raytheon, Boeing, General Dynamics, SAIC, Leidos, Battelle, The Aerospace Corporation, Booz Allen Hamilton and BAE Systems.",
 "tier": 2
 },
 {
+"id": "c-211ff5c2b0",
 "source": "https://defensescoop.com/2026/05/27/rep-eric-burlison-request-for-uap-records-mitre/",
 "text": "MITRE's response: 'If any relevant material is found, we will coordinate with the federal agencies responsible for the work to determine how to best provide any assets.'",
 "tier": 2
 },
 {
+"id": "c-b6b08c681f",
 "source": "https://defensescoop.com/2026/05/27/rep-eric-burlison-request-for-uap-records-mitre/",
 "text": "The demand reaches records MITRE has 'created, received, maintained, analyzed, transferred, destroyed, withheld, or otherwise controlled' - a spoliation category, not a subject-matter category, indicating the committee is investigating record disposition rather than only UAP content. Reasoning: the request list as reported includes that category alongside substantive technical categories.",
 "tier": 3
@@ -85,6 +99,7 @@
 "dateEnd": null,
 "dateStart": "2026",
 "direction": "in",
+"edgeId": "e-5d006c48c9",
 "edgeLabel": "Grusch's contractor-custody thesis is the stated basis of Burlison's FFRDC campaign",
 "id": "david-grusch",
 "l0": false,
@@ -111,6 +126,7 @@
 "dateEnd": null,
 "dateStart": "2026",
 "direction": "in",
+"edgeId": "e-b70aa5a041",
 "edgeLabel": "The letter reflects concerns raised by whistleblowers alleging contractor-held programmes",
 "id": "david-grusch",
 "l0": false,
@@ -132,6 +148,7 @@
 "dateEnd": null,
 "dateStart": "2026",
 "direction": "in",
+"edgeId": "e-366f9ac88b",
 "edgeLabel": "Author of the 22 May 2026 records demand",
 "id": "eric-burlison",
 "l0": false,
@@ -153,6 +170,7 @@
 "dateEnd": null,
 "dateStart": "2026",
 "direction": "in",
+"edgeId": "e-de331ad177",
 "edgeLabel": "Author of the 22 May 2026 production request to MITRE",
 "id": "eric-burlison",
 "l0": false,
@@ -174,6 +192,7 @@
 "dateEnd": null,
 "dateStart": "2026",
 "direction": "out",
+"edgeId": "e-f08517acb3",
 "edgeLabel": "The letter's legal theory rests on the FFRDC access provisions",
 "id": "far-35-017",
 "l0": false,
@@ -190,11 +209,34 @@
 "type": "legislative"
 },
 {
+"claimTier": 2,
+"cls": "document",
+"dateEnd": null,
+"dateStart": "2026",
+"direction": "in",
+"edgeId": "e-d8bf46ae93",
+"edgeLabel": "Published as declared support for the congressional inquiry opened 11 weeks earlier",
+"id": "gerb-mitre-investigation",
+"l0": true,
+"label": "UAP Gerb - The MITRE Corporation investigation",
+"note": "Burlison's letter is dated 22 May 2026; the investigation was published 7 August 2026 and states it seeks to directly aid that inquiry.",
+"sources": [
+{
+"date": "2026-08-07",
+"name": "UAP Gerb, YouTube",
+"url": "https://www.youtube.com/watch?v=107BtDYhTkA"
+}
+],
+"tier": "B",
+"type": "temporal"
+},
+{
 "claimTier": 3,
 "cls": "event",
 "dateEnd": null,
 "dateStart": "2026-05-22",
 "direction": "out",
+"edgeId": "e-40aedb30b4",
 "edgeLabel": "acts on the hearing's fourth finding",
 "id": "hearing-2025-09-09",
 "l0": true,
@@ -221,6 +263,7 @@
 "dateEnd": null,
 "dateStart": "2026",
 "direction": "in",
+"edgeId": "e-b6a656addb",
 "edgeLabel": "MITRE routes the answer back through its sponsoring agencies",
 "id": "mitre-corporation",
 "l0": true,
@@ -242,6 +285,7 @@
 "dateEnd": null,
 "dateStart": "2026",
 "direction": "out",
+"edgeId": "e-86c2ba4a4c",
 "edgeLabel": "Demands production of all MITRE UAP and reverse-engineering records back to 1930",
 "id": "mitre-corporation",
 "l0": true,
@@ -268,6 +312,7 @@
 "dateEnd": null,
 "dateStart": "2026",
 "direction": "out",
+"edgeId": "e-58a94cc465",
 "edgeLabel": "Framed as enforcement of the records identified for public release under the 2026 disclosure push",
 "id": "pursue-releases",
 "l0": true,
@@ -282,27 +327,6 @@
 ],
 "tier": "A",
 "type": "legislative"
-},
-{
-"claimTier": 2,
-"cls": "document",
-"dateEnd": null,
-"dateStart": "2026",
-"direction": "in",
-"edgeLabel": "Published as declared support for the congressional inquiry opened 11 weeks earlier",
-"id": "uap-gerb-mitre-investigation",
-"l0": false,
-"label": "'The MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs'",
-"note": "Burlison's letter is dated 22 May 2026; the investigation was published 7 August 2026 and states it seeks to directly aid that inquiry.",
-"sources": [
-{
-"date": "2026-08-07",
-"name": "UAP Gerb, YouTube",
-"url": "https://www.youtube.com/watch?v=107BtDYhTkA"
-}
-],
-"tier": "C",
-"type": "temporal"
 }
 ],
 "coords": null,
@@ -325,6 +349,7 @@
 },
 "claimTier": 1,
 "denialKind": "directed",
+"edgeId": "e-b6a656addb",
 "label": "MITRE routes the answer back through its sponsoring agencies",
 "note": "A MITRE spokesperson said that if any relevant material is found, 'we will coordinate with the federal agencies responsible for the work' - restating the FAR structure under which disclosure runs to the sponsor, not to Congress.",
 "of": {
@@ -506,12 +531,6 @@
 "id": "far-35-017",
 "label": "FAR 35.017 - Federally Funded Research and Development Centers",
 "tier": "C"
-},
-{
-"cls": "document",
-"id": "uap-gerb-mitre-investigation",
-"label": "'The MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs'",
-"tier": "C"
 }
 ],
 "openQuestions": [],
@@ -546,7 +565,7 @@
 ],
 "sub": "10-page letter; 40+ production requests; records back to 1930",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 69 of 1170, score 73). 10 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A2/D3.",
+"tierRationale": "Re-graded A on a global pass (rank 72 of 1138, score 73). 10 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A2/D3.",
 "timeline": [
 {
 "claimTier": null,

@@ -5,16 +5,19 @@
 "band": null,
 "claims": [
 {
+"id": "c-5cbeb54c42",
 "source": "Annual Historical Review, US Army Intelligence and Security Command, FY 1981, pp. 89 to 90, released 11 September 2018, https://www.governmentattic.org/30docs/USAINSCOMhistoryFY_1981.pdf",
 "text": "The programme's origin and its transfer are both dated in INSCOM's own history. The FY 1981 Annual Historical Review records that 'Project GRILL FLAME originated as a specially controlled and compartmented activity under the direct supervision of the ACSI, DA, and in coordination with other DOD agencies concerned with related activity. ACSI orally tasked HQ INSCOM to evaluate Project GRILL FLAME in October 1978', and that 'On 11 February 1981, ACSI formally transferred the GRILL FLAME program management responsibili[ty] to INSCOM where it was assigned to Detachment G, US Army Operational Group.' The section is partly withheld under 5 U.S.C. 552(b)(1) and (b)(3) and its source note names 'IA(HQ) Form 32, Formalization of Project GRILL FLAME (10 Sep 81) (S/NOFORN)'.",
 "tier": 1
 },
 {
+"id": "c-70e8c67d3c",
 "source": "CIA STARGATE collection description",
 "text": "GRILL FLAME and its successors were classified US government programmes handled primarily by DIA and CIA from the 1970s to 1995, whose documentation CIA compiled and released as the STARGATE collection.",
 "tier": 1
 },
 {
+"id": "c-77e62c85ed",
 "source": "Inference from the documented funding chain (CIA OTS to INSCOM to DIA), the SRI hosting arrangement, and the 1995 forced declassification.",
 "text": "GRILL FLAME establishes the behavioural precedent for the legacy programme thesis: sustained compartmented funding of an officially ridiculed subject, routed through a private research institute, denied until documents forced acknowledgement.",
 "tier": 3
@@ -30,6 +33,7 @@
 "dateEnd": "1983",
 "dateStart": "1983",
 "direction": "out",
+"edgeId": "e-bb8dce4fed",
 "edgeLabel": "CENTER LANE succeeded GRILL FLAME after the codename was compromised",
 "id": "center-lane",
 "l0": false,
@@ -51,6 +55,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-291eb35747",
 "edgeLabel": "GRILL FLAME was INSCOM's entry into the field in 1977",
 "id": "inscom",
 "l0": true,
@@ -72,6 +77,7 @@
 "dateEnd": "1983",
 "dateStart": "1978",
 "direction": "in",
+"edgeId": "e-b891ab203e",
 "edgeLabel": "SRI methodology transferred into the Army/DIA GRILL FLAME programme",
 "id": "sri-international",
 "l0": false,
@@ -142,7 +148,7 @@
 ],
 "sub": "Army INSCOM/DIA remote-viewing program, 1978-1983",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 468 of 1170, score 32). 3 connections, 3 of them custody/funding/programmatic. Axes C0/A3/D2.",
+"tierRationale": "Re-graded B on a global pass (rank 466 of 1138, score 32). 3 connections, 3 of them custody/funding/programmatic. Axes C0/A3/D2.",
 "timeline": [
 {
 "claimTier": null,

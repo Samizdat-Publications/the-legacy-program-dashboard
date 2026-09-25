@@ -5,16 +5,19 @@
 "band": null,
 "claims": [
 {
+"id": "c-8bfbe79510",
 "source": "NewsNation Reality Check episode credits, 4 August 2026 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "text": "Reality Check credits: Host Ross Coulthart; Executive Producer Andy Gipson; Editorial Producer Meagan Medick; Segment Producers Christine Jenkinson and Will Tomasi; Research Producer Rob Jones; Editor Kanyon Lyons.",
 "tier": 2
 },
 {
+"id": "c-04fe7f6939",
 "source": "NewsNation Reality Check chapter summary, 4 August 2026",
 "text": "The 4 August 2026 episode covered Immaculate Constellation, Kona Blue, FFRDCs/UARCs/GOCOs, gatekeeping within the legacy program, alleged directed-energy attacks on whistleblowers, alleged EMP downings of civilian aircraft and 'blue on blue' kinetic strikes.",
 "tier": 2
 },
 {
+"id": "c-e02a27993e",
 "source": "NewsNation, published circa February 2026",
 "text": "NewsNation published a segment titled 'Ross Coulthart on UAP Gerb's claims: I think he's on the money.'",
 "tier": 2
@@ -30,6 +33,7 @@
 "dateEnd": "2026",
 "dateStart": "2026",
 "direction": "out",
+"edgeId": "e-fa12bdfb8c",
 "edgeLabel": "Dedicated segment 'FFRDCs, U-Arcs, and GOCOs' at 17:00",
 "id": "ffrdc-mechanism",
 "l0": false,
@@ -51,6 +55,7 @@
 "dateEnd": "2026",
 "dateStart": "2026",
 "direction": "out",
+"edgeId": "e-f7c7900a76",
 "edgeLabel": "Episode centred on the alleged Lockheed-to-DHS transfer",
 "id": "kona-blue",
 "l0": true,
@@ -72,6 +77,7 @@
 "dateEnd": "2026",
 "dateStart": "2026",
 "direction": "in",
+"edgeId": "e-58e2bc4ee8",
 "edgeLabel": "Credited research producer",
 "id": "rob-jones",
 "l0": false,
@@ -93,6 +99,7 @@
 "dateEnd": "2026",
 "dateStart": "2021",
 "direction": "in",
+"edgeId": "e-30cca1515c",
 "edgeLabel": "Coulthart hosts Reality Check",
 "id": "ross-coulthart",
 "l0": false,
@@ -162,7 +169,7 @@
 ],
 "sub": "Cable network investigative programme",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 986 of 1170, score 16). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 957 of 1138, score 16). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.",
 "timeline": [
 {
 "claimTier": null,

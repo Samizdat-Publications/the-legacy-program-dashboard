@@ -5,16 +5,19 @@
 "band": null,
 "claims": [
 {
+"id": "c-4bba20667e",
 "source": "Library catalogue record — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "text": "'Behind the Flying Saucers' was published by Henry Holt and Company, New York, in 1950 (OCLC 1467735) and became a bestseller.",
 "tier": 2
 },
 {
+"id": "c-51f2cfa20a",
 "source": "Scully, 'Behind the Flying Saucers' (1950)",
 "text": "The book described a craft 99 feet in diameter containing sixteen humanoid bodies, said to have come from Venus and to work on magnetic principles, with every dimension divisible by nine.",
 "tier": 2
 },
 {
+"id": "c-e05f71719f",
 "source": "Comparison of the 1950 text with later witness accounts",
 "text": "Aztec-specific details from this book - heat-proof material, bodies of 36 to 42 inches at about 40 pounds - later appear in supposedly first-hand accounts of unrelated sites, establishing that the crash-retrieval witness pool has been contaminated by published fiction since at least 1950. Reasoning: the details are datable to a single fraudulent 1950 source and post-date it in every account that repeats them.",
 "tier": 3
@@ -30,6 +33,7 @@
 "dateEnd": "1950",
 "dateStart": "1949",
 "direction": "out",
+"edgeId": "e-bc5dfefcba",
 "edgeLabel": "The book is the sole origin of the Aztec claim",
 "id": "aztec-1948",
 "l0": false,
@@ -51,6 +55,7 @@
 "dateEnd": "1950",
 "dateStart": "1950",
 "direction": "in",
+"edgeId": "e-6495b00c3d",
 "edgeLabel": "Wrote the first crashed-saucer book",
 "id": "frank-scully",
 "l0": false,
@@ -106,7 +111,7 @@
 ],
 "sub": "Henry Holt and Company, New York, 1950; the first crashed-saucer book",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 1108 of 1170, score 11). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 1078 of 1138, score 11). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.",
 "timeline": [
 {
 "claimTier": null,

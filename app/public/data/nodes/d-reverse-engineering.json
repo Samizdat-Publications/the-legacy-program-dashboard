@@ -5,16 +5,19 @@
 "band": null,
 "claims": [
 {
+"id": "c-461daa8df0",
 "source": "House Oversight Committee hearing, 26 July 2023",
 "text": "David Grusch testified under oath on 26 July 2023 that a multi-decade reverse-engineering programme exists and that he referred named witnesses to the ICIG and to Congress.",
 "tier": 2
 },
 {
+"id": "c-96458686ee",
 "source": "AARO Historical Record Report Volume I",
 "text": "AARO's Volume I report (February 2024) states that it found no empirical evidence for reverse engineering of extraterrestrial technology by the USG or private companies.",
 "tier": 1
 },
 {
+"id": "c-43e0daeb69",
 "source": "AARO Aluminum Materials Analysis Supplement, document 26-P-0218",
 "text": "AARO's January 2026 Aluminum Materials Analysis Supplement reports that Oak Ridge National Laboratory analysis of a specimen recovered near Flint Ridge, Ohio found it consistent with conventional aluminium-silicon casting alloys, with no radioactive emissions detected.",
 "tier": 1
@@ -30,6 +33,7 @@
 "dateEnd": null,
 "dateStart": "1947-07-01",
 "direction": "in",
+"edgeId": "e-c49642e4c9",
 "edgeLabel": "Exploitation is the programme's purpose",
 "id": "d-legacy",
 "l0": false,
@@ -42,7 +46,7 @@
 "url": "https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf"
 }
 ],
-"tier": "A",
+"tier": "B",
 "type": "programmatic"
 },
 {
@@ -51,6 +55,7 @@
 "dateEnd": null,
 "dateStart": "1947-07-08",
 "direction": "out",
+"edgeId": "e-93f13856ef",
 "edgeLabel": "Exploitation begins with characterisation",
 "id": "d-materials",
 "l0": false,
@@ -127,7 +132,7 @@
 ],
 "sub": "Technical domain - exploitation of a recovered artifact into reproducible engineering",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 320 of 1170, score 38). 2 connections, 1 of them custody/funding/programmatic. Axes C3/A3/D2.",
+"tierRationale": "Re-graded B on a global pass (rank 321 of 1138, score 38). 2 connections, 1 of them custody/funding/programmatic. Axes C3/A3/D2.",
 "timeline": [],
 "unverified": []
 }

@@ -5,21 +5,25 @@
 "band": null,
 "claims": [
 {
+"id": "c-fa16018246",
 "source": "DIA memo U-429-09-DWO-IM, 30 October 2009",
 "text": "'All of the reviews were positive, some exceptionally so' and 'the quality hoped for in the reports was achieved'.",
 "tier": 1
 },
 {
+"id": "c-5d550f3593",
 "source": "DIA memo U-429-09-DWO-IM",
 "text": "Thirteen reviews were conducted on the 26 FY09 reports: eight by other report authors and five by outside reviewers, three of whom were Sandia National Laboratories staff.",
 "tier": 1
 },
 {
+"id": "c-278488f816",
 "source": "DIA memo U-429-09-DWO-IM",
 "text": "The AAWSAP program manager personally reviewed all papers and concurred with the reviewers' assessments.",
 "tier": 1
 },
 {
+"id": "c-11cd5f5659",
 "source": "Inference from comparing the 2009 memo with AARO Historical Record Report Volume 1, p.24",
 "text": "DIA's contemporaneous positive quality finding directly contradicts the retrospective 'lack of merit' framing used in 2024, indicating the merit judgement was applied after the fact for institutional reasons rather than derived from the reviews.",
 "tier": 3
@@ -35,6 +39,7 @@
 "dateEnd": "2024",
 "dateStart": "2009",
 "direction": "in",
+"edgeId": "e-d4f7a49355",
 "edgeLabel": "2024 'lack of merit' contradicts DIA's 2009 quality finding",
 "id": "aaro-historical-record-vol1",
 "l0": true,
@@ -61,6 +66,7 @@
 "dateEnd": "2009",
 "dateStart": "2009",
 "direction": "out",
+"edgeId": "e-babf22fb71",
 "edgeLabel": "formal DIA quality assessment of the 26 FY09 reports",
 "id": "dird-series",
 "l0": true,
@@ -82,6 +88,7 @@
 "dateEnd": "2009",
 "dateStart": "2009",
 "direction": "in",
+"edgeId": "e-7ea004dd8e",
 "edgeLabel": "three Sandia staff among the five outside reviewers",
 "id": "sandia",
 "l0": true,
@@ -143,7 +150,7 @@
 ],
 "sub": "DIA Defense Warning Office memorandum, 30 October 2009",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 627 of 1170, score 27). 3 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 619 of 1138, score 27). 3 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D2.",
 "timeline": [
 {
 "claimTier": null,

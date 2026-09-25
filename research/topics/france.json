@@ -1,0 +1,33 @@
+{
+ "id": "france",
+ "title": "France: GEPAN, SEPRA, GEIPAN and COMETA",
+ "kind": "nation",
+ "section": "other-nations",
+ "span": {
+  "from": "1977",
+  "to": "2026"
+ },
+ "focusEra": "1",
+ "anchors": [
+  "geipan",
+  "gepan",
+  "sepra",
+  "cometa",
+  "doc-cometa-report",
+  "cnes",
+  "claude-poher",
+  "jj-velasco",
+  "bernard-norlain",
+  "denis-letty",
+  "andre-lebeau",
+  "ihedn",
+  "l-toulouse",
+  "l-france",
+  "l-paris"
+ ],
+ "absorbs": [],
+ "essays": [],
+ "status": "draft",
+ "notes": "Start-here flag 13.",
+ "appendixT": "france"
+}

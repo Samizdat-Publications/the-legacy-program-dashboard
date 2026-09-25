@@ -22,16 +22,19 @@
 ],
 "claims": [
 {
+"id": "c-7c9bffae9d",
 "source": "https://solari.com/people/catherine-austin-fitts",
 "text": "Fitts was a managing director and board member of Dillon, Read and Co. Inc. and served as Assistant Secretary of Housing and Federal Housing Commissioner at HUD under President George H. W. Bush.",
 "tier": 2
 },
 {
+"id": "c-8c4ae44b55",
 "source": "https://solari.com/people/catherine-austin-fitts",
 "text": "She founded Hamilton Securities Group and is founder and president of Solari, Inc., publisher of the Solari Report.",
 "tier": 2
 },
 {
+"id": "c-25c2904425",
 "source": "https://missingmoney.solari.com/wp-content/uploads/2018/08/Unsupported_Adjustments_Report_Final_4.pdf",
 "text": "She co-authored the September 2017 Summary Report on Unsupported Journal Voucher Adjustments with Mark Skidmore.",
 "tier": 2
@@ -49,6 +52,7 @@
 "dateEnd": null,
 "dateStart": "2017-09",
 "direction": "out",
+"edgeId": "e-ada7c1a068",
 "edgeLabel": "Co-author; originated the inquiry",
 "id": "skidmore-fitts-report",
 "l0": false,
@@ -70,6 +74,7 @@
 "dateEnd": null,
 "dateStart": "2000",
 "direction": "out",
+"edgeId": "e-587347e0ce",
 "edgeLabel": "Founder and president",
 "id": "solari",
 "l0": false,
@@ -136,7 +141,7 @@
 "status": "active",
 "sub": "Former Assistant Secretary of Housing and Federal Housing Commissioner, HUD; founder, Solari Inc.",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 942 of 1170, score 17). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 917 of 1138, score 17). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": [

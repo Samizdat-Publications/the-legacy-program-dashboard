@@ -5,16 +5,19 @@
 "band": null,
 "claims": [
 {
+"id": "c-97d1751a65",
 "source": "Los Alamos National Laboratory, 18 November 2024",
 "text": "A conference was organised at Los Alamos on 16 February 1949 attended by Norris Bradbury, Frederick Reines and Edward Teller with FBI, AEC and US military representatives; the National Security Research Center holds the conference minutes.",
 "tier": 1
 },
 {
+"id": "c-847fdb2ce5",
 "source": "Los Alamos National Laboratory, 18 November 2024",
 "text": "The conference ultimately dismissed the notion that the green fireballs were a significant national security threat.",
 "tier": 1
 },
 {
+"id": "c-d9613a8e53",
 "source": "Contemporaneous Air Force records; FBI file 62-HQ-83894 material released in the Department of War PURSUE Release 01",
 "text": "In December 1949 Project Twinkle, a network of green fireball observation and photographic stations, was established but never fully implemented.",
 "tier": 2
@@ -30,6 +33,7 @@
 "dateEnd": null,
 "dateStart": "1949-02",
 "direction": "in",
+"edgeId": "e-73424ce707",
 "edgeLabel": "AEC laboratories convened the February 1949 green fireball conference",
 "id": "doe",
 "l0": true,
@@ -51,6 +55,7 @@
 "dateEnd": "1949",
 "dateStart": "1949",
 "direction": "in",
+"edgeId": "e-a774f56a07",
 "edgeLabel": "Attended the 16 February 1949 conference",
 "id": "edward-teller",
 "l0": false,
@@ -72,6 +77,7 @@
 "dateEnd": "1949-02-16",
 "dateStart": "1949-02-16",
 "direction": "out",
+"edgeId": "e-bf6a67e3cf",
 "edgeLabel": "The green fireballs conference was convened at Los Alamos",
 "id": "l-los-alamos",
 "l0": false,
@@ -93,9 +99,10 @@
 "dateEnd": null,
 "dateStart": "1949",
 "direction": "out",
+"edgeId": "e-f62c16bd70",
 "edgeLabel": "Held at Los Alamos; LANL's National Security Research Center holds the minutes",
 "id": "lanl",
-"l0": false,
+"l0": true,
 "label": "Los Alamos National Laboratory",
 "note": "LANL confirms the 16 February 1949 conference and its custody of the minutes in its own published account.",
 "sources": [
@@ -114,6 +121,7 @@
 "dateEnd": "1949",
 "dateStart": "1949",
 "direction": "in",
+"edgeId": "e-99e10f0db9",
 "edgeLabel": "Brought in by Kirtland intelligence officers; his assessment drove the conference",
 "id": "lincoln-lapaz",
 "l0": false,
@@ -180,7 +188,7 @@
 ],
 "sub": "16 February 1949, Los Alamos Scientific Laboratory, New Mexico",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 429 of 1170, score 33). 5 connections, 2 of them custody/funding/programmatic. Axes C1/A2/D2.",
+"tierRationale": "Re-graded B on a global pass (rank 429 of 1138, score 33). 5 connections, 2 of them custody/funding/programmatic. Axes C1/A2/D2.",
 "timeline": [
 {
 "claimTier": null,

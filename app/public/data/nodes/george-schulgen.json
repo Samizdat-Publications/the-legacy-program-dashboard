@@ -26,21 +26,25 @@
 ],
 "claims": [
 {
+"id": "c-afceed90c3",
 "source": "Schulgen, 'Intelligence Requirements on Flying Saucer Type Aircraft', draft collection memorandum, 28 Oct 1947 (distributed 30 Oct 1947)",
 "text": "Schulgen's collection memorandum instructed collectors to report on disc-type craft with 'extreme maneuverability and apparent ability to almost hover' and construction achieving 'extreme light weight.'",
 "tier": 1
 },
 {
+"id": "c-25d7f36cff",
 "source": "Same document, propulsion section",
 "text": "The memorandum lists 'Nuclear propulsion (atomic energy)' among the propulsion systems collectors were to investigate.",
 "tier": 1
 },
 {
+"id": "c-50bad079a1",
 "source": "Same document, design origins section",
 "text": "The stated working hypothesis was Soviet exploitation of German Horten brothers designs, and collectors were asked to establish the Hortens' current whereabouts.",
 "tier": 1
 },
 {
+"id": "c-5ef4eff635",
 "source": "Inference from the collection requirements text",
 "text": "Asking field collectors about atomic propulsion in October 1947 is not consistent with a genuine belief that the objects were Soviet flying wings; it is consistent with an internal assessment that the performance envelope exceeded any known airframe.",
 "tier": 3
@@ -58,6 +62,7 @@
 "dateEnd": "1947",
 "dateStart": "1947",
 "direction": "out",
+"edgeId": "e-f1ca115ef0",
 "edgeLabel": "Schulgen signed the flying saucer collection requirement",
 "id": "schulgen-memo",
 "l0": false,
@@ -79,6 +84,7 @@
 "dateEnd": "1947",
 "dateStart": "1947",
 "direction": "in",
+"edgeId": "e-35e75ed88f",
 "edgeLabel": "Addressed to Schulgen at Air Force intelligence requirements",
 "id": "twining-memo",
 "l0": false,
@@ -146,7 +152,7 @@
 "status": "dead",
 "sub": "Chief, Air Intelligence Requirements Division",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 618 of 1170, score 27). 2 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D1.",
+"tierRationale": "Re-graded C on a global pass (rank 611 of 1138, score 27). 2 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D1.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": []

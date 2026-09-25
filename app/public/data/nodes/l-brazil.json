@@ -5,6 +5,7 @@
 "band": null,
 "claims": [
 {
+"id": "c-6d819b52c1",
 "source": "Board bookkeeping",
 "text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
 "tier": 3
@@ -20,6 +21,7 @@
 "dateEnd": "1986-05-19",
 "dateStart": "1986-05-19",
 "direction": "out",
+"edgeId": "e-3a69cf08ed",
 "edgeLabel": "The 1986 engagement ranged across four Brazilian states",
 "id": "ev-noite-ovnis-1986",
 "l0": false,
@@ -56,6 +58,7 @@
 "dateEnd": null,
 "dateStart": "1941",
 "direction": "out",
+"edgeId": "e-a61a3386ee",
 "edgeLabel": "The Força Aérea Brasileira is the air arm of the Brazilian state",
 "id": "fab",
 "l0": true,
@@ -87,6 +90,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-e0da3a94fc",
 "edgeLabel": "Brasília is the federal capital of Brazil",
 "id": "l-brasilia",
 "l0": false,
@@ -123,6 +127,7 @@
 "dateEnd": "1978",
 "dateStart": "1977-10-20",
 "direction": "out",
+"edgeId": "e-54a3ebc48d",
 "edgeLabel": "Operação Prato was run on Colares, Pará, in northern Brazil",
 "id": "operacao-prato",
 "l0": true,
@@ -192,7 +197,7 @@
 ],
 "sub": "Sovereign state; military UFO files transferred to the national archive",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 802 of 1170, score 22). 4 connections, 0 of them custody/funding/programmatic. Axes C2/A1/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 784 of 1138, score 22). 4 connections, 0 of them custody/funding/programmatic. Axes C2/A1/D3.",
 "timeline": [],
 "unverified": []
 }

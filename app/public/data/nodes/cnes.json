@@ -5,16 +5,19 @@
 "band": null,
 "claims": [
 {
+"id": "c-b96f376701",
 "source": "COMETA report, Norlain preface, 1999 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "text": "Norlain: the IHEDN Auditors Association's first report 'favored the creation within CNES of the only civilian government agency known in the world dedicated to the study of UFOs'.",
 "tier": 2
 },
 {
+"id": "c-5bd260b49c",
 "source": "Wikipedia, 'COMETA report', citing Sillard et al. (2007)",
 "text": "Yves Sillard, former CNES director general, edited Phénomènes aérospatiaux non identifiés: un défi pour la science (Le Cherche Midi, 2007) with Jacques Arnould, Pierre Marx, François Parmentier, Jacques Patenet, Dominique Weinstein and Jean-Claude Ribes.",
 "tier": 2
 },
 {
+"id": "c-7c1145b5a1",
 "source": "Wikipedia, 'GEIPAN'",
 "text": "'In March 2007, GEIPAN started to make its archives available online to the public.'",
 "tier": 2
@@ -30,6 +33,7 @@
 "dateEnd": null,
 "dateStart": "1977",
 "direction": "out",
+"edgeId": "e-1655a305b0",
 "edgeLabel": "GEIPAN is a unit of CNES at Toulouse",
 "id": "geipan",
 "l0": true,
@@ -90,7 +94,7 @@
 ],
 "sub": "French national space agency; host of GEPAN, SEPRA and GEIPAN since 1977",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 861 of 1170, score 20). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 842 of 1138, score 20). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D3.",
 "timeline": [],
 "unverified": []
 }

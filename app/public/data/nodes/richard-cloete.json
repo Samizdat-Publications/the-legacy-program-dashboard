@@ -22,11 +22,13 @@
 ],
 "claims": [
 {
+"id": "c-a7b5740dba",
 "source": "JAI, DOI 10.1142/S2251171723400081",
 "text": "Cloete is lead author of 'Integrated Computing Platform for Detection and Tracking of Unidentified Aerial Phenomena (UAP)', Journal of Astronomical Instrumentation (2023).",
 "tier": 1
 },
 {
+"id": "c-98b2e46a28",
 "source": "Avi Loeb, Medium, 29 June 2026; Skeptics Society, 15 June 2026",
 "text": "Cloete was named to the UAP Science Advisory Council with responsibility for data analysis and AI tools.",
 "tier": 2
@@ -42,6 +44,7 @@
 "dateEnd": null,
 "dateStart": "2023",
 "direction": "out",
+"edgeId": "e-f158da06a7",
 "edgeLabel": "Lead author of the project's detection and tracking computing platform",
 "id": "galileo-project",
 "l0": true,
@@ -63,6 +66,7 @@
 "dateEnd": null,
 "dateStart": "2026",
 "direction": "out",
+"edgeId": "e-9240195937",
 "edgeLabel": "Named for data analysis and AI tools",
 "id": "uap-science-advisory-council",
 "l0": true,
@@ -134,7 +138,7 @@
 "status": "active",
 "sub": "Computational scientist, The Galileo Project, Harvard University; lead author on the project's detection and tracking computing platform; member, UAP Science Advisory Council (2026)",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 1020 of 1170, score 14). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 990 of 1138, score 14). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": []

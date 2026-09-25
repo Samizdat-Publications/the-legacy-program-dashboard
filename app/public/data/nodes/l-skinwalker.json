@@ -5,51 +5,61 @@
 "band": null,
 "claims": [
 {
+"id": "c-67f4fe3c36",
 "source": "AARO Historical Record Report Volume 1, 8 March 2024, p.23",
 "text": "'AAWSAP/AATIP also investigated an alleged hotspot of UAP and paranormal activity at a property in Utah — which at that time was owned by the head of the private sector organization.'",
 "tier": 1
 },
 {
+"id": "c-3f7a7dcc16",
 "source": "BAASS Ten Month Report (2009)",
 "text": "The BAASS Ten Month Report describes the Utah property as operating under 24/7 surveillance with rapid-response patrols as part of the DIA-funded effort.",
 "tier": 2
 },
 {
+"id": "c-94f3c4edf1",
 "source": "DIA FOIA response, reported March 2022",
 "text": "DIA could locate no records matching the report 'Utah Ranch Investigation: August 2009-February 2010'.",
 "tier": 1
 },
 {
+"id": "c-ffaffe998c",
 "source": "Inference from the AARO admission read against the appropriations route",
 "text": "Federal funds being spent on continuous instrumented monitoring of a property owned by the prime contractor's principal is a contracting-integrity problem that no oversight body has ever examined, because no oversight body knew the program existed until 2018.",
 "tier": 3
 },
 {
+"id": "c-5fe0e2bd52",
 "source": "Zack Van Eyck, Deseret News, 10 Aug 1998; property records, Uintah County",
 "text": "The property is a 480-acre parcel in Uintah County, Utah, purchased by Bigelow in 1996 from Terry and Gwen Sherman, who as a condition of sale agreed to keep quiet about what they had witnessed.",
 "tier": 1
 },
 {
+"id": "c-fafed52295",
 "source": "Deseret News, 30 June 1996 and 10 Aug 1998; The New Yorker, 10 May 2021",
 "text": "Bigelow moved in a research team and surveillance equipment immediately after the purchase and retained the ranch after closing NIDS in 2004.",
 "tier": 2
 },
 {
+"id": "c-31357c5dc3",
 "source": "Wikipedia, Skinwalker Ranch, citing property and press records — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "text": "The ranch is approximately 512 acres in Uintah County, Utah; Bigelow purchased it for $200,000 in 1996 and sold it for approximately $500,000 in 2016 to Brandon Fugal, who announced ownership in March 2020 via Adamantium Real Estate LLC.",
 "tier": 2
 },
 {
+"id": "c-e0c130514e",
 "source": "Wikipedia, Skinwalker Ranch, citing Reid's and Lacatski's accounts",
 "text": "DIA official James Lacatski contacted Bigelow after reading 'Hunt for the Skinwalker' and reported an experience at the ranch; Bigelow relayed this to Sen. Harry Reid, and Reid and Sen. Ted Stevens subsequently secured approximately $22 million in Defense appropriations to study unidentified aerial phenomena.",
 "tier": 2
 },
 {
+"id": "c-d85b2e59e5",
 "source": "George Knapp, written testimony, House Oversight Task Force, 9 September 2025",
 "text": "BAASS recruited about 50 full-time investigators with top secret clearances, operated for 27 months, generated more than three dozen preliminary reports and over 100 detailed research papers, and built a data warehouse of over 240,000 UFO case files designed by Jacques Vallee that reportedly remains in use by US agencies; most of the research papers remain unreleased by DIA.",
 "tier": 2
 },
 {
+"id": "c-e5b822008a",
 "source": "Wikipedia, Skinwalker Ranch",
 "text": "NIDS investigators including retired Army Col. John B. Alexander examined close to 100 incidents at the ranch but acknowledged difficulty obtaining evidence consistent with scientific publication.",
 "tier": 2
@@ -65,6 +75,7 @@
 "dateEnd": "2010",
 "dateStart": "2008",
 "direction": "in",
+"edgeId": "e-6323f13b38",
 "edgeLabel": "The AAWSAP appropriation followed the Lacatski visit to the ranch",
 "id": "aawsap",
 "l0": true,
@@ -91,6 +102,7 @@
 "dateEnd": "2012",
 "dateStart": "2008",
 "direction": "in",
+"edgeId": "e-17a82ee80b",
 "edgeLabel": "funded field investigation of the Utah site",
 "id": "aawsap",
 "l0": true,
@@ -117,6 +129,7 @@
 "dateEnd": "2012",
 "dateStart": "1996",
 "direction": "in",
+"edgeId": "e-5a9e7460ae",
 "edgeLabel": "led both the NIDS and BAASS science teams on the ranch",
 "id": "colm-kelleher",
 "l0": false,
@@ -138,6 +151,7 @@
 "dateEnd": "2008",
 "dateStart": "2007",
 "direction": "in",
+"edgeId": "e-6fa87d8fea",
 "edgeLabel": "Lacatski's visit is the documented link from the ranch to DIA",
 "id": "james-lacatski",
 "l0": false,
@@ -159,6 +173,7 @@
 "dateEnd": null,
 "dateStart": "1970",
 "direction": "out",
+"edgeId": "e-eb4efc2c30",
 "edgeLabel": "The ranch sits inside the Uintah Basin reporting region",
 "id": "l-utah",
 "l0": false,
@@ -180,6 +195,7 @@
 "dateEnd": "2004",
 "dateStart": "1996",
 "direction": "in",
+"edgeId": "e-933c22c1b1",
 "edgeLabel": "NIDS operated a permanently instrumented field station at the ranch",
 "id": "nids",
 "l0": true,
@@ -206,6 +222,7 @@
 "dateEnd": "2004",
 "dateStart": "1996",
 "direction": "in",
+"edgeId": "e-83150b3c84",
 "edgeLabel": "NIDS ran the field investigation at the ranch under Bigelow",
 "id": "nids",
 "l0": true,
@@ -227,6 +244,7 @@
 "dateEnd": "2016",
 "dateStart": "1996",
 "direction": "in",
+"edgeId": "e-c1faaa03ae",
 "edgeLabel": "purchased the ranch in 1996 and owned it throughout the DIA contract",
 "id": "robert-bigelow",
 "l0": false,
@@ -263,6 +281,7 @@
 "dateEnd": "2022",
 "dateStart": "2020",
 "direction": "in",
+"edgeId": "e-f6e9c83206",
 "edgeLabel": "Led instrumented field investigation at Skinwalker Ranch while serving as UAPTF chief scientist",
 "id": "travis-taylor",
 "l0": false,
@@ -364,7 +383,7 @@
 ],
 "sub": "512-acre property; NIDS 1996-2004 and AAWSAP field site 2008-2012",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 93 of 1170, score 65). 9 connections, 4 of them custody/funding/programmatic. Axes C3/A2/D2.",
+"tierRationale": "Re-graded A on a global pass (rank 96 of 1138, score 65). 9 connections, 4 of them custody/funding/programmatic. Axes C3/A2/D2.",
 "timeline": [
 {
 "claimTier": null,

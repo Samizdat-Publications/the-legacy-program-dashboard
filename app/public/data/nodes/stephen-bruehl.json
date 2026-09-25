@@ -28,11 +28,13 @@
 ],
 "claims": [
 {
+"id": "c-d458986254",
 "source": "Scientific Reports, DOI 10.1038/s41598-025-21620-3",
 "text": "Bruehl is lead author, with Beatriz Villarroel, of 'Transients in the Palomar Observatory Sky Survey (POSS-I) may be associated with nuclear testing and reports of unidentified anomalous phenomena', Scientific Reports, 20 October 2025.",
 "tier": 1
 },
 {
+"id": "c-49fb5f331d",
 "source": "SCU, Zenodo DOI 10.5281/zenodo.16650011",
 "text": "Bruehl published 'Cluster Analysis of Features Associated with Unidentified Anomalous Phenomena Described in 216 Select Reports from 1947-' through SCU on 31 July 2025.",
 "tier": 1
@@ -48,6 +50,7 @@
 "dateEnd": null,
 "dateStart": "2025",
 "direction": "in",
+"edgeId": "e-c4c31c91c2",
 "edgeLabel": "Co-authors on the 2025 Scientific Reports result",
 "id": "beatriz-villarroel",
 "l0": false,
@@ -69,6 +72,7 @@
 "dateEnd": null,
 "dateStart": "2025",
 "direction": "out",
+"edgeId": "e-b73290e58d",
 "edgeLabel": "Lead author of the POSS-I / nuclear testing association",
 "id": "paper-villarroel-bruehl-2025",
 "l0": false,
@@ -132,7 +136,7 @@
 "status": "active",
 "sub": "Professor of Anesthesiology, Vanderbilt University Medical Center; lead author of the 2025 Scientific Reports POSS-I transients and nuclear testing paper; SCU cluster-analysis author",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 1119 of 1170, score 10). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D1.",
+"tierRationale": "Re-graded C on a global pass (rank 1089 of 1138, score 10). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D1.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": []

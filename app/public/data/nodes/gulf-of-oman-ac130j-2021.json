@@ -5,16 +5,19 @@
 "band": null,
 "claims": [
 {
+"id": "c-ada9eb8931",
 "source": "EarthSky, 10 August 2026, on PURSUE Release 05",
 "text": "Six videos from an AC-130J gunship and intelligence report DOW-UAP-D101 document approximately 25 instances of UAP over the Gulf of Oman on 8 September 2021.",
 "tier": 2
 },
 {
+"id": "c-14b3e42d63",
 "source": "EarthSky, 10 August 2026, summarising DOW-UAP-D101",
 "text": "The objects are described as cold orbs approximately four feet in diameter flying at lower altitudes between 250 and 1,300 mph, reportedly reacting to the aircraft's cannon fire.",
 "tier": 2
 },
 {
+"id": "c-af2ac85d7f",
 "source": "Inference from the incident date against the reporting periods and contents of the FY2023 and FY2024 Consolidated Annual Reports",
 "text": "A 2021 multi-object gunship engagement with recorded object reaction to cannon fire falls inside the FY2023 and FY2024 AARO reporting periods and appears in neither, which is either a reporting omission or evidence the incident was held outside AARO's case system.",
 "tier": 3
@@ -30,6 +33,7 @@
 "dateEnd": "2026",
 "dateStart": "2021",
 "direction": "out",
+"edgeId": "e-2d3693a5d0",
 "edgeLabel": "A 2021 gunship engagement absent from the reporting periods that cover it",
 "id": "aaro-fy2024-annual-report",
 "l0": true,
@@ -61,6 +65,7 @@
 "dateEnd": "2026-08-07",
 "dateStart": "2021-09-08",
 "direction": "in",
+"edgeId": "e-5f87e46c8a",
 "edgeLabel": "two documented US weapons engagements of unidentified objects",
 "id": "mq9-yemen-hellfire-video-2024",
 "l0": false,
@@ -87,6 +92,7 @@
 "dateEnd": null,
 "dateStart": "2026-08-07",
 "direction": "in",
+"edgeId": "e-0d7d12e17d",
 "edgeLabel": "published the engagement record",
 "id": "pursue-r05-identifiers",
 "l0": false,
@@ -108,6 +114,7 @@
 "dateEnd": "2026",
 "dateStart": "2026",
 "direction": "in",
+"edgeId": "e-2cf2601aea",
 "edgeLabel": "Released the AC-130J gunship videos and DOW-UAP-D101",
 "id": "pursue-release-05",
 "l0": false,
@@ -149,6 +156,7 @@
 },
 "claimTier": 3,
 "denialKind": "directed",
+"edgeId": "e-2d3693a5d0",
 "label": "A 2021 gunship engagement absent from the reporting periods that cover it",
 "note": "The 8 September 2021 incident falls inside the FY2023 and FY2024 reporting windows and appears in neither, which is either omission or evidence it sat outside AARO's case system.",
 "of": {
@@ -234,7 +242,7 @@
 ],
 "sub": "Six videos and DOW-UAP-D101; released in PURSUE Release 05",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 319 of 1170, score 38). 4 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 320 of 1138, score 38). 4 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D3.",
 "timeline": [],
 "unverified": []
 }

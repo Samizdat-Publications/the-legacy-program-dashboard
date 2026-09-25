@@ -136,76 +136,91 @@
 ],
 "claims": [
 {
+"id": "c-87563e169e",
 "source": "CHRG-119hhrg61718, statement of Rep. Burchett",
 "text": "Stated on the record at the 9 September 2025 hearing that he had 'recently introduced the UAP Whistleblower Protection Act to help provide whistleblower protection to Federal personnel for disclosing the use of Federal taxpayer funds to investigate UFOs.'",
 "tier": 2
 },
 {
+"id": "c-2be28349d4",
 "source": "docs.house.gov EventID 116282 document list",
 "text": "Submitted for the record of the 26 July 2023 hearing the Defense Intelligence Reference Document 'Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering', Jeremy Corbell's report 'The UAP Puzzle', and a statement for the record by George Knapp; all are filed under docs.house.gov event 116282.",
 "tier": 1
 },
 {
+"id": "c-f8dc04ddbb",
 "source": "Rep. Tim Burchett, opening statement, House Oversight National Security subcommittee hearing, 26 July 2023, GPO transcript CHRG-118hhrg53022",
 "text": "'We were even denied access to a classified briefing in a SCIF prior to this hearing due to the amount of hoops that we had to jump through to grant temporary clearance to witness Grusch.'",
 "tier": 1
 },
 {
+"id": "c-887cc0b97f",
 "source": "CHRG-118hhrg53022, 26 July 2023",
 "text": "'Maybe in a - if we could get in a confidential area, a SCIF, we could talk about that. But unfortunately, we were denied access to the SCIF and that is very unfortunate in this scenario.' - said immediately after asking Grusch whether anyone had been murdered.",
 "tier": 1
 },
 {
+"id": "c-b3ab8484d3",
 "source": "Congress.gov bill records, 118th and 119th Congresses",
 "text": "Sponsor of H.R. 8424 and H.R. 1187 (UAP Transparency Act) and H.R. 10111 and H.R. 5060 (UAP Whistleblower Protection Act); none has advanced beyond referral.",
 "tier": 1
 },
 {
+"id": "c-a3e09a908a",
 "source": "Rep. Burchett press release, 22 Aug 2023, reported by The Hill 12 Jan 2024 and 12 Mar 2024",
 "text": "Founded the bipartisan Congressional UAP Caucus in August 2023 and led a caucus letter to the ICIG about UAP retrieval programs.",
 "tier": 2
 },
 {
+"id": "c-699ae8fa76",
 "source": "The Hill, 12 January 2024",
 "text": "'It's very compartmentalized; it's like looking down the barrel of a .22 rifle. All they know is just right in that little circle. Now it's just whack-a-mole.' - after the 12 Jan 2024 ICIG briefing.",
 "tier": 2
 },
 {
+"id": "c-11223cc38b",
 "source": "Rep. Burchett, quoted by The Hill/NewsNation, 16 May 2026",
 "text": "'You have to imagine Oak Ridge National Laboratory, the Manhattan Project, thousands of people working on the atomic bomb and less than 12 knew what it was.' - on how DoD silos UAP information from Congress.",
 "tier": 2
 },
 {
+"id": "c-106b928733",
 "source": "House Oversight hearing transcript, 26 July 2023",
 "text": "Elicited under oath that Grusch has personal knowledge of people harmed or injured in efforts to conceal the technology, and that Grusch directed people with knowledge of deaths to the appropriate authorities.",
 "tier": 1
 },
 {
+"id": "c-f61c0335d0",
 "source": "House Oversight hearing transcript, 26 July 2023",
 "text": "Stated on the record at the hearing that members were denied access to a SCIF, limiting what Grusch could say.",
 "tier": 1
 },
 {
+"id": "c-bd988d2785",
 "source": "CHRG-119hhrg61718, 9 September 2025",
 "text": "Burchett: 'who are the contractors that have this material, the corporations?' Knapp: 'Well, one of them is Lockheed... There is a list I can give you, Congressman.'",
 "tier": 1
 },
 {
+"id": "c-7b4d501c44",
 "source": "Liberation Times, 14 April 2026",
 "text": "Burchett said he had urged President Trump to release UAP files and had been briefed on 'wild things' Americans need to know.",
 "tier": 2
 },
 {
+"id": "c-df8fac04d8",
 "source": "H.R. 8197, 119th Congress; Newsweek, 8 April 2026; Political Saucer analysis of the bill text",
 "text": "Burchett introduced H.R. 8197 on 6 April 2026, a four-page bill to abolish AARO, bar any successor entity, and redistribute its functions to the military departments; referred to HASC and HPSCI.",
 "tier": 1
 },
 {
+"id": "c-79f48e7b0e",
 "source": "Congress.gov, H.R. 5060, 119th Congress",
 "text": "Burchett introduced H.R. 5060, the UAP Whistleblower Protection Act, in the 119th Congress.",
 "tier": 1
 },
 {
+"id": "c-615595731a",
 "source": "Burchett to Newsmax, 1 April 2026, as reported by Newsweek 8 April 2026",
 "text": "Burchett said publicly on 1 April 2026 that he had been briefed roughly two weeks earlier on an issue that 'would've set the earth on - this country would've come unglued.'",
 "tier": 2
@@ -221,6 +236,7 @@
 "dateEnd": "2026",
 "dateStart": "2026",
 "direction": "out",
+"edgeId": "e-4b6abdfd74",
 "edgeLabel": "Said an Area 51 tour would yield a T-shirt because the government would move everything else",
 "id": "capitol-disclosure-event-2026-06-09",
 "l0": false,
@@ -247,6 +263,7 @@
 "dateEnd": null,
 "dateStart": "2023",
 "direction": "out",
+"edgeId": "e-18f061e431",
 "edgeLabel": "Founded the caucus in August 2023 and led its letter to the ICIG",
 "id": "congressional-uap-caucus",
 "l0": true,
@@ -273,6 +290,7 @@
 "dateEnd": null,
 "dateStart": "2023",
 "direction": "out",
+"edgeId": "e-992a359d62",
 "edgeLabel": "Elicited the harm, injury and murder answers; recorded the SCIF denial",
 "id": "david-grusch",
 "l0": false,
@@ -294,6 +312,7 @@
 "dateEnd": null,
 "dateStart": "2023",
 "direction": "in",
+"edgeId": "e-44433b7e5b",
 "edgeLabel": "Denied members SCIF access to Grusch before the founding hearing",
 "id": "dod",
 "l0": true,
@@ -315,6 +334,7 @@
 "dateEnd": "2025",
 "dateStart": "2025",
 "direction": "out",
+"edgeId": "e-c6a8dbdf80",
 "edgeLabel": "Burchett asked Knapp to name the corporations; Knapp named Lockheed and offered a list",
 "id": "george-knapp",
 "l0": false,
@@ -336,6 +356,7 @@
 "dateEnd": null,
 "dateStart": "2023",
 "direction": "out",
+"edgeId": "e-e5830448a8",
 "edgeLabel": "Drove the hearing into existence; opened by disclosing the denied SCIF access",
 "id": "hearing-2023-07-26",
 "l0": true,
@@ -357,6 +378,7 @@
 "dateEnd": "2024",
 "dateStart": "2024",
 "direction": "out",
+"edgeId": "e-e40cabd8ed",
 "edgeLabel": "Elicited Elizondo's corroboration of Grusch under oath",
 "id": "hearing-2024-11-13",
 "l0": true,
@@ -378,6 +400,7 @@
 "dateEnd": null,
 "dateStart": "2024",
 "direction": "out",
+"edgeId": "e-dbaee75587",
 "edgeLabel": "Sponsor",
 "id": "hr-10111-uap-whistleblower-protection-act",
 "l0": false,
@@ -399,6 +422,7 @@
 "dateEnd": null,
 "dateStart": "2025",
 "direction": "out",
+"edgeId": "e-d592e7b5fc",
 "edgeLabel": "Sponsor",
 "id": "hr-1187-uap-transparency-act",
 "l0": false,
@@ -420,12 +444,23 @@
 "dateEnd": null,
 "dateStart": "2025",
 "direction": "out",
-"edgeLabel": "sponsor of the UAP Whistleblower Protection Act",
-"id": "hr-5060",
+"edgeId": "e-88d8177da1",
+"edgeLabel": "Sponsor of the reintroduced bill",
+"id": "hr-5060-uap-whistleblower-protection-act",
 "l0": false,
 "label": "H.R. 5060 - UAP Whistleblower Protection Act (119th Congress)",
 "note": "H.R. 5060 in the 119th Congress, reintroducing H.R. 10111 from the 118th.",
 "sources": [
+{
+"date": "2025-08-29",
+"name": "Congress.gov, H.R. 5060 — UAP Whistleblower Protection Act (119th Congress)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/5060"
+},
+{
+"date": "2025-09-08",
+"name": "MeriTalk: Reps. Reintroduce UAP Whistleblower Protection Bill",
+"url": "https://www.meritalk.com/articles/reps-reintroduce-uap-whistleblower-protection-bill/"
+},
 {
 "date": "2025-08-28",
 "name": "Congress.gov - H.R.5060",
@@ -439,34 +474,9 @@
 "claimTier": 1,
 "cls": "legislation",
 "dateEnd": null,
-"dateStart": "2025",
-"direction": "out",
-"edgeLabel": "Sponsor of the reintroduced bill",
-"id": "hr-5060-uap-whistleblower-protection-act",
-"l0": false,
-"label": "H.R. 5060 - UAP Whistleblower Protection Act (119th Congress)",
-"note": "Introduced 29 August 2025, eleven days before the Task Force hearing.",
-"sources": [
-{
-"date": "2025-08-29",
-"name": "Congress.gov, H.R. 5060 — UAP Whistleblower Protection Act (119th Congress)",
-"url": "https://www.congress.gov/bill/119th-congress/house-bill/5060"
-},
-{
-"date": "2025-09-08",
-"name": "MeriTalk: Reps. Reintroduce UAP Whistleblower Protection Bill",
-"url": "https://www.meritalk.com/articles/reps-reintroduce-uap-whistleblower-protection-bill/"
-}
-],
-"tier": "C",
-"type": "legislative"
-},
-{
-"claimTier": 1,
-"cls": "legislation",
-"dateEnd": null,
 "dateStart": "2026",
 "direction": "out",
+"edgeId": "e-4e180b7f13",
 "edgeLabel": "introduced the bill to abolish AARO, 6 April 2026",
 "id": "hr-8197",
 "l0": false,
@@ -488,6 +498,7 @@
 "dateEnd": "2025",
 "dateStart": "2024",
 "direction": "out",
+"edgeId": "e-66fdbfec24",
 "edgeLabel": "Sponsor of the 118th Congress predecessor",
 "id": "hr-8424-uap-transparency-act",
 "l0": false,
@@ -509,6 +520,7 @@
 "dateEnd": null,
 "dateStart": "2024",
 "direction": "out",
+"edgeId": "e-d0fa06a92e",
 "edgeLabel": "Distributed the document to every member on the dais and moved to enter it",
 "id": "immaculate-constellation-12-page-report",
 "l0": true,
@@ -530,6 +542,7 @@
 "dateEnd": null,
 "dateStart": "2023",
 "direction": "out",
+"edgeId": "e-1904dfd6f1",
 "edgeLabel": "Accompanied Gaetz to Eglin on the protected disclosure",
 "id": "l-eglin",
 "l0": false,
@@ -556,6 +569,7 @@
 "dateEnd": null,
 "dateStart": "2023",
 "direction": "out",
+"edgeId": "e-5e8fb8dce7",
 "edgeLabel": "Led the earlier select committee effort under Speaker McCarthy",
 "id": "uap-select-committee-proposal",
 "l0": false,
@@ -575,7 +589,7 @@
 "date": "2023-07-26",
 "dateEnd": null,
 "dateStart": "2023-07-26",
-"deg": 16,
+"deg": 15,
 "denials": [
 {
 "a": {
@@ -592,6 +606,7 @@
 },
 "claimTier": 1,
 "denialKind": "directed",
+"edgeId": "e-44433b7e5b",
 "label": "Denied members SCIF access to Grusch before the founding hearing",
 "note": "Burchett's opening statement: members 'were even denied access to a classified briefing in a SCIF prior to this hearing due to the amount of hoops that we had to jump through to grant temporary clearance to witness Grusch.'",
 "of": {
@@ -755,7 +770,7 @@
 "status": "active",
 "sub": "U.S. Rep. (R-TN-2); House Oversight; founder, Congressional UAP Caucus",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 86 of 1170, score 68). 16 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D3.",
+"tierRationale": "Re-graded A on a global pass (rank 92 of 1138, score 67). 15 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D3.",
 "timeline": [
 {
 "claimTier": null,

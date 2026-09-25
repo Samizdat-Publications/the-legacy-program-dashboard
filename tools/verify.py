@@ -2131,7 +2131,9 @@ def _claims_placed(b):
                 k = _claim_key(t)
                 if k in have.get(to, ()) or (i, k) in listed:
                     continue
-                if any(r.get("id") == to and t.startswith(r.get("claim") or "\0")
+                # a removeClaims rule may name the survivor or, for a claim that
+                # only made sense on a duplicate (phase 4), the collapsed id itself
+                if any(r.get("id") in (to, i) and t.startswith(r.get("claim") or "\0")
                        for r in removed):
                     continue
                 bad.append(f"{slug}: {i}" + (f" (-> {to})" if to != i else "") +
@@ -2175,6 +2177,399 @@ def _no_rejects(b):
             for r in rej][:40]
 
 
+# ---------------------------------------------------------------------------
+# redesign phase 4: stable ids, and the aliases that entity resolution added
+# ---------------------------------------------------------------------------
+
+from merge import claim_id as _claim_id, edge_id as _edge_id  # noqa: E402
+
+APP_DATA = os.path.join(ROOT, "app", "public", "data")
+_CLAIM_ID = re.compile(r"^c-[0-9a-f]{10}$")
+_EDGE_ID = re.compile(r"^e-[0-9a-f]{10}$")
+_APP_IDS_OVERRIDE = None
+
+
+def _app_id_rows():
+    """(claims.json rows, edges.json rows) as the app ships them, or None each."""
+    if _APP_IDS_OVERRIDE is not None:
+        return _APP_IDS_OVERRIDE
+    out = []
+    for f in ("claims.json", "edges.json"):
+        p = os.path.join(APP_DATA, f)
+        if os.path.exists(p):
+            with open(p, encoding="utf-8") as fh:
+                out.append(json.load(fh))
+        else:
+            out.append(None)
+    return tuple(out)
+
+
+@check("every claim and edge carries a stable id, unique and derived from its content")
+def _stable_ids(b):
+    """Phase 4 gave every claim an id of c- + sha1(node | text) and every edge one of
+    e- + sha1(sorted ends | type | label), so a topic or a note can point at one
+    claim for good. An id is only worth anything if it is present everywhere, means
+    one thing, and is still the id of what it sits on. So this asserts, on the board
+    and on the app's claims.json and edges.json: every claim and edge has one; it is
+    well-formed; no two records share one; it re-derives from the record's content
+    (a stale id, left behind when a text was edited, points at the wrong thing while
+    looking right); and the app ships exactly the board's ids."""
+    bad, seen = [], {}
+    board_claims, board_edges = set(), set()
+
+    def take(i, what, pat, want):
+        if not i:
+            bad.append(f"{what} has no id")
+            return
+        if not pat.match(i):
+            bad.append(f"{what}: id {i!r} is not well-formed")
+        if want is not None and i != want:
+            bad.append(f"{what}: id {i!r} does not re-derive from its content ({want})")
+        if i in seen and seen[i] != what:
+            bad.append(f"{i} is shared by {seen[i]} and {what}")
+        seen.setdefault(i, what)
+
+    for n in b["people"] + b["entities"]:
+        for k, c in enumerate(n.get("claims") or []):
+            what = f"claim {k} on {n['id']}"
+            take(c.get("id"), what, _CLAIM_ID, _claim_id(n["id"], c.get("text")))
+            board_claims.add(c.get("id"))
+    for e in b["edges"]:
+        what = f"edge {e['a']}->{e['b']} ({e['type']})"
+        take(e.get("id"), what, _EDGE_ID, _edge_id(e["a"], e["b"], e["type"], e.get("label") or ""))
+        board_edges.add(e.get("id"))
+    claims_rows, edge_rows = _app_id_rows()
+    for name, rows, want in (("claims.json", claims_rows, board_claims),
+                             ("edges.json", edge_rows, board_edges)):
+        if rows is None:
+            bad.append(f"app/public/data/{name} is missing: run tools/build.py")
+            continue
+        got = [r.get("id") for r in rows]
+        if None in got:
+            bad.append(f"app/public/data/{name}: {got.count(None)} row(s) ship no id")
+        got = set(g for g in got if g)
+        if got != want:
+            bad.append(f"app/public/data/{name} ships {len(got - want)} id(s) the board does "
+                       f"not have and lacks {len(want - got)} it does: rebuild")
+    return bad[:40]
+
+
+_REMOVED_OVERRIDE = None
+_SIDECARS_OVERRIDE = None
+
+
+def _removed_doc():
+    if _REMOVED_OVERRIDE is not None:
+        return _REMOVED_OVERRIDE
+    p = os.path.join(RESEARCH_DIR, "_removed.json")
+    if not os.path.exists(p):
+        return {}
+    with open(p, encoding="utf-8") as fh:
+        return json.load(fh)
+
+
+@check("no alias target is itself aliased or removed")
+def _alias_targets(b):
+    """research/_removed.json maps each collapsed id to its survivor. merge.py
+    re-points edges, timeline rows, denial verdicts and entityInfo keys through the
+    map ONE step, so a survivor that is itself collapsed (a chain) leaves every one
+    of those references on a node that is not on the board, and a survivor that is
+    simply removed deletes what the collapse was meant to keep. Phase 4 added 32
+    aliases; this holds for all of them and every later one."""
+    d = _removed_doc()
+    alias, rm = d.get("alias") or {}, set(d.get("remove") or [])
+    bad = []
+    for k, v in sorted(alias.items()):
+        if v in alias:
+            bad.append(f"{k} -> {v}, which is itself aliased to {alias[v]}")
+        elif v in rm:
+            bad.append(f"{k} -> {v}, which is itself removed")
+        if k == v:
+            bad.append(f"{k} is aliased to itself")
+    return bad[:40]
+
+
+def _sidecar_docs():
+    """The hand-kept files that name board nodes by id, outside research/*.json:
+    {name: parsed document}. The poison channel is _SIDECARS_OVERRIDE."""
+    if _SIDECARS_OVERRIDE is not None:
+        return _SIDECARS_OVERRIDE
+    import glob
+    out = {}
+    for name, rel in (("threads", ("research", "threads.json")),
+                      ("highlights", ("data", "l0-highlights.json")),
+                      ("shorts", ("data", "l0-shorts.json")),
+                      ("denial adjudication", ("data", "denial-adjudication.json")),
+                      ("images", ("data", "l0-images.json")),
+                      ("foia links", ("data", "foia-links.json"))):
+        p = os.path.join(ROOT, *rel)
+        if os.path.exists(p):
+            with open(p, encoding="utf-8") as fh:
+                out[name] = json.load(fh)
+    out["dossiers"] = {}
+    for p in sorted(glob.glob(os.path.join(RESEARCH_DIR, "dossiers", "*.json"))):
+        with open(p, encoding="utf-8") as fh:
+            out["dossiers"][os.path.basename(p)] = json.load(fh)
+    out["topics"] = {}
+    for p in sorted(glob.glob(os.path.join(RESEARCH_DIR, "topics", "*.json"))):
+        with open(p, encoding="utf-8") as fh:
+            out["topics"][os.path.basename(p)] = json.load(fh)
+    return out
+
+
+def _sidecar_refs(docs):
+    """Every (where, id) a side-car uses to name a node."""
+    refs = []
+    th = docs.get("threads")
+    if th is not None:
+        for t in (th.get("threads", th) if isinstance(th, dict) else th):
+            for k, s in enumerate(t.get("steps") or []):
+                refs.append((f"threads {t.get('id')} step {k}", s.get("node")))
+    hl = docs.get("highlights") or {}
+    for f in hl.get("flags") or []:
+        refs.append(("highlights flag", f.get("id")))
+    for s in hl.get("_considered_and_left_off") or []:
+        refs.append(("highlights considered-and-left-off", str(s).split(" ", 1)[0]))
+    for k in ((docs.get("shorts") or {}).get("shorts") or {}):
+        refs.append(("l0-shorts", k))
+    for k, r in ((docs.get("denial adjudication") or {}).get("edges") or {}).items():
+        for end in k.split("|"):
+            refs.append((f"denial-adjudication key {k}", end))
+        if r.get("denier"):
+            refs.append((f"denial-adjudication denier of {k}", r["denier"]))
+    for k in ((docs.get("images") or {}).get("images") or {}):
+        refs.append(("l0-images", k))
+    fl = docs.get("foia links") or {}
+    for k in fl.get("byNode") or {}:
+        refs.append(("foia-links byNode", k))
+    for f, doc in sorted((docs.get("dossiers") or {}).items()):
+        for e in doc:
+            refs.append((f"dossier {f}", e.get("id")))
+
+    def walk(where, x):
+        if isinstance(x, dict):
+            for v in x.values():
+                walk(where, v)
+        elif isinstance(x, list):
+            for v in x:
+                walk(where, v)
+        elif isinstance(x, str):
+            refs.append((where, x))
+    for f, doc in sorted((docs.get("topics") or {}).items()):
+        walk(f"topics {f}", doc)
+    return refs
+
+
+@check("no side-car names a collapsed or removed node")
+def _sidecar_aliases(b):
+    """merge.py re-points the research through research/_removed.json, but the files
+    kept beside it (threads, start-here highlights, chip shorts, denial verdicts,
+    the image register, the FOIA linkage, the entity dossiers, and from phase 4 the
+    topics) are read by id and are NOT re-pointed. A side-car still naming a
+    collapsed id either errors, or worse, quietly stops applying: a dossier keyed on
+    a loser ships for no node, a short labels nothing, a verdict names a denier
+    that is not an end of its edge. After phase 4's 32 collapses every such
+    reference was moved by hand; this is what keeps it that way."""
+    d = _removed_doc()
+    gone = set(d.get("alias") or {}) | set(d.get("remove") or [])
+    bad = []
+    for where, i in _sidecar_refs(_sidecar_docs()):
+        if i in gone:
+            to = (d.get("alias") or {}).get(i)
+            bad.append(f"{where} names {i!r}" + (f"; its survivor is {to!r}" if to else
+                                                  "; it was removed"))
+    return bad[:40]
+
+
+# ---------------------------------------------------------------------------
+# redesign phase 4, tasks 3 to 5: the topic stubs, and the proposals generated from
+# them. research/topics/<id>.json are authored; _sections.json is authored;
+# _proposals.json is GENERATED by tools/topics/propose_members.py. Nothing a reader
+# sees reads them until phase 5, which is exactly why they are checked now: a stub
+# that names a collapsed id or a section that does not exist would be found by the
+# drafters, one topic at a time, instead of by the gate.
+# ---------------------------------------------------------------------------
+
+_TOPICS_OVERRIDE = None
+_PROPOSALS_BUILT = []
+
+
+def _topic_docs():
+    """{"sections": parsed _sections.json, "topics": {file: parsed stub},
+    "proposals": _proposals.json as text}. The poison channel is _TOPICS_OVERRIDE."""
+    if _TOPICS_OVERRIDE is not None:
+        return _TOPICS_OVERRIDE
+    d = os.path.join(RESEARCH_DIR, "topics")
+    out = {"sections": None, "topics": {}, "proposals": None}
+    if not os.path.isdir(d):
+        return out
+    for f in sorted(os.listdir(d)):
+        if not f.endswith(".json"):
+            continue
+        p = os.path.join(d, f)
+        if f == "_proposals.json":
+            with open(p, encoding="utf-8") as fh:
+                out["proposals"] = fh.read().replace("\r\n", "\n")
+        elif f == "_sections.json":
+            with open(p, encoding="utf-8") as fh:
+                out["sections"] = json.load(fh)
+        elif not f.startswith("_"):
+            with open(p, encoding="utf-8") as fh:
+                out["topics"][f] = json.load(fh)
+    return out
+
+
+def _topic_kinds():
+    with open(os.path.join(ROOT, "schema", "vocab.json"), encoding="utf-8") as fh:
+        return {k["id"] for k in json.load(fh).get("topicKinds") or []}
+
+
+_ERA_IDS = ("0", "1", "2", "3")      # the Atlas's four era columns, as index.json names them
+
+
+@check("every topic names a section that exists, a kind in the vocabulary and a real era")
+def _topic_sections(b):
+    """A stub whose section is not in _sections.json has no row on the Atlas; a kind
+    outside schema/vocab.json's topicKinds has no filter; a focusEra outside the four
+    columns has no cell. Each would be a topic that exists and cannot be found."""
+    docs = _topic_docs()
+    sec = docs["sections"] or {}
+    ids = [s.get("id") for s in sec.get("sections") or []]
+    bad = [f"_sections.json: section id {i!r} appears twice" for i in sorted(set(ids))
+           if ids.count(i) > 1]
+    orders = [s.get("order") for s in sec.get("sections") or []]
+    if len(set(orders)) != len(orders):
+        bad.append("_sections.json: two sections share an order")
+    kinds = _topic_kinds()
+    if docs["topics"] and not ids:
+        bad.append("topics exist but research/topics/_sections.json names no sections")
+    for f, t in sorted(docs["topics"].items()):
+        if t.get("section") not in ids:
+            bad.append(f"{f}: section {t.get('section')!r} is not in _sections.json")
+        if t.get("kind") not in kinds:
+            bad.append(f"{f}: kind {t.get('kind')!r} is not in schema/vocab.json topicKinds")
+        if str(t.get("focusEra")) not in _ERA_IDS:
+            bad.append(f"{f}: focusEra {t.get('focusEra')!r} is not one of {_ERA_IDS}")
+        sp = t.get("span") or {}
+        try:
+            if int(str(sp.get("from"))[:4]) > int(str(sp.get("to"))[:4]):
+                bad.append(f"{f}: span runs backwards ({sp.get('from')} to {sp.get('to')})")
+        except ValueError:
+            bad.append(f"{f}: span {sp!r} is not two years")
+    return bad[:40]
+
+
+@check("topic ids are unique and each matches its file")
+def _topic_ids(b):
+    """The file name is the id (research/topics/<id>.json), because phase 5 writes
+    app/public/data/topics/<id>.json from it and the Atlas links #/topic/<id>. Two
+    stubs with one id would ship one page for two topics."""
+    seen = {}
+    bad = []
+    for f, t in sorted(_topic_docs()["topics"].items()):
+        tid = t.get("id")
+        if f != f"{tid}.json":
+            bad.append(f"{f}: its id is {tid!r}")
+        if tid in seen:
+            bad.append(f"topic id {tid!r} is used by {seen[tid]} and {f}")
+        seen.setdefault(tid, f)
+    return bad[:40]
+
+
+@check("every topic anchor and absorbed node is on the board under its own name")
+def _topic_refs(b):
+    """Anchors, absorbed domain nodes, essays and unplaced claims must each resolve:
+    an anchor to a board node that is not a collapsed or removed id (an alias would
+    make the topic's anchor the loser of a merge, and propose_members.py would stop
+    at it); an absorbed id to a DOMAIN node (only editorial nodes are absorbed);
+    an essay to an entityInfo key on the board, or file:key in research/<file>.json;
+    an unplaced claim to its row in tools/UNPLACED-CLAIMS.json."""
+    nodes = {n["id"]: n for n in b.get("people", []) + b.get("entities", [])}
+    d = _removed_doc()
+    gone = set(d.get("alias") or {}) | set(d.get("remove") or [])
+    ei = b.get("entityInfo") or {}
+    try:
+        with open(os.path.join(ROOT, "tools", "UNPLACED-CLAIMS.json"), encoding="utf-8") as fh:
+            unplaced = {(c.get("to"), c.get("claim")) for c in json.load(fh).get("claims") or []}
+    except OSError:
+        unplaced = set()
+    bad = []
+    for f, t in sorted(_topic_docs()["topics"].items()):
+        for key in ("anchors", "absorbs"):
+            for i in t.get(key) or []:
+                if i in gone:
+                    bad.append(f"{f}: {key} names {i!r}, a collapsed or removed id")
+                elif i not in nodes:
+                    bad.append(f"{f}: {key} names {i!r}, which is not on the board")
+                elif key == "absorbs" and nodes[i].get("cls") != "domain":
+                    bad.append(f"{f}: absorbs {i!r}, which is a {nodes[i].get('cls')}, "
+                               f"not a domain node")
+                elif key == "anchors" and nodes[i].get("cls") == "domain":
+                    bad.append(f"{f}: anchors {i!r}, a domain node; a domain node is "
+                               f"absorbed, not anchored")
+        for e in t.get("essays") or []:
+            if ":" in e:
+                slug, k = e.split(":", 1)
+                p = os.path.join(RESEARCH_DIR, slug + ".json")
+                ok = False
+                if os.path.exists(p):
+                    with open(p, encoding="utf-8") as fh:
+                        ok = k in ((json.load(fh).get("entityInfo")) or {})
+                if not ok:
+                    bad.append(f"{f}: essay {e!r} is not an entityInfo key of research/{slug}.json")
+            elif e not in ei:
+                bad.append(f"{f}: essay {e!r} is not an entityInfo key on the board")
+        for c in t.get("unplacedClaims") or []:
+            if (c.get("collapsedInto"), c.get("claim")) not in unplaced:
+                bad.append(f"{f}: unplaced claim {str(c.get('claim'))[:60]!r} is not in "
+                           f"tools/UNPLACED-CLAIMS.json under {c.get('collapsedInto')!r}")
+    return bad[:40]
+
+
+@check("every domain node is absorbed by exactly one topic")
+def _topic_domains(b):
+    """Phase 5 redirects a domain node's page to the topic that absorbs it and renders
+    its claims there. A domain node absorbed by none would keep a page that says what
+    a topic should; one absorbed twice would redirect to one of two topics by accident
+    of file order."""
+    doms = sorted(n["id"] for n in b.get("entities", []) if n.get("cls") == "domain")
+    by = {}
+    for f, t in sorted(_topic_docs()["topics"].items()):
+        for i in t.get("absorbs") or []:
+            by.setdefault(i, []).append(f)
+    bad = [f"domain node {i} is absorbed by no topic" for i in doms if i not in by]
+    bad += [f"domain node {i} is absorbed by {len(fs)} topics: {', '.join(fs)}"
+            for i, fs in sorted(by.items()) if len(fs) > 1]
+    return bad[:40]
+
+
+@check("the topic proposals are what propose_members.py produces")
+def _topic_proposals(b):
+    """research/topics/_proposals.json is generated; it is committed so phase 5 and
+    Stewart's table read one fixed file. This regenerates it in memory from the stubs
+    and the shipped board and requires the committed text byte for byte (CRLF aside),
+    the same bargain check_rebuild.py makes for the rest of the build."""
+    docs = _topic_docs()
+    if not docs["topics"]:
+        return []
+    have = docs["proposals"]
+    if have is None:
+        return ["research/topics/_proposals.json is missing; run "
+                "python tools/topics/propose_members.py"]
+    if not _PROPOSALS_BUILT:
+        sys.path.insert(0, os.path.join(ROOT, "tools", "topics"))
+        import propose_members
+        _PROPOSALS_BUILT.append(propose_members.dumps(propose_members.build()))
+    want = _PROPOSALS_BUILT[0]
+    if have == want:
+        return []
+    i = next((k for k in range(min(len(have), len(want))) if have[k] != want[k]),
+             min(len(have), len(want)))
+    return [f"research/topics/_proposals.json is not what propose_members.py produces "
+            f"(first difference on line {have.count(chr(10), 0, i) + 1}); run "
+            f"python tools/topics/propose_members.py"]
+
+
 @check("counts match the golden manifest")
 def _golden(b):
     now = measure(b)
@@ -2202,6 +2597,7 @@ def _idempotent_targets():
     for rel in ("the-program.json", "l0-model.json", "l0-layout-model.json",
                 "foia-links.json"):
         out.append(os.path.join(ROOT, "data", rel))
+    out.append(os.path.join(ROOT, "research", "topics", "_proposals.json"))
     return sorted(out)
 
 
@@ -2374,7 +2770,178 @@ def self_test():
         global _UNPLACED_OVERRIDE
         _UNPLACED_OVERRIDE = []
 
+    # stable ids: the plan's poison (two claims forced to one id), an edge that lost
+    # its id, a malformed id, and an app file whose row ships none
+    def _two_claims_one_id(rb):
+        for n in rb["entities"]:
+            if len(n.get("claims") or []) >= 2:
+                n["claims"][1]["id"] = n["claims"][0]["id"]
+                return
+
+    def _edge_loses_id(rb):
+        rb["edges"][0].pop("id", None)
+
+    def _malformed_id(rb):
+        for n in rb["people"]:
+            if n.get("claims"):
+                n["claims"][0]["id"] = "c-NOTHEX"
+                return
+
+    def _app_row_without_id(rb):
+        global _APP_IDS_OVERRIDE
+        claims_rows, edge_rows = _app_id_rows()
+        claims_rows = copy.deepcopy(claims_rows)
+        claims_rows[0].pop("id", None)
+        _APP_IDS_OVERRIDE = (claims_rows, edge_rows)
+
+    # entity resolution (phase 4). An alias chain, and an alias onto a removed id.
+    def _alias_chain(rb):
+        global _REMOVED_OVERRIDE
+        d = copy.deepcopy(_removed_doc())
+        k, v = sorted(d["alias"].items())[0]
+        d["alias"]["zz-poison-loser"] = k          # zz -> k -> v: a chain
+        _REMOVED_OVERRIDE = d
+
+    def _alias_onto_removed(rb):
+        global _REMOVED_OVERRIDE
+        d = copy.deepcopy(_removed_doc())
+        plain = sorted(set(d["remove"]) - set(d["alias"]))[0]   # deleted, not collapsed
+        d["alias"]["zz-poison-loser"] = plain
+        _REMOVED_OVERRIDE = d
+
+    # One poison per side-car: the real file, with one collapsed id written back in.
+    def _sidecar_poison(fn_):
+        def mutate(rb):
+            global _SIDECARS_OVERRIDE
+            docs = copy.deepcopy(_sidecar_docs())
+            loser = "waived-usap-mechanism"             # collapsed into waived-usap in phase 4
+            fn_(docs, loser)
+            _SIDECARS_OVERRIDE = docs
+        mutate.__name__ = fn_.__name__
+        return mutate
+
+    def threads_step(docs, x):
+        th = docs["threads"]
+        (th.get("threads", th) if isinstance(th, dict) else th)[0]["steps"][0]["node"] = x
+
+    def highlights_flag(docs, x):
+        docs["highlights"]["flags"][0]["id"] = x
+
+    def shorts_key(docs, x):
+        docs["shorts"]["shorts"][x] = "Waived USAP - the mechanism"
+
+    def verdict_denier(docs, x):
+        k = next(k for k, r in docs["denial adjudication"]["edges"].items()
+                 if k.startswith("waived-usap|"))
+        docs["denial adjudication"]["edges"][k]["denier"] = x
+
+    def verdict_key(docs, x):
+        e = docs["denial adjudication"]["edges"]
+        k = next(k for k in e if k.startswith("waived-usap|"))
+        e[x + "|" + k.split("|")[1]] = e.pop(k)
+
+    def image_key(docs, x):
+        docs["images"]["images"][x] = {"photo": "assets/marks/x.png"}
+
+    def foia_node(docs, x):
+        docs["foia links"]["byNode"][x] = []
+
+    def dossier_id(docs, x):
+        f = sorted(docs["dossiers"])[0]
+        docs["dossiers"][f][0]["id"] = x
+
+    def topic_member(docs, x):
+        docs["topics"]["t-poison.json"] = {"id": "t-poison", "anchors": [x]}
+
+    # the topic stubs (phase 4, tasks 3 to 5): the real files, with one thing wrong
+    def _topics_poison(fn_):
+        def mutate(rb):
+            global _TOPICS_OVERRIDE
+            docs = copy.deepcopy(_topic_docs())
+            fn_(docs)
+            _TOPICS_OVERRIDE = docs
+        mutate.__name__ = fn_.__name__
+        return mutate
+
+    def _first(docs, key=None):
+        return next(t for f, t in sorted(docs["topics"].items()) if key is None or t.get(key))
+
+    def section_nowhere(docs):
+        _first(docs)["section"] = "nowhere"
+
+    def kind_unknown(docs):
+        _first(docs)["kind"] = "rumour"
+
+    def era_undated(docs):
+        _first(docs)["focusEra"] = "nd"
+
+    def id_not_file(docs):
+        _first(docs)["id"] = "zz-some-other-id"
+
+    def id_twice(docs):
+        other = sorted(docs["topics"])[-1]
+        docs["topics"][other]["id"] = _first(docs)["id"]
+
+    def anchor_collapsed(docs):
+        _first(docs, "anchors")["anchors"].append("waived-usap-mechanism")
+
+    def anchor_missing(docs):
+        _first(docs, "anchors")["anchors"].append("zz-ghost-node")
+
+    def absorbs_an_entity(docs):
+        _first(docs, "absorbs")["absorbs"].append("aaro")
+
+    def essay_missing(docs):
+        _first(docs)["essays"] = ["zz-no-such-essay"]
+
+    def unplaced_reworded(docs):
+        c = _first(docs, "unplacedClaims")["unplacedClaims"][0]
+        c["claim"] = c["claim"] + " (reworded)"
+
+    def domain_unabsorbed(docs):
+        _first(docs, "absorbs")["absorbs"].pop(0)
+
+    def domain_twice(docs):
+        a = _first(docs, "absorbs")
+        b2 = next(t for f, t in sorted(docs["topics"].items()) if t is not a)
+        b2["absorbs"] = list(b2.get("absorbs") or []) + [a["absorbs"][0]]
+
+    def proposals_stale(docs):
+        txt = docs["proposals"]
+        k = txt.index('"candidates":')
+        j = txt.index(",", k)
+        docs["proposals"] = txt[:k] + '"candidates":99999' + txt[j:]
+
+    def proposals_missing(docs):
+        docs["proposals"] = None
+
+    poison_realboard_topics = {
+        "every topic names a section that exists, a kind in the vocabulary and a real era":
+            [_topics_poison(f) for f in (section_nowhere, kind_unknown, era_undated)],
+        "topic ids are unique and each matches its file":
+            [_topics_poison(f) for f in (id_not_file, id_twice)],
+        "every topic anchor and absorbed node is on the board under its own name":
+            [_topics_poison(f) for f in (anchor_collapsed, anchor_missing, absorbs_an_entity,
+                                         essay_missing, unplaced_reworded)],
+        "every domain node is absorbed by exactly one topic":
+            [_topics_poison(f) for f in (domain_unabsorbed, domain_twice)],
+        "the topic proposals are what propose_members.py produces":
+            [_topics_poison(f) for f in (proposals_stale, proposals_missing)],
+    }
+
+    poison_realboard_ids = {
+        **poison_realboard_topics,
+        "no alias target is itself aliased or removed": [_alias_chain, _alias_onto_removed],
+        "no side-car names a collapsed or removed node": [
+            _sidecar_poison(f) for f in (threads_step, highlights_flag, shorts_key,
+                                          verdict_denier, verdict_key, image_key,
+                                          foia_node, dossier_id, topic_member)],
+    }
+
     poison_realboard = {
+        **poison_realboard_ids,
+        "every claim and edge carries a stable id, unique and derived from its content":
+            [_two_claims_one_id, _edge_loses_id, _malformed_id, _app_row_without_id],
         "every authored claim reaches the board or is listed":
             [_drop_carried_claim, _unlist_the_domain_collapse],
         "every authored conflict, unverified note and open question on an entity reaches the board":
@@ -2751,12 +3318,17 @@ def self_test():
             caught = []
             for mutate in poison_realboard[name]:
                 pb = copy.deepcopy(_real_board)
-                global _UNPLACED_OVERRIDE
+                global _UNPLACED_OVERRIDE, _APP_IDS_OVERRIDE, _REMOVED_OVERRIDE, _SIDECARS_OVERRIDE
+                global _TOPICS_OVERRIDE
                 try:
                     mutate(pb)
                     got = fn(pb)
                 finally:
                     _UNPLACED_OVERRIDE = None     # a poison may set a report override
+                    _APP_IDS_OVERRIDE = None
+                    _REMOVED_OVERRIDE = None
+                    _SIDECARS_OVERRIDE = None
+                    _TOPICS_OVERRIDE = None
                 if not got:
                     caught = []
                     print(f"  FAIL  {name} accepted its poison {mutate.__name__}")

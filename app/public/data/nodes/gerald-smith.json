@@ -8,16 +8,19 @@
 "chronology": [],
 "claims": [
 {
+"id": "c-4931c0173f",
 "source": "https://irp.fas.org/dia/aatip-list.pdf",
 "text": "Named on the DIA list of AATIP/AAWSAP products supplied to the Senate Armed Services Committee as author of 'Positron Aerospace Propulsion', affiliation Positronics Research.",
 "tier": 1
 },
 {
+"id": "c-d2c956fad1",
 "source": "https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/",
 "text": "Ph.D. Yale 1961; assistant professor under Luis Alvarez at Berkeley 1961-66; Associate Laboratory Director for High Energy Physics at Argonne 1978; Director of the Laboratory for Elementary Particle Science and Physics Department Head at Penn State from 1983; Professor Emeritus 2000; founded Positronics Research LLC in 2001.",
 "tier": 2
 },
 {
+"id": "c-955c5a41f6",
 "source": "https://www.niac.usra.edu/files/studies/final_report/1147Smith.pdf",
 "text": "Oversaw development of the Mark I portable antiproton trap for NASA JPL and the High Performance Antimatter Trap (HiPAT) for NASA Marshall; principal investigator on a NASA Institute for Advanced Concepts Phase I study, 'Positron Propelled and Powered Space Transport Vehicle for Planetary Missions'.",
 "tier": 2
@@ -33,6 +36,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-792c277271",
 "edgeLabel": "authored by",
 "id": "dird-positron-aerospace-propulsion",
 "l0": false,
@@ -137,7 +141,7 @@
 "status": "active",
 "sub": "Experimental particle physicist; Professor Emeritus, Penn State; founder, Positronics Research LLC (New Mexico)",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 1002 of 1170, score 15). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 973 of 1138, score 15). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": []

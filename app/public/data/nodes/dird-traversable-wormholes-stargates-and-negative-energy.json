@@ -5,36 +5,43 @@
 "band": null,
 "claims": [
 {
+"id": "c-8e2c1a6c73",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237636/",
 "text": "Defense Intelligence Reference Document titled \"Traversable Wormholes, Stargates, and Negative Energy\", series \"Acquisition Threat Support\", published 2010-04-06 with an Intelligence Cut-Off Date (ICOD) of 2009-12-01, DIA document number DIA-08-1004-004. Released by DIA under FOIA and posted in the DIA FOIA Electronic Reading Room.",
 "tier": 1
 },
 {
+"id": "c-c755f93dec",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237636/",
 "text": "Inside cover reads: \"This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency [redacted b(3) 10 USC 424] Advanced Aerospace Weapon System Applications (AAWSA) Program\" and directs questions to the \"AAWSA Program Manager, Defense Intelligence Agency, ATTN: [redacted], Bldg 6000, Washington, DC 20340-5100\".",
 "tier": 1
 },
 {
+"id": "c-a064d814a0",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237636/",
 "text": "Author name is withheld in the DIA-released copy under FOIA exemption (b)(6); the \"Prepared by:\" line is withheld under (b)(3) 10 USC 424. The released cover therefore does not attribute the DIRD to a named author.",
 "tier": 1
 },
 {
+"id": "c-ea84755c68",
 "source": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "text": "Author of record per the DIA letter of 9 January 2018, item 8: \"Traversable Wormholes, Stargates and Negative Energy, Dr Eric Davis, EarthTech International.\" The popular attribution to Davis is, in this case, correct and matches the government list.",
 "tier": 2
 },
 {
+"id": "c-1ad5a90f7e",
 "source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_18-DIRD_Traversible_Wormholes_Stargates_and_Negative_Energy.pdf",
 "text": "The released cover page reads \"6 April 2010 / ICOD: 1 December 2009 / DIA-08-1004-004.\" The author line is redacted under (b)(6).",
 "tier": 1
 },
 {
+"id": "c-39e0ed35e5",
 "source": "http://earthtech.org/pubs/davis/",
 "text": "EarthTech International's own citation list records the paper as \"Davis, E. W. (2010), 'Traversable Wormholes, Stargates, and Negative Energy,' Defense Intelligence Reference Document, Acquisition Threat Support, DIA-08-1004-004, Acquisition Support Division (DWO-3), Defense Warning Office, Directorate for Analysis, Defense Intelligence Agency, Washington, DC.\"",
 "tier": 1
 },
 {
+"id": "c-6ab00b8a0c",
 "source": "https://ufos-scientificresearch.blogspot.com/2018/06/those-defense-intelligence-reference.html",
 "text": "This is one of the first two DIRDs to reach the public internet, appearing on a website operated by Corey Goode in an item dated 18 December 2017, before any FOIA release. Davis confirmed by email to the researcher Isaac Koi that the circulating copies were his documents.",
 "tier": 2
@@ -50,6 +57,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-1781538e20",
 "edgeLabel": "AAWSAP deliverable, Acquisition Support Division (DWO-3)",
 "id": "aawsap",
 "l0": true,
@@ -86,6 +94,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-99f5ac459a",
 "edgeLabel": "published by DIA as DIA-08-1004-004, Acquisition Threat Support series",
 "id": "dia",
 "l0": true,
@@ -117,6 +126,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-912c8bb4a4",
 "edgeLabel": "DIRD",
 "id": "dird-series",
 "l0": true,
@@ -138,6 +148,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-198e0bd299",
 "edgeLabel": "series member",
 "id": "dird-series",
 "l0": true,
@@ -164,6 +175,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-fe46c80cec",
 "edgeLabel": "author's affiliation of record; DIRD carried on EarthTech's own publications list",
 "id": "earthtech-international",
 "l0": true,
@@ -200,6 +212,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-222dfff74c",
 "edgeLabel": "author of record on the DIA list and on EarthTech's own citation list",
 "id": "eric-davis",
 "l0": false,
@@ -312,7 +325,7 @@
 ],
 "sub": "defense-intelligence-reference-document",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 489 of 1170, score 31). 6 connections, 2 of them custody/funding/programmatic. Axes C0/A0/D0.",
+"tierRationale": "Re-graded B on a global pass (rank 487 of 1138, score 31). 6 connections, 2 of them custody/funding/programmatic. Axes C0/A0/D0.",
 "timeline": [],
 "unverified": []
 }

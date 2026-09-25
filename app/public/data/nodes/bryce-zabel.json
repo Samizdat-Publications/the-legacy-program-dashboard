@@ -23,26 +23,31 @@
 ],
 "claims": [
 {
+"id": "c-ce2f8704d9",
 "source": "Wikipedia, 'Bryce Zabel', retrieved 12 August 2026 — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "text": "Zabel co-authored A.D. (After Disclosure) with Richard Dolan, concerning an extraterrestrial presence covertly interacting with humans and governments and what develops when the fact is made public.",
 "tier": 2
 },
 {
+"id": "c-a822f17130",
 "source": "Wikipedia, 'Bryce Zabel' — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "text": "Zabel was showrunner of the UFO-conspiracy series Dark Skies (1996-1997) and was elected chairman and CEO of the Academy of Television Arts and Sciences in 2001.",
 "tier": 2
 },
 {
+"id": "c-ba08072ac2",
 "source": "Television Academy, Bryce Zabel bio and Presidents and Chairs list",
 "text": "The Television Academy's own biography describes Zabel as 'chairman/CEO of the Academy of Television Arts & Sciences from 2002 to 2003, the first writer in that position since Rod Serling.' Its separate list of Presidents and Chairs carries the entry '2002-2003 Bryce Zabel Chair/CEO' independently.",
 "tier": 2
 },
 {
+"id": "c-46689ee507",
 "source": "Television Academy, Bryce Zabel bio",
 "text": "The Television Academy credits Zabel with creating five primetime network series including the 'Emmy-winning Dark Skies (NBC)', alongside Kay O'Brien, M.A.N.T.I.S., The Crow: Stairway to Heaven and E.N.G.",
 "tier": 2
 },
 {
+"id": "c-bd3d9c1ec4",
 "source": "Absence checked against both Television Academy pages, 25 August 2026",
 "text": "Neither Television Academy page mentions A.D. (After Disclosure) or Richard Dolan. The co-authorship claim on this board rests on the encyclopedic source alone and has not been replaced with a primary one.",
 "tier": 2
@@ -58,6 +63,7 @@
 "dateEnd": null,
 "dateStart": "2023-06-24",
 "direction": "out",
+"edgeId": "e-3126911038",
 "edgeLabel": "co-host holding an unaired Grusch 'pre-interview'",
 "id": "david-grusch",
 "l0": false,
@@ -79,6 +85,7 @@
 "dateEnd": null,
 "dateStart": "2024-09-13",
 "direction": "out",
+"edgeId": "e-324766245a",
 "edgeLabel": "co-hosted 'Elizondo Unplugged' interview",
 "id": "luis-elizondo",
 "l0": false,
@@ -146,7 +153,7 @@
 "status": "active",
 "sub": "Television writer-producer; co-author, A.D. After Disclosure",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 969 of 1170, score 16). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 941 of 1138, score 16). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.",
 "timeline": [
 {
 "claimTier": null,

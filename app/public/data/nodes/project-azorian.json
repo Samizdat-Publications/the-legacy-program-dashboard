@@ -5,36 +5,43 @@
 "band": null,
 "claims": [
 {
+"id": "c-47496ed0dc",
 "source": "PROJECT AZORIAN: THE STORY OF THE HUGHES GLOMAR EXPLORER, CIA reading-room document 0005301269, approved for release 01-04-2010, https://archive.org/download/cia-readingroom-document-0005301269/0005301269_djvu.txt",
 "text": "The released history opens: In March 1968 a Soviet submarine of the G-II class was lost with all hands, 16,500 feet below the surface of the Pacific Ocean.",
 "tier": 1
 },
 {
+"id": "c-d7ffce06ef",
 "source": "CIA reading-room document 0005301269, https://archive.org/download/cia-readingroom-document-0005301269/0005301269_djvu.txt",
 "text": "The same page states: On 8 August 1974, that submarine was brought to the surface in a recovery system designed and developed specifically for that mission.",
 "tier": 1
 },
 {
+"id": "c-80a5d72c03",
 "source": "CIA reading-room document 0005301269, https://archive.org/download/cia-readingroom-document-0005301269/0005301269_djvu.txt",
 "text": "The article's publication note records that facts about the project had been acknowledged in court in continuing litigation concerning California State tax liability, Freedom of Information Act matters, and a patent infringement claim, and that the acknowledged facts include CIA sponsorship for intelligence collection purposes and the participation of Hughes Tool Company, the Summa Corporation and Global Marine, Inc.",
 "tier": 1
 },
 {
+"id": "c-20b405889c",
 "source": "CIA reading-room document 0005301269, https://archive.org/download/cia-readingroom-document-0005301269/0005301269_djvu.txt",
 "text": "The same note states that the continuing prohibition applies particularly to the specific purpose of the AZORIAN mission, the degree of success, operational details, participation of other contractors, government organizations, and individuals, classified technology, and project funding matters.",
 "tier": 1
 },
 {
+"id": "c-047e85bc72",
 "source": "CIA reading-room document 0005301269, https://archive.org/download/cia-readingroom-document-0005301269/0005301269_djvu.txt",
 "text": "The article's closing page states that a private consortium of companies, including Lockheed, Global Marine, Standard Oil of Indiana, and Royal Dutch Shell, are readying the Hughes Glomar Explorer for use in deep-ocean mining operations to begin late in the fall of 1978.",
 "tier": 1
 },
 {
+"id": "c-1cd423dc70",
 "source": "CIA reading-room document 0005301269, full text searched by this session, https://archive.org/download/cia-readingroom-document-0005301269/0005301269_djvu.txt",
 "text": "The strings NURO and National Underwater Reconnaissance do not occur anywhere in the 50-page released history.",
 "tier": 1
 },
 {
+"id": "c-0d0224cc36",
 "source": "Danny Jones Podcast, ep. 320, 4 August 2025, 0:26:45 to 0:29:24, mapped at research/leads/dannyjones-corpus-20.md",
 "text": "On the Danny Jones Podcast, episode 320, 4 August 2025, at 0:29:24, the guest who identifies himself only as UAP Gerb said the Hughes Glomar Explorer was later leased to Lockheed Martin for deep-sea mining for twenty years. The released history contradicts that in three particulars: it names Lockheed as one member of a four-company private consortium readying the ship for deep-ocean mining operations to begin late in the fall of 1978, it says nothing about a lease or a term, and Lockheed Martin did not exist under that name until 1995. At 0:26:45 to 0:29:24 the same speaker treated the Glomar Explorer and a National Underwater Reconnaissance Office as one undersea programme; NURO appears nowhere in the fifty pages.",
 "tier": 2
@@ -50,6 +57,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-2d9df9cd76",
 "edgeLabel": "CIA programme, on the Agency's own account of it",
 "id": "cia",
 "l0": true,
@@ -71,6 +79,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-b0990e2ba9",
 "edgeLabel": "Covert recovery of foreign hardware under a named commercial cover",
 "id": "d-custody",
 "l0": false,
@@ -92,6 +101,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-c4eb4ebd60",
 "edgeLabel": "FOIA matters named inside the programme's own history as forcing the first acknowledgements",
 "id": "d-foia",
 "l0": false,
@@ -113,6 +123,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-1300378a96",
 "edgeLabel": "The 1978 mining consortium names Lockheed, the predecessor of this node",
 "id": "lockheed-martin",
 "l0": true,
@@ -168,7 +179,7 @@
 ],
 "sub": "CIA deep-ocean recovery programme under a Hughes mining cover; its own 50-page internal history released 4 January 2010",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 132 of 1170, score 55). 4 connections, 2 of them custody/funding/programmatic. Axes C3/A3/D2.",
+"tierRationale": "Re-graded A on a global pass (rank 134 of 1138, score 55). 4 connections, 2 of them custody/funding/programmatic. Axes C3/A3/D2.",
 "timeline": [],
 "unverified": []
 }

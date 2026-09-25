@@ -5,41 +5,49 @@
 "band": null,
 "claims": [
 {
+"id": "c-8a606a2db2",
 "source": "https://www.govinfo.gov/content/pkg/USCODE-2023-title50/html/USCODE-2023-title50-chap44-subchapIII-sec3093.htm",
 "text": "Section 503 of the National Security Act of 1947. Subsection (c)(2) permits the President, on a determination that 'it is essential to limit access to the finding to meet extraordinary circumstances affecting vital interests of the United States,' to report a covert action finding only to the chairmen and ranking minority members of the intelligence committees, the Speaker and minority leader of the House, and the majority and minority leaders of the Senate -- the actual statutory Gang of Eight.",
 "tier": 1
 },
 {
+"id": "c-34b61fa45b",
 "source": "https://www.govinfo.gov/content/pkg/USCODE-2023-title50/html/USCODE-2023-title50-chap44-subchapIII-sec3093.htm",
 "text": "Subsection (c)(3) permits a finding not to be reported in advance at all in extraordinary circumstances, requiring only that the President thereafter report 'in a timely fashion' with 'a statement of the reasons for not giving prior notice.'",
 "tier": 1
 },
 {
+"id": "c-c5ec263666",
 "source": "50 U.S.C. 3093(c)(2)",
 "text": "50 U.S.C. 3093(c)(2) permits a covert action finding to be reported to 'the chairmen and ranking minority members of the congressional intelligence committees, the Speaker and minority leader of the House of Representatives, the majority and minority leaders of the Senate, and such other member or members of the congressional leadership as may be included by the President.'",
 "tier": 1
 },
 {
+"id": "c-219a4b7267",
 "source": "50 U.S.C. 3093(c)(3)",
 "text": "50 U.S.C. 3093(c)(3) permits a finding not to be reported in advance at all, requiring only that the President thereafter 'fully inform the congressional intelligence committees in a timely fashion' with 'a statement of the reasons for not giving prior notice'.",
 "tier": 1
 },
 {
+"id": "c-a12fee7238",
 "source": "50 U.S.C. 3093(c)(5)(B)",
 "text": "50 U.S.C. 3093(c)(5)(B) requires that within 180 days of a statement of reasons for limited access the President ensure that all members of the intelligence committees get access, or submit a further statement of reasons.",
 "tier": 1
 },
 {
+"id": "c-ab5b73bd10",
 "source": "50 U.S.C. 3093(d)(2)",
 "text": "50 U.S.C. 3093(d)(2) lists among the factors making an undertaking significant whether it 'requires an expansion of existing authorities, including authorities relating to research, development, or operations' and whether it 'results in the expenditure of significant funds or other resources'.",
 "tier": 1
 },
 {
+"id": "c-1951dc465b",
 "source": "ICD 906, section C.3",
 "text": "ICD 906 section C.3 records that the IC controlled access program regime does not apply to 'special access programs under the purview of the National Security Council, such as covert action'.",
 "tier": 1
 },
 {
+"id": "c-3ad0ef71bc",
 "source": "50 U.S.C. 3093(c) read against 10 U.S.C. 119(f)",
 "text": "An activity characterised as covert action is reportable to no defense committee at all, and under 3093(c)(3) need not be reported to anyone in advance - making it the only regime weaker on prior notice than a waived DoD special access program. Reasoning: 3093 runs solely to the intelligence committees or the Gang of Eight, and (c)(3) removes even that.",
 "tier": 3
@@ -55,6 +63,7 @@
 "dateEnd": null,
 "dateStart": "1991-08-14",
 "direction": "in",
+"edgeId": "e-fb31068dde",
 "edgeLabel": "The statutory Gang of Eight is a covert action construct, not a SAP construct",
 "id": "gang-of-eight",
 "l0": false,
@@ -76,6 +85,7 @@
 "dateEnd": null,
 "dateStart": "2015-10-17",
 "direction": "out",
+"edgeId": "e-4185e51175",
 "edgeLabel": "Covert action is expressly outside the IC controlled access program regime",
 "id": "icd-906",
 "l0": false,
@@ -102,6 +112,7 @@
 "dateEnd": null,
 "dateStart": "1991-08-14",
 "direction": "in",
+"edgeId": "e-fd4f2ad12e",
 "edgeLabel": "The general 'fully and currently informed' duty and its covert action exception",
 "id": "usc-50-3091",
 "l0": false,
@@ -174,7 +185,7 @@
 ],
 "sub": "statute",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 282 of 1170, score 40). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A3/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 285 of 1138, score 40). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A3/D3.",
 "timeline": [],
 "unverified": []
 }

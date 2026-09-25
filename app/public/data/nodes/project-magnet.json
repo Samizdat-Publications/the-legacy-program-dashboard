@@ -5,26 +5,31 @@
 "band": null,
 "claims": [
 {
+"id": "c-cc34524b6d",
 "source": "Library and Archives Canada exhibition, quoting Smith, Project Magnet report, 1952, p.6",
 "text": "Smith, Project Magnet report 1952, p.6: 'They are a hundred feet or more in diameter; they can travel at speeds of several thousand miles per hour; they can reach altitudes well above those which should support conventional air craft or balloons; and ample power and force seem to be available for all required maneuvers.'",
 "tier": 1
 },
 {
+"id": "c-71b784730c",
 "source": "Library and Archives Canada exhibition, quoting Smith, Project Magnet report, 1952",
 "text": "Smith, Project Magnet report 1952: the next steps should be 'a substantial effort towards the acquisition of as much as possible of this technology, which would without doubt be of great value to us'.",
 "tier": 1
 },
 {
+"id": "c-a3e7e0dda4",
 "source": "Library and Archives Canada, 'Canada's UFOs' exhibition, Project Magnet report document page",
 "text": "Project Magnet material at Library and Archives Canada is cited in LAC's own exhibition as 'Shirley's Bay, Ontario, Project Magnet, 1952. RG 24, acc. 83-84/167, box 7523, file DRBS 3800-10-1, pt. 1'.",
 "tier": 1
 },
 {
+"id": "c-f91611b493",
 "source": "Wikipedia, 'Project Magnet (Canada)', citing Library and Archives Canada",
 "text": "'The project was formally approved on 2 December 1950 ... A small-scale undertaking, the project used DOT facilities, with some assistance from personnel at the Defence Research Board (DRB) and the National Research Council.'",
 "tier": 2
 },
 {
+"id": "c-b3999062f1",
 "source": "Office of the Chief Science Advisor of Canada, June 2025",
 "text": "Sky Canada Project, June 2025: 'the Department of Transport terminated Project Magnet in 1954.'",
 "tier": 1
@@ -40,6 +45,7 @@
 "dateEnd": "2000",
 "dateStart": "1952",
 "direction": "out",
+"edgeId": "e-3f0fc0d1e2",
 "edgeLabel": "1952 recommendation to acquire the technology prefigures Condign's redacted 'Related Military Applications'",
 "id": "doc-condign-report",
 "l0": true,
@@ -66,6 +72,7 @@
 "dateEnd": null,
 "dateStart": "1954",
 "direction": "out",
+"edgeId": "e-63e8053c9f",
 "edgeLabel": "Project Magnet records held at LAC",
 "id": "lac-ufo-collection",
 "l0": false,
@@ -87,6 +94,7 @@
 "dateEnd": "1962",
 "dateStart": "1950-11-21",
 "direction": "in",
+"edgeId": "e-af568a786a",
 "edgeLabel": "author of the request that created Project Magnet",
 "id": "wilbert-smith",
 "l0": false,
@@ -152,7 +160,7 @@
 ],
 "sub": "Canadian Department of Transport UAP and geomagnetic-propulsion study, 1950-1954 (privately to 1962)",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 373 of 1170, score 36). 3 connections, 1 of them custody/funding/programmatic. Axes C1/A2/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 375 of 1138, score 36). 3 connections, 1 of them custody/funding/programmatic. Axes C1/A2/D3.",
 "timeline": [
 {
 "claimTier": 2,

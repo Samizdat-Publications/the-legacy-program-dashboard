@@ -2,32 +2,67 @@
 "A": 0,
 "C": 0,
 "D": 3,
-"band": null,
+"band": "custody",
 "claims": [
 {
+"id": "c-623dc83a8f",
 "source": "UAP Gerb, MITRE investigation description, 7 August 2026",
 "text": "FFRDCs are the missing link: they allow the USG to technically vest programs outside the government while retaining strict control over materials, breakthroughs, data and programs, and they arbitrate what and how much information about UFO programs is shared with defense contractors.",
 "tier": 2
 },
 {
+"id": "c-ef3c50efe0",
 "source": "UAP Gerb, MITRE investigation description, 7 August 2026",
 "text": "MITRE has been central to a program reverse-engineering and maturing non-human technologies from late-1940s recoveries since its 1958 inception.",
 "tier": 2
 },
 {
+"id": "c-1fd8a02e99",
 "source": "UAP Gerb, MITRE investigation description, 7 August 2026",
 "text": "MITRE processes all-source data for the tracking and monitoring of an enormous USO ('tic tac factory') with permanent or semi-permanent station in the Atlantic.",
 "tier": 2
 },
 {
+"id": "c-a71c8b454b",
 "source": "UAP Gerb, MITRE investigation description, 7 August 2026",
 "text": "A legacy program briefing restriction was initiated in 2011 to cease historical briefings on program incumbents.",
 "tier": 2
 },
 {
+"id": "c-2015ddbadf",
 "source": "MITRE Corporation official website, retrieved 12 August 2026 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "text": "MITRE operates six FFRDCs: the National Security Engineering Center; the Center for Advanced Aviation System Development; the Center for Enterprise Modernization; the Homeland Security Systems Engineering and Development Institute; the Health FFRDC; and the National Cybersecurity FFRDC.",
 "tier": 2
+},
+{
+"id": "c-e8b18a23b9",
+"source": "YouTube publication record and description, 7 August 2026 — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"text": "The investigation was published 7 August 2026 by UAP Gerb, runs approximately two hours, and includes chapters titled FFRDC Primer, The MITRE Corporation, MITRE & UFO Legacy Programs, MITRE Gatekeepers, and MITRE Interrogative.",
+"tier": 2
+},
+{
+"id": "c-1028666d2b",
+"source": "UAP Gerb video description, 7 August 2026 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"text": "It states that MITRE, its 15 MITRE Labs and 6 operational FFRDCs have served as a long-term strategic partner in the US Government's and DoD's most national-security-sensitive national programs since 1958.",
+"tier": 2
+},
+{
+"id": "c-413d209acc",
+"source": "UAP Gerb video description, 7 August 2026",
+"text": "It alleges MITRE's role in two Navy-spearheaded legacy programmes: reverse engineering and maturation of non-human technologies from late-1940s recoveries, central to the MITRE portfolio since 1958; and tracking of an enormous USO with permanent or semi-permanent Atlantic station, with all-source data processed by MITRE.",
+"tier": 2
+},
+{
+"id": "c-66eeaec9a5",
+"source": "UAP Gerb video description, 7 August 2026",
+"text": "It alleges a legacy programme briefing restriction initiated in 2011 to cease historical briefings on programme incumbents.",
+"tier": 2
+},
+{
+"id": "c-609d946451",
+"source": "Cross-reference against CRS R44629's summary of FAR 35.017",
+"text": "Its central structural claim - that FFRDCs arbitrate what UFO programme information reaches defence contractors - is independently supported by FAR 35.017's grant of access to both government and supplier data beyond a normal contractual relationship. Reasoning: the regulation creates the chokepoint regardless of whether the specific allegations hold.",
+"tier": 3
 }
 ],
 "cls": "document",
@@ -40,6 +75,7 @@
 "dateEnd": "2026",
 "dateStart": "1960",
 "direction": "out",
+"edgeId": "e-cb955e3042",
 "edgeLabel": "Groups Aerospace Corporation with MITRE as the FFRDC layer",
 "id": "aerospace-corporation",
 "l0": false,
@@ -62,10 +98,60 @@
 },
 {
 "claimTier": 2,
+"cls": "document",
+"dateEnd": null,
+"dateStart": "2026",
+"direction": "out",
+"edgeId": "e-d8bf46ae93",
+"edgeLabel": "Published as declared support for the congressional inquiry opened 11 weeks earlier",
+"id": "burlison-mitre-letter-2026",
+"l0": true,
+"label": "Rep. Burlison records demand to MITRE, 22 May 2026",
+"note": "Burlison's letter is dated 22 May 2026; the investigation was published 7 August 2026 and states it seeks to directly aid that inquiry.",
+"sources": [
+{
+"date": "2026-08-07",
+"name": "UAP Gerb, YouTube",
+"url": "https://www.youtube.com/watch?v=107BtDYhTkA"
+}
+],
+"tier": "A",
+"type": "temporal"
+},
+{
+"claimTier": 3,
+"cls": "domain",
+"dateEnd": null,
+"dateStart": "2026",
+"direction": "out",
+"edgeId": "e-6832526c0c",
+"edgeLabel": "Argues FFRDCs are the 'missing link' that lets programmes be vested outside government",
+"id": "d-ffrdc",
+"l0": false,
+"label": "The FFRDC Seam",
+"note": "The structural argument is independently supported by FAR 35.017's dual-access provision, whatever the status of the specific allegations.",
+"sources": [
+{
+"date": "2026-08-07",
+"name": "UAP Gerb, YouTube",
+"url": "https://www.youtube.com/watch?v=107BtDYhTkA"
+},
+{
+"date": "2026-05-15",
+"name": "CRS Report R44629",
+"url": "https://www.everycrsreport.com/reports/R44629.html"
+}
+],
+"tier": "B",
+"type": "investigative"
+},
+{
+"claimTier": 2,
 "cls": "domain",
 "dateEnd": "2026",
 "dateStart": "1958",
 "direction": "out",
+"edgeId": "e-878ce88754",
 "edgeLabel": "Establishes the FFRDC arbitration thesis",
 "id": "ffrdc-mechanism",
 "l0": false,
@@ -87,6 +173,7 @@
 "dateEnd": "2026",
 "dateStart": "2011",
 "direction": "out",
+"edgeId": "e-9f02974d7c",
 "edgeLabel": "Alleged 2011 restriction on historical briefings about program incumbents",
 "id": "mitre-corporation",
 "l0": true,
@@ -108,6 +195,7 @@
 "dateEnd": "2026",
 "dateStart": "1958",
 "direction": "out",
+"edgeId": "e-84f69e61f4",
 "edgeLabel": "Names MITRE as the central FFRDC node of the legacy portfolio",
 "id": "mitre-corporation",
 "l0": true,
@@ -126,9 +214,32 @@
 {
 "claimTier": 2,
 "cls": "institution",
+"dateEnd": null,
+"dateStart": "2026",
+"direction": "out",
+"edgeId": "e-318766f210",
+"edgeLabel": "Alleges MITRE has held a Navy legacy reverse-engineering role since 1958",
+"id": "mitre-corporation",
+"l0": true,
+"label": "The MITRE Corporation",
+"note": "Allegations include exploitation of non-human technologies from late-1940s recoveries and all-source processing of data on a very large Atlantic USO; no primary document has been produced.",
+"sources": [
+{
+"date": "2026-08-07",
+"name": "UAP Gerb, YouTube",
+"url": "https://www.youtube.com/watch?v=107BtDYhTkA"
+}
+],
+"tier": "A",
+"type": "investigative"
+},
+{
+"claimTier": 2,
+"cls": "institution",
 "dateEnd": "2026",
 "dateStart": "1958",
 "direction": "out",
+"edgeId": "e-b82f635ae3",
 "edgeLabel": "Alleges MITRE support to two Navy-spearheaded legacy programs",
 "id": "oni",
 "l0": false,
@@ -150,6 +261,7 @@
 "dateEnd": "1958",
 "dateStart": "1958",
 "direction": "out",
+"edgeId": "e-96ed43b4ac",
 "edgeLabel": "MITRE founded as the Air Force's successor to RAND",
 "id": "rand-corporation",
 "l0": true,
@@ -171,6 +283,7 @@
 "dateEnd": "2026",
 "dateStart": "2026",
 "direction": "in",
+"edgeId": "e-01829daf96",
 "edgeLabel": "Gerb authored and published the MITRE investigation",
 "id": "uap-gerb",
 "l0": false,
@@ -190,7 +303,7 @@
 "coords": null,
 "dateEnd": "2026",
 "dateStart": "2026",
-"deg": 6,
+"deg": 8,
 "denials": [
 {
 "a": {
@@ -207,6 +320,7 @@
 },
 "claimTier": 2,
 "denialKind": "directed",
+"edgeId": "e-9f02974d7c",
 "label": "Alleged 2011 restriction on historical briefings about program incumbents",
 "note": "A policy act alleged to prevent even cleared personnel from being briefed on the programme's own history - concealment directed inward at the programme's own workforce rather than outward at the public.",
 "of": {
@@ -344,13 +458,45 @@
 },
 "hl": null,
 "id": "gerb-mitre-investigation",
-"l0": false,
+"l0": true,
 "label": "UAP Gerb - The MITRE Corporation investigation",
 "locLabel": null,
-"members": null,
+"members": [
+{
+"cls": "institution",
+"id": "aerospace-corporation",
+"label": "The Aerospace Corporation",
+"tier": "B"
+},
+{
+"cls": "domain",
+"id": "d-ffrdc",
+"label": "The FFRDC Seam",
+"tier": "B"
+},
+{
+"cls": "domain",
+"id": "ffrdc-mechanism",
+"label": "The FFRDC / UARC / GOCO mechanism",
+"tier": "B"
+},
+{
+"cls": "institution",
+"id": "oni",
+"label": "Office of Naval Intelligence",
+"tier": "B"
+},
+{
+"cls": "person",
+"id": "uap-gerb",
+"label": "'UAP Gerb' (Sam)",
+"tier": "A"
+}
+],
 "openQuestions": [],
-"short": "UAP Gerb - The MITRE Corporation investigation",
+"short": "UAP Gerb",
 "sourceFiles": [
+"ffrdcs",
 "media-structure"
 ],
 "sources": [
@@ -363,11 +509,16 @@
 "date": "2026-08-12",
 "name": "MITRE Corporation - official site (FFRDC list)",
 "url": "https://www.mitre.org/"
+},
+{
+"date": "2026-08-12",
+"name": "UAP Gerb - YouTube channel",
+"url": "https://www.youtube.com/@UAPGerb/videos"
 }
 ],
 "sub": "Video investigation, 7 Aug 2026",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 439 of 1170, score 33). 7 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 211 of 1138, score 45). 10 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D3.",
 "timeline": [
 {
 "claimTier": null,
@@ -388,6 +539,16 @@
 "precision": "day",
 "strand": "program",
 "text": "The FFRDC arbitration thesis in full: MITRE as the missing link, two alleged Navy-spearheaded programs, an Atlantic USO tracking mission, and a 2011 restriction on historical briefings about program incumbents."
+},
+{
+"claimTier": null,
+"date": "2026-08-07",
+"grade": "B",
+"id": "tl-ffrdc-2026-gerb",
+"label": "UAP Gerb publishes the MITRE investigation",
+"precision": "day",
+"strand": "witness",
+"text": "A two-hour open-source investigation places an FFRDC rather than a prime contractor at the centre of the legacy programme thesis, alleging a Navy reverse-engineering role since 1958 and MITRE processing of data on a large Atlantic USO."
 }
 ],
 "unverified": []

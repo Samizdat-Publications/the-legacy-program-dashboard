@@ -4,14 +4,36 @@
 "D": 2,
 "affiliations": [
 "McDonnell Douglas Corporation (43 years), manager of advanced research and development",
-"The Majestic Documents / majesticdocuments.com, co-principal with Ryan S. Wood"
+"The Majestic Documents / majesticdocuments.com, co-principal with Ryan S. Wood",
+"McDonnell Douglas Astronautics Company (1956-1993)",
+"majesticdocuments.com, co-founder with Ryan S. Wood"
 ],
 "age": null,
 "band": null,
 "chronology": [
 {
+"date": "1956",
+"event": "Joins Douglas Aircraft, later McDonnell Douglas Astronautics",
+"precision": "year"
+},
+{
+"date": "1968",
+"event": "Initiates a company-funded study of unidentified craft and their propulsion at the Huntington Beach facility",
+"precision": "year"
+},
+{
+"date": "1993",
+"event": "Retires from McDonnell Douglas",
+"precision": "year"
+},
+{
 "date": "1999",
 "event": "majesticdocuments.com established with Ryan S. Wood to publish and rate the leaked-document corpus",
+"precision": "year"
+},
+{
+"date": "1999",
+"event": "Launches the majesticdocuments.com archive with Ryan S. Wood",
 "precision": "year"
 },
 {
@@ -22,25 +44,42 @@
 ],
 "claims": [
 {
+"id": "c-4792e91435",
 "source": "majesticdocuments.com site structure and copyright notice, retrieved 12 August 2026",
 "text": "majesticdocuments.com is operated by Dr. Robert M. Wood and Ryan S. Wood, carries a 1999-2026 copyright, and organises its holdings by date band with a published 'Authenticity Ratings' scheme, alongside sections for FOIA, NARA, Truman Library and British Public Record Office material.",
 "tier": 1
 },
 {
+"id": "c-b3735068f1",
 "source": "Wood's own account, given in lectures and in the Majestic Documents materials",
 "text": "Wood managed advanced research at McDonnell Douglas for 43 years and directed a company study of field-propulsion effects related to UFO reports.",
 "tier": 2
 },
 {
+"id": "c-e912a1091d",
 "source": "Comparison of published treatments of the MJ-12 corpus",
 "text": "The Wood forensic protocol is the correct methodological answer to the MJ-12 problem even where its conclusions are wrong, because it makes the documents falsifiable. Reasoning: every other treatment of the corpus - Friedman's defence, Klass's attack, the FBI's one-word 'BOGUS' annotation - asserts a verdict without publishing a repeatable test.",
+"tier": 3
+},
+{
+"id": "c-4ff20e480e",
+"source": "Robert M. Wood's own repeated public account, including via the majesticdocuments.com archive he co-founded",
+"text": "Wood spent his career at McDonnell Douglas Astronautics and ran a company-funded study of unidentified craft from the Huntington Beach facility in the late 1960s.",
+"tier": 2
+},
+{
+"id": "c-424998f180",
+"source": "Board inference from Wood's account and DoDI 3204.01 IR&D structure",
+"text": "McDonnell Douglas's interest was corporate self-protection - a prime contractor conducting proprietary research into an aerospace capability it did not possess. Reasoning: this matches the incentive structure later codified in DoD IR&D policy and named by Grusch, but no McDonnell Douglas internal record of the study has been released.",
 "tier": 3
 }
 ],
 "cls": "person",
 "cluster": "research",
 "conflicts": [
-"The document corpus Wood rates as probably authentic is regarded by Kevin Randle, Philip Klass and most historians as fabricated. The FBI annotated related material 'BOGUS'."
+"The document corpus Wood rates as probably authentic is regarded by Kevin Randle, Philip Klass and most historians as fabricated. The FBI annotated related material 'BOGUS'.",
+"Two records of this person carry different reference dates, 1 January 2026 on this node and 1 January 1970 on the collapsed duplicate robert-wood. Neither is a biographical date and no record on the board says what either marks; the board keeps 2026-01-01.",
+"Wood is the principal proponent of the authenticity of the Majestic-12 documents, a contested body of material; his corporate testimony and his documents work should be graded separately."
 ],
 "connections": [
 {
@@ -49,6 +88,7 @@
 "dateEnd": "2026",
 "dateStart": "1999",
 "direction": "out",
+"edgeId": "e-c8f09a7e02",
 "edgeLabel": "Co-principal of the document archive and its rating scheme",
 "id": "majestic-documents-archive",
 "l0": false,
@@ -63,12 +103,34 @@
 ],
 "tier": "C",
 "type": "research"
+},
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": "1970",
+"dateStart": "1968",
+"direction": "out",
+"edgeId": "e-26b335c0ff",
+"edgeLabel": "Wood ran a company-funded study of unidentified craft at McDonnell Douglas Astronautics",
+"id": "mcdonnell-douglas",
+"l0": false,
+"label": "McDonnell Douglas Corporation",
+"note": "Wood spent his career at the Huntington Beach astronautics organisation and has repeatedly described initiating an internal study on the reasoning that a prime could not afford to be last to know if the propulsion were real.",
+"sources": [
+{
+"date": "2020-07-09",
+"name": "DoD Instruction 3204.01, 'DoD Policy for Oversight of Independent Research and Development (IR&D)' (Change 2)",
+"url": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/320401p.pdf"
+}
+],
+"tier": "C",
+"type": "institutional"
 }
 ],
 "date": "2026-01-01",
 "dateEnd": null,
 "dateStart": "2026-01-01",
-"deg": 1,
+"deg": 2,
 "denials": [],
 "domains": [
 "d-recovery",
@@ -95,6 +157,8 @@
 "sequenceChain": [],
 "short": "Dr. Robert M. Wood",
 "sourceFiles": [
+"_rs-archive-mirror",
+"primes-custody",
 "w2-retrieval-literature"
 ],
 "sources": [
@@ -107,15 +171,32 @@
 "date": "2026-08-12",
 "name": "The Majestic Documents - About",
 "url": "https://majesticdocuments.com/about/"
+},
+{
+"date": "2026-03-09",
+"name": "Archived: DoD Instruction 3204.01, 'DoD Policy for Oversight of Independent Research and Development (IR&D)' (Change 2) (Wayback 2026-03-09)",
+"url": "https://web.archive.org/web/20260309144222/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/320401p.pdf"
+},
+{
+"date": "2026-08-12",
+"name": "The Majestic Documents archive (Robert M. Wood and Ryan S. Wood)",
+"url": "https://www.majesticdocuments.com/about/"
+},
+{
+"date": "2020-07-09",
+"name": "DoD Instruction 3204.01, 'DoD Policy for Oversight of Independent Research and Development (IR&D)' (Change 2)",
+"url": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/320401p.pdf"
 }
 ],
 "status": "active",
 "sub": "PhD physics; 43 years at McDonnell Douglas; co-principal, The Majestic Documents",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 944 of 1170, score 17). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 795 of 1138, score 21). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D2.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": [
-"Wood's date of birth; the internal McDonnell Douglas project number or funding line for the field-propulsion study he describes."
+"Wood's date of birth; the internal McDonnell Douglas project number or funding line for the field-propulsion study he describes.",
+"Any McDonnell Douglas internal document authorising or reporting the study.",
+"Whether the study was charged to IR&D overhead or to discretionary corporate funds."
 ]
 }

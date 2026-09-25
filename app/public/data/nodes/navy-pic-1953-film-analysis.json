@@ -5,16 +5,19 @@
 "band": null,
 "claims": [
 {
+"id": "c-deb08bc110",
 "source": "EarthSky, 10 August 2026, quoting the document released in PURSUE Release 05",
 "text": "A 1953 Navy Photographic Interpretation Center analysis of the 1950 Montana and 1952 Utah films assessed the Utah objects, after over 1,000 hours of analysis, as 'bright, silvery reflective disks' that were 'self-luminous, intelligently controlled' and inconsistent with 'natural phenomena or commonly known aerospace technologies.'",
 "tier": 2
 },
 {
+"id": "c-720a30c7f5",
 "source": "war.gov/UFO release index; EarthSky, 10 August 2026 — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
 "text": "The document was released on 7 August 2026 in PURSUE Release 05 at war.gov/UFO.",
 "tier": 2
 },
 {
+"id": "c-6b1486cc90",
 "source": "Inference from the released 1953 Navy PIC assessment against the documented Robertson Panel recommendations on the Great Falls and Tremonton films",
 "text": "The Navy PIC finding and the Robertson Panel's January 1953 disposition of the same films are irreconcilable, and the panel's recommendation prevailed as policy for seventy-three years while the Navy's affirmative finding stayed unpublished.",
 "tier": 3
@@ -30,6 +33,7 @@
 "dateEnd": null,
 "dateStart": "2026-08-07",
 "direction": "in",
+"edgeId": "e-053e6d6bd3",
 "edgeLabel": "published as DOW-UAP-D098",
 "id": "pursue-r05-identifiers",
 "l0": false,
@@ -51,6 +55,7 @@
 "dateEnd": "2026",
 "dateStart": "2026",
 "direction": "in",
+"edgeId": "e-452dd70252",
 "edgeLabel": "Released the 1953 Navy photo-interpretation finding",
 "id": "pursue-release-05",
 "l0": false,
@@ -77,6 +82,7 @@
 "dateEnd": null,
 "dateStart": "1953",
 "direction": "out",
+"edgeId": "e-814761da21",
 "edgeLabel": "Contradicts the panel's 1953 disposition of the same films",
 "id": "robertson-panel",
 "l0": true,
@@ -148,7 +154,7 @@
 ],
 "sub": "Released in PURSUE Release 05, 7 August 2026",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 430 of 1170, score 33). 3 connections, 2 of them custody/funding/programmatic. Axes C1/A3/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 430 of 1138, score 33). 3 connections, 2 of them custody/funding/programmatic. Axes C1/A3/D3.",
 "timeline": [
 {
 "claimTier": null,

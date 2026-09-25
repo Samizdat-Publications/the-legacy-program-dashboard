@@ -8,16 +8,19 @@
 "chronology": [],
 "claims": [
 {
+"id": "c-238495d2a1",
 "source": "https://irp.fas.org/dia/aatip-list.pdf",
 "text": "Named on the DIA list of AATIP/AAWSAP products supplied to the Senate Armed Services Committee as author of 'Pulsed High-Power Microwave Technology', affiliation 'J W Enterprises'.",
 "tier": 1
 },
 {
+"id": "c-c356ded2b2",
 "source": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html",
 "text": "The earlier George Knapp / KLAS-TV list of 25 July 2018 gives the same author with the affiliation 'Northrop Grumman' rather than J W Enterprises. The discrepancy is unresolved; the DIA list is treated as authoritative.",
 "tier": 2
 },
 {
+"id": "c-f5c80eed7d",
 "source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_03-DIRD_Pulsed_High-Power_Microwave_Source_Technology.pdf",
 "text": "No verified biography, institutional affiliation page or publication record has been located for this author beyond the DIA list entry; the author line on the released DIRD cover page is redacted under (b)(6).",
 "tier": 2
@@ -33,6 +36,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-3b0c60af92",
 "edgeLabel": "authored by",
 "id": "dird-pulsed-high-power-microwave-source-technology",
 "l0": false,
@@ -132,7 +136,7 @@
 "status": "active",
 "sub": "Author, Pulsed High-Power Microwave Source Technology DIRD; affiliation given as J W Enterprises on the DIA list",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 1070 of 1170, score 12). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 1039 of 1138, score 12). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": []

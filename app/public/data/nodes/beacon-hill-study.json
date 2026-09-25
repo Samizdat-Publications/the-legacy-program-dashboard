@@ -5,11 +5,13 @@
 "band": null,
 "claims": [
 {
+"id": "c-96f54ca9c7",
 "source": "Rep. Eric Burlison press release, 26 May 2026",
 "text": "Burlison's 26 May 2026 press release names the Beacon Hill Study together with 'AF-ATIC-FILM, 03/52', MIT Lincoln Laboratory, NARA and Record Group 615.",
 "tier": 1
 },
 {
+"id": "c-c7d46f682c",
 "source": "Inference from Burlison's press release pairing of the two items",
 "text": "Ruppelt's March 1952 briefing being held by Lincoln Laboratory and named alongside Beacon Hill indicates the Blue Book directorate briefed the reconnaissance study group directly. Reasoning: the film designation, date and custodian align with the study's timeframe and location; no minutes have been produced.",
 "tier": 3
@@ -25,6 +27,7 @@
 "dateEnd": "1952",
 "dateStart": "1952",
 "direction": "in",
+"edgeId": "e-25c09fade4",
 "edgeLabel": "The briefing was given into the 1952 Beacon Hill reconnaissance study circle",
 "id": "af-atic-film-0352",
 "l0": false,
@@ -46,6 +49,7 @@
 "dateEnd": "1952",
 "dateStart": "1952",
 "direction": "out",
+"edgeId": "e-06aa97393e",
 "edgeLabel": "Beacon Hill was convened in the MIT/Lincoln Laboratory complex for the Air Force",
 "id": "mit-lincoln-laboratory",
 "l0": false,
@@ -58,7 +62,7 @@
 "url": "https://burlison.house.gov/media/press-releases/burlison-presses-mitre-answers-uap-records-ffrdc-accountability-and-compliance"
 }
 ],
-"tier": "A",
+"tier": "B",
 "type": "institutional"
 }
 ],
@@ -96,7 +100,7 @@
 ],
 "sub": "1952 classified summer study on aerial reconnaissance convened at MIT / Lincoln Laboratory for the Air Force",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 819 of 1170, score 21). 2 connections, 1 of them custody/funding/programmatic. Axes C1/A2/D1.",
+"tierRationale": "Re-graded C on a global pass (rank 802 of 1138, score 21). 2 connections, 1 of them custody/funding/programmatic. Axes C1/A2/D1.",
 "timeline": [],
 "unverified": []
 }

@@ -8,11 +8,13 @@
 "chronology": [],
 "claims": [
 {
+"id": "c-fe23487dec",
 "source": "Open Library bibliographic record, https://openlibrary.org/books/OL7950835M/Project_Beta , opened 2026-09-19",
 "text": "Project Beta: The Story of Paul Bennewitz, National Security, and the Creation of a Modern UFO Myth, by Greg Bishop, published by Paraview Pocket Books on 8 February 2005, ISBN 9780743470926 and 0743470923, 288 pages, LCCN 2005297375, OCLC 57678877.",
 "tier": 1
 },
 {
+"id": "c-0a57fadf32",
 "source": "Stephen Fisher, The Trenchant Edges Newsletter, 29 November 2025, https://www.trenchantedges.com/p/what-did-they-do-to-paul-bennewitz , opened 2026-09-19",
 "text": "A CAVEAT THAT TRAVELS WITH EVERY CITATION OF THE BOOK. Stephen Fisher, writing on 29 November 2025 and himself relying almost entirely on Bishop as sole source, states that Bishop had an undisclosed friendship with Bill Moore, a central figure in the operation the book narrates. The book is therefore a participant account at one remove and should never be the sole source for a claim about Moore's conduct.",
 "tier": 2
@@ -28,6 +30,7 @@
 "dateEnd": "2005-02-08",
 "dateStart": "2005-02-08",
 "direction": "out",
+"edgeId": "e-bdf5445365",
 "edgeLabel": "Author of Project Beta (2005)",
 "id": "project-beta-bishop-2005",
 "l0": false,
@@ -87,7 +90,7 @@
 "status": "alive",
 "sub": "Author of Project Beta (2005), the principal documented account of the Bennewitz affair, and a live source on the board from 2025",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 1114 of 1170, score 10). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 1084 of 1138, score 10). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": [

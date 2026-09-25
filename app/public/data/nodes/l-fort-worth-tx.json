@@ -5,11 +5,13 @@
 "band": null,
 "claims": [
 {
+"id": "c-dea528a11a",
 "source": "Contemporaneous press record; GAO/NSIAD-95-187 background",
 "text": "The Roswell debris was flown to Eighth Air Force headquarters at Fort Worth on 8 July 1947, where it was publicly identified as a weather balloon.",
 "tier": 1
 },
 {
+"id": "c-1fa0fde382",
 "source": "Board bookkeeping",
 "text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
 "tier": 3
@@ -25,6 +27,7 @@
 "dateEnd": "1947-07-08",
 "dateStart": "1947-07-08",
 "direction": "in",
+"edgeId": "e-7f8bdd03ff",
 "edgeLabel": "Where the disc became a balloon",
 "id": "d-roswell",
 "l0": false,
@@ -84,7 +87,7 @@
 ],
 "sub": "City in north Texas; site of Eighth Air Force headquarters at Fort Worth AAF (later Carswell AFB)",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 699 of 1170, score 25). 1 connections, 1 of them custody/funding/programmatic. Axes C3/A1/D1.",
+"tierRationale": "Re-graded C on a global pass (rank 688 of 1138, score 25). 1 connections, 1 of them custody/funding/programmatic. Axes C3/A1/D1.",
 "timeline": [],
 "unverified": []
 }

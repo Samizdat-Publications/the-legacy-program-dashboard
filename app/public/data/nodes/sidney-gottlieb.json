@@ -8,31 +8,37 @@
 "chronology": [],
 "claims": [
 {
+"id": "c-2a5a1c726c",
 "source": "CIA Reading Room document 00017441, MKULTRA SUBPROJECT 43 (18 documents, pubdates 550321 to 560308), Internet Archive mirror, https://archive.org/details/cia-readingroom-document-00017441",
 "text": "Gottlieb signed the money. The released MKULTRA Subproject 43 file carries invoice certifications over the signature 'SIDNEY GOTTLIEB, Chief, TSS/CD' attesting 'that performance is satisfactory, that the services are being accomplished in accordance with mutual agreements, that a detailed agenda of the payments and receipts is on file in TSS/CD'. Invoice No. 1 is dated 31 March 1955 and Invoice No. 2 is dated 28 June 1955.",
 "tier": 1
 },
 {
+"id": "c-dc74adecf8",
 "source": "Report of Inspection of MKULTRA, CIA Inspector General, 26 July 1963, https://nsarchive.gwu.edu/sites/default/files/documents/1963-07-26%20JM%20Box%208%20F2%20MKUltra-IG_Report-ocr.pdf",
 "text": "The Agency's own Inspector General placed him one rung below the top of TSD in 1963: 'The present Deputy Chief of TSD, Dr. Sidney Gottlieb, in his then capacity of scientific advisor to the Deputy Director/Plans (DD/P), released a study ... on 21 April 1960, covering his six-month investigation of \"Scientific and Technical Problems in Covert Action Operations\".'",
 "tier": 1
 },
 {
+"id": "c-8cd45018d5",
 "source": "Project MKULTRA joint hearing, 3 August 1977, Appendix B, https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf",
 "text": "He gave the destruction order. 'In January 1973, MKULTRA records were destroyed by Technical Services Division personnel acting on the verbal orders of Dr. Sidney Gottlieb, Chief of TSD. Dr. Gottlieb has testified, and former Director Helms has confirmed, that in ordering the records destroyed, Dr. Gottlieb was carrying out the verbal order of then DCI Helms.'",
 "tier": 1
 },
 {
+"id": "c-3d3522d4d5",
 "source": "Memorandum for the Deputy Director of Central Intelligence, 'Request for Guidance on Handling Recently Located MKULTRA Material', 22 June 1977, from David S. Brandwein, Director, Office of Technical Service, Appendix B of the Project MKULTRA joint hearing, https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf",
 "text": "A CIA memorandum of 22 June 1977 reprinted in the hearing print explains why the 1973 searches missed the finance folders: 'Because Dr. Gottlieb retrieved and destroyed all the MKULTRA documents he was able to locate, it is not surprising that the earlier search for MKULTRA documents, directed at areas where they were most likely to be found, was unsuccessful.'",
 "tier": 1
 },
 {
+"id": "c-77631bea22",
 "source": "Project MKULTRA joint hearing, 3 August 1977, Appendix B, https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf",
 "text": "He is one of the two officers named as running the experiment that killed Frank Olson: 'The drug had been placed in the bottle by a CIA officer, Dr. Robert Lashbrook, as part of an experiment he and Dr. Sidney Gottlieb performed at a meeting of Army and CIA scientists.' The same text records that neither the Chief of TSS nor the Deputy Director for Plans specifically authorized that experiment.",
 "tier": 1
 },
 {
+"id": "c-95da124da9",
 "source": "Danny Jones Podcast, ep. 100, 1 July 2021, 1:08:19 to 1:10:07",
 "text": "On the Danny Jones Podcast, episode 100, 1 July 2021, at 1:08:19 to 1:10:07, Tom O'Neill described Gottlieb as Louis Jolyon West's handler, said their correspondence began at Lackland Air Force Base and said Gottlieb offered West an operational alias which West declined as more conspicuous. No record opened for this node bears on any of it, and the released Subproject 43 file names no researcher.",
 "tier": 2
@@ -48,6 +54,7 @@
 "dateEnd": "1973",
 "dateStart": "1955",
 "direction": "out",
+"edgeId": "e-f56027ec83",
 "edgeLabel": "Chief, TSS Chemical Division 1955; Deputy Chief, TSD 1963; Chief, TSD 1973",
 "id": "cia",
 "l0": true,
@@ -69,6 +76,7 @@
 "dateEnd": null,
 "dateStart": "1973-01",
 "direction": "out",
+"edgeId": "e-190fca4c68",
 "edgeLabel": "Ordered the destruction of the MKULTRA files, January 1973",
 "id": "d-records",
 "l0": false,
@@ -90,6 +98,7 @@
 "dateEnd": null,
 "dateStart": "1953-11-19",
 "direction": "in",
+"edgeId": "e-f68c1794c2",
 "edgeLabel": "Named with Lashbrook as running the experiment",
 "id": "frank-olson-death-1953",
 "l0": false,
@@ -111,6 +120,7 @@
 "dateEnd": "1973",
 "dateStart": "1955",
 "direction": "out",
+"edgeId": "e-8f94d80b28",
 "edgeLabel": "Certified subproject invoices 1955; Chief of TSD at the 1973 destruction",
 "id": "mkultra",
 "l0": true,
@@ -175,7 +185,7 @@
 "status": "former",
 "sub": "Chief, Technical Services Staff Chemical Division 1955; Deputy Chief, Technical Services Division 1963; Chief of TSD, and the officer whose verbal order destroyed the MKULTRA records, January 1973",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 347 of 1170, score 36). 4 connections, 2 of them custody/funding/programmatic. Axes C0/A3/D0.",
+"tierRationale": "Re-graded B on a global pass (rank 348 of 1138, score 36). 4 connections, 2 of them custody/funding/programmatic. Axes C0/A3/D0.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": []

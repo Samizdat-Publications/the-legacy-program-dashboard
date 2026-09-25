@@ -5,26 +5,31 @@
 "band": null,
 "claims": [
 {
+"id": "c-8d1506e27c",
 "source": "M. Krenzke, K. Horn and J. Proffitt, Potential Hull Structures for Rescue and Search Vehicles of the Deep-Submergence Systems Project, David Taylor Model Basin Report 1985, March 1965, DTIC AD-614632, https://archive.org/details/DTIC_AD0614632",
 "text": "The programme has a dated origin and a named parent. 'The Deep-Submergence Systems Review Group (DSSRG) was established in April 1963 to (1) review the Navy's plans for the development and procurement of components and systems related to location, identification, rescue from and recovery of deep-submerged large objects from the ocean floor.' Then: 'In February 1964 the Group reported its findings and recommendations. After review of the report, the Secretary of the Navy assigned the responsibility for implementation of the program, which was renamed the Deep-Submergence Systems Project (DSSP), to the Navy's Special Projects Office.'",
 "tier": 1
 },
 {
+"id": "c-892c6f3fac",
 "source": "David Taylor Model Basin Report 1985, March 1965, DTIC AD-614632, https://archive.org/details/DTIC_AD0614632",
 "text": "Its stated objectives are rescue and recovery: 'Two primary objectives of the DSSP are to develop the capability of rescuing personnel from distressed submarines and to locate and recover small objects from the ocean depths.' Planned force in 1965 was six rescue vehicles and four search vehicles operational by 1970.",
 "tier": 1
 },
 {
+"id": "c-cc252c5bd3",
 "source": "David Taylor Model Basin Report 1985, March 1965, DTIC AD-614632, https://archive.org/details/DTIC_AD0614632",
 "text": "The 20,000 foot capability belongs to the search vehicle, not the rescue vehicle. The search vehicle's primary missions are 'to search the ocean bottom to depths of 20,000 ft for either large or small objects and to recover small objects either by actually lifting them or by making an attachment to the object so that a surface lift, or buoyancy lift, can be accomplished', while the study states of the rescue vehicle that 'Only operating depths of 6000 ft are considered in this study.'",
 "tier": 1
 },
 {
+"id": "c-c78fcc5791",
 "source": "The Ocean Engineering Program of the U.S. Navy: Accomplishments and Prospects, Office of the Oceanographer of the Navy, September 1967, DTIC AD-665974, https://archive.org/details/DTIC_AD0665974",
 "text": "The Navy's own 1967 account gives the launch year and the organisational home: 'The Deep Submergence Systems Project (DSSP) was established as a separate Project within the Naval Material Command. The DSSP was launched in 1964 to develop and deliver to the fleet new underwater capabilities: a new rescue system, a large object salvage system, diver tools, the techniques of saturated diving for extended operations on the continental shelf, and new submersible vehicles capable of searching the ocean floors.' The same report describes a planned Deep Submergence Search Vehicle 'whose mission is ultimately to conduct sea floor search to a depth of 20,000 ft, providing coverage of 98 percent of the worlds oceans.'",
 "tier": 1
 },
 {
+"id": "c-1631bb4c74",
 "source": "The Ocean Engineering Program of the U.S. Navy, September 1967, DTIC AD-665974, https://archive.org/details/DTIC_AD0665974",
 "text": "Two real recoveries frame the programme in the Navy's own telling: the loss of USS Thresher in 1963, whose hull was located in 8,500 ft of water after the casualty 'focused national attention on Navy capabilities underwater', and the 1966 loss of an unarmed nuclear weapon off the Mediterranean coast, located on the sea floor by ALVIN and recovered by the unmanned vehicle CURV.",
 "tier": 1
@@ -40,6 +45,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-f69bbf9dd3",
 "edgeLabel": "Assigned by the Secretary of the Navy to the Special Projects Office, February 1964",
 "id": "us-navy",
 "l0": true,
@@ -105,7 +111,7 @@
 ],
 "sub": "US Navy project for deep-ocean rescue, search, salvage and recovery, established 1964 in the Special Projects Office",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 459 of 1170, score 32). 1 connections, 0 of them custody/funding/programmatic. Axes C2/A2/D1.",
+"tierRationale": "Re-graded B on a global pass (rank 457 of 1138, score 32). 1 connections, 0 of them custody/funding/programmatic. Axes C2/A2/D1.",
 "timeline": [],
 "unverified": []
 }

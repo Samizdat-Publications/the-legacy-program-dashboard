@@ -5,31 +5,37 @@
 "band": "oversight",
 "claims": [
 {
+"id": "c-4dd55e60d3",
 "source": "S. Rept. 94-755, Book I, title page and Part I section A, https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-94755-i.pdf",
 "text": "'On January 27, 1975, Senate Resolution 21 established a select committee \"to conduct an investigation and study of governmental operations with respect to intelligence activities and of the extent, if any, to which illegal, improper, or unethical activities were engaged in by any agency of the Federal Government.\"' Book I of the final report, Senate Report 94-755, was filed on 'APRIL 26 (legislative day, APRIL 14), 1976'.",
 "tier": 1
 },
 {
+"id": "c-3c08b97863",
 "source": "S. Rept. 94-755, Book I, Part I section C, 'The Focus and Scope of the Committee's Inquiry and Obstacles Encountered', https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-94755-i.pdf",
 "text": "The committee's own account of the obstacles it met: 'Despite its legal Senate mandate, and the issuance of subpoenas, in no instance has the Committee been able to examine the agencies' files on its own. In all the agencies, whether CIA, FBI, NSA, INR, DIA, or the NSC, documents and evidence have been presented through the filter of the agency itself.' It adds that 'the Central Intelligence Agency and other agencies of the executive branch have limited the Committee's access to the full record.'",
 "tier": 1
 },
 {
+"id": "c-d39d2420e8",
 "source": "S. Rept. 94-755, Book I, NOTE following the Letter of Transmittal, https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-94755-i.pdf",
 "text": "The report's own publication note records that it 'has been reviewed and declassified by the appropriate executive agencies' and that 'At the request of the agencies, the Committee deleted three chapters from this report: \"Cover,\" \"Espionage,\" and \"Budgetary Oversight.\"' Two sections of the covert-action chapter and one section of the State Department chapter were also deleted at agency request.",
 "tier": 1
 },
 {
+"id": "c-9c7d557987",
 "source": "S. Rept. 94-755, Book I, committee page and Part I section C, https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-94755-i.pdf",
 "text": "The committee was chaired by Frank Church of Idaho with John G. Tower of Texas as Vice Chairman, and had eleven members, six from the majority and five from the minority. 'The Committee staff of 100, including 60 professionals, has assisted the 11 members of the Committee in this indepth inquiry which involved more than 800 interviews, over 250 executive hearings, and documentation in excess of 110,000 pages.'",
 "tier": 1
 },
 {
+"id": "c-e67b8a3bb3",
 "source": "S. Rept. 94-755, Book I, Findings and Recommendations, https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-94755-i.pdf",
 "text": "Among its findings: 'The Committee finds that Congress has failed to provide the necessary statutory guidelines to ensure that intelligence agencies carry out their missions in accord with constitutional processes. Mechanisms for, and the practice of, congressional oversight have not been adequate.' And on money: 'Congress' failure as a whole to monitor the intelligence agencies' expenditures has been a major element in the ineffective legislative oversight of the intelligence community.'",
 "tier": 1
 },
 {
+"id": "c-583719cb99",
 "source": "michels-corpus-02.md file 02 at 13;52 and 14;51 (Shellenberger); michels-corpus-05.md file 04 at 18;41 (West)",
 "text": "Two Michels-corpus speakers who agree on very little else, Michael Shellenberger and Mick West, each name the Church Committee as the model for what oversight of a compartmented programme should look like. The committee's own report describes an inquiry whose every document arrived through the filter of the agency that held it.",
 "tier": 2
@@ -45,6 +51,7 @@
 "dateEnd": "1976",
 "dateStart": "1975",
 "direction": "out",
+"edgeId": "e-058c776f01",
 "edgeLabel": "Named by the committee as having limited its access to the full record",
 "id": "cia",
 "l0": true,
@@ -66,6 +73,7 @@
 "dateEnd": "1976",
 "dateStart": "1976",
 "direction": "out",
+"edgeId": "e-ff867cbf01",
 "edgeLabel": "Recommended annual publication of the aggregate national intelligence figure, and lost its own budget chapter",
 "id": "intel-budget-disclosure-record",
 "l0": false,
@@ -87,6 +95,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-5a79eea2e9",
 "edgeLabel": "Testified in September 1975; the mail programme is documented largely through him",
 "id": "james-jesus-angleton",
 "l0": false,
@@ -108,6 +117,7 @@
 "dateEnd": null,
 "dateStart": "1975",
 "direction": "out",
+"edgeId": "e-6f05b81bb7",
 "edgeLabel": "Investigated MKULTRA in 1975 without the finance file",
 "id": "mkultra",
 "l0": true,
@@ -129,6 +139,7 @@
 "dateEnd": "1976",
 "dateStart": "1975",
 "direction": "out",
+"edgeId": "e-70731be5f4",
 "edgeLabel": "The historical benchmark, and the source of the board's sharpest statement of the limit",
 "id": "oversight-congress",
 "l0": true,
@@ -150,6 +161,7 @@
 "dateEnd": "1976",
 "dateStart": "1976",
 "direction": "out",
+"edgeId": "e-2fcf8ea704",
 "edgeLabel": "Recommended the permanent oversight committee that followed it",
 "id": "senate-intelligence",
 "l0": true,
@@ -171,6 +183,7 @@
 "dateEnd": "1976",
 "dateStart": "1975",
 "direction": "out",
+"edgeId": "e-1d6f6f2abf",
 "edgeLabel": "Created as a select committee of the Senate by S. Res. 21 of 27 January 1975",
 "id": "us-senate",
 "l0": false,
@@ -204,6 +217,7 @@
 "by": null,
 "claimTier": 1,
 "denialKind": null,
+"edgeId": "e-058c776f01",
 "label": "Named by the committee as having limited its access to the full record",
 "note": "The report says 'the Central Intelligence Agency and other agencies of the executive branch have limited the Committee's access to the full record', in some instances by assertion of executive privilege.",
 "of": null,
@@ -319,7 +333,7 @@
 ],
 "sub": "Established by S. Res. 21, 27 January 1975; final report S. Rept. 94-755, six books, 1976",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 211 of 1170, score 45). 7 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A1/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 212 of 1138, score 45). 7 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A1/D3.",
 "timeline": [
 {
 "claimTier": null,

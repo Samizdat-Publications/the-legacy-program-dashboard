@@ -37,16 +37,19 @@
 ],
 "claims": [
 {
+"id": "c-1cf6a05a6c",
 "source": "Text and provenance published by the Computer UFO Network (CUFON); Jacques Vallee, Forbidden Science; DEMOTED from Tier 1 (no primary record of the memorandum is cited, only the CUFON transcription and Vallee's copy; the same assertion is Tier 2 on pentacle-memorandum); needs primary replacement",
 "text": "A two-page memorandum dated 9 January 1953, reference G-1579-4, marked SECRET and unsigned, was addressed to Miles E. Goll at Wright-Patterson AFB under Project Stork; H. C. Cross of Battelle Memorial Institute was later identified as its author.",
 "tier": 2
 },
 {
+"id": "c-0334ef50ea",
 "source": "CUFON transcription of the Pentacle Memorandum",
 "text": "The memorandum proposes controlled experiments with observation posts in high-report areas and states that 'many different types of aerial activity should be secretly and purposefully scheduled within the area.'",
 "tier": 1
 },
 {
+"id": "c-7834a5383c",
 "source": "Jacques Vallee, Forbidden Science (1992) and subsequent correspondence quoted by CUFON",
 "text": "Vallee holds that the Robertson Panel, which met 14-16 January 1953, was not briefed on the Pentacle proposals, and that a separate group had already determined the boundaries of what the panel could discuss.",
 "tier": 2
@@ -62,6 +65,7 @@
 "dateEnd": "1955",
 "dateStart": "1952",
 "direction": "out",
+"edgeId": "e-e76a7e3c83",
 "edgeLabel": "Battelle's Air Force liaison for Blue Book-related work",
 "id": "battelle",
 "l0": true,
@@ -83,6 +87,7 @@
 "dateEnd": null,
 "dateStart": "1953",
 "direction": "out",
+"edgeId": "e-cdf7e07908",
 "edgeLabel": "Author of the 9 January 1953 memorandum",
 "id": "pentacle-memorandum",
 "l0": false,
@@ -176,7 +181,7 @@
 "status": "dead",
 "sub": "Battelle Memorial Institute scientist; Battelle's liaison to the Air Force for Project Blue Book work; author of the 'Pentacle Memorandum'",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 652 of 1170, score 26). 2 connections, 1 of them custody/funding/programmatic. Axes C2/A2/D0.",
+"tierRationale": "Re-graded C on a global pass (rank 641 of 1138, score 26). 2 connections, 1 of them custody/funding/programmatic. Axes C2/A2/D0.",
 "timeline": [],
 "unexplainedResidual": "Why a contractor scientist believed he had standing to shape the terms of a CIA-convened scientific panel five days before it met.",
 "unverified": [
