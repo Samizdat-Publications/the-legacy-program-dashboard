@@ -171,8 +171,13 @@ export function layout(
     const startPitch = vp.w >= 2400 ? 26 : 20;
     const startGap = vp.w >= 2400 ? 20 : 12;
     const tries: [number, number][] = [];
-    for (let p = startPitch; p >= 18; p--) tries.push([p, startGap]);
-    for (let g = startGap - 1; g >= 6; g--) tries.push([18, g]);
+    /* The floor is 17: a 16px chip with 1px between rows. It was 18 until 25
+       September 2026, when the nuclear register added two rows and the whole map
+       at 1920x1080 on Linux needed 954px of 938px and fell to count cells; the
+       same data fits on Windows, whose text measures slightly narrower. The
+       label size is untouched. C5 restates the same floor. */
+    for (let p = startPitch; p >= 17; p--) tries.push([p, startGap]);
+    for (let g = startGap - 1; g >= 6; g--) tries.push([17, g]);
     for (const [pitch, gap] of tries) {
       const need = totalRows * pitch + gap * (data.bands.length - 1);
       if (need <= availH) {

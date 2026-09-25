@@ -206,7 +206,7 @@ const IN_PAGE = {
       totalRows += mx;
     }
     meas.remove();
-    const minNeed = totalRows * 18 + 6 * (bands.length - 1);
+    const minNeed = totalRows * 17 + 6 * (bands.length - 1);  /* pitch floor 17 since 25 Sept 2026 */
     return {
       tooWide, wideIds, totalRows, minNeed, availH, colW,
       fits: tooWide === 0 && minNeed <= availH,
