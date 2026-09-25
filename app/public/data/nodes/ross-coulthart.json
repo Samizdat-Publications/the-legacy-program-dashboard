@@ -180,8 +180,9 @@
 "deg": 3,
 "denials": [],
 "domains": [
-"grusch",
-"media-structure"
+"d-media",
+"d-witness",
+"d-structure"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -202,6 +203,10 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Ross Coulthart",
+"sourceFiles": [
+"grusch",
+"media-structure"
+],
 "sources": [
 {
 "date": "2023-06-11",
@@ -232,34 +237,37 @@
 "status": "active",
 "sub": "Investigative journalist, NewsNation; first Grusch television interview",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 674 of 1170, score 25). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 673 of 1170, score 25). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2023-06-05",
+"grade": "A",
 "id": "ms-2023-coulthart",
 "label": "Coulthart broadcasts Grusch",
 "precision": "day",
 "strand": "witness",
-"text": "Ross Coulthart's NewsNation interviews convert the ICIG complaint from a written allegation into a broadcast event, giving it a face and a national audience.",
-"tier": "A"
+"text": "Ross Coulthart's NewsNation interviews convert the ICIG complaint from a written allegation into a broadcast event, giving it a face and a national audience."
 },
 {
+"claimTier": null,
 "date": "2023-06-11",
+"grade": "A",
 "id": "g-tl-2023-06-newsnation",
 "label": "First television interview with Ross Coulthart",
 "precision": "day",
 "strand": "witness",
-"text": "Grusch says the recoveries are non-human origin technical vehicles, that we are definitely not alone, that sometimes you encounter dead pilots, and that a sophisticated disinformation campaign targets the public.",
-"tier": "A"
+"text": "Grusch says the recoveries are non-human origin technical vehicles, that we are definitely not alone, that sometimes you encounter dead pilots, and that a sophisticated disinformation campaign targets the public."
 },
 {
+"claimTier": null,
 "date": "2026-02-01",
+"grade": "A",
 "id": "ms-2026-coulthart-endorse",
 "label": "Coulthart endorses Gerb on air",
 "precision": "month",
 "strand": "program",
-"text": "NewsNation publishes 'Ross Coulthart on UAP Gerb's claims: I think he's on the money' - a network correspondent vouching for a pseudonymous YouTube researcher's structural model.",
-"tier": "A"
+"text": "NewsNation publishes 'Ross Coulthart on UAP Gerb's claims: I think he's on the money' - a network correspondent vouching for a pseudonymous YouTube researcher's structural model."
 }
 ],
 "unexplainedResidual": null,

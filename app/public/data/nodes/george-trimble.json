@@ -112,7 +112,9 @@
 "deg": 3,
 "denials": [],
 "domains": [
-"legacy-1947-86"
+"d-research",
+"d-prop",
+"d-contractor"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -133,6 +135,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "George S. Trimble",
+"sourceFiles": [
+"legacy-1947-86"
+],
 "sources": [
 {
 "date": "1955-11-20",
@@ -163,7 +168,7 @@
 "status": "dead",
 "sub": "Glenn L. Martin Company executive; proposed RIAS as an industrial institute for advanced study",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 623 of 1170, score 27). 3 connections, 1 of them custody/funding/programmatic. Axes C1/A1/D0.",
+"tierRationale": "Re-graded C on a global pass (rank 620 of 1170, score 27). 3 connections, 1 of them custody/funding/programmatic. Axes C1/A1/D0.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": "RIAS's founding date and founder were not established from a primary record. A '1955, by George Bunker' attribution appears only in encyclopedia summaries and was not opened. Trimble's June 1955 letter describes the institute as still proposed, which is consistent with 1955 but does not establish it."

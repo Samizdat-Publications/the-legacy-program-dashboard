@@ -164,8 +164,9 @@
 "deg": 3,
 "denials": [],
 "domains": [
-"_rs-archive-mirror",
-"history-1940s-1960s"
+"d-legacy",
+"d-coverup",
+"d-psyop"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -186,6 +187,10 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Edward U. Condon",
+"sourceFiles": [
+"_rs-archive-mirror",
+"history-1940s-1960s"
+],
 "sources": [
 {
 "date": "2024-10-19",
@@ -231,7 +236,7 @@
 "status": "dead",
 "sub": "Scientific director, USAF-funded Colorado UFO Project",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 446 of 1170, score 32). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D0.",
+"tierRationale": "Re-graded B on a global pass (rank 445 of 1170, score 32). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D0.",
 "timeline": [],
 "unexplainedResidual": "Roughly a third of the cases investigated by the project's own staff were left unexplained, a residue the summary conclusions do not address.",
 "unverified": []

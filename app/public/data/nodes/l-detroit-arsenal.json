@@ -27,6 +27,7 @@
 ],
 "cls": "location",
 "cluster": "contractor",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -142,9 +143,7 @@
 "deg": 4,
 "denials": [],
 "desc": "Detroit Arsenal in Warren, Michigan is the U.S. Army's ground vehicle research and acquisition centre, home to the Combat Capabilities Development Command Ground Vehicle Systems Center - formerly TARDEC - and to Program Executive Office Ground Combat Systems. It is on this board for one reason, and it is a documented one. On 10 October 2019 GVSC Director Jeffery Langhout signed a Cooperative Research and Development Agreement with To The Stars Academy of Arts and Science, a private company then publicly asserting possession of material from a craft of unknown origin. The agreement's stated research scope included inertial mass reduction, electromagnetic metamaterial waveguides, beamed energy propulsion, active camouflage and directed photon projection. Dr. Joseph Cannon of the Ground Vehicle Survivability and Protection directorate was the named government principal investigator, quoted in TTSA's 17 October 2019 announcement calling the partnership 'an exciting, non-traditional source for novel materials and transformational technologies.' GVSC released the CRADA text on 18 October 2019, then, when John Greenewald sought Cannon's correspondence with TTSA, located twenty-nine emails totalling a hundred pages and withheld all of them in full under FOIA exemptions (b)(4) and (b)(5). No characterisation results have ever been published. Warren, Michigan is therefore the only place in the United States where a federal laboratory's signature block is attached to an executed instrument to study material a private party claimed came from a craft of unknown origin - and where the resulting correspondence is being withheld in its entirety.",
-"domains": [
-"w2-places-events"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -158,7 +157,11 @@
 "label": "Detroit Arsenal, Warren, Michigan",
 "locLabel": "Detroit Arsenal, Michigan, USA",
 "members": null,
+"openQuestions": [],
 "short": "Detroit Arsenal, Warren, Michigan",
+"sourceFiles": [
+"w2-places-events"
+],
 "sources": [
 {
 "date": "2019-10-18",
@@ -176,13 +179,15 @@
 "tierRationale": "Re-graded B on a global pass (rank 475 of 1170, score 32). 4 connections, 1 of them custody/funding/programmatic. Axes C2/A1/D2.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2019-10-10",
+"grade": "A",
 "id": "tl-2019-crada",
 "label": "The Army signs for the material",
 "precision": "day",
 "strand": "program",
-"text": "GVSC Director Jeffery Langhout signs a CRADA with To The Stars Academy at Detroit Arsenal covering inertial mass reduction and metamaterial waveguides. The text is released 18 October; all twenty-nine emails of correspondence are later withheld in full.",
-"tier": "A"
+"text": "GVSC Director Jeffery Langhout signs a CRADA with To The Stars Academy at Detroit Arsenal covering inertial mass reduction and metamaterial waveguides. The text is released 18 October; all twenty-nine emails of correspondence are later withheld in full."
 }
-]
+],
+"unverified": []
 }

@@ -17,6 +17,7 @@
 ],
 "cls": "program",
 "cluster": "media",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -46,9 +47,7 @@
 "deg": 1,
 "denials": [],
 "desc": "American Alchemy is Jesse Michels' YouTube interview series and, since 2024, the single most important venue in which the alleged legacy program's structure has been laid out publicly at length. Its format is the mechanism: three- and four-hour unedited sessions, published with full timestamped chapter lists that function as retrievable indexes of structural claims. The series broke Jake Barber's crash-retrieval account to over a million viewers on 30 January 2025, hosted Michael Shellenberger the day after he delivered the Immaculate Constellation report to Congress, gave UAP Gerb two multi-hour platforms in February 2025 and January 2026, and on 8 March 2026 put Eric Davis and Eric Weinstein in a room together for four hours covering the Wilson-Davis memo. Its audience is not marginal - individual episodes run from 200,000 to over a million views - and its output is now cited by NewsNation and by the researchers it platforms. The series is monetised through consumer sponsorships, a Substack magazine, merchandise and a Whop membership, which is worth recording plainly: this is a commercial media business whose product is structural allegation, and that commercial incentive is a real analytic caveat, not a disqualifier.",
-"domains": [
-"media-structure"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "3",
@@ -62,7 +61,11 @@
 "label": "American Alchemy",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "American Alchemy",
+"sourceFiles": [
+"media-structure"
+],
 "sources": [
 {
 "date": "2026-08-12",
@@ -80,13 +83,15 @@
 "tierRationale": "Re-graded C on a global pass (rank 1103 of 1170, score 11). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2025-01-30",
+"grade": "A",
 "id": "ms-2025-barber",
 "label": "Michels breaks Jake Barber",
 "precision": "day",
 "strand": "witness",
-"text": "American Alchemy publishes Jake Barber's account of helicopter-borne craft retrieval; 1,010,989 views. An independent YouTube channel breaks a crash-retrieval whistleblower to a million people.",
-"tier": "A"
+"text": "American Alchemy publishes Jake Barber's account of helicopter-borne craft retrieval; 1,010,989 views. An independent YouTube channel breaks a crash-retrieval whistleblower to a million people."
 }
-]
+],
+"unverified": []
 }

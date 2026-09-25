@@ -12,6 +12,7 @@
 ],
 "cls": "document",
 "cluster": "media",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -72,9 +73,7 @@
 "deg": 2,
 "denials": [],
 "desc": "Published by Daily Grail Publishing on 3 February 2021, ISBN 978-0994617682. Its significance to this board is narrow and large: it is the publication in which Adam Gorightly printed Tal Levesque's November 2015 email confessing that Thomas Edwin Castello was his own creation, obtained after a long correspondence in which Levesque had repeatedly maintained the opposite. That confession is the anchor of the thomas-castello node and the reason the Dulce cluster is the board's cleanest example of manufactured corroboration. THE BOOK WAS NOT OPENED BY THIS SESSION. The confession was read as reproduced on Norio Hayakawa's site, quoting the book, which is why every claim depending on it is capped at Tier 2 and why opening the book, or the email, is the single highest-value upgrade available to a later pass in this cluster.",
-"domains": [
-"dulce-2026-09-19"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "3",
@@ -88,7 +87,11 @@
 "label": "Adam Gorightly, 'Saucers, Spooks and Kooks: UFO Disinformation in the Age of Aquarius' (Daily Grail, 2021)",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Adam Gorightly, 'Saucers, Spooks and Kooks: UFO Disinformation in the Age of Aquarius' (Daily Grail, 2021)",
+"sourceFiles": [
+"dulce-2026-09-19"
+],
 "sources": [
 {
 "date": "2021-04-23",
@@ -106,13 +109,17 @@
 "tierRationale": "Re-graded C on a global pass (rank 1155 of 1170, score 8). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2021-02-03",
+"grade": "C",
 "id": "tl-2021-02-03-gorightly-book",
 "label": "Gorightly publishes the confession in Saucers, Spooks and Kooks",
 "precision": "day",
 "strand": "witness",
-"text": "Daily Grail Publishing, ISBN 978-0994617682. The book was NOT opened by this session; the confession was read as reproduced by Hayakawa quoting it, which is why every dependent claim is capped at Tier 2 and why opening the book is this cluster's highest-value upgrade.",
-"tier": "C"
+"text": "Daily Grail Publishing, ISBN 978-0994617682. The book was NOT opened by this session; the confession was read as reproduced by Hayakawa quoting it, which is why every dependent claim is capped at Tier 2 and why opening the book is this cluster's highest-value upgrade."
 }
+],
+"unverified": [
+"The contents of the book. It was not opened; the confession was read only as reproduced on a third-party site quoting it."
 ]
 }

@@ -77,6 +77,11 @@
 ],
 "cls": "program",
 "cluster": "witness",
+"conflicts": [
+"The three size figures do not agree, and the disagreement runs one way: 1990 gives 20 / 60 / 'maybe 120' with the witness's own disclaimer 'Just a guess; don't hold me to that'; 2001 gives 24 / 60 / 'about 120 to 130 feet'; arvp.co.uk in 2024 gives 130 / 60 / 24 with no disclaimer at all.",
+"The witness limits the artefact the board would otherwise carry as a rendering of his account: in 1990 he says of the manned vehicle 'this is probably the farthest from what I saw' and 'mark extrapolates a bit too much', while endorsing the saucer drawing.",
+"research/leads/dannyjones-corpus-20.md row D4 gives the three craft as 'Little Bear/Mama Bear/Papa Bear'. The primary document says 'daddy bear, mommy bear, baby bear'."
+],
 "connections": [
 {
 "claimTier": 1,
@@ -268,18 +273,20 @@
 "deg": 8,
 "denials": [
 {
-"by": {
+"a": {
 "id": "eric-davis",
 "label": "Eric W. Davis"
 },
+"b": {
+"id": "arv-fluxliner",
+"label": "Alien Reproduction Vehicle (ARV) / Flux Liner"
+},
+"by": null,
 "claimTier": 2,
 "denialKind": null,
 "label": "Says no such craft exists and none has ever been built",
 "note": "research/leads/michels-corpus-03.md file 04 at 0:36:24 to 0:38:00 records Davis saying the ARV rumours are 'all myth', that they originate with Bob Lazar-type storytellers who 'believe their own bullshit' rather than with deliberate disinformation, and that the CIA 'shut it all down' in 1989. The corpus recorded the episode as 'CIA Scientist: George Bush Was Briefed on UFOs (ft. Eric Davis)' on 'American Alchemy'; as opened 18 September 2026 the same video id carries a different title on the channel 'Jesse Michels'. The corpus timestamp falls inside the 52:45 runtime.",
-"of": {
-"id": "arv-fluxliner",
-"label": "Alien Reproduction Vehicle (ARV) / Flux Liner"
-},
+"of": null,
 "sources": [
 {
 "date": "2024-12-12",
@@ -289,18 +296,20 @@
 ]
 },
 {
-"by": {
+"a": {
 "id": "king-patent-mhd",
 "label": "US Patent 3,322,374, 'Magnetohydrodynamic Propulsion Apparatus' (King, 1967)"
 },
+"b": {
+"id": "arv-fluxliner",
+"label": "Alien Reproduction Vehicle (ARV) / Flux Liner"
+},
+"by": null,
 "claimTier": 1,
 "denialKind": "association",
 "label": "Cited FOR the ARV account's 'Scalar Physics' callout and does not support it",
 "note": "THE STRAND'S FOUNDING EDGE AND ITS DIRECTION OF READING IS LOAD-BEARING. This edge records a FAILED CITATION, not a connection. The patent was offered as 'ample evidence' that the 'Scalar Physics' callout in section D of the McCandlish ARV drawing refers to spin-zero scalar particles. Word counts across all seven pages: scalar 0, spin 0, gravity 0, anti-gravity 0, zero point 0. NOBODY DENIED ANYTHING HERE: a real, openable, mundane document simply does not say what was said of it, which is why the verdict is association and not directed.",
-"of": {
-"id": "arv-fluxliner",
-"label": "Alien Reproduction Vehicle (ARV) / Flux Liner"
-},
+"of": null,
 "sources": [
 {
 "date": "1967-05-30",
@@ -311,10 +320,7 @@
 }
 ],
 "desc": "The Alien Reproduction Vehicle, also called the Flux Liner, is a CLAIMED craft for whose existence no record has been opened, and the board carries it as a claim and not as an object: the entire account descends from one second-hand relay, in which a single man said he saw three such craft in a hangar and an illustrator who was not there drew what that man described. Everything on this node is therefore a description of a claim. Two primary documents carry that description, and they are why the node exists, not evidence that the craft does. The first is William B. Scott's unpublished 1990 interview notes, in which the witness gives the three craft nursery-rhyme names, guesses their diameters and expressly refuses to stand behind the figures, judges the build quality poor, and disowns part of the drawing made from his account. The second is the Disclosure Project's April 2001 Briefing Document, in which the illustrator gives the craft its two names in print and describes a capacitor stack, a central column carrying a secondary coil and a flywheel, forty-eight pie-slice capacitor sections, a Tesla-coil architecture running from two marine batteries at between half a million and a million volts, and a synthetic vision system in place of windows. The claimed lift mechanism is attributed to a Thomas Townsend Brown patent of the late 1950s or early 1960s; the board's own record of both Brown patents is that neither claims anti-gravity. Eric Davis, from inside the classification line, says no such craft exists. Every claimant on this thread runs into this node, which is the point of it.",
-"domains": [
-"arv-2026-09-18",
-"propulsion-2026-09-19"
-],
+"domains": [],
 "dossier": {
 "claims": [
 {
@@ -413,7 +419,12 @@
 "tier": "C"
 }
 ],
+"openQuestions": [],
 "short": "ARV / Flux Liner",
+"sourceFiles": [
+"arv-2026-09-18",
+"propulsion-2026-09-19"
+],
 "sources": [
 {
 "date": "1990-12-11",
@@ -461,22 +472,29 @@
 "tierRationale": "Re-graded A on a global pass (rank 135 of 1170, score 54). 8 connections, 0 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C0/A0/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1988-11-12",
+"grade": "C",
 "id": "tl-1988-11-12-arv-exhibit-claimed",
 "label": "CLAIMED ONLY: a classified exhibit in the Big Hangar with three saucer-shaped craft",
 "precision": "day",
 "strand": "witness",
-"text": "The load-bearing claim of the whole thread, and it rests on one second-hand chain. McCandlish's December 2000 testimony gives the date and the day: Sorensen 'told me how he had seen these three flying saucers in this hangar at Norton Air Force Base on November 12, 1988 - it was a Saturday.' The 1990 primary document, taken from the claimed eyewitness himself, places it only 'in early Nov. 88'. No record of any exhibit was opened.",
-"tier": "C"
+"text": "The load-bearing claim of the whole thread, and it rests on one second-hand chain. McCandlish's December 2000 testimony gives the date and the day: Sorensen 'told me how he had seen these three flying saucers in this hangar at Norton Air Force Base on November 12, 1988 - it was a Saturday.' The 1990 primary document, taken from the claimed eyewitness himself, places it only 'in early Nov. 88'. No record of any exhibit was opened."
 },
 {
+"claimTier": null,
 "date": "2024-12-12",
+"grade": "C",
 "id": "tl-2024-12-12-michels-davis-episode",
 "label": "Jesse Michels publishes the Eric Davis episode carrying the denial",
 "precision": "day",
 "strand": "witness",
-"text": "Video id LnAiNChnuEQ, runtime 52:45, as opened on 18 September 2026 titled 'Eric Davis: A US President Was Briefed on UFOs!' on the channel 'Jesse Michels'. research/leads/michels-corpus-03.md file 04 recorded the same episode under the title 'CIA Scientist: George Bush Was Briefed on UFOs (ft. Eric Davis)' on 'American Alchemy'; the channel and the title now differ, and the corpus timestamp 0:36:24 to 0:38:00 falls inside the 52:45 runtime. The episode is identified by video id, not by title.",
-"tier": "C"
+"text": "Video id LnAiNChnuEQ, runtime 52:45, as opened on 18 September 2026 titled 'Eric Davis: A US President Was Briefed on UFOs!' on the channel 'Jesse Michels'. research/leads/michels-corpus-03.md file 04 recorded the same episode under the title 'CIA Scientist: George Bush Was Briefed on UFOs (ft. Eric Davis)' on 'American Alchemy'; the channel and the title now differ, and the corpus timestamp 0:36:24 to 0:38:00 falls inside the 52:45 runtime. The episode is identified by video id, not by title."
 }
+],
+"unverified": [
+"The existence of the craft. No record of any kind establishing it was opened. The node is the claim, not the object.",
+"The McCandlish ARV cut-away drawing itself, as an image. The Briefing Document's OCR text refers to it, 'a cut-away illustration, pretty much like the one I'll show you in a little bit', but the plate is not in the text layer, and the arvp.co.uk page says of the original 'now that Mark has passed on it's impossible to get hold of'.",
+"That Steven Greer holds the original McCandlish artwork. The arvp.co.uk page marks this as its own guess: 'I imagine that Steven Greer may have it or at least a copy.'"
 ]
 }

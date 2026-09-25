@@ -17,6 +17,7 @@
 ],
 "cls": "location",
 "cluster": "research",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -49,9 +50,7 @@
 "deg": 1,
 "denials": [],
 "desc": "Stanford is the current academic centre of gravity for serious UAP-adjacent research in the United States, through Garry P. Nolan, professor of pathology at the Stanford School of Medicine, and through the Sol Foundation, which Nolan co-founded with the anthropologist Peter Skafish and which holds annual symposia bringing together academics, former officials and technologists on the policy and scientific implications of the phenomenon. Nolan's contribution is specific and unusual: he has published imaging and isotopic analysis of anomalous materials and has worked on the brain imaging of personnel reporting injuries after alleged encounters, which is the same research line that Christopher 'Kit' Green pursued from CIA into Wayne State, and the same line AAWSAP funded through BAASS. Stanford's institutional history compounds the point: SRI International, six miles away in Menlo Park, was founded by Stanford trustees and hosted the CIA remote viewing programme from 1972 until the separation-era funding wound down. The university is thus at the centre of both the 1970s and the 2020s versions of the same problem - how a research university handles a subject the government funds privately and denies publicly - and the board notes that Stanford handled it in 1970 by severing the institute.",
-"domains": [
-"w2-places-events"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -65,7 +64,11 @@
 "label": "Stanford, California",
 "locLabel": "Stanford, California, USA",
 "members": null,
+"openQuestions": [],
 "short": "Stanford, California",
+"sourceFiles": [
+"w2-places-events"
+],
 "sources": [
 {
 "date": "2026-08-12",
@@ -76,5 +79,6 @@
 "sub": "Stanford University; Nolan Lab, Stanford School of Medicine; base of the Sol Foundation",
 "tier": "C",
 "tierRationale": "Re-graded C on a global pass (rank 1158 of 1170, score 8). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.",
-"timeline": []
+"timeline": [],
+"unverified": []
 }

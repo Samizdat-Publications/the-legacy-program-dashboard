@@ -27,6 +27,7 @@
 ],
 "cls": "document",
 "cluster": "media",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 3,
@@ -61,18 +62,20 @@
 "deg": 1,
 "denials": [
 {
-"by": {
+"a": {
 "id": "testors-sr-75-kit",
 "label": "Testor Corp. SR-75 Penetrator and XR-7 Thunderdart model kits, 1993"
 },
+"b": {
+"id": "tr-3b",
+"label": "TR-3B 'Astra', claimed black triangular aircraft"
+},
+"by": null,
 "claimTier": 3,
 "denialKind": "association",
 "label": "Prior art: the SR-75 Penetrator designation and mothership architecture published commercially in 1993",
 "note": "A stated inference and graded 3 accordingly. The designation and the mothership architecture are published, dated and boxed in 1993 with a named designer, and the Air Force told the same newspaper 'such a plane does not exist'. They reappear in 1998 as inside knowledge. The direction of priority is documented and one-directional; the direction of influence is not established and must not be inverted by a later session.",
-"of": {
-"id": "tr-3b",
-"label": "TR-3B 'Astra', claimed black triangular aircraft"
-},
+"of": null,
 "sources": [
 {
 "date": "1993-12-25",
@@ -88,9 +91,7 @@
 }
 ],
 "desc": "This node exists because it is the only documented prior-art channel found for any part of the Fouche account, and because it is documented on both ends. On 25 December 1993 the Baltimore Sun reported that Testor Corp. was selling 'the SR-75 Penetrator and XR-7 Thunderdart, the latest in a series of highly speculative military miniature models', designed by 'John Andrews, an aviation historian in San Diego who designed the new models, as well as the F-19', and said to have been developed by analysing sonic boom patterns over Southern California, jet exhaust patterns over Nevada, published stealth and high-speed literature and industry speculation. The same article carries the Air Force on the record through its spokeswoman Capt. Mary Dillon: 'We're not saying no comment, we're saying such a plane does not exist.' Four and a half years later Fouche's presentation devotes slides 62 onward to an 'SR-75' called the 'Penetrator' that is also 'a mothership', and elsewhere to an 'SR-74 Scramp'. The designation and the mothership architecture are the same, the priority is documented and one-directional, and the direction of influence is not established. The node is here so that a build session cannot accidentally let the TR-3B cluster imply the reverse.",
-"domains": [
-"tr3b-2026-09-18"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "1",
@@ -104,7 +105,11 @@
 "label": "Testor Corp. SR-75 Penetrator and XR-7 Thunderdart model kits, 1993",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Testor Corp. SR-75 Penetrator and XR-7 Thunderdart model kits, 1993",
+"sourceFiles": [
+"tr3b-2026-09-18"
+],
 "sources": [
 {
 "date": "1993-12-25",
@@ -119,16 +124,21 @@
 ],
 "sub": "Commercially published speculative model kits designed by John Andrews whose designations reappear in Fouche's 1998 presentation as inside knowledge",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 958 of 1170, score 17). 1 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D1.",
+"tierRationale": "Re-graded C on a global pass (rank 957 of 1170, score 17). 1 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D1.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1993-12-25",
+"grade": "C",
 "id": "tl-1993-12-25-testors-sr75",
 "label": "Baltimore Sun reports the Testors SR-75 Penetrator and XR-7 Thunderdart on sale",
 "precision": "day",
 "strand": "program",
-"text": "'Testor Corp. released the SR-75 Penetrator and XR-7 Thunderdart, the latest in a series of highly speculative military miniature models', designed by 'John Andrews, an aviation historian in San Diego who designed the new models, as well as the F-19'. The Air Force spokeswoman Capt. Mary Dillon is quoted: 'We're not saying no comment, we're saying such a plane does not exist.' Fouche's presentation of August 1998 presents the same SR-75 Penetrator designation and the same mothership architecture as inside knowledge.",
-"tier": "C"
+"text": "'Testor Corp. released the SR-75 Penetrator and XR-7 Thunderdart, the latest in a series of highly speculative military miniature models', designed by 'John Andrews, an aviation historian in San Diego who designed the new models, as well as the F-19'. The Air Force spokeswoman Capt. Mary Dillon is quoted: 'We're not saying no comment, we're saying such a plane does not exist.' Fouche's presentation of August 1998 presents the same SR-75 Penetrator designation and the same mothership architecture as inside knowledge."
 }
+],
+"unverified": [
+"Whether Fouche ever saw, owned or knew of the kits. No statement by him about them was opened, in either direction. The connection established here is one of designation, architecture and date, not of demonstrated transmission.",
+"The kits' own release date beyond the newspaper report. The Baltimore Sun article of 25 December 1993 is the dated record opened; no manufacturer catalogue or release announcement was opened."
 ]
 }

@@ -17,6 +17,7 @@
 ],
 "cls": "document",
 "cluster": "research",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -93,9 +94,7 @@
 "deg": 3,
 "denials": [],
 "desc": "The companion piece to the UAPx field-expedition paper in the same Progress in Aerospace Sciences special edition, and the larger of the two. UAlbany's news office describes it as 'a comprehensive review of studies conducted on UAPs from 1933 to the present, including more than 20 historical government and privately funded projects as well as recent scientific research efforts in Ireland, France, Germany, Norway, Sweden and the United States', with Knuth as lead author 'co-written by Szydagis and more than 30 other researchers from around the world'. SCU's June 2025 press release puts the author count at thirty-four and gives the DOI as 10.1016/j.paerosci.2025.101097. Its stated aims, per the University, are to clarify the historical scientific narrative, to establish that UAP have been observed and recorded for well over 150 years and studied by astronomers, scientists and engineers, and to show that several serious academic efforts in multiple countries are currently collecting instrumented data. Its significance for this board is structural rather than evidentiary: a thirty-four-author review in a high-impact aerospace engineering journal, led from a state university physics department, is the closest thing the subject has to a conventional field-defining literature review, and it exists because two faculty members at a mid-sized SUNY campus were willing to put their names on it.",
-"domains": [
-"w11-final-unattached"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "nd",
@@ -109,7 +108,11 @@
 "label": "Knuth et al. (2025), 'The New Science of Unidentified Aerospace-Undersea Phenomena (UAP)', Progress in Aerospace Sciences",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Knuth et al. (2025), 'The New Science of Unidentified Aerospace-Undersea Phenomena (UAP)', Progress in Aerospace Sciences",
+"sourceFiles": [
+"w11-final-unattached"
+],
 "sources": [
 {
 "date": "2025-06-04",
@@ -130,5 +133,6 @@
 "sub": "34-author review of UAP studies 1933-present; Knuth lead author, Szydagis co-author",
 "tier": "C",
 "tierRationale": "Re-graded C on a global pass (rank 1058 of 1170, score 13). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.",
-"timeline": []
+"timeline": [],
+"unverified": []
 }

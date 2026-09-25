@@ -114,7 +114,8 @@
 "deg": 2,
 "denials": [],
 "domains": [
-"w2-black-budget"
+"d-funding",
+"d-secrecy"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -135,6 +136,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Steven Aftergood",
+"sourceFiles": [
+"w2-black-budget"
+],
 "sources": [
 {
 "date": "2026-08-12",
@@ -150,16 +154,17 @@
 "status": "former",
 "sub": "Director, Government Secrecy Project, Federation of American Scientists (Project on Government Secrecy 1991-2021)",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 741 of 1170, score 23). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 740 of 1170, score 23). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1997",
+"grade": "A",
 "id": "bb-tl-1997-aftergood",
 "label": "First intelligence budget disclosure in fifty years",
 "precision": "year",
 "strand": "oversight",
-"text": "Following FOIA litigation brought by the Federation of American Scientists with Steven Aftergood as plaintiff, assisted by Kate Martin of the Center for National Security Studies, the Director of Central Intelligence declassifies the total intelligence budget: $26.6 billion for FY1997. It is the first such disclosure since the CIA was created.",
-"tier": "A"
+"text": "Following FOIA litigation brought by the Federation of American Scientists with Steven Aftergood as plaintiff, assisted by Kate Martin of the Center for National Security Studies, the Director of Central Intelligence declassifies the total intelligence budget: $26.6 billion for FY1997. It is the first such disclosure since the CIA was created."
 }
 ],
 "unexplainedResidual": null,

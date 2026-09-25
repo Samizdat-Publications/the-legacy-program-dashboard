@@ -118,8 +118,7 @@
 "deg": 3,
 "denials": [],
 "domains": [
-"grusch",
-"media-structure"
+"d-media"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -140,6 +139,10 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Ralph Blumenthal",
+"sourceFiles": [
+"grusch",
+"media-structure"
+],
 "sources": [
 {
 "date": "2023-06-05",

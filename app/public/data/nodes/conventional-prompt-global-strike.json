@@ -37,6 +37,7 @@
 ],
 "cls": "program",
 "cluster": "other",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -150,9 +151,7 @@
 "deg": 5,
 "denials": [],
 "desc": "Conventional Prompt Global Strike is the family of American programmes intended to strike a target anywhere on earth with a conventional warhead in under an hour, using long-range ballistic boosters and hypersonic glide vehicles. It is on this board for one reason: it is named on the Danny Jones podcast as the destination of reverse-engineered craft propulsion, and the Congressional Research Service report on it contradicts that. Every boost stage the report names is an existing American missile, the Trident II D-5, the three Peacekeeper stages of a Minotaur IV, and a STARS stack derived from Polaris, and the programme is funded in the open at hundreds of millions a year. The node is a contradiction node and its desc says so.",
-"domains": [
-"dannyjones-2026-09-03"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "2",
@@ -166,7 +165,11 @@
 "label": "Conventional Prompt Global Strike",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Conventional Prompt Global Strike",
+"sourceFiles": [
+"dannyjones-2026-09-03"
+],
 "sources": [
 {
 "date": "2021-07-16",
@@ -176,6 +179,7 @@
 ],
 "sub": "Air Force, Navy and Army effort to place conventional warheads on long-range boosters and hypersonic glide vehicles, 2003 to present",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 338 of 1170, score 37). 5 connections, 2 of them custody/funding/programmatic. Axes C1/A1/D1.",
-"timeline": []
+"tierRationale": "Re-graded B on a global pass (rank 337 of 1170, score 37). 5 connections, 2 of them custody/funding/programmatic. Axes C1/A1/D1.",
+"timeline": [],
+"unverified": []
 }

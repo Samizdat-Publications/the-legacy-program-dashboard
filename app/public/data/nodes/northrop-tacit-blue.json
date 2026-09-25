@@ -27,6 +27,7 @@
 ],
 "cls": "program",
 "cluster": "legacy",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -119,18 +120,20 @@
 "deg": 4,
 "denials": [
 {
-"by": {
+"a": {
 "id": "northrop-tacit-blue",
 "label": "Northrop TACIT BLUE"
 },
+"b": {
+"id": "tr-3b",
+"label": "TR-3B 'Astra', claimed black triangular aircraft"
+},
+"by": null,
 "claimTier": 1,
 "denialKind": "association",
 "label": "The real black-programme aircraft of the period is 48 feet across and curved, not a 200 to 600 foot triangle",
 "note": "THIS EDGE EXISTS SPECIFICALLY TO STOP A LATER SESSION DRAWING THE SUPPORTIVE VERSION OF IT. The brief that produced this build asked for the reported analysis that the TR-3B derives from or is confused with TACIT BLUE. That analysis was searched for and NOT FOUND, and the USAF's own fact sheet argues against it: curved surfaces rather than a triangle, 48 ft 2 in span, programme concluded 1985, on public display since 1996.",
-"of": {
-"id": "tr-3b",
-"label": "TR-3B 'Astra', claimed black triangular aircraft"
-},
+"of": null,
 "sources": [
 {
 "date": "2026-09-18",
@@ -141,9 +144,7 @@
 }
 ],
 "desc": "TACIT BLUE is on this board as the control case for the TR-3B, and its edge to the claim is a denial edge and not a supporting one. It is a real black programme of the right era, run by the right agencies, and its published record is precisely what the claim is not. The U.S. Air Force's own fact sheet states that 'The USAF, the Defense Advanced Research Projects Agency, and the Northrop Corp. worked together from 1978 to 1985 to demonstrate that curved surfaces on an aircraft result in a low radar return signal from ground radar.' The aircraft made its first flight in February 1982 and had flown 135 times by the conclusion of the programme in 1985. It was placed on museum display in May 1996. Its span is 48 feet 2 inches, its length 55 feet 10 inches, its height 10 feet 7 inches, its weight 30,000 pounds, its powerplant two Garrett ATF3-6 high-bypass turbofans, and its armament none. THE POINT OF THE NODE: it is not triangular, its defining feature is curved surfaces, it is 48 feet across rather than 200 to 600, and it was retired before the TR-3B is claimed to have flown. The brief that produced this build asked for the widely reported analysis that the TR-3B narrative derives from or is confused with TACIT BLUE; that analysis was searched for and NOT FOUND, and the primary record argues against it. The documented aircraft that is close to triangular in planform and that did fly out of Groom Lake in the period is the F-117, which is the airframe Peter Merlin identifies in Fouche's own misattributed photograph.",
-"domains": [
-"tr3b-2026-09-18"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "1",
@@ -157,7 +158,11 @@
 "label": "Northrop TACIT BLUE",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Northrop TACIT BLUE",
+"sourceFiles": [
+"tr3b-2026-09-18"
+],
 "sources": [
 {
 "date": "2026-09-18",
@@ -170,22 +175,28 @@
 "tierRationale": "Re-graded B on a global pass (rank 473 of 1170, score 32). 4 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D2.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1982-02",
+"grade": "B",
 "id": "tl-1982-02-tacit-blue-first-flight",
 "label": "Northrop TACIT BLUE first flight",
 "precision": "month",
 "strand": "program",
-"text": "The U.S. Air Force fact sheet states 'The aircraft made its first flight in February 1982, and by the conclusion of the program in 1985, had flown 135 times.' This is what a real black aircraft programme of the era looks like in the primary record: 48 ft 2 in span, curved surfaces, two Garrett turbofans, no armament.",
-"tier": "B"
+"text": "The U.S. Air Force fact sheet states 'The aircraft made its first flight in February 1982, and by the conclusion of the program in 1985, had flown 135 times.' This is what a real black aircraft programme of the era looks like in the primary record: 48 ft 2 in span, curved surfaces, two Garrett turbofans, no armament."
 },
 {
+"claimTier": null,
 "date": "1996-05",
+"grade": "B",
 "id": "tl-1996-05-tacit-blue-display",
 "label": "TACIT BLUE placed on public museum display",
 "precision": "month",
 "strand": "program",
-"text": "'The aircraft was placed on display at the museum in May 1996.' A real compartmented aircraft programme of the Groom Lake era ends in a public exhibition hall with a published fact sheet and a cockpit plaque naming its five pilots.",
-"tier": "B"
+"text": "'The aircraft was placed on display at the museum in May 1996.' A real compartmented aircraft programme of the Groom Lake era ends in a public exhibition hall with a published fact sheet and a cockpit plaque naming its five pilots."
 }
+],
+"unverified": [
+"Where TACIT BLUE flew from. The fact sheet opened here does not name Groom Lake or any airfield, and no primary record naming its flight test location was opened by this research. No geographic edge is built from this node for that reason.",
+"The live museum page at nationalmuseum.af.mil returned HTTP 403 to this environment and was not read; the fact sheet was obtained through the National Security Archive scan instead."
 ]
 }

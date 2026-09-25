@@ -191,7 +191,9 @@
 "deg": 7,
 "denials": [],
 "domains": [
-"dannyjones-2026-09-03"
+"d-ic",
+"d-structure",
+"d-policy"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -212,6 +214,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Harry S. Truman",
+"sourceFiles": [
+"dannyjones-2026-09-03"
+],
 "sources": [
 {
 "date": "1946-01-22",
@@ -232,7 +237,7 @@
 "status": "dead",
 "sub": "President of the United States from 12 April 1945; signatory of the 22 January 1946 intelligence directive and of the National Security Act of 1947",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 261 of 1170, score 41). 7 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D1.",
+"tierRationale": "Re-graded B on a global pass (rank 259 of 1170, score 41). 7 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D1.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": []

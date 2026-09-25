@@ -37,6 +37,7 @@
 ],
 "cls": "document",
 "cluster": "ic",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -192,6 +193,14 @@
 "deg": 7,
 "denials": [
 {
+"a": {
+"id": "doc-condign-vol3",
+"label": "Project Condign Volume 3 - Potential for Exploitation of UAP-Associated Effects / UAP Work in Other Countries"
+},
+"b": {
+"id": "uk-mod",
+"label": "United Kingdom Ministry of Defence"
+},
 "by": {
 "id": "uk-mod",
 "label": "United Kingdom Ministry of Defence"
@@ -214,9 +223,7 @@
 }
 ],
 "desc": "Volume 3 is the volume that makes Condign an international document. Its own opening states that it 'primarily deals with sensitive matters associated with the UAP study which could not be placed in the RESTRICTED Executive Summary'. Chapter 3 is 'Potential for Exploitation of UAP-Associated Effects'; Chapter 4 is 'UAP Work in Other Countries', with sections on the Former Soviet Union, China, Spain, and the United States and Canada. On the Soviet Union it states: 'It is clear that the Former Soviet Union has taken the study of UAPs seriously and that this may well be related to a programme of understanding and exploiting certain UAP-related natural phenomena, such as plasmas', naming the 1989 UFO Commission under the USSR Union of Scientific and Engineering Societies, the 1990 inter-industry ufology research centre SOYUZUFOTSENTR headed by V. G. Azhazha, plasma research by '20-30 Russian scientists ... for the prevention of air target detection' followed by three redacted lines, the 1990 release of documents by General of Aviation Igor Maltsev, and Vsevolod Troitsky of the Russian Academy of Sciences chairing a Commission for the Study of Anomalous Propagation and Phenomena. On Spain it records that 'the Spanish MoD have taken the UFO phenomenon seriously. Sixty six files have reportedly been released to the public. DI 55 Staff have not seen these files'. And on the Anglo-American relationship it records the flat denial that is the most quotable line in the whole report.",
-"domains": [
-"w2-international"
-],
+"domains": [],
 "dossier": {
 "claims": [
 {
@@ -364,7 +371,11 @@
 "tier": "C"
 }
 ],
+"openQuestions": [],
 "short": "Project Condign Volume 3",
+"sourceFiles": [
+"w2-international"
+],
 "sources": [
 {
 "date": "2006-05-15",
@@ -379,6 +390,7 @@
 ],
 "sub": "UK SECRET UK EYES ONLY volume; the international-liaison chapter",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 197 of 1170, score 46). 7 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D3.",
-"timeline": []
+"tierRationale": "Re-graded B on a global pass (rank 196 of 1170, score 46). 7 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D3.",
+"timeline": [],
+"unverified": []
 }

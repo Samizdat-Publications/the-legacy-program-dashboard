@@ -32,6 +32,7 @@
 ],
 "cls": "event",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -123,10 +124,7 @@
 "deg": 3,
 "denials": [],
 "desc": "The first tranche, published 8 May 2026: 117 PDFs, 29 sensor videos and 14 photographs, 160 files in total, spanning 1944 to 2026, distributed as a 1.2GB document bundle and a 1.3GB video bundle. At least 100 of the files carried redactions. Its contents cut across seven decades and at least four agencies: the FBI's master flying-disc file 62-HQ-83894 covering 1947 to 1968 as a single 101MB PDF; Apollo 12 and Apollo 17 mission records including cockpit transcript describing 'very bright particles or fragments'; DOW-UAP-PR038, an infrared 'eight-pointed star' formation over a Middle Eastern theatre in 2013; DOW-UAP-PR028, a diamond-shaped object over Greece in January 2024 visible only on infrared; DOW-UAP-PR034, an object executing multiple 90-degree turns over the Aegean in October 2023; FBI infrared imagery of objects over the western United States in September and December 2025; a September 2023 western-US event in which seven federal employees reported orbs and a 'translucent kite'; an FBI bronze-ellipsoid case from September 2023 with multiple credentialed witnesses at a US test site; and a 2026 US Army sensor report of a North American sighting. That last item is the one that most cleanly breaks the historical framing: the tranche is not an archive dump, it contains current-year military sensor material. DNI Tulsi Gabbard described the release as an ongoing joint effort across intelligence and defence agencies.",
-"domains": [
-"_rs-archive-mirror",
-"releases-2023-2026"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "3",
@@ -140,7 +138,12 @@
 "label": "PURSUE Release 01",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "PURSUE Release 01",
+"sourceFiles": [
+"_rs-archive-mirror",
+"releases-2023-2026"
+],
 "sources": [
 {
 "date": "2026-08-10",
@@ -170,16 +173,18 @@
 ],
 "sub": "8 May 2026; 160 files; 1944-2026",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 248 of 1170, score 42). 3 connections, 3 of them custody/funding/programmatic. Axes C1/A3/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 246 of 1170, score 42). 3 connections, 3 of them custody/funding/programmatic. Axes C1/A3/D3.",
 "timeline": [
 {
+"claimTier": 1,
 "date": "2026-05-08",
+"grade": null,
 "id": "tl-pursue-r01",
 "label": "PURSUE Release 01 posted at war.gov/UFO",
 "precision": "day",
 "strand": "program",
-"text": "The first PURSUE tranche: a 1.2GB document bundle and a 1.3GB video bundle, 160 files spanning 1944 to 2026, published at war.gov/UFO with no manifest, no metadata and no assessment.",
-"tier": "1"
+"text": "The first PURSUE tranche: a 1.2GB document bundle and a 1.3GB video bundle, 160 files spanning 1944 to 2026, published at war.gov/UFO with no manifest, no metadata and no assessment."
 }
-]
+],
+"unverified": []
 }

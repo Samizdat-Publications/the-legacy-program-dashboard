@@ -12,6 +12,7 @@
 ],
 "cls": "location",
 "cluster": "other",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -152,10 +153,7 @@
 "deg": 4,
 "denials": [],
 "desc": "Brazil transferred substantial Air Force holdings on unidentified aerial phenomena into the Arquivo Nacional, making it one of very few states whose military UFO records sit in a citizen-accessible public archive rather than behind a classification review. Its documented cases are unusually strong: the 19 May 1986 incident, in which Brazilian Air Force fighters were scrambled against multiple radar-tracked objects and the Air Minister subsequently briefed the press, and the January 1996 Varginha episode, which in July 2026 became the subject of a formal US congressional request to the FBI and CIA. Brazil is the board's clearest example of records law working.",
-"domains": [
-"_stubs",
-"w2-taxonomy"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "nd",
@@ -169,7 +167,12 @@
 "label": "Brazil",
 "locLabel": "Brazil",
 "members": null,
+"openQuestions": [],
 "short": "Brazil",
+"sourceFiles": [
+"_stubs",
+"w2-taxonomy"
+],
 "sources": [
 {
 "date": "2026-08-12",
@@ -190,5 +193,6 @@
 "sub": "Sovereign state; military UFO files transferred to the national archive",
 "tier": "C",
 "tierRationale": "Re-graded C on a global pass (rank 802 of 1170, score 22). 4 connections, 0 of them custody/funding/programmatic. Axes C2/A1/D3.",
-"timeline": []
+"timeline": [],
+"unverified": []
 }

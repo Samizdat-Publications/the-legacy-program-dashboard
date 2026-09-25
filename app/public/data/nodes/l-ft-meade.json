@@ -22,6 +22,7 @@
 ],
 "cls": "location",
 "cluster": "ic",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -54,11 +55,7 @@
 "deg": 1,
 "denials": [],
 "desc": "Fort George G. Meade in Anne Arundel County, Maryland is the home of the National Security Agency, the Central Security Service and US Cyber Command, and is therefore the single most concentrated signals intelligence site in the United States. It is on this board because NSA's UAP-relevant holdings - the records at issue in Citizens Against UFO Secrecy v. NSA, in which the courts sustained withholding on the strength of the classified Yeates affidavit - are held here, and because the agency's Exemption 3 statutory shield makes Meade the hardest FOIA target in the federal government. In August 2024 a senior NSA researcher from this installation, Jon Kosloski, was appointed to lead AARO, moving the Pentagon's UAP analytic hub under a Meade-trained signals technologist.",
-"domains": [
-"_rs-archive-mirror",
-"_stubs",
-"w2-taxonomy"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "nd",
@@ -72,7 +69,13 @@
 "label": "Fort George G. Meade, Maryland",
 "locLabel": "Fort Meade, Maryland, USA",
 "members": null,
+"openQuestions": [],
 "short": "Fort George G. Meade, Maryland",
+"sourceFiles": [
+"_rs-archive-mirror",
+"_stubs",
+"w2-taxonomy"
+],
 "sources": [
 {
 "date": "2026-07-14",
@@ -98,5 +101,6 @@
 "sub": "Army installation; headquarters of NSA and US Cyber Command",
 "tier": "C",
 "tierRationale": "Re-graded C on a global pass (rank 745 of 1170, score 23). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D1.",
-"timeline": []
+"timeline": [],
+"unverified": []
 }

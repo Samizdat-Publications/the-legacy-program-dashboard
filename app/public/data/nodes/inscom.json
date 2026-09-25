@@ -32,6 +32,7 @@
 ],
 "cls": "institution",
 "cluster": "ic",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -166,9 +167,7 @@
 "deg": 6,
 "denials": [],
 "desc": "INSCOM is the United States Army's intelligence and security major command, headquartered in this period at Arlington Hall Station, Arlington, Virginia, with subordinate elements at Fort George G. Meade. Its own documents date its exploitation of psychoenergetics to Project GRILL FLAME in 1977, undertaken after the Army Assistant Chief of Staff for Intelligence and the commanding general agreed that INSCOM would check out the phenomenon and that Army Intelligence would obligate seventy-five thousand dollars for an SRI International selection and training programme. The successor project, CENTER LANE, was run from the Security Support Detachment of the 902d Military Intelligence Group at Fort George G. Meade under a special access programme designated by the Secretary of the Army, with a category-three access caveat on every page. INSCOM's commanding general recommended ending the Army's involvement in July 1984 and, on 2 March 1985, notified the Department of the Army of the project's deactivation and of the attachment of its assets and resources to the Defense Intelligence Agency under operational control. The command's 1977 establishment order has not been opened; the dateStart above is the year INSCOM's own memorandum gives for the start of the work, not for the command.",
-"domains": [
-"area52-2026-09-02"
-],
+"domains": [],
 "dossier": {
 "claims": [
 {
@@ -257,7 +256,11 @@
 "tier": "B"
 }
 ],
+"openQuestions": [],
 "short": "INSCOM (Army Intelligence & Security)",
+"sourceFiles": [
+"area52-2026-09-02"
+],
 "sources": [
 {
 "date": "1984-07-17",
@@ -297,16 +300,18 @@
 ],
 "sub": "Army intelligence major command; ran the psychoenergetics effort as a special access programme, 1977-1985",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 120 of 1170, score 57). 6 connections, 5 of them custody/funding/programmatic. Axes C2/A3/D2.",
+"tierRationale": "Re-graded A on a global pass (rank 119 of 1170, score 57). 6 connections, 5 of them custody/funding/programmatic. Axes C2/A3/D2.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1985-03-02",
+"grade": "B",
 "id": "tl-1985-03-02-center-lane-deactivation",
 "label": "INSCOM deactivates CENTER LANE and attaches its assets to DIA",
 "precision": "day",
 "strand": "program",
-"text": "INSCOM notifies the Department of the Army of 'the deactivation of the INSCOM CENTER LANE Project, the attachment OPCON of CENTER LANE assets and resources to the Defense Intelligence Agency, and the retirement of CENTER LANE as an active project nickname', and asks HQDA to officially discontinue CENTER LANE 'as a Secretary of the Army designated Special Access Program'. The initiative was INSCOM's own: its commanding general had recommended discontinuing the work in July 1984.",
-"tier": "B"
+"text": "INSCOM notifies the Department of the Army of 'the deactivation of the INSCOM CENTER LANE Project, the attachment OPCON of CENTER LANE assets and resources to the Defense Intelligence Agency, and the retirement of CENTER LANE as an active project nickname', and asks HQDA to officially discontinue CENTER LANE 'as a Secretary of the Army designated Special Access Program'. The initiative was INSCOM's own: its commanding general had recommended discontinuing the work in July 1984."
 }
-]
+],
+"unverified": []
 }

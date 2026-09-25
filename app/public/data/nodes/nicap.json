@@ -32,6 +32,7 @@
 ],
 "cls": "institution",
 "cluster": "media",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -187,18 +188,20 @@
 "deg": 7,
 "denials": [
 {
-"by": {
+"a": {
 "id": "nicap",
 "label": "National Investigations Committee on Aerial Phenomena (NICAP)"
 },
+"b": {
+"id": "usaf",
+"label": "United States Air Force"
+},
+"by": null,
 "claimTier": 1,
 "denialKind": null,
 "label": "Charged the Air Force with an intolerable degree of secrecy, in print, to Congress",
 "note": "The 1964 volume states that the Air Force 'has practiced an intolerable degree of secrecy keeping the public in the dark about the amount and possible significance of UFO evidence', and that copies of the report were sent to all Members of Congress.",
-"of": {
-"id": "usaf",
-"label": "United States Air Force"
-},
+"of": null,
 "sources": [
 {
 "date": "1964-05-01",
@@ -209,9 +212,7 @@
 }
 ],
 "desc": "NICAP is the civilian organisation the board narrates constantly and has never named as an entity. It was forming at 1536 Connecticut Avenue NW in October 1956 under Thomas Townsend Brown, who told a Scripps-Howard reporter he was executive vice chairman pro tempore and that the group would elect its nine-man board of governors on 1 November; the clipping is in the FBI's own file on the organisation. By 1964 it was directed by Maj. Donald E. Keyhoe with Richard H. Hall as acting director and editor, carried a former Director of Central Intelligence and a former Blue Book headquarters monitor on its board, and published The UFO Evidence, which it sent to every Member of Congress and which the CIA filed. It is the exact official-and-civilian boundary the board argues about: a private body, staffed at the top by people who had held the government's own positions, campaigning for the hearings the government did not hold. The District of Columbia corporate register itself was not opened, so the incorporation rests on NICAP's own statement of it.",
-"domains": [
-"michels-2026-09-02"
-],
+"domains": [],
 "dossier": {
 "claims": [
 {
@@ -300,7 +301,11 @@
 "tier": "A"
 }
 ],
+"openQuestions": [],
 "short": "NICAP",
+"sourceFiles": [
+"michels-2026-09-02"
+],
 "sources": [
 {
 "date": "1964-05-01",
@@ -315,16 +320,18 @@
 ],
 "sub": "Civilian UFO body incorporated in the District of Columbia, 1956; 1536 Connecticut Avenue NW",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 325 of 1170, score 38). 7 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A1/D1.",
+"tierRationale": "Re-graded B on a global pass (rank 323 of 1170, score 38). 7 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A1/D1.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1956",
+"grade": "B",
 "id": "tl-1956-nicap-incorporated",
 "label": "NICAP incorporated in the District of Columbia",
 "precision": "year",
 "strand": "oversight",
-"text": "The National Investigations Committee on Aerial Phenomena states in its own 1964 volume that it is a non-profit organization incorporated in the District of Columbia in 1956. A Washington Daily News report of 23 October 1956, filed in the FBI's NICAP file, records the organisation forming at 1536 Connecticut Avenue NW under T. Townsend Brown of Leesburg, Virginia, executive vice chairman pro tempore, with a nine-man board of governors still to be elected on 1 November. The District's own corporate register was not opened.",
-"tier": "B"
+"text": "The National Investigations Committee on Aerial Phenomena states in its own 1964 volume that it is a non-profit organization incorporated in the District of Columbia in 1956. A Washington Daily News report of 23 October 1956, filed in the FBI's NICAP file, records the organisation forming at 1536 Connecticut Avenue NW under T. Townsend Brown of Leesburg, Virginia, executive vice chairman pro tempore, with a nine-man board of governors still to be elected on 1 November. The District's own corporate register was not opened."
 }
-]
+],
+"unverified": []
 }

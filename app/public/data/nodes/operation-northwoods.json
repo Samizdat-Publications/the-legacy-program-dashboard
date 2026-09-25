@@ -32,6 +32,7 @@
 ],
 "cls": "document",
 "cluster": "other",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -187,9 +188,7 @@
 "deg": 7,
 "denials": [],
 "desc": "On 13 March 1962 the Joint Chiefs of Staff sent the Secretary of Defense a memorandum forwarding a set of fabricated pretexts that would justify American military intervention in Cuba, and the Chairman, Gen. L. L. Lemnitzer, signed it. Its annex is headed 'PRETEXTS TO JUSTIFY US MILITARY INTERVENTION IN CUBA' and proposes, among other courses of action, blowing up a US ship in Guantanamo Bay and blaming Cuba, and substituting a duplicate aircraft at Eglin Air Force Base for a civil airliner belonging to a CIA proprietary company so that its apparent destruction could be attributed to Cuba. The board argues that cover stories are constructed deliberately at institutional level; this is the declassified instance of exactly that, drafted, staffed and signed at the top of the military chain, and released only because a records statute reached it in 1997. It belongs on the board as a document, not as an assertion about any other case.",
-"domains": [
-"dannyjones-2026-09-03"
-],
+"domains": [],
 "dossier": {
 "claims": [
 {
@@ -268,7 +267,11 @@
 "tier": "B"
 }
 ],
+"openQuestions": [],
 "short": "Operation Northwoods, 13 Mar 1962",
+"sourceFiles": [
+"dannyjones-2026-09-03"
+],
 "sources": [
 {
 "date": "1962-03-13",
@@ -288,16 +291,18 @@
 ],
 "sub": "Joint Chiefs of Staff memorandum to the Secretary of Defense, JCS 1969/321, TOP SECRET SPECIAL HANDLING NOFORN; released through the JFK Assassination Records Review Board",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 286 of 1170, score 40). 7 connections, 3 of them custody/funding/programmatic. Axes C1/A1/D1.",
+"tierRationale": "Re-graded B on a global pass (rank 284 of 1170, score 40). 7 connections, 3 of them custody/funding/programmatic. Axes C1/A1/D1.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1962-03-13",
+"grade": "B",
 "id": "tl-1962-03-13-northwoods",
 "label": "The Joint Chiefs forward fabricated pretexts for invading Cuba to the Secretary of Defense",
 "precision": "day",
 "strand": "coverup",
-"text": "A memorandum for the Secretary of Defense, subject 'Justification for US Military Intervention in Cuba (TS)', serial JCS 1969/321, forwards an annex headed 'PRETEXTS TO JUSTIFY US MILITARY INTERVENTION IN CUBA' and recommends that responsibility for both overt and covert military operations under the resulting plan be assigned to the Joint Chiefs of Staff. It is signed 'For the Joint Chiefs of Staff, L. L. LEMNITZER, Chairman'.",
-"tier": "B"
+"text": "A memorandum for the Secretary of Defense, subject 'Justification for US Military Intervention in Cuba (TS)', serial JCS 1969/321, forwards an annex headed 'PRETEXTS TO JUSTIFY US MILITARY INTERVENTION IN CUBA' and recommends that responsibility for both overt and covert military operations under the resulting plan be assigned to the Joint Chiefs of Staff. It is signed 'For the Joint Chiefs of Staff, L. L. LEMNITZER, Chairman'."
 }
-]
+],
+"unverified": []
 }

@@ -102,6 +102,7 @@
 ],
 "cls": "legislation",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -201,7 +202,7 @@
 "edgeLabel": "The funding bar was not renewed; only the IR&D provision survives",
 "id": "ndaa-fy2024-1687",
 "l0": true,
-"label": "FY2024 NDAA sec. 1687 — Limitation on Use of Funds for Certain Unreported Programs",
+"label": "FY2024 NDAA sec. 1687 - Limitation on Use of Funds for Certain Unreported Programs",
 "note": "Section 1687(a) applied only to funds authorised by the FY2024 Act; a full-text search of the FY2025 and FY2026 NDAAs returns no equivalent provision. Section 1687(b), codified as a 50 U.S.C. 3373 note, has no fiscal-year limit. Attested by the enacted texts of all three Acts.",
 "sources": [
 {
@@ -241,11 +242,7 @@
 "deg": 5,
 "denials": [],
 "desc": "The National Defense Authorization Act for Fiscal Year 2026 was approved on 18 December 2025. Its UAP provisions run in two opposite directions at once and both matter to the money question. Section 1672, 'Elimination of Duplicative Reporting Requirements Relating to Unidentified Anomalous Phenomena', repeals section 413 of the Intelligence Authorization Act for Fiscal Year 2022 (50 U.S.C. 3373a) outright, and rewrites section 1683(f)(1)(A) of the FY2022 NDAA so that the DNI and the Secretary of Defense 'shall jointly require that each element of the intelligence community and component of the Department of Defense with data relating to unidentified anomalous phenomena makes such data available immediately to the Office in a manner that protects intelligence sources and methods.' Section 1673, 'Accounting of Security Classification Guides Relating to Unidentified Anomalous Phenomena', directs the Director of AARO within 180 days of enactment - by roughly 16 June 2026 - to make an accounting of the security classification guides that apply to information used for UAP reports and investigations, and permits issuance of a consolidated security classification matrix. Section 1671 requires briefings on intercepts of UAP by NORAD and USNORTHCOM. What is absent is as important as what is present: neither the FY2025 nor the FY2026 NDAA re-enacted the section 1687(a) bar on funds for unreported UAP special access activity, which by its terms applied only to funds authorised by the FY2024 Act. The permanent piece - the IR&D indirect-cost prohibition at section 1687(b), codified as a 50 U.S.C. 3373 note - survives; the annual funding bar did not.",
-"domains": [
-"_rs-legislation",
-"w12-duplicate-collapse",
-"w2-black-budget"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "3",
@@ -259,7 +256,13 @@
 "label": "NDAA FY2026 UAP provisions (Secs. 1671-1673)",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "NDAA FY2026 UAP provisions (Secs. 1671-1673)",
+"sourceFiles": [
+"_rs-legislation",
+"w12-duplicate-collapse",
+"w2-black-budget"
+],
 "sources": [
 {
 "date": "2025-12-18",
@@ -282,31 +285,35 @@
 "tierRationale": "Re-graded A on a global pass (rank 76 of 1170, score 70). 6 connections, 1 of them custody/funding/programmatic. Axes C1/A2/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2024-12-23",
+"grade": "A",
 "id": "bb-tl-2024-12-23-6802",
 "label": "FY2025 NDAA sunsets the Historical Record Report audit requirement",
 "precision": "day",
 "strand": "coverup",
-"text": "Section 6802 of the FY2025 NDAA ties the quarterly and semiannual audit and reporting requirements on the UAP Historical Record Report to 90 and 180 days after delivery of the final volume. The same Act does not re-enact the section 1687(a) funding bar, which lapsed with fiscal year 2024.",
-"tier": "A"
+"text": "Section 6802 of the FY2025 NDAA ties the quarterly and semiannual audit and reporting requirements on the UAP Historical Record Report to 90 and 180 days after delivery of the final volume. The same Act does not re-enact the section 1687(a) funding bar, which lapsed with fiscal year 2024."
 },
 {
+"claimTier": null,
 "date": "2025-12-10",
+"grade": "B",
 "id": "ch-2025-12-10",
 "label": "FY2026 NDAA UAP provisions",
 "precision": "day",
 "strand": "oversight",
-"text": "Congress directs AARO to brief on NORAD/NORTHCOM UAP intercepts back to 2004 and to account for its UAP security classification guides.",
-"tier": "B"
+"text": "Congress directs AARO to brief on NORAD/NORTHCOM UAP intercepts back to 2004 and to account for its UAP security classification guides."
 },
 {
+"claimTier": 2,
 "date": "2025-12-10",
+"grade": null,
 "id": "tl-fy26-ndaa",
 "label": "FY2026 NDAA carries three UAP provisions",
 "precision": "day",
 "strand": "oversight",
-"text": "The conferenced bill requires AARO to brief Congress on NORAD/NORTHCOM UAP intercepts since 2004 including data collected, to account for UAP-related security classification guides, and to streamline agency data-sharing.",
-"tier": "2"
+"text": "The conferenced bill requires AARO to brief Congress on NORAD/NORTHCOM UAP intercepts since 2004 including data collected, to account for UAP-related security classification guides, and to streamline agency data-sharing."
 }
-]
+],
+"unverified": []
 }

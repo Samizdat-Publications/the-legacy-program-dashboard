@@ -22,6 +22,7 @@
 ],
 "cls": "event",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -119,9 +120,7 @@
 "deg": 4,
 "denials": [],
 "desc": "A roughly ninety-minute closed-door briefing at the Capitol on 12 January 2024 at which Intelligence Community Inspector General Thomas Monheim met House Oversight and Accountability members and members of the Congressional UAP Caucus. Burchett said around sixteen members attended - 'the whole gang' - naming Moskowitz, Ocasio-Cortez and Luna. What the briefing produced is a bipartisan null. Krishnamoorthi: 'I didn't get the answers that I was hoping for.' Burchett: 'more of the same... it's very compartmentalized; it's like looking down the barrel of a .22 rifle... now it's just whack-a-mole,' rating it four out of ten. Ogles: 'I asked very specific questions and was unable to get specific answers.' Burlison and Garcia were more positive, describing direction and new information respectively. This is the only formal encounter between the House and the watchdog whose credible-and-urgent finding on the Grusch complaint is the legal foundation of the entire inquiry, and it did not resolve any substantive question the committee had asked.",
-"domains": [
-"congress-house"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "3",
@@ -135,7 +134,11 @@
 "label": "Closed ICIG UAP briefing to House Oversight members",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Closed ICIG UAP briefing to House Oversight members",
+"sourceFiles": [
+"congress-house"
+],
 "sources": [
 {
 "date": "2024-01-12",
@@ -153,13 +156,15 @@
 "tierRationale": "Re-graded C on a global pass (rank 748 of 1170, score 23). 4 connections, 1 of them custody/funding/programmatic. Axes C0/A2/D2.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2024-01-12",
+"grade": "A",
 "id": "ch-2024-01-12",
 "label": "The ICIG briefing produces nothing",
 "precision": "day",
 "strand": "coverup",
-"text": "Inspector General Thomas Monheim briefs about sixteen House members for ninety minutes. Krishnamoorthi did not get the answers he hoped for; Burchett calls it 'more of the same' and a 4/10; Ogles says he asked specific questions and got no specific answers.",
-"tier": "A"
+"text": "Inspector General Thomas Monheim briefs about sixteen House members for ninety minutes. Krishnamoorthi did not get the answers he hoped for; Burchett calls it 'more of the same' and a 4/10; Ogles says he asked specific questions and got no specific answers."
 }
-]
+],
+"unverified": []
 }

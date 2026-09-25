@@ -115,7 +115,9 @@
 "deg": 2,
 "denials": [],
 "domains": [
-"primes-custody"
+"d-custody",
+"d-witness",
+"d-exotic"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -136,6 +138,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Alfred 'Al' O'Donnell",
+"sourceFiles": [
+"primes-custody"
+],
 "sources": [
 {
 "date": "2023-02-28",
@@ -151,25 +156,27 @@
 "status": "dead",
 "sub": "Senior manager and first general manager, EG&G in Nevada; nuclear test firing engineer",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 581 of 1170, score 28). 2 connections, 0 of them custody/funding/programmatic. Axes C3/A3/D0.",
+"tierRationale": "Re-graded B on a global pass (rank 580 of 1170, score 28). 2 connections, 0 of them custody/funding/programmatic. Axes C3/A3/D0.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1993-01-01",
+"grade": "B",
 "id": "pc-1993-odonnell",
 "label": "O'Donnell says nothing to the Senate investigator",
 "precision": "year",
 "strand": "witness",
-"text": "Knapp arranges a meeting between Al O'Donnell of EG&G and D'Amato with the blessing of EG&G co-founder Herbert Grier. O'Donnell, who had privately described a recovered saucer and a live being, tells the investigator nothing.",
-"tier": "B"
+"text": "Knapp arranges a meeting between Al O'Donnell of EG&G and D'Amato with the blessing of EG&G co-founder Herbert Grier. O'Donnell, who had privately described a recovered saucer and a live being, tells the investigator nothing."
 },
 {
+"claimTier": null,
 "date": "2023-02-28",
+"grade": "B",
 "id": "pc-2023-02-egg",
 "label": "The EG&G account published as Congress reopens the question",
 "precision": "day",
 "strand": "witness",
-"text": "Liberation Times publishes George Knapp's account of Al O'Donnell describing a recovered saucer and a live being, together with D'Amato's public statement and his reported private view that a private-company cover-up was 'entirely feasible.'",
-"tier": "B"
+"text": "Liberation Times publishes George Knapp's account of Al O'Donnell describing a recovered saucer and a live being, together with D'Amato's public statement and his reported private view that a private-company cover-up was 'entirely feasible.'"
 }
 ],
 "unexplainedResidual": null,

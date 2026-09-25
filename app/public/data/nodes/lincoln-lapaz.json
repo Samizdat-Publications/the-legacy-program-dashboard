@@ -111,8 +111,8 @@
 "deg": 2,
 "denials": [],
 "domains": [
-"_rs-archive-mirror",
-"ffrdcs"
+"d-ffrdc",
+"d-program"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -133,6 +133,10 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Lincoln LaPaz",
+"sourceFiles": [
+"_rs-archive-mirror",
+"ffrdcs"
+],
 "sources": [
 {
 "date": "2025-10-25",

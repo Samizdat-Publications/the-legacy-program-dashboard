@@ -87,19 +87,25 @@
 ],
 "cls": "program",
 "cluster": "legacy",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
 "cls": "document",
-"dateEnd": "2024",
-"dateStart": "2024",
+"dateEnd": null,
+"dateStart": null,
 "direction": "in",
-"edgeLabel": "March 2024: 'no evidence for the USG reverse-engineering narrative provided by interviewees'",
+"edgeLabel": "AARO: 'AATIP was never an official DoD program'",
 "id": "aaro-historical-record-vol1",
 "l0": true,
 "label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
 "note": "AARO's report treats 2009 as the standup year for AAWSAP and AATIP and rejects the reverse-engineering account. It is itself a DOPSR-reviewed document, DOPSR-2024-0263.",
 "sources": [
+{
+"date": null,
+"name": "https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf",
+"url": "https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf"
+},
 {
 "date": "2024-03-08",
 "name": "AARO Historical Record Report Volume 1",
@@ -114,8 +120,8 @@
 "cls": "document",
 "dateEnd": null,
 "dateStart": null,
-"direction": "out",
-"edgeLabel": "AARO: 'AATIP was never an official DoD program'",
+"direction": "in",
+"edgeLabel": "",
 "id": "aaro-historical-record-vol1",
 "l0": true,
 "label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
@@ -142,6 +148,27 @@
 "dateStart": null,
 "direction": "in",
 "edgeLabel": "AAWSAP is the official name; AATIP/AAITP is Reid's name for it",
+"id": "aawsap",
+"l0": true,
+"label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)",
+"note": "",
+"sources": [
+{
+"date": null,
+"name": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237611/",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237611/"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": "2012",
+"dateStart": "2009",
+"direction": "in",
+"edgeLabel": "same appropriation, two designations",
 "id": "aawsap",
 "l0": true,
 "label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)",
@@ -466,19 +493,32 @@
 "deg": 14,
 "denials": [
 {
+"a": {
+"id": "aaro-historical-record-vol1",
+"label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+},
+"b": {
+"id": "aatip",
+"label": "Advanced Aerospace Threat Identification Program (AATIP / AAITP)"
+},
 "by": {
 "id": "aaro-historical-record-vol1",
 "label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
 },
 "claimTier": 1,
 "denialKind": "directed",
-"label": "March 2024: 'no evidence for the USG reverse-engineering narrative provided by interviewees'",
+"label": "AARO: 'AATIP was never an official DoD program'",
 "note": "AARO's report treats 2009 as the standup year for AAWSAP and AATIP and rejects the reverse-engineering account. It is itself a DOPSR-reviewed document, DOPSR-2024-0263.",
 "of": {
 "id": "aatip",
 "label": "Advanced Aerospace Threat Identification Program (AATIP / AAITP)"
 },
 "sources": [
+{
+"date": null,
+"name": "https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf",
+"url": "https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf"
+},
 {
 "date": "2024-03-08",
 "name": "AARO Historical Record Report Volume 1",
@@ -487,6 +527,14 @@
 ]
 },
 {
+"a": {
+"id": "susan-gough",
+"label": "Susan Gough"
+},
+"b": {
+"id": "aatip",
+"label": "Advanced Aerospace Threat Identification Program (AATIP / AAITP)"
+},
 "by": {
 "id": "susan-gough",
 "label": "Susan Gough"
@@ -509,12 +557,7 @@
 }
 ],
 "desc": "AATIP is the program at the centre of the 2017 break and the object of the Department's most contorted public statements. The New York Times reported on 16 December 2017 that it ran from late 2008 through 2011 on roughly $22 million, most of it to Robert Bigelow's Bigelow Aerospace, and that Senator Harry Reid initiated it in 2007. Pentagon spokesman Thomas Crosson confirmed its existence and said it was shut down in 2012 because 'there were other, higher priority issues that merit' the funding. On 24 July 2009 Reid wrote to Deputy Secretary of Defense William Lynn III seeking Special Access Program status for it; the request was denied, and the names of Elizondo and Harold Puthoff in that memorandum were originally redacted before later release. Elizondo's position is that AATIP grew out of AAWSAP, that he ran it from roughly 2010, that government funding rather than the program ceased in 2012, and that it morphed into what became the UAP Task Force. The Department's position has moved three times: acknowledged as UAP-related by Christopher Sherwood on 22 May 2019, flatly denied as UAP-related by Susan Gough on 6 December 2019, and partially conceded again on 21 May 2021 when Gough allowed that the contract 'allowed for research drawn from a wide variety of sources, including reports of UAPs' while denying that was its purpose. AARO's 2024 Historical Record Report Volume 1 treats 2009 as the standup year for AAWSAP and AATIP and concludes it found 'no evidence for the USG reverse-engineering narrative provided by interviewees'.",
-"domains": [
-"_rs-aawsap-dirds",
-"_rs-archive-mirror",
-"aawsap-aatip",
-"elizondo-ttsa"
-],
+"domains": [],
 "dossier": {
 "claims": [
 {
@@ -779,7 +822,14 @@
 "tier": "C"
 }
 ],
+"openQuestions": [],
 "short": "AATIP",
+"sourceFiles": [
+"_rs-aawsap-dirds",
+"_rs-archive-mirror",
+"aawsap-aatip",
+"elizondo-ttsa"
+],
 "sources": [
 {
 "date": "2009-06-24",
@@ -884,34 +934,38 @@
 ],
 "sub": "dia-program",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 20 of 1170, score 108). 16 connections, 6 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C3/A3/D3.",
+"tierRationale": "Re-graded A on a global pass (rank 19 of 1170, score 109). 17 connections, 6 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C3/A3/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2007-01-01",
+"grade": "A",
 "id": "tl-2007-reid-initiates",
 "label": "Reid initiates AATIP",
 "precision": "year",
 "strand": "program",
-"text": "Senator Harry Reid, prompted by Robert Bigelow, sets in motion the program that becomes AATIP. Funding of roughly $22 million flows from late 2008 through 2011, most of it to Bigelow Aerospace.",
-"tier": "A"
+"text": "Senator Harry Reid, prompted by Robert Bigelow, sets in motion the program that becomes AATIP. Funding of roughly $22 million flows from late 2008 through 2011, most of it to Bigelow Aerospace."
 },
 {
+"claimTier": null,
 "date": "2009-07-24",
+"grade": "A",
 "id": "tl-2009-reid-sap",
 "label": "Reid seeks SAP status",
 "precision": "day",
 "strand": "program",
-"text": "Reid writes to Deputy Secretary of Defense William Lynn III requesting Special Access Program status for AATIP. The request is denied. Elizondo's and Puthoff's names in the memo are originally redacted.",
-"tier": "A"
+"text": "Reid writes to Deputy Secretary of Defense William Lynn III requesting Special Access Program status for AATIP. The request is denied. Elizondo's and Puthoff's names in the memo are originally redacted."
 },
 {
+"claimTier": null,
 "date": "2012-01-01",
+"grade": "A",
 "id": "tl-2012-funding-ends",
 "label": "AATIP funding ends",
 "precision": "year",
 "strand": "program",
-"text": "The Department's position is that AATIP terminated in 2012. Elizondo's position is that only government funding ceased and the effort continued to his 2017 departure.",
-"tier": "A"
+"text": "The Department's position is that AATIP terminated in 2012. Elizondo's position is that only government funding ceased and the effort continued to his 2017 departure."
 }
-]
+],
+"unverified": []
 }

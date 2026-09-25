@@ -93,7 +93,9 @@
 "deg": 1,
 "denials": [],
 "domains": [
-"primes-custody"
+"d-custody",
+"d-coverup",
+"d-oversight"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -114,6 +116,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Christopher Sharp",
+"sourceFiles": [
+"primes-custody"
+],
 "sources": [
 {
 "date": "2023-03-11",

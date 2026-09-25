@@ -22,6 +22,7 @@
 ],
 "cls": "program",
 "cluster": "ic",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -98,9 +99,7 @@
 "deg": 3,
 "denials": [],
 "desc": "GRILL FLAME was the codename under which the Army's Intelligence and Security Command and the Defense Intelligence Agency formalised operational remote viewing at Fort Meade from 1978, drawing methodology directly from the SRI work of Puthoff and Targ. It was a real, funded, compartmented intelligence programme with tasked operational missions, and its documentation - together with that of its successors - forms the bulk of the roughly 12,000-page STARGATE corpus that CIA declassified in 1995. GRILL FLAME matters to this board for reasons that have nothing to do with whether remote viewing works. It is the proof that the US intelligence community will fund, compartment, staff and operationally task a programme in a domain it publicly treats as absurd, for over a decade, through a private research institute, and will only acknowledge it when forced. That is precisely the behavioural profile the legacy programme thesis predicts, demonstrated in a case where the documents were eventually released.",
-"domains": [
-"history-1970s-2000s"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "1",
@@ -114,7 +113,11 @@
 "label": "GRILL FLAME",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "GRILL FLAME",
+"sourceFiles": [
+"history-1970s-2000s"
+],
 "sources": [
 {
 "date": "2018-09-11",
@@ -142,13 +145,15 @@
 "tierRationale": "Re-graded B on a global pass (rank 468 of 1170, score 32). 3 connections, 3 of them custody/funding/programmatic. Axes C0/A3/D2.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1978-01-01",
+"grade": "A",
 "id": "t-1978-grillflame",
 "label": "GRILL FLAME formalised",
 "precision": "year",
 "strand": "program",
-"text": "Army INSCOM and DIA formalise operational remote viewing at Fort Meade using SRI methodology - the first of four codenames for one continuous seventeen-year effort.",
-"tier": "A"
+"text": "Army INSCOM and DIA formalise operational remote viewing at Fort Meade using SRI methodology - the first of four codenames for one continuous seventeen-year effort."
 }
-]
+],
+"unverified": []
 }

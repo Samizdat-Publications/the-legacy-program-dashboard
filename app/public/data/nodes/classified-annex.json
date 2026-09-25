@@ -32,6 +32,7 @@
 ],
 "cls": "document",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -249,9 +250,7 @@
 "deg": 9,
 "denials": [],
 "desc": "Every year Congress enacts two sets of numbers for the Department of Defense. One is printed in the United States Statutes at Large and can be read by anyone. The other is the classified annex, and it has been given, by express statutory text, exactly the same legal force. Section 8006(a) of the Department of Defense Appropriations Act for fiscal year 2026 (division of Public Law 119-75, approved 3 February 2026) provides that with regard to the programme, project and activity tables in the explanatory statement 'and the tables contained in the classified annex accompanying this Act, the obligation and expenditure of amounts appropriated or otherwise made available by this Act for those programs, projects, and activities are hereby required by law to be carried out in the manner provided by such tables to the same extent as if the tables were included in the text of this Act.' The authorisation side does the same thing: section 4001(d) of the National Defense Authorization Act for Fiscal Year 2026 (Public Law 119-60, approved 18 December 2025) states simply 'Applicability to Classified Annex.--This section applies to any classified annex that accompanies this Act', section 4001(a) having just provided that a dollar amount in a funding table is thereby authorised for obligation and expenditure. The annex is prepared by the four defense committees, is not printed in the Congressional Record, is not available to members who are not on the relevant committees without arrangement, and is never published. Its contents are the programme-element-level detail for classified activity: the actual line items, the actual dollar figures, the actual programme names. Section 8059 of the FY2026 appropriations act directs the Secretary of Defense to continue providing 'a classified quarterly report ... on certain matters as directed in the classified annex accompanying this Act' - the annex is thus itself the source of reporting requirements whose subject matter is unknown to the public. This is the structure that answers the question posed at the top of this board: money reaches a programme that does not appear as a budget line because the budget line exists, is legally binding, and is in a document nobody outside a small circle has read.",
-"domains": [
-"w2-black-budget"
-],
+"domains": [],
 "dossier": {
 "claims": [
 {
@@ -400,7 +399,11 @@
 "tier": "B"
 }
 ],
+"openQuestions": [],
 "short": "The Classified Annex",
+"sourceFiles": [
+"w2-black-budget"
+],
 "sources": [
 {
 "date": "2026-02-03",
@@ -415,25 +418,28 @@
 ],
 "sub": "Unpublished companion document carrying the force of law over classified programme funding",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 112 of 1170, score 59). 9 connections, 6 of them custody/funding/programmatic. Axes C1/A3/D3.",
+"tierRationale": "Re-graded A on a global pass (rank 110 of 1170, score 59). 9 connections, 6 of them custody/funding/programmatic. Axes C1/A3/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2025-12-18",
+"grade": "A",
 "id": "bb-tl-2025-12-18-ndaa26",
 "label": "FY2026 NDAA: classified annex given statutory force; UAP reporting trimmed",
 "precision": "day",
 "strand": "oversight",
-"text": "Public Law 119-60 is approved. Section 4001(d) applies the funding-table authorisation to 'any classified annex that accompanies this Act'; section 6102 provides that intelligence amounts 'are those specified in the classified Schedule of Authorizations' which the President 'shall not publicly disclose'. Section 1672 repeals 50 U.S.C. 3373a; section 1673 orders AARO to inventory the security classification guides covering UAP within 180 days.",
-"tier": "A"
+"text": "Public Law 119-60 is approved. Section 4001(d) applies the funding-table authorisation to 'any classified annex that accompanies this Act'; section 6102 provides that intelligence amounts 'are those specified in the classified Schedule of Authorizations' which the President 'shall not publicly disclose'. Section 1672 repeals 50 U.S.C. 3373a; section 1673 orders AARO to inventory the security classification guides covering UAP within 180 days."
 },
 {
+"claimTier": null,
 "date": "2026-02-03",
+"grade": "A",
 "id": "bb-tl-2026-02-03-approps",
 "label": "FY2026 Defense Appropriations Act enacted",
 "precision": "day",
 "strand": "oversight",
-"text": "Public Law 119-75 is approved. Section 8005 carries $6 billion of transfer authority; section 8006(a) gives the classified annex tables the force of statutory text; section 8006(b) exempts annex line items from the transfer ceiling; section 8009 requires 30 days notice before initiating or materially modifying a special access program; section 8084(b) makes 'the levels specified in the classified annex' the baseline for NIP reprogramming.",
-"tier": "A"
+"text": "Public Law 119-75 is approved. Section 8005 carries $6 billion of transfer authority; section 8006(a) gives the classified annex tables the force of statutory text; section 8006(b) exempts annex line items from the transfer ceiling; section 8009 requires 30 days notice before initiating or materially modifying a special access program; section 8084(b) makes 'the levels specified in the classified annex' the baseline for NIP reprogramming."
 }
-]
+],
+"unverified": []
 }

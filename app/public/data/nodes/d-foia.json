@@ -27,6 +27,7 @@
 ],
 "cls": "domain",
 "cluster": "media",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 3,
@@ -166,18 +167,20 @@
 "deg": 6,
 "denials": [
 {
-"by": {
+"a": {
 "id": "d-contractor",
 "label": "Prime Contractor Custody"
 },
+"b": {
+"id": "d-foia",
+"label": "Freedom of Information Practice"
+},
+"by": null,
 "claimTier": 3,
 "denialKind": "association",
 "label": "Contractor records are outside the statute",
 "note": "FOIA reaches agency records; material moved into contractor custody leaves the statute's reach without any change in classification. Reasoning stated in the d-foia dossier.",
-"of": {
-"id": "d-foia",
-"label": "Freedom of Information Practice"
-},
+"of": null,
 "sources": [
 {
 "date": "2026-08-12",
@@ -192,18 +195,20 @@
 ]
 },
 {
-"by": {
+"a": {
 "id": "d-signals",
 "label": "Signals & Sensor Intelligence"
 },
+"b": {
+"id": "d-foia",
+"label": "Freedom of Information Practice"
+},
+"by": null,
 "claimTier": 1,
 "denialKind": "association",
 "label": "Exemption 3 and the Glomar posture",
 "note": "NSA's statutory withholding, sustained in CAUS v. NSA on the classified Yeates affidavit, is the hardest documented barrier between sensor data and the public record.",
-"of": {
-"id": "d-foia",
-"label": "Freedom of Information Practice"
-},
+"of": null,
 "sources": [
 {
 "date": "1981-11-03",
@@ -214,9 +219,7 @@
 }
 ],
 "desc": "The Freedom of Information Act is the only routine instrument by which a private citizen can compel a federal agency to produce a record, and almost every primary document on this board arrived through it. Its limits are as instructive as its yield. Exemption 1 shields properly classified national defence information; Exemption 3 shields information withheld by other statute - including the National Security Agency Act, which NSA has successfully invoked to refuse even to describe its UFO-related holdings; and the Glomar response permits an agency to refuse to confirm or deny that responsive records exist at all. In Citizens Against UFO Secrecy v. NSA the courts sustained NSA's withholding of the overwhelming majority of its UFO-related documents on the strength of the Yeates affidavit, a filing whose own redacted form is a documented artifact of the concealment. The structural gap this board turns on is that FFRDC and prime-contractor records are contractor records, not agency records, and are outside FOIA entirely - so material that moves from a government shelf to a contractor shelf moves out of the statute's reach without ever being classified higher. Scoring high on this domain means an entity litigates, processes, or is the subject of these requests.",
-"domains": [
-"w2-taxonomy"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -230,7 +233,11 @@
 "label": "Freedom of Information Practice",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Freedom of Information Practice",
+"sourceFiles": [
+"w2-taxonomy"
+],
 "sources": [
 {
 "date": "1981-11-03",
@@ -260,16 +267,18 @@
 ],
 "sub": "Procedural domain - the request, the appeal, the Glomar, and what survives the exemptions",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 545 of 1170, score 30). 6 connections, 0 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C0/A0/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 539 of 1170, score 30). 6 connections, 0 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C0/A0/D3.",
 "timeline": [
 {
+"claimTier": 1,
 "date": "1981-11-03",
+"grade": null,
 "id": "tx-1980-caus-nsa",
 "label": "The courts sustain the NSA wall",
 "precision": "day",
 "strand": "coverup",
-"text": "The D.C. Circuit upholds NSA's withholding of its UFO-related holdings in Citizens Against UFO Secrecy v. NSA, on the strength of a classified affidavit the plaintiffs never see; certiorari is denied in March 1982. This sets the practical ceiling on FOIA litigation in this field.",
-"tier": 1
+"text": "The D.C. Circuit upholds NSA's withholding of its UFO-related holdings in Citizens Against UFO Secrecy v. NSA, on the strength of a classified affidavit the plaintiffs never see; certiorari is denied in March 1982. This sets the practical ceiling on FOIA litigation in this field."
 }
-]
+],
+"unverified": []
 }

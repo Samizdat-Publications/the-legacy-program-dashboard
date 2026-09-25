@@ -146,29 +146,13 @@
 "id": "hearing-2025-09-09",
 "l0": true,
 "label": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'",
-"note": "Listed in the printed hearing record as a witness.",
+"note": "Nuccetelli described 2003-2005 incursions at Vandenberg AFB during NRO launches and asserted each was documented and reported up the chain.",
 "sources": [
 {
 "date": "2025-09-09",
 "name": "CHRG-119hhrg61718, printed hearing transcript, 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection', Serial No. 119-44",
 "url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/pdf/CHRG-119hhrg61718.pdf"
-}
-],
-"tier": "A",
-"type": "programmatic"
 },
-{
-"claimTier": 1,
-"cls": "event",
-"dateEnd": "2025",
-"dateStart": "2025",
-"direction": "out",
-"edgeLabel": "Testified before the House Oversight Task Force",
-"id": "hearing-2025-09-09",
-"l0": true,
-"label": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'",
-"note": "Nuccetelli described 2003-2005 incursions at Vandenberg AFB during NRO launches and asserted each was documented and reported up the chain.",
-"sources": [
 {
 "date": "2025-09-09",
 "name": "House Oversight - hearing page, 9 Sept 2025",
@@ -247,11 +231,10 @@
 "deg": 3,
 "denials": [],
 "domains": [
-"_rs-legislation",
-"aviators-incidents",
-"congress-house",
-"uaptf-aaro",
-"w2-2025-2026"
+"d-aviators",
+"d-coverup",
+"d-witness",
+"d-oversight"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -272,6 +255,13 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Jeffrey Nuccetelli",
+"sourceFiles": [
+"_rs-legislation",
+"aviators-incidents",
+"congress-house",
+"uaptf-aaro",
+"w2-2025-2026"
+],
 "sources": [
 {
 "date": "2025-09-09",
@@ -312,16 +302,17 @@
 "status": "active",
 "sub": "USAF veteran, security forces / military police, Vandenberg AFB 2003-2005",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 199 of 1170, score 45). 4 connections, 1 of them custody/funding/programmatic. Axes C1/A1/D2.",
+"tierRationale": "Re-graded B on a global pass (rank 258 of 1170, score 41). 3 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D2.",
 "timeline": [
 {
+"claimTier": 2,
 "date": "2003",
+"grade": null,
 "id": "tl-vandenberg",
 "label": "Vandenberg incursions during NRO launches (2003-2005)",
 "precision": "ranged",
 "strand": "witness",
-"text": "Jeffrey Nuccetelli's testimony describes objects 'like flying buildings' over a space launch range during National Reconnaissance Office missions, each incident witnessed by multiple personnel, documented, investigated and reported up the chain. No Air Force series exists in RG 615 to hold those reports.",
-"tier": "2"
+"text": "Jeffrey Nuccetelli's testimony describes objects 'like flying buildings' over a space launch range during National Reconnaissance Office missions, each incident witnessed by multiple personnel, documented, investigated and reported up the chain. No Air Force series exists in RG 615 to hold those reports."
 }
 ],
 "unexplainedResidual": null,

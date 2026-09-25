@@ -42,6 +42,7 @@
 ],
 "cls": "event",
 "cluster": "witness",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -155,6 +156,14 @@
 "deg": 5,
 "denials": [
 {
+"a": {
+"id": "minot-1968",
+"label": "Minot AFB B-52 incident, 24 October 1968"
+},
+"b": {
+"id": "project-blue-book",
+"label": "Project Blue Book"
+},
 "by": {
 "id": "project-blue-book",
 "label": "Project Blue Book"
@@ -177,10 +186,7 @@
 }
 ],
 "desc": "The best-instrumented nuclear-site incursion case in the American record, and the one where the number of independent detection channels is the argument. In the early hours of 24 October 1968, about thirty miles northwest of Minot AFB, North Dakota, USAF ground radar tracked an unidentified object correlated with an orange glow and passed it to the crew of a B-52H, call sign JAG 31, at 2,000 feet on a 290-degree heading: a target at the one o'clock position at 24 miles at about 3:30 a.m. CDT, 15 miles by 3:35 a.m., and by 3:52 a.m. also being tracked by base weather radar at 3 miles. At 3:58 a.m. Minot requested IFF transponder identification and the B-52H's radio transmitter failed for four minutes. The bomber's own radar tracked a bright red-orange object, and the object was reported down at a location logged as 'AA-43' for some forty-five minutes. Simultaneously, Minuteman ICBM launch facilities of the 91st Strategic Missile Wing designated N, O, J and M Flights reported sightings and electromagnetic effects including security alarms triggered at both the outer and inner rings of a silo, an outer door opened and the combination lock of an inner door moved. Named witnesses include Maj. Bradford Runyon, S/Sgt Bond and S/Sgt Smith. Dan Wilson located 108 documents on the case and NARCAP found 141. Project Blue Book did not send field investigators, and Jan Aldrich's assessment of the Blue Book file is that the Air Force obfuscated the case badly enough that the obfuscation itself is visible in the paper. Richard Haines analysed the B-52H radar imagery. Minot 1968 is the case where the phrase 'threat to a primary nuclear offense system' is not rhetoric: radio failure, radar correlation and physical security breaches at a nuclear launch facility on the same night.",
-"domains": [
-"nuclear-witnesses-2026-09-19",
-"w2-retrieval-literature"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -194,7 +200,12 @@
 "label": "Minot AFB B-52 incident, 24 October 1968",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Minot AFB B-52 incident, 24 October 1968",
+"sourceFiles": [
+"nuclear-witnesses-2026-09-19",
+"w2-retrieval-literature"
+],
 "sources": [
 {
 "date": "1968-11-13",
@@ -224,16 +235,18 @@
 ],
 "sub": "Ground radar, airborne radar, visual and Minuteman site security events, 91st SMW",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 326 of 1170, score 38). 5 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D2.",
+"tierRationale": "Re-graded B on a global pass (rank 324 of 1170, score 38). 5 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D2.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1968-10-24",
+"grade": "A",
 "id": "tl-1968-1024-minot",
 "label": "Minot B-52 incident",
 "precision": "day",
 "strand": "witness",
-"text": "Ground radar, base weather radar, airborne radar and visual observation converge on an object near B-52H JAG 31; the bomber's transmitter fails for four minutes; Minuteman sites of N, O, J and M Flights report alarms and an inner door combination lock moved. Blue Book sends no field investigators.",
-"tier": "A"
+"text": "Ground radar, base weather radar, airborne radar and visual observation converge on an object near B-52H JAG 31; the bomber's transmitter fails for four minutes; Minuteman sites of N, O, J and M Flights report alarms and an inner door combination lock moved. Blue Book sends no field investigators."
 }
-]
+],
+"unverified": []
 }

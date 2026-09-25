@@ -42,6 +42,7 @@
 ],
 "cls": "institution",
 "cluster": "ffrdc",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -223,10 +224,7 @@
 "deg": 8,
 "denials": [],
 "desc": "Sandia is the largest FFRDC in the United States by funding - approximately 4,584 million dollars in FY2024 - and it sits physically inside Kirtland Air Force Base, the same installation that contains the Manzano Weapons Storage Area and Coyote Canyon. That geography is the reason Sandia belongs on this board twice over. First, in 1948-49 the green fireballs that triggered the Los Alamos conference and Project Twinkle were concentrated over Los Alamos, Sandia and the atomic weapons installations. Second, in August 1980 the best-documented US military UFO incident of the Cold War occurred on Kirtland: AFOSI Special Agent Richard C. Doty's complaint form of 9-10 September 1980, District File No. 8017D93-0/29, records that three 1608 Security Police Squadron members - SSgt Stephen Ferenz, ATC Martin W. Rist and AMN Anthony D. Frazier - observed a bright light near the Manzano restricted test range on the night of 8 August 1980 that performed stop-and-go manoeuvres, landed in Coyote Canyon and departed vertically at high speed; and that a Sandia Laboratories security guard reported a round disc-shaped object near an alarmed structure at about 00:20 on 9 August, during which his radio malfunctioned. The same AFOSI office and the same Special Agent Doty are at the centre of the destruction of Paul Bennewitz, the Albuquerque physicist whose company Thunder Scientific sat adjacent to Kirtland and who was fed fabricated material by Air Force counterintelligence until he broke down. Sandia's laboratory security organisation appears in the AFOSI record as a reporting party. The board's reading is that Kirtland in 1980 is the clearest documented case of a contractor-operated laboratory, an Air Force counterintelligence office and a nuclear weapons storage site all appearing in the same anomalous-object incident file - and of that file being used, within months, as raw material for a disinformation operation against a private citizen.",
-"domains": [
-"aawsap-aatip",
-"ffrdcs"
-],
+"domains": [],
 "dossier": {
 "claims": [
 {
@@ -331,7 +329,12 @@
 "tier": "B"
 }
 ],
+"openQuestions": [],
 "short": "Sandia National Laboratories",
+"sourceFiles": [
+"aawsap-aatip",
+"ffrdcs"
+],
 "sources": [
 {
 "date": "2009-10-30",
@@ -362,5 +365,6 @@
 "sub": "DOE national laboratory, Albuquerque, NM",
 "tier": "A",
 "tierRationale": "Re-graded A on a global pass (rank 146 of 1170, score 53). 8 connections, 2 of them custody/funding/programmatic. Axes C3/A3/D1.",
-"timeline": []
+"timeline": [],
+"unverified": []
 }

@@ -92,6 +92,7 @@
 ],
 "cls": "document",
 "cluster": "research",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -111,7 +112,7 @@
 "url": "https://www.navair.navy.mil/foia/sites/g/files/jejdrs566/files/document/%5Bfilename%5D/2021-003244%20FINAL%20VERSION%20PAX%20205%20-%20INERTIAL%20MASS%20REDUCTION%20DEVICE.pdf"
 }
 ],
-"tier": "B",
+"tier": "C",
 "type": "research"
 },
 {
@@ -231,10 +232,7 @@
 "deg": 6,
 "denials": [],
 "desc": "The central filing of the set and the one that produced the public controversy. Application 15/141270 was filed on 28 April 2016 from NAWCAD and granted on 4 December 2018, assigned to 'The United States of America as represented by the Secretary of the Navy'. Its abstract describes a craft comprising an inner resonant cavity wall, an outer resonant cavity and microwave emitters. The corresponding internal Navy briefing is Navy Case PAX 205. Reporting states the application was initially rejected and granted only after the Naval Aviation Enterprise's chief technology officer asserted operability to the USPTO and invoked Chinese development of comparable technology; the file wrapper has since been obtained and transcribed under research/patents/wrapper/, and the claims below record what it actually says: a formal appeal, not a letter, and an examiner who refused the China argument in writing.",
-"domains": [
-"pais-patents",
-"propulsion-2026-09-19"
-],
+"domains": [],
 "dossier": {
 "claims": [
 {
@@ -312,7 +310,12 @@
 "label": "US Patent 10,144,532 - Craft using an inertial mass reduction device",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "US Patent 10,144,532 - Craft using an inertial mass reduction device",
+"sourceFiles": [
+"pais-patents",
+"propulsion-2026-09-19"
+],
 "sources": [
 {
 "date": null,
@@ -327,79 +330,88 @@
 ],
 "sub": "Application 15/141270, filed 28 April 2016, granted 4 December 2018; assignee the Secretary of the Navy",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 64 of 1170, score 74). 6 connections, 4 of them custody/funding/programmatic. Axes C2/A1/D0.",
+"tierRationale": "Re-graded A on a global pass (rank 66 of 1170, score 74). 6 connections, 4 of them custody/funding/programmatic. Axes C2/A1/D0.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2016-04-28",
+"grade": "A",
 "id": "tl-2016-04-28-pais-imrd-filed",
 "label": "Application 15/141,270 filed: 'Craft using an inertial mass reduction device'",
 "precision": "day",
 "strand": "program",
-"text": "Assignee on the granted patent: 'The United States of America as represented by the Secretary of the Navy, Washington, DC (US)'. Attorney of record: 'Mark O Glut; NAWCAD'. Prior publication US 2017/0313446 A1 of 2 November 2017.",
-"tier": "A"
+"text": "Assignee on the granted patent: 'The United States of America as represented by the Secretary of the Navy, Washington, DC (US)'. Attorney of record: 'Mark O Glut; NAWCAD'. Prior publication US 2017/0313446 A1 of 2 November 2017."
 },
 {
+"claimTier": 2,
 "date": "2016-04-28",
+"grade": null,
 "id": "tl-pais-imrd-filed",
 "label": "Navy files the inertial mass reduction craft application",
 "precision": "day",
 "strand": "program",
-"text": "Application 15/141270, 'Craft using an inertial mass reduction device', filed with the United States as represented by the Secretary of the Navy as assignee.",
-"tier": "2"
+"text": "Application 15/141270, 'Craft using an inertial mass reduction device', filed with the United States as represented by the Secretary of the Navy as assignee."
 },
 {
+"claimTier": 1,
 "date": "2016-05-02",
+"grade": null,
 "id": "tl-pais-security-review",
 "label": "Pais craft application referred for third-level security review",
 "precision": "day",
 "strand": "program",
-"text": "USPTO events record the inertial mass reduction craft application referred to Level 2 (LARS) and then by L&R for third-level security review, the screening that decides whether a filing receives a secrecy order. It cleared.",
-"tier": "1"
+"text": "USPTO events record the inertial mass reduction craft application referred to Level 2 (LARS) and then by L&R for third-level security review, the screening that decides whether a filing receives a secrecy order. It cleared."
 },
 {
+"claimTier": 1,
 "date": "2018-06-21",
+"grade": null,
 "id": "tl-pais-appeal",
 "label": "Navy appeals the rejection of the inertial mass reduction craft patent",
 "precision": "day",
 "strand": "program",
-"text": "After a final rejection on 27 March 2018, the Department of the Navy filed a Notice of Appeal, then an Appeal Brief on 21 August 2018 accompanied by a Rule 131/132 affidavit. The examiner allowed the application on 31 October 2018 before the Patent Trial and Appeal Board ruled.",
-"tier": "1"
+"text": "After a final rejection on 27 March 2018, the Department of the Navy filed a Notice of Appeal, then an Appeal Brief on 21 August 2018 accompanied by a Rule 131/132 affidavit. The examiner allowed the application on 31 October 2018 before the Patent Trial and Appeal Board ruled."
 },
 {
+"claimTier": 1,
 "date": "2018-07-11",
+"grade": null,
 "id": "tl-pais-advisory-2018",
 "label": "Examiner: the physics is sound, the claims are still not enabled",
 "precision": "day",
 "strand": "program",
-"text": "The Advisory Action on application 15/141,270 recorded that the examiner agreed 'the math and physics are sound in this application' while holding the claims not enabled, and asked the applicant to demonstrate the effect. The application was allowed three months later without any demonstration appearing in the file.",
-"tier": "1"
+"text": "The Advisory Action on application 15/141,270 recorded that the examiner agreed 'the math and physics are sound in this application' while holding the claims not enabled, and asked the applicant to demonstrate the effect. The application was allowed three months later without any demonstration appearing in the file."
 },
 {
+"claimTier": null,
 "date": "2018-12-04",
+"grade": "A",
 "id": "tl-2018-12-04-pais-imrd-granted",
 "label": "US 10,144,532 granted, with Philip J Bonzell named as primary examiner",
 "precision": "day",
 "strand": "program",
-"text": "The printed front page gives 'Primary Examiner - Philip J Bonzell', the same person the board's existing Tier 1 claim names as the addressee of the Sheehy letter of 15 December 2017. 4 claims, 1 drawing sheet, term extended 153 days under 35 U.S.C. 154(b). A PATENT IS TIER 1 FOR WHAT IT CLAIMS AND NEVER FOR WHETHER THE THING WORKS.",
-"tier": "A"
+"text": "The printed front page gives 'Primary Examiner - Philip J Bonzell', the same person the board's existing Tier 1 claim names as the addressee of the Sheehy letter of 15 December 2017. 4 claims, 1 drawing sheet, term extended 153 days under 35 U.S.C. 154(b). A PATENT IS TIER 1 FOR WHAT IT CLAIMS AND NEVER FOR WHETHER THE THING WORKS."
 },
 {
+"claimTier": 2,
 "date": "2018-12-04",
+"grade": null,
 "id": "tl-pais-imrd-granted",
 "label": "US 10,144,532 granted",
 "precision": "day",
 "strand": "program",
-"text": "The inertial mass reduction craft patent issued to the Secretary of the Navy. Reporting states the application had first been rejected and was granted after the Naval Aviation Enterprise chief technology officer asserted operability to the USPTO and cited Chinese development of comparable technology.",
-"tier": "2"
+"text": "The inertial mass reduction craft patent issued to the Secretary of the Navy. Reporting states the application had first been rejected and was granted after the Naval Aviation Enterprise chief technology officer asserted operability to the USPTO and cited Chinese development of comparable technology."
 },
 {
+"claimTier": 1,
 "date": "2023-01-09",
+"grade": null,
 "id": "tl-pais-expiry",
 "label": "US 10,144,532 expires for non-payment of maintenance fees",
 "precision": "day",
 "strand": "program",
-"text": "Four years after fighting an appeal to obtain the grant, the Navy did not pay the first maintenance fee on the inertial mass reduction craft patent. USPTO records it as expired under 37 CFR 1.362, placing the invention in the public domain.",
-"tier": "1"
+"text": "Four years after fighting an appeal to obtain the grant, the Navy did not pay the first maintenance fee on the inertial mass reduction craft patent. USPTO records it as expired under 37 CFR 1.362, placing the invention in the public domain."
 }
-]
+],
+"unverified": []
 }

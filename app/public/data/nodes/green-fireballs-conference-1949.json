@@ -22,6 +22,7 @@
 ],
 "cls": "event",
 "cluster": "legacy",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -135,10 +136,7 @@
 "deg": 5,
 "denials": [],
 "desc": "The first documented scientific conference convened by the United States government on unexplained aerial objects over its own nuclear installations. Held at Los Alamos Scientific Laboratory on 16 February 1949 and attended by Laboratory Director Norris Bradbury, Edward Teller, Frederick Reines and representatives of the FBI, the Atomic Energy Commission and the US military, it addressed the green fireballs that had been appearing over Los Alamos, Sandia, Kirtland and the surrounding weapons complex since December 1948. Lincoln LaPaz of the University of New Mexico's Institute of Meteoritics had been brought in by Kirtland intelligence officers because the objects superficially resembled meteors; his assessment was that they did not behave like them. Los Alamos National Laboratory confirms the conference took place and that its National Security Research Center holds the minutes. The conclusion recorded was that the fireballs were ultimately dismissed as a national security threat - which did not stop the Air Force establishing Project Twinkle ten months later to instrument them. Newly declassified records were publicised in July 2026. The jurisdictional fact is the durable one: this was handled inside the AEC's contractor-operated laboratory complex, not by the Air Force's public UFO project at Wright-Patterson, and the record ended up in a contractor archive rather than in federal custody.",
-"domains": [
-"_rs-archive-mirror",
-"ffrdcs"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -152,7 +150,12 @@
 "label": "Los Alamos Green Fireballs Conference",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Los Alamos Green Fireballs Conference",
+"sourceFiles": [
+"_rs-archive-mirror",
+"ffrdcs"
+],
 "sources": [
 {
 "date": "2026-08-06",
@@ -177,25 +180,28 @@
 ],
 "sub": "16 February 1949, Los Alamos Scientific Laboratory, New Mexico",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 430 of 1170, score 33). 5 connections, 2 of them custody/funding/programmatic. Axes C1/A2/D2.",
+"tierRationale": "Re-graded B on a global pass (rank 429 of 1170, score 33). 5 connections, 2 of them custody/funding/programmatic. Axes C1/A2/D2.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1949-02-16",
+"grade": "A",
 "id": "tl-ffrdc-1949-lanl",
 "label": "Los Alamos green fireballs conference",
 "precision": "day",
 "strand": "program",
-"text": "Laboratory Director Norris Bradbury, Edward Teller and Frederick Reines meet at Los Alamos with FBI, AEC and military representatives on the green fireballs over the New Mexico nuclear complex. LANL still holds the minutes.",
-"tier": "A"
+"text": "Laboratory Director Norris Bradbury, Edward Teller and Frederick Reines meet at Los Alamos with FBI, AEC and military representatives on the green fireballs over the New Mexico nuclear complex. LANL still holds the minutes."
 },
 {
+"claimTier": null,
 "date": "2026-07-10",
+"grade": "B",
 "id": "tl-ffrdc-2026-fireballs-declass",
 "label": "1949 Los Alamos green fireballs records publicised",
 "precision": "day",
 "strand": "program",
-"text": "Newly declassified records on the February 1949 conference reach mainstream reporting, confirming through federal release what LANL had already published on its own site in 2024.",
-"tier": "B"
+"text": "Newly declassified records on the February 1949 conference reach mainstream reporting, confirming through federal release what LANL had already published on its own site in 2024."
 }
-]
+],
+"unverified": []
 }

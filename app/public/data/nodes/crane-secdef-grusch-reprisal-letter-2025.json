@@ -17,6 +17,7 @@
 ],
 "cls": "document",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -67,9 +68,7 @@
 "deg": 2,
 "denials": [],
 "desc": "The only congressional document that states, specifically and on a hearing record, what was done to David Grusch after he testified. Rep. Eli Crane wrote the Department of Defense on 24 July 2025 on behalf of Major David Charles Grusch. On 9 September 2025 he entered the letter into the record of the Task Force hearing and told the room what it said and what had happened to it: 'due to his participation in the disclosure of UAP, he suffered reprisal like the removal of his clearance, denial of promotion, and loss of medical retirement. I wrote the DOD on July 24, 2025, on behalf of Major Grusch, and I am still waiting for a reply.' The hearing's Index of Documents records it as 'Letter to SECDEF Regarding Major David Charles Grusch Reprisal; submitted by Rep. Crane.' Three enumerated adverse actions against the witness whose complaint the Intelligence Community Inspector General found credible and urgent, and a letter from a sitting member of the investigating committee that the Department did not answer for six weeks - that combination is why the whistleblower bills in front of the House exist and why they have not moved.",
-"domains": [
-"congress-house"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "3",
@@ -83,7 +82,11 @@
 "label": "Rep. Crane letter to the Secretary of Defense on Grusch reprisal, 24 July 2025",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Rep. Crane letter to the Secretary of Defense on Grusch reprisal, 24 July 2025",
+"sourceFiles": [
+"congress-house"
+],
 "sources": [
 {
 "date": "2025-09-09",
@@ -93,16 +96,18 @@
 ],
 "sub": "Unanswered as of 9 Sept 2025; entered into the hearing record",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 946 of 1170, score 17). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 945 of 1170, score 17). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2025-07-24",
+"grade": "A",
 "id": "ch-2025-07-24",
 "label": "Crane writes DoD on the Grusch reprisal",
 "precision": "day",
 "strand": "coverup",
-"text": "Rep. Eli Crane writes the Secretary of Defense about the removal of Grusch's clearance, denial of promotion and loss of medical retirement. The Department does not reply.",
-"tier": "A"
+"text": "Rep. Eli Crane writes the Secretary of Defense about the removal of Grusch's clearance, denial of promotion and loss of medical retirement. The Department does not reply."
 }
-]
+],
+"unverified": []
 }

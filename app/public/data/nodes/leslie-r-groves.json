@@ -102,7 +102,9 @@
 "deg": 3,
 "denials": [],
 "domains": [
-"dannyjones-2026-09-03"
+"d-nuclear",
+"d-secrecy",
+"d-custody"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -123,6 +125,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Lt. Gen. Leslie R. Groves",
+"sourceFiles": [
+"dannyjones-2026-09-03"
+],
 "sources": [
 {
 "date": "2002-01-01",
@@ -138,7 +143,7 @@
 "status": "dead",
 "sub": "First Chief, Armed Forces Special Weapons Project, 28 February 1947 to 29 February 1948",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 421 of 1170, score 33). 3 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D1.",
+"tierRationale": "Re-graded B on a global pass (rank 424 of 1170, score 33). 3 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D1.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": []

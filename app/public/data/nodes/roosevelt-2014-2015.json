@@ -22,6 +22,7 @@
 ],
 "cls": "event",
 "cluster": "witness",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -233,9 +234,7 @@
 "deg": 8,
 "denials": [],
 "desc": "A sustained series of encounters during USS Theodore Roosevelt workups off the US East Coast, reported by VFA-11 and other Carrier Air Wing One aircrew from 2014 into 2015. Ryan Graves testified that after the fleet upgraded to the APG-79 AESA radar the squadron 'began witnessing advanced UAP demonstrating complex maneuvers on a regular basis,' and on 60 Minutes described the frequency as 'Every day. Every day for at least a couple years.' The defining incident was a near-midair in Warning Area W-72 ten miles east of Virginia Beach, where a pilot saw 'a dark gray cube inside of a clear sphere - motionless against the wind, fixed directly at the entry point,' and two jets 100 feet apart took evasive action. GIMBAL and GO FAST, both January 2015, are the surviving sensor artefacts. What separates this from a series of sightings is the command reaction Tim Gallaudet described: in January 2015 the operations officer of US Fleet Forces Command emailed all subordinate commanders under the subject 'URGENT SAFETY OF FLIGHT ISSUE' reporting 'multiple near-midair collisions' and threatening to shut down the exercise - and the message was pulled from every account the next day. The squadron filed a safety report and received no acknowledgement. That is the shape of the concealment on the aviator strand: not denial of the encounters, but suppression of the safety machinery that would have forced them into the open.",
-"domains": [
-"aviators-incidents"
-],
+"domains": [],
 "dossier": {
 "claims": [
 {
@@ -304,9 +303,9 @@
 "tier": 2
 },
 {
-"source": "https://defensescoop.com/2026/06/17/new-science-advisory-council-forms-to-help-us-government-resolve-the-uap-mystery/ (17 June 2026); https://avi-loeb.medium.com/more-details-on-the-uap-science-advisory-council-825bd250d23c (16 June 2026)",
+"source": "https://defensescoop.com/2026/06/17/new-science-advisory-council-forms-to-help-us-government-resolve-the-uap-mystery/ (17 June 2026); https://avi-loeb.medium.com/more-details-on-the-uap-science-advisory-council-825bd250d23c (16 June 2026) - DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "text": "Tim Gallaudet, whose deleted-email account is the central concealment allegation in this case, was named in June 2026 to the government's UAP Science Advisory Council, a body explicitly restricted to unclassified data.",
-"tier": 1
+"tier": 2
 }
 ],
 "connections": [
@@ -406,7 +405,11 @@
 "tier": "C"
 }
 ],
+"openQuestions": [],
 "short": "USS Theodore Roosevelt Encounters",
+"sourceFiles": [
+"aviators-incidents"
+],
 "sources": [
 {
 "date": "2023-07-26",
@@ -426,16 +429,18 @@
 ],
 "sub": "Multi-aircrew UAP encounter series, Atlantic warning areas",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 493 of 1170, score 31). 8 connections, 2 of them custody/funding/programmatic. Axes C0/A1/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 495 of 1170, score 31). 8 connections, 2 of them custody/funding/programmatic. Axes C0/A1/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2014-01-01",
+"grade": "A",
 "id": "av-2014-vfa11",
 "label": "VFA-11 encounters begin",
 "precision": "year",
 "strand": "witness",
-"text": "After the fleet's APG-79 AESA radar upgrade, Ryan Graves's squadron begins witnessing UAP 'on a regular basis' off Virginia Beach during USS Theodore Roosevelt workups.",
-"tier": "A"
+"text": "After the fleet's APG-79 AESA radar upgrade, Ryan Graves's squadron begins witnessing UAP 'on a regular basis' off Virginia Beach during USS Theodore Roosevelt workups."
 }
-]
+],
+"unverified": []
 }

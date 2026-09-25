@@ -32,6 +32,7 @@
 ],
 "cls": "institution",
 "cluster": "research",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -113,10 +114,7 @@
 "deg": 3,
 "denials": [],
 "desc": "CORRECTED NODE - previously a bookkeeping stub with a null description and no sources. SOYUZUFOTSENTR is on this board because a UK Defence Intelligence Staff report classified SECRET UK EYES ONLY thought it worth naming. Project Condign Volume 3, Chapter 4 records that a 'UFO' Commission was created under the USSR Union of Scientific and Engineering Societies in 1989, and that in 1990 an Inter-Industry Ufology Research Centre - Condign transliterates it SOYUZUFOSENTR - was created to co-ordinate records; that the centre held the rights of an Institute under the USSR Academy of Sciences; and that it was headed by V. G. Azhazha, 'an eminent researcher and former naval submariner'. Condign records a ten-week school with terms of reference to study 'ufology as a science of unidentified flying objects and their interrelations with the universe and, in particular, with the biotechnosphere of the earth'; that the Institute developed light filters, instrumentation and IR and UV photography; and that claimed imagery of 'peculiar spheres, humanoid figures' was reported but, in Condign's dry formulation, 'if the imagery exists, it has never been published'. The centre sits at the hinge between the closed Soviet state effort and the open Russian ufology of the 1990s: it was founded in 1990, the year the SETKA programmes ended, and it was the first Soviet UFO organisation to operate publicly. It should NOT be confused with the KLAS-TV / George Knapp document story. Knapp's 1993 Moscow acquisition came from the Ministry of Defence via Colonel Boris Sokolov; the KGB 'Blue Folder' associated with Popovich and Azhazha is a separate collection. That distinction is why the obvious media edge from this node cannot be written.",
-"domains": [
-"_stubs",
-"w11-final-unattached"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "nd",
@@ -130,7 +128,12 @@
 "label": "SOYUZUFOTSENTR - USSR Inter-Industry Ufology Research Centre",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "SOYUZUFOTSENTR - USSR Inter-Industry Ufology Research Centre",
+"sourceFiles": [
+"_stubs",
+"w11-final-unattached"
+],
 "sources": [
 {
 "date": "2006-05-15",
@@ -151,5 +154,6 @@
 "sub": "1990 Soviet ufology centre with USSR Academy of Sciences institute rights, headed by V. G. Azhazha; named in UK Project Condign",
 "tier": "C",
 "tierRationale": "Re-graded C on a global pass (rank 890 of 1170, score 19). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.",
-"timeline": []
+"timeline": [],
+"unverified": []
 }

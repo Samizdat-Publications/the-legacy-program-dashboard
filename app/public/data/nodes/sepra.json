@@ -17,6 +17,7 @@
 ],
 "cls": "program",
 "cluster": "research",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -88,9 +89,7 @@
 "deg": 3,
 "denials": [],
 "desc": "SEPRA is the name GEPAN carried from 1988 to 2004 and the name under which the French service appears in the COMETA report. The renaming is itself informative: the office was rebadged in 1988 as the Atmospheric Re-entry Phenomena Expertise Department, a title that describes space-debris re-entry rather than UAP, and only in 2000 was the acronym redefined to Service d'Expertise des Phénomènes Rares Aérospatiaux, rare aerospace phenomena. Jean-Jacques Velasco headed it throughout. The Gendarmerie routing arrangement continued, giving SEPRA access to a national database of reports, and CNES technical resources remained available for physical-trace cases such as Trans-en-Provence in 1981. COMETA's second recommendation was directed squarely at this office: boost SEPRA's human and material resources, extend its collection to all of Europe and worldwide, maintain and develop its databases, and raise its foreign-relations status. The service was renamed GEIPAN in 2005 and Velasco was succeeded by Jacques Patenet.",
-"domains": [
-"w2-international"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "1",
@@ -104,7 +103,11 @@
 "label": "SEPRA - Service d'Expertise des Phénomènes de Rentrée Atmosphérique / Phénomènes Rares Aérospatiaux",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "SEPRA - Service d'Expertise des Phénomènes de Rentrée Atmosphérique / Phénomènes Rares Aérospatiaux",
+"sourceFiles": [
+"w2-international"
+],
 "sources": [
 {
 "date": "2026-01-01",
@@ -119,6 +122,7 @@
 ],
 "sub": "CNES successor to GEPAN, 1988-2004",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 927 of 1170, score 18). 3 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D2.",
-"timeline": []
+"tierRationale": "Re-graded C on a global pass (rank 926 of 1170, score 18). 3 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D2.",
+"timeline": [],
+"unverified": []
 }

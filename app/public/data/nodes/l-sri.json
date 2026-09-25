@@ -22,6 +22,7 @@
 ],
 "cls": "location",
 "cluster": "research",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -54,9 +55,7 @@
 "deg": 1,
 "denials": [],
 "desc": "SRI International was founded in 1946 by Stanford University trustees at Menlo Park, California, formally separated from the university in 1970 amid Vietnam-era protest over its defence contracting, and adopted its present name in 1977. Its place on this board is precise and documented: in 1972 physicists Harold E. Puthoff and Russell Targ began CIA-sponsored investigation of psychic phenomena at SRI's Artificial Intelligence Center, coined the term 'remote viewing', and worked with Ingo Swann, Pat Price, Joseph McMoneagle and Uri Geller. That work, funded successively by CIA, the Army and DIA and running under the cryptonyms SCANATE, GONDOLA WISH, GRILL FLAME, CENTER LANE, SUN STREAK and finally STAR GATE, continued with intelligence community funding until Puthoff and Targ left SRI in the mid-1980s. SRI therefore has the distinction of being the contractor node where the United States government spent two decades and roughly twenty million dollars funding research into a phenomenon it publicly maintained did not exist - which is the single cleanest precedent in the record for the proposition that the government funds anomalous-phenomena research through contractors while denying interest in public. Puthoff's later career is the direct bridge: from SRI to EarthTech International and the Institute for Advanced Studies at Austin, to the Defense Intelligence Reference Documents produced under AAWSAP, to co-founding To The Stars Academy in 2017. The line from Menlo Park in 1972 to the Army CRADA at Detroit Arsenal in 2019 runs through one man's contract history.",
-"domains": [
-"w2-places-events"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -70,7 +69,11 @@
 "label": "SRI International, Menlo Park, California",
 "locLabel": "Menlo Park, California, USA",
 "members": null,
+"openQuestions": [],
 "short": "SRI International, Menlo Park, California",
+"sourceFiles": [
+"w2-places-events"
+],
 "sources": [
 {
 "date": "2026-08-12",
@@ -91,5 +94,6 @@
 "sub": "Independent research institute, 333 Ravenswood Ave, Menlo Park; founded 1946; separated from Stanford 1970",
 "tier": "C",
 "tierRationale": "Re-graded C on a global pass (rank 763 of 1170, score 23). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D2.",
-"timeline": []
+"timeline": [],
+"unverified": []
 }

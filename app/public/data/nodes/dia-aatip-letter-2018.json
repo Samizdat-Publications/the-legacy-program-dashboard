@@ -27,6 +27,7 @@
 ],
 "cls": "document",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -58,7 +59,7 @@
 "edgeLabel": "receipt for the authorization gap",
 "id": "defense-appropriations-aawsap",
 "l0": false,
-"label": "Defense Appropriations Acts FY2008 and FY2010 — the $22M AAWSAP appropriation",
+"label": "Defense Appropriations Acts FY2008 and FY2010 - the $22M AAWSAP appropriation",
 "note": "That DIA had to introduce the program to SASC by letter in 2018 establishes the committee had no visibility during its life — the direct consequence of funding it through the classified appropriation.",
 "sources": [
 {
@@ -68,7 +69,7 @@
 }
 ],
 "tier": "B",
-"type": "programmatic"
+"type": "legislative"
 },
 {
 "claimTier": 1,
@@ -98,9 +99,7 @@
 "deg": 3,
 "denials": [],
 "desc": "The receipt for the oversight gap. Three weeks after the New York Times revealed the program's existence, DIA wrote to Senate Armed Services Committee chairman John McCain and ranking member Jack Reed, over the signature of Brian L. Jenkins, Chief of Records Management and Information Services, enclosing a list of all 38 products produced under the program and stating that 'the purpose of AATIP was to investigate foreign advanced aerospace weapon threats from the present out to the next 40 years.' The letter is the origin of everything the public knows about the deliverable set: every subsequent FOIA request for the individual DIRDs was built from this list. It is also the demonstration that the authorizing committee of jurisdiction had no prior visibility on a program appropriated in FY2008 and FY2010, executed 2008-2012, and terminated years before — because the money went through the appropriations black budget rather than an authorization line. Nick Pope obtained and published the letter from the DIA Office of Corporate Communications in 2019.",
-"domains": [
-"aawsap-aatip"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "3",
@@ -114,7 +113,11 @@
 "label": "DIA Letter to the Senate Armed Services Committee Listing AATIP Products",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "DIA Letter to the Senate Armed Services Committee Listing AATIP Products",
+"sourceFiles": [
+"aawsap-aatip"
+],
 "sources": [
 {
 "date": "2018-01-09",
@@ -134,16 +137,18 @@
 ],
 "sub": "Brian L. Jenkins to Sens. McCain and Reed, 9 January 2018",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 596 of 1170, score 28). 3 connections, 1 of them custody/funding/programmatic. Axes C0/A2/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 683 of 1170, score 25). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2018-01-09",
+"grade": "A",
 "id": "tl-2018-sasc",
 "label": "DIA sends SASC the list of 38 products",
 "precision": "day",
 "strand": "oversight",
-"text": "Brian L. Jenkins, DIA Chief of Records Management, writes to Senators McCain and Reed enclosing all 38 product titles — the authorizing committee's first formal notification about a ten-year program.",
-"tier": "A"
+"text": "Brian L. Jenkins, DIA Chief of Records Management, writes to Senators McCain and Reed enclosing all 38 product titles — the authorizing committee's first formal notification about a ten-year program."
 }
-]
+],
+"unverified": []
 }

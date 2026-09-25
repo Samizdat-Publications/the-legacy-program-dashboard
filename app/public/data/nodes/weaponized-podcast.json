@@ -12,6 +12,7 @@
 ],
 "cls": "program",
 "cluster": "media",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -41,9 +42,7 @@
 "deg": 1,
 "denials": [],
 "desc": "Weaponized is the podcast George Knapp and Jeremy Corbell co-host, and it functions as the movement's primary leak-reception channel. Its significance is the pairing: Knapp brings four decades of Las Vegas investigative sourcing running back through NIDS, Bigelow and the Reid connection, while Corbell brings the pipeline through which serving and former military personnel have released imagery. Material that surfaces on Weaponized has repeatedly preceded official acknowledgement of provenance, which makes the programme a dateable marker for when specific items entered the public record. Its editorial posture is advocacy rather than adjudication, and it should be used as a chronological source rather than an analytic one.",
-"domains": [
-"media-structure"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "3",
@@ -57,7 +56,11 @@
 "label": "Weaponized (Knapp & Corbell)",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Weaponized (Knapp & Corbell)",
+"sourceFiles": [
+"media-structure"
+],
 "sources": [
 {
 "date": "2026-08-12",
@@ -68,5 +71,6 @@
 "sub": "Investigative podcast",
 "tier": "C",
 "tierRationale": "Re-graded C on a global pass (rank 1132 of 1170, score 10). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.",
-"timeline": []
+"timeline": [],
+"unverified": []
 }

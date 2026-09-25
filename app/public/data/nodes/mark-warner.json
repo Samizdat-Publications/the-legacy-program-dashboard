@@ -60,7 +60,7 @@
 "edgeLabel": "Author of the IAA FY2024 contractor turn-in",
 "id": "iaa-fy2024-sec-1102",
 "l0": true,
-"label": "IAA FY2024 Sec. 1102 — contractor turn-in of 'non-earth origin or exotic' UAP material",
+"label": "IAA FY2024 Sec. 1102 - contractor turn-in of 'non-earth origin or exotic' UAP material",
 "note": "Warner submitted S.Amdt. 666 on 13 July 2023, which became Division M of the engrossed bill containing Sec. 1102.",
 "sources": [
 {
@@ -100,7 +100,9 @@
 "deg": 2,
 "denials": [],
 "domains": [
-"congress-senate-legislation"
+"d-legislative",
+"d-oversight",
+"d-records"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -121,6 +123,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Mark R. Warner",
+"sourceFiles": [
+"congress-senate-legislation"
+],
 "sources": [
 {
 "date": "2023-07-27",
@@ -136,7 +141,7 @@
 "status": "active",
 "sub": "D-VA; SSCI Chairman 2021-2025; author of the IAA contractor turn-in",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 620 of 1170, score 27). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A3/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 617 of 1170, score 27). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A3/D2.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": []

@@ -22,6 +22,7 @@
 ],
 "cls": "document",
 "cluster": "ic",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -77,10 +78,7 @@
 "deg": 2,
 "denials": [],
 "desc": "A dedicated AARO release, hosted on its UAP Records page, on KONA BLUE - the prospective special access programme proposed to the Department of Homeland Security and never approved, whose lines of effort mirrored AAWSAP and AATIP and which contemplated the handling of 'non-human biologics.' Volume I had already disclosed KONA BLUE in narrative form and concluded that no extraterrestrial craft or bodies were ever collected and that the material 'was only assumed to exist by KONA BLUE advocates.' The dedicated release is worth recording as a release-behaviour datum rather than a revelation: it shows the office will assemble and publish a documentary package quickly when the package supports the conclusion that a programme was proposed and rejected. No comparable documentary package has been published for any programme AARO concedes did exist - including the intelligence community controlled access programme Volume I says was expanded in 2021 to include a UAP reverse-engineering mission and later disestablished.",
-"domains": [
-"_rs-archive-mirror",
-"releases-2023-2026"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "3",
@@ -94,7 +92,12 @@
 "label": "AARO/DHS release: History and Origin of KONA BLUE",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "AARO/DHS release: History and Origin of KONA BLUE",
+"sourceFiles": [
+"_rs-archive-mirror",
+"releases-2023-2026"
+],
 "sources": [
 {
 "date": "2026-05-08",
@@ -129,6 +132,7 @@
 ],
 "sub": "AARO UAP Records research release on the never-approved DHS SAP",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 557 of 1170, score 29). 2 connections, 1 of them custody/funding/programmatic. Axes C1/A3/D2.",
-"timeline": []
+"tierRationale": "Re-graded B on a global pass (rank 555 of 1170, score 29). 2 connections, 1 of them custody/funding/programmatic. Axes C1/A3/D2.",
+"timeline": [],
+"unverified": []
 }

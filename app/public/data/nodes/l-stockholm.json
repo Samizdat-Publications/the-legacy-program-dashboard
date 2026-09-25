@@ -17,6 +17,7 @@
 ],
 "cls": "location",
 "cluster": "research",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -49,10 +50,7 @@
 "deg": 1,
 "denials": [],
 "desc": "Stockholm is the base of astronomer Beatriz Villarroel, whose VASCO project compares pre-Sputnik photographic sky survey plates against modern surveys to identify transient sources that appeared and vanished before any human object could have been in orbit. That work produced one of the most significant peer-reviewed results in this field's recent history - the October 2025 Scientific Reports paper with Stephen Bruehl finding that transients in the Palomar Observatory Sky Survey may be associated with nuclear testing and with reports of unidentified anomalous phenomena. The city is scored for disclosure role because this is evidence generated outside any government's control.",
-"domains": [
-"_stubs",
-"w2-taxonomy"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "nd",
@@ -66,7 +64,12 @@
 "label": "Stockholm, Sweden",
 "locLabel": "Stockholm, Sweden",
 "members": null,
+"openQuestions": [],
 "short": "Stockholm, Sweden",
+"sourceFiles": [
+"_stubs",
+"w2-taxonomy"
+],
 "sources": [
 {
 "date": "2026-08-12",
@@ -82,5 +85,6 @@
 "sub": "Capital of Sweden; base of the VASCO sky-survey transient research",
 "tier": "C",
 "tierRationale": "Re-graded C on a global pass (rank 1109 of 1170, score 11). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.",
-"timeline": []
+"timeline": [],
+"unverified": []
 }

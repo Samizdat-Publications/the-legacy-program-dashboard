@@ -177,6 +177,14 @@
 "deg": 5,
 "denials": [
 {
+"a": {
+"id": "kevin-randle",
+"label": "Kevin D. Randle"
+},
+"b": {
+"id": "clifford-stone",
+"label": "Clifford E. Stone"
+},
 "by": {
 "id": "kevin-randle",
 "label": "Kevin D. Randle"
@@ -198,6 +206,14 @@
 ]
 },
 {
+"a": {
+"id": "philip-j-klass",
+"label": "Philip J. Klass"
+},
+"b": {
+"id": "clifford-stone",
+"label": "Clifford E. Stone"
+},
 "by": {
 "id": "philip-j-klass",
 "label": "Philip J. Klass"
@@ -219,9 +235,7 @@
 ]
 }
 ],
-"domains": [
-"disclosure-project-2026-09-19"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "3",
@@ -241,6 +255,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Clifford E. Stone",
+"sourceFiles": [
+"disclosure-project-2026-09-19"
+],
 "sources": [
 {
 "date": "2001-04",
@@ -261,43 +278,47 @@
 "status": "dead",
 "sub": "US Army sergeant, 1968 to 1990, whose documented assignments were clerical and administrative; claimant from the 1990s of service on Army crash-retrieval teams recovering craft and occupants",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 350 of 1170, score 36). 5 connections, 0 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C0/A0/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 349 of 1170, score 36). 5 connections, 0 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C0/A0/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1968-07-08",
+"grade": "B",
 "id": "tl-1968-07-08-stone-enters-army",
 "label": "Clifford Stone enters the US Army",
 "precision": "day",
 "strand": "witness",
-"text": "Per the service record Philip J. Klass obtained from the National Personnel Records Center in St. Louis and printed in 2001: Stone entered the Army on 8 July 1968 and after several months of basic training 'he was trained to be a clerk/typist'. The assignment history that follows is clerical and administrative throughout.",
-"tier": "B"
+"text": "Per the service record Philip J. Klass obtained from the National Personnel Records Center in St. Louis and printed in 2001: Stone entered the Army on 8 July 1968 and after several months of basic training 'he was trained to be a clerk/typist'. The assignment history that follows is clerical and administrative throughout."
 },
 {
+"claimTier": null,
 "date": "1983-12-23",
+"grade": "B",
 "id": "tl-1983-12-23-stone-foia-bentwaters",
 "label": "Stone files a FOIA request about Bentwaters, from his home address",
 "precision": "day",
 "strand": "coverup",
-"text": "Klass records that on 23 December 1983 Clifford Stone filed a Freedom of Information Act request with the USAF for information on the Bentwaters incident, 'used his home address and did not show that he was an Army sergeant'. Stone had told the Disclosure Project that an Army team took him there officially in late December 1980. THIS IS AN AFFIRMATIVE ACT INCONSISTENT WITH HIS OWN ACCOUNT, NOT AN ABSENCE OF EVIDENCE.",
-"tier": "B"
+"text": "Klass records that on 23 December 1983 Clifford Stone filed a Freedom of Information Act request with the USAF for information on the Bentwaters incident, 'used his home address and did not show that he was an Army sergeant'. Stone had told the Disclosure Project that an Army team took him there officially in late December 1980. THIS IS AN AFFIRMATIVE ACT INCONSISTENT WITH HIS OWN ACCOUNT, NOT AN ABSENCE OF EVIDENCE."
 },
 {
+"claimTier": null,
 "date": "2000-09",
+"grade": "B",
 "id": "tl-2000-09-stone-testimony",
 "label": "Clifford Stone's testimony recorded for the Disclosure Project",
 "precision": "month",
 "strand": "witness",
-"text": "Printed at section 3.8.4 under 'Testimony of Sergeant Clifford Stone, United States Army / September 2000'. The editorial header: 'Stone has seen living and dead extraterrestrials in his official duties on an army team that retrieved crashed ET crafts.'",
-"tier": "B"
+"text": "Printed at section 3.8.4 under 'Testimony of Sergeant Clifford Stone, United States Army / September 2000'. The editorial header: 'Stone has seen living and dead extraterrestrials in his official duties on an army team that retrieved crashed ET crafts.'"
 },
 {
+"claimTier": null,
 "date": "2021-02-10",
+"grade": "C",
 "id": "tl-2021-02-10-stone-dies",
 "label": "Clifford Stone dies at Roswell",
 "precision": "day",
 "strand": "witness",
-"text": "Kevin Randle: 'Clifford E. Stone, known for his relentless pursuit of UFO documentation through his use of FOIA died on February 10, in Roswell, New Mexico.' Randle sets out in the same post the discrepancies between Stone's account and his service record.",
-"tier": "C"
+"text": "Kevin Randle: 'Clifford E. Stone, known for his relentless pursuit of UFO documentation through his use of FOIA died on February 10, in Roswell, New Mexico.' Randle sets out in the same post the discrepancies between Stone's account and his service record."
 }
 ],
 "unexplainedResidual": null,

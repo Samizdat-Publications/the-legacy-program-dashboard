@@ -32,6 +32,7 @@
 ],
 "cls": "institution",
 "cluster": "ffrdc",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -124,9 +125,7 @@
 "deg": 4,
 "denials": [],
 "desc": "IDA was created in the 1950s to give the Secretary of Defense and the Joint Chiefs an analytical capability that was neither in uniform nor in industry, and it remains the most quietly consequential of the analytical FFRDCs. It operates three centres: the Systems and Analyses Center for the Under Secretary of Defense for Acquisition and Sustainment, renamed on 11 June 2013; the Center for Communications and Computing for the National Security Agency and Central Security Service - the only FFRDC in the country whose sponsor is NSA; and the Science and Technology Policy Institute for the National Science Foundation, which advises the White House Office of Science and Technology Policy. From 1960 to 1973 IDA administered JASON before that contract moved to SRI and eventually to MITRE. Its president is Adm. Charles A. Richard, USN (Ret.), commander of US Strategic Command from 2019 to 2022, and its leadership includes former NSA Technical Director Christopher Green and former National Intelligence Manager for Aviation Maj. Gen. James Marrs. IDA's awards are consistently recorded on USAspending as sole-source: one 2016 award notes explicitly 'award of a contract on a sole source basis to the Institute for Defense Analyses (IDA), a federally funded research and development center'. IDA is named in reporting on the congressional UAP contractor inquiry. Its NSA-sponsored centre is the least visible FFRDC in the United States, and the one whose holdings would be hardest for any committee to reach.",
-"domains": [
-"ffrdcs"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -140,7 +139,11 @@
 "label": "Institute for Defense Analyses",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Institute for Defense Analyses",
+"sourceFiles": [
+"ffrdcs"
+],
 "sources": [
 {
 "date": "2026-08-12",
@@ -166,5 +169,6 @@
 "sub": "Nonprofit operator of three FFRDCs: Systems and Analyses Center (USD A&S), Center for Communications and Computing (NSA/CSS), Science and Technology Policy Institute (NSF); Alexandria, VA",
 "tier": "B",
 "tierRationale": "Re-graded B on a global pass (rank 466 of 1170, score 32). 4 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D1.",
-"timeline": []
+"timeline": [],
+"unverified": []
 }

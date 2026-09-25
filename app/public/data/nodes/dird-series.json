@@ -72,6 +72,7 @@
 ],
 "cls": "document",
 "cluster": "other",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -86,14 +87,14 @@
 "note": "The DIRDs are the contract's deliverables. DIA Talking Paper U-973-09 records that the RFP broke the work into twelve technical areas - lift, propulsion, control, armament, signature reduction and the rest - and the Defense Intelligence Reference Documents are the products those areas were delivered as. Every one of the 32 series-member edges was verified against the released PDF's cover page on 22 August 2026.",
 "sources": [
 {
+"date": null,
+"name": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237626/",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237626/"
+},
+{
 "date": "2008-08-18",
 "name": "FedBizOpps notice: ADVANCED AEROSPACE WEAPON SYSTEM APPLICATIONS PROGRAM, Solicitation HHM40208R0211 (DIA FOIA release)",
 "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237630/"
-},
-{
-"date": "2010",
-"name": "DIA Info Memo U-10-2552 to USD(AT&L), 'Advanced Aerospace Threat and Identification Program' (DIA FOIA release)",
-"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237626/"
 }
 ],
 "tier": "A",
@@ -172,6 +173,27 @@
 "id": "dird-advanced-nuclear-propulsion-for-manned-deep",
 "l0": false,
 "label": "Advanced Nuclear Propulsion for Manned Deep Space Missions",
+"note": "",
+"sources": [
+{
+"date": null,
+"name": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237657/",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237657/"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "series member",
+"id": "dird-advanced-nuclear-propulsion-for-manned-deep",
+"l0": false,
+"label": "Advanced Nuclear Propulsion for Manned Deep Space Missions",
 "note": "Membership of the DIRD series is established by the released document itself: its cover page carries the Defense Intelligence Reference Document mark and the DIA Defense Futures banner. Publication date 11 March 2010 on the cover. 38 pages in the released copy. The cover of the scanned release is degraded, so a document number or date is asserted here only where it reads unambiguously.",
 "sources": [
 {
@@ -195,6 +217,27 @@
 "dateStart": null,
 "direction": "out",
 "edgeLabel": "DIRD",
+"id": "dird-advanced-space-propulsion-based-on-vacuum",
+"l0": false,
+"label": "Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering",
+"note": "",
+"sources": [
+{
+"date": null,
+"name": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237647/",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237647/"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "series member",
 "id": "dird-advanced-space-propulsion-based-on-vacuum",
 "l0": false,
 "label": "Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering",
@@ -224,6 +267,27 @@
 "id": "dird-aerospace-applications-of-programmable-matter",
 "l0": false,
 "label": "Aerospace Applications of Programmable Matter",
+"note": "",
+"sources": [
+{
+"date": null,
+"name": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237656/",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237656/"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "series member",
+"id": "dird-aerospace-applications-of-programmable-matter",
+"l0": false,
+"label": "Aerospace Applications of Programmable Matter",
 "note": "Membership of the DIRD series is established by the released document itself: its cover page carries the Defense Intelligence Reference Document mark and the DIA Defense Futures banner. Document number DIA-08-0911-016. Publication date 14 December 2009 on the cover. 21 pages in the released copy. The cover of the scanned release is degraded, so a document number or date is asserted here only where it reads unambiguously.",
 "sources": [
 {
@@ -247,6 +311,27 @@
 "dateStart": null,
 "direction": "out",
 "edgeLabel": "DIRD",
+"id": "dird-an-introduction-to-the-statistical-drake",
+"l0": false,
+"label": "An Introduction to the Statistical Drake Equation",
+"note": "",
+"sources": [
+{
+"date": null,
+"name": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237662/",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237662/"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "series member",
 "id": "dird-an-introduction-to-the-statistical-drake",
 "l0": false,
 "label": "An Introduction to the Statistical Drake Equation",
@@ -276,6 +361,27 @@
 "id": "dird-aneutronic-fusion-propulsion",
 "l0": false,
 "label": "Aneutronic Fusion Propulsion (DIA-08-1011-003)",
+"note": "",
+"sources": [
+{
+"date": null,
+"name": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237658/",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237658/"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "series member",
+"id": "dird-aneutronic-fusion-propulsion",
+"l0": false,
+"label": "Aneutronic Fusion Propulsion (DIA-08-1011-003)",
 "note": "Membership of the DIRD series is established by the released document itself: its cover page carries the Defense Intelligence Reference Document mark and the DIA Defense Futures banner. Document number DIA-08-1011-003. Publication date 01 November 2010 on the cover. 50 pages in the released copy. The cover of the scanned release is degraded, so a document number or date is asserted here only where it reads unambiguously.",
 "sources": [
 {
@@ -299,6 +405,27 @@
 "dateStart": null,
 "direction": "out",
 "edgeLabel": "DIRD",
+"id": "dird-aneutronic-fusion-propulsion-2",
+"l0": false,
+"label": "Aneutronic Fusion Propulsion (DIA-08-1011-004)",
+"note": "",
+"sources": [
+{
+"date": null,
+"name": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237644/",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237644/"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "series member",
 "id": "dird-aneutronic-fusion-propulsion-2",
 "l0": false,
 "label": "Aneutronic Fusion Propulsion (DIA-08-1011-004)",
@@ -328,6 +455,27 @@
 "id": "dird-anomalous-acute-and-subacute-field-effects",
 "l0": false,
 "label": "Anomalous Acute and Subacute Field Effects on Human Biological Tissues",
+"note": "",
+"sources": [
+{
+"date": null,
+"name": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237654/",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237654/"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "series member",
+"id": "dird-anomalous-acute-and-subacute-field-effects",
+"l0": false,
+"label": "Anomalous Acute and Subacute Field Effects on Human Biological Tissues",
 "note": "Membership of the DIRD series is established by the released document itself: its cover page carries the Defense Intelligence Reference Document mark and the DIA Defense Futures banner. Publication date 11 March 2010 on the cover. 39 pages in the released copy. The cover of the scanned release is degraded, so a document number or date is asserted here only where it reads unambiguously.",
 "sources": [
 {
@@ -351,6 +499,27 @@
 "dateStart": null,
 "direction": "out",
 "edgeLabel": "DIRD",
+"id": "dird-antigravity-for-aerospace-applications",
+"l0": true,
+"label": "Antigravity for Aerospace Applications",
+"note": "",
+"sources": [
+{
+"date": null,
+"name": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237651/",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237651/"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "series member",
 "id": "dird-antigravity-for-aerospace-applications",
 "l0": true,
 "label": "Antigravity for Aerospace Applications",
@@ -380,6 +549,27 @@
 "id": "dird-biosensors-and-biomems-a-survey-of",
 "l0": false,
 "label": "Biosensors and BioMEMS: A Survey of the Present Field",
+"note": "",
+"sources": [
+{
+"date": null,
+"name": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237638/",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237638/"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "series member",
+"id": "dird-biosensors-and-biomems-a-survey-of",
+"l0": false,
+"label": "Biosensors and BioMEMS: A Survey of the Present Field",
 "note": "Membership of the DIRD series is established by the released document itself: its cover page carries the Defense Intelligence Reference Document mark and the DIA Defense Futures banner. Document number DIA-08-1003-020. Publication date 31 March 2010 on the cover. 46 pages in the released copy. The cover of the scanned release is degraded, so a document number or date is asserted here only where it reads unambiguously.",
 "sources": [
 {
@@ -403,6 +593,27 @@
 "dateStart": null,
 "direction": "out",
 "edgeLabel": "DIRD",
+"id": "dird-cockpits-in-the-era-of-breakthrough",
+"l0": false,
+"label": "Cockpits in the Era of Breakthrough Flight",
+"note": "",
+"sources": [
+{
+"date": null,
+"name": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237653/",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237653/"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "series member",
 "id": "dird-cockpits-in-the-era-of-breakthrough",
 "l0": false,
 "label": "Cockpits in the Era of Breakthrough Flight",
@@ -432,6 +643,27 @@
 "id": "dird-cognitive-limits-on-simultaneous-control-of",
 "l0": false,
 "label": "Cognitive Limits on Simultaneous Control of Multiple Unmanned Spacecraft",
+"note": "",
+"sources": [
+{
+"date": null,
+"name": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237649/",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237649/"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "series member",
+"id": "dird-cognitive-limits-on-simultaneous-control-of",
+"l0": false,
+"label": "Cognitive Limits on Simultaneous Control of Multiple Unmanned Spacecraft",
 "note": "Membership of the DIRD series is established by the released document itself: its cover page carries the Defense Intelligence Reference Document mark and the DIA Defense Futures banner. Publication date 15 December 2010 on the cover. 31 pages in the released copy. The cover of the scanned release is degraded, so a document number or date is asserted here only where it reads unambiguously.",
 "sources": [
 {
@@ -455,6 +687,27 @@
 "dateStart": null,
 "direction": "out",
 "edgeLabel": "DIRD",
+"id": "dird-concepts-for-extracting-energy-from-the",
+"l0": false,
+"label": "Concepts for Extracting Energy From the Quantum Vacuum",
+"note": "",
+"sources": [
+{
+"date": null,
+"name": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237645/",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237645/"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "series member",
 "id": "dird-concepts-for-extracting-energy-from-the",
 "l0": false,
 "label": "Concepts for Extracting Energy From the Quantum Vacuum",
@@ -484,6 +737,27 @@
 "id": "dird-detection-and-high-resolution-tracking-of",
 "l0": false,
 "label": "Detection and High Resolution Tracking of Vehicles at Hypersonic Velocities",
+"note": "",
+"sources": [
+{
+"date": null,
+"name": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237635/",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237635/"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "series member",
+"id": "dird-detection-and-high-resolution-tracking-of",
+"l0": false,
+"label": "Detection and High Resolution Tracking of Vehicles at Hypersonic Velocities",
 "note": "Membership of the DIRD series is established by the released document itself: its cover page carries the Defense Intelligence Reference Document mark and the DIA Defense Futures banner. Document number DIA-08-1012-001. Publication date 20 November 2010 on the cover. 47 pages in the released copy. The cover of the scanned release is degraded, so a document number or date is asserted here only where it reads unambiguously.",
 "sources": [
 {
@@ -507,6 +781,27 @@
 "dateStart": null,
 "direction": "out",
 "edgeLabel": "DIRD",
+"id": "dird-high-frequency-gravitational-wave-communications",
+"l0": false,
+"label": "High-Frequency Gravitational Wave Communications",
+"note": "",
+"sources": [
+{
+"date": null,
+"name": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237646/",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237646/"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "series member",
 "id": "dird-high-frequency-gravitational-wave-communications",
 "l0": false,
 "label": "High-Frequency Gravitational Wave Communications",
@@ -536,6 +831,27 @@
 "id": "dird-inertial-electrostatic-confinement-fusion",
 "l0": false,
 "label": "Inertial Electrostatic Confinement Fusion",
+"note": "",
+"sources": [
+{
+"date": null,
+"name": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237663/",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237663/"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "series member",
+"id": "dird-inertial-electrostatic-confinement-fusion",
+"l0": false,
+"label": "Inertial Electrostatic Confinement Fusion",
 "note": "Membership of the DIRD series is established by the released document itself: its cover page carries the Defense Intelligence Reference Document mark and the DIA Defense Futures banner. Publication date 10 March 2010 on the cover. 73 pages in the released copy. The cover of the scanned release is degraded, so a document number or date is asserted here only where it reads unambiguously.",
 "sources": [
 {
@@ -559,6 +875,27 @@
 "dateStart": null,
 "direction": "out",
 "edgeLabel": "DIRD",
+"id": "dird-invisibility-cloaking-theory-and-experiments",
+"l0": false,
+"label": "Invisibility Cloaking: Theory and Experiments",
+"note": "",
+"sources": [
+{
+"date": null,
+"name": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237639/",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237639/"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "series member",
 "id": "dird-invisibility-cloaking-theory-and-experiments",
 "l0": false,
 "label": "Invisibility Cloaking: Theory and Experiments",
@@ -588,6 +925,27 @@
 "id": "dird-laser-lightcraft-nanosatellites",
 "l0": false,
 "label": "Laser Lightcraft Nanosatellites",
+"note": "",
+"sources": [
+{
+"date": null,
+"name": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237641/",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237641/"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "series member",
+"id": "dird-laser-lightcraft-nanosatellites",
+"l0": false,
+"label": "Laser Lightcraft Nanosatellites",
 "note": "Membership of the DIRD series is established by the released document itself: its cover page carries the Defense Intelligence Reference Document mark and the DIA Defense Futures banner. Document number DIA-08-1011-001. Publication date 01 November 2010 on the cover. 78 pages in the released copy. The cover of the scanned release is degraded, so a document number or date is asserted here only where it reads unambiguously.",
 "sources": [
 {
@@ -611,6 +969,27 @@
 "dateStart": null,
 "direction": "out",
 "edgeLabel": "DIRD",
+"id": "dird-maverick-inventor-versus-corporate-inventor-where",
+"l0": false,
+"label": "Maverick Inventor Versus Corporate Inventor: Where Will the Next Major Innovations Arise?",
+"note": "",
+"sources": [
+{
+"date": null,
+"name": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237624/",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237624/"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "series member",
 "id": "dird-maverick-inventor-versus-corporate-inventor-where",
 "l0": false,
 "label": "Maverick Inventor Versus Corporate Inventor: Where Will the Next Major Innovations Arise?",
@@ -640,6 +1019,27 @@
 "id": "dird-mhd-air-breathing-propulsion-and-power",
 "l0": true,
 "label": "MHD Air Breathing Propulsion and Power for Aerospace Applications",
+"note": "",
+"sources": [
+{
+"date": null,
+"name": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237629/",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237629/"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "series member",
+"id": "dird-mhd-air-breathing-propulsion-and-power",
+"l0": true,
+"label": "MHD Air Breathing Propulsion and Power for Aerospace Applications",
 "note": "Membership of the DIRD series is established by the released document itself: its cover page carries the Defense Intelligence Reference Document mark and the DIA Defense Futures banner. Publication date 21 November 2010 on the cover. 33 pages in the released copy. The cover of the scanned release is degraded, so a document number or date is asserted here only where it reads unambiguously.",
 "sources": [
 {
@@ -663,6 +1063,27 @@
 "dateStart": null,
 "direction": "out",
 "edgeLabel": "DIRD",
+"id": "dird-negative-mass-propulsion",
+"l0": false,
+"label": "Negative Mass Propulsion",
+"note": "",
+"sources": [
+{
+"date": null,
+"name": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237637/",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237637/"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "series member",
 "id": "dird-negative-mass-propulsion",
 "l0": false,
 "label": "Negative Mass Propulsion",
@@ -692,6 +1113,27 @@
 "id": "dird-positron-aerospace-propulsion",
 "l0": false,
 "label": "Positron Aerospace Propulsion",
+"note": "",
+"sources": [
+{
+"date": null,
+"name": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237633/",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237633/"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "series member",
+"id": "dird-positron-aerospace-propulsion",
+"l0": false,
+"label": "Positron Aerospace Propulsion",
 "note": "Membership of the DIRD series is established by the released document itself: its cover page carries the Defense Intelligence Reference Document mark and the DIA Defense Futures banner. Publication date 2 March 2010 on the cover. 36 pages in the released copy. The cover of the scanned release is degraded, so a document number or date is asserted here only where it reads unambiguously.",
 "sources": [
 {
@@ -715,6 +1157,27 @@
 "dateStart": null,
 "direction": "out",
 "edgeLabel": "DIRD",
+"id": "dird-pulsed-high-power-microwave-source-technology",
+"l0": false,
+"label": "Pulsed High-Power Microwave Source Technology",
+"note": "",
+"sources": [
+{
+"date": null,
+"name": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237619/",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237619/"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "series member",
 "id": "dird-pulsed-high-power-microwave-source-technology",
 "l0": false,
 "label": "Pulsed High-Power Microwave Source Technology",
@@ -744,6 +1207,27 @@
 "id": "dird-quantum-computing-and-utilizing-organic-molecules",
 "l0": false,
 "label": "Quantum Computing and Utilizing Organic Molecules in Automation Technology",
+"note": "",
+"sources": [
+{
+"date": null,
+"name": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237618/",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237618/"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "series member",
+"id": "dird-quantum-computing-and-utilizing-organic-molecules",
+"l0": false,
+"label": "Quantum Computing and Utilizing Organic Molecules in Automation Technology",
 "note": "Membership of the DIRD series is established by the released document itself: its cover page carries the Defense Intelligence Reference Document mark and the DIA Defense Futures banner. Publication date 10 December 2010 on the cover. 55 pages in the released copy. The cover of the scanned release is degraded, so a document number or date is asserted here only where it reads unambiguously.",
 "sources": [
 {
@@ -757,7 +1241,7 @@
 "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237618/"
 }
 ],
-"tier": "C",
+"tier": "B",
 "type": "programmatic"
 },
 {
@@ -767,6 +1251,27 @@
 "dateStart": null,
 "direction": "out",
 "edgeLabel": "DIRD",
+"id": "dird-quantum-tomography-of-negative-energy-states",
+"l0": false,
+"label": "Quantum Tomography of Negative Energy States in the Vacuum",
+"note": "",
+"sources": [
+{
+"date": null,
+"name": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237632/",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237632/"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "series member",
 "id": "dird-quantum-tomography-of-negative-energy-states",
 "l0": false,
 "label": "Quantum Tomography of Negative Energy States in the Vacuum",
@@ -783,7 +1288,7 @@
 "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237632/"
 }
 ],
-"tier": "C",
+"tier": "B",
 "type": "programmatic"
 },
 {
@@ -793,6 +1298,27 @@
 "dateStart": null,
 "direction": "out",
 "edgeLabel": "DIRD",
+"id": "dird-space-access-where-we-ve-been",
+"l0": false,
+"label": "Space Access: Where We've Been and Where We Could Go",
+"note": "",
+"sources": [
+{
+"date": null,
+"name": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237648/",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237648/"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "series member",
 "id": "dird-space-access-where-we-ve-been",
 "l0": false,
 "label": "Space Access: Where We've Been and Where We Could Go",
@@ -822,6 +1348,27 @@
 "id": "dird-state-of-the-art-and-evolution",
 "l0": false,
 "label": "State of the Art and Evolution of High-Energy Laser Weapons",
+"note": "",
+"sources": [
+{
+"date": null,
+"name": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237622/",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237622/"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "series member",
+"id": "dird-state-of-the-art-and-evolution",
+"l0": false,
+"label": "State of the Art and Evolution of High-Energy Laser Weapons",
 "note": "Membership of the DIRD series is established by the released document itself: its cover page carries the Defense Intelligence Reference Document mark and the DIA Defense Futures banner. Publication date 31 March 2010 on the cover. 32 pages in the released copy. The cover of the scanned release is degraded, so a document number or date is asserted here only where it reads unambiguously.",
 "sources": [
 {
@@ -835,7 +1382,7 @@
 "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237622/"
 }
 ],
-"tier": "C",
+"tier": "B",
 "type": "programmatic"
 },
 {
@@ -845,6 +1392,27 @@
 "dateStart": null,
 "direction": "out",
 "edgeLabel": "DIRD",
+"id": "dird-technological-approaches-to-controlling-external-devices",
+"l0": false,
+"label": "Technological Approaches to Controlling External Devices in the Absence of Limb-Operated Interfaces",
+"note": "",
+"sources": [
+{
+"date": null,
+"name": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237621/",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237621/"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "series member",
 "id": "dird-technological-approaches-to-controlling-external-devices",
 "l0": false,
 "label": "Technological Approaches to Controlling External Devices in the Absence of Limb-Operated Interfaces",
@@ -874,6 +1442,27 @@
 "id": "dird-the-role-of-superconductors-in-gravity",
 "l0": false,
 "label": "The Role of Superconductors in Gravity Research",
+"note": "",
+"sources": [
+{
+"date": null,
+"name": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237631/",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237631/"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "series member",
+"id": "dird-the-role-of-superconductors-in-gravity",
+"l0": false,
+"label": "The Role of Superconductors in Gravity Research",
 "note": "Membership of the DIRD series is established by the released document itself: its cover page carries the Defense Intelligence Reference Document mark and the DIA Defense Futures banner. Publication date 23 March 2010 on the cover. 17 pages in the released copy. The cover of the scanned release is degraded, so a document number or date is asserted here only where it reads unambiguously.",
 "sources": [
 {
@@ -897,6 +1486,27 @@
 "dateStart": null,
 "direction": "out",
 "edgeLabel": "DIRD",
+"id": "dird-the-space-communication-implications-of-quantum",
+"l0": false,
+"label": "The Space-Communication Implications of Quantum Entanglement and Nonlocality",
+"note": "",
+"sources": [
+{
+"date": null,
+"name": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237623/",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237623/"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "series member",
 "id": "dird-the-space-communication-implications-of-quantum",
 "l0": false,
 "label": "The Space-Communication Implications of Quantum Entanglement and Nonlocality",
@@ -926,6 +1536,27 @@
 "id": "dird-traversable-wormholes-stargates-and-negative-energy",
 "l0": false,
 "label": "Traversable Wormholes, Stargates, and Negative Energy",
+"note": "",
+"sources": [
+{
+"date": null,
+"name": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237636/",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237636/"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "series member",
+"id": "dird-traversable-wormholes-stargates-and-negative-energy",
+"l0": false,
+"label": "Traversable Wormholes, Stargates, and Negative Energy",
 "note": "Membership of the DIRD series is established by the released document itself: its cover page carries the Defense Intelligence Reference Document mark and the DIA Defense Futures banner. Publication date 6 April 2010 on the cover. 43 pages in the released copy. The cover of the scanned release is degraded, so a document number or date is asserted here only where it reads unambiguously.",
 "sources": [
 {
@@ -949,6 +1580,27 @@
 "dateStart": null,
 "direction": "out",
 "edgeLabel": "DIRD",
+"id": "dird-ultracapacitors-as-energy-and-power-storage",
+"l0": false,
+"label": "Ultracapacitors as Energy and Power Storage Devices for Commercial and Military Applications",
+"note": "",
+"sources": [
+{
+"date": null,
+"name": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237620/",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237620/"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "series member",
 "id": "dird-ultracapacitors-as-energy-and-power-storage",
 "l0": false,
 "label": "Ultracapacitors as Energy and Power Storage Devices for Commercial and Military Applications",
@@ -978,6 +1630,27 @@
 "id": "dird-warp-drive-dark-energy-and-the",
 "l0": true,
 "label": "Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions",
+"note": "",
+"sources": [
+{
+"date": null,
+"name": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237627/",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237627/"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "series member",
+"id": "dird-warp-drive-dark-energy-and-the",
+"l0": true,
+"label": "Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions",
 "note": "Membership of the DIRD series is established by the released document itself: its cover page carries the Defense Intelligence Reference Document mark and the DIA Defense Futures banner. Publication date 2 April 2010 on the cover. 34 pages in the released copy. The cover of the scanned release is degraded, so a document number or date is asserted here only where it reads unambiguously.",
 "sources": [
 {
@@ -1000,7 +1673,7 @@
 "dateEnd": "2010",
 "dateStart": "2008",
 "direction": "in",
-"edgeLabel": "largest single DIRD producer — six of 38",
+"edgeLabel": "largest single DIRD producer - six of 38",
 "id": "earthtech-international",
 "l0": true,
 "label": "EarthTech International / Institute for Advanced Studies at Austin",
@@ -1121,11 +1794,7 @@
 "deg": 41,
 "denials": [],
 "desc": "Series of ~38 unclassified technical reports produced under AAWSAP by BAASS subcontractors and published by DIA in two series lines: 'Acquisition Threat Support' (FY2009 tranche, published 2009-2010) and 'Defense Futures' (FY2010 tranche, published 2010-2011).",
-"domains": [
-"_rs-aawsap-dirds",
-"_rs-archive-mirror",
-"propulsion-2026-09-19"
-],
+"domains": [],
 "dossier": {
 "claims": [
 {
@@ -1216,8 +1885,24 @@
 "whyImplicated": "The DIRDs are the most literal artefact on this board: a list, written by the United States government's own defence intelligence agency, of every theoretical route by which the observed flight performance of anomalous objects might be achieved. Read as a set, they are not a scattershot survey but a systematic decomposition of a capability - lift without visible propulsion, translation in space and time, signature reduction, materials that do not behave conventionally, and the effects such a craft would have on a human body standing near it. The government commissioned this taxonomy in 2008 and 2009 while the same contract was running field investigation teams and proposing laboratories to examine recovered material. One of the thirty-eight, the classified SECRET version of 'State of the Art and Evolution of High-Energy Laser Weapons,' has never been released and was not even acknowledged as withheld in the release letter, which is why the requester appealed on the adequacy of the search rather than on an exemption."
 },
 "entityInfo": {
-"desc": null,
-"sources": []
+"desc": "Release-number cross-walk. The DIA transmittal order (used in the 9 January 2018 letter to the Senate Armed Services Committee) does NOT match the numbering of the publicly released PDFs, which follow the order in which DIA processed them for FOIA. Selected mappings between released DIRD number and transmittal item: released DIRD 15 = transmittal item 5 (Puthoff, spacetime metric engineering); released DIRD 18 = item 8 (Davis, traversable wormholes); released DIRD 19 = item 11 (Davis, antigravity); released DIRD 24 = item 14 (Davis, quantum vacuum energy); released DIRD 26 = item 12 (Green, field effects on biological tissues); released DIRD 27 = item 31 (Davis, laser lightcraft nanosatellites); released DIRD 36 = item 34 (Davis, quantum tomography of negative energy states); released DIRD 13 = item 19 (Obousy, warp drive); released DIRD 21 = item 9 (Baker, high-frequency gravitational wave communications); released DIRD 23 = items 37/38 (Albertine, high-energy laser weapons — only the unclassified version released). Researchers citing these documents should give both the transmittal item number and the released DIRD file number, because the two numbering systems are routinely conflated in secondary sources.",
+"sources": [
+{
+"date": "2018-01-09",
+"name": "DIA letter to SASC listing all 38 products (transmittal order)",
+"url": "https://documents.theblackvault.com/documents/dia/dia-aatip-reports.pdf"
+},
+{
+"date": "2022-01-01",
+"name": "The Black Vault — released DIRD file index",
+"url": "https://www.theblackvault.com/documentarchive/the-advanced-aerospace-weapon-system-applications-program-aawsap-documentation/"
+},
+{
+"date": "2019-01-20",
+"name": "UFOs Scientific Research — Back to those 38 Defense Intelligence Reference Documents",
+"url": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html"
+}
+]
 },
 "era": "nd",
 "foia": {
@@ -1398,13 +2083,13 @@
 "cls": "document",
 "id": "dird-quantum-computing-and-utilizing-organic-molecules",
 "label": "Quantum Computing and Utilizing Organic Molecules in Automation Technology",
-"tier": "C"
+"tier": "B"
 },
 {
 "cls": "document",
 "id": "dird-quantum-tomography-of-negative-energy-states",
 "label": "Quantum Tomography of Negative Energy States in the Vacuum",
-"tier": "C"
+"tier": "B"
 },
 {
 "cls": "document",
@@ -1416,7 +2101,7 @@
 "cls": "document",
 "id": "dird-state-of-the-art-and-evolution",
 "label": "State of the Art and Evolution of High-Energy Laser Weapons",
-"tier": "C"
+"tier": "B"
 },
 {
 "cls": "document",
@@ -1467,7 +2152,13 @@
 "tier": "A"
 }
 ],
+"openQuestions": [],
 "short": "38 Defense Intelligence Ref. Docs",
+"sourceFiles": [
+"_rs-aawsap-dirds",
+"_rs-archive-mirror",
+"propulsion-2026-09-19"
+],
 "sources": [
 {
 "date": "2022-03",
@@ -1522,25 +2213,28 @@
 ],
 "sub": "AAWSAP contract deliverable set, 2008-2010. A DOCUMENT SERIES, not a programme — the individual papers are wired to their authors and to AAWSAP, and this node is the shelf they sit on. Absorbed the duplicate node dird-collection on 14 Aug 2026.",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 8 of 1170, score 135). 41 connections, 38 of them custody/funding/programmatic. Axes C0/A0/D0.",
+"tierRationale": "Re-graded A on a global pass (rank 8 of 1170, score 135). 73 connections, 38 of them custody/funding/programmatic. Axes C0/A0/D0.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2010-03-30",
+"grade": "A",
 "id": "tl-2010-03-30-dird-maverick-inventor",
 "label": "Hathaway's DIRD on maverick inventors is issued, naming Hutchison zero times",
 "precision": "day",
 "strand": "program",
-"text": "DIA-08-1003-017, 'Maverick Inventor Versus Corporate Inventor: Where Will the Next Major Innovations Arise?', ICOD 1 December 2009, 20 pages as released, attributed on the DIA list to Dr George Hathaway of Hathaway Consulting, who is the author of the book 'Mindbending: The Hutchison Files'. Word counts: Hutchison 0, Pharos 0, levitation 0.",
-"tier": "A"
+"text": "DIA-08-1003-017, 'Maverick Inventor Versus Corporate Inventor: Where Will the Next Major Innovations Arise?', ICOD 1 December 2009, 20 pages as released, attributed on the DIA list to Dr George Hathaway of Hathaway Consulting, who is the author of the book 'Mindbending: The Hutchison Files'. Word counts: Hutchison 0, Pharos 0, levitation 0."
 },
 {
+"claimTier": null,
 "date": "2019-01-16",
+"grade": "A",
 "id": "tl-2019-dirds",
 "label": "The 38 DIRD titles enter the public record",
 "precision": "day",
 "strand": "program",
-"text": "Nick Pope publishes the DIA transmittal letter; researchers begin extracting the individual reports through FOIA, eventually obtaining 37 of 38.",
-"tier": "A"
+"text": "Nick Pope publishes the DIA transmittal letter; researchers begin extracting the individual reports through FOIA, eventually obtaining 37 of 38."
 }
-]
+],
+"unverified": []
 }

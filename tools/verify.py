@@ -685,7 +685,20 @@ def _l0_golden():
             "l0_edges_summarised": c["summarisedEdges"], "ledger": c["ledger"],
             "path_only": c["pathOnly"], "unattached": c["unattached"],
             "l0_with_dossier": c.get("withDossier", 0),
-            "l0_dossier_claims": c.get("dossierClaims", 0)}
+            "l0_dossier_claims": c.get("dossierClaims", 0),
+            # Since phase 3 the node sourcing caps reach dossier claims, so their
+            # tier mix is a count that moves on purpose and is held here.
+            "l0_dossier_claim_tiers": _dossier_tier_mix(json.load(open(path, encoding="utf-8")))}
+
+
+def _dossier_tier_mix(model):
+    from collections import Counter
+    doss = dict(model.get("dossiers") or {})
+    for n in model.get("l0") or []:
+        if n.get("dossier"):
+            doss.setdefault(n["id"], n["dossier"])
+    ct = Counter(c.get("tier") for d in doss.values() for c in (d or {}).get("claims") or [])
+    return {str(k): ct[k] for k in (1, 2, 3)}
 
 
 def measure(b):
@@ -720,6 +733,9 @@ def measure(b):
         **_l0_golden(),
         "people_with_date": sum(1 for p in b["people"] if p.get("date")),
         "locations_with_coords": sum(1 for e in b["entities"] if e.get("coords")),
+        # The case against, on entities: carried since phase 3.
+        "entity_case_against": {f: sum(len(e.get(f) or []) for e in b["entities"])
+                                for f in ("conflicts", "unverified", "openQuestions")},
     }
 
 
@@ -1829,6 +1845,247 @@ def _threads_joined(b):
     return bad
 
 
+# ---------------------------------------------------------------------------
+# redesign phase 3: the pipeline drops nothing
+#
+# Each of these re-derives from research/ (or from the board) what merge.py was
+# changed to carry, so a regression back to dropping is a failure, not a quiet
+# smaller number. Poisons: the checks that compare the research against the REAL
+# board get a mutated copy of the real board (poison_realboard in self_test), the
+# verb check gets a vocabulary with one verb removed (_VERB_MAP_OVERRIDE), and the
+# denial report check gets the real board with one verdict stripped.
+# ---------------------------------------------------------------------------
+
+from merge import (VERB_MAP as _MERGE_VERB_MAP, VALID_EDGE as _VALID_EDGE,  # noqa: E402
+                   VALID_GRADE as _VALID_GRADE, NOT_NODE_DOCUMENTS as _NOT_NODE_DOCS,
+                   claim_key as _claim_key, tier1_cap_reason as _tier1_cap_reason,
+                   URL_IN_SOURCE as _URL_IN_SOURCE, VALID_CLS as _VALID_CLS)
+
+RESEARCH_DIR = os.path.join(ROOT, "research")
+UNADJ = os.path.join(ROOT, "tools", "UNADJUDICATED-DENIALS.json")
+_VERB_MAP_OVERRIDE = None
+_RESEARCH_CACHE = []
+
+
+def _research_docs():
+    """Every node document under research/, as merge.py reads them."""
+    if not _RESEARCH_CACHE:
+        import glob
+        docs = []
+        for p in sorted(glob.glob(os.path.join(RESEARCH_DIR, "*.json"))):
+            if os.path.basename(p) in _NOT_NODE_DOCS:
+                continue
+            with open(p, encoding="utf-8") as fh:
+                docs.append((os.path.splitext(os.path.basename(p))[0], json.load(fh)))
+        _RESEARCH_CACHE.append(docs)
+    return _RESEARCH_CACHE[0]
+
+
+CASE_FIELDS = ("conflicts", "unverified", "openQuestions")
+
+
+def _authored_case_items():
+    """{entity id: {field: [items]}}, unioned across files, collapsed ids folded into
+    their survivors and removed ids dropped: what the board should carry."""
+    out = {}
+    for _slug, doc in _research_docs():
+        for e in doc.get("entities") or []:
+            if e.get("cls") not in _VALID_CLS or e.get("cls") == "person" or not e.get("id"):
+                continue
+            eid = canonical_id(e["id"])
+            slot = out.setdefault(eid, {f: [] for f in CASE_FIELDS})
+            for f in CASE_FIELDS:
+                v = e.get(f)
+                for x in (v if isinstance(v, list) else ([v] if v else [])):
+                    if x not in slot[f]:
+                        slot[f].append(x)
+    rmp = os.path.join(RESEARCH_DIR, "_removed.json")
+    rm = json.load(open(rmp, encoding="utf-8")) if os.path.exists(rmp) else {}
+    alias = rm.get("alias") or {}
+    for i in sorted(set(rm.get("remove") or [])):
+        if i not in out:
+            continue
+        loser = out.pop(i)
+        tgt = out.get(alias.get(i))
+        if tgt is not None:
+            for f in CASE_FIELDS:
+                for x in loser[f]:
+                    if x not in tgt[f]:
+                        tgt[f].append(x)
+    return out
+
+
+@check("every authored conflict, unverified note and open question on an entity reaches the board")
+def _entity_case_against(b):
+    """Until phase 3 merge.py built an entity from a fixed field list that did not
+    name `conflicts`, `unverified` or `openQuestions`, and 63 records' worth of the
+    case against a node never reached the board: S-4, Dulce and TR-3B among them.
+    This recounts them from research/ and compares node by node."""
+    want = _authored_case_items()
+    have = {e["id"]: e for e in b["entities"]}
+    bad = []
+    for eid, fields in sorted(want.items()):
+        e = have.get(eid)
+        if e is None:
+            continue          # a rejected or unknown node: the reject check says so
+        for f in CASE_FIELDS:
+            got = e.get(f) or []
+            got = got if isinstance(got, list) else [got]
+            if len(fields[f]) != len(got):
+                bad.append(f"{eid}.{f}: research carries {len(fields[f])}, the board {len(got)}")
+    return bad[:40]
+
+
+def _verb_map():
+    return _VERB_MAP_OVERRIDE if _VERB_MAP_OVERRIDE is not None else _MERGE_VERB_MAP
+
+
+@check("every authored edge verb is one of the twelve types or mapped in schema/vocab.json")
+def _edge_verbs(b):
+    """An authored verb outside the twelve types used to become `programmatic` in
+    silence (89 records, 35 verbs). merge.py now maps each one through
+    schema/vocab.json and rejects the rest; this re-reads research/ and the board
+    so a verb that slips past the map, or a map row pointing at no type, or an
+    edge whose type disagrees with its own authoredVerb, is a failure."""
+    vm = _verb_map()
+    bad = []
+    for slug, doc in _research_docs():
+        for x in doc.get("edges") or []:
+            t = x.get("type") or x.get("rel")
+            if t not in _VALID_EDGE and t not in vm:
+                bad.append(f"{slug}: edge {x.get('a') or x.get('from')}->{x.get('b') or x.get('to')} "
+                           f"carries the verb {t!r}, which is neither a type nor mapped")
+    for v, m in sorted(vm.items()):
+        if m.get("type") not in _VALID_EDGE:
+            bad.append(f"schema/vocab.json maps {v!r} to {m.get('type')!r}, which is not a type")
+    for e in b["edges"]:
+        v = e.get("authoredVerb")
+        if v and (v not in vm or vm[v]["type"] != e["type"]):
+            bad.append(f"{e['a']}->{e['b']}: authoredVerb {v!r} but type {e['type']!r}")
+    return bad[:40]
+
+
+@check("no node carries a claim twice")
+def _no_duplicate_claims(b):
+    """The dedupe key was the whole text on one side and its first 120 characters on
+    the other, so a long claim never matched itself and four nodes shipped one
+    twice. One key now, on both sides; this asserts the result."""
+    bad = []
+    for n in b["people"] + b["entities"]:
+        seen = set()
+        for c in n.get("claims") or []:
+            k = _claim_key(c.get("text"))
+            if k in seen:
+                bad.append(f"{n['id']}: {c.get('text', '')[:70]!r}")
+            seen.add(k)
+    return bad[:40]
+
+
+APP_TIMELINE = os.path.join(ROOT, "app", "public", "data", "timeline.json")
+APP_INDEX = os.path.join(ROOT, "app", "public", "data", "index.json")
+
+
+@check("no timeline event ships a tier mixing two vocabularies")
+def _timeline_tiers(b):
+    """One `tier` field carried an event grade (A/B/C) and a claim tier (1/2/3, as
+    ints and as strings). They are `grade` and `claimTier` now, each with its own
+    vocabulary, and `tier` is not shipped: not on the board, not in the app."""
+    bad = []
+    rows = [("board", t) for t in b.get("timeline") or []]
+    if os.path.exists(APP_TIMELINE):
+        with open(APP_TIMELINE, encoding="utf-8") as fh:
+            rows += [("app", t) for t in json.load(fh)]
+    for where, t in rows:
+        tid = t.get("id")
+        if "tier" in t:
+            bad.append(f"{where} {tid}: still ships `tier` {t['tier']!r}")
+        if t.get("grade") is not None and t["grade"] not in _VALID_GRADE:
+            bad.append(f"{where} {tid}: grade {t['grade']!r} is not A/B/C")
+        ct = t.get("claimTier")
+        if ct is not None and (not isinstance(ct, int) or isinstance(ct, bool) or ct not in (1, 2, 3)):
+            bad.append(f"{where} {tid}: claimTier {ct!r} is not the integer 1, 2 or 3")
+        if t.get("grade") is not None and ct is not None:
+            bad.append(f"{where} {tid}: carries both a grade and a claim tier")
+    return bad[:40]
+
+
+_UNADJ_OVERRIDE = None
+
+
+@check("every denial edge without a verdict is in the unadjudicated report")
+def _unadjudicated_report(b):
+    """tools/UNADJUDICATED-DENIALS.json lists every denial edge the adjudication has
+    not reached. A report in phase 3; once phase R clears it, this check is where
+    the list is required to be empty. Both directions are asserted: an edge missing
+    from the list, and a listed edge that has a verdict or is gone."""
+    if _UNADJ_OVERRIDE is not None:
+        rep = _UNADJ_OVERRIDE
+    elif os.path.exists(UNADJ):
+        with open(UNADJ, encoding="utf-8") as fh:
+            rep = json.load(fh)
+    else:
+        return ["tools/UNADJUDICATED-DENIALS.json is missing: run tools/build.py"]
+    listed = {frozenset((r["a"], r["b"])) for r in rep}
+    open_ = {frozenset((e["a"], e["b"])) for e in b["edges"]
+             if e["type"] == "denial" and not e.get("denialKind")}
+    bad = [f"denial {'/'.join(sorted(k))} has no verdict and is not in the report"
+           for k in sorted(open_ - listed, key=sorted)]
+    bad += [f"the report lists {'/'.join(sorted(k))}, which has a verdict or is not on the board"
+            for k in sorted(listed - open_, key=sorted)]
+    return bad[:40]
+
+
+_EM = "\u2014"
+
+
+@check("no display label carries a spaced em dash")
+def _display_labels(b):
+    """A spaced em dash in a label becomes " - " at build time, recorded in
+    tools/DISPLAY-NORMALISED.json. Labels only: claim texts, sources and timeline
+    texts may be quotations and are never touched, so they are not checked."""
+    spaced = re.compile(r"\s" + _EM + r"\s")
+    bad = []
+    for n in b["people"] + b["entities"]:
+        for f in ("label", "short"):
+            if spaced.search(str(n.get(f) or "")):
+                bad.append(f"node {n['id']}.{f}: {n[f]!r}")
+    for e in b["edges"]:
+        if spaced.search(e.get("label") or ""):
+            bad.append(f"edge {e['a']}->{e['b']}: {e['label']!r}")
+    for t in b.get("timeline") or []:
+        if spaced.search(str(t.get("label") or "")):
+            bad.append(f"timeline {t.get('id')}: {t['label']!r}")
+    if os.path.exists(APP_INDEX):
+        with open(APP_INDEX, encoding="utf-8") as fh:
+            for r in json.load(fh)["nodes"]:
+                if spaced.search(str(r.get("short") or "")):
+                    bad.append(f"app index short {r['id']}: {r['short']!r}")
+    return bad[:40]
+
+
+@check("no Tier 1 dossier claim breaks the node-claim sourcing rules")
+def _dossier_caps(b):
+    """The node rule (secondary source, no attributed source, no primary URL, an
+    interested party asserting an outside fact) reaches entity dossiers since phase
+    3, through the same function. Re-applied here to what the model ships."""
+    d = _l0()
+    if d is None:
+        return ["data/l0-model.json is missing: run tools/build.py"]
+    doss = dict(d.get("dossiers") or {})
+    for n in d.get("l0") or []:
+        if n.get("dossier"):
+            doss.setdefault(n["id"], n["dossier"])
+    bad = []
+    for nid, ds in sorted(doss.items()):
+        claims = (ds or {}).get("claims") or []
+        urls = " ".join(u for c in claims for u in _URL_IN_SOURCE.findall(c.get("source") or ""))
+        for c in claims:
+            why = _tier1_cap_reason(c, urls)
+            if why:
+                bad.append(f"{nid}: Tier 1 dossier claim {why}: {(c.get('text') or '')[:60]!r}")
+    return bad[:40]
+
+
 @check("no research record is silently dropped")
 def _no_rejects(b):
     """merge.py writes every record it could not place to tools/REJECTS.json with a
@@ -2006,6 +2263,65 @@ def self_test():
         # a Tier A node with no sourced URL: the 0.35 discount let one through
         "every Tier A node rests on at least one sourced URL": mut(
             lambda b: b["entities"][0].update(tier="A", sources=[{"name": "a recollection"}])),
+        # the 120-character key's failure: one long claim, twice
+        "no node carries a claim twice": mut(lambda b: b["people"][0]["claims"].extend(
+            [{"tier": 2, "text": "A long claim " + "x" * 130, "source": "s"},
+             {"tier": 2, "text": "A long claim " + "x" * 130, "source": "s"}])),
+        # both vocabularies in one field, the shape of 1,076 events before phase 3
+        "no timeline event ships a tier mixing two vocabularies": mut(
+            lambda b: b["timeline"].extend([{"id": "t-a", "strand": "program", "tier": "A"},
+                                            {"id": "t-1", "strand": "program", "tier": "1"}])),
+        "no display label carries a spaced em dash": mut(
+            lambda b: b["people"][0].update(label="Ann Bee \u2014 the witness")),
+    }
+    # Checks that compare research/ or a tools/ report against the REAL board: the
+    # synthetic fixture cannot stand in for it, so each poison is a mutated copy of
+    # the real board, and the clean call is the real board itself.
+    def _drop_unverified(rb):
+        for e in rb["entities"]:
+            if e["id"] == "s-4-papoose-lake" and e.get("unverified"):
+                e["unverified"] = e["unverified"][:-1]
+                return
+        for e in rb["entities"]:
+            if e.get("unverified"):
+                e["unverified"] = e["unverified"][:-1]
+                return
+
+    def _drop_open_questions(rb):
+        for e in rb["entities"]:
+            if e.get("openQuestions"):
+                e["openQuestions"] = []
+                return
+
+    def _strip_one_verdict(rb):
+        for e in rb["edges"]:
+            if e["type"] == "denial" and e.get("denialKind"):
+                del e["denialKind"]
+                return
+
+    def _adjudicate_one_listed(rb):
+        # the other direction: an edge the report lists acquires a verdict and the
+        # report is not regenerated
+        rep = json.load(open(UNADJ, encoding="utf-8")) if os.path.exists(UNADJ) else []
+        if not rep:
+            return
+        k = {rep[0]["a"], rep[0]["b"]}
+        for e in rb["edges"]:
+            if e["type"] == "denial" and {e["a"], e["b"]} == k:
+                e["denialKind"] = "directed"
+
+    poison_realboard = {
+        "every authored conflict, unverified note and open question on an entity reaches the board":
+            [_drop_unverified, _drop_open_questions],
+        "every denial edge without a verdict is in the unadjudicated report":
+            [_strip_one_verdict, _adjudicate_one_listed],
+    }
+    # a vocabulary that has lost the row for the 32 `contains` edges
+    poison_verbs = {
+        "every authored edge verb is one of the twelve types or mapped in schema/vocab.json": [
+            {k: v for k, v in _MERGE_VERB_MAP.items() if k != "contains"},
+            {**_MERGE_VERB_MAP, "contains": {"type": "membership"}},
+        ],
     }
     # ---- L0 fixtures. Each L0 check gets a model it MUST reject, through
     # _L0_OVERRIDE; its clean call gets L0() through the same channel.
@@ -2084,6 +2400,14 @@ def self_test():
         "every routed row names its intermediate resolvably":
             (L0(l0=[{"id": "e0", "direct": [], "mix": {},
                          "routed": [{"id": "e4", "depth": 2, "via": ["ghost"]}]}])),
+        # a dossier claim graded documented on an encyclopedia entry, and one on
+        # an aaro.mil page asserting a fact about somebody else
+        "no Tier 1 dossier claim breaks the node-claim sourcing rules":
+            (L0(dossiers={"e0": {"claims": [
+                {"text": "E0 was founded in 1952.", "tier": 1,
+                 "source": "https://en.wikipedia.org/wiki/E0"},
+                {"text": "Ann Bee joined E0 in 2023.", "tier": 1,
+                 "source": "https://www.aaro.mil/UAP-Records/ and https://www.congress.gov/x"}]}})),
     }
 
     # ---- Design's nine, from DESIGN-RESPONSE-LAYOUT-2026-08-24 section 5 ----------
@@ -2352,6 +2676,38 @@ def self_test():
                 clean = fn(base)
             finally:
                 _L0_OVERRIDE = None
+        elif name in poison_realboard:
+            # every poison must be rejected, and the real board must pass
+            if _real_board is None:
+                print(f"  FAIL  {name}: data/the-program.json missing, nothing to poison")
+                ok = False
+                continue
+            caught = []
+            for mutate in poison_realboard[name]:
+                pb = copy.deepcopy(_real_board)
+                mutate(pb)
+                got = fn(pb)
+                if not got:
+                    caught = []
+                    print(f"  FAIL  {name} accepted its poison {mutate.__name__}")
+                    break
+                caught = caught + got
+            clean = fn(_real_board)
+        elif name in poison_verbs:
+            global _VERB_MAP_OVERRIDE
+            caught = []
+            for vm in poison_verbs[name]:
+                _VERB_MAP_OVERRIDE = vm
+                try:
+                    got = fn(base)
+                finally:
+                    _VERB_MAP_OVERRIDE = None
+                if not got:
+                    caught = []
+                    print(f"  FAIL  {name} accepted one of its poisons")
+                    break
+                caught = caught + got
+            clean = fn(_real_board if _real_board is not None else base)
         elif name in poison_rejects:
             global _REJECTS_OVERRIDE
             _REJECTS_OVERRIDE = poison_rejects[name]

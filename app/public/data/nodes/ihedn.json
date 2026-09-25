@@ -17,6 +17,7 @@
 ],
 "cls": "institution",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -46,9 +47,7 @@
 "deg": 1,
 "denials": [],
 "desc": "IHEDN is the French state's senior strategic-studies institute, whose auditors are drawn from the armed forces, the civil service, industry and the professions. It appears twice in the UAP record, and both appearances are load-bearing. In 1976 a committee of the Institute chaired by General Blanchard of the Gendarmerie Nationale 'opened the unidentified flying objects file' with the objective of making proposals for organising research and data collection on the phenomena; the recommendations of that committee were adopted and produced GEPAN inside CNES in 1977. Twenty years later the IHEDN Auditors Association backed General Denis Letty's new committee, which became COMETA, after Letty took the proposal to the Institute's then director General Bernard Norlain in March 1995. The line of descent means that the French state's official UAP office and the most emphatic senior-officer report on the subject in any NATO country both trace to the same institution.",
-"domains": [
-"w2-international"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -62,7 +61,11 @@
 "label": "Institut des Hautes Études de Défense Nationale (IHEDN)",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Institut des Hautes Études de Défense Nationale (IHEDN)",
+"sourceFiles": [
+"w2-international"
+],
 "sources": [
 {
 "date": "1999-07-01",
@@ -75,13 +78,15 @@
 "tierRationale": "Re-graded C on a global pass (rank 1030 of 1170, score 14). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.",
 "timeline": [
 {
+"claimTier": 1,
 "date": "1976",
+"grade": null,
 "id": "tl-intl-1976-ihedn",
 "label": "IHEDN committee opens the French file",
 "precision": "year",
 "strand": "program",
-"text": "A committee of the Institut des Hautes Études de Défense Nationale chaired by General Blanchard of the Gendarmerie Nationale opens the unidentified flying objects file with the objective of proposing how to organise research and data collection. Its recommendations are adopted.",
-"tier": 1
+"text": "A committee of the Institut des Hautes Études de Défense Nationale chaired by General Blanchard of the Gendarmerie Nationale opens the unidentified flying objects file with the objective of proposing how to organise research and data collection. Its recommendations are adopted."
 }
-]
+],
+"unverified": []
 }

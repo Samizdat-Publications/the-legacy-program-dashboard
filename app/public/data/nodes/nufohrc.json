@@ -27,6 +27,7 @@
 ],
 "cls": "institution",
 "cluster": "research",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -77,9 +78,7 @@
 "deg": 2,
 "denials": [],
 "desc": "A private archive at Rio Rancho, New Mexico, directed by David Marler, which states on its own site that it is a 501(c)(3) nonprofit corporation in New Mexico and that it holds the case files of NICAP, the Center for UFO Studies and the Aerial Phenomena Research Organization, together with physical artefacts. Custody is this board's subject, and this is a named, located, non-government custodian of two collections the board already carries as nodes. Everything here is the organisation's account of itself: no state or federal registration record was reachable when this was verified, and the Falcon Lake artefact custody the Area 52 corpus attributes to it appears nowhere on its site.",
-"domains": [
-"area52-2026-09-02"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "nd",
@@ -93,7 +92,11 @@
 "label": "National UFO Historical Records Center",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "National UFO Historical Records Center",
+"sourceFiles": [
+"area52-2026-09-02"
+],
 "sources": [
 {
 "date": "2026-09-02",
@@ -113,6 +116,7 @@
 ],
 "sub": "Private archive at Rio Rancho, New Mexico; David Marler, Executive Director; holds the NICAP, CUFOS and APRO case files on its own account",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 533 of 1170, score 30). 2 connections, 2 of them custody/funding/programmatic. Axes C2/A0/D2.",
-"timeline": []
+"tierRationale": "Re-graded B on a global pass (rank 527 of 1170, score 30). 2 connections, 2 of them custody/funding/programmatic. Axes C2/A0/D2.",
+"timeline": [],
+"unverified": []
 }

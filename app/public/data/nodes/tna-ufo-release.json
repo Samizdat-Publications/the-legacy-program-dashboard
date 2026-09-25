@@ -22,6 +22,7 @@
 ],
 "cls": "program",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -114,9 +115,7 @@
 "deg": 4,
 "denials": [],
 "desc": "Between May 2008 and June 2013 the Ministry of Defence transferred its UFO holdings to The National Archives at Kew in a sequenced public release programme, published tranche by tranche on a dedicated nationalarchives.gov.uk/ufos site with a highlights guide written for each tranche by Dr David Clarke and accompanying videocasts and podcasts. The identified tranches and coverage are: October 2008 (DEFE 24/1926-1930 onwards, covering 1986-1992); March 2009 (DEFE 24/1938 and DEFE 31/176-181, covering 1987-1993); August 2009 (DEFE 24/1948, 1959-1965, 1970-1976, 2086, covering 1981-1996, including Rendlesham material); February 2010 (Air Secretariat sighting reports 1996-1999); August 2010 (eighteen files DEFE 24/1973-2045, covering 1995-2003); August 2011 (twenty-six DEFE 24 files plus DEFE 31/182-188, covering 1985-2007); July 2012 (twenty-five files including DEFE 31/189-194, covering 1965-2008, described by the archive as showing 'the role of the UFO Desk Officers, what they really thought of alien visitors, their ideas to harness alien technology as a weapon, and their briefings to Tony Blair on UFO policy'); and the final tranche of June 2013 (DEFE 24/2448-2465 and DEFE 24/2623-2629), covering late 2007 to November 2009 and the closure of the desk. The archive's landing page carried Winston Churchill's July 1952 minute as its epigraph: 'What does all this stuff about flying saucers amount to? What can it mean? What is the truth?' (PREM 11/855).",
-"domains": [
-"w2-international"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "2",
@@ -130,7 +129,11 @@
 "label": "The National Archives / MoD UFO File Release Programme (2008-2013)",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "The National Archives / MoD UFO File Release Programme (2008-2013)",
+"sourceFiles": [
+"w2-international"
+],
 "sources": [
 {
 "date": "2013-06-01",
@@ -170,16 +173,18 @@
 ],
 "sub": "Ten-tranche declassification of MoD UFO records into DEFE 24 and DEFE 31",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 695 of 1170, score 25). 4 connections, 2 of them custody/funding/programmatic. Axes C0/A0/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 694 of 1170, score 25). 4 connections, 2 of them custody/funding/programmatic. Axes C0/A0/D3.",
 "timeline": [
 {
+"claimTier": 1,
 "date": "2008-05",
+"grade": null,
 "id": "tl-intl-2008-tna",
 "label": "The National Archives UFO release programme begins",
 "precision": "month",
 "strand": "oversight",
-"text": "The first of ten tranches of MoD UFO files is published at nationalarchives.gov.uk/ufos with a highlights guide by David Clarke. The programme runs to June 2013 and covers DEFE 24 and DEFE 31.",
-"tier": 1
+"text": "The first of ten tranches of MoD UFO files is published at nationalarchives.gov.uk/ufos with a highlights guide by David Clarke. The programme runs to June 2013 and covers DEFE 24 and DEFE 31."
 }
-]
+],
+"unverified": []
 }

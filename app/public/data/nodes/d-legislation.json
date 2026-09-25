@@ -22,6 +22,7 @@
 ],
 "cls": "domain",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -235,7 +236,7 @@
 "edgeLabel": "codified permanent law - the only statute governing what Congress is told about special access programs",
 "id": "usc-10-119",
 "l0": true,
-"label": "10 U.S.C. 119 — Special Access Programs: Congressional Oversight",
+"label": "10 U.S.C. 119 - Special Access Programs: Congressional Oversight",
 "note": "Added by sec. 1132(a)(1) of the NDAA for FY1988-89, P.L. 100-180, signed 4 December 1987, and amended five times since. It is positive law in title 10 rather than a standalone provision, which places it at the centre of the enacted corpus this domain isolates.",
 "sources": [
 {
@@ -259,9 +260,7 @@
 "deg": 9,
 "denials": [],
 "desc": "This domain isolates what is enacted from what was merely proposed, because the difference is the whole of the disclosure movement's leverage. The binding corpus is small and can be listed: the FY2022 NDAA provision that stood up the Airborne Object Identification and Management Synchronization Group and its successor office; the FY2023 NDAA language establishing AARO's statutory mandate and a secure reporting mechanism with protection against reprisal for current and former personnel and contractors; and Subtitle C of the FY2024 NDAA (P.L. 118-31), Sections 1841 through 1843, creating the UAP Records Collection at NARA with an affirmative agency duty to transmit and defined grounds for postponement. Everything else - the Review Board, eminent domain over recovered material, contractor amnesty, standalone whistleblower protection - remains proposed. The practical consequence is that the executive branch currently owes Congress reports and owes NARA records, but owes no independent body an answer, and no statute yet compels the surrender of a physical object. Scoring high on this domain means an entity is named in, administers, or is bound by enacted text.",
-"domains": [
-"w2-taxonomy"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "3",
@@ -275,7 +274,11 @@
 "label": "Enacted Statute",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Enacted Statute",
+"sourceFiles": [
+"w2-taxonomy"
+],
 "sources": [
 {
 "date": "2023-12-22",
@@ -296,5 +299,6 @@
 "sub": "Legal domain - the provisions that actually became binding law (alias of d-legislative for enacted text)",
 "tier": "C",
 "tierRationale": "Re-graded C on a global pass (rank 646 of 1170, score 27). 9 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.",
-"timeline": []
+"timeline": [],
+"unverified": []
 }

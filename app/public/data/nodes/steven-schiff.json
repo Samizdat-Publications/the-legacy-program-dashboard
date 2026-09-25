@@ -135,7 +135,7 @@
 "edgeLabel": "Schiff tasked GAO after DoD refused to answer him",
 "id": "gao-nsiad-95-187",
 "l0": false,
-"label": "GAO/NSIAD-95-187 — Results of a Search for Records Concerning the 1947 Crash Near Roswell",
+"label": "GAO/NSIAD-95-187 - Results of a Search for Records Concerning the 1947 Crash Near Roswell",
 "note": "A single member of Congress used the legislature's audit arm to go around an executive agency, producing the records-destruction finding no executive review has ever addressed.",
 "sources": [
 {
@@ -227,8 +227,10 @@
 "deg": 5,
 "denials": [],
 "domains": [
-"history-1940s-1960s",
-"history-1970s-2000s"
+"d-legacy",
+"d-oversight",
+"d-records",
+"d-coverup"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -274,6 +276,10 @@
 }
 ],
 "short": "Steven H. Schiff",
+"sourceFiles": [
+"history-1940s-1960s",
+"history-1970s-2000s"
+],
 "sources": [
 {
 "date": "1995-07-28",
@@ -299,16 +305,17 @@
 "status": "dead",
 "sub": "US Representative, New Mexico (R)",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 314 of 1170, score 38). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 311 of 1170, score 38). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1994-01-01",
+"grade": "A",
 "id": "t-1994-schiff",
 "label": "Rep. Schiff directs GAO to search the records",
 "precision": "year",
 "strand": "oversight",
-"text": "After DoD refers his Roswell inquiry to the National Archives rather than answering it, Representative Steven Schiff orders a government-wide GAO records audit.",
-"tier": "A"
+"text": "After DoD refers his Roswell inquiry to the National Archives rather than answering it, Representative Steven Schiff orders a government-wide GAO records audit."
 }
 ],
 "unexplainedResidual": "No agency has ever produced a disposition authority for the destroyed RAAF message traffic, and no accountability review of that destruction has been conducted in the thirty-one years since GAO reported it.",

@@ -57,6 +57,7 @@
 ],
 "cls": "document",
 "cluster": "legacy",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -206,12 +207,7 @@
 "deg": 6,
 "denials": [],
 "desc": "The largest statistical study of UFO reports ever conducted by or for the United States government. Prepared by Battelle Memorial Institute under Project Stork and issued 5 May 1955 as Project No. 10073, it analysed roughly 3,200 reports, classified them by quality of evidence, and applied chi-square testing to determine whether the 'unknowns' were statistically distinguishable from the 'knowns'. They were. The report also found - and this is the part the Air Force's public summary buried - that the proportion of unknowns rose with the quality of the sighting: the better the observation, the less likely it was to be explained. The Air Force publicised the study as demonstrating that UFOs were of no consequence. The document itself does not support that reading. It is available today through CIA's CREST reading room as CIA-RDP81R00560R000100060001-5 and was re-released by the Department of War in PURSUE Release 03 in June 2026 as CIA-UAP-015 - meaning the government has now published the same 1955 Battelle report three separate times across seventy years while the underlying case data has never been reanalysed by an independent party. As an artifact this document is doubly useful: it is evidence about the phenomenon, and it is evidence about how a contractor's technical work is converted into an official denial.",
-"domains": [
-"_rs-archive-mirror",
-"ffrdcs",
-"history-1940s-1960s",
-"legacy-1947-86"
-],
+"domains": [],
 "dossier": {
 "claims": [
 {
@@ -347,7 +343,14 @@
 "tier": "A"
 }
 ],
+"openQuestions": [],
 "short": "Blue Book Special Report No. 14",
+"sourceFiles": [
+"_rs-archive-mirror",
+"ffrdcs",
+"history-1940s-1960s",
+"legacy-1947-86"
+],
 "sources": [
 {
 "date": "2026-07-23",
@@ -392,34 +395,38 @@
 ],
 "sub": "'Analysis of Reports of Unidentified Aerial Objects', Project No. 10073, 5 May 1955; prepared by Battelle Memorial Institute",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 152 of 1170, score 52). 6 connections, 2 of them custody/funding/programmatic. Axes C1/A2/D2.",
+"tierRationale": "Re-graded A on a global pass (rank 151 of 1170, score 52). 6 connections, 2 of them custody/funding/programmatic. Axes C1/A2/D2.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1955-05-05",
+"grade": "A",
 "id": "tl-1955-05-05",
 "label": "Blue Book Special Report No. 14",
 "precision": "day",
 "strand": "program",
-"text": "ATIC issues the largest statistical study of UFO reports ever produced by the US government: 434 of 2,199 objects unknown, with unknown rates rising with report quality.",
-"tier": "A"
+"text": "ATIC issues the largest statistical study of UFO reports ever produced by the US government: 434 of 2,199 objects unknown, with unknown rates rising with report quality."
 },
 {
+"claimTier": null,
 "date": "1955-05-05",
+"grade": "A",
 "id": "tl-ffrdc-1955-sr14",
 "label": "Blue Book Special Report No. 14 issued",
 "precision": "day",
 "strand": "program",
-"text": "Battelle delivers the largest statistical study of UFO reports ever performed for the US government, Project No. 10073. The proportion of unknowns rises with the quality of the sighting; the Air Force publicises the opposite conclusion.",
-"tier": "A"
+"text": "Battelle delivers the largest statistical study of UFO reports ever performed for the US government, Project No. 10073. The proportion of unknowns rises with the quality of the sighting; the Air Force publicises the opposite conclusion."
 },
 {
+"claimTier": null,
 "date": "2026-06-12",
+"grade": "B",
 "id": "tl-ffrdc-2026-sr14-repub",
 "label": "Special Report No. 14 republished in PURSUE Release 03",
 "precision": "day",
 "strand": "program",
-"text": "The Department of War publishes the 1955 Battelle report again as CIA-UAP-015 - the third government publication of the same document in seventy years, with the underlying case data still never independently reanalysed.",
-"tier": "B"
+"text": "The Department of War publishes the 1955 Battelle report again as CIA-UAP-015 - the third government publication of the same document in seventy years, with the underlying case data still never independently reanalysed."
 }
-]
+],
+"unverified": []
 }

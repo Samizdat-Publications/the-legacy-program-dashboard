@@ -219,9 +219,11 @@
 "deg": 6,
 "denials": [],
 "domains": [
-"congress-senate-legislation",
-"disclosure-project-2026-09-19",
-"media-structure"
+"d-legislative",
+"d-oversight",
+"d-records",
+"d-media",
+"d-legal"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -242,6 +244,11 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Daniel P. Sheehan",
+"sourceFiles": [
+"congress-senate-legislation",
+"disclosure-project-2026-09-19",
+"media-structure"
+],
 "sources": [
 {
 "date": "2023-11-27",
@@ -275,13 +282,14 @@
 "tierRationale": "Re-graded B on a global pass (rank 479 of 1170, score 31). 6 connections, 0 of them custody/funding/programmatic. Axes C1/A0/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1988-06-23",
+"grade": "B",
 "id": "ms-cv-1988-rule11",
 "label": "Christic Institute sanctioned",
 "precision": "day",
 "strand": "coverup",
-"text": "Judge James Lawrence King dismisses Avirgan v. Hull and orders Daniel Sheehan's Christic Institute to pay $955,000 in fees and $79,500 in costs under Rule 11, criticising reliance on witnesses who were dead, unwilling, or one person removed from the facts. Recorded because the same evidentiary pattern recurs in the UAP context and hostile reviewers will reach for this first.",
-"tier": "B"
+"text": "Judge James Lawrence King dismisses Avirgan v. Hull and orders Daniel Sheehan's Christic Institute to pay $955,000 in fees and $79,500 in costs under Rule 11, criticising reliance on witnesses who were dead, unwilling, or one person removed from the facts. Recorded because the same evidentiary pattern recurs in the UAP context and hostile reviewers will reach for this first."
 }
 ],
 "unexplainedResidual": null,

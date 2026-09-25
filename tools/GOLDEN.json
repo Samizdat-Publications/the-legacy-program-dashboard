@@ -3,7 +3,7 @@
  "counts": {
   "people": 353,
   "entities": 817,
-  "edges": 2762,
+  "edges": 2803,
   "timeline": 1076,
   "entity_classes": {
    "document": 243,
@@ -20,14 +20,14 @@
    "C": 586
   },
   "claim_tiers": {
-   "1": 3789,
-   "2": 1684,
+   "1": 3786,
+   "2": 1683,
    "3": 618
   },
   "edge_tiers": {
-   "1": 1789,
-   "2": 739,
-   "3": 234
+   "1": 1830,
+   "2": 738,
+   "3": 235
   },
   "unique_source_urls": 1693,
   "l0_nodes": 135,
@@ -38,7 +38,17 @@
   "unattached": 1,
   "l0_with_dossier": 135,
   "l0_dossier_claims": 1589,
+  "l0_dossier_claim_tiers": {
+   "1": 1237,
+   "2": 488,
+   "3": 85
+  },
   "people_with_date": 333,
-  "locations_with_coords": 45
+  "locations_with_coords": 45,
+  "entity_case_against": {
+   "conflicts": 30,
+   "unverified": 140,
+   "openQuestions": 18
+  }
  }
 }

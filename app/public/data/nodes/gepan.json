@@ -27,6 +27,7 @@
 ],
 "cls": "program",
 "cluster": "research",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -119,9 +120,7 @@
 "deg": 4,
 "denials": [],
 "desc": "GEPAN was established inside CNES, the French national space agency, in 1977 on the recommendation of a 1976 IHEDN committee chaired by General Blanchard of the Gendarmerie Nationale, with CNES director general Yves Sillard's authority and Claude Poher as inaugural director. It is the first and still the only permanent civilian government UAP office in the world with a published case archive. Its operating model - the Gendarmerie Nationale, the French national police force, teletyping sighting reports directly to the agency, with CNES laboratory resources available for physical-trace analysis - is the single most important institutional difference between the French and Anglo-American approaches. A contemporaneous assessment held in the US National Security Agency's declassified UFO document collection describes GEPAN's June 1978 five-volume, roughly 500-page report to its own scientific council: three special groups (rapid intervention, physical traces, radar alert) had been created; eleven high-credibility, high-strangeness cases were studied in depth, of which only one proved to have a conventional explanation; each case was worked by a four-person team including a psychologist. The NSA-held assessment concludes that 'the care with which distances, angles, and psychological factors were evaluated makes the bulk of the Condon Report seem very poor by comparison', and records that the original French report 'was limited to 120 or 140 copies and was secret'. GEPAN was renamed SEPRA in 1988.",
-"domains": [
-"w2-international"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "1",
@@ -135,7 +134,11 @@
 "label": "GEPAN - Groupe d'Étude des Phénomènes Aérospatiaux Non-identifiés",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "GEPAN - Groupe d'Étude des Phénomènes Aérospatiaux Non-identifiés",
+"sourceFiles": [
+"w2-international"
+],
 "sources": [
 {
 "date": "2024-02-24",
@@ -158,22 +161,25 @@
 "tierRationale": "Re-graded C on a global pass (rank 643 of 1170, score 27). 4 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D2.",
 "timeline": [
 {
+"claimTier": 1,
 "date": "1977",
+"grade": null,
 "id": "tl-intl-1977-gepan",
 "label": "GEPAN created inside CNES",
 "precision": "year",
 "strand": "program",
-"text": "The French national space agency establishes GEPAN under Claude Poher with the authority of director general Yves Sillard - the world's first and still only permanent civilian government UAP office with a public case archive. The Gendarmerie Nationale routes sighting reports to it by teletype.",
-"tier": 1
+"text": "The French national space agency establishes GEPAN under Claude Poher with the authority of director general Yves Sillard - the world's first and still only permanent civilian government UAP office with a public case archive. The Gendarmerie Nationale routes sighting reports to it by teletype."
 },
 {
+"claimTier": 1,
 "date": "1978-06",
+"grade": null,
 "id": "tl-intl-1978-gepan-report",
 "label": "GEPAN's classified five-volume report",
 "precision": "month",
 "strand": "program",
-"text": "GEPAN reports to its scientific council in five volumes and about 500 pages, limited to 120 or 140 copies and secret. Of eleven high-strangeness cases studied by four-person teams including psychologists, ten were concluded to be material phenomena not explicable as natural or human. A document in the US NSA's declassified UFO collection assesses that its method makes 'the bulk of the Condon Report seem very poor by comparison'.",
-"tier": 1
+"text": "GEPAN reports to its scientific council in five volumes and about 500 pages, limited to 120 or 140 copies and secret. Of eleven high-strangeness cases studied by four-person teams including psychologists, ten were concluded to be material phenomena not explicable as natural or human. A document in the US NSA's declassified UFO collection assesses that its method makes 'the bulk of the Condon Report seem very poor by comparison'."
 }
-]
+],
+"unverified": []
 }

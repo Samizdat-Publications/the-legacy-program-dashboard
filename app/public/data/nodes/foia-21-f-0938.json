@@ -22,6 +22,7 @@
 ],
 "cls": "document",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -51,10 +52,7 @@
 "deg": 1,
 "denials": [],
 "desc": "A DoD Public Affairs FOIA release, posted in the Department's own reading room, containing Luis Elizondo's correspondence with Pentagon spokesperson Susan Gough. It includes his letter of 3 June 2020 opening 'Ms. Gough, My name is Luis D. Elizondo, and I am a former...' and stating that she had released a statement claiming he had 'no assigned duties in the AATIP program' when 'the truth, as everyone involved in the program knows, is that I ran the program.' He notes that she had initially claimed 'Neither AATIP nor AAWSAP were UAP related', later corrected that, and never corrected the statement about him; that the Navy had publicly acknowledged his involvement; that a predecessor named Sherwood had indicated the Department would issue a statement exonerating him; and that a DoD Press Secretary had verified in 2017 that he was an OUSD(I) staff member. A further letter of 5 June 2019 emphasises his active role through his departure in October 2017 and references attached substantiating documentation, which the Department did not release. The Department's own reading room therefore hosts the most detailed public rebuttal of the Department's own position.",
-"domains": [
-"_rs-archive-mirror",
-"elizondo-ttsa"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "3",
@@ -65,10 +63,15 @@
 "hl": null,
 "id": "foia-21-f-0938",
 "l0": false,
-"label": "OSD FOIA Case 21-F-0938 — Elizondo/Gough correspondence",
+"label": "OSD FOIA Case 21-F-0938 - Elizondo/Gough correspondence",
 "locLabel": null,
 "members": null,
-"short": "OSD FOIA Case 21-F-0938 — Elizondo/Gough correspondence",
+"openQuestions": [],
+"short": "OSD FOIA Case 21-F-0938 - Elizondo/Gough correspondence",
+"sourceFiles": [
+"_rs-archive-mirror",
+"elizondo-ttsa"
+],
 "sources": [
 {
 "date": "2026-02-01",
@@ -83,25 +86,28 @@
 ],
 "sub": "DoD Public Affairs email release",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 680 of 1170, score 25). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 678 of 1170, score 25). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2019-06-05",
+"grade": "A",
 "id": "tl-2019-06-05-letter",
 "label": "Elizondo writes to DoD Public Affairs",
 "precision": "day",
 "strand": "witness",
-"text": "His 'final effort to avoid seeing this unfortunate situation escalate', with attached substantiating documents the Department did not release.",
-"tier": "A"
+"text": "His 'final effort to avoid seeing this unfortunate situation escalate', with attached substantiating documents the Department did not release."
 },
 {
+"claimTier": null,
 "date": "2020-06-03",
+"grade": "A",
 "id": "tl-2020-06-03-elizondo-gough",
 "label": "'The truth... is that I ran the program'",
 "precision": "day",
 "strand": "witness",
-"text": "Elizondo writes to Susan Gough noting she corrected the AATIP/UAP statement but never the statement about him. The letter sits in the Department's own FOIA reading room.",
-"tier": "A"
+"text": "Elizondo writes to Susan Gough noting she corrected the AATIP/UAP statement but never the statement about him. The letter sits in the Department's own FOIA reading room."
 }
-]
+],
+"unverified": []
 }

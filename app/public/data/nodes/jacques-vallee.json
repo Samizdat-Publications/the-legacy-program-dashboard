@@ -343,8 +343,11 @@
 "deg": 9,
 "denials": [],
 "domains": [
-"history-1970s-2000s",
-"scientists-technical"
+"d-research",
+"d-exotic",
+"d-materials",
+"d-custody",
+"d-legacy"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -365,6 +368,10 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Jacques F. Vallee",
+"sourceFiles": [
+"history-1970s-2000s",
+"scientists-technical"
+],
 "sources": [
 {
 "date": "2025-10-25",
@@ -410,7 +417,7 @@
 "status": "active",
 "sub": "Computer scientist and venture capitalist; ARPANET engineer; NIDS advisory board; materials-analysis researcher",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 300 of 1170, score 39). 9 connections, 0 of them custody/funding/programmatic. Axes C2/A1/D2.",
+"tierRationale": "Re-graded B on a global pass (rank 299 of 1170, score 39). 9 connections, 0 of them custody/funding/programmatic. Axes C2/A1/D2.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": [

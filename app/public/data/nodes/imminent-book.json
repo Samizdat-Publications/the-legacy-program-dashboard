@@ -22,6 +22,7 @@
 ],
 "cls": "document",
 "cluster": "witness",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -72,9 +73,7 @@
 "deg": 2,
 "denials": [],
 "desc": "Elizondo's first book, published 20 August 2024, debuting at number one on the New York Times bestseller list. Its most important attribute is not its contents but its clearance status: Elizondo testified under oath on 13 November 2024 that 'I submitted for my book, through the DOPSR process, which took a year for it to be reviewed, and what is in the book is what I was told I am allowed to talk about.' That makes the manuscript a document the Department of Defense read, redacted and released. Its claims — including recovery of non-human biologics, a decades-long retrieval and exploitation effort, and a culture of suppression aimed at those who speak — therefore passed a Departmental prepublication review that exists precisely to strike classified content. The Department's public response has been that it 'has not found any verifiable evidence that any UAP observation represented extraterrestrial activity', which is a statement about verification, not about what the review permitted to print.",
-"domains": [
-"elizondo-ttsa"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "3",
@@ -88,7 +87,11 @@
 "label": "Imminent: Inside the Pentagon's Hunt for UFOs",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Imminent: Inside the Pentagon's Hunt for UFOs",
+"sourceFiles": [
+"elizondo-ttsa"
+],
 "sources": [
 {
 "date": "2024-11-13",
@@ -103,16 +106,18 @@
 ],
 "sub": "Luis Elizondo, William Morrow/HarperCollins, August 2024; DOPSR-cleared",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 538 of 1170, score 30). 2 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 532 of 1170, score 30). 2 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2024-08-20",
+"grade": "A",
 "id": "tl-2024-08-20-imminent",
 "label": "Imminent published after a year of DOPSR review",
 "precision": "day",
 "strand": "witness",
-"text": "Elizondo's memoir debuts at number one on the New York Times bestseller list. He later testifies that 'what is in the book is what I was told I am allowed to talk about'.",
-"tier": "A"
+"text": "Elizondo's memoir debuts at number one on the New York Times bestseller list. He later testifies that 'what is in the book is what I was told I am allowed to talk about'."
 }
-]
+],
+"unverified": []
 }

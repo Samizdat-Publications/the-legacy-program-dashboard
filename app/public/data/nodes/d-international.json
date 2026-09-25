@@ -22,6 +22,7 @@
 ],
 "cls": "domain",
 "cluster": "other",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -93,10 +94,7 @@
 "deg": 3,
 "denials": [],
 "desc": "Other governments have made admissions the United States has not, and the comparison is one of the board's most useful instruments because it establishes what an official programme looks like when it is not concealed. France has run GEIPAN, a publicly funded investigative unit inside the national space agency CNES at Toulouse, since 1977 - with a published classification scheme, published statistics and a case archive open to the public, of which the category for cases that remain unexplained after full investigation is the operative one. Brazil transferred its military UFO files to the Arquivo Nacional, making them citizen-accessible, and its 1986 air force incident is documented in that archive. Chile's air force ran CEFAA under named officers who spoke on the record. The comparative point is decisive: none of these disclosures produced the harms the American concealment argument depends on, which shifts the burden onto the party claiming that only the United States cannot afford transparency. The allied-intelligence complication is real too - a programme shared under bilateral arrangements is protected by originator control, giving every partner a veto over release. Scoring high on this domain means an entity ran, opened or is bound by a foreign programme.",
-"domains": [
-"_stubs",
-"w2-taxonomy"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "1",
@@ -110,7 +108,12 @@
 "label": "International & Allied Programs",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "International & Allied Programs",
+"sourceFiles": [
+"_stubs",
+"w2-taxonomy"
+],
 "sources": [
 {
 "date": "2026-03-31",
@@ -145,6 +148,7 @@
 ],
 "sub": "Comparative domain - what other states have admitted, and what their disclosures imply about ours",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 699 of 1170, score 25). 3 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D2.",
-"timeline": []
+"tierRationale": "Re-graded C on a global pass (rank 698 of 1170, score 25). 3 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D2.",
+"timeline": [],
+"unverified": []
 }

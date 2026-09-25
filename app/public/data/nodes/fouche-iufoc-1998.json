@@ -37,6 +37,9 @@
 ],
 "cls": "document",
 "cluster": "witness",
+"conflicts": [
+"The document gives the operational craft 600 feet at slide 69 and 300 feet at slide 70."
+],
 "connections": [
 {
 "claimTier": 1,
@@ -108,9 +111,7 @@
 "deg": 3,
 "denials": [],
 "desc": "This is the dated artefact of the claim and the anchor of the whole cluster, in the role that scott-sorensen-notes-1990 plays for arv-fluxliner. It is a 62 page speaking script, written for delivery, with slide cues in the form 'SLIDE 70: TR-3B prototype Top Secret Flying Triangle' and page rules running from -2- to -62-. Its first four lines are 'Presentation to IUFOR by / Edgar Rothshild Fouche / Copyright Aug. 1998 / Fouche Media Associates', and both the abbreviation and the author's middle name are misspelled in that header. It opens as a live address: 'GOOD AFTERNOON: My mother once told me that I was going to Hell if I didn't change my ways. Judging from the heat outside, I'd say I'm not too far from there.' It states its own purpose at slide 5 and names the book it was given to promote: 'I'm here to speak about Secret Government Technology, reverse engineering of Alien Artifacts, and the Top Secret MJ-12 committee, which I write about in my new book, Alien Rapture - The Chosen, with my co-author Brad Steiger.' Everything the world believes about the TR-3B is downstream of slides 69 to 72 of this document, and the document contradicts itself about the craft's size between slide 69 and slide 70. The PDF opened was produced on 13 January 2014 with PDF-XChange and carries no title and no author in its metadata; it has a genuine text layer and was read in full.",
-"domains": [
-"tr3b-2026-09-18"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "1",
@@ -124,7 +125,11 @@
 "label": "Fouche's presentation transcript, August 1998",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Fouche's presentation transcript, August 1998",
+"sourceFiles": [
+"tr3b-2026-09-18"
+],
 "sources": [
 {
 "date": "1998-08",
@@ -144,25 +149,31 @@
 ],
 "sub": "62 page slide-cued speaking script headed 'Copyright Aug. 1998, Fouche Media Associates'; the dated artefact of the TR-3B claim",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 543 of 1170, score 30). 3 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 537 of 1170, score 30). 3 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1998-02-01",
+"grade": "C",
 "id": "tl-1998-02-01-iufoc-7th-convention",
 "label": "The 7th Annual International UFO Congress Convention runs at Laughlin, and Fouche is not on its programme",
 "precision": "day",
 "strand": "witness",
-"text": "A contemporaneous page for the '7th Annual International UFO Congress Convention Film Festival & EBE Awards' gives the dates 'February 1 thru 7, 1998' and the venue 'Gold River Resort, Laughlin, Nevada', and lists 24 speakers by name. Edgar Fouche is not among them. His own transcript is dated August 1998 and his own text says he spoke at Laughlin 'in August', which the Congress's separate summer sessions make consistent rather than contradictory, but no contemporaneous record placing him on any podium in 1998 was opened.",
-"tier": "C"
+"text": "A contemporaneous page for the '7th Annual International UFO Congress Convention Film Festival & EBE Awards' gives the dates 'February 1 thru 7, 1998' and the venue 'Gold River Resort, Laughlin, Nevada', and lists 24 speakers by name. Edgar Fouche is not among them. His own transcript is dated August 1998 and his own text says he spoke at Laughlin 'in August', which the Congress's separate summer sessions make consistent rather than contradictory, but no contemporaneous record placing him on any podium in 1998 was opened."
 },
 {
+"claimTier": null,
 "date": "1998-08",
+"grade": "B",
 "id": "tl-1998-08-fouche-presentation",
 "label": "THE ANCHOR: the presentation transcript that originates the TR-3B",
 "precision": "month",
 "strand": "witness",
-"text": "A 62 page slide-cued speaking script headed 'Presentation to IUFOR by / Edgar Rothshild Fouche / Copyright Aug. 1998 / Fouche Media Associates'. Slide 5 names the book it was given to promote. Slides 69 to 72 give the TR-3B its designation and code name Astra, attribute it to 'the Top Secret, Aurora Program with SDI and black budget monies', name the NRO, NSA and CIA as funders and taskers, name Sandia and Livermore as developers of the propulsion, specify a mercury-based plasma 'at a temperature of 150 degrees Kelvin', and give the operational craft two different sizes two slides apart, 600 feet at slide 69 and 300 feet at slide 70.",
-"tier": "B"
+"text": "A 62 page slide-cued speaking script headed 'Presentation to IUFOR by / Edgar Rothshild Fouche / Copyright Aug. 1998 / Fouche Media Associates'. Slide 5 names the book it was given to promote. Slides 69 to 72 give the TR-3B its designation and code name Astra, attribute it to 'the Top Secret, Aurora Program with SDI and black budget monies', name the NRO, NSA and CIA as funders and taskers, name Sandia and Livermore as developers of the propulsion, specify a mercury-based plasma 'at a temperature of 150 degrees Kelvin', and give the operational craft two different sizes two slides apart, 600 feet at slide 69 and 300 feet at slide 70."
 }
+],
+"unverified": [
+"That this script was ever delivered from a podium. The contemporaneous programme for the 7th Annual International UFO Congress Convention gives 1 to 7 February 1998 at the Gold River Resort, Laughlin, Nevada, and lists 24 speakers, none of whom is Fouche. The document's own header says August 1998 and the International UFO Congress ran summer sessions separately from its February convention, so August is consistent rather than contradictory, but no programme, report, ticket or press notice for any 1998 event naming Fouche was opened. The node's label says 'presentation transcript' rather than 'the talk' for that reason.",
+"Whether the PDF has been altered since 2014. It carries a PDF-XChange creation date of 13 January 2014, is not signed or hashed anywhere, and was retrieved live on 18 September 2026. No earlier capture was compared against it."
 ]
 }

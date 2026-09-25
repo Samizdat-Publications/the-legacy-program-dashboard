@@ -79,7 +79,8 @@
 "deg": 1,
 "denials": [],
 "domains": [
-"primes-custody"
+"d-custody",
+"d-coverup"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -100,6 +101,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Glenn Gaffney",
+"sourceFiles": [
+"primes-custody"
+],
 "sources": [
 {
 "date": "2024-12-13",
@@ -130,7 +134,7 @@
 "status": "former",
 "sub": "Former senior CIA science and technology official; named in sworn testimony as a gatekeeper",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 625 of 1170, score 27). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D0.",
+"tierRationale": "Re-graded C on a global pass (rank 622 of 1170, score 27). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D0.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": [

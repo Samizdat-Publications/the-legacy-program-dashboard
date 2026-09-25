@@ -125,8 +125,8 @@
 "deg": 3,
 "denials": [],
 "domains": [
-"w16-thin-people",
-"w2-retrieval-literature"
+"d-recovery",
+"d-witness"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -147,6 +147,10 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Gerald Anderson",
+"sourceFiles": [
+"w16-thin-people",
+"w2-retrieval-literature"
+],
 "sources": [
 {
 "date": "2026-08-25",
@@ -162,16 +166,17 @@
 "status": "resolved",
 "sub": "Claimed first-hand child witness, Plains of San Agustin, 1947",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 809 of 1170, score 21). 3 connections, 0 of them custody/funding/programmatic. Axes C2/A0/D0.",
+"tierRationale": "Re-graded C on a global pass (rank 810 of 1170, score 21). 3 connections, 0 of them custody/funding/programmatic. Axes C2/A0/D0.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1992",
+"grade": "A",
 "id": "tl-1992-san-agustin",
 "label": "The Plains of San Agustin Controversy",
 "precision": "year",
 "strand": "witness",
-"text": "Mark Rodeghier of CUFOS and Fred Whiting of the Fund for UFO Research publish an investigation concluding against Gerald Anderson, the only claimed first-hand witness to the second 1947 crash site. The field audits its own star witness and publishes against interest.",
-"tier": "A"
+"text": "Mark Rodeghier of CUFOS and Fred Whiting of the Fund for UFO Research publish an investigation concluding against Gerald Anderson, the only claimed first-hand witness to the second 1947 crash site. The field audits its own star witness and publishes against interest."
 }
 ],
 "unexplainedResidual": null,

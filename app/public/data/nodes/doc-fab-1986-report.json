@@ -22,6 +22,7 @@
 ],
 "cls": "document",
 "cluster": "legacy",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -160,9 +161,7 @@
 "deg": 5,
 "denials": [],
 "desc": "An eight-page document on Ministério da Aeronáutica letterhead, stamped CONFIDENCIAL on every page, addressed by the Commander of the Air Defence Air Command to the Commander General of the Air, dated Brasília-DF, 2 June 1986, signed by Brigadeiro do Ar José Pessoa Cavalcanti de Albuquerque as acting commander COMDA/NuCOMDABRA, and annexed with a Relatório de Ocorrências. It is scanned and served publicly by the Brazilian National Archives under reference BR_DFANBSB_ARX_0_0_0249 and was declassified on 25 September 2009, twenty-three years after the minister of aeronautics promised a full dossier within thirty days. Its section IV, Considerações Finais, is the operative text: it lists six behavioural characteristics observed and then states the Command's own opinion that the phenomena are solid and reflect a form of intelligence. It also praises the response posture, noting that each engaged air unit maintained an alert aircraft at 45 minutes' readiness and that within under thirty minutes of activation armed vectors were available. It is a document in which a national air defence command tells its own chain of command, in writing and under classification, that it has tracked solid, intelligently behaving unidentified objects that outran supersonic interceptors.",
-"domains": [
-"w2-international"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "1",
@@ -176,7 +175,11 @@
 "label": "Relatório de Ocorrências, Comando Aéreo de Defesa Aérea, 2 June 1986 (Arquivo Nacional BR_DFANBSB_ARX_0_0_0249)",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Relatório de Ocorrências, Comando Aéreo de Defesa Aérea, 2 June 1986 (Arquivo Nacional BR_DFANBSB_ARX_0_0_0249)",
+"sourceFiles": [
+"w2-international"
+],
 "sources": [
 {
 "date": "1986-06-02",
@@ -191,16 +194,18 @@
 ],
 "sub": "CONFIDENCIAL Brazilian Air Defence Command report; declassified 25 September 2009",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 327 of 1170, score 38). 5 connections, 3 of them custody/funding/programmatic. Axes C1/A2/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 325 of 1170, score 38). 5 connections, 3 of them custody/funding/programmatic. Axes C1/A2/D3.",
 "timeline": [
 {
+"claimTier": 1,
 "date": "1986-06-02",
+"grade": null,
 "id": "tl-intl-1986-report",
 "label": "Brazilian Air Defence Command records solid, intelligent objects",
 "precision": "day",
 "strand": "program",
-"text": "Brigadier José Pessoa Cavalcanti de Albuquerque signs a CONFIDENCIAL Relatório de Ocorrências concluding that 'the phenomena are solid and reflect in a certain manner intelligence, by the capacity to follow and to maintain distance from observers as well as to fly in formation, not necessarily crewed'. It stays classified for twenty-three years.",
-"tier": 1
+"text": "Brigadier José Pessoa Cavalcanti de Albuquerque signs a CONFIDENCIAL Relatório de Ocorrências concluding that 'the phenomena are solid and reflect in a certain manner intelligence, by the capacity to follow and to maintain distance from observers as well as to fly in formation, not necessarily crewed'. It stays classified for twenty-three years."
 }
-]
+],
+"unverified": []
 }

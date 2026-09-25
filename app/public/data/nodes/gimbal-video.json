@@ -17,6 +17,7 @@
 ],
 "cls": "document",
 "cluster": "witness",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -51,10 +52,7 @@
 "deg": 1,
 "denials": [],
 "desc": "One of two January 2015 ATFLIR recordings from the Atlantic operating areas that the Department of Defense formally released on 27 April 2020 as authentic and 'unidentified.' GIMBAL is the video in which the object appears to rotate about its own axis while tracking against the wind, and in which aircrew audio records the crews' own reaction. It comes out of the same operating environment and the same period as Ryan Graves's VFA-11 encounters off Virginia Beach, and the same month as the Fleet Forces Command 'URGENT SAFETY OF FLIGHT ISSUE' message that Tim Gallaudet testified was recalled from all recipients' accounts within a day. AARO's public case work at the 19 November 2024 SASC hearing addressed GO FAST, Aguadilla and Mt Etna; the released case slides do not include a GIMBAL assessment. The video's status is therefore unchanged since April 2020: authenticated by the Department, unexplained by it.",
-"domains": [
-"_rs-archive-mirror",
-"aviators-incidents"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "2",
@@ -68,7 +66,12 @@
 "label": "GIMBAL (Navy ATFLIR video, January 2015)",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "GIMBAL (Navy ATFLIR video, January 2015)",
+"sourceFiles": [
+"_rs-archive-mirror",
+"aviators-incidents"
+],
 "sources": [
 {
 "date": "2026-08-02",
@@ -96,13 +99,15 @@
 "tierRationale": "Re-graded C on a global pass (rank 744 of 1170, score 23). 1 connections, 1 of them custody/funding/programmatic. Axes C1/A1/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2015-01-01",
+"grade": "A",
 "id": "av-2015-01-gimbal",
 "label": "GIMBAL and GO FAST recorded",
 "precision": "month",
 "strand": "program",
-"text": "Two ATFLIR recordings are made in the Atlantic operating areas; both are formally released by DoD five years later as authentic and unidentified.",
-"tier": "A"
+"text": "Two ATFLIR recordings are made in the Atlantic operating areas; both are formally released by DoD five years later as authentic and unidentified."
 }
-]
+],
+"unverified": []
 }

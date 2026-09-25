@@ -32,6 +32,7 @@
 ],
 "cls": "program",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -233,9 +234,7 @@
 "deg": 8,
 "denials": [],
 "desc": "The Sky Canada Project is the Government of Canada's first formal engagement with UAP since 1995. Led by the Office of the Chief Science Advisor, it published a preliminary report in January 2025 and its full fifty-nine-page report, 'Management of Public Reporting of Unidentified Aerial Phenomena in Canada', in June 2025. The project was, in its own words, 'spurred by increased public interest and recent developments in other countries, particularly the United States, where formal procedures for addressing UAP sightings are in development' - which makes it a documented downstream effect of the American disclosure wave on an allied government. Its findings are an indictment of fragmentation rather than of concealment: reports are scattered across federal and non-governmental bodies; most departments do not compile what they receive; the RCMP has no UAP classification at all and logs such calls as non-offence incidents under the Aeronautics Act or as 'suspicious vehicle'; witnesses rarely get a follow-up; and there is no official platform for Canadians to report or to obtain explanations, which the report says 'contributes to the proliferation of misinformation and disinformation'. Its international survey concludes that only the United States, France and Chile provide 'interesting examples of coordinated, transparent, and scientifically driven approaches'. Its recommendations amount to building a Canadian GEIPAN.",
-"domains": [
-"w2-international"
-],
+"domains": [],
 "dossier": {
 "claims": [
 {
@@ -394,7 +393,11 @@
 "tier": "C"
 }
 ],
+"openQuestions": [],
 "short": "Sky Canada Project",
+"sourceFiles": [
+"w2-international"
+],
 "sources": [
 {
 "date": "2025-06-01",
@@ -409,16 +412,18 @@
 ],
 "sub": "Canadian federal review of public UAP reporting, 2022-2025",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 572 of 1170, score 29). 8 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 571 of 1170, score 29). 8 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.",
 "timeline": [
 {
+"claimTier": 1,
 "date": "2025-06",
+"grade": null,
 "id": "tl-intl-2025-sky",
 "label": "Canada's Sky Canada Project reports",
 "precision": "month",
 "strand": "oversight",
-"text": "The Office of the Chief Science Advisor of Canada publishes 'Management of Public Reporting of Unidentified Aerial Phenomena in Canada', recommending that a federal lead be identified and a dedicated service established to collect testimony, investigate and publish, and that Canada partner with AARO and NASA, GEIPAN and SEFAA. It is the first G7 report of the 2020s to name which foreign arrangements it would copy.",
-"tier": 1
+"text": "The Office of the Chief Science Advisor of Canada publishes 'Management of Public Reporting of Unidentified Aerial Phenomena in Canada', recommending that a federal lead be identified and a dedicated service established to collect testimony, investigate and publish, and that Canada partner with AARO and NASA, GEIPAN and SEFAA. It is the first G7 report of the 2020s to name which foreign arrangements it would copy."
 }
-]
+],
+"unverified": []
 }

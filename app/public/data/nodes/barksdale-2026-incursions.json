@@ -32,6 +32,7 @@
 ],
 "cls": "event",
 "cluster": "witness",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -113,9 +114,7 @@
 "deg": 3,
 "denials": [],
 "desc": "In the week of 9 March 2026, Barksdale Air Force Base in Louisiana - a B-52 bomber base - reported waves of 12 to 15 drones over sensitive areas including the flight line, raised force protection to FPCON Charlie and issued a shelter-in-place order by text alert. Capt. Hunter Rininger, the base's chief of public affairs, confirmed that 'Earlier this morning, Barksdale Air Force Base received a report of an unmanned aerial system operating over the installation' and that the FAA and local authorities were assisting. The context is what makes this the most serious entry in the 2026 record: the incursions followed the launch of Operation Epic Fury, the US bombing campaign against Iran flown by B-52, B-1 and B-2 aircraft, and the drones displayed non-commercial signal characteristics and resistance to jamming, with flight patterns suggesting operators were testing security responses. Only one Anduril counter-drone fly-away kit was deployed at the time. Gen. Gregory Guillot confirmed detections over military installations had increased from the previous year, with roughly a quarter now defeated versus almost none before. The official line of December 2024 - hobbyists and misidentified stars - does not survive contact with jam-resistant swarms probing a nuclear-capable bomber base during a shooting war.",
-"domains": [
-"aviators-incidents"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "3",
@@ -129,7 +128,11 @@
 "label": "Barksdale AFB and Strategic Base Incursions (Feb-Mar 2026)",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Barksdale AFB and Strategic Base Incursions (Feb-Mar 2026)",
+"sourceFiles": [
+"aviators-incidents"
+],
 "sources": [
 {
 "date": "2026-03-09",
@@ -144,16 +147,18 @@
 ],
 "sub": "Drone waves over nuclear-capable bomber bases after Operation Epic Fury",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 685 of 1170, score 25). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 684 of 1170, score 25). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D2.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2026-03-09",
+"grade": "A",
 "id": "av-2026-03-09",
 "label": "Barksdale raises FPCON Charlie",
 "precision": "day",
 "strand": "witness",
-"text": "A B-52 base issues a shelter-in-place order after drone reports over the installation; waves of 12-15 jam-resistant drones are later reported over the flight line, following the launch of Operation Epic Fury.",
-"tier": "A"
+"text": "A B-52 base issues a shelter-in-place order after drone reports over the installation; waves of 12-15 jam-resistant drones are later reported over the flight line, following the launch of Operation Epic Fury."
 }
-]
+],
+"unverified": []
 }

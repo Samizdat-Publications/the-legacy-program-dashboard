@@ -122,7 +122,8 @@
 "deg": 3,
 "denials": [],
 "domains": [
-"w2-retrieval-literature"
+"d-recovery",
+"d-witness"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -143,6 +144,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Stan Gordon",
+"sourceFiles": [
+"w2-retrieval-literature"
+],
 "sources": [
 {
 "date": "2026-08-12",

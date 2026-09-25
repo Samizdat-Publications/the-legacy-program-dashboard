@@ -27,6 +27,7 @@
 ],
 "cls": "institution",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -108,9 +109,7 @@
 "deg": 3,
 "denials": [],
 "desc": "The joint interagency task force the Department stood up in August 2025, directed by Brig. Gen. Matt Ross, to handle unmanned aircraft incursions over US installations after two years in which no existing command could stop them. Its creation is the institutional concession that the 2023-2024 incursions were a real, persistent, unattributed operational problem rather than a public-misperception problem. The Department of Defense Inspector General's report DODIG-2026-045, dated 21 January 2026, evaluated ten installations that had experienced drone incursions and interviewed officials from 31 DoD components and four federal agencies, finding inconsistent policies and approval processes, unclear designation of 'covered' facilities under federal law leaving some installations without counter-drone authority, and approval requirements that delayed deployment of systems bases already possessed. Nine days later, on 30 January 2026, the Department issued guidance removing the 'fence-line' limitation on commanders' response authority, defining 'unauthorized surveillance' as an explicit threat, and granting 'totality of circumstances' discretion. Restricted-airspace sightings had risen 26 percent in 2025.",
-"domains": [
-"aviators-incidents"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "3",
@@ -124,7 +123,11 @@
 "label": "Joint Interagency Task Force 401 (JIATF-401)",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Joint Interagency Task Force 401 (JIATF-401)",
+"sourceFiles": [
+"aviators-incidents"
+],
 "sources": [
 {
 "date": "2026-01-30",
@@ -137,40 +140,45 @@
 "tierRationale": "Re-graded C on a global pass (rank 785 of 1170, score 22). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D1.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2025-08-01",
+"grade": "A",
 "id": "av-2025-08-01",
 "label": "JIATF-401 established",
 "precision": "month",
 "strand": "program",
-"text": "The Department stands up Joint Interagency Task Force 401 under Brig. Gen. Matt Ross to handle drone incursions over US installations.",
-"tier": "A"
+"text": "The Department stands up Joint Interagency Task Force 401 under Brig. Gen. Matt Ross to handle drone incursions over US installations."
 },
 {
+"claimTier": null,
 "date": "2025-12-31",
+"grade": "B",
 "id": "av-2025-trend",
 "label": "Restricted-airspace sightings up 26 percent",
 "precision": "year",
 "strand": "program",
-"text": "Drone sightings in restricted airspace rose 26 percent during 2025.",
-"tier": "B"
+"text": "Drone sightings in restricted airspace rose 26 percent during 2025."
 },
 {
+"claimTier": null,
 "date": "2026-01-21",
+"grade": "A",
 "id": "av-2026-01-21",
 "label": "DODIG-2026-045 issued",
 "precision": "day",
 "strand": "oversight",
-"text": "The DoD Inspector General evaluates ten installations with drone incursions and 31 DoD components, finding inconsistent policies, unclear 'covered facility' designations and approval processes that delayed counter-drone deployment.",
-"tier": "A"
+"text": "The DoD Inspector General evaluates ten installations with drone incursions and 31 DoD components, finding inconsistent policies, unclear 'covered facility' designations and approval processes that delayed counter-drone deployment."
 },
 {
+"claimTier": null,
 "date": "2026-01-30",
+"grade": "A",
 "id": "av-2026-01-30",
 "label": "Base commanders' authorities expanded",
 "precision": "day",
 "strand": "program",
-"text": "Updated guidance removes the fence-line limitation, defines unauthorized surveillance as an explicit threat and grants commanders 'totality of circumstances' discretion.",
-"tier": "A"
+"text": "Updated guidance removes the fence-line limitation, defines unauthorized surveillance as an explicit threat and grants commanders 'totality of circumstances' discretion."
 }
-]
+],
+"unverified": []
 }

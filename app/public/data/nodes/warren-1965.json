@@ -22,6 +22,7 @@
 ],
 "cls": "event",
 "cluster": "witness",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -51,9 +52,7 @@
 "deg": 1,
 "denials": [],
 "desc": "THE EARLIEST EPISODE IN THIS CLUSTER AND THE ONE WITH THE MOST ORTHODOX PROVENANCE. In the earliest hours of 1 August 1965, personnel at F. E. Warren Air Force Base near Cheyenne, Wyoming, including the base commander, telephoned Project Blue Book at Wright-Patterson AFB to report objects over the Warren Minuteman missile sites. Lt. Anspaugh fielded and logged the calls between about 0130 and 0440: Capt. Snelling of the Air Force command post reporting a large circular object emitting several colours but no sound over the city; Col. Johnson, the base commander; Col. Williams, commanding officer of the Sioux Army Depot at Sidney, Nebraska; and Capt. Howell. The sites named include E Site, G Flight, Quebec Flight, H-2 and B-4. What distinguishes this episode from most of this cluster is the route by which it reached the public: not through a researcher's interview programme but through Blue Book's own scientific consultant, Dr J. Allen Hynek, who published the memorandum summarising the calls in his 1972 book. That publication is the dated artefact.",
-"domains": [
-"nuclear-witnesses-2026-09-19"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -67,7 +66,11 @@
 "label": "F. E. Warren AFB sightings, 1 August 1965",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "F. E. Warren AFB sightings, 1 August 1965",
+"sourceFiles": [
+"nuclear-witnesses-2026-09-19"
+],
 "sources": [
 {
 "date": "1965-08-01",
@@ -82,16 +85,21 @@
 ],
 "sub": "Reports over the Warren Minuteman complex logged by Project Blue Book between 0130 and 0440, including calls from the base commander",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 854 of 1170, score 20). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 856 of 1170, score 20). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D2.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1965-08-01",
+"grade": "B",
 "id": "tl-1965-08-01-warren-bluebook-log",
 "label": "Project Blue Book logs calls from the F. E. Warren base commander",
 "precision": "day",
 "strand": "witness",
-"text": "Between about 0130 and 0440 on 1 August 1965, Lt. Anspaugh at Project Blue Book fielded and logged telephone calls from F. E. Warren AFB reporting objects over the Warren Minuteman complex, including calls from Capt. Snelling of the Air Force command post, Col. Johnson the base commander, Col. Williams commanding the Sioux Army Depot at Sidney, Nebraska, and Capt. Howell. Sites named include E Site, G Flight, Quebec Flight, H-2 and B-4. The memorandum summarising the calls was published by J. Allen Hynek in 1972.",
-"tier": "B"
+"text": "Between about 0130 and 0440 on 1 August 1965, Lt. Anspaugh at Project Blue Book fielded and logged telephone calls from F. E. Warren AFB reporting objects over the Warren Minuteman complex, including calls from Capt. Snelling of the Air Force command post, Col. Johnson the base commander, Col. Williams commanding the Sioux Army Depot at Sidney, Nebraska, and Capt. Howell. Sites named include E Site, G Flight, Quebec Flight, H-2 and B-4. The memorandum summarising the calls was published by J. Allen Hynek in 1972."
 }
+],
+"unverified": [
+"The Blue Book telephone log itself, in facsimile. NOT OPENED. It is quoted here from a mirror of Robert Hastings's material, which traces it to Hynek's 1972 book, which was also not opened.",
+"Robert Hastings states he publishes F. E. Warren AFB documents dated 1 August 1965 in facsimile; those were not opened."
 ]
 }

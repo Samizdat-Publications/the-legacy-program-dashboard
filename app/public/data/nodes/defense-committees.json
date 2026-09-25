@@ -37,19 +37,25 @@
 ],
 "cls": "institution",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
 "cls": "legislation",
 "dateEnd": null,
-"dateStart": "1996-02-10",
+"dateStart": null,
 "direction": "in",
-"edgeLabel": "Reports run to six named congressional bodies and no others",
+"edgeLabel": "119(g) defines who must be told",
 "id": "usc-10-119",
 "l0": true,
-"label": "10 U.S.C. 119 — Special Access Programs: Congressional Oversight",
+"label": "10 U.S.C. 119 - Special Access Programs: Congressional Oversight",
 "note": "119(g) enumerates SASC, Senate Appropriations and its Defense Subcommittee, HASC, House Appropriations and its Subcommittee on Defense.",
 "sources": [
+{
+"date": null,
+"name": "https://www.govinfo.gov/content/pkg/USCODE-2023-title10/html/USCODE-2023-title10-subtitleA-partI-chap2-sec119.htm",
+"url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title10/html/USCODE-2023-title10-subtitleA-partI-chap2-sec119.htm"
+},
 {
 "date": "2026-08-12",
 "name": "10 U.S.C. 119",
@@ -65,10 +71,10 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
-"edgeLabel": "119(g) defines who must be told",
+"edgeLabel": "defines the term for this section",
 "id": "usc-10-119",
 "l0": true,
-"label": "10 U.S.C. 119 — Special Access Programs: Congressional Oversight",
+"label": "10 U.S.C. 119 - Special Access Programs: Congressional Oversight",
 "note": "10 U.S.C. 119(g) defines 'defense committees' for this section as six bodies: '(1) the Committee on Armed Services and the Committee on Appropriations, and the Defense Subcommittee of the Committee on Appropriations, of the Senate; and (2) the Committee on Armed Services and the Committee on Appropriations, and the Subcommittee on Defense of the Committee on Appropriations, of the House of Representatives.' Six bodies, chairman and ranking minority member of each, is where the board's twelve seats come from. Read directly from the OLRC text on 22 August 2026, which confirms the count independently of the earlier reading recorded in the L0 notes.",
 "sources": [
 {
@@ -89,7 +95,7 @@
 "edgeLabel": "Waiver narrows the audience to chairman and ranking minority member of each defense committee",
 "id": "usc-10-119e",
 "l0": false,
-"label": "10 U.S.C. 119(e) — Waiver of SAP Reporting (the 'waived SAP' authority)",
+"label": "10 U.S.C. 119(e) - Waiver of SAP Reporting (the 'waived SAP' authority)",
 "note": "119(e)(2) directs the waived information and its justification 'jointly to the chairman and ranking minority member of each of the defense committees'.",
 "sources": [
 {
@@ -108,10 +114,7 @@
 "deg": 2,
 "denials": [],
 "desc": "Section 119(g) defines the term that governs who gets told. As amended by Public Law 104-106 in 1996, Public Law 106-65 in 1999 and Public Law 107-107 in 2001, it means '(1) the Committee on Armed Services and the Committee on Appropriations, and the Defense Subcommittee of the Committee on Appropriations, of the Senate; and (2) the Committee on Armed Services and the Committee on Appropriations, and the Subcommittee on Defense of the Committee on Appropriations, of the House of Representatives.' The definition is the reason the SAP record is structurally invisible to the rest of Congress: the House Oversight Committee, which has held every public UAP hearing since 26 July 2023, is not a defense committee and has no statutory entitlement to the section 119 reports. Neither are the intelligence committees; they sit under a wholly separate regime in title 50. Before 1996 the definition was broader in one respect and narrower in another - the prior text referred simply to 'the Committees on Armed Services and Appropriations of the Senate and House' and 'the Defense Subcommittees of the Committees on Appropriations'. The 1996 amendment made the enumeration explicit. The practical consequence for this board: a member of Congress who is not on one of these six bodies and not on an intelligence committee has no lawful route to a SAP list at all, which is precisely the wall the 2023-2026 UAP oversight effort has repeatedly hit.",
-"domains": [
-"_rs-sap-docs",
-"w2-sap-architecture"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "1",
@@ -125,7 +128,12 @@
 "label": "The defense committees (10 U.S.C. 119(g))",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "The defense committees (10 U.S.C. 119(g))",
+"sourceFiles": [
+"_rs-sap-docs",
+"w2-sap-architecture"
+],
 "sources": [
 {
 "date": "2024-01-05",
@@ -140,6 +148,7 @@
 ],
 "sub": "congressional",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 407 of 1170, score 34). 3 connections, 1 of them custody/funding/programmatic. Axes C0/A2/D3.",
-"timeline": []
+"tierRationale": "Re-graded B on a global pass (rank 410 of 1170, score 34). 3 connections, 1 of them custody/funding/programmatic. Axes C0/A2/D3.",
+"timeline": [],
+"unverified": []
 }

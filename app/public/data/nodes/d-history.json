@@ -22,6 +22,7 @@
 ],
 "cls": "domain",
 "cluster": "research",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -56,10 +57,7 @@
 "deg": 1,
 "denials": [],
 "desc": "The history of this subject is unusual in that its primary sources were almost entirely recovered by private citizens rather than by institutions, and that fact shapes everything downstream. The official corpus - Project Sign, Project Grudge, Project Blue Book, the 1953 Robertson Panel, the 1968 Condon Report, the 1997 Haines article, the 2024 AARO historical record report - is thin, internally inconsistent and repeatedly revised. The unofficial corpus, built by FOIA requesters and archivists over five decades, is far larger, and the whole discipline therefore depends on distinguishing between a document a government chose to release and a document a citizen forced it to release. AARO's own Volume I is a historiographical act as much as an investigative one: it reconstructs the record of USG UAP investigatory programmes since 1945 and assesses interviewee claims against it, which makes its scope choices - which programmes it examined, which it did not - the most consequential thing in it. Scoring high on this domain means an entity built, curated or reshaped the documentary record itself.",
-"domains": [
-"_rs-archive-mirror",
-"w2-taxonomy"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -73,7 +71,12 @@
 "label": "Historiography",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Historiography",
+"sourceFiles": [
+"_rs-archive-mirror",
+"w2-taxonomy"
+],
 "sources": [
 {
 "date": "2026-05-08",
@@ -106,13 +109,15 @@
 "tierRationale": "Re-graded C on a global pass (rank 1022 of 1170, score 14). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.",
 "timeline": [
 {
+"claimTier": 1,
 "date": "1968-11-01",
+"grade": null,
 "id": "tx-1968-condon",
 "label": "The Condon Report closes the official file",
 "precision": "month",
 "strand": "oversight",
-"text": "The University of Colorado study directed by Edward Condon publishes 'Scientific Study of Unidentified Flying Objects', including Martin Altschuler's chapter on atmospheric electricity and plasma interpretations. Project Blue Book is terminated the following year, ending official American investigation for the next four decades.",
-"tier": 1
+"text": "The University of Colorado study directed by Edward Condon publishes 'Scientific Study of Unidentified Flying Objects', including Martin Altschuler's chapter on atmospheric electricity and plasma interpretations. Project Blue Book is terminated the following year, ending official American investigation for the next four decades."
 }
-]
+],
+"unverified": []
 }

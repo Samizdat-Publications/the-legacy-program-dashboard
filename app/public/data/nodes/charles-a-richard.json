@@ -75,7 +75,8 @@
 "deg": 1,
 "denials": [],
 "domains": [
-"ffrdcs"
+"d-ffrdc",
+"d-ic"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -96,6 +97,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Charles A. Richard",
+"sourceFiles": [
+"ffrdcs"
+],
 "sources": [
 {
 "date": "2026-08-12",

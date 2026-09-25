@@ -12,6 +12,7 @@
 ],
 "cls": "institution",
 "cluster": "ic",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -104,9 +105,7 @@
 "deg": 4,
 "denials": [],
 "desc": "NASIC is the Air Force's foreign air and space capability analysis center, headquartered at Wright-Patterson AFB - the same installation at the center of every legacy custody allegation from 1947 forward, and the successor lineage to the Air Technical Intelligence Center that ran Project Sign, Grudge and Blue Book. Its relevance to the Grusch node is that a serving Top Secret-cleared NASIC intelligence officer, under the name Jonathan Grey, went on the record in the 5 June 2023 Debrief article to state that the non-human intelligence phenomenon is real and that retrievals are not limited to the United States. That an officer at this specific installation would corroborate, and would corroborate only under a pseudonym, is the single most geographically pointed data point in the article.",
-"domains": [
-"grusch"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -120,7 +119,11 @@
 "label": "National Air and Space Intelligence Center",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "National Air and Space Intelligence Center",
+"sourceFiles": [
+"grusch"
+],
 "sources": [
 {
 "date": "2023-06-05",
@@ -130,6 +133,7 @@
 ],
 "sub": "USAF intelligence center, Wright-Patterson AFB",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 689 of 1170, score 25). 4 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D1.",
-"timeline": []
+"tierRationale": "Re-graded C on a global pass (rank 688 of 1170, score 25). 4 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D1.",
+"timeline": [],
+"unverified": []
 }

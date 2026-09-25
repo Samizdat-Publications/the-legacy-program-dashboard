@@ -22,6 +22,7 @@
 ],
 "cls": "domain",
 "cluster": "research",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -77,9 +78,7 @@
 "deg": 2,
 "denials": [],
 "desc": "This is the domain where the board is most exposed and must be most disciplined. The claim - that the phenomenon interacts with observers, that experiencer accounts include a cognitive or precognitive component, and that this is a property of the phenomenon rather than of the witness - is not supportable from primary documents, and the board records it as a research direction rather than a finding. What is documented is that the government funded work in this space and kept funding it: the Star Gate anomalous cognition programme ran under federal contract from 1972 to 1995, and the AAWSAP reference documents commissioned by DIA in 2008-2010 include studies of field effects on human neurological tissue by Christopher Green, a former CIA analyst. The reason the domain will not close is that multiple independent principal investigators with clearances - Puthoff, Green, Vallée - moved between the psychic research programmes of the 1970s and the aerospace programmes of the 2000s, carrying the framing with them. That continuity is a documented fact about personnel even where the underlying claim is not documented at all. Scoring high on this domain means an entity advanced, funded or institutionalised this framing.",
-"domains": [
-"w2-taxonomy"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "1",
@@ -93,7 +92,11 @@
 "label": "Consciousness & Observer Effects",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Consciousness & Observer Effects",
+"sourceFiles": [
+"w2-taxonomy"
+],
 "sources": [
 {
 "date": "2026-08-12",
@@ -113,6 +116,7 @@
 ],
 "sub": "Contested domain - the claim that observation and intention are coupled to the phenomenon",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 860 of 1170, score 20). 2 connections, 1 of them custody/funding/programmatic. Axes C0/A2/D1.",
-"timeline": []
+"tierRationale": "Re-graded C on a global pass (rank 862 of 1170, score 20). 2 connections, 1 of them custody/funding/programmatic. Axes C0/A2/D1.",
+"timeline": [],
+"unverified": []
 }

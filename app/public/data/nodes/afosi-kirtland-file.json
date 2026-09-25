@@ -32,6 +32,7 @@
 ],
 "cls": "document",
 "cluster": "other",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -176,11 +177,7 @@
 "deg": 4,
 "denials": [],
 "desc": "The AFOSI file generated at Kirtland Air Force Base beginning in 1980 is the documentary spine of the Bennewitz affair. Its central record - a complaint-form entry dated 10 November 1980 - documents that Kirtland security police observed unexplained aerial objects over the Coyote Canyon and Manzano Weapons Storage Area, the nuclear-weapons storage complex on the base's eastern edge, and notes the reporting and photographic activity of the Albuquerque physicist Paul Bennewitz. The file matters for two independent reasons. First, it is an official Air Force counterintelligence concession that unidentified objects were seen over a nuclear weapons storage site in 1980, eleven years after the Air Force publicly stopped investigating such things. Second, it is the entry point of an operation: the agent associated with the file, Richard Doty, subsequently supplied Bennewitz with fabricated material, showed a purported classified briefing paper to the documentary producer Linda Moulton Howe, and was linked to the channel through which the MJ-12 material reached Bill Moore and Jaime Shandera. The file has never been the subject of any published official review. AARO's 2024 Historical Record Report Volume I does not mention Kirtland, AFOSI, Bennewitz or Doty.",
-"domains": [
-"_rs-archive-mirror",
-"dulce-2026-09-19",
-"history-1970s-2000s"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": {
 "desc": "The Bennewitz operation is the only place in this domain where the state's method is documented rather than inferred, and it is worth setting out the sequence precisely. 1979: Paul Bennewitz, a physicist running a USAF-supplying instrumentation company on the eastern edge of Kirtland AFB, begins recording lights and electronic emissions over the Manzano Weapons Storage Area and reports them, in writing, to the Air Force. 10 November 1980: AFOSI generates a record confirming that Kirtland security police have themselves observed unexplained aerial objects in the Coyote Canyon area and noting Bennewitz's activity. That document is the concession. From 1981: rather than investigate its own security police reports, AFOSI - through Special Agent Richard Doty and the civilian researcher Bill Moore - begins supplying Bennewitz with fabricated material about underground alien bases, treaties and biological experimentation, tailored to what he already half-believed. April 1983: Doty runs a parallel operation on a broadcaster, showing Linda Moulton Howe a paper she may read but not copy and promising film that never comes. December 1984: an anonymous film arrives in Los Angeles postmarked Albuquerque, producing the MJ-12 documents. 1988: Bennewitz is hospitalised. July 1989: Moore stands up at a MUFON conference and admits the whole thing. What was protected? Not the truth about aliens; the operation's own content was fiction. The thing protected was whatever was actually generating unexplained objects over a nuclear weapons storage complex - the thing AFOSI's own 10 November 1980 document conceded was happening and which no released record shows anyone ever investigated. Forty-six years later, AARO's historical review does not mention any of it.",
@@ -218,7 +215,13 @@
 "label": "AFOSI Kirtland AFB UFO File (1980-1983)",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "AFOSI Kirtland AFB UFO File (1980-1983)",
+"sourceFiles": [
+"_rs-archive-mirror",
+"dulce-2026-09-19",
+"history-1970s-2000s"
+],
 "sources": [
 {
 "date": "2026-07-05",
@@ -248,25 +251,28 @@
 ],
 "sub": "Air Force Office of Special Investigations records, District 17",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 217 of 1170, score 44). 6 connections, 2 of them custody/funding/programmatic. Axes C2/A2/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 214 of 1170, score 44). 6 connections, 2 of them custody/funding/programmatic. Axes C2/A2/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1980-09",
+"grade": "B",
 "id": "tl-1980-09-afosi-form",
 "label": "AFOSI complaint form filed, District File No. 8017D93-0/29, SA Richard C Doty",
 "precision": "month",
 "strand": "witness",
-"text": "The form carries AFOSI Det 1700, Kirtland AFB, New Mexico, the district file number and 'Richard C Doty, SA' on its face. THIS IS THE TIER 1 SOURCE FOR DOTY'S AFOSI SERVICE and needs no interview to support it. The board's existing claim dates the form 9 September 1980; the NICAP page as rendered gives '2-9 Sept 80'; the discrepancy is unresolved.",
-"tier": "B"
+"text": "The form carries AFOSI Det 1700, Kirtland AFB, New Mexico, the district file number and 'Richard C Doty, SA' on its face. THIS IS THE TIER 1 SOURCE FOR DOTY'S AFOSI SERVICE and needs no interview to support it. The board's existing claim dates the form 9 September 1980; the NICAP page as rendered gives '2-9 Sept 80'; the discrepancy is unresolved."
 },
 {
+"claimTier": null,
 "date": "1980-11-10",
+"grade": "A",
 "id": "t-1980-kirtland",
 "label": "AFOSI Kirtland record on Coyote Canyon",
 "precision": "day",
 "strand": "coverup",
-"text": "An AFOSI document records Kirtland AFB security police observing unexplained aerial objects over the Coyote Canyon / Manzano Weapons Storage Area, and notes Paul Bennewitz's reporting and photography.",
-"tier": "A"
+"text": "An AFOSI document records Kirtland AFB security police observing unexplained aerial objects over the Coyote Canyon / Manzano Weapons Storage Area, and notes Paul Bennewitz's reporting and photography."
 }
-]
+],
+"unverified": []
 }

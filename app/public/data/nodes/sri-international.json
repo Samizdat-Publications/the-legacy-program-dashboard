@@ -17,6 +17,7 @@
 ],
 "cls": "institution",
 "cluster": "ffrdc",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -176,9 +177,7 @@
 "deg": 6,
 "denials": [],
 "desc": "SRI was the private vehicle through which the United States ran a compartmented human-intelligence-collection experiment for nearly two decades without acknowledging it. Spun out of Stanford University, SRI held large volumes of classified defence work; from 1972 its Radio Physics Laboratory hosted Harold Puthoff and Russell Targ's psychoenergetics programme, funded initially by CIA's Office of Technical Service and later by Army INSCOM and DIA under successive codenames. The arrangement is the archetype this board tracks: a nonprofit research institute with a security apparatus, a government sponsor with deniability, published open-literature output where convenient (Nature, October 1974) and a classified programme record that took until 1995 to declassify. When the programme was finally exposed to independent evaluation and terminated, the personnel did not leave the field - Puthoff went on to the Institute for Advanced Studies at Austin, then NIDS, then BAASS, then To The Stars Academy. SRI is where the template of government-funded, privately-housed, unacknowledged anomalous research was proven to work.",
-"domains": [
-"history-1970s-2000s"
-],
+"domains": [],
 "dossier": {
 "claims": [
 {
@@ -236,7 +235,11 @@
 "label": "SRI International (Stanford Research Institute)",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "SRI International (Stanford Research Institute)",
+"sourceFiles": [
+"history-1970s-2000s"
+],
 "sources": [
 {
 "date": "1974-10-18",
@@ -256,16 +259,18 @@
 ],
 "sub": "Independent nonprofit research institute; host of the CIA/DIA psychoenergetics programme 1972-1990",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 389 of 1170, score 35). 6 connections, 2 of them custody/funding/programmatic. Axes C1/A3/D2.",
+"tierRationale": "Re-graded B on a global pass (rank 391 of 1170, score 35). 6 connections, 2 of them custody/funding/programmatic. Axes C1/A3/D2.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1972-01-01",
+"grade": "A",
 "id": "t-1972-sri",
 "label": "CIA funds SRI psychoenergetics",
 "precision": "year",
 "strand": "program",
-"text": "Harold Puthoff and Russell Targ begin CIA-funded remote-viewing research at Stanford Research Institute - the start of a 23-year compartmented programme in a publicly ridiculed domain.",
-"tier": "A"
+"text": "Harold Puthoff and Russell Targ begin CIA-funded remote-viewing research at Stanford Research Institute - the start of a 23-year compartmented programme in a publicly ridiculed domain."
 }
-]
+],
+"unverified": []
 }

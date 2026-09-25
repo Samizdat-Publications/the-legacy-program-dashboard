@@ -32,6 +32,7 @@
 ],
 "cls": "institution",
 "cluster": "ic",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -166,6 +167,14 @@
 "deg": 5,
 "denials": [
 {
+"a": {
+"id": "dhs",
+"label": "United States Department of Homeland Security"
+},
+"b": {
+"id": "kona-blue",
+"label": "KONA BLUE"
+},
 "by": {
 "id": "dhs",
 "label": "United States Department of Homeland Security"
@@ -187,6 +196,14 @@
 ]
 },
 {
+"a": {
+"id": "dhs",
+"label": "United States Department of Homeland Security"
+},
+"b": {
+"id": "nara-uap-collection",
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection"
+},
 "by": {
 "id": "dhs",
 "label": "United States Department of Homeland Security"
@@ -209,10 +226,7 @@
 }
 ],
 "desc": "DHS was established in 2002, 'combining 22 different federal departments and agencies into a unified, integrated Cabinet agency' with more than 260,000 employees, and its Office of Intelligence and Analysis is a full element of the Intelligence Community. For most of its existence DHS had no visible role in the UAP question. That changed with the declassification of KONA BLUE. According to the joint AARO/DHS paper 'History and Origin of KONA BLUE', KONA BLUE was 'a Prospective Special Access Program (PSAP) that had been proposed to DHS leadership but was never approved or formally established'; in 2011 the DHS Under Secretary for Science and Technology established KONA BLUE as a PSAP, and approximately six months later the DHS Deputy Secretary disapproved and terminated it. AARO's Historical Record Report Volume I states that after DIA cancelled AAWSAP/AATIP in 2012 'its supporters proposed to DHS that they create and fund a new version' to 'restart UAP investigations, paranormal research (including alleged human consciousness anomalies) and reverse-engineer any recovered off-world spacecraft', that interviewees claimed KONA BLUE 'was a sensitive DHS compartment to cover up the retrieval and exploitation of non-human biologics', and that 'Senators Lieberman and Reid asked that the PSAP be established with the promise of additional funding'. AARO's reading is that KONA BLUE proves the recovery narrative was a proposal that got rejected; the opposite reading, which the same document supports, is that a compartment to hold recovered non-human material was requested at Under Secretary level, formally stood up as a prospective program, and killed only when it reached the Deputy Secretary. DHS is also, per AARO, one of the three special access program control office enterprises - DoD, IC and DHS - with which AARO says it partnered to review named programs.",
-"domains": [
-"_rs-archive-mirror",
-"w2-agencies"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "2",
@@ -226,7 +240,12 @@
 "label": "United States Department of Homeland Security",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "United States Department of Homeland Security",
+"sourceFiles": [
+"_rs-archive-mirror",
+"w2-agencies"
+],
 "sources": [
 {
 "date": "2026-05-08",
@@ -259,13 +278,15 @@
 "tierRationale": "Re-graded A on a global pass (rank 134 of 1170, score 54). 6 connections, 2 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C2/A3/D2.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2011-07-01",
+"grade": "A",
 "id": "ag-tl-2011-kbkill",
 "label": "DHS Deputy Secretary terminates KONA BLUE",
 "precision": "ranged",
 "strand": "program",
-"text": "Approximately six months after it is established, the Deputy Secretary disapproves the prospective program. Neither the establishing nor the terminating official is named in the released paper.",
-"tier": "A"
+"text": "Approximately six months after it is established, the Deputy Secretary disapproves the prospective program. Neither the establishing nor the terminating official is named in the released paper."
 }
-]
+],
+"unverified": []
 }

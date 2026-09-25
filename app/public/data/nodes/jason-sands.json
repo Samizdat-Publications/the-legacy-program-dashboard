@@ -42,9 +42,7 @@
 "dateStart": null,
 "deg": 0,
 "denials": [],
-"domains": [
-"witnesses-2026-09-18"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "nd",
@@ -64,6 +62,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Jason Sands",
+"sourceFiles": [
+"witnesses-2026-09-18"
+],
 "sources": [
 {
 "date": "2024-05-13",

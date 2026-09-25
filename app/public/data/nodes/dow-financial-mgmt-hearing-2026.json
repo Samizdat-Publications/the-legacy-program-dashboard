@@ -27,6 +27,7 @@
 ],
 "cls": "event",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -77,10 +78,7 @@
 "deg": 2,
 "denials": [],
 "desc": "On 13 May 2026 the House Committee on Oversight and Government Reform held a hearing titled 'DoW Financial Management: Examining Progress and New Audit Approaches'. Brett A. Mansfield, Deputy Inspector General of the Department of War, testified. His oral statement, published by the Office of Inspector General ten days later, put on the congressional record that unsupported adjustments totalled 'over $859 billion in the last two quarters of FY 25', that the Department manages more than $4.7 trillion in assets, that material weaknesses had fallen from twenty-eight to twenty-six, and that auditors issued 427 fewer Notices of Findings and Recommendations than in prior years. He also disclosed two forward-looking structural changes: consolidation of the Department's stand-alone reporting entities from twenty-two to seven in fiscal year 2027, and transfer of the group auditor role to an independent public accounting firm with the Office of Inspector General retaining oversight. This is the same committee - House Oversight - before whose National Security subcommittee David Grusch testified on 26 July 2023. The committee that heard the allegation that money was moved outside congressional oversight is the committee that, thirty-four months later, was told the Department could not document $859 billion of adjustments in six months. Nothing in the public record connects the two proceedings.",
-"domains": [
-"_rs-archive-mirror",
-"w2-black-budget"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "3",
@@ -94,7 +92,12 @@
 "label": "House Oversight hearing: 'DoW Financial Management: Examining Progress and New Audit Approaches' (13 May 2026)",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "House Oversight hearing: 'DoW Financial Management: Examining Progress and New Audit Approaches' (13 May 2026)",
+"sourceFiles": [
+"_rs-archive-mirror",
+"w2-black-budget"
+],
 "sources": [
 {
 "date": "2026-05-22",
@@ -119,16 +122,18 @@
 ],
 "sub": "The most recent congressional examination of the Department's inability to account for its money",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 849 of 1170, score 20). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 850 of 1170, score 20). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2026-05-13",
+"grade": "A",
 "id": "bb-tl-2026-05-13-hearing",
 "label": "Deputy IG testifies to House Oversight on the $859 billion",
 "precision": "day",
 "strand": "oversight",
-"text": "Brett A. Mansfield tells the House Committee on Oversight and Government Reform that unsupported adjustments exceeded $859 billion in two quarters, that the Department manages more than $4.7 trillion in assets, and that reporting entities will consolidate from twenty-two to seven in FY2027 with an independent public accounting firm taking the group auditor role. It is the same committee that heard David Grusch in July 2023.",
-"tier": "A"
+"text": "Brett A. Mansfield tells the House Committee on Oversight and Government Reform that unsupported adjustments exceeded $859 billion in two quarters, that the Department manages more than $4.7 trillion in assets, and that reporting entities will consolidate from twenty-two to seven in FY2027 with an independent public accounting firm taking the group auditor role. It is the same committee that heard David Grusch in July 2023."
 }
-]
+],
+"unverified": []
 }

@@ -101,8 +101,7 @@
 "deg": 2,
 "denials": [],
 "domains": [
-"media-structure",
-"w13-thin-people"
+"d-media"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -123,6 +122,10 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Bryce Zabel",
+"sourceFiles": [
+"media-structure",
+"w13-thin-people"
+],
 "sources": [
 {
 "date": "2026-08-12",
@@ -146,13 +149,14 @@
 "tierRationale": "Re-graded C on a global pass (rank 969 of 1170, score 16). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1996-01-01",
+"grade": "C",
 "id": "ms-1996-darkskies",
 "label": "Dark Skies airs",
 "precision": "year",
 "strand": "coverup",
-"text": "Bryce Zabel creates and showruns Dark Skies, a prime-time dramatisation of a Majestic-12-style control group - a dateable marker of how long the control-group narrative has been in mass circulation.",
-"tier": "C"
+"text": "Bryce Zabel creates and showruns Dark Skies, a prime-time dramatisation of a Majestic-12-style control group - a dateable marker of how long the control-group narrative has been in mass circulation."
 }
 ],
 "unexplainedResidual": null,

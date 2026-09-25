@@ -187,6 +187,14 @@
 "deg": 4,
 "denials": [
 {
+"a": {
+"id": "otavio-moreira-lima",
+"label": "Brigadeiro Octávio Júlio Moreira Lima"
+},
+"b": {
+"id": "ev-noite-ovnis-1986",
+"label": "Noite Oficial dos OVNIs - the Brazilian 'Night of the UFOs', 19 May 1986"
+},
 "by": {
 "id": "otavio-moreira-lima",
 "label": "Brigadeiro Octávio Júlio Moreira Lima"
@@ -209,7 +217,8 @@
 }
 ],
 "domains": [
-"w2-international"
+"d-international",
+"d-disclosure"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -230,6 +239,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Brigadeiro Octávio Júlio Moreira Lima",
+"sourceFiles": [
+"w2-international"
+],
 "sources": [
 {
 "date": "2022-01-14",
@@ -245,16 +257,17 @@
 "status": "dead",
 "sub": "Minister of Aeronautics of Brazil; held the 23 May 1986 'Night of the UFOs' press conference",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 521 of 1170, score 30). 4 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 519 of 1170, score 30). 4 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D3.",
 "timeline": [
 {
+"claimTier": 2,
 "date": "1986-05-23",
+"grade": null,
 "id": "tl-intl-1986-presser",
 "label": "Moreira Lima's press conference",
 "precision": "day",
 "strand": "coverup",
-"text": "At 16:30 the Brazilian Minister of Aeronautics convenes the press with the five intercept pilots and the air traffic controllers and says: 'It is not a question of believing or not believing. We can only give technical information. There are several hypotheses. Technically, I would tell you gentlemen that we have no explanation.' He promises a full dossier within thirty days. It never appears.",
-"tier": 2
+"text": "At 16:30 the Brazilian Minister of Aeronautics convenes the press with the five intercept pilots and the air traffic controllers and says: 'It is not a question of believing or not believing. We can only give technical information. There are several hypotheses. Technically, I would tell you gentlemen that we have no explanation.' He promises a full dossier within thirty days. It never appears."
 }
 ],
 "unexplainedResidual": null,

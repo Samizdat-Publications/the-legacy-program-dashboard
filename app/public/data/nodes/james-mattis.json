@@ -93,7 +93,8 @@
 "deg": 2,
 "denials": [],
 "domains": [
-"elizondo-ttsa"
+"d-coverup",
+"d-oversight"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -114,6 +115,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "James N. Mattis",
+"sourceFiles": [
+"elizondo-ttsa"
+],
 "sources": [
 {
 "date": "2017-12-16",

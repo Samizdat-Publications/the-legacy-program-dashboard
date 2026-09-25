@@ -124,6 +124,14 @@
 "deg": 3,
 "denials": [
 {
+"a": {
+"id": "tal-levesque",
+"label": "Tal Levesque (Jason Bishop III)"
+},
+"b": {
+"id": "thomas-castello",
+"label": "Thomas Edwin Castello (fabricated)"
+},
 "by": {
 "id": "tal-levesque",
 "label": "Tal Levesque (Jason Bishop III)"
@@ -150,9 +158,7 @@
 ]
 }
 ],
-"domains": [
-"dulce-2026-09-19"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "nd",
@@ -172,6 +178,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Thomas Edwin Castello (fabricated)",
+"sourceFiles": [
+"dulce-2026-09-19"
+],
 "sources": [
 {
 "date": "2024-04-02",
@@ -200,22 +209,24 @@
 "tierRationale": "Re-graded C on a global pass (rank 902 of 1170, score 18). 3 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D0.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2015-11",
+"grade": "B",
 "id": "tl-2015-11-levesque-confession",
 "label": "THE CONFESSION: 'TEC (Thomas Edwin Castello) is a creation. A MYTH'",
 "precision": "month",
 "strand": "witness",
-"text": "Tal Levesque, who wrote as Jason Bishop III and authored the two original Dulce Base articles, told Adam Gorightly by email that Castello was his own invention, described composing the articles from an account by a woman he names as Ann West mixed with his own research, and described mailing a hundred large envelope packets of supporting material to authors and lecturers 'who then mixed it into their talks, articles and books'. The single most important dated item in this cluster, and the board's cleanest worked example of manufactured corroboration.",
-"tier": "B"
+"text": "Tal Levesque, who wrote as Jason Bishop III and authored the two original Dulce Base articles, told Adam Gorightly by email that Castello was his own invention, described composing the articles from an account by a woman he names as Ann West mixed with his own research, and described mailing a hundred large envelope packets of supporting material to authors and lecturers 'who then mixed it into their talks, articles and books'. The single most important dated item in this cluster, and the board's cleanest worked example of manufactured corroboration."
 },
 {
+"claimTier": null,
 "date": "2016-04-01",
+"grade": "B",
 "id": "tl-2016-04-01-greenewald-photo",
 "label": "Greenewald traces the Dulce photograph to the film The 6th Day",
 "precision": "day",
 "strand": "witness",
-"text": "The photograph of bodies in a chamber, circulated for years as Castello's leaked proof, is a frame from the 2000 feature film: it 'is, in fact, a verifiable hoax', and 'You can see that the position of the bodies, inside the chamber, are a match.' In the same case file: 'There is no evidence that I have found, that shows that Thomas Costello even exists.'",
-"tier": "B"
+"text": "The photograph of bodies in a chamber, circulated for years as Castello's leaked proof, is a frame from the 2000 feature film: it 'is, in fact, a verifiable hoax', and 'You can see that the position of the bodies, inside the chamber, are a match.' In the same case file: 'There is no evidence that I have found, that shows that Thomas Costello even exists.'"
 }
 ],
 "unexplainedResidual": null,

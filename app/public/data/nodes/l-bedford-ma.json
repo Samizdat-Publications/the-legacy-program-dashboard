@@ -12,6 +12,7 @@
 ],
 "cls": "location",
 "cluster": "ffrdc",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -56,9 +57,7 @@
 "deg": 1,
 "denials": [],
 "desc": "MITRE's original home and one of its two headquarters, adjacent to Hanscom Air Force Base and a short distance from MIT Lincoln Laboratory in Lexington. The corporation was created here in July 1958 when Robert Everett and 485 Lincoln Laboratory staff moved across to continue SAGE systems engineering under Air Force sponsorship rather than university administration. The Bedford campus is the physical expression of the founding transaction that this domain turns on: an operational engineering authority being lifted out of a university and placed inside a permanent nonprofit answerable to a military customer.",
-"domains": [
-"ffrdcs"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -72,7 +71,11 @@
 "label": "Bedford, Massachusetts",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Bedford, Massachusetts",
+"sourceFiles": [
+"ffrdcs"
+],
 "sources": [
 {
 "date": "2026-08-12",
@@ -83,5 +86,6 @@
 "sub": "MITRE's Massachusetts headquarters, adjacent to Hanscom AFB",
 "tier": "C",
 "tierRationale": "Re-graded C on a global pass (rank 1098 of 1170, score 11). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D0.",
-"timeline": []
+"timeline": [],
+"unverified": []
 }

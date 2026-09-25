@@ -97,8 +97,8 @@
 {
 "claimTier": 1,
 "cls": "program",
-"dateEnd": null,
-"dateStart": null,
+"dateEnd": "2021",
+"dateStart": "2021",
 "direction": "out",
 "edgeLabel": "directed establishment of AOIMSG, 23 November 2021",
 "id": "aoimsg",
@@ -122,8 +122,8 @@
 "deg": 3,
 "denials": [],
 "domains": [
-"_rs-archive-mirror",
-"uaptf-aaro"
+"d-oversight",
+"d-coverup"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -144,6 +144,10 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Kathleen H. Hicks",
+"sourceFiles": [
+"_rs-archive-mirror",
+"uaptf-aaro"
+],
 "sources": [
 {
 "date": "2026-06-09",
@@ -169,16 +173,17 @@
 "status": "former",
 "sub": "Deputy Secretary of Defense (2021-2025); signed AOIMSG and AARO establishment memoranda",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 702 of 1170, score 24). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A3/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 701 of 1170, score 24). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A3/D2.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2023-07-31",
+"grade": "A",
 "id": "tl-hicks-2023-07-31",
 "label": "Hicks takes direct oversight of AARO",
 "precision": "day",
 "strand": "program",
-"text": "Days after Grusch testifies, the Deputy Secretary pulls AARO out of the USD(I&S) chain; its director now reports directly to her.",
-"tier": "A"
+"text": "Days after Grusch testifies, the Deputy Secretary pulls AARO out of the USD(I&S) chain; its director now reports directly to her."
 }
 ],
 "unexplainedResidual": null,

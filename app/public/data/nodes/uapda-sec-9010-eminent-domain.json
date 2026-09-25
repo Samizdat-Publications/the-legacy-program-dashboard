@@ -47,6 +47,7 @@
 ],
 "cls": "document",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -57,7 +58,7 @@
 "edgeLabel": "Two independent Senate routes at the same private holdings",
 "id": "iaa-fy2024-sec-1102",
 "l0": true,
-"label": "IAA FY2024 Sec. 1102 — contractor turn-in of 'non-earth origin or exotic' UAP material",
+"label": "IAA FY2024 Sec. 1102 - contractor turn-in of 'non-earth origin or exotic' UAP material",
 "note": "Sec. 9010 takes the material by condemnation; Sec. 1102 compels its surrender by cutting off contract funding and granting immunity. Both passed the Senate on 27 July 2023; both were removed.",
 "sources": [
 {
@@ -141,11 +142,32 @@
 "id": "uapda-2023",
 "l0": true,
 "label": "UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)",
-"note": "Section 9010(a) of Division G is the eminent domain command; it is the only provision in the Act that reaches physical material rather than records.",
+"note": "Sec. 9010 of Division G, S. 2226 engrossed in the Senate.",
 "sources": [
 {
 "date": "2023-07-27",
 "name": "S. 2226, 118th Congress, Engrossed in Senate (BILLS-118s2226es) - contains DIVISION G, UAP Disclosure Act of 2023, secs. 9001-9015",
+"url": "https://www.govinfo.gov/content/pkg/BILLS-118s2226es/html/BILLS-118s2226es.htm"
+}
+],
+"tier": "A",
+"type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "legislation",
+"dateEnd": "2023",
+"dateStart": "2023",
+"direction": "in",
+"edgeLabel": "Sec. 9010 is the operative seizure provision of the Act",
+"id": "uapda-2023",
+"l0": true,
+"label": "UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)",
+"note": "Section 9010(a) of Division G is the eminent domain command; it is the only provision in the Act that reaches physical material rather than records.",
+"sources": [
+{
+"date": "2023-07-27",
+"name": "S. 2226 (Engrossed in Senate) — GPO",
 "url": "https://www.govinfo.gov/content/pkg/BILLS-118s2226es/html/BILLS-118s2226es.htm"
 }
 ],
@@ -159,6 +181,14 @@
 "deg": 4,
 "denials": [
 {
+"a": {
+"id": "mike-turner",
+"label": "Michael R. Turner"
+},
+"b": {
+"id": "uapda-sec-9010-eminent-domain",
+"label": "Section 9010(a) - Exercise of Eminent Domain"
+},
 "by": {
 "id": "mike-turner",
 "label": "Michael R. Turner"
@@ -169,7 +199,7 @@
 "note": "Daniel Sheehan, who lobbied the conference, states Turner attacked the eminent domain clause and the subpoena power first and demanded both be struck; the enacted text lacks exactly those two things.",
 "of": {
 "id": "uapda-sec-9010-eminent-domain",
-"label": "Section 9010(a) — Exercise of Eminent Domain"
+"label": "Section 9010(a) - Exercise of Eminent Domain"
 },
 "sources": [
 {
@@ -185,18 +215,20 @@
 ]
 },
 {
-"by": {
+"a": {
 "id": "uapda-sec-9010-eminent-domain",
-"label": "Section 9010(a) — Exercise of Eminent Domain"
+"label": "Section 9010(a) - Exercise of Eminent Domain"
 },
+"b": {
+"id": "ndaa-fy2024",
+"label": "FY2024 NDAA, Public Law 118-31 - Div. A, Title XVIII, Subtitle C (secs. 1841-1843), UAP Records Collection; Div. G (IAA FY2024) secs. 7341, 7343"
+},
+"by": null,
 "claimTier": 1,
 "denialKind": "undirected",
 "label": "No enacted statute contains the eminent domain language",
 "note": "P.L. 118-31, P.L. 118-159 and P.L. 119-60 contain zero instances of 'eminent domain' in any UAP provision.",
-"of": {
-"id": "ndaa-fy2024",
-"label": "FY2024 NDAA, Public Law 118-31 - Div. A, Title XVIII, Subtitle C (secs. 1841-1843), UAP Records Collection; Div. G (IAA FY2024) secs. 7341, 7343"
-},
+"of": null,
 "sources": [
 {
 "date": "2023-12-22",
@@ -217,10 +249,7 @@
 }
 ],
 "desc": "The single most important sentence in the modern disclosure record, and a Tier 1 documented fact whose existence does not depend on believing any witness. Section 9010 of Division G of S. 2226, headed 'Disclosure of Recovered Technologies of Unknown Origin and Biological Evidence of Non-Human Intelligence,' opens: 'The Federal Government shall exercise eminent domain over any and all recovered technologies of unknown origin and biological evidence of non-human intelligence that may be controlled by private persons or entities in the interests of the public good.' Subsection (b) requires that 'any and all such material, should it exist, shall be made available to the Review Board for personal examination and subsequent disclosure determination at a location suitable to the controlling authority of said material.' Subsection (c) directs the Board to decide 'whether the material examined constitutes technologies of unknown origin or biological evidence of non-human intelligence beyond a reasonable doubt.' The drafting is careful and revealing in both directions: the hedge 'should it exist' preserves deniability, while 'shall exercise' is mandatory and the taking is aimed exclusively at private holders, not at Government agencies — the Government does not need eminent domain against itself. A chamber of Congress passed this. It was then deleted, and the deletion is the fact that organises this entire domain.",
-"domains": [
-"_rs-legislation",
-"congress-senate-legislation"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": {
 "desc": "Full text as passed by the Senate, 27 July 2023, S. 2226 Division G:\n\nSEC. 9010. DISCLOSURE OF RECOVERED TECHNOLOGIES OF UNKNOWN ORIGIN AND BIOLOGICAL EVIDENCE OF NON-HUMAN INTELLIGENCE.\n(a) Exercise of Eminent Domain.--The Federal Government shall exercise eminent domain over any and all recovered technologies of unknown origin and biological evidence of non-human intelligence that may be controlled by private persons or entities in the interests of the public good.\n(b) Availability to Review Board.--Any and all such material, should it exist, shall be made available to the Review Board for personal examination and subsequent disclosure determination at a location suitable to the controlling authority of said material and in a timely manner conducive to the objectives of the Review Board in accordance with the requirements of this division.\n(c) Actions of Review Board.--In carrying out subsection (b), the Review Board shall consider and render decisions-- (1) whether the material examined constitutes technologies of unknown origin or biological evidence of non-human intelligence beyond a reasonable doubt; (2) whether recovered technologies of unknown origin, biological evidence of non-human intelligence, or a particular subset of material qualifies for postponement of disclosure under this division...",
@@ -240,10 +269,15 @@
 "hl": null,
 "id": "uapda-sec-9010-eminent-domain",
 "l0": false,
-"label": "Section 9010(a) — Exercise of Eminent Domain",
+"label": "Section 9010(a) - Exercise of Eminent Domain",
 "locLabel": null,
 "members": null,
-"short": "Section 9010(a) — Exercise of Eminent Domain",
+"openQuestions": [],
+"short": "Section 9010(a) - Exercise of Eminent Domain",
+"sourceFiles": [
+"_rs-legislation",
+"congress-senate-legislation"
+],
 "sources": [
 {
 "date": "2023-07-27",
@@ -263,6 +297,7 @@
 ],
 "sub": "Statutory text passed by the Senate, 27 July 2023",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 97 of 1170, score 64). 4 connections, 2 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C3/A2/D3.",
-"timeline": []
+"tierRationale": "Re-graded A on a global pass (rank 94 of 1170, score 65). 5 connections, 2 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C3/A2/D3.",
+"timeline": [],
+"unverified": []
 }

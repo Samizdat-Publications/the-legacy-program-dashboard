@@ -85,7 +85,8 @@
 "deg": 1,
 "denials": [],
 "domains": [
-"w2-international"
+"d-international",
+"d-disclosure"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -106,6 +107,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Général Denis Letty",
+"sourceFiles": [
+"w2-international"
+],
 "sources": [
 {
 "date": "1999-07-01",

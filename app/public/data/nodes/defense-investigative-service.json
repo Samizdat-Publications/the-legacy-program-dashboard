@@ -22,6 +22,7 @@
 ],
 "cls": "institution",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -72,9 +73,7 @@
 "deg": 2,
 "denials": [],
 "desc": "The Defense Investigative Service is the body whose absence the board keeps having to explain. It conducted the periodic industrial security inspections of cleared contractor facilities -- including, GAO says in terms, other contracts at Lockheed -- and it was excluded from special access programs by a Department of Defense decision in 1965. GAO's own vocabulary preserves the mechanism: special access contracts are called carve-out contracts 'because they are carved out of the Defense Investigative Service's periodic inspection program'.\n\nTwo GAO findings bracket what that exclusion cost. In February 1983, GAO/GGD-83-43 recommended improvements in DoD oversight of carve-out contracts and DoD refused, on stated grounds including that 'access by Service inspectors would proliferate access beyond the minimum number of persons necessary'. In August 1986, after the Lockheed document-control failure, GAO told the Secretary of Defense that the failure 'may not have occurred if the Defense Investigative Service had been permitted to conduct semiannual inspections of the contract, as it does with other contracts at Lockheed.' The board carries DIS because the argument it makes about custody is not that oversight failed but that oversight was structurally absent, and this is the office that was absent from it.",
-"domains": [
-"legacy-1947-86"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "nd",
@@ -88,7 +87,11 @@
 "label": "Defense Investigative Service",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Defense Investigative Service",
+"sourceFiles": [
+"legacy-1947-86"
+],
 "sources": [
 {
 "date": "1986-07-24",
@@ -104,5 +107,8 @@
 "sub": "DoD industrial security inspectorate; excluded from special access programs by a 1965 decision",
 "tier": "C",
 "tierRationale": "Re-graded C on a global pass (rank 753 of 1170, score 23). 2 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D3.",
-"timeline": []
+"timeline": [],
+"unverified": [
+"DIS's own founding date is NOT carried. The commonly given 1972 was not read off a primary record in this pass, and an unsourced date renders to a reader as an established one, so the field is null rather than guessed. What IS dated here is the thing the node is for: the 1965 exclusion, in GAO's own words. GAO/GGD-83-43 was not opened; it is described only as the 1986 testimony describes it."
+]
 }

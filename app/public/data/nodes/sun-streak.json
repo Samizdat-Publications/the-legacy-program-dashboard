@@ -17,6 +17,7 @@
 ],
 "cls": "program",
 "cluster": "ic",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -72,9 +73,7 @@
 "deg": 2,
 "denials": [],
 "desc": "SUN STREAK was the Defense Intelligence Agency's designation for the remote-viewing effort after it transferred from Army INSCOM to DIA in 1986, becoming STARGATE around 1991 and terminating in 1995 following the American Institutes for Research evaluation commissioned by CIA. The DIA period is the most relevant to this board because it puts the same agency that would later fund AAWSAP in the business of running an unacknowledged programme in a ridiculed domain, with contractor support, twenty years earlier. When DIA's James Lacatski wrote to Robert Bigelow in 2007 and the AAWSAP contract followed in 2008, DIA was not doing something novel. It was doing something it had institutional muscle memory for.",
-"domains": [
-"history-1970s-2000s"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "1",
@@ -88,7 +87,11 @@
 "label": "SUN STREAK",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "SUN STREAK",
+"sourceFiles": [
+"history-1970s-2000s"
+],
 "sources": [
 {
 "date": "2020-12-16",
@@ -106,13 +109,15 @@
 "tierRationale": "Re-graded C on a global pass (rank 752 of 1170, score 23). 2 connections, 2 of them custody/funding/programmatic. Axes C0/A3/D1.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1986-01-01",
+"grade": "B",
 "id": "t-1986-sunstreak",
 "label": "Remote viewing transfers to DIA as SUN STREAK",
 "precision": "year",
 "strand": "program",
-"text": "The programme moves from Army INSCOM to the Defense Intelligence Agency - the same agency that will contract BAASS twenty-two years later.",
-"tier": "B"
+"text": "The programme moves from Army INSCOM to the Defense Intelligence Agency - the same agency that will contract BAASS twenty-two years later."
 }
-]
+],
+"unverified": []
 }

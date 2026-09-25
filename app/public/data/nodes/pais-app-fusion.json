@@ -12,6 +12,7 @@
 ],
 "cls": "document",
 "cluster": "research",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -41,9 +42,7 @@
 "deg": 1,
 "denials": [],
 "desc": "Published application 15/928703, filed 22 March 2018 and published 26 September 2019, assigned to the United States as represented by the Secretary of the Navy. It is the power source the rest of the set implies: the briefing for the inertial mass reduction device asserts commercial potential in energy generation machinery with output far above conventional means, and this is the filing that names that machinery.",
-"domains": [
-"pais-patents"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "3",
@@ -57,7 +56,11 @@
 "label": "US Application 2019/0295733 - Plasma Compression Fusion Device",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "US Application 2019/0295733 - Plasma Compression Fusion Device",
+"sourceFiles": [
+"pais-patents"
+],
 "sources": [
 {
 "date": null,
@@ -68,5 +71,6 @@
 "sub": "Application 15/928703, filed 22 March 2018, published 26 September 2019; assignee the Secretary of the Navy",
 "tier": "C",
 "tierRationale": "Re-graded C on a global pass (rank 1055 of 1170, score 13). 1 connections, 1 of them custody/funding/programmatic. Axes C1/A1/D0.",
-"timeline": []
+"timeline": [],
+"unverified": []
 }

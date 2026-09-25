@@ -22,6 +22,7 @@
 ],
 "cls": "institution",
 "cluster": "contractor",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -119,9 +120,7 @@
 "deg": 4,
 "denials": [],
 "desc": "SAIC is the model for the technical services house that becomes indistinguishable from the agency it serves. Founded in 1969, employee-owned, it built its business on classified analytical and engineering support across DoD and the intelligence community, and by the 1990s held the government's most sensitive anomalous-phenomena research line: the remote viewing effort that began at SRI International moved to SAIC in 1991, where it ran until the CIA-commissioned 1995 assessment ended it. That is a documented instance of a government program in an inherently deniable subject area living inside a private corporation - the pattern this domain is about, executed in the open. SAIC split in 2013, spinning its government services business off as Leidos and retaining the SAIC name for the remainder. USAspending records roughly $52 billion in prime contract obligations to SAIC entities since FY2008. SAIC is named once in the 2023 House Oversight hearing record and has never been alleged by any sworn witness to hold recovered material; its place here is structural, as the demonstrated vehicle by which sensitive government research programs are moved into corporate custody.",
-"domains": [
-"primes-custody"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -135,7 +134,11 @@
 "label": "Science Applications International Corporation",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Science Applications International Corporation",
+"sourceFiles": [
+"primes-custody"
+],
 "sources": [
 {
 "date": "2026-08-12",
@@ -150,6 +153,7 @@
 ],
 "sub": "Employee-owned technical services contractor; inherited the government remote viewing program",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 608 of 1170, score 28). 4 connections, 1 of them custody/funding/programmatic. Axes C1/A3/D1.",
-"timeline": []
+"tierRationale": "Re-graded C on a global pass (rank 603 of 1170, score 28). 4 connections, 1 of them custody/funding/programmatic. Axes C1/A3/D1.",
+"timeline": [],
+"unverified": []
 }

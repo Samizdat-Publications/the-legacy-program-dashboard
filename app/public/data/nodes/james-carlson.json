@@ -88,6 +88,14 @@
 "deg": 2,
 "denials": [
 {
+"a": {
+"id": "james-carlson",
+"label": "James Carlson"
+},
+"b": {
+"id": "malmstrom-oscar-flight-1967",
+"label": "Malmstrom Oscar Flight claim, 24 March 1967"
+},
 "by": {
 "id": "james-carlson",
 "label": "James Carlson"
@@ -114,6 +122,14 @@
 ]
 },
 {
+"a": {
+"id": "james-carlson",
+"label": "James Carlson"
+},
+"b": {
+"id": "robert-salas",
+"label": "Capt. Robert L. Salas"
+},
 "by": {
 "id": "james-carlson",
 "label": "James Carlson"
@@ -136,7 +152,8 @@
 }
 ],
 "domains": [
-"nuclear-witnesses-2026-09-19"
+"d-nuclear",
+"d-witness"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -157,6 +174,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "James Carlson",
+"sourceFiles": [
+"nuclear-witnesses-2026-09-19"
+],
 "sources": [
 {
 "date": "2026-09-19",
@@ -182,7 +202,7 @@
 "status": "alive",
 "sub": "Author and critic of the Malmstrom 1967 UFO account; son of Echo Flight crew commander Capt. Eric D. Carlson",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 712 of 1170, score 24). 2 connections, 0 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C0/A0/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 711 of 1170, score 24). 2 connections, 0 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C0/A0/D2.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": [

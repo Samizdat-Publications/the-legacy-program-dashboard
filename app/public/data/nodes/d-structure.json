@@ -12,6 +12,7 @@
 ],
 "cls": "domain",
 "cluster": "research",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -100,7 +101,7 @@
 "edgeLabel": "the issuance that documents the approval and oversight chain this domain is trying to map",
 "id": "dodi-5205-11",
 "l0": true,
-"label": "DoDI 5205.11 — Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)",
+"label": "DoDI 5205.11 - Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)",
 "note": "DoDI 5205.11 (effective 12 September 2024) sets out the prospective SAP approval sequence in days from establishment, the review bodies (SSWG, Senior Review Group, SAPOC) and the oversight roles. It is the only public document that walks the whole chain end to end, which makes it the domain's primary methodological source rather than merely one of its members.",
 "sources": [
 {
@@ -285,9 +286,7 @@
 "deg": 10,
 "denials": [],
 "desc": "The research domain concerned not with whether a legacy programme exists but with how it is organised: which offices hold it, which corporate forms contain it, which statutes shield it, which appropriations fund it and which individuals sit at the gates. This is the domain UAP Gerb effectively created as a public discipline and that Jesse Michels and Ross Coulthart amplified. Its methodological signature is the use of open organisational records - office symbols, FFRDC charters, acquisition authorities, board memberships, corporate acquisition histories - as the skeleton, with witness testimony used only to populate roles that the skeleton already predicts. That inversion is what distinguishes it from classical ufology and is why it is harder to dismiss: the offices, the FFRDCs and the statutory authorities are all documented and real, and the contested claim concerns their contents rather than their existence.",
-"domains": [
-"media-structure"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "3",
@@ -301,7 +300,11 @@
 "label": "Program structure and organisational mapping",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Program structure and organisational mapping",
+"sourceFiles": [
+"media-structure"
+],
 "sources": [
 {
 "date": "2026-08-12",
@@ -311,6 +314,7 @@
 ],
 "sub": "Research domain",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 953 of 1170, score 17). 10 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.",
-"timeline": []
+"tierRationale": "Re-graded C on a global pass (rank 952 of 1170, score 17). 10 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.",
+"timeline": [],
+"unverified": []
 }

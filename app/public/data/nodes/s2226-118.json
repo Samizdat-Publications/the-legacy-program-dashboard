@@ -17,6 +17,7 @@
 ],
 "cls": "legislation",
 "cluster": "other",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -67,9 +68,7 @@
 "deg": 2,
 "denials": [],
 "desc": "S. 2226, the Senate's National Defense Authorization Act for Fiscal Year 2024. As engrossed in the Senate on 27 July 2023 it carried DIVISION G--UNIDENTIFIED ANOMALOUS PHENOMENA DISCLOSURE (secs. 9001-9015), the full UAP Disclosure Act of 2023. The FY2024 NDAA was ultimately enacted through the House vehicle H.R. 2670 as Public Law 118-31, with Division G reduced to three sections.",
-"domains": [
-"_rs-legislation"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "nd",
@@ -83,7 +82,11 @@
 "label": "S. 2226 (118th Congress) - Senate FY2024 NDAA vehicle for the UAP Disclosure Act",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "S. 2226 (118th Congress) - Senate FY2024 NDAA vehicle for the UAP Disclosure Act",
+"sourceFiles": [
+"_rs-legislation"
+],
 "sources": [
 {
 "date": "2023-07-27",
@@ -101,13 +104,15 @@
 "tierRationale": "Re-graded C on a global pass (rank 1152 of 1170, score 8). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D0.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2023-07-27",
+"grade": "A",
 "id": "tl-2023-07-27-s2226es",
 "label": "Senate passes S. 2226 carrying the full UAP Disclosure Act",
 "precision": "day",
 "strand": "program",
-"text": "S. 2226 as engrossed in the Senate contains DIVISION G--UNIDENTIFIED ANOMALOUS PHENOMENA DISCLOSURE, secs. 9001-9015, in full: the Records Collection, the Review Board, the eminent-domain provision, the 25-year disclosure deadline, and the appropriations authorization.",
-"tier": "A"
+"text": "S. 2226 as engrossed in the Senate contains DIVISION G--UNIDENTIFIED ANOMALOUS PHENOMENA DISCLOSURE, secs. 9001-9015, in full: the Records Collection, the Review Board, the eminent-domain provision, the 25-year disclosure deadline, and the appropriations authorization."
 }
-]
+],
+"unverified": []
 }

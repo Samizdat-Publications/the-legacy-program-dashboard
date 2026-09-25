@@ -228,6 +228,14 @@
 "deg": 6,
 "denials": [
 {
+"a": {
+"id": "kevin-randle",
+"label": "Kevin D. Randle"
+},
+"b": {
+"id": "clifford-stone",
+"label": "Clifford E. Stone"
+},
 "by": {
 "id": "kevin-randle",
 "label": "Kevin D. Randle"
@@ -249,6 +257,14 @@
 ]
 },
 {
+"a": {
+"id": "richard-weaver-usaf",
+"label": "Col. Richard L. Weaver"
+},
+"b": {
+"id": "kevin-randle",
+"label": "Kevin D. Randle"
+},
 "by": {
 "id": "richard-weaver-usaf",
 "label": "Col. Richard L. Weaver"
@@ -270,18 +286,20 @@
 ]
 },
 {
-"by": {
+"a": {
 "id": "stanton-friedman",
 "label": "Stanton T. Friedman"
 },
+"b": {
+"id": "kevin-randle",
+"label": "Kevin D. Randle"
+},
+"by": null,
 "claimTier": 2,
 "denialKind": "association",
 "label": "Unresolved dispute over MJ-12 authenticity",
 "note": "Friedman held there were no substantive grounds for dismissing the core documents while himself proving parts of the corpus faked; Randle concluded the whole was not authentic. Neither position has been settled by any released record.",
-"of": {
-"id": "kevin-randle",
-"label": "Kevin D. Randle"
-},
+"of": null,
 "sources": [
 {
 "date": "2026-08-12",
@@ -291,18 +309,20 @@
 ]
 },
 {
-"by": {
+"a": {
 "id": "william-l-moore",
 "label": "William L. Moore"
 },
+"b": {
+"id": "kevin-randle",
+"label": "Kevin D. Randle"
+},
+"by": null,
 "claimTier": 2,
 "denialKind": "association",
 "label": "Moore's 1989 AFOSI admission is Randle's strongest argument against MJ-12",
 "note": "Moore stated publicly at the 1989 MUFON symposium that he had cooperated with AFOSI and passed disinformation to Paul Bennewitz; Randle's 'Conclusions on Operation Majestic Twelve' (1994) and 'Case MJ-12' (2002) treat the corpus as fabricated.",
-"of": {
-"id": "kevin-randle",
-"label": "Kevin D. Randle"
-},
+"of": null,
 "sources": [
 {
 "date": "2026-08-12",
@@ -313,8 +333,8 @@
 }
 ],
 "domains": [
-"disclosure-project-2026-09-19",
-"w2-retrieval-literature"
+"d-recovery",
+"d-witness"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -335,6 +355,10 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Kevin D. Randle",
+"sourceFiles": [
+"disclosure-project-2026-09-19",
+"w2-retrieval-literature"
+],
 "sources": [
 {
 "date": "2021-02-14",
@@ -365,16 +389,17 @@
 "status": "active",
 "sub": "Lt Col (ret.), USAF/Army/Iowa NG intelligence officer; Roswell author",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 231 of 1170, score 43). 6 connections, 0 of them custody/funding/programmatic, 4 official denials recorded against it. Axes C0/A1/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 229 of 1170, score 43). 6 connections, 0 of them custody/funding/programmatic, 4 official denials recorded against it. Axes C0/A1/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1991",
+"grade": "A",
 "id": "tl-1991-ufo-crash",
 "label": "UFO Crash at Roswell",
 "precision": "year",
 "strand": "program",
-"text": "Randle and Schmitt publish the book that drives Roswell into congressional attention. Haut, described as 'not a witness' in 1980, now appears as a witness, though not to the debris.",
-"tier": "A"
+"text": "Randle and Schmitt publish the book that drives Roswell into congressional attention. Haut, described as 'not a witness' in 1980, now appears as a witness, though not to the debris."
 }
 ],
 "unexplainedResidual": null,

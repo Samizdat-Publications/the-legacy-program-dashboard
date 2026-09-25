@@ -17,6 +17,7 @@
 ],
 "cls": "location",
 "cluster": "other",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -208,10 +209,7 @@
 "deg": 5,
 "denials": [],
 "desc": "Brasilia is the seat of the Brazilian federal government and the administrative centre from which the Brazilian Air Force's unidentified aerial phenomena files were released into the Arquivo Nacional, making Brazil one of the few states to have placed military UFO records in a citizen-accessible public archive. The 1986 incident of 19 May, in which Brazilian Air Force fighters were scrambled against multiple radar-tracked objects and the Air Minister subsequently briefed the press, is the country's principal documented case and its records trace back through this capital. Brasilia functions on this board as the control case for what state transparency on this subject actually looks like when it is attempted.",
-"domains": [
-"_stubs",
-"w2-taxonomy"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "nd",
@@ -225,7 +223,12 @@
 "label": "Brasilia, Federal District, Brazil",
 "locLabel": "Brasilia, Brazil",
 "members": null,
+"openQuestions": [],
 "short": "Brasilia, Federal District, Brazil",
+"sourceFiles": [
+"_stubs",
+"w2-taxonomy"
+],
 "sources": [
 {
 "date": "2026-08-12",
@@ -246,5 +249,6 @@
 "sub": "Federal capital of Brazil; seat of the Ministry of Defence and the Arquivo Nacional holdings",
 "tier": "C",
 "tierRationale": "Re-graded C on a global pass (rank 765 of 1170, score 23). 5 connections, 1 of them custody/funding/programmatic. Axes C1/A1/D2.",
-"timeline": []
+"timeline": [],
+"unverified": []
 }

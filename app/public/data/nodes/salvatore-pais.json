@@ -520,8 +520,9 @@
 "deg": 8,
 "denials": [],
 "domains": [
-"pais-patents",
-"propulsion-2026-09-19"
+"d-prop",
+"d-research",
+"d-reverse-engineering"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -542,6 +543,10 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Salvatore Cezar Pais",
+"sourceFiles": [
+"pais-patents",
+"propulsion-2026-09-19"
+],
 "sources": [
 {
 "date": "2026-07-02",
@@ -602,16 +607,17 @@
 "status": "active",
 "sub": "Aerospace engineer, NAWCAD, NAS Patuxent River (to 2019); named inventor on five Navy-assigned patent filings 2015-2019; later US Navy Strategic Systems Programs, then US Air Force",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 43 of 1170, score 84). 8 connections, 6 of them custody/funding/programmatic. Axes C2/A1/D1.",
+"tierRationale": "Re-graded A on a global pass (rank 44 of 1170, score 84). 8 connections, 6 of them custody/funding/programmatic. Axes C2/A1/D1.",
 "timeline": [
 {
+"claimTier": 1,
 "date": "2017-12-15",
+"grade": null,
 "id": "tl-pais-sheehy-letter",
 "label": "NAVAIR's chief technology officer writes to the patent examiner",
 "precision": "day",
 "strand": "program",
-"text": "The Chief Technology Officer of the Naval Aviation Enterprise wrote directly to examiner Philip Bonzell about application 15/141,270, agreeing that the claimed mode of movement was 'beyond the state of the possible, at least at present', describing a funded NAWCAD test programme already a year old, and arguing that the Navy should hold the patent because 'China is already investing significantly in this area'.",
-"tier": "1"
+"text": "The Chief Technology Officer of the Naval Aviation Enterprise wrote directly to examiner Philip Bonzell about application 15/141,270, agreeing that the claimed mode of movement was 'beyond the state of the possible, at least at present', describing a funded NAWCAD test programme already a year old, and arguing that the Navy should hold the patent because 'China is already investing significantly in this area'."
 }
 ],
 "unexplainedResidual": "Why the Navy pressed for grant of a filing an examiner had rejected for lack of enablement, and then funded a test that it concluded had failed, without withdrawing or disclaiming the granted patents.",

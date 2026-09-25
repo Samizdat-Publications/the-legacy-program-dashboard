@@ -12,6 +12,7 @@
 ],
 "cls": "institution",
 "cluster": "media",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 3,
@@ -46,9 +47,7 @@
 "deg": 1,
 "denials": [],
 "desc": "The Center for the Study of Extraterrestrial Intelligence, founded by Steven Greer in 1990, and the Disclosure Project, founded by him in 1993, are the originating institutions of the whistleblower-aggregation model: collect insiders, give them a platform, argue for amnesty for those who break their oaths. The May 2001 National Press Club event with twenty retired Air Force, FAA and intelligence officers established the format that every subsequent disclosure press conference has copied, including Greer's own 8 May 2026 event. The organisations' evidentiary record is poor - the Atacama skeleton presented in Sirius was shown genetically to be human - and the newer structural investigators define themselves explicitly against this model.",
-"domains": [
-"media-structure"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "1",
@@ -62,7 +61,11 @@
 "label": "CSETI / The Disclosure Project",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "CSETI / The Disclosure Project",
+"sourceFiles": [
+"media-structure"
+],
 "sources": [
 {
 "date": "2026-08-12",
@@ -73,5 +76,6 @@
 "sub": "Steven Greer's organisations",
 "tier": "C",
 "tierRationale": "Re-graded C on a global pass (rank 1163 of 1170, score 7). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.",
-"timeline": []
+"timeline": [],
+"unverified": []
 }

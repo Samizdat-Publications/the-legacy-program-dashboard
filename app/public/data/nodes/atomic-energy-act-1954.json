@@ -37,6 +37,7 @@
 ],
 "cls": "legislation",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -139,9 +140,7 @@
 "deg": 4,
 "denials": [],
 "desc": "The complete restatement of the 1946 Act that made Restricted Data a capitalised, Act-wide statutory category, added design to the list of protected subjects, and tied removal from the category to a formal declassification procedure. It is the statutory basis for the only information in United States law that is classified by statute rather than by executive order, which is why EO 10501 had to exclude it and why every executive classification order since has had to work around it.",
-"domains": [
-"nsc-eo-spine-2026-09-19"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -155,7 +154,11 @@
 "label": "Atomic Energy Act of 1954 (Pub. L. 83-703, 68 Stat. 919)",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Atomic Energy Act of 1954 (Pub. L. 83-703, 68 Stat. 919)",
+"sourceFiles": [
+"nsc-eo-spine-2026-09-19"
+],
 "sources": [
 {
 "date": "2026-09-19",
@@ -175,16 +178,18 @@
 ],
 "sub": "Statute; the Act-wide Restricted Data definition, and the only body of information in US law classified by statute rather than by executive order",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 290 of 1170, score 40). 4 connections, 1 of them custody/funding/programmatic. Axes C1/A3/D2.",
+"tierRationale": "Re-graded B on a global pass (rank 289 of 1170, score 40). 4 connections, 1 of them custody/funding/programmatic. Axes C1/A3/D2.",
 "timeline": [
 {
+"claimTier": 1,
 "date": "1954-08-30",
+"grade": null,
 "id": "spine-tl-1954-aea",
 "label": "The Atomic Energy Act of 1954 makes Restricted Data an Act-wide statutory category",
 "precision": "day",
 "strand": "coverup",
-"text": "Public Law 83-703, 68 Stat. 919, a complete restatement of the 1946 Act. The Restricted Data definition moves out of section 10 and into the definitions chapter as a capitalised category, gains the word 'design', and swaps fissionable material and the production of power for special nuclear material and the production of energy. Removal from the category now runs through the formal procedure at section 142. The phrase 'born classified' appears nowhere in the Act.",
-"tier": 1
+"text": "Public Law 83-703, 68 Stat. 919, a complete restatement of the 1946 Act. The Restricted Data definition moves out of section 10 and into the definitions chapter as a capitalised category, gains the word 'design', and swaps fissionable material and the production of power for special nuclear material and the production of energy. Removal from the category now runs through the formal procedure at section 142. The phrase 'born classified' appears nowhere in the Act."
 }
-]
+],
+"unverified": []
 }

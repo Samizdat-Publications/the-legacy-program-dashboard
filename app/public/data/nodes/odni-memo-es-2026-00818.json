@@ -37,6 +37,7 @@
 ],
 "cls": "document",
 "cluster": "ic",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -290,6 +291,14 @@
 "deg": 10,
 "denials": [
 {
+"a": {
+"id": "odni-memo-es-2026-00818",
+"label": "ODNI Memorandum ES 2026-00818 - Preliminary Guidance for Implementation of NDA Waiver"
+},
+"b": {
+"id": "cia",
+"label": "Central Intelligence Agency"
+},
 "by": {
 "id": "cia",
 "label": "Central Intelligence Agency"
@@ -316,6 +325,14 @@
 ]
 },
 {
+"a": {
+"id": "odni-memo-es-2026-00818",
+"label": "ODNI Memorandum ES 2026-00818 - Preliminary Guidance for Implementation of NDA Waiver"
+},
+"b": {
+"id": "dia",
+"label": "Defense Intelligence Agency"
+},
 "by": {
 "id": "dia",
 "label": "Defense Intelligence Agency"
@@ -342,6 +359,14 @@
 ]
 },
 {
+"a": {
+"id": "odni-memo-es-2026-00818",
+"label": "ODNI Memorandum ES 2026-00818 - Preliminary Guidance for Implementation of NDA Waiver"
+},
+"b": {
+"id": "doe",
+"label": "United States Department of Energy"
+},
 "by": {
 "id": "doe",
 "label": "United States Department of Energy"
@@ -368,6 +393,14 @@
 ]
 },
 {
+"a": {
+"id": "odni-memo-es-2026-00818",
+"label": "ODNI Memorandum ES 2026-00818 - Preliminary Guidance for Implementation of NDA Waiver"
+},
+"b": {
+"id": "nro",
+"label": "National Reconnaissance Office"
+},
 "by": {
 "id": "nro",
 "label": "National Reconnaissance Office"
@@ -395,9 +428,7 @@
 }
 ],
 "desc": "The single most important primary document of the current cycle, and the first paper instrument to name PURSUE as an entity rather than a website. An unclassified ODNI memorandum, control number ES 2026-00818, headed MEMORANDUM FOR DISTRIBUTION and signed by Aaron Lukas, Principal Deputy Director of National Intelligence, subject 'Preliminary Guidance for Implementation of NDA Waiver'. Rep. Eric Burlison obtained it and published it on 1 August 2026. Its opening sentence establishes the architecture: the memorandum 'provides preliminary guidance for the release of all Unidentified Anomalous Phenomena (UAP) information to the Presidential Unsealing and Reporting System for UAP Encounters (PURSUE) Task Force for review and declassification.' PURSUE is therefore a task force with a declassification review function, not merely a publication portal - and it is a task force to which 'all' UAP information across the Intelligence Community is to be released. The operative direction: consistent with Presidential Direction, the Department of War and the Intelligence Community will implement a process ensuring that current and former government employees and contractors with relevant UAP information 'shall have prior non-disclosure agreements (NDA), agreements, oaths, or commitments waived when speaking with authorized government representatives of the All-Domain Anomaly Resolution Office (AARO) or PURSUE.' The word 'oaths' is doing heavy work: it reaches beyond signed NDAs to the oral secrecy commitments characteristic of unacknowledged special access programmes. All IC members are directed, within 30 days of receipt, to coordinate with ODNI to establish a PURSUE designee and to inform their workforce of the President's order; to ensure the workforce knows that 'any previous or existing NDAs prohibiting disclosure to the President, or designees like PURSUE, are no longer in force'; and that anyone with knowledge of UAP information 'should report all such information to AARO, or to an authorized PURSUE representative.' Detailed reporting procedures were to be disseminated to IC components within a further 30 days, and DoW and ODNI were to issue departments and agencies detailed implementation guidance 'for the broader PURSUE transparency project.' The distribution list is the IC in full: the Directors of CIA, DIA, NGA, NRO, NSA and FBI; the Under Secretary for Intelligence and Security, Department of War; the Under Secretary for Intelligence and Analysis, DHS; the Assistant Secretary for Intelligence and Research, State; the Assistant Secretary for Intelligence and Analysis, Treasury; the Chief of Intelligence, DEA; the Director of the Office of Intelligence and Counterintelligence, Department of Energy; the Deputy Chief of Staff for Intelligence, US Army; the Director of Intelligence, US Marine Corps; the Director of Naval Intelligence; the Deputy Chief of Staff for Intelligence, Surveillance and Reconnaissance, US Air Force; the Deputy Chief of Space Operations for Intelligence, US Space Force; and the Assistant Commandant for Intelligence, US Coast Guard. Read against Record Group 615, the list is an indictment: CIA, DIA, NRO, NGA, DOE and the military departments are all addressees of an ODNI memorandum on UAP information and none of them has a series in the statutory National Archives UAP collection.",
-"domains": [
-"w2-2025-2026"
-],
+"domains": [],
 "dossier": {
 "claims": [
 {
@@ -466,9 +497,9 @@
 "tier": 1
 },
 {
-"source": "50 U.S.C. §§ 3373, 3373b; All-Domain Anomaly Resolution Office, Fiscal Year 2024 Consolidated Annual Report on UAP at 12-13, https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF; jurisdictional point noted at https://www.dlapiper.com/en-us/insights/publications/2026/08/odni-issues-preliminary-guidance-on-disclosure-of-unidentified-anomalous-phenomena",
+"source": "50 U.S.C. §§ 3373, 3373b; All-Domain Anomaly Resolution Office, Fiscal Year 2024 Consolidated Annual Report on UAP at 12-13, https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF; jurisdictional point noted at https://www.dlapiper.com/en-us/insights/publications/2026/08/odni-issues-preliminary-guidance-on-disclosure-of-unidentified-anomalous-phenomena - DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
 "text": "AARO has served as the statutory secure channel for authorised UAP disclosures since the FY2023 NDAA and is required to report to Congress on such disclosures; it sits within the Department of War but reports to ODNI on operational and security matters under 50 U.S.C. § 3373(b)(3)(B)(ii). The FY2023 NDAA assigns establishment of that mechanism to the Secretary of War acting through the head of AARO in consultation with the DNI, yet ES 2026-00818 was issued by ODNI.",
-"tier": 1
+"tier": 2
 }
 ],
 "connections": [
@@ -535,7 +566,11 @@
 "tier": "B"
 }
 ],
+"openQuestions": [],
 "short": "ODNI Memorandum ES 2026-00818",
+"sourceFiles": [
+"w2-2025-2026"
+],
 "sources": [
 {
 "date": "2026-08-01",
@@ -553,13 +588,15 @@
 "tierRationale": "Re-graded A on a global pass (rank 74 of 1170, score 71). 10 connections, 2 of them custody/funding/programmatic, 4 official denials recorded against it. Axes C2/A3/D3.",
 "timeline": [
 {
+"claimTier": 1,
 "date": "2026-08-01",
+"grade": null,
 "id": "tl-odni-memo",
 "label": "ODNI memorandum ES 2026-00818 published: PURSUE is a Task Force",
 "precision": "day",
 "strand": "program",
-"text": "Aaron Lukas, Principal Deputy DNI, directs release of all IC UAP information to the PURSUE Task Force for review and declassification, waives NDAs, agreements, oaths and commitments for those speaking to AARO or PURSUE, and requires every IC element to name a PURSUE designee within 30 days.",
-"tier": "1"
+"text": "Aaron Lukas, Principal Deputy DNI, directs release of all IC UAP information to the PURSUE Task Force for review and declassification, waives NDAs, agreements, oaths and commitments for those speaking to AARO or PURSUE, and requires every IC element to name a PURSUE designee within 30 days."
 }
-]
+],
+"unverified": []
 }

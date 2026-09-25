@@ -22,6 +22,7 @@
 ],
 "cls": "institution",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -223,9 +224,7 @@
 "deg": 8,
 "denials": [],
 "desc": "The bipartisan House caucus Tim Burchett launched on 22 August 2023, alongside a caucus letter to the Intelligence Community Inspector General about UAP retrieval programs. Its documented members include Burchett, Luna, Burlison, Moskowitz and Ogles; Ogles is a caucus member without an Oversight seat, which is how the caucus extends reach beyond the committee. Its one confirmed operational achievement is the 12 January 2024 closed briefing at the Capitol at which Inspector General Thomas Monheim met House Oversight members and, per Burchett, around sixteen members attended - 'the whole gang,' including Moskowitz, Ocasio-Cortez and Luna. The caucus is the vehicle through which individual member letters, amendments and hearing requests have been coordinated across three Congresses, and it is the reason the House record on this subject is bipartisan in a period when almost nothing else is.",
-"domains": [
-"congress-house"
-],
+"domains": [],
 "dossier": {
 "claims": [
 {
@@ -411,7 +410,11 @@
 "tier": "A"
 }
 ],
+"openQuestions": [],
 "short": "Congressional UAP Caucus",
+"sourceFiles": [
+"congress-house"
+],
 "sources": [
 {
 "date": "2024-01-12",
@@ -439,13 +442,15 @@
 "tierRationale": "Re-graded C on a global pass (rank 657 of 1170, score 26). 8 connections, 1 of them custody/funding/programmatic. Axes C0/A1/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2023-08-22",
+"grade": "A",
 "id": "ch-2023-08-22",
 "label": "UAP Caucus founded",
 "precision": "day",
 "strand": "oversight",
-"text": "Burchett launches the bipartisan Congressional UAP Caucus and leads a caucus letter to the Intelligence Community Inspector General about UAP retrieval programs.",
-"tier": "A"
+"text": "Burchett launches the bipartisan Congressional UAP Caucus and leads a caucus letter to the Intelligence Community Inspector General about UAP retrieval programs."
 }
-]
+],
+"unverified": []
 }

@@ -22,6 +22,7 @@
 ],
 "cls": "institution",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -93,18 +94,20 @@
 "deg": 3,
 "denials": [
 {
-"by": {
+"a": {
 "id": "house-intelligence",
 "label": "House Permanent Select Committee on Intelligence"
 },
+"b": {
+"id": "uap-records-review-board",
+"label": "Unidentified Anomalous Phenomena Records Review Board"
+},
+"by": null,
 "claimTier": 1,
 "denialKind": "association",
 "label": "The Board was designed to bypass the intelligence committees",
 "note": "Sec. 9007(b)(3)(A) routes nominations through congressional leadership, DoD, the National Academy of Sciences, nonprofit UAP research bodies and the American Historical Association — never through HPSCI or SSCI.",
-"of": {
-"id": "uap-records-review-board",
-"label": "Unidentified Anomalous Phenomena Records Review Board"
-},
+"of": null,
 "sources": [
 {
 "date": "2023-07-27",
@@ -115,9 +118,7 @@
 }
 ],
 "desc": "HPSCI under Chairman Turner is the institutional location of the stripping. In the FY2024 NDAA conference the four principals were the chairs and ranking members of the armed services committees plus, for the intelligence titles, the intelligence committees; HPSCI's sign-off was required for the Intelligence Authorization Act riding in the bill and its chairman had standing over the UAP disclosure division as well. The committee is also, notably, the one body among the six given continuing oversight jurisdiction over the UAP Records Collection under Sec. 1841(e) that is not named in the Senate's original list of Review Board nominators — the Senate text routed nominations through the four congressional leaders, the Secretary of Defense, the National Academy of Sciences, nonprofit UAP research organisations and the American Historical Association, deliberately bypassing the intelligence committees. The Review Board was designed to be an alternative to HPSCI, and HPSCI's chairman is reported to have insisted it not exist.",
-"domains": [
-"congress-senate-legislation"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "1",
@@ -131,7 +132,11 @@
 "label": "House Permanent Select Committee on Intelligence",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "House Permanent Select Committee on Intelligence",
+"sourceFiles": [
+"congress-senate-legislation"
+],
 "sources": [
 {
 "date": "2023-12-22",
@@ -151,6 +156,7 @@
 ],
 "sub": "HPSCI; the conference veto point",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 599 of 1170, score 28). 3 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D0.",
-"timeline": []
+"tierRationale": "Re-graded C on a global pass (rank 593 of 1170, score 28). 3 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D0.",
+"timeline": [],
+"unverified": []
 }

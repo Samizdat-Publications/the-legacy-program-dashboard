@@ -17,6 +17,7 @@
 ],
 "cls": "institution",
 "cluster": "contractor",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -48,7 +49,7 @@
 "edgeLabel": "DOE contractor custody sits outside the DoD special access program reporting regime entirely",
 "id": "usc-10-119",
 "l0": true,
-"label": "10 U.S.C. 119 — Special Access Programs: Congressional Oversight",
+"label": "10 U.S.C. 119 - Special Access Programs: Congressional Oversight",
 "note": "Atomic Energy Act Restricted Data authorities are a separate statutory classification scheme; material held under them by a DOE management and operating contractor is not reachable by the Sec. 119 reporting obligations Congress relies on. No document places UAP material under DOE authority.",
 "sources": [
 {
@@ -72,9 +73,7 @@
 "deg": 2,
 "denials": [],
 "desc": "Bechtel Nevada held the management and operating contract for the Nevada Test Site from 1996 to 2006, succeeding the EG&G-era arrangement and preceding the Northrop Grumman-led National Security Technologies LLC. Under that contract it operated the Remote Sensing Laboratory at Nellis, the Special Technologies Laboratory in Santa Barbara, and the diagnostic, imaging and radiation-detection capabilities that DOE deploys for national security emergencies - the physical toolkit that would be used to characterise an unknown object recovered on US soil. Its role is documented in the DOE technical record, where Bechtel Nevada appears as the research organisation of record on Nevada Test Site environmental and characterisation reports. The significance for this domain is jurisdictional rather than testimonial. A DOE management and operating contractor sits under Atomic Energy Act authorities and Restricted Data controls, a classification regime that runs parallel to and independent of the DoD special access program system and its 10 U.S.C. Sec. 119 reporting obligations. Material held under that regime is not reachable by the defense committees' SAP oversight at all. No witness has alleged that Bechtel Nevada held recovered material; the board records it because it is the corporate operator of the most secrecy-hardened site complex in the United States during the period of the alleged 2009-2010 transfer negotiations.",
-"domains": [
-"primes-custody"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "1",
@@ -88,7 +87,11 @@
 "label": "Bechtel Nevada Corporation",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Bechtel Nevada Corporation",
+"sourceFiles": [
+"primes-custody"
+],
 "sources": [
 {
 "date": "2006-10-01",
@@ -106,13 +109,15 @@
 "tierRationale": "Re-graded C on a global pass (rank 754 of 1170, score 23). 2 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D0.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1996-01-01",
+"grade": "B",
 "id": "pc-1996-bechtel",
 "label": "Bechtel Nevada takes the Nevada Test Site contract",
 "precision": "year",
 "strand": "program",
-"text": "Bechtel Nevada becomes DOE management and operating contractor for the Nevada Test Site, running the Remote Sensing Laboratory and Special Technologies Laboratory under Atomic Energy Act authorities outside the DoD SAP regime.",
-"tier": "B"
+"text": "Bechtel Nevada becomes DOE management and operating contractor for the Nevada Test Site, running the Remote Sensing Laboratory and Special Technologies Laboratory under Atomic Energy Act authorities outside the DoD SAP regime."
 }
-]
+],
+"unverified": []
 }

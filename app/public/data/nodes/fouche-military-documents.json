@@ -47,6 +47,10 @@
 ],
 "cls": "document",
 "cluster": "witness",
+"conflicts": [
+"The compilation is presented as an offer of proof of extraordinary claims, and what it actually proves is an ordinary avionics maintenance career. The gap between the caption layer and the document images is the conflict, and it runs through the whole file: the images are unremarkable and legible, and the captions around them assert Area 51, DARPA and classified programmes that the images do not show.",
+"Fouche's caption glosses AAR as 'After Action Request, refers to a classified program'; Peter Merlin reads the same abbreviation as 'After Action Review (or Report), a professional discussion of an event'. Neither reading was verified against any Air Force instruction opened by this research."
+],
 "connections": [
 {
 "claimTier": 1,
@@ -144,6 +148,14 @@
 "deg": 4,
 "denials": [
 {
+"a": {
+"id": "peter-merlin",
+"label": "Peter W. Merlin"
+},
+"b": {
+"id": "fouche-military-documents",
+"label": "Edgar Fouche's Military, and DOD contractors reference Documents"
+},
 "by": {
 "id": "peter-merlin",
 "label": "Peter W. Merlin"
@@ -171,9 +183,7 @@
 }
 ],
 "desc": "This is the artefact both sides of the Fouche dispute argue over, and it deserves a node so that the arguments attach to a document rather than to a vague 'his documents'. It is a print of an HTML page, produced on 15 June 2014 with PDF-XChange, fifteen pages carrying 23 embedded images. Its text layer is caption and commentary rather than record, and the commentary is mixed-voice: some of it is a compiler's and some is Fouche's own, one passage being signed inside the text 'My guess is he was a Staff Sergeant judging by his skills. - Ed Fouche'. It is legible. WHAT IT CONTAINS is a 1967 basic training photograph, a Department of the Air Force letter of 10 July 1984, an AF Form 77a of 24 August 1979, a 1968 on-the-job training certificate, a 1970 Field Training Detachment certificate in solid state devices, a February 1974 McDonnell Aircraft Corporation certificate, a 1985 Strategic Air Command liaison performance report, a 1993 contractor performance evaluation, five decoration certificates and citations, and two education certificates. WHAT IT DOES NOT CONTAIN is a discharge certificate, a DD Form 214, a security clearance record, an SF 86, a contract, a programme document, or a drawing. It documents an avionics maintenance career and it supports no aerospace, propulsion or reverse-engineering claim whatever. Its final pages are not about Fouche at all: they are an attack on Bob Lazar's documentation, arguing that his W-2 is suspect, that 'MAJ' on his badge 'could also stand for MAJ COM- MAJOR COMMAND', and closing 'I am still scanning the MIT archives for proof that Bob Lazar was a student there... Haven't found anything as of yet.'",
-"domains": [
-"tr3b-2026-09-18"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "2",
@@ -187,7 +197,11 @@
 "label": "Edgar Fouche's Military, and DOD contractors reference Documents",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Edgar Fouche's Military, and DOD contractors reference Documents",
+"sourceFiles": [
+"tr3b-2026-09-18"
+],
 "sources": [
 {
 "date": "2014-06-15",
@@ -212,34 +226,42 @@
 ],
 "sub": "Fifteen page self-published compilation of Fouche's decorations, training certificates, performance reports and one 1984 personnel letter, with his own redactions and his own captions",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 226 of 1170, score 44). 4 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D2.",
+"tierRationale": "Re-graded B on a global pass (rank 224 of 1170, score 44). 4 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D2.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1984-07-10",
+"grade": "B",
 "id": "tl-1984-07-10-sac-letter",
 "label": "The letter Fouche later calls the 'SAC/DARPA Classified Document' is written",
 "precision": "day",
 "strand": "program",
-"text": "A Headquarters Strategic Air Command letter of 10 July 1984, 'REPLY TO ATTN OF: DARPA', addressed to office code LGMQ, states 'HQ AFMPC has approved an AAR 51[redacted] on MSgt (32674) Fouche as requested. MSgt Fouche's date of availability is Aug 87.' It is signed by DALE E. HAGERMAN, TSgt, USAF, NCOIC, Amn Acft Maint Asgns Sec, Dir of Asgns, DCS/Pers. The page image carries no classification marking of any kind, and all redactions on it were applied by Fouche himself on his own caption's admission.",
-"tier": "B"
+"text": "A Headquarters Strategic Air Command letter of 10 July 1984, 'REPLY TO ATTN OF: DARPA', addressed to office code LGMQ, states 'HQ AFMPC has approved an AAR 51[redacted] on MSgt (32674) Fouche as requested. MSgt Fouche's date of availability is Aug 87.' It is signed by DALE E. HAGERMAN, TSgt, USAF, NCOIC, Amn Acft Maint Asgns Sec, Dir of Asgns, DCS/Pers. The page image carries no classification marking of any kind, and all redactions on it were applied by Fouche himself on his own caption's admission."
 },
 {
+"claimTier": null,
 "date": "2014-06-15",
+"grade": "B",
 "id": "tl-2014-06-15-military-documents-published",
 "label": "The fifteen page military documents compilation is printed to PDF",
 "precision": "day",
 "strand": "witness",
-"text": "The PDF opened carries producer 'PDF-XChange 4.0.195.0' and creation date D:20140615084520+01'00'. It is a print of an HTML page on checktheevidence.co.uk, 15 pages with 23 embedded images and a caption text layer in mixed voice. It contains no discharge certificate, no DD Form 214, no clearance record, no contract and no programme document.",
-"tier": "B"
+"text": "The PDF opened carries producer 'PDF-XChange 4.0.195.0' and creation date D:20140615084520+01'00'. It is a print of an HTML page on checktheevidence.co.uk, 15 pages with 23 embedded images and a caption text layer in mixed voice. It contains no discharge certificate, no DD Form 214, no clearance record, no contract and no programme document."
 },
 {
+"claimTier": null,
 "date": "2014-06-26",
+"grade": "C",
 "id": "tl-2014-06-26-hilton-forgery-allegation",
 "label": "David Hilton alleges Fouche faked one or more of his own military documents",
 "precision": "day",
 "strand": "witness",
-"text": "Andrew Johnson records that Hilton made the allegation in a video dated 26 June 2014 and concluded that Fouche could not be trusted. The video itself was not opened; the allegation reaches this record only through Johnson's description of it.",
-"tier": "C"
+"text": "Andrew Johnson records that Hilton made the allegation in a video dated 26 June 2014 and concluded that Fouche could not be trusted. The video itself was not opened; the allegation reaches this record only through Johnson's description of it."
 }
+],
+"unverified": [
+"The authenticity of any document in the compilation. Nothing in it was checked against an archival or FOIA-sourced copy. It comes from the subject of the record, with redactions he applied himself.",
+"The FOIA return said to corroborate it. The documents David Hilton is reported to have posted on 25 September 2014 were not located and were not opened. Everything about the FOIA episode reaches this record through Andrew Johnson's description of it.",
+"Whether the PDF has been altered since 2014. It carries a PDF-XChange creation date of 15 June 2014, is not signed or hashed, and was retrieved live on 18 September 2026. No earlier capture was compared."
 ]
 }

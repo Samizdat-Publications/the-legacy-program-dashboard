@@ -17,6 +17,7 @@
 ],
 "cls": "document",
 "cluster": "other",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -77,6 +78,14 @@
 "deg": 2,
 "denials": [
 {
+"a": {
+"id": "groom-lake-presidential-determination",
+"label": "Presidential Determinations on the Air Force's Operating Location Near Groom Lake"
+},
+"b": {
+"id": "eg-and-g",
+"label": "EG&G (Edgerton, Germeshausen and Grier)"
+},
 "by": {
 "id": "groom-lake-presidential-determination",
 "label": "Presidential Determinations on the Air Force's Operating Location Near Groom Lake"
@@ -104,9 +113,7 @@
 }
 ],
 "desc": "Every year since 1995 the President of the United States has personally signed a determination, published in the Federal Register, exempting 'the Air Force's Operating Location Near Groom Lake, Nevada' from the disclosure requirements of federal environmental law in the interest of national security. The document is remarkable for what it does not do: it never names the facility, never describes what is there, and never explains what disclosure would reveal. It exists because workers alleged they had been made ill by the open-air burning of classified waste and sued, and because the government elected to shield the facility rather than litigate the facts. The Ninth Circuit sustained that position in Kasza v. Browner, 133 F.3d 1159 (1998), and the Supreme Court denied certiorari at 525 U.S. 967. The determinations are the cleanest documentary proof on this board that the United States maintains a contractor-operated facility whose contents are exempted from statutory disclosure by annual presidential action - the legal envelope inside which anything at all can be held.",
-"domains": [
-"primes-custody"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "1",
@@ -120,7 +127,11 @@
 "label": "Presidential Determinations on the Air Force's Operating Location Near Groom Lake",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Presidential Determinations on the Air Force's Operating Location Near Groom Lake",
+"sourceFiles": [
+"primes-custody"
+],
 "sources": [
 {
 "date": "1995-10-10",
@@ -140,25 +151,28 @@
 ],
 "sub": "Annual environmental disclosure exemptions, 1995 onward",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 505 of 1170, score 31). 2 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D1.",
+"tierRationale": "Re-graded B on a global pass (rank 506 of 1170, score 31). 2 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D1.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1995-10-10",
+"grade": "A",
 "id": "pc-1995-groom",
 "label": "First presidential Groom Lake exemption published",
 "precision": "day",
 "strand": "coverup",
-"text": "A Presidential Determination exempting 'the Air Force's Operating Location Near Groom Lake, Nevada' from federal environmental disclosure requirements appears in the Federal Register. It is repeated annually thereafter.",
-"tier": "A"
+"text": "A Presidential Determination exempting 'the Air Force's Operating Location Near Groom Lake, Nevada' from federal environmental disclosure requirements appears in the Federal Register. It is repeated annually thereafter."
 },
 {
+"claimTier": null,
 "date": "1998-01-08",
+"grade": "A",
 "id": "pc-1998-kasza",
 "label": "Ninth Circuit dismisses the Groom Lake workers' suit",
 "precision": "day",
 "strand": "coverup",
-"text": "Kasza v. Browner, 133 F.3d 1159, sustains dismissal on state secrets and statutory exemption grounds. The Supreme Court denies certiorari at 525 U.S. 967. The facility's contents remain legally unspeakable.",
-"tier": "A"
+"text": "Kasza v. Browner, 133 F.3d 1159, sustains dismissal on state secrets and statutory exemption grounds. The Supreme Court denies certiorari at 525 U.S. 967. The facility's contents remain legally unspeakable."
 }
-]
+],
+"unverified": []
 }

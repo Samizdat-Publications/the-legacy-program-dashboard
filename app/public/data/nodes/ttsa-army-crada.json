@@ -37,6 +37,7 @@
 ],
 "cls": "document",
 "cluster": "contractor",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -306,11 +307,7 @@
 "deg": 10,
 "denials": [],
 "desc": "This is the hardest artifact in the domain: an executed federal research instrument binding the United States Army to a company that publicly claimed custody of material from a vehicle of unknown origin. Signed on 10 October 2019 by Jeffery Langhout, Director of the Army Ground Vehicle Systems Center, and Kari DeLonge for TTSA, and announced on 17 October 2019, it named Bean Soave and Dr. Joseph Cannon as government principal investigators and Luis Elizondo, as TTSA's Director of Global Security & Special Programs, as the collaborator principal investigator. The stated research areas are 'inertial mass reduction, mechanical/structural meta materials, electromagnetic meta material wave guides, quantum physics, quantum communications, and beamed energy propulsion', with 'Active Camouflage' and 'Directed Photon Projection' named as applications. The document runs to 30 September 2023 with annual intellectual property reviews and estimates the value of TTSA's participation at $1 million in in-kind contributions; the Army provided laboratories, expertise and resources reported at not less than $750,000 in value. The Army released the agreement itself on 18 October 2019 but on 21 February 2020 denied in full a FOIA request for the associated correspondence — twenty-nine emails, one hundred pages — under exemptions (b)(4) and (b)(5). No technical results have ever been published.",
-"domains": [
-"_rs-archive-mirror",
-"elizondo-ttsa",
-"primes-custody"
-],
+"domains": [],
 "dossier": {
 "claims": [
 {
@@ -533,7 +530,13 @@
 "tier": "A"
 }
 ],
+"openQuestions": [],
 "short": "CRADA: U.S. Army – TTSA",
+"sourceFiles": [
+"_rs-archive-mirror",
+"elizondo-ttsa",
+"primes-custody"
+],
 "sources": [
 {
 "date": "2021-10-24",
@@ -588,34 +591,38 @@
 ],
 "sub": "Cooperative Research and Development Agreement, signed 10 October 2019",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 95 of 1170, score 64). 11 connections, 5 of them custody/funding/programmatic. Axes C3/A1/D3.",
+"tierRationale": "Re-graded A on a global pass (rank 97 of 1170, score 64). 11 connections, 5 of them custody/funding/programmatic. Axes C3/A1/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2019-01-01",
+"grade": "A",
 "id": "pc-2019-crada",
 "label": "A private company signs a federal exploitation agreement over claimed exotic material",
 "precision": "year",
 "strand": "program",
-"text": "To The Stars Academy executes CRADA 19-15, 'Novel & Emerging Technology Exploitation,' with the US Army CCDC Ground Vehicle Systems Center. It is filed with the SEC the following year, making it the only fully documented private-custody chain in the file.",
-"tier": "A"
+"text": "To The Stars Academy executes CRADA 19-15, 'Novel & Emerging Technology Exploitation,' with the US Army CCDC Ground Vehicle Systems Center. It is filed with the SEC the following year, making it the only fully documented private-custody chain in the file."
 },
 {
+"claimTier": null,
 "date": "2019-10-10",
+"grade": "A",
 "id": "tl-2019-10-10-crada",
 "label": "TTSA-Army CRADA signed",
 "precision": "day",
 "strand": "program",
-"text": "Jeffery Langhout for the Army GVSC and Kari DeLonge for TTSA sign a five-year cooperative research agreement covering inertial mass reduction, metamaterials, quantum communications, beamed energy propulsion and active camouflage.",
-"tier": "A"
+"text": "Jeffery Langhout for the Army GVSC and Kari DeLonge for TTSA sign a five-year cooperative research agreement covering inertial mass reduction, metamaterials, quantum communications, beamed energy propulsion and active camouflage."
 },
 {
+"claimTier": null,
 "date": "2019-10-17",
+"grade": "A",
 "id": "tl-2019-10-17-crada-announced",
 "label": "CRADA announced publicly",
 "precision": "day",
 "strand": "program",
-"text": "Dr. Joseph Cannon of Army Futures Command calls TTSA 'an exciting, non-traditional source for novel materials'. The Army releases the agreement text the next day.",
-"tier": "A"
+"text": "Dr. Joseph Cannon of Army Futures Command calls TTSA 'an exciting, non-traditional source for novel materials'. The Army releases the agreement text the next day."
 }
-]
+],
+"unverified": []
 }

@@ -22,6 +22,7 @@
 ],
 "cls": "domain",
 "cluster": "witness",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 3,
@@ -48,7 +49,7 @@
 "claimTier": 3,
 "cls": "domain",
 "dateEnd": null,
-"dateStart": null,
+"dateStart": "1998-01-01",
 "direction": "in",
 "edgeLabel": "NDAs and IG channels bound what a witness may say",
 "id": "d-legal",
@@ -114,11 +115,7 @@
 "deg": 4,
 "denials": [],
 "desc": "A compartmented programme cannot produce a witness who saw the whole of it, so the evidence available is necessarily a chain rather than a testimony, and the chain's links have to be graded individually. This board distinguishes four grades in descending order: sworn testimony before a congressional committee under penalty of perjury; a signed complaint to an Inspector General, which carries criminal exposure for false statements; an on-the-record statement to a named journalist; and an anonymous account, which is recorded but cannot be scored above tier 3. The 26 July 2023 House Oversight hearing is the field's highest-grade single event, putting David Grusch, David Fravor and Ryan Graves under oath on the same afternoon - two of them describing what they personally observed, the third describing what he was told by others he named to the Intelligence Community Inspector General. The structural weakness the board must state honestly is that most links are second-hand by design, because the people with first-hand knowledge are the ones whose non-disclosure agreements carry criminal penalties. Scoring high on this domain means an entity is a link in a documented chain - either as a source, a recipient, or the person who put it under oath.",
-"domains": [
-"_rs-archive-mirror",
-"_stubs",
-"w2-taxonomy"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -132,7 +129,13 @@
 "label": "Witness Chain",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Witness Chain",
+"sourceFiles": [
+"_rs-archive-mirror",
+"_stubs",
+"w2-taxonomy"
+],
 "sources": [
 {
 "date": "2026-02-06",
@@ -177,16 +180,18 @@
 ],
 "sub": "Evidentiary domain - who told whom, under what oath, and with what corroboration",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 434 of 1170, score 33). 4 connections, 0 of them custody/funding/programmatic. Axes C2/A2/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 433 of 1170, score 33). 4 connections, 0 of them custody/funding/programmatic. Axes C2/A2/D3.",
 "timeline": [
 {
+"claimTier": 1,
 "date": "2023-07-26",
+"grade": null,
 "id": "tx-2023-hearing",
 "label": "Three witnesses under oath",
 "precision": "day",
 "strand": "witness",
-"text": "David Grusch, David Fravor and Ryan Graves testify under oath before the House Oversight Committee. Grusch describes a multi-decade retrieval and reverse-engineering programme reported to him by individuals he named to the Intelligence Community Inspector General; Fravor and Graves describe what they personally observed with sensor corroboration.",
-"tier": 1
+"text": "David Grusch, David Fravor and Ryan Graves testify under oath before the House Oversight Committee. Grusch describes a multi-decade retrieval and reverse-engineering programme reported to him by individuals he named to the Intelligence Community Inspector General; Fravor and Graves describe what they personally observed with sensor corroboration."
 }
-]
+],
+"unverified": []
 }

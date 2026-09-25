@@ -27,6 +27,7 @@
 ],
 "cls": "document",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -140,7 +141,7 @@
 "url": "https://www.congress.gov/amendment/118th-congress/senate-amendment/797"
 }
 ],
-"tier": "B",
+"tier": "C",
 "type": "legislative"
 },
 {
@@ -239,10 +240,7 @@
 "deg": 9,
 "denials": [],
 "desc": "The filing instrument itself. S.Amdt. 797 was submitted on 13 July 2023 by Senator Schumer 'for himself, Mr. Rounds, Mr. Rubio, Mrs. Gillibrand, Mr. Young, and Mr. Heinrich' and ordered to lie on the table; its text was printed in the Congressional Record for that day at pages S2953-S2959, opening 'At the appropriate place, insert the following: TITLE _--UNIDENTIFIED ANOMALOUS PHENOMENA DISCLOSURE' and short-titled the 'Unidentified Anomalous Phenomena Disclosure Act of 2023' or the 'UAP Disclosure Act of 2023'. The cosponsor roster is the fact worth holding onto: three Republicans and three Democrats, including the sitting Chairman and Vice Chairman track of the Senate Intelligence Committee's Republican side and two Armed Services members. The amendment carries the Majority Leader's name, which is why it could travel into the manager's package and reach the engrossed bill as Division G without ever being marked up by a committee or receiving a recorded roll-call vote of its own. That procedural fact cuts both ways: it is how the Act got as far as it did, and it is also why it had no committee constituency to defend it in conference.",
-"domains": [
-"_rs-legislation",
-"congress-senate-legislation"
-],
+"domains": [],
 "dossier": {
 "claims": [
 {
@@ -383,7 +381,7 @@
 "cls": "person",
 "id": "martin-heinrich",
 "label": "Martin T. Heinrich",
-"tier": "B"
+"tier": "C"
 },
 {
 "cls": "person",
@@ -404,7 +402,12 @@
 "tier": "C"
 }
 ],
+"openQuestions": [],
 "short": "S.Amdt. 797 to S. 2226",
+"sourceFiles": [
+"_rs-legislation",
+"congress-senate-legislation"
+],
 "sources": [
 {
 "date": "2023-07-13",
@@ -427,22 +430,25 @@
 "tierRationale": "Re-graded B on a global pass (rank 266 of 1170, score 41). 9 connections, 0 of them custody/funding/programmatic. Axes C2/A2/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2023-07-13",
+"grade": "A",
 "id": "cl-2023-07-13",
 "label": "S.Amdt. 797 filed",
 "precision": "day",
 "strand": "program",
-"text": "Schumer submits the UAP Disclosure Act of 2023 with Rounds, Rubio, Gillibrand, Young and Heinrich; the text prints at 169 Cong. Rec. S2953-S2959. Warner files S.Amdt. 666, the IAA carrying the contractor turn-in, the same day.",
-"tier": "A"
+"text": "Schumer submits the UAP Disclosure Act of 2023 with Rounds, Rubio, Gillibrand, Young and Heinrich; the text prints at 169 Cong. Rec. S2953-S2959. Warner files S.Amdt. 666, the IAA carrying the contractor turn-in, the same day."
 },
 {
+"claimTier": null,
 "date": "2023-07-13",
+"grade": "A",
 "id": "tl-2023-07-13-samdt797",
 "label": "Schumer submits the UAP Disclosure Act as S.Amdt. 797",
 "precision": "day",
 "strand": "program",
-"text": "'SA 797. Mr. SCHUMER (for himself, Mr. Rounds, Mr. Rubio, Mrs. Gillibrand, Mr. Young, and Mr. Heinrich) submitted an amendment intended to be proposed by him to the bill S. 2226 ... which was ordered to lie on the table.' The text is the Unidentified Anomalous Phenomena Disclosure Act of 2023, including the exercise of eminent domain over recovered technologies of unknown origin and biological evidence of non-human intelligence, and a nine-member Senate-confirmed Records Review Board.",
-"tier": "A"
+"text": "'SA 797. Mr. SCHUMER (for himself, Mr. Rounds, Mr. Rubio, Mrs. Gillibrand, Mr. Young, and Mr. Heinrich) submitted an amendment intended to be proposed by him to the bill S. 2226 ... which was ordered to lie on the table.' The text is the Unidentified Anomalous Phenomena Disclosure Act of 2023, including the exercise of eminent domain over recovered technologies of unknown origin and biological evidence of non-human intelligence, and a nine-member Senate-confirmed Records Review Board."
 }
-]
+],
+"unverified": []
 }

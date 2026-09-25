@@ -79,8 +79,7 @@
 "deg": 2,
 "denials": [],
 "domains": [
-"lazar-s4-2026-09-18",
-"media-structure"
+"d-media"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -101,6 +100,10 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Tim McMillan",
+"sourceFiles": [
+"lazar-s4-2026-09-18",
+"media-structure"
+],
 "sources": [
 {
 "date": "2019-07-01",
@@ -121,7 +124,7 @@
 "status": "active",
 "sub": "Co-founder and Executive Director, The Debrief",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 1018 of 1170, score 14). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 1019 of 1170, score 14). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": [

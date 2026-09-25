@@ -32,6 +32,7 @@
 ],
 "cls": "event",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -139,10 +140,7 @@
 "deg": 4,
 "denials": [],
 "desc": "Published 12 June 2026: 72 files comprising 53 documents, 10 images, 6 videos and 3 audio files, with FBI records the single largest contributor at 29 files. This is the tranche that establishes the Bureau as an active modern UAP collector rather than a 1940s historical footnote. Its FBI orb corpus covers 2021 to 2025 and includes four authenticated eyewitness videos - catalogued as 'Triangle Orbs', 'Red Orb Rotation' and 'Orbs Over the Pond' - and an FD-1057 recording two FBI special agents' own first-hand observation. An FD-1057 is the Bureau's electronic communication form for documenting an investigative activity; an FD-1057 in which the observers are the agents themselves is a primary federal law-enforcement record of an unresolved sighting by credentialed federal officers. The tranche also contains a less-redacted version of the CIA's 1953 Robertson Panel report, NASA Gemini-era crew debriefings, the 1962 Cronkite-Cooper interview audio, a CIA file on a 2008 disc-like object over Harare International Airport in Zimbabwe, the October 2023 western-US federal-employee event, and the Colorado Springs translucent 'potato' object from 2024, unresolved.",
-"domains": [
-"_rs-archive-mirror",
-"releases-2023-2026"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "3",
@@ -156,7 +154,12 @@
 "label": "PURSUE Release 03",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "PURSUE Release 03",
+"sourceFiles": [
+"_rs-archive-mirror",
+"releases-2023-2026"
+],
 "sources": [
 {
 "date": "2026-08-10",
@@ -181,25 +184,28 @@
 ],
 "sub": "12 June 2026; 72 files; FBI-dominated",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 202 of 1170, score 45). 4 connections, 4 of them custody/funding/programmatic. Axes C1/A3/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 200 of 1170, score 45). 4 connections, 4 of them custody/funding/programmatic. Axes C1/A3/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2026-06-12",
+"grade": "A",
 "id": "rel-2026-06-12",
 "label": "PURSUE Release 03",
 "precision": "day",
 "strand": "program",
-"text": "72 files with the FBI the largest contributor at 29, including a 2021-2025 orb corpus, an FD-1057 by two FBI special agents, and a less-redacted CIA Robertson Panel report.",
-"tier": "A"
+"text": "72 files with the FBI the largest contributor at 29, including a 2021-2025 orb corpus, an FD-1057 by two FBI special agents, and a less-redacted CIA Robertson Panel report."
 },
 {
+"claimTier": 1,
 "date": "2026-06-12",
+"grade": null,
 "id": "tl-pursue-r03",
 "label": "PURSUE Release 03: 72 files, FBI the largest contributor",
 "precision": "day",
 "strand": "program",
-"text": "53 documents, 10 images, 6 videos, 3 audio files; 29 FBI files including agents' own first-hand orb observations; a less-redacted CIA Robertson Panel report; documents 826MB, video 4.6GB.",
-"tier": "1"
+"text": "53 documents, 10 images, 6 videos, 3 audio files; 29 FBI files including agents' own first-hand orb observations; a less-redacted CIA Robertson Panel report; documents 826MB, video 4.6GB."
 }
-]
+],
+"unverified": []
 }

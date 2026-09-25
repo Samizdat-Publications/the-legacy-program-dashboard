@@ -27,6 +27,7 @@
 ],
 "cls": "document",
 "cluster": "other",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -181,6 +182,14 @@
 "deg": 6,
 "denials": [
 {
+"a": {
+"id": "mj-12-documents",
+"label": "MJ-12 / Operation Majestic-12 Documents"
+},
+"b": {
+"id": "aaro-historical-record-vol1",
+"label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+},
 "by": {
 "id": "aaro-historical-record-vol1",
 "label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
@@ -208,9 +217,7 @@
 }
 ],
 "desc": "The MJ-12 corpus originates in a roll of undeveloped 35mm film that arrived anonymously, postmarked Albuquerque, at the Los Angeles home of television producer Jaime Shandera on 11 December 1984. Developed, it produced an eight-page 'Briefing Document: Operation Majestic 12' dated 18 November 1952, prepared for President-elect Eisenhower, naming twelve officials and describing the recovery of a crashed disc and four bodies near Roswell. Shandera, Bill Moore and Stanton Friedman released it publicly in May 1987. The National Archives searched Air Force, Joint Chiefs, NSC, Truman Library and Eisenhower Library holdings and found nothing except a single document in Record Group 341: the Cutler-Twining memorandum of 14 July 1954, whose problems NARA itself enumerated - no Top Secret register number, no letterhead or watermark, a security marking that NSC's FOIA office says post-dates the Eisenhower administration, and a paper stock ('diction onionskin') inconsistent with the Eisenhower Library's sample. The FBI investigated and states an Air Force investigation determined the document to be a fake. The board's position is that the MJ-12 documents are best understood not as evidence of a 1947 committee but as evidence of a 1980s operation: the Albuquerque postmark, the Doty and Moore connections, and the discovery of a planted-looking document inside a federal record group all point at the same place at the same time as the Bennewitz campaign.",
-"domains": [
-"history-1970s-2000s"
-],
+"domains": [],
 "dossier": {
 "claims": [
 {
@@ -277,7 +284,11 @@
 "label": "MJ-12 / Operation Majestic-12 Documents",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "MJ-12 / Majestic-12 Documents",
+"sourceFiles": [
+"history-1970s-2000s"
+],
 "sources": [
 {
 "date": "2011-04-01",
@@ -302,25 +313,28 @@
 ],
 "sub": "Purported 1952 Eisenhower briefing document and associated papers, surfaced 1984-1987",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 287 of 1170, score 40). 6 connections, 3 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A1/D2.",
+"tierRationale": "Re-graded B on a global pass (rank 286 of 1170, score 40). 6 connections, 3 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A1/D2.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1984-12-11",
+"grade": "B",
 "id": "t-1984-mj12",
 "label": "MJ-12 film arrives postmarked Albuquerque",
 "precision": "day",
 "strand": "coverup",
-"text": "An anonymous roll of undeveloped 35mm film reaches Jaime Shandera in Los Angeles, containing the purported 1952 Eisenhower briefing on Operation Majestic-12 - mailed from the city where the AFOSI operation was running.",
-"tier": "B"
+"text": "An anonymous roll of undeveloped 35mm film reaches Jaime Shandera in Los Angeles, containing the purported 1952 Eisenhower briefing on Operation Majestic-12 - mailed from the city where the AFOSI operation was running."
 },
 {
+"claimTier": null,
 "date": "1987-05-29",
+"grade": "B",
 "id": "t-1987-mj12-public",
 "label": "MJ-12 documents released publicly",
 "precision": "day",
 "strand": "coverup",
-"text": "Moore, Shandera and Friedman publish the material. NARA's subsequent searches produce nothing but a single problematic memorandum in Record Group 341.",
-"tier": "B"
+"text": "Moore, Shandera and Friedman publish the material. NARA's subsequent searches produce nothing but a single problematic memorandum in Record Group 341."
 }
-]
+],
+"unverified": []
 }

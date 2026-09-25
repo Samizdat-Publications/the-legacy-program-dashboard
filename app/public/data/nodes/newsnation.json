@@ -12,6 +12,7 @@
 ],
 "cls": "institution",
 "cluster": "media",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -129,9 +130,7 @@
 "deg": 4,
 "denials": [],
 "desc": "NewsNation is the US cable network that made the legacy program a standing beat rather than an occasional segment. It hired Ross Coulthart as senior special investigations correspondent, built Reality Check around him with a credited production and research team, and in 2026 ran a multi-part series with the pseudonymous researcher UAP Gerb that put FFRDCs, UARCs and GOCOs, gatekeeping, and the question of whether the legacy program constitutes a 'deep state' into broadcast segments. Its editorial posture on this subject is not neutral - it published a segment headlined 'Ross Coulthart on UAP Gerb's claims: I think he's on the money' - and that partisanship is precisely what allowed the structural argument to reach a mass broadcast audience when no other network would carry it.",
-"domains": [
-"media-structure"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "3",
@@ -145,7 +144,11 @@
 "label": "NewsNation",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "NewsNation",
+"sourceFiles": [
+"media-structure"
+],
 "sources": [
 {
 "date": "2026-08-04",
@@ -156,5 +159,6 @@
 "sub": "US cable news network",
 "tier": "C",
 "tierRationale": "Re-graded C on a global pass (rank 1076 of 1170, score 12). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.",
-"timeline": []
+"timeline": [],
+"unverified": []
 }

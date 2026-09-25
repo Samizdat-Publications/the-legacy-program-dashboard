@@ -17,6 +17,7 @@
 ],
 "cls": "institution",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -51,9 +52,7 @@
 "deg": 1,
 "denials": [],
 "desc": "CUFON was, from 1983, the first electronic public archive of US government UFO documents - a dial-up bulletin board in Seattle operated by Dale Goudie and Jim Klotz that published FOIA releases in full text at a time when the alternative was mail-order photocopies. Its editorial method anticipated the modern document-first approach: publish the agency's own paper, with the FOIA case number, and let the reader judge. CUFON's most consequential work was on the NSA holdings and the CAUS litigation record, and on the 1975 SAC overflight documents, where it circulated the NORAD and command-post message traffic that transformed those incidents from anecdote into records. It is the direct ancestor of The Black Vault, and it established the norm - now standard in this field - that the useful unit of evidence is a released document with a traceable case number rather than a witness account.",
-"domains": [
-"history-1970s-2000s"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "1",
@@ -67,7 +66,11 @@
 "label": "Computer UFO Network (CUFON)",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Computer UFO Network (CUFON)",
+"sourceFiles": [
+"history-1970s-2000s"
+],
 "sources": [
 {
 "date": "2016-09-10",
@@ -90,13 +93,15 @@
 "tierRationale": "Re-graded C on a global pass (rank 1131 of 1170, score 10). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1983-01-01",
+"grade": "B",
 "id": "t-1983-cufon",
 "label": "CUFON goes online",
 "precision": "year",
 "strand": "oversight",
-"text": "The Computer UFO Network begins publishing full-text FOIA releases electronically from Seattle, establishing the document-with-case-number standard of evidence.",
-"tier": "B"
+"text": "The Computer UFO Network begins publishing full-text FOIA releases electronically from Seattle, establishing the document-with-case-number standard of evidence."
 }
-]
+],
+"unverified": []
 }

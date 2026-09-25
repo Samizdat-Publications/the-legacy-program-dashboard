@@ -67,7 +67,8 @@
 "deg": 1,
 "denials": [],
 "domains": [
-"nuclear-witnesses-2026-09-19"
+"d-nuclear",
+"d-witness"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -88,6 +89,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Maj. Florenz J. Mansmann",
+"sourceFiles": [
+"nuclear-witnesses-2026-09-19"
+],
 "sources": [
 {
 "date": "1993",
@@ -108,7 +112,7 @@
 "status": "unknown",
 "sub": "USAF Major, present at the Big Sur photographic site above Vandenberg AFB, September 1964; Robert Jacobs's corroborating witness",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 938 of 1170, score 17). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 937 of 1170, score 17). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D2.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": [

@@ -32,6 +32,7 @@
 ],
 "cls": "institution",
 "cluster": "ic",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -202,18 +203,20 @@
 "deg": 7,
 "denials": [
 {
-"by": {
+"a": {
 "id": "manhattan-project-2",
 "label": "'Manhattan Project 2.0' (alleged secrecy architecture)"
 },
+"b": {
+"id": "ousdi",
+"label": "Office of the Under Secretary of Defense for Intelligence"
+},
+"by": null,
 "claimTier": 2,
 "denialKind": "undirected",
 "label": "Non-Covert Action Programs alleged to carry waived reporting requirements",
 "note": "The operative concealment mechanism on Gerb's account: full SAP security protocols combined with completely waived reporting and budgetary requirements, which would make congressional ignorance lawful rather than the product of active deception.",
-"of": {
-"id": "ousdi",
-"label": "Office of the Under Secretary of Defense for Intelligence"
-},
+"of": null,
 "sources": [
 {
 "date": "2026-06-19",
@@ -224,10 +227,7 @@
 }
 ],
 "desc": "OUSD(I) — since 2020 OUSD(I&S) — is the Office of the Secretary of Defense element responsible for intelligence, counterintelligence, security and sensitive activities policy across the Department, and it is the office in which the entire Elizondo dispute takes place. Elizondo worked there from 2008 until 4 October 2017, latterly as Director, National Programs Special Management Staff. Neill Tipton was its Director for Defense Intelligence (Collection & Special Programs); Garry Reid was its Director for Defense Intelligence (Intelligence & Security). It is the office that generated the December 2017 memoranda to the Secretary of Defense characterising Elizondo as having 'aggrandized his role', the office that in May 2019 coordinated the 'no assigned responsibilities' messaging line, and the office whose front office initiated the AFOSI inquiry into whether Elizondo had mishandled classified material. It is also, on Elizondo's account and on the face of his own DD Form 1910, the office from which the AATIP-associated video files were processed for clearance in August 2017 — five years after the Department says the program ended.",
-"domains": [
-"aawsap-aatip",
-"elizondo-ttsa"
-],
+"domains": [],
 "dossier": {
 "claims": [
 {
@@ -365,7 +365,12 @@
 "tier": "B"
 }
 ],
+"openQuestions": [],
 "short": "Under Sec of Defense for Intelligence",
+"sourceFiles": [
+"aawsap-aatip",
+"elizondo-ttsa"
+],
 "sources": [
 {
 "date": "2009-11-17",
@@ -390,6 +395,7 @@
 ],
 "sub": "OSD staff element with authority over defence intelligence programs",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 205 of 1170, score 45). 7 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D2.",
-"timeline": []
+"tierRationale": "Re-graded B on a global pass (rank 202 of 1170, score 45). 7 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D2.",
+"timeline": [],
+"unverified": []
 }

@@ -27,6 +27,7 @@
 ],
 "cls": "domain",
 "cluster": "legacy",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -98,10 +99,7 @@
 "deg": 3,
 "denials": [],
 "desc": "A retrieval is a logistics operation before it is anything else, and logistics leave paper. Cordon and site security, transport aircraft and tail numbers, crane and flatbed movements, chain-of-custody receipts, per diem and travel vouchers, medical screening of the recovery crew - each of these generates records in systems that have nothing to do with the classification of the object itself, which is why this domain is the most productive place for documentary research even when the programme records are sealed. The documented starting point is the 8 July 1947 Roswell Army Air Field press release announcing the recovery of a 'flying disc', retracted the same day - and the GAO's 1995 finding that the base's outgoing messages for that period were destroyed without a certificate. The dual-use route into the classified world is straightforward: an ordinary aircraft-mishap recovery unit, a nuclear weapons accident response capability, or a foreign materiel exploitation team already possesses exactly the training and the legal authorities a retrieval would require, which means no new organisation need ever be created. Scoring high on this domain means an entity is placed at a site, in a convoy, or on a manifest.",
-"domains": [
-"_rs-archive-mirror",
-"w2-taxonomy"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -115,7 +113,12 @@
 "label": "Retrieval & Recovery Operations",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Retrieval & Recovery Operations",
+"sourceFiles": [
+"_rs-archive-mirror",
+"w2-taxonomy"
+],
 "sources": [
 {
 "date": "2026-05-08",
@@ -140,6 +143,7 @@
 ],
 "sub": "Operational domain - the field work of locating, securing and removing downed material",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 281 of 1170, score 40). 3 connections, 2 of them custody/funding/programmatic. Axes C3/A2/D2.",
-"timeline": []
+"tierRationale": "Re-graded B on a global pass (rank 279 of 1170, score 40). 3 connections, 2 of them custody/funding/programmatic. Axes C3/A2/D2.",
+"timeline": [],
+"unverified": []
 }

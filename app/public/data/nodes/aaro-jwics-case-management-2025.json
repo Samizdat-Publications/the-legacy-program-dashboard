@@ -22,6 +22,7 @@
 ],
 "cls": "program",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -103,9 +104,7 @@
 "deg": 3,
 "denials": [],
 "desc": "In the week of 21 May 2025 AARO issued its first official market research solicitation - a Sources Sought Notice on SAM.gov, notice identifier f58ef2bc419345999cb8cb483d97a838 - for a custom case management system to be hosted on JWICS, the Joint Worldwide Intelligence Communications System, the government's Top Secret/SCI intranet. The system is to track data, interactions and other records relating to UAP investigations and to support a public UAP reporting mechanism AARO planned to launch. Capabilities statements were due by 9 June 2025. At the time of the solicitation AARO's public caseload figure was over 1,600 reports as of November 2024, and the defence official who spoke to DefenseScoop declined to give an updated number. Three things make this a load-bearing node. First, it establishes that as of mid-2025 - three years after the office was created and two years after the first whistleblower hearing - AARO had no purpose-built case management system, which bears directly on the credibility of its analytic outputs across FY2023 to FY2025. Second, hosting the corpus on JWICS means the government's consolidated UAP case record lives at the Top Secret/SCI level by default, whatever the classification of any individual case; that is a structural obstacle to release that no declassification directive addresses. Third, a public reporting mechanism feeding a JWICS-resident database is the exact architecture in which a member of the public's report becomes, on receipt, a record in a compartmented system.",
-"domains": [
-"w2-2025-2026"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "3",
@@ -119,7 +118,11 @@
 "label": "AARO JWICS case management system (sources sought, May 2025)",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "AARO JWICS case management system (sources sought, May 2025)",
+"sourceFiles": [
+"w2-2025-2026"
+],
 "sources": [
 {
 "date": "2025-05-21",
@@ -137,13 +140,15 @@
 "tierRationale": "Re-graded C on a global pass (rank 671 of 1170, score 26). 3 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D2.",
 "timeline": [
 {
+"claimTier": 1,
 "date": "2025-05-21",
+"grade": null,
 "id": "tl-aaro-cms",
 "label": "AARO solicits a JWICS-hosted case management system",
 "precision": "day",
 "strand": "program",
-"text": "Its first market research solicitation, three years after standing up: a custom case system on the Top Secret/SCI intranet to track UAP data, interactions and records and to support a planned public reporting mechanism. Capability statements due 9 June 2025.",
-"tier": "1"
+"text": "Its first market research solicitation, three years after standing up: a custom case system on the Top Secret/SCI intranet to track UAP data, interactions and records and to support a planned public reporting mechanism. Capability statements due 9 June 2025."
 }
-]
+],
+"unverified": []
 }

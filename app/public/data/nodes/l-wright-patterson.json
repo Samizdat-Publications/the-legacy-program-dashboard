@@ -27,6 +27,7 @@
 ],
 "cls": "location",
 "cluster": "legacy",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -478,6 +479,14 @@
 "deg": 19,
 "denials": [
 {
+"a": {
+"id": "bolender-memo",
+"label": "Bolender Memorandum"
+},
+"b": {
+"id": "l-wright-patterson",
+"label": "Wright-Patterson Air Force Base, Ohio"
+},
 "by": {
 "id": "bolender-memo",
 "label": "Bolender Memorandum"
@@ -500,9 +509,7 @@
 }
 ],
 "desc": "Wright-Patterson Air Force Base sits immediately east and northeast of Dayton, Ohio, straddling Greene and Montgomery Counties, and was formally constituted on 13 January 1948 by consolidating Wright Field, Patterson Field, Dayton Army Air Field and Clinton Army Air Field into a single installation. Wright Field had been a flying field since 22 May 1917; Patterson Field was named on 1 July 1931 for Lt. Frank Stuart Patterson. The base's significance to this board is not its size but its function: from 1945 onward it was the address of American foreign materiel exploitation. The Air Materiel Command T-2 intelligence organisation here received the Operation Paperclip haul; T-2 became the Air Technical Intelligence Center in 1951, ATIC became the Foreign Technology Division in 1961, FTD became the Foreign Aerospace Science and Technology Center in 1991 and then the National Air and Space Intelligence Center in 1993, which is still headquartered here. Every official Air Force UFO project - SIGN (1948), GRUDGE (1949) and Blue Book (1952-1969) - was hosted at this base, under the command that dismantles recovered foreign hardware, not under a science agency or an air defence command. Lt. Gen. Nathan Twining wrote the 23 September 1947 'AMC Opinion Concerning Flying Discs' as commander of Air Materiel Command here; Col. Howard McCoy ran T-2 intelligence here; Capt. Edward Ruppelt ran Blue Book here; J. Allen Hynek consulted here. The 1969 Bolender memo, written by Brig. Gen. Carroll Bolender, closed Blue Book while stating that reports 'which could affect national security' were never part of the Blue Book system - a sentence written about this base's own reporting architecture. 'Hangar 18' in Area B is the popular name attached since at least the 1970s to the alleged storage of Roswell material here; no primary record establishes such storage, and the persistent structural fact is more damning than the folklore: the base's 1947-1951 T-2 intelligence files have never undergone a comprehensive declassification review, and NASIC remains the institutional heir with continuous custody of the filing system. In wave 1 the pseudonymous NASIC-affiliated source 'Jonathan Grey' is placed here.",
-"domains": [
-"w2-places-events"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -516,7 +523,11 @@
 "label": "Wright-Patterson Air Force Base, Ohio",
 "locLabel": "Wright-Patterson AFB, Ohio, USA",
 "members": null,
+"openQuestions": [],
 "short": "Wright-Patterson Air Force Base, Ohio",
+"sourceFiles": [
+"w2-places-events"
+],
 "sources": [
 {
 "date": "2026-08-12",
@@ -534,13 +545,15 @@
 "tierRationale": "Re-graded A on a global pass (rank 53 of 1170, score 78). 20 connections, 8 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A3/D1.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1948-01-13",
+"grade": "A",
 "id": "tl-1948-wpafb",
 "label": "Wright-Patterson and Kirtland are both constituted",
 "precision": "day",
 "strand": "program",
-"text": "On the same day the Air Force formally establishes Wright-Patterson AFB, the address of foreign materiel exploitation, and Kirtland AFB, the nuclear weapons and directed energy complex inside Albuquerque.",
-"tier": "A"
+"text": "On the same day the Air Force formally establishes Wright-Patterson AFB, the address of foreign materiel exploitation, and Kirtland AFB, the nuclear weapons and directed energy complex inside Albuquerque."
 }
-]
+],
+"unverified": []
 }

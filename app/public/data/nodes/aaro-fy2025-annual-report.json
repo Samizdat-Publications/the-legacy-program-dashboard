@@ -217,6 +217,7 @@
 ],
 "cls": "document",
 "cluster": "ic",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -704,6 +705,14 @@
 "deg": 18,
 "denials": [
 {
+"a": {
+"id": "aaro-fy2025-annual-report",
+"label": "AARO FY2025 Consolidated Annual Report on UAP"
+},
+"b": {
+"id": "aaro-2026-posture",
+"label": "AARO in 2025-2026 - Kosloski's office as PURSUE's silent partner"
+},
 "by": {
 "id": "aaro-fy2025-annual-report",
 "label": "AARO FY2025 Consolidated Annual Report on UAP"
@@ -725,6 +734,14 @@
 ]
 },
 {
+"a": {
+"id": "aaro-fy2025-annual-report",
+"label": "AARO FY2025 Consolidated Annual Report on UAP"
+},
+"b": {
+"id": "americans-for-safe-aerospace",
+"label": "Americans for Safe Aerospace"
+},
 "by": {
 "id": "aaro-fy2025-annual-report",
 "label": "AARO FY2025 Consolidated Annual Report on UAP"
@@ -746,6 +763,14 @@
 ]
 },
 {
+"a": {
+"id": "aaro-fy2025-annual-report",
+"label": "AARO FY2025 Consolidated Annual Report on UAP"
+},
+"b": {
+"id": "dod",
+"label": "United States Department of Defense (secondary designation: Department of War)"
+},
 "by": {
 "id": "aaro-fy2025-annual-report",
 "label": "AARO FY2025 Consolidated Annual Report on UAP"
@@ -767,6 +792,82 @@
 ]
 },
 {
+"a": {
+"id": "aaro-fy2025-annual-report",
+"label": "AARO FY2025 Consolidated Annual Report on UAP"
+},
+"b": {
+"id": "lockheed-martin",
+"label": "Lockheed Martin Corporation"
+},
+"by": {
+"id": "aaro-fy2025-annual-report",
+"label": "AARO FY2025 Consolidated Annual Report on UAP"
+},
+"claimTier": 1,
+"denialKind": "directed",
+"label": "The 2026 official denial is maintained without any inspection of contractor holdings",
+"note": "No AARO report describes an inspection, audit or subpoena of any contractor facility or holding; the denials rest on voluntary corporate statements taken at meetings with the Director.",
+"of": {
+"id": "lockheed-martin",
+"label": "Lockheed Martin Corporation"
+},
+"sources": [
+{
+"date": "2026-07-21",
+"name": "The Black Vault, 'AARO Releases FY2025 UAP Report Months After Statutory Deadline, Citing 319 New Cases and Expanded Satellite Analysis'",
+"url": "https://www.theblackvault.com/documentarchive/aaro-releases-fy2025-uap-report-months-after-statutory-deadline-citing-319-new-cases-and-expanded-satellite-analysis/"
+},
+{
+"date": "2024-03-08",
+"name": "AARO, 'Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP), Volume I'",
+"url": "https://documents2.theblackvault.com/documents/dod/AARO_Historical_Record_Report_Volume_1_2024.pdf"
+}
+]
+},
+{
+"a": {
+"id": "aaro-fy2025-annual-report",
+"label": "AARO FY2025 Consolidated Annual Report on UAP"
+},
+"b": {
+"id": "pursue-releases",
+"label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters"
+},
+"by": {
+"id": "aaro-fy2025-annual-report",
+"label": "AARO FY2025 Consolidated Annual Report on UAP"
+},
+"claimTier": 3,
+"denialKind": "directed",
+"label": "The statutory report never mentions the department's own release programme",
+"note": "Publishing a statutory UAP report three tranches into the largest official UAP release in US history without acknowledging it places the office outside the authorship of the disclosure.",
+"of": {
+"id": "pursue-releases",
+"label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters"
+},
+"sources": [
+{
+"date": "2026-07-21",
+"name": "AARO - FY2025 Consolidated Annual Report on UAP (PDF)",
+"url": "https://documents2.theblackvault.com/documents/osd/AARO_FY2025_Consolidated_Annual_Report_on_UAP.pdf"
+},
+{
+"date": "2026-08-07",
+"name": "Department of War - PURSUE portal (war.gov/UFO)",
+"url": "https://www.war.gov/UFO/"
+}
+]
+},
+{
+"a": {
+"id": "immaculate-constellation-12-page-report",
+"label": "Immaculate Constellation 12-page report entered into the Congressional Record"
+},
+"b": {
+"id": "aaro-fy2025-annual-report",
+"label": "AARO FY2025 Consolidated Annual Report on UAP"
+},
 "by": {
 "id": "aaro-fy2025-annual-report",
 "label": "AARO FY2025 Consolidated Annual Report on UAP"
@@ -796,69 +897,10 @@
 "url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm"
 }
 ]
-},
-{
-"by": {
-"id": "aaro-fy2025-annual-report",
-"label": "AARO FY2025 Consolidated Annual Report on UAP"
-},
-"claimTier": 1,
-"denialKind": "directed",
-"label": "The 2026 official denial is maintained without any inspection of contractor holdings",
-"note": "No AARO report describes an inspection, audit or subpoena of any contractor facility or holding; the denials rest on voluntary corporate statements taken at meetings with the Director.",
-"of": {
-"id": "lockheed-martin",
-"label": "Lockheed Martin Corporation"
-},
-"sources": [
-{
-"date": "2026-07-21",
-"name": "The Black Vault, 'AARO Releases FY2025 UAP Report Months After Statutory Deadline, Citing 319 New Cases and Expanded Satellite Analysis'",
-"url": "https://www.theblackvault.com/documentarchive/aaro-releases-fy2025-uap-report-months-after-statutory-deadline-citing-319-new-cases-and-expanded-satellite-analysis/"
-},
-{
-"date": "2024-03-08",
-"name": "AARO, 'Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP), Volume I'",
-"url": "https://documents2.theblackvault.com/documents/dod/AARO_Historical_Record_Report_Volume_1_2024.pdf"
-}
-]
-},
-{
-"by": {
-"id": "aaro-fy2025-annual-report",
-"label": "AARO FY2025 Consolidated Annual Report on UAP"
-},
-"claimTier": 3,
-"denialKind": "directed",
-"label": "The statutory report never mentions the department's own release programme",
-"note": "Publishing a statutory UAP report three tranches into the largest official UAP release in US history without acknowledging it places the office outside the authorship of the disclosure.",
-"of": {
-"id": "pursue-releases",
-"label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters"
-},
-"sources": [
-{
-"date": "2026-07-21",
-"name": "AARO - FY2025 Consolidated Annual Report on UAP (PDF)",
-"url": "https://documents2.theblackvault.com/documents/osd/AARO_FY2025_Consolidated_Annual_Report_on_UAP.pdf"
-},
-{
-"date": "2026-08-07",
-"name": "Department of War - PURSUE portal (war.gov/UFO)",
-"url": "https://www.war.gov/UFO/"
-}
-]
 }
 ],
 "desc": "The FY2025 report covers 2 June 2024 to 30 May 2025 and reached the public on 21 July 2026 - months past the annual cycle required by 50 U.S.C. 3373(k), a statutory compliance failure that drew no visible consequence. Document reference 26-P-0880. It records 319 new reports (284 current, 35 historical), 114 of them resolved, plus 256 previously reported cases resolved in-period for a total of 370 resolutions, all attributed to prosaic causes; nine reports were identified for further analysis and 191 transferred to the active archive. Total AARO holdings: 1,870. It reports 50 unmanned aerial system notifications near nuclear infrastructure, up from 18 in the prior period - a near-tripling of drone activity over nuclear sites that the report does not resolve. It reports 262 individuals contacting AARO through the secure mechanism, of whom 255 were deemed out of scope and 7 identified for follow-up interviews. It states that no evidence suggests a USG or private entity has ever captured or exploited UAP-derived materials. And it carries the single most striking unresolved case AARO has published: approximately 100 airborne UAP and two likely uncrewed surface systems observed by US Navy assets off the coast of Virginia - the report's only maritime-domain case - still under active investigation, with AARO stating that a lack of timely and actionable sensor data continues to constrain its ability to resolve cases. The report also touts an expanded capability to identify satellite flares: 42 of 44 space-domain reports came from FAA pilot reports and were modelled as reflected sunlight.",
-"domains": [
-"_rs-aaro-reports",
-"_rs-archive-mirror",
-"primes-custody",
-"releases-2023-2026",
-"uaptf-aaro",
-"w12-duplicate-collapse"
-],
+"domains": [],
 "dossier": {
 "claims": [
 {
@@ -867,9 +909,9 @@
 "tier": 1
 },
 {
-"source": "https://www.aaro.mil/Portals/136/PDFs/FY25%20UAP%20Annual%20Report/AARO_FY2025_Consolidated_Annual_Report_on_UAP.pdf (Executive Summary; §III.A)",
+"source": "https://www.aaro.mil/Portals/136/PDFs/FY25%20UAP%20Annual%20Report/AARO_FY2025_Consolidated_Annual_Report_on_UAP.pdf (Executive Summary; §III.A) - DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
 "text": "AARO reports receiving 319 UAP reports between 2 June 2024 and 30 May 2025 (284 in-period, 35 from events between 2010 and 2024), resolving 114 of them plus 256 cases from prior periods for 370 total resolutions, with case holdings of 1,870 reports as of 30 May 2025.",
-"tier": 1
+"tier": 2
 },
 {
 "source": "https://www.aaro.mil/Portals/136/PDFs/FY25%20UAP%20Annual%20Report/AARO_FY2025_Consolidated_Annual_Report_on_UAP.pdf (§IV.C; §VI; Executive Summary)",
@@ -912,9 +954,9 @@
 "tier": 1
 },
 {
-"source": "https://www.aaro.mil/Portals/136/PDFs/FY25%20UAP%20Annual%20Report/AARO_FY2025_Consolidated_Annual_Report_on_UAP.pdf (§III.A; §III.B)",
+"source": "https://www.aaro.mil/Portals/136/PDFs/FY25%20UAP%20Annual%20Report/AARO_FY2025_Consolidated_Annual_Report_on_UAP.pdf (§III.A; §III.B) - DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
 "text": "None of AARO's 44 space-domain case assessments originated from space-based sensors: 42 came from civilian pilot reports via the FAA and two from ground-based U.S. Space Command sensors. FAA reports from civilian aviators constituted 21 percent of AARO's incoming reporting.",
-"tier": 1
+"tier": 2
 },
 {
 "source": "https://www.aaro.mil/Portals/136/PDFs/FY25%20UAP%20Annual%20Report/AARO_FY2025_Consolidated_Annual_Report_on_UAP.pdf (§V.A; §V.B)",
@@ -1034,7 +1076,16 @@
 "tier": "C"
 }
 ],
+"openQuestions": [],
 "short": "AARO FY2025 Annual Report",
+"sourceFiles": [
+"_rs-aaro-reports",
+"_rs-archive-mirror",
+"primes-custody",
+"releases-2023-2026",
+"uaptf-aaro",
+"w12-duplicate-collapse"
+],
 "sources": [
 {
 "date": null,
@@ -1094,52 +1145,68 @@
 ],
 "sub": "Released 21 July 2026, months after the statutory cycle",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 19 of 1170, score 110). 19 connections, 1 of them custody/funding/programmatic, 6 official denials recorded against it. Axes C1/A3/D3.",
+"tierRationale": "Re-graded A on a global pass (rank 18 of 1170, score 110). 19 connections, 1 of them custody/funding/programmatic, 6 official denials recorded against it. Axes C1/A3/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2026-07-20",
+"grade": null,
+"id": "_rs-aaro-reports-12",
+"label": "FY2025 Consolidated Annual Report posted under Department of War branding - 319 reports; Section G states no USG or private entity has ever captured or exploited UAP-derived materials",
+"precision": "day",
+"strand": "program",
+"text": null
+},
+{
+"claimTier": null,
+"date": "2026-07-20",
+"grade": "A",
 "id": "av-2026-07-20",
 "label": "AARO FY2025 report, nine months late",
 "precision": "day",
 "strand": "coverup",
-"text": "319 new reports, 1,870 total cases, 370 resolved, 191 to active archive, 9 meriting further analysis; 'AARO did not receive reports indicating flight safety concerns,' yet two cases describe avionic interference near an operational aircraft.",
-"tier": "A"
+"text": "319 new reports, 1,870 total cases, 370 resolved, 191 to active archive, 9 meriting further analysis; 'AARO did not receive reports indicating flight safety concerns,' yet two cases describe avionic interference near an operational aircraft."
 },
 {
+"claimTier": null,
 "date": "2026-07-21",
+"grade": "A",
 "id": "pc-2026-07-fy25",
 "label": "AARO again denies possession while writing custody procedures",
 "precision": "day",
 "strand": "coverup",
-"text": "The FY2025 annual report, released months after the statutory cycle, rejects claims that the US government possesses recovered UAP material and states the office is developing procedures for handling such material should any ever come into US government possession.",
-"tier": "A"
+"text": "The FY2025 annual report, released months after the statutory cycle, rejects claims that the US government possesses recovered UAP material and states the office is developing procedures for handling such material should any ever come into US government possession."
 },
 {
+"claimTier": null,
 "date": "2026-07-21",
+"grade": "A",
 "id": "rel-2026-07-21",
 "label": "AARO FY2025 annual report, months late",
 "precision": "day",
 "strand": "coverup",
-"text": "319 new reports, 1,870 total holdings, 370 resolved, one Navy report of approximately 100 airborne UAP off Virginia under investigation - and no mention anywhere of PURSUE.",
-"tier": "A"
+"text": "319 new reports, 1,870 total holdings, 370 resolved, one Navy report of approximately 100 airborne UAP off Virginia under investigation - and no mention anywhere of PURSUE."
 },
 {
+"claimTier": null,
 "date": "2026-07-21",
+"grade": "A",
 "id": "tl-fy25-2026-07-21",
 "label": "FY2025 annual report, months late",
 "precision": "day",
 "strand": "program",
-"text": "319 new reports, 370 resolutions, 9 flagged, holdings at 1,870. Fifty UAS notifications near nuclear infrastructure, up from 18. And roughly 100 airborne UAP with two likely uncrewed surface systems off Virginia, unresolved.",
-"tier": "A"
+"text": "319 new reports, 370 resolutions, 9 flagged, holdings at 1,870. Fifty UAS notifications near nuclear infrastructure, up from 18. And roughly 100 airborne UAP with two likely uncrewed surface systems off Virginia, unresolved."
 },
 {
+"claimTier": 1,
 "date": "2026-07-21",
+"grade": null,
 "id": "tl-fy25-report",
 "label": "AARO publishes the FY2025 annual report, months late",
 "precision": "day",
 "strand": "oversight",
-"text": "319 new reports, 370 resolutions all to conventional causes, 50 UAS notifications near nuclear infrastructure against 18 the year before, and 255 of 262 secure-channel submissions assessed out of scope.",
-"tier": "1"
+"text": "319 new reports, 370 resolutions all to conventional causes, 50 UAS notifications near nuclear infrastructure against 18 the year before, and 255 of 262 secure-channel submissions assessed out of scope."
 }
-]
+],
+"unverified": []
 }

@@ -17,6 +17,7 @@
 ],
 "cls": "location",
 "cluster": "legacy",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -72,9 +73,7 @@
 "deg": 2,
 "denials": [],
 "desc": "THE WEAKEST-ESTABLISHED HUB AND THE MOST SERIOUS SINGLE ALLEGATION IN THE 1975 SEQUENCE. Grand Forks Air Force Base, North Dakota, home of the 321st Strategic Missile Wing, appears in the October to November 1975 material through two pieces of message traffic that this board has NOT opened in their own text. A command post event dispatch dated 4 November 1975 at 0301 is cited as recording that 'There were possibly some shots fired from on base toward hard alert aircraft on the Sac alert ramp', and a detailed incident message of 5 November 1975 is cited as recording that a man 'heard five shots in groups of three and two with a space of approximately two seconds between the groups', naming Captain Klawon of the 321st Security Police Squadron. This is the only entry anywhere in the 1975 sequence in which weapons discharge is alleged, and it is the entry this pass established least well. The hub exists so that the allegation has somewhere to sit and so that the gap is visible rather than absent, and the node says plainly that the documents behind it have not been read.",
-"domains": [
-"nuclear-witnesses-2026-09-19"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "1",
@@ -88,7 +87,11 @@
 "label": "Grand Forks AFB, North Dakota",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Grand Forks AFB, North Dakota",
+"sourceFiles": [
+"nuclear-witnesses-2026-09-19"
+],
 "sources": [
 {
 "date": "1979-01-18",
@@ -104,5 +107,9 @@
 "sub": "SAC installation; 321st Strategic Missile Wing; the 4 to 5 November 1975 alert-ramp incident in which shots were alleged to have been fired",
 "tier": "C",
 "tierRationale": "Re-graded C on a global pass (rank 987 of 1170, score 16). 2 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D1.",
-"timeline": []
+"timeline": [],
+"unverified": [
+"The Grand Forks command post dispatch of 4 November 1975 and the incident message of 5 November 1975, in their own text. NOT OPENED. This is the largest gap in the 1975 documentary spine, and it is attached to its most serious allegation.",
+"The 321st Strategic Missile Wing unit history for the period."
+]
 }

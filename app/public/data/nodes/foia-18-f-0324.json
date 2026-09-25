@@ -12,6 +12,7 @@
 ],
 "cls": "document",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -41,10 +42,7 @@
 "deg": 1,
 "denials": [],
 "desc": "The FOIA case that produced the Elizondo resignation letters and the Garry Reid memoranda. Filed by John Greenewald of The Black Vault on 17 December 2017, the day after the New York Times story, it received its final response four years and eight months later, on 17 August 2022, from Stephanie L. Carr, Chief of the DoD Freedom of Information Division. Eight responsive pages were located, with portions withheld under 5 U.S.C. § 552(b)(6) for personal privacy. The delay is itself a data point: the Department took nearly five years to release eight pages describing an employee's resignation and its own internal characterisation of him, during which period it made repeated public statements about that employee whose factual basis those very pages contain.",
-"domains": [
-"_rs-archive-mirror",
-"elizondo-ttsa"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "3",
@@ -58,7 +56,12 @@
 "label": "OSD/JS FOIA Case 18-F-0324",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "OSD/JS FOIA Case 18-F-0324",
+"sourceFiles": [
+"_rs-archive-mirror",
+"elizondo-ttsa"
+],
 "sources": [
 {
 "date": "2026-02-01",
@@ -81,22 +84,25 @@
 "tierRationale": "Re-graded C on a global pass (rank 1123 of 1170, score 10). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2017-12-17",
+"grade": "A",
 "id": "tl-2017-12-17-foia",
 "label": "FOIA 18-F-0324 filed",
 "precision": "day",
 "strand": "oversight",
-"text": "John Greenewald files the FOIA request that will eventually produce the resignation letters and the Garry Reid memoranda. The Department takes until August 2022 to release eight pages.",
-"tier": "A"
+"text": "John Greenewald files the FOIA request that will eventually produce the resignation letters and the Garry Reid memoranda. The Department takes until August 2022 to release eight pages."
 },
 {
+"claimTier": null,
 "date": "2022-08-17",
+"grade": "A",
 "id": "tl-2022-08-17-foia-release",
 "label": "FOIA 18-F-0324 released",
 "precision": "day",
 "strand": "oversight",
-"text": "Four years and eight months after the request, DoD releases the two resignation letters and the two Garry Reid memoranda — eight pages.",
-"tier": "A"
+"text": "Four years and eight months after the request, DoD releases the two resignation letters and the two Garry Reid memoranda — eight pages."
 }
-]
+],
+"unverified": []
 }

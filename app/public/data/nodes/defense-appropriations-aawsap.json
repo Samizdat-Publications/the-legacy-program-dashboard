@@ -22,6 +22,7 @@
 ],
 "cls": "legislation",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -84,7 +85,7 @@
 }
 ],
 "tier": "C",
-"type": "programmatic"
+"type": "legislative"
 },
 {
 "claimTier": 1,
@@ -135,10 +136,7 @@
 "deg": 5,
 "denials": [],
 "desc": "The funding instrument, and the reason the whole thing stayed invisible. AARO's own history states that 'at the direction of Senate Majority Leader Harry Reid (D-NV), the Defense Appropriations Acts of Fiscal Years 2008 and 2010 appropriated $22 million for the DIA to assess long-term and over-the-horizon foreign advanced aerospace threats.' The money was placed in the classified annex with the agreement of Appropriations chairman Daniel Inouye and senior Republican Ted Stevens, which meant it never appeared in a public budget justification, was never authorised by the Armed Services Committees, and was never subject to floor debate. The structural consequence runs through the entire modern disclosure fight: a program can be created, staffed, contracted and terminated over ten years using appropriated funds without the authorizing committees ever seeing it, and the only reason this one surfaced is that a newspaper published a story in December 2017 and DIA then had to write the Senate Armed Services Committee a letter explaining what it had been doing. The specific bill language and account line have never been released.",
-"domains": [
-"_rs-archive-mirror",
-"aawsap-aatip"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "2",
@@ -149,10 +147,15 @@
 "hl": null,
 "id": "defense-appropriations-aawsap",
 "l0": false,
-"label": "Defense Appropriations Acts FY2008 and FY2010 — the $22M AAWSAP appropriation",
+"label": "Defense Appropriations Acts FY2008 and FY2010 - the $22M AAWSAP appropriation",
 "locLabel": null,
 "members": null,
-"short": "Defense Appropriations Acts FY2008 and FY2010 — the $22M AAWSAP appropriation",
+"openQuestions": [],
+"short": "Defense Appropriations Acts FY2008 and FY2010 - the $22M AAWSAP appropriation",
+"sourceFiles": [
+"_rs-archive-mirror",
+"aawsap-aatip"
+],
 "sources": [
 {
 "date": "2026-07-05",
@@ -172,16 +175,18 @@
 ],
 "sub": "Classified annex appropriation directed by Senate leadership",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 302 of 1170, score 39). 5 connections, 5 of them custody/funding/programmatic. Axes C0/A3/D2.",
+"tierRationale": "Re-graded B on a global pass (rank 358 of 1170, score 36). 5 connections, 4 of them custody/funding/programmatic. Axes C0/A3/D2.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2007-01-01",
+"grade": "A",
 "id": "tl-2007-approp",
 "label": "$22M directed into the black budget",
 "precision": "year",
 "strand": "oversight",
-"text": "Reid, Inouye and Stevens direct roughly $22 million into the classified defense appropriation for DIA aerospace threat work, bypassing the authorizing committees.",
-"tier": "A"
+"text": "Reid, Inouye and Stevens direct roughly $22 million into the classified defense appropriation for DIA aerospace threat work, bypassing the authorizing committees."
 }
-]
+],
+"unverified": []
 }

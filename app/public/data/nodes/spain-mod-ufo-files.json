@@ -12,6 +12,7 @@
 ],
 "cls": "document",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -41,9 +42,7 @@
 "deg": 1,
 "denials": [],
 "desc": "Spain declassified its military UFO files a decade before Britain and Brazil, and the fact is recorded inside the British Defence Intelligence Staff's own Project Condign report. Volume 3, chapter 4, in the section on other national activity, states in full: 'SPAIN The Spanish MoD have taken the UFO phenomenon seriously. Sixty six files have reportedly been released to the public. DI 55 Staff have not seen these files.' That last sentence is the informative one. A NATO ally released sixty-six military UAP files to the public, and the British defence intelligence section responsible for the subject had not read them - either because it did not try or because it was not permitted to. The Spanish release is not otherwise worked in this pass and the Ejército del Aire's own archival references remain to be established.",
-"domains": [
-"w2-international"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "1",
@@ -57,7 +56,11 @@
 "label": "Spanish Ministry of Defence UFO file declassification",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Spanish Ministry of Defence UFO file declassification",
+"sourceFiles": [
+"w2-international"
+],
 "sources": [
 {
 "date": "2006-05-15",
@@ -68,5 +71,6 @@
 "sub": "Sixty-six Spanish Air Force files released to the public from 1992",
 "tier": "C",
 "tierRationale": "Re-graded C on a global pass (rank 1106 of 1170, score 11). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.",
-"timeline": []
+"timeline": [],
+"unverified": []
 }

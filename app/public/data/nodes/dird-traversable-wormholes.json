@@ -22,6 +22,7 @@
 ],
 "cls": "document",
 "cluster": "ic",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -93,9 +94,7 @@
 "deg": 3,
 "denials": [],
 "desc": "The cleanest single artefact in the technical layer. A UNCLASSIFIED//FOR OFFICIAL USE ONLY Defense Intelligence Reference Document bearing the control number DIA-08-1004-004, publication date 6 April 2010 and a 'reOD' date of 1 December 2009, prepared by the Acquisition Support Division (DWO-3), Defense Warning Office, Directorate for Analysis, Defense Intelligence Agency. The author is given as Eric W. Davis, Ph.D., EarthTech International, Inc., 11855 Research Blvd, Austin, TX 78759. The administrative note states the product is one in a series produced in FY 2009 under the DIA Defense Warning Office's Advanced Aerospace Weapon System Applications (AAWSA) programme and directs correspondence to James T. Lacatski, D.Eng., AAWSA Program Manager, ATTN: CLAR/DWO-3, Bldg 6000, Washington DC 20340-5100. It also carries a copyright warning against further dissemination of the photographs in the publication - a small detail worth noticing in a theoretical physics survey. Everything a hostile auditor would demand is on the cover: agency, directorate, division, control number, fiscal year, contractor, address and named programme manager.",
-"domains": [
-"scientists-technical"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "2",
@@ -109,7 +108,11 @@
 "label": "DIA-08-1004-004: 'Traversable Wormholes, Stargates, and Negative Energy'",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "DIA-08-1004-004: 'Traversable Wormholes, Stargates, and Negative Energy'",
+"sourceFiles": [
+"scientists-technical"
+],
 "sources": [
 {
 "date": "2010-04-06",
@@ -129,16 +132,18 @@
 ],
 "sub": "Defense Intelligence Reference Document, 6 April 2010; author Eric W. Davis, EarthTech International",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 391 of 1170, score 35). 3 connections, 2 of them custody/funding/programmatic. Axes C1/A3/D2.",
+"tierRationale": "Re-graded B on a global pass (rank 393 of 1170, score 35). 3 connections, 2 of them custody/funding/programmatic. Axes C1/A3/D2.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2010-04-06",
+"grade": "A",
 "id": "st-2010-04-06",
 "label": "DIA-08-1004-004 issued",
 "precision": "day",
 "strand": "program",
-"text": "'Traversable Wormholes, Stargates, and Negative Energy' is issued with Eric W. Davis of EarthTech International, 11855 Research Blvd, Austin TX, named as author.",
-"tier": "A"
+"text": "'Traversable Wormholes, Stargates, and Negative Energy' is issued with Eric W. Davis of EarthTech International, 11855 Research Blvd, Austin TX, named as author."
 }
-]
+],
+"unverified": []
 }

@@ -22,6 +22,7 @@
 ],
 "cls": "document",
 "cluster": "witness",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -135,10 +136,7 @@
 "deg": 5,
 "denials": [],
 "desc": "Three unclassified U.S. Navy infrared targeting-pod recordings — one captured in November 2004 during the USS Nimitz encounters and two in January 2015 associated with the USS Theodore Roosevelt operating area. Elizondo cleared the three files internally on a DD Form 1910 on 9 August 2017, approved 24 August 2017. Christopher Mellon has said on the record that he received the videos from a Defense Department official in the Pentagon parking lot and gave them to the New York Times. Two appeared with the Times story of 16 December 2017 and the third, GoFast, was published in March 2018; TTSA hosted them. On 10 September 2019 the Navy's Joseph Gradisher stated that 'the Navy designates the objects contained in these videos as unidentified aerial phenomena' while also saying the Navy had never released them publicly. On 27 April 2020 the Department of Defense authorised their release outright, stating that 'the aerial phenomena observed in the videos remain characterized as unidentified.' That is the full arc: cleared internally, leaked, published by a private company, designated UAP by the Navy, and finally released by the Department itself.",
-"domains": [
-"_rs-archive-mirror",
-"elizondo-ttsa"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "2",
@@ -152,7 +150,12 @@
 "label": "FLIR1, Gimbal and GoFast Navy gun-camera videos",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "FLIR1, Gimbal and GoFast Navy gun-camera videos",
+"sourceFiles": [
+"_rs-archive-mirror",
+"elizondo-ttsa"
+],
 "sources": [
 {
 "date": "2026-08-02",
@@ -177,6 +180,7 @@
 ],
 "sub": "Three ATFLIR clips: one from November 2004, two from January 2015",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 246 of 1170, score 42). 5 connections, 3 of them custody/funding/programmatic. Axes C2/A2/D3.",
-"timeline": []
+"tierRationale": "Re-graded B on a global pass (rank 244 of 1170, score 42). 5 connections, 3 of them custody/funding/programmatic. Axes C2/A2/D3.",
+"timeline": [],
+"unverified": []
 }

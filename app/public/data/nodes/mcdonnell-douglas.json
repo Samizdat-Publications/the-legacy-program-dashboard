@@ -17,6 +17,7 @@
 ],
 "cls": "institution",
 "cluster": "contractor",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -109,10 +110,7 @@
 "deg": 4,
 "denials": [],
 "desc": "McDonnell Douglas is the earliest documented case of a prime contractor studying the phenomenon on its own money. Robert M. Wood, a Cornell physics PhD who spent his career at the company's Astronautics division in Southern California, ran a company-funded study of unidentified craft and their propulsion out of the Huntington Beach facility in the late 1960s. The rationale he has described is the commercial one and it is the rationale that makes this domain coherent: if the propulsion were real, an aerospace prime could not afford to be the last to know. Nothing about that study was reported to Congress, because nothing required it to be - it was internal corporate research, the same category that DoD Instruction 3204.01 would later formalise as independent research and development, recoverable as an indirect expense on government contracts, and that David Grusch would name under oath in 2023 as the mechanism by which UAP work is funded outside oversight. The company merged into Boeing in 1997. No McDonnell Douglas internal record of the study has been released, and the corporate archive of the Huntington Beach organisation has never been searched by any congressional committee.",
-"domains": [
-"_rs-archive-mirror",
-"primes-custody"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -126,7 +124,12 @@
 "label": "McDonnell Douglas Corporation",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "McDonnell Douglas Corporation",
+"sourceFiles": [
+"_rs-archive-mirror",
+"primes-custody"
+],
 "sources": [
 {
 "date": "2026-03-09",
@@ -146,16 +149,18 @@
 ],
 "sub": "Prime contractor 1967-1997; Astronautics Company, Huntington Beach",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 718 of 1170, score 24). 4 connections, 1 of them custody/funding/programmatic. Axes C1/A2/D1.",
+"tierRationale": "Re-graded C on a global pass (rank 717 of 1170, score 24). 4 connections, 1 of them custody/funding/programmatic. Axes C1/A2/D1.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1968-01-01",
+"grade": "B",
 "id": "pc-1968-mdc",
 "label": "McDonnell Douglas funds an internal study",
 "precision": "year",
 "strand": "program",
-"text": "Robert M. Wood begins a company-funded study of unidentified craft and their propulsion at McDonnell Douglas Astronautics, Huntington Beach. No government contract, no reporting obligation, no released record.",
-"tier": "B"
+"text": "Robert M. Wood begins a company-funded study of unidentified craft and their propulsion at McDonnell Douglas Astronautics, Huntington Beach. No government contract, no reporting obligation, no released record."
 }
-]
+],
+"unverified": []
 }

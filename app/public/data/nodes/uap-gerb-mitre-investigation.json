@@ -32,6 +32,7 @@
 ],
 "cls": "document",
 "cluster": "media",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -129,9 +130,7 @@
 "deg": 4,
 "denials": [],
 "desc": "Published 7 August 2026, this is the first sustained public attempt to place an FFRDC rather than a prime contractor at the centre of the legacy programme thesis, and it is the reason MITRE is the priority node on this board. Its structural argument is the durable part and matches the regulatory record: FFRDCs are the 'missing link' because they let the US Government technically vest programmes outside the government while retaining strict control over materials, breakthroughs, data and programmes, and because the FFRDC arbitrates what and how much information about UFO programmes is shared with defence contractors. It traces MITRE's founding as the Air Force's systems engineering successor to RAND for SAGE and alleges an additional undisclosed impetus - the construction of a trusted long-term partner answerable only to its DoD customer to spearhead reverse engineering and exploitation of technology recovered from UFOs. It then advances two Navy-spearheaded legacy programme allegations: first, the reverse engineering, exploitation and maturation of specific non-human technologies deemed exploitable from late-1940s recoveries, described as central to the MITRE portfolio since 1958; second, the tracking, monitoring and possible collection tasking against an enormous unidentified submerged object - characterised as a 'tic tac factory' - with permanent or semi-permanent station in the Atlantic, with all-source data processed by MITRE. Further topics include MITRE's involvement in Navy secret programmes despite being founded by the Air Force, high-level IC and DoD legacy personnel with MITRE ties, and a legacy programme briefing restriction initiated in 2011 to cease historical briefings on programme incumbents. The chapter structure is FFRDC Primer (17:49), The MITRE Corporation (29:44), MITRE and UFO Legacy Programs (46:40), MITRE Gatekeepers (1:38:15), MITRE Interrogative (1:50:15). The investigation is explicitly framed as aid to Burlison's inquiry. No primary document has been produced for the specific allegations, which is why they are recorded here at tier 2 and the structural argument at tier 3 corroborated by FAR 35.017.",
-"domains": [
-"ffrdcs"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "3",
@@ -145,7 +144,11 @@
 "label": "'The MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs'",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "'The MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs'",
+"sourceFiles": [
+"ffrdcs"
+],
 "sources": [
 {
 "date": "2026-08-07",
@@ -163,13 +166,15 @@
 "tierRationale": "Re-graded C on a global pass (rank 751 of 1170, score 23). 4 connections, 0 of them custody/funding/programmatic. Axes C1/A0/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2026-08-07",
+"grade": "B",
 "id": "tl-ffrdc-2026-gerb",
 "label": "UAP Gerb publishes the MITRE investigation",
 "precision": "day",
 "strand": "witness",
-"text": "A two-hour open-source investigation places an FFRDC rather than a prime contractor at the centre of the legacy programme thesis, alleging a Navy reverse-engineering role since 1958 and MITRE processing of data on a large Atlantic USO.",
-"tier": "B"
+"text": "A two-hour open-source investigation places an FFRDC rather than a prime contractor at the centre of the legacy programme thesis, alleging a Navy reverse-engineering role since 1958 and MITRE processing of data on a large Atlantic USO."
 }
-]
+],
+"unverified": []
 }

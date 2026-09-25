@@ -22,6 +22,7 @@
 ],
 "cls": "institution",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -119,9 +120,7 @@
 "deg": 4,
 "denials": [],
 "desc": "NARA is the only executive-branch body given an affirmative disclosure duty by enacted UAP law. Under Sec. 1841 the Archivist must establish and maintain the Unidentified Anomalous Phenomena Records Collection, preserve physical integrity and original provenance or, where indeterminate, the earliest historical owner, publish a subject guidebook and index, maintain a central directory of identification aids, make records available for inspection within 30 days of transmission and online within 180 days thereafter, and charge only cost-recovery copying fees with waivers under the FOIA standard. NARA created Record Group 615 for the purpose and issued transfer guidance to agencies in April 2025. What NARA does not have is any power to make agencies send it anything: the identification, review and transmission duties in Sec. 1842 fall on the heads of Government offices, and the postponement decision in Sec. 1843 falls on the original classification authority. The Archivist is a custodian without a compulsion mechanism — which is exactly what the Review Board would have supplied.",
-"domains": [
-"congress-senate-legislation"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -135,7 +134,11 @@
 "label": "National Archives and Records Administration",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "National Archives and Records Administration",
+"sourceFiles": [
+"congress-senate-legislation"
+],
 "sources": [
 {
 "date": "2025-04-24",
@@ -150,6 +153,7 @@
 ],
 "sub": "Custodian of the UAP Records Collection",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 385 of 1170, score 35). 4 connections, 3 of them custody/funding/programmatic. Axes C1/A1/D3.",
-"timeline": []
+"tierRationale": "Re-graded B on a global pass (rank 387 of 1170, score 35). 4 connections, 3 of them custody/funding/programmatic. Axes C1/A1/D3.",
+"timeline": [],
+"unverified": []
 }

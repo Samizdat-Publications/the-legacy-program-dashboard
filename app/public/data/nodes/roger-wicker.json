@@ -141,8 +141,9 @@
 "deg": 3,
 "denials": [],
 "domains": [
-"congress-senate-legislation",
-"w9-waived-sap-group"
+"d-legislative",
+"d-oversight",
+"d-records"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -163,6 +164,10 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Roger F. Wicker",
+"sourceFiles": [
+"congress-senate-legislation",
+"w9-waived-sap-group"
+],
 "sources": [
 {
 "date": "2026-06-15",
@@ -203,7 +208,7 @@
 "status": "active",
 "sub": "R-MS; SASC Chairman (2025- ); sponsor of the FY2027 NDAA",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 313 of 1170, score 38). 3 connections, 0 of them custody/funding/programmatic. Axes C2/A2/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 310 of 1170, score 38). 3 connections, 0 of them custody/funding/programmatic. Axes C2/A2/D3.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": []

@@ -27,6 +27,7 @@
 ],
 "cls": "document",
 "cluster": "ic",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 3,
@@ -98,9 +99,7 @@
 "deg": 3,
 "denials": [],
 "desc": "The interior of the black budget has been visible to the public exactly once. In August 2013 the Washington Post published excerpts from the 'National Intelligence Program Summary for FY2013', a document bearing the classification marking TS/SI/TK/NOFORN, obtained from the Edward Snowden disclosures. The Federation of American Scientists Intelligence Resource Program hosts the excerpts. For the same fiscal year the officially disclosed aggregate was $52.7 billion requested, reduced to $49.0 billion by sequestration - one number, against a document containing agency-level, programme-level and objective-level detail across the entire National Intelligence Program. Nothing comparable has been released before or since, by leak or by litigation. The FAS Intelligence Resource Program budget page is the most useful research asset in this area for a reason that has nothing to do with Snowden: it also indexes redacted Congressional Budget Justification volumes obtained by FOIA - for the Office of the Director of National Intelligence for FY2008, FY2009, FY2011, FY2012, FY2013 and FY2014; for the National Reconnaissance Office for FY2006, FY2007 and FY2009 through FY2014; for the National Geospatial-Intelligence Agency for FY2009 through FY2016; and for the Military Intelligence Program for FY2007, FY2008, FY2009, FY2010 and FY2016. Those redacted justifications are the only component-level intelligence budget documents in the public domain, and they have never been systematically read against the questions this board asks.",
-"domains": [
-"w2-black-budget"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "2",
@@ -114,7 +113,11 @@
 "label": "National Intelligence Program Summary for FY2013 (excerpts) - the 2013 black budget disclosure",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "National Intelligence Program Summary for FY2013 (excerpts) - the 2013 black budget disclosure",
+"sourceFiles": [
+"w2-black-budget"
+],
 "sources": [
 {
 "date": "2026-08-12",
@@ -129,16 +132,18 @@
 ],
 "sub": "Classified TS/SI/TK/NOFORN budget justification excerpts released via the Washington Post in 2013",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 418 of 1170, score 34). 3 connections, 2 of them custody/funding/programmatic. Axes C0/A3/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 421 of 1170, score 34). 3 connections, 2 of them custody/funding/programmatic. Axes C0/A3/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2013-08-29",
+"grade": "A",
 "id": "bb-tl-2013-08-29-snowden",
 "label": "The only public view inside the black budget",
 "precision": "day",
 "strand": "coverup",
-"text": "The Washington Post publishes excerpts from the 'National Intelligence Program Summary for FY2013', classified TS/SI/TK/NOFORN, from the Snowden material. For the same year the officially disclosed figure was a single aggregate: $52.7 billion requested, $49.0 billion after sequestration. Thirteen years later this remains the only occasion on which the interior of the intelligence budget has been seen outside the cleared community.",
-"tier": "A"
+"text": "The Washington Post publishes excerpts from the 'National Intelligence Program Summary for FY2013', classified TS/SI/TK/NOFORN, from the Snowden material. For the same year the officially disclosed figure was a single aggregate: $52.7 billion requested, $49.0 billion after sequestration. Thirteen years later this remains the only occasion on which the interior of the intelligence budget has been seen outside the cleared community."
 }
-]
+],
+"unverified": []
 }

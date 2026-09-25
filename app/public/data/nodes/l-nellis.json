@@ -22,6 +22,7 @@
 ],
 "cls": "location",
 "cluster": "legacy",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -75,10 +76,7 @@
 "deg": 2,
 "denials": [],
 "desc": "Nellis Air Force Base lies northeast of Las Vegas and is the administrative parent of the Nevada Test and Training Range, the largest contiguous air and ground space available for military operations in the free world and the umbrella under which Groom Lake, the Tonopah Test Range airfield and Restricted Area 4808 North all sit. Nellis matters to this board for a specific structural reason: for decades the official position was that Groom Lake was 'simply another part of the Nellis Air Force Base complex', and the Nellis designation was the administrative device by which a facility the government would not name was carried on the books. Every budgetary, environmental and airspace document that had to acknowledge something in that geography acknowledged Nellis. The 1995 presidential determination is explicit about this - the only formal recognition ever given that Groom Lake was more than a part of the Nellis complex. Nellis is also the source of the 1994-1995 'Nellis range tracking video', gun-camera-style range surveillance footage of an unidentified object released into public circulation without a documented FOIA provenance, which remains one of the most-cited and least-anchored artefacts in the field.",
-"domains": [
-"lazar-s4-2026-09-18",
-"w2-places-events"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -92,7 +90,12 @@
 "label": "Nellis Air Force Base and the Nevada Test and Training Range",
 "locLabel": "Nellis AFB, Nevada, USA",
 "members": null,
+"openQuestions": [],
 "short": "Nellis Air Force Base and the Nevada Test and Training Range",
+"sourceFiles": [
+"lazar-s4-2026-09-18",
+"w2-places-events"
+],
 "sources": [
 {
 "date": "1991",
@@ -107,6 +110,7 @@
 ],
 "sub": "USAF installation northeast of Las Vegas; parent range complex containing R-4808N, Tonopah and Groom Lake",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 852 of 1170, score 20). 2 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D1.",
-"timeline": []
+"tierRationale": "Re-graded C on a global pass (rank 854 of 1170, score 20). 2 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D1.",
+"timeline": [],
+"unverified": []
 }

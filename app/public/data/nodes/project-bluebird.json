@@ -37,6 +37,7 @@
 ],
 "cls": "program",
 "cluster": "ic",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -129,9 +130,7 @@
 "deg": 4,
 "denials": [],
 "desc": "BLUEBIRD is the documented origin of the CIA's behavioural-control work and the earliest instance on this board of a compartment created by deliberately going round the body that reviews compartments. On 5 April 1950 the Chief of the Inspection and Security Staff submitted it directly to the Director of Central Intelligence rather than through the Projects Review Committee, in writing, on the stated ground of the project's sensitivity and covert nature, and asked that knowledge of it be held to the absolute minimum number of persons. What it bought was two interrogation teams of a psychiatrist, a hypnotist and a technician, working under polygraph cover, with a Washington doctor's office as cover for training and experimentation in drugs and hypnotism, for $65,515 a year. It was renamed ARTICHOKE in August 1951 and passed in 1952 from an intelligence unit to an operating one. By July 1952 the Security Office was reporting to the Director that two suspected Russian double agents had been interrogated under a psychiatric-medical cover using narcosis and hypnosis, one of them left with a total amnesia produced by post-hypnotic suggestion.",
-"domains": [
-"dannyjones-2026-09-03"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -145,7 +144,11 @@
 "label": "Project BLUEBIRD",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Project BLUEBIRD",
+"sourceFiles": [
+"dannyjones-2026-09-03"
+],
 "sources": [
 {
 "date": "1950-04-05",
@@ -170,6 +173,7 @@
 ],
 "sub": "CIA interrogation-team programme using polygraph, drugs and hypnotism; proposed to the DCI 5 April 1950 outside the Projects Review Committee; renamed ARTICHOKE August 1951",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 537 of 1170, score 30). 4 connections, 1 of them custody/funding/programmatic. Axes C0/A2/D0.",
-"timeline": []
+"tierRationale": "Re-graded B on a global pass (rank 531 of 1170, score 30). 4 connections, 1 of them custody/funding/programmatic. Axes C0/A2/D0.",
+"timeline": [],
+"unverified": []
 }

@@ -17,6 +17,7 @@
 ],
 "cls": "institution",
 "cluster": "contractor",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -108,9 +109,7 @@
 "deg": 3,
 "denials": [],
 "desc": "Raytheon's place in this domain is sensor-side rather than custody-side, and the distinction matters for how the board grades it. It builds the radar and electro-optical systems - the AN/APG-79 and ATFLIR families among them - through which the US military actually detects and images the objects at issue, which makes it the corporate custodian of a different and equally withheld category of material: raw sensor data and the calibration records needed to evaluate it. USAspending records more than a hundred billion dollars in prime contract obligations to Raytheon entities since FY2008, including test-assessment and anomaly-resolution task orders on fighter sensor systems. No sworn witness has named Raytheon as a holder of recovered material. It is included here as a named prime in the 'metal benders' category David Grusch described - contractors 'actually doing specific performance on government contracts' - and because the sensor-data custody question is the one place where the contractor holdings that matter are unambiguously real, unambiguously government-funded, and unambiguously not in congressional hands.",
-"domains": [
-"primes-custody"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -124,7 +123,11 @@
 "label": "Raytheon (RTX Corporation)",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Raytheon (RTX Corporation)",
+"sourceFiles": [
+"primes-custody"
+],
 "sources": [
 {
 "date": "2026-08-12",
@@ -140,5 +143,6 @@
 "sub": "Prime contractor; sensors, radar, missile systems",
 "tier": "C",
 "tierRationale": "Re-graded C on a global pass (rank 669 of 1170, score 26). 3 connections, 2 of them custody/funding/programmatic. Axes C1/A3/D0.",
-"timeline": []
+"timeline": [],
+"unverified": []
 }

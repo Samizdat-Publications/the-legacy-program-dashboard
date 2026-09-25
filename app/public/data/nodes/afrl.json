@@ -22,6 +22,7 @@
 ],
 "cls": "institution",
 "cluster": "legacy",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -72,10 +73,7 @@
 "deg": 2,
 "denials": [],
 "desc": "AFRL was created on 31 October 1997 by consolidating the four Air Force laboratories - Wright, Phillips, Rome and Armstrong - and the Air Force Office of Scientific Research into a single organisation headquartered at Wright-Patterson Air Force Base, Ohio. Its geography is its significance. Wright-Patterson is the installation named in every crash-retrieval account since July 1947; it housed the Air Materiel Command that generated Lieutenant General Nathan Twining's 23 September 1947 memorandum finding that 'the phenomenon reported is something real and not visionary or fictitious'; it housed the Air Technical Intelligence Center and its successor the Foreign Technology Division, the organisations that ran Projects SIGN, GRUDGE and BLUE BOOK and that exploited recovered foreign aerospace hardware; and it houses AFRL today, together with the National Air and Space Intelligence Center. AFRL is therefore the modern incumbent of the exact institutional function - foreign materiel exploitation and advanced propulsion research at Wright-Patterson - that the legacy program allegation describes. AFRL's directorates include the Aerospace Systems Directorate and the Munitions Directorate; it manages a large classified portfolio and a large university and contractor research base. No AFRL official has testified at a UAP hearing, and no AFRL UAP-specific FOIA release has been published.",
-"domains": [
-"_rs-archive-mirror",
-"w2-agencies"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "1",
@@ -89,7 +87,12 @@
 "label": "Air Force Research Laboratory",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Air Force Research Laboratory",
+"sourceFiles": [
+"_rs-archive-mirror",
+"w2-agencies"
+],
 "sources": [
 {
 "date": "2026-07-05",
@@ -109,6 +112,7 @@
 ],
 "sub": "Single Air Force science and technology laboratory, headquartered at Wright-Patterson AFB, Ohio",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 558 of 1170, score 29). 2 connections, 0 of them custody/funding/programmatic. Axes C3/A3/D0.",
-"timeline": []
+"tierRationale": "Re-graded B on a global pass (rank 556 of 1170, score 29). 2 connections, 0 of them custody/funding/programmatic. Axes C3/A3/D0.",
+"timeline": [],
+"unverified": []
 }

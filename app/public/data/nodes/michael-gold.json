@@ -134,29 +134,13 @@
 "id": "hearing-2024-11-13",
 "l0": true,
 "label": "House Oversight joint hearing, 13 November 2024 - 'Unidentified Anomalous Phenomena: Exposing the Truth'",
-"note": "Listed in the printed hearing record as a witness.",
+"note": "Gold testified as the fourth witness and answered Boebert's genetics question in the negative.",
 "sources": [
 {
 "date": "2024-11-13",
 "name": "CHRG-118hhrg57440, printed hearing transcript, 'Unidentified Anomalous Phenomena: Exposing the Truth', Serial No. 118-135",
 "url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/pdf/CHRG-118hhrg57440.pdf"
-}
-],
-"tier": "A",
-"type": "programmatic"
 },
-{
-"claimTier": 1,
-"cls": "event",
-"dateEnd": "2024",
-"dateStart": "2024",
-"direction": "out",
-"edgeLabel": "Testified before the House Oversight joint subcommittees",
-"id": "hearing-2024-11-13",
-"l0": true,
-"label": "House Oversight joint hearing, 13 November 2024 - 'Unidentified Anomalous Phenomena: Exposing the Truth'",
-"note": "Gold testified as the fourth witness and answered Boebert's genetics question in the negative.",
-"sources": [
 {
 "date": "2024-11-13",
 "name": "House Oversight - hearing page, 13 Nov 2024",
@@ -209,9 +193,9 @@
 "deg": 4,
 "denials": [],
 "domains": [
-"_rs-legislation",
-"aviators-incidents",
-"congress-house"
+"d-aviators",
+"d-oversight",
+"d-witness"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -232,6 +216,11 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Michael Gold",
+"sourceFiles": [
+"_rs-legislation",
+"aviators-incidents",
+"congress-house"
+],
 "sources": [
 {
 "date": "2024-11-13",
@@ -261,8 +250,8 @@
 ],
 "status": "active",
 "sub": "Former NASA Associate Administrator for Space Policy and Partnerships; NASA UAP Independent Study Team member",
-"tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 512 of 1170, score 30). 5 connections, 1 of them custody/funding/programmatic. Axes C0/A1/D2.",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 650 of 1170, score 26). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": []

@@ -32,6 +32,7 @@
 ],
 "cls": "program",
 "cluster": "legacy",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -638,7 +639,7 @@
 "edgeLabel": "NARA holds the Blue Book series and is digitising legacy UFO records",
 "id": "rg-615-uap-records",
 "l0": false,
-"label": "NARA Record Group 615 — UAP Records Collection",
+"label": "NARA Record Group 615 - UAP Records Collection",
 "note": "Approximately 42 cubic feet of Blue Book material on 94 rolls of microfilm (T-1206) sits alongside the new RG 615 accessions; NARA states no Blue Book document discusses Roswell.",
 "sources": [
 {
@@ -777,6 +778,14 @@
 "deg": 28,
 "denials": [
 {
+"a": {
+"id": "condon-committee",
+"label": "University of Colorado UFO Project (Condon Committee)"
+},
+"b": {
+"id": "project-blue-book",
+"label": "Project Blue Book"
+},
 "by": {
 "id": "condon-committee",
 "label": "University of Colorado UFO Project (Condon Committee)"
@@ -798,6 +807,14 @@
 ]
 },
 {
+"a": {
+"id": "haines-cia-history",
+"label": "A Die-hard Issue: CIA's Role in the Study of UFOs, 1947-1990"
+},
+"b": {
+"id": "project-blue-book",
+"label": "Project Blue Book"
+},
 "by": {
 "id": "project-blue-book",
 "label": "Project Blue Book"
@@ -819,32 +836,14 @@
 ]
 },
 {
-"by": {
+"a": {
+"id": "minot-1968",
+"label": "Minot AFB B-52 incident, 24 October 1968"
+},
+"b": {
 "id": "project-blue-book",
 "label": "Project Blue Book"
 },
-"claimTier": 3,
-"denialKind": "association",
-"label": "The public statistics are the residue of a filter, not the corpus",
-"note": "If national-security reports went up the JANAP channel as Bolender states, then the 12,618 sightings and 701 unknowns describe only what the filtered public program retained.",
-"of": {
-"id": "janap-146",
-"label": "JANAP 146 (CIRVIS/MERINT reporting)"
-},
-"sources": [
-{
-"date": "1969-10-20",
-"name": "Bolender memorandum, 20 October 1969",
-"url": "https://www.nicap.org/docs/1969_10_20_Bolender_Memo.pdf"
-},
-{
-"date": "2026-08-12",
-"name": "USAF Fact Sheet: Project Blue Book",
-"url": "https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/"
-}
-]
-},
-{
 "by": {
 "id": "project-blue-book",
 "label": "Project Blue Book"
@@ -866,18 +865,48 @@
 ]
 },
 {
-"by": {
+"a": {
+"id": "project-blue-book",
+"label": "Project Blue Book"
+},
+"b": {
+"id": "janap-146",
+"label": "JANAP 146 (CIRVIS/MERINT reporting)"
+},
+"by": null,
+"claimTier": 3,
+"denialKind": "association",
+"label": "The public statistics are the residue of a filter, not the corpus",
+"note": "If national-security reports went up the JANAP channel as Bolender states, then the 12,618 sightings and 701 unknowns describe only what the filtered public program retained.",
+"of": null,
+"sources": [
+{
+"date": "1969-10-20",
+"name": "Bolender memorandum, 20 October 1969",
+"url": "https://www.nicap.org/docs/1969_10_20_Bolender_Memo.pdf"
+},
+{
+"date": "2026-08-12",
+"name": "USAF Fact Sheet: Project Blue Book",
+"url": "https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/"
+}
+]
+},
+{
+"a": {
 "id": "richard-m-bissell-jr",
 "label": "Richard M. Bissell Jr."
 },
+"b": {
+"id": "project-blue-book",
+"label": "Project Blue Book"
+},
+"by": null,
 "claimTier": 1,
 "denialKind": null,
 "label": "His project staff resolved Blue Book's reports and withheld the reason",
 "note": "The CIA history states that Blue Book investigators checked reported sightings against U-2 flight logs held by the Agency's project staff and could not reveal the true cause to the people who had written in.",
-"of": {
-"id": "project-blue-book",
-"label": "Project Blue Book"
-},
+"of": null,
 "sources": [
 {
 "date": "2013-06-25",
@@ -888,10 +917,7 @@
 }
 ],
 "desc": "Project Blue Book ran from March 1952 to 17 December 1969 at Wright-Patterson Air Force Base and is the public face of the legacy era. Its own final accounting is 12,618 sightings recorded, of which 701 were never identified — a residue of 5.6 per cent that the Air Force has never explained and that no subsequent official study has revisited. Blue Book had five directors: Edward Ruppelt, Charles Hardin, George Gregory, Robert Friend and Hector Quintanilla. Its analytical output was governed from 1953-1954 onward by AFR 200-2 and JANAP 146, which between them restricted what could be said publicly about unexplained cases and routed operationally significant reports away from Blue Book entirely. That last point is not inference: the Bolender memorandum of 20 October 1969, recommending termination, states that UFO reports which could affect national security are made under JANAP 146 or AFM 55-11 and are not part of the Blue Book system. Blue Book was therefore, by the admission of the general who closed it, the disposal channel rather than the collection channel. The records — roughly 37 cubic feet of case files plus administrative files and Office of Special Investigations material — are at the National Archives on 94 rolls of microfilm (T-1206), and NARA states it has been unable to locate any documentation among them discussing the 1947 Roswell incident.",
-"domains": [
-"_rs-archive-mirror",
-"history-1940s-1960s"
-],
+"domains": [],
 "dossier": {
 "claims": [
 {
@@ -1108,7 +1134,7 @@
 {
 "cls": "institution",
 "id": "rg-615-uap-records",
-"label": "NARA Record Group 615 — UAP Records Collection",
+"label": "NARA Record Group 615 - UAP Records Collection",
 "tier": "B"
 },
 {
@@ -1124,7 +1150,12 @@
 "tier": "C"
 }
 ],
+"openQuestions": [],
 "short": "Project Blue Book",
+"sourceFiles": [
+"_rs-archive-mirror",
+"history-1940s-1960s"
+],
 "sources": [
 {
 "date": "2026-07-06",
@@ -1152,13 +1183,15 @@
 "tierRationale": "Re-graded A on a global pass (rank 15 of 1170, score 114). 32 connections, 11 of them custody/funding/programmatic, 5 official denials recorded against it. Axes C1/A2/D2.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1969-12-17",
+"grade": "A",
 "id": "tl-1969-12-17",
 "label": "Project Blue Book terminated",
 "precision": "day",
 "strand": "program",
-"text": "Secretary of the Air Force Robert C. Seamans Jr. closes the program citing the Condon Report. Final tally: 12,618 sightings, 701 never identified.",
-"tier": "A"
+"text": "Secretary of the Air Force Robert C. Seamans Jr. closes the program citing the Condon Report. Final tally: 12,618 sightings, 701 never identified."
 }
-]
+],
+"unverified": []
 }

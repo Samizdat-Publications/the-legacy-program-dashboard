@@ -22,6 +22,7 @@
 ],
 "cls": "document",
 "cluster": "other",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -41,7 +42,7 @@
 "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP/U-09-2660CE-IM-Review_of_Special_Access_Program_Request.pdf"
 }
 ],
-"tier": "A",
+"tier": "B",
 "type": "denial"
 }
 ],
@@ -51,6 +52,14 @@
 "deg": 1,
 "denials": [
 {
+"a": {
+"id": "reid-sap-letter-2009",
+"label": "Reid Letter to DEPSECDEF Requesting Restricted SAP Status"
+},
+"b": {
+"id": "dia-sap-denial-memo-2009",
+"label": "DIA Memorandum: Review of Special Access Program Request (U-09-2660CE-IM)"
+},
 "by": {
 "id": "dia-sap-denial-memo-2009",
 "label": "DIA Memorandum: Review of Special Access Program Request (U-09-2660CE-IM)"
@@ -73,9 +82,7 @@
 }
 ],
 "desc": "DIA's formal answer to Harry Reid, and a document that has to be read twice. It finds 'insufficient grounds to classify this open program' and builds four arguments: no report has 'extracted, paraphrased, or restated information obtained from previously classified material'; the information is 'not owned by, produced by or for, or under control of the U.S. government'; DIA is 'prohibited from classifying basic scientific research' absent a clear national security nexus; and there is 'no report containing information sufficiently sensitive and vulnerable to require extra protection' despite Reid's description of 'highly sensitive, unconventional aerospace-related findings.' Every one of those findings is true of the 38 unclassified literature reviews and says nothing whatsoever about the field investigation work, the case database, the Utah ranch operation or the human-effects material — none of which appears in the memo's scope. The memo is therefore a narrow answer to a broad question, and the narrowness is the point. It is the document that severed the appropriation from any compartmented effort on paper, and it is the reason 37 of 38 DIRDs could later be released in full.",
-"domains": [
-"aawsap-aatip"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "2",
@@ -89,7 +96,11 @@
 "label": "DIA Memorandum: Review of Special Access Program Request (U-09-2660CE-IM)",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "DIA Memorandum: Review of Special Access Program Request (U-09-2660CE-IM)",
+"sourceFiles": [
+"aawsap-aatip"
+],
 "sources": [
 {
 "date": "2009-11-13",
@@ -104,16 +115,18 @@
 ],
 "sub": "DIA information memorandum, 13 November 2009",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 559 of 1170, score 29). 1 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D2.",
+"tierRationale": "Re-graded B on a global pass (rank 558 of 1170, score 29). 1 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D2.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2009-11-13",
+"grade": "A",
 "id": "tl-2009-sapdeny",
 "label": "DIA: insufficient grounds to classify",
 "precision": "day",
 "strand": "coverup",
-"text": "DIA finds the program cannot be classified — the material is basic scientific research not owned or controlled by the government and no report is sufficiently sensitive to require extra protection.",
-"tier": "A"
+"text": "DIA finds the program cannot be classified — the material is basic scientific research not owned or controlled by the government and no report is sufficiently sensitive to require extra protection."
 }
-]
+],
+"unverified": []
 }

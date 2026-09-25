@@ -42,6 +42,7 @@
 ],
 "cls": "document",
 "cluster": "other",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -102,6 +103,27 @@
 "dateStart": null,
 "direction": "in",
 "edgeLabel": "DIRD",
+"id": "dird-series",
+"l0": true,
+"label": "The 38 Defense Intelligence Reference Documents (DIRDs)",
+"note": "",
+"sources": [
+{
+"date": null,
+"name": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237648/",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237648/"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "series member",
 "id": "dird-series",
 "l0": true,
 "label": "The 38 Defense Intelligence Reference Documents (DIRDs)",
@@ -169,11 +191,7 @@
 "deg": 4,
 "denials": [],
 "desc": "DIA Defense Intelligence Reference Document (Acquisition Threat Support series), 2010-03-08, DIA-08-1001-006, produced under the Advanced Aerospace Weapon System Applications (AAWSA/AAWSAP) Program contract with BAASS. Released under FOIA.",
-"domains": [
-"_rs-aawsap-dirds",
-"_rs-archive-mirror",
-"w7-dirds-4"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "nd",
@@ -187,7 +205,13 @@
 "label": "Space Access: Where We've Been and Where We Could Go",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Space Access: Where We've Been and Where We Could Go",
+"sourceFiles": [
+"_rs-aawsap-dirds",
+"_rs-archive-mirror",
+"w7-dirds-4"
+],
 "sources": [
 {
 "date": "2010-03-08",
@@ -222,6 +246,7 @@
 ],
 "sub": "defense-intelligence-reference-document",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 522 of 1170, score 30). 4 connections, 2 of them custody/funding/programmatic. Axes C0/A0/D0.",
-"timeline": []
+"tierRationale": "Re-graded B on a global pass (rank 487 of 1170, score 31). 5 connections, 2 of them custody/funding/programmatic. Axes C0/A0/D0.",
+"timeline": [],
+"unverified": []
 }

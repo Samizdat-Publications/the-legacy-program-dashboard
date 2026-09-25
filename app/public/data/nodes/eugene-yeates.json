@@ -104,7 +104,8 @@
 "deg": 2,
 "denials": [],
 "domains": [
-"history-1970s-2000s"
+"d-coverup",
+"d-oversight"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -125,6 +126,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Eugene F. Yeates",
+"sourceFiles": [
+"history-1970s-2000s"
+],
 "sources": [
 {
 "date": "2016-09-10",

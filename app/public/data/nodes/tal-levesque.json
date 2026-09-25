@@ -112,6 +112,14 @@
 "deg": 3,
 "denials": [
 {
+"a": {
+"id": "tal-levesque",
+"label": "Tal Levesque (Jason Bishop III)"
+},
+"b": {
+"id": "dulce-base",
+"label": "Dulce Base (alleged facility, Archuleta Mesa, New Mexico)"
+},
 "by": {
 "id": "tal-levesque",
 "label": "Tal Levesque (Jason Bishop III)"
@@ -133,6 +141,14 @@
 ]
 },
 {
+"a": {
+"id": "tal-levesque",
+"label": "Tal Levesque (Jason Bishop III)"
+},
+"b": {
+"id": "thomas-castello",
+"label": "Thomas Edwin Castello (fabricated)"
+},
 "by": {
 "id": "tal-levesque",
 "label": "Tal Levesque (Jason Bishop III)"
@@ -159,9 +175,7 @@
 ]
 }
 ],
-"domains": [
-"dulce-2026-09-19"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "nd",
@@ -181,6 +195,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Tal Levesque (Jason Bishop III)",
+"sourceFiles": [
+"dulce-2026-09-19"
+],
 "sources": [
 {
 "date": "2024-04-02",
@@ -201,7 +218,7 @@
 "status": "deceased",
 "sub": "Author of the two original Dulce Base articles and, by his own account, the inventor of Thomas Edwin Castello",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 707 of 1170, score 24). 3 connections, 0 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C0/A0/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 706 of 1170, score 24). 3 connections, 0 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C0/A0/D3.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": [

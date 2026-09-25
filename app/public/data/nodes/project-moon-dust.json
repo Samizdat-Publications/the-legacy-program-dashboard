@@ -27,6 +27,7 @@
 ],
 "cls": "program",
 "cluster": "legacy",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -155,6 +156,14 @@
 "deg": 5,
 "denials": [
 {
+"a": {
+"id": "project-moon-dust",
+"label": "Project MOON DUST"
+},
+"b": {
+"id": "aaro-historical-record-vol1",
+"label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+},
 "by": {
 "id": "aaro-historical-record-vol1",
 "label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
@@ -182,10 +191,7 @@
 }
 ],
 "desc": "MOON DUST was the US Air Force codeword for the collection and exploitation of objects and debris of unknown origin that survived re-entry - nominally Soviet and other foreign space hardware, in practice an all-source recovery capability with a standing tasking to acquire material that fell from the sky. It ran from the early 1960s under Air Force Intelligence, with State Department reporting channels supporting the overseas collection, and it is documented in released Department of State cable traffic, one file of which was declassified by CIA. Its significance for this board is jurisdictional rather than evidential: MOON DUST establishes that from at least 1961 the United States maintained a named, funded, worldwide programme whose purpose was to go and get whatever came down, with a chain of custody that ran into Air Force technical intelligence at Wright-Patterson - the same institutional address that the Twining memorandum used in 1947. The Air Force told Congress and researchers for years that MOON DUST had nothing to do with unidentified objects; the programme's own charter language on unidentified fallen material is why that answer never held. MOON DUST and its air-transport twin BLUE FLY are the connective tissue between the Blue Book era and everything that follows: Blue Book was the public-facing sighting file; MOON DUST was the retrieval function, and it did not close in 1969.",
-"domains": [
-"history-1970s-2000s",
-"legacy-1947-86"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -199,7 +205,12 @@
 "label": "Project MOON DUST",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Project MOON DUST",
+"sourceFiles": [
+"history-1970s-2000s",
+"legacy-1947-86"
+],
 "sources": [
 {
 "date": "2015-03-04",
@@ -227,13 +238,15 @@
 "tierRationale": "Re-graded A on a global pass (rank 148 of 1170, score 53). 5 connections, 4 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A2/D2.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1961-01-01",
+"grade": "B",
 "id": "t-1961-moondust",
 "label": "MOON DUST / BLUE FLY stood up",
 "precision": "year",
 "strand": "program",
-"text": "The Air Force establishes a named worldwide capability to collect and exploit unidentified objects and debris surviving re-entry, with a quick-reaction airlift arm routing material to technical intelligence at Wright-Patterson.",
-"tier": "B"
+"text": "The Air Force establishes a named worldwide capability to collect and exploit unidentified objects and debris surviving re-entry, with a quick-reaction airlift arm routing material to technical intelligence at Wright-Patterson."
 }
-]
+],
+"unverified": []
 }

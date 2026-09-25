@@ -37,6 +37,7 @@
 ],
 "cls": "legislation",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -68,7 +69,7 @@
 "edgeLabel": "GAO review of AARO's implementation of Sec. 1683",
 "id": "iaa-fy2025-title-lxviii",
 "l0": false,
-"label": "IAA FY2025 Title LXVIII — Secs. 6801-6802 (P.L. 118-159)",
+"label": "IAA FY2025 Title LXVIII - Secs. 6801-6802 (P.L. 118-159)",
 "note": "Sec. 6801 of P.L. 118-159 commissions a Comptroller General review with a report due on a mutually agreed timeframe rather than a date.",
 "sources": [
 {
@@ -150,7 +151,7 @@
 "url": "https://www.govinfo.gov/content/pkg/PLAW-117publ263/html/PLAW-117publ263.htm"
 }
 ],
-"tier": "B",
+"tier": "A",
 "type": "legislative"
 },
 {
@@ -233,10 +234,7 @@
 "deg": 8,
 "denials": [],
 "desc": "Section 1683 of the FY2022 NDAA, signed 27 December 2021, is the statutory root of the entire modern apparatus. It directed the Secretary of Defense, in coordination with the DNI, to establish within 180 days an office inside the Office of the Secretary of Defense or a joint DoD/ODNI organisation to carry out the duties of the Unidentified Aerial Phenomena Task Force. Its enumerated duties reach beyond analysis into governance: synchronising and standardising collection and reporting 'including adverse physiological effects' across DoD and the intelligence community, forcing incident reports into a centralised repository, evaluating links to adversary and non-state actors, and coordinating with the FAA, NASA, DHS, NOAA and the Department of Energy. It is codified at 50 U.S.C. 3373, and every subsequent UAP provision — Sec. 1673 of the FY2023 NDAA, Sec. 1687 and Sec. 7343 of the FY2024 NDAA, Sec. 6801 of the IAA FY2025, and Secs. 1671-1673 of the FY2026 NDAA — cross-references it. It was restated in full by Sec. 6802 of the IAA FY2023, which named the office the All-domain Anomaly Resolution Office, set the Director reporting to the Deputy Secretary of Defense and the Principal Deputy DNI, entitled ten named intelligence elements to place detailees inside it, and added subsection (j), the Historical Record Report on the United States Government's dealings with UAP built from intelligence community records, oral histories and interviews of current and former officials.",
-"domains": [
-"_rs-legislation",
-"congress-senate-legislation"
-],
+"domains": [],
 "dossier": {
 "claims": [
 {
@@ -362,7 +360,7 @@
 {
 "cls": "legislation",
 "id": "iaa-fy2025-title-lxviii",
-"label": "IAA FY2025 Title LXVIII — Secs. 6801-6802 (P.L. 118-159)",
+"label": "IAA FY2025 Title LXVIII - Secs. 6801-6802 (P.L. 118-159)",
 "tier": "C"
 },
 {
@@ -381,7 +379,7 @@
 "cls": "legislation",
 "id": "ndaa-fy2023",
 "label": "FY2023 NDAA, Public Law 117-263 - Sec. 1673 (50 U.S.C. 3373b) UAP reporting/whistleblower protection; Div. F secs. 6802-6803 establishing AARO",
-"tier": "B"
+"tier": "A"
 },
 {
 "cls": "legislation",
@@ -390,7 +388,12 @@
 "tier": "A"
 }
 ],
+"openQuestions": [],
 "short": "FY2022 NDAA Sec. 1683",
+"sourceFiles": [
+"_rs-legislation",
+"congress-senate-legislation"
+],
 "sources": [
 {
 "date": "2021-12-27",
@@ -408,22 +411,25 @@
 "tierRationale": "Re-graded B on a global pass (rank 235 of 1170, score 43). 8 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D2.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2021-12-27",
+"grade": "A",
 "id": "cl-2021-12-27",
 "label": "Sec. 1683 enacted",
 "precision": "day",
 "strand": "program",
-"text": "The FY2022 NDAA is signed as P.L. 117-81. Section 1683, Gillibrand's provision, orders a permanent UAP office stood up within 180 days and is codified at 50 U.S.C. 3373.",
-"tier": "A"
+"text": "The FY2022 NDAA is signed as P.L. 117-81. Section 1683, Gillibrand's provision, orders a permanent UAP office stood up within 180 days and is codified at 50 U.S.C. 3373."
 },
 {
+"claimTier": null,
 "date": "2021-12-27",
+"grade": "A",
 "id": "tl-2021-12-27-pl11781",
 "label": "FY2022 NDAA signed; UAP office written into statute",
 "precision": "day",
 "strand": "program",
-"text": "Public Law 117-81 is approved. Section 1683, codified at 50 U.S.C. 3373, requires DoD and ODNI to stand up a standing UAP office within 180 days, designate line organizations able to 'rapidly respond to, and conduct field investigations of' UAP incidents, and run a science plan aimed at performance 'that exceed the known state of the art in science or technology' and at providing 'the foundation for potential future investments to replicate any such advanced characteristics and performance.'",
-"tier": "A"
+"text": "Public Law 117-81 is approved. Section 1683, codified at 50 U.S.C. 3373, requires DoD and ODNI to stand up a standing UAP office within 180 days, designate line organizations able to 'rapidly respond to, and conduct field investigations of' UAP incidents, and run a science plan aimed at performance 'that exceed the known state of the art in science or technology' and at providing 'the foundation for potential future investments to replicate any such advanced characteristics and performance.'"
 }
-]
+],
+"unverified": []
 }

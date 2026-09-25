@@ -27,6 +27,7 @@
 ],
 "cls": "program",
 "cluster": "legacy",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -82,9 +83,7 @@
 "deg": 2,
 "denials": [],
 "desc": "Project GRUDGE replaced Project SIGN on 11 February 1949, immediately after the Estimate of the Situation was rejected and destroyed. The name has always been read as a statement of intent, and the output supports the reading. The Grudge Report concluded that UFO reports resulted from misinterpretation of conventional objects, mass hysteria, hoaxes or psychopathology, recommended that the scope of investigation be reduced, and found the phenomenon posed no direct threat to national security. Under GRUDGE the project's function shifted from analysis to disposal: cases were closed, staffing was cut to a token effort, and the surviving files show explanations being assigned rather than derived. GRUDGE is the point at which the official program stopped being an investigation and became a public relations mechanism — three years before the Robertson Panel formalised that function and nineteen years before the Condon Committee completed it. Edward Ruppelt inherited GRUDGE in late 1951 and briefly professionalised it before it was renamed Project Blue Book in March 1952.",
-"domains": [
-"history-1940s-1960s"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -98,7 +97,11 @@
 "label": "Project GRUDGE",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Project GRUDGE",
+"sourceFiles": [
+"history-1940s-1960s"
+],
 "sources": [
 {
 "date": "1968-11-01",
@@ -116,13 +119,15 @@
 "tierRationale": "Re-graded C on a global pass (rank 662 of 1170, score 26). 2 connections, 1 of them custody/funding/programmatic. Axes C1/A2/D1.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1949-02-11",
+"grade": "A",
 "id": "tl-1949-02-11",
 "label": "Project SIGN becomes Project GRUDGE",
 "precision": "day",
 "strand": "program",
-"text": "The successor project concludes reports are misinterpretation, mass hysteria and hoaxes posing no direct threat to national security, and recommends reducing the scope of investigation.",
-"tier": "A"
+"text": "The successor project concludes reports are misinterpretation, mass hysteria and hoaxes posing no direct threat to national security, and recommends reducing the scope of investigation."
 }
-]
+],
+"unverified": []
 }

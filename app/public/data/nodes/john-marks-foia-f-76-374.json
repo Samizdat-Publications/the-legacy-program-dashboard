@@ -32,6 +32,7 @@
 ],
 "cls": "document",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -103,9 +104,7 @@
 "deg": 3,
 "denials": [],
 "desc": "This is the board's own argument about custody, documented, in another programme. A destruction order given inside CIA in January 1973 removed the MKULTRA files; two Senate committees investigating in 1975 could not recover them; and what defeated the order was a single Freedom of Information Act request and the litigation behind it. The Agency's own memorandum of 22 June 1977 says so in one sentence: as a result of John Marks's FOIA request F-76-374, the Office of Technical Service reviewed its holdings and then searched the Retired Records Center, and it was in that second search that the subproject files were found among the retired records of the Budget and Fiscal Section. Among them was the original memorandum setting up MKULTRA over Allen Dulles's signature. The record also corrects the popular account of the sequence: the finding was done by CIA staff, the Agency was advised to tell the Senate Select Committee before it told the requester's attorneys, and the material reached the public through a Senate hearing six weeks later. The collection those documents sit in today carries his name.",
-"domains": [
-"dannyjones-2026-09-03"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "1",
@@ -119,7 +118,11 @@
 "label": "John Marks FOIA request F-76-374 and the recovery of the MKULTRA finance file",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "John Marks FOIA request F-76-374 and the recovery of the MKULTRA finance file",
+"sourceFiles": [
+"dannyjones-2026-09-03"
+],
 "sources": [
 {
 "date": "1977-06-22",
@@ -135,5 +138,6 @@
 "sub": "The FOIA request and litigation that caused CIA to search the Retired Records Center in 1977 and find seven boxes the 1973 destruction order had missed",
 "tier": "C",
 "tierRationale": "Re-graded C on a global pass (rank 750 of 1170, score 23). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.",
-"timeline": []
+"timeline": [],
+"unverified": []
 }

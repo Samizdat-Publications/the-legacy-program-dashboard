@@ -32,6 +32,7 @@
 ],
 "cls": "program",
 "cluster": "ic",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 3,
@@ -385,18 +386,20 @@
 "deg": 13,
 "denials": [
 {
-"by": {
+"a": {
 "id": "allen-w-dulles",
 "label": "Allen W. Dulles"
 },
+"b": {
+"id": "robertson-panel",
+"label": "Robertson Panel"
+},
+"by": null,
 "claimTier": 1,
 "denialKind": null,
 "label": "Forwarded the panel report while saying the subject was not primarily CIA's concern",
 "note": "The same signed letter that calls the panel's conclusions a matter of potential danger to national security states that the Agency does not consider flying saucer sightings primarily its concern, ten weeks after CIA convened the panel.",
-"of": {
-"id": "robertson-panel",
-"label": "Robertson Panel"
-},
+"of": null,
 "sources": [
 {
 "date": "1953-03-13",
@@ -406,18 +409,20 @@
 ]
 },
 {
-"by": {
+"a": {
 "id": "haines-cia-history",
 "label": "A Die-hard Issue: CIA's Role in the Study of UFOs, 1947-1990"
 },
-"claimTier": 1,
-"denialKind": null,
-"label": "CIA refused declassification and issued a sanitised version of the Robertson Panel report",
-"note": "CIA 'prepared a sanitized version of the report which deleted any reference to CIA and avoided mention of any psychological warfare potential in the UFO controversy.'",
-"of": {
+"b": {
 "id": "robertson-panel",
 "label": "Robertson Panel"
 },
+"by": null,
+"claimTier": 1,
+"denialKind": "undirected",
+"label": "CIA refused declassification and issued a sanitised version of the Robertson Panel report",
+"note": "CIA 'prepared a sanitized version of the report which deleted any reference to CIA and avoided mention of any psychological warfare potential in the UFO controversy.'",
+"of": null,
 "sources": [
 {
 "date": "1997-01-01",
@@ -427,18 +432,20 @@
 ]
 },
 {
-"by": {
+"a": {
 "id": "pentacle-memorandum",
 "label": "The Pentacle Memorandum"
 },
+"b": {
+"id": "robertson-panel",
+"label": "Robertson Panel"
+},
+"by": null,
 "claimTier": 2,
 "denialKind": "association",
 "label": "Written five days before the panel met; per Vallee the panel was never briefed on its proposals",
 "note": "Vallee's conclusion is that a separate group had already decided what the panel could and could not discuss - contractor-side predetermination of an official scientific review.",
-"of": {
-"id": "robertson-panel",
-"label": "Robertson Panel"
-},
+"of": null,
 "sources": [
 {
 "date": "2026-08-12",
@@ -454,9 +461,7 @@
 }
 ],
 "desc": "The Robertson Panel is the documented origin of the United States government's decision to manage public belief about unidentified flying objects rather than the objects themselves. Convened by the CIA's Office of Scientific Intelligence after the July 1952 Washington flap and assembled by H. Marshall Chadwell with H. P. Robertson, it sat from 14 to 18 January 1953 for roughly twelve hours of formal session. Members were Robertson (chair, Caltech), Luis Alvarez, Lloyd Berkner, Samuel Goudsmit and Thornton Page, with CIA officer Frederick Durant as secretary; Ruppelt and Hynek presented. The panel recommended that the national security agencies strip UFOs of their special status and mount a public education programme with two aims, 'training' and 'debunking' — the debunking to be accomplished 'by mass media such as television, motion pictures, and popular articles', with the Walt Disney organisation and the Navy Special Devices Center canvassed as production vehicles. It further recommended that civilian UFO groups be monitored because of their potential influence on mass thinking. The CIA's own official history states that any mention of Agency sponsorship of the panel was forbidden. This is a signed, dated government instruction to shape domestic opinion on a national security subject and to conceal the sponsor of that instruction.",
-"domains": [
-"history-1940s-1960s"
-],
+"domains": [],
 "dossier": {
 "claims": [
 {
@@ -677,7 +682,11 @@
 "tier": "B"
 }
 ],
+"openQuestions": [],
 "short": "Robertson Panel",
+"sourceFiles": [
+"history-1940s-1960s"
+],
 "sources": [
 {
 "date": "1953-01-17",
@@ -697,25 +706,28 @@
 ],
 "sub": "CIA Office of Scientific Intelligence advisory panel, January 1953",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 103 of 1170, score 62). 15 connections, 4 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C0/A3/D0.",
+"tierRationale": "Re-graded A on a global pass (rank 104 of 1170, score 62). 15 connections, 4 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C0/A3/D0.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1953-01-14",
+"grade": "A",
 "id": "tl-1953-01-14",
 "label": "Robertson Panel convenes",
 "precision": "day",
 "strand": "coverup",
-"text": "A CIA Office of Scientific Intelligence panel sits for four days and recommends stripping UFOs of special status through a mass-media 'debunking' programme, canvassing Disney and the Navy Special Devices Center, and monitoring civilian UFO groups.",
-"tier": "A"
+"text": "A CIA Office of Scientific Intelligence panel sits for four days and recommends stripping UFOs of special status through a mass-media 'debunking' programme, canvassing Disney and the Navy Special Devices Center, and monitoring civilian UFO groups."
 },
 {
+"claimTier": null,
 "date": "1953-01-14",
+"grade": "A",
 "id": "tl-ffrdc-1953-robertson",
 "label": "Robertson Panel convenes uninformed",
 "precision": "day",
 "strand": "coverup",
-"text": "The CIA-convened panel meets five days after the Pentacle memorandum. Per Jacques Vallee it is never briefed on the Battelle proposals - a separate body had already fixed the boundaries of what it could consider.",
-"tier": "A"
+"text": "The CIA-convened panel meets five days after the Pentacle memorandum. Per Jacques Vallee it is never briefed on the Battelle proposals - a separate body had already fixed the boundaries of what it could consider."
 }
-]
+],
+"unverified": []
 }

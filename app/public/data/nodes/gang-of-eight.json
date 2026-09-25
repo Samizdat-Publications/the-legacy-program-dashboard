@@ -42,6 +42,7 @@
 ],
 "cls": "institution",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -94,7 +95,7 @@
 "edgeLabel": "The waived-SAP notification convention mirrors, but is weaker than, the covert action rule",
 "id": "usc-10-119e",
 "l0": false,
-"label": "10 U.S.C. 119(e) — Waiver of SAP Reporting (the 'waived SAP' authority)",
+"label": "10 U.S.C. 119(e) - Waiver of SAP Reporting (the 'waived SAP' authority)",
 "note": "119(e)(2) reaches chairs and ranking members of the defense committees with no 180-day widening requirement; 50 U.S.C. 3093(c)(5)(B) requires reconsideration of limited access within 180 days.",
 "sources": [
 {
@@ -120,7 +121,7 @@
 "edgeLabel": "The statutory Gang of Eight is a covert action construct, not a SAP construct",
 "id": "usc-50-3093",
 "l0": false,
-"label": "50 U.S.C. 3093 — Presidential Approval and Reporting of Covert Actions",
+"label": "50 U.S.C. 3093 - Presidential Approval and Reporting of Covert Actions",
 "note": "50 U.S.C. 3093(c)(2) names the four committee leaders and four chamber leaders to whom a finding may be limited; no SAP statute uses that group.",
 "sources": [
 {
@@ -139,10 +140,7 @@
 "deg": 4,
 "denials": [],
 "desc": "The phrase 'Gang of Eight' has a precise statutory origin that is routinely misapplied to special access programs, and getting it right matters. Under 50 U.S.C. 3093(c)(1) a presidential finding authorising covert action must be reported in writing to the congressional intelligence committees as soon as possible after approval and before initiation. Paragraph (2) is the exception: 'If the President determines that it is essential to limit access to the finding to meet extraordinary circumstances affecting vital interests of the United States, the finding may be reported to the chairmen and ranking minority members of the congressional intelligence committees, the Speaker and minority leader of the House of Representatives, the majority and minority leaders of the Senate, and such other member or members of the congressional leadership as may be included by the President.' Four committee leaders plus four chamber leaders: eight. Since the Intelligence Authorization Act for Fiscal Year 2010, paragraph (5)(A) requires a written statement of the reasons for limiting access, and (5)(B) requires that within 180 days either all members of the intelligence committees get access or a further written statement of reasons is submitted. Paragraph (3) preserves the option of no prior notice at all, requiring only that the President 'fully inform the congressional intelligence committees in a timely fashion' afterwards with a statement of reasons. The DoD waived-SAP convention is a different animal that behaves the same way: 10 U.S.C. 119(e)(2) sends waived information to 'the chairman and ranking minority member of each of the defense committees', and DoD Directive 5205.07 (2010) restricted access for waived programs to 'the chair, the ranking minority member, and the staff directors of the defense and intelligence committees'. The DoD version has no 180-day sunset, no requirement to widen access ever, and no statutory statement-of-reasons requirement beyond the waiver justification itself. On paper, covert action is better supervised than a waived special access program.",
-"domains": [
-"_rs-sap-docs",
-"w2-sap-architecture"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "1",
@@ -156,7 +154,12 @@
 "label": "The Gang of Eight and the limited-notification convention",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "The Gang of Eight and the limited-notification convention",
+"sourceFiles": [
+"_rs-sap-docs",
+"w2-sap-architecture"
+],
 "sources": [
 {
 "date": "2024-01-05",
@@ -191,6 +194,7 @@
 ],
 "sub": "congressional",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 323 of 1170, score 38). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A3/D3.",
-"timeline": []
+"tierRationale": "Re-graded B on a global pass (rank 321 of 1170, score 38). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A3/D3.",
+"timeline": [],
+"unverified": []
 }

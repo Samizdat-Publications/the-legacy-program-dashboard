@@ -27,6 +27,7 @@
 ],
 "cls": "institution",
 "cluster": "legacy",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -254,9 +255,7 @@
 "deg": 9,
 "denials": [],
 "desc": "THE MISSING SPINE. Every incident in this cluster happened inside Strategic Air Command, and until now the board had United States Air Force above and nothing between it and the bases. SAC owned Loring, Wurtsmith, Malmstrom, Minot, Grand Forks, F. E. Warren, Ellsworth and Walker; it ran the alert postures the 1975 documents invoke; and it is SAC command posts that appear as the reporting node in almost every primary record opened for this pass. The 24th NORAD Region Senior Director's Log for November 1975 reads almost entirely as a record of calls from 'SAC CP' and the 341st Strategic Air Command Post. The National Military Command Center's Loring memorandum of 29 October 1975 records that NORAD was informed of the incident by SAC and that the SAC Command Center reported back on the failure of the Army National Guard helicopter to locate the intruder, citing SAC CP OPS CONTROL 291954Z OCT 75. When Echo Flight went off alert at Malmstrom on 16 March 1967 it was SAC Headquarters that called in Ogden Air Materiel Area support for a complete engineering analysis within hours. The node exists so that a reader can see that these are not scattered base-level anomalies but a run of reports moving up one chain of command, and so that the base hubs have something to attach to.",
-"domains": [
-"nuclear-witnesses-2026-09-19"
-],
+"domains": [],
 "dossier": {
 "claims": [
 {
@@ -345,7 +344,11 @@
 "tier": "B"
 }
 ],
+"openQuestions": [],
 "short": "Strategic Air Command",
+"sourceFiles": [
+"nuclear-witnesses-2026-09-19"
+],
 "sources": [
 {
 "date": "1975-10-29",
@@ -380,6 +383,9 @@
 ],
 "sub": "The USAF major command that owned every installation in this cluster; the institutional spine of the nuclear-incursion record, 1946 to 1992",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 390 of 1170, score 35). 9 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D1.",
-"timeline": []
+"tierRationale": "Re-graded B on a global pass (rank 392 of 1170, score 35). 9 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D1.",
+"timeline": [],
+"unverified": [
+"SAC's own command history holdings for 1965 to 1977 have not been sought or opened by this board. Everything above is SAC seen through NORAD logs, NMCC memoranda and one wing history."
+]
 }

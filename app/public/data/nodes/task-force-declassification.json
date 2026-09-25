@@ -22,6 +22,7 @@
 ],
 "cls": "institution",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -119,9 +120,7 @@
 "deg": 4,
 "denials": [],
 "desc": "Established in the 119th Congress under the Committee on Oversight and Government Reform and chaired by Rep. Anna Paulina Luna, with Rep. Jasmine Crockett as ranking member, the Task Force is the institutional successor to the ad hoc 2023-2024 UAP hearings and the body through which the Grusch matter now runs. It held the 9 September 2025 hearing on UAP transparency and whistleblower protection, where Rep. Eli Crane entered his reprisal letter about Grusch into the record; and it hosted the 9 June 2026 Capitol press conference at which Grusch, Luna, Burchett, Burlison and Moskowitz demanded whistleblower immunity, NDA waivers, and release of classified UAP records. Grusch serves as Special Advisor to Burlison with an explicit brief supporting the Task Force. This is the first time in the eighty-year record that the central whistleblower has been formally embedded in the oversight body investigating his own allegations.",
-"domains": [
-"grusch"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "3",
@@ -135,7 +134,11 @@
 "label": "House Task Force on the Declassification of Federal Secrets",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "House Task Force on the Declassification of Federal Secrets",
+"sourceFiles": [
+"grusch"
+],
 "sources": [
 {
 "date": "2025-09-09",
@@ -155,6 +158,7 @@
 ],
 "sub": "Select task force of the Committee on Oversight and Government Reform",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 724 of 1170, score 24). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D3.",
-"timeline": []
+"tierRationale": "Re-graded C on a global pass (rank 723 of 1170, score 24). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D3.",
+"timeline": [],
+"unverified": []
 }

@@ -98,7 +98,9 @@
 "deg": 2,
 "denials": [],
 "domains": [
-"nuclear-witnesses-2026-09-19"
+"d-nuclear",
+"d-nuc",
+"d-witness"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -119,6 +121,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Robert J. Kaminski",
+"sourceFiles": [
+"nuclear-witnesses-2026-09-19"
+],
 "sources": [
 {
 "date": "2026-09-19",
@@ -144,7 +149,7 @@
 "status": "unknown",
 "sub": "Boeing Company engineer on the Echo Flight engineering investigation task group, Malmstrom AFB, March 1967",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 842 of 1170, score 20). 2 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D1.",
+"tierRationale": "Re-graded C on a global pass (rank 843 of 1170, score 20). 2 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D1.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": [

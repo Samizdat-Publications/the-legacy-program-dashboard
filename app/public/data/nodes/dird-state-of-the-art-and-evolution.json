@@ -42,6 +42,7 @@
 ],
 "cls": "document",
 "cluster": "other",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -110,6 +111,27 @@
 "id": "dird-series",
 "l0": true,
 "label": "The 38 Defense Intelligence Reference Documents (DIRDs)",
+"note": "",
+"sources": [
+{
+"date": null,
+"name": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237622/",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237622/"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "series member",
+"id": "dird-series",
+"l0": true,
+"label": "The 38 Defense Intelligence Reference Documents (DIRDs)",
 "note": "Membership of the DIRD series is established by the released document itself: its cover page carries the Defense Intelligence Reference Document mark and the DIA Defense Futures banner. Publication date 31 March 2010 on the cover. 32 pages in the released copy. The cover of the scanned release is degraded, so a document number or date is asserted here only where it reads unambiguously.",
 "sources": [
 {
@@ -174,11 +196,7 @@
 "deg": 4,
 "denials": [],
 "desc": "DIA Defense Intelligence Reference Document (Acquisition Threat Support series), 2010-03-31, DIA-08-1003-019, produced under the Advanced Aerospace Weapon System Applications (AAWSA/AAWSAP) Program contract with BAASS. Released under FOIA.",
-"domains": [
-"_rs-aawsap-dirds",
-"_rs-archive-mirror",
-"w7-dirds-4"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "nd",
@@ -192,7 +210,13 @@
 "label": "State of the Art and Evolution of High-Energy Laser Weapons",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "State of the Art and Evolution of High-Energy Laser Weapons",
+"sourceFiles": [
+"_rs-aawsap-dirds",
+"_rs-archive-mirror",
+"w7-dirds-4"
+],
 "sources": [
 {
 "date": "2010-03-31",
@@ -231,7 +255,8 @@
 }
 ],
 "sub": "defense-intelligence-reference-document",
-"tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 588 of 1170, score 28). 4 connections, 2 of them custody/funding/programmatic. Axes C0/A0/D0.",
-"timeline": []
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 551 of 1170, score 29). 5 connections, 2 of them custody/funding/programmatic. Axes C0/A0/D0.",
+"timeline": [],
+"unverified": []
 }

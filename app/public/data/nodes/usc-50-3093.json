@@ -47,6 +47,7 @@
 ],
 "cls": "legislation",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -78,7 +79,7 @@
 "edgeLabel": "Covert action is expressly outside the IC controlled access program regime",
 "id": "icd-906",
 "l0": false,
-"label": "ICD 906 — Controlled Access Programs (ODNI)",
+"label": "ICD 906 - Controlled Access Programs (ODNI)",
 "note": "ICD 906 section C.3: 'Nor does this Directive apply to special access programs under the purview of the National Security Council, such as covert action.'",
 "sources": [
 {
@@ -104,7 +105,7 @@
 "edgeLabel": "The general 'fully and currently informed' duty and its covert action exception",
 "id": "usc-50-3091",
 "l0": false,
-"label": "50 U.S.C. 3091 — General Congressional Oversight Provisions (NSA 1947 sec. 501)",
+"label": "50 U.S.C. 3091 - General Congressional Oversight Provisions (NSA 1947 sec. 501)",
 "note": "Section 3091(a)(1) states the general duty; section 3093(c)(2)-(3) supplies the limited-notification and no-prior-notice exceptions for covert action findings.",
 "sources": [
 {
@@ -128,11 +129,7 @@
 "deg": 3,
 "denials": [],
 "desc": "Section 503 of the National Security Act of 1947, added by the Intelligence Authorization Act for Fiscal Year 1991, Public Law 102-88 of 14 August 1991, governs the one category of activity that sits outside every special access program reporting regime. ICD 906 section C.3 states in terms that neither it nor the DoD SAP regime applies to 'special access programs under the purview of the National Security Council, such as covert action'. Section 3093 requires a written presidential finding before any covert action, reported in writing to the intelligence committees 'as soon as possible after such approval and before the initiation of the covert action'. Subsection (c)(2) is the exception the press calls the Gang of Eight: where the President determines it essential to limit access 'to meet extraordinary circumstances affecting vital interests of the United States', the finding may go to the chairmen and ranking minority members of the intelligence committees, the Speaker and minority leader of the House, the majority and minority leaders of the Senate, and any other leadership members the President chooses to include. Subsection (c)(3) permits no prior notice at all, requiring only that the President afterwards 'fully inform the congressional intelligence committees in a timely fashion' with a statement of reasons. Subsection (c)(5), added in 2010, requires a written statement of reasons for limiting access and forces a reconsideration within 180 days - a protection with no counterpart in the SAP statutes. Subsection (d) extends the same notification rules to 'any significant change in a previously approved covert action' and lists the factors that make an undertaking significant, including whether it 'requires an expansion of existing authorities, including authorities relating to research, development, or operations' and whether it 'results in the expenditure of significant funds or other resources'. For this board the importance is structural: an activity characterised as covert action under NSC purview is reportable only under section 3093, is invisible to the defense committees entirely, and can lawfully be known to as few as eight members of Congress - or, under (c)(3), to none in advance.",
-"domains": [
-"_rs-sap-docs",
-"w15-live-originals",
-"w2-sap-architecture"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "1",
@@ -143,10 +140,16 @@
 "hl": null,
 "id": "usc-50-3093",
 "l0": false,
-"label": "50 U.S.C. 3093 — Presidential Approval and Reporting of Covert Actions",
+"label": "50 U.S.C. 3093 - Presidential Approval and Reporting of Covert Actions",
 "locLabel": null,
 "members": null,
-"short": "50 U.S.C. 3093 — Presidential Approval and Reporting of Covert Actions",
+"openQuestions": [],
+"short": "50 U.S.C. 3093 - Presidential Approval and Reporting of Covert Actions",
+"sourceFiles": [
+"_rs-sap-docs",
+"w15-live-originals",
+"w2-sap-architecture"
+],
 "sources": [
 {
 "date": "2024-01-05",
@@ -171,6 +174,7 @@
 ],
 "sub": "statute",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 283 of 1170, score 40). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A3/D3.",
-"timeline": []
+"tierRationale": "Re-graded B on a global pass (rank 281 of 1170, score 40). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A3/D3.",
+"timeline": [],
+"unverified": []
 }

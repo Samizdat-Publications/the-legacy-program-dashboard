@@ -12,6 +12,7 @@
 ],
 "cls": "document",
 "cluster": "research",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -41,9 +42,7 @@
 "deg": 1,
 "denials": [],
 "desc": "Published application 15/678672, filed 16 August 2017 and published 21 February 2019, assigned to the United States as represented by the Secretary of the Navy. Room-temperature superconduction is the enabling condition for the field strengths the other filings assume, which is why it belongs in the set rather than beside it.",
-"domains": [
-"pais-patents"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "3",
@@ -57,7 +56,11 @@
 "label": "US Application 2019/0058105 - Piezoelectricity-induced Room Temperature Superconductor",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "US Application 2019/0058105 - Piezoelectricity-induced Room Temperature Superconductor",
+"sourceFiles": [
+"pais-patents"
+],
 "sources": [
 {
 "date": null,
@@ -68,5 +71,6 @@
 "sub": "Application 15/678672, filed 16 August 2017, published 21 February 2019; assignee the Secretary of the Navy",
 "tier": "C",
 "tierRationale": "Re-graded C on a global pass (rank 1054 of 1170, score 13). 1 connections, 1 of them custody/funding/programmatic. Axes C1/A1/D0.",
-"timeline": []
+"timeline": [],
+"unverified": []
 }

@@ -72,6 +72,7 @@
 ],
 "cls": "institution",
 "cluster": "ffrdc",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -430,18 +431,20 @@
 "deg": 14,
 "denials": [
 {
-"by": {
+"a": {
 "id": "project-bear",
 "label": "Project BEAR (Battelle contract to Project GRUDGE)"
 },
+"b": {
+"id": "battelle",
+"label": "Battelle Memorial Institute"
+},
+"by": null,
 "claimTier": 1,
 "denialKind": "undirected",
 "label": "Battelle's authorship of Special Report No. 14 was deliberately concealed behind an ATIC cover",
 "note": "AARO states that Battelle 'released a report under the cover of ATIC to maintain its anonymity.' The first public analytical product of the government's UFO investigation was ghost-written by a private contractor at the contractor's request.",
-"of": {
-"id": "battelle",
-"label": "Battelle Memorial Institute"
-},
+"of": null,
 "sources": [
 {
 "date": "2024-03-08",
@@ -452,11 +455,7 @@
 }
 ],
 "desc": "Battelle is the oldest and most persistent institution on this board, and the only one that appears at both ends of the eighty-year arc. In 1952 the Air Force contracted Battelle to run the statistical analysis of Project Blue Book's UFO data under the codename Project Stork; the result, Project Blue Book Special Report No. 14, dated 5 May 1955, was the largest quantitative study of UFO reports ever performed and found that the best-documented cases were the ones least likely to be explained. On 9 January 1953, five days before the Robertson Panel convened, Battelle's Air Force liaison H. C. Cross wrote the memorandum Jacques Vallee later codenamed 'Pentacle', proposing that different types of aerial activity be secretly and purposefully scheduled in areas of high UFO reporting. Battelle also performed Wright-Patterson-sponsored metallurgical work on nickel-titanium alloys in 1948-49, the research lineage from which nitinol shape-memory alloy emerged, and researchers including Anthony Bragalia have argued since 2009 that the corresponding Battelle reports are missing from both Air Force and Battelle archives. Battelle today is the largest contractor-operator of DOE national laboratories in the country: sole operator of Pacific Northwest National Laboratory under contract DEAC0576RL01830, a management-and-operating relationship recorded on USAspending at more than 30 billion dollars since 1978; co-operator of Oak Ridge through UT-Battelle LLC; operator of Idaho National Laboratory through Battelle Energy Alliance; and a partner in NREL and Brookhaven. In 2022 AARO contracted Oak Ridge - a UT-Battelle laboratory - to test the magnesium alloy specimen alleged to originate from a 1947 crash. In 2024 MITRE hired Battelle's executive vice president for laboratory management, Mark Peters, as its chief executive. In December 2023 AARO's first director, Sean Kirkpatrick, left government for Oak Ridge. The institution that analysed the Air Force's UFO data in 1952 is the institution that analysed the Pentagon's UFO material in 2022, and it supplied the chief executive of the corporation Congress is now interrogating. That is not a coincidence that needs explaining away; it is a structure that needs mapping.",
-"domains": [
-"_rs-archive-mirror",
-"ffrdcs",
-"primes-custody"
-],
+"domains": [],
 "dossier": {
 "claims": [
 {
@@ -678,7 +677,13 @@
 "tier": "C"
 }
 ],
+"openQuestions": [],
 "short": "Battelle Memorial Institute",
+"sourceFiles": [
+"_rs-archive-mirror",
+"ffrdcs",
+"primes-custody"
+],
 "sources": [
 {
 "date": "1972-01-01",
@@ -763,6 +768,7 @@
 ],
 "sub": "Private nonprofit applied science institute, Columbus, Ohio, est. 1929; operator or co-operator of PNNL, ORNL, INL, NREL, Brookhaven and NBACC",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 36 of 1170, score 90). 15 connections, 6 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A2/D1.",
-"timeline": []
+"tierRationale": "Re-graded A on a global pass (rank 37 of 1170, score 90). 15 connections, 6 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A2/D1.",
+"timeline": [],
+"unverified": []
 }

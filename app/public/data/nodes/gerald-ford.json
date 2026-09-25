@@ -116,8 +116,8 @@
 "deg": 2,
 "denials": [],
 "domains": [
-"_rs-archive-mirror",
-"history-1940s-1960s"
+"d-legacy",
+"d-oversight"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -138,6 +138,10 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Gerald R. Ford",
+"sourceFiles": [
+"_rs-archive-mirror",
+"history-1940s-1960s"
+],
 "sources": [
 {
 "date": "2026-07-06",
@@ -158,7 +162,7 @@
 "status": "dead",
 "sub": "House Minority Leader; later 38th President",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 863 of 1170, score 19). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 865 of 1170, score 19). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": [

@@ -27,6 +27,7 @@
 ],
 "cls": "institution",
 "cluster": "ic",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 3,
@@ -108,9 +109,7 @@
 "deg": 3,
 "denials": [],
 "desc": "An entity whose existence is established by a single primary document and whose composition, charter, chair and location are unknown. ODNI Memorandum ES 2026-00818 of 2026 directs the release of all UAP information across the Intelligence Community to the 'Presidential Unsealing and Reporting System for UAP Encounters (PURSUE) Task Force for review and declassification', treats PURSUE as a presidential designee capable of receiving information that existing NDAs would otherwise bar, requires every IC element to name a PURSUE designee within 30 days, and refers to 'authorized PURSUE representative[s]' who may take witness reports in the same breath as AARO. That is a body with three powers: it receives compartmented information, it conducts declassification review, and it can waive secrecy obligations by virtue of being a presidential designee. No charter, executive order, membership roster, chair, staff, budget line or physical location for it has been published as of 12 August 2026. The public evidence of its output is the war.gov/UFO portal and its five tranches. The gap between those two facts - a body with declassification authority over the whole IC UAP holdings, and a website with no manifest - is the central structural finding of this domain in 2026. It also creates a new and unexamined risk that Burlison identified in his 29 July 2026 statement: a witness who tells a PURSUE representative what he knows may have satisfied the waiver while placing his account inside an executive-branch channel, and it is not established that the abrogation extends to testimony given to Congress before referral to the executive branch.",
-"domains": [
-"w2-2025-2026"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "3",
@@ -124,7 +123,11 @@
 "label": "PURSUE Task Force",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "PURSUE Task Force",
+"sourceFiles": [
+"w2-2025-2026"
+],
 "sources": [
 {
 "date": "2026-08-01",
@@ -144,6 +147,7 @@
 ],
 "sub": "Presidential task force with declassification review function; named in ODNI ES 2026-00818",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 393 of 1170, score 35). 3 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D3.",
-"timeline": []
+"tierRationale": "Re-graded B on a global pass (rank 395 of 1170, score 35). 3 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D3.",
+"timeline": [],
+"unverified": []
 }

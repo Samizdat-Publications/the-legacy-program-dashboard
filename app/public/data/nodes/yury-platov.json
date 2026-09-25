@@ -73,7 +73,8 @@
 "deg": 1,
 "denials": [],
 "domains": [
-"w2-international"
+"d-international",
+"d-denial"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -94,6 +95,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Yury Viktorovich Platov",
+"sourceFiles": [
+"w2-international"
+],
 "sources": [
 {
 "date": "2010-11-19",

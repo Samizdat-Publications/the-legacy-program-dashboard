@@ -113,8 +113,9 @@
 "deg": 2,
 "denials": [],
 "domains": [
-"ffrdcs",
-"w16-thin-people"
+"d-ffrdc",
+"d-ic",
+"d-coverup"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -135,6 +136,10 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Donald M. Kerr",
+"sourceFiles": [
+"ffrdcs",
+"w16-thin-people"
+],
 "sources": [
 {
 "date": "2018-11-06",
@@ -150,16 +155,17 @@
 "status": "former",
 "sub": "Former Chairman, MITRE Board of Trustees (elected 2018); former Principal Deputy Director of National Intelligence (2007-2009); former Director, National Reconnaissance Office; former Director, Los Alamos National Laboratory",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 451 of 1170, score 32). 2 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D0.",
+"tierRationale": "Re-graded B on a global pass (rank 449 of 1170, score 32). 2 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D0.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2018-11-06",
+"grade": "A",
 "id": "tl-ffrdc-2018-kerr",
 "label": "Former PDDNI Donald Kerr elected MITRE board chairman",
 "precision": "day",
 "strand": "program",
-"text": "MITRE's trustees elect a former director of Los Alamos and of the National Reconnaissance Office as chairman, and former House Intelligence Committee chairman Mike Rogers as vice chairman.",
-"tier": "A"
+"text": "MITRE's trustees elect a former director of Los Alamos and of the National Reconnaissance Office as chairman, and former House Intelligence Committee chairman Mike Rogers as vice chairman."
 }
 ],
 "unexplainedResidual": null,

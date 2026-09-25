@@ -32,6 +32,7 @@
 ],
 "cls": "program",
 "cluster": "ic",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -145,9 +146,7 @@
 "deg": 5,
 "denials": [],
 "desc": "A fully documented case of a real programme carrying a second, classified programme inside it, closed by the government and then released by the agency that ran it. Publicly MOL was an Air Force laboratory to determine the military usefulness of men in space; inside it sat DORIAN, an NRO reconnaissance system handled in the BYEMAN control system and designated KH-10 in 1969. Seventeen officers were astronaut-trained between 1965 and 1969, on a modified Gemini-B with a hatch through the heat shield, for polar launches from Vandenberg on the Titan-IIIM. None of them flew. The programme was cancelled on 10 June 1969 with 13,187 cleared contractor personnel on it, and the NRO declassified almost the entire DORIAN collection in October 2015. It is the strongest available answer to a question this board is repeatedly asked, which is what a secret space programme actually looks like on the record. Two opened sources disagree on one number and the disagreement is recorded rather than resolved: the NRO volume gives a 70-inch aperture and NASA gives a 72-inch diameter primary mirror.",
-"domains": [
-"michels-2026-09-02"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -161,7 +160,11 @@
 "label": "Manned Orbiting Laboratory and the DORIAN / KH-10 reconnaissance payload",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Manned Orbiting Laboratory and the DORIAN / KH-10 reconnaissance payload",
+"sourceFiles": [
+"michels-2026-09-02"
+],
 "sources": [
 {
 "date": "2019-05-01",
@@ -181,16 +184,18 @@
 ],
 "sub": "USAF programme with an NRO black mission; announced December 1963, cancelled 10 June 1969, declassified October 2015",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 238 of 1170, score 43). 5 connections, 2 of them custody/funding/programmatic. Axes C1/A3/D2.",
+"tierRationale": "Re-graded B on a global pass (rank 237 of 1170, score 43). 5 connections, 2 of them custody/funding/programmatic. Axes C1/A3/D2.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2015-10-22",
+"grade": "B",
 "id": "tl-2015-10-22-mol-declassified",
 "label": "NRO declassifies almost the entire DORIAN collection",
 "precision": "day",
 "strand": "program",
-"text": "The NRO's Center for the Study of National Reconnaissance held a panel at the National Museum of the United States Air Force on the occasion of the NRO declassifying almost its entire collection of records on the Dorian program: over 850 documents with some 22,000 pages and 280 photographs. Line-by-line review had taken over a year, and the collection was posted on the NRO public web page the day after the panel.",
-"tier": "B"
+"text": "The NRO's Center for the Study of National Reconnaissance held a panel at the National Museum of the United States Air Force on the occasion of the NRO declassifying almost its entire collection of records on the Dorian program: over 850 documents with some 22,000 pages and 280 photographs. Line-by-line review had taken over a year, and the collection was posted on the NRO public web page the day after the panel."
 }
-]
+],
+"unverified": []
 }

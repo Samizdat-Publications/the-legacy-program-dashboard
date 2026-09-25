@@ -77,6 +77,7 @@
 ],
 "cls": "document",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 3,
@@ -310,6 +311,14 @@
 "deg": 7,
 "denials": [
 {
+"a": {
+"id": "mitre-corporation",
+"label": "The MITRE Corporation"
+},
+"b": {
+"id": "burlison-mitre-letter-2026",
+"label": "Rep. Burlison records demand to MITRE, 22 May 2026"
+},
 "by": {
 "id": "mitre-corporation",
 "label": "The MITRE Corporation"
@@ -332,11 +341,7 @@
 }
 ],
 "desc": "The most consequential document in this domain and the first time Congress has formally interrogated an FFRDC operator about UAP holdings. Dated 22 May 2026, ten pages, obtained by DefenseScoop and announced by Burlison's office on 26 May. It directs MITRE to identify and preserve all records connected to unidentified anomalous phenomena, including 'unexplained aerospace or undersea events, technologies of unknown origin, and alleged crash-retrieval or reverse-engineering programs', together with Special and Controlled Access Programs, sensor data, materials analysis and classification guides - reaching back to 1930. It contains more than forty production requests, including work involving Lockheed Martin, Northrop Grumman, Raytheon, Boeing, General Dynamics, SAIC and Leidos, and covers UAP detection and tracking across air, space, maritime, cyber and electromagnetic domains. It sets a schedule: designate a senior responsible officer within 5 business days; issue a preservation hold within 10 business days; coordinate a classified briefing for cleared committee staff within 14 days; deliver written responses and a records-location index within 30 days; produce unclassified materials in native electronic format with complete metadata within 45 days. MITRE must also account for records created, handled, transferred, withheld or destroyed by the corporation, its FFRDCs or its subcontractors. The rationale is stated in FFRDC terms: 'FFRDCs often receive special access to government facilities, data, sponsor requirements, and sensitive technical information that ordinary private contractors may not receive', and 'They cannot become private vaults for federal records - especially records Congress has directed to be identified, preserved, reviewed, and transferred for public release.' Burlison also states the standard of proof he is applying: 'This inquiry does not require MITRE to accept any particular conclusion about the origin or nature of UAP. It requires MITRE to tell Congress what it knows, what it holds, what it has held, what it has transferred, what it has destroyed or was directed to destroy, and which federal sponsors or classification authorities control any responsive records.' MITRE's answer, that it would coordinate with the federal agencies responsible for the work, is the FFRDC structure asserting itself.",
-"domains": [
-"congress-house",
-"ffrdcs",
-"w12-duplicate-collapse"
-],
+"domains": [],
 "dossier": {
 "claims": [
 {
@@ -509,7 +514,13 @@
 "tier": "C"
 }
 ],
+"openQuestions": [],
 "short": "Burlison to MITRE, 22 May 2026",
+"sourceFiles": [
+"congress-house",
+"ffrdcs",
+"w12-duplicate-collapse"
+],
 "sources": [
 {
 "date": "2026-05-27",
@@ -537,40 +548,45 @@
 "tierRationale": "Re-graded A on a global pass (rank 69 of 1170, score 73). 10 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A2/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2026-05-22",
+"grade": "A",
 "id": "ch-2026-05-22",
 "label": "The MITRE demand",
 "precision": "day",
 "strand": "oversight",
-"text": "Burlison sends MITRE a ten-page letter with 40+ production requests covering UAP, anomalous materials and reverse engineering back to 1930, due in 45 days in native format with metadata.",
-"tier": "A"
+"text": "Burlison sends MITRE a ten-page letter with 40+ production requests covering UAP, anomalous materials and reverse engineering back to 1930, due in 45 days in native format with metadata."
 },
 {
+"claimTier": null,
 "date": "2026-05-22",
+"grade": "A",
 "id": "tl-ffrdc-2026-mitre-letter",
 "label": "Burlison's 10-page production request to MITRE",
 "precision": "day",
 "strand": "oversight",
-"text": "The first congressional records demand ever addressed to an FFRDC operator on UAP: more than 40 requests covering crash-retrieval and reverse-engineering programmes, Special and Controlled Access Programs, sensor data and materials analysis back to 1930.",
-"tier": "A"
+"text": "The first congressional records demand ever addressed to an FFRDC operator on UAP: more than 40 requests covering crash-retrieval and reverse-engineering programmes, Special and Controlled Access Programs, sensor data and materials analysis back to 1930."
 },
 {
+"claimTier": 2,
 "date": "2026-05-22",
+"grade": null,
 "id": "tl-mitre-demand",
 "label": "Burlison demands MITRE's UAP records back to 1930",
 "precision": "day",
 "strand": "oversight",
-"text": "A ten-page letter with over 40 production requests, a 45-day deadline, native electronic format with complete metadata, naming eleven other contractors in scope. MITRE says it will coordinate with the federal agencies responsible for the work.",
-"tier": "2"
+"text": "A ten-page letter with over 40 production requests, a 45-day deadline, native electronic format with complete metadata, naming eleven other contractors in scope. MITRE says it will coordinate with the federal agencies responsible for the work."
 },
 {
+"claimTier": 3,
 "date": "2026-07-06",
+"grade": null,
 "id": "tl-mitre-deadline",
 "label": "MITRE's 45-day production deadline falls",
 "precision": "day",
 "strand": "oversight",
-"text": "No public production has been reported as of 12 August 2026 in response to Burlison's 22 May demand for records back to 1930.",
-"tier": "3"
+"text": "No public production has been reported as of 12 August 2026 in response to Burlison's 22 May demand for records back to 1930."
 }
-]
+],
+"unverified": []
 }

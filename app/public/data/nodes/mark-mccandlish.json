@@ -454,18 +454,20 @@
 "deg": 17,
 "denials": [
 {
-"by": {
+"a": {
 "id": "mark-mccandlish",
 "label": "Mark McCandlish"
 },
+"b": {
+"id": "eric-davis",
+"label": "Eric W. Davis"
+},
+"by": null,
 "claimTier": 2,
 "denialKind": null,
 "label": "Davis says the ARV claims are myth",
 "note": "On the Jesse Michels episode published 12 December 2024, video id LnAiNChnuEQ, Eric Davis said no ARV exists and none has ever been built, and that the Northrop Grumman and Area 51 ARV rumours are 'all myth'. A claimant node carries the case against. The episode is identified by video id: the corpus recorded it under a different title on a differently named channel.",
-"of": {
-"id": "eric-davis",
-"label": "Eric W. Davis"
-},
+"of": null,
 "sources": [
 {
 "date": "2024-12-12",
@@ -475,10 +477,7 @@
 ]
 }
 ],
-"domains": [
-"arv-2026-09-18",
-"disclosure-project-2026-09-19"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "3",
@@ -498,6 +497,10 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Mark McCandlish",
+"sourceFiles": [
+"arv-2026-09-18",
+"disclosure-project-2026-09-19"
+],
 "sources": [
 {
 "date": "2001-04",
@@ -531,58 +534,64 @@
 "tierRationale": "Re-graded A on a global pass (rank 141 of 1170, score 53). 17 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1990-10-01",
+"grade": "B",
 "id": "tl-1990-10-01-avweek-artwork",
 "label": "YEAR INFERRED: Aviation Week prints McCandlish's paintings of two aircraft",
 "precision": "day",
 "strand": "witness",
-"text": "The 1990 interview notes state 'Brad is the source of artwork done by Mark McCandlish and featured in AVWK's Oct. 1 issue.' The year is 1990 only by the document's own December 1990 dating, and the issue itself was NOT OPENED. It is the highest-value gap on this lead.",
-"tier": "B"
+"text": "The 1990 interview notes state 'Brad is the source of artwork done by Mark McCandlish and featured in AVWK's Oct. 1 issue.' The year is 1990 only by the document's own December 1990 dating, and the issue itself was NOT OPENED. It is the highest-value gap on this lead."
 },
 {
+"claimTier": null,
 "date": "2000-12",
+"grade": "B",
 "id": "tl-2000-12-mccandlish-testimony",
 "label": "McCandlish's Disclosure Project testimony is taken",
 "precision": "month",
 "strand": "witness",
-"text": "Printed at section 3.8.5 under the heading 'Testimony of Mr. Mark McCandlish, US Air Force / December 2000'. It is where the claimed craft acquires the names Alien Reproduction Vehicle and Flux Liner in print, where the sizes are given as 24 / 60 / 'about 120 to 130 feet', and where the Frank Carlucci identification is published in his own voice and labelled as his own speculation.",
-"tier": "B"
+"text": "Printed at section 3.8.5 under the heading 'Testimony of Mr. Mark McCandlish, US Air Force / December 2000'. It is where the claimed craft acquires the names Alien Reproduction Vehicle and Flux Liner in print, where the sizes are given as 24 / 60 / 'about 120 to 130 feet', and where the Frank Carlucci identification is published in his own voice and labelled as his own speculation."
 },
 {
+"claimTier": null,
 "date": "2021-04-13",
+"grade": "B",
 "id": "tl-2021-04-13-mccandlish-death",
 "label": "McCandlish declared deceased at 1946 Trumpet Drive, Redding, California",
 "precision": "day",
 "strand": "witness",
-"text": "Shasta County Sheriff-Coroner case C21-0324, Verdict of Death (without jury): 'In the matter of the death of Mark Edward McCandlish, a 68 year old male ... he was declared deceased on the 13th day of April 2021.' Cause of death 'Gunshot wound of head'; other significant conditions 'None'.",
-"tier": "B"
+"text": "Shasta County Sheriff-Coroner case C21-0324, Verdict of Death (without jury): 'In the matter of the death of Mark Edward McCandlish, a 68 year old male ... he was declared deceased on the 13th day of April 2021.' Cause of death 'Gunshot wound of head'; other significant conditions 'None'."
 },
 {
+"claimTier": null,
 "date": "2021-04-19",
+"grade": "B",
 "id": "tl-2021-04-19-external-examination",
 "label": "External examination at 0713 by Dan Purtzer MD; no internal examination performed",
 "precision": "day",
 "strand": "witness",
-"text": "The Report of External Examination, dated 04/19/21 at 0713, gives the cause of death as 'central nervous system damage caused by self-inflicted gunshot wound to the head', records an entrance wound '1 cm above the right ear' whose edges 'have powder burns' and an exit wound above the left ear, and states on page 2: 'Due to the obvious cause of death, internal examination is not performed.'",
-"tier": "B"
+"text": "The Report of External Examination, dated 04/19/21 at 0713, gives the cause of death as 'central nervous system damage caused by self-inflicted gunshot wound to the head', records an entrance wound '1 cm above the right ear' whose edges 'have powder burns' and an exit wound above the left ear, and states on page 2: 'Due to the obvious cause of death, internal examination is not performed.'"
 },
 {
+"claimTier": null,
 "date": "2021-06-21",
+"grade": "B",
 "id": "tl-2021-06-21-verdict-signed",
 "label": "Verdict of Death signed by Chief Deputy Coroner Logan Stonehouse; manner of death Suicide",
 "precision": "day",
 "strand": "witness",
-"text": "The verdict gives manner of death as Suicide and records that 'Phillip Wacker, Deputy Coroner, conducted the investigation and established the identity of the decedent. A postmortem examination was conducted by Dr. Dan Purtzer, M.D., Pathologist.' The postmortem it rests on is an external examination that expressly declined an internal one.",
-"tier": "B"
+"text": "The verdict gives manner of death as Suicide and records that 'Phillip Wacker, Deputy Coroner, conducted the investigation and established the identity of the decedent. A postmortem examination was conducted by Dr. Dan Purtzer, M.D., Pathologist.' The postmortem it rests on is an external examination that expressly declined an internal one."
 },
 {
+"claimTier": null,
 "date": "2024-10-21",
+"grade": "C",
 "id": "tl-2024-10-21-gerb-arv-episode",
 "label": "UAP Gerb publishes 'Alien Reproduction Vehicle - the Testimony of Mark McCandlish'",
 "precision": "day",
 "strand": "witness",
-"text": "Video id wF07QMm6joE, channel 'UAP Gerb', runtime 01:09:12. Its description opens 'In late 1988, accomplished aerospace illustrator Mark McCandlish came into information that indicated the United States ...'. This is the episode that brings the account to this board's corpus; several assertions attributed to Gerb in the corpus files are recorded on these nodes as unverified rather than as claims.",
-"tier": "C"
+"text": "Video id wF07QMm6joE, channel 'UAP Gerb', runtime 01:09:12. Its description opens 'In late 1988, accomplished aerospace illustrator Mark McCandlish came into information that indicated the United States ...'. This is the episode that brings the account to this board's corpus; several assertions attributed to Gerb in the corpus files are recorded on these nodes as unverified rather than as claims."
 }
 ],
 "unexplainedResidual": null,

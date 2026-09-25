@@ -37,6 +37,7 @@
 ],
 "cls": "institution",
 "cluster": "legacy",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -523,7 +524,7 @@
 "edgeLabel": "Governs special access programs of the nuclear weapons complex",
 "id": "usc-50-2426",
 "l0": false,
-"label": "50 U.S.C. 2426 — Congressional Oversight of DOE/NNSA Special Access Programs",
+"label": "50 U.S.C. 2426 - Congressional Oversight of DOE/NNSA Special Access Programs",
 "note": "50 U.S.C. 2426 imposes SAP reporting on the Administrator of the National Nuclear Security Administration, a semi-autonomous DOE agency.",
 "sources": [
 {
@@ -542,6 +543,14 @@
 "deg": 21,
 "denials": [
 {
+"a": {
+"id": "doe",
+"label": "United States Department of Energy"
+},
+"b": {
+"id": "nara-uap-collection",
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection"
+},
 "by": {
 "id": "doe",
 "label": "United States Department of Energy"
@@ -563,6 +572,14 @@
 ]
 },
 {
+"a": {
+"id": "odni-memo-es-2026-00818",
+"label": "ODNI Memorandum ES 2026-00818 - Preliminary Guidance for Implementation of NDA Waiver"
+},
+"b": {
+"id": "doe",
+"label": "United States Department of Energy"
+},
 "by": {
 "id": "doe",
 "label": "United States Department of Energy"
@@ -590,11 +607,7 @@
 }
 ],
 "desc": "DOE is the single most important agency on this board that has never testified about UAP, because DOE holds a classification authority that no executive order can reach. Created by the Department of Energy Organization Act of 1977 as successor to the Atomic Energy Commission and the Energy Research and Development Administration, DOE administers the Restricted Data and Formerly Restricted Data categories created by the Atomic Energy Act of 1954 - information that is 'born classified' by statute, outside the Executive Order 13526 framework, and therefore outside any presidential declassification directive that operates only on national security information. A president can order the release of UAP files under EO 13526; he cannot, by executive order alone, release Restricted Data. DOE's semi-autonomous National Nuclear Security Administration, established by Congress in 2000, runs the weapons complex: Los Alamos, Sandia and Lawrence Livermore national laboratories, the Nevada National Security Site, the Pantex Plant, Y-12 at Oak Ridge and the Savannah River Site - a distributed archipelago of guarded, instrumented, contractor-operated facilities with independent security regimes, its own police force, its own clearance system (the Q clearance) and a demonstrated capability to store and analyse anomalous material under a cover story. DOE's documented UAP footprint is old and specific: the 1948-1951 green fireball flap centred on Los Alamos and Sandia, prompting the February 1949 Los Alamos conference attended by Edward Teller, Lincoln LaPaz and AEC and Air Force personnel and the subsequent Project TWINKLE instrumented observation effort; the 1980 Kirtland AFB/Manzano Weapons Storage Area intrusions adjacent to the nuclear stockpile; and the modern materials-analysis work performed for AARO at Oak Ridge National Laboratory. AARO's Historical Record Report records only that 'AARO sent guidance and requests to DoD, IC elements, DOE, and DHS to review and provide any NDAs pertaining to UAP' - a records request, not an inspection. No DOE official has ever testified at a UAP hearing.",
-"domains": [
-"_rs-archive-mirror",
-"dulce-2026-09-19",
-"w2-agencies"
-],
+"domains": [],
 "dossier": {
 "claims": [
 {
@@ -789,11 +802,17 @@
 {
 "cls": "legislation",
 "id": "usc-50-2426",
-"label": "50 U.S.C. 2426 — Congressional Oversight of DOE/NNSA Special Access Programs",
+"label": "50 U.S.C. 2426 - Congressional Oversight of DOE/NNSA Special Access Programs",
 "tier": "B"
 }
 ],
+"openQuestions": [],
 "short": "United States Department of Energy",
+"sourceFiles": [
+"_rs-archive-mirror",
+"dulce-2026-09-19",
+"w2-agencies"
+],
 "sources": [
 {
 "date": "2026-07-05",
@@ -838,25 +857,28 @@
 ],
 "sub": "Successor to the Atomic Energy Commission; holder of Restricted Data authority independent of the executive classification system",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 44 of 1170, score 84). 22 connections, 6 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C3/A3/D0.",
+"tierRationale": "Re-graded A on a global pass (rank 45 of 1170, score 84). 22 connections, 6 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C3/A3/D0.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1949-02-16",
+"grade": "B",
 "id": "ag-tl-1949-fireballs",
 "label": "Los Alamos green fireball conference",
 "precision": "month",
 "strand": "program",
-"text": "AEC and Air Force personnel, with Edward Teller and Lincoln LaPaz, meet at Los Alamos over the green fireball incursions above the atomic complex. The Department of Energy's institutional predecessor is in the UAP record from the first decade.",
-"tier": "B"
+"text": "AEC and Air Force personnel, with Edward Teller and Lincoln LaPaz, meet at Los Alamos over the green fireball incursions above the atomic complex. The Department of Energy's institutional predecessor is in the UAP record from the first decade."
 },
 {
+"claimTier": null,
 "date": "1954-08-30",
+"grade": "A",
 "id": "ag-tl-1954-aea",
 "label": "Atomic Energy Act of 1954",
 "precision": "day",
 "strand": "program",
-"text": "Restricted Data is created as a category classified by statute rather than executive order. Any material placed under this authority becomes permanently beyond the reach of presidential declassification directives.",
-"tier": "A"
+"text": "Restricted Data is created as a category classified by statute rather than executive order. Any material placed under this authority becomes permanently beyond the reach of presidential declassification directives."
 }
-]
+],
+"unverified": []
 }

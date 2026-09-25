@@ -22,6 +22,7 @@
 ],
 "cls": "institution",
 "cluster": "research",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -93,9 +94,7 @@
 "deg": 3,
 "denials": [],
 "desc": "The J. Allen Hynek Center for UFO Studies, founded in 1973 by the Northwestern University astronomer who had been Project Blue Book's scientific consultant, is the institutional home of the more rigorous end of the civilian field and appears on this board mainly through its people and its self-corrections. Donald R. Schmitt was its co-director of special investigations while co-writing the two Randle-Schmitt Roswell books; Kevin Randle has worked through it; Stringfield acknowledged its cooperation in Status Report VII; Allan Hendry investigated the Cash-Landrum case for it in 1981; and Stringfield records consulting its scientific director in November 1993 on the Roswell body count. Its most important single act on this board is negative: in 1992 CUFOS scientific director Mark Rodeghier joined Fred Whiting of the Fund for UFO Research to publish 'The Plains of San Agustin Controversy', an investigation that dismantled Gerald Anderson, the only first-hand witness to a claimed second 1947 crash site and a witness the field badly wanted to be true. An organisation that publishes findings against its own interest is producing evidence rather than advocacy, and this board weights it accordingly.",
-"domains": [
-"w2-retrieval-literature"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "1",
@@ -109,7 +108,11 @@
 "label": "J. Allen Hynek Center for UFO Studies (CUFOS)",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "J. Allen Hynek Center for UFO Studies (CUFOS)",
+"sourceFiles": [
+"w2-retrieval-literature"
+],
 "sources": [
 {
 "date": "2026-08-12",
@@ -129,6 +132,7 @@
 ],
 "sub": "Civilian research body founded 1973 by J. Allen Hynek, Chicago",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 963 of 1170, score 17). 3 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D2.",
-"timeline": []
+"tierRationale": "Re-graded C on a global pass (rank 962 of 1170, score 17). 3 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D2.",
+"timeline": [],
+"unverified": []
 }

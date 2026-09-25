@@ -76,7 +76,7 @@
 "url": "https://www.twz.com/tic-tac-uap-incident-included-in-72-newly-released-range-incursion-reports"
 }
 ],
-"tier": "A",
+"tier": "B",
 "type": "behavioral"
 },
 {
@@ -149,7 +149,8 @@
 "deg": 4,
 "denials": [],
 "domains": [
-"aviators-incidents"
+"d-aviators",
+"d-coverup"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -170,6 +171,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Kevin Day",
+"sourceFiles": [
+"aviators-incidents"
+],
 "sources": [
 {
 "date": "2023-07-26",

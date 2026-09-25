@@ -567,12 +567,11 @@
 "deg": 17,
 "denials": [],
 "domains": [
-"disclosure-project-2026-09-19",
-"dulce-2026-09-19",
-"elizondo-ttsa",
-"history-1970s-2000s",
-"releases-2023-2026",
-"w2-2025-2026"
+"d-disclosure",
+"d-coverup",
+"d-oversight",
+"d-records",
+"d-media"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -593,6 +592,14 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "John Greenewald Jr.",
+"sourceFiles": [
+"disclosure-project-2026-09-19",
+"dulce-2026-09-19",
+"elizondo-ttsa",
+"history-1970s-2000s",
+"releases-2023-2026",
+"w2-2025-2026"
+],
 "sources": [
 {
 "date": "2026-09-19",
@@ -676,13 +683,14 @@
 "tierRationale": "Re-graded A on a global pass (rank 100 of 1170, score 63). 17 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1997-09-01",
+"grade": "A",
 "id": "t-1997-foia",
 "label": "DoD FOIA case 97-F-1677 released",
 "precision": "month",
 "strand": "witness",
-"text": "The Office of the Assistant Secretary of Defense releases both the Halt memo and the November 1975 Malmstrom overflight records to The Black Vault in a single case.",
-"tier": "A"
+"text": "The Office of the Assistant Secretary of Defense releases both the Halt memo and the November 1975 Malmstrom overflight records to The Black Vault in a single case."
 }
 ],
 "unexplainedResidual": null,

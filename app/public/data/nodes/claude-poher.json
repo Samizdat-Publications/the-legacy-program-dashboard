@@ -74,7 +74,7 @@
 "deg": 1,
 "denials": [],
 "domains": [
-"w2-international"
+"d-international"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -95,6 +95,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Dr Claude Poher",
+"sourceFiles": [
+"w2-international"
+],
 "sources": [
 {
 "date": "2024-02-24",

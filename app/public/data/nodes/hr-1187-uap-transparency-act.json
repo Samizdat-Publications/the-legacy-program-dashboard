@@ -12,6 +12,7 @@
 ],
 "cls": "legislation",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -62,9 +63,7 @@
 "deg": 2,
 "denials": [],
 "desc": "Burchett's transparency bill in the 119th Congress, introduced 11 February 2025 - the same day Chairman Comer announced the Task Force on the Declassification of Federal Secrets - and cosponsored by Jared Moskowitz and Anna Paulina Luna. Its bipartisan cosponsor pairing is the point: one Republican and one Democrat from Florida alongside a Tennessee Republican, filed into the Committee on Oversight and Government Reform where Burchett, Luna and Moskowitz all sit. It was referred and has not moved. It is the successor to H.R. 8424 of 16 May 2024, which met the same fate.",
-"domains": [
-"congress-house"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "3",
@@ -78,7 +77,11 @@
 "label": "H.R. 1187 - UAP Transparency Act (119th Congress)",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "H.R. 1187 - UAP Transparency Act (119th Congress)",
+"sourceFiles": [
+"congress-house"
+],
 "sources": [
 {
 "date": "2025-02-11",
@@ -94,5 +97,6 @@
 "sub": "Introduced 11 Feb 2025; referred; pending",
 "tier": "C",
 "tierRationale": "Re-graded C on a global pass (rank 1143 of 1170, score 9). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.",
-"timeline": []
+"timeline": [],
+"unverified": []
 }

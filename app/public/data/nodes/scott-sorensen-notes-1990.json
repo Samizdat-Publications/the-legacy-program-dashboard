@@ -42,6 +42,7 @@
 ],
 "cls": "document",
 "cluster": "media",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -139,9 +140,7 @@
 "deg": 4,
 "denials": [],
 "desc": "This is the strongest artefact in the whole thread and it cuts both ways. It is a contemporaneous working file authored by a named trade-press editor within two years of the claimed event: thirty-one scanned pages, opening with handwritten notes on Aviation Week & Space Technology letterhead over the name block 'William B. Scott / Senior Engineering Editor', followed by a sixteen page typed transcript headed 'NOTES FROM INTERVIEW ON 12-3-90 WITH BRAD' and 'COMPILED 12-11-90; SCOTT/AVWK LANCASTER'. It carries the claim in the witness's own words, and it carries the interviewer's own doubts in the same pages: a bracketed note that the witness 'continued to confuse' frequency and wavelength, and a note written while driving away that the witness had twice mentioned his $200 an hour rate and had offered a rendering for 'a couple thousand dollars'. Nothing in the thirty-one pages is a published article. Aviation Week printed McCandlish's artwork, not this interview. The scan reached the public through an anonymously operated website in December 2024 and its custody before that date is not established by anything in it.",
-"domains": [
-"arv-2026-09-18"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "1",
@@ -155,7 +154,11 @@
 "label": "William B. Scott's interview notes on 'Brad', 3 December 1990",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "William B. Scott's interview notes on 'Brad', 3 December 1990",
+"sourceFiles": [
+"arv-2026-09-18"
+],
 "sources": [
 {
 "date": "1990-12-11",
@@ -165,52 +168,62 @@
 ],
 "sub": "31 scanned pages: handwritten notes on Aviation Week & Space Technology letterhead plus a 16 page typed transcript; never published",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 534 of 1170, score 30). 4 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D2.",
+"tierRationale": "Re-graded B on a global pass (rank 528 of 1170, score 30). 4 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D2.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1990-08-13",
+"grade": "B",
 "id": "tl-1990-08-13-scott-mark-notes",
 "label": "Scott's handwritten sheet headed 'Mark - 8/13/90'",
 "precision": "day",
 "strand": "witness",
-"text": "One of the handwritten sheets on Aviation Week & Space Technology letterhead in the 31 page scan is headed, circled, 'Mark - 8/13/90'. It is the earliest dated page in the document.",
-"tier": "B"
+"text": "One of the handwritten sheets on Aviation Week & Space Technology letterhead in the 31 page scan is headed, circled, 'Mark - 8/13/90'. It is the earliest dated page in the document."
 },
 {
+"claimTier": null,
 "date": "1990-12-03",
+"grade": "B",
 "id": "tl-1990-12-03-scott-interview",
 "label": "Scott interviews 'Brad' for one hour in his Pasadena office, on two tapes",
 "precision": "day",
 "strand": "witness",
-"text": "William B. Scott, senior engineering editor of Aviation Week & Space Technology, interviewed the claimed eyewitness for one paid hour: 'He agreed to a one-hr. session in his Pasadena office, pointedly telling me that he gets $200/hr. for his time, and one hr. was all he could give me.' Internal markers show two tapes.",
-"tier": "B"
+"text": "William B. Scott, senior engineering editor of Aviation Week & Space Technology, interviewed the claimed eyewitness for one paid hour: 'He agreed to a one-hr. session in his Pasadena office, pointedly telling me that he gets $200/hr. for his time, and one hr. was all he could give me.' Internal markers show two tapes."
 },
 {
+"claimTier": null,
 "date": "1990-12-10",
+"grade": "B",
 "id": "tl-1990-12-10-scott-addendum",
 "label": "Handwritten addendum: 'As of 12/10/90 - additional info from Brad'",
 "precision": "day",
 "strand": "witness",
-"text": "Page 16 of the transcript carries a handwritten addendum in the same hand, followed by notes on a diamond-shaped aircraft slowing to subsonic speeds to dispense weapons. The interview was followed up before the notes were compiled.",
-"tier": "B"
+"text": "Page 16 of the transcript carries a handwritten addendum in the same hand, followed by notes on a diamond-shaped aircraft slowing to subsonic speeds to dispense weapons. The interview was followed up before the notes were compiled."
 },
 {
+"claimTier": null,
 "date": "1990-12-11",
+"grade": "B",
 "id": "tl-1990-12-11-scott-compiled",
 "label": "The 16 page transcript is compiled: 'COMPILED 12-11-90; SCOTT/AVWK LANCASTER'",
 "precision": "day",
 "strand": "witness",
-"text": "The typed transcript is hand-numbered 1 to 16 and headed 'NOTES FROM INTERVIEW ON 12-3-90 WITH BRAD' and 'COMPILED 12-11-90; SCOTT/AVWK LANCASTER'. Nothing in the 31 pages is a published article; Aviation Week printed the artwork, not the interview.",
-"tier": "B"
+"text": "The typed transcript is hand-numbered 1 to 16 and headed 'NOTES FROM INTERVIEW ON 12-3-90 WITH BRAD' and 'COMPILED 12-11-90; SCOTT/AVWK LANCASTER'. Nothing in the 31 pages is a published article; Aviation Week printed the artwork, not the interview."
 },
 {
+"claimTier": null,
 "date": "2024-10-17",
+"grade": "C",
 "id": "tl-2024-10-17-scott-pdf-created",
 "label": "The PDF of the Scott notes is created, per its own metadata",
 "precision": "day",
 "strand": "witness",
-"text": "The file's own /CreationDate is 'D:20241017132510' and its /Producer and /Creator are both 'PDFium'. It is 9,172,025 bytes over 31 pages with 31 embedded JPEG page images and no text layer. Nothing in it establishes who held the notes between 1990 and 2024.",
-"tier": "C"
+"text": "The file's own /CreationDate is 'D:20241017132510' and its /Producer and /Creator are both 'PDFium'. It is 9,172,025 bytes over 31 pages with 31 embedded JPEG page images and no text layer. Nothing in it establishes who held the notes between 1990 and 2024."
 }
+],
+"unverified": [
+"That William B. Scott was a test pilot at Edwards Air Force Base in the early 1970s, as McCandlish's 2001 testimony states. Not opened. What IS opened is his masthead title, 'Senior Engineering Editor', on the 1990 letterhead.",
+"Scott's alleged motive for not publishing. research/leads/gerb-corpus-25-35.md file 33 at 00;22;44 and 00;30;16 records UAP Gerb reading Scott's stated reason as disbelief. That reading was not verified: Scott's reservations inside the document are about the witness's physics and about his fee, and the document contains no stated refusal to publish.",
+"The Aviation Week & Space Technology issue of 1 October 1990, in which the document says McCandlish's paintings of two aircraft appeared, was not opened. The year 1990 follows only from the document's own December 1990 dating."
 ]
 }

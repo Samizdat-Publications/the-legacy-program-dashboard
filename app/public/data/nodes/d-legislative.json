@@ -27,6 +27,7 @@
 ],
 "cls": "domain",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -120,7 +121,7 @@
 "edgeLabel": "a committee-reported provision that did not survive conference in the form reported",
 "id": "iaa-fy2024-sec-1102",
 "l0": true,
-"label": "IAA FY2024 Sec. 1102 — contractor turn-in of 'non-earth origin or exotic' UAP material",
+"label": "IAA FY2024 Sec. 1102 - contractor turn-in of 'non-earth origin or exotic' UAP material",
 "note": "The Senate Select Committee on Intelligence's UAP provision in the reported IAA FY2024 would have compelled contractor turn-in of UAP material within 180 days. The enacted counterpart in Division G of P.L. 118-31 differed substantially from the text approved by Senate committees and by the full Senate. Its home is the process domain because what is interesting about it is the gap between what was reported and what was enacted.",
 "sources": [
 {
@@ -289,9 +290,7 @@
 "deg": 9,
 "denials": [],
 "desc": "Legislation is where the disclosure fight has produced its only binding outcomes and its most instructive defeats, and the mechanism of the defeats matters more than their fact. The UAP Disclosure Act of 2023, carried as Division I of the Senate-passed FY2024 NDAA with ten sections, would have created an independent Review Board with authority to compel release and an eminent domain provision over recovered technologies of unknown origin held by any person. What emerged from conference and became law in P.L. 118-31 was Subtitle C - a records collection at NARA, a duty to transmit, and postponement grounds - with the Review Board and eminent domain removed. The removal happened in conference, where authorship is diffuse and no recorded vote attaches, which is the characteristic signature of this domain: UAP provisions rarely lose on the floor, they lose in the seam between chambers. The fight continued through the FY2025 NDAA's Section 6802 sunset of the historical-record audit requirements and into the FY2026 and FY2027 cycles. Scoring high on this domain means an entity drafts, sponsors, amends or strips this language - and stripping counts as much as sponsoring.",
-"domains": [
-"w2-taxonomy"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "3",
@@ -305,7 +304,11 @@
 "label": "Legislative Process (proposed and pending)",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Legislative Process (proposed and pending)",
+"sourceFiles": [
+"w2-taxonomy"
+],
 "sources": [
 {
 "date": "2023-07-27",
@@ -335,16 +338,18 @@
 ],
 "sub": "Bills, amendments and the actors that move them. Deliberately distinct from d-legislation (Enacted Statute): the gap between what passed the Senate and what survived conference is one of this board's central substantive findings, and collapsing the two would erase it.",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 575 of 1170, score 29). 9 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 574 of 1170, score 29). 9 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.",
 "timeline": [
 {
+"claimTier": 1,
 "date": "2023-12-22",
+"grade": null,
 "id": "tx-2023-ndaa-strip",
 "label": "The Review Board is stripped in conference",
 "precision": "day",
 "strand": "oversight",
-"text": "P.L. 118-31 is enacted with Subtitle C - a UAP Records Collection at NARA, an agency duty to transmit, and grounds for postponement. The independent Review Board and the eminent domain provision over recovered technologies, both passed by the Senate as Division I of H.R. 2670, are removed in conference where no recorded vote attaches.",
-"tier": 1
+"text": "P.L. 118-31 is enacted with Subtitle C - a UAP Records Collection at NARA, an agency duty to transmit, and grounds for postponement. The independent Review Board and the eminent domain provision over recovered technologies, both passed by the Senate as Division I of H.R. 2670, are removed in conference where no recorded vote attaches."
 }
-]
+],
+"unverified": []
 }

@@ -32,6 +32,7 @@
 ],
 "cls": "institution",
 "cluster": "research",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -103,9 +104,7 @@
 "deg": 3,
 "denials": [],
 "desc": "The U.S. Naval Ordnance Laboratory at Silver Spring, Maryland is where William J. Buehler and Raymond C. Wiley developed the nickel-titanium shape-memory alloys named 55-Nitinol, the acronym standing for Nickel Titanium Naval Ordnance Laboratory. It reaches this board because the board's strongest materials claim runs the other way: an allegation, carried at Tier 2 on the Battelle node, that the alloy's research lineage is a set of missing 1948-49 Wright-Patterson-sponsored Battelle reports. Two federal reports opened for this pass, one of them written by Battelle for NASA, place the discovery at NOL around 1959 to 1962, cite no NOL nitinol report before August 1961, and cite no Battelle nickel-titanium work before 1968. The Danny Jones corpus dates the NOL discovery to 1954; the record does not support that either.",
-"domains": [
-"dannyjones-2026-09-03"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -119,7 +118,11 @@
 "label": "U.S. Naval Ordnance Laboratory (White Oak, Silver Spring)",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "U.S. Naval Ordnance Laboratory (White Oak, Silver Spring)",
+"sourceFiles": [
+"dannyjones-2026-09-03"
+],
 "sources": [
 {
 "date": null,
@@ -140,5 +143,6 @@
 "sub": "Navy laboratory at White Oak, Silver Spring, where Buehler and Wiley developed the 55-Nitinol shape-memory alloys",
 "tier": "C",
 "tierRationale": "Re-graded C on a global pass (rank 660 of 1170, score 26). 3 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D1.",
-"timeline": []
+"timeline": [],
+"unverified": []
 }

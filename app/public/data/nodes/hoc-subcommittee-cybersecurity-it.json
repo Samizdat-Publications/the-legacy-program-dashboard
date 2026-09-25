@@ -12,6 +12,7 @@
 ],
 "cls": "institution",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -88,9 +89,7 @@
 "deg": 3,
 "denials": [],
 "desc": "Nancy Mace's subcommittee, which co-chaired the 13 November 2024 joint UAP hearing with Grothman's National Security subcommittee. Mace used the chair to enter the 12-page Immaculate Constellation document into the Congressional Record and to submit Christopher Mellon's hearing letter. Her opening statement recorded, without naming names, that 'certain individuals... did not want this hearing to happen because they feared what might be disclosed.' The subcommittee's information-technology jurisdiction is what supplied the formal hook for a hearing about a programme alleged to consolidate imagery and measurement-and-signature intelligence.",
-"domains": [
-"congress-house"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "3",
@@ -104,7 +103,11 @@
 "label": "Subcommittee on Cybersecurity, Information Technology, and Government Innovation",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Subcommittee on Cybersecurity, Information Technology, and Government Innovation",
+"sourceFiles": [
+"congress-house"
+],
 "sources": [
 {
 "date": "2024-11-13",
@@ -120,5 +123,6 @@
 "sub": "House Oversight subcommittee",
 "tier": "C",
 "tierRationale": "Re-graded C on a global pass (rank 1051 of 1170, score 13). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.",
-"timeline": []
+"timeline": [],
+"unverified": []
 }

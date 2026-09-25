@@ -17,6 +17,7 @@
 ],
 "cls": "institution",
 "cluster": "legacy",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -109,18 +110,20 @@
 "deg": 4,
 "denials": [
 {
-"by": {
+"a": {
 "id": "belgian-af-f16-intercept-1990",
 "label": "Belgian Air Force F-16 intercept and the 1989-90 Belgian wave"
 },
+"b": {
+"id": "uk-mod",
+"label": "United Kingdom Ministry of Defence"
+},
+"by": null,
 "claimTier": 1,
 "denialKind": null,
 "label": "Not informed at the time, and no threat to the UK",
 "note": "The guide summarises a letter from Malcolm Rifkind to Lord Hill-Norton saying the MoD was not informed of the incident at the time and concluded there was no threat to the UK.",
-"of": {
-"id": "uk-mod",
-"label": "United Kingdom Ministry of Defence"
-},
+"of": null,
 "sources": [
 {
 "date": "2009-08-17",
@@ -130,6 +133,14 @@
 ]
 },
 {
+"a": {
+"id": "doc-condign-vol3",
+"label": "Project Condign Volume 3 - Potential for Exploitation of UAP-Associated Effects / UAP Work in Other Countries"
+},
+"b": {
+"id": "uk-mod",
+"label": "United Kingdom Ministry of Defence"
+},
 "by": {
 "id": "uk-mod",
 "label": "United Kingdom Ministry of Defence"
@@ -152,9 +163,7 @@
 }
 ],
 "desc": "The Ministry of Defence is the department that ran the British side of the question from the 1950s to 2009 and that released, under compulsion, the two most substantial British artefacts: the Project Condign report in May 2006 and roughly sixty thousand pages of UFO desk files through The National Archives between May 2008 and June 2013. Its public position throughout was that UAP reports were of no defence significance. Its internal position, as recorded in its own released documents, was that a 1996 policy review commissioned a classified Defence Intelligence Staff study whose second stated objective was 'to identify any potential military technologies of interest'; that the study's chapter on potential related military technology and its paragraph on related military applications were withheld under the defence exemption; and that its chapter on other countries recorded the flat statement that there was 'no intelligence exchange or access or collaboration of any sort' with the United States and Canada on the topic - followed by four redacted lines. The Ministry's Directorate of Air Staff is recorded as the author organisation of the Condign report; its Air Secretariat and Secretariat (Air Staff) held the desk.",
-"domains": [
-"w2-international"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -168,7 +177,11 @@
 "label": "United Kingdom Ministry of Defence",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "United Kingdom Ministry of Defence",
+"sourceFiles": [
+"w2-international"
+],
 "sources": [
 {
 "date": "2006-05-15",
@@ -183,6 +196,7 @@
 ],
 "sub": "UK defence department; owner of the UFO desk, DI55 and Project Condign",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 394 of 1170, score 35). 4 connections, 0 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C1/A3/D2.",
-"timeline": []
+"tierRationale": "Re-graded B on a global pass (rank 396 of 1170, score 35). 4 connections, 0 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C1/A3/D2.",
+"timeline": [],
+"unverified": []
 }

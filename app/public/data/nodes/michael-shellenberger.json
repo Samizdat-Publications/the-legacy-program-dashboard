@@ -127,29 +127,13 @@
 "id": "hearing-2024-11-13",
 "l0": true,
 "label": "House Oversight joint hearing, 13 November 2024 - 'Unidentified Anomalous Phenomena: Exposing the Truth'",
-"note": "Chairwoman Mace on the record: the 12-page Pentagon document 'that Michael Shellenberger brought today'.",
+"note": "Mace announced from the dais that Shellenberger had delivered the 12-page document that morning and moved it into the record.",
 "sources": [
 {
 "date": "2024-11-13",
 "name": "CHRG-118hhrg57440, printed hearing transcript, 'Unidentified Anomalous Phenomena: Exposing the Truth', Serial No. 118-135",
 "url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/pdf/CHRG-118hhrg57440.pdf"
-}
-],
-"tier": "A",
-"type": "programmatic"
 },
-{
-"claimTier": 1,
-"cls": "event",
-"dateEnd": null,
-"dateStart": "2024",
-"direction": "out",
-"edgeLabel": "Delivered the Immaculate Constellation document to Congress the morning of the hearing",
-"id": "hearing-2024-11-13",
-"l0": true,
-"label": "House Oversight joint hearing, 13 November 2024 - 'Unidentified Anomalous Phenomena: Exposing the Truth'",
-"note": "Mace announced from the dais that Shellenberger had delivered the 12-page document that morning and moved it into the record.",
-"sources": [
 {
 "date": "2024-11-13",
 "name": "U.S. GPO, Hearing transcript, Serial No. 118-135 (CHRG-118hhrg57440)",
@@ -259,9 +243,10 @@
 "deg": 4,
 "denials": [],
 "domains": [
-"_rs-legislation",
-"media-structure",
-"releases-2023-2026"
+"d-media",
+"d-structure",
+"d-disclosure",
+"d-records"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -282,6 +267,11 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Michael Shellenberger",
+"sourceFiles": [
+"_rs-legislation",
+"media-structure",
+"releases-2023-2026"
+],
 "sources": [
 {
 "date": "2024-11-13",
@@ -322,7 +312,7 @@
 "status": "active",
 "sub": "Co-founder, Public; University of Austin faculty",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 311 of 1170, score 38). 6 connections, 1 of them custody/funding/programmatic. Axes C1/A0/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 398 of 1170, score 34). 5 connections, 0 of them custody/funding/programmatic. Axes C1/A0/D3.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": [

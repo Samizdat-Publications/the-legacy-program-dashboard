@@ -22,6 +22,7 @@
 ],
 "cls": "event",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 3,
@@ -82,18 +83,20 @@
 "deg": 2,
 "denials": [
 {
-"by": {
+"a": {
 "id": "nick-pope",
 "label": "Nick Pope"
 },
+"b": {
+"id": "ev-uk-ufo-desk-closure",
+"label": "Closure of the MoD UFO Desk, 1 December 2009"
+},
+"by": null,
 "claimTier": 2,
 "denialKind": "association",
 "label": "principal public critic of the 2009 closure",
 "note": "The National Archives records that the closure sparked a disclosure campaign; Pope was its most prominent voice and the only former desk officer speaking publicly.",
-"of": {
-"id": "ev-uk-ufo-desk-closure",
-"label": "Closure of the MoD UFO Desk, 1 December 2009"
-},
+"of": null,
 "sources": [
 {
 "date": "2013-06-01",
@@ -109,9 +112,7 @@
 }
 ],
 "desc": "The Ministry of Defence closed its UFO desk with effect from the end of 2009, ending the United Kingdom's public UAP reporting channel and its dedicated hotline. The National Archives' own framing of the final file tranche places the closure in November 2009 and records two things about it that matter: the desk was closed in the same period in which it was handling 'the largest number of UFO sighting reports received in 30 years', and the closure itself 'sparked' a 'disclosure campaign for the truth'. The closure implements, nine years later, the single key recommendation of the Defence Intelligence Staff's own Project Condign study - that it should no longer be a requirement for DI55 to monitor UAP reports - and it took effect just as the United States was standing its DIA advanced aerospace work up rather than down. Nick Pope, the desk's best-known former officer, became the principal public critic of the decision.",
-"domains": [
-"w2-international"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "2",
@@ -125,7 +126,11 @@
 "label": "Closure of the MoD UFO Desk, 1 December 2009",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Closure of the MoD UFO Desk, 1 December 2009",
+"sourceFiles": [
+"w2-international"
+],
 "sources": [
 {
 "date": "2013-06-01",
@@ -145,16 +150,18 @@
 ],
 "sub": "UK terminates its public UAP reporting channel",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 831 of 1170, score 21). 2 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 832 of 1170, score 21). 2 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D3.",
 "timeline": [
 {
+"claimTier": 1,
 "date": "2009-12-01",
+"grade": null,
 "id": "tl-intl-2009-closure",
 "label": "The MoD closes the UFO desk",
 "precision": "day",
 "strand": "coverup",
-"text": "Britain terminates its public UAP reporting channel with effect from December 2009, in the same period in which it was handling the largest volume of sighting reports in thirty years. The National Archives records that the closure 'sparked' a disclosure campaign.",
-"tier": 1
+"text": "Britain terminates its public UAP reporting channel with effect from December 2009, in the same period in which it was handling the largest volume of sighting reports in thirty years. The National Archives records that the closure 'sparked' a disclosure campaign."
 }
-]
+],
+"unverified": []
 }

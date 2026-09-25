@@ -22,6 +22,7 @@
 ],
 "cls": "document",
 "cluster": "contractor",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -72,9 +73,7 @@
 "deg": 2,
 "denials": [],
 "desc": "Announced on 17 October 2019, this five-year cooperative research and development agreement between To The Stars Academy and the US Army Combat Capabilities Development Command is the only instrument that has ever formally connected a privately held alleged UAP material collection to a federal research organisation. Its scope, as announced, covers inertial mass reduction, mechanical and structural metamaterials, electromagnetic metamaterial waveguides, quantum physics, quantum communications and beamed energy propulsion, with the Army providing at least $750,000 in support and resources and, per the Army, no public funding flowing to the company. That scope list is not generic: 'inertial mass reduction' is a term of art that appears in the Salvatore Pais patent applications assigned to the Naval Air Warfare Center in the same period, and 'mechanical/structural metamaterials' is precisely what the ADAM samples were said to be. Seven years on, the agreement has produced no public technical output, no published characterisation of the samples, and no statement by the Army about what it received or concluded. A CRADA is a records-generating instrument; the absence of a public record from it is itself the finding.",
-"domains": [
-"scientists-technical"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "3",
@@ -88,7 +87,11 @@
 "label": "To The Stars Academy - US Army CCDC Cooperative Research and Development Agreement (17 October 2019)",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "To The Stars Academy - US Army CCDC Cooperative Research and Development Agreement (17 October 2019)",
+"sourceFiles": [
+"scientists-technical"
+],
 "sources": [
 {
 "date": "2026-08-12",
@@ -103,16 +106,18 @@
 ],
 "sub": "Five-year CRADA covering inertial mass reduction and metamaterials",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 610 of 1170, score 28). 2 connections, 2 of them custody/funding/programmatic. Axes C2/A1/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 605 of 1170, score 28). 2 connections, 2 of them custody/funding/programmatic. Axes C2/A1/D2.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2019-10-17",
+"grade": "A",
 "id": "st-2019-10-17",
 "label": "US Army CRADA signed",
 "precision": "day",
 "strand": "program",
-"text": "TTSA enters a five-year cooperative research and development agreement with the US Army Combat Capabilities Development Command covering inertial mass reduction, metamaterials, quantum physics and beamed energy propulsion.",
-"tier": "A"
+"text": "TTSA enters a five-year cooperative research and development agreement with the US Army Combat Capabilities Development Command covering inertial mass reduction, metamaterials, quantum physics and beamed energy propulsion."
 }
-]
+],
+"unverified": []
 }

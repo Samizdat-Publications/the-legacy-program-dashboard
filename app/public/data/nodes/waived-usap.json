@@ -22,6 +22,7 @@
 ],
 "cls": "program",
 "cluster": "legacy",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -312,6 +313,14 @@
 "deg": 11,
 "denials": [
 {
+"a": {
+"id": "james-clapper",
+"label": "James R. Clapper Jr."
+},
+"b": {
+"id": "waived-usap",
+"label": "Waived unacknowledged special access program (waived USAP)"
+},
 "by": {
 "id": "james-clapper",
 "label": "James R. Clapper Jr."
@@ -334,10 +343,7 @@
 }
 ],
 "desc": "A waived unacknowledged special access program is the most protected category of activity the United States government operates. Special access programs are activities requiring protection beyond that ordinarily required for information at the same classification level, imposing need-to-know controls, access rosters and separate security architecture; DoD Directive 5205.07 governs them. An unacknowledged SAP is one whose existence is not acknowledged - the response to an inquiry is neither confirmation nor denial. A waived SAP is one for which the Secretary of Defense has exercised the waiver at 10 U.S.C. 119(e), under which the annual report and the justification for the waiver go 'jointly to the chairman and ranking minority member of each of the defense committees' instead of to the committees as a whole. Combine the two and the result is an activity whose existence is denied to the public, denied to most of Congress, and known in the legislative branch to eight people. Every serious allegation on this board reduces to a claim about this category: David Grusch's testimony that a multi-decade materials recovery and exploitation effort exists and is unreported; the 2009 Reid request that AAWSAP be granted restricted SAP status, which USD(I) James Clapper opposed; the 2011 DHS attempt to stand up KONA BLUE as a prospective SAP; and the FY2024 NDAA section 1687 limitation on the use of funds for UAP-related programs not reported to the congressional defense committees, which is Congress legislating directly against the possibility that this category has been abused.",
-"domains": [
-"_rs-archive-mirror",
-"w2-agencies"
-],
+"domains": [],
 "dossier": {
 "claims": [
 {
@@ -491,7 +497,12 @@
 "tier": "A"
 }
 ],
+"openQuestions": [],
 "short": "Waived unacknowledged SAP",
+"sourceFiles": [
+"_rs-archive-mirror",
+"w2-agencies"
+],
 "sources": [
 {
 "date": "2026-05-18",
@@ -534,13 +545,15 @@
 "tierRationale": "Re-graded A on a global pass (rank 93 of 1170, score 65). 12 connections, 5 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A3/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2009-11-17",
+"grade": "A",
 "id": "ag-tl-2009-clapper",
 "label": "USD(I) recommends against SAP status",
 "precision": "day",
 "strand": "coverup",
-"text": "James Clapper's recommendation closes out Senator Reid's June 2009 request for restricted special access program status for the DIA advanced aerospace effort. The one documented SAP decision in the modern record goes against concealment.",
-"tier": "A"
+"text": "James Clapper's recommendation closes out Senator Reid's June 2009 request for restricted special access program status for the DIA advanced aerospace effort. The one documented SAP decision in the modern record goes against concealment."
 }
-]
+],
+"unverified": []
 }

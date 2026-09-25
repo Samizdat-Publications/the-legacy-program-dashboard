@@ -32,6 +32,7 @@
 ],
 "cls": "institution",
 "cluster": "ffrdc",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -149,6 +150,14 @@
 "deg": 4,
 "denials": [
 {
+"a": {
+"id": "dird-high-frequency-gravitational-wave-communications",
+"label": "High-Frequency Gravitational Wave Communications"
+},
+"b": {
+"id": "jason-advisory-group",
+"label": "JASON"
+},
 "by": {
 "id": "jason-advisory-group",
 "label": "JASON"
@@ -186,9 +195,7 @@
 }
 ],
 "desc": "JASON is the government's standing panel of elite scientists convened to answer its hardest and most sensitive technical questions, and it has never once in its 66-year existence been housed inside the government. Established in 1960, it was administered by the Institute for Defense Analyses from 1960 to 1973, then by SRI International, and since 2002 by MITRE. Membership runs between roughly 30 and 60 physicists, mathematicians and engineers holding clearances well above their academic station. In April 2019 the Office of the Under Secretary of Defense for Research and Engineering declined to renew MITRE's JASON contract, which would have terminated the group; within two weeks the Department of Energy's National Nuclear Security Administration posted a notice of intent to award a short-term sole source contract to MITRE to provide management and logistics support for JASON, and the group survived. Bloomberg Government reported MITRE received 34.4 million dollars in obligations for the work as the earlier contract was ending. A JASON recompete was again in the market in 2026 with MITRE as the confirmed incumbent. The significance for this board is that the mechanism by which the United States obtains independent scientific judgement on its most classified problems is itself a contractor-administered instrument whose continuity depends on sole-source awards to MITRE. If a government body ever commissioned a genuinely independent technical assessment of recovered material, JASON is the body it would go to - and the corporation that would convene, clear, house and archive that assessment is the same corporation now under congressional records demand.",
-"domains": [
-"ffrdcs"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -202,7 +209,11 @@
 "label": "JASON",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "JASON",
+"sourceFiles": [
+"ffrdcs"
+],
 "sources": [
 {
 "date": "2019-04-25",
@@ -232,43 +243,48 @@
 ],
 "sub": "Independent standing scientific advisory group, est. 1960; administered successively by IDA, SRI International and MITRE",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 223 of 1170, score 44). 4 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D1.",
+"tierRationale": "Re-graded B on a global pass (rank 221 of 1170, score 44). 4 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D1.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1960-01-01",
+"grade": "A",
 "id": "tl-ffrdc-1960-jason",
 "label": "JASON established under IDA administration",
 "precision": "year",
 "strand": "program",
-"text": "The government's standing panel of elite scientists is created - and housed inside an FFRDC operator rather than inside the government. It has never been anywhere else since.",
-"tier": "A"
+"text": "The government's standing panel of elite scientists is created - and housed inside an FFRDC operator rather than inside the government. It has never been anywhere else since."
 },
 {
+"claimTier": null,
 "date": "1973-01-01",
+"grade": "C",
 "id": "tl-ffrdc-1973-jason-sri",
 "label": "JASON moves from IDA to SRI International",
 "precision": "year",
 "strand": "program",
-"text": "The advisory panel's administration transfers between FFRDC-adjacent operators for the first time, establishing the pattern of contractor custody of the government's most sensitive scientific advice.",
-"tier": "C"
+"text": "The advisory panel's administration transfers between FFRDC-adjacent operators for the first time, establishing the pattern of contractor custody of the government's most sensitive scientific advice."
 },
 {
+"claimTier": null,
 "date": "2002-01-01",
+"grade": "A",
 "id": "tl-ffrdc-2002-jason-mitre",
 "label": "MITRE takes over JASON administration",
 "precision": "year",
 "strand": "program",
-"text": "The JASON contract passes to MITRE, placing the government's most sensitive standing scientific advisory panel inside the corporation that would be interrogated about UAP records 24 years later.",
-"tier": "A"
+"text": "The JASON contract passes to MITRE, placing the government's most sensitive standing scientific advisory panel inside the corporation that would be interrogated about UAP records 24 years later."
 },
 {
+"claimTier": null,
 "date": "2019-04-11",
+"grade": "A",
 "id": "tl-ffrdc-2019-jason-kill",
 "label": "Pentagon moves to kill JASON",
 "precision": "day",
 "strand": "oversight",
-"text": "OUSD(R&E) confirms it is ending the JASON contract managed by MITRE. Two weeks later NNSA posts a notice of intent to award a short-term sole source contract to MITRE, and the panel survives.",
-"tier": "A"
+"text": "OUSD(R&E) confirms it is ending the JASON contract managed by MITRE. Two weeks later NNSA posts a notice of intent to award a short-term sole source contract to MITRE, and the panel survives."
 }
-]
+],
+"unverified": []
 }

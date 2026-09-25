@@ -32,6 +32,7 @@
 ],
 "cls": "document",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 3,
@@ -118,18 +119,20 @@
 "deg": 3,
 "denials": [
 {
-"by": {
+"a": {
 "id": "hegseth-uap-statements-2026",
 "label": "Hegseth's UAP disclosure statements, Louisville, 23 February 2026"
 },
+"b": {
+"id": "trump-truth-social-post-2026-02-20",
+"label": "Trump Truth Social post directing release of UAP files (20 February 2026)"
+},
+"by": null,
 "claimTier": 3,
 "denialKind": "association",
 "label": "characterises a social-media post as an executive order",
 "note": "Hegseth's phrase 'that executive order' has no matching published instrument. Either the Secretary mischaracterised the post or an unpublished order exists; the board records the discrepancy rather than resolving it.",
-"of": {
-"id": "trump-truth-social-post-2026-02-20",
-"label": "Trump Truth Social post directing release of UAP files (20 February 2026)"
-},
+"of": null,
 "sources": [
 {
 "date": "2026-02-25",
@@ -145,9 +148,7 @@
 }
 ],
 "desc": "The founding instrument of the entire 2026 disclosure programme, and it is a Truth Social post. On Thursday 20 February 2026, citing 'tremendous interest shown', President Trump directed Secretary of War Pete Hegseth and other departments to 'begin the process of identifying and releasing Government files related to alien and extraterrestrial life, unidentified aerial phenomena (UAP), and unidentified flying objects (UFOs), and any and all other information connected to these highly complex, but extremely interesting and important, matters.' There is no published executive order and no Federal Register notice. Everything downstream - the PURSUE Task Force, the ODNI NDA-waiver memorandum, the war.gov/UFO portal, five tranches and roughly sixteen gigabytes of released material - rests on that text and on the phrase 'Consistent with Presidential Direction' in ODNI ES 2026-00818. Chief Pentagon Spokesman Sean Parnell responded that 'The department looks forward to working with the interagency to fulfill the president's directive.' Christopher Mellon: 'This might be a consequential moment, but the impact will depend on the follow-through... The public's trust has been eroded and must be restored.' Retired Rear Adm. Tim Gallaudet, drily: 'As with other promises made by Trump, I'll believe it when I see it,' citing the unreleased Epstein files. Avi Loeb proposed an immediate first step: 'One step that can be taken immediately is to declassify events from 50 years ago.' The absence of a written order is not a technicality. Without one there is no defined scope, no covered-records definition, no compliance obligation enforceable against a resisting agency, no reporting requirement, and nothing for an inspector general or a court to measure performance against - which is precisely the deficiency the Burlison amendment to the FY2027 NDAA is written to cure.",
-"domains": [
-"w2-2025-2026"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "3",
@@ -161,7 +162,11 @@
 "label": "Trump Truth Social post directing release of UAP files (20 February 2026)",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Trump Truth Social post directing release of UAP files (20 February 2026)",
+"sourceFiles": [
+"w2-2025-2026"
+],
 "sources": [
 {
 "date": "2026-02-20",
@@ -181,16 +186,18 @@
 ],
 "sub": "The originating instrument of PURSUE; a social-media post, not an executive order",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 570 of 1170, score 29). 3 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 569 of 1170, score 29). 3 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D3.",
 "timeline": [
 {
+"claimTier": 2,
 "date": "2026-02-20",
+"grade": null,
 "id": "tl-loeb-50years",
 "label": "The research community's first asks",
 "precision": "day",
 "strand": "program",
-"text": "Mellon: the impact depends on the follow-through. Gallaudet: 'I'll believe it when I see it.' Loeb: 'One step that can be taken immediately is to declassify events from 50 years ago.' Parnell: the department looks forward to working with the interagency.",
-"tier": "2"
+"text": "Mellon: the impact depends on the follow-through. Gallaudet: 'I'll believe it when I see it.' Loeb: 'One step that can be taken immediately is to declassify events from 50 years ago.' Parnell: the department looks forward to working with the interagency."
 }
-]
+],
+"unverified": []
 }

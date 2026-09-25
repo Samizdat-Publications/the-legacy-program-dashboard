@@ -42,6 +42,7 @@
 ],
 "cls": "event",
 "cluster": "witness",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -92,7 +93,7 @@
 "url": "https://www.twz.com/tic-tac-uap-incident-included-in-72-newly-released-range-incursion-reports"
 }
 ],
-"tier": "A",
+"tier": "B",
 "type": "witness-chain"
 },
 {
@@ -566,10 +567,7 @@
 "deg": 20,
 "denials": [],
 "desc": "Between roughly 10 and 16 November 2004 the Nimitz Carrier Strike Group, working up off southern California in the W-291 warning area and the Baja approaches, generated the most completely corroborated UAP encounter in the American record: radar, multiple aircrew eyewitnesses, and an infrared recording, on separate platforms, inside a controlled military exercise area. The guided-missile cruiser USS Princeton (CG-59), running a freshly upgraded SPY-1B, had been holding anomalous tracks on its Aegis combat system for approximately two weeks; Senior Chief Operations Specialist Kevin Day ran the air picture. Fravor's sworn statement to House Oversight describes the objects descending from above 80,000 feet 'rapidly down to 20,000ft', loitering for hours, then ascending. On 14 November 2004 Princeton vectored two VFA-41 Black Aces F/A-18Fs off a training event to a contact. Cdr. David Fravor, the squadron's commanding officer, and his weapons systems officer flew the lead; Lt. Cdr. Alex Dietrich and her WSO flew high cover from about 8,000 feet above. Fravor found a small white object, no rotors, no rotor wash, no visible control surfaces, moving erratically over an area of white water in an otherwise calm sea, its long axis initially north-south. Four aircrew watched it for roughly five minutes. As Fravor descended in a spiral to intercept, the object mirrored his turn, then accelerated out of sight; Princeton reacquired it at the CAP point roughly 60 miles away in under a minute. A follow-on sortie that day, flown with a functioning ATFLIR pod and credited to Lt. Cdr. Chad Underwood, produced the infrared footage now known as FLIR1 - the video that leaked in 2007, was published by The New York Times on 16 December 2017, and was formally released by the Department of Defense on 27 April 2020 with the statement that the phenomena 'remain characterized as unidentified.' What happened afterwards is the part that matters institutionally. The Navy's own range fouler report on the incident, released to the Navy FOIA reading room on 12 January 2023, describes the object as 'solid white, smooth, with no edges ... uniformly colored with no nacelles, pylons, or wings ... approximately 46 feet in length', names Fravor and Dietrich, and records the disposition in one sentence: 'Pilots reported the incident through Intelligence Personnel. Reporting terminated at 3rd Fleet, there was no process to share the reporting.' Fravor testified under oath on 26 July 2023 that 'the incident was never investigated, none of my crew were ever questioned, tapes were never taken.' Against that, three USS Princeton crewmen in different divisions - Kevin Day, CEC/Aegis technician Gary Voorhis and Jason Turner - have described in public interviews since 2018 that within roughly 48 hours personnel who did not identify themselves came aboard and removed or ordered wiped the recording media covering the tracks, and that crew were told to stop discussing it. No FOIA release, visit log, deck-log entry or message traffic has ever been produced identifying those personnel or the authority under which they acted, and the Navy has never produced Princeton sensor data for 14 November 2004. The two accounts are not necessarily in conflict - Fravor speaks for the aircrew and the squadron's tapes, the Princeton crew speak for the ship's recorded data - but the confiscation account remains the single most consequential unanchored claim in the modern record, and it is graded here as an inference, not a fact.",
-"domains": [
-"_rs-archive-mirror",
-"w2-places-events"
-],
+"domains": [],
 "dossier": {
 "claims": [
 {
@@ -628,9 +626,9 @@
 "tier": 1
 },
 {
-"source": "https://www.defense.gov/News/Releases/Release/article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/",
+"source": "https://www.defense.gov/News/Releases/Release/article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/ - DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
 "text": "The same statement concedes the existence of an ongoing investigative effort, saying release \"does not impinge on any subsequent investigations of military air space incursions by unidentified aerial phenomena.\"",
-"tier": 1
+"tier": 2
 },
 {
 "source": "House Committee on Oversight and Accountability, hearing transcript HHRG-118-GO06-Transcript-20230726, 26 July 2023, https://www.congress.gov/118/meeting/house/116282/documents/HHRG-118-GO06-Transcript-20230726.pdf",
@@ -731,7 +729,7 @@
 "cls": "person",
 "id": "david-fravor",
 "label": "David Fravor",
-"tier": "A"
+"tier": "B"
 },
 {
 "cls": "document",
@@ -812,7 +810,12 @@
 "tier": "C"
 }
 ],
+"openQuestions": [],
 "short": "USS Nimitz encounters, Nov 2004",
+"sourceFiles": [
+"_rs-archive-mirror",
+"w2-places-events"
+],
 "sources": [
 {
 "date": "2026-08-02",
@@ -842,61 +845,68 @@
 ],
 "sub": "Multi-platform radar/visual/infrared UAP encounters, Southern California Operating Area; the 'Tic Tac'",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 96 of 1170, score 64). 21 connections, 5 of them custody/funding/programmatic. Axes C1/A1/D3.",
+"tierRationale": "Re-graded A on a global pass (rank 98 of 1170, score 64). 21 connections, 5 of them custody/funding/programmatic. Axes C1/A1/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2004-11-14",
+"grade": "A",
 "id": "av-2004-11-14",
 "label": "Nimitz Tic Tac intercept",
 "precision": "day",
 "strand": "witness",
-"text": "VFA-41 CO David Fravor and Lt. Cmdr. Alex Dietrich intercept a white 46-foot object with no control surfaces about 30 miles off Baja California; a follow-on aircraft records the ATFLIR footage later released as FLIR1.",
-"tier": "A"
+"text": "VFA-41 CO David Fravor and Lt. Cmdr. Alex Dietrich intercept a white 46-foot object with no control surfaces about 30 miles off Baja California; a follow-on aircraft records the ATFLIR footage later released as FLIR1."
 },
 {
+"claimTier": null,
 "date": "2004-11-14",
+"grade": "A",
 "id": "tl-2004-nimitz",
 "label": "The Nimitz intercept",
 "precision": "day",
 "strand": "witness",
-"text": "Princeton vectors two VFA-41 F/A-18Fs to a contact it has held on Aegis for two weeks. Fravor, Dietrich and their WSOs watch a 46-foot white object for about five minutes; it departs and reappears at the CAP point 60 miles away in under a minute. A follow-on sortie records FLIR1.",
-"tier": "A"
+"text": "Princeton vectors two VFA-41 F/A-18Fs to a contact it has held on Aegis for two weeks. Fravor, Dietrich and their WSOs watch a 46-foot white object for about five minutes; it departs and reappears at the CAP point 60 miles away in under a minute. A follow-on sortie records FLIR1."
 },
 {
+"claimTier": null,
 "date": "2004-11-16",
+"grade": "C",
 "id": "tl-2004-confiscation",
 "label": "The Princeton data goes missing",
 "precision": "day",
 "strand": "coverup",
-"text": "Three Princeton crewmen in different divisions - Day, Voorhis and Turner - describe unidentified personnel coming aboard within roughly 48 hours and removing or ordering wiped the recording media. No FOIA release, visit log or message traffic has ever identified them.",
-"tier": "C"
+"text": "Three Princeton crewmen in different divisions - Day, Voorhis and Turner - describe unidentified personnel coming aboard within roughly 48 hours and removing or ordering wiped the recording media. No FOIA release, visit log or message traffic has ever identified them."
 },
 {
+"claimTier": null,
 "date": "2009-01-01",
+"grade": "A",
 "id": "av-2009-stratton",
 "label": "Stratton reopens the Nimitz case",
 "precision": "year",
 "strand": "program",
-"text": "Fravor testifies that Jay Stratton contacted him in 2009 to investigate the 2004 sighting as part of a DoD program - five years after the Navy declined to investigate it.",
-"tier": "A"
+"text": "Fravor testifies that Jay Stratton contacted him in 2009 to investigate the 2004 sighting as part of a DoD program - five years after the Navy declined to investigate it."
 },
 {
+"claimTier": null,
 "date": "2020-04-27",
+"grade": "A",
 "id": "tl-2020-dodrelease",
 "label": "The Department releases FLIR1",
 "precision": "day",
 "strand": "oversight",
-"text": "DoD authorises release of the three Navy videos, stating the phenomena 'remain characterized as unidentified' - the government authenticating the artefact and declining to explain it.",
-"tier": "A"
+"text": "DoD authorises release of the three Navy videos, stating the phenomena 'remain characterized as unidentified' - the government authenticating the artefact and declining to explain it."
 },
 {
+"claimTier": null,
 "date": "2023-01-12",
+"grade": "A",
 "id": "tl-2023-rangefouler",
 "label": "The Navy's own report on the Tic Tac surfaces",
 "precision": "day",
 "strand": "oversight",
-"text": "72 range fouler reports posted to the Navy FOIA reading room include the 14 November 2004 incident: a 46-foot object with no nacelles, pylons or wings, and the disposition line 'Reporting terminated at 3rd Fleet, there was no process to share the reporting.'",
-"tier": "A"
+"text": "72 range fouler reports posted to the Navy FOIA reading room include the 14 November 2004 incident: a 46-foot object with no nacelles, pylons or wings, and the disposition line 'Reporting terminated at 3rd Fleet, there was no process to share the reporting.'"
 }
-]
+],
+"unverified": []
 }

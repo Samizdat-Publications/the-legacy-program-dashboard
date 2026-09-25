@@ -84,7 +84,8 @@
 "deg": 1,
 "denials": [],
 "domains": [
-"history-1970s-2000s"
+"d-oversight",
+"d-coverup"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -105,6 +106,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Peter A. Gersten",
+"sourceFiles": [
+"history-1970s-2000s"
+],
 "sources": [
 {
 "date": "1995-07-28",

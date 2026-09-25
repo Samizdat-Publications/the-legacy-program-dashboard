@@ -12,6 +12,7 @@
 ],
 "cls": "institution",
 "cluster": "media",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -124,9 +125,7 @@
 "deg": 4,
 "denials": [],
 "desc": "The Hill is the trade publication read by congressional staff, and its opinion pages have carried a sustained run of UAP arguments aimed at the legislative audience - on whether the Pentagon spread false UFO stories, on H.R. McMaster's remarks, on the case the programme allegations make for the UAP Disclosure Act, and on drone incursions. Its function in this domain is placement rather than investigation: an argument published in The Hill reaches the staffers who draft the NDAA language, which is a different and in some ways more consequential distribution than a million YouTube views.",
-"domains": [
-"media-structure"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "1",
@@ -140,7 +139,11 @@
 "label": "The Hill",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "The Hill",
+"sourceFiles": [
+"media-structure"
+],
 "sources": [
 {
 "date": "2025-01-01",
@@ -151,5 +154,6 @@
 "sub": "Congressional trade publication",
 "tier": "C",
 "tierRationale": "Re-graded C on a global pass (rank 1104 of 1170, score 11). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.",
-"timeline": []
+"timeline": [],
+"unverified": []
 }

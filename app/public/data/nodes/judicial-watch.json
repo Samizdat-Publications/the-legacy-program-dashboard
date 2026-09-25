@@ -12,6 +12,7 @@
 ],
 "cls": "institution",
 "cluster": "media",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -41,9 +42,7 @@
 "deg": 1,
 "denials": [],
 "desc": "A Washington-based government-transparency and FOIA-litigation organization whose 'On Watch' program interviewed David Grusch on 5 May 2026, with Chris Farrell conducting. The interview restated Grusch's core allegation - that elements of the US government thwarted congressional oversight, withheld information from proper executive branch officials, and illegally concealed programs for the recovery and reverse engineering of craft of unknown origin - and served as the immediate precursor to the 9 June 2026 Capitol press conference. The organization's relevance to this domain is as a FOIA litigant: the records that would settle the read-on denial and the reprisal actions are exactly the class of documents its litigation practice pursues.",
-"domains": [
-"grusch"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "1",
@@ -57,7 +56,11 @@
 "label": "Judicial Watch",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Judicial Watch",
+"sourceFiles": [
+"grusch"
+],
 "sources": [
 {
 "date": "2026-05-05",
@@ -68,5 +71,6 @@
 "sub": "Government-transparency litigation organization",
 "tier": "C",
 "tierRationale": "Re-graded C on a global pass (rank 1162 of 1170, score 7). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.",
-"timeline": []
+"timeline": [],
+"unverified": []
 }

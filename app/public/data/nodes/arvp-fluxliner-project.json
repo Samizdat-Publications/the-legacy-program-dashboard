@@ -37,6 +37,7 @@
 ],
 "cls": "institution",
 "cluster": "media",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -144,9 +145,7 @@
 "deg": 4,
 "denials": [],
 "desc": "The custody node for two of the three primary documents in this thread, in the same role the board already gives the-black-vault, and with two differences the node has to say out loud. Its owner is unnamed: no author, no organisation and no copyright or licence statement appears anywhere on the pages opened, only an icloud.com address and a credit to a site builder. And it sells what it publishes. Its 3D reconstruction is the site operator's own work, built from the 2001 testimony and from McCandlish's later talks and podcast appearances rather than from the original drawing, which the page says could not be obtained; prints of that reconstruction are on sale at 30.00 each with no licence terms stated. Its TECH page then sets out a theory of operation that is not McCandlish's and is sourced to nobody in this thread. A reader who takes the site as a source on the 1990 account is reading two different things bound together.",
-"domains": [
-"arv-2026-09-18"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "3",
@@ -160,7 +159,11 @@
 "label": "ARVP (arvp.co.uk), the Flux Liner project site",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "ARVP (arvp.co.uk), the Flux Liner project site",
+"sourceFiles": [
+"arv-2026-09-18"
+],
 "sources": [
 {
 "date": "2026-09-18",
@@ -188,13 +191,18 @@
 "tierRationale": "Re-graded B on a global pass (rank 461 of 1170, score 32). 4 connections, 2 of them custody/funding/programmatic. Axes C0/A0/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2024-12",
+"grade": "C",
 "id": "tl-2024-12-scott-pdf-uploaded",
 "label": "The Scott notes are uploaded to arvp.co.uk",
 "precision": "month",
 "strand": "witness",
-"text": "The PDF sits under the path /wp-content/uploads/2024/12/ on a site whose operator is not named anywhere on the pages opened. This is the point at which the only opened copy of the primary document enters the public record.",
-"tier": "C"
+"text": "The PDF sits under the path /wp-content/uploads/2024/12/ on a site whose operator is not named anywhere on the pages opened. This is the point at which the only opened copy of the primary document enters the public record."
 }
+],
+"unverified": [
+"The site's unsigned RESEARCH page gives McCandlish's life dates as '(1957 - 2021)' and calls him 'an American aerospace illustrator, conceptual artist, and researcher'. It cites no source and the birth year cannot be reconciled with the coroner's record. The board carries no birth year for him.",
+"Any licence under which the 3D reconstruction could be reused. The site carries no licence statement at all and sells prints, so the reconstruction must be treated as somebody else's copyrighted work. No 'break apart' animation with a stated licence was opened."
 ]
 }

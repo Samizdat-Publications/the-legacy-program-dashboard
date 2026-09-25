@@ -112,8 +112,8 @@
 "deg": 3,
 "denials": [],
 "domains": [
-"ffrdcs",
-"lazar-s4-2026-09-18"
+"d-ffrdc",
+"d-program"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -134,6 +134,10 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Edward Teller",
+"sourceFiles": [
+"ffrdcs",
+"lazar-s4-2026-09-18"
+],
 "sources": [
 {
 "date": "2024-11-18",
@@ -154,7 +158,7 @@
 "status": "dead",
 "sub": "Los Alamos physicist; co-founder and later Director of Lawrence Livermore National Laboratory; attendee of the 16 February 1949 Los Alamos green fireballs conference",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 806 of 1170, score 21). 3 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D0.",
+"tierRationale": "Re-graded C on a global pass (rank 807 of 1170, score 21). 3 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D0.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": [

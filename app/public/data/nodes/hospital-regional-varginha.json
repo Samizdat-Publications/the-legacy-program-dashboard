@@ -32,6 +32,7 @@
 ],
 "cls": "institution",
 "cluster": "other",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 3,
@@ -200,10 +201,7 @@
 "deg": 5,
 "denials": [],
 "desc": "The facility referred to in the Varginha literature as the Hospital Regional de Varginha is registered in Brazil's national health-establishment register, CNES, as the Hospital Regional do Sul de Minas, CNES code 2761041, at Rua Rui Barbosa 158, Centro, Varginha, Minas Gerais (CEP 37002-140), under municipal administration, operating continuous 24-hour service and providing SUS outpatient care. Varginha's other registered hospitals in the same register include the Hospital Bom Pastor, run by the municipal hospital foundation, and the Hospital Unimed Varginha. The hospital is on this board because it is one of the medical facilities named in the January 1996 Varginha case as a place to which an injured creature was reportedly taken and held before being moved on, in the sequence involving military and fire-brigade personnel that is recorded elsewhere on this board as ev-varginha-1996. The case is not a historical curiosity: it was carried to Capitol Hill on its thirtieth anniversary, and on 8 July 2026 a congressional demand went to the CIA and FBI for records on the Varginha and Campinas incidents - meaning that a municipal hospital in Minas Gerais is now a named location in an American records fight. What exists here as verified fact is the facility and its registry entry; the 1996 hospital-custody sequence rests on witness testimony and journalism, not on any hospital record obtained in this pass.",
-"domains": [
-"_rs-stubs-known",
-"_stubs"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "nd",
@@ -217,7 +215,12 @@
 "label": "Hospital Regional de Varginha",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Hospital Regional de Varginha",
+"sourceFiles": [
+"_rs-stubs-known",
+"_stubs"
+],
 "sources": [
 {
 "date": "2026-08-12",
@@ -233,5 +236,6 @@
 "sub": "Medical facility",
 "tier": "C",
 "tierRationale": "Re-graded C on a global pass (rank 1024 of 1170, score 14). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D0.",
-"timeline": []
+"timeline": [],
+"unverified": []
 }

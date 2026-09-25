@@ -132,6 +132,7 @@
 ],
 "cls": "legislation",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 3,
@@ -293,14 +294,19 @@
 "claimTier": 1,
 "cls": "institution",
 "dateEnd": null,
-"dateStart": "1996-02-10",
+"dateStart": null,
 "direction": "out",
-"edgeLabel": "Reports run to six named congressional bodies and no others",
+"edgeLabel": "119(g) defines who must be told",
 "id": "defense-committees",
 "l0": false,
 "label": "The defense committees (10 U.S.C. 119(g))",
 "note": "119(g) enumerates SASC, Senate Appropriations and its Defense Subcommittee, HASC, House Appropriations and its Subcommittee on Defense.",
 "sources": [
+{
+"date": null,
+"name": "https://www.govinfo.gov/content/pkg/USCODE-2023-title10/html/USCODE-2023-title10-subtitleA-partI-chap2-sec119.htm",
+"url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title10/html/USCODE-2023-title10-subtitleA-partI-chap2-sec119.htm"
+},
 {
 "date": "2026-08-12",
 "name": "10 U.S.C. 119",
@@ -316,7 +322,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
-"edgeLabel": "119(g) defines who must be told",
+"edgeLabel": "defines the term for this section",
 "id": "defense-committees",
 "l0": false,
 "label": "The defense committees (10 U.S.C. 119(g))",
@@ -356,12 +362,33 @@
 "claimTier": 1,
 "cls": "legislation",
 "dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "Sec. 4.3(c): nothing in the order supersedes any requirement made by or under 10 U.S.C. 119",
+"id": "eo-13526",
+"l0": true,
+"label": "Executive Order 13526 - Classified National Security Information",
+"note": "",
+"sources": [
+{
+"date": null,
+"name": "https://www.govinfo.gov/content/pkg/FR-2010-01-05/html/E9-31418.htm",
+"url": "https://www.govinfo.gov/content/pkg/FR-2010-01-05/html/E9-31418.htm"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "legislation",
+"dateEnd": null,
 "dateStart": "2009-12-29",
 "direction": "in",
 "edgeLabel": "Creates the programs the statute then reports on",
 "id": "eo-13526",
 "l0": true,
-"label": "Executive Order 13526 — Classified National Security Information",
+"label": "Executive Order 13526 - Classified National Security Information",
 "note": "E.O. 13526 sec. 4.3 is the source of authority to create a SAP; 10 U.S.C. 119 only prescribes what must be told to Congress afterwards.",
 "sources": [
 {
@@ -384,10 +411,10 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
-"edgeLabel": "Sec. 4.3(c): nothing in the order supersedes any requirement made by or under 10 U.S.C. 119",
+"edgeLabel": "creates what the statute must report",
 "id": "eo-13526",
 "l0": true,
-"label": "Executive Order 13526 — Classified National Security Information",
+"label": "Executive Order 13526 - Classified National Security Information",
 "note": "The order creates the object the statute reports on. EO 13526 sec. 4.3(a) is the authority to establish a special access program at all, and restricts it to six officials or their principal deputies: the Secretaries of State, Defense, Energy and Homeland Security, the Attorney General, and the Director of National Intelligence. 10 U.S.C. 119 then obliges the Secretary of Defense to report the DoD ones to Congress. Creation is executive and unilateral; reporting is statutory. Both texts were read on 22 August 2026, and neither cites the other - the relationship is that one supplies the programmes the other counts.",
 "sources": [
 {
@@ -460,7 +487,7 @@
 "edgeLabel": "Sec. 1687 is Congress overriding the Sec. 119 waiver for one subject matter",
 "id": "ndaa-fy2024-1687",
 "l0": true,
-"label": "FY2024 NDAA sec. 1687 — Limitation on Use of Funds for Certain Unreported Programs",
+"label": "FY2024 NDAA sec. 1687 - Limitation on Use of Funds for Certain Unreported Programs",
 "note": "Where Sec. 119(e) permits reporting to only the chairman and ranking member of each defense committee, Sec. 1687 conditions the money itself on disclosure to both intelligence committees and all four congressional leaders for UAP activity specifically.",
 "sources": [
 {
@@ -486,7 +513,7 @@
 "edgeLabel": "Enacted section 119 on 4 December 1987",
 "id": "pl-100-180",
 "l0": false,
-"label": "Public Law 100-180 sec. 1132 — creation of SAP congressional oversight (4 Dec 1987)",
+"label": "Public Law 100-180 sec. 1132 - creation of SAP congressional oversight (4 Dec 1987)",
 "note": "Source credit to 10 U.S.C. 119: added by Pub. L. 100-180, div. A, title XI, sec. 1132(a)(1), 101 Stat. 1151.",
 "sources": [
 {
@@ -507,7 +534,7 @@
 "edgeLabel": "Subsection (e) is the escape hatch inside the reporting statute",
 "id": "usc-10-119e",
 "l0": false,
-"label": "10 U.S.C. 119(e) — Waiver of SAP Reporting (the 'waived SAP' authority)",
+"label": "10 U.S.C. 119(e) - Waiver of SAP Reporting (the 'waived SAP' authority)",
 "note": "119(e)(1) permits waiver of any requirement under (a), (b) or (c) on the Secretary's own national-security determination, case by case.",
 "sources": [
 {
@@ -523,14 +550,19 @@
 "claimTier": 1,
 "cls": "legislation",
 "dateEnd": null,
-"dateStart": "1993-11-30",
+"dateStart": null,
 "direction": "in",
-"edgeLabel": "Supplies the statutory definition of 'special access program' that title 10 lacks",
+"edgeLabel": "3348(g)(2)(B)(i) writes DoD out of the government-wide SAP statute and points to 10 U.S.C. 119",
 "id": "usc-50-3348",
 "l0": false,
-"label": "50 U.S.C. 3348 — Reports Relating to Certain SAPs and Similar Programs",
+"label": "50 U.S.C. 3348 - Reports Relating to Certain SAPs and Similar Programs",
 "note": "50 U.S.C. 3348(g)(3) defines the term; 10 U.S.C. 119 uses it throughout without defining it. Section 3091a(b)(2)(A) cross-references 3348(g) for the definition.",
 "sources": [
+{
+"date": null,
+"name": "https://www.govinfo.gov/content/pkg/USCODE-2023-title50/html/USCODE-2023-title50-chap45-subchapIII-sec3348.htm",
+"url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title50/html/USCODE-2023-title50-chap45-subchapIII-sec3348.htm"
+},
 {
 "date": "2026-08-12",
 "name": "50 U.S.C. 3348",
@@ -551,10 +583,10 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
-"edgeLabel": "3348(g)(2)(B)(i) writes DoD out of the government-wide SAP statute and points to 10 U.S.C. 119",
+"edgeLabel": "excludes DoD, routing it to sec. 119",
 "id": "usc-50-3348",
 "l0": false,
-"label": "50 U.S.C. 3348 — Reports Relating to Certain SAPs and Similar Programs",
+"label": "50 U.S.C. 3348 - Reports Relating to Certain SAPs and Similar Programs",
 "note": "50 U.S.C. 3348(g)(2)(B) defines what the section does NOT cover, and the first thing it excludes is the Department of Defense: 'Such term does not include - (i) the Department of Defense (which is required to submit reports on special access programs under section 119 of title 10)'. The exclusion is the link. 3348's SAP reporting regime does not reach DoD because DoD reports under 10 U.S.C. 119 instead, and 119 is the statute that carries the subsection (e) waiver. Read directly from the OLRC text on 22 August 2026.",
 "sources": [
 {
@@ -604,18 +636,20 @@
 "deg": 16,
 "denials": [
 {
-"by": {
+"a": {
 "id": "accm",
 "label": "Alternative Compensatory Control Measures (ACCM)"
 },
+"b": {
+"id": "usc-10-119",
+"label": "10 U.S.C. 119 - Special Access Programs: Congressional Oversight"
+},
+"by": null,
 "claimTier": 3,
 "denialKind": "association",
 "label": "ACCM sits below the definitional trigger of every SAP reporting statute",
 "note": "32 CFR 117.3(b) defines ACCM as the case 'where SAP controls are not required'; the reporting statutes are triggered only by the term 'special access program'.",
-"of": {
-"id": "usc-10-119",
-"label": "10 U.S.C. 119 — Special Access Programs: Congressional Oversight"
-},
+"of": null,
 "sources": [
 {
 "date": "2026-08-12",
@@ -631,13 +665,7 @@
 }
 ],
 "desc": "Section 119 of title 10 is the only statute that tells the Secretary of Defense what he must tell Congress about special access programs, and it is therefore the exact place to look for how a program escapes oversight. It was added by section 1132(a)(1) of the National Defense Authorization Act for Fiscal Years 1988 and 1989, Public Law 100-180, signed 4 December 1987, and amended five times since (Pub. L. 101-510 in 1990, Pub. L. 104-106 in 1996, Pub. L. 106-65 in 1999, Pub. L. 107-107 in 2001). The architecture is four affirmative duties and one hole. Subsection (a)(1) requires the Secretary, 'not later than March 1 of each year', to submit to the defense committees 'a report on special access programs' setting forth the total amount requested for DoD SAPs in the President's budget and, for each program, a brief description, major milestones, actual cost for each prior fiscal year, and estimated cost for the current year, the budget year and the four succeeding years. Subsection (b)(1) requires, 'not later than February 1 of each year', notice of the designation of each 'new special access program' and 'justification for such designation', with the current total program cost estimate and 'an identification of existing programs or technologies that are similar to the technology, or that have a mission similar to the mission, of the program'. Subsection (c) requires a report at least 14 days before any planned change in the classification of a SAP or any declassification and public release, with an exceptional-circumstances escape hatch. Subsection (d) requires prompt notice of any modification or termination of the policy and criteria used to designate programs as SAPs. Subsection (f) provides that 'A special access program may not be initiated until - (1) the defense committees are notified of the program; and (2) a period of 30 days elapses after such notification is received.' Subsection (g) defines 'defense committees' as the Armed Services and Appropriations Committees of both chambers plus the defense subcommittees of both Appropriations Committees. Then subsection (e) removes all of it. Nothing in section 119 defines 'special access program', creates a penalty for non-reporting, or gives any committee an enforcement remedy. The duty runs to the Secretary of Defense personally, which means a program concealed from the Secretary of Defense - which is what David Grusch and others allege - produces no statutory violation at all by anyone the statute names.",
-"domains": [
-"_rs-sap-docs",
-"primes-custody",
-"w11-statutory",
-"w12-sap-statutory-edges",
-"w2-sap-architecture"
-],
+"domains": [],
 "dossier": {
 "claims": [
 {
@@ -771,7 +799,7 @@
 "hl": 3,
 "id": "usc-10-119",
 "l0": true,
-"label": "10 U.S.C. 119 — Special Access Programs: Congressional Oversight",
+"label": "10 U.S.C. 119 - Special Access Programs: Congressional Oversight",
 "locLabel": null,
 "members": [
 {
@@ -825,23 +853,31 @@
 {
 "cls": "legislation",
 "id": "pl-100-180",
-"label": "Public Law 100-180 sec. 1132 — creation of SAP congressional oversight (4 Dec 1987)",
+"label": "Public Law 100-180 sec. 1132 - creation of SAP congressional oversight (4 Dec 1987)",
 "tier": "C"
 },
 {
 "cls": "legislation",
 "id": "usc-10-119e",
-"label": "10 U.S.C. 119(e) — Waiver of SAP Reporting (the 'waived SAP' authority)",
+"label": "10 U.S.C. 119(e) - Waiver of SAP Reporting (the 'waived SAP' authority)",
 "tier": "B"
 },
 {
 "cls": "legislation",
 "id": "usc-50-3348",
-"label": "50 U.S.C. 3348 — Reports Relating to Certain SAPs and Similar Programs",
+"label": "50 U.S.C. 3348 - Reports Relating to Certain SAPs and Similar Programs",
 "tier": "A"
 }
 ],
+"openQuestions": [],
 "short": "10 U.S.C. 119",
+"sourceFiles": [
+"_rs-sap-docs",
+"primes-custody",
+"w11-statutory",
+"w12-sap-statutory-edges",
+"w2-sap-architecture"
+],
 "sources": [
 {
 "date": null,
@@ -881,16 +917,18 @@
 ],
 "sub": "statute",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 33 of 1170, score 92). 19 connections, 3 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A3/D3.",
+"tierRationale": "Re-graded A on a global pass (rank 30 of 1170, score 93). 20 connections, 3 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A3/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1987-12-04",
+"grade": "A",
 "id": "sap-tl-1987-119x",
 "label": "Congress first requires DoD to report special access programs",
 "precision": "day",
 "strand": "oversight",
-"text": "President Reagan signs Public Law 100-180. Section 1132(a)(1) adds section 119 to title 10, creating for the first time a statutory duty to tell the defense committees that a special access program exists. Every alleged legacy activity from the 1940s to this date ran under no SAP reporting obligation at all. The same section creates the subsection (e) waiver in the same breath.",
-"tier": "A"
+"text": "President Reagan signs Public Law 100-180. Section 1132(a)(1) adds section 119 to title 10, creating for the first time a statutory duty to tell the defense committees that a special access program exists. Every alleged legacy activity from the 1940s to this date ran under no SAP reporting obligation at all. The same section creates the subsection (e) waiver in the same breath."
 }
-]
+],
+"unverified": []
 }

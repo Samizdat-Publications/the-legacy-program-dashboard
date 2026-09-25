@@ -27,6 +27,7 @@
 ],
 "cls": "document",
 "cluster": "research",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -119,9 +120,7 @@
 "deg": 4,
 "denials": [],
 "desc": "A near-three-hour investigation published 13 December 2025 arguing that the NRO is far more deeply embedded in the legacy effort than its public profile suggests. Its specific, falsifiable propositions: that the NRO and its Sentient artificial-intelligence program supplied IMINT and SIGINT from both tasked and untasked overhead collection platforms to an unacknowledged special access program called Immaculate Constellation established in 2017; that the NRO provides direct mission support to crash-retrieval teams; that in the 21st century the NRO spearheaded a crash retrieval team stationed out of the Nevada Test and Training Range; that senior gatekeepers can be identified by analysing the offices controlling NRO acquisitions, namely USD(A&S) and DDNI(AT&F); that curious relationships exist between alleged legacy personnel and MITRE, CIA Directorate of Science and Technology, CIA Office of Global Access, the NRO and the Executive branch; and that the NRO showed egregious misappropriation of funds through carry-over appropriations in the mid-1990s. The Sentient-to-Immaculate-Constellation link is the most consequential claim: it supplies a concrete collection pipeline for the programme Shellenberger put into the congressional record thirteen months earlier. Chapters: HISTORY OF THE NRO (09:05), IMMACULATE CONSTELLATION / SENTIENT (25:25), NRO RETRIEVAL TEAMS (1:04:26), NRO, OGA, OUSDAT & GATEKEEPERS (2:01:18), CONCLUSION (2:51:28). 141,122 views.",
-"domains": [
-"media-structure"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "3",
@@ -135,7 +134,11 @@
 "label": "UAP Gerb - National Reconnaissance Office investigation",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "UAP Gerb - National Reconnaissance Office investigation",
+"sourceFiles": [
+"media-structure"
+],
 "sources": [
 {
 "date": "2025-12-13",
@@ -145,16 +148,18 @@
 ],
 "sub": "Video investigation, 13 Dec 2025",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 500 of 1170, score 31). 4 connections, 1 of them custody/funding/programmatic. Axes C1/A2/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 501 of 1170, score 31). 4 connections, 1 of them custody/funding/programmatic. Axes C1/A2/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2025-12-13",
+"grade": "A",
 "id": "ms-2025-nro",
 "label": "Gerb publishes the NRO investigation",
 "precision": "day",
 "strand": "program",
-"text": "Alleges the NRO's Sentient AI fed IMINT and SIGINT to Immaculate Constellation, established 2017; that the NRO ran a retrieval team out of the Nevada Test and Training Range; and that gatekeepers are identifiable through USD(A&S) and DDNI(AT&F).",
-"tier": "A"
+"text": "Alleges the NRO's Sentient AI fed IMINT and SIGINT to Immaculate Constellation, established 2017; that the NRO ran a retrieval team out of the Nevada Test and Training Range; and that gatekeepers are identifiable through USD(A&S) and DDNI(AT&F)."
 }
-]
+],
+"unverified": []
 }

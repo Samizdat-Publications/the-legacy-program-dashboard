@@ -32,6 +32,7 @@
 ],
 "cls": "legislation",
 "cluster": "other",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -61,9 +62,7 @@
 "deg": 1,
 "denials": [],
 "desc": "The Intelligence Authorization Act for Fiscal Year 2022, enacted as Division X of the Consolidated Appropriations Act, 2022, Public Law 117-103, approved 15 March 2022. Section 413, codified at 50 U.S.C. 3373a, compelled every IC element and DoD component holding UAP data to make it available immediately to the UAP Task Force and to the National Air and Space Intelligence Center, and imposed classified quarterly reporting. Section 413 was REPEALED by sec. 1672(a) of the FY2026 NDAA (PL 119-60).",
-"domains": [
-"_rs-legislation"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "nd",
@@ -77,7 +76,11 @@
 "label": "Intelligence Authorization Act for FY2022, Sec. 413 (Div. X of PL 117-103; 50 U.S.C. 3373a)",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Intelligence Authorization Act for FY2022, Sec. 413 (Div. X of PL 117-103; 50 U.S.C. 3373a)",
+"sourceFiles": [
+"_rs-legislation"
+],
 "sources": [
 {
 "date": "2022-03-15",
@@ -95,13 +98,15 @@
 "tierRationale": "Re-graded C on a global pass (rank 979 of 1170, score 16). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D0.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2022-03-15",
+"grade": "A",
 "id": "tl-2022-03-15-iaa2022",
 "label": "IAA FY2022 sec. 413 compels immediate handover of UAP data",
 "precision": "day",
 "strand": "program",
-"text": "Public Law 117-103 is approved, carrying the Intelligence Authorization Act for FY2022 as Division X. Section 413 (50 U.S.C. 3373a) requires the DNI and SecDef jointly to make every IC element and DoD component with UAP data 'make such data available immediately' to the UAP Task Force and NASIC, with classified quarterly reports to the intelligence and armed services committees.",
-"tier": "A"
+"text": "Public Law 117-103 is approved, carrying the Intelligence Authorization Act for FY2022 as Division X. Section 413 (50 U.S.C. 3373a) requires the DNI and SecDef jointly to make every IC element and DoD component with UAP data 'make such data available immediately' to the UAP Task Force and NASIC, with classified quarterly reports to the intelligence and armed services committees."
 }
-]
+],
+"unverified": []
 }

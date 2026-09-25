@@ -1,0 +1,344 @@
+[
+ {
+  "where": "node.label",
+  "id": "dird-series",
+  "from": "Defense Intelligence Reference Documents (DIRD) — AAWSAP series",
+  "to": "Defense Intelligence Reference Documents (DIRD) - AAWSAP series"
+ },
+ {
+  "where": "node.label",
+  "id": "dia-sap-denial-2009",
+  "from": "DIA Info Memo U-09-2660 — denial of restricted SAP for AAWSAP (13 Nov 2009)",
+  "to": "DIA Info Memo U-09-2660 - denial of restricted SAP for AAWSAP (13 Nov 2009)"
+ },
+ {
+  "where": "timeline.label",
+  "id": "2009-06-30",
+  "from": "BAASS delivers 26 detailed research reports — twice the contracted minimum",
+  "to": "BAASS delivers 26 detailed research reports - twice the contracted minimum"
+ },
+ {
+  "where": "timeline.label",
+  "id": "2009-2012",
+  "from": "Reid SAP request (2009, denied by DIA) and later KONA BLUE PSAP to DHS (post-2012, rejected by DHS leadership) — two formal attempts to move the effort into special-access channels",
+  "to": "Reid SAP request (2009, denied by DIA) and later KONA BLUE PSAP to DHS (post-2012, rejected by DHS leadership) - two formal attempts to move the effort into special-access channels"
+ },
+ {
+  "where": "node.label",
+  "id": "usc-10-119",
+  "from": "10 U.S.C. 119 — Special Access Programs: Congressional Oversight",
+  "to": "10 U.S.C. 119 - Special Access Programs: Congressional Oversight"
+ },
+ {
+  "where": "node.label",
+  "id": "usc-10-119e",
+  "from": "10 U.S.C. 119(e) — Waiver of SAP Reporting (the 'waived SAP' authority)",
+  "to": "10 U.S.C. 119(e) - Waiver of SAP Reporting (the 'waived SAP' authority)"
+ },
+ {
+  "where": "node.label",
+  "id": "waived-usap-mechanism",
+  "from": "Waived Unacknowledged SAP (waived USAP) — the mechanism",
+  "to": "Waived Unacknowledged SAP (waived USAP) - the mechanism"
+ },
+ {
+  "where": "node.label",
+  "id": "usc-50-3348",
+  "from": "50 U.S.C. 3348 — Reports Relating to Certain SAPs and Similar Programs",
+  "to": "50 U.S.C. 3348 - Reports Relating to Certain SAPs and Similar Programs"
+ },
+ {
+  "where": "node.label",
+  "id": "eo-13526",
+  "from": "Executive Order 13526 — Classified National Security Information",
+  "to": "Executive Order 13526 - Classified National Security Information"
+ },
+ {
+  "where": "node.label",
+  "id": "cfr-32-117",
+  "from": "32 CFR Part 117 — NISPOM Rule",
+  "to": "32 CFR Part 117 - NISPOM Rule"
+ },
+ {
+  "where": "node.label",
+  "id": "dodi-5205-11",
+  "from": "DoDI 5205.11 — Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)",
+  "to": "DoDI 5205.11 - Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)"
+ },
+ {
+  "where": "node.label",
+  "id": "dodm-5205-07-series",
+  "from": "DoDM 5205.07 — DoD SAP Security Manual (Volumes 1-4)",
+  "to": "DoDM 5205.07 - DoD SAP Security Manual (Volumes 1-4)"
+ },
+ {
+  "where": "node.label",
+  "id": "dodm-5205-07-v1",
+  "from": "DoDM 5205.07 Volume 1 — DoD SAP Security Manual: General Procedures",
+  "to": "DoDM 5205.07 Volume 1 - DoD SAP Security Manual: General Procedures"
+ },
+ {
+  "where": "node.label",
+  "id": "icd-906",
+  "from": "ICD 906 — Controlled Access Programs (ODNI)",
+  "to": "ICD 906 - Controlled Access Programs (ODNI)"
+ },
+ {
+  "where": "node.label",
+  "id": "usc-50-3091a",
+  "from": "50 U.S.C. 3091a — Congressional Oversight of Controlled Access Programs",
+  "to": "50 U.S.C. 3091a - Congressional Oversight of Controlled Access Programs"
+ },
+ {
+  "where": "node.label",
+  "id": "usc-50-3091",
+  "from": "50 U.S.C. 3091 — General Congressional Oversight Provisions (NSA 1947 sec. 501)",
+  "to": "50 U.S.C. 3091 - General Congressional Oversight Provisions (NSA 1947 sec. 501)"
+ },
+ {
+  "where": "node.label",
+  "id": "usc-50-2426",
+  "from": "50 U.S.C. 2426 — Congressional Oversight of DOE/NNSA Special Access Programs",
+  "to": "50 U.S.C. 2426 - Congressional Oversight of DOE/NNSA Special Access Programs"
+ },
+ {
+  "where": "node.label",
+  "id": "eo-12829",
+  "from": "Executive Order 12829 — National Industrial Security Program (6 Jan 1993)",
+  "to": "Executive Order 12829 - National Industrial Security Program (6 Jan 1993)"
+ },
+ {
+  "where": "node.label",
+  "id": "gao-04-332",
+  "from": "GAO-04-332 — Industrial Security: DOD Cannot Provide Adequate Assurances That Its Oversight Ensures the Protection of Classified Information",
+  "to": "GAO-04-332 - Industrial Security: DOD Cannot Provide Adequate Assurances That Its Oversight Ensures the Protection of Classified Information"
+ },
+ {
+  "where": "node.label",
+  "id": "pl-100-180",
+  "from": "Public Law 100-180 sec. 1132 — creation of SAP congressional oversight (4 Dec 1987)",
+  "to": "Public Law 100-180 sec. 1132 - creation of SAP congressional oversight (4 Dec 1987)"
+ },
+ {
+  "where": "node.label",
+  "id": "sap-taxonomy",
+  "from": "Acknowledged, unacknowledged and waived — the three states of a DoD SAP",
+  "to": "Acknowledged, unacknowledged and waived - the three states of a DoD SAP"
+ },
+ {
+  "where": "node.label",
+  "id": "sap-cover-mechanisms",
+  "from": "Cover mechanisms — HVSACO, nicknames, unacknowledged locations",
+  "to": "Cover mechanisms - HVSACO, nicknames, unacknowledged locations"
+ },
+ {
+  "where": "node.label",
+  "id": "usc-50-3093",
+  "from": "50 U.S.C. 3093 — Presidential Approval and Reporting of Covert Actions",
+  "to": "50 U.S.C. 3093 - Presidential Approval and Reporting of Covert Actions"
+ },
+ {
+  "where": "node.label",
+  "id": "ndaa-fy2024-1687",
+  "from": "FY2024 NDAA sec. 1687 — Limitation on Use of Funds for Certain Unreported Programs",
+  "to": "FY2024 NDAA sec. 1687 - Limitation on Use of Funds for Certain Unreported Programs"
+ },
+ {
+  "where": "node.label",
+  "id": "iaa-fy2024-7343",
+  "from": "FY2024 Intelligence Authorization Act sec. 7343 — Funding Limitations Relating to UAP",
+  "to": "FY2024 Intelligence Authorization Act sec. 7343 - Funding Limitations Relating to UAP"
+ },
+ {
+  "where": "node.label",
+  "id": "ndaa-fy2024-7606",
+  "from": "FY2024 IAA sec. 7606(c) — Agency Review of Special Access Programs",
+  "to": "FY2024 IAA sec. 7606(c) - Agency Review of Special Access Programs"
+ },
+ {
+  "where": "node.label",
+  "id": "usc-50-3091a-2024amend",
+  "from": "Pub. L. 118-159 secs. 6602 & 6603 — CAP funding cutoff and the CAP-to-SAP transfer bar",
+  "to": "Pub. L. 118-159 secs. 6602 & 6603 - CAP funding cutoff and the CAP-to-SAP transfer bar"
+ },
+ {
+  "where": "timeline.label",
+  "id": "sap-tl-1987-119",
+  "from": "10 U.S.C. 119 enacted — and the waiver with it",
+  "to": "10 U.S.C. 119 enacted - and the waiver with it"
+ },
+ {
+  "where": "timeline.label",
+  "id": "sap-tl-2013-dodi",
+  "from": "DoDI 5205.11 issued — SAP management, administration and oversight",
+  "to": "DoDI 5205.11 issued - SAP management, administration and oversight"
+ },
+ {
+  "where": "node.label",
+  "id": "dgac-chile",
+  "from": "DGAC Chile — Dirección General de Aeronáutica Civil",
+  "to": "DGAC Chile - Dirección General de Aeronáutica Civil"
+ },
+ {
+  "where": "node.label",
+  "id": "saf-aaz",
+  "from": "SAF/AAZ — Air Force Declassification & Special Programs",
+  "to": "SAF/AAZ - Air Force Declassification & Special Programs"
+ },
+ {
+  "where": "node.label",
+  "id": "izmiran",
+  "from": "IZMIRAN — Pushkov Institute of Terrestrial Magnetism",
+  "to": "IZMIRAN - Pushkov Institute of Terrestrial Magnetism"
+ },
+ {
+  "where": "node.label",
+  "id": "defense-appropriations-aawsap",
+  "from": "Defense Appropriations Acts FY2008 and FY2010 — the $22M AAWSAP appropriation",
+  "to": "Defense Appropriations Acts FY2008 and FY2010 - the $22M AAWSAP appropriation"
+ },
+ {
+  "where": "edge.label",
+  "id": "earthtech-international->dird-collection",
+  "from": "largest single DIRD producer — six of 38",
+  "to": "largest single DIRD producer - six of 38"
+ },
+ {
+  "where": "edge.label",
+  "id": "colm-kelleher->george-knapp",
+  "from": "'Hunt for the Skinwalker' (2005) — the book that triggered the contract",
+  "to": "'Hunt for the Skinwalker' (2005) - the book that triggered the contract"
+ },
+ {
+  "where": "node.label",
+  "id": "uapda-sec-9010-eminent-domain",
+  "from": "Section 9010(a) — Exercise of Eminent Domain",
+  "to": "Section 9010(a) - Exercise of Eminent Domain"
+ },
+ {
+  "where": "node.label",
+  "id": "ndaa-fy2024-subtitle-c",
+  "from": "P.L. 118-31 Subtitle C — Secs. 1841-1843 (what survived)",
+  "to": "P.L. 118-31 Subtitle C - Secs. 1841-1843 (what survived)"
+ },
+ {
+  "where": "node.label",
+  "id": "iaa-fy2024-sec-1102",
+  "from": "IAA FY2024 Sec. 1102 — contractor turn-in of 'non-earth origin' material",
+  "to": "IAA FY2024 Sec. 1102 - contractor turn-in of 'non-earth origin' material"
+ },
+ {
+  "where": "node.label",
+  "id": "pl118-31-sec-7343",
+  "from": "P.L. 118-31 Sec. 7343 — the truncated funding limitation",
+  "to": "P.L. 118-31 Sec. 7343 - the truncated funding limitation"
+ },
+ {
+  "where": "node.label",
+  "id": "iaa-fy2025-title-lxviii",
+  "from": "IAA FY2025 Title LXVIII — Secs. 6801-6802 (P.L. 118-159)",
+  "to": "IAA FY2025 Title LXVIII - Secs. 6801-6802 (P.L. 118-159)"
+ },
+ {
+  "where": "node.label",
+  "id": "pl118-31-sec-1687",
+  "from": "P.L. 118-31 Sec. 1687 — limitation on funds for unreported programs",
+  "to": "P.L. 118-31 Sec. 1687 - limitation on funds for unreported programs"
+ },
+ {
+  "where": "node.label",
+  "id": "foia-21-f-0938",
+  "from": "OSD FOIA Case 21-F-0938 — Elizondo/Gough correspondence",
+  "to": "OSD FOIA Case 21-F-0938 - Elizondo/Gough correspondence"
+ },
+ {
+  "where": "node.label",
+  "id": "hearing-2024-11-13",
+  "from": "'Unidentified Anomalous Phenomena: Exposing the Truth' — House Oversight joint subcommittee hearing",
+  "to": "'Unidentified Anomalous Phenomena: Exposing the Truth' - House Oversight joint subcommittee hearing"
+ },
+ {
+  "where": "node.label",
+  "id": "gao-nsiad-95-187",
+  "from": "GAO/NSIAD-95-187 — Results of a Search for Records Concerning the 1947 Crash Near Roswell",
+  "to": "GAO/NSIAD-95-187 - Results of a Search for Records Concerning the 1947 Crash Near Roswell"
+ },
+ {
+  "where": "node.label",
+  "id": "rg-615-uap-records",
+  "from": "NARA Record Group 615 — UAP Records Collection",
+  "to": "NARA Record Group 615 - UAP Records Collection"
+ },
+ {
+  "where": "node.label",
+  "id": "ndaa-fy2024-1687",
+  "from": "FY2024 NDAA sec. 1687 — Limitation on Use of Funds for Certain Unreported Programs",
+  "to": "FY2024 NDAA sec. 1687 - Limitation on Use of Funds for Certain Unreported Programs"
+ },
+ {
+  "where": "node.label",
+  "id": "eo-13526",
+  "from": "Executive Order 13526 — Classified National Security Information",
+  "to": "Executive Order 13526 - Classified National Security Information"
+ },
+ {
+  "where": "node.label",
+  "id": "cfr-32-117",
+  "from": "32 CFR Part 117 — NISPOM Rule",
+  "to": "32 CFR Part 117 - NISPOM Rule"
+ },
+ {
+  "where": "node.label",
+  "id": "usc-50-3348",
+  "from": "50 U.S.C. 3348 — Reports Relating to Certain SAPs and Similar Programs",
+  "to": "50 U.S.C. 3348 - Reports Relating to Certain SAPs and Similar Programs"
+ },
+ {
+  "where": "node.label",
+  "id": "usc-10-119",
+  "from": "10 U.S.C. 119 — Special Access Programs: Congressional Oversight",
+  "to": "10 U.S.C. 119 - Special Access Programs: Congressional Oversight"
+ },
+ {
+  "where": "node.label",
+  "id": "usc-50-3091a",
+  "from": "50 U.S.C. 3091a — Congressional Oversight of Controlled Access Programs",
+  "to": "50 U.S.C. 3091a - Congressional Oversight of Controlled Access Programs"
+ },
+ {
+  "where": "edge.label",
+  "id": "earthtech-international->dird-series",
+  "from": "largest single DIRD producer — six of 38",
+  "to": "largest single DIRD producer - six of 38"
+ },
+ {
+  "where": "node.label",
+  "id": "saf-aaz",
+  "from": "SAF/AAZ — Air Force Declassification & Special Programs",
+  "to": "SAF/AAZ - Air Force Declassification & Special Programs"
+ },
+ {
+  "where": "node.label",
+  "id": "dgac-chile",
+  "from": "DGAC Chile — Dirección General de Aeronáutica Civil",
+  "to": "DGAC Chile - Dirección General de Aeronáutica Civil"
+ },
+ {
+  "where": "node.label",
+  "id": "izmiran",
+  "from": "IZMIRAN — Pushkov Institute of Terrestrial Magnetism",
+  "to": "IZMIRAN - Pushkov Institute of Terrestrial Magnetism"
+ },
+ {
+  "where": "node.label",
+  "id": "iaa-fy2024-sec-1102",
+  "from": "IAA FY2024 Sec. 1102 — contractor turn-in of 'non-earth origin or exotic' UAP material",
+  "to": "IAA FY2024 Sec. 1102 - contractor turn-in of 'non-earth origin or exotic' UAP material"
+ },
+ {
+  "where": "l0-shorts.short",
+  "id": "waived-usap-mechanism",
+  "from": "Waived USAP — the mechanism",
+  "to": "Waived USAP - the mechanism"
+ }
+]

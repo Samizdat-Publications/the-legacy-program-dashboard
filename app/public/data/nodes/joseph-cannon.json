@@ -120,6 +120,14 @@
 "deg": 3,
 "denials": [
 {
+"a": {
+"id": "ccdc-gvsc",
+"label": "U.S. Army Combat Capabilities Development Command, Ground Vehicle Systems Center"
+},
+"b": {
+"id": "joseph-cannon",
+"label": "Dr. Joseph Cannon"
+},
 "by": {
 "id": "ccdc-gvsc",
 "label": "U.S. Army Combat Capabilities Development Command, Ground Vehicle Systems Center"
@@ -142,7 +150,7 @@
 }
 ],
 "domains": [
-"elizondo-ttsa"
+"d-materials"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -163,6 +171,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Dr. Joseph Cannon",
+"sourceFiles": [
+"elizondo-ttsa"
+],
 "sources": [
 {
 "date": "2019-10-17",
@@ -178,7 +189,7 @@
 "status": "active",
 "sub": "Government principal investigator, TTSA CRADA; U.S. Army Ground Vehicle Survivability and Protection",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 423 of 1170, score 33). 3 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A2/D0.",
+"tierRationale": "Re-graded B on a global pass (rank 426 of 1170, score 33). 3 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A2/D0.",
 "timeline": [],
 "unexplainedResidual": "The Army withheld 100 pages of correspondence about a materials collaboration it publicly described as routine. Deliberative-process and trade-secret exemptions over an unclassified novel-materials review is an unusually heavy posture for a partnership characterised as immaterial to origin.",
 "unverified": [

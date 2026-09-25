@@ -172,29 +172,13 @@
 "id": "hearing-2023-07-26",
 "l0": true,
 "label": "House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'",
-"note": "Listed in the printed hearing record as a witness.",
+"note": "Graves testified alongside David Fravor and David Grusch; his written statement is in the committee record.",
 "sources": [
 {
 "date": "2023-07-26",
 "name": "CHRG-118hhrg53022, printed hearing transcript, 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency', Serial No. 118-53",
 "url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/pdf/CHRG-118hhrg53022.pdf"
-}
-],
-"tier": "A",
-"type": "programmatic"
 },
-{
-"claimTier": 1,
-"cls": "event",
-"dateEnd": "2023",
-"dateStart": "2023",
-"direction": "out",
-"edgeLabel": "Lead witness at the July 2023 House Oversight hearing",
-"id": "hearing-2023-07-26",
-"l0": true,
-"label": "House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'",
-"note": "Graves testified alongside David Fravor and David Grusch; his written statement is in the committee record.",
-"sources": [
 {
 "date": "2023-07-26",
 "name": "House Oversight - hearing page, 26 July 2023",
@@ -357,11 +341,11 @@
 "deg": 8,
 "denials": [],
 "domains": [
-"_rs-archive-mirror",
-"_rs-legislation",
-"aviators-incidents",
-"releases-2023-2026",
-"w2-2025-2026"
+"d-aviators",
+"d-oversight",
+"d-disclosure",
+"d-records",
+"d-witness"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -382,6 +366,13 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Ryan Graves",
+"sourceFiles": [
+"_rs-archive-mirror",
+"_rs-legislation",
+"aviators-incidents",
+"releases-2023-2026",
+"w2-2025-2026"
+],
 "sources": [
 {
 "date": "2026-08-10",
@@ -432,7 +423,7 @@
 "status": "active",
 "sub": "Lt, USN (Ret.), VFA-11 Red Rippers; Executive Director, Americans for Safe Aerospace",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 180 of 1170, score 47). 10 connections, 2 of them custody/funding/programmatic. Axes C0/A1/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 226 of 1170, score 43). 9 connections, 1 of them custody/funding/programmatic. Axes C0/A1/D3.",
 "timeline": [],
 "unexplainedResidual": "A stationary dark cube inside a clear sphere, holding position against the wind at a fixed airspace entry point, has no assessed explanation in any released AARO product.",
 "unverified": [

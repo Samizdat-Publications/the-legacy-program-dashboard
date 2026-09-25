@@ -75,8 +75,8 @@
 "deg": 1,
 "denials": [],
 "domains": [
-"w16-thin-people",
-"w2-international"
+"d-international",
+"d-disclosure"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -97,6 +97,10 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Général Bernard Norlain",
+"sourceFiles": [
+"w16-thin-people",
+"w2-international"
+],
 "sources": [
 {
 "date": "2026-08-25",
@@ -112,7 +116,7 @@
 "status": "active",
 "sub": "Former Director, Institut des Hautes Études de Défense Nationale; COMETA preface author",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 740 of 1170, score 23). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 739 of 1170, score 23). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D2.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": [

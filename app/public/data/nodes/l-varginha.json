@@ -17,6 +17,7 @@
 ],
 "cls": "location",
 "cluster": "other",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -49,10 +50,7 @@
 "deg": 1,
 "denials": [],
 "desc": "Varginha is a city of roughly 130,000 in southern Minas Gerais, Brazil, and the location of the most widely reported non-US recovery claim of the modern era: the January 1996 episode in which multiple civilian witnesses reported an anomalous creature and in which Brazilian military and fire service personnel were said to have participated in a capture and transfer. Its significance to this board is structural rather than evidentiary - Brazil transferred substantial military UFO holdings to the Arquivo Nacional, making the state's own records citizen-accessible in a way the United States has not matched, so the Varginha case is testable against an open archive. In July 2026 a US congressman formally requested FBI and CIA holdings relating to the incident, making it a live American oversight matter three decades after the fact.",
-"domains": [
-"_stubs",
-"w2-taxonomy"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "nd",
@@ -66,7 +64,12 @@
 "label": "Varginha, Minas Gerais, Brazil",
 "locLabel": "Varginha, Minas Gerais, Brazil",
 "members": null,
+"openQuestions": [],
 "short": "Varginha, Minas Gerais, Brazil",
+"sourceFiles": [
+"_stubs",
+"w2-taxonomy"
+],
 "sources": [
 {
 "date": "2026-08-12",
@@ -87,5 +90,6 @@
 "sub": "City in southern Minas Gerais; site of the January 1996 incident",
 "tier": "C",
 "tierRationale": "Re-graded C on a global pass (rank 993 of 1170, score 16). 1 connections, 0 of them custody/funding/programmatic. Axes C2/A0/D2.",
-"timeline": []
+"timeline": [],
+"unverified": []
 }

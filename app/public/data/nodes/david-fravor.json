@@ -156,29 +156,13 @@
 "id": "hearing-2023-07-26",
 "l0": true,
 "label": "House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'",
-"note": "Listed in the printed hearing record as a witness.",
+"note": "Fravor's written statement to the subcommittee is the primary sworn account of the 2004 intercept.",
 "sources": [
 {
 "date": "2023-07-26",
 "name": "CHRG-118hhrg53022, printed hearing transcript, 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency', Serial No. 118-53",
 "url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/pdf/CHRG-118hhrg53022.pdf"
-}
-],
-"tier": "A",
-"type": "programmatic"
 },
-{
-"claimTier": 1,
-"cls": "event",
-"dateEnd": "2023",
-"dateStart": "2023",
-"direction": "out",
-"edgeLabel": "Testified as former commanding officer, VFA-41",
-"id": "hearing-2023-07-26",
-"l0": true,
-"label": "House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'",
-"note": "Fravor's written statement to the subcommittee is the primary sworn account of the 2004 intercept.",
-"sources": [
 {
 "date": "2023-07-26",
 "name": "House Oversight - hearing page, 26 July 2023",
@@ -257,9 +241,9 @@
 "deg": 5,
 "denials": [],
 "domains": [
-"_rs-legislation",
-"aviators-incidents",
-"witnesses-2026-09-18"
+"d-aviators",
+"d-oversight",
+"d-coverup"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -280,6 +264,11 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "David Fravor",
+"sourceFiles": [
+"_rs-legislation",
+"aviators-incidents",
+"witnesses-2026-09-18"
+],
 "sources": [
 {
 "date": "2023-07-26",
@@ -324,8 +313,8 @@
 ],
 "status": "active",
 "sub": "CDR, USN (Ret.); Commanding Officer, VFA-41 Black Aces; 14 Nov 2004 Nimitz intercept",
-"tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 162 of 1170, score 50). 6 connections, 1 of them custody/funding/programmatic. Axes C0/A1/D3.",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 187 of 1170, score 46). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.",
 "timeline": [],
 "unexplainedResidual": "A 46-foot object with no visible propulsion or control surfaces that departed the intercept faster than an F/A-18F could track, then reappeared at the squadron's undisclosed CAP point, remains unexplained in the Navy's own 2023 range fouler release.",
 "unverified": []

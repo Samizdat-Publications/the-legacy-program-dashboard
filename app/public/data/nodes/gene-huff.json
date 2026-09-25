@@ -80,9 +80,7 @@
 "dateStart": null,
 "deg": 2,
 "denials": [],
-"domains": [
-"lazar-s4-2026-09-18"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "nd",
@@ -102,6 +100,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Gene Huff",
+"sourceFiles": [
+"lazar-s4-2026-09-18"
+],
 "sources": [
 {
 "date": "1995-03-12",
@@ -125,22 +126,24 @@
 "tierRationale": "Re-graded C on a global pass (rank 968 of 1170, score 16). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1989-03-22",
+"grade": "C",
 "id": "tl-1989-03-22-first-viewing",
 "label": "First Wednesday desert viewing in Tikaboo Valley",
 "precision": "day",
 "strand": "witness",
-"text": "Lazar, his wife, Gene Huff and John Lear watched lights in Tikaboo Valley. Mahood's timeline records that only Lear saw an elliptical shape through a telescope. Huff's own synopsis of 12 March 1995 gives the same date.",
-"tier": "C"
+"text": "Lazar, his wife, Gene Huff and John Lear watched lights in Tikaboo Valley. Mahood's timeline records that only Lear saw an elliptical shape through a telescope. Huff's own synopsis of 12 March 1995 gives the same date."
 },
 {
+"claimTier": null,
 "date": "1989-04-05",
+"grade": "C",
 "id": "tl-1989-04-05-detained",
 "label": "Third viewing ends with the group detained by the Lincoln County Sheriff",
 "precision": "day",
 "strand": "witness",
-"text": "On the third Wednesday viewing the group, which included Lazar, Gene Huff and John Lear, was discovered by guards and detained by the Lincoln County Sheriff. Both the claimants' own accounts and the principal sceptical account agree this happened; they disagree about what the group was watching. Tom Mahood's counter-explanation is that the whole alien-craft narrative began as a cover story after this detention.",
-"tier": "C"
+"text": "On the third Wednesday viewing the group, which included Lazar, Gene Huff and John Lear, was discovered by guards and detained by the Lincoln County Sheriff. Both the claimants' own accounts and the principal sceptical account agree this happened; they disagree about what the group was watching. Tom Mahood's counter-explanation is that the whole alien-craft narrative began as a cover story after this detention."
 }
 ],
 "unexplainedResidual": null,

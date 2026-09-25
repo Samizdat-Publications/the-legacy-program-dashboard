@@ -27,6 +27,7 @@
 ],
 "cls": "event",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -103,9 +104,7 @@
 "deg": 3,
 "denials": [],
 "desc": "The first congressional hearing on unidentified flying objects, held on 5 April 1966 by the House Committee on Armed Services after House Minority Leader Gerald Ford demanded an inquiry in response to the March 1966 Michigan sightings and the swamp gas explanation offered by the Air Force's own consultant. It lasted a single day. Secretary of the Air Force Harold Brown, Blue Book director Maj. Hector Quintanilla and J. Allen Hynek appeared. Nineteen years of official investigation received one day of legislative attention, and the concrete result was not oversight but outsourcing: within six months the Air Force had contracted the University of Colorado study, whose coordinator had already written in August 1966 that the trick would be to appear objective to the public while presenting the image of nonbelievers to scientists. Two years later a second and more substantial hearing — the House Committee on Science and Astronautics symposium of 29 July 1968, with McDonald, Hynek, Sagan and others — produced a serious scientific record and no legislative consequence at all. The 1966 hearing is the template: pressure in, study out, closure follows.",
-"domains": [
-"history-1940s-1960s"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -119,7 +118,11 @@
 "label": "House Armed Services Committee UFO Hearing",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "House Armed Services Committee UFO Hearing",
+"sourceFiles": [
+"history-1940s-1960s"
+],
 "sources": [
 {
 "date": "1968-07-29",
@@ -137,13 +140,15 @@
 "tierRationale": "Re-graded C on a global pass (rank 793 of 1170, score 22). 3 connections, 1 of them custody/funding/programmatic. Axes C0/A1/D2.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1966-04-05",
+"grade": "B",
 "id": "tl-1966-04-05",
 "label": "First congressional hearing",
 "precision": "day",
 "strand": "oversight",
-"text": "After House Minority Leader Gerald Ford demands an inquiry, the House Armed Services Committee holds a one-day hearing on unidentified flying objects — the first in nineteen years of official investigation.",
-"tier": "B"
+"text": "After House Minority Leader Gerald Ford demands an inquiry, the House Armed Services Committee holds a one-day hearing on unidentified flying objects — the first in nineteen years of official investigation."
 }
-]
+],
+"unverified": []
 }

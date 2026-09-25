@@ -106,9 +106,7 @@
 "dateStart": "1955-12-07",
 "deg": 3,
 "denials": [],
-"domains": [
-"area52-2026-09-02"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -128,6 +126,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "James Jesus Angleton",
+"sourceFiles": [
+"area52-2026-09-02"
+],
 "sources": [
 {
 "date": "1976-04-23",
@@ -138,7 +139,7 @@
 "status": "former",
 "sub": "Chief, CIA Counterintelligence Staff, 1954-1974; ran the covert mail programme 1955-1973",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 298 of 1170, score 39). 3 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D2.",
+"tierRationale": "Re-graded B on a global pass (rank 297 of 1170, score 39). 3 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D2.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": [

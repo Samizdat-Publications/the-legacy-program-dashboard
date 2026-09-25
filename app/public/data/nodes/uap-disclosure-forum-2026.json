@@ -17,6 +17,7 @@
 ],
 "cls": "event",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -46,9 +47,7 @@
 "deg": 1,
 "denials": [],
 "desc": "Billed as the first gathering of its kind bringing lawmakers, UAP researchers and whistleblowers together in Washington, sponsored by the Disclosure Foundation and held on 25 June 2026. Its concrete output was Eric Burlison's announcement that MIT Lincoln Laboratory had agreed to make available a 1952 recording relating to the Washington, D.C. sightings. Disclosure Foundation executive director Jordan Flowers used the occasion to describe the change in method: 'The gloves are coming off, in terms of pushing for transparency, and knowing where these things are and pulling them out of the right structures.' The forum matters to this domain because it marks the point at which the House effort stopped being organised around hearings - which require witnesses willing to be exposed - and started being organised around records demands aimed at named institutions, which do not.",
-"domains": [
-"congress-house"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "3",
@@ -62,7 +61,11 @@
 "label": "Disclosure Forum 2026",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Disclosure Forum 2026",
+"sourceFiles": [
+"congress-house"
+],
 "sources": [
 {
 "date": "2026-06-29",
@@ -72,16 +75,18 @@
 ],
 "sub": "Washington, DC, 25 June 2026; Disclosure Foundation",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 917 of 1170, score 18). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 916 of 1170, score 18). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2026-06-25",
+"grade": "B",
 "id": "ch-2026-06-25",
 "label": "Disclosure Forum 2026",
 "precision": "day",
 "strand": "oversight",
-"text": "Burlison announces at the first Disclosure Forum that MIT Lincoln Laboratory has agreed to make the 1952 Washington sightings recording available.",
-"tier": "B"
+"text": "Burlison announces at the first Disclosure Forum that MIT Lincoln Laboratory has agreed to make the 1952 Washington sightings recording available."
 }
-]
+],
+"unverified": []
 }

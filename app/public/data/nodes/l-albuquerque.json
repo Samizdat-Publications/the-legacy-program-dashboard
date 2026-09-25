@@ -22,6 +22,7 @@
 ],
 "cls": "location",
 "cluster": "legacy",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -96,9 +97,7 @@
 "deg": 3,
 "denials": [],
 "desc": "Albuquerque is the civil jurisdiction that contains Kirtland Air Force Base, Sandia National Laboratories and the Air Force Research Laboratory's Directed Energy Directorate inside its city limits, which makes it the most nuclear- and directed-energy-dense metropolitan area in the country. For this board it functions as the New Mexico civilian node: it is where Paul Bennewitz ran Thunder Scientific; where AFOSI's district detachment operated; where Lincoln LaPaz, the University of New Mexico meteoriticist retained by the Air Force to investigate the 1948-1949 green fireballs, was based; where investigative journalist Linda Moulton Howe was contacted by AFOSI in 1983; and the home district of Rep. Steven H. Schiff, whose 1993-1994 inquiries into Roswell were rebuffed by the Defense Department and who then asked the General Accounting Office to audit the records, producing GAO/NSIAD-95-187. Wave 1 places Brig. Gen. William Neil McCasland, former commander of the Air Force Research Laboratory here, at this location; McCasland is the officer whom Sen. Harry Reid, in correspondence later released, identified as controlling access to a programme of interest. Albuquerque is where the legacy programme's research infrastructure, its counterintelligence arm and its congressional antagonist all sat within a few miles of each other.",
-"domains": [
-"w2-places-events"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -112,7 +111,11 @@
 "label": "Albuquerque, New Mexico",
 "locLabel": "Albuquerque, New Mexico, USA",
 "members": null,
+"openQuestions": [],
 "short": "Albuquerque, New Mexico",
+"sourceFiles": [
+"w2-places-events"
+],
 "sources": [
 {
 "date": "2026-08-12",
@@ -132,6 +135,7 @@
 ],
 "sub": "City in Bernalillo County; Sandia National Laboratories, AFRL Directed Energy, Kirtland AFB, University of New Mexico",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 509 of 1170, score 31). 3 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D2.",
-"timeline": []
+"tierRationale": "Re-graded B on a global pass (rank 510 of 1170, score 31). 3 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D2.",
+"timeline": [],
+"unverified": []
 }

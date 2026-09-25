@@ -202,10 +202,7 @@
 "dateStart": "2010-11-20",
 "deg": 4,
 "denials": [],
-"domains": [
-"w7-dirds-1",
-"w7-dirds-2"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "2",
@@ -225,6 +222,10 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "William Culbreth",
+"sourceFiles": [
+"w7-dirds-1",
+"w7-dirds-2"
+],
 "sources": [
 {
 "date": null,
@@ -265,7 +266,7 @@
 "status": "active",
 "sub": "Professor of Mechanical/Nuclear Engineering (ret.), University of Nevada, Las Vegas; founder of the UNLV Nuclear Engineering Lab; author of two AAWSAP DIRDs",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 234 of 1170, score 43). 4 connections, 1 of them custody/funding/programmatic. Axes C1/A2/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 232 of 1170, score 43). 4 connections, 1 of them custody/funding/programmatic. Axes C1/A2/D3.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": []

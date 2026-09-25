@@ -17,6 +17,7 @@
 ],
 "cls": "event",
 "cluster": "media",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -67,9 +68,7 @@
 "deg": 2,
 "denials": [],
 "desc": "A History Channel documentary series produced with TTSA and executive produced by Tom DeLonge, premiering 31 May 2019 and running two seasons. It presented Elizondo as the man who ran AATIP for eight years and followed him and Mellon as they pursued Navy witnesses and congressional contacts. Its significance is causal rather than evidentiary: the series is what prompted The Intercept to test the Department's position on Elizondo's role, which produced Christopher Sherwood's 1 June 2019 statement, which became the Department's fixed public line for the next seven years. TTSA's PR representative Kari DeLonge responded that Elizondo 'took it over in 2010 as Director' and 'ran it out of the Office for the Secretary of Defense (OSD) under the Under Secretary of Defense for Intelligence (USDI).'",
-"domains": [
-"elizondo-ttsa"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "3",
@@ -83,7 +82,11 @@
 "label": "'Unidentified: Inside America's UFO Investigation' (History Channel)",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "'Unidentified: Inside America's UFO Investigation' (History Channel)",
+"sourceFiles": [
+"elizondo-ttsa"
+],
 "sources": [
 {
 "date": "2019-06-01",
@@ -101,13 +104,15 @@
 "tierRationale": "Re-graded C on a global pass (rank 1129 of 1170, score 10). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2019-05-31",
+"grade": "B",
 "id": "tl-2019-05-31-unidentified",
 "label": "'Unidentified' premieres on History",
 "precision": "day",
 "strand": "program",
-"text": "The TTSA-produced series presents Elizondo as having run AATIP for eight years, prompting The Intercept to test the Department's position.",
-"tier": "B"
+"text": "The TTSA-produced series presents Elizondo as having run AATIP for eight years, prompting The Intercept to test the Department's position."
 }
-]
+],
+"unverified": []
 }

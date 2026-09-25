@@ -42,6 +42,7 @@
 ],
 "cls": "institution",
 "cluster": "legacy",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -155,9 +156,7 @@
 "deg": 5,
 "denials": [],
 "desc": "The Armed Forces Special Weapons Project was established by joint directive of the Secretaries of War and the Navy, effective midnight 31 December 1946, to carry on the military service functions of the Manhattan Project that were retained under armed forces control when the Atomic Energy Commission took the civil ones. It reported directly to the Army Chief of Staff and the Chief of Naval Operations, its Chief and Deputy Chief sat on the Military Liaison Committee to the AEC, and its funds came by working fund advances from the AEC out of money formerly available to the Manhattan Project. Major General Leslie R. Groves became its first Chief on 28 February 1947. It was redesignated the Defense Atomic Support Agency in 1959 and, through DNA and DSWA, is the ancestor of the Defense Threat Reduction Agency.",
-"domains": [
-"area52-2026-09-02"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -171,7 +170,11 @@
 "label": "Armed Forces Special Weapons Project",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Armed Forces Special Weapons Project",
+"sourceFiles": [
+"area52-2026-09-02"
+],
 "sources": [
 {
 "date": "2002-01-01",
@@ -191,16 +194,18 @@
 ],
 "sub": "Joint Army-Navy atomic energy organisation, 1946-1959; military successor to the Manhattan Engineer District",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 183 of 1170, score 47). 5 connections, 1 of them custody/funding/programmatic. Axes C2/A3/D1.",
+"tierRationale": "Re-graded B on a global pass (rank 181 of 1170, score 47). 5 connections, 1 of them custody/funding/programmatic. Axes C2/A3/D1.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1946-12-31",
+"grade": "B",
 "id": "tl-1946-12-31-afswp-effective",
 "label": "The Armed Forces Special Weapons Project takes effect, holding the military half of the Manhattan Project",
 "precision": "day",
 "strand": "program",
-"text": "AFSWP is established by joint directive of the Secretaries of War and the Navy 'effective as of midnight 31 December 1946', operating directly under the Army Chief of Staff and the Chief of Naval Operations and responsible for carrying on the military service functions of the Manhattan Project retained under armed forces control. The founding memorandum is signed on 29 January 1947 by Robert P. Patterson and James V. Forrestal; Major General Leslie R. Groves becomes first Chief on 28 February 1947. Its funds come by working fund advances from the Atomic Energy Commission out of money formerly available to the Manhattan Project.",
-"tier": "B"
+"text": "AFSWP is established by joint directive of the Secretaries of War and the Navy 'effective as of midnight 31 December 1946', operating directly under the Army Chief of Staff and the Chief of Naval Operations and responsible for carrying on the military service functions of the Manhattan Project retained under armed forces control. The founding memorandum is signed on 29 January 1947 by Robert P. Patterson and James V. Forrestal; Major General Leslie R. Groves becomes first Chief on 28 February 1947. Its funds come by working fund advances from the Atomic Energy Commission out of money formerly available to the Manhattan Project."
 }
-]
+],
+"unverified": []
 }

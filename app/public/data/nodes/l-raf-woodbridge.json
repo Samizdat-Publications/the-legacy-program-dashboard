@@ -17,6 +17,7 @@
 ],
 "cls": "location",
 "cluster": "legacy",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -77,9 +78,7 @@
 "deg": 2,
 "denials": [],
 "desc": "Twin Royal Air Force stations in Suffolk operated by the United States Air Force throughout the Cold War, home to the 81st Tactical Fighter Wing and its A-10 aircraft, and - as later confirmed - a nuclear weapons storage site under NATO arrangements. The status matters: the December 1980 events took place at and around a facility of the highest security category, and were documented in an official memorandum by the deputy base commander which the Air Force then released under FOIA while the UK Ministry of Defence maintained that the events had no defence significance. The base closed in the 1990s. The forest is now a public UFO trail, which is its own commentary on how the record was resolved.",
-"domains": [
-"history-1970s-2000s"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -93,7 +92,11 @@
 "label": "RAF Woodbridge / RAF Bentwaters, Suffolk, England",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "RAF Woodbridge / RAF Bentwaters, Suffolk, England",
+"sourceFiles": [
+"history-1970s-2000s"
+],
 "sources": [
 {
 "date": "2021-11-11",
@@ -113,6 +116,7 @@
 ],
 "sub": "USAF-operated twin NATO bases; 81st Tactical Fighter Wing; nuclear-capable",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 603 of 1170, score 28). 2 connections, 1 of them custody/funding/programmatic. Axes C2/A2/D2.",
-"timeline": []
+"tierRationale": "Re-graded C on a global pass (rank 598 of 1170, score 28). 2 connections, 1 of them custody/funding/programmatic. Axes C2/A2/D2.",
+"timeline": [],
+"unverified": []
 }

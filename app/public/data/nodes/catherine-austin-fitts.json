@@ -92,7 +92,7 @@
 "deg": 2,
 "denials": [],
 "domains": [
-"w2-black-budget"
+"d-funding"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -113,6 +113,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Catherine Austin Fitts",
+"sourceFiles": [
+"w2-black-budget"
+],
 "sources": [
 {
 "date": "2026-08-12",
@@ -133,7 +136,7 @@
 "status": "active",
 "sub": "Former Assistant Secretary of Housing and Federal Housing Commissioner, HUD; founder, Solari Inc.",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 943 of 1170, score 17). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 942 of 1170, score 17). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": [

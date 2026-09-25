@@ -12,6 +12,7 @@
 ],
 "cls": "document",
 "cluster": "other",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -41,9 +42,7 @@
 "deg": 1,
 "denials": [],
 "desc": "The complete releasable personnel file of Richard C. Doty from his service as a New Mexico State Police officer, 321 pages, obtained under the New Mexico Inspection of Public Records Act (NMSA 14-2-1 et seq.) and published in May 2021 after redaction by the New Mexico Department of Public Safety. It is the only substantial documentary record of the post-AFOSI career of the only US counterintelligence officer to admit running UFO disinformation against American civilians. Its significance is corroborative rather than revelatory: it establishes Doty as a real, traceable law-enforcement employee with a documented service history rather than a self-invented figure, which matters because the standard institutional response to the Bennewitz record has been to treat all of its participants as unreliable narrators. State public-records law produced what federal FOIA has never produced on this subject: a complete personnel file.",
-"domains": [
-"history-1970s-2000s"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "3",
@@ -57,7 +56,11 @@
 "label": "Richard Doty New Mexico State Police Personnel File [321 pages]",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Richard Doty New Mexico State Police Personnel File [321 pages]",
+"sourceFiles": [
+"history-1970s-2000s"
+],
 "sources": [
 {
 "date": "2021-05-20",
@@ -70,13 +73,15 @@
 "tierRationale": "Re-graded C on a global pass (rank 1101 of 1170, score 11). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2021-05-20",
+"grade": "A",
 "id": "t-2021-doty",
 "label": "Doty personnel file published",
 "precision": "day",
 "strand": "coverup",
-"text": "A 321-page New Mexico State Police personnel file for Richard Doty is released under state public-records law - documentation federal FOIA never produced.",
-"tier": "A"
+"text": "A 321-page New Mexico State Police personnel file for Richard Doty is released under state public-records law - documentation federal FOIA never produced."
 }
-]
+],
+"unverified": []
 }

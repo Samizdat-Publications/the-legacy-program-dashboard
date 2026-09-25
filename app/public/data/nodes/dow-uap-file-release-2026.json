@@ -22,6 +22,7 @@
 ],
 "cls": "event",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -87,10 +88,7 @@
 "deg": 2,
 "denials": [],
 "desc": "On 8 May 2026 the Department of War announced a release of files relating to unidentified anomalous phenomena, and Senator Gillibrand issued a statement the same day. Her framing is the important part, because she is the author of the surviving statute: she called it 'another important step' while insisting there is 'much more work to do' and committing to 'fight to ensure the administration finally meets its legal obligation to the American people.' The word 'finally' is doing considerable work — it is a sitting senator stating, on her own Senate press page, that the executive branch has not been meeting an existing legal obligation. That obligation is Sections 1841-1843 of P.L. 118-31, whose agency-review deadline expired on 17 October 2024, some nineteen months before this release. The release is therefore best read on this board not as compliance but as discretionary executive action taken in the space left by a statute with no enforcement mechanism — precisely the space created when the Review Board was removed in conference.",
-"domains": [
-"_rs-archive-mirror",
-"congress-senate-legislation"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "3",
@@ -104,7 +102,12 @@
 "label": "Department of War release of UAP files",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Department of War release of UAP files",
+"sourceFiles": [
+"_rs-archive-mirror",
+"congress-senate-legislation"
+],
 "sources": [
 {
 "date": "2026-07-23",
@@ -124,16 +127,18 @@
 ],
 "sub": "Announced 8 May 2026",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 847 of 1170, score 20). 2 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 848 of 1170, score 20). 2 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2026-05-08",
+"grade": "B",
 "id": "cl-2026-05-08",
 "label": "Department of War releases UAP files",
 "precision": "day",
 "strand": "oversight",
-"text": "The administration announces a release of UAP files. Gillibrand, author of the surviving statute, calls it 'another important step' and says she will fight to ensure the administration 'finally meets its legal obligation' — nineteen months after the deadline.",
-"tier": "B"
+"text": "The administration announces a release of UAP files. Gillibrand, author of the surviving statute, calls it 'another important step' and says she will fight to ensure the administration 'finally meets its legal obligation' — nineteen months after the deadline."
 }
-]
+],
+"unverified": []
 }

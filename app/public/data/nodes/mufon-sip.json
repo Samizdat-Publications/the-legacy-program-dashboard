@@ -22,6 +22,7 @@
 ],
 "cls": "program",
 "cluster": "contractor",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -51,9 +52,7 @@
 "deg": 1,
 "denials": [],
 "desc": "In 2009 BAASS, executing a Defense Intelligence Agency contract, entered a funding arrangement with the Mutual UFO Network — the largest civilian UFO reporting organisation in the United States — to stand up the Star Team Impact Project, a rapid-response field investigation capability that would deploy trained investigators to significant cases within 24 hours and route the resulting data back to BAASS. The practical effect was that federal contract money bought a government-funded contractor a live feed from the American public's UFO reporting stream, and MUFON's case files with it. The arrangement lasted roughly a year before collapsing in 2010 amid disputes over data ownership, reporting requirements and the direction of the funding. It is the clearest documented instance of the funded lineage reaching outside government into civil society, and it is entirely absent from AARO's official history, which describes only laboratory and site-based work.",
-"domains": [
-"aawsap-aatip"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "2",
@@ -67,7 +66,11 @@
 "label": "BAASS–MUFON Star Team Impact Project (SIP)",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "BAASS–MUFON Star Team Impact Project (SIP)",
+"sourceFiles": [
+"aawsap-aatip"
+],
 "sources": [
 {
 "date": "2011-03-01",
@@ -85,13 +88,15 @@
 "tierRationale": "Re-graded C on a global pass (rank 881 of 1170, score 19). 1 connections, 1 of them custody/funding/programmatic. Axes C2/A0/D1.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2009-01-01",
+"grade": "B",
 "id": "tl-2009-mufon",
 "label": "BAASS funds MUFON's Star Team Impact Project",
 "precision": "year",
 "strand": "program",
-"text": "A DIA-contracted firm funds rapid-response investigation by the largest civilian UFO network in the United States, routing case data back to BAASS. The arrangement collapses in 2010.",
-"tier": "B"
+"text": "A DIA-contracted firm funds rapid-response investigation by the largest civilian UFO network in the United States, routing case data back to BAASS. The arrangement collapses in 2010."
 }
-]
+],
+"unverified": []
 }

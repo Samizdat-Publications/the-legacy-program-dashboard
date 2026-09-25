@@ -12,6 +12,7 @@
 ],
 "cls": "location",
 "cluster": "contractor",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -46,9 +47,7 @@
 "deg": 1,
 "denials": [],
 "desc": "The address printed on the author block of DIA-08-1004-004: EarthTech International, Inc., 11855 Research Blvd, Austin, TX 78759. It is the physical location of both EarthTech International and the Institute for Advanced Studies at Austin, and therefore the single street address that connects the DIA's Defense Warning Office to the AAWSAP propulsion and medical reference documents, and thence to the To The Stars Academy metamaterials work. Robert Powell of the Scientific Coalition for UAP Studies is also Austin-based. For a question that ranges across Wright-Patterson, Groom Lake, the national laboratories and the primes, it is worth noting how much of the technical paper trail terminates at one suburban office park in north Austin.",
-"domains": [
-"scientists-technical"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "1",
@@ -62,7 +61,11 @@
 "label": "Austin, Texas - 11855 Research Blvd",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Austin, Texas - 11855 Research Blvd",
+"sourceFiles": [
+"scientists-technical"
+],
 "sources": [
 {
 "date": "2010-04-06",
@@ -77,6 +80,7 @@
 ],
 "sub": "EarthTech International / Institute for Advanced Studies at Austin",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 957 of 1170, score 17). 1 connections, 0 of them custody/funding/programmatic. Axes C2/A1/D1.",
-"timeline": []
+"tierRationale": "Re-graded C on a global pass (rank 956 of 1170, score 17). 1 connections, 0 of them custody/funding/programmatic. Axes C2/A1/D1.",
+"timeline": [],
+"unverified": []
 }

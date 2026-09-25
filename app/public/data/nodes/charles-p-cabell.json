@@ -149,18 +149,20 @@
 "deg": 5,
 "denials": [
 {
-"by": {
+"a": {
 "id": "charles-p-cabell",
 "label": "Gen. Charles P. Cabell"
 },
+"b": {
+"id": "donald-keyhoe",
+"label": "Maj. Donald E. Keyhoe, USMC (Ret.)"
+},
+"by": null,
 "claimTier": 1,
 "denialKind": null,
 "label": "Signed the CIA reply to Keyhoe",
 "note": "The reading room's catalogue entry names him as the sender and Keyhoe as the addressee. The scan's body text is illegible, so the edge records the correspondence and not its content.",
-"of": {
-"id": "donald-keyhoe",
-"label": "Maj. Donald E. Keyhoe, USMC (Ret.)"
-},
+"of": null,
 "sources": [
 {
 "date": "2026-09-03",
@@ -171,7 +173,9 @@
 }
 ],
 "domains": [
-"dannyjones-2026-09-03"
+"d-ic",
+"d-intel",
+"d-denial"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -192,6 +196,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Gen. Charles P. Cabell",
+"sourceFiles": [
+"dannyjones-2026-09-03"
+],
 "sources": [
 {
 "date": "2026-09-03",
@@ -217,7 +224,7 @@
 "status": "dead",
 "sub": "Director of Intelligence, USAF, to 1953; Deputy Director of Central Intelligence, 1953 to 1962",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 262 of 1170, score 41). 5 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A2/D2.",
+"tierRationale": "Re-graded B on a global pass (rank 260 of 1170, score 41). 5 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A2/D2.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": []

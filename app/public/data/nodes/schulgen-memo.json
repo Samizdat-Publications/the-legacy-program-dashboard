@@ -32,6 +32,7 @@
 ],
 "cls": "document",
 "cluster": "ic",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -87,9 +88,7 @@
 "deg": 2,
 "denials": [],
 "desc": "Signed by Brig. Gen. George F. Schulgen as Chief of the Air Intelligence Requirements Division, dated 28 October 1947 and distributed 30 October 1947, this is the document that turned the phenomenon into a standing worldwide intelligence collection target. It instructs collectors to seek information on craft with 'a plan form approximating that of an oval or disc with a dome shape', 'relatively flat bottom with extreme light-reflecting ability', 'extreme maneuverability and apparent ability to almost hover', absence of exhaust trails, composite and sandwich construction achieving extreme light weight, and — under propulsion — reciprocating engines, jet propulsion, and 'Nuclear propulsion (atomic energy)'. The stated cover hypothesis is Soviet exploitation of the Horten brothers' flying wing work, and collectors are asked to establish the Hortens' whereabouts. That framing is the standard Cold War rationalisation. What the requirements actually describe is a vehicle with no exhaust, near-hover capability, and possible atomic propulsion — a performance envelope that in October 1947 existed nowhere on earth, and which the drafters were nonetheless instructing field officers to characterise in engineering detail.",
-"domains": [
-"history-1940s-1960s"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -103,7 +102,11 @@
 "label": "Schulgen Collection Memorandum: Intelligence Requirements on Flying Saucer Type Aircraft",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Schulgen Collection Memorandum: Intelligence Requirements on Flying Saucer Type Aircraft",
+"sourceFiles": [
+"history-1940s-1960s"
+],
 "sources": [
 {
 "date": "1947-10-28",
@@ -118,16 +121,18 @@
 ],
 "sub": "Draft collection memorandum, 28/30 October 1947",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 439 of 1170, score 33). 2 connections, 1 of them custody/funding/programmatic. Axes C1/A3/D1.",
+"tierRationale": "Re-graded B on a global pass (rank 438 of 1170, score 33). 2 connections, 1 of them custody/funding/programmatic. Axes C1/A3/D1.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1947-10-30",
+"grade": "A",
 "id": "tl-1947-10-30",
 "label": "Schulgen collection memorandum distributed",
 "precision": "day",
 "strand": "program",
-"text": "Air Force intelligence tasks worldwide collectors on disc-type craft, listing near-hover capability, extreme light weight construction and 'Nuclear propulsion (atomic energy)'.",
-"tier": "A"
+"text": "Air Force intelligence tasks worldwide collectors on disc-type craft, listing near-hover capability, extreme light weight construction and 'Nuclear propulsion (atomic energy)'."
 }
-]
+],
+"unverified": []
 }

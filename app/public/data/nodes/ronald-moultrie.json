@@ -44,9 +44,7 @@
 "dateStart": null,
 "deg": 1,
 "denials": [],
-"domains": [
-"witnesses-2026-09-18"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "nd",
@@ -66,6 +64,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Ronald S. Moultrie",
+"sourceFiles": [
+"witnesses-2026-09-18"
+],
 "sources": [
 {
 "date": "2022-05-17",
@@ -76,7 +77,7 @@
 "status": "alive",
 "sub": "Under Secretary of Defense for Intelligence and Security, and one of the two witnesses at the 17 May 2022 House Intelligence subcommittee hearing on unidentified aerial phenomena, the first open congressional UAP hearing in over fifty years",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 813 of 1170, score 21). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 814 of 1170, score 21). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D2.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": [

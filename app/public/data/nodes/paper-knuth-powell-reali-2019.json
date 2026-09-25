@@ -17,6 +17,7 @@
 ],
 "cls": "document",
 "cluster": "research",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -93,9 +94,7 @@
 "deg": 3,
 "denials": [],
 "desc": "Published in Entropy on 25 September 2019 (DOI 10.3390/e21100939) by Kevin H. Knuth of the University at Albany, Robert Powell of the Scientific Coalition for UAP Studies and Peter Reali, following an August 2019 preprint, this is the paper that put numbers on the problem. It estimates accelerations, velocities and required power from documented cases including the 2004 Nimitz encounter, and it did something no volume of testimony could: it forced the question of whether the observed performance is achievable by known propulsion into a peer-reviewed physics venue where it can be contested on its inputs and error bars rather than dismissed on its provenance. A companion contribution appeared in the proceedings of the 39th International Workshop on Bayesian Inference and Maximum Entropy Methods in December 2019, specifically on the Nimitz encounter. The standing criticism - that Knuth is Editor-in-Chief of the journal in which it appeared - is fair and should be recorded; it does not dispose of the analysis.",
-"domains": [
-"scientists-technical"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "3",
@@ -109,7 +108,11 @@
 "label": "Knuth, Powell & Reali (2019), Entropy 21(10):939",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Knuth, Powell & Reali (2019), Entropy 21(10):939",
+"sourceFiles": [
+"scientists-technical"
+],
 "sources": [
 {
 "date": "2019-09-25",
@@ -127,13 +130,15 @@
 "tierRationale": "Re-graded C on a global pass (rank 1056 of 1170, score 13). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2019-09-25",
+"grade": "A",
 "id": "st-2019-09-entropy",
 "label": "Entropy kinematics paper",
 "precision": "day",
 "strand": "program",
-"text": "Knuth, Powell and Reali publish 'Estimating Flight Characteristics of Anomalous Unidentified Aerial Vehicles' - the first quantitative UAP performance analysis in a peer-reviewed physics journal.",
-"tier": "A"
+"text": "Knuth, Powell and Reali publish 'Estimating Flight Characteristics of Anomalous Unidentified Aerial Vehicles' - the first quantitative UAP performance analysis in a peer-reviewed physics journal."
 }
-]
+],
+"unverified": []
 }

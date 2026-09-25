@@ -174,7 +174,8 @@
 "deg": 5,
 "denials": [],
 "domains": [
-"history-1970s-2000s"
+"d-oversight",
+"d-coverup"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -195,6 +196,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "John D. Podesta",
+"sourceFiles": [
+"history-1970s-2000s"
+],
 "sources": [
 {
 "date": "2019-09-16",
@@ -220,16 +224,17 @@
 "status": "active",
 "sub": "White House Staff Secretary 1993-95, Deputy Chief of Staff 1997-98, Chief of Staff 1998-2001; Counselor to the President 2014-15",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 711 of 1170, score 24). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 710 of 1170, score 24). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2002-10-22",
+"grade": "B",
 "id": "t-2002-podesta",
 "label": "Podesta calls for declassification",
 "precision": "day",
 "strand": "oversight",
-"text": "Six days after the Wilson meeting, the former White House Chief of Staff appears at the National Press Club for the Coalition for Freedom of Information and demands the government open its UFO files.",
-"tier": "B"
+"text": "Six days after the Wilson meeting, the former White House Chief of Staff appears at the National Press Club for the Coalition for Freedom of Information and demands the government open its UFO files."
 }
 ],
 "unexplainedResidual": "Two terms as a senior White House official produced no access to programme records. Either the records do not exist or they sit outside the chain a Chief of Staff can reach.",

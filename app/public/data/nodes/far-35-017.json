@@ -17,6 +17,7 @@
 ],
 "cls": "legislation",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -67,9 +68,7 @@
 "deg": 2,
 "denials": [],
 "desc": "The regulatory instrument that creates the seam. FAR 35.017 defines what an FFRDC is, requires a sponsoring agency to justify its existence, sets the terms of the sponsoring agreement, and grants the operator its extraordinary access. The operative language for this board is the access clause - an FFRDC 'has access to government and supplier data, including sensitive and proprietary information, and to employees and facilities beyond that common in a normal contractual relationship' - and the disclosure clause, which requires the FFRDC to fully disclose its activities to its sponsoring agency. Nothing in FAR 35.017 requires disclosure to Congress, to the public, to GAO, or to any other agency. The sponsor is simultaneously the customer, the classification authority, and the only body entitled to a full account of what the FFRDC does. Contracts may be awarded for up to five years and renewed indefinitely in like increments, and are routinely awarded sole-source: the government's own notices for MITRE's aviation FFRDC in 2025 were posted as notices of intent to award a sole source contract. In return the FFRDC is forbidden to compete for federal R&D work against industry and must operate free of organisational conflicts of interest. Read as a whole, the subpart constructs an entity with the government's access, the private sector's records status, and no independent auditor. It is the legal chassis on which every entity in this domain sits.",
-"domains": [
-"ffrdcs"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "1",
@@ -83,7 +82,11 @@
 "label": "FAR 35.017 - Federally Funded Research and Development Centers",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "FAR 35.017 - Federally Funded Research and Development Centers",
+"sourceFiles": [
+"ffrdcs"
+],
 "sources": [
 {
 "date": "2026-05-15",
@@ -99,5 +102,6 @@
 "sub": "Federal Acquisition Regulation subpart; 48 CFR 35.017",
 "tier": "C",
 "tierRationale": "Re-graded C on a global pass (rank 637 of 1170, score 27). 2 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D1.",
-"timeline": []
+"timeline": [],
+"unverified": []
 }

@@ -105,7 +105,9 @@
 "deg": 2,
 "denials": [],
 "domains": [
-"history-1940s-1960s"
+"d-legacy",
+"d-recovery",
+"d-coverup"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -126,6 +128,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Howard M. McCoy",
+"sourceFiles": [
+"history-1940s-1960s"
+],
 "sources": [
 {
 "date": "1947-11-24",
@@ -146,7 +151,7 @@
 "status": "dead",
 "sub": "Chief of Intelligence, Air Materiel Command (T-2)",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 452 of 1170, score 32). 2 connections, 1 of them custody/funding/programmatic. Axes C3/A3/D0.",
+"tierRationale": "Re-graded B on a global pass (rank 450 of 1170, score 32). 2 connections, 1 of them custody/funding/programmatic. Axes C3/A3/D0.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": [

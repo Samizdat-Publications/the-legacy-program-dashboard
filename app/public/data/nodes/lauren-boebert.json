@@ -65,7 +65,8 @@
 "deg": 1,
 "denials": [],
 "domains": [
-"congress-house"
+"d-oversight",
+"d-coverup"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -86,6 +87,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Lauren Opal Boebert",
+"sourceFiles": [
+"congress-house"
+],
 "sources": [
 {
 "date": "2024-11-13",

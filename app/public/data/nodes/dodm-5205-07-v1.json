@@ -57,6 +57,7 @@
 ],
 "cls": "document",
 "cluster": "legacy",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -109,7 +110,7 @@
 "edgeLabel": "The manual implements the instruction's policy",
 "id": "dodi-5205-11",
 "l0": true,
-"label": "DoDI 5205.11 — Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)",
+"label": "DoDI 5205.11 - Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)",
 "note": "DoDM 5205.07 Volume 1 para 1.a(1) states that it 'implements policy established in DoD Instruction (DoDI) 5205.11'.",
 "sources": [
 {
@@ -130,7 +131,7 @@
 "edgeLabel": "Volume 1 is the general procedures volume of the four-volume manual",
 "id": "dodm-5205-07-series",
 "l0": false,
-"label": "DoDM 5205.07 — DoD SAP Security Manual (Volumes 1-4)",
+"label": "DoDM 5205.07 - DoD SAP Security Manual (Volumes 1-4)",
 "note": "DoDM 5205.07 is issued in volumes; Volume 1 carries the responsibilities, general procedures, HVSACO rules and the glossary containing the carve-out definition.",
 "sources": [
 {
@@ -151,7 +152,7 @@
 "edgeLabel": "HVSACO, nicknames and unacknowledged locations are all defined in the manual",
 "id": "sap-cover-mechanisms",
 "l0": false,
-"label": "Cover mechanisms — HVSACO, nicknames, unacknowledged locations",
+"label": "Cover mechanisms - HVSACO, nicknames, unacknowledged locations",
 "note": "DoDM 5205.07-V1 Enclosure 5 applies HVSACO 'When using a SAP nickname for an unacknowledged SAP' and states 'HVSACO is not a classification'; Enclosure 10 bars federal ID cards for identification at unacknowledged locations.",
 "sources": [
 {
@@ -170,18 +171,20 @@
 "deg": 5,
 "denials": [
 {
-"by": {
+"a": {
 "id": "dod-oig",
 "label": "Department of Defense Office of Inspector General"
 },
+"b": {
+"id": "dodm-5205-07-v1",
+"label": "DoDM 5205.07 Volume 1 - DoD SAP Security Manual: General Procedures"
+},
+"by": null,
 "claimTier": 1,
 "denialKind": "association",
 "label": "SAP fraud and abuse complaints must not use collateral reporting channels",
 "note": "DoDM 5205.07-V1 Enclosure 4 para 3.a: SAP FWAC reporting 'will be accomplished through SAP channels. Collateral FWAC reporting channels must not be used for SAP information.'",
-"of": {
-"id": "dodm-5205-07-v1",
-"label": "DoDM 5205.07 Volume 1 — DoD SAP Security Manual: General Procedures"
-},
+"of": null,
 "sources": [
 {
 "date": "2018-02-12",
@@ -192,10 +195,7 @@
 }
 ],
 "desc": "Volume 1 of the four-volume DoD SAP Security Manual assigns responsibilities and describes the general procedures for the administration of DoD SAP security, implementing the policy of DoDI 5205.11, and it incorporates and cancels the Revision 1 Department of Defense Overprint to the National Industrial Security Program Operating Manual Supplement. Its Enclosure 2 contains the operative statement of what a carve-out removes. The Director, DSS - the office now called the Defense Counterintelligence and Security Agency - administers the NISP and issues facility clearances for defense contractors 'to include contractors performing on DoD SAPs'; but then, 'Unless a carve-out provision is approved by the Secretary of Defense or the Deputy Secretary of Defense', the Director performs SAP security inspections at cleared defense contractor locations, authorises classified contractor SAP information systems and the introduction of guest systems in contractor SAP facilities, and coordinates with the designated counterintelligence component to cross-share threat and incident information. Read the sentence backwards and it is an inventory of what disappears when a carve-out is signed: the independent physical inspection, the independent accreditation of the computers, and the independent counterintelligence feed. Its glossary supplies the definition in eleven words of substance: 'carve-out. A provision approved by the Secretary or Deputy Secretary of Defense that relieves DSS of its NISP obligation to perform industrial security oversight functions for a DoD SAP.' Volume 1 also documents two cover mechanisms - HANDLE VIA SPECIAL ACCESS CHANNELS ONLY (HVSACO), an unclassified handling caveat used among other things 'When using a SAP nickname for an unacknowledged SAP', and the rule that 'Federal Government-affiliated identification cards will not be used for positive identification in unacknowledged locations'.",
-"domains": [
-"_rs-sap-docs",
-"w2-sap-architecture"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "2",
@@ -206,10 +206,15 @@
 "hl": null,
 "id": "dodm-5205-07-v1",
 "l0": false,
-"label": "DoDM 5205.07 Volume 1 — DoD SAP Security Manual: General Procedures",
+"label": "DoDM 5205.07 Volume 1 - DoD SAP Security Manual: General Procedures",
 "locLabel": null,
 "members": null,
-"short": "DoDM 5205.07 Volume 1 — DoD SAP Security Manual: General Procedures",
+"openQuestions": [],
+"short": "DoDM 5205.07 Volume 1 - DoD SAP Security Manual: General Procedures",
+"sourceFiles": [
+"_rs-sap-docs",
+"w2-sap-architecture"
+],
 "sources": [
 {
 "date": "2018-02-12",
@@ -224,16 +229,18 @@
 ],
 "sub": "dod-issuance",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 110 of 1170, score 60). 5 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D2.",
+"tierRationale": "Re-graded A on a global pass (rank 108 of 1170, score 60). 5 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D2.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2015-06-18",
+"grade": "A",
 "id": "sap-tl-2015-dodmx",
 "label": "DoD SAP Security Manual Volume 1 issued",
 "precision": "day",
 "strand": "program",
-"text": "DoDM 5205.07-V1 states what a carve-out removes - contractor SAP security inspections, information system authorisation and counterintelligence cross-sharing - and defines carve-out in its glossary as a provision approved by the Secretary or Deputy Secretary that relieves DSS of its NISP obligation.",
-"tier": "A"
+"text": "DoDM 5205.07-V1 states what a carve-out removes - contractor SAP security inspections, information system authorisation and counterintelligence cross-sharing - and defines carve-out in its glossary as a provision approved by the Secretary or Deputy Secretary that relieves DSS of its NISP obligation."
 }
-]
+],
+"unverified": []
 }

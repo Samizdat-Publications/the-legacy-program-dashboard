@@ -294,7 +294,9 @@
 "deg": 10,
 "denials": [],
 "domains": [
-"media-structure"
+"d-media",
+"d-structure",
+"d-secrecy-architecture"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -315,6 +317,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Jesse Michels",
+"sourceFiles": [
+"media-structure"
+],
 "sources": [
 {
 "date": "2026-01-11",
@@ -345,16 +350,17 @@
 "status": "active",
 "sub": "Host, American Alchemy; investor, Thiel Capital",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 624 of 1170, score 27). 10 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 621 of 1170, score 27). 10 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2024-11-14",
+"grade": "A",
 "id": "ms-2024-michels-shell",
 "label": "Michels interviews Shellenberger the next day",
 "precision": "day",
 "strand": "program",
-"text": "American Alchemy publishes the first long-form account of the document, one day after the hearing; 203,593 views.",
-"tier": "A"
+"text": "American Alchemy publishes the first long-form account of the document, one day after the hearing; 203,593 views."
 }
 ],
 "unexplainedResidual": null,

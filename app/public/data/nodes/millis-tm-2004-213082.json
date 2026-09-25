@@ -42,6 +42,7 @@
 ],
 "cls": "document",
 "cluster": "research",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -202,6 +203,14 @@
 "deg": 7,
 "denials": [
 {
+"a": {
+"id": "millis-tm-2004-213082",
+"label": "NASA/TM-2004-213082, 'Prospects for Breakthrough Propulsion from Physics' (2004)"
+},
+"b": {
+"id": "thomas-townsend-brown",
+"label": "Thomas Townsend Brown"
+},
 "by": {
 "id": "millis-tm-2004-213082",
 "label": "NASA/TM-2004-213082, 'Prospects for Breakthrough Propulsion from Physics' (2004)"
@@ -224,9 +233,7 @@
 }
 ],
 "desc": "ONE OPENED, UNCLASSIFIED, OFFICIAL DOCUMENT ADJUDICATES THREE OF THIS STRAND'S SIX MECHANISMS BY NAME, AND THE BOARD ALREADY CARRIES ITS AUTHOR. Marc G. Millis of NASA Glenn Research Center wrote this 19-page technical memorandum for a NASA/DoD-cosponsored conference held in Seattle from 24 to 26 June 2004, summarising the methods and findings of the Breakthrough Propulsion Physics Project he had managed since 1996. Its abstract states the project's three grand challenges and its result: 'Of 16 incremental research tasks completed by the project and from other sponsors, about a third were found not to be viable, a quarter have clear opportunities for sequels, and the rest remain unresolved.' Section 3.2.7 disposes of the Biefeld-Brown effect, Lifters and Asymmetrical Capacitors. Section 3.3.1 disposes of metric engineering and records, usefully for this board, that the term itself 'has emerged at aerospace conferences' and that 'The origin of this term is unknown'. Section 3.3.2 treats high frequency gravitational waves as a detection problem. WHAT MAKES THIS THE STRAND'S MOST REUSABLE CITATION is that it is a named author writing under a NASA report number about exactly the claims this board tracks, six years before AAWSAP commissioned its own reports on the same subjects, and it is openable by anyone.",
-"domains": [
-"propulsion-2026-09-19"
-],
+"domains": [],
 "dossier": {
 "claims": [
 {
@@ -313,7 +320,11 @@
 "tier": "A"
 }
 ],
+"openQuestions": [],
 "short": "NASA/TM-2004-213082, Millis",
+"sourceFiles": [
+"propulsion-2026-09-19"
+],
 "sources": [
 {
 "date": "2004",
@@ -323,16 +334,20 @@
 ],
 "sub": "Marc G. Millis's summary of NASA's Breakthrough Propulsion Physics Project, which adjudicates Biefeld-Brown, lifters, asymmetrical capacitors, Podkletnov, metric engineering and high frequency gravitational waves by name",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 416 of 1170, score 34). 7 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D1.",
+"tierRationale": "Re-graded B on a global pass (rank 419 of 1170, score 34). 7 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D1.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2004-06",
+"grade": "B",
 "id": "tl-2004-06-millis-breakthrough-tm",
 "label": "NASA publishes the finding that Biefeld-Brown devices are ion wind",
 "precision": "month",
 "strand": "program",
-"text": "NASA/TM-2004-213082, prepared for a NASA/DoD-cosponsored conference in Seattle, 24 to 26 June 2004. Section 3.2.7: 'To date, all rigorous experimental tests indicate that the observed thrust is attributable to ion wind... These \"Biefeld-Brown,\" \"Lifter\" and \"Asymmetrical Capacitor Thrusters\" are not viable candidates for breakthrough physics propulsion.' Section 3.3.1 records that 'metric engineering' had emerged at aerospace conferences and that 'The origin of this term is unknown'.",
-"tier": "B"
+"text": "NASA/TM-2004-213082, prepared for a NASA/DoD-cosponsored conference in Seattle, 24 to 26 June 2004. Section 3.2.7: 'To date, all rigorous experimental tests indicate that the observed thrust is attributable to ion wind... These \"Biefeld-Brown,\" \"Lifter\" and \"Asymmetrical Capacitor Thrusters\" are not viable candidates for breakthrough physics propulsion.' Section 3.3.1 records that 'metric engineering' had emerged at aerospace conferences and that 'The origin of this term is unknown'."
 }
+],
+"unverified": [
+"Every one of NASA's references 52 to 55 behind the ion-wind finding. Talley PL-TR-91-3009 was not opened; Tajmar 2000 was not opened; Tajmar 2004 was not opened, because arc.aiaa.org returned HTTP 403. They are named here exactly as NASA prints them and nothing is asserted from their contents beyond what NASA and the ISR contractor report quote."
 ]
 }

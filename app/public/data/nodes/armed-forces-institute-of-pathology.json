@@ -37,6 +37,7 @@
 ],
 "cls": "institution",
 "cluster": "research",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -87,9 +88,7 @@
 "deg": 2,
 "denials": [],
 "desc": "A Department of Defense pathology institute created by statute in 1976 as a joint entity of the three military departments, with a lineage the 2005 BRAC Commission traces to the Army Medical Museum of 1862. The 2005 BRAC recommendation on Walter Reed disestablished all of its elements except the National Medical Museum and the Tissue Repository, and directed that its unspecified capabilities be absorbed into other DoD, Federal or civilian facilities; Congress then required a Joint Pathology Center in the FY2008 National Defense Authorization Act. Its authorising statute, 10 U.S.C. 176, was never repealed and remains in force. It is drafted here for that documented custody chain over a national tissue repository, not for the claim that put it into the corpus.",
-"domains": [
-"area52-2026-09-02"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "1",
@@ -103,7 +102,11 @@
 "label": "Armed Forces Institute of Pathology",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Armed Forces Institute of Pathology",
+"sourceFiles": [
+"area52-2026-09-02"
+],
 "sources": [
 {
 "date": "2026-09-01",
@@ -118,6 +121,7 @@
 ],
 "sub": "DoD pathology institute created by 10 U.S.C. 176 in 1976; disestablished in part by BRAC 2005, its Tissue Repository preserved by statute",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 383 of 1170, score 35). 2 connections, 0 of them custody/funding/programmatic. Axes C2/A2/D1.",
-"timeline": []
+"tierRationale": "Re-graded B on a global pass (rank 385 of 1170, score 35). 2 connections, 0 of them custody/funding/programmatic. Axes C2/A2/D1.",
+"timeline": [],
+"unverified": []
 }

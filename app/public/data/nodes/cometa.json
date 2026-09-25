@@ -92,6 +92,7 @@
 ],
 "cls": "institution",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -341,71 +342,68 @@
 "deg": 11,
 "denials": [],
 "desc": "COMETA is the document that has no American equivalent. A committee of retired French flag officers - an air force general in the chair, a vice-admiral, a weapons engineer general, a chief of police from the Interior Ministry, a research director from ONERA - spent close to three years reviewing UAP case material, wrote ninety pages under the title 'UFOs and Defense: What Should We Prepare For?', concluded that the extraterrestrial hypothesis could not be excluded and was the most credible of the available explanations, and put their names on it. It was not commissioned by the French state, and its authors are careful about that. But it was written by people the French state had trained to think about national defence, using material from the French state's own UAP office, and it reads as a defence staff study rather than a polemic.\n\nThe committee's institutional centre of gravity is the Institut des Hautes Études de Défense Nationale. Almost every named member is an IHEDN auditor, identified by promotion number: Michel Algrin, doctor of political science and attorney-at-law (AA 35); Pierre Bescond, Weapons Engineer General, 2nd Section (AA 48); Denis Blancher, Chief of Police, Police Nationale, Ministry of the Interior; Jean Dunglas, honorary engineer general (AR 48); Bruno Le Moine, Air Force General, 2nd Section (AA 41); Françoise Lepine of the Fondation pour les Études de Défense (AA 33); Christian Marchal, research director at ONERA; Marc Merlo, Admiral, 2nd Section (AA 35); and Alain Orszag, Weapons Engineer General, 2nd Section. General Denis Letty, Air Force, 2nd Section (AA 35), chaired it. The report carries a foreword by Professor André Lebeau, former chairman of CNES, and one by General Bernard Norlain, former director of IHEDN, whom Letty visited at IHEDN in March 1995 to explain the project. Letty thanks both, saying that without them 'COMETA would not have been born'.\n\nThe report's own account of its lineage matters for this board because it closes a loop back to GEIPAN. COMETA's introduction states that in 1976 an IHEDN committee chaired by General Blanchard of the Gendarmerie Nationale opened the unidentified flying objects file with the objective of making proposals for organising research and data collection, that 'the goal was achieved, because the recommendations of this committee were followed in the creation of' GEPAN, and that twenty years later it seemed useful to take stock again. In other words the same institution produced both the French state's UAP office and, two decades on, the committee that reviewed its output.\n\nThe evidentiary base is the French official record. Contributors included Jean-Jacques Velasco, then head of SEPRA at CNES; François Louange, chief executive of the image-analysis firm Fleximage; the pilots Jean-Charles Duboc, Jean-Pierre Fartek and René Giraud; Edmond Campagnac, former technical director of Air France at Antananarivo; Squadron Commander Michel Perrier of the Gendarmerie Nationale; an official of the DGAC; and Air Force General Joseph Domange. Letty specifically thanks the commander of the Air Force Air Operations Command Center for its participation in the investigation into Air France flight AF 3532 of 28 January 1994.\n\nOn substance, COMETA reproduces GEPAN/SEPRA's four-category scheme and then states the number that the whole document turns on: 'Category D UAPs represent 4 to 5% of the cases and are called UAP Ds.' Category D means unidentified despite the abundance and quality of the data - not unidentified for want of it. The report's position is that a residue of that size, often attested by consistent testimony and by visual sightings coupled with radar, can no longer be filed as no action: 'if there had only been ten or so UAP D [sightings], this ambiguous file could just have been classified as \"no action,\" but we are no longer at that point and are far beyond that. Thus we are forced to seek plausible explanations.' It records around one hundred GEPAN/SEPRA investigations, several of which 'demonstrated, in the end, the physical presence of a phenomenon the nature and origin of which remain unknown', singling out Trans-en-Provence (8 January 1981) and 'Amaranth' (21 October 1982), documented in GEPAN technical memoranda 16 and 17. On aeronautical cases it records twelve French cases, only three or four of them category D; the first, in 1951, involving Vampire aircraft near Orange; and AF 3532 on 28 January 1994 as the first French case of a visual sighting correlated with radar over fifty seconds. It also draws on Dominique Weinstein's enumeration of 489 well-documented aeronautical UAP D cases worldwide since 1942, most from official sources.\n\nCOMETA is structured in three parts - facts and testimonies, the extent of current knowledge, and UFOs and defence - plus a conclusion and seven appendices, among them 'Radar Detection in France', 'Life in the Universe', 'Colonization of Space' and 'The Roswell Affair - Disinformation'. Its recommendations are set out in the introduction: give civilian and military pilots enough information to adopt adapted conduct when faced with these phenomena, and inform the public and decision-makers more generally; develop the actions of SEPRA and promote supplemental scientific monitoring and research; and consider the strategic, political and religious consequences of a possible confirmation of the extraterrestrial hypothesis, 'the bizarre connotation of which it is advisable to eliminate here and now'. Letty's own framing, in the foreword, is the sentence most often quoted from the document and is verbatim: 'The accumulation of well-documented sightings made by credible witnesses forces us to consider from now on all of the hypotheses regarding the origin of unidentified flying objects, or UFOs, and the extraterrestrial hypothesis, in particular.'\n\nCOMETA the association was registered under the French law of 1901 on 24 February 1999, having operated informally since 1996, and went dormant around 2006. The report appeared in July 1999 in a special issue of VSD, was reissued by Éditions du Rocher in 2003, and was not widely circulated in its original form because of copyright restrictions. According to Robert Roussel, citing Olivier Schrameck, Prime Minister Lionel Jospin read and annotated it 'to mark his interest'. There was no formal government response beyond that. GEIPAN made an archive of the report public in 2007.",
-"domains": [
-"w2-international",
-"w6-international"
-],
+"domains": [],
 "dossier": {
 "claims": [
 {
-"source": "COMETA, 'UFOs and Defense: What Should We Prepare For?', English translation - https://ia800403.us.archive.org/17/items/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D.pdf",
+"source": "COMETA, 'UFOs and Defense: What Should We Prepare For?', English translation - https://ia800403.us.archive.org/17/items/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D.pdf - DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "text": "Title page: 'UFOs and Defense: What Should We Prepare For? -An independent report on UFOs written by the French association COMETA. This report details the results of a study by the Institute of Higher Studies for National Defence.- This paper originally appeared in a special issue of the magazine VSD published In France in July 1999.'",
-"tier": 1
+"tier": 2
 },
 {
-"source": "COMETA report, foreword by Denis Letty, Air Force General, 2nd Section - https://ia800403.us.archive.org/17/items/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D.pdf",
+"source": "COMETA report, foreword by Denis Letty, Air Force General, 2nd Section - https://ia800403.us.archive.org/17/items/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D.pdf - DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "text": "Letty's foreword, verbatim: 'The accumulation of well-documented sightings made by credible witnesses forces us to consider from now on all of the hypotheses regarding the origin of unidentified flying objects, or UFOs, and the extraterrestrial hypothesis, in particular.'",
-"tier": 1
+"tier": 2
 },
 {
-"source": "COMETA report, foreword by Denis Letty - https://ia800403.us.archive.org/17/items/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D.pdf",
+"source": "COMETA report, foreword by Denis Letty - https://ia800403.us.archive.org/17/items/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D.pdf - DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "text": "Named members, with IHEDN promotion numbers as printed: Michel Algrin (AA 35), Pierre Bescond, Weapons Engineer General 2nd Section (AA 48), Denis Blancher, Chief of Police, Police Nationale, Ministry of the Interior, Jean Dunglas (AR 48), Bruno Le Moine, Air Force General 2nd Section (AA 41), Françoise Lepine, Fondation pour les Études de Défense (AA 33), Christian Marchal, research director at ONERA, Marc Merlo, Admiral 2nd Section (AA 35), Alain Orszag, Weapons Engineer General 2nd Section.",
-"tier": 1
+"tier": 2
 },
 {
-"source": "COMETA report, forewords - https://ia800403.us.archive.org/17/items/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D.pdf",
+"source": "COMETA report, forewords - https://ia800403.us.archive.org/17/items/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D.pdf - DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "text": "Prefaces are by 'Professor André Lebeau, Former chairman of the Centre National d'Etudes Spatiales (CNES)' and by General Bernard Norlain, former director of IHEDN, who records that 'When General Letty visited me in March 1995 at my office at IHEDN to explain to me his project'.",
-"tier": 1
+"tier": 2
 },
 {
-"source": "COMETA report, foreword by Denis Letty - https://ia800403.us.archive.org/17/items/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D.pdf",
+"source": "COMETA report, foreword by Denis Letty - https://ia800403.us.archive.org/17/items/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D.pdf - DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "text": "Acknowledged contributors include 'Jean-Jacques Velasco, Head of SEPRA at [CNES]', François Louange, CEO of Fleximage, pilots Jean-Charles Duboc, Jean-Pierre Fartek and René Giraud, Edmond Campagnac, former technical director of Air France at Antananarivo, Squadron Commander Michel Perrier of the Gendarmerie Nationale, an official of the DGAC, and Air Force General Joseph Domange.",
-"tier": 1
+"tier": 2
 },
 {
-"source": "COMETA report, Introduction - https://ia800403.us.archive.org/17/items/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D.pdf",
+"source": "COMETA report, Introduction - https://ia800403.us.archive.org/17/items/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D.pdf - DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "text": "Introduction, verbatim: 'In 1976, a committee of the Institut des Hautes Etudes de Defense Nationale (IHEDN) chaired by General Blanchard of the Gendarmerie Nationale opened the unidentified flying objects file. The objective: to make proposals for organizing research and the collection of data on these phenomena. The goal was achieved, because the recommendations of this committee were followed in the creation of the Groupe d'Etude des Phenomenes Aerospatiaux Non Identifies (GEPAN).'",
-"tier": 1
+"tier": 2
 },
 {
-"source": "COMETA report, ch. 7.2 - https://ia800403.us.archive.org/17/items/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D.pdf",
+"source": "COMETA report, ch. 7.2 - https://ia800403.us.archive.org/17/items/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D.pdf - DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "text": "Chapter 7.2, verbatim: 'Category D UAPs represent 4 to 5% of the cases and are called UAP Ds', where category D is 'phenomenon that cannot be identified despite the abundance and quality of the data'.",
-"tier": 1
+"tier": 2
 },
 {
-"source": "COMETA report, ch. 8.3 - https://ia800403.us.archive.org/17/items/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D.pdf",
+"source": "COMETA report, ch. 8.3 - https://ia800403.us.archive.org/17/items/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D.pdf - DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "text": "Chapter 8.3, verbatim: 'if there had only been ten or so UAP D [sightings], this ambiguous file could just have been classified as \"no action,\" but we are no longer at that point and are far beyond that. Thus we are forced to seek plausible explanations.'",
-"tier": 1
+"tier": 2
 },
 {
-"source": "COMETA report, ch. 7.4 - https://ia800403.us.archive.org/17/items/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D.pdf",
+"source": "COMETA report, ch. 7.4 - https://ia800403.us.archive.org/17/items/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D.pdf - DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "text": "Chapter 7.4: 'Around one hundred investigations have been conducted by GEPAN/SEPRA'; several 'demonstrated, in the end, the physical presence of a phenomenon the nature and origin of which remain unknown', naming Trans-en-Provence (8 January 1981) and 'Amaranth' (21 October 1982), 'detailed in GEPAN technical memoranda no. 16 and no. 17'.",
-"tier": 1
+"tier": 2
 },
 {
-"source": "COMETA report, ch. 7.5 - https://ia800403.us.archive.org/17/items/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D.pdf",
+"source": "COMETA report, ch. 7.5 - https://ia800403.us.archive.org/17/items/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D.pdf - DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "text": "Chapter 7.5: twelve French aeronautical cases were known to GEPAN/SEPRA, 'only three or four of these can be considered to fall into category D'; the first UAP D dates to 1951 involving Vampire military aircraft near Orange; and not until 28 January 1994 did an Air France crew produce 'the first case of a visual sighting correlated with a radar detection over 50 seconds long'. A worldwide list compiled by Dominique Weinstein describes '489 well-documented cases of aeronautical UAP D sightings the sources of which were duly verified'.",
-"tier": 1
+"tier": 2
 },
 {
-"source": "COMETA report, Introduction - https://ia800403.us.archive.org/17/items/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D.pdf",
+"source": "COMETA report, Introduction - https://ia800403.us.archive.org/17/items/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D.pdf - DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "text": "Recommendations stated in the introduction: provide civilian and military pilots with sufficient information and adapted conduct, and the public and decision-makers with information; 'developing the actions of SEPRA and promoting supplemental scientific monitoring, or even research, actions'; and 'considering the strategic, political, and religious consequences of a possible confirmation of the extraterrestrial hypothesis, the bizarre connotation of which it is advisable to eliminate here and now.'",
-"tier": 1
+"tier": 2
 },
 {
-"source": "COMETA report, table of contents - https://ia800403.us.archive.org/17/items/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D.pdf",
+"source": "COMETA report, table of contents - https://ia800403.us.archive.org/17/items/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D.pdf - DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "text": "Structure: three parts and a conclusion, with Part 3 titled 'UFOs and Defense' and seven appendices including 'Radar Detection in France', 'Astronomers' Sightings', 'Life in the Universe', 'Colonization of Space' and 'The Roswell Affair -Disinformation'.",
-"tier": 1
+"tier": 2
 },
 {
 "source": "https://en.wikipedia.org/wiki/COMETA_report, citing Kragel & Couprie, 'OVNIS, Enquête sur un secret d'état' (Cherche Midi, 2010) and Rossoni, 'Les OVNI du CNES' (2005)",
@@ -484,7 +482,16 @@
 "tier": "C"
 }
 ],
+"openQuestions": [
+"The English-language PDF used here appears to be truncated at approximately page 40, ending inside chapter 8.3.6. The full 'Conclusion and Recommendations' section listed in the table of contents was not readable in this copy, so the frequently quoted conclusion about an 'almost certain physical reality' of unknown craft has deliberately NOT been quoted or attributed here.",
+"Whether COMETA was formally transmitted to President Jacques Chirac, and by what route, is not established from any primary source located. Several secondary accounts assert it; the English Wikipedia flags the Velasco-to-Jospin handover as uncited.",
+"The original French first edition (VSD hors-série, July 1999) has not been consulted; all verbatim quotations above are from the English translation."
+],
 "short": "COMETA",
+"sourceFiles": [
+"w2-international",
+"w6-international"
+],
 "sources": [
 {
 "date": "1999-07-01",
@@ -509,6 +516,7 @@
 ],
 "sub": "French 1901-law association of retired general officers and IHEDN auditors, 1996-c.2006",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 124 of 1170, score 56). 11 connections, 1 of them custody/funding/programmatic. Axes C0/A1/D3.",
-"timeline": []
+"tierRationale": "Re-graded A on a global pass (rank 126 of 1170, score 56). 11 connections, 1 of them custody/funding/programmatic. Axes C0/A1/D3.",
+"timeline": [],
+"unverified": []
 }

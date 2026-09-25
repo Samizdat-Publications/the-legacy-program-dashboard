@@ -27,6 +27,7 @@
 ],
 "cls": "program",
 "cluster": "legacy",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 3,
@@ -37,7 +38,7 @@
 "edgeLabel": "The MOGUL attribution cannot be tested against destroyed records",
 "id": "gao-nsiad-95-187",
 "l0": false,
-"label": "GAO/NSIAD-95-187 — Results of a Search for Records Concerning the 1947 Crash Near Roswell",
+"label": "GAO/NSIAD-95-187 - Results of a Search for Records Concerning the 1947 Crash Near Roswell",
 "note": "GAO reported the base's message traffic for the relevant years was destroyed without disposition authority, so the Air Force's reconstruction rests on inference rather than on the contemporaneous record.",
 "sources": [
 {
@@ -129,18 +130,20 @@
 "deg": 4,
 "denials": [
 {
-"by": {
+"a": {
 "id": "nathan-twining",
 "label": "Nathan F. Twining"
 },
+"b": {
+"id": "project-mogul",
+"label": "Project MOGUL"
+},
+"by": null,
 "claimTier": 3,
 "denialKind": "association",
 "label": "The AMC commander's 1947 assessment predates and undercuts the MOGUL account",
 "note": "Twining wrote in September 1947 that the phenomenon was real while noting the lack of recovered exhibits; the Air Force's 1994 position requires that his own command's exploitation centre never connected the wave to a programme it was cleared for.",
-"of": {
-"id": "project-mogul",
-"label": "Project MOGUL"
-},
+"of": null,
 "sources": [
 {
 "date": "1947-09-23",
@@ -155,6 +158,14 @@
 ]
 },
 {
+"a": {
+"id": "project-mogul",
+"label": "Project MOGUL"
+},
+"b": {
+"id": "roswell-1947",
+"label": "Roswell Incident"
+},
 "by": {
 "id": "project-mogul",
 "label": "Project MOGUL"
@@ -177,10 +188,7 @@
 }
 ],
 "desc": "Project MOGUL was a genuinely classified New York University and Army Air Forces programme flying long trains of neoprene balloons carrying acoustic sensors, intended to detect Soviet nuclear tests by listening for their sound in the upper atmosphere. It was real, it was Top Secret, and NYU Flight 4 launched from Alamogordo in early June 1947 is the specific object the Air Force says was recovered at the Foster ranch. MOGUL is recorded on this board not as a debunking but as the load-bearing element of the official explanation, and it has three documented problems. First, it was produced as an explanation in 1994, forty-seven years after the event and only after Rep. Steven Schiff forced the matter — the Air Force's own prior position for decades had been the weather balloon story it now concedes was false. Second, the flight-log identification of Flight 4 is contested because no launch record for that flight survives. Third, and decisively, the records that could settle it were destroyed: GAO reported in 1995 that RAAF outgoing message traffic from October 1946 through December 1949 was gone with no disposition authority. MOGUL explains the debris field; it does not explain why an atomic bomb group's intelligence officer, its commanding general and its public information office behaved as they did on 8 July 1947, and it cannot be tested against the primary record because the primary record is not there.",
-"domains": [
-"_rs-archive-mirror",
-"history-1940s-1960s"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -194,7 +202,12 @@
 "label": "Project MOGUL",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Project MOGUL",
+"sourceFiles": [
+"_rs-archive-mirror",
+"history-1940s-1960s"
+],
 "sources": [
 {
 "date": "2026-05-08",
@@ -219,6 +232,7 @@
 ],
 "sub": "Classified acoustic balloon surveillance programme (1947-1949)",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 247 of 1170, score 42). 4 connections, 1 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C2/A3/D0.",
-"timeline": []
+"tierRationale": "Re-graded B on a global pass (rank 245 of 1170, score 42). 4 connections, 1 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C2/A3/D0.",
+"timeline": [],
+"unverified": []
 }

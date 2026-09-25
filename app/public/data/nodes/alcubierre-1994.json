@@ -37,6 +37,7 @@
 ],
 "cls": "document",
 "cluster": "research",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -139,9 +140,7 @@
 "deg": 4,
 "denials": [],
 "desc": "THE PAPER STATES A REQUIREMENT AND NOT A CAPABILITY, AND IT SAYS SO IN ITS OWN ABSTRACT. Miguel Alcubierre, then at the Department of Physics and Astronomy, University of Wales, College of Cardiff, showed that a spacetime metric can be written which expands space behind a spaceship and contracts it in front, allowing arbitrarily large apparent speed to outside observers while the ship stays on a timelike trajectory inside its own light cone. He then computed what would be required to source that metric and reported the answer against himself: the metric 'violates all three energy conditions (weak, dominant and strong)', the energy density seen by Eulerian observers 'is everywhere negative', and 'one needs exotic matter to travel faster than the speed of light'. THE WORD 'DEVICE' APPEARS ZERO TIMES IN THE PAPER. The word 'propulsion' appears once, in the sentence naming the idea after science fiction. There is no apparatus, no engine, no method of construction and no experiment. The node exists because the paper is cited throughout the UAP literature as though it described an engineering programme, and because DIA paid for a Defense Intelligence Reference Document built on it. Citing this paper as evidence that a craft could do this is citing a requirement as though it were a capability, which is this strand's pattern in its purest form: unlike the other instances, it is not even a misreading, because the abstract says plainly that exotic matter will be needed.",
-"domains": [
-"propulsion-2026-09-19"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "1",
@@ -155,7 +154,11 @@
 "label": "Alcubierre, 'The warp drive: hyper-fast travel within general relativity' (1994)",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Alcubierre, 'The warp drive: hyper-fast travel within general relativity' (1994)",
+"sourceFiles": [
+"propulsion-2026-09-19"
+],
 "sources": [
 {
 "date": "1994",
@@ -165,16 +168,20 @@
 ],
 "sub": "The five-page Classical and Quantum Gravity letter that is the origin of every warp-drive claim in the field, and which states in its own abstract that exotic matter will be needed",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 856 of 1170, score 20). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D0.",
+"tierRationale": "Re-graded C on a global pass (rank 858 of 1170, score 20). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D0.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1994",
+"grade": "B",
 "id": "tl-1994-alcubierre-warp-paper",
 "label": "Alcubierre publishes the warp-drive metric, and states that exotic matter will be needed",
 "precision": "year",
 "strand": "program",
-"text": "Classical and Quantum Gravity 11-5, L73-L77. Its abstract closes: 'just as it happens with wormholes, exotic matter will be needed in order to generate a distortion of spacetime like the one discussed here.' The body states that the metric 'violates all three energy conditions' and that the energy density seen by Eulerian observers 'is everywhere negative'. The word 'device' appears zero times in the paper.",
-"tier": "B"
+"text": "Classical and Quantum Gravity 11-5, L73-L77. Its abstract closes: 'just as it happens with wormholes, exotic matter will be needed in order to generate a distortion of spacetime like the one discussed here.' The body states that the metric 'violates all three energy conditions' and that the energy density seen by Eulerian observers 'is everywhere negative'. The word 'device' appears zero times in the paper."
 }
+],
+"unverified": [
+"The Classical and Quantum Gravity print version of record. What was opened is the author's own arXiv posting of 5 September 2000, which states the publication reference on its first page. No pagination-level check against the journal was made."
 ]
 }

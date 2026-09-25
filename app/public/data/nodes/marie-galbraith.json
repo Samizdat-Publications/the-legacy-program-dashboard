@@ -58,7 +58,7 @@
 "deg": 1,
 "denials": [],
 "domains": [
-"history-1970s-2000s"
+"d-oversight"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -79,6 +79,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Marie 'Bootsie' Galbraith",
+"sourceFiles": [
+"history-1970s-2000s"
+],
 "sources": [
 {
 "date": "2019-09-16",

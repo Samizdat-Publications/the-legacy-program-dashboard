@@ -162,7 +162,9 @@
 "deg": 4,
 "denials": [],
 "domains": [
-"history-1940s-1960s"
+"d-legacy",
+"d-coverup",
+"d-psyop"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -183,6 +185,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "H. Marshall Chadwell",
+"sourceFiles": [
+"history-1940s-1960s"
+],
 "sources": [
 {
 "date": "1952-09-11",
@@ -198,16 +203,17 @@
 "status": "dead",
 "sub": "Assistant Director, CIA Office of Scientific Intelligence",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 551 of 1170, score 29). 4 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D0.",
+"tierRationale": "Re-graded B on a global pass (rank 547 of 1170, score 29). 4 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D0.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1952-09-11",
+"grade": "A",
 "id": "tl-1952-09-11",
 "label": "Chadwell memo to the DCI",
 "precision": "day",
 "strand": "coverup",
-"text": "CIA's Assistant Director for Scientific Intelligence tells the Director that July 1952 produced 250 official reports and that the situation 'contains two elements of danger' with national security implications.",
-"tier": "A"
+"text": "CIA's Assistant Director for Scientific Intelligence tells the Director that July 1952 produced 250 official reports and that the situation 'contains two elements of danger' with national security implications."
 }
 ],
 "unexplainedResidual": null,

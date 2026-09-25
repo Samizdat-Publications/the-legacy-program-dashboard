@@ -177,29 +177,13 @@
 "id": "hearing-2024-11-13",
 "l0": true,
 "label": "House Oversight joint hearing, 13 November 2024 - 'Unidentified Anomalous Phenomena: Exposing the Truth'",
-"note": "Listed in the printed hearing record as a witness.",
+"note": "Gallaudet's statement urged members to 'wield their subpoena power against hostile witnesses and prevent additional government funding to those UAP efforts that remain hidden from congressional oversight.'",
 "sources": [
 {
 "date": "2024-11-13",
 "name": "CHRG-118hhrg57440, printed hearing transcript, 'Unidentified Anomalous Phenomena: Exposing the Truth', Serial No. 118-135",
 "url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/pdf/CHRG-118hhrg57440.pdf"
-}
-],
-"tier": "A",
-"type": "programmatic"
 },
-{
-"claimTier": 1,
-"cls": "event",
-"dateEnd": "2024",
-"dateStart": "2024",
-"direction": "out",
-"edgeLabel": "Testified before the House Oversight joint subcommittees",
-"id": "hearing-2024-11-13",
-"l0": true,
-"label": "House Oversight joint hearing, 13 November 2024 - 'Unidentified Anomalous Phenomena: Exposing the Truth'",
-"note": "Gallaudet's statement urged members to 'wield their subpoena power against hostile witnesses and prevent additional government funding to those UAP efforts that remain hidden from congressional oversight.'",
-"sources": [
 {
 "date": "2024-11-13",
 "name": "House Oversight - hearing page, 13 Nov 2024",
@@ -345,11 +329,12 @@
 "deg": 6,
 "denials": [],
 "domains": [
-"_rs-archive-mirror",
-"_rs-legislation",
-"aviators-incidents",
-"releases-2023-2026",
-"w2-2025-2026"
+"d-aviators",
+"d-coverup",
+"d-oversight",
+"d-disclosure",
+"d-records",
+"d-research"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -389,6 +374,13 @@
 }
 ],
 "short": "Timothy Gallaudet",
+"sourceFiles": [
+"_rs-archive-mirror",
+"_rs-legislation",
+"aviators-incidents",
+"releases-2023-2026",
+"w2-2025-2026"
+],
 "sources": [
 {
 "date": "2026-08-02",
@@ -439,7 +431,7 @@
 "status": "active",
 "sub": "Rear Admiral, USN (Ret.); former Oceanographer of the Navy; former acting NOAA Administrator",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 150 of 1170, score 52). 8 connections, 2 of them custody/funding/programmatic. Axes C1/A2/D3.",
+"tierRationale": "Re-graded A on a global pass (rank 174 of 1170, score 48). 7 connections, 1 of them custody/funding/programmatic. Axes C1/A2/D3.",
 "timeline": [],
 "unexplainedResidual": "A US Fleet Forces Command flight-safety message reporting 'multiple near-midair collisions' was withdrawn from the accounts of every recipient within 24 hours, and no agency has ever acknowledged doing so.",
 "unverified": [

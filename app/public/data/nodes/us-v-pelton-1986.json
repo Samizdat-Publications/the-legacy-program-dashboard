@@ -27,6 +27,7 @@
 ],
 "cls": "document",
 "cluster": "ic",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -77,18 +78,20 @@
 "deg": 2,
 "denials": [
 {
-"by": {
+"a": {
 "id": "us-v-pelton-1986",
 "label": "United States v. Ronald W. Pelton (D. Md. 1986)"
 },
+"b": {
+"id": "d-denial",
+"label": "Official Denial"
+},
+"by": null,
 "claimTier": 1,
 "denialKind": null,
 "label": "States the fact of a compromise while naming no operation",
 "note": "The filing states the fact of a compromise while declining to describe any operation, which is the posture the board tracks.",
-"of": {
-"id": "d-denial",
-"label": "Official Denial"
-},
+"of": null,
 "sources": [
 {
 "date": null,
@@ -99,9 +102,7 @@
 }
 ],
 "desc": "The federal espionage prosecution of a former National Security Agency employee in the United States District Court for the District of Maryland. The Solicitor General's brief in opposition to certiorari states the counts of conviction and the sentence and describes the compromise only as information about several classified NSA operations. It names no programme, no codename, no platform and no collection site. It is recorded here because two Danny Jones guests cite this prosecution as the public record of an undersea cable tapping operation, and the federal filing that was opened does not carry that content.",
-"domains": [
-"dannyjones-2026-09-03"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "1",
@@ -115,7 +116,11 @@
 "label": "United States v. Ronald W. Pelton (D. Md. 1986)",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "United States v. Ronald W. Pelton (D. Md. 1986)",
+"sourceFiles": [
+"dannyjones-2026-09-03"
+],
 "sources": [
 {
 "date": null,
@@ -126,5 +131,6 @@
 "sub": "Solicitor General's brief in opposition, Pelton v. United States, No. 87-6433: the counts, the concurrent life terms, and 'several classified NSA operations'",
 "tier": "C",
 "tierRationale": "Re-graded C on a global pass (rank 788 of 1170, score 22). 2 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D1.",
-"timeline": []
+"timeline": [],
+"unverified": []
 }

@@ -75,9 +75,7 @@
 "dateStart": "1964-08",
 "deg": 2,
 "denials": [],
-"domains": [
-"dannyjones-2026-09-03"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -97,6 +95,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Arthur E. Exon",
+"sourceFiles": [
+"dannyjones-2026-09-03"
+],
 "sources": [
 {
 "date": null,
@@ -107,7 +108,7 @@
 "status": "former",
 "sub": "Installation commander, Wright-Patterson Air Force Base, August 1964 to December 1965, as a Colonel",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 934 of 1170, score 17). 2 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D0.",
+"tierRationale": "Re-graded C on a global pass (rank 933 of 1170, score 17). 2 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D0.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": []

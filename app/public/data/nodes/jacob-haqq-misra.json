@@ -60,7 +60,8 @@
 "deg": 1,
 "denials": [],
 "domains": [
-"scientists-technical"
+"d-research",
+"d-astro"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -81,6 +82,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Jacob Haqq-Misra",
+"sourceFiles": [
+"scientists-technical"
+],
 "sources": [
 {
 "date": "2026-06-01",

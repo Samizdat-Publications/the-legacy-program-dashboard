@@ -322,9 +322,9 @@
 "deg": 9,
 "denials": [],
 "domains": [
-"disclosure-project-2026-09-19",
-"history-1970s-2000s",
-"media-structure"
+"d-oversight",
+"d-witness",
+"d-media"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -345,6 +345,11 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Steven M. Greer",
+"sourceFiles": [
+"disclosure-project-2026-09-19",
+"history-1970s-2000s",
+"media-structure"
+],
 "sources": [
 {
 "date": "2001-04",
@@ -385,16 +390,17 @@
 "status": "active",
 "sub": "Emergency physician; founder of CSETI (1990) and the Disclosure Project (1993); National Press Club event 9 May 2001",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 230 of 1170, score 43). 10 connections, 2 of them custody/funding/programmatic. Axes C0/A0/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 228 of 1170, score 43). 10 connections, 2 of them custody/funding/programmatic. Axes C0/A0/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2001-05-09",
+"grade": "C",
 "id": "ms-2001-npc",
 "label": "Greer's National Press Club event",
 "precision": "month",
 "strand": "witness",
-"text": "Steven Greer stages the Disclosure Project press conference with twenty retired Air Force, FAA and intelligence officers, creating the format every subsequent disclosure event has followed.",
-"tier": "C"
+"text": "Steven Greer stages the Disclosure Project press conference with twenty retired Air Force, FAA and intelligence officers, creating the format every subsequent disclosure event has followed."
 }
 ],
 "unexplainedResidual": null,

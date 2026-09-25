@@ -97,7 +97,7 @@
 "deg": 2,
 "denials": [],
 "domains": [
-"elizondo-ttsa"
+"d-disclosure"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -118,6 +118,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "James 'Jim' Semivan",
+"sourceFiles": [
+"elizondo-ttsa"
+],
 "sources": [
 {
 "date": "2018-04-30",
@@ -133,7 +136,7 @@
 "status": "active",
 "sub": "Co-founder and VP Operations, TTSA; 25-year CIA National Clandestine Service officer",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 709 of 1170, score 24). 2 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 708 of 1170, score 24). 2 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D2.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": [

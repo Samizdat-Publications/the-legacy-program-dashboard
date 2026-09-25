@@ -17,6 +17,7 @@
 ],
 "cls": "document",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -88,6 +89,14 @@
 "deg": 3,
 "denials": [
 {
+"a": {
+"id": "crane-dod-reprisal-letter",
+"label": "Rep. Eli Crane letter to the Secretary of Defense re: Major David Charles Grusch reprisal"
+},
+"b": {
+"id": "dod",
+"label": "United States Department of Defense (secondary designation: Department of War)"
+},
 "by": {
 "id": "dod",
 "label": "United States Department of Defense (secondary designation: Department of War)"
@@ -110,9 +119,7 @@
 }
 ],
 "desc": "The only document in the public record that enumerates the specific adverse actions taken against Grusch. Rep. Eli Crane wrote the Department of Defense on 24 July 2025 on behalf of Major David Charles Grusch, stating that because of his participation in UAP disclosure he suffered reprisal including removal of his security clearance, denial of promotion, and loss of medical retirement. Crane entered the letter into the record of the 9 September 2025 Task Force on the Declassification of Federal Secrets hearing, noting on the record that he was still awaiting a reply; Chairwoman Luna committed to following up with DoD. Three specific, verifiable administrative actions - a clearance revocation, a promotion denial, and a retirement determination - each of which generates its own paper trail inside DoD, and none of which the Department has publicly explained.",
-"domains": [
-"grusch"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "3",
@@ -126,7 +133,11 @@
 "label": "Rep. Eli Crane letter to the Secretary of Defense re: Major David Charles Grusch reprisal",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Rep. Eli Crane letter to the Secretary of Defense re: Major David Charles Grusch reprisal",
+"sourceFiles": [
+"grusch"
+],
 "sources": [
 {
 "date": "2025-09-09",
@@ -139,13 +150,15 @@
 "tierRationale": "Re-graded C on a global pass (rank 791 of 1170, score 22). 3 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2025-07-24",
+"grade": "A",
 "id": "g-tl-2025-07-crane",
 "label": "Rep. Crane writes DoD on Grusch's reprisal",
 "precision": "day",
 "strand": "coverup",
-"text": "Crane notifies the Department that Grusch suffered removal of his clearance, denial of promotion, and loss of medical retirement for his participation in UAP disclosure. He receives no reply.",
-"tier": "A"
+"text": "Crane notifies the Department that Grusch suffered removal of his clearance, denial of promotion, and loss of medical retirement for his participation in UAP disclosure. He receives no reply."
 }
-]
+],
+"unverified": []
 }

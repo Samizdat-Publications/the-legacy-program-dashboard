@@ -1,0 +1,80 @@
+{
+ "$schema": "https://json-schema.org/draft/2020-12/schema",
+ "$id": "schema/research.schema.json",
+ "title": "A research file under research/*.json",
+ "description": "The shape merge.py accepts. Enumerated fields name their allowed values by pointing into schema/vocab.json with `x-vocab` (a list of its keys; `x-also` adds literal values), so there is one list and not two. merge.py enforces it: an enumerated field with a value outside its vocabulary is a REJECT (tools/REJECTS.json, which the gate requires empty); a field not named here is a WARNING in phase 3 (tools/SCHEMA-WARNINGS.json). Fields beginning with `_` are the research's own annotations and are never warned about.",
+ "type": "object",
+ "properties": {
+  "people": {"type": "array", "items": {"$ref": "#/$defs/person"}},
+  "entities": {"type": "array", "items": {"$ref": "#/$defs/entity"}},
+  "edges": {"type": "array", "items": {"$ref": "#/$defs/edge"}},
+  "timeline": {"type": "array", "items": {"$ref": "#/$defs/timeline"}},
+  "entityInfo": {"type": "object"},
+  "gaps": {"type": "array"}
+ },
+ "$defs": {
+  "person": {
+   "type": "object",
+   "required": ["id"],
+   "properties": {
+    "id": {"type": "string"},
+    "cls": {"const": "person"},
+    "label": {"type": "string"},
+    "name": {"type": "string"},
+    "status": {"type": ["string", "null"], "x-vocab": ["personStatus"]},
+    "tier": {"type": ["string", "null"], "x-vocab": ["nodeTiers"]},
+    "cluster": {"type": ["string", "null"], "description": "clusters; an out-of-vocabulary value is ignored and counted by merge.py, not rejected: the _rs-* files carry a cluster vocabulary of their own"},
+    "date": {}, "age": {}, "loc": {}, "locId": {}, "instId": {}, "sub": {},
+    "C": {}, "A": {}, "D": {},
+    "domains": {"type": "array", "description": "authored topic tags: ids of domain nodes"},
+    "narrative": {}, "affiliations": {}, "tierRationale": {},
+    "chronology": {}, "claims": {}, "sources": {},
+    "conflicts": {}, "unverified": {}, "sequenceChain": {},
+    "unexplainedResidual": {}, "photoCredit": {}
+   }
+  },
+  "entity": {
+   "type": "object",
+   "required": ["id", "cls"],
+   "properties": {
+    "id": {"type": "string"},
+    "cls": {"type": "string", "x-vocab": ["classes"]},
+    "label": {}, "sub": {}, "desc": {},
+    "cluster": {"type": ["string", "null"], "description": "see person.cluster"},
+    "tier": {"type": ["string", "null"], "x-vocab": ["nodeTiers"]},
+    "C": {}, "A": {}, "D": {},
+    "dateStart": {}, "dateEnd": {}, "coords": {}, "locLabel": {},
+    "tierRationale": {}, "claims": {}, "sources": {},
+    "short": {}, "conflicts": {}, "unverified": {}, "openQuestions": {}, "domains": {},
+    "removeClaims": {"description": "_corrections.json only: claims this correction supersedes"}
+   }
+  },
+  "edge": {
+   "type": "object",
+   "properties": {
+    "a": {}, "b": {},
+    "from": {"description": "alias of a"}, "to": {"description": "alias of b"},
+    "type": {"type": "string", "x-vocab": ["edgeTypes", "authoredVerbs"]},
+    "rel": {"description": "alias of type", "x-vocab": ["edgeTypes", "authoredVerbs"]},
+    "label": {}, "note": {}, "summary": {"description": "alias of note"},
+    "claimTier": {"x-also": [1, 2, 3]},
+    "tier": {"description": "alias of claimTier", "x-also": [1, 2, 3]},
+    "sources": {}, "source": {"description": "alias of sources"},
+    "dateStart": {}, "dateEnd": {},
+    "denialKind": {}, "denier": {}
+   }
+  },
+  "timeline": {
+   "type": "object",
+   "properties": {
+    "id": {}, "date": {},
+    "label": {}, "event": {"description": "alias of label"},
+    "node": {}, "ref": {"description": "alias of node"},
+    "strand": {"x-vocab": ["strands", "strandAliases"]},
+    "precision": {"x-vocab": ["precisions"]},
+    "tier": {"description": "either an event grade (timelineGrades) or a claim tier (1/2/3); split into `grade` and `claimTier` by merge.py"},
+    "text": {}, "source": {}, "sources": {}, "entities": {}
+   }
+  }
+ }
+}

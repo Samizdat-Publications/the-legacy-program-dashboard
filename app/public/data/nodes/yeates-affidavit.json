@@ -17,6 +17,7 @@
 ],
 "cls": "document",
 "cluster": "other",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -93,6 +94,14 @@
 "deg": 3,
 "denials": [
 {
+"a": {
+"id": "yeates-affidavit",
+"label": "Yeates Affidavit (NSA, 1980)"
+},
+"b": {
+"id": "caus-v-nsa",
+"label": "Citizens Against UFO Secrecy v. National Security Agency (Civil Action No. 80-1562)"
+},
 "by": {
 "id": "yeates-affidavit",
 "label": "Yeates Affidavit (NSA, 1980)"
@@ -120,9 +129,7 @@
 }
 ],
 "desc": "The affidavit of Eugene F. Yeates, Chief of the National Security Agency's Office of Policy, executed in 1980 in support of NSA's withholding in CAUS v. NSA. It was submitted for in camera review only; the plaintiffs never saw it. NSA later released a redacted version, which is now published in the agency's UFO FOIA collection. In its released form it establishes, in the government's own sworn words, that NSA held records responsive to a UFO request and that the agency's position was that their release would damage national security - not that they did not exist. Every subsequent official denial in this field has to be read against this document. The United States has never claimed, under oath, that there is nothing to withhold. It has claimed that what it is withholding cannot be shown.",
-"domains": [
-"history-1970s-2000s"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "1",
@@ -136,7 +143,11 @@
 "label": "Yeates Affidavit (NSA, 1980)",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Yeates Affidavit (NSA, 1980)",
+"sourceFiles": [
+"history-1970s-2000s"
+],
 "sources": [
 {
 "date": "2016-09-10",
@@ -151,6 +162,7 @@
 ],
 "sub": "Classified declaration justifying withholding of UFO-related SIGINT; later released redacted",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 497 of 1170, score 31). 3 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D3.",
-"timeline": []
+"tierRationale": "Re-graded B on a global pass (rank 498 of 1170, score 31). 3 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D3.",
+"timeline": [],
+"unverified": []
 }

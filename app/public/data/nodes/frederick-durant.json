@@ -75,7 +75,9 @@
 "deg": 1,
 "denials": [],
 "domains": [
-"history-1940s-1960s"
+"d-legacy",
+"d-psyop",
+"d-records"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -96,6 +98,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Frederick C. Durant III",
+"sourceFiles": [
+"history-1940s-1960s"
+],
 "sources": [
 {
 "date": "1953-02-16",
@@ -111,16 +116,17 @@
 "status": "dead",
 "sub": "CIA officer; secretary, Robertson Panel",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 840 of 1170, score 20). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A3/D1.",
+"tierRationale": "Re-graded C on a global pass (rank 841 of 1170, score 20). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A3/D1.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1953-02-16",
+"grade": "A",
 "id": "tl-1953-02-16",
 "label": "Durant records the proceedings",
 "precision": "day",
 "strand": "coverup",
-"text": "CIA officer Frederick Durant's memorandum to the Assistant Director for Scientific Intelligence becomes the only substantive account of what the panel actually discussed.",
-"tier": "A"
+"text": "CIA officer Frederick Durant's memorandum to the Assistant Director for Scientific Intelligence becomes the only substantive account of what the panel actually discussed."
 }
 ],
 "unexplainedResidual": null,

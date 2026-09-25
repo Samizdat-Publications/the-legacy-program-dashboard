@@ -47,19 +47,25 @@
 ],
 "cls": "institution",
 "cluster": "contractor",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
 "cls": "institution",
-"dateEnd": "2012",
-"dateStart": "2007",
+"dateEnd": null,
+"dateStart": null,
 "direction": "in",
-"edgeLabel": "separately registered LLC under the Bigelow umbrella",
+"edgeLabel": "BAASS LLC, North Las Vegas NV",
 "id": "baass",
 "l0": true,
 "label": "Bigelow Aerospace Advanced Space Studies (BAASS), LLC",
 "note": "BAASS holds its own DUNS and CAGE codes distinct from Bigelow Aerospace, isolating the intelligence contract from the NASA-facing business.",
 "sources": [
+{
+"date": null,
+"name": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237626/",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237626/"
+},
 {
 "date": "2022-10-13",
 "name": "DIA AAWSAP contract (FOIA-00349-2018)",
@@ -75,7 +81,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
-"edgeLabel": "BAASS LLC, North Las Vegas NV",
+"edgeLabel": "",
 "id": "baass",
 "l0": true,
 "label": "Bigelow Aerospace Advanced Space Studies (BAASS), LLC",
@@ -175,12 +181,7 @@
 "deg": 4,
 "denials": [],
 "desc": "Bigelow Aerospace Advanced Space Studies was the prime contractor executing the Defense Intelligence Agency's AAWSAP program from 2008, funded by a special appropriation obtained through Senator Harry Reid. AARO's own report concedes that the contractor team, with at least one supportive government program manager, conducted UAP and paranormal research at a property owned by the private sector organisation, and that when DIA cancelled the effort its advocates proposed KONA BLUE to DHS - a program whose explicit purpose was to 'reverse-engineer any recovered off-world spacecraft that they hoped to acquire.' BAASS is the pivot of the custody allegation because it is the entity to which material was allegedly to move. George Knapp testified under oath in 2025 that Bigelow and an AAWSAP colleague negotiated with senior Lockheed Martin executives for material held at a California facility; Luis Elizondo testified in 2024 that an aerospace contractor sought to divest itself of material collected in the 1950s, that the transfer required a Secretary of the Air Force memorandum that never came, and that the transfer was blocked. AARO records, without names, an allegation that an organisation possessed off-world material in 2009-2010 and that a former senior CIA official quashed the proposal to remove it from the corporation. USAspending records roughly $30 million in federal prime obligations to Bigelow Aerospace LLC since FY2008.",
-"domains": [
-"_rs-aawsap-dirds",
-"_rs-archive-mirror",
-"aawsap-aatip",
-"primes-custody"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "1",
@@ -194,7 +195,14 @@
 "label": "Bigelow Aerospace",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Bigelow Aerospace",
+"sourceFiles": [
+"_rs-aawsap-dirds",
+"_rs-archive-mirror",
+"aawsap-aatip",
+"primes-custody"
+],
 "sources": [
 {
 "date": "2009",
@@ -262,13 +270,15 @@
 "tierRationale": "Re-graded A on a global pass (rank 122 of 1170, score 56). 5 connections, 4 of them custody/funding/programmatic. Axes C3/A2/D1.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2008-01-01",
+"grade": "A",
 "id": "pc-2008-aawsap",
 "label": "DIA money flows to a private contractor",
 "precision": "year",
 "strand": "program",
-"text": "Bigelow Aerospace Advanced Space Studies wins the DIA AAWSAP contract on a special appropriation obtained through Sen. Harry Reid. Government-funded UAP research moves onto private premises.",
-"tier": "A"
+"text": "Bigelow Aerospace Advanced Space Studies wins the DIA AAWSAP contract on a special appropriation obtained through Sen. Harry Reid. Government-funded UAP research moves onto private premises."
 }
-]
+],
+"unverified": []
 }

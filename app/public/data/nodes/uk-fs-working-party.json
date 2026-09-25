@@ -12,6 +12,7 @@
 ],
 "cls": "program",
 "cluster": "ic",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -41,9 +42,7 @@
 "deg": 1,
 "denials": [],
 "desc": "The Flying Saucer Working Party was the first British government body constituted to answer the question, set up under the Directorate of Scientific Intelligence and the Joint Technical Intelligence Committee in 1950 at the instigation of Sir Henry Tizard, who reportedly declined to accept that reports should be dismissed without investigation. Its report, delivered in June 1951, concluded against the reality of the phenomenon and recommended that no further investigation be undertaken - the same shape of conclusion, and the same self-terminating recommendation, that Condign would reach half a century later. The report was itself kept classified for decades and only reached The National Archives in the 2000s. The working party's existence establishes that the British state's engagement with the question is continuous from 1950, predating the MoD UFO desk, and that the recommendation to stop looking has been made and then quietly reversed more than once.",
-"domains": [
-"w2-international"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -57,7 +56,11 @@
 "label": "Flying Saucer Working Party (UK)",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Flying Saucer Working Party (UK)",
+"sourceFiles": [
+"w2-international"
+],
 "sources": [
 {
 "date": "2026-03-19",
@@ -70,13 +73,15 @@
 "tierRationale": "Re-graded C on a global pass (rank 1059 of 1170, score 13). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D2.",
 "timeline": [
 {
+"claimTier": 2,
 "date": "1951-06",
+"grade": null,
 "id": "tl-intl-1951-fswp",
 "label": "UK Flying Saucer Working Party reports",
 "precision": "month",
 "strand": "program",
-"text": "Britain's first official body on the question reports and recommends no further investigation - the same self-terminating conclusion Project Condign would reach in 2000.",
-"tier": 2
+"text": "Britain's first official body on the question reports and recommends no further investigation - the same self-terminating conclusion Project Condign would reach in 2000."
 }
-]
+],
+"unverified": []
 }

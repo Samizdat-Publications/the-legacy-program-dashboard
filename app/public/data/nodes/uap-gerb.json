@@ -587,8 +587,12 @@
 "deg": 17,
 "denials": [],
 "domains": [
-"ffrdcs",
-"media-structure"
+"d-ffrdc",
+"d-disclosure",
+"d-media",
+"d-structure",
+"d-ffrdc-mechanism",
+"d-secrecy-architecture"
 ],
 "dossier": null,
 "entityInfo": {
@@ -618,6 +622,10 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "'UAP Gerb' (Sam)",
+"sourceFiles": [
+"ffrdcs",
+"media-structure"
+],
 "sources": [
 {
 "date": "1972-01-01",
@@ -701,13 +709,14 @@
 "tierRationale": "Re-graded A on a global pass (rank 106 of 1170, score 61). 18 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2025-02-21",
+"grade": "A",
 "id": "ms-2025-gerb-first",
 "label": "Michels platforms UAP Gerb",
 "precision": "day",
 "strand": "program",
-"text": "'The New Area51 Is HERE in Utah!' tours Air Force bases, deep underground facilities and FFRDCs associated with reverse engineering, tracing the effort from the 1947 Interplanetary Phenomenon Unit and Battelle's Project Stork forward; 450,091 views.",
-"tier": "A"
+"text": "'The New Area51 Is HERE in Utah!' tours Air Force bases, deep underground facilities and FFRDCs associated with reverse engineering, tracing the effort from the 1947 Interplanetary Phenomenon Unit and Battelle's Project Stork forward; 450,091 views."
 }
 ],
 "unexplainedResidual": null,

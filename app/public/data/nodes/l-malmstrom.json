@@ -27,6 +27,7 @@
 ],
 "cls": "location",
 "cluster": "legacy",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -328,10 +329,7 @@
 "deg": 13,
 "denials": [],
 "desc": "Strategic Air Command installation at Great Falls, Montana, controlling Minuteman ICBM launch facilities across a wide area of the state, and the site of two of the most heavily documented nuclear-weapons-related UFO events in the American record: the March 1967 missile-facility incident and the November 1975 overflights. The 1975 records, released by the Office of the Assistant Secretary of Defense under FOIA case 97-F-1677, describe numerous unidentified craft over the base and its missile fields and record that F-106 interceptors were unable to acquire them. Six years earlier the Air Force had publicly closed Project Blue Book on the finding that no UFO had ever given any indication of threat to national security. Malmstrom is where that finding meets the Air Force's own operational message traffic.",
-"domains": [
-"history-1970s-2000s",
-"nuclear-witnesses-2026-09-19"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "1",
@@ -345,7 +343,12 @@
 "label": "Malmstrom AFB and Minuteman Missile Fields, Montana",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Malmstrom AFB and Minuteman Missile Fields, Montana",
+"sourceFiles": [
+"history-1970s-2000s",
+"nuclear-witnesses-2026-09-19"
+],
 "sources": [
 {
 "date": "2021-11-08",
@@ -383,13 +386,15 @@
 "tierRationale": "Re-graded B on a global pass (rank 272 of 1170, score 41). 13 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1975-11-07",
+"grade": "A",
 "id": "t-1975-malmstrom",
 "label": "Malmstrom AFB and Minuteman fields overflown",
 "precision": "day",
 "strand": "program",
-"text": "DoD records later released under FOIA case 97-F-1677 describe numerous unidentified craft over Malmstrom AFB and its missile fields, which multiple F-106 interceptors could not acquire.",
-"tier": "A"
+"text": "DoD records later released under FOIA case 97-F-1677 describe numerous unidentified craft over Malmstrom AFB and its missile fields, which multiple F-106 interceptors could not acquire."
 }
-]
+],
+"unverified": []
 }

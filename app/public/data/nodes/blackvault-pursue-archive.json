@@ -22,6 +22,7 @@
 ],
 "cls": "institution",
 "cluster": "media",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -51,10 +52,7 @@
 "deg": 1,
 "denials": [],
 "desc": "John Greenewald's Black Vault published a searchable archive of the Department of War's UAP release three days after the first tranche appeared, on 11 May 2026, with a 2.0GB bulk download option. It exists because the government's own release is not usable. Greenewald's account of the defects is specific and damning: many of the released PDFs were password-protected, which prevented optical character recognition and made them poorly searchable or entirely unsearchable; the Black Vault removed the password restrictions, ran OCR, generated text files, transcripts and video subtitles, and added agency categorisation and related-record linking that the releasing authority did not provide. That is a private researcher supplying, at his own expense and within seventy-two hours, the index, the metadata and the searchability of a federal release programme. Two consequences follow. First, the practical public record of PURSUE is a third-party mirror, not war.gov. Second, the password protection is an affirmative act: a released PDF does not become password-protected by accident, and the effect - though not necessarily the intent - was to publish documents in a form that resists machine reading, bulk analysis and cross-referencing, which are precisely the operations that would reveal patterns across seventy years of files.",
-"domains": [
-"_rs-archive-mirror",
-"w2-2025-2026"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "3",
@@ -68,7 +66,12 @@
 "label": "The Black Vault searchable PURSUE files archive",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "The Black Vault searchable PURSUE files archive",
+"sourceFiles": [
+"_rs-archive-mirror",
+"w2-2025-2026"
+],
 "sources": [
 {
 "date": "2026-08-10",
@@ -91,13 +94,15 @@
 "tierRationale": "Re-graded C on a global pass (rank 1071 of 1170, score 12). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.",
 "timeline": [
 {
+"claimTier": 2,
 "date": "2026-05-11",
+"grade": null,
 "id": "tl-tbv-archive",
 "label": "The Black Vault publishes a searchable mirror of Release 01",
 "precision": "day",
 "strand": "program",
-"text": "Three days after the first tranche, John Greenewald strips password protection from the released PDFs, runs OCR, generates transcripts and subtitles and adds agency categorisation - supplying the index the government did not.",
-"tier": "2"
+"text": "Three days after the first tranche, John Greenewald strips password protection from the released PDFs, runs OCR, generates transcripts and subtitles and adds agency categorisation - supplying the index the government did not."
 }
-]
+],
+"unverified": []
 }

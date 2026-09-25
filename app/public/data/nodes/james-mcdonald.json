@@ -172,8 +172,9 @@
 "deg": 4,
 "denials": [],
 "domains": [
-"history-1940s-1960s",
-"w16-thin-people"
+"d-legacy",
+"d-oversight",
+"d-coverup"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -194,6 +195,10 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "James E. McDonald",
+"sourceFiles": [
+"history-1940s-1960s",
+"w16-thin-people"
+],
 "sources": [
 {
 "date": "1968-07-29",
@@ -222,13 +227,14 @@
 "tierRationale": "Re-graded B on a global pass (rank 483 of 1170, score 31). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1968-07-29",
+"grade": "A",
 "id": "tl-1968-07-29",
 "label": "House Science Committee UFO symposium",
 "precision": "day",
 "strand": "oversight",
-"text": "Hynek, James McDonald, Carl Sagan and others testify. McDonald tells Congress that 'credible observers are observing relatively incredible objects'. No legislation follows.",
-"tier": "A"
+"text": "Hynek, James McDonald, Carl Sagan and others testify. McDonald tells Congress that 'credible observers are observing relatively incredible objects'. No legislation follows."
 }
 ],
 "unexplainedResidual": null,

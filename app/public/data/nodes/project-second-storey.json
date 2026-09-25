@@ -27,6 +27,7 @@
 ],
 "cls": "program",
 "cluster": "ic",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -56,9 +57,7 @@
 "deg": 1,
 "denials": [],
 "desc": "Project Second Storey was established in April 1952 by the Defence Research Board, then Canada's military science agency within the Department of National Defence, to examine flying saucer occurrences over Canadian territory as reported by the armed services. It was chaired by the National Research Council astronomer Dr Peter Millman and drew members from Canadian military intelligence and other government agencies, including Wilbert Smith, who reported Project Magnet's findings to it. Its output was procedural rather than investigative: it built a standardised sighting report form and an interrogator's instruction guide with a weighting system intended to minimise the 'personal equation' - an early attempt at scoring witness reliability that anticipates GEIPAN's consistency-and-strangeness scheme by half a century. The form was never broadly adopted. The committee met six times between 1952 and 1954 and concluded that UFOs 'neither posed a security threat, nor were of scientific interest', recommending the end of all investigations by the Canadian military. Its records are held at Library and Archives Canada under RG 24, acc. 83-84/167, box 7523, file DRBS 3800-10-1, pt. 1.",
-"domains": [
-"w2-international"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -72,7 +71,11 @@
 "label": "Project Second Storey (Canada)",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Project Second Storey (Canada)",
+"sourceFiles": [
+"w2-international"
+],
 "sources": [
 {
 "date": "2025-06-01",
@@ -95,13 +98,15 @@
 "tierRationale": "Re-graded C on a global pass (rank 760 of 1170, score 23). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D2.",
 "timeline": [
 {
+"claimTier": 1,
 "date": "1952-04",
+"grade": null,
 "id": "tl-intl-1952-second-storey",
 "label": "Project Second Storey established",
 "precision": "month",
 "strand": "program",
-"text": "The Defence Research Board establishes a committee under NRC astronomer Peter Millman. It builds a standardised report form with a weighting factor to minimise the 'personal equation', meets six times, concludes UFOs are neither a security threat nor of scientific interest, and recommends ending all Canadian military investigation.",
-"tier": 1
+"text": "The Defence Research Board establishes a committee under NRC astronomer Peter Millman. It builds a standardised report form with a weighting factor to minimise the 'personal equation', meets six times, concludes UFOs are neither a security threat nor of scientific interest, and recommends ending all Canadian military investigation."
 }
-]
+],
+"unverified": []
 }

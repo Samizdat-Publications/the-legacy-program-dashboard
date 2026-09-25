@@ -22,6 +22,7 @@
 ],
 "cls": "document",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -114,9 +115,7 @@
 "deg": 4,
 "denials": [],
 "desc": "In May 2021 Luis Elizondo filed a complaint with the Department of Defense Office of Inspector General alleging what he described as 'malicious activities, coordinated disinformation, professional misconduct, whistleblower reprisal and explicit threats' and writing that the actions taken against him 'directly erode the very foundation of national security ethos and the public trust instilled by the American people.' He named three officials: Garry Reid, then Director for Defense Intelligence at OUSD(I); Susan Gough, the Department's UAP spokesperson; and Neill Tipton, Director for Defense Intelligence for Collection and Special Programs. Reporting associated with the complaint alleges Reid threatened his security clearance, orchestrated an Air Force investigation into the video releases even though the videos were unclassified, and used administrative measures to block his access to Pentagon facilities. FOIA releases have since produced a 103-page transcript of the DoD IG's February 2023 interview of Elizondo, 126 pages of DoD IG emails about UAP and Elizondo released in February 2024, and 40 further pages in March 2025. No public adjudication of Elizondo's complaint has been released.",
-"domains": [
-"elizondo-ttsa"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "3",
@@ -130,7 +129,11 @@
 "label": "Elizondo complaint to the DoD Inspector General, May 2021",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Elizondo complaint to the DoD Inspector General, May 2021",
+"sourceFiles": [
+"elizondo-ttsa"
+],
 "sources": [
 {
 "date": "2025-03-01",
@@ -153,22 +156,25 @@
 "tierRationale": "Re-graded C on a global pass (rank 636 of 1170, score 27). 4 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2021-05-01",
+"grade": "B",
 "id": "tl-2021-05-ig",
 "label": "Elizondo files DoD IG complaint",
 "precision": "month",
 "strand": "oversight",
-"text": "Alleging 'malicious activities, coordinated disinformation, professional misconduct, whistleblower reprisal and explicit threats', naming Garry Reid, Susan Gough and Neill Tipton.",
-"tier": "B"
+"text": "Alleging 'malicious activities, coordinated disinformation, professional misconduct, whistleblower reprisal and explicit threats', naming Garry Reid, Susan Gough and Neill Tipton."
 },
 {
+"claimTier": null,
 "date": "2023-02-01",
+"grade": "A",
 "id": "tl-2023-02-ig-interview",
 "label": "DoD IG interviews Elizondo",
 "precision": "month",
 "strand": "oversight",
-"text": "A 103-page transcript of the Inspector General's interview of Elizondo is later released under FOIA, along with 126 pages of DoD IG UAP emails in February 2024.",
-"tier": "A"
+"text": "A 103-page transcript of the Inspector General's interview of Elizondo is later released under FOIA, along with 126 pages of DoD IG UAP emails in February 2024."
 }
-]
+],
+"unverified": []
 }

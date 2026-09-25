@@ -17,6 +17,7 @@
 ],
 "cls": "document",
 "cluster": "witness",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -67,9 +68,7 @@
 "deg": 2,
 "denials": [],
 "desc": "THIS IS NOT GREG BISHOP'S BOOK. Two different documents in this cluster are called Project Beta and conflating them would be a real error, which is why this node carries the author's name in its id. This one is Paul Bennewitz's own report, written in late 1981, about five thousand words, titled 'Project Beta: SUMMARY OF REPORT AND STATUS (WITH SUGGESTED GUIDELINES)'. It is the artefact the board has been missing: the claimant's own dated statement of his own claim, which is what the anchor discipline asks for, and the thing the AFOSI operation was reacting to. Two fragments were read, both in capitals in the original as quoted: 'IN TRUTH THEY TEND TO LIE, HOWEVER THEIR MEMORY FOR LYING IS NOT LONG' and 'THEY MUST BE MADE TO COME DOWN - DESTRUCT THEMSELVES WHICH IS A STANDING ORDER'. The document itself was NOT opened; the fragments were read in a November 2025 newsletter whose author states that he is relying almost entirely on Greg Bishop as sole source and who flags Bishop's undisclosed friendship with Bill Moore. That caveat travels with the citation, and it is why every claim here is Tier 2. The node is built incomplete on purpose so that a later pass has somewhere to attach the document when somebody opens it.",
-"domains": [
-"dulce-2026-09-19"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "1",
@@ -83,7 +82,11 @@
 "label": "Bennewitz, 'Project Beta: Summary of Report and Status (With Suggested Guidelines)', late 1981",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Bennewitz, 'Project Beta: Summary of Report and Status (With Suggested Guidelines)', late 1981",
+"sourceFiles": [
+"dulce-2026-09-19"
+],
 "sources": [
 {
 "date": "2025-11-29",
@@ -96,13 +99,18 @@
 "tierRationale": "Re-graded C on a global pass (rank 1128 of 1170, score 10). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1981",
+"grade": "B",
 "id": "tl-1981-bennewitz-project-beta",
 "label": "Bennewitz writes his own report, 'Project Beta'",
 "precision": "year",
 "strand": "witness",
-"text": "Roughly five thousand words, titled 'Project Beta: SUMMARY OF REPORT AND STATUS (WITH SUGGESTED GUIDELINES)'. The claimant's own dated statement of his own claim, and the artefact the board had been missing. Read only in two fragments quoted by a 2025 newsletter. NOT to be confused with Greg Bishop's 2005 book of the same name.",
-"tier": "B"
+"text": "Roughly five thousand words, titled 'Project Beta: SUMMARY OF REPORT AND STATUS (WITH SUGGESTED GUIDELINES)'. The claimant's own dated statement of his own claim, and the artefact the board had been missing. Read only in two fragments quoted by a 2025 newsletter. NOT to be confused with Greg Bishop's 2005 book of the same name."
 }
+],
+"unverified": [
+"The full text of the document, which was not opened.",
+"A reported letter from Bennewitz to Senator Pete Domenici dated 2 December 1981 referring to a 'Dulce War'. Known only from a citation apparatus; the underlying source was not opened and it is not carried as a claim."
 ]
 }

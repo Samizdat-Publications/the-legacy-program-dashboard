@@ -92,12 +92,33 @@
 "conflicts": [],
 "connections": [
 {
-"claimTier": 1,
+"claimTier": 3,
 "cls": "program",
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
 "edgeLabel": "AAWSA Program Manager (name redacted in release)",
+"id": "aawsap",
+"l0": true,
+"label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)",
+"note": "",
+"sources": [
+{
+"date": null,
+"name": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237636/",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237636/"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": "2012",
+"dateStart": "2008",
+"direction": "out",
+"edgeLabel": "Government Project Leader",
 "id": "aawsap",
 "l0": true,
 "label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)",
@@ -323,9 +344,10 @@
 "deg": 10,
 "denials": [],
 "domains": [
-"_rs-aawsap-dirds",
-"_rs-archive-mirror",
-"aawsap-aatip"
+"d-funding",
+"d-prop",
+"d-exotic",
+"d-paranormal"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -346,6 +368,11 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "James T. Lacatski",
+"sourceFiles": [
+"_rs-aawsap-dirds",
+"_rs-archive-mirror",
+"aawsap-aatip"
+],
 "sources": [
 {
 "date": "2022-03",
@@ -401,16 +428,17 @@
 "status": "active",
 "sub": "DIA rocket scientist; AAWSAP government program manager",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 104 of 1170, score 61). 10 connections, 2 of them custody/funding/programmatic. Axes C3/A3/D3.",
+"tierRationale": "Re-graded A on a global pass (rank 102 of 1170, score 62). 11 connections, 2 of them custody/funding/programmatic. Axes C3/A3/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2007-06-19",
+"grade": "B",
 "id": "tl-2007-letter",
 "label": "Lacatski writes to Bigelow",
 "precision": "day",
 "strand": "program",
-"text": "Per 'Skinwalkers at the Pentagon', Lacatski writes to Robert Bigelow on DIA letterhead, the act that originates the contract. DIA later reports no records of the letter.",
-"tier": "B"
+"text": "Per 'Skinwalkers at the Pentagon', Lacatski writes to Robert Bigelow on DIA letterhead, the act that originates the contract. DIA later reports no records of the letter."
 }
 ],
 "unexplainedResidual": null,

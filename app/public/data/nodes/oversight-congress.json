@@ -27,6 +27,7 @@
 ],
 "cls": "institution",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -343,18 +344,20 @@
 "deg": 13,
 "denials": [
 {
-"by": {
+"a": {
 "id": "dod-sapco",
 "label": "DoD Special Access Program Central Office (DoD SAPCO)"
 },
+"b": {
+"id": "oversight-congress",
+"label": "Congressional oversight of special access programs"
+},
+"by": null,
 "claimTier": 1,
 "denialKind": "association",
 "label": "Contractor disclosure to Congress requires the approval of the office being disclosed about",
 "note": "DoDD 5205.07 (2010) para 4.e bars any contractor entity, employee, representative or consultant from providing SAP material to members of Congress or staff 'without Director, DoD SAPCO, approval'.",
-"of": {
-"id": "oversight-congress",
-"label": "Congressional oversight of special access programs"
-},
+"of": null,
 "sources": [
 {
 "date": "2018-08-31",
@@ -365,10 +368,7 @@
 }
 ],
 "desc": "Congressional oversight of the Department's most sensitive activities is not a general power; it is a specific statutory scheme with a specific, legally sanctioned exception, and the exception is the whole story. Under 10 U.S.C. 119 the Secretary of Defense must report annually by 1 March to the four defense committees on every special access program, giving for each a brief description, major milestones, actual historical costs and estimated costs through the succeeding four fiscal years, and must notify the committees by 1 February of any newly designated SAP, and must notify them thirty days before initiating a new SAP. But subsection (e) permits the Secretary to waive that reporting where he determines disclosure would harm national security; in that case 'the Secretary shall provide the information described in that subsection with respect to the special access program concerned, and the justification for the waiver, jointly to the chairman and ranking minority member of each of the defense committees.' Eight members of Congress, and no one else. Layered on top of that is DoD Directive 5205.07, which requires any person briefing Congress with SAP material to notify the Director, DoD SAPCO first, and bars contractors from providing SAP material to Congress at all without approval. Layered on top of that is the practical gate described by Chairwoman Luna in September 2025, under which a non-committee member must be approved by the chairman and ranking member of both HASC and HAC-D to see specific material. The result is a structure in which the number of people who can lawfully learn of a waived unacknowledged program is small, fixed, and selected by the department being overseen - and in which a member who suspects a program exists cannot ask for it by name because, as Representative Mace put it, 'if you do not know it, you cannot get the information.' This is the mechanism David Grusch alleges was used, and it is a mechanism that does not require anyone to break the law.",
-"domains": [
-"_rs-archive-mirror",
-"w2-agencies"
-],
+"domains": [],
 "dossier": {
 "claims": [
 {
@@ -525,7 +525,12 @@
 "tier": "B"
 }
 ],
+"openQuestions": [],
 "short": "Congressional oversight of SAPs",
+"sourceFiles": [
+"_rs-archive-mirror",
+"w2-agencies"
+],
 "sources": [
 {
 "date": "2026-05-18",
@@ -555,16 +560,18 @@
 ],
 "sub": "The statutory oversight mechanism, and the hole in it",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 250 of 1170, score 42). 13 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A3/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 248 of 1170, score 42). 13 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A3/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2025-09-09",
+"grade": "A",
 "id": "ag-tl-2025-luna",
 "label": "Luna states the read-in gate on the record",
 "precision": "day",
 "strand": "oversight",
-"text": "'For a non-committee member to be allowed to view these documents and videos, individual members must be approved by the Chairman and Ranking Member of both HASC and HAC-D.' Mace adds: 'if you do not know it, you cannot get the information.'",
-"tier": "A"
+"text": "'For a non-committee member to be allowed to view these documents and videos, individual members must be approved by the Chairman and Ranking Member of both HASC and HAC-D.' Mace adds: 'if you do not know it, you cannot get the information.'"
 }
-]
+],
+"unverified": []
 }

@@ -22,12 +22,13 @@
 ],
 "cls": "domain",
 "cluster": "ic",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 3,
 "cls": "domain",
 "dateEnd": null,
-"dateStart": null,
+"dateStart": "2004-11-14",
 "direction": "out",
 "edgeLabel": "Sensor corroboration is what makes the accounts arguable",
 "id": "d-aviators",
@@ -155,18 +156,20 @@
 "deg": 5,
 "denials": [
 {
-"by": {
+"a": {
 "id": "d-signals",
 "label": "Signals & Sensor Intelligence"
 },
+"b": {
+"id": "d-foia",
+"label": "Freedom of Information Practice"
+},
+"by": null,
 "claimTier": 1,
 "denialKind": "association",
 "label": "Exemption 3 and the Glomar posture",
 "note": "NSA's statutory withholding, sustained in CAUS v. NSA on the classified Yeates affidavit, is the hardest documented barrier between sensor data and the public record.",
-"of": {
-"id": "d-foia",
-"label": "Freedom of Information Practice"
-},
+"of": null,
 "sources": [
 {
 "date": "1981-11-03",
@@ -177,9 +180,7 @@
 }
 ],
 "desc": "The data that could resolve most of this exists, and it is classified for reasons that have nothing to do with the objects. Radar tracks, infrared imagery, electronic intelligence collection and measurement and signature intelligence are protected because releasing them reveals sensor sensitivity, coverage geometry and collection technique - the classic sources-and-methods problem - which means the government can be entirely sincere in withholding material that would also settle a public controversy. The National Security Agency's posture is the documented extreme: in Citizens Against UFO Secrecy v. NSA the courts sustained withholding of the substance of the agency's UFO-related holdings on the strength of the classified Yeates affidavit, and the released material is heavily redacted. The institutional convergence became explicit in August 2024, when a senior NSA researcher, Jon Kosloski, was appointed to lead AARO - placing a signals-intelligence technologist at the head of the office responsible for the government's UAP analysis. Congress has pushed on the same seam, requiring reporting on military intercepts over North America in the FY2026 NDAA cycle. Scoring high on this domain means an entity collected, held or adjudicated release of sensor data.",
-"domains": [
-"w2-taxonomy"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -193,7 +194,11 @@
 "label": "Signals & Sensor Intelligence",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Signals & Sensor Intelligence",
+"sourceFiles": [
+"w2-taxonomy"
+],
 "sources": [
 {
 "date": "1981-11-03",
@@ -218,16 +223,18 @@
 ],
 "sub": "Technical domain - radar, SIGINT, MASINT and the classified data that would settle the question",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 420 of 1170, score 34). 5 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D2.",
+"tierRationale": "Re-graded B on a global pass (rank 423 of 1170, score 34). 5 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D2.",
 "timeline": [
 {
+"claimTier": 1,
 "date": "2024-08-26",
+"grade": null,
 "id": "tx-2024-kosloski",
 "label": "A signals technologist takes AARO",
 "precision": "day",
 "strand": "program",
-"text": "Jon Kosloski, a senior National Security Agency researcher, is named to lead AARO - placing the government's UAP analytic hub under someone whose professional formation is in the collection discipline that holds the most relevant withheld data.",
-"tier": 1
+"text": "Jon Kosloski, a senior National Security Agency researcher, is named to lead AARO - placing the government's UAP analytic hub under someone whose professional formation is in the collection discipline that holds the most relevant withheld data."
 }
-]
+],
+"unverified": []
 }

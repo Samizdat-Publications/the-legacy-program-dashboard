@@ -161,8 +161,8 @@
 "deg": 4,
 "denials": [],
 "domains": [
-"congress-house",
-"grusch"
+"d-oversight",
+"d-legislation"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -183,6 +183,10 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Robert Garcia",
+"sourceFiles": [
+"congress-house",
+"grusch"
+],
 "sources": [
 {
 "date": "2023-07-26",

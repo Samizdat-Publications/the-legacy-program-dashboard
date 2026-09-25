@@ -197,7 +197,7 @@
 "dateEnd": "2007",
 "dateStart": "2005",
 "direction": "out",
-"edgeLabel": "'Hunt for the Skinwalker' (2005) — the book that triggered the contract",
+"edgeLabel": "'Hunt for the Skinwalker' (2005) - the book that triggered the contract",
 "id": "george-knapp",
 "l0": false,
 "label": "George Knapp",
@@ -334,9 +334,13 @@
 "deg": 8,
 "denials": [],
 "domains": [
-"aawsap-aatip",
-"history-1970s-2000s",
-"scientists-technical"
+"d-funding",
+"d-bio",
+"d-paranormal",
+"d-research",
+"d-exotic",
+"d-materials",
+"d-custody"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -382,6 +386,11 @@
 }
 ],
 "short": "Colm A. Kelleher",
+"sourceFiles": [
+"aawsap-aatip",
+"history-1970s-2000s",
+"scientists-technical"
+],
 "sources": [
 {
 "date": "2023-05-25",
@@ -432,7 +441,7 @@
 "status": "active",
 "sub": "Biochemist; Deputy Administrator, BAASS; former NIDS project manager",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 200 of 1170, score 45). 8 connections, 1 of them custody/funding/programmatic. Axes C2/A2/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 198 of 1170, score 45). 8 connections, 1 of them custody/funding/programmatic. Axes C2/A2/D3.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": [

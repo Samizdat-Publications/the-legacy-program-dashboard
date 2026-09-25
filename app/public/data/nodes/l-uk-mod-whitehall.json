@@ -17,6 +17,7 @@
 ],
 "cls": "location",
 "cluster": "other",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -90,10 +91,7 @@
 "deg": 2,
 "denials": [],
 "desc": "The Ministry of Defence Main Building on Whitehall is the headquarters of the United Kingdom's defence establishment and the institutional home of the UK's UFO desk, which received and assessed public and military reports from 1950 until the desk was closed in December 2009. The UK is on this board as the clearest counter-example to the American position: the Ministry released its entire UFO file series to the National Archives in successive tranches, including the Rendlesham Forest material and the 2000 'Unidentified Aerial Phenomena in the UK Air Defence Region' study known as Project Condign. That release happened without the harms the American concealment argument depends on, which is why Whitehall is a scored node rather than background.",
-"domains": [
-"_stubs",
-"w2-taxonomy"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "nd",
@@ -107,7 +105,12 @@
 "label": "Ministry of Defence Main Building, Whitehall, London",
 "locLabel": "Whitehall, London, United Kingdom",
 "members": null,
+"openQuestions": [],
 "short": "Ministry of Defence Main Building, Whitehall, London",
+"sourceFiles": [
+"_stubs",
+"w2-taxonomy"
+],
 "sources": [
 {
 "date": "2026-08-12",
@@ -122,6 +125,7 @@
 ],
 "sub": "UK Ministry of Defence headquarters, Whitehall, London",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 861 of 1170, score 20). 2 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D2.",
-"timeline": []
+"tierRationale": "Re-graded C on a global pass (rank 863 of 1170, score 20). 2 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D2.",
+"timeline": [],
+"unverified": []
 }

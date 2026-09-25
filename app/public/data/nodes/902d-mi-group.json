@@ -22,6 +22,7 @@
 ],
 "cls": "institution",
 "cluster": "ic",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -72,9 +73,7 @@
 "deg": 2,
 "denials": [],
 "desc": "The 902d Military Intelligence Group is a subordinate element of the US Army Intelligence and Security Command at Fort George G. Meade, Maryland. Its Security Support Detachment, office symbol IAGPA-F-SD, was the office that ran Project CENTER LANE: the detachment's letterhead heads the 4 April 1984 memorandum submitting the CENTER LANE FY86 to FY90 General Defense Intelligence Program initiative to the Commanding General of INSCOM, and the same office symbol heads the July 1984 information paper on the project's cancellation. A separate programme development requirement package, short titled for the 902d, proposed establishing psychoenergetics as a funded programme with its own organisational infrastructure. The dates above are the dates of the opened documents; no lineage or activation record for the group has been opened.",
-"domains": [
-"area52-2026-09-02"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "1",
@@ -88,7 +87,11 @@
 "label": "902d Military Intelligence Group, USAINSCOM",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "902d Military Intelligence Group, USAINSCOM",
+"sourceFiles": [
+"area52-2026-09-02"
+],
 "sources": [
 {
 "date": "1984-04-04",
@@ -104,5 +107,6 @@
 "sub": "INSCOM counterintelligence group at Fort Meade; its Security Support Detachment ran CENTER LANE",
 "tier": "B",
 "tierRationale": "Re-graded B on a global pass (rank 460 of 1170, score 32). 2 connections, 1 of them custody/funding/programmatic. Axes C2/A2/D2.",
-"timeline": []
+"timeline": [],
+"unverified": []
 }

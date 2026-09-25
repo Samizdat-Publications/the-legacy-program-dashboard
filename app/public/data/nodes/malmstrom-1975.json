@@ -32,6 +32,7 @@
 ],
 "cls": "event",
 "cluster": "legacy",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -108,9 +109,7 @@
 "deg": 3,
 "denials": [],
 "desc": "THE STRONGEST SINGLE ARTEFACT IN THE NUCLEAR STRAND, BECAUSE IT IS A WORKING LOG RATHER THAN A REPORT WRITTEN FOR ANYBODY. Between 7 and 19 November 1975 the 24th NORAD Region Senior Director's Log at Malmstrom AFB recorded a run of reports from Minuteman launch control facilities and launch facilities across the 341st Strategic Missile Wing's field: objects over M-1, L-3, Lima and L-6; an object illuminating a site driveway at the Harlowton launch control facility; K-1 watching a very bright object through 10x50 binoculars; L-1 reporting a tubular black object issuing from another object; height-finder radar picking up between two and seven objects at 10,000 to 13,000 feet; two F-106s scrambled; radar contact lost and the fighters broken off; and, from four separate points, the report that when the fighters arrived the lights went out and when the fighters departed the lights came back on. The log is even-handed in a way an advocate's document would not be: it records that surveillance could detect no track except known traffic, that an airline crew reported a meteor, and that on 12 November the controllers 'never had any joy (contact) on radar'. It ends with an entry marked, in the original, as the last entry pertaining to these incidents.",
-"domains": [
-"nuclear-witnesses-2026-09-19"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "1",
@@ -124,7 +123,11 @@
 "label": "Malmstrom missile-field overflights, 7 to 19 November 1975",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Malmstrom missile-field overflights, 7 to 19 November 1975",
+"sourceFiles": [
+"nuclear-witnesses-2026-09-19"
+],
 "sources": [
 {
 "date": "1975-11-19",
@@ -149,16 +152,21 @@
 ],
 "sub": "Thirteen days of reports from 341st SMW launch facilities, logged in the 24th NORAD Region Senior Director's Log, with F-106 intercepts attempted and radar contact lost",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 567 of 1170, score 29). 3 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D1.",
+"tierRationale": "Re-graded B on a global pass (rank 566 of 1170, score 29). 3 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D1.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1975-11-08",
+"grade": "A",
 "id": "tl-1975-11-08-f106-scramble-malmstrom",
 "label": "Two F-106s scrambled over the Malmstrom missile field; radar contact lost",
 "precision": "day",
 "strand": "program",
-"text": "The 24th NORAD Region Senior Director's Log for 8 November 1975: height-finder personnel picked up objects at 10,000 to 13,000 feet on track J330; two F-106s were scrambled at 0754Z; at 0820Z 'Lost radar contact, fighters broken off at 0825'; at 0905Z 'L-sites had fighters and objects; fighters did not get down to objects'; and at 0915Z, from four different points, 'when fighters arrived in the area, the lights went out; when fighters departed, the lights came back on'.",
-"tier": "A"
+"text": "The 24th NORAD Region Senior Director's Log for 8 November 1975: height-finder personnel picked up objects at 10,000 to 13,000 feet on track J330; two F-106s were scrambled at 0754Z; at 0820Z 'Lost radar contact, fighters broken off at 0825'; at 0905Z 'L-sites had fighters and objects; fighters did not get down to objects'; and at 0915Z, from four different points, 'when fighters arrived in the area, the lights went out; when fighters departed, the lights came back on'."
 }
+],
+"unverified": [
+"The larger FOIA compilation from which this log was extracted. The pages carry stamps 450, 451 and 452 and a control number 000974 over the release line of Terrence C. James, Colonel, USAF, Director of Administration. At least 449 pages of that compilation have never been seen by this board.",
+"Two further named men, SSgt Joseph M. Chassey and Lt Col Robert Peisher (USAF Ret.), appear in Hastings's Malmstrom 1975 material and their basis was not established by this pass."
 ]
 }

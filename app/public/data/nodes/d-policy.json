@@ -22,6 +22,7 @@
 ],
 "cls": "domain",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -51,10 +52,7 @@
 "deg": 1,
 "denials": [],
 "desc": "Below statute and above practice sits the directive layer, and it is where most of the concealment rules actually live. DoD Directive 5205.07 defines what a special access programme is, who may approve one, and what the acknowledged, unacknowledged and waived categories mean in practice. Classification authority itself flows from executive order rather than from Congress, meaning the rules governing what may be hidden are written by the branch doing the hiding and can be rewritten without a vote. Reporting requirements imposed by NDAA are implemented through this layer, which gives the executive substantial control over what a statutory mandate actually produces - the difference between a report that answers a question and a report that satisfies a requirement. The 2025-2026 period added a further wrinkle with executive-branch initiative on the science side: the creation of a UAP Science Advisory Council, announced in mid-2026 and to be led by Harvard astronomer Avi Loeb, is a directive-layer act rather than a legislative one and can be unmade the same way. Scoring high on this domain means an entity signs, drafts or implements directives.",
-"domains": [
-"_rs-archive-mirror",
-"w2-taxonomy"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -68,7 +66,12 @@
 "label": "Executive Policy & Directives",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Executive Policy & Directives",
+"sourceFiles": [
+"_rs-archive-mirror",
+"w2-taxonomy"
+],
 "sources": [
 {
 "date": "2026-05-18",
@@ -96,13 +99,15 @@
 "tierRationale": "Re-graded C on a global pass (rank 912 of 1170, score 18). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D2.",
 "timeline": [
 {
+"claimTier": 2,
 "date": "2026-07-01",
+"grade": null,
 "id": "tx-2026-loeb-council",
 "label": "An artifact-search advocate inside the tent",
 "precision": "month",
 "strand": "oversight",
-"text": "Avi Loeb publishes his account of agreeing to lead a UAP Science Advisory Council for the US government, after the Disclosure Foundation announced on 14 June 2026 that he had been asked to assemble and chair a twelve-member multidisciplinary council. It is a directive-layer creation rather than a statutory one, and can be unmade the same way.",
-"tier": 2
+"text": "Avi Loeb publishes his account of agreeing to lead a UAP Science Advisory Council for the US government, after the Disclosure Foundation announced on 14 June 2026 that he had been asked to assemble and chair a twelve-member multidisciplinary council. It is a directive-layer creation rather than a statutory one, and can be unmade the same way."
 }
-]
+],
+"unverified": []
 }

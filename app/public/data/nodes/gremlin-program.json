@@ -22,6 +22,7 @@
 ],
 "cls": "program",
 "cluster": "ic",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -72,10 +73,7 @@
 "deg": 2,
 "denials": [],
 "desc": "GREMLIN is AARO's prototype sensor platform for detecting and tracking UAP in real time, disclosed at the Volume I rollout in March 2024 and described further by Kosloski in November 2024, when the office reported it was conducting a 90-day collection period at a classified national security location to establish a baseline of what normal activity looks like. It is the office's answer to its own permanent excuse: every annual report from FY2023 through FY2025 attributes unresolved cases to a lack of timely and actionable sensor data, and GREMLIN is the only programme AARO has publicly named that would address that. The programme's disclosure is thin - no site, no cost, no published results in the FY2024 or FY2025 annual reports - and the FY2025 report, more than two years after GREMLIN was announced, still states that a lack of timely and actionable sensor data continues to constrain AARO's ability to resolve cases.",
-"domains": [
-"_rs-archive-mirror",
-"uaptf-aaro"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "3",
@@ -89,7 +87,12 @@
 "label": "GREMLIN",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "GREMLIN",
+"sourceFiles": [
+"_rs-archive-mirror",
+"uaptf-aaro"
+],
 "sources": [
 {
 "date": "2026-07-20",
@@ -114,6 +117,7 @@
 ],
 "sub": "AARO prototype UAP sensor platform, disclosed March 2024",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 681 of 1170, score 25). 2 connections, 1 of them custody/funding/programmatic. Axes C1/A2/D1.",
-"timeline": []
+"tierRationale": "Re-graded C on a global pass (rank 679 of 1170, score 25). 2 connections, 1 of them custody/funding/programmatic. Axes C1/A2/D1.",
+"timeline": [],
+"unverified": []
 }

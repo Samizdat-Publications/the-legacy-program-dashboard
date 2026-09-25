@@ -17,6 +17,7 @@
 ],
 "cls": "location",
 "cluster": "research",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -54,10 +55,7 @@
 "deg": 1,
 "denials": [],
 "desc": "Ames Research Center, at Moffett Field in Mountain View, California, is NASA's centre for aeronautics, entry systems, astrobiology and computational research, and sits inside the Silicon Valley research complex alongside Stanford and SRI. It appears on this board through personnel rather than institutional programme: Ames researchers have carried out aerospace and atmospheric work adjacent to the UAP question, and NASA's own UAP Independent Study Team report of September 2023 recommended the agency apply its Earth-observing and remote-sensing assets to the problem, which places centres of this kind in the path of any future official science effort.",
-"domains": [
-"_stubs",
-"w2-taxonomy"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "nd",
@@ -71,7 +69,12 @@
 "label": "NASA Ames Research Center, Mountain View, California",
 "locLabel": "Ames, Iowa, USA",
 "members": null,
+"openQuestions": [],
 "short": "NASA Ames Research Center, Mountain View, California",
+"sourceFiles": [
+"_stubs",
+"w2-taxonomy"
+],
 "sources": [
 {
 "date": "2026-08-12",
@@ -92,5 +95,6 @@
 "sub": "NASA field centre at Moffett Field, Santa Clara County, California",
 "tier": "C",
 "tierRationale": "Re-graded C on a global pass (rank 1083 of 1170, score 12). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.",
-"timeline": []
+"timeline": [],
+"unverified": []
 }

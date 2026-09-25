@@ -17,6 +17,7 @@
 ],
 "cls": "document",
 "cluster": "media",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -72,9 +73,7 @@
 "deg": 2,
 "denials": [],
 "desc": "Project Beta: The Story of Paul Bennewitz, National Security, and the Creation of a Modern UFO Myth, by Greg Bishop, published by Paraview Pocket Books on 8 February 2005, ISBN 9780743470926 and 0743470923, 288 pages, LCCN 2005297375, OCLC 57678877. It is the principal documented account of the affair and its bibliographic record is clean. One caveat attaches at the point of citation and it comes from a source volunteering it against his own interest: Stephen Fisher, writing in November 2025 and himself relying almost entirely on Bishop, states that Bishop had an undisclosed friendship with Bill Moore, one of the two men the book is about. That does not discredit the book. It means it is a participant account at one remove and must never be the sole source for a claim about Moore's conduct. The book itself was not opened by this session; only its bibliographic record and quotations of it by others. The node carries the record, not the contents, and says so.",
-"domains": [
-"dulce-2026-09-19"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "2",
@@ -88,7 +87,11 @@
 "label": "Greg Bishop, 'Project Beta' (Paraview Pocket Books, 2005)",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Greg Bishop, 'Project Beta' (Paraview Pocket Books, 2005)",
+"sourceFiles": [
+"dulce-2026-09-19"
+],
 "sources": [
 {
 "date": "2026-09-19",
@@ -106,13 +109,17 @@
 "tierRationale": "Re-graded C on a global pass (rank 1097 of 1170, score 11). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2005-02-08",
+"grade": "C",
 "id": "tl-2005-02-08-project-beta-book",
 "label": "Greg Bishop publishes Project Beta, the principal documented account",
 "precision": "day",
 "strand": "witness",
-"text": "Paraview Pocket Books, ISBN 9780743470926, 288 pages, LCCN 2005297375, OCLC 57678877. A participant account at one remove: a writer relying on it states that Bishop had an undisclosed friendship with Bill Moore, one of the two men the book is about.",
-"tier": "C"
+"text": "Paraview Pocket Books, ISBN 9780743470926, 288 pages, LCCN 2005297375, OCLC 57678877. A participant account at one remove: a writer relying on it states that Bishop had an undisclosed friendship with Bill Moore, one of the two men the book is about."
 }
+],
+"unverified": [
+"The contents of the book, which was not opened."
 ]
 }

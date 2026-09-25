@@ -142,8 +142,11 @@
 "deg": 2,
 "denials": [],
 "domains": [
-"media-structure",
-"scientists-technical"
+"d-policy",
+"d-oversight",
+"d-disclosure",
+"d-legislative",
+"d-records"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -164,6 +167,10 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Kirk McConnell",
+"sourceFiles": [
+"media-structure",
+"scientists-technical"
+],
 "sources": [
 {
 "date": "2024-12-24",
@@ -199,16 +206,17 @@
 "status": "active",
 "sub": "Senior Legislative Affairs Officer, The Sol Foundation",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 351 of 1170, score 36). 2 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 350 of 1170, score 36). 2 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2024-03-01",
+"grade": "A",
 "id": "st-2024-03-mcconnell",
 "label": "McConnell retires after 37 years",
 "precision": "month",
 "strand": "oversight",
-"text": "Kirk McConnell leaves Capitol Hill after 37 years on defence and intelligence, including the Senate Armed Services Committee and both intelligence committees, and joins the UAP nonprofit sector.",
-"tier": "A"
+"text": "Kirk McConnell leaves Capitol Hill after 37 years on defence and intelligence, including the Senate Armed Services Committee and both intelligence committees, and joins the UAP nonprofit sector."
 }
 ],
 "unexplainedResidual": null,

@@ -105,9 +105,7 @@
 "dateStart": "2010-01-01",
 "deg": 2,
 "denials": [],
-"domains": [
-"w7-dirds-1"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "2",
@@ -127,6 +125,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Claudio Maccone",
+"sourceFiles": [
+"w7-dirds-1"
+],
 "sources": [
 {
 "date": null,
@@ -157,7 +158,7 @@
 "status": "active",
 "sub": "Italian SETI astronomer and mathematician; International Academy of Astronautics (Chair, SETI Permanent Committee; Director for Scientific Space Exploration). 1948-2025",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 812 of 1170, score 21). 2 connections, 1 of them custody/funding/programmatic. Axes C1/A0/D0.",
+"tierRationale": "Re-graded C on a global pass (rank 813 of 1170, score 21). 2 connections, 1 of them custody/funding/programmatic. Axes C1/A0/D0.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": []

@@ -985,18 +985,20 @@
 "deg": 28,
 "denials": [
 {
-"by": {
+"a": {
 "id": "dod",
 "label": "United States Department of Defense (secondary designation: Department of War)"
 },
+"b": {
+"id": "eric-burlison",
+"label": "Eric Burlison"
+},
+"by": null,
 "claimTier": 1,
 "denialKind": "undirected",
 "label": "Blocked from a full AARO briefing in 2024 by House Administration staff; NDAA UAP amendment ruled non-germane by staff in 2025",
 "note": "Burlison put both on the record at the 9 September 2025 hearing: 'not an elected official, but someone in staff blocked us. And I have had it.'",
-"of": {
-"id": "eric-burlison",
-"label": "Eric Burlison"
-},
+"of": null,
 "sources": [
 {
 "date": "2025-09-09",
@@ -1007,11 +1009,12 @@
 }
 ],
 "domains": [
-"congress-house",
-"grusch",
-"primes-custody",
-"releases-2023-2026",
-"w2-2025-2026"
+"d-oversight",
+"d-coverup",
+"d-custody",
+"d-funding",
+"d-disclosure",
+"d-records"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -1032,6 +1035,13 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Eric Burlison",
+"sourceFiles": [
+"congress-house",
+"grusch",
+"primes-custody",
+"releases-2023-2026",
+"w2-2025-2026"
+],
 "sources": [
 {
 "date": "2026-07-02",
@@ -1132,43 +1142,47 @@
 "status": "active",
 "sub": "U.S. Rep. (R-MO-7); Oversight subcommittee chair; runs the FFRDC/contractor records investigation",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 31 of 1170, score 95). 30 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D3.",
+"tierRationale": "Re-graded A on a global pass (rank 28 of 1170, score 95). 30 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2025-03-25",
+"grade": "A",
 "id": "ch-2025-03-25",
 "label": "Grusch joins the House staff",
 "precision": "day",
 "strand": "oversight",
-"text": "Eric Burlison hires David Grusch as a senior adviser on UAP issues for a four-month term.",
-"tier": "A"
+"text": "Eric Burlison hires David Grusch as a senior adviser on UAP issues for a four-month term."
 },
 {
+"claimTier": null,
 "date": "2025-03-27",
+"grade": "A",
 "id": "g-tl-2025-03-burlison",
 "label": "Grusch becomes Special Advisor to Rep. Burlison",
 "precision": "day",
 "strand": "oversight",
-"text": "The central whistleblower in the record takes a formal position inside the legislative branch, with a brief on UAP transparency and service on the Task Force on the Declassification of Federal Secrets.",
-"tier": "A"
+"text": "The central whistleblower in the record takes a formal position inside the legislative branch, with a brief on UAP transparency and service on the Task Force on the Declassification of Federal Secrets."
 },
 {
+"claimTier": null,
 "date": "2025-09-09",
+"grade": "A",
 "id": "ch-2025-09-09d",
 "label": "The Yemen Hellfire footage",
 "precision": "day",
 "strand": "witness",
-"text": "Burlison publicly unveils footage recorded 30 October 2024 of an MQ-9 tracking an orb off Yemen while a second MQ-9 fires a Hellfire missile; the object appears struck and continues.",
-"tier": "A"
+"text": "Burlison publicly unveils footage recorded 30 October 2024 of an MQ-9 tracking an orb off Yemen while a second MQ-9 fires a Hellfire missile; the object appears struck and continues."
 },
 {
+"claimTier": null,
 "date": "2026-07-29",
+"grade": "A",
 "id": "rel-2026-07-29",
 "label": "Burlison offers a congressional channel",
 "precision": "day",
 "strand": "oversight",
-"text": "Burlison says he had been calling for the NDA waiver, offers his office as a channel, and recommends anyone participating request congressional presence alongside legal counsel.",
-"tier": "A"
+"text": "Burlison says he had been calling for the NDA waiver, offers his office as a channel, and recommends anyone participating request congressional presence alongside legal counsel."
 }
 ],
 "unexplainedResidual": null,

@@ -6,12 +6,13 @@
 "claims": [],
 "cls": "location",
 "cluster": "witness",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
 "cls": "domain",
 "dateEnd": null,
-"dateStart": null,
+"dateStart": "2004-11-14",
 "direction": "in",
 "edgeLabel": "Homeport of the Nimitz strike group",
 "id": "d-aviators",
@@ -35,10 +36,7 @@
 "deg": 1,
 "denials": [],
 "desc": "San Diego is the homeport of the Pacific Fleet's surface and carrier forces and the operational origin of the 2004 Nimitz Carrier Strike Group encounters off the southern California coast. It is on this board as the base city for serving and former Navy personnel who have given accounts of unidentified objects tracked by shipboard sensors, and as the shore end of the Southern California Operating Area where the most sensor-corroborated American cases occurred.",
-"domains": [
-"_rs-archive-mirror",
-"w2-taxonomy"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "nd",
@@ -52,7 +50,12 @@
 "label": "San Diego, California",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "San Diego, California",
+"sourceFiles": [
+"_rs-archive-mirror",
+"w2-taxonomy"
+],
 "sources": [
 {
 "date": "2026-08-02",
@@ -73,5 +76,6 @@
 "sub": "City in southern California; largest US Navy fleet concentration on the west coast",
 "tier": "C",
 "tierRationale": "Re-graded C on a global pass (rank 1072 of 1170, score 12). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D2.",
-"timeline": []
+"timeline": [],
+"unverified": []
 }

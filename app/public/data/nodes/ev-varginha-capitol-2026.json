@@ -37,6 +37,7 @@
 ],
 "cls": "event",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -129,6 +130,14 @@
 "deg": 4,
 "denials": [
 {
+"a": {
+"id": "ev-varginha-capitol-2026",
+"label": "Varginha witnesses on Capitol Hill and at the National Press Club, 15 and 20 January 2026"
+},
+"b": {
+"id": "aaro",
+"label": "All-domain Anomaly Resolution Office (AARO)"
+},
 "by": {
 "id": "aaro",
 "label": "All-domain Anomaly Resolution Office (AARO)"
@@ -151,9 +160,7 @@
 }
 ],
 "desc": "On 15 January 2026, in Representative Tim Burchett's office in the Longworth House Office Building, three members of Congress - Burchett of Tennessee, Anna Paulina Luna of Florida, chairwoman of the House Task Force on the Declassification of Federal Secrets, and Eric Burlison of Missouri - held a closed-door session with three Brazilian witnesses to the 1996 Varginha events: neurosurgeon Dr Ítalo Venturelli, forensic pathologist Dr Armando Fortunato, and geography teacher and ultralight pilot Carlos de Sousa. They were brought to the United States by filmmaker James Fox, who with his Brazilian collaborator Marco Aurélio Leal has worked the case for two decades. Jared Moskowitz and André Carson were invited but could not attend. Five days later, on 20 January 2026, Fox convened a public press conference at the National Press Club. Luna said Congress should seek US Air Force flight logs and a landing permit to test the claim of an American retrieval. Retired US Air Force Colonel Fred Claussen set out the documentary trail such a mission would necessarily generate - Air Mobility Command paperwork at Scott AFB, the Air Mobility Wing at Charleston AFB, air-refuelling records and international flight plans - and appealed publicly to the thirty to forty Americans he believes would have direct knowledge. Brazilian Senator Eduardo Girão, who led a Brazilian Senate UAP hearing in 2022, attended in a private capacity and discussed a joint Brazilian-American evidence effort with Burlison. Six further Brazilian witnesses were denied US visas by the State Department on the ground that they might overstay, so their testimony was videotaped in Brazil in December 2025. By 15 July 2026 Representative Burlison had formally asked the FBI and the CIA for records on the case.",
-"domains": [
-"w2-international"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "3",
@@ -167,7 +174,11 @@
 "label": "Varginha witnesses on Capitol Hill and at the National Press Club, 15 and 20 January 2026",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Varginha witnesses on Capitol Hill and at the National Press Club, 15 and 20 January 2026",
+"sourceFiles": [
+"w2-international"
+],
 "sources": [
 {
 "date": "2026-01-30",
@@ -185,22 +196,25 @@
 "tierRationale": "Re-graded C on a global pass (rank 644 of 1170, score 27). 4 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D3.",
 "timeline": [
 {
+"claimTier": 2,
 "date": "2026-01-15",
+"grade": null,
 "id": "tl-intl-2026-varginha",
 "label": "Varginha witnesses brief three members of Congress",
 "precision": "day",
 "strand": "oversight",
-"text": "In Rep. Tim Burchett's office, neurosurgeon Ítalo Venturelli, forensic pathologist Armando Fortunato and ultralight pilot Carlos de Sousa brief Burchett, Anna Paulina Luna and Eric Burlison. Five days later a National Press Club conference follows, at which retired USAF Colonel Fred Claussen sets out the Air Mobility Command paperwork trail any American retrieval flight would have generated and appeals to participants to come forward.",
-"tier": 2
+"text": "In Rep. Tim Burchett's office, neurosurgeon Ítalo Venturelli, forensic pathologist Armando Fortunato and ultralight pilot Carlos de Sousa brief Burchett, Anna Paulina Luna and Eric Burlison. Five days later a National Press Club conference follows, at which retired USAF Colonel Fred Claussen sets out the Air Mobility Command paperwork trail any American retrieval flight would have generated and appeals to participants to come forward."
 },
 {
+"claimTier": 2,
 "date": "2026-07-15",
+"grade": null,
 "id": "tl-intl-2026-burlison",
 "label": "Congress asks the FBI and CIA about Varginha",
 "precision": "day",
 "strand": "oversight",
-"text": "NewsNation reports that a lawmaker - contemporaneous coverage names Rep. Eric Burlison - has asked the FBI and the CIA for information on the Varginha case, six months after the Brazilian witnesses testified on Capitol Hill.",
-"tier": 2
+"text": "NewsNation reports that a lawmaker - contemporaneous coverage names Rep. Eric Burlison - has asked the FBI and the CIA for information on the Varginha case, six months after the Brazilian witnesses testified on Capitol Hill."
 }
-]
+],
+"unverified": []
 }

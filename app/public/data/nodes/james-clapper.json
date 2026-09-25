@@ -122,6 +122,14 @@
 "deg": 3,
 "denials": [
 {
+"a": {
+"id": "james-clapper",
+"label": "James R. Clapper Jr."
+},
+"b": {
+"id": "depsecdef-sap-packet-2009",
+"label": "Final Packet Presented to the Deputy Secretary of Defense on the SAP Request"
+},
 "by": {
 "id": "james-clapper",
 "label": "James R. Clapper Jr."
@@ -143,6 +151,14 @@
 ]
 },
 {
+"a": {
+"id": "james-clapper",
+"label": "James R. Clapper Jr."
+},
+"b": {
+"id": "waived-usap",
+"label": "Waived unacknowledged special access program (waived USAP)"
+},
 "by": {
 "id": "james-clapper",
 "label": "James R. Clapper Jr."
@@ -165,7 +181,9 @@
 }
 ],
 "domains": [
-"aawsap-aatip"
+"d-funding",
+"d-oversight",
+"d-coverup"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -186,6 +204,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "James R. Clapper Jr.",
+"sourceFiles": [
+"aawsap-aatip"
+],
 "sources": [
 {
 "date": "2009-11-17",

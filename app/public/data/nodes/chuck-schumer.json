@@ -118,7 +118,7 @@
 "edgeLabel": "Publicly called the removal of the Review Board an outrage",
 "id": "ndaa-fy2024-subtitle-c",
 "l0": false,
-"label": "P.L. 118-31 Subtitle C — Secs. 1841-1843 (what survived)",
+"label": "P.L. 118-31 Subtitle C - Secs. 1841-1843 (what survived)",
 "note": "Schumer said it was 'really an outrage the House didn't work with us on adopting our proposal for a review board' after the conference product removed it.",
 "sources": [
 {
@@ -180,7 +180,7 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "research"
 }
 ],
 "date": "2023-07-13",
@@ -189,18 +189,20 @@
 "deg": 5,
 "denials": [
 {
-"by": {
+"a": {
 "id": "chuck-schumer",
 "label": "Charles E. Schumer"
 },
+"b": {
+"id": "ndaa-fy2024-subtitle-c",
+"label": "P.L. 118-31 Subtitle C - Secs. 1841-1843 (what survived)"
+},
+"by": null,
 "claimTier": 2,
 "denialKind": "association",
 "label": "Publicly called the removal of the Review Board an outrage",
 "note": "Schumer said it was 'really an outrage the House didn't work with us on adopting our proposal for a review board' after the conference product removed it.",
-"of": {
-"id": "ndaa-fy2024-subtitle-c",
-"label": "P.L. 118-31 Subtitle C — Secs. 1841-1843 (what survived)"
-},
+"of": null,
 "sources": [
 {
 "date": "2023-12-22",
@@ -211,8 +213,9 @@
 }
 ],
 "domains": [
-"_rs-legislation",
-"congress-senate-legislation"
+"d-legislative",
+"d-oversight",
+"d-records"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -233,6 +236,10 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Charles E. Schumer",
+"sourceFiles": [
+"_rs-legislation",
+"congress-senate-legislation"
+],
 "sources": [
 {
 "date": "2023-07-13",
@@ -268,7 +275,7 @@
 "status": "active",
 "sub": "Senate Majority Leader (2021-2025); sponsor, UAP Disclosure Act",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 274 of 1170, score 40). 5 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 328 of 1170, score 37). 5 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D3.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": [

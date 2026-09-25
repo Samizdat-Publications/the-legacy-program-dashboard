@@ -32,6 +32,7 @@
 ],
 "cls": "document",
 "cluster": "research",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 3,
@@ -192,6 +193,14 @@
 "deg": 6,
 "denials": [
 {
+"a": {
+"id": "gerb-mitre-investigation",
+"label": "UAP Gerb - The MITRE Corporation investigation"
+},
+"b": {
+"id": "mitre-corporation",
+"label": "The MITRE Corporation"
+},
 "by": {
 "id": "mitre-corporation",
 "label": "The MITRE Corporation"
@@ -214,9 +223,7 @@
 }
 ],
 "desc": "The named priority document for this board. Published 7 August 2026, this two-hour investigation argues that MITRE and the FFRDC model generally are 'the missing link' in the whole legacy program question. Its structural thesis: FFRDCs let the US government technically vest programs outside the government while retaining strict control over materials, breakthroughs, data and programs, and - the sharper claim - the FFRDCs arbitrate what and how much information about UFO programs is shared with defense contractors. That inverts the usual picture in which primes hold the secrets; here the non-profit systems-engineering intermediary is the gate. The investigation traces MITRE's acknowledged founding in 1958 as the Air Force's successor to RAND, tasked with systems engineering for SAGE, and alleges a second impetus: constructing a trusted long-term partner answerable only to its DoD customer to spearhead reverse engineering of recovered craft. It alleges MITRE's role in two Navy-spearheaded programs - the exploitation and maturation of technologies from late-1940s recoveries, central to MITRE's portfolio since 1958; and the tracking and possible collection-tasking against an enormous USO, a 'tic tac factory', with permanent or semi-permanent station in the Atlantic, with all-source data processed by MITRE. It further alleges a briefing restriction initiated in 2011 to cease historical briefings on program incumbents. Chapters: INTRO, FFRDC PRIMER (17:49), THE MITRE CORPORATION (29:44), MITRE & UFO LEGACY PROGRAMS (46:40), MITRE GATEKEEPERS (1:38:15), MITRE INTERROGATIVE (1:50:15), CONCLUSION (1:57:26). It explicitly builds on Gerb's prior Navy, Sandia, Hidden Wing, Corso/Army, Manhattan Project 2.0, Special Access Required, NRO and Northrop/TRW investigations.",
-"domains": [
-"media-structure"
-],
+"domains": [],
 "dossier": {
 "claims": [
 {
@@ -341,7 +348,11 @@
 "label": "UAP Gerb - The MITRE Corporation investigation",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "UAP Gerb - The MITRE Corporation investigation",
+"sourceFiles": [
+"media-structure"
+],
 "sources": [
 {
 "date": "2026-08-07",
@@ -356,25 +367,28 @@
 ],
 "sub": "Video investigation, 7 Aug 2026",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 440 of 1170, score 33). 7 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 439 of 1170, score 33). 7 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2011-01-01",
+"grade": "B",
 "id": "ms-cv-2011-briefing",
 "label": "Alleged 2011 restriction on historical briefings",
 "precision": "year",
 "strand": "coverup",
-"text": "UAP Gerb alleges a legacy program briefing restriction initiated in 2011 to cease historical briefings on program incumbents - i.e. a policy act specifically designed to prevent newly cleared personnel from learning the programme's own history. If real, it is documentable as a memorandum or classification guide change.",
-"tier": "B"
+"text": "UAP Gerb alleges a legacy program briefing restriction initiated in 2011 to cease historical briefings on program incumbents - i.e. a policy act specifically designed to prevent newly cleared personnel from learning the programme's own history. If real, it is documentable as a memorandum or classification guide change."
 },
 {
+"claimTier": null,
 "date": "2026-08-07",
+"grade": "A",
 "id": "ms-2026-mitre",
 "label": "Gerb publishes the MITRE investigation",
 "precision": "day",
 "strand": "program",
-"text": "The FFRDC arbitration thesis in full: MITRE as the missing link, two alleged Navy-spearheaded programs, an Atlantic USO tracking mission, and a 2011 restriction on historical briefings about program incumbents.",
-"tier": "A"
+"text": "The FFRDC arbitration thesis in full: MITRE as the missing link, two alleged Navy-spearheaded programs, an Atlantic USO tracking mission, and a 2011 restriction on historical briefings about program incumbents."
 }
-]
+],
+"unverified": []
 }

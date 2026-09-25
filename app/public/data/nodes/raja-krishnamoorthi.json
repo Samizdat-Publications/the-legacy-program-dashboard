@@ -66,7 +66,8 @@
 "deg": 1,
 "denials": [],
 "domains": [
-"congress-house"
+"d-oversight",
+"d-coverup"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -87,6 +88,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Subramanian Raja Krishnamoorthi",
+"sourceFiles": [
+"congress-house"
+],
 "sources": [
 {
 "date": "2024-01-12",

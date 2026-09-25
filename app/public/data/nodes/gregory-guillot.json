@@ -134,7 +134,8 @@
 "deg": 3,
 "denials": [],
 "domains": [
-"aviators-incidents"
+"d-aviators",
+"d-oversight"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -155,6 +156,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Gregory M. Guillot",
+"sourceFiles": [
+"aviators-incidents"
+],
 "sources": [
 {
 "date": "2024-10-30",
@@ -175,16 +179,17 @@
 "status": "active",
 "sub": "General, USAF; Commander, NORAD and US Northern Command (Feb 2024- )",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 705 of 1170, score 24). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A3/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 704 of 1170, score 24). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A3/D2.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2024-10-30",
+"grade": "A",
 "id": "av-2024-10-30",
 "label": "Guillot: no foreign nexus",
 "precision": "day",
 "strand": "oversight",
-"text": "The NORAD/NORTHCOM commander tells The War Zone 'I have not seen [and] I do not know of any organized or unorganized foreign nexus' to the Langley drones. NORAD's count stands at more than 600 drone reports over US installations since 2022.",
-"tier": "A"
+"text": "The NORAD/NORTHCOM commander tells The War Zone 'I have not seen [and] I do not know of any organized or unorganized foreign nexus' to the Langley drones. NORAD's count stands at more than 600 drone reports over US installations since 2022."
 }
 ],
 "unexplainedResidual": null,

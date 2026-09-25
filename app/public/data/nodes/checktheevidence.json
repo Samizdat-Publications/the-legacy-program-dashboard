@@ -27,6 +27,9 @@
 ],
 "cls": "institution",
 "cluster": "media",
+"conflicts": [
+"Johnson is a partisan custodian and not a neutral one. He characterises the book as presenting 'his experiences using fictional framing while describing real events', and he reads David Hilton's focus on Fouche's credibility as a deliberate distraction from the technology. His hosting is reliable and his framing is interested, and the two are kept apart everywhere in this build."
+],
 "connections": [
 {
 "claimTier": 1,
@@ -98,9 +101,7 @@
 "deg": 3,
 "denials": [],
 "desc": "This is the custody node for three of the artefacts in this cluster, in the same role the board already gives the-black-vault and arvp-fluxliner-project. It is a website operated by Andrew Johnson, who signs his posts by name and dates them, and that distinguishes it materially from arvp.co.uk, which is anonymous, and the node must say so, because it is a real difference in evidentiary weight. Johnson's index post of 11 February 2014 is the page from which the direct file locations were taken, and it links, among others, the 1998 presentation transcript, the fifteen page military documents compilation, a TR-3B questions and answers file, and video mirrors. His posts of 12 and 13 January 2015 are the only opened account of the FOIA episode, in which David Hilton alleged that Fouche had faked military documents and then filed a Freedom of Information Act request whose return, in Johnson's reading, corroborated what Fouche had said. His post of 2 July 2014 is the only opened account of the video said to contain an admission, and it says plainly that he could not verify it. Johnson is a partisan custodian: he frames the book as presenting 'his experiences using fictional framing while describing real events' and reads Hilton's focus on credibility as a deliberate distraction. He is cited here for custody and for what he says, never as an adjudicator.",
-"domains": [
-"tr3b-2026-09-18"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "2",
@@ -114,7 +115,11 @@
 "label": "Check The Evidence (checktheevidence.com), Andrew Johnson",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Check The Evidence (checktheevidence.com), Andrew Johnson",
+"sourceFiles": [
+"tr3b-2026-09-18"
+],
 "sources": [
 {
 "date": "2014-02-11",
@@ -139,6 +144,9 @@
 ],
 "sub": "British site operated under a named individual that hosts the Fouche presentation transcript, the military documents compilation and the commentary on the FOIA dispute",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 544 of 1170, score 30). 3 connections, 3 of them custody/funding/programmatic. Axes C0/A0/D3.",
-"timeline": []
+"tierRationale": "Re-graded B on a global pass (rank 538 of 1170, score 30). 3 connections, 3 of them custody/funding/programmatic. Axes C0/A0/D3.",
+"timeline": [],
+"unverified": [
+"Whether the files the site hosts are unaltered since their 2014 creation dates. Neither PDF is signed or hashed, and both were retrieved live on 18 September 2026 with no earlier capture to compare against."
+]
 }

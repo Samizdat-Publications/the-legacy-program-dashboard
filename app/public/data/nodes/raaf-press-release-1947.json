@@ -27,6 +27,7 @@
 ],
 "cls": "document",
 "cluster": "legacy",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -37,7 +38,7 @@
 "edgeLabel": "The message traffic that would document the release was destroyed",
 "id": "gao-nsiad-95-187",
 "l0": false,
-"label": "GAO/NSIAD-95-187 — Results of a Search for Records Concerning the 1947 Crash Near Roswell",
+"label": "GAO/NSIAD-95-187 - Results of a Search for Records Concerning the 1947 Crash Near Roswell",
 "note": "RAAF outgoing messages from October 1946 through December 1949 were destroyed with no recorded disposition authority, removing the base's own record of the 8 July 1947 announcement and its retraction.",
 "sources": [
 {
@@ -129,6 +130,14 @@
 "deg": 4,
 "denials": [
 {
+"a": {
+"id": "roger-ramey",
+"label": "Roger M. Ramey"
+},
+"b": {
+"id": "raaf-press-release-1947",
+"label": "RAAF Press Release, 8 July 1947"
+},
 "by": {
 "id": "roger-ramey",
 "label": "Roger M. Ramey"
@@ -156,9 +165,7 @@
 }
 ],
 "desc": "The only uncontested primary artifact of the Roswell event, issued by the public information office of Roswell Army Air Field on 8 July 1947 over the name of 1st Lt. Walter Haut and carried immediately by the wire services. Its text states that 'the many rumors regarding the flying disc became a reality yesterday when the intelligence office of the 509th Bomb group of the Eighth Air Force, Roswell Army Air Field, was fortunate enough to gain possession of a disc through the cooperation of one of the local ranchers and the sheriff's office of Chaves County'. Two features are structurally important. The announcement was made by the intelligence office of the world's only atomic bomb group, an organisation with the most restrictive information discipline in the United States military, which does not issue accidental press releases about recovered aircraft. And it was retracted the same day, from a higher headquarters, by a general officer. The Air Force's position since 1994 is that base personnel misidentified a classified MOGUL balloon train; that position requires the 509th's intelligence staff to have failed to recognise balloon and radar target material, which is the same material Gen. Ramey used hours later to prove they had.",
-"domains": [
-"history-1940s-1960s"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -172,7 +179,11 @@
 "label": "RAAF Press Release, 8 July 1947",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "RAAF Press Release, 8 July 1947",
+"sourceFiles": [
+"history-1940s-1960s"
+],
 "sources": [
 {
 "date": "1995-01-01",
@@ -192,16 +203,18 @@
 ],
 "sub": "Roswell Army Air Field public information office",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 362 of 1170, score 36). 4 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A1/D2.",
+"tierRationale": "Re-graded B on a global pass (rank 367 of 1170, score 36). 4 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A1/D2.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1947-07-08",
+"grade": "A",
 "id": "tl-1947-07-08a",
 "label": "RAAF announces possession of a disc",
 "precision": "day",
 "strand": "program",
-"text": "Roswell Army Air Field's information office states that the intelligence office of the 509th Bomb Group has gained possession of a disc. The 509th is the only atomic-armed combat group in the world.",
-"tier": "A"
+"text": "Roswell Army Air Field's information office states that the intelligence office of the 509th Bomb Group has gained possession of a disc. The 509th is the only atomic-armed combat group in the world."
 }
-]
+],
+"unverified": []
 }

@@ -90,7 +90,7 @@
 "deg": 2,
 "denials": [],
 "domains": [
-"scientists-technical"
+"d-research"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -111,6 +111,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Richard Cloete",
+"sourceFiles": [
+"scientists-technical"
+],
 "sources": [
 {
 "date": "2023-03-01",
@@ -131,7 +134,7 @@
 "status": "active",
 "sub": "Computational scientist, The Galileo Project, Harvard University; lead author on the project's detection and tracking computing platform; member, UAP Science Advisory Council (2026)",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 1019 of 1170, score 14). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 1020 of 1170, score 14). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": []

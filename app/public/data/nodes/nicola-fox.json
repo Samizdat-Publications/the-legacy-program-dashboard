@@ -102,6 +102,14 @@
 "deg": 3,
 "denials": [
 {
+"a": {
+"id": "nicola-fox",
+"label": "Nicola J. Fox"
+},
+"b": {
+"id": "mark-mcinerney",
+"label": "Mark McInerney"
+},
 "by": {
 "id": "nicola-fox",
 "label": "Nicola J. Fox"
@@ -124,7 +132,8 @@
 }
 ],
 "domains": [
-"aviators-incidents"
+"d-aviators",
+"d-oversight"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -145,6 +154,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Nicola J. Fox",
+"sourceFiles": [
+"aviators-incidents"
+],
 "sources": [
 {
 "date": "2023-09-14",
@@ -165,7 +177,7 @@
 "status": "active",
 "sub": "Associate Administrator, NASA Science Mission Directorate (2023- )",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 933 of 1170, score 17). 3 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D1.",
+"tierRationale": "Re-graded C on a global pass (rank 932 of 1170, score 17). 3 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D1.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": [

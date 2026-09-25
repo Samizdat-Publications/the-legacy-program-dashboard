@@ -37,6 +37,7 @@
 ],
 "cls": "institution",
 "cluster": "ffrdc",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 3,
@@ -176,10 +177,7 @@
 "deg": 6,
 "denials": [],
 "desc": "Los Alamos is the first place the United States convened scientists to discuss unexplained objects over its own nuclear installations, and it is the laboratory that confirms it. On 16 February 1949 a conference was held at Los Alamos Scientific Laboratory on the green fireballs then appearing over the New Mexico weapons complex; attendees included Laboratory Director Norris Bradbury, Edward Teller and Frederick Reines, together with representatives of the FBI, the Atomic Energy Commission and the US military. LANL's own National Security Research Center published this in November 2024, stating that it holds the conference minutes, that its senior archivist receives several UFO-related FOIA requests every year, and that the Center does not appear to hold materials on Project Twinkle although not all of its millions of items are searchable. In December 1949 Project Twinkle was established as a network of observation and photographic stations and never fully implemented. Newly declassified records on the 1949 conference were publicised in July 2026 in the wake of the PURSUE releases. In April 2026, filmmaker Jeremy Corbell announced a trove of documents said to have been provided by the son of a deceased former LANL cybersecurity chief, forming the basis of the documentary 'Sleeping Dog' and alleged to include material on a secret 1991 UFO meeting at the laboratory. LANL is administered by Triad National Security, LLC and was funded at approximately 3,918.3 million dollars in FY2024 - the second-largest FFRDC in the country. It is a contractor-operated laboratory whose archives are not agency records, which is why a laboratory blog post is currently a better source on the 1949 conference than any FOIA response.",
-"domains": [
-"ffrdcs",
-"lazar-s4-2026-09-18"
-],
+"domains": [],
 "dossier": {
 "claims": [
 {
@@ -224,7 +222,12 @@
 "label": "Los Alamos National Laboratory",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Los Alamos National Laboratory",
+"sourceFiles": [
+"ffrdcs",
+"lazar-s4-2026-09-18"
+],
 "sources": [
 {
 "date": "2024-11-18",
@@ -259,34 +262,38 @@
 ],
 "sub": "DOE FFRDC administered by Triad National Security, LLC since 9 June 2018; Los Alamos, NM",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 254 of 1170, score 42). 6 connections, 1 of them custody/funding/programmatic. Axes C2/A3/D1.",
+"tierRationale": "Re-graded B on a global pass (rank 252 of 1170, score 42). 6 connections, 1 of them custody/funding/programmatic. Axes C2/A3/D1.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1949-12-01",
+"grade": "B",
 "id": "tl-ffrdc-1949-twinkle",
 "label": "Project Twinkle established",
 "precision": "month",
 "strand": "program",
-"text": "A network of green fireball observation and photographic stations is stood up over New Mexico. It is never fully implemented and produces no conclusive result.",
-"tier": "B"
+"text": "A network of green fireball observation and photographic stations is stood up over New Mexico. It is never fully implemented and produces no conclusive result."
 },
 {
+"claimTier": null,
 "date": "2024-11-18",
+"grade": "A",
 "id": "tl-ffrdc-2024-lanl-vault",
 "label": "LANL publicly confirms the 1949 conference minutes",
 "precision": "day",
 "strand": "program",
-"text": "Los Alamos National Laboratory publishes that its National Security Research Center holds the minutes of the 16 February 1949 green fireballs conference and receives several UFO-related FOIA requests a year.",
-"tier": "A"
+"text": "Los Alamos National Laboratory publishes that its National Security Research Center holds the minutes of the 16 February 1949 green fireballs conference and receives several UFO-related FOIA requests a year."
 },
 {
+"claimTier": null,
 "date": "2026-04-25",
+"grade": "B",
 "id": "tl-ffrdc-2026-corbell",
 "label": "'Sleeping Dog' LANL document trove reported",
 "precision": "day",
 "strand": "witness",
-"text": "Jeremy Corbell states he received a trove of documents from the son of a deceased former Los Alamos cybersecurity chief, including material said to concern a secret 1991 meeting at the laboratory.",
-"tier": "B"
+"text": "Jeremy Corbell states he received a trove of documents from the son of a deceased former Los Alamos cybersecurity chief, including material said to concern a secret 1991 meeting at the laboratory."
 }
-]
+],
+"unverified": []
 }

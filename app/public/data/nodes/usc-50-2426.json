@@ -47,6 +47,7 @@
 ],
 "cls": "legislation",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -125,7 +126,28 @@
 "edgeLabel": "3348(g)(2)(B)(ii) writes NNSA out and points to 50 U.S.C. 2426",
 "id": "usc-50-3348",
 "l0": false,
-"label": "50 U.S.C. 3348 — Reports Relating to Certain SAPs and Similar Programs",
+"label": "50 U.S.C. 3348 - Reports Relating to Certain SAPs and Similar Programs",
+"note": "",
+"sources": [
+{
+"date": null,
+"name": "https://www.govinfo.gov/content/pkg/USCODE-2023-title50/html/USCODE-2023-title50-chap45-subchapIII-sec3348.htm",
+"url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title50/html/USCODE-2023-title50-chap45-subchapIII-sec3348.htm"
+}
+],
+"tier": "A",
+"type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "legislation",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "excludes NNSA, routing it to sec. 2426",
+"id": "usc-50-3348",
+"l0": false,
+"label": "50 U.S.C. 3348 - Reports Relating to Certain SAPs and Similar Programs",
 "note": "The second exclusion in 50 U.S.C. 3348(g)(2)(B): '(ii) the National Nuclear Security Administration (which is required to submit reports on special access programs under section 2426 of this title)'. The third, (iii), excludes 'an agency in the Intelligence Community (as defined in section 3003(4) of this title)'. Read directly from the OLRC text on 22 August 2026.",
 "sources": [
 {
@@ -144,10 +166,7 @@
 "deg": 4,
 "denials": [],
 "desc": "Section 3236 of the National Defense Authorization Act for Fiscal Year 2000, Public Law 106-65, created a separate SAP reporting regime for the National Nuclear Security Administration, now at 50 U.S.C. 2426. Structurally it is a copy of 10 U.S.C. 119: a February 1 annual report to the congressional defense committees, a February 1 new-program notice with justification, a 14-day notice before a classification change or public declassification, prompt notice of changes to designation criteria, and a 30-day report-and-wait before initiation. But subsection (e)(1) is materially broader than the DoD waiver. It gives the Administrator the same power to waive the reporting requirements of subsections (a), (b) and (c), and then adds a sentence that has no counterpart in title 10: 'The Administrator may waive the report-and-wait requirement in subsection (f) if the Administrator determines that compliance with such requirement would adversely affect the national security.' Under 10 U.S.C. 119 the Secretary of Defense may waive what he tells the committees but not the requirement to notify them thirty days before starting a program. Under 50 U.S.C. 2426 the Administrator of the NNSA may waive both. That is the single most permissive SAP provision in the United States Code, and it sits in the statute governing the agency that runs the weapons laboratories - Los Alamos, Sandia, Lawrence Livermore - and holds Restricted Data under the Atomic Energy Act. The waived information goes 'jointly to the chairman and ranking minority member of each of the congressional defense committees'.",
-"domains": [
-"_rs-sap-docs",
-"w2-sap-architecture"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "1",
@@ -158,10 +177,15 @@
 "hl": null,
 "id": "usc-50-2426",
 "l0": false,
-"label": "50 U.S.C. 2426 — Congressional Oversight of DOE/NNSA Special Access Programs",
+"label": "50 U.S.C. 2426 - Congressional Oversight of DOE/NNSA Special Access Programs",
 "locLabel": null,
 "members": null,
-"short": "50 U.S.C. 2426 — Congressional Oversight of DOE/NNSA Special Access Programs",
+"openQuestions": [],
+"short": "50 U.S.C. 2426 - Congressional Oversight of DOE/NNSA Special Access Programs",
+"sourceFiles": [
+"_rs-sap-docs",
+"w2-sap-architecture"
+],
 "sources": [
 {
 "date": "2026-08-12",
@@ -181,16 +205,18 @@
 ],
 "sub": "statute",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 195 of 1170, score 46). 4 connections, 1 of them custody/funding/programmatic. Axes C1/A3/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 180 of 1170, score 47). 5 connections, 1 of them custody/funding/programmatic. Axes C1/A3/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1999-10-05",
+"grade": "A",
 "id": "sap-tl-1999-2426x",
 "label": "NNSA gets a SAP statute with a broader waiver than DoD's",
 "precision": "day",
 "strand": "oversight",
-"text": "Section 3236 of the FY2000 NDAA, Public Law 106-65, creates 50 U.S.C. 2426. Its subsection (e)(1) lets the NNSA Administrator waive not only the reports but the 30-day report-and-wait itself - the most permissive SAP provision in the Code, governing the agency that holds Restricted Data and runs Los Alamos, Sandia and Livermore.",
-"tier": "A"
+"text": "Section 3236 of the FY2000 NDAA, Public Law 106-65, creates 50 U.S.C. 2426. Its subsection (e)(1) lets the NNSA Administrator waive not only the reports but the 30-day report-and-wait itself - the most permissive SAP provision in the Code, governing the agency that holds Restricted Data and runs Los Alamos, Sandia and Livermore."
 }
-]
+],
+"unverified": []
 }

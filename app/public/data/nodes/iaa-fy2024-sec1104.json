@@ -22,6 +22,7 @@
 ],
 "cls": "legislation",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -79,7 +80,7 @@
 "edgeLabel": "Only the funding limitation and the IR&D restriction survived into law",
 "id": "ndaa-fy2024-1687",
 "l0": true,
-"label": "FY2024 NDAA sec. 1687 — Limitation on Use of Funds for Certain Unreported Programs",
+"label": "FY2024 NDAA sec. 1687 - Limitation on Use of Funds for Certain Unreported Programs",
 "note": "Sec. 1687 and Sec. 7343 of Public Law 118-31 carry forward the funding cutoff and the IR&D clause from the Senate provision; the contractor disclosure, inventory and immunity subsections were removed.",
 "sources": [
 {
@@ -103,9 +104,7 @@
 "deg": 3,
 "denials": [],
 "desc": "On 22 June 2023 Senator Mark Warner reported S. 2103, the Intelligence Authorization Act for Fiscal Year 2024, from the Select Committee on Intelligence. Section 1104 is the most explicit statement any organ of the US government has made about private custody of non-terrestrial material. Subsection (d) requires that 'any person currently or formerly under contract with the Federal Government that has in their possession material or information provided by or derived from the Federal Government relating to unidentified anomalous phenomena that formerly or currently is protected by any form of special access or restricted access' notify the Director of National Intelligence within 60 days and, within 180 days, make available for assessment, analysis and inspection all such material and information plus 'a comprehensive list of all non-earth origin or exotic unidentified anomalous phenomena material.' Subsection (e) grants immunity: 'No criminal or civil action may lie or be maintained in any Federal or State court against any person for receiving material or information described in subsection (d) if that person complies.' Subsection (c) lists the activities to be defunded absent disclosure: recovering and securing UAP craft, analysing craft for reverse engineering, and developing propulsion derived from recovered craft. The Senate Intelligence Committee approved this unanimously. None of subsections (d) through (g) survived into the enacted law; only the funding limitation and the IR&D restriction did.",
-"domains": [
-"primes-custody"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": {
 "desc": "The contractor provisions of S. 2103 Sec. 1104 as reported by the Senate Select Committee on Intelligence on 22 June 2023, none of which became law. Subsection (c) lists the activities to be defunded absent disclosure: '(A) Recruiting, employing, training, equipping, and operations of, and providing security for, government or contractor personnel with a primary, secondary, or contingency mission of capturing, recovering, and securing unidentified anomalous phenomena craft or pieces and components of such craft. (B) Analyzing such craft or pieces or components thereof, including for the purpose of determining properties, material composition, method of manufacture, origin, characteristics, usage and application, performance, operational modalities, or reverse engineering of such craft or component technology. (C) Managing and providing security for protecting activities and information relating to unidentified anomalous phenomena from disclosure or compromise. (D) Actions relating to reverse engineering or replicating unidentified anomalous phenomena technology or performance... (E) The development of propulsion technology, or aerospace craft that uses propulsion technology, systems, or subsystems, that is based on or derived from or inspired by inspection, analysis, or reverse engineering of recovered unidentified anomalous phenomena craft or materials. (F) Any aerospace craft that uses propulsion technology other than chemical propellants, solar power, or electric ion thrust.' Subsection (d) requires notification to the DNI within 60 days and production within 180 days, including 'a comprehensive list of all non-earth origin or exotic unidentified anomalous phenomena material.' Subsection (e) grants immunity from criminal and civil action for compliance. Subsection (f) carries the IR&D restriction. A Senate committee does not draft six categories of activity in that detail about a null set.",
@@ -133,7 +132,11 @@
 "label": "S. 2103 Sec. 1104 - SSCI contractor disclosure and immunity provision (stripped)",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "S. 2103 Sec. 1104 - SSCI contractor disclosure and immunity provision (stripped)",
+"sourceFiles": [
+"primes-custody"
+],
 "sources": [
 {
 "date": "2023-06-22",
@@ -153,16 +156,18 @@
 ],
 "sub": "Reported-but-not-enacted requirement that contractors surrender non-earth origin material",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 726 of 1170, score 24). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 725 of 1170, score 24). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2023-06-22",
+"grade": "A",
 "id": "pc-2023-06-1104",
 "label": "Senate Intelligence Committee votes to compel a contractor inventory",
 "precision": "day",
 "strand": "oversight",
-"text": "S. 2103 Sec. 1104, reported unanimously, would require any current or former federal contractor holding government-derived UAP material to notify the DNI within 60 days and produce 'a comprehensive list of all non-earth origin or exotic unidentified anomalous phenomena material,' with immunity for compliance.",
-"tier": "A"
+"text": "S. 2103 Sec. 1104, reported unanimously, would require any current or former federal contractor holding government-derived UAP material to notify the DNI within 60 days and produce 'a comprehensive list of all non-earth origin or exotic unidentified anomalous phenomena material,' with immunity for compliance."
 }
-]
+],
+"unverified": []
 }

@@ -32,6 +32,7 @@
 ],
 "cls": "document",
 "cluster": "ic",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -103,9 +104,7 @@
 "deg": 3,
 "denials": [],
 "desc": "On the intelligence side the concealment is even cleaner, and it is stated in the statute itself. Section 6101 of the Intelligence Authorization Act for Fiscal Year 2026 (division F of Public Law 119-60) reads in its entirety: 'Funds are hereby authorized to be appropriated for fiscal year 2026 for the conduct of the intelligence and intelligence-related activities of the Federal Government.' No amount. Section 6102 then supplies the missing numbers by reference: 'The amounts authorized to be appropriated under section 6101 for the conduct of the intelligence activities of the Federal Government are those specified in the classified Schedule of Authorizations prepared to accompany this division.' The Schedule is made available to the two Appropriations Committees and to the President; the President distributes it, or portions, within the executive branch; and section 6102(b)(3) provides that 'The President shall not publicly disclose the classified Schedule of Authorizations or any portion of such Schedule' except as provided in section 601(a) of the 9/11 Commission Act (50 U.S.C. 3306(a) - the aggregate topline), to the extent necessary to implement the budget, or as otherwise required by law. The same Act shows the technique at line level: section 6103 authorises $678,853,000 for the Intelligence Community Management Account in public text and then adds 'such additional amounts as are specified in the classified Schedule of Authorizations referred to in section 6102(a).' A published number, a secret number, and a statutory instruction to the President not to reveal which is which. For a board investigating how a programme is funded without appearing anywhere, this section is the answer written by Congress in its own hand.",
-"domains": [
-"w2-black-budget"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "1",
@@ -119,7 +118,11 @@
 "label": "The Classified Schedule of Authorizations (Intelligence Authorization Act)",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "The Classified Schedule of Authorizations (Intelligence Authorization Act)",
+"sourceFiles": [
+"w2-black-budget"
+],
 "sources": [
 {
 "date": "2025-12-18",
@@ -129,6 +132,7 @@
 ],
 "sub": "The document in which the entire intelligence budget is actually authorised; never published",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 240 of 1170, score 43). 3 connections, 2 of them custody/funding/programmatic. Axes C1/A3/D3.",
-"timeline": []
+"tierRationale": "Re-graded B on a global pass (rank 239 of 1170, score 43). 3 connections, 2 of them custody/funding/programmatic. Axes C1/A3/D3.",
+"timeline": [],
+"unverified": []
 }

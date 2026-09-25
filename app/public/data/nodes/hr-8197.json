@@ -17,6 +17,7 @@
 ],
 "cls": "legislation",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -88,9 +89,7 @@
 "deg": 3,
 "denials": [],
 "desc": "A four-page bill introduced by Rep. Tim Burchett on 6 April 2026 that would abolish the All-domain Anomaly Resolution Office outright rather than defund it, prohibit the establishment of any successor entity, redistribute the office's functions to the existing military departments, and repeal line by line the statutory architecture Congress built for it in the FY2022 and FY2023 NDAAs. Referred to the House Armed Services Committee and the House Permanent Select Committee on Intelligence. It is the terminal expression of a judgement that had been building in the House since 2023: that a centralised UAP office reporting inside the Department is not a solution to concealment but a mechanism for it. Rep. Anna Paulina Luna had recommended AARO's complete defunding to the DOGE subcommittee in March 2026, weeks earlier. That both members subsequently engaged constructively with Director Kosloski in May 2026 does not retire the bill's premise - it sharpens it, since the reversal followed the delivery of material Congress had been demanding for a year.",
-"domains": [
-"uaptf-aaro"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "3",
@@ -104,7 +103,11 @@
 "label": "H.R. 8197 (119th Congress) - bill to abolish AARO",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "H.R. 8197 (119th Congress) - bill to abolish AARO",
+"sourceFiles": [
+"uaptf-aaro"
+],
 "sources": [
 {
 "date": "2026-04-08",
@@ -132,13 +135,15 @@
 "tierRationale": "Re-graded C on a global pass (rank 988 of 1170, score 16). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2026-04-06",
+"grade": "A",
 "id": "tl-hr8197-2026-04-06",
 "label": "Bill introduced to abolish AARO",
 "precision": "day",
 "strand": "oversight",
-"text": "Rep. Tim Burchett introduces H.R. 8197: abolish the office, bar any successor, redistribute functions to the military departments, repeal the enabling statutes. Referred to HASC and HPSCI.",
-"tier": "A"
+"text": "Rep. Tim Burchett introduces H.R. 8197: abolish the office, bar any successor, redistribute functions to the military departments, repeal the enabling statutes. Referred to HASC and HPSCI."
 }
-]
+],
+"unverified": []
 }

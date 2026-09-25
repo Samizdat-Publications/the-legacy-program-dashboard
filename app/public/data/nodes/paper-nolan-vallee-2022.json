@@ -22,6 +22,7 @@
 ],
 "cls": "document",
 "cluster": "research",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -223,9 +224,7 @@
 "deg": 8,
 "denials": [],
 "desc": "The first peer-reviewed instrumental analysis of physical material associated with a multi-witness UAP event to appear in a mainstream aerospace journal. Published in Progress in Aerospace Sciences volume 128, article 100788 (2022), DOI 10.1016/j.paerosci.2021.100788, by Garry P. Nolan, Jacques F. Vallee, Sizun Jiang and Larry G. Lemke. The subject is the Council Bluffs, Iowa mass of 17 December 1977. The methods are secondary ion mass spectrometry and multiplexed ion beam imaging. The results are deliberately unhelpful to both camps: the isotopic ratios contain no anomalies, so the material could have originated on Earth; but the metals within the once-molten mass are mixed incompletely, indicating an industrial process of unknown origin. The paper then works through the alternatives - meteorite (no cratering, wrong elemental composition, would not arrive molten, iron meteorites contain 5-40% nickel while the sample had only traces), satellite or spacecraft debris (cools and solidifies before impact, no structure, carbon steel is not a spacecraft material), aircraft debris (no incident reported at any regional airport or military facility), dumped molten metal (no foundries operating in the region that day, and the logistics of transporting metal above 2,500 degrees Fahrenheit undetected are formidable), and thermite (the necessary aluminium-oxide byproduct is absent from the SIMS diatomic analysis) - and rejects each. What survives is a residual: a terrestrial-isotope sample formed by an unknown industrial process, observed descending from a structured object by five independent witness groups and photographed by police.",
-"domains": [
-"scientists-technical"
-],
+"domains": [],
 "dossier": {
 "claims": [
 {
@@ -379,7 +378,11 @@
 "tier": "C"
 }
 ],
+"openQuestions": [],
 "short": "Nolan & Vallee 2022, Prog Aero Sci",
+"sourceFiles": [
+"scientists-technical"
+],
 "sources": [
 {
 "date": "2022-01-01",
@@ -394,16 +397,18 @@
 ],
 "sub": "'Improved instrumental techniques, including isotopic analysis, applicable to the characterization of unusual materials with potential relevance to aerospace forensics'",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 569 of 1170, score 29). 8 connections, 0 of them custody/funding/programmatic. Axes C2/A0/D2.",
+"tierRationale": "Re-graded B on a global pass (rank 568 of 1170, score 29). 8 connections, 0 of them custody/funding/programmatic. Axes C2/A0/D2.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2022-01-01",
+"grade": "A",
 "id": "st-2022-01-paero",
 "label": "First peer-reviewed UAP materials analysis",
 "precision": "month",
 "strand": "program",
-"text": "Nolan, Vallee, Jiang and Lemke publish the SIMS and MIBI analysis of the Council Bluffs mass in Progress in Aerospace Sciences: no isotopic anomaly, but metals mixed incompletely by an industrial process of unknown origin.",
-"tier": "A"
+"text": "Nolan, Vallee, Jiang and Lemke publish the SIMS and MIBI analysis of the Council Bluffs mass in Progress in Aerospace Sciences: no isotopic anomaly, but metals mixed incompletely by an industrial process of unknown origin."
 }
-]
+],
+"unverified": []
 }

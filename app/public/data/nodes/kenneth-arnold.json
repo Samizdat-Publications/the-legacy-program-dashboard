@@ -110,8 +110,7 @@
 "deg": 2,
 "denials": [],
 "domains": [
-"_rs-archive-mirror",
-"history-1940s-1960s"
+"d-legacy"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -132,6 +131,10 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Kenneth Arnold",
+"sourceFiles": [
+"_rs-archive-mirror",
+"history-1940s-1960s"
+],
 "sources": [
 {
 "date": "2026-07-06",
@@ -162,16 +165,17 @@
 "status": "dead",
 "sub": "Civilian pilot; originator of the 1947 wave",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 931 of 1170, score 17). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 930 of 1170, score 17). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1947-06-24",
+"grade": "B",
 "id": "tl-1947-06-24",
 "label": "Kenneth Arnold sighting",
 "precision": "day",
 "strand": "witness",
-"text": "Boise pilot Kenneth Arnold reports nine objects near Mount Rainier. Wire coverage coins 'flying saucer' and the national wave begins.",
-"tier": "B"
+"text": "Boise pilot Kenneth Arnold reports nine objects near Mount Rainier. Wire coverage coins 'flying saucer' and the national wave begins."
 }
 ],
 "unexplainedResidual": null,

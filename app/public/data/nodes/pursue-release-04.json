@@ -27,6 +27,7 @@
 ],
 "cls": "event",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 3,
@@ -113,10 +114,7 @@
 "deg": 3,
 "denials": [],
 "desc": "Published 10 July 2026 with a 227MB document bundle and a 1.4GB video bundle. The Department did not publish a file count on the portal and no independent inventory has established one, which is itself a datum: by the fourth tranche the release programme had stopped stating what it was releasing. Its announced content is previously unseen US military video and historical documents dating to as early as the 1940s. Identified items include NASA STS-80 Space Shuttle Columbia mission imagery from 1996, a 2019 eastern-US sighting reported by an observer with 28 years of combined Air Force and Navy experience, and multiple unresolved 2020 reports from the western United States and the Atlantic Ocean. Release 04 is also the tranche in which assessment language appears - several videos are described as consistent with balloons or sensor artefacts and none as clear evidence of unknown aircraft. That characterisation sits against the Department's own stated posture of providing no assessment on any file, and marks the point at which the release programme began doing to its own material what AARO's annual reports do: publishing the object and the debunk together.",
-"domains": [
-"_rs-archive-mirror",
-"releases-2023-2026"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "3",
@@ -130,7 +128,12 @@
 "label": "PURSUE Release 04",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "PURSUE Release 04",
+"sourceFiles": [
+"_rs-archive-mirror",
+"releases-2023-2026"
+],
 "sources": [
 {
 "date": "2026-08-10",
@@ -150,25 +153,28 @@
 ],
 "sub": "10 July 2026; documents 227MB, videos 1.4GB; 1940s-2026",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 526 of 1170, score 30). 3 connections, 1 of them custody/funding/programmatic. Axes C1/A2/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 521 of 1170, score 30). 3 connections, 1 of them custody/funding/programmatic. Axes C1/A2/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2026-07-10",
+"grade": "A",
 "id": "rel-2026-07-10",
 "label": "PURSUE Release 04",
 "precision": "day",
 "strand": "program",
-"text": "227MB of documents and 1.4GB of video spanning the 1940s to 2026, published without a stated file count, and with assessment language reappearing: balloons and sensor artefacts, no clear evidence of unknown aircraft.",
-"tier": "A"
+"text": "227MB of documents and 1.4GB of video spanning the 1940s to 2026, published without a stated file count, and with assessment language reappearing: balloons and sensor artefacts, no clear evidence of unknown aircraft."
 },
 {
+"claimTier": 1,
 "date": "2026-07-10",
+"grade": null,
 "id": "tl-pursue-r04",
 "label": "PURSUE Release 04: no file count published",
 "precision": "day",
 "strand": "program",
-"text": "227MB of documents and 1.4GB of video, content dating to the 1940s. The Department publishes no file count - by the fourth tranche the release programme had stopped stating what it was releasing.",
-"tier": "1"
+"text": "227MB of documents and 1.4GB of video, content dating to the 1940s. The Department publishes no file count - by the fourth tranche the release programme had stopped stating what it was releasing."
 }
-]
+],
+"unverified": []
 }

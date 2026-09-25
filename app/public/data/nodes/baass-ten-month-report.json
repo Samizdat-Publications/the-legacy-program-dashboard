@@ -27,6 +27,7 @@
 ],
 "cls": "document",
 "cluster": "contractor",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -56,9 +57,7 @@
 "deg": 1,
 "denials": [],
 "desc": "The Ten Month Report is what AAWSAP actually was, as opposed to what the contract said it was. Delivered to DIA in July 2009 at 494 pages, it integrates the laboratory physics line — warp drive, quantum vacuum antigravity, gravitational wave communications, metamaterials, micro-fusion — with a field investigation enterprise: case documentation, a secure case database, rapid-response teams, and sustained instrumented operations at the Utah ranch described in the report as a living laboratory under continuous surveillance. It documents historical case work including Northern Tier missile base incidents and Brazilian case files from the Colares and Ceará events. It is the deliverable that makes AARO's 2024 sentence — that the contractor 'conducted UFO research with the support of the DIA program manager' — an understatement rather than a revelation. DIA has never released it. A copy leaked into public circulation and has been analysed publicly since about 2020; DIA separately told a FOIA requester in 2022 that it could not locate the associated report titled 'Utah Ranch Investigation: August 2009-February 2010' described by Lacatski and his co-authors. The board records the leaked copy as tier 2 and the government's non-production of it as a gap.",
-"domains": [
-"aawsap-aatip"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "2",
@@ -72,7 +71,11 @@
 "label": "BAASS Ten Month Report (2009)",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "BAASS Ten Month Report (2009)",
+"sourceFiles": [
+"aawsap-aatip"
+],
 "sources": [
 {
 "date": "2021-01-01",
@@ -92,25 +95,28 @@
 ],
 "sub": "494-page contractor deliverable to DIA, July 2009",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 436 of 1170, score 33). 1 connections, 1 of them custody/funding/programmatic. Axes C3/A2/D2.",
+"tierRationale": "Re-graded B on a global pass (rank 435 of 1170, score 33). 1 connections, 1 of them custody/funding/programmatic. Axes C3/A2/D2.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2009-07-01",
+"grade": "B",
 "id": "tl-2009-tenmonth",
 "label": "BAASS delivers the 494-page Ten Month Report",
 "precision": "month",
 "strand": "program",
-"text": "The contractor delivers a report integrating exotic physics research with field investigation, a case database, ranch operations and human physiological effects. DIA has never released it.",
-"tier": "B"
+"text": "The contractor delivers a report integrating exotic physics research with field investigation, a case database, ranch operations and human physiological effects. DIA has never released it."
 },
 {
+"claimTier": null,
 "date": "2022-03-01",
+"grade": "A",
 "id": "tl-2022-noranch",
 "label": "DIA cannot find the Utah ranch report",
 "precision": "month",
 "strand": "coverup",
-"text": "DIA tells a FOIA requester it can locate no report matching 'Utah Ranch Investigation: August 2009-February 2010' as described by the program's own manager.",
-"tier": "A"
+"text": "DIA tells a FOIA requester it can locate no report matching 'Utah Ranch Investigation: August 2009-February 2010' as described by the program's own manager."
 }
-]
+],
+"unverified": []
 }

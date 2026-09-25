@@ -111,7 +111,9 @@
 "deg": 2,
 "denials": [],
 "domains": [
-"history-1940s-1960s"
+"d-legacy",
+"d-psyop",
+"d-coverup"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -132,6 +134,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Howard P. Robertson",
+"sourceFiles": [
+"history-1940s-1960s"
+],
 "sources": [
 {
 "date": "1953-01-17",
@@ -147,7 +152,7 @@
 "status": "dead",
 "sub": "Physicist, Caltech; CIA consultant; panel chairman",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 676 of 1170, score 25). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A3/D0.",
+"tierRationale": "Re-graded C on a global pass (rank 675 of 1170, score 25). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A3/D0.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": [

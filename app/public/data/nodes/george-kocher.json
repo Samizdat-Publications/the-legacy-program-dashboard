@@ -89,7 +89,8 @@
 "deg": 2,
 "denials": [],
 "domains": [
-"ffrdcs"
+"d-ffrdc",
+"d-research"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -110,6 +111,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "George Kocher",
+"sourceFiles": [
+"ffrdcs"
+],
 "sources": [
 {
 "date": "1968-11-01",
@@ -133,13 +137,14 @@
 "tierRationale": "Re-graded C on a global pass (rank 1039 of 1170, score 13). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D1.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1968-11-01",
+"grade": "A",
 "id": "tl-ffrdc-1968-kocher",
 "label": "RAND publishes 'UFOs: What To Do?'",
 "precision": "month",
 "strand": "program",
-"text": "George Kocher's draft DRU-1571 examines UFO brightness, size and manoeuvres and recommends a course of action - two months before the Condon report tells the public the subject is closed.",
-"tier": "A"
+"text": "George Kocher's draft DRU-1571 examines UFO brightness, size and manoeuvres and recommends a course of action - two months before the Condon report tells the public the subject is closed."
 }
 ],
 "unexplainedResidual": null,

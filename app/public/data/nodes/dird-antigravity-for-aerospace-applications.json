@@ -67,6 +67,7 @@
 ],
 "cls": "document",
 "cluster": "other",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -153,6 +154,27 @@
 "dateStart": null,
 "direction": "in",
 "edgeLabel": "DIRD",
+"id": "dird-series",
+"l0": true,
+"label": "The 38 Defense Intelligence Reference Documents (DIRDs)",
+"note": "",
+"sources": [
+{
+"date": null,
+"name": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237651/",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237651/"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "series member",
 "id": "dird-series",
 "l0": true,
 "label": "The 38 Defense Intelligence Reference Documents (DIRDs)",
@@ -272,18 +294,20 @@
 "deg": 7,
 "denials": [
 {
-"by": {
+"a": {
 "id": "dird-antigravity-for-aerospace-applications",
 "label": "Antigravity for Aerospace Applications"
 },
+"b": {
+"id": "thomas-townsend-brown",
+"label": "Thomas Townsend Brown"
+},
+"by": null,
 "claimTier": 1,
 "denialKind": "association",
 "label": "The government's own 45-page antigravity survey does not mention Brown at all",
 "note": "THE ABSENCE EDGE, AND THIS NOTE IS WHAT KEEPS IT HONEST. Word counts over the whole released PDF, taken 19 September 2026: Biefeld 0, electrogravitics 0, ion wind 0, Podkletnov 0; 'Brown' occurs three times and all three are other authors' surnames in the reference list (L. S. Brown and Maclay 1969, H. R. Brown as co-editor of 'The Philosophy of Vacuum', J. H. Brownell 2008). WHAT THIS IS: a Tier 1 fact about a named, dated, openable document, checkable in 45 pages. WHAT THIS IS NOT: a finding that DIA considered Brown and rejected him, because the document shows no sign of having considered him. NOBODY DENIED ANYTHING, which is why the verdict is association and not directed, and the edge must never be rendered or summarised as 'DIA rejected Brown'.",
-"of": {
-"id": "thomas-townsend-brown",
-"label": "Thomas Townsend Brown"
-},
+"of": null,
 "sources": [
 {
 "date": "2010-03-30",
@@ -294,12 +318,7 @@
 }
 ],
 "desc": "DIA Defense Intelligence Reference Document (Acquisition Threat Support series), 2010-03-30, DIA-08-1003-018, produced under the Advanced Aerospace Weapon System Applications (AAWSA/AAWSAP) Program contract with BAASS. Released under FOIA.",
-"domains": [
-"_rs-aawsap-dirds",
-"_rs-archive-mirror",
-"propulsion-2026-09-19",
-"w7-dirds-1"
-],
+"domains": [],
 "dossier": {
 "claims": [
 {
@@ -362,7 +381,14 @@
 "tier": "A"
 }
 ],
+"openQuestions": [],
 "short": "DIA: Antigravity for Aerospace",
+"sourceFiles": [
+"_rs-aawsap-dirds",
+"_rs-archive-mirror",
+"propulsion-2026-09-19",
+"w7-dirds-1"
+],
 "sources": [
 {
 "date": "2010-03-30",
@@ -402,16 +428,18 @@
 ],
 "sub": "defense-intelligence-reference-document",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 125 of 1170, score 55). 7 connections, 3 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D0.",
+"tierRationale": "Re-graded A on a global pass (rank 123 of 1170, score 56). 8 connections, 3 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D0.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2010-03-30",
+"grade": "B",
 "id": "tl-2010-03-30-dird-antigravity",
 "label": "DIA's own antigravity survey is issued, and it does not mention Thomas Townsend Brown",
 "precision": "day",
 "strand": "program",
-"text": "DIA-08-1003-018, 'Antigravity for Aerospace Applications', ICOD 1 December 2009, 'Acquisition Threat Support', 45 pages as released, attributed on the DIA list of 9 January 2018 to Dr Eric Davis. Word counts over the released PDF: Biefeld 0, electrogravitics 0, ion wind 0, Podkletnov 0, and Brown absent except as three other authors' surnames in the reference list. THIS IS EVIDENCE ABOUT WHAT THE DOCUMENT CONTAINS AND IS NOT A FINDING THAT DIA CONSIDERED AND REJECTED BROWN.",
-"tier": "B"
+"text": "DIA-08-1003-018, 'Antigravity for Aerospace Applications', ICOD 1 December 2009, 'Acquisition Threat Support', 45 pages as released, attributed on the DIA list of 9 January 2018 to Dr Eric Davis. Word counts over the released PDF: Biefeld 0, electrogravitics 0, ion wind 0, Podkletnov 0, and Brown absent except as three other authors' surnames in the reference list. THIS IS EVIDENCE ABOUT WHAT THE DOCUMENT CONTAINS AND IS NOT A FINDING THAT DIA CONSIDERED AND REJECTED BROWN."
 }
-]
+],
+"unverified": []
 }

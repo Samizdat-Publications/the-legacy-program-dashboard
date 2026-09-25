@@ -47,6 +47,9 @@
 ],
 "cls": "document",
 "cluster": "media",
+"conflicts": [
+"The year of the film is given two ways in the opened record. IMDb tt6111304 gives a US release date of 2 June 2013; the UAP Gerb episode description calls it the '2014 Zero Point Documentary'."
+],
 "connections": [
 {
 "claimTier": 2,
@@ -107,9 +110,7 @@
 "deg": 2,
 "denials": [],
 "desc": "A later carrier rather than a source, and it is carried thin on purpose. Two things about it were opened directly: a Vimeo channel bearing its full title, created by 'James Gladman', whose description dedicates it to the film and to 'the late Writer-Director James Allen', and the link on the arvp.co.uk FLUX 1988 page that points at a YouTube copy of the full documentary. Everything else on this node comes from its IMDb listing, which is user-maintained, and the film itself was not opened by any session. What IMDb gives is a 2013 documentary of 1h 32m with James Allen credited as both director and writer, McCandlish as the only listed cast member, and an estimated budget of $5,000. The circumstances of Allen's death are widely repeated and none of them is recorded here, because no death record, autopsy report or obituary has been opened.",
-"domains": [
-"arv-2026-09-18"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "2",
@@ -123,7 +124,11 @@
 "label": "Zero Point: The Story of Mark McCandlish and the Flux Liner",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Zero Point: The Story of Mark McCandlish and the Flux Liner",
+"sourceFiles": [
+"arv-2026-09-18"
+],
 "sources": [
 {
 "date": "2026-09-18",
@@ -143,16 +148,22 @@
 ],
 "sub": "Feature documentary on McCandlish and the claimed craft; writer-director James Allen is dead",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 721 of 1170, score 24). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 720 of 1170, score 24). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2013-06-02",
+"grade": "C",
 "id": "tl-2013-06-02-zero-point-release",
 "label": "US release date given by IMDb for the Zero Point documentary",
 "precision": "day",
 "strand": "witness",
-"text": "IMDb tt6111304 gives a US release date of 2 June 2013 for 'Zero Point: The Story of Mark McCandlish and the Flux Liner', a 1h 32m documentary with James Allen credited as director and writer. IMDb is user-maintained and the film itself was not opened. The UAP Gerb episode description calls it the '2014 Zero Point Documentary'.",
-"tier": "C"
+"text": "IMDb tt6111304 gives a US release date of 2 June 2013 for 'Zero Point: The Story of Mark McCandlish and the Flux Liner', a 1h 32m documentary with James Allen credited as director and writer. IMDb is user-maintained and the film itself was not opened. The UAP Gerb episode description calls it the '2014 Zero Point Documentary'."
 }
+],
+"unverified": [
+"That James Allen died of an aggressive cancer within three months of the film's planned release, and that an autopsy showed heavy-metal poisoning. Recorded in research/leads/dannyjones-corpus-20.md section 4b from episode 320, 4 August 2025, with UAP Gerb speaking at 1:08:06 to 1:22:59. No death record, no autopsy report and no obituary was opened. The dossier records this as the single most consequential unverified claim in the thread and says it should not be written into any node without a record. It is therefore recorded here and nowhere else, as an unverified assertion. What IS opened is the Vimeo channel description calling him 'the late Writer-Director James Allen', which establishes that he is dead and nothing about how.",
+"That James Allen was an SCAD MFA graduate. Not opened.",
+"The film itself and its credits were not opened by any session. The IMDb full-credits page returned HTTP 403 to WebFetch; the title page was opened 18 September 2026."
 ]
 }

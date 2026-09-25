@@ -57,6 +57,7 @@
 ],
 "cls": "document",
 "cluster": "research",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -107,6 +108,14 @@
 "deg": 2,
 "denials": [
 {
+"a": {
+"id": "us-navy",
+"label": "United States Navy"
+},
+"b": {
+"id": "pais-patent-emfg",
+"label": "US Patent 10,135,366 - Electromagnetic field generator"
+},
 "by": {
 "id": "us-navy",
 "label": "United States Navy"
@@ -129,10 +138,7 @@
 }
 ],
 "desc": "The earliest of the five filings and the foundation of the set, since every later device depends on generating and manipulating high-energy electromagnetic fields. Application 14/807943, filed 24 July 2015, granted 20 November 2018, assigned to the Secretary of the Navy. The abstract describes a generator comprising a shell, an electrostatic generator, a power plant and a thermoelectric generator. Its file wrapper was obtained and read on 28 August 2026 and it is the control case for the craft application. One non-final rejection, one telephone interview, one response, and allowance on the ground that the prior art did not show the device. Enablement was never raised. A different examiner in a different art unit handled it, and it too has now lapsed for non-payment of the first maintenance fee.",
-"domains": [
-"pais-patents",
-"propulsion-2026-09-19"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "2",
@@ -146,7 +152,12 @@
 "label": "US Patent 10,135,366 - Electromagnetic field generator",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "US Patent 10,135,366 - Electromagnetic field generator",
+"sourceFiles": [
+"pais-patents",
+"propulsion-2026-09-19"
+],
 "sources": [
 {
 "date": null,
@@ -161,70 +172,78 @@
 ],
 "sub": "Application 14/807943, filed 24 July 2015, granted 20 November 2018; assignee the Secretary of the Navy; expired for non-payment of maintenance fees, recorded 26 December 2022",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 257 of 1170, score 42). 2 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A1/D0.",
+"tierRationale": "Re-graded B on a global pass (rank 254 of 1170, score 42). 2 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A1/D0.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2015-07-24",
+"grade": "B",
 "id": "tl-2015-07-24-pais-emfg-filed",
 "label": "Application 14/807,943 filed for the Electromagnetic Field Generator",
 "precision": "day",
 "strand": "program",
-"text": "The first of the five Pais filings, assigned to the United States as represented by the Secretary of the Navy. It is the device NAWCAD would later test.",
-"tier": "B"
+"text": "The first of the five Pais filings, assigned to the United States as represented by the Secretary of the Navy. It is the device NAWCAD would later test."
 },
 {
+"claimTier": null,
 "date": "2016-10",
+"grade": "B",
 "id": "tl-2016-10-nawcad-pais-testing-begins",
 "label": "NAWCAD begins testing the High Energy Electromagnetic Field Generator",
 "precision": "month",
 "strand": "program",
-"text": "Timothy Boulay, Communications Director at NAWCAD, on the record: 'The High Energy Electromagnetic Field Generator testing occurred from October 2016 through September 2019.' The $508,000 spent corresponds closely to the two $250,000 lines the PAX 205 invention-disclosure briefing proposed.",
-"tier": "B"
+"text": "Timothy Boulay, Communications Director at NAWCAD, on the record: 'The High Energy Electromagnetic Field Generator testing occurred from October 2016 through September 2019.' The $508,000 spent corresponds closely to the two $250,000 lines the PAX 205 invention-disclosure briefing proposed."
 },
 {
+"claimTier": 1,
 "date": "2018-06-20",
+"grade": null,
 "id": "tl-pais-emfg-nonfinal",
 "label": "The only rejection the electromagnetic field generator ever drew",
 "precision": "day",
 "strand": "program",
-"text": "USPTO mailed the single non-final rejection in application 14/807943. A telephone interview followed on 10 July and the applicant responded on 19 July. Enablement was never raised in this case.",
-"tier": "1"
+"text": "USPTO mailed the single non-final rejection in application 14/807943. A telephone interview followed on 10 July and the applicant responded on 19 July. Enablement was never raised in this case."
 },
 {
+"claimTier": 1,
 "date": "2018-09-13",
+"grade": null,
 "id": "tl-pais-emfg-allowed",
 "label": "Electromagnetic field generator allowed on prior art, not on enablement",
 "precision": "day",
 "strand": "program",
-"text": "The Notice of Allowability for application 14/807943 allowed claims 1-12 because 'the prior art fails to show' the claimed generator. The craft application, which incorporates this generator by reference, was under appeal at that moment for being impossible.",
-"tier": "1"
+"text": "The Notice of Allowability for application 14/807943 allowed claims 1-12 because 'the prior art fails to show' the claimed generator. The craft application, which incorporates this generator by reference, was under appeal at that moment for being impossible."
 },
 {
+"claimTier": null,
 "date": "2019-09",
+"grade": "B",
 "id": "tl-2019-09-nawcad-pais-testing-concludes",
 "label": "NAWCAD concludes testing: the Pais Effect could not be proven",
 "precision": "month",
 "strand": "program",
-"text": "Timothy Boulay, Communications Director at NAWCAD: 'When NAWCAD concluded testing in September 2019, the \"Pais Effect\" could not be proven.' Three years, $508,000, of which $462,000 was salaries. The sponsor tested its own patent and reported the negative result.",
-"tier": "B"
+"text": "Timothy Boulay, Communications Director at NAWCAD: 'When NAWCAD concluded testing in September 2019, the \"Pais Effect\" could not be proven.' Three years, $508,000, of which $462,000 was salaries. The sponsor tested its own patent and reported the negative result."
 },
 {
+"claimTier": null,
 "date": "2021-02-01",
+"grade": "B",
 "id": "tl-2021-02-01-nawcad-statement",
 "label": "The Navy says so publicly, through a named spokesman",
 "precision": "day",
 "strand": "program",
-"text": "Brett Tingley, 'The Navy Finally Speaks Up About Its Bizarre \"UFO Patent\" Experiments', The War Zone, updated 1 February 2021. This is the citation that replaces the board's previous encyclopedia sourcing for the same fact: a named NAWCAD official quoted by a named reporter, giving the window, the sum, the salary share and the result.",
-"tier": "B"
+"text": "Brett Tingley, 'The Navy Finally Speaks Up About Its Bizarre \"UFO Patent\" Experiments', The War Zone, updated 1 February 2021. This is the citation that replaces the board's previous encyclopedia sourcing for the same fact: a named NAWCAD official quoted by a named reporter, giving the window, the sum, the salary share and the result."
 },
 {
+"claimTier": 1,
 "date": "2022-12-26",
+"grade": null,
 "id": "tl-pais-emfg-expiry",
 "label": "US 10,135,366 expires for non-payment of maintenance fees",
 "precision": "day",
 "strand": "program",
-"text": "The first of the two granted Pais patents lapsed for non-payment of the first maintenance fee, five weeks before the inertial mass reduction patent did the same. USPTO had mailed a maintenance fee reminder on 11 July 2022.",
-"tier": "1"
+"text": "The first of the two granted Pais patents lapsed for non-payment of the first maintenance fee, five weeks before the inertial mass reduction patent did the same. USPTO had mailed a maintenance fee reminder on 11 July 2022."
 }
-]
+],
+"unverified": []
 }

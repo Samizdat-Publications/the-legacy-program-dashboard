@@ -141,10 +141,7 @@
 "dateStart": "2010-11-01",
 "deg": 3,
 "denials": [],
-"domains": [
-"propulsion-2026-09-19",
-"w7-dirds-2"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "2",
@@ -164,6 +161,10 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Marc G. Millis",
+"sourceFiles": [
+"propulsion-2026-09-19",
+"w7-dirds-2"
+],
 "sources": [
 {
 "date": "2004",
@@ -214,7 +215,7 @@
 "status": "active",
 "sub": "Former NASA propulsion engineer, founder of the Tau Zero Foundation; author, DIRD 'Cockpits in the Era of Breakthrough Flight' (DIA-08-1011-002)",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 301 of 1170, score 39). 3 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 300 of 1170, score 39). 3 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D3.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": []

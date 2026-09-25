@@ -17,6 +17,7 @@
 ],
 "cls": "institution",
 "cluster": "other",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -67,6 +68,14 @@
 "deg": 2,
 "denials": [
 {
+"a": {
+"id": "ccdc-gvsc",
+"label": "U.S. Army Combat Capabilities Development Command, Ground Vehicle Systems Center"
+},
+"b": {
+"id": "joseph-cannon",
+"label": "Dr. Joseph Cannon"
+},
 "by": {
 "id": "ccdc-gvsc",
 "label": "U.S. Army Combat Capabilities Development Command, Ground Vehicle Systems Center"
@@ -89,9 +98,7 @@
 }
 ],
 "desc": "GVSC is the Army's ground vehicle research laboratory at Detroit Arsenal, part of Combat Capabilities Development Command under Army Futures Command. In October 2019 it became the only U.S. Government organisation ever to sign a public research agreement with a company asserting possession of material from a craft of unknown origin. Its Ground Vehicle Survivability and Protection directorate supplied the principal investigators, Bean Soave and Dr. Joseph Cannon. The laboratory released the CRADA text promptly, on 18 October 2019, but withheld the entire body of associated correspondence four months later, and has never published any characterisation results. Its public affairs posture — that origin is 'immaterial' and that 'we try not to release details on collaborative work until the work itself has reached a conclusion' — is a clean example of an agency holding a documented relationship at arm's length without denying it.",
-"domains": [
-"elizondo-ttsa"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "3",
@@ -105,7 +112,11 @@
 "label": "U.S. Army Combat Capabilities Development Command, Ground Vehicle Systems Center",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "U.S. Army Combat Capabilities Development Command, Ground Vehicle Systems Center",
+"sourceFiles": [
+"elizondo-ttsa"
+],
 "sources": [
 {
 "date": "2020-03-12",
@@ -120,16 +131,18 @@
 ],
 "sub": "Army laboratory, Detroit Arsenal, Warren, Michigan",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 602 of 1170, score 28). 2 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A1/D1.",
+"tierRationale": "Re-graded C on a global pass (rank 596 of 1170, score 28). 2 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A1/D1.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2020-02-21",
+"grade": "A",
 "id": "tl-2020-02-21-army-denial",
 "label": "Army withholds all CRADA correspondence",
 "precision": "day",
 "strand": "coverup",
-"text": "CCDC FOIA Officer Joy L. Linton locates 29 emails totalling 100 pages of TTSA-Army correspondence and denies all of them under exemptions (b)(4) and (b)(5).",
-"tier": "A"
+"text": "CCDC FOIA Officer Joy L. Linton locates 29 emails totalling 100 pages of TTSA-Army correspondence and denies all of them under exemptions (b)(4) and (b)(5)."
 }
-]
+],
+"unverified": []
 }

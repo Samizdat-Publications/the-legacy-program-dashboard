@@ -37,6 +37,7 @@
 ],
 "cls": "event",
 "cluster": "witness",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -207,9 +208,7 @@
 "deg": 7,
 "denials": [],
 "desc": "THIS NODE EXISTS TO STOP ONE SPECIFIC INFERENCE. The Disclosure Project produced two things a month apart: a Briefing Document dated April 2001 printing 68 testimonies, and a press conference on 9 May 2001 at which 20 of the 69 people interviewed for the accompanying book spoke. They are not the same roster and no opened source lists the 20. The ARV build hit this in September 2026 with Mark McCandlish, whose testimony is dated December 2000 and whom no opened record places at the podium, and the problem is structural rather than particular to him: forty-nine interviewees did not speak and nobody has published which forty-nine. Five people are placed at the podium by sources opened on 19 September 2026: John Callahan and Clifford Stone, Major George A. Filer III, Daniel Sheehan and Alfred L. Webre. Two of those attestations are independent of the organiser, because Klass names Callahan and Filer from the coverage and places Stone there by way of Fox News Channel footage. The date, venue and scale are solid, confirmed the same day by ABC News and within weeks by a hostile contemporaneous newsletter. The webcast audience figures that circulate in the literature come from the Project's own publicity and are not carried here.",
-"domains": [
-"disclosure-project-2026-09-19"
-],
+"domains": [],
 "dossier": {
 "claims": [
 {
@@ -283,7 +282,11 @@
 "tier": "B"
 }
 ],
+"openQuestions": [],
 "short": "Disclosure Project, 9 May 2001",
+"sourceFiles": [
+"disclosure-project-2026-09-19"
+],
 "sources": [
 {
 "date": "2001-05-09",
@@ -298,16 +301,22 @@
 ],
 "sub": "The event at which 20 of the Disclosure Project's 69 interviewees spoke publicly; distinct from the April 2001 Briefing Document and carrying a different and largely unknown roster",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 601 of 1170, score 28). 7 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 595 of 1170, score 28). 7 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2001-05-09",
+"grade": "A",
 "id": "tl-2001-05-09-press-club",
 "label": "Disclosure Project press conference at the National Press Club",
 "precision": "day",
 "strand": "witness",
-"text": "About twenty former government workers spoke, out of sixty-nine whose interviews appear in the accompanying book. ABC News covered it the same day. NO OPENED SOURCE LISTS THE TWENTY; five are placed at the podium by opened sources, namely Callahan, Stone, Filer, Sheehan and Webre.",
-"tier": "A"
+"text": "About twenty former government workers spoke, out of sixty-nine whose interviews appear in the accompanying book. ABC News covered it the same day. NO OPENED SOURCE LISTS THE TWENTY; five are placed at the podium by opened sources, namely Callahan, Stone, Filer, Sheehan and Webre."
 }
+],
+"unverified": [
+"The identities of the twenty speakers. web.archive.org is blocked to this session entirely, so no May 2001 capture of the Project's own site was opened; both WorldCat catalogue records for the event recording returned HTTP 403; no C-SPAN record was found.",
+"The webcast audience figures repeated throughout the literature. They originate in the Project's own publicity and no independent source for them was opened.",
+"Whether the event was recorded by C-SPAN or by any broadcaster other than those Klass mentions."
 ]
 }

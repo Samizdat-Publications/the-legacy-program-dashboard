@@ -32,6 +32,7 @@
 ],
 "cls": "institution",
 "cluster": "ic",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -328,6 +329,14 @@
 "deg": 13,
 "denials": [
 {
+"a": {
+"id": "nro",
+"label": "National Reconnaissance Office"
+},
+"b": {
+"id": "nara-uap-collection",
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection"
+},
 "by": {
 "id": "nro",
 "label": "National Reconnaissance Office"
@@ -349,6 +358,14 @@
 ]
 },
 {
+"a": {
+"id": "odni-memo-es-2026-00818",
+"label": "ODNI Memorandum ES 2026-00818 - Preliminary Guidance for Implementation of NDA Waiver"
+},
+"b": {
+"id": "nro",
+"label": "National Reconnaissance Office"
+},
 "by": {
 "id": "nro",
 "label": "National Reconnaissance Office"
@@ -376,10 +393,7 @@
 }
 ],
 "desc": "The NRO is the proof-of-concept for the central claim of this board: that the United States can build, fund and operate a multi-billion-dollar agency for three decades while denying that it exists. Established in 1961 as a joint DoD-CIA activity under a classified DoD directive, the very fact of the NRO's existence was a classified fact until the Deputy Secretary of Defense authorised its disclosure in September 1992; before that, the agency's name could not lawfully be spoken in an unclassified setting, its budget was hidden inside the National Reconnaissance Program, and its headquarters construction at Westfields, Virginia became a congressional scandal in 1994 precisely because the appropriators had not understood what they were funding. The NRO develops, acquires, launches and operates the nation's overhead reconnaissance systems; as of 2026 its published leadership is Acting Director William B. Adkins, and it describes its workforce as 31 percent NRO cadre, 34 percent government personnel detailed from other agencies and 35 percent military. For this board the NRO matters three times over. First, as precedent: an agency concealed for 31 years is the working template for concealment at scale. Second, as a collector: ODNI's 2021 Preliminary Assessment lists the NRO among the contributing elements, meaning NRO overhead systems have produced UAP-relevant data. Third, as the employer of the principal witness: David Grusch appeared before the House Oversight Committee on 26 July 2023 under the title 'Former National Reconnaissance Officer Representative, Unidentified Anomalous Phenomena Task Force, Department of Defense' - Grusch's access to the UAP Task Force was as the NRO's representative to it, which places the NRO inside the chain of custody of the modern allegation rather than outside it.",
-"domains": [
-"_rs-archive-mirror",
-"w2-agencies"
-],
+"domains": [],
 "dossier": {
 "claims": [
 {
@@ -554,7 +568,12 @@
 "tier": "C"
 }
 ],
+"openQuestions": [],
 "short": "National Reconnaissance Office",
+"sourceFiles": [
+"_rs-archive-mirror",
+"w2-agencies"
+],
 "sources": [
 {
 "date": "2026-08-11",
@@ -579,34 +598,38 @@
 ],
 "sub": "Overhead reconnaissance agency whose existence was itself classified for 31 years",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 109 of 1170, score 60). 13 connections, 2 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C2/A3/D2.",
+"tierRationale": "Re-graded A on a global pass (rank 107 of 1170, score 60). 13 connections, 2 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C2/A3/D2.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1961-09-06",
+"grade": "A",
 "id": "ag-tl-1961-nro",
 "label": "NRO established as a classified entity",
 "precision": "month",
 "strand": "coverup",
-"text": "The National Reconnaissance Office is created as a joint DoD-CIA activity under a classified directive. Its existence will be an official secret for the next 31 years - the working proof that concealment at agency scale is achievable.",
-"tier": "A"
+"text": "The National Reconnaissance Office is created as a joint DoD-CIA activity under a classified directive. Its existence will be an official secret for the next 31 years - the working proof that concealment at agency scale is achievable."
 },
 {
+"claimTier": null,
 "date": "1992-09-18",
+"grade": "B",
 "id": "ag-tl-1992-nro",
 "label": "NRO's existence declassified",
 "precision": "month",
 "strand": "oversight",
-"text": "After 31 years the Deputy Secretary of Defense authorises acknowledgement that the National Reconnaissance Office exists. The precedent cuts both ways: it proves concealment at scale is possible, and it proves it eventually ends.",
-"tier": "B"
+"text": "After 31 years the Deputy Secretary of Defense authorises acknowledgement that the National Reconnaissance Office exists. The precedent cuts both ways: it proves concealment at scale is possible, and it proves it eventually ends."
 },
 {
+"claimTier": null,
 "date": "2023-07-26",
+"grade": "A",
 "id": "ag-tl-2023-grusch",
 "label": "Grusch testifies as the NRO's former representative to the UAP Task Force",
 "precision": "day",
 "strand": "witness",
-"text": "The House Oversight Committee takes sworn testimony in 2154 Rayburn. Grusch's official witness title places the National Reconnaissance Office inside the chain of custody of the modern allegation.",
-"tier": "A"
+"text": "The House Oversight Committee takes sworn testimony in 2154 Rayburn. Grusch's official witness title places the National Reconnaissance Office inside the chain of custody of the modern allegation."
 }
-]
+],
+"unverified": []
 }

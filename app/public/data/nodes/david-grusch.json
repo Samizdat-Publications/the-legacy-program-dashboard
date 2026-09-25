@@ -854,7 +854,7 @@
 "url": "https://www.congress.gov/118/meeting/house/116282/documents/HHRG-118-GO06-Transcript-20230726.pdf"
 }
 ],
-"tier": "A",
+"tier": "B",
 "type": "witness-chain"
 },
 {
@@ -1248,29 +1248,13 @@
 "id": "hearing-2023-07-26",
 "l0": true,
 "label": "House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'",
-"note": "Listed in the printed hearing record as a witness; testified under oath.",
+"note": "Grusch testified under oath before the House Oversight national security subcommittee, producing the 40-witness figure, the nonhuman biologics answer, the harm and murder exchanges, and the misappropriation and IR&D funding answers.",
 "sources": [
 {
 "date": "2023-07-26",
 "name": "CHRG-118hhrg53022, printed hearing transcript, 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency', Serial No. 118-53",
 "url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/pdf/CHRG-118hhrg53022.pdf"
-}
-],
-"tier": "A",
-"type": "programmatic"
 },
-{
-"claimTier": 1,
-"cls": "event",
-"dateEnd": null,
-"dateStart": "2023",
-"direction": "out",
-"edgeLabel": "Sworn witness; testified to non-human biologics, named SAPs he could not disclose, and harm to persons",
-"id": "hearing-2023-07-26",
-"l0": true,
-"label": "House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'",
-"note": "Grusch testified under oath before the House Oversight national security subcommittee, producing the 40-witness figure, the nonhuman biologics answer, the harm and murder exchanges, and the misappropriation and IR&D funding answers.",
-"sources": [
 {
 "date": "2023-07-26",
 "name": "U.S. GPO, Hearing transcript, Serial No. 118-53 (CHRG-118hhrg53022)",
@@ -1325,7 +1309,7 @@
 "edgeLabel": "Warner's contractor turn-in targets the same private holders",
 "id": "iaa-fy2024-sec-1102",
 "l0": true,
-"label": "IAA FY2024 Sec. 1102 — contractor turn-in of 'non-earth origin or exotic' UAP material",
+"label": "IAA FY2024 Sec. 1102 - contractor turn-in of 'non-earth origin or exotic' UAP material",
 "note": "Sec. 1102 orders contractors to surrender a list of 'non-earth origin or exotic' material, the category Grusch alleged had been moved to industry.",
 "sources": [
 {
@@ -1632,7 +1616,7 @@
 "url": "https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/"
 }
 ],
-"tier": "B",
+"tier": "A",
 "type": "legislative"
 },
 {
@@ -2192,7 +2176,7 @@
 "edgeLabel": "Grusch identified the Sec. 119 waiver as the statutory route by which programs escape committee reporting",
 "id": "usc-10-119",
 "l0": true,
-"label": "10 U.S.C. 119 — Special Access Programs: Congressional Oversight",
+"label": "10 U.S.C. 119 - Special Access Programs: Congressional Oversight",
 "note": "Grusch described the Secretary's ability to waive congressional reporting and the Gang of Eight backstop for a waived unacknowledged SAP; subsection (e) of the statute contains exactly the waiver he described.",
 "sources": [
 {
@@ -2259,7 +2243,7 @@
 "edgeLabel": "Grusch's allegation is an allegation about this specific legal category",
 "id": "waived-usap-mechanism",
 "l0": true,
-"label": "Waived Unacknowledged SAP (waived USAP) — the mechanism",
+"label": "Waived Unacknowledged SAP (waived USAP) - the mechanism",
 "note": "Grusch's sworn testimony of 26 July 2023 concerned a multi-decade recovery and reverse-engineering effort concealed from Congress; the waived unacknowledged SAP is the only lawful configuration in which DoD reporting is removed from the committees by design.",
 "sources": [
 {
@@ -2309,6 +2293,14 @@
 "deg": 67,
 "denials": [
 {
+"a": {
+"id": "aaro-grusch-interview-memo-2024",
+"label": "AARO Memorandum for Record: Invitations to Interview Mr. David Grusch (8 Jan 2024)"
+},
+"b": {
+"id": "david-grusch",
+"label": "David Charles Grusch"
+},
 "by": {
 "id": "aaro-grusch-interview-memo-2024",
 "label": "AARO Memorandum for Record: Invitations to Interview Mr. David Grusch (8 Jan 2024)"
@@ -2335,6 +2327,14 @@
 ]
 },
 {
+"a": {
+"id": "aaro-historical-record-vol1",
+"label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+},
+"b": {
+"id": "david-grusch",
+"label": "David Charles Grusch"
+},
 "by": {
 "id": "aaro-historical-record-vol1",
 "label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
@@ -2376,6 +2376,14 @@
 ]
 },
 {
+"a": {
+"id": "david-grusch",
+"label": "David Charles Grusch"
+},
+"b": {
+"id": "aaro",
+"label": "All-domain Anomaly Resolution Office (AARO)"
+},
 "by": {
 "id": "david-grusch",
 "label": "David Charles Grusch"
@@ -2402,27 +2410,14 @@
 ]
 },
 {
-"by": {
+"a": {
 "id": "david-grusch",
 "label": "David Charles Grusch"
 },
-"claimTier": 1,
-"denialKind": "association",
-"label": "The office that must approve any contractor's provision of SAP material to Congress",
-"note": "DoDD 5205.07 (2010) para 4.e requires DoD SAPCO approval before any contractor provides SAP material to a member of Congress - the structural barrier a contractor witness would face.",
-"of": {
-"id": "dod-sapco",
-"label": "DoD Special Access Program Central Office (DoD SAPCO)"
+"b": {
+"id": "dia",
+"label": "Defense Intelligence Agency"
 },
-"sources": [
-{
-"date": "2018-08-31",
-"name": "DoD Directive 5205.07, 1 July 2010, Change 1 31 August 2018",
-"url": "https://web.archive.org/web/20190922210932/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf"
-}
-]
-},
-{
 "by": {
 "id": "dia",
 "label": "Defense Intelligence Agency"
@@ -2444,6 +2439,37 @@
 ]
 },
 {
+"a": {
+"id": "david-grusch",
+"label": "David Charles Grusch"
+},
+"b": {
+"id": "dod-sapco",
+"label": "DoD Special Access Program Central Office (DoD SAPCO)"
+},
+"by": null,
+"claimTier": 1,
+"denialKind": "association",
+"label": "The office that must approve any contractor's provision of SAP material to Congress",
+"note": "DoDD 5205.07 (2010) para 4.e requires DoD SAPCO approval before any contractor provides SAP material to a member of Congress - the structural barrier a contractor witness would face.",
+"of": null,
+"sources": [
+{
+"date": "2018-08-31",
+"name": "DoD Directive 5205.07, 1 July 2010, Change 1 31 August 2018",
+"url": "https://web.archive.org/web/20190922210932/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf"
+}
+]
+},
+{
+"a": {
+"id": "dod",
+"label": "United States Department of Defense (secondary designation: Department of War)"
+},
+"b": {
+"id": "david-grusch",
+"label": "David Charles Grusch"
+},
 "by": {
 "id": "dod",
 "label": "United States Department of Defense (secondary designation: Department of War)"
@@ -2465,6 +2491,14 @@
 ]
 },
 {
+"a": {
+"id": "mark-milley",
+"label": "Mark A. Milley"
+},
+"b": {
+"id": "david-grusch",
+"label": "David Charles Grusch"
+},
 "by": {
 "id": "mark-milley",
 "label": "Mark A. Milley"
@@ -2486,6 +2520,14 @@
 ]
 },
 {
+"a": {
+"id": "nyt-2017-12-16",
+"label": "New York Times, 'Glowing Auras and Black Money: The Pentagon's Mysterious U.F.O. Program'"
+},
+"b": {
+"id": "david-grusch",
+"label": "David Charles Grusch"
+},
 "by": {
 "id": "nyt-2017-12-16",
 "label": "New York Times, 'Glowing Auras and Black Money: The Pentagon's Mysterious U.F.O. Program'"
@@ -2512,6 +2554,14 @@
 ]
 },
 {
+"a": {
+"id": "sean-kirkpatrick",
+"label": "Sean M. Kirkpatrick"
+},
+"b": {
+"id": "david-grusch",
+"label": "David Charles Grusch"
+},
 "by": {
 "id": "sean-kirkpatrick",
 "label": "Sean M. Kirkpatrick"
@@ -2538,6 +2588,14 @@
 ]
 },
 {
+"a": {
+"id": "susan-gough",
+"label": "Susan Gough"
+},
+"b": {
+"id": "david-grusch",
+"label": "David Charles Grusch"
+},
 "by": {
 "id": "susan-gough",
 "label": "Susan Gough"
@@ -2565,13 +2623,13 @@
 }
 ],
 "domains": [
-"_rs-archive-mirror",
-"_rs-legislation",
-"congress-senate-legislation",
-"grusch",
-"primes-custody",
-"uaptf-aaro",
-"w2-2025-2026"
+"d-legislative",
+"d-oversight",
+"d-records",
+"d-witness",
+"d-coverup",
+"d-funding",
+"d-custody"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -2647,6 +2705,15 @@
 }
 ],
 "short": "David Charles Grusch",
+"sourceFiles": [
+"_rs-archive-mirror",
+"_rs-legislation",
+"congress-senate-legislation",
+"grusch",
+"primes-custody",
+"uaptf-aaro",
+"w2-2025-2026"
+],
 "sources": [
 {
 "date": "2024-12-13",
@@ -2782,97 +2849,107 @@
 "status": "active",
 "sub": "Former NGA/NRO officer; ICIG complainant; the proximate cause of the UAPDA",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 1 of 1170, score 181). 80 connections, 11 of them custody/funding/programmatic, 10 official denials recorded against it. Axes C2/A3/D3.",
+"tierRationale": "Re-graded A on a global pass (rank 1 of 1170, score 178). 79 connections, 10 of them custody/funding/programmatic, 10 official denials recorded against it. Axes C2/A3/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2019-01-01",
+"grade": "A",
 "id": "g-tl-2019-denial",
 "label": "Read-on request denied",
 "precision": "ranged",
 "strand": "coverup",
-"text": "Grusch testifies he was informed in the course of official duties of a multi-decade UAP crash retrieval and reverse engineering program and was denied the additional read-ons when he requested them. No official account has ever explained the denial or its authority.",
-"tier": "A"
+"text": "Grusch testifies he was informed in the course of official duties of a multi-decade UAP crash retrieval and reverse engineering program and was denied the additional read-ons when he requested them. No official account has ever explained the denial or its authority."
 },
 {
+"claimTier": null,
 "date": "2019-01-01",
+"grade": "A",
 "id": "g-tl-2019-taskforce",
 "label": "Grusch joins UAPTF; tasked to inventory SAPs",
 "precision": "year",
 "strand": "program",
-"text": "As NRO's representative to the UAP Task Force, Grusch is asked by the Task Force Director to identify all special access programs and controlled access programs needed to satisfy the Task Force's congressionally mandated mission. He is, in his sworn words, cleared to literally all relevant compartments.",
-"tier": "A"
+"text": "As NRO's representative to the UAP Task Force, Grusch is asked by the Task Force Director to identify all special access programs and controlled access programs needed to satisfy the Task Force's congressionally mandated mission. He is, in his sworn words, cleared to literally all relevant compartments."
 },
 {
+"claimTier": null,
 "date": "2021-11-01",
+"grade": "A",
 "id": "g-tl-2021-11-nga",
 "label": "Grusch becomes NGA co-lead for UAP analysis",
 "precision": "month",
 "strand": "program",
-"text": "Joins NGA as a GS-15 Senior GEOINT Capabilities Requirements Officer and becomes the agency's co-lead for UAP and trans-medium object analysis, reporting to the UAPTF and later to AARO. Reviewing overhead collection of such events is one of his primary tasks.",
-"tier": "A"
+"text": "Joins NGA as a GS-15 Senior GEOINT Capabilities Requirements Officer and becomes the agency's co-lead for UAP and trans-medium object analysis, reporting to the UAPTF and later to AARO. Reviewing overhead collection of such events is one of his primary tasks."
 },
 {
+"claimTier": null,
 "date": "2023-04-07",
+"grade": "A",
 "id": "g-tl-2023-04-departure",
 "label": "Grusch leaves federal service",
 "precision": "day",
 "strand": "witness",
-"text": "He departs NGA and the government to pursue accountability through public disclosure, his information cutoff date for anything he can attest to from inside.",
-"tier": "A"
+"text": "He departs NGA and the government to pursue accountability through public disclosure, his information cutoff date for anything he can attest to from inside."
 },
 {
+"claimTier": null,
 "date": "2023-07-26",
+"grade": "A",
 "id": "ch-2023-07-26c",
 "label": "Non-human biologics, under oath",
 "precision": "day",
 "strand": "witness",
-"text": "Answering Mace, Grusch testifies that biologics came with some recoveries and that they were assessed non-human by people with direct knowledge still on the program.",
-"tier": "A"
+"text": "Answering Mace, Grusch testifies that biologics came with some recoveries and that they were assessed non-human by people with direct knowledge still on the program."
 },
 {
+"claimTier": null,
 "date": "2023-07-26",
+"grade": "A",
 "id": "cl-2023-07-26",
 "label": "House Oversight hearing",
 "precision": "day",
 "strand": "witness",
-"text": "Grusch testifies under oath, thirteen days after the amendment premised on his allegations is filed.",
-"tier": "A"
+"text": "Grusch testifies under oath, thirteen days after the amendment premised on his allegations is filed."
 },
 {
+"claimTier": null,
 "date": "2023-07-26",
+"grade": "A",
 "id": "tl-hoc-2023-07-26",
 "label": "Grusch testifies under oath",
 "precision": "day",
 "strand": "witness",
-"text": "House Oversight hearing at which Grusch testifies that the UAP Task Force Director tasked him to inventory relevant SAPs and that the read-ons were refused.",
-"tier": "A"
+"text": "House Oversight hearing at which Grusch testifies that the UAP Task Force Director tasked him to inventory relevant SAPs and that the read-ons were refused."
 },
 {
+"claimTier": null,
 "date": "2026-05-05",
+"grade": "B",
 "id": "g-tl-2026-05-judicialwatch",
 "label": "Judicial Watch On Watch interview",
 "precision": "day",
 "strand": "witness",
-"text": "Grusch restates to Chris Farrell that elements of the US government thwarted congressional oversight, withheld information from proper executive branch officials, and illegally concealed recovery and reverse-engineering programs.",
-"tier": "B"
+"text": "Grusch restates to Chris Farrell that elements of the US government thwarted congressional oversight, withheld information from proper executive branch officials, and illegally concealed recovery and reverse-engineering programs."
 },
 {
+"claimTier": null,
 "date": "2026-06-09",
+"grade": "B",
 "id": "tl-ffrdc-2026-grusch-presser",
 "label": "Grusch joins Task Force members on UAP declassification",
 "precision": "day",
 "strand": "oversight",
-"text": "David Grusch appears with bipartisan members of the House Oversight Task Force on the Declassification of Federal Secrets, arguing agencies continue to resist congressional efforts and that spending has been hidden.",
-"tier": "B"
+"text": "David Grusch appears with bipartisan members of the House Oversight Task Force on the Declassification of Federal Secrets, arguing agencies continue to resist congressional efforts and that spending has been hidden."
 },
 {
+"claimTier": 2,
 "date": "2026-06-09",
+"grade": null,
 "id": "tl-grusch-presser",
 "label": "Grusch speaks on the Capitol steps at a Luna press conference",
 "precision": "day",
 "strand": "witness",
-"text": "David Grusch tells reporters the government is aware of 'several' kinds of alien life, describing 'a continuum from corporeal bipedal type life to what I would consider as sentient plasmoid life,' and references four different species. It is his most specific public claim about biology.",
-"tier": "2"
+"text": "David Grusch tells reporters the government is aware of 'several' kinds of alien life, describing 'a continuum from corporeal bipedal type life to what I would consider as sentient plasmoid life,' and references four different species. It is his most specific public claim about biology."
 }
 ],
 "unexplainedResidual": "A GS-15 with PDB-level access was formally tasked to enumerate all SAPs and CAPs bearing on a congressionally mandated mission - and was refused. No official account has ever explained what he was refused access to, or under whose authority the refusal was issued.",

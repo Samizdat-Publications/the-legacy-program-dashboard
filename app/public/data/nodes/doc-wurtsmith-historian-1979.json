@@ -22,6 +22,7 @@
 ],
 "cls": "document",
 "cluster": "legacy",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -72,9 +73,7 @@
 "deg": 2,
 "denials": [],
 "desc": "THE METHODOLOGICALLY MOST IMPORTANT DOCUMENT PAIR IN THIS CLUSTER. On 17 January 1979 SSgt Paul J. Cahill, historian of the 379th Bombardment Wing at Wurtsmith AFB, wrote a Research Record of Events recording that he had checked the October to December 1975 Wing History for the 30 October 1975 incursion and found no references to it. The following day Capt. Myron Taylor, an instructor navigator who had been aboard the KC-135 that pursued the object over Lake Huron, wrote Cahill a Memo for the Record giving the crew's account and naming the crew. The pair matters to this board beyond the Wurtsmith case: it is a documented instance of an Air Force unit history omitting an event that other Air Force paper records, discovered and written down by the unit historian himself. Any argument anywhere on this board that proceeds from a unit history's silence, including the sceptical argument about Echo Flight, has to be read against it.",
-"domains": [
-"nuclear-witnesses-2026-09-19"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "1",
@@ -88,7 +87,11 @@
 "label": "379th Bomb Wing historian's file on the Wurtsmith incursion, 17 to 18 January 1979",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "379th Bomb Wing historian's file on the Wurtsmith incursion, 17 to 18 January 1979",
+"sourceFiles": [
+"nuclear-witnesses-2026-09-19"
+],
 "sources": [
 {
 "date": "1979-01-18",
@@ -111,13 +114,18 @@
 "tierRationale": "Re-graded C on a global pass (rank 887 of 1170, score 19). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D2.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1979-01-17",
+"grade": "B",
 "id": "tl-1979-01-17-wurtsmith-historian",
 "label": "A wing historian records that his own wing history omits the incursion",
 "precision": "day",
 "strand": "coverup",
-"text": "SSgt Paul J. Cahill, historian of the 379th Bombardment Wing, wrote in a Research Record of Events: 'Following that request, I checked the Oct-Dec 75 Wing History and found no references to the incident.' The following day Capt. Myron Taylor wrote him a Memo for the Record giving the KC-135 crew's account. This is the board's one documented instance of an Air Force unit history omitting an event that other Air Force paper records, found and written down by the unit historian himself.",
-"tier": "B"
+"text": "SSgt Paul J. Cahill, historian of the 379th Bombardment Wing, wrote in a Research Record of Events: 'Following that request, I checked the Oct-Dec 75 Wing History and found no references to the incident.' The following day Capt. Myron Taylor wrote him a Memo for the Record giving the KC-135 crew's account. This is the board's one documented instance of an Air Force unit history omitting an event that other Air Force paper records, found and written down by the unit historian himself."
 }
+],
+"unverified": [
+"Both memoranda were NOT OPENED in facsimile; both are quoted from NICAP's reproduction of material sourced to Clear Intent.",
+"Whether the 379th Bombardment Wing History was subsequently amended."
 ]
 }

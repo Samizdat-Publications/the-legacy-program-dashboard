@@ -74,7 +74,8 @@
 "deg": 2,
 "denials": [],
 "domains": [
-"primes-custody"
+"d-custody",
+"d-coverup"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -95,6 +96,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Dr. James Ryder",
+"sourceFiles": [
+"primes-custody"
+],
 "sources": [
 {
 "date": "2025-09-09",

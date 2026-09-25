@@ -117,7 +117,7 @@
 "deg": 3,
 "denials": [],
 "domains": [
-"michels-2026-09-02"
+"d-intel"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -138,6 +138,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Lt. Gen. Arthur G. Trudeau",
+"sourceFiles": [
+"michels-2026-09-02"
+],
 "sources": [
 {
 "date": "1958-01-18",

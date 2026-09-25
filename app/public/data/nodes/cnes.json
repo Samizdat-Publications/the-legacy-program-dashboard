@@ -22,6 +22,7 @@
 ],
 "cls": "institution",
 "cluster": "research",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -56,9 +57,7 @@
 "deg": 1,
 "denials": [],
 "desc": "CNES is the French national space agency and the only space agency in the world that has hosted a permanent UAP office continuously for nearly fifty years. GEPAN was created inside it in 1977 under director general Yves Sillard, on the recommendation of the 1976 IHEDN committee; it became SEPRA in 1988 and GEIPAN in 2005. Norlain's preface to the COMETA report describes the result as 'the only civilian government agency known in the world dedicated to the study of UFOs'. The arrangement gives the office two things no Anglo-American body has had: routine national police reporting into a civil scientific agency, and access to a space agency's laboratory and imaging resources for physical-trace and image-authentication work. CNES also published, in 2007, the book Phénomènes aérospatiaux non identifiés: un défi pour la science under the editorship of Yves Sillard, the former director general who had authorised GEPAN's creation - a former head of the agency returning thirty years later to argue the subject is a challenge for science. In March 2007 GEIPAN opened its archives online.",
-"domains": [
-"w2-international"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -72,7 +71,11 @@
 "label": "Centre National d'Études Spatiales (CNES)",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Centre National d'Études Spatiales (CNES)",
+"sourceFiles": [
+"w2-international"
+],
 "sources": [
 {
 "date": "1999-07-01",
@@ -87,6 +90,7 @@
 ],
 "sub": "French national space agency; host of GEPAN, SEPRA and GEIPAN since 1977",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 859 of 1170, score 20). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D3.",
-"timeline": []
+"tierRationale": "Re-graded C on a global pass (rank 861 of 1170, score 20). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D3.",
+"timeline": [],
+"unverified": []
 }

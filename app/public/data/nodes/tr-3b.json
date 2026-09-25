@@ -52,6 +52,10 @@
 ],
 "cls": "program",
 "cluster": "witness",
+"conflicts": [
+"The originating artefact gives the operational craft two sizes two slides apart, 600 feet at slide 69 and 300 feet at slide 70, with a 200 foot prototype. No later carrier of the claim that was opened acknowledges the discrepancy.",
+"The artefact asserts 'The TR-3B flying triangle is not fiction' in the same summer as the publication of the book it was given to promote, which the Library of Congress catalogues under the genre heading 'Science fiction.' with the subject 'Alien abduction - Fiction'. The claimant's own anticipation of the objection and the national library's cataloguing decision are on opposite sides of the same question."
+],
 "connections": [
 {
 "claimTier": 3,
@@ -322,18 +326,20 @@
 "deg": 12,
 "denials": [
 {
-"by": {
+"a": {
 "id": "northrop-tacit-blue",
 "label": "Northrop TACIT BLUE"
 },
+"b": {
+"id": "tr-3b",
+"label": "TR-3B 'Astra', claimed black triangular aircraft"
+},
+"by": null,
 "claimTier": 1,
 "denialKind": "association",
 "label": "The real black-programme aircraft of the period is 48 feet across and curved, not a 200 to 600 foot triangle",
 "note": "THIS EDGE EXISTS SPECIFICALLY TO STOP A LATER SESSION DRAWING THE SUPPORTIVE VERSION OF IT. The brief that produced this build asked for the reported analysis that the TR-3B derives from or is confused with TACIT BLUE. That analysis was searched for and NOT FOUND, and the USAF's own fact sheet argues against it: curved surfaces rather than a triangle, 48 ft 2 in span, programme concluded 1985, on public display since 1996.",
-"of": {
-"id": "tr-3b",
-"label": "TR-3B 'Astra', claimed black triangular aircraft"
-},
+"of": null,
 "sources": [
 {
 "date": "2026-09-18",
@@ -343,6 +349,14 @@
 ]
 },
 {
+"a": {
+"id": "peter-merlin",
+"label": "Peter W. Merlin"
+},
+"b": {
+"id": "tr-3b",
+"label": "TR-3B 'Astra', claimed black triangular aircraft"
+},
 "by": {
 "id": "peter-merlin",
 "label": "Peter W. Merlin"
@@ -364,18 +378,20 @@
 ]
 },
 {
-"by": {
+"a": {
 "id": "testors-sr-75-kit",
 "label": "Testor Corp. SR-75 Penetrator and XR-7 Thunderdart model kits, 1993"
 },
+"b": {
+"id": "tr-3b",
+"label": "TR-3B 'Astra', claimed black triangular aircraft"
+},
+"by": null,
 "claimTier": 3,
 "denialKind": "association",
 "label": "Prior art: the SR-75 Penetrator designation and mothership architecture published commercially in 1993",
 "note": "A stated inference and graded 3 accordingly. The designation and the mothership architecture are published, dated and boxed in 1993 with a named designer, and the Air Force told the same newspaper 'such a plane does not exist'. They reappear in 1998 as inside knowledge. The direction of priority is documented and one-directional; the direction of influence is not established and must not be inverted by a later session.",
-"of": {
-"id": "tr-3b",
-"label": "TR-3B 'Astra', claimed black triangular aircraft"
-},
+"of": null,
 "sources": [
 {
 "date": "1993-12-25",
@@ -390,18 +406,20 @@
 ]
 },
 {
-"by": {
+"a": {
 "id": "tr-3b",
 "label": "TR-3B 'Astra', claimed black triangular aircraft"
 },
+"b": {
+"id": "darpa",
+"label": "Defense Advanced Research Projects Agency"
+},
+"by": null,
 "claimTier": 1,
 "denialKind": "association",
 "label": "The Fouche file's DARPA invocation rests on a letter from a personnel office",
 "note": "DARPA is the single most reused word in the Fouche corpus and the board's existing darpa node should carry this explicitly. The document that carries the invocation bears no classification marking, is signed by a technical sergeant in an assignments section of a personnel directorate, and is captioned by Fouche himself with the agency's name wrong, as 'Defense Advanced Research Agency'.",
-"of": {
-"id": "darpa",
-"label": "Defense Advanced Research Projects Agency"
-},
+"of": null,
 "sources": [
 {
 "date": "1984-07-10",
@@ -417,10 +435,7 @@
 }
 ],
 "desc": "The TR-3B is a CLAIMED craft for whose existence no record has been opened, and the board carries it as a claim and not as an object: every substantive description of it descends from a single named man's speaking script, which he copyrighted himself in August 1998 and which attributes the sighting itself to an unnamed friend. Everything on this node is therefore a description of a claim. One artefact carries that description and is why the node exists: the 62 page transcript headed 'Presentation to IUFOR by Edgar Rothshild Fouche / Copyright Aug. 1998 / Fouche Media Associates', in which slides 69 to 72 give the craft its designation and code name Astra, place it at Papoose, attribute it to 'the Top Secret, Aurora Program with SDI and black budget monies', name the National Reconnaissance Office, the NSA and the CIA as its funders and taskers, name Sandia and Livermore as developers of its propulsion, and specify 'a circular, plasma filled accelerator ring called the Magnetic Field Disrupter' running a 'mercury based' plasma 'pressurized at 250,000 atmospheres at a temperature of 150 degrees Kelvin and accelerated to 50,000 rpm'. THE DOCUMENT CONTRADICTS ITSELF ABOUT THE SIZE OF THE CRAFT TWO SLIDES APART: slide 69 says 'The operational model is 600 feet across' and slide 70 says 'The 200 feet Prototype & the 300 feet Operational TR-3Bs are Code named Astra'. Both sentences are in the same document, in sequence, and nobody outside it has to adjudicate that. Three further things constrain this node. The presentation was given in the same summer as, and in order to promote, a book the Library of Congress catalogues as science fiction, LCCN 98002961, genre heading 'Science fiction.', subject 'Alien abduction - Fiction'. The propulsion specification is refuted by the freezing point of its own stated working fluid: NIST gives mercury a melting point of 234.31 K, and 150 K is 84 K below that. And the presentation's companion craft, the 'SR-75 Penetrator', is the name of a Testors plastic model kit of a speculative aircraft sold from 1993, five years earlier, about which the Air Force told the Baltimore Sun 'such a plane does not exist'.",
-"domains": [
-"propulsion-2026-09-19",
-"tr3b-2026-09-18"
-],
+"domains": [],
 "dossier": {
 "claims": [
 {
@@ -525,7 +540,12 @@
 "tier": "C"
 }
 ],
+"openQuestions": [],
 "short": "TR-3B 'Astra' (claimed)",
+"sourceFiles": [
+"propulsion-2026-09-19",
+"tr3b-2026-09-18"
+],
 "sources": [
 {
 "date": "2004",
@@ -558,13 +578,19 @@
 "tierRationale": "Re-graded A on a global pass (rank 132 of 1170, score 55). 12 connections, 0 of them custody/funding/programmatic, 4 official denials recorded against it. Axes C0/A0/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2011-07-26",
+"grade": "C",
 "id": "tl-2011-07-26-petit-rechain-confession",
 "label": "The most-reproduced black triangle photograph is confessed as a hoax on Belgian television",
 "precision": "day",
 "strand": "witness",
-"text": "Robert Sheaffer records that on 26 July 2011 the Belgian broadcaster RTL carried the photographer's confession about the Petit-Rechain image of the 1989-90 Belgian wave: 'The UFO of Petit-Rechain is not a spaceship from a distant galaxy but a panel of painted styrofoam with three spots affixed', and, from the maker, 'One has managed to fool the whole world with a silly model made of styrofoam.' Fouche's 1998 presentation had attached his craft to 'the country of Belgium' at slide 6. This does not touch the eyewitness reports and it decides nothing about Fouche; it records that the visual corpus the claim borrows plausibility from has a confessed hoax at its centre.",
-"tier": "C"
+"text": "Robert Sheaffer records that on 26 July 2011 the Belgian broadcaster RTL carried the photographer's confession about the Petit-Rechain image of the 1989-90 Belgian wave: 'The UFO of Petit-Rechain is not a spaceship from a distant galaxy but a panel of painted styrofoam with three spots affixed', and, from the maker, 'One has managed to fool the whole world with a silly model made of styrofoam.' Fouche's 1998 presentation had attached his craft to 'the country of Belgium' at slide 6. This does not touch the eyewitness reports and it decides nothing about Fouche; it records that the visual corpus the claim borrows plausibility from has a confessed hoax at its centre."
 }
+],
+"unverified": [
+"Any official record using the designation 'TR-3B'. No FOIA response, budget line, unit history, procurement document or fact sheet containing the string was located by this research. That is a negative search result and is not offered as proof of absence.",
+"The identity of the 'friend' whose sighting the whole account rests on at slide 69. The artefact names no one and no corroborating account was opened.",
+"Whether and how the TR-3B appears in Alien Rapture: The Chosen. No copy of the book's text was opened, so the relationship between the novel's narrative and the presentation's technical passage is unknown."
 ]
 }

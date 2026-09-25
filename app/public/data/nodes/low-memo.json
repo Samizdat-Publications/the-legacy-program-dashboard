@@ -27,6 +27,7 @@
 ],
 "cls": "document",
 "cluster": "research",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -119,6 +120,14 @@
 "deg": 4,
 "denials": [
 {
+"a": {
+"id": "low-memo",
+"label": "Low Memorandum (\"the trick would be...\")"
+},
+"b": {
+"id": "l-boulder-co",
+"label": "Boulder, Colorado"
+},
 "by": {
 "id": "low-memo",
 "label": "Low Memorandum (\"the trick would be...\")"
@@ -141,9 +150,7 @@
 }
 ],
 "desc": "A two-page internal memorandum written by Robert J. Low, assistant dean of the University of Colorado graduate school, on 9 August 1966 — two months before the Air Force contract for the UFO study was signed — advising two senior administrators on how the university could take the money without damaging its scientific reputation. Low writes that the study 'would be conducted almost entirely by nonbelievers' who 'could and probably would add an impressive body of thick evidence that there is no reality to the observations', and then the sentence that defines the document: 'The trick would be, I think, to describe the project so that, to the public, it would appear a totally objective study but, to the scientific community, would present the image of a group of nonbelievers.' Project investigators David Saunders and Norman Levine found it in the files, and it reached John G. Fuller, who published it in Look magazine in May 1968 under the title 'Flying Saucer Fiasco', characterising the project as a half-million-dollar trick. Condon fired both men. The memo did not stop the report being issued, adopted by the National Academy of Sciences, and used to shut down Project Blue Book. It is the clearest surviving evidence that the terminal official study of the legacy era was designed with a predetermined public posture.",
-"domains": [
-"history-1940s-1960s"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -157,7 +164,11 @@
 "label": "Low Memorandum (\"the trick would be...\")",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Low Memorandum (\"the trick would be...\")",
+"sourceFiles": [
+"history-1940s-1960s"
+],
 "sources": [
 {
 "date": "1968-11-01",
@@ -170,22 +181,25 @@
 "tierRationale": "Re-graded C on a global pass (rank 663 of 1170, score 26). 4 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1966-08-09",
+"grade": "A",
 "id": "tl-1966-08-09",
 "label": "The Low memo",
 "precision": "day",
 "strand": "coverup",
-"text": "Two months before the Air Force contract is signed, project coordinator Robert Low writes that 'the trick would be' to appear a totally objective study to the public while presenting the image of nonbelievers to scientists.",
-"tier": "A"
+"text": "Two months before the Air Force contract is signed, project coordinator Robert Low writes that 'the trick would be' to appear a totally objective study to the public while presenting the image of nonbelievers to scientists."
 },
 {
+"claimTier": null,
 "date": "1968-05-01",
+"grade": "B",
 "id": "tl-1968-05",
 "label": "Look publishes 'Flying Saucer Fiasco'",
 "precision": "month",
 "strand": "oversight",
-"text": "John G. Fuller publishes the Low memo, calling the project a $500,000 trick. Condon fires investigators David Saunders and Norman Levine.",
-"tier": "B"
+"text": "John G. Fuller publishes the Low memo, calling the project a $500,000 trick. Condon fires investigators David Saunders and Norman Levine."
 }
-]
+],
+"unverified": []
 }

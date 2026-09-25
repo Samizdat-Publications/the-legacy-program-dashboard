@@ -22,6 +22,7 @@
 ],
 "cls": "document",
 "cluster": "witness",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -114,6 +115,14 @@
 "deg": 4,
 "denials": [
 {
+"a": {
+"id": "joseph-gradisher",
+"label": "Joseph Gradisher"
+},
+"b": {
+"id": "dd-form-1910-2017",
+"label": "DD Form 1910 for GoFast, Gimbal and FLIR video files"
+},
 "by": {
 "id": "joseph-gradisher",
 "label": "Joseph Gradisher"
@@ -136,9 +145,7 @@
 }
 ],
 "desc": "A Department of Defense Clearance Request for Public Release of Department of Defense Information, submitted by Luis D. Elizondo in his capacity as Director, National Programs Special Management Staff, OUSD(I), on 9 August 2017 and approved on 24 August 2017. It covers three .mpg files named 'GoFast', 'Gimbal' and 'FLIR'. The stated purpose is precise and, read carefully, does not authorise publication: 'Not for publication. Research and analysis ONLY and info sharing with other USG and industry partners for the purposes of developing a database to help identify, analyze, and ultimately defeat UAS threats.' The subject matter is described in terms of UAV, balloons and other unmanned aircraft systems, with no reference to unidentified phenomena. This one form carries most of the weight in the dispute over how the videos entered the public record: it proves Elizondo processed the AATIP-associated imagery from inside OUSD(I) in August 2017, and it simultaneously undercuts the claim that the government cleared the footage for public release. The Navy's Joseph Gradisher later stated that neither the cognizant Navy offices nor DOPSR had any record of a request for unrestricted release in 2017.",
-"domains": [
-"elizondo-ttsa"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "3",
@@ -152,7 +159,11 @@
 "label": "DD Form 1910 for GoFast, Gimbal and FLIR video files",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "DD Form 1910 for GoFast, Gimbal and FLIR video files",
+"sourceFiles": [
+"elizondo-ttsa"
+],
 "sources": [
 {
 "date": "2019-08-17",
@@ -167,34 +178,38 @@
 ],
 "sub": "Clearance request submitted 9 August 2017, approved 24 August 2017",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 210 of 1170, score 45). 4 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 207 of 1170, score 45). 4 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2017-08-09",
+"grade": "A",
 "id": "tl-2017-08-09-dd1910",
 "label": "DD Form 1910 submitted",
 "precision": "day",
 "strand": "program",
-"text": "Elizondo, as Director of the National Programs Special Management Staff, submits a clearance request for three .mpg files — GoFast, Gimbal and FLIR — for research and analysis only, expressly 'not for publication'.",
-"tier": "A"
+"text": "Elizondo, as Director of the National Programs Special Management Staff, submits a clearance request for three .mpg files — GoFast, Gimbal and FLIR — for research and analysis only, expressly 'not for publication'."
 },
 {
+"claimTier": null,
 "date": "2017-08-24",
+"grade": "A",
 "id": "tl-2017-08-24-dd1910-approved",
 "label": "DD Form 1910 approved",
 "precision": "day",
 "strand": "program",
-"text": "The clearance request is approved. Forty-one days later Elizondo resigns; six weeks after that the files appear in the New York Times.",
-"tier": "A"
+"text": "The clearance request is approved. Forty-one days later Elizondo resigns; six weeks after that the files appear in the New York Times."
 },
 {
+"claimTier": null,
 "date": "2019-08-17",
+"grade": "A",
 "id": "tl-2019-08-17-dd1910-public",
 "label": "DD Form 1910 released via FOIA",
 "precision": "day",
 "strand": "oversight",
-"text": "The unredacted form is published, identifying Elizondo by name and OUSD(I) title as the officer who cleared the three video files in August 2017.",
-"tier": "A"
+"text": "The unredacted form is published, identifying Elizondo by name and OUSD(I) title as the officer who cleared the three video files in August 2017."
 }
-]
+],
+"unverified": []
 }

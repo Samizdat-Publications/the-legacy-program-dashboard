@@ -22,6 +22,7 @@
 ],
 "cls": "legislation",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -124,9 +125,7 @@
 "deg": 4,
 "denials": [],
 "desc": "The reintroduction, filed 29 August 2025 by Burchett with Luna and Eli Crane as cosponsors, eleven days before the Task Force hearing at which Burlison told the room 'It is fantastic. It is the language that we need. It is language that will protect whistleblowers from any kind of reprisal, and yet it is again and again blocked by this body in some way. Many times, it is being blocked not by elected officials but by staff behind the scenes.' It establishes protections for federal employees who disclose information about government-funded research into UAP-related materials and phenomena. Referred to Oversight and Government Reform and additionally to Armed Services and Intelligence. No markup as of August 2026. Its practical importance is that it is the legislative instrument that would cover Dylan Borland and David Grusch, both of whom testified to the committee about reprisal while the bill sat in referral.",
-"domains": [
-"congress-house"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "3",
@@ -140,7 +139,11 @@
 "label": "H.R. 5060 - UAP Whistleblower Protection Act (119th Congress)",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "H.R. 5060 - UAP Whistleblower Protection Act (119th Congress)",
+"sourceFiles": [
+"congress-house"
+],
 "sources": [
 {
 "date": "2025-08-29",
@@ -168,13 +171,15 @@
 "tierRationale": "Re-graded C on a global pass (rank 882 of 1170, score 19). 4 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D2.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2025-08-29",
+"grade": "B",
 "id": "ch-2025-08-29",
 "label": "Whistleblower bill refiled",
 "precision": "day",
 "strand": "oversight",
-"text": "Burchett reintroduces the UAP Whistleblower Protection Act as H.R. 5060 with Luna and Crane.",
-"tier": "B"
+"text": "Burchett reintroduces the UAP Whistleblower Protection Act as H.R. 5060 with Luna and Crane."
 }
-]
+],
+"unverified": []
 }

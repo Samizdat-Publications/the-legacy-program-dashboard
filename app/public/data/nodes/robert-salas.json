@@ -247,6 +247,14 @@
 "deg": 5,
 "denials": [
 {
+"a": {
+"id": "james-carlson",
+"label": "James Carlson"
+},
+"b": {
+"id": "robert-salas",
+"label": "Capt. Robert L. Salas"
+},
 "by": {
 "id": "james-carlson",
 "label": "James Carlson"
@@ -269,8 +277,9 @@
 }
 ],
 "domains": [
-"nuclear-witnesses-2026-09-19",
-"w2-retrieval-literature"
+"d-nuclear",
+"d-witness",
+"d-disclosure"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -291,6 +300,10 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Capt. Robert L. Salas",
+"sourceFiles": [
+"nuclear-witnesses-2026-09-19",
+"w2-retrieval-literature"
+],
 "sources": [
 {
 "date": "2025-07-12",
@@ -346,7 +359,7 @@
 "status": "active",
 "sub": "USAF Academy graduate; Minuteman missile launch officer, 341st SMW, Malmstrom AFB, March 1967",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 192 of 1170, score 46). 5 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 190 of 1170, score 46). 5 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D3.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": [

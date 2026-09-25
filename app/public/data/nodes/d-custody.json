@@ -17,6 +17,7 @@
 ],
 "cls": "domain",
 "cluster": "research",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 3,
@@ -307,6 +308,14 @@
 "deg": 12,
 "denials": [
 {
+"a": {
+"id": "nasa-uapist",
+"label": "NASA Unidentified Anomalous Phenomena Independent Study Team"
+},
+"b": {
+"id": "d-custody",
+"label": "Chain of custody"
+},
 "by": {
 "id": "nasa-uapist",
 "label": "NASA Unidentified Anomalous Phenomena Independent Study Team"
@@ -333,18 +342,20 @@
 ]
 },
 {
-"by": {
+"a": {
 "id": "uap-science-advisory-council",
 "label": "UAP Science Advisory Council"
 },
+"b": {
+"id": "d-custody",
+"label": "Chain of custody"
+},
+"by": null,
 "claimTier": 2,
 "denialKind": "association",
 "label": "No budget, no classified access - constitutionally unable to reach the material",
 "note": "The Associated Press reported the council has no budget and no access to classified material, and the Sol Foundation confirmed all shared data is unclassified. An advisory body denied money and clearances cannot audit a special access programme.",
-"of": {
-"id": "d-custody",
-"label": "Chain of custody"
-},
+"of": null,
 "sources": [
 {
 "date": "2026-06-30",
@@ -360,9 +371,7 @@
 }
 ],
 "desc": "The custody domain tracks the documentary handoffs themselves rather than the objects. Its findings on this board are mostly negative and that is the point: To The Stars Academy's own chief operating officer, a former Lockheed Skunk Works advanced systems director, publicly conceded that the ADAM materials had been 'collected from sources with varying levels of chain-of-custody documentation'. The DIA-funded AAWSAP DIRD series is exemplary at documenting the flow of paper - control numbers, fiscal years, named programme managers, contractor addresses - and silent on the flow of objects. No released document in the AAWSAP corpus records the receipt, transfer or storage of a physical sample. That asymmetry is the single most important structural observation in this domain: the government's own released record proves that it commissioned propulsion theory, materials science and injury pathology, and proves nothing about what it was holding while it did so.",
-"domains": [
-"scientists-technical"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -376,7 +385,11 @@
 "label": "Chain of custody",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Chain of custody",
+"sourceFiles": [
+"scientists-technical"
+],
 "sources": [
 {
 "date": "2026-08-12",
@@ -397,5 +410,6 @@
 "sub": "Cross-cutting domain: who held what, when, and under what documentation",
 "tier": "A",
 "tierRationale": "Re-graded A on a global pass (rank 73 of 1170, score 71). 12 connections, 8 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C3/A2/D2.",
-"timeline": []
+"timeline": [],
+"unverified": []
 }

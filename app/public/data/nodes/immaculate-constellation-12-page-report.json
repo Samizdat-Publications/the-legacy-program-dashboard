@@ -87,6 +87,7 @@
 ],
 "cls": "document",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 3,
@@ -419,6 +420,43 @@
 "deg": 12,
 "denials": [
 {
+"a": {
+"id": "dod",
+"label": "United States Department of Defense (secondary designation: Department of War)"
+},
+"b": {
+"id": "immaculate-constellation-12-page-report",
+"label": "Immaculate Constellation 12-page report entered into the Congressional Record"
+},
+"by": {
+"id": "dod",
+"label": "United States Department of Defense (secondary designation: Department of War)"
+},
+"claimTier": 2,
+"denialKind": "directed",
+"label": "Pentagon says it has no record of the program described in the document entered into the Congressional Record",
+"note": "Pentagon spokesperson Sue Gough stated DoD has 'no record' of such a program; Kirkpatrick also denied it. The document remains in the Record.",
+"of": {
+"id": "immaculate-constellation-12-page-report",
+"label": "Immaculate Constellation 12-page report entered into the Congressional Record"
+},
+"sources": [
+{
+"date": "2024-11-13",
+"name": "U.S. GPO, Hearing transcript, Serial No. 118-135 (CHRG-118hhrg57440)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm"
+}
+]
+},
+{
+"a": {
+"id": "immaculate-constellation-12-page-report",
+"label": "Immaculate Constellation 12-page report entered into the Congressional Record"
+},
+"b": {
+"id": "aaro-fy2025-annual-report",
+"label": "AARO FY2025 Consolidated Annual Report on UAP"
+},
 "by": {
 "id": "aaro-fy2025-annual-report",
 "label": "AARO FY2025 Consolidated Annual Report on UAP"
@@ -450,27 +488,14 @@
 ]
 },
 {
-"by": {
-"id": "dod",
-"label": "United States Department of Defense (secondary designation: Department of War)"
+"a": {
+"id": "sean-kirkpatrick",
+"label": "Sean M. Kirkpatrick"
 },
-"claimTier": 2,
-"denialKind": "directed",
-"label": "Pentagon says it has no record of the program described in the document entered into the Congressional Record",
-"note": "Pentagon spokesperson Sue Gough stated DoD has 'no record' of such a program; Kirkpatrick also denied it. The document remains in the Record.",
-"of": {
+"b": {
 "id": "immaculate-constellation-12-page-report",
 "label": "Immaculate Constellation 12-page report entered into the Congressional Record"
 },
-"sources": [
-{
-"date": "2024-11-13",
-"name": "U.S. GPO, Hearing transcript, Serial No. 118-135 (CHRG-118hhrg57440)",
-"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm"
-}
-]
-},
-{
 "by": {
 "id": "sean-kirkpatrick",
 "label": "Sean M. Kirkpatrick"
@@ -497,18 +522,20 @@
 ]
 },
 {
-"by": {
+"a": {
 "id": "susan-gough",
 "label": "Susan Gough"
 },
-"claimTier": 2,
-"denialKind": null,
-"label": "Department says it has no record of the programme",
-"note": "Gough's 'no record' statement is the Department's entire published response to a document in the Congressional Record; no documentary rebuttal has been produced.",
-"of": {
+"b": {
 "id": "immaculate-constellation-12-page-report",
 "label": "Immaculate Constellation 12-page report entered into the Congressional Record"
 },
+"by": null,
+"claimTier": 2,
+"denialKind": "directed",
+"label": "Department says it has no record of the programme",
+"note": "Gough's 'no record' statement is the Department's entire published response to a document in the Congressional Record; no documentary rebuttal has been produced.",
+"of": null,
 "sources": [
 {
 "date": "2024-11-13",
@@ -524,10 +551,7 @@
 }
 ],
 "desc": "The twelve-page document Michael Shellenberger delivered to Congress on the morning of 13 November 2024 and that Chairwoman Nancy Mace moved into the Congressional Record from the dais, describing it in the hearing's Index of Documents as 'Report, Pentagon, Immaculate Constellation; submitted by Rep. Mace.' Its first section describes an unacknowledged special access program named Immaculate Constellation; its second concerns US Government imagery intelligence. Shellenberger characterised it in his testimony as describing a strategic intelligence programme within a family of longstanding, highly sensitive programmes dealing with the UAP problem, functioning as a central or parent USAP consolidating observations of UAP from both tasked and untasked collection platforms, holding high-quality IMINT and MASINT drawn from low Earth orbit, the upper atmosphere, military and civilian aviation altitudes and maritime environments. It catalogues morphologies - spheres and orbs, discs and saucers, ovals, triangles, boomerang and arrowhead, irregular and organic - and specific incidents including orbs forcing an F-22 out of its patrol area and an orange-red sphere descending to within 100 to 200 yards above a carrier flight deck. Under questioning from Higgins, Shellenberger confirmed he knows the author and the sources, has confidence in them, and declined to say whether they sit inside DoD. Elizondo, asked directly by Mace whether he had been read in to Immaculate Constellation, replied that he would not be authorised to confirm or deny the existence of any special access program by name or trigraph - which is not a denial. The Pentagon says it has no record of the programme.",
-"domains": [
-"congress-house",
-"releases-2023-2026"
-],
+"domains": [],
 "dossier": {
 "claims": [
 {
@@ -679,7 +703,12 @@
 "tier": "A"
 }
 ],
+"openQuestions": [],
 "short": "Immaculate Constellation report",
+"sourceFiles": [
+"congress-house",
+"releases-2023-2026"
+],
 "sources": [
 {
 "date": "2024-11-13",
@@ -724,34 +753,38 @@
 ],
 "sub": "Whistleblower report, entered 13 Nov 2024",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 28 of 1170, score 99). 14 connections, 2 of them custody/funding/programmatic, 4 official denials recorded against it. Axes C2/A3/D3.",
+"tierRationale": "Re-graded A on a global pass (rank 25 of 1170, score 99). 14 connections, 2 of them custody/funding/programmatic, 4 official denials recorded against it. Axes C2/A3/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2024-10-17",
+"grade": "B",
 "id": "rel-2024-10-17",
 "label": "Immaculate Constellation surfaces publicly",
 "precision": "day",
 "strand": "witness",
-"text": "The Debrief assesses the emerging Immaculate Constellation allegations weeks before the document reaches Congress.",
-"tier": "B"
+"text": "The Debrief assesses the emerging Immaculate Constellation allegations weeks before the document reaches Congress."
 },
 {
+"claimTier": null,
 "date": "2024-11-13",
+"grade": "A",
 "id": "ch-2024-11-13a",
 "label": "Immaculate Constellation enters the Record",
 "precision": "day",
 "strand": "oversight",
-"text": "Shellenberger delivers a 12-page Pentagon document to Congress that morning; Chairwoman Mace moves it into the Congressional Record while every member on the dais reads it in real time.",
-"tier": "A"
+"text": "Shellenberger delivers a 12-page Pentagon document to Congress that morning; Chairwoman Mace moves it into the Congressional Record while every member on the dais reads it in real time."
 },
 {
+"claimTier": null,
 "date": "2024-11-13",
+"grade": "A",
 "id": "rel-2024-11-13",
 "label": "A USAP name enters the Congressional Record",
 "precision": "day",
 "strand": "witness",
-"text": "Shellenberger delivers a 12-page Pentagon document on Immaculate Constellation and Chairwoman Mace moves it into the Record; Elizondo declines to confirm or deny by name or trigraph.",
-"tier": "A"
+"text": "Shellenberger delivers a 12-page Pentagon document on Immaculate Constellation and Chairwoman Mace moves it into the Record; Elizondo declines to confirm or deny by name or trigraph."
 }
-]
+],
+"unverified": []
 }

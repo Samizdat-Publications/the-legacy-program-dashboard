@@ -37,6 +37,7 @@
 ],
 "cls": "document",
 "cluster": "ic",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -66,9 +67,7 @@
 "deg": 1,
 "denials": [],
 "desc": "The agreement signed on 5 March 1946 between the State-Army-Navy Communication Intelligence Board and the London Signal Intelligence Board is the founding instrument of what became the Five Eyes arrangement. In twelve paragraphs it commits the two sides to unrestricted exchange of the products of collection, traffic analysis, cryptanalysis, decryption and translation of foreign communications, and of the methods and techniques behind them, with withholdings to be notified and kept to a minimum. It defines third parties as everyone outside the United States, the British Empire and the Dominions, forbids either party from acting toward a third party without the other's agreement, and makes it contrary to the agreement to reveal that the agreement exists at all. It supersedes all previous British and United States agreements in the field and is terminable by either party on notice. Nothing in it concerns anomalous objects or their recovery.",
-"domains": [
-"area52-2026-09-02"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -82,7 +81,11 @@
 "label": "British-U.S. Communication Intelligence Agreement (UKUSA), 5 March 1946",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "British-U.S. Communication Intelligence Agreement (UKUSA), 5 March 1946",
+"sourceFiles": [
+"area52-2026-09-02"
+],
 "sources": [
 {
 "date": "1946-03-05",
@@ -97,16 +100,18 @@
 ],
 "sub": "STANCIB and the London SIGINT Board; twelve paragraphs; the clause forbidding disclosure of its own existence",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 356 of 1170, score 36). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D2.",
+"tierRationale": "Re-graded B on a global pass (rank 361 of 1170, score 36). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D2.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1946-03-05",
+"grade": "C",
 "id": "tl-1946-03-05-ukusa-agreement",
 "label": "The British-U.S. Communication Intelligence Agreement is signed",
 "precision": "day",
 "strand": "oversight",
-"text": "STANCIB and the London Signal Intelligence Board sign a twelve-paragraph agreement for unrestricted exchange of the products and methods of communications intelligence. It defines third parties as everyone outside the United States, the British Empire and the Dominions, and states that 'It will be contrary to this agreement to reveal its existence to any third party whatsoever.' A search of all six numbered pages returns no occurrence of flying, saucer, unidentified, aerial phenomen or anomalous.",
-"tier": "C"
+"text": "STANCIB and the London Signal Intelligence Board sign a twelve-paragraph agreement for unrestricted exchange of the products and methods of communications intelligence. It defines third parties as everyone outside the United States, the British Empire and the Dominions, and states that 'It will be contrary to this agreement to reveal its existence to any third party whatsoever.' A search of all six numbered pages returns no occurrence of flying, saucer, unidentified, aerial phenomen or anomalous."
 }
-]
+],
+"unverified": []
 }

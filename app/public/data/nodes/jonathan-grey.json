@@ -74,7 +74,8 @@
 "deg": 2,
 "denials": [],
 "domains": [
-"grusch"
+"d-witness",
+"d-coverup"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -95,6 +96,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "\"Jonathan Grey\" (pseudonym)",
+"sourceFiles": [
+"grusch"
+],
 "sources": [
 {
 "date": "2023-06-05",

@@ -32,6 +32,7 @@
 ],
 "cls": "document",
 "cluster": "legacy",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -103,9 +104,7 @@
 "deg": 3,
 "denials": [],
 "desc": "THE BEST SINGLE DOCUMENT IN THE NUCLEAR STRAND AND IT IS NOT A UFO DOCUMENT. It is a National Military Command Center Memorandum for Record, dated 29 October 1975 at 0605 EST, subject line 'AFB Penetration', signed C. D. Roberts, Jr., Brigadier General, USMC, Deputy Director for Operations. Five numbered paragraphs record that an unidentified helicopter, possibly two, was sighted flying low over Loring AFB in proximity to a weapons storage area; that an Army National Guard helicopter was called in and failed to locate it; that NORAD requested and received authority from Canadian officials to cross into Canadian airspace in pursuit; and that a similar incident had occurred the previous evening. Four DDO updates follow, each citing its source message. The distribution list is what makes the document remarkable: CJCS in five copies, DJS in three, J-30 through J-38, the Chief of Staff of the Army, the Chief of Naval Operations, the Chief of Staff of the Air Force, the Commandant of the Marine Corps, the Chief of WWMCCS Operations and Evaluation Division, the DIA representative for the National Military Intelligence Center, the NSA representative, the CIA representative and the Western Hemisphere desk. This is what a nuclear security incident looks like on paper when nobody has decided what it is.",
-"domains": [
-"nuclear-witnesses-2026-09-19"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "1",
@@ -119,7 +118,11 @@
 "label": "NMCC Memorandum for Record, 'AFB Penetration', 29 October 1975",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "NMCC Memorandum for Record, 'AFB Penetration', 29 October 1975",
+"sourceFiles": [
+"nuclear-witnesses-2026-09-19"
+],
 "sources": [
 {
 "date": "1975-10-29",
@@ -134,16 +137,21 @@
 ],
 "sub": "National Military Command Center memorandum and four DDO updates on the Loring AFB penetrations, signed by a serving brigadier general",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 442 of 1170, score 33). 3 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D1.",
+"tierRationale": "Re-graded B on a global pass (rank 441 of 1170, score 33). 3 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D1.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1975-10-29",
+"grade": "A",
 "id": "tl-1975-10-29-nmcc-afb-penetration",
 "label": "NMCC logs an 'AFB Penetration' at Loring and runs it up the Joint Staff",
 "precision": "day",
 "strand": "program",
-"text": "At 0605 EST on 29 October 1975 the National Military Command Center issued a Memorandum for Record subject 'AFB Penetration', signed C. D. Roberts, Jr., Brigadier General, USMC, Deputy Director for Operations, recording that an unidentified helicopter, possibly two, had been sighted flying low over Loring AFB in proximity to a weapons storage area, that an Army National Guard helicopter had failed to locate it, and that NORAD had obtained Canadian authority to pursue across the border. Distribution ran to CJCS, DJS, J-30 through J-38, the service chiefs and the DIA, NSA and CIA representatives.",
-"tier": "A"
+"text": "At 0605 EST on 29 October 1975 the National Military Command Center issued a Memorandum for Record subject 'AFB Penetration', signed C. D. Roberts, Jr., Brigadier General, USMC, Deputy Director for Operations, recording that an unidentified helicopter, possibly two, had been sighted flying low over Loring AFB in proximity to a weapons storage area, that an Army National Guard helicopter had failed to locate it, and that NORAD had obtained Canadian authority to pursue across the border. Distribution ran to CJCS, DJS, J-30 through J-38, the service chiefs and the DIA, NSA and CIA representatives."
 }
+],
+"unverified": [
+"The memorandum was NOT OPENED as a scanned facsimile by this board; it was read as NICAP's transcription of the released document. The transcription carries the signature block as '//signed//', which is how a released copy renders a signature, and its internal source-message citations are consistent throughout.",
+"The 42 BW and SAC CP source messages it cites."
 ]
 }

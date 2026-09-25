@@ -22,6 +22,7 @@
 ],
 "cls": "document",
 "cluster": "witness",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -93,9 +94,7 @@
 "deg": 3,
 "denials": [],
 "desc": "This is the strongest documentary thread in Bob Lazar's favour and the node must carry its qualification in the same breath, or it will misrepresent the record in the direction the credulous literature already pulls. The artefact is real: a front-page story with a byline, a date and page numbers, in a daily newspaper published in Los Alamos on Sunday 27 June 1982, about a jet-powered Honda Lazar had built, which describes him in the paper's own voice as 'a physicist at the Los Alamos Meson Physics Facility'. It was printed seven years before the UFO claim and cannot have been manufactured for it. What it is not is an employment record. The description is what Lazar told the reporter, and two independent strands of the opened record place him as a contract electronics technician instead: the Los Alamos telephone directory page that also lists his name states on its face that it covers Department of Energy employees and the outside contractor Kirk-Mayer, and an anonymised Los Alamos colleague interviewed on tape in 1996 said that Lazar 'was a contractor' under Kirk Mayer. The article also matters as a date peg for the Edward Teller anecdote, and there it creates a problem rather than solving one, because Lazar's own 1991 narration places the newspaper story and Teller's Los Alamos speech on the same day while the article's date is fixed at 27 June and Teller's lecture falls on the following day.",
-"domains": [
-"lazar-s4-2026-09-18"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "1",
@@ -109,7 +108,11 @@
 "label": "Los Alamos Monitor, 27 June 1982, 'LA Man Joins The Jet Set - At 200 Miles An Hour'",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Los Alamos Monitor, 27 June 1982, 'LA Man Joins The Jet Set - At 200 Miles An Hour'",
+"sourceFiles": [
+"lazar-s4-2026-09-18"
+],
 "sources": [
 {
 "date": "1982-06-27",
@@ -134,16 +137,22 @@
 ],
 "sub": "Terry England's front-page story on Lazar's jet-powered Honda, which describes him in the newspaper's own voice as a physicist at the Los Alamos Meson Physics Facility",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 1009 of 1170, score 15). 3 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D1.",
+"tierRationale": "Re-graded C on a global pass (rank 1010 of 1170, score 15). 3 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D1.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1982-06-27",
+"grade": "B",
 "id": "tl-1982-06-27-la-monitor-jetcar",
 "label": "Los Alamos Monitor front page calls Lazar a physicist at LAMPF",
 "precision": "day",
 "strand": "witness",
-"text": "The Los Alamos Monitor of Sunday 27 June 1982, pages A1 and A8, carries 'LA Man Joins The Jet Set - At 200 Miles An Hour' by staff writer Terry England, about a jet-powered Honda Lazar had built, and says in the paper's own voice: 'To Lazar, a physicist at the Los Alamos Meson Physics Facility, the important thing is the jet engine.' The earliest dated artefact in the cluster, seven years before the UFO claim.",
-"tier": "B"
+"text": "The Los Alamos Monitor of Sunday 27 June 1982, pages A1 and A8, carries 'LA Man Joins The Jet Set - At 200 Miles An Hour' by staff writer Terry England, about a jet-powered Honda Lazar had built, and says in the paper's own voice: 'To Lazar, a physicist at the Los Alamos Meson Physics Facility, the important thing is the jet engine.' The earliest dated artefact in the cluster, seven years before the UFO claim."
 }
+],
+"unverified": [
+"The original newspaper page as a scan or microfilm image. Only Tom Mahood's reprint of the text was opened. The citation to pages A1 and A8 comes from the reprint and from Wikipedia's underlying citation to England, Los Alamos Monitor, 27 June 1982.",
+"The Los Alamos internal telephone directory page itself. It was NOT OPENED as an image or scan by this board. Its existence and its scope statement rest entirely on Friedman's description of it, which is why the qualification above is Tier 2 and not Tier 1.",
+"Whether Edward Teller lectured at Los Alamos on 28 June 1982. That date comes from Mahood's retrospective and no newspaper notice of the lecture was opened."
 ]
 }

@@ -42,6 +42,7 @@
 ],
 "cls": "institution",
 "cluster": "ic",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -112,11 +113,7 @@
 "deg": 2,
 "denials": [],
 "desc": "SAF/AAZ is the Secretary of the Air Force's Director of Security, Counterintelligence and Special Program Oversight, an office of the Air Force Secretariat sitting under the Administrative Assistant to the Secretary (SAF/AA). Air Force Instruction 16-701, 'Management, Administration and Oversight of Special Access Programs' (18 February 2014, OPR SAF/AAZE, certified by SAF/AAZ), assigns it the controlling role over every Air Force special access programme: SAF/AAZ is principal advisor to SAF/AA for SAPs, serves as Director of the Air Force SAP Central Office (AF SAPCO), develops SAP policy, directs and oversees the SAP security programme, serves as Designated Accreditation Authority for all SAP information systems, and serves as the access approval authority for all SAPs with power to approve waivers for SAP access. The same instruction directs SAF/AAZ to 'establish a declassification program' and to ensure information is neither classified longer than necessary nor declassified prematurely - meaning that the office that grants access to Air Force black programmes is also the office that decides when their contents may be released. That concentration is why this node matters. Any Air Force-hosted programme of the kind alleged on this board would be waived or unacknowledged under SAF/AAZ's oversight, its read-on list would be approved there, and any declassification would have to pass the same desk; it is simultaneously the gatekeeper of the secret and the arbiter of its disclosure, which is the structural conflict at the centre of the whole concealment argument.",
-"domains": [
-"_rs-stubs-known",
-"_stubs",
-"w15-live-originals"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "nd",
@@ -127,10 +124,16 @@
 "hl": null,
 "id": "saf-aaz",
 "l0": false,
-"label": "SAF/AAZ — Air Force Declassification & Special Programs",
+"label": "SAF/AAZ - Air Force Declassification & Special Programs",
 "locLabel": null,
 "members": null,
-"short": "SAF/AAZ — Air Force Declassification & Special Programs",
+"openQuestions": [],
+"short": "SAF/AAZ - Air Force Declassification & Special Programs",
+"sourceFiles": [
+"_rs-stubs-known",
+"_stubs",
+"w15-live-originals"
+],
 "sources": [
 {
 "date": "2014-02-18",
@@ -146,5 +149,6 @@
 "sub": "USAF secretariat office",
 "tier": "C",
 "tierRationale": "Re-graded C on a global pass (rank 880 of 1170, score 19). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D0.",
-"timeline": []
+"timeline": [],
+"unverified": []
 }

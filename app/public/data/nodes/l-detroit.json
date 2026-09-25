@@ -12,6 +12,7 @@
 ],
 "cls": "location",
 "cluster": "ic",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -49,9 +50,7 @@
 "deg": 1,
 "denials": [],
 "desc": "Detroit is carried on this board as the post-agency address of Christopher 'Kit' Green, the CIA analyst who ran the Agency's weird desk - the Life Sciences Division work on anomalous phenomena, including the parapsychology and remote viewing programmes - and who after leaving government took a position in the Wayne State University School of Medicine, where he built the neurological and biomedical side of the anomalous-exposure literature. Green is the connective tissue between the CIA's 1970s Stargate-adjacent work at SRI, the NIDS and BAASS effort under Bigelow, the AAWSAP biomedical papers on injuries associated with anomalous encounters, and the modern Sol Foundation and Stanford circle around Garry Nolan. Detroit is also, thirteen miles north in Warren, the location of Detroit Arsenal and the GVSC/TTSA agreement, which means the metropolitan area holds both the medical-effects research lineage and the only executed federal materials agreement with a claimed-custody private party. The city has no independent installation significance; it is a person node, and it is recorded as such rather than inflated.",
-"domains": [
-"w2-places-events"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "1",
@@ -65,7 +64,11 @@
 "label": "Detroit, Michigan",
 "locLabel": "Detroit, Michigan, USA",
 "members": null,
+"openQuestions": [],
 "short": "Detroit, Michigan",
+"sourceFiles": [
+"w2-places-events"
+],
 "sources": [
 {
 "date": "2026-08-12",
@@ -76,5 +79,6 @@
 "sub": "City in Wayne County; Wayne State University School of Medicine",
 "tier": "C",
 "tierRationale": "Re-graded C on a global pass (rank 1033 of 1170, score 14). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D1.",
-"timeline": []
+"timeline": [],
+"unverified": []
 }

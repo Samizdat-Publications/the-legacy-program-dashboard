@@ -32,6 +32,7 @@
 ],
 "cls": "legislation",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -129,9 +130,7 @@
 "deg": 4,
 "denials": [],
 "desc": "The statute that lets the United States order an invention kept secret and withhold the patent, including an invention the government does not own and did not fund. It is the instrument the board's PATENTS tab is arguing around, and until now the board named it once in prose and carried no node for it. Its short title, printed in the margin of the Statutes at Large, is the Invention Secrecy Act of 1951, although the Act was approved on 1 February 1952; the familiar 35 U.S.C. 181-188 numbering comes from a different statute five months later, the Patent Act of 19 July 1952. Section 181's second paragraph routes a privately owned application to the Atomic Energy Commission and the Secretary of Defense for inspection before any order issues, which is the point at which the patent record and the weapons establishment touch. Orders run one year and renew annually without limit; the Patent and Trademark Office reported 6,543 in force at the end of fiscal 2025.",
-"domains": [
-"michels-2026-09-02"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -145,7 +144,11 @@
 "label": "Invention Secrecy Act of 1951 (Pub. L. 82-256, 66 Stat. 3), codified at 35 U.S.C. 181-188",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Invention Secrecy Act of 1951 (Pub. L. 82-256, 66 Stat. 3), codified at 35 U.S.C. 181-188",
+"sourceFiles": [
+"michels-2026-09-02"
+],
 "sources": [
 {
 "date": "1952-02-01",
@@ -175,6 +178,7 @@
 ],
 "sub": "Act of 1 February 1952, ch. 4; renumbered by the Patent Act of 19 July 1952, ch. 950, 66 Stat. 805",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 541 of 1170, score 30). 4 connections, 1 of them custody/funding/programmatic. Axes C0/A2/D1.",
-"timeline": []
+"tierRationale": "Re-graded B on a global pass (rank 535 of 1170, score 30). 4 connections, 1 of them custody/funding/programmatic. Axes C0/A2/D1.",
+"timeline": [],
+"unverified": []
 }

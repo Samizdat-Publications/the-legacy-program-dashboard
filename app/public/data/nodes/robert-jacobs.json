@@ -181,6 +181,14 @@
 "deg": 4,
 "denials": [
 {
+"a": {
+"id": "kingston-george",
+"label": "Kingston A. George"
+},
+"b": {
+"id": "robert-jacobs",
+"label": "Robert M. Jacobs"
+},
 "by": {
 "id": "kingston-george",
 "label": "Kingston A. George"
@@ -202,10 +210,7 @@
 ]
 }
 ],
-"domains": [
-"disclosure-project-2026-09-19",
-"nuclear-witnesses-2026-09-19"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "nd",
@@ -225,6 +230,10 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Robert M. Jacobs",
+"sourceFiles": [
+"disclosure-project-2026-09-19",
+"nuclear-witnesses-2026-09-19"
+],
 "sources": [
 {
 "date": "2001-04",
@@ -250,25 +259,27 @@
 "status": "unknown",
 "sub": "USAF lieutenant, Officer-in-Charge of Photo-optical Instrumentation, 1369th Photographic Squadron, Vandenberg AFB, 1963 to 1966; later an academic; claimant from 1982 about the Big Sur missile-test filming of September 1964",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 163 of 1170, score 50). 4 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D3.",
+"tierRationale": "Re-graded A on a global pass (rank 161 of 1170, score 50). 4 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1989-01",
+"grade": "B",
 "id": "tl-1989-01-jacobs-mufon",
 "label": "Robert Jacobs publishes his own account of the Big Sur filming",
 "precision": "month",
 "strand": "witness",
-"text": "Bob Jacobs, Ph.D., 'Deliberate Deception: The Big Sur UFO Filming', MUFON UFO Journal No. 249, January 1989. He gives his post as Officer-in-Charge of Photo-optical Instrumentation in the 1369th Photographic Squadron at Vandenberg AFB from May 1963 to May 1966, and dates the event, uncertainly, to 2, 3 or 15 September 1964. TWELVE YEARS BEFORE THE DISCLOSURE PROJECT, AND THE ANCHOR THE BOARD SHOULD USE FOR THIS WITNESS.",
-"tier": "B"
+"text": "Bob Jacobs, Ph.D., 'Deliberate Deception: The Big Sur UFO Filming', MUFON UFO Journal No. 249, January 1989. He gives his post as Officer-in-Charge of Photo-optical Instrumentation in the 1369th Photographic Squadron at Vandenberg AFB from May 1963 to May 1966, and dates the event, uncertainly, to 2, 3 or 15 September 1964. TWELVE YEARS BEFORE THE DISCLOSURE PROJECT, AND THE ANCHOR THE BOARD SHOULD USE FOR THIS WITNESS."
 },
 {
+"claimTier": null,
 "date": "2000-11",
+"grade": "B",
 "id": "tl-2000-11-jacobs-testimony",
 "label": "Robert Jacobs's testimony recorded for the Disclosure Project",
 "precision": "month",
 "strand": "witness",
-"text": "Printed at section 3.8.3 under 'Testimony of Professor Robert Jacobs, Lt. US Air Force / November 2000'. The last and weakest of his three published accounts of the same event.",
-"tier": "B"
+"text": "Printed at section 3.8.3 under 'Testimony of Professor Robert Jacobs, Lt. US Air Force / November 2000'. The last and weakest of his three published accounts of the same event."
 }
 ],
 "unexplainedResidual": null,

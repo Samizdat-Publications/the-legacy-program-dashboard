@@ -37,6 +37,7 @@
 ],
 "cls": "document",
 "cluster": "media",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -171,9 +172,7 @@
 "deg": 6,
 "denials": [],
 "desc": "On 25 January 2016 Tom DeLonge emailed John Podesta under the subject line 'General McCasland'. The email disputes a description of the general as a sceptic, says DeLonge had been working with him for four months and had given him a four hour presentation on the project, asserts that the Roswell material was shipped to the laboratory at Wright-Patterson Air Force Base and that General McCasland had been in charge of that laboratory until a couple of years earlier, and says the general helped assemble DeLonge's advisory team. It was published by WikiLeaks in the Podesta Emails on 10 October 2016. The same day's calendar thread for a 'DeLonge/Podesta Meeting' is between Podesta and neilmcc79@gmail.com, signing 'Neil McC', copied to DeLonge, to a Hillary Clinton campaign address and to Rob Weiss at Lockheed Martin, so the general is a party to the correspondence and not only its subject.",
-"domains": [
-"area52-2026-09-02"
-],
+"domains": [],
 "dossier": {
 "claims": [
 {
@@ -247,7 +246,11 @@
 "tier": "B"
 }
 ],
+"openQuestions": [],
 "short": "DeLonge to Podesta, 25 Jan 2016",
+"sourceFiles": [
+"area52-2026-09-02"
+],
 "sources": [
 {
 "date": "2016-01-25",
@@ -282,16 +285,18 @@
 ],
 "sub": "The written record joining DeLonge, Podesta and a General McCasland, released October 2016",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 253 of 1170, score 42). 6 connections, 1 of them custody/funding/programmatic. Axes C2/A2/D1.",
+"tierRationale": "Re-graded B on a global pass (rank 251 of 1170, score 42). 6 connections, 1 of them custody/funding/programmatic. Axes C2/A2/D1.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2016-01-25",
+"grade": "B",
 "id": "tl-2016-01-25-delonge-podesta-mccasland",
 "label": "DeLonge names Wright-Patterson and McCasland to Podesta in writing",
 "precision": "day",
 "strand": "witness",
-"text": "Under the subject line 'General McCasland', Tom DeLonge writes to John Podesta: 'When Roswell crashed, they shipped it to the laboratory at Wright Patterson Air Force Base. General McCasland was in charge of that exact laboratory up to a couple years ago.' The same day's calendar thread for a DeLonge/Podesta meeting runs between Podesta and an address signing 'Neil McC', copied to DeLonge, a Clinton campaign address and Rob Weiss of Lockheed Martin. Neither Prometheus nor Linda Moulton Howe appears anywhere in the release.",
-"tier": "B"
+"text": "Under the subject line 'General McCasland', Tom DeLonge writes to John Podesta: 'When Roswell crashed, they shipped it to the laboratory at Wright Patterson Air Force Base. General McCasland was in charge of that exact laboratory up to a couple years ago.' The same day's calendar thread for a DeLonge/Podesta meeting runs between Podesta and an address signing 'Neil McC', copied to DeLonge, a Clinton campaign address and Rob Weiss of Lockheed Martin. Neither Prometheus nor Linda Moulton Howe appears anywhere in the release."
 }
-]
+],
+"unverified": []
 }

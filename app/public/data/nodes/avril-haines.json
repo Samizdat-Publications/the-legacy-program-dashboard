@@ -86,8 +86,9 @@
 "deg": 2,
 "denials": [],
 "domains": [
-"_rs-archive-mirror",
-"uaptf-aaro"
+"d-ic",
+"d-oversight",
+"d-coverup"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -108,6 +109,10 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Avril D. Haines",
+"sourceFiles": [
+"_rs-archive-mirror",
+"uaptf-aaro"
+],
 "sources": [
 {
 "date": "2026-08-11",
@@ -138,7 +143,7 @@
 "status": "former",
 "sub": "Director of National Intelligence (2021-2025); issued the Preliminary Assessment; briefed on Yankee Blue",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 836 of 1170, score 20). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A3/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 837 of 1170, score 20). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A3/D2.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": [

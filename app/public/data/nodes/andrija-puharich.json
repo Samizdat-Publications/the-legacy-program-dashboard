@@ -91,7 +91,9 @@
 "deg": 2,
 "denials": [],
 "domains": [
-"michels-2026-09-02"
+"d-research",
+"d-consciousness",
+"d-medical"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -112,6 +114,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Andrija (Henry K.) Puharich",
+"sourceFiles": [
+"michels-2026-09-02"
+],
 "sources": [
 {
 "date": "1961-08-08",
@@ -132,7 +137,7 @@
 "status": "former",
 "sub": "Physician and inventor; patented dental and facial-nerve hearing transmission; Round Table Foundation, Glen Cove, Maine",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 519 of 1170, score 30). 2 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D2.",
+"tierRationale": "Re-graded B on a global pass (rank 517 of 1170, score 30). 2 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D2.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": [

@@ -37,6 +37,7 @@
 ],
 "cls": "document",
 "cluster": "other",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -71,6 +72,27 @@
 "dateStart": null,
 "direction": "in",
 "edgeLabel": "DIRD",
+"id": "dird-series",
+"l0": true,
+"label": "The 38 Defense Intelligence Reference Documents (DIRDs)",
+"note": "",
+"sources": [
+{
+"date": null,
+"name": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237618/",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237618/"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "series member",
 "id": "dird-series",
 "l0": true,
 "label": "The 38 Defense Intelligence Reference Documents (DIRDs)",
@@ -184,11 +206,7 @@
 "deg": 4,
 "denials": [],
 "desc": "DIA Defense Intelligence Reference Document (Defense Futures series), 2010-12-10, DIA-08-1102-005, produced under the Advanced Aerospace Weapon System Applications (AAWSA/AAWSAP) Program contract with BAASS. Released under FOIA.",
-"domains": [
-"_rs-aawsap-dirds",
-"_rs-archive-mirror",
-"w7-dirds-3"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "nd",
@@ -202,7 +220,13 @@
 "label": "Quantum Computing and Utilizing Organic Molecules in Automation Technology",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Quantum Computing and Utilizing Organic Molecules in Automation Technology",
+"sourceFiles": [
+"_rs-aawsap-dirds",
+"_rs-archive-mirror",
+"w7-dirds-3"
+],
 "sources": [
 {
 "date": "2010-12-10",
@@ -241,7 +265,8 @@
 }
 ],
 "sub": "defense-intelligence-reference-document",
-"tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 586 of 1170, score 28). 4 connections, 2 of them custody/funding/programmatic. Axes C0/A0/D0.",
-"timeline": []
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 549 of 1170, score 29). 5 connections, 2 of them custody/funding/programmatic. Axes C0/A0/D0.",
+"timeline": [],
+"unverified": []
 }

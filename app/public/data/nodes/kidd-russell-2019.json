@@ -27,6 +27,7 @@
 ],
 "cls": "event",
 "cluster": "witness",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -129,9 +130,7 @@
 "deg": 4,
 "denials": [],
 "desc": "Over multiple nights in July 2019, unidentified aircraft repeatedly operated over and around US Navy warships in the Southern California operating areas, and the Navy's own deck logs record it. USS Kidd first spotted the objects around 2200 on 14 July 2019; USS Rafael Peralta and USS John Finn also reported activity, and a white light hovered over Rafael Peralta's flight deck while the ship made 16 knots in low visibility - an encounter that ran more than 90 minutes. The following night Rafael Peralta reported contacts at 2039, Kidd had SNOOPIE teams up by 2100, and by 2120 the log records 'Multiple UAVs around ship'; USS Russell reported objects changing elevation and direction, the cruise ship Carnival Imagination reported five or six drones, and the event ran nearly three hours. Further incidents followed on 25 and 30 July. The documentary basis is unusually strong: the deck logs were obtained under FOIA and cross-checked against AIS vessel tracking. The Navy, Coast Guard and FBI investigated and the matter reached the Chief of Naval Operations, and despite Aegis sensors and photographic SNOOPIE teams the source of the aircraft was never identified. This is the case that most directly prefigures the 2023-2026 incursion pattern: persistent, coordinated, unattributed platforms operating against high-value US assets with impunity.",
-"domains": [
-"aviators-incidents"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "3",
@@ -145,7 +144,11 @@
 "label": "July 2019 Drone Swarms, USS Kidd / USS Russell and CSG ships off California",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "July 2019 Drone Swarms, USS Kidd / USS Russell and CSG ships off California",
+"sourceFiles": [
+"aviators-incidents"
+],
 "sources": [
 {
 "date": "2021-05-23",
@@ -165,34 +168,38 @@
 ],
 "sub": "Multi-night unattributed UAS harassment of US Navy destroyers",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 598 of 1170, score 28). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 592 of 1170, score 28). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2019-07-14",
+"grade": "A",
 "id": "av-2019-07-14",
 "label": "USS Kidd first sights drones",
 "precision": "day",
 "strand": "witness",
-"text": "USS Kidd spots UAVs around 2200; USS Rafael Peralta and USS John Finn also report activity, with a white light hovering over Peralta's flight deck for over 90 minutes at 16 knots in low visibility.",
-"tier": "A"
+"text": "USS Kidd spots UAVs around 2200; USS Rafael Peralta and USS John Finn also report activity, with a white light hovering over Peralta's flight deck for over 90 minutes at 16 knots in low visibility."
 },
 {
+"claimTier": null,
 "date": "2019-07-15",
+"grade": "A",
 "id": "av-2019-07-15",
 "label": "'Multiple UAVs around ship'",
 "precision": "day",
 "strand": "witness",
-"text": "USS Kidd's deck log records the phrase at 2120; USS Russell reports objects changing elevation and direction; the cruise ship Carnival Imagination reports five or six drones. The event runs nearly three hours.",
-"tier": "A"
+"text": "USS Kidd's deck log records the phrase at 2120; USS Russell reports objects changing elevation and direction; the cruise ship Carnival Imagination reports five or six drones. The event runs nearly three hours."
 },
 {
+"claimTier": null,
 "date": "2019-07-30",
+"grade": "A",
 "id": "av-2019-07-30",
 "label": "Further swarm events",
 "precision": "day",
 "strand": "witness",
-"text": "Additional incidents are logged on 25 and 30 July 2019. The Navy, Coast Guard and FBI investigate and the matter reaches the Chief of Naval Operations without any attribution being made.",
-"tier": "A"
+"text": "Additional incidents are logged on 25 and 30 July 2019. The Navy, Coast Guard and FBI investigate and the matter reaches the Chief of Naval Operations without any attribution being made."
 }
-]
+],
+"unverified": []
 }

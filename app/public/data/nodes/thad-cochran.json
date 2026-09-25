@@ -100,9 +100,7 @@
 "dateStart": "2009-01-06",
 "deg": 2,
 "denials": [],
-"domains": [
-"w10-notification-gaps"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "2",
@@ -122,6 +120,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Thad Cochran",
+"sourceFiles": [
+"w10-notification-gaps"
+],
 "sources": [
 {
 "date": "2026-08-22",
@@ -147,7 +148,7 @@
 "status": "active",
 "sub": "Ranking Member, Defense Subcommittee of the Senate Appropriations Committee, and Ranking Member of the full Senate Appropriations Committee, 111th Congress including 2009",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 583 of 1170, score 28). 2 connections, 0 of them custody/funding/programmatic. Axes C2/A1/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 582 of 1170, score 28). 2 connections, 0 of them custody/funding/programmatic. Axes C2/A1/D3.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": []

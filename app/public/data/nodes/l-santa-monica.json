@@ -12,6 +12,7 @@
 ],
 "cls": "location",
 "cluster": "ffrdc",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -51,9 +52,7 @@
 "deg": 1,
 "denials": [],
 "desc": "RAND's headquarters and the registered location of three of its four FFRDCs - Project AIR FORCE, the Arroyo Center and the National Defense Research Institute. It is where the contractor-operated analytical institution was invented in 1948, where George Kocher wrote 'UFOs: What To Do?' in 1968, and where RAND's 2023 UAP mapping study was produced. The fourth RAND FFRDC, the Homeland Security Operational Analysis Center, is in Arlington, Virginia.",
-"domains": [
-"ffrdcs"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -67,7 +66,11 @@
 "label": "Santa Monica, California",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Santa Monica, California",
+"sourceFiles": [
+"ffrdcs"
+],
 "sources": [
 {
 "date": "2026-08-12",
@@ -78,5 +81,6 @@
 "sub": "RAND Corporation headquarters; registered location of Project AIR FORCE, Arroyo Center and NDRI",
 "tier": "C",
 "tierRationale": "Re-graded C on a global pass (rank 1144 of 1170, score 9). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D1.",
-"timeline": []
+"timeline": [],
+"unverified": []
 }

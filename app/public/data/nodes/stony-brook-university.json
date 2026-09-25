@@ -32,6 +32,7 @@
 ],
 "cls": "institution",
 "cluster": "research",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -82,9 +83,7 @@
 "deg": 2,
 "denials": [],
 "desc": "A State University of New York campus that is one of the two named partners in Brookhaven Science Associates LLC, the entity holding the Department of Energy management-and-operating contract for Brookhaven National Laboratory. The other named partner is Battelle, which this board already carries as its most persistent institution. Brookhaven's own statement routes Stony Brook's participation through The Research Foundation for the State University of New York and adds six core universities. It is drafted here because the board states that Battelle is a partner in Brookhaven without naming the other partner, and because a podcast panel used the Stony Brook and Brookhaven pairing as an innuendo where the record offers a contract.",
-"domains": [
-"area52-2026-09-02"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "1",
@@ -98,7 +97,11 @@
 "label": "Stony Brook University",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Stony Brook University",
+"sourceFiles": [
+"area52-2026-09-02"
+],
 "sources": [
 {
 "date": "2026-09-02",
@@ -114,5 +117,6 @@
 "sub": "SUNY campus; one of the two named partners in Brookhaven Science Associates LLC, which holds the DOE contract for Brookhaven National Laboratory",
 "tier": "C",
 "tierRationale": "Re-graded C on a global pass (rank 783 of 1170, score 22). 2 connections, 1 of them custody/funding/programmatic. Axes C0/A1/D0.",
-"timeline": []
+"timeline": [],
+"unverified": []
 }

@@ -17,6 +17,7 @@
 ],
 "cls": "location",
 "cluster": "research",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -49,10 +50,7 @@
 "deg": 1,
 "denials": [],
 "desc": "Cambridge is where the subject acquired a systematic instrumented observing programme run by astronomers rather than by the state. The Galileo Project, founded by Avi Loeb, professor of science at Harvard and former chair of its astronomy department, and based at the Harvard-Smithsonian Center for Astrophysics, was established in 2021 to search for and characterise objects of possible non-human technological origin using purpose-built multi-modal ground observatories - infrared, optical, radio, audio and magnetometer - with automated analysis pipelines, plus expeditions to recover candidate interstellar meteor material. Loeb's associates on the board include Richard Cloete and Amir Siraj. The project's importance is methodological and adversarial at once. It is the only substantial effort to build an independent evidentiary base outside the classified sensor architecture, which addresses the structural problem the rest of this board documents: every high-quality UAP dataset in existence is held by agencies that will not release it, so the only way to obtain data nobody can classify is to collect it yourself. It is also the effort that has drawn the sharpest disciplinary criticism, which is itself a datum about the cost to an academic career of working in this area - the stigma structure that the ODNI's own June 2021 assessment described.",
-"domains": [
-"_rs-archive-mirror",
-"w2-places-events"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "3",
@@ -66,7 +64,12 @@
 "label": "Cambridge, Massachusetts",
 "locLabel": "Cambridge, Massachusetts, USA",
 "members": null,
+"openQuestions": [],
 "short": "Cambridge, Massachusetts",
+"sourceFiles": [
+"_rs-archive-mirror",
+"w2-places-events"
+],
 "sources": [
 {
 "date": "2026-08-11",
@@ -82,5 +85,6 @@
 "sub": "Harvard University and the Harvard-Smithsonian Center for Astrophysics; base of the Galileo Project",
 "tier": "C",
 "tierRationale": "Re-graded C on a global pass (rank 1141 of 1170, score 9). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.",
-"timeline": []
+"timeline": [],
+"unverified": []
 }

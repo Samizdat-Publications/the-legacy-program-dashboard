@@ -32,6 +32,7 @@
 ],
 "cls": "program",
 "cluster": "ic",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -176,9 +177,7 @@
 "deg": 6,
 "denials": [],
 "desc": "The National Intelligence Program is the intelligence budget that the Director of National Intelligence controls, as distinct from the Military Intelligence Program which the Secretary of Defense controls. Its aggregate appropriated total has been published annually since FY2007 under section 601 of the Implementing Recommendations of the 9/11 Commission Act of 2007 (Public Law 110-53), which requires the DNI to disclose the aggregate amount appropriated within thirty days of the end of each fiscal year; since February 2011 the aggregate request has also been published, under section 364 of the Intelligence Authorization Act for Fiscal Year 2010. Those are the only two numbers Congress has required to be made public. The appropriated toplines run from $43.5 billion in FY2007 to $73.3 billion in FY2025, with an FY2026 request of $81.9 billion. What is not published is any breakdown whatsoever: not by agency, not by programme, not by intelligence discipline, not by appropriation account. The NIP is not itself an appropriation - it is a cross-cutting programme construct whose money is appropriated inside other bills and other departments' accounts, chiefly the Department of Defense, which is the structural fact that makes the intelligence budget a concealment mechanism rather than merely a secret. A dollar appropriated in a Department of Defense account, scored to the NIP, controlled by the DNI, and executed by a contractor is a dollar with four different institutional owners and one public number.",
-"domains": [
-"w2-black-budget"
-],
+"domains": [],
 "dossier": {
 "claims": [
 {
@@ -242,9 +241,9 @@
 "tier": 1
 },
 {
-"source": "ODNI News Release No. 07-26, 21 April 2026, https://www.dni.gov/index.php/newsroom/press-releases/press-releases-2026/4156-pr-07-26 ; U.S. Department of War release, 21 April 2026, https://www.war.gov/News/Releases/Release/Article/4465616/fiscal-year-2027-military-intelligence-program-budget-request/",
+"source": "ODNI News Release No. 07-26, 21 April 2026, https://www.dni.gov/index.php/newsroom/press-releases/press-releases-2026/4156-pr-07-26 ; U.S. Department of War release, 21 April 2026, https://www.war.gov/News/Releases/Release/Article/4465616/fiscal-year-2027-military-intelligence-program-budget-request/ - DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
 "text": "The NIP and the MIP are disclosed by two different authorities on separate releases: the NIP by the DNI under 50 U.S.C. 3306, the MIP by the Department of Defense/Department of War as a discretionary determination that release does not jeopardise classified activities.",
-"tier": 1
+"tier": 2
 },
 {
 "source": "Senado Federal, Requerimento no 193, de 2022, justificacao, https://legis.senado.leg.br/sdleg-getter/documento?dm=9089831&disposition=inline",
@@ -291,7 +290,11 @@
 "label": "National Intelligence Program (NIP)",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "National Intelligence Program (NIP)",
+"sourceFiles": [
+"w2-black-budget"
+],
 "sources": [
 {
 "date": "2026-08-12",
@@ -301,6 +304,7 @@
 ],
 "sub": "The non-DoD-controlled half of the US intelligence budget; funded across many agencies, controlled by the DNI",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 188 of 1170, score 47). 6 connections, 3 of them custody/funding/programmatic. Axes C1/A3/D2.",
-"timeline": []
+"tierRationale": "Re-graded B on a global pass (rank 186 of 1170, score 47). 6 connections, 3 of them custody/funding/programmatic. Axes C1/A3/D2.",
+"timeline": [],
+"unverified": []
 }

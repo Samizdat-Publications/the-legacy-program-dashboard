@@ -96,7 +96,8 @@
 "deg": 2,
 "denials": [],
 "domains": [
-"congress-house"
+"d-oversight",
+"d-witness"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -117,6 +118,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Jasmine Felicia Crockett",
+"sourceFiles": [
+"congress-house"
+],
 "sources": [
 {
 "date": "2025-09-09",

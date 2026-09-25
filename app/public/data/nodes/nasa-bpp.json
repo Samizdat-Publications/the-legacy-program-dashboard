@@ -32,6 +32,7 @@
 ],
 "cls": "program",
 "cluster": "research",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -103,9 +104,7 @@
 "deg": 3,
 "denials": [],
 "desc": "THE REAL, FUNDED, GOVERNMENT ASSESSMENT OF EXACTLY THE MECHANISMS THIS BOARD TRACKS, AND IT IS UNCLASSIFIED AND PUBLISHED. NASA supported the Breakthrough Propulsion Physics Project from 1996 through 2002 under three grand challenges, stated in its own summary document: discover propulsion that eliminates the need for propellant; discover methods to achieve hyper-fast travel; and discover breakthrough methods to power spacecraft. It was managed at NASA Glenn Research Center by Marc G. Millis, who is already a board node and who later wrote an AAWSAP Defense Intelligence Reference Document. The project's approach was deliberately incremental: rather than attempting a breakthrough it funded small tasks aimed at the critical issues behind each challenge, and then reported which ones failed. Of sixteen such tasks, about a third were found not to be viable. WHAT MAKES THE PROJECT BOARD MATERIAL is that its published findings adjudicate, by name and under a government report number, three of the six propulsion mechanisms the UAP literature invokes: the Biefeld-Brown effect and its lifter and asymmetrical-capacitor variants, Alcubierre-style metric engineering, and high frequency gravitational waves. It is the control against which AAWSAP's own Defense Intelligence Reference Documents of 2009 to 2011 can be read, and the board had nothing like it before this pass.",
-"domains": [
-"propulsion-2026-09-19"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "1",
@@ -119,7 +118,11 @@
 "label": "NASA Breakthrough Propulsion Physics Project (1996-2002)",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "NASA Breakthrough Propulsion Physics Project (1996-2002)",
+"sourceFiles": [
+"propulsion-2026-09-19"
+],
 "sources": [
 {
 "date": "2004",
@@ -132,22 +135,28 @@
 "tierRationale": "Re-graded C on a global pass (rank 756 of 1170, score 23). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1996",
+"grade": "B",
 "id": "tl-1996-nasa-bpp-established",
 "label": "NASA establishes the Breakthrough Propulsion Physics Project",
 "precision": "year",
 "strand": "program",
-"text": "From its own summary document: 'This emerging science, combined with the realization that rockets are fundamentally inadequate for interstellar exploration, led NASA to establish the \"Breakthrough Propulsion Physics (BPP)\" Project in 1996.' Three grand challenges: propellantless propulsion, hyper-fast travel, and breakthrough spacecraft power.",
-"tier": "B"
+"text": "From its own summary document: 'This emerging science, combined with the realization that rockets are fundamentally inadequate for interstellar exploration, led NASA to establish the \"Breakthrough Propulsion Physics (BPP)\" Project in 1996.' Three grand challenges: propellantless propulsion, hyper-fast travel, and breakthrough spacecraft power."
 },
 {
+"claimTier": null,
 "date": "2002",
+"grade": "B",
 "id": "tl-2002-nasa-bpp-ended",
 "label": "NASA support for the project ends after six years and sixteen research tasks",
 "precision": "year",
 "strand": "program",
-"text": "'NASA supported the Breakthrough Propulsion Physics Project from 1996 through 2002... Of 16 incremental research tasks completed by the project and from other sponsors, about a third were found not to be viable, a quarter have clear opportunities for sequels, and the rest remain unresolved.' The circumstances of the closure were not opened and are not asserted.",
-"tier": "B"
+"text": "'NASA supported the Breakthrough Propulsion Physics Project from 1996 through 2002... Of 16 incremental research tasks completed by the project and from other sponsors, about a third were found not to be viable, a quarter have clear opportunities for sequels, and the rest remain unresolved.' The circumstances of the closure were not opened and are not asserted."
 }
+],
+"unverified": [
+"The project's budget, its staffing and the circumstances of its closure in 2002. Nothing was opened on any of them and none is asserted. The board carries only what the project's own summary document states about itself.",
+"The full list of the sixteen research tasks. The summary document describes several but this node asserts only the count and the outcome proportions it prints."
 ]
 }

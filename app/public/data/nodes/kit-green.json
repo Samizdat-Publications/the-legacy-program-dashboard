@@ -535,13 +535,14 @@
 "deg": 13,
 "denials": [],
 "domains": [
-"_rs-aawsap-dirds",
-"_rs-archive-mirror",
-"aawsap-aatip",
-"history-1970s-2000s",
-"primes-custody",
-"scientists-technical",
-"w17-wayne-etrd"
+"d-funding",
+"d-bio",
+"d-research",
+"d-coverup",
+"d-witness",
+"d-custody",
+"d-ic",
+"d-materials"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -562,6 +563,15 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Christopher C. 'Kit' Green",
+"sourceFiles": [
+"_rs-aawsap-dirds",
+"_rs-archive-mirror",
+"aawsap-aatip",
+"history-1970s-2000s",
+"primes-custody",
+"scientists-technical",
+"w17-wayne-etrd"
+],
 "sources": [
 {
 "date": "2010-03-11",

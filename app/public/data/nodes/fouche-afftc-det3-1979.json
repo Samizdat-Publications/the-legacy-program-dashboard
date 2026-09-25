@@ -37,6 +37,9 @@
 ],
 "cls": "document",
 "cluster": "legacy",
+"conflicts": [
+"The temporary duty dates, 1 June to 14 August 1979, run past 16 July 1979, which Andrew Johnson gives as the close of the Nellis assignment in the FOIA return. Temporary duty running concurrently with and past the nominal end of a permanent assignment is normal, but the overlap is recorded rather than smoothed over, because the FOIA return itself was not opened and the two were never compared directly."
+],
 "connections": [
 {
 "claimTier": 1,
@@ -113,9 +116,7 @@
 "deg": 3,
 "denials": [],
 "desc": "THIS IS THE COUNTERWEIGHT AND IT MUST BE READ AS ONE. It is the strongest artefact in the entire Fouche thread, it is the only document that connects him to Groom Lake, and it should not be buried inside the compilation node. It is an AF Form 77a, a Supplemental Sheet to AF Forms 707, 909, 910, 911 and 475, stamped AUG 20 1979 and dated 24 August 1979, covering a period of observation from 10 June to 14 August 1979. The ratee is Fouche, Edgar A, active duty grade TSGT; the duty title is NCOIC F-15 AIS; the evaluator is Brewer, MSgt, USAF, 57 CRS, Nellis AFB Nevada. Its closing paragraph is the reason the node exists: 'OTHER COMMENTS: This out of cycle report is generated because TSgt Fouche was assigned TDY to the AFFTC-DET 3, Nellis AF Range from 1 June 79 to 14 August 79. His duties and responsibilities for this period have been verified via a separate report. RECOMMENDATION: Promote at the earliest opportunity.' Peter Merlin's own published reference work is what makes that mean anything: 'Since the late 1970s, the Groom Lake facility has been operated by Detachment 3 of the Air Force Flight Test Center.' AND THE FORM STATES ITS OWN LIMIT OUT LOUD. It does not say what he did while there; it refers that out to a separate report, and that separate report is not in the file. Everything else on the form describes conventional work: 'one of TACs best R&D team builders in areas of ECM, ATS, and cryptological support... the implementation of the TEWS-TITE bed-down, which was lauded by TAC Hq LGM... his MAJCOM involvement in cryptological asset training and provisioning'. A documented ten weeks of temporary duty at a documented secret airfield, doing F-15 avionics intermediate shop work, is a real and non-trivial fact. It is not a claim about a craft, and the claims about craft post-date it by a decade in the claimant's own telling.",
-"domains": [
-"tr3b-2026-09-18"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "1",
@@ -129,7 +130,11 @@
 "label": "AF Form 77a, Letter of Evaluation, 24 August 1979",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "AF Form 77a, Letter of Evaluation, 24 August 1979",
+"sourceFiles": [
+"tr3b-2026-09-18"
+],
 "sources": [
 {
 "date": "1979-08-24",
@@ -144,16 +149,22 @@
 ],
 "sub": "The one document connecting Fouche to Groom Lake: a temporary duty assignment to AFFTC Detachment 3, Nellis AF Range, 1 June to 14 August 1979",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 611 of 1170, score 28). 3 connections, 1 of them custody/funding/programmatic. Axes C0/A1/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 606 of 1170, score 28). 3 connections, 1 of them custody/funding/programmatic. Axes C0/A1/D2.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1979-06-01",
+"grade": "B",
 "id": "tl-1979-06-01-fouche-tdy-det3",
 "label": "THE COUNTERWEIGHT: TSgt Fouche assigned temporary duty to AFFTC Detachment 3, Nellis AF Range",
 "precision": "day",
 "strand": "program",
-"text": "An AF Form 77a signed 24 August 1979 by MSgt Brewer of 57 CRS, Nellis AFB Nevada records: 'This out of cycle report is generated because TSgt Fouche was assigned TDY to the AFFTC-DET 3, Nellis AF Range from 1 June 79 to 14 August 79. His duties and responsibilities for this period have been verified via a separate report.' Peter Merlin's published reference work identifies Detachment 3 AFFTC as the unit operating the Groom Lake facility. The form does not say what he did there, and the separate report it refers to is not in the file.",
-"tier": "B"
+"text": "An AF Form 77a signed 24 August 1979 by MSgt Brewer of 57 CRS, Nellis AFB Nevada records: 'This out of cycle report is generated because TSgt Fouche was assigned TDY to the AFFTC-DET 3, Nellis AF Range from 1 June 79 to 14 August 79. His duties and responsibilities for this period have been verified via a separate report.' Peter Merlin's published reference work identifies Detachment 3 AFFTC as the unit operating the Groom Lake facility. The form does not say what he did there, and the separate report it refers to is not in the file."
 }
+],
+"unverified": [
+"The form's authenticity. It is legible and internally consistent with the rest of the compilation, but it comes from the subject of the record, its social security and service numbers are redacted, and it is not reported to be among the FOIA-released documents. No archival or FOIA-sourced copy was opened.",
+"That AFFTC Detachment 3 is Groom Lake, from a primary record. The identification here is sourced to Peter Merlin's own published site and is therefore Tier 2. No Air Force unit history, organisational chart or FOIA release establishing it was opened, and every edge depending on it is capped at Tier 2 for that reason.",
+"The separate report the form refers to for Fouche's actual duties during the temporary duty. It is named inside the document and it was not located anywhere."
 ]
 }

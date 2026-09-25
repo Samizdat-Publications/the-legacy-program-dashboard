@@ -12,6 +12,7 @@
 ],
 "cls": "institution",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -62,9 +63,7 @@
 "deg": 2,
 "denials": [],
 "desc": "FASAB was created in October 1990 by the Secretary of the Treasury, the Director of the Office of Management and Budget and the Comptroller General to set generally accepted accounting principles for the federal government. It is a nine-member board sponsored by the three principals, and its pronouncements are recognised as GAAP for federal entities by the American Institute of Certified Public Accountants. For the purposes of this board FASAB matters for one reason: it is the body that, on 4 October 2018, issued SFFAS 56 'Classified Activities' at the instance of the Department of Defense, and thereby wrote into generally accepted accounting principles an express permission to move amounts between line items in a public financial statement without narrative explanation, and a prohibition on saying that you had done so. FASAB's own deliberative record on that standard - exposure draft, comment letters, transcripts of Board meetings - is public and is the natural next research target for anyone attempting to establish which agencies pushed for which provisions and what the Board was told about the scale of activity that would be covered.",
-"domains": [
-"w2-black-budget"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "1",
@@ -78,7 +77,11 @@
 "label": "Federal Accounting Standards Advisory Board (FASAB)",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Federal Accounting Standards Advisory Board (FASAB)",
+"sourceFiles": [
+"w2-black-budget"
+],
 "sources": [
 {
 "date": "2026-08-12",
@@ -96,13 +99,15 @@
 "tierRationale": "Re-graded C on a global pass (rank 1079 of 1170, score 12). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1990-10",
+"grade": "B",
 "id": "bb-tl-1990-cfoact",
 "label": "Chief Financial Officers Act; FASAB created",
 "precision": "month",
 "strand": "oversight",
-"text": "The CFO Act imposes audited financial statements on major federal agencies. In the same month the Secretary of the Treasury, the Director of OMB and the Comptroller General create the Federal Accounting Standards Advisory Board to set federal accounting standards. The Department of Defense will not attempt a full-scope audit for twenty-seven years.",
-"tier": "B"
+"text": "The CFO Act imposes audited financial statements on major federal agencies. In the same month the Secretary of the Treasury, the Director of OMB and the Comptroller General create the Federal Accounting Standards Advisory Board to set federal accounting standards. The Department of Defense will not attempt a full-scope audit for twenty-seven years."
 }
-]
+],
+"unverified": []
 }

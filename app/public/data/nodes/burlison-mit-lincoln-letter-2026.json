@@ -17,6 +17,7 @@
 ],
 "cls": "document",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -67,9 +68,7 @@
 "deg": 2,
 "denials": [],
 "desc": "The letter that proved the method works. In mid-May 2026 Burlison wrote MIT Lincoln Laboratory demanding a classified 1952 briefing recording referenced as a 'flying saucer talk.' He announced it publicly on 15 May 2026: 'Their attorneys wrote back fast. They'll comply within 30 days. Congressional letters carry weight. We're going to keep sending them.' At the Disclosure Forum on 25 June 2026 he announced that Lincoln Laboratory had agreed to make the material available; Disclosure Foundation executive director Jordan Flowers described it as a reel-to-reel audio recording relating to the July 1952 Washington, D.C. sightings and credited Burlison with shaking it loose - 'He's stopped asking politely. He knows where certain files are. He's demanding answers. They found these files in that way at MIT Lincoln Labs. Their lawyers confirm that it exists.' The significance is not the tape. It is that a single member's letter, without a subpoena and without a committee vote, extracted an acknowledgment of existence and an agreement to produce from an FFRDC - which is the first documented crack in the layer Grusch identified as the custody layer.",
-"domains": [
-"congress-house"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "3",
@@ -83,7 +82,11 @@
 "label": "Rep. Burlison letter to MIT Lincoln Laboratory, May 2026",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Rep. Burlison letter to MIT Lincoln Laboratory, May 2026",
+"sourceFiles": [
+"congress-house"
+],
 "sources": [
 {
 "date": "2026-05-16",
@@ -101,13 +104,15 @@
 "tierRationale": "Re-graded C on a global pass (rank 658 of 1170, score 26). 2 connections, 0 of them custody/funding/programmatic. Axes C2/A2/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2026-05-15",
+"grade": "A",
 "id": "ch-2026-05-15",
 "label": "An FFRDC blinks",
 "precision": "day",
 "strand": "oversight",
-"text": "Burlison announces MIT Lincoln Laboratory's attorneys have agreed to comply within 30 days with his demand for a classified 1952 'flying saucer talk' recording. 'Congressional letters carry weight. We're going to keep sending them.'",
-"tier": "A"
+"text": "Burlison announces MIT Lincoln Laboratory's attorneys have agreed to comply within 30 days with his demand for a classified 1952 'flying saucer talk' recording. 'Congressional letters carry weight. We're going to keep sending them.'"
 }
-]
+],
+"unverified": []
 }

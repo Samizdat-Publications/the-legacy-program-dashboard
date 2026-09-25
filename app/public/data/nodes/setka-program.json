@@ -42,6 +42,7 @@
 ],
 "cls": "program",
 "cluster": "ic",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 3,
@@ -172,7 +173,7 @@
 "edgeLabel": "head institute of the Academy of Sciences branch",
 "id": "izmiran",
 "l0": false,
-"label": "IZMIRAN — Pushkov Institute of Terrestrial Magnetism",
+"label": "IZMIRAN - Pushkov Institute of Terrestrial Magnetism",
 "note": "Academician V. Migulin, director of IZMIRAN and a radio physicist specialising in oscillation theory, radio wave propagation and radiolocation, was made scientific head of the academic branch, and IZMIRAN was designated head institute. The four-to-five person working group there was headed by Yu. Platov, co-author of the programme's published account.",
 "sources": [
 {
@@ -326,9 +327,7 @@
 "deg": 11,
 "denials": [],
 "desc": "SETKA - 'net' or 'grid' - was the codename for the Soviet Union's twin state programmes on anomalous phenomena, established at the end of 1978 after the sharp increase in reports in 1977-78 and in particular the Petrozavodsk event of 20 September 1977. SETKA-AN ran inside the USSR Academy of Sciences; SETKA-MO ran inside the Ministry of Defence; both were reportedly ordered by the Military-Industrial Commission, which decided to create two research centres that would aid each other and exchange information. A founding meeting took place in the Academy of Sciences on 18 October 1978, attended by Vladimir Migulin and Yury Platov of IZMIRAN (the Institute of Terrestrial Magnetism and Radio Wave Propagation, which became the lead agency), Georgiy Narimanov and Inna Petrovskaya of the Institute for Space Studies, Rem Varlamov of the Moscow Technological Institute, Victor Balashov and Vladimir Volga of secret military unit 67947, A. N. Makarov of the Department of General Physics and Astronomy, Lev Gindilis of the Shternberg State Astronomical Institute, and others including a colonel of the anti-aircraft forces. The programme was renamed Galaktika in 1981 and Gorizont in 1986, and ended around 1990-91, after which a group of experts continued analysing incoming reports in the Department of General Physics and Astronomy of the Russian Academy of Sciences until 1996. Soviet usage substituted 'anomalous phenomenon' for the forbidden term 'UFO'. Guidelines for the Soviet Navy were issued on 7 March 1980 over the signature of the Deputy Commander of the Main Headquarters of the Navy, Vice Admiral Saakyan.",
-"domains": [
-"w2-international"
-],
+"domains": [],
 "dossier": {
 "claims": [
 {
@@ -440,7 +439,7 @@
 {
 "cls": "institution",
 "id": "izmiran",
-"label": "IZMIRAN — Pushkov Institute of Terrestrial Magnetism",
+"label": "IZMIRAN - Pushkov Institute of Terrestrial Magnetism",
 "tier": "C"
 },
 {
@@ -468,7 +467,17 @@
 "tier": "C"
 }
 ],
+"openQuestions": [
+"The Galaktika (1981) and Gorizont (1986) redesignations rest only on secondary ufological writing. Platov and Sokolov confirm that the five-year plans of 1981 and 1986 re-approved the work but do not name new codenames. The renaming is unverified from any primary or academic source.",
+"The central Ministry of Defence research institute that led the military branch is not named in the published account, only located 'in the Moscow region'. Its identity is unestablished.",
+"The January 1980 General Staff Directive itself has not been located in any archive or published facsimile; its contents are known only from Platov and Sokolov's description.",
+"The archive of roughly 3,000 collected reports has not been shown to be publicly accessible. Unlike GEIPAN and SEFAA, this programme published a summary but not its case files.",
+"The original Russian text in Vestnik Rossiiskoi Akademii Nauk has not been consulted; all quotations above are from the English translation supplied by James Oberg with the author's permission."
+],
 "short": "SETKA-AN / SETKA-MO",
+"sourceFiles": [
+"w2-international"
+],
 "sources": [
 {
 "date": "2010-11-19",
@@ -488,25 +497,28 @@
 ],
 "sub": "Twin USSR Academy of Sciences and Ministry of Defence programmes, 1978-1990/91",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 215 of 1170, score 45). 11 connections, 2 of them custody/funding/programmatic. Axes C1/A2/D2.",
+"tierRationale": "Re-graded B on a global pass (rank 212 of 1170, score 45). 11 connections, 2 of them custody/funding/programmatic. Axes C1/A2/D2.",
 "timeline": [
 {
+"claimTier": 2,
 "date": "1978-10-18",
+"grade": null,
 "id": "tl-intl-1978-setka",
 "label": "Founding meeting of SETKA at the USSR Academy of Sciences",
 "precision": "day",
 "strand": "program",
-"text": "Migulin and Platov of IZMIRAN, Narimanov and Petrovskaya of the Institute for Space Studies, Balashov and Volga of secret military unit 67947, Gindilis of the Shternberg Institute and others meet. SETKA-AN and SETKA-MO are established on the order of the Military-Industrial Commission. The official history later gives as one reason for secrecy the possibility 'that some of the UFO characteristics could be used for military purposes'.",
-"tier": 2
+"text": "Migulin and Platov of IZMIRAN, Narimanov and Petrovskaya of the Institute for Space Studies, Balashov and Volga of secret military unit 67947, Gindilis of the Shternberg Institute and others meet. SETKA-AN and SETKA-MO are established on the order of the Military-Industrial Commission. The official history later gives as one reason for secrecy the possibility 'that some of the UFO characteristics could be used for military purposes'."
 },
 {
+"claimTier": 2,
 "date": "1980-03-07",
+"grade": null,
 "id": "tl-intl-1980-navy",
 "label": "Soviet Navy anomalous phenomena reporting instruction",
 "precision": "day",
 "strand": "program",
-"text": "Guidelines for the Soviet Navy on collecting anomalous phenomena data are signed by the Deputy Commander of the Main Headquarters of the Navy, Vice Admiral Saakyan.",
-"tier": 2
+"text": "Guidelines for the Soviet Navy on collecting anomalous phenomena data are signed by the Deputy Commander of the Main Headquarters of the Navy, Vice Admiral Saakyan."
 }
-]
+],
+"unverified": []
 }

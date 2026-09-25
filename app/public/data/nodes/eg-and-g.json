@@ -47,6 +47,7 @@
 ],
 "cls": "institution",
 "cluster": "contractor",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -222,6 +223,14 @@
 "deg": 7,
 "denials": [
 {
+"a": {
+"id": "groom-lake-presidential-determination",
+"label": "Presidential Determinations on the Air Force's Operating Location Near Groom Lake"
+},
+"b": {
+"id": "eg-and-g",
+"label": "EG&G (Edgerton, Germeshausen and Grier)"
+},
 "by": {
 "id": "groom-lake-presidential-determination",
 "label": "Presidential Determinations on the Air Force's Operating Location Near Groom Lake"
@@ -249,9 +258,7 @@
 }
 ],
 "desc": "EG&G is the company that made the secret sites work. Founded by MIT's Harold Edgerton with Kenneth Germeshausen and Herbert Grier, it instrumented and fired US nuclear tests from the Manhattan Project onward and became the classified services contractor for the Nevada complex - the Nevada Test Site and the Air Force operating location near Groom Lake. Its Special Projects organisation ran the unmarked passenger flights from McCarran to the Nevada ranges. Its role is documented not by acknowledgment but by litigation and by presidential fiat: workers who alleged exposure to burned hazardous waste at the Groom Lake facility sued in the 1990s, and rather than defend the facts, the government invoked the state secrets privilege and every President from 1995 forward signed an annual determination exempting the unnamed Air Force operating location near Groom Lake from environmental disclosure requirements. The Ninth Circuit upheld dismissal in Kasza v. Browner, 133 F.3d 1159 (1998), and the Supreme Court denied certiorari. That is the clearance infrastructure in its purest form: a facility whose environmental compliance is exempted by the President each year because acknowledging what is in it would harm national security. The custody allegation attaches through Alfred O'Donnell, the first general manager of EG&G in Nevada, who told George Knapp that a recovered saucer and a live being existed - and through Bob Lazar's 1989 claim, reported by Knapp, that he was employed at S-4 via EG&G. Richard D'Amato is reported to have named EG&G alongside Lockheed and Northrop as a feasible corporate home for the cover-up.",
-"domains": [
-"primes-custody"
-],
+"domains": [],
 "dossier": {
 "claims": [
 {
@@ -401,7 +408,11 @@
 "tier": "C"
 }
 ],
+"openQuestions": [],
 "short": "EG&G",
+"sourceFiles": [
+"primes-custody"
+],
 "sources": [
 {
 "date": "2025-02-21",
@@ -454,13 +465,15 @@
 "tierRationale": "Re-graded A on a global pass (rank 149 of 1170, score 53). 7 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A3/D0.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1989-11-01",
+"grade": "B",
 "id": "pc-1989-lazar",
 "label": "Knapp broadcasts the S-4 reverse-engineering claim",
 "precision": "month",
 "strand": "witness",
-"text": "George Knapp reports Bob Lazar's account of working on recovered craft at S-4 near Groom Lake, employed through EG&G. The modern contractor-custody narrative starts here.",
-"tier": "B"
+"text": "George Knapp reports Bob Lazar's account of working on recovered craft at S-4 near Groom Lake, employed through EG&G. The modern contractor-custody narrative starts here."
 }
-]
+],
+"unverified": []
 }

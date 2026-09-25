@@ -22,6 +22,7 @@
 ],
 "cls": "institution",
 "cluster": "ic",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -72,9 +73,7 @@
 "deg": 2,
 "denials": [],
 "desc": "DI55 was the section of the Directorate of Scientific and Technical Intelligence within the UK Defence Intelligence Staff that quietly held the analytical side of the British UAP question while the MoD's public UFO desk handled correspondence. It is the British counterpart to the American arrangement in which a public project absorbed the reports and an intelligence organisation kept the analysis. DI55 accumulated the roughly 10,000 sighting reports from which the Project Condign study built its database, and Condign's product was issued as a Defence Intelligence Staff Scientific and Technical Memorandum, numbered 55/2/00 - the '55' being DI55's own designator. The report's own recommendation section is a self-liquidation order: its single key recommendation was that 'it should no longer be a requirement for DI55 to monitor UAP reports as they do not demonstrably provide information useful to Defence Intelligence', with a subsidiary recommendation that the database not be maintained. The volume 3 chapter on other countries carries the classification banner UK SECRET UK EYES ONLY and contains a paragraph on the United States and Canada whose operative sentence is a denial - and whose following four lines are redacted.",
-"domains": [
-"w2-international"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -88,7 +87,11 @@
 "label": "DI55 - Defence Intelligence Staff, Directorate of Scientific and Technical Intelligence",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "DI55 - Defence Intelligence Staff, Directorate of Scientific and Technical Intelligence",
+"sourceFiles": [
+"w2-international"
+],
 "sources": [
 {
 "date": "2006-05-15",
@@ -103,6 +106,7 @@
 ],
 "sub": "DIS section that collected and analysed UAP reports and commissioned Project Condign",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 614 of 1170, score 28). 2 connections, 1 of them custody/funding/programmatic. Axes C1/A2/D2.",
-"timeline": []
+"tierRationale": "Re-graded C on a global pass (rank 609 of 1170, score 28). 2 connections, 1 of them custody/funding/programmatic. Axes C1/A2/D2.",
+"timeline": [],
+"unverified": []
 }

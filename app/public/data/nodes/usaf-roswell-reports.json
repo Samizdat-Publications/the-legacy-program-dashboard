@@ -27,6 +27,7 @@
 ],
 "cls": "document",
 "cluster": "legacy",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -139,6 +140,14 @@
 "deg": 4,
 "denials": [
 {
+"a": {
+"id": "jesse-marcel",
+"label": "Jesse A. Marcel Sr."
+},
+"b": {
+"id": "usaf-roswell-reports",
+"label": "The Roswell Reports (USAF, 1994-1997)"
+},
 "by": {
 "id": "usaf-roswell-reports",
 "label": "The Roswell Reports (USAF, 1994-1997)"
@@ -166,9 +175,7 @@
 }
 ],
 "desc": "The Air Force's two-volume answer to Rep. Schiff, and a first-class artifact of the concealment effort precisely because it is thorough. 'The Roswell Report: Fact vs. Fiction in the New Mexico Desert', by Col. Richard L. Weaver and 1st Lt. James McAndrew, runs to roughly 881 pages and was published in 1995 (following the Air Force's September 1994 report); it concedes that the weather balloon statement of 8 July 1947 was false and attributes the debris to the then-classified Project MOGUL. 'The Roswell Report: Case Closed', by McAndrew, was released 24 June 1997 and attributes reports of bodies to anthropomorphic test dummies dropped in high-altitude parachute tests — tests which mostly occurred between 1953 and 1959, six to twelve years after the event. The Air Force's position is therefore that the government lied in 1947 for legitimate reasons, told the truth in 1994, and that witnesses compressed a decade of unrelated events into one week. Both volumes are catalogued at the Defense Technical Information Center as ADA326148 and ADA326147. They are the official record and are treated here as such: authoritative on what the Air Force will say, and silent on the question GAO opened, which is who destroyed the base's records and under what authority.",
-"domains": [
-"history-1940s-1960s"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "1",
@@ -182,7 +189,11 @@
 "label": "The Roswell Reports (USAF, 1994-1997)",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "The Roswell Reports (USAF, 1994-1997)",
+"sourceFiles": [
+"history-1940s-1960s"
+],
 "sources": [
 {
 "date": "1995-01-01",
@@ -205,22 +216,25 @@
 "tierRationale": "Re-graded B on a global pass (rank 467 of 1170, score 32). 4 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D1.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1994-09-08",
+"grade": "A",
 "id": "tl-1994-09-08",
 "label": "Air Force abandons the weather balloon story",
 "precision": "day",
 "strand": "coverup",
-"text": "Under pressure from Rep. Steven Schiff the Air Force concedes the 1947 statement was false and attributes the debris to the then-classified Project MOGUL.",
-"tier": "A"
+"text": "Under pressure from Rep. Steven Schiff the Air Force concedes the 1947 statement was false and attributes the debris to the then-classified Project MOGUL."
 },
 {
+"claimTier": null,
 "date": "1997-06-24",
+"grade": "A",
 "id": "tl-1997-06-24",
 "label": "'The Roswell Report: Case Closed'",
 "precision": "day",
 "strand": "coverup",
-"text": "The Air Force attributes reported bodies to anthropomorphic test dummies dropped in parachute tests conducted principally between 1953 and 1959.",
-"tier": "A"
+"text": "The Air Force attributes reported bodies to anthropomorphic test dummies dropped in parachute tests conducted principally between 1953 and 1959."
 }
-]
+],
+"unverified": []
 }

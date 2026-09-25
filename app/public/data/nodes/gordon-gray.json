@@ -132,9 +132,7 @@
 "dateStart": "1951-04-04",
 "deg": 4,
 "denials": [],
-"domains": [
-"area52-2026-09-02"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -154,6 +152,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Gordon Gray",
+"sourceFiles": [
+"area52-2026-09-02"
+],
 "sources": [
 {
 "date": "1951-04-04",
@@ -179,16 +180,17 @@
 "status": "former",
 "sub": "First Director of the Psychological Strategy Board, appointed 1951; Secretary of the Army 1949-50; Special Assistant to the President for National Security Affairs 1958-61",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 330 of 1170, score 37). 4 connections, 0 of them custody/funding/programmatic. Axes C2/A2/D1.",
+"tierRationale": "Re-graded B on a global pass (rank 329 of 1170, score 37). 4 connections, 0 of them custody/funding/programmatic. Axes C2/A2/D1.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1951-04-04",
+"grade": "B",
 "id": "tl-1951-04-04-psychological-strategy-board",
 "label": "Truman establishes the Psychological Strategy Board by secret directive",
 "precision": "day",
 "strand": "coverup",
-"text": "A directive to the Secretary of State, the Secretary of Defense and the Director of Central Intelligence, classified secret, establishes a Board reporting to the National Security Council for the formulation of over-all national psychological objectives, policies and programmes. Its editorial footnote names the first Director: 'Gordon Gray, President of the University of North Carolina and former Secretary of the Army, was appointed Director of the new board.' The same directive forbids the Board and the Director to perform any psychological operations themselves.",
-"tier": "B"
+"text": "A directive to the Secretary of State, the Secretary of Defense and the Director of Central Intelligence, classified secret, establishes a Board reporting to the National Security Council for the formulation of over-all national psychological objectives, policies and programmes. Its editorial footnote names the first Director: 'Gordon Gray, President of the University of North Carolina and former Secretary of the Army, was appointed Director of the new board.' The same directive forbids the Board and the Director to perform any psychological operations themselves."
 }
 ],
 "unexplainedResidual": null,

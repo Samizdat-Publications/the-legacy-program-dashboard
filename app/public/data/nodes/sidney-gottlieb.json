@@ -132,9 +132,7 @@
 "dateStart": "1955-03-31",
 "deg": 4,
 "denials": [],
-"domains": [
-"dannyjones-2026-09-03"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -154,6 +152,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Sidney Gottlieb",
+"sourceFiles": [
+"dannyjones-2026-09-03"
+],
 "sources": [
 {
 "date": "1955-03-21",
@@ -174,7 +175,7 @@
 "status": "former",
 "sub": "Chief, Technical Services Staff Chemical Division 1955; Deputy Chief, Technical Services Division 1963; Chief of TSD, and the officer whose verbal order destroyed the MKULTRA records, January 1973",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 347 of 1170, score 36). 4 connections, 2 of them custody/funding/programmatic. Axes C0/A3/D0.",
+"tierRationale": "Re-graded B on a global pass (rank 346 of 1170, score 36). 4 connections, 2 of them custody/funding/programmatic. Axes C0/A3/D0.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": []

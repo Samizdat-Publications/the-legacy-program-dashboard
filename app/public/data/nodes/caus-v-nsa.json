@@ -22,6 +22,7 @@
 ],
 "cls": "event",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -103,6 +104,14 @@
 "deg": 3,
 "denials": [
 {
+"a": {
+"id": "nsa",
+"label": "National Security Agency"
+},
+"b": {
+"id": "caus-v-nsa",
+"label": "Citizens Against UFO Secrecy v. National Security Agency (Civil Action No. 80-1562)"
+},
 "by": {
 "id": "nsa",
 "label": "National Security Agency"
@@ -124,6 +133,14 @@
 ]
 },
 {
+"a": {
+"id": "yeates-affidavit",
+"label": "Yeates Affidavit (NSA, 1980)"
+},
+"b": {
+"id": "caus-v-nsa",
+"label": "Citizens Against UFO Secrecy v. National Security Agency (Civil Action No. 80-1562)"
+},
 "by": {
 "id": "yeates-affidavit",
 "label": "Yeates Affidavit (NSA, 1980)"
@@ -151,9 +168,7 @@
 }
 ],
 "desc": "The case in which the United States told a federal judge, in secret, why it could not release its UFO signals intelligence - and the judge agreed. CAUS sued NSA in 1980. NSA located UFO-related records, withheld them, and supported the withholding with a classified affidavit executed by its Chief of Policy, Eugene Yeates. The district court reviewed the affidavit in camera and granted summary judgment for NSA; the D.C. Circuit affirmed on 3 November 1981; the Supreme Court denied certiorari on 8 March 1982. NSA subsequently released a redacted version of the Yeates affidavit, and released the underlying UFO records themselves with most pages carrying only a few visible words - redaction executed in white-out rather than black ink, which had the effect of making the excisions less visually obvious. A Mandatory Declassification Review filed in July 2013 was required to force further release. The case is the cleanest judicial confirmation in the American record that UFO-related intelligence material exists, is held, and is withheld on national-security grounds. It has never been overturned or superseded.",
-"domains": [
-"history-1970s-2000s"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": {
 "desc": "The precise posture of the case matters because it is routinely misdescribed in both directions. NSA did not say it had no UFO records; it said it had them and could not release them. The plaintiffs did not lose because their claim was frivolous; they lost because the agency persuaded a judge, in a document the plaintiffs were forbidden to see, that disclosure would damage national security. The affidavit was executed by Eugene F. Yeates as NSA's Chief of Policy. The district court reviewed it in camera and granted summary judgment; the D.C. Circuit affirmed on 3 November 1981; the Supreme Court denied certiorari on 8 March 1982. NSA thereafter released the underlying records in a form that made the point of the litigation vividly: most pages carried only a few visible words, with the excisions made in white-out rather than black ink. A Mandatory Declassification Review filed in July 2013 was required to force further release. The Yeates affidavit itself has since been published in redacted form in NSA's own UFO collection. In 1995, GAO's Roswell records audit listed 'National Security Agency, Fort Meade, Md. - FOIA records, Citizens Against UFO Secrecy' among the record sets it searched, which means a private citizens' FOIA litigation body had become a recognised federal record set. This is the strongest single judicial fact in the American UFO record, and it has never been superseded: the United States holds UFO-related signals intelligence that it has told a federal court it cannot disclose.",
@@ -191,7 +206,11 @@
 "label": "Citizens Against UFO Secrecy v. National Security Agency (Civil Action No. 80-1562)",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Citizens Against UFO Secrecy v. National Security Agency (Civil Action No. 80-1562)",
+"sourceFiles": [
+"history-1970s-2000s"
+],
 "sources": [
 {
 "date": "2016-09-10",
@@ -211,34 +230,38 @@
 ],
 "sub": "FOIA litigation, D.D.C. 1980 - D.C. Cir. 1981 - cert. denied 1982",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 306 of 1170, score 39). 3 connections, 0 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C1/A3/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 304 of 1170, score 39). 3 connections, 0 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C1/A3/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1980-06-01",
+"grade": "A",
 "id": "t-1980-caus-nsa",
 "label": "CAUS sues NSA",
 "precision": "month",
 "strand": "oversight",
-"text": "Civil Action No. 80-1562 is filed. NSA locates UFO-related records, withholds them, and defends the withholding with a classified affidavit by its Chief of Policy, Eugene Yeates.",
-"tier": "A"
+"text": "Civil Action No. 80-1562 is filed. NSA locates UFO-related records, withholds them, and defends the withholding with a classified affidavit by its Chief of Policy, Eugene Yeates."
 },
 {
+"claimTier": null,
 "date": "1981-11-03",
+"grade": "A",
 "id": "t-1981-dccir",
 "label": "D.C. Circuit affirms NSA withholding",
 "precision": "day",
 "strand": "oversight",
-"text": "The court of appeals affirms judgment for NSA on the basis of an affidavit the plaintiffs were never permitted to see.",
-"tier": "A"
+"text": "The court of appeals affirms judgment for NSA on the basis of an affidavit the plaintiffs were never permitted to see."
 },
 {
+"claimTier": null,
 "date": "1982-03-08",
+"grade": "A",
 "id": "t-1982-cert",
 "label": "Supreme Court denies certiorari",
 "precision": "day",
 "strand": "oversight",
-"text": "The withholding of UFO-related signals intelligence becomes settled law. The government's position has never been that the records do not exist.",
-"tier": "A"
+"text": "The withholding of UFO-related signals intelligence becomes settled law. The government's position has never been that the records do not exist."
 }
-]
+],
+"unverified": []
 }

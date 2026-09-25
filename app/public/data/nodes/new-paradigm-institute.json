@@ -17,6 +17,7 @@
 ],
 "cls": "institution",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -67,9 +68,7 @@
 "deg": 2,
 "denials": [],
 "desc": "The New Paradigm Institute is Daniel Sheehan's disclosure vehicle and the movement's legislative campaign arm. It runs 'Citizens for Disclosure', a UAP Transparency Pledge asking candidates to commit to strengthened congressional oversight and responsible transparency, and as of 2026 a national campaign under the banner 'The House Acted. Now Tell the Senate to Pass the UAPDA' - indicating that a House version of the UAP Disclosure Act had passed and the Senate had not acted. NPI's function in the structure is distinct from Sol's: where Sol supplies expert advice inside committee rooms, NPI supplies outside pressure, litigation and grassroots mobilisation, and Sheehan simultaneously represents Luis Elizondo in litigation against the Department of Defense. The two-track arrangement - insider advisory access plus outside legal pressure - is the same pattern the movement has used since 2017, and it is worth noting that neither track has yet produced a single item of physical material.",
-"domains": [
-"media-structure"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "3",
@@ -83,7 +82,11 @@
 "label": "New Paradigm Institute",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "New Paradigm Institute",
+"sourceFiles": [
+"media-structure"
+],
 "sources": [
 {
 "date": "2026-08-12",
@@ -94,5 +97,6 @@
 "sub": "UAP disclosure advocacy and legal organisation",
 "tier": "C",
 "tierRationale": "Re-graded C on a global pass (rank 1053 of 1170, score 13). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.",
-"timeline": []
+"timeline": [],
+"unverified": []
 }

@@ -22,6 +22,7 @@
 ],
 "cls": "document",
 "cluster": "media",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -72,9 +73,7 @@
 "deg": 2,
 "denials": [],
 "desc": "Frank Scully's 1950 bestseller is where the crash-retrieval genre begins, and its provenance is the genre's original sin. Built out of two 1949 Variety columns, it told a mass readership that recovered discs and dead occupants were in US military custody, and it supplied the specific narrative furniture that the field has been reusing ever since: a controlled landing rather than a crash, a small crew of humanoid bodies, an immediate military removal, exotic materials, magnetic propulsion, and complete official silence. Its named source Silas M. Newton and its unnamed 'scientist' Leo A. Gebauer were selling 'doodlebug' detection devices on the strength of claimed alien technology; J. P. Cahn of the San Francisco Chronicle exposed them in True in 1952 and 1956, and both were convicted of fraud in 1953. Martin Gardner catalogued the book's scientific howlers. None of that stopped the material propagating: descriptions of heat-proof material and of bodies between 36 and 42 inches tall weighing about 40 pounds - Aztec details - recur decades later in accounts of other sites given by people claiming first-hand knowledge, which is the clearest documented instance of narrative contamination in the entire domain.",
-"domains": [
-"w2-retrieval-literature"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -88,7 +87,11 @@
 "label": "Behind the Flying Saucers (Scully, 1950)",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Behind the Flying Saucers (Scully, 1950)",
+"sourceFiles": [
+"w2-retrieval-literature"
+],
 "sources": [
 {
 "date": "2026-08-12",
@@ -106,13 +109,15 @@
 "tierRationale": "Re-graded C on a global pass (rank 1108 of 1170, score 11). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1950",
+"grade": "B",
 "id": "tl-1950-bfs",
 "label": "Behind the Flying Saucers",
 "precision": "year",
 "strand": "coverup",
-"text": "Henry Holt publishes Scully's book: a 99-foot disc, sixteen bodies, Hart Canyon near Aztec, March 1948. It becomes a bestseller and supplies the genre's narrative furniture.",
-"tier": "B"
+"text": "Henry Holt publishes Scully's book: a 99-foot disc, sixteen bodies, Hart Canyon near Aztec, March 1948. It becomes a bestseller and supplies the genre's narrative furniture."
 }
-]
+],
+"unverified": []
 }

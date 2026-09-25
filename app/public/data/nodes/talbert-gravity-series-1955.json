@@ -37,6 +37,7 @@
 ],
 "cls": "document",
 "cluster": "media",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -171,9 +172,7 @@
 "deg": 6,
 "denials": [],
 "desc": "Three consecutive front-page articles by Ansel E. Talbert, Military and Aviation Editor of the New York Herald Tribune, published 20, 21 and 22 November 1955 under the titles 'Conquest of Gravity Aim Of Top Scientists in U. S.', 'Space-Ship Marvel Seen If Gravity Is Outwitted' and 'New Air Dream, Planes Flying Outside Gravity'. They are the contemporaneous press record behind every later claim that American aerospace executives said on the record in the 1950s that gravity could be controlled. They name the firms, quote Lawrence D. Bell, William P. Lear and George S. Trimble jr. directly, and report the founding of the Chapel Hill gravity institute under an earlier name. They do not mention Thomas Townsend Brown.",
-"domains": [
-"dannyjones-2026-09-03"
-],
+"domains": [],
 "dossier": {
 "claims": [
 {
@@ -252,7 +251,11 @@
 "tier": "C"
 }
 ],
+"openQuestions": [],
 "short": "Talbert gravity series, Nov 1955",
+"sourceFiles": [
+"dannyjones-2026-09-03"
+],
 "sources": [
 {
 "date": null,
@@ -272,6 +275,7 @@
 ],
 "sub": "Three front-page articles by Ansel E. Talbert, Military and Aviation Editor, New York Herald Tribune, 20, 21 and 22 November 1955",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 562 of 1170, score 29). 6 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.",
-"timeline": []
+"tierRationale": "Re-graded B on a global pass (rank 561 of 1170, score 29). 6 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.",
+"timeline": [],
+"unverified": []
 }

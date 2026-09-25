@@ -42,6 +42,7 @@
 ],
 "cls": "event",
 "cluster": "ic",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -155,18 +156,20 @@
 "deg": 5,
 "denials": [
 {
-"by": {
+"a": {
 "id": "frank-olson-death-1953",
 "label": "Death of Frank R. Olson, 1953, and the compensation and litigation that followed"
 },
+"b": {
+"id": "d-denial",
+"label": "Official Denial"
+},
+"by": null,
 "claimTier": 1,
 "denialKind": null,
 "label": "The Rockefeller Commission anonymised him and footnoted his stability",
 "note": "The published report calls him only an employee of the Department of the Army and attaches a footnote saying the few remaining Agency records indicate he may have had a history of emotional instability.",
-"of": {
-"id": "d-denial",
-"label": "Official Denial"
-},
+"of": null,
 "sources": [
 {
 "date": "1975-06",
@@ -177,9 +180,7 @@
 }
 ],
 "desc": "This is the one death inside a compartmented American programme that the government conceded, compensated by statute, and then litigated over sixty years later, and it belongs on this board because the paper trail exists on both sides. Frank R. Olson, a civilian employee of the Army at Fort Detrick, was given LSD without his knowledge in a bottle of Cointreau at a CIA and Army meeting on 19 November 1953 and died in New York within about a week. The Rockefeller Commission disclosed the connection in June 1975 without naming him, and attached to its own account a footnote saying the few remaining Agency records indicate he may have had a history of emotional instability. Congress paid his widow and three children $187,500 each in 1976 in exchange for a full waiver, and President Ford signed it saying his administration had wanted twice that. In 2012 two of the children sued the United States alleging the death was a murder concealed for sixty years; the District of Columbia dismissed the suit in 2013 on timeliness, the 1976 waiver and sovereign immunity, while recording that the public record supports many of the allegations. Four opened records disagree about which floor he fell from, what day he died and whether anyone was reprimanded.",
-"domains": [
-"dannyjones-2026-09-03"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -193,7 +194,11 @@
 "label": "Death of Frank R. Olson, 1953, and the compensation and litigation that followed",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Death of Frank R. Olson, 1953, and the compensation and litigation that followed",
+"sourceFiles": [
+"dannyjones-2026-09-03"
+],
 "sources": [
 {
 "date": "1975-06",
@@ -218,6 +223,7 @@
 ],
 "sub": "Army civilian dosed with LSD without his knowledge at a CIA meeting on 19 November 1953; died in New York days later; compensated by Private Law 94-126 in 1976; the family's 2012 suit dismissed in D.D.C. in 2013",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 221 of 1170, score 44). 5 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D3.",
-"timeline": []
+"tierRationale": "Re-graded B on a global pass (rank 219 of 1170, score 44). 5 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D3.",
+"timeline": [],
+"unverified": []
 }

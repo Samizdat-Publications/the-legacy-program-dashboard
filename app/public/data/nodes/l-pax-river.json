@@ -17,6 +17,7 @@
 ],
 "cls": "location",
 "cluster": "contractor",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -109,9 +110,7 @@
 "deg": 4,
 "denials": [],
 "desc": "Pax River is the headquarters of Naval Air Systems Command and the Navy's principal aviation research, development, test and evaluation centre; its FOIA reading room became the official repository for the Gimbal and GoFast UAP videos in 2020. In January 2026 Liberation Times reported that an exotic vehicle of unknown origin has been stored at the base for decades, that sources declined to describe it or say where it was found, and that contingency plans may exist to relocate it if the location were publicly identified. The reporting notes that NAVAIR Program Executive Offices manage the contracts through which analysis and exploitation work would run, and that the supporting contractor ecosystem has included Lockheed Martin and MITRE. Elizondo, in written testimony to Congress, placed Pax River among the sites prepared in connection with the blocked Lockheed Martin - Bigelow transfer, alleging a hangar designed to move material by air and by river. The board records this as tier-2 reporting resting on unnamed sources, with the Elizondo written-testimony element as its strongest anchor.",
-"domains": [
-"primes-custody"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -125,7 +124,11 @@
 "label": "Naval Air Station Patuxent River, Maryland",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Naval Air Station Patuxent River, Maryland",
+"sourceFiles": [
+"primes-custody"
+],
 "sources": [
 {
 "date": "2026-01-13",
@@ -135,16 +138,18 @@
 ],
 "sub": "NAVAIR headquarters; alleged long-term storage site",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 415 of 1170, score 34). 4 connections, 1 of them custody/funding/programmatic. Axes C3/A3/D1.",
+"tierRationale": "Re-graded B on a global pass (rank 418 of 1170, score 34). 4 connections, 1 of them custody/funding/programmatic. Axes C3/A3/D1.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2026-01-13",
+"grade": "B",
 "id": "pc-2026-01-pax",
 "label": "Pax River storage claim surfaces",
 "precision": "day",
 "strand": "program",
-"text": "Liberation Times reports that an exotic vehicle of unknown origin has been stored for decades at Naval Air Station Patuxent River, with contingency relocation plans, and that Elizondo's written congressional testimony placed the base among sites prepared for the blocked Lockheed-Bigelow transfer.",
-"tier": "B"
+"text": "Liberation Times reports that an exotic vehicle of unknown origin has been stored for decades at Naval Air Station Patuxent River, with contingency relocation plans, and that Elizondo's written congressional testimony placed the base among sites prepared for the blocked Lockheed-Bigelow transfer."
 }
-]
+],
+"unverified": []
 }

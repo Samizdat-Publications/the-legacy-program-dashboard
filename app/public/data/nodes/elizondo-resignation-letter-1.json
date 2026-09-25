@@ -12,6 +12,7 @@
 ],
 "cls": "document",
 "cluster": "witness",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -88,9 +89,7 @@
 "deg": 3,
 "denials": [],
 "desc": "A short formal letter dated 3 October 2017 in which Luis Elizondo writes: 'Effective 4 October 2017, I humbly submit my resignation as Director, National Programs Special Management Staff... I respectfully request I receive a deferred retirement.' It was hand-delivered rather than routed through standard channels, per Elizondo's attorney Todd McMurtry, and reporting identifies the recipient as his supervisor John Garrity. Released in OSD/JS FOIA case 18-F-0324. This letter is the load-bearing document of the whole domain: it establishes, in Elizondo's own hand and on the Department's own paper, the exact title he held and the exact date he left — the two facts the Department has never contested even while contesting his program role.",
-"domains": [
-"elizondo-ttsa"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "3",
@@ -104,7 +103,11 @@
 "label": "Elizondo Resignation Letter #1, 3 October 2017",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Elizondo Resignation Letter #1, 3 October 2017",
+"sourceFiles": [
+"elizondo-ttsa"
+],
 "sources": [
 {
 "date": "2022-08-17",
@@ -122,13 +125,15 @@
 "tierRationale": "Re-graded C on a global pass (rank 790 of 1170, score 22). 3 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2017-10-03",
+"grade": "A",
 "id": "tl-2017-10-03-resign1",
 "label": "Resignation letter #1",
 "precision": "day",
 "strand": "witness",
-"text": "'Effective 4 October 2017, I humbly submit my resignation as Director, National Programs Special Management Staff... I respectfully request I receive a deferred retirement.' Hand-delivered.",
-"tier": "A"
+"text": "'Effective 4 October 2017, I humbly submit my resignation as Director, National Programs Special Management Staff... I respectfully request I receive a deferred retirement.' Hand-delivered."
 }
-]
+],
+"unverified": []
 }

@@ -47,6 +47,7 @@
 ],
 "cls": "legislation",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -175,18 +176,20 @@
 "deg": 5,
 "denials": [
 {
-"by": {
+"a": {
 "id": "chuck-schumer",
 "label": "Charles E. Schumer"
 },
+"b": {
+"id": "ndaa-fy2024-subtitle-c",
+"label": "P.L. 118-31 Subtitle C - Secs. 1841-1843 (what survived)"
+},
+"by": null,
 "claimTier": 2,
 "denialKind": "association",
 "label": "Publicly called the removal of the Review Board an outrage",
 "note": "Schumer said it was 'really an outrage the House didn't work with us on adopting our proposal for a review board' after the conference product removed it.",
-"of": {
-"id": "ndaa-fy2024-subtitle-c",
-"label": "P.L. 118-31 Subtitle C — Secs. 1841-1843 (what survived)"
-},
+"of": null,
 "sources": [
 {
 "date": "2023-12-22",
@@ -196,18 +199,20 @@
 ]
 },
 {
-"by": {
+"a": {
 "id": "ndaa-fy2024-subtitle-c",
-"label": "P.L. 118-31 Subtitle C — Secs. 1841-1843 (what survived)"
+"label": "P.L. 118-31 Subtitle C - Secs. 1841-1843 (what survived)"
 },
+"b": {
+"id": "uap-records-review-board",
+"label": "Unidentified Anomalous Phenomena Records Review Board"
+},
+"by": null,
 "claimTier": 1,
 "denialKind": "association",
 "label": "Postponement authority returned to the original classifier",
 "note": "Sec. 1843(a) vests the clear-and-convincing determination in 'the original classification authority' — the very offices the Review Board was created to review.",
-"of": {
-"id": "uap-records-review-board",
-"label": "Unidentified Anomalous Phenomena Records Review Board"
-},
+"of": null,
 "sources": [
 {
 "date": "2023-12-22",
@@ -223,10 +228,7 @@
 }
 ],
 "desc": "What Congress actually enacted is a records-transfer statute with the enforcement removed. Sec. 1841 orders the Archivist to establish the Unidentified Anomalous Phenomena Records Collection, requires physical integrity and original provenance to be preserved, requires public availability within 30 days of transmission and online within 180 days thereafter, and assigns continuing oversight to six committees. Sec. 1842 bars destruction, alteration or mutilation of any UAP record, bars withholding or reclassification of anything already public, bars withholding of records created outside the Federal Government, and gives agency heads 300 days to review and organise. Sec. 1843 is where it fails. Postponement may be ordered where 'the original classification authority makes a determination that there is clear and convincing evidence' of harm — the clear and convincing standard survives, but the person applying it is the classifier rather than an independent board, which converts a check into a self-certification. Senior Agency Officials may unilaterally withdraw records from the Collection on a determination that they are both unrelated to UAP and properly classified, needing only to notify Congress 60 days beforehand. Where disclosure is postponed the agency head must notify congressional leadership within 15 days with a reason. There is no appeal, no de novo review, no subpoena and no mechanism reaching material rather than paper.",
-"domains": [
-"_rs-legislation",
-"congress-senate-legislation"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "3",
@@ -237,10 +239,15 @@
 "hl": null,
 "id": "ndaa-fy2024-subtitle-c",
 "l0": false,
-"label": "P.L. 118-31 Subtitle C — Secs. 1841-1843 (what survived)",
+"label": "P.L. 118-31 Subtitle C - Secs. 1841-1843 (what survived)",
 "locLabel": null,
 "members": null,
-"short": "P.L. 118-31 Subtitle C — Secs. 1841-1843 (what survived)",
+"openQuestions": [],
+"short": "P.L. 118-31 Subtitle C - Secs. 1841-1843 (what survived)",
+"sourceFiles": [
+"_rs-legislation",
+"congress-senate-legislation"
+],
 "sources": [
 {
 "date": "2023-12-22",
@@ -255,16 +262,18 @@
 ],
 "sub": "Enacted UAP records regime, 22 December 2023",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 171 of 1170, score 49). 5 connections, 0 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C1/A2/D2.",
+"tierRationale": "Re-graded A on a global pass (rank 170 of 1170, score 49). 5 connections, 0 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C1/A2/D2.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2024-10-17",
+"grade": "A",
 "id": "cl-2024-10-17",
 "label": "Agency review deadline expires",
 "precision": "day",
 "strand": "oversight",
-"text": "The 300-day deadline in Sec. 1842(c)(1) for every Government office to review, identify and organise its UAP records passes.",
-"tier": "A"
+"text": "The 300-day deadline in Sec. 1842(c)(1) for every Government office to review, identify and organise its UAP records passes."
 }
-]
+],
+"unverified": []
 }

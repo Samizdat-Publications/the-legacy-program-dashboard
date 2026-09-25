@@ -12,6 +12,7 @@
 ],
 "cls": "location",
 "cluster": "contractor",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -41,9 +42,7 @@
 "deg": 1,
 "denials": [],
 "desc": "The San Diego County coastal town that served as To The Stars Academy's corporate base, including the brick-and-mortar store operated by the Entertainment Division as recorded in the company's Form 1-K. It is the physical counterpart to the Pentagon in this domain: the address at which a former Skunk Works program director, a retired CIA Senior Intelligence Service officer, and a man who had just resigned from OUSD(I) were all, briefly, employees of the same small California company.",
-"domains": [
-"elizondo-ttsa"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "3",
@@ -57,7 +56,11 @@
 "label": "Encinitas, California",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Encinitas, California",
+"sourceFiles": [
+"elizondo-ttsa"
+],
 "sources": [
 {
 "date": "2018-04-30",
@@ -68,5 +71,6 @@
 "sub": "To The Stars Academy corporate base and retail location",
 "tier": "C",
 "tierRationale": "Re-graded C on a global pass (rank 1130 of 1170, score 10). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A0/D1.",
-"timeline": []
+"timeline": [],
+"unverified": []
 }

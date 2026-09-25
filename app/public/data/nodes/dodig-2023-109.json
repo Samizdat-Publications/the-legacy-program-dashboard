@@ -87,6 +87,7 @@
 ],
 "cls": "document",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -241,6 +242,14 @@
 "deg": 5,
 "denials": [
 {
+"a": {
+"id": "dodig-2023-109",
+"label": "DoD OIG - Evaluation of the DoD's Actions Regarding Unidentified Anomalous Phenomena (DODIG-2023-109)"
+},
+"b": {
+"id": "dod",
+"label": "United States Department of Defense (secondary designation: Department of War)"
+},
 "by": {
 "id": "dod",
 "label": "United States Department of Defense (secondary designation: Department of War)"
@@ -268,12 +277,7 @@
 }
 ],
 "desc": "The Inspector General's evaluation of how the Department handles UAP, completed 15 August 2023 and released in unclassified summary on 25 January 2024. The full report is classified; the public has the summary only. Its findings are structural and damning in an undramatic way: the Department has no overarching UAP policy; different DoD components each developed their own separate processes for collecting, analysing and identifying UAP incidents; and as a result the Department cannot ensure that national security and flight safety threats from UAP have been identified and addressed. It made eleven recommendations to the Under Secretary of Defense for Intelligence and Security, the service secretaries and the Chairman of the Joint Chiefs, including development of a department-wide policy to integrate UAP roles, responsibilities, requirements and coordination procedures into existing intelligence, counterintelligence and force protection policies. For this board the finding that matters is the fragmentation one. An office that formally reviews only what it can reach, inside a department the IG says has no unified UAP process and component-level stovepipes, cannot produce a negative finding of departmental scope - and every AARO negative finding since has been phrased as 'AARO has discovered no evidence', which is a statement about AARO's reach, not the Department's contents. The classification of the full report means the IG's own account of where the stovepipes are remains unavailable, including through PURSUE.",
-"domains": [
-"_rs-aaro-reports",
-"_rs-archive-mirror",
-"releases-2023-2026",
-"uaptf-aaro"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "3",
@@ -287,7 +291,14 @@
 "label": "DoD OIG - Evaluation of the DoD's Actions Regarding Unidentified Anomalous Phenomena (DODIG-2023-109)",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "DoD OIG - Evaluation of the DoD's Actions Regarding Unidentified Anomalous Phenomena (DODIG-2023-109)",
+"sourceFiles": [
+"_rs-aaro-reports",
+"_rs-archive-mirror",
+"releases-2023-2026",
+"uaptf-aaro"
+],
 "sources": [
 {
 "date": "2023-08-15",
@@ -345,40 +356,65 @@
 "tierRationale": "Re-graded A on a global pass (rank 79 of 1170, score 69). 6 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2023-08-15",
+"grade": null,
+"id": "_rs-aaro-reports-4",
+"label": "DoD OIG issues classified report DODIG-2023-109, finding DoD has no overarching UAP policy",
+"precision": "day",
+"strand": "program",
+"text": null
+},
+{
+"claimTier": null,
+"date": "2023-08-15",
+"grade": "A",
 "id": "rel-2023-08-15",
 "label": "DoD IG completes DODIG-2023-109",
 "precision": "day",
 "strand": "oversight",
-"text": "The Inspector General finds no department-wide UAP policy and component-level stovepipes, and cannot confirm that UAP threats have been identified and addressed. The full report stays classified.",
-"tier": "A"
+"text": "The Inspector General finds no department-wide UAP policy and component-level stovepipes, and cannot confirm that UAP threats have been identified and addressed. The full report stays classified."
 },
 {
+"claimTier": null,
 "date": "2023-08-15",
+"grade": "A",
 "id": "tl-ig-2023-08-15",
 "label": "DoD IG issues DODIG-2023-109",
 "precision": "day",
 "strand": "oversight",
-"text": "The Inspector General finds no comprehensive DoD approach to UAP, combatant commanders largely excluded, and no requirement that components report UAP incidents to AARO.",
-"tier": "A"
+"text": "The Inspector General finds no comprehensive DoD approach to UAP, combatant commanders largely excluded, and no requirement that components report UAP incidents to AARO."
 },
 {
+"claimTier": null,
 "date": "2024-01-25",
+"grade": null,
+"id": "_rs-aaro-reports-7",
+"label": "DoD OIG publishes the unclassified summary of DODIG-2023-109",
+"precision": "day",
+"strand": "program",
+"text": null
+},
+{
+"claimTier": null,
+"date": "2024-01-25",
+"grade": "A",
 "id": "rel-2024-01-25",
 "label": "IG summary released",
 "precision": "day",
 "strand": "coverup",
-"text": "The unclassified summary of DODIG-2023-109 is published; the findings are structural and the full report remains withheld.",
-"tier": "A"
+"text": "The unclassified summary of DODIG-2023-109 is published; the findings are structural and the full report remains withheld."
 },
 {
+"claimTier": null,
 "date": "2024-01-25",
+"grade": "A",
 "id": "tl-ig-summary-2024-01-25",
 "label": "DoD IG unclassified summary published",
 "precision": "day",
 "strand": "oversight",
-"text": "The public summary of DODIG-2023-109 lands, documenting that DoD does not require components to report UAP incidents to its own authoritative UAP office.",
-"tier": "A"
+"text": "The public summary of DODIG-2023-109 lands, documenting that DoD does not require components to report UAP incidents to its own authoritative UAP office."
 }
-]
+],
+"unverified": []
 }

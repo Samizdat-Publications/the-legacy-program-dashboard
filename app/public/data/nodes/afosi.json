@@ -47,6 +47,7 @@
 ],
 "cls": "institution",
 "cluster": "legacy",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -227,6 +228,14 @@
 "deg": 7,
 "denials": [
 {
+"a": {
+"id": "yankee-blue",
+"label": "YANKEE BLUE (alleged AFOSI indoctrination program)"
+},
+"b": {
+"id": "afosi",
+"label": "Air Force Office of Special Investigations"
+},
 "by": {
 "id": "afosi",
 "label": "Air Force Office of Special Investigations"
@@ -259,11 +268,7 @@
 }
 ],
 "desc": "AFOSI is the Air Force's independent criminal investigative and counterintelligence field agency, established in 1948 on the FBI model, whose remit it states covers 'espionage, terrorism, crimes against property, violence against people, larceny, computer hacking, acquisition fraud, drug use and distribution, financial misdeeds, military desertion, corruption of the contracting process, and any other illegal activity that undermines the mission of the U.S. Air Force or the Department of Defense', with units 'located at most Air Force bases worldwide'. AFOSI matters to this board because it is the one component of the US government whose participation in a UFO disinformation campaign is documented from the government's own files and admitted by the officer who ran it. Between 1980 and 1983 AFOSI Special Agent Richard C. Doty, working out of the Kirtland Air Force Base detachment during the Manzano Weapons Storage Area intrusion investigations, fed fabricated documents about crash retrievals, alien liaison and a programme called AQUARIUS to the Albuquerque physicist Paul Bennewitz, who was conducting his own surveillance of the base perimeter; Bennewitz's mental collapse is the documented outcome. The AFOSI Kirtland file, released under FOIA and archived by NICAP, is the primary record; Doty's later personnel file, released in 321 pages by the New Mexico State Police under the state's Inspection of Public Records Act, is the corroborating one; and Doty has repeatedly acknowledged on the record that he passed disinformation under orders. The Bennewitz operation is the reason no claim in this field can be evaluated without asking who benefits from the claimant being believed. It also cuts the other way, and this is the part usually omitted: a counterintelligence agency does not build a bespoke disinformation apparatus around a private citizen with a telescope unless something at the perimeter of that installation was worth protecting. In September 2025 the Wall Street Journal reported an alleged Air Force practice codenamed YANKEE BLUE, in which personnel were said to have been shown fabricated material about recovered craft as a loyalty or security test; the Pentagon first denied that any such memo existed and then, in December 2025, reopened the search for it.",
-"domains": [
-"_rs-archive-mirror",
-"dulce-2026-09-19",
-"w2-agencies"
-],
+"domains": [],
 "dossier": {
 "claims": [
 {
@@ -438,7 +443,13 @@
 "tier": "A"
 }
 ],
+"openQuestions": [],
 "short": "AFOSI",
+"sourceFiles": [
+"_rs-archive-mirror",
+"dulce-2026-09-19",
+"w2-agencies"
+],
 "sources": [
 {
 "date": "2023-12-09",
@@ -488,25 +499,28 @@
 ],
 "sub": "Air Force felony investigative and counterintelligence field agency; the documented author of a UFO disinformation operation",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 165 of 1170, score 50). 7 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D0.",
+"tierRationale": "Re-graded A on a global pass (rank 163 of 1170, score 50). 7 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D0.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1980-08-08",
+"grade": "A",
 "id": "ag-tl-1980-kirtland",
 "label": "Manzano intrusions and the Bennewitz operation",
 "precision": "month",
 "strand": "coverup",
-"text": "AFOSI at Kirtland AFB investigates intrusions at the Manzano Weapons Storage Area adjacent to Sandia while simultaneously feeding fabricated crash-retrieval material to the physicist Paul Bennewitz through Special Agent Richard Doty.",
-"tier": "A"
+"text": "AFOSI at Kirtland AFB investigates intrusions at the Manzano Weapons Storage Area adjacent to Sandia while simultaneously feeding fabricated crash-retrieval material to the physicist Paul Bennewitz through Special Agent Richard Doty."
 },
 {
+"claimTier": null,
 "date": "2025-09-16",
+"grade": "B",
 "id": "ag-tl-2025-yankee",
 "label": "Pentagon denies the YANKEE BLUE memo",
 "precision": "day",
 "strand": "coverup",
-"text": "After the Wall Street Journal reports an alleged Air Force practice of showing fabricated recovered-craft material to personnel, the Department denies any such memo exists - then reopens the search on 15 December 2025.",
-"tier": "B"
+"text": "After the Wall Street Journal reports an alleged Air Force practice of showing fabricated recovered-craft material to personnel, the Department denies any such memo exists - then reopens the search on 15 December 2025."
 }
-]
+],
+"unverified": []
 }

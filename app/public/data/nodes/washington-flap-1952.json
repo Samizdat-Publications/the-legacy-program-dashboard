@@ -27,6 +27,7 @@
 ],
 "cls": "event",
 "cluster": "legacy",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -124,9 +125,7 @@
 "deg": 4,
 "denials": [],
 "desc": "On consecutive weekends in July 1952 unidentified targets were tracked on radar at Washington National Airport, at Andrews Air Force Base and by the Air Route Traffic Control Center, with visual corroboration from airline crews and interceptors scrambled from Newcastle. It was the largest concentration of radar-visual events in American airspace over the seat of government, it ran on the front pages for weeks, and it produced the largest Air Force press conference since the Second World War, at which the events were attributed to temperature inversion. The flap is the pivot of the legacy era for one reason: it moved the problem from the Air Force to the intelligence community. Within eight weeks H. Marshall Chadwell of the CIA Office of Scientific Intelligence was writing to the Director of Central Intelligence that official reports had totalled 250 in July 1952 alone and that the situation contained 'two elements of danger which... have national security implications' — the danger being psychological warfare exposure and the saturation of air defence channels, not the objects. Six months later the Robertson Panel met. Everything that follows in the American handling of this subject descends from the government's decision, in the autumn of 1952, that the reporting was the threat.",
-"domains": [
-"history-1940s-1960s"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -140,7 +139,11 @@
 "label": "1952 Washington DC Sightings",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "1952 Washington DC Sightings",
+"sourceFiles": [
+"history-1940s-1960s"
+],
 "sources": [
 {
 "date": "1952-09-11",
@@ -163,13 +166,15 @@
 "tierRationale": "Re-graded C on a global pass (rank 664 of 1170, score 26). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D2.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1952-07-19",
+"grade": "A",
 "id": "tl-1952-07-19",
 "label": "Washington DC radar-visual sightings",
 "precision": "day",
 "strand": "witness",
-"text": "Unidentified targets are tracked at Washington National, Andrews AFB and the ARTCC over consecutive July weekends, with visual corroboration and scrambled interceptors.",
-"tier": "A"
+"text": "Unidentified targets are tracked at Washington National, Andrews AFB and the ARTCC over consecutive July weekends, with visual corroboration and scrambled interceptors."
 }
-]
+],
+"unverified": []
 }

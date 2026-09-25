@@ -27,6 +27,7 @@
 ],
 "cls": "domain",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -82,10 +83,7 @@
 "deg": 2,
 "denials": [],
 "desc": "Disclosure is not a wish on this board; it is a campaign with identifiable phases, organisations and instruments. The modern phase begins with the December 2017 New York Times report on the Advanced Aerospace Threat Identification Program, runs through the Department of Defense's own release of three Navy videos on 27 April 2020, the June 2021 ODNI preliminary assessment, the July 2023 House Oversight hearing at which David Grusch, David Fravor and Ryan Graves testified under oath, and into a 2025-2026 phase characterised by whistleblower-protection legislation and records-release amendments rather than by revelation. The movement's distinctive feature is that it is coalitional and cross-partisan by necessity - its instruments are procedural (records law, IG complaints, hearing subpoenas, appropriations riders) because the substantive question is precisely the one it cannot get answered. Its documented achievements are the AARO statutory mandate, the NARA records collection, and a permanent shift in what an active-duty officer may say publicly without ending a career. Scoring high on this domain - the D axis - measures centrality to forcing the record open, and it is the one axis on which a person with no access at all can score three.",
-"domains": [
-"_rs-archive-mirror",
-"w2-taxonomy"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -99,7 +97,12 @@
 "label": "Disclosure Movement",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Disclosure Movement",
+"sourceFiles": [
+"_rs-archive-mirror",
+"w2-taxonomy"
+],
 "sources": [
 {
 "date": "2026-08-02",
@@ -135,5 +138,6 @@
 "sub": "Political domain - the organised effort to force the record open, 1969 to the present",
 "tier": "C",
 "tierRationale": "Re-graded C on a global pass (rank 878 of 1170, score 19). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.",
-"timeline": []
+"timeline": [],
+"unverified": []
 }

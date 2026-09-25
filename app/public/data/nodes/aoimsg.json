@@ -22,6 +22,7 @@
 ],
 "cls": "program",
 "cluster": "ic",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -47,8 +48,8 @@
 {
 "claimTier": 1,
 "cls": "person",
-"dateEnd": null,
-"dateStart": null,
+"dateEnd": "2021",
+"dateStart": "2021",
 "direction": "in",
 "edgeLabel": "directed establishment of AOIMSG, 23 November 2021",
 "id": "kathleen-hicks",
@@ -72,10 +73,7 @@
 "deg": 2,
 "denials": [],
 "desc": "AOIMSG was directed into existence by Deputy Secretary of Defense Kathleen Hicks on 23 November 2021 as the Department's answer to Section 1683 of the FY2022 NDAA, which required a permanent office. It was overseen by an executive council, AOIMEXEC, co-chaired by the Under Secretary of Defense for Intelligence and Security and the Director for Operations of the Joint Staff. Its name is its function: a synchronization group, not an investigative office - a coordinating layer with no independent authority to compel access to anything. It existed for eight months and produced no public product. Congress and the press treated it as inadequate almost immediately, and Hicks superseded it with AARO on 15 July 2022. AOIMSG is the clearest single illustration of the pattern this board tracks: when Congress mandates a body with real authority, the Department first stands up something with the name and none of the powers, and only escalates when that fails politically.",
-"domains": [
-"_rs-archive-mirror",
-"uaptf-aaro"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "3",
@@ -89,7 +87,12 @@
 "label": "Airborne Object Identification and Management Synchronization Group (AOIMSG)",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Airborne Object Identification and Management Synchronization Group (AOIMSG)",
+"sourceFiles": [
+"_rs-archive-mirror",
+"uaptf-aaro"
+],
 "sources": [
 {
 "date": "2026-06-09",
@@ -109,16 +112,18 @@
 ],
 "sub": "OSD synchronization group, Nov 2021 - Jul 2022",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 815 of 1170, score 21). 2 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D1.",
+"tierRationale": "Re-graded C on a global pass (rank 816 of 1170, score 21). 2 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D1.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2021-11-23",
+"grade": "B",
 "id": "tl-aoimsg-2021-11-23",
 "label": "AOIMSG stood up",
 "precision": "day",
 "strand": "program",
-"text": "Deputy Secretary Hicks directs establishment of the Airborne Object Identification and Management Synchronization Group, a coordinating layer with no independent authority, overseen by AOIMEXEC.",
-"tier": "B"
+"text": "Deputy Secretary Hicks directs establishment of the Airborne Object Identification and Management Synchronization Group, a coordinating layer with no independent authority, overseen by AOIMEXEC."
 }
-]
+],
+"unverified": []
 }

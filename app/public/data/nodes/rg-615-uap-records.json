@@ -32,6 +32,7 @@
 ],
 "cls": "institution",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 3,
@@ -68,7 +69,7 @@
 "edgeLabel": "The first statutory records mechanism descends from the destruction problem",
 "id": "gao-nsiad-95-187",
 "l0": false,
-"label": "GAO/NSIAD-95-187 — Results of a Search for Records Concerning the 1947 Crash Near Roswell",
+"label": "GAO/NSIAD-95-187 - Results of a Search for Records Concerning the 1947 Crash Near Roswell",
 "note": "RG 615 was created under PL 118-31 sections 1841-1843 after decades in which the only auditable finding was GAO's: that the relevant legacy records had been destroyed with no recorded authority.",
 "sources": [
 {
@@ -118,9 +119,7 @@
 "deg": 3,
 "denials": [],
 "desc": "Record Group 615, the Unidentified Anomalous Phenomena Records Collection at the National Archives, is the first statutory records mechanism ever created for this subject and the direct descendant of the legacy-era destruction problem. It was established under sections 1841 to 1843 of the FY2024 National Defense Authorization Act, Public Law 118-31 — the surviving remnant of the far broader UAP Disclosure Act, which would have created an independent review board with eminent-domain authority over recovered materials before it was stripped in conference. Federal agencies are required to identify and transfer UAP records to NARA, which accessions them into RG 615 on a rolling basis, and NARA has been digitising its existing legacy holdings in parallel. For this domain the collection is a test: the 1940s-1960s records that matter are the ones Bolender said went up the JANAP 146 channel and the ones GAO found destroyed at Roswell Army Air Field. Whether RG 615 ever contains an Air Materiel Command T-2 series, a CIRVIS report series, or a disposition record for the destroyed RAAF traffic is the measurable question this board will track. As of the topic page's last update in April 2025 the collection was being populated incrementally.",
-"domains": [
-"history-1940s-1960s"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "3",
@@ -131,10 +130,14 @@
 "hl": null,
 "id": "rg-615-uap-records",
 "l0": false,
-"label": "NARA Record Group 615 — UAP Records Collection",
+"label": "NARA Record Group 615 - UAP Records Collection",
 "locLabel": null,
 "members": null,
-"short": "NARA Record Group 615 — UAP Records Collection",
+"openQuestions": [],
+"short": "NARA Record Group 615 - UAP Records Collection",
+"sourceFiles": [
+"history-1940s-1960s"
+],
 "sources": [
 {
 "date": "2025-04-24",
@@ -154,25 +157,28 @@
 ],
 "sub": "National Archives collection established under PL 118-31 §§1841-1843",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 388 of 1170, score 35). 3 connections, 2 of them custody/funding/programmatic. Axes C1/A1/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 390 of 1170, score 35). 3 connections, 2 of them custody/funding/programmatic. Axes C1/A1/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2024-12-01",
+"grade": "A",
 "id": "tl-2024-12",
 "label": "NARA Record Group 615 established",
 "precision": "month",
 "strand": "oversight",
-"text": "Under sections 1841-1843 of the FY2024 NDAA (PL 118-31) the National Archives creates the UAP Records Collection, the first statutory records mechanism ever applied to this subject.",
-"tier": "A"
+"text": "Under sections 1841-1843 of the FY2024 NDAA (PL 118-31) the National Archives creates the UAP Records Collection, the first statutory records mechanism ever applied to this subject."
 },
 {
+"claimTier": null,
 "date": "2025-04-24",
+"grade": "B",
 "id": "tl-2025-04-24",
 "label": "NARA digitisation continues",
 "precision": "day",
 "strand": "oversight",
-"text": "The National Archives UAP topic page records ongoing rolling accession into RG 615 and digitisation of legacy holdings. No AMC T-2 series and no CIRVIS report series have been identified.",
-"tier": "B"
+"text": "The National Archives UAP topic page records ongoing rolling accession into RG 615 and digitisation of legacy holdings. No AMC T-2 series and no CIRVIS report series have been identified."
 }
-]
+],
+"unverified": []
 }

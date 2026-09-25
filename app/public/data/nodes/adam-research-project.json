@@ -57,6 +57,7 @@
 ],
 "cls": "program",
 "cluster": "research",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -263,11 +264,7 @@
 "deg": 7,
 "denials": [],
 "desc": "The ADAM Research Project is the only publicly documented attempt to move alleged UAP material from private hands into a formal government research relationship, and it is a case study in what a broken chain of custody looks like. To The Stars Academy announced in July 2019 that it had acquired and was studying 'potentially exotic materials'. Its COO Steve Justice - former director of Advanced Systems at Lockheed Martin's Skunk Works - said 'the structure and composition of these materials are not from any known existing military or commercial application' and, with unusual candour, that the materials 'have been collected from sources with varying levels of chain-of-custody documentation, so we are focusing on verifiable facts and working to develop independent scientific proof of the materials' properties and attributes.' SEC filings record TTSA paying $35,000 for several items including six pieces of bismuth/magnesium-zinc metal and a piece of aluminium. Those samples had previously been retained and studied by ufologist Linda Moulton Howe, who says she had them tested by the Carnegie Institution's Department of Terrestrial Magnetism in 1996 and subsequently by Harold Puthoff on several occasions. A 2012 letter from Puthoff reported that the tests had not proved alien origin nor produced any 'interesting/anomalous outcome', with one further test outstanding for want of specialised equipment. TTSA then partnered with laboratories founded by Puthoff to continue the work, and on 17 October 2019 entered a five-year cooperative research and development agreement with the US Army Combat Capabilities Development Command covering inertial mass reduction, mechanical and structural metamaterials, electromagnetic metamaterial waveguides, quantum physics, quantum communications and beamed energy propulsion. No analytical results have been published. Chemists including Richard Sachleben and May Nyman have said any unknown alloy would be identified within hours at any competent laboratory; Chris Cogswell suggested the bismuth/magnesium-zinc pieces are Betterton-Kroll process slag.",
-"domains": [
-"_rs-archive-mirror",
-"elizondo-ttsa",
-"scientists-technical"
-],
+"domains": [],
 "dossier": {
 "claims": [
 {
@@ -276,24 +273,24 @@
 "tier": 2
 },
 {
-"source": "https://tothestars.media/blogs/press-and-news/to-the-stars-academy-of-arts-science-makes-groundbreaking-metamaterials-acquisition",
+"source": "https://tothestars.media/blogs/press-and-news/to-the-stars-academy-of-arts-science-makes-groundbreaking-metamaterials-acquisition - DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "text": "On 25 July 2019 TTSA announced it had acquired multiple pieces of metamaterials and an archive of initial analysis and research previously retained and studied by investigative journalist Linda Moulton Howe.",
-"tier": 1
+"tier": 2
 },
 {
-"source": "https://tothestars.media/blogs/press-and-news/to-the-stars-academy-of-arts-science-makes-groundbreaking-metamaterials-acquisition",
+"source": "https://tothestars.media/blogs/press-and-news/to-the-stars-academy-of-arts-science-makes-groundbreaking-metamaterials-acquisition - DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "text": "TTSA COO Steve Justice, formerly head of Advanced Systems at Lockheed Martin's Skunk Works, stated: 'The structure and composition of these materials are not from any known existing military or commercial application.'",
-"tier": 1
+"tier": 2
 },
 {
-"source": "https://tothestars.media/blogs/press-and-news/to-the-stars-academy-of-arts-science-makes-groundbreaking-metamaterials-acquisition",
+"source": "https://tothestars.media/blogs/press-and-news/to-the-stars-academy-of-arts-science-makes-groundbreaking-metamaterials-acquisition - DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "text": "In the same release Justice conceded that the materials 'have been collected from sources with varying levels of chain-of-custody documentation,' and stated that the material 'has been in documented possession since the mid-1990's.'",
-"tier": 1
+"tier": 2
 },
 {
-"source": "https://tothestars.media/blogs/press-and-news/to-the-stars-academy-of-arts-science-makes-groundbreaking-metamaterials-acquisition",
+"source": "https://tothestars.media/blogs/press-and-news/to-the-stars-academy-of-arts-science-makes-groundbreaking-metamaterials-acquisition - DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "text": "Justice stated the objective as capability transition: 'If the claims associated with these assets can be validated and substantiated, then we can initiate work to transition them from being a technology to commercial and military capabilities.'",
-"tier": 1
+"tier": 2
 },
 {
 "source": "https://www.singularfortean.com/news/2018/7/27/ttsa-announces-launch-of-the-adam-research-project",
@@ -316,19 +313,19 @@
 "tier": 2
 },
 {
-"source": "https://tothestars.media/blogs/press-and-news/tts-analysis-on-ornl",
+"source": "https://tothestars.media/blogs/press-and-news/tts-analysis-on-ornl - DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "text": "Oak Ridge National Laboratory analyzed the magnesium-zinc-bismuth (MgZn/Bi) 'Art's Parts' sample and TTS posted the ORNL report on its site in July 2024.",
-"tier": 1
+"tier": 2
 },
 {
-"source": "https://tothestars.media/blogs/press-and-news/tts-analysis-on-ornl (report pages published as EWD-HEP_Report_TTS-AARO-ORNL_Meeting_on_27Aug24_Sept2024)",
+"source": "https://tothestars.media/blogs/press-and-news/tts-analysis-on-ornl (report pages published as EWD-HEP_Report_TTS-AARO-ORNL_Meeting_on_27Aug24_Sept2024) - DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "text": "A TTS-AARO-ORNL meeting on the MgZn/Bi material was held on 27 August 2024, and a report on that meeting by Eric W. Davis and Harold E. Puthoff was submitted to the TTS Board of Directors on 27 September 2024.",
-"tier": 1
+"tier": 2
 },
 {
-"source": "https://tothestars.media/blogs/press-and-news/tts-analysis-on-ornl",
+"source": "https://tothestars.media/blogs/press-and-news/tts-analysis-on-ornl - DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "text": "TTS's own published conclusion is that 'the Puthoff/Davis analysis (and the ORNL analysis) did not reveal any form of proof of exotic (Extraterrestrial, Ultra-terrestrial, or inter-dimensional) origin, but it did not absolutely rule it out either,' and that the material is 'clearly manufactured' but its purpose remains unknown.",
-"tier": 1
+"tier": 2
 },
 {
 "source": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF",
@@ -431,7 +428,13 @@
 "tier": "C"
 }
 ],
+"openQuestions": [],
 "short": "ADAM Research Project",
+"sourceFiles": [
+"_rs-archive-mirror",
+"elizondo-ttsa",
+"scientists-technical"
+],
 "sources": [
 {
 "date": "2022-01-23",
@@ -496,70 +499,78 @@
 ],
 "sub": "TTSA materials program run with EarthTech International",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 80 of 1170, score 69). 8 connections, 7 of them custody/funding/programmatic. Axes C3/A1/D2.",
+"tierRationale": "Re-graded A on a global pass (rank 81 of 1170, score 69). 8 connections, 7 of them custody/funding/programmatic. Axes C3/A1/D2.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1996-01-01",
+"grade": "B",
 "id": "st-1996-carnegie",
 "label": "Carnegie tests the Howe samples",
 "precision": "year",
 "strand": "program",
-"text": "Linda Moulton Howe says the bismuth/magnesium-zinc laminate was tested by Carnegie Science's Department of Terrestrial Magnetism, the first documented laboratory in that chain of custody.",
-"tier": "B"
+"text": "Linda Moulton Howe says the bismuth/magnesium-zinc laminate was tested by Carnegie Science's Department of Terrestrial Magnetism, the first documented laboratory in that chain of custody."
 },
 {
+"claimTier": null,
 "date": "2012-01-01",
+"grade": "B",
 "id": "st-2012-puthoff-letter",
 "label": "Puthoff's negative result",
 "precision": "year",
 "strand": "program",
-"text": "A letter from Puthoff reports that testing of the Howe samples produced no proof of alien origin and no 'interesting/anomalous outcome', with one test outstanding for want of equipment.",
-"tier": "B"
+"text": "A letter from Puthoff reports that testing of the Howe samples produced no proof of alien origin and no 'interesting/anomalous outcome', with one test outstanding for want of equipment."
 },
 {
+"claimTier": null,
 "date": "2017-10-11",
+"grade": "A",
 "id": "st-2017-ttsa",
 "label": "To The Stars Academy formed",
 "precision": "day",
 "strand": "program",
-"text": "Puthoff co-founds TTSA with Tom DeLonge, Jim Semivan and Steve Justice, creating a public-company vehicle for materials acquisition and analysis.",
-"tier": "A"
+"text": "Puthoff co-founds TTSA with Tom DeLonge, Jim Semivan and Steve Justice, creating a public-company vehicle for materials acquisition and analysis."
 },
 {
+"claimTier": null,
 "date": "2018-08-01",
+"grade": "A",
 "id": "tl-2018-08-earthtech",
 "label": "ADAM partners with EarthTech",
 "precision": "month",
 "strand": "program",
-"text": "TTSA's SEC filings record the launch of materials research relevant to Space-Time Metric Engineering in partnership with Harold Puthoff's EarthTech International.",
-"tier": "A"
+"text": "TTSA's SEC filings record the launch of materials research relevant to Space-Time Metric Engineering in partnership with Harold Puthoff's EarthTech International."
 },
 {
+"claimTier": null,
 "date": "2019-07-25",
+"grade": "B",
 "id": "tl-2019-07-25-adam",
 "label": "TTSA announces metamaterials acquisition",
 "precision": "day",
 "strand": "program",
-"text": "The ADAM Research Project announces possession of material reportedly from an advanced aerospace vehicle of unknown origin; Steve Justice says its structure and composition match no known military or commercial application.",
-"tier": "B"
+"text": "The ADAM Research Project announces possession of material reportedly from an advanced aerospace vehicle of unknown origin; Steve Justice says its structure and composition match no known military or commercial application."
 },
 {
+"claimTier": null,
 "date": "2019-07-26",
+"grade": "A",
 "id": "st-2019-07-adam",
 "label": "ADAM Research Project announced",
 "precision": "day",
 "strand": "program",
-"text": "TTSA announces acquisition of 'potentially exotic materials'; COO Steve Justice concedes they came from sources 'with varying levels of chain-of-custody documentation'.",
-"tier": "A"
+"text": "TTSA announces acquisition of 'potentially exotic materials'; COO Steve Justice concedes they came from sources 'with varying levels of chain-of-custody documentation'."
 },
 {
+"claimTier": null,
 "date": "2019-10-04",
+"grade": "A",
 "id": "st-2019-10-04",
 "label": "$35,000 SEC filing",
 "precision": "day",
 "strand": "program",
-"text": "Vice reports TTSA's SEC filing recording $35,000 paid for six pieces of bismuth/magnesium-zinc metal and a piece of aluminium previously held by Linda Moulton Howe.",
-"tier": "A"
+"text": "Vice reports TTSA's SEC filing recording $35,000 paid for six pieces of bismuth/magnesium-zinc metal and a piece of aluminium previously held by Linda Moulton Howe."
 }
-]
+],
+"unverified": []
 }

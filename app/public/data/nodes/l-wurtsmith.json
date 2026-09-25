@@ -32,6 +32,7 @@
 ],
 "cls": "location",
 "cluster": "legacy",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -113,9 +114,7 @@
 "deg": 3,
 "denials": [],
 "desc": "THE HUB THAT CARRIES THE MOST METHODOLOGICALLY IMPORTANT DOCUMENT IN THE CLUSTER, AND IT IS NOT FROM 1975. Wurtsmith Air Force Base at Oscoda, Michigan was a Strategic Air Command installation home to the 379th Bombardment Wing, and on the night of 30 to 31 October 1975 an unidentified low-flying object was reported over its weapons storage area and pursued by a KC-135 tanker out over Lake Huron. The NORAD Command Director's Log entry of 31 Oct 75/0445Z reports an incident at 0355Z, and the NORAD Senior Director's Log records that a tanker sighted the same object and pursued it thirty-five miles southeast over the lake. A Joint Chiefs of Staff operational report of 30 October 1975 records the prosaic-explanation check that was run and did not fit, contacting the Department of Natural Resources about aircraft searching for hunters spotting deer. But the document that matters most to this board's method is dated January 1979. SSgt Paul J. Cahill, the 379th Bombardment Wing historian, wrote a Research Record of Events on 17 January 1979 stating that he had checked the October to December 1975 Wing History and found no references to the incident, and the following day Capt. Myron Taylor wrote him a Memo for the Record giving the KC-135 crew's account. THAT IS A DOCUMENTED INSTANCE OF A UNIT HISTORY OMITTING AN EVENT THAT OTHER AIR FORCE PAPER RECORDS, DISCOVERED AND WRITTEN DOWN BY THE WING HISTORIAN HIMSELF. It is the correct caution to attach to any argument from a unit history's silence anywhere on this board, including the sceptical argument about Echo Flight.",
-"domains": [
-"nuclear-witnesses-2026-09-19"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "1",
@@ -129,7 +128,11 @@
 "label": "Wurtsmith AFB, Michigan",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Wurtsmith AFB, Michigan",
+"sourceFiles": [
+"nuclear-witnesses-2026-09-19"
+],
 "sources": [
 {
 "date": "1979-01-18",
@@ -149,6 +152,10 @@
 ],
 "sub": "SAC installation at Oscoda, Michigan; 379th Bombardment Wing; site of the 30 October 1975 weapons storage area incursion and the KC-135 pursuit over Lake Huron",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 565 of 1170, score 29). 3 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D1.",
-"timeline": []
+"tierRationale": "Re-graded B on a global pass (rank 564 of 1170, score 29). 3 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D1.",
+"timeline": [],
+"unverified": [
+"Cahill's Research Record of Events and Taylor's Memo for the Record were NOT OPENED in facsimile by this board; both are quoted from NICAP's reproduction.",
+"The base's dates of operation and closure are not asserted here because no source establishing them was opened by this pass."
+]
 }

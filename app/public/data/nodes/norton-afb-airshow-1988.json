@@ -62,6 +62,7 @@
 ],
 "cls": "event",
 "cluster": "witness",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -164,9 +165,7 @@
 "deg": 4,
 "denials": [],
 "desc": "One date carries two very different things. That an air show was held at Norton Air Force Base on 12 November 1988 is documented independently of the ARV account by a private photographic collection of Blackbird aircraft, whose captions place SR-71A 61-7962 at the base on that day. What is alleged to have happened inside a closed hangar on the same date rests on a single claimed eyewitness, and it is the load-bearing claim of the entire thread: three saucer-shaped craft of the same proportions in different sizes, a second unmanned diamond-shaped craft with 121 ports said to be cylindrical nuclear weapons, black cloth on metal rods dividing the space 'just like a car showroom', and a stated purpose of raising appropriations. The earliest document, taken about two years later, places the account only 'in early Nov. 88'; the exact date and the day of the week come from the 2001 testimony of the man who was not there. The same document records the witness saying he missed the introductions, saw no general officers, and did not know who was running the event.",
-"domains": [
-"arv-2026-09-18"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "1",
@@ -180,7 +179,11 @@
 "label": "Norton AFB air show, 12 November 1988, and the alleged classified exhibit",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Norton AFB air show, 12 November 1988, and the alleged classified exhibit",
+"sourceFiles": [
+"arv-2026-09-18"
+],
 "sources": [
 {
 "date": "2026-09-18",
@@ -200,16 +203,21 @@
 ],
 "sub": "Documented Air Force open house at which an SR-71A flew; the hangar exhibit alleged on the same date rests on one second-hand chain",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 304 of 1170, score 39). 4 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D2.",
+"tierRationale": "Re-graded B on a global pass (rank 302 of 1170, score 39). 4 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D2.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1988-11-12",
+"grade": "C",
 "id": "tl-1988-11-12-norton-airshow",
 "label": "Air show at Norton AFB; SR-71A 61-7962 flies and departs",
 "precision": "day",
 "strand": "program",
-"text": "A private photographic collection of Blackbird aircraft carries a section headed 'Norton Air Force Base Airshow, November 12, 1988', with captions including 'SR-71A 61-7962 at Norton AFB on November 12, 1988' and 'The crew of SR-71A 61-7962 shake hands before departing the November 12, 1988 Norton Air Force Base airshow'. This is the only opened record that dates the air show independently of the ARV account.",
-"tier": "C"
+"text": "A private photographic collection of Blackbird aircraft carries a section headed 'Norton Air Force Base Airshow, November 12, 1988', with captions including 'SR-71A 61-7962 at Norton AFB on November 12, 1988' and 'The crew of SR-71A 61-7962 shake hands before departing the November 12, 1988 Norton Air Force Base airshow'. This is the only opened record that dates the air show independently of the ARV account."
 }
+],
+"unverified": [
+"That any named congressman was present or confirmed the exhibit. research/leads/gerb-corpus-25-35.md file 33 records Sen. Alan Cranston and Rep. George E. Brown Jr. being named as present, and a male staffer in Rep. Brown's office allegedly confirming it. No congressional record, letter or statement was opened, and the 1990 notes have the witness saying he missed the introductions and did not know who was running the event.",
+"The 1988 Norton AFB open house programme and the 63rd Military Airlift Wing history for 1988 were not opened, so who was invited, what was on static display, and whether any hangar was closed to the public are not established."
 ]
 }

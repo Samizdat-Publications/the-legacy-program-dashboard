@@ -268,10 +268,11 @@
 "deg": 4,
 "denials": [],
 "domains": [
-"_rs-archive-mirror",
-"aawsap-aatip",
-"grusch",
-"uaptf-aaro"
+"d-funding",
+"d-oversight",
+"d-witness",
+"d-ic",
+"d-coverup"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -292,6 +293,12 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Jay Stratton",
+"sourceFiles": [
+"_rs-archive-mirror",
+"aawsap-aatip",
+"grusch",
+"uaptf-aaro"
+],
 "sources": [
 {
 "date": "2026-07-05",
@@ -357,7 +364,7 @@
 "status": "former",
 "sub": "DIA intelligence officer; AAWSAP participant; later Director, UAP Task Force",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 151 of 1170, score 52). 6 connections, 2 of them custody/funding/programmatic. Axes C2/A3/D2.",
+"tierRationale": "Re-graded A on a global pass (rank 150 of 1170, score 52). 6 connections, 2 of them custody/funding/programmatic. Axes C2/A3/D2.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": [

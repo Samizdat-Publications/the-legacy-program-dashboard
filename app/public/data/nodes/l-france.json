@@ -12,6 +12,7 @@
 ],
 "cls": "location",
 "cluster": "other",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -80,10 +81,7 @@
 "deg": 2,
 "denials": [],
 "desc": "France is the only major state to have maintained a continuously funded public investigation unit for unidentified aerospace phenomena: GEIPAN, established within the national space agency CNES in 1977 and still operating from Toulouse, with a published classification scheme, published statistics and a publicly accessible case archive. France also produced the 1999 COMETA report, prepared by retired general officers and senior scientists under the auspices of a defence studies institute, which concluded that the extraterrestrial hypothesis could not be excluded - a document with no American equivalent from comparable figures. The French model is the board's principal answer to the claim that transparency on this subject is impossible.",
-"domains": [
-"_stubs",
-"w2-taxonomy"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "nd",
@@ -97,7 +95,12 @@
 "label": "France",
 "locLabel": "France",
 "members": null,
+"openQuestions": [],
 "short": "France",
+"sourceFiles": [
+"_stubs",
+"w2-taxonomy"
+],
 "sources": [
 {
 "date": "2026-08-12",
@@ -118,5 +121,6 @@
 "sub": "Sovereign state; host of the only permanently funded state UAP investigation unit",
 "tier": "C",
 "tierRationale": "Re-graded C on a global pass (rank 894 of 1170, score 19). 2 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D3.",
-"timeline": []
+"timeline": [],
+"unverified": []
 }

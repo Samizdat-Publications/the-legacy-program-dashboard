@@ -131,7 +131,7 @@
 "edgeLabel": "Named as demanding removal of the eminent domain provision",
 "id": "uapda-sec-9010-eminent-domain",
 "l0": false,
-"label": "Section 9010(a) — Exercise of Eminent Domain",
+"label": "Section 9010(a) - Exercise of Eminent Domain",
 "note": "Daniel Sheehan, who lobbied the conference, states Turner attacked the eminent domain clause and the subpoena power first and demanded both be struck; the enacted text lacks exactly those two things.",
 "sources": [
 {
@@ -155,6 +155,14 @@
 "deg": 4,
 "denials": [
 {
+"a": {
+"id": "mike-turner",
+"label": "Michael R. Turner"
+},
+"b": {
+"id": "uap-records-review-board",
+"label": "Unidentified Anomalous Phenomena Records Review Board"
+},
 "by": {
 "id": "mike-turner",
 "label": "Michael R. Turner"
@@ -181,6 +189,14 @@
 ]
 },
 {
+"a": {
+"id": "mike-turner",
+"label": "Michael R. Turner"
+},
+"b": {
+"id": "uapda-sec-9010-eminent-domain",
+"label": "Section 9010(a) - Exercise of Eminent Domain"
+},
 "by": {
 "id": "mike-turner",
 "label": "Michael R. Turner"
@@ -191,7 +207,7 @@
 "note": "Daniel Sheehan, who lobbied the conference, states Turner attacked the eminent domain clause and the subpoena power first and demanded both be struck; the enacted text lacks exactly those two things.",
 "of": {
 "id": "uapda-sec-9010-eminent-domain",
-"label": "Section 9010(a) — Exercise of Eminent Domain"
+"label": "Section 9010(a) - Exercise of Eminent Domain"
 },
 "sources": [
 {
@@ -208,7 +224,9 @@
 }
 ],
 "domains": [
-"congress-senate-legislation"
+"d-legislative",
+"d-oversight",
+"d-records"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -229,6 +247,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Michael R. Turner",
+"sourceFiles": [
+"congress-senate-legislation"
+],
 "sources": [
 {
 "date": "2023-11-27",
@@ -249,25 +270,27 @@
 "status": "active",
 "sub": "R-OH; Chairman, House Permanent Select Committee on Intelligence (2023-2025)",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 516 of 1170, score 30). 4 connections, 0 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C0/A3/D0.",
+"tierRationale": "Re-graded B on a global pass (rank 514 of 1170, score 30). 4 connections, 0 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C0/A3/D0.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2023-07-30",
+"grade": "B",
 "id": "cl-2023-07-30",
 "label": "Turner disparages the testimony",
 "precision": "day",
 "strand": "coverup",
-"text": "The HPSCI chairman says the striking thing about the hearing was that 'repeatedly over and over again, the whistleblowers had to say, actually, I don't have any knowledge.'",
-"tier": "B"
+"text": "The HPSCI chairman says the striking thing about the hearing was that 'repeatedly over and over again, the whistleblowers had to say, actually, I don't have any knowledge.'"
 },
 {
+"claimTier": null,
 "date": "2023-11-27",
+"grade": "B",
 "id": "cl-2023-11-27",
 "label": "Turner and Rogers named",
 "precision": "day",
 "strand": "coverup",
-"text": "Reporting identifies Turner and Rogers as leading the effort to eliminate or alter the Act, with McConnell and Speaker Johnson supporting; Sheehan states Turner demanded the eminent domain provision and the subpoena power be struck.",
-"tier": "B"
+"text": "Reporting identifies Turner and Rogers as leading the effort to eliminate or alter the Act, with McConnell and Speaker Johnson supporting; Sheehan states Turner demanded the eminent domain provision and the subpoena power be struck."
 }
 ],
 "unexplainedResidual": null,

@@ -47,6 +47,7 @@
 ],
 "cls": "document",
 "cluster": "legacy",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -133,18 +134,20 @@
 "deg": 2,
 "denials": [
 {
-"by": {
+"a": {
 "id": "project-blue-book",
 "label": "Project Blue Book"
 },
+"b": {
+"id": "janap-146",
+"label": "JANAP 146 (CIRVIS/MERINT reporting)"
+},
+"by": null,
 "claimTier": 3,
 "denialKind": "association",
 "label": "The public statistics are the residue of a filter, not the corpus",
 "note": "If national-security reports went up the JANAP channel as Bolender states, then the 12,618 sightings and 701 unknowns describe only what the filtered public program retained.",
-"of": {
-"id": "janap-146",
-"label": "JANAP 146 (CIRVIS/MERINT reporting)"
-},
+"of": null,
 "sources": [
 {
 "date": "1969-10-20",
@@ -160,10 +163,7 @@
 }
 ],
 "desc": "JANAP 146 is the legal architecture of the cover-up, and it is entirely uncontested because it is a published joint publication. The Joint Army-Navy-Air Force Publication governing Communication Instructions for Reporting Vital Intelligence Sightings — CIRVIS for military and civil aircraft, MERINT for shipborne observers — lists 'Unidentified flying objects' among the categories that airborne personnel are required to report immediately while in flight. It thereby made UFO sightings a mandatory military intelligence report at the same moment the Air Force was publicly telling the country there was nothing to report. Article 308 prohibits unauthorised transmission or revelation of the contents of such reports 'in any manner' and points to the espionage statutes at 18 U.S. Code sections 793 and 794 — meaning a pilot who described his own sighting publicly was exposed to felony liability. The 146(C) edition is dated 10 March 1954. Fifteen years later the Bolender memorandum confirmed the operational consequence: national-security UFO reports went up the JANAP channel and were 'not part of the Blue Book system.' Two channels existed, one public and one criminalised, and only the public one was ever closed.",
-"domains": [
-"history-1940s-1960s",
-"legacy-1947-86"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -177,7 +177,12 @@
 "label": "JANAP 146 (CIRVIS/MERINT reporting)",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "JANAP 146 (CIRVIS/MERINT reporting)",
+"sourceFiles": [
+"history-1940s-1960s",
+"legacy-1947-86"
+],
 "sources": [
 {
 "date": "1954-03-10",
@@ -202,25 +207,28 @@
 ],
 "sub": "Joint Army-Navy-Air Force Publication; JANAP 146(C) 10 March 1954",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 186 of 1170, score 47). 3 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D1.",
+"tierRationale": "Re-graded B on a global pass (rank 184 of 1170, score 47). 3 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D1.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1954-03-10",
+"grade": "A",
 "id": "tl-1954-03-10",
 "label": "JANAP 146(C) issued",
 "precision": "day",
 "strand": "coverup",
-"text": "Unidentified flying objects become a mandatory CIRVIS report for airborne personnel, with unauthorised disclosure of report contents prohibited under 18 U.S.C. 793 and 794.",
-"tier": "A"
+"text": "Unidentified flying objects become a mandatory CIRVIS report for airborne personnel, with unauthorised disclosure of report contents prohibited under 18 U.S.C. 793 and 794."
 },
 {
+"claimTier": null,
 "date": "1977-05-17",
+"grade": "A",
 "id": "tl-1977-janap-146e",
 "label": "JANAP 146 still lists UFOs, eight years after Blue Book closed",
 "precision": "day",
 "strand": "coverup",
-"text": "Change No. 2 to JANAP 146(E) is promulgated. Unidentified flying objects remain a reportable CIRVIS category at Article 201, and Article 208 continues to incorporate 18 U.S.C. 793 and the Canadian Official Secrets Act. Project Blue Book closed in December 1969. The document was released under FOIA on 28 February 1994.",
-"tier": "A"
+"text": "Change No. 2 to JANAP 146(E) is promulgated. Unidentified flying objects remain a reportable CIRVIS category at Article 201, and Article 208 continues to incorporate 18 U.S.C. 793 and the Canadian Official Secrets Act. Project Blue Book closed in December 1969. The document was released under FOIA on 28 February 1994."
 }
-]
+],
+"unverified": []
 }

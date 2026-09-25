@@ -32,6 +32,7 @@
 ],
 "cls": "institution",
 "cluster": "ic",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -108,11 +109,7 @@
 "deg": 3,
 "denials": [],
 "desc": "DOPSR reviews material that current and former DoD-affiliated personnel propose to publish, and clears or withholds it strictly on security grounds. It is the office that cleared Grusch's statements for open publication on 4 and 6 April 2023 under the records released in FOIA case 23-F-0946. The significance is structural: DOPSR's clearance is not an endorsement of truth, and Grusch said so under oath, reminding the public that DOPSR looks only at security. But it establishes that the Department reviewed the specific words in advance and did not find that they disclosed classified information - which is a difficult position to hold simultaneously with the claim that the words describe programs that do not exist. Either the statements touched nothing real, in which case there was nothing to protect, or they touched something real and were released anyway. DOPSR still holds the full text of Grusch's submitted answers, withheld from FOIA release under exemption (b)(6).",
-"domains": [
-"_rs-archive-mirror",
-"elizondo-ttsa",
-"grusch"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "1",
@@ -126,7 +123,13 @@
 "label": "Defense Office of Prepublication and Security Review",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Defense Office of Prepublication and Security Review",
+"sourceFiles": [
+"_rs-archive-mirror",
+"elizondo-ttsa",
+"grusch"
+],
 "sources": [
 {
 "date": "2026-07-05",
@@ -161,6 +164,7 @@
 ],
 "sub": "DoD office reviewing official information proposed for public release",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 404 of 1170, score 34). 3 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D2.",
-"timeline": []
+"tierRationale": "Re-graded B on a global pass (rank 407 of 1170, score 34). 3 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D2.",
+"timeline": [],
+"unverified": []
 }

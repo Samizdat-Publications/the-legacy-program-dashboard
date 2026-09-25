@@ -17,6 +17,7 @@
 ],
 "cls": "location",
 "cluster": "ffrdc",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -87,9 +88,7 @@
 "deg": 2,
 "denials": [],
 "desc": "Battelle Memorial Institute has been headquartered in Columbus, Ohio since 1929. The distance from Columbus to Wright-Patterson Air Force Base in Dayton is roughly sixty-five miles - close enough that Battelle was the natural contractor for Air Force materials and analytical work throughout the 1940s and 1950s, including the nickel-titanium alloy research from which nitinol emerged and the Project Stork analysis of Project Blue Book's case files. Copy No. 35 of Blue Book Special Report No. 14 bears Ohio markings. The geography explains the persistence: the Air Force's technical intelligence centre and the country's largest private applied science institute sat an hour apart, and the analytical work on unidentified objects moved between them for a decade.",
-"domains": [
-"ffrdcs"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -103,7 +102,11 @@
 "label": "Columbus, Ohio",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Columbus, Ohio",
+"sourceFiles": [
+"ffrdcs"
+],
 "sources": [
 {
 "date": "1972-01-01",
@@ -129,5 +132,6 @@
 "sub": "Battelle Memorial Institute headquarters since 1929; ~65 miles from Wright-Patterson AFB",
 "tier": "C",
 "tierRationale": "Re-graded C on a global pass (rank 883 of 1170, score 19). 2 connections, 0 of them custody/funding/programmatic. Axes C2/A1/D0.",
-"timeline": []
+"timeline": [],
+"unverified": []
 }

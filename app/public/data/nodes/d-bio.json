@@ -22,6 +22,7 @@
 ],
 "cls": "domain",
 "cluster": "research",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -108,11 +109,7 @@
 "deg": 3,
 "denials": [],
 "desc": "This is the highest-stakes and lowest-evidence domain on the board, and the asymmetry has to be stated plainly. The claim entered the sworn record on 26 July 2023, when David Grusch told the House Oversight Committee that non-human biologics had been recovered with craft, attributing the information to individuals he had interviewed and had referred to the Intelligence Community Inspector General. No such material has been produced for independent examination, and AARO's February 2024 report states it found no empirical evidence supporting the associated retrieval claims. What makes the domain researchable rather than merely contested is that biological exploitation would leave an unmistakable infrastructure footprint - containment facilities, a genomics capability, veterinary or forensic pathology staffing, tissue banking, and biosafety documentation - and that footprint is auditable in a way that a single artifact is not. The dual-use route runs through the biodefence enterprise, where high-containment work is routine and where compartmentation for reasons unrelated to this subject is normal. Scoring high on this domain means an entity is alleged or documented to have handled, analysed or controlled biological material.",
-"domains": [
-"_rs-archive-mirror",
-"_stubs",
-"w2-taxonomy"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -126,7 +123,13 @@
 "label": "Biology & Non-Human Biologics",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Biology & Non-Human Biologics",
+"sourceFiles": [
+"_rs-archive-mirror",
+"_stubs",
+"w2-taxonomy"
+],
 "sources": [
 {
 "date": "2026-05-08",
@@ -161,6 +164,7 @@
 ],
 "sub": "Scientific domain - the claim of recovered biological material and what would be required to test it",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 406 of 1170, score 34). 3 connections, 0 of them custody/funding/programmatic. Axes C3/A3/D2.",
-"timeline": []
+"tierRationale": "Re-graded B on a global pass (rank 409 of 1170, score 34). 3 connections, 0 of them custody/funding/programmatic. Axes C3/A3/D2.",
+"timeline": [],
+"unverified": []
 }

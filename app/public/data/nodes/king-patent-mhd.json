@@ -32,6 +32,7 @@
 ],
 "cls": "document",
 "cluster": "research",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -134,18 +135,20 @@
 "deg": 4,
 "denials": [
 {
-"by": {
+"a": {
 "id": "king-patent-mhd",
 "label": "US Patent 3,322,374, 'Magnetohydrodynamic Propulsion Apparatus' (King, 1967)"
 },
+"b": {
+"id": "arv-fluxliner",
+"label": "Alien Reproduction Vehicle (ARV) / Flux Liner"
+},
+"by": null,
 "claimTier": 1,
 "denialKind": "association",
 "label": "Cited FOR the ARV account's 'Scalar Physics' callout and does not support it",
 "note": "THE STRAND'S FOUNDING EDGE AND ITS DIRECTION OF READING IS LOAD-BEARING. This edge records a FAILED CITATION, not a connection. The patent was offered as 'ample evidence' that the 'Scalar Physics' callout in section D of the McCandlish ARV drawing refers to spin-zero scalar particles. Word counts across all seven pages: scalar 0, spin 0, gravity 0, anti-gravity 0, zero point 0. NOBODY DENIED ANYTHING HERE: a real, openable, mundane document simply does not say what was said of it, which is why the verdict is association and not directed.",
-"of": {
-"id": "arv-fluxliner",
-"label": "Alien Reproduction Vehicle (ARV) / Flux Liner"
-},
+"of": null,
 "sources": [
 {
 "date": "1967-05-30",
@@ -156,9 +159,7 @@
 }
 ],
 "desc": "THE STRAND'S CONTROL CASE, AND IT IS INFORMATIVE PRECISELY BECAUSE IT IS ORDINARY. US 3,322,374 was filed on 30 September 1964 by James F. King, Jr. of Winston-Salem, North Carolina, at a home address, and granted on 30 May 1967 with 9 claims in Class 244-62. It has NO ASSIGNEE, NO GOVERNMENT INTEREST STATEMENT AND NO SECRECY ORDER. What it claims is a linear induction motor that uses the surrounding ionised atmosphere as its armature: coils arranged serially along the craft's axis, driven by polyphase alternating current, produce a collective magnetic field whose point of maximum flux density travels repeatedly from the leading end to the trailing end of the craft, and that travelling field induces eddy currents in the ionised fluid, driving the fluid backwards and the craft forwards. That is classical electromagnetism and it is the same physics as a seagoing magnetohydrodynamic thruster. The patent is on this board because of what was claimed FOR it rather than because of what is in it: it was offered in a discussion thread as 'ample evidence' that the 'Scalar Physics' callout on Mark McCandlish's ARV drawing refers to spin-zero scalar particles. WORD COUNTS ACROSS ALL SEVEN PAGES: scalar 0, spin 0, gravity 0, anti-gravity 0, zero point 0. The single hit for 'air force' is the phrase 'the ionized air force vector' and is a false positive. This node therefore records a FAILED CITATION, which is a different object from a disputed one: the document is real, openable and mundane, and the assertion made about it is checkable and wrong.",
-"domains": [
-"propulsion-2026-09-19"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -172,7 +173,11 @@
 "label": "US Patent 3,322,374, 'Magnetohydrodynamic Propulsion Apparatus' (King, 1967)",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "US Patent 3,322,374, 'Magnetohydrodynamic Propulsion Apparatus' (King, 1967)",
+"sourceFiles": [
+"propulsion-2026-09-19"
+],
 "sources": [
 {
 "date": "1967-05-30",
@@ -182,25 +187,31 @@
 ],
 "sub": "A privately filed 1964 patent for MHD propulsion, granted 1967, with no assignee and no government interest, which is cited in the ARV literature as evidence for a mechanism it never mentions",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 824 of 1170, score 21). 4 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D0.",
+"tierRationale": "Re-graded C on a global pass (rank 825 of 1170, score 21). 4 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D0.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1964-09-30",
+"grade": "C",
 "id": "tl-1964-09-30-king-patent-filed",
 "label": "James F. King Jr. files US 3,322,374 from a home address, with no assignee",
 "precision": "day",
 "strand": "program",
-"text": "Serial No. 400,456, filed from 925 Goodwood Road, Winston-Salem, North Carolina. No assignee, no government interest statement and no secrecy order appear anywhere in the document.",
-"tier": "C"
+"text": "Serial No. 400,456, filed from 925 Goodwood Road, Winston-Salem, North Carolina. No assignee, no government interest statement and no secrecy order appear anywhere in the document."
 },
 {
+"claimTier": null,
 "date": "1967-05-30",
+"grade": "C",
 "id": "tl-1967-05-30-king-patent-granted",
 "label": "US 3,322,374 granted: magnetohydrodynamic propulsion, 9 claims, Class 244-62",
 "precision": "day",
 "strand": "program",
-"text": "What it claims is a linear induction motor using the surrounding ionised atmosphere as its armature. Word counts across all seven pages: scalar 0, spin 0, gravity 0, anti-gravity 0, zero point 0. Fifty-nine years later it was offered as evidence that the 'Scalar Physics' callout on the McCandlish ARV drawing refers to spin-zero scalar particles.",
-"tier": "C"
+"text": "What it claims is a linear induction motor using the surrounding ionised atmosphere as its armature. Word counts across all seven pages: scalar 0, spin 0, gravity 0, anti-gravity 0, zero point 0. Fifty-nine years later it was offered as evidence that the 'Scalar Physics' callout on the McCandlish ARV drawing refers to spin-zero scalar particles."
 }
+],
+"unverified": [
+"Whether the apparatus was ever built. Nothing was opened in either direction and nothing is asserted. The node does not need it: a patent is Tier 1 for what it claims and never for whether the thing works.",
+"Anything at all about James F. King, Jr. beyond the name and address printed on the patent. No person node is proposed and none should be created: on the board's own test he connects to nothing."
 ]
 }

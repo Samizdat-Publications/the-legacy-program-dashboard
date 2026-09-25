@@ -37,6 +37,7 @@
 ],
 "cls": "institution",
 "cluster": "ic",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -108,18 +109,20 @@
 "deg": 3,
 "denials": [
 {
-"by": {
+"a": {
 "id": "cia-prepublication-classification-review-board",
 "label": "CIA Prepublication Classification Review Board"
 },
+"b": {
+"id": "d-denial",
+"label": "Official Denial"
+},
+"by": null,
 "claimTier": 1,
 "denialKind": null,
 "label": "A disclaimer disowning authentication is attached in advance to every cleared account",
 "note": "The mandatory disclaimer required on every approved writing states that nothing in it implies US Government authentication of the information, which is a formal, self-documented denial attached in advance to every cleared account.",
-"of": {
-"id": "d-denial",
-"label": "Official Denial"
-},
+"of": null,
 "sources": [
 {
 "date": "2018-11-28",
@@ -130,9 +133,7 @@
 }
 ],
 "desc": "The CIA board that reviews, before publication, anything an employee or contractor bound by a secrecy agreement intends to say or write about intelligence. Its own released guidance sets a 30 working day clock, requires written approval before publication, routes appeals to the Agency's Associate Deputy Director, and, where a manuscript is found to contain classified information, requires the author to surrender every version of the work for destruction and to delete it from their hard drive. It is on this board as a documented custody mechanism operating on text rather than on hardware, and as the mechanism through which several of the corpus's own witnesses say their accounts were shaped.No founding instrument for the Board was opened by this pass, so the draft node carries no date; one must be added from a record before it is built.",
-"domains": [
-"dannyjones-2026-09-03"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "nd",
@@ -146,7 +147,11 @@
 "label": "CIA Prepublication Classification Review Board",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "CIA Prepublication Classification Review Board",
+"sourceFiles": [
+"dannyjones-2026-09-03"
+],
 "sources": [
 {
 "date": "2018-11-28",
@@ -161,6 +166,7 @@
 ],
 "sub": "The CIA board that clears employee and contractor writing before publication: 30 working days, appeal to the Associate Deputy Director, and a destruction and hard-drive-removal provision",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 184 of 1170, score 47). 3 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A2/D3.",
-"timeline": []
+"tierRationale": "Re-graded B on a global pass (rank 182 of 1170, score 47). 3 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A2/D3.",
+"timeline": [],
+"unverified": []
 }

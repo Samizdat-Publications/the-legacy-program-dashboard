@@ -52,9 +52,10 @@
 ],
 "cls": "document",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
-"claimTier": 3,
+"claimTier": 1,
 "cls": "institution",
 "dateEnd": null,
 "dateStart": null,
@@ -74,6 +75,11 @@
 "date": "2024-01-05",
 "name": "10 U.S.C. 119 (GPO)",
 "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title10/html/USCODE-2023-title10-subtitleA-partI-chap2-sec119.htm"
+},
+{
+"date": null,
+"name": "https://web.archive.org/web/20220322050205/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf",
+"url": "https://web.archive.org/web/20220322050205/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf"
 }
 ],
 "tier": "A",
@@ -109,7 +115,7 @@
 "edgeLabel": "Congress receives nicknames, not missions",
 "id": "sap-cover-mechanisms",
 "l0": false,
-"label": "Cover mechanisms — HVSACO, nicknames, unacknowledged locations",
+"label": "Cover mechanisms - HVSACO, nicknames, unacknowledged locations",
 "note": "DoDI 5205.11 para 5.d: 'Unclassified nicknames will be used in the annual SAP report to Congress.'",
 "sources": [
 {
@@ -156,7 +162,7 @@
 "edgeLabel": "A waived program is precisely a program removed from the annual report",
 "id": "waived-usap-mechanism",
 "l0": true,
-"label": "Waived Unacknowledged SAP (waived USAP) — the mechanism",
+"label": "Waived Unacknowledged SAP (waived USAP) - the mechanism",
 "note": "10 U.S.C. 119(e)(1) permits waiver of the requirement that certain information be included in the report; DoDD 5205.07 (2010) para 4.h keeps the substitute material in DoD custody.",
 "sources": [
 {
@@ -180,18 +186,20 @@
 "deg": 5,
 "denials": [
 {
-"by": {
+"a": {
 "id": "waived-usap-mechanism",
-"label": "Waived Unacknowledged SAP (waived USAP) — the mechanism"
+"label": "Waived Unacknowledged SAP (waived USAP) - the mechanism"
 },
+"b": {
+"id": "sap-annual-report",
+"label": "The annual DoD special access program report to Congress"
+},
+"by": null,
 "claimTier": 1,
 "denialKind": "association",
 "label": "A waived program is precisely a program removed from the annual report",
 "note": "10 U.S.C. 119(e)(1) permits waiver of the requirement that certain information be included in the report; DoDD 5205.07 (2010) para 4.h keeps the substitute material in DoD custody.",
-"of": {
-"id": "sap-annual-report",
-"label": "The annual DoD special access program report to Congress"
-},
+"of": null,
 "sources": [
 {
 "date": "2026-08-12",
@@ -207,10 +215,7 @@
 }
 ],
 "desc": "The annual SAP report is the single document that would settle the central question of this board, and everything about how it is produced is documented. It is required by 10 U.S.C. 119(a)(1) by 1 March each year to the six defense committees, and must set out the total requested for DoD SAPs and, for each program in the budget, a brief description, major milestones, actual prior cost, and estimated cost across six fiscal years. DoDI 5205.11 assigns its production: the cognizant authorities 'shall prepare and submit annual reports and other required SAP information through the Director, DoD SAPCO, and the governance structure in order to report the state of DoD SAPs to congressional committees'; the Senior Review Group 'Ensures the accuracy of the SAP list submitted to Congress prior to submission of the SAP annual report'; and the SAPOC conducts 'an annual review and validation of SAP reports sent to the Congressional defense and intelligence committees'. The report is coordinated with the Assistant Secretary of Defense for Legislative Affairs under DoDI 5545.02. Programs identified in it are identified by unclassified nickname. Waived programs are, by definition, the ones removed from it under 10 U.S.C. 119(e), with their information going instead to eight to twelve named members; and under DoDD 5205.07 (2010) para 4.h the waived material 'shall remain in DoD custody' with no copies stored outside DoD repositories. The report has never been released, in whole or in redacted part, under FOIA. It is the highest value single target on the board: one document, produced annually since 1988, whose table of contents is the answer.",
-"domains": [
-"_rs-sap-docs",
-"w2-sap-architecture"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": {
 "desc": "The single most valuable unreleased document on this board. It exists. It has existed in annual editions since the first one fell due under 10 U.S.C. 119(a)(1). It lists, by unclassified nickname, every DoD special access program in the budget, with a brief description, milestones, historical cost and six years of cost estimates. Its accuracy is certified before submission by the Senior Review Group and validated annually by the Special Access Program Oversight Committee, chaired by the Deputy Secretary of Defense. It is coordinated with the Assistant Secretary of Defense for Legislative Affairs under DoDI 5545.02. Programs whose reporting has been waived under 119(e) are, by definition, absent from it, and the substitute material given to the chairs and ranking members 'shall remain in DoD custody' with no copies stored outside DoD repositories. Three things follow for anyone trying to force the record open. First, the assertion that the government does not know how many special access programs it has is false and is contradicted by DoD's own governance directive. Second, the difference between the count in the annual report and the count on the Senior Review Group's waived list is a single number that would, if produced, tell the public how much of the SAP enterprise is invisible to the committees as a whole. Third, that number has never been requested in public by any member of Congress at any hearing this board has recorded.",
@@ -227,7 +232,12 @@
 "label": "The annual DoD special access program report to Congress",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "The annual DoD special access program report to Congress",
+"sourceFiles": [
+"_rs-sap-docs",
+"w2-sap-architecture"
+],
 "sources": [
 {
 "date": "2024-01-05",
@@ -252,6 +262,7 @@
 ],
 "sub": "report",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 111 of 1170, score 59). 5 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D3.",
-"timeline": []
+"tierRationale": "Re-graded A on a global pass (rank 109 of 1170, score 59). 5 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D3.",
+"timeline": [],
+"unverified": []
 }

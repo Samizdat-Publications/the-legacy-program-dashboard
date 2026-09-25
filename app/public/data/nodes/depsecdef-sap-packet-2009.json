@@ -22,6 +22,7 @@
 ],
 "cls": "document",
 "cluster": "other",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -83,7 +84,7 @@
 "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP/09117-Final_Packet_Presented_to_DepSecDef.pdf"
 }
 ],
-"tier": "B",
+"tier": "C",
 "type": "denial"
 }
 ],
@@ -93,18 +94,20 @@
 "deg": 3,
 "denials": [
 {
-"by": {
+"a": {
 "id": "depsecdef-sap-packet-2009",
 "label": "Final Packet Presented to the Deputy Secretary of Defense on the SAP Request"
 },
+"b": {
+"id": "william-lynn",
+"label": "William J. Lynn III"
+},
+"by": null,
 "claimTier": 1,
 "denialKind": "association",
 "label": "decision packet presented 17 November 2009",
 "note": "Eighteen pages assembled to support refusing the Majority Leader; two days later Lynn briefed Reid in SVC-217.",
-"of": {
-"id": "william-lynn",
-"label": "William J. Lynn III"
-},
+"of": null,
 "sources": [
 {
 "date": "2009-11-17",
@@ -114,6 +117,14 @@
 ]
 },
 {
+"a": {
+"id": "james-clapper",
+"label": "James R. Clapper Jr."
+},
+"b": {
+"id": "depsecdef-sap-packet-2009",
+"label": "Final Packet Presented to the Deputy Secretary of Defense on the SAP Request"
+},
 "by": {
 "id": "james-clapper",
 "label": "James R. Clapper Jr."
@@ -136,9 +147,7 @@
 }
 ],
 "desc": "The decision file. Eighteen pages assembled for Deputy Secretary of Defense William Lynn III and presented on 17 November 2009, carrying Under Secretary of Defense for Intelligence James R. Clapper Jr.'s recommendation 'against establishing a Special Access Program at this time' on the basis that FY09 deliverables and anticipated FY10 work did not justify it. The packet is also the Rosetta stone of the naming question: in one place it records the official contract title as Advanced Aerospace Weapon System Application Program, Senator Reid's usage as Advanced Aerospace Threat and Identification Program, and an unclassified nickname of Advanced Aerospace Threat Identification Program. It notes DIA completed technical reviews in October 2009 across 26 academic and scientific papers covering eleven to twelve technical areas, and found no justification for restricted SAP protection. Two days later Lynn briefed Reid in person in the Senate Visitor Center. This packet, the 13 November DIA memo, the 30 October deliverables review and the 19 November talking paper together form a complete, dated, four-document decision chain — an unusually clean piece of the record for this subject.",
-"domains": [
-"aawsap-aatip"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "2",
@@ -152,7 +161,11 @@
 "label": "Final Packet Presented to the Deputy Secretary of Defense on the SAP Request",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Final Packet Presented to the Deputy Secretary of Defense on the SAP Request",
+"sourceFiles": [
+"aawsap-aatip"
+],
 "sources": [
 {
 "date": "2009-11-17",
@@ -167,16 +180,18 @@
 ],
 "sub": "18-page OSD/DIA decision packet, 17 November 2009",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 335 of 1170, score 37). 3 connections, 0 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C1/A3/D2.",
+"tierRationale": "Re-graded B on a global pass (rank 334 of 1170, score 37). 3 connections, 0 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C1/A3/D2.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2009-11-17",
+"grade": "A",
 "id": "tl-2009-clapper",
 "label": "Clapper recommends against a SAP",
 "precision": "day",
 "strand": "coverup",
-"text": "USD(I) James R. Clapper Jr. recommends against establishing a Special Access Program in the packet presented to Deputy Secretary Lynn. Nine months later he becomes Director of National Intelligence.",
-"tier": "A"
+"text": "USD(I) James R. Clapper Jr. recommends against establishing a Special Access Program in the packet presented to Deputy Secretary Lynn. Nine months later he becomes Director of National Intelligence."
 }
-]
+],
+"unverified": []
 }

@@ -149,18 +149,20 @@
 "deg": 5,
 "denials": [
 {
-"by": {
+"a": {
 "id": "charles-p-cabell",
 "label": "Gen. Charles P. Cabell"
 },
+"b": {
+"id": "donald-keyhoe",
+"label": "Maj. Donald E. Keyhoe, USMC (Ret.)"
+},
+"by": null,
 "claimTier": 1,
 "denialKind": null,
 "label": "Signed the CIA reply to Keyhoe",
 "note": "The reading room's catalogue entry names him as the sender and Keyhoe as the addressee. The scan's body text is illegible, so the edge records the correspondence and not its content.",
-"of": {
-"id": "donald-keyhoe",
-"label": "Maj. Donald E. Keyhoe, USMC (Ret.)"
-},
+"of": null,
 "sources": [
 {
 "date": "2026-09-03",
@@ -170,18 +172,20 @@
 ]
 },
 {
-"by": {
+"a": {
 "id": "donald-keyhoe",
 "label": "Maj. Donald E. Keyhoe, USMC (Ret.)"
 },
+"b": {
+"id": "cia",
+"label": "Central Intelligence Agency"
+},
+"by": null,
 "claimTier": 1,
 "denialKind": null,
 "label": "CIA routed his UFO inquiries to the Air Force and made it a precedent",
 "note": "A 1958 CIA memorandum for record states that the letters from him would be forwarded to the Air Force to answer and that the Agency would use the procedure as a precedent henceforth in all inquiries regarding UFOs.",
-"of": {
-"id": "cia",
-"label": "Central Intelligence Agency"
-},
+"of": null,
 "sources": [
 {
 "date": "1958-04-04",
@@ -191,18 +195,20 @@
 ]
 },
 {
-"by": {
+"a": {
 "id": "donald-keyhoe",
 "label": "Maj. Donald E. Keyhoe, USMC (Ret.)"
 },
+"b": {
+"id": "usaf",
+"label": "United States Air Force"
+},
+"by": null,
 "claimTier": 1,
 "denialKind": null,
 "label": "The Air Force insisted on being the single channel for his inquiries",
 "note": "The same memorandum records that the officer contacted at the Office of the Secretary of the Air Force Information Service wanted the letters forwarded to him to answer, that the Air Force was endeavouring to impress on Keyhoe and others that his office was the proper place to come for such information, and that the Air Force was most insistent on being permitted to answer.",
-"of": {
-"id": "usaf",
-"label": "United States Air Force"
-},
+"of": null,
 "sources": [
 {
 "date": "1958-04-04",
@@ -212,9 +218,7 @@
 ]
 }
 ],
-"domains": [
-"area52-2026-09-02"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -234,6 +238,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Maj. Donald E. Keyhoe, USMC (Ret.)",
+"sourceFiles": [
+"area52-2026-09-02"
+],
 "sources": [
 {
 "date": "1964-05-01",
@@ -259,16 +266,17 @@
 "status": "former",
 "sub": "Director, National Investigations Committee on Aerial Phenomena, by September 1957 and still in post May 1964",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 229 of 1170, score 43). 5 connections, 0 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C1/A1/D2.",
+"tierRationale": "Re-graded B on a global pass (rank 227 of 1170, score 43). 5 connections, 0 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C1/A1/D2.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1958-04-04",
+"grade": "B",
 "id": "tl-1958-04-04-keyhoe-precedent",
 "label": "CIA resolves to route Keyhoe's UFO inquiries to the Air Force, and to make it a precedent",
 "precision": "day",
 "strand": "coverup",
-"text": "A CIA memorandum for record on 'Comments on Letters Dealing with Unidentified Flying Objects' notes that the Air Force was 'most insistent' on answering his letters itself, that 'the Air Force is endeavoring to impress upon Major Keyhoe and others in a similar position, that his office is the proper place to come for such information', and concludes: 'I think we can use this procedure as a precedent henceforth in all inquiries regarding UFO's.'",
-"tier": "B"
+"text": "A CIA memorandum for record on 'Comments on Letters Dealing with Unidentified Flying Objects' notes that the Air Force was 'most insistent' on answering his letters itself, that 'the Air Force is endeavoring to impress upon Major Keyhoe and others in a similar position, that his office is the proper place to come for such information', and concludes: 'I think we can use this procedure as a precedent henceforth in all inquiries regarding UFO's.'"
 }
 ],
 "unexplainedResidual": null,

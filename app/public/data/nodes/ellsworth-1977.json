@@ -37,6 +37,11 @@
 ],
 "cls": "event",
 "cluster": "witness",
+"conflicts": [
+"The durations are mutually inconsistent inside one episode: nine hours in the description, five in the narration at 00:01:02, five and a half at 00:55:39. The elapsed-year figures likewise: fifty, forty-nine and forty-eight and a half.",
+"The narration's 'massive glowing red orb' matches neither claimant's waking description, which are 'big' and 'white'.",
+"The episode's on-camera account of the moment of recognition contradicts its own recording of that moment."
+],
 "connections": [
 {
 "claimTier": 2,
@@ -113,9 +118,7 @@
 "deg": 3,
 "denials": [],
 "desc": "A CLAIM WITH NO AIR FORCE RECORD BEHIND IT, ADMITTED UNDER CLAUDE.md SECTION 2a AND GRADED AT TIER 2. The account is that on 18 November 1977 at about 0100, on an 1800 to 0600 shift, two United States Air Force security policemen of the 44th Missile Security Squadron responded to an alarm at Launch Facility November-5 in the Ellsworth AFB Minuteman field; that a large bright object hovered under about fifty feet above the site; that four humanoid figures approached the truck; that both men were taken aboard and physically examined; that hours were lost; and that both were recovered about eight miles away beside a reservoir dam, one of them catatonic at the wheel, and interrogated separately on base. NO AIR FORCE RECORD OF THE EVENT HAS EVER BEEN PRODUCED BY ANY PARTY AND NO SERVICE RECORD FOR EITHER MAN HAS BEEN OPENED BY THIS BOARD. What is dated is the telling, and the two tellings have opposite provenance: Mario Woods has given the account publicly since 1996 and named his partner on air for years; Michael Johnson was located by the publishing party on 26 June 2026 from a viewer's tip and has no dated pre-contact statement about the event of any kind. The node carries the discovery chain, the prompt on the recorded call and the divergence between the two accounts, because under section 2a those are part of the claim and not commentary on it.",
-"domains": [
-"nuclear-witnesses-2026-09-19"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "1",
@@ -129,7 +132,11 @@
 "label": "Ellsworth AFB Launch Facility November-5 claim, 18 November 1977",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Ellsworth AFB Launch Facility November-5 claim, 18 November 1977",
+"sourceFiles": [
+"nuclear-witnesses-2026-09-19"
+],
 "sources": [
 {
 "date": "2026-09-07",
@@ -152,13 +159,20 @@
 "tierRationale": "Re-graded C on a global pass (rank 886 of 1170, score 19). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2026-09-07",
+"grade": "C",
 "id": "tl-2026-09-07-michels-ellsworth-episode",
 "label": "The Ellsworth claim is published with both witnesses, and contradicts its own recording",
 "precision": "day",
 "strand": "witness",
-"text": "Jesse Michels published video rjUdn6FklAU, 2:47:21, presenting Mario Woods and Michael Johnson on the 18 November 1977 Launch Facility November-5 claim. Its on-camera retelling of the moment of recognition at 00:17:46-00:18:11 says Johnson recognised the event with nothing supplied; its own recording of that moment at 00:07:29-00:07:46 shows an initial 'No', then Woods naming the UFO twice, then assent. Both passages are timestamped in the same episode. This is the dated artefact on which the claim rests.",
-"tier": "C"
+"text": "Jesse Michels published video rjUdn6FklAU, 2:47:21, presenting Mario Woods and Michael Johnson on the 18 November 1977 Launch Facility November-5 claim. Its on-camera retelling of the moment of recognition at 00:17:46-00:18:11 says Johnson recognised the event with nothing supplied; its own recording of that moment at 00:07:29-00:07:46 shows an initial 'No', then Woods naming the UFO twice, then assent. Both passages are timestamped in the same episode. This is the dated artefact on which the claim rests."
 }
+],
+"unverified": [
+"Michael Johnson's Official Military Personnel File, DD-214 and the Article 15 he describes. Any of the three, if dated within months of 18 November 1977, would be the strongest available independent anchor, and it is requestable by the veteran himself.",
+"The 44th Missile Security Squadron duty roster for the night of 17 to 18 November 1977, and the 44th Strategic Missile Wing unit histories at AFHRA.",
+"The third party named as the team member whose marriage leave created the vacancy Johnson filled. His leave dates would be a documentary fact corroborating the substitution.",
+"Content produced under hypnotic regression is not carried as evidence of events. The induction supplied the date, the season and the setting before the subject spoke."
 ]
 }

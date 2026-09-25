@@ -152,6 +152,7 @@
 ],
 "cls": "institution",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -186,7 +187,7 @@
 "url": "https://www.govinfo.gov/content/pkg/CDIR-2020-07-22/html/CDIR-2020-07-22-HOUSECOMMITTEES.htm"
 }
 ],
-"tier": "C",
+"tier": "B",
 "type": "institutional"
 },
 {
@@ -1115,7 +1116,7 @@
 "edgeLabel": "created by 10 U.S.C. 119(e)(2) and defined by 119(g)",
 "id": "usc-10-119",
 "l0": true,
-"label": "10 U.S.C. 119 — Special Access Programs: Congressional Oversight",
+"label": "10 U.S.C. 119 - Special Access Programs: Congressional Oversight",
 "note": "Section 119 was added by Pub. L. 100-180 div. A title XI sec. 1132(a)(1), 4 December 1987. Subsection (e)(2) directs waived-SAP information and the waiver justification jointly to the chairman and ranking minority member of each defense committee; subsection (g) supplies the six-body definition of 'defense committees' used by the section.",
 "sources": [
 {
@@ -1167,7 +1168,7 @@
 "edgeLabel": "sole statutory recipient of waived-SAP notification",
 "id": "waived-usap-mechanism",
 "l0": true,
-"label": "Waived Unacknowledged SAP (waived USAP) — the mechanism",
+"label": "Waived Unacknowledged SAP (waived USAP) - the mechanism",
 "note": "The waiver mechanism at 10 U.S.C. 119(e)(1) does not eliminate reporting; it redirects it. Whatever the Secretary withholds from the report goes instead to these twelve members under 119(e)(2), together with the justification for withholding.",
 "sources": [
 {
@@ -1191,10 +1192,7 @@
 "deg": 31,
 "denials": [],
 "desc": "The group that receives notification of a WAIVED Department of Defense special access program is not the Gang of Eight, and conflating the two is the single most common error in public argument about how a legacy programme could be hidden. The waived-SAP channel is created by 10 U.S.C. 119(e). Subsection (e)(1) provides: 'The Secretary of Defense may waive any requirement under subsection (a), (b), or (c) that certain information be included in a report under that subsection if the Secretary determines that inclusion of that information in the report would adversely affect the national security. Any such waiver shall be made on a case-by-case basis.' Subsection (e)(2) then specifies where the withheld material goes instead: 'If the Secretary exercises the authority provided under paragraph (1), the Secretary shall provide the information described in that subsection with respect to the special access program concerned, and the justification for the waiver, jointly to the chairman and ranking minority member of each of the defense committees.' The term 'defense committees' is defined not by the general Title 10 definition but by section 119's own subsection (g): 'the Committee on Armed Services and the Committee on Appropriations, and the Defense Subcommittee of the Committee on Appropriations, of the Senate' and 'the Committee on Armed Services and the Committee on Appropriations, and the Subcommittee on Defense of the Committee on Appropriations, of the House of Representatives.' Six bodies, each contributing a chairman and a ranking minority member: twelve members of Congress. This is deliberately narrower than a full committee and deliberately wider than eight. Note that 10 U.S.C. 101(a)(16) defines a different, similar-sounding term, 'congressional defense committees,' as only the Armed Services and Appropriations Committees of the two chambers - four bodies, eight chairs and rankings. Section 119 does not use that definition; it uses its own, which adds the two Defense Appropriations Subcommittees. A board that cites 101(a)(16) for the waived-SAP group would be naming the wrong set. The Gang of Eight is a separate creature governing covert action, not DoD SAPs. Under 50 U.S.C. 3093(c)(2), where the President determines that it is essential to limit access to a covert action finding to meet extraordinary circumstances affecting vital interests of the United States, 'the finding may be reported to the chairmen and ranking minority members of the congressional intelligence committees, the Speaker and minority leader of the House of Representatives, the majority and minority leaders of the Senate, and such other member or members of the congressional leadership as may be included by the President.' Different committees (intelligence, not armed services or appropriations), different people (the four party leaders sit in the Gang of Eight and are absent from the 119(e) group; the appropriators sit in the 119(e) group and are absent from the Gang of Eight), and different subject matter. The structural comparison is where the argument actually lives, and it cuts against the covert-action statute being the tighter one. Title 50 contains two escape valves that Title 10 does not. First, 50 U.S.C. 3093(c)(5)(B) imposes a 180-day clock: within 180 days of a statement of reasons for limiting access, the President must either give all members of the intelligence committees access to the finding or submit a fresh statement of reasons for continuing to withhold. Section 119(e) contains no sunset, no periodic re-justification, and no mechanism that ever widens the circle. A waiver, once made, is permanent as to that report. Second, 50 U.S.C. 3093(g)(1)-(2) requires the President to tell all members of the intelligence committee that a limited notification occurred and to give them a general description of it. Section 119 has no analogue: the members of the Armed Services and Appropriations Committees who are not chair or ranking are never told that a waiver happened at all. They cannot ask about what they do not know exists. That asymmetry - no sunset, no notice of bypass - is the load-bearing limit on congressional oversight of a waived programme, and it is a limit written into the statute rather than an abuse of it. What the twelve can see is also bounded. They receive the withheld report content and the Secretary's justification. They do not thereby acquire subpoena power over the programme, staff who can read the material, or any statutory right to share it with colleagues. What they cannot see is anything the Department declines to characterise as a DoD special access program at all - the recurring allegation in the UAP context being that recovery and reverse-engineering activity was moved into contractor-held or non-DoD structures where section 119 does not reach. Finally, the mechanism's present scope is narrower than it was. Pub. L. 114-328 section 1061(c)(4) lists 'Section 119(a) and (b)' among the reporting requirements it terminates, and section 1061(b)(1) provides that each such report still required as of December 31, 2021 'shall no longer be required to be submitted to Congress after that date.' The Office of the Law Revision Counsel carries this as a Termination of Reporting Requirements note under section 119. The annual SAP budget report and the annual new-SAP designation-and-justification report are therefore gone. Because 119(e)(1) can only waive a requirement 'under subsection (a), (b), or (c),' the waiver authority now has live operation only as to subsection (c), the report on a planned change in classification or a planned declassification and public announcement. Subsections (d), (f) and (g) survive and are not waivable at all - notably 119(f), which bars initiating any SAP until the defense committees are notified and thirty days elapse.",
-"domains": [
-"w11-statutory",
-"w9-waived-sap-group"
-],
+"domains": [],
 "dossier": {
 "claims": [
 {
@@ -1341,7 +1339,7 @@
 "cls": "person",
 "id": "adam-smith",
 "label": "Adam Smith",
-"tier": "C"
+"tier": "B"
 },
 {
 "cls": "person",
@@ -1464,7 +1462,12 @@
 "tier": "B"
 }
 ],
+"openQuestions": [],
 "short": "Waived SAP Notification Group",
+"sourceFiles": [
+"w11-statutory",
+"w9-waived-sap-group"
+],
 "sources": [
 {
 "date": null,
@@ -1569,6 +1572,7 @@
 ],
 "sub": "The persons entitled to notice of, and access to, a waived DoD special access program",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 25 of 1170, score 103). 31 connections, 2 of them custody/funding/programmatic. Axes C3/A1/D3.",
-"timeline": []
+"tierRationale": "Re-graded A on a global pass (rank 21 of 1170, score 103). 31 connections, 2 of them custody/funding/programmatic. Axes C3/A1/D3.",
+"timeline": [],
+"unverified": []
 }

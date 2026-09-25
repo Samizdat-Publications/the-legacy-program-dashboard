@@ -27,6 +27,7 @@
 ],
 "cls": "program",
 "cluster": "research",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -259,9 +260,7 @@
 "deg": 9,
 "denials": [],
 "desc": "Founded by Avi Loeb on 26 July 2021, four weeks after the ODNI preliminary assessment and following NASA administrator Bill Nelson's June 2021 call for scientific analysis, the Galileo Project is the largest unclassified instrumentation effort ever directed at this problem. Its founding logic is the board's own logic inverted: if the classified system will not release what it holds, build instruments that acquire an independent record nobody can classify. It raised roughly $1.8 million in its first year from donors including Frank Laukien of Bruker Corporation and William A. Linton of Promega, and involves over 100 researchers across Harvard, Caltech, Cambridge, Princeton, Stockholm University, Wellesley and the University of Tokyo. It operates in three branches: high-resolution multimodal observation of UAP, the search for interstellar objects resembling 'Oumuamua under Amir Siraj, and the search for possible extraterrestrial satellites. Its first observatory was installed at Harvard College Observatory in 2022. Unusually for this field, it published its instrumentation and software architecture before its observations - the Journal of Astronomical Instrumentation special issue of 2023, including Loeb and Laukien's project overview and Cloete et al.'s integrated computing platform for detection and tracking - and it continues to publish auxiliary instrumentation in mainstream venues, such as the 2025 Copernicus paper on deploying a geomagnetic variometer station. Its most contested undertaking was the June-July 2023 Pacific Ocean expedition to recover fragments of CNEOS 2014-01-08.",
-"domains": [
-"scientists-technical"
-],
+"domains": [],
 "dossier": {
 "claims": [
 {
@@ -423,7 +422,11 @@
 "tier": "C"
 }
 ],
+"openQuestions": [],
 "short": "The Galileo Project",
+"sourceFiles": [
+"scientists-technical"
+],
 "sources": [
 {
 "date": "2026-08-12",
@@ -453,34 +456,38 @@
 ],
 "sub": "Harvard-based unclassified UAP and interstellar-object instrumentation programme, founded July 2021",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 443 of 1170, score 33). 9 connections, 1 of them custody/funding/programmatic. Axes C1/A0/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 442 of 1170, score 33). 9 connections, 1 of them custody/funding/programmatic. Axes C1/A0/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2021-07-26",
+"grade": "A",
 "id": "st-2021-07-26",
 "label": "Galileo Project founded",
 "precision": "day",
 "strand": "program",
-"text": "Avi Loeb founds the Galileo Project four weeks after the ODNI preliminary assessment, on the premise that unclassified instrumentation is the way past a classified impasse.",
-"tier": "A"
+"text": "Avi Loeb founds the Galileo Project four weeks after the ODNI preliminary assessment, on the premise that unclassified instrumentation is the way past a classified impasse."
 },
 {
+"claimTier": null,
 "date": "2023-02-13",
+"grade": "A",
 "id": "st-2023-02-13",
 "label": "Galileo Project overview published",
 "precision": "day",
 "strand": "program",
-"text": "Loeb and Laukien publish the project's architecture in the Journal of Astronomical Instrumentation, alongside Cloete et al.'s detection and tracking platform - methods published before observations.",
-"tier": "A"
+"text": "Loeb and Laukien publish the project's architecture in the Journal of Astronomical Instrumentation, alongside Cloete et al.'s detection and tracking platform - methods published before observations."
 },
 {
+"claimTier": null,
 "date": "2025-11-26",
+"grade": "B",
 "id": "st-2025-11-26",
 "label": "Galileo variometer paper",
 "precision": "day",
 "strand": "program",
-"text": "Vervelidou, Little and colleagues publish the deployment of a geomagnetic variometer station as auxiliary UAP instrumentation in a Copernicus geophysics journal.",
-"tier": "B"
+"text": "Vervelidou, Little and colleagues publish the deployment of a geomagnetic variometer station as auxiliary UAP instrumentation in a Copernicus geophysics journal."
 }
-]
+],
+"unverified": []
 }

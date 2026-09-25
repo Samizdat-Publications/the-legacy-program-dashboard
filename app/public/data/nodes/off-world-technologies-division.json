@@ -17,6 +17,7 @@
 ],
 "cls": "program",
 "cluster": "legacy",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -67,9 +68,7 @@
 "deg": 2,
 "denials": [],
 "desc": "The Off-World Technologies Division is a programme named by a first-hand witness - a US Army Green Beret identified only as 'RA' - documented in UAP Gerb's investigation of 17 July 2024. RA's account: between 2013 and 2015 he was sent to a special weapons centre near Crane, Indiana to test foreign and domestic weaponry; because he held TS/SCI clearance, a weapons instructor employed by a private contractor took him and another soldier deep underground to this division. The division is said to have held two objects not made by human hand - a sphere roughly the size of a basketball with an indentation on top, and a clear tablet-like device projecting some form of symbology. RA was told both were classified as weapons owing to energetic output when recovered from a craft, and that both interacted with human consciousness. Gerb links the division to SAIC and Sandia National Laboratories. The location matters: Crane, Indiana is the site of Naval Surface Warfare Center Crane, a real Navy facility with a genuine special-weapons and energetics mission, and the account's specificity about clearance, escort and contractor employment is the kind of detail that is checkable in principle against personnel and visitor records.",
-"domains": [
-"media-structure"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "2",
@@ -83,7 +82,11 @@
 "label": "Off-World Technologies Division",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Off-World Technologies Division",
+"sourceFiles": [
+"media-structure"
+],
 "sources": [
 {
 "date": "2024-07-17",
@@ -93,16 +96,18 @@
 ],
 "sub": "Alleged reverse-engineering division, Crane, Indiana",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 501 of 1170, score 31). 2 connections, 0 of them custody/funding/programmatic. Axes C3/A3/D2.",
+"tierRationale": "Re-graded B on a global pass (rank 502 of 1170, score 31). 2 connections, 0 of them custody/funding/programmatic. Axes C3/A3/D2.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2024-07-17",
+"grade": "B",
 "id": "ms-2024-offworld",
 "label": "Off-World Technologies Division account published",
 "precision": "day",
 "strand": "witness",
-"text": "Gerb documents witness 'RA', a Green Beret describing two non-human artifacts held underground near Crane, Indiana between 2013 and 2015, with alleged SAIC and Sandia connections.",
-"tier": "B"
+"text": "Gerb documents witness 'RA', a Green Beret describing two non-human artifacts held underground near Crane, Indiana between 2013 and 2015, with alleged SAIC and Sandia connections."
 }
-]
+],
+"unverified": []
 }

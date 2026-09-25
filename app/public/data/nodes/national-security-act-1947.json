@@ -37,6 +37,7 @@
 ],
 "cls": "legislation",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -134,9 +135,7 @@
 "deg": 4,
 "denials": [],
 "desc": "The Act that created the National Security Council and the Central Intelligence Agency. Its section 102(d)(5), the residual clause permitting the Agency to perform 'such other functions and duties related to intelligence' as the Council directs, is the authority both NSC 10/2 and NSC 5412 invoke, which makes it the statutory root of United States covert action.",
-"domains": [
-"nsc-eo-spine-2026-09-19"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -150,7 +149,11 @@
 "label": "National Security Act of 1947 (Pub. L. 80-253, 61 Stat. 495)",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "National Security Act of 1947 (Pub. L. 80-253, 61 Stat. 495)",
+"sourceFiles": [
+"nsc-eo-spine-2026-09-19"
+],
 "sources": [
 {
 "date": "2026-09-19",
@@ -160,16 +163,18 @@
 ],
 "sub": "Statute; the source of the NSC, the CIA, and the residual intelligence clause every early covert-action directive is written under",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 606 of 1170, score 28). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D1.",
+"tierRationale": "Re-graded C on a global pass (rank 601 of 1170, score 28). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D1.",
 "timeline": [
 {
+"claimTier": 1,
 "date": "1947-07-26",
+"grade": null,
 "id": "spine-tl-1947-nsa",
 "label": "The National Security Act creates the NSC and the CIA",
 "precision": "day",
 "strand": "program",
-"text": "Public Law 80-253, 61 Stat. 495. Section 101 creates the National Security Council; section 102(a) establishes the Central Intelligence Agency under it. Section 102(d)(5), permitting such other functions related to intelligence as the Council may direct, will be the authority for the covert-action charters of 1948 and 1954. The Act creates the National Military Establishment, not the Department of Defense; that renaming comes in 1949.",
-"tier": 1
+"text": "Public Law 80-253, 61 Stat. 495. Section 101 creates the National Security Council; section 102(a) establishes the Central Intelligence Agency under it. Section 102(d)(5), permitting such other functions related to intelligence as the Council may direct, will be the authority for the covert-action charters of 1948 and 1954. The Act creates the National Military Establishment, not the Department of Defense; that renaming comes in 1949."
 }
-]
+],
+"unverified": []
 }

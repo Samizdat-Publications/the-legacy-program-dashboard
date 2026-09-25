@@ -65,6 +65,14 @@
 "deg": 1,
 "denials": [
 {
+"a": {
+"id": "tim-hebert",
+"label": "Tim Hebert"
+},
+"b": {
+"id": "malmstrom-echo-flight-1967",
+"label": "Malmstrom AFB missile shutdowns, March 1967"
+},
 "by": {
 "id": "tim-hebert",
 "label": "Tim Hebert"
@@ -92,7 +100,8 @@
 }
 ],
 "domains": [
-"nuclear-witnesses-2026-09-19"
+"d-nuclear",
+"d-nuc"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -113,6 +122,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Tim Hebert",
+"sourceFiles": [
+"nuclear-witnesses-2026-09-19"
+],
 "sources": [
 {
 "date": "2011-08-01",

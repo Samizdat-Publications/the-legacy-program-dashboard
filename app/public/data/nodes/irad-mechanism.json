@@ -22,6 +22,7 @@
 ],
 "cls": "program",
 "cluster": "contractor",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 3,
@@ -53,7 +54,7 @@
 "edgeLabel": "Statutory bar on UAP-related IR&D as an allowable indirect cost",
 "id": "ndaa-fy2024-1687",
 "l0": true,
-"label": "FY2024 NDAA sec. 1687 — Limitation on Use of Funds for Certain Unreported Programs",
+"label": "FY2024 NDAA sec. 1687 - Limitation on Use of Funds for Certain Unreported Programs",
 "note": "Section 1687(b) provides that IR&D funding relating to UAP shall not be allowable as an indirect expense for contracts covered by DoD Instruction 3204.01 unless disclosed to the appropriate committees and leadership. Attested by the enacted statute.",
 "sources": [
 {
@@ -93,9 +94,7 @@
 "deg": 3,
 "denials": [],
 "desc": "Independent Research and Development is the arrangement under which a defense contractor conducts research it selects, directs and owns, and charges the cost to the government as an allowable indirect expense spread across its contracts. The government pays. The contractor decides what is studied, retains the resulting intellectual property, and is not executing a contract line item that Congress appropriated by name. DoD Instruction 3204.01, dated 20 August 2014 and incorporating change 2 of 9 July 2020, sets Department policy for oversight of IR&D. There is no more precisely fitted mechanism in the federal financial system for the specific allegation this board exists to test: money reaching a private contractor's custody, funding work of the contractor's own definition, on material the contractor holds, without a congressionally identified programme line and without government ownership of the product. It is not a loophole in the sense of an oversight failure - it is a designed feature, intended to keep an industrial research base alive. What makes it evidentiary rather than merely structural is that Congress legislated against it by name in the UAP context: section 1687(b) of the FY2024 NDAA and section 7343(c) of the FY2024 Intelligence Authorization Act both provide that IR&D funding relating to unidentified anomalous phenomena shall not be allowable as an indirect expense unless the material and information is made available to the intelligence and defense committees and to congressional leadership. That is the named mechanism, in statute, dated 22 December 2023.",
-"domains": [
-"w2-black-budget"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "1",
@@ -109,7 +108,11 @@
 "label": "Independent Research and Development (IR&D) as a funding channel",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Independent Research and Development (IR&D) as a funding channel",
+"sourceFiles": [
+"w2-black-budget"
+],
 "sources": [
 {
 "date": "2023-12-22",
@@ -119,6 +122,7 @@
 ],
 "sub": "Contractor-directed research reimbursed by the government as an allowable indirect cost",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 294 of 1170, score 40). 3 connections, 1 of them custody/funding/programmatic. Axes C3/A3/D3.",
-"timeline": []
+"tierRationale": "Re-graded B on a global pass (rank 293 of 1170, score 40). 3 connections, 1 of them custody/funding/programmatic. Axes C3/A3/D3.",
+"timeline": [],
+"unverified": []
 }

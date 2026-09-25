@@ -32,6 +32,7 @@
 ],
 "cls": "institution",
 "cluster": "contractor",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -103,9 +104,7 @@
 "deg": 3,
 "denials": [],
 "desc": "TRW Inc. is the middle link of a chain the board already carries at both ends. In November 1997 it agreed to acquire BDM International through a cash tender offer at $29.50 a share, and BDM deregistered a month later. On 11 December 2002 TRW was itself merged into a Northrop Grumman subsidiary, with TRW surviving as a wholly owned subsidiary; TRW Systems became Northrop Grumman Mission Systems at Reston and TRW Space and Electronics became Northrop Grumman Space Technology at Redondo Beach. EDGAR carries the same transition on the company's own CIK. Until now the board reached from BDM to Northrop Grumman with no node in between, and the edge was an assertion where the filings make it a record. The corpus's further claim, that TRW was the parent of an unnamed FFRDC that ran the programme for about 29 years, is supported by nothing in any filing opened here.",
-"domains": [
-"michels-2026-09-02"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "1",
@@ -119,7 +118,11 @@
 "label": "TRW Inc.",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "TRW Inc.",
+"sourceFiles": [
+"michels-2026-09-02"
+],
 "sources": [
 {
 "date": "1997-11-26",
@@ -149,6 +152,7 @@
 ],
 "sub": "Cleveland-based aerospace, defence and automotive prime; acquired BDM 1997, acquired by Northrop Grumman 11 December 2002",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 540 of 1170, score 30). 3 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D1.",
-"timeline": []
+"tierRationale": "Re-graded B on a global pass (rank 534 of 1170, score 30). 3 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D1.",
+"timeline": [],
+"unverified": []
 }

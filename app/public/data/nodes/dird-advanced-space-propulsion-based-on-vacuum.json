@@ -47,6 +47,7 @@
 ],
 "cls": "document",
 "cluster": "other",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -107,6 +108,27 @@
 "dateStart": null,
 "direction": "in",
 "edgeLabel": "DIRD",
+"id": "dird-series",
+"l0": true,
+"label": "The 38 Defense Intelligence Reference Documents (DIRDs)",
+"note": "",
+"sources": [
+{
+"date": null,
+"name": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237647/",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237647/"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "series member",
 "id": "dird-series",
 "l0": true,
 "label": "The 38 Defense Intelligence Reference Documents (DIRDs)",
@@ -231,11 +253,7 @@
 "deg": 5,
 "denials": [],
 "desc": "DIA Defense Intelligence Reference Document (Acquisition Threat Support series), 2010-03-29, DIA-08-1003-015, produced under the Advanced Aerospace Weapon System Applications (AAWSA/AAWSAP) Program contract with BAASS. Released under FOIA.",
-"domains": [
-"_rs-aawsap-dirds",
-"_rs-archive-mirror",
-"w7-dirds-1"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "nd",
@@ -249,7 +267,13 @@
 "label": "Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering",
+"sourceFiles": [
+"_rs-aawsap-dirds",
+"_rs-archive-mirror",
+"w7-dirds-1"
+],
 "sources": [
 {
 "date": "2010-03-29",
@@ -284,6 +308,7 @@
 ],
 "sub": "defense-intelligence-reference-document",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 244 of 1170, score 42). 6 connections, 4 of them custody/funding/programmatic. Axes C0/A0/D0.",
-"timeline": []
+"tierRationale": "Re-graded B on a global pass (rank 233 of 1170, score 43). 7 connections, 4 of them custody/funding/programmatic. Axes C0/A0/D0.",
+"timeline": [],
+"unverified": []
 }

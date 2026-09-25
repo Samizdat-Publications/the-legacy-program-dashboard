@@ -37,6 +37,7 @@
 ],
 "cls": "institution",
 "cluster": "legacy",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -129,9 +130,7 @@
 "deg": 4,
 "denials": [],
 "desc": "This is the custody chain stated by the unit that ran it, about itself, in a document classified SECRET at the time. The 1127th USAF Field Activities Group's own semiannual history for 1 January to 30 June 1967, document number AFNIABA 014-67, prepared by Anita H. Beasey and approved by Colonel Rudolph C. Koller, Jr., lists on its contents page, under FOREIGN MATERIEL PROGRAM: 'Project BLUE FLY' (p.29), 'MIG-17 Exploitation' (p.29), 'Project MOON DUST' (p.30). The board has carried the Moon Dust and Blue Fly relationship as an inference; here it is an organisational fact, printed in a table of contents.\n\nThe BLUE FLY entry describes the mechanism end to end. After the air battle of 7 April 1967, three MIG-21s downed over Jordan were exploited by Detachment 3 of the Foreign Technology Division, and the Staff Operations Branch 'coordinated requirements necessary to deploy the FTD exploitation personnel and to airlift personnel and parts from site of acquisition to Wright-Patterson AFB. The take consisted of approximately three tons of aircraft parts and armament.' The Joint Chiefs had approved a one-year extension of Force/Activity Designator I priority for short-notice BLUE FLY airlift. That is recovery, transport priority and a named terminus, in one paragraph.\n\nThe MOON DUST entry, and the companion history of the Assistant Chief of Staff, Intelligence for July to December 1967, carry the figures usually quoted as recoveries. They are not recoveries. Both documents say the unit was NOTIFIED by SPADATS of DEORBITS -- 37 Soviet objects in the first half of 1967, and 49 Soviet plus 17 US objects in the second. Deorbit notification is the tasking trigger; recovery is a separate act neither document counts.",
-"domains": [
-"legacy-1947-86"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "nd",
@@ -145,7 +144,11 @@
 "label": "1127th USAF Field Activities Group",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "1127th USAF Field Activities Group",
+"sourceFiles": [
+"legacy-1947-86"
+],
 "sources": [
 {
 "date": "1967-06-30",
@@ -168,13 +171,17 @@
 "tierRationale": "Re-graded A on a global pass (rank 140 of 1170, score 54). 4 connections, 3 of them custody/funding/programmatic. Axes C3/A3/D1.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1967-06-30",
+"grade": "A",
 "id": "tl-1967-1127th",
 "label": "The 1127th's own history names the recovery pipeline",
 "precision": "day",
 "strand": "program",
-"text": "The 1127th USAF Field Activities Group's semiannual history, doc. AFNIABA 014-67, lists Project BLUE FLY, MIG-17 Exploitation and Project MOON DUST together under FOREIGN MATERIEL PROGRAM. It records exploitation personnel from FTD Detachment 3 deployed to crash sites and about three tons of parts airlifted to Wright-Patterson, and SPADATS notifying the unit of 37 Soviet deorbits.",
-"tier": "A"
+"text": "The 1127th USAF Field Activities Group's semiannual history, doc. AFNIABA 014-67, lists Project BLUE FLY, MIG-17 Exploitation and Project MOON DUST together under FOREIGN MATERIEL PROGRAM. It records exploitation personnel from FTD Detachment 3 deployed to crash sites and about three tons of parts airlifted to Wright-Patterson, and SPADATS notifying the unit of 37 Soviet deorbits."
 }
+],
+"unverified": [
+"The unit's activation and inactivation dates are NOT carried and dateStart is null: no primary lineage record was found, and 1967 is the period its surviving history covers, not a founding year -- printing it as dateStart would assert the thing this pass explicitly could not establish. Its Fort Belvoir station appears only in secondary accounts and is not carried either. The US deorbit figure on p.30 of the 1 Jan - 30 Jun 1967 history is illegible in the scan and is not reported."
 ]
 }

@@ -22,6 +22,7 @@
 ],
 "cls": "document",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -77,10 +78,7 @@
 "deg": 2,
 "denials": [],
 "desc": "The Department of Defense's own Office of Prepublication and Security Review read David Grusch's proposed public statements and stamped them cleared for open publication on 4 April and 6 April 2023, weeks before The Debrief published. Records released under DoD FOIA case 23-F-0946 show a first submission on 7 March 2023 and a second on 5 April 2023, with security review specialist Michelle Whigham flagging that Grusch made reference to sensitive areas without divulging specifics and colleague Don Kluzik replying that vague references to sensitive areas like this are not a problem. The substantive answers Grusch submitted were withheld under FOIA exemption (b)(6). This document set is the strongest single rebuttal to the framing that Grusch went rogue: the security apparatus of the department that later called his claims unsubstantiated reviewed the words in advance and released them. It also means the government holds, in its own files, the full text of what Grusch proposed to say - a set of answers the public has never seen.",
-"domains": [
-"_rs-archive-mirror",
-"grusch"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "3",
@@ -94,7 +92,12 @@
 "label": "Grusch DOPSR Prepublication Clearance (FOIA 23-F-0946)",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Grusch DOPSR Prepublication Clearance (FOIA 23-F-0946)",
+"sourceFiles": [
+"_rs-archive-mirror",
+"grusch"
+],
 "sources": [
 {
 "date": "2026-06-12",
@@ -114,16 +117,18 @@
 ],
 "sub": "DoD security review approvals, 4 and 6 April 2023",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 630 of 1170, score 27). 2 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 629 of 1170, score 27). 2 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2023-04-04",
+"grade": "A",
 "id": "g-tl-2023-04-dopsr",
 "label": "DoD clears Grusch's statements for open publication",
 "precision": "day",
 "strand": "oversight",
-"text": "DOPSR approves his first submission on 4 April and his second on 6 April 2023. Internal reviewer correspondence in the FOIA release shows the sensitive-areas references were raised and judged not a problem.",
-"tier": "A"
+"text": "DOPSR approves his first submission on 4 April and his second on 6 April 2023. Internal reviewer correspondence in the FOIA release shows the sensitive-areas references were raised and judged not a problem."
 }
-]
+],
+"unverified": []
 }

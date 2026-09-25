@@ -22,6 +22,7 @@
 ],
 "cls": "program",
 "cluster": "research",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 3,
@@ -82,9 +83,7 @@
 "deg": 2,
 "denials": [],
 "desc": "THE CONTROL CASE THAT MAKES THE WHOLE STRAND LEGIBLE. Magnetohydrodynamic propulsion is not a suppressed idea or a fringe one. It is a real technology that was designed, built, floated and measured in public by a named civil foundation. In 1985 the Ship and Ocean Foundation created a committee under the chairmanship of Yohei Sasakawa and began research into superconducting MHD ship propulsion; in 1989 it began construction on the basis of that research; and in June 1992 the experimental ship Yamato-1 made her trial runs and became the world's first superconducting MHD-propelled ship. The mechanism is the same one US 3,322,374 claims and the same one DIA's own MHD reference document surveys: a magnetic field acting on a conducting fluid, with the fluid as the reaction mass. THE POINT THE NODE EXISTS TO MAKE IS NOT THAT THE SHIP WAS IMPRESSIVE. It is that the mechanism the ARV literature offers as evidence of recovered non-human technology was independently built by a maritime foundation, reported at an international conference, and was slow. If magnetohydrodynamics were the secret, it was never a secret.",
-"domains": [
-"propulsion-2026-09-19"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "1",
@@ -98,7 +97,11 @@
 "label": "Yamato-1, the world's first superconducting MHD-propelled ship (1992)",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Yamato-1, the world's first superconducting MHD-propelled ship (1992)",
+"sourceFiles": [
+"propulsion-2026-09-19"
+],
 "sources": [
 {
 "date": "1995-04",
@@ -111,13 +114,18 @@
 "tierRationale": "Re-graded C on a global pass (rank 1145 of 1170, score 9). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D0.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1992-06",
+"grade": "C",
 "id": "tl-1992-06-yamato-1-sea-trials",
 "label": "Yamato-1 becomes the world's first superconducting MHD-propelled ship",
 "precision": "month",
 "strand": "program",
-"text": "Trial runs of the Ship and Ocean Foundation's experimental vessel, begun as a committee in 1985 under the chairmanship of Yohei Sasakawa and laid down in 1989. THE CONTROL CASE FOR THE WHOLE STRAND: the mechanism the ARV literature offers as evidence of recovered technology was built in public by a civil maritime foundation and reported at an international conference two years later.",
-"tier": "C"
+"text": "Trial runs of the Ship and Ocean Foundation's experimental vessel, begun as a committee in 1985 under the chairmanship of Yohei Sasakawa and laid down in 1989. THE CONTROL CASE FOR THE WHOLE STRAND: the mechanism the ARV literature offers as evidence of recovered technology was built in public by a civil maritime foundation and reported at an international conference two years later."
 }
+],
+"unverified": [
+"EVERY PERFORMANCE FIGURE. No speed, thrust, efficiency, magnetic field strength, displacement or dimension is asserted anywhere on this node. The OSTI abstract states that the paper describes the outline and the sea trial test results; THE PAPER ITSELF WAS NOT OPENED. Figures for all of these circulate widely and none of them is carried here.",
+"The vessel's later history, its display at the Kobe Maritime Museum and its reported dismantling. Nothing was opened and nothing is asserted."
 ]
 }

@@ -27,6 +27,7 @@
 ],
 "cls": "location",
 "cluster": "legacy",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -122,10 +123,7 @@
 "deg": 4,
 "denials": [],
 "desc": "'Area 51' is the name attached to the operating facility on the southwest shore of Groom Lake, carried on aeronautical charts as Homey Airport (KXTA) and administratively part of the Nevada Test and Training Range. It is treated here as a distinct node from the lakebed itself because the name, rather than the geography, is what carries the evidentiary weight: it is the name the CIA finally used in the 25 June 2013 release, the name in the 1995 presidential environmental determination's careful circumlocution ('the Air Force's operating location near Groom Lake, Nevada'), and the name around which the entire modern reverse-engineering claim structure was built. In May 1989 Robert Lazar told KLAS-TV reporter George Knapp in Las Vegas that he had been contracted to work on craft of non-human origin at 'S-4', a facility he placed underground in the Papoose Range near Papoose Lake, about 8.5 miles south of the main base. Lazar's account is the origin point of the public reverse-engineering narrative and remains uncorroborated by any primary record; it is also the reason that, for thirty-seven years, the phrase 'Area 51' has functioned as a container that absorbs and discredits serious custody claims. The board's position is that the two things are separable. The documented reality of Area 51 - a facility whose existence the government refused to concede for four decades while flying AQUATONE, OXCART, HAVE BLUE, TACIT BLUE and exploited Soviet airframes out of it - is itself proof of the state's capacity and willingness to run large, physically substantial, contractor-staffed programmes entirely outside the acknowledged record. That capacity is the load-bearing claim. Lazar's specific allegations are not required to support it and are recorded separately at their own evidentiary grade.",
-"domains": [
-"lazar-s4-2026-09-18",
-"w2-places-events"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -139,7 +137,12 @@
 "label": "Area 51 (Homey Airport / Groom Lake operating location)",
 "locLabel": "Groom Lake, Nevada, USA",
 "members": null,
+"openQuestions": [],
 "short": "Area 51 (Homey Airport / Groom Lake operating location)",
+"sourceFiles": [
+"lazar-s4-2026-09-18",
+"w2-places-events"
+],
 "sources": [
 {
 "date": "1991",
@@ -164,25 +167,28 @@
 ],
 "sub": "Named USAF/CIA facility at Groom Lake; KXTA / Homey Airport; part of the Nevada Test and Training Range",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 307 of 1170, score 39). 4 connections, 1 of them custody/funding/programmatic. Axes C3/A3/D2.",
+"tierRationale": "Re-graded B on a global pass (rank 305 of 1170, score 39). 4 connections, 1 of them custody/funding/programmatic. Axes C3/A3/D2.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1989-05-01",
+"grade": "C",
 "id": "tl-1989-lazar",
 "label": "Lazar goes on television in Las Vegas",
 "precision": "month",
 "strand": "witness",
-"text": "George Knapp broadcasts the Robert Lazar interviews on KLAS-TV, creating the public reverse-engineering narrative attached to Area 51 and S-4. No primary record has ever corroborated it.",
-"tier": "C"
+"text": "George Knapp broadcasts the Robert Lazar interviews on KLAS-TV, creating the public reverse-engineering narrative attached to Area 51 and S-4. No primary record has ever corroborated it."
 },
 {
+"claimTier": null,
 "date": "2013-06-25",
+"grade": "A",
 "id": "tl-2013-cia",
 "label": "The CIA names Area 51",
 "precision": "day",
 "strand": "oversight",
-"text": "Answering a 2005 FOIA request by Jeffrey Richelson of the National Security Archive, the CIA releases the U-2 and OXCART history and acknowledges specific activity at the site - fifty-eight years after establishment.",
-"tier": "A"
+"text": "Answering a 2005 FOIA request by Jeffrey Richelson of the National Security Archive, the CIA releases the U-2 and OXCART history and acknowledges specific activity at the site - fifty-eight years after establishment."
 }
-]
+],
+"unverified": []
 }

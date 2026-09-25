@@ -12,6 +12,7 @@
 ],
 "cls": "institution",
 "cluster": "research",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -87,9 +88,7 @@
 "deg": 2,
 "denials": [],
 "desc": "The Harvard-Smithsonian Center for Astrophysics is the institutional host for the modern astronomical wing of UAP research. Avi Loeb has directed its Institute for Theory and Computation since 2007, and the Galileo Project's first observatory was installed at Harvard College Observatory in 2022. Its relevance to this board is that it supplies something the private technical layer otherwise lacks: an institutional address with standing in the mainstream literature, editorial access to venues such as the Journal of Astronomical Instrumentation and Research Notes of the AAS, and the ability to withstand a contested publication cycle in public - as the IM1 spherule dispute demonstrated between 2023 and 2025. It is the counter-model to EarthTech International: everything it does is published, and everything it publishes can be attacked.",
-"domains": [
-"scientists-technical"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "3",
@@ -103,7 +102,11 @@
 "label": "Harvard-Smithsonian Center for Astrophysics",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Harvard-Smithsonian Center for Astrophysics",
+"sourceFiles": [
+"scientists-technical"
+],
 "sources": [
 {
 "date": "2026-08-12",
@@ -124,5 +127,6 @@
 "sub": "Host institution of the Galileo Project's first observatory and of Loeb's Institute for Theory and Computation",
 "tier": "C",
 "tierRationale": "Re-graded C on a global pass (rank 1156 of 1170, score 8). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.",
-"timeline": []
+"timeline": [],
+"unverified": []
 }

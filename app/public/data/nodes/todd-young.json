@@ -76,7 +76,7 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "research"
 }
 ],
 "date": "2023-07-13",
@@ -85,8 +85,9 @@
 "deg": 2,
 "denials": [],
 "domains": [
-"_rs-legislation",
-"congress-senate-legislation"
+"d-legislative",
+"d-oversight",
+"d-records"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -107,6 +108,10 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Todd Young",
+"sourceFiles": [
+"_rs-legislation",
+"congress-senate-legislation"
+],
 "sources": [
 {
 "date": "2023-07-13",
@@ -127,7 +132,7 @@
 "status": "active",
 "sub": "R-IN; original cosponsor of the UAPDA",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 864 of 1170, score 19). 2 connections, 1 of them custody/funding/programmatic. Axes C0/A1/D1.",
+"tierRationale": "Re-graded C on a global pass (rank 964 of 1170, score 16). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D1.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": []

@@ -52,6 +52,7 @@
 ],
 "cls": "legislation",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -109,7 +110,7 @@
 "edgeLabel": "Subsection (e) is the escape hatch inside the reporting statute",
 "id": "usc-10-119",
 "l0": true,
-"label": "10 U.S.C. 119 — Special Access Programs: Congressional Oversight",
+"label": "10 U.S.C. 119 - Special Access Programs: Congressional Oversight",
 "note": "119(e)(1) permits waiver of any requirement under (a), (b) or (c) on the Secretary's own national-security determination, case by case.",
 "sources": [
 {
@@ -125,14 +126,19 @@
 "claimTier": 1,
 "cls": "program",
 "dateEnd": null,
-"dateStart": "1987-12-04",
-"direction": "in",
-"edgeLabel": "The waived category exists only because subsection (e) exists",
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "119(e) is the waiver that defines a waived SAP",
 "id": "waived-usap-mechanism",
 "l0": true,
-"label": "Waived Unacknowledged SAP (waived USAP) — the mechanism",
+"label": "Waived Unacknowledged SAP (waived USAP) - the mechanism",
 "note": "DoDD 5205.07 (2010) Enclosure 2 para 5 permits the Secretary to 'designate select unacknowledged SAPs as waived in accordance with Reference (c)' - Reference (c) being 10 U.S.C. 119.",
 "sources": [
+{
+"date": null,
+"name": "https://www.govinfo.gov/content/pkg/USCODE-2023-title10/html/USCODE-2023-title10-subtitleA-partI-chap2-sec119.htm",
+"url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title10/html/USCODE-2023-title10-subtitleA-partI-chap2-sec119.htm"
+},
 {
 "date": "2018-08-31",
 "name": "DoD Directive 5205.07, 1 July 2010, Change 1 31 August 2018",
@@ -153,10 +159,10 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
-"edgeLabel": "119(e) is the waiver that defines a waived SAP",
+"edgeLabel": "the waiver authority itself",
 "id": "waived-usap-mechanism",
 "l0": true,
-"label": "Waived Unacknowledged SAP (waived USAP) — the mechanism",
+"label": "Waived Unacknowledged SAP (waived USAP) - the mechanism",
 "note": "10 U.S.C. 119(e) is the waiver: 'The Secretary of Defense may waive any requirement under subsection (a), (b), or (c) that certain information be included in a report under that subsection if the Secretary determines that inclusion of that information in the report would adversely affect the national security.' Where it is exercised, 'the Secretary shall provide the information described in that subsection with respect to the special access program concerned, and the justification for the waiver, jointly to the chairman and ranking minority member of each of the defense committees.' Read directly from the OLRC text on 22 August 2026.",
 "sources": [
 {
@@ -175,10 +181,7 @@
 "deg": 4,
 "denials": [],
 "desc": "Subsection (e) is the hinge of this entire board. In two paragraphs it converts the full committee reporting regime of section 119 into a briefing for a handful of individuals. Paragraph (1): 'The Secretary of Defense may waive any requirement under subsection (a), (b), or (c) that certain information be included in a report under that subsection if the Secretary determines that inclusion of that information in the report would adversely affect the national security. Any such waiver shall be made on a case-by-case basis.' Paragraph (2): 'If the Secretary exercises the authority provided under paragraph (1), the Secretary shall provide the information described in that subsection with respect to the special access program concerned, and the justification for the waiver, jointly to the chairman and ranking minority member of each of the defense committees.' Four features matter. First, the waiver is unilateral - no committee concurrence, no ISOO review, no judicial test; the sole standard is the Secretary's own determination. Second, the waiver reaches subsections (a), (b) and (c) - the annual report, the new-program notice and the declassification notice - but not subsection (f), so the 30-day pre-initiation notice to the committees survives on paper. Third, the information does not vanish: it goes to named leaders, which is why programs run under a section 119(e) waiver are called 'waived' programs and are informally said to be briefed to a 'Gang of Eight'. Fourth, and decisively, section 119(e) contains no audit trail requirement - no register of waivers exercised, no annual accounting of how many waivers are outstanding, no requirement that the waived program appear anywhere in an unclassified count. The number of waived DoD special access programs currently in existence has never been published.",
-"domains": [
-"_rs-sap-docs",
-"w2-sap-architecture"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": {
 "desc": "The hinge, stated as plainly as it can be. A witness alleging that Congress was not told about a program is usually assumed to be alleging a crime. Under 10 U.S.C. 119(e) that assumption is wrong. The Secretary of Defense may lawfully decide, case by case, that telling the defense committees something would adversely affect national security, and thereupon tell only the chairman and ranking minority member of each committee instead. There is no committee veto, no ISOO concurrence, no court, no register of waivers, no expiry, no periodic requirement to widen access, and no penalty. Compare the covert action regime, which is normally described as the most secretive corner of American government: under 50 U.S.C. 3093(c)(5)(B), when access to a finding is limited to the Gang of Eight, the President must within 180 days either open it to all members of the intelligence committees or file a further written statement of reasons. A waived special access program has no such clock. That comparison is the single most useful fact this domain contributes to the board: the mechanism at the centre of the Grusch allegations is lawful, is older than the allegation, is weaker than the covert action rule it is usually compared to, and leaves an auditable paper trail in exactly two places - the Secretary's waiver determinations, and the Senior Review Group's annual review of all waived programs.",
@@ -192,10 +195,15 @@
 "hl": null,
 "id": "usc-10-119e",
 "l0": false,
-"label": "10 U.S.C. 119(e) — Waiver of SAP Reporting (the 'waived SAP' authority)",
+"label": "10 U.S.C. 119(e) - Waiver of SAP Reporting (the 'waived SAP' authority)",
 "locLabel": null,
 "members": null,
-"short": "10 U.S.C. 119(e) — Waiver of SAP Reporting (the 'waived SAP' authority)",
+"openQuestions": [],
+"short": "10 U.S.C. 119(e) - Waiver of SAP Reporting (the 'waived SAP' authority)",
+"sourceFiles": [
+"_rs-sap-docs",
+"w2-sap-architecture"
+],
 "sources": [
 {
 "date": "2024-01-05",
@@ -210,6 +218,7 @@
 ],
 "sub": "statute-subsection",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 194 of 1170, score 46). 5 connections, 1 of them custody/funding/programmatic. Axes C0/A3/D3.",
-"timeline": []
+"tierRationale": "Re-graded B on a global pass (rank 192 of 1170, score 46). 5 connections, 1 of them custody/funding/programmatic. Axes C0/A3/D3.",
+"timeline": [],
+"unverified": []
 }

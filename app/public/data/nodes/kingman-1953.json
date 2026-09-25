@@ -27,6 +27,7 @@
 ],
 "cls": "event",
 "cluster": "witness",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -56,9 +57,7 @@
 "deg": 1,
 "denials": [],
 "desc": "The 1953 Kingman, Arizona claim is the retrieval case with the cleanest documented chain of custody for its own testimony, and it is still only tier 2. It was first investigated and reported by the Massachusetts researcher Raymond E. Fowler, working from a source using the pseudonym 'Fritz Werner', an engineer who said he had been flown from an Air Force facility to a desert site under escort and shown a craft and a single small body, with each specialist restricted to his own area of examination and required to sign a secrecy agreement. Stringfield published the case as Abstract 6 in 'Retrievals of the Third Kind' (1978) and referenced it in 'Situation Red, The UFO Siege' (Doubleday, 1977) at pages 178-185. On 11 August 1980 Stringfield wrote to Fowler asking permission to put questions directly to Werner; the answers, dated 2 September 1980, are printed verbatim in Status Report III. Werner's replies are notable for what they concede: asked for facial detail on the deceased entity he answered that after twenty-seven years the details were 'pretty foggy' and that he might 'even be influenced by other descriptions I've seen or heard in the interim' - a witness volunteering, on the record, the exact contamination mechanism this board treats as the central problem of the retrieval corpus. The case is compartment-shaped in a way that fits the domain's premise - specialists shown only their own piece, sworn to secrecy, no one able to describe the whole - and it is unsupported by any document.",
-"domains": [
-"w2-retrieval-literature"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -72,7 +71,11 @@
 "label": "Kingman, Arizona claim, 1953",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Kingman, Arizona claim, 1953",
+"sourceFiles": [
+"w2-retrieval-literature"
+],
 "sources": [
 {
 "date": "2026-08-12",
@@ -82,6 +85,7 @@
 ],
 "sub": "Claimed craft and single body recovery; source pseudonym 'Fritz Werner'",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 834 of 1170, score 21). 1 connections, 0 of them custody/funding/programmatic. Axes C2/A1/D1.",
-"timeline": []
+"tierRationale": "Re-graded C on a global pass (rank 835 of 1170, score 21). 1 connections, 0 of them custody/funding/programmatic. Axes C2/A1/D1.",
+"timeline": [],
+"unverified": []
 }

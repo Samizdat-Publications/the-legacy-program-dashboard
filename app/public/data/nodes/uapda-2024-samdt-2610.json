@@ -27,6 +27,7 @@
 ],
 "cls": "legislation",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -37,7 +38,7 @@
 "edgeLabel": "Never called up; FY2025 enacted with no disclosure regime",
 "id": "iaa-fy2025-title-lxviii",
 "l0": false,
-"label": "IAA FY2025 Title LXVIII — Secs. 6801-6802 (P.L. 118-159)",
+"label": "IAA FY2025 Title LXVIII - Secs. 6801-6802 (P.L. 118-159)",
 "note": "The amendment was 'ordered to lie on the table' and received no vote; P.L. 118-159's only UAP content is a GAO review and a sunset on audit briefings.",
 "sources": [
 {
@@ -134,18 +135,20 @@
 "deg": 4,
 "denials": [
 {
-"by": {
+"a": {
 "id": "uapda-2024-samdt-2610",
 "label": "UAP Disclosure Act of 2024 (S.Amdt. 2610 to S. 4638)"
 },
+"b": {
+"id": "iaa-fy2025-title-lxviii",
+"label": "IAA FY2025 Title LXVIII - Secs. 6801-6802 (P.L. 118-159)"
+},
+"by": null,
 "claimTier": 1,
 "denialKind": "undirected",
 "label": "Never called up; FY2025 enacted with no disclosure regime",
 "note": "The amendment was 'ordered to lie on the table' and received no vote; P.L. 118-159's only UAP content is a GAO review and a sunset on audit briefings.",
-"of": {
-"id": "iaa-fy2025-title-lxviii",
-"label": "IAA FY2025 Title LXVIII — Secs. 6801-6802 (P.L. 118-159)"
-},
+"of": null,
 "sources": [
 {
 "date": "2024-07-11",
@@ -161,9 +164,7 @@
 }
 ],
 "desc": "The 2024 refiling proves the sponsors did not accept the 2023 outcome and shows exactly how the Senate disposes of this subject when it does not want to vote on it. On 11 July 2024 Senator Rounds, for himself and Senator Schumer, submitted S.Amdt. 2610 to S. 4638, the FY2025 NDAA. The printed text in the Congressional Record opens 'DIVISION _--UNIDENTIFIED ANOMALOUS PHENOMENA DISCLOSURE' and is the complete Act: the same findings, the same definitions of non-human intelligence and legacy program, the same nine-member Review Board, the same Controlled Disclosure Campaign Plan, and at Sec. __10(a) the identical eminent domain sentence. Nothing had been softened. The record entry ends 'which was ordered to lie on the table' — the disposition for an amendment that is filed but never called up, requiring no vote, no debate and no member to be recorded against it. The FY2025 NDAA as enacted, P.L. 118-159 of 23 December 2024, contains no UAP disclosure division; its only UAP content is Title LXVIII of the Intelligence Authorization Act, two sections directing a GAO review of AARO and sunsetting the GAO audit requirements on the Historical Record Report. The Act that a chamber of Congress had passed sixteen months earlier received no floor consideration at all.",
-"domains": [
-"congress-senate-legislation"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "3",
@@ -177,7 +178,11 @@
 "label": "UAP Disclosure Act of 2024 (S.Amdt. 2610 to S. 4638)",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "UAP Disclosure Act of 2024 (S.Amdt. 2610 to S. 4638)",
+"sourceFiles": [
+"congress-senate-legislation"
+],
 "sources": [
 {
 "date": "2024-07-11",
@@ -197,16 +202,18 @@
 ],
 "sub": "Filed 11 July 2024; ordered to lie on the table; never called up",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 284 of 1170, score 40). 4 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A2/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 282 of 1170, score 40). 4 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A2/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2024-07-11",
+"grade": "A",
 "id": "cl-2024-07-11",
 "label": "UAPDA refiled as SA 2610",
 "precision": "day",
 "strand": "program",
-"text": "Rounds, for himself and Schumer, refiles the complete Act against the FY2025 NDAA with the eminent domain command unchanged. It is ordered to lie on the table and never called up.",
-"tier": "A"
+"text": "Rounds, for himself and Schumer, refiles the complete Act against the FY2025 NDAA with the eminent domain command unchanged. It is ordered to lie on the table and never called up."
 }
-]
+],
+"unverified": []
 }

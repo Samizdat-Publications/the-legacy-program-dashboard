@@ -22,6 +22,7 @@
 ],
 "cls": "legislation",
 "cluster": "other",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -77,9 +78,7 @@
 "deg": 2,
 "denials": [],
 "desc": "Servicemember Quality of Life Improvement and National Defense Authorization Act for Fiscal Year 2025, Public Law 118-159, approved 23 December 2024. Its intelligence authorization division contains two UAP provisions: sec. 6801 directing a GAO review of AARO's implementation of 50 U.S.C. 3373, and sec. 6802 sunsetting the GAO audit requirements tied to AARO's Historical Record Report.",
-"domains": [
-"_rs-legislation"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "nd",
@@ -93,7 +92,11 @@
 "label": "FY2025 NDAA, Public Law 118-159 - Div. G (IAA FY2025) secs. 6801-6802, GAO review of AARO",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "FY2025 NDAA, Public Law 118-159 - Div. G (IAA FY2025) secs. 6801-6802, GAO review of AARO",
+"sourceFiles": [
+"_rs-legislation"
+],
 "sources": [
 {
 "date": "2024-12-23",
@@ -104,5 +107,6 @@
 "sub": "authorizing-statutes",
 "tier": "C",
 "tierRationale": "Re-graded C on a global pass (rank 1094 of 1170, score 11). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D0.",
-"timeline": []
+"timeline": [],
+"unverified": []
 }

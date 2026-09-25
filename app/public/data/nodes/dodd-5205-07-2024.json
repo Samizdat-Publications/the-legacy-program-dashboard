@@ -67,6 +67,7 @@
 ],
 "cls": "document",
 "cluster": "legacy",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 3,
@@ -146,6 +147,27 @@
 "id": "dodd-5205-07-2010",
 "l0": false,
 "label": "DoDD 5205.07, Special Access Program (SAP) Policy (1 Jul 2010, Chg 2 of 4 Feb 2020)",
+"note": "",
+"sources": [
+{
+"date": null,
+"name": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf",
+"url": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf"
+}
+],
+"tier": "A",
+"type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "",
+"id": "dodd-5205-07-2010",
+"l0": false,
+"label": "DoDD 5205.07, Special Access Program (SAP) Policy (1 Jul 2010, Chg 2 of 4 Feb 2020)",
 "note": "Same policy instrument, two issuances, and the programmatic relation is what CHANGED between them - which is not the same fact as the supersession recorded on the temporal edge. The 2010 directive's glossary defines 'carve-out' as 'a provision approved by the Secretary or Deputy Secretary of Defense that relieves DSS of its National Industrial Security Program oversight', and its Enclosure 2 para 5 restates the statutory waiver in policy. A full-text pass of the 12 September 2024 reissue finds no occurrence of 'carve-out', 'waived' or 'unacknowledged' at all. The vocabulary the earlier directive defined is simply absent from the later one. Note what that does and does not establish: 32 CFR 117.6(b)(3) still carries the carve-out in codified regulation, and still points at DoDD 5205.07 by name, so the mechanism did not end when the words left the directive.",
 "sources": [
 {
@@ -192,7 +214,7 @@
 "edgeLabel": "The 2024 reissue deletes acknowledged, unacknowledged, waived and carve-out from the definitions",
 "id": "sap-taxonomy",
 "l0": false,
-"label": "Acknowledged, unacknowledged and waived — the three states of a DoD SAP",
+"label": "Acknowledged, unacknowledged and waived - the three states of a DoD SAP",
 "note": "The glossary of the 12 September 2024 directive substitutes 'Joint Force Integration SAP' and 'Strategic Enabler SAP' and contains none of the four prior terms.",
 "sources": [
 {
@@ -211,18 +233,20 @@
 "deg": 5,
 "denials": [
 {
-"by": {
+"a": {
 "id": "carve-out",
 "label": "Carve-Out Provision (DCSA relief from NISP oversight)"
 },
+"b": {
+"id": "dodd-5205-07-2024",
+"label": "DoDD 5205.07, DoD Special Access Program (SAP) Policy (12 Sep 2024)"
+},
+"by": null,
 "claimTier": 3,
 "denialKind": "association",
 "label": "Still cited by regulation, no longer defined by the directive it cites",
 "note": "32 CFR 117.6(b)(3) conditions the carve-out on approval 'in accordance with DoDD 5205.07', but the 12 September 2024 reissue of that directive contains no definition of carve-out.",
-"of": {
-"id": "dodd-5205-07-2024",
-"label": "DoDD 5205.07, DoD Special Access Program (SAP) Policy (12 Sep 2024)"
-},
+"of": null,
 "sources": [
 {
 "date": "2026-08-12",
@@ -237,6 +261,14 @@
 ]
 },
 {
+"a": {
+"id": "dodd-5205-07-2024",
+"label": "DoDD 5205.07, DoD Special Access Program (SAP) Policy (12 Sep 2024)"
+},
+"b": {
+"id": "sap-taxonomy",
+"label": "Acknowledged, unacknowledged and waived - the three states of a DoD SAP"
+},
 "by": {
 "id": "dodd-5205-07-2024",
 "label": "DoDD 5205.07, DoD Special Access Program (SAP) Policy (12 Sep 2024)"
@@ -247,7 +279,7 @@
 "note": "The glossary of the 12 September 2024 directive substitutes 'Joint Force Integration SAP' and 'Strategic Enabler SAP' and contains none of the four prior terms.",
 "of": {
 "id": "sap-taxonomy",
-"label": "Acknowledged, unacknowledged and waived — the three states of a DoD SAP"
+"label": "Acknowledged, unacknowledged and waived - the three states of a DoD SAP"
 },
 "sources": [
 {
@@ -259,11 +291,7 @@
 }
 ],
 "desc": "The current directive, effective 12 September 2024, cancels the 1 July 2010 version as amended and incorporates the Deputy Secretary of Defense memorandum 'Implementation Guidance for DoD Special Access Program Enterprise Reform' of 11 July 2023. Two changes matter for this board. First, the governance structure is retained and strengthened: the SAPOC remains 'the senior governing body of the DoD SAP Enterprise for governance, management, and oversight of DoD SAPs', chaired by the Deputy Secretary of Defense, with the Director of DoD SAPCO as Executive Secretary of the SAPOC and the SRG and Chair of the SSWG, reporting directly to the Deputy Secretary. Establishment of new SAP umbrellas and compartments is stated to be 'by exception' and requires Secretary or Deputy Secretary approval. Second, and much more significant, the 2024 directive replaces the acknowledged / unacknowledged / waived taxonomy with two new categories - 'Joint Force Integration SAP', defined as 'A SAP intended for greater integration and sharing across the Joint Force and the broader SAP community', and 'Strategic Enabler SAP', defined as 'A SAP protecting capabilities or information that enable strategic competition and warrant more limited and restrictive sharing'. The words acknowledged, unacknowledged, waived and carve-out do not appear in its definitions section. This does not repeal 10 U.S.C. 119(e), which continues to authorise the reporting waiver, and it does not repeal 32 CFR 117.6(b)(3), which continues to authorise the carve-out and still cites this very directive by number. The effect is that the two mechanisms most relevant to a concealed program survive in statute and in the Code of Federal Regulations while ceasing to be defined in the Department's own public charter - the terminology has been removed from the shop window without being removed from the shop. The directive also carries forward the congressional-contact reporting rule: 'All personnel accessed to DoD SAPs will notify the Director, DoD SAPCO ... when briefing or providing DoD SAP material to any member of Congress.'",
-"domains": [
-"_rs-archive-mirror",
-"_rs-sap-docs",
-"w2-sap-architecture"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "3",
@@ -277,7 +305,13 @@
 "label": "DoDD 5205.07, DoD Special Access Program (SAP) Policy (12 Sep 2024)",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "DoDD 5205.07, DoD Special Access Program (SAP) Policy (12 Sep 2024)",
+"sourceFiles": [
+"_rs-archive-mirror",
+"_rs-sap-docs",
+"w2-sap-architecture"
+],
 "sources": [
 {
 "date": "2026-05-18",
@@ -292,16 +326,18 @@
 ],
 "sub": "dod-issuance",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 86 of 1170, score 68). 6 connections, 1 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C1/A3/D2.",
+"tierRationale": "Re-graded A on a global pass (rank 80 of 1170, score 69). 7 connections, 1 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C1/A3/D2.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2024-09-12",
+"grade": "A",
 "id": "sap-tl-2024-doddx",
 "label": "DoD deletes acknowledged, unacknowledged, waived and carve-out from its SAP directive",
 "precision": "day",
 "strand": "program",
-"text": "The reissued DoD Directive 5205.07 cancels the 2010 version, incorporates the 11 July 2023 SAP Enterprise Reform guidance, and replaces the three-state taxonomy with 'Joint Force Integration SAP' and 'Strategic Enabler SAP'. Neither 10 U.S.C. 119(e) nor 32 CFR 117.6(b)(3) is repealed; the mechanisms survive while the vocabulary is removed from the public charter.",
-"tier": "A"
+"text": "The reissued DoD Directive 5205.07 cancels the 2010 version, incorporates the 11 July 2023 SAP Enterprise Reform guidance, and replaces the three-state taxonomy with 'Joint Force Integration SAP' and 'Strategic Enabler SAP'. Neither 10 U.S.C. 119(e) nor 32 CFR 117.6(b)(3) is repealed; the mechanisms survive while the vocabulary is removed from the public charter."
 }
-]
+],
+"unverified": []
 }

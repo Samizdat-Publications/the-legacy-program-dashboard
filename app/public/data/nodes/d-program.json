@@ -22,6 +22,7 @@
 ],
 "cls": "domain",
 "cluster": "contractor",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -93,9 +94,7 @@
 "deg": 3,
 "denials": [],
 "desc": "Programmes have shapes, and the shape is evidence. A concealed effort needs a chartering authority, a programme element or contract vehicle to carry money, a security classification guide, a government programme manager of record, and a contractor with a facility clearance - and every one of those is a documented artifact in some system even when the subject matter is not. The AAWSAP contract file, released by DIA under FOIA, is the best-documented example on this board: a solicitation (HHM402-08-R-0211) issued in August 2008, a statement of work specifying advanced aerospace weapon system applications, a competitively awarded contract to Bigelow Aerospace Advanced Space Studies, annual modifications, and a body of thirty-eight Defense Intelligence Reference Documents as deliverables. That file demonstrates the mechanism working in the open; the board's argument is that the same mechanism, run inside an unacknowledged SAP, produces no file at all. In November 2009 OUSD(I) reviewed a request to convert the successor effort into a special access programme, which is the documented moment where a visible programme structure is considered for conversion into an invisible one. Scoring high on this domain means an entity chartered, managed or concealed a programme rather than merely worked on one.",
-"domains": [
-"w2-taxonomy"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -109,7 +108,11 @@
 "label": "Program Structure & Management",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Program Structure & Management",
+"sourceFiles": [
+"w2-taxonomy"
+],
 "sources": [
 {
 "date": "2008-08-18",
@@ -134,6 +137,7 @@
 ],
 "sub": "Structural domain - how a concealed effort is chartered, staffed, funded and hidden inside a portfolio",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 259 of 1170, score 42). 3 connections, 3 of them custody/funding/programmatic. Axes C2/A3/D2.",
-"timeline": []
+"tierRationale": "Re-graded B on a global pass (rank 256 of 1170, score 42). 3 connections, 3 of them custody/funding/programmatic. Axes C2/A3/D2.",
+"timeline": [],
+"unverified": []
 }

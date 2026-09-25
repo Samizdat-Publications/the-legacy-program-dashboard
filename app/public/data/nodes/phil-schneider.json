@@ -87,9 +87,7 @@
 "dateStart": "1996-01-11",
 "deg": 1,
 "denials": [],
-"domains": [
-"dulce-2026-09-19"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "1",
@@ -109,6 +107,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Philip Schneider",
+"sourceFiles": [
+"dulce-2026-09-19"
+],
 "sources": [
 {
 "date": "2026-09-19",
@@ -144,25 +145,27 @@
 "status": "deceased",
 "sub": "Lecturer of 1995 who claimed to have helped build the Dulce facility and to have survived a 1979 firefight there; no employment by anyone was ever documented",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 736 of 1170, score 23). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 735 of 1170, score 23). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1995-05-08",
+"grade": "C",
 "id": "tl-1995-05-08-schneider-postfalls",
 "label": "Schneider supplies the specification: seven levels, 2.5 miles, a 1979 firefight",
 "precision": "day",
 "strand": "witness",
-"text": "At Post Falls, Idaho he said he had been 'involved in building an addition to the deep underground military base at Dulce', that 'It goes down seven levels and over 2.5 miles deep', and that in a cavern there he shot two aliens and about seventy people were killed. The hosting page's own introduction gives a different casualty figure, sixty-six. He was not part of the initial rumours and arrived about fifteen years after they began.",
-"tier": "C"
+"text": "At Post Falls, Idaho he said he had been 'involved in building an addition to the deep underground military base at Dulce', that 'It goes down seven levels and over 2.5 miles deep', and that in a cavern there he shot two aliens and about seventy people were killed. The hosting page's own introduction gives a different casualty figure, sixty-six. He was not part of the initial rumours and arrived about fifteen years after they began."
 },
 {
+"claimTier": null,
 "date": "1996-01-11",
+"grade": "C",
 "id": "tl-1996-01-11-schneider-death",
 "label": "Schneider dies in Clackamas County, Oregon; the record is thin and contested",
 "precision": "day",
 "strand": "witness",
-"text": "His memorial record gives death on 11 January 1996 in Clackamas County, Oregon, cremated. The date in circulation, tied to the discovery of the body, is 17 January 1996. NO DEATH CERTIFICATE, MEDICAL EXAMINER'S REPORT OR POLICE REPORT WAS OPENED, and neither the suicide ruling nor the contest to it is carried as a claim anywhere in this file.",
-"tier": "C"
+"text": "His memorial record gives death on 11 January 1996 in Clackamas County, Oregon, cremated. The date in circulation, tied to the discovery of the body, is 17 January 1996. NO DEATH CERTIFICATE, MEDICAL EXAMINER'S REPORT OR POLICE REPORT WAS OPENED, and neither the suicide ruling nor the contest to it is carried as a claim anywhere in this file."
 }
 ],
 "unexplainedResidual": null,

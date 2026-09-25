@@ -47,6 +47,7 @@
 ],
 "cls": "legislation",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -78,7 +79,7 @@
 "edgeLabel": "Gag-order census feeds the contractor turn-in",
 "id": "iaa-fy2024-sec-1102",
 "l0": true,
-"label": "IAA FY2024 Sec. 1102 — contractor turn-in of 'non-earth origin or exotic' UAP material",
+"label": "IAA FY2024 Sec. 1102 - contractor turn-in of 'non-earth origin or exotic' UAP material",
 "note": "Sec. 1673(b)(3) requires agencies and contractors to deliver copies of all UAP nondisclosure orders to AARO; Sec. 1102(d) would have required the same parties to deliver the material itself.",
 "sources": [
 {
@@ -149,10 +150,7 @@
 "deg": 4,
 "denials": [],
 "desc": "Section 1673 is the provision that makes the legacy programme a matter of enacted federal law rather than allegation, and it is routinely underrated. It orders the Secretary of Defense, through the head of AARO, to establish a secure mechanism for authorized reporting of 'any activity or program by a department or agency of the Federal Government or a contractor of such a department or agency relating to unidentified anomalous phenomena, including with respect to material retrieval, material analysis, reverse engineering, research and development, detection and tracking, developmental or operational testing, and security protections and enforcement.' Congress does not legislate reporting channels for categories of programme it believes do not exist. The protections are unusually strong: an authorized disclosure 'shall not be subject to a nondisclosure agreement entered into by the individual who makes the disclosure,' is deemed to comply with Executive Order 13526 and with chapter 18 of the Atomic Energy Act, and 'is not a violation of section 798 of title 18' or any other disclosure statute. Reprisal — including 'the revocation or suspension of security clearances, or termination of employment' — is prohibited. Subsection (b)(3) then orders DoD, ODNI, DHS, other supporting agencies and Federal contractors that 'have supported or are supporting such activities and programs' to conduct comprehensive searches of all records relating to nondisclosure orders on these subjects and deliver copies to AARO, which must make them accessible to the defence and intelligence committees and congressional leadership. This is a statutory census of the gag orders. It has never been reported as completed.",
-"domains": [
-"_rs-legislation",
-"congress-senate-legislation"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "3",
@@ -166,7 +164,12 @@
 "label": "FY2023 NDAA Sec. 1673 (P.L. 117-263; 50 U.S.C. 3373b)",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "FY2023 NDAA Sec. 1673 (P.L. 117-263; 50 U.S.C. 3373b)",
+"sourceFiles": [
+"_rs-legislation",
+"congress-senate-legislation"
+],
 "sources": [
 {
 "date": "2022-12-23",
@@ -176,16 +179,18 @@
 ],
 "sub": "Authorized reporting mechanism and whistleblower protection",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 119 of 1170, score 57). 4 connections, 2 of them custody/funding/programmatic. Axes C2/A3/D3.",
+"tierRationale": "Re-graded A on a global pass (rank 118 of 1170, score 57). 4 connections, 2 of them custody/funding/programmatic. Axes C2/A3/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2022-12-23",
+"grade": "A",
 "id": "cl-2022-12-23",
 "label": "AARO named; Historical Record Report ordered",
 "precision": "day",
 "strand": "program",
-"text": "P.L. 117-263 carries IAA FY2023 Sec. 6802, restating Sec. 1683 to name the All-domain Anomaly Resolution Office, and Sec. 1673, creating the authorized reporting channel that voids nondisclosure agreements.",
-"tier": "A"
+"text": "P.L. 117-263 carries IAA FY2023 Sec. 6802, restating Sec. 1683 to name the All-domain Anomaly Resolution Office, and Sec. 1673, creating the authorized reporting channel that voids nondisclosure agreements."
 }
-]
+],
+"unverified": []
 }

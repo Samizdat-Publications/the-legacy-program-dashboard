@@ -17,6 +17,7 @@
 ],
 "cls": "document",
 "cluster": "research",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -46,9 +47,7 @@
 "deg": 1,
 "denials": [],
 "desc": "Richard Dolan's two volumes - 'Chronology of a Cover-Up, 1941-1973' (2002) and 'The Cover-Up Exposed, 1973-1991' (2009) - are the closest thing this domain has to a standard scholarly history, and they changed the field's centre of gravity. The crash-retrieval literature that preceded them argued from witnesses: someone saw a craft, someone handled a body, and the concealment was inferred backwards from the testimony. Dolan argued forwards from the institutions: the National Security Act of 1947, the creation of the CIA and NSA, the special access programme architecture, the contractor black-programme economy, the classification and compartmentation regime, and the documented behaviour of those bodies on adjacent secrets. On that basis the concealment stops needing an exotic explanation and becomes a predictable output of a system built to produce exactly that result. Dolan also gave the field its most durable formulation, the 'breakaway civilisation' - a technologically and financially self-sustaining compartment operating outside public accountability. The volumes are extensively footnoted to declassified documents, agency histories, contemporaneous press and congressional material, which is why they survived the transition to the post-2017 congressional era while most of the 1990s literature did not: the substrate is documents, and documents keep.",
-"domains": [
-"w2-retrieval-literature"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "2",
@@ -62,7 +61,11 @@
 "label": "UFOs and the National Security State, vols. I-II (Dolan, 2002 and 2009)",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "UFOs and the National Security State, vols. I-II (Dolan, 2002 and 2009)",
+"sourceFiles": [
+"w2-retrieval-literature"
+],
 "sources": [
 {
 "date": "2009-10-31",
@@ -75,13 +78,15 @@
 "tierRationale": "Re-graded C on a global pass (rank 1136 of 1170, score 10). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2002",
+"grade": "A",
 "id": "tl-2002-dolan",
 "label": "UFOs and the National Security State vol. I",
 "precision": "year",
 "strand": "program",
-"text": "Richard Dolan publishes 'Chronology of a Cover-Up, 1941-1973', moving the field's argument from witness testimony to the documented architecture of American secrecy.",
-"tier": "A"
+"text": "Richard Dolan publishes 'Chronology of a Cover-Up, 1941-1973', moving the field's argument from witness testimony to the documented architecture of American secrecy."
 }
-]
+],
+"unverified": []
 }

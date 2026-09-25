@@ -27,6 +27,7 @@
 ],
 "cls": "institution",
 "cluster": "research",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -66,10 +67,7 @@
 "deg": 1,
 "denials": [],
 "desc": "The Blue Marble Space Institute of Science is a Seattle-based non-profit public charity organised under section 501(c)(3), describing itself as an international community engaged in building a sustainable future and nurturing public scientific interest. Its research is interdisciplinary and centred on planetary habitability, the origin of life, space biology, climate, sustainable development, human spaceflight and solar system exploration, published in peer-reviewed journals and pushed outward through seminars, podcasts and its SAGANet network; every project it takes on is required to include an educational outreach component. It is not a UAP institute, and that is precisely why it matters here: it is the institutional home of the astrobiologist Jacob Haqq-Misra, whose work on technosignatures and on the methodology of anomaly search brought conventional astrobiology standards into direct contact with the UAP question, and who sits on the Sol Foundation advisory board and was named in June 2026 to the UAP Science Advisory Council. BMSIS therefore functions on this board as one of the bridges by which the phenomenon is being carried out of the classified world and into ordinary peer-reviewed science - a route that does not require any agency's permission and cannot be shut by reclassification.",
-"domains": [
-"_rs-stubs-known",
-"_stubs"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "nd",
@@ -83,7 +81,12 @@
 "label": "Blue Marble Space Institute of Science",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Blue Marble Space Institute of Science",
+"sourceFiles": [
+"_rs-stubs-known",
+"_stubs"
+],
 "sources": [
 {
 "date": "2026-08-12",
@@ -94,5 +97,6 @@
 "sub": "Research institute",
 "tier": "C",
 "tierRationale": "Re-graded C on a global pass (rank 1142 of 1170, score 9). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D0.",
-"timeline": []
+"timeline": [],
+"unverified": []
 }

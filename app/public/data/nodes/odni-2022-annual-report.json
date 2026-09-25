@@ -27,6 +27,7 @@
 ],
 "cls": "document",
 "cluster": "other",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -87,11 +88,7 @@
 "deg": 2,
 "denials": [],
 "desc": "12-page unclassified ODNI annual report covering 5 March 2021 to 30 August 2022, the first annual report after the 2021 Preliminary Assessment and the first to reflect AARO's establishment. Delivered to Congress January 2023.",
-"domains": [
-"_rs-aaro-reports",
-"_rs-archive-mirror",
-"w15-live-originals"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "nd",
@@ -105,7 +102,13 @@
 "label": "ODNI 2022 Annual Report on Unidentified Aerial Phenomena",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "ODNI 2022 Annual Report on Unidentified Aerial Phenomena",
+"sourceFiles": [
+"_rs-aaro-reports",
+"_rs-archive-mirror",
+"w15-live-originals"
+],
 "sources": [
 {
 "date": "2023-01-12",
@@ -140,6 +143,18 @@
 ],
 "sub": "report",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 1020 of 1170, score 14). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D0.",
-"timeline": []
+"tierRationale": "Re-graded C on a global pass (rank 1021 of 1170, score 14). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D0.",
+"timeline": [
+{
+"claimTier": null,
+"date": "2023-01-10",
+"grade": null,
+"id": "_rs-aaro-reports-3",
+"label": "ODNI 2022 Annual Report on UAP finalised (PDF creation date); catalogue reaches 510 reports as of 30 Aug 2022",
+"precision": "day",
+"strand": "program",
+"text": null
+}
+],
+"unverified": []
 }

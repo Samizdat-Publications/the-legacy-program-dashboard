@@ -22,6 +22,7 @@
 ],
 "cls": "event",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -51,9 +52,7 @@
 "deg": 1,
 "denials": [],
 "desc": "The Rendlesham Forest incident of December 1980 - the events at RAF Woodbridge and RAF Bentwaters in Suffolk, then hosting United States Air Force units, that produced the Halt memorandum and the Halt tape - is the single case that dominates British UAP discussion, and The National Archives' own framing of the August 2009 tranche put it front and centre: the files, covering 1981 to 1996, invited the public to 'find out more about close encounters, stray satellites, bright lights and Britain's very own Roswell - Rendlesham Forest in Suffolk'. That tranche comprised DEFE 24/1948/1, DEFE 24/1959/1 to 1965/1, DEFE 24/1970/1 to 1976/1 and DEFE 24/2086/1. Rendlesham is the point at which the British and American records are physically the same record: the deputy base commander who wrote the memorandum was a United States Air Force officer, the base was a US-operated facility on British soil, and the MoD's own handling of the case sits inside DEFE 24. The case therefore sits directly across the sentence in Project Condign Volume 3 asserting that there is 'no intelligence exchange or access or collaboration of any sort' between the UK and the USA on the topic.",
-"domains": [
-"w2-international"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "2",
@@ -67,7 +66,11 @@
 "label": "Release of the Rendlesham Forest files, August 2009 (DEFE 24/1948)",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Release of the Rendlesham Forest files, August 2009 (DEFE 24/1948)",
+"sourceFiles": [
+"w2-international"
+],
 "sources": [
 {
 "date": "2009-08-01",
@@ -82,6 +85,7 @@
 ],
 "sub": "MoD Rendlesham material released in the fourth National Archives tranche",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 730 of 1170, score 24). 1 connections, 1 of them custody/funding/programmatic. Axes C1/A1/D3.",
-"timeline": []
+"tierRationale": "Re-graded C on a global pass (rank 729 of 1170, score 24). 1 connections, 1 of them custody/funding/programmatic. Axes C1/A1/D3.",
+"timeline": [],
+"unverified": []
 }

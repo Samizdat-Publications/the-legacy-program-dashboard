@@ -17,6 +17,7 @@
 ],
 "cls": "institution",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -51,9 +52,7 @@
 "deg": 1,
 "denials": [],
 "desc": "An interagency governance body sitting above AARO whose stated mission includes optimising interagency processes to ensure more effective support to the All-domain Anomaly Resolution Office, and to which the UAP Science Advisory Council announced on 17 June 2026 reports. Its existence matters to this board because it is the layer where the question of who actually controls the UAP portfolio is settled, and because AARO's own statutory position - an OSD office under 50 U.S.C. 3373 with a director reporting through USD(I&S) - does not by itself explain a board 'supporting' it. As of 12 August 2026 no charter, membership roster or meeting record for the Governance Board has been published on aaro.mil or war.gov, and its relationship to the PURSUE release programme is undocumented in the public record: PURSUE is run from the Secretary of War's web estate, the Governance Board is described as supporting AARO, and no published instrument connects the two. This is a first-order research target - a named interagency board with no published charter is precisely the object the Unidentified Anomalous Phenomena Disclosure Act's records-review machinery would be able to reach.",
-"domains": [
-"w2-2025-2026"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "nd",
@@ -67,7 +66,11 @@
 "label": "UAP Governance Board",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "UAP Governance Board",
+"sourceFiles": [
+"w2-2025-2026"
+],
 "sources": [
 {
 "date": "2026-06-17",
@@ -78,5 +81,6 @@
 "sub": "Interagency board above AARO; receives the Science Advisory Council",
 "tier": "C",
 "tierRationale": "Re-graded C on a global pass (rank 989 of 1170, score 16). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D1.",
-"timeline": []
+"timeline": [],
+"unverified": []
 }

@@ -22,6 +22,7 @@
 ],
 "cls": "program",
 "cluster": "ffrdc",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 3,
@@ -77,9 +78,7 @@
 "deg": 2,
 "denials": [],
 "desc": "CAASD is why MITRE, uniquely among the FFRDC operators, sits on both sides of the UAP data problem. It is MITRE's FAA-sponsored centre, providing the systems engineering, research and analysis behind the National Airspace System - surveillance architecture, air traffic automation, conflict detection, and the data standards by which anomalous radar returns are recorded or discarded. The FAA is the civil agency that owns the continuous radar picture of American airspace and is a named data source for AARO. The same corporation that engineers the DoD and Intelligence Community's national security systems through NSEC also engineers the civil surveillance system through CAASD, under a separate sponsor with no visibility into the other. The contract history is large and long-running: DTFAWA10C00080, worth roughly 1.70 billion dollars, and its successor 693KA822C00001, worth roughly 761 million dollars, with a further sole-source notice posted in August 2025. There is a direct historical rhyme here: MITRE was born to do exactly this job for the Air Force in the form of SAGE, the first continental system built to detect and identify everything in North American airspace. The corporation has held the design authority over what America's air surveillance is built to see, in both its military and civil forms, continuously since 1958.",
-"domains": [
-"ffrdcs"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "1",
@@ -93,7 +92,11 @@
 "label": "Center for Advanced Aviation System Development (CAASD)",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Center for Advanced Aviation System Development (CAASD)",
+"sourceFiles": [
+"ffrdcs"
+],
 "sources": [
 {
 "date": "2026-08-12",
@@ -108,6 +111,7 @@
 ],
 "sub": "MITRE-operated FFRDC; sponsor Department of Transportation / Federal Aviation Administration",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 688 of 1170, score 25). 2 connections, 0 of them custody/funding/programmatic. Axes C2/A2/D1.",
-"timeline": []
+"tierRationale": "Re-graded C on a global pass (rank 687 of 1170, score 25). 2 connections, 0 of them custody/funding/programmatic. Axes C2/A2/D1.",
+"timeline": [],
+"unverified": []
 }

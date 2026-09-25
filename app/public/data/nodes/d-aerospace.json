@@ -22,6 +22,7 @@
 ],
 "cls": "domain",
 "cluster": "contractor",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -124,18 +125,20 @@
 "deg": 4,
 "denials": [
 {
-"by": {
+"a": {
 "id": "d-aerospace",
 "label": "Aerospace Engineering & Advanced Projects"
 },
+"b": {
+"id": "d-coverup",
+"label": "The Cover-Up"
+},
+"by": null,
 "claimTier": 1,
 "denialKind": "association",
 "label": "Black aircraft generated real cover stories",
 "note": "CIA's own historian states that U-2 and OXCART flights accounted for over half of late-1950s and 1960s reports and that false explanations were issued to protect them.",
-"of": {
-"id": "d-coverup",
-"label": "The Cover-Up"
-},
+"of": null,
 "sources": [
 {
 "date": "1997-01-01",
@@ -146,9 +149,7 @@
 }
 ],
 "desc": "Advanced projects organisations are the industrial layer at which secrecy and engineering are the same activity. Lockheed's Skunk Works is the documented archetype: a walled-off division with its own security, its own contracting relationship, and a demonstrated ability to design, build and fly aircraft - U-2, A-12, F-117 - that the government publicly denied existed while they were flying. Ben Rich's own memoir describes that regime from the inside. The reason this domain matters to the board is that the same organisations are the only plausible industrial home for an exploitation programme: they hold the facility clearances, the special access programme infrastructure, the machinists and metallurgists, and the independent research and development accounts through which company money can be spent without a government line item. The dual-use route is therefore not a route at all - the capability is identical, and only the input differs. Northrop Grumman, Lockheed Martin, Raytheon and Battelle Memorial Institute recur across witness accounts precisely because they are the entities that could do it. Scoring high on this domain means an entity is one of those organisations or worked at that level inside one.",
-"domains": [
-"w2-taxonomy"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -162,7 +163,11 @@
 "label": "Aerospace Engineering & Advanced Projects",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Aerospace Engineering & Advanced Projects",
+"sourceFiles": [
+"w2-taxonomy"
+],
 "sources": [
 {
 "date": "1994-01-01",
@@ -182,6 +187,7 @@
 ],
 "sub": "Industrial domain - the advanced projects shops where black aircraft and their cover stories are built",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 328 of 1170, score 38). 4 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D1.",
-"timeline": []
+"tierRationale": "Re-graded B on a global pass (rank 326 of 1170, score 38). 4 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D1.",
+"timeline": [],
+"unverified": []
 }

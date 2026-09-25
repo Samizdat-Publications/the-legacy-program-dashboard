@@ -17,6 +17,7 @@
 ],
 "cls": "institution",
 "cluster": "ic",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -98,10 +99,7 @@
 "deg": 3,
 "denials": [],
 "desc": "The Intelligence Community maintains its own special access and controlled access program control architecture, parallel to and separate from the Department of Defense SAP enterprise administered by DoD SAPCO, and administered under the Director of National Intelligence's authority over intelligence community classification and compartmentation. Its existence is confirmed in the government's own UAP record: AARO's Historical Record Report Volume I states that AARO 'established a partnership with the Special Access Program Control Offices for the DoD, IC, and DHS to review programs identified in interviews by name or description', naming three distinct control-office enterprises. This matters because the DoD and IC enterprises are not a single list. A program carried on the IC side is not reported under 10 U.S.C. 119 to the defense committees; it is reported, if at all, to the intelligence committees under separate authority, and a member of the House Armed Services Committee reading the DoD SAP list would not see it. The IC enterprise is also where the National Reconnaissance Program and other overhead compartments live. No IC SAP control office has ever published anything, testified anywhere, or been named by any official in connection with UAP beyond that single AARO sentence.",
-"domains": [
-"_rs-archive-mirror",
-"w2-agencies"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "2",
@@ -115,7 +113,12 @@
 "label": "Intelligence Community special access program control office enterprise",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Intelligence Community special access program control office enterprise",
+"sourceFiles": [
+"_rs-archive-mirror",
+"w2-agencies"
+],
 "sources": [
 {
 "date": "2026-07-05",
@@ -136,5 +139,6 @@
 "sub": "The IC-side counterpart to DoD SAPCO, named by AARO as one of three SAP control enterprises",
 "tier": "C",
 "tierRationale": "Re-graded C on a global pass (rank 655 of 1170, score 26). 3 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D1.",
-"timeline": []
+"timeline": [],
+"unverified": []
 }

@@ -217,8 +217,11 @@
 "deg": 4,
 "denials": [],
 "domains": [
-"history-1940s-1960s",
-"w2-retrieval-literature"
+"d-legacy",
+"d-recovery",
+"d-coverup",
+"d-witness",
+"d-roswell"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -239,6 +242,10 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Walter Haut",
+"sourceFiles": [
+"history-1940s-1960s",
+"w2-retrieval-literature"
+],
 "sources": [
 {
 "date": "1995-01-01",
@@ -259,34 +266,37 @@
 "status": "dead",
 "sub": "Public information officer, 509th Bomb Group, RAAF",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 331 of 1170, score 37). 4 connections, 0 of them custody/funding/programmatic. Axes C2/A1/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 330 of 1170, score 37). 4 connections, 0 of them custody/funding/programmatic. Axes C2/A1/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1947-07-08",
+"grade": "A",
 "id": "tl-1947-0708-haut",
 "label": "RAAF press release",
 "precision": "day",
 "strand": "witness",
-"text": "Walter Haut, public information officer of the 509th Bomb Group, writes and distributes the release announcing that Roswell Army Air Field has come into possession of a flying disc, naming Maj. Jesse Marcel Sr. as the recovering officer. Fort Worth retracts it the same day.",
-"tier": "A"
+"text": "Walter Haut, public information officer of the 509th Bomb Group, writes and distributes the release announcing that Roswell Army Air Field has come into possession of a flying disc, naming Maj. Jesse Marcel Sr. as the recovering officer. Fort Worth retracts it the same day."
 },
 {
+"claimTier": null,
 "date": "1993-05-14",
+"grade": "B",
 "id": "tl-1993-0514-haut",
 "label": "Haut's sworn affidavit",
 "precision": "day",
 "strand": "witness",
-"text": "Walter Haut signs an affidavit stating that Col. Blanchard saw the material, that there is no chance Blanchard would have mistaken it for a weather balloon and none that Marcel would have been mistaken.",
-"tier": "B"
+"text": "Walter Haut signs an affidavit stating that Col. Blanchard saw the material, that there is no chance Blanchard would have mistaken it for a weather balloon and none that Marcel would have been mistaken."
 },
 {
+"claimTier": null,
 "date": "2002-12",
+"grade": "C",
 "id": "tl-2002-12-haut2",
 "label": "The sealed Haut affidavit",
 "precision": "month",
 "strand": "witness",
-"text": "Donald Schmitt composes and emails a further affidavit which Haut signs at the International UFO Museum before his daughter and a notary, embargoed until after his death. It asserts first-hand sight of a craft and bodies, contradicting his 1979, 1989 and 1993 statements.",
-"tier": "C"
+"text": "Donald Schmitt composes and emails a further affidavit which Haut signs at the International UFO Museum before his daughter and a notary, embargoed until after his death. It asserts first-hand sight of a craft and bodies, contradicting his 1979, 1989 and 1993 statements."
 }
 ],
 "unexplainedResidual": null,

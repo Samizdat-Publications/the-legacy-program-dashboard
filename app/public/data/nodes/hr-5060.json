@@ -17,6 +17,7 @@
 ],
 "cls": "legislation",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 3,
@@ -93,9 +94,7 @@
 "deg": 3,
 "denials": [],
 "desc": "The UAP Whistleblower Protection Act, introduced by Rep. Tim Burchett in the 119th Congress as H.R. 5060, reintroducing H.R. 10111 from the 118th. Its existence is a legislative finding about AARO: Congress would not need to build a separate statutory protection channel for UAP witnesses if the secure reporting mechanism AARO launched at aaro.mil in October 2023 were functioning as a safe destination. The FY2025 annual report's own numbers illustrate the problem - 262 people contacted the mechanism and 255 were declared out of scope. The bill moved onto the agenda in the run-up to the 9 September 2025 House Oversight Task Force hearing, at which Dylan Borland testified to career obstruction and sustained harassment after reporting a UAP at Langley in 2012, and at which Congress heard that witnesses coming forward risk career damage and retaliation.",
-"domains": [
-"uaptf-aaro"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "3",
@@ -109,7 +108,11 @@
 "label": "H.R. 5060 - UAP Whistleblower Protection Act (119th Congress)",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "H.R. 5060 - UAP Whistleblower Protection Act (119th Congress)",
+"sourceFiles": [
+"uaptf-aaro"
+],
 "sources": [
 {
 "date": "2025-08-28",
@@ -129,6 +132,7 @@
 ],
 "sub": "Introduced by Rep. Tim Burchett; successor to H.R. 10111 (118th)",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 959 of 1170, score 17). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.",
-"timeline": []
+"tierRationale": "Re-graded C on a global pass (rank 958 of 1170, score 17). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.",
+"timeline": [],
+"unverified": []
 }

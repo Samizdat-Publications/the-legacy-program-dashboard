@@ -22,6 +22,7 @@
 ],
 "cls": "document",
 "cluster": "witness",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -77,9 +78,7 @@
 "deg": 2,
 "denials": [],
 "desc": "The second letter, dated 4 October 2017 and hand-delivered after Elizondo had left the building, is a memorandum for record saluted 'Mr. Secretary' and reported by the New York Times as addressed to Defense Secretary Jim Mattis. Its operative passages are direct: 'Despite overwhelming evidence at both the unclassified and classified levels, certain individuals in the Department remain staunchly opposed to further research on what could be tactical threats'; 'The Department must take seriously the many accounts by the Navy and other services of unusual aerial systems interfering with military weapon platforms and displaying beyond next generation capabilities'; and 'for this reason, effective 4 October 2017, I humbly submit my resignation in hopes it will encourage you to ask the hard questions.' The New York Times quoted him asking 'Why aren't we spending more time and effort on this issue?' Garry Reid's December 2017 memorandum for the Secretary questioned the letter's 'uncertain provenance' — a characterisation that is difficult to sustain now that the letter sits in the Department's own FOIA release.",
-"domains": [
-"elizondo-ttsa"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "3",
@@ -93,7 +92,11 @@
 "label": "Elizondo Resignation Memorandum for Record, 4 October 2017",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Elizondo Resignation Memorandum for Record, 4 October 2017",
+"sourceFiles": [
+"elizondo-ttsa"
+],
 "sources": [
 {
 "date": "2022-08-17",
@@ -111,13 +114,15 @@
 "tierRationale": "Re-graded C on a global pass (rank 661 of 1170, score 26). 2 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2017-10-04",
+"grade": "A",
 "id": "tl-2017-10-04-resign2",
 "label": "Resignation memorandum to the Secretary",
 "precision": "day",
 "strand": "witness",
-"text": "A memorandum saluted 'Mr. Secretary' protesting that 'certain individuals in the Department remain staunchly opposed to further research on what could be tactical threats,' and asking the Secretary to 'ask the hard questions'.",
-"tier": "A"
+"text": "A memorandum saluted 'Mr. Secretary' protesting that 'certain individuals in the Department remain staunchly opposed to further research on what could be tactical threats,' and asking the Secretary to 'ask the hard questions'."
 }
-]
+],
+"unverified": []
 }

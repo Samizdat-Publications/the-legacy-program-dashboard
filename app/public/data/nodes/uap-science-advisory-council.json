@@ -122,6 +122,7 @@
 ],
 "cls": "institution",
 "cluster": "ic",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -612,18 +613,20 @@
 "deg": 16,
 "denials": [
 {
-"by": {
+"a": {
 "id": "uap-science-advisory-council",
 "label": "UAP Science Advisory Council"
 },
+"b": {
+"id": "d-custody",
+"label": "Chain of custody"
+},
+"by": null,
 "claimTier": 2,
 "denialKind": "association",
 "label": "No budget, no classified access - constitutionally unable to reach the material",
 "note": "The Associated Press reported the council has no budget and no access to classified material, and the Sol Foundation confirmed all shared data is unclassified. An advisory body denied money and clearances cannot audit a special access programme.",
-"of": {
-"id": "d-custody",
-"label": "Chain of custody"
-},
+"of": null,
 "sources": [
 {
 "date": "2026-06-30",
@@ -638,18 +641,20 @@
 ]
 },
 {
-"by": {
+"a": {
 "id": "uap-science-advisory-council",
 "label": "UAP Science Advisory Council"
 },
+"b": {
+"id": "sol-foundation",
+"label": "The Sol Foundation"
+},
+"by": null,
 "claimTier": 1,
 "denialKind": "undirected",
 "label": "Advisory seat conditioned on unclassified-only access",
 "note": "The council's announced terms guarantee its members will never see classified material. Recorded as a denial-type edge: the access granted is precisely the access that cannot resolve the question the members were appointed for.",
-"of": {
-"id": "sol-foundation",
-"label": "The Sol Foundation"
-},
+"of": null,
 "sources": [
 {
 "date": "2026-06-22",
@@ -660,14 +665,7 @@
 }
 ],
 "desc": "Announced on 15 June 2026, the UAP Science Advisory Council is the first standing outside scientific advisory body the US government has assembled on this subject. It was, per the Skeptics Society announcement, 'formed at the request of the White House and in coordination with the All-domain Anomaly Resolution Office (AARO), the Office of the Director of National Intelligence (ODNI), the FBI, and other agencies'. Avi Loeb chairs it. Loeb's own Medium account of 29 June 2026 says 'over the past week, I was tasked by the above organizations to create a research team', naming the White House, AARO, ODNI, the FBI and all Intelligence Community members, and identifies a core team of Richard Cloete (data analysis and AI), Regina Sarmiento (data management with AI), Matthew Szydagis (instrumentation and data collection), Devesh Nandal (numerical analysis and astrophysics) and Omer Eldadi (data management, AI and human psychology). The Skeptics Society listed eleven members including Tim Gallaudet, Garry Nolan, Peter Skafish, Michael Shermer and Jennice Vilhauer; The Sol Foundation described a fourteen-member council reporting to a higher-level UAP Governance Board coordinating across military, law enforcement and intelligence agencies, with all shared data unclassified; the statistician Liberty Vittert was also appointed. The Associated Press reported on 30 June 2026 that the council has no budget and no access to classified material, and The Guardian reported that scientific observers regarded the membership as 'apparently similar minds'. Two things about it matter for this board. First, its personnel came almost entirely from the private technical layer this domain catalogues - Sol, Galileo, UAPx - rather than from federal laboratories or FFRDCs. Second, a body with no money and no clearances cannot examine recovered material, cannot audit a special access programme, and cannot compel anything: it is an advisory council constituted to advise on the unclassified record, which is the part of the record nobody disputes.",
-"domains": [
-"_rs-archive-mirror",
-"media-structure",
-"releases-2023-2026",
-"scientists-technical",
-"uaptf-aaro",
-"w12-duplicate-collapse"
-],
+"domains": [],
 "dossier": {
 "claims": [
 {
@@ -676,19 +674,19 @@
 "tier": 2
 },
 {
-"source": "https://avi-loeb.medium.com/a-uap-science-advisory-council-to-the-u-s-f7262e57b0df",
+"source": "https://avi-loeb.medium.com/a-uap-science-advisory-council-to-the-u-s-f7262e57b0df - DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "text": "Avi Loeb wrote that 'Over the past week, I was tasked by the above organizations to create a research team of young scientists who will serve on this council,' identifying the White House, AARO, ODNI, the FBI and all Intelligence Community members.",
-"tier": 1
+"tier": 2
 },
 {
-"source": "https://avi-loeb.medium.com/more-details-on-the-uap-science-advisory-council-825bd250d23c",
+"source": "https://avi-loeb.medium.com/more-details-on-the-uap-science-advisory-council-825bd250d23c - DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "text": "Loeb states in writing that 'All the data shared with the council will be unclassified.'",
-"tier": 1
+"tier": 2
 },
 {
-"source": "https://avi-loeb.medium.com/more-details-on-the-uap-science-advisory-council-825bd250d23c",
+"source": "https://avi-loeb.medium.com/more-details-on-the-uap-science-advisory-council-825bd250d23c - DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "text": "The council reports to a higher-level UAP Governance Board whose mission, per Loeb, is 'to serve as an interagency body that can use each member's capabilities and unique authorities to cohesively address national security threats posed by UAP' and which 'will assist in the timely coordination of declassification of UAP-related information, in accordance with Executive Order 13526.'",
-"tier": 1
+"tier": 2
 },
 {
 "source": "https://defensescoop.com/2026/06/17/new-science-advisory-council-forms-to-help-us-government-resolve-the-uap-mystery/",
@@ -696,9 +694,9 @@
 "tier": 2
 },
 {
-"source": "https://avi-loeb.medium.com/a-uap-science-advisory-council-to-the-u-s-f7262e57b0df",
+"source": "https://avi-loeb.medium.com/a-uap-science-advisory-council-to-the-u-s-f7262e57b0df - DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "text": "Loeb's first published account named a core team of five: Richard Cloete, Regina Sarmiento, Matthew Szydagis, Devesh Nandal and Omer Eldadi.",
-"tier": 1
+"tier": 2
 },
 {
 "source": "https://www.skeptic.com/article/michael-shermer-named-to-white-house-uap-science-advisory-council/",
@@ -711,14 +709,14 @@
 "tier": 2
 },
 {
-"source": "https://avi-loeb.medium.com/more-details-on-the-uap-science-advisory-council-825bd250d23c",
+"source": "https://avi-loeb.medium.com/more-details-on-the-uap-science-advisory-council-825bd250d23c - DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "text": "Loeb's second Medium post listed fifteen members, adding Liberty Vittert Capito (data analysis and statistics), Robin Hanson (statistics and economics) and Kevin Knuth (physics and instrumentation) to the DefenseScoop list.",
-"tier": 1
+"tier": 2
 },
 {
-"source": "https://avi-loeb.medium.com/more-details-on-the-uap-science-advisory-council-825bd250d23c",
+"source": "https://avi-loeb.medium.com/more-details-on-the-uap-science-advisory-council-825bd250d23c - DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "text": "Four differing membership lists for the council were published between 13 and 29 June 2026, none of them identical to another and none of them issued by any of the agencies that convened the body.",
-"tier": 1
+"tier": 2
 },
 {
 "source": "https://defensescoop.com/2026/06/17/new-science-advisory-council-forms-to-help-us-government-resolve-the-uap-mystery/",
@@ -865,7 +863,16 @@
 "tier": "C"
 }
 ],
+"openQuestions": [],
 "short": "UAP Science Advisory Council",
+"sourceFiles": [
+"_rs-archive-mirror",
+"media-structure",
+"releases-2023-2026",
+"scientists-technical",
+"uaptf-aaro",
+"w12-duplicate-collapse"
+],
 "sources": [
 {
 "date": "2026-07-14",
@@ -938,94 +945,105 @@
 "tierRationale": "Re-graded A on a global pass (rank 49 of 1170, score 82). 17 connections, 1 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C0/A1/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2025-08-01",
+"grade": "C",
 "id": "rel-2025-08-01",
 "label": "AARO data-standardisation workshop",
 "precision": "day",
 "strand": "program",
-"text": "AARO holds a private workshop on UAP data standardisation with civilian researchers and academia, later reflected in a published white paper on narrative data and analysis.",
-"tier": "C"
+"text": "AARO holds a private workshop on UAP data standardisation with civilian researchers and academia, later reflected in a published white paper on narrative data and analysis."
 },
 {
+"claimTier": null,
 "date": "2026-06-12",
+"grade": "B",
 "id": "st-2026-06-12",
 "label": "Government disclosure release",
 "precision": "day",
 "strand": "oversight",
-"text": "Loeb's own account of the council's formation references a government disclosure release date of 12 June 2026, immediately preceding his tasking.",
-"tier": "B"
+"text": "Loeb's own account of the council's formation references a government disclosure release date of 12 June 2026, immediately preceding his tasking."
 },
 {
+"claimTier": null,
 "date": "2026-06-15",
+"grade": "A",
 "id": "st-2026-06-15",
 "label": "UAP Science Advisory Council announced",
 "precision": "day",
 "strand": "oversight",
-"text": "A council formed at the request of the White House in coordination with AARO, ODNI, the FBI and other agencies is announced, chaired by Avi Loeb and drawn overwhelmingly from the private technical layer - with no budget and no classified access.",
-"tier": "A"
+"text": "A council formed at the request of the White House in coordination with AARO, ODNI, the FBI and other agencies is announced, chaired by Avi Loeb and drawn overwhelmingly from the private technical layer - with no budget and no classified access."
 },
 {
+"claimTier": null,
 "date": "2026-06-17",
+"grade": "C",
 "id": "rel-2026-06-17",
 "label": "UAP Science Advisory Council announced",
 "precision": "day",
 "strand": "program",
-"text": "A science advisory council is announced between the third and fourth tranches; no charter, roster or product has appeared on AARO's or the Department's pages as of August 2026.",
-"tier": "C"
+"text": "A science advisory council is announced between the third and fourth tranches; no charter, roster or product has appeared on AARO's or the Department's pages as of August 2026."
 },
 {
+"claimTier": 2,
 "date": "2026-06-17",
+"grade": null,
 "id": "tl-sac-unclassified",
 "label": "The council's ceiling is set on day one",
 "precision": "day",
 "strand": "program",
-"text": "All data shared with the UAP Science Advisory Council will be unclassified - a scientific advisory body without access to the classified holdings whose existence is the entire question.",
-"tier": "2"
+"text": "All data shared with the UAP Science Advisory Council will be unclassified - a scientific advisory body without access to the classified holdings whose existence is the entire question."
 },
 {
+"claimTier": 2,
 "date": "2026-06-17",
+"grade": null,
 "id": "tl-uap-sac",
 "label": "UAP Science Advisory Council announced under Avi Loeb",
 "precision": "day",
 "strand": "program",
-"text": "Avi Loeb announces a twelve-plus-member scientific advisory council reporting to the UAP Governance Board, five weeks into a release programme that assesses nothing it publishes.",
-"tier": "2"
+"text": "Avi Loeb announces a twelve-plus-member scientific advisory council reporting to the UAP Governance Board, five weeks into a release programme that assesses nothing it publishes."
 },
 {
+"claimTier": null,
 "date": "2026-06-22",
+"grade": "A",
 "id": "ms-2026-council",
 "label": "Sol leadership named to the ODNI UAP Science Advisory Council",
 "precision": "day",
 "strand": "oversight",
-"text": "ODNI, with FBI support, establishes a council led by Avi Loeb reporting to an interagency UAP Governance Board. Garry Nolan, Peter Skafish, Tim Gallaudet, Jacob Haqq-Misra and Ross Howard are named. All data shared with the council will be unclassified.",
-"tier": "A"
+"text": "ODNI, with FBI support, establishes a council led by Avi Loeb reporting to an interagency UAP Governance Board. Garry Nolan, Peter Skafish, Tim Gallaudet, Jacob Haqq-Misra and Ross Howard are named. All data shared with the council will be unclassified."
 },
 {
+"claimTier": null,
 "date": "2026-06-22",
+"grade": "A",
 "id": "ms-cv-2026-unclass",
 "label": "The council will see only unclassified data",
 "precision": "day",
 "strand": "coverup",
-"text": "ODNI's UAP Science Advisory Council is announced with the explicit condition that all data shared with it will be unclassified. The movement's most credentialed figures are given a formal seat, a reporting line to an interagency governance board, and a guarantee that they will never be shown classified material.",
-"tier": "A"
+"text": "ODNI's UAP Science Advisory Council is announced with the explicit condition that all data shared with it will be unclassified. The movement's most credentialed figures are given a formal seat, a reporting line to an interagency governance board, and a guarantee that they will never be shown classified material."
 },
 {
+"claimTier": null,
 "date": "2026-06-29",
+"grade": "A",
 "id": "st-2026-06-29",
 "label": "Loeb publishes the tasking",
 "precision": "day",
 "strand": "oversight",
-"text": "Loeb writes on Medium that he was 'tasked by' the White House, AARO, ODNI, the FBI and all Intelligence Community members to create a research team, naming Cloete, Sarmiento, Szydagis, Nandal and Eldadi.",
-"tier": "A"
+"text": "Loeb writes on Medium that he was 'tasked by' the White House, AARO, ODNI, the FBI and all Intelligence Community members to create a research team, naming Cloete, Sarmiento, Szydagis, Nandal and Eldadi."
 },
 {
+"claimTier": null,
 "date": "2026-06-30",
+"grade": "A",
 "id": "st-2026-06-30",
 "label": "No budget, no clearances",
 "precision": "day",
 "strand": "coverup",
-"text": "The Associated Press reports that the council will have no budget and no access to classified material - an advisory body constituted to advise on the part of the record nobody disputes.",
-"tier": "A"
+"text": "The Associated Press reports that the council will have no budget and no access to classified material - an advisory body constituted to advise on the part of the record nobody disputes."
 }
-]
+],
+"unverified": []
 }

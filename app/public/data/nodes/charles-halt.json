@@ -164,6 +164,14 @@
 "deg": 4,
 "denials": [
 {
+"a": {
+"id": "charles-halt",
+"label": "Charles I. Halt"
+},
+"b": {
+"id": "larry-warren",
+"label": "Larry Warren"
+},
 "by": {
 "id": "charles-halt",
 "label": "Charles I. Halt"
@@ -186,8 +194,9 @@
 }
 ],
 "domains": [
-"disclosure-project-2026-09-19",
-"history-1970s-2000s"
+"d-witness",
+"d-coverup",
+"d-oversight"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -208,6 +217,10 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Charles I. Halt",
+"sourceFiles": [
+"disclosure-project-2026-09-19",
+"history-1970s-2000s"
+],
 "sources": [
 {
 "date": "2017-06-13",
@@ -233,7 +246,7 @@
 "status": "active",
 "sub": "Lt Col USAF (later Col); Deputy Base Commander, RAF Bentwaters/Woodbridge 1980-81",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 422 of 1170, score 33). 4 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 425 of 1170, score 33). 4 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D3.",
 "timeline": [],
 "unexplainedResidual": "The radiation readings and ground depressions in Halt's memo have never been the subject of any published official analysis - the physical-trace annex referenced by the memo has never surfaced.",
 "unverified": [

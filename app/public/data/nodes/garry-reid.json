@@ -121,8 +121,7 @@
 "deg": 3,
 "denials": [],
 "domains": [
-"_rs-archive-mirror",
-"elizondo-ttsa"
+"d-coverup"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -143,6 +142,10 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Garry P. Reid",
+"sourceFiles": [
+"_rs-archive-mirror",
+"elizondo-ttsa"
+],
 "sources": [
 {
 "date": "2026-02-01",
@@ -173,16 +176,17 @@
 "status": "former",
 "sub": "Director for Defense Intelligence (Intelligence & Security), OUSD(I)",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 616 of 1170, score 27). 3 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D0.",
+"tierRationale": "Re-graded C on a global pass (rank 611 of 1170, score 27). 3 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D0.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2022-04-01",
+"grade": "A",
 "id": "tl-2022-04-reid-ousted",
 "label": "Garry Reid removed",
 "precision": "month",
 "strand": "coverup",
-"text": "Reid is removed as Director for Defense Intelligence after DoD IG investigations substantiate ethics violations, 65 instances of official business on personal email, and unwelcome physical contact with subordinates.",
-"tier": "A"
+"text": "Reid is removed as Director for Defense Intelligence after DoD IG investigations substantiate ethics violations, 65 instances of official business on personal email, and unwelcome physical contact with subordinates."
 }
 ],
 "unexplainedResidual": "Reid's memo says AATIP ended in 2012 and Elizondo had no role in it, yet it also records that Elizondo sought assistance in August 2017 to get the AATIP-associated videos cleared. The memo does not explain why an officer with no program responsibilities was the one processing the program's imagery five years after the program allegedly ended.",

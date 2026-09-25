@@ -247,9 +247,10 @@
 "deg": 4,
 "denials": [],
 "domains": [
-"_rs-archive-mirror",
-"releases-2023-2026",
-"uaptf-aaro"
+"d-disclosure",
+"d-records",
+"d-oversight",
+"d-coverup"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -270,6 +271,11 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Pete Hegseth",
+"sourceFiles": [
+"_rs-archive-mirror",
+"releases-2023-2026",
+"uaptf-aaro"
+],
 "sources": [
 {
 "date": "2026-08-10",
@@ -320,7 +326,7 @@
 "status": "active",
 "sub": "Secretary of War; releasing authority for PURSUE",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 181 of 1170, score 47). 5 connections, 2 of them custody/funding/programmatic. Axes C1/A3/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 178 of 1170, score 47). 5 connections, 2 of them custody/funding/programmatic. Axes C1/A3/D3.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": [

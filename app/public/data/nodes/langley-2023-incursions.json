@@ -32,6 +32,7 @@
 ],
 "cls": "event",
 "cluster": "witness",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -191,9 +192,7 @@
 "deg": 6,
 "denials": [],
 "desc": "Beginning the evening of 6 December 2023, unidentified unmanned aircraft operated over Joint Base Langley-Eustis, home of front-line F-22 Raptors, and continued through the month. The Air Force confirmed 'The installation first observed UAS activities the evening of December 6 [2023] and experienced multiple incursions throughout the month of December,' that the drones 'ranged in size/configuration' and that 'the number of UASs fluctuated.' The response is the measure of how seriously it was taken: F-16 combat air patrols with aerial refueling in mid-December, NASA's WB-57F high-altitude research aircraft flying surveillance orbits, FBI coordination through NORTHCOM, and FAA notification. Gen. Mark Kelly told the Wall Street Journal at least one drone was roughly 20 feet long, flying at more than 100 mph at 3,000 to 4,000 feet. The Air Force declined to describe operational impact 'to protect operational security'; F-22s were relocated and protective netting for the aircraft was later considered. Gen. Gregory Guillot, taking NORAD/NORTHCOM command in February 2024, made counter-UAS the centrepiece of his 90-day assessment with Langley as the driving case, and stated flatly that he knew of 'any organized or unorganized foreign nexus.' Seventeen nights of unidentified aircraft over a stealth fighter base, and no attribution has ever been made public.",
-"domains": [
-"aviators-incidents"
-],
+"domains": [],
 "dossier": {
 "claims": [
 {
@@ -410,7 +409,11 @@
 "tier": "B"
 }
 ],
+"openQuestions": [],
 "short": "Langley AFB Drone Incursions",
+"sourceFiles": [
+"aviators-incidents"
+],
 "sources": [
 {
 "date": "2024-03-15",
@@ -430,25 +433,28 @@
 ],
 "sub": "17+ nights of unattributed UAS over a front-line F-22 base",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 535 of 1170, score 30). 6 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 529 of 1170, score 30). 6 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2023-12-06",
+"grade": "A",
 "id": "av-2023-12-06",
 "label": "Langley incursions begin",
 "precision": "day",
 "strand": "witness",
-"text": "The Air Force confirms Joint Base Langley-Eustis 'first observed UAS activities the evening of December 6' and experienced multiple incursions through the month. F-16 CAPs, NASA WB-57F orbits and FBI coordination follow.",
-"tier": "A"
+"text": "The Air Force confirms Joint Base Langley-Eustis 'first observed UAS activities the evening of December 6' and experienced multiple incursions through the month. F-16 CAPs, NASA WB-57F orbits and FBI coordination follow."
 },
 {
+"claimTier": null,
 "date": "2024-03-15",
+"grade": "A",
 "id": "av-2024-03-15",
 "label": "Langley story surfaces",
 "precision": "day",
 "strand": "oversight",
-"text": "The War Zone publishes the Air Force's confirmation of the December 2023 incursions, three months after they ended.",
-"tier": "A"
+"text": "The War Zone publishes the Air Force's confirmation of the December 2023 incursions, three months after they ended."
 }
-]
+],
+"unverified": []
 }

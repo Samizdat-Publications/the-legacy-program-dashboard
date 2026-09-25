@@ -117,6 +117,7 @@
 ],
 "cls": "event",
 "cluster": "witness",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -407,6 +408,14 @@
 "deg": 12,
 "denials": [
 {
+"a": {
+"id": "eric-carlson",
+"label": "Capt. Eric D. Carlson"
+},
+"b": {
+"id": "malmstrom-echo-flight-1967",
+"label": "Malmstrom AFB missile shutdowns, March 1967"
+},
 "by": {
 "id": "eric-carlson",
 "label": "Capt. Eric D. Carlson"
@@ -433,6 +442,14 @@
 ]
 },
 {
+"a": {
+"id": "tim-hebert",
+"label": "Tim Hebert"
+},
+"b": {
+"id": "malmstrom-echo-flight-1967",
+"label": "Malmstrom AFB missile shutdowns, March 1967"
+},
 "by": {
 "id": "tim-hebert",
 "label": "Tim Hebert"
@@ -459,6 +476,14 @@
 ]
 },
 {
+"a": {
+"id": "usaf",
+"label": "United States Air Force"
+},
+"b": {
+"id": "malmstrom-echo-flight-1967",
+"label": "Malmstrom AFB missile shutdowns, March 1967"
+},
 "by": {
 "id": "usaf",
 "label": "United States Air Force"
@@ -481,10 +506,7 @@
 }
 ],
 "desc": "On 16 March 1967 at 0845 all ten Minuteman I missiles of Echo Flight, 341st Strategic Missile Wing, Malmstrom Air Force Base, Montana, went off strategic alert nearly simultaneously. That the shutdown happened is a matter of Air Force paper and is not in dispute: the wing's own history records it, and Robert Hastings publishes in facsimile an Air Force teletype dated 17 March 1967 concerning loss of strategic alert. What is contested is why, and the decisive document is now open. Excerpts of five quarterly 341st SMW histories were released to John Greenewald Jr on 14 June 2001, and in all 88 pages the words 'Unidentified Flying Object' occur exactly once, in a negative: rumours around Echo Flight during the time of fault 'were disproven', on evidence from a Mobile Strike Team that had been at November Flight rather than Echo Flight. The same release is equally hard on the debunk. The engineering investigation of 23 March 1967 reported that the teams at Malmstrom 'were unable to determine a logical cause for the incident'; the electromagnetic pulse conclusion arrived three months later and arrived by elimination, after Boeing's Sensitive Information Network theory was tested at Malmstrom and 'proved this analysis wrong' and the transformer-failure simulation showed no significant noise propagation. Boeing bench tests did reproduce the fault signature in 60 per cent of twenty applications of a 30 microsecond pulse, and the Air Force then bought the fix, in Boeing ECPs 1221, 1141-1 and 1141-2. THE OSCAR FLIGHT CLAIM IS A SEPARATE EVENT AND IS CARRIED SEPARATELY. Robert Salas places his own experience at Oscar Flight, and Robert Hastings now dates it to 24 March 1967 on Capt. Robert Jamison's information; the string 'Oscar' occurs zero times in the release. Against the UFO reading stand the engineering account above and a sustained public challenge from James Carlson, son of the Echo Flight crew commander. This board grades the occurrence at tier 1 and every causal attribution at tier 2.",
-"domains": [
-"nuclear-witnesses-2026-09-19",
-"w2-retrieval-literature"
-],
+"domains": [],
 "dossier": {
 "claims": [
 {
@@ -591,7 +613,12 @@
 "tier": "C"
 }
 ],
+"openQuestions": [],
 "short": "Malmstrom Echo Flight, Mar 1967",
+"sourceFiles": [
+"nuclear-witnesses-2026-09-19",
+"w2-retrieval-literature"
+],
 "sources": [
 {
 "date": "2001-06-14",
@@ -649,31 +676,35 @@
 "tierRationale": "Re-graded A on a global pass (rank 46 of 1170, score 84). 12 connections, 1 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C0/A2/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1967-03-16",
+"grade": "A",
 "id": "tl-1967-03-16-echo-flight-shutdown",
 "label": "All ten Echo Flight missiles lose strategic alert at 0845",
 "precision": "day",
 "strand": "program",
-"text": "The 341st Strategic Missile Wing history: 'On 16 March 1967 at 0845, all sites in Echo (E) Flight, Malmstrom AFB, shutdown with No-Go indication of Channels 9 and 12 on Voice Reporting Signal Assemble (VRSA). All LF's in E Flight lost strategic alert nearly simultaneously. No other Wing I configuration lost strategic alert at that time.' By about 1400 the same day SAC Headquarters had called in Ogden Air Materiel Area support for a complete engineering analysis.",
-"tier": "A"
+"text": "The 341st Strategic Missile Wing history: 'On 16 March 1967 at 0845, all sites in Echo (E) Flight, Malmstrom AFB, shutdown with No-Go indication of Channels 9 and 12 on Voice Reporting Signal Assemble (VRSA). All LF's in E Flight lost strategic alert nearly simultaneously. No other Wing I configuration lost strategic alert at that time.' By about 1400 the same day SAC Headquarters had called in Ogden Air Materiel Area support for a complete engineering analysis."
 },
 {
+"claimTier": null,
 "date": "1967-03-16",
+"grade": "A",
 "id": "tl-1967-0316-echo",
 "label": "Malmstrom Echo Flight shutdown",
 "precision": "day",
 "strand": "witness",
-"text": "All ten Minuteman missiles of Echo Flight, 341st Strategic Missile Wing, go off alert status. An Air Force teletype the following day concerns loss of strategic alert. Robert Salas would later attribute the cause to an object over the front gate.",
-"tier": "A"
+"text": "All ten Minuteman missiles of Echo Flight, 341st Strategic Missile Wing, go off alert status. An Air Force teletype the following day concerns loss of strategic alert. Robert Salas would later attribute the cause to an object over the front gate."
 },
 {
+"claimTier": null,
 "date": "1967-06-02",
+"grade": "B",
 "id": "tl-1967-06-02-emp-conclusion",
 "label": "OOAMA concludes the cause appears to be EMP or electrostatic, by elimination",
 "precision": "day",
 "strand": "program",
-"text": "In an interim report of 2 June 1967 to Ballistic Systems Division at Norton AFB, Ogden Air Materiel Area reported that Boeing bench tests in its Network Resolution Area had reproduced the Echo Flight fault signature in 60 per cent of twenty applications of a 30 microsecond pulse to the C-53P Logic Coupler, and concluded: 'Due to the fact that the power tests were essentially negative, it appears that the cause of the Echo Flight problem was of the EMP or electrostatic nature.' The conclusion follows from a run of negative tests rather than from reproducing the event in the field.",
-"tier": "B"
+"text": "In an interim report of 2 June 1967 to Ballistic Systems Division at Norton AFB, Ogden Air Materiel Area reported that Boeing bench tests in its Network Resolution Area had reproduced the Echo Flight fault signature in 60 per cent of twenty applications of a 30 microsecond pulse to the C-53P Logic Coupler, and concluded: 'Due to the fact that the power tests were essentially negative, it appears that the cause of the Echo Flight problem was of the EMP or electrostatic nature.' The conclusion follows from a run of negative tests rather than from reproducing the event in the field."
 }
-]
+],
+"unverified": []
 }

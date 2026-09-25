@@ -27,6 +27,7 @@
 ],
 "cls": "program",
 "cluster": "ic",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -113,9 +114,7 @@
 "deg": 3,
 "denials": [],
 "desc": "The DIRD series is the paper trail the programme left behind. Between roughly 2008 and 2010 the Defense Intelligence Agency's Defense Warning Office, through its Advanced Aerospace Weapon System Applications (AAWSA/AAWSAP) programme and its programme manager James T. Lacatski, D.Eng., commissioned 38 technical reference products from outside performers. On 16 January 2019 the DIA released the list of titles to Steven Aftergood of the Federation of American Scientists in response to a FOIA request; the same list had been provided to Congress in January 2018. The titles are exactly what a reverse-engineering effort would commission if it had hardware it could not explain: 'Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering' (Puthoff), 'Traversable Wormholes, Stargates, and Negative Energy' (Davis), 'Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions' (Obousy and Davis), 'Metamaterials for Aerospace Applications' (G. Shvets), 'Materials for Advanced Aerospace Platforms' (J. Williams), 'Metallic Glasses: Status and Prospects for Aerospace Applications' (T. Hufnagel), 'Metallic Spintronics' (M. Tsoi), 'Biomaterials' (Bruce Towe), 'Invisibility Cloaking: Theory and Experiments' (Ulf Leonhardt), 'Negative Mass Propulsion' (F. Winterberg), 'Detection and High Resolution Tracking of Vehicles at Hypersonic Velocities' (W. Culbreth), 'Aerospace Applications of Programmable Matter', 'Concepts for Extracting Energy from the Quantum Vacuum', 'The Role of Superconductors in Gravity Research', 'Quantum Tomography of Negative Energy States in the Vacuum', and the Green medical study. Read as a set, the series is a systematic literature survey of every physical mechanism you would need to understand if you were holding a vehicle whose performance violated your propulsion assumptions - plus a clinical study of the injuries it inflicts on bystanders. The DIA's own FOIA reading room now hosts the released documents alongside the AAWSAP statement of work, contract status briefs and the Reid correspondence on special access programme status.",
-"domains": [
-"scientists-technical"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": {
 "desc": "Titles confirmed in the released record, with performers where documented: 'Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering' (Harold E. Puthoff); 'Traversable Wormholes, Stargates, and Negative Energy' (Eric W. Davis, EarthTech International, DIA-08-1004-004); 'Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions' (Richard K. Obousy and Eric W. Davis); 'Clinical Medical Acute & Subacute Field Effects on Human Dermal & Neurological Tissues' (Christopher 'Kit' Green, Institute for Advanced Studies at Austin); 'Invisibility Cloaking: Theory and Experiments' (Ulf Leonhardt); 'Biomaterials' (Bruce Towe); 'Metamaterials for Aerospace Applications' (G. Shvets); 'Metallic Glasses: Status and Prospects for Aerospace Applications' (T. Hufnagel); 'Metallic Spintronics' (M. Tsoi); 'Materials for Advanced Aerospace Platforms' (J. Williams); 'Detection and High Resolution Tracking of Vehicles at Hypersonic Velocities' (W. Culbreth); 'Negative Mass Propulsion' (F. Winterberg); 'State of the Art and Evolution of High Energy Laser Weapons' (J. Albertine). Further titles listed in the DIA FOIA reading room index without published performer attribution include 'Advanced Nuclear Propulsion for Manned Deep Space Missions', 'Aerospace Applications of Programmable Matter', 'An Introduction to the Statistical Drake Equation', 'Aneutronic Fusion Propulsion' (two volumes), 'Antigravity for Aerospace Applications', 'Biosensors and a Survey of the Present Field', 'Cockpits in the Era of Breakthrough Flight', 'Cognitive Limits on Simultaneous Control of Multiple Unmanned Spacecraft', 'Concepts for Extracting Energy from the Quantum Vacuum', 'High-Frequency Gravitational Wave Communications', 'Inertial Electrostatic Confinement Fusion', 'Laser Lightcraft Nanosatellites', 'Maverick Inventor Versus Corporate Inventor', 'MHD Air Breathing Propulsion and Power for Aerospace Applications', 'Positron Aerospace Propulsion', 'Pulsed High-Power Microwave Source Technology', 'Quantum Computing and Utilizing Organic Molecules in Automation Technology', 'Quantum Tomography of Negative Energy States in the Vacuum', 'Space Access: Where We've Been and Where We Could Go', 'Technological Approaches to Controlling...', 'The Role of Superconductors in Gravity Research', 'The Space Communication Implications of Quantum Entanglement' and 'Ultracapacitors as Energy and Power Storage Devices'.",
@@ -158,7 +157,11 @@
 "label": "AAWSAP Defense Intelligence Reference Document series",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "AAWSAP Defense Intelligence Reference Document series",
+"sourceFiles": [
+"scientists-technical"
+],
 "sources": [
 {
 "date": "2019-01-17",
@@ -193,25 +196,28 @@
 ],
 "sub": "38 technical reference products produced FY2008-FY2010 for the DIA Defense Warning Office",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 341 of 1170, score 37). 3 connections, 1 of them custody/funding/programmatic. Axes C2/A3/D2.",
+"tierRationale": "Re-graded B on a global pass (rank 340 of 1170, score 37). 3 connections, 1 of them custody/funding/programmatic. Axes C2/A3/D2.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2008-09-01",
+"grade": "A",
 "id": "st-2008-aawsap",
 "label": "AAWSAP awarded",
 "precision": "month",
 "strand": "program",
-"text": "The DIA awards the Advanced Aerospace Weapon System Applications contract to Bigelow Aerospace Advanced Space Studies; Colm Kelleher serves as deputy administrator.",
-"tier": "A"
+"text": "The DIA awards the Advanced Aerospace Weapon System Applications contract to Bigelow Aerospace Advanced Space Studies; Colm Kelleher serves as deputy administrator."
 },
 {
+"claimTier": null,
 "date": "2009-01-01",
+"grade": "A",
 "id": "st-2009-dirds",
 "label": "DIRD series produced",
 "precision": "year",
 "strand": "program",
-"text": "The FY2009 Defense Intelligence Reference Documents are produced under the DIA Defense Warning Office with James T. Lacatski as programme manager - propulsion physics, exotic materials and human injury pathology commissioned as one set.",
-"tier": "A"
+"text": "The FY2009 Defense Intelligence Reference Documents are produced under the DIA Defense Warning Office with James T. Lacatski as programme manager - propulsion physics, exotic materials and human injury pathology commissioned as one set."
 }
-]
+],
+"unverified": []
 }

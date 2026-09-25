@@ -82,6 +82,7 @@
 ],
 "cls": "legislation",
 "cluster": "contractor",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -111,6 +112,27 @@
 "dateStart": null,
 "direction": "out",
 "edgeLabel": "32 CFR 117.6(b) writes the carve-out into regulation",
+"id": "carve-out",
+"l0": true,
+"label": "Carve-Out Provision (DCSA relief from NISP oversight)",
+"note": "",
+"sources": [
+{
+"date": null,
+"name": "https://www.ecfr.gov/current/title-32/subtitle-A/chapter-I/subchapter-D/part-117/section-117.6",
+"url": "https://www.ecfr.gov/current/title-32/subtitle-A/chapter-I/subchapter-D/part-117/section-117.6"
+}
+],
+"tier": "A",
+"type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "codifies the carve-out",
 "id": "carve-out",
 "l0": true,
 "label": "Carve-Out Provision (DCSA relief from NISP oversight)",
@@ -148,7 +170,7 @@
 "url": "https://www.ecfr.gov/current/title-32/subtitle-A/chapter-I/subchapter-D/part-117/section-117.6"
 }
 ],
-"tier": "B",
+"tier": "A",
 "type": "institutional"
 },
 {
@@ -160,7 +182,7 @@
 "edgeLabel": "Section 201 of E.O. 12829 is the authority for the NISPOM rule",
 "id": "eo-12829",
 "l0": false,
-"label": "Executive Order 12829 — National Industrial Security Program (6 Jan 1993)",
+"label": "Executive Order 12829 - National Industrial Security Program (6 Jan 1993)",
 "note": "32 CFR 117.6(a)(1) records that USD(I&S) issues and maintains the rule under section 201 of E.O. 12829.",
 "sources": [
 {
@@ -169,7 +191,7 @@
 "url": "https://www.ecfr.gov/current/title-32/subtitle-A/chapter-I/subchapter-D/part-117/section-117.6"
 }
 ],
-"tier": "C",
+"tier": "B",
 "type": "institutional"
 },
 {
@@ -181,7 +203,28 @@
 "edgeLabel": "32 CFR 117 implements E.O. 12829",
 "id": "eo-12829",
 "l0": false,
-"label": "Executive Order 12829 — National Industrial Security Program (6 Jan 1993)",
+"label": "Executive Order 12829 - National Industrial Security Program (6 Jan 1993)",
+"note": "",
+"sources": [
+{
+"date": null,
+"name": "https://www.ecfr.gov/current/title-32/subtitle-A/chapter-I/subchapter-D/part-117",
+"url": "https://www.ecfr.gov/current/title-32/subtitle-A/chapter-I/subchapter-D/part-117"
+}
+],
+"tier": "B",
+"type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "legislation",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "the rule implements the order",
+"id": "eo-12829",
+"l0": false,
+"label": "Executive Order 12829 - National Industrial Security Program (6 Jan 1993)",
 "note": "32 CFR part 117 names E.O. 12829 in its authority citation - 'Authority: 32 CFR part 2004; E.O. 10865; E.O. 12333; E.O. 12829; E.O. 12866; E.O. 12968; E.O. 13526; E.O. 13563; E.O. 13587; E.O. 13691; Public Law 108-458...' - and section 117.1 Purpose states that the rule 'implements policy, assigns responsibilities, establishes requirements, and provides procedures, consistent with E.O. 12829, \"National Industrial Security Program\"'. Read from the eCFR renderer API on 22 August 2026.",
 "sources": [
 {
@@ -190,7 +233,7 @@
 "url": "https://www.ecfr.gov/api/renderer/v1/content/enhanced/current/title-32?part=117"
 }
 ],
-"tier": "C",
+"tier": "B",
 "type": "programmatic"
 },
 {
@@ -202,7 +245,7 @@
 "edgeLabel": "Supplies the regulatory definition of a special access program binding on contractors",
 "id": "sap-taxonomy",
 "l0": false,
-"label": "Acknowledged, unacknowledged and waived — the three states of a DoD SAP",
+"label": "Acknowledged, unacknowledged and waived - the three states of a DoD SAP",
 "note": "32 CFR 117.3(b) defines SAP as a program controlling access and distribution 'beyond that normally required for TOP SECRET, SECRET, or CONFIDENTIAL information'.",
 "sources": [
 {
@@ -221,11 +264,7 @@
 "deg": 4,
 "denials": [],
 "desc": "The NISPOM ceased to be a DoD manual and became a federal regulation with the codification of 32 CFR Part 117, which now carries the rules binding every cleared contractor in the United States. For this board its value is threefold. First, it supplies the operative regulatory definition of a SAP: 'SAP means any program that is established to control access and distribution and to provide protection for particularly sensitive classified information beyond that normally required for TOP SECRET, SECRET, or CONFIDENTIAL information. A SAP can be created or continued only as authorized by a senior agency official delegated such authority pursuant to E.O. 13526.' Second, it contains the carve-out at 117.6(b)(3). Third, section 117.23 is the supplement for ACCM, SAPs, SCI, Restricted Data, Formerly Restricted Data, Transclassified Foreign Nuclear Information and Naval Nuclear Propulsion Information, and its paragraph (d)(1) provides that for DoD SAP contracts 'Contractors will implement the security requirements for SAPs codified in SAP-related policy, when established by contract' - a formulation that pushes the actual security rules out of the regulation and into contract documents that are not public. Part 117 also treats SAP information as 'proscribed information' alongside TOP SECRET, COMSEC, Restricted Data and SCI, which triggers the National Interest Determination process for entities under foreign ownership, control or influence. The whole rule is issued under the authority of section 201 of Executive Order 12829.",
-"domains": [
-"_rs-sap-docs",
-"w12-nispom-carveout",
-"w2-sap-architecture"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "3",
@@ -236,10 +275,16 @@
 "hl": null,
 "id": "cfr-32-117",
 "l0": false,
-"label": "32 CFR Part 117 — NISPOM Rule",
+"label": "32 CFR Part 117 - NISPOM Rule",
 "locLabel": null,
 "members": null,
-"short": "32 CFR Part 117 — NISPOM Rule",
+"openQuestions": [],
+"short": "32 CFR Part 117 - NISPOM Rule",
+"sourceFiles": [
+"_rs-sap-docs",
+"w12-nispom-carveout",
+"w2-sap-architecture"
+],
 "sources": [
 {
 "date": "2026-08-12",
@@ -274,16 +319,18 @@
 ],
 "sub": "regulation",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 68 of 1170, score 73). 6 connections, 2 of them custody/funding/programmatic. Axes C2/A2/D2.",
+"tierRationale": "Re-graded A on a global pass (rank 61 of 1170, score 75). 8 connections, 2 of them custody/funding/programmatic. Axes C2/A2/D2.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2021-02-24",
+"grade": "A",
 "id": "sap-tl-2021-nispomx",
 "label": "The NISPOM becomes federal regulation at 32 CFR Part 117",
 "precision": "day",
 "strand": "program",
-"text": "The carve-out provision moves from a DoD manual into the Code of Federal Regulations at 117.6(b)(3): the Director, DCSA 'will be relieved of this oversight function for DoD special access programs (SAPs) when the Secretary of Defense or the Deputy Secretary of Defense approves a carve-out provision'.",
-"tier": "A"
+"text": "The carve-out provision moves from a DoD manual into the Code of Federal Regulations at 117.6(b)(3): the Director, DCSA 'will be relieved of this oversight function for DoD special access programs (SAPs) when the Secretary of Defense or the Deputy Secretary of Defense approves a carve-out provision'."
 }
-]
+],
+"unverified": []
 }

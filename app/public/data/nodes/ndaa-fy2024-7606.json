@@ -37,6 +37,7 @@
 ],
 "cls": "legislation",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -47,7 +48,7 @@
 "edgeLabel": "Requires a personnel census from each of the six SAP-creating officials",
 "id": "eo-13526",
 "l0": true,
-"label": "Executive Order 13526 — Classified National Security Information",
+"label": "Executive Order 13526 - Classified National Security Information",
 "note": "FY2024 IAA sec. 7606(c) addresses 'each head of an agency who is authorized to establish a special access program by Executive Order 13526', due within one year.",
 "sources": [
 {
@@ -87,10 +88,7 @@
 "deg": 2,
 "denials": [],
 "desc": "Section 7606 of the FY2024 Intelligence Authorization Act, headed 'Studies and Recommendations on Necessity of Security Clearances', contains at subsection (c) a provision that has attracted almost no attention and is directly useful to this board. It requires that 'Not later than 1 year after the date of the enactment of this Act, each head of an agency who is authorized to establish a special access program by Executive Order 13526 ... or successor order' shall review the number of agency personnel eligible for access to such special access programs and submit to Congress - including the intelligence committees, Senate Armed Services, Senate Homeland Security and Governmental Affairs, Senate Foreign Relations, Senate Judiciary, House Armed Services, House Oversight and Accountability, House Foreign Affairs and House Judiciary - a report on how the agency head will ensure that the number of such personnel is limited to the minimum required. The addressees are the six SAP-creating officials named in E.O. 13526 section 4.3. Subsection (a)(3) extends the parallel clearance study to industry: it 'shall apply to the Secretary of Defense in the Secretary's capacity as the Executive Agent for the National Industrial Security Program, and the Secretary shall treat contractors, licensees, and grantees as personnel of the Department of Defense'. The reports were due by 22 December 2024. Whether they were submitted, and what population figures they contain, is a live and answerable oversight question.",
-"domains": [
-"_rs-sap-docs",
-"w2-sap-architecture"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "3",
@@ -101,10 +99,15 @@
 "hl": null,
 "id": "ndaa-fy2024-7606",
 "l0": false,
-"label": "FY2024 IAA sec. 7606(c) — Agency Review of Special Access Programs",
+"label": "FY2024 IAA sec. 7606(c) - Agency Review of Special Access Programs",
 "locLabel": null,
 "members": null,
-"short": "FY2024 IAA sec. 7606(c) — Agency Review of Special Access Programs",
+"openQuestions": [],
+"short": "FY2024 IAA sec. 7606(c) - Agency Review of Special Access Programs",
+"sourceFiles": [
+"_rs-sap-docs",
+"w2-sap-architecture"
+],
 "sources": [
 {
 "date": "2023-12-22",
@@ -117,13 +120,15 @@
 "tierRationale": "Re-graded C on a global pass (rank 656 of 1170, score 26). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D2.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2024-12-22",
+"grade": "B",
 "id": "sap-tl-2024-7606x",
 "label": "Deadline passes for the SAP access population reports",
 "precision": "day",
 "strand": "oversight",
-"text": "Section 7606(c) of the FY2024 Intelligence Authorization Act required each of the six officials authorised by E.O. 13526 to establish special access programs to report to nine congressional committees, including House Oversight, on how the number of personnel eligible for SAP access will be limited to the minimum required. The one-year deadline expired on this date. No such report has been publicly released.",
-"tier": "B"
+"text": "Section 7606(c) of the FY2024 Intelligence Authorization Act required each of the six officials authorised by E.O. 13526 to establish special access programs to report to nine congressional committees, including House Oversight, on how the number of personnel eligible for SAP access will be limited to the minimum required. The one-year deadline expired on this date. No such report has been publicly released."
 }
-]
+],
+"unverified": []
 }

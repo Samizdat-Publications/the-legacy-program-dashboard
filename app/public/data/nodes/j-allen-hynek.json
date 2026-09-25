@@ -164,7 +164,9 @@
 "deg": 4,
 "denials": [],
 "domains": [
-"history-1940s-1960s"
+"d-legacy",
+"d-coverup",
+"d-oversight"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -185,6 +187,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "J. Allen Hynek",
+"sourceFiles": [
+"history-1940s-1960s"
+],
 "sources": [
 {
 "date": "1968-07-29",
@@ -205,16 +210,17 @@
 "status": "dead",
 "sub": "Astronomer; USAF scientific consultant 1948-1969",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 517 of 1170, score 30). 4 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 515 of 1170, score 30). 4 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1966-03-01",
+"grade": "B",
 "id": "tl-1966-03",
 "label": "Michigan sightings and 'swamp gas'",
 "precision": "month",
 "strand": "witness",
-"text": "Mass sightings near Dexter and Hillsdale are met with J. Allen Hynek's provisional swamp gas explanation, reported as a blanket dismissal and met with public fury.",
-"tier": "B"
+"text": "Mass sightings near Dexter and Hillsdale are met with J. Allen Hynek's provisional swamp gas explanation, reported as a blanket dismissal and met with public fury."
 }
 ],
 "unexplainedResidual": null,

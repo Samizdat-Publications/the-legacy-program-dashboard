@@ -27,6 +27,7 @@
 ],
 "cls": "program",
 "cluster": "research",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -119,7 +120,7 @@
 "url": "https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Gold.pdf"
 }
 ],
-"tier": "B",
+"tier": "C",
 "type": "institutional"
 },
 {
@@ -223,9 +224,7 @@
 "deg": 7,
 "denials": [],
 "desc": "A sixteen-member independent study team convened by NASA in 2022 and chaired by astrophysicist David Spergel, with a public meeting on 31 May 2023 and a final report released on 14 September 2023. Members included Anamaria Berea, Federica Bianco, Reggie Brothers, Paula Bontempi, Jennifer Buss, Nadia Drake, Mike Gold, David Grinspoon, Capt. Scott Kelly USN (Ret.), Matt Mountain, Warren Randolph (FAA), Walter Scott, Joshua Semeter, Karlin Toner (FAA) and Shelley Wright, with Daniel Evans as designated federal officer. The report's operative finding is about data quality, not phenomenology: 'Analysis of UAP data is hampered by poor sensor calibration, the lack of multiple measurements, the lack of sensor metadata.' Its recommendations are the aviator strand's policy agenda - enhance the Aviation Safety Reporting System for commercial pilot UAP reporting, apply machine learning to curated datasets, build FAIR data repositories, partner with commercial remote sensing, and advance air traffic management detection. At the release briefing NASA announced it had appointed a Director of UAP Research and declined to name the appointee; subsequent reporting identified Mark McInerney. Mike Gold later told Congress the study's designated federal officer had worked 'under difficult conditions,' the panel having absorbed public harassment throughout.",
-"domains": [
-"aviators-incidents"
-],
+"domains": [],
 "dossier": {
 "claims": [
 {
@@ -350,7 +349,7 @@
 "cls": "person",
 "id": "michael-gold",
 "label": "Michael Gold",
-"tier": "B"
+"tier": "C"
 },
 {
 "cls": "person",
@@ -359,7 +358,11 @@
 "tier": "C"
 }
 ],
+"openQuestions": [],
 "short": "NASA UAP Independent Study Team",
+"sourceFiles": [
+"aviators-incidents"
+],
 "sources": [
 {
 "date": "2023-09-14",
@@ -379,16 +382,18 @@
 ],
 "sub": "Federal advisory study team, 2022-2023",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 384 of 1170, score 35). 8 connections, 2 of them custody/funding/programmatic. Axes C0/A1/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 386 of 1170, score 35). 8 connections, 2 of them custody/funding/programmatic. Axes C0/A1/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2023-09-14",
+"grade": "A",
 "id": "av-2023-09-14",
 "label": "NASA report released; director unnamed",
 "precision": "day",
 "strand": "oversight",
-"text": "The UAP Independent Study Team report finds analysis 'hampered by poor sensor calibration, the lack of multiple measurements, the lack of sensor metadata.' NASA announces a Director of UAP Research and declines to name him at the briefing.",
-"tier": "A"
+"text": "The UAP Independent Study Team report finds analysis 'hampered by poor sensor calibration, the lack of multiple measurements, the lack of sensor metadata.' NASA announces a Director of UAP Research and declines to name him at the briefing."
 }
-]
+],
+"unverified": []
 }

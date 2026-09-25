@@ -17,6 +17,7 @@
 ],
 "cls": "event",
 "cluster": "witness",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -51,9 +52,7 @@
 "deg": 1,
 "denials": [],
 "desc": "On the evening of 17 December 1977, five independent groups of witnesses in the vicinity of Big Lake Park in Council Bluffs, Iowa observed a red luminous mass descending from approximately 500-600 feet to the ground. One witness described 'a big round thing hovering in the sky below the tree tops', 'hovering, it wasn't moving', with 'red lights around the perimeter... blinking in sequence'. One of the first people to reach the site described a pool of molten metal that 'looked like a great big sparkler at first', then 'it cooled down, and it seemed like lava, glowing and bubbling'. The city's assistant fire chief arrived about twenty minutes later and described a roughly four-by-six-foot mass 'running, boiling down the edges of the levee'. Police photographed the scene and interviewed witnesses; one of those photographs is reproduced in the 2022 peer-reviewed study. Contemporaneous newspaper coverage appeared in the Daily Nonpareil on 18 December 1977 and in the Des Moines Register on 26 January 1978, and analyses conducted within weeks identified the material as high-carbon steel and slag. The case is the anchor of the entire modern materials literature precisely because it has what almost nothing else in the field has: multiple independent civilian witnesses, an immediate official response, contemporaneous press documentation, police photography, and a preserved physical sample - a civil chain of custody, complete, from 1977 to a Stanford mass spectrometer.",
-"domains": [
-"scientists-technical"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "1",
@@ -67,7 +66,11 @@
 "label": "Council Bluffs, Iowa molten metal fall, 17 December 1977",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Council Bluffs, Iowa molten metal fall, 17 December 1977",
+"sourceFiles": [
+"scientists-technical"
+],
 "sources": [
 {
 "date": "2026-04-01",
@@ -87,25 +90,28 @@
 ],
 "sub": "Five independent witness groups; police photographs; ~four-by-six-foot molten mass",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 827 of 1170, score 21). 1 connections, 0 of them custody/funding/programmatic. Axes C3/A0/D1.",
+"tierRationale": "Re-graded C on a global pass (rank 828 of 1170, score 21). 1 connections, 0 of them custody/funding/programmatic. Axes C3/A0/D1.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1977-12-17",
+"grade": "A",
 "id": "st-1977-cb",
 "label": "Council Bluffs fall",
 "precision": "day",
 "strand": "witness",
-"text": "Five independent witness groups see a luminous mass descend near Big Lake Park, Council Bluffs, Iowa; police photograph a four-by-six-foot molten metal mass. The sample survives into the modern literature.",
-"tier": "A"
+"text": "Five independent witness groups see a luminous mass descend near Big Lake Park, Council Bluffs, Iowa; police photograph a four-by-six-foot molten metal mass. The sample survives into the modern literature."
 },
 {
+"claimTier": null,
 "date": "1978-01-26",
+"grade": "B",
 "id": "st-1978-cb-analysis",
 "label": "First Council Bluffs analysis",
 "precision": "day",
 "strand": "program",
-"text": "The Des Moines Register reports the initial materials analyses identifying the metal as high-carbon steel and slag - the baseline the 2022 Stanford work would revisit.",
-"tier": "B"
+"text": "The Des Moines Register reports the initial materials analyses identifying the metal as high-carbon steel and slag - the baseline the 2022 Stanford work would revisit."
 }
-]
+],
+"unverified": []
 }

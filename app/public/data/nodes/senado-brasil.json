@@ -42,6 +42,7 @@
 ],
 "cls": "institution",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -276,11 +277,7 @@
 "deg": 6,
 "denials": [],
 "desc": "The Senado Federal is the upper chamber of Brazil's National Congress, composed of 81 senators - three for each of the 26 states and the Federal District - elected to eight-year terms, with the constitutional powers of legislative revision, treaty approval, confirmation of senior appointments and the summoning of ministers and officials to give evidence. Its relevance to this board is carried by Senator Eduardo Girão of Ceará (Senate member code 5976, elected for the 56th legislature and continuing into the 57th), who has pressed publicly for the Brazilian state's UAP record to be opened and who brought the January 1996 Varginha case to Capitol Hill on its thirtieth anniversary in 2026. Brazil is a comparative test case for the concealment thesis in a way few countries are: its military UFO files were transferred to the Arquivo Nacional and made citizen-accessible, and the 1986 air force incident is documented in that archive, so Brazil has already done what the American programme is alleged to be preventing. A national legislature that can summon officials, and that contains a member actively pursuing the Varginha file, is a live route by which the non-US half of the record can be forced open - and it is a route the United States cannot classify. No primary Senate legislative instrument on UAP was located in this pass; the Senate's keyword search service for legislative matters has been deprecated and its replacement returns unfiltered results.",
-"domains": [
-"_rs-stubs-known",
-"_stubs",
-"w12-brazil-edges"
-],
+"domains": [],
 "dossier": {
 "claims": [
 {
@@ -411,7 +408,13 @@
 "tier": "C"
 }
 ],
+"openQuestions": [],
 "short": "Senado Federal do Brasil",
+"sourceFiles": [
+"_rs-stubs-known",
+"_stubs",
+"w12-brazil-edges"
+],
 "sources": [
 {
 "date": "2026-08-12",
@@ -437,5 +440,6 @@
 "sub": "Foreign legislature",
 "tier": "C",
 "tierRationale": "Re-graded C on a global pass (rank 782 of 1170, score 22). 6 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D0.",
-"timeline": []
+"timeline": [],
+"unverified": []
 }

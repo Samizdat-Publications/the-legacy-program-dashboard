@@ -102,6 +102,7 @@
 ],
 "cls": "legislation",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -159,7 +160,7 @@
 "edgeLabel": "ICD 906 is the DNI's exercise of the section 4.3 SAP authority",
 "id": "icd-906",
 "l0": false,
-"label": "ICD 906 — Controlled Access Programs (ODNI)",
+"label": "ICD 906 - Controlled Access Programs (ODNI)",
 "note": "ICD 906 section B.1 establishes oversight of IC special access programs 'pursuant to EO 13526, Section 4.3', which assigns intelligence SAPs to the DNI.",
 "sources": [
 {
@@ -206,7 +207,7 @@
 "edgeLabel": "Requires a personnel census from each of the six SAP-creating officials",
 "id": "ndaa-fy2024-7606",
 "l0": false,
-"label": "FY2024 IAA sec. 7606(c) — Agency Review of Special Access Programs",
+"label": "FY2024 IAA sec. 7606(c) - Agency Review of Special Access Programs",
 "note": "FY2024 IAA sec. 7606(c) addresses 'each head of an agency who is authorized to establish a special access program by Executive Order 13526', due within one year.",
 "sources": [
 {
@@ -227,7 +228,7 @@
 "edgeLabel": "All SAP categories descend from a single executive order provision",
 "id": "sap-taxonomy",
 "l0": false,
-"label": "Acknowledged, unacknowledged and waived — the three states of a DoD SAP",
+"label": "Acknowledged, unacknowledged and waived - the three states of a DoD SAP",
 "note": "Section 4.3(a) names the six officials who may create a SAP; the DoD taxonomy of acknowledged, unacknowledged and waived operates entirely below that grant.",
 "sources": [
 {
@@ -248,12 +249,33 @@
 "claimTier": 1,
 "cls": "legislation",
 "dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "Sec. 4.3(c): nothing in the order supersedes any requirement made by or under 10 U.S.C. 119",
+"id": "usc-10-119",
+"l0": true,
+"label": "10 U.S.C. 119 - Special Access Programs: Congressional Oversight",
+"note": "",
+"sources": [
+{
+"date": null,
+"name": "https://www.govinfo.gov/content/pkg/FR-2010-01-05/html/E9-31418.htm",
+"url": "https://www.govinfo.gov/content/pkg/FR-2010-01-05/html/E9-31418.htm"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "legislation",
+"dateEnd": null,
 "dateStart": "2009-12-29",
 "direction": "out",
 "edgeLabel": "Creates the programs the statute then reports on",
 "id": "usc-10-119",
 "l0": true,
-"label": "10 U.S.C. 119 — Special Access Programs: Congressional Oversight",
+"label": "10 U.S.C. 119 - Special Access Programs: Congressional Oversight",
 "note": "E.O. 13526 sec. 4.3 is the source of authority to create a SAP; 10 U.S.C. 119 only prescribes what must be told to Congress afterwards.",
 "sources": [
 {
@@ -276,10 +298,10 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
-"edgeLabel": "Sec. 4.3(c): nothing in the order supersedes any requirement made by or under 10 U.S.C. 119",
+"edgeLabel": "creates what the statute must report",
 "id": "usc-10-119",
 "l0": true,
-"label": "10 U.S.C. 119 — Special Access Programs: Congressional Oversight",
+"label": "10 U.S.C. 119 - Special Access Programs: Congressional Oversight",
 "note": "The order creates the object the statute reports on. EO 13526 sec. 4.3(a) is the authority to establish a special access program at all, and restricts it to six officials or their principal deputies: the Secretaries of State, Defense, Energy and Homeland Security, the Attorney General, and the Director of National Intelligence. 10 U.S.C. 119 then obliges the Secretary of Defense to report the DoD ones to Congress. Creation is executive and unilateral; reporting is statutory. Both texts were read on 22 August 2026, and neither cites the other - the relationship is that one supplies the programmes the other counts.",
 "sources": [
 {
@@ -303,11 +325,7 @@
 "deg": 7,
 "denials": [],
 "desc": "Executive Order 13526, signed by President Obama on 29 December 2009 and still the operative classification order in August 2026, is where special access programs actually come from. Section 4.3 provides that 'Unless otherwise authorized by the President, only the Secretaries of State, Defense, Energy, and Homeland Security, the Attorney General, and the Director of National Intelligence, or the principal deputy of each, may create a special access program' - and that for programs pertaining to intelligence activities, sources or methods, 'this function shall be exercised by the Director of National Intelligence'. The order requires that a SAP be created only on a specific finding that the vulnerability of, or threat to, the information is exceptional and that normal classification and safeguarding criteria are insufficient; that the number of programs be kept 'at an absolute minimum'; that each program be reviewed annually to determine whether it continues to meet the criteria; and, critically, that special access programs 'shall be subject to the oversight program established under section 5.4(d)' with the Director of the Information Security Oversight Office 'afforded access to these programs, consistent with the policies and procedures directed by the President'. Two structural facts follow. First, SAP creation authority is a delegated executive power that Congress has never legislated over, so the six creating officials can stand a program up without any statutory basis and 10 U.S.C. 119 only tells them what to report afterward. Second, the ISOO access right in section 4.3 is qualified by 'consistent with the policies and procedures directed by the President' - a clause that has been read to permit the President to withhold ISOO access to specific programs, which is the single most important limitation on independent oversight of the SAP enterprise.",
-"domains": [
-"_rs-sap-docs",
-"w12-eo13526",
-"w2-sap-architecture"
-],
+"domains": [],
 "dossier": {
 "claims": [
 {
@@ -383,7 +401,7 @@
 "hl": null,
 "id": "eo-13526",
 "l0": true,
-"label": "Executive Order 13526 — Classified National Security Information",
+"label": "Executive Order 13526 - Classified National Security Information",
 "locLabel": null,
 "members": [
 {
@@ -401,23 +419,29 @@
 {
 "cls": "document",
 "id": "icd-906",
-"label": "ICD 906 — Controlled Access Programs (ODNI)",
+"label": "ICD 906 - Controlled Access Programs (ODNI)",
 "tier": "A"
 },
 {
 "cls": "legislation",
 "id": "ndaa-fy2024-7606",
-"label": "FY2024 IAA sec. 7606(c) — Agency Review of Special Access Programs",
+"label": "FY2024 IAA sec. 7606(c) - Agency Review of Special Access Programs",
 "tier": "C"
 },
 {
 "cls": "domain",
 "id": "sap-taxonomy",
-"label": "Acknowledged, unacknowledged and waived — the three states of a DoD SAP",
+"label": "Acknowledged, unacknowledged and waived - the three states of a DoD SAP",
 "tier": "A"
 }
 ],
+"openQuestions": [],
 "short": "Executive Order 13526",
+"sourceFiles": [
+"_rs-sap-docs",
+"w12-eo13526",
+"w2-sap-architecture"
+],
 "sources": [
 {
 "date": "2010-01-05",
@@ -432,16 +456,18 @@
 ],
 "sub": "executive-order",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 62 of 1170, score 74). 8 connections, 2 of them custody/funding/programmatic. Axes C0/A3/D3.",
+"tierRationale": "Re-graded A on a global pass (rank 60 of 1170, score 75). 9 connections, 2 of them custody/funding/programmatic. Axes C0/A3/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2009-12-29",
+"grade": "A",
 "id": "sap-tl-2009-eo13526x",
 "label": "Executive Order 13526 fixes the six officials who may create a SAP",
 "precision": "day",
 "strand": "program",
-"text": "Section 4.3 limits SAP creation to the Secretaries of State, Defense, Energy and Homeland Security, the Attorney General and the DNI, or their principal deputies, requires the number to be kept at an absolute minimum, and affords the ISOO Director access 'consistent with the policies and procedures directed by the President'.",
-"tier": "A"
+"text": "Section 4.3 limits SAP creation to the Secretaries of State, Defense, Energy and Homeland Security, the Attorney General and the DNI, or their principal deputies, requires the number to be kept at an absolute minimum, and affords the ISOO Director access 'consistent with the policies and procedures directed by the President'."
 }
-]
+],
+"unverified": []
 }

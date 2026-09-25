@@ -12,6 +12,7 @@
 ],
 "cls": "location",
 "cluster": "ic",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -72,10 +73,7 @@
 "deg": 2,
 "denials": [],
 "desc": "Langley Air Force Base, now part of Joint Base Langley-Eustis at Hampton, Virginia, hosts F-22 Raptors and is one of the most sensitive air defence installations on the eastern seaboard. It appears on this board for the sustained series of unidentified aerial incursions over the base beginning in December 2023, which continued for weeks, prompted the movement of aircraft, and were publicly discussed by the NORAD commander in October 2024 - a rare instance of a four-star officer addressing unresolved incursions over a nuclear-capable air defence installation on the record. The episode is important because it collapses the distance between the historical UAP question and a current, acknowledged, unresolved air defence failure.",
-"domains": [
-"_rs-archive-mirror",
-"w2-taxonomy"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "nd",
@@ -89,7 +87,12 @@
 "label": "Langley Air Force Base / Joint Base Langley-Eustis, Virginia",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Langley Air Force Base / Joint Base Langley-Eustis, Virginia",
+"sourceFiles": [
+"_rs-archive-mirror",
+"w2-taxonomy"
+],
 "sources": [
 {
 "date": "2026-05-18",
@@ -115,5 +118,6 @@
 "sub": "Air Force installation, Hampton, Virginia; F-22 base and site of the 2023 incursions",
 "tier": "C",
 "tierRationale": "Re-graded C on a global pass (rank 913 of 1170, score 18). 2 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D2.",
-"timeline": []
+"timeline": [],
+"unverified": []
 }

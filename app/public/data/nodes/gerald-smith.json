@@ -79,9 +79,7 @@
 "dateStart": "2010-01-01",
 "deg": 1,
 "denials": [],
-"domains": [
-"w7-dirds-3"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "2",
@@ -101,6 +99,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Gerald A. Smith",
+"sourceFiles": [
+"w7-dirds-3"
+],
 "sources": [
 {
 "date": null,

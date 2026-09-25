@@ -32,6 +32,7 @@
 ],
 "cls": "institution",
 "cluster": "ic",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -61,9 +62,7 @@
 "deg": 1,
 "denials": [],
 "desc": "STIC was the United States Intelligence Board's standing committee on scientific and technical intelligence, renamed from the Scientific Intelligence Committee by a charter of 23 October 1974 to reflect a shift of emphasis toward technology. Its operating precept was early warning of foreign scientific or technical advances affecting national security, and it advised, and coordinated collection and production for, the USIB in those areas. Its charter lists among its Priority Group II objectives the assessment and establishment of an Intelligence Community position regarding certain unidentified foreign activities and anomalies in the science and technology area, which places a standing community mechanism for exactly that question inside the intelligence structure of the 1970s. A Letter of Instruction of 3 August 1975 shows the committee still operating under the Deputy to the DCI for the Intelligence Community and reorganising its subgroups.",
-"domains": [
-"area52-2026-09-02"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "1",
@@ -77,7 +76,11 @@
 "label": "Scientific and Technical Intelligence Committee (USIB)",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Scientific and Technical Intelligence Committee (USIB)",
+"sourceFiles": [
+"area52-2026-09-02"
+],
 "sources": [
 {
 "date": "1974-10-23",
@@ -110,13 +113,15 @@
 "tierRationale": "Re-graded C on a global pass (rank 633 of 1170, score 27). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A3/D1.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1974-10-23",
+"grade": "B",
 "id": "tl-1974-10-23-stic-charter",
 "label": "The USIB charters a standing committee tasked with anomalies by name",
 "precision": "day",
 "strand": "oversight",
-"text": "The charter of the Scientific and Technical Intelligence Committee records the renaming from the Scientific Intelligence Committee and lists among its Priority Group II objectives the 'Assessment and establishment of an Intelligence Community position regarding certain unidentified foreign activities and anomalies in the S&T area'. The committee advises the United States Intelligence Board and coordinates collection and production in those areas. Nothing in the charter mentions the Robertson Panel.",
-"tier": "B"
+"text": "The charter of the Scientific and Technical Intelligence Committee records the renaming from the Scientific Intelligence Committee and lists among its Priority Group II objectives the 'Assessment and establishment of an Intelligence Community position regarding certain unidentified foreign activities and anomalies in the S&T area'. The committee advises the United States Intelligence Board and coordinates collection and production in those areas. Nothing in the charter mentions the Robertson Panel."
 }
-]
+],
+"unverified": []
 }

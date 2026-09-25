@@ -90,7 +90,7 @@
 "deg": 2,
 "denials": [],
 "domains": [
-"grusch"
+"d-oversight"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -111,6 +111,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Irvin Charles McCullough III",
+"sourceFiles": [
+"grusch"
+],
 "sources": [
 {
 "date": "2023-06-13",
@@ -126,7 +129,7 @@
 "status": "active",
 "sub": "First Inspector General of the Intelligence Community; Grusch's counsel",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 867 of 1170, score 19). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 868 of 1170, score 19). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D3.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": [

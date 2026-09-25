@@ -42,6 +42,7 @@
 ],
 "cls": "location",
 "cluster": "legacy",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -377,10 +378,7 @@
 "deg": 14,
 "denials": [],
 "desc": "Groom Lake is a salt flat roughly 3.75 miles north-south by 3 miles east-west at about 4,409 feet elevation in the Groom Lake Valley of Lincoln County, Nevada, 83 miles north-northwest of Las Vegas and 25 miles south of Rachel. The flight test facility on its southwest shore sits inside Restricted Area 4808 North, the 'Groom box' - a 23-by-25-mile block of restricted airspace enclosing the original 6-by-10-mile rectangular withdrawal - and abuts Yucca Flat, where 739 of the 928 Nevada Test Site nuclear detonations occurred. Its acknowledgement history is the reason it belongs on this board as a case study in how the United States conceals a physical installation for decades and then concedes it in fragments. The CIA established the site in April 1955 for Project AQUATONE, the U-2; the first U-2 arrived on 24 July 1955. Project OXCART, the A-12, was established in August 1959, construction of the 8,500-foot runway began in September 1960, the first A-12 arrived 28 February 1962 and flew on 26 April 1962. HAVE BLUE, the Lockheed stealth demonstrator, first flew here in December 1977; the YF-117A first flew on 18 June 1981 with Lockheed test pilot Hal Farley; Northrop's TACIT BLUE first flew 5 February 1982 with Richard G. Thomas. Exploited foreign aircraft were flown here from the late 1960s under HAVE DOUGHNUT, HAVE DRILL, HAVE IDEA and HAVE GLIB. Against that record, the government's disclosure posture is instructive: no acknowledgement of any kind until 1995, when President Clinton issued a presidential determination exempting 'the Air Force's operating location near Groom Lake, Nevada' from environmental disclosure laws - a determination reissued annually since - which arose out of Kasza v. Browner and Frost v. Perry, the 1994 suits by contractors and by the widows of Walter Kasza and Robert Frost alleging exposure to chemicals burned in open pits, in which Rutgers biochemists found elevated dioxin, dibenzofuran and trichloroethylene in claimants' body fat. District Judge Philip Pro rejected the state secrets claim; the suits were dismissed for lack of evidence; the Ninth Circuit affirmed; the Supreme Court declined review. The Air Force acknowledged the site's existence in 1998. Only on 25 June 2013, answering a 2005 FOIA request by Jeffrey T. Richelson of the National Security Archive, did the CIA release the U-2 and OXCART history naming Area 51 and admitting specific activity there. That is fifty-eight years from establishment to specific acknowledgement, achieved by FOIA litigation rather than by voluntary disclosure - the template against which every current UAP disclosure claim should be measured. The cover story function matters too: Groom's own historians note the U-2's high-altitude operations generated a wave of civilian UFO reports in the late 1950s that the Air Force did not correct, meaning a real black programme was knowingly allowed to be absorbed into the UFO explanation space.",
-"domains": [
-"lazar-s4-2026-09-18",
-"w2-places-events"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": {
 "desc": "Acknowledgement chronology, stated plainly because it is the board's benchmark: facility established April 1955; no acknowledgement of any kind 1955-1995; 1995 presidential determination exempting 'the Air Force's operating location near Groom Lake, Nevada' from environmental disclosure law, issued in the shadow of Kasza v. Browner and reissued annually; 1998 USAF acknowledgement that the site exists; 25 June 2013 CIA release of the U-2/OXCART history naming Area 51 and admitting specific activity, in response to a FOIA request filed in 2005 by Jeffrey T. Richelson of the National Security Archive. Fifty-eight years from establishment to specific acknowledgement, and the concession was compelled by a records request rather than volunteered. Any claim that a programme of this kind 'could not stay secret' has to be measured against this chronology.",
@@ -397,7 +395,12 @@
 "label": "Groom Lake, Nevada",
 "locLabel": "Groom Lake, Nevada, USA",
 "members": null,
+"openQuestions": [],
 "short": "Groom Lake, Nevada",
+"sourceFiles": [
+"lazar-s4-2026-09-18",
+"w2-places-events"
+],
 "sources": [
 {
 "date": "2013-10-29",
@@ -425,49 +428,55 @@
 "tierRationale": "Re-graded A on a global pass (rank 139 of 1170, score 54). 14 connections, 2 of them custody/funding/programmatic. Axes C2/A3/D2.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1955-04-01",
+"grade": "A",
 "id": "tl-1955-groom",
 "label": "The CIA establishes the Groom Lake facility",
 "precision": "month",
 "strand": "program",
-"text": "Project AQUATONE selects the site because U-2 testing cannot be conducted at Edwards or Palmdale given the secrecy of the project. The first U-2 arrives 24 July 1955.",
-"tier": "A"
+"text": "Project AQUATONE selects the site because U-2 testing cannot be conducted at Edwards or Palmdale given the secrecy of the project. The first U-2 arrives 24 July 1955."
 },
 {
+"claimTier": null,
 "date": "1977-12-01",
+"grade": "B",
 "id": "tl-1977-haveblue",
 "label": "HAVE BLUE flies at Groom Lake",
 "precision": "month",
 "strand": "program",
-"text": "Lockheed's stealth demonstrator first flies from a facility whose existence the government will not acknowledge for another twenty-one years.",
-"tier": "B"
+"text": "Lockheed's stealth demonstrator first flies from a facility whose existence the government will not acknowledge for another twenty-one years."
 },
 {
+"claimTier": null,
 "date": "1994-01-01",
+"grade": "A",
 "id": "tl-1994-kasza",
 "label": "Groom Lake contractors sue",
 "precision": "year",
 "strand": "oversight",
-"text": "Kasza v. Browner and Frost v. Perry allege exposure to hazardous waste burned in open pits. Judge Philip Pro rejects the state secrets claim; the suits are dismissed for lack of evidence and the Ninth Circuit affirms.",
-"tier": "A"
+"text": "Kasza v. Browner and Frost v. Perry allege exposure to hazardous waste burned in open pits. Judge Philip Pro rejects the state secrets claim; the suits are dismissed for lack of evidence and the Ninth Circuit affirms."
 },
 {
+"claimTier": null,
 "date": "1995-01-01",
+"grade": "A",
 "id": "tl-1995-clinton",
 "label": "The President exempts a place that officially does not exist",
 "precision": "year",
 "strand": "coverup",
-"text": "Clinton issues a determination exempting 'the Air Force's operating location near Groom Lake, Nevada' from environmental disclosure law - the only formal recognition to that date that Groom Lake is more than part of the Nellis complex. It is reissued annually.",
-"tier": "A"
+"text": "Clinton issues a determination exempting 'the Air Force's operating location near Groom Lake, Nevada' from environmental disclosure law - the only formal recognition to that date that Groom Lake is more than part of the Nellis complex. It is reissued annually."
 },
 {
+"claimTier": null,
 "date": "1998-01-01",
+"grade": "A",
 "id": "tl-1998-a51",
 "label": "The Air Force concedes the site exists",
 "precision": "year",
 "strand": "oversight",
-"text": "Forty-three years after establishment, the USAF acknowledges the existence of the operating location at Groom Lake - without describing anything done there.",
-"tier": "A"
+"text": "Forty-three years after establishment, the USAF acknowledges the existence of the operating location at Groom Lake - without describing anything done there."
 }
-]
+],
+"unverified": []
 }

@@ -100,7 +100,7 @@
 "url": "https://www.cbsnews.com/news/ufo-military-intelligence-60-minutes-2021-05-16/"
 }
 ],
-"tier": "A",
+"tier": "B",
 "type": "witness-chain"
 },
 {
@@ -121,7 +121,7 @@
 "url": "https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Gold.pdf"
 }
 ],
-"tier": "B",
+"tier": "C",
 "type": "witness-chain"
 },
 {
@@ -183,8 +183,8 @@
 "deg": 4,
 "denials": [],
 "domains": [
-"aviators-incidents",
-"witnesses-2026-09-18"
+"d-aviators",
+"d-coverup"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -205,6 +205,10 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Alex Dietrich",
+"sourceFiles": [
+"aviators-incidents",
+"witnesses-2026-09-18"
+],
 "sources": [
 {
 "date": "2021-05-16",
@@ -250,16 +254,17 @@
 "status": "active",
 "sub": "LCDR, USN (Ret.); VFA-41 wingman on the 14 Nov 2004 Nimitz intercept",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 515 of 1170, score 30). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.",
+"tierRationale": "Re-graded B on a global pass (rank 513 of 1170, score 30). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2021-05-16",
+"grade": "A",
 "id": "av-2021-05-16",
 "label": "60 Minutes brings the aviators forward",
 "precision": "day",
 "strand": "witness",
-"text": "Fravor, Dietrich, Graves, Mellon and Elizondo appear on CBS; Dietrich gives her first public account: 'I never wanted to be on national TV, no offense.'",
-"tier": "A"
+"text": "Fravor, Dietrich, Graves, Mellon and Elizondo appear on CBS; Dietrich gives her first public account: 'I never wanted to be on national TV, no offense.'"
 }
 ],
 "unexplainedResidual": null,

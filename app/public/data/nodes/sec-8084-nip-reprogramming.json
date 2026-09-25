@@ -17,6 +17,7 @@
 ],
 "cls": "legislation",
 "cluster": "ic",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -46,9 +47,7 @@
 "deg": 1,
 "denials": [],
 "desc": "Section 8084(b) of the FY2026 Department of Defense Appropriations Act provides that no funds for the National Intelligence Program in that or any prior appropriations Act 'shall be available for obligation or expenditure through a reprogramming or transfer of funds in accordance with section 102A(d) of the National Security Act of 1947 (50 U.S.C. 3024(d)) that results in a cumulative increase or decrease of the levels specified in the classified annex accompanying the Act unless the congressional intelligence committees are notified 30 days in advance of such reprogramming of funds', and adds that 'this notification period may be reduced for urgent national security requirements.' It is worth reading what this establishes rather than what it restricts. It establishes, in public statutory text, that the operative funding levels for the National Intelligence Program are 'the levels specified in the classified annex' - not the levels in the printed bill, which do not exist for the NIP at all. It establishes that the DNI's transfer and reprogramming authority under 50 U.S.C. 3024(d) operates against that unpublished baseline. And it establishes that the notification period, already only thirty days and only to two committees, may be shortened at the executive's assessment of urgency.",
-"domains": [
-"w2-black-budget"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "2",
@@ -62,7 +61,11 @@
 "label": "Section 8084 - NIP reprogramming notification against classified annex levels",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Section 8084 - NIP reprogramming notification against classified annex levels",
+"sourceFiles": [
+"w2-black-budget"
+],
 "sources": [
 {
 "date": "2026-02-03",
@@ -73,5 +76,6 @@
 "sub": "The one place the classified annex is named as the baseline for intelligence spending changes",
 "tier": "C",
 "tierRationale": "Re-graded C on a global pass (rank 642 of 1170, score 27). 1 connections, 1 of them custody/funding/programmatic. Axes C1/A3/D2.",
-"timeline": []
+"timeline": [],
+"unverified": []
 }

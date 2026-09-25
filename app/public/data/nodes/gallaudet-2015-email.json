@@ -27,6 +27,7 @@
 ],
 "cls": "document",
 "cluster": "other",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -155,9 +156,7 @@
 "deg": 5,
 "denials": [],
 "desc": "A January 2015 email from the operations officer of US Fleet Forces Command to all subordinate commanders, subject line 'URGENT SAFETY OF FLIGHT ISSUE,' attaching the GO FAST video and asking: 'If any of you know what these are, tell me ASAP. We are having multiple near-midair collisions, and if we do not resolve it soon, we will have to shut down the exercise.' Then-Rear Admiral Tim Gallaudet, at the time Commander of Naval Meteorology and Oceanography Command, testified in writing to the House Oversight joint subcommittees on 13 November 2024 that the email disappeared from his account and from other recipients' accounts 'without explanation' the very next day, and that he concluded the information 'must have been classified within a special access program managed by an intelligence agency.' This document - or rather its deletion - is the single sharpest artefact of the concealment mechanism in the aviator record. It is not a classification decision anyone defended, not a refusal to comment, not a denial: it is the retroactive removal of an official Navy flight-safety warning from every recipient's inbox. No agency has acknowledged ordering it, and the message identifier, sender and recall authority remain unidentified.",
-"domains": [
-"aviators-incidents"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": {
 "desc": "The recalled January 2015 US Fleet Forces Command message is the highest-value single artefact on the aviator strand, and it deserves separate treatment because of what it rules out. A refusal to comment is consistent with indifference. A classification decision is consistent with ordinary secrecy. But the retroactive deletion of an already-distributed fleet-wide flight-safety warning from the inboxes of every subordinate commander is not consistent with either. It requires that someone with authority over Navy messaging systems decided, within 24 hours, that a safety-of-flight warning about repeated near-midair collisions was more dangerous distributed than the near-midairs themselves. Gallaudet, a serving flag officer at the time and later acting NOAA Administrator, drew the only available inference in sworn testimony: the information 'must have been classified within a special access program managed by an intelligence agency.' The message is also the connective tissue between the two halves of the aviator record. It carried GO FAST - one of the three videos DoD later released as authentic and unidentified - and it described exactly the problem Ryan Graves's squadron was filing unacknowledged safety reports about in the same airspace in the same period. Nine years later, AARO reanalysed GO FAST on parallax grounds and concluded it showed nothing anomalous. That analysis, whatever its merits, has no bearing on why the warning was withdrawn. No agency has ever acknowledged withdrawing it, and the sender, message identifier and recall authority remain unidentified.",
@@ -190,7 +189,11 @@
 "label": "Fleet Forces Command 'URGENT SAFETY OF FLIGHT ISSUE' Email (Jan 2015, recalled)",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Fleet Forces Command 'URGENT SAFETY OF FLIGHT ISSUE' Email (Jan 2015, recalled)",
+"sourceFiles": [
+"aviators-incidents"
+],
 "sources": [
 {
 "date": "2024-11-13",
@@ -205,25 +208,28 @@
 ],
 "sub": "Recalled Navy fleet-wide safety message carrying the GO FAST video",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 324 of 1170, score 38). 5 connections, 2 of them custody/funding/programmatic. Axes C1/A3/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 322 of 1170, score 38). 5 connections, 2 of them custody/funding/programmatic. Axes C1/A3/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2015-01-01",
+"grade": "A",
 "id": "av-2015-01-email",
 "label": "Fleet Forces safety message recalled",
 "precision": "month",
 "strand": "coverup",
-"text": "A US Fleet Forces Command 'URGENT SAFETY OF FLIGHT ISSUE' email carrying GO FAST and citing 'multiple near-midair collisions' is sent to all subordinate commanders and deleted from every recipient's account the next day.",
-"tier": "A"
+"text": "A US Fleet Forces Command 'URGENT SAFETY OF FLIGHT ISSUE' email carrying GO FAST and citing 'multiple near-midair collisions' is sent to all subordinate commanders and deleted from every recipient's account the next day."
 },
 {
+"claimTier": null,
 "date": "2024-11-13",
+"grade": "A",
 "id": "av-2024-11-13",
 "label": "Gallaudet discloses the recalled email",
 "precision": "day",
 "strand": "oversight",
-"text": "At the House Oversight joint hearing, Gallaudet testifies the January 2015 Fleet Forces Command safety message was deleted from all accounts within a day and concludes it 'must have been classified within a special access program managed by an intelligence agency.' Shellenberger describes Immaculate Constellation.",
-"tier": "A"
+"text": "At the House Oversight joint hearing, Gallaudet testifies the January 2015 Fleet Forces Command safety message was deleted from all accounts within a day and concludes it 'must have been classified within a special access program managed by an intelligence agency.' Shellenberger describes Immaculate Constellation."
 }
-]
+],
+"unverified": []
 }

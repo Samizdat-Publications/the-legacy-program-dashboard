@@ -112,6 +112,7 @@
 ],
 "cls": "institution",
 "cluster": "research",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -395,10 +396,7 @@
 "deg": 10,
 "denials": [],
 "desc": "GEIPAN is the answer to the question the US posture keeps deflecting: what does it actually look like when a government decides that unidentified aerospace phenomena are a normal object of public administration. The answer is a two- or three-person office in a space agency, a volunteer investigator corps, a steering committee of police, gendarmes, air force, meteorologists and scientists, a published four-tier classification, and a searchable public archive of every closed case. It has run without interruption since 1977 under three names.\n\nCNES states plainly on its own site that it has studied unidentified aerospace phenomena since 1977, the year GEPAN - the Groupe d'Étude des Phénomènes Aérospatiaux Non identifiés - was created. Its origin was not a scandal or a leak but a recommendation: a 1976 Institut des Hautes Études de Défense Nationale committee, chaired by General Blanchard of the Gendarmerie Nationale, opened the UFO file with the explicit objective of making proposals for organising research and data collection, and GEPAN was created on the back of that committee's recommendations. That lineage is stated in the COMETA report's own introduction. Claude Poher directed GEPAN at its inception. In 1988 GEPAN was replaced by SEPRA, the Service d'Études des Phénomènes de Rentrées Atmosphériques, which absorbed the UAP function into a unit whose principal job was routine monitoring of orbital debris and re-entry risk objects. At the end of 2001 the CNES Direction Générale commissioned an audit to decide the activity's future. The 2005 outcome was restructuring rather than closure: GEIPAN replaced SEPRA, and the audit carried what CNES calls 'une recommandation importante d'informer le public en toute transparence' - an important recommendation to inform the public in complete transparency. That recommendation is embedded in the acronym; the added 'I' stands for Information. It was implemented starting in 2007 with the online publication of GEIPAN's archives and case files.\n\nThe structure is worth stating precisely because it is the operational counter-model. GEIPAN sits under the deputy directorate of the Toulouse Space Centre. It is steered by a comité de pilotage (COPEIPAN) chaired by a recognised figure from the aerospace world and composed of representatives of the country's civil and military authorities - Gendarmerie nationale, civil aviation, meteorology, the Air and Space Force, scientific research - plus CNES. That committee's job is to analyse GEIPAN's results and make recommendations to CNES on its direction. Beneath it sits a collège d'experts of roughly thirty multidisciplinary volunteers who take the hardest cases, and a corps of volunteer field investigators across France who are mandated case by case and work to the methods set out in GEIPAN's investigator guide. GEIPAN holds standing conventions with the Gendarmerie, the Air Force, civil aviation, the Navy and Météo France for rapid access to hard data, and works with CNRS and the CEA. The permanent staff, per GEIPAN's own history page, is two full-time CNES agents - the head and an assistant - supported by external contractors for case analysis, statistics, anonymisation and archiving. Canada's Office of the Chief Science Advisor, surveying the office in 2025, counted three full-time employees and over 20 trained volunteer investigators. Funding comes out of the general public-service subsidy CNES receives; there is no separate UAP line item. Frederic Courtade has headed GEIPAN since January 2024.\n\nThe classification is what makes the archive usable. Each case is scored on two axes - consistency (C), the product of the quantity and reliability of data, and residual strangeness (E) after comparison against known-phenomenon hypotheses - then filed as A (perfectly identified), B (probably identified), C (unidentified for lack of data) or D (unidentified after investigation). Cases in C and D can be reopened if new information arrives. As of the site statistics dated 11 August 2026, 3,381 published classified cases break down as 950 class A (28.1%), 1,310 class B (38.7%), 1,015 class C (30.0%) and 106 class D (3.1%). Canada's report, working from the 2025 figures, recorded 3,188 cases with 3.2% unidentified after investigation and 31.4% unexplained for insufficient data. The residual is small, it is stable, and it is public.\n\nGEIPAN is also unusually explicit about what it is not. Its FAQ states that it is not an independent structure but a technical department of CNES; that it carries no national-security, space-surveillance or alert mission; and that, 'contrary to popular belief', it is not a research group on UFOs, extraterrestrial life or other paranormal phenomena. It uses only recognised scientific knowledge, 'without speculation or unverified hypotheses'. That disclaimer is not evasion - it is the price of the archive, and it is precisely the trade the US system has refused to make.\n\nThe substantive work is on the record. In June 1978 GEPAN presented its scientific council with a five-volume, roughly 500-page report on the first semester of 1978; a contemporaneous English-language summary of that report, held in the NSA's public UFO document collection, records that eleven high-credibility, high-strangeness cases were studied in detail, that only one proved to have a conventional explanation, that in ten of the eleven the conclusion was that witnesses had seen a material phenomenon explicable as neither a natural phenomenon nor a human device, and that the report concluded there was behind the phenomenon a 'flying machine. . . whose modes of sustenance and propulsion are beyond our knowledge'. The same summary judges that the care taken with distances, angles and psychological factors 'makes the bulk of the Condon Report seem very poor by comparison'. GEPAN's most cited physical-trace investigation, the Trans-en-Provence landing of 8 January 1981, was published as Note Technique n° 16, 'Analyse d'une trace', issued by CNES in Toulouse on 1 March 1983 and still hosted on the GEIPAN site.\n\nThe office's standing outside France is the argument in compressed form. When Canada's Chief Science Advisor set out to design a national UAP reporting system in 2025, GEIPAN was the model it described in the most detail, the example it explicitly told Canada to consider when establishing a dedicated service, and one of only four international bodies - alongside AARO, NASA and Chile's SEFAA - that it recommended Canada partner with.",
-"domains": [
-"w2-international",
-"w6-international"
-],
+"domains": [],
 "dossier": {
 "claims": [
 {
@@ -532,7 +530,16 @@
 "tier": "C"
 }
 ],
+"openQuestions": [
+"GEIPAN's own history page states a permanent team of two full-time CNES agents; Canada's 2025 report states three full-time employees. Both are cited above. The discrepancy is unresolved and may simply reflect a headcount change between the two publication dates.",
+"GEIPAN's annual budget is not published as a separate figure; CNES states only that it comes out of the general public-service subsidy. No euro figure has been sourced.",
+"The full text of the 2001-2005 CNES audit that produced the restructuring and the transparency recommendation has not been located online."
+],
 "short": "GEIPAN",
+"sourceFiles": [
+"w2-international",
+"w6-international"
+],
 "sources": [
 {
 "date": "2026-03-31",
@@ -595,13 +602,15 @@
 "tierRationale": "Re-graded A on a global pass (rank 88 of 1170, score 68). 10 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D3.",
 "timeline": [
 {
+"claimTier": 1,
 "date": "2026-03-31",
+"grade": null,
 "id": "tl-intl-2026-geipan",
 "label": "GEIPAN's forty-ninth-year figures",
 "precision": "day",
 "strand": "program",
-"text": "GEIPAN reports more than 9,897 testimonies representing about 5,170 observation cases in 49 years, with 3,336 published; 66.5 per cent classed A or B, 30.3 per cent class C for lack of data, and 3.2 per cent class D - unexplained after investigation.",
-"tier": 1
+"text": "GEIPAN reports more than 9,897 testimonies representing about 5,170 observation cases in 49 years, with 3,336 published; 66.5 per cent classed A or B, 30.3 per cent class C for lack of data, and 3.2 per cent class D - unexplained after investigation."
 }
-]
+],
+"unverified": []
 }

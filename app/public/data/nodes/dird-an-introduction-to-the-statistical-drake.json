@@ -47,6 +47,7 @@
 ],
 "cls": "document",
 "cluster": "other",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -146,6 +147,27 @@
 "id": "dird-series",
 "l0": true,
 "label": "The 38 Defense Intelligence Reference Documents (DIRDs)",
+"note": "",
+"sources": [
+{
+"date": null,
+"name": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237662/",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237662/"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "series member",
+"id": "dird-series",
+"l0": true,
+"label": "The 38 Defense Intelligence Reference Documents (DIRDs)",
 "note": "Membership of the DIRD series is established by the released document itself: its cover page carries the Defense Intelligence Reference Document mark and the DIA Defense Futures banner. Publication date 11 March 2010 on the cover. 56 pages in the released copy. The cover of the scanned release is degraded, so a document number or date is asserted here only where it reads unambiguously.",
 "sources": [
 {
@@ -169,11 +191,7 @@
 "deg": 4,
 "denials": [],
 "desc": "DIA Defense Intelligence Reference Document (Acquisition Threat Support series), 2010-03-11, produced under the Advanced Aerospace Weapon System Applications (AAWSA/AAWSAP) Program contract with BAASS. Released under FOIA.",
-"domains": [
-"_rs-aawsap-dirds",
-"_rs-archive-mirror",
-"w7-dirds-1"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "nd",
@@ -187,7 +205,13 @@
 "label": "An Introduction to the Statistical Drake Equation",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "An Introduction to the Statistical Drake Equation",
+"sourceFiles": [
+"_rs-aawsap-dirds",
+"_rs-archive-mirror",
+"w7-dirds-1"
+],
 "sources": [
 {
 "date": "2010-03-11",
@@ -227,6 +251,7 @@
 ],
 "sub": "defense-intelligence-reference-document",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 375 of 1170, score 35). 4 connections, 3 of them custody/funding/programmatic. Axes C0/A0/D0.",
-"timeline": []
+"tierRationale": "Re-graded B on a global pass (rank 353 of 1170, score 36). 5 connections, 3 of them custody/funding/programmatic. Axes C0/A0/D0.",
+"timeline": [],
+"unverified": []
 }

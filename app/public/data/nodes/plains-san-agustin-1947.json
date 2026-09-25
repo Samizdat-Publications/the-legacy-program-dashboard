@@ -27,6 +27,7 @@
 ],
 "cls": "event",
 "cluster": "witness",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 3,
@@ -98,6 +99,14 @@
 "deg": 3,
 "denials": [
 {
+"a": {
+"id": "roswell-report-case-closed",
+"label": "The Roswell Report: Case Closed (1997)"
+},
+"b": {
+"id": "plains-san-agustin-1947",
+"label": "Plains of San Agustin claim, July 1947"
+},
 "by": {
 "id": "roswell-report-case-closed",
 "label": "The Roswell Report: Case Closed (1997)"
@@ -120,9 +129,7 @@
 }
 ],
 "desc": "The claim that a second craft came down in July 1947 on the Plains of San Agustin, a graben basin in Catron and Socorro Counties, New Mexico, about 175 miles northwest of Roswell, best known today as the site of the Very Large Array. It rests on three testimonies: two second-hand accounts from Vern Maltais and Alice Knight relaying what the soil conservation engineer Grady L. 'Barney' Barnett had told them before his death in 1969, and one first-hand account from Gerald Anderson, who came forward in 1990 claiming to have been a five-year-old rockhounding there. The claim entered the literature through Berlitz and Moore's 'The Roswell Incident' (1980), was central to Friedman and Berliner's 'Crash at Corona' (1992), and forced the Roswell literature into two-crash and three-crash constructions to reconcile a debris field near Corona with an intact craft 175 miles away. It was substantially dismantled from inside the field: Mark Rodeghier of CUFOS and Fred Whiting of the Fund for UFO Research published 'The Plains of San Agustin Controversy' in 1992 concluding against Anderson. The Air Force's 1997 report offers a specific alternative reading - that Maltais and Knight, three decades on, may have confused the Plains of San Agustin with San Agustin Pass or San Agustin Peak in the San Agustin Mountains, just outside White Sands Missile Range and the Jornada Test Range, where numerous anthropomorphic dummy balloon flights terminated and were recovered by uniformed teams who told civilians to leave.",
-"domains": [
-"w2-retrieval-literature"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -136,7 +143,11 @@
 "label": "Plains of San Agustin claim, July 1947",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Plains of San Agustin claim, July 1947",
+"sourceFiles": [
+"w2-retrieval-literature"
+],
 "sources": [
 {
 "date": "1997-01-01",
@@ -156,6 +167,7 @@
 ],
 "sub": "Claimed second 1947 crash site, 175 miles northwest of Roswell",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 697 of 1170, score 25). 3 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A0/D1.",
-"timeline": []
+"tierRationale": "Re-graded C on a global pass (rank 696 of 1170, score 25). 3 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A0/D1.",
+"timeline": [],
+"unverified": []
 }

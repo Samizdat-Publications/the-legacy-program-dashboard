@@ -22,6 +22,9 @@
 ],
 "cls": "document",
 "cluster": "legacy",
+"conflicts": [
+"It names Minot AFB where the 24th NORAD Region's own Senior Director's Log of 10 November 1975 names Minot Air Force Station, a radar site. Nothing opened by this board resolves which installation the sequence means."
+],
 "connections": [
 {
 "claimTier": 1,
@@ -72,9 +75,7 @@
 "deg": 2,
 "denials": [],
 "desc": "THE MESSAGE THAT TIES THE 1975 SEQUENCE TOGETHER IN THE COMMAND'S OWN VOICE. On 11 November 1975 the Commander-in-Chief of North American Air Defense Command sent a four-part message to NORAD units summarising the events of the preceding fortnight. Its opening is the single most quoted sentence in the 1975 material and it is worth quoting in full because of the adjective it uses about its own witnesses. The message names five installations across two countries and, unlike the Loring traffic, it does not call the objects helicopters. It calls them suspicious objects, and it says its sources were reliable military personnel. It also names Minot AFB, where the 24th NORAD Region's own log nine days earlier had named Minot Air Force Station, which is the one internal inconsistency in the 1975 record that this board has found and cannot resolve.",
-"domains": [
-"nuclear-witnesses-2026-09-19"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "1",
@@ -88,7 +89,11 @@
 "label": "CINCNORAD four-part message, 11 November 1975",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "CINCNORAD four-part message, 11 November 1975",
+"sourceFiles": [
+"nuclear-witnesses-2026-09-19"
+],
 "sources": [
 {
 "date": "1975-11-11",
@@ -103,16 +108,20 @@
 ],
 "sub": "Commander-in-Chief NORAD's summary message to NORAD units naming the five installations where reliable military personnel had visually sighted suspicious objects",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 822 of 1170, score 21). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A3/D1.",
+"tierRationale": "Re-graded C on a global pass (rank 823 of 1170, score 21). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A3/D1.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1975-11-11",
+"grade": "A",
 "id": "tl-1975-11-11-cincnorad-message",
 "label": "CINCNORAD summarises the sequence across five installations",
 "precision": "day",
 "strand": "program",
-"text": "'Since 28 Oct 75 numerous reports of suspicious objects have been received at the NORAD CU; reliable military personnel at Loring AFB, Maine, Wurtsmith AFB, Michigan, Malmstrom AFB, Mt, Minot AFB, ND, and Canadian Forces Station, Falconbridge, Ontario, Canada have visually sighted suspicious objects.' The message names Minot AFB where the 24th NORAD Region's own log had named Minot Air Force Station the day before.",
-"tier": "A"
+"text": "'Since 28 Oct 75 numerous reports of suspicious objects have been received at the NORAD CU; reliable military personnel at Loring AFB, Maine, Wurtsmith AFB, Michigan, Malmstrom AFB, Mt, Minot AFB, ND, and Canadian Forces Station, Falconbridge, Ontario, Canada have visually sighted suspicious objects.' The message names Minot AFB where the 24th NORAD Region's own log had named Minot Air Force Station the day before."
 }
+],
+"unverified": [
+"The message itself, in facsimile or in full. NOT OPENED. Only excerpts, as reproduced by NICAP, have been read by this board. The four parts have not been seen."
 ]
 }

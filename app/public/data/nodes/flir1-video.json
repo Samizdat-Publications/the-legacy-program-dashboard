@@ -22,6 +22,7 @@
 ],
 "cls": "document",
 "cluster": "witness",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 3,
@@ -99,8 +100,8 @@
 {
 "claimTier": 1,
 "cls": "event",
-"dateEnd": null,
-"dateStart": null,
+"dateEnd": "2017",
+"dateStart": "2017",
 "direction": "out",
 "edgeLabel": "Published by the New York Times, reopening the subject",
 "id": "nyt-2017-12-16",
@@ -124,10 +125,7 @@
 "deg": 3,
 "denials": [],
 "desc": "The infrared targeting-pod footage captured by a VFA-41 F/A-18F on 14 November 2004 during a follow-on sortie after the Fravor/Dietrich intercept. It leaked without authorization in 2007, was published by the New York Times on 16 December 2017, and was formally released by the Department of Defense on 27 April 2020 with the statement that 'The aerial phenomena observed in the videos remain characterized as unidentified.' That release is the single most useful sentence in the government's public record on the aviator question: the Department authenticated the artefact and declined to explain it. FLIR1's provenance between November 2004 and 2007 has never been documented - there is no released chain of custody, no case file, and no Navy investigative record, consistent with Fravor's testimony that the incident 'was never investigated.' Notably, AARO's public case work has produced parallax rebuttals for GO FAST, Aguadilla and Mt Etna, but no published assessment of FLIR1.",
-"domains": [
-"_rs-archive-mirror",
-"aviators-incidents"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "2",
@@ -141,7 +139,12 @@
 "label": "FLIR1 (Nimitz ATFLIR video, 14 Nov 2004)",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "FLIR1 (Nimitz ATFLIR video, 14 Nov 2004)",
+"sourceFiles": [
+"_rs-archive-mirror",
+"aviators-incidents"
+],
 "sources": [
 {
 "date": "2026-08-02",
@@ -166,34 +169,38 @@
 ],
 "sub": "Officially released DoD UAP video",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 403 of 1170, score 34). 4 connections, 2 of them custody/funding/programmatic. Axes C2/A1/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 406 of 1170, score 34). 4 connections, 2 of them custody/funding/programmatic. Axes C2/A1/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2007-01-01",
+"grade": "A",
 "id": "av-2007-flir1",
 "label": "FLIR1 leaks without authorization",
 "precision": "year",
 "strand": "coverup",
-"text": "DoD's 2020 release statement acknowledges the videos circulated publicly following unauthorized disclosures in 2007 and 2017.",
-"tier": "A"
+"text": "DoD's 2020 release statement acknowledges the videos circulated publicly following unauthorized disclosures in 2007 and 2017."
 },
 {
+"claimTier": null,
 "date": "2017-12-16",
+"grade": "A",
 "id": "av-2017-12-16",
 "label": "FLIR1 published by the New York Times",
 "precision": "day",
 "strand": "witness",
-"text": "The Nimitz footage enters public circulation and reopens the entire subject.",
-"tier": "A"
+"text": "The Nimitz footage enters public circulation and reopens the entire subject."
 },
 {
+"claimTier": null,
 "date": "2020-04-27",
+"grade": "A",
 "id": "av-2020-04-27",
 "label": "DoD releases the three Navy videos",
 "precision": "day",
 "strand": "program",
-"text": "The Department authorizes release of FLIR1, GIMBAL and GO FAST, stating 'The aerial phenomena observed in the videos remain characterized as unidentified.'",
-"tier": "A"
+"text": "The Department authorizes release of FLIR1, GIMBAL and GO FAST, stating 'The aerial phenomena observed in the videos remain characterized as unidentified.'"
 }
-]
+],
+"unverified": []
 }

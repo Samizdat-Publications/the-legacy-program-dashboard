@@ -76,6 +76,14 @@
 "deg": 2,
 "denials": [
 {
+"a": {
+"id": "nicola-fox",
+"label": "Nicola J. Fox"
+},
+"b": {
+"id": "mark-mcinerney",
+"label": "Mark McInerney"
+},
 "by": {
 "id": "nicola-fox",
 "label": "Nicola J. Fox"
@@ -98,7 +106,8 @@
 }
 ],
 "domains": [
-"aviators-incidents"
+"d-aviators",
+"d-coverup"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -119,6 +128,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Mark McInerney",
+"sourceFiles": [
+"aviators-incidents"
+],
 "sources": [
 {
 "date": "2023-09-14",
@@ -134,7 +146,7 @@
 "status": "active",
 "sub": "NASA Director of UAP Research (announced unnamed, 14 Sept 2023)",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 1013 of 1170, score 14). 2 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D1.",
+"tierRationale": "Re-graded C on a global pass (rank 1014 of 1170, score 14). 2 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D1.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": [

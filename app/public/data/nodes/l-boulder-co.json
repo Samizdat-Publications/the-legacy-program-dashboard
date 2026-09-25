@@ -27,6 +27,7 @@
 ],
 "cls": "location",
 "cluster": "research",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -80,6 +81,14 @@
 "deg": 2,
 "denials": [
 {
+"a": {
+"id": "low-memo",
+"label": "Low Memorandum (\"the trick would be...\")"
+},
+"b": {
+"id": "l-boulder-co",
+"label": "Boulder, Colorado"
+},
 "by": {
 "id": "low-memo",
 "label": "Low Memorandum (\"the trick would be...\")"
@@ -102,9 +111,7 @@
 }
 ],
 "desc": "Boulder is where the United States government purchased the scientific verdict that closed the UFO question for a generation. In October 1966 the Air Force announced a contract with the University of Colorado at Boulder for an independent scientific study of unidentified flying objects, initially funded at $313,000 and eventually exceeding $500,000, directed by the physicist Edward U. Condon with Robert J. Low as coordinator. The project's integrity collapsed in public when James E. McDonald found in the project files, in July 1967, Low's internal memorandum of 9 August 1966 to university administrators proposing that the study be 'conducted almost entirely by non-believers' and present 'the image of a group of non-believers trying their best to be objective but having an almost zero expectation of finding a saucer.' David Saunders and Norman Levine were dismissed; litigation was threatened in both directions. The 1,485-page report was delivered to the Air Force in November 1968 and released publicly in January 1969, concluding that 'nothing has come from the study of UFOs in the past 21 years that has added to scientific knowledge.' A National Academy of Sciences panel chaired by Gerald M. Clemence endorsed it. On 17 December 1969 the Air Force terminated Project Blue Book, citing the Condon findings. Boulder therefore represents the mechanism this board is most concerned with after outright classification: a government agency funding an ostensibly independent academic body whose internal correspondence shows the conclusion was framed in advance, and then using that body's report as the legal and public justification for shutting down its own reporting channel. The Bolender memo of the same period establishes that reports affecting national security were never in Blue Book to begin with - which means the channel that was closed at Boulder's recommendation was not the channel that mattered.",
-"domains": [
-"w2-places-events"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -118,7 +125,11 @@
 "label": "Boulder, Colorado",
 "locLabel": "Boulder, Colorado, USA",
 "members": null,
+"openQuestions": [],
 "short": "Boulder, Colorado",
+"sourceFiles": [
+"w2-places-events"
+],
 "sources": [
 {
 "date": "2026-08-12",
@@ -133,25 +144,28 @@
 ],
 "sub": "University of Colorado Boulder; host of the Air Force-funded Condon Committee, 1966-1969",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 961 of 1170, score 17). 2 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 960 of 1170, score 17). 2 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D2.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1966-08-09",
+"grade": "A",
 "id": "tl-1966-condon",
 "label": "The conclusion is written before the study",
 "precision": "day",
 "strand": "coverup",
-"text": "Robert Low's memorandum proposes a study 'conducted almost entirely by non-believers' with 'almost zero expectation of finding a saucer'. McDonald finds it in the project files in July 1967.",
-"tier": "A"
+"text": "Robert Low's memorandum proposes a study 'conducted almost entirely by non-believers' with 'almost zero expectation of finding a saucer'. McDonald finds it in the project files in July 1967."
 },
 {
+"claimTier": null,
 "date": "1969-12-17",
+"grade": "A",
 "id": "tl-1969-bluebook",
 "label": "Blue Book is terminated on the Condon findings",
 "precision": "day",
 "strand": "coverup",
-"text": "The Air Force closes its public reporting channel citing the University of Colorado report. The Bolender memo of the same period records that reports affecting national security were never in that channel.",
-"tier": "A"
+"text": "The Air Force closes its public reporting channel citing the University of Colorado report. The Bolender memo of the same period records that reports affecting national security were never in that channel."
 }
-]
+],
+"unverified": []
 }

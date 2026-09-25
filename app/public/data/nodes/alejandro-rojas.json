@@ -54,7 +54,7 @@
 "deg": 1,
 "denials": [],
 "domains": [
-"releases-2023-2026"
+"d-disclosure"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -75,6 +75,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Alejandro Rojas",
+"sourceFiles": [
+"releases-2023-2026"
+],
 "sources": [
 {
 "date": "2026-05-14",

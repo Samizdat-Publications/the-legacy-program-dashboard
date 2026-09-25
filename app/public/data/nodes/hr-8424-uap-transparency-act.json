@@ -12,6 +12,7 @@
 ],
 "cls": "legislation",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -41,9 +42,7 @@
 "deg": 1,
 "denials": [],
 "desc": "The first UAP Transparency Act, introduced by Burchett on 16 May 2024, ten months after the founding hearing and two months after Burlison's call for a select committee. It died in referral with the 118th Congress and was refiled as H.R. 1187 in February 2025. Recorded here because the pattern - file, refer, die, refile - is the House's actual legislative history on this subject and the reason the caucus has increasingly moved its effort into letters, records demands and NDAA amendments instead of standalone bills.",
-"domains": [
-"congress-house"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "3",
@@ -57,7 +56,11 @@
 "label": "H.R. 8424 - UAP Transparency Act (118th Congress)",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "H.R. 8424 - UAP Transparency Act (118th Congress)",
+"sourceFiles": [
+"congress-house"
+],
 "sources": [
 {
 "date": "2024-05-16",
@@ -70,13 +73,15 @@
 "tierRationale": "Re-graded C on a global pass (rank 1167 of 1170, score 6). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D1.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2024-05-16",
+"grade": "C",
 "id": "ch-2024-05-16",
 "label": "First UAP Transparency Act",
 "precision": "day",
 "strand": "oversight",
-"text": "Burchett introduces H.R. 8424. It dies in referral.",
-"tier": "C"
+"text": "Burchett introduces H.R. 8424. It dies in referral."
 }
-]
+],
+"unverified": []
 }

@@ -57,6 +57,7 @@
 ],
 "cls": "event",
 "cluster": "legacy",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -251,6 +252,14 @@
 "deg": 6,
 "denials": [
 {
+"a": {
+"id": "otavio-moreira-lima",
+"label": "Brigadeiro Octávio Júlio Moreira Lima"
+},
+"b": {
+"id": "ev-noite-ovnis-1986",
+"label": "Noite Oficial dos OVNIs - the Brazilian 'Night of the UFOs', 19 May 1986"
+},
 "by": {
 "id": "otavio-moreira-lima",
 "label": "Brigadeiro Octávio Júlio Moreira Lima"
@@ -273,10 +282,7 @@
 }
 ],
 "desc": "On the night of 19 May 1986 Brazilian air traffic control, the CINDACTA integrated air defence and traffic control network and the Brazilian Air Force engaged twenty-one unidentified radar plots over São Paulo, Rio de Janeiro, Minas Gerais and Goiás. The sequence, as reconstructed by the Air Defence Command's own report and by BBC Brasil, begins at about 20:00 when air traffic controller Sérgio Mota da Silva at São José dos Campos airport saw stationary multicoloured lights; when he dimmed the runway lights the objects approached, and when he raised them they withdrew. At 21:08 an Embraer Xingu, registration PT-MBZ, flown by Colonel Ozires Silva - the founder of Embraer, returning from a meeting with President José Sarney and due to take office as president of Petrobras the following day - reported large red lights and attempted an unsuccessful approach. Santa Cruz Air Base went to alert at 21:39 and Anápolis shortly afterwards. Five fighters were launched: F-5E FAB-4848 flown by Lieutenant Kleber Caldas Marinho at 22:34 and F-5E FAB-4849 flown by Captain Márcio Brisolla Jordão at 22:50 from Santa Cruz; Mirage IIIEs of the 1st Air Defence Group 'Jaguar' from Anápolis including one flown by Captain Armindo Sousa Viriato de Freitas, plus FAB-4918 (Captain Rodolfo Silva e Souza, 23:17) and FAB-4917 (Captain Júlio Cézar Rozemberg, 23:46). The mission ordered was non-aggressive interception. One F-5 pilot tracked a light that climbed to 33,000 feet while changing from white to red to green, held 10 to 12 miles off, and was followed 180 miles out to sea until bingo fuel. Thirteen radar plots appeared behind the second F-5, which turned 180 degrees and saw nothing. A Mirage closed to two miles of a contact that zigzagged and then accelerated away while the interceptor was already supersonic; in a 1993 TV Globo interview the pilot estimated the object's speed at Mach 15. The objects overflew the National Institute for Space Research and the Aerospace Technical Centre at São José dos Campos and the Air Force Academy at Pirassununga.",
-"domains": [
-"w11-brazil-harden",
-"w2-international"
-],
+"domains": [],
 "dossier": {
 "claims": [
 {
@@ -388,7 +394,12 @@
 "label": "Noite Oficial dos OVNIs - the Brazilian 'Night of the UFOs', 19 May 1986",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Noite Oficial dos OVNIs - the Brazilian 'Night of the UFOs', 19 May 1986",
+"sourceFiles": [
+"w11-brazil-harden",
+"w2-international"
+],
 "sources": [
 {
 "date": null,
@@ -421,13 +432,15 @@
 "tierRationale": "Re-graded A on a global pass (rank 133 of 1170, score 55). 6 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D3.",
 "timeline": [
 {
+"claimTier": 1,
 "date": "1986-05-19",
+"grade": null,
 "id": "tl-intl-1986-noite",
 "label": "The Brazilian 'Night of the UFOs'",
 "precision": "day",
 "strand": "witness",
-"text": "Twenty-one unidentified radar plots over four Brazilian states. Five Brazilian Air Force fighters are scrambled from Santa Cruz and Anápolis. One Mirage closes to two miles of a contact that zigzags and then accelerates away from a supersonic interceptor; the pilot later estimates Mach 15. Thirteen plots appear astern of an F-5 which turns 180 degrees and sees nothing.",
-"tier": 1
+"text": "Twenty-one unidentified radar plots over four Brazilian states. Five Brazilian Air Force fighters are scrambled from Santa Cruz and Anápolis. One Mirage closes to two miles of a contact that zigzags and then accelerates away from a supersonic interceptor; the pilot later estimates Mach 15. Thirteen plots appear astern of an F-5 which turns 180 degrees and sees nothing."
 }
-]
+],
+"unverified": []
 }

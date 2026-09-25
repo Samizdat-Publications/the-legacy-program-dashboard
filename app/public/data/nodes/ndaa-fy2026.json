@@ -77,6 +77,7 @@
 ],
 "cls": "legislation",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -202,7 +203,7 @@
 "edgeLabel": "Not renewed; the funding bar has lapsed since FY2024",
 "id": "pl118-31-sec-1687",
 "l0": false,
-"label": "P.L. 118-31 Sec. 1687 — limitation on funds for unreported programs",
+"label": "P.L. 118-31 Sec. 1687 - limitation on funds for unreported programs",
 "note": "Sec. 1687 restricts only funds authorised by the FY2024 Act; neither P.L. 118-159 nor P.L. 119-60 contains the phrase 'special access or restricted access'.",
 "sources": [
 {
@@ -304,18 +305,20 @@
 "deg": 9,
 "denials": [
 {
-"by": {
+"a": {
 "id": "ndaa-fy2026",
 "label": "FY2026 NDAA, Public Law 119-60 - secs. 1671-1673, NORAD/NORTHCOM intercept briefings and UAP classification-guide accounting"
 },
+"b": {
+"id": "uapda-2023",
+"label": "UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)"
+},
+"by": null,
 "claimTier": 1,
 "denialKind": "undirected",
 "label": "Third consecutive Act enacted without the Senate's own passed text",
 "note": "P.L. 119-60 contains no instance of 'eminent domain', 'non-human', 'legacy program' or 'reverse engineer'.",
-"of": {
-"id": "uapda-2023",
-"label": "UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)"
-},
+"of": null,
 "sources": [
 {
 "date": "2025-12-18",
@@ -331,10 +334,7 @@
 }
 ],
 "desc": "The FY2026 NDAA shows the disclosure agenda reduced to housekeeping and the oversight machinery beginning to be dismantled. P.L. 119-60, approved 18 December 2025, contains a Subtitle E of Title XVI headed 'Matters Relating to Unidentified Anomalous Phenomena' with three sections. Sec. 1671 amends 50 U.S.C. 3373(l) to require that AARO's briefings include details of any UAP intercepts conducted by NORAD or United States Northern Command, with the first such briefing required to reach back over intercepts 'that occurred during the period beginning on January 1, 2004' — Congress choosing the year of the Nimitz encounters as its retroactive floor. Sec. 1672 repeals Sec. 413 of the IAA FY2022, codified at 50 U.S.C. 3373a, and rewrites the data-availability clause so that intelligence and DoD components must make UAP data available 'immediately' to AARO. Sec. 1673 orders the AARO Director within 180 days to make an accounting of the security classification guides applying to UAP reporting and permits issuance of a consolidated security classification matrix — a direct probe at the classification architecture itself. What the Act does not contain is as important: zero instances of 'eminent domain', 'non-human', 'legacy program' or 'reverse engineer'; no Review Board; and, critically, no renewal of the Sec. 1687 or Sec. 7343 funding limitations. Those were one-year restrictions on funds authorised by the FY2024 Act. They were not renewed in FY2025 and were not renewed here, so the statutory bar on funding undisclosed UAP special access programmes has now lapsed for two consecutive authorisation cycles. The Intelligence Authorization Act for FY2026 that rides in Division F contains no UAP provisions at all.",
-"domains": [
-"_rs-legislation",
-"congress-senate-legislation"
-],
+"domains": [],
 "dossier": {
 "claims": [
 {
@@ -469,7 +469,7 @@
 {
 "cls": "legislation",
 "id": "pl118-31-sec-1687",
-"label": "P.L. 118-31 Sec. 1687 — limitation on funds for unreported programs",
+"label": "P.L. 118-31 Sec. 1687 - limitation on funds for unreported programs",
 "tier": "A"
 },
 {
@@ -479,7 +479,12 @@
 "tier": "B"
 }
 ],
+"openQuestions": [],
 "short": "FY2026 NDAA, Public Law 119-60",
+"sourceFiles": [
+"_rs-legislation",
+"congress-senate-legislation"
+],
 "sources": [
 {
 "date": "2025-12-18",
@@ -502,40 +507,45 @@
 "tierRationale": "Re-graded A on a global pass (rank 91 of 1170, score 66). 9 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D1.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2025-07-15",
+"grade": "B",
 "id": "cl-2025-07-15",
 "label": "Gillibrand's FY2026 claim",
 "precision": "day",
 "strand": "oversight",
-"text": "Gillibrand announces her FY2026 defense bill wins; her only UAP item is 'language to update congressional briefing requirements for UAP.'",
-"tier": "B"
+"text": "Gillibrand announces her FY2026 defense bill wins; her only UAP item is 'language to update congressional briefing requirements for UAP.'"
 },
 {
+"claimTier": null,
 "date": "2025-12-11",
+"grade": "A",
 "id": "cl-2025-12-11",
 "label": "No open amendment process",
 "precision": "day",
 "strand": "coverup",
-"text": "The FY2026 NDAA is moved with seventeen amendments in total; the only Senate floor amendment proposed is a leadership amendment by Senator Thune 'to improve the bill.' There is no process in which the UAPDA could be offered.",
-"tier": "A"
+"text": "The FY2026 NDAA is moved with seventeen amendments in total; the only Senate floor amendment proposed is a leadership amendment by Senator Thune 'to improve the bill.' There is no process in which the UAPDA could be offered."
 },
 {
+"claimTier": null,
 "date": "2025-12-18",
+"grade": "A",
 "id": "cl-2025-12-18",
 "label": "FY2026 enacted; funding bar lapses again",
 "precision": "day",
 "strand": "coverup",
-"text": "P.L. 119-60 carries a three-section housekeeping subtitle: intercept briefings back to 2004, repeal of a duplicative report, and an accounting of classification guides. No Review Board, no eminent domain, and for the second consecutive year no funding bar on undisclosed UAP special access programmes.",
-"tier": "A"
+"text": "P.L. 119-60 carries a three-section housekeeping subtitle: intercept briefings back to 2004, repeal of a duplicative report, and an accounting of classification guides. No Review Board, no eminent domain, and for the second consecutive year no funding bar on undisclosed UAP special access programmes."
 },
 {
+"claimTier": null,
 "date": "2025-12-18",
+"grade": "A",
 "id": "tl-2025-12-18-pl11960",
 "label": "FY2026 NDAA orders a NORAD/NORTHCOM intercept accounting back to 2004",
 "precision": "day",
 "strand": "program",
-"text": "Public Law 119-60 is approved. Sec. 1671 requires every AARO briefing to detail UAP intercepts flown by NORAD or USNORTHCOM and requires the first such briefing to reach back to 1 January 2004 for intercepts 'not previously provided'. Sec. 1672 repeals 50 U.S.C. 3373a and adds a sources-and-methods qualifier to the immediate-data-availability mandate. Sec. 1673 orders an accounting of the security classification guides governing UAP information and authorises a consolidated UAP classification matrix.",
-"tier": "A"
+"text": "Public Law 119-60 is approved. Sec. 1671 requires every AARO briefing to detail UAP intercepts flown by NORAD or USNORTHCOM and requires the first such briefing to reach back to 1 January 2004 for intercepts 'not previously provided'. Sec. 1672 repeals 50 U.S.C. 3373a and adds a sources-and-methods qualifier to the immediate-data-availability mandate. Sec. 1673 orders an accounting of the security classification guides governing UAP information and authorises a consolidated UAP classification matrix."
 }
-]
+],
+"unverified": []
 }

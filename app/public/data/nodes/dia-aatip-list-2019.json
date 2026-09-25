@@ -12,6 +12,7 @@
 ],
 "cls": "document",
 "cluster": "ic",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -72,9 +73,7 @@
 "deg": 2,
 "denials": [],
 "desc": "On 16 January 2019 the Defense Intelligence Agency responded to a FOIA request from Steven Aftergood, director of the Federation of American Scientists' Project on Government Secrecy, with a letter listing 38 research titles funded by the Advanced Aerospace Threat Identification Program between 2007 and 2012 at a cost of approximately $22 million. The same list had been provided to Congress in January 2018. FAS published it the following day. Its importance is that it converted an oral controversy into an enumerated procurement record: whatever else AATIP/AAWSAP was, it was an organisation that bought 38 named technical studies on wormholes, warp drive, invisibility cloaking, metamaterials, metallic glasses, programmable matter, negative mass propulsion and clinical injury pathology. Aftergood's own comment - that the contract 'sounds like it was a good deal for the contractor' but that it would be hard to argue the military or the public got their money's worth - is the standard sceptical reading, and it is worth recording precisely because the same release is the primary evidence for the programme's subject matter.",
-"domains": [
-"scientists-technical"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "3",
@@ -88,7 +87,11 @@
 "label": "DIA letter to Steven Aftergood listing 38 AATIP reference products (16 January 2019)",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "DIA letter to Steven Aftergood listing 38 AATIP reference products (16 January 2019)",
+"sourceFiles": [
+"scientists-technical"
+],
 "sources": [
 {
 "date": "2019-01-17",
@@ -108,16 +111,18 @@
 ],
 "sub": "FOIA release; the first official enumeration of what the programme actually paid for",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 825 of 1170, score 21). 2 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 826 of 1170, score 21). 2 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2019-01-16",
+"grade": "A",
 "id": "st-2019-01-16",
 "label": "DIA releases the 38-title list",
 "precision": "day",
 "strand": "oversight",
-"text": "DIA responds to Steven Aftergood's FOIA request with the list of 38 AATIP research titles funded 2007-2012 at approximately $22 million, previously provided to Congress in January 2018.",
-"tier": "A"
+"text": "DIA responds to Steven Aftergood's FOIA request with the list of 38 AATIP research titles funded 2007-2012 at approximately $22 million, previously provided to Congress in January 2018."
 }
-]
+],
+"unverified": []
 }

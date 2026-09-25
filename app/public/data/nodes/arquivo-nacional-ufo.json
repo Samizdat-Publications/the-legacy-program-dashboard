@@ -72,6 +72,7 @@
 ],
 "cls": "institution",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -141,7 +142,23 @@
 "date": null,
 "name": "https://www.cnnbrasil.com.br/ciencia/pilotos-e-controladores-relataram-18-casos-de-ovnis-no-brasil-em-2025/",
 "url": "https://www.cnnbrasil.com.br/ciencia/pilotos-e-controladores-relataram-18-casos-de-ovnis-no-brasil-em-2025/"
+}
+],
+"tier": "A",
+"type": "institutional"
 },
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "",
+"id": "fab",
+"l0": true,
+"label": "Força Aérea Brasileira / Ministério da Aeronáutica",
+"note": "The transfer obligation is what links them. Portaria no. 551/GC3 of 9 August 2010, Art. 3, requires CENDOC to send originals to the Arquivo Nacional 'periodicamente', which is why the fund has no terminal year. The operative text is transcribed in a federal court judgment, and the DOU publication is attested by citation in a Chamber of Deputies information requirement.",
+"sources": [
 {
 "date": "1986-06-02",
 "name": "Relatório de Ocorrências (Arquivo Nacional)",
@@ -280,27 +297,6 @@
 "type": "institutional"
 },
 {
-"claimTier": 2,
-"cls": "program",
-"dateEnd": null,
-"dateStart": "1990s",
-"direction": "in",
-"edgeLabel": "official documents held by the National Archives",
-"id": "operacao-prato",
-"l0": true,
-"label": "Operação Prato (Operation Saucer)",
-"note": "The operation's files were released and are served through the Arquivo Nacional's information system.",
-"sources": [
-{
-"date": "2026-01-01",
-"name": "Operação Prato - Wikipedia",
-"url": "https://en.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Prato"
-}
-],
-"tier": "A",
-"type": "custody"
-},
-{
 "claimTier": 1,
 "cls": "program",
 "dateEnd": null,
@@ -322,6 +318,27 @@
 "name": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=891762&filename=RIC+679%2F2011",
 "url": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=891762&filename=RIC+679%2F2011"
 },
+{
+"date": "2026-01-01",
+"name": "Operação Prato - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Prato"
+}
+],
+"tier": "A",
+"type": "custody"
+},
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "",
+"id": "operacao-prato",
+"l0": true,
+"label": "Operação Prato (Operation Saucer)",
+"note": "The Arquivo holds and serves the operation's files. Its own answer to a litigant, quoted verbatim in the 2023 federal judgment, reports that a SIAN search on the term 'operacao prato' returns six documents, none audiovisual. No SIAN item numbers were ever obtained and none are asserted here.",
+"sources": [
 {
 "date": "2026-01-01",
 "name": "Operação Prato - Wikipedia",
@@ -410,11 +427,7 @@
 "deg": 8,
 "denials": [],
 "desc": "From 2009 the Brazilian Air Force transferred its UAP holdings to the Arquivo Nacional, the Brazilian National Archives, where they are served through the SIAN online image system with full archival references and downloadable page images - a materially more open arrangement than the paid-download model The National Archives at Kew used for the equivalent British files. The release began with the September 2009 declassification of the 1986 Air Defence Command report and continued through 2010, when O Estado de S. Paulo reported on 14 August 2010 that the Aeronáutica had released documents on UFO appearances and the news agency EFE reported on 10 August 2010 that the Air Force had created rules for pilots in case of contact with UFOs. The Air Force's own position, given to BBC Brasil, is that all material available on UFOs has already been sent to the Arquivo Nacional and that it 'does not have specialised professionals to carry out scientific investigations or to issue an opinion about this type of aerial phenomenon' - a denial that also functions as a permanent transfer of the question out of the military and into the archive. As of January 2022 the UFO collection was the second most consulted holding in the Arquivo Nacional, behind only the records of the military dictatorship, and spanned sixty-four years, from the 1952 Barra da Tijuca photographs published by O Cruzeiro to a 2016 Brazilian Air Force pilot sighting report.",
-"domains": [
-"w10-brazil",
-"w11-brazil-harden",
-"w2-international"
-],
+"domains": [],
 "dossier": {
 "claims": [
 {
@@ -538,7 +551,13 @@
 "tier": "C"
 }
 ],
+"openQuestions": [],
 "short": "Arquivo Nacional (Brazil)",
+"sourceFiles": [
+"w10-brazil",
+"w11-brazil-harden",
+"w2-international"
+],
 "sources": [
 {
 "date": null,
@@ -593,16 +612,18 @@
 ],
 "sub": "Arquivo Nacional (Brazil), Fundo Objeto Voador Não Identificado – OVNI, reference BR DFANBSB ARX, 743 registros, produced by the Comando da Aeronáutica",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 70 of 1170, score 73). 10 connections, 6 of them custody/funding/programmatic. Axes C1/A0/D3.",
+"tierRationale": "Re-graded A on a global pass (rank 67 of 1170, score 74). 11 connections, 6 of them custody/funding/programmatic. Axes C1/A0/D3.",
 "timeline": [
 {
+"claimTier": 2,
 "date": "2009-09-25",
+"grade": null,
 "id": "tl-intl-2009-brazil",
 "label": "Brazil declassifies the 1986 report",
 "precision": "day",
 "strand": "oversight",
-"text": "The Air Defence Command report of 2 June 1986 is released to the Arquivo Nacional. The Brazilian Air Force begins transferring its whole UAP holding to the National Archives; by 2022 it is the second most consulted collection there, behind only the records of the military dictatorship.",
-"tier": 2
+"text": "The Air Defence Command report of 2 June 1986 is released to the Arquivo Nacional. The Brazilian Air Force begins transferring its whole UAP holding to the National Archives; by 2022 it is the second most consulted collection there, behind only the records of the military dictatorship."
 }
-]
+],
+"unverified": []
 }

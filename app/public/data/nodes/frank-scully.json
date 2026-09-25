@@ -96,7 +96,8 @@
 "deg": 1,
 "denials": [],
 "domains": [
-"w2-retrieval-literature"
+"d-recovery",
+"d-media"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -117,6 +118,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Frank Scully",
+"sourceFiles": [
+"w2-retrieval-literature"
+],
 "sources": [
 {
 "date": "2026-08-12",
@@ -135,13 +139,14 @@
 "tierRationale": "Re-graded C on a global pass (rank 1093 of 1170, score 11). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1949",
+"grade": "B",
 "id": "tl-1949-scully",
 "label": "Scully's Variety columns",
 "precision": "year",
 "strand": "coverup",
-"text": "Frank Scully publishes two Variety columns describing a recovered saucer and dead occupants, sourced to Silas M. Newton and Leo A. Gebauer.",
-"tier": "B"
+"text": "Frank Scully publishes two Variety columns describing a recovered saucer and dead occupants, sourced to Silas M. Newton and Leo A. Gebauer."
 }
 ],
 "unexplainedResidual": null,

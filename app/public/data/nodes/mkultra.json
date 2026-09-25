@@ -37,6 +37,7 @@
 ],
 "cls": "program",
 "cluster": "ic",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -234,9 +235,7 @@
 "deg": 9,
 "denials": [],
 "desc": "MKULTRA is the documented American precedent for everything this board argues about compartmented programmes and their records. It was authorized by the Director of Central Intelligence in April 1953 as a funding mechanism whose normal procedures for project approval, funding and accounting were waived, and it ran through 149 numbered subprojects at universities, foundations, hospitals and prisons that were in most cases not told whose money it was. Its own Inspector General wrote in 1963 that the practice was to keep no records of the planning and approval of test programmes. In January 1973 the surviving files were destroyed on a verbal order. What defeated the destruction was an administrative accident: one branch's Budget and Fiscal Section had sent its finance folders to the Retired Records Center in 1970 in a departure from normal procedure that the Agency itself could not later explain, and those seven boxes were found in 1977 by an employee working a Freedom of Information Act request. The board's own MKULTRA hearing node argues from this programme without carrying it.",
-"domains": [
-"dannyjones-2026-09-03"
-],
+"domains": [],
 "dossier": {
 "claims": [
 {
@@ -328,7 +327,11 @@
 "tier": "B"
 }
 ],
+"openQuestions": [],
 "short": "Project MKULTRA",
+"sourceFiles": [
+"dannyjones-2026-09-03"
+],
 "sources": [
 {
 "date": "1977-08-03",
@@ -343,6 +346,7 @@
 ],
 "sub": "CIA umbrella project for research and development of materials to control human behavior; authorized by DCI Dulles 13 April 1953, records destroyed January 1973",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 160 of 1170, score 51). 9 connections, 4 of them custody/funding/programmatic. Axes C0/A3/D2.",
-"timeline": []
+"tierRationale": "Re-graded A on a global pass (rank 159 of 1170, score 51). 9 connections, 4 of them custody/funding/programmatic. Axes C0/A3/D2.",
+"timeline": [],
+"unverified": []
 }

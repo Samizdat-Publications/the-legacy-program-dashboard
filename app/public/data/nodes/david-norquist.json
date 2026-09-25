@@ -93,9 +93,9 @@
 "deg": 2,
 "denials": [],
 "domains": [
-"_rs-archive-mirror",
-"uaptf-aaro",
-"w2-black-budget"
+"d-oversight",
+"d-funding",
+"d-structure"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -116,6 +116,11 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "David L. Norquist",
+"sourceFiles": [
+"_rs-archive-mirror",
+"uaptf-aaro",
+"w2-black-budget"
+],
 "sources": [
 {
 "date": "2026-05-19",
@@ -141,16 +146,17 @@
 "status": "former",
 "sub": "Deputy Secretary of Defense (2019-2021); approved the UAP Task Force",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 703 of 1170, score 24). 2 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 702 of 1170, score 24). 2 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D2.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2018-11",
+"grade": "A",
 "id": "bb-tl-2018-11-audit1",
 "label": "First full-scope DoD audit: disclaimer of opinion",
 "precision": "month",
 "strand": "oversight",
-"text": "David L. Norquist, Under Secretary of Defense (Comptroller) and Chief Financial Officer, writes in the FY2018 Agency Financial Report: 'In FY 2018, the Department underwent its first full-scope financial statement audit. As anticipated, our independent auditor, the Department of Defense Office of Inspector General, issued a Disclaimer of Opinion as the result of the audit.' It will be the first of eight.",
-"tier": "A"
+"text": "David L. Norquist, Under Secretary of Defense (Comptroller) and Chief Financial Officer, writes in the FY2018 Agency Financial Report: 'In FY 2018, the Department underwent its first full-scope financial statement audit. As anticipated, our independent auditor, the Department of Defense Office of Inspector General, issued a Disclaimer of Opinion as the result of the audit.' It will be the first of eight."
 }
 ],
 "unexplainedResidual": null,

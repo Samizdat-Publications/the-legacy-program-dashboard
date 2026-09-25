@@ -161,7 +161,7 @@
 "url": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html"
 }
 ],
-"tier": "C",
+"tier": "B",
 "type": "research"
 },
 {
@@ -268,12 +268,7 @@
 "dateStart": "2010-12-15",
 "deg": 5,
 "denials": [],
-"domains": [
-"w17-wayne-etrd",
-"w7-dirds-2",
-"w7-dirds-3",
-"w7-dirds-4"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "2",
@@ -293,6 +288,12 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Richard J. Genik II",
+"sourceFiles": [
+"w17-wayne-etrd",
+"w7-dirds-2",
+"w7-dirds-3",
+"w7-dirds-4"
+],
 "sources": [
 {
 "date": null,

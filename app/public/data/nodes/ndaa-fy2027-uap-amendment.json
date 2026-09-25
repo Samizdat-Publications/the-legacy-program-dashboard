@@ -22,6 +22,7 @@
 ],
 "cls": "legislation",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -93,9 +94,7 @@
 "deg": 3,
 "denials": [],
 "desc": "The legislative instrument that would close the FFRDC seam, and the reason the MITRE inquiry matters beyond one letter. Rep. Eric Burlison's revised UAP Disclosure Amendment was designated 'Version 2' on 15 July 2026, made in order by the House Rules Committee, and adopted by the House as part of the Fiscal Year 2027 National Defense Authorization Act in late July 2026. It would require federal agencies to identify, preserve and transfer UAP records to the National Archives on a statutory timeline, establish a permanent UAP records collection there, and create an independent UAP Records Review Board with Senate-confirmed members and subpoena authority to determine what is released and what stays classified. Critically for this domain, its disclosure requirements extend to certain government contractors that possess covered records - the provision that would convert FFRDC holdings from contractor records outside FOIA into covered federal records subject to a statutory review board. Burlison's stated rationale: 'The government belongs to the American people. For too long, UAP records have remained scattered.' The bill still has to survive the Senate and conference. Whether the contractor-records provision survives intact is the single most important open question on this board, because it is the only mechanism anyone has proposed that would reach inside an FFRDC without the sponsoring agency's consent.",
-"domains": [
-"ffrdcs"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "3",
@@ -109,7 +108,11 @@
 "label": "Burlison UAP Records Disclosure Amendment, FY2027 NDAA",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Burlison UAP Records Disclosure Amendment, FY2027 NDAA",
+"sourceFiles": [
+"ffrdcs"
+],
 "sources": [
 {
 "date": "2026-07-23",
@@ -124,16 +127,18 @@
 ],
 "sub": "House-adopted amendment, July 2026; revised text designated Version 2, 15 July 2026, made in order by the House Rules Committee",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 949 of 1170, score 17). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 948 of 1170, score 17). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2026-07-23",
+"grade": "A",
 "id": "tl-ffrdc-2026-amendment",
 "label": "House adopts the Burlison UAP records amendment",
 "precision": "day",
 "strand": "oversight",
-"text": "Attached to the FY2027 NDAA, it would require transfer of UAP records to NARA on a statutory timeline, create a Senate-confirmed Review Board with subpoena power, and extend disclosure duties to certain contractors holding covered records.",
-"tier": "A"
+"text": "Attached to the FY2027 NDAA, it would require transfer of UAP records to NARA on a statutory timeline, create a Senate-confirmed Review Board with subpoena power, and extend disclosure duties to certain contractors holding covered records."
 }
-]
+],
+"unverified": []
 }

@@ -57,6 +57,7 @@
 ],
 "cls": "location",
 "cluster": "contractor",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -287,12 +288,7 @@
 "deg": 7,
 "denials": [],
 "desc": "Skinwalker Ranch is a property of approximately 512 acres in Uintah County, Utah, southeast of Ballard and bordering the Uintah and Ouray Indian Reservation, at roughly 40 degrees 15 minutes north, 109 degrees 53 minutes west. Kenneth and Edith Myers held it from 1934 to 1994; Terry and Gwen Sherman bought it in 1994 and sold it in 1996; Robert Bigelow bought it for $200,000 in 1996 and sold it for about $500,000 in 2016 to Brandon Fugal, who announced his ownership through the Delaware entity Adamantium Real Estate LLC in March 2020. Its importance to this board is entirely institutional. Under Bigelow the property became the field site of the National Institute for Discovery Science, whose investigators included retired Army Col. John B. Alexander and biochemist Colm A. Kelleher and who logged close to a hundred incidents while conceding they could not obtain evidence to a publishable standard. The line that runs from this ranch into the federal government is documented and is the reason the location matters: DIA official Dr. James Lacatski read Kelleher and George Knapp's 2005 book 'Hunt for the Skinwalker', contacted Bigelow, visited the ranch, and reported an experience there; Bigelow relayed this to Sen. Harry Reid; Reid, with Sens. Ted Stevens and Daniel Inouye, arranged roughly $22 million in Defense Department appropriations for what became the Advanced Aerospace Weapon System Applications Program. Bigelow's company BAASS won the AAWSAP contract, stood up around fifty full-time investigators with top secret clearances in a matter of months, ran for 27 months, produced more than three dozen preliminary reports and over a hundred detailed papers, and built a data warehouse of more than 240,000 case files designed by Jacques Vallee that Knapp testified in September 2025 remains in use by US agencies. A private ranch in eastern Utah is therefore the physical origin point of the largest US government UAP investigation of the modern era, and the majority of what that investigation produced has never been released by DIA.",
-"domains": [
-"_rs-archive-mirror",
-"aawsap-aatip",
-"history-1970s-2000s",
-"w2-places-events"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "1",
@@ -306,7 +302,14 @@
 "label": "Skinwalker Ranch, Uintah Basin, Utah",
 "locLabel": "Uintah County, Utah, USA",
 "members": null,
+"openQuestions": [],
 "short": "Skinwalker Ranch, Uintah Basin, Utah",
+"sourceFiles": [
+"_rs-archive-mirror",
+"aawsap-aatip",
+"history-1970s-2000s",
+"w2-places-events"
+],
 "sources": [
 {
 "date": "2026-07-05",
@@ -364,22 +367,25 @@
 "tierRationale": "Re-graded A on a global pass (rank 92 of 1170, score 65). 9 connections, 4 of them custody/funding/programmatic. Axes C3/A2/D2.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1996-01-01",
+"grade": "A",
 "id": "t-1996-skinwalker",
 "label": "Bigelow buys Skinwalker Ranch",
 "precision": "year",
 "strand": "program",
-"text": "The 480-acre Sherman property in Uintah County, Utah is purchased with a condition that the sellers keep quiet about what they had witnessed; a research team and surveillance equipment move in.",
-"tier": "A"
+"text": "The 480-acre Sherman property in Uintah County, Utah is purchased with a condition that the sellers keep quiet about what they had witnessed; a research team and surveillance equipment move in."
 },
 {
+"claimTier": null,
 "date": "1996-01-01",
+"grade": "A",
 "id": "tl-1996-ranch",
 "label": "Bigelow buys the Utah ranch",
 "precision": "year",
 "strand": "program",
-"text": "Bigelow purchases the Uintah Basin property later known as Skinwalker Ranch and begins instrumented NIDS study under Colm Kelleher.",
-"tier": "A"
+"text": "Bigelow purchases the Uintah Basin property later known as Skinwalker Ranch and begins instrumented NIDS study under Colm Kelleher."
 }
-]
+],
+"unverified": []
 }

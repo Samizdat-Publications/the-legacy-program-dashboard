@@ -71,7 +71,9 @@
 "deg": 2,
 "denials": [],
 "domains": [
-"nuclear-witnesses-2026-09-19"
+"d-nuclear",
+"d-nuc",
+"d-witness"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -92,6 +94,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Capt. Bruce Fenstermacher",
+"sourceFiles": [
+"nuclear-witnesses-2026-09-19"
+],
 "sources": [
 {
 "date": "2010-09-27",

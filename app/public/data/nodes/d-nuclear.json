@@ -37,6 +37,7 @@
 ],
 "cls": "domain",
 "cluster": "other",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -108,12 +109,7 @@
 "deg": 3,
 "denials": [],
 "desc": "The Atomic Energy Act creates the only category of information in American law that is classified from the instant it comes into existence, without any official act: Restricted Data, covering the design, manufacture and use of nuclear weapons and the production of special nuclear material. That regime is administered by the Department of Energy and the National Nuclear Security Administration rather than by the Department of Defense, runs on its own clearance system - Q and L access authorisations - and reports to different congressional committees. For a concealment architecture this is an alternative channel of considerable value: material characterised at a national laboratory under Restricted Data controls is protected by a statute rather than an executive order, is outside the SAP notification framework of 10 U.S.C. 119, and is audited by a different set of overseers. The documented convergence is that the laboratories that would perform the analysis - Los Alamos, Sandia, Oak Ridge, Livermore - are precisely the DOE complex, and AARO's own January 2026 materials analysis was in fact performed by Oak Ridge National Laboratory. Scoring high on this domain means an entity held Q clearance, worked the DOE complex, or exercised Restricted Data authority.",
-"domains": [
-"_rs-archive-mirror",
-"_stubs",
-"nuclear-witnesses-2026-09-19",
-"w2-taxonomy"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -127,7 +123,14 @@
 "label": "Nuclear Security & Restricted Data",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Nuclear Security & Restricted Data",
+"sourceFiles": [
+"_rs-archive-mirror",
+"_stubs",
+"nuclear-witnesses-2026-09-19",
+"w2-taxonomy"
+],
 "sources": [
 {
 "date": "2026-05-08",
@@ -202,6 +205,7 @@
 ],
 "sub": "Legal-technical domain - the 'born classified' regime and its use as an alternative concealment channel",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 282 of 1170, score 40). 3 connections, 2 of them custody/funding/programmatic. Axes C2/A3/D1.",
-"timeline": []
+"tierRationale": "Re-graded B on a global pass (rank 280 of 1170, score 40). 3 connections, 2 of them custody/funding/programmatic. Axes C2/A3/D1.",
+"timeline": [],
+"unverified": []
 }

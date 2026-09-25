@@ -52,6 +52,9 @@
 ],
 "cls": "event",
 "cluster": "oversight",
+"conflicts": [
+"The FAA's March 1987 finding of an uncorrelated primary and beacon return, and Callahan's account of a briefing at which the data was treated as significant enough to be classified by the CIA, are not the same story about the same evidence. The board carries both: the press release is Tier 1 from the agency, the briefing is Tier 2 from one participant."
+],
 "connections": [
 {
 "claimTier": 1,
@@ -185,9 +188,7 @@
 "deg": 5,
 "denials": [],
 "desc": "THIS IS THE NODE IN THIS CLUSTER WITH A REAL AGENCY RECORD, AND IT SHOULD CARRY MORE WEIGHT THAN THE WITNESS BESIDE IT. On the evening of 17 November 1986 a Japan Air Lines 747 crossing Alaskan airspace reported an object accompanying it; the FAA investigated, and the paper it generated survives in volume. The Black Vault asked for it in May 2001 and was told in a letter of 27 June 2001 that everything would be destroyed within thirty days; asked again in 2009 and was told it had been destroyed; and then found over 1,500 pages of it at the National Archives in Record Group 237, local identifier 1203, archival identifier 733667. The archive itemises 1,569 pages across thirty-five or more documents: FAA Form 8020-5 Aircraft Incident Record, FAA Form 3112, FAA Form 1600-32-1 interview notes, Captain Terauchi's written statement in Japanese and in English translation, dated transcripts of interviews with all three crew members in January 1987, radar data and computer plots, and a folder of correspondence with Philip Klass and Richard Haines. The agency's conclusion is equally on the record and it is negative: the FAA Alaskan Region's press release of 5 March 1987 states that its experts determined the second radar target was not another aircraft but an uncorrelated primary and beacon return, and that the investigation was complete and would not be pursued further. None of this depends on the Disclosure Project or on any witness, which is exactly why it belongs on this board.",
-"domains": [
-"disclosure-project-2026-09-19"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "1",
@@ -201,7 +202,11 @@
 "label": "Japan Air Lines flight 1628, Alaska, 17 November 1986",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Japan Air Lines flight 1628, Alaska, 17 November 1986",
+"sourceFiles": [
+"disclosure-project-2026-09-19"
+],
 "sources": [
 {
 "date": "2026-09-19",
@@ -221,25 +226,32 @@
 ],
 "sub": "A civil-aviation incident with a 1,500-page federal file at the National Archives, an FAA investigation, an agency press release concluding against a second aircraft, and a documented seventeen-year FOIA recovery",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 494 of 1170, score 31). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.",
+"tierRationale": "Re-graded B on a global pass (rank 496 of 1170, score 31). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1986-11-17",
+"grade": "A",
 "id": "tl-1986-11-17-jal-1628",
 "label": "Japan Air Lines flight 1628 incident over Alaska",
 "precision": "day",
 "strand": "program",
-"text": "A Japan Air Lines 747 crossing Alaskan airspace reported an object accompanying it. The FAA investigated and generated a file that survives at the National Archives in Record Group 237, archival identifier 733667, running to over 1,500 pages including crew statements, air traffic control transcripts and radar data.",
-"tier": "A"
+"text": "A Japan Air Lines 747 crossing Alaskan airspace reported an object accompanying it. The FAA investigated and generated a file that survives at the National Archives in Record Group 237, archival identifier 733667, running to over 1,500 pages including crew statements, air traffic control transcripts and radar data."
 },
 {
+"claimTier": null,
 "date": "1987-01-02",
+"grade": "A",
 "id": "tl-1987-01-02-terauchi-interview",
 "label": "FAA interviews Captain Terauchi",
 "precision": "day",
 "strand": "oversight",
-"text": "A 19-page transcript of the FAA's interview with Capt. Terauchi, dated 2 January 1987, is itemised in the National Archives file, alongside interviews with First Officer Tamefugi on 5 January and Flight Engineer Tsukuba on 15 January 1987. Klass reports that in this interview Terauchi 'admitted that this was the third time he had reported sighting a UFO'.",
-"tier": "A"
+"text": "A 19-page transcript of the FAA's interview with Capt. Terauchi, dated 2 January 1987, is itemised in the National Archives file, alongside interviews with First Officer Tamefugi on 5 January and Flight Engineer Tsukuba on 15 January 1987. Klass reports that in this interview Terauchi 'admitted that this was the third time he had reported sighting a UFO'."
 }
+],
+"unverified": [
+"Every page of the National Archives file. None was read.",
+"Whether the FAA records were ever in fact destroyed, or whether the 2001 and 2009 answers were simply wrong about where they were.",
+"The videotape and audio tape Callahan says he retained."
 ]
 }

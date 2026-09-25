@@ -42,6 +42,7 @@
 ],
 "cls": "document",
 "cluster": "ic",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -134,18 +135,20 @@
 "deg": 4,
 "denials": [
 {
-"by": {
+"a": {
 "id": "tr-ac-47-silver-bug",
 "label": "TR-AC-47, Joint ATIC-WADC Report on Project Silver Bug, 15 February 1955"
 },
+"b": {
+"id": "d-denial",
+"label": "Official Denial"
+},
+"by": null,
 "claimTier": 1,
 "denialKind": null,
 "label": "A dated Air Force document dismissing the flying-saucer resemblance of an aircraft it was itself funding",
 "note": "The Summary states that the project 'should in no way be associated with any science fiction or \"Flying Saucer\" stories because of its external appearance', which is a denial with an author, a date and a subject, and is what this board's denial domain exists to hold.",
-"of": {
-"id": "d-denial",
-"label": "Official Denial"
-},
+"of": null,
 "sources": [
 {
 "date": "1955-02-15",
@@ -156,9 +159,7 @@
 }
 ],
 "desc": "A joint report of the Air Technical Intelligence Center and the Wright Air Development Center on a Canadian contractor's proposal for a supersonic circular-planform aircraft with vertical take-off. It is the cleanest documented instance on this board of the Air Force funding a disc-shaped aircraft at Wright-Patterson, and its own stated purpose is to stop the intelligence community from believing the exaggerated accounts already circulating about it. It is the control case any Wright-Patterson recovery claim has to clear, and it is cited in the Michels corpus for the opposite of what it says: the transcript frames the project as a funnel and cover for deeper theoretical physics, while the report exists 'to correct the distorted picture presented in previous releases, both classified and unclassified' and says the project 'should in no way be associated with any science fiction or \"Flying Saucer\" stories because of its external appearance'. John Frost is named nowhere in it, the report names no individual designer at all, and the contractor is A. V. Roe, Canada, Limited, of the Hawker-Siddley Group, not the British Aircraft Corporation, which did not exist in 1955.",
-"domains": [
-"michels-2026-09-02"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -172,7 +173,11 @@
 "label": "TR-AC-47, Joint ATIC-WADC Report on Project Silver Bug, 15 February 1955",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "TR-AC-47, Joint ATIC-WADC Report on Project Silver Bug, 15 February 1955",
+"sourceFiles": [
+"michels-2026-09-02"
+],
 "sources": [
 {
 "date": "1955-02-15",
@@ -192,16 +197,18 @@
 ],
 "sub": "Air Technical Intelligence Center, Wright-Patterson AFB; Project No. 9961; declassified 29 March 1995",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 187 of 1170, score 47). 4 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A1/D2.",
+"tierRationale": "Re-graded B on a global pass (rank 185 of 1170, score 47). 4 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A1/D2.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1955-02-15",
+"grade": "B",
 "id": "tl-1955-02-15-silver-bug",
 "label": "ATIC and WADC report jointly on a disc-shaped supersonic aircraft",
 "precision": "day",
 "strand": "program",
-"text": "TR-AC-47, Project No. 9961, is issued at Wright-Patterson Air Force Base on the Avro Canada Project Y2 flat-riser. Its stated purpose is to correct the distorted picture presented in previous releases and to alert the intelligence community to any Soviet interest, and its Summary says the project should in no way be associated with any science fiction or flying saucer stories because of its external appearance. It was declassified on 29 March 1995.",
-"tier": "B"
+"text": "TR-AC-47, Project No. 9961, is issued at Wright-Patterson Air Force Base on the Avro Canada Project Y2 flat-riser. Its stated purpose is to correct the distorted picture presented in previous releases and to alert the intelligence community to any Soviet interest, and its Summary says the project should in no way be associated with any science fiction or flying saucer stories because of its external appearance. It was declassified on 29 March 1995."
 }
-]
+],
+"unverified": []
 }

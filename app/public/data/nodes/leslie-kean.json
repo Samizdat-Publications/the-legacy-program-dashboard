@@ -373,9 +373,10 @@
 "deg": 10,
 "denials": [],
 "domains": [
-"grusch",
-"media-structure",
-"w2-retrieval-literature"
+"d-media",
+"d-witness",
+"d-disclosure",
+"d-foia"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -396,6 +397,11 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Leslie Kean",
+"sourceFiles": [
+"grusch",
+"media-structure",
+"w2-retrieval-literature"
+],
 "sources": [
 {
 "date": "2023-06-05",
@@ -431,16 +437,17 @@
 "status": "active",
 "sub": "Investigative journalist; co-author of the 5 June 2023 Debrief story",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 232 of 1170, score 43). 10 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 230 of 1170, score 43). 10 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2017-12-16",
+"grade": "A",
 "id": "ms-2017-nyt",
 "label": "NYT reveals AATIP",
 "precision": "day",
 "strand": "program",
-"text": "Leslie Kean, Ralph Blumenthal and Helene Cooper publish the New York Times story revealing $22.5M in DoD spending on the Advanced Aerospace Threat Identification Program - the article that makes the modern disclosure era possible.",
-"tier": "A"
+"text": "Leslie Kean, Ralph Blumenthal and Helene Cooper publish the New York Times story revealing $22.5M in DoD spending on the Advanced Aerospace Threat Identification Program - the article that makes the modern disclosure era possible."
 }
 ],
 "unexplainedResidual": null,

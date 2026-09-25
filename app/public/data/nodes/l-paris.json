@@ -12,6 +12,7 @@
 ],
 "cls": "location",
 "cluster": "other",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 3,
@@ -49,10 +50,7 @@
 "deg": 1,
 "denials": [],
 "desc": "Paris is the political and institutional capital from which French policy on this subject is set, and the milieu in which the 1999 COMETA report - 'Les OVNI et la Défense: à quoi doit-on se préparer?' - was produced by retired general officers, senior civil servants and scientists associated with the Institut des Hautes Études de Défense Nationale. The report's significance is that comparably credentialed figures in the United States have never signed a document of that kind. Operational investigation is run from Toulouse rather than here, but authority and the argument about defence implications reside in Paris.",
-"domains": [
-"_stubs",
-"w2-taxonomy"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "nd",
@@ -66,7 +64,12 @@
 "label": "Paris, France",
 "locLabel": "Paris, France",
 "members": null,
+"openQuestions": [],
 "short": "Paris, France",
+"sourceFiles": [
+"_stubs",
+"w2-taxonomy"
+],
 "sources": [
 {
 "date": "2026-08-12",
@@ -82,5 +85,6 @@
 "sub": "Capital of France; seat of the ministries and of the COMETA milieu",
 "tier": "C",
 "tierRationale": "Re-graded C on a global pass (rank 1085 of 1170, score 12). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D2.",
-"timeline": []
+"timeline": [],
+"unverified": []
 }

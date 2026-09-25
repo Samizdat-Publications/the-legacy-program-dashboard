@@ -27,6 +27,7 @@
 ],
 "cls": "event",
 "cluster": "legacy",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -103,9 +104,7 @@
 "deg": 3,
 "denials": [],
 "desc": "The second episode of the 1975 sequence, and the one whose documentary afterlife is more instructive than the event. On the night of 30 October 1975 base personnel at Wurtsmith AFB saw the running lights of a low-flying craft that hovered and moved erratically near the perimeter; security police at the back gate reported an unlit helicopter coming over the gate and hovering at low altitude; a KC-135 tanker aloft was vectored onto it and pursued it out over Lake Huron. The NORAD Command Director's Log records the incident at 0355Z on 31 October 1975 and the Senior Director's Log records the tanker pursuing it thirty-five miles southeast over the lake. What makes this node matter beyond its own facts is what happened in January 1979: the 379th Bombardment Wing historian went looking for the incident in his own wing history, found no reference to it, and wrote that down, and the day after, the KC-135 instructor navigator wrote him a memorandum giving the crew's account. The board should treat that pair of documents as a standing caution about arguments from a unit history's silence.",
-"domains": [
-"nuclear-witnesses-2026-09-19"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "1",
@@ -119,7 +118,11 @@
 "label": "Wurtsmith AFB incursion, 30 October 1975",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Wurtsmith AFB incursion, 30 October 1975",
+"sourceFiles": [
+"nuclear-witnesses-2026-09-19"
+],
 "sources": [
 {
 "date": "1979-01-18",
@@ -142,13 +145,18 @@
 "tierRationale": "Re-graded C on a global pass (rank 639 of 1170, score 27). 3 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D1.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1975-10-30",
+"grade": "B",
 "id": "tl-1975-10-30-wurtsmith-tanker-pursuit",
 "label": "A KC-135 pursues an object from the Wurtsmith weapons storage area over Lake Huron",
 "precision": "day",
 "strand": "program",
-"text": "The NORAD Senior Director's Log for 31 October 1975 records: 'Alerted by NCOC of a helicopter sighted over Wurtsmith AFB Wpns storage area, a tanker sighted same and pursued it 35 SE over Lake Huron.' A Joint Chiefs of Staff operational report of 30 October 1975 records that the Michigan Department of Natural Resources was contacted about aircraft searching for hunters spotting deer, and the explanation did not fit.",
-"tier": "B"
+"text": "The NORAD Senior Director's Log for 31 October 1975 records: 'Alerted by NCOC of a helicopter sighted over Wurtsmith AFB Wpns storage area, a tanker sighted same and pursued it 35 SE over Lake Huron.' A Joint Chiefs of Staff operational report of 30 October 1975 records that the Michigan Department of Natural Resources was contacted about aircraft searching for hunters spotting deer, and the explanation did not fit."
 }
+],
+"unverified": [
+"Cahill's and Taylor's 1979 memoranda were NOT OPENED in facsimile; both are quoted from NICAP's reproduction.",
+"Whether the October to December 1975 379th Bombardment Wing History has since been amended, and whether the 1979 memoranda were filed into it."
 ]
 }

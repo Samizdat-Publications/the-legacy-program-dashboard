@@ -117,7 +117,9 @@
 "deg": 3,
 "denials": [],
 "domains": [
-"congress-house"
+"d-oversight",
+"d-coverup",
+"d-funding"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -138,6 +140,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Andrew Ogles",
+"sourceFiles": [
+"congress-house"
+],
 "sources": [
 {
 "date": "2023-07-26",
@@ -161,13 +166,14 @@
 "tierRationale": "Re-graded C on a global pass (rank 898 of 1170, score 18). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2023-07-26",
+"grade": "A",
 "id": "ch-2023-07-26e",
 "label": "Ogles names the Holman Rule",
 "precision": "day",
 "strand": "oversight",
-"text": "Ogles volunteers to initiate the Holman Rule against any personnel, program or agency that denies Congress access to Grusch in a SCIF. No such amendment has been offered.",
-"tier": "A"
+"text": "Ogles volunteers to initiate the Holman Rule against any personnel, program or agency that denies Congress access to Grusch in a SCIF. No such amendment has been offered."
 }
 ],
 "unexplainedResidual": null,

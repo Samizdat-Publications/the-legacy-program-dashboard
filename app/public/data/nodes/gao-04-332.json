@@ -37,6 +37,7 @@
 ],
 "cls": "document",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -56,7 +57,7 @@
 "url": "https://www.govinfo.gov/content/pkg/GAOREPORTS-GAO-04-332/html/GAOREPORTS-GAO-04-332.htm"
 }
 ],
-"tier": "B",
+"tier": "A",
 "type": "investigative"
 }
 ],
@@ -66,10 +67,7 @@
 "deg": 1,
 "denials": [],
 "desc": "Requested in response to a Senate report accompanying the National Defense Authorization Act for Fiscal Year 2004, GAO-04-332 assessed the Defense Security Service's oversight of more than 11,000 cleared contractor facilities under the National Industrial Security Program and DSS's actions after possible compromises of classified information. Its title is its finding. For this board the most important sentence is a footnote: 'As agreed with committee staff, our review was limited to DSS's oversight of contractor facilities' protection of Confidential, Secret, and Top Secret information as defined in Executive Order no. 12958, as amended, and did not include DSS's oversight of special access programs at contractor facilities.' GAO then explains, in unclassified text, what a SAP is: programs 'established to provide protection for particularly sensitive classified information beyond that normally required for Top Secret, Secret, or Confidential information'. The report is the cleanest available demonstration of the structural point: the legislative branch's own auditor, auditing the security of contractor facilities holding classified material, was steered away from the compartment where the most sensitive material sits, and did so by agreement with the committee that asked for the audit. Every subsequent claim that 'GAO has looked at this' has to contend with that footnote.",
-"domains": [
-"_rs-sap-docs",
-"w2-sap-architecture"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": {
 "desc": "The audit that was steered. When officials say the special access program system is subject to oversight, the honest test is to ask what the Government Accountability Office has actually examined. GAO-04-332 is the only public GAO product on the security of cleared contractor facilities under the National Industrial Security Program. It was requested by the Senate in the report accompanying the FY2004 NDAA. It found that DoD could not provide adequate assurances that its oversight ensures the protection of classified information, and that DSS had not always followed required procedures after reported compromises. And its second footnote records that, 'As agreed with committee staff', the review deliberately excluded DSS's oversight of special access programs at contractor facilities. The auditor was sent into the building and asked not to open one set of doors - by agreement with the committee that commissioned the audit. Every subsequent assertion that the contractor SAP system has been independently examined has to be measured against that sentence.",
@@ -83,10 +81,15 @@
 "hl": null,
 "id": "gao-04-332",
 "l0": false,
-"label": "GAO-04-332 — Industrial Security: DOD Cannot Provide Adequate Assurances That Its Oversight Ensures the Protection of Classified Information",
+"label": "GAO-04-332 - Industrial Security: DOD Cannot Provide Adequate Assurances That Its Oversight Ensures the Protection of Classified Information",
 "locLabel": null,
 "members": null,
-"short": "GAO-04-332 — Industrial Security: DOD Cannot Provide Adequate Assurances That Its Oversight Ensures the Protection of Classified Information",
+"openQuestions": [],
+"short": "GAO-04-332 - Industrial Security: DOD Cannot Provide Adequate Assurances That Its Oversight Ensures the Protection of Classified Information",
+"sourceFiles": [
+"_rs-sap-docs",
+"w2-sap-architecture"
+],
 "sources": [
 {
 "date": "2004-03-03",
@@ -101,16 +104,18 @@
 ],
 "sub": "gao-report",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 531 of 1170, score 30). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 525 of 1170, score 30). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2004-03-03",
+"grade": "A",
 "id": "sap-tl-2004-gaox",
 "label": "GAO audits contractor security and is steered around special access programs",
 "precision": "day",
 "strand": "oversight",
-"text": "GAO-04-332 finds that DoD 'cannot provide adequate assurances that its oversight ensures the protection of classified information' at more than 11,000 cleared contractor facilities. Footnote 2 records that, by agreement with committee staff, the review 'did not include DSS's oversight of special access programs at contractor facilities.'",
-"tier": "A"
+"text": "GAO-04-332 finds that DoD 'cannot provide adequate assurances that its oversight ensures the protection of classified information' at more than 11,000 cleared contractor facilities. Footnote 2 records that, by agreement with committee staff, the review 'did not include DSS's oversight of special access programs at contractor facilities.'"
 }
-]
+],
+"unverified": []
 }

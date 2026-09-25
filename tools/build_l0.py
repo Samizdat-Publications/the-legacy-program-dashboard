@@ -48,7 +48,7 @@ routed members drift between builds and `verify.py --idempotent` fails. There is
 use of `random` anywhere: the layout is seeded from a deterministic grid.
 """
 
-import json, math, os, sys
+import json, math, os, re, sys
 from collections import Counter, OrderedDict
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -567,7 +567,42 @@ def load_dossiers():
             if prev and len(prev.get("claims", [])) >= len(d.get("claims", [])):
                 continue
             out[e["id"]] = d
+    cap_dossier_claims(out)
     return out
+
+
+# The sourcing rules reach dossier claims (redesign phase 3, decision 5). A dossier
+# claim graded Tier 1 makes the same promise a node claim does, and the node rule in
+# merge.py (secondary source, no attributed source, no primary URL anywhere, AARO/DoD
+# asserting an outside fact) had never been applied to them. Same function, not a
+# copy of it; every demotion is logged to tools/REGRADE_REPORT.json beside the node
+# tier moves, under `dossierDemotions`. Presentation never moves evidence: this is a
+# sourcing cap, applied to what the claim cites, exactly as it is on the node.
+REGRADE_REPORT = os.path.join(ROOT, "tools", "REGRADE_REPORT.json")
+
+
+def cap_dossier_claims(dossiers):
+    sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+    from merge import tier1_cap_reason, URL_IN_SOURCE  # noqa: E402
+    log = []
+    for nid in sorted(dossiers):
+        claims = dossiers[nid].get("claims") or []
+        urls = " ".join(u for c in claims for u in URL_IN_SOURCE.findall(c.get("source") or ""))
+        for c in claims:
+            why = tier1_cap_reason(c, urls)
+            if not why:
+                continue
+            c["tier"] = 2
+            if "needs primary" not in (c.get("source") or "").lower():
+                c["source"] = (f"{c.get('source') or ''} - DEMOTED from Tier 1 ({why}); "
+                               f"needs primary replacement")
+            log.append({"id": nid, "why": why, "claim": (c.get("text") or "")[:110]})
+    if os.path.exists(REGRADE_REPORT):
+        rep = json.load(open(REGRADE_REPORT, encoding="utf-8"))
+        rep["dossierDemotions"] = log
+        with open(REGRADE_REPORT, "w", encoding="utf-8") as fh:
+            json.dump(rep, fh, indent=1, ensure_ascii=False)
+    return log
 
 
 # ------------------------------------------------------------- entry paths
@@ -664,7 +699,11 @@ def short_of(node_id, label):
         except FileNotFoundError:
             _SHORTS = {}
     a = _SHORTS.get(node_id)
-    return a.strip() if isinstance(a, str) and a.strip() else short_label(label)
+    # a spaced em dash in a display label becomes " - " (phase 3 decision 7; the
+    # record is tools/DISPLAY-NORMALISED.json, written by merge.py)
+    if isinstance(a, str) and a.strip():
+        return re.sub(r"\s+\u2014\s+", " - ", a.strip())
+    return short_label(label)
 
 
 def build(path=BOARD):

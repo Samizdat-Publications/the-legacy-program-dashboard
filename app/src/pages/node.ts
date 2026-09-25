@@ -100,7 +100,7 @@ export async function renderNode(view: HTMLElement, id: string): Promise<void> {
     if (why) main.append(h('div', { class: 'narrative' }, h('p', null, why)));
   }
   for (const c of asList(rec.conflicts)) {
-    main.append(h('div', { class: 'narrative', style: 'margin-top:8px' },
+    main.append(h('div', { class: 'narrative cnf', style: 'margin-top:8px' },
       h('p', null, h('span', { class: 'red eyebrow' }, 'Conflict on the record '), c)));
   }
   for (const u of asList(rec.unverified)) {
@@ -153,13 +153,21 @@ export async function renderNode(view: HTMLElement, id: string): Promise<void> {
       h('span', { class: 'sep' }, '·'), ' ', h('b', null, String(rec.denials.length))));
     const dl = h('div', { class: 'denials' });
     for (const d of rec.denials) {
-      const other = d.by.id === rec.id ? d.of : d.by;
-      dl.append(h('div', { class: 'denial' },
+      /* A direction is printed only where the adjudication names the denier.
+         An edge it has not reached says so; it is never given one by guessing
+         from the order its ends were written in (redesign phase 3). */
+      const other = d.by && d.of
+        ? (d.by.id === rec.id ? d.of : d.by)
+        : (d.a.id === rec.id ? d.b : d.a);
+      const adjudicated = !!d.denialKind;
+      const how = d.by
+        ? (d.denialKind || (d.by.id === rec.id ? 'issued here' : 'directed here'))
+        : (d.denialKind || 'direction not adjudicated');
+      dl.append(h('div', { class: 'denial', 'data-adjudicated': adjudicated ? 'yes' : 'no' },
         h('span', null,
           h('a', { href: '#/n/' + other.id }, other.label), ' ',
           h('span', null, d.label || d.note || '')),
-        h('span', { class: 'dim' },
-          'T' + (d.claimTier ?? '?') + ' · ' + (d.denialKind || (d.by.id === rec.id ? 'issued here' : 'directed here'))),
+        h('span', { class: 'dim dkind' }, 'T' + (d.claimTier ?? '?') + ' · ' + how),
       ));
     }
     main.append(dl);
@@ -206,7 +214,10 @@ export async function renderNode(view: HTMLElement, id: string): Promise<void> {
   extra.append(slice);
 
   const foia = h('div', null);
-  const openQ = (rec.dossier && rec.dossier.openQuestions) || [];
+  /* the dossier's open questions first, because FOIA request indices point into
+     them; then the node's own (an entity's, carried since phase 3) */
+  const dossierQ = (rec.dossier && rec.dossier.openQuestions) || [];
+  const openQ = [...dossierQ, ...(rec.openQuestions || [])];
   const reqs = rec.foia.requests || [];
   foia.append(h('div', { class: 'sec' },
     h('span', { class: 'eyebrow' }, 'Open questions'), ' ',
@@ -216,7 +227,7 @@ export async function renderNode(view: HTMLElement, id: string): Promise<void> {
     /* a request's `questions` are indices into the dossier's own open questions */
     const fl = h('div', { class: 'foia' });
     openQ.forEach((text, qi) => {
-      const closing = reqs.find((r) => (r.questions || []).includes(qi));
+      const closing = qi < dossierQ.length ? reqs.find((r) => (r.questions || []).includes(qi)) : undefined;
       fl.append(h('div', { class: 'q oq' },
         h('span', null, text),
         h('span', { class: 'rq' }, closing ? closing.request + (closing.status ? ' · ' + closing.status : '') : 'no request drafted'),

@@ -27,6 +27,7 @@
 ],
 "cls": "document",
 "cluster": "legacy",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -150,6 +151,14 @@
 "deg": 5,
 "denials": [
 {
+"a": {
+"id": "hoyt-vandenberg",
+"label": "Hoyt S. Vandenberg"
+},
+"b": {
+"id": "estimate-of-the-situation",
+"label": "Estimate of the Situation (1948)"
+},
 "by": {
 "id": "hoyt-vandenberg",
 "label": "Hoyt S. Vandenberg"
@@ -177,9 +186,7 @@
 }
 ],
 "desc": "In mid-1948 the Project SIGN staff at Wright Field completed a Top Secret document, in the standard military 'estimate of the situation' format, concluding that the objects under investigation were interplanetary in origin. It went up the chain to Air Force Chief of Staff Gen. Hoyt Vandenberg, who rejected it on the grounds that it lacked proof and directed that copies be destroyed. No copy has ever surfaced. This board treats the Estimate as the single most consequential missing document of the twentieth century on this subject, and its status is stronger than folklore: the Condon Report — commissioned and paid for by the Air Force under contract 44620-67-C-0035 — states in Section V Chapter 2 that the estimate was prepared, that Vandenberg rejected it, and that copies were destroyed. Edward Ruppelt, the first Blue Book director, published the same account in 1956 from personal knowledge. Against this, Air Force spokesmen and members of Congress have at times asserted no such estimate ever existed. The conflict is itself the datum: the government's own contracted history records a document the government elsewhere denies. It also establishes, twenty years before the Bolender memo and forty-seven before the GAO records finding, that destruction was the standard disposition for adverse conclusions.",
-"domains": [
-"history-1940s-1960s"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -193,7 +200,11 @@
 "label": "Estimate of the Situation (1948)",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Estimate of the Situation (1948)",
+"sourceFiles": [
+"history-1940s-1960s"
+],
 "sources": [
 {
 "date": "1968-11-01",
@@ -208,16 +219,18 @@
 ],
 "sub": "Top Secret Project SIGN assessment; destroyed",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 340 of 1170, score 37). 5 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D2.",
+"tierRationale": "Re-graded B on a global pass (rank 339 of 1170, score 37). 5 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D2.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1948-07-01",
+"grade": "A",
 "id": "tl-1948-07",
 "label": "Estimate of the Situation written and destroyed",
 "precision": "month",
 "strand": "coverup",
-"text": "Project SIGN staff conclude the objects are interplanetary. Air Force Chief of Staff Gen. Hoyt Vandenberg rejects the estimate for lacking proof and orders copies destroyed. The Condon Report records this twenty years later.",
-"tier": "A"
+"text": "Project SIGN staff conclude the objects are interplanetary. Air Force Chief of Staff Gen. Hoyt Vandenberg rejects the estimate for lacking proof and orders copies destroyed. The Condon Report records this twenty years later."
 }
-]
+],
+"unverified": []
 }

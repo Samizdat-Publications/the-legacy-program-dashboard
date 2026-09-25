@@ -117,6 +117,7 @@
 ],
 "cls": "document",
 "cluster": "legacy",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -125,6 +126,27 @@
 "dateStart": null,
 "direction": "out",
 "edgeLabel": "DoDI 5205.11 glossary definition of 'carve out'",
+"id": "carve-out",
+"l0": true,
+"label": "Carve-Out Provision (DCSA relief from NISP oversight)",
+"note": "",
+"sources": [
+{
+"date": null,
+"name": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf",
+"url": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf"
+}
+],
+"tier": "A",
+"type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": null,
+"dateStart": "2013-02-06",
+"direction": "in",
+"edgeLabel": "Requested on the SAP approval checklist and recorded in the program file",
 "id": "carve-out",
 "l0": true,
 "label": "Carve-Out Provision (DCSA relief from NISP oversight)",
@@ -169,7 +191,7 @@
 "edgeLabel": "The manual implements the instruction's policy",
 "id": "dodm-5205-07-v1",
 "l0": false,
-"label": "DoDM 5205.07 Volume 1 — DoD SAP Security Manual: General Procedures",
+"label": "DoDM 5205.07 Volume 1 - DoD SAP Security Manual: General Procedures",
 "note": "DoDM 5205.07 Volume 1 para 1.a(1) states that it 'implements policy established in DoD Instruction (DoDI) 5205.11'.",
 "sources": [
 {
@@ -253,7 +275,28 @@
 "edgeLabel": "para 1.2.f designates select unacknowledged SAPs as waived",
 "id": "waived-usap-mechanism",
 "l0": true,
-"label": "Waived Unacknowledged SAP (waived USAP) — the mechanism",
+"label": "Waived Unacknowledged SAP (waived USAP) - the mechanism",
+"note": "",
+"sources": [
+{
+"date": null,
+"name": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf",
+"url": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf"
+}
+],
+"tier": "A",
+"type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "the DoD-side implementation",
+"id": "waived-usap-mechanism",
+"l0": true,
+"label": "Waived Unacknowledged SAP (waived USAP) - the mechanism",
 "note": "The statute permits the waiver; this Instruction is where the Department operates it. Para 1.2.f. is DoD's own designation authority - the Secretary 'may designate select unacknowledged SAPs as \"waived\"' - and Enclosure 3 tasks the Senior Review Group with reviewing 'all waived DoD SAPs' annually and advising the SAPOC. Para 7.2.a.(3) then sets who is told, and it is wider than the statute's twelve: the chair, the ranking member, the staff directors and one designated security manager of the defense AND intelligence committees. Quotations are the verbatim ones already recorded on this node from the Instruction itself.",
 "sources": [
 {
@@ -272,11 +315,7 @@
 "deg": 7,
 "denials": [],
 "desc": "DoDI 5205.11 is the single most useful public document on this board, because it does not merely define the mechanism - it walks through it, with a worked example and a timeline. Enclosure 6 sets out the prospective SAP (PSAP) approval sequence in days from establishment: SSWG review by P+14, draft security classification guide by P+45, approval package to the Senior Review Group by P+90, SRG convenes at P+105, final package to the SAPOC at P+130, SAPOC convenes at P+150, Deputy Secretary of Defense decision and congressional notification or termination at P+180, and 'End of 30-day period without Congressional decision' at P+210. The last line is the statutory clock of 10 U.S.C. 119(f) reduced to a checkbox: Congress is not asked to approve anything, it is notified, and after thirty days of silence the program starts. Appendix 2 to Enclosure 6 is the SAP Approval Package Checklist, whose item 2 requires that 'If unacknowledged and reporting requirements are to be waived, attach justification to waive the requirements of Volumes 2A and 2B of DoD 7000.14-R' - the Financial Management Regulation - and whose item 11.d requires a 'Contract strategy (carve-out justification if applicable)'. Appendix 3 is an unclassified sample Action Memo to the Deputy Secretary of Defense recommending establishment of a fictional unacknowledged operations and support SAP nicknamed GREEN TREE, in which the Director of DoD SAPCO writes: 'The Defense Security Service will be carved out from its normal industrial security oversight responsibilities' and recommends 'that you approve GTE as an unacknowledged SAP and authorize carve-out status and the mandatory administration of CI polygraphs'. Enclosure 7 then requires that each SAP record file contain 'Written approval by SecDef or DepSecDef of carve-out status when DSS is relieved of industrial security oversight responsibilities' and 'The identification of SAP facilities ... that have been carved-out based upon this authority'. Those two records are the FOIA target that would settle the question of how many carved-out facilities exist.",
-"domains": [
-"_rs-archive-mirror",
-"_rs-sap-docs",
-"w2-sap-architecture"
-],
+"domains": [],
 "dossier": {
 "claims": [
 {
@@ -388,7 +427,7 @@
 "hl": null,
 "id": "dodi-5205-11",
 "l0": true,
-"label": "DoDI 5205.11 — Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)",
+"label": "DoDI 5205.11 - Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)",
 "locLabel": null,
 "members": [
 {
@@ -400,7 +439,7 @@
 {
 "cls": "document",
 "id": "dodm-5205-07-v1",
-"label": "DoDM 5205.07 Volume 1 — DoD SAP Security Manual: General Procedures",
+"label": "DoDM 5205.07 Volume 1 - DoD SAP Security Manual: General Procedures",
 "tier": "A"
 },
 {
@@ -422,7 +461,13 @@
 "tier": "B"
 }
 ],
+"openQuestions": [],
 "short": "DoDI 5205.11",
+"sourceFiles": [
+"_rs-archive-mirror",
+"_rs-sap-docs",
+"w2-sap-architecture"
+],
 "sources": [
 {
 "date": "2025-08-09",
@@ -442,16 +487,18 @@
 ],
 "sub": "dod-issuance",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 58 of 1170, score 75). 7 connections, 2 of them custody/funding/programmatic. Axes C1/A3/D2.",
+"tierRationale": "Re-graded A on a global pass (rank 55 of 1170, score 77). 9 connections, 2 of them custody/funding/programmatic. Axes C1/A3/D2.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2013-02-06",
+"grade": "A",
 "id": "sap-tl-2013-dodix",
 "label": "DoDI 5205.11 publishes the carve-out request procedure and a worked example",
 "precision": "day",
 "strand": "program",
-"text": "The instruction sets the prospective SAP timeline ending 'NLT P+210 - End of 30-day period without Congressional decision', requires a carve-out justification in the approval package, and reproduces a sample action memo to the Deputy Secretary recommending that a fictional unacknowledged SAP be approved and that 'The Defense Security Service will be carved out from its normal industrial security oversight responsibilities.'",
-"tier": "A"
+"text": "The instruction sets the prospective SAP timeline ending 'NLT P+210 - End of 30-day period without Congressional decision', requires a carve-out justification in the approval package, and reproduces a sample action memo to the Deputy Secretary recommending that a fictional unacknowledged SAP be approved and that 'The Defense Security Service will be carved out from its normal industrial security oversight responsibilities.'"
 }
-]
+],
+"unverified": []
 }

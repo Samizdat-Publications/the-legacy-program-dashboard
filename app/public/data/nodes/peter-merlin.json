@@ -124,6 +124,14 @@
 "deg": 3,
 "denials": [
 {
+"a": {
+"id": "peter-merlin",
+"label": "Peter W. Merlin"
+},
+"b": {
+"id": "fouche-military-documents",
+"label": "Edgar Fouche's Military, and DOD contractors reference Documents"
+},
 "by": {
 "id": "peter-merlin",
 "label": "Peter W. Merlin"
@@ -150,6 +158,14 @@
 ]
 },
 {
+"a": {
+"id": "peter-merlin",
+"label": "Peter W. Merlin"
+},
+"b": {
+"id": "tr-3b",
+"label": "TR-3B 'Astra', claimed black triangular aircraft"
+},
 "by": {
 "id": "peter-merlin",
 "label": "Peter W. Merlin"
@@ -171,9 +187,7 @@
 ]
 }
 ],
-"domains": [
-"tr3b-2026-09-18"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "nd",
@@ -193,6 +207,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Peter W. Merlin",
+"sourceFiles": [
+"tr3b-2026-09-18"
+],
 "sources": [
 {
 "date": "2026-09-18",
@@ -213,16 +230,17 @@
 "status": "alive",
 "sub": "Aerospace historian and aerospace archaeologist; author of nine books including three published by NASA and AIAA; the substantive named sceptic on Fouche's documents and photographs",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 520 of 1170, score 30). 3 connections, 0 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C0/A0/D2.",
+"tierRationale": "Re-graded B on a global pass (rank 518 of 1170, score 30). 3 connections, 0 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C0/A0/D2.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2016-03-19",
+"grade": "C",
 "id": "tl-2016-03-19-merlin-analysis-published",
 "label": "Peter Merlin's four-part analysis of Fouche is published",
 "precision": "day",
 "strand": "witness",
-"text": "Quoted verbatim between (QUOTE) and (UNQUOTE) markers on Norio Hayakawa's blog: that the SAC letter is unclassified and carries no classification markings, control number or copy-of count and that 'REPLY TO: DARPA' is probably a five-letter office code; that the photograph Fouche captioned 'Have Blue' is 'the first YF-117A SENIOR TREND prototype'; that 'No such person as Steve Stenson was ever commander of AFFTC'; and that the KGB passport and badges are fakes 'widely available at many Army-Navy surplus stores'.",
-"tier": "C"
+"text": "Quoted verbatim between (QUOTE) and (UNQUOTE) markers on Norio Hayakawa's blog: that the SAC letter is unclassified and carries no classification markings, control number or copy-of count and that 'REPLY TO: DARPA' is probably a five-letter office code; that the photograph Fouche captioned 'Have Blue' is 'the first YF-117A SENIOR TREND prototype'; that 'No such person as Steve Stenson was ever commander of AFFTC'; and that the KGB passport and badges are fakes 'widely available at many Army-Navy surplus stores'."
 }
 ],
 "unexplainedResidual": null,

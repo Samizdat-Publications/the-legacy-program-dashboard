@@ -366,6 +366,14 @@
 "deg": 11,
 "denials": [
 {
+"a": {
+"id": "paul-bennewitz",
+"label": "Paul Frederick Bennewitz"
+},
+"b": {
+"id": "aaro-historical-record-vol1",
+"label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+},
 "by": {
 "id": "aaro-historical-record-vol1",
 "label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
@@ -393,9 +401,9 @@
 }
 ],
 "domains": [
-"_rs-archive-mirror",
-"dulce-2026-09-19",
-"history-1970s-2000s"
+"d-coverup",
+"d-witness",
+"d-exotic"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -416,6 +424,11 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Paul Frederick Bennewitz",
+"sourceFiles": [
+"_rs-archive-mirror",
+"dulce-2026-09-19",
+"history-1970s-2000s"
+],
 "sources": [
 {
 "date": "2025-07-05",
@@ -466,34 +479,37 @@
 "status": "dead",
 "sub": "Physicist; president, Thunder Scientific Corp.; target of AFOSI disinformation 1980-1988",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 198 of 1170, score 45). 11 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A0/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 197 of 1170, score 45). 11 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A0/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1979",
+"grade": "B",
 "id": "tl-1979-bennewitz-origin",
 "label": "Bennewitz becomes the origin point of the Dulce claim",
 "precision": "year",
 "strand": "witness",
-"text": "From about 1979 Paul Bennewitz, an Albuquerque instrument manufacturer whose company overlooked the Manzano storage area, began the personally funded study that made him the first person to attach a facility claim to Dulce. He later connected Myrna Hansen's 1980 account to the same place.",
-"tier": "B"
+"text": "From about 1979 Paul Bennewitz, an Albuquerque instrument manufacturer whose company overlooked the Manzano storage area, began the personally funded study that made him the first person to attach a facility claim to Dulce. He later connected Myrna Hansen's 1980 account to the same place."
 },
 {
+"claimTier": null,
 "date": "1988-01-01",
+"grade": "A",
 "id": "t-1988-bennewitz",
 "label": "Bennewitz hospitalised",
 "precision": "year",
 "strand": "coverup",
-"text": "After eight years of fabricated material fed to him through AFOSI channels, Paul Bennewitz is hospitalised for psychiatric care and withdraws from the field.",
-"tier": "A"
+"text": "After eight years of fabricated material fed to him through AFOSI channels, Paul Bennewitz is hospitalised for psychiatric care and withdraws from the field."
 },
 {
+"claimTier": null,
 "date": "2003-06-23",
+"grade": "B",
 "id": "tl-2003-06-23-bennewitz-death",
 "label": "Bennewitz dies; buried at Santa Fe National Cemetery as a Coast Guard seaman",
 "precision": "day",
 "strand": "witness",
-"text": "Paul Frederick Bennewitz Jr, born 30 September 1927, died 23 June 2003, Section 12 Site 402, marker inscribed 'S1C US COAST GUARD WORLD WAR II'. The man at the centre of the best-documented domestic disinformation operation in this subject was a Second World War Coast Guard seaman who ran a humidity-instrument company.",
-"tier": "B"
+"text": "Paul Frederick Bennewitz Jr, born 30 September 1927, died 23 June 2003, Section 12 Site 402, marker inscribed 'S1C US COAST GUARD WORLD WAR II'. The man at the centre of the best-documented domestic disinformation operation in this subject was a Second World War Coast Guard seaman who ran a humidity-instrument company."
 }
 ],
 "unexplainedResidual": "AFOSI's own 1980 document concedes unexplained objects over a nuclear weapons storage area. No follow-up investigation of that concession has ever been released.",

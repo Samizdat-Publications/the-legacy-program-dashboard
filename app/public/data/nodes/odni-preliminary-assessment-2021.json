@@ -62,6 +62,7 @@
 ],
 "cls": "document",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -409,12 +410,7 @@
 "deg": 13,
 "denials": [],
 "desc": "The Preliminary Assessment delivered to Congress on 25 June 2021 under Director of National Intelligence Avril Haines is the founding public document of the modern era. It was mandated by the Senate Select Committee on Intelligence's directive accompanying the FY2021 intelligence authorisation and was drafted on the UAP Task Force's dataset: 144 reports from US government sources between 2004 and 2021, of which the assessment could explain exactly one. It declined to attribute the remainder, sorting possible explanations into airborne clutter, natural atmospheric phenomena, US industry developmental programmes, foreign adversary systems, and a catch-all 'other' bin that it said would require additional scientific advances to characterise. It conceded that in 18 incidents, observers reported unusual movement patterns or flight characteristics, and that some UAP appeared to remain stationary in winds aloft, move against the wind, manoeuvre abruptly, or move at considerable speed without discernible means of propulsion. Its analytic move - that limited and inconsistent data prevents conclusions - became the permanent template for every AARO annual report that followed. Read as containment, the assessment is a masterpiece of bounded honesty: it conceded everything about the phenomenon and nothing about the government's history with it, and it said nothing whatever about recovery, materials or reverse engineering, which were outside its stated scope.",
-"domains": [
-"_rs-aaro-reports",
-"_rs-archive-mirror",
-"releases-2023-2026",
-"uaptf-aaro"
-],
+"domains": [],
 "dossier": {
 "claims": [
 {
@@ -577,7 +573,14 @@
 "tier": "C"
 }
 ],
+"openQuestions": [],
 "short": "ODNI Preliminary Assessment",
+"sourceFiles": [
+"_rs-aaro-reports",
+"_rs-archive-mirror",
+"releases-2023-2026",
+"uaptf-aaro"
+],
 "sources": [
 {
 "date": "2021-06-25",
@@ -627,25 +630,38 @@
 ],
 "sub": "report",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 102 of 1170, score 62). 14 connections, 1 of them custody/funding/programmatic. Axes C0/A2/D3.",
+"tierRationale": "Re-graded A on a global pass (rank 103 of 1170, score 62). 14 connections, 1 of them custody/funding/programmatic. Axes C0/A2/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2021-06-25",
+"grade": null,
+"id": "_rs-aaro-reports-0",
+"label": "ODNI delivers Preliminary Assessment: Unidentified Aerial Phenomena - 144 USG reports, one resolved (a deflating balloon)",
+"precision": "day",
+"strand": "program",
+"text": null
+},
+{
+"claimTier": null,
+"date": "2021-06-25",
+"grade": "A",
 "id": "av-2021-06-25",
 "label": "ODNI preliminary assessment: 144 reports",
 "precision": "day",
 "strand": "oversight",
-"text": "144 reports from USG sources spanning November 2004 to March 2021; only one resolved with high confidence; 18 incidents in 21 reports showed unusual movement; aviators face 'disparagement' for reporting.",
-"tier": "A"
+"text": "144 reports from USG sources spanning November 2004 to March 2021; only one resolved with high confidence; 18 incidents in 21 reports showed unusual movement; aviators face 'disparagement' for reporting."
 },
 {
+"claimTier": null,
 "date": "2021-06-25",
+"grade": "A",
 "id": "rel-2021-06-25",
 "label": "ODNI Preliminary Assessment",
 "precision": "day",
 "strand": "oversight",
-"text": "ODNI delivers the 9-page Preliminary Assessment to Congress: 144 incidents, one explained, and the data-limitation formula that every AARO annual report will reuse through FY2025.",
-"tier": "A"
+"text": "ODNI delivers the 9-page Preliminary Assessment to Congress: 144 incidents, one explained, and the data-limitation formula that every AARO annual report will reuse through FY2025."
 }
-]
+],
+"unverified": []
 }

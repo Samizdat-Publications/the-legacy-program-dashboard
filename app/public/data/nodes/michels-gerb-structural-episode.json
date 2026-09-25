@@ -22,6 +22,7 @@
 ],
 "cls": "document",
 "cluster": "media",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -197,40 +198,38 @@
 "deg": 7,
 "denials": [],
 "desc": "The single most important media artefact in this domain: a three-hour-thirteen-minute American Alchemy episode published 11 January 2026 in which UAP Gerb lays out, to Jesse Michels, what its own description calls 'the most detailed reconstruction yet of how the U.S. government has organized UFO crash retrieval, storage, and technology exploitation since the 1940s.' The chapter list is effectively the table of contents of the alleged architecture and should be read as such: Legacy Programs (06:00), The Pyramid of Contractors (12:03), Whistleblowers and Leaks (16:46), Modern Majestic 12 (23:50), Exploring the IPU Docs (27:10), A Naval Perspective (31:08), The Administrators of Secrecy (32:24), Individuals in the Shadows (37:38), The Office of Global Access (43:04), The Conflict of Interest (49:48), The Role of MITRE (51:28), The Alien Reproduction Vehicle (1:09:22), Crash Retrieval Teams (1:19:53), The DOE NEST (1:22:01), Agencies and Contractors (1:24:58), The Roswell Incident (1:28:08), The 1954 Atomic Energy Agreement (1:30:25), The GAO Audit (1:31:55), The Y-12 Complex (1:32:56), Underground Military Bases (1:44:25), Marconi's Involvement (2:04:48), The Legacy of Eric Henry Wang (2:07:16), The Shadow Government (2:38:42), Locations of Alien Bodies (2:39:28), Controlled Disclosure Dynamics (2:28:42), The Role of Psyops (2:51:34). The description additionally states that former Vice President Dick Cheney is 'implicated in the American UFO reverse engineering program.' 514,729 views as of 12 August 2026.",
-"domains": [
-"media-structure"
-],
+"domains": [],
 "dossier": {
 "claims": [
 {
-"source": "https://podcasts.apple.com/us/podcast/the-hidden-ufo-program-is-real-heres-how-it-works-ft-uapgerb/id1771917740?i=1000744706983",
+"source": "https://podcasts.apple.com/us/podcast/the-hidden-ufo-program-is-real-heres-how-it-works-ft-uapgerb/id1771917740?i=1000744706983 - DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "text": "The episode 'The Hidden UFO Program Is Real - Here's How It Works! (ft. UAPGerb)' was published on American Alchemy with Jesse Michels on 11 January 2026 at 7:15 PM UTC with a running time of 3 hours 54 minutes.",
-"tier": 1
+"tier": 2
 },
 {
-"source": "https://podcasts.apple.com/us/podcast/the-hidden-ufo-program-is-real-heres-how-it-works-ft-uapgerb/id1771917740?i=1000744706983 (episode timestamps as published)",
+"source": "https://podcasts.apple.com/us/podcast/the-hidden-ufo-program-is-real-heres-how-it-works-ft-uapgerb/id1771917740?i=1000744706983 (episode timestamps as published) - DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "text": "The episode's published chapter structure includes 'Legacy Programs' (6:00), 'The Pyramid of Contractors' (12:03), 'Whistleblowers and Leaks' (16:46), 'Modern Majestic 12' (23:50), 'Exploring the IPU Docs' (27:10), 'The Administrators of Secrecy' (32:24) and 'Individuals in the Shadows' (37:38).",
-"tier": 1
+"tier": 2
 },
 {
-"source": "https://podcasts.apple.com/us/podcast/the-hidden-ufo-program-is-real-heres-how-it-works-ft-uapgerb/id1771917740?i=1000744706983",
+"source": "https://podcasts.apple.com/us/podcast/the-hidden-ufo-program-is-real-heres-how-it-works-ft-uapgerb/id1771917740?i=1000744706983 - DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "text": "The published chapter list places 'The Office of Global Access' at 43:04, 'The Conflict of Interest' at 49:48 and 'The Role of MITRE' at 51:28, asserting a custodial or coordinating role for a federally funded research and development center operator in the legacy program structure.",
-"tier": 1
+"tier": 2
 },
 {
-"source": "https://podcasts.apple.com/us/podcast/the-hidden-ufo-program-is-real-heres-how-it-works-ft-uapgerb/id1771917740?i=1000744706983",
+"source": "https://podcasts.apple.com/us/podcast/the-hidden-ufo-program-is-real-heres-how-it-works-ft-uapgerb/id1771917740?i=1000744706983 - DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "text": "The episode devotes segments to a Department of Energy thread: 'The DOE NEST' (1:22:01), 'The 1954 Atomic Energy Agreement' (1:30:25), 'The GAO Audit' (1:31:55) and 'The Y-12 Complex' (1:32:56).",
-"tier": 1
+"tier": 2
 },
 {
-"source": "https://podcasts.apple.com/us/podcast/the-hidden-ufo-program-is-real-heres-how-it-works-ft-uapgerb/id1771917740?i=1000744706983",
+"source": "https://podcasts.apple.com/us/podcast/the-hidden-ufo-program-is-real-heres-how-it-works-ft-uapgerb/id1771917740?i=1000744706983 - DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "text": "The episode names individual cases as discrete segments: 'The Alien Reproduction Vehicle' (1:09:22), 'Jonathan Wagan's Story' (1:15:47), 'J. Andrew Kistner's Testimony' (1:31:35), 'Marconi's Involvement' (2:04:48) and 'The Legacy of Eric Henry Wang' (2:07:16).",
-"tier": 1
+"tier": 2
 },
 {
-"source": "https://podcasts.apple.com/us/podcast/the-hidden-ufo-program-is-real-heres-how-it-works-ft-uapgerb/id1771917740?i=1000744706983",
+"source": "https://podcasts.apple.com/us/podcast/the-hidden-ufo-program-is-real-heres-how-it-works-ft-uapgerb/id1771917740?i=1000744706983 - DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "text": "The episode treats present-day disclosure as itself a managed process, with segments titled 'Controlled Disclosure Dynamics' (2:28:42), 'The Shadow Government' (2:38:42), 'Legacy Programs and Control' (2:49:17) and 'The Role of Psyops' (2:51:34).",
-"tier": 1
+"tier": 2
 },
 {
 "source": "https://x.com/AlchemyAmerican/status/1893046290046456114",
@@ -332,7 +331,11 @@
 "tier": "A"
 }
 ],
+"openQuestions": [],
 "short": "'The Pentagon's UFO Program Is Real'",
+"sourceFiles": [
+"media-structure"
+],
 "sources": [
 {
 "date": "2026-01-11",
@@ -345,13 +348,15 @@
 "tierRationale": "Re-graded C on a global pass (rank 794 of 1170, score 22). 7 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2026-01-11",
+"grade": "A",
 "id": "ms-2026-structural",
 "label": "The structural episode",
 "precision": "day",
 "strand": "program",
-"text": "Michels and Gerb publish the three-hour reconstruction of how the effort is organised - the contractor pyramid, the modern control group, the Office of Global Access, MITRE, the DOE NEST, the 1954 Atomic Energy Agreement; 514,729 views.",
-"tier": "A"
+"text": "Michels and Gerb publish the three-hour reconstruction of how the effort is organised - the contractor pyramid, the modern control group, the Office of Global Access, MITRE, the DOE NEST, the 1954 Atomic Energy Agreement; 514,729 views."
 }
-]
+],
+"unverified": []
 }

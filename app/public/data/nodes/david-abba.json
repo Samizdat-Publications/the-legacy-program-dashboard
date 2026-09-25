@@ -59,8 +59,8 @@
 "deg": 1,
 "denials": [],
 "domains": [
-"_rs-archive-mirror",
-"grusch"
+"d-coverup",
+"d-oversight"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -81,6 +81,10 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "David W. Abba",
+"sourceFiles": [
+"_rs-archive-mirror",
+"grusch"
+],
 "sources": [
 {
 "date": "2026-06-12",
@@ -96,7 +100,7 @@
 "status": "active",
 "sub": "Maj Gen, USAF; Director, DoD Special Access Program Central Office",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 732 of 1170, score 23). 1 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D1.",
+"tierRationale": "Re-graded C on a global pass (rank 731 of 1170, score 23). 1 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D1.",
 "timeline": [],
 "unexplainedResidual": "SAPCO is the single office that could resolve the read-on denial with a one-page answer, and no committee has publicly compelled that answer.",
 "unverified": [

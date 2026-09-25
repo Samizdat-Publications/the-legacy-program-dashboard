@@ -37,6 +37,7 @@
 ],
 "cls": "institution",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -260,9 +261,7 @@
 "deg": 10,
 "denials": [],
 "desc": "The Atomic Energy Commission was created by the Atomic Energy Act of 1946 and took statutory title to everything the Manhattan Engineer District had held: all fissionable material, all atomic weapons and parts, and all processes and technical information behind them. It ran the born-secret information regime, under which data in defined categories is classified by operation of statute and declassified only by an affirmative act of the Commission, and it gated every contractor employee's access behind an FBI investigation and a Commission determination. Its Division of Military Application was established in the founding statute and directed by a serving officer of the armed forces. The Energy Reorganization Act of 1974 abolished it and vested its functions in ERDA, from which they passed to the Department of Energy. Four guests across four Michels lead maps place the Commission at a custody point for recovered material; nothing in either statute or in the National Archives record group description says anything about recovered material, and the node carries the statute rather than the testimony.",
-"domains": [
-"michels-2026-09-02"
-],
+"domains": [],
 "dossier": {
 "claims": [
 {
@@ -380,7 +379,11 @@
 "tier": "B"
 }
 ],
+"openQuestions": [],
 "short": "Atomic Energy Commission",
+"sourceFiles": [
+"michels-2026-09-02"
+],
 "sources": [
 {
 "date": "1970-06-01",
@@ -410,6 +413,7 @@
 ],
 "sub": "Civilian atomic authority, 1946-1974; statutory custodian of fissionable material and atomic weapons",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 123 of 1170, score 56). 10 connections, 3 of them custody/funding/programmatic. Axes C2/A3/D1.",
-"timeline": []
+"tierRationale": "Re-graded A on a global pass (rank 125 of 1170, score 56). 10 connections, 3 of them custody/funding/programmatic. Axes C2/A3/D1.",
+"timeline": [],
+"unverified": []
 }

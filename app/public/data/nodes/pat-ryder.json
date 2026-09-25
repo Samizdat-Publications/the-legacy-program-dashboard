@@ -54,18 +54,20 @@
 "deg": 1,
 "denials": [
 {
-"by": {
+"a": {
 "id": "pat-ryder",
 "label": "Patrick S. Ryder"
 },
+"b": {
+"id": "aaro-historical-record-vol1",
+"label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+},
+"by": null,
 "claimTier": 1,
 "denialKind": "association",
 "label": "Released and framed the report as 'the widest possible aperture'",
 "note": "Ryder is the named officer who put the Department's presentation on the record. The framing claim is unfalsifiable without publication of the underlying interview list, which AARO has not released.",
-"of": {
-"id": "aaro-historical-record-vol1",
-"label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
-},
+"of": null,
 "sources": [
 {
 "date": "2024-03-08",
@@ -76,8 +78,7 @@
 }
 ],
 "domains": [
-"_rs-archive-mirror",
-"grusch"
+"d-coverup"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -98,6 +99,10 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Patrick S. Ryder",
+"sourceFiles": [
+"_rs-archive-mirror",
+"grusch"
+],
 "sources": [
 {
 "date": "2026-07-05",

@@ -22,6 +22,7 @@
 ],
 "cls": "document",
 "cluster": "research",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -108,9 +109,7 @@
 "deg": 3,
 "denials": [],
 "desc": "A seven-page policy briefing published by The Sol Foundation in April 2026 and written by Marik von Rennenkampff, a former Obama-administration Department of Defense appointee and later State Department official. It is the most useful secondary document in this domain because it does what no journalism has: it sets out, with citations to contemporaneous 1977-1978 newspaper records and to the peer-reviewed paper, the full evidentiary structure of the Council Bluffs analysis - the witness accounts, the fire chief's description, the police photographs, the original 1978 identification of the material as high-carbon steel and slag, the 2021 SIMS and MIBI work at Stanford, and the systematic elimination of the meteorite, satellite, aircraft, dumping and thermite hypotheses with the specific physical reason for each rejection. Its conclusion is careful and correct: the analyses set 'an important standard for how rigorous scientific methods and cutting-edge materials analysis technologies can and should be applied to the study of UAP in the future.' It is also, read institutionally, a foundation telling Congress what a properly documented materials analysis looks like - which is a way of pointing at what the government's own holdings have never been subjected to in public.",
-"domains": [
-"scientists-technical"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "3",
@@ -124,7 +123,11 @@
 "label": "Sol Foundation Science and Policy Briefing No. 3 (April 2026)",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Sol Foundation Science and Policy Briefing No. 3 (April 2026)",
+"sourceFiles": [
+"scientists-technical"
+],
 "sources": [
 {
 "date": "2026-04-01",
@@ -139,16 +142,18 @@
 ],
 "sub": "Marik von Rennenkampff, 'First Peer-Reviewed Scientific Analysis of Possible UAP Materials Employs State-of-the-Art Technologies'",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 858 of 1170, score 20). 3 connections, 0 of them custody/funding/programmatic. Axes C1/A0/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 860 of 1170, score 20). 3 connections, 0 of them custody/funding/programmatic. Axes C1/A0/D2.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2026-04-01",
+"grade": "A",
 "id": "st-2026-04-sol3",
 "label": "Sol Briefing No. 3",
 "precision": "month",
 "strand": "oversight",
-"text": "Marik von Rennenkampff's briefing sets out the full evidentiary architecture of the Council Bluffs analysis and the physical reason for each excluded hypothesis. Kirk McConnell's Briefing No. 2, proposing a UAP whistleblower restitution fund, appears the same month.",
-"tier": "A"
+"text": "Marik von Rennenkampff's briefing sets out the full evidentiary architecture of the Council Bluffs analysis and the physical reason for each excluded hypothesis. Kirk McConnell's Briefing No. 2, proposing a UAP whistleblower restitution fund, appears the same month."
 }
-]
+],
+"unverified": []
 }

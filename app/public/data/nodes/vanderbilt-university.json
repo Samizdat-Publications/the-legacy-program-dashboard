@@ -27,6 +27,7 @@
 ],
 "cls": "institution",
 "cluster": "research",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -102,10 +103,7 @@
 "deg": 2,
 "denials": [],
 "desc": "Vanderbilt University and Vanderbilt University Medical Center in Nashville, Tennessee are on this board because of a single line of published work: Stephen Bruehl, professor in the Department of Anesthesiology at VUMC, is the lead author of the October 2025 Scientific Reports paper 'Transients in the Palomar Observatory Sky Survey (POSS-I) may be associated with nuclear testing and reports of unidentified anomalous phenomena', written with Beatriz Villarroel of Nordita. The paper reports that star-like transients on photographic plates from 1949-1957 were about 45 per cent more likely on dates within a day of nuclear testing, and that each additional UAP report on a given date corresponded to an 8.5 per cent increase in transient observations. Bruehl also authored the SCU cluster analysis of features in 216 selected UAP reports. What matters here is the venue and the affiliation, not only the result: a Nature Portfolio journal accepted a statistical association between nuclear testing, UAP reports and an archival astronomical dataset, submitted under a major American medical school's name. That is the phenomenon entering the ordinary peer-reviewed literature by a route no classification authority controls, and Vanderbilt is the institution whose name is on it.",
-"domains": [
-"_rs-stubs-known",
-"_stubs"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "nd",
@@ -119,7 +117,12 @@
 "label": "Vanderbilt University",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Vanderbilt University",
+"sourceFiles": [
+"_rs-stubs-known",
+"_stubs"
+],
 "sources": [
 {
 "date": "2025-10-20",
@@ -135,5 +138,6 @@
 "sub": "Academic",
 "tier": "C",
 "tierRationale": "Re-graded C on a global pass (rank 1126 of 1170, score 10). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D0.",
-"timeline": []
+"timeline": [],
+"unverified": []
 }

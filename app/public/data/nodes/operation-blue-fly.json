@@ -27,6 +27,7 @@
 ],
 "cls": "program",
 "cluster": "legacy",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 3,
@@ -108,10 +109,7 @@
 "deg": 3,
 "denials": [],
 "desc": "BLUE FLY was the airlift and quick-reaction arm attached to MOON DUST: the standing arrangement by which recovered material of unknown origin was moved, on priority, to Air Force technical intelligence at Foreign Technology Division, Wright-Patterson AFB. Where MOON DUST was the collection authority, BLUE FLY was the transport and custody mechanism. The two names appear together in Air Force intelligence correspondence and in congressional correspondence generated when members of Congress - including New Mexico's delegation in the 1990s - asked the Air Force to explain them. The Air Force's answers shifted over time from denying the programmes existed to conceding they existed but concerned only foreign space debris. For a board tracking custody, BLUE FLY is the most important single word in the 1960s-1980s record: it names the pipeline. Any recovered material entering US custody in that period had a designated route, and that route terminated at Wright-Patterson, which is precisely where the 1947-era chain also terminated and where the Air Force's own 1985 public fact sheet felt it necessary to state that 'there are not now nor ever have been, any extraterrestrial visitors or equipment on Wright-Patterson Air Force Base.'",
-"domains": [
-"history-1970s-2000s",
-"legacy-1947-86"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -125,7 +123,12 @@
 "label": "Operation BLUE FLY",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Operation BLUE FLY",
+"sourceFiles": [
+"history-1970s-2000s",
+"legacy-1947-86"
+],
 "sources": [
 {
 "date": "2015-03-04",
@@ -145,16 +148,18 @@
 ],
 "sub": "USAF quick-reaction airlift for MOON DUST recoveries",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 225 of 1170, score 44). 3 connections, 3 of them custody/funding/programmatic. Axes C3/A2/D2.",
+"tierRationale": "Re-graded B on a global pass (rank 223 of 1170, score 44). 3 connections, 3 of them custody/funding/programmatic. Axes C3/A2/D2.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1985-01-01",
+"grade": "A",
 "id": "t-1985-usaf-factsheet",
 "label": "USAF fact sheet denies Wright-Patterson holdings",
 "precision": "month",
 "strand": "coverup",
-"text": "Wright-Patterson's public affairs office states: 'There are not now nor ever have been, any extraterrestrial visitors or equipment on Wright-Patterson Air Force Base.'",
-"tier": "A"
+"text": "Wright-Patterson's public affairs office states: 'There are not now nor ever have been, any extraterrestrial visitors or equipment on Wright-Patterson Air Force Base.'"
 }
-]
+],
+"unverified": []
 }

@@ -32,6 +32,7 @@
 ],
 "cls": "institution",
 "cluster": "research",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -81,10 +82,7 @@
 "deg": 1,
 "denials": [],
 "desc": "Sheffield Hallam University is a large applied university in Sheffield, England, with a City Campus on Howard Street, roughly 31,000 students and 4,000 staff, and a Gold rating in the Teaching Excellence Framework. It matters to this board as the academic base of Dr David Clarke, the journalism academic who did more than anyone to prise open the British official record: the Freedom of Information campaign that forced release of the Ministry of Defence's Project Condign study, and the consultancy to The National Archives on the MoD UFO files release programme of 2008-2013. Clarke's outputs are deposited in the university's own institutional repository, SHURA, which holds his National Archives UFO-files media and podcast records from that project, his books on the UFO files and on the history of the phenomenon as a modern myth, and his co-authored report on aerial phenomena observed near the Channel Islands in April 2007. The same repository also holds Andrew Robinson's 2025 photographic analysis of the Calvine photograph, the best-known unresolved British UAP image. Sheffield Hallam therefore functions as an archival and evidentiary node rather than a research programme: it is the university whose repository preserves the working record of the person who forced the British files open, which is exactly the sort of independently held documentation a concealment cannot quietly reabsorb.",
-"domains": [
-"_rs-stubs-known",
-"_stubs"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "nd",
@@ -98,7 +96,12 @@
 "label": "Sheffield Hallam University",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Sheffield Hallam University",
+"sourceFiles": [
+"_rs-stubs-known",
+"_stubs"
+],
 "sources": [
 {
 "date": "2026-08-12",
@@ -113,6 +116,7 @@
 ],
 "sub": "Academic",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 1006 of 1170, score 15). 1 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D0.",
-"timeline": []
+"tierRationale": "Re-graded C on a global pass (rank 1007 of 1170, score 15). 1 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D0.",
+"timeline": [],
+"unverified": []
 }

@@ -27,6 +27,7 @@
 ],
 "cls": "document",
 "cluster": "legacy",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -77,9 +78,7 @@
 "deg": 2,
 "denials": [],
 "desc": "The continuing disclosure vehicle. After 'Skinwalkers at the Pentagon' (2021), Lacatski published 'Inside the U.S. Government Covert UFO Program: Initial Revelations' (2023), 'New Insights' (2025) and 'Future Visions', progressively releasing AAWSAP-derived material through commercial publication rather than through FOIA or congressional testimony. This is a deliberate strategy and Lacatski has said so: in an April 2026 conversation with Jeremy Corbell he stated that AAWSAP 'created the world's largest UFO data warehouse, a stack of more than 100 thick, highly detailed reports filled with hard data about UFO cases and incidents', that he doubts the actual files will ever be released, and that his books constitute the closest thing to full disclosure the public is likely to get. He also reframed the analytic conclusion — UFOs as 'a small slice under a larger paranormal umbrella' rather than the reverse — and hinted that a smaller effort connected to KONA BLUE persisted after AAWSAP ended. The board records the series as the primary 2023-2026 vector by which AAWSAP content is entering the public record, and notes the obvious limitation: a book is not a document release, and none of the underlying reports has been produced.",
-"domains": [
-"aawsap-aatip"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "3",
@@ -93,7 +92,11 @@
 "label": "Inside the U.S. Government Covert UFO Program (Lacatski, 2023-2026)",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Inside the U.S. Government Covert UFO Program (Lacatski, 2023-2026)",
+"sourceFiles": [
+"aawsap-aatip"
+],
 "sources": [
 {
 "date": "2025-01-01",
@@ -118,25 +121,28 @@
 ],
 "sub": "Three-volume follow-on series: Initial Revelations, New Insights, Future Visions",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 355 of 1170, score 36). 2 connections, 0 of them custody/funding/programmatic. Axes C3/A3/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 360 of 1170, score 36). 2 connections, 0 of them custody/funding/programmatic. Axes C3/A3/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2025-01-01",
+"grade": "B",
 "id": "tl-2025-newinsights",
 "label": "Lacatski publishes 'New Insights'",
 "precision": "year",
 "strand": "witness",
-"text": "The third volume of the DOPSR-cleared series continues releasing AAWSAP-derived material through trade publication rather than through FOIA or testimony.",
-"tier": "B"
+"text": "The third volume of the DOPSR-cleared series continues releasing AAWSAP-derived material through trade publication rather than through FOIA or testimony."
 },
 {
+"claimTier": null,
 "date": "2026-04-08",
+"grade": "B",
 "id": "tl-2026-lacatski",
 "label": "Lacatski: 'the world's largest UFO data warehouse'",
 "precision": "day",
 "strand": "witness",
-"text": "In conversation with Jeremy Corbell, Lacatski says AAWSAP produced more than 100 detailed reports, doubts the files will ever be released, and hints a smaller KONA BLUE-related effort continued after AAWSAP ended.",
-"tier": "B"
+"text": "In conversation with Jeremy Corbell, Lacatski says AAWSAP produced more than 100 detailed reports, doubts the files will ever be released, and hints a smaller KONA BLUE-related effort continued after AAWSAP ended."
 }
-]
+],
+"unverified": []
 }

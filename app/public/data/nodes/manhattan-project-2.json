@@ -32,6 +32,7 @@
 ],
 "cls": "program",
 "cluster": "legacy",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -280,18 +281,20 @@
 "deg": 10,
 "denials": [
 {
-"by": {
+"a": {
 "id": "manhattan-project-2",
 "label": "'Manhattan Project 2.0' (alleged secrecy architecture)"
 },
+"b": {
+"id": "ousdi",
+"label": "Office of the Under Secretary of Defense for Intelligence"
+},
+"by": null,
 "claimTier": 2,
 "denialKind": "undirected",
 "label": "Non-Covert Action Programs alleged to carry waived reporting requirements",
 "note": "The operative concealment mechanism on Gerb's account: full SAP security protocols combined with completely waived reporting and budgetary requirements, which would make congressional ignorance lawful rather than the product of active deception.",
-"of": {
-"id": "ousdi",
-"label": "Office of the Under Secretary of Defense for Intelligence"
-},
+"of": null,
 "sources": [
 {
 "date": "2026-06-19",
@@ -302,9 +305,7 @@
 }
 ],
 "desc": "'Manhattan Project 2.0' is UAP Gerb's name for the security architecture he argues has concealed the recovery and exploitation effort since 1947, set out across two investigations published 1 May and 19 June 2026. The model is an onion: the core holds materials, biologics, senior leadership and the actual truths, and an indefinite series of layers keeps even presidential administrations and 'temporary employees' one layer out. The founding claim is that a centralized recovery effort established in 1947 borrowed its secrecy apparatus wholesale from the Manhattan Project and the Atomic Energy Commission - compartmentalization, organizational architecture, physical security, classification and information control, and political shield. Custody of recovered disks is alleged to have been vested by Truman and Eisenhower in AEC national laboratories, with the control group established under the National Security Council and its 5412 Committee and statutory protection drawn from the Atomic Energy Act of 1954. Named architects are Vannevar Bush, who also built the modern military-scientific structure, and General George C. Marshall, whose Alsos Missions and T-Force are presented as the template for crash-retrieval teams. The Cold War, and specifically the 1980s, is said to have fractured a once-unified effort into today's siloed structure; a 1994 restructuring of the Special Access Program enterprise then vested permanent control in a quasi-industry-and-government control group. The modern-day claim is the operative one for oversight: that the portfolio hides inside 'Non-Covert Action Programs' run through White House SAP and NSC Covert Action Program loopholes - managed need-to-know access with full SAP security protocols but completely waived reporting and budgetary requirements. If accurate, that is the precise legal mechanism by which Congress can be lawfully kept ignorant.",
-"domains": [
-"media-structure"
-],
+"domains": [],
 "dossier": {
 "claims": [
 {
@@ -463,7 +464,11 @@
 "tier": "A"
 }
 ],
+"openQuestions": [],
 "short": "'Manhattan Project 2.0'",
+"sourceFiles": [
+"media-structure"
+],
 "sources": [
 {
 "date": "2026-05-01",
@@ -481,31 +486,35 @@
 "tierRationale": "Re-graded A on a global pass (rank 89 of 1170, score 67). 10 connections, 7 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1994-01-01",
+"grade": "B",
 "id": "ms-cv-1994-sap",
 "label": "The 1994 SAP restructuring",
 "precision": "year",
 "strand": "coverup",
-"text": "Gerb argues the Special Access Program enterprise was restructured in 1994 to gatekeep US government access and vest permanent control of the portfolio in a quasi-industry and government control group - the moment, on this account, at which the government ceased to be the controlling party in its own programme.",
-"tier": "B"
+"text": "Gerb argues the Special Access Program enterprise was restructured in 1994 to gatekeep US government access and vest permanent control of the portfolio in a quasi-industry and government control group - the moment, on this account, at which the government ceased to be the controlling party in its own programme."
 },
 {
+"claimTier": null,
 "date": "2026-05-01",
+"grade": "A",
 "id": "ms-2026-mp2",
 "label": "Gerb publishes 'Manhattan Project 2.0' Vol.1",
 "precision": "day",
 "strand": "program",
-"text": "The origin argument: a 1947 centralized effort borrowing the Manhattan Project's secrecy wholesale, AEC custody, the NSC 5412 Committee, the Atomic Energy Act of 1954, Vannevar Bush and George C. Marshall's Alsos Missions and T-Force.",
-"tier": "A"
+"text": "The origin argument: a 1947 centralized effort borrowing the Manhattan Project's secrecy wholesale, AEC custody, the NSC 5412 Committee, the Atomic Energy Act of 1954, Vannevar Bush and George C. Marshall's Alsos Missions and T-Force."
 },
 {
+"claimTier": null,
 "date": "2026-06-19",
+"grade": "A",
 "id": "ms-2026-sar",
 "label": "Gerb publishes 'Special Access Required' Vol.2",
 "precision": "day",
 "strand": "program",
-"text": "The legal-mechanism argument: the 1994 SAP restructuring, and the claim that the portfolio hides in 'Non-Covert Action Programs' with managed need-to-know access and completely waived reporting and budgetary requirements.",
-"tier": "A"
+"text": "The legal-mechanism argument: the 1994 SAP restructuring, and the claim that the portfolio hides in 'Non-Covert Action Programs' with managed need-to-know access and completely waived reporting and budgetary requirements."
 }
-]
+],
+"unverified": []
 }

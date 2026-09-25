@@ -72,6 +72,10 @@
 ],
 "cls": "event",
 "cluster": "legacy",
+"conflicts": [
+"The date. Jacobs gives 2, 3 or 15 September 1964; George gives dawn on 22 September 1964 and names the launch. The board carries the discrepancy rather than resolving it.",
+"What the imagery showed. Jacobs says an intelligently controlled craft and a beam; George says decoy deployment and trailing packing material. Both men were on the deployment and both published under their own names."
+],
 "connections": [
 {
 "claimTier": 1,
@@ -216,18 +220,20 @@
 "deg": 6,
 "denials": [
 {
-"by": {
-"id": "kingston-george",
-"label": "Kingston A. George"
+"a": {
+"id": "doc-si-big-sur-1993",
+"label": "Kingston A. George, 'The Big Sur UFO: An Identified Flying Object', Skeptical Inquirer, Winter 1993"
 },
+"b": {
+"id": "big-sur-1964",
+"label": "Big Sur missile-test filming, September 1964"
+},
+"by": null,
 "claimTier": 1,
 "denialKind": "directed",
 "label": "The project engineer's published rebuttal of the UFO reading of the event",
 "note": "A directed denial by a named participant, and the model this board should want: it establishes the witness's unit, appointment, presence and debriefing while disputing what was on the film.",
-"of": {
-"id": "doc-si-big-sur-1993",
-"label": "Kingston A. George, 'The Big Sur UFO: An Identified Flying Object', Skeptical Inquirer, Winter 1993"
-},
+"of": null,
 "sources": [
 {
 "date": "1993",
@@ -238,10 +244,7 @@
 }
 ],
 "desc": "THE RAREST EVIDENTIARY SHAPE IN THIS CLUSTER: TWO PARTICIPANTS, BOTH PUBLISHED UNDER THEIR OWN NAMES, AGREEING ABOUT THE FACTS OF THE DEPLOYMENT AND DISAGREEING ABOUT ITS PRODUCT. The Air Force placed a borrowed 24-inch Boston University telescope, mounted on a modified five-inch gun mount and fitted with an image orthicon television camera tube, at about 4,000 feet in the Los Padres National Forest above Big Sur, and covered nine of eleven Vandenberg launches between August and November 1964. Lt. Robert Jacobs, named on-site commander by the 1369th Photographic Squadron, published in January 1989 that the resulting film showed a saucer-shaped object circling an Atlas warhead and firing a beam at it. Kingston A. George, the project engineer, published in Winter 1993 that the event was at dawn on 22 September 1964 on a launch nicknamed 'Buzzing Bee', that what was recorded was decoy and chaff deployment giving away the false status of the decoys, that the classified alarm which followed concerned the vulnerability of a weapons system rather than anything extraterrestrial, that Jacobs was not authorised to view the imagery, and that the film was destroyed long before its twelve-year declassification date. George cites a contemporaneous internal document by title and date, which is the best unopened lead this pass produced.",
-"domains": [
-"disclosure-project-2026-09-19",
-"nuclear-witnesses-2026-09-19"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -255,7 +258,12 @@
 "label": "Big Sur missile-test filming, September 1964",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Big Sur missile-test filming, September 1964",
+"sourceFiles": [
+"disclosure-project-2026-09-19",
+"nuclear-witnesses-2026-09-19"
+],
 "sources": [
 {
 "date": "1989-01",
@@ -280,34 +288,42 @@
 ],
 "sub": "An Air Force image-orthicon telescope deployment above Big Sur covering Vandenberg launches from August to November 1964, and the subject of two published first-person accounts that agree on who was there and disagree on what was filmed",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 208 of 1170, score 45). 6 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D2.",
+"tierRationale": "Re-graded B on a global pass (rank 205 of 1170, score 45). 6 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D2.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1964-09-22",
+"grade": "B",
 "id": "tl-1964-09-22-big-sur-buzzing-bee",
 "label": "Atlas launch 'Buzzing Bee' filmed from Big Sur at dawn",
 "precision": "day",
 "strand": "program",
-"text": "The project engineer's published account fixes the event at dawn on 22 September 1964, on an Atlas launch nicknamed 'Buzzing Bee', photographed by a borrowed Boston University 24-inch telescope with an image orthicon tube sited in the Los Padres National Forest above Big Sur. Lt. Robert Jacobs, the on-site commander, later published that the film showed a saucer-shaped object firing a beam at the warhead; the project engineer published that it showed decoy deployment and trailing packing material. Jacobs's own article gives the date as 2, 3 or 15 September 1964.",
-"tier": "B"
+"text": "The project engineer's published account fixes the event at dawn on 22 September 1964, on an Atlas launch nicknamed 'Buzzing Bee', photographed by a borrowed Boston University 24-inch telescope with an image orthicon tube sited in the Los Padres National Forest above Big Sur. Lt. Robert Jacobs, the on-site commander, later published that the film showed a saucer-shaped object firing a beam at the warhead; the project engineer published that it showed decoy deployment and trailing packing material. Jacobs's own article gives the date as 2, 3 or 15 September 1964."
 },
 {
+"claimTier": null,
 "date": "1964-10-13",
+"grade": "B",
 "id": "tl-1964-10-13-george-staff-study",
 "label": "Contemporaneous Air Force staff study on the Big Sur imagery",
 "precision": "day",
 "strand": "program",
-"text": "'Preliminary Report on Image Orthicon Photography from Big Sur', Headquarters 1st Strategic Aerospace Division Operations Analysis Staff Study, 13 October 1964, by Kingston A. George. Cited by title and date in his 1993 article. NOT OPENED. It is the best unopened lead this cluster produced: a contemporaneous Air Force document about the filming, written three weeks afterwards.",
-"tier": "B"
+"text": "'Preliminary Report on Image Orthicon Photography from Big Sur', Headquarters 1st Strategic Aerospace Division Operations Analysis Staff Study, 13 October 1964, by Kingston A. George. Cited by title and date in his 1993 article. NOT OPENED. It is the best unopened lead this cluster produced: a contemporaneous Air Force document about the filming, written three weeks afterwards."
 },
 {
+"claimTier": null,
 "date": "1993",
+"grade": "B",
 "id": "tl-1993-george-skeptical-inquirer",
 "label": "The project engineer answers Jacobs in print",
 "precision": "year",
 "strand": "witness",
-"text": "Kingston A. George, 'The Big Sur UFO: An Identified Flying Object', Skeptical Inquirer, Vol. 17, No. 2, Winter 1993, pages 180 to 186. He identifies himself as the project engineer, confirms that Jacobs was named on-site commander by the 1369th Photo Squadron, publishes team photographs, fixes the date and launch, explains the imagery as decoy and chaff deployment, and states that Jacobs was not authorised to view the film.",
-"tier": "B"
+"text": "Kingston A. George, 'The Big Sur UFO: An Identified Flying Object', Skeptical Inquirer, Vol. 17, No. 2, Winter 1993, pages 180 to 186. He identifies himself as the project engineer, confirms that Jacobs was named on-site commander by the 1369th Photo Squadron, publishes team photographs, fixes the date and launch, explains the imagery as decoy and chaff deployment, and states that Jacobs was not authorised to view the film."
 }
+],
+"unverified": [
+"The 13 October 1964 staff study, the single most promising unopened lead in this cluster: a contemporaneous Air Force document about this filming, written three weeks after the event and cited by title and date by a participant.",
+"The film itself, which the project engineer states was destroyed.",
+"Any Air Force record naming either man, independent of their own publications."
 ]
 }

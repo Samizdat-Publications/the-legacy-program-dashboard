@@ -115,7 +115,8 @@
 "deg": 2,
 "denials": [],
 "domains": [
-"scientists-technical"
+"d-research",
+"d-records"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -136,6 +137,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Robert M. Powell",
+"sourceFiles": [
+"scientists-technical"
+],
 "sources": [
 {
 "date": "2026-08-12",

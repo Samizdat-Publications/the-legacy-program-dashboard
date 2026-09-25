@@ -42,6 +42,7 @@
 ],
 "cls": "event",
 "cluster": "witness",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -176,6 +177,14 @@
 "deg": 6,
 "denials": [
 {
+"a": {
+"id": "aaro",
+"label": "All-domain Anomaly Resolution Office (AARO)"
+},
+"b": {
+"id": "grusch-misappropriation-allegation",
+"label": "The misappropriation allegation: Grusch's ICIG complaint and sworn testimony"
+},
 "by": {
 "id": "aaro",
 "label": "All-domain Anomaly Resolution Office (AARO)"
@@ -198,9 +207,7 @@
 }
 ],
 "desc": "The specific allegation that programme funds were moved into private contractor custody outside congressional oversight has a named source, a date, a legal vehicle and an oath. David Charles Grusch, formerly the National Reconnaissance Office's representative to the Unidentified Aerial Phenomena Task Force and a senior technical adviser on UAP analysis at the National Geospatial-Intelligence Agency, filed a Disclosure of Urgent Concern and Complaint of Reprisal with the Intelligence Community Inspector General in May 2022, through counsel Charles McCullough III - himself a former Intelligence Community Inspector General. The ICIG found the complaint credible and urgent in July 2022. Grusch then briefed the staffs of the congressional intelligence committees in closed session. On 5 June 2023 he went on the record with Leslie Kean and Ralph Blumenthal in The Debrief, stating: 'Individuals on these UAP programs approached me in my official capacity and disclosed their concerns regarding a multitude of wrongdoings, such as illegal contracting against the Federal Acquisition Regulations and other criminality and the suppression of information across a qualified industrial base and academia.' That sentence is the named mechanism: not a generic accusation of secrecy but a specific claim of procurement fraud - contracting conducted outside the Federal Acquisition Regulation, which is the body of law governing how the government buys things and what the government owns when it has paid. On 26 July 2023 Grusch testified under oath before the Subcommittee on National Security, the Border, and Foreign Affairs of the House Committee on Oversight and Accountability, at a hearing titled 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency', alongside Ryan Graves and Commander David Fravor. His written statement records that he was 'informed in the course of my official duties of a multi-decade UAP crash retrieval and reverse engineering program' to which he was denied access, and refers to 'Non-Human Reverse Engineering Programs'; the specific financial detail he declined to give in open session, offering it in a classified setting. Five months later Congress enacted section 1687 of the FY2024 NDAA, barring funds for unreported UAP special access activity and barring UAP-related contractor independent research and development from being an allowable indirect cost. The sequence - complaint, credible-and-urgent finding, closed briefings, sworn testimony, statute naming IR&D - is the strongest documented chain on this board connecting an allegation about money to legislative action about money.",
-"domains": [
-"w2-black-budget"
-],
+"domains": [],
 "dossier": {
 "claims": [
 {
@@ -314,7 +321,11 @@
 "label": "The misappropriation allegation: Grusch's ICIG complaint and sworn testimony",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "The misappropriation allegation: Grusch's ICIG complaint and sworn testimony",
+"sourceFiles": [
+"w2-black-budget"
+],
 "sources": [
 {
 "date": "2023-06-05",
@@ -339,43 +350,48 @@
 ],
 "sub": "May 2022 ICIG urgent-concern complaint; 26 July 2023 sworn testimony to House Oversight",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 161 of 1170, score 51). 6 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D3.",
+"tierRationale": "Re-graded A on a global pass (rank 160 of 1170, score 51). 6 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2022-05",
+"grade": "A",
 "id": "bb-tl-2022-05-icig",
 "label": "Grusch files the ICIG urgent-concern complaint",
 "precision": "month",
 "strand": "witness",
-"text": "Charles McCullough III, himself a former Intelligence Community Inspector General, files a Disclosure of Urgent Concern(s) and Complaint of Reprisal with the ICIG on behalf of David Grusch, covering information Grusch had gathered from 2019.",
-"tier": "A"
+"text": "Charles McCullough III, himself a former Intelligence Community Inspector General, files a Disclosure of Urgent Concern(s) and Complaint of Reprisal with the ICIG on behalf of David Grusch, covering information Grusch had gathered from 2019."
 },
 {
+"claimTier": null,
 "date": "2022-07",
+"grade": "A",
 "id": "bb-tl-2022-07-credible",
 "label": "ICIG finds the complaint credible and urgent",
 "precision": "month",
 "strand": "witness",
-"text": "The Intelligence Community Inspector General determines the complaint credible and urgent - the statutory finding that obliges transmission to the congressional intelligence committees.",
-"tier": "A"
+"text": "The Intelligence Community Inspector General determines the complaint credible and urgent - the statutory finding that obliges transmission to the congressional intelligence committees."
 },
 {
+"claimTier": null,
 "date": "2023-06-05",
+"grade": "A",
 "id": "bb-tl-2023-06-05-debrief",
 "label": "Grusch names the mechanism on the record",
 "precision": "day",
 "strand": "witness",
-"text": "In The Debrief, Leslie Kean and Ralph Blumenthal quote Grusch: 'Individuals on these UAP programs approached me in my official capacity and disclosed their concerns regarding a multitude of wrongdoings, such as illegal contracting against the Federal Acquisition Regulations and other criminality and the suppression of information across a qualified industrial base and academia.' Procurement fraud, not merely secrecy, is the accusation.",
-"tier": "A"
+"text": "In The Debrief, Leslie Kean and Ralph Blumenthal quote Grusch: 'Individuals on these UAP programs approached me in my official capacity and disclosed their concerns regarding a multitude of wrongdoings, such as illegal contracting against the Federal Acquisition Regulations and other criminality and the suppression of information across a qualified industrial base and academia.' Procurement fraud, not merely secrecy, is the accusation."
 },
 {
+"claimTier": null,
 "date": "2023-07-26",
+"grade": "A",
 "id": "bb-tl-2023-07-26-hearing",
 "label": "Grusch testifies under oath to House Oversight",
 "precision": "day",
 "strand": "witness",
-"text": "At 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency', Grusch testifies alongside Ryan Graves and David Fravor. His written statement describes a 'multi-decade UAP crash retrieval and reverse engineering program' to which he was denied access and refers to 'Non-Human Reverse Engineering Programs'. It contains no funding detail; that he reserved for classified session.",
-"tier": "A"
+"text": "At 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency', Grusch testifies alongside Ryan Graves and David Fravor. His written statement describes a 'multi-decade UAP crash retrieval and reverse engineering program' to which he was denied access and refers to 'Non-Human Reverse Engineering Programs'. It contains no funding detail; that he reserved for classified session."
 }
-]
+],
+"unverified": []
 }

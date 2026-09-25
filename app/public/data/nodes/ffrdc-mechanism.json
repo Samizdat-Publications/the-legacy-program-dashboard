@@ -27,6 +27,7 @@
 ],
 "cls": "domain",
 "cluster": "contractor",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -129,9 +130,7 @@
 "deg": 4,
 "denials": [],
 "desc": "This is the structural core of the entire domain: the claim that Federally Funded Research and Development Centers, University Affiliated Research Centers and Government-Owned Contractor-Operated facilities are the legal and corporate vehicle by which the recovery and exploitation effort is held outside the federal government while remaining under federal control. The mechanism as described has three properties, each of which is independently useful to a concealer. First, vesting: work performed inside a non-profit FFRDC is not performed by federal employees, so it sits outside much of the federal records, FOIA and personnel apparatus while the sponsoring agency retains ownership of materials and data. Second, arbitration: the FFRDC sits between the government and the primes and decides what the primes are told, which means no single defense contractor ever holds the whole picture and none can be subpoenaed into producing it. Third, continuity: FFRDCs are chartered for long-term strategic partnership with a single sponsor and are prohibited from competing with industry, giving them institutional memory and a conflict-free posture that a rotating political appointee cannot disturb. UAP Gerb advances MITRE as the exemplar and names the same mechanism across the Aerospace Corporation, Sandia and RAND; Ross Coulthart devoted a segment of his 4 August 2026 Reality Check to 'FFRDCs, U-Arcs, and GOCOs'. What makes this the most auditable claim on the board is that the mechanism is entirely real and entirely documented - MITRE genuinely operates six FFRDCs, the vesting and arbitration properties are genuine features of the model - so the only contested proposition is what is inside it, not whether the container exists.",
-"domains": [
-"media-structure"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -145,7 +144,11 @@
 "label": "The FFRDC / UARC / GOCO mechanism",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "The FFRDC / UARC / GOCO mechanism",
+"sourceFiles": [
+"media-structure"
+],
 "sources": [
 {
 "date": "2026-08-12",
@@ -165,6 +168,7 @@
 ],
 "sub": "Alleged legal-corporate concealment vehicle",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 289 of 1170, score 40). 4 connections, 2 of them custody/funding/programmatic. Axes C2/A3/D3.",
-"timeline": []
+"tierRationale": "Re-graded B on a global pass (rank 288 of 1170, score 40). 4 connections, 2 of them custody/funding/programmatic. Axes C2/A3/D3.",
+"timeline": [],
+"unverified": []
 }

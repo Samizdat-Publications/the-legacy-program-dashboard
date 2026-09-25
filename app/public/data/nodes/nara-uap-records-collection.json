@@ -32,6 +32,7 @@
 ],
 "cls": "program",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -170,18 +171,20 @@
 "deg": 5,
 "denials": [
 {
-"by": {
+"a": {
 "id": "nara-uap-records-collection",
 "label": "National Archives UAP Records Collection (Record Group 615)"
 },
+"b": {
+"id": "dod",
+"label": "United States Department of Defense (secondary designation: Department of War)"
+},
+"by": null,
 "claimTier": 1,
 "denialKind": "undirected",
 "label": "No agency-by-agency compliance accounting is published",
 "note": "NARA publishes no list of which agencies have transferred UAP records, no counts and no transfer dates - only a statement that records will be added on a rolling basis as received.",
-"of": {
-"id": "dod",
-"label": "United States Department of Defense (secondary designation: Department of War)"
-},
+"of": null,
 "sources": [
 {
 "date": "2026-08-12",
@@ -197,10 +200,7 @@
 }
 ],
 "desc": "The statutory records collection, and the quietest failure in this domain. Sections 1841 through 1843 of the FY2024 National Defense Authorization Act, Public Law 118-31, directed the establishment of an Unidentified Anomalous Phenomena Records Collection at the National Archives. NARA created Record Group 615 to receive it and issued guidance to federal agencies on identifying, preparing and transferring UAP records into that record group. What NARA does not publish is the thing that would make the collection meaningful: which agencies have actually transferred anything, how much, or when. Its public position, verbatim, is that 'NARA will continue to add UAP records to the UAP Records Collection (RG 615) and make them available online through the National Archives Catalog on an ongoing, rolling basis as they are received from federal agencies.' There is no published compliance list, no page or item counts by agency, no transfer dates, and no statement identifying any agency as delinquent. The Department of War asserts progress - AARO 'has made progress in making UAP information available and in transferring those records to the National Archives in accordance with federal law' - but the assertion is unverifiable against NARA's own pages. The Burlison FY2027 NDAA amendment exists precisely to fix this: statutory transfer timelines, a Senate-confirmed review board with subpoena power, and contractor reach. A records collection with no compliance reporting is a collection whose emptiness is indistinguishable from its completeness.",
-"domains": [
-"_rs-archive-mirror",
-"releases-2023-2026"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": {
 "desc": "Status as of 12 August 2026. Statutory basis: FY2024 NDAA, P.L. 118-31, sections 1841-1843. Record Group: RG 615, Unidentified Anomalous Phenomena Records Collection. NARA has issued guidance to federal agencies on identification, preparation and transfer of UAP records into RG 615, and publishes FAQs and bulk catalog downloads specific to UAP records. NARA's published position is that it will add records 'on an ongoing, rolling basis as they are received from federal agencies.' What is not published, and what this board records as the central gap in the statutory channel: no agency compliance list, no per-agency item or page counts, no transfer dates, and no identification of any agency as delinquent. AARO's UAP Records page directs the public to the NARA collection, and the Department of War asserts AARO 'has made progress in making UAP information available and in transferring those records to the National Archives in accordance with federal law' - an assertion that cannot be checked against anything NARA publishes.",
@@ -238,7 +238,12 @@
 "label": "National Archives UAP Records Collection (Record Group 615)",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "National Archives UAP Records Collection (Record Group 615)",
+"sourceFiles": [
+"_rs-archive-mirror",
+"releases-2023-2026"
+],
 "sources": [
 {
 "date": "2026-05-08",
@@ -278,16 +283,18 @@
 ],
 "sub": "Created under FY2024 NDAA sections 1841-1843, P.L. 118-31",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 333 of 1170, score 37). 5 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 332 of 1170, score 37). 5 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2026-02-27",
+"grade": "B",
 "id": "rel-2026-02-27",
 "label": "AARO says it is transferring records to NARA",
 "precision": "day",
 "strand": "program",
-"text": "A Department of War news story records that AARO is coordinating with the White House and across agencies to consolidate UAP record collections and has made progress transferring records to the National Archives.",
-"tier": "B"
+"text": "A Department of War news story records that AARO is coordinating with the White House and across agencies to consolidate UAP record collections and has made progress transferring records to the National Archives."
 }
-]
+],
+"unverified": []
 }

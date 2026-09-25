@@ -52,6 +52,7 @@
 ],
 "cls": "institution",
 "cluster": "ffrdc",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -185,10 +186,7 @@
 "deg": 5,
 "denials": [],
 "desc": "Aerospace is the FFRDC that owns the technical judgement on everything the United States puts into, or detects from, orbit - and it is the second named target of the congressional inquiry. It was created in 1960 at the Air Force's insistence, announced by Lt. Gen. Bernard Schriever, to provide dedicated scientific and technical planning for the military space and ballistic missile programmes after the conflict-of-interest problems of the earlier Ramo-Wooldridge arrangement. Congress's Office of Technology Assessment noted in its 1995 history of DoD FFRDCs that the Air Force insisted on specific restrictions in the Aerospace charter that it had not imposed elsewhere - the government designed this one to be structurally constrained precisely because it would sit at the centre of national security space. Today Aerospace operates the only FFRDC committed exclusively to the space enterprise, with roughly 4,800 employees, funded at approximately 1,309.8 million dollars in FY2024, under Space Force contract FA880219C0001 recorded on USAspending at approximately 8.67 billion dollars over 2018-2028. Its relevance to this board is direct: any persistent orbital or transmedium object detected by national security space sensors would be characterised technically by Aerospace, not by the Space Force in-house, and Aerospace also performs system engineering and integration for NNSA's Defense Nuclear Nonproliferation and Defense Programs offices under DOE contract 89233120CNA000134. Rep. Burlison has named Aerospace explicitly among the organisations his investigation is following, and Ross Coulthart has publicly raised Aerospace and MITRE in connection with the 2026 UAP Governance Board. No document has been produced placing Aerospace in a legacy programme. What is documented is that it holds the technical keys to the space sensor picture and that Congress has now put it on the list.",
-"domains": [
-"ffrdcs",
-"scientists-technical"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -202,7 +200,12 @@
 "label": "The Aerospace Corporation",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "The Aerospace Corporation",
+"sourceFiles": [
+"ffrdcs",
+"scientists-technical"
+],
 "sources": [
 {
 "date": "2026-07-02",
@@ -247,16 +250,18 @@
 ],
 "sub": "Nonprofit operator of the Aerospace FFRDC for the US Space Force; El Segundo, CA; founded 1960",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 211 of 1170, score 45). 5 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D1.",
+"tierRationale": "Re-graded B on a global pass (rank 208 of 1170, score 45). 5 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D1.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1960-06-03",
+"grade": "B",
 "id": "tl-ffrdc-1960-aerospace",
 "label": "The Aerospace Corporation founded",
 "precision": "month",
 "strand": "program",
-"text": "Announced by Lt. Gen. Bernard Schriever, Aerospace is created to provide dedicated technical planning for military space and ballistic missile programmes, with charter restrictions the Air Force had not imposed on earlier FFRDCs.",
-"tier": "B"
+"text": "Announced by Lt. Gen. Bernard Schriever, Aerospace is created to provide dedicated technical planning for military space and ballistic missile programmes, with charter restrictions the Air Force had not imposed on earlier FFRDCs."
 }
-]
+],
+"unverified": []
 }

@@ -42,6 +42,7 @@
 ],
 "cls": "document",
 "cluster": "other",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -290,6 +291,43 @@
 "deg": 8,
 "denials": [
 {
+"a": {
+"id": "thomas-wilson",
+"label": "Thomas R. Wilson"
+},
+"b": {
+"id": "wilson-davis-memo",
+"label": "The Wilson-Davis Notes (16 October 2002)"
+},
+"by": {
+"id": "thomas-wilson",
+"label": "Thomas R. Wilson"
+},
+"claimTier": 2,
+"denialKind": "directed",
+"label": "Wilson denies the meeting and the substance attributed to him",
+"note": "Wilson's denial is recorded as a primary artefact. It is irreconcilable with Davis's confirmation of authorship, and no agency has attempted to resolve it.",
+"of": {
+"id": "wilson-davis-memo",
+"label": "The Wilson-Davis Notes (16 October 2002)"
+},
+"sources": [
+{
+"date": "2022-08-01",
+"name": "The Debrief, 'Summer of the Saucers' (notes Wilson-Davis Memo raised at the 17 May 2022 House Intelligence UAP hearing)",
+"url": "https://thedebrief.org/summer-of-the-saucers/"
+}
+]
+},
+{
+"a": {
+"id": "wilson-davis-memo",
+"label": "The Wilson-Davis Notes (16 October 2002)"
+},
+"b": {
+"id": "aaro-historical-record-vol1",
+"label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+},
 "by": {
 "id": "aaro-historical-record-vol1",
 "label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
@@ -314,34 +352,10 @@
 "url": "https://thedebrief.org/summer-of-the-saucers/"
 }
 ]
-},
-{
-"by": {
-"id": "thomas-wilson",
-"label": "Thomas R. Wilson"
-},
-"claimTier": 2,
-"denialKind": "directed",
-"label": "Wilson denies the meeting and the substance attributed to him",
-"note": "Wilson's denial is recorded as a primary artefact. It is irreconcilable with Davis's confirmation of authorship, and no agency has attempted to resolve it.",
-"of": {
-"id": "wilson-davis-memo",
-"label": "The Wilson-Davis Notes (16 October 2002)"
-},
-"sources": [
-{
-"date": "2022-08-01",
-"name": "The Debrief, 'Summer of the Saucers' (notes Wilson-Davis Memo raised at the 17 May 2022 House Intelligence UAP hearing)",
-"url": "https://thedebrief.org/summer-of-the-saucers/"
-}
-]
 }
 ],
 "desc": "Fifteen typed pages headed 'EWD NOTES', made by the astrophysicist Eric W. Davis on 16 October 2002, recording what retired Vice Admiral Thomas R. Wilson - former Joint Staff J-2 and, until months earlier, Director of the Defense Intelligence Agency - told him at a meeting reported to have taken place at an EG&G facility in Las Vegas; two of the fifteen pages, numbered 3 and 4, are not Davis's notes at all but a paper-clipped letter from Will Miller on United States Navy letterhead dated 25 April 2002, flagged in the notes themselves at the foot of page 2 as '[paper-clipped letter here]'. The notes describe Wilson learning in 1997 of a special access programme holding recovered material of non-human origin in the custody of an aerospace contractor; obtaining a meeting with the programme's gatekeepers, described as a programme security officer, a contractor programme manager and a lawyer; and being refused the read-on because he lacked need-to-know. The notes surfaced publicly in 2019 from material connected to the estate of Apollo 14 astronaut Edgar Mitchell. Davis has confirmed the notes are his. Wilson denies the meeting and its substance. Members of the House Intelligence subcommittee raised the memo directly with Pentagon witnesses at the 17 May 2022 UAP hearing and were told the witnesses were unaware of it. No official US government publication - including AARO's 2024 Historical Record Report Volume I - has ever addressed the document. The board records it in full because its central mechanism (a cleared senior official refused access by contractor gatekeepers) is the same mechanism sworn to by David Grusch in July 2023, and because a document whose author is alive and identified and whose subject is alive and identified is a resolvable question that no institution has chosen to resolve.",
-"domains": [
-"_rs-archive-mirror",
-"history-1970s-2000s"
-],
+"domains": [],
 "dossier": {
 "claims": [
 {
@@ -515,7 +529,12 @@
 "tier": "C"
 }
 ],
+"openQuestions": [],
 "short": "The Wilson-Davis Notes",
+"sourceFiles": [
+"_rs-archive-mirror",
+"history-1970s-2000s"
+],
 "sources": [
 {
 "date": "2002-10-16",
@@ -548,31 +567,35 @@
 "tierRationale": "Re-graded A on a global pass (rank 71 of 1170, score 72). 10 connections, 3 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C3/A3/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2002-10-16",
+"grade": "C",
 "id": "t-2002-wilson",
 "label": "The Wilson-Davis meeting",
 "precision": "day",
 "strand": "program",
-"text": "Eric Davis takes fifteen pages of handwritten notes recording Admiral Thomas Wilson describing being refused access, on need-to-know grounds, to a SAP holding recovered non-human material in contractor custody.",
-"tier": "C"
+"text": "Eric Davis takes fifteen pages of handwritten notes recording Admiral Thomas Wilson describing being refused access, on need-to-know grounds, to a SAP holding recovered non-human material in contractor custody."
 },
 {
+"claimTier": null,
 "date": "2019-04-01",
+"grade": "C",
 "id": "t-2019-wilsonnotes",
 "label": "Wilson-Davis notes surface",
 "precision": "month",
 "strand": "program",
-"text": "The fifteen pages enter public circulation. Davis confirms the notes are his; Wilson denies the meeting and its substance. No agency has attempted to reconcile the two.",
-"tier": "C"
+"text": "The fifteen pages enter public circulation. Davis confirms the notes are his; Wilson denies the meeting and its substance. No agency has attempted to reconcile the two."
 },
 {
+"claimTier": null,
 "date": "2022-05-17",
+"grade": "A",
 "id": "t-2022-hearing",
 "label": "Congress asks DoD about the Wilson-Davis memo",
 "precision": "day",
 "strand": "oversight",
-"text": "At the House Intelligence subcommittee UAP hearing, Ronald Moultrie and Scott Bray are asked directly about the Wilson-Davis memo and the Malmstrom missile events and state they are unaware of them.",
-"tier": "A"
+"text": "At the House Intelligence subcommittee UAP hearing, Ronald Moultrie and Scott Bray are asked directly about the Wilson-Davis memo and the Malmstrom missile events and state they are unaware of them."
 }
-]
+],
+"unverified": []
 }
