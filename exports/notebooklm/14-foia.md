@@ -10,7 +10,7 @@ Agency: NARA. Status: not filed.
 
 Where it goes: National Archives and Records Administration, FOIA Officer, Office of General Counsel, 8601 Adelphi Road, College Park MD 20740. Cross-file a copy with the National Declassification Center, which is the operational custodian of the collection.
 
-It covers 9 nodes on the board: Central Intelligence Agency, Defense Intelligence Agency, United States Department of Energy, National Archives Record Group 615 - UAP Records Collection, National Archives Unidentified Anomalous Phenomena Records Collection, FY2024 NDAA, Public Law 118-31 - Div. A, Title XVIII, Subtitle C (secs. 1841-1843), UAP Records Collection; Div. G (IAA FY2024) secs. 7341, 7343, National Reconnaissance Office, Office of the Director of National Intelligence, United States House of Representatives.
+It covers 8 nodes on the board: Central Intelligence Agency, Defense Intelligence Agency, United States Department of Energy, National Archives Unidentified Anomalous Phenomena Records Collection, FY2024 NDAA, Public Law 118-31 - Div. A, Title XVIII, Subtitle C (secs. 1841-1843), UAP Records Collection; Div. G (IAA FY2024) secs. 7341, 7343, National Reconnaissance Office, Office of the Director of National Intelligence, United States House of Representatives.
 
 ### Central Intelligence Agency
 
@@ -30,14 +30,6 @@ What this request asks, taken from the open questions on that node:
 
 - DOE has not, on the public record, transmitted UAP records to the National Archives Record Group 615 under sections 1841-1843 of the FY2024 NDAA. Whether it has asserted that responsive material is Restricted Data and therefore outside the transfer obligation is undocumented and is the single highest-value question on this node.
 
-### National Archives Record Group 615 - UAP Records Collection
-
-What this request asks, taken from the open questions on that node:
-
-- Whether the subject guidebook and index required by section 1841(a)(1)(D) has been prepared or published.
-- How many records have been postponed under section 1843, by which agencies, and whether any unclassified written descriptions of continued postponement have been published in the Federal Register as section 1842(g)(2)(B) requires.
-- Whether any agency has certified completion of the section 1842(c)(1) 300-day review, and whether the Department of Energy, CIA, DIA, NRO, NGA, the Army and the Navy have transferred anything into RG 615. Half-closed on 28 August 2026: the Department of the Air Force transferred thirty records, so a military department has now complied and the rest cannot claim the obligation is unworkable.
-
 ### National Archives Unidentified Anomalous Phenomena Records Collection
 
 What this request asks, taken from the open questions on that node:
@@ -46,6 +38,9 @@ What this request asks, taken from the open questions on that node:
 - The statutory transfer deadline of 30 September 2025 has passed. No enforcement action, referral or public accounting of non-compliance has been identified.
 - NARA holds unredacted copies of redacted UAP records under the simultaneous transfer requirement. The volume of that unpublished holding is not disclosed anywhere.
 - Whether records classified as Restricted Data under the Atomic Energy Act are treated as within or outside the transfer obligation has never been addressed by NARA guidance, which matters directly for DOE and the nuclear weapons complex.
+- Whether the subject guidebook and index required by section 1841(a)(1)(D) has been prepared or published.
+- How many records have been postponed under section 1843, by which agencies, and whether any unclassified written descriptions of continued postponement have been published in the Federal Register as section 1842(g)(2)(B) requires.
+- Whether any agency has certified completion of the section 1842(c)(1) 300-day review, and whether the Department of Energy, CIA, DIA, NRO, NGA, the Army and the Navy have transferred anything into RG 615. Half-closed on 28 August 2026: the Department of the Air Force transferred thirty records, so a military department has now complied and the rest cannot claim the obligation is unworkable.
 
 ### FY2024 NDAA, Public Law 118-31 - Div. A, Title XVIII, Subtitle C (secs. 1841-1843), UAP Records Collection; Div. G (IAA FY2024) secs. 7341, 7343
 

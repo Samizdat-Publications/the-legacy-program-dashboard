@@ -63,6 +63,18 @@
 "source": "Inference from its corporate form and the absence of any published analytical output on held samples",
 "text": "EarthTech is the structural weak point in every published custody chain in this domain: as a private corporation it is outside FOIA, it has released no analytical reports on the samples it holds, and it sits between a government programme upstream and a public company downstream.",
 "tier": 3
+},
+{
+"id": "c-edfec7dae1",
+"source": "Cover page of 'Clinical Medical Acute & Subacute Field Effects on Human Dermal & Neurological Tissues'",
+"text": "The IASA imprint appears on the cover of the AAWSAP medical DIRD authored by Christopher Green, M.D., Ph.D.",
+"tier": 1
+},
+{
+"id": "c-ed2264504c",
+"source": "Preface of the Green DIRD",
+"text": "The DIRD's preface quotes a November 2007 proposal addressed 'to Puthoff/Hathaway' proposing outsourcing of a medical analysis of archival data on physiological effects of 'exotic propulsion' fields.",
+"tier": 1
 }
 ],
 "cls": "institution",
@@ -229,6 +241,28 @@
 "date": null,
 "name": "https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk",
 "url": "https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "2010",
+"dateStart": "2009",
+"direction": "in",
+"edgeId": "e-02c70e3391",
+"edgeLabel": "Produced under the Institute for Advanced Studies at Austin imprint",
+"id": "dird-green-clinical-medical",
+"l0": false,
+"label": "DIRD: 'Clinical Medical Acute & Subacute Field Effects on Human Dermal & Neurological Tissues'",
+"note": "The document's cover page carries the IASA name above the headings 'Translational Sciences / Forensic Medicine - Engineering Mechanics', placing Puthoff's institute as the producing organisation for the government's medical study.",
+"sources": [
+{
+"date": "2020-01-01",
+"name": "DIRD 'Clinical Medical Acute & Subacute Field Effects on Human Dermal & Neurological Tissues' (Christopher Green, Institute for Advanced Studies at Austin)",
+"url": "https://www.theblackvault.com/documentarchive/wp-content/uploads/2020/01/kitgreen-dird.pdf"
 }
 ],
 "tier": "B",
@@ -445,28 +479,6 @@
 },
 {
 "claimTier": 1,
-"cls": "institution",
-"dateEnd": null,
-"dateStart": "1991",
-"direction": "in",
-"edgeId": "e-c9caa84771",
-"edgeLabel": "IASA (1985) incorporated under EarthTech International (1991)",
-"id": "institute-advanced-studies-austin",
-"l0": false,
-"label": "Institute for Advanced Studies at Austin",
-"note": "EarthTech's own About page states the corporate relationship; the two names are used interchangeably across the DIRD covers and the TTSA reporting.",
-"sources": [
-{
-"date": "2026-08-12",
-"name": "EarthTech International / Institute for Advanced Studies at Austin",
-"url": "https://www.earthtech.org/about/"
-}
-],
-"tier": "C",
-"type": "institutional"
-},
-{
-"claimTier": 1,
 "cls": "location",
 "dateEnd": null,
 "dateStart": "1991",
@@ -662,6 +674,12 @@
 },
 {
 "cls": "document",
+"id": "dird-green-clinical-medical",
+"label": "DIRD: 'Clinical Medical Acute & Subacute Field Effects on Human Dermal & Neurological Tissues'",
+"tier": "B"
+},
+{
+"cls": "document",
 "id": "dird-laser-lightcraft-nanosatellites",
 "label": "Laser Lightcraft Nanosatellites",
 "tier": "B"
@@ -695,12 +713,6 @@
 "id": "harold-puthoff",
 "label": "Harold E. Puthoff",
 "tier": "A"
-},
-{
-"cls": "institution",
-"id": "institute-advanced-studies-austin",
-"label": "Institute for Advanced Studies at Austin",
-"tier": "C"
 },
 {
 "cls": "location",
@@ -766,11 +778,27 @@
 "date": "2026-08-12",
 "name": "Wikipedia: To The Stars Inc.",
 "url": "https://en.wikipedia.org/wiki/To_the_Stars_(company)."
+},
+{
+"date": "2020-02-14",
+"name": "Tim McMillan, 'Inside the Pentagon's Secret UFO Program', Popular Mechanics",
+"url": "https://www.popularmechanics.com/military/research/a30916275/government-secret-ufo-program-investigation/"
 }
 ],
 "sub": "Private research firm, Austin, TX; largest single DIRD producer",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 88 of 1170, score 68). 14 connections, 2 of them custody/funding/programmatic. Axes C3/A2/D3.",
-"timeline": [],
+"tierRationale": "Re-graded A on a global pass (rank 67 of 1138, score 74). 14 connections, 2 of them custody/funding/programmatic. Axes C3/A2/D3.",
+"timeline": [
+{
+"claimTier": null,
+"date": "1985-01-01",
+"grade": "A",
+"id": "st-1985-iasa",
+"label": "IASA founded",
+"precision": "year",
+"strand": "program",
+"text": "Puthoff establishes the Institute for Advanced Studies at Austin, incorporated under EarthTech International in 1991."
+}
+],
 "unverified": []
 }

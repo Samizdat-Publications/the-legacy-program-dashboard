@@ -742,6 +742,9 @@ def load():
                 for f in ("locId", "instId", "domains", "affiliations", "sequenceChain"):
                     if f in p:
                         tgt[f] = rec[f]
+                # the case against is unioned, as on the entity side (phase 4)
+                _union_lists(tgt, {f: _as_list(p.get(f)) for f in ("conflicts", "unverified")},
+                             ("conflicts", "unverified"))
                 if p.get("sources"):
                     tgt["sources"] = norm_sources(list(p["sources"]) + tgt.get("sources", []))
                 if p.get("claims"):
@@ -800,6 +803,18 @@ def load():
                 for f in ("label", "desc", "sub", "cluster", "tier", "dateStart", "dateEnd"):
                     if e.get(f) is not None:
                         tgt[f] = rec["label"] if f == "label" else e[f]
+                # `cls` joined in phase 4: a collapse can leave the survivor filed
+                # under the wrong class (the House task force was a `program` while
+                # both of its duplicates said `institution`). A correction record
+                # has always had to carry a valid cls to be read at all; until now
+                # the value was ignored, and every one of the 46 on file matched
+                # the board, so honouring it changes nothing that was already there.
+                tgt["cls"] = cls
+                # The case against a node can be corrected too (phase 4): where two
+                # collapsed records disagree, the survivor's `conflicts` says so.
+                # Unioned, never replaced: a correction adds to the case against.
+                _union_lists(tgt, {f: _as_list(e.get(f)) for f in CASE_AGAINST_FIELDS},
+                             CASE_AGAINST_FIELDS)
                 tgt["sources"] = norm_sources(list(e.get("sources") or []) + tgt.get("sources", []))
                 # A correction may REMOVE claims it supersedes, but only by saying so:
                 #   "removeClaims": [{"contains": "...", "tier": 1, "why": "..."}]
@@ -998,7 +1013,9 @@ def load():
                 if t.get(f) in alias:
                     t[f] = alias[t[f]]
                     repointed += 1
-            for f in ("nodes", "refs", "entityIds"):
+            # `entities` joined in phase 4: the _rs-aawsap-dirds timeline rows list
+            # the documents they cite there, and three of those were collapsed.
+            for f in ("nodes", "refs", "entityIds", "entities"):
                 if isinstance(t.get(f), list) and any(x in alias for x in t[f]):
                     t[f] = [alias.get(x, x) for x in t[f]]
                     repointed += 1
@@ -1072,6 +1089,15 @@ def load():
             doms = [d for i, d in enumerate(doms) if d not in rm and d not in doms[:i]]
             if doms != (p_.get("domains") or []):
                 p_["domains"] = doms
+                swept += 1
+            # An affiliation may be a node id (it renders as that node's name), and
+            # a collapsed one follows its survivor like any other reference (phase 4:
+            # two DoD OIG officials were affiliated to `dodig`). Plain names pass
+            # through untouched; the alias map holds ids only.
+            affs = p_.get("affiliations") or []
+            if isinstance(affs, list) and any(isinstance(x, str) and x in alias for x in affs):
+                new = [alias.get(x, x) if isinstance(x, str) else x for x in affs]
+                p_["affiliations"] = [x for i, x in enumerate(new) if x not in new[:i]]
                 swept += 1
         if swept:
             print(f"  swept {swept} person back-reference(s) to removed nodes",

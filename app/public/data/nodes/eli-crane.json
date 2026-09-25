@@ -78,6 +78,28 @@
 {
 "claimTier": 1,
 "cls": "document",
+"dateEnd": null,
+"dateStart": "2025",
+"direction": "out",
+"edgeId": "e-5b29c24b18",
+"edgeLabel": "Author; entered it into the hearing record while still awaiting a reply",
+"id": "crane-dod-reprisal-letter",
+"l0": false,
+"label": "Rep. Eli Crane letter to the Secretary of Defense re: Major David Charles Grusch reprisal",
+"note": "Three enumerated adverse actions against the credible-and-urgent whistleblower.",
+"sources": [
+{
+"date": "2025-09-09",
+"name": "U.S. GPO, Hearing transcript, Serial No. 119-44 (CHRG-119hhrg61718)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm"
+}
+],
+"tier": "B",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "document",
 "dateEnd": "2025",
 "dateStart": "2025",
 "direction": "out",
@@ -94,30 +116,8 @@
 "url": "https://www.congress.gov/119/chrg/CHRG-119hhrg61718/CHRG-119hhrg61718.pdf"
 }
 ],
-"tier": "C",
+"tier": "B",
 "type": "legislative"
-},
-{
-"claimTier": 1,
-"cls": "document",
-"dateEnd": null,
-"dateStart": "2025",
-"direction": "out",
-"edgeId": "e-dff1956d3a",
-"edgeLabel": "Author; entered it into the hearing record while still awaiting a reply",
-"id": "crane-secdef-grusch-reprisal-letter-2025",
-"l0": false,
-"label": "Rep. Crane letter to the Secretary of Defense on Grusch reprisal, 24 July 2025",
-"note": "Three enumerated adverse actions against the credible-and-urgent whistleblower.",
-"sources": [
-{
-"date": "2025-09-09",
-"name": "U.S. GPO, Hearing transcript, Serial No. 119-44 (CHRG-119hhrg61718)",
-"url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm"
-}
-],
-"tier": "C",
-"type": "investigative"
 },
 {
 "claimTier": 1,
@@ -167,7 +167,7 @@
 "date": "2025-07-24",
 "dateEnd": null,
 "dateStart": "2025-07-24",
-"deg": 4,
+"deg": 3,
 "denials": [
 {
 "a": {
@@ -264,7 +264,7 @@
 "status": "active",
 "sub": "U.S. Rep. (R-AZ-2); wrote DoD on Grusch's reprisal; cosponsor H.R. 5060",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 447 of 1170, score 32). 4 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 446 of 1138, score 32). 4 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D3.",
 "timeline": [],
 "unexplainedResidual": "A sitting member formally notified the Secretary of Defense that a whistleblower had lost his clearance, his promotion and his medical retirement for making a protected disclosure - and got no answer on the record.",
 "unverified": [

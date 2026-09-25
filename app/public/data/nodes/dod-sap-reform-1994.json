@@ -98,7 +98,7 @@
 "edgeId": "e-97bccd3bf3",
 "edgeLabel": "Dates an Army central SAP oversight office to September 1984, ten years earlier",
 "id": "gao-nsiad-88-152",
-"l0": false,
+"l0": true,
 "label": "GAO/NSIAD-88-152 - Special Access Programs: DOD Criteria and Procedures for Creating Them Need Improvement",
 "note": "GAO dates a central Army special-access oversight office to September 1984, following a 1983 DoD review, which places a documented predecessor ten years before the January 1994 change this node carries.",
 "sources": [
@@ -205,7 +205,7 @@
 ],
 "sub": "SAPOC, Senior Review Group and SAPCO stood up under the Deputy Secretary of Defense",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 250 of 1170, score 42). 5 connections, 1 of them custody/funding/programmatic. Axes C2/A3/D1.",
+"tierRationale": "Re-graded B on a global pass (rank 254 of 1138, score 42). 5 connections, 1 of them custody/funding/programmatic. Axes C2/A3/D1.",
 "timeline": [
 {
 "claimTier": null,

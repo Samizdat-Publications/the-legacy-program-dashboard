@@ -69,7 +69,7 @@
 },
 {
 "claimTier": 1,
-"cls": "program",
+"cls": "institution",
 "dateEnd": null,
 "dateStart": "2025",
 "direction": "out",
@@ -91,7 +91,7 @@
 "url": "https://oversight.house.gov/subcommittee/task-force-on-the-declassification-of-federal-secrets/"
 }
 ],
-"tier": "C",
+"tier": "B",
 "type": "institutional"
 }
 ],
@@ -141,7 +141,7 @@
 "status": "active",
 "sub": "U.S. Rep. (D-TX-30); Ranking Member, Task Force on the Declassification of Federal Secrets",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 899 of 1170, score 18). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 876 of 1138, score 18). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": []

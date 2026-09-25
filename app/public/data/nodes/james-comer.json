@@ -106,7 +106,7 @@
 },
 {
 "claimTier": 2,
-"cls": "program",
+"cls": "institution",
 "dateEnd": null,
 "dateStart": "2025",
 "direction": "out",
@@ -123,7 +123,7 @@
 "url": "https://thehill.com/opinion/national-security/5149386-house-republicans-demand-ufo-transparency/"
 }
 ],
-"tier": "C",
+"tier": "B",
 "type": "institutional"
 },
 {
@@ -215,7 +215,7 @@
 "status": "active",
 "sub": "U.S. Rep. (R-KY-1); Chairman, House Committee on Oversight and Government Reform",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 866 of 1170, score 19). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 847 of 1138, score 19). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": []

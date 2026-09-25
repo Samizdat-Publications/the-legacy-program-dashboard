@@ -172,11 +172,11 @@
 "dateEnd": null,
 "dateStart": "1987-12-04",
 "direction": "in",
-"edgeId": "e-ae90045cf7",
+"edgeId": "e-d8c61c7b7c",
 "edgeLabel": "A waived program is precisely a program removed from the annual report",
-"id": "waived-usap-mechanism",
+"id": "waived-usap",
 "l0": true,
-"label": "Waived Unacknowledged SAP (waived USAP) - the mechanism",
+"label": "Waived unacknowledged special access program (waived USAP)",
 "note": "10 U.S.C. 119(e)(1) permits waiver of the requirement that certain information be included in the report; DoDD 5205.07 (2010) para 4.h keeps the substitute material in DoD custody.",
 "sources": [
 {
@@ -201,8 +201,8 @@
 "denials": [
 {
 "a": {
-"id": "waived-usap-mechanism",
-"label": "Waived Unacknowledged SAP (waived USAP) - the mechanism"
+"id": "waived-usap",
+"label": "Waived unacknowledged special access program (waived USAP)"
 },
 "b": {
 "id": "sap-annual-report",
@@ -211,7 +211,7 @@
 "by": null,
 "claimTier": 1,
 "denialKind": "association",
-"edgeId": "e-ae90045cf7",
+"edgeId": "e-d8c61c7b7c",
 "label": "A waived program is precisely a program removed from the annual report",
 "note": "10 U.S.C. 119(e)(1) permits waiver of the requirement that certain information be included in the report; DoDD 5205.07 (2010) para 4.h keeps the substitute material in DoD custody.",
 "of": null,
@@ -277,7 +277,7 @@
 ],
 "sub": "report",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 110 of 1170, score 59). 5 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D3.",
+"tierRationale": "Re-graded A on a global pass (rank 112 of 1138, score 59). 5 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D3.",
 "timeline": [],
 "unverified": []
 }

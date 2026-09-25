@@ -77,9 +77,16 @@ def main():
     if len(eligible) <= BUDGET_A:
         l0 = set(eligible)
     else:
-        # Compete on degree; ties break on file order, as the builder does.
+        # Compete on degree; ties break on file order, as the builder does. Since
+        # phase 4 a node with an entity dossier outranks one without, because every
+        # map node must carry one: read here straight off research/dossiers/, not
+        # from the builder's model, so the rule is restated rather than agreed with.
+        import glob
+        with_dossier = {e.get("id") for f in glob.glob(os.path.join(ROOT, "research", "dossiers", "*.json"))
+                        for e in json.load(open(f, encoding="utf-8"))
+                        if (e.get("entityDossier") or {})}
         pos = {nid: k for k, nid in enumerate(eligible)}
-        ranked = sorted(eligible, key=lambda i: (-len(adj[i]), pos[i]))
+        ranked = sorted(eligible, key=lambda i: (i not in with_dossier, -len(adj[i]), pos[i]))
         # Highlights are admitted by right, so C11 cannot be broken by growth.
         l0 = set(ranked[:BUDGET_A]) | (set(hl_a) & set(eligible))
 

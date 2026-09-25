@@ -275,11 +275,11 @@
 "dateEnd": null,
 "dateStart": "2007",
 "direction": "out",
-"edgeId": "e-57cc9f6fc4",
+"edgeId": "e-63d1d7b5ec",
 "edgeLabel": "COMPARISON: a voluntary military transfer into a civil archive versus a statutory collection ordered by Congress",
-"id": "nara-rg615",
+"id": "nara-uap-collection",
 "l0": true,
-"label": "National Archives Record Group 615 - UAP Records Collection",
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection",
 "note": "COMPARISON EDGE — no institutional contact between the Arquivo Nacional and NARA is claimed or evidenced. Brazil: from 2007 the Comando da Aeronáutica began sending its holdings to the Arquivo Nacional of its own motion, producing the Fundo Objeto Voador Não Identificado – OVNI (BR DFANBSB ARX), 743 registros, served online, with the service publicly disclaiming further competence. The United States: the UAP Records Collection in Record Group 615 exists only because sections 1841–1843 of Public Law 118-31 ordered it into being, with a statutory transfer deadline and with the independent review board stripped out in conference. Same archival endpoint, opposite mechanism — one service handed its record over, the other had to be legislated at. [CORRECTED 14 Aug 2026: RQS 193/2022 is a request for a COMMEMORATIVE SPECIAL SESSION under Art. 199 RISF, approved 16 Mar 2022, held 24 Jun 2022 - not a records-seeking or compelling instrument. Its durable value is the content of its justificacao, which names Operacao Prato, the 1986 night, SIOANI and the archive reference BR DFANBSB ARX. These edges assert what the document NAMES, which is verifiable in its text and unaffected by its procedural nature, so the tier is unchanged. Any claim that the instrument COMPELLED disclosure would be false.]",
 "sources": [
 {
@@ -636,7 +636,7 @@
 ],
 "sub": "Arquivo Nacional (Brazil), Fundo Objeto Voador Não Identificado – OVNI, reference BR DFANBSB ARX, 743 registros, produced by the Comando da Aeronáutica",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 67 of 1170, score 74). 11 connections, 6 of them custody/funding/programmatic. Axes C1/A0/D3.",
+"tierRationale": "Re-graded A on a global pass (rank 69 of 1138, score 74). 11 connections, 6 of them custody/funding/programmatic. Axes C1/A0/D3.",
 "timeline": [
 {
 "claimTier": 2,

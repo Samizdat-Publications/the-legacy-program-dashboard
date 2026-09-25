@@ -134,7 +134,7 @@
 "url": "https://comptroller.war.gov/"
 }
 ],
-"tier": "B",
+"tier": "C",
 "type": "institutional"
 },
 {
@@ -386,7 +386,7 @@
 "cls": "person",
 "id": "michael-powers-comptroller",
 "label": "Michael Powers",
-"tier": "B"
+"tier": "C"
 },
 {
 "cls": "legislation",
@@ -432,7 +432,7 @@
 ],
 "sub": "Unpublished companion document carrying the force of law over classified programme funding",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 111 of 1170, score 59). 9 connections, 6 of them custody/funding/programmatic. Axes C1/A3/D3.",
+"tierRationale": "Re-graded A on a global pass (rank 113 of 1138, score 59). 9 connections, 6 of them custody/funding/programmatic. Axes C1/A3/D3.",
 "timeline": [
 {
 "claimTier": null,

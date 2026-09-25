@@ -111,21 +111,21 @@
  ],
  "counts": {
   "claims": {
-   "1": 3798,
+   "1": 3780,
    "2": 1700,
-   "3": 622
+   "3": 619
   },
-  "edges": 2803,
-  "entities": 817,
+  "edges": 2788,
+  "entities": 787,
   "foia": {
-   "nodes": 42,
+   "nodes": 41,
    "questions": 116,
    "requests": 17
   },
   "l0": 135,
-  "nodes": 1170,
+  "nodes": 1138,
   "patents": 5,
-  "people": 353,
+  "people": 351,
   "sheets": 11,
   "threads": 8,
   "timeline": 1076
@@ -231,7 +231,7 @@
    "cluster": "oversight",
    "dateEnd": null,
    "dateStart": "2022",
-   "deg": 61,
+   "deg": 60,
    "era": "3",
    "hl": 5,
    "id": "aaro",
@@ -439,15 +439,15 @@
    "D": 2,
    "band": null,
    "claims": [
-    3,
+    6,
     0,
-    0
+    1
    ],
    "cls": "document",
    "cluster": "ic",
    "dateEnd": "2024",
    "dateStart": "2023",
-   "deg": 2,
+   "deg": 3,
    "era": "3",
    "hl": null,
    "id": "aaro-grusch-interview-memo",
@@ -455,31 +455,7 @@
    "label": "AARO Memorandum for Record: Invitations to Interview Mr. David Grusch (FOIA 24-F-0266)",
    "short": "AARO Memorandum for Record: Invitations to Interview Mr. David Grusch (FOIA 24-F-0266)",
    "status": null,
-   "tier": "C"
-  },
-  {
-   "A": 2,
-   "C": 0,
-   "D": 3,
-   "band": null,
-   "claims": [
-    3,
-    0,
-    1
-   ],
-   "cls": "document",
-   "cluster": "other",
-   "dateEnd": "2024",
-   "dateStart": "2024",
-   "deg": 2,
-   "era": "3",
-   "hl": null,
-   "id": "aaro-grusch-interview-memo-2024",
-   "l0": false,
-   "label": "AARO Memorandum for Record: Invitations to Interview Mr. David Grusch (8 Jan 2024)",
-   "short": "AARO Memorandum for Record: Invitations to Interview Mr. David Grusch (8 Jan 2024)",
-   "status": null,
-   "tier": "C"
+   "tier": "B"
   },
   {
    "A": 3,
@@ -607,15 +583,15 @@
    "D": 2,
    "band": null,
    "claims": [
-    3,
-    0,
+    4,
+    2,
     0
    ],
    "cls": "document",
    "cluster": "ic",
    "dateEnd": null,
    "dateStart": "2024",
-   "deg": 3,
+   "deg": 5,
    "era": "3",
    "hl": null,
    "id": "aaro-metallic-specimen-analysis",
@@ -623,7 +599,7 @@
    "label": "AARO / ORNL Synopsis: Analysis of a Metallic Specimen",
    "short": "AARO / ORNL Synopsis: Analysis of a Metallic Specimen",
    "status": null,
-   "tier": "B"
+   "tier": "A"
   },
   {
    "A": 3,
@@ -751,15 +727,15 @@
    "D": 3,
    "band": null,
    "claims": [
-    4,
+    7,
     0,
-    1
+    2
    ],
    "cls": "document",
    "cluster": "legacy",
    "dateEnd": "2013",
    "dateStart": "2008",
-   "deg": 4,
+   "deg": 7,
    "era": "2",
    "hl": null,
    "id": "aawsap-contract",
@@ -768,30 +744,6 @@
    "short": "DIA Contract HHM402-08-C-0072 (BAASS)",
    "status": null,
    "tier": "A"
-  },
-  {
-   "A": 0,
-   "C": 0,
-   "D": 0,
-   "band": null,
-   "claims": [
-    3,
-    0,
-    1
-   ],
-   "cls": "document",
-   "cluster": "other",
-   "dateEnd": null,
-   "dateStart": null,
-   "deg": 3,
-   "era": "nd",
-   "hl": null,
-   "id": "aawsap-contract-hhm402-08-c-0072",
-   "l0": false,
-   "label": "DIA Contract HHM402-08-C-0072 (AAWSAP / BAASS)",
-   "short": "DIA Contract HHM402-08-C-0072 (AAWSAP / BAASS)",
-   "status": null,
-   "tier": "C"
   },
   {
    "A": 3,
@@ -879,7 +831,7 @@
    "cluster": "research",
    "dateEnd": "2021",
    "dateStart": "2018",
-   "deg": 7,
+   "deg": 6,
    "era": "3",
    "hl": null,
    "id": "adam-research-project",
@@ -911,7 +863,7 @@
    "label": "Adam Smith",
    "short": "Adam Smith",
    "status": "active",
-   "tier": "B"
+   "tier": "C"
   },
   {
    "A": 3,
@@ -1160,44 +1112,20 @@
    "band": null,
    "claims": [
     0,
-    3,
+    4,
     0
    ],
    "cls": "document",
    "cluster": "media",
    "dateEnd": "2025",
    "dateStart": "2025",
-   "deg": 4,
+   "deg": 6,
    "era": "3",
    "hl": null,
    "id": "age-of-disclosure",
    "l0": false,
    "label": "The Age of Disclosure (documentary, 2025)",
    "short": "The Age of Disclosure (documentary, 2025)",
-   "status": null,
-   "tier": "C"
-  },
-  {
-   "A": 0,
-   "C": 0,
-   "D": 3,
-   "band": null,
-   "claims": [
-    0,
-    1,
-    0
-   ],
-   "cls": "document",
-   "cluster": "media",
-   "dateEnd": null,
-   "dateStart": "2025",
-   "deg": 2,
-   "era": "3",
-   "hl": null,
-   "id": "age-of-disclosure-2025",
-   "l0": false,
-   "label": "'The Age of Disclosure' (2025 documentary, dir. Dan Farah)",
-   "short": "'The Age of Disclosure' (2025 documentary, dir. Dan Farah)",
    "status": null,
    "tier": "C"
   },
@@ -1343,7 +1271,7 @@
    "label": "Alfred 'Al' O'Donnell",
    "short": "Alfred 'Al' O'Donnell",
    "status": "dead",
-   "tier": "B"
+   "tier": "C"
   },
   {
    "A": 0,
@@ -1599,7 +1527,7 @@
    "cluster": "oversight",
    "dateEnd": null,
    "dateStart": "2025-09-09",
-   "deg": 26,
+   "deg": 24,
    "era": "3",
    "hl": null,
    "id": "anna-paulina-luna",
@@ -1983,7 +1911,7 @@
    "cluster": "contractor",
    "dateEnd": "2012",
    "dateStart": "2007",
-   "deg": 19,
+   "deg": 18,
    "era": "2",
    "hl": null,
    "id": "baass",
@@ -2279,7 +2207,7 @@
    "label": "Ben R. Rich",
    "short": "Ben R. Rich",
    "status": "dead",
-   "tier": "B"
+   "tier": "C"
   },
   {
    "A": 0,
@@ -2975,7 +2903,7 @@
    "label": "Howard P. \"Buck\" McKeon",
    "short": "Howard P. \"Buck\" McKeon",
    "status": "active",
-   "tier": "B"
+   "tier": "C"
   },
   {
    "A": 2,
@@ -4351,7 +4279,7 @@
    "D": 3,
    "band": null,
    "claims": [
-    2,
+    4,
     0,
     0
    ],
@@ -4367,31 +4295,7 @@
    "label": "Rep. Eli Crane letter to the Secretary of Defense re: Major David Charles Grusch reprisal",
    "short": "Rep. Eli Crane letter to the Secretary of Defense re: Major David Charles Grusch reprisal",
    "status": null,
-   "tier": "C"
-  },
-  {
-   "A": 1,
-   "C": 0,
-   "D": 3,
-   "band": null,
-   "claims": [
-    2,
-    0,
-    0
-   ],
-   "cls": "document",
-   "cluster": "oversight",
-   "dateEnd": null,
-   "dateStart": "2025",
-   "deg": 2,
-   "era": "3",
-   "hl": null,
-   "id": "crane-secdef-grusch-reprisal-letter-2025",
-   "l0": false,
-   "label": "Rep. Crane letter to the Secretary of Defense on Grusch reprisal, 24 July 2025",
-   "short": "Rep. Crane letter to the Secretary of Defense on Grusch reprisal, 24 July 2025",
-   "status": null,
-   "tier": "C"
+   "tier": "B"
   },
   {
    "A": 0,
@@ -4839,7 +4743,7 @@
    "cluster": "ffrdc",
    "dateEnd": null,
    "dateStart": "1947",
-   "deg": 9,
+   "deg": 10,
    "era": "0",
    "hl": null,
    "id": "d-ffrdc",
@@ -4848,30 +4752,6 @@
    "short": "The FFRDC Seam",
    "status": null,
    "tier": "B"
-  },
-  {
-   "A": 3,
-   "C": 2,
-   "D": 1,
-   "band": null,
-   "claims": [
-    2,
-    0,
-    1
-   ],
-   "cls": "domain",
-   "cluster": "ffrdc",
-   "dateEnd": null,
-   "dateStart": "1947-01-01",
-   "deg": 1,
-   "era": "0",
-   "hl": null,
-   "id": "d-ffrdc-mechanism",
-   "l0": false,
-   "label": "The FFRDC Mechanism",
-   "short": "The FFRDC Mechanism",
-   "status": null,
-   "tier": "C"
   },
   {
    "A": 0,
@@ -4911,7 +4791,7 @@
    "cluster": "contractor",
    "dateEnd": null,
    "dateStart": "1947-01-01",
-   "deg": 13,
+   "deg": 12,
    "era": "0",
    "hl": null,
    "id": "d-funding",
@@ -5039,7 +4919,7 @@
    "label": "Legacy Program",
    "short": "Legacy Program",
    "status": null,
-   "tier": "A"
+   "tier": "B"
   },
   {
    "A": 1,
@@ -5111,7 +4991,7 @@
    "label": "Legislative Process (proposed and pending)",
    "short": "Legislative Process (proposed and pending)",
    "status": null,
-   "tier": "B"
+   "tier": "C"
   },
   {
    "A": 0,
@@ -5943,7 +5823,7 @@
    "cluster": "witness",
    "dateEnd": null,
    "dateStart": "2023-07-26",
-   "deg": 67,
+   "deg": 66,
    "era": "3",
    "hl": null,
    "id": "david-grusch",
@@ -5991,7 +5871,7 @@
    "cluster": "research",
    "dateEnd": null,
    "dateStart": "2023-09-14",
-   "deg": 3,
+   "deg": 2,
    "era": "3",
    "hl": null,
    "id": "david-spergel",
@@ -5999,7 +5879,7 @@
    "label": "David N. Spergel",
    "short": "David N. Spergel",
    "status": "active",
-   "tier": "B"
+   "tier": "C"
   },
   {
    "A": 3,
@@ -6482,38 +6362,14 @@
    "tier": "C"
   },
   {
-   "A": 0,
-   "C": 0,
-   "D": 0,
-   "band": null,
-   "claims": [
-    3,
-    0,
-    1
-   ],
-   "cls": "document",
-   "cluster": "other",
-   "dateEnd": null,
-   "dateStart": null,
-   "deg": 1,
-   "era": "nd",
-   "hl": null,
-   "id": "dia-sap-denial-2009",
-   "l0": false,
-   "label": "DIA Info Memo U-09-2660 - denial of restricted SAP for AAWSAP (13 Nov 2009)",
-   "short": "DIA Info Memo U-09-2660 - denial of restricted SAP for AAWSAP (13 Nov 2009)",
-   "status": null,
-   "tier": "C"
-  },
-  {
    "A": 3,
    "C": 1,
    "D": 2,
    "band": null,
    "claims": [
-    2,
+    5,
     0,
-    1
+    2
    ],
    "cls": "document",
    "cluster": "other",
@@ -7783,15 +7639,15 @@
    "D": 3,
    "band": null,
    "claims": [
+    3,
     2,
-    0,
     1
    ],
    "cls": "institution",
    "cluster": "oversight",
    "dateEnd": null,
    "dateStart": "1982",
-   "deg": 4,
+   "deg": 7,
    "era": "1",
    "hl": null,
    "id": "dod-oig",
@@ -7799,7 +7655,7 @@
    "label": "Department of Defense Office of Inspector General",
    "short": "Department of Defense Office of Inspector General",
    "status": null,
-   "tier": "C"
+   "tier": "B"
   },
   {
    "A": 3,
@@ -7829,7 +7685,7 @@
    "A": 3,
    "C": 3,
    "D": 2,
-   "band": "custody",
+   "band": "funding",
    "claims": [
     12,
     0,
@@ -7968,30 +7824,6 @@
    "short": "DoDI 5205.11",
    "status": null,
    "tier": "A"
-  },
-  {
-   "A": 2,
-   "C": 0,
-   "D": 3,
-   "band": null,
-   "claims": [
-    1,
-    2,
-    0
-   ],
-   "cls": "institution",
-   "cluster": "oversight",
-   "dateEnd": null,
-   "dateStart": "1982",
-   "deg": 3,
-   "era": "1",
-   "hl": null,
-   "id": "dodig",
-   "l0": false,
-   "label": "Office of Inspector General, Department of Defense / Department of War",
-   "short": "Office of Inspector General, Department of Defense / Department of War",
-   "status": null,
-   "tier": "C"
   },
   {
    "A": 1,
@@ -8503,7 +8335,7 @@
    "D": 3,
    "band": "reverse-engineering",
    "claims": [
-    6,
+    8,
     2,
     2
    ],
@@ -8703,7 +8535,7 @@
    "cluster": "oversight",
    "dateEnd": null,
    "dateStart": "2025-07-24",
-   "deg": 4,
+   "deg": 3,
    "era": "3",
    "hl": null,
    "id": "eli-crane",
@@ -9951,7 +9783,7 @@
    "cluster": "research",
    "dateEnd": null,
    "dateStart": "2021",
-   "deg": 9,
+   "deg": 8,
    "era": "3",
    "hl": null,
    "id": "galileo-project",
@@ -10109,7 +9941,7 @@
    "A": 1,
    "C": 1,
    "D": 1,
-   "band": null,
+   "band": "oversight",
    "claims": [
     5,
     0,
@@ -10123,9 +9955,9 @@
    "era": "1",
    "hl": null,
    "id": "gao-nsiad-88-152",
-   "l0": false,
+   "l0": true,
    "label": "GAO/NSIAD-88-152 - Special Access Programs: DOD Criteria and Procedures for Creating Them Need Improvement",
-   "short": "GAO/NSIAD-88-152 - Special Access Programs: DOD Criteria and Procedures for Creating Them Need Improvement",
+   "short": "GAO/NSIAD-88-152",
    "status": null,
    "tier": "B"
   },
@@ -10133,9 +9965,9 @@
    "A": 1,
    "C": 2,
    "D": 3,
-   "band": null,
+   "band": "retrieval",
    "claims": [
-    6,
+    9,
     0,
     1
    ],
@@ -10143,39 +9975,15 @@
    "cluster": "oversight",
    "dateEnd": "1995",
    "dateStart": "1995",
-   "deg": 6,
+   "deg": 8,
    "era": "1",
    "hl": null,
    "id": "gao-nsiad-95-187",
-   "l0": false,
+   "l0": true,
    "label": "GAO/NSIAD-95-187 - Results of a Search for Records Concerning the 1947 Crash Near Roswell",
-   "short": "GAO/NSIAD-95-187 - Results of a Search for Records Concerning the 1947 Crash Near Roswell",
+   "short": "GAO/NSIAD-95-187",
    "status": null,
    "tier": "A"
-  },
-  {
-   "A": 1,
-   "C": 1,
-   "D": 3,
-   "band": null,
-   "claims": [
-    3,
-    0,
-    0
-   ],
-   "cls": "document",
-   "cluster": "oversight",
-   "dateEnd": "1995",
-   "dateStart": "1995",
-   "deg": 3,
-   "era": "1",
-   "hl": null,
-   "id": "gao-roswell-report-1995",
-   "l0": false,
-   "label": "GAO/NSIAD-95-187, Government Records: Results of a Search for Records Concerning the 1947 Crash Near Roswell, New Mexico",
-   "short": "GAO/NSIAD-95-187, Government Records: Results of a Search for Records Concerning the 1947 Crash Near Roswell, New Mexico",
-   "status": null,
-   "tier": "C"
   },
   {
    "A": 1,
@@ -10709,23 +10517,23 @@
    "A": 0,
    "C": 0,
    "D": 3,
-   "band": null,
+   "band": "custody",
    "claims": [
     0,
-    5,
-    0
+    9,
+    1
    ],
    "cls": "document",
    "cluster": "research",
    "dateEnd": "2026",
    "dateStart": "2026",
-   "deg": 6,
+   "deg": 8,
    "era": "3",
    "hl": null,
    "id": "gerb-mitre-investigation",
-   "l0": false,
+   "l0": true,
    "label": "UAP Gerb - The MITRE Corporation investigation",
-   "short": "UAP Gerb - The MITRE Corporation investigation",
+   "short": "UAP Gerb",
    "status": null,
    "tier": "B"
   },
@@ -11391,7 +11199,7 @@
    "cluster": "oversight",
    "dateEnd": null,
    "dateStart": "2009-06-24",
-   "deg": 17,
+   "deg": 16,
    "era": "2",
    "hl": null,
    "id": "harry-reid",
@@ -11607,7 +11415,7 @@
    "cluster": "oversight",
    "dateEnd": "2025-09-09",
    "dateStart": "2025-09-09",
-   "deg": 23,
+   "deg": 21,
    "era": "3",
    "hl": null,
    "id": "hearing-2025-09-09",
@@ -11927,7 +11735,7 @@
    "label": "Hoyt S. Vandenberg",
    "short": "Hoyt S. Vandenberg",
    "status": "dead",
-   "tier": "B"
+   "tier": "C"
   },
   {
    "A": 0,
@@ -11978,44 +11786,20 @@
    "tier": "C"
   },
   {
-   "A": 1,
-   "C": 0,
-   "D": 3,
-   "band": null,
-   "claims": [
-    1,
-    1,
-    0
-   ],
-   "cls": "legislation",
-   "cluster": "oversight",
-   "dateEnd": null,
-   "dateStart": "2025",
-   "deg": 3,
-   "era": "3",
-   "hl": null,
-   "id": "hr-5060",
-   "l0": false,
-   "label": "H.R. 5060 - UAP Whistleblower Protection Act (119th Congress)",
-   "short": "H.R. 5060 - UAP Whistleblower Protection Act (119th Congress)",
-   "status": null,
-   "tier": "C"
-  },
-  {
    "A": 0,
    "C": 0,
    "D": 2,
    "band": null,
    "claims": [
+    3,
     2,
-    1,
     0
    ],
    "cls": "legislation",
    "cluster": "oversight",
    "dateEnd": null,
    "dateStart": "2025",
-   "deg": 4,
+   "deg": 6,
    "era": "3",
    "hl": null,
    "id": "hr-5060-uap-whistleblower-protection-act",
@@ -12175,15 +11959,15 @@
    "D": 3,
    "band": "funding",
    "claims": [
-    8,
+    12,
     0,
-    2
+    4
    ],
    "cls": "legislation",
    "cluster": "oversight",
    "dateEnd": null,
    "dateStart": "2023-12-22",
-   "deg": 6,
+   "deg": 8,
    "era": "3",
    "hl": null,
    "id": "iaa-fy2024-7343",
@@ -12264,30 +12048,6 @@
    "short": "IAA FY2025 Title LXVIII - Secs. 6801-6802 (P.L. 118-159)",
    "status": null,
    "tier": "C"
-  },
-  {
-   "A": 3,
-   "C": 2,
-   "D": 3,
-   "band": null,
-   "claims": [
-    5,
-    0,
-    1
-   ],
-   "cls": "legislation",
-   "cluster": "ic",
-   "dateEnd": null,
-   "dateStart": "2023-12-22",
-   "deg": 2,
-   "era": "3",
-   "hl": null,
-   "id": "iaa24-sec7343",
-   "l0": false,
-   "label": "IAA FY2024 Section 7343 - Funding Limitations Relating to Unidentified Anomalous Phenomena",
-   "short": "IAA FY2024 Section 7343 - Funding Limitations Relating to Unidentified Anomalous Phenomena",
-   "status": null,
-   "tier": "B"
   },
   {
    "A": 3,
@@ -12578,30 +12338,6 @@
    "tier": "C"
   },
   {
-   "A": 2,
-   "C": 2,
-   "D": 1,
-   "band": null,
-   "claims": [
-    2,
-    0,
-    0
-   ],
-   "cls": "institution",
-   "cluster": "contractor",
-   "dateEnd": null,
-   "dateStart": "1985",
-   "deg": 2,
-   "era": "1",
-   "hl": null,
-   "id": "institute-advanced-studies-austin",
-   "l0": false,
-   "label": "Institute for Advanced Studies at Austin",
-   "short": "Institute for Advanced Studies at Austin",
-   "status": null,
-   "tier": "C"
-  },
-  {
    "A": 1,
    "C": 2,
    "D": 1,
@@ -12725,7 +12461,7 @@
    "A": 2,
    "C": 0,
    "D": 2,
-   "band": "oversight",
+   "band": null,
    "claims": [
     2,
     0,
@@ -12735,11 +12471,11 @@
    "cluster": "oversight",
    "dateEnd": null,
    "dateStart": "1978",
-   "deg": 7,
+   "deg": 6,
    "era": "1",
    "hl": null,
    "id": "isoo",
-   "l0": true,
+   "l0": false,
    "label": "Information Security Oversight Office",
    "short": "Information Security Oversight Office",
    "status": null,
@@ -13943,7 +13679,7 @@
    "label": "John Burroughs",
    "short": "John Burroughs",
    "status": "active",
-   "tier": "B"
+   "tier": "C"
   },
   {
    "A": 0,
@@ -15159,37 +14895,13 @@
    "cluster": "research",
    "dateEnd": null,
    "dateStart": "2021",
-   "deg": 1,
+   "deg": 2,
    "era": "3",
    "hl": null,
    "id": "l-cambridge",
    "l0": false,
    "label": "Cambridge, Massachusetts",
    "short": "Cambridge, Massachusetts",
-   "status": null,
-   "tier": "C"
-  },
-  {
-   "A": 0,
-   "C": 1,
-   "D": 3,
-   "band": null,
-   "claims": [
-    0,
-    0,
-    1
-   ],
-   "cls": "location",
-   "cluster": "research",
-   "dateEnd": null,
-   "dateStart": null,
-   "deg": 2,
-   "era": "nd",
-   "hl": null,
-   "id": "l-cambridge-ma",
-   "l0": false,
-   "label": "Cambridge, Massachusetts (alias of l-cambridge)",
-   "short": "Cambridge, Massachusetts (alias of l-cambridge)",
    "status": null,
    "tier": "C"
   },
@@ -15675,36 +15387,12 @@
   },
   {
    "A": 2,
-   "C": 0,
-   "D": 2,
-   "band": null,
-   "claims": [
-    1,
-    1,
-    0
-   ],
-   "cls": "location",
-   "cluster": "witness",
-   "dateEnd": null,
-   "dateStart": "2023",
-   "deg": 1,
-   "era": "3",
-   "hl": null,
-   "id": "l-langley",
-   "l0": false,
-   "label": "Joint Base Langley-Eustis, Virginia",
-   "short": "Joint Base Langley-Eustis, Virginia",
-   "status": null,
-   "tier": "C"
-  },
-  {
-   "A": 2,
    "C": 1,
    "D": 2,
    "band": null,
    "claims": [
-    0,
     1,
+    2,
     0
    ],
    "cls": "location",
@@ -15735,7 +15423,7 @@
    "cluster": "contractor",
    "dateEnd": null,
    "dateStart": "1989",
-   "deg": 3,
+   "deg": 6,
    "era": "1",
    "hl": null,
    "id": "l-las-vegas",
@@ -15743,31 +15431,7 @@
    "label": "Las Vegas, Nevada",
    "short": "Las Vegas, Nevada",
    "status": null,
-   "tier": "C"
-  },
-  {
-   "A": 2,
-   "C": 2,
-   "D": 2,
-   "band": null,
-   "claims": [
-    0,
-    0,
-    1
-   ],
-   "cls": "location",
-   "cluster": "contractor",
-   "dateEnd": null,
-   "dateStart": null,
-   "deg": 4,
-   "era": "nd",
-   "hl": null,
-   "id": "l-lasvegas",
-   "l0": false,
-   "label": "Las Vegas, Nevada (alias of l-las-vegas)",
-   "short": "Las Vegas, Nevada (alias of l-las-vegas)",
-   "status": null,
-   "tier": "C"
+   "tier": "B"
   },
   {
    "A": 2,
@@ -16805,7 +16469,7 @@
    "A": 2,
    "C": 0,
    "D": 3,
-   "band": "oversight",
+   "band": null,
    "claims": [
     2,
     3,
@@ -16815,13 +16479,13 @@
    "cluster": "witness",
    "dateEnd": "2023",
    "dateStart": "2023",
-   "deg": 6,
+   "deg": 5,
    "era": "3",
    "hl": null,
    "id": "langley-2023-incursions",
-   "l0": true,
+   "l0": false,
    "label": "Langley AFB Drone Incursions (December 2023)",
-   "short": "Langley AFB Drone Incursions",
+   "short": "Langley AFB Drone Incursions (December 2023)",
    "status": null,
    "tier": "B"
   },
@@ -16829,7 +16493,7 @@
    "A": 3,
    "C": 2,
    "D": 1,
-   "band": null,
+   "band": "custody",
    "claims": [
     3,
     2,
@@ -16843,7 +16507,7 @@
    "era": "0",
    "hl": null,
    "id": "lanl",
-   "l0": false,
+   "l0": true,
    "label": "Los Alamos National Laboratory",
    "short": "Los Alamos National Laboratory",
    "status": null,
@@ -18143,7 +17807,7 @@
    "label": "Michael Powers",
    "short": "Michael Powers",
    "status": "active",
-   "tier": "B"
+   "tier": "C"
   },
   {
    "A": 0,
@@ -18242,44 +17906,20 @@
    "tier": "C"
   },
   {
-   "A": 2,
-   "C": 0,
-   "D": 0,
+   "A": 1,
+   "C": 2,
+   "D": 3,
    "band": null,
    "claims": [
-    1,
+    3,
     1,
     1
    ],
    "cls": "person",
    "cluster": "oversight",
    "dateEnd": null,
-   "dateStart": "2023-12-22",
-   "deg": 2,
-   "era": "3",
-   "hl": null,
-   "id": "mike-rogers-al",
-   "l0": false,
-   "label": "Mike D. Rogers",
-   "short": "Mike D. Rogers",
-   "status": "active",
-   "tier": "C"
-  },
-  {
-   "A": 1,
-   "C": 2,
-   "D": 3,
-   "band": null,
-   "claims": [
-    2,
-    0,
-    0
-   ],
-   "cls": "person",
-   "cluster": "oversight",
-   "dateEnd": null,
    "dateStart": "2023-01-03",
-   "deg": 1,
+   "deg": 3,
    "era": "3",
    "hl": null,
    "id": "mike-rogers-alabama",
@@ -18287,7 +17927,7 @@
    "label": "Mike Rogers (Alabama)",
    "short": "Mike Rogers (Alabama)",
    "status": "active",
-   "tier": "C"
+   "tier": "B"
   },
   {
    "A": 2,
@@ -18479,7 +18119,7 @@
    "label": "MIT Lincoln Laboratory",
    "short": "MIT Lincoln Laboratory",
    "status": null,
-   "tier": "A"
+   "tier": "B"
   },
   {
    "A": 3,
@@ -18543,7 +18183,7 @@
    "cluster": "ffrdc",
    "dateEnd": null,
    "dateStart": "1958",
-   "deg": 26,
+   "deg": 25,
    "era": "0",
    "hl": 6,
    "id": "mitre-corporation",
@@ -18794,44 +18434,20 @@
    "tier": "A"
   },
   {
-   "A": 0,
-   "C": 0,
-   "D": 3,
-   "band": "custody",
-   "claims": [
-    22,
-    0,
-    1
-   ],
-   "cls": "institution",
-   "cluster": "oversight",
-   "dateEnd": null,
-   "dateStart": "2023-12-22",
-   "deg": 9,
-   "era": "3",
-   "hl": null,
-   "id": "nara-rg615",
-   "l0": true,
-   "label": "National Archives Record Group 615 - UAP Records Collection",
-   "short": "National Archives Record Group 615",
-   "status": null,
-   "tier": "A"
-  },
-  {
    "A": 1,
    "C": 0,
    "D": 3,
    "band": "custody",
    "claims": [
-    11,
-    0,
-    1
+    36,
+    1,
+    5
    ],
    "cls": "institution",
    "cluster": "oversight",
    "dateEnd": null,
    "dateStart": "2024",
-   "deg": 13,
+   "deg": 29,
    "era": "3",
    "hl": null,
    "id": "nara-uap-collection",
@@ -18840,30 +18456,6 @@
    "short": "National Archives UAP Collection",
    "status": null,
    "tier": "A"
-  },
-  {
-   "A": 2,
-   "C": 1,
-   "D": 3,
-   "band": null,
-   "claims": [
-    3,
-    1,
-    1
-   ],
-   "cls": "program",
-   "cluster": "oversight",
-   "dateEnd": null,
-   "dateStart": "2023",
-   "deg": 5,
-   "era": "3",
-   "hl": null,
-   "id": "nara-uap-records-collection",
-   "l0": false,
-   "label": "National Archives UAP Records Collection (Record Group 615)",
-   "short": "National Archives UAP Records Collection (Record Group 615)",
-   "status": null,
-   "tier": "B"
   },
   {
    "A": 1,
@@ -18919,15 +18511,15 @@
    "D": 3,
    "band": "research",
    "claims": [
-    4,
+    6,
     0,
-    0
+    1
    ],
    "cls": "program",
    "cluster": "research",
    "dateEnd": "2023",
    "dateStart": "2022",
-   "deg": 7,
+   "deg": 9,
    "era": "3",
    "hl": null,
    "id": "nasa-uap-ist",
@@ -18936,30 +18528,6 @@
    "short": "NASA UAP Independent Study Team",
    "status": null,
    "tier": "B"
-  },
-  {
-   "A": 1,
-   "C": 0,
-   "D": 2,
-   "band": null,
-   "claims": [
-    2,
-    0,
-    1
-   ],
-   "cls": "program",
-   "cluster": "oversight",
-   "dateEnd": "2023",
-   "dateStart": "2022",
-   "deg": 3,
-   "era": "3",
-   "hl": null,
-   "id": "nasa-uapist",
-   "l0": false,
-   "label": "NASA Unidentified Anomalous Phenomena Independent Study Team",
-   "short": "NASA Unidentified Anomalous Phenomena Independent Study Team",
-   "status": null,
-   "tier": "C"
   },
   {
    "A": 0,
@@ -19383,7 +18951,7 @@
    "cluster": "oversight",
    "dateEnd": null,
    "dateStart": "2023",
-   "deg": 12,
+   "deg": 11,
    "era": "3",
    "hl": null,
    "id": "ndaa-fy2024",
@@ -19399,15 +18967,15 @@
    "D": 3,
    "band": "funding",
    "claims": [
-    15,
+    18,
     0,
-    3
+    4
    ],
    "cls": "legislation",
    "cluster": "oversight",
    "dateEnd": null,
    "dateStart": "2023-12-22",
-   "deg": 9,
+   "deg": 11,
    "era": "3",
    "hl": null,
    "id": "ndaa-fy2024-1687",
@@ -19455,7 +19023,7 @@
    "cluster": "oversight",
    "dateEnd": null,
    "dateStart": "2023",
-   "deg": 5,
+   "deg": 4,
    "era": "3",
    "hl": null,
    "id": "ndaa-fy2024-subtitle-c",
@@ -19463,7 +19031,7 @@
    "label": "P.L. 118-31 Subtitle C - Secs. 1841-1843 (what survived)",
    "short": "P.L. 118-31 Subtitle C - Secs. 1841-1843 (what survived)",
    "status": null,
-   "tier": "A"
+   "tier": "B"
   },
   {
    "A": 0,
@@ -20319,7 +19887,7 @@
    "cluster": "ic",
    "dateEnd": null,
    "dateStart": "2005-04-22",
-   "deg": 18,
+   "deg": 17,
    "era": "2",
    "hl": null,
    "id": "odni",
@@ -20614,30 +20182,6 @@
    "l0": true,
    "label": "Justification for US Military Intervention in Cuba (Operation Northwoods), 13 March 1962",
    "short": "Operation Northwoods, 13 Mar 1962",
-   "status": null,
-   "tier": "B"
-  },
-  {
-   "A": 1,
-   "C": 2,
-   "D": 2,
-   "band": null,
-   "claims": [
-    1,
-    2,
-    0
-   ],
-   "cls": "document",
-   "cluster": "other",
-   "dateEnd": null,
-   "dateStart": "2024",
-   "deg": 2,
-   "era": "3",
-   "hl": null,
-   "id": "ornl-metallic-specimen-report",
-   "l0": false,
-   "label": "ORNL Synopsis: Analysis of a Metallic Specimen",
-   "short": "ORNL Synopsis: Analysis of a Metallic Specimen",
    "status": null,
    "tier": "B"
   },
@@ -21207,7 +20751,7 @@
    "cluster": "oversight",
    "dateEnd": null,
    "dateStart": "2026-05-08",
-   "deg": 4,
+   "deg": 3,
    "era": "3",
    "hl": null,
    "id": "pete-hegseth",
@@ -21432,54 +20976,6 @@
    "short": "Public Law 100-180 sec. 1132 - creation of SAP congressional oversight (4 Dec 1987)",
    "status": null,
    "tier": "C"
-  },
-  {
-   "A": 3,
-   "C": 2,
-   "D": 2,
-   "band": null,
-   "claims": [
-    6,
-    0,
-    1
-   ],
-   "cls": "legislation",
-   "cluster": "oversight",
-   "dateEnd": "2024",
-   "dateStart": "2023",
-   "deg": 4,
-   "era": "3",
-   "hl": null,
-   "id": "pl118-31-sec-1687",
-   "l0": false,
-   "label": "P.L. 118-31 Sec. 1687 - limitation on funds for unreported programs",
-   "short": "P.L. 118-31 Sec. 1687 - limitation on funds for unreported programs",
-   "status": null,
-   "tier": "A"
-  },
-  {
-   "A": 2,
-   "C": 2,
-   "D": 2,
-   "band": null,
-   "claims": [
-    5,
-    0,
-    1
-   ],
-   "cls": "legislation",
-   "cluster": "ic",
-   "dateEnd": null,
-   "dateStart": "2023",
-   "deg": 2,
-   "era": "3",
-   "hl": null,
-   "id": "pl118-31-sec-7343",
-   "l0": false,
-   "label": "P.L. 118-31 Sec. 7343 - the truncated funding limitation",
-   "short": "P.L. 118-31 Sec. 7343 - the truncated funding limitation",
-   "status": null,
-   "tier": "B"
   },
   {
    "A": 0,
@@ -22167,7 +21663,7 @@
    "cluster": "oversight",
    "dateEnd": null,
    "dateStart": "2026",
-   "deg": 40,
+   "deg": 39,
    "era": "3",
    "hl": null,
    "id": "pursue-releases",
@@ -22394,37 +21890,13 @@
    "tier": "C"
   },
   {
-   "A": 0,
-   "C": 0,
-   "D": 0,
-   "band": null,
-   "claims": [
-    5,
-    1,
-    0
-   ],
-   "cls": "document",
-   "cluster": "other",
-   "dateEnd": null,
-   "dateStart": null,
-   "deg": 2,
-   "era": "nd",
-   "hl": null,
-   "id": "reid-letter-2009-06-24",
-   "l0": false,
-   "label": "Reid letter to DEPSECDEF Lynn requesting restricted SAP for AATIP (24 June 2009)",
-   "short": "Reid letter to DEPSECDEF Lynn requesting restricted SAP for AATIP (24 June 2009)",
-   "status": null,
-   "tier": "C"
-  },
-  {
    "A": 3,
    "C": 2,
    "D": 3,
    "band": null,
    "claims": [
-    3,
-    0,
+    8,
+    1,
     1
    ],
    "cls": "document",
@@ -22439,7 +21911,7 @@
    "label": "Reid Letter to DEPSECDEF Requesting Restricted SAP Status",
    "short": "Reid Letter to DEPSECDEF Requesting Restricted SAP Status",
    "status": null,
-   "tier": "B"
+   "tier": "A"
   },
   {
    "A": 1,
@@ -22510,30 +21982,6 @@
    "l0": false,
    "label": "Research and Development Board",
    "short": "Research and Development Board",
-   "status": null,
-   "tier": "B"
-  },
-  {
-   "A": 1,
-   "C": 1,
-   "D": 3,
-   "band": null,
-   "claims": [
-    4,
-    0,
-    1
-   ],
-   "cls": "institution",
-   "cluster": "oversight",
-   "dateEnd": null,
-   "dateStart": "2024",
-   "deg": 3,
-   "era": "3",
-   "hl": null,
-   "id": "rg-615-uap-records",
-   "l0": false,
-   "label": "NARA Record Group 615 - UAP Records Collection",
-   "short": "NARA Record Group 615 - UAP Records Collection",
    "status": null,
    "tier": "B"
   },
@@ -23024,14 +22472,14 @@
    "band": null,
    "claims": [
     1,
-    1,
-    1
+    2,
+    2
    ],
    "cls": "person",
    "cluster": "research",
    "dateEnd": null,
    "dateStart": "2026-01-01",
-   "deg": 1,
+   "deg": 2,
    "era": "3",
    "hl": null,
    "id": "robert-m-wood",
@@ -23112,30 +22560,6 @@
    "short": "Robert I. Sarbacher",
    "status": "dead",
    "tier": "B"
-  },
-  {
-   "A": 2,
-   "C": 1,
-   "D": 2,
-   "band": null,
-   "claims": [
-    0,
-    1,
-    1
-   ],
-   "cls": "person",
-   "cluster": "contractor",
-   "dateEnd": null,
-   "dateStart": "1970-01-01",
-   "deg": 1,
-   "era": "1",
-   "hl": null,
-   "id": "robert-wood",
-   "l0": false,
-   "label": "Robert M. Wood",
-   "short": "Robert M. Wood",
-   "status": "active",
-   "tier": "C"
   },
   {
    "A": 3,
@@ -23519,7 +22943,7 @@
    "label": "S-4 / Papoose Lake, Nevada",
    "short": "S-4 / Papoose Lake, Nevada",
    "status": null,
-   "tier": "A"
+   "tier": "B"
   },
   {
    "A": 0,
@@ -24999,7 +24423,7 @@
    "cluster": "oversight",
    "dateEnd": null,
    "dateStart": "1995-07-28",
-   "deg": 5,
+   "deg": 4,
    "era": "1",
    "hl": null,
    "id": "steven-schiff",
@@ -25250,44 +24674,20 @@
    "tier": "B"
   },
   {
-   "A": 2,
+   "A": 1,
    "C": 0,
    "D": 3,
-   "band": null,
+   "band": "oversight",
    "claims": [
+    7,
     2,
-    1,
     0
    ],
    "cls": "institution",
    "cluster": "oversight",
    "dateEnd": null,
    "dateStart": "2025",
-   "deg": 4,
-   "era": "3",
-   "hl": null,
-   "id": "task-force-declassification",
-   "l0": false,
-   "label": "House Task Force on the Declassification of Federal Secrets",
-   "short": "House Task Force on the Declassification of Federal Secrets",
-   "status": null,
-   "tier": "C"
-  },
-  {
-   "A": 1,
-   "C": 0,
-   "D": 3,
-   "band": "oversight",
-   "claims": [
-    2,
-    1,
-    0
-   ],
-   "cls": "program",
-   "cluster": "oversight",
-   "dateEnd": null,
-   "dateStart": "2025",
-   "deg": 6,
+   "deg": 9,
    "era": "3",
    "hl": null,
    "id": "task-force-declassification-federal-secrets",
@@ -25295,7 +24695,7 @@
    "label": "Task Force on the Declassification of Federal Secrets",
    "short": "Task Force on Declassification",
    "status": null,
-   "tier": "C"
+   "tier": "B"
   },
   {
    "A": 2,
@@ -25395,30 +24795,6 @@
   },
   {
    "A": 1,
-   "C": 0,
-   "D": 3,
-   "band": null,
-   "claims": [
-    3,
-    0,
-    0
-   ],
-   "cls": "institution",
-   "cluster": "oversight",
-   "dateEnd": null,
-   "dateStart": "2025",
-   "deg": 3,
-   "era": "3",
-   "hl": null,
-   "id": "tf-declassification-federal-secrets",
-   "l0": false,
-   "label": "House Oversight Task Force on the Declassification of Federal Secrets",
-   "short": "House Oversight Task Force on the Declassification of Federal Secrets",
-   "status": null,
-   "tier": "C"
-  },
-  {
-   "A": 1,
    "C": 2,
    "D": 3,
    "band": null,
@@ -25439,7 +24815,7 @@
    "label": "Thad Cochran",
    "short": "Thad Cochran",
    "status": "active",
-   "tier": "B"
+   "tier": "C"
   },
   {
    "A": 0,
@@ -25743,7 +25119,7 @@
    "cluster": "oversight",
    "dateEnd": null,
    "dateStart": "2023-07-26",
-   "deg": 16,
+   "deg": 15,
    "era": "3",
    "hl": null,
    "id": "tim-burchett",
@@ -25775,7 +25151,7 @@
    "label": "Timothy Gallaudet",
    "short": "Timothy Gallaudet",
    "status": "active",
-   "tier": "A"
+   "tier": "B"
   },
   {
    "A": 1,
@@ -25847,7 +25223,7 @@
    "label": "Timothy A. Phillips",
    "short": "Timothy A. Phillips",
    "status": "former",
-   "tier": "B"
+   "tier": "C"
   },
   {
    "A": 0,
@@ -26042,68 +25418,20 @@
    "tier": "C"
   },
   {
-   "A": 0,
-   "C": 0,
-   "D": 3,
-   "band": null,
-   "claims": [
-    1,
-    3,
-    1
-   ],
-   "cls": "document",
-   "cluster": "oversight",
-   "dateEnd": null,
-   "dateStart": "2026-02-20",
-   "deg": 3,
-   "era": "3",
-   "hl": null,
-   "id": "trump-truth-social-post-2026-02-20",
-   "l0": false,
-   "label": "Trump Truth Social post directing release of UAP files (20 February 2026)",
-   "short": "Trump Truth Social post directing release of UAP files (20 February 2026)",
-   "status": null,
-   "tier": "B"
-  },
-  {
    "A": 2,
    "C": 0,
    "D": 3,
    "band": null,
    "claims": [
-    1,
-    1,
-    0
-   ],
-   "cls": "document",
-   "cluster": "oversight",
-   "dateEnd": null,
-   "dateStart": "2026",
-   "deg": 2,
-   "era": "3",
-   "hl": null,
-   "id": "trump-uap-declass-directive-2026",
-   "l0": false,
-   "label": "Presidential directive to identify and release UAP and extraterrestrial files",
-   "short": "Presidential directive to identify and release UAP and extraterrestrial files",
-   "status": null,
-   "tier": "C"
-  },
-  {
-   "A": 2,
-   "C": 0,
-   "D": 3,
-   "band": null,
-   "claims": [
-    0,
-    3,
-    1
+    2,
+    7,
+    2
    ],
    "cls": "document",
    "cluster": "oversight",
    "dateEnd": "2026",
    "dateStart": "2026",
-   "deg": 4,
+   "deg": 7,
    "era": "3",
    "hl": null,
    "id": "trump-uap-release-directive-2026",
@@ -26111,7 +25439,7 @@
    "label": "Presidential direction to identify and release UAP files (19-20 February 2026)",
    "short": "Presidential direction to identify and release UAP files (19-20 February 2026)",
    "status": null,
-   "tier": "B"
+   "tier": "A"
   },
   {
    "A": 2,
@@ -26168,14 +25496,14 @@
    "band": "reverse-engineering",
    "claims": [
     5,
-    1,
-    0
+    3,
+    1
    ],
    "cls": "document",
    "cluster": "contractor",
    "dateEnd": "2023",
    "dateStart": "2019",
-   "deg": 10,
+   "deg": 11,
    "era": "3",
    "hl": null,
    "id": "ttsa-army-crada",
@@ -26184,30 +25512,6 @@
    "short": "CRADA: U.S. Army – TTSA",
    "status": null,
    "tier": "A"
-  },
-  {
-   "A": 1,
-   "C": 2,
-   "D": 2,
-   "band": null,
-   "claims": [
-    0,
-    2,
-    1
-   ],
-   "cls": "document",
-   "cluster": "contractor",
-   "dateEnd": "2024",
-   "dateStart": "2019",
-   "deg": 2,
-   "era": "3",
-   "hl": null,
-   "id": "ttsa-army-crada-2019",
-   "l0": false,
-   "label": "To The Stars Academy - US Army CCDC Cooperative Research and Development Agreement (17 October 2019)",
-   "short": "To The Stars Academy - US Army CCDC Cooperative Research and Development Agreement (17 October 2019)",
-   "status": null,
-   "tier": "C"
   },
   {
    "A": 2,
@@ -26319,7 +25623,7 @@
    "cluster": "media",
    "dateEnd": null,
    "dateStart": "2026-08-07",
-   "deg": 17,
+   "deg": 16,
    "era": "3",
    "hl": null,
    "id": "uap-gerb",
@@ -26328,30 +25632,6 @@
    "short": "'UAP Gerb' (Sam)",
    "status": "active",
    "tier": "A"
-  },
-  {
-   "A": 0,
-   "C": 1,
-   "D": 3,
-   "band": null,
-   "claims": [
-    0,
-    4,
-    1
-   ],
-   "cls": "document",
-   "cluster": "media",
-   "dateEnd": null,
-   "dateStart": "2026",
-   "deg": 4,
-   "era": "3",
-   "hl": null,
-   "id": "uap-gerb-mitre-investigation",
-   "l0": false,
-   "label": "'The MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs'",
-   "short": "'The MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs'",
-   "status": null,
-   "tier": "C"
   },
   {
    "A": 2,
@@ -26402,30 +25682,6 @@
    "tier": "B"
   },
   {
-   "A": 1,
-   "C": 1,
-   "D": 3,
-   "band": null,
-   "claims": [
-    3,
-    0,
-    1
-   ],
-   "cls": "institution",
-   "cluster": "oversight",
-   "dateEnd": null,
-   "dateStart": "2024",
-   "deg": 3,
-   "era": "3",
-   "hl": null,
-   "id": "uap-records-collection-rg615",
-   "l0": false,
-   "label": "Unidentified Anomalous Phenomena Records Collection (NARA Record Group 615)",
-   "short": "Unidentified Anomalous Phenomena Records Collection (NARA Record Group 615)",
-   "status": null,
-   "tier": "B"
-  },
-  {
    "A": 3,
    "C": 2,
    "D": 3,
@@ -26453,7 +25709,7 @@
    "A": 1,
    "C": 0,
    "D": 3,
-   "band": "oversight",
+   "band": "research",
    "claims": [
     6,
     12,
@@ -26583,7 +25839,7 @@
    "cluster": "oversight",
    "dateEnd": null,
    "dateStart": "2026-07-22",
-   "deg": 10,
+   "deg": 9,
    "era": "3",
    "hl": null,
    "id": "uapda-fy2027-house-adopted",
@@ -27407,7 +26663,7 @@
    "label": "Capitão Uyrangê Bolívar Soares Nogueira de Hollanda Lima",
    "short": "Capitão Uyrangê Bolívar Soares Nogueira de Hollanda Lima",
    "status": "dead",
-   "tier": "B"
+   "tier": "C"
   },
   {
    "A": 1,
@@ -27615,7 +26871,7 @@
    "cluster": "oversight",
    "dateEnd": null,
    "dateStart": null,
-   "deg": 31,
+   "deg": 30,
    "era": "nd",
    "hl": 2,
    "id": "waived-sap-notification-group",
@@ -27631,45 +26887,21 @@
    "D": 3,
    "band": "funding",
    "claims": [
-    2,
-    0,
-    1
+    17,
+    1,
+    3
    ],
    "cls": "program",
    "cluster": "legacy",
    "dateEnd": null,
    "dateStart": "1988",
-   "deg": 11,
+   "deg": 19,
    "era": "1",
    "hl": null,
    "id": "waived-usap",
    "l0": true,
    "label": "Waived unacknowledged special access program (waived USAP)",
    "short": "Waived unacknowledged SAP",
-   "status": null,
-   "tier": "A"
-  },
-  {
-   "A": 3,
-   "C": 3,
-   "D": 3,
-   "band": "funding",
-   "claims": [
-    15,
-    1,
-    2
-   ],
-   "cls": "program",
-   "cluster": "legacy",
-   "dateEnd": null,
-   "dateStart": "1987-12-04",
-   "deg": 11,
-   "era": "1",
-   "hl": null,
-   "id": "waived-usap-mechanism",
-   "l0": true,
-   "label": "Waived Unacknowledged SAP (waived USAP) - the mechanism",
-   "short": "Waived USAP - the mechanism",
    "status": null,
    "tier": "A"
   },
@@ -28250,5 +27482,5 @@
    "tier": "C"
   }
  ],
- "source": "4b7caa9c01e0"
+ "source": "90ecec93ba8e"
 }

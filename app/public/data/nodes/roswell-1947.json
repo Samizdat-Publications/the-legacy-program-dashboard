@@ -231,7 +231,7 @@
 "edgeId": "e-06d42f80a2",
 "edgeLabel": "GAO found the base's records for the event period destroyed",
 "id": "gao-nsiad-95-187",
-"l0": false,
+"l0": true,
 "label": "GAO/NSIAD-95-187 - Results of a Search for Records Concerning the 1947 Crash Near Roswell",
 "note": "RAAF outgoing messages Oct 1946 - Dec 1949 and administrative records Mar 1945 - Dec 1949 were destroyed, and the disposition form does not record who destroyed them, when, or under what authority.",
 "sources": [
@@ -710,12 +710,6 @@
 "tier": "C"
 },
 {
-"cls": "document",
-"id": "gao-nsiad-95-187",
-"label": "GAO/NSIAD-95-187 - Results of a Search for Records Concerning the 1947 Crash Near Roswell",
-"tier": "A"
-},
-{
 "cls": "person",
 "id": "jesse-marcel",
 "label": "Jesse A. Marcel Sr.",
@@ -809,7 +803,7 @@
 ],
 "sub": "Recovery and retraction, 7-9 July 1947",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 32 of 1170, score 93). 17 connections, 3 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C3/A2/D3.",
+"tierRationale": "Re-graded A on a global pass (rank 33 of 1138, score 93). 17 connections, 3 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C3/A2/D3.",
 "timeline": [
 {
 "claimTier": null,

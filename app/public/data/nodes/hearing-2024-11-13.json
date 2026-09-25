@@ -678,7 +678,7 @@
 "url": "https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Transcript-20241113.pdf"
 }
 ],
-"tier": "A",
+"tier": "B",
 "type": "witness-chain"
 }
 ],
@@ -913,7 +913,7 @@
 "cls": "person",
 "id": "tim-gallaudet",
 "label": "Timothy Gallaudet",
-"tier": "A"
+"tier": "B"
 }
 ],
 "openQuestions": [],
@@ -1002,7 +1002,7 @@
 ],
 "sub": "congressional-hearings",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 42 of 1170, score 87). 18 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A2/D3.",
+"tierRationale": "Re-graded A on a global pass (rank 42 of 1138, score 87). 18 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A2/D3.",
 "timeline": [
 {
 "claimTier": null,

@@ -39,11 +39,11 @@
 "dateEnd": null,
 "dateStart": "2026-02-23",
 "direction": "out",
-"edgeId": "e-527ff8eb72",
+"edgeId": "e-2795b20cb0",
 "edgeLabel": "characterises a social-media post as an executive order",
-"id": "trump-truth-social-post-2026-02-20",
+"id": "trump-uap-release-directive-2026",
 "l0": false,
-"label": "Trump Truth Social post directing release of UAP files (20 February 2026)",
+"label": "Presidential direction to identify and release UAP files (19-20 February 2026)",
 "note": "Hegseth's phrase 'that executive order' has no matching published instrument. Either the Secretary mischaracterised the post or an unpublished order exists; the board records the discrepancy rather than resolving it.",
 "sources": [
 {
@@ -57,7 +57,7 @@
 "url": "https://defensescoop.com/2026/02/20/trump-ufo-uap-government-files-disclosure/"
 }
 ],
-"tier": "B",
+"tier": "A",
 "type": "denial"
 }
 ],
@@ -72,13 +72,13 @@
 "label": "Hegseth's UAP disclosure statements, Louisville, 23 February 2026"
 },
 "b": {
-"id": "trump-truth-social-post-2026-02-20",
-"label": "Trump Truth Social post directing release of UAP files (20 February 2026)"
+"id": "trump-uap-release-directive-2026",
+"label": "Presidential direction to identify and release UAP files (19-20 February 2026)"
 },
 "by": null,
 "claimTier": 3,
 "denialKind": "association",
-"edgeId": "e-527ff8eb72",
+"edgeId": "e-2795b20cb0",
 "label": "characterises a social-media post as an executive order",
 "note": "Hegseth's phrase 'that executive order' has no matching published instrument. Either the Secretary mischaracterised the post or an unpublished order exists; the board records the discrepancy rather than resolving it.",
 "of": null,
@@ -130,7 +130,7 @@
 ],
 "sub": "'Arsenal of Freedom' tour; 'full compliance with that executive order'",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 727 of 1170, score 24). 1 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 714 of 1138, score 24). 1 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D3.",
 "timeline": [
 {
 "claimTier": 2,

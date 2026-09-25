@@ -16,16 +16,10 @@
       0,
       1,
       2,
-      3
-     ],
-     "partial": []
-    },
-    {
-     "node": "nara-rg615",
-     "questions": [
-      0,
-      1,
-      4
+      3,
+      6,
+      7,
+      10
      ],
      "partial": []
     },
@@ -629,22 +623,10 @@
      0,
      1,
      2,
-     3
-    ],
-    "partial": []
-   }
-  ],
-  "nara-rg615": [
-   {
-    "request": "F1",
-    "agency": "NARA",
-    "title": "NARA - the RG 615 compliance register",
-    "sendTo": "National Archives and Records Administration, FOIA Officer, Office of General Counsel, 8601 Adelphi Road, College Park MD 20740. Cross-file a copy with the National Declassification Center, which is the operational custodian of the collection.",
-    "status": "not filed",
-    "questions": [
-     0,
-     1,
-     4
+     3,
+     6,
+     7,
+     10
     ],
     "partial": []
    }

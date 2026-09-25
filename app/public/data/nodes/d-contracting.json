@@ -33,11 +33,11 @@
 "dateEnd": null,
 "dateStart": "2008-09-22",
 "direction": "in",
-"edgeId": "e-1ae3f606bc",
+"edgeId": "e-ae2e5483cd",
 "edgeLabel": "the instrument itself - competed, awarded, numbered and released",
-"id": "aawsap-contract-hhm402-08-c-0072",
+"id": "aawsap-contract",
 "l0": false,
-"label": "DIA Contract HHM402-08-C-0072 (AAWSAP / BAASS)",
+"label": "DIA Contract HHM402-08-C-0072 (BAASS)",
 "note": "Awarded 22 September 2008 off solicitation HHM402-08-R-0211 through the DIA Virginia Contracting Activity. It is the domain's reference specimen: the object that shows what a contract for this subject looks like when the paper survives, against which every undocumented allegation of a contract can be compared.",
 "sources": [
 {
@@ -51,7 +51,7 @@
 "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237630/"
 }
 ],
-"tier": "C",
+"tier": "A",
 "type": "institutional"
 },
 {
@@ -347,7 +347,7 @@
 ],
 "sub": "Procedural domain - the vehicles, CRADAs and OTAs through which work is bought and hidden",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 344 of 1170, score 37). 10 connections, 1 of them custody/funding/programmatic. Axes C2/A2/D1.",
+"tierRationale": "Re-graded B on a global pass (rank 345 of 1138, score 37). 10 connections, 1 of them custody/funding/programmatic. Axes C2/A2/D1.",
 "timeline": [],
 "unverified": []
 }

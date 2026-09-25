@@ -83,35 +83,13 @@
 "claimTier": 1,
 "cls": "institution",
 "dateEnd": null,
-"dateStart": "2023-12-22",
-"direction": "in",
-"edgeId": "e-130c152140",
-"edgeLabel": "created by",
-"id": "nara-rg615",
-"l0": true,
-"label": "National Archives Record Group 615 - UAP Records Collection",
-"note": "Record Group 615 exists under sections 1841-1843 of the FY2024 NDAA, which require NARA to establish the collection and each agency to review, identify and organise its UAP records.",
-"sources": [
-{
-"date": "2026-08-12",
-"name": "National Archives, UAP Records FAQs",
-"url": "https://www.archives.gov/research/topics/uaps/faqs"
-}
-],
-"tier": "A",
-"type": "legislative"
-},
-{
-"claimTier": 1,
-"cls": "institution",
-"dateEnd": null,
 "dateStart": "2024",
 "direction": "out",
-"edgeId": "e-3b5ac79b6b",
+"edgeId": "e-1d0af34824",
 "edgeLabel": "Secs. 1841-1843 created RG 615 at the National Archives",
-"id": "uap-records-collection-rg615",
-"l0": false,
-"label": "Unidentified Anomalous Phenomena Records Collection (NARA Record Group 615)",
+"id": "nara-uap-collection",
+"l0": true,
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection",
 "note": "The collection is the only concrete institution produced by the entire UAPDA fight.",
 "sources": [
 {
@@ -125,8 +103,30 @@
 "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
 }
 ],
-"tier": "B",
+"tier": "A",
 "type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2023-12-22",
+"direction": "in",
+"edgeId": "e-536b707880",
+"edgeLabel": "created by",
+"id": "nara-uap-collection",
+"l0": true,
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection",
+"note": "Record Group 615 exists under sections 1841-1843 of the FY2024 NDAA, which require NARA to establish the collection and each agency to review, identify and organise its UAP records.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "National Archives, UAP Records FAQs",
+"url": "https://www.archives.gov/research/topics/uaps/faqs"
+}
+],
+"tier": "A",
+"type": "legislative"
 },
 {
 "claimTier": 1,
@@ -186,7 +186,7 @@
 "coords": null,
 "dateEnd": null,
 "dateStart": "2023",
-"deg": 5,
+"deg": 4,
 "denials": [
 {
 "a": {
@@ -276,8 +276,8 @@
 }
 ],
 "sub": "Enacted UAP records regime, 22 December 2023",
-"tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 171 of 1170, score 49). 5 connections, 0 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C1/A2/D2.",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 172 of 1138, score 49). 5 connections, 0 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C1/A2/D2.",
 "timeline": [
 {
 "claimTier": null,

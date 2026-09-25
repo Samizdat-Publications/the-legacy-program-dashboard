@@ -60,7 +60,7 @@
 "edgeId": "e-20f97512a9",
 "edgeLabel": "ISOO advises the working group that produces the marking standard",
 "id": "isoo",
-"l0": true,
+"l0": false,
 "label": "Information Security Oversight Office",
 "note": "The CAPCO Register v5.1 lists NARA/Information Security Oversight Office among the IC Classification Markings Implementation Working Group advisors.",
 "sources": [
@@ -196,7 +196,7 @@
 ],
 "sub": "registry",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 269 of 1170, score 41). 4 connections, 2 of them custody/funding/programmatic. Axes C1/A2/D2.",
+"tierRationale": "Re-graded B on a global pass (rank 272 of 1138, score 41). 4 connections, 2 of them custody/funding/programmatic. Axes C1/A2/D2.",
 "timeline": [
 {
 "claimTier": null,

@@ -21,12 +21,52 @@
 "source": "AARO/ORNL Synopsis, July 2024",
 "text": "The reports acknowledge the specimen's 'undocumented chain of custody and conflicting personal accounts' leave its exact historical origin and purpose unclear.",
 "tier": 1
+},
+{
+"id": "c-fa6a413d70",
+"source": "AARO UAP Records/Information Papers page",
+"text": "The report is titled 'ORNL Synopsis: Analysis of a Metallic Specimen', dated April 2024, produced under a 2022 AARO contract with Oak Ridge National Laboratory.",
+"tier": 1
+},
+{
+"id": "c-75c22fe63f",
+"source": "NewsNation, 11 July 2024; Popular Mechanics, 23 March 2026",
+"text": "The analysis concluded the material is a magnesium alloy and found no evidence of extraterrestrial origin; ORNL scientists examined it for technosignatures using scanning transmission electron microscopy after finding no biosignatures.",
+"tier": 2
+},
+{
+"id": "c-f03a2ef640",
+"source": "Gizmodo, 11 July 2024, quoting the published synopsis",
+"text": "Neither AARO nor ORNL could verify the specimen's historical origin.",
+"tier": 2
 }
 ],
 "cls": "document",
 "cluster": "ic",
 "conflicts": [],
 "connections": [
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2024",
+"direction": "out",
+"edgeId": "e-81bd5375b8",
+"edgeLabel": "The government's only published materials analysis, produced by a Battelle-operated laboratory",
+"id": "aaro",
+"l0": true,
+"label": "All-domain Anomaly Resolution Office (AARO)",
+"note": "Recorded as a denial artifact as well as a technical result: the chain of custody to any 1947 event was never established and the comparison baseline of failed magnesium alloys is admittedly incomplete.",
+"sources": [
+{
+"date": "2024-07-11",
+"name": "NewsNation",
+"url": "https://www.newsnationnow.com/space/ufo/metal-uap-not-alien/"
+}
+],
+"tier": "A",
+"type": "denial"
+},
 {
 "claimTier": 1,
 "cls": "institution",
@@ -49,6 +89,33 @@
 "date": "2024-03-08",
 "name": "AARO, 'Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP), Volume I'",
 "url": "https://documents2.theblackvault.com/documents/dod/AARO_Historical_Record_Report_Volume_1_2024.pdf"
+}
+],
+"tier": "A",
+"type": "custody"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2024",
+"direction": "in",
+"edgeId": "e-c94c08f95e",
+"edgeLabel": "Produced 'ORNL Synopsis: Analysis of a Metallic Specimen', April 2024",
+"id": "oak-ridge-national-laboratory",
+"l0": false,
+"label": "Oak Ridge National Laboratory (UT-Battelle, LLC)",
+"note": "Released publicly July 2024; concluded the material is a terrestrial magnesium alloy, while stating that neither AARO nor ORNL could verify the specimen's historical origin.",
+"sources": [
+{
+"date": "2026-07-08",
+"name": "AARO UAP Records",
+"url": "https://www.aaro.mil/UAP-Records/"
+},
+{
+"date": "2024-07-11",
+"name": "Gizmodo",
+"url": "https://gizmodo.com/pentagon-publishes-report-on-material-from-a-reported-alien-aircraft-2000469433"
 }
 ],
 "tier": "A",
@@ -112,8 +179,32 @@
 "coords": null,
 "dateEnd": null,
 "dateStart": "2024",
-"deg": 3,
+"deg": 5,
 "denials": [
+{
+"a": {
+"id": "aaro-metallic-specimen-analysis",
+"label": "AARO / ORNL Synopsis: Analysis of a Metallic Specimen"
+},
+"b": {
+"id": "aaro",
+"label": "All-domain Anomaly Resolution Office (AARO)"
+},
+"by": null,
+"claimTier": 1,
+"denialKind": "association",
+"edgeId": "e-81bd5375b8",
+"label": "The government's only published materials analysis, produced by a Battelle-operated laboratory",
+"note": "Recorded as a denial artifact as well as a technical result: the chain of custody to any 1947 event was never established and the comparison baseline of failed magnesium alloys is admittedly incomplete.",
+"of": null,
+"sources": [
+{
+"date": "2024-07-11",
+"name": "NewsNation",
+"url": "https://www.newsnationnow.com/space/ufo/metal-uap-not-alien/"
+}
+]
+},
 {
 "a": {
 "id": "aaro-metallic-specimen-analysis",
@@ -163,6 +254,8 @@
 "openQuestions": [],
 "short": "AARO / ORNL Synopsis: Analysis of a Metallic Specimen",
 "sourceFiles": [
+"_rs-archive-mirror",
+"ffrdcs",
 "primes-custody"
 ],
 "sources": [
@@ -175,12 +268,42 @@
 "date": "2024-03-08",
 "name": "AARO, 'Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP), Volume I'",
 "url": "https://documents2.theblackvault.com/documents/dod/AARO_Historical_Record_Report_Volume_1_2024.pdf"
+},
+{
+"date": "2026-07-14",
+"name": "Archived: AARO - UAP Records / Information Papers (Wayback 2026-07-14)",
+"url": "https://web.archive.org/web/20260714192654/https://www.aaro.mil/UAP-Records/"
+},
+{
+"date": "2026-07-08",
+"name": "AARO - UAP Records / Information Papers",
+"url": "https://www.aaro.mil/UAP-Records/"
+},
+{
+"date": "2024-07-11",
+"name": "NewsNation - UAP metal fragment not alien in origin: AARO",
+"url": "https://www.newsnationnow.com/space/ufo/metal-uap-not-alien/"
+},
+{
+"date": "2026-03-23",
+"name": "Popular Mechanics - This Mysterious Metal Could Be Alien Technology, UFO Hunters Say",
+"url": "https://www.popularmechanics.com/science/a70820348/ufo-metal-sample-analysis/"
 }
 ],
 "sub": "Released July 2024; ORNL analysis of the alleged 1947 crash sample held privately",
-"tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 291 of 1170, score 40). 3 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A2/D2.",
+"tier": "A",
+"tierRationale": "Re-graded A on a global pass (rank 129 of 1138, score 56). 5 connections, 3 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C2/A2/D2.",
 "timeline": [
+{
+"claimTier": null,
+"date": "2024-04-01",
+"grade": "A",
+"id": "tl-ffrdc-2024-ornl-report",
+"label": "'ORNL Synopsis: Analysis of a Metallic Specimen'",
+"precision": "month",
+"strand": "coverup",
+"text": "Oak Ridge reports the specimen alleged to derive from a 1947 crash is a terrestrial magnesium alloy - while stating that neither AARO nor ORNL could verify its historical origin and that records of failed magnesium alloy designs are scant."
+},
 {
 "claimTier": null,
 "date": "2024-07-11",

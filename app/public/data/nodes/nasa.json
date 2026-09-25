@@ -152,7 +152,7 @@
 "url": "https://smd-cms.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf"
 }
 ],
-"tier": "B",
+"tier": "C",
 "type": "research"
 },
 {
@@ -652,7 +652,7 @@
 "cls": "person",
 "id": "david-spergel",
 "label": "David N. Spergel",
-"tier": "B"
+"tier": "C"
 },
 {
 "cls": "institution",
@@ -763,7 +763,7 @@
 ],
 "sub": "Civil space agency; host of the 2023 UAP Independent Study Team",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 102 of 1170, score 63). 18 connections, 4 of them custody/funding/programmatic. Axes C0/A1/D3.",
+"tierRationale": "Re-graded A on a global pass (rank 103 of 1138, score 63). 18 connections, 4 of them custody/funding/programmatic. Axes C0/A1/D3.",
 "timeline": [
 {
 "claimTier": null,

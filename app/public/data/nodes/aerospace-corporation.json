@@ -153,7 +153,7 @@
 "edgeId": "e-cb955e3042",
 "edgeLabel": "Groups Aerospace Corporation with MITRE as the FFRDC layer",
 "id": "gerb-mitre-investigation",
-"l0": false,
+"l0": true,
 "label": "UAP Gerb - The MITRE Corporation investigation",
 "note": "Gerb's FFRDC thesis treats MITRE and the Aerospace Corporation as parallel instances of the same mechanism; the Aerospace link is reinforced by Stephanie O'Sullivan's board membership there after ODNI. The specific allegation against Aerospace is inference from the model rather than a separately documented claim.",
 "sources": [
@@ -264,7 +264,7 @@
 ],
 "sub": "Nonprofit operator of the Aerospace FFRDC for the US Space Force; El Segundo, CA; founded 1960",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 210 of 1170, score 45). 5 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D1.",
+"tierRationale": "Re-graded B on a global pass (rank 210 of 1138, score 45). 5 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D1.",
 "timeline": [
 {
 "claimTier": null,

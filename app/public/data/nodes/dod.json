@@ -243,7 +243,7 @@
 "url": "https://www.congress.gov/119/chrg/CHRG-119hhrg61718/CHRG-119hhrg61718.pdf"
 }
 ],
-"tier": "C",
+"tier": "B",
 "type": "denial"
 },
 {
@@ -314,7 +314,7 @@
 "url": "https://www.dodig.mil/Reports/Audits-and-Evaluations/Article/3496071/evaluation-of-the-dods-actions-regarding-unidentified-anomalous-phenomena-dodig/"
 }
 ],
-"tier": "C",
+"tier": "B",
 "type": "institutional"
 },
 {
@@ -738,15 +738,15 @@
 },
 {
 "claimTier": 1,
-"cls": "program",
+"cls": "institution",
 "dateEnd": null,
 "dateStart": "2023",
 "direction": "in",
-"edgeId": "e-7bcaff72fe",
+"edgeId": "e-801ac9379f",
 "edgeLabel": "No agency-by-agency compliance accounting is published",
-"id": "nara-uap-records-collection",
-"l0": false,
-"label": "National Archives UAP Records Collection (Record Group 615)",
+"id": "nara-uap-collection",
+"l0": true,
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection",
 "note": "NARA publishes no list of which agencies have transferred UAP records, no counts and no transfer dates - only a statement that records will be added on a rolling basis as received.",
 "sources": [
 {
@@ -760,7 +760,7 @@
 "url": "https://www.archives.gov/research/topics/uaps"
 }
 ],
-"tier": "B",
+"tier": "A",
 "type": "denial"
 },
 {
@@ -1611,8 +1611,8 @@
 },
 {
 "a": {
-"id": "nara-uap-records-collection",
-"label": "National Archives UAP Records Collection (Record Group 615)"
+"id": "nara-uap-collection",
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection"
 },
 "b": {
 "id": "dod",
@@ -1621,7 +1621,7 @@
 "by": null,
 "claimTier": 1,
 "denialKind": "undirected",
-"edgeId": "e-7bcaff72fe",
+"edgeId": "e-801ac9379f",
 "label": "No agency-by-agency compliance accounting is published",
 "note": "NARA publishes no list of which agencies have transferred UAP records, no counts and no transfer dates - only a statement that records will be added on a rolling basis as received.",
 "of": null,
@@ -1900,7 +1900,7 @@
 "cls": "document",
 "id": "crane-dod-reprisal-letter",
 "label": "Rep. Eli Crane letter to the Secretary of Defense re: Major David Charles Grusch reprisal",
-"tier": "C"
+"tier": "B"
 },
 {
 "cls": "person",
@@ -1912,7 +1912,7 @@
 "cls": "institution",
 "id": "dod-oig",
 "label": "Department of Defense Office of Inspector General",
-"tier": "C"
+"tier": "B"
 },
 {
 "cls": "document",
@@ -1985,12 +1985,6 @@
 "id": "marik-von-rennenkampff",
 "label": "Marik von Rennenkampff",
 "tier": "C"
-},
-{
-"cls": "program",
-"id": "nara-uap-records-collection",
-"label": "National Archives UAP Records Collection (Record Group 615)",
-"tier": "B"
 },
 {
 "cls": "person",
@@ -2098,7 +2092,7 @@
 ],
 "sub": "Executive department; owner of the SAP enterprise and of every alleged recovery compartment",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 14 of 1170, score 115). 48 connections, 1 of them custody/funding/programmatic, 17 official denials recorded against it. Axes C3/A3/D1.",
+"tierRationale": "Re-graded A on a global pass (rank 16 of 1138, score 115). 48 connections, 1 of them custody/funding/programmatic, 17 official denials recorded against it. Axes C3/A3/D1.",
 "timeline": [],
 "unverified": []
 }

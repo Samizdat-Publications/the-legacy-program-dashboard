@@ -154,7 +154,7 @@
 "edgeId": "e-7fa29bb9a5",
 "edgeLabel": "the office charged with counting the classification system, and therefore the boundary of the public map",
 "id": "isoo",
-"l0": true,
+"l0": false,
 "label": "Information Security Oversight Office",
 "note": "ISOO is housed at the National Archives and is responsible to the President for policy and oversight of the government-wide security classification system and the National Industrial Security Program, under Executive Orders 13526 and 13556. Where ISOO's annual reporting stops is where this domain's open-source organisational mapping has to switch to inference.",
 "sources": [
@@ -325,7 +325,7 @@
 ],
 "sub": "Research domain",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 952 of 1170, score 17). 10 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 925 of 1138, score 17). 10 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.",
 "timeline": [],
 "unverified": []
 }

@@ -181,20 +181,36 @@ def partition(nodes, adj, pair):
     hl_missing = [i for i in hl_ids if i not in elig_set]
 
     budget_cut = []
+    has_dossier = dossier_ids()
     if len(eligible) <= BUDGET:
         l0ids = eligible
     else:
         # Compete on degree; break ties on file order so the build is reproducible.
+        #
+        # A node with an entity dossier outranks one without (phase 4, 25 September
+        # 2026). Every L0 node must carry a dossier (the gate says so), and under a
+        # fixed budget a node that cannot meet that contract should yield its seat to
+        # one that can rather than turn the gate red. Before phase 4 the top 135 by
+        # degree all had dossiers, so this selects exactly the same map; it matters
+        # when a collapse pools two records' edges onto a survivor that was never
+        # written up for the map (four did in phase 4: the AAWSAP contract, the DoD
+        # OIG, the H.R. 5060 bill and the February 2026 presidential direction).
+        # Those are reported below as cut for want of a dossier, on every build.
         pos = {nid: i for i, nid in enumerate(eligible)}
-        ranked = sorted(eligible, key=lambda i: (-deg[i], pos[i]))
+        ranked = sorted(eligible, key=lambda i: (i not in has_dossier, -deg[i], pos[i]))
         keep = set(ranked[:BUDGET]) | (set(hl_ids) & elig_set)
         l0ids = [i for i in eligible if i in keep]          # file order preserved
         budget_cut = [i for i in ranked[BUDGET:] if i not in keep]
 
     # A node leaving the map is a finding, not a no-op. Report it, every build.
+    no_doss = [i for i in budget_cut if i not in has_dossier] if budget_cut else []
+    if no_doss:
+        print(f"  L0 budget: {len(no_doss)} eligible node(s) cut for want of an entity "
+              f"dossier, whatever their degree: "
+              + ", ".join(f"{i}({deg[i]})" for i in no_doss), file=sys.stderr)
     if budget_cut:
         print(f"  L0 budget {BUDGET}: {len(eligible)} eligible, {len(l0ids)} kept, "
-              f"{len(budget_cut)} cut (lowest degree first): "
+              f"{len(budget_cut)} cut (no dossier first, then lowest degree): "
               + ", ".join(f"{i}({deg[i]})" for i in budget_cut[-8:][::-1]),
               file=sys.stderr)
     if hl_missing:
@@ -555,6 +571,13 @@ def mark_authority(nodes, board_by_id, offices, deg, issued, received, undirecte
 #
 # They live in research/dossiers/ rather than research/ because merge.py globs
 # research/*.json and expects node documents.
+def dossier_ids():
+    """The ids research/dossiers/ carries a dossier for, without loading them."""
+    import glob
+    return {e["id"] for f in glob.glob(os.path.join(ROOT, "research", "dossiers", "*.json"))
+            for e in json.load(open(f, encoding="utf-8"))}
+
+
 def load_dossiers():
     import glob
     out = {}
@@ -631,7 +654,7 @@ ENTRY_PATHS = [
     {"id": "mechanism", "label": "The legal mechanism",
      "blurb": "The statutes and directives that let a programme exist without "
               "being reportable, and the twelve seats that get told.",
-     "seed": ["waived-usap", "waived-usap-mechanism", "carve-out", "usc-10-119",
+     "seed": ["waived-usap", "carve-out", "usc-10-119",
               "dodi-5205-11", "dod-sapco", "classified-annex",
               "waived-sap-notification-group", "oversight-congress", "isoo"]},
     {"id": "foreign", "label": "The foreign counter-examples",

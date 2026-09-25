@@ -33,11 +33,11 @@
 "dateEnd": null,
 "dateStart": "2016-07-26",
 "direction": "out",
-"edgeId": "e-3d4d5cb379",
+"edgeId": "e-f251553a00",
 "edgeLabel": "OIG audit report of 26 July 2016",
-"id": "dodig",
+"id": "dod-oig",
 "l0": false,
-"label": "Office of Inspector General, Department of Defense / Department of War",
+"label": "Department of Defense Office of Inspector General",
 "note": "The report is the OIG's own audit of Army General Fund compilation adjustments for FY2015. Attested by the report.",
 "sources": [
 {
@@ -46,7 +46,7 @@
 "url": "https://media.defense.gov/2016/Jul/26/2001714261/-1/-1/1/DODIG-2016-113.pdf"
 }
 ],
-"tier": "C",
+"tier": "B",
 "type": "investigative"
 },
 {
@@ -122,7 +122,7 @@
 ],
 "sub": "DoD OIG audit report, 26 July 2016; source of the $2.8 trillion and $6.5 trillion figures",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 911 of 1170, score 18). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 887 of 1138, score 18). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.",
 "timeline": [
 {
 "claimTier": null,

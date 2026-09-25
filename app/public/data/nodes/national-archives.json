@@ -51,6 +51,33 @@
 },
 {
 "claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2024",
+"direction": "out",
+"edgeId": "e-b4645c5bd0",
+"edgeLabel": "NARA is custodian without power to compel transmission",
+"id": "nara-uap-collection",
+"l0": true,
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection",
+"note": "The Archivist must preserve, index and publish, but Secs. 1842 and 1843 put identification, transmission and postponement in the hands of the agencies and their original classification authorities.",
+"sources": [
+{
+"date": "2023-12-22",
+"name": "P.L. 118-31, FY2024 NDAA — GPO",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
+},
+{
+"date": "2025-04-24",
+"name": "National Archives — UAP records",
+"url": "https://www.archives.gov/uap"
+}
+],
+"tier": "A",
+"type": "custody"
+},
+{
+"claimTier": 1,
 "cls": "document",
 "dateEnd": null,
 "dateStart": null,
@@ -88,33 +115,6 @@
 "date": "2026-08-30",
 "name": "Guide to Federal Records in the National Archives, Record Group 330",
 "url": "https://www.archives.gov/research/guide-fed-records/groups/330.html"
-}
-],
-"tier": "B",
-"type": "custody"
-},
-{
-"claimTier": 1,
-"cls": "institution",
-"dateEnd": null,
-"dateStart": "2024",
-"direction": "out",
-"edgeId": "e-796b5df899",
-"edgeLabel": "NARA is custodian without power to compel transmission",
-"id": "uap-records-collection-rg615",
-"l0": false,
-"label": "Unidentified Anomalous Phenomena Records Collection (NARA Record Group 615)",
-"note": "The Archivist must preserve, index and publish, but Secs. 1842 and 1843 put identification, transmission and postponement in the hands of the agencies and their original classification authorities.",
-"sources": [
-{
-"date": "2023-12-22",
-"name": "P.L. 118-31, FY2024 NDAA — GPO",
-"url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
-},
-{
-"date": "2025-04-24",
-"name": "National Archives — UAP records",
-"url": "https://www.archives.gov/uap"
 }
 ],
 "tier": "B",
@@ -160,7 +160,7 @@
 ],
 "sub": "Custodian of the UAP Records Collection",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 387 of 1170, score 35). 4 connections, 3 of them custody/funding/programmatic. Axes C1/A1/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 388 of 1138, score 35). 4 connections, 3 of them custody/funding/programmatic. Axes C1/A1/D3.",
 "timeline": [],
 "unverified": []
 }

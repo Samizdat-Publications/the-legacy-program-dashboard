@@ -99,11 +99,11 @@
 "dateEnd": "2024-09-30",
 "dateStart": "2023-12-22",
 "direction": "in",
-"edgeId": "e-94b325bd28",
+"edgeId": "e-e5dbc3b8dd",
 "edgeLabel": "Binds funds authorised by the intelligence division",
-"id": "iaa24-sec7343",
-"l0": false,
-"label": "IAA FY2024 Section 7343 - Funding Limitations Relating to Unidentified Anomalous Phenomena",
+"id": "iaa-fy2024-7343",
+"l0": true,
+"label": "FY2024 Intelligence Authorization Act sec. 7343 - Funding Limitations Relating to UAP",
 "note": "Section 7343(b) bars use of funds authorised by Division F for UAP activity under special or restricted access limitation absent DNI disclosure to six committees and congressional leadership. Attested by the statute.",
 "sources": [
 {
@@ -112,7 +112,7 @@
 "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
 }
 ],
-"tier": "B",
+"tier": "A",
 "type": "legislative"
 },
 {
@@ -315,7 +315,7 @@
 ],
 "sub": "The non-DoD-controlled half of the US intelligence budget; funded across many agencies, controlled by the DNI",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 187 of 1170, score 47). 6 connections, 3 of them custody/funding/programmatic. Axes C1/A3/D2.",
+"tierRationale": "Re-graded B on a global pass (rank 187 of 1138, score 47). 6 connections, 3 of them custody/funding/programmatic. Axes C1/A3/D2.",
 "timeline": [],
 "unverified": []
 }

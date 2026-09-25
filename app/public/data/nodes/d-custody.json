@@ -201,11 +201,11 @@
 "dateEnd": null,
 "dateStart": "2023",
 "direction": "in",
-"edgeId": "e-79fba6ce0b",
+"edgeId": "e-74432a42eb",
 "edgeLabel": "Concluded data was insufficient - having been given only the unclassified record",
-"id": "nasa-uapist",
-"l0": false,
-"label": "NASA Unidentified Anomalous Phenomena Independent Study Team",
+"id": "nasa-uap-ist",
+"l0": true,
+"label": "NASA UAP Independent Study Team",
 "note": "Sixteen serious scientists examining only unclassified material concluded that unclassified material is insufficient. The finding measures the panel's access, not the government's holdings.",
 "sources": [
 {
@@ -219,7 +219,7 @@
 "url": "https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team"
 }
 ],
-"tier": "C",
+"tier": "B",
 "type": "denial"
 },
 {
@@ -263,7 +263,7 @@
 "url": "https://archive.org/details/antigravity"
 }
 ],
-"tier": "A",
+"tier": "B",
 "type": "custody"
 },
 {
@@ -272,11 +272,11 @@
 "dateEnd": "2026",
 "dateStart": "2019",
 "direction": "in",
-"edgeId": "e-4f12daff26",
+"edgeId": "e-b8c126f90f",
 "edgeLabel": "The chain goes dark inside a federal research agreement",
-"id": "ttsa-army-crada-2019",
-"l0": false,
-"label": "To The Stars Academy - US Army CCDC Cooperative Research and Development Agreement (17 October 2019)",
+"id": "ttsa-army-crada",
+"l0": true,
+"label": "CRADA between U.S. Army Ground Vehicle Systems Center and To The Stars Academy",
 "note": "A CRADA is a records-generating instrument. Seven years after signature, no characterisation of the samples, no technical output and no Army statement of findings has been published. That silence is the darkest segment of the only documented private-to-federal materials transfer.",
 "sources": [
 {
@@ -285,7 +285,7 @@
 "url": "https://en.wikipedia.org/wiki/To_the_Stars_(company)."
 }
 ],
-"tier": "C",
+"tier": "A",
 "type": "custody"
 },
 {
@@ -323,20 +323,20 @@
 "denials": [
 {
 "a": {
-"id": "nasa-uapist",
-"label": "NASA Unidentified Anomalous Phenomena Independent Study Team"
+"id": "nasa-uap-ist",
+"label": "NASA UAP Independent Study Team"
 },
 "b": {
 "id": "d-custody",
 "label": "Chain of custody"
 },
 "by": {
-"id": "nasa-uapist",
-"label": "NASA Unidentified Anomalous Phenomena Independent Study Team"
+"id": "nasa-uap-ist",
+"label": "NASA UAP Independent Study Team"
 },
 "claimTier": 3,
 "denialKind": "directed",
-"edgeId": "e-79fba6ce0b",
+"edgeId": "e-74432a42eb",
 "label": "Concluded data was insufficient - having been given only the unclassified record",
 "note": "Sixteen serious scientists examining only unclassified material concluded that unclassified material is insufficient. The finding measures the panel's access, not the government's holdings.",
 "of": {
@@ -425,7 +425,7 @@
 ],
 "sub": "Cross-cutting domain: who held what, when, and under what documentation",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 74 of 1170, score 71). 12 connections, 8 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C3/A2/D2.",
+"tierRationale": "Re-graded A on a global pass (rank 78 of 1138, score 71). 12 connections, 8 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C3/A2/D2.",
 "timeline": [],
 "unverified": []
 }

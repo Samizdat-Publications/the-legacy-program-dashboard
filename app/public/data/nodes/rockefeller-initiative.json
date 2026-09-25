@@ -60,11 +60,11 @@
 "dateEnd": "1995",
 "dateStart": "1994",
 "direction": "out",
-"edgeId": "e-5bdf6e3ac1",
+"edgeId": "e-b4b15b96fc",
 "edgeLabel": "The initiative's live period coincides with the GAO records audit and its retention in the White House Roswell file",
-"id": "gao-roswell-report-1995",
-"l0": false,
-"label": "GAO/NSIAD-95-187, Government Records: Results of a Search for Records Concerning the 1947 Crash Near Roswell, New Mexico",
+"id": "gao-nsiad-95-187",
+"l0": true,
+"label": "GAO/NSIAD-95-187 - Results of a Search for Records Concerning the 1947 Crash Near Roswell",
 "note": "The Clinton White House Roswell file (2006-0476-F) contains the July 1995 GAO report; the unclassified records audit is what the White House ended up holding.",
 "sources": [
 {
@@ -78,7 +78,7 @@
 "url": "https://clinton.presidentiallibraries.us/items/show/36328"
 }
 ],
-"tier": "C",
+"tier": "A",
 "type": "temporal"
 },
 {
@@ -158,7 +158,7 @@
 ],
 "sub": "Privately funded campaign to obtain presidential declassification, 1993-1996",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 666 of 1170, score 26). 3 connections, 2 of them custody/funding/programmatic. Axes C0/A1/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 656 of 1138, score 26). 3 connections, 2 of them custody/funding/programmatic. Axes C0/A1/D3.",
 "timeline": [
 {
 "claimTier": null,

@@ -21,6 +21,30 @@
 "source": "Inference from the memo's stated scope compared with the BAASS Ten Month Report contents",
 "text": "The memo evaluates only the written deliverables and does not address the field investigation, database, ranch operations or human-effects work the same contract paid for — a scoping choice that produces a denial that is technically accurate and substantively incomplete.",
 "tier": 3
+},
+{
+"id": "c-04ca9bad0b",
+"source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237611/",
+"text": "Memo header: 'DEFENSE INTELLIGENCE AGENCY, WASHINGTON, D.C. 20340-5100 — INFO MEMO, U-09-2660, NOV 13 2009. FOR: DIRECTOR, SPECIAL PROGRAMS, OFFICE OF THE UNDER SECRETARY OF DEFENSE FOR INTELLIGENCE. SUBJECT: (U) Review of Special Access Program Request.'",
+"tier": 1
+},
+{
+"id": "c-7863c087ce",
+"source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237611/",
+"text": "Finding: 'In reviewing the deliverables to date and looking ahead to planned production in fiscal year (FY) 2010, DIA cannot find adequate justification to establish a restricted SAP... Based on classification levels of current and projected program deliverables, there are insufficient grounds to classify this open program, invoke alternative or compensatory control measures (ACCM), or establish a restricted SAP.'",
+"tier": 1
+},
+{
+"id": "c-e8156d4357",
+"source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237626/",
+"text": "DIA Info Memo U-10-2552 records the outcome of the follow-on meeting: 'In November, 2009, Deputy Secretary of Defense Lynn and I met with Senator Reid to discuss this program. At that time, we determined the reports were of limited value to DIA. However, I did suggest they could be of merit to other organizations and, that upon the completion of the DIA contract, the project could be transitioned to another agency or component better suited to oversee the project.'",
+"tier": 1
+},
+{
+"id": "c-18770fca54",
+"source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237626/",
+"text": "The explicit suggestion that 'the project could be transitioned to another agency or component better suited to oversee the project' is the documented hinge between AAWSAP's DIA phase and whatever followed it — the same transition path AARO later describes ending in the rejected KONA BLUE proposal to DHS.",
+"tier": 3
 }
 ],
 "cls": "document",
@@ -46,8 +70,57 @@
 "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP/U-09-2660CE-IM-Review_of_Special_Access_Program_Request.pdf"
 }
 ],
-"tier": "B",
+"tier": "A",
 "type": "denial"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeId": "e-48f3c92670",
+"edgeLabel": "",
+"id": "reid-sap-letter-2009",
+"l0": false,
+"label": "Reid Letter to DEPSECDEF Requesting Restricted SAP Status",
+"note": "The request and the refusal. Reid's 24 June 2009 letter asked for a restricted SAP; DIA Info Memo U-09-2660 of 13 November 2009 is the answer - 'DIA cannot find adequate justification to establish' it. DIA Info Memo U-10-2552 then records that Deputy Secretary Lynn and the Director met Senator Reid in November 2009 to discuss it. A documented request, a documented denial, and a documented meeting between them.",
+"sources": [
+{
+"date": "2009-11-13",
+"name": "DIA Info Memo U-09-2660, 'Review of Special Access Program Request', 13 Nov 2009 (DIA FOIA release)",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237611/"
+},
+{
+"date": "2009-11-19",
+"name": "DIA Read Ahead, 'DIA visit with Senator Harry Reid', 19 Nov 09, Capitol SVC-217 (DIA FOIA release)",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237628/"
+}
+],
+"tier": "A",
+"type": "programmatic"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeId": "e-0bab4b414d",
+"edgeLabel": "USD(I) tasked DIA to evaluate; DIA declined",
+"id": "reid-sap-letter-2009",
+"l0": false,
+"label": "Reid Letter to DEPSECDEF Requesting Restricted SAP Status",
+"note": "",
+"sources": [
+{
+"date": null,
+"name": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237611/",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237611/"
+}
+],
+"tier": "A",
+"type": "temporal"
 }
 ],
 "coords": null,
@@ -104,6 +177,8 @@
 "openQuestions": [],
 "short": "DIA Memorandum: Review of Special Access Program Request (U-09-2660CE-IM)",
 "sourceFiles": [
+"_rs-aawsap-dirds",
+"_rs-archive-mirror",
 "aawsap-aatip"
 ],
 "sources": [
@@ -116,11 +191,41 @@
 "date": "2009-11-01",
 "name": "DIA — OUSDI Info Memo on AATIP (Review of Special Access Program Request)",
 "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP/OUSDI_IM_on_AATIP_Final.pdf"
+},
+{
+"date": "2009-11-13",
+"name": "DIA Info Memo U-09-2660, 'Review of Special Access Program Request', 13 Nov 2009 (DIA FOIA release)",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237611/"
+},
+{
+"date": "2009-11-19",
+"name": "DIA Read Ahead, 'DIA visit with Senator Harry Reid', 19 Nov 09, Capitol SVC-217 (DIA FOIA release)",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237628/"
+},
+{
+"date": "2010",
+"name": "DIA Info Memo U-10-2552 to USD(AT&L), 'Advanced Aerospace Threat and Identification Program' (DIA FOIA release)",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237626/"
+},
+{
+"date": "2025-03-11",
+"name": "Archived: DIA Info Memo U-09-2660, 'Review of Special Access Program Request', 13 Nov 2009 (DIA FOIA release) (Wayback 2025-03-11)",
+"url": "https://web.archive.org/web/20250311131406/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170058/"
+},
+{
+"date": "2025-03-10",
+"name": "Archived: DIA Read Ahead, 'DIA visit with Senator Harry Reid', 19 Nov 09, Capitol SVC-217 (DIA FOIA release) (Wayback 2025-03-10)",
+"url": "https://web.archive.org/web/20250310024204/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170056/"
+},
+{
+"date": "2025-03-17",
+"name": "Archived: DIA Info Memo U-10-2552 to USD(AT&L), 'Advanced Aerospace Threat and Identification Program' (DIA FOIA release) (Wayback 2025-03-17)",
+"url": "https://web.archive.org/web/20250317081516/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170059/"
 }
 ],
 "sub": "DIA information memorandum, 13 November 2009",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 558 of 1170, score 29). 1 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D2.",
+"tierRationale": "Re-graded B on a global pass (rank 220 of 1138, score 44). 3 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D2.",
 "timeline": [
 {
 "claimTier": null,

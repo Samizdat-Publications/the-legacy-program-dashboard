@@ -55,11 +55,11 @@
 "dateEnd": null,
 "dateStart": "1947-01-01",
 "direction": "out",
-"edgeId": "e-8569ec7f58",
+"edgeId": "e-cb35a5f80f",
 "edgeLabel": "The seam between government and industry",
-"id": "d-ffrdc-mechanism",
+"id": "d-ffrdc",
 "l0": false,
-"label": "The FFRDC Mechanism",
+"label": "The FFRDC Seam",
 "note": "FAR 35.017 gives the FFRDC access to both government classified holdings and contractor proprietary data - the only entity type that can see both sides of the compartment.",
 "sources": [
 {
@@ -68,7 +68,7 @@
 "url": "https://www.acquisition.gov/far/35.017"
 }
 ],
-"tier": "C",
+"tier": "B",
 "type": "institutional"
 },
 {
@@ -217,7 +217,7 @@
 ],
 "sub": "Industrial domain - the private firms alleged to hold material, and the legal shelter that creates",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 258 of 1170, score 42). 5 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A3/D1.",
+"tierRationale": "Re-graded B on a global pass (rank 262 of 1138, score 42). 5 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A3/D1.",
 "timeline": [],
 "unverified": []
 }

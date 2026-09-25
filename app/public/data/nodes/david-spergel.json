@@ -152,49 +152,27 @@
 "id": "nasa-uap-ist",
 "l0": true,
 "label": "NASA UAP Independent Study Team",
-"note": "Spergel chaired the sixteen-member panel whose final report was released 14 September 2023.",
+"note": "Commissioned 24 May 2022, one public meeting 31 May 2023, report delivered and team dissolved 14 September 2023.",
 "sources": [
 {
 "date": "2023-09-14",
 "name": "NASA UAP Independent Study Team Final Report (PDF)",
 "url": "https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf"
-}
-],
-"tier": "B",
-"type": "institutional"
 },
-{
-"claimTier": 1,
-"cls": "program",
-"dateEnd": "2023",
-"dateStart": "2022",
-"direction": "out",
-"edgeId": "e-45ebe5add5",
-"edgeLabel": "Chaired the sixteen-member NASA panel, 2022-2023",
-"id": "nasa-uapist",
-"l0": false,
-"label": "NASA Unidentified Anomalous Phenomena Independent Study Team",
-"note": "Commissioned 24 May 2022, one public meeting 31 May 2023, report delivered and team dissolved 14 September 2023.",
-"sources": [
 {
 "date": "2026-08-12",
 "name": "Wikipedia: NASA Unidentified Anomalous Phenomena Independent Study Team",
 "url": "https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team"
-},
-{
-"date": "2023-09-14",
-"name": "NASA UAP Independent Study Team Final Report",
-"url": "https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf"
 }
 ],
-"tier": "C",
+"tier": "B",
 "type": "institutional"
 }
 ],
 "date": "2023-09-14",
 "dateEnd": null,
 "dateStart": "2023-09-14",
-"deg": 3,
+"deg": 2,
 "denials": [],
 "domains": [
 "d-aviators",
@@ -264,8 +242,8 @@
 ],
 "status": "active",
 "sub": "Astrophysicist; President, Simons Foundation; Chair, NASA UAP Independent Study Team",
-"tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 543 of 1170, score 29). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 572 of 1138, score 28). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": [

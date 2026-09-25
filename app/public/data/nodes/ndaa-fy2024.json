@@ -315,24 +315,7 @@
 "date": "2025-04-24",
 "name": "National Archives press release nr25-07",
 "url": "https://www.archives.gov/press/press-releases/2025/nr25-07"
-}
-],
-"tier": "A",
-"type": "legislative"
 },
-{
-"claimTier": 1,
-"cls": "program",
-"dateEnd": null,
-"dateStart": "2023",
-"direction": "out",
-"edgeId": "e-7014f9813b",
-"edgeLabel": "Statutory basis for Record Group 615",
-"id": "nara-uap-records-collection",
-"l0": false,
-"label": "National Archives UAP Records Collection (Record Group 615)",
-"note": "Sections 1841-1843 of P.L. 118-31 mandate the UAP Records Collection; NARA created RG 615 and issued transfer guidance to agencies.",
-"sources": [
 {
 "date": "2026-08-12",
 "name": "National Archives - UAP Records Collection (archives.gov/uap)",
@@ -344,7 +327,7 @@
 "url": "https://www.archives.gov/research/topics/uaps"
 }
 ],
-"tier": "B",
+"tier": "A",
 "type": "legislative"
 },
 {
@@ -380,11 +363,11 @@
 "dateEnd": "2024",
 "dateStart": "2023",
 "direction": "out",
-"edgeId": "e-08f9a83a66",
+"edgeId": "e-fa4984d59d",
 "edgeLabel": "Sec. 1687 is the enacted funding bar on undisclosed UAP SAPs",
-"id": "pl118-31-sec-1687",
-"l0": false,
-"label": "P.L. 118-31 Sec. 1687 - limitation on funds for unreported programs",
+"id": "ndaa-fy2024-1687",
+"l0": true,
+"label": "FY2024 NDAA sec. 1687 - Limitation on Use of Funds for Certain Unreported Programs",
 "note": "The only enacted provision that conditions money on disclosure of special access UAP activity, including the independent research and development indirect-cost bar.",
 "sources": [
 {
@@ -491,7 +474,7 @@
 "coords": null,
 "dateEnd": null,
 "dateStart": "2023",
-"deg": 12,
+"deg": 11,
 "denials": [
 {
 "a": {
@@ -699,18 +682,6 @@
 "tier": "C"
 },
 {
-"cls": "program",
-"id": "nara-uap-records-collection",
-"label": "National Archives UAP Records Collection (Record Group 615)",
-"tier": "B"
-},
-{
-"cls": "legislation",
-"id": "pl118-31-sec-1687",
-"label": "P.L. 118-31 Sec. 1687 - limitation on funds for unreported programs",
-"tier": "A"
-},
-{
 "cls": "document",
 "id": "uapda-sec-9010-eminent-domain",
 "label": "Section 9010(a) - Exercise of Eminent Domain",
@@ -759,7 +730,7 @@
 ],
 "sub": "authorizing-statutes",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 43 of 1170, score 87). 12 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D3.",
+"tierRationale": "Re-graded A on a global pass (rank 43 of 1138, score 86). 11 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D3.",
 "timeline": [
 {
 "claimTier": null,

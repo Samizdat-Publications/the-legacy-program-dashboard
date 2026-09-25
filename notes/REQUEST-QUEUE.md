@@ -39,7 +39,7 @@ describes the record by content.
 
 | # | Agency / office | What it gets | Nodes closed |
 |---|---|---|---|
-| 1 | NARA (Office of General Counsel FOIA) | RG 615 compliance register | `nara-uap-collection`, `nara-rg615`, `ndaa-fy2024`, `us-house` |
+| 1 | NARA (Office of General Counsel FOIA) | RG 615 compliance register | `nara-uap-collection`, `ndaa-fy2024`, `us-house` |
 | 2 | DIA (FOIA Office, DIA-FOIA) | AAWSAP closeout property inventory and obligation history | `aawsap`, `baass`, `dia`, `earthtech-international` |
 | 3 | OSD/JS FOIA (FOID) | YANKEE BLUE remand search result | `yankee-blue` |
 | 4 | NASA Langley Research Center FOIA | WB-57F N927NA tasking, 18-19 Dec 2023 | `langley-2023-incursions`, `nasa` |
@@ -79,7 +79,7 @@ correspondence with agencies that failed to respond by the 30 September 2025 sta
 Restricted Data or Formerly Restricted Data under the Atomic Energy Act fall inside or outside the
 transfer obligation.
 
-**Board nodes and questions closed.** `nara-uap-collection` Q0, Q1, Q2, Q3; `nara-rg615` Q0, Q1, Q4;
+**Board nodes and questions closed.** `nara-uap-collection` Q0, Q1, Q2, Q3, Q6, Q7, Q10;
 `ndaa-fy2024` Q1, Q2; `us-house` Q0; `doe` Q0; `cia` Q0; `dia` Q0; `odni` Q3; `nro` Q0. That is
 fourteen open questions across eight nodes off one request.
 
@@ -969,7 +969,7 @@ absent artefact that ought to be present is evidence about the institution that 
 
 ## B1. Any identified instance, date or count of a 10 U.S.C. 119(e)(1) waiver
 
-**Nodes.** `waived-sap-notification-group` Q1; `usc-10-119` Q0; `waived-usap-mechanism` Q1, Q2;
+**Nodes.** `waived-sap-notification-group` Q1; `usc-10-119` Q0; `waived-usap` Q8, Q9;
 `waived-usap` Q0, Q2, Q3; `classified-annex` Q1; `dodi-5205-11` Q1; `carve-out` Q3; `isoo` Q3.
 
 **Why no document class exists.** Four independent closures, each sufficient on its own. First,
@@ -1107,7 +1107,7 @@ instrument that reaches it. Only the substantive answer is permanently blocked. 
 
 ## B11. The pre-1987 grandfathering question
 
-**Node.** `waived-usap-mechanism` Q3; `dod` Q2.
+**Node.** `waived-usap` Q10; `dod` Q2.
 
 **Why.** Whether a programme predating the 1987 enactment of section 119 was ever brought into the SAP
 reporting system, or whether legacy arrangements were grandfathered, would be answered only by the

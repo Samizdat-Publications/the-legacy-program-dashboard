@@ -452,38 +452,16 @@
 "type": "investigative"
 },
 {
-"claimTier": 2,
-"cls": "location",
-"dateEnd": "2010",
-"dateStart": "2008",
-"direction": "out",
-"edgeId": "e-a23109893a",
-"edgeLabel": "BAASS ran the AAWSAP field effort from Las Vegas",
-"id": "l-las-vegas",
-"l0": false,
-"label": "Las Vegas, Nevada",
-"note": "Knapp testified that BAASS recruited about 50 cleared investigators, operated for 27 months and produced over 100 research papers and a 240,000-case data warehouse designed by Jacques Vallee.",
-"sources": [
-{
-"date": "2025-09-09",
-"name": "George Knapp written testimony (PDF)",
-"url": "https://oversight.house.gov/wp-content/uploads/2025/09/George-Knapp-Written-Testimony.pdf"
-}
-],
-"tier": "C",
-"type": "institutional"
-},
-{
 "claimTier": 1,
 "cls": "location",
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
-"edgeId": "e-79c94a0a7f",
+"edgeId": "e-ebecb2784f",
 "edgeLabel": "BAASS base of operations",
-"id": "l-lasvegas",
+"id": "l-las-vegas",
 "l0": false,
-"label": "Las Vegas, Nevada (alias of l-las-vegas)",
+"label": "Las Vegas, Nevada",
 "note": "Bigelow Aerospace gives its own address as 1899 W. Brooks Ave., North Las Vegas, Nevada 89032, and Bigelow Aerospace Advanced Space Studies operated from that base. Two caveats keep this at tier 2: the address is North Las Vegas rather than Las Vegas proper, and the company page does not name BAASS, so it fixes the Bigelow location rather than the contracting entity's.",
 "sources": [
 {
@@ -502,8 +480,30 @@
 "url": "https://www.theblackvault.com/casefiles/to-the-stars-academy-of-arts-science-tom-delonge-and-the-secret-dod-ufo-research-program/"
 }
 ],
-"tier": "C",
+"tier": "B",
 "type": "geographic"
+},
+{
+"claimTier": 2,
+"cls": "location",
+"dateEnd": "2010",
+"dateStart": "2008",
+"direction": "out",
+"edgeId": "e-a23109893a",
+"edgeLabel": "BAASS ran the AAWSAP field effort from Las Vegas",
+"id": "l-las-vegas",
+"l0": false,
+"label": "Las Vegas, Nevada",
+"note": "Knapp testified that BAASS recruited about 50 cleared investigators, operated for 27 months and produced over 100 research papers and a 240,000-case data warehouse designed by Jacques Vallee.",
+"sources": [
+{
+"date": "2025-09-09",
+"name": "George Knapp written testimony (PDF)",
+"url": "https://oversight.house.gov/wp-content/uploads/2025/09/George-Knapp-Written-Testimony.pdf"
+}
+],
+"tier": "B",
+"type": "institutional"
 },
 {
 "claimTier": 2,
@@ -686,7 +686,7 @@
 "coords": null,
 "dateEnd": "2012",
 "dateStart": "2007",
-"deg": 19,
+"deg": 18,
 "denials": [],
 "desc": "BAASS is the corporate vehicle through which US government money was spent on UFO research between 2008 and 2012, and it is a distinct legal entity from Bigelow Aerospace — registered at 4640 S. Eastern Avenue, Las Vegas NV 89119, DUNS 827037768, CAGE 54JU7. It was stood up to bid and hold the DIA contract, staffed substantially from the alumni of Robert Bigelow's National Institute for Discovery Science, and run day to day by Deputy Administrator Colm Kelleher, a biochemist who had led the NIDS team at Skinwalker Ranch. Its operation was built around a Las Vegas facility with SCIF space, and its work divided into a physics and engineering line — subcontracting the Defense Intelligence Reference Documents out to EarthTech International, Lockheed Martin, and a dozen universities — and a field line that investigated live cases, ran the Utah ranch as a permanently instrumented site, built a case database, and studied the physiological effects of close encounters on witnesses. In 2009 it contracted with the Mutual UFO Network for rapid-response field investigation under the Star Team Impact Project, giving a government-funded contractor a pipeline into the largest civilian UFO reporting network in the United States; the arrangement collapsed in 2010. BAASS delivered a 494-page Ten Month Report to DIA in July 2009. DoD's 2024 history refers to it only as 'the selected private sector organization' and concedes it 'conducted UFO research with the support of the DIA program manager'.",
 "domains": [],
@@ -918,13 +918,7 @@
 "cls": "location",
 "id": "l-las-vegas",
 "label": "Las Vegas, Nevada",
-"tier": "C"
-},
-{
-"cls": "location",
-"id": "l-lasvegas",
-"label": "Las Vegas, Nevada (alias of l-las-vegas)",
-"tier": "C"
+"tier": "B"
 },
 {
 "cls": "program",
@@ -1051,7 +1045,7 @@
 ],
 "sub": "contractor",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 12 of 1170, score 117). 22 connections, 12 of them custody/funding/programmatic. Axes C3/A2/D2.",
+"tierRationale": "Re-graded A on a global pass (rank 14 of 1138, score 117). 22 connections, 12 of them custody/funding/programmatic. Axes C3/A2/D2.",
 "timeline": [],
 "unverified": []
 }

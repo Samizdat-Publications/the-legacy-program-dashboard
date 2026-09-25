@@ -105,6 +105,33 @@
 "type": "denial"
 },
 {
+"claimTier": 3,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "1969",
+"direction": "out",
+"edgeId": "e-7d403df934",
+"edgeLabel": "No records series has ever been identified for the JANAP channel",
+"id": "nara-uap-collection",
+"l0": true,
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection",
+"note": "Blue Book's files went to NARA; whatever accumulated on the JANAP 146 side has never been named as a series, accessioned, or searched under any disclosure statute including the FY2024 NDAA.",
+"sources": [
+{
+"date": "2025-04-24",
+"name": "NARA — UAP research topic page",
+"url": "https://www.archives.gov/research/topics/uaps"
+},
+{
+"date": "2026-08-12",
+"name": "NARA — Project Blue Book records",
+"url": "https://www.archives.gov/research/military/air-force/ufos"
+}
+],
+"tier": "A",
+"type": "custody"
+},
+{
 "claimTier": 1,
 "cls": "program",
 "dateEnd": "1969",
@@ -130,33 +157,6 @@
 ],
 "tier": "A",
 "type": "programmatic"
-},
-{
-"claimTier": 3,
-"cls": "institution",
-"dateEnd": null,
-"dateStart": "1969",
-"direction": "out",
-"edgeId": "e-fb55a5e78e",
-"edgeLabel": "No records series has ever been identified for the JANAP channel",
-"id": "rg-615-uap-records",
-"l0": false,
-"label": "NARA Record Group 615 - UAP Records Collection",
-"note": "Blue Book's files went to NARA; whatever accumulated on the JANAP 146 side has never been named as a series, accessioned, or searched under any disclosure statute including the FY2024 NDAA.",
-"sources": [
-{
-"date": "2025-04-24",
-"name": "NARA — UAP research topic page",
-"url": "https://www.archives.gov/research/topics/uaps"
-},
-{
-"date": "2026-08-12",
-"name": "NARA — Project Blue Book records",
-"url": "https://www.archives.gov/research/military/air-force/ufos"
-}
-],
-"tier": "B",
-"type": "custody"
 }
 ],
 "coords": null,
@@ -264,7 +264,7 @@
 ],
 "sub": "Brig. Gen. C. H. Bolender, 20 October 1969",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 193 of 1170, score 46). 5 connections, 3 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 193 of 1138, score 46). 5 connections, 3 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D3.",
 "timeline": [
 {
 "claimTier": null,

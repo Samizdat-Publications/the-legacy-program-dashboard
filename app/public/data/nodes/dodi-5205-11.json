@@ -301,11 +301,11 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
-"edgeId": "e-c11ad68e67",
+"edgeId": "e-672f106657",
 "edgeLabel": "para 1.2.f designates select unacknowledged SAPs as waived",
-"id": "waived-usap-mechanism",
+"id": "waived-usap",
 "l0": true,
-"label": "Waived Unacknowledged SAP (waived USAP) - the mechanism",
+"label": "Waived unacknowledged special access program (waived USAP)",
 "note": "",
 "sources": [
 {
@@ -323,11 +323,11 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
-"edgeId": "e-f9f1e47e18",
+"edgeId": "e-6891d31193",
 "edgeLabel": "the DoD-side implementation",
-"id": "waived-usap-mechanism",
+"id": "waived-usap",
 "l0": true,
-"label": "Waived Unacknowledged SAP (waived USAP) - the mechanism",
+"label": "Waived unacknowledged special access program (waived USAP)",
 "note": "The statute permits the waiver; this Instruction is where the Department operates it. Para 1.2.f. is DoD's own designation authority - the Secretary 'may designate select unacknowledged SAPs as \"waived\"' - and Enclosure 3 tasks the Senior Review Group with reviewing 'all waived DoD SAPs' annually and advising the SAPOC. Para 7.2.a.(3) then sets who is told, and it is wider than the statute's twelve: the chair, the ranking member, the staff directors and one designated security manager of the defense AND intelligence committees. Quotations are the verbatim ones already recorded on this node from the Instruction itself.",
 "sources": [
 {
@@ -518,7 +518,7 @@
 ],
 "sub": "dod-issuance",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 55 of 1170, score 77). 9 connections, 2 of them custody/funding/programmatic. Axes C1/A3/D2.",
+"tierRationale": "Re-graded A on a global pass (rank 55 of 1138, score 77). 9 connections, 2 of them custody/funding/programmatic. Axes C1/A3/D2.",
 "timeline": [
 {
 "claimTier": null,

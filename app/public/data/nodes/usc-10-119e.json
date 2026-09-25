@@ -140,11 +140,11 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
-"edgeId": "e-a311ce739e",
+"edgeId": "e-3763fd95a8",
 "edgeLabel": "119(e) is the waiver that defines a waived SAP",
-"id": "waived-usap-mechanism",
+"id": "waived-usap",
 "l0": true,
-"label": "Waived Unacknowledged SAP (waived USAP) - the mechanism",
+"label": "Waived unacknowledged special access program (waived USAP)",
 "note": "DoDD 5205.07 (2010) Enclosure 2 para 5 permits the Secretary to 'designate select unacknowledged SAPs as waived in accordance with Reference (c)' - Reference (c) being 10 U.S.C. 119.",
 "sources": [
 {
@@ -172,11 +172,11 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
-"edgeId": "e-698c0986a0",
+"edgeId": "e-61aa034903",
 "edgeLabel": "the waiver authority itself",
-"id": "waived-usap-mechanism",
+"id": "waived-usap",
 "l0": true,
-"label": "Waived Unacknowledged SAP (waived USAP) - the mechanism",
+"label": "Waived unacknowledged special access program (waived USAP)",
 "note": "10 U.S.C. 119(e) is the waiver: 'The Secretary of Defense may waive any requirement under subsection (a), (b), or (c) that certain information be included in a report under that subsection if the Secretary determines that inclusion of that information in the report would adversely affect the national security.' Where it is exercised, 'the Secretary shall provide the information described in that subsection with respect to the special access program concerned, and the justification for the waiver, jointly to the chairman and ranking minority member of each of the defense committees.' Read directly from the OLRC text on 22 August 2026.",
 "sources": [
 {
@@ -232,7 +232,7 @@
 ],
 "sub": "statute-subsection",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 194 of 1170, score 46). 5 connections, 1 of them custody/funding/programmatic. Axes C0/A3/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 194 of 1138, score 46). 5 connections, 1 of them custody/funding/programmatic. Axes C0/A3/D3.",
 "timeline": [],
 "unverified": []
 }

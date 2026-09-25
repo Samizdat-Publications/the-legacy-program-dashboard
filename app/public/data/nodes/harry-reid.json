@@ -350,11 +350,11 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
-"edgeId": "e-f9808b1428",
+"edgeId": "e-99ac06bc11",
 "edgeLabel": "Reid's Nevada base; earmark performed by a Las Vegas constituent",
-"id": "l-lasvegas",
+"id": "l-las-vegas",
 "l0": false,
-"label": "Las Vegas, Nevada (alias of l-las-vegas)",
+"label": "Las Vegas, Nevada",
 "note": "This is not merely a home-town link. AARO's official history names 'Senate Majority Leader Harry Reid (D-NV)' as having directed the appropriation, and the federal award record places Bigelow's company in Nevada; the money Reid secured was performed by a company in the state he represented. Tier 2 because the constituent relationship is the inference joining those two documented facts, not something either document states.",
 "sources": [
 {
@@ -378,7 +378,7 @@
 "url": "https://www.theblackvault.com/casefiles/to-the-stars-academy-of-arts-science-tom-delonge-and-the-secret-dod-ufo-research-program/"
 }
 ],
-"tier": "C",
+"tier": "B",
 "type": "geographic"
 },
 {
@@ -433,55 +433,6 @@
 {
 "claimTier": 1,
 "cls": "document",
-"dateEnd": null,
-"dateStart": null,
-"direction": "out",
-"edgeId": "e-f96860a700",
-"edgeLabel": "",
-"id": "reid-letter-2009-06-24",
-"l0": false,
-"label": "Reid letter to DEPSECDEF Lynn requesting restricted SAP for AATIP (24 June 2009)",
-"note": "He signed it. The letter of 24 June 2009 to Deputy Secretary William J. Lynn III went on Senate Majority Leader letterhead - 'HARRY REID, MAJORITY LEADER, NEVADA' - and asked the Department to place the programme under a restricted special access programme.",
-"sources": [
-{
-"date": "2009-06-24",
-"name": "Letter, Sen. Harry Reid to Deputy Secretary of Defense William J. Lynn III, 24 June 2009 (DIA FOIA release)",
-"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237659/"
-},
-{
-"date": "2009",
-"name": "USD(I) Memorandum for the Deputy Secretary of Defense, 'Senator Harry Reid's Request to Put the Advanced Aerospace Threat and Identification Program (AAITP) under Special Access Protection' (DIA FOIA release)",
-"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237660/"
-}
-],
-"tier": "C",
-"type": "programmatic"
-},
-{
-"claimTier": 1,
-"cls": "document",
-"dateEnd": null,
-"dateStart": null,
-"direction": "out",
-"edgeId": "e-cc4bd983de",
-"edgeLabel": "signed 24 June 2009",
-"id": "reid-letter-2009-06-24",
-"l0": false,
-"label": "Reid letter to DEPSECDEF Lynn requesting restricted SAP for AATIP (24 June 2009)",
-"note": "",
-"sources": [
-{
-"date": null,
-"name": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237659/",
-"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237659/"
-}
-],
-"tier": "C",
-"type": "research"
-},
-{
-"claimTier": 1,
-"cls": "document",
 "dateEnd": "2009",
 "dateStart": "2009",
 "direction": "out",
@@ -498,8 +449,57 @@
 "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP/20090624_Reid_to_DEPSECDEF_ref_AAITP_in_SAP.pdf"
 }
 ],
-"tier": "B",
+"tier": "A",
 "type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeId": "e-ba5ac7f247",
+"edgeLabel": "",
+"id": "reid-sap-letter-2009",
+"l0": false,
+"label": "Reid Letter to DEPSECDEF Requesting Restricted SAP Status",
+"note": "He signed it. The letter of 24 June 2009 to Deputy Secretary William J. Lynn III went on Senate Majority Leader letterhead - 'HARRY REID, MAJORITY LEADER, NEVADA' - and asked the Department to place the programme under a restricted special access programme.",
+"sources": [
+{
+"date": "2009-06-24",
+"name": "Letter, Sen. Harry Reid to Deputy Secretary of Defense William J. Lynn III, 24 June 2009 (DIA FOIA release)",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237659/"
+},
+{
+"date": "2009",
+"name": "USD(I) Memorandum for the Deputy Secretary of Defense, 'Senator Harry Reid's Request to Put the Advanced Aerospace Threat and Identification Program (AAITP) under Special Access Protection' (DIA FOIA release)",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237660/"
+}
+],
+"tier": "A",
+"type": "programmatic"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeId": "e-3b963a9bed",
+"edgeLabel": "signed 24 June 2009",
+"id": "reid-sap-letter-2009",
+"l0": false,
+"label": "Reid Letter to DEPSECDEF Requesting Restricted SAP Status",
+"note": "",
+"sources": [
+{
+"date": null,
+"name": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237659/",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237659/"
+}
+],
+"tier": "A",
+"type": "research"
 },
 {
 "claimTier": 2,
@@ -613,7 +613,7 @@
 "date": "2009-06-24",
 "dateEnd": null,
 "dateStart": "2009-06-24",
-"deg": 17,
+"deg": 16,
 "denials": [
 {
 "a": {
@@ -777,7 +777,7 @@
 "status": "dead",
 "sub": "US Senator (D-NV); Senate Majority Leader 2007-2015",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 33 of 1170, score 92). 19 connections, 6 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D3.",
+"tierRationale": "Re-graded A on a global pass (rank 34 of 1138, score 92). 19 connections, 6 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D3.",
 "timeline": [
 {
 "claimTier": null,

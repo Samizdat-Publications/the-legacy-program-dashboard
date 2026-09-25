@@ -162,7 +162,7 @@
 "edgeId": "e-6410cc9d84",
 "edgeLabel": "Records that no OSD office held a list of all special access programmes in 1988",
 "id": "gao-nsiad-88-152",
-"l0": false,
+"l0": true,
 "label": "GAO/NSIAD-88-152 - Special Access Programs: DOD Criteria and Procedures for Creating Them Need Improvement",
 "note": "The report records that no OSD office held a list of all special access programmes in 1988, which is the condition the SAPOC was later created to fix.",
 "sources": [
@@ -279,7 +279,7 @@
 ],
 "sub": "oversight-body",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 112 of 1170, score 58). 5 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D1.",
+"tierRationale": "Re-graded A on a global pass (rank 114 of 1138, score 58). 5 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D1.",
 "timeline": [],
 "unverified": []
 }

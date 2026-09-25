@@ -111,7 +111,7 @@
 "url": "https://documents2.theblackvault.com/documents/dod/AARO_Historical_Record_Report_Volume_1_2024.pdf"
 }
 ],
-"tier": "B",
+"tier": "A",
 "type": "custody"
 },
 {
@@ -643,7 +643,7 @@
 "cls": "document",
 "id": "aaro-metallic-specimen-analysis",
 "label": "AARO / ORNL Synopsis: Analysis of a Metallic Specimen",
-"tier": "B"
+"tier": "A"
 },
 {
 "cls": "document",
@@ -797,7 +797,7 @@
 ],
 "sub": "Private nonprofit applied science institute, Columbus, Ohio, est. 1929; operator or co-operator of PNNL, ORNL, INL, NREL, Brookhaven and NBACC",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 38 of 1170, score 90). 15 connections, 6 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A2/D1.",
+"tierRationale": "Re-graded A on a global pass (rank 40 of 1138, score 90). 15 connections, 6 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A2/D1.",
 "timeline": [],
 "unverified": []
 }

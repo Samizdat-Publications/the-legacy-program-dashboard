@@ -566,6 +566,33 @@
 {
 "claimTier": 1,
 "cls": "institution",
+"dateEnd": null,
+"dateStart": "2024",
+"direction": "in",
+"edgeId": "e-c75770f416",
+"edgeLabel": "NARA holds the Blue Book series and is digitising legacy UFO records",
+"id": "nara-uap-collection",
+"l0": true,
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection",
+"note": "Approximately 42 cubic feet of Blue Book material on 94 rolls of microfilm (T-1206) sits alongside the new RG 615 accessions; NARA states no Blue Book document discusses Roswell.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "NARA — Project Blue Book records",
+"url": "https://www.archives.gov/research/military/air-force/ufos"
+},
+{
+"date": "2025-04-24",
+"name": "NARA — UAP research topic page",
+"url": "https://www.archives.gov/research/topics/uaps"
+}
+],
+"tier": "A",
+"type": "custody"
+},
+{
+"claimTier": 1,
+"cls": "institution",
 "dateEnd": "1964",
 "dateStart": "1964",
 "direction": "in",
@@ -660,33 +687,6 @@
 ],
 "tier": "A",
 "type": "programmatic"
-},
-{
-"claimTier": 1,
-"cls": "institution",
-"dateEnd": null,
-"dateStart": "2024",
-"direction": "in",
-"edgeId": "e-403716e904",
-"edgeLabel": "NARA holds the Blue Book series and is digitising legacy UFO records",
-"id": "rg-615-uap-records",
-"l0": false,
-"label": "NARA Record Group 615 - UAP Records Collection",
-"note": "Approximately 42 cubic feet of Blue Book material on 94 rolls of microfilm (T-1206) sits alongside the new RG 615 accessions; NARA states no Blue Book document discusses Roswell.",
-"sources": [
-{
-"date": "2026-08-12",
-"name": "NARA — Project Blue Book records",
-"url": "https://www.archives.gov/research/military/air-force/ufos"
-},
-{
-"date": "2025-04-24",
-"name": "NARA — UAP research topic page",
-"url": "https://www.archives.gov/research/topics/uaps"
-}
-],
-"tier": "B",
-"type": "custody"
 },
 {
 "claimTier": 1,
@@ -1174,12 +1174,6 @@
 "tier": "A"
 },
 {
-"cls": "institution",
-"id": "rg-615-uap-records",
-"label": "NARA Record Group 615 - UAP Records Collection",
-"tier": "B"
-},
-{
 "cls": "person",
 "id": "richard-m-bissell-jr",
 "label": "Richard M. Bissell Jr.",
@@ -1222,7 +1216,7 @@
 ],
 "sub": "Public-facing USAF UFO program (1952-1969)",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 15 of 1170, score 114). 32 connections, 11 of them custody/funding/programmatic, 5 official denials recorded against it. Axes C1/A2/D2.",
+"tierRationale": "Re-graded A on a global pass (rank 17 of 1138, score 114). 32 connections, 11 of them custody/funding/programmatic, 5 official denials recorded against it. Axes C1/A2/D2.",
 "timeline": [
 {
 "claimTier": null,

@@ -933,34 +933,12 @@
 "dateEnd": null,
 "dateStart": "2025",
 "direction": "out",
-"edgeId": "e-7a18614ee9",
-"edgeLabel": "Chairs the Task Force",
-"id": "task-force-declassification",
-"l0": false,
-"label": "House Task Force on the Declassification of Federal Secrets",
-"note": "Luna chairs the standing Oversight task force that converted the ad hoc 2023-2024 UAP hearings into a permanent investigative vehicle.",
-"sources": [
-{
-"date": "2025-09-09",
-"name": "Task Force hearing record, Serial No. 119-44",
-"url": "https://www.congress.gov/119/chrg/CHRG-119hhrg61718/CHRG-119hhrg61718.pdf"
-}
-],
-"tier": "C",
-"type": "legislative"
-},
-{
-"claimTier": 1,
-"cls": "program",
-"dateEnd": null,
-"dateStart": "2025",
-"direction": "out",
 "edgeId": "e-ab96dce1ff",
 "edgeLabel": "Chairwoman",
 "id": "task-force-declassification-federal-secrets",
 "l0": true,
 "label": "Task Force on the Declassification of Federal Secrets",
-"note": "Printed as Chairwoman in the roster of CHRG-119hhrg61718 and on the committee's membership page.",
+"note": "Luna chairs the task force; Jasmine Crockett is ranking member; Mace, Burchett, Boebert, Burlison, Crane and Gill sit on the majority side.",
 "sources": [
 {
 "date": "2025-09-09",
@@ -973,7 +951,7 @@
 "url": "https://oversight.house.gov/subcommittee/task-force-on-the-declassification-of-federal-secrets/"
 }
 ],
-"tier": "C",
+"tier": "B",
 "type": "institutional"
 },
 {
@@ -982,21 +960,21 @@
 "dateEnd": null,
 "dateStart": "2025",
 "direction": "out",
-"edgeId": "e-d76cc1460a",
-"edgeLabel": "chairs",
-"id": "tf-declassification-federal-secrets",
-"l0": false,
-"label": "House Oversight Task Force on the Declassification of Federal Secrets",
-"note": "Luna chairs the task force; Jasmine Crockett is ranking member; Mace, Burchett, Boebert, Burlison, Crane and Gill sit on the majority side.",
+"edgeId": "e-79cb13f218",
+"edgeLabel": "Chairs the Task Force",
+"id": "task-force-declassification-federal-secrets",
+"l0": true,
+"label": "Task Force on the Declassification of Federal Secrets",
+"note": "Luna chairs the standing Oversight task force that converted the ad hoc 2023-2024 UAP hearings into a permanent investigative vehicle.",
 "sources": [
 {
-"date": "2026-08-12",
-"name": "House Oversight, Task Force membership",
-"url": "https://oversight.house.gov/subcommittee/task-force-on-the-declassification-of-federal-secrets/"
+"date": "2025-09-09",
+"name": "Task Force hearing record, Serial No. 119-44",
+"url": "https://www.congress.gov/119/chrg/CHRG-119hhrg61718/CHRG-119hhrg61718.pdf"
 }
 ],
-"tier": "C",
-"type": "institutional"
+"tier": "B",
+"type": "legislative"
 },
 {
 "claimTier": 2,
@@ -1004,11 +982,11 @@
 "dateEnd": "2026",
 "dateStart": "2026",
 "direction": "out",
-"edgeId": "e-b717737aec",
+"edgeId": "e-47f677f4fd",
 "edgeLabel": "Task Force chair publicly thanks the President for the directive",
-"id": "trump-uap-declass-directive-2026",
+"id": "trump-uap-release-directive-2026",
 "l0": false,
-"label": "Presidential directive to identify and release UAP and extraterrestrial files",
+"label": "Presidential direction to identify and release UAP files (19-20 February 2026)",
 "note": "'Thank you POTUS! As the Chairwoman of the Task Force that investigates these subjects, we are incredibly grateful.' The legislative and executive disclosure tracks converge here for the first time.",
 "sources": [
 {
@@ -1017,7 +995,7 @@
 "url": "https://aljazeera.com/news/2026/2/20/trump-orders-pentagon-federal-agencies-to-release-files-on-ufos-and-aliens"
 }
 ],
-"tier": "C",
+"tier": "A",
 "type": "legislative"
 },
 {
@@ -1061,7 +1039,7 @@
 "date": "2025-09-09",
 "dateEnd": null,
 "dateStart": "2025-09-09",
-"deg": 26,
+"deg": 24,
 "denials": [
 {
 "a": {
@@ -1295,7 +1273,7 @@
 "status": "active",
 "sub": "U.S. Rep. (R-FL-13); Chairwoman, Task Force on the Declassification of Federal Secrets",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 25 of 1170, score 99). 30 connections, 0 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C0/A2/D3.",
+"tierRationale": "Re-graded A on a global pass (rank 27 of 1138, score 98). 29 connections, 0 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C0/A2/D3.",
 "timeline": [
 {
 "claimTier": null,

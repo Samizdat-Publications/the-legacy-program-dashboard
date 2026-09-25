@@ -581,7 +581,7 @@
 "edgeId": "e-0f5a86f45c",
 "edgeLabel": "AARO's legacy review does not address the documented records destruction",
 "id": "gao-nsiad-95-187",
-"l0": false,
+"l0": true,
 "label": "GAO/NSIAD-95-187 - Results of a Search for Records Concerning the 1947 Crash Near Roswell",
 "note": "The report reaffirms the MOGUL conclusion without engaging GAO's 1995 finding that the relevant base records were destroyed with no disposition authority — the gap that makes the conclusion untestable.",
 "sources": [
@@ -1133,7 +1133,7 @@
 "url": "https://www.war.gov/News/Transcripts/Transcript/Article/3702219/media-engagement-with-acting-aaro-director-tim-phillips-on-the-historical-recor/"
 }
 ],
-"tier": "B",
+"tier": "C",
 "type": "institutional"
 },
 {
@@ -2094,12 +2094,6 @@
 "tier": "C"
 },
 {
-"cls": "document",
-"id": "gao-nsiad-95-187",
-"label": "GAO/NSIAD-95-187 - Results of a Search for Records Concerning the 1947 Crash Near Roswell",
-"tier": "A"
-},
-{
 "cls": "person",
 "id": "john-greenewald",
 "label": "John Greenewald Jr.",
@@ -2169,7 +2163,7 @@
 "cls": "person",
 "id": "tim-phillips",
 "label": "Timothy A. Phillips",
-"tier": "B"
+"tier": "C"
 },
 {
 "cls": "document",
@@ -2336,7 +2330,7 @@
 ],
 "sub": "report",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 5 of 1170, score 157). 38 connections, 5 of them custody/funding/programmatic, 18 official denials recorded against it. Axes C1/A3/D3.",
+"tierRationale": "Re-graded A on a global pass (rank 5 of 1138, score 157). 38 connections, 5 of them custody/funding/programmatic, 18 official denials recorded against it. Axes C1/A3/D3.",
 "timeline": [
 {
 "claimTier": null,

@@ -56,7 +56,7 @@
 "url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm"
 }
 ],
-"tier": "B",
+"tier": "C",
 "type": "institutional"
 },
 {
@@ -362,7 +362,7 @@
 },
 {
 "claimTier": 2,
-"cls": "program",
+"cls": "institution",
 "dateEnd": null,
 "dateStart": "2025",
 "direction": "out",
@@ -384,7 +384,7 @@
 "url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm"
 }
 ],
-"tier": "C",
+"tier": "B",
 "type": "institutional"
 },
 {
@@ -672,7 +672,7 @@
 "cls": "domain",
 "id": "d-legislative",
 "label": "Legislative Process (proposed and pending)",
-"tier": "B"
+"tier": "C"
 },
 {
 "cls": "event",
@@ -780,7 +780,7 @@
 ],
 "sub": "Standing committee; government-wide subpoena jurisdiction",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 206 of 1170, score 45). 18 connections, 1 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C0/A1/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 205 of 1138, score 45). 18 connections, 1 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C0/A1/D3.",
 "timeline": [],
 "unverified": []
 }

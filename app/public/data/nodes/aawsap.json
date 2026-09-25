@@ -182,11 +182,11 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
-"edgeId": "e-21125f4b1c",
+"edgeId": "e-966235789d",
 "edgeLabel": "prime contract",
-"id": "aawsap-contract-hhm402-08-c-0072",
+"id": "aawsap-contract",
 "l0": false,
-"label": "DIA Contract HHM402-08-C-0072 (AAWSAP / BAASS)",
+"label": "DIA Contract HHM402-08-C-0072 (BAASS)",
 "note": "",
 "sources": [
 {
@@ -195,7 +195,7 @@
 "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237652/"
 }
 ],
-"tier": "C",
+"tier": "A",
 "type": "funding"
 },
 {
@@ -204,11 +204,11 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
-"edgeId": "e-72279dc16f",
+"edgeId": "e-2d91026357",
 "edgeLabel": "",
-"id": "aawsap-contract-hhm402-08-c-0072",
+"id": "aawsap-contract",
 "l0": false,
-"label": "DIA Contract HHM402-08-C-0072 (AAWSAP / BAASS)",
+"label": "DIA Contract HHM402-08-C-0072 (BAASS)",
 "note": "The contract is the instrument the programme ran on. HHM402-08-C-0072 was signed 22 September 2008 off solicitation HHM402-08-R-0211, which DIA had posted as a Combined Synopsis/Solicitation on FedBizOpps on 18 August 2008 with responses due 5 September. Worth carrying: the contract does not appear in public federal contract data - an FPDS-NG ATOM query for that PIID returns an empty feed.",
 "sources": [
 {
@@ -222,7 +222,7 @@
 "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237630/"
 }
 ],
-"tier": "C",
+"tier": "A",
 "type": "programmatic"
 },
 {
@@ -1651,11 +1651,11 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
-"edgeId": "e-9f7a232909",
+"edgeId": "e-7990ea3bad",
 "edgeLabel": "AAWSAP contract performed from Las Vegas",
-"id": "l-lasvegas",
+"id": "l-las-vegas",
 "l0": false,
-"label": "Las Vegas, Nevada (alias of l-las-vegas)",
+"label": "Las Vegas, Nevada",
 "note": "AAWSAP was performed by BAASS out of Robert Bigelow's Nevada base rather than from Washington, which is what puts this programme on a map of southern Nevada at all. Two limits keep it at tier 2. The federal award system places BIGELOW AEROSPACE LLC at North Las Vegas - a separate municipality from Las Vegas - on NASA contracts, not on the DIA contract; and searches of USASpending for 'Bigelow Aerospace Advanced Space Studies' and for 'BAASS' both return nothing, so the AAWSAP contract is not in the public award record under either name.",
 "sources": [
 {
@@ -1674,7 +1674,7 @@
 "url": "https://www.8newsnow.com/news/i-team-documents-prove-secret-ufo-study-based-in-nevada/"
 }
 ],
-"tier": "C",
+"tier": "B",
 "type": "geographic"
 },
 {
@@ -2162,9 +2162,9 @@
 "members": [
 {
 "cls": "document",
-"id": "aawsap-contract-hhm402-08-c-0072",
-"label": "DIA Contract HHM402-08-C-0072 (AAWSAP / BAASS)",
-"tier": "C"
+"id": "aawsap-contract",
+"label": "DIA Contract HHM402-08-C-0072 (BAASS)",
+"tier": "A"
 },
 {
 "cls": "program",
@@ -2402,9 +2402,9 @@
 },
 {
 "cls": "location",
-"id": "l-lasvegas",
-"label": "Las Vegas, Nevada (alias of l-las-vegas)",
-"tier": "C"
+"id": "l-las-vegas",
+"label": "Las Vegas, Nevada",
+"tier": "B"
 },
 {
 "cls": "location",
@@ -2559,7 +2559,7 @@
 ],
 "sub": "dia-program",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 2 of 1170, score 174). 66 connections, 56 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A3/D3.",
+"tierRationale": "Re-graded A on a global pass (rank 2 of 1138, score 174). 66 connections, 56 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A3/D3.",
 "timeline": [
 {
 "claimTier": null,

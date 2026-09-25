@@ -2,7 +2,7 @@
 "A": 2,
 "C": 0,
 "D": 2,
-"band": "oversight",
+"band": null,
 "claims": [
 {
 "id": "c-ff6a66f157",
@@ -170,11 +170,11 @@
 "dateEnd": null,
 "dateStart": "2009-12-29",
 "direction": "out",
-"edgeId": "e-0398996981",
+"edgeId": "e-02efd63e7a",
 "edgeLabel": "The only external body with a claim of access, and the claim is conditional",
-"id": "waived-usap-mechanism",
+"id": "waived-usap",
 "l0": true,
-"label": "Waived Unacknowledged SAP (waived USAP) - the mechanism",
+"label": "Waived unacknowledged special access program (waived USAP)",
 "note": "E.O. 13526 sec. 4.3(b) affords the ISOO Director access to SAPs 'consistent with the policies and procedures directed by the President'.",
 "sources": [
 {
@@ -190,7 +190,7 @@
 "coords": null,
 "dateEnd": null,
 "dateStart": "1978",
-"deg": 7,
+"deg": 6,
 "denials": [
 {
 "a": {
@@ -326,29 +326,10 @@
 },
 "hl": null,
 "id": "isoo",
-"l0": true,
+"l0": false,
 "label": "Information Security Oversight Office",
 "locLabel": null,
-"members": [
-{
-"cls": "document",
-"id": "capco-register",
-"label": "CAP Registry / CAPCO Register of control systems, compartments and sub-compartments",
-"tier": "B"
-},
-{
-"cls": "domain",
-"id": "d-structure",
-"label": "Program structure and organisational mapping",
-"tier": "C"
-},
-{
-"cls": "institution",
-"id": "odni-capco",
-"label": "ODNI Controlled Access Program Coordination Office (CAPCO)",
-"tier": "A"
-}
-],
+"members": null,
 "openQuestions": [],
 "short": "Information Security Oversight Office",
 "sourceFiles": [
@@ -363,7 +344,7 @@
 ],
 "sub": "NARA component responsible to the President for the government-wide classification system",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 607 of 1170, score 28). 7 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 600 of 1138, score 28). 7 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D2.",
 "timeline": [],
 "unverified": []
 }

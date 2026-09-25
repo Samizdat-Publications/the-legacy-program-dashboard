@@ -703,15 +703,15 @@
 },
 {
 "claimTier": 3,
-"cls": "program",
+"cls": "institution",
 "dateEnd": null,
 "dateStart": "2026",
 "direction": "out",
-"edgeId": "e-949a302a13",
+"edgeId": "e-11516343fa",
 "edgeLabel": "Two parallel release architectures, only one statutory",
-"id": "nara-uap-records-collection",
-"l0": false,
-"label": "National Archives UAP Records Collection (Record Group 615)",
+"id": "nara-uap-collection",
+"l0": true,
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection",
 "note": "PURSUE publishes at will through the Secretary's website with no FOIA case numbers or exemption citations, while the statutory NARA collection publishes no compliance accounting - neither channel can be audited.",
 "sources": [
 {
@@ -725,7 +725,7 @@
 "url": "https://www.archives.gov/uap"
 }
 ],
-"tier": "B",
+"tier": "A",
 "type": "institutional"
 },
 {
@@ -1110,7 +1110,7 @@
 "url": "https://defensescoop.com/2026/05/14/uap-trump-first-pursue-ufo-file-drop/"
 }
 ],
-"tier": "A",
+"tier": "B",
 "type": "behavioral"
 },
 {
@@ -1137,35 +1137,8 @@
 "url": "https://defensescoop.com/2026/02/20/trump-ufo-uap-government-files-disclosure/"
 }
 ],
-"tier": "A",
-"type": "investigative"
-},
-{
-"claimTier": 2,
-"cls": "document",
-"dateEnd": null,
-"dateStart": "2026-02-20",
-"direction": "in",
-"edgeId": "e-139355df8f",
-"edgeLabel": "originating direction",
-"id": "trump-truth-social-post-2026-02-20",
-"l0": false,
-"label": "Trump Truth Social post directing release of UAP files (20 February 2026)",
-"note": "PURSUE stands entirely on the 20 February 2026 Truth Social post; no executive order has been published. ODNI ES 2026-00818 cites only 'Presidential Direction'.",
-"sources": [
-{
-"date": "2026-02-20",
-"name": "DefenseScoop, Trump UAP disclosure tease",
-"url": "https://defensescoop.com/2026/02/20/trump-ufo-uap-government-files-disclosure/"
-},
-{
-"date": "2026-08-01",
-"name": "ODNI Memorandum ES 2026-00818",
-"url": "https://burlison.house.gov/sites/evo-subsites/burlison.house.gov/files/evo-media-document/memorandum_2026.pdf"
-}
-],
 "tier": "B",
-"type": "programmatic"
+"type": "investigative"
 },
 {
 "claimTier": 1,
@@ -1178,7 +1151,7 @@
 "id": "trump-uap-release-directive-2026",
 "l0": false,
 "label": "Presidential direction to identify and release UAP files (19-20 February 2026)",
-"note": "The war.gov/UFO portal attributes PURSUE to the President's direction to the Secretary of War, and AARO's own homepage links to it under the PURSUE name.",
+"note": "PURSUE stands entirely on the 20 February 2026 Truth Social post; no executive order has been published. ODNI ES 2026-00818 cites only 'Presidential Direction'.",
 "sources": [
 {
 "date": "2026-08-07",
@@ -1189,9 +1162,19 @@
 "date": "2026-08-12",
 "name": "AARO homepage (links PURSUE at war.gov/UFO and NARA UAP records)",
 "url": "https://www.aaro.mil/"
+},
+{
+"date": "2026-02-20",
+"name": "DefenseScoop, Trump UAP disclosure tease",
+"url": "https://defensescoop.com/2026/02/20/trump-ufo-uap-government-files-disclosure/"
+},
+{
+"date": "2026-08-01",
+"name": "ODNI Memorandum ES 2026-00818",
+"url": "https://burlison.house.gov/sites/evo-subsites/burlison.house.gov/files/evo-media-document/memorandum_2026.pdf"
 }
 ],
-"tier": "B",
+"tier": "A",
 "type": "programmatic"
 },
 {
@@ -1365,7 +1348,7 @@
 "coords": null,
 "dateEnd": null,
 "dateStart": "2026",
-"deg": 40,
+"deg": 39,
 "denials": [
 {
 "a": {
@@ -1616,6 +1599,76 @@
 "source": "Inference from the published filename convention at https://www.war.gov/UFO/ and the interagency composition stated at https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/",
 "text": "The originator-prefixed numbering scheme indicates the tranches were assembled by pulling from multiple agencies' holdings under a single presidential tasking rather than compiled from one department's files, since a single-department release would not require agency prefixes.",
 "tier": 3
+},
+{
+"source": "https://www.war.gov/UFO/",
+"text": "The Department of War publishes the programme under the title 'Presidential Unsealing and Reporting System for UAP Encounters (PURSUE)' at war.gov/UFO.",
+"tier": 1
+},
+{
+"source": "https://www.war.gov/UFO/",
+"text": "The portal reproduces the presidential direction, dated 19 February 2026 and attributed to Truth Social: 'Based on the tremendous interest shown, I will be directing the Secretary of War, and other relevant Departments and Agencies, to begin the process of identifying and releasing Government files related to alien and extraterrestrial life, unidentified aerial phenomena (UAP), and unidentified flying objects (UFOs), and any and all other information connected to these highly complex, but extremely interesting and important, matters. GOD BLESS AMERICA!'",
+"tier": 1
+},
+{
+"source": "https://www.war.gov/UFO/",
+"text": "The portal's Directive states that the Department of War, 'with support from the Office of the Director of National Intelligence (ODNI), is overseeing government wide efforts to expeditiously find, review, identify, declassify and publicly release unresolved UAP-related records', an undertaking 'that requires coordination between dozens of agencies and the review of tens of millions of records, many existing only on paper, spanning many decades', with 'tranches posted every few weeks.'",
+"tier": 1
+},
+{
+"source": "https://www.war.gov/UFO/",
+"text": "The portal limits the collection's scope: 'The materials archived here are unresolved cases, meaning the government is unable to make a definitive determination on the nature of the observed phenomena', and states 'DOW will continue to conduct separate reporting on resolved UAP cases, as mandated by statute.'",
+"tier": 1
+},
+{
+"source": "https://www.war.gov/UFO/",
+"text": "Secretary of War Pete Hegseth's published statement reads: 'The Department of War is in lockstep with President Trump to bring unprecedented transparency regarding our government's understanding of Unidentified Anomalous Phenomena. These files, hidden behind classifications, have long fueled justified speculation - and it's time the American people see it for themselves.'",
+"tier": 1
+},
+{
+"source": "https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/",
+"text": "The 8 May 2026 Department of War release names the interagency participants as 'The White House, the Office of the Director of National Intelligence (ODNI), the Department of Energy (DOE), the DOW's All-domain Anomaly Resolution Office (AARO), National Aeronautics and Space Administration (NASA), the Federal Bureau of Investigation (FBI), and additional components of U.S. intelligence agencies.'",
+"tier": 1
+},
+{
+"source": "https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/ - DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
+"text": "The same release concedes: 'While all of the files have been reviewed for security purposes, many of the materials have not yet been analyzed for resolution of any anomalies.'",
+"tier": 2
+},
+{
+"source": "https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/",
+"text": "Director of National Intelligence Tulsi Gabbard's statement describes ODNI as 'actively coordinating the Intelligence Community's declassification efforts with the Department of War to ensure a careful, comprehensive, and unprecedented review of our holdings', and calls the 8 May release 'the first in what will be an ongoing joint declassification and release effort.'",
+"tier": 1
+},
+{
+"source": "https://defensescoop.com/2026/05/14/uap-trump-first-pursue-ufo-file-drop/",
+"text": "A War Department official told DefenseScoop: 'AARO is responsible for coordinating the declassification of identified DOW files. AARO also prepares DOW files and files provided by other agencies for posting on war.gov/ufo. AARO will continue to conduct its statutory mission of detecting, identifying, analyzing, and resolving UAP. Any encounters described in these releases that are resolved in the future will be posted on aaro.mil.'",
+"tier": 2
+},
+{
+"source": "https://defensescoop.com/2026/05/14/uap-trump-first-pursue-ufo-file-drop/",
+"text": "DefenseScoop reported on 14 May 2026 that PURSUE tranches are 'dropping on the new, centralized war.gov/ufo portal - not the existing aaro.mil website', and identified the acronym expansion as the Presidential Unsealing and Reporting System for UAP Encounters.",
+"tier": 2
+},
+{
+"source": "https://defensescoop.com/2026/05/14/uap-trump-first-pursue-ufo-file-drop/",
+"text": "A War Department official stated the programme's editorial posture: 'We are not providing any comment or assessment on the files overall or on any specific file, so that the American people can make up their own minds regarding the files.'",
+"tier": 2
+},
+{
+"source": "https://defensescoop.com/2026/05/14/uap-trump-first-pursue-ufo-file-drop/",
+"text": "Christopher Mellon, former deputy assistant secretary of defense for intelligence, said of the first tranche: 'For years the public was told there was little to see. The scale of what exists is itself a revelation. That said, data alone is not disclosure. Releasing raw files without context may confuse more than clarify.' He added that 'it is releasing evidence without releasing analysis.'",
+"tier": 2
+},
+{
+"source": "https://www.war.gov/UFO/",
+"text": "The war.gov/UFO portal's 'Learn More' section directs readers seeking 'other historical UAP records' to aaro.mil, the statutory office's site, which is not the host of the PURSUE material.",
+"tier": 1
+},
+{
+"source": "Inference from https://www.war.gov/UFO/ (no statutory or executive order citation appears on the portal) set against Public Law 118-31 secs. 1841-1843 at https://www.congress.gov/118/plaws/publ31/PLAW-118publ31.pdf",
+"text": "PURSUE is not a statutory declassification process, not a FOIA channel and not the National Archives UAP Records Collection created by Public Law 118-31; it is a departmental publication programme run on the Secretary's web estate under a presidential direction announced on social media.",
+"tier": 3
 }
 ],
 "denialPosture": "The Department of War declines to characterise its own releases: a War Department official told DefenseScoop 'We are not providing any comment or assessment on the files overall or on any specific file, so that the American people can make up their own minds regarding the files.' No exemption authority has been cited for any redaction, and no official has responded to the uniform expert finding that the released material lacks the metadata required for independent analysis.",
@@ -1626,12 +1679,19 @@
 "Whether an ODNI-prefixed identifier series (ODNI-UAP-D###) exists in the released material; DOW- and FBI-prefixed identifiers are directly verifiable on the portal, ODNI-prefixed ones were not verified for this dossier.",
 "Whether any released video retains embedded sensor metadata in the source files as distinct from the portal case summaries.",
 "How the Department distinguishes authentic historical records from mid-century disinformation artefacts before publication, if it does so at all.",
-"Whether any material relating to recovery, custody or reverse engineering was within the scope of the PURSUE search, and whether any such material was found and withheld."
+"Whether any material relating to recovery, custody or reverse engineering was within the scope of the PURSUE search, and whether any such material was found and withheld.",
+"No executive order, memorandum or written tasking implementing the 19 February 2026 direction has been published; the legal instrument governing PURSUE is not on the public record.",
+"What search terms, record series and agency components were tasked, and whether special access program holdings were within scope at all.",
+"Which office adjudicates redactions and under which exemption authority, given that no FOIA case numbers or exemption citations appear on the released material.",
+"Whether the Department of Energy's participation extends to Restricted Data or transclassified foreign nuclear information holdings, the exemption route the Senate identified in 2023.",
+"Whether any records were withheld in full, and whether a withholding log exists.",
+"Whether AARO's preparation role gives it the ability to exclude material originated by other DoW components before posting."
 ],
 "roles": [
 "disclosure",
 "custody",
-"concealment"
+"concealment",
+"oversight"
 ],
 "whatItIs": "The PURSUE releases are the five dated tranches of UAP material published by the Department of War at war.gov/UFO between 8 May 2026 and 7 August 2026. Each tranche is posted as a paired download - a document bundle served from www.war.gov/medialink/ufo/ and a video bundle served from a CloudFront distribution - alongside a searchable database of individual records. The files carry originator-prefixed identifiers such as DOW-UAP-D###, DOW-UAP-PR## and FBI-UAP-D###, the first time the United States Government has issued UAP material under a single public numbering scheme.",
 "whyImplicated": "This is the physical evidence of what the government chose to hand over when a President ordered it to hand something over. The ledger is therefore diagnostic in both directions. It confirms the archive: material spanning 1944 to 2026, FBI holdings, NASA crew audio, INDOPACOM reporting, all of it previously unavailable and now released without clearance. It also confirms the shape of the withholding: at least a hundred of the roughly 160 files in the first tranche carry redactions, and every serious analyst who examined them - Mellon, Graves, Gallaudet, Rojas - reported the same absence of coordinates, sensor parameters, altitude, timing and chain of custody, which are the precise fields that would permit independent verification. No tranche carries a manifest, an exemption citation, a FOIA case number or a provenance statement. The releases are the strongest available proof that the holdings exist and the strongest available proof that the release process was designed to be unauditable."
@@ -1732,12 +1792,6 @@
 "tier": "C"
 },
 {
-"cls": "program",
-"id": "nara-uap-records-collection",
-"label": "National Archives UAP Records Collection (Record Group 615)",
-"tier": "B"
-},
-{
 "cls": "document",
 "id": "navy-range-fouler-reports",
 "label": "Navy Range Fouler Reports (72 reports, 2004-2021)",
@@ -1801,19 +1855,13 @@
 "cls": "person",
 "id": "tim-gallaudet",
 "label": "Timothy Gallaudet",
-"tier": "A"
-},
-{
-"cls": "document",
-"id": "trump-truth-social-post-2026-02-20",
-"label": "Trump Truth Social post directing release of UAP files (20 February 2026)",
 "tier": "B"
 },
 {
 "cls": "document",
 "id": "trump-uap-release-directive-2026",
 "label": "Presidential direction to identify and release UAP files (19-20 February 2026)",
-"tier": "B"
+"tier": "A"
 },
 {
 "cls": "person",
@@ -1915,7 +1963,7 @@
 ],
 "sub": "Executive disclosure channel announced Feb 2026; first drop 8 May 2026",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 4 of 1170, score 161). 47 connections, 11 of them custody/funding/programmatic, 6 official denials recorded against it. Axes C1/A3/D3.",
+"tierRationale": "Re-graded A on a global pass (rank 4 of 1138, score 158). 46 connections, 10 of them custody/funding/programmatic, 6 official denials recorded against it. Axes C1/A3/D3.",
 "timeline": [
 {
 "claimTier": null,

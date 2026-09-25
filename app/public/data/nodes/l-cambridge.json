@@ -23,6 +23,70 @@
 "connections": [
 {
 "claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeId": "e-fbe50159d6",
+"edgeLabel": "Loeb's Harvard base; launched the project from here",
+"id": "avi-loeb",
+"l0": false,
+"label": "Abraham 'Avi' Loeb",
+"note": "The overview paper gives Loeb's affiliation as 'Head of the Galileo Project, Astronomy Department, Harvard University, 60 Garden Street, Cambridge, MA 02138', and dates the project's first year as August 2021 through July 2022.",
+"sources": [
+{
+"date": "2022-09-02",
+"name": "Loeb and Laukien, 'Overview of the Galileo Project', arXiv:2209.02479, author affiliations",
+"url": "https://arxiv.org/abs/2209.02479"
+},
+{
+"date": null,
+"name": "https://galileo.hsites.harvard.edu/",
+"url": "https://galileo.hsites.harvard.edu/"
+},
+{
+"date": null,
+"name": "https://www.scientificamerican.com/article/avi-loebs-galileo-project-will-search-for-evidence-of-alien-visitation/",
+"url": "https://www.scientificamerican.com/article/avi-loebs-galileo-project-will-search-for-evidence-of-alien-visitation/"
+}
+],
+"tier": "B",
+"type": "geographic"
+},
+{
+"claimTier": 2,
+"cls": "program",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeId": "e-7b948d063a",
+"edgeLabel": "first Galileo Observatory, Harvard College Observatory roof",
+"id": "galileo-project",
+"l0": true,
+"label": "The Galileo Project",
+"note": "Figure 1 of the project's own overview paper captions the 'First all-sky Galileo Observatory for UAP on the roof of the Harvard College Observatory (Cambridge, MA)'. This is the physical instrument site for the instrumented search, not merely an administrative address.",
+"sources": [
+{
+"date": "2022-09-02",
+"name": "Loeb and Laukien, 'Overview of the Galileo Project', arXiv:2209.02479, Figure 1 caption",
+"url": "https://arxiv.org/abs/2209.02479"
+},
+{
+"date": null,
+"name": "https://galileo.hsites.harvard.edu/",
+"url": "https://galileo.hsites.harvard.edu/"
+},
+{
+"date": null,
+"name": "https://en.wikipedia.org/wiki/The_Galileo_Project",
+"url": "https://en.wikipedia.org/wiki/The_Galileo_Project"
+}
+],
+"tier": "B",
+"type": "geographic"
+},
+{
+"claimTier": 1,
 "cls": "program",
 "dateEnd": null,
 "dateStart": "2021",
@@ -50,7 +114,7 @@
 ],
 "dateEnd": null,
 "dateStart": "2021",
-"deg": 1,
+"deg": 2,
 "denials": [],
 "desc": "Cambridge is where the subject acquired a systematic instrumented observing programme run by astronomers rather than by the state. The Galileo Project, founded by Avi Loeb, professor of science at Harvard and former chair of its astronomy department, and based at the Harvard-Smithsonian Center for Astrophysics, was established in 2021 to search for and characterise objects of possible non-human technological origin using purpose-built multi-modal ground observatories - infrared, optical, radio, audio and magnetometer - with automated analysis pipelines, plus expeditions to recover candidate interstellar meteor material. Loeb's associates on the board include Richard Cloete and Amir Siraj. The project's importance is methodological and adversarial at once. It is the only substantial effort to build an independent evidentiary base outside the classified sensor architecture, which addresses the structural problem the rest of this board documents: every high-quality UAP dataset in existence is held by agencies that will not release it, so the only way to obtain data nobody can classify is to collect it yourself. It is also the effort that has drawn the sharpest disciplinary criticism, which is itself a datum about the cost to an academic career of working in this area - the stigma structure that the ODNI's own June 2021 assessment described.",
 "domains": [],
@@ -71,7 +135,8 @@
 "short": "Cambridge, Massachusetts",
 "sourceFiles": [
 "_rs-archive-mirror",
-"w2-places-events"
+"w2-places-events",
+"w2-taxonomy"
 ],
 "sources": [
 {
@@ -83,11 +148,21 @@
 "date": "2021-06-25",
 "name": "ODNI Preliminary Assessment: Unidentified Aerial Phenomena",
 "url": "https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf"
+},
+{
+"date": "2026-08-12",
+"name": "Wikipedia - Cambridge, Massachusetts",
+"url": "https://en.wikipedia.org/wiki/Cambridge,_Massachusetts"
+},
+{
+"date": "2023-03-01",
+"name": "Cloete et al., Journal of Astronomical Instrumentation",
+"url": "https://doi.org/10.1142/S2251171723400081"
 }
 ],
 "sub": "Harvard University and the Harvard-Smithsonian Center for Astrophysics; base of the Galileo Project",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 1141 of 1170, score 9). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 1063 of 1138, score 11). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.",
 "timeline": [],
 "unverified": []
 }

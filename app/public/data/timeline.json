@@ -2514,7 +2514,7 @@
 "grade": "A",
 "id": "st-1985-iasa",
 "label": "IASA founded",
-"node": "institute-advanced-studies-austin",
+"node": "earthtech-international",
 "precision": "year",
 "strand": "program",
 "text": "Puthoff establishes the Institute for Advanced Studies at Austin, incorporated under EarthTech International in 1991."
@@ -3558,7 +3558,7 @@
 "grade": "A",
 "id": "t-1995-gao",
 "label": "GAO: Roswell records destroyed, authority unknown",
-"node": "gao-roswell-report-1995",
+"node": "gao-nsiad-95-187",
 "precision": "day",
 "strand": "oversight",
 "text": "GAO/NSIAD-95-187 finds RAAF administrative records (Mar 1945-Dec 1949) and outgoing messages (Oct 1946-Dec 1949) destroyed, with the disposition form recording neither who destroyed them nor under what authority."
@@ -7062,7 +7062,7 @@
 "grade": "A",
 "id": "st-2019-10-17",
 "label": "US Army CRADA signed",
-"node": "ttsa-army-crada-2019",
+"node": "ttsa-army-crada",
 "precision": "day",
 "strand": "program",
 "text": "TTSA enters a five-year cooperative research and development agreement with the US Army Combat Capabilities Development Command covering inertial mass reduction, metamaterials, quantum physics and beamed energy propulsion."
@@ -7830,7 +7830,7 @@
 "grade": "A",
 "id": "st-2022-05-24",
 "label": "NASA commissions its panel",
-"node": "nasa-uapist",
+"node": "nasa-uap-ist",
 "precision": "day",
 "strand": "oversight",
 "text": "NASA commissions the sixteen-member UAP Independent Study Team under David Spergel - with access to unclassified data only."
@@ -8850,7 +8850,7 @@
 "grade": "A",
 "id": "st-2023-09-14",
 "label": "NASA panel reports and dissolves",
-"node": "nasa-uapist",
+"node": "nasa-uap-ist",
 "precision": "day",
 "strand": "oversight",
 "text": "The UAP Independent Study Team delivers its report - no evidence of extraterrestrial origin, data quality is the binding constraint - and dissolves the same day. It had never been given the classified holdings."
@@ -9114,7 +9114,7 @@
 "grade": "A",
 "id": "tl-memo-2024-01-08",
 "label": "AARO memorandum on Grusch interview attempts",
-"node": "aaro-grusch-interview-memo-2024",
+"node": "aaro-grusch-interview-memo",
 "precision": "day",
 "strand": "coverup",
 "text": "AARO documents eight approaches to Grusch between June and November 2023 and concludes he had no intention of providing information. Later released as FOIA 24-F-0266."
@@ -9486,7 +9486,7 @@
 "grade": "A",
 "id": "tl-ffrdc-2024-ornl-report",
 "label": "'ORNL Synopsis: Analysis of a Metallic Specimen'",
-"node": "ornl-metallic-specimen-report",
+"node": "aaro-metallic-specimen-analysis",
 "precision": "month",
 "strand": "coverup",
 "text": "Oak Ridge reports the specimen alleged to derive from a 1947 crash is a terrestrial magnesium alloy - while stating that neither AARO nor ORNL could verify its historical origin and that records of failed magnesium alloy designs are scant."
@@ -10050,7 +10050,7 @@
 "grade": "A",
 "id": "tl-2024-12",
 "label": "NARA Record Group 615 established",
-"node": "rg-615-uap-records",
+"node": "nara-uap-collection",
 "precision": "month",
 "strand": "oversight",
 "text": "Under sections 1841-1843 of the FY2024 NDAA (PL 118-31) the National Archives creates the UAP Records Collection, the first statutory records mechanism ever applied to this subject."
@@ -10314,7 +10314,7 @@
 "grade": "B",
 "id": "st-2025-03-09",
 "label": "'The Age of Disclosure' premieres",
-"node": "age-of-disclosure-2025",
+"node": "age-of-disclosure",
 "precision": "day",
 "strand": "program",
 "text": "Dan Farah's documentary premieres at SXSW with Puthoff, Davis, Travis Taylor and Nolan among 34 interviewees alongside serving and former officials."
@@ -10350,7 +10350,7 @@
 "grade": "B",
 "id": "cl-2025-04-01",
 "label": "NARA issues transfer guidance",
-"node": "uap-records-collection-rg615",
+"node": "nara-uap-collection",
 "precision": "month",
 "strand": "oversight",
 "text": "Sixteen months after enactment and roughly six months after the statutory agency deadline, the National Archives issues guidance on transferring publicly releasable UAP records into Record Group 615."
@@ -10410,7 +10410,7 @@
 "grade": "B",
 "id": "tl-2025-04-24",
 "label": "NARA digitisation continues",
-"node": "rg-615-uap-records",
+"node": "nara-uap-collection",
 "precision": "day",
 "strand": "oversight",
 "text": "The National Archives UAP topic page records ongoing rolling accession into RG 615 and digitisation of legacy holdings. No AMC T-2 series and no CIRVIS report series have been identified."
@@ -10518,7 +10518,7 @@
 "grade": "A",
 "id": "ch-2025-07-24",
 "label": "Crane writes DoD on the Grusch reprisal",
-"node": "crane-secdef-grusch-reprisal-letter-2025",
+"node": "crane-dod-reprisal-letter",
 "precision": "day",
 "strand": "coverup",
 "text": "Rep. Eli Crane writes the Secretary of Defense about the removal of Grusch's clearance, denial of promotion and loss of medical retirement. The Department does not reply."
@@ -10902,7 +10902,7 @@
 "grade": null,
 "id": "tl-nara-deadline",
 "label": "NARA transfer deadline for UAP records passes",
-"node": "nara-rg615",
+"node": "nara-uap-collection",
 "precision": "day",
 "strand": "oversight",
 "text": "NARA's guidance directed agencies holding releasable UAP records to initiate transfers before 30 September 2025. As of 28 August 2026 eight agencies appear in RG 615 - FAA, NRC, ODNI, OSD, NSA, State, FBI and the Department of the Air Force - and NARA has published no compliance list and no statement about agencies that did not transfer. Seven of the eight were in place by 22 May 2026; the Air Force arrived on 28 August 2026, eleven months after the deadline."
@@ -10986,7 +10986,7 @@
 "grade": "B",
 "id": "st-2025-11-21",
 "label": "'The Age of Disclosure' released",
-"node": "age-of-disclosure-2025",
+"node": "age-of-disclosure",
 "precision": "day",
 "strand": "program",
 "text": "Limited theatrical release in New York, Los Angeles and Washington DC, plus Prime Video."
@@ -11382,7 +11382,7 @@
 "grade": "A",
 "id": "g-tl-2026-02-directive",
 "label": "President directs identification and release of UAP files",
-"node": "trump-uap-declass-directive-2026",
+"node": "trump-uap-release-directive-2026",
 "precision": "day",
 "strand": "oversight",
 "text": "Trump announces he will direct the Secretary of War and other departments and agencies to begin identifying and releasing government files on alien and extraterrestrial life, UAP and UFOs. No deadline is specified. Luna, as Task Force chair, publicly thanks him."
@@ -11406,7 +11406,7 @@
 "grade": null,
 "id": "tl-loeb-50years",
 "label": "The research community's first asks",
-"node": "trump-truth-social-post-2026-02-20",
+"node": "trump-uap-release-directive-2026",
 "precision": "day",
 "strand": "program",
 "text": "Mellon: the impact depends on the follow-through. Gallaudet: 'I'll believe it when I see it.' Loeb: 'One step that can be taken immediately is to declassify events from 50 years ago.' Parnell: the department looks forward to working with the interagency."
@@ -11442,7 +11442,7 @@
 "grade": "B",
 "id": "rel-2026-02-27",
 "label": "AARO says it is transferring records to NARA",
-"node": "nara-uap-records-collection",
+"node": "nara-uap-collection",
 "precision": "day",
 "strand": "program",
 "text": "A Department of War news story records that AARO is coordinating with the White House and across agencies to consolidate UAP record collections and has made progress transferring records to the National Archives."
@@ -12390,7 +12390,7 @@
 "grade": null,
 "id": "tl-mkultra-hearing",
 "label": "Task Force holds MKULTRA hearing",
-"node": "tf-declassification-federal-secrets",
+"node": "task-force-declassification-federal-secrets",
 "precision": "day",
 "strand": "oversight",
 "text": "'Mind Control and Accountability: Uncovering the Truth of the CIA's MKULTRA Project' - the same declassification task force that carries the UAP file turns to CIA behavioural programmes, establishing that its remit is agency secrecy generally."
@@ -12726,7 +12726,7 @@
 "grade": "B",
 "id": "tl-ffrdc-2026-gerb",
 "label": "UAP Gerb publishes the MITRE investigation",
-"node": "uap-gerb-mitre-investigation",
+"node": "gerb-mitre-investigation",
 "precision": "day",
 "strand": "witness",
 "text": "A two-hour open-source investigation places an FFRDC rather than a prime contractor at the centre of the legacy programme thesis, alleging a Navy reverse-engineering role since 1958 and MITRE processing of data on a large Atlantic USO."
@@ -12858,7 +12858,7 @@
 "grade": null,
 "id": "tl-rg615-absentees",
 "label": "Five agencies ordered to release UAP information have no series in the statutory archive",
-"node": "nara-rg615",
+"node": "nara-uap-collection",
 "precision": "day",
 "strand": "coverup",
 "text": "CIA, DIA, NRO, NGA and DOE are addressees of ODNI ES 2026-00818 and absentees from Record Group 615. NARA publishes no compliance list and no statement identifying non-compliant agencies."
@@ -12882,7 +12882,7 @@
 "grade": null,
 "id": "tl-af-rg615-transfer",
 "label": "Air Force becomes the first military department to transfer into RG 615",
-"node": "nara-rg615",
+"node": "nara-uap-collection",
 "precision": "day",
 "strand": "oversight",
 "text": "The National Archives accessioned 'Records from the Department of the Air Force Relating to Unidentified Anomalous Phenomena' (catalog series 656595571, accession TR-0615-2026-0003) into Record Group 615: 30 PDF files dated 25 October 1945 to 31 December 1969, access and use both Unrestricted, carrying contiguous UAP Record Identifiers 342UAP00001 to 342UAP00030. It is the eighth agency series in RG 615 and the first from a military department in its own right. The documents' own declassification blocks show the Air Force Declassification Office cleared them on 5 May 2025 under the FY24 NDAA authority now codified at 44 U.S.C. 2107, fifteen months before the records reached NARA."

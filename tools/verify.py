@@ -2131,7 +2131,9 @@ def _claims_placed(b):
                 k = _claim_key(t)
                 if k in have.get(to, ()) or (i, k) in listed:
                     continue
-                if any(r.get("id") == to and t.startswith(r.get("claim") or "\0")
+                # a removeClaims rule may name the survivor or, for a claim that
+                # only made sense on a duplicate (phase 4), the collapsed id itself
+                if any(r.get("id") in (to, i) and t.startswith(r.get("claim") or "\0")
                        for r in removed):
                     continue
                 bad.append(f"{slug}: {i}" + (f" (-> {to})" if to != i else "") +
@@ -2249,6 +2251,133 @@ def _stable_ids(b):
         if got != want:
             bad.append(f"app/public/data/{name} ships {len(got - want)} id(s) the board does "
                        f"not have and lacks {len(want - got)} it does: rebuild")
+    return bad[:40]
+
+
+_REMOVED_OVERRIDE = None
+_SIDECARS_OVERRIDE = None
+
+
+def _removed_doc():
+    if _REMOVED_OVERRIDE is not None:
+        return _REMOVED_OVERRIDE
+    p = os.path.join(RESEARCH_DIR, "_removed.json")
+    if not os.path.exists(p):
+        return {}
+    with open(p, encoding="utf-8") as fh:
+        return json.load(fh)
+
+
+@check("no alias target is itself aliased or removed")
+def _alias_targets(b):
+    """research/_removed.json maps each collapsed id to its survivor. merge.py
+    re-points edges, timeline rows, denial verdicts and entityInfo keys through the
+    map ONE step, so a survivor that is itself collapsed (a chain) leaves every one
+    of those references on a node that is not on the board, and a survivor that is
+    simply removed deletes what the collapse was meant to keep. Phase 4 added 32
+    aliases; this holds for all of them and every later one."""
+    d = _removed_doc()
+    alias, rm = d.get("alias") or {}, set(d.get("remove") or [])
+    bad = []
+    for k, v in sorted(alias.items()):
+        if v in alias:
+            bad.append(f"{k} -> {v}, which is itself aliased to {alias[v]}")
+        elif v in rm:
+            bad.append(f"{k} -> {v}, which is itself removed")
+        if k == v:
+            bad.append(f"{k} is aliased to itself")
+    return bad[:40]
+
+
+def _sidecar_docs():
+    """The hand-kept files that name board nodes by id, outside research/*.json:
+    {name: parsed document}. The poison channel is _SIDECARS_OVERRIDE."""
+    if _SIDECARS_OVERRIDE is not None:
+        return _SIDECARS_OVERRIDE
+    import glob
+    out = {}
+    for name, rel in (("threads", ("research", "threads.json")),
+                      ("highlights", ("data", "l0-highlights.json")),
+                      ("shorts", ("data", "l0-shorts.json")),
+                      ("denial adjudication", ("data", "denial-adjudication.json")),
+                      ("images", ("data", "l0-images.json")),
+                      ("foia links", ("data", "foia-links.json"))):
+        p = os.path.join(ROOT, *rel)
+        if os.path.exists(p):
+            with open(p, encoding="utf-8") as fh:
+                out[name] = json.load(fh)
+    out["dossiers"] = {}
+    for p in sorted(glob.glob(os.path.join(RESEARCH_DIR, "dossiers", "*.json"))):
+        with open(p, encoding="utf-8") as fh:
+            out["dossiers"][os.path.basename(p)] = json.load(fh)
+    out["topics"] = {}
+    for p in sorted(glob.glob(os.path.join(RESEARCH_DIR, "topics", "*.json"))):
+        with open(p, encoding="utf-8") as fh:
+            out["topics"][os.path.basename(p)] = json.load(fh)
+    return out
+
+
+def _sidecar_refs(docs):
+    """Every (where, id) a side-car uses to name a node."""
+    refs = []
+    th = docs.get("threads")
+    if th is not None:
+        for t in (th.get("threads", th) if isinstance(th, dict) else th):
+            for k, s in enumerate(t.get("steps") or []):
+                refs.append((f"threads {t.get('id')} step {k}", s.get("node")))
+    hl = docs.get("highlights") or {}
+    for f in hl.get("flags") or []:
+        refs.append(("highlights flag", f.get("id")))
+    for s in hl.get("_considered_and_left_off") or []:
+        refs.append(("highlights considered-and-left-off", str(s).split(" ", 1)[0]))
+    for k in ((docs.get("shorts") or {}).get("shorts") or {}):
+        refs.append(("l0-shorts", k))
+    for k, r in ((docs.get("denial adjudication") or {}).get("edges") or {}).items():
+        for end in k.split("|"):
+            refs.append((f"denial-adjudication key {k}", end))
+        if r.get("denier"):
+            refs.append((f"denial-adjudication denier of {k}", r["denier"]))
+    for k in ((docs.get("images") or {}).get("images") or {}):
+        refs.append(("l0-images", k))
+    fl = docs.get("foia links") or {}
+    for k in fl.get("byNode") or {}:
+        refs.append(("foia-links byNode", k))
+    for f, doc in sorted((docs.get("dossiers") or {}).items()):
+        for e in doc:
+            refs.append((f"dossier {f}", e.get("id")))
+
+    def walk(where, x):
+        if isinstance(x, dict):
+            for v in x.values():
+                walk(where, v)
+        elif isinstance(x, list):
+            for v in x:
+                walk(where, v)
+        elif isinstance(x, str):
+            refs.append((where, x))
+    for f, doc in sorted((docs.get("topics") or {}).items()):
+        walk(f"topics {f}", doc)
+    return refs
+
+
+@check("no side-car names a collapsed or removed node")
+def _sidecar_aliases(b):
+    """merge.py re-points the research through research/_removed.json, but the files
+    kept beside it (threads, start-here highlights, chip shorts, denial verdicts,
+    the image register, the FOIA linkage, the entity dossiers, and from phase 4 the
+    topics) are read by id and are NOT re-pointed. A side-car still naming a
+    collapsed id either errors, or worse, quietly stops applying: a dossier keyed on
+    a loser ships for no node, a short labels nothing, a verdict names a denier
+    that is not an end of its edge. After phase 4's 32 collapses every such
+    reference was moved by hand; this is what keeps it that way."""
+    d = _removed_doc()
+    gone = set(d.get("alias") or {}) | set(d.get("remove") or [])
+    bad = []
+    for where, i in _sidecar_refs(_sidecar_docs()):
+        if i in gone:
+            to = (d.get("alias") or {}).get(i)
+            bad.append(f"{where} names {i!r}" + (f"; its survivor is {to!r}" if to else
+                                                  "; it was removed"))
     return bad[:40]
 
 
@@ -2475,7 +2604,75 @@ def self_test():
         claims_rows[0].pop("id", None)
         _APP_IDS_OVERRIDE = (claims_rows, edge_rows)
 
+    # entity resolution (phase 4). An alias chain, and an alias onto a removed id.
+    def _alias_chain(rb):
+        global _REMOVED_OVERRIDE
+        d = copy.deepcopy(_removed_doc())
+        k, v = sorted(d["alias"].items())[0]
+        d["alias"]["zz-poison-loser"] = k          # zz -> k -> v: a chain
+        _REMOVED_OVERRIDE = d
+
+    def _alias_onto_removed(rb):
+        global _REMOVED_OVERRIDE
+        d = copy.deepcopy(_removed_doc())
+        plain = sorted(set(d["remove"]) - set(d["alias"]))[0]   # deleted, not collapsed
+        d["alias"]["zz-poison-loser"] = plain
+        _REMOVED_OVERRIDE = d
+
+    # One poison per side-car: the real file, with one collapsed id written back in.
+    def _sidecar_poison(fn_):
+        def mutate(rb):
+            global _SIDECARS_OVERRIDE
+            docs = copy.deepcopy(_sidecar_docs())
+            loser = "waived-usap-mechanism"             # collapsed into waived-usap in phase 4
+            fn_(docs, loser)
+            _SIDECARS_OVERRIDE = docs
+        mutate.__name__ = fn_.__name__
+        return mutate
+
+    def threads_step(docs, x):
+        th = docs["threads"]
+        (th.get("threads", th) if isinstance(th, dict) else th)[0]["steps"][0]["node"] = x
+
+    def highlights_flag(docs, x):
+        docs["highlights"]["flags"][0]["id"] = x
+
+    def shorts_key(docs, x):
+        docs["shorts"]["shorts"][x] = "Waived USAP - the mechanism"
+
+    def verdict_denier(docs, x):
+        k = next(k for k, r in docs["denial adjudication"]["edges"].items()
+                 if k.startswith("waived-usap|"))
+        docs["denial adjudication"]["edges"][k]["denier"] = x
+
+    def verdict_key(docs, x):
+        e = docs["denial adjudication"]["edges"]
+        k = next(k for k in e if k.startswith("waived-usap|"))
+        e[x + "|" + k.split("|")[1]] = e.pop(k)
+
+    def image_key(docs, x):
+        docs["images"]["images"][x] = {"photo": "assets/marks/x.png"}
+
+    def foia_node(docs, x):
+        docs["foia links"]["byNode"][x] = []
+
+    def dossier_id(docs, x):
+        f = sorted(docs["dossiers"])[0]
+        docs["dossiers"][f][0]["id"] = x
+
+    def topic_member(docs, x):
+        docs["topics"]["t-poison.json"] = {"id": "t-poison", "anchors": [x]}
+
+    poison_realboard_ids = {
+        "no alias target is itself aliased or removed": [_alias_chain, _alias_onto_removed],
+        "no side-car names a collapsed or removed node": [
+            _sidecar_poison(f) for f in (threads_step, highlights_flag, shorts_key,
+                                          verdict_denier, verdict_key, image_key,
+                                          foia_node, dossier_id, topic_member)],
+    }
+
     poison_realboard = {
+        **poison_realboard_ids,
         "every claim and edge carries a stable id, unique and derived from its content":
             [_two_claims_one_id, _edge_loses_id, _malformed_id, _app_row_without_id],
         "every authored claim reaches the board or is listed":
@@ -2854,13 +3051,15 @@ def self_test():
             caught = []
             for mutate in poison_realboard[name]:
                 pb = copy.deepcopy(_real_board)
-                global _UNPLACED_OVERRIDE, _APP_IDS_OVERRIDE
+                global _UNPLACED_OVERRIDE, _APP_IDS_OVERRIDE, _REMOVED_OVERRIDE, _SIDECARS_OVERRIDE
                 try:
                     mutate(pb)
                     got = fn(pb)
                 finally:
                     _UNPLACED_OVERRIDE = None     # a poison may set a report override
                     _APP_IDS_OVERRIDE = None
+                    _REMOVED_OVERRIDE = None
+                    _SIDECARS_OVERRIDE = None
                 if not got:
                     caught = []
                     print(f"  FAIL  {name} accepted its poison {mutate.__name__}")

@@ -193,37 +193,15 @@
 },
 {
 "claimTier": 1,
-"cls": "event",
-"dateEnd": null,
-"dateStart": "2025",
-"direction": "out",
-"edgeId": "e-d9f8e9d29b",
-"edgeLabel": "Congress set 1 January 2004 as the retroactive intercept floor",
-"id": "nimitz-2004",
-"l0": true,
-"label": "USS Nimitz Carrier Strike Group Encounters, 10-16 November 2004",
-"note": "The first briefing under Sec. 1671 must cover intercepts 'during the period beginning on January 1, 2004' — the year of the Nimitz encounters.",
-"sources": [
-{
-"date": "2025-12-18",
-"name": "P.L. 119-60 — GPO",
-"url": "https://www.govinfo.gov/content/pkg/PLAW-119publ60/html/PLAW-119publ60.htm"
-}
-],
-"tier": "A",
-"type": "temporal"
-},
-{
-"claimTier": 1,
 "cls": "legislation",
 "dateEnd": null,
 "dateStart": "2024",
 "direction": "in",
-"edgeId": "e-3360228af2",
+"edgeId": "e-665099f158",
 "edgeLabel": "Not renewed; the funding bar has lapsed since FY2024",
-"id": "pl118-31-sec-1687",
-"l0": false,
-"label": "P.L. 118-31 Sec. 1687 - limitation on funds for unreported programs",
+"id": "ndaa-fy2024-1687",
+"l0": true,
+"label": "FY2024 NDAA sec. 1687 - Limitation on Use of Funds for Certain Unreported Programs",
 "note": "Sec. 1687 restricts only funds authorised by the FY2024 Act; neither P.L. 118-159 nor P.L. 119-60 contains the phrase 'special access or restricted access'.",
 "sources": [
 {
@@ -244,6 +222,28 @@
 ],
 "tier": "A",
 "type": "funding"
+},
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": null,
+"dateStart": "2025",
+"direction": "out",
+"edgeId": "e-d9f8e9d29b",
+"edgeLabel": "Congress set 1 January 2004 as the retroactive intercept floor",
+"id": "nimitz-2004",
+"l0": true,
+"label": "USS Nimitz Carrier Strike Group Encounters, 10-16 November 2004",
+"note": "The first briefing under Sec. 1671 must cover intercepts 'during the period beginning on January 1, 2004' — the year of the Nimitz encounters.",
+"sources": [
+{
+"date": "2025-12-18",
+"name": "P.L. 119-60 — GPO",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-119publ60/html/PLAW-119publ60.htm"
+}
+],
+"tier": "A",
+"type": "temporal"
 },
 {
 "claimTier": 1,
@@ -491,12 +491,6 @@
 "tier": "B"
 },
 {
-"cls": "legislation",
-"id": "pl118-31-sec-1687",
-"label": "P.L. 118-31 Sec. 1687 - limitation on funds for unreported programs",
-"tier": "A"
-},
-{
 "cls": "person",
 "id": "roger-wicker",
 "label": "Roger F. Wicker",
@@ -528,7 +522,7 @@
 ],
 "sub": "authorizing-statutes",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 92 of 1170, score 66). 9 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D1.",
+"tierRationale": "Re-graded A on a global pass (rank 95 of 1138, score 66). 9 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D1.",
 "timeline": [
 {
 "claimTier": null,

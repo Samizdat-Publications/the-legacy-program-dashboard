@@ -95,11 +95,11 @@
 "dateEnd": null,
 "dateStart": "2013-02-06",
 "direction": "in",
-"edgeId": "e-573cab3b8e",
+"edgeId": "e-5a5b3fe5e3",
 "edgeLabel": "Every waived program is reviewed once a year by a named standing body",
-"id": "waived-usap-mechanism",
+"id": "waived-usap",
 "l0": true,
-"label": "Waived Unacknowledged SAP (waived USAP) - the mechanism",
+"label": "Waived unacknowledged special access program (waived USAP)",
 "note": "DoDI 5205.11 Enclosure 3 para 3.b(4) assigns the SRG the annual review of all waived DoD SAPs and recommendations on continued waived status.",
 "sources": [
 {
@@ -168,7 +168,7 @@
 ],
 "sub": "oversight-body",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 278 of 1170, score 40). 3 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D1.",
+"tierRationale": "Re-graded B on a global pass (rank 281 of 1138, score 40). 3 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D1.",
 "timeline": [],
 "unverified": []
 }

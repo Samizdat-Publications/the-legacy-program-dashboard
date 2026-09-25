@@ -185,7 +185,7 @@
 "edgeId": "e-869f016839",
 "edgeLabel": "ISOO requests about IC controlled access programs are routed through CAPCO",
 "id": "isoo",
-"l0": true,
+"l0": false,
 "label": "Information Security Oversight Office",
 "note": "ICD 906 section D.9.c makes CAPCO responsible for coordinating 'requests from the Information Security Oversight Office' about CAPs.",
 "sources": [
@@ -270,7 +270,7 @@
 ],
 "sub": "oversight-body",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 125 of 1170, score 56). 6 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D2.",
+"tierRationale": "Re-graded A on a global pass (rank 127 of 1138, score 56). 6 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D2.",
 "timeline": [],
 "unverified": []
 }

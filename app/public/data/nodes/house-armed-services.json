@@ -49,11 +49,11 @@
 "dateEnd": null,
 "dateStart": "2023",
 "direction": "in",
-"edgeId": "e-dd75792fb0",
+"edgeId": "e-6776b3e9b3",
 "edgeLabel": "Chairman during the FY2024 conference",
-"id": "mike-rogers-al",
+"id": "mike-rogers-alabama",
 "l0": false,
-"label": "Mike D. Rogers",
+"label": "Mike Rogers (Alabama)",
 "note": "Rogers has chaired House Armed Services since January 2023 and was a conference principal on the NDAA.",
 "sources": [
 {
@@ -62,7 +62,29 @@
 "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
 }
 ],
-"tier": "C",
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "legislation",
+"dateEnd": "2024",
+"dateStart": "2023",
+"direction": "out",
+"edgeId": "e-f46af8f761",
+"edgeLabel": "Retained remedy routes back to the committees",
+"id": "ndaa-fy2024-1687",
+"l0": true,
+"label": "FY2024 NDAA sec. 1687 - Limitation on Use of Funds for Certain Unreported Programs",
+"note": "Sec. 1687 does not open anything to the public; it compels description to the defence and intelligence committees and congressional leadership.",
+"sources": [
+{
+"date": "2023-12-22",
+"name": "P.L. 118-31, FY2024 NDAA — GPO",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
+}
+],
+"tier": "A",
 "type": "institutional"
 },
 {
@@ -86,28 +108,6 @@
 ],
 "tier": "B",
 "type": "legislative"
-},
-{
-"claimTier": 1,
-"cls": "legislation",
-"dateEnd": "2024",
-"dateStart": "2023",
-"direction": "out",
-"edgeId": "e-f4d003e40b",
-"edgeLabel": "Retained remedy routes back to the committees",
-"id": "pl118-31-sec-1687",
-"l0": false,
-"label": "P.L. 118-31 Sec. 1687 - limitation on funds for unreported programs",
-"note": "Sec. 1687 does not open anything to the public; it compels description to the defence and intelligence committees and congressional leadership.",
-"sources": [
-{
-"date": "2023-12-22",
-"name": "P.L. 118-31, FY2024 NDAA — GPO",
-"url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
-}
-],
-"tier": "A",
-"type": "institutional"
 },
 {
 "claimTier": 1,
@@ -176,7 +176,7 @@
 ],
 "sub": "HASC; conference principal under Chairman Rogers",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 749 of 1170, score 23). 5 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D0.",
+"tierRationale": "Re-graded C on a global pass (rank 734 of 1138, score 23). 5 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D0.",
 "timeline": [],
 "unverified": []
 }

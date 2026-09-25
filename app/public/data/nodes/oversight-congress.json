@@ -79,7 +79,7 @@
 "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim"
 }
 ],
-"tier": "B",
+"tier": "C",
 "type": "institutional"
 },
 {
@@ -297,7 +297,7 @@
 "url": "https://www.senate.gov/legislative/DatesofSessionsofCongress.htm"
 }
 ],
-"tier": "B",
+"tier": "C",
 "type": "institutional"
 },
 {
@@ -510,7 +510,7 @@
 "cls": "person",
 "id": "buck-mckeon",
 "label": "Howard P. \"Buck\" McKeon",
-"tier": "B"
+"tier": "C"
 },
 {
 "cls": "domain",
@@ -540,7 +540,7 @@
 "cls": "person",
 "id": "thad-cochran",
 "label": "Thad Cochran",
-"tier": "B"
+"tier": "C"
 }
 ],
 "openQuestions": [],
@@ -578,7 +578,7 @@
 ],
 "sub": "The statutory oversight mechanism, and the hole in it",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 248 of 1170, score 42). 13 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A3/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 252 of 1138, score 42). 13 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A3/D3.",
 "timeline": [
 {
 "claimTier": null,

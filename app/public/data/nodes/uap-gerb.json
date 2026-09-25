@@ -253,7 +253,7 @@
 "edgeId": "e-01829daf96",
 "edgeLabel": "Gerb authored and published the MITRE investigation",
 "id": "gerb-mitre-investigation",
-"l0": false,
+"l0": true,
 "label": "UAP Gerb - The MITRE Corporation investigation",
 "note": "Published 7 August 2026; the named priority document for this board. Two hours, seven chapters, building explicitly on eight prior Gerb investigations.",
 "sources": [
@@ -593,41 +593,18 @@
 ],
 "tier": "B",
 "type": "behavioral"
-},
-{
-"claimTier": 2,
-"cls": "document",
-"dateEnd": null,
-"dateStart": "2026",
-"direction": "out",
-"edgeId": "e-5a75e947fa",
-"edgeLabel": "Author and publisher of the 7 August 2026 MITRE investigation",
-"id": "uap-gerb-mitre-investigation",
-"l0": false,
-"label": "'The MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs'",
-"note": "Published with a researcher using the handle 'Kerberos'; explicitly framed as aid to Burlison's inquiry.",
-"sources": [
-{
-"date": "2026-08-07",
-"name": "UAP Gerb, YouTube",
-"url": "https://www.youtube.com/watch?v=107BtDYhTkA"
-}
-],
-"tier": "C",
-"type": "investigative"
 }
 ],
 "date": "2026-08-07",
 "dateEnd": null,
 "dateStart": "2026-08-07",
-"deg": 17,
+"deg": 16,
 "denials": [],
 "domains": [
 "d-ffrdc",
 "d-disclosure",
 "d-media",
 "d-structure",
-"d-ffrdc-mechanism",
 "d-secrecy-architecture"
 ],
 "dossier": null,
@@ -742,7 +719,7 @@
 "status": "active",
 "sub": "Pseudonymous open-source investigator; publisher of the 7 August 2026 MITRE investigation, produced with a researcher using the handle 'Kerberos'; interviewed on NewsNation's Reality Check by Ross Coulthart",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 107 of 1170, score 61). 18 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.",
+"tierRationale": "Re-graded A on a global pass (rank 108 of 1138, score 60). 17 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.",
 "timeline": [
 {
 "claimTier": null,

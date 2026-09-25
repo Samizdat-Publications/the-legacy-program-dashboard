@@ -54,26 +54,6 @@
   ]
  },
  {
-  "a": "uap-gerb",
-  "b": "uap-gerb-mitre-investigation",
-  "type": "investigative",
-  "why": "cited to a secondary/encyclopedic source with no primary record",
-  "note": "Published with a researcher using the handle 'Kerberos'; explicitly framed as aid to Burlison's inquiry.",
-  "sources": [
-   "https://www.youtube.com/watch?v=107BtDYhTkA"
-  ]
- },
- {
-  "a": "uap-gerb-mitre-investigation",
-  "b": "burlison-mitre-letter-2026",
-  "type": "temporal",
-  "why": "cited to a secondary/encyclopedic source with no primary record",
-  "note": "Burlison's letter is dated 22 May 2026; the investigation was published 7 August 2026 and states it seeks to d",
-  "sources": [
-   "https://www.youtube.com/watch?v=107BtDYhTkA"
-  ]
- },
- {
   "a": "aaro-historical-record-vol1",
   "b": "kona-blue",
   "type": "programmatic",
@@ -434,26 +414,6 @@
   ]
  },
  {
-  "a": "age-of-disclosure-2025",
-  "b": "harold-puthoff",
-  "type": "behavioral",
-  "why": "cited to a secondary/encyclopedic source with no primary record",
-  "note": "The AAWSAP propulsion author sat for the same documentary as the AAWSAP wormhole author, the UAP Task Force ch",
-  "sources": [
-   "https://en.wikipedia.org/wiki/The_Age_of_Disclosure"
-  ]
- },
- {
-  "a": "age-of-disclosure-2025",
-  "b": "eric-davis",
-  "type": "behavioral",
-  "why": "cited to a secondary/encyclopedic source with no primary record",
-  "note": "Davis's participation puts the man who briefed two Senate committees on retrievals on camera alongside a sitti",
-  "sources": [
-   "https://en.wikipedia.org/wiki/The_Age_of_Disclosure"
-  ]
- },
- {
   "a": "hr-8197",
   "b": "aaro",
   "type": "legislative",
@@ -542,18 +502,6 @@
   ]
  },
  {
-  "a": "l-cambridge-ma",
-  "b": "galileo-project",
-  "type": "geographic",
-  "why": "cited to a secondary/encyclopedic source with no primary record",
-  "note": "Figure 1 of the project's own overview paper captions the 'First all-sky Galileo Observatory for UAP on the ro",
-  "sources": [
-   "https://arxiv.org/abs/2209.02479",
-   "https://galileo.hsites.harvard.edu/",
-   "https://en.wikipedia.org/wiki/The_Galileo_Project"
-  ]
- },
- {
   "a": "cometa",
   "b": "l-france",
   "type": "geographic",
@@ -573,18 +521,6 @@
   "sources": [
    "https://history.denverlibrary.org/news/western-history/flying-saucers-and-fraud-silas-m-newton-story",
    "https://en.wikipedia.org/wiki/Aztec_crashed_saucer_hoax"
-  ]
- },
- {
-  "a": "l-lasvegas",
-  "b": "nids",
-  "type": "geographic",
-  "why": "cited to a secondary/encyclopedic source with no primary record",
-  "note": "The National Institute for Discovery Science was established in 1995 by Robert T. Bigelow, described in contem",
-  "sources": [
-   "https://www.deseret.com/1998/8/10/19395824/private-ufo-study-takes-a-public-turn",
-   "https://en.wikipedia.org/wiki/National_Institute_for_Discovery_Science",
-   "https://www.8newsnow.com/mystery-wire/las-vegas-group-set-the-bar-for-ufo-investigations-30-years-ago/"
   ]
  },
  {
@@ -971,6 +907,60 @@
    "https://www.newsnationnow.com/space/ufo/hfr-uap-recovery-video-egg-shaped-object-exclusive/",
    "https://en.wikipedia.org/wiki/Ross_Coulthart",
    "https://www.newsnationnow.com/space/ufo/ross-coulthart-qa-skywatcher-didnt-disappear-it-went-government/"
+  ]
+ },
+ {
+  "a": "gerb-mitre-investigation",
+  "b": "burlison-mitre-letter-2026",
+  "type": "temporal",
+  "why": "cited to a secondary/encyclopedic source with no primary record",
+  "note": "Burlison's letter is dated 22 May 2026; the investigation was published 7 August 2026 and states it seeks to d",
+  "sources": [
+   "https://www.youtube.com/watch?v=107BtDYhTkA"
+  ]
+ },
+ {
+  "a": "age-of-disclosure",
+  "b": "harold-puthoff",
+  "type": "behavioral",
+  "why": "cited to a secondary/encyclopedic source with no primary record",
+  "note": "The AAWSAP propulsion author sat for the same documentary as the AAWSAP wormhole author, the UAP Task Force ch",
+  "sources": [
+   "https://en.wikipedia.org/wiki/The_Age_of_Disclosure"
+  ]
+ },
+ {
+  "a": "age-of-disclosure",
+  "b": "eric-davis",
+  "type": "behavioral",
+  "why": "cited to a secondary/encyclopedic source with no primary record",
+  "note": "Davis's participation puts the man who briefed two Senate committees on retrievals on camera alongside a sitti",
+  "sources": [
+   "https://en.wikipedia.org/wiki/The_Age_of_Disclosure"
+  ]
+ },
+ {
+  "a": "l-cambridge",
+  "b": "galileo-project",
+  "type": "geographic",
+  "why": "cited to a secondary/encyclopedic source with no primary record",
+  "note": "Figure 1 of the project's own overview paper captions the 'First all-sky Galileo Observatory for UAP on the ro",
+  "sources": [
+   "https://arxiv.org/abs/2209.02479",
+   "https://galileo.hsites.harvard.edu/",
+   "https://en.wikipedia.org/wiki/The_Galileo_Project"
+  ]
+ },
+ {
+  "a": "l-las-vegas",
+  "b": "nids",
+  "type": "geographic",
+  "why": "cited to a secondary/encyclopedic source with no primary record",
+  "note": "The National Institute for Discovery Science was established in 1995 by Robert T. Bigelow, described in contem",
+  "sources": [
+   "https://www.deseret.com/1998/8/10/19395824/private-ufo-study-takes-a-public-turn",
+   "https://en.wikipedia.org/wiki/National_Institute_for_Discovery_Science",
+   "https://www.8newsnow.com/mystery-wire/las-vegas-group-set-the-bar-for-ufo-investigations-30-years-ago/"
   ]
  },
  {

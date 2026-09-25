@@ -84,7 +84,7 @@
 "url": "https://www.govinfo.gov/content/pkg/BILLS-118s2226es/html/BILLS-118s2226es.htm"
 }
 ],
-"tier": "B",
+"tier": "C",
 "type": "legislative"
 },
 {
@@ -376,7 +376,7 @@
 "cls": "domain",
 "id": "d-legislative",
 "label": "Legislative Process (proposed and pending)",
-"tier": "B"
+"tier": "C"
 },
 {
 "cls": "person",
@@ -440,7 +440,7 @@
 ],
 "sub": "disclosure-legislation",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 267 of 1170, score 41). 9 connections, 0 of them custody/funding/programmatic. Axes C2/A2/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 271 of 1138, score 41). 9 connections, 0 of them custody/funding/programmatic. Axes C2/A2/D3.",
 "timeline": [
 {
 "claimTier": null,

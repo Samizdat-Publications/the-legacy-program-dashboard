@@ -111,6 +111,30 @@
 "source": "Structure of Public Law 118-31 sec. 1687(a)",
 "text": "Section 1687 is a legislative admission that Congress could not rule out the existence of UAP activity protected by special access or restricted access limitations and unreported to it as of December 2023. Reasoning: a funding prohibition conditioned on disclosure has no operative effect unless the conditioned conduct is considered possible.",
 "tier": 3
+},
+{
+"id": "c-86f6ea44f8",
+"source": "P.L. 118-31, Sec. 1687(a), GPO",
+"text": "Sec. 1687(a) conditions FY2024 DoD funding of UAP special or restricted access activities on the Secretary of Defense providing details to the congressional defence and intelligence committees and congressional leadership.",
+"tier": 1
+},
+{
+"id": "c-894e7183ff",
+"source": "P.L. 118-31, Sec. 1687(b), GPO",
+"text": "Sec. 1687(b), noted as 50 U.S.C. 3373 note, disallows UAP-related independent research and development as an indirect expense on covered contracts unless disclosed to Congress.",
+"tier": 1
+},
+{
+"id": "c-215857bccb",
+"source": "Full-text search of P.L. 118-159 and P.L. 119-60, GPO",
+"text": "Neither P.L. 118-159 nor P.L. 119-60 contains the phrase 'special access or restricted access'; the limitation was not renewed.",
+"tier": 1
+},
+{
+"id": "c-4be0417a5a",
+"source": "Inference from the text of Sec. 1687(a) and the absence of successor provisions",
+"text": "Because the limitation attaches only to funds authorised by the FY2024 Act, its non-renewal in two subsequent cycles means there is at present no statutory funding bar on undisclosed UAP special access programmes.",
+"tier": 3
 }
 ],
 "cls": "legislation",
@@ -168,6 +192,50 @@
 },
 {
 "claimTier": 1,
+"cls": "institution",
+"dateEnd": "2024",
+"dateStart": "2023",
+"direction": "in",
+"edgeId": "e-f46af8f761",
+"edgeLabel": "Retained remedy routes back to the committees",
+"id": "house-armed-services",
+"l0": false,
+"label": "House Armed Services Committee",
+"note": "Sec. 1687 does not open anything to the public; it compels description to the defence and intelligence committees and congressional leadership.",
+"sources": [
+{
+"date": "2023-12-22",
+"name": "P.L. 118-31, FY2024 NDAA — GPO",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "legislation",
+"dateEnd": "2024",
+"dateStart": "2023",
+"direction": "in",
+"edgeId": "e-903ed5fec8",
+"edgeLabel": "Twin limitations on the intelligence and defence sides",
+"id": "iaa-fy2024-7343",
+"l0": true,
+"label": "FY2024 Intelligence Authorization Act sec. 7343 - Funding Limitations Relating to UAP",
+"note": "Sec. 7343 applies the same bar to intelligence funds through the DNI that Sec. 1687 applies to DoD funds through the Secretary of Defense.",
+"sources": [
+{
+"date": "2023-12-22",
+"name": "P.L. 118-31, FY2024 NDAA — GPO",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
 "cls": "legislation",
 "dateEnd": null,
 "dateStart": "2023-12-22",
@@ -177,7 +245,7 @@
 "id": "iaa-fy2024-7343",
 "l0": true,
 "label": "FY2024 Intelligence Authorization Act sec. 7343 - Funding Limitations Relating to UAP",
-"note": "Both were enacted in Public Law 118-31 on 22 December 2023 and both reference activities described in an AARO report released in fiscal year 2024.",
+"note": "Sections 1687 and 7343 of P.L. 118-31 impose parallel funding limitations, the first running through the Secretary of Defense, the second through the Director of National Intelligence. Attested by the enacted text of both.",
 "sources": [
 {
 "date": "2023-12-22",
@@ -213,28 +281,6 @@
 }
 ],
 "tier": "C",
-"type": "legislative"
-},
-{
-"claimTier": 1,
-"cls": "legislation",
-"dateEnd": null,
-"dateStart": "2023-12-22",
-"direction": "out",
-"edgeId": "e-0cd58b5984",
-"edgeLabel": "The same bar enacted twice, once for SECDEF and once for the DNI",
-"id": "iaa24-sec7343",
-"l0": false,
-"label": "IAA FY2024 Section 7343 - Funding Limitations Relating to Unidentified Anomalous Phenomena",
-"note": "Sections 1687 and 7343 of P.L. 118-31 impose parallel funding limitations, the first running through the Secretary of Defense, the second through the Director of National Intelligence. Attested by the enacted text of both.",
-"sources": [
-{
-"date": "2023-12-22",
-"name": "P.L. 118-31, Secs. 1687 and 7343",
-"url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
-}
-],
-"tier": "B",
 "type": "legislative"
 },
 {
@@ -286,6 +332,60 @@
 "date": "2026-08-12",
 "name": "USAspending.gov federal award search (prime contract obligations by recipient)",
 "url": "https://www.usaspending.gov/search"
+}
+],
+"tier": "A",
+"type": "funding"
+},
+{
+"claimTier": 1,
+"cls": "legislation",
+"dateEnd": "2024",
+"dateStart": "2023",
+"direction": "in",
+"edgeId": "e-fa4984d59d",
+"edgeLabel": "Sec. 1687 is the enacted funding bar on undisclosed UAP SAPs",
+"id": "ndaa-fy2024",
+"l0": true,
+"label": "FY2024 NDAA, Public Law 118-31 - Div. A, Title XVIII, Subtitle C (secs. 1841-1843), UAP Records Collection; Div. G (IAA FY2024) secs. 7341, 7343",
+"note": "The only enacted provision that conditions money on disclosure of special access UAP activity, including the independent research and development indirect-cost bar.",
+"sources": [
+{
+"date": "2023-12-22",
+"name": "P.L. 118-31, FY2024 NDAA — GPO",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
+}
+],
+"tier": "A",
+"type": "funding"
+},
+{
+"claimTier": 1,
+"cls": "legislation",
+"dateEnd": null,
+"dateStart": "2024",
+"direction": "out",
+"edgeId": "e-665099f158",
+"edgeLabel": "Not renewed; the funding bar has lapsed since FY2024",
+"id": "ndaa-fy2026",
+"l0": true,
+"label": "FY2026 NDAA, Public Law 119-60 - secs. 1671-1673, NORAD/NORTHCOM intercept briefings and UAP classification-guide accounting",
+"note": "Sec. 1687 restricts only funds authorised by the FY2024 Act; neither P.L. 118-159 nor P.L. 119-60 contains the phrase 'special access or restricted access'.",
+"sources": [
+{
+"date": "2023-12-22",
+"name": "P.L. 118-31, FY2024 NDAA — GPO",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
+},
+{
+"date": "2024-12-23",
+"name": "P.L. 118-159 — GPO",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-118publ159/html/PLAW-118publ159.htm"
+},
+{
+"date": "2025-12-18",
+"name": "P.L. 119-60 — GPO",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-119publ60/html/PLAW-119publ60.htm"
 }
 ],
 "tier": "A",
@@ -346,11 +446,11 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
-"edgeId": "e-015c71f9c8",
+"edgeId": "e-948cf651c6",
 "edgeLabel": "sec. 1687(a) bars FY2024 funds for UAP activity under special or restricted access absent disclosure",
-"id": "waived-usap-mechanism",
+"id": "waived-usap",
 "l0": true,
-"label": "Waived Unacknowledged SAP (waived USAP) - the mechanism",
+"label": "Waived unacknowledged special access program (waived USAP)",
 "note": "",
 "sources": [
 {
@@ -368,11 +468,11 @@
 "dateEnd": null,
 "dateStart": "2023-12-22",
 "direction": "out",
-"edgeId": "e-817e687f7a",
+"edgeId": "e-b83e0af118",
 "edgeLabel": "Cuts off funding for UAP activity held under special or restricted access unless disclosed",
-"id": "waived-usap-mechanism",
+"id": "waived-usap",
 "l0": true,
-"label": "Waived Unacknowledged SAP (waived USAP) - the mechanism",
+"label": "Waived unacknowledged special access program (waived USAP)",
 "note": "FY2024 NDAA sec. 1687(a) conditions obligation of funds on the Secretary of Defense providing details to the defense and intelligence committees and congressional leadership.",
 "sources": [
 {
@@ -390,11 +490,11 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
-"edgeId": "e-3bc34a0e24",
+"edgeId": "e-3702e0d376",
 "edgeLabel": "",
-"id": "waived-usap-mechanism",
+"id": "waived-usap",
 "l0": true,
-"label": "Waived Unacknowledged SAP (waived USAP) - the mechanism",
+"label": "Waived unacknowledged special access program (waived USAP)",
 "note": "The section acts on the mechanism without touching it. Sec. 1687(a) conditions obligation of funds on the Secretary reporting the activity to the defense and intelligence committees and congressional leadership; it does not repeal or amend 10 U.S.C. 119(e). The waiver stays lawful and the money stops instead.",
 "sources": [
 {
@@ -415,7 +515,7 @@
 "coords": null,
 "dateEnd": null,
 "dateStart": "2023-12-22",
-"deg": 9,
+"deg": 11,
 "denials": [],
 "desc": "Section 1687 of the National Defense Authorization Act for Fiscal Year 2024 is the moment the SAP architecture and the UAP question meet in enacted law. Subsection (a): 'None of the funds authorized to be appropriated or otherwise made available by this Act may be obligated or expended in support of any activities involving unidentified anomalous phenomena protected under any form of special access or restricted access limitations unless the Secretary of Defense has provided the details of the activity to the appropriate congressional committees and congressional leadership, including for any activities described in a report released by the All-Domain Anomaly Resolution Office in fiscal year 2024.' Subsection (b) closes the industry-funded route: consistent with DoD Instruction 3204.01, 'independent research and development funding relating to unidentified anomalous phenomena shall not be allowable as indirect expenses for purposes of contracts covered by such instruction, unless such material and information is made available the appropriate congressional committees and congressional leadership'. The definitions widen the audience well past 10 U.S.C. 119(g): 'appropriate congressional committees' means the congressional defense committees plus both intelligence committees, and 'congressional leadership' means the majority and minority leaders of the Senate and the Speaker and minority leader of the House. Three things follow. First, Congress enacted, on 22 December 2023, a funding prohibition premised on the possibility that UAP activity was being run under special access or restricted access limitations without being reported - a premise it would not have legislated against had it been satisfied no such activity existed. Second, subsection (b) targets precisely the mechanism by which a contractor can fund work internally and recover it as overhead, which is the route that does not appear in any appropriation line. Third, by naming the AARO fiscal year 2024 report, Congress tied the prohibition to a specific document rather than leaving it abstract.",
 "domains": [],
@@ -505,16 +605,16 @@
 "tier": "B"
 },
 {
-"cls": "legislation",
-"id": "iaa-fy2024-sec1104",
-"label": "S. 2103 Sec. 1104 - SSCI contractor disclosure and immunity provision (stripped)",
+"cls": "institution",
+"id": "house-armed-services",
+"label": "House Armed Services Committee",
 "tier": "C"
 },
 {
 "cls": "legislation",
-"id": "iaa24-sec7343",
-"label": "IAA FY2024 Section 7343 - Funding Limitations Relating to Unidentified Anomalous Phenomena",
-"tier": "B"
+"id": "iaa-fy2024-sec1104",
+"label": "S. 2103 Sec. 1104 - SSCI contractor disclosure and immunity provision (stripped)",
+"tier": "C"
 },
 {
 "cls": "program",
@@ -535,6 +635,7 @@
 "_rs-archive-mirror",
 "_rs-legislation",
 "_rs-sap-docs",
+"congress-senate-legislation",
 "primes-custody",
 "w12-duplicate-collapse",
 "w2-black-budget",
@@ -555,11 +656,21 @@
 "date": "2020-07-09",
 "name": "DoD Instruction 3204.01, 'DoD Policy for Oversight of Independent Research and Development (IR&D)' (Change 2)",
 "url": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/320401p.pdf"
+},
+{
+"date": "2024-12-23",
+"name": "P.L. 118-159 — GPO",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-118publ159/html/PLAW-118publ159.htm"
+},
+{
+"date": "2025-12-18",
+"name": "P.L. 119-60 — GPO",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-119publ60/html/PLAW-119publ60.htm"
 }
 ],
 "sub": "statute",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 41 of 1170, score 88). 12 connections, 4 of them custody/funding/programmatic. Axes C1/A3/D3.",
+"tierRationale": "Re-graded A on a global pass (rank 29 of 1138, score 97). 15 connections, 6 of them custody/funding/programmatic. Axes C1/A3/D3.",
 "timeline": [
 {
 "claimTier": null,

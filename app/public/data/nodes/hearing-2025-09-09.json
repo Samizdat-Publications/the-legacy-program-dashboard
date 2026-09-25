@@ -605,9 +605,9 @@
 "dateEnd": null,
 "dateStart": "2025",
 "direction": "out",
-"edgeId": "e-8c5bceb88d",
+"edgeId": "e-faf96b3278",
 "edgeLabel": "hearing findings underwrite the UAP Whistleblower Protection Act",
-"id": "hr-5060",
+"id": "hr-5060-uap-whistleblower-protection-act",
 "l0": false,
 "label": "H.R. 5060 - UAP Whistleblower Protection Act (119th Congress)",
 "note": "The Task Force found witnesses face career damage and retaliation requiring congressional safeguards; the bill was on the agenda in the run-up to the hearing.",
@@ -890,34 +890,12 @@
 "dateEnd": "2025",
 "dateStart": "2025",
 "direction": "in",
-"edgeId": "e-6c64f932a4",
-"edgeLabel": "Held the UAP transparency and whistleblower protection hearing",
-"id": "task-force-declassification",
-"l0": false,
-"label": "House Task Force on the Declassification of Federal Secrets",
-"note": "The hearing where the Crane reprisal letter entered the record and where Knapp and Mace put ongoing retaliation against Grusch into the official transcript.",
-"sources": [
-{
-"date": "2025-09-09",
-"name": "House Oversight - Luna Opens Hearing on Restoring Public Trust Through UAP Transparency",
-"url": "https://oversight.house.gov/release/luna-opens-hearing-on-restoring-public-trust-through-uap-transparency/"
-}
-],
-"tier": "C",
-"type": "legislative"
-},
-{
-"claimTier": 1,
-"cls": "program",
-"dateEnd": "2025",
-"dateStart": "2025",
-"direction": "in",
 "edgeId": "e-2c053e1cee",
 "edgeLabel": "Held the 9 September 2025 hearing",
 "id": "task-force-declassification-federal-secrets",
 "l0": true,
 "label": "Task Force on the Declassification of Federal Secrets",
-"note": "Serial No. 119-44, HVC-210.",
+"note": "The hearing was held in HVC-210 at 10:00am with five witnesses, four of them first-hand or journalistic.",
 "sources": [
 {
 "date": "2025-09-09",
@@ -930,30 +908,30 @@
 "url": "https://oversight.house.gov/hearing/restoring-public-trust-through-uap-transparency-and-whistleblower-protection/"
 }
 ],
-"tier": "C",
+"tier": "B",
 "type": "institutional"
 },
 {
 "claimTier": 1,
 "cls": "institution",
-"dateEnd": "2025-09-09",
-"dateStart": "2025-09-09",
+"dateEnd": "2025",
+"dateStart": "2025",
 "direction": "in",
-"edgeId": "e-8f22edf023",
-"edgeLabel": "convened",
-"id": "tf-declassification-federal-secrets",
-"l0": false,
-"label": "House Oversight Task Force on the Declassification of Federal Secrets",
-"note": "The hearing was held in HVC-210 at 10:00am with five witnesses, four of them first-hand or journalistic.",
+"edgeId": "e-7778e19162",
+"edgeLabel": "Held the UAP transparency and whistleblower protection hearing",
+"id": "task-force-declassification-federal-secrets",
+"l0": true,
+"label": "Task Force on the Declassification of Federal Secrets",
+"note": "The hearing where the Crane reprisal letter entered the record and where Knapp and Mace put ongoing retaliation against Grusch into the official transcript.",
 "sources": [
 {
 "date": "2025-09-09",
-"name": "House Oversight, 9 September 2025 hearing page",
-"url": "https://oversight.house.gov/hearing/restoring-public-trust-through-uap-transparency-and-whistleblower-protection/"
+"name": "House Oversight - Luna Opens Hearing on Restoring Public Trust Through UAP Transparency",
+"url": "https://oversight.house.gov/release/luna-opens-hearing-on-restoring-public-trust-through-uap-transparency/"
 }
 ],
-"tier": "C",
-"type": "institutional"
+"tier": "B",
+"type": "legislative"
 },
 {
 "claimTier": 3,
@@ -981,7 +959,7 @@
 "coords": null,
 "dateEnd": "2025-09-09",
 "dateStart": "2025-09-09",
-"deg": 23,
+"deg": 21,
 "denials": [
 {
 "a": {
@@ -1200,7 +1178,7 @@
 },
 {
 "cls": "legislation",
-"id": "hr-5060",
+"id": "hr-5060-uap-whistleblower-protection-act",
 "label": "H.R. 5060 - UAP Whistleblower Protection Act (119th Congress)",
 "tier": "C"
 },
@@ -1245,18 +1223,6 @@
 "id": "pursue-task-force",
 "label": "PURSUE Task Force",
 "tier": "B"
-},
-{
-"cls": "institution",
-"id": "task-force-declassification",
-"label": "House Task Force on the Declassification of Federal Secrets",
-"tier": "C"
-},
-{
-"cls": "institution",
-"id": "tf-declassification-federal-secrets",
-"label": "House Oversight Task Force on the Declassification of Federal Secrets",
-"tier": "C"
 }
 ],
 "openQuestions": [],
@@ -1341,7 +1307,7 @@
 ],
 "sub": "congressional-hearings",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 30 of 1170, score 93). 27 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A1/D3.",
+"tierRationale": "Re-graded A on a global pass (rank 35 of 1138, score 92). 26 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A1/D3.",
 "timeline": [
 {
 "claimTier": null,

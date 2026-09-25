@@ -21,12 +21,51 @@
 "source": "MeriTalk, 8 September 2025",
 "text": "Establishes whistleblower protections for federal employees who disclose government-funded research into materials linked to UAP.",
 "tier": 2
+},
+{
+"id": "c-69b007ddee",
+"source": "Congress.gov, H.R. 5060 and H.R. 10111",
+"text": "H.R. 5060, the UAP Whistleblower Protection Act, was introduced by Rep. Tim Burchett in the 119th Congress; its predecessor was H.R. 10111 in the 118th.",
+"tier": 1
+},
+{
+"id": "c-372c9c571c",
+"source": "DefenseScoop, 3 September 2025",
+"text": "Lawmakers took up the bill in the run-up to the 9 September 2025 UAP transparency hearing specifically because existing channels were judged inadequate for UAP witnesses.",
+"tier": 2
 }
 ],
 "cls": "legislation",
 "cluster": "oversight",
 "conflicts": [],
 "connections": [
+{
+"claimTier": 3,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2025",
+"direction": "out",
+"edgeId": "e-072010735c",
+"edgeLabel": "a separate statutory channel is needed because AARO's secure reporting mechanism is not a safe destination",
+"id": "aaro",
+"l0": true,
+"label": "All-domain Anomaly Resolution Office (AARO)",
+"note": "Congress would not build a parallel protection regime if the aaro.mil mechanism functioned; AARO's own FY2025 figures show 255 of 262 contacts declared out of scope.",
+"sources": [
+{
+"date": "2026-07-21",
+"name": "AARO FY2025 Consolidated Annual Report",
+"url": "https://www.aaro.mil/Portals/136/PDFs/FY25%20UAP%20Annual%20Report/AARO_FY2025_Consolidated_Annual_Report_on_UAP.pdf"
+},
+{
+"date": "2025-08-28",
+"name": "Congress.gov - H.R.5060",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/5060/text"
+}
+],
+"tier": "A",
+"type": "legislative"
+},
 {
 "claimTier": 1,
 "cls": "person",
@@ -99,6 +138,28 @@
 "type": "legislative"
 },
 {
+"claimTier": 2,
+"cls": "event",
+"dateEnd": null,
+"dateStart": "2025",
+"direction": "in",
+"edgeId": "e-faf96b3278",
+"edgeLabel": "hearing findings underwrite the UAP Whistleblower Protection Act",
+"id": "hearing-2025-09-09",
+"l0": true,
+"label": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'",
+"note": "The Task Force found witnesses face career damage and retaliation requiring congressional safeguards; the bill was on the agenda in the run-up to the hearing.",
+"sources": [
+{
+"date": "2025-09-03",
+"name": "DefenseScoop - Next UAP disclosure hearing set, as lawmakers consider new whistleblower protections",
+"url": "https://defensescoop.com/2025/09/03/uap-ufo-disclosure-congress-hearing-whistleblower-protection-act/"
+}
+],
+"tier": "A",
+"type": "legislative"
+},
+{
 "claimTier": 1,
 "cls": "person",
 "dateEnd": null,
@@ -109,7 +170,7 @@
 "id": "tim-burchett",
 "l0": false,
 "label": "Timothy Floyd Burchett",
-"note": "Introduced 29 August 2025, eleven days before the Task Force hearing.",
+"note": "H.R. 5060 in the 119th Congress, reintroducing H.R. 10111 from the 118th.",
 "sources": [
 {
 "date": "2025-08-29",
@@ -120,6 +181,11 @@
 "date": "2025-09-08",
 "name": "MeriTalk: Reps. Reintroduce UAP Whistleblower Protection Bill",
 "url": "https://www.meritalk.com/articles/reps-reintroduce-uap-whistleblower-protection-bill/"
+},
+{
+"date": "2025-08-28",
+"name": "Congress.gov - H.R.5060",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/5060/text"
 }
 ],
 "tier": "A",
@@ -129,7 +195,7 @@
 "coords": null,
 "dateEnd": null,
 "dateStart": "2025",
-"deg": 4,
+"deg": 6,
 "denials": [],
 "desc": "The reintroduction, filed 29 August 2025 by Burchett with Luna and Eli Crane as cosponsors, eleven days before the Task Force hearing at which Burlison told the room 'It is fantastic. It is the language that we need. It is language that will protect whistleblowers from any kind of reprisal, and yet it is again and again blocked by this body in some way. Many times, it is being blocked not by elected officials but by staff behind the scenes.' It establishes protections for federal employees who disclose information about government-funded research into UAP-related materials and phenomena. Referred to Oversight and Government Reform and additionally to Armed Services and Intelligence. No markup as of August 2026. Its practical importance is that it is the legislative instrument that would cover Dylan Borland and David Grusch, both of whom testified to the committee about reprisal while the bill sat in referral.",
 "domains": [],
@@ -149,7 +215,8 @@
 "openQuestions": [],
 "short": "H.R. 5060 - UAP Whistleblower Protection Act (119th Congress)",
 "sourceFiles": [
-"congress-house"
+"congress-house",
+"uaptf-aaro"
 ],
 "sources": [
 {
@@ -171,11 +238,26 @@
 "date": "2025-09-09",
 "name": "U.S. GPO, Hearing transcript, Serial No. 119-44 (CHRG-119hhrg61718)",
 "url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm"
+},
+{
+"date": "2025-08-28",
+"name": "Congress.gov - H.R.5060, UAP Whistleblower Protection Act (119th Congress)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/5060/text"
+},
+{
+"date": "2024-11-01",
+"name": "Congress.gov - H.R.10111, UAP Whistleblower Protection Act (118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/10111/text/ih?overview=closed&format=txt"
+},
+{
+"date": "2025-09-03",
+"name": "DefenseScoop - Next UAP disclosure hearing set, as lawmakers consider new whistleblower protections",
+"url": "https://defensescoop.com/2025/09/03/uap-ufo-disclosure-congress-hearing-whistleblower-protection-act/"
 }
 ],
 "sub": "Introduced 29 Aug 2025; referred; pending",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 882 of 1170, score 19). 4 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 647 of 1138, score 26). 6 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D2.",
 "timeline": [
 {
 "claimTier": null,

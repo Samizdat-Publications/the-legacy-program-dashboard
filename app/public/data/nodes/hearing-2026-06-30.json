@@ -67,7 +67,7 @@
 },
 {
 "claimTier": 1,
-"cls": "program",
+"cls": "institution",
 "dateEnd": "2026-06-30",
 "dateStart": "2026-06-30",
 "direction": "out",
@@ -84,7 +84,7 @@
 "url": "https://oversight.house.gov/hearing/mind-control-and-accountability-uncovering-the-truth-of-the-cias-mkultra-project/"
 }
 ],
-"tier": "C",
+"tier": "B",
 "type": "institutional"
 }
 ],
@@ -127,7 +127,7 @@
 ],
 "sub": "Task Force on the Declassification of Federal Secrets, 2154 Rayburn, 10:00 am; Kinzer, O'Neill, Ginexi",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 1107 of 1170, score 11). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 1077 of 1138, score 11). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.",
 "timeline": [
 {
 "claimTier": null,

@@ -1779,6 +1779,38 @@
 "cls": "document",
 "cluster": "ic",
 "denied": false,
+"id": "c-b919cdaa5e",
+"label": "AARO Memorandum for Record: Invitations to Interview Mr. David Grusch (FOIA 24-F-0266)",
+"node": "aaro-grusch-interview-memo",
+"open": false,
+"source": {
+"domain": null,
+"text": "AARO Memorandum for Record, FOIA 24-F-0266",
+"url": null
+},
+"text": "AARO's memorandum for record of 8 January 2024 documents at least eight distinct approaches to Grusch between 8 June 2023 and 19 November 2023 and a scheduled 14 November 2023 interview he did not attend.",
+"tier": 1
+},
+{
+"cls": "document",
+"cluster": "ic",
+"denied": false,
+"id": "c-19b75f5fb6",
+"label": "AARO Memorandum for Record: Invitations to Interview Mr. David Grusch (FOIA 24-F-0266)",
+"node": "aaro-grusch-interview-memo",
+"open": false,
+"source": {
+"domain": null,
+"text": "AARO Memorandum for Record, FOIA 24-F-0266",
+"url": null
+},
+"text": "An ODNI memorandum dated 8 January 2024 affirmed AARO's legal authority to receive classified UAP-related disclosures.",
+"tier": 1
+},
+{
+"cls": "document",
+"cluster": "ic",
+"denied": false,
 "id": "c-1ed966424b",
 "label": "AARO Memorandum for Record: Invitations to Interview Mr. David Grusch (FOIA 24-F-0266)",
 "node": "aaro-grusch-interview-memo",
@@ -1793,43 +1825,11 @@
 },
 {
 "cls": "document",
-"cluster": "other",
+"cluster": "ic",
 "denied": false,
-"id": "c-f5671bb5e3",
-"label": "AARO Memorandum for Record: Invitations to Interview Mr. David Grusch (8 Jan 2024)",
-"node": "aaro-grusch-interview-memo-2024",
-"open": false,
-"source": {
-"domain": null,
-"text": "AARO Memorandum for Record, FOIA 24-F-0266",
-"url": null
-},
-"text": "AARO's memorandum for record of 8 January 2024 documents at least eight distinct approaches to Grusch between 8 June 2023 and 19 November 2023 and a scheduled 14 November 2023 interview he did not attend.",
-"tier": 1
-},
-{
-"cls": "document",
-"cluster": "other",
-"denied": false,
-"id": "c-fdf026462c",
-"label": "AARO Memorandum for Record: Invitations to Interview Mr. David Grusch (8 Jan 2024)",
-"node": "aaro-grusch-interview-memo-2024",
-"open": false,
-"source": {
-"domain": null,
-"text": "AARO Memorandum for Record, FOIA 24-F-0266",
-"url": null
-},
-"text": "An ODNI memorandum dated 8 January 2024 affirmed AARO's legal authority to receive classified UAP-related disclosures.",
-"tier": 1
-},
-{
-"cls": "document",
-"cluster": "other",
-"denied": false,
-"id": "c-8321a8e120",
-"label": "AARO Memorandum for Record: Invitations to Interview Mr. David Grusch (8 Jan 2024)",
-"node": "aaro-grusch-interview-memo-2024",
+"id": "c-1786f3dd2c",
+"label": "AARO Memorandum for Record: Invitations to Interview Mr. David Grusch (FOIA 24-F-0266)",
+"node": "aaro-grusch-interview-memo",
 "open": false,
 "source": {
 "domain": null,
@@ -1841,11 +1841,11 @@
 },
 {
 "cls": "document",
-"cluster": "other",
+"cluster": "ic",
 "denied": false,
-"id": "c-1442f5ab7b",
-"label": "AARO Memorandum for Record: Invitations to Interview Mr. David Grusch (8 Jan 2024)",
-"node": "aaro-grusch-interview-memo-2024",
+"id": "c-1cc46ecdf3",
+"label": "AARO Memorandum for Record: Invitations to Interview Mr. David Grusch (FOIA 24-F-0266)",
+"node": "aaro-grusch-interview-memo",
 "open": false,
 "source": {
 "domain": null,
@@ -3043,6 +3043,22 @@
 "cls": "document",
 "cluster": "ic",
 "denied": false,
+"id": "c-fa6a413d70",
+"label": "AARO / ORNL Synopsis: Analysis of a Metallic Specimen",
+"node": "aaro-metallic-specimen-analysis",
+"open": false,
+"source": {
+"domain": null,
+"text": "AARO UAP Records/Information Papers page",
+"url": null
+},
+"text": "The report is titled 'ORNL Synopsis: Analysis of a Metallic Specimen', dated April 2024, produced under a 2022 AARO contract with Oak Ridge National Laboratory.",
+"tier": 1
+},
+{
+"cls": "document",
+"cluster": "ic",
+"denied": false,
 "id": "c-21cce3f392",
 "label": "AARO / ORNL Synopsis: Analysis of a Metallic Specimen",
 "node": "aaro-metallic-specimen-analysis",
@@ -3054,6 +3070,38 @@
 },
 "text": "The reports acknowledge the specimen's 'undocumented chain of custody and conflicting personal accounts' leave its exact historical origin and purpose unclear.",
 "tier": 1
+},
+{
+"cls": "document",
+"cluster": "ic",
+"denied": false,
+"id": "c-f03a2ef640",
+"label": "AARO / ORNL Synopsis: Analysis of a Metallic Specimen",
+"node": "aaro-metallic-specimen-analysis",
+"open": false,
+"source": {
+"domain": null,
+"text": "Gizmodo, 11 July 2024, quoting the published synopsis",
+"url": null
+},
+"text": "Neither AARO nor ORNL could verify the specimen's historical origin.",
+"tier": 2
+},
+{
+"cls": "document",
+"cluster": "ic",
+"denied": false,
+"id": "c-75c22fe63f",
+"label": "AARO / ORNL Synopsis: Analysis of a Metallic Specimen",
+"node": "aaro-metallic-specimen-analysis",
+"open": false,
+"source": {
+"domain": null,
+"text": "NewsNation, 11 July 2024; Popular Mechanics, 23 March 2026",
+"url": null
+},
+"text": "The analysis concluded the material is a magnesium alloy and found no evidence of extraterrestrial origin; ORNL scientists examined it for technosignatures using scanning transmission electron microscopy after finding no biosignatures.",
+"tier": 2
 },
 {
 "cls": "program",
@@ -3795,6 +3843,22 @@
 "cls": "document",
 "cluster": "legacy",
 "denied": true,
+"id": "c-024d9c7ea4",
+"label": "DIA Contract HHM402-08-C-0072 (BAASS)",
+"node": "aawsap-contract",
+"open": false,
+"source": {
+"domain": "www.dia.mil",
+"text": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237652/",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237652/"
+},
+"text": "Contract number HHM402-08-C-0072; contract signed 22 September 2008; awarded off solicitation HHM402-08-R-0211 (posted 18 Aug 2008, responses due 5 Sep 2008). Modification P00001 effective 02 September 2009 exercised/continued the effort.",
+"tier": 1
+},
+{
+"cls": "document",
+"cluster": "legacy",
+"denied": true,
 "id": "c-cd9ea952f0",
 "label": "DIA Contract HHM402-08-C-0072 (BAASS)",
 "node": "aawsap-contract",
@@ -3805,6 +3869,38 @@
 "url": null
 },
 "text": "DIA withheld the AAWSAP contract in a 2011 FOIA response, releasing it only in October 2022.",
+"tier": 1
+},
+{
+"cls": "document",
+"cluster": "legacy",
+"denied": true,
+"id": "c-d9fe8e3474",
+"label": "DIA Contract HHM402-08-C-0072 (BAASS)",
+"node": "aawsap-contract",
+"open": false,
+"source": {
+"domain": "www.dia.mil",
+"text": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237613/",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237613/"
+},
+"text": "DIA's own 16 December 2008 status briefing is headed 'Advanced Aerospace Weapon System Applications Contract Status — Contract HHM402-08-C-0072' and describes the contract focus as 'Advanced (unconventional) aerospace weapon' technologies.",
+"tier": 1
+},
+{
+"cls": "document",
+"cluster": "legacy",
+"denied": true,
+"id": "c-c5da84a5f0",
+"label": "DIA Contract HHM402-08-C-0072 (BAASS)",
+"node": "aawsap-contract",
+"open": false,
+"source": {
+"domain": "www.fpds.gov",
+"text": "https://www.fpds.gov/ezsearch/FEEDS/ATOM?FEEDNAME=PUBLIC&q=PIID%3A%22HHM402-08-C-0072%22",
+"url": "https://www.fpds.gov/ezsearch/FEEDS/ATOM?FEEDNAME=PUBLIC&q=PIID%3A%22HHM402-08-C-0072%22"
+},
+"text": "The contract does not appear in public federal contract data: an FPDS-NG ATOM query for PIID \"HHM402-08-C-0072\" returns an empty result feed, and USAspending.gov returns 404 for the corresponding generated award IDs.",
 "tier": 1
 },
 {
@@ -3825,59 +3921,11 @@
 },
 {
 "cls": "document",
-"cluster": "other",
-"denied": false,
-"id": "c-f45e5b201c",
-"label": "DIA Contract HHM402-08-C-0072 (AAWSAP / BAASS)",
-"node": "aawsap-contract-hhm402-08-c-0072",
-"open": false,
-"source": {
-"domain": "www.dia.mil",
-"text": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237652/",
-"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237652/"
-},
-"text": "Contract number HHM402-08-C-0072; contract signed 22 September 2008; awarded off solicitation HHM402-08-R-0211 (posted 18 Aug 2008, responses due 5 Sep 2008). Modification P00001 effective 02 September 2009 exercised/continued the effort.",
-"tier": 1
-},
-{
-"cls": "document",
-"cluster": "other",
-"denied": false,
-"id": "c-a2c7ba84e3",
-"label": "DIA Contract HHM402-08-C-0072 (AAWSAP / BAASS)",
-"node": "aawsap-contract-hhm402-08-c-0072",
-"open": false,
-"source": {
-"domain": "www.dia.mil",
-"text": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237613/",
-"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237613/"
-},
-"text": "DIA's own 16 December 2008 status briefing is headed 'Advanced Aerospace Weapon System Applications Contract Status — Contract HHM402-08-C-0072' and describes the contract focus as 'Advanced (unconventional) aerospace weapon' technologies.",
-"tier": 1
-},
-{
-"cls": "document",
-"cluster": "other",
-"denied": false,
-"id": "c-e240a0dd49",
-"label": "DIA Contract HHM402-08-C-0072 (AAWSAP / BAASS)",
-"node": "aawsap-contract-hhm402-08-c-0072",
-"open": false,
-"source": {
-"domain": "www.fpds.gov",
-"text": "https://www.fpds.gov/ezsearch/FEEDS/ATOM?FEEDNAME=PUBLIC&q=PIID%3A%22HHM402-08-C-0072%22",
-"url": "https://www.fpds.gov/ezsearch/FEEDS/ATOM?FEEDNAME=PUBLIC&q=PIID%3A%22HHM402-08-C-0072%22"
-},
-"text": "The contract does not appear in public federal contract data: an FPDS-NG ATOM query for PIID \"HHM402-08-C-0072\" returns an empty result feed, and USAspending.gov returns 404 for the corresponding generated award IDs.",
-"tier": 1
-},
-{
-"cls": "document",
-"cluster": "other",
-"denied": false,
-"id": "c-94f09d7529",
-"label": "DIA Contract HHM402-08-C-0072 (AAWSAP / BAASS)",
-"node": "aawsap-contract-hhm402-08-c-0072",
+"cluster": "legacy",
+"denied": true,
+"id": "c-6b7d049ee2",
+"label": "DIA Contract HHM402-08-C-0072 (BAASS)",
+"node": "aawsap-contract",
 "open": false,
 "source": {
 "domain": "www.dia.mil",
@@ -5283,9 +5331,9 @@
 "cls": "document",
 "cluster": "media",
 "denied": false,
-"id": "c-6dbf3a4aef",
-"label": "'The Age of Disclosure' (2025 documentary, dir. Dan Farah)",
-"node": "age-of-disclosure-2025",
+"id": "c-e1e19ce3a4",
+"label": "The Age of Disclosure (documentary, 2025)",
+"node": "age-of-disclosure",
 "open": false,
 "source": {
 "domain": null,
@@ -16467,6 +16515,22 @@
 "cls": "document",
 "cluster": "oversight",
 "denied": true,
+"id": "c-64136c0284",
+"label": "Rep. Eli Crane letter to the Secretary of Defense re: Major David Charles Grusch reprisal",
+"node": "crane-dod-reprisal-letter",
+"open": false,
+"source": {
+"domain": null,
+"text": "CHRG-119hhrg61718, 9 September 2025",
+"url": null
+},
+"text": "Crane on the record: Grusch 'suffered reprisal like the removal of his clearance, denial of promotion, and loss of medical retirement. I wrote the DOD on July 24, 2025, on behalf of Major Grusch, and I am still waiting for a reply.'",
+"tier": 1
+},
+{
+"cls": "document",
+"cluster": "oversight",
+"denied": true,
 "id": "c-901a862429",
 "label": "Rep. Eli Crane letter to the Secretary of Defense re: Major David Charles Grusch reprisal",
 "node": "crane-dod-reprisal-letter",
@@ -16482,26 +16546,10 @@
 {
 "cls": "document",
 "cluster": "oversight",
-"denied": false,
-"id": "c-3f361a3645",
-"label": "Rep. Crane letter to the Secretary of Defense on Grusch reprisal, 24 July 2025",
-"node": "crane-secdef-grusch-reprisal-letter-2025",
-"open": false,
-"source": {
-"domain": null,
-"text": "CHRG-119hhrg61718, 9 September 2025",
-"url": null
-},
-"text": "Crane on the record: Grusch 'suffered reprisal like the removal of his clearance, denial of promotion, and loss of medical retirement. I wrote the DOD on July 24, 2025, on behalf of Major Grusch, and I am still waiting for a reply.'",
-"tier": 1
-},
-{
-"cls": "document",
-"cluster": "oversight",
-"denied": false,
-"id": "c-08bee1e6d2",
-"label": "Rep. Crane letter to the Secretary of Defense on Grusch reprisal, 24 July 2025",
-"node": "crane-secdef-grusch-reprisal-letter-2025",
+"denied": true,
+"id": "c-78ff5de083",
+"label": "Rep. Eli Crane letter to the Secretary of Defense re: Major David Charles Grusch reprisal",
+"node": "crane-dod-reprisal-letter",
 "open": false,
 "source": {
 "domain": null,
@@ -17501,54 +17549,6 @@
 "url": null
 },
 "text": "The combination of contractor-held records outside FOIA, disclosure obligations running only to the sponsoring agency, and permanent sole-source relationships makes the FFRDC layer the single most defensible place in the US system to host an unacknowledged programme. Reasoning: each of the three properties independently removes an oversight mechanism, and no other institutional form removes all three simultaneously.",
-"tier": 3
-},
-{
-"cls": "domain",
-"cluster": "ffrdc",
-"denied": false,
-"id": "c-89989d12ff",
-"label": "The FFRDC Mechanism",
-"node": "d-ffrdc-mechanism",
-"open": false,
-"source": {
-"domain": null,
-"text": "FAR 35.017",
-"url": null
-},
-"text": "FAR 35.017 requires the FFRDC to operate in the public interest with objectivity and independence, to be free from organisational conflicts of interest, and to disclose its affairs fully to the sponsoring agency.",
-"tier": 1
-},
-{
-"cls": "domain",
-"cluster": "ffrdc",
-"denied": false,
-"id": "c-b3b60f9762",
-"label": "The FFRDC Mechanism",
-"node": "d-ffrdc-mechanism",
-"open": false,
-"source": {
-"domain": null,
-"text": "Federal Acquisition Regulation Part 35.017",
-"url": null
-},
-"text": "FAR 35.017 states that an FFRDC has access to government and supplier data, including sensitive and proprietary information, and to employees and facilities beyond that common in a normal contractual relationship.",
-"tier": 1
-},
-{
-"cls": "domain",
-"cluster": "ffrdc",
-"denied": false,
-"id": "c-3e61fe837b",
-"label": "The FFRDC Mechanism",
-"node": "d-ffrdc-mechanism",
-"open": false,
-"source": {
-"domain": null,
-"text": "Inference from FOIA's agency-records definition and FAR 35.017",
-"url": null
-},
-"text": "Because FFRDC records are contractor records rather than agency records, work performed under this mechanism is outside FOIA while remaining under the sponsor's classification authority. Reasoning: FOIA reaches agency records only; the FFRDC operator is a private entity.",
 "tier": 3
 },
 {
@@ -22035,9 +22035,9 @@
 "cls": "document",
 "cluster": "other",
 "denied": false,
-"id": "c-7b1a1e4ba6",
-"label": "DIA Info Memo U-09-2660 - denial of restricted SAP for AAWSAP (13 Nov 2009)",
-"node": "dia-sap-denial-2009",
+"id": "c-e8156d4357",
+"label": "DIA Memorandum: Review of Special Access Program Request (U-09-2660CE-IM)",
+"node": "dia-sap-denial-memo-2009",
 "open": false,
 "source": {
 "domain": "www.dia.mil",
@@ -22046,54 +22046,6 @@
 },
 "text": "DIA Info Memo U-10-2552 records the outcome of the follow-on meeting: 'In November, 2009, Deputy Secretary of Defense Lynn and I met with Senator Reid to discuss this program. At that time, we determined the reports were of limited value to DIA. However, I did suggest they could be of merit to other organizations and, that upon the completion of the DIA contract, the project could be transitioned to another agency or component better suited to oversee the project.'",
 "tier": 1
-},
-{
-"cls": "document",
-"cluster": "other",
-"denied": false,
-"id": "c-2ee37147c2",
-"label": "DIA Info Memo U-09-2660 - denial of restricted SAP for AAWSAP (13 Nov 2009)",
-"node": "dia-sap-denial-2009",
-"open": false,
-"source": {
-"domain": "www.dia.mil",
-"text": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237611/",
-"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237611/"
-},
-"text": "Finding: 'In reviewing the deliverables to date and looking ahead to planned production in fiscal year (FY) 2010, DIA cannot find adequate justification to establish a restricted SAP... Based on classification levels of current and projected program deliverables, there are insufficient grounds to classify this open program, invoke alternative or compensatory control measures (ACCM), or establish a restricted SAP.'",
-"tier": 1
-},
-{
-"cls": "document",
-"cluster": "other",
-"denied": false,
-"id": "c-f70609ca9e",
-"label": "DIA Info Memo U-09-2660 - denial of restricted SAP for AAWSAP (13 Nov 2009)",
-"node": "dia-sap-denial-2009",
-"open": false,
-"source": {
-"domain": "www.dia.mil",
-"text": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237611/",
-"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237611/"
-},
-"text": "Memo header: 'DEFENSE INTELLIGENCE AGENCY, WASHINGTON, D.C. 20340-5100 — INFO MEMO, U-09-2660, NOV 13 2009. FOR: DIRECTOR, SPECIAL PROGRAMS, OFFICE OF THE UNDER SECRETARY OF DEFENSE FOR INTELLIGENCE. SUBJECT: (U) Review of Special Access Program Request.'",
-"tier": 1
-},
-{
-"cls": "document",
-"cluster": "other",
-"denied": false,
-"id": "c-5a33b1bcfa",
-"label": "DIA Info Memo U-09-2660 - denial of restricted SAP for AAWSAP (13 Nov 2009)",
-"node": "dia-sap-denial-2009",
-"open": false,
-"source": {
-"domain": "www.dia.mil",
-"text": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237626/",
-"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237626/"
-},
-"text": "The explicit suggestion that 'the project could be transitioned to another agency or component better suited to oversee the project' is the documented hinge between AAWSAP's DIA phase and whatever followed it — the same transition path AARO later describes ending in the rejected KONA BLUE proposal to DHS.",
-"tier": 3
 },
 {
 "cls": "document",
@@ -22126,6 +22078,54 @@
 },
 "text": "DIA stated the information is 'not owned by, produced by or for, or under control of the U.S. government' and that DIA is 'prohibited from classifying basic scientific research' absent a national security nexus.",
 "tier": 1
+},
+{
+"cls": "document",
+"cluster": "other",
+"denied": false,
+"id": "c-7863c087ce",
+"label": "DIA Memorandum: Review of Special Access Program Request (U-09-2660CE-IM)",
+"node": "dia-sap-denial-memo-2009",
+"open": false,
+"source": {
+"domain": "www.dia.mil",
+"text": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237611/",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237611/"
+},
+"text": "Finding: 'In reviewing the deliverables to date and looking ahead to planned production in fiscal year (FY) 2010, DIA cannot find adequate justification to establish a restricted SAP... Based on classification levels of current and projected program deliverables, there are insufficient grounds to classify this open program, invoke alternative or compensatory control measures (ACCM), or establish a restricted SAP.'",
+"tier": 1
+},
+{
+"cls": "document",
+"cluster": "other",
+"denied": false,
+"id": "c-04ca9bad0b",
+"label": "DIA Memorandum: Review of Special Access Program Request (U-09-2660CE-IM)",
+"node": "dia-sap-denial-memo-2009",
+"open": false,
+"source": {
+"domain": "www.dia.mil",
+"text": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237611/",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237611/"
+},
+"text": "Memo header: 'DEFENSE INTELLIGENCE AGENCY, WASHINGTON, D.C. 20340-5100 — INFO MEMO, U-09-2660, NOV 13 2009. FOR: DIRECTOR, SPECIAL PROGRAMS, OFFICE OF THE UNDER SECRETARY OF DEFENSE FOR INTELLIGENCE. SUBJECT: (U) Review of Special Access Program Request.'",
+"tier": 1
+},
+{
+"cls": "document",
+"cluster": "other",
+"denied": false,
+"id": "c-18770fca54",
+"label": "DIA Memorandum: Review of Special Access Program Request (U-09-2660CE-IM)",
+"node": "dia-sap-denial-memo-2009",
+"open": false,
+"source": {
+"domain": "www.dia.mil",
+"text": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237626/",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237626/"
+},
+"text": "The explicit suggestion that 'the project could be transitioned to another agency or component better suited to oversee the project' is the documented hinge between AAWSAP's DIA phase and whatever followed it — the same transition path AARO later describes ending in the rejected KONA BLUE proposal to DHS.",
+"tier": 3
 },
 {
 "cls": "document",
@@ -28099,6 +28099,22 @@
 "cls": "institution",
 "cluster": "oversight",
 "denied": false,
+"id": "c-22e0862b11",
+"label": "Department of Defense Office of Inspector General",
+"node": "dod-oig",
+"open": false,
+"source": {
+"domain": "www.dodig.mil",
+"text": "https://www.dodig.mil/About/Leadership/",
+"url": "https://www.dodig.mil/About/Leadership/"
+},
+"text": "The OIG leadership page identifies Platte B. Moring III as Inspector General of the Department of War.",
+"tier": 1
+},
+{
+"cls": "institution",
+"cluster": "oversight",
+"denied": false,
 "id": "c-a8c5e356bf",
 "label": "Department of Defense Office of Inspector General",
 "node": "dod-oig",
@@ -28110,6 +28126,38 @@
 },
 "text": "The full DODIG-2023-109 report is classified; the OIG released only an unclassified summary, and issued a press release on 25 January 2024.",
 "tier": 1
+},
+{
+"cls": "institution",
+"cluster": "oversight",
+"denied": false,
+"id": "c-bf0f285054",
+"label": "Department of Defense Office of Inspector General",
+"node": "dod-oig",
+"open": false,
+"source": {
+"domain": "media.defense.gov",
+"text": "https://media.defense.gov/2016/Jul/26/2001714261/-1/-1/1/DODIG-2016-113.pdf — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
+"url": "https://media.defense.gov/2016/Jul/26/2001714261/-1/-1/1/DODIG-2016-113.pdf"
+},
+"text": "The OIG issued DODIG-2016-113 on 26 July 2016 finding $2.8 trillion in unsupported third quarter and $6.5 trillion in unsupported yearend journal voucher adjustments to Army General Fund data for FY2015.",
+"tier": 2
+},
+{
+"cls": "institution",
+"cluster": "oversight",
+"denied": false,
+"id": "c-2ba9feba90",
+"label": "Department of Defense Office of Inspector General",
+"node": "dod-oig",
+"open": false,
+"source": {
+"domain": "media.defense.gov",
+"text": "https://media.defense.gov/2026/May/12/2003929535/-1/-1/1/FY%202025%20DOW%20FINANCIAL%20STATEMENT%20AUDIT%20EXPLAINED_V6.PDF — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
+"url": "https://media.defense.gov/2026/May/12/2003929535/-1/-1/1/FY%202025%20DOW%20FINANCIAL%20STATEMENT%20AUDIT%20EXPLAINED_V6.PDF"
+},
+"text": "The OIG issued DOWIG-2026-081 on 12 May 2026 recording an eighth consecutive disclaimer of opinion and 26 material weaknesses for FY2025.",
+"tier": 2
 },
 {
 "cls": "institution",
@@ -29422,54 +29470,6 @@
 },
 "text": "The structural/content distinction is load-bearing for any search of SAP nomenclature: a structural SAP is a container with a codeword and no content of its own, so a program name appearing in budget or security documentation may correspond to no discrete body of protected information at all. Conversely, discrete CPI can be moved between compartments under an unchanged tier-1 umbrella name without any tier-1 action reaching the Secretary. Reasoning stated from the 1.2 tier description.",
 "tier": 3
-},
-{
-"cls": "institution",
-"cluster": "oversight",
-"denied": false,
-"id": "c-0b9bb2e7d4",
-"label": "Office of Inspector General, Department of Defense / Department of War",
-"node": "dodig",
-"open": false,
-"source": {
-"domain": "www.dodig.mil",
-"text": "https://www.dodig.mil/About/Leadership/",
-"url": "https://www.dodig.mil/About/Leadership/"
-},
-"text": "The OIG leadership page identifies Platte B. Moring III as Inspector General of the Department of War.",
-"tier": 1
-},
-{
-"cls": "institution",
-"cluster": "oversight",
-"denied": false,
-"id": "c-83c44907be",
-"label": "Office of Inspector General, Department of Defense / Department of War",
-"node": "dodig",
-"open": false,
-"source": {
-"domain": "media.defense.gov",
-"text": "https://media.defense.gov/2016/Jul/26/2001714261/-1/-1/1/DODIG-2016-113.pdf — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
-"url": "https://media.defense.gov/2016/Jul/26/2001714261/-1/-1/1/DODIG-2016-113.pdf"
-},
-"text": "The OIG issued DODIG-2016-113 on 26 July 2016 finding $2.8 trillion in unsupported third quarter and $6.5 trillion in unsupported yearend journal voucher adjustments to Army General Fund data for FY2015.",
-"tier": 2
-},
-{
-"cls": "institution",
-"cluster": "oversight",
-"denied": false,
-"id": "c-f719043870",
-"label": "Office of Inspector General, Department of Defense / Department of War",
-"node": "dodig",
-"open": false,
-"source": {
-"domain": "media.defense.gov",
-"text": "https://media.defense.gov/2026/May/12/2003929535/-1/-1/1/FY%202025%20DOW%20FINANCIAL%20STATEMENT%20AUDIT%20EXPLAINED_V6.PDF — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
-"url": "https://media.defense.gov/2026/May/12/2003929535/-1/-1/1/FY%202025%20DOW%20FINANCIAL%20STATEMENT%20AUDIT%20EXPLAINED_V6.PDF"
-},
-"text": "The OIG issued DOWIG-2026-081 on 12 May 2026 recording an eighth consecutive disclaimer of opinion and 26 material weaknesses for FY2025.",
-"tier": 2
 },
 {
 "cls": "document",
@@ -31533,6 +31533,38 @@
 "url": null
 },
 "text": "Named in TTSA's SEC offering materials as the research partner for the ADAM Research Project.",
+"tier": 1
+},
+{
+"cls": "institution",
+"cluster": "research",
+"denied": false,
+"id": "c-ed2264504c",
+"label": "EarthTech International / Institute for Advanced Studies at Austin",
+"node": "earthtech-international",
+"open": true,
+"source": {
+"domain": null,
+"text": "Preface of the Green DIRD",
+"url": null
+},
+"text": "The DIRD's preface quotes a November 2007 proposal addressed 'to Puthoff/Hathaway' proposing outsourcing of a medical analysis of archival data on physiological effects of 'exotic propulsion' fields.",
+"tier": 1
+},
+{
+"cls": "institution",
+"cluster": "research",
+"denied": false,
+"id": "c-edfec7dae1",
+"label": "EarthTech International / Institute for Advanced Studies at Austin",
+"node": "earthtech-international",
+"open": true,
+"source": {
+"domain": null,
+"text": "Cover page of 'Clinical Medical Acute & Subacute Field Effects on Human Dermal & Neurological Tissues'",
+"url": null
+},
+"text": "The IASA imprint appears on the cover of the AAWSAP medical DIRD authored by Christopher Green, M.D., Ph.D.",
 "tier": 1
 },
 {
@@ -37555,6 +37587,38 @@
 "cls": "document",
 "cluster": "oversight",
 "denied": true,
+"id": "c-b05c02f193",
+"label": "GAO/NSIAD-95-187 - Results of a Search for Records Concerning the 1947 Crash Near Roswell",
+"node": "gao-nsiad-95-187",
+"open": false,
+"source": {
+"domain": null,
+"text": "GAO/NSIAD-95-187",
+"url": null
+},
+"text": "'Our search for government records concerning the Roswell crash yielded two records originating in 1947.'",
+"tier": 1
+},
+{
+"cls": "document",
+"cluster": "oversight",
+"denied": true,
+"id": "c-fb92610f3c",
+"label": "GAO/NSIAD-95-187 - Results of a Search for Records Concerning the 1947 Crash Near Roswell",
+"node": "gao-nsiad-95-187",
+"open": false,
+"source": {
+"domain": null,
+"text": "GAO/NSIAD-95-187, 28 July 1995",
+"url": null
+},
+"text": "'RAAF administrative records (from Mar. 1945 through Dec. 1949) and RAAF outgoing messages (from Oct. 1946 through Dec. 1949) were destroyed. The document disposition form does not indicate what organization or person destroyed the records and when or under what authority the records were destroyed.'",
+"tier": 1
+},
+{
+"cls": "document",
+"cluster": "oversight",
+"denied": true,
 "id": "c-303fdc4707",
 "label": "GAO/NSIAD-95-187 - Results of a Search for Records Concerning the 1947 Crash Near Roswell",
 "node": "gao-nsiad-95-187",
@@ -37597,6 +37661,22 @@
 "url": null
 },
 "text": "GAO recorded that on 8 July 1947 an Eighth Air Force headquarters official telephonically informed the FBI's Dallas office of the recovery near Roswell of 'a hexagonal-shaped disc suspended from a large balloon by cable' which 'resembled a high-altitude weather balloon with a radar reflector'.",
+"tier": 1
+},
+{
+"cls": "document",
+"cluster": "oversight",
+"denied": true,
+"id": "c-dd0bc665b8",
+"label": "GAO/NSIAD-95-187 - Results of a Search for Records Concerning the 1947 Crash Near Roswell",
+"node": "gao-nsiad-95-187",
+"open": false,
+"source": {
+"domain": null,
+"text": "GAO/NSIAD-95-187, appendix",
+"url": null
+},
+"text": "GAO's record-set search list includes 'National Security Agency, Fort Meade, Md. - FOIA records, Citizens Against UFO Secrecy.'",
 "tier": 1
 },
 {
@@ -37662,54 +37742,6 @@
 },
 "text": "Destruction of a specific base's entire outgoing message traffic covering precisely the period of the alleged recovery, with no surviving disposition authority, is the strongest documented indicator of deliberate record removal in the legacy corpus.",
 "tier": 3
-},
-{
-"cls": "document",
-"cluster": "oversight",
-"denied": false,
-"id": "c-1a029435d2",
-"label": "GAO/NSIAD-95-187, Government Records: Results of a Search for Records Concerning the 1947 Crash Near Roswell, New Mexico",
-"node": "gao-roswell-report-1995",
-"open": false,
-"source": {
-"domain": null,
-"text": "GAO/NSIAD-95-187",
-"url": null
-},
-"text": "'Our search for government records concerning the Roswell crash yielded two records originating in 1947.'",
-"tier": 1
-},
-{
-"cls": "document",
-"cluster": "oversight",
-"denied": false,
-"id": "c-f3df279e28",
-"label": "GAO/NSIAD-95-187, Government Records: Results of a Search for Records Concerning the 1947 Crash Near Roswell, New Mexico",
-"node": "gao-roswell-report-1995",
-"open": false,
-"source": {
-"domain": null,
-"text": "GAO/NSIAD-95-187, 28 July 1995",
-"url": null
-},
-"text": "'RAAF administrative records (from Mar. 1945 through Dec. 1949) and RAAF outgoing messages (from Oct. 1946 through Dec. 1949) were destroyed. The document disposition form does not indicate what organization or person destroyed the records and when or under what authority the records were destroyed.'",
-"tier": 1
-},
-{
-"cls": "document",
-"cluster": "oversight",
-"denied": false,
-"id": "c-080c401cf3",
-"label": "GAO/NSIAD-95-187, Government Records: Results of a Search for Records Concerning the 1947 Crash Near Roswell, New Mexico",
-"node": "gao-roswell-report-1995",
-"open": false,
-"source": {
-"domain": null,
-"text": "GAO/NSIAD-95-187, appendix",
-"url": null
-},
-"text": "GAO's record-set search list includes 'National Security Agency, Fort Meade, Md. - FOIA records, Citizens Against UFO Secrecy.'",
-"tier": 1
 },
 {
 "cls": "person",
@@ -39603,6 +39635,54 @@
 "cls": "document",
 "cluster": "research",
 "denied": true,
+"id": "c-413d209acc",
+"label": "UAP Gerb - The MITRE Corporation investigation",
+"node": "gerb-mitre-investigation",
+"open": false,
+"source": {
+"domain": null,
+"text": "UAP Gerb video description, 7 August 2026",
+"url": null
+},
+"text": "It alleges MITRE's role in two Navy-spearheaded legacy programmes: reverse engineering and maturation of non-human technologies from late-1940s recoveries, central to the MITRE portfolio since 1958; and tracking of an enormous USO with permanent or semi-permanent Atlantic station, with all-source data processed by MITRE.",
+"tier": 2
+},
+{
+"cls": "document",
+"cluster": "research",
+"denied": true,
+"id": "c-66eeaec9a5",
+"label": "UAP Gerb - The MITRE Corporation investigation",
+"node": "gerb-mitre-investigation",
+"open": false,
+"source": {
+"domain": null,
+"text": "UAP Gerb video description, 7 August 2026",
+"url": null
+},
+"text": "It alleges a legacy programme briefing restriction initiated in 2011 to cease historical briefings on programme incumbents.",
+"tier": 2
+},
+{
+"cls": "document",
+"cluster": "research",
+"denied": true,
+"id": "c-1028666d2b",
+"label": "UAP Gerb - The MITRE Corporation investigation",
+"node": "gerb-mitre-investigation",
+"open": false,
+"source": {
+"domain": null,
+"text": "UAP Gerb video description, 7 August 2026 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"url": null
+},
+"text": "It states that MITRE, its 15 MITRE Labs and 6 operational FFRDCs have served as a long-term strategic partner in the US Government's and DoD's most national-security-sensitive national programs since 1958.",
+"tier": 2
+},
+{
+"cls": "document",
+"cluster": "research",
+"denied": true,
 "id": "c-ef3c50efe0",
 "label": "UAP Gerb - The MITRE Corporation investigation",
 "node": "gerb-mitre-investigation",
@@ -39646,6 +39726,38 @@
 },
 "text": "MITRE processes all-source data for the tracking and monitoring of an enormous USO ('tic tac factory') with permanent or semi-permanent station in the Atlantic.",
 "tier": 2
+},
+{
+"cls": "document",
+"cluster": "research",
+"denied": true,
+"id": "c-e8b18a23b9",
+"label": "UAP Gerb - The MITRE Corporation investigation",
+"node": "gerb-mitre-investigation",
+"open": false,
+"source": {
+"domain": null,
+"text": "YouTube publication record and description, 7 August 2026 — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"url": null
+},
+"text": "The investigation was published 7 August 2026 by UAP Gerb, runs approximately two hours, and includes chapters titled FFRDC Primer, The MITRE Corporation, MITRE & UFO Legacy Programs, MITRE Gatekeepers, and MITRE Interrogative.",
+"tier": 2
+},
+{
+"cls": "document",
+"cluster": "research",
+"denied": true,
+"id": "c-609d946451",
+"label": "UAP Gerb - The MITRE Corporation investigation",
+"node": "gerb-mitre-investigation",
+"open": false,
+"source": {
+"domain": null,
+"text": "Cross-reference against CRS R44629's summary of FAR 35.017",
+"url": null
+},
+"text": "Its central structural claim - that FFRDCs arbitrate what UFO programme information reaches defence contractors - is independently supported by FAR 35.017's grant of access to both government and supplier data beyond a normal contractual relationship. Reasoning: the regulation creates the chokepoint regardless of whether the specific allegations hold.",
+"tier": 3
 },
 {
 "cls": "document",
@@ -43971,38 +44083,6 @@
 "cls": "legislation",
 "cluster": "oversight",
 "denied": false,
-"id": "c-082e5325ee",
-"label": "H.R. 5060 - UAP Whistleblower Protection Act (119th Congress)",
-"node": "hr-5060",
-"open": false,
-"source": {
-"domain": null,
-"text": "Congress.gov, H.R. 5060 and H.R. 10111",
-"url": null
-},
-"text": "H.R. 5060, the UAP Whistleblower Protection Act, was introduced by Rep. Tim Burchett in the 119th Congress; its predecessor was H.R. 10111 in the 118th.",
-"tier": 1
-},
-{
-"cls": "legislation",
-"cluster": "oversight",
-"denied": false,
-"id": "c-45249438ef",
-"label": "H.R. 5060 - UAP Whistleblower Protection Act (119th Congress)",
-"node": "hr-5060",
-"open": false,
-"source": {
-"domain": null,
-"text": "DefenseScoop, 3 September 2025",
-"url": null
-},
-"text": "Lawmakers took up the bill in the run-up to the 9 September 2025 UAP transparency hearing specifically because existing channels were judged inadequate for UAP witnesses.",
-"tier": 2
-},
-{
-"cls": "legislation",
-"cluster": "oversight",
-"denied": false,
 "id": "c-ea62b8981e",
 "label": "H.R. 5060 - UAP Whistleblower Protection Act (119th Congress)",
 "node": "hr-5060-uap-whistleblower-protection-act",
@@ -44013,6 +44093,22 @@
 "url": null
 },
 "text": "Burlison, on the record: the bill 'is language that will protect whistleblowers from any kind of reprisal, and yet it is again and again blocked by this body in some way. Many times, it is being blocked not by elected officials but by staff behind the scenes.'",
+"tier": 1
+},
+{
+"cls": "legislation",
+"cluster": "oversight",
+"denied": false,
+"id": "c-69b007ddee",
+"label": "H.R. 5060 - UAP Whistleblower Protection Act (119th Congress)",
+"node": "hr-5060-uap-whistleblower-protection-act",
+"open": false,
+"source": {
+"domain": null,
+"text": "Congress.gov, H.R. 5060 and H.R. 10111",
+"url": null
+},
+"text": "H.R. 5060, the UAP Whistleblower Protection Act, was introduced by Rep. Tim Burchett in the 119th Congress; its predecessor was H.R. 10111 in the 118th.",
 "tier": 1
 },
 {
@@ -44045,6 +44141,22 @@
 "url": null
 },
 "text": "Establishes whistleblower protections for federal employees who disclose government-funded research into materials linked to UAP.",
+"tier": 2
+},
+{
+"cls": "legislation",
+"cluster": "oversight",
+"denied": false,
+"id": "c-372c9c571c",
+"label": "H.R. 5060 - UAP Whistleblower Protection Act (119th Congress)",
+"node": "hr-5060-uap-whistleblower-protection-act",
+"open": false,
+"source": {
+"domain": null,
+"text": "DefenseScoop, 3 September 2025",
+"url": null
+},
+"text": "Lawmakers took up the bill in the run-up to the 9 September 2025 UAP transparency hearing specifically because existing channels were judged inadequate for UAP witnesses.",
 "tier": 2
 },
 {
@@ -44387,6 +44499,22 @@
 "cls": "legislation",
 "cluster": "oversight",
 "denied": false,
+"id": "c-e6d5c6eef1",
+"label": "FY2024 Intelligence Authorization Act sec. 7343 - Funding Limitations Relating to UAP",
+"node": "iaa-fy2024-7343",
+"open": false,
+"source": {
+"domain": null,
+"text": "P.L. 118-31, Sec. 7343(c), GPO",
+"url": null
+},
+"text": "Sec. 7343(c) as enacted refers to 'contracts covered by such instruction' although no instruction is identified anywhere in the section.",
+"tier": 1
+},
+{
+"cls": "legislation",
+"cluster": "oversight",
+"denied": false,
 "id": "c-db7e0327fc",
 "label": "FY2024 Intelligence Authorization Act sec. 7343 - Funding Limitations Relating to UAP",
 "node": "iaa-fy2024-7343",
@@ -44398,6 +44526,86 @@
 },
 "text": "Sec. 7343(c): 'Independent research and development funding relating to unidentified anomalous phenomena shall not be allowable as indirect expenses for purposes of contracts covered by such instruction, unless such material and information is made available to the appropriate congressional committees and leadership.'",
 "tier": 1
+},
+{
+"cls": "legislation",
+"cluster": "oversight",
+"denied": false,
+"id": "c-53ab0d634e",
+"label": "FY2024 Intelligence Authorization Act sec. 7343 - Funding Limitations Relating to UAP",
+"node": "iaa-fy2024-7343",
+"open": false,
+"source": {
+"domain": "www.govinfo.gov",
+"text": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
+},
+"text": "Section 7343(b) of P.L. 118-31 Division F bars use of funds authorised by that division for UAP activity under special or restricted access limitation unless the DNI has provided details to the intelligence, armed services and appropriations committees of both chambers and to congressional leadership.",
+"tier": 1
+},
+{
+"cls": "legislation",
+"cluster": "oversight",
+"denied": false,
+"id": "c-22ca3f8eb8",
+"label": "FY2024 Intelligence Authorization Act sec. 7343 - Funding Limitations Relating to UAP",
+"node": "iaa-fy2024-7343",
+"open": false,
+"source": {
+"domain": "www.govinfo.gov",
+"text": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
+},
+"text": "Section 7343(c) repeats the IR&D indirect-cost prohibition but omits the antecedent reference to DoD Instruction 3204.01, leaving 'contracts covered by such instruction' undefined in the enrolled text.",
+"tier": 1
+},
+{
+"cls": "legislation",
+"cluster": "oversight",
+"denied": false,
+"id": "c-246bfdc636",
+"label": "FY2024 Intelligence Authorization Act sec. 7343 - Funding Limitations Relating to UAP",
+"node": "iaa-fy2024-7343",
+"open": false,
+"source": {
+"domain": null,
+"text": "S. 2226 as engrossed, Sec. 1102(f)(1), compared with P.L. 118-31 Sec. 7343, GPO",
+"url": null
+},
+"text": "The Senate original at Sec. 1102(f)(1) cited 'Department of Defense Instruction Number 3204.01 (dated August 20, 2014, incorporating change 2, dated July 9, 2020)'; that citation appears nowhere in P.L. 118-31 Sec. 7343.",
+"tier": 1
+},
+{
+"cls": "legislation",
+"cluster": "oversight",
+"denied": false,
+"id": "c-26b8e52f7f",
+"label": "FY2024 Intelligence Authorization Act sec. 7343 - Funding Limitations Relating to UAP",
+"node": "iaa-fy2024-7343",
+"open": false,
+"source": {
+"domain": null,
+"text": "Inference from the textual difference between the engrossed and enrolled versions",
+"url": null
+},
+"text": "A dangling cross-reference of this kind in enacted law is a drafting artefact of late excision rather than of deliberate policy, and it dates the removal to the conference stage.",
+"tier": 3
+},
+{
+"cls": "legislation",
+"cluster": "oversight",
+"denied": false,
+"id": "c-dc4c1558b8",
+"label": "FY2024 Intelligence Authorization Act sec. 7343 - Funding Limitations Relating to UAP",
+"node": "iaa-fy2024-7343",
+"open": false,
+"source": {
+"domain": "www.govinfo.gov",
+"text": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
+},
+"text": "Enacting the identical bar twice, once naming the Secretary of Defense and once naming the DNI, is consistent with congressional uncertainty as to whether the activity sits in the Military Intelligence Program or the National Intelligence Program. Reasoning: a drafter certain of the programme's home would legislate once against the controlling official.",
+"tier": 3
 },
 {
 "cls": "legislation",
@@ -44893,102 +45101,6 @@
 "url": null
 },
 "text": "Setting the report deadline by mutual agreement rather than by date leaves the timing of the only new FY2025 oversight product in the hands of the parties being overseen and their committees.",
-"tier": 3
-},
-{
-"cls": "legislation",
-"cluster": "ic",
-"denied": false,
-"id": "c-729a8c09fd",
-"label": "IAA FY2024 Section 7343 - Funding Limitations Relating to Unidentified Anomalous Phenomena",
-"node": "iaa24-sec7343",
-"open": false,
-"source": {
-"domain": null,
-"text": "PLAW-118publ31 sec. 7343(b)",
-"url": null
-},
-"text": "Enacted text, PL 118-31 sec. 7343(b), 137 Stat. 1064: 'None of the funds authorized to be appropriated or otherwise made available by this division may be obligated or expended in support of any activity involving unidentified anomalous phenomena protected under any form of special access or restricted access limitation unless the Director of National Intelligence has provided the details of the activity to the appropriate committees of Congress and congressional leadership, including for any activities described in a report released by the All-domain Anomaly Resolution Office in fiscal year 2024.'",
-"tier": 1
-},
-{
-"cls": "legislation",
-"cluster": "ic",
-"denied": false,
-"id": "c-154dd50faf",
-"label": "IAA FY2024 Section 7343 - Funding Limitations Relating to Unidentified Anomalous Phenomena",
-"node": "iaa24-sec7343",
-"open": false,
-"source": {
-"domain": null,
-"text": "Comparison of BILLS-118s2226es Div. M sec. 1102 with PLAW-118publ31 sec. 7343",
-"url": null
-},
-"text": "Sec. 7343 is the truncated survivor of sec. 1102 of the Senate-passed IAA FY2024 division of S. 2226; the contractor turn-in obligation, the non-earth-origin materials list, and the liability shield were removed.",
-"tier": 1
-},
-{
-"cls": "legislation",
-"cluster": "ic",
-"denied": false,
-"id": "c-3f3260cf86",
-"label": "IAA FY2024 Section 7343 - Funding Limitations Relating to Unidentified Anomalous Phenomena",
-"node": "iaa24-sec7343",
-"open": false,
-"source": {
-"domain": null,
-"text": "PLAW-118publ31 sec. 7343(c)",
-"url": null
-},
-"text": "Sec. 7343(c): 'Independent research and development funding relating to unidentified anomalous phenomena shall not be allowable as indirect expenses for purposes of contracts covered by such instruction, unless such material and information is made available to the appropriate congressional committees and leadership.'",
-"tier": 1
-},
-{
-"cls": "legislation",
-"cluster": "ic",
-"denied": false,
-"id": "c-fdb8de4ec9",
-"label": "IAA FY2024 Section 7343 - Funding Limitations Relating to Unidentified Anomalous Phenomena",
-"node": "iaa24-sec7343",
-"open": false,
-"source": {
-"domain": "www.govinfo.gov",
-"text": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm",
-"url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
-},
-"text": "Section 7343(b) of P.L. 118-31 Division F bars use of funds authorised by that division for UAP activity under special or restricted access limitation unless the DNI has provided details to the intelligence, armed services and appropriations committees of both chambers and to congressional leadership.",
-"tier": 1
-},
-{
-"cls": "legislation",
-"cluster": "ic",
-"denied": false,
-"id": "c-c04ad1cfe7",
-"label": "IAA FY2024 Section 7343 - Funding Limitations Relating to Unidentified Anomalous Phenomena",
-"node": "iaa24-sec7343",
-"open": false,
-"source": {
-"domain": "www.govinfo.gov",
-"text": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm",
-"url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
-},
-"text": "Section 7343(c) repeats the IR&D indirect-cost prohibition but omits the antecedent reference to DoD Instruction 3204.01, leaving 'contracts covered by such instruction' undefined in the enrolled text.",
-"tier": 1
-},
-{
-"cls": "legislation",
-"cluster": "ic",
-"denied": false,
-"id": "c-62f3a4ad6f",
-"label": "IAA FY2024 Section 7343 - Funding Limitations Relating to Unidentified Anomalous Phenomena",
-"node": "iaa24-sec7343",
-"open": false,
-"source": {
-"domain": "www.govinfo.gov",
-"text": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm",
-"url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
-},
-"text": "Enacting the identical bar twice, once naming the Secretary of Defense and once naming the DNI, is consistent with congressional uncertainty as to whether the activity sits in the Military Intelligence Program or the National Intelligence Program. Reasoning: a drafter certain of the programme's home would legislate once against the controlling official.",
 "tier": 3
 },
 {
@@ -46206,38 +46318,6 @@
 },
 "text": "'Institute 22' and 'SETKA' most likely denote the same 1978-1991 apparatus under different naming conventions. Reasoning: identical founding year, identical joint Academy of Sciences / Ministry of Defence sponsorship, identical dissolution with the USSR, and no independent Russian-language institutional record distinguishing them has been located.",
 "tier": 3
-},
-{
-"cls": "institution",
-"cluster": "contractor",
-"denied": false,
-"id": "c-01b9c588af",
-"label": "Institute for Advanced Studies at Austin",
-"node": "institute-advanced-studies-austin",
-"open": false,
-"source": {
-"domain": null,
-"text": "Preface of the Green DIRD",
-"url": null
-},
-"text": "The DIRD's preface quotes a November 2007 proposal addressed 'to Puthoff/Hathaway' proposing outsourcing of a medical analysis of archival data on physiological effects of 'exotic propulsion' fields.",
-"tier": 1
-},
-{
-"cls": "institution",
-"cluster": "contractor",
-"denied": false,
-"id": "c-16e6fecb3b",
-"label": "Institute for Advanced Studies at Austin",
-"node": "institute-advanced-studies-austin",
-"open": false,
-"source": {
-"domain": null,
-"text": "Cover page of 'Clinical Medical Acute & Subacute Field Effects on Human Dermal & Neurological Tissues'",
-"url": null
-},
-"text": "The IASA imprint appears on the cover of the AAWSAP medical DIRD authored by Christopher Green, M.D., Ph.D.",
-"tier": 1
 },
 {
 "cls": "institution",
@@ -53745,22 +53825,6 @@
 },
 {
 "cls": "location",
-"cluster": "research",
-"denied": false,
-"id": "c-4b889d8af6",
-"label": "Cambridge, Massachusetts (alias of l-cambridge)",
-"node": "l-cambridge-ma",
-"open": false,
-"source": {
-"domain": null,
-"text": "Inference from the research corpus",
-"url": null
-},
-"text": "l-cambridge-ma and l-cambridge denote the same city and should be merged. Reasoning: identical loc strings on the referencing person records.",
-"tier": 3
-},
-{
-"cls": "location",
 "cluster": "ic",
 "denied": false,
 "id": "c-234f5586e1",
@@ -54753,11 +54817,11 @@
 },
 {
 "cls": "location",
-"cluster": "witness",
+"cluster": "ic",
 "denied": false,
-"id": "c-3d5a85d05d",
-"label": "Joint Base Langley-Eustis, Virginia",
-"node": "l-langley",
+"id": "c-1a9b0a82bb",
+"label": "Langley Air Force Base / Joint Base Langley-Eustis, Virginia",
+"node": "l-langley-afb",
 "open": false,
 "source": {
 "domain": null,
@@ -54769,11 +54833,11 @@
 },
 {
 "cls": "location",
-"cluster": "witness",
+"cluster": "ic",
 "denied": false,
-"id": "c-02e67eb50b",
-"label": "Joint Base Langley-Eustis, Virginia",
-"node": "l-langley",
+"id": "c-80b8f4ec61",
+"label": "Langley Air Force Base / Joint Base Langley-Eustis, Virginia",
+"node": "l-langley-afb",
 "open": false,
 "source": {
 "domain": null,
@@ -54846,22 +54910,6 @@
 },
 "text": "Robert Bigelow founded the National Institute for Discovery Science and purchased Skinwalker Ranch in 1996 for $200,000.",
 "tier": 2
-},
-{
-"cls": "location",
-"cluster": "contractor",
-"denied": false,
-"id": "c-b2bfbe4e59",
-"label": "Las Vegas, Nevada (alias of l-las-vegas)",
-"node": "l-lasvegas",
-"open": false,
-"source": {
-"domain": null,
-"text": "Inference from reference counts in the research corpus",
-"url": null
-},
-"text": "l-lasvegas and l-las-vegas denote the same city and should be merged, with l-las-vegas retained as canonical. Reasoning: reference counts across the wave-1 corpus.",
-"tier": 3
 },
 {
 "cls": "location",
@@ -61267,54 +61315,6 @@
 "cls": "person",
 "cluster": "oversight",
 "denied": false,
-"id": "c-f19e3c321a",
-"label": "Mike D. Rogers",
-"node": "mike-rogers-al",
-"open": false,
-"source": {
-"domain": null,
-"text": "P.L. 118-31, Sec. 1687, GPO",
-"url": null
-},
-"text": "Sec. 1687 of P.L. 118-31 conditions UAP special-access funding on disclosure to 'the appropriate congressional committees and congressional leadership' — preserving committee-channel oversight rather than independent review.",
-"tier": 1
-},
-{
-"cls": "person",
-"cluster": "oversight",
-"denied": false,
-"id": "c-67057fb641",
-"label": "Mike D. Rogers",
-"node": "mike-rogers-al",
-"open": false,
-"source": {
-"domain": null,
-"text": "Micah Hanks, The Debrief, 27 November 2023",
-"url": null
-},
-"text": "Rogers is named with Turner as leading efforts to eliminate or significantly alter the UAP Disclosure Act.",
-"tier": 2
-},
-{
-"cls": "person",
-"cluster": "oversight",
-"denied": false,
-"id": "c-26086286cd",
-"label": "Mike D. Rogers",
-"node": "mike-rogers-al",
-"open": false,
-"source": {
-"domain": null,
-"text": "Inference from side-by-side comparison of S. 2226 Div. G with P.L. 118-31 Subtitle C and Secs. 1687/7343",
-"url": null
-},
-"text": "The pattern of what was cut and what was kept is consistent with a jurisdictional defense of the armed services and intelligence committees rather than with substantive objection to disclosure: every removed mechanism operated outside those committees, and every retained mechanism reports into them.",
-"tier": 3
-},
-{
-"cls": "person",
-"cluster": "oversight",
-"denied": false,
 "id": "c-322a8c2d86",
 "label": "Mike Rogers (Alabama)",
 "node": "mike-rogers-alabama",
@@ -61342,6 +61342,54 @@
 },
 "text": "Rogers was Chairman of the House Armed Services Committee in the 118th Congress, jointly announcing the committee's subcommittee rosters with Ranking Member Adam Smith.",
 "tier": 1
+},
+{
+"cls": "person",
+"cluster": "oversight",
+"denied": false,
+"id": "c-c5258d6afa",
+"label": "Mike Rogers (Alabama)",
+"node": "mike-rogers-alabama",
+"open": false,
+"source": {
+"domain": null,
+"text": "P.L. 118-31, Sec. 1687, GPO",
+"url": null
+},
+"text": "Sec. 1687 of P.L. 118-31 conditions UAP special-access funding on disclosure to 'the appropriate congressional committees and congressional leadership' — preserving committee-channel oversight rather than independent review.",
+"tier": 1
+},
+{
+"cls": "person",
+"cluster": "oversight",
+"denied": false,
+"id": "c-49cadbe4e1",
+"label": "Mike Rogers (Alabama)",
+"node": "mike-rogers-alabama",
+"open": false,
+"source": {
+"domain": null,
+"text": "Micah Hanks, The Debrief, 27 November 2023",
+"url": null
+},
+"text": "Rogers is named with Turner as leading efforts to eliminate or significantly alter the UAP Disclosure Act.",
+"tier": 2
+},
+{
+"cls": "person",
+"cluster": "oversight",
+"denied": false,
+"id": "c-417febfb71",
+"label": "Mike Rogers (Alabama)",
+"node": "mike-rogers-alabama",
+"open": false,
+"source": {
+"domain": null,
+"text": "Inference from side-by-side comparison of S. 2226 Div. G with P.L. 118-31 Subtitle C and Secs. 1687/7343",
+"url": null
+},
+"text": "The pattern of what was cut and what was kept is consistent with a jurisdictional defense of the armed services and intelligence committees rather than with substantive objection to disclosure: every removed mechanism operated outside those committees, and every retained mechanism reports into them.",
+"tier": 3
 },
 {
 "cls": "person",
@@ -63010,370 +63058,18 @@
 {
 "cls": "institution",
 "cluster": "oversight",
-"denied": false,
-"id": "c-42f720e21a",
-"label": "National Archives Record Group 615 - UAP Records Collection",
-"node": "nara-rg615",
+"denied": true,
+"id": "c-9ec56ae4ed",
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection",
+"node": "nara-uap-collection",
 "open": true,
 "source": {
-"domain": "catalog.archives.gov",
-"text": "https://catalog.archives.gov/id/656595571",
-"url": "https://catalog.archives.gov/id/656595571"
+"domain": null,
+"text": "National Archives UAP records page",
+"url": null
 },
-"text": "All 30 items carry contiguous UAP Record Identifiers 342UAP00001 through 342UAP00030, and each has exactly one attached PDF digital object; all 30 object URLs were fetched on 28 August 2026 and returned PDF content.",
+"text": "'NARA will continue to add UAP records to the UAP Records Collection (RG 615) and make them available online through the National Archives Catalog on an ongoing, rolling basis as they are received from federal agencies.'",
 "tier": 1
-},
-{
-"cls": "institution",
-"cluster": "oversight",
-"denied": false,
-"id": "c-7dba28656a",
-"label": "National Archives Record Group 615 - UAP Records Collection",
-"node": "nara-rg615",
-"open": true,
-"source": {
-"domain": "www.archives.gov",
-"text": "https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download",
-"url": "https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download"
-},
-"text": "Bulk-download electronic-records volumes as of the 24 April 2025 update: NRC 11.74MB, FAA 63.10MB, ODNI 1.29MB, OSD 103.37MB; against Project BLUE BOOK still pictures at 36.48GB, Roswell Reports moving images 16.25GB and sanitized Blue Book case files of roughly 379GB across ten files.",
-"tier": 1
-},
-{
-"cls": "institution",
-"cluster": "oversight",
-"denied": false,
-"id": "c-cd4651209d",
-"label": "National Archives Record Group 615 - UAP Records Collection",
-"node": "nara-rg615",
-"open": true,
-"source": {
-"domain": "www.archives.gov",
-"text": "https://www.archives.gov/research/topics/uaps/rg-615",
-"url": "https://www.archives.gov/research/topics/uaps/rg-615"
-},
-"text": "Eight agencies appear as RG 615 contributors as of 28 August 2026: FAA (catalog ID 493468575), NRC (488808322), ODNI (493468579), OSD (493468580), NSA (580103959), Department of State (608806625), FBI (580705010) and the Department of the Air Force (656595571). The Air Force was added on 28 August 2026; the preceding seven were in place by 22 May 2026.",
-"tier": 1
-},
-{
-"cls": "institution",
-"cluster": "oversight",
-"denied": false,
-"id": "c-5a489633a5",
-"label": "National Archives Record Group 615 - UAP Records Collection",
-"node": "nara-rg615",
-"open": true,
-"source": {
-"domain": "catalog.archives.gov",
-"text": "https://catalog.archives.gov/id/656595571",
-"url": "https://catalog.archives.gov/id/656595571"
-},
-"text": "Four of the 30 items carry a processing page-header identifier that belongs to a different record. Items 342UAP00003 (own identifier 00124399), 342UAP00004 (00174934) and 342UAP00007 (00423077) are all stamped 00105830, which is the identifier of item 342UAP00002; item 342UAP00027 (01030308) is stamped 01030306, the identifier of item 342UAP00026. In item 342UAP00003 the correct identifier appears only on a physical label photographed on the page. Page-level stamps in this series are therefore not reliable for provenance.",
-"tier": 1
-},
-{
-"cls": "institution",
-"cluster": "oversight",
-"denied": false,
-"id": "c-c754d427e5",
-"label": "National Archives Record Group 615 - UAP Records Collection",
-"node": "nara-rg615",
-"open": true,
-"source": {
-"domain": "catalog.archives.gov",
-"text": "https://catalog.archives.gov/medialz/electronic-records/rg-615/656595571/00258350_Estimate_of_the_Situation.pdf",
-"url": "https://catalog.archives.gov/medialz/electronic-records/rg-615/656595571/00258350_Estimate_of_the_Situation.pdf"
-},
-"text": "Item 342UAP00005, catalogued as 'Estimate of the Situation, September 8, 1948', is Headquarters Fifth Air Force, Office of the AC of S, A-2, APO 710, 'Estimate of the Situation' covering 7 August to 4 September 1948, 21 pages, published for Fifth Air Force Division and Wing-Base Commanders, with a table of contents covering Japan, Korea, China, the Philippines and Malaya. It is a periodic Far East theatre intelligence estimate and is not the Air Materiel Command estimate of 1948 that Ruppelt described.",
-"tier": 1
-},
-{
-"cls": "institution",
-"cluster": "oversight",
-"denied": false,
-"id": "c-9c2bbd2cc5",
-"label": "National Archives Record Group 615 - UAP Records Collection",
-"node": "nara-rg615",
-"open": true,
-"source": {
-"domain": "catalog.archives.gov",
-"text": "https://catalog.archives.gov/medialz/electronic-records/rg-615/656595571/00451970_78th_Fighter_Wing.pdf",
-"url": "https://catalog.archives.gov/medialz/electronic-records/rg-615/656595571/00451970_78th_Fighter_Wing.pdf"
-},
-"text": "Item 342UAP00013, catalogued as '78th Fighter Wing, December, 1964', is the history of the 78th Fighter Wing (Air Defense) at Hamilton AFB, California, under the 28th Air Division (SAGE), Air Defense Command, commanded by Colonel Charles D. Chitty Jr., flying 21 F-101B and 2 F-101F interceptors. It is an air-defence interceptor wing, that is, one of the units that would actually be scrambled against an unidentified radar track.",
-"tier": 1
-},
-{
-"cls": "institution",
-"cluster": "oversight",
-"denied": false,
-"id": "c-74be0d941a",
-"label": "National Archives Record Group 615 - UAP Records Collection",
-"node": "nara-rg615",
-"open": true,
-"source": {
-"domain": "catalog.archives.gov",
-"text": "https://catalog.archives.gov/medialz/electronic-records/rg-615/656595571/00452964_U-PV-FOUO_95th_Bombardment_Wing_History.pdf",
-"url": "https://catalog.archives.gov/medialz/electronic-records/rg-615/656595571/00452964_U-PV-FOUO_95th_Bombardment_Wing_History.pdf"
-},
-"text": "Item 342UAP00014, catalogued as '95th Bombardment Wing History, March, 1960', is the history of the 95th Bombardment Wing (Heavy), 1-31 March 1960, assigned to Fifteenth Air Force, Strategic Air Command, permanently stationed at Biggs Air Force Base, El Paso, Texas. A nuclear bomber wing history is in the Air Force's UAP records transfer.",
-"tier": 1
-},
-{
-"cls": "institution",
-"cluster": "oversight",
-"denied": false,
-"id": "c-0041065c58",
-"label": "National Archives Record Group 615 - UAP Records Collection",
-"node": "nara-rg615",
-"open": true,
-"source": {
-"domain": "catalog.archives.gov",
-"text": "https://catalog.archives.gov/medialz/electronic-records/rg-615/656595571/00891775_I_Once_Saw_A_Flying_Saucer-Project_Blue_Book.pdf",
-"url": "https://catalog.archives.gov/medialz/electronic-records/rg-615/656595571/00891775_I_Once_Saw_A_Flying_Saucer-Project_Blue_Book.pdf"
-},
-"text": "Item 342UAP00024, catalogued only as 'I Once Saw A Flying Saucer - Project Blue Book, April 18, 1966', is a piece titled 'I Once Saw a Flying Saucer' by Ira C. Eaker. The catalog record does not name him. It opens on the 5 April 1966 appearance of Secretary of the Air Force Harold Brown and Chief of Staff General J.P. McConnell before the House Armed Services Committee, and states that in eighteen years more than 10,000 UFO sightings had been investigated with 663 listed as unexplained.",
-"tier": 1
-},
-{
-"cls": "institution",
-"cluster": "oversight",
-"denied": false,
-"id": "c-cdb16e6e4d",
-"label": "National Archives Record Group 615 - UAP Records Collection",
-"node": "nara-rg615",
-"open": true,
-"source": {
-"domain": "catalog.archives.gov",
-"text": "https://catalog.archives.gov/medialz/electronic-records/rg-615/656595571/01030306_Correspondence_Regarding_Unidentified_Flying_Objects.pdf",
-"url": "https://catalog.archives.gov/medialz/electronic-records/rg-615/656595571/01030306_Correspondence_Regarding_Unidentified_Flying_Objects.pdf"
-},
-"text": "Item 342UAP00026, catalogued only as 'Correspondence Regarding Unidentified Flying Objects, 1947', is Fourth Air Force file 212.1, 'REPORTS GENERAL / REPORTS OF UNIDENTIFIED FLYING OBJECTS / YEAR 1947', 302 pages, indexed on Fourth AF Form No. 219 'LIST OF PAPERS' with at least 51 numbered serials running from 7 January 1947 to 22 December 1947.",
-"tier": 1
-},
-{
-"cls": "institution",
-"cluster": "oversight",
-"denied": false,
-"id": "c-11cde8c8e2",
-"label": "National Archives Record Group 615 - UAP Records Collection",
-"node": "nara-rg615",
-"open": true,
-"source": {
-"domain": "www.archives.gov",
-"text": "https://www.archives.gov/research/topics/uaps/faqs",
-"url": "https://www.archives.gov/research/topics/uaps/faqs"
-},
-"text": "NARA guidance directed agencies with releasable UAP records to contact NARA to initiate transfers before 30 September 2025, in digital form with metadata per established guidance.",
-"tier": 1
-},
-{
-"cls": "institution",
-"cluster": "oversight",
-"denied": false,
-"id": "c-33207fcb2b",
-"label": "National Archives Record Group 615 - UAP Records Collection",
-"node": "nara-rg615",
-"open": true,
-"source": {
-"domain": "catalog.archives.gov",
-"text": "https://catalog.archives.gov/id/656595571",
-"url": "https://catalog.archives.gov/id/656595571"
-},
-"text": "NARA's scope note states the Air Force series 'consists of records compiled in response to the 2024 National Defense Authorization Act (Public Law 118-31) and received from the Department of the Air Force pursuant to the Unidentified Anomalous Phenomena Records Collection Act, 44 U.S.C. 2107 note.'",
-"tier": 1
-},
-{
-"cls": "institution",
-"cluster": "oversight",
-"denied": false,
-"id": "c-7bd9f1cdf6",
-"label": "National Archives Record Group 615 - UAP Records Collection",
-"node": "nara-rg615",
-"open": true,
-"source": {
-"domain": "www.archives.gov",
-"text": "https://www.archives.gov/uap",
-"url": "https://www.archives.gov/uap"
-},
-"text": "Record Group 615 was established pursuant to sections 1841-1843 of the 2024 National Defense Authorization Act; UAP records received from federal agencies are accessioned into RG 615 and published in the National Archives Catalog on a rolling basis.",
-"tier": 1
-},
-{
-"cls": "institution",
-"cluster": "oversight",
-"denied": false,
-"id": "c-5dba7c12be",
-"label": "National Archives Record Group 615 - UAP Records Collection",
-"node": "nara-rg615",
-"open": true,
-"source": {
-"domain": "catalog.archives.gov",
-"text": "https://catalog.archives.gov/medialz/electronic-records/rg-615/656595571/01030306_Correspondence_Regarding_Unidentified_Flying_Objects.pdf",
-"url": "https://catalog.archives.gov/medialz/electronic-records/rg-615/656595571/01030306_Correspondence_Regarding_Unidentified_Flying_Objects.pdf"
-},
-"text": "Serial 44 of the Fourth Air Force 1947 index is summarised in the file's own words as 'Rept, facts regarding Disc story, Fred Crisman, Harold Dahl & crashed B-25, Tacoma, Wash area', dated 22 August 1947 and directed to the Director, FBI. Related serials in the same index cover a request for a statement from Richard Harkins, a Western Union message from H. Dahl, TWX 150 on the crashed B-25, and newspaper clippings on the B-25 crash at Kelso, Washington.",
-"tier": 1
-},
-{
-"cls": "institution",
-"cluster": "oversight",
-"denied": false,
-"id": "c-2c9dadcd89",
-"label": "National Archives Record Group 615 - UAP Records Collection",
-"node": "nara-rg615",
-"open": true,
-"source": {
-"domain": "catalog.archives.gov",
-"text": "https://catalog.archives.gov/medialz/electronic-records/rg-615/656595571/00452964_U-PV-FOUO_95th_Bombardment_Wing_History.pdf",
-"url": "https://catalog.archives.gov/medialz/electronic-records/rg-615/656595571/00452964_U-PV-FOUO_95th_Bombardment_Wing_History.pdf"
-},
-"text": "The 95th Bombardment Wing history was originally classified SECRET under AFR 205-1 and its title page carries the declassification stamp 'DECLASSIFIED AF/SPIB LTR, 2 NOV 79 BY AFSHRC DATE: 13 DEC 1982'. It was therefore declassified some forty-four years before it was accessioned into Record Group 615, where item 342UAP00005 carries a 5 May 2025 Air Force Declassification Office action under the FY24 NDAA. The transfer mixes newly declassified material with material declassified decades earlier, so accession into RG 615 is not evidence that a record was previously withheld.",
-"tier": 1
-},
-{
-"cls": "institution",
-"cluster": "oversight",
-"denied": false,
-"id": "c-5c3c0ea762",
-"label": "National Archives Record Group 615 - UAP Records Collection",
-"node": "nara-rg615",
-"open": true,
-"source": {
-"domain": "catalog.archives.gov",
-"text": "https://catalog.archives.gov/id/656595571",
-"url": "https://catalog.archives.gov/id/656595571"
-},
-"text": "The Air Force RG 615 series runs to 8,093 pages across its 30 PDFs. The scans carry no OCR text layer: the only machine-readable text in the files is the page-header identifier stamped on each page during processing, so the series cannot be full-text searched as released.",
-"tier": 1
-},
-{
-"cls": "institution",
-"cluster": "oversight",
-"denied": false,
-"id": "c-9758d560b9",
-"label": "National Archives Record Group 615 - UAP Records Collection",
-"node": "nara-rg615",
-"open": true,
-"source": {
-"domain": "catalog.archives.gov",
-"text": "https://catalog.archives.gov/id/656595571",
-"url": "https://catalog.archives.gov/id/656595571"
-},
-"text": "The Air Force series carries accession number TR-0615-2026-0003, was described from NARA descriptive file NAC_2026-08-27_23.116_DESC_0001.xml and entered the catalog index on 28 August 2026 at 08:30 UTC.",
-"tier": 1
-},
-{
-"cls": "institution",
-"cluster": "oversight",
-"denied": false,
-"id": "c-2abadf6c28",
-"label": "National Archives Record Group 615 - UAP Records Collection",
-"node": "nara-rg615",
-"open": true,
-"source": {
-"domain": "catalog.archives.gov",
-"text": "https://catalog.archives.gov/id/656595571",
-"url": "https://catalog.archives.gov/id/656595571"
-},
-"text": "The Air Force series holds 30 items with an extent of '30 Portable Document Format (PDF) files', inclusive dates 25 October 1945 to 31 December 1969, access restriction Unrestricted and use restriction Unrestricted, under disposition authority DAA-GRS-2024-0002-0001.",
-"tier": 1
-},
-{
-"cls": "institution",
-"cluster": "oversight",
-"denied": false,
-"id": "c-08b175e35b",
-"label": "National Archives Record Group 615 - UAP Records Collection",
-"node": "nara-rg615",
-"open": true,
-"source": {
-"domain": "www.archives.gov",
-"text": "https://www.archives.gov/research/topics/uaps/rg-615; https://catalog.archives.gov/id/656595571",
-"url": "https://www.archives.gov/research/topics/uaps/rg-615;"
-},
-"text": "The Department of the Air Force is the eighth contributor listed on NARA's Record Group 615 page and the first military department to appear as a contributor in its own right, as series 'Records from the Department of the Air Force Relating to Unidentified Anomalous Phenomena', National Archives Identifier 656595571.",
-"tier": 1
-},
-{
-"cls": "institution",
-"cluster": "oversight",
-"denied": false,
-"id": "c-b1b2288afa",
-"label": "National Archives Record Group 615 - UAP Records Collection",
-"node": "nara-rg615",
-"open": true,
-"source": {
-"domain": "catalog.archives.gov",
-"text": "National Archives Catalog metadata export for NAID 493468575, https://catalog.archives.gov/medialz/bulk-downloads/uaps/JSON/catalog-export-493468575.json",
-"url": "https://catalog.archives.gov/medialz/bulk-downloads/uaps/JSON/catalog-export-493468575.json"
-},
-"text": "The FAA series in this collection is withheld in part under a named statutory postponement code. The catalog's own metadata export for NAID 493468575 gives access restriction status 'Restricted - Partly' with the specific restriction 'UAP Records Collection Postponement Code 1843(a)(3)' and a use restriction of 'Unrestricted'. The series is titled 'Records from the Federal Aviation Administration Relating to Unidentified Anomalous Phenomena', carries accessions TR-0615-2025-0006 and TR-0615-2025-0008, an extent of 575 portable document files, and is held at the National Archives at College Park, Electronic Records.",
-"tier": 1
-},
-{
-"cls": "institution",
-"cluster": "oversight",
-"denied": false,
-"id": "c-0cfa6f510b",
-"label": "National Archives Record Group 615 - UAP Records Collection",
-"node": "nara-rg615",
-"open": true,
-"source": {
-"domain": "catalog.archives.gov",
-"text": "https://catalog.archives.gov/medialz/electronic-records/rg-615/656595571/01030306_Correspondence_Regarding_Unidentified_Flying_Objects.pdf",
-"url": "https://catalog.archives.gov/medialz/electronic-records/rg-615/656595571/01030306_Correspondence_Regarding_Unidentified_Flying_Objects.pdf"
-},
-"text": "The Fourth Air Force 1947 index carries multiple serials of correspondence to and from Kenneth Arnold, including serial 4, an investigation of 'K.M. Arnold, Flying Disc first rept in this area' sent by Headquarters Fourth Air Force to AAF and ADC on 18 July 1947, and serial 9, a 22 July 1947 request from R.A. Palmer of Ventura Press, Evanston, Illinois, for an article about flying saucers from Arnold.",
-"tier": 1
-},
-{
-"cls": "institution",
-"cluster": "oversight",
-"denied": false,
-"id": "c-c931e39bf9",
-"label": "National Archives Record Group 615 - UAP Records Collection",
-"node": "nara-rg615",
-"open": true,
-"source": {
-"domain": "catalog.archives.gov",
-"text": "https://catalog.archives.gov/medialz/electronic-records/rg-615/656595571/01030306_Correspondence_Regarding_Unidentified_Flying_Objects.pdf",
-"url": "https://catalog.archives.gov/medialz/electronic-records/rg-615/656595571/01030306_Correspondence_Regarding_Unidentified_Flying_Objects.pdf"
-},
-"text": "The Fourth Air Force 1947 index records liaison with the Federal Bureau of Investigation on flying-disc reports: serial 40 is an information letter from Headquarters Fourth Air Force dated 27 August 1947 to the FBI at San Francisco, and serial 51 is an incident report from the FBI at Phoenix, Arizona dated 23 October 1947 to the Special Agent in Charge, San Francisco.",
-"tier": 1
-},
-{
-"cls": "institution",
-"cluster": "oversight",
-"denied": false,
-"id": "c-645eecf75c",
-"label": "National Archives Record Group 615 - UAP Records Collection",
-"node": "nara-rg615",
-"open": true,
-"source": {
-"domain": "catalog.archives.gov",
-"text": "https://catalog.archives.gov/medialz/electronic-records/rg-615/656595571/00258350_Estimate_of_the_Situation.pdf",
-"url": "https://catalog.archives.gov/medialz/electronic-records/rg-615/656595571/00258350_Estimate_of_the_Situation.pdf"
-},
-"text": "The declassification block printed on item 342UAP00005 reads 'Department of the Air Force / Air Force Declassification Office / Authority: FY24 NDAA, now codified at 44 U.S.C. 2107 / Date: 5/05/2025 / Declassified in Full: X / Case Number: 342UAP00005', showing that the Air Force ran the transfer as a declassification action under the UAP records statute and used the UAP Record Identifier as the declassification case number.",
-"tier": 1
-},
-{
-"cls": "institution",
-"cluster": "oversight",
-"denied": false,
-"id": "c-de31d4a94b",
-"label": "National Archives Record Group 615 - UAP Records Collection",
-"node": "nara-rg615",
-"open": true,
-"source": {
-"domain": "www.archives.gov",
-"text": "https://www.archives.gov/research/topics/uaps/rg-615",
-"url": "https://www.archives.gov/research/topics/uaps/rg-615"
-},
-"text": "CIA, DIA, DOE, NASA, NRO, NGA, DHS, the Army and the Navy still have no series in RG 615 as of 28 August 2026, and NARA publishes no compliance list or non-compliance statement. The Department of the Air Force, which was in this list until 28 August 2026, now has one. Reasoning: direct inspection of the RG 615 contributor list and the FAQ, which addresses the framework and is silent on implementation status.",
-"tier": 3
 },
 {
 "cls": "institution",
@@ -63395,6 +63091,70 @@
 "cls": "institution",
 "cluster": "oversight",
 "denied": true,
+"id": "c-04c6f0e280",
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection",
+"node": "nara-uap-collection",
+"open": true,
+"source": {
+"domain": "www.archives.gov",
+"text": "https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download",
+"url": "https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download"
+},
+"text": "Bulk-download electronic-records volumes as of the 24 April 2025 update: NRC 11.74MB, FAA 63.10MB, ODNI 1.29MB, OSD 103.37MB; against Project BLUE BOOK still pictures at 36.48GB, Roswell Reports moving images 16.25GB and sanitized Blue Book case files of roughly 379GB across ten files.",
+"tier": 1
+},
+{
+"cls": "institution",
+"cluster": "oversight",
+"denied": true,
+"id": "c-a568a2cef7",
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection",
+"node": "nara-uap-collection",
+"open": true,
+"source": {
+"domain": "www.archives.gov",
+"text": "https://www.archives.gov/research/topics/uaps/rg-615",
+"url": "https://www.archives.gov/research/topics/uaps/rg-615"
+},
+"text": "Eight agencies appear as RG 615 contributors as of 28 August 2026: FAA (catalog ID 493468575), NRC (488808322), ODNI (493468579), OSD (493468580), NSA (580103959), Department of State (608806625), FBI (580705010) and the Department of the Air Force (656595571). The Air Force was added on 28 August 2026; the preceding seven were in place by 22 May 2026.",
+"tier": 1
+},
+{
+"cls": "institution",
+"cluster": "oversight",
+"denied": true,
+"id": "c-490dd9f5fb",
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection",
+"node": "nara-uap-collection",
+"open": true,
+"source": {
+"domain": null,
+"text": "National Archives, Air Force UFO records page",
+"url": null
+},
+"text": "Existing legacy holdings include the Project Blue Book records: approximately 2 cubic feet of project/administrative files, 37 cubic feet of case files and 3 cubic feet of OSI records on 94 rolls of microfilm (T-1206).",
+"tier": 1
+},
+{
+"cls": "institution",
+"cluster": "oversight",
+"denied": true,
+"id": "c-10e28adf60",
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection",
+"node": "nara-uap-collection",
+"open": true,
+"source": {
+"domain": "catalog.archives.gov",
+"text": "https://catalog.archives.gov/id/656595571",
+"url": "https://catalog.archives.gov/id/656595571"
+},
+"text": "Four of the 30 items carry a processing page-header identifier that belongs to a different record. Items 342UAP00003 (own identifier 00124399), 342UAP00004 (00174934) and 342UAP00007 (00423077) are all stamped 00105830, which is the identifier of item 342UAP00002; item 342UAP00027 (01030308) is stamped 01030306, the identifier of item 342UAP00026. In item 342UAP00003 the correct identifier appears only on a physical label photographed on the page. Page-level stamps in this series are therefore not reliable for provenance.",
+"tier": 1
+},
+{
+"cls": "institution",
+"cluster": "oversight",
+"denied": true,
 "id": "c-b12f8af977",
 "label": "National Archives Unidentified Anomalous Phenomena Records Collection",
 "node": "nara-uap-collection",
@@ -63405,6 +63165,70 @@
 "url": "https://catalog.archives.gov/medialz/electronic-records/rg-615/656595571/00258350_Estimate_of_the_Situation.pdf"
 },
 "text": "Item 342UAP00005, catalogued as 'Estimate of the Situation, September 8, 1948', is Headquarters Fifth Air Force, Office of the AC of S, A-2, APO 710, 'Estimate of the Situation' covering 7 August to 4 September 1948, 21 pages, published for Fifth Air Force Division and Wing-Base Commanders, with a table of contents covering Japan, Korea, China, the Philippines and Malaya. It is a periodic Far East theatre intelligence estimate and is not the Air Materiel Command estimate of 1948 that Ruppelt described.",
+"tier": 1
+},
+{
+"cls": "institution",
+"cluster": "oversight",
+"denied": true,
+"id": "c-07d1ca7f67",
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection",
+"node": "nara-uap-collection",
+"open": true,
+"source": {
+"domain": "catalog.archives.gov",
+"text": "https://catalog.archives.gov/medialz/electronic-records/rg-615/656595571/00451970_78th_Fighter_Wing.pdf",
+"url": "https://catalog.archives.gov/medialz/electronic-records/rg-615/656595571/00451970_78th_Fighter_Wing.pdf"
+},
+"text": "Item 342UAP00013, catalogued as '78th Fighter Wing, December, 1964', is the history of the 78th Fighter Wing (Air Defense) at Hamilton AFB, California, under the 28th Air Division (SAGE), Air Defense Command, commanded by Colonel Charles D. Chitty Jr., flying 21 F-101B and 2 F-101F interceptors. It is an air-defence interceptor wing, that is, one of the units that would actually be scrambled against an unidentified radar track.",
+"tier": 1
+},
+{
+"cls": "institution",
+"cluster": "oversight",
+"denied": true,
+"id": "c-6de16a0bbb",
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection",
+"node": "nara-uap-collection",
+"open": true,
+"source": {
+"domain": "catalog.archives.gov",
+"text": "https://catalog.archives.gov/medialz/electronic-records/rg-615/656595571/00452964_U-PV-FOUO_95th_Bombardment_Wing_History.pdf",
+"url": "https://catalog.archives.gov/medialz/electronic-records/rg-615/656595571/00452964_U-PV-FOUO_95th_Bombardment_Wing_History.pdf"
+},
+"text": "Item 342UAP00014, catalogued as '95th Bombardment Wing History, March, 1960', is the history of the 95th Bombardment Wing (Heavy), 1-31 March 1960, assigned to Fifteenth Air Force, Strategic Air Command, permanently stationed at Biggs Air Force Base, El Paso, Texas. A nuclear bomber wing history is in the Air Force's UAP records transfer.",
+"tier": 1
+},
+{
+"cls": "institution",
+"cluster": "oversight",
+"denied": true,
+"id": "c-1e07b735df",
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection",
+"node": "nara-uap-collection",
+"open": true,
+"source": {
+"domain": "catalog.archives.gov",
+"text": "https://catalog.archives.gov/medialz/electronic-records/rg-615/656595571/00891775_I_Once_Saw_A_Flying_Saucer-Project_Blue_Book.pdf",
+"url": "https://catalog.archives.gov/medialz/electronic-records/rg-615/656595571/00891775_I_Once_Saw_A_Flying_Saucer-Project_Blue_Book.pdf"
+},
+"text": "Item 342UAP00024, catalogued only as 'I Once Saw A Flying Saucer - Project Blue Book, April 18, 1966', is a piece titled 'I Once Saw a Flying Saucer' by Ira C. Eaker. The catalog record does not name him. It opens on the 5 April 1966 appearance of Secretary of the Air Force Harold Brown and Chief of Staff General J.P. McConnell before the House Armed Services Committee, and states that in eighteen years more than 10,000 UFO sightings had been investigated with 663 listed as unexplained.",
+"tier": 1
+},
+{
+"cls": "institution",
+"cluster": "oversight",
+"denied": true,
+"id": "c-3267e26442",
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection",
+"node": "nara-uap-collection",
+"open": true,
+"source": {
+"domain": "catalog.archives.gov",
+"text": "https://catalog.archives.gov/medialz/electronic-records/rg-615/656595571/01030306_Correspondence_Regarding_Unidentified_Flying_Objects.pdf",
+"url": "https://catalog.archives.gov/medialz/electronic-records/rg-615/656595571/01030306_Correspondence_Regarding_Unidentified_Flying_Objects.pdf"
+},
+"text": "Item 342UAP00026, catalogued only as 'Correspondence Regarding Unidentified Flying Objects, 1947', is Fourth Air Force file 212.1, 'REPORTS GENERAL / REPORTS OF UNIDENTIFIED FLYING OBJECTS / YEAR 1947', 302 pages, indexed on Fourth AF Form No. 219 'LIST OF PAPERS' with at least 51 numbered serials running from 7 January 1947 to 22 December 1947.",
 "tier": 1
 },
 {
@@ -63443,6 +63267,86 @@
 "cls": "institution",
 "cluster": "oversight",
 "denied": true,
+"id": "c-61918613f4",
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection",
+"node": "nara-uap-collection",
+"open": true,
+"source": {
+"domain": null,
+"text": "National Archives, UAP records research topic page",
+"url": null
+},
+"text": "NARA established the Unidentified Anomalous Phenomena Records Collection (Record Group 615) per sections 1841-1843 of the FY2024 National Defense Authorization Act, Public Law 118-31.",
+"tier": 1
+},
+{
+"cls": "institution",
+"cluster": "oversight",
+"denied": true,
+"id": "c-bee8947675",
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection",
+"node": "nara-uap-collection",
+"open": true,
+"source": {
+"domain": "www.archives.gov",
+"text": "https://www.archives.gov/research/topics/uaps/faqs",
+"url": "https://www.archives.gov/research/topics/uaps/faqs"
+},
+"text": "NARA guidance directed agencies with releasable UAP records to contact NARA to initiate transfers before 30 September 2025, in digital form with metadata per established guidance.",
+"tier": 1
+},
+{
+"cls": "institution",
+"cluster": "oversight",
+"denied": true,
+"id": "c-259e119539",
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection",
+"node": "nara-uap-collection",
+"open": true,
+"source": {
+"domain": null,
+"text": "National Archives, UAP records research topic page",
+"url": null
+},
+"text": "NARA has been digitising historical UFO/UAP records from its existing holdings and releasing them through the online catalog; the topic page was last updated 24 April 2025.",
+"tier": 1
+},
+{
+"cls": "institution",
+"cluster": "oversight",
+"denied": true,
+"id": "c-7c220f90a9",
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection",
+"node": "nara-uap-collection",
+"open": true,
+"source": {
+"domain": null,
+"text": "National Archives, UAP records research page, archives.gov/uap",
+"url": null
+},
+"text": "NARA issued guidance to federal agencies on 'Transfer of Publicly Releasable Unidentified Anomalous Phenomena (UAP) Records' dated April 2025.",
+"tier": 1
+},
+{
+"cls": "institution",
+"cluster": "oversight",
+"denied": true,
+"id": "c-90864d5c83",
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection",
+"node": "nara-uap-collection",
+"open": true,
+"source": {
+"domain": null,
+"text": "National Archives UAP Records Collection and UAP research topic pages, accessed 12 August 2026",
+"url": null
+},
+"text": "NARA publishes no list of which agencies have transferred records, no item or page counts by agency, and no transfer dates.",
+"tier": 1
+},
+{
+"cls": "institution",
+"cluster": "oversight",
+"denied": true,
 "id": "c-aeba84a2bd",
 "label": "National Archives Unidentified Anomalous Phenomena Records Collection",
 "node": "nara-uap-collection",
@@ -63469,6 +63373,86 @@
 "url": "https://catalog.archives.gov/id/656595571"
 },
 "text": "NARA's scope note states the Air Force series 'consists of records compiled in response to the 2024 National Defense Authorization Act (Public Law 118-31) and received from the Department of the Air Force pursuant to the Unidentified Anomalous Phenomena Records Collection Act, 44 U.S.C. 2107 note.'",
+"tier": 1
+},
+{
+"cls": "institution",
+"cluster": "oversight",
+"denied": true,
+"id": "c-145d863d41",
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection",
+"node": "nara-uap-collection",
+"open": true,
+"source": {
+"domain": "www.archives.gov",
+"text": "https://www.archives.gov/uap",
+"url": "https://www.archives.gov/uap"
+},
+"text": "Record Group 615 was established pursuant to sections 1841-1843 of the 2024 National Defense Authorization Act; UAP records received from federal agencies are accessioned into RG 615 and published in the National Archives Catalog on a rolling basis.",
+"tier": 1
+},
+{
+"cls": "institution",
+"cluster": "oversight",
+"denied": true,
+"id": "c-9ea5163efd",
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection",
+"node": "nara-uap-collection",
+"open": true,
+"source": {
+"domain": null,
+"text": "P.L. 118-31, Sec. 1841(d)(2), GPO",
+"url": null
+},
+"text": "Sec. 1841(d)(2) requires the NARA National Security Program Office, with the Information Security Oversight Office, to run a security programme for the postponed and yet-to-be-disclosed portion of the collection.",
+"tier": 1
+},
+{
+"cls": "institution",
+"cluster": "oversight",
+"denied": true,
+"id": "c-84fb243263",
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection",
+"node": "nara-uap-collection",
+"open": true,
+"source": {
+"domain": "catalog.archives.gov",
+"text": "https://catalog.archives.gov/medialz/electronic-records/rg-615/656595571/01030306_Correspondence_Regarding_Unidentified_Flying_Objects.pdf",
+"url": "https://catalog.archives.gov/medialz/electronic-records/rg-615/656595571/01030306_Correspondence_Regarding_Unidentified_Flying_Objects.pdf"
+},
+"text": "Serial 44 of the Fourth Air Force 1947 index is summarised in the file's own words as 'Rept, facts regarding Disc story, Fred Crisman, Harold Dahl & crashed B-25, Tacoma, Wash area', dated 22 August 1947 and directed to the Director, FBI. Related serials in the same index cover a request for a statement from Richard Harkins, a Western Union message from H. Dahl, TWX 150 on the crashed B-25, and newspaper clippings on the B-25 crash at Kelso, Washington.",
+"tier": 1
+},
+{
+"cls": "institution",
+"cluster": "oversight",
+"denied": true,
+"id": "c-529ed0e6df",
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection",
+"node": "nara-uap-collection",
+"open": true,
+"source": {
+"domain": "catalog.archives.gov",
+"text": "https://catalog.archives.gov/medialz/electronic-records/rg-615/656595571/00452964_U-PV-FOUO_95th_Bombardment_Wing_History.pdf",
+"url": "https://catalog.archives.gov/medialz/electronic-records/rg-615/656595571/00452964_U-PV-FOUO_95th_Bombardment_Wing_History.pdf"
+},
+"text": "The 95th Bombardment Wing history was originally classified SECRET under AFR 205-1 and its title page carries the declassification stamp 'DECLASSIFIED AF/SPIB LTR, 2 NOV 79 BY AFSHRC DATE: 13 DEC 1982'. It was therefore declassified some forty-four years before it was accessioned into Record Group 615, where item 342UAP00005 carries a 5 May 2025 Air Force Declassification Office action under the FY24 NDAA. The transfer mixes newly declassified material with material declassified decades earlier, so accession into RG 615 is not evidence that a record was previously withheld.",
+"tier": 1
+},
+{
+"cls": "institution",
+"cluster": "oversight",
+"denied": true,
+"id": "c-d9b6afa0d7",
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection",
+"node": "nara-uap-collection",
+"open": true,
+"source": {
+"domain": "catalog.archives.gov",
+"text": "https://catalog.archives.gov/id/656595571",
+"url": "https://catalog.archives.gov/id/656595571"
+},
+"text": "The Air Force RG 615 series runs to 8,093 pages across its 30 PDFs. The scans carry no OCR text layer: the only machine-readable text in the files is the page-header identifier stamped on each page during processing, so the series cannot be full-text searched as released.",
 "tier": 1
 },
 {
@@ -63523,6 +63507,70 @@
 "cls": "institution",
 "cluster": "oversight",
 "denied": true,
+"id": "c-55dd1b7621",
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection",
+"node": "nara-uap-collection",
+"open": true,
+"source": {
+"domain": "catalog.archives.gov",
+"text": "National Archives Catalog metadata export for NAID 493468575, https://catalog.archives.gov/medialz/bulk-downloads/uaps/JSON/catalog-export-493468575.json",
+"url": "https://catalog.archives.gov/medialz/bulk-downloads/uaps/JSON/catalog-export-493468575.json"
+},
+"text": "The FAA series in this collection is withheld in part under a named statutory postponement code. The catalog's own metadata export for NAID 493468575 gives access restriction status 'Restricted - Partly' with the specific restriction 'UAP Records Collection Postponement Code 1843(a)(3)' and a use restriction of 'Unrestricted'. The series is titled 'Records from the Federal Aviation Administration Relating to Unidentified Anomalous Phenomena', carries accessions TR-0615-2025-0006 and TR-0615-2025-0008, an extent of 575 portable document files, and is held at the National Archives at College Park, Electronic Records.",
+"tier": 1
+},
+{
+"cls": "institution",
+"cluster": "oversight",
+"denied": true,
+"id": "c-490c654aed",
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection",
+"node": "nara-uap-collection",
+"open": true,
+"source": {
+"domain": "catalog.archives.gov",
+"text": "https://catalog.archives.gov/medialz/electronic-records/rg-615/656595571/01030306_Correspondence_Regarding_Unidentified_Flying_Objects.pdf",
+"url": "https://catalog.archives.gov/medialz/electronic-records/rg-615/656595571/01030306_Correspondence_Regarding_Unidentified_Flying_Objects.pdf"
+},
+"text": "The Fourth Air Force 1947 index carries multiple serials of correspondence to and from Kenneth Arnold, including serial 4, an investigation of 'K.M. Arnold, Flying Disc first rept in this area' sent by Headquarters Fourth Air Force to AAF and ADC on 18 July 1947, and serial 9, a 22 July 1947 request from R.A. Palmer of Ventura Press, Evanston, Illinois, for an article about flying saucers from Arnold.",
+"tier": 1
+},
+{
+"cls": "institution",
+"cluster": "oversight",
+"denied": true,
+"id": "c-d575226717",
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection",
+"node": "nara-uap-collection",
+"open": true,
+"source": {
+"domain": "catalog.archives.gov",
+"text": "https://catalog.archives.gov/medialz/electronic-records/rg-615/656595571/01030306_Correspondence_Regarding_Unidentified_Flying_Objects.pdf",
+"url": "https://catalog.archives.gov/medialz/electronic-records/rg-615/656595571/01030306_Correspondence_Regarding_Unidentified_Flying_Objects.pdf"
+},
+"text": "The Fourth Air Force 1947 index records liaison with the Federal Bureau of Investigation on flying-disc reports: serial 40 is an information letter from Headquarters Fourth Air Force dated 27 August 1947 to the FBI at San Francisco, and serial 51 is an incident report from the FBI at Phoenix, Arizona dated 23 October 1947 to the Special Agent in Charge, San Francisco.",
+"tier": 1
+},
+{
+"cls": "institution",
+"cluster": "oversight",
+"denied": true,
+"id": "c-a94175db29",
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection",
+"node": "nara-uap-collection",
+"open": true,
+"source": {
+"domain": null,
+"text": "National Archives, UAP records research page, archives.gov/uap",
+"url": null
+},
+"text": "The collection is designated Record Group 615 and was established pursuant to Secs. 1841-1843 of the FY2024 NDAA, P.L. 118-31.",
+"tier": 1
+},
+{
+"cls": "institution",
+"cluster": "oversight",
+"denied": true,
 "id": "c-fbd91d9ca4",
 "label": "National Archives Unidentified Anomalous Phenomena Records Collection",
 "node": "nara-uap-collection",
@@ -63533,6 +63581,22 @@
 "url": null
 },
 "text": "The collection is organised at NARA as Record Group 615.",
+"tier": 1
+},
+{
+"cls": "institution",
+"cluster": "oversight",
+"denied": true,
+"id": "c-37c0875f5d",
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection",
+"node": "nara-uap-collection",
+"open": true,
+"source": {
+"domain": null,
+"text": "National Archives UAP Records Collection page, accessed 12 August 2026",
+"url": null
+},
+"text": "The collection was established under sections 1841-1843 of the FY2024 National Defense Authorization Act, Public Law 118-31, and NARA created Record Group 615 to hold it.",
 "tier": 1
 },
 {
@@ -63555,6 +63619,86 @@
 "cls": "institution",
 "cluster": "oversight",
 "denied": true,
+"id": "c-5e0ec65810",
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection",
+"node": "nara-uap-collection",
+"open": true,
+"source": {
+"domain": null,
+"text": "National Archives, UAP records research topic page",
+"url": null
+},
+"text": "UAP records received by NARA from federal agencies under the 2024 NDAA are accessioned into RG 615 and added on a rolling basis as received.",
+"tier": 1
+},
+{
+"cls": "institution",
+"cluster": "oversight",
+"denied": true,
+"id": "c-2a0d21bfb5",
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection",
+"node": "nara-uap-collection",
+"open": true,
+"source": {
+"domain": null,
+"text": "Department of War news story, 27 February 2026",
+"url": null
+},
+"text": "The Department of War states that AARO 'has made progress in making UAP information available and in transferring those records to the National Archives in accordance with federal law.'",
+"tier": 2
+},
+{
+"cls": "institution",
+"cluster": "oversight",
+"denied": true,
+"id": "c-a6ced6009a",
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection",
+"node": "nara-uap-collection",
+"open": true,
+"source": {
+"domain": "www.archives.gov",
+"text": "https://www.archives.gov/research/topics/uaps/rg-615",
+"url": "https://www.archives.gov/research/topics/uaps/rg-615"
+},
+"text": "CIA, DIA, DOE, NASA, NRO, NGA, DHS, the Army and the Navy still have no series in RG 615 as of 28 August 2026, and NARA publishes no compliance list or non-compliance statement. The Department of the Air Force, which was in this list until 28 August 2026, now has one. Reasoning: direct inspection of the RG 615 contributor list and the FAQ, which addresses the framework and is silent on implementation status.",
+"tier": 3
+},
+{
+"cls": "institution",
+"cluster": "oversight",
+"denied": true,
+"id": "c-04dc1d08a9",
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection",
+"node": "nara-uap-collection",
+"open": true,
+"source": {
+"domain": null,
+"text": "Inference from the described contents of RG 615 and NARA's Air Force UFO holdings description",
+"url": null
+},
+"text": "No series corresponding to JANAP 146 CIRVIS national-security UFO reports, or to Air Materiel Command T-2 intelligence files for 1947-1951, has been identified in RG 615 accessions to date — the two series most likely to bear on a legacy recovery effort.",
+"tier": 3
+},
+{
+"cls": "institution",
+"cluster": "oversight",
+"denied": true,
+"id": "c-3fc830ac3a",
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection",
+"node": "nara-uap-collection",
+"open": true,
+"source": {
+"domain": null,
+"text": "Inference from the April 2025 guidance date against the deadline computed from the 22 December 2023 enactment date",
+"url": null
+},
+"text": "That NARA's transfer guidance is dated April 2025, roughly six months after the statutory 300-day agency deadline of 17 October 2024, indicates the agency review requirement was not met on time.",
+"tier": 3
+},
+{
+"cls": "institution",
+"cluster": "oversight",
+"denied": true,
 "id": "c-f76b3388b5",
 "label": "National Archives Unidentified Anomalous Phenomena Records Collection",
 "node": "nara-uap-collection",
@@ -63568,77 +63712,13 @@
 "tier": 3
 },
 {
-"cls": "program",
+"cls": "institution",
 "cluster": "oversight",
-"denied": false,
-"id": "c-30cf912013",
-"label": "National Archives UAP Records Collection (Record Group 615)",
-"node": "nara-uap-records-collection",
-"open": false,
-"source": {
-"domain": null,
-"text": "National Archives UAP records page",
-"url": null
-},
-"text": "'NARA will continue to add UAP records to the UAP Records Collection (RG 615) and make them available online through the National Archives Catalog on an ongoing, rolling basis as they are received from federal agencies.'",
-"tier": 1
-},
-{
-"cls": "program",
-"cluster": "oversight",
-"denied": false,
-"id": "c-ba852e3685",
-"label": "National Archives UAP Records Collection (Record Group 615)",
-"node": "nara-uap-records-collection",
-"open": false,
-"source": {
-"domain": null,
-"text": "National Archives UAP Records Collection and UAP research topic pages, accessed 12 August 2026",
-"url": null
-},
-"text": "NARA publishes no list of which agencies have transferred records, no item or page counts by agency, and no transfer dates.",
-"tier": 1
-},
-{
-"cls": "program",
-"cluster": "oversight",
-"denied": false,
-"id": "c-3b6521034b",
-"label": "National Archives UAP Records Collection (Record Group 615)",
-"node": "nara-uap-records-collection",
-"open": false,
-"source": {
-"domain": null,
-"text": "National Archives UAP Records Collection page, accessed 12 August 2026",
-"url": null
-},
-"text": "The collection was established under sections 1841-1843 of the FY2024 National Defense Authorization Act, Public Law 118-31, and NARA created Record Group 615 to hold it.",
-"tier": 1
-},
-{
-"cls": "program",
-"cluster": "oversight",
-"denied": false,
-"id": "c-cd6af6ff26",
-"label": "National Archives UAP Records Collection (Record Group 615)",
-"node": "nara-uap-records-collection",
-"open": false,
-"source": {
-"domain": null,
-"text": "Department of War news story, 27 February 2026",
-"url": null
-},
-"text": "The Department of War states that AARO 'has made progress in making UAP information available and in transferring those records to the National Archives in accordance with federal law.'",
-"tier": 2
-},
-{
-"cls": "program",
-"cluster": "oversight",
-"denied": false,
-"id": "c-5c0a825ed3",
-"label": "National Archives UAP Records Collection (Record Group 615)",
-"node": "nara-uap-records-collection",
-"open": false,
+"denied": true,
+"id": "c-7fc01b4321",
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection",
+"node": "nara-uap-collection",
+"open": true,
 "source": {
 "domain": null,
 "text": "Inference from NARA's rolling-basis statement against the disclosure architecture in the adopted FY2027 NDAA amendment",
@@ -63891,6 +63971,38 @@
 "cls": "program",
 "cluster": "research",
 "denied": false,
+"id": "c-43b4b8de1c",
+"label": "NASA UAP Independent Study Team",
+"node": "nasa-uap-ist",
+"open": false,
+"source": {
+"domain": null,
+"text": "NASA announcements and the team's final report",
+"url": null
+},
+"text": "NASA commissioned the sixteen-member UAP Independent Study Team on 24 May 2022 under chair David Spergel with Daniel Evans as designated federal official; it began work 24 October 2022, held one public meeting on 31 May 2023, and reported on 14 September 2023.",
+"tier": 1
+},
+{
+"cls": "program",
+"cluster": "research",
+"denied": false,
+"id": "c-9aa45b3f05",
+"label": "NASA UAP Independent Study Team",
+"node": "nasa-uap-ist",
+"open": false,
+"source": {
+"domain": null,
+"text": "NASA UAP Independent Study Team Final Report, 14 September 2023",
+"url": null
+},
+"text": "The report concluded that no evidence of extraterrestrial origin was found and that poor-quality and limited data characterises many unexplained events, recommending a rigorous evidence-based approach using AI and citizen observers.",
+"tier": 1
+},
+{
+"cls": "program",
+"cluster": "research",
+"denied": false,
 "id": "c-f4dad98fe7",
 "label": "NASA UAP Independent Study Team",
 "node": "nasa-uap-ist",
@@ -63921,43 +64033,11 @@
 },
 {
 "cls": "program",
-"cluster": "oversight",
+"cluster": "research",
 "denied": false,
-"id": "c-a59d97025c",
-"label": "NASA Unidentified Anomalous Phenomena Independent Study Team",
-"node": "nasa-uapist",
-"open": false,
-"source": {
-"domain": null,
-"text": "NASA announcements and the team's final report",
-"url": null
-},
-"text": "NASA commissioned the sixteen-member UAP Independent Study Team on 24 May 2022 under chair David Spergel with Daniel Evans as designated federal official; it began work 24 October 2022, held one public meeting on 31 May 2023, and reported on 14 September 2023.",
-"tier": 1
-},
-{
-"cls": "program",
-"cluster": "oversight",
-"denied": false,
-"id": "c-8d0d6851ef",
-"label": "NASA Unidentified Anomalous Phenomena Independent Study Team",
-"node": "nasa-uapist",
-"open": false,
-"source": {
-"domain": null,
-"text": "NASA UAP Independent Study Team Final Report, 14 September 2023",
-"url": null
-},
-"text": "The report concluded that no evidence of extraterrestrial origin was found and that poor-quality and limited data characterises many unexplained events, recommending a rigorous evidence-based approach using AI and citizen observers.",
-"tier": 1
-},
-{
-"cls": "program",
-"cluster": "oversight",
-"denied": false,
-"id": "c-b4efce70c9",
-"label": "NASA Unidentified Anomalous Phenomena Independent Study Team",
-"node": "nasa-uapist",
+"id": "c-7a76af2449",
+"label": "NASA UAP Independent Study Team",
+"node": "nasa-uap-ist",
 "open": false,
 "source": {
 "domain": null,
@@ -66131,6 +66211,22 @@
 "cls": "legislation",
 "cluster": "oversight",
 "denied": false,
+"id": "c-215857bccb",
+"label": "FY2024 NDAA sec. 1687 - Limitation on Use of Funds for Certain Unreported Programs",
+"node": "ndaa-fy2024-1687",
+"open": false,
+"source": {
+"domain": null,
+"text": "Full-text search of P.L. 118-159 and P.L. 119-60, GPO",
+"url": null
+},
+"text": "Neither P.L. 118-159 nor P.L. 119-60 contains the phrase 'special access or restricted access'; the limitation was not renewed.",
+"tier": 1
+},
+{
+"cls": "legislation",
+"cluster": "oversight",
+"denied": false,
 "id": "c-6900a1f3f3",
 "label": "FY2024 NDAA sec. 1687 - Limitation on Use of Funds for Certain Unreported Programs",
 "node": "ndaa-fy2024-1687",
@@ -66147,6 +66243,22 @@
 "cls": "legislation",
 "cluster": "oversight",
 "denied": false,
+"id": "c-86f6ea44f8",
+"label": "FY2024 NDAA sec. 1687 - Limitation on Use of Funds for Certain Unreported Programs",
+"node": "ndaa-fy2024-1687",
+"open": false,
+"source": {
+"domain": null,
+"text": "P.L. 118-31, Sec. 1687(a), GPO",
+"url": null
+},
+"text": "Sec. 1687(a) conditions FY2024 DoD funding of UAP special or restricted access activities on the Secretary of Defense providing details to the congressional defence and intelligence committees and congressional leadership.",
+"tier": 1
+},
+{
+"cls": "legislation",
+"cluster": "oversight",
+"denied": false,
 "id": "c-5f9ad31c2f",
 "label": "FY2024 NDAA sec. 1687 - Limitation on Use of Funds for Certain Unreported Programs",
 "node": "ndaa-fy2024-1687",
@@ -66157,6 +66269,22 @@
 "url": null
 },
 "text": "Sec. 1687(b), note '50 USC 3373 note': UAP-related independent research and development funding 'shall not be allowable as indirect expenses for purposes of contracts covered by' DoD Instruction 3204.01 unless the material and information is made available to the appropriate congressional committees and congressional leadership.",
+"tier": 1
+},
+{
+"cls": "legislation",
+"cluster": "oversight",
+"denied": false,
+"id": "c-894e7183ff",
+"label": "FY2024 NDAA sec. 1687 - Limitation on Use of Funds for Certain Unreported Programs",
+"node": "ndaa-fy2024-1687",
+"open": false,
+"source": {
+"domain": null,
+"text": "P.L. 118-31, Sec. 1687(b), GPO",
+"url": null
+},
+"text": "Sec. 1687(b), noted as 50 U.S.C. 3373 note, disallows UAP-related independent research and development as an indirect expense on covered contracts unless disclosed to Congress.",
 "tier": 1
 },
 {
@@ -66270,6 +66398,22 @@
 },
 "text": "Section 7343 imposes the same limitations on intelligence funds, running through the Director of National Intelligence rather than the Secretary of Defense.",
 "tier": 1
+},
+{
+"cls": "legislation",
+"cluster": "oversight",
+"denied": false,
+"id": "c-4be0417a5a",
+"label": "FY2024 NDAA sec. 1687 - Limitation on Use of Funds for Certain Unreported Programs",
+"node": "ndaa-fy2024-1687",
+"open": false,
+"source": {
+"domain": null,
+"text": "Inference from the text of Sec. 1687(a) and the absence of successor provisions",
+"url": null
+},
+"text": "Because the limitation attaches only to funds authorised by the FY2024 Act, its non-renewal in two subsequent cycles means there is at present no statutory funding bar on undisclosed UAP special access programmes.",
+"tier": 3
 },
 {
 "cls": "legislation",
@@ -70560,54 +70704,6 @@
 "tier": 1
 },
 {
-"cls": "document",
-"cluster": "other",
-"denied": false,
-"id": "c-b32e81e07e",
-"label": "ORNL Synopsis: Analysis of a Metallic Specimen",
-"node": "ornl-metallic-specimen-report",
-"open": false,
-"source": {
-"domain": null,
-"text": "AARO UAP Records/Information Papers page",
-"url": null
-},
-"text": "The report is titled 'ORNL Synopsis: Analysis of a Metallic Specimen', dated April 2024, produced under a 2022 AARO contract with Oak Ridge National Laboratory.",
-"tier": 1
-},
-{
-"cls": "document",
-"cluster": "other",
-"denied": false,
-"id": "c-485adcff40",
-"label": "ORNL Synopsis: Analysis of a Metallic Specimen",
-"node": "ornl-metallic-specimen-report",
-"open": false,
-"source": {
-"domain": null,
-"text": "Gizmodo, 11 July 2024, quoting the published synopsis",
-"url": null
-},
-"text": "Neither AARO nor ORNL could verify the specimen's historical origin.",
-"tier": 2
-},
-{
-"cls": "document",
-"cluster": "other",
-"denied": false,
-"id": "c-cbdea9ee61",
-"label": "ORNL Synopsis: Analysis of a Metallic Specimen",
-"node": "ornl-metallic-specimen-report",
-"open": false,
-"source": {
-"domain": null,
-"text": "NewsNation, 11 July 2024; Popular Mechanics, 23 March 2026",
-"url": null
-},
-"text": "The analysis concluded the material is a magnesium alloy and found no evidence of extraterrestrial origin; ORNL scientists examined it for technosignatures using scanning transmission electron microscopy after finding no biosignatures.",
-"tier": 2
-},
-{
 "cls": "person",
 "cluster": "legacy",
 "denied": false,
@@ -72989,214 +73085,6 @@
 "url": null
 },
 "text": "A DoD special access program initiated before 4 December 1987 and never re-designated would fall outside the subsection (b) 'new special access program' notice regime and outside the subsection (f) 30-day pre-initiation notice, both of which operate prospectively. Reasoning: neither provision contains retroactive language, and (b)(3) defines the trigger by reference to prior notice under a subsection that did not exist.",
-"tier": 3
-},
-{
-"cls": "legislation",
-"cluster": "oversight",
-"denied": false,
-"id": "c-afaf953d7b",
-"label": "P.L. 118-31 Sec. 1687 - limitation on funds for unreported programs",
-"node": "pl118-31-sec-1687",
-"open": false,
-"source": {
-"domain": null,
-"text": "PLAW-118publ31 sec. 1687(a)",
-"url": null
-},
-"text": "Enacted text, PL 118-31 sec. 1687(a), 137 Stat. 621: 'LIMITATION ON USE OF FUNDS FOR CERTAIN UNREPORTED PROGRAMS. (a) Limitation on Availability of Funds.--None of the funds authorized to be appropriated or otherwise made available by this Act may be obligated or expended in support of any activities involving unidentified anomalous phenomena protected under any form of special access or restricted access limitations unless the Secretary of Defense has provided the details of the activity to the appropriate congressional committees and congressional leadership, including for any activities described in a report released by the All-Domain Anomaly Resolution Office in fiscal year 2024.'",
-"tier": 1
-},
-{
-"cls": "legislation",
-"cluster": "oversight",
-"denied": false,
-"id": "c-59f36b5d77",
-"label": "P.L. 118-31 Sec. 1687 - limitation on funds for unreported programs",
-"node": "pl118-31-sec-1687",
-"open": false,
-"source": {
-"domain": null,
-"text": "Full-text search of P.L. 118-159 and P.L. 119-60, GPO",
-"url": null
-},
-"text": "Neither P.L. 118-159 nor P.L. 119-60 contains the phrase 'special access or restricted access'; the limitation was not renewed.",
-"tier": 1
-},
-{
-"cls": "legislation",
-"cluster": "oversight",
-"denied": false,
-"id": "c-3cf4c866e8",
-"label": "P.L. 118-31 Sec. 1687 - limitation on funds for unreported programs",
-"node": "pl118-31-sec-1687",
-"open": false,
-"source": {
-"domain": null,
-"text": "P.L. 118-31, Sec. 1687(a), GPO",
-"url": null
-},
-"text": "Sec. 1687(a) conditions FY2024 DoD funding of UAP special or restricted access activities on the Secretary of Defense providing details to the congressional defence and intelligence committees and congressional leadership.",
-"tier": 1
-},
-{
-"cls": "legislation",
-"cluster": "oversight",
-"denied": false,
-"id": "c-c972484f57",
-"label": "P.L. 118-31 Sec. 1687 - limitation on funds for unreported programs",
-"node": "pl118-31-sec-1687",
-"open": false,
-"source": {
-"domain": null,
-"text": "PLAW-118publ31 sec. 1687(b), 137 Stat. 621",
-"url": null
-},
-"text": "Sec. 1687(b), note '50 USC 3373 note': UAP-related independent research and development funding 'shall not be allowable as indirect expenses for purposes of contracts covered by' DoD Instruction 3204.01 unless the material and information is made available to the appropriate congressional committees and congressional leadership.",
-"tier": 1
-},
-{
-"cls": "legislation",
-"cluster": "oversight",
-"denied": false,
-"id": "c-4b7a4353ae",
-"label": "P.L. 118-31 Sec. 1687 - limitation on funds for unreported programs",
-"node": "pl118-31-sec-1687",
-"open": false,
-"source": {
-"domain": null,
-"text": "P.L. 118-31, Sec. 1687(b), GPO",
-"url": null
-},
-"text": "Sec. 1687(b), noted as 50 U.S.C. 3373 note, disallows UAP-related independent research and development as an indirect expense on covered contracts unless disclosed to Congress.",
-"tier": 1
-},
-{
-"cls": "legislation",
-"cluster": "oversight",
-"denied": false,
-"id": "c-00d4f541aa",
-"label": "P.L. 118-31 Sec. 1687 - limitation on funds for unreported programs",
-"node": "pl118-31-sec-1687",
-"open": false,
-"source": {
-"domain": null,
-"text": "PLAW-118publ31 sec. 1687(c), 137 Stat. 621-622",
-"url": null
-},
-"text": "Sec. 1687(c) defines 'appropriate congressional committees' as the congressional defense committees plus HPSCI and SSCI, and imports the 50 U.S.C. 3373(n) definition of 'unidentified anomalous phenomena'.",
-"tier": 1
-},
-{
-"cls": "legislation",
-"cluster": "oversight",
-"denied": false,
-"id": "c-ac29d809fa",
-"label": "P.L. 118-31 Sec. 1687 - limitation on funds for unreported programs",
-"node": "pl118-31-sec-1687",
-"open": false,
-"source": {
-"domain": null,
-"text": "Inference from the text of Sec. 1687(a) and the absence of successor provisions",
-"url": null
-},
-"text": "Because the limitation attaches only to funds authorised by the FY2024 Act, its non-renewal in two subsequent cycles means there is at present no statutory funding bar on undisclosed UAP special access programmes.",
-"tier": 3
-},
-{
-"cls": "legislation",
-"cluster": "ic",
-"denied": false,
-"id": "c-bdb02ba037",
-"label": "P.L. 118-31 Sec. 7343 - the truncated funding limitation",
-"node": "pl118-31-sec-7343",
-"open": false,
-"source": {
-"domain": null,
-"text": "PLAW-118publ31 sec. 7343(b)",
-"url": null
-},
-"text": "Enacted text, PL 118-31 sec. 7343(b), 137 Stat. 1064: 'None of the funds authorized to be appropriated or otherwise made available by this division may be obligated or expended in support of any activity involving unidentified anomalous phenomena protected under any form of special access or restricted access limitation unless the Director of National Intelligence has provided the details of the activity to the appropriate committees of Congress and congressional leadership, including for any activities described in a report released by the All-domain Anomaly Resolution Office in fiscal year 2024.'",
-"tier": 1
-},
-{
-"cls": "legislation",
-"cluster": "ic",
-"denied": false,
-"id": "c-d64bcf5e66",
-"label": "P.L. 118-31 Sec. 7343 - the truncated funding limitation",
-"node": "pl118-31-sec-7343",
-"open": false,
-"source": {
-"domain": null,
-"text": "Comparison of BILLS-118s2226es Div. M sec. 1102 with PLAW-118publ31 sec. 7343",
-"url": null
-},
-"text": "Sec. 7343 is the truncated survivor of sec. 1102 of the Senate-passed IAA FY2024 division of S. 2226; the contractor turn-in obligation, the non-earth-origin materials list, and the liability shield were removed.",
-"tier": 1
-},
-{
-"cls": "legislation",
-"cluster": "ic",
-"denied": false,
-"id": "c-82e2c4de3b",
-"label": "P.L. 118-31 Sec. 7343 - the truncated funding limitation",
-"node": "pl118-31-sec-7343",
-"open": false,
-"source": {
-"domain": null,
-"text": "P.L. 118-31, Sec. 7343(c), GPO",
-"url": null
-},
-"text": "Sec. 7343(c) as enacted refers to 'contracts covered by such instruction' although no instruction is identified anywhere in the section.",
-"tier": 1
-},
-{
-"cls": "legislation",
-"cluster": "ic",
-"denied": false,
-"id": "c-bba856e149",
-"label": "P.L. 118-31 Sec. 7343 - the truncated funding limitation",
-"node": "pl118-31-sec-7343",
-"open": false,
-"source": {
-"domain": null,
-"text": "PLAW-118publ31 sec. 7343(c)",
-"url": null
-},
-"text": "Sec. 7343(c): 'Independent research and development funding relating to unidentified anomalous phenomena shall not be allowable as indirect expenses for purposes of contracts covered by such instruction, unless such material and information is made available to the appropriate congressional committees and leadership.'",
-"tier": 1
-},
-{
-"cls": "legislation",
-"cluster": "ic",
-"denied": false,
-"id": "c-55e9443e71",
-"label": "P.L. 118-31 Sec. 7343 - the truncated funding limitation",
-"node": "pl118-31-sec-7343",
-"open": false,
-"source": {
-"domain": null,
-"text": "S. 2226 as engrossed, Sec. 1102(f)(1), compared with P.L. 118-31 Sec. 7343, GPO",
-"url": null
-},
-"text": "The Senate original at Sec. 1102(f)(1) cited 'Department of Defense Instruction Number 3204.01 (dated August 20, 2014, incorporating change 2, dated July 9, 2020)'; that citation appears nowhere in P.L. 118-31 Sec. 7343.",
-"tier": 1
-},
-{
-"cls": "legislation",
-"cluster": "ic",
-"denied": false,
-"id": "c-6aaed8f150",
-"label": "P.L. 118-31 Sec. 7343 - the truncated funding limitation",
-"node": "pl118-31-sec-7343",
-"open": false,
-"source": {
-"domain": null,
-"text": "Inference from the textual difference between the engrossed and enrolled versions",
-"url": null
-},
-"text": "A dangling cross-reference of this kind in enacted law is a drafting artefact of late excision rather than of deliberate policy, and it dates the removal to the conference stage.",
 "tier": 3
 },
 {
@@ -75953,102 +75841,6 @@
 },
 {
 "cls": "document",
-"cluster": "other",
-"denied": false,
-"id": "c-b4e2bef505",
-"label": "Reid letter to DEPSECDEF Lynn requesting restricted SAP for AATIP (24 June 2009)",
-"node": "reid-letter-2009-06-24",
-"open": false,
-"source": {
-"domain": "www.dia.mil",
-"text": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237659/",
-"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237659/"
-},
-"text": "Letterhead: 'HARRY REID, MAJORITY LEADER, NEVADA — United States Senate, Washington, DC 20510'. Dated June 24, 2009. Addressed to 'Honorable William Lynn III, Deputy Secretary of Defense, 1010 Defense Pentagon, Washington, DC 20301-1010'. Salutation: 'Dear Secretary Lynn:'",
-"tier": 1
-},
-{
-"cls": "document",
-"cluster": "other",
-"denied": false,
-"id": "c-df415b8411",
-"label": "Reid letter to DEPSECDEF Lynn requesting restricted SAP for AATIP (24 June 2009)",
-"node": "reid-letter-2009-06-24",
-"open": false,
-"source": {
-"domain": "www.dia.mil",
-"text": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237659/",
-"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237659/"
-},
-"text": "Text: 'Beginning this past September, the U.S. Senate has mandated that the Defense Intelligence Agency assess far-term foreign advanced aerospace threats to the United States. The scope of program interest covers from the present out to forty years and beyond.'",
-"tier": 1
-},
-{
-"cls": "document",
-"cluster": "other",
-"denied": false,
-"id": "c-9cb0ba8e26",
-"label": "Reid letter to DEPSECDEF Lynn requesting restricted SAP for AATIP (24 June 2009)",
-"node": "reid-letter-2009-06-24",
-"open": false,
-"source": {
-"domain": "www.dia.mil",
-"text": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237659/",
-"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237659/"
-},
-"text": "Text: 'Since the Advanced Aerospace Threat and Identification Program (AAITP) and study were first commissioned, much progress has been made with the identification of several highly sensitive, unconventional aerospace-related findings. Given the current rate of success, the continued study of these subjects will likely lead to technology advancements that in the immediate near-term will require extraordinary protection. Due to the sensitivities of the information surrounding aspects of this program, I require your assistance in establishing a [restricted special access program].'",
-"tier": 1
-},
-{
-"cls": "document",
-"cluster": "other",
-"denied": false,
-"id": "c-1dc06cc0cc",
-"label": "Reid letter to DEPSECDEF Lynn requesting restricted SAP for AATIP (24 June 2009)",
-"node": "reid-letter-2009-06-24",
-"open": false,
-"source": {
-"domain": "www.dia.mil",
-"text": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237659/",
-"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237659/"
-},
-"text": "Text: 'technical studies are being conducted in regard to advanced lift, propulsion, the use of unconventional materials and controls, signature reduction, weaponry, human interface and human effects.'",
-"tier": 1
-},
-{
-"cls": "document",
-"cluster": "other",
-"denied": false,
-"id": "c-8d48d26843",
-"label": "Reid letter to DEPSECDEF Lynn requesting restricted SAP for AATIP (24 June 2009)",
-"node": "reid-letter-2009-06-24",
-"open": false,
-"source": {
-"domain": "www.dia.mil",
-"text": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237660/",
-"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237660/"
-},
-"text": "The USD(I) memorandum to DEPSECDEF confirms receipt and framing: 'Senator Harry Reid sent a letter to you on June 24, 2009 requesting the Department of Defense put the AAITP under \"Restricted Special Access Protection\" (Tab A).'",
-"tier": 1
-},
-{
-"cls": "document",
-"cluster": "other",
-"denied": false,
-"id": "c-1961f61d7b",
-"label": "Reid letter to DEPSECDEF Lynn requesting restricted SAP for AATIP (24 June 2009)",
-"node": "reid-letter-2009-06-24",
-"open": false,
-"source": {
-"domain": "www.dia.mil",
-"text": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237659/",
-"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237659/"
-},
-"text": "Reid, the sitting Senate Majority Leader, asserted on his own signature that the program had produced 'several highly sensitive, unconventional aerospace-related findings' warranting 'extraordinary protection' — a claim made in writing to the Deputy Secretary of Defense, not to the press.",
-"tier": 2
-},
-{
-"cls": "document",
 "cluster": "oversight",
 "denied": true,
 "id": "c-1e6270b657",
@@ -76061,6 +75853,22 @@
 "url": null
 },
 "text": "DoD spokesperson Susan Gough confirmed the letter's authenticity on 13 June 2019.",
+"tier": 1
+},
+{
+"cls": "document",
+"cluster": "oversight",
+"denied": true,
+"id": "c-46c7e5b04c",
+"label": "Reid Letter to DEPSECDEF Requesting Restricted SAP Status",
+"node": "reid-sap-letter-2009",
+"open": false,
+"source": {
+"domain": "www.dia.mil",
+"text": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237659/",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237659/"
+},
+"text": "Letterhead: 'HARRY REID, MAJORITY LEADER, NEVADA — United States Senate, Washington, DC 20510'. Dated June 24, 2009. Addressed to 'Honorable William Lynn III, Deputy Secretary of Defense, 1010 Defense Pentagon, Washington, DC 20301-1010'. Salutation: 'Dear Secretary Lynn:'",
 "tier": 1
 },
 {
@@ -76083,6 +75891,70 @@
 "cls": "document",
 "cluster": "oversight",
 "denied": true,
+"id": "c-f1e5b9db8a",
+"label": "Reid Letter to DEPSECDEF Requesting Restricted SAP Status",
+"node": "reid-sap-letter-2009",
+"open": false,
+"source": {
+"domain": "www.dia.mil",
+"text": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237659/",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237659/"
+},
+"text": "Text: 'Beginning this past September, the U.S. Senate has mandated that the Defense Intelligence Agency assess far-term foreign advanced aerospace threats to the United States. The scope of program interest covers from the present out to forty years and beyond.'",
+"tier": 1
+},
+{
+"cls": "document",
+"cluster": "oversight",
+"denied": true,
+"id": "c-3981900369",
+"label": "Reid Letter to DEPSECDEF Requesting Restricted SAP Status",
+"node": "reid-sap-letter-2009",
+"open": false,
+"source": {
+"domain": "www.dia.mil",
+"text": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237659/",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237659/"
+},
+"text": "Text: 'Since the Advanced Aerospace Threat and Identification Program (AAITP) and study were first commissioned, much progress has been made with the identification of several highly sensitive, unconventional aerospace-related findings. Given the current rate of success, the continued study of these subjects will likely lead to technology advancements that in the immediate near-term will require extraordinary protection. Due to the sensitivities of the information surrounding aspects of this program, I require your assistance in establishing a [restricted special access program].'",
+"tier": 1
+},
+{
+"cls": "document",
+"cluster": "oversight",
+"denied": true,
+"id": "c-783aa41b90",
+"label": "Reid Letter to DEPSECDEF Requesting Restricted SAP Status",
+"node": "reid-sap-letter-2009",
+"open": false,
+"source": {
+"domain": "www.dia.mil",
+"text": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237659/",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237659/"
+},
+"text": "Text: 'technical studies are being conducted in regard to advanced lift, propulsion, the use of unconventional materials and controls, signature reduction, weaponry, human interface and human effects.'",
+"tier": 1
+},
+{
+"cls": "document",
+"cluster": "oversight",
+"denied": true,
+"id": "c-87166975ae",
+"label": "Reid Letter to DEPSECDEF Requesting Restricted SAP Status",
+"node": "reid-sap-letter-2009",
+"open": false,
+"source": {
+"domain": "www.dia.mil",
+"text": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237660/",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237660/"
+},
+"text": "The USD(I) memorandum to DEPSECDEF confirms receipt and framing: 'Senator Harry Reid sent a letter to you on June 24, 2009 requesting the Department of Defense put the AAITP under \"Restricted Special Access Protection\" (Tab A).'",
+"tier": 1
+},
+{
+"cls": "document",
+"cluster": "oversight",
+"denied": true,
 "id": "c-f6bc452cab",
 "label": "Reid Letter to DEPSECDEF Requesting Restricted SAP Status",
 "node": "reid-sap-letter-2009",
@@ -76094,6 +75966,22 @@
 },
 "text": "The letter projects program length FY09 through FY13 with a preliminary bigoted list for FY10, and refers questions to Reid staffer Bob Herbert.",
 "tier": 1
+},
+{
+"cls": "document",
+"cluster": "oversight",
+"denied": true,
+"id": "c-32c463d49a",
+"label": "Reid Letter to DEPSECDEF Requesting Restricted SAP Status",
+"node": "reid-sap-letter-2009",
+"open": false,
+"source": {
+"domain": "www.dia.mil",
+"text": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237659/",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237659/"
+},
+"text": "Reid, the sitting Senate Majority Leader, asserted on his own signature that the program had produced 'several highly sensitive, unconventional aerospace-related findings' warranting 'extraordinary protection' — a claim made in writing to the Deputy Secretary of Defense, not to the press.",
+"tier": 2
 },
 {
 "cls": "document",
@@ -76350,86 +76238,6 @@
 },
 "text": "Truman's letter to Vannevar Bush of 25 September 1947 records both the appointment and the predecessor body: 'I am happy to know that you are willing to continue in the public service as Chairman of the Research and Development Board created by the National Security Act of 1947 ... Since V-J Day you have continued to render valuable service as chairman of the Joint Research and Development Board set up by the Secretaries of War and Navy.' The commonly cited 1941 founding date is wrong by six years.",
 "tier": 1
-},
-{
-"cls": "institution",
-"cluster": "oversight",
-"denied": false,
-"id": "c-081100b984",
-"label": "NARA Record Group 615 - UAP Records Collection",
-"node": "rg-615-uap-records",
-"open": false,
-"source": {
-"domain": null,
-"text": "National Archives, Air Force UFO records page",
-"url": null
-},
-"text": "Existing legacy holdings include the Project Blue Book records: approximately 2 cubic feet of project/administrative files, 37 cubic feet of case files and 3 cubic feet of OSI records on 94 rolls of microfilm (T-1206).",
-"tier": 1
-},
-{
-"cls": "institution",
-"cluster": "oversight",
-"denied": false,
-"id": "c-ef410657f6",
-"label": "NARA Record Group 615 - UAP Records Collection",
-"node": "rg-615-uap-records",
-"open": false,
-"source": {
-"domain": null,
-"text": "National Archives, UAP records research topic page",
-"url": null
-},
-"text": "NARA established the Unidentified Anomalous Phenomena Records Collection (Record Group 615) per sections 1841-1843 of the FY2024 National Defense Authorization Act, Public Law 118-31.",
-"tier": 1
-},
-{
-"cls": "institution",
-"cluster": "oversight",
-"denied": false,
-"id": "c-88101cf029",
-"label": "NARA Record Group 615 - UAP Records Collection",
-"node": "rg-615-uap-records",
-"open": false,
-"source": {
-"domain": null,
-"text": "National Archives, UAP records research topic page",
-"url": null
-},
-"text": "NARA has been digitising historical UFO/UAP records from its existing holdings and releasing them through the online catalog; the topic page was last updated 24 April 2025.",
-"tier": 1
-},
-{
-"cls": "institution",
-"cluster": "oversight",
-"denied": false,
-"id": "c-864547c01c",
-"label": "NARA Record Group 615 - UAP Records Collection",
-"node": "rg-615-uap-records",
-"open": false,
-"source": {
-"domain": null,
-"text": "National Archives, UAP records research topic page",
-"url": null
-},
-"text": "UAP records received by NARA from federal agencies under the 2024 NDAA are accessioned into RG 615 and added on a rolling basis as received.",
-"tier": 1
-},
-{
-"cls": "institution",
-"cluster": "oversight",
-"denied": false,
-"id": "c-e28d7107ea",
-"label": "NARA Record Group 615 - UAP Records Collection",
-"node": "rg-615-uap-records",
-"open": false,
-"source": {
-"domain": null,
-"text": "Inference from the described contents of RG 615 and NARA's Air Force UFO holdings description",
-"url": null
-},
-"text": "No series corresponding to JANAP 146 CIRVIS national-security UFO reports, or to Air Materiel Command T-2 intelligence files for 1947-1951, has been identified in RG 615 accessions to date — the two series most likely to bear on a legacy recovery effort.",
-"tier": 3
 },
 {
 "cls": "institution",
@@ -78275,6 +78083,38 @@
 "cls": "person",
 "cluster": "research",
 "denied": false,
+"id": "c-4ff20e480e",
+"label": "Dr. Robert M. Wood",
+"node": "robert-m-wood",
+"open": false,
+"source": {
+"domain": null,
+"text": "Robert M. Wood's own repeated public account, including via the majesticdocuments.com archive he co-founded",
+"url": null
+},
+"text": "Wood spent his career at McDonnell Douglas Astronautics and ran a company-funded study of unidentified craft from the Huntington Beach facility in the late 1960s.",
+"tier": 2
+},
+{
+"cls": "person",
+"cluster": "research",
+"denied": false,
+"id": "c-424998f180",
+"label": "Dr. Robert M. Wood",
+"node": "robert-m-wood",
+"open": false,
+"source": {
+"domain": null,
+"text": "Board inference from Wood's account and DoDI 3204.01 IR&D structure",
+"url": null
+},
+"text": "McDonnell Douglas's interest was corporate self-protection - a prime contractor conducting proprietary research into an aerospace capability it did not possess. Reasoning: this matches the incentive structure later codified in DoD IR&D policy and named by Grusch, but no McDonnell Douglas internal record of the study has been released.",
+"tier": 3
+},
+{
+"cls": "person",
+"cluster": "research",
+"denied": false,
 "id": "c-e912a1091d",
 "label": "Dr. Robert M. Wood",
 "node": "robert-m-wood",
@@ -78717,38 +78557,6 @@
 "url": null
 },
 "text": "The claim that Sarbacher was a consultant to the Research and Development Board has no primary record. It traces, in every secondary account found, to Wilbert Smith's handwritten notes of a 15 September 1950 meeting and to Sarbacher's own 1983 letter. A full-text archive search for Sarbacher together with 'Research and Development Board' returns one unusable item, and the Georgia Tech clippings file does not mention the RDB.",
-"tier": 3
-},
-{
-"cls": "person",
-"cluster": "contractor",
-"denied": false,
-"id": "c-356cdcb06c",
-"label": "Robert M. Wood",
-"node": "robert-wood",
-"open": false,
-"source": {
-"domain": null,
-"text": "Robert M. Wood's own repeated public account, including via the majesticdocuments.com archive he co-founded",
-"url": null
-},
-"text": "Wood spent his career at McDonnell Douglas Astronautics and ran a company-funded study of unidentified craft from the Huntington Beach facility in the late 1960s.",
-"tier": 2
-},
-{
-"cls": "person",
-"cluster": "contractor",
-"denied": false,
-"id": "c-00e22a0199",
-"label": "Robert M. Wood",
-"node": "robert-wood",
-"open": false,
-"source": {
-"domain": null,
-"text": "Board inference from Wood's account and DoDI 3204.01 IR&D structure",
-"url": null
-},
-"text": "McDonnell Douglas's interest was corporate self-protection - a prime contractor conducting proprietary research into an aerospace capability it did not possess. Reasoning: this matches the incentive structure later codified in DoD IR&D policy and named by Grusch, but no McDonnell Douglas internal record of the study has been released.",
 "tier": 3
 },
 {
@@ -86883,9 +86691,9 @@
 "cls": "institution",
 "cluster": "oversight",
 "denied": false,
-"id": "c-0b9f845652",
-"label": "House Task Force on the Declassification of Federal Secrets",
-"node": "task-force-declassification",
+"id": "c-b82d7a2466",
+"label": "Task Force on the Declassification of Federal Secrets",
+"node": "task-force-declassification-federal-secrets",
 "open": false,
 "source": {
 "domain": null,
@@ -86897,38 +86705,6 @@
 },
 {
 "cls": "institution",
-"cluster": "oversight",
-"denied": false,
-"id": "c-ce42464c29",
-"label": "House Task Force on the Declassification of Federal Secrets",
-"node": "task-force-declassification",
-"open": false,
-"source": {
-"domain": null,
-"text": "CHRG-119hhrg61718",
-"url": null
-},
-"text": "Held the 9 September 2025 hearing 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'; record published as Serial No. 119-44.",
-"tier": 1
-},
-{
-"cls": "institution",
-"cluster": "oversight",
-"denied": false,
-"id": "c-ddec9b6a4e",
-"label": "House Task Force on the Declassification of Federal Secrets",
-"node": "task-force-declassification",
-"open": false,
-"source": {
-"domain": null,
-"text": "Fox News, 10 June 2026; Los Angeles Magazine, 9 June 2026",
-"url": null
-},
-"text": "Hosted the 9 June 2026 Capitol press conference featuring Grusch and four members of Congress.",
-"tier": 2
-},
-{
-"cls": "program",
 "cluster": "oversight",
 "denied": false,
 "id": "c-ce83bc4f8b",
@@ -86944,7 +86720,23 @@
 "tier": 1
 },
 {
-"cls": "program",
+"cls": "institution",
+"cluster": "oversight",
+"denied": false,
+"id": "c-b5f77177c9",
+"label": "Task Force on the Declassification of Federal Secrets",
+"node": "task-force-declassification-federal-secrets",
+"open": false,
+"source": {
+"domain": null,
+"text": "CHRG-119hhrg61718",
+"url": null
+},
+"text": "Held the 9 September 2025 hearing 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'; record published as Serial No. 119-44.",
+"tier": 1
+},
+{
+"cls": "institution",
 "cluster": "oversight",
 "denied": false,
 "id": "c-e2be270358",
@@ -86960,7 +86752,55 @@
 "tier": 1
 },
 {
-"cls": "program",
+"cls": "institution",
+"cluster": "oversight",
+"denied": false,
+"id": "c-a023889128",
+"label": "Task Force on the Declassification of Federal Secrets",
+"node": "task-force-declassification-federal-secrets",
+"open": false,
+"source": {
+"domain": "oversight.house.gov",
+"text": "https://oversight.house.gov/subcommittee/task-force-on-the-declassification-of-federal-secrets/",
+"url": "https://oversight.house.gov/subcommittee/task-force-on-the-declassification-of-federal-secrets/"
+},
+"text": "Task force membership: Chair Anna Paulina Luna (FL-13), Ranking Member Jasmine Crockett (TX-30); members Mace, Burchett, Boebert, Burlison, Crane, Gill, Krishnamoorthi, Lee, Min, Lynch, Frost.",
+"tier": 1
+},
+{
+"cls": "institution",
+"cluster": "oversight",
+"denied": false,
+"id": "c-a3c06daca9",
+"label": "Task Force on the Declassification of Federal Secrets",
+"node": "task-force-declassification-federal-secrets",
+"open": false,
+"source": {
+"domain": "oversight.house.gov",
+"text": "https://oversight.house.gov/hearing/mind-control-and-accountability-uncovering-the-truth-of-the-cias-mkultra-project/",
+"url": "https://oversight.house.gov/hearing/mind-control-and-accountability-uncovering-the-truth-of-the-cias-mkultra-project/"
+},
+"text": "The task force held 'Mind Control and Accountability: Uncovering the Truth of the CIA's MKULTRA Project' on 30 June 2026 at 10:00am.",
+"tier": 1
+},
+{
+"cls": "institution",
+"cluster": "oversight",
+"denied": false,
+"id": "c-53979e0bf2",
+"label": "Task Force on the Declassification of Federal Secrets",
+"node": "task-force-declassification-federal-secrets",
+"open": false,
+"source": {
+"domain": "oversight.house.gov",
+"text": "https://oversight.house.gov/hearing/restoring-public-trust-through-uap-transparency-and-whistleblower-protection/",
+"url": "https://oversight.house.gov/hearing/restoring-public-trust-through-uap-transparency-and-whistleblower-protection/"
+},
+"text": "The task force held 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection' on 9 September 2025 at 10:00am in HVC-210.",
+"tier": 1
+},
+{
+"cls": "institution",
 "cluster": "oversight",
 "denied": false,
 "id": "c-d1335c0a12",
@@ -86973,6 +86813,22 @@
 "url": null
 },
 "text": "Established 11 February 2025 by Chairman Comer; Comer and Luna sent letters to Rubio, Hegseth and Ratcliffe requesting a briefing on all UAP-related records in their possession.",
+"tier": 2
+},
+{
+"cls": "institution",
+"cluster": "oversight",
+"denied": false,
+"id": "c-04dc138bdf",
+"label": "Task Force on the Declassification of Federal Secrets",
+"node": "task-force-declassification-federal-secrets",
+"open": false,
+"source": {
+"domain": null,
+"text": "Fox News, 10 June 2026; Los Angeles Magazine, 9 June 2026",
+"url": null
+},
+"text": "Hosted the 9 June 2026 Capitol press conference featuring Grusch and four members of Congress.",
 "tier": 2
 },
 {
@@ -87182,54 +87038,6 @@
 },
 "text": "Stated inference. 'SR-75 Penetrator', a mothership carrying a smaller high-speed vehicle, is a specific and unusual concept that was published commercially, in a box, with a designer's name on it, in 1993. Fouche presents the same designation and the same mothership architecture in August 1998 as inside knowledge. Either the kit anticipated a real programme, which is what the audience was invited to conclude from the F-19 precedent the article itself cites, or the account absorbed the kit. Nothing opened decides it. The priority is documented and one-directional and must not be inverted.",
 "tier": 3
-},
-{
-"cls": "institution",
-"cluster": "oversight",
-"denied": false,
-"id": "c-13240451fe",
-"label": "House Oversight Task Force on the Declassification of Federal Secrets",
-"node": "tf-declassification-federal-secrets",
-"open": false,
-"source": {
-"domain": "oversight.house.gov",
-"text": "https://oversight.house.gov/subcommittee/task-force-on-the-declassification-of-federal-secrets/",
-"url": "https://oversight.house.gov/subcommittee/task-force-on-the-declassification-of-federal-secrets/"
-},
-"text": "Task force membership: Chair Anna Paulina Luna (FL-13), Ranking Member Jasmine Crockett (TX-30); members Mace, Burchett, Boebert, Burlison, Crane, Gill, Krishnamoorthi, Lee, Min, Lynch, Frost.",
-"tier": 1
-},
-{
-"cls": "institution",
-"cluster": "oversight",
-"denied": false,
-"id": "c-67d74cd44c",
-"label": "House Oversight Task Force on the Declassification of Federal Secrets",
-"node": "tf-declassification-federal-secrets",
-"open": false,
-"source": {
-"domain": "oversight.house.gov",
-"text": "https://oversight.house.gov/hearing/mind-control-and-accountability-uncovering-the-truth-of-the-cias-mkultra-project/",
-"url": "https://oversight.house.gov/hearing/mind-control-and-accountability-uncovering-the-truth-of-the-cias-mkultra-project/"
-},
-"text": "The task force held 'Mind Control and Accountability: Uncovering the Truth of the CIA's MKULTRA Project' on 30 June 2026 at 10:00am.",
-"tier": 1
-},
-{
-"cls": "institution",
-"cluster": "oversight",
-"denied": false,
-"id": "c-8cd2cd85a7",
-"label": "House Oversight Task Force on the Declassification of Federal Secrets",
-"node": "tf-declassification-federal-secrets",
-"open": false,
-"source": {
-"domain": "oversight.house.gov",
-"text": "https://oversight.house.gov/hearing/restoring-public-trust-through-uap-transparency-and-whistleblower-protection/",
-"url": "https://oversight.house.gov/hearing/restoring-public-trust-through-uap-transparency-and-whistleblower-protection/"
-},
-"text": "The task force held 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection' on 9 September 2025 at 10:00am in HVC-210.",
-"tier": 1
 },
 {
 "cls": "person",
@@ -89523,9 +89331,9 @@
 "cls": "document",
 "cluster": "oversight",
 "denied": false,
-"id": "c-fe8ce62369",
-"label": "Trump Truth Social post directing release of UAP files (20 February 2026)",
-"node": "trump-truth-social-post-2026-02-20",
+"id": "c-b71b7ca926",
+"label": "Presidential direction to identify and release UAP files (19-20 February 2026)",
+"node": "trump-uap-release-directive-2026",
 "open": false,
 "source": {
 "domain": "burlison.house.gov",
@@ -89539,73 +89347,9 @@
 "cls": "document",
 "cluster": "oversight",
 "denied": false,
-"id": "c-52aee53ed0",
-"label": "Trump Truth Social post directing release of UAP files (20 February 2026)",
-"node": "trump-truth-social-post-2026-02-20",
-"open": false,
-"source": {
-"domain": "defensescoop.com",
-"text": "https://defensescoop.com/2026/02/20/trump-ufo-uap-government-files-disclosure/",
-"url": "https://defensescoop.com/2026/02/20/trump-ufo-uap-government-files-disclosure/"
-},
-"text": "Sean Parnell: 'The department looks forward to working with the interagency to fulfill the president's directive.'",
-"tier": 2
-},
-{
-"cls": "document",
-"cluster": "oversight",
-"denied": false,
-"id": "c-8c132ef8be",
-"label": "Trump Truth Social post directing release of UAP files (20 February 2026)",
-"node": "trump-truth-social-post-2026-02-20",
-"open": false,
-"source": {
-"domain": "defensescoop.com",
-"text": "https://defensescoop.com/2026/02/20/trump-ufo-uap-government-files-disclosure/",
-"url": "https://defensescoop.com/2026/02/20/trump-ufo-uap-government-files-disclosure/"
-},
-"text": "Tim Gallaudet: 'As with other promises made by Trump, I'll believe it when I see it,' referencing unreleased Epstein files. Avi Loeb: 'One step that can be taken immediately is to declassify events from 50 years ago.'",
-"tier": 2
-},
-{
-"cls": "document",
-"cluster": "oversight",
-"denied": false,
-"id": "c-1b5b166a8a",
-"label": "Trump Truth Social post directing release of UAP files (20 February 2026)",
-"node": "trump-truth-social-post-2026-02-20",
-"open": false,
-"source": {
-"domain": "defensescoop.com",
-"text": "https://defensescoop.com/2026/02/20/trump-ufo-uap-government-files-disclosure/",
-"url": "https://defensescoop.com/2026/02/20/trump-ufo-uap-government-files-disclosure/"
-},
-"text": "Trump directed Hegseth and other departments to 'begin the process of identifying and releasing Government files related to alien and extraterrestrial life, unidentified aerial phenomena (UAP), and unidentified flying objects (UFOs), and any and all other information connected to these highly complex, but extremely interesting and important, matters.'",
-"tier": 2
-},
-{
-"cls": "document",
-"cluster": "oversight",
-"denied": false,
-"id": "c-a8b046d50e",
-"label": "Trump Truth Social post directing release of UAP files (20 February 2026)",
-"node": "trump-truth-social-post-2026-02-20",
-"open": false,
-"source": {
-"domain": "defensescoop.com",
-"text": "https://defensescoop.com/2026/02/25/hegseth-ufo-disclosure-trump-aaro-uap-caseload/",
-"url": "https://defensescoop.com/2026/02/25/hegseth-ufo-disclosure-trump-aaro-uap-caseload/"
-},
-"text": "No signed executive order on UAP declassification exists in the public record as of 12 August 2026, despite Hegseth referring on 23 February 2026 to 'that executive order'. Reasoning: contemporaneous reporting describes a Truth Social post; the ODNI implementing memorandum cites 'Presidential Direction' without an order number.",
-"tier": 3
-},
-{
-"cls": "document",
-"cluster": "oversight",
-"denied": false,
-"id": "c-bce9472f89",
-"label": "Presidential directive to identify and release UAP and extraterrestrial files",
-"node": "trump-uap-declass-directive-2026",
+"id": "c-01987c570c",
+"label": "Presidential direction to identify and release UAP files (19-20 February 2026)",
+"node": "trump-uap-release-directive-2026",
 "open": false,
 "source": {
 "domain": null,
@@ -89614,22 +89358,6 @@
 },
 "text": "Trump announced he would direct the Secretary of War and other departments and agencies to begin identifying and releasing files on alien and extraterrestrial life, UAP and UFOs.",
 "tier": 1
-},
-{
-"cls": "document",
-"cluster": "oversight",
-"denied": false,
-"id": "c-445d769465",
-"label": "Presidential directive to identify and release UAP and extraterrestrial files",
-"node": "trump-uap-declass-directive-2026",
-"open": false,
-"source": {
-"domain": null,
-"text": "Al Jazeera, 20 February 2026",
-"url": null
-},
-"text": "Rep. Anna Paulina Luna publicly thanked the President as chair of the task force that investigates the subject; Sen. John Fetterman called the decision fantastic.",
-"tier": 2
 },
 {
 "cls": "document",
@@ -89651,6 +89379,22 @@
 "cls": "document",
 "cluster": "oversight",
 "denied": false,
+"id": "c-88350e5df7",
+"label": "Presidential direction to identify and release UAP files (19-20 February 2026)",
+"node": "trump-uap-release-directive-2026",
+"open": false,
+"source": {
+"domain": null,
+"text": "Al Jazeera, 20 February 2026",
+"url": null
+},
+"text": "Rep. Anna Paulina Luna publicly thanked the President as chair of the task force that investigates the subject; Sen. John Fetterman called the decision fantastic.",
+"tier": 2
+},
+{
+"cls": "document",
+"cluster": "oversight",
+"denied": false,
 "id": "c-b8cfe517f7",
 "label": "Presidential direction to identify and release UAP files (19-20 February 2026)",
 "node": "trump-uap-release-directive-2026",
@@ -89661,6 +89405,54 @@
 "url": null
 },
 "text": "Sean Parnell said the department 'looks forward to working with the interagency to fulfill the president's directive.'",
+"tier": 2
+},
+{
+"cls": "document",
+"cluster": "oversight",
+"denied": false,
+"id": "c-a64deafb9c",
+"label": "Presidential direction to identify and release UAP files (19-20 February 2026)",
+"node": "trump-uap-release-directive-2026",
+"open": false,
+"source": {
+"domain": "defensescoop.com",
+"text": "https://defensescoop.com/2026/02/20/trump-ufo-uap-government-files-disclosure/",
+"url": "https://defensescoop.com/2026/02/20/trump-ufo-uap-government-files-disclosure/"
+},
+"text": "Sean Parnell: 'The department looks forward to working with the interagency to fulfill the president's directive.'",
+"tier": 2
+},
+{
+"cls": "document",
+"cluster": "oversight",
+"denied": false,
+"id": "c-bfe3d5c8ae",
+"label": "Presidential direction to identify and release UAP files (19-20 February 2026)",
+"node": "trump-uap-release-directive-2026",
+"open": false,
+"source": {
+"domain": "defensescoop.com",
+"text": "https://defensescoop.com/2026/02/20/trump-ufo-uap-government-files-disclosure/",
+"url": "https://defensescoop.com/2026/02/20/trump-ufo-uap-government-files-disclosure/"
+},
+"text": "Tim Gallaudet: 'As with other promises made by Trump, I'll believe it when I see it,' referencing unreleased Epstein files. Avi Loeb: 'One step that can be taken immediately is to declassify events from 50 years ago.'",
+"tier": 2
+},
+{
+"cls": "document",
+"cluster": "oversight",
+"denied": false,
+"id": "c-1a356a5c1f",
+"label": "Presidential direction to identify and release UAP files (19-20 February 2026)",
+"node": "trump-uap-release-directive-2026",
+"open": false,
+"source": {
+"domain": "defensescoop.com",
+"text": "https://defensescoop.com/2026/02/20/trump-ufo-uap-government-files-disclosure/",
+"url": "https://defensescoop.com/2026/02/20/trump-ufo-uap-government-files-disclosure/"
+},
+"text": "Trump directed Hegseth and other departments to 'begin the process of identifying and releasing Government files related to alien and extraterrestrial life, unidentified aerial phenomena (UAP), and unidentified flying objects (UFOs), and any and all other information connected to these highly complex, but extremely interesting and important, matters.'",
 "tier": 2
 },
 {
@@ -89693,6 +89485,22 @@
 "url": null
 },
 "text": "No executive order text establishing PURSUE has appeared on war.gov, aaro.mil or in the contemporaneous reporting; the programme appears to rest on informal direction, leaving its scope and continuation entirely discretionary.",
+"tier": 3
+},
+{
+"cls": "document",
+"cluster": "oversight",
+"denied": false,
+"id": "c-da44f655dd",
+"label": "Presidential direction to identify and release UAP files (19-20 February 2026)",
+"node": "trump-uap-release-directive-2026",
+"open": false,
+"source": {
+"domain": "defensescoop.com",
+"text": "https://defensescoop.com/2026/02/25/hegseth-ufo-disclosure-trump-aaro-uap-caseload/",
+"url": "https://defensescoop.com/2026/02/25/hegseth-ufo-disclosure-trump-aaro-uap-caseload/"
+},
+"text": "No signed executive order on UAP declassification exists in the public record as of 12 August 2026, despite Hegseth referring on 23 February 2026 to 'that executive order'. Reasoning: contemporaneous reporting describes a Truth Social post; the ODNI implementing memorandum cites 'Presidential Direction' without an order number.",
 "tier": 3
 },
 {
@@ -89987,10 +89795,10 @@
 "cls": "document",
 "cluster": "contractor",
 "denied": false,
-"id": "c-ecd304494c",
-"label": "To The Stars Academy - US Army CCDC Cooperative Research and Development Agreement (17 October 2019)",
-"node": "ttsa-army-crada-2019",
-"open": false,
+"id": "c-082fa1ed9d",
+"label": "CRADA between U.S. Army Ground Vehicle Systems Center and To The Stars Academy",
+"node": "ttsa-army-crada",
+"open": true,
 "source": {
 "domain": null,
 "text": "Bloomberg Government, 21 October 2019",
@@ -90003,10 +89811,10 @@
 "cls": "document",
 "cluster": "contractor",
 "denied": false,
-"id": "c-fed8b79431",
-"label": "To The Stars Academy - US Army CCDC Cooperative Research and Development Agreement (17 October 2019)",
-"node": "ttsa-army-crada-2019",
-"open": false,
+"id": "c-f304b66487",
+"label": "CRADA between U.S. Army Ground Vehicle Systems Center and To The Stars Academy",
+"node": "ttsa-army-crada",
+"open": true,
 "source": {
 "domain": null,
 "text": "TTSA announcement, 17 October 2019; Bloomberg Government, 21 October 2019",
@@ -90019,10 +89827,10 @@
 "cls": "document",
 "cluster": "contractor",
 "denied": false,
-"id": "c-66be85f297",
-"label": "To The Stars Academy - US Army CCDC Cooperative Research and Development Agreement (17 October 2019)",
-"node": "ttsa-army-crada-2019",
-"open": false,
+"id": "c-5169314eed",
+"label": "CRADA between U.S. Army Ground Vehicle Systems Center and To The Stars Academy",
+"node": "ttsa-army-crada",
+"open": true,
 "source": {
 "domain": null,
 "text": "Inference from the absence of any such publication or release as of August 2026",
@@ -90528,86 +90336,6 @@
 "tier": 3
 },
 {
-"cls": "document",
-"cluster": "media",
-"denied": false,
-"id": "c-a2ad928766",
-"label": "'The MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs'",
-"node": "uap-gerb-mitre-investigation",
-"open": false,
-"source": {
-"domain": null,
-"text": "UAP Gerb video description, 7 August 2026",
-"url": null
-},
-"text": "It alleges MITRE's role in two Navy-spearheaded legacy programmes: reverse engineering and maturation of non-human technologies from late-1940s recoveries, central to the MITRE portfolio since 1958; and tracking of an enormous USO with permanent or semi-permanent Atlantic station, with all-source data processed by MITRE.",
-"tier": 2
-},
-{
-"cls": "document",
-"cluster": "media",
-"denied": false,
-"id": "c-783a4277ba",
-"label": "'The MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs'",
-"node": "uap-gerb-mitre-investigation",
-"open": false,
-"source": {
-"domain": null,
-"text": "UAP Gerb video description, 7 August 2026",
-"url": null
-},
-"text": "It alleges a legacy programme briefing restriction initiated in 2011 to cease historical briefings on programme incumbents.",
-"tier": 2
-},
-{
-"cls": "document",
-"cluster": "media",
-"denied": false,
-"id": "c-da9a25db52",
-"label": "'The MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs'",
-"node": "uap-gerb-mitre-investigation",
-"open": false,
-"source": {
-"domain": null,
-"text": "UAP Gerb video description, 7 August 2026 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
-"url": null
-},
-"text": "It states that MITRE, its 15 MITRE Labs and 6 operational FFRDCs have served as a long-term strategic partner in the US Government's and DoD's most national-security-sensitive national programs since 1958.",
-"tier": 2
-},
-{
-"cls": "document",
-"cluster": "media",
-"denied": false,
-"id": "c-e5829792e5",
-"label": "'The MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs'",
-"node": "uap-gerb-mitre-investigation",
-"open": false,
-"source": {
-"domain": null,
-"text": "YouTube publication record and description, 7 August 2026 — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
-"url": null
-},
-"text": "The investigation was published 7 August 2026 by UAP Gerb, runs approximately two hours, and includes chapters titled FFRDC Primer, The MITRE Corporation, MITRE & UFO Legacy Programs, MITRE Gatekeepers, and MITRE Interrogative.",
-"tier": 2
-},
-{
-"cls": "document",
-"cluster": "media",
-"denied": false,
-"id": "c-dd01668d7e",
-"label": "'The MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs'",
-"node": "uap-gerb-mitre-investigation",
-"open": false,
-"source": {
-"domain": null,
-"text": "Cross-reference against CRS R44629's summary of FAR 35.017",
-"url": null
-},
-"text": "Its central structural claim - that FFRDCs arbitrate what UFO programme information reaches defence contractors - is independently supported by FAR 35.017's grant of access to both government and supplier data beyond a normal contractual relationship. Reasoning: the regulation creates the chokepoint regardless of whether the specific allegations hold.",
-"tier": 3
-},
-{
 "cls": "institution",
 "cluster": "oversight",
 "denied": false,
@@ -90733,70 +90461,6 @@
 "url": null
 },
 "text": "A waiver that runs only to cleared government investigators reproduces the exact structure that failed in the Grusch case: the witness is unbound only inside the channel controlled by the institution the witness is accusing.",
-"tier": 3
-},
-{
-"cls": "institution",
-"cluster": "oversight",
-"denied": false,
-"id": "c-71b51ad277",
-"label": "Unidentified Anomalous Phenomena Records Collection (NARA Record Group 615)",
-"node": "uap-records-collection-rg615",
-"open": false,
-"source": {
-"domain": null,
-"text": "National Archives, UAP records research page, archives.gov/uap",
-"url": null
-},
-"text": "NARA issued guidance to federal agencies on 'Transfer of Publicly Releasable Unidentified Anomalous Phenomena (UAP) Records' dated April 2025.",
-"tier": 1
-},
-{
-"cls": "institution",
-"cluster": "oversight",
-"denied": false,
-"id": "c-a84e69849b",
-"label": "Unidentified Anomalous Phenomena Records Collection (NARA Record Group 615)",
-"node": "uap-records-collection-rg615",
-"open": false,
-"source": {
-"domain": null,
-"text": "P.L. 118-31, Sec. 1841(d)(2), GPO",
-"url": null
-},
-"text": "Sec. 1841(d)(2) requires the NARA National Security Program Office, with the Information Security Oversight Office, to run a security programme for the postponed and yet-to-be-disclosed portion of the collection.",
-"tier": 1
-},
-{
-"cls": "institution",
-"cluster": "oversight",
-"denied": false,
-"id": "c-4a63fd3944",
-"label": "Unidentified Anomalous Phenomena Records Collection (NARA Record Group 615)",
-"node": "uap-records-collection-rg615",
-"open": false,
-"source": {
-"domain": null,
-"text": "National Archives, UAP records research page, archives.gov/uap",
-"url": null
-},
-"text": "The collection is designated Record Group 615 and was established pursuant to Secs. 1841-1843 of the FY2024 NDAA, P.L. 118-31.",
-"tier": 1
-},
-{
-"cls": "institution",
-"cluster": "oversight",
-"denied": false,
-"id": "c-3fd7127194",
-"label": "Unidentified Anomalous Phenomena Records Collection (NARA Record Group 615)",
-"node": "uap-records-collection-rg615",
-"open": false,
-"source": {
-"domain": null,
-"text": "Inference from the April 2025 guidance date against the deadline computed from the 22 December 2023 enactment date",
-"url": null
-},
-"text": "That NARA's transfer guidance is dated April 2025, roughly six months after the statutory 300-day agency deadline of 17 October 2024, indicates the agency review requirement was not met on time.",
 "tier": 3
 },
 {
@@ -95651,6 +95315,22 @@
 "cls": "program",
 "cluster": "legacy",
 "denied": true,
+"id": "c-d4856d2743",
+"label": "Waived unacknowledged special access program (waived USAP)",
+"node": "waived-usap",
+"open": false,
+"source": {
+"domain": "www.govinfo.gov",
+"text": "https://www.govinfo.gov/content/pkg/USCODE-2023-title10/html/USCODE-2023-title10-subtitleA-partI-chap2-sec119.htm",
+"url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title10/html/USCODE-2023-title10-subtitleA-partI-chap2-sec119.htm"
+},
+"text": "'Waived' is a statutory term of art traceable to a single sentence: 10 U.S.C. 119(e)(2) substitutes, for the ordinary committee report, delivery of the information and the waiver justification 'jointly to the chairman and ranking minority member of each of the defense committees.' Nothing in section 119 requires that this delivery be written, recorded, retained, or shared with other members.",
+"tier": 1
+},
+{
+"cls": "program",
+"cluster": "legacy",
+"denied": true,
 "id": "c-4d5d9bc12f",
 "label": "Waived unacknowledged special access program (waived USAP)",
 "node": "waived-usap",
@@ -95661,6 +95341,22 @@
 "url": null
 },
 "text": "10 U.S.C. 119(e) permits the Secretary of Defense to waive SAP reporting requirements and instead provide the information and the waiver justification 'jointly to the chairman and ranking minority member of each of the defense committees'.",
+"tier": 1
+},
+{
+"cls": "program",
+"cluster": "legacy",
+"denied": true,
+"id": "c-728443976f",
+"label": "Waived unacknowledged special access program (waived USAP)",
+"node": "waived-usap",
+"open": false,
+"source": {
+"domain": "www.esd.whs.mil",
+"text": "DoD Instruction 5205.11, 'Management, Administration, and Oversight of DoD Special Access Programs', 12 September 2024, cleared for public release - https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf",
+"url": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf"
+},
+"text": "Administrative plumbing specific to waived programs exists in the same instruction, which again indicates live use rather than dormant authority. Footnote 5 reads verbatim: 'CA and OA SAPCO Directors may delegate AAA for non-waived SAPs to the DoD Component's SAPCO staff. AAA for waived SAPs may be delegated to the SAPCO Deputy Director or alternate designee.' Footnote 6 reads verbatim: 'DoD SAPCO will coordinate on PARs for judicial and other federal agency personnel for waived programs.' A department does not write delegation rules and a judicial-access coordination rule for an empty set.",
 "tier": 1
 },
 {
@@ -95683,6 +95379,246 @@
 "cls": "program",
 "cluster": "legacy",
 "denied": true,
+"id": "c-ca59cb35ff",
+"label": "Waived unacknowledged special access program (waived USAP)",
+"node": "waived-usap",
+"open": false,
+"source": {
+"domain": null,
+"text": "DoDD 5205.07 (2010), para 4.f",
+"url": null
+},
+"text": "DoDD 5205.07 (2010) para 4.f limits access to waived SAPs, absent SecDef or DepSecDef approval, to 'the chair, the ranking minority member, and the staff directors of the defense and intelligence committees'.",
+"tier": 1
+},
+{
+"cls": "program",
+"cluster": "legacy",
+"denied": true,
+"id": "c-e32ddd5318",
+"label": "Waived unacknowledged special access program (waived USAP)",
+"node": "waived-usap",
+"open": false,
+"source": {
+"domain": null,
+"text": "DoDI 5205.11, Enclosure 2, para 2.m",
+"url": null
+},
+"text": "DoDI 5205.11 Enclosure 2 requires DoD SAPCO to establish 'the criteria for annual reviews of waived DoD SAPs by the SSWG and SRG.'",
+"tier": 1
+},
+{
+"cls": "program",
+"cluster": "legacy",
+"denied": true,
+"id": "c-b3a2a6e2c8",
+"label": "Waived unacknowledged special access program (waived USAP)",
+"node": "waived-usap",
+"open": false,
+"source": {
+"domain": null,
+"text": "DoDI 5205.11, Enclosure 3, para 3.b(5)",
+"url": null
+},
+"text": "DoDI 5205.11 Enclosure 3 provides that the SRG 'Ensures the accuracy of the SAP list submitted to Congress prior to submission of the SAP annual report.'",
+"tier": 1
+},
+{
+"cls": "program",
+"cluster": "legacy",
+"denied": true,
+"id": "c-c456336c62",
+"label": "Waived unacknowledged special access program (waived USAP)",
+"node": "waived-usap",
+"open": false,
+"source": {
+"domain": null,
+"text": "DoDI 5205.11, Enclosure 3, para 3.b(4)",
+"url": null
+},
+"text": "DoDI 5205.11 Enclosure 3 provides that the Senior Review Group 'Reviews all waived DoD SAPs annually. Provides recommendations to the SAPOC concerning continued waived status.'",
+"tier": 1
+},
+{
+"cls": "program",
+"cluster": "legacy",
+"denied": true,
+"id": "c-b8658d10cc",
+"label": "Waived unacknowledged special access program (waived USAP)",
+"node": "waived-usap",
+"open": false,
+"source": {
+"domain": "www.gao.gov",
+"text": "GAO/NSIAD-93-78, 'Defense Acquisition: Oversight of Special Access Programs Has Increased', 21 December 1992 - https://www.gao.gov/assets/nsiad-93-78.pdf",
+"url": "https://www.gao.gov/assets/nsiad-93-78.pdf"
+},
+"text": "GAO HAS DESCRIBED THE WAIVER MECHANISM BUT HAS NEVER PUBLICLY REPORTED AN INSTANCE OF ITS USE. GAO/NSIAD-93-78, the unclassified summary of a classified report, describes the mechanism verbatim: 'Section 119, 10 U.S. Code, enacted in 1987, requires DOD to submit annual reports to the congressional defense committees on special access programs. Under the law, the Secretary of Defense may waive the requirement that certain information on special access programs be included in the annual report if he determines that the inclusion would adversely affect national security. However, he must provide the excluded information to the chairman and ranking minority member of each of the congressional defense committees.' The report then never returns to the subject. Its findings on waivers are about a different thing entirely - 'DOD used waivers and exemptions to limit review, documentation, and reporting requirements' refers to Defense Acquisition Board reviews, competition requirements and Selected Acquisition Reports, not to Section 119(e). Do not let these two senses of 'waiver' be conflated on the board.",
+"tier": 1
+},
+{
+"cls": "program",
+"cluster": "legacy",
+"denied": true,
+"id": "c-267f7f10ba",
+"label": "Waived unacknowledged special access program (waived USAP)",
+"node": "waived-usap",
+"open": false,
+"source": {
+"domain": "sgp.fas.org",
+"text": "Report of the Commission on Protecting and Reducing Government Secrecy (the Moynihan Commission), S. Doc. 105-2, 1997, Chapter II, as mirrored by the Federation of American Scientists - https://sgp.fas.org/library/moynihan/chap2.html",
+"url": "https://sgp.fas.org/library/moynihan/chap2.html"
+},
+"text": "HISTORICAL CORROBORATION FROM A CONGRESSIONALLY CHARTERED COMMISSION. The Report of the Commission on Protecting and Reducing Government Secrecy (1997), Chapter II, states verbatim: 'Among black programs, further distinction is made for \"waived\" programs, considered to be so sensitive that they are exempt from standard reporting requirements to the Congress. The chairperson, ranking member, and, on occasion, other members and staff of relevant Congressional committees are notified only orally of the existence of these programs.' The same passage gives the surrounding population: 'There are approximately 150 DoD-approved SAPs (the exact number is classified and others have been created but not yet formally approved), down from 200 in the late 1980s, and roughly 300 SCI compartments, compared with an estimated 800 in the late 1980s.' The Commission gives no number for the waived subset. The phrase 'notified only orally' is the operationally important one: it describes a practice under which the 119(e)(2) delivery leaves no paper.",
+"tier": 1
+},
+{
+"cls": "program",
+"cluster": "legacy",
+"denied": true,
+"id": "c-e4d7e3cab4",
+"label": "Waived unacknowledged special access program (waived USAP)",
+"node": "waived-usap",
+"open": false,
+"source": {
+"domain": "www.esd.whs.mil",
+"text": "DoD Directive 5205.07, 'Special Access Program Policy', effective 12 September 2024, cleared for public release - https://www.esd.whs.mil/portals/54/documents/dd/issuances/dodd/520507p.pdf",
+"url": "https://www.esd.whs.mil/portals/54/documents/dd/issuances/dodd/520507p.pdf"
+},
+"text": "THE PUBLIC TAXONOMY HAS BEEN NARROWING. DoD Directive 5205.07, 'Special Access Program Policy', was reissued effective 12 September 2024 and cancels the 1 July 2010 version. The full public text of the 2024 directive - purpose, applicability, policy, all thirteen responsibility assignments, the governance section, the complete glossary and the reference list - contains no occurrence of the words 'waived' or 'unacknowledged' at all. The directive that used to define the waived category no longer mentions it; the taxonomy now survives publicly only in the subordinate instruction, DoDI 5205.11. Anyone checking only the directive would conclude the category no longer exists.",
+"tier": 1
+},
+{
+"cls": "program",
+"cluster": "legacy",
+"denied": true,
+"id": "c-a126591e23",
+"label": "Waived unacknowledged special access program (waived USAP)",
+"node": "waived-usap",
+"open": false,
+"source": {
+"domain": "www.esd.whs.mil",
+"text": "DoD Instruction 5205.11, 'Management, Administration, and Oversight of DoD Special Access Programs', 12 September 2024, cleared for public release - https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf",
+"url": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf"
+},
+"text": "THE STRONGEST SINGLE PIECE OF EVIDENCE THAT THE POPULATION IS NON-EMPTY IS A RECURRING REVIEW REQUIREMENT. DoDI 5205.11 requires that in its annual review the Special Access Program Oversight Committee - chaired by the Deputy Secretary of Defense - shall assess, among four listed items, '(d) All waived DoD SAPs to determine the need for continued waived status.' A standing annual agenda item to decide whether waived programs should REMAIN waived is only drafted if waived programs exist. This is a 2024 document, so the finding is current, not historical.",
+"tier": 1
+},
+{
+"cls": "program",
+"cluster": "legacy",
+"denied": true,
+"id": "c-b73f7fa113",
+"label": "Waived unacknowledged special access program (waived USAP)",
+"node": "waived-usap",
+"open": false,
+"source": {
+"domain": "www.esd.whs.mil",
+"text": "DoD Instruction 5205.11, 'Management, Administration, and Oversight of DoD Special Access Programs', 12 September 2024, cleared for public release - https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf",
+"url": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf"
+},
+"text": "The Department's own definition, from the DoDI 5205.11 glossary, verbatim: 'waived SAP - A SAP for which the Secretary of Defense has waived applicable reporting following a determination of adverse effect to national security. An unacknowledged SAP that has more restrictive reporting and access controls than other unacknowledged SAPs.' And, adjacent to it: 'unacknowledged SAP - A SAP having enhanced security measures, ensuring the existence of the program is not acknowledged, affirmed, or made known to any person not authorized for such information.' A waived SAP is therefore a proper subset of the unacknowledged SAPs, distinguished precisely by the exercise of the Section 119(e)(1) waiver.",
+"tier": 1
+},
+{
+"cls": "program",
+"cluster": "legacy",
+"denied": true,
+"id": "c-a54cf2978d",
+"label": "Waived unacknowledged special access program (waived USAP)",
+"node": "waived-usap",
+"open": false,
+"source": {
+"domain": "www.gao.gov",
+"text": "GAO/NSIAD-89-133, 'Special Access Programs: DOD Is Strengthening Compliance With Oversight Requirements', 4 May 1989 - https://www.gao.gov/assets/nsiad-89-133.pdf",
+"url": "https://www.gao.gov/assets/nsiad-89-133.pdf"
+},
+"text": "The earlier GAO report in the same series, GAO/NSIAD-89-133, covering the period immediately after Section 119 took effect and prepared at the request of Rep. Barbara Boxer, examines DoD compliance with special access program oversight requirements in detail and does not mention the Section 119(e) waiver authority at all. Its only reference to waived requirements is to DoD Directive 5205.7's January 1989 revision requiring 'listings by the responsible program officer of all DOD regulations for which compliance has been waived' - again a different mechanism.",
+"tier": 1
+},
+{
+"cls": "program",
+"cluster": "legacy",
+"denied": true,
+"id": "c-68f70867b0",
+"label": "Waived unacknowledged special access program (waived USAP)",
+"node": "waived-usap",
+"open": false,
+"source": {
+"domain": "www.govinfo.gov",
+"text": "https://www.govinfo.gov/content/pkg/USCODE-2023-title50/html/USCODE-2023-title50-chap45-subchapIII-sec3348.htm",
+"url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title50/html/USCODE-2023-title50-chap45-subchapIII-sec3348.htm"
+},
+"text": "The parallel non-DoD, non-IC statute 50 U.S.C. 3348(e) contains the same waiver test ('would adversely affect the national security', 'case-by-case basis') but a materially WEAKER carve-down: 3348(e)(2) still requires the information to go 'to the congressional oversight committees', not merely to chairs and ranking members. The eight-member floor is therefore unique to the DoD statute.",
+"tier": 1
+},
+{
+"cls": "program",
+"cluster": "legacy",
+"denied": true,
+"id": "c-dec5b4f44d",
+"label": "Waived unacknowledged special access program (waived USAP)",
+"node": "waived-usap",
+"open": false,
+"source": {
+"domain": "www.esd.whs.mil",
+"text": "DoD Instruction 5205.11, 'Management, Administration, and Oversight of DoD Special Access Programs', 12 September 2024, cleared for public release - https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf",
+"url": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf"
+},
+"text": "VERDICT ON THE BOARD'S QUESTION: the waiver has been exercised, and the Department of Defense says so in a currently effective, publicly released instruction - but no public document identifies a single specific instance, a count, a date, a program, or any connection to unidentified anomalous phenomena. DoD Instruction 5205.11, effective 12 September 2024, paragraph 1.2.f, states verbatim: 'The Secretary of Defense may designate select unacknowledged SAPs as \"waived\" when it is determined that using standard procedures for reporting to Congress would adversely affect national security, pursuant to Section 119 of Title 10, United States Code. Waived SAPs remain subject to congressional oversight.' This is not a hypothetical authority described in the abstract; the rest of the instruction is written around an existing population of such programs.",
+"tier": 1
+},
+{
+"cls": "program",
+"cluster": "legacy",
+"denied": true,
+"id": "c-023551515a",
+"label": "Waived unacknowledged special access program (waived USAP)",
+"node": "waived-usap",
+"open": false,
+"source": {
+"domain": "uscode.house.gov",
+"text": "Office of the Law Revision Counsel, 10 U.S.C. 119, 'Special access programs: congressional oversight' (text in effect on 20 August 2026) - https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim ; DoD Instruction 5205.11, 'Management, Administration, and Oversight of DoD Special Access Programs', 12 September 2024, cleared for public release - https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf ; Report of the Commission on Protecting and Reducing Government Secrecy (the Moynihan Commission), S. Doc. 105-2, 1997, Chapter II, as mirrored by the Federation of American Scientists - https://sgp.fas.org/library/moynihan/chap2.html",
+"url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim"
+},
+"text": "WHAT SHOULD EXIST IF THE WAIVER WERE BEING USED, AND WHY NONE OF IT IS PUBLIC. Four artefacts are implied by the statute and the DoD instruction: (i) the underlying 119(a), (b) or (c) report itself, which is classified and, for (a) and (b), no longer statutorily required after 31 December 2021; (ii) the Secretary's case-by-case determination that inclusion would adversely affect national security, which 119(e)(1) requires to be made but does not require to be recorded in any publicly indexed form; (iii) the withheld information plus a written justification delivered jointly to twelve named members, which by the Moynihan Commission's account has historically been delivered orally; and (iv) the SAPOC annual review record of whether each waived program should retain that status, which is internal to the Department. None of the four is a public document class. There is no statutory requirement anywhere in Section 119 to report the NUMBER of waivers exercised, the fact that any waiver was exercised, or an aggregate count, to anyone outside those twelve seats. The absence of a public instance is therefore fully explained by the design of the mechanism and is NOT evidence of concealment beyond what the statute itself authorises.",
+"tier": 1
+},
+{
+"cls": "program",
+"cluster": "legacy",
+"denied": true,
+"id": "c-f1ac97c4db",
+"label": "Waived unacknowledged special access program (waived USAP)",
+"node": "waived-usap",
+"open": false,
+"source": {
+"domain": null,
+"text": "Negative result of searches restricted to gao.gov, dodig.mil, crsreports.congress.gov, armed-services.senate.gov, armedservices.house.gov and govinfo.gov during this pass",
+"url": null
+},
+"text": "NO UAP-SPECIFIC EXERCISE OF THE 119(e)(1) WAIVER WAS FOUND IN ANY PUBLIC DOCUMENT. Searches across GAO's special access program series, DoD Inspector General audits and evaluations, Congressional Research Service products, and the Senate and House Armed Services Committee document sets returned no document in which a waived special access program is linked to unidentified anomalous phenomena, and no document in which any specific exercise of the Section 119(e)(1) waiver - UAP or otherwise - is identified, dated, counted or described. The DoD Inspector General's public catalogue for special access programs consists of external peer reviews and quality control reviews of the service audit agencies' SAP audit work, plus a series of entries titled only 'CLASSIFIED REPORT (Classified)'; none addresses congressional reporting under Section 119.",
+"tier": 2
+},
+{
+"cls": "program",
+"cluster": "legacy",
+"denied": true,
+"id": "c-b96e7d9045",
+"label": "Waived unacknowledged special access program (waived USAP)",
+"node": "waived-usap",
+"open": false,
+"source": {
+"domain": null,
+"text": "DoDI 5205.11, Enclosure 3",
+"url": null
+},
+"text": "A complete list of waived DoD SAPs demonstrably exists in documentary form, is reviewed at least annually by the Senior Review Group, and is validated by the SAPOC - which means the answer to 'how many waived programs are there' is a retrievable agency record and not an unknowable. Reasoning: DoDI 5205.11 Enclosure 3 assigns the annual review of all waived SAPs and the accuracy of the congressional SAP list to a named standing body.",
+"tier": 3
+},
+{
+"cls": "program",
+"cluster": "legacy",
+"denied": true,
 "id": "c-89da18590f",
 "label": "Waived unacknowledged special access program (waived USAP)",
 "node": "waived-usap",
@@ -95698,282 +95634,10 @@
 {
 "cls": "program",
 "cluster": "legacy",
-"denied": false,
-"id": "c-6f0e133636",
-"label": "Waived Unacknowledged SAP (waived USAP) - the mechanism",
-"node": "waived-usap-mechanism",
-"open": false,
-"source": {
-"domain": "www.govinfo.gov",
-"text": "https://www.govinfo.gov/content/pkg/USCODE-2023-title10/html/USCODE-2023-title10-subtitleA-partI-chap2-sec119.htm",
-"url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title10/html/USCODE-2023-title10-subtitleA-partI-chap2-sec119.htm"
-},
-"text": "'Waived' is a statutory term of art traceable to a single sentence: 10 U.S.C. 119(e)(2) substitutes, for the ordinary committee report, delivery of the information and the waiver justification 'jointly to the chairman and ranking minority member of each of the defense committees.' Nothing in section 119 requires that this delivery be written, recorded, retained, or shared with other members.",
-"tier": 1
-},
-{
-"cls": "program",
-"cluster": "legacy",
-"denied": false,
-"id": "c-539e26f7f6",
-"label": "Waived Unacknowledged SAP (waived USAP) - the mechanism",
-"node": "waived-usap-mechanism",
-"open": false,
-"source": {
-"domain": "www.esd.whs.mil",
-"text": "DoD Instruction 5205.11, 'Management, Administration, and Oversight of DoD Special Access Programs', 12 September 2024, cleared for public release - https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf",
-"url": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf"
-},
-"text": "Administrative plumbing specific to waived programs exists in the same instruction, which again indicates live use rather than dormant authority. Footnote 5 reads verbatim: 'CA and OA SAPCO Directors may delegate AAA for non-waived SAPs to the DoD Component's SAPCO staff. AAA for waived SAPs may be delegated to the SAPCO Deputy Director or alternate designee.' Footnote 6 reads verbatim: 'DoD SAPCO will coordinate on PARs for judicial and other federal agency personnel for waived programs.' A department does not write delegation rules and a judicial-access coordination rule for an empty set.",
-"tier": 1
-},
-{
-"cls": "program",
-"cluster": "legacy",
-"denied": false,
-"id": "c-8a40f0b11f",
-"label": "Waived Unacknowledged SAP (waived USAP) - the mechanism",
-"node": "waived-usap-mechanism",
-"open": false,
-"source": {
-"domain": null,
-"text": "DoDD 5205.07 (2010), para 4.f",
-"url": null
-},
-"text": "DoDD 5205.07 (2010) para 4.f limits access to waived SAPs, absent SecDef or DepSecDef approval, to 'the chair, the ranking minority member, and the staff directors of the defense and intelligence committees'.",
-"tier": 1
-},
-{
-"cls": "program",
-"cluster": "legacy",
-"denied": false,
-"id": "c-e96f12223b",
-"label": "Waived Unacknowledged SAP (waived USAP) - the mechanism",
-"node": "waived-usap-mechanism",
-"open": false,
-"source": {
-"domain": null,
-"text": "DoDI 5205.11, Enclosure 2, para 2.m",
-"url": null
-},
-"text": "DoDI 5205.11 Enclosure 2 requires DoD SAPCO to establish 'the criteria for annual reviews of waived DoD SAPs by the SSWG and SRG.'",
-"tier": 1
-},
-{
-"cls": "program",
-"cluster": "legacy",
-"denied": false,
-"id": "c-28eab51ebd",
-"label": "Waived Unacknowledged SAP (waived USAP) - the mechanism",
-"node": "waived-usap-mechanism",
-"open": false,
-"source": {
-"domain": null,
-"text": "DoDI 5205.11, Enclosure 3, para 3.b(5)",
-"url": null
-},
-"text": "DoDI 5205.11 Enclosure 3 provides that the SRG 'Ensures the accuracy of the SAP list submitted to Congress prior to submission of the SAP annual report.'",
-"tier": 1
-},
-{
-"cls": "program",
-"cluster": "legacy",
-"denied": false,
-"id": "c-593774d351",
-"label": "Waived Unacknowledged SAP (waived USAP) - the mechanism",
-"node": "waived-usap-mechanism",
-"open": false,
-"source": {
-"domain": null,
-"text": "DoDI 5205.11, Enclosure 3, para 3.b(4)",
-"url": null
-},
-"text": "DoDI 5205.11 Enclosure 3 provides that the Senior Review Group 'Reviews all waived DoD SAPs annually. Provides recommendations to the SAPOC concerning continued waived status.'",
-"tier": 1
-},
-{
-"cls": "program",
-"cluster": "legacy",
-"denied": false,
-"id": "c-c8cfc1ca85",
-"label": "Waived Unacknowledged SAP (waived USAP) - the mechanism",
-"node": "waived-usap-mechanism",
-"open": false,
-"source": {
-"domain": "www.gao.gov",
-"text": "GAO/NSIAD-93-78, 'Defense Acquisition: Oversight of Special Access Programs Has Increased', 21 December 1992 - https://www.gao.gov/assets/nsiad-93-78.pdf",
-"url": "https://www.gao.gov/assets/nsiad-93-78.pdf"
-},
-"text": "GAO HAS DESCRIBED THE WAIVER MECHANISM BUT HAS NEVER PUBLICLY REPORTED AN INSTANCE OF ITS USE. GAO/NSIAD-93-78, the unclassified summary of a classified report, describes the mechanism verbatim: 'Section 119, 10 U.S. Code, enacted in 1987, requires DOD to submit annual reports to the congressional defense committees on special access programs. Under the law, the Secretary of Defense may waive the requirement that certain information on special access programs be included in the annual report if he determines that the inclusion would adversely affect national security. However, he must provide the excluded information to the chairman and ranking minority member of each of the congressional defense committees.' The report then never returns to the subject. Its findings on waivers are about a different thing entirely - 'DOD used waivers and exemptions to limit review, documentation, and reporting requirements' refers to Defense Acquisition Board reviews, competition requirements and Selected Acquisition Reports, not to Section 119(e). Do not let these two senses of 'waiver' be conflated on the board.",
-"tier": 1
-},
-{
-"cls": "program",
-"cluster": "legacy",
-"denied": false,
-"id": "c-dad07bbcf3",
-"label": "Waived Unacknowledged SAP (waived USAP) - the mechanism",
-"node": "waived-usap-mechanism",
-"open": false,
-"source": {
-"domain": "sgp.fas.org",
-"text": "Report of the Commission on Protecting and Reducing Government Secrecy (the Moynihan Commission), S. Doc. 105-2, 1997, Chapter II, as mirrored by the Federation of American Scientists - https://sgp.fas.org/library/moynihan/chap2.html",
-"url": "https://sgp.fas.org/library/moynihan/chap2.html"
-},
-"text": "HISTORICAL CORROBORATION FROM A CONGRESSIONALLY CHARTERED COMMISSION. The Report of the Commission on Protecting and Reducing Government Secrecy (1997), Chapter II, states verbatim: 'Among black programs, further distinction is made for \"waived\" programs, considered to be so sensitive that they are exempt from standard reporting requirements to the Congress. The chairperson, ranking member, and, on occasion, other members and staff of relevant Congressional committees are notified only orally of the existence of these programs.' The same passage gives the surrounding population: 'There are approximately 150 DoD-approved SAPs (the exact number is classified and others have been created but not yet formally approved), down from 200 in the late 1980s, and roughly 300 SCI compartments, compared with an estimated 800 in the late 1980s.' The Commission gives no number for the waived subset. The phrase 'notified only orally' is the operationally important one: it describes a practice under which the 119(e)(2) delivery leaves no paper.",
-"tier": 1
-},
-{
-"cls": "program",
-"cluster": "legacy",
-"denied": false,
-"id": "c-3d03c5a52c",
-"label": "Waived Unacknowledged SAP (waived USAP) - the mechanism",
-"node": "waived-usap-mechanism",
-"open": false,
-"source": {
-"domain": "www.esd.whs.mil",
-"text": "DoD Directive 5205.07, 'Special Access Program Policy', effective 12 September 2024, cleared for public release - https://www.esd.whs.mil/portals/54/documents/dd/issuances/dodd/520507p.pdf",
-"url": "https://www.esd.whs.mil/portals/54/documents/dd/issuances/dodd/520507p.pdf"
-},
-"text": "THE PUBLIC TAXONOMY HAS BEEN NARROWING. DoD Directive 5205.07, 'Special Access Program Policy', was reissued effective 12 September 2024 and cancels the 1 July 2010 version. The full public text of the 2024 directive - purpose, applicability, policy, all thirteen responsibility assignments, the governance section, the complete glossary and the reference list - contains no occurrence of the words 'waived' or 'unacknowledged' at all. The directive that used to define the waived category no longer mentions it; the taxonomy now survives publicly only in the subordinate instruction, DoDI 5205.11. Anyone checking only the directive would conclude the category no longer exists.",
-"tier": 1
-},
-{
-"cls": "program",
-"cluster": "legacy",
-"denied": false,
-"id": "c-b371f29ab0",
-"label": "Waived Unacknowledged SAP (waived USAP) - the mechanism",
-"node": "waived-usap-mechanism",
-"open": false,
-"source": {
-"domain": "www.esd.whs.mil",
-"text": "DoD Instruction 5205.11, 'Management, Administration, and Oversight of DoD Special Access Programs', 12 September 2024, cleared for public release - https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf",
-"url": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf"
-},
-"text": "THE STRONGEST SINGLE PIECE OF EVIDENCE THAT THE POPULATION IS NON-EMPTY IS A RECURRING REVIEW REQUIREMENT. DoDI 5205.11 requires that in its annual review the Special Access Program Oversight Committee - chaired by the Deputy Secretary of Defense - shall assess, among four listed items, '(d) All waived DoD SAPs to determine the need for continued waived status.' A standing annual agenda item to decide whether waived programs should REMAIN waived is only drafted if waived programs exist. This is a 2024 document, so the finding is current, not historical.",
-"tier": 1
-},
-{
-"cls": "program",
-"cluster": "legacy",
-"denied": false,
-"id": "c-e737cf9213",
-"label": "Waived Unacknowledged SAP (waived USAP) - the mechanism",
-"node": "waived-usap-mechanism",
-"open": false,
-"source": {
-"domain": "www.esd.whs.mil",
-"text": "DoD Instruction 5205.11, 'Management, Administration, and Oversight of DoD Special Access Programs', 12 September 2024, cleared for public release - https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf",
-"url": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf"
-},
-"text": "The Department's own definition, from the DoDI 5205.11 glossary, verbatim: 'waived SAP - A SAP for which the Secretary of Defense has waived applicable reporting following a determination of adverse effect to national security. An unacknowledged SAP that has more restrictive reporting and access controls than other unacknowledged SAPs.' And, adjacent to it: 'unacknowledged SAP - A SAP having enhanced security measures, ensuring the existence of the program is not acknowledged, affirmed, or made known to any person not authorized for such information.' A waived SAP is therefore a proper subset of the unacknowledged SAPs, distinguished precisely by the exercise of the Section 119(e)(1) waiver.",
-"tier": 1
-},
-{
-"cls": "program",
-"cluster": "legacy",
-"denied": false,
-"id": "c-cafbffa2d0",
-"label": "Waived Unacknowledged SAP (waived USAP) - the mechanism",
-"node": "waived-usap-mechanism",
-"open": false,
-"source": {
-"domain": "www.gao.gov",
-"text": "GAO/NSIAD-89-133, 'Special Access Programs: DOD Is Strengthening Compliance With Oversight Requirements', 4 May 1989 - https://www.gao.gov/assets/nsiad-89-133.pdf",
-"url": "https://www.gao.gov/assets/nsiad-89-133.pdf"
-},
-"text": "The earlier GAO report in the same series, GAO/NSIAD-89-133, covering the period immediately after Section 119 took effect and prepared at the request of Rep. Barbara Boxer, examines DoD compliance with special access program oversight requirements in detail and does not mention the Section 119(e) waiver authority at all. Its only reference to waived requirements is to DoD Directive 5205.7's January 1989 revision requiring 'listings by the responsible program officer of all DOD regulations for which compliance has been waived' - again a different mechanism.",
-"tier": 1
-},
-{
-"cls": "program",
-"cluster": "legacy",
-"denied": false,
-"id": "c-df3cf88216",
-"label": "Waived Unacknowledged SAP (waived USAP) - the mechanism",
-"node": "waived-usap-mechanism",
-"open": false,
-"source": {
-"domain": "www.govinfo.gov",
-"text": "https://www.govinfo.gov/content/pkg/USCODE-2023-title50/html/USCODE-2023-title50-chap45-subchapIII-sec3348.htm",
-"url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title50/html/USCODE-2023-title50-chap45-subchapIII-sec3348.htm"
-},
-"text": "The parallel non-DoD, non-IC statute 50 U.S.C. 3348(e) contains the same waiver test ('would adversely affect the national security', 'case-by-case basis') but a materially WEAKER carve-down: 3348(e)(2) still requires the information to go 'to the congressional oversight committees', not merely to chairs and ranking members. The eight-member floor is therefore unique to the DoD statute.",
-"tier": 1
-},
-{
-"cls": "program",
-"cluster": "legacy",
-"denied": false,
-"id": "c-0aab3881a8",
-"label": "Waived Unacknowledged SAP (waived USAP) - the mechanism",
-"node": "waived-usap-mechanism",
-"open": false,
-"source": {
-"domain": "www.esd.whs.mil",
-"text": "DoD Instruction 5205.11, 'Management, Administration, and Oversight of DoD Special Access Programs', 12 September 2024, cleared for public release - https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf",
-"url": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf"
-},
-"text": "VERDICT ON THE BOARD'S QUESTION: the waiver has been exercised, and the Department of Defense says so in a currently effective, publicly released instruction - but no public document identifies a single specific instance, a count, a date, a program, or any connection to unidentified anomalous phenomena. DoD Instruction 5205.11, effective 12 September 2024, paragraph 1.2.f, states verbatim: 'The Secretary of Defense may designate select unacknowledged SAPs as \"waived\" when it is determined that using standard procedures for reporting to Congress would adversely affect national security, pursuant to Section 119 of Title 10, United States Code. Waived SAPs remain subject to congressional oversight.' This is not a hypothetical authority described in the abstract; the rest of the instruction is written around an existing population of such programs.",
-"tier": 1
-},
-{
-"cls": "program",
-"cluster": "legacy",
-"denied": false,
-"id": "c-4fb9cef310",
-"label": "Waived Unacknowledged SAP (waived USAP) - the mechanism",
-"node": "waived-usap-mechanism",
-"open": false,
-"source": {
-"domain": "uscode.house.gov",
-"text": "Office of the Law Revision Counsel, 10 U.S.C. 119, 'Special access programs: congressional oversight' (text in effect on 20 August 2026) - https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim ; DoD Instruction 5205.11, 'Management, Administration, and Oversight of DoD Special Access Programs', 12 September 2024, cleared for public release - https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf ; Report of the Commission on Protecting and Reducing Government Secrecy (the Moynihan Commission), S. Doc. 105-2, 1997, Chapter II, as mirrored by the Federation of American Scientists - https://sgp.fas.org/library/moynihan/chap2.html",
-"url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim"
-},
-"text": "WHAT SHOULD EXIST IF THE WAIVER WERE BEING USED, AND WHY NONE OF IT IS PUBLIC. Four artefacts are implied by the statute and the DoD instruction: (i) the underlying 119(a), (b) or (c) report itself, which is classified and, for (a) and (b), no longer statutorily required after 31 December 2021; (ii) the Secretary's case-by-case determination that inclusion would adversely affect national security, which 119(e)(1) requires to be made but does not require to be recorded in any publicly indexed form; (iii) the withheld information plus a written justification delivered jointly to twelve named members, which by the Moynihan Commission's account has historically been delivered orally; and (iv) the SAPOC annual review record of whether each waived program should retain that status, which is internal to the Department. None of the four is a public document class. There is no statutory requirement anywhere in Section 119 to report the NUMBER of waivers exercised, the fact that any waiver was exercised, or an aggregate count, to anyone outside those twelve seats. The absence of a public instance is therefore fully explained by the design of the mechanism and is NOT evidence of concealment beyond what the statute itself authorises.",
-"tier": 1
-},
-{
-"cls": "program",
-"cluster": "legacy",
-"denied": false,
-"id": "c-ac721b3bde",
-"label": "Waived Unacknowledged SAP (waived USAP) - the mechanism",
-"node": "waived-usap-mechanism",
-"open": false,
-"source": {
-"domain": null,
-"text": "Negative result of searches restricted to gao.gov, dodig.mil, crsreports.congress.gov, armed-services.senate.gov, armedservices.house.gov and govinfo.gov during this pass",
-"url": null
-},
-"text": "NO UAP-SPECIFIC EXERCISE OF THE 119(e)(1) WAIVER WAS FOUND IN ANY PUBLIC DOCUMENT. Searches across GAO's special access program series, DoD Inspector General audits and evaluations, Congressional Research Service products, and the Senate and House Armed Services Committee document sets returned no document in which a waived special access program is linked to unidentified anomalous phenomena, and no document in which any specific exercise of the Section 119(e)(1) waiver - UAP or otherwise - is identified, dated, counted or described. The DoD Inspector General's public catalogue for special access programs consists of external peer reviews and quality control reviews of the service audit agencies' SAP audit work, plus a series of entries titled only 'CLASSIFIED REPORT (Classified)'; none addresses congressional reporting under Section 119.",
-"tier": 2
-},
-{
-"cls": "program",
-"cluster": "legacy",
-"denied": false,
-"id": "c-9108375bc9",
-"label": "Waived Unacknowledged SAP (waived USAP) - the mechanism",
-"node": "waived-usap-mechanism",
-"open": false,
-"source": {
-"domain": null,
-"text": "DoDI 5205.11, Enclosure 3",
-"url": null
-},
-"text": "A complete list of waived DoD SAPs demonstrably exists in documentary form, is reviewed at least annually by the Senior Review Group, and is validated by the SAPOC - which means the answer to 'how many waived programs are there' is a retrievable agency record and not an unknowable. Reasoning: DoDI 5205.11 Enclosure 3 assigns the annual review of all waived SAPs and the accuracy of the congressional SAP list to a named standing body.",
-"tier": 3
-},
-{
-"cls": "program",
-"cluster": "legacy",
-"denied": false,
-"id": "c-a0c3faaf61",
-"label": "Waived Unacknowledged SAP (waived USAP) - the mechanism",
-"node": "waived-usap-mechanism",
+"denied": true,
+"id": "c-4a265653bd",
+"label": "Waived unacknowledged special access program (waived USAP)",
+"node": "waived-usap",
 "open": false,
 "source": {
 "domain": "www.ecfr.gov",

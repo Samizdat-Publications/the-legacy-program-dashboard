@@ -39,11 +39,11 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
-"edgeId": "e-5779d1126a",
+"edgeId": "e-bce3600bac",
 "edgeLabel": "FBI transferred records to RG 615 while its standing Vault collection stayed frozen at 2013",
-"id": "nara-rg615",
+"id": "nara-uap-collection",
 "l0": true,
-"label": "National Archives Record Group 615 - UAP Records Collection",
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection",
 "note": "The FBI appears as an RG 615 contributor (catalog ID 580705010) and was the largest single contributor to PURSUE Release 03, while its public Vault UFO collection remained last-modified 25 July 2013.",
 "sources": [
 {
@@ -149,7 +149,7 @@
 ],
 "sub": "16 parts; 1947-1954; posted 30 Nov 2010, last modified 25 Jul 2013",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 372 of 1170, score 36). 3 connections, 3 of them custody/funding/programmatic. Axes C1/A2/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 374 of 1138, score 36). 3 connections, 3 of them custody/funding/programmatic. Axes C1/A2/D3.",
 "timeline": [],
 "unverified": []
 }

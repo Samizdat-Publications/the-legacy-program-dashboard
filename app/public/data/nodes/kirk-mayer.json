@@ -91,7 +91,7 @@
 "edgeId": "e-2f66568372",
 "edgeLabel": "Support-services contractor at the laboratory",
 "id": "lanl",
-"l0": false,
+"l0": true,
 "label": "Los Alamos National Laboratory",
 "note": "The whole purpose of the kirk-mayer node. Nothing was opened about the company itself beyond this relationship.",
 "sources": [
@@ -154,7 +154,7 @@
 ],
 "sub": "Los Alamos support-services contractor under which Bob Lazar actually worked in 1982, and whose name appears on the telephone-directory page that also carries his",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 1102 of 1170, score 11). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D0.",
+"tierRationale": "Re-graded C on a global pass (rank 1072 of 1138, score 11). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D0.",
 "timeline": [],
 "unverified": [
 "The company's full corporate identity, incorporation, contract vehicle and scope of work at Los Alamos. NOTHING was opened about Kirk-Mayer as a company. Everything here is what three people writing about Lazar say about his relationship to it. A later session should look for the laboratory's support-services contract records.",

@@ -39,11 +39,31 @@
 "source": "AARO Historical Record Report Volume I, March 2024",
 "text": "AARO confirms that the private organisation owning the alleged crash material 'negotiated an agreement in 2019 with the U.S. Army to analyze the samples.'",
 "tier": 1
+},
+{
+"id": "c-f304b66487",
+"source": "TTSA announcement, 17 October 2019; Bloomberg Government, 21 October 2019",
+"text": "The five-year CRADA was announced on 17 October 2019 and covers inertial mass reduction, mechanical/structural metamaterials, electromagnetic metamaterial waveguides, quantum physics, quantum communications and beamed energy propulsion.",
+"tier": 2
+},
+{
+"id": "c-082fa1ed9d",
+"source": "Bloomberg Government, 21 October 2019",
+"text": "The Army stated no public funding would go to the group; the agreement provided at least $750,000 in Army support and resources.",
+"tier": 2
+},
+{
+"id": "c-5169314eed",
+"source": "Inference from the absence of any such publication or release as of August 2026",
+"text": "No technical output, sample characterisation or Army statement of findings from the CRADA has ever been published, despite the agreement running its full nominal five-year term.",
+"tier": 3
 }
 ],
 "cls": "document",
 "cluster": "contractor",
-"conflicts": [],
+"conflicts": [
+"The records disagree on when the agreement ended. This node's claim, citing the CRADA document as released (The War Zone, 18 October 2019), gives a term to 30 September 2023, and the node is dated to 2023; the collapsed duplicate ttsa-army-crada-2019 described a five-year agreement from October 2019, was dated to 2024, and its carried claim speaks of the agreement running 'its full nominal five-year term'. The released document as cited here gives 30 September 2023; both statements are kept so the disagreement stays visible."
+],
 "connections": [
 {
 "claimTier": 1,
@@ -74,8 +94,30 @@
 "url": "https://www.sec.gov/Archives/edgar/data/1710274/000110465920089220/tm2023098d2_ex6-28.htm"
 }
 ],
-"tier": "B",
+"tier": "A",
 "type": "custody"
+},
+{
+"claimTier": 2,
+"cls": "program",
+"dateEnd": "2024",
+"dateStart": "2019",
+"direction": "in",
+"edgeId": "e-62a26e2553",
+"edgeLabel": "ADAM materials became the subject of a five-year Army CRADA",
+"id": "adam-research-project",
+"l0": true,
+"label": "ADAM Research Project (Acquisition and Data Analysis of Materials)",
+"note": "On 17 October 2019 TTSA entered a CRADA with the US Army Combat Capabilities Development Command covering inertial mass reduction, metamaterials, quantum physics and beamed energy propulsion, with at least $750,000 in Army support and no public funding to the company.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia: To The Stars Inc.",
+"url": "https://en.wikipedia.org/wiki/To_the_Stars_(company)."
+}
+],
+"tier": "A",
+"type": "funding"
 },
 {
 "claimTier": 2,
@@ -147,6 +189,28 @@
 ],
 "tier": "B",
 "type": "institutional"
+},
+{
+"claimTier": 3,
+"cls": "domain",
+"dateEnd": "2026",
+"dateStart": "2019",
+"direction": "out",
+"edgeId": "e-b8c126f90f",
+"edgeLabel": "The chain goes dark inside a federal research agreement",
+"id": "d-custody",
+"l0": false,
+"label": "Chain of custody",
+"note": "A CRADA is a records-generating instrument. Seven years after signature, no characterisation of the samples, no technical output and no Army statement of findings has been published. That silence is the darkest segment of the only documented private-to-federal materials transfer.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia: To The Stars Inc.",
+"url": "https://en.wikipedia.org/wiki/To_the_Stars_(company)."
+}
+],
+"tier": "A",
+"type": "custody"
 },
 {
 "claimTier": 1,
@@ -321,7 +385,7 @@
 "coords": null,
 "dateEnd": "2023",
 "dateStart": "2019",
-"deg": 10,
+"deg": 11,
 "denials": [],
 "desc": "This is the hardest artifact in the domain: an executed federal research instrument binding the United States Army to a company that publicly claimed custody of material from a vehicle of unknown origin. Signed on 10 October 2019 by Jeffery Langhout, Director of the Army Ground Vehicle Systems Center, and Kari DeLonge for TTSA, and announced on 17 October 2019, it named Bean Soave and Dr. Joseph Cannon as government principal investigators and Luis Elizondo, as TTSA's Director of Global Security & Special Programs, as the collaborator principal investigator. The stated research areas are 'inertial mass reduction, mechanical/structural meta materials, electromagnetic meta material wave guides, quantum physics, quantum communications, and beamed energy propulsion', with 'Active Camouflage' and 'Directed Photon Projection' named as applications. The document runs to 30 September 2023 with annual intellectual property reviews and estimates the value of TTSA's participation at $1 million in in-kind contributions; the Army provided laboratories, expertise and resources reported at not less than $750,000 in value. The Army released the agreement itself on 18 October 2019 but on 21 February 2020 denied in full a FOIA request for the associated correspondence — twenty-nine emails, one hundred pages — under exemptions (b)(4) and (b)(5). No technical results have ever been published.",
 "domains": [],
@@ -502,7 +566,7 @@
 "cls": "document",
 "id": "aaro-metallic-specimen-analysis",
 "label": "AARO / ORNL Synopsis: Analysis of a Metallic Specimen",
-"tier": "B"
+"tier": "A"
 },
 {
 "cls": "institution",
@@ -515,6 +579,12 @@
 "id": "d-contracting",
 "label": "Federal Contracting Mechanics",
 "tier": "B"
+},
+{
+"cls": "domain",
+"id": "d-custody",
+"label": "Chain of custody",
+"tier": "A"
 },
 {
 "cls": "person",
@@ -552,7 +622,8 @@
 "sourceFiles": [
 "_rs-archive-mirror",
 "elizondo-ttsa",
-"primes-custody"
+"primes-custody",
+"scientists-technical"
 ],
 "sources": [
 {
@@ -604,11 +675,21 @@
 "date": "2024-03-08",
 "name": "AARO, 'Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP), Volume I'",
 "url": "https://documents2.theblackvault.com/documents/dod/AARO_Historical_Record_Report_Volume_1_2024.pdf"
+},
+{
+"date": "2026-08-12",
+"name": "Wikipedia: To The Stars Inc.",
+"url": "https://en.wikipedia.org/wiki/To_the_Stars_(company)."
+},
+{
+"date": "2019-10-21",
+"name": "Travis J. Tritten, 'UFO Group Sharing Exotic Materials With Army for Combat Vehicles', Bloomberg Government",
+"url": "https://about.bgov.com/news/ufo-group-sharing-exotic-materials-with-army-for-combat-vehicles/"
 }
 ],
 "sub": "Cooperative Research and Development Agreement, signed 10 October 2019",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 98 of 1170, score 64). 11 connections, 5 of them custody/funding/programmatic. Axes C3/A1/D3.",
+"tierRationale": "Re-graded A on a global pass (rank 56 of 1138, score 77). 13 connections, 7 of them custody/funding/programmatic. Axes C3/A1/D3.",
 "timeline": [
 {
 "claimTier": null,
@@ -629,6 +710,16 @@
 "precision": "day",
 "strand": "program",
 "text": "Jeffery Langhout for the Army GVSC and Kari DeLonge for TTSA sign a five-year cooperative research agreement covering inertial mass reduction, metamaterials, quantum communications, beamed energy propulsion and active camouflage."
+},
+{
+"claimTier": null,
+"date": "2019-10-17",
+"grade": "A",
+"id": "st-2019-10-17",
+"label": "US Army CRADA signed",
+"precision": "day",
+"strand": "program",
+"text": "TTSA enters a five-year cooperative research and development agreement with the US Army Combat Capabilities Development Command covering inertial mass reduction, metamaterials, quantum physics and beamed energy propulsion."
 },
 {
 "claimTier": null,

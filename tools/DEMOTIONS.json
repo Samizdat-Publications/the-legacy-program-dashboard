@@ -655,6 +655,16 @@
   "claim": "DoD self-reports a budget of $841.4 billion, 3.4 million personnel and 4,800 sites in over 160 countries, with"
  },
  {
+  "id": "dod-oig",
+  "why": "sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact",
+  "claim": "The OIG issued DOWIG-2026-081 on 12 May 2026 recording an eighth consecutive disclaimer of opinion and 26 mate"
+ },
+ {
+  "id": "dod-oig",
+  "why": "sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact",
+  "claim": "The OIG issued DODIG-2016-113 on 26 July 2016 finding $2.8 trillion in unsupported third quarter and $6.5 tril"
+ },
+ {
   "id": "dod-agencywide-audit",
   "why": "sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact",
   "claim": "The Department received a disclaimer of opinion on its agency-wide financial statements for eight consecutive "
@@ -693,16 +703,6 @@
   "id": "reprogramming-dd1415",
   "why": "sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact",
   "claim": "Internal Reprogramming on DD Form 1415-3 is processed entirely within the Department as an audit-trail action,"
- },
- {
-  "id": "dodig",
-  "why": "sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact",
-  "claim": "The OIG issued DOWIG-2026-081 on 12 May 2026 recording an eighth consecutive disclaimer of opinion and 26 mate"
- },
- {
-  "id": "dodig",
-  "why": "sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact",
-  "claim": "The OIG issued DODIG-2016-113 on 26 July 2016 finding $2.8 trillion in unsupported third quarter and $6.5 tril"
  },
  {
   "id": "dow-financial-mgmt-hearing-2026",
@@ -835,16 +835,6 @@
   "claim": "It states that 'many different types of aerial activity should be secretly and purposefully scheduled within t"
  },
  {
-  "id": "uap-gerb-mitre-investigation",
-  "why": "cited to a secondary/encyclopedic source",
-  "claim": "The investigation was published 7 August 2026 by UAP Gerb, runs approximately two hours, and includes chapters"
- },
- {
-  "id": "uap-gerb-mitre-investigation",
-  "why": "node carries no primary-record URL",
-  "claim": "It states that MITRE, its 15 MITRE Labs and 6 operational FFRDCs have served as a long-term strategic partner "
- },
- {
   "id": "s-4-papoose-lake",
   "why": "cited to a secondary/encyclopedic source",
   "claim": "THE PLACE IS REAL AND THE FACILITY IS NOT DOCUMENTED. Papoose Lake is a dry lake bed in Lincoln County, Nevada"
@@ -945,6 +935,16 @@
   "claim": "MITRE operates six FFRDCs: the National Security Engineering Center; the Center for Advanced Aviation System D"
  },
  {
+  "id": "gerb-mitre-investigation",
+  "why": "cited to a secondary/encyclopedic source",
+  "claim": "The investigation was published 7 August 2026 by UAP Gerb, runs approximately two hours, and includes chapters"
+ },
+ {
+  "id": "gerb-mitre-investigation",
+  "why": "node carries no primary-record URL",
+  "claim": "It states that MITRE, its 15 MITRE Labs and 6 operational FFRDCs have served as a long-term strategic partner "
+ },
+ {
   "id": "ffrdc-mechanism",
   "why": "node carries no primary-record URL",
   "claim": "MITRE operates six FFRDCs across defence and intelligence, aviation, civil systems, homeland security, health "
@@ -963,6 +963,11 @@
   "id": "new-paradigm-institute",
   "why": "cited to a secondary/encyclopedic source",
   "claim": "Daniel Sheehan leads the organisation and represents Luis Elizondo in a case against the Department of Defense"
+ },
+ {
+  "id": "age-of-disclosure",
+  "why": "node carries no primary-record URL",
+  "claim": "The film premiered at SXSW on 9 March 2025 and was released theatrically in limited release and on Prime Video"
  },
  {
   "id": "weaponized-podcast",
@@ -993,11 +998,6 @@
   "id": "cseti",
   "why": "cited to a secondary/encyclopedic source",
   "claim": "Greer founded CSETI in 1990 and the Disclosure Project in 1993; the Disclosure Project seeks amnesty for gover"
- },
- {
-  "id": "age-of-disclosure-2025",
-  "why": "node carries no primary-record URL",
-  "claim": "The film premiered at SXSW on 9 March 2025 and was released theatrically in limited release and on Prime Video"
  },
  {
   "id": "hr-8197",

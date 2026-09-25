@@ -129,7 +129,7 @@
 "edgeId": "e-ac66f4821c",
 "edgeLabel": "Centrepiece of Guillot's 90-day counter-UAS assessment",
 "id": "langley-2023-incursions",
-"l0": true,
+"l0": false,
 "label": "Langley AFB Drone Incursions (December 2023)",
 "note": "Guillot testified the Langley incidents dominated his assessment on taking command in February 2024 and were 'the centerpiece' of his review.",
 "sources": [
@@ -324,6 +324,12 @@
 "tier": "C"
 },
 {
+"cls": "event",
+"id": "langley-2023-incursions",
+"label": "Langley AFB Drone Incursions (December 2023)",
+"tier": "B"
+},
+{
 "cls": "legislation",
 "id": "ndaa26-uap-provisions",
 "label": "NDAA FY2026 UAP provisions (Secs. 1671-1673)",
@@ -361,7 +367,7 @@
 ],
 "sub": "Homeland air defence combatant command",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 454 of 1170, score 32). 8 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A3/D2.",
+"tierRationale": "Re-graded B on a global pass (rank 453 of 1138, score 32). 8 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A3/D2.",
 "timeline": [],
 "unverified": []
 }

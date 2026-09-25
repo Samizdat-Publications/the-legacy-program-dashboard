@@ -529,7 +529,7 @@
 "url": "https://www.theblackvault.com/documentarchive/pentagon-reinforces-mr-luis-elizondo-had-no-responsibilities-on-aatip-senator-harry-reids-2009-memo-changes-nothing/"
 }
 ],
-"tier": "B",
+"tier": "A",
 "type": "denial"
 },
 {
@@ -724,13 +724,19 @@
 "id": "immaculate-constellation-12-page-report",
 "label": "Immaculate Constellation 12-page report entered into the Congressional Record"
 },
-"by": null,
+"by": {
+"id": "susan-gough",
+"label": "Susan Gough"
+},
 "claimTier": 2,
 "denialKind": "directed",
 "edgeId": "e-944d113463",
 "label": "Department says it has no record of the programme",
 "note": "Gough's 'no record' statement is the Department's entire published response to a document in the Congressional Record; no documentary rebuttal has been produced.",
-"of": null,
+"of": {
+"id": "immaculate-constellation-12-page-report",
+"label": "Immaculate Constellation 12-page report entered into the Congressional Record"
+},
 "sources": [
 {
 "date": "2024-11-13",
@@ -951,7 +957,7 @@
 "status": "former",
 "sub": "DoD spokesperson for UAP matters, Office of the Assistant to the Secretary of Defense for Public Affairs",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 28 of 1170, score 96). 15 connections, 0 of them custody/funding/programmatic, 9 official denials recorded against it. Axes C0/A1/D1.",
+"tierRationale": "Re-graded A on a global pass (rank 30 of 1138, score 96). 15 connections, 0 of them custody/funding/programmatic, 9 official denials recorded against it. Axes C0/A1/D1.",
 "timeline": [
 {
 "claimTier": null,

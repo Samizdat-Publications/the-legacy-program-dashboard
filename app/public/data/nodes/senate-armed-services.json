@@ -56,7 +56,7 @@
 "url": "https://www.govinfo.gov/content/pkg/CREC-2023-07-13/html/CREC-2023-07-13-pt1-PgS2953.htm"
 }
 ],
-"tier": "B",
+"tier": "C",
 "type": "institutional"
 },
 {
@@ -372,7 +372,7 @@
 "cls": "domain",
 "id": "d-legislative",
 "label": "Legislative Process (proposed and pending)",
-"tier": "B"
+"tier": "C"
 },
 {
 "cls": "person",
@@ -412,7 +412,7 @@
 ],
 "sub": "Committee of jurisdiction over the NDAA vehicle",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 436 of 1170, score 33). 9 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D1.",
+"tierRationale": "Re-graded B on a global pass (rank 436 of 1138, score 33). 9 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D1.",
 "timeline": [],
 "unverified": []
 }

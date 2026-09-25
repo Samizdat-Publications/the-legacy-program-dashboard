@@ -45,11 +45,11 @@
 "dateEnd": "1995",
 "dateStart": "1995",
 "direction": "in",
-"edgeId": "e-b884702b71",
+"edgeId": "e-481ec79a14",
 "edgeLabel": "GAO found the relevant RAAF records destroyed with no recorded authority",
-"id": "gao-roswell-report-1995",
-"l0": false,
-"label": "GAO/NSIAD-95-187, Government Records: Results of a Search for Records Concerning the 1947 Crash Near Roswell, New Mexico",
+"id": "gao-nsiad-95-187",
+"l0": true,
+"label": "GAO/NSIAD-95-187 - Results of a Search for Records Concerning the 1947 Crash Near Roswell",
 "note": "RAAF administrative records March 1945-December 1949 and outgoing messages October 1946-December 1949 were destroyed; the disposition form records neither who destroyed them nor under what authority.",
 "sources": [
 {
@@ -58,7 +58,7 @@
 "url": "https://www.govinfo.gov/content/pkg/GAOREPORTS-NSIAD-95-187/html/GAOREPORTS-NSIAD-95-187.htm"
 }
 ],
-"tier": "C",
+"tier": "A",
 "type": "investigative"
 },
 {
@@ -180,7 +180,7 @@
 ],
 "sub": "City in Chaves County; site of Roswell Army Air Field, home of the 509th Bomb Group; debris field ~75 mi NW near Corona",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 309 of 1170, score 39). 4 connections, 0 of them custody/funding/programmatic. Axes C3/A2/D2.",
+"tierRationale": "Re-graded B on a global pass (rank 311 of 1138, score 39). 4 connections, 0 of them custody/funding/programmatic. Axes C3/A2/D2.",
 "timeline": [],
 "unverified": []
 }

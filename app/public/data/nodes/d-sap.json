@@ -129,7 +129,7 @@
 "edgeId": "e-df64c24d34",
 "edgeLabel": "A primary statement of how special access programmes are established and by whom",
 "id": "gao-nsiad-88-152",
-"l0": false,
+"l0": true,
 "label": "GAO/NSIAD-88-152 - Special Access Programs: DOD Criteria and Procedures for Creating Them Need Improvement",
 "note": "The report is a primary statement of how special access programmes are established and by whom.",
 "sources": [
@@ -215,7 +215,7 @@
 ],
 "sub": "Access-control domain - the SAP/USAP/waived tier and its oversight carve-outs",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 203 of 1170, score 45). 6 connections, 3 of them custody/funding/programmatic. Axes C2/A3/D2.",
+"tierRationale": "Re-graded B on a global pass (rank 202 of 1138, score 45). 6 connections, 3 of them custody/funding/programmatic. Axes C2/A3/D2.",
 "timeline": [
 {
 "claimTier": 1,

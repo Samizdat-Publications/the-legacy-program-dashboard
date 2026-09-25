@@ -82,7 +82,7 @@
 "url": "https://burlison.house.gov/media/press-releases/house-adopts-burlison-amendment-establishing-uap-disclosure-framework"
 }
 ],
-"tier": "B",
+"tier": "C",
 "type": "legislative"
 },
 {
@@ -165,36 +165,14 @@
 "claimTier": 1,
 "cls": "institution",
 "dateEnd": null,
-"dateStart": "2026-07-22",
-"direction": "out",
-"edgeId": "e-305e6a2aef",
-"edgeLabel": "would place the collection on a statutory timeline",
-"id": "nara-rg615",
-"l0": true,
-"label": "National Archives Record Group 615 - UAP Records Collection",
-"note": "The amendment requires agencies to identify, organise, preserve and transmit UAP records to the National Archives on a statutory timeline and creates a Senate-confirmed Records Review Board with subpoena authority.",
-"sources": [
-{
-"date": "2026-07-22",
-"name": "Burlison, House Adopts UAP Disclosure Framework",
-"url": "https://burlison.house.gov/media/press-releases/house-adopts-burlison-amendment-establishing-uap-disclosure-framework"
-}
-],
-"tier": "A",
-"type": "legislative"
-},
-{
-"claimTier": 2,
-"cls": "program",
-"dateEnd": null,
 "dateStart": "2026",
 "direction": "out",
-"edgeId": "e-e76ab1a2a9",
+"edgeId": "e-c638681998",
 "edgeLabel": "Would impose statutory transfer timelines on the NARA collection",
-"id": "nara-uap-records-collection",
-"l0": false,
-"label": "National Archives UAP Records Collection (Record Group 615)",
-"note": "The amendment would require agencies to identify, preserve and transfer covered UAP records under a statutory timeline, supplying the enforcement the FY2024 NDAA sections omitted.",
+"id": "nara-uap-collection",
+"l0": true,
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection",
+"note": "The amendment requires agencies to identify, organise, preserve and transmit UAP records to the National Archives on a statutory timeline and creates a Senate-confirmed Records Review Board with subpoena authority.",
 "sources": [
 {
 "date": "2026-07-23",
@@ -205,9 +183,14 @@
 "date": "2026-08-12",
 "name": "National Archives - UAP Records Collection (archives.gov/uap)",
 "url": "https://www.archives.gov/uap"
+},
+{
+"date": "2026-07-22",
+"name": "Burlison, House Adopts UAP Disclosure Framework",
+"url": "https://burlison.house.gov/media/press-releases/house-adopts-burlison-amendment-establishing-uap-disclosure-framework"
 }
 ],
-"tier": "B",
+"tier": "A",
 "type": "legislative"
 },
 {
@@ -322,7 +305,7 @@
 "coords": null,
 "dateEnd": null,
 "dateStart": "2026-07-22",
-"deg": 10,
+"deg": 9,
 "denials": [],
 "desc": "The successor to the 2023 Schumer-Rounds UAP Disclosure Act, and the first time such a framework has cleared a chamber. Adopted by the House on 22 July 2026 as an amendment to the Fiscal Year 2027 National Defense Authorization Act - the first year Burlison's UAP disclosure amendment advanced to a House floor vote, after a similar proposal failed to advance in the previous defence-bill cycle. As adopted it establishes a statutory framework for preserving, reviewing and publicly disclosing UAP records; creates a permanent UAP Records Collection at the National Archives; establishes an independent, Senate-confirmed UAP Records Review Board with subpoena authority to determine what is released and what stays classified; requires federal agencies to identify, organise, preserve and transmit UAP records to the National Archives on a statutory timeline; and - the provision with no precedent in existing authority - extends disclosure requirements to covered government contractors. Burlison's own framing places it in support of the executive programme rather than against it: the press release states the amendment supports President Trump's Presidential Unsealing and Reporting System for UAP Encounters. Read structurally, it is the exact remedy for each defect PURSUE has: PURSUE has no statutory timeline, so the amendment supplies one; PURSUE has no subpoena power, so the amendment creates a board that has one; PURSUE cannot reach Lockheed, Battelle or MITRE, so the amendment extends to contractors; PURSUE's decisions are made by an unchartered task force, so the amendment's board is Senate-confirmed. It is not law. It must survive the Senate's own version and conference later in 2026 and be signed. The 2023 precedent is the reason for pessimism: the original UAP Disclosure Act's eminent-domain and review-board provisions were stripped in conference by House Intelligence and Armed Services leadership before the FY2024 NDAA was signed.",
 "domains": [],
@@ -432,19 +415,13 @@
 "cls": "domain",
 "id": "d-legislative",
 "label": "Legislative Process (proposed and pending)",
-"tier": "B"
+"tier": "C"
 },
 {
 "cls": "person",
 "id": "eric-burlison",
 "label": "Eric Burlison",
 "tier": "A"
-},
-{
-"cls": "program",
-"id": "nara-uap-records-collection",
-"label": "National Archives UAP Records Collection (Record Group 615)",
-"tier": "B"
 },
 {
 "cls": "legislation",
@@ -485,7 +462,7 @@
 ],
 "sub": "Adopted by the House 22-23 July 2026; pending in the Senate",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 394 of 1170, score 35). 10 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 420 of 1138, score 34). 9 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.",
 "timeline": [
 {
 "claimTier": 1,

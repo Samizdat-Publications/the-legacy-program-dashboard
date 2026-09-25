@@ -234,6 +234,28 @@
 {
 "claimTier": 2,
 "cls": "document",
+"dateEnd": "2024",
+"dateStart": "2019",
+"direction": "out",
+"edgeId": "e-62a26e2553",
+"edgeLabel": "ADAM materials became the subject of a five-year Army CRADA",
+"id": "ttsa-army-crada",
+"l0": true,
+"label": "CRADA between U.S. Army Ground Vehicle Systems Center and To The Stars Academy",
+"note": "On 17 October 2019 TTSA entered a CRADA with the US Army Combat Capabilities Development Command covering inertial mass reduction, metamaterials, quantum physics and beamed energy propulsion, with at least $750,000 in Army support and no public funding to the company.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia: To The Stars Inc.",
+"url": "https://en.wikipedia.org/wiki/To_the_Stars_(company)."
+}
+],
+"tier": "A",
+"type": "funding"
+},
+{
+"claimTier": 2,
+"cls": "document",
 "dateEnd": "2023",
 "dateStart": "2019",
 "direction": "out",
@@ -252,34 +274,12 @@
 ],
 "tier": "A",
 "type": "programmatic"
-},
-{
-"claimTier": 2,
-"cls": "document",
-"dateEnd": "2024",
-"dateStart": "2019",
-"direction": "out",
-"edgeId": "e-b4d1f00392",
-"edgeLabel": "ADAM materials became the subject of a five-year Army CRADA",
-"id": "ttsa-army-crada-2019",
-"l0": false,
-"label": "To The Stars Academy - US Army CCDC Cooperative Research and Development Agreement (17 October 2019)",
-"note": "On 17 October 2019 TTSA entered a CRADA with the US Army Combat Capabilities Development Command covering inertial mass reduction, metamaterials, quantum physics and beamed energy propulsion, with at least $750,000 in Army support and no public funding to the company.",
-"sources": [
-{
-"date": "2026-08-12",
-"name": "Wikipedia: To The Stars Inc.",
-"url": "https://en.wikipedia.org/wiki/To_the_Stars_(company)."
-}
-],
-"tier": "C",
-"type": "funding"
 }
 ],
 "coords": null,
 "dateEnd": "2021",
 "dateStart": "2018",
-"deg": 7,
+"deg": 6,
 "denials": [],
 "desc": "The ADAM Research Project is the only publicly documented attempt to move alleged UAP material from private hands into a formal government research relationship, and it is a case study in what a broken chain of custody looks like. To The Stars Academy announced in July 2019 that it had acquired and was studying 'potentially exotic materials'. Its COO Steve Justice - former director of Advanced Systems at Lockheed Martin's Skunk Works - said 'the structure and composition of these materials are not from any known existing military or commercial application' and, with unusual candour, that the materials 'have been collected from sources with varying levels of chain-of-custody documentation, so we are focusing on verifiable facts and working to develop independent scientific proof of the materials' properties and attributes.' SEC filings record TTSA paying $35,000 for several items including six pieces of bismuth/magnesium-zinc metal and a piece of aluminium. Those samples had previously been retained and studied by ufologist Linda Moulton Howe, who says she had them tested by the Carnegie Institution's Department of Terrestrial Magnetism in 1996 and subsequently by Harold Puthoff on several occasions. A 2012 letter from Puthoff reported that the tests had not proved alien origin nor produced any 'interesting/anomalous outcome', with one further test outstanding for want of specialised equipment. TTSA then partnered with laboratories founded by Puthoff to continue the work, and on 17 October 2019 entered a five-year cooperative research and development agreement with the US Army Combat Capabilities Development Command covering inertial mass reduction, mechanical and structural metamaterials, electromagnetic metamaterial waveguides, quantum physics, quantum communications and beamed energy propulsion. No analytical results have been published. Chemists including Richard Sachleben and May Nyman have said any unknown alloy would be identified within hours at any competent laboratory; Chris Cogswell suggested the bismuth/magnesium-zinc pieces are Betterton-Kroll process slag.",
 "domains": [],
@@ -438,12 +438,6 @@
 "id": "steve-justice",
 "label": "Steve Justice",
 "tier": "B"
-},
-{
-"cls": "document",
-"id": "ttsa-army-crada-2019",
-"label": "To The Stars Academy - US Army CCDC Cooperative Research and Development Agreement (17 October 2019)",
-"tier": "C"
 }
 ],
 "openQuestions": [],
@@ -517,7 +511,7 @@
 ],
 "sub": "TTSA materials program run with EarthTech International",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 82 of 1170, score 69). 8 connections, 7 of them custody/funding/programmatic. Axes C3/A1/D2.",
+"tierRationale": "Re-graded A on a global pass (rank 86 of 1138, score 69). 8 connections, 7 of them custody/funding/programmatic. Axes C3/A1/D2.",
 "timeline": [
 {
 "claimTier": null,

@@ -208,7 +208,7 @@
 "edgeId": "e-3225c79470",
 "edgeLabel": "ISOO access to SAPs is granted and simultaneously conditioned",
 "id": "isoo",
-"l0": true,
+"l0": false,
 "label": "Information Security Oversight Office",
 "note": "Section 4.3(b) affords the ISOO Director access to special access programs 'consistent with the policies and procedures directed by the President' - a defeasible right.",
 "sources": [
@@ -451,6 +451,12 @@
 "tier": "A"
 },
 {
+"cls": "institution",
+"id": "isoo",
+"label": "Information Security Oversight Office",
+"tier": "C"
+},
+{
 "cls": "legislation",
 "id": "ndaa-fy2024-7606",
 "label": "FY2024 IAA sec. 7606(c) - Agency Review of Special Access Programs",
@@ -484,7 +490,7 @@
 ],
 "sub": "executive-order",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 60 of 1170, score 75). 9 connections, 2 of them custody/funding/programmatic. Axes C0/A3/D3.",
+"tierRationale": "Re-graded A on a global pass (rank 60 of 1138, score 75). 9 connections, 2 of them custody/funding/programmatic. Axes C0/A3/D3.",
 "timeline": [
 {
 "claimTier": null,

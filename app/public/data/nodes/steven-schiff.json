@@ -144,7 +144,7 @@
 "edgeId": "e-9a707bbfad",
 "edgeLabel": "Schiff tasked GAO after DoD refused to answer him",
 "id": "gao-nsiad-95-187",
-"l0": false,
+"l0": true,
 "label": "GAO/NSIAD-95-187 - Results of a Search for Records Concerning the 1947 Crash Near Roswell",
 "note": "A single member of Congress used the legislature's audit arm to go around an executive agency, producing the records-destruction finding no executive review has ever addressed.",
 "sources": [
@@ -157,31 +157,14 @@
 "date": "1995-07-28",
 "name": "GAO/NSIAD-95-187 (full PDF)",
 "url": "https://www.gao.gov/assets/nsiad-95-187.pdf"
-}
-],
-"tier": "A",
-"type": "legislative"
 },
-{
-"claimTier": 1,
-"cls": "document",
-"dateEnd": "1995",
-"dateStart": "1994",
-"direction": "out",
-"edgeId": "e-9b2e5bdf90",
-"edgeLabel": "Schiff directed GAO to conduct the government-wide records search",
-"id": "gao-roswell-report-1995",
-"l0": false,
-"label": "GAO/NSIAD-95-187, Government Records: Results of a Search for Records Concerning the 1947 Crash Near Roswell, New Mexico",
-"note": "GAO issued GAO/NSIAD-95-187 to Schiff on 28 July 1995 after DoD referred his 1993 inquiry to the National Archives instead of answering it.",
-"sources": [
 {
 "date": "1995-07-28",
 "name": "GAO/NSIAD-95-187, 'Government Records: Results of a Search for Records Concerning the 1947 Crash Near Roswell, New Mexico'",
 "url": "https://www.govinfo.gov/content/pkg/GAOREPORTS-NSIAD-95-187/html/GAOREPORTS-NSIAD-95-187.htm"
 }
 ],
-"tier": "C",
+"tier": "A",
 "type": "legislative"
 },
 {
@@ -237,7 +220,7 @@
 "date": "1995-07-28",
 "dateEnd": null,
 "dateStart": "1995-07-28",
-"deg": 5,
+"deg": 4,
 "denials": [],
 "domains": [
 "d-legacy",
@@ -318,7 +301,7 @@
 "status": "dead",
 "sub": "US Representative, New Mexico (R)",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 312 of 1170, score 38). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 333 of 1138, score 37). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.",
 "timeline": [
 {
 "claimTier": null,

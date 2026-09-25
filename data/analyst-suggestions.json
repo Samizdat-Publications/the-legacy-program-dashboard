@@ -3,8 +3,8 @@
   "_figures": {
     "timeline": 1076,
     "l0": 135,
-    "nodes": 1170,
-    "claims.3": 622
+    "nodes": 1138,
+    "claims.3": 619
   },
   "_keys": "home node map hood thread timeline patents evidence report. Route kinds map on: node-map and thread-map use map, node-hood uses hood, both report kinds use report, notfound uses home.",
   "home": [
@@ -24,7 +24,7 @@
   "map": [
     "The map has seven bands. Which is thinnest on Tier 1 evidence, not just on node count?",
     "What changed between the 2000 to 2016 AAWSAP era and the 2017 to 2026 post-disclosure era?",
-    "Only 135 of 1,170 nodes are on this map. What is the strongest node that is not?",
+    "Only 135 of 1,138 nodes are on this map. What is the strongest node that is not?",
     "Which cell on this grid carries the most denials?"
   ],
   "hood": [
@@ -53,7 +53,7 @@
   ],
   "evidence": [
     "Show me every entity the government has formally denied",
-    "Filter to Tier 3 and tell me which of those 622 claims is load bearing anywhere.",
+    "Filter to Tier 3 and tell me which of those 619 claims is load bearing anywhere.",
     "Show me claims that are open questions on nodes with a drafted FOIA request.",
     "Which source domain carries the most claims, and how many of those are Tier 1?"
   ],

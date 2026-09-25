@@ -206,33 +206,6 @@
 {
 "claimTier": 2,
 "cls": "document",
-"dateEnd": null,
-"dateStart": "2026-02-20",
-"direction": "in",
-"edgeId": "e-974ce021ec",
-"edgeLabel": "directed to",
-"id": "trump-truth-social-post-2026-02-20",
-"l0": false,
-"label": "Trump Truth Social post directing release of UAP files (20 February 2026)",
-"note": "Trump named Secretary of War Hegseth and 'other departments' as the recipients of the direction; Hegseth accepted it publicly three days later.",
-"sources": [
-{
-"date": "2026-02-20",
-"name": "DefenseScoop, Trump UAP disclosure tease",
-"url": "https://defensescoop.com/2026/02/20/trump-ufo-uap-government-files-disclosure/"
-},
-{
-"date": "2026-02-25",
-"name": "DefenseScoop, Hegseth doubles down",
-"url": "https://defensescoop.com/2026/02/25/hegseth-ufo-disclosure-trump-aaro-uap-caseload/"
-}
-],
-"tier": "B",
-"type": "programmatic"
-},
-{
-"claimTier": 2,
-"cls": "document",
 "dateEnd": "2026",
 "dateStart": "2026",
 "direction": "out",
@@ -247,16 +220,21 @@
 "date": "2026-02-25",
 "name": "DefenseScoop - Hegseth doubles down on Trump's UAP disclosure promise as AARO's caseload exceeds 2,000",
 "url": "https://defensescoop.com/2026/02/25/hegseth-ufo-disclosure-trump-aaro-uap-caseload/"
+},
+{
+"date": "2026-02-20",
+"name": "DefenseScoop, Trump UAP disclosure tease",
+"url": "https://defensescoop.com/2026/02/20/trump-ufo-uap-government-files-disclosure/"
 }
 ],
-"tier": "B",
+"tier": "A",
 "type": "programmatic"
 }
 ],
 "date": "2026-05-08",
 "dateEnd": null,
 "dateStart": "2026-05-08",
-"deg": 4,
+"deg": 3,
 "denials": [],
 "domains": [
 "d-disclosure",
@@ -338,7 +316,7 @@
 "status": "active",
 "sub": "Secretary of War; releasing authority for PURSUE",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 179 of 1170, score 47). 5 connections, 2 of them custody/funding/programmatic. Axes C1/A3/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 231 of 1138, score 43). 4 connections, 1 of them custody/funding/programmatic. Axes C1/A3/D3.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": [

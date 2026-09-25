@@ -41,6 +41,28 @@
 "connections": [
 {
 "claimTier": 1,
+"cls": "institution",
+"dateEnd": "2010",
+"dateStart": "2009",
+"direction": "out",
+"edgeId": "e-02c70e3391",
+"edgeLabel": "Produced under the Institute for Advanced Studies at Austin imprint",
+"id": "earthtech-international",
+"l0": true,
+"label": "EarthTech International / Institute for Advanced Studies at Austin",
+"note": "The document's cover page carries the IASA name above the headings 'Translational Sciences / Forensic Medicine - Engineering Mechanics', placing Puthoff's institute as the producing organisation for the government's medical study.",
+"sources": [
+{
+"date": "2020-01-01",
+"name": "DIRD 'Clinical Medical Acute & Subacute Field Effects on Human Dermal & Neurological Tissues' (Christopher Green, Institute for Advanced Studies at Austin)",
+"url": "https://www.theblackvault.com/documentarchive/wp-content/uploads/2020/01/kitgreen-dird.pdf"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
 "cls": "person",
 "dateEnd": "2009",
 "dateStart": "2007",
@@ -60,28 +82,6 @@
 ],
 "tier": "A",
 "type": "custody"
-},
-{
-"claimTier": 1,
-"cls": "institution",
-"dateEnd": "2010",
-"dateStart": "2009",
-"direction": "out",
-"edgeId": "e-22616b6ddf",
-"edgeLabel": "Produced under the Institute for Advanced Studies at Austin imprint",
-"id": "institute-advanced-studies-austin",
-"l0": false,
-"label": "Institute for Advanced Studies at Austin",
-"note": "The document's cover page carries the IASA name above the headings 'Translational Sciences / Forensic Medicine - Engineering Mechanics', placing Puthoff's institute as the producing organisation for the government's medical study.",
-"sources": [
-{
-"date": "2020-01-01",
-"name": "DIRD 'Clinical Medical Acute & Subacute Field Effects on Human Dermal & Neurological Tissues' (Christopher Green, Institute for Advanced Studies at Austin)",
-"url": "https://www.theblackvault.com/documentarchive/wp-content/uploads/2020/01/kitgreen-dird.pdf"
-}
-],
-"tier": "C",
-"type": "institutional"
 },
 {
 "claimTier": 1,
@@ -155,7 +155,7 @@
 ],
 "sub": "AAWSAP Defense Intelligence Reference Document; author Christopher 'Kit' Green, M.D., Ph.D.; produced under the Institute for Advanced Studies at Austin",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 213 of 1170, score 45). 3 connections, 2 of them custody/funding/programmatic. Axes C2/A3/D2.",
+"tierRationale": "Re-graded B on a global pass (rank 214 of 1138, score 45). 3 connections, 2 of them custody/funding/programmatic. Axes C2/A3/D2.",
 "timeline": [
 {
 "claimTier": null,

@@ -209,6 +209,28 @@
 "type": "legislative"
 },
 {
+"claimTier": 2,
+"cls": "document",
+"dateEnd": null,
+"dateStart": "2026",
+"direction": "in",
+"edgeId": "e-d8bf46ae93",
+"edgeLabel": "Published as declared support for the congressional inquiry opened 11 weeks earlier",
+"id": "gerb-mitre-investigation",
+"l0": true,
+"label": "UAP Gerb - The MITRE Corporation investigation",
+"note": "Burlison's letter is dated 22 May 2026; the investigation was published 7 August 2026 and states it seeks to directly aid that inquiry.",
+"sources": [
+{
+"date": "2026-08-07",
+"name": "UAP Gerb, YouTube",
+"url": "https://www.youtube.com/watch?v=107BtDYhTkA"
+}
+],
+"tier": "B",
+"type": "temporal"
+},
+{
 "claimTier": 3,
 "cls": "event",
 "dateEnd": null,
@@ -305,28 +327,6 @@
 ],
 "tier": "A",
 "type": "legislative"
-},
-{
-"claimTier": 2,
-"cls": "document",
-"dateEnd": null,
-"dateStart": "2026",
-"direction": "in",
-"edgeId": "e-d7cbd8c428",
-"edgeLabel": "Published as declared support for the congressional inquiry opened 11 weeks earlier",
-"id": "uap-gerb-mitre-investigation",
-"l0": false,
-"label": "'The MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs'",
-"note": "Burlison's letter is dated 22 May 2026; the investigation was published 7 August 2026 and states it seeks to directly aid that inquiry.",
-"sources": [
-{
-"date": "2026-08-07",
-"name": "UAP Gerb, YouTube",
-"url": "https://www.youtube.com/watch?v=107BtDYhTkA"
-}
-],
-"tier": "C",
-"type": "temporal"
 }
 ],
 "coords": null,
@@ -531,12 +531,6 @@
 "id": "far-35-017",
 "label": "FAR 35.017 - Federally Funded Research and Development Centers",
 "tier": "C"
-},
-{
-"cls": "document",
-"id": "uap-gerb-mitre-investigation",
-"label": "'The MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs'",
-"tier": "C"
 }
 ],
 "openQuestions": [],
@@ -571,7 +565,7 @@
 ],
 "sub": "10-page letter; 40+ production requests; records back to 1930",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 69 of 1170, score 73). 10 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A2/D3.",
+"tierRationale": "Re-graded A on a global pass (rank 72 of 1138, score 73). 10 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A2/D3.",
 "timeline": [
 {
 "claimTier": null,

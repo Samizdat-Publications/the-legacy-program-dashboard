@@ -212,11 +212,11 @@
 "dateEnd": null,
 "dateStart": "2013-02-06",
 "direction": "out",
-"edgeId": "e-e3ca754e2b",
+"edgeId": "e-3f4081218b",
 "edgeLabel": "Waived is the terminal state of the taxonomy",
-"id": "waived-usap-mechanism",
+"id": "waived-usap",
 "l0": true,
-"label": "Waived Unacknowledged SAP (waived USAP) - the mechanism",
+"label": "Waived unacknowledged special access program (waived USAP)",
 "note": "DoDI 5205.11 defines a waived SAP as 'An unacknowledged SAP that has more restrictive reporting and access controls than other unacknowledged SAPs.'",
 "sources": [
 {
@@ -319,7 +319,7 @@
 ],
 "sub": "taxonomy",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 65 of 1170, score 74). 7 connections, 4 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D3.",
+"tierRationale": "Re-graded A on a global pass (rank 65 of 1138, score 74). 7 connections, 4 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D3.",
 "timeline": [],
 "unverified": []
 }

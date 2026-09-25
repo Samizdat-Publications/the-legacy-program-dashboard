@@ -454,21 +454,6 @@
     "title": "DHS - KONA BLUE enclosures and the Lute-tasked provenance paper"
    }
   ],
-  "nara-rg615": [
-   {
-    "agency": "NARA",
-    "partial": [],
-    "questions": [
-     0,
-     1,
-     4
-    ],
-    "request": "F1",
-    "sendTo": "National Archives and Records Administration, FOIA Officer, Office of General Counsel, 8601 Adelphi Road, College Park MD 20740. Cross-file a copy with the National Declassification Center, which is the operational custodian of the collection.",
-    "status": "not filed",
-    "title": "NARA - the RG 615 compliance register"
-   }
-  ],
   "nara-uap-collection": [
    {
     "agency": "NARA",
@@ -477,7 +462,10 @@
      0,
      1,
      2,
-     3
+     3,
+     6,
+     7,
+     10
     ],
     "request": "F1",
     "sendTo": "National Archives and Records Administration, FOIA Officer, Office of General Counsel, 8601 Adelphi Road, College Park MD 20740. Cross-file a copy with the National Declassification Center, which is the operational custodian of the collection.",
@@ -783,16 +771,10 @@
       0,
       1,
       2,
-      3
-     ]
-    },
-    {
-     "node": "nara-rg615",
-     "partial": [],
-     "questions": [
-      0,
-      1,
-      4
+      3,
+      6,
+      7,
+      10
      ]
     },
     {
@@ -1386,6 +1368,6 @@
    "title": "Air Force and CIA - the Battelle Project STORK contract file"
   }
  ],
- "source": "4b7caa9c01e0",
+ "source": "90ecec93ba8e",
  "status": "None of these requests has been filed. Stewart, 29 August 2026: 'The FOIA will have to happen way later but keep them there and ready.'"
 }

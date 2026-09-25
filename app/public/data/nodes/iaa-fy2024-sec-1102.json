@@ -196,7 +196,7 @@
 "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
 }
 ],
-"tier": "B",
+"tier": "C",
 "type": "legislative"
 },
 {
@@ -260,6 +260,60 @@
 },
 {
 "claimTier": 1,
+"cls": "legislation",
+"dateEnd": "2023",
+"dateStart": "2023",
+"direction": "out",
+"edgeId": "e-0457d16ad9",
+"edgeLabel": "Reduced in conference to a bare funding limitation",
+"id": "iaa-fy2024-7343",
+"l0": true,
+"label": "FY2024 Intelligence Authorization Act sec. 7343 - Funding Limitations Relating to UAP",
+"note": "Subsections (b), (d), (e) and (g) of Sec. 1102 — the sense of Congress, the contractor turn-in, the immunity grant and the notice to Congress — have no enacted counterpart in Sec. 7343.",
+"sources": [
+{
+"date": "2023-07-27",
+"name": "S. 2226 (Engrossed in Senate) — GPO",
+"url": "https://www.govinfo.gov/content/pkg/BILLS-118s2226es/html/BILLS-118s2226es.htm"
+},
+{
+"date": "2023-12-22",
+"name": "P.L. 118-31, FY2024 NDAA — GPO",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
+}
+],
+"tier": "A",
+"type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "legislation",
+"dateEnd": "2023",
+"dateStart": "2023",
+"direction": "in",
+"edgeId": "e-4353d869cf",
+"edgeLabel": "Dangling cross-reference dates the excision to conference",
+"id": "iaa-fy2024-7343",
+"l0": true,
+"label": "FY2024 Intelligence Authorization Act sec. 7343 - Funding Limitations Relating to UAP",
+"note": "Enacted Sec. 7343(c) refers to 'contracts covered by such instruction' with no antecedent; the DoDI 3204.01 citation it depended on was deleted with Sec. 1102(f)(1).",
+"sources": [
+{
+"date": "2023-12-22",
+"name": "P.L. 118-31, FY2024 NDAA — GPO",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
+},
+{
+"date": "2023-07-27",
+"name": "S. 2226 (Engrossed in Senate) — GPO",
+"url": "https://www.govinfo.gov/content/pkg/BILLS-118s2226es/html/BILLS-118s2226es.htm"
+}
+],
+"tier": "A",
+"type": "temporal"
+},
+{
+"claimTier": 1,
 "cls": "person",
 "dateEnd": "2023",
 "dateStart": "2023",
@@ -306,60 +360,6 @@
 ],
 "tier": "A",
 "type": "programmatic"
-},
-{
-"claimTier": 1,
-"cls": "legislation",
-"dateEnd": "2023",
-"dateStart": "2023",
-"direction": "out",
-"edgeId": "e-8e0fed84de",
-"edgeLabel": "Reduced in conference to a bare funding limitation",
-"id": "pl118-31-sec-7343",
-"l0": false,
-"label": "P.L. 118-31 Sec. 7343 - the truncated funding limitation",
-"note": "Subsections (b), (d), (e) and (g) of Sec. 1102 — the sense of Congress, the contractor turn-in, the immunity grant and the notice to Congress — have no enacted counterpart in Sec. 7343.",
-"sources": [
-{
-"date": "2023-07-27",
-"name": "S. 2226 (Engrossed in Senate) — GPO",
-"url": "https://www.govinfo.gov/content/pkg/BILLS-118s2226es/html/BILLS-118s2226es.htm"
-},
-{
-"date": "2023-12-22",
-"name": "P.L. 118-31, FY2024 NDAA — GPO",
-"url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
-}
-],
-"tier": "B",
-"type": "legislative"
-},
-{
-"claimTier": 1,
-"cls": "legislation",
-"dateEnd": "2023",
-"dateStart": "2023",
-"direction": "in",
-"edgeId": "e-95676208b4",
-"edgeLabel": "Dangling cross-reference dates the excision to conference",
-"id": "pl118-31-sec-7343",
-"l0": false,
-"label": "P.L. 118-31 Sec. 7343 - the truncated funding limitation",
-"note": "Enacted Sec. 7343(c) refers to 'contracts covered by such instruction' with no antecedent; the DoDI 3204.01 citation it depended on was deleted with Sec. 1102(f)(1).",
-"sources": [
-{
-"date": "2023-12-22",
-"name": "P.L. 118-31, FY2024 NDAA — GPO",
-"url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
-},
-{
-"date": "2023-07-27",
-"name": "S. 2226 (Engrossed in Senate) — GPO",
-"url": "https://www.govinfo.gov/content/pkg/BILLS-118s2226es/html/BILLS-118s2226es.htm"
-}
-],
-"tier": "B",
-"type": "temporal"
 },
 {
 "claimTier": 1,
@@ -560,7 +560,7 @@
 "cls": "domain",
 "id": "d-legislative",
 "label": "Legislative Process (proposed and pending)",
-"tier": "B"
+"tier": "C"
 },
 {
 "cls": "person",
@@ -585,12 +585,6 @@
 "id": "ndaa-fy2023-sec-1673",
 "label": "FY2023 NDAA Sec. 1673 (P.L. 117-263; 50 U.S.C. 3373b)",
 "tier": "A"
-},
-{
-"cls": "legislation",
-"id": "pl118-31-sec-7343",
-"label": "P.L. 118-31 Sec. 7343 - the truncated funding limitation",
-"tier": "B"
 },
 {
 "cls": "document",
@@ -720,7 +714,7 @@
 ],
 "sub": "Division M (Intelligence Authorization Act for FY2024) of S. 2226 as passed by the Senate, 27 Jul 2023; the same text is Sec. 1104 of S. 2103 as reported by SSCI, 22 Jun 2023. Turn-in mandate STRIPPED in conference; enacted as Sec. 7343, Div. G, P.L. 118-31 — a funding limitation only.",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 36 of 1170, score 91). 10 connections, 3 of them custody/funding/programmatic. Axes C3/A3/D3.",
+"tierRationale": "Re-graded A on a global pass (rank 38 of 1138, score 91). 10 connections, 3 of them custody/funding/programmatic. Axes C3/A3/D3.",
 "timeline": [],
 "unverified": []
 }

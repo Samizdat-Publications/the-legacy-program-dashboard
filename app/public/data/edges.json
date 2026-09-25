@@ -73,9 +73,9 @@
 },
 {
 "a": "aaro",
-"b": "aaro-grusch-interview-memo-2024",
+"b": "aaro-grusch-interview-memo",
 "dateStart": "2023",
-"id": "e-a924d4f32d",
+"id": "e-e75d281aae",
 "label": "built a documentary record of its attempts to interview Grusch",
 "t": "investigative",
 "tier": 1
@@ -387,10 +387,10 @@
 "tier": 3
 },
 {
-"a": "aaro-grusch-interview-memo-2024",
+"a": "aaro-grusch-interview-memo",
 "b": "david-grusch",
 "dateStart": "2024",
-"id": "e-b0056fafdf",
+"id": "e-75aaf7ab77",
 "label": "AARO concluded Grusch 'had no intention of providing AARO with information'",
 "t": "denial",
 "tier": 1
@@ -595,12 +595,21 @@
 },
 {
 "a": "aaro-jwics-case-management-2025",
-"b": "nara-rg615",
+"b": "nara-uap-collection",
 "dateStart": "2025-05-21",
-"id": "e-3cc92bb2bf",
+"id": "e-b602caf245",
 "label": "a TS/SCI-resident case corpus against a statutory public collection",
 "t": "research",
 "tier": 3
+},
+{
+"a": "aaro-metallic-specimen-analysis",
+"b": "aaro",
+"dateStart": "2024",
+"id": "e-81bd5375b8",
+"label": "The government's only published materials analysis, produced by a Battelle-operated laboratory",
+"t": "denial",
+"tier": 1
 },
 {
 "a": "aaro-metallic-specimen-analysis",
@@ -667,18 +676,18 @@
 },
 {
 "a": "aawsap",
-"b": "aawsap-contract-hhm402-08-c-0072",
+"b": "aawsap-contract",
 "dateStart": null,
-"id": "e-21125f4b1c",
+"id": "e-966235789d",
 "label": "prime contract",
 "t": "funding",
 "tier": 1
 },
 {
 "a": "aawsap",
-"b": "aawsap-contract-hhm402-08-c-0072",
+"b": "aawsap-contract",
 "dateStart": null,
-"id": "e-72279dc16f",
+"id": "e-2d91026357",
 "label": "",
 "t": "programmatic",
 "tier": 1
@@ -1053,19 +1062,19 @@
 "tier": 1
 },
 {
-"a": "aawsap-contract-hhm402-08-c-0072",
+"a": "aawsap-contract",
 "b": "d-contracting",
 "dateStart": "2008-09-22",
-"id": "e-1ae3f606bc",
+"id": "e-ae2e5483cd",
 "label": "the instrument itself - competed, awarded, numbered and released",
 "t": "institutional",
 "tier": 1
 },
 {
-"a": "aawsap-contract-hhm402-08-c-0072",
+"a": "aawsap-contract",
 "b": "d-funding",
 "dateStart": "2008-09-22",
-"id": "e-427fcc6d35",
+"id": "e-b88c5faf1b",
 "label": "the one instrument on the board where the appropriation-to-contract path is fully documented",
 "t": "funding",
 "tier": 1
@@ -1182,18 +1191,18 @@
 "a": "adam-research-project",
 "b": "ttsa-army-crada",
 "dateStart": "2019",
-"id": "e-f551689f7b",
-"label": "ADAM is the predicate for the Army agreement",
-"t": "programmatic",
+"id": "e-62a26e2553",
+"label": "ADAM materials became the subject of a five-year Army CRADA",
+"t": "funding",
 "tier": 2
 },
 {
 "a": "adam-research-project",
-"b": "ttsa-army-crada-2019",
+"b": "ttsa-army-crada",
 "dateStart": "2019",
-"id": "e-b4d1f00392",
-"label": "ADAM materials became the subject of a five-year Army CRADA",
-"t": "funding",
+"id": "e-f551689f7b",
+"label": "ADAM is the predicate for the Army agreement",
+"t": "programmatic",
 "tier": 2
 },
 {
@@ -1405,6 +1414,24 @@
 },
 {
 "a": "age-of-disclosure",
+"b": "eric-davis",
+"dateStart": "2025",
+"id": "e-c78de3ea69",
+"label": "Davis among the interviewees",
+"t": "behavioral",
+"tier": 2
+},
+{
+"a": "age-of-disclosure",
+"b": "harold-puthoff",
+"dateStart": "2025",
+"id": "e-2da46dd783",
+"label": "Puthoff among 34 on-camera interviewees",
+"t": "behavioral",
+"tier": 2
+},
+{
+"a": "age-of-disclosure",
 "b": "jay-stratton",
 "dateStart": "2025",
 "id": "e-d4c4360eaf",
@@ -1419,24 +1446,6 @@
 "id": "e-e254b97466",
 "label": "Rubio appears on record in the documentary",
 "t": "witness-chain",
-"tier": 2
-},
-{
-"a": "age-of-disclosure-2025",
-"b": "eric-davis",
-"dateStart": "2025",
-"id": "e-d06286f659",
-"label": "Davis among the interviewees",
-"t": "behavioral",
-"tier": 2
-},
-{
-"a": "age-of-disclosure-2025",
-"b": "harold-puthoff",
-"dateStart": "2025",
-"id": "e-c7fb5ec78a",
-"label": "Puthoff among 34 on-camera interviewees",
-"t": "behavioral",
 "tier": 2
 },
 {
@@ -1873,15 +1882,6 @@
 },
 {
 "a": "anna-paulina-luna",
-"b": "task-force-declassification",
-"dateStart": "2025",
-"id": "e-7a18614ee9",
-"label": "Chairs the Task Force",
-"t": "legislative",
-"tier": 1
-},
-{
-"a": "anna-paulina-luna",
 "b": "task-force-declassification-federal-secrets",
 "dateStart": "2025",
 "id": "e-ab96dce1ff",
@@ -1891,18 +1891,18 @@
 },
 {
 "a": "anna-paulina-luna",
-"b": "tf-declassification-federal-secrets",
+"b": "task-force-declassification-federal-secrets",
 "dateStart": "2025",
-"id": "e-d76cc1460a",
-"label": "chairs",
-"t": "institutional",
+"id": "e-79cb13f218",
+"label": "Chairs the Task Force",
+"t": "legislative",
 "tier": 1
 },
 {
 "a": "anna-paulina-luna",
-"b": "trump-uap-declass-directive-2026",
+"b": "trump-uap-release-directive-2026",
 "dateStart": "2026",
-"id": "e-b717737aec",
+"id": "e-47f677f4fd",
 "label": "Task Force chair publicly thanks the President for the directive",
 "t": "legislative",
 "tier": 2
@@ -1963,9 +1963,9 @@
 },
 {
 "a": "arquivo-nacional-ufo",
-"b": "nara-rg615",
+"b": "nara-uap-collection",
 "dateStart": "2007",
-"id": "e-57cc9f6fc4",
+"id": "e-63d1d7b5ec",
 "label": "COMPARISON: a voluntary military transfer into a civil archive versus a statutory collection ordered by Congress",
 "t": "institutional",
 "tier": 1
@@ -2872,21 +2872,21 @@
 },
 {
 "a": "bolender-memo",
+"b": "nara-uap-collection",
+"dateStart": "1969",
+"id": "e-7d403df934",
+"label": "No records series has ever been identified for the JANAP channel",
+"t": "custody",
+"tier": 3
+},
+{
+"a": "bolender-memo",
 "b": "project-blue-book",
 "dateStart": "1969",
 "id": "e-b36e94bf20",
 "label": "Memo recommended termination; Blue Book closed two months later",
 "t": "programmatic",
 "tier": 1
-},
-{
-"a": "bolender-memo",
-"b": "rg-615-uap-records",
-"dateStart": "1969",
-"id": "e-fb55a5e78e",
-"label": "No records series has ever been identified for the JANAP channel",
-"t": "custody",
-"tier": 3
 },
 {
 "a": "booz-allen",
@@ -4365,15 +4365,6 @@
 "tier": 1
 },
 {
-"a": "crane-secdef-grusch-reprisal-letter-2025",
-"b": "david-grusch",
-"dateStart": "2025",
-"id": "e-9fd641996e",
-"label": "The only congressional document enumerating the reprisal actions taken against Grusch",
-"t": "witness-chain",
-"tier": 1
-},
-{
 "a": "cseti",
 "b": "cia",
 "dateStart": "1993-12-13",
@@ -4456,9 +4447,9 @@
 },
 {
 "a": "d-contractor",
-"b": "d-ffrdc-mechanism",
+"b": "d-ffrdc",
 "dateStart": "1947-01-01",
-"id": "e-8569ec7f58",
+"id": "e-cb35a5f80f",
 "label": "The seam between government and industry",
 "t": "institutional",
 "tier": 1
@@ -5392,9 +5383,9 @@
 },
 {
 "a": "david-grusch",
-"b": "task-force-declassification",
+"b": "task-force-declassification-federal-secrets",
 "dateStart": "2025",
-"id": "e-3fcf325fd0",
+"id": "e-0c1e37ec0b",
 "label": "Serves the Task Force via the Burlison advisory role",
 "t": "institutional",
 "tier": 1
@@ -5437,9 +5428,9 @@
 },
 {
 "a": "david-grusch",
-"b": "waived-usap-mechanism",
+"b": "waived-usap",
 "dateStart": "2023-07-26",
-"id": "e-78ac905f49",
+"id": "e-d7727a61b5",
 "label": "Grusch's allegation is an allegation about this specific legal category",
 "t": "witness-chain",
 "tier": 2
@@ -5486,15 +5477,6 @@
 "dateStart": "2022",
 "id": "e-d880ef5a6a",
 "label": "Chaired the NASA UAP Independent Study Team",
-"t": "institutional",
-"tier": 1
-},
-{
-"a": "david-spergel",
-"b": "nasa-uapist",
-"dateStart": "2022",
-"id": "e-45ebe5add5",
-"label": "Chaired the sixteen-member NASA panel, 2022-2023",
 "t": "institutional",
 "tier": 1
 },
@@ -6139,20 +6121,20 @@
 },
 {
 "a": "dird-green-clinical-medical",
+"b": "earthtech-international",
+"dateStart": "2009",
+"id": "e-02c70e3391",
+"label": "Produced under the Institute for Advanced Studies at Austin imprint",
+"t": "institutional",
+"tier": 1
+},
+{
+"a": "dird-green-clinical-medical",
 "b": "harold-puthoff",
 "dateStart": "2007",
 "id": "e-e17e4dea1a",
 "label": "Preface quotes a November 2007 proposal on 'Probable ET Generated' emissions addressed to Puthoff/Hathaway",
 "t": "custody",
-"tier": 1
-},
-{
-"a": "dird-green-clinical-medical",
-"b": "institute-advanced-studies-austin",
-"dateStart": "2009",
-"id": "e-22616b6ddf",
-"label": "Produced under the Institute for Advanced Studies at Austin imprint",
-"t": "institutional",
 "tier": 1
 },
 {
@@ -7462,9 +7444,9 @@
 },
 {
 "a": "dod-agencywide-audit",
-"b": "dodig",
+"b": "dod-oig",
 "dateStart": "2018",
-"id": "e-9567e05c6f",
+"id": "e-902d4727c0",
 "label": "The OIG is the independent auditor issuing the annual opinion",
 "t": "institutional",
 "tier": 1
@@ -7750,27 +7732,27 @@
 },
 {
 "a": "dodi-5205-11",
-"b": "waived-usap-mechanism",
+"b": "waived-usap",
 "dateStart": null,
-"id": "e-c11ad68e67",
+"id": "e-672f106657",
 "label": "para 1.2.f designates select unacknowledged SAPs as waived",
 "t": "legislative",
 "tier": 1
 },
 {
 "a": "dodi-5205-11",
-"b": "waived-usap-mechanism",
+"b": "waived-usap",
 "dateStart": null,
-"id": "e-f9f1e47e18",
+"id": "e-6891d31193",
 "label": "the DoD-side implementation",
 "t": "programmatic",
 "tier": 1
 },
 {
 "a": "dodig-2016-113",
-"b": "dodig",
+"b": "dod-oig",
 "dateStart": "2016-07-26",
-"id": "e-3d4d5cb379",
+"id": "e-f251553a00",
 "label": "OIG audit report of 26 July 2016",
 "t": "investigative",
 "tier": 1
@@ -8364,18 +8346,18 @@
 "a": "eli-crane",
 "b": "crane-dod-reprisal-letter",
 "dateStart": "2025",
-"id": "e-1d63c956f3",
-"label": "Author; wrote DoD 24 July 2025 on Grusch's reprisal",
-"t": "legislative",
+"id": "e-5b29c24b18",
+"label": "Author; entered it into the hearing record while still awaiting a reply",
+"t": "investigative",
 "tier": 1
 },
 {
 "a": "eli-crane",
-"b": "crane-secdef-grusch-reprisal-letter-2025",
+"b": "crane-dod-reprisal-letter",
 "dateStart": "2025",
-"id": "e-dff1956d3a",
-"label": "Author; entered it into the hearing record while still awaiting a reply",
-"t": "investigative",
+"id": "e-1d63c956f3",
+"label": "Author; wrote DoD 24 July 2025 on Grusch's reprisal",
+"t": "legislative",
 "tier": 1
 },
 {
@@ -9109,9 +9091,9 @@
 },
 {
 "a": "faa",
-"b": "nara-rg615",
+"b": "nara-uap-collection",
 "dateStart": "2025-01-01",
-"id": "e-acb029c453",
+"id": "e-e195651a65",
 "label": "First-listed contributing agency; series NAID 493468575, 575 PDF files, restricted in part",
 "t": "custody",
 "tier": 1
@@ -9712,19 +9694,19 @@
 },
 {
 "a": "gao-nsiad-95-187",
-"b": "roswell-1947",
+"b": "l-roswell",
 "dateStart": "1995",
-"id": "e-06d42f80a2",
-"label": "GAO found the base's records for the event period destroyed",
+"id": "e-481ec79a14",
+"label": "GAO found the relevant RAAF records destroyed with no recorded authority",
 "t": "investigative",
 "tier": 1
 },
 {
-"a": "gao-roswell-report-1995",
-"b": "l-roswell",
+"a": "gao-nsiad-95-187",
+"b": "roswell-1947",
 "dateStart": "1995",
-"id": "e-b884702b71",
-"label": "GAO found the relevant RAAF records destroyed with no recorded authority",
+"id": "e-06d42f80a2",
+"label": "GAO found the base's records for the event period destroyed",
 "t": "investigative",
 "tier": 1
 },
@@ -10261,6 +10243,24 @@
 },
 {
 "a": "gerb-mitre-investigation",
+"b": "burlison-mitre-letter-2026",
+"dateStart": "2026",
+"id": "e-d8bf46ae93",
+"label": "Published as declared support for the congressional inquiry opened 11 weeks earlier",
+"t": "temporal",
+"tier": 2
+},
+{
+"a": "gerb-mitre-investigation",
+"b": "d-ffrdc",
+"dateStart": "2026",
+"id": "e-6832526c0c",
+"label": "Argues FFRDCs are the 'missing link' that lets programmes be vested outside government",
+"t": "investigative",
+"tier": 3
+},
+{
+"a": "gerb-mitre-investigation",
 "b": "ffrdc-mechanism",
 "dateStart": "1958",
 "id": "e-878ce88754",
@@ -10284,6 +10284,15 @@
 "id": "e-84f69e61f4",
 "label": "Names MITRE as the central FFRDC node of the legacy portfolio",
 "t": "institutional",
+"tier": 2
+},
+{
+"a": "gerb-mitre-investigation",
+"b": "mitre-corporation",
+"dateStart": "2026",
+"id": "e-318766f210",
+"label": "Alleges MITRE has held a Navy legacy reverse-engineering role since 1958",
+"t": "investigative",
 "tier": 2
 },
 {
@@ -10909,29 +10918,29 @@
 },
 {
 "a": "harry-reid",
-"b": "reid-letter-2009-06-24",
+"b": "reid-sap-letter-2009",
+"dateStart": "2009",
+"id": "e-762c140395",
+"label": "authored the Restricted SAP request",
+"t": "legislative",
+"tier": 1
+},
+{
+"a": "harry-reid",
+"b": "reid-sap-letter-2009",
 "dateStart": null,
-"id": "e-f96860a700",
+"id": "e-ba5ac7f247",
 "label": "",
 "t": "programmatic",
 "tier": 1
 },
 {
 "a": "harry-reid",
-"b": "reid-letter-2009-06-24",
+"b": "reid-sap-letter-2009",
 "dateStart": null,
-"id": "e-cc4bd983de",
+"id": "e-3b963a9bed",
 "label": "signed 24 June 2009",
 "t": "research",
-"tier": 1
-},
-{
-"a": "harry-reid",
-"b": "reid-sap-letter-2009",
-"dateStart": "2009",
-"id": "e-762c140395",
-"label": "authored the Restricted SAP request",
-"t": "legislative",
 "tier": 1
 },
 {
@@ -11089,9 +11098,9 @@
 },
 {
 "a": "hearing-2025-09-09",
-"b": "hr-5060",
+"b": "hr-5060-uap-whistleblower-protection-act",
 "dateStart": "2025",
-"id": "e-8c5bceb88d",
+"id": "e-faf96b3278",
 "label": "hearing findings underwrite the UAP Whistleblower Protection Act",
 "t": "legislative",
 "tier": 2
@@ -11134,9 +11143,9 @@
 },
 {
 "a": "hegseth-uap-statements-2026",
-"b": "trump-truth-social-post-2026-02-20",
+"b": "trump-uap-release-directive-2026",
 "dateStart": "2026-02-23",
-"id": "e-527ff8eb72",
+"id": "e-2795b20cb0",
 "label": "characterises a social-media post as an executive order",
 "t": "denial",
 "tier": 3
@@ -11206,9 +11215,9 @@
 },
 {
 "a": "house-armed-services",
-"b": "pl118-31-sec-1687",
+"b": "ndaa-fy2024-1687",
 "dateStart": "2023",
-"id": "e-f4d003e40b",
+"id": "e-f46af8f761",
 "label": "Retained remedy routes back to the committees",
 "t": "institutional",
 "tier": 1
@@ -11331,10 +11340,10 @@
 "tier": 1
 },
 {
-"a": "hr-5060",
+"a": "hr-5060-uap-whistleblower-protection-act",
 "b": "aaro",
 "dateStart": "2025",
-"id": "e-1044e4f098",
+"id": "e-072010735c",
 "label": "a separate statutory channel is needed because AARO's secure reporting mechanism is not a safe destination",
 "t": "legislative",
 "tier": 3
@@ -11413,6 +11422,15 @@
 },
 {
 "a": "iaa-fy2024-7343",
+"b": "iaa-fy2024-sec-1102",
+"dateStart": "2023",
+"id": "e-4353d869cf",
+"label": "Dangling cross-reference dates the excision to conference",
+"t": "temporal",
+"tier": 1
+},
+{
+"a": "iaa-fy2024-7343",
 "b": "icd-906",
 "dateStart": null,
 "id": "e-8affacd3b6",
@@ -11423,9 +11441,27 @@
 {
 "a": "iaa-fy2024-7343",
 "b": "ndaa-fy2024-1687",
+"dateStart": "2023",
+"id": "e-903ed5fec8",
+"label": "Twin limitations on the intelligence and defence sides",
+"t": "institutional",
+"tier": 1
+},
+{
+"a": "iaa-fy2024-7343",
+"b": "ndaa-fy2024-1687",
 "dateStart": "2023-12-22",
 "id": "e-4839a73518",
 "label": "Twin provisions covering the defense and intelligence sides of the same gap",
+"t": "legislative",
+"tier": 1
+},
+{
+"a": "iaa-fy2024-7343",
+"b": "nip",
+"dateStart": "2023-12-22",
+"id": "e-e5dbc3b8dd",
+"label": "Binds funds authorised by the intelligence division",
 "t": "legislative",
 "tier": 1
 },
@@ -11476,9 +11512,9 @@
 },
 {
 "a": "iaa-fy2024-sec-1102",
-"b": "pl118-31-sec-7343",
+"b": "iaa-fy2024-7343",
 "dateStart": "2023",
-"id": "e-8e0fed84de",
+"id": "e-0457d16ad9",
 "label": "Reduced in conference to a bare funding limitation",
 "t": "legislative",
 "tier": 1
@@ -11525,15 +11561,6 @@
 "dateStart": "2024",
 "id": "e-173c772875",
 "label": "GAO review of AARO's implementation of Sec. 1683",
-"t": "legislative",
-"tier": 1
-},
-{
-"a": "iaa24-sec7343",
-"b": "nip",
-"dateStart": "2023-12-22",
-"id": "e-94b325bd28",
-"label": "Binds funds authorised by the intelligence division",
 "t": "legislative",
 "tier": 1
 },
@@ -11781,15 +11808,6 @@
 "tier": 3
 },
 {
-"a": "institute-advanced-studies-austin",
-"b": "earthtech-international",
-"dateStart": "1991",
-"id": "e-c9caa84771",
-"label": "IASA (1985) incorporated under EarthTech International (1991)",
-"t": "institutional",
-"tier": 1
-},
-{
 "a": "institute-of-field-physics",
 "b": "d-prop",
 "dateStart": "1955-11",
@@ -11890,9 +11908,9 @@
 },
 {
 "a": "isoo",
-"b": "waived-usap-mechanism",
+"b": "waived-usap",
 "dateStart": "2009-12-29",
-"id": "e-0398996981",
+"id": "e-02efd63e7a",
 "label": "The only external body with a claim of access, and the claim is conditional",
 "t": "investigative",
 "tier": 1
@@ -14085,19 +14103,19 @@
 "tier": 2
 },
 {
-"a": "l-cambridge-ma",
+"a": "l-cambridge",
 "b": "avi-loeb",
 "dateStart": null,
-"id": "e-9941e267ee",
+"id": "e-fbe50159d6",
 "label": "Loeb's Harvard base; launched the project from here",
 "t": "geographic",
 "tier": 1
 },
 {
-"a": "l-cambridge-ma",
+"a": "l-cambridge",
 "b": "galileo-project",
 "dateStart": null,
-"id": "e-b0cfedcf3e",
+"id": "e-7b948d063a",
 "label": "first Galileo Observatory, Harvard College Observatory roof",
 "t": "geographic",
 "tier": 2
@@ -14256,37 +14274,37 @@
 "tier": 1
 },
 {
-"a": "l-lasvegas",
+"a": "l-las-vegas",
 "b": "aawsap",
 "dateStart": null,
-"id": "e-9f7a232909",
+"id": "e-7990ea3bad",
 "label": "AAWSAP contract performed from Las Vegas",
 "t": "geographic",
 "tier": 1
 },
 {
-"a": "l-lasvegas",
+"a": "l-las-vegas",
 "b": "baass",
 "dateStart": null,
-"id": "e-79c94a0a7f",
+"id": "e-ebecb2784f",
 "label": "BAASS base of operations",
 "t": "geographic",
 "tier": 1
 },
 {
-"a": "l-lasvegas",
+"a": "l-las-vegas",
 "b": "harry-reid",
 "dateStart": null,
-"id": "e-f9808b1428",
+"id": "e-99ac06bc11",
 "label": "Reid's Nevada base; earmark performed by a Las Vegas constituent",
 "t": "geographic",
 "tier": 2
 },
 {
-"a": "l-lasvegas",
+"a": "l-las-vegas",
 "b": "nids",
 "dateStart": null,
-"id": "e-84455cacc9",
+"id": "e-6b3afc6508",
 "label": "NIDS headquarters 1995-2004",
 "t": "geographic",
 "tier": 2
@@ -14527,9 +14545,9 @@
 },
 {
 "a": "langley-2023-incursions",
-"b": "l-langley",
+"b": "l-langley-afb",
 "dateStart": "2023",
-"id": "e-9bacf7d6b0",
+"id": "e-ea81b5b055",
 "label": "Site of the December 2023 incursions",
 "t": "institutional",
 "tier": 1
@@ -16020,19 +16038,19 @@
 "tier": 3
 },
 {
-"a": "mike-rogers-al",
+"a": "mike-rogers-alabama",
 "b": "house-armed-services",
 "dateStart": "2023",
-"id": "e-dd75792fb0",
+"id": "e-6776b3e9b3",
 "label": "Chairman during the FY2024 conference",
 "t": "institutional",
 "tier": 1
 },
 {
-"a": "mike-rogers-al",
+"a": "mike-rogers-alabama",
 "b": "uapda-2023",
 "dateStart": "2023",
-"id": "e-ccb6ec4538",
+"id": "e-503008c1dd",
 "label": "Named as co-leading the effort to eliminate or alter the Act",
 "t": "denial",
 "tier": 2
@@ -16533,31 +16551,49 @@
 "tier": 1
 },
 {
-"a": "nara-rg615",
+"a": "nara-uap-collection",
+"b": "aaro",
+"dateStart": "2024",
+"id": "e-68acec5606",
+"label": "AARO points the public to NARA and asserts it is transferring records",
+"t": "institutional",
+"tier": 1
+},
+{
+"a": "nara-uap-collection",
+"b": "dod",
+"dateStart": "2023",
+"id": "e-801ac9379f",
+"label": "No agency-by-agency compliance accounting is published",
+"t": "denial",
+"tier": 1
+},
+{
+"a": "nara-uap-collection",
+"b": "dow-uap-file-release-2026",
+"dateStart": "2024",
+"id": "e-36dba3239e",
+"label": "Agency compliance ran nineteen months past the statutory deadline",
+"t": "temporal",
+"tier": 3
+},
+{
+"a": "nara-uap-collection",
 "b": "fbi-vault-ufo",
 "dateStart": null,
-"id": "e-5779d1126a",
+"id": "e-bce3600bac",
 "label": "FBI transferred records to RG 615 while its standing Vault collection stayed frozen at 2013",
 "t": "custody",
 "tier": 1
 },
 {
-"a": "nara-rg615",
-"b": "ndaa-fy2024-subtitle-c",
-"dateStart": "2023-12-22",
-"id": "e-130c152140",
-"label": "created by",
+"a": "nara-uap-collection",
+"b": "gao-nsiad-95-187",
+"dateStart": "2024",
+"id": "e-ce4aa2d329",
+"label": "The first statutory records mechanism descends from the destruction problem",
 "t": "legislative",
-"tier": 1
-},
-{
-"a": "nara-rg615",
-"b": "odni",
-"dateStart": null,
-"id": "e-1dd90ecf4b",
-"label": "transferred records",
-"t": "custody",
-"tier": 1
+"tier": 3
 },
 {
 "a": "nara-uap-collection",
@@ -16579,6 +16615,24 @@
 },
 {
 "a": "nara-uap-collection",
+"b": "ndaa-fy2024-subtitle-c",
+"dateStart": "2023-12-22",
+"id": "e-536b707880",
+"label": "created by",
+"t": "legislative",
+"tier": 1
+},
+{
+"a": "nara-uap-collection",
+"b": "project-blue-book",
+"dateStart": "2024",
+"id": "e-c75770f416",
+"label": "NARA holds the Blue Book series and is digitising legacy UFO records",
+"t": "custody",
+"tier": 1
+},
+{
+"a": "nara-uap-collection",
 "b": "sap-annual-report",
 "dateStart": "2023-12-22",
 "id": "e-569d9ce250",
@@ -16593,24 +16647,6 @@
 "id": "e-1e22bff68a",
 "label": "Created by sections 1841-1843 of Public Law 118-31",
 "t": "legislative",
-"tier": 1
-},
-{
-"a": "nara-uap-records-collection",
-"b": "aaro",
-"dateStart": "2024",
-"id": "e-7ff7b5ca53",
-"label": "AARO points the public to NARA and asserts it is transferring records",
-"t": "institutional",
-"tier": 1
-},
-{
-"a": "nara-uap-records-collection",
-"b": "dod",
-"dateStart": "2023",
-"id": "e-7bcaff72fe",
-"label": "No agency-by-agency compliance accounting is published",
-"t": "denial",
 "tier": 1
 },
 {
@@ -16651,30 +16687,30 @@
 },
 {
 "a": "nasa-uap-ist",
+"b": "aaro",
+"dateStart": "2022",
+"id": "e-d57bd1b10a",
+"label": "Ran concurrently with, and separately from, AARO",
+"t": "institutional",
+"tier": 2
+},
+{
+"a": "nasa-uap-ist",
+"b": "d-custody",
+"dateStart": "2023",
+"id": "e-74432a42eb",
+"label": "Concluded data was insufficient - having been given only the unclassified record",
+"t": "denial",
+"tier": 3
+},
+{
+"a": "nasa-uap-ist",
 "b": "odni-preliminary-assessment-2021",
 "dateStart": "2021",
 "id": "e-2fa947f072",
 "label": "Both diagnose the same evidentiary deficit",
 "t": "investigative",
 "tier": 1
-},
-{
-"a": "nasa-uapist",
-"b": "aaro",
-"dateStart": "2022",
-"id": "e-ba1e31b8a7",
-"label": "Ran concurrently with, and separately from, AARO",
-"t": "institutional",
-"tier": 2
-},
-{
-"a": "nasa-uapist",
-"b": "d-custody",
-"dateStart": "2023",
-"id": "e-79fba6ce0b",
-"label": "Concluded data was insufficient - having been given only the unclassified record",
-"t": "denial",
-"tier": 3
 },
 {
 "a": "nasa-uapist-report",
@@ -16732,9 +16768,9 @@
 },
 {
 "a": "national-archives",
-"b": "uap-records-collection-rg615",
+"b": "nara-uap-collection",
 "dateStart": "2024",
-"id": "e-796b5df899",
+"id": "e-b4645c5bd0",
 "label": "NARA is custodian without power to compel transmission",
 "t": "custody",
 "tier": 1
@@ -17074,18 +17110,9 @@
 },
 {
 "a": "ndaa-fy2024",
-"b": "nara-uap-records-collection",
+"b": "ndaa-fy2024-1687",
 "dateStart": "2023",
-"id": "e-7014f9813b",
-"label": "Statutory basis for Record Group 615",
-"t": "legislative",
-"tier": 1
-},
-{
-"a": "ndaa-fy2024",
-"b": "pl118-31-sec-1687",
-"dateStart": "2023",
-"id": "e-08f9a83a66",
+"id": "e-fa4984d59d",
 "label": "Sec. 1687 is the enacted funding bar on undisclosed UAP SAPs",
 "t": "funding",
 "tier": 1
@@ -17097,15 +17124,6 @@
 "id": "e-9dad12c718",
 "label": "Targets contractor independent research and development as a concealment route",
 "t": "funding",
-"tier": 1
-},
-{
-"a": "ndaa-fy2024-1687",
-"b": "iaa24-sec7343",
-"dateStart": "2023-12-22",
-"id": "e-0cd58b5984",
-"label": "The same bar enacted twice, once for SECDEF and once for the DNI",
-"t": "legislative",
 "tier": 1
 },
 {
@@ -17128,6 +17146,15 @@
 },
 {
 "a": "ndaa-fy2024-1687",
+"b": "ndaa-fy2026",
+"dateStart": "2024",
+"id": "e-665099f158",
+"label": "Not renewed; the funding bar has lapsed since FY2024",
+"t": "funding",
+"tier": 1
+},
+{
+"a": "ndaa-fy2024-1687",
 "b": "ndaa26-uap-provisions",
 "dateStart": "2024-12-23",
 "id": "e-552f570493",
@@ -17137,27 +17164,27 @@
 },
 {
 "a": "ndaa-fy2024-1687",
-"b": "waived-usap-mechanism",
+"b": "waived-usap",
 "dateStart": null,
-"id": "e-015c71f9c8",
+"id": "e-948cf651c6",
 "label": "sec. 1687(a) bars FY2024 funds for UAP activity under special or restricted access absent disclosure",
 "t": "funding",
 "tier": 1
 },
 {
 "a": "ndaa-fy2024-1687",
-"b": "waived-usap-mechanism",
+"b": "waived-usap",
 "dateStart": "2023-12-22",
-"id": "e-817e687f7a",
+"id": "e-b83e0af118",
 "label": "Cuts off funding for UAP activity held under special or restricted access unless disclosed",
 "t": "legislative",
 "tier": 1
 },
 {
 "a": "ndaa-fy2024-1687",
-"b": "waived-usap-mechanism",
+"b": "waived-usap",
 "dateStart": null,
-"id": "e-3bc34a0e24",
+"id": "e-3702e0d376",
 "label": "",
 "t": "programmatic",
 "tier": 1
@@ -17182,9 +17209,9 @@
 },
 {
 "a": "ndaa-fy2024-subtitle-c",
-"b": "uap-records-collection-rg615",
+"b": "nara-uap-collection",
 "dateStart": "2024",
-"id": "e-3b5ac79b6b",
+"id": "e-1d0af34824",
 "label": "Secs. 1841-1843 created RG 615 at the National Archives",
 "t": "institutional",
 "tier": 1
@@ -18001,9 +18028,9 @@
 },
 {
 "a": "oak-ridge-national-laboratory",
-"b": "ornl-metallic-specimen-report",
+"b": "aaro-metallic-specimen-analysis",
 "dateStart": "2024",
-"id": "e-e9e8661c55",
+"id": "e-c94c08f95e",
 "label": "Produced 'ORNL Synopsis: Analysis of a Metallic Specimen', April 2024",
 "t": "custody",
 "tier": 1
@@ -18118,9 +18145,9 @@
 },
 {
 "a": "odni-memo-es-2026-00818",
-"b": "nara-rg615",
+"b": "nara-uap-collection",
 "dateStart": "2026-08-01",
-"id": "e-d0e7fd419c",
+"id": "e-b074fa5409",
 "label": "names the agencies absent from the statutory archive",
 "t": "investigative",
 "tier": 3
@@ -18384,15 +18411,6 @@
 "id": "e-2fccafb363",
 "label": "Reached the public through the JFK Assassination Records Review Board",
 "t": "custody",
-"tier": 1
-},
-{
-"a": "ornl-metallic-specimen-report",
-"b": "aaro",
-"dateStart": "2024",
-"id": "e-ca86180b03",
-"label": "The government's only published materials analysis, produced by a Battelle-operated laboratory",
-"t": "denial",
 "tier": 1
 },
 {
@@ -18873,37 +18891,10 @@
 "tier": 1
 },
 {
-"a": "pl118-31-sec-1687",
-"b": "ndaa-fy2026",
-"dateStart": "2024",
-"id": "e-3360228af2",
-"label": "Not renewed; the funding bar has lapsed since FY2024",
-"t": "funding",
-"tier": 1
-},
-{
-"a": "pl118-31-sec-7343",
-"b": "iaa-fy2024-sec-1102",
-"dateStart": "2023",
-"id": "e-95676208b4",
-"label": "Dangling cross-reference dates the excision to conference",
-"t": "temporal",
-"tier": 1
-},
-{
-"a": "pl118-31-sec-7343",
-"b": "pl118-31-sec-1687",
-"dateStart": "2023",
-"id": "e-5551b730b4",
-"label": "Twin limitations on the intelligence and defence sides",
-"t": "institutional",
-"tier": 1
-},
-{
 "a": "platte-moring",
-"b": "dodig",
+"b": "dod-oig",
 "dateStart": null,
-"id": "e-d49c504be2",
+"id": "e-53bd559b22",
 "label": "Serving Inspector General",
 "t": "institutional",
 "tier": 1
@@ -19486,9 +19477,9 @@
 },
 {
 "a": "pursue-releases",
-"b": "nara-uap-records-collection",
+"b": "nara-uap-collection",
 "dateStart": "2026",
-"id": "e-949a302a13",
+"id": "e-11516343fa",
 "label": "Two parallel release architectures, only one statutory",
 "t": "institutional",
 "tier": 3
@@ -19701,30 +19692,30 @@
 "tier": 1
 },
 {
-"a": "reid-letter-2009-06-24",
-"b": "dia-sap-denial-2009",
-"dateStart": null,
-"id": "e-fed1d4ce5f",
-"label": "",
-"t": "programmatic",
-"tier": 1
-},
-{
-"a": "reid-letter-2009-06-24",
-"b": "dia-sap-denial-2009",
-"dateStart": null,
-"id": "e-d534721273",
-"label": "USD(I) tasked DIA to evaluate; DIA declined",
-"t": "temporal",
-"tier": 1
-},
-{
 "a": "reid-sap-letter-2009",
 "b": "dia-sap-denial-memo-2009",
 "dateStart": "2009",
 "id": "e-5b7e801cb4",
 "label": "DIA finds insufficient grounds to classify",
 "t": "denial",
+"tier": 1
+},
+{
+"a": "reid-sap-letter-2009",
+"b": "dia-sap-denial-memo-2009",
+"dateStart": null,
+"id": "e-48f3c92670",
+"label": "",
+"t": "programmatic",
+"tier": 1
+},
+{
+"a": "reid-sap-letter-2009",
+"b": "dia-sap-denial-memo-2009",
+"dateStart": null,
+"id": "e-0bab4b414d",
+"label": "USD(I) tasked DIA to evaluate; DIA declined",
+"t": "temporal",
 "tier": 1
 },
 {
@@ -19778,24 +19769,6 @@
 "dateStart": "1953",
 "id": "e-ba24605110",
 "label": "surviving records held in Record Group 330",
-"t": "custody",
-"tier": 1
-},
-{
-"a": "rg-615-uap-records",
-"b": "gao-nsiad-95-187",
-"dateStart": "2024",
-"id": "e-bafd41d3fa",
-"label": "The first statutory records mechanism descends from the destruction problem",
-"t": "legislative",
-"tier": 3
-},
-{
-"a": "rg-615-uap-records",
-"b": "project-blue-book",
-"dateStart": "2024",
-"id": "e-403716e904",
-"label": "NARA holds the Blue Book series and is digitising legacy UFO records",
 "t": "custody",
 "tier": 1
 },
@@ -20367,6 +20340,15 @@
 "tier": 1
 },
 {
+"a": "robert-m-wood",
+"b": "mcdonnell-douglas",
+"dateStart": "1968",
+"id": "e-26b335c0ff",
+"label": "Wood ran a company-funded study of unidentified craft at McDonnell Douglas Astronautics",
+"t": "institutional",
+"tier": 2
+},
+{
 "a": "robert-powell",
 "b": "paper-knuth-powell-reali-2019",
 "dateStart": "2019",
@@ -20421,15 +20403,6 @@
 "tier": 2
 },
 {
-"a": "robert-wood",
-"b": "mcdonnell-douglas",
-"dateStart": "1968",
-"id": "e-c5689e8ecf",
-"label": "Wood ran a company-funded study of unidentified craft at McDonnell Douglas Astronautics",
-"t": "institutional",
-"tier": 2
-},
-{
 "a": "robertson-panel",
 "b": "afr-200-2",
 "dateStart": "1953",
@@ -20458,9 +20431,9 @@
 },
 {
 "a": "rockefeller-initiative",
-"b": "gao-roswell-report-1995",
+"b": "gao-nsiad-95-187",
 "dateStart": "1994",
-"id": "e-5bdf6e3ac1",
+"id": "e-b4b15b96fc",
 "label": "The initiative's live period coincides with the GAO records audit and its retention in the White House Roswell file",
 "t": "temporal",
 "tier": 1
@@ -21043,18 +21016,18 @@
 },
 {
 "a": "sap-readin-gate",
-"b": "waived-usap-mechanism",
+"b": "waived-usap",
 "dateStart": "2010-07-01",
-"id": "e-873c92b14a",
+"id": "e-300f5334aa",
 "label": "The read-in gate members describe is the policy text of paragraph 4.f",
 "t": "institutional",
 "tier": 1
 },
 {
 "a": "sap-taxonomy",
-"b": "waived-usap-mechanism",
+"b": "waived-usap",
 "dateStart": "2013-02-06",
-"id": "e-e3ca754e2b",
+"id": "e-3f4081218b",
 "label": "Waived is the terminal state of the taxonomy",
 "t": "programmatic",
 "tier": 1
@@ -22015,15 +21988,6 @@
 },
 {
 "a": "steven-schiff",
-"b": "gao-roswell-report-1995",
-"dateStart": "1994",
-"id": "e-9b2e5bdf90",
-"label": "Schiff directed GAO to conduct the government-wide records search",
-"t": "legislative",
-"tier": 1
-},
-{
-"a": "steven-schiff",
 "b": "l-albuquerque",
 "dateStart": "1993",
 "id": "e-777c821f64",
@@ -22311,24 +22275,6 @@
 "tier": 1
 },
 {
-"a": "task-force-declassification",
-"b": "hearing-2025-09-09",
-"dateStart": "2025",
-"id": "e-6c64f932a4",
-"label": "Held the UAP transparency and whistleblower protection hearing",
-"t": "legislative",
-"tier": 1
-},
-{
-"a": "task-force-declassification",
-"b": "press-conf-2026-06-09",
-"dateStart": "2026",
-"id": "e-7977b1ecaf",
-"label": "Hosted the press conference",
-"t": "legislative",
-"tier": 2
-},
-{
 "a": "task-force-declassification-federal-secrets",
 "b": "hearing-2025-09-09",
 "dateStart": "2025",
@@ -22336,6 +22282,33 @@
 "label": "Held the 9 September 2025 hearing",
 "t": "institutional",
 "tier": 1
+},
+{
+"a": "task-force-declassification-federal-secrets",
+"b": "hearing-2025-09-09",
+"dateStart": "2025",
+"id": "e-7778e19162",
+"label": "Held the UAP transparency and whistleblower protection hearing",
+"t": "legislative",
+"tier": 1
+},
+{
+"a": "task-force-declassification-federal-secrets",
+"b": "nara-uap-collection",
+"dateStart": "2025",
+"id": "e-2566981fdb",
+"label": "the panel with jurisdiction over the collection's non-contributors",
+"t": "investigative",
+"tier": 3
+},
+{
+"a": "task-force-declassification-federal-secrets",
+"b": "press-conf-2026-06-09",
+"dateStart": "2026",
+"id": "e-5f6270e39f",
+"label": "Hosted the press conference",
+"t": "legislative",
+"tier": 2
 },
 {
 "a": "ted-stevens",
@@ -22407,24 +22380,6 @@
 "id": "e-f683cda334",
 "label": "Prior art: the SR-75 Penetrator designation and mothership architecture published commercially in 1993",
 "t": "denial",
-"tier": 3
-},
-{
-"a": "tf-declassification-federal-secrets",
-"b": "hearing-2025-09-09",
-"dateStart": "2025-09-09",
-"id": "e-8f22edf023",
-"label": "convened",
-"t": "institutional",
-"tier": 1
-},
-{
-"a": "tf-declassification-federal-secrets",
-"b": "nara-rg615",
-"dateStart": "2025",
-"id": "e-2682cc8a77",
-"label": "the panel with jurisdiction over the collection's non-contributors",
-"t": "investigative",
 "tier": 3
 },
 {
@@ -22712,15 +22667,6 @@
 "dateStart": "2025",
 "id": "e-d592e7b5fc",
 "label": "Sponsor",
-"t": "legislative",
-"tier": 1
-},
-{
-"a": "tim-burchett",
-"b": "hr-5060",
-"dateStart": "2025",
-"id": "e-4306de3d42",
-"label": "sponsor of the UAP Whistleblower Protection Act",
 "t": "legislative",
 "tier": 1
 },
@@ -23085,28 +23031,10 @@
 "tier": 2
 },
 {
-"a": "trump-truth-social-post-2026-02-20",
-"b": "pete-hegseth",
-"dateStart": "2026-02-20",
-"id": "e-974ce021ec",
-"label": "directed to",
-"t": "programmatic",
-"tier": 2
-},
-{
-"a": "trump-truth-social-post-2026-02-20",
-"b": "pursue-releases",
-"dateStart": "2026-02-20",
-"id": "e-139355df8f",
-"label": "originating direction",
-"t": "programmatic",
-"tier": 2
-},
-{
-"a": "trump-uap-declass-directive-2026",
+"a": "trump-uap-release-directive-2026",
 "b": "press-conf-2026-06-09",
 "dateStart": "2026",
-"id": "e-da4f9d6edf",
+"id": "e-15ffdc8295",
 "label": "February announcement produced the June pressure campaign",
 "t": "temporal",
 "tier": 2
@@ -23230,21 +23158,21 @@
 },
 {
 "a": "ttsa-army-crada",
+"b": "d-custody",
+"dateStart": "2019",
+"id": "e-b8c126f90f",
+"label": "The chain goes dark inside a federal research agreement",
+"t": "custody",
+"tier": 3
+},
+{
+"a": "ttsa-army-crada",
 "b": "l-detroit-arsenal",
 "dateStart": "2019-10-10",
 "id": "e-751c8f94ee",
 "label": "The CRADA was executed at Detroit Arsenal",
 "t": "institutional",
 "tier": 1
-},
-{
-"a": "ttsa-army-crada-2019",
-"b": "d-custody",
-"dateStart": "2019",
-"id": "e-4f12daff26",
-"label": "The chain goes dark inside a federal research agreement",
-"t": "custody",
-"tier": 3
 },
 {
 "a": "ttsa-launch-2017",
@@ -23391,42 +23319,6 @@
 "tier": 2
 },
 {
-"a": "uap-gerb",
-"b": "uap-gerb-mitre-investigation",
-"dateStart": "2026",
-"id": "e-5a75e947fa",
-"label": "Author and publisher of the 7 August 2026 MITRE investigation",
-"t": "investigative",
-"tier": 2
-},
-{
-"a": "uap-gerb-mitre-investigation",
-"b": "burlison-mitre-letter-2026",
-"dateStart": "2026",
-"id": "e-d7cbd8c428",
-"label": "Published as declared support for the congressional inquiry opened 11 weeks earlier",
-"t": "temporal",
-"tier": 2
-},
-{
-"a": "uap-gerb-mitre-investigation",
-"b": "d-ffrdc",
-"dateStart": "2026",
-"id": "e-4240588633",
-"label": "Argues FFRDCs are the 'missing link' that lets programmes be vested outside government",
-"t": "investigative",
-"tier": 3
-},
-{
-"a": "uap-gerb-mitre-investigation",
-"b": "mitre-corporation",
-"dateStart": "2026",
-"id": "e-2bf76d7c62",
-"label": "Alleges MITRE has held a Navy legacy reverse-engineering role since 1958",
-"t": "investigative",
-"tier": 2
-},
-{
 "a": "uap-nda-waiver-directive-2026",
 "b": "david-grusch",
 "dateStart": "2026",
@@ -23452,15 +23344,6 @@
 "label": "PURSUE named as an authorized receiving channel for waived-NDA disclosures",
 "t": "programmatic",
 "tier": 2
-},
-{
-"a": "uap-records-collection-rg615",
-"b": "dow-uap-file-release-2026",
-"dateStart": "2024",
-"id": "e-37f79c9b7b",
-"label": "Agency compliance ran nineteen months past the statutory deadline",
-"t": "temporal",
-"tier": 3
 },
 {
 "a": "uap-records-review-board",
@@ -23671,21 +23554,12 @@
 },
 {
 "a": "uapda-fy2027-house-adopted",
-"b": "nara-rg615",
-"dateStart": "2026-07-22",
-"id": "e-305e6a2aef",
-"label": "would place the collection on a statutory timeline",
-"t": "legislative",
-"tier": 1
-},
-{
-"a": "uapda-fy2027-house-adopted",
-"b": "nara-uap-records-collection",
+"b": "nara-uap-collection",
 "dateStart": "2026",
-"id": "e-e76ab1a2a9",
+"id": "e-c638681998",
 "label": "Would impose statutory transfer timelines on the NARA collection",
 "t": "legislative",
-"tier": 2
+"tier": 1
 },
 {
 "a": "uapda-fy2027-house-adopted",
@@ -24184,18 +24058,18 @@
 },
 {
 "a": "usc-10-119e",
-"b": "waived-usap-mechanism",
+"b": "waived-usap",
 "dateStart": null,
-"id": "e-a311ce739e",
+"id": "e-3763fd95a8",
 "label": "119(e) is the waiver that defines a waived SAP",
 "t": "legislative",
 "tier": 1
 },
 {
 "a": "usc-10-119e",
-"b": "waived-usap-mechanism",
+"b": "waived-usap",
 "dateStart": null,
-"id": "e-698c0986a0",
+"id": "e-61aa034903",
 "label": "the waiver authority itself",
 "t": "programmatic",
 "tier": 1
@@ -24627,18 +24501,18 @@
 "a": "waived-sap-notification-group",
 "b": "waived-usap",
 "dateStart": null,
-"id": "e-336caeab0b",
-"label": "the twelve members with statutory sight of a waived programme",
-"t": "programmatic",
+"id": "e-64e6689423",
+"label": "sole statutory recipient of waived-SAP notification",
+"t": "institutional",
 "tier": 1
 },
 {
 "a": "waived-sap-notification-group",
-"b": "waived-usap-mechanism",
+"b": "waived-usap",
 "dateStart": null,
-"id": "e-de273811de",
-"label": "sole statutory recipient of waived-SAP notification",
-"t": "institutional",
+"id": "e-336caeab0b",
+"label": "the twelve members with statutory sight of a waived programme",
+"t": "programmatic",
 "tier": 1
 },
 {
@@ -24651,28 +24525,19 @@
 "tier": 2
 },
 {
-"a": "waived-usap-mechanism",
-"b": "d-funding",
-"dateStart": null,
-"id": "e-5b619950b8",
-"label": "the stacked mechanism by which a funded activity can exist with no publicly reconcilable line",
-"t": "funding",
-"tier": 2
-},
-{
-"a": "waived-usap-mechanism",
+"a": "waived-usap",
 "b": "sap-annual-report",
 "dateStart": "1987-12-04",
-"id": "e-ae90045cf7",
+"id": "e-d8c61c7b7c",
 "label": "A waived program is precisely a program removed from the annual report",
 "t": "denial",
 "tier": 1
 },
 {
-"a": "waived-usap-mechanism",
+"a": "waived-usap",
 "b": "srg-dod",
 "dateStart": "2013-02-06",
-"id": "e-573cab3b8e",
+"id": "e-5a5b3fe5e3",
 "label": "Every waived program is reviewed once a year by a named standing body",
 "t": "institutional",
 "tier": 1

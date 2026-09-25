@@ -57,7 +57,7 @@ recalled:
 
 **Subject line.** `FOIA request - NARA - the RG 615 compliance register`
 
-**Closes on the board.** `nara-uap-collection` Q0, Q1, Q2, Q3; `nara-rg615` Q0, Q1, Q4; `ndaa-fy2024` Q1, Q2; `us-house` Q0; `doe` Q0; `cia` Q0; `dia` Q0; `odni` Q3; `nro` Q0. That is fourteen open questions across eight nodes off one request.
+**Closes on the board.** `nara-uap-collection` Q0, Q1, Q2, Q3, Q6, Q7, Q10; `ndaa-fy2024` Q1, Q2; `us-house` Q0; `doe` Q0; `cia` Q0; `dia` Q0; `odni` Q3; `nro` Q0. That is fourteen open questions across eight nodes off one request.
 
 ```text
 [[YOUR NAME]]

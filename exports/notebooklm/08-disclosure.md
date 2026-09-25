@@ -31,7 +31,7 @@ Roles the board assigns it: disclosure, concealment.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 47 of 1170, score 84). 12 connections, 1 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C0/A2/D3.
+Re-graded A on a global pass (rank 47 of 1138, score 84). 12 connections, 1 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C0/A2/D3.
 
 ### The claims on the record
 
@@ -108,7 +108,7 @@ Roles the board assigns it: concealment, disclosure.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 265 of 1170, score 41). 11 connections, 0 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C1/A3/D1.
+Re-graded B on a global pass (rank 269 of 1138, score 41). 11 connections, 0 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C1/A3/D1.
 
 ### The claims on the record
 
@@ -121,8 +121,8 @@ Re-graded B on a global pass (rank 265 of 1170, score 41). 11 connections, 0 of 
 
 ### Its strongest connections
 
-- National Security Agency runs out to **Office of the Director of National Intelligence** (institution, board tier A), a institutional link at Tier 1 documented. The link reads: Named contributor to the 2021 ODNI Preliminary Assessment on UAP. ODNI's 25 June 2021 assessment names NSA among the contributing elements, establishing that this agency produced or held UAP-relevant reporting. Sources: ODNI, Preliminary Assessment: Unidentified Aerial Phenomena, https://archive.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf, dated 2021-06-25.
 - National Security Agency runs out to **National Archives Unidentified Anomalous Phenomena Records Collection** (institution, board tier A), a denial link at Tier 1 documented. The link reads: Produced no records for the first statutory UAP transfer. NARA's 24 April 2025 release named only ODNI, OSD, the FAA and the Nuclear Regulatory Commission. NSA, which holds documented UAP equity, transferred nothing. Sources: National Archives press release nr25-07, https://www.archives.gov/press/press-releases/2025/nr25-07, dated 2025-04-24.
+- National Security Agency runs out to **Office of the Director of National Intelligence** (institution, board tier A), a institutional link at Tier 1 documented. The link reads: Named contributor to the 2021 ODNI Preliminary Assessment on UAP. ODNI's 25 June 2021 assessment names NSA among the contributing elements, establishing that this agency produced or held UAP-relevant reporting. Sources: ODNI, Preliminary Assessment: Unidentified Aerial Phenomena, https://archive.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf, dated 2021-06-25.
 - National Security Agency comes in from **Imperial Iranian Air Force F-4 intercepts, Tehran, 19-20 September 1976** (event, board tier B), a institutional link at Tier 1 documented. The link reads: An information addressee on the report's own distribution list. NSA Washington is an information addressee on the report's own distribution list. Sources: DIA Intelligence Information Report IR 6 846 0139 76, USDAO Tehran, with the DIA FOIA response U-80,597/PO/FOIA of 22 August 1996, hosted by The Black Vault, https://www.theblackvault.com/documents/ufos/1976iranincident.pdf, dated 1976-09-23.
 - National Security Agency comes in from **Adm. Bobby Ray Inman** (person, board tier B), a institutional link at Tier 1 documented. The link reads: Director of the National Security Agency from 5 July 1977. Director of the National Security Agency from 5 July 1977, stated by him under oath at his 1981 confirmation hearing. Sources: Nomination of Admiral B.R. Inman to be Deputy Director of Central Intelligence, Senate Select Committee on Intelligence, 3 February 1981, https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-hearings-97inman.pdf, dated 1981-02-03.
 - National Security Agency runs out to **Citizens Against UFO Secrecy v. National Security Agency (Civil Action No. 80-1562)** (event, board tier B), a denial link at Tier 1 documented. The link reads: NSA withheld its UFO holdings in full and won on an in camera affidavit. NSA located responsive material, withheld it entirely, and supported the withholding with a classified affidavit by Eugene F. Yeates. The D.C. Circuit affirmed in 1981; certiorari was denied in 1982. Sources: Citizens Against UFO Secrecy v. NSA, D.C. Circuit (CourtListener), https://www.courtlistener.com/opinion/400210/citizens-against-ufo-secrecy-v-nation-security-age/, dated 1981-11-03.
@@ -169,7 +169,7 @@ Roles the board assigns it: disclosure, concealment.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 416 of 1170, score 34). 7 connections, 0 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C0/A1/D3.
+Re-graded B on a global pass (rank 415 of 1138, score 34). 7 connections, 0 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C0/A1/D3.
 
 ### The claims on the record
 
@@ -218,7 +218,7 @@ Roles the board assigns it: concealment, disclosure.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 285 of 1170, score 40). 7 connections, 3 of them custody/funding/programmatic. Axes C1/A1/D1.
+Re-graded B on a global pass (rank 288 of 1138, score 40). 7 connections, 3 of them custody/funding/programmatic. Axes C1/A1/D1.
 
 ### The claims on the record
 
@@ -290,7 +290,7 @@ Roles the board assigns it: concealment, disclosure.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 40 of 1170, score 88). 13 connections, 1 of them custody/funding/programmatic, 4 official denials recorded against it. Axes C1/A3/D3.
+Re-graded A on a global pass (rank 41 of 1138, score 88). 13 connections, 1 of them custody/funding/programmatic, 4 official denials recorded against it. Axes C1/A3/D3.
 
 ### The claims on the record
 
@@ -369,7 +369,7 @@ Roles the board assigns it: disclosure.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 472 of 1170, score 32). 8 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D3.
+Re-graded B on a global pass (rank 470 of 1138, score 32). 8 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D3.
 
 ### The claims on the record
 
@@ -426,7 +426,7 @@ Roles the board assigns it: disclosure.
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 595 of 1170, score 28). 7 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.
+Re-graded C on a global pass (rank 589 of 1138, score 28). 7 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.
 
 ### The claims on the record
 
@@ -498,7 +498,7 @@ Roles the board assigns it: disclosure, concealment.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 139 of 1170, score 54). 15 connections, 3 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A1/D3.
+Re-graded A on a global pass (rank 142 of 1138, score 54). 15 connections, 3 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A1/D3.
 
 ### The claims on the record
 

@@ -447,11 +447,11 @@
 "dateEnd": "2024",
 "dateStart": "2024",
 "direction": "in",
-"edgeId": "e-b0056fafdf",
+"edgeId": "e-75aaf7ab77",
 "edgeLabel": "AARO concluded Grusch 'had no intention of providing AARO with information'",
-"id": "aaro-grusch-interview-memo-2024",
+"id": "aaro-grusch-interview-memo",
 "l0": false,
-"label": "AARO Memorandum for Record: Invitations to Interview Mr. David Grusch (8 Jan 2024)",
+"label": "AARO Memorandum for Record: Invitations to Interview Mr. David Grusch (FOIA 24-F-0266)",
 "note": "The office's own file is the primary evidence for the Department's central procedural argument against its most consequential witness; it records no offer of an ICIG or congressional-counsel venue.",
 "sources": [
 {
@@ -465,7 +465,7 @@
 "url": "https://www.newsnationnow.com/space/ufo/grusch-refused-meeting-ufo-office/"
 }
 ],
-"tier": "C",
+"tier": "B",
 "type": "denial"
 },
 {
@@ -860,31 +860,14 @@
 "date": "2025-09-09",
 "name": "Task Force hearing record, Serial No. 119-44",
 "url": "https://www.congress.gov/119/chrg/CHRG-119hhrg61718/CHRG-119hhrg61718.pdf"
-}
-],
-"tier": "C",
-"type": "witness-chain"
 },
-{
-"claimTier": 1,
-"cls": "document",
-"dateEnd": null,
-"dateStart": "2025",
-"direction": "in",
-"edgeId": "e-9fd641996e",
-"edgeLabel": "The only congressional document enumerating the reprisal actions taken against Grusch",
-"id": "crane-secdef-grusch-reprisal-letter-2025",
-"l0": false,
-"label": "Rep. Crane letter to the Secretary of Defense on Grusch reprisal, 24 July 2025",
-"note": "Clearance removal, denial of promotion, loss of medical retirement.",
-"sources": [
 {
 "date": "2025-09-09",
 "name": "U.S. GPO, Hearing transcript, Serial No. 119-44 (CHRG-119hhrg61718)",
 "url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm"
 }
 ],
-"tier": "C",
+"tier": "B",
 "type": "witness-chain"
 },
 {
@@ -2035,11 +2018,11 @@
 "dateEnd": null,
 "dateStart": "2025",
 "direction": "out",
-"edgeId": "e-3fcf325fd0",
+"edgeId": "e-0c1e37ec0b",
 "edgeLabel": "Serves the Task Force via the Burlison advisory role",
-"id": "task-force-declassification",
-"l0": false,
-"label": "House Task Force on the Declassification of Federal Secrets",
+"id": "task-force-declassification-federal-secrets",
+"l0": true,
+"label": "Task Force on the Declassification of Federal Secrets",
 "note": "Burlison's announcement states Grusch's role includes serving on the Task Force on the Declassification of Federal Secrets, the body that held the September 2025 UAP hearing and hosted the June 2026 press conference.",
 "sources": [
 {
@@ -2048,7 +2031,7 @@
 "url": "https://burlison.house.gov/media/press-releases/rep-burlison-welcomes-former-us-air-force-officer-david-grusch-special-advisor"
 }
 ],
-"tier": "C",
+"tier": "B",
 "type": "institutional"
 },
 {
@@ -2349,11 +2332,11 @@
 "dateEnd": null,
 "dateStart": "2023-07-26",
 "direction": "out",
-"edgeId": "e-78ac905f49",
+"edgeId": "e-d7727a61b5",
 "edgeLabel": "Grusch's allegation is an allegation about this specific legal category",
-"id": "waived-usap-mechanism",
+"id": "waived-usap",
 "l0": true,
-"label": "Waived Unacknowledged SAP (waived USAP) - the mechanism",
+"label": "Waived unacknowledged special access program (waived USAP)",
 "note": "Grusch's sworn testimony of 26 July 2023 concerned a multi-decade recovery and reverse-engineering effort concealed from Congress; the waived unacknowledged SAP is the only lawful configuration in which DoD reporting is removed from the committees by design.",
 "sources": [
 {
@@ -2401,24 +2384,24 @@
 "date": "2023-07-26",
 "dateEnd": null,
 "dateStart": "2023-07-26",
-"deg": 67,
+"deg": 66,
 "denials": [
 {
 "a": {
-"id": "aaro-grusch-interview-memo-2024",
-"label": "AARO Memorandum for Record: Invitations to Interview Mr. David Grusch (8 Jan 2024)"
+"id": "aaro-grusch-interview-memo",
+"label": "AARO Memorandum for Record: Invitations to Interview Mr. David Grusch (FOIA 24-F-0266)"
 },
 "b": {
 "id": "david-grusch",
 "label": "David Charles Grusch"
 },
 "by": {
-"id": "aaro-grusch-interview-memo-2024",
-"label": "AARO Memorandum for Record: Invitations to Interview Mr. David Grusch (8 Jan 2024)"
+"id": "aaro-grusch-interview-memo",
+"label": "AARO Memorandum for Record: Invitations to Interview Mr. David Grusch (FOIA 24-F-0266)"
 },
 "claimTier": 1,
 "denialKind": "directed",
-"edgeId": "e-b0056fafdf",
+"edgeId": "e-75aaf7ab77",
 "label": "AARO concluded Grusch 'had no intention of providing AARO with information'",
 "note": "The office's own file is the primary evidence for the Department's central procedural argument against its most consequential witness; it records no offer of an ICIG or congressional-counsel venue.",
 "of": {
@@ -2970,7 +2953,7 @@
 "status": "active",
 "sub": "Former NGA/NRO officer; ICIG complainant; the proximate cause of the UAPDA",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 1 of 1170, score 178). 79 connections, 10 of them custody/funding/programmatic, 10 official denials recorded against it. Axes C2/A3/D3.",
+"tierRationale": "Re-graded A on a global pass (rank 1 of 1138, score 178). 78 connections, 10 of them custody/funding/programmatic, 10 official denials recorded against it. Axes C2/A3/D3.",
 "timeline": [
 {
 "claimTier": null,

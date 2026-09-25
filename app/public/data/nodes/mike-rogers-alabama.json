@@ -2,10 +2,24 @@
 "A": 1,
 "C": 2,
 "D": 3,
-"affiliations": [],
+"affiliations": [
+"U.S. House, Alabama (2003- )",
+"Chairman, House Armed Services Committee (2023- )"
+],
 "age": null,
 "band": null,
-"chronology": [],
+"chronology": [
+{
+"date": "2023-11-27",
+"event": "Reported alongside Turner as leading the effort against the UAP Disclosure Act",
+"precision": "day"
+},
+{
+"date": "2023-12-22",
+"event": "FY2024 NDAA enacted; Sec. 1687 funding limitation retained, Review Board removed",
+"precision": "day"
+}
+],
 "claims": [
 {
 "id": "c-322a8c2d86",
@@ -18,12 +32,76 @@
 "source": "https://armedservices.house.gov/news/press-releases/rogers-smith-announce-subcommittee-rosters-118th-congress",
 "text": "Rogers was Chairman of the House Armed Services Committee in the 118th Congress, jointly announcing the committee's subcommittee rosters with Ranking Member Adam Smith.",
 "tier": 1
+},
+{
+"id": "c-49cadbe4e1",
+"source": "Micah Hanks, The Debrief, 27 November 2023",
+"text": "Rogers is named with Turner as leading efforts to eliminate or significantly alter the UAP Disclosure Act.",
+"tier": 2
+},
+{
+"id": "c-c5258d6afa",
+"source": "P.L. 118-31, Sec. 1687, GPO",
+"text": "Sec. 1687 of P.L. 118-31 conditions UAP special-access funding on disclosure to 'the appropriate congressional committees and congressional leadership' — preserving committee-channel oversight rather than independent review.",
+"tier": 1
+},
+{
+"id": "c-417febfb71",
+"source": "Inference from side-by-side comparison of S. 2226 Div. G with P.L. 118-31 Subtitle C and Secs. 1687/7343",
+"text": "The pattern of what was cut and what was kept is consistent with a jurisdictional defense of the armed services and intelligence committees rather than with substantive objection to disclosure: every removed mechanism operated outside those committees, and every retained mechanism reports into them.",
+"tier": 3
 }
 ],
 "cls": "person",
 "cluster": "oversight",
-"conflicts": [],
+"conflicts": [
+"Two records of this person carry different reference dates: 3 January 2023 on this node, the start of the 118th Congress, when his chairmanship of House Armed Services began, and 22 December 2023 on the collapsed duplicate mike-rogers-al, which is the enactment date of P.L. 118-31. The board keeps 3 January 2023, which this node's own sourced claims about the 118th Congress support."
+],
 "connections": [
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2023",
+"direction": "out",
+"edgeId": "e-6776b3e9b3",
+"edgeLabel": "Chairman during the FY2024 conference",
+"id": "house-armed-services",
+"l0": false,
+"label": "House Armed Services Committee",
+"note": "Rogers has chaired House Armed Services since January 2023 and was a conference principal on the NDAA.",
+"sources": [
+{
+"date": "2023-12-22",
+"name": "P.L. 118-31, FY2024 NDAA — GPO",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "legislation",
+"dateEnd": "2023",
+"dateStart": "2023",
+"direction": "out",
+"edgeId": "e-503008c1dd",
+"edgeLabel": "Named as co-leading the effort to eliminate or alter the Act",
+"id": "uapda-2023",
+"l0": true,
+"label": "UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)",
+"note": "Rogers chaired House Armed Services through the conference and is named alongside Turner in contemporaneous reporting; no direct quotation ties him to a specific section.",
+"sources": [
+{
+"date": "2023-11-27",
+"name": "The Debrief — pushback from lawmakers",
+"url": "https://thedebrief.org/uap-disclosure-act-receives-pushback-from-lawmakers-on-capitol-hill-as-bipartisan-fight-for-transparency-continues/"
+}
+],
+"tier": "A",
+"type": "denial"
+},
 {
 "claimTier": 1,
 "cls": "institution",
@@ -60,8 +138,39 @@
 "date": "2023-01-03",
 "dateEnd": null,
 "dateStart": "2023-01-03",
-"deg": 1,
-"denials": [],
+"deg": 3,
+"denials": [
+{
+"a": {
+"id": "mike-rogers-alabama",
+"label": "Mike Rogers (Alabama)"
+},
+"b": {
+"id": "uapda-2023",
+"label": "UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)"
+},
+"by": {
+"id": "mike-rogers-alabama",
+"label": "Mike Rogers (Alabama)"
+},
+"claimTier": 2,
+"denialKind": "directed",
+"edgeId": "e-503008c1dd",
+"label": "Named as co-leading the effort to eliminate or alter the Act",
+"note": "Rogers chaired House Armed Services through the conference and is named alongside Turner in contemporaneous reporting; no direct quotation ties him to a specific section.",
+"of": {
+"id": "uapda-2023",
+"label": "UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)"
+},
+"sources": [
+{
+"date": "2023-11-27",
+"name": "The Debrief — pushback from lawmakers",
+"url": "https://thedebrief.org/uap-disclosure-act-receives-pushback-from-lawmakers-on-capitol-hill-as-bipartisan-fight-for-transparency-continues/"
+}
+]
+}
+],
 "domains": [],
 "dossier": null,
 "entityInfo": null,
@@ -83,6 +192,7 @@
 "sequenceChain": [],
 "short": "Mike Rogers (Alabama)",
 "sourceFiles": [
+"congress-senate-legislation",
 "w9-waived-sap-group"
 ],
 "sources": [
@@ -100,12 +210,22 @@
 "date": null,
 "name": "https://armedservices.house.gov/news/press-releases/rogers-smith-announce-subcommittee-rosters-118th-congress",
 "url": "https://armedservices.house.gov/news/press-releases/rogers-smith-announce-subcommittee-rosters-118th-congress"
+},
+{
+"date": "2023-11-27",
+"name": "The Debrief — UAP Disclosure Act receives pushback from lawmakers",
+"url": "https://thedebrief.org/uap-disclosure-act-receives-pushback-from-lawmakers-on-capitol-hill-as-bipartisan-fight-for-transparency-continues/"
+},
+{
+"date": "2023-12-22",
+"name": "P.L. 118-31, FY2024 NDAA as enacted — GPO",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
 }
 ],
 "status": "active",
 "sub": "Chairman, House Armed Services Committee (118th and 119th Congresses, serving August 2026)",
-"tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 716 of 1170, score 24). 1 connections, 0 of them custody/funding/programmatic. Axes C2/A1/D3.",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 354 of 1138, score 36). 3 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A1/D3.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": []

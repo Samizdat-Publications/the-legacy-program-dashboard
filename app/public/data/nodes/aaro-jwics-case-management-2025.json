@@ -55,11 +55,11 @@
 "dateEnd": null,
 "dateStart": "2025-05-21",
 "direction": "out",
-"edgeId": "e-3cc92bb2bf",
+"edgeId": "e-b602caf245",
 "edgeLabel": "a TS/SCI-resident case corpus against a statutory public collection",
-"id": "nara-rg615",
+"id": "nara-uap-collection",
 "l0": true,
-"label": "National Archives Record Group 615 - UAP Records Collection",
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection",
 "note": "Hosting the consolidated UAP case record on JWICS places it at Top Secret/SCI by default, which is a structural obstacle to transfer that neither the FY2024 NDAA nor the 2026 directives address.",
 "sources": [
 {
@@ -143,7 +143,7 @@
 ],
 "sub": "First AARO market-research solicitation; custom CMS on the top-secret intranet",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 671 of 1170, score 26). 3 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 661 of 1138, score 26). 3 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D2.",
 "timeline": [
 {
 "claimTier": 1,

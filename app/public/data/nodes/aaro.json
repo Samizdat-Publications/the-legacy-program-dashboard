@@ -278,7 +278,7 @@
 "url": "https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/24-F-0266_AARO_Invitations_to_Interview_Mr._David_Grusch.pdf"
 }
 ],
-"tier": "C",
+"tier": "B",
 "type": "institutional"
 },
 {
@@ -287,11 +287,11 @@
 "dateEnd": "2024",
 "dateStart": "2023",
 "direction": "out",
-"edgeId": "e-a924d4f32d",
+"edgeId": "e-e75d281aae",
 "edgeLabel": "built a documentary record of its attempts to interview Grusch",
-"id": "aaro-grusch-interview-memo-2024",
+"id": "aaro-grusch-interview-memo",
 "l0": false,
-"label": "AARO Memorandum for Record: Invitations to Interview Mr. David Grusch (8 Jan 2024)",
+"label": "AARO Memorandum for Record: Invitations to Interview Mr. David Grusch (FOIA 24-F-0266)",
 "note": "The memorandum for record of 8 January 2024 logs eight approaches between June 2023 and November 2023 and a missed 14 November interview.",
 "sources": [
 {
@@ -300,7 +300,7 @@
 "url": "https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/24-F-0266_AARO_Invitations_to_Interview_Mr._David_Grusch.pdf"
 }
 ],
-"tier": "C",
+"tier": "B",
 "type": "investigative"
 },
 {
@@ -442,6 +442,28 @@
 ],
 "tier": "B",
 "type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": "2024",
+"direction": "in",
+"edgeId": "e-81bd5375b8",
+"edgeLabel": "The government's only published materials analysis, produced by a Battelle-operated laboratory",
+"id": "aaro-metallic-specimen-analysis",
+"l0": false,
+"label": "AARO / ORNL Synopsis: Analysis of a Metallic Specimen",
+"note": "Recorded as a denial artifact as well as a technical result: the chain of custody to any 1947 event was never established and the comparison baseline of failed magnesium alloys is admittedly incomplete.",
+"sources": [
+{
+"date": "2024-07-11",
+"name": "NewsNation",
+"url": "https://www.newsnationnow.com/space/ufo/metal-uap-not-alien/"
+}
+],
+"tier": "A",
+"type": "denial"
 },
 {
 "claimTier": 1,
@@ -792,9 +814,9 @@
 "dateEnd": null,
 "dateStart": "2025",
 "direction": "in",
-"edgeId": "e-1044e4f098",
+"edgeId": "e-072010735c",
 "edgeLabel": "a separate statutory channel is needed because AARO's secure reporting mechanism is not a safe destination",
-"id": "hr-5060",
+"id": "hr-5060-uap-whistleblower-protection-act",
 "l0": false,
 "label": "H.R. 5060 - UAP Whistleblower Protection Act (119th Congress)",
 "note": "Congress would not build a parallel protection regime if the aaro.mil mechanism functioned; AARO's own FY2025 figures show 255 of 262 contacts declared out of scope.",
@@ -1166,15 +1188,15 @@
 },
 {
 "claimTier": 1,
-"cls": "program",
+"cls": "institution",
 "dateEnd": null,
 "dateStart": "2024",
 "direction": "in",
-"edgeId": "e-7ff7b5ca53",
+"edgeId": "e-68acec5606",
 "edgeLabel": "AARO points the public to NARA and asserts it is transferring records",
-"id": "nara-uap-records-collection",
-"l0": false,
-"label": "National Archives UAP Records Collection (Record Group 615)",
+"id": "nara-uap-collection",
+"l0": true,
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection",
 "note": "AARO's UAP Records page links first to the National Archives collection, and the Department states AARO has made progress transferring records in accordance with federal law.",
 "sources": [
 {
@@ -1188,7 +1210,7 @@
 "url": "https://www.war.gov/News/News-Stories/Article/Article/4418161/this-week-in-dow-honoring-heroes-patrolling-oceans-uncovering-truth-out-there/"
 }
 ],
-"tier": "B",
+"tier": "A",
 "type": "institutional"
 },
 {
@@ -1219,11 +1241,11 @@
 "dateEnd": "2023",
 "dateStart": "2022",
 "direction": "in",
-"edgeId": "e-ba1e31b8a7",
+"edgeId": "e-d57bd1b10a",
 "edgeLabel": "Ran concurrently with, and separately from, AARO",
-"id": "nasa-uapist",
-"l0": false,
-"label": "NASA Unidentified Anomalous Phenomena Independent Study Team",
+"id": "nasa-uap-ist",
+"l0": true,
+"label": "NASA UAP Independent Study Team",
 "note": "Two federal UAP bodies operated in parallel through 2022-2023 with no public mechanism for the unclassified panel to see AARO's classified holdings.",
 "sources": [
 {
@@ -1232,7 +1254,7 @@
 "url": "https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team"
 }
 ],
-"tier": "C",
+"tier": "B",
 "type": "institutional"
 },
 {
@@ -1423,28 +1445,6 @@
 },
 {
 "claimTier": 1,
-"cls": "document",
-"dateEnd": null,
-"dateStart": "2024",
-"direction": "in",
-"edgeId": "e-ca86180b03",
-"edgeLabel": "The government's only published materials analysis, produced by a Battelle-operated laboratory",
-"id": "ornl-metallic-specimen-report",
-"l0": false,
-"label": "ORNL Synopsis: Analysis of a Metallic Specimen",
-"note": "Recorded as a denial artifact as well as a technical result: the chain of custody to any 1947 event was never established and the comparison baseline of failed magnesium alloys is admittedly incomplete.",
-"sources": [
-{
-"date": "2024-07-11",
-"name": "NewsNation",
-"url": "https://www.newsnationnow.com/space/ufo/metal-uap-not-alien/"
-}
-],
-"tier": "B",
-"type": "denial"
-},
-{
-"claimTier": 1,
 "cls": "institution",
 "dateEnd": "2023",
 "dateStart": "2022",
@@ -1631,7 +1631,7 @@
 "url": "https://www.aaro.mil/Portals/136/PDFs/Phillips_Timothy_Bio-DEC%202023-(Acting_Director_Ver)_508.pdf"
 }
 ],
-"tier": "B",
+"tier": "C",
 "type": "institutional"
 },
 {
@@ -1761,7 +1761,7 @@
 "coords": null,
 "dateEnd": null,
 "dateStart": "2022",
-"deg": 61,
+"deg": 60,
 "denials": [
 {
 "a": {
@@ -1894,6 +1894,30 @@
 },
 {
 "a": {
+"id": "aaro-metallic-specimen-analysis",
+"label": "AARO / ORNL Synopsis: Analysis of a Metallic Specimen"
+},
+"b": {
+"id": "aaro",
+"label": "All-domain Anomaly Resolution Office (AARO)"
+},
+"by": null,
+"claimTier": 1,
+"denialKind": "association",
+"edgeId": "e-81bd5375b8",
+"label": "The government's only published materials analysis, produced by a Battelle-operated laboratory",
+"note": "Recorded as a denial artifact as well as a technical result: the chain of custody to any 1947 event was never established and the comparison baseline of failed magnesium alloys is admittedly incomplete.",
+"of": null,
+"sources": [
+{
+"date": "2024-07-11",
+"name": "NewsNation",
+"url": "https://www.newsnationnow.com/space/ufo/metal-uap-not-alien/"
+}
+]
+},
+{
+"a": {
 "id": "david-grusch",
 "label": "David Charles Grusch"
 },
@@ -2012,30 +2036,6 @@
 "date": "2024-03-08",
 "name": "AARO Historical Record Report Volume I",
 "url": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF"
-}
-]
-},
-{
-"a": {
-"id": "ornl-metallic-specimen-report",
-"label": "ORNL Synopsis: Analysis of a Metallic Specimen"
-},
-"b": {
-"id": "aaro",
-"label": "All-domain Anomaly Resolution Office (AARO)"
-},
-"by": null,
-"claimTier": 1,
-"denialKind": "association",
-"edgeId": "e-ca86180b03",
-"label": "The government's only published materials analysis, produced by a Battelle-operated laboratory",
-"note": "Recorded as a denial artifact as well as a technical result: the chain of custody to any 1947 event was never established and the comparison baseline of failed magnesium alloys is admittedly incomplete.",
-"of": null,
-"sources": [
-{
-"date": "2024-07-11",
-"name": "NewsNation",
-"url": "https://www.newsnationnow.com/space/ufo/metal-uap-not-alien/"
 }
 ]
 },
@@ -2269,13 +2269,7 @@
 "cls": "document",
 "id": "aaro-grusch-interview-memo",
 "label": "AARO Memorandum for Record: Invitations to Interview Mr. David Grusch (FOIA 24-F-0266)",
-"tier": "C"
-},
-{
-"cls": "document",
-"id": "aaro-grusch-interview-memo-2024",
-"label": "AARO Memorandum for Record: Invitations to Interview Mr. David Grusch (8 Jan 2024)",
-"tier": "C"
+"tier": "B"
 },
 {
 "cls": "document",
@@ -2288,6 +2282,12 @@
 "id": "aaro-kona-blue-release",
 "label": "AARO/DHS release: History and Origin of KONA BLUE",
 "tier": "B"
+},
+{
+"cls": "document",
+"id": "aaro-metallic-specimen-analysis",
+"label": "AARO / ORNL Synopsis: Analysis of a Metallic Specimen",
+"tier": "A"
 },
 {
 "cls": "program",
@@ -2363,7 +2363,7 @@
 },
 {
 "cls": "legislation",
-"id": "hr-5060",
+"id": "hr-5060-uap-whistleblower-protection-act",
 "label": "H.R. 5060 - UAP Whistleblower Protection Act (119th Congress)",
 "tier": "C"
 },
@@ -2440,18 +2440,6 @@
 "tier": "C"
 },
 {
-"cls": "program",
-"id": "nara-uap-records-collection",
-"label": "National Archives UAP Records Collection (Record Group 615)",
-"tier": "B"
-},
-{
-"cls": "program",
-"id": "nasa-uapist",
-"label": "NASA Unidentified Anomalous Phenomena Independent Study Team",
-"tier": "C"
-},
-{
 "cls": "legislation",
 "id": "ndaa-fy2022",
 "label": "FY2022 NDAA, Public Law 117-81, Sec. 1683 (50 U.S.C. 3373) - statutory UAP office",
@@ -2482,12 +2470,6 @@
 "tier": "C"
 },
 {
-"cls": "document",
-"id": "ornl-metallic-specimen-report",
-"label": "ORNL Synopsis: Analysis of a Metallic Specimen",
-"tier": "B"
-},
-{
 "cls": "event",
 "id": "pursue-release-04",
 "label": "PURSUE Release 04",
@@ -2509,7 +2491,7 @@
 "cls": "person",
 "id": "tim-phillips",
 "label": "Timothy A. Phillips",
-"tier": "B"
+"tier": "C"
 },
 {
 "cls": "event",
@@ -2656,7 +2638,7 @@
 ],
 "sub": "DoD office established 2022; author of the official AAWSAP history",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 3 of 1170, score 164). 64 connections, 6 of them custody/funding/programmatic, 11 official denials recorded against it. Axes C2/A3/D2.",
+"tierRationale": "Re-graded A on a global pass (rank 3 of 1138, score 164). 64 connections, 6 of them custody/funding/programmatic, 11 official denials recorded against it. Axes C2/A3/D2.",
 "timeline": [
 {
 "claimTier": null,

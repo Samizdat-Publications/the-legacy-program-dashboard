@@ -95,7 +95,7 @@
 "url": "https://thehill.com/homenews/house/4406059-classified-ufo-briefing-house-members-mixed-feelings/"
 }
 ],
-"tier": "B",
+"tier": "C",
 "type": "institutional"
 },
 {
@@ -394,7 +394,7 @@
 "cls": "domain",
 "id": "d-legislative",
 "label": "Legislative Process (proposed and pending)",
-"tier": "B"
+"tier": "C"
 },
 {
 "cls": "person",
@@ -450,7 +450,7 @@
 ],
 "sub": "Bipartisan House member organisation, est. Aug 2023",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 657 of 1170, score 26). 8 connections, 1 of them custody/funding/programmatic. Axes C0/A1/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 646 of 1138, score 26). 8 connections, 1 of them custody/funding/programmatic. Axes C0/A1/D3.",
 "timeline": [
 {
 "claimTier": null,

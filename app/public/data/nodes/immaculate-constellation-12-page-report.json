@@ -563,13 +563,19 @@
 "id": "immaculate-constellation-12-page-report",
 "label": "Immaculate Constellation 12-page report entered into the Congressional Record"
 },
-"by": null,
+"by": {
+"id": "susan-gough",
+"label": "Susan Gough"
+},
 "claimTier": 2,
 "denialKind": "directed",
 "edgeId": "e-944d113463",
 "label": "Department says it has no record of the programme",
 "note": "Gough's 'no record' statement is the Department's entire published response to a document in the Congressional Record; no documentary rebuttal has been produced.",
-"of": null,
+"of": {
+"id": "immaculate-constellation-12-page-report",
+"label": "Immaculate Constellation 12-page report entered into the Congressional Record"
+},
 "sources": [
 {
 "date": "2024-11-13",
@@ -787,7 +793,7 @@
 ],
 "sub": "Whistleblower report, entered 13 Nov 2024",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 26 of 1170, score 99). 14 connections, 2 of them custody/funding/programmatic, 4 official denials recorded against it. Axes C2/A3/D3.",
+"tierRationale": "Re-graded A on a global pass (rank 26 of 1138, score 99). 14 connections, 2 of them custody/funding/programmatic, 4 official denials recorded against it. Axes C2/A3/D3.",
 "timeline": [
 {
 "claimTier": null,

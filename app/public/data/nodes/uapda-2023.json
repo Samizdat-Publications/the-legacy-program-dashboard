@@ -212,7 +212,7 @@
 "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
 }
 ],
-"tier": "B",
+"tier": "C",
 "type": "legislative"
 },
 {
@@ -358,11 +358,11 @@
 "dateEnd": "2023",
 "dateStart": "2023",
 "direction": "in",
-"edgeId": "e-ccb6ec4538",
+"edgeId": "e-503008c1dd",
 "edgeLabel": "Named as co-leading the effort to eliminate or alter the Act",
-"id": "mike-rogers-al",
+"id": "mike-rogers-alabama",
 "l0": false,
-"label": "Mike D. Rogers",
+"label": "Mike Rogers (Alabama)",
 "note": "Rogers chaired House Armed Services through the conference and is named alongside Turner in contemporaneous reporting; no direct quotation ties him to a specific section.",
 "sources": [
 {
@@ -371,7 +371,7 @@
 "url": "https://thedebrief.org/uap-disclosure-act-receives-pushback-from-lawmakers-on-capitol-hill-as-bipartisan-fight-for-transparency-continues/"
 }
 ],
-"tier": "C",
+"tier": "B",
 "type": "denial"
 },
 {
@@ -501,7 +501,7 @@
 "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
 }
 ],
-"tier": "A",
+"tier": "B",
 "type": "legislative"
 },
 {
@@ -796,20 +796,20 @@
 "denials": [
 {
 "a": {
-"id": "mike-rogers-al",
-"label": "Mike D. Rogers"
+"id": "mike-rogers-alabama",
+"label": "Mike Rogers (Alabama)"
 },
 "b": {
 "id": "uapda-2023",
 "label": "UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)"
 },
 "by": {
-"id": "mike-rogers-al",
-"label": "Mike D. Rogers"
+"id": "mike-rogers-alabama",
+"label": "Mike Rogers (Alabama)"
 },
 "claimTier": 2,
 "denialKind": "directed",
-"edgeId": "e-ccb6ec4538",
+"edgeId": "e-503008c1dd",
 "label": "Named as co-leading the effort to eliminate or alter the Act",
 "note": "Rogers chaired House Armed Services through the conference and is named alongside Turner in contemporaneous reporting; no direct quotation ties him to a specific section.",
 "of": {
@@ -1019,7 +1019,7 @@
 "cls": "domain",
 "id": "d-legislative",
 "label": "Legislative Process (proposed and pending)",
-"tier": "B"
+"tier": "C"
 },
 {
 "cls": "person",
@@ -1053,9 +1053,9 @@
 },
 {
 "cls": "person",
-"id": "mike-rogers-al",
-"label": "Mike D. Rogers",
-"tier": "C"
+"id": "mike-rogers-alabama",
+"label": "Mike Rogers (Alabama)",
+"tier": "B"
 },
 {
 "cls": "person",
@@ -1079,7 +1079,7 @@
 "cls": "legislation",
 "id": "ndaa-fy2024-subtitle-c",
 "label": "P.L. 118-31 Subtitle C - Secs. 1841-1843 (what survived)",
-"tier": "A"
+"tier": "B"
 },
 {
 "cls": "legislation",
@@ -1171,7 +1171,7 @@
 ],
 "sub": "disclosure-legislation",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 13 of 1170, score 117). 27 connections, 2 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C3/A3/D3.",
+"tierRationale": "Re-graded A on a global pass (rank 15 of 1138, score 117). 27 connections, 2 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C3/A3/D3.",
 "timeline": [
 {
 "claimTier": null,

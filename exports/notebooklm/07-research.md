@@ -1,6 +1,6 @@
 # The research band
 
-The programme map splits the 135 nodes closest to the alleged programme into seven bands, and this file is the research band: 27 nodes, taken era by era from the earliest to the most recent. Each entry gives what the node is, why the board places it here, why it holds the tier it holds, what it has denied, its documented and testimonial claims with their sources, and the links that tie it to the rest of the board.
+The programme map splits the 135 nodes closest to the alleged programme into seven bands, and this file is the research band: 28 nodes, taken era by era from the earliest to the most recent. Each entry gives what the node is, why the board places it here, why it holds the tier it holds, what it has denied, its documented and testimonial claims with their sources, and the links that tie it to the rest of the board.
 
 Names in full, for this file:
 
@@ -54,7 +54,7 @@ Roles the board assigns it: concealment, oversight, research.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 105 of 1170, score 62). 15 connections, 4 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C0/A3/D0.
+Re-graded A on a global pass (rank 106 of 1138, score 62). 15 connections, 4 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C0/A3/D0.
 
 ### The claims on the record
 
@@ -142,7 +142,7 @@ Roles the board assigns it: concealment, oversight, research, disclosure.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 146 of 1170, score 53). 13 connections, 3 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D1.
+Re-graded A on a global pass (rank 149 of 1138, score 53). 13 connections, 3 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D1.
 
 ### The claims on the record
 
@@ -211,7 +211,7 @@ Roles the board assigns it: concealment, research, disclosure.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 160 of 1170, score 51). 9 connections, 4 of them custody/funding/programmatic. Axes C0/A3/D2.
+Re-graded A on a global pass (rank 162 of 1138, score 51). 9 connections, 4 of them custody/funding/programmatic. Axes C0/A3/D2.
 
 ### The claims on the record
 
@@ -281,7 +281,7 @@ Roles the board assigns it: research, concealment, disclosure.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 152 of 1170, score 52). 6 connections, 2 of them custody/funding/programmatic. Axes C1/A2/D2.
+Re-graded A on a global pass (rank 155 of 1138, score 52). 6 connections, 2 of them custody/funding/programmatic. Axes C1/A2/D2.
 
 ### The claims on the record
 
@@ -345,7 +345,7 @@ Roles the board assigns it: disclosure, research.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 561 of 1170, score 29). 6 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.
+Re-graded B on a global pass (rank 556 of 1138, score 29). 6 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.
 
 ### The claims on the record
 
@@ -401,7 +401,7 @@ Roles the board assigns it: research, disclosure.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 127 of 1170, score 56). 11 connections, 1 of them custody/funding/programmatic. Axes C0/A1/D3.
+Re-graded A on a global pass (rank 130 of 1138, score 56). 11 connections, 1 of them custody/funding/programmatic. Axes C0/A1/D3.
 
 ### The claims on the record
 
@@ -472,7 +472,7 @@ Roles the board assigns it: research, disclosure.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 73 of 1170, score 72). 11 connections, 2 of them custody/funding/programmatic. Axes C1/A2/D2.
+Re-graded A on a global pass (rank 76 of 1138, score 72). 11 connections, 2 of them custody/funding/programmatic. Axes C1/A2/D2.
 
 ### The claims on the record
 
@@ -552,7 +552,7 @@ Roles the board assigns it: research, disclosure.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 91 of 1170, score 67). 9 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D3.
+Re-graded A on a global pass (rank 94 of 1138, score 67). 9 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D3.
 
 ### The claims on the record
 
@@ -591,7 +591,7 @@ Re-graded A on a global pass (rank 91 of 1170, score 67). 9 connections, 0 of th
 
 ## Office of the Director of National Intelligence
 
-Office of the Director of National Intelligence is a institution on the board; board tier A, named in sworn testimony or primary documents as directly inside the programme; dates 2005-04-22; axes C1 A3 D3; 18 connections; in the research band.
+Office of the Director of National Intelligence is a institution on the board; board tier A, named in sworn testimony or primary documents as directly inside the programme; dates 2005-04-22; axes C1 A3 D3; 17 connections; in the research band.
 
 In one line: Head of the 18-element Intelligence Community; co-signatory of the UAP reporting regime.
 
@@ -638,7 +638,7 @@ Roles the board assigns it: oversight, concealment, disclosure, research.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 130 of 1170, score 55). 18 connections, 2 of them custody/funding/programmatic. Axes C1/A3/D3.
+Re-graded A on a global pass (rank 161 of 1138, score 51). 17 connections, 1 of them custody/funding/programmatic. Axes C1/A3/D3.
 
 ### The claims on the record
 
@@ -666,10 +666,9 @@ Re-graded A on a global pass (rank 130 of 1170, score 55). 18 connections, 2 of 
 ### Its strongest connections
 
 - Office of the Director of National Intelligence comes in from **Defense Intelligence Agency** (institution, board tier A), a institutional link at Tier 1 documented. The link reads: Named contributor to the 2021 ODNI Preliminary Assessment on UAP. ODNI's 25 June 2021 assessment names DIA among the contributing elements, establishing that this agency produced or held UAP-relevant reporting. Sources: ODNI, Preliminary Assessment: Unidentified Aerial Phenomena, https://archive.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf, dated 2021-06-25.
+- Office of the Director of National Intelligence runs out to **National Archives Unidentified Anomalous Phenomena Records Collection** (institution, board tier A), a custody link at Tier 1 documented. The link reads: ODNI transferred UAP records into the statutory collection. NARA's press release nr25-07 names ODNI as one of four transferring agencies, alongside OSD, the FAA and the Nuclear Regulatory Commission. Sources: National Archives press release nr25-07, https://www.archives.gov/press/press-releases/2025/nr25-07, dated 2025-04-24; National Archives, Record Group 615, https://www.archives.gov/research/topics/uaps/rg-615, dated 2026-08-12; National Archives, UAP bulk downloads, https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download, dated 2025-04-24.
 - Office of the Director of National Intelligence comes in from **UAP Science Advisory Council** (institution, board tier A), a institutional link at Tier 1 documented. The link reads: Established by ODNI with FBI support. ODNI announced the council following the PURSUE records releases; the FBI is named as supporting. Sources: The Sol Foundation - UAP Science Advisory Council announcement, https://thesolfoundation.org/sol-foundation-co-founders-named-to-uap-science-advisory-council/, dated 2026-06-22.
-- Office of the Director of National Intelligence runs out to **National Archives Unidentified Anomalous Phenomena Records Collection** (institution, board tier A), a custody link at Tier 1 documented. The link reads: ODNI transferred UAP records into the statutory collection. NARA's press release nr25-07 names ODNI as one of four transferring agencies, alongside OSD, the FAA and the Nuclear Regulatory Commission. Sources: National Archives press release nr25-07, https://www.archives.gov/press/press-releases/2025/nr25-07, dated 2025-04-24.
 - Office of the Director of National Intelligence comes in from **National Reconnaissance Office** (institution, board tier A), a institutional link at Tier 1 documented. The link reads: Named contributor to the 2021 ODNI Preliminary Assessment on UAP. ODNI's 25 June 2021 assessment names NRO among the contributing elements, establishing that this agency produced or held UAP-relevant reporting. Sources: ODNI, Preliminary Assessment: Unidentified Aerial Phenomena, https://archive.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf, dated 2021-06-25.
-- Office of the Director of National Intelligence comes in from **National Archives Record Group 615 - UAP Records Collection** (institution, board tier A), a custody link at Tier 1 documented. The link reads: transferred records. ODNI is one of seven RG 615 contributors; its electronic-records bulk download stood at 1.29MB as of the April 2025 inventory. Sources: National Archives, Record Group 615, https://www.archives.gov/research/topics/uaps/rg-615, dated 2026-08-12; National Archives, UAP bulk downloads, https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download, dated 2025-04-24.
 - Office of the Director of National Intelligence comes in from **FY2024 Intelligence Authorization Act sec. 7343 - Funding Limitations Relating to UAP** (legislation, board tier A), a legislative link at Tier 1 documented. The link reads: Imposes the same funding condition on the Director of National Intelligence. FY2024 IAA sec. 7343(b) bars obligation of division funds for UAP activity under special or restricted access limitation absent DNI disclosure to six committees and four leaders. Sources: Public Law 118-31, FY2024 NDAA (govinfo enrolled text), https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm, dated 2023-12-22.
 - Office of the Director of National Intelligence comes in from **National Security Agency** (institution, board tier B), a institutional link at Tier 1 documented. The link reads: Named contributor to the 2021 ODNI Preliminary Assessment on UAP. ODNI's 25 June 2021 assessment names NSA among the contributing elements, establishing that this agency produced or held UAP-relevant reporting. Sources: ODNI, Preliminary Assessment: Unidentified Aerial Phenomena, https://archive.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf, dated 2021-06-25.
 - Office of the Director of National Intelligence comes in from **Defense Advanced Research Projects Agency** (institution, board tier B), a institutional link at Tier 1 documented. The link reads: Named contributor to the 2021 ODNI Preliminary Assessment on UAP. ODNI's 25 June 2021 assessment names DARPA among the contributing elements, establishing that this agency produced or held UAP-relevant reporting. Sources: ODNI, Preliminary Assessment: Unidentified Aerial Phenomena, https://archive.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf, dated 2021-06-25.
@@ -680,8 +679,9 @@ Re-graded A on a global pass (rank 130 of 1170, score 55). 18 connections, 2 of 
 - Office of the Director of National Intelligence comes in from **FY2022 NDAA, Public Law 117-81, Sec. 1683 (50 U.S.C. 3373) - statutory UAP office** (legislation, board tier C), a legislative link at Tier 1 documented. The link reads: office required to be established in coordination with the DNI. The FY2022 NDAA 'was enacted with a provision that requires the Secretary of Defense to establish an office, in coordination with the Director of National Intelligence (DNI), with responsibilities that include those that were to be assigned to the AOIMSG'; the Deputy Secretary acted 'following coordination with the DNI', and copied the memorandum to the Director of National Intelligence. The coordination requirement is statutory, not discretionary. Sources: Deputy Secretary of Defense memorandum, 'Establishment of the All-domain Anomaly Resolution Office', 15 July 2022, https://media.defense.gov/2022/Jul/20/2003039074/-1/-1/1/ESTABLISHMENT-OF-THE-ALL-DOMAIN-ANOMALY-RESOLUTION-OFFICE.PDF, dated 2022-07-15.
 - Office of the Director of National Intelligence comes in from **National Geospatial-Intelligence Agency** (institution, board tier C), a institutional link at Tier 1 documented. The link reads: Named contributor to the 2021 ODNI Preliminary Assessment on UAP. ODNI's 25 June 2021 assessment names NGA among the contributing elements, establishing that this agency produced or held UAP-relevant reporting. Sources: ODNI, Preliminary Assessment: Unidentified Aerial Phenomena, https://archive.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf, dated 2021-06-25.
 - Office of the Director of National Intelligence comes in from **Betty J. Sapp** (person, board tier C), a institutional link at Tier 1 documented. The link reads: The DNI must concur in the appointment to the office she held. The statutory route to the office she held requires the Director of National Intelligence to concur in the Secretary of Defense's recommendation to the President, per 50 U.S.C. 3041(b)(2)(B) as cited in the same CRS table. Sources: CRS IF10538 version 6, Table 1, citing 50 U.S.C. 3041(b)(2)(B), https://www.congress.gov/crs_external_products/IF/PDF/IF10538/IF10538.6.pdf, dated 2019-03-19.
+- Office of the Director of National Intelligence comes in from **Compass Rose Legal Group** (institution, board tier C), a institutional link at Tier 1 documented. The link reads: Senior partner was ODNI's Intelligence Community Inspector General. Compass Rose senior partner I. Charles McCullough III holds the tie to ODNI in his own right. Chairman Feinstein opened his confirmation hearing by describing its purpose: 'to consider the President's nomination of Charles McCullough to be the first Inspector General of the Intelligence Community.' McCullough told the Committee he was then 'serving on detail from the National Security Agency as the Deputy Inspector General at the Office of the Director of National Intelligence', and thanked Director Clapper for his support. The office he was confirmed into sits inside ODNI, which is the channel Grusch's complaint later ran through. Sources: S. Hrg. 112-309, 'Nomination of Irvin Charles McCullough III to be Inspector General of the Intelligence Community', Senate Select Committee on Intelligence, 22 September 2011, https://www.govinfo.gov/content/pkg/CHRG-112shrg72745/html/CHRG-112shrg72745.htm, dated 2011-09-22; https://compassrosepllc.com/mccullough/, https://compassrosepllc.com/mccullough/; https://thedebrief.org/compass-rose-attorneys-formally-end-association-with-uap-whistleblower-david-grusch/, https://thedebrief.org/compass-rose-attorneys-formally-end-association-with-uap-whistleblower-david-grusch/
 
-It carries 18 connections in total on the board.
+It carries 17 connections in total on the board.
 
 ## GEIPAN - Groupe d'Études et d'Informations sur les Phénomènes Aérospatiaux Non identifiés
 
@@ -717,7 +717,7 @@ Roles the board assigns it: research, disclosure.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 89 of 1170, score 68). 10 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D3.
+Re-graded A on a global pass (rank 91 of 1138, score 68). 10 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D3.
 
 ### The claims on the record
 
@@ -800,7 +800,7 @@ Roles the board assigns it: research, concealment, disclosure.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 100 of 1170, score 64). 9 connections, 3 of them custody/funding/programmatic. Axes C1/A2/D3.
+Re-graded A on a global pass (rank 101 of 1138, score 64). 9 connections, 3 of them custody/funding/programmatic. Axes C1/A2/D3.
 
 ### The claims on the record
 
@@ -886,7 +886,7 @@ Roles the board assigns it: research, concealment, disclosure, oversight.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 198 of 1170, score 46). 7 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D3.
+Re-graded B on a global pass (rank 197 of 1138, score 46). 7 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D3.
 
 ### The claims on the record
 
@@ -956,7 +956,7 @@ Roles the board assigns it: research, disclosure.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 419 of 1170, score 34). 7 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D1.
+Re-graded B on a global pass (rank 418 of 1138, score 34). 7 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D1.
 
 ### The claims on the record
 
@@ -1032,7 +1032,7 @@ Roles the board assigns it: disclosure, concealment, oversight, research.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 18 of 1170, score 110). 19 connections, 1 of them custody/funding/programmatic, 6 official denials recorded against it. Axes C1/A3/D3.
+Re-graded A on a global pass (rank 20 of 1138, score 110). 19 connections, 1 of them custody/funding/programmatic, 6 official denials recorded against it. Axes C1/A3/D3.
 
 ### The claims on the record
 
@@ -1084,6 +1084,110 @@ A further 27 claims sit on this node on the board and are not reproduced here.
 
 It carries 19 connections in total on the board.
 
+## UAP Science Advisory Council
+
+UAP Science Advisory Council is a institution on the board; board tier A, named in sworn testimony or primary documents as directly inside the programme; dates 2026; axes C0 A1 D3; 16 connections; in the research band.
+
+In one line: ODNI/FBI advisory body, est. 2026.
+
+### What it is
+
+The UAP Science Advisory Council is an outside scientific advisory body assembled in June 2026 at the request of the White House and in coordination with AARO, the Office of the Director of National Intelligence, the FBI and other agencies, and chaired by Harvard theoretical physicist Avi Loeb. It reports to a higher-level interagency UAP Governance Board that met for the first time in mid-June 2026. All data shared with the council is unclassified.
+
+### Why it is implicated
+
+This is the first standing outside scientific advisory body the US government has convened on this subject, which makes the terms on which it was convened the most informative thing about it. Its chair has stated in writing that 'All the data shared with the council will be unclassified.' A body with no clearances and no access to classified holdings cannot examine recovered material, cannot audit a special access programme operating under a DCSA carve-out, cannot compel testimony, and cannot verify a negative. Its function, on the record as constituted, is to apply scientific method to the portion of the record that nobody disputes and that the executive branch has already chosen to release. Its membership was drawn almost entirely from the private technical and advocacy layer - the Sol Foundation and the Galileo Project - rather than from the federal laboratories, FFRDCs or prime contractors where the custody allegations point, and the published membership lists changed three times in seventeen days.
+
+### The longer account
+
+The council is best understood as a boundary object: an institution created at the seam between a declassification programme and a scientific community, whose terms of reference tell you exactly where the executive branch has decided that seam sits.
+
+The origin story is not disputed by anyone involved. The Skeptics Society announcement of 15 June 2026 says the council was 'formed at the request of the White House and in coordination with the All-domain Anomaly Resolution Office (AARO), the Office of the Director of National Intelligence (ODNI), the FBI, and other agencies.' Avi Loeb's own account, published on Medium and dated by the platform to 13 June 2026, says: 'Over the past week, I was tasked by the above organizations to create a research team of young scientists who will serve on this council,' naming the White House, AARO, ODNI, the FBI and all Intelligence Community members. The Sol Foundation's account says ODNI, with the support of the FBI, announced it. DefenseScoop obtained confirmation from an ODNI official that ODNI, alongside the FBI and DoD, established the UAP Governance Board 'to provide guidance, recommendations and coordination at the interagency level, bringing together military, law enforcement, the intelligence community, and other civilian agencies,' and that the board 'met for the first time yesterday' as of Wednesday 17 June 2026, without identifying the participants.
+
+The membership is where the record becomes genuinely strange, and the board should record the instability rather than smoothing it into a single roster. Loeb's first post named a core research team of five: Richard Cloete, Regina Sarmiento, Matthew Szydagis, Devesh Nandal and Omer Eldadi. The Skeptics Society, two days later, published an alphabetised list of eleven, adding Tim Gallaudet, Garry Nolan, Michael Shermer, Peter Skafish and Jennice Vilhauer, and identifying Loeb as chair. The Sol Foundation described a fourteen-member council and additionally named Jacob Haqq-Misra and Ross Howard. Loeb's list supplied to DefenseScoop on 17 June named twelve and introduced Carol Cleland and Ben Lamm while dropping Sarmiento. His second Medium post, dated by the platform to 29 June, listed fifteen and added Liberty Vittert Capito, Robin Hanson and Kevin Knuth while restoring none of the dropped names. Four published lists in seventeen days, none of them identical, none of them issued by the government that convened the body. There is no charter, no Federal Advisory Committee Act notice, and no agency-published membership roster in the record reviewed here.
+
+The operative constraint is stated by the chair himself, twice, in plain language: 'All the data shared with the council will be unclassified.' The Sol Foundation repeats it. DefenseScoop reports that Loeb 'confirmed that all of the data shared with the newly installed team will be unclassified.' Loeb also told DefenseScoop that the meeting cadence has not been decided, and closed with a formulation that is worth quoting exactly because it is candid about the position: 'We will make the best lemonade out of the lemons we are given.'
+
+Set that against what the council would need in order to test the central allegation on this board. The custody claims concern material held at contractor facilities under special access protection. Under 32 CFR 117.6(b)(3), the Director of DCSA can be relieved of industrial security oversight of exactly such a facility by a Deputy Secretary of Defense-approved carve-out. Under DoD Directive 5205.07, no contractor employee may hand SAP material to a member of Congress or their staff without the approval of the Director of the DoD SAP Central Office. A council with no clearances is on the outside of both of those doors. It cannot look at a carve-out programme, cannot subpoena a contractor, cannot inspect material, and cannot verify that the archival material it is given is complete. Its chair says the council's purpose is to advise on how to resolve the nature of UAP and, in support of the Governance Board, to 'assist in the timely coordination of declassification of UAP-related information, in accordance with Executive Order 13526.' That is a real function. It is also, structurally, an advisory role over the release of material that the classification authorities have already decided to release.
+
+The second structural observation is about where the people came from. Loeb chairs the Galileo Project at Harvard; Cloete and Sarmiento are described in the Skeptics Society announcement as Galileo Project researchers. Nolan and Skafish co-founded the Sol Foundation; Gallaudet is a Sol senior adviser; Haqq-Misra sits on Sol's advisory board; Ross Howard leads Sol's production and was named to lead the council's communications. Nobody named to the council in any published list is identified as coming from a federal weapons laboratory, an FFRDC, a University Affiliated Research Center, or a prime contractor's advanced development organisation. The council is staffed from the community that has been asking the questions, not from the institutions that would hold the answers.
+
+None of that is a criticism of the individuals, several of whom have argued publicly for exactly the kind of instrumentation and data quality that would move this subject forward. It is a statement about the shape of the instrument. The government convened an outside body, gave it distinguished members and a reporting line to an interagency board, and drew the boundary of its access at the classification line - the same line on the far side of which every substantive allegation this board catalogues is alleged to sit.
+
+### What it has denied
+
+The council itself has issued no denial. Its chair has repeatedly and publicly stated its principal limitation rather than concealing it: all data shared with the council is unclassified. AARO, one of the convening agencies, maintains in its published reporting that no US government investigation has found a case of UAP representing off-world technology, and that all authentic programmes referenced by whistleblowers were properly notified and reported to the congressional defence and intelligence committees.
+
+Roles the board assigns it: oversight, disclosure, research, concealment.
+
+### Open questions on this node
+
+- Whether the council has a charter, terms of reference, or FACA status, and whether its membership has ever been published by a government agency rather than by members and third parties.
+- The definitive membership. Four published lists in seventeen days disagree; the government has published none.
+- Whether any council member holds a security clearance in another capacity, and whether that creates an asymmetry inside a body constituted to work on unclassified material only.
+- The identity of the participants in the UAP Governance Board, which ODNI declined to share, and the board's own authorities over declassification decisions.
+- Whether the council has any mechanism to determine that the archival material it receives is complete, or is dependent on the classification authorities whose conduct is the subject of the underlying allegations.
+- Is the council chartered under the Federal Advisory Committee Act, and if so who is its Designated Federal Officer and where is its charter filed? No charter document has surfaced.
+- Who sits on the UAP Governance Board? ODNI declined to name the original participants.
+- Reporting has referenced a council request for more than fifty items of information about past incidents and possible related materials; the request itself, its addressee and its disposition have not been published.
+- Do council members hold active security clearances, and if so, why is the council restricted to unclassified data, is the restriction legal, policy-based, or discretionary?
+- Why do Loeb's 16 June and 17 June rosters differ by three quantitative-methods seats?
+- Are members compensated, and by which agency's appropriation?
+
+### Why it holds its tier
+
+Re-graded A on a global pass (rank 50 of 1138, score 82). 17 connections, 1 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C0/A1/D3.
+
+### The claims on the record
+
+- **Tier 1 documented.** A 12-member UAP Science Advisory Council chaired by Avi Loeb was announced on 17 June 2026 to advise an interagency UAP Governance Board including ODNI, FBI and DoW. Source: DefenseScoop, 17 June 2026
+- **Tier 1 documented.** AARO published a 2025 UAP workshop white paper on narrative data, infrastructures and analysis, and added the NPS CTX UAP special issue on 8 July 2026. Source: AARO UAP Records page, accessed 12 August 2026
+- **Tier 1 documented.** All data shared with the council will be unclassified. Source: The Sol Foundation announcement, 22 June 2026
+- **Tier 1 documented.** As of 17 June 2026 the frequency of the council's meetings had not been decided. Source: https://defensescoop.com/2026/06/17/new-science-advisory-council-forms-to-help-us-government-resolve-the-uap-mystery/
+- **Tier 1 documented.** Named members from the Sol Foundation are Garry Nolan, Peter Skafish, Tim Gallaudet, Jacob Haqq-Misra and Ross Howard, who will lead council communications. Source: The Sol Foundation announcement, 22 June 2026
+- **Tier 1 documented.** On 22 June 2026 ODNI, with the support of the FBI, announced a UAP Science Advisory Council to undertake further investigations following historic releases of government records about UAP encounters. Source: The Sol Foundation announcement, 22 June 2026
+- **Tier 1 documented.** Retired Rear Admiral Tim Gallaudet, former Oceanographer of the Navy and former Assistant Secretary of Commerce for Oceans and Atmosphere, is a member of the council, seated for oceanography. Source: https://defensescoop.com/2026/06/17/new-science-advisory-council-forms-to-help-us-government-resolve-the-uap-mystery/ (17 June 2026), which also quotes Gallaudet directly
+- **Tier 1 documented.** The council is led by Dr Avi Loeb and reports to a higher-level UAP Governance Board, an interagency body coordinating across military, law enforcement and intelligence community agencies. Source: The Sol Foundation announcement, 22 June 2026
+- **Tier 2 named person on the record.** A UAP Science Advisory Council formation was announced on 17 June 2026. Source: Disclosure Archives AARO release chronology
+- **Tier 2 named person on the record.** AARO held a private workshop on UAP data standardisation with civilian researchers and academia on 1 August 2025. Source: Disclosure Archives AARO release chronology
+- **Tier 2 named person on the record.** An ODNI official told DefenseScoop that ODNI, alongside the FBI and DoD, established the UAP Governance Board 'to provide guidance, recommendations and coordination at the interagency level, bringing together military, law enforcement, the intelligence community, and other civilian agencies,' and that the board met for the first time on 16 June 2026, without identifying the participants. Source: https://defensescoop.com/2026/06/17/new-science-advisory-council-forms-to-help-us-government-resolve-the-uap-mystery/
+- **Tier 2 named person on the record.** Avi Loeb formed and leads the UAP Science Advisory Council, announced June 2026; named members include Carol Cleland, Richard Cloete, Omer Eldadi, Tim Gallaudet, Ross Howard, Ben Lamm, Devesh Nandal, Garry Nolan, Michael Shermer, Peter Skafish, Matthew Szydagis and Jennice Vilhauer. Source: https://defensescoop.com/2026/06/17/new-science-advisory-council-forms-to-help-us-government-resolve-the-uap-mystery/
+- **Tier 2 named person on the record.** Avi Loeb states he was tasked by the White House, AARO, ODNI, the FBI and the Intelligence Community to assemble a UAP Science Advisory Council, announced in a Medium post dated 16 June 2026. Source: https://avi-loeb.medium.com/more-details-on-the-uap-science-advisory-council-825bd250d23c (Avi Loeb, 'More Details on the UAP Science Advisory Council,' 16 June 2026)
+- **Tier 2 named person on the record.** Avi Loeb wrote that 'Over the past week, I was tasked by the above organizations to create a research team of young scientists who will serve on this council,' identifying the White House, AARO, ODNI, the FBI and all Intelligence Community members. Source: https://avi-loeb.medium.com/a-uap-science-advisory-council-to-the-u-s-f7262e57b0df - DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement
+- **Tier 2 named person on the record.** Avi Loeb's first Medium post on the UAP Science Advisory Council carries article:published_time 2026-06-13T16:20:50Z. His second post, 'More Details on the UAP Science Advisory Council', carries a byline of 16 June 2026; the 29 June 2026 date that has circulated is that post's republish timestamp, not its publication date. Source: https://avi-loeb.medium.com/a-uap-science-advisory-council-to-the-u-s-f7262e57b0df
+- **Tier 2 named person on the record.** Four differing membership lists for the council were published between 13 and 29 June 2026, none of them identical to another and none of them issued by any of the agencies that convened the body. Source: https://avi-loeb.medium.com/more-details-on-the-uap-science-advisory-council-825bd250d23c - DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement
+- **Tier 2 named person on the record.** Loeb served on the President's Council of Advisors on Science and Technology (PCAST) in 2019-2020, chaired Harvard's Astronomy department 2011-2020, and chaired the National Academies Board on Physics and Astronomy 2018-2021. Source: https://avi-loeb.medium.com/more-details-on-the-uap-science-advisory-council-825bd250d23c (self-reported biography, 16 June 2026)
+- **Tier 2 named person on the record.** Loeb states flatly that "All the data shared with the council will be unclassified." Source: https://avi-loeb.medium.com/more-details-on-the-uap-science-advisory-council-825bd250d23c (16 June 2026) - DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement
+- **Tier 2 named person on the record.** Loeb states in writing that 'All the data shared with the council will be unclassified.' Source: https://avi-loeb.medium.com/more-details-on-the-uap-science-advisory-council-825bd250d23c - DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement
+- **Tier 2 named person on the record.** Loeb states the council deliberately seats a skeptic as designated devil's advocate: "Including at least one member with a skeptical perspective (or a designated 'devil's advocate') in every committee is highly important." Dr. Michael Shermer occupies that seat. Source: https://avi-loeb.medium.com/more-details-on-the-uap-science-advisory-council-825bd250d23c (16 June 2026) - DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement
+- **Tier 2 named person on the record.** Loeb told DefenseScoop that 'The frequency of the council's meeting cadence has not been decided' and that 'We will make the best lemonade out of the lemons we are given.' Source: https://defensescoop.com/2026/06/17/new-science-advisory-council-forms-to-help-us-government-resolve-the-uap-mystery/
+- **Tier 2 named person on the record.** Loeb wrote that he was 'tasked by the above organizations to create a research team', naming the White House, AARO, ODNI, the FBI and all Intelligence Community members, and identified a core team of Cloete, Sarmiento, Szydagis, Nandal and Eldadi. Source: Avi Loeb, 'A UAP Science Advisory Council to the U.S.', Medium, 29 June 2026
+- **Tier 2 named person on the record.** Loeb's 16 June 2026 roster names fifteen members including Prof. Liberty Vittert Capito, Prof. Robin Hanson and Dr. Kevin Knuth; the roster he supplied to DefenseScoop on 17 June 2026 omits all three and names twelve. The two dated lists by the same source do not match. Source: Compare https://avi-loeb.medium.com/more-details-on-the-uap-science-advisory-council-825bd250d23c (16 June 2026) with https://defensescoop.com/2026/06/17/new-science-advisory-council-forms-to-help-us-government-resolve-the-uap-mystery/ (17 June 2026) - DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement
+- **Tier 2 named person on the record.** Loeb's first published account named a core team of five: Richard Cloete, Regina Sarmiento, Matthew Szydagis, Devesh Nandal and Omer Eldadi. Source: https://avi-loeb.medium.com/a-uap-science-advisory-council-to-the-u-s-f7262e57b0df - DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement
+- **Tier 2 named person on the record.** Loeb's second Medium post listed fifteen members, adding Liberty Vittert Capito (data analysis and statistics), Robin Hanson (statistics and economics) and Kevin Knuth (physics and instrumentation) to the DefenseScoop list. Source: https://avi-loeb.medium.com/more-details-on-the-uap-science-advisory-council-825bd250d23c - DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement
+
+A further 19 claims sit on this node on the board and are not reproduced here.
+
+### Its strongest connections
+
+- UAP Science Advisory Council runs out to **PURSUE - Presidential Unsealing and Reporting System for UAP Encounters** (program, board tier A), a temporal link at Tier 1 documented. The link reads: Council established following the PURSUE releases. Loeb's Medium account references a government disclosure release date of 12 June 2026 immediately before describing his tasking; the council's formation follows the release programme rather than preceding it. Sources: The Sol Foundation - UAP Science Advisory Council announcement, https://thesolfoundation.org/sol-foundation-co-founders-named-to-uap-science-advisory-council/, dated 2026-06-22; US Department of War - PURSUE, https://www.war.gov/UFO/, dated 2026-08-12; Avi Loeb, 'A UAP Science Advisory Council to the U.S.', Medium, https://avi-loeb.medium.com/a-uap-science-advisory-council-to-the-u-s-f7262e57b0df, dated 2026-06-29; DefenseScoop, UAP Science Advisory Council, https://defensescoop.com/2026/06/17/new-science-advisory-council-forms-to-help-us-government-resolve-the-uap-mystery/, dated 2026-06-17.
+- UAP Science Advisory Council runs out to **The Sol Foundation** (institution, board tier A), a denial link at Tier 1 documented. The link reads: Advisory seat conditioned on unclassified-only access. The council's announced terms guarantee its members will never see classified material. Recorded as a denial-type edge: the access granted is precisely the access that cannot resolve the question the members were appointed for. Sources: The Sol Foundation - UAP Science Advisory Council announcement, https://thesolfoundation.org/sol-foundation-co-founders-named-to-uap-science-advisory-council/, dated 2026-06-22.
+- UAP Science Advisory Council comes in from **The Sol Foundation** (institution, board tier A), a institutional link at Tier 1 documented. The link reads: Sol leadership named to the ODNI/FBI council, 22 June 2026. Nolan, Skafish, senior adviser Tim Gallaudet, advisory board member Jacob Haqq-Misra and production lead Ross Howard were all named; the foundation called it 'a fulfillment of its founding mission'. Sources: The Sol Foundation - UAP Science Advisory Council announcement, https://thesolfoundation.org/sol-foundation-co-founders-named-to-uap-science-advisory-council/, dated 2026-06-22; Skeptic / Skeptics Society, 'Michael Shermer Named to White House UAP Science Advisory Council', https://www.skeptic.com/article/michael-shermer-named-to-white-house-uap-science-advisory-council/, dated 2026-06-15; The Sol Foundation, https://www.thesolfoundation.org/, dated 2026-08-12.
+- UAP Science Advisory Council runs out to **Office of the Director of National Intelligence** (institution, board tier A), a institutional link at Tier 1 documented. The link reads: Established by ODNI with FBI support. ODNI announced the council following the PURSUE records releases; the FBI is named as supporting. Sources: The Sol Foundation - UAP Science Advisory Council announcement, https://thesolfoundation.org/sol-foundation-co-founders-named-to-uap-science-advisory-council/, dated 2026-06-22.
+- UAP Science Advisory Council comes in from **All-domain Anomaly Resolution Office (AARO)** (institution, board tier A), a institutional link at Tier 2 named person on the record. The link reads: Council announced 17 June 2026, between Releases 03 and 04. The council was announced as formed at the request of the White House and in coordination with AARO, ODNI, the FBI and other agencies, reporting to a higher-level UAP Governance Board. Sources: Disclosure Archives - AARO releases index, https://disclosurearchives.com/aaro-releases, dated 2026-08-01; AARO - UAP Records page, https://www.aaro.mil/UAP-Records/, dated 2026-08-12; Skeptic / Skeptics Society, 'Michael Shermer Named to White House UAP Science Advisory Council', https://www.skeptic.com/article/michael-shermer-named-to-white-house-uap-science-advisory-council/, dated 2026-06-15; The Sol Foundation, 'Sol Foundation Co-Founders Named to UAP Science Advisory Council', https://thesolfoundation.org/sol-foundation-co-founders-named-to-uap-science-advisory-council/, dated 2026-06-01; DefenseScoop - New science advisory council forms, https://defensescoop.com/2026/06/17/new-science-advisory-council-forms-to-help-us-government-resolve-the-uap-mystery/, dated 2026-06-17; Avi Loeb - More Details on the UAP Science Advisory Council, https://avi-loeb.medium.com/more-details-on-the-uap-science-advisory-council-825bd250d23c, dated 2026-06-20.
+- UAP Science Advisory Council runs out to **Chain of custody** (domain, board tier A), a denial link at Tier 2 named person on the record. The link reads: No budget, no classified access - constitutionally unable to reach the material. The Associated Press reported the council has no budget and no access to classified material, and the Sol Foundation confirmed all shared data is unclassified. An advisory body denied money and clearances cannot audit a special access programme. Sources: Collin Binkley, 'Harvard professor with polarizing alien theories is picked to lead new White House UFO council', Associated Press, https://apnews.com/article/trump-ufo-council-avi-loeb-science-uaps-5798dd793b77aeb2d9baa99586ad8a85, dated 2026-06-30; The Sol Foundation, 'Sol Foundation Co-Founders Named to UAP Science Advisory Council', https://thesolfoundation.org/sol-foundation-co-founders-named-to-uap-science-advisory-council/, dated 2026-06-01.
+- UAP Science Advisory Council comes in from **Garry Nolan** (person, board tier A), a institutional link at Tier 2 named person on the record. The link reads: Named as the council's molecular biologist. The scientist who published the first peer-reviewed UAP materials analysis is seated on a body with no access to the government's own materials. Sources: Skeptic / Skeptics Society, 'Michael Shermer Named to White House UAP Science Advisory Council', https://www.skeptic.com/article/michael-shermer-named-to-white-house-uap-science-advisory-council/, dated 2026-06-15; The Sol Foundation, 'Sol Foundation Co-Founders Named to UAP Science Advisory Council', https://thesolfoundation.org/sol-foundation-co-founders-named-to-uap-science-advisory-council/, dated 2026-06-01.
+- UAP Science Advisory Council comes in from **Abraham 'Avi' Loeb** (person, board tier B), a institutional link at Tier 2 named person on the record. The link reads: Chair, appointed June 2026. DefenseScoop reports Loeb formed and leads the council; the Sol Foundation says it was announced by ODNI with FBI support. The two accounts differ on its legal character. Sources: Skeptic / Skeptics Society, 'Michael Shermer Named to White House UAP Science Advisory Council', https://www.skeptic.com/article/michael-shermer-named-to-white-house-uap-science-advisory-council/, dated 2026-06-15; Avi Loeb, 'A UAP Science Advisory Council to the U.S.', Medium, https://avi-loeb.medium.com/a-uap-science-advisory-council-to-the-u-s-f7262e57b0df, dated 2026-06-29; Collin Binkley, 'Harvard professor with polarizing alien theories is picked to lead new White House UFO council', Associated Press, https://apnews.com/article/trump-ufo-council-avi-loeb-science-uaps-5798dd793b77aeb2d9baa99586ad8a85, dated 2026-06-30; DefenseScoop - New science advisory council forms, https://defensescoop.com/2026/06/17/new-science-advisory-council-forms-to-help-us-government-resolve-the-uap-mystery/, dated 2026-06-17; Sol Foundation, co-founders named to UAP Science Advisory Council, https://thesolfoundation.org/sol-foundation-co-founders-named-to-uap-science-advisory-council/, dated 2026-06-22.
+- UAP Science Advisory Council runs out to **Timothy Gallaudet** (person, board tier B), a institutional link at Tier 2 named person on the record. The link reads: Gallaudet named to the council as its oceanographer. A retired rear admiral and former acting NOAA administrator, and a Sol Foundation senior adviser, seated on the government's outside science body. Sources: Skeptic / Skeptics Society, 'Michael Shermer Named to White House UAP Science Advisory Council', https://www.skeptic.com/article/michael-shermer-named-to-white-house-uap-science-advisory-council/, dated 2026-06-15; The Sol Foundation, 'Sol Foundation Co-Founders Named to UAP Science Advisory Council', https://thesolfoundation.org/sol-foundation-co-founders-named-to-uap-science-advisory-council/, dated 2026-06-01; DefenseScoop, 'Data alone is not disclosure', https://defensescoop.com/2026/05/14/uap-trump-first-pursue-ufo-file-drop/, dated 2026-05-14; DefenseScoop, UAP Science Advisory Council, https://defensescoop.com/2026/06/17/new-science-advisory-council-forms-to-help-us-government-resolve-the-uap-mystery/, dated 2026-06-17.
+- UAP Science Advisory Council comes in from **Peter Skafish** (person, board tier B), a institutional link at Tier 2 named person on the record. The link reads: Named as the council's cultural anthropologist. Skafish's appointment completes the Sol Foundation's placement of its executive leadership on the federal advisory body. Sources: Skeptic / Skeptics Society, 'Michael Shermer Named to White House UAP Science Advisory Council', https://www.skeptic.com/article/michael-shermer-named-to-white-house-uap-science-advisory-council/, dated 2026-06-15; The Sol Foundation, 'Sol Foundation Co-Founders Named to UAP Science Advisory Council', https://thesolfoundation.org/sol-foundation-co-founders-named-to-uap-science-advisory-council/, dated 2026-06-01.
+- UAP Science Advisory Council comes in from **Matthew Szydagis** (person, board tier C), a institutional link at Tier 2 named person on the record. The link reads: Named for instrumentation and data collection. The government's outside science body took its detector expertise from a self-funded civil expedition group, UAPx, rather than from a national laboratory. Sources: Avi Loeb, 'A UAP Science Advisory Council to the U.S.', Medium, https://avi-loeb.medium.com/a-uap-science-advisory-council-to-the-u-s-f7262e57b0df, dated 2026-06-29; Skeptic / Skeptics Society, 'Michael Shermer Named to White House UAP Science Advisory Council', https://www.skeptic.com/article/michael-shermer-named-to-white-house-uap-science-advisory-council/, dated 2026-06-15.
+- UAP Science Advisory Council comes in from **Richard Cloete** (person, board tier C), a institutional link at Tier 2 named person on the record. The link reads: Named for data analysis and AI tools. Cloete brings the Galileo Project detection-and-tracking pipeline published in the Journal of Astronomical Instrumentation in 2023. Sources: Avi Loeb, 'A UAP Science Advisory Council to the U.S.', Medium, https://avi-loeb.medium.com/a-uap-science-advisory-council-to-the-u-s-f7262e57b0df, dated 2026-06-29; Cloete, Bridgham, Dobroshinsky, Ezell, Fedorenko et al., 'Integrated Computing Platform for Detection and Tracking of Unidentified Aerial Phenomena (UAP)', Journal of Astronomical Instrumentation, https://doi.org/10.1142/S2251171723400081, dated 2023-03-01.
+- UAP Science Advisory Council comes in from **Jacob Haqq-Misra** (person, board tier C), a institutional link at Tier 2 named person on the record. The link reads: Astrobiology seat, via the Sol Foundation advisory board. One of five Sol-affiliated appointments announced by the foundation in June 2026. Sources: The Sol Foundation, 'Sol Foundation Co-Founders Named to UAP Science Advisory Council', https://thesolfoundation.org/sol-foundation-co-founders-named-to-uap-science-advisory-council/, dated 2026-06-01.
+- UAP Science Advisory Council runs out to **UAP Governance Board** (institution, board tier C), a institutional link at Tier 2 named person on the record. The link reads: reports to. The council reports to the interagency UAP Governance Board, which the Sol Foundation describes as coordinating across military, law enforcement and intelligence community agencies. Sources: DefenseScoop, UAP Science Advisory Council, https://defensescoop.com/2026/06/17/new-science-advisory-council-forms-to-help-us-government-resolve-the-uap-mystery/, dated 2026-06-17; Sol Foundation, co-founders named to UAP Science Advisory Council, https://thesolfoundation.org/sol-foundation-co-founders-named-to-uap-science-advisory-council/, dated 2026-06-22.
+- UAP Science Advisory Council runs out to **Robertson Panel** (program, board tier A), a temporal link at Tier 3 stated inference. The link reads: third iteration of the external-scientific-panel pattern after Robertson (1953) and Condon (1966-68). Each prior panel supplied an authoritative dismissal on terms set by the sponsoring agency. Whether this one differs depends on its access to the Governance Board's classified holdings, which has not been publicly described. Sources: AARO Historical Record Report Volume I (covering Robertson and Condon), https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF, dated 2024-03-08.
+
+It carries 17 connections in total on the board.
+
 ## Unidentified Aerial Phenomena Task Force (UAPTF)
 
 Unidentified Aerial Phenomena Task Force (UAPTF) is a program on the board; board tier A, named in sworn testimony or primary documents as directly inside the programme; dates 2020 to 2022; axes C2 A3 D2; 16 connections; in the research band.
@@ -1129,7 +1233,7 @@ Roles the board assigns it: oversight, concealment, research, disclosure.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 83 of 1170, score 69). 19 connections, 6 of them custody/funding/programmatic. Axes C2/A3/D2.
+Re-graded A on a global pass (rank 87 of 1138, score 69). 19 connections, 6 of them custody/funding/programmatic. Axes C2/A3/D2.
 
 ### The claims on the record
 
@@ -1172,9 +1276,95 @@ Re-graded A on a global pass (rank 83 of 1170, score 69). 19 connections, 6 of t
 
 It carries 19 connections in total on the board.
 
+## NASA UAP Independent Study Team
+
+NASA UAP Independent Study Team is a program on the board; board tier B, documented channel and capability, programme role indicated but not yet nailed to a primary source; dates 2022 to 2023; axes C0 A1 D3; 9 connections; in the research band.
+
+In one line: Federal advisory study team, 2022-2023.
+
+### What it is
+
+The NASA Unidentified Anomalous Phenomena Independent Study Team was a 16-member external panel convened by NASA in 2022 under the Earth Science Advisory Committee, chaired by astrophysicist David Spergel of the Simons Foundation, with Dr. Daniel Evans of NASA Headquarters as Designated Federal Official. It held a single public meeting on 31 May 2023 and delivered its final report on 14 September 2023. On the same day NASA created a Director of UAP Research position and initially declined to name the appointee.
+
+### Why it is implicated
+
+The panel is a study in the shape of a hole. It was chartered to advise NASA on UAP using only unclassified civilian, commercial and open-source data, and it says so plainly, which means the one body assembled to bring scientific rigor to the question was structurally barred from the classified holdings where the question actually lives. Its report says the quiet part in print: military and intelligence sensor data are classified 'often because of what the imagery could reveal about U.S. technical capabilities to our adversaries, and not because of what is actually in the images,' and that these classified observations 'enhance the sense of mystery and conspiracy surrounding UAP, and they present an obstacle to scientific inquiry.' That is a federally chartered panel, in an official NASA publication, stating that classification is generating the appearance of concealment. Three of its sixteen members came from commercial remote-sensing, space-hardware and private-equity defense firms, Maxar, Redwire and AE Industrial Partners, and two from the FAA, making the panel a map of who holds the civilian sensor data that would matter. And the harassment record around the panel and the withheld name of NASA's UAP research director are themselves artifacts: the cost of association was high enough that the agency initially treated the identity of a civil servant as a security matter.
+
+### The longer account
+
+NASA's Independent Study Team was born of a specific institutional bet: that the agency with the most public trust and the least security baggage could drag UAP into normal science. The bet was placed by Administrator Bill Nelson and executed by the Science Mission Directorate under Nicola Fox, following her predecessor Thomas Zurbuchen, with the activity graciously hosted, in the report's own words, by NASA's Earth Science Division under the Earth Science Advisory Committee. That administrative placement is worth pausing on: a panel about unidentified objects in the airspace was parked in the division that studies the planet's surface and atmosphere. It kept the activity out of astrophysics and out of anything that would have implied a search for technology.
+
+The roster reads as a deliberate coalition of civilian instrumentation. Chair David Spergel of the Simons Foundation. Anamaria Berea of George Mason, Federica Bianco of Delaware, Paula Bontempi of Rhode Island, Jennifer Buss of the Potomac Institute for Policy Studies, science journalist Nadia Drake, David Grinspoon of the Planetary Science Institute, retired astronaut Captain Scott Kelly, Matt Mountain of AURA, Joshua Semeter of Boston University, and Shelley Wright of UC San Diego. Then the operators: Warren Randolph and Karlin Toner from the Federal Aviation Administration, Walter Scott from Maxar Technologies, Mike Gold from Redwire Space, and Reggie Brothers from AE Industrial Partners. Two FAA officials, one commercial satellite imaging executive, one space infrastructure executive, and one defense-focused private equity operator who had previously been Under Secretary for Science and Technology at DHS. If the panel's recommendations pointed anywhere, they pointed at data these institutions own.
+
+And they did. The report recommends NASA leverage its Earth-observing assets to probe local environmental conditions associated with UAP detected by other means, and 'explore enhancing collaborations with the U.S. commercial remote-sensing industry, which offer powerful constellations of high-resolution Earth-observing satellites.' It recommends multispectral and hyperspectral acquisition, AI and machine learning applied to anomaly detection, a crowdsourcing system built on open-source smartphone apps, and better leveraging of the Aviation Safety Reporting System, which NASA operates for the FAA, as 'a critical database for the whole-of-government effort.' Every one of those recommendations routes future UAP data through civilian and commercial channels rather than military ones. Read charitably, that is a strategy for building an evidentiary base outside the classification perimeter. Read uncharitably, it is a strategy for building an evidentiary base that will never intersect the classification perimeter.
+
+The panel's own frustration surfaces in the passage that matters most. Discussing why existing observations cannot resolve UAP, the report states: 'In addition, much of the data collected by military sensors or intelligence satellites are classified, often because of what the imagery could reveal about U.S. technical capabilities to our adversaries, and not because of what is actually in the images. While essential for security, these classified observations enhance the sense of mystery and conspiracy surrounding UAP, and they present an obstacle to scientific inquiry.' A federal advisory panel wrote, in a public report, that the government's classification practice is manufacturing the appearance of a cover-up and blocking the science that would dispel it. That sentence is a finding about the concealment architecture, delivered by scientists who could not see inside it.
+
+On the evidence question the report is careful and narrow: 'To date, in the peer-reviewed scientific literature, there is no conclusive evidence suggesting an extraterrestrial origin for UAP.' The qualifier is doing work, peer-reviewed literature is precisely the corpus from which classified holdings are absent. The panel also recorded that then-AARO Director Sean Kirkpatrick reported at its 31 May 2023 public meeting that AARO had collected more than 800 reported events, against 263 reports filed in the 17 years before March 2021.
+
+The cost of participation is documented in the report itself: team members received hate mail from colleagues, were ridiculed and criticized on social media, and had firsthand knowledge of colleagues warned away from technosignature research on the grounds that it could damage scientific credibility and promotion prospects. On 14 September 2023 NASA announced the creation of a Director of UAP Research and Administrator Nelson said the identity would be withheld to prevent harassment. NASA reversed within hours and named Mark McInerney, a former NASA liaison to the Department of Defense on UAP matters. The reversal is instructive twice over: it shows the agency's first instinct was concealment framed as protection, and it shows how quickly that instinct collapsed under press pressure, which is not how the Department of Defense's instances of the same instinct have behaved.
+
+The statutory tie is direct. 50 U.S.C. 3373(c)(6) requires AARO to coordinate with NASA, among other agencies. Burlison's 22 May 2026 MITRE interrogatories demand identification of all UAP-related work MITRE performed for or with NASA. NASA sits inside the legal architecture of the program question while its own expert panel sat outside the data.
+
+### What it has denied
+
+NASA's posture is not denial but bounded agnosticism: the report asserts only that the peer-reviewed literature contains no conclusive evidence of extraterrestrial origin, while simultaneously stating that the relevant military and intelligence data are classified and inaccessible. NASA's initial decision to withhold the name of its own UAP research director, reversed within hours, is a concealment artifact in its own right.
+
+Roles the board assigns it: research, disclosure, oversight.
+
+### Open questions on this node
+
+- Did any panel member hold clearances permitting review of AARO or SAP-controlled material, or was the entire panel unclassified? The report describes unclassified sourcing but does not state member clearance status.
+- Who selected the sixteen members, and against what criteria did three commercial space and defense-investment executives and two FAA officials join a scientific advisory panel?
+- What did NASA's Terms of Reference, the eight charge elements the report responds to, actually say? The full Terms of Reference text is not reproduced in the public report summary.
+- Which colleagues warned other scientists away from technosignature research, and were any of those warnings institutional rather than personal?
+- Has NASA implemented any of the panel's recommendations, commercial remote-sensing collaboration, crowdsourced smartphone data, ASRS integration, and with what budget line?
+- What UAP-related work, if any, has MITRE or another FFRDC performed for NASA? Burlison asked; no answer is public.
+- Who made the initial decision to withhold the UAP research director's name, and on what threat assessment?
+
+### Why it holds its tier
+
+Re-graded B on a global pass (rank 177 of 1138, score 48). 10 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D3.
+
+### The claims on the record
+
+- **Tier 1 documented.** 'Analysis of UAP data is hampered by poor sensor calibration, the lack of multiple measurements, the lack of sensor metadata.' Source: NASA UAP Independent Study Team Final Report, 14 September 2023
+- **Tier 1 documented.** NASA announced a Director of UAP Research at the 14 September 2023 briefing without naming the appointee; a subsequent statement identified Mark McInerney. Source: The Debrief, 14 September 2023
+- **Tier 1 documented.** NASA commissioned the sixteen-member UAP Independent Study Team on 24 May 2022 under chair David Spergel with Daniel Evans as designated federal official; it began work 24 October 2022, held one public meeting on 31 May 2023, and reported on 14 September 2023. Source: NASA announcements and the team's final report
+- **Tier 1 documented.** NASA is a statutorily named coordination partner for AARO under 50 U.S.C. 3373(c)(6), and Rep. Burlison's 22 May 2026 MITRE interrogatories demand identification of all UAP-related MITRE work performed for or with NASA. Source: 50 U.S.C. 3373(c)(6), https://uscode.house.gov/view.xhtml?req=%28title%3A50+section%3A3373+edition%3Aprelim%29; Burlison to MITRE, 22 May 2026, Enclosure Section II.3, https://burlison.house.gov/sites/evo-subsites/burlison.house.gov/files/evo-media-document/mitre_uap-legislative-interrogatories_press.pdf
+- **Tier 1 documented.** Panel membership included two Federal Aviation Administration officials (Warren Randolph and Dr. Karlin Toner), Dr. Walter Scott of Maxar Technologies, Mr. Mike Gold of Redwire Space, and Dr. Reggie Brothers of AE Industrial Partners, alongside academic and journalist members. Source: NASA UAP Independent Study Team Report, 14 September 2023, member list, https://smd-cms.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf
+- **Tier 1 documented.** The NASA UAP Independent Study Team was chaired by Dr. David Spergel of the Simons Foundation, with Dr. Daniel Evans of NASA Headquarters as Designated Federal Official, and comprised 16 members. Source: NASA, 'Unidentified Anomalous Phenomena Independent Study Team Report,' 14 September 2023, front matter, https://smd-cms.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf
+- **Tier 1 documented.** The activity was administratively hosted by NASA's Earth Science Division under the Earth Science Advisory Committee, not by the Astrophysics or Planetary Science divisions. Source: NASA UAP Independent Study Team Report, 14 September 2023, Acknowledgments, https://smd-cms.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf
+- **Tier 1 documented.** The panel recommended NASA use its Earth-observing assets to probe environmental conditions associated with UAP detected by other means and 'explore enhancing collaborations with the U.S. commercial remote-sensing industry, which offer powerful constellations of high-resolution Earth-observing satellites.' Source: NASA UAP Independent Study Team Report, 14 September 2023, Conclusions, https://smd-cms.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf
+- **Tier 1 documented.** The panel recommended that the Aviation Safety Reporting System for commercial pilot UAP reporting be better leveraged as 'a critical database for the whole-of-government effort to understand UAP.' Source: NASA UAP Independent Study Team Report, 14 September 2023, Conclusions, https://smd-cms.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf
+- **Tier 1 documented.** The panel's charge and data basis were limited to unclassified sources: civilian government, commercial and other open data, with the report situating NASA's role inside a whole-of-government framework led by AARO. Source: NASA UAP Independent Study Team Report, 14 September 2023, Executive Summary and Framework of Recommendations, https://smd-cms.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf
+- **Tier 1 documented.** The report concluded that no evidence of extraterrestrial origin was found and that poor-quality and limited data characterises many unexplained events, recommending a rigorous evidence-based approach using AI and citizen observers. Source: NASA UAP Independent Study Team Final Report, 14 September 2023
+- **Tier 1 documented.** The report documents that Study Team members received hate mail from colleagues due to their membership, were ridiculed and criticized on social media, and had firsthand knowledge of colleagues warned to stay away from extraterrestrial technosignature research because it 'could damage their scientific credibility and promotion potential.' Source: NASA UAP Independent Study Team Report, 14 September 2023, https://smd-cms.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf
+- **Tier 1 documented.** The report recommends enhancing the Aviation Safety Reporting System for commercial pilot UAP reporting and developing crowdsourced smartphone-based citizen reporting. Source: NASA UAP Independent Study Team Final Report, 14 September 2023
+- **Tier 1 documented.** The report records that Dr. Sean Kirkpatrick reported at the panel's public meeting that AARO had collected more than 800 reported events, including FAA data, against 263 reports filed in the 17 years prior to March 2021. Source: NASA UAP Independent Study Team Report, 14 September 2023, https://smd-cms.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf
+- **Tier 1 documented.** The report states that much of the data collected by military sensors or intelligence satellites is classified 'often because of what the imagery could reveal about U.S. technical capabilities to our adversaries, and not because of what is actually in the images,' and that 'these classified observations enhance the sense of mystery and conspiracy surrounding UAP, and they present an obstacle to scientific inquiry.' Source: NASA UAP Independent Study Team Report, 14 September 2023, https://smd-cms.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf
+- **Tier 1 documented.** The report's acknowledgments name Administrator Bill Nelson, Science Mission Directorate Associate Administrator Dr. Nicky Fox and her predecessor Dr. Thomas Zurbuchen, and NASA UAP Press Secretary Katherine Rohloff. Source: NASA UAP Independent Study Team Report, 14 September 2023, Acknowledgments, https://smd-cms.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf
+- **Tier 1 documented.** The report's evidentiary conclusion is bounded to the open literature: 'To date, in the peer-reviewed scientific literature, there is no conclusive evidence suggesting an extraterrestrial origin for UAP.' Source: NASA UAP Independent Study Team Report, 14 September 2023, https://smd-cms.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf
+- **Tier 1 documented.** The team deliberated its sub-panel reports in full at a public meeting held on 31 May 2023. Source: NASA UAP Independent Study Team Report, 14 September 2023, 'Organization of this Report', https://smd-cms.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf
+- **Tier 1 documented.** The team was chaired by David Spergel with Daniel Evans as designated federal official, and its final report was released 14 September 2023. Source: NASA UAP Independent Study Team Final Report; NASA UAP program page
+- **Tier 2 named person on the record.** On 14 September 2023 NASA announced a Director of UAP Research and Administrator Bill Nelson said the identity would be withheld to prevent harassment; NASA reversed the same day and identified the appointee as Mark McInerney, a former NASA liaison to the Pentagon on UAP matters. Source: The Hill, 'NASA identifies UFO chief despite threat concerns,' 14 September 2023, https://thehill.com/homenews/administration/4207099-nasa-identifies-ufo-chief-despite-threat-concerns/; Space.com, 'NASA appoints new head of UFO research', https://www.space.com/nasa-names-head-of-uap-research
+
+### Its strongest connections
+
+- NASA UAP Independent Study Team comes in from **National Aeronautics and Space Administration** (institution, board tier A), a programmatic link at Tier 1 documented. The link reads: NASA chartered and published the Independent Study Team report. The 16-member panel reported on 14 September 2023 with findings on data curation, satellite assets and the classification obstacle. Sources: NASA UAP Independent Study Team Report, https://smd-cms.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf, dated 2023-09-14.
+- NASA UAP Independent Study Team runs out to **ODNI Preliminary Assessment: Unidentified Aerial Phenomena (25 June 2021)** (document, board tier A), a investigative link at Tier 1 documented. The link reads: Both diagnose the same evidentiary deficit. ODNI: military sensors 'are not generally suited for identifying UAP.' NASA: analysis is 'hampered by poor sensor calibration, the lack of multiple measurements, the lack of sensor metadata.' Sources: ODNI Preliminary Assessment: Unidentified Aerial Phenomena (PDF), https://archive.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf, dated 2021-06-25; NASA UAP Independent Study Team Final Report (PDF), https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf, dated 2023-09-14.
+- NASA UAP Independent Study Team comes in from **Americans for Safe Aerospace** (institution, board tier B), a programmatic link at Tier 1 documented. The link reads: Shared reporting-reform agenda: ASRS and FAA pilot reporting. The NASA study team recommended enhancing the Aviation Safety Reporting System for commercial pilot UAP reporting; ASA performs the equivalent intake function for aircrew outside the chain of command. Sources: NASA UAP Independent Study Team Final Report (PDF), https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf, dated 2023-09-14; House Oversight - Graves written testimony (PDF), https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf, dated 2023-07-26.
+- NASA UAP Independent Study Team comes in from **Michael Gold** (person, board tier C), a institutional link at Tier 1 documented. The link reads: Member of the study team. Gold is listed among the team's members and later testified to Congress on its findings. Sources: NASA UAP Independent Study Team Final Report (PDF), https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf, dated 2023-09-14; House Oversight - Gold written testimony (PDF), https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Gold.pdf, dated 2024-11-13.
+- NASA UAP Independent Study Team comes in from **Nicola J. Fox** (person, board tier C), a institutional link at Tier 1 documented. The link reads: NASA science chief at the report release briefing. Fox appeared at the 14 September 2023 briefing where NASA announced a Director of UAP Research without naming the appointee. Sources: The Debrief - NASA IST publishes findings, agency appoints UAP research director, https://thedebrief.org/nasas-uap-independent-study-team-publishes-its-findings-as-the-agency-appoints-a-new-nasa-director-of-uap-research/, dated 2023-09-14.
+- NASA UAP Independent Study Team comes in from **David N. Spergel** (person, board tier C), a institutional link at Tier 1 documented. The link reads: Chaired the NASA UAP Independent Study Team. Commissioned 24 May 2022, one public meeting 31 May 2023, report delivered and team dissolved 14 September 2023. Sources: NASA UAP Independent Study Team Final Report (PDF), https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf, dated 2023-09-14; Wikipedia: NASA Unidentified Anomalous Phenomena Independent Study Team, https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team, dated 2026-08-12.
+- NASA UAP Independent Study Team runs out to **All-domain Anomaly Resolution Office (AARO)** (institution, board tier A), a institutional link at Tier 2 named person on the record. The link reads: Ran concurrently with, and separately from, AARO. Two federal UAP bodies operated in parallel through 2022-2023 with no public mechanism for the unclassified panel to see AARO's classified holdings. Sources: Wikipedia: NASA Unidentified Anomalous Phenomena Independent Study Team, https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team, dated 2026-08-12.
+- NASA UAP Independent Study Team comes in from **PURSUE - Presidential Unsealing and Reporting System for UAP Encounters** (program, board tier A), a behavioral link at Tier 2 named person on the record. The link reads: Metadata stripping defeats the study team's core recommendation. NASA's panel identified missing sensor metadata as the principal obstacle to analysis; the 2026 releases removed exactly that metadata before publication. Sources: SCU - PURSUE Release #1 falls short of scientific transparency, https://www.explorescu.org/post/scientific-coalition-for-uap-studies-finds-pursue-release-1-falls-short-of-scientific-transparency, dated 2026-05-13; NASA UAP Independent Study Team Final Report (PDF), https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf, dated 2023-09-14.
+- NASA UAP Independent Study Team comes in from **David N. Spergel** (person, board tier C), a behavioral link at Tier 2 named person on the record. The link reads: Panel worked under sustained public harassment. Gold testified that designated federal officer Daniel Evans 'did an amazing job under difficult conditions' - the euphemism recording the abuse the panel absorbed. Sources: House Oversight - Gold written testimony (PDF), https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Gold.pdf, dated 2024-11-13.
+- NASA UAP Independent Study Team runs out to **Chain of custody** (domain, board tier A), a denial link at Tier 3 stated inference. The link reads: Concluded data was insufficient - having been given only the unclassified record. Sixteen serious scientists examining only unclassified material concluded that unclassified material is insufficient. The finding measures the panel's access, not the government's holdings. Sources: NASA UAP Independent Study Team Final Report, https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf, dated 2023-09-14; Wikipedia: NASA Unidentified Anomalous Phenomena Independent Study Team, https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team, dated 2026-08-12.
+
 ## The Galileo Project
 
-The Galileo Project is a program on the board; board tier B, documented channel and capability, programme role indicated but not yet nailed to a primary source; dates 2021; axes C1 A0 D3; 9 connections; in the research band.
+The Galileo Project is a program on the board; board tier B, documented channel and capability, programme role indicated but not yet nailed to a primary source; dates 2021; axes C1 A0 D3; 8 connections; in the research band.
 
 In one line: Harvard-based unclassified UAP and interstellar-object instrumentation programme, founded July 2021.
 
@@ -1219,7 +1409,7 @@ Roles the board assigns it: research, disclosure.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 442 of 1170, score 33). 9 connections, 1 of them custody/funding/programmatic. Axes C1/A0/D3.
+Re-graded B on a global pass (rank 441 of 1138, score 33). 9 connections, 1 of them custody/funding/programmatic. Axes C1/A0/D3.
 
 ### The claims on the record
 
@@ -1245,14 +1435,14 @@ Re-graded B on a global pass (rank 442 of 1170, score 33). 9 connections, 1 of t
 ### Its strongest connections
 
 - The Galileo Project comes in from **Harvard-Smithsonian Center for Astrophysics** (institution, board tier C), a institutional link at Tier 1 documented. The link reads: Host institution of the Galileo Project. The two share more than a host: the instrument paper lists the Center for Astrophysics and the Galileo Project as separate affiliations at the SAME address, 60 Garden Street, Cambridge, Massachusetts, with six of its sixteen authors carrying both and correspondence going to a cfa.harvard.edu address. The project's own overview paper captions its first all-sky observatory as sitting 'on the roof of the Harvard College Observatory (Cambridge, MA)'. The relationship is a hosted research programme with shared staff, not an administrative label. Sources: Domine et al., Sensors 2025, arXiv:2411.07956, author affiliations, https://arxiv.org/abs/2411.07956, dated 2025-01-28; Loeb and Laukien, 'Overview of the Galileo Project', arXiv:2209.02479, Figure 1, https://arxiv.org/abs/2209.02479, dated 2022-09-02; https://www.cfa.harvard.edu/research/galileo-project, https://www.cfa.harvard.edu/research/galileo-project; https://galileo.hsites.harvard.edu/about, https://galileo.hsites.harvard.edu/about
+- The Galileo Project runs out to **Cambridge, Massachusetts** (location, board tier C), a research link at Tier 1 documented. The link reads: The Galileo Project is based at the Harvard-Smithsonian Center for Astrophysics. Avi Loeb founded the project in 2021 to build independent multi-modal observatories, addressing the structural problem that every high-quality UAP dataset is held by agencies that will not release it. Sources: ODNI Preliminary Assessment: Unidentified Aerial Phenomena, https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf, dated 2021-06-25.
 - The Galileo Project comes in from **Richard Cloete** (person, board tier C), a institutional link at Tier 1 documented. The link reads: Lead author of the project's detection and tracking computing platform. Published in the Journal of Astronomical Instrumentation in 2023 - pipeline and classifier architecture published before the observations. Sources: Cloete, Bridgham, Dobroshinsky, Ezell, Fedorenko et al., 'Integrated Computing Platform for Detection and Tracking of Unidentified Aerial Phenomena (UAP)', Journal of Astronomical Instrumentation, https://doi.org/10.1142/S2251171723400081, dated 2023-03-01.
 - The Galileo Project comes in from **Sarah Little** (person, board tier C), a investigative link at Tier 1 documented. The link reads: Co-author on the 2025 geomagnetic variometer instrumentation paper. Published in Geoscientific Instrumentation, Methods and Data Systems in November 2025 - a Copernicus geophysics journal publishing hardware installed specifically to look for UAP signatures. Sources: Vervelidou, Delacroix, Domine, Kelderman, Little et al., 'The deployment of a geomagnetic variometer station as auxiliary instrumentation for the study of Unidentified Aerial Phenomena', Geoscientific Instrumentation, Methods and Data Systems 14:335, https://doi.org/10.5194/gi-14-335-2025, dated 2025-11-26.
-- The Galileo Project runs out to **Cambridge, Massachusetts** (location, board tier C), a research link at Tier 1 documented. The link reads: The Galileo Project is based at the Harvard-Smithsonian Center for Astrophysics. Avi Loeb founded the project in 2021 to build independent multi-modal observatories, addressing the structural problem that every high-quality UAP dataset is held by agencies that will not release it. Sources: ODNI Preliminary Assessment: Unidentified Aerial Phenomena, https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf, dated 2021-06-25.
 - The Galileo Project comes in from **Wesley A. Watters** (person, board tier C), a institutional link at Tier 1 documented. The link reads: Research coordinator and co-editor of the JAI instrumentation special issue. The special issue is the artefact that established a peer-reviewed instrumentation literature in this field rather than a claims literature. Sources: Loeb & Laukien, 'Overview of the Galileo Project', Journal of Astronomical Instrumentation, https://doi.org/10.1142/S2251171723400032, dated 2023-02-13.
 - The Galileo Project runs out to **ODNI Preliminary Assessment: Unidentified Aerial Phenomena (25 June 2021)** (document, board tier A), a temporal link at Tier 2 named person on the record. The link reads: Founded in direct response to the June 2021 ODNI assessment. The project's founding rationale was the ODNI report's admission of an evidentiary vacuum, together with NASA administrator Bill Nelson's call for scientific analysis. Sources: Wikipedia: The Galileo Project, https://en.wikipedia.org/wiki/The_Galileo_Project, dated 2026-08-12.
 - The Galileo Project comes in from **Abraham 'Avi' Loeb** (person, board tier B), a institutional link at Tier 2 named person on the record. The link reads: Founder, 26 July 2021. Founded four weeks after the ODNI preliminary assessment on the premise that the way past a classified impasse is to build unclassified instruments and publish. Sources: Wikipedia: The Galileo Project, https://en.wikipedia.org/wiki/The_Galileo_Project, dated 2026-08-12; The Galileo Project, Harvard University, https://projects.iq.harvard.edu/galileo, dated 2026-08-12.
 - The Galileo Project runs out to **Galileo Project Pacific Ocean expedition to the CNEOS 2014-01-08 (IM1) site, June-July 2023** (event, board tier B), a programmatic link at Tier 2 named person on the record. The link reads: Ran the $1.6m Pacific recovery expedition. A magnetic sled dragged across the seabed off Papua New Guinea at a location determined from seismometer data; several hundred sub-millimetre spherules recovered. Sources: Wikipedia: CNEOS 2014-01-08, https://en.wikipedia.org/wiki/CNEOS_2014-01-08, dated 2026-08-12; Loeb et al., 'Recovery and Classification of Spherules from the Pacific Ocean Site of the CNEOS 2014 January 8 (IM1) Bolide', Research Notes of the AAS, https://doi.org/10.3847/2515-5172/ad2370, dated 2024-01-31.
-- The Galileo Project comes in from **Cambridge, Massachusetts (alias of l-cambridge)** (location, board tier C), a geographic link at Tier 2 named person on the record. The link reads: first Galileo Observatory, Harvard College Observatory roof. Figure 1 of the project's own overview paper captions the 'First all-sky Galileo Observatory for UAP on the roof of the Harvard College Observatory (Cambridge, MA)'. This is the physical instrument site for the instrumented search, not merely an administrative address. Sources: Loeb and Laukien, 'Overview of the Galileo Project', arXiv:2209.02479, Figure 1 caption, https://arxiv.org/abs/2209.02479, dated 2022-09-02; https://galileo.hsites.harvard.edu/, https://galileo.hsites.harvard.edu/; https://en.wikipedia.org/wiki/The_Galileo_Project, https://en.wikipedia.org/wiki/The_Galileo_Project
+- The Galileo Project comes in from **Cambridge, Massachusetts** (location, board tier C), a geographic link at Tier 2 named person on the record. The link reads: first Galileo Observatory, Harvard College Observatory roof. Figure 1 of the project's own overview paper captions the 'First all-sky Galileo Observatory for UAP on the roof of the Harvard College Observatory (Cambridge, MA)'. This is the physical instrument site for the instrumented search, not merely an administrative address. Sources: Loeb and Laukien, 'Overview of the Galileo Project', arXiv:2209.02479, Figure 1 caption, https://arxiv.org/abs/2209.02479, dated 2022-09-02; https://galileo.hsites.harvard.edu/, https://galileo.hsites.harvard.edu/; https://en.wikipedia.org/wiki/The_Galileo_Project, https://en.wikipedia.org/wiki/The_Galileo_Project
 
 ## Nolan, Vallee, Jiang & Lemke (2022), Progress in Aerospace Sciences 128:100788
 
@@ -1296,7 +1486,7 @@ Roles the board assigns it: research, disclosure.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 568 of 1170, score 29). 8 connections, 0 of them custody/funding/programmatic. Axes C2/A0/D2.
+Re-graded B on a global pass (rank 564 of 1138, score 29). 8 connections, 0 of them custody/funding/programmatic. Axes C2/A0/D2.
 
 ### The claims on the record
 
@@ -1380,7 +1570,7 @@ Roles the board assigns it: disclosure, oversight, concealment, research.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 571 of 1170, score 29). 8 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.
+Re-graded B on a global pass (rank 566 of 1138, score 29). 8 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.
 
 ### The claims on the record
 
@@ -1464,7 +1654,7 @@ Roles the board assigns it: research, disclosure.
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 794 of 1170, score 22). 7 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D3.
+Re-graded C on a global pass (rank 776 of 1138, score 22). 7 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D3.
 
 ### The claims on the record
 
@@ -1491,88 +1681,6 @@ Re-graded C on a global pass (rank 794 of 1170, score 22). 7 connections, 1 of t
 - 'The Pentagon's UFO Program Is Real [Here's How It Works!]' runs out to **'Manhattan Project 2.0' (alleged secrecy architecture)** (program, board tier A), a programmatic link at Tier 2 named person on the record. The link reads: The episode's thesis is the Manhattan Project 2.0 architecture. The episode description explicitly derives the modern system from the Manhattan Project, the Atomic Energy Commission and Cold War intelligence structures - the same lineage Gerb sets out at length in his May and June 2026 two-part series. Sources: American Alchemy - 'The Pentagon's UFO Program Is Real [Here's How It Works!]', https://www.youtube.com/watch?v=u7g5Sn1DJF4, dated 2026-01-11; UAP Gerb - 'The Manhattan Project 2.0' Vol.1, https://www.youtube.com/watch?v=jR-h5p2bd-A, dated 2026-05-01; UAP Gerb - 'Special Access Required' Vol.2, https://www.youtube.com/watch?v=6MsmPrpQqa8, dated 2026-06-19.
 - 'The Pentagon's UFO Program Is Real [Here's How It Works!]' runs out to **Independent media as the disclosure substrate** (domain, board tier C), a investigative link at Tier 2 named person on the record. The link reads: the most detailed structural reconstruction in circulation, published on a YouTube channel. A three-hour-plus American Alchemy episode published 11 January 2026 in which UAP Gerb walks Jesse Michels through air force bases, deep underground facilities and federally funded research organisations alleged to be involved in retrieval and exploitation. That the fullest available reconstruction exists as a podcast episode rather than a published investigation is the domain's defining fact. Sources: American Alchemy, 'The Pentagon's UFO Program Is Real [Here's How It Works!] ft. UAPGerb' (YouTube), https://www.youtube.com/watch?v=u7g5Sn1DJF4, dated 2026-01-11; American Alchemy with Jesse Michels, 'The Hidden UFO Program Is Real - Here's How It Works! (ft. UAPGerb)' (Apple Podcasts listing), https://podcasts.apple.com/us/podcast/the-hidden-ufo-program-is-real-heres-how-it-works-ft-uapgerb/id1771917740?i=1000744706983, dated 2026-01-11.
 - 'The Pentagon's UFO Program Is Real [Here's How It Works!]' comes in from **Jesse Michels** (person, board tier C), a investigative link at Tier 2 named person on the record. The link reads: Michels produced and hosted the structural episode. Michels is host and publisher of the 11 January 2026 episode whose description states the effort is 'not one program' but 'a layered, compartmentalized system that grew out of the Manhattan Project, the Atomic Energy Commission, and Cold War intelligence structures.' Sources: American Alchemy - 'The Pentagon's UFO Program Is Real [Here's How It Works!]', https://www.youtube.com/watch?v=u7g5Sn1DJF4, dated 2026-01-11.
-
-## NASA UAP Independent Study Team
-
-NASA UAP Independent Study Team is a program on the board; board tier B, documented channel and capability, programme role indicated but not yet nailed to a primary source; dates 2022 to 2023; axes C0 A1 D3; 7 connections; in the research band.
-
-In one line: Federal advisory study team, 2022-2023.
-
-### What it is
-
-The NASA Unidentified Anomalous Phenomena Independent Study Team was a 16-member external panel convened by NASA in 2022 under the Earth Science Advisory Committee, chaired by astrophysicist David Spergel of the Simons Foundation, with Dr. Daniel Evans of NASA Headquarters as Designated Federal Official. It held a single public meeting on 31 May 2023 and delivered its final report on 14 September 2023. On the same day NASA created a Director of UAP Research position and initially declined to name the appointee.
-
-### Why it is implicated
-
-The panel is a study in the shape of a hole. It was chartered to advise NASA on UAP using only unclassified civilian, commercial and open-source data, and it says so plainly, which means the one body assembled to bring scientific rigor to the question was structurally barred from the classified holdings where the question actually lives. Its report says the quiet part in print: military and intelligence sensor data are classified 'often because of what the imagery could reveal about U.S. technical capabilities to our adversaries, and not because of what is actually in the images,' and that these classified observations 'enhance the sense of mystery and conspiracy surrounding UAP, and they present an obstacle to scientific inquiry.' That is a federally chartered panel, in an official NASA publication, stating that classification is generating the appearance of concealment. Three of its sixteen members came from commercial remote-sensing, space-hardware and private-equity defense firms, Maxar, Redwire and AE Industrial Partners, and two from the FAA, making the panel a map of who holds the civilian sensor data that would matter. And the harassment record around the panel and the withheld name of NASA's UAP research director are themselves artifacts: the cost of association was high enough that the agency initially treated the identity of a civil servant as a security matter.
-
-### The longer account
-
-NASA's Independent Study Team was born of a specific institutional bet: that the agency with the most public trust and the least security baggage could drag UAP into normal science. The bet was placed by Administrator Bill Nelson and executed by the Science Mission Directorate under Nicola Fox, following her predecessor Thomas Zurbuchen, with the activity graciously hosted, in the report's own words, by NASA's Earth Science Division under the Earth Science Advisory Committee. That administrative placement is worth pausing on: a panel about unidentified objects in the airspace was parked in the division that studies the planet's surface and atmosphere. It kept the activity out of astrophysics and out of anything that would have implied a search for technology.
-
-The roster reads as a deliberate coalition of civilian instrumentation. Chair David Spergel of the Simons Foundation. Anamaria Berea of George Mason, Federica Bianco of Delaware, Paula Bontempi of Rhode Island, Jennifer Buss of the Potomac Institute for Policy Studies, science journalist Nadia Drake, David Grinspoon of the Planetary Science Institute, retired astronaut Captain Scott Kelly, Matt Mountain of AURA, Joshua Semeter of Boston University, and Shelley Wright of UC San Diego. Then the operators: Warren Randolph and Karlin Toner from the Federal Aviation Administration, Walter Scott from Maxar Technologies, Mike Gold from Redwire Space, and Reggie Brothers from AE Industrial Partners. Two FAA officials, one commercial satellite imaging executive, one space infrastructure executive, and one defense-focused private equity operator who had previously been Under Secretary for Science and Technology at DHS. If the panel's recommendations pointed anywhere, they pointed at data these institutions own.
-
-And they did. The report recommends NASA leverage its Earth-observing assets to probe local environmental conditions associated with UAP detected by other means, and 'explore enhancing collaborations with the U.S. commercial remote-sensing industry, which offer powerful constellations of high-resolution Earth-observing satellites.' It recommends multispectral and hyperspectral acquisition, AI and machine learning applied to anomaly detection, a crowdsourcing system built on open-source smartphone apps, and better leveraging of the Aviation Safety Reporting System, which NASA operates for the FAA, as 'a critical database for the whole-of-government effort.' Every one of those recommendations routes future UAP data through civilian and commercial channels rather than military ones. Read charitably, that is a strategy for building an evidentiary base outside the classification perimeter. Read uncharitably, it is a strategy for building an evidentiary base that will never intersect the classification perimeter.
-
-The panel's own frustration surfaces in the passage that matters most. Discussing why existing observations cannot resolve UAP, the report states: 'In addition, much of the data collected by military sensors or intelligence satellites are classified, often because of what the imagery could reveal about U.S. technical capabilities to our adversaries, and not because of what is actually in the images. While essential for security, these classified observations enhance the sense of mystery and conspiracy surrounding UAP, and they present an obstacle to scientific inquiry.' A federal advisory panel wrote, in a public report, that the government's classification practice is manufacturing the appearance of a cover-up and blocking the science that would dispel it. That sentence is a finding about the concealment architecture, delivered by scientists who could not see inside it.
-
-On the evidence question the report is careful and narrow: 'To date, in the peer-reviewed scientific literature, there is no conclusive evidence suggesting an extraterrestrial origin for UAP.' The qualifier is doing work, peer-reviewed literature is precisely the corpus from which classified holdings are absent. The panel also recorded that then-AARO Director Sean Kirkpatrick reported at its 31 May 2023 public meeting that AARO had collected more than 800 reported events, against 263 reports filed in the 17 years before March 2021.
-
-The cost of participation is documented in the report itself: team members received hate mail from colleagues, were ridiculed and criticized on social media, and had firsthand knowledge of colleagues warned away from technosignature research on the grounds that it could damage scientific credibility and promotion prospects. On 14 September 2023 NASA announced the creation of a Director of UAP Research and Administrator Nelson said the identity would be withheld to prevent harassment. NASA reversed within hours and named Mark McInerney, a former NASA liaison to the Department of Defense on UAP matters. The reversal is instructive twice over: it shows the agency's first instinct was concealment framed as protection, and it shows how quickly that instinct collapsed under press pressure, which is not how the Department of Defense's instances of the same instinct have behaved.
-
-The statutory tie is direct. 50 U.S.C. 3373(c)(6) requires AARO to coordinate with NASA, among other agencies. Burlison's 22 May 2026 MITRE interrogatories demand identification of all UAP-related work MITRE performed for or with NASA. NASA sits inside the legal architecture of the program question while its own expert panel sat outside the data.
-
-### What it has denied
-
-NASA's posture is not denial but bounded agnosticism: the report asserts only that the peer-reviewed literature contains no conclusive evidence of extraterrestrial origin, while simultaneously stating that the relevant military and intelligence data are classified and inaccessible. NASA's initial decision to withhold the name of its own UAP research director, reversed within hours, is a concealment artifact in its own right.
-
-Roles the board assigns it: research, disclosure, oversight.
-
-### Open questions on this node
-
-- Did any panel member hold clearances permitting review of AARO or SAP-controlled material, or was the entire panel unclassified? The report describes unclassified sourcing but does not state member clearance status.
-- Who selected the sixteen members, and against what criteria did three commercial space and defense-investment executives and two FAA officials join a scientific advisory panel?
-- What did NASA's Terms of Reference, the eight charge elements the report responds to, actually say? The full Terms of Reference text is not reproduced in the public report summary.
-- Which colleagues warned other scientists away from technosignature research, and were any of those warnings institutional rather than personal?
-- Has NASA implemented any of the panel's recommendations, commercial remote-sensing collaboration, crowdsourced smartphone data, ASRS integration, and with what budget line?
-- What UAP-related work, if any, has MITRE or another FFRDC performed for NASA? Burlison asked; no answer is public.
-- Who made the initial decision to withhold the UAP research director's name, and on what threat assessment?
-
-### Why it holds its tier
-
-Re-graded B on a global pass (rank 386 of 1170, score 35). 8 connections, 2 of them custody/funding/programmatic. Axes C0/A1/D3.
-
-### The claims on the record
-
-- **Tier 1 documented.** 'Analysis of UAP data is hampered by poor sensor calibration, the lack of multiple measurements, the lack of sensor metadata.' Source: NASA UAP Independent Study Team Final Report, 14 September 2023
-- **Tier 1 documented.** NASA announced a Director of UAP Research at the 14 September 2023 briefing without naming the appointee; a subsequent statement identified Mark McInerney. Source: The Debrief, 14 September 2023
-- **Tier 1 documented.** NASA is a statutorily named coordination partner for AARO under 50 U.S.C. 3373(c)(6), and Rep. Burlison's 22 May 2026 MITRE interrogatories demand identification of all UAP-related MITRE work performed for or with NASA. Source: 50 U.S.C. 3373(c)(6), https://uscode.house.gov/view.xhtml?req=%28title%3A50+section%3A3373+edition%3Aprelim%29; Burlison to MITRE, 22 May 2026, Enclosure Section II.3, https://burlison.house.gov/sites/evo-subsites/burlison.house.gov/files/evo-media-document/mitre_uap-legislative-interrogatories_press.pdf
-- **Tier 1 documented.** Panel membership included two Federal Aviation Administration officials (Warren Randolph and Dr. Karlin Toner), Dr. Walter Scott of Maxar Technologies, Mr. Mike Gold of Redwire Space, and Dr. Reggie Brothers of AE Industrial Partners, alongside academic and journalist members. Source: NASA UAP Independent Study Team Report, 14 September 2023, member list, https://smd-cms.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf
-- **Tier 1 documented.** The NASA UAP Independent Study Team was chaired by Dr. David Spergel of the Simons Foundation, with Dr. Daniel Evans of NASA Headquarters as Designated Federal Official, and comprised 16 members. Source: NASA, 'Unidentified Anomalous Phenomena Independent Study Team Report,' 14 September 2023, front matter, https://smd-cms.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf
-- **Tier 1 documented.** The activity was administratively hosted by NASA's Earth Science Division under the Earth Science Advisory Committee, not by the Astrophysics or Planetary Science divisions. Source: NASA UAP Independent Study Team Report, 14 September 2023, Acknowledgments, https://smd-cms.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf
-- **Tier 1 documented.** The panel recommended NASA use its Earth-observing assets to probe environmental conditions associated with UAP detected by other means and 'explore enhancing collaborations with the U.S. commercial remote-sensing industry, which offer powerful constellations of high-resolution Earth-observing satellites.' Source: NASA UAP Independent Study Team Report, 14 September 2023, Conclusions, https://smd-cms.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf
-- **Tier 1 documented.** The panel recommended that the Aviation Safety Reporting System for commercial pilot UAP reporting be better leveraged as 'a critical database for the whole-of-government effort to understand UAP.' Source: NASA UAP Independent Study Team Report, 14 September 2023, Conclusions, https://smd-cms.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf
-- **Tier 1 documented.** The panel's charge and data basis were limited to unclassified sources: civilian government, commercial and other open data, with the report situating NASA's role inside a whole-of-government framework led by AARO. Source: NASA UAP Independent Study Team Report, 14 September 2023, Executive Summary and Framework of Recommendations, https://smd-cms.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf
-- **Tier 1 documented.** The report documents that Study Team members received hate mail from colleagues due to their membership, were ridiculed and criticized on social media, and had firsthand knowledge of colleagues warned to stay away from extraterrestrial technosignature research because it 'could damage their scientific credibility and promotion potential.' Source: NASA UAP Independent Study Team Report, 14 September 2023, https://smd-cms.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf
-- **Tier 1 documented.** The report recommends enhancing the Aviation Safety Reporting System for commercial pilot UAP reporting and developing crowdsourced smartphone-based citizen reporting. Source: NASA UAP Independent Study Team Final Report, 14 September 2023
-- **Tier 1 documented.** The report records that Dr. Sean Kirkpatrick reported at the panel's public meeting that AARO had collected more than 800 reported events, including FAA data, against 263 reports filed in the 17 years prior to March 2021. Source: NASA UAP Independent Study Team Report, 14 September 2023, https://smd-cms.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf
-- **Tier 1 documented.** The report states that much of the data collected by military sensors or intelligence satellites is classified 'often because of what the imagery could reveal about U.S. technical capabilities to our adversaries, and not because of what is actually in the images,' and that 'these classified observations enhance the sense of mystery and conspiracy surrounding UAP, and they present an obstacle to scientific inquiry.' Source: NASA UAP Independent Study Team Report, 14 September 2023, https://smd-cms.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf
-- **Tier 1 documented.** The report's acknowledgments name Administrator Bill Nelson, Science Mission Directorate Associate Administrator Dr. Nicky Fox and her predecessor Dr. Thomas Zurbuchen, and NASA UAP Press Secretary Katherine Rohloff. Source: NASA UAP Independent Study Team Report, 14 September 2023, Acknowledgments, https://smd-cms.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf
-- **Tier 1 documented.** The report's evidentiary conclusion is bounded to the open literature: 'To date, in the peer-reviewed scientific literature, there is no conclusive evidence suggesting an extraterrestrial origin for UAP.' Source: NASA UAP Independent Study Team Report, 14 September 2023, https://smd-cms.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf
-- **Tier 1 documented.** The team deliberated its sub-panel reports in full at a public meeting held on 31 May 2023. Source: NASA UAP Independent Study Team Report, 14 September 2023, 'Organization of this Report', https://smd-cms.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf
-- **Tier 1 documented.** The team was chaired by David Spergel with Daniel Evans as designated federal official, and its final report was released 14 September 2023. Source: NASA UAP Independent Study Team Final Report; NASA UAP program page
-- **Tier 2 named person on the record.** On 14 September 2023 NASA announced a Director of UAP Research and Administrator Bill Nelson said the identity would be withheld to prevent harassment; NASA reversed the same day and identified the appointee as Mark McInerney, a former NASA liaison to the Pentagon on UAP matters. Source: The Hill, 'NASA identifies UFO chief despite threat concerns,' 14 September 2023, https://thehill.com/homenews/administration/4207099-nasa-identifies-ufo-chief-despite-threat-concerns/; Space.com, 'NASA appoints new head of UFO research', https://www.space.com/nasa-names-head-of-uap-research
-
-### Its strongest connections
-
-- NASA UAP Independent Study Team comes in from **National Aeronautics and Space Administration** (institution, board tier A), a programmatic link at Tier 1 documented. The link reads: NASA chartered and published the Independent Study Team report. The 16-member panel reported on 14 September 2023 with findings on data curation, satellite assets and the classification obstacle. Sources: NASA UAP Independent Study Team Report, https://smd-cms.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf, dated 2023-09-14.
-- NASA UAP Independent Study Team runs out to **ODNI Preliminary Assessment: Unidentified Aerial Phenomena (25 June 2021)** (document, board tier A), a investigative link at Tier 1 documented. The link reads: Both diagnose the same evidentiary deficit. ODNI: military sensors 'are not generally suited for identifying UAP.' NASA: analysis is 'hampered by poor sensor calibration, the lack of multiple measurements, the lack of sensor metadata.' Sources: ODNI Preliminary Assessment: Unidentified Aerial Phenomena (PDF), https://archive.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf, dated 2021-06-25; NASA UAP Independent Study Team Final Report (PDF), https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf, dated 2023-09-14.
-- NASA UAP Independent Study Team comes in from **Americans for Safe Aerospace** (institution, board tier B), a programmatic link at Tier 1 documented. The link reads: Shared reporting-reform agenda: ASRS and FAA pilot reporting. The NASA study team recommended enhancing the Aviation Safety Reporting System for commercial pilot UAP reporting; ASA performs the equivalent intake function for aircrew outside the chain of command. Sources: NASA UAP Independent Study Team Final Report (PDF), https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf, dated 2023-09-14; House Oversight - Graves written testimony (PDF), https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf, dated 2023-07-26.
-- NASA UAP Independent Study Team comes in from **David N. Spergel** (person, board tier B), a institutional link at Tier 1 documented. The link reads: Chaired the NASA UAP Independent Study Team. Spergel chaired the sixteen-member panel whose final report was released 14 September 2023. Sources: NASA UAP Independent Study Team Final Report (PDF), https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf, dated 2023-09-14.
-- NASA UAP Independent Study Team comes in from **Michael Gold** (person, board tier C), a institutional link at Tier 1 documented. The link reads: Member of the study team. Gold is listed among the team's members and later testified to Congress on its findings. Sources: NASA UAP Independent Study Team Final Report (PDF), https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf, dated 2023-09-14; House Oversight - Gold written testimony (PDF), https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Gold.pdf, dated 2024-11-13.
-- NASA UAP Independent Study Team comes in from **Nicola J. Fox** (person, board tier C), a institutional link at Tier 1 documented. The link reads: NASA science chief at the report release briefing. Fox appeared at the 14 September 2023 briefing where NASA announced a Director of UAP Research without naming the appointee. Sources: The Debrief - NASA IST publishes findings, agency appoints UAP research director, https://thedebrief.org/nasas-uap-independent-study-team-publishes-its-findings-as-the-agency-appoints-a-new-nasa-director-of-uap-research/, dated 2023-09-14.
-- NASA UAP Independent Study Team comes in from **PURSUE - Presidential Unsealing and Reporting System for UAP Encounters** (program, board tier A), a behavioral link at Tier 2 named person on the record. The link reads: Metadata stripping defeats the study team's core recommendation. NASA's panel identified missing sensor metadata as the principal obstacle to analysis; the 2026 releases removed exactly that metadata before publication. Sources: SCU - PURSUE Release #1 falls short of scientific transparency, https://www.explorescu.org/post/scientific-coalition-for-uap-studies-finds-pursue-release-1-falls-short-of-scientific-transparency, dated 2026-05-13; NASA UAP Independent Study Team Final Report (PDF), https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf, dated 2023-09-14.
-- NASA UAP Independent Study Team comes in from **David N. Spergel** (person, board tier B), a behavioral link at Tier 2 named person on the record. The link reads: Panel worked under sustained public harassment. Gold testified that designated federal officer Daniel Evans 'did an amazing job under difficult conditions' - the euphemism recording the abuse the panel absorbed. Sources: House Oversight - Gold written testimony (PDF), https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Gold.pdf, dated 2024-11-13.
 
 ## AARO Historical Record Report, Volume II (unpublished)
 
@@ -1620,7 +1728,7 @@ Roles the board assigns it: concealment, oversight, disclosure, research.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 49 of 1170, score 82). 9 connections, 3 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C1/A2/D3.
+Re-graded A on a global pass (rank 49 of 1138, score 82). 9 connections, 3 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C1/A2/D3.
 
 ### The claims on the record
 
@@ -1711,7 +1819,7 @@ Roles the board assigns it: disclosure, research, oversight.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 494 of 1170, score 31). 6 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D3.
+Re-graded B on a global pass (rank 491 of 1138, score 31). 6 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D3.
 
 ### The claims on the record
 
@@ -1737,10 +1845,10 @@ Re-graded B on a global pass (rank 494 of 1170, score 31). 6 connections, 2 of t
 
 - Americans for Safe Aerospace comes in from **AARO FY2025 Consolidated Annual Report on UAP** (document, board tier A), a denial link at Tier 1 documented. The link reads: 'AARO did not receive reports indicating flight safety concerns during this reporting period'. The same report records two cases of electronic or avionic interference attributed to UAP in proximity to an operational aircraft. The no-safety-concerns finding is a statement about AARO's intake, not about the sky. Sources: AARO FY2025 Consolidated Annual Report on UAP (PDF), https://www.aaro.mil/Portals/136/PDFs/FY25%20UAP%20Annual%20Report/AARO_FY2025_Consolidated_Annual_Report_on_UAP.pdf, dated 2026-07-20.
 - Americans for Safe Aerospace comes in from **ODNI Preliminary Assessment: Unidentified Aerial Phenomena (25 June 2021)** (document, board tier A), a behavioral link at Tier 1 documented. The link reads: Official confirmation of the stigma ASA exists to route around. The assessment concedes 'disparagement associated with observing UAP, reporting it, or attempting to discuss it with colleagues' - the condition that made a civilian aircrew nonprofit necessary. Sources: ODNI Preliminary Assessment: Unidentified Aerial Phenomena (PDF), https://archive.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf, dated 2021-06-25; House Oversight - Graves written testimony (PDF), https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf, dated 2023-07-26.
+- Americans for Safe Aerospace runs out to **NASA UAP Independent Study Team** (program, board tier B), a programmatic link at Tier 1 documented. The link reads: Shared reporting-reform agenda: ASRS and FAA pilot reporting. The NASA study team recommended enhancing the Aviation Safety Reporting System for commercial pilot UAP reporting; ASA performs the equivalent intake function for aircrew outside the chain of command. Sources: NASA UAP Independent Study Team Final Report (PDF), https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf, dated 2023-09-14; House Oversight - Graves written testimony (PDF), https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf, dated 2023-07-26.
 - Americans for Safe Aerospace runs out to **USS Theodore Roosevelt Encounters (2014-2015)** (event, board tier B), a behavioral link at Tier 1 documented. The link reads: Created in direct response to the reporting failure the encounters exposed. Graves's testimony ties the founding to the fact that after his squadron's safety report 'there was no official acknowledgement of the incident and no further mechanism to report the sightings.' Sources: House Oversight - Graves written testimony (PDF), https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf, dated 2023-07-26.
 - Americans for Safe Aerospace comes in from **Ryan Graves** (person, board tier B), a institutional link at Tier 1 documented. The link reads: Founder and Executive Director. Graves founded the organisation in 2022 to build the aircrew reporting channel the Navy did not provide, and appeared before Congress in that capacity in July 2023. Sources: House Oversight - Graves written testimony (PDF), https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf, dated 2023-07-26; House Oversight - hearing page, 26 July 2023, https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/, dated 2023-07-26.
-- Americans for Safe Aerospace runs out to **NASA UAP Independent Study Team** (program, board tier B), a programmatic link at Tier 1 documented. The link reads: Shared reporting-reform agenda: ASRS and FAA pilot reporting. The NASA study team recommended enhancing the Aviation Safety Reporting System for commercial pilot UAP reporting; ASA performs the equivalent intake function for aircrew outside the chain of command. Sources: NASA UAP Independent Study Team Final Report (PDF), https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf, dated 2023-09-14; House Oversight - Graves written testimony (PDF), https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf, dated 2023-07-26.
-- Americans for Safe Aerospace comes in from **Timothy Gallaudet** (person, board tier A), a programmatic link at Tier 2 named person on the record. The link reads: Flag-officer corroboration of the safety-reporting failure ASA was built around. Gallaudet's recalled-email account and Graves's unacknowledged squadron safety report describe the same broken machinery from opposite ends of the chain of command. Sources: House Oversight - Gallaudet written testimony (PDF), https://oversight.house.gov/wp-content/uploads/2024/11/Updated-Testimony-Gallaudet.pdf, dated 2024-11-13; House Oversight - Graves written testimony (PDF), https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf, dated 2023-07-26.
+- Americans for Safe Aerospace comes in from **Timothy Gallaudet** (person, board tier B), a programmatic link at Tier 2 named person on the record. The link reads: Flag-officer corroboration of the safety-reporting failure ASA was built around. Gallaudet's recalled-email account and Graves's unacknowledged squadron safety report describe the same broken machinery from opposite ends of the chain of command. Sources: House Oversight - Gallaudet written testimony (PDF), https://oversight.house.gov/wp-content/uploads/2024/11/Updated-Testimony-Gallaudet.pdf, dated 2024-11-13; House Oversight - Graves written testimony (PDF), https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf, dated 2023-07-26.
 
 # NO DATE: no start date recorded
 
@@ -1778,7 +1886,7 @@ Roles the board assigns it: research, concealment.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 124 of 1170, score 56). 8 connections, 3 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D0.
+Re-graded A on a global pass (rank 126 of 1138, score 56). 8 connections, 3 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D0.
 
 ### The claims on the record
 
@@ -1863,7 +1971,7 @@ Roles the board assigns it: oversight, disclosure, research.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 76 of 1170, score 70). 7 connections, 6 of them custody/funding/programmatic. Axes C0/A0/D0.
+Re-graded A on a global pass (rank 80 of 1138, score 70). 7 connections, 6 of them custody/funding/programmatic. Axes C0/A0/D0.
 
 ### The claims on the record
 
@@ -1938,7 +2046,7 @@ Roles the board assigns it: research.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 263 of 1170, score 41). 7 connections, 2 of them custody/funding/programmatic. Axes C0/A0/D0.
+Re-graded B on a global pass (rank 267 of 1138, score 41). 7 connections, 2 of them custody/funding/programmatic. Axes C0/A0/D0.
 
 ### The claims on the record
 
@@ -1998,7 +2106,7 @@ Roles the board assigns it: research.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 264 of 1170, score 41). 7 connections, 2 of them custody/funding/programmatic. Axes C0/A0/D0.
+Re-graded B on a global pass (rank 268 of 1138, score 41). 7 connections, 2 of them custody/funding/programmatic. Axes C0/A0/D0.
 
 ### The claims on the record
 
@@ -2069,7 +2177,7 @@ Roles the board assigns it: oversight, disclosure, research.
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 782 of 1170, score 22). 6 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D0.
+Re-graded C on a global pass (rank 765 of 1138, score 22). 6 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D0.
 
 ### The claims on the record
 

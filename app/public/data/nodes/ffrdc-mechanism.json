@@ -42,7 +42,7 @@
 "edgeId": "e-878ce88754",
 "edgeLabel": "Establishes the FFRDC arbitration thesis",
 "id": "gerb-mitre-investigation",
-"l0": false,
+"l0": true,
 "label": "UAP Gerb - The MITRE Corporation investigation",
 "note": "Gerb's central structural claim: FFRDCs let the government vest programs outside the USG while retaining control of materials and data, and arbitrate what defense contractors are told about UFO programs.",
 "sources": [
@@ -176,7 +176,7 @@
 ],
 "sub": "Alleged legal-corporate concealment vehicle",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 289 of 1170, score 40). 4 connections, 2 of them custody/funding/programmatic. Axes C2/A3/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 292 of 1138, score 40). 4 connections, 2 of them custody/funding/programmatic. Axes C2/A3/D3.",
 "timeline": [],
 "unverified": []
 }

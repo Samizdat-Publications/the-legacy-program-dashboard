@@ -259,11 +259,11 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
-"edgeId": "e-9941e267ee",
+"edgeId": "e-fbe50159d6",
 "edgeLabel": "Loeb's Harvard base; launched the project from here",
-"id": "l-cambridge-ma",
+"id": "l-cambridge",
 "l0": false,
-"label": "Cambridge, Massachusetts (alias of l-cambridge)",
+"label": "Cambridge, Massachusetts",
 "note": "The overview paper gives Loeb's affiliation as 'Head of the Galileo Project, Astronomy Department, Harvard University, 60 Garden Street, Cambridge, MA 02138', and dates the project's first year as August 2021 through July 2022.",
 "sources": [
 {
@@ -471,7 +471,7 @@
 "status": "active",
 "sub": "Frank B. Baird Jr. Professor of Science, Harvard University; Director, Institute for Theory and Computation, Harvard-Smithsonian CfA; founder, The Galileo Project; Chair, UAP Science Advisory Council (2026)",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 232 of 1170, score 43). 6 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 236 of 1138, score 43). 6 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D3.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": [

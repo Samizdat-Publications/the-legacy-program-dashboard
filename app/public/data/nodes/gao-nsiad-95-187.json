@@ -2,7 +2,7 @@
 "A": 1,
 "C": 2,
 "D": 3,
-"band": null,
+"band": "retrieval",
 "claims": [
 {
 "id": "c-303fdc4707",
@@ -45,6 +45,24 @@
 "source": "Inference from the GAO findings and the requirements of the Federal Records Act",
 "text": "Destruction of a specific base's entire outgoing message traffic covering precisely the period of the alleged recovery, with no surviving disposition authority, is the strongest documented indicator of deliberate record removal in the legacy corpus.",
 "tier": 3
+},
+{
+"id": "c-fb92610f3c",
+"source": "GAO/NSIAD-95-187, 28 July 1995",
+"text": "'RAAF administrative records (from Mar. 1945 through Dec. 1949) and RAAF outgoing messages (from Oct. 1946 through Dec. 1949) were destroyed. The document disposition form does not indicate what organization or person destroyed the records and when or under what authority the records were destroyed.'",
+"tier": 1
+},
+{
+"id": "c-b05c02f193",
+"source": "GAO/NSIAD-95-187",
+"text": "'Our search for government records concerning the Roswell crash yielded two records originating in 1947.'",
+"tier": 1
+},
+{
+"id": "c-dd0bc665b8",
+"source": "GAO/NSIAD-95-187, appendix",
+"text": "GAO's record-set search list includes 'National Security Agency, Fort Meade, Md. - FOIA records, Citizens Against UFO Secrecy.'",
+"tier": 1
 }
 ],
 "cls": "document",
@@ -77,6 +95,55 @@
 ],
 "tier": "A",
 "type": "denial"
+},
+{
+"claimTier": 1,
+"cls": "location",
+"dateEnd": "1995",
+"dateStart": "1995",
+"direction": "out",
+"edgeId": "e-481ec79a14",
+"edgeLabel": "GAO found the relevant RAAF records destroyed with no recorded authority",
+"id": "l-roswell",
+"l0": false,
+"label": "Roswell, New Mexico and the Foster Ranch, Lincoln County",
+"note": "RAAF administrative records March 1945-December 1949 and outgoing messages October 1946-December 1949 were destroyed; the disposition form records neither who destroyed them nor under what authority.",
+"sources": [
+{
+"date": "1995-07-28",
+"name": "GAO/NSIAD-95-187, 'Government Records: Results of a Search for Records Concerning the 1947 Crash Near Roswell, New Mexico'",
+"url": "https://www.govinfo.gov/content/pkg/GAOREPORTS-NSIAD-95-187/html/GAOREPORTS-NSIAD-95-187.htm"
+}
+],
+"tier": "B",
+"type": "investigative"
+},
+{
+"claimTier": 3,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2024",
+"direction": "in",
+"edgeId": "e-ce4aa2d329",
+"edgeLabel": "The first statutory records mechanism descends from the destruction problem",
+"id": "nara-uap-collection",
+"l0": true,
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection",
+"note": "RG 615 was created under PL 118-31 sections 1841-1843 after decades in which the only auditable finding was GAO's: that the relevant legacy records had been destroyed with no recorded authority.",
+"sources": [
+{
+"date": "2025-04-24",
+"name": "NARA — UAP research topic page",
+"url": "https://www.archives.gov/research/topics/uaps"
+},
+{
+"date": "1995-07-28",
+"name": "GAO/NSIAD-95-187",
+"url": "https://www.gao.gov/assets/nsiad-95-187.pdf"
+}
+],
+"tier": "A",
+"type": "legislative"
 },
 {
 "claimTier": 3,
@@ -123,31 +190,31 @@
 "type": "custody"
 },
 {
-"claimTier": 3,
-"cls": "institution",
-"dateEnd": null,
-"dateStart": "2024",
+"claimTier": 1,
+"cls": "program",
+"dateEnd": "1995",
+"dateStart": "1994",
 "direction": "in",
-"edgeId": "e-bafd41d3fa",
-"edgeLabel": "The first statutory records mechanism descends from the destruction problem",
-"id": "rg-615-uap-records",
+"edgeId": "e-b4b15b96fc",
+"edgeLabel": "The initiative's live period coincides with the GAO records audit and its retention in the White House Roswell file",
+"id": "rockefeller-initiative",
 "l0": false,
-"label": "NARA Record Group 615 - UAP Records Collection",
-"note": "RG 615 was created under PL 118-31 sections 1841-1843 after decades in which the only auditable finding was GAO's: that the relevant legacy records had been destroyed with no recorded authority.",
+"label": "The Rockefeller UFO Disclosure Initiative",
+"note": "The Clinton White House Roswell file (2006-0476-F) contains the July 1995 GAO report; the unclassified records audit is what the White House ended up holding.",
 "sources": [
 {
-"date": "2025-04-24",
-"name": "NARA — UAP research topic page",
-"url": "https://www.archives.gov/research/topics/uaps"
+"date": "1995-07-28",
+"name": "GAO/NSIAD-95-187, 'Government Records: Results of a Search for Records Concerning the 1947 Crash Near Roswell, New Mexico'",
+"url": "https://www.govinfo.gov/content/pkg/GAOREPORTS-NSIAD-95-187/html/GAOREPORTS-NSIAD-95-187.htm"
 },
 {
-"date": "1995-07-28",
-"name": "GAO/NSIAD-95-187",
-"url": "https://www.gao.gov/assets/nsiad-95-187.pdf"
+"date": "2019-09-16",
+"name": "Clinton Digital Library, FOIA collection 2006-0476-F, 'New Mexico Roswell'",
+"url": "https://clinton.presidentiallibraries.us/items/show/36328"
 }
 ],
-"tier": "B",
-"type": "legislative"
+"tier": "C",
+"type": "temporal"
 },
 {
 "claimTier": 1,
@@ -198,6 +265,11 @@
 "date": "1995-07-28",
 "name": "GAO/NSIAD-95-187 (full PDF)",
 "url": "https://www.gao.gov/assets/nsiad-95-187.pdf"
+},
+{
+"date": "1995-07-28",
+"name": "GAO/NSIAD-95-187, 'Government Records: Results of a Search for Records Concerning the 1947 Crash Near Roswell, New Mexico'",
+"url": "https://www.govinfo.gov/content/pkg/GAOREPORTS-NSIAD-95-187/html/GAOREPORTS-NSIAD-95-187.htm"
 }
 ],
 "tier": "B",
@@ -207,7 +279,7 @@
 "coords": null,
 "dateEnd": "1995",
 "dateStart": "1995",
-"deg": 6,
+"deg": 8,
 "denials": [
 {
 "a": {
@@ -365,6 +437,21 @@
 "date": "1995-07-28",
 "name": "GAO/NSIAD-95-187 (full PDF)",
 "url": "https://www.gao.gov/assets/nsiad-95-187.pdf"
+},
+{
+"date": "1995-07-28",
+"name": "GAO/NSIAD-95-187, 'Government Records: Results of a Search for Records Concerning the 1947 Crash Near Roswell, New Mexico'",
+"url": "https://www.govinfo.gov/content/pkg/GAOREPORTS-NSIAD-95-187/html/GAOREPORTS-NSIAD-95-187.htm"
+},
+{
+"date": "2019-09-16",
+"name": "Clinton Digital Library, FOIA collection 2006-0476-F, 'New Mexico Roswell'",
+"url": "https://clinton.presidentiallibraries.us/items/show/36328"
+},
+{
+"date": "2016-08-15",
+"name": "National Archives, 'Project BLUE BOOK - Unidentified Flying Objects' reference report (incl. MJ-12 / Cutler-Twining findings)",
+"url": "https://www.archives.gov/research/military/air-force/ufos"
 }
 ]
 },
@@ -375,14 +462,46 @@
 },
 "hl": null,
 "id": "gao-nsiad-95-187",
-"l0": false,
+"l0": true,
 "label": "GAO/NSIAD-95-187 - Results of a Search for Records Concerning the 1947 Crash Near Roswell",
 "locLabel": null,
-"members": null,
+"members": [
+{
+"cls": "location",
+"id": "l-roswell",
+"label": "Roswell, New Mexico and the Foster Ranch, Lincoln County",
+"tier": "B"
+},
+{
+"cls": "program",
+"id": "project-mogul",
+"label": "Project MOGUL",
+"tier": "B"
+},
+{
+"cls": "document",
+"id": "raaf-press-release-1947",
+"label": "RAAF Press Release, 8 July 1947",
+"tier": "B"
+},
+{
+"cls": "program",
+"id": "rockefeller-initiative",
+"label": "The Rockefeller UFO Disclosure Initiative",
+"tier": "C"
+},
+{
+"cls": "person",
+"id": "steven-schiff",
+"label": "Steven H. Schiff",
+"tier": "B"
+}
+],
 "openQuestions": [],
-"short": "GAO/NSIAD-95-187 - Results of a Search for Records Concerning the 1947 Crash Near Roswell",
+"short": "GAO/NSIAD-95-187",
 "sourceFiles": [
-"history-1940s-1960s"
+"history-1940s-1960s",
+"history-1970s-2000s"
 ],
 "sources": [
 {
@@ -394,12 +513,32 @@
 "date": "1995-07-28",
 "name": "GAO/NSIAD-95-187 (full PDF)",
 "url": "https://www.gao.gov/assets/nsiad-95-187.pdf"
+},
+{
+"date": "1995-07-28",
+"name": "GAO/NSIAD-95-187, 'Government Records: Results of a Search for Records Concerning the 1947 Crash Near Roswell, New Mexico'",
+"url": "https://www.govinfo.gov/content/pkg/GAOREPORTS-NSIAD-95-187/html/GAOREPORTS-NSIAD-95-187.htm"
+},
+{
+"date": "2019-09-16",
+"name": "Clinton Digital Library, FOIA collection 2006-0476-F, 'New Mexico Roswell'",
+"url": "https://clinton.presidentiallibraries.us/items/show/36328"
 }
 ],
 "sub": "General Accounting Office report, 28 July 1995",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 173 of 1170, score 49). 6 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A1/D3.",
+"tierRationale": "Re-graded A on a global pass (rank 111 of 1138, score 60). 8 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A1/D3.",
 "timeline": [
+{
+"claimTier": null,
+"date": "1995-07-28",
+"grade": "A",
+"id": "t-1995-gao",
+"label": "GAO: Roswell records destroyed, authority unknown",
+"precision": "day",
+"strand": "oversight",
+"text": "GAO/NSIAD-95-187 finds RAAF administrative records (Mar 1945-Dec 1949) and outgoing messages (Oct 1946-Dec 1949) destroyed, with the disposition form recording neither who destroyed them nor under what authority."
+},
 {
 "claimTier": null,
 "date": "1995-07-28",

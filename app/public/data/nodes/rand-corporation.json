@@ -149,7 +149,7 @@
 "edgeId": "e-96ed43b4ac",
 "edgeLabel": "MITRE founded as the Air Force's successor to RAND",
 "id": "gerb-mitre-investigation",
-"l0": false,
+"l0": true,
 "label": "UAP Gerb - The MITRE Corporation investigation",
 "note": "The investigation restates the documented history that MITRE was established in 1958 as the Air Force's spiritual successor to RAND, tasked with systems engineering for SAGE.",
 "sources": [
@@ -426,12 +426,6 @@
 "tier": "C"
 },
 {
-"cls": "document",
-"id": "gerb-mitre-investigation",
-"label": "UAP Gerb - The MITRE Corporation investigation",
-"tier": "B"
-},
-{
 "cls": "person",
 "id": "jason-matheny",
 "label": "Jason Matheny",
@@ -499,7 +493,7 @@
 ],
 "sub": "Nonprofit operator of four FFRDCs (Project AIR FORCE, Arroyo Center, National Defense Research Institute, HSOAC); Santa Monica, CA; est. 1948 out of Project RAND (1946)",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 148 of 1170, score 53). 8 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D2.",
+"tierRationale": "Re-graded A on a global pass (rank 151 of 1138, score 53). 8 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D2.",
 "timeline": [
 {
 "claimTier": null,

@@ -128,11 +128,11 @@
 "dateEnd": null,
 "dateStart": "2018",
 "direction": "out",
-"edgeId": "e-9567e05c6f",
+"edgeId": "e-902d4727c0",
 "edgeLabel": "The OIG is the independent auditor issuing the annual opinion",
-"id": "dodig",
+"id": "dod-oig",
 "l0": false,
-"label": "Office of Inspector General, Department of Defense / Department of War",
+"label": "Department of Defense Office of Inspector General",
 "note": "The DoD/DoW Office of Inspector General has issued the opinion on the agency-wide financial statements every year since FY2018, each time a disclaimer. Attested by the FY2018 AFR and by DOWIG-2026-081.",
 "sources": [
 {
@@ -141,7 +141,7 @@
 "url": "https://comptroller.war.gov/Portals/45/Documents/afr/fy2018/3-Financial_Section.pdf"
 }
 ],
-"tier": "C",
+"tier": "B",
 "type": "institutional"
 },
 {
@@ -406,9 +406,9 @@
 },
 {
 "cls": "institution",
-"id": "dodig",
-"label": "Office of Inspector General, Department of Defense / Department of War",
-"tier": "C"
+"id": "dod-oig",
+"label": "Department of Defense Office of Inspector General",
+"tier": "B"
 },
 {
 "cls": "document",
@@ -481,7 +481,7 @@
 ],
 "sub": "Annual full-scope audit required by the CFO Act; disclaimer of opinion every year since inception",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 302 of 1170, score 39). 9 connections, 2 of them custody/funding/programmatic. Axes C0/A1/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 304 of 1138, score 39). 9 connections, 2 of them custody/funding/programmatic. Axes C0/A1/D3.",
 "timeline": [],
 "unverified": []
 }

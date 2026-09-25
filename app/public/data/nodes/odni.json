@@ -211,33 +211,6 @@
 "claimTier": 1,
 "cls": "institution",
 "dateEnd": null,
-"dateStart": null,
-"direction": "in",
-"edgeId": "e-1dd90ecf4b",
-"edgeLabel": "transferred records",
-"id": "nara-rg615",
-"l0": true,
-"label": "National Archives Record Group 615 - UAP Records Collection",
-"note": "ODNI is one of seven RG 615 contributors; its electronic-records bulk download stood at 1.29MB as of the April 2025 inventory.",
-"sources": [
-{
-"date": "2026-08-12",
-"name": "National Archives, Record Group 615",
-"url": "https://www.archives.gov/research/topics/uaps/rg-615"
-},
-{
-"date": "2025-04-24",
-"name": "National Archives, UAP bulk downloads",
-"url": "https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download"
-}
-],
-"tier": "A",
-"type": "custody"
-},
-{
-"claimTier": 1,
-"cls": "institution",
-"dateEnd": null,
 "dateStart": "2025-04-24",
 "direction": "out",
 "edgeId": "e-2269b0b17b",
@@ -251,6 +224,16 @@
 "date": "2025-04-24",
 "name": "National Archives press release nr25-07",
 "url": "https://www.archives.gov/press/press-releases/2025/nr25-07"
+},
+{
+"date": "2026-08-12",
+"name": "National Archives, Record Group 615",
+"url": "https://www.archives.gov/research/topics/uaps/rg-615"
+},
+{
+"date": "2025-04-24",
+"name": "National Archives, UAP bulk downloads",
+"url": "https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download"
 }
 ],
 "tier": "A",
@@ -478,7 +461,7 @@
 "coords": null,
 "dateEnd": null,
 "dateStart": "2005-04-22",
-"deg": 18,
+"deg": 17,
 "denials": [],
 "desc": "ODNI was created by the Intelligence Reform and Terrorism Prevention Act of 2004 (Public Law 108-458) and stood up on 22 April 2005, placing a Director of National Intelligence above the Intelligence Community elements that had previously answered to the Director of Central Intelligence. For the UAP record ODNI is the co-author of the modern disclosure regime: the Senate Select Committee on Intelligence's report accompanying the Intelligence Authorization Act for FY2021 directed the DNI, in consultation with the Secretary of Defense, to deliver a report on unidentified aerial phenomena, and on 25 June 2021 ODNI published 'Preliminary Assessment: Unidentified Aerial Phenomena'. That nine-page document analysed 144 reports from USG sources, of which 80 involved multiple sensors, and sorted them into five explanatory categories - airborne clutter, natural atmospheric phenomena, USG or U.S. industry developmental programs, foreign adversary systems, and a catch-all 'other'. Its contributor list is itself an intelligence product: USD(I&S), DIA, FBI, NRO, NGA, NSA, the Air Force, the Army, the Navy and ONI, DARPA, FAA, NOAA, ODNI's National Intelligence Manager for Emerging and Disruptive Technology, the National Counterintelligence and Security Center and the National Intelligence Council. ODNI thereafter became a statutory annual reporter on UAP under successive intelligence authorisation acts and NDAAs, and it is one of the four agencies whose records NARA identified in its 24 April 2025 release into the statutory UAP Collection. ODNI is also the parent of the Intelligence Community Inspector General, whose finding that David Grusch's complaint was 'credible and urgent' is the single most consequential procedural act in the modern record.",
 "domains": [],
@@ -721,7 +704,7 @@
 ],
 "sub": "Head of the 18-element Intelligence Community; co-signatory of the UAP reporting regime",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 130 of 1170, score 55). 18 connections, 2 of them custody/funding/programmatic. Axes C1/A3/D3.",
+"tierRationale": "Re-graded A on a global pass (rank 161 of 1138, score 51). 17 connections, 1 of them custody/funding/programmatic. Axes C1/A3/D3.",
 "timeline": [
 {
 "claimTier": null,

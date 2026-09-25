@@ -203,11 +203,11 @@
 "dateEnd": null,
 "dateStart": "2026-08-01",
 "direction": "out",
-"edgeId": "e-d0e7fd419c",
+"edgeId": "e-b074fa5409",
 "edgeLabel": "names the agencies absent from the statutory archive",
-"id": "nara-rg615",
+"id": "nara-uap-collection",
 "l0": true,
-"label": "National Archives Record Group 615 - UAP Records Collection",
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection",
 "note": "The memorandum's distribution list includes CIA, DIA, NRO, NGA, DOE and every military department - none of which has a series in Record Group 615. The same agencies are simultaneously addressees of a UAP release directive and absentees from the statutory collection.",
 "sources": [
 {
@@ -605,7 +605,7 @@
 ],
 "sub": "Signed by Aaron Lukas, Principal Deputy DNI; released by Rep. Burlison 1 August 2026",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 75 of 1170, score 71). 10 connections, 2 of them custody/funding/programmatic, 4 official denials recorded against it. Axes C2/A3/D3.",
+"tierRationale": "Re-graded A on a global pass (rank 79 of 1138, score 71). 10 connections, 2 of them custody/funding/programmatic, 4 official denials recorded against it. Axes C2/A3/D3.",
 "timeline": [
 {
 "claimTier": 1,

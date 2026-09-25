@@ -81,7 +81,7 @@
 "edgeId": "e-b82f635ae3",
 "edgeLabel": "Alleges MITRE support to two Navy-spearheaded legacy programs",
 "id": "gerb-mitre-investigation",
-"l0": false,
+"l0": true,
 "label": "UAP Gerb - The MITRE Corporation investigation",
 "note": "The two alleged programs: reverse engineering and maturation of technologies from late-1940s recoveries, and tracking of a large USO with semi-permanent Atlantic station, with all-source data processed by MITRE. Gerb notes the oddity that MITRE was founded by and modelled on USAF structures yet is intimately involved in Navy secret programs.",
 "sources": [
@@ -215,7 +215,7 @@
 ],
 "sub": "Established 1882; the nation's longest-serving intelligence agency; parent of the UAP Task Force",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 266 of 1170, score 41). 4 connections, 2 of them custody/funding/programmatic. Axes C2/A3/D1.",
+"tierRationale": "Re-graded B on a global pass (rank 270 of 1138, score 41). 4 connections, 2 of them custody/funding/programmatic. Axes C2/A3/D1.",
 "timeline": [
 {
 "claimTier": null,
