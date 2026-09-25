@@ -17,6 +17,7 @@ import {
 } from '../data';
 import { notFound } from './notfound';
 import { groupConnections, renderConnGroups } from './connections';
+import { saidKind, saidMark } from '../attrib';
 
 const AXES: [keyof Pick<NodeRecord, 'C' | 'A' | 'D'>, string][] = [
   ['C', 'custody proximity'],
@@ -84,33 +85,57 @@ export async function renderNode(view: HTMLElement, id: string): Promise<void> {
     h('a', { class: 'act key', href: '#/n/' + rec.id + '/hood' }, 'OPEN THE NEIGHBOURHOOD'),
     h('a', { class: 'act', href: '#/report/n/' + rec.id }, 'REPORT'),
     h('span', { class: 'idline' },
-      'id ' + rec.id +
-      (meta ? ' · degree ' + meta.deg + ' distinct neighbours' : '') +
-      (rec.members ? ' · ' + rec.members.length + ' members' : '')),
+      [meta ? meta.deg + ' distinct neighbours on the board' : '',
+        rec.members ? rec.members.length + ' members' : ''].filter(Boolean).join(' · ')),
   ));
 
-  /* ---- about: what it is, why it matters, and the case against ----------- */
+  /* ---- about: what it is, and the board's own analysis, folded ----------- */
   /* tierRationale is machine-generated and explains the tier letter this page no
-     longer prints; it stays in the data for the analyst. */
+     longer prints; it stays in the data for the analyst.
+     The long prose is the board's own analysis, not a record, so it is labelled
+     as such and folded to its first lines behind a control (blind critic round
+     0, item 5). Folding hides nothing from the DOM: every word is still here. */
   const what = rec.dossier && rec.dossier.whatItIs;
   const why = (rec.dossier && (rec.dossier.whyImplicated || rec.dossier.narrative)) || rec.desc || rec.narrative || '';
   if (what || why) {
     main.append(h('div', { class: 'sec eyebrow' }, 'About'));
-    if (what) main.append(h('div', { class: 'narrative' }, h('p', null, what)));
-    if (why) main.append(h('div', { class: 'narrative' }, h('p', null, why)));
+    if (what) main.append(h('div', { class: 'narrative lead' }, h('p', null, what)));
+    if (why) main.append(analysis(why));
   }
-  for (const c of asList(rec.conflicts)) {
-    main.append(h('div', { class: 'narrative cnf', style: 'margin-top:8px' },
-      h('p', null, h('span', { class: 'red eyebrow' }, 'Conflict on the record '), c)));
-  }
-  for (const u of asList(rec.unverified)) {
-    main.append(h('div', { class: 'narrative unv', style: 'margin-top:8px' },
-      h('p', null, h('span', { class: 'amber eyebrow' }, 'Not verified '), u)));
-  }
+
+  /* ---- the case against: conflicts, unverified notes, the denial posture --- */
+  /* It sits where the first screen can see it: its own column at 1600 and
+     wider, the top of the right column on a laptop, and straight after the
+     About lead on a phone. Where it goes is decided once, at render, as the
+     slice and open questions already are. */
+  const conflicts = asList(rec.conflicts);
+  const unverified = asList(rec.unverified);
   const posture = rec.dossier && rec.dossier.denialPosture;
-  if (posture) {
-    main.append(h('div', { class: 'narrative dim', style: 'margin-top:8px' },
-      h('p', null, h('span', { class: 'eyebrow' }, 'Denial posture '), posture)));
+  const against = h('section', { class: 'against' });
+  if (conflicts.length || unverified.length || posture) {
+    const bits: string[] = [];
+    if (conflicts.length) bits.push(conflicts.length + (conflicts.length === 1 ? ' conflict' : ' conflicts'));
+    if (unverified.length) bits.push(unverified.length + ' not verified');
+    if (posture) bits.push('denial posture');
+    against.append(h('div', { class: 'against-head' },
+      h('span', { class: 'red eyebrow' }, 'The case against'), ' ',
+      h('span', { class: 'sep' }, '·'), ' ', h('span', { class: 'dim' }, bits.join(' · '))));
+    for (const c of conflicts) {
+      against.append(h('div', { class: 'against-row cnf' },
+        h('span', { class: 'red eyebrow' }, 'Conflict on the record'), h('span', null, c)));
+    }
+    for (const u of unverified) {
+      against.append(h('div', { class: 'against-row unv' },
+        h('span', { class: 'amber eyebrow' }, 'Not verified'), h('span', null, u)));
+    }
+    if (posture) {
+      against.append(h('div', { class: 'against-row posture' },
+        h('span', { class: 'eyebrow' }, 'Denial posture'), h('span', null, posture)));
+    }
+    const vw = window.innerWidth;
+    if (vw >= 1600) { wrap.classList.add('with-against'); wrap.insertBefore(against, side); }
+    else if (vw > 760) side.append(against);
+    else main.append(against);
   }
 
   /* ---- claims, grouped by tier ------------------------------------------ */
@@ -135,9 +160,9 @@ export async function renderNode(view: HTMLElement, id: string): Promise<void> {
   for (const tier of [1, 2, 3]) {
     for (const c of byTier[tier]) {
       const src = claimSource(c.source);
-      list.append(h('div', { class: 'claim' },
+      list.append(h('div', { class: 'claim', 'data-cid': (c as { id?: string }).id || null },
         h('span', { class: 'ct t' + tier }, 'T' + tier),
-        h('span', { class: 'ctext' }, c.text),
+        h('span', { class: 'ctext' }, saidMark(saidKind(tier, c.text, src.text, src.url)), c.text),
         src.url
           ? h('a', { class: 'csrc', href: src.url, target: '_blank', rel: 'noreferrer noopener', title: src.text }, 'source ↗')
           : h('span', { class: 'csrc nolink', title: src.text }, src.text ? 'source, not a link' : 'no source recorded'),
@@ -288,8 +313,29 @@ export async function renderNode(view: HTMLElement, id: string): Promise<void> {
   /* ---- right column: sourced connections, grouped by relationship -------- */
   const groups = groupConnections(rec.connections);
   const counterparts = new Set(rec.connections.map((c) => c.id)).size;
-  side.append(h('div', { class: 'crumb', style: 'margin-bottom:6px' },
+  side.append(h('div', { class: 'crumb conn-crumb', style: 'margin-bottom:6px' },
     h('span', { class: 'eyebrow' }, 'Sourced connections'),
     h('span', { class: 'dim' }, rec.connections.length + ' links · ' + counterparts + ' counterparts · ' + groups.length + ' kinds')));
   side.append(renderConnGroups(groups));
+}
+
+/* The board's analysis: labelled as the board's own voice and folded to its
+   first six lines. The control appears only when there is more to read. */
+function analysis(text: string): HTMLElement {
+  const box = h('div', { class: 'analysis' });
+  const p = h('p', { class: 'analysis-text folded' }, text);
+  box.append(h('div', { class: 'analysis-head eyebrow' }, "The board's analysis"),
+    h('div', { class: 'narrative' }, p));
+  const btn = h('button', { type: 'button', class: 'analysis-more', 'aria-expanded': 'false' },
+    'Read the whole analysis');
+  btn.addEventListener('click', () => {
+    const open = p.classList.toggle('folded') === false;
+    btn.setAttribute('aria-expanded', open ? 'true' : 'false');
+    btn.textContent = open ? 'Fold the analysis' : 'Read the whole analysis';
+  });
+  box.append(btn);
+  requestAnimationFrame(() => {
+    if (p.scrollHeight <= p.clientHeight + 2) { p.classList.remove('folded'); btn.remove(); }
+  });
+  return box;
 }

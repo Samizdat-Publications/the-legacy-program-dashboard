@@ -135,7 +135,8 @@ async function send(q: string): Promise<void> {
 export function setOpen(on: boolean): void {
   if (!host) return;
   host.setAttribute('data-open', on ? '1' : '0');
-  if (chevEl) chevEl.textContent = on ? '▾' : '▴';
+  /* the tab sits in the bar and the panel drops down from it */
+  if (chevEl) chevEl.textContent = on ? '▴' : '▾';
   if (barEl) {
     barEl.setAttribute('aria-expanded', on ? 'true' : 'false');
     barEl.setAttribute('title', on ? 'Close the analyst' : 'Open the analyst');
@@ -150,7 +151,7 @@ export function mountAnalyst(el: HTMLElement): void {
 
   statusEl = h('span', { class: 'faint an-status' }, 'checking the analyst…');
   whereEl = h('span', { class: 'an-where' }, '');
-  chevEl = h('span', { class: 'an-chev' }, '▴');
+  chevEl = h('span', { class: 'an-chev' }, '▾');
 
   barEl = h('button', {
     type: 'button', class: 'an-bar', 'aria-controls': 'analyst-body', 'aria-expanded': 'false',

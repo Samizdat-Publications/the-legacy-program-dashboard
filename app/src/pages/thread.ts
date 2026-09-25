@@ -88,7 +88,7 @@ function chain(th: Thread, byId: Map<string, IndexNode>, onGrid: Set<string>): H
       h('a', { class: 'th-label', href: '#/n/' + s.node }, n ? n.label : s.node),
       h('span', { class: 'th-year dim' }, s.year == null ? 'no year on the board' : String(s.year)),
       n && n.hl ? h('span', { class: 'th-hl amber' }, 'start here ' + n.hl) : null,
-      onGrid.has(s.node) ? null : h('span', { class: 'th-floor faint' }, 'below the L0 floor'),
+      onGrid.has(s.node) ? null : h('span', { class: 'th-floor faint' }, 'not on the program map'),
     );
     body.append(title);
     body.append(h('div', { class: 'th-ev' }, s.evidence));

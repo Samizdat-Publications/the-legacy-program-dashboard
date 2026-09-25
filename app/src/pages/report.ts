@@ -4,6 +4,7 @@
  * stands. Numbered superscripts in the body, the citations at the foot. Every
  * citation is the source string the board already carries; none is composed here.
  */
+import { saidKind, saidMark } from '../attrib';
 import { h, clear } from '../dom';
 import { setTitle } from '../router';
 import {
@@ -40,7 +41,7 @@ export async function renderNodeReport(view: HTMLElement, id: string): Promise<v
 
   paper.append(h('div', { class: 'rhead' },
     h('span', null, 'The Legacy Program · brief · node'),
-    h('span', null, '#/report/n/' + rec.id + ' · generated ' + (idx.generated || '').slice(0, 10)),
+    h('span', null, 'generated ' + (idx.generated || '').slice(0, 10)),
   ));
 
   paper.append(h('h1', null, rec.label));
@@ -51,7 +52,7 @@ export async function renderNodeReport(view: HTMLElement, id: string): Promise<v
 
   const why = (rec.dossier && (rec.dossier.whyImplicated || rec.dossier.narrative)) || rec.desc || '';
   if (why) {
-    const nn = cite('Dossier narrative · data/the-program.json · node ' + rec.id, null);
+    const nn = cite("The board's own analysis, written for this node; not a primary record", null);
     paper.append(h('p', { class: 'rnarr' }, why, ' ', sup(nn)));
   }
 
@@ -62,8 +63,9 @@ export async function renderNodeReport(view: HTMLElement, id: string): Promise<v
     for (const c of claims) {
       const src = claimSource(c.source);
       const nn = cite(src.text || 'no source recorded on this claim', src.url);
-      ol.append(h('li', null,
-        h('span', { class: 'rtier n' + c.tier }, 'T' + c.tier), ' ', c.text, ' ', sup(nn)));
+      ol.append(h('li', { 'data-cid': c.id || null },
+        h('span', { class: 'rtier n' + c.tier }, 'T' + c.tier), ' ',
+        saidMark(saidKind(Number(c.tier), c.text, src.text, src.url)), c.text, ' ', sup(nn)));
     }
     paper.append(ol);
   }

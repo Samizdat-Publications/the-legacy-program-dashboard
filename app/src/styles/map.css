@@ -217,3 +217,23 @@
 .cell-row .yr { color: var(--dim); flex: 0 0 auto; }
 .cell-row .nm { white-space: pre; overflow: visible; }
 .cell-row .chl { margin-left: auto; color: var(--amber); font-style: normal; }
+
+/* Phones (redesign phase 5b): the map as a list, band by band and era by era. */
+.map-phone { display: grid; gap: 14px; }
+.mp-note { margin-top: -6px; }
+.mp-band { display: grid; gap: 6px; border-top: 1px solid var(--line); padding-top: 8px; }
+.mp-era { display: grid; gap: 3px; }
+.mp-chips { display: flex; flex-wrap: wrap; gap: 4px; }
+.mp-chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  border: 1px solid var(--line);
+  background: var(--panel);
+  color: var(--text);
+  padding: 2px 7px;
+}
+.mp-chip:hover { text-decoration: none; border-color: var(--line2); }
+.mp-chip.hl { border-color: var(--amber); }
+.mp-chip.step { border-color: var(--cyan); }
+.mp-chip.sel { border-color: var(--text); }

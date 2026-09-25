@@ -38,6 +38,10 @@ function setEsc(fn: ((e: KeyboardEvent) => void) | null): void {
 
 const ABSENT = 'not on the board';
 
+/* A node is named by its label, never by its raw id (blind critic round 0). */
+const labels = new Map<string, string>();
+const nodeName = (id: string): string => 'on the board: ' + (labels.get(id) || id);
+
 function cite(c: Cite | null | undefined): HTMLElement {
   if (!c || !c.name) return h('span', { class: 'faint' }, 'source ' + ABSENT);
   if (c.url) return h('a', { href: c.url, rel: 'noreferrer', target: '_blank' }, c.name);
@@ -83,6 +87,8 @@ export async function renderPatents(view: HTMLElement, number: string, sheet: st
 
   const idx = await loadIndex();
   const known = new Set(idx.nodes.map((n) => n.id));
+  labels.clear();
+  for (const n of idx.nodes) labels.set(n.id, n.label);
 
   const wrap = h('div', { class: 'pt' });
   const left = h('div', { class: 'pt-left' });
@@ -123,10 +129,10 @@ function renderLeft(left: HTMLElement, file: PatentsFile, sel: Patent, known: Se
     meta.append(h('span', { class: 'dim' }, keyDate(p)));
     if (p.node && known.has(p.node)) {
       meta.append(h('span', { class: 'sep' }, '·'));
-      meta.append(h('a', { href: '#/n/' + p.node }, 'node ' + p.node));
+      meta.append(h('a', { href: '#/n/' + p.node }, nodeName(p.node)));
     } else {
       meta.append(h('span', { class: 'sep' }, '·'));
-      meta.append(h('span', { class: 'faint' }, 'node ' + ABSENT));
+      meta.append(h('span', { class: 'faint' }, 'no node ' + ABSENT));
     }
     card.append(meta);
     list.append(card);
@@ -140,8 +146,8 @@ function renderLeft(left: HTMLElement, file: PatentsFile, sel: Patent, known: Se
     h('span', { class: 't' + ob.tier }, 'Tier ' + ob.tier),
     h('span', { class: 'sep' }, '·'),
     ob.node && known.has(ob.node)
-      ? h('a', { href: '#/n/' + ob.node }, 'node ' + ob.node)
-      : h('span', { class: 'faint' }, 'node ' + ABSENT));
+      ? h('a', { href: '#/n/' + ob.node }, nodeName(ob.node))
+      : h('span', { class: 'faint' }, 'no node ' + ABSENT));
   left.append(head);
   left.append(h('p', { class: 'pt-attr' }, ob.attribution));
   left.append(h('p', { class: 'pt-attr dim' }, ob.caveat));
@@ -176,8 +182,8 @@ function renderRight(right: HTMLElement, file: PatentsFile, p: Patent, known: Se
     h('span', { class: 'cyan' }, p.number),
     h('span', { class: 'sep' }, '·'),
     p.node && known.has(p.node)
-      ? h('a', { href: '#/n/' + p.node }, 'node ' + p.node)
-      : h('span', { class: 'faint' }, 'node ' + ABSENT),
+      ? h('a', { href: '#/n/' + p.node }, nodeName(p.node))
+      : h('span', { class: 'faint' }, 'no node ' + ABSENT),
     h('span', { class: 'sep' }, '·'),
     h('span', { class: 'pt-status' }, statusLine(p)));
   right.append(h('div', { class: 'crumb' }, crumb));

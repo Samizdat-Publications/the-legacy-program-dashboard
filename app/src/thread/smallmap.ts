@@ -34,7 +34,7 @@ export function renderSmallMap(
   const eras = grid.eras;
   const gridNode = new Map(grid.nodes.map((n) => [n.id, n]));
 
-  const colW = Math.max(56, (width - BAND_COL) / eras.length);
+  const colW = Math.max(46, (width - BAND_COL) / eras.length);
   const boardW = BAND_COL + colW * eras.length;
 
   /* Which cell each step belongs in, and how the chips stack inside it. */
@@ -84,7 +84,7 @@ export function renderSmallMap(
   });
   rows.forEach((b, ri) => {
     const label = b === FLOOR
-      ? 'below the floor'
+      ? 'not on the map'
       : (grid.bands.filter((x) => x.id === b)[0] || { label: b }).label;
     board.append(h('div', {
       class: 'tm-bandhead' + (b === FLOOR ? ' floor' : ''),
@@ -139,6 +139,6 @@ export function renderSmallMap(
 
   host.append(h('div', { class: 'tm-cap dim' },
     'Small map · ' + onMap + ' of ' + thread.steps.length + ' steps on the program grid · ' +
-    (thread.steps.length - onMap) + ' below the L0 floor · numbered as at left'));
+    (thread.steps.length - onMap) + ' not on the program map · numbered as at left'));
   host.append(board);
 }

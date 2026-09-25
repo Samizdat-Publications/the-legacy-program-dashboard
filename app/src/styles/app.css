@@ -85,15 +85,22 @@ h1, h2, h3 { margin: 0; font-weight: 600; }
 .nav-back:disabled .nav-back-chev { color: var(--faint); }
 
 .bar-search { flex: 1 1 auto; position: relative; min-width: 180px; max-width: 640px; }
-.bar-right { margin-left: auto; display: flex; align-items: center; gap: 12px; flex: 0 0 auto; }
-.frag { color: var(--cyan); white-space: nowrap; }
-.viewport {
-  color: var(--dim);
-  border: 1px solid var(--line);
+/* the phone's VIEWS button: hidden on every wider screen */
+.nav-toggle {
+  display: none;
+  align-items: center;
+  gap: 6px;
+  padding: 4px 10px;
+  letter-spacing: 0.08em;
+  color: var(--text);
   background: var(--panel);
-  padding: 3px 8px;
+  border: 1px solid var(--line2);
   white-space: nowrap;
 }
+.nav-toggle .nav-toggle-chev { color: var(--cyan); }
+
+/* the slot the closed analyst tab is placed over (frame.ts placeDock) */
+.bar-dock { flex: 0 0 var(--dock-w); width: var(--dock-w); height: var(--dock-h); margin-left: auto; }
 
 /* =====================================================================
    The search control. The same control on every screen; Home repeats it
@@ -253,28 +260,37 @@ h1, h2, h3 { margin: 0; font-weight: 600; }
    ===================================================================== */
 #analyst {
   position: fixed;
-  left: 0;
-  bottom: 0;
-  z-index: 30;                 /* under the bar, which is 40 */
+  z-index: 45;                 /* over the bar, whose slot it sits in */
   display: flex;
   flex-direction: column;
   background: var(--bg2);
-  border-top: 1px solid var(--line);
-  border-right: 1px solid var(--line);
-  max-height: 100vh;
+  border: 1px solid var(--line2);
 }
-/* Open, it is the full width of the window and overlays whatever is under it.
-   Closed, it is a tab no wider than --dock-w, which is the map's band-label
-   gutter: the one strip of the two full-viewport pages that carries nothing. */
-#analyst[data-open='1'] { right: 0; border-right: 0; }
-#analyst[data-open='0'] { width: var(--dock-w); }
+/* Closed, it is a tab over the bar's own slot (.bar-dock), so it covers nothing
+   on any page and takes no height from the map or the neighbourhood. Open, it
+   drops down from under the bar across the full width and overlays the page:
+   the page never re-lays-out under a reader who opened the analyst. */
+#analyst[data-open='0'] {
+  top: var(--dock-y, 5px);
+  left: var(--dock-x, auto);
+  right: auto;
+  width: var(--dock-w);
+}
+#analyst[data-open='1'] {
+  top: var(--bar-h);
+  left: 0;
+  right: 0;
+  max-height: calc(100vh - var(--bar-h));
+  border-width: 0 0 1px 0;
+  box-shadow: 0 8px 28px rgba(0, 0, 0, 0.55);
+}
 #analyst[data-open='0'] .an-where,
 #analyst[data-open='0'] .an-status { display: none; }
 
 /* the tab. A button, because its whole job is to open and close. */
 .an-bar {
   flex: 0 0 auto;
-  height: var(--dock-h);
+  height: calc(var(--dock-h) - 2px);
   display: flex;
   align-items: center;
   gap: 8px;
@@ -357,7 +373,8 @@ h1, h2, h3 { margin: 0; font-weight: 600; }
 /* =====================================================================
    Node page
    ===================================================================== */
-.node { display: grid; grid-template-columns: minmax(0, 1fr) 520px; gap: 22px; align-items: start; }
+.node { display: grid; grid-template-columns: minmax(0, 1fr) 600px; gap: 22px; align-items: start; }
+.node.with-against { grid-template-columns: minmax(0, 1fr) 440px 520px; }
 .node-main { min-width: 0; }
 .node-side { min-width: 0; }
 .node-third { min-width: 0; display: none; }
@@ -392,8 +409,57 @@ h1.node-h1 { font-size: var(--fs-h1); font-weight: 600; letter-spacing: -0.01em;
 
 .sec { margin: 20px 0 8px; }
 .sechead { display: flex; align-items: baseline; justify-content: space-between; gap: 14px; }
-.narrative { font-size: var(--fs-body); max-width: 74ch; color: var(--text); }
+.narrative { font-size: var(--fs-body); max-width: 110ch; color: var(--text); }
 .narrative p { margin: 0 0 10px; }
+
+/* The board's own analysis, labelled and folded to six lines. The words stay in
+   the DOM; the control says there is more. */
+.analysis { margin-top: 4px; }
+.analysis-head { color: var(--amber); margin: 6px 0 4px; }
+.analysis-text.folded {
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 6;
+  line-clamp: 6;
+  overflow: hidden;
+}
+.analysis-more {
+  border: 1px solid var(--line2);
+  color: var(--cyan);
+  padding: 3px 10px;
+  letter-spacing: 0.06em;
+  margin-top: -2px;
+}
+.analysis-more:hover { border-color: var(--cyan); }
+
+/* The case against: conflicts, unverified notes and the denial posture, as rows
+   at the label size, where the first screen can see them. */
+.against { display: grid; gap: 4px; margin-bottom: 14px; min-width: 0; }
+.against-head { margin-bottom: 2px; }
+.against-row {
+  display: grid;
+  gap: 2px;
+  padding: 5px 10px;
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-left: 2px solid var(--amber);
+}
+.against-row.cnf { border-left-color: var(--red); }
+.against-row.posture { border-left-color: var(--line2); }
+.node-main > .against { margin-top: 16px; }
+
+/* The mark on a Tier 1 claim that records that something was said (attrib.ts). */
+.said-mark {
+  display: inline-block;
+  color: var(--amber);
+  border: 1px solid rgba(239, 181, 85, 0.55);
+  padding: 0 5px;
+  margin-right: 7px;
+  letter-spacing: 0.04em;
+  line-height: 1.35;
+  cursor: help;
+  white-space: nowrap;
+}
 
 .claims { display: grid; gap: 3px; }
 .claim {
@@ -505,7 +571,7 @@ h1.node-h1 { font-size: var(--fs-h1); font-weight: 600; letter-spacing: -0.01em;
 .report .rstep-join { color: var(--paper-dim); margin: 2px 0 3px; }
 .report .rstep-ev { font-size: var(--fs-body); max-width: 68ch; }
 .report .rcites { border-top: 1px solid var(--paper-line); padding-top: 10px; margin-top: 32px; }
-.report .rcites div { margin-bottom: 3px; }
+.report .rcites div { margin-bottom: 3px; overflow-wrap: anywhere; }
 .report .rcites .cn { color: #1c4f66; }
 
 @media print {
@@ -523,24 +589,63 @@ h1.node-h1 { font-size: var(--fs-h1); font-weight: 600; letter-spacing: -0.01em;
    Widths. Nothing is dropped at 1366; the columns narrow.
    ===================================================================== */
 @media (max-width: 1599px) {
+  .wordmark .w-dim { display: none; }
   .home { grid-template-columns: minmax(0, 1fr) 310px; }
-  .node { grid-template-columns: minmax(0, 1fr) 340px; }
+  .node { grid-template-columns: minmax(0, 1fr) 380px; }
   .node .twocol { grid-template-columns: minmax(0, 1fr); gap: 14px; }
   .report .rconns { columns: 2; }
 }
 @media (min-width: 2200px) {
   .node { grid-template-columns: minmax(0, 1fr) 520px 460px; }
+  .node.with-against { grid-template-columns: minmax(0, 1fr) 440px 520px 460px; }
   .node-third { display: block; }
   .node-third-hide { display: none; }
 }
 
-/* Phones (redesign phase 1): one column; the bar scrolls inside itself. */
+/* Phones (redesign phases 1 and 5b): one column. The bar is two rows, the
+   wordmark, the back control and the VIEWS button, then the search field; the
+   eight routes open from VIEWS as a list under the bar. */
 @media (max-width: 760px) {
-  .bar { overflow-x: auto; gap: 8px; }
-  .bar-right { display: none; }
+  :root { --bar-h: 78px; }
+  .bar {
+    flex-wrap: wrap;
+    align-content: flex-start;
+    gap: 6px 8px;
+    padding: 6px 12px;
+  }
+  .wordmark .w-dim { display: none; }
+  .nav-toggle { display: flex; margin-left: auto; }
+  .nav {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    right: 0;
+    flex-direction: column;
+    align-items: stretch;
+    gap: 0;
+    background: var(--bg2);
+    border-bottom: 1px solid var(--line2);
+    box-shadow: 0 8px 28px rgba(0, 0, 0, 0.55);
+    padding: 4px 0;
+  }
+  .bar[data-open='1'] .nav { display: flex; }
+  .nav a, .nav span.nav-inert { padding: 9px 16px; }
+  .bar-search { flex: 0 0 calc(100% - var(--dock-w) - 8px); max-width: none; min-width: 0; }
+  .home { grid-template-columns: minmax(0, 1fr); }
+  .paths { grid-template-columns: minmax(0, 1fr); }
+  .searchbox.big .slash { display: none; }
+  .searchbox.big input { padding-right: 12px; }
+  .actions .idline { margin-left: 0; }
   .node { grid-template-columns: minmax(0, 1fr); }
   .node .twocol { grid-template-columns: minmax(0, 1fr); }
+  .claim { grid-template-columns: 24px minmax(0, 1fr); }
+  .claim .csrc { grid-column: 2; }
+  .said-mark { white-space: normal; }
   .conn-group .conn-line { grid-template-columns: minmax(0, 1fr); }
   .conn-group .conn-line .cmeta { white-space: normal; }
   .report .rconns { columns: 1; }
+  .report { padding: 22px 16px 30px; }
+  .report .rhead { flex-wrap: wrap; }
+  .report-wrap { margin: 0 -8px; }
 }

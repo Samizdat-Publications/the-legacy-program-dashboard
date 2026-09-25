@@ -41,6 +41,7 @@
   color: var(--dim);
   padding: 2px 7px;
 }
+.ev-chip { max-width: 100%; overflow-wrap: anywhere; }
 .ev-chip:hover { border-color: var(--line2); color: var(--text); text-decoration: none; }
 .ev-chip.on { border-color: var(--cyan); background: var(--panel2); color: var(--text); }
 .ev-chip .ev-chip-n { color: var(--faint); }
@@ -139,4 +140,45 @@
   .ev-table .c-node { width: 150px; }
   .ev-table .c-src { width: 230px; }
   .ev-table .c-foia { width: 200px; }
+}
+
+/* the phone's FILTERS control: hidden wherever the rail has room */
+.ev-filter-toggle {
+  display: none;
+  border: 1px solid var(--line2);
+  background: var(--panel);
+  color: var(--text);
+  padding: 4px 10px;
+  letter-spacing: 0.08em;
+  margin: 4px 0 2px;
+}
+
+/* Phones (redesign phase 5b): the claims first. The filters fold behind one
+   control, and every row becomes a card: tier, class and node on one line, then
+   the claim, its source, and the node flag and FOIA line when there are any. */
+@media (max-width: 760px) {
+  .ev { grid-template-columns: minmax(0, 1fr); gap: 10px; }
+  .ev-rail { position: static; }
+  .ev-filter-toggle { display: inline-flex; gap: 6px; align-items: baseline; }
+  .ev-rail[data-open='0'] .ev-filters { display: none; }
+  .ev-rail .ev-note { display: none; }
+  .ev-table, .ev-table tbody { display: block; }
+  .ev-table thead { display: none; }
+  .ev-table tr {
+    display: grid;
+    grid-template-columns: auto auto minmax(0, 1fr);
+    gap: 3px 8px;
+    align-items: baseline;
+    background: var(--panel);
+    border: 1px solid var(--line);
+    padding: 7px 9px;
+    margin-bottom: 6px;
+  }
+  .ev-table tr:hover td { background: none; }
+  .ev-table td { display: block; padding: 0; border: 0; min-width: 0; }
+  .ev-table .c-tier, .ev-table .c-cls, .ev-table .c-node { width: auto; }
+  .ev-table .c-claim, .ev-table .c-src, .ev-table .c-den, .ev-table .c-foia { width: auto; grid-column: 1 / -1; }
+  .ev-table .c-den:empty, .ev-table .c-foia:empty { display: none; }
+  .ev-table tr.ev-x { display: block; padding: 0; }
+  .ev-table tr.ev-x td.ev-xcell { display: block; }
 }

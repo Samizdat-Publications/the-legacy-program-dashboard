@@ -152,3 +152,19 @@ a.hood-b { color: var(--dim); }
 .hood-leg .sw.dash { border-top-style: dashed; }
 .hood-leg .sw.dot { border-top-style: dotted; }
 .hood-leg .sw.grey { color: var(--faint); }
+
+/* Phones (redesign phase 5b): the neighbourhood as a list of neighbours. */
+.hood-phone { display: grid; gap: 10px; }
+.hp-head .hp-who { color: var(--text); font-weight: 600; }
+.hp-ctl { display: flex; gap: 6px; flex-wrap: wrap; }
+.hp-list { display: grid; gap: 3px; }
+.hp-row {
+  display: grid;
+  grid-template-columns: 10px minmax(0, 1fr) auto;
+  gap: 8px;
+  align-items: center;
+  padding: 5px 8px;
+  border: 1px solid var(--line);
+  background: var(--panel);
+  color: var(--text);
+}

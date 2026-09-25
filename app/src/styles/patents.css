@@ -197,3 +197,14 @@ h1.pt-h1 {
   .pt-thumb { height: 150px; }
   .pt-lb { grid-template-columns: minmax(0, 1fr) 280px; padding: 70px 24px; }
 }
+
+/* Phones (redesign phase 5b): one column, and the prosecution steps stack. */
+@media (max-width: 760px) {
+  .pt { grid-template-columns: minmax(0, 1fr); gap: 16px; }
+  .pt-card-meta { flex-wrap: wrap; }
+  .pt-grid { grid-template-columns: repeat(auto-fill, minmax(140px, 1fr)); }
+  .pt-step { grid-template-columns: minmax(0, 1fr); }
+  .pt-step-note, .pt-step-file { grid-column: 1; }
+  .pt-facts { grid-template-columns: minmax(0, 1fr); }
+  .pt-lb { grid-template-columns: minmax(0, 1fr); padding: 90px 12px 20px; overflow-y: auto; }
+}

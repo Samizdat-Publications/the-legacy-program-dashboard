@@ -6,7 +6,13 @@
  * sentences, every authored field, search over events and threads, the
  * node-level denial flag, and a node page at phone width; C27 to C29 carried from
  * the retired shell; and C30 for redesign phase 3, a denial the record does not
- * adjudicate printed as such. All against the built app served by `npm run preview`.
+ * adjudicate printed as such; and C31 to C35 for redesign phase 5b (the reader
+ * fixes of blind critic round 0): the mark on a Tier 1 claim that records that
+ * something was said, the analyst tab covering no text, the thread's timeline
+ * slice in year order, the timeline's axis and its NO DATE column, and no
+ * internal jargon or debug chrome on any screen. C26 became a phone check over
+ * every surface in the critic sweep. All against the built app served by
+ * `npm run preview`.
  *
  * WHY IT IS SHAPED LIKE THIS.
  *
@@ -49,6 +55,56 @@ const ENTITY_OQ_FOCUS = 'cefaa';
 const DENIAL_FOCUS = 'cia';
 const PATENT = '10144532';
 
+/* ---- C31's rule, restated ------------------------------------------------ */
+/* app/src/attrib.ts decides which Tier 1 claims record that something was SAID.
+   This is the same rule written out again here, not imported, so the check is a
+   second statement of it rather than the implementation agreeing with itself.
+   In words: a Tier 1 claim is "said on the record" when its text opens with an
+   attribution (Sworn, Testified, Stated, Said, Told, According to, Asked,
+   Elicited, Alleged, ...); or a capitalised speaker is followed within six words
+   by a speech verb, that speaker not being a document and the word before the
+   verb not an article or possessive; or its source (URLs aside) is a record of
+   speech (sworn, testimony, a spokesperson, an opening / written / departmental
+   statement, a statement for the record, remarks, a press conference) and the
+   claim is not about the record itself; or it is a quotation sourced to a
+   transcript, hearing, statement or interview. It is "the office's own account"
+   when none of that holds and its source is AARO or the Department itself
+   (aaro.mil, defense.gov, war.gov, or a source string that starts with AARO). */
+function saidRule(tier, text, sourceText, url) {
+  if (Number(tier) !== 1) return null;
+  const t = text || '';
+  const raw = sourceText || '';
+  const s = raw.replace(/https?:\/\/\S+/g, ' ');
+  const opens = /^['"‘“]?(?:Sworn\b|Under oath\b|Testif(?:ied|ies|ying)\b|In (?:sworn |his |her |their |written )?testimony\b|Stated\b|States:|Said\b|Says\b|Told\b|Tells\b|According to\b|Asked\b|Answering\b|Attributed\b|Elicited\b|Claimed\b|Claims\b|Alleged\b|Alleges\b)/i;
+  if (opens.test(t)) return 'said';
+  const speaker = /^(?:[A-Z][\w.'’&()-]*\s){0,4}(?!(?:The|A|An|Its|Their|His|Her|This|That|These|Those)\s)[A-Z][\w.'’&()-]*\s(?:said|says|stated|states|testified|testifies|told|tells|swore|alleged|alleges|claimed|claims|asserted|asserts|declared|declares|responded|replied|answered)\b/.exec(t);
+  if (speaker && !/\b(?:Report|Paper|Assessment|Memo|Memorandum|Brief|Charter|Act|Volume|Document|Instruction|Directive|Manual|Order|FAQ|JANAP|Condon|NSDD|DIA-\d)/.test(speaker[0])) return 'said';
+  const aboutRecord = /^(?:Held\b|Official hearing record|The (?:hearing|transcript|document|record|report|letter|memo)\b|Its core|Page \d|Sole witness|Witness of record|Called as|Appeared as|Listed in|Written testimony filed)/i.test(t);
+  if (!aboutRecord && /\b(?:sworn|testimony|testified|deposition|affidavit|spokes(?:man|woman|person)|(?:opening|written|prepared|emailed|joint|DoD|Navy|NASA|Pentagon|federal) statement|statement (?:for the record|to|following|by|attributed)|remarks|press conference(?! photographs)|media roundtable|media engagement)\b/i.test(s)) return 'said';
+  if (/^['"‘“]/.test(t) && /\b(?:transcript|hearing|statement(?! of work)|interview)\b/i.test(s)) return 'said';
+  const host = ((url || raw).match(/https?:\/\/([^/?#:\s)\]]+)/i) || [])[1] || '';
+  if (/(^|\.)(?:aaro\.mil|defense\.gov|war\.gov)$/i.test(host.toLowerCase()) ||
+      /^(?:AARO|All-domain Anomaly Resolution Office)\b/i.test(s.trim())) return 'office';
+  return null;
+}
+/* a node record's claim source is a string or {name, url}; claims.json's is {text, url} */
+function srcOf(src) {
+  if (!src) return { text: '', url: null };
+  if (typeof src === 'object') return { text: src.text || src.name || src.url || '', url: src.url || null };
+  const m = String(src).match(/https?:\/\/[^\s)\]]+/);
+  return { text: String(src), url: m ? m[0] : null };
+}
+
+/* ---- C35's words ---------------------------------------------------------- */
+/* Internal vocabulary the reader was shown until phase 5b, and the debug chrome
+   the bar carried. None of it may reach any screen. */
+const JARGON = [
+  /row pitch \d/i, /band gap \d/i, /scale 1:1/i, /\bL0 floor\b/i, /below the (?:label )?floor/i,
+  /derived pairs/i, /never the whole graph/i, /\bdegree \d+ distinct/i,
+  /\bnode [a-z0-9]+(?:-[a-z0-9]+)+\b/, /\bid [a-z0-9]+(?:-[a-z0-9]+)* ·/, /no room at 11px/i,
+  /all labels at 11px/i, /data\/the-program\.json/,
+];
+
 /* ---- reporting ---------------------------------------------------------- */
 const failsByCheck = new Map();
 let nFail = 0, nOk = 0;
@@ -90,8 +146,10 @@ const IN_PAGE = {
   page() {
     const h2 = document.querySelector('.notice h2');
     const b = document.querySelector('button.nav-back');
+    const bar = document.querySelector('.bar');
     return {
       text: document.body.innerText,
+      bar: bar ? bar.innerText : '',
       hrefs: Array.prototype.map.call(document.querySelectorAll('a[href]'), (a) => a.getAttribute('href')),
       notfound: !!(h2 && /No such route/.test(h2.textContent || '')),
       title: document.title,
@@ -293,6 +351,31 @@ const IN_PAGE = {
     };
   },
 
+  /* The node page's first screen (C23, phase 5b): where the About lead, the
+     case against and the first claim sit against the fold, whether the board's
+     own analysis is labelled and folded with every word still in the DOM, and
+     how much of the main column the prose uses. */
+  firstScreen() {
+    const vh = innerHeight;
+    const top = (el) => (el ? el.getBoundingClientRect().top : 1e9);
+    const main = document.querySelector('.node .node-main');
+    const ana = document.querySelector('.node .analysis-text');
+    const lead = document.querySelector('.node .narrative.lead') || ana;
+    const lh = ana ? parseFloat(getComputedStyle(ana).lineHeight) || 19 : 19;
+    return {
+      vh,
+      leadTop: top(lead), againstTop: top(document.querySelector('.node .against-row')),
+      claimTop: top(document.querySelector('.node .claim')),
+      head: ((document.querySelector('.node .analysis-head') || {}).textContent || '').trim(),
+      folded: !!ana && ana.classList.contains('folded'),
+      foldedLines: ana ? Math.round(ana.clientHeight / lh) : 0,
+      more: ((document.querySelector('.node .analysis-more') || {}).textContent || '').trim(),
+      chars: ana ? (ana.textContent || '').length : 0,
+      proseW: ana ? ana.getBoundingClientRect().width : 0,
+      mainW: main ? main.getBoundingClientRect().width : 0,
+    };
+  },
+
   /* The node page's denial rows, in page order, as the reader sees them. */
   denials() {
     return Array.prototype.map.call(document.querySelectorAll('.node .denials .denial'), (r) => ({
@@ -340,6 +423,165 @@ const IN_PAGE = {
       packs, items,
       openEraSub: open ? (open.querySelector('.tl-era-sub') || {}).textContent || '' : '',
     };
+  },
+
+  /* Every visible run of text as the browser laid it out: one box per line
+     fragment of every text node, clipped by any ancestor that clips it (the
+     folded analysis, a scrolling chip box), skipping what matches skipSel. */
+  texts(skipSel) {
+    const out = [];
+    const clipOf = new Map();
+    const clip = (el) => {
+      if (clipOf.has(el)) return clipOf.get(el);
+      let box = { l: -1e9, t: -1e9, r: 1e9, b: 1e9 };
+      for (let a = el; a && a !== document.documentElement; a = a.parentElement) {
+        const cs = getComputedStyle(a);
+        if (cs.display === 'contents') continue;
+        if (cs.overflowX !== 'visible' || cs.overflowY !== 'visible') {
+          const q = a.getBoundingClientRect();
+          box = { l: Math.max(box.l, q.left), t: Math.max(box.t, q.top), r: Math.min(box.r, q.right), b: Math.min(box.b, q.bottom) };
+        }
+      }
+      clipOf.set(el, box);
+      return box;
+    };
+    const w = document.createTreeWalker(document.body, NodeFilter.SHOW_TEXT);
+    let n, i = 0;
+    while ((n = w.nextNode())) {
+      if (!n.nodeValue || !n.nodeValue.trim()) continue;
+      const el = n.parentElement;
+      if (!el || (skipSel && el.closest(skipSel))) continue;
+      /* a closed <details> keeps its content laid out in Chromium, unseen */
+      const det = el.closest('details');
+      if (det && !det.open && !el.closest('summary')) continue;
+      if (el.checkVisibility && !el.checkVisibility({ visibilityProperty: true, opacityProperty: true })) continue;
+      const cs = getComputedStyle(el);
+      if (cs.visibility === 'hidden' || Number(cs.opacity) === 0) continue;
+      /* the ink of a line is its em box, not the taller content area the
+         browser reports: 11px text on a 12px line does not overprint */
+      const fs = parseFloat(cs.fontSize) || 11;
+      const c = clip(el);
+      const r = document.createRange();
+      r.selectNodeContents(n);
+      for (const q of r.getClientRects()) {
+        const inset = Math.max(0, (q.height - fs) / 2);
+        const l = Math.max(q.left, c.l), t = Math.max(q.top + inset, c.t);
+        const rr = Math.min(q.right, c.r), b = Math.min(q.bottom - inset, c.b);
+        if (rr - l < 1 || b - t < 1) continue;
+        out.push({ id: (i++) + ':' + n.nodeValue.trim().slice(0, 22), x: l + scrollX, y: t + scrollY, w: rr - l, h: b - t,
+          vx: l, vy: t });
+      }
+    }
+    return out;
+  },
+
+  /* The closed analyst tab, and every text box it sits on (C32). */
+  tabOver() {
+    const host = document.getElementById('analyst');
+    const bar = host && host.querySelector('.an-bar');
+    if (!host || !bar) return { present: false };
+    const r = bar.getBoundingClientRect();
+    return { present: true, open: host.getAttribute('data-open'), x: r.left, y: r.top, w: r.width, h: r.height };
+  },
+
+  /* Claim rows and the mark each carries (C31). */
+  said(rowSel) {
+    return Array.prototype.map.call(document.querySelectorAll(rowSel), (r) => {
+      const m = r.querySelector('.said-mark');
+      const b = m ? m.getBoundingClientRect() : null;
+      return {
+        cid: r.getAttribute('data-cid') || '',
+        kind: m ? m.getAttribute('data-said') : null,
+        text: m ? (m.textContent || '').trim() : '',
+        title: m ? (m.getAttribute('title') || '') : '',
+        shown: !!b && b.width > 0 && b.height > 0,
+      };
+    });
+  },
+
+  /* The thread page's timeline slice, as laid out (C33). */
+  slice() {
+    const axis = document.querySelector('.ts-axis');
+    const ar = axis ? axis.getBoundingClientRect() : null;
+    return {
+      axisR: ar ? ar.right + scrollX : 0, axisL: ar ? ar.left + scrollX : 0,
+      labs: Array.prototype.map.call(document.querySelectorAll('.ts-lab'), (l, i) => {
+        const r = l.getBoundingClientRect();
+        const y = Number(((l.querySelector('.ts-year b') || {}).textContent || '').trim());
+        return { id: i + ':' + y, year: y, x: r.left + scrollX, y: r.top + scrollY, w: r.width, h: r.height };
+      }),
+    };
+  },
+
+  /* The timeline's year axis and its era heads (C34). */
+  tlAxis() {
+    return {
+      years: Array.prototype.map.call(document.querySelectorAll('.tl-years .tl-year'), (b) => Number(b.getAttribute('data-year'))),
+      heads: Array.prototype.map.call(document.querySelectorAll('.tl-grid .tl-era .tl-era-label'), (e) => (e.textContent || '').trim()),
+      openEra: ((document.querySelector('.tl-era.open .tl-era-label') || {}).textContent || '').trim(),
+    };
+  },
+
+  /* A surface at phone width: its sideways overflow, and whether the thing
+     the surface exists to show is there to read (C26). */
+  phone(kind) {
+    const vw = innerWidth, vh = innerHeight;
+    const seen = (el, minW) => {
+      const r = el.getBoundingClientRect();
+      return r.width >= (minW || 1) && r.height > 0 && r.left >= -1 && r.right <= vw + 1;
+    };
+    const onFirst = (el) => { const r = el.getBoundingClientRect(); return r.top < vh && r.bottom > 0; };
+    const txt = (el) => ((el && el.textContent) || '').trim();
+    const all = (sel) => Array.prototype.slice.call(document.querySelectorAll(sel));
+    const out = { scrollW: document.documentElement.scrollWidth, vw, kind, have: 0, want: 1, what: '' };
+    if (kind === 'evidence') {
+      const c = all('.ev-table td.c-claim').filter((td) => seen(td, 200) && onFirst(td) && txt(td).length > 20);
+      out.have = c.length; out.what = 'claim texts readable on the first screen';
+    } else if (kind === 'map') {
+      const chips = all('.mp-chip');
+      out.want = Math.max(1, Number(document.querySelectorAll('.mp-band').length ? chips.length : 1));
+      out.have = chips.filter((c) => seen(c) && txt(c.querySelector('.mp-label')).length > 0).length;
+      out.chips = chips.length;
+      out.what = 'map chips named and inside the screen';
+    } else if (kind === 'hood') {
+      out.have = all('.conn-head .row-label').filter((e) => seen(e) && txt(e)).length;
+      out.what = 'neighbours named';
+    } else if (kind === 'node') {
+      out.have = all('.claim .ctext').filter((e) => seen(e, 150) && txt(e)).length;
+      out.what = 'claim rows readable';
+    } else if (kind === 'home') {
+      const p = document.querySelector('.home-para');
+      out.have = p && seen(p, 300) && onFirst(p) ? 1 : 0;
+      out.what = 'the introduction at a readable width on the first screen';
+    } else if (kind === 'timeline') {
+      out.have = all('.tlp-row').filter((e) => seen(e, 200) && txt(e)).length;
+      out.what = 'timeline events named';
+    } else if (kind === 'thread') {
+      out.have = all('.th-step .th-label').filter((e) => seen(e) && txt(e)).length;
+      out.what = 'thread steps named';
+    } else if (kind === 'patent') {
+      out.have = all('.pt-card .pt-title').filter((e) => seen(e) && txt(e)).length;
+      out.what = 'patents named';
+    } else if (kind === 'report') {
+      out.have = all('.report h1').filter((e) => seen(e) && txt(e)).length;
+      out.what = 'the report headed';
+    }
+    return out;
+  },
+
+  /* The phone's VIEWS list, opened: every route a reader can reach from it. */
+  navOpen() {
+    const vw = innerWidth, vh = innerHeight;
+    const items = Array.prototype.slice.call(document.querySelectorAll('.bar .nav a, .bar .nav .nav-inert'));
+    return items.map((el) => {
+      const r = el.getBoundingClientRect();
+      const top = r.width > 0 ? document.elementFromPoint(Math.round(r.left + r.width / 2), Math.round(r.top + r.height / 2)) : null;
+      return {
+        label: (el.textContent || '').trim(), link: el.tagName === 'A',
+        reachable: r.width > 0 && r.height > 0 && r.left >= 0 && r.right <= vw + 1 && r.bottom <= vh &&
+          !!top && (top === el || el.contains(top)),
+      };
+    });
   },
 
   /* Home's start-here register, in the order it is drawn. */
@@ -739,6 +981,14 @@ const POISONS = {
       const u = document.querySelectorAll(sel);
       if (u.length) u[u.length - 1].remove();
       if (stopId === 'person') for (const c of document.querySelectorAll('.node .axis .acell')) c.style.position = 'absolute';
+      /* and puts the case against back where it was: below the whole About text */
+      if (stopId === 'person') {
+        const a = document.querySelector('.node .against');
+        const m = document.querySelector('.node .node-main');
+        const t = document.querySelector('.node .analysis-text');
+        if (t) t.classList.remove('folded');
+        if (a && m) m.append(a);
+      }
     }, id),
   },
   c30: {
@@ -794,12 +1044,104 @@ const POISONS = {
     }),
   },
   c26: {
-    stops: ['phone'],
-    what: 'puts the desktop two-column grid back at phone width',
+    stops: ['phone:evidence', 'phone:map', 'phone:home', 'phone:node', 'phone:hood'],
+    what: 'at phone width: forces a wide element into the evidence page, lays one map chip over another, hides the VIEWS button, puts the desktop grid back on the node page, and empties the neighbourhood',
+    fn: async (page, _ctx, id) => page.evaluate((stopId) => {
+      if (stopId === 'phone:evidence') {
+        const d = document.createElement('div');
+        d.style.cssText = 'width:620px;height:4px';
+        const m = document.querySelector('.ev-main');
+        if (m) m.prepend(d);
+      } else if (stopId === 'phone:map') {
+        const cs = document.querySelectorAll('.mp-chip');
+        if (cs.length > 1) {
+          const a = cs[0].getBoundingClientRect(), b = cs[1].getBoundingClientRect();
+          cs[1].style.position = 'relative';
+          cs[1].style.left = (a.left - b.left) + 'px';
+          cs[1].style.top = (a.top - b.top) + 'px';
+        }
+      } else if (stopId === 'phone:home') {
+        const t = document.querySelector('.nav-toggle');
+        if (t) t.style.display = 'none';
+      } else if (stopId === 'phone:node') {
+        const n = document.querySelector('.node');
+        if (n) n.style.gridTemplateColumns = 'minmax(0, 1fr) 520px';
+      } else if (stopId === 'phone:hood') {
+        for (const g of document.querySelectorAll('.conn-groups')) g.remove();
+      }
+    }, id),
+  },
+  c31: {
+    stops: ['person', 'evidence'],
+    what: 'takes the said-on-the-record mark off one sworn claim and puts it on one documentary Tier 1 claim',
+    fn: async (page, _ctx, id) => page.evaluate((stopId) => {
+      const rows = Array.from(document.querySelectorAll(stopId === 'person' ? '.claim' : '.ev-table tbody tr[data-cid]'));
+      const marked = rows.find((r) => r.querySelector('.said-mark'));
+      const plain = rows.find((r) => !r.querySelector('.said-mark') && /T1/.test((r.querySelector('.ct, .c-tier') || {}).textContent || ''));
+      if (marked) marked.querySelector('.said-mark').remove();
+      if (plain) {
+        const s = document.createElement('span');
+        s.className = 'said-mark'; s.setAttribute('data-said', 'said'); s.textContent = 'said on the record';
+        const host = plain.querySelector('.ctext, .c-claim');
+        if (host) host.prepend(s);
+      }
+    }, id),
+  },
+  c32: {
+    stops: ['tab:1920:node', 'tab:375:evidence'],
+    what: 'puts the closed analyst tab back at the foot of the window, where it sat until phase 5b',
     fn: async (page) => page.evaluate(() => {
-      const n = document.querySelector('.node');
-      if (n) n.style.gridTemplateColumns = 'minmax(0, 1fr) 520px';
+      const a = document.getElementById('analyst');
+      if (a) { a.style.top = 'auto'; a.style.bottom = '0px'; a.style.left = '0px'; }
     }),
+  },
+  c33: {
+    stops: ['thread:custody'],
+    what: 'redraws the thread slice the way the old packing drew it: a later year on the row above an earlier one',
+    fn: async (page) => page.evaluate(() => {
+      const labs = document.querySelectorAll('.ts-lab');
+      if (labs.length < 2) return;
+      const t0 = labs[0].style.top, t1 = labs[1].style.top;
+      labs[0].style.top = t1; labs[1].style.top = t0;
+    }),
+  },
+  c34: {
+    stops: ['timeline'],
+    what: 'adds an empty future year to the axis and an empty NO DATE column head',
+    fn: async (page) => page.evaluate(() => {
+      const yh = document.querySelector('.tl-years');
+      const last = yh && yh.lastElementChild;
+      if (last) {
+        const b = last.cloneNode(true);
+        b.setAttribute('data-year', String(Number(last.getAttribute('data-year')) + 1));
+        yh.append(b);
+      }
+      const g = document.querySelector('.tl-grid');
+      const head = g && g.querySelector('.tl-era:not(.open)');
+      if (head) {
+        const c = head.cloneNode(true);
+        const l = c.querySelector('.tl-era-label');
+        if (l) l.textContent = 'NO DATE';
+        head.after(c);
+      }
+    }),
+  },
+  c35: {
+    stops: ['map', 'home'],
+    what: "prints the map's old strip wording, and the raw route and viewport badge, back into the page",
+    fn: async (page, _ctx, id) => page.evaluate((stopId) => {
+      if (stopId === 'map') {
+        const s = document.querySelector('.map-stat');
+        if (s) s.textContent += ' · row pitch 18, band gap 12 · scale 1:1';
+      } else {
+        const b = document.querySelector('.bar');
+        if (b) {
+          const f = document.createElement('span');
+          f.textContent = location.hash + '  ' + innerWidth + '×' + innerHeight;
+          b.append(f);
+        }
+      }
+    }, id),
   },
   c20: {
     stops: ['search'],
@@ -944,6 +1286,8 @@ async function main() {
 
   await stop('person', '#/n/' + PERSON_FOCUS, 1200);
   S.person.fields = await ev(IN_PAGE.fields);
+  S.person.first = await ev(IN_PAGE.firstScreen);
+  S.person.said = await ev(IN_PAGE.said, '.claim');
 
   await stop('entity', '#/n/' + ENTITY_FOCUS, 1200);
   S.entity.fields = await ev(IN_PAGE.fields);
@@ -978,17 +1322,21 @@ async function main() {
     const id = 'thread:' + t.id;
     await stop(id, '#/t/' + t.id, 1400);
     S[id].thread = await ev(IN_PAGE.thread);
+    S[id].slice = await ev(IN_PAGE.slice);
   }
 
   await stop('timeline', '#/timeline', 2400);
   S.timeline.timeline = await ev(IN_PAGE.timeline);
+  S.timeline.axis = await ev(IN_PAGE.tlAxis);
 
   await stop('patents', '#/patents/' + PATENT, 2000);
   await stop('evidence', '#/evidence', 3200);
   S.evidence.den = await page.evaluate(() =>
     Array.from(document.querySelectorAll('td.c-den')).map((td) => (td.textContent || '').trim()));
+  S.evidence.said = await ev(IN_PAGE.said, '.ev-table tbody tr[data-cid]');
   await stop('report', '#/report/n/' + NODE_FOCUS, 1600);
   S.report.rconns = await ev(IN_PAGE.rconns);
+  S.report.said = await ev(IN_PAGE.said, '.report ol.rclaims li');
 
   /* the map again, at the width Design says is below the label floor */
   await page.setViewportSize({ width: 1366, height: 768 });
@@ -997,20 +1345,62 @@ async function main() {
   S.map1366.map = await ev(IN_PAGE.map);
   S.map1366.rederive = await ev(IN_PAGE.rederive, mapData.nodes, mapData.cells,
     mapData.bands.map((b) => b.id), mapData.eras.map((e) => e.id));
+  await stop('person1366', '#/n/' + PERSON_FOCUS, 1400);
+  S.person1366.first = await ev(IN_PAGE.firstScreen);
 
-  /* a node page at phone width */
-  await page.setViewportSize({ width: 375, height: 812 });
-  current = null;
-  await stop('phone', '#/n/' + NODE_FOCUS, 1600);
-  S.phone.phone = await page.evaluate(() => {
-    const m = document.querySelector('.node-main');
-    return {
-      mainW: m ? m.getBoundingClientRect().width : 0,
-      scrollW: document.documentElement.scrollWidth,
-      vw: window.innerWidth,
-    };
-  });
-  await page.setViewportSize({ width: 1920, height: 1080 });
+  /* ---- C26's phone sweep and C32's tab sweep ------------------------------ */
+  /* Every surface of the blind critic's sweep (tools/look.js --critic), at the
+     three widths the critic is shown. At 375 each is a phone check (C26): no
+     sideways scroll, no two text boxes on top of each other, the VIEWS list
+     reaching every route, and the thing the surface exists for there to read.
+     At every width the closed analyst tab must sit on no text at all (C32). */
+  const CRITIC = [
+    ['home', '#/'], ['node', '#/n/' + PERSON_FOCUS], ['map', '#/map'],
+    ['hood', '#/n/' + PERSON_FOCUS + '/hood'], ['timeline', '#/timeline'], ['evidence', '#/evidence'],
+    ['thread', '#/t/' + threads[0].id],
+    ['patent', '#/patents/' + String((patentsFile.patents || [])[0].number).replace(/[^0-9]/g, '')],
+    ['report', '#/report/n/' + PERSON_FOCUS],
+  ];
+  const settleOf = (hash) => hash.startsWith('#/evidence') ? 3200
+    : /^#\/(map|timeline)/.test(hash) ? 2400 : /hood/.test(hash) ? 2200 : 1600;
+  const PHONE = [], TAB = [];
+  const sweepPhone = !POISON || POISON === 'c26' || POISON === 'c32';
+  for (const [w, hgt] of (sweepPhone ? [[375, 812], [1366, 768], [1920, 1080]] : [])) {
+    if (POISON === 'c26' && w !== 375) continue;
+    const p = await browser.newPage({ viewport: { width: w, height: hgt } });
+    p.on('pageerror', (e) => pageErrors.push(e.message.slice(0, 160)));
+    let first = true;
+    for (const [name, hash] of CRITIC) {
+      if (first) { await p.goto(APP + hash, { waitUntil: 'load' }); first = false; }
+      else await p.evaluate((x) => { location.hash = x; }, hash);
+      await p.waitForTimeout(settleOf(hash));
+      await p.waitForFunction(() => {
+        const a = document.getElementById('analyst');
+        return !!(a && a.querySelector('.an-bar'));
+      }, null, { timeout: 5000 }).catch(() => {});
+      await poisonAt(p, 'tab:' + w + ':' + name);
+      const tab = await p.evaluate(`(function ${IN_PAGE.tabOver})()`);
+      const texts = await p.evaluate(`(function ${IN_PAGE.texts})(${JSON.stringify('#analyst')})`);
+      TAB.push({ w, name, hash, tab, texts: tab.present ? texts.filter((t) =>
+        t.vx < tab.x + tab.w && t.vx + t.w > tab.x && t.vy < tab.y + tab.h && t.vy + t.h > tab.y).map((t) => t.id) : [] });
+      if (w !== 375) continue;
+      await poisonAt(p, 'phone:' + name);
+      const got = await p.evaluate(`(function ${IN_PAGE.phone})(${JSON.stringify(name)})`);
+      got.overlaps = pairsOverlapping(await p.evaluate(`(function ${IN_PAGE.texts})(${JSON.stringify('#analyst')})`), 4);
+      /* the VIEWS list: one tap opens it, and every route is then one tap away */
+      const tog = p.locator('.bar .nav-toggle').first();
+      got.toggle = (await tog.count()) ? await tog.isVisible() : false;
+      if (got.toggle) {
+        await tog.click();
+        await p.waitForTimeout(150);
+        got.nav = await p.evaluate(`(function ${IN_PAGE.navOpen})()`);
+        await tog.click();
+        await p.waitForTimeout(100);
+      } else got.nav = [];
+      PHONE.push({ name, hash, ...got });
+    }
+    await p.close();
+  }
 
   /* ---- C9's route sweep ------------------------------------------------- */
   const ROUTES = [
@@ -1790,6 +2180,35 @@ async function main() {
     }
   }
 
+  /* ---- C23, the first screen (phase 5b) ---------------------------------- */
+  /* A reader arriving on a node sees what it is, the case against it and the
+     start of its claims without scrolling; the board's long analysis is named
+     as the board's and folded, with nothing taken out of the page; and at 1920
+     the prose uses its column rather than leaving a hole beside it. */
+  {
+    const d = personRec.dossier || {};
+    const prose = String(d.whyImplicated || d.narrative || personRec.desc || personRec.narrative || '').length;
+    for (const [w, f] of [[1920, S.person && S.person.first], [1366, S.person1366 && S.person1366.first]]) {
+      if (!f) { skip('C23 first screen at ' + w, 'not reached'); continue; }
+      const bad = [];
+      if (!(f.leadTop < f.vh)) bad.push('About lead at ' + Math.round(f.leadTop));
+      if (!(f.againstTop < f.vh)) bad.push('case against at ' + Math.round(f.againstTop));
+      if (!(f.claimTop < f.vh - 20)) bad.push('first claim at ' + Math.round(f.claimTop));
+      check('c23', bad.length === 0,
+        `C23 #/n/${PERSON_FOCUS} at ${w}: the About lead, the case against and the first claim are on the first screen`,
+        bad.length ? bad.join(' · ') + ` (screen ${f.vh}px)` :
+          `lead ${Math.round(f.leadTop)} · case against ${Math.round(f.againstTop)} · first claim ${Math.round(f.claimTop)} of ${f.vh}px`);
+      check('c23', f.head === "The board's analysis" && f.folded && f.foldedLines <= 7 &&
+        /^Read the whole analysis$/.test(f.more) && f.chars === prose,
+        `C23 #/n/${PERSON_FOCUS} at ${w}: the analysis is labelled as the board's, folded to its first lines, every word kept`,
+        `"${f.head}" · ${f.folded ? 'folded to ' + f.foldedLines + ' lines' : 'not folded'} · control "${f.more}" · ${f.chars} of ${prose} characters in the page`);
+    }
+    const f = S.person && S.person.first;
+    if (f) check('c23', f.proseW >= 0.75 * f.mainW,
+      `C23 #/n/${PERSON_FOCUS} at 1920: the prose uses its column, no dead gap beside it`,
+      `prose ${Math.round(f.proseW)}px of a ${Math.round(f.mainW)}px column`);
+  }
+
   /* ---- C30 -------------------------------------------------------------- */
   /* A denial is given a direction only where data/denial-adjudication.json names
      the denier. Every row the record does not adjudicate says so, in so many
@@ -1828,11 +2247,132 @@ async function main() {
   }
 
   /* ---- C26 -------------------------------------------------------------- */
+  if (!PHONE.length) skip('C26 every surface reads at 375px', 'poison ' + POISON + ' does not drive it');
+  else {
+    check('c26', PHONE.length === CRITIC.length, 'C26 the phone sweep reached every surface of the critic sweep',
+      PHONE.length + ' of ' + CRITIC.length);
+    for (const r of PHONE) {
+      const routes = r.nav.filter((x) => x.link);
+      const unreach = r.nav.filter((x) => !x.reachable).map((x) => x.label);
+      const bad = [];
+      if (r.scrollW > r.vw + 1) bad.push(`page ${r.scrollW}px wide in ${r.vw}px`);
+      if (r.overlaps.length) bad.push(r.overlaps.length + '+ text boxes overprinted: ' + clip(r.overlaps, 2));
+      if (!r.toggle) bad.push('no VIEWS button to reach the routes');
+      else if (r.nav.length < 8 || routes.length < 7 || unreach.length) {
+        bad.push('VIEWS opens ' + r.nav.length + ' items, ' + routes.length + ' routes' +
+          (unreach.length ? ', not reachable: ' + clip(unreach, 3) : ''));
+      }
+      if (r.have < r.want) bad.push(`${r.what}: ${r.have} of ${r.want}`);
+      check('c26', bad.length === 0, `C26 ${r.name} reads at 375px (${r.hash})`,
+        bad.length ? bad.join(' · ') : `no sideways scroll · no overprint · ${r.nav.length} routes in VIEWS · ${r.have} ${r.what}`);
+    }
+    const m = PHONE.find((r) => r.name === 'map');
+    check('c26', !!m && m.chips === mapData.nodes.length,
+      'C26 the phone map names every node the map carries', m ? m.chips + ' named of ' + mapData.nodes.length : 'no map');
+  }
+
+  /* ---- C31 -------------------------------------------------------------- */
+  /* A Tier 1 claim that records what someone said is marked as such wherever it
+     is drawn, and only those claims are: the rows on the Grusch page, in the
+     evidence table and on a node report, against the rule restated at the top
+     of this file applied to the record. */
   {
-    const p = S.phone.phone;
-    check('c26', p.mainW >= 300 && p.scrollW <= p.vw + 1,
-      'C26 a node page reads at 375px: a real main column and no sideways scroll',
-      `main ${Math.round(p.mainW)}px · page ${p.scrollW}px in ${p.vw}px`);
+    const want = (claims, key) => new Map(claims.map((c) => {
+      const s = srcOf(c.source);
+      return [c.id, saidRule(c.tier, c.text, s.text, s.url)];
+    }));
+    const recWant = want(personRec.claims || []);
+    const evWant = want(claimRows);
+    const repWant = want(focusRec.claims || []);
+    for (const [where, rows, map, total] of [
+      ['#/n/' + PERSON_FOCUS, (S.person && S.person.said) || [], recWant, (personRec.claims || []).length],
+      ['#/evidence (rows drawn)', (S.evidence && S.evidence.said) || [], evWant, null],
+      ['#/report/n/' + NODE_FOCUS, (S.report && S.report.said) || [], repWant, (focusRec.claims || []).length],
+    ]) {
+      const wrong = rows.filter((r) => !map.has(r.cid) || (map.get(r.cid) || null) !== (r.kind || null))
+        .map((r) => (r.cid || '(no id)') + ' page ' + (r.kind || '-') + ' rule ' + (map.get(r.cid) || '-'));
+      const marked = rows.filter((r) => r.kind).length;
+      const words = rows.filter((r) => r.kind && (!r.shown || !r.title ||
+        r.text !== (r.kind === 'said' ? 'said on the record' : "the office's own account"))).length;
+      check('c31', rows.length > 0 && (total == null || rows.length === total) && wrong.length === 0 && words === 0 &&
+        (where.startsWith('#/n/') ? marked > 0 : true),
+        `C31 ${where}: the claims marked as said on the record are exactly the ones the rule picks`,
+        `${rows.length} rows · ${marked} marked` + (total != null ? ` · record ${total}` : '') +
+        (wrong.length ? ' · wrong ' + clip(wrong, 2) : '') + (words ? ` · ${words} marks unshown or mis-worded` : ''));
+    }
+    const all = claimRows.filter((c) => c.tier === 1);
+    const n = all.filter((c) => saidRule(c.tier, c.text, c.source && c.source.text, c.source && c.source.url)).length;
+    console.log(`  info  C31 the rule marks ${n} of ${all.length} Tier 1 claims on the board`);
+  }
+
+  /* ---- C32 -------------------------------------------------------------- */
+  if (!TAB.length) skip('C32 the closed analyst tab covers no text', 'poison ' + POISON + ' does not drive it');
+  else {
+    const bad = TAB.filter((t) => !t.tab.present || t.tab.open !== '0' || t.texts.length)
+      .map((t) => `${t.w} ${t.name}: ` + (t.tab.present ? t.texts.length + ' text boxes under it (' + clip(t.texts, 2) + ')' : 'no tab'));
+    check('c32', bad.length === 0 && TAB.length >= CRITIC.length,
+      'C32 the closed analyst tab sits on no text, on every critic surface at 1920, 1366 and 375',
+      bad.length ? clip(bad, 3) : TAB.length + ' screens, the tab over no text on any');
+  }
+
+  /* ---- C33 -------------------------------------------------------------- */
+  {
+    const done = threads.filter((t) => S['thread:' + t.id] && S['thread:' + t.id].slice);
+    for (const t of done) {
+      const sl = S['thread:' + t.id].slice;
+      const want = [...new Set(t.steps.map((x) => x.year).filter((y) => y != null).map(Number))].sort((a, b) => a - b);
+      const order = sl.labs.slice().sort((a, b) => a.y - b.y || a.x - b.x).map((l) => l.year);
+      const inOrder = order.every((y, i) => i === 0 || y > order[i - 1]);
+      const same = order.length === want.length && want.every((y) => order.includes(y));
+      const over = pairsOverlapping(sl.labs, 3);
+      const out = sl.labs.filter((l) => l.x < sl.axisL - 1 || l.x + l.w > sl.axisR + 1).length;
+      check('c33', inOrder && same && over.length === 0 && out === 0,
+        `C33 #/t/${t.id}: the timeline slice reads in year order and names every year`,
+        'reads ' + order.join(' ') + ' · steps carry ' + want.join(' ') +
+        (over.length ? ' · overlapping ' + clip(over, 2) : '') + (out ? ` · ${out} outside the slice` : ''));
+    }
+  }
+
+  /* ---- C34 -------------------------------------------------------------- */
+  {
+    const ax = S.timeline.axis;
+    const present = Number(String(index.generated || '').slice(0, 4));
+    const era = (index.eras || []).find((e) => e.label === ax.openEra);
+    const inEra = era ? tlEvents.filter((e) => e.era === era.id) : [];
+    const yrs = new Set(inEra.map((e) => Number(String(e.date).slice(0, 4))));
+    const empty = ax.years.filter((y) => y > present && !yrs.has(y));
+    const last = Math.max(...yrs);
+    check('c34', ax.years.length > 0 && empty.length === 0 && Math.max(...ax.years) === last,
+      'C34 the timeline axis stops at the last year that has an event, with no empty future year',
+      `open era ${ax.openEra} · axis ${ax.years[0]} to ${Math.max(...ax.years)} · last event ${last} · board dated ${present}` +
+      (empty.length ? ' · empty future years ' + empty.join(', ') : ''));
+    const undated = (index.eras || []).filter((e) => e.start == null && e.end == null);
+    const hasUndated = undated.some((e) => tlEvents.some((x) => x.era === e.id));
+    const drawn = ax.heads.filter((l) => undated.some((e) => e.label === l)).length;
+    check('c34', hasUndated ? drawn === 1 : drawn === 0,
+      'C34 the NO DATE column is drawn only when it holds an event',
+      `${tlEvents.filter((x) => undated.some((e) => e.id === x.era)).length} undated events · ${drawn} NO DATE heads drawn`);
+  }
+
+  /* ---- C35 -------------------------------------------------------------- */
+  {
+    const hits = [];
+    for (const [id, snap] of Object.entries(S)) {
+      const text = (snap && snap.text) || '';
+      for (const re of JARGON) {
+        const m = text.match(re);
+        if (m) hits.push(id + ': "' + m[0] + '"');
+      }
+    }
+    check('c35', hits.length === 0, 'C35 no screen shows the internal vocabulary the reader was shown until phase 5b',
+      hits.length ? clip(hits, 3) : Object.keys(S).length + ' screens read');
+    const chrome = [];
+    for (const [id, snap] of Object.entries(S)) {
+      const bar = (snap && snap.bar) || '';
+      if (/#\//.test(bar) || /\d{3,4}\s*[×x]\s*\d{3,4}/.test(bar)) chrome.push(id + ': "' + bar.slice(-40) + '"');
+    }
+    check('c35', chrome.length === 0 && Object.values(S).some((x) => x && x.bar),
+      'C35 the bar carries no raw route and no viewport badge', chrome.length ? clip(chrome, 2) : 'clean on every screen');
   }
 
   /* ---- C24 -------------------------------------------------------------- */
@@ -2011,7 +2551,7 @@ async function main() {
       const offScreen = CH.filter((r) => !r.strip.present || !r.strip.onScreen).map((r) => r.hash);
       check('c18', offScreen.length === 0, 'C18 the analyst strip is on screen on every route kind',
         offScreen.length ? 'not reachable on ' + clip(offScreen, 3)
-          : CH.length + ' routes, strip ' + CH[0].strip.h + 'px at the foot of each');
+          : CH.length + ' routes, tab ' + CH[0].strip.h + 'px in the bar on each');
 
       const covered = CH.filter((r) => r.strip.present && !r.strip.unobstructed).map((r) => r.hash);
       check('c18', covered.length === 0, 'C18 nothing is drawn over the analyst strip',

@@ -1,9 +1,8 @@
 /* thread/slice.ts: the timeline slice on the Thread page: the steps' own years.
  *
- * One tick per year the chain touches. A year's label is drawn only where the
- * whole label fits clear of the one before it, which is the label rule of
- * Design section 2.2; what will not fit is counted, never shrunk and never
- * truncated. Steps the board dates with nothing are named under the axis rather
+ * One tick per year the chain touches, and one row per year under the axis,
+ * in year order. Every year is named at the one label size; nothing is shrunk,
+ * truncated or dropped. Steps the board dates with nothing are named under the axis rather
  * than given a year.
  */
 import { h, clear } from '../dom';
@@ -49,38 +48,26 @@ export function renderSlice(
     axis.append(h('i', { class: 'ts-tick', style: 'left:' + x.toFixed(1) + 'px', 'aria-hidden': 'true' }));
   }
 
-  /* Labels are placed left to right into rows: a label goes into the first row
-     where its whole text is clear of everything already there. Nothing is
-     shrunk or truncated to make room, and a label with no row at all is
-     counted rather than drawn on top of another. */
-  const rows: { x0: number; x1: number }[][] = [];
-  let dropped = 0;
-  let usedRows = 0;
-  let maxNames = 1;
-  for (const y of years) maxNames = Math.max(maxNames, dated.filter((d) => d.year === y).length);
-  const rowH = 18 + maxNames * 15;
+  /* One row per year, top to bottom in year order, so the slice reads in the
+     order the years run (the old packing put each label in the first free row,
+     which read 2007, 2009, 2008). Each label starts at its year's own place on
+     the axis, pulled left only as far as it must be to fit inside the slice.
+     Nothing is shrunk, truncated or dropped: every year is named. */
+  let top = 8;
   for (const y of years) {
     const mine = dated.filter((d) => d.year === y);
     const head = String(y) + '  ' + mine.map((m) => m.step).join(' ');
     const names = mine.map((m) => { const n = byId.get(m.node); return n ? (n.short || n.label) : m.node; });
     let wNeeded = textWidth(head);
     for (const s of names) wNeeded = Math.max(wNeeded, textWidth(s));
-    const x = ((y - lo) / span) * inner;
-    if (x + wNeeded > inner + PAD_R) { dropped++; continue; }
-
-    let row = -1;
-    for (let r = 0; r < 8; r++) {
-      if (!rows[r]) rows[r] = [];
-      let clash = false;
-      for (const b of rows[r]) if (x < b.x1 + LABEL_GAP && x + wNeeded + LABEL_GAP > b.x0) { clash = true; break; }
-      if (!clash) { rows[r].push({ x0: x, x1: x + wNeeded }); row = r; break; }
-    }
-    if (row < 0) { dropped++; continue; }
-    usedRows = Math.max(usedRows, row + 1);
+    wNeeded = Math.min(wNeeded + 12, inner + PAD_R);
+    const at = ((y - lo) / span) * inner;
+    const x = Math.max(0, Math.min(at, inner + PAD_R - wNeeded));
 
     const box = h('div', {
       class: 'ts-lab',
-      style: 'left:' + x.toFixed(1) + 'px;width:' + Math.ceil(wNeeded) + 'px;top:' + (8 + row * rowH) + 'px',
+      'data-year': String(y),
+      style: 'left:' + x.toFixed(1) + 'px;width:' + Math.ceil(wNeeded) + 'px;top:' + top + 'px',
     });
     box.append(h('div', { class: 'ts-year' },
       h('b', null, String(y)), ' ',
@@ -93,13 +80,13 @@ export function renderSlice(
       }, n ? (n.short || n.label) : m.node));
     }
     axis.append(box);
+    top += 18 + mine.length * 15 + LABEL_GAP;
   }
 
-  axis.style.minHeight = (12 + Math.max(1, usedRows) * rowH) + 'px';
+  axis.style.minHeight = (top + 4) + 'px';
   host.append(axis);
 
   const notes: string[] = [];
-  if (dropped) notes.push(dropped + (dropped === 1 ? ' year' : ' years') + ' not labelled: no room at 11px');
   if (undated.length) {
     notes.push('no year on the board for ' + undated.map((u) => {
       const n = byId.get(u.node);
