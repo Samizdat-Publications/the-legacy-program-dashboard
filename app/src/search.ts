@@ -1,15 +1,20 @@
-/* search.ts — client-side search over index.json, with claims.json loaded lazily
- * the first time a query runs, so claim text is searchable without paying for it
- * on first paint.
+/* search.ts: client-side search over index.json, with claims.json, threads.json
+ * and timeline.json loaded lazily the first time a query runs, so claim text,
+ * threads and events are searchable without paying for them on first paint.
  *
- * Every result is a node link (`#/n/<id>`), which is a route in section 2.1.
+ * Every result is a route in section 2.1: a node (`#/n/<id>`), a thread
+ * (`#/t/<id>`), or, for an event that names no node, its era on the timeline.
  * The control is the same on every screen; Home repeats it large.
  */
 import { h, clear, mark } from './dom';
-import { loadIndex, loadClaims, clsColour, type IndexNode, type ClaimRow } from './data';
+import {
+  loadIndex, loadClaims, loadTimeline, loadThreads, clsColour,
+  type IndexNode, type ClaimRow, type TimelineEvent, type Thread,
+} from './data';
 
 const MAX_NODE_HITS = 24;
 const MAX_CLAIM_HITS = 12;
+const MAX_EVENT_HITS = 12;
 
 let nodes: IndexNode[] = [];
 let claims: ClaimRow[] | null = null;
@@ -20,6 +25,10 @@ let claimFlat: string[] = [];
 let claimSquash: string[] = [];
 let claimsAsked = false;
 let claimsState: 'idle' | 'loading' | 'ready' | 'absent' = 'idle';
+/* threads and timeline events: null until they arrive, [] if they never do */
+let events: TimelineEvent[] | null = null;
+let eventFlat: string[] = [];
+let threads: Thread[] | null = null;
 
 export async function primeSearch(): Promise<void> {
   const idx = await loadIndex();
@@ -54,6 +63,11 @@ function askClaims(rerun: () => void): void {
     },
     () => { claimsState = 'absent'; rerun(); },
   );
+  loadTimeline().then(
+    (rows) => { events = rows; eventFlat = rows.map((e) => flatten(e.label + ' ' + (e.text || ''))); rerun(); },
+    () => { events = []; },
+  );
+  loadThreads().then((f) => { threads = f.threads; rerun(); }, () => { threads = []; });
 }
 
 /* Lower is better. 0 to 4 are the exact and substring ranks this has always had;
@@ -163,19 +177,59 @@ function render(panel: HTMLElement, raw: string, rerun: () => void): void {
   }
 
   askClaims(rerun);
+  renderThreads(panel, flat, terms);
 
   if (claimsState === 'loading') {
     panel.append(h('div', { class: 'res-empty' }, 'loading claim text\u2026'));
-    return;
-  }
-  if (claimsState === 'absent') {
+  } else if (claimsState === 'absent') {
     panel.append(h('div', { class: 'res-empty' },
-      'claims.json is not served on this deployment, so this search covers node names only'));
-    return;
+      'claims.json is not served on this deployment, so this search does not cover claim text'));
+  } else if (claims) {
+    renderClaims(panel, q, terms, new Set(top.map((t) => t.n.id)));
   }
-  if (!claims) return;
+  renderEvents(panel, terms);
+}
 
-  const nodeHit = new Set(top.map((t) => t.n.id));
+/* Threads: the eight authored chains. Few, so every match is shown. */
+function renderThreads(panel: HTMLElement, flat: string, terms: string[]): void {
+  if (!threads) return;
+  const th = threads.filter((t) => {
+    const hay = flatten((t.title || t.label) + ' ' + t.blurb + ' ' + t.id);
+    return hay.includes(flat) || terms.every((w) => hay.includes(w));
+  });
+  if (!th.length) return;
+  panel.append(h('div', { class: 'res-head' }, th.length + ' thread' + (th.length === 1 ? '' : 's')));
+  for (const t of th) {
+    panel.append(h('a', { class: 'res thread', href: '#/t/' + t.id },
+      h('span', { class: 'label' }, t.title || t.label),
+      h('span', { class: 'meta' }, t.steps.length + ' steps')));
+  }
+}
+
+/* Timeline events, earliest first. An event that names a node opens the node;
+   one that does not opens its era on the timeline. */
+function renderEvents(panel: HTMLElement, terms: string[]): void {
+  if (!events || !terms.length) return;
+  const hits: TimelineEvent[] = [];
+  for (let i = 0; i < events.length; i++) {
+    if (terms.every((w) => eventFlat[i].includes(w))) hits.push(events[i]);
+  }
+  if (!hits.length) return;
+  hits.sort((a, b) => String(a.date).localeCompare(String(b.date)));
+  const shown = hits.slice(0, MAX_EVENT_HITS);
+  panel.append(h('div', { class: 'res-head' },
+    hits.length + ' event' + (hits.length === 1 ? '' : 's') +
+    (hits.length > shown.length ? ', earliest ' + shown.length : '')));
+  for (const e of shown) {
+    panel.append(h('a', {
+      class: 'res event',
+      href: e.node ? '#/n/' + e.node : '#/timeline?era=' + (e.era || ''),
+    }, h('span', { class: 'label' }, e.label), h('span', { class: 'meta' }, String(e.date).slice(0, 10))));
+  }
+}
+
+function renderClaims(panel: HTMLElement, q: string, terms: string[], nodeHit: Set<string>): void {
+  if (!claims) return;
   const sq = squash(q);
   const sqq = sq.length >= 5 ? sq : '';
   const chits: { c: ClaimRow; s: number }[] = [];
