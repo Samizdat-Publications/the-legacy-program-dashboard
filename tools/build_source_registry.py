@@ -514,7 +514,7 @@ def locator_of(seg, start, end, label):
 
 # ------------------------------------------------------------------ the build
 
-PROCESS = re.compile(r"this session|opened|downloaded|converted to text|read against|"
+PROCESS = re.compile(r"this session|\bopened\b|downloaded|converted to text|read against|"
                      r"retrieved (?:from|via|on)|accessed|checked against|transcribed|"
                      r"^board |^inference|^derived by|^reasoning over|^cross-reference", re.I)
 
@@ -544,6 +544,11 @@ def best_title(names):
     if cn:
         return sorted(cn, key=lambda x: (-x[0], len(x[1]), x[1]))[0][1]
     return None
+
+
+SUBPART = re.compile(r"\b(?:section|sec\.|chapter|ch\.|part|item|entry|exhibit|page|table|column|heading|headed)\b", re.I)
+# identifiers that number a released document rather than name it
+NAMED_BY_CITATION = {"rdp", "dtic", "foia-dod", "foia-dia", "gaoacc"}
 
 
 def load_decisions():
@@ -668,6 +673,10 @@ def build(board=None, decisions=None):
         for seg in segments(raw):
             ids = find_ids(URL_RE.sub(" ", seg))
             kinds = {r[0] for r in ids}
+            # a string naming exactly one identifier names that record: its
+            # quoted title, if the string gives one, can title the source
+            if len(find_ids(URL_RE.sub(" ", raw))) == 1 and len(ids) == 1:
+                meta["id:" + ids[0][1]]["names"][("C", claim_label(raw))] += 1
             for r in ids:
                 if r[0] in LOCATOR_ONLY_WITH and kinds & set(LOCATOR_ONLY_WITH[r[0]]):
                     continue
@@ -761,12 +770,24 @@ def build(board=None, decisions=None):
             issuer = info[4]
             if not title:
                 title = info[2]
-                # a quoted title printed right after the identifier, in any name
-                for (_, nm), _ in names.most_common():
-                    q = re.search(re.escape(info[2].split()[-1]) + r"[^'‘]{0,40}['‘]([^'’]{8,160})['’]", nm)
-                    if q:
-                        title = f"{info[2]}: {q.group(1).strip()}"
-                        break
+                # a quoted title in a name that carries this identifier alone: the
+                # most often given one, then the longest
+                qs = collections.Counter()
+                for (_, nm), c in names.items():
+                    for m in re.finditer(r"(?:^|[\s(,])['‘“]([^'’”]{8,160})['’”]", nm):
+                        # a quoted section, chapter or item names a part, not the record
+                        if SUBPART.search(nm[max(0, m.start() - 14):m.start() + 1]):
+                            continue
+                        qs[m.group(1).strip()] += c
+                if qs:
+                    best = sorted(qs.items(), key=lambda x: (-x[1], -len(x[0]), x[0]))[0][0]
+                    title = f"{best} ({info[2]})"
+                elif info[0] in NAMED_BY_CITATION and names:
+                    # a released document known by how it is cited: the name the
+                    # citations give it most often ("The UFO Evidence, 1964, in ...")
+                    bt = best_title(names)
+                    if bt and info[2].split()[-1] in bt:
+                        title = bt
             if not date and info[0] == "crec":
                 date = re.search(r"\d{4}-\d{2}-\d{2}", info[1]).group(0)
         sk = [k for k in keys if k.startswith("str:")]
