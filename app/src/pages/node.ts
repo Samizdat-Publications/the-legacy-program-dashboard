@@ -9,6 +9,7 @@
  *
  * Nothing on this page is written here. Every string comes from the node record.
  */
+import { claimSourceItems, textWithUrls } from '../sources';
 import { h, clear, mark } from '../dom';
 import { setTitle } from '../router';
 import {
@@ -197,7 +198,7 @@ export async function renderNode(view: HTMLElement, id: string): Promise<void> {
       h('span', { class: 't2' }, byTier[2].length + ' at Tier 2'), ' ', h('span', { class: 'sep' }, '·'), ' ',
       h('span', { class: 't3' }, byTier[3].length + ' at Tier 3'),
     ),
-    h('span', { class: 'faint' }, 'each claim with its source, linked where the source gives a URL'),
+    h('span', { class: 'faint' }, 'each claim with its source; a linked source opens its page in the Library'),
   ));
   /* the key to the mark, where the page carries one (attrib.ts) */
   const kinds = new Set(claims.map((c) => { const s = claimSource(c.source); return saidKind(Number(c.tier), c.text, s.text, s.url); }).filter(Boolean));
@@ -207,12 +208,12 @@ export async function renderNode(view: HTMLElement, id: string): Promise<void> {
   for (const tier of [1, 2, 3]) {
     for (const c of byTier[tier]) {
       const src = claimSource(c.source);
+      /* phase 8: the source is a link to its page in the Library, which carries the
+         external URL; a claim the registry does not resolve keeps its string */
       list.append(h('div', { class: 'claim', 'data-cid': (c as { id?: string }).id || null },
         h('span', { class: 'ct t' + tier }, 'T' + tier),
         h('span', { class: 'ctext' }, saidMark(saidKind(tier, c.text, src.text, src.url)), c.text),
-        src.url
-          ? h('a', { class: 'csrc', href: src.url, target: '_blank', rel: 'noreferrer noopener', title: src.text }, 'source ↗')
-          : h('span', { class: 'csrc nolink', title: src.text }, src.text ? 'source: ' + src.text : 'no source recorded'),
+        h('span', { class: 'csrcs' }, ...claimSourceItems(c.sources, src.text, c.unresolved, 'csrc')),
       ));
     }
   }
@@ -351,8 +352,8 @@ export async function renderNode(view: HTMLElement, id: string): Promise<void> {
     const d = h('details', { class: 'nsrcs' }, h('summary', { class: 'eyebrow' }, 'Sources on file · ' + nsrc.length));
     for (const s of nsrc) {
       const text = (s.name || s.url || '') + (s.date ? ' (' + s.date + ')' : '');
-      d.append(s.url ? h('a', { class: 'nsrc', href: s.url, target: '_blank', rel: 'noreferrer noopener' }, text)
-        : h('span', { class: 'nsrc' }, text));
+      d.append(s.url ? h('a', { class: 'nsrc', href: s.url, target: '_blank', rel: 'noreferrer noopener' }, ...textWithUrls(text))
+        : h('span', { class: 'nsrc' }, ...textWithUrls(text)));
     }
     main.append(d);
   }

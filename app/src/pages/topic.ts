@@ -16,6 +16,7 @@
  * app/checks/run.mjs C36 holds the page to its record.
  */
 import '../styles/topic.css';
+import { claimSourceItems, textWithUrls } from '../sources';
 import { h, clear, mark } from '../dom';
 import { setTitle } from '../router';
 import {
@@ -218,13 +219,9 @@ function cite(n: number, cid: string, c: TopicCite | undefined, kinds: Set<Said>
       meta.append(h('span', { class: 'dim' }, 'claim on '),
         h('a', { class: 'cite-node', href: '#/n/' + c.node }, c.nodeLabel || c.node));
     } else meta.append(h('span', { class: 'dim' }, 'a claim not yet placed on a node'));
-    meta.append(h('span', { class: 'sep' }, ' · '));
-    if (s.url) {
-      meta.append(h('a', { class: 'cite-src', href: s.url, target: '_blank', rel: 'noreferrer noopener', title: s.url },
-        (s.text || s.url) + ' ↗'));
-    } else {
-      meta.append(h('span', { class: 'cite-src' }, s.text ? 'source: ' + s.text : 'no source recorded'));
-    }
+    /* phase 8: each source a link to its Library page; unresolved, the string */
+    const items = claimSourceItems(c.sourceRefs, s.text, c.sourceRefs && c.sourceRefs.length ? null : 'not resolved', 'cite-src');
+    for (const it of items) meta.append(h('span', { class: 'sep' }, ' · '), it);
   } else {
     const ends = c.endpoints || [];
     const words = [c.label, c.text].filter(Boolean).join('. ');
@@ -238,8 +235,8 @@ function cite(n: number, cid: string, c: TopicCite | undefined, kinds: Set<Said>
       meta.append(h('span', { class: 'sep' }, ' · '));
       const t = (s.name || s.url || '') + (s.date ? ' (' + s.date + ')' : '');
       meta.append(s.url
-        ? h('a', { class: 'cite-src', href: s.url, target: '_blank', rel: 'noreferrer noopener', title: s.url }, t + ' ↗')
-        : h('span', { class: 'cite-src' }, 'source: ' + t));
+        ? h('a', { class: 'cite-src', href: s.url, target: '_blank', rel: 'noreferrer noopener', title: s.url }, ...textWithUrls(t), ' ↗')
+        : h('span', { class: 'cite-src' }, 'source: ', ...textWithUrls(t)));
     }
     if (!(c.sources || []).length) meta.append(h('span', { class: 'sep' }, ' · '), h('span', { class: 'cite-src' }, 'no source recorded'));
   }

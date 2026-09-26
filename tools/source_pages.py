@@ -119,7 +119,7 @@ def pages(s, reg, era_of):
     return out
 
 
-def library(recs, meta):
+def library(recs, meta, reg):
     """app/public/data/sources.json: the Library's rows, and the facet vocabularies."""
     rows = []
     for sid in sorted(recs):
@@ -133,4 +133,5 @@ def library(recs, meta):
                      "node": r["node"]["id"] if r.get("node") else None,
                      "urls": len(r.get("urls") or []), "archived": len(r.get("archived") or [])})
     return {"generated": meta["generated"], "source": meta["source"],
-            "count": len(rows), "sources": rows}
+            "count": len(rows), "sources": rows,
+            "claims": {"total": len(reg.claims) + len(reg.unresolved), "resolved": len(reg.claims)}}

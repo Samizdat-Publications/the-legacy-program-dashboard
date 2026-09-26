@@ -60,6 +60,11 @@ const TOPIC_A = 'roswell-1947';
 const TOPIC_B = 'grusch-allegations';
 const TOPIC_GAP = 'pre-roswell-claims';
 const DOMAIN_FOCUS = 'd-roswell';
+/* Phase 8: a well-cited source with a node, identifier and web addresses, and
+   a Library state with two facets on. */
+const SOURCE_FOCUS = 'gao-nsiad-95-187';
+const LIB_FILTER = '#/library?type=report&ip=0';
+const LIB_SEARCH = 'roswell';
 
 /* ---- C31's rule, restated ------------------------------------------------ */
 /* app/src/attrib.ts decides which Tier 1 claims record that something was SAID.
@@ -594,6 +599,12 @@ const IN_PAGE = {
       out.want = Math.max(1, document.querySelectorAll('.atlas-list').length ? li.length : 1);
       out.have = li.filter((e) => seen(e) && txt(e)).length;
       out.what = 'topics named in the stacked lists';
+    } else if (kind === 'library') {
+      out.have = all('.lib-list a.lib-title').filter((e) => seen(e, 150) && txt(e)).length;
+      out.what = 'sources named in the Library';
+    } else if (kind === 'source') {
+      out.have = all('.src-claims .src-claim-text').filter((e) => seen(e, 150) && txt(e)).length;
+      out.what = 'claims citing the source readable';
     } else if (kind === 'topic') {
       out.have = all('.topic .ti .ti-text').filter((e) => seen(e, 150) && txt(e)).length;
       out.what = 'topic sentences readable';
@@ -602,6 +613,84 @@ const IN_PAGE = {
   },
 
   /* The phone's VIEWS list, opened: every route a reader can reach from it. */
+  /* The Library as drawn (C42): the count, the rows in order, every facet chip. */
+  library() {
+    const txt = (el) => ((el && el.textContent) || '').trim();
+    const cnt = document.querySelector('.lib-count');
+    return {
+      n: cnt ? Number(cnt.getAttribute('data-n')) : null,
+      rows: Array.prototype.map.call(document.querySelectorAll('.lib-list > li.lib-row'), (r) => ({
+        id: r.getAttribute('data-sid') || '',
+        href: (r.querySelector('a.lib-title') || { getAttribute: () => '' }).getAttribute('href') || '',
+        title: txt(r.querySelector('a.lib-title')),
+      })),
+      chips: Array.prototype.map.call(document.querySelectorAll('.lib-facet'), (f) => ({
+        facet: f.getAttribute('data-facet') || '',
+        chips: Array.prototype.map.call(f.querySelectorAll('a.lib-chip'), (c) => ({
+          value: c.getAttribute('data-value'), n: Number(c.getAttribute('data-n')),
+          shown: Number(txt(c.querySelector('.lib-chip-n')).replace(/[^0-9]/g, '')),
+          on: c.classList.contains('on'),
+        })),
+      })),
+    };
+  },
+
+  /* A source page as drawn (C43). */
+  source() {
+    const txt = (el) => ((el && el.textContent) || '').trim();
+    const root = document.querySelector('.srcpage');
+    return {
+      id: root ? root.getAttribute('data-sid') : null,
+      h1: txt(document.querySelector('.srcpage h1')),
+      urls: Array.prototype.map.call(document.querySelectorAll('.src-read a.src-url'), (a) => a.getAttribute('href')),
+      archived: Array.prototype.map.call(document.querySelectorAll('.src-read a.src-arch'), (a) => a.getAttribute('href')),
+      node: (document.querySelector('.src-read a.src-node') || { getAttribute: () => null }).getAttribute('href'),
+      ip: !!document.querySelector('.src-ip'),
+      claims: Array.prototype.map.call(document.querySelectorAll('.src-claims .src-claim'), (c) => ({
+        id: c.getAttribute('data-cid') || '', tier: txt(c.querySelector('.ct')),
+        text: txt(c.querySelector('.src-claim-text')), cited: txt(c.querySelector('.src-cited')),
+        node: (c.closest('.src-group') || { getAttribute: () => '' }).getAttribute('data-node'),
+      })),
+      edges: Array.prototype.map.call(document.querySelectorAll('.src-edges .src-edge'), (e) => e.getAttribute('data-eid')),
+    };
+  },
+
+  /* Every claim row's source links (C44): for rows matched by `sel`, the
+     #/s/ targets it links, and its unlinked citation when it has none. */
+  claimLinks(sel) {
+    return Array.prototype.map.call(document.querySelectorAll(sel), (r) => ({
+      cid: r.getAttribute('data-cid') || '',
+      links: Array.prototype.map.call(r.querySelectorAll('a.src-link'), (a) => a.getAttribute('href')),
+      nolink: !!r.querySelector('.nolink'),
+      nolinkText: ((r.querySelector('.nolink') || {}).textContent || '').trim(),
+    }));
+  },
+
+  /* Every printed web address (C45): its wrapping style, whether it stays
+     inside the screen, and whether any stretch of it between two break points
+     was itself broken across lines (a mid-word break). */
+  urlWrap() {
+    const vw = innerWidth;
+    return Array.prototype.map.call(document.querySelectorAll('.url'), (el) => {
+      const cs = getComputedStyle(el);
+      const r = el.getBoundingClientRect();
+      let split = 0, segs = 0;
+      for (const n of el.childNodes) {
+        if (n.nodeType !== 3 || !n.textContent) continue;
+        segs++;
+        const rg = document.createRange();
+        rg.selectNodeContents(n);
+        const tops = new Set(Array.prototype.map.call(rg.getClientRects(), (x) => Math.round(x.top)));
+        if (tops.size > 1) split++;
+      }
+      return {
+        text: (el.textContent || '').slice(0, 60), ow: cs.overflowWrap, wb: cs.wordBreak,
+        wbr: el.querySelectorAll('wbr').length, len: (el.textContent || '').length,
+        right: Math.round(r.right), vw, split, segs,
+      };
+    });
+  },
+
   navOpen() {
     const vw = innerWidth, vh = innerHeight;
     const items = Array.prototype.slice.call(document.querySelectorAll('.bar .nav a, .bar .nav .nav-inert'));
@@ -1372,6 +1461,64 @@ const POISONS = {
       if (m && nav) nav.insertBefore(m, nav.firstChild.nextSibling);
     }),
   },
+  c42: {
+    stops: ['library'],
+    what: 'drops the third row of the Library, leaving the count standing',
+    fn: async (page) => page.evaluate(() => {
+      const r = document.querySelectorAll('.lib-list > li.lib-row')[2];
+      if (r) r.remove();
+    }),
+  },
+  c42b: {
+    check: 'c42',
+    stops: ['libraryf'],
+    what: 'raises one type chip of the filtered Library by one',
+    fn: async (page) => page.evaluate(() => {
+      const c = document.querySelector('.lib-facet[data-facet="type"] a.lib-chip');
+      if (!c) return;
+      const n = Number(c.getAttribute('data-n')) + 1;
+      c.setAttribute('data-n', String(n));
+      c.querySelector('.lib-chip-n').textContent = String(n);
+    }),
+  },
+  c43: {
+    stops: ['source'],
+    what: 'removes one claim from the source page',
+    fn: async (page) => page.evaluate(() => {
+      const c = document.querySelectorAll('.src-claims .src-claim')[1];
+      if (c) c.remove();
+    }),
+  },
+  c43b: {
+    check: 'c43',
+    stops: ['source'],
+    what: "repoints the source page's first web address at another page",
+    fn: async (page) => page.evaluate(() => {
+      const a = document.querySelector('.src-read a.src-url');
+      if (a) a.setAttribute('href', 'https://www.gao.gov/');
+    }),
+  },
+  c44: {
+    stops: ['person'],
+    what: "repoints one claim's source link at another source's page",
+    fn: async (page) => page.evaluate(() => {
+      const links = document.querySelectorAll('.claim a.src-link');
+      if (links.length < 2) return;
+      links[0].setAttribute('href', links[links.length - 1].getAttribute('href') === links[0].getAttribute('href')
+        ? '#/s/gao-nsiad-95-187' : links[links.length - 1].getAttribute('href'));
+    }),
+  },
+  c45: {
+    stops: ['wrap375'],
+    what: 'prints every web address on a phone source page as one unbroken string that may break anywhere',
+    fn: async (page) => page.evaluate(() => {
+      for (const u of document.querySelectorAll('.url')) {
+        const t = u.textContent;
+        u.textContent = t;
+        u.style.overflowWrap = 'anywhere';
+      }
+    }),
+  },
   c41: {
     stops: ['domain'],
     what: "repoints an absorbed domain node's topic pointer at a topic that did not absorb it",
@@ -1442,7 +1589,7 @@ async function main() {
   };
   let index, mapData, edges, threadsFile, highlights, tlEvents, focusRec, patentsFile, analystFile,
       claimRows, foiaFile, personRec, entityRec, entityQRec, denialRec,
-      topicsFile, vocabFile, domainRec, topicRecs;
+      topicsFile, vocabFile, domainRec, topicRecs, libFile, srcRec, wrapRec;
   try {
     [index, mapData, edges, threadsFile, highlights, tlEvents, focusRec, patentsFile, analystFile,
      claimRows, foiaFile, personRec, entityRec, entityQRec, denialRec, vocabFile] =
@@ -1457,6 +1604,12 @@ async function main() {
     [topicsFile, vocabFile, domainRec] = await Promise.all([
       jget('data/topics.json'), jget('data/vocab.json'), jget('data/nodes/' + DOMAIN_FOCUS + '.json'),
     ]);
+    [libFile, srcRec] = await Promise.all([jget('data/sources.json'), jget('data/sources/' + SOURCE_FOCUS + '.json')]);
+    /* C45's page: the identified source with the most web addresses, archived
+       copies included, chosen from the data so it follows the registry */
+    const wrapRow = libFile.sources.filter((r) => r.archived > 0 && !/^[ut]-/.test(r.id))
+      .sort((a, b) => (b.urls + b.archived) - (a.urls + a.archived) || (a.id < b.id ? -1 : 1))[0];
+    wrapRec = wrapRow ? await jget('data/sources/' + wrapRow.id + '.json') : null;
     topicRecs = Object.fromEntries(await Promise.all(topicsFile.topics.map(async (t) =>
       [t.id, await jget('data/topics/' + t.id + '.json')])));
   } catch (e) {
@@ -1501,6 +1654,7 @@ async function main() {
     .sort((a, b) => a.anchor - b.anchor || ROLE_ORDER.indexOf(a.role) - ROLE_ORDER.indexOf(b.role) ||
       (a.topic < b.topic ? -1 : a.topic > b.topic ? 1 : 0));
   const topicIds = new Set(topicsFile.topics.map((t) => t.id));
+  const sourceIds = new Set(libFile.sources.map((r) => r.id));
   const topicMembers = Object.fromEntries(topicsFile.topics.map((t) => [t.id, (topicRecs[t.id].members || []).length]));
 
   const ctx = { deg, unjoined, topicMembers };
@@ -1543,12 +1697,14 @@ async function main() {
   S.node.fields = await ev(IN_PAGE.fields);
   S.node.appears = await ev(IN_PAGE.appears);
   S.node.absorbed = await ev(IN_PAGE.absorbed);
+  S.node.links = await ev(IN_PAGE.claimLinks, '.claim[data-cid]');
 
   await stop('person', '#/n/' + PERSON_FOCUS, 1200);
   S.person.fields = await ev(IN_PAGE.fields);
   S.person.first = await ev(IN_PAGE.firstScreen);
   S.person.said = await ev(IN_PAGE.said, '.claim');
   S.person.appears = await ev(IN_PAGE.appears);
+  S.person.links = await ev(IN_PAGE.claimLinks, '.claim[data-cid]');
 
   /* phase 6: the topic pages, a research gap, an absorbed domain node, the Atlas */
   await stop('topic', '#/topic/' + TOPIC_A, 1400);
@@ -1606,6 +1762,19 @@ async function main() {
   S.evidence.den = await page.evaluate(() =>
     Array.from(document.querySelectorAll('td.c-den')).map((td) => (td.textContent || '').trim()));
   S.evidence.said = await ev(IN_PAGE.said, '.ev-table tbody tr[data-cid]');
+  /* phase 8: the Library, unfiltered, filtered and searched, and two source pages */
+  await stop('library', '#/library', 1600);
+  S.library.lib = await ev(IN_PAGE.library);
+  await stop('libraryf', LIB_FILTER, 1200);
+  S.libraryf.lib = await ev(IN_PAGE.library);
+  await stop('libraryq', '#/library?q=' + LIB_SEARCH, 1200);
+  S.libraryq.lib = await ev(IN_PAGE.library);
+  await stop('source', '#/s/' + SOURCE_FOCUS, 1400);
+  S.source.src = await ev(IN_PAGE.source);
+  S.source.wrap = await ev(IN_PAGE.urlWrap);
+  await stop('evidence2', '#/evidence?tier=1', 3200);
+  S.evidence2.links = await ev(IN_PAGE.claimLinks, '.ev-table tbody tr[data-cid]');
+
   await stop('report', '#/report/n/' + NODE_FOCUS, 1600);
   S.report.rconns = await ev(IN_PAGE.rconns);
   S.report.said = await ev(IN_PAGE.said, '.report ol.rclaims li');
@@ -1633,13 +1802,15 @@ async function main() {
     ['patent', '#/patents/' + String((patentsFile.patents || [])[0].number).replace(/[^0-9]/g, '')],
     ['report', '#/report/n/' + PERSON_FOCUS],
     ['atlas', '#/atlas'], ['topic', '#/topic/' + TOPIC_A],
+    ['library', '#/library'], ['source', '#/s/' + SOURCE_FOCUS],
   ];
   const settleOf = (hash) => hash.startsWith('#/evidence') ? 3200
     : /^#\/(map|timeline)/.test(hash) ? 2400 : /hood/.test(hash) ? 2200 : 1600;
   const PHONE = [], TAB = [];
-  const sweepPhone = !POISON || POISON === 'c26' || POISON === 'c32';
+  const WRAP375 = [];
+  const sweepPhone = !POISON || POISON === 'c26' || POISON === 'c32' || POISON.startsWith('c45');
   for (const [w, hgt] of (sweepPhone ? [[375, 812], [1366, 768], [1920, 1080]] : [])) {
-    if (POISON === 'c26' && w !== 375) continue;
+    if ((POISON === 'c26' || POISON.startsWith('c45')) && w !== 375) continue;
     const p = await browser.newPage({ viewport: { width: w, height: hgt } });
     p.on('pageerror', (e) => pageErrors.push(e.message.slice(0, 160)));
     let first = true;
@@ -1659,6 +1830,7 @@ async function main() {
       if (w !== 375) continue;
       await poisonAt(p, 'phone:' + name);
       const got = await p.evaluate(`(function ${IN_PAGE.phone})(${JSON.stringify(name)})`);
+      if (name === 'source') WRAP375.push(...await p.evaluate(`(function ${IN_PAGE.urlWrap})()`));
       got.overlaps = pairsOverlapping(await p.evaluate(`(function ${IN_PAGE.texts})(${JSON.stringify('#analyst')})`), 4);
       /* the VIEWS list: one tap opens it, and every route is then one tap away */
       const tog = p.locator('.bar .nav-toggle').first();
@@ -1672,6 +1844,17 @@ async function main() {
       } else got.nav = [];
       PHONE.push({ name, hash, ...got });
     }
+    await p.close();
+  }
+
+  /* ---- C45's phone source page -------------------------------------------- */
+  const WRAPX = [];
+  if (wrapRec && (!POISON || POISON.startsWith('c45'))) {
+    const p = await browser.newPage({ viewport: { width: 375, height: 812 } });
+    await p.goto(APP + '#/s/' + wrapRec.id, { waitUntil: 'load' });
+    await p.waitForTimeout(1400);
+    await poisonAt(p, 'wrap375');
+    WRAPX.push(...await p.evaluate(`(function ${IN_PAGE.urlWrap})()`));
     await p.close();
   }
 
@@ -1794,6 +1977,7 @@ async function main() {
     '#/evidence?tier=1&cls=person&cluster=other&denied=1&open=1',
     '#/report/n/' + NODE_FOCUS, '#/report/t/custody',
     '#/atlas', '#/topic/' + TOPIC_A, '#/topic/' + TOPIC_GAP, '#/n/' + DOMAIN_FOCUS,
+    '#/library', LIB_FILTER, '#/s/' + SOURCE_FOCUS,
   ];
   const deadRoutes = [];
   const sweepRoutes = !POISON || POISON === 'c9' || POISON === 'c17';
@@ -1932,6 +2116,10 @@ async function main() {
       const type = async (q) => {
         await p.locator('.searchbox input').first().fill(q);
         await p.waitForTimeout(1600);          /* claims.json loads on the first query */
+        /* and on a loaded machine it can take longer than that: wait (up to 10s)
+           until the panel no longer says it is loading claim text */
+        await p.waitForFunction(() => !Array.from(document.querySelectorAll('.searchbox .res-empty'))
+          .some((e) => /loading claim text/.test(e.textContent || '')), null, { timeout: 10000 }).catch(() => {});
       };
       await type(word);
       await poisonAt(p, 'search');
@@ -2313,6 +2501,9 @@ async function main() {
       /* phase 6 */
       if (p[0] === 'atlas') return p.length === 1;
       if (p[0] === 'topic') return p.length === 2 && ID.test(p[1]);
+      /* phase 8 */
+      if (p[0] === 'library') return p.length === 1;
+      if (p[0] === 's') return p.length === 2 && ID.test(p[1]);
       return false;
     };
     const seen = new Set(), offScheme = [], deadIds = [];
@@ -2326,6 +2517,7 @@ async function main() {
         if (p[0] === 't' && !threadIds.has(p[1])) deadIds.push(k + ':' + h);
         if (p[0] === 'patents' && !patentNums.has(p[1].replace(/[^0-9]/g, ''))) deadIds.push(k + ':' + h);
         if (p[0] === 'topic' && !topicIds.has(p[1])) deadIds.push(k + ':' + h);
+        if (p[0] === 's' && !sourceIds.has(p[1])) deadIds.push(k + ':' + h);
       }
     }
     check('c9', offScheme.length === 0, 'C9  every rendered in-app href is a route in the 2.1 scheme',
@@ -2867,8 +3059,11 @@ async function main() {
         if (!c.words.includes(String(r.text || '').slice(0, 50))) cb.push(c.cid + ' words not shown');
         if (r.kind === 'claim') {
           const s = r.source || {};
-          const shown = s.url ? c.srcs.some((x) => x.href === s.url)
-            : c.srcs.some((x) => x.text.includes(String(s.text || '').slice(0, 40)));
+          /* phase 8: a resolved claim links each of its registry sources' pages */
+          const shown = (r.sourceRefs || []).length
+            ? r.sourceRefs.every((x) => c.srcs.some((y) => y.href === '#/s/' + x.id))
+            : s.url ? c.srcs.some((x) => x.text.includes(String(s.text || '').slice(0, 40)) || x.href === s.url)
+              : c.srcs.some((x) => x.text.includes(String(s.text || '').slice(0, 40)));
           if (!shown) cb.push(c.cid + ' source not shown');
           const want = saidRule(r.tier, r.text, s.text, s.url);
           if ((want || null) !== (c.said || null)) cb.push(`${c.cid} mark ${c.said || 'none'}, rule ${want || 'none'}`);
@@ -3023,7 +3218,7 @@ async function main() {
      opens to them and #/map still draws the map. */
   {
     const ROW = ['HOME', 'ATLAS', 'TIMELINE', 'EVIDENCE', 'PATENTS'];
-    const MOREL = ['MAP', 'THREADS', 'NEIGHBOURHOOD', 'REPORT'];
+    const MOREL = ['MAP', 'THREADS', 'NEIGHBOURHOOD', 'REPORT', 'LIBRARY'];
     const bad = [];
     let n = 0;
     for (const [k, s] of Object.entries(S)) {
@@ -3037,7 +3232,7 @@ async function main() {
       const atlas = s.nav.primary.find((x) => x.label === 'ATLAS');
       if (!atlas || atlas.href !== '#/atlas') bad.push(k + ': ATLAS is not #/atlas');
     }
-    check('c40', bad.length === 0 && n > 0, 'C40 the bar carries HOME ATLAS TIMELINE EVIDENCE PATENTS, and MAP THREADS NEIGHBOURHOOD REPORT under More',
+    check('c40', bad.length === 0 && n > 0, 'C40 the bar carries HOME ATLAS TIMELINE EVIDENCE PATENTS, and MAP THREADS NEIGHBOURHOOD REPORT LIBRARY under More',
       bad.length ? clip(bad, 2) : `${n} screens`);
     if (MORE) {
       const unreach = MORE.open.filter((x) => x.href && !x.reachable).map((x) => x.label);
@@ -3060,6 +3255,150 @@ async function main() {
     const n = S.node && S.node.absorbed;
     check('c41', !!n && !n.present && !focusRec.absorbedBy, `C41 #/n/${NODE_FOCUS}, which no topic absorbed, carries no pointer`,
       n ? (n.present ? 'carries ' + n.href : 'none') : 'not reached');
+  }
+
+  /* ---- C42 -------------------------------------------------------------- */
+  /* The Library holds every source in sources.json: the count, the first page
+     of rows in the order stated (most cited first, then title), each row a
+     link to its page, every facet chip's count re-derived from the file with
+     the other filters applied; a filtered and a searched state hold exactly
+     the rows the file gives for them. */
+  {
+    const rows = libFile.sources;
+    const KEYS = ['type', 'issuer', 'era', 'ip'];
+    const val = (r, k) => k === 'type' ? r.type : k === 'issuer' ? (r.issuer || '-') : k === 'era' ? r.era : (r.interestedParty ? '1' : '0');
+    const hit = (r, f, q, skip) => KEYS.every((k) => k === skip || !f[k] || val(r, k) === f[k]) &&
+      (!q || q.toLowerCase().split(/\s+/).filter(Boolean).every((w) =>
+        (r.title + ' ' + (r.issuer || '') + ' ' + r.identifiers.join(' ') + ' ' + r.id).toLowerCase().includes(w)));
+    const order = (a, b) => (b.claims + b.edges) - (a.claims + a.edges) ||
+      a.title.localeCompare(b.title, 'en', { sensitivity: 'base' });
+    const judge = (key, hash, f, q) => {
+      const L = S[key] && S[key].lib;
+      if (!L) { check('c42', false, `C42 ${hash} draws the Library`, 'not reached'); return; }
+      const want = rows.filter((r) => hit(r, f, q, null)).sort(order);
+      const got = L.rows.map((r) => r.id);
+      const first = want.slice(0, got.length).map((r) => r.id);
+      const bad = [];
+      if (L.n !== want.length) bad.push(`count ${L.n}, file ${want.length}`);
+      if (got.length !== Math.min(100, want.length)) bad.push(`${got.length} rows drawn, want ${Math.min(100, want.length)}`);
+      const wrong = got.filter((id, i) => id !== first[i]);
+      if (wrong.length) bad.push(`${wrong.length} rows out of place or foreign: ` + clip(wrong, 3));
+      const badHref = L.rows.filter((r) => r.href !== '#/s/' + r.id);
+      if (badHref.length) bad.push(badHref.length + ' rows not linked to their page');
+      check('c42', bad.length === 0, `C42 ${hash} draws the rows sources.json gives, in order, each linked`,
+        bad.length ? bad.join(' · ') : `${L.n} sources, first ${got.length} drawn in order`);
+      const cb = [];
+      for (const fc of L.chips) {
+        for (const c of fc.chips) {
+          const n = rows.filter((r) => hit(r, f, q, fc.facet) && val(r, fc.facet) === c.value).length;
+          if (c.n !== n || c.shown !== n) cb.push(`${fc.facet}=${c.value} shows ${c.shown}, file ${n}`);
+          if (c.on !== (f[fc.facet] === c.value)) cb.push(`${fc.facet}=${c.value} ${c.on ? 'on' : 'off'} wrongly`);
+        }
+      }
+      const facets = L.chips.map((x) => x.facet).join(',');
+      check('c42', cb.length === 0 && facets === KEYS.join(','), `C42 ${hash}: every facet chip's count is the file's, with the other filters applied`,
+        cb.length ? clip(cb, 3) : `${L.chips.reduce((a, x) => a + x.chips.length, 0)} chips over ${facets}`);
+    };
+    judge('library', '#/library', {}, '');
+    const fq = new URLSearchParams(LIB_FILTER.split('?')[1]);
+    judge('libraryf', LIB_FILTER, Object.fromEntries(KEYS.map((k) => [k, fq.get(k) || ''])), '');
+    judge('libraryq', '#/library?q=' + LIB_SEARCH, {}, LIB_SEARCH);
+  }
+
+  /* ---- C43 -------------------------------------------------------------- */
+  /* A source page is its record: the title, every web address and archived
+     copy linked exactly, its node, and every claim that cites it, where "the
+     claims that cite it" is re-derived from claims.json (every row whose
+     sources name this id), not read from the page's own file. */
+  {
+    const P = S.source && S.source.src;
+    if (!P) check('c43', false, 'C43 #/s/' + SOURCE_FOCUS + ' draws the source', 'not reached');
+    else {
+      const bad = [];
+      if (P.id !== srcRec.id) bad.push('drew ' + P.id);
+      if (P.h1 !== srcRec.title) bad.push('title differs');
+      if (P.urls.join('|') !== srcRec.urls.join('|')) bad.push(`addresses ${P.urls.length}, record ${srcRec.urls.length}`);
+      if (P.archived.join('|') !== srcRec.archived.join('|')) bad.push(`archived ${P.archived.length}, record ${srcRec.archived.length}`);
+      if ((P.node || null) !== (srcRec.node ? '#/n/' + srcRec.node.id : null)) bad.push('node link ' + P.node);
+      if (P.ip !== !!srcRec.interestedParty) bad.push('interested-party notice ' + (P.ip ? 'shown' : 'missing'));
+      check('c43', bad.length === 0, `C43 #/s/${SOURCE_FOCUS} prints its record: title, addresses, archived copies, node`,
+        bad.length ? bad.join(' · ') : `${P.urls.length} addresses, ${P.archived.length} archived, node ${P.node}`);
+      const want = claimRows.filter((r) => (r.sources || []).some((x) => x.id === SOURCE_FOCUS));
+      const wantIds = want.map((r) => r.id).sort();
+      const gotIds = P.claims.map((c) => c.id).sort();
+      const cb = [];
+      if (wantIds.join('|') !== gotIds.join('|')) {
+        cb.push(`drew ${gotIds.length}, claims.json names ${wantIds.length}: missing ` +
+          clip(wantIds.filter((x) => !gotIds.includes(x)), 2) + ', extra ' + clip(gotIds.filter((x) => !wantIds.includes(x)), 2));
+      }
+      const byId = new Map(want.map((r) => [r.id, r]));
+      for (const c of P.claims) {
+        const r = byId.get(c.id);
+        if (!r) continue;
+        if (c.tier !== 'T' + r.tier) cb.push(`${c.id} drawn ${c.tier}, record T${r.tier}`);
+        if (!c.text.includes(String(r.text).slice(0, 50))) cb.push(c.id + ' words not shown');
+        if (c.node !== r.node) cb.push(`${c.id} grouped under ${c.node}, sits on ${r.node}`);
+        if (!c.cited.includes(String(r.source.text || '').slice(0, 30))) cb.push(c.id + ' citation as written not shown');
+      }
+      check('c43', cb.length === 0, `C43 #/s/${SOURCE_FOCUS} shows every claim claims.json resolves to it, under its node, with the citation as written`,
+        cb.length ? clip(cb, 3) : `${gotIds.length} claims`);
+      const eWant = srcRec.edges.map((e) => e.id).sort().join('|');
+      check('c43', P.edges.slice().sort().join('|') === eWant, `C43 #/s/${SOURCE_FOCUS} lists the links citing it`,
+        `${P.edges.length} drawn, record ${srcRec.edges.length}`);
+    }
+  }
+
+  /* ---- C44 -------------------------------------------------------------- */
+  /* Every claim row links each of its registry sources' pages and nothing
+     else, on the node page, the person page and the evidence table; a claim
+     the registry does not resolve prints its citation as written instead. */
+  {
+    const want = new Map(claimRows.map((r) => [r.id, r]));
+    for (const [key, where] of [['node', '#/n/' + NODE_FOCUS], ['person', '#/n/' + PERSON_FOCUS], ['evidence2', '#/evidence?tier=1']]) {
+      const L = S[key] && S[key].links;
+      if (!L || !L.length) { check('c44', false, `C44 ${where}: claim rows carry their source links`, 'no rows read'); continue; }
+      const bad = [];
+      let linked = 0;
+      for (const r of L) {
+        const w = want.get(r.cid);
+        if (!w) { bad.push(r.cid + ' not in claims.json'); continue; }
+        const ids = (w.sources || []).map((x) => '#/s/' + x.id);
+        if (ids.join('|') !== r.links.join('|')) bad.push(`${r.cid} links ${clip(r.links, 2)}, record ${clip(ids, 2)}`);
+        if (!ids.length && (!r.nolink || (w.source.text && !r.nolinkText.includes(String(w.source.text).slice(0, 30)))))
+          bad.push(r.cid + ' unresolved but its citation is not printed');
+        if (ids.length) linked++;
+      }
+      check('c44', bad.length === 0, `C44 ${where}: every claim row links exactly its registry sources, or prints its citation`,
+        bad.length ? `${bad.length} wrong: ` + clip(bad, 3) : `${L.length} rows, ${linked} linked to the Library`);
+    }
+  }
+
+  /* ---- C45 -------------------------------------------------------------- */
+  /* A web address breaks only at its break points: the element does not let
+     the browser break inside a word (overflow-wrap and word-break normal),
+     carries break points, stays inside the screen, and no stretch of it
+     between two break points is itself split across lines. On the source page
+     at 1920, and at 375 on the same page and on the source with the most
+     addresses. */
+  {
+    for (const [where, W] of [['#/s/' + SOURCE_FOCUS + ' at 1920', S.source && S.source.wrap],
+      ['#/s/' + SOURCE_FOCUS + ' at 375', WRAP375], ['#/s/' + (wrapRec ? wrapRec.id : '?') + ' at 375', WRAPX]]) {
+      if (!W || !W.length) {
+        if (POISON && !POISON.startsWith('c45') && !W) skip('C45 ' + where, 'poison ' + POISON + ' does not drive it');
+        else if (POISON && !POISON.startsWith('c45')) skip('C45 ' + where, 'poison ' + POISON + ' does not drive it');
+        else check('c45', false, `C45 ${where}: web addresses break only at their break points`, 'no addresses read');
+        continue;
+      }
+      const bad = [];
+      for (const u of W) {
+        if (u.ow !== 'normal' || u.wb !== 'normal') bad.push(`${u.text}: wraps ${u.ow}/${u.wb}`);
+        if (u.len > 24 && u.wbr === 0) bad.push(`${u.text}: no break points`);
+        if (u.right > u.vw + 1) bad.push(`${u.text}: runs to ${u.right}px in ${u.vw}`);
+        if (u.split) bad.push(`${u.text}: ${u.split} stretches broken mid-word`);
+      }
+      check('c45', bad.length === 0, `C45 ${where}: web addresses break only at their break points`,
+        bad.length ? `${bad.length} wrong: ` + clip(bad, 2) : `${W.length} addresses`);
+    }
   }
 
   /* ---- C24 -------------------------------------------------------------- */

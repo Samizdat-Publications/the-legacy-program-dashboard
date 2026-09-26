@@ -1,6 +1,6 @@
 /* frame.ts: the common frame of Design response section 1.1.
  *
- * A 40px bar: the wordmark, five routes and More (four more), and the search field. The raw URL
+ * A 40px bar: the wordmark, five routes and More (five more: the Library since phase 8), and the search field. The raw URL
  * fragment and the viewport size used to sit on the right; they were debugging
  * aids, not reader chrome, and went in redesign phase 5b. The route is on the
  * bar as `data-route` for anything that needs to read it.
@@ -52,6 +52,7 @@ function items(r: Route): NavItem[] {
       href: nid ? '#/report/n/' + nid : null,
       match: (x) => x.kind === 'report-node' || x.kind === 'report-thread',
     },
+    { label: 'LIBRARY', more: true, href: '#/library', match: (x) => x.kind === 'library' || x.kind === 'source' },
   ];
 }
 

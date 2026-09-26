@@ -1,0 +1,83 @@
+/* library.css: the Library, the source pages, and the source links every claim
+   carries (redesign phase 8). One label size; titles and addresses wrap, never
+   cut. The rules every surface shares (a claim's source links, a web address that
+   breaks only at the <wbr> points sources.ts puts in it) are in app.css. */
+
+/* ---- the Library -------------------------------------------------------- */
+.lib { max-width: 1280px; margin: 0 auto; }
+h1.lib-h1, h1.src-h1 { font-size: var(--fs-h1); font-weight: 600; letter-spacing: -0.01em; margin: 8px 0 8px; }
+.lib-intro { font-size: var(--fs-body); max-width: 96ch; margin: 0 0 6px; }
+.lib-intro.dim { font-size: var(--fs-label); }
+.lib-bar { display: flex; flex-wrap: wrap; gap: 8px 18px; align-items: baseline; margin: 14px 0 10px; }
+.lib-qwrap { display: flex; gap: 6px; flex: 1 1 320px; max-width: 560px; }
+.lib-q {
+  flex: 1 1 auto; min-width: 0; background: var(--bg2); color: var(--text); border: 1px solid var(--line2);
+  font: inherit; font-size: var(--fs-label); padding: 6px 8px;
+}
+.lib-go, .lib-next, .src-gb {
+  background: var(--panel); color: var(--text); border: 1px solid var(--line2); font: inherit;
+  font-size: var(--fs-label); padding: 5px 10px; cursor: pointer;
+}
+.lib-sorts { display: flex; flex-wrap: wrap; gap: 4px 10px; align-items: baseline; }
+.lib-sort { color: var(--dim); }
+.lib-sort.on { color: var(--cyan); }
+.lib-facets { display: grid; gap: 8px; margin: 0 0 12px; }
+.lib-facet { display: grid; grid-template-columns: 150px minmax(0, 1fr); gap: 4px 10px; align-items: baseline; }
+.lib-facet .lib-more { grid-column: 2; }
+.lib-chips { display: flex; flex-wrap: wrap; gap: 4px; }
+.lib-chip {
+  display: inline-flex; gap: 6px; align-items: baseline; max-width: 100%;
+  border: 1px solid var(--line); background: var(--panel); color: var(--dim); padding: 2px 7px;
+}
+.lib-chip .lib-chip-l { min-width: 0; overflow-wrap: break-word; }
+.lib-chip .lib-chip-n { color: var(--faint); white-space: nowrap; }
+.lib-chip:hover { border-color: var(--line2); color: var(--text); text-decoration: none; }
+.lib-chip.on { border-color: var(--cyan); background: var(--panel2); color: var(--text); }
+.lib-chip.on .lib-chip-n { color: var(--cyan); }
+.lib-more-s { cursor: pointer; color: var(--dim); margin: 4px 0; }
+.lib-count { margin: 8px 0; }
+.lib-list { list-style: none; margin: 0; padding: 0; display: grid; gap: 3px; }
+.lib-row { background: var(--panel); border: 1px solid var(--line); padding: 6px 10px; }
+.lib-title { font-size: var(--fs-body); overflow-wrap: break-word; }
+.lib-meta { color: var(--text); margin-top: 2px; overflow-wrap: break-word; }
+.lib-meta .sep, .src-facts .sep { color: var(--faint); }
+.lib-type { color: var(--amber); }
+.lib-foot { margin: 10px 0 30px; }
+.ip-mark {
+  display: inline-block; margin-left: 8px; padding: 0 5px; border: 1px solid var(--amber); color: var(--amber);
+  letter-spacing: 0.04em; cursor: help; white-space: nowrap;
+}
+
+/* ---- a source's page ---------------------------------------------------- */
+.srcpage { max-width: 1180px; margin: 0 auto; padding-bottom: 30px; }
+h1.src-h1 { overflow-wrap: break-word; max-width: 90ch; }
+.src-facts { display: flex; flex-wrap: wrap; gap: 4px 18px; margin: 0 0 12px; }
+.src-ip { border: 1px solid var(--line2); border-left: 2px solid var(--amber); background: var(--panel); padding: 8px 12px; margin: 0 0 12px; max-width: 110ch; }
+.src-ip .ip-mark { margin-left: 0; }
+.src-ip p { margin: 6px 0 0; font-size: var(--fs-body); }
+.src-read { display: grid; gap: 4px; }
+.src-line { min-width: 0; }
+.src-url, .src-arch { overflow-wrap: normal; }
+.src-group-by { display: inline-flex; gap: 6px; align-items: baseline; }
+.src-gb[aria-pressed='true'] { border-color: var(--cyan); color: var(--cyan); }
+.src-claims { display: grid; gap: 10px; }
+.src-group { display: grid; gap: 3px; }
+.src-group-h { font-weight: 600; margin-bottom: 2px; }
+.src-claim, .src-edge {
+  display: grid; grid-template-columns: 30px minmax(0, 1fr); gap: 10px; align-items: baseline;
+  background: var(--panel); border: 1px solid var(--line); padding: 6px 10px;
+}
+.src-claim .ct, .src-edge .ct { font-weight: 600; }
+.src-claim-text { overflow-wrap: break-word; }
+.src-claim-meta { color: var(--dim); margin-top: 3px; overflow-wrap: break-word; }
+.src-claim-meta .sep { color: var(--faint); }
+.src-cited { color: var(--dim); }
+.src-topics, .src-edges { display: grid; gap: 3px; }
+.src-edge-note { margin-top: 3px; overflow-wrap: break-word; }
+.src-listed { display: flex; flex-wrap: wrap; gap: 4px 16px; }
+
+@media (max-width: 760px) {
+  .lib-facet { grid-template-columns: minmax(0, 1fr); }
+  .lib-facet .lib-more { grid-column: 1; }
+  .src-claim, .src-edge { grid-template-columns: 24px minmax(0, 1fr); gap: 8px; }
+}

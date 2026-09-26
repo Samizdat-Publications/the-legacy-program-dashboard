@@ -60,7 +60,7 @@ TYPES = ("document", "hearing record", "statute", "regulation", "report", "artic
          "book", "broadcast", "transcript", "web page", "archive index")
 
 URL_RE = re.compile(r"https?://[^\s\"'<>|\]]+")
-DEMOTION = re.compile(r"\s*[-—]+\s*DEMOTED from Tier 1.*$", re.I | re.S)
+DEMOTION = re.compile(r"\s*[-\u2014]+\s*DEMOTED from Tier 1.*$", re.I | re.S)
 WAYBACK = re.compile(r"^https?://web\.archive\.org/web/(\d+)[a-z_]*/(https?://.+)$", re.I)
 ARCHIVE_TODAY = re.compile(r"^https?://archive\.(?:ph|today|is|md)/", re.I)
 
@@ -157,7 +157,7 @@ ID_RULES = [
                 f"BILLS-{m.group(1)}{m.group(2).lower()}{m.group(3)}{m.group(4).lower()}"),
      "document", "U.S. Congress"),
     ("plaw", re.compile(r"\bPLAW-(\d{2,3})publ(\d{1,3})\b", re.I), _pl, "statute", "U.S. Congress"),
-    ("pl", re.compile(r"(?:\bP\.\s?L\.|\bPub(?:lic|\.)?\s?L(?:aws?|\.)?|\bPL)\s?(\d{2,3})[-–](\d{1,3})\b"),
+    ("pl", re.compile(r"(?:\bP\.\s?L\.|\bPub(?:lic|\.)?\s?L(?:aws?|\.)?|\bPL)\s?(\d{2,3})[-\u2013](\d{1,3})\b"),
      _pl, "statute", "U.S. Congress"),
     ("usc", re.compile(r"\b(\d{1,2})\s?U\.\s?S\.\s?C\.?\s?(?:§+\s?|Sec(?:tion|\.)?\s?)?(\d+[a-z]?)\b"),
      lambda m: (f"usc-{m.group(1)}-{m.group(2).lower()}", f"{m.group(1)} U.S.C. {m.group(2)}"),
@@ -499,8 +499,13 @@ def segments(s):
 
 def locator_of(seg, start, end, label):
     """The rest of a citation segment after its identifier: 'p.4', 'Sec. 7343'."""
-    rest = seg[end:].strip(" ,.:-–()")
-    rest = URL_RE.sub("", rest).strip(" ,.;:-–")
+    raw = seg[end:]
+    # a locator follows the identifier after a comma, a colon or a bracket
+    # ("GAO/NSIAD-95-187, p.4"); "... and the Bolender memorandum" is prose
+    if not re.match(r"^\s*[,:(]", raw):
+        return None
+    rest = raw.strip(" ,.:-\u2013()")
+    rest = URL_RE.sub("", rest).strip(" ,.;:-\u2013")
     rest = re.sub(r"\s+", " ", rest)
     if not rest:
         return None
@@ -519,7 +524,7 @@ def claim_label(raw):
     notes about how it was read ("full OCR text read this session, opened ...")."""
     keep = []
     for seg in segments(URL_RE.sub(" ", raw)):
-        seg = re.sub(r"(?:,\s*)+", ", ", seg).strip(" ,-–—")
+        seg = re.sub(r"(?:,\s*)+", ", ", seg).strip(" ,-\u2013\u2014")
         if seg and not PROCESS.search(seg):
             keep.append(seg)
     return re.sub(r"\s+", " ", "; ".join(keep)).strip()
@@ -692,9 +697,11 @@ def build(board=None, decisions=None):
     for raw, dec in decisions["strings"].items():
         if dec.get("new") and dec.get("merge") and applied(dec):
             a = "str:" + short_hash(raw, 12)
-            if a in string_keys:
-                dsu.union(a, dec["merge"] if dec["merge"].startswith(("str:", "id:", "url:", "node:"))
-                          else "str:" + short_hash(dec["merge"], 12))
+            b = "str:" + short_hash(norm_string(dec["merge"]), 12)
+            # both strings must be new sources of their own; a merge into a string
+            # that was read otherwise (or not at all) is not applied
+            if a in string_keys and b in string_keys:
+                dsu.union(a, b)
 
     # --- components -> registry records
     comps = collections.defaultdict(list)

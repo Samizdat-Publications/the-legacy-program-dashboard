@@ -1156,7 +1156,7 @@ def build(quiet=False):
     # phase 8: the Library and one page per source
     recs = source_pages.pages(s, s.reg, era_of)
     written.append(("data/sources.json",
-                    write(os.path.join(OUT, "sources.json"), source_pages.library(recs, meta), 0)))
+                    write(os.path.join(OUT, "sources.json"), source_pages.library(recs, meta, s.reg), 0)))
     sd = os.path.join(OUT, "sources")
     if os.path.isdir(sd):
         for f in os.listdir(sd):

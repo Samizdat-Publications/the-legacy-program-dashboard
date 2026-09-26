@@ -15,6 +15,9 @@
  *   #/report/n/<id>             #/report/t/<id>
  *   #/atlas                     the Atlas of topics (redesign phase 6)
  *   #/topic/<id>                a topic (redesign phase 6)
+ *   #/library                   the Library of sources (redesign phase 8)
+ *                               ?type=&issuer=&era=&ip=1|0&q=&sort=
+ *   #/s/<id>                    one source (redesign phase 8)
  *
  * Anything else is not-found, and the not-found page names the route it was given.
  * Every route is shareable; back always works because every state is a hash.
@@ -37,6 +40,8 @@ export type Route =
   | { kind: 'report-thread'; id: string }
   | { kind: 'atlas' }
   | { kind: 'topic'; id: string }
+  | { kind: 'library'; q: URLSearchParams }
+  | { kind: 'source'; id: string }
   | { kind: 'notfound'; raw: string };
 
 /* Board ids are lower-case words joined by hyphens, sometimes with digits or a
@@ -104,6 +109,16 @@ export function parseRoute(hash: string): Route {
   if (p[0] === 'topic') {
     if (p.length !== 2 || !ID.test(p[1])) return bad();
     return { kind: 'topic', id: p[1] };
+  }
+
+  if (p[0] === 'library') {
+    if (p.length !== 1) return bad();
+    return { kind: 'library', q };
+  }
+
+  if (p[0] === 's') {
+    if (p.length !== 2 || !ID.test(p[1])) return bad();
+    return { kind: 'source', id: p[1] };
   }
 
   if (p[0] === 'report') {
