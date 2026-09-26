@@ -12,8 +12,8 @@ import {
   type NodeRecord, type Source,
 } from '../data';
 import { notFound } from './notfound';
-import { groupConnections } from './connections';
-import { edgeTypeName, NO_SENTENCE } from '../vocab';
+import { dirMark, groupConnections } from './connections';
+import { familyName, NO_SENTENCE } from '../vocab';
 
 export async function renderNodeReport(view: HTMLElement, id: string): Promise<void> {
   clear(view);
@@ -87,12 +87,20 @@ export async function renderNodeReport(view: HTMLElement, id: string): Promise<v
 
   if (rec.connections.length) {
     paper.append(h('h2', null, 'Sourced connections (' + rec.connections.length + ')'));
+    /* grouped as the node page groups them (phase 7): by family, then by
+       predicate, each link reading from this node, arrow only where shown */
     for (const g of groupConnections(rec.connections)) {
-      paper.append(h('h3', null, edgeTypeName(g.type).label + ' (' + g.rows.length + ')'));
+      const links = g.rows.reduce((n, r) => n + r.links.length, 0);
+      paper.append(h('h3', null, familyName(g.family).label + ' (' + links + ')'));
       const cols = h('div', { class: 'rconns' });
       for (const r of g.rows) {
         for (const l of r.links) {
-          cols.append(h('div', { class: 'rconn', 'data-id': r.id, 'data-type': g.type },
+          const dir = dirMark(r);
+          cols.append(h('div', {
+            class: 'rconn', 'data-id': r.id, 'data-family': g.family,
+            'data-predicate': r.shown ? (r.predicate || '') : '', 'data-side': r.side || '',
+          },
+            h('span', { class: 'rverb' }, r.verb), ' ', dir, dir ? ' ' : '',
             /* the id is a route, so the brief is navigable and C1 has something to
                check on this page; it still prints as its own label on paper */
             h('a', { href: '#/n/' + r.id }, r.label), ': ',

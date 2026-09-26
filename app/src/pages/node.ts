@@ -314,12 +314,12 @@ export async function renderNode(view: HTMLElement, id: string): Promise<void> {
     main.append(d);
   }
 
-  /* ---- right column: sourced connections, grouped by relationship -------- */
+  /* ---- right column: sourced connections, grouped by relationship family --- */
   const groups = groupConnections(rec.connections);
   const counterparts = new Set(rec.connections.map((c) => c.id)).size;
   side.append(h('div', { class: 'crumb conn-crumb', style: 'margin-bottom:6px' },
     h('span', { class: 'eyebrow' }, 'Sourced connections'),
-    h('span', { class: 'dim' }, rec.connections.length + ' links · ' + counterparts + ' counterparts · ' + groups.length + ' kinds')));
+    h('span', { class: 'dim' }, rec.connections.length + ' links · ' + counterparts + ' counterparts · ' + groups.length + (groups.length === 1 ? ' family' : ' families'))));
   side.append(renderConnGroups(groups));
 }
 

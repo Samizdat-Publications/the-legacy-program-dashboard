@@ -9,7 +9,7 @@
  * Nothing here invents a relationship. A pair is in this file only because the
  * board already carries it.
  */
-import { edgeTypeName } from '../vocab';
+import { familyName } from '../vocab';
 import { loadIndex, loadMap, loadNode, type IndexNode } from '../data';
 
 const BASE = import.meta.env.BASE_URL;
@@ -63,6 +63,9 @@ export interface Entry {
   hop: 1 | 2 | 3;
   kind: 'member' | 'map' | 'outer';
   edgeType: string | null;
+  /* the relationship family of the hop-1 link (phase 7), which colours the line
+     and names the link; null beyond hop 1 */
+  family: string | null;
   claimTier: number | null;
   derived: boolean;
   suffix: string;
@@ -75,6 +78,9 @@ export interface Hood {
   hop2: Entry[];
   hop3: Entry[];
   derivedIds: Set<string>;
+  /* the families the centre's own links fall under, unfiltered, with the number
+     of neighbours in each: what the family filter offers */
+  families: { id: string; n: number }[];
   /* every id in the hop-1 ∪ hop-2 ∪ hop-3 sets, for C10 */
   parentOf: Map<string, string>;
 }
@@ -91,12 +97,12 @@ function cmp(a: Entry, b: Entry): number {
 
 function entry(
   meta: IndexNode, hop: 1 | 2 | 3, kind: Entry['kind'],
-  edgeType: string | null, claimTier: number | null, derived: boolean,
+  edgeType: string | null, claimTier: number | null, derived: boolean, family: string | null = null,
 ): Entry {
   let suffix: string;
   if (hop === 1) {
-    /* the relationship in the vocabulary's reader words, never the raw type id */
-    suffix = (kind === 'map' && edgeType ? (edgeType === 'denial' ? 'denial' : edgeTypeName(edgeType).label.toLowerCase()) + ' ' : '') + 'T' + (claimTier ?? '?');
+    /* the relationship family in the vocabulary's reader words, never a raw id */
+    suffix = (kind === 'map' && family ? familyName(family).label.toLowerCase() + ' ' : '') + 'T' + (claimTier ?? '?');
   } else {
     const steps = hop === 2 ? 'two steps' : 'three steps';
     suffix = derived ? steps + ', shared member' : steps;
@@ -104,7 +110,7 @@ function entry(
   return {
     id: meta.id, label: meta.short || meta.label, full: meta.label,
     cls: meta.cls, dateStart: meta.dateStart,
-    l0: meta.l0, hop, kind, edgeType, claimTier, derived, suffix,
+    l0: meta.l0, hop, kind, edgeType, family, claimTier, derived, suffix,
   };
 }
 
@@ -122,31 +128,44 @@ export async function startHereHood(flags: { id: string; rank: number }[]): Prom
   }
   return {
     centre: null, centreLabel: 'pick a node',
-    hop1, hop2: [], hop3: [], derivedIds: new Set(), parentOf: new Map(),
+    hop1, hop2: [], hop3: [], derivedIds: new Set(), parentOf: new Map(), families: [],
   };
 }
 
-export async function buildHood(id: string, hops: 1 | 2 | 3, derived: boolean): Promise<Hood> {
+/* `family`, when set, keeps hop 1 to the neighbours linked through that family
+   (the page's family filter), and hops 2 and 3 walk out from those alone. */
+export async function buildHood(id: string, hops: 1 | 2 | 3, derived: boolean, family: string | null = null): Promise<Hood> {
   const idx = await loadIndex();
   const by = new Map(idx.nodes.map((n) => [n.id, n]));
   const centre = by.get(id) || null;
   const rec = await loadNode(id);
+
+  /* ---- the families on offer, before any filter -------------------------- */
+  const famN = new Map<string, Set<string>>();
+  for (const c of rec.connections) {
+    const f = c.family || 'other';
+    if (!famN.has(f)) famN.set(f, new Set());
+    famN.get(f)!.add(c.id);
+  }
+  const families = [...famN.entries()].map(([fid, ids]) => ({ id: fid, n: ids.size }));
 
   /* ---- hop 1: the node's own sourced edges, deduplicated by neighbour ---- */
   const seen = new Map<string, Entry>();
   for (const c of rec.connections) {
     const m = by.get(c.id);
     if (!m) continue;
+    const fam = c.family || 'other';
+    if (family && fam !== family) continue;
     const prev = seen.get(c.id);
     if (prev) {
       /* two sourced edges to the same neighbour: the denial is the one that
          must show, and otherwise the first stands. */
-      if (c.type === 'denial' && prev.edgeType !== 'denial') {
-        seen.set(c.id, entry(m, 1, m.l0 ? 'map' : 'member', c.type, c.claimTier, false));
+      if (fam === 'denial' && prev.family !== 'denial') {
+        seen.set(c.id, entry(m, 1, m.l0 ? 'map' : 'member', c.type, c.claimTier, false, fam));
       }
       continue;
     }
-    seen.set(c.id, entry(m, 1, m.l0 ? 'map' : 'member', c.type, c.claimTier, false));
+    seen.set(c.id, entry(m, 1, m.l0 ? 'map' : 'member', c.type, c.claimTier, false, fam));
   }
   const hop1 = [...seen.values()].sort(cmp);
   const s1 = new Set(hop1.map((e) => e.id));
@@ -168,7 +187,9 @@ export async function buildHood(id: string, hops: 1 | 2 | 3, derived: boolean): 
     /* derived pairs: two map nodes sharing members below the floor. They are a
        two-hop relationship and are drawn as one; DERIVED switches them off. */
     const mp = (await loadMap()) as unknown as MapWithSummarised;
-    for (const p of mp.summarised || []) {
+    /* a family filter keeps to sourced links of that family, so the derived
+       pairs, which belong to no family, stay out while it is on */
+    for (const p of family ? [] : mp.summarised || []) {
       const other = p.a === id ? p.b : p.b === id ? p.a : null;
       if (!other || other === id || s1.has(other)) continue;
       derivedIds.add(other);
@@ -207,14 +228,15 @@ export async function buildHood(id: string, hops: 1 | 2 | 3, derived: boolean): 
   return {
     centre,
     centreLabel: centre ? (centre.short || centre.label) : id,
-    hop1, hop2, hop3, derivedIds, parentOf,
+    hop1, hop2, hop3, derivedIds, parentOf, families,
   };
 }
 
 /* Edge colour by type. Denial red, custody and funding amber, everything else
    the member/map cyan. The type comes from the edge, never from a guess. */
-export function edgeColour(type: string | null): string {
-  if (type === 'denial') return 'var(--red)';
-  if (type === 'custody' || type === 'funding') return 'var(--amber)';
+/* the line colour of a hop-1 link, by its relationship family (phase 7) */
+export function edgeColour(family: string | null): string {
+  if (family === 'denial') return 'var(--red)';
+  if (family === 'custody' || family === 'money') return 'var(--amber)';
   return 'var(--cyan)';
 }

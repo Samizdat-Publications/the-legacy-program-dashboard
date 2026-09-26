@@ -26,3 +26,22 @@ export const NO_SENTENCE: string = vocab.noSentence;
 export function edgeTypeName(id: string): EdgeTypeName {
   return EDGE_TYPES.find((t) => t.id === id) || { id, label: id, blurb: '', layer: 'context' };
 }
+
+/* ---- the relationship families (redesign phase 7) --------------------------
+   Families replace the layers as the grouping on the page. The family is the
+   reliable unit of the classification (notes/plans/P7-classification-record.md);
+   a predicate's own label shows only where its confidence is high, and the
+   generator has already put the right words in each connection's `verb`. The
+   families are read from schema/vocab.json; check C22 restates them. */
+export interface FamilyName { id: string; label: string; blurb: string; phrase: string; }
+
+export const FAMILIES: FamilyName[] = vocab.predicateFamilies.map((f) => ({
+  id: f.id, label: f.label, blurb: f.blurb, phrase: f.phrase,
+}));
+
+export function familyName(id: string | null | undefined): FamilyName {
+  return FAMILIES.find((f) => f.id === id) || { id: id || 'other', label: 'Other links', blurb: '', phrase: 'is connected to' };
+}
+
+/* the reading order of predicates inside a family: the vocabulary's own order */
+export const PREDICATE_ORDER: string[] = vocab.predicates.map((p) => p.id);

@@ -58,6 +58,12 @@ export interface Connection {
   type: string; claimTier: number | null; note?: string; edgeLabel?: string;
   dateStart: string | null; dateEnd: string | null;
   sources: Source[]; direction: 'out' | 'in';
+  /* phase 7: the controlled predicate and its family; `verb` is the words to
+     print from THIS node's side (the predicate's label where `predicateShown`,
+     the family's neutral phrase otherwise); `predicateSide` says whether this
+     node is the predicate's subject, its object, or either (symmetric). */
+  predicate?: string | null; family?: string | null; verb?: string | null;
+  predicateSide?: 'subject' | 'object' | 'either' | null; predicateShown?: boolean;
 }
 
 /* `a` and `b` are the edge's two ends in record order. `by` and `of` are set only
