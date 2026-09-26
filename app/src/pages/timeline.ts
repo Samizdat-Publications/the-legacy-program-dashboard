@@ -177,6 +177,8 @@ function header(c: Ctx, bad: string[]): HTMLElement {
   ];
   if (c.scopeLabel || c.topicLabel || c.strand) bits.push(c.events.length + ' in view');
   if (openEra) bits.push('era ' + openEra.label + ' open');
+  const later = c.events.filter((e) => e.era === c.eraId && scheduled(c, e)).length;
+  if (later) bits.push(later + (later === 1 ? ' event is' : ' events are') + ' dated after the board’s date of ' + c.present + ': scheduled, marked in amber');
   bits.push('click an event to read it; a count opens the events it stands for');
 
   const line = h('div', { class: 'tl-head' },
@@ -299,9 +301,9 @@ function fill(c: Ctx, panel: HTMLElement): void {
   const top = first.getBoundingClientRect().top;
   const room = Math.max(240, window.innerHeight - top - 28);
   const perLane = room / c.lanes.length;
-  /* at least five rows a lane: with eleven lanes the page scrolls rather than
+  /* at least eight rows a lane: with eleven lanes the page scrolls rather than
      leaving most events behind a count */
-  const chipRowBudget = Math.max(5, Math.min(14, Math.floor((perLane - 30) / ROW_PITCH)));
+  const chipRowBudget = Math.max(8, Math.min(14, Math.floor((perLane - 30) / ROW_PITCH)));
 
   const era = c.eras.filter((e) => e.id === c.eraId)[0];
   const inEra = c.events.filter((e) => e.era === c.eraId);
@@ -375,8 +377,8 @@ function paintLane(c: Ctx, pack: HTMLElement, lay: LaneLayout, slots: YearSlot[]
       const sched = scheduled(c, ev);
       const b = h('button', {
         type: 'button',
-        class: 'tl-chip' + (sched ? ' sched' : '') + (pick && pick.kind === 'event' && pick.id === ev.id ? ' on' : ''),
-        style: pos + ';border-left-color:' + colour,
+        class: 'tl-chip' + (it.right ? ' right' : '') + (sched ? ' sched' : '') + (pick && pick.kind === 'event' && pick.id === ev.id ? ' on' : ''),
+        style: pos + ';' + (it.right ? 'border-right-color:' : 'border-left-color:') + colour,
         title: when(ev) + (sched ? ' · scheduled' : '') + (n ? ' · ' + n.label : ''),
         'data-tl-item': '1', 'data-kind': 'chip', 'data-id': ev.id, 'data-era': ev.era,
         'data-section': lane.id, 'data-scheduled': sched ? '1' : null,

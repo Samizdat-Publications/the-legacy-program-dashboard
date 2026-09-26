@@ -83,6 +83,8 @@ export const CHIP_H = 15;
 export const CHIP_PAD = 14;
 export const ROW_PITCH = 18;
 export const CHIP_GAP = 6;
+/* how far past its date a right-anchored chip may end: its own rule's width */
+export const MARK_ROOM = 3;
 
 export interface YearSlot { year: number; x: number; w: number; open: boolean }
 
@@ -151,6 +153,7 @@ export interface Item {
   w: number;
   h: number;
   row: number;
+  right?: boolean;            /* a chip that ends at its date rather than starting there */
 }
 
 export interface LaneLayout {
@@ -199,21 +202,32 @@ export function packLane(lane: Lane, events: TEvent[], o: PackOpts): LaneLayout 
 
   for (const ev of evs) {
     const text = ev.label || '';
-    const x = eventX(ev, o.slots);
+    const at = eventX(ev, o.slots);
     const w = Math.ceil(textWidth(text)) + CHIP_PAD;
+    /* A chip starts at its date. Where the column ends before its label does,
+       it ENDS at its date instead (right-anchored, its class rule on the right),
+       so the last years of an era are named rather than counted (blind critic,
+       phase 9 round 1: four 2026 events of a lane were a bare "+4"). */
+    const tries: { x: number; right: boolean }[] = [];
+    if (at + w <= o.width) tries.push({ x: at, right: false });
+    else {
+      const end = Math.min(o.width, at + MARK_ROOM);
+      if (end - w >= 0) tries.push({ x: end - w, right: true });
+    }
     let placed = false;
-    if (text && x + w <= o.width) {
-      for (let r = 0; r < o.chipRowBudget; r++) {
+    for (const t of text ? tries : []) {
+      const x = t.x;
+      for (let r = 0; r < o.chipRowBudget && !placed; r++) {
         if (!rows[r]) rows[r] = [];
         let clash = false;
         for (const b of rows[r]) if (x < b.x1 + CHIP_GAP && x + w + CHIP_GAP > b.x0) { clash = true; break; }
         if (clash) continue;
         rows[r].push({ x0: x, x1: x + w });
-        items.push({ kind: 'chip', ev, evs: [ev], year: yearOf(ev), x, y: r * ROW_PITCH, w, h: CHIP_H, row: r });
+        items.push({ kind: 'chip', ev, evs: [ev], year: yearOf(ev), x, y: r * ROW_PITCH, w, h: CHIP_H, row: r, right: t.right });
         chips++;
         placed = true;
-        break;
       }
+      if (placed) break;
     }
     if (!placed) {
       const y = yearOf(ev);

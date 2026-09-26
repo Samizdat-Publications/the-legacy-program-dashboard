@@ -139,6 +139,8 @@ a.tl-era:hover .tl-era-label { color: var(--text); }
   text-overflow: clip;
 }
 .tl-chip { font-family: inherit; text-align: left; cursor: pointer; }
+/* a chip that ends at its date: the class rule moves to the right edge */
+.tl-chip.right { border-left-width: 1px; border-left-color: var(--line2); border-right-width: 3px; border-right-style: solid; padding: 0 5px 0 6px; text-align: right; }
 .tl-chip:hover, .tl-chip:focus-visible { border-color: var(--cyan); border-left-color: var(--cyan); }
 .tl-chip.on { border-color: var(--amber); background: var(--panel2); }
 /* an event dated after the board's own date: scheduled, not happened */

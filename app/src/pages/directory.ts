@@ -20,7 +20,7 @@ import '../styles/directory.css';
 import { h, clear, mark } from '../dom';
 import { setTitle } from '../router';
 import {
-  loadIndex, loadTopics, loadFacets, clsColour, dateRange,
+  loadIndex, loadTopics, loadFacets, clsColour,
   type IndexNode, type TopicsFile, type FacetsFile, type PersonFacets,
 } from '../data';
 
@@ -279,7 +279,7 @@ export async function renderDirectory(view: HTMLElement, dir: string, q: URLSear
   };
   const heads: HTMLElement[] = [th('name', 'NAME', 'c-name')];
   if (people) heads.push(th(null, 'ROLES', 'c-roles'), th(null, 'STATUS', 'c-status'), th(null, 'UNDER OATH', 'c-oath'));
-  heads.push(th('date', 'DATES', 'c-date'), th('topic', 'PRIMARY TOPIC', 'c-topic'),
+  heads.push(th('date', people ? 'DATE' : 'DATES', 'c-date'), th('topic', 'PRIMARY TOPIC', 'c-topic'),
     th('claims', 'CLAIMS T1 · T2 · T3', 'c-claims'), th('links', 'LINKS', 'c-links'));
   const table = h('table', { class: 'dir-table' + (people ? ' people' : '') },
     h('thead', null, h('tr', null, ...heads)));
@@ -311,13 +311,17 @@ function row(r: Row, people: boolean, ttitle: Map<string, string>, stitle: Map<s
       !f || f.underOath === UNK ? h('span', { class: 'faint' }, 'not stated')
         : f.underOath === 'yes' ? 'under oath' : 'record says not'));
   }
-  tr.append(h('td', { class: 'c-date', 'data-h': 'dates' },
-    n.dateStart || n.dateEnd ? dateRange(n.dateStart, n.dateEnd) : h('span', { class: 'faint' }, 'no date recorded'),
-    h('span', { class: 'faint dir-era' }, ' · ' + (eraLabel.get(n.era) || n.era))));
+  /* the era on its own line, named as the era, so "1946 · THROUGH 1969" is
+     never read as a span (blind critic, phase 9 round 1) */
+  const d = n.dateStart && n.dateEnd && n.dateStart !== n.dateEnd ? n.dateStart + ' to ' + n.dateEnd
+    : n.dateStart || n.dateEnd || '';
+  tr.append(h('td', { class: 'c-date', 'data-h': people ? 'date' : 'dates' },
+    d || h('span', { class: 'faint' }, 'no date recorded'),
+    h('span', { class: 'faint dir-era' }, 'era ' + (eraLabel.get(n.era) || n.era))));
   tr.append(h('td', { class: 'c-topic', 'data-h': 'primary topic' },
     r.topic ? h('a', { href: '#/topic/' + r.topic, title: stitle.get(r.section) || r.section }, ttitle.get(r.topic) || r.topic)
       : h('span', { class: 'faint' }, 'in no topic')));
-  tr.append(h('td', { class: 'c-claims', 'data-h': 'claims' },
+  tr.append(h('td', { class: 'c-claims', 'data-h': 'claims T1 · T2 · T3' },
     h('span', { class: 't1' }, String(n.claims[0])), ' · ',
     h('span', { class: 't2' }, String(n.claims[1])), ' · ',
     h('span', { class: 't3' }, String(n.claims[2]))));
